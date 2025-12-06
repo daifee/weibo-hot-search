@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765049815938,
+  "endTime": 1765052953623,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -459,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60012,
+      "num": 49530,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57695,
       "num": 989000,
       "word": "F1",
@@ -473,14 +481,6 @@
       "onboard_time": 1765029804,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49530,
-      "num": 49530,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 49524,
@@ -515,20 +515,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40541,
+      "num": 71189,
+      "word": "下周大范围雨雨雨雪雪雪",
+      "onboard_time": 1765046777,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33213,
       "num": 102422,
       "word": "铜价冲破11500美元",
       "onboard_time": 1765041678,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 29111,
-      "num": 71189,
-      "word": "下周大范围雨雨雨雪雪雪",
-      "onboard_time": 1765046777,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20556,
@@ -544,6 +544,14 @@
       "word": "足协杯",
       "onboard_time": 1765017801,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17618,
+      "num": 35446,
+      "word": "世界杯抽签仪式",
+      "onboard_time": 1765050974,
+      "rank": 38,
       "category": "体育"
     },
     {

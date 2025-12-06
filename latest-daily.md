@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/07 03:36:55
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/07 04:29:13
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ AG对战TE（热度：61943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E4%B8%BB%E6%8C%81%23" target="weibo">
+朱丹主持（热度：60012）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F1%23" target="weibo">
 F1（热度：57695）
 </a>
@@ -365,12 +371,6 @@ F1（热度：57695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%81%B6%E9%81%87%E7%94%A8%E9%95%9C%E5%AD%90%E5%8F%8D%E5%B0%84%E5%85%89%E7%BB%99%E5%A4%A7%E4%BD%9B%E6%9A%96%E9%BC%BB%E5%AD%90%23" target="weibo">
 游客偶遇用镜子反射光给大佛暖鼻子（热度：54598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E4%B8%BB%E6%8C%81%23" target="weibo">
-朱丹主持（热度：49530）
 </a>
 </li>
 
@@ -399,14 +399,14 @@ F1（热度：57695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%9C%E4%BB%B7%E5%86%B2%E7%A0%B411500%E7%BE%8E%E5%85%83%23" target="weibo">
-铜价冲破11500美元（热度：33213）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%91%A8%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%AA%E9%9B%AA%E9%9B%AA%23" target="weibo">
+下周大范围雨雨雨雪雪雪（热度：40541）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%91%A8%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%AA%E9%9B%AA%E9%9B%AA%23" target="weibo">
-下周大范围雨雨雨雪雪雪（热度：29111）
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%9C%E4%BB%B7%E5%86%B2%E7%A0%B411500%E7%BE%8E%E5%85%83%23" target="weibo">
+铜价冲破11500美元（热度：33213）
 </a>
 </li>
 
@@ -419,6 +419,12 @@ F1（热度：57695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%B3%E5%8D%8F%E6%9D%AF%23" target="weibo">
 足协杯（热度：19867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E4%BB%AA%E5%BC%8F%23" target="weibo">
+世界杯抽签仪式（热度：17618）
 </a>
 </li>
 
