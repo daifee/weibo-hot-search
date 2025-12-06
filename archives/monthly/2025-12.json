@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765039532059,
+  "endTime": 1765041787104,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -16,6 +16,14 @@
       "word": "尖叫之夜红毯",
       "onboard_time": 1765003762,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4049212,
+      "num": 4049212,
+      "word": "爱奇艺道歉",
+      "onboard_time": 1765037902,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1764910701,
       "rank": 3,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 2802066,
-      "num": 2802066,
-      "word": "爱奇艺道歉",
-      "onboard_time": 1765037902,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 2440776,
@@ -233,6 +233,14 @@
       "onboard_time": 1764922401,
       "rank": 1,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1618218,
+      "num": 232082,
+      "word": "爱奇艺把刘诗诗的奖换成了白鹿",
+      "onboard_time": 1765039280,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1605556,
@@ -2027,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 528316,
-      "num": 232082,
-      "word": "爱奇艺把刘诗诗的奖换成了白鹿",
-      "onboard_time": 1765039280,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 526347,
       "num": 350566,
       "word": "香港宣布拆除所有大维修的楼宇棚网",
@@ -2345,6 +2345,14 @@
       "onboard_time": 1764939502,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485207,
+      "num": 217670,
+      "word": "泰国弃婴遭巨蜥啃食",
+      "onboard_time": 1765037062,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 484560,
@@ -4563,14 +4571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293456,
-      "num": 217670,
-      "word": "泰国弃婴遭巨蜥啃食",
-      "onboard_time": 1765037062,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 293331,
       "num": 245479,
       "word": "这居然是陈妍希画的",
@@ -5627,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234837,
+      "num": 193125,
+      "word": "杨志刚获奖感言",
+      "onboard_time": 1765039580,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "方圆拍短剧花钱找配音",
@@ -6425,6 +6433,14 @@
       "onboard_time": 1765025364,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206913,
+      "num": 193077,
+      "word": "李一桐领奖哭了",
+      "onboard_time": 1765039340,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 206888,
@@ -12753,6 +12769,14 @@
       "onboard_time": 1765038861,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117676,
+      "num": 117676,
+      "word": "翟子路 闯祸乐子人",
+      "onboard_time": 1765040239,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 117667,
@@ -19945,6 +19969,14 @@
       "onboard_time": 1764679881,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33213,
+      "num": 102422,
+      "word": "铜价冲破11500美元",
+      "onboard_time": 1765041678,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 33070,

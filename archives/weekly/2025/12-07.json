@@ -1,7 +1,15 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765039532059,
+  "endTime": 1765041787104,
   "band_list": [
+    {
+      "raw_hot": 4049212,
+      "num": 4049212,
+      "word": "爱奇艺道歉",
+      "onboard_time": 1765037902,
+      "rank": 11,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4021201,
       "num": 317018,
@@ -11,19 +19,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2802066,
-      "num": 2802066,
-      "word": "爱奇艺道歉",
-      "onboard_time": 1765037902,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2424268,
       "num": 308582,
       "word": "白鹿尖叫女演员",
       "onboard_time": 1765037182,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1618218,
+      "num": 232082,
+      "word": "爱奇艺把刘诗诗的奖换成了白鹿",
+      "onboard_time": 1765039280,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -67,12 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 528316,
-      "num": 232082,
-      "word": "爱奇艺把刘诗诗的奖换成了白鹿",
-      "onboard_time": 1765039280,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 485207,
+      "num": 217670,
+      "word": "泰国弃婴遭巨蜥啃食",
+      "onboard_time": 1765037062,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 447286,
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293456,
-      "num": 217670,
-      "word": "泰国弃婴遭巨蜥啃食",
-      "onboard_time": 1765037062,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 285211,
       "num": 285211,
       "word": "于和伟 握烟",
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234837,
+      "num": 193125,
+      "word": "杨志刚获奖感言",
+      "onboard_time": 1765039580,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221762,
       "num": 221762,
       "word": "丁禹兮评论了张函瑞",
@@ -208,6 +216,14 @@
       "word": "李兰迪替敖瑞鹏剧宣",
       "onboard_time": 1765037482,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206913,
+      "num": 193077,
+      "word": "李一桐领奖哭了",
+      "onboard_time": 1765039340,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1765035863,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167902,
+      "num": 167902,
+      "word": "虞书欣雨爱",
+      "onboard_time": 1765028184,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 163536,
@@ -305,6 +329,14 @@
       "onboard_time": 1765038861,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117676,
+      "num": 117676,
+      "word": "翟子路 闯祸乐子人",
+      "onboard_time": 1765040239,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 113241,
@@ -419,12 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33213,
+      "num": 102422,
+      "word": "铜价冲破11500美元",
+      "onboard_time": 1765041678,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 20556,
       "num": 308975,
       "word": "中国航天又一次成功发射",
       "onboard_time": 1765028425,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19625,
+      "num": 193153,
+      "word": "足协杯",
+      "onboard_time": 1765017801,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 2370,
