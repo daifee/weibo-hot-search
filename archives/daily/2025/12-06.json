@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765020149155,
+  "endTime": 1765021007197,
   "band_list": [
     {
       "raw_hot": 4647608,
@@ -19,6 +19,14 @@
       "category": "民生新闻,综艺"
     },
     {
+      "raw_hot": 1691756,
+      "num": 1691756,
+      "word": "杨幂 妈幂降临",
+      "onboard_time": 1765019783,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1319314,
       "num": 800383,
       "word": "大家好我是尹正我演鬼子",
@@ -32,6 +40,14 @@
       "word": "林允红毯摔倒",
       "onboard_time": 1765007481,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1148807,
+      "num": 1148807,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1765019601,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 881039,
-      "num": 881039,
-      "word": "杨幂 妈幂降临",
-      "onboard_time": 1765019783,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 855019,
       "num": 538758,
       "word": "张雪峰复播后仍污言秽语",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643839,
+      "num": 308533,
+      "word": "尖叫之夜座位",
+      "onboard_time": 1765019601,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626325,
       "num": 626325,
       "word": "妻子回应朱孝天被退出F4",
@@ -217,6 +233,14 @@
       "onboard_time": 1764978737,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586679,
+      "num": 290877,
+      "word": "任嘉伦宋祖儿尖叫之夜红毯生图",
+      "onboard_time": 1765020323,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 575581,
@@ -289,14 +313,6 @@
       "onboard_time": 1764992600,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 515489,
-      "num": 515489,
-      "word": "尖叫之夜内场",
-      "onboard_time": 1765019601,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 514580,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 410453,
-      "num": 1907234,
+      "num": 2109392,
       "word": "杭州师范大学通报调查结果",
       "onboard_time": 1765012283,
       "rank": 9,
@@ -787,8 +803,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245631,
-      "num": 1522628,
+      "raw_hot": 247418,
+      "num": 2448839,
       "word": "LPL",
       "onboard_time": 1765016903,
       "rank": 7,
@@ -817,6 +833,14 @@
       "onboard_time": 1765012342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242381,
+      "num": 242381,
+      "word": "荷兰经济部长承认未能预见中方反击",
+      "onboard_time": 1765019243,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240606,
@@ -923,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215358,
-      "num": 201441,
-      "word": "荷兰经济部长承认未能预见中方反击",
-      "onboard_time": 1765019243,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 215030,
       "num": 215030,
       "word": "白月梵星红毯",
@@ -961,6 +977,14 @@
       "onboard_time": 1764979100,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206243,
+      "num": 480446,
+      "word": "爸爸把女儿第一次上学拍成了纪录片",
+      "onboard_time": 1765018582,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 206190,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1765002500,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197215,
-      "num": 480446,
-      "word": "爸爸把女儿第一次上学拍成了纪录片",
-      "onboard_time": 1765018582,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 196477,
@@ -1180,7 +1196,7 @@
     },
     {
       "raw_hot": 185923,
-      "num": 206682,
+      "num": 322334,
       "word": "混团",
       "onboard_time": 1765019663,
       "rank": 27,
@@ -1707,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142304,
+      "num": 152387,
+      "word": "这些食物二次加热危害极大",
+      "onboard_time": 1765018101,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 142215,
       "num": 142215,
       "word": "陶喆已经练成这样了",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1764939502,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141195,
-      "num": 152387,
-      "word": "这些食物二次加热危害极大",
-      "onboard_time": 1765018101,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 141166,
@@ -1947,6 +1963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129673,
+      "num": 564068,
+      "word": "国乒8比4瑞典",
+      "onboard_time": 1765019422,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128650,
       "num": 209658,
       "word": "王楚钦孙颖莎这一球对手教练沉默了",
@@ -2075,6 +2099,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 116790,
+      "num": 243516,
+      "word": "足协杯",
+      "onboard_time": 1765017801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116123,
       "num": 116123,
       "word": "龚俊对嬷嬷的态度",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1764980180,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109416,
+      "num": 109416,
+      "word": "孙颖莎王楚钦轮休",
+      "onboard_time": 1765019182,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108930,
@@ -2297,14 +2337,6 @@
       "onboard_time": 1764998481,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99788,
-      "num": 151008,
-      "word": "足协杯",
-      "onboard_time": 1765017801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 99638,
@@ -2539,14 +2571,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 81668,
-      "num": 564068,
-      "word": "国乒8比4瑞典",
-      "onboard_time": 1765019422,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80661,
       "num": 80661,
       "word": "傅园慧妈妈帮她扎头发",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1764982220,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77874,
+      "num": 252151,
+      "word": "高中生捐赠日军罪证",
+      "onboard_time": 1765018822,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76922,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1764976877,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74862,
+      "num": 417292,
+      "word": "驻日美军猥亵少女日本也是帮凶",
+      "onboard_time": 1765019422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74599,
@@ -2747,20 +2787,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 62540,
-      "num": 201514,
-      "word": "高中生捐赠日军罪证",
-      "onboard_time": 1765018822,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62366,
       "num": 111343,
       "word": "深圳公积金提取新规12月15日施行",
       "onboard_time": 1764946222,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60970,
+      "num": 388480,
+      "word": "于正回应没宣传陈妍希周柯宇新剧",
+      "onboard_time": 1765019783,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 59914,
@@ -3147,14 +3187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31814,
-      "num": 388480,
-      "word": "于正回应没宣传陈妍希周柯宇新剧",
-      "onboard_time": 1765019783,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30489,
       "num": 36918,
       "word": "十人部落",
@@ -3195,14 +3227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26567,
-      "num": 417292,
-      "word": "驻日美军猥亵少女日本也是帮凶",
-      "onboard_time": 1765019422,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26116,
       "num": 150655,
       "word": "中国航海家翟墨南极行途中遭洗劫",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 19231,
+      "num": 294624,
+      "word": "男子缅北逃跑肋骨被打断刺伤心脏",
+      "onboard_time": 1765020625,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17178,
@@ -3331,6 +3363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 10004,
+      "num": 134258,
+      "word": "水库冰面下发现13匹冰冻马",
+      "onboard_time": 1765020562,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7660,
       "num": 818780,
       "word": "做好6件事保护呼吸道",
@@ -3339,7 +3379,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4489,
+      "raw_hot": 4921,
       "num": 3518983,
       "word": "C909飞机已交付174架",
       "onboard_time": 1764923901,
