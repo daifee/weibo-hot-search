@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765021007197,
+  "endTime": 1765025457456,
   "band_list": [
     {
       "raw_hot": 4647608,
@@ -17,6 +17,22 @@
       "onboard_time": 1765018101,
       "rank": 0,
       "category": "民生新闻,综艺"
+    },
+    {
+      "raw_hot": 1893108,
+      "num": 329151,
+      "word": "杨幂白鹿 内场双C",
+      "onboard_time": 1765021521,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1698663,
+      "num": 1698663,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1765019601,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1691756,
@@ -40,14 +56,6 @@
       "word": "林允红毯摔倒",
       "onboard_time": 1765007481,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1148807,
-      "num": 1148807,
-      "word": "尖叫之夜内场",
-      "onboard_time": 1765019601,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 643839,
-      "num": 308533,
+      "num": 372885,
       "word": "尖叫之夜座位",
       "onboard_time": 1765019601,
       "rank": 13,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 586679,
-      "num": 290877,
+      "num": 356085,
       "word": "任嘉伦宋祖儿尖叫之夜红毯生图",
       "onboard_time": 1765020323,
       "rank": 20,
@@ -305,6 +313,14 @@
       "onboard_time": 1765006760,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 520276,
+      "num": 360320,
+      "word": "水库冰面下发现13匹冰冻马",
+      "onboard_time": 1765020562,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516343,
@@ -387,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 445855,
+      "num": 321015,
+      "word": "张凌赫刘宇宁 两个大长腿",
+      "onboard_time": 1765024464,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437648,
       "num": 437648,
       "word": "十个勤天整整齐齐穿西装",
@@ -433,6 +457,14 @@
       "onboard_time": 1765012283,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 408678,
+      "num": 265975,
+      "word": "女版张凌赫",
+      "onboard_time": 1765021102,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 407723,
@@ -489,6 +521,22 @@
       "onboard_time": 1765011142,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383085,
+      "num": 417292,
+      "word": "驻日美军猥亵少女日本也是帮凶",
+      "onboard_time": 1765019422,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 381958,
+      "num": 269202,
+      "word": "白鹿走了三次红毯",
+      "onboard_time": 1765019844,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 376043,
@@ -619,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315344,
-      "num": 151573,
-      "word": "白鹿走了三次红毯",
-      "onboard_time": 1765019844,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 319781,
+      "num": 319781,
+      "word": "木薯糖水",
+      "onboard_time": 1765023683,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 311401,
@@ -665,6 +713,14 @@
       "onboard_time": 1765007842,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293314,
+      "num": 293314,
+      "word": "刘敏涛说肖战给你点个赞",
+      "onboard_time": 1765021521,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 293183,
@@ -715,11 +771,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269508,
+      "num": 269508,
+      "word": "木薯糖水中毒",
+      "onboard_time": 1765024041,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266790,
       "num": 209008,
       "word": "田曦薇飞吻",
       "onboard_time": 1765015404,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265120,
+      "num": 265120,
+      "word": "影后春夏变化好大",
+      "onboard_time": 1765023564,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 259160,
-      "num": 205866,
+      "num": 206969,
       "word": "侯明昊 深v蛇骨链",
       "onboard_time": 1765011502,
       "rank": 32,
@@ -836,7 +908,7 @@
     },
     {
       "raw_hot": 242381,
-      "num": 242381,
+      "num": 268840,
       "word": "荷兰经济部长承认未能预见中方反击",
       "onboard_time": 1765019243,
       "rank": 30,
@@ -979,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207115,
+      "num": 207115,
+      "word": "马琳琳刷新个人自由滑最好成绩",
+      "onboard_time": 1765025364,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206243,
       "num": 480446,
       "word": "爸爸把女儿第一次上学拍成了纪录片",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1765002500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197191,
+      "num": 207030,
+      "word": "黄景瑜 穿薄底鞋的神",
+      "onboard_time": 1765024583,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 196477,
@@ -1259,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183200,
+      "num": 268236,
+      "word": "镇政府让企业捐200万换正常经营",
+      "onboard_time": 1765024223,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182410,
       "num": 182410,
       "word": "得闲谨制排片",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1764976157,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181297,
+      "num": 206849,
+      "word": "尖叫之夜 嗑CP",
+      "onboard_time": 1765025003,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 181207,
@@ -1427,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163844,
+      "num": 206830,
+      "word": "嗑到孙千向涵之了",
+      "onboard_time": 1765023503,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162837,
       "num": 191439,
       "word": "国乒混团世界杯八连胜",
@@ -1449,6 +1561,14 @@
       "onboard_time": 1765004421,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161998,
+      "num": 267603,
+      "word": "男子失踪240多天最后通话称没路了",
+      "onboard_time": 1765023022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161051,
@@ -1603,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150121,
+      "num": 206554,
+      "word": "丁禹兮 今晚吃了什么给我参考参考",
+      "onboard_time": 1765023984,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149885,
       "num": 149885,
       "word": "得闲谨制 兰晓龙台词",
@@ -1724,7 +1852,7 @@
     },
     {
       "raw_hot": 142304,
-      "num": 152387,
+      "num": 217473,
       "word": "这些食物二次加热危害极大",
       "onboard_time": 1765018101,
       "rank": 38,
@@ -1939,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130608,
+      "num": 206527,
+      "word": "王楚然丞磊拍了love",
+      "onboard_time": 1765025364,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130594,
       "num": 130594,
       "word": "老干妈不需要创新",
@@ -2131,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113796,
+      "num": 217472,
+      "word": "福州肉燕的燕是什么",
+      "onboard_time": 1765025065,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113244,
       "num": 113244,
       "word": "杨幂 爽文",
@@ -2251,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105428,
+      "num": 294624,
+      "word": "男子缅北逃跑肋骨被打断刺伤心脏",
+      "onboard_time": 1765020625,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105365,
       "num": 105365,
       "word": "阿富汗巴基斯坦交火",
@@ -2283,6 +2435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103333,
+      "num": 333376,
+      "word": "Tarzan最大赢家",
+      "onboard_time": 1765022785,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103326,
       "num": 103326,
       "word": "黄仁勋称华为史上最强科技公司之一",
@@ -2297,6 +2457,14 @@
       "onboard_time": 1765002861,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102449,
+      "num": 210867,
+      "word": "苏翊鸣大跳台世界杯金牌",
+      "onboard_time": 1765023742,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 102281,
@@ -2376,6 +2544,14 @@
       "word": "顾客支付现金无人值守便利店拒收",
       "onboard_time": 1765015943,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94944,
+      "num": 206134,
+      "word": "重庆渐冻症女子为自己办生命告别会",
+      "onboard_time": 1765023203,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2649,14 +2825,6 @@
       "onboard_time": 1764976877,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74862,
-      "num": 417292,
-      "word": "驻日美军猥亵少女日本也是帮凶",
-      "onboard_time": 1765019422,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74599,
@@ -3147,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36140,
+      "num": 266802,
+      "word": "没人比杨幂更懂眸略",
+      "onboard_time": 1765024405,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35275,
       "num": 151001,
       "word": "67岁麦当娜街拍状态",
@@ -3227,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26370,
+      "num": 207107,
+      "word": "职校高考喜报与人名大全高度重合",
+      "onboard_time": 1765025424,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26116,
       "num": 150655,
       "word": "中国航海家翟墨南极行途中遭洗劫",
@@ -3265,14 +3449,6 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 19231,
-      "num": 294624,
-      "word": "男子缅北逃跑肋骨被打断刺伤心脏",
-      "onboard_time": 1765020625,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17178,
@@ -3361,14 +3537,6 @@
       "onboard_time": 1764940522,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 10004,
-      "num": 134258,
-      "word": "水库冰面下发现13匹冰冻马",
-      "onboard_time": 1765020562,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7660,

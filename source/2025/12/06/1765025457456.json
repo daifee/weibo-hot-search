@@ -1,0 +1,410 @@
+{
+  "runTime": 1765025457456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1698663,
+        "num": 1698663,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1765019601,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383085,
+        "num": 383085,
+        "word": "驻日美军猥亵少女日本也是帮凶",
+        "onboard_time": 1765019422,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3855,
+        "num": 377065,
+        "word": "C909飞机已交付174架",
+        "onboard_time": 1764923901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459009,
+        "num": 372885,
+        "word": "尖叫之夜座位",
+        "onboard_time": 1765019601,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124095,
+        "num": 366177,
+        "word": "徐瑛彬0比3卡尔伯格",
+        "onboard_time": 1765017861,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520276,
+        "num": 360320,
+        "word": "水库冰面下发现13匹冰冻马",
+        "onboard_time": 1765020562,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388950,
+        "num": 356085,
+        "word": "任嘉伦宋祖儿尖叫之夜红毯生图",
+        "onboard_time": 1765020323,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220001,
+        "num": 351066,
+        "word": "杭州师范大学通报调查结果",
+        "onboard_time": 1765012283,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113509,
+        "num": 340046,
+        "word": "F1",
+        "onboard_time": 1765018703,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103333,
+        "num": 333376,
+        "word": "Tarzan最大赢家",
+        "onboard_time": 1765022785,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1893108,
+        "num": 329151,
+        "word": "杨幂白鹿 内场双C",
+        "onboard_time": 1765021521,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445855,
+        "num": 321015,
+        "word": "张凌赫刘宇宁 两个大长腿",
+        "onboard_time": 1765024464,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319781,
+        "num": 319781,
+        "word": "木薯糖水",
+        "onboard_time": 1765023683,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293314,
+        "num": 293314,
+        "word": "刘敏涛说肖战给你点个赞",
+        "onboard_time": 1765021521,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269508,
+        "num": 269508,
+        "word": "木薯糖水中毒",
+        "onboard_time": 1765024041,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381958,
+        "num": 269202,
+        "word": "白鹿走了三次红毯",
+        "onboard_time": 1765019844,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195591,
+        "num": 268840,
+        "word": "荷兰经济部长承认未能预见中方反击",
+        "onboard_time": 1765019243,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183200,
+        "num": 268236,
+        "word": "镇政府让企业捐200万换正常经营",
+        "onboard_time": 1765024223,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 267603,
+        "word": "男子失踪240多天最后通话称没路了",
+        "onboard_time": 1765023022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36140,
+        "num": 266802,
+        "word": "没人比杨幂更懂眸略",
+        "onboard_time": 1765024405,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408678,
+        "num": 265975,
+        "word": "女版张凌赫",
+        "onboard_time": 1765021102,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1867264,
+        "num": 265281,
+        "word": "尖叫之夜",
+        "onboard_time": 1765018101,
+        "rank": 21,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 265120,
+        "num": 265120,
+        "word": "影后春夏变化好大",
+        "onboard_time": 1765023564,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595880,
+        "num": 261468,
+        "word": "赵今麦 好大气的五官",
+        "onboard_time": 1765018402,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173703,
+        "num": 226072,
+        "word": "爸爸把女儿第一次上学拍成了纪录片",
+        "onboard_time": 1765018582,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334455,
+        "num": 225320,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222558,
+        "num": 222558,
+        "word": "李现李一桐太配了",
+        "onboard_time": 1765017263,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217918,
+        "num": 217918,
+        "word": "檀健次尖叫之夜压轴",
+        "onboard_time": 1765018222,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120290,
+        "num": 217473,
+        "word": "这些食物二次加热危害极大",
+        "onboard_time": 1765018101,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113796,
+        "num": 217472,
+        "word": "福州肉燕的燕是什么",
+        "onboard_time": 1765025065,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71513,
+        "num": 217472,
+        "word": "大湾区大学正式成立",
+        "onboard_time": 1765006221,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217472,
+        "num": 217471,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102449,
+        "num": 210867,
+        "word": "苏翊鸣大跳台世界杯金牌",
+        "onboard_time": 1765023742,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207115,
+        "num": 207115,
+        "word": "马琳琳刷新个人自由滑最好成绩",
+        "onboard_time": 1765025364,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26370,
+        "num": 207107,
+        "word": "职校高考喜报与人名大全高度重合",
+        "onboard_time": 1765025424,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 207030,
+        "word": "黄景瑜 穿薄底鞋的神",
+        "onboard_time": 1765024583,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191677,
+        "num": 206969,
+        "word": "侯明昊 深v蛇骨链",
+        "onboard_time": 1765011502,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181297,
+        "num": 206849,
+        "word": "尖叫之夜 嗑CP",
+        "onboard_time": 1765025003,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163844,
+        "num": 206830,
+        "word": "嗑到孙千向涵之了",
+        "onboard_time": 1765023503,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105428,
+        "num": 206753,
+        "word": "男子缅北逃跑肋骨被打断刺伤心脏",
+        "onboard_time": 1765020625,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161425,
+        "num": 206647,
+        "word": "吕严发长文",
+        "onboard_time": 1765011563,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150121,
+        "num": 206554,
+        "word": "丁禹兮 今晚吃了什么给我参考参考",
+        "onboard_time": 1765023984,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130608,
+        "num": 206527,
+        "word": "王楚然丞磊拍了love",
+        "onboard_time": 1765025364,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115463,
+        "num": 206440,
+        "word": "王一博发了探索幕后",
+        "onboard_time": 1765012162,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70348,
+        "num": 206353,
+        "word": "国乒8比4瑞典",
+        "onboard_time": 1765019422,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102025,
+        "num": 206271,
+        "word": "足协杯",
+        "onboard_time": 1765017801,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114051,
+        "num": 206249,
+        "word": "林俊杰获AAA最佳艺人奖",
+        "onboard_time": 1765017201,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94944,
+        "num": 206134,
+        "word": "重庆渐冻症女子为自己办生命告别会",
+        "onboard_time": 1765023203,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93852,
+        "num": 206127,
+        "word": "建议气血不足的人每天拍臀",
+        "onboard_time": 1765005621,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 206048,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水之道汲取治国理政智慧#"
+    }
+  }
+}
