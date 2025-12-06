@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765031035958,
+  "endTime": 1765032031586,
   "band_list": [
     {
       "raw_hot": 4647608,
@@ -19,8 +19,16 @@
       "category": "民生新闻,综艺"
     },
     {
+      "raw_hot": 2352115,
+      "num": 2352115,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1765019601,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1893108,
-      "num": 424430,
+      "num": 437884,
       "word": "杨幂白鹿 内场双C",
       "onboard_time": 1765021521,
       "rank": 10,
@@ -33,14 +41,6 @@
       "onboard_time": 1765026084,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1698663,
-      "num": 1698663,
-      "word": "尖叫之夜内场",
-      "onboard_time": 1765019601,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1691756,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 926633,
-      "num": 422072,
+      "num": 428916,
       "word": "木薯糖水中毒",
       "onboard_time": 1765024041,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 915714,
+      "num": 433839,
+      "word": "女子裤子内藏2斤多活虫入境",
+      "onboard_time": 1765028485,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 907156,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 786279,
+      "num": 516713,
+      "word": "于和伟 握烟",
+      "onboard_time": 1765030404,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758808,
       "num": 392518,
       "word": "刘宇宁李一桐 大哥大嫂风味儿",
@@ -203,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 723255,
-      "num": 413652,
-      "word": "女子裤子内藏2斤多活虫入境",
-      "onboard_time": 1765028485,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 705087,
+      "num": 261782,
+      "word": "虞书欣唱了小兰花角色歌",
+      "onboard_time": 1765031966,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 699887,
@@ -248,6 +264,22 @@
       "word": "妻子回应朱孝天被退出F4",
       "onboard_time": 1764992000,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625080,
+      "num": 275163,
+      "word": "小酒窝 白鹿",
+      "onboard_time": 1765030404,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 622339,
+      "num": 430787,
+      "word": "丁禹兮评论了张函瑞",
+      "onboard_time": 1765029984,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -291,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583424,
+      "num": 275436,
+      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+      "onboard_time": 1765027466,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 575581,
       "num": 360115,
       "word": "白鹿在逃黑天鹅",
@@ -307,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557703,
-      "num": 275436,
-      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
-      "onboard_time": 1765027466,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 557362,
+      "num": 557362,
+      "word": "高市早苗被曝自身难保",
+      "onboard_time": 1765028605,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 556911,
@@ -499,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429437,
-      "num": 275163,
-      "word": "小酒窝 白鹿",
-      "onboard_time": 1765030404,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423077,
       "num": 351873,
       "word": "微信上的这个人戒烟了",
@@ -595,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397559,
-      "num": 397559,
-      "word": "高市早苗被曝自身难保",
-      "onboard_time": 1765028605,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 396158,
       "num": 250515,
       "word": "白鹿尖叫之夜最早出图",
@@ -648,14 +672,6 @@
       "word": "白鹿走了三次红毯",
       "onboard_time": 1765019844,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 380872,
-      "num": 380872,
-      "word": "于和伟 握烟",
-      "onboard_time": 1765030404,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -787,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316882,
-      "num": 316882,
-      "word": "丁禹兮评论了张函瑞",
-      "onboard_time": 1765029984,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311401,
       "num": 118826,
       "word": "阚清子下台阶老公贴心搀扶",
@@ -835,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296427,
+      "num": 296427,
+      "word": "王安宇领奖这段路走得好意气风发",
+      "onboard_time": 1765030945,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293314,
       "num": 293314,
       "word": "刘敏涛说肖战给你点个赞",
@@ -859,7 +875,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287541,
+      "raw_hot": 287967,
       "num": 273878,
       "word": "苍兰诀失忆全场大合唱",
       "onboard_time": 1765028904,
@@ -872,6 +888,14 @@
       "word": "爱奇艺尖叫之夜",
       "onboard_time": 1764928702,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279359,
+      "num": 279359,
+      "word": "辛迪瑞拉",
+      "onboard_time": 1765030285,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -915,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265215,
+      "num": 258178,
+      "word": "爱奇艺年度喜爱女性角色",
+      "onboard_time": 1765031904,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265120,
       "num": 272000,
       "word": "影后春夏变化好大",
@@ -929,6 +961,14 @@
       "onboard_time": 1764986840,
       "rank": 26,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 264228,
+      "num": 264228,
+      "word": "檀健次直播",
+      "onboard_time": 1765031244,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 259160,
@@ -1044,7 +1084,7 @@
     },
     {
       "raw_hot": 241198,
-      "num": 277201,
+      "num": 278264,
       "word": "小时候以为很贵却很便宜的东西",
       "onboard_time": 1765024164,
       "rank": 47,
@@ -1163,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218674,
+      "num": 276853,
+      "word": "大量铜被运往美国",
+      "onboard_time": 1765029804,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215943,
       "num": 175151,
       "word": "脱口秀演员 主持人",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1765030945,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210969,
-      "num": 276853,
-      "word": "大量铜被运往美国",
-      "onboard_time": 1765029804,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210091,
@@ -1347,12 +1387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200559,
+      "num": 256351,
+      "word": "无忧渡",
+      "onboard_time": 1765031666,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198808,
       "num": 383405,
       "word": "北京国安3比0河南队",
       "onboard_time": 1765028244,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197584,
+      "num": 255993,
+      "word": "尖叫之夜内场 cp乱炖",
+      "onboard_time": 1765031543,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 197191,
@@ -1459,20 +1515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191462,
-      "num": 272278,
-      "word": "辛迪瑞拉",
-      "onboard_time": 1765030285,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190914,
       "num": 332261,
       "word": "王楚钦林诗栋vs篠塚大登户上隼辅",
       "onboard_time": 1765000461,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190815,
+      "num": 254622,
+      "word": "刘宇宁藏了三包小饼干",
+      "onboard_time": 1765031845,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 189354,
@@ -1563,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184119,
+      "num": 276207,
+      "word": "游客偶遇用镜子反射光给大佛暖鼻子",
+      "onboard_time": 1765029804,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "原来还有眼癌这一说",
@@ -1584,6 +1648,14 @@
       "word": "范志毅一口气颠了30个球",
       "onboard_time": 1764994520,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183233,
+      "num": 272028,
+      "word": "孙颖莎是王楚钦全肯定",
+      "onboard_time": 1765027824,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1659,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177888,
+      "num": 255771,
+      "word": "十个勤天好多合照",
+      "onboard_time": 1765031904,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177427,
       "num": 177427,
       "word": "国乒众将起立鼓掌",
@@ -1723,8 +1803,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166969,
+      "num": 270130,
+      "word": "妈妈复印的卷子我看不见",
+      "onboard_time": 1765031004,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166178,
-      "num": 432119,
+      "num": 441744,
       "word": "足协杯",
       "onboard_time": 1765017801,
       "rank": 49,
@@ -1803,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162163,
+      "num": 275488,
+      "word": "杭州野生动物园黑熊突然袭击饲养员",
+      "onboard_time": 1765026204,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161051,
       "num": 161051,
       "word": "朱孝天 F4",
@@ -1825,22 +1921,6 @@
       "onboard_time": 1765025364,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159041,
-      "num": 275488,
-      "word": "杭州野生动物园黑熊突然袭击饲养员",
-      "onboard_time": 1765026204,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158866,
-      "num": 272028,
-      "word": "孙颖莎是王楚钦全肯定",
-      "onboard_time": 1765027824,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 158449,
@@ -1955,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152263,
+      "num": 508902,
+      "word": "AG对战TE",
+      "onboard_time": 1765027705,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151795,
       "num": 151795,
       "word": "彭昱畅被肖战一把拽回来了",
@@ -2008,6 +2096,14 @@
       "word": "刘雨辰黄雅琼衢州婚礼",
       "onboard_time": 1765002261,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148596,
+      "num": 272037,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1765027165,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2092,7 +2188,7 @@
     },
     {
       "raw_hot": 143893,
-      "num": 443746,
+      "num": 453267,
       "word": "F1",
       "onboard_time": 1765018703,
       "rank": 20,
@@ -2187,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139780,
-      "num": 274495,
-      "word": "AG对战TE",
-      "onboard_time": 1765027705,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139494,
       "num": 196652,
       "word": "国乒男单男双各丢2分",
@@ -2243,14 +2331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136713,
-      "num": 270895,
-      "word": "王安宇领奖这段路走得好意气风发",
-      "onboard_time": 1765030945,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136311,
       "num": 136311,
       "word": "时代峰峻回应陈奕恒左奇函受伤",
@@ -2291,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134541,
+      "num": 275863,
+      "word": "公考枪手替考89次敛财千万",
+      "onboard_time": 1765031004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134431,
       "num": 154420,
       "word": "杭师大通报福彩公益金名单事件",
@@ -2321,14 +2409,6 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132689,
-      "num": 272037,
-      "word": "阿斯顿维拉vs阿森纳",
-      "onboard_time": 1765027165,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 132434,
@@ -2440,14 +2520,6 @@
       "word": "雅迪新车上市有前后座有车筐",
       "onboard_time": 1764998662,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125056,
-      "num": 276207,
-      "word": "游客偶遇用镜子反射光给大佛暖鼻子",
-      "onboard_time": 1765029804,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2819,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99555,
+      "num": 262694,
+      "word": "中俄反导联合演习不针对第三方",
+      "onboard_time": 1765031845,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98266,
       "num": 132673,
       "word": "王楚钦给孙颖莎手动点赞",
@@ -2849,14 +2929,6 @@
       "onboard_time": 1765015943,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97025,
-      "num": 270130,
-      "word": "妈妈复印的卷子我看不见",
-      "onboard_time": 1765031004,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 96751,
@@ -3611,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38468,
+      "num": 256054,
+      "word": "德国外长即将访华",
+      "onboard_time": 1765031543,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38100,
       "num": 348801,
       "word": "王嘉尔官宣世巡北美站",
@@ -3771,6 +3851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24568,
+      "num": 445721,
+      "word": "中国航天又一次成功发射",
+      "onboard_time": 1765028425,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24307,
       "num": 25334,
       "word": "研究称宇宙大爆炸之前就有意识",
@@ -3875,28 +3963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11013,
-      "num": 272646,
-      "word": "公考枪手替考89次敛财千万",
-      "onboard_time": 1765031004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10637,
       "num": 20127,
       "word": "别克世家内能停一辆车",
       "onboard_time": 1764940522,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 7840,
-      "num": 429321,
-      "word": "中国航天又一次成功发射",
-      "onboard_time": 1765028425,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7660,
@@ -3915,8 +3987,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3046,
-      "num": 465118,
+      "raw_hot": 3927,
+      "num": 517479,
       "word": "盘点2025大国重器新突破",
       "onboard_time": 1764982700,
       "rank": 2,

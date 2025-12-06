@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765031035958,
+  "endTime": 1765032031586,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -49,6 +49,14 @@
       "onboard_time": 1764754702,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2352115,
+      "num": 2352115,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1765019601,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2329514,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1893108,
-      "num": 424430,
+      "num": 437884,
       "word": "杨幂白鹿 内场双C",
       "onboard_time": 1765021521,
       "rank": 10,
@@ -169,14 +177,6 @@
       "onboard_time": 1765026084,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1698663,
-      "num": 1698663,
-      "word": "尖叫之夜内场",
-      "onboard_time": 1765019601,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1691756,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 926633,
-      "num": 422072,
+      "num": 428916,
       "word": "木薯糖水中毒",
       "onboard_time": 1765024041,
       "rank": 14,
@@ -785,6 +785,14 @@
       "onboard_time": 1764737243,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 915714,
+      "num": 433839,
+      "word": "女子裤子内藏2斤多活虫入境",
+      "onboard_time": 1765028485,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 909951,
@@ -979,6 +987,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 786279,
+      "num": 516713,
+      "word": "于和伟 握烟",
+      "onboard_time": 1765030404,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783164,
       "num": 783164,
       "word": "华裔女子痔疮手术后不堪剧痛自杀",
@@ -1059,14 +1075,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 723255,
-      "num": 413652,
-      "word": "女子裤子内藏2斤多活虫入境",
-      "onboard_time": 1765028485,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 718712,
       "num": 279916,
       "word": "刘亦菲 我没有遗传到位",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1764942022,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 705087,
+      "num": 261782,
+      "word": "虞书欣唱了小兰花角色歌",
+      "onboard_time": 1765031966,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 702779,
@@ -1371,6 +1387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625080,
+      "num": 275163,
+      "word": "小酒窝 白鹿",
+      "onboard_time": 1765030404,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 622339,
+      "num": 430787,
+      "word": "丁禹兮评论了张函瑞",
+      "onboard_time": 1765029984,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622242,
       "num": 561699,
       "word": "张杰没有一条微博是白发的",
@@ -1579,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583424,
+      "num": 275436,
+      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+      "onboard_time": 1765027466,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 583286,
       "num": 278423,
       "word": "小鬼王琳凯与卜凡合照",
@@ -1715,12 +1755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557703,
-      "num": 275436,
-      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
-      "onboard_time": 1765027466,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 557362,
+      "num": 557362,
+      "word": "高市早苗被曝自身难保",
+      "onboard_time": 1765028605,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 556911,
@@ -2699,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429437,
-      "num": 275163,
-      "word": "小酒窝 白鹿",
-      "onboard_time": 1765030404,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429267,
       "num": 210133,
       "word": "司机鸣笛无效轧到睡狗",
@@ -3051,14 +3083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 397559,
-      "num": 397559,
-      "word": "高市早苗被曝自身难保",
-      "onboard_time": 1765028605,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 397057,
       "num": 175883,
       "word": "李纯和杨幂在同一个健身房锻炼",
@@ -3224,14 +3248,6 @@
       "word": "白鹿走了三次红毯",
       "onboard_time": 1765019844,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 380872,
-      "num": 380872,
-      "word": "于和伟 握烟",
-      "onboard_time": 1765030404,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -4083,14 +4099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316882,
-      "num": 316882,
-      "word": "丁禹兮评论了张函瑞",
-      "onboard_time": 1765029984,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316514,
       "num": 241431,
       "word": "日本被曝正在研发万能型血浆",
@@ -4379,6 +4387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296427,
+      "num": 296427,
+      "word": "王安宇领奖这段路走得好意气风发",
+      "onboard_time": 1765030945,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296405,
       "num": 235700,
       "word": "朱志鑫的百度百科",
@@ -4467,7 +4483,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287541,
+      "raw_hot": 287967,
       "num": 273878,
       "word": "苍兰诀失忆全场大合唱",
       "onboard_time": 1765028904,
@@ -4585,6 +4601,14 @@
       "onboard_time": 1764933260,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279359,
+      "num": 279359,
+      "word": "辛迪瑞拉",
+      "onboard_time": 1765030285,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 279172,
@@ -4803,6 +4827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265215,
+      "num": 258178,
+      "word": "爱奇艺年度喜爱女性角色",
+      "onboard_time": 1765031904,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265120,
       "num": 272000,
       "word": "影后春夏变化好大",
@@ -4849,6 +4881,14 @@
       "onboard_time": 1764735984,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 264228,
+      "num": 264228,
+      "word": "檀健次直播",
+      "onboard_time": 1765031244,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 263358,
@@ -5292,7 +5332,7 @@
     },
     {
       "raw_hot": 241198,
-      "num": 277201,
+      "num": 278264,
       "word": "小时候以为很贵却很便宜的东西",
       "onboard_time": 1765024164,
       "rank": 47,
@@ -5811,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218674,
+      "num": 276853,
+      "word": "大量铜被运往美国",
+      "onboard_time": 1765029804,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210969,
-      "num": 276853,
-      "word": "大量铜被运往美国",
-      "onboard_time": 1765029804,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210502,
@@ -6579,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200559,
+      "num": 256351,
+      "word": "无忧渡",
+      "onboard_time": 1765031666,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -6680,6 +6728,14 @@
       "word": "王梓莼是张子枫室友",
       "onboard_time": 1764664522,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197584,
+      "num": 255993,
+      "word": "尖叫之夜内场 cp乱炖",
+      "onboard_time": 1765031543,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -6995,14 +7051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191462,
-      "num": 272278,
-      "word": "辛迪瑞拉",
-      "onboard_time": 1765030285,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190914,
       "num": 332261,
       "word": "王楚钦林诗栋vs篠塚大登户上隼辅",
@@ -7017,6 +7065,14 @@
       "onboard_time": 1764916521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190815,
+      "num": 254622,
+      "word": "刘宇宁藏了三包小饼干",
+      "onboard_time": 1765031845,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 190698,
@@ -7411,6 +7467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184119,
+      "num": 276207,
+      "word": "游客偶遇用镜子反射光给大佛暖鼻子",
+      "onboard_time": 1765029804,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183997,
       "num": 237780,
       "word": "jjking说Uzi大概率复出",
@@ -7472,6 +7536,14 @@
       "word": "范志毅一口气颠了30个球",
       "onboard_time": 1764994520,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183233,
+      "num": 272028,
+      "word": "孙颖莎是王楚钦全肯定",
+      "onboard_time": 1765027824,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -7760,6 +7832,14 @@
       "word": "喜人奇妙夜2",
       "onboard_time": 1764524115,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177888,
+      "num": 255771,
+      "word": "十个勤天好多合照",
+      "onboard_time": 1765031904,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -8267,6 +8347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166969,
+      "num": 270130,
+      "word": "妈妈复印的卷子我看不见",
+      "onboard_time": 1765031004,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166810,
       "num": 166810,
       "word": "一找工作全是研究生",
@@ -8316,7 +8404,7 @@
     },
     {
       "raw_hot": 166178,
-      "num": 432119,
+      "num": 441744,
       "word": "足协杯",
       "onboard_time": 1765017801,
       "rank": 49,
@@ -8555,6 +8643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162163,
+      "num": 275488,
+      "word": "杭州野生动物园黑熊突然袭击饲养员",
+      "onboard_time": 1765026204,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162119,
       "num": 1261320,
       "word": "电影得闲谨制郑重声明",
@@ -8787,28 +8883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159041,
-      "num": 275488,
-      "word": "杭州野生动物园黑熊突然袭击饲养员",
-      "onboard_time": 1765026204,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159027,
       "num": 159027,
       "word": "JDG官宣HongQ加入",
       "onboard_time": 1764572601,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158866,
-      "num": 272028,
-      "word": "孙颖莎是王楚钦全肯定",
-      "onboard_time": 1765027824,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 158859,
@@ -9012,7 +9092,7 @@
     },
     {
       "raw_hot": 156386,
-      "num": 443746,
+      "num": 453267,
       "word": "F1",
       "onboard_time": 1764544339,
       "rank": 1,
@@ -9347,6 +9427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152263,
+      "num": 508902,
+      "word": "AG对战TE",
+      "onboard_time": 1765027705,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "成毅执子策九谋",
@@ -9633,6 +9721,14 @@
       "onboard_time": 1764911542,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148596,
+      "num": 272037,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1765027165,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 148414,
@@ -10227,14 +10323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139780,
-      "num": 274495,
-      "word": "AG对战TE",
-      "onboard_time": 1765027705,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "罗云熙同学聚会签名",
@@ -10491,14 +10579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136713,
-      "num": 270895,
-      "word": "王安宇领奖这段路走得好意气风发",
-      "onboard_time": 1765030945,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136620,
       "num": 136620,
       "word": "Peanut兵役推迟",
@@ -10681,6 +10761,14 @@
       "onboard_time": 1765014983,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134541,
+      "num": 275863,
+      "word": "公考枪手替考89次敛财千万",
+      "onboard_time": 1765031004,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134539,
@@ -10889,14 +10977,6 @@
       "onboard_time": 1764589581,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132689,
-      "num": 272037,
-      "word": "阿斯顿维拉vs阿森纳",
-      "onboard_time": 1765027165,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 132688,
@@ -11617,14 +11697,6 @@
       "onboard_time": 1764822022,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 125056,
-      "num": 276207,
-      "word": "游客偶遇用镜子反射光给大佛暖鼻子",
-      "onboard_time": 1765029804,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125032,
@@ -14531,6 +14603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99555,
+      "num": 262694,
+      "word": "中俄反导联合演习不针对第三方",
+      "onboard_time": 1765031845,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99514,
       "num": 99514,
       "word": "情侣先后坠亡事件男方提赔偿百万",
@@ -14801,14 +14881,6 @@
       "onboard_time": 1764924261,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97025,
-      "num": 270130,
-      "word": "妈妈复印的卷子我看不见",
-      "onboard_time": 1765031004,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 96989,
@@ -19259,6 +19331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38468,
+      "num": 256054,
+      "word": "德国外长即将访华",
+      "onboard_time": 1765031543,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38281,
       "num": 110013,
       "word": "台球厅老板将讨薪女生甩抛在地",
@@ -20171,6 +20251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24568,
+      "num": 445721,
+      "word": "中国航天又一次成功发射",
+      "onboard_time": 1765028425,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24544,
       "num": 55351,
       "word": "迪丽热巴说通过角色传递社会价值",
@@ -20995,14 +21083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11013,
-      "num": 272646,
-      "word": "公考枪手替考89次敛财千万",
-      "onboard_time": 1765031004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10814,
       "num": 414381,
       "word": "美好生活宪给你",
@@ -21041,14 +21121,6 @@
       "onboard_time": 1764883573,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 7840,
-      "num": 429321,
-      "word": "中国航天又一次成功发射",
-      "onboard_time": 1765028425,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7660,
@@ -21091,8 +21163,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3046,
-      "num": 465118,
+      "raw_hot": 3927,
+      "num": 517479,
       "word": "盘点2025大国重器新突破",
       "onboard_time": 1764982700,
       "rank": 2,
