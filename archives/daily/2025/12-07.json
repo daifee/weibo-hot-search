@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765042766983,
+  "endTime": 1765046150319,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122245,
+      "num": 91039,
+      "word": "刘宇宁你也有今天",
+      "onboard_time": 1765037004,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
@@ -393,6 +401,14 @@
       "onboard_time": 1765027824,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85066,
+      "num": 85066,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1765045576,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 75562,
@@ -467,12 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49291,
+      "num": 78003,
+      "word": "杨幂带着一家人压轴",
+      "onboard_time": 1765043177,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48866,
+      "num": 77767,
+      "word": "翟子路 后陡坡",
+      "onboard_time": 1765043837,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33213,
       "num": 102422,
       "word": "铜价冲破11500美元",
       "onboard_time": 1765041678,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24272,
+      "num": 77380,
+      "word": "专家回应日本要用电磁炮打中国航母",
+      "onboard_time": 1765045576,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20556,

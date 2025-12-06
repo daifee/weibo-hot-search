@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765042766983,
+  "endTime": 1765046150319,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -12203,6 +12203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122245,
+      "num": 91039,
+      "word": "刘宇宁你也有今天",
+      "onboard_time": 1765037004,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "领导 张万森下狗了",
@@ -18771,6 +18779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49291,
+      "num": 78003,
+      "word": "杨幂带着一家人压轴",
+      "onboard_time": 1765043177,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49026,
       "num": 49026,
       "word": "狙击蝴蝶李嘉格真人版",
@@ -18793,6 +18809,14 @@
       "onboard_time": 1764825623,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 48866,
+      "num": 77767,
+      "word": "翟子路 后陡坡",
+      "onboard_time": 1765043837,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 48816,
@@ -20593,6 +20617,14 @@
       "onboard_time": 1764968054,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 24272,
+      "num": 77380,
+      "word": "专家回应日本要用电磁炮打中国航母",
+      "onboard_time": 1765045576,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24264,
