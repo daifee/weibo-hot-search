@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764986190092,
+  "endTime": 1764987537458,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -9,6 +9,14 @@
       "onboard_time": 1764948381,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1005196,
+      "num": 213597,
+      "word": "黄日华退出娱乐圈",
+      "onboard_time": 1764985280,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 855019,
@@ -27,14 +35,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537923,
-      "num": 179640,
-      "word": "黄日华退出娱乐圈",
-      "onboard_time": 1764985280,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 535327,
       "num": 535327,
       "word": "湖南卫视跨年改名",
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384106,
+      "num": 277080,
+      "word": "九重紫",
+      "onboard_time": 1764983660,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355773,
       "num": 282593,
       "word": "马克龙说此行只有一个遗憾",
@@ -59,12 +67,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 340890,
-      "num": 261787,
-      "word": "九重紫",
-      "onboard_time": 1764983660,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 327552,
+      "num": 234410,
+      "word": "主持人喊了两遍张本美和名字",
+      "onboard_time": 1764986001,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 311401,
@@ -73,6 +81,14 @@
       "onboard_time": 1764949761,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302514,
+      "num": 230470,
+      "word": "王者荣耀 疯狂动物城",
+      "onboard_time": 1764985221,
+      "rank": 16,
+      "category": "电影,游戏"
     },
     {
       "raw_hot": 293183,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 244847,
-      "num": 173863,
+      "num": 206953,
       "word": "王橹杰穆祉丞 双人舞台",
       "onboard_time": 1764980900,
       "rank": 13,
@@ -163,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231519,
+      "num": 209302,
+      "word": "白鹿凌晨两点半还在线翻牌粉丝",
+      "onboard_time": 1764985400,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227247,
       "num": 763501,
       "word": "世界杯抽签",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 207241,
-      "num": 172371,
+      "num": 173260,
       "word": "这才是真的俩魔丸生了个灵珠",
       "onboard_time": 1764979100,
       "rank": 14,
@@ -201,6 +225,22 @@
       "onboard_time": 1764947182,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202420,
+      "num": 147554,
+      "word": "陈奕恒受伤",
+      "onboard_time": 1764987202,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192304,
+      "num": 192304,
+      "word": "李昀锐纪念九重紫开播一周年",
+      "onboard_time": 1764986661,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 186739,
@@ -235,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176397,
+      "num": 176397,
+      "word": "得闲谨制排片",
+      "onboard_time": 1764986601,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
@@ -243,20 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169921,
-      "num": 169921,
-      "word": "王者荣耀 疯狂动物城",
-      "onboard_time": 1764985221,
-      "rank": 16,
-      "category": "电影,游戏"
-    },
-    {
       "raw_hot": 161051,
       "num": 161051,
       "word": "朱孝天 F4",
       "onboard_time": 1764978621,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159851,
+      "num": 147376,
+      "word": "为什么父母觉得结婚生子就稳定了",
+      "onboard_time": 1764983540,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 158449,
@@ -304,6 +352,14 @@
       "word": "马克龙喊孙颖莎打乒乓球",
       "onboard_time": 1764942022,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146766,
+      "num": 146766,
+      "word": "张继科疑似辟谣结婚生子",
+      "onboard_time": 1764985820,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -363,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130335,
-      "num": 130335,
-      "word": "为什么父母觉得结婚生子就稳定了",
-      "onboard_time": 1764983540,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "陈震回旋镖",
+      "onboard_time": 1764986840,
+      "rank": 26,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 120002,
@@ -385,14 +441,6 @@
       "onboard_time": 1764947003,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118344,
-      "num": 118344,
-      "word": "白鹿凌晨两点半还在线翻牌粉丝",
-      "onboard_time": 1764985400,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 117257,
@@ -491,6 +539,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92955,
+      "num": 92955,
+      "word": "日久生情果然是假的",
+      "onboard_time": 1764984919,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90468,
+      "num": 90468,
+      "word": "女生补气血多吃这种蒸鸡蛋",
+      "onboard_time": 1764986300,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90156,
       "num": 90156,
       "word": "大生意人1晚死了461个人",
@@ -507,12 +571,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81867,
-      "num": 81867,
+      "raw_hot": 86210,
+      "num": 86210,
+      "word": "白鹿动物塑是傲娇小狐狸",
+      "onboard_time": 1764987501,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85080,
+      "num": 85080,
       "word": "地铁回应女子打翻奶茶用围巾擦净",
       "onboard_time": 1764977358,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84642,
+      "num": 84642,
+      "word": "感染流感有这些症状及时就医",
+      "onboard_time": 1764986720,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 84080,
+      "num": 84080,
+      "word": "左奇函受伤",
+      "onboard_time": 1764977898,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83679,
+      "num": 83679,
+      "word": "孙颖莎演我上班突然被cue",
+      "onboard_time": 1764986120,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80661,
@@ -531,12 +627,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 77548,
-      "num": 77548,
-      "word": "左奇函受伤",
-      "onboard_time": 1764977898,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 78860,
+      "num": 78860,
+      "word": "日本一地为南京大屠杀受害者默哀",
+      "onboard_time": 1764982220,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76922,
@@ -547,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76085,
-      "num": 76085,
-      "word": "日本一地为南京大屠杀受害者默哀",
-      "onboard_time": 1764982220,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75827,
       "num": 111479,
       "word": "侯鸿亮看肖战的眼神",
@@ -563,28 +651,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75805,
-      "num": 75805,
-      "word": "张继科疑似辟谣结婚生子",
-      "onboard_time": 1764985820,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75761,
       "num": 75761,
       "word": "高圆圆好美的颅顶",
       "onboard_time": 1764983480,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75639,
-      "num": 75639,
-      "word": "主持人喊了两遍张本美和名字",
-      "onboard_time": 1764986001,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 75573,
@@ -649,14 +721,6 @@
       "onboard_time": 1764929002,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70165,
-      "num": 70165,
-      "word": "孙颖莎演我上班突然被cue",
-      "onboard_time": 1764986120,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 70072,
