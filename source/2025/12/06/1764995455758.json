@@ -1,0 +1,410 @@
+{
+  "runTime": 1764995455758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 570555,
+        "num": 1091288,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306739,
+        "num": 957824,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23806,
+        "num": 837481,
+        "word": "流感超过一周还有传染性吗",
+        "onboard_time": 1764941123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833924,
+        "num": 833924,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219832,
+        "num": 708916,
+        "word": "仙剑奇侠传三动画定档",
+        "onboard_time": 1764992300,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 872577,
+        "num": 696274,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673065,
+        "num": 673065,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336782,
+        "num": 669979,
+        "word": "豆包手机 溢价",
+        "onboard_time": 1764988999,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 299774,
+        "num": 650026,
+        "word": "王楚钦回球不小心击中孙颖莎",
+        "onboard_time": 1764991820,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24847,
+        "num": 641703,
+        "word": "特朗普警告高市早苗别插手台海",
+        "onboard_time": 1764994939,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 722996,
+        "num": 632222,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626325,
+        "num": 626325,
+        "word": "妻子回应朱孝天被退出F4",
+        "onboard_time": 1764992000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374769,
+        "num": 374769,
+        "word": "美国博主在中国看病被检测费震惊",
+        "onboard_time": 1764991160,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339729,
+        "num": 339729,
+        "word": "孟子义婚纱",
+        "onboard_time": 1764995121,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303219,
+        "num": 339690,
+        "word": "柬埔寨公主大婚",
+        "onboard_time": 1764953899,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277075,
+        "num": 337782,
+        "word": "多家APP对豆包手机禁用",
+        "onboard_time": 1764988640,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249140,
+        "num": 336725,
+        "word": "豆包手机",
+        "onboard_time": 1764989240,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135183,
+        "num": 335923,
+        "word": "王一博吹饭vs雷佳音吹雪",
+        "onboard_time": 1764994401,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201211,
+        "num": 334544,
+        "word": "杨超越锁骨发",
+        "onboard_time": 1764994579,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79079,
+        "num": 334168,
+        "word": "平江通报75岁男子酒后2次殴打妻子",
+        "onboard_time": 1764994939,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439798,
+        "num": 332771,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332291,
+        "num": 332291,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1764994579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325344,
+        "num": 325344,
+        "word": "秦昊田嘉瑞的征信都坐不了高铁",
+        "onboard_time": 1764989300,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322067,
+        "num": 322067,
+        "word": "黄日华退出娱乐圈",
+        "onboard_time": 1764985280,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309900,
+        "num": 309900,
+        "word": "第一次有人火了之后不想当明星",
+        "onboard_time": 1764990561,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282427,
+        "num": 282427,
+        "word": "吴昕维嘉聊天30秒牵手转了三次圈",
+        "onboard_time": 1764988580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263277,
+        "num": 263277,
+        "word": "杨幂爱奇艺尖叫之夜海报C位",
+        "onboard_time": 1764989481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202613,
+        "num": 202613,
+        "word": "沈梦辰说婚姻不能将就",
+        "onboard_time": 1764994761,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186092,
+        "num": 186092,
+        "word": "马克龙说此行只有一个遗憾",
+        "onboard_time": 1764975977,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183338,
+        "num": 183338,
+        "word": "范志毅一口气颠了30个球",
+        "onboard_time": 1764994520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189055,
+        "num": 183028,
+        "word": "樊振东镜头前秀西语",
+        "onboard_time": 1764995241,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179240,
+        "num": 179240,
+        "word": "仅用0秒就get到改编歌的权威了",
+        "onboard_time": 1764994401,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169123,
+        "num": 169123,
+        "word": "美国女子被生母继父剖腹取婴致死",
+        "onboard_time": 1764992841,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165619,
+        "num": 165619,
+        "word": "KPL",
+        "onboard_time": 1764994101,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162321,
+        "num": 162321,
+        "word": "王者荣耀 疯狂动物城",
+        "onboard_time": 1764985221,
+        "rank": 34,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 140739,
+        "num": 140739,
+        "word": "白鹿尖叫之夜最早出图",
+        "onboard_time": 1764995241,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138191,
+        "num": 138191,
+        "word": "得闲谨制清算两部抗日新片对打",
+        "onboard_time": 1764994161,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136767,
+        "num": 136767,
+        "word": "陈震回旋镖",
+        "onboard_time": 1764986840,
+        "rank": 37,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 62510,
+        "num": 136458,
+        "word": "smart精灵6号公告图发布",
+        "onboard_time": 1764992060,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52654,
+        "num": 136260,
+        "word": "国乒vs日本",
+        "onboard_time": 1764995362,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132500,
+        "num": 135469,
+        "word": "湖南卫视跨年改名",
+        "onboard_time": 1764978378,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42573,
+        "num": 135149,
+        "word": "中国造出薄如蝉翼的铝箔",
+        "onboard_time": 1764994161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134972,
+        "num": 134972,
+        "word": "王楚钦孙颖莎vs户上隼辅张本美和",
+        "onboard_time": 1764993442,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134064,
+        "num": 134064,
+        "word": "吴敬平说樊振东的技术永远多一板",
+        "onboard_time": 1764995061,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127938,
+        "num": 127938,
+        "word": "老干妈不需要创新",
+        "onboard_time": 1764993501,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125827,
+        "num": 125827,
+        "word": "国产剧终于出现小镇做题家了",
+        "onboard_time": 1764991881,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124717,
+        "num": 124717,
+        "word": "王橹杰穆祉丞 双人舞台",
+        "onboard_time": 1764980900,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120758,
+        "num": 120758,
+        "word": "仅退款225个包裹后向商家转账求和解",
+        "onboard_time": 1764978737,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119387,
+        "num": 119387,
+        "word": "李成白依梅有孩子",
+        "onboard_time": 1764992721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117761,
+        "num": 117761,
+        "word": "登上了十年不用的QQ",
+        "onboard_time": 1764994220,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平介绍都江堰历史和意义#"
+    }
+  }
+}
