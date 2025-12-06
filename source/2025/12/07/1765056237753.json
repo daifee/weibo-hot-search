@@ -1,0 +1,410 @@
+{
+  "runTime": 1765056237753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 429263,
+        "num": 429263,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43401,
+        "num": 43401,
+        "word": "公考枪手替考89次敛财千万",
+        "onboard_time": 1765031004,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760,
+        "num": 43000,
+        "word": "盘点2025大国重器新突破",
+        "onboard_time": 1764982700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141688,
+        "num": 42825,
+        "word": "白鹿尖叫女演员",
+        "onboard_time": 1765037182,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23300,
+        "num": 42050,
+        "word": "法国8比7日本",
+        "onboard_time": 1765037603,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77184,
+        "num": 41848,
+        "word": "杨幂尖叫年度演员",
+        "onboard_time": 1765037902,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41584,
+        "num": 41584,
+        "word": "高市早苗被曝自身难保",
+        "onboard_time": 1765028605,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15775,
+        "num": 41006,
+        "word": "张本智和连丢6局",
+        "onboard_time": 1765033644,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7497,
+        "num": 40538,
+        "word": "中国航天又一次成功发射",
+        "onboard_time": 1765028425,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10791,
+        "num": 39696,
+        "word": "足协杯",
+        "onboard_time": 1765017801,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 39080,
+        "word": "刘诗诗的奖换成了白鹿系失误",
+        "onboard_time": 1765039280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48383,
+        "num": 38397,
+        "word": "朱丹主持",
+        "onboard_time": 1765048515,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42358,
+        "num": 37840,
+        "word": "刘宇宁你也有今天",
+        "onboard_time": 1765037004,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37687,
+        "num": 37687,
+        "word": "女子裤子内藏2斤多活虫入境",
+        "onboard_time": 1765028485,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33161,
+        "num": 33161,
+        "word": "杨志刚获奖感言",
+        "onboard_time": 1765039580,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30926,
+        "num": 33157,
+        "word": "红楼梦",
+        "onboard_time": 1765032625,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 28501,
+        "num": 33155,
+        "word": "小时候以为很贵却很便宜的东西",
+        "onboard_time": 1765024164,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 39350,
+        "num": 33151,
+        "word": "张凌赫晒与刘宇宁周柯宇合照",
+        "onboard_time": 1765036764,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25199,
+        "num": 33146,
+        "word": "下周大范围雨雨雨雪雪雪",
+        "onboard_time": 1765046777,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24438,
+        "num": 33144,
+        "word": "百余名考生通过作弊入职政府等部门",
+        "onboard_time": 1765033224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93863,
+        "num": 33140,
+        "word": "泰国弃婴遭巨蜥啃食",
+        "onboard_time": 1765037062,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43526,
+        "num": 33139,
+        "word": "辣妹虞书欣我笑纳了",
+        "onboard_time": 1765026084,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28227,
+        "num": 33133,
+        "word": "得闲谨制 幕后制作王一博",
+        "onboard_time": 1765033524,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24087,
+        "num": 33128,
+        "word": "尖叫之夜 无聊",
+        "onboard_time": 1765035983,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23842,
+        "num": 33126,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1765019601,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23310,
+        "num": 33122,
+        "word": "尖叫之夜",
+        "onboard_time": 1765018101,
+        "rank": 25,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 22949,
+        "num": 33117,
+        "word": "爱奇艺的年度销冠都在这儿了",
+        "onboard_time": 1765034843,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22428,
+        "num": 33114,
+        "word": "李现年度演员",
+        "onboard_time": 1765035863,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19591,
+        "num": 33112,
+        "word": "水库冰面下发现13匹冰冻马",
+        "onboard_time": 1765020562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19405,
+        "num": 33107,
+        "word": "日本在与那国岛挖一锹土我军都能发现",
+        "onboard_time": 1765032986,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29627,
+        "num": 33106,
+        "word": "专家回应日本要用电磁炮打中国航母",
+        "onboard_time": 1765045576,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21943,
+        "num": 33101,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1765045576,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21795,
+        "num": 33096,
+        "word": "枭起青壤大结局",
+        "onboard_time": 1765035742,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20923,
+        "num": 33092,
+        "word": "李一桐领奖哭了",
+        "onboard_time": 1765039340,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17603,
+        "num": 33089,
+        "word": "大量铜被运往美国",
+        "onboard_time": 1765029804,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20815,
+        "num": 33085,
+        "word": "于和伟 握烟",
+        "onboard_time": 1765030404,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20714,
+        "num": 33082,
+        "word": "无忧渡",
+        "onboard_time": 1765031666,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17601,
+        "num": 33079,
+        "word": "木薯糖水中毒",
+        "onboard_time": 1765024041,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15853,
+        "num": 33076,
+        "word": "游客偶遇用镜子反射光给大佛暖鼻子",
+        "onboard_time": 1765029804,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15681,
+        "num": 33070,
+        "word": "F1",
+        "onboard_time": 1765018703,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20232,
+        "num": 33066,
+        "word": "得闲谨制",
+        "onboard_time": 1765028664,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20086,
+        "num": 33063,
+        "word": "虞书欣雨爱",
+        "onboard_time": 1765028184,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18993,
+        "num": 33058,
+        "word": "李兰迪替敖瑞鹏剧宣",
+        "onboard_time": 1765037482,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15114,
+        "num": 33055,
+        "word": "杨幂带着一家人压轴",
+        "onboard_time": 1765043177,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14347,
+        "num": 33054,
+        "word": "李逗逗 一切在我这里已经结束了",
+        "onboard_time": 1765034721,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14213,
+        "num": 33047,
+        "word": "香港初步确定起火点大致位置",
+        "onboard_time": 1765026024,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14072,
+        "num": 33043,
+        "word": "世界杯抽签仪式",
+        "onboard_time": 1765050974,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14064,
+        "num": 33042,
+        "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+        "onboard_time": 1765027466,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 33036,
+        "word": "中俄反导联合演习不针对第三方",
+        "onboard_time": 1765031845,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12511,
+        "num": 33035,
+        "word": "爱你老己是什么梗",
+        "onboard_time": 1765035805,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}
