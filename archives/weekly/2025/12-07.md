@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/07 05:23:57
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/07 05:37:54
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ F1（热度：57695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%91%A8%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%AA%E9%9B%AA%E9%9B%AA%23" target="weibo">
 下周大范围雨雨雨雪雪雪（热度：40541）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BF%AB%E7%82%B9%E6%8A%8A%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E6%89%8B%E6%9C%BA%E6%94%B6%E4%BA%86%23" target="weibo">
+工作室快点把檀健次的手机收了（热度：36878）
 </a>
 </li>
 
