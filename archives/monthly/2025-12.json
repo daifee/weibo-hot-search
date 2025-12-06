@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765048901639,
+  "endTime": 1765049815938,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -18755,6 +18755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49530,
+      "num": 49530,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49470,
       "num": 90067,
       "word": "5个人里3个人在嗑cp",
@@ -19273,14 +19281,6 @@
       "onboard_time": 1764994161,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42564,
-      "num": 42564,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 42384,
@@ -20283,6 +20283,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 29111,
+      "num": 71189,
+      "word": "下周大范围雨雨雨雪雪雪",
+      "onboard_time": 1765046777,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28816,
       "num": 152129,
       "word": "109人的炒股群108个托",
@@ -20472,14 +20480,6 @@
       "word": "新国标实施有电动车门店3天没开单",
       "onboard_time": 1764843382,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26478,
-      "num": 71189,
-      "word": "下周大范围雨雨雨雪雪雪",
-      "onboard_time": 1765046777,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -21475,6 +21475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9491,
+      "num": 35363,
+      "word": "原神fes抢票",
+      "onboard_time": 1765047855,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7660,
       "num": 818780,
       "word": "做好6件事保护呼吸道",
@@ -21489,6 +21497,14 @@
       "onboard_time": 1764563543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6972,
+      "num": 56941,
+      "word": "鬼灭之刃无一郎和啾太郎",
+      "onboard_time": 1765049354,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 6456,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765048901639,
+  "endTime": 1765049815938,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49530,
+      "num": 49530,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49524,
       "num": 142528,
       "word": "香港初步确定起火点大致位置",
@@ -507,14 +515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42564,
-      "num": 42564,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33213,
       "num": 102422,
       "word": "铜价冲破11500美元",
@@ -523,7 +523,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 26478,
+      "raw_hot": 29111,
       "num": 71189,
       "word": "下周大范围雨雨雨雪雪雪",
       "onboard_time": 1765046777,
@@ -545,6 +545,22 @@
       "onboard_time": 1765017801,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9491,
+      "num": 35363,
+      "word": "原神fes抢票",
+      "onboard_time": 1765047855,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 6972,
+      "num": 56941,
+      "word": "鬼灭之刃无一郎和啾太郎",
+      "onboard_time": 1765049354,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 2370,
