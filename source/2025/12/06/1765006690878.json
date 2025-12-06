@@ -1,0 +1,410 @@
+{
+  "runTime": 1765006690878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3572813,
+        "num": 3572813,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1765003762,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248851,
+        "num": 248851,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6062,
+        "num": 248808,
+        "word": "做好6件事保护呼吸道",
+        "onboard_time": 1764924321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1197952,
+        "num": 248765,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106171,
+        "num": 248729,
+        "word": "国乒vs日本",
+        "onboard_time": 1764995362,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365890,
+        "num": 248697,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162498,
+        "num": 248638,
+        "word": "为什么马克龙访华要看都江堰",
+        "onboard_time": 1765004421,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157076,
+        "num": 248589,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65577,
+        "num": 248524,
+        "word": "泰兰尼斯童鞋卖600万双营收30亿",
+        "onboard_time": 1765004421,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59754,
+        "num": 248518,
+        "word": "梁靖崑1比2松岛辉空",
+        "onboard_time": 1765000701,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405690,
+        "num": 248456,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397473,
+        "num": 248387,
+        "word": "王楚然 珍珠美人",
+        "onboard_time": 1765002622,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248381,
+        "num": 248381,
+        "word": "男子掉入粉碎机身亡系维修未断电",
+        "onboard_time": 1765000642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367005,
+        "num": 244148,
+        "word": "国乒8比5日本",
+        "onboard_time": 1765003281,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335369,
+        "num": 240155,
+        "word": "徐若晗换礼服了",
+        "onboard_time": 1765005021,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289057,
+        "num": 225615,
+        "word": "常华森 灰衣服绿内搭",
+        "onboard_time": 1765004361,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248662,
+        "num": 220461,
+        "word": "杨幂 C位",
+        "onboard_time": 1765006341,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216189,
+        "num": 216189,
+        "word": "微信上的这个人戒烟了",
+        "onboard_time": 1764999441,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210091,
+        "num": 210091,
+        "word": "第一次见编商这么高的人",
+        "onboard_time": 1765005981,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123518,
+        "num": 209658,
+        "word": "王楚钦孙颖莎这一球对手教练沉默了",
+        "onboard_time": 1765005741,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327713,
+        "num": 207979,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71118,
+        "num": 206688,
+        "word": "中国女子日本被撞亡家属索赔637万",
+        "onboard_time": 1765005381,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310231,
+        "num": 205918,
+        "word": "建议气血不足的人每天拍臀",
+        "onboard_time": 1765005621,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205289,
+        "num": 205289,
+        "word": "妻子回应朱孝天被退出F4",
+        "onboard_time": 1764992000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194531,
+        "num": 194531,
+        "word": "张凌赫工作室 图呢",
+        "onboard_time": 1765005502,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209558,
+        "num": 192984,
+        "word": "田曦薇 豹纹小猫",
+        "onboard_time": 1764996680,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185207,
+        "num": 185207,
+        "word": "周扬青承认自己很难搞",
+        "onboard_time": 1765005800,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179553,
+        "num": 179553,
+        "word": "曾舜晞去哪儿了",
+        "onboard_time": 1765004899,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14136,
+        "num": 178836,
+        "word": "餐馆贴狗与外卖员勿进",
+        "onboard_time": 1765006522,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141616,
+        "num": 178628,
+        "word": "肖战凡尔赛了一下",
+        "onboard_time": 1765005081,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178452,
+        "num": 178452,
+        "word": "美军承认击落美军战机",
+        "onboard_time": 1765005800,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10861,
+        "num": 166170,
+        "word": "应届生公考前得知被误录社保",
+        "onboard_time": 1765006522,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164234,
+        "num": 164234,
+        "word": "吴宣仪正脸图呢",
+        "onboard_time": 1765005859,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163054,
+        "num": 163054,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119825,
+        "num": 162811,
+        "word": "日本抓到一只380公斤巨型棕熊",
+        "onboard_time": 1764999441,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162695,
+        "num": 162695,
+        "word": "备孕一次就怀孕的夫妻有多厉害",
+        "onboard_time": 1765005981,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156158,
+        "num": 156158,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148092,
+        "num": 148092,
+        "word": "不方便下楼的女艺人找周洁琼",
+        "onboard_time": 1765005260,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141891,
+        "num": 141891,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765001300,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112136,
+        "num": 137024,
+        "word": "豆包手机 溢价",
+        "onboard_time": 1764988999,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136137,
+        "num": 136137,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37636,
+        "num": 134244,
+        "word": "全网最忙五人组造假装都懒得装了",
+        "onboard_time": 1765005381,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134087,
+        "num": 134087,
+        "word": "十个勤天生来不让舞台",
+        "onboard_time": 1765003342,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126377,
+        "num": 126377,
+        "word": "王力宏被歌迷讽刺到了",
+        "onboard_time": 1765006641,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104680,
+        "num": 125362,
+        "word": "老版1元人民币的女子已经65岁了",
+        "onboard_time": 1765001601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28268,
+        "num": 125206,
+        "word": "邮政官网采购公告乱入聊天记录",
+        "onboard_time": 1765005260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125074,
+        "num": 125074,
+        "word": "章若楠在逃公主来的",
+        "onboard_time": 1765005321,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122538,
+        "num": 122538,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1764994579,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106658,
+        "num": 120874,
+        "word": "吃商届来了个天才",
+        "onboard_time": 1765002200,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101821,
+        "num": 120441,
+        "word": "大湾区大学正式成立",
+        "onboard_time": 1765006221,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首交流互动的经典瞬间#"
+    }
+  }
+}

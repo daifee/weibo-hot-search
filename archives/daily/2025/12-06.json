@@ -1,10 +1,10 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765005935116,
+  "endTime": 1765006690878,
   "band_list": [
     {
-      "raw_hot": 2644618,
-      "num": 2644618,
+      "raw_hot": 3572813,
+      "num": 3572813,
       "word": "尖叫之夜红毯",
       "onboard_time": 1765003762,
       "rank": 45,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 350040,
-      "num": 227145,
+      "num": 240155,
       "word": "徐若晗换礼服了",
       "onboard_time": 1765005021,
       "rank": 20,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310231,
+      "num": 227131,
+      "word": "建议气血不足的人每天拍臀",
+      "onboard_time": 1765005621,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 304229,
       "num": 337782,
       "word": "多家APP对豆包手机禁用",
@@ -385,6 +393,14 @@
       "onboard_time": 1764978319,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289057,
+      "num": 235701,
+      "word": "常华森 灰衣服绿内搭",
+      "onboard_time": 1765004361,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 280674,
@@ -459,6 +475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248662,
+      "num": 220461,
+      "word": "杨幂 C位",
+      "onboard_time": 1765006341,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247800,
       "num": 232470,
       "word": "张本智和一直站在原地不动",
@@ -489,14 +513,6 @@
       "onboard_time": 1764979520,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235701,
-      "num": 235701,
-      "word": "常华森 灰衣服绿内搭",
-      "onboard_time": 1765004361,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 234446,
@@ -539,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227131,
-      "num": 227131,
-      "word": "建议气血不足的人每天拍臀",
-      "onboard_time": 1765005621,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 226392,
       "num": 226392,
       "word": "单亲妈妈同时相亲63岁与29岁男",
@@ -585,6 +593,14 @@
       "onboard_time": 1764943283,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210091,
+      "num": 210091,
+      "word": "第一次见编商这么高的人",
+      "onboard_time": 1765005981,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 207241,
@@ -683,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194531,
+      "num": 194531,
+      "word": "张凌赫工作室 图呢",
+      "onboard_time": 1765005502,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192546,
       "num": 309796,
       "word": "吴敬平说樊振东的技术永远多一板",
@@ -763,20 +787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186271,
-      "num": 186271,
-      "word": "张凌赫工作室 图呢",
-      "onboard_time": 1765005502,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185564,
       "num": 251756,
       "word": "美国女子被生母继父剖腹取婴致死",
       "onboard_time": 1764992841,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185207,
+      "num": 185207,
+      "word": "周扬青承认自己很难搞",
+      "onboard_time": 1765005800,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 183574,
@@ -841,6 +865,14 @@
       "onboard_time": 1764994401,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178452,
+      "num": 178452,
+      "word": "美军承认击落美军战机",
+      "onboard_time": 1765005800,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178205,
@@ -915,12 +947,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164234,
+      "num": 164234,
+      "word": "吴宣仪正脸图呢",
+      "onboard_time": 1765005859,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162837,
       "num": 191439,
       "word": "国乒混团世界杯八连胜",
       "onboard_time": 1765003221,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162695,
+      "num": 162695,
+      "word": "备孕一次就怀孕的夫妻有多厉害",
+      "onboard_time": 1765005981,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162498,
+      "num": 277617,
+      "word": "为什么马克龙访华要看都江堰",
+      "onboard_time": 1765004421,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161051,
@@ -1035,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148092,
+      "num": 148092,
+      "word": "不方便下楼的女艺人找周洁琼",
+      "onboard_time": 1765005260,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147412,
       "num": 481928,
       "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
@@ -1139,14 +1203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138088,
-      "num": 138088,
-      "word": "不方便下楼的女艺人找周洁琼",
-      "onboard_time": 1765005260,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137836,
       "num": 137836,
       "word": "陈震偷税追缴并罚共计247.48万元",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1764935422,
       "rank": 9,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 136877,
-      "num": 277617,
-      "word": "为什么马克龙访华要看都江堰",
-      "onboard_time": 1765004421,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136763,
@@ -1227,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133452,
-      "num": 133452,
-      "word": "吴宣仪正脸图呢",
-      "onboard_time": 1765005859,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132841,
       "num": 132841,
       "word": "刘宇宁澳门逛街",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1764949221,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131926,
-      "num": 131926,
-      "word": "周扬青承认自己很难搞",
-      "onboard_time": 1765005800,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 131547,
@@ -1315,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126377,
+      "num": 126377,
+      "word": "王力宏被歌迷讽刺到了",
+      "onboard_time": 1765006641,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125920,
       "num": 125920,
       "word": "雅迪新车上市有前后座有车筐",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1764999741,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123518,
+      "num": 209658,
+      "word": "王楚钦孙颖莎这一球对手教练沉默了",
+      "onboard_time": 1765005741,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 120002,
@@ -1467,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110139,
-      "num": 138166,
-      "word": "王楚钦孙颖莎这一球对手教练沉默了",
-      "onboard_time": 1765005741,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109622,
       "num": 109622,
       "word": "枭起青壤 6.3分",
@@ -1539,14 +1579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104695,
-      "num": 137743,
-      "word": "美军承认击落美军战机",
-      "onboard_time": 1765005800,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104400,
       "num": 104400,
       "word": "前NBA球员埃尔登坎贝尔溺亡",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1764982220,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101821,
+      "num": 120441,
+      "word": "大湾区大学正式成立",
+      "onboard_time": 1765006221,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 101095,
@@ -1867,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71118,
+      "num": 227148,
+      "word": "中国女子日本被撞亡家属索赔637万",
+      "onboard_time": 1765005381,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70856,
       "num": 93938,
       "word": "官方回应村委会要求村民禁用土炕取暖",
@@ -1923,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65577,
+      "num": 248524,
+      "word": "泰兰尼斯童鞋卖600万双营收30亿",
+      "onboard_time": 1765004421,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64748,
       "num": 192178,
       "word": "iRobot爆雷欠中国代工厂超25亿元",
@@ -1953,14 +2009,6 @@
       "onboard_time": 1764946222,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60467,
-      "num": 133505,
-      "word": "泰兰尼斯童鞋卖600万双营收30亿",
-      "onboard_time": 1765004421,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 59914,
@@ -2009,14 +2057,6 @@
       "onboard_time": 1764977177,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 52652,
-      "num": 227148,
-      "word": "中国女子日本被撞亡家属索赔637万",
-      "onboard_time": 1765005381,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 52581,
@@ -2227,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37636,
+      "num": 136340,
+      "word": "全网最忙五人组造假装都懒得装了",
+      "onboard_time": 1765005381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37187,
       "num": 39078,
       "word": "36岁快男遭中国唱将淘汰",
@@ -2291,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30222,
-      "num": 136340,
-      "word": "全网最忙五人组造假装都懒得装了",
-      "onboard_time": 1765005381,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29426,
       "num": 30716,
       "word": "中国版英伟达上市首日大涨",
@@ -2313,6 +2353,14 @@
       "onboard_time": 1764999619,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28268,
+      "num": 137072,
+      "word": "邮政官网采购公告乱入聊天记录",
+      "onboard_time": 1765005260,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26885,
@@ -2395,20 +2443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15822,
-      "num": 137072,
-      "word": "邮政官网采购公告乱入聊天记录",
-      "onboard_time": 1765005260,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14871,
       "num": 20128,
       "word": "张小斐团队里有梦女",
       "onboard_time": 1764968413,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14136,
+      "num": 178836,
+      "word": "餐馆贴狗与外卖员勿进",
+      "onboard_time": 1765006522,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12432,
@@ -2433,6 +2481,14 @@
       "onboard_time": 1764964094,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10861,
+      "num": 166170,
+      "word": "应届生公考前得知被误录社保",
+      "onboard_time": 1765006522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10637,
