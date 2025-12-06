@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765013968930,
+  "endTime": 1765016833843,
   "band_list": [
     {
       "raw_hot": 3572813,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957721,
+      "num": 957721,
+      "word": "王一博徒手攀手滑掉海里了",
+      "onboard_time": 1764995901,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942206,
       "num": 1150753,
       "word": "得闲谨制",
@@ -99,19 +107,19 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 850737,
+      "num": 1136117,
+      "word": "警方通报52岁男子持刀伤人致3死",
+      "onboard_time": 1765013482,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 833924,
       "num": 833924,
       "word": "徐若晗撞衫田曦薇",
       "onboard_time": 1764993442,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 760322,
-      "num": 403269,
-      "word": "王一博徒手攀手滑掉海里了",
-      "onboard_time": 1764995901,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1764992000,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621862,
+      "num": 240707,
+      "word": "魏大勋孙千红毯牵手",
+      "onboard_time": 1765016063,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 617726,
@@ -216,6 +232,14 @@
       "word": "湖南卫视跨年改名",
       "onboard_time": 1764978378,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528586,
+      "num": 181540,
+      "word": "杨幂尖叫之夜出图了",
+      "onboard_time": 1765014384,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410453,
+      "num": 1063936,
+      "word": "杭州师范大学通报调查结果",
+      "onboard_time": 1765012283,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 407723,
       "num": 344559,
       "word": "王楚然 珍珠美人",
@@ -361,6 +393,14 @@
       "onboard_time": 1764995241,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388833,
+      "num": 332240,
+      "word": "吕严发长文",
+      "onboard_time": 1765011563,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 386893,
@@ -475,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332240,
-      "num": 332240,
-      "word": "吕严发长文",
-      "onboard_time": 1765011563,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329549,
       "num": 650026,
       "word": "王楚钦回球不小心击中孙颖莎",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 273732,
-      "num": 455512,
+      "num": 1127484,
       "word": "大湾区大学正式成立",
       "onboard_time": 1765006221,
       "rank": 49,
@@ -576,6 +608,14 @@
       "word": "艾米首穿高定",
       "onboard_time": 1764998541,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266790,
+      "num": 176210,
+      "word": "田曦薇飞吻",
+      "onboard_time": 1765015404,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -667,12 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243528,
-      "num": 400527,
-      "word": "杭州师范大学通报调查结果",
-      "onboard_time": 1765012283,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 244273,
+      "num": 1014884,
+      "word": "库迪咖啡被指禁带其他品牌咖啡入座",
+      "onboard_time": 1765012342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240606,
+      "num": 177145,
+      "word": "复旦大学官网变黑白",
+      "onboard_time": 1765016123,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238330,
@@ -875,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199444,
-      "num": 399311,
-      "word": "警方通报52岁男子持刀伤人致3死",
-      "onboard_time": 1765013482,
-      "rank": 7,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "小力士第一名",
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184524,
+      "num": 393903,
+      "word": "三星堆一青铜造型雕塑被游客掰断",
+      "onboard_time": 1765011623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "原来还有眼癌这一说",
@@ -1139,20 +1187,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 172792,
-      "num": 393903,
-      "word": "三星堆一青铜造型雕塑被游客掰断",
-      "onboard_time": 1765011623,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
       "onboard_time": 1764980059,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171003,
+      "num": 171003,
+      "word": "出场以为是群演后面没他没得演",
+      "onboard_time": 1765016482,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 170663,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1764983540,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159563,
+      "num": 159563,
+      "word": "杨旭文说唐诡4快来了",
+      "onboard_time": 1765016363,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 158449,
@@ -1531,12 +1587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136213,
+      "num": 184305,
+      "word": "三亚发生一起故意伤害案致3死",
+      "onboard_time": 1765014862,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135749,
       "num": 135749,
       "word": "枭起青壤云合掉到S级了",
       "onboard_time": 1764990020,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135698,
+      "num": 156719,
+      "word": "2025LPL",
+      "onboard_time": 1765016603,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135191,
@@ -1555,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135013,
+      "num": 147615,
+      "word": "尹正前期不宣发得闲谨制的原因",
+      "onboard_time": 1765014983,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134431,
       "num": 154420,
       "word": "杭师大通报福彩公益金名单事件",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1765005321,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133097,
+      "num": 151671,
+      "word": "女老板高能量工作的一天",
+      "onboard_time": 1765015583,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 132841,
@@ -1601,6 +1689,14 @@
       "onboard_time": 1764982760,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131453,
+      "num": 146198,
+      "word": "徐若晗签名简笔画看呆周柯宇",
+      "onboard_time": 1765014083,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 130990,
@@ -1675,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124931,
+      "num": 142905,
+      "word": "Rita从冒火姐到老八泪",
+      "onboard_time": 1765016063,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124589,
       "num": 124589,
       "word": "万千惠脚底生花抹胸裙",
@@ -1705,6 +1809,14 @@
       "onboard_time": 1764947003,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119811,
+      "num": 141575,
+      "word": "樊振东获体育道德风尚奖",
+      "onboard_time": 1765016123,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119387,
@@ -1761,6 +1873,14 @@
       "onboard_time": 1764997581,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 115731,
+      "num": 182585,
+      "word": "国乒vs瑞典",
+      "onboard_time": 1765014022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 115452,
@@ -1971,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98539,
+      "num": 172122,
+      "word": "福建姑娘的硬核头饰",
+      "onboard_time": 1765016543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98266,
       "num": 132673,
       "word": "王楚钦给孙颖莎手动点赞",
@@ -2105,6 +2233,14 @@
       "onboard_time": 1764977358,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84894,
+      "num": 141123,
+      "word": "马克龙访华情绪价值被拉满",
+      "onboard_time": 1765015222,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84642,
@@ -2499,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51028,
+      "num": 153523,
+      "word": "顾客支付现金无人值守便利店拒收",
+      "onboard_time": 1765015943,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50780,
       "num": 50780,
       "word": "中方愿同俄方配合坚决遏制日本挑衅",
@@ -2625,14 +2769,6 @@
       "onboard_time": 1764977419,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40722,
-      "num": 163837,
-      "word": "库迪咖啡被指禁带其他品牌咖啡入座",
-      "onboard_time": 1765012342,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40709,
@@ -2955,8 +3091,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2598,
-      "num": 443169,
+      "raw_hot": 2960,
+      "num": 1092993,
       "word": "C909飞机已交付174架",
       "onboard_time": 1764923901,
       "rank": 2,
