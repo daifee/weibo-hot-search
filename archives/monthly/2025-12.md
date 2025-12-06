@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/07 07:25:29
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/07 07:38:48
 </p>
 </blockquote>
 <p>
@@ -3825,6 +3825,12 @@ VOGUE预告（热度：269150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A3%E8%BF%B9%E7%BD%91%E7%BA%A2%E5%A4%8D%E5%87%BA%E4%B9%B1%E8%B1%A1%23" target="weibo">
+劣迹网红复出乱象（热度：261673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%B3%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E5%90%8E%E5%9B%A0%E5%A0%95%E8%83%8E%E7%A6%81%E4%BB%A4%E8%A2%AB%E8%BF%AB%E4%BA%A7%E5%AD%90%23" target="weibo">
 美女子脑死亡后因堕胎禁令被迫产子（热度：261081）
 </a>
@@ -4677,6 +4683,12 @@ F1（热度：218873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%E9%A6%96%E5%A4%BA%E6%80%BB%E5%86%A0%E5%86%9B%23" target="weibo">
+迈阿密国际首夺总冠军（热度：212274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E5%9B%9E%E5%BA%94%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E7%BB%93%E5%A9%9A%23" target="weibo">
 张钧甯回应邱泽许玮甯结婚（热度：211874）
 </a>
@@ -4841,6 +4853,12 @@ TF家族冒泡（热度：209531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%90%B3%E7%90%B3%E5%88%B7%E6%96%B0%E4%B8%AA%E4%BA%BA%E8%87%AA%E7%94%B1%E6%BB%91%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9%23" target="weibo">
 马琳琳刷新个人自由滑最好成绩（热度：207115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23" target="weibo">
+大雪（热度：206934）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ jjking说Uzi大概率复出（热度：183997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%A5%B3%E5%AD%90%E6%8B%8D%E9%97%A8%E6%95%914%E4%BA%BA%E8%87%AA%E5%B7%B1%E9%81%87%E9%9A%BE%23" target="weibo">
 香港火灾女子拍门救4人自己遇难（热度：179520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312%E6%9C%88%23" target="weibo">
-12月（热度：179511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%B7%A8%E5%B9%B4%E5%9C%BA%E6%8A%A2%E7%A5%A8%23" target="weibo">
-邓紫棋跨年场抢票（热度：179404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E7%94%A80%E7%A7%92%E5%B0%B1get%E5%88%B0%E6%94%B9%E7%BC%96%E6%AD%8C%E7%9A%84%E6%9D%83%E5%A8%81%E4%BA%86%23" target="weibo">
-仅用0秒就get到改编歌的权威了（热度：179240）
 </a>
 </li>
 
