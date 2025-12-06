@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764987537458,
+  "endTime": 1764990986158,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -27,12 +27,44 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 761432,
+      "num": 1121829,
+      "word": "九重紫",
+      "onboard_time": 1764983660,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 697538,
+      "num": 197334,
+      "word": "吴昕维嘉聊天30秒牵手转了三次圈",
+      "onboard_time": 1764988580,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 694612,
+      "num": 402938,
+      "word": "尖叫之夜出图",
+      "onboard_time": 1764988460,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611026,
       "num": 1097764,
       "word": "仅退款225个包裹后向商家转账求和解",
       "onboard_time": 1764978737,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 543548,
+      "num": 380416,
+      "word": "豆包手机 溢价",
+      "onboard_time": 1764988999,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 535327,
@@ -51,10 +83,26 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 384106,
-      "num": 277080,
-      "word": "九重紫",
-      "onboard_time": 1764983660,
+      "raw_hot": 410496,
+      "num": 230470,
+      "word": "王者荣耀 疯狂动物城",
+      "onboard_time": 1764985221,
+      "rank": 16,
+      "category": "电影,游戏"
+    },
+    {
+      "raw_hot": 386893,
+      "num": 234410,
+      "word": "主持人喊了两遍张本美和名字",
+      "onboard_time": 1764986001,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376043,
+      "num": 376043,
+      "word": "单身中女能有多爽",
+      "onboard_time": 1764988640,
       "rank": 6,
       "category": "剧集"
     },
@@ -67,12 +115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 327552,
-      "num": 234410,
-      "word": "主持人喊了两遍张本美和名字",
-      "onboard_time": 1764986001,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 346575,
+      "num": 194663,
+      "word": "秦昊田嘉瑞的征信都坐不了高铁",
+      "onboard_time": 1764989300,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 311401,
@@ -83,20 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302514,
-      "num": 230470,
-      "word": "王者荣耀 疯狂动物城",
-      "onboard_time": 1764985221,
-      "rank": 16,
-      "category": "电影,游戏"
-    },
-    {
       "raw_hot": 293183,
-      "num": 293183,
+      "num": 395991,
       "word": "世界杯死亡之组",
       "onboard_time": 1764978319,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288116,
+      "num": 190197,
+      "word": "杨幂爱奇艺尖叫之夜海报C位",
+      "onboard_time": 1764989481,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 280674,
@@ -113,6 +161,14 @@
       "onboard_time": 1764946702,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264666,
+      "num": 192847,
+      "word": "陈震回旋镖",
+      "onboard_time": 1764986840,
+      "rank": 26,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 258828,
@@ -195,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220167,
+      "num": 188895,
+      "word": "得闲谨制",
+      "onboard_time": 1764931522,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214218,
       "num": 116274,
       "word": "安徽一男子掉入草场粉碎机身亡",
@@ -235,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198304,
+      "num": 198304,
+      "word": "多家APP对豆包手机禁用",
+      "onboard_time": 1764988640,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192304,
       "num": 192304,
       "word": "李昀锐纪念九重紫开播一周年",
@@ -259,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182410,
+      "num": 182410,
+      "word": "得闲谨制排片",
+      "onboard_time": 1764986601,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181618,
       "num": 151026,
       "word": "这样玩手机严重可能失明",
@@ -275,12 +355,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 176397,
-      "num": 176397,
-      "word": "得闲谨制排片",
-      "onboard_time": 1764986601,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 181121,
+      "num": 181121,
+      "word": "罗晋 巷子里不许骑马",
+      "onboard_time": 1764989661,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 171224,
@@ -363,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144052,
+      "num": 126609,
+      "word": "白鹿曾舜晞合唱唯一彩排路透",
+      "onboard_time": 1764990320,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141388,
       "num": 141388,
       "word": "抽血显示怀孕子宫里却找不到胎儿",
@@ -377,6 +465,14 @@
       "onboard_time": 1764910701,
       "rank": 17,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 137526,
+      "num": 183888,
+      "word": "豆包手机",
+      "onboard_time": 1764989240,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 137228,
@@ -419,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124146,
-      "num": 124146,
-      "word": "陈震回旋镖",
-      "onboard_time": 1764986840,
-      "rank": 26,
-      "category": "民生新闻,汽车"
+      "raw_hot": 126657,
+      "num": 126657,
+      "word": "刘宇宁澳门逛街",
+      "onboard_time": 1764990500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126250,
+      "num": 126250,
+      "word": "马克龙感谢中方热情款待",
+      "onboard_time": 1764987621,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120002,
@@ -443,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119888,
+      "num": 119888,
+      "word": "美国大叔来中国瞬间破防",
+      "onboard_time": 1764990200,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117257,
       "num": 594827,
       "word": "VOGUE预告",
       "onboard_time": 1764946342,
       "rank": 4,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 114212,
+      "num": 127860,
+      "word": "美女入殓师修复最棘手遗体报价6万",
+      "onboard_time": 1764989240,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113244,
@@ -467,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108639,
+      "num": 97277,
+      "word": "电影得闲谨制上座率",
+      "onboard_time": 1764988520,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108159,
+      "num": 191436,
+      "word": "第一次有人火了之后不想当明星",
+      "onboard_time": 1764990561,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107770,
       "num": 111689,
       "word": "阻挠中国出席G7峰会日本想多了",
@@ -481,6 +617,14 @@
       "onboard_time": 1764945203,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106037,
+      "num": 106037,
+      "word": "这小猫胖得跟一房榴莲似的",
+      "onboard_time": 1764990140,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 105365,
@@ -521,6 +665,14 @@
       "onboard_time": 1764930681,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99563,
+      "num": 99563,
+      "word": "尖叫之夜预测",
+      "onboard_time": 1764989121,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97707,
@@ -571,6 +723,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88523,
+      "num": 100769,
+      "word": "枭起青壤云合掉到S级了",
+      "onboard_time": 1764990020,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88086,
+      "num": 88086,
+      "word": "左奇函受伤",
+      "onboard_time": 1764977898,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86210,
       "num": 86210,
       "word": "白鹿动物塑是傲娇小狐狸",
@@ -595,12 +763,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 84080,
-      "num": 84080,
-      "word": "左奇函受伤",
-      "onboard_time": 1764977898,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 84575,
+      "num": 95697,
+      "word": "物业回应老人每月2次在楼道烧纸",
+      "onboard_time": 1764988821,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83679,
@@ -691,6 +859,14 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 74533,
+      "num": 100869,
+      "word": "肖战一年5亿预售",
+      "onboard_time": 1764990260,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73662,
       "num": 111782,
       "word": "金晨自己化的妆",
@@ -721,6 +897,14 @@
       "onboard_time": 1764929002,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70856,
+      "num": 93938,
+      "word": "官方回应村委会要求村民禁用土炕取暖",
+      "onboard_time": 1764988761,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70072,
@@ -761,14 +945,6 @@
       "onboard_time": 1764949702,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64700,
-      "num": 64700,
-      "word": "得闲谨制",
-      "onboard_time": 1764931522,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 64183,
@@ -1035,12 +1211,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32492,
+      "num": 192178,
+      "word": "iRobot爆雷欠中国代工厂超25亿元",
+      "onboard_time": 1764990020,
+      "rank": 17,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 30489,
       "num": 36918,
       "word": "十人部落",
       "onboard_time": 1764957796,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29908,
+      "num": 190945,
+      "word": "台独是新日本法西斯帮凶和走狗",
+      "onboard_time": 1764990020,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29426,
@@ -1081,6 +1273,14 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 17913,
+      "num": 101167,
+      "word": "印度总统为普京举行国宴",
+      "onboard_time": 1764990561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17178,
