@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765146319326,
+  "endTime": 1765147304430,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -21043,6 +21043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 61361,
+      "num": 75874,
+      "word": "刘宇宁吃席打包",
+      "onboard_time": 1765141393,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61301,
       "num": 109916,
       "word": "美国生活在下水道的人",
@@ -22323,14 +22331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43499,
-      "num": 75874,
-      "word": "刘宇宁吃席打包",
-      "onboard_time": 1765141393,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43475,
       "num": 171070,
       "word": "4岁男童玩免费项目颅骨骨折",
@@ -23579,6 +23579,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 28892,
+      "num": 75642,
+      "word": "王一博微指破亿",
+      "onboard_time": 1765145115,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28816,
       "num": 152129,
       "word": "109人的炒股群108个托",
@@ -23875,6 +23883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25454,
+      "num": 75399,
+      "word": "哈尔滨的面包树上停满了小鸟",
+      "onboard_time": 1765134014,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25338,
       "num": 107140,
       "word": "真实的美国是什么样的",
@@ -23897,6 +23913,14 @@
       "onboard_time": 1764917542,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24938,
+      "num": 75683,
+      "word": "婴儿被褥印不雅英文",
+      "onboard_time": 1765129456,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24928,
@@ -24083,12 +24107,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23000,
-      "num": 75642,
-      "word": "王一博微指破亿",
-      "onboard_time": 1765145115,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 23066,
+      "num": 75488,
+      "word": "美国不再将俄罗斯称为直接威胁",
+      "onboard_time": 1765135694,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22988,
@@ -24152,14 +24176,6 @@
       "word": "骑手称电动车限速送单量可能减半",
       "onboard_time": 1764926781,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22675,
-      "num": 75683,
-      "word": "婴儿被褥印不雅英文",
-      "onboard_time": 1765129456,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -24323,6 +24339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19883,
+      "num": 75269,
+      "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
+      "onboard_time": 1765136473,
+      "rank": 26,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 19823,
       "num": 77519,
       "word": "副教授小区遇害案二审开庭",
@@ -24345,14 +24369,6 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19583,
-      "num": 75488,
-      "word": "美国不再将俄罗斯称为直接威胁",
-      "onboard_time": 1765135694,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19486,
@@ -24379,6 +24395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18876,
+      "num": 75006,
+      "word": "酒店回应中国女游客从9楼坠亡",
+      "onboard_time": 1765141994,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18795,
       "num": 179410,
       "word": "日本学者说高市应被停职处理",
@@ -24393,14 +24417,6 @@
       "onboard_time": 1764878054,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18656,
-      "num": 75399,
-      "word": "哈尔滨的面包树上停满了小鸟",
-      "onboard_time": 1765134014,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18642,
@@ -24563,6 +24579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16440,
+      "num": 75017,
+      "word": "周深但行好事前程已至",
+      "onboard_time": 1765142293,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16422,
       "num": 129191,
       "word": "妇幼医院用劣药仅处罚千元引质疑",
@@ -24579,20 +24603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16319,
-      "num": 75269,
-      "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
-      "onboard_time": 1765136473,
-      "rank": 26,
-      "category": "国际时政,艺人"
-    },
-    {
       "raw_hot": 16294,
       "num": 128550,
       "word": "大连暖气管爆裂事故致1死1伤",
       "onboard_time": 1764654202,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16238,
+      "num": 75151,
+      "word": "杨幂尖叫之夜最高荣誉",
+      "onboard_time": 1765139172,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 16214,
@@ -24617,14 +24641,6 @@
       "onboard_time": 1764697817,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16057,
-      "num": 75151,
-      "word": "杨幂尖叫之夜最高荣誉",
-      "onboard_time": 1765139172,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 15909,
@@ -24736,22 +24752,6 @@
       "word": "餐馆贴狗与外卖员勿进",
       "onboard_time": 1765006522,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13905,
-      "num": 75017,
-      "word": "周深但行好事前程已至",
-      "onboard_time": 1765142293,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 13849,
-      "num": 75006,
-      "word": "酒店回应中国女游客从9楼坠亡",
-      "onboard_time": 1765141994,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
