@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765118491017,
+  "endTime": 1765121093083,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -113,6 +113,14 @@
       "onboard_time": 1765072100,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 949892,
+      "num": 296272,
+      "word": "狼队对战KSG",
+      "onboard_time": 1765116442,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 943665,
@@ -248,6 +256,22 @@
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657322,
+      "num": 1105171,
+      "word": "马克龙夫人身边的中国女保镖",
+      "onboard_time": 1765116684,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 622550,
+      "num": 276554,
+      "word": "男子欠近5000元房费酒店倒贴都不搬",
+      "onboard_time": 1765117884,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -507,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402951,
-      "num": 259408,
-      "word": "马克龙夫人身边的中国女保镖",
-      "onboard_time": 1765116684,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 403152,
+      "num": 403152,
+      "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+      "onboard_time": 1765116984,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 401349,
@@ -563,12 +587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375941,
+      "num": 240770,
+      "word": "白鹿 差一张曾舜晞还没传给我",
+      "onboard_time": 1765117041,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368242,
       "num": 232503,
       "word": "沈梦辰居然奔四了",
       "onboard_time": 1765080801,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367826,
+      "num": 293932,
+      "word": "国乒冠军自拍",
+      "onboard_time": 1765118122,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 366487,
@@ -609,14 +649,6 @@
       "onboard_time": 1765035742,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345059,
-      "num": 293932,
-      "word": "国乒冠军自拍",
-      "onboard_time": 1765118122,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 344764,
@@ -665,6 +697,14 @@
       "onboard_time": 1765108881,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324879,
+      "num": 232044,
+      "word": "杨紫包场支持得闲谨制",
+      "onboard_time": 1765120164,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 324274,
@@ -843,14 +883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 271146,
-      "num": 271146,
-      "word": "孙颖莎王楚钦混双战绩恐怖如斯",
-      "onboard_time": 1765116984,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268894,
       "num": 235250,
       "word": "美防长警告日本",
@@ -921,14 +953,6 @@
       "onboard_time": 1765107142,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253840,
-      "num": 230284,
-      "word": "狼队对战KSG",
-      "onboard_time": 1765116442,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 248464,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1765029984,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220982,
+      "num": 220982,
+      "word": "全季酒店保洁用毛巾擦马桶",
+      "onboard_time": 1765120040,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220539,
@@ -1243,14 +1275,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 200157,
-      "num": 200157,
-      "word": "白鹿 差一张曾舜晞还没传给我",
-      "onboard_time": 1765117041,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198679,
       "num": 198679,
       "word": "成毅张涵予眼神对狙这一秒",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1765028664,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193369,
+      "num": 193369,
+      "word": "何浩楠做了5个小时的饭",
+      "onboard_time": 1765120040,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 191817,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1765100060,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183100,
+      "num": 183100,
+      "word": "邓紫棋到底在给谁作词",
+      "onboard_time": 1765121062,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 181184,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1765098381,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 166932,
+      "num": 166932,
+      "word": "诺里斯F1世界冠军",
+      "onboard_time": 1765118662,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 166667,
@@ -1851,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139797,
+      "num": 139797,
+      "word": "台日竟然还想夹击解放军",
+      "onboard_time": 1765119624,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139370,
       "num": 581125,
       "word": "2025成都混团世界杯",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1765073901,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137598,
+      "num": 137598,
+      "word": "日籍八路军战士之子发声",
+      "onboard_time": 1765119863,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136749,
@@ -2131,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125070,
+      "num": 125070,
+      "word": "Peyz加入T1首秀MVP",
+      "onboard_time": 1765119982,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124913,
       "num": 124913,
       "word": "这居然是杨和苏",
@@ -2211,12 +2283,28 @@
       "category": "海外新闻,汽车"
     },
     {
+      "raw_hot": 122575,
+      "num": 122575,
+      "word": "孙颖莎说冠军属于我们大家",
+      "onboard_time": 1765120040,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122192,
       "num": 122192,
       "word": "林诗栋2比1张禹珍",
       "onboard_time": 1765080320,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121816,
+      "num": 121816,
+      "word": "难不倒小学生却难倒了大学生",
+      "onboard_time": 1765120402,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 121745,
@@ -2345,6 +2433,14 @@
       "onboard_time": 1765082362,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118015,
+      "num": 269031,
+      "word": "央视曝光智驾神器成夺命陷阱",
+      "onboard_time": 1765117524,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 117911,
@@ -2635,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106264,
-      "num": 226756,
-      "word": "男子欠近5000元房费酒店倒贴都不搬",
-      "onboard_time": 1765117884,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105294,
       "num": 105294,
       "word": "哈尔滨 媚南",
@@ -2739,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102048,
+      "num": 121892,
+      "word": "那英说歌坛很需要活人",
+      "onboard_time": 1765119743,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101456,
       "num": 101456,
       "word": "蒯曼王曼昱vs李恩惠崔孝珠",
@@ -2760,6 +2856,14 @@
       "word": "WTT",
       "onboard_time": 1765118122,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100659,
+      "num": 100659,
+      "word": "维斯塔潘赛后TR",
+      "onboard_time": 1765119624,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2881,6 +2985,14 @@
       "onboard_time": 1765096880,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94259,
+      "num": 95952,
+      "word": "白桃星座",
+      "onboard_time": 1765121062,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 93576,
@@ -3009,6 +3121,14 @@
       "onboard_time": 1765090160,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88573,
+      "num": 125438,
+      "word": "马斯克呼吁废除欧盟",
+      "onboard_time": 1765119082,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87580,
@@ -3161,14 +3281,6 @@
       "onboard_time": 1765100662,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72245,
-      "num": 269031,
-      "word": "央视曝光智驾神器成夺命陷阱",
-      "onboard_time": 1765117524,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 71958,
@@ -3499,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37360,
+      "num": 115431,
+      "word": "入室抢婴案主犯庭审多次傲慢抖腿",
+      "onboard_time": 1765120822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36878,
       "num": 36878,
       "word": "工作室快点把檀健次的手机收了",
@@ -3609,6 +3729,14 @@
       "onboard_time": 1765113081,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21576,
+      "num": 202619,
+      "word": "智驾神器线上偷着卖线下偷着装",
+      "onboard_time": 1765120282,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21167,

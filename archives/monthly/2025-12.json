@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765118491017,
+  "endTime": 1765121093083,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -851,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949892,
+      "num": 296272,
+      "word": "狼队对战KSG",
+      "onboard_time": 1765116442,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 944633,
       "num": 944633,
       "word": "杨幂 祖海女王",
@@ -1531,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 657322,
+      "num": 1105171,
+      "word": "马克龙夫人身边的中国女保镖",
+      "onboard_time": 1765116684,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 657025,
       "num": 602380,
       "word": "业内曝大量艺人资源降级",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1765030404,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622550,
+      "num": 276554,
+      "word": "男子欠近5000元房费酒店倒贴都不搬",
+      "onboard_time": 1765117884,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 622339,
@@ -3531,12 +3555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 402951,
-      "num": 259408,
-      "word": "马克龙夫人身边的中国女保镖",
-      "onboard_time": 1765116684,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 403152,
+      "num": 403152,
+      "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+      "onboard_time": 1765116984,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 401839,
@@ -3915,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375941,
+      "num": 240770,
+      "word": "白鹿 差一张曾舜晞还没传给我",
+      "onboard_time": 1765117041,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374769,
       "num": 374769,
       "word": "美国博主在中国看病被检测费震惊",
@@ -3961,6 +3993,14 @@
       "onboard_time": 1765080801,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367826,
+      "num": 293932,
+      "word": "国乒冠军自拍",
+      "onboard_time": 1765118122,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 366906,
@@ -4347,14 +4387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345059,
-      "num": 293932,
-      "word": "国乒冠军自拍",
-      "onboard_time": 1765118122,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 344764,
       "num": 473947,
       "word": "新疆高速交通事故9死7伤",
@@ -4657,6 +4689,14 @@
       "onboard_time": 1764735681,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324879,
+      "num": 232044,
+      "word": "杨紫包场支持得闲谨制",
+      "onboard_time": 1765120164,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 324532,
@@ -5587,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271146,
-      "num": 271146,
-      "word": "孙颖莎王楚钦混双战绩恐怖如斯",
-      "onboard_time": 1765116984,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271043,
       "num": 211292,
       "word": "21岁和26岁差距真的很大",
@@ -5985,14 +6017,6 @@
       "onboard_time": 1764719660,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 253840,
-      "num": 230284,
-      "word": "狼队对战KSG",
-      "onboard_time": 1765116442,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 253373,
@@ -6801,6 +6825,14 @@
       "onboard_time": 1764898760,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220982,
+      "num": 220982,
+      "word": "全季酒店保洁用毛巾擦马桶",
+      "onboard_time": 1765120040,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220539,
@@ -7819,14 +7851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200157,
-      "num": 200157,
-      "word": "白鹿 差一张曾舜晞还没传给我",
-      "onboard_time": 1765117041,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199831,
       "num": 199831,
       "word": "电动车时速超25公里就断电",
@@ -8185,6 +8209,14 @@
       "onboard_time": 1764902660,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 193369,
+      "num": 193369,
+      "word": "何浩楠做了5个小时的饭",
+      "onboard_time": 1765120040,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 193346,
@@ -8857,6 +8889,14 @@
       "onboard_time": 1765027824,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183100,
+      "num": 183100,
+      "word": "邓紫棋到底在给谁作词",
+      "onboard_time": 1765121062,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 182857,
@@ -9745,6 +9785,14 @@
       "onboard_time": 1765031004,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166932,
+      "num": 166932,
+      "word": "诺里斯F1世界冠军",
+      "onboard_time": 1765118662,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 166810,
@@ -12059,6 +12107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139797,
+      "num": 139797,
+      "word": "台日竟然还想夹击解放军",
+      "onboard_time": 1765119624,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "罗云熙同学聚会签名",
@@ -12265,6 +12321,14 @@
       "onboard_time": 1764760400,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137598,
+      "num": 137598,
+      "word": "日籍八路军战士之子发声",
+      "onboard_time": 1765119863,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137570,
@@ -13691,6 +13755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125070,
+      "num": 125070,
+      "word": "Peyz加入T1首秀MVP",
+      "onboard_time": 1765119982,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125032,
       "num": 125032,
       "word": "谁家好剧1个好人6个狼人",
@@ -14019,6 +14091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122575,
+      "num": 122575,
+      "word": "孙颖莎说冠军属于我们大家",
+      "onboard_time": 1765120040,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张继科杯混团冠军奖金15万",
@@ -14113,6 +14193,14 @@
       "onboard_time": 1764558440,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121816,
+      "num": 121816,
+      "word": "难不倒小学生却难倒了大学生",
+      "onboard_time": 1765120402,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 121745,
@@ -14721,6 +14809,14 @@
       "onboard_time": 1765082362,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118015,
+      "num": 269031,
+      "word": "央视曝光智驾神器成夺命陷阱",
+      "onboard_time": 1765117524,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 117911,
@@ -16203,14 +16299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 106264,
-      "num": 226756,
-      "word": "男子欠近5000元房费酒店倒贴都不搬",
-      "onboard_time": 1765117884,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106181,
       "num": 104768,
       "word": "鼠鼠在太空喝足了豆浆",
@@ -16859,6 +16947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102048,
+      "num": 121892,
+      "word": "那英说歌坛很需要活人",
+      "onboard_time": 1765119743,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101965,
       "num": 101965,
       "word": "枭起青壤豆瓣开分6.3",
@@ -17065,6 +17161,14 @@
       "onboard_time": 1764771623,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100659,
+      "num": 100659,
+      "word": "维斯塔潘赛后TR",
+      "onboard_time": 1765119624,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100630,
@@ -18625,6 +18729,14 @@
       "onboard_time": 1764927741,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88573,
+      "num": 125438,
+      "word": "马斯克呼吁废除欧盟",
+      "onboard_time": 1765119082,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88562,
@@ -20193,14 +20305,6 @@
       "onboard_time": 1764860723,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 72245,
-      "num": 269031,
-      "word": "央视曝光智驾神器成夺命陷阱",
-      "onboard_time": 1765117524,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 72235,
@@ -22691,6 +22795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 37360,
+      "num": 115431,
+      "word": "入室抢婴案主犯庭审多次傲慢抖腿",
+      "onboard_time": 1765120822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37285,
       "num": 68235,
       "word": "雷军回应小米YU7获一级能效认证",
@@ -23873,6 +23985,14 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 21576,
+      "num": 202619,
+      "word": "智驾神器线上偷着卖线下偷着装",
+      "onboard_time": 1765120282,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21167,
