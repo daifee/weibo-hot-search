@@ -1,0 +1,410 @@
+{
+  "runTime": 1765103163693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 538985,
+        "num": 1086237,
+        "word": "男子海洋馆内抽烟被白鲸喷水",
+        "onboard_time": 1765094060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434182,
+        "num": 434182,
+        "word": "樊振东陈梦发文入选十大体育新闻",
+        "onboard_time": 1765099880,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26532,
+        "num": 282759,
+        "word": "国家医保目录新增114种药品",
+        "onboard_time": 1765070961,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261222,
+        "num": 261222,
+        "word": "山东申论",
+        "onboard_time": 1765099940,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251445,
+        "num": 251445,
+        "word": "课本上明太祖画像换了",
+        "onboard_time": 1765088480,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 528969,
+        "num": 250685,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765095860,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243844,
+        "num": 243844,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202698,
+        "num": 202698,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193857,
+        "num": 193857,
+        "word": "刘耀文将缺席星光大赏",
+        "onboard_time": 1765100181,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144599,
+        "num": 144599,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575930,
+        "num": 142851,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524445,
+        "num": 137606,
+        "word": "王梓莼回应了",
+        "onboard_time": 1765096641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466576,
+        "num": 132697,
+        "word": "女子婚后出轨伴郎并生娃双双获刑",
+        "onboard_time": 1765097481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395896,
+        "num": 129979,
+        "word": "转念花开 贾玲张小斐杨紫",
+        "onboard_time": 1765100541,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318087,
+        "num": 126690,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297939,
+        "num": 123302,
+        "word": "海涛留学留疯了",
+        "onboard_time": 1765098741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "山东省考",
+        "onboard_time": 1765100060,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110378,
+        "num": 110378,
+        "word": "江苏省考",
+        "onboard_time": 1765100060,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93488,
+        "num": 110371,
+        "word": "谈恋爱要从朋友开始",
+        "onboard_time": 1765098860,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96654,
+        "num": 110154,
+        "word": "疯狂动物城2破30亿",
+        "onboard_time": 1765102160,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251978,
+        "num": 110109,
+        "word": "慕胥辞",
+        "onboard_time": 1765100900,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45227,
+        "num": 109993,
+        "word": "应急管理部指导连霍高速事故救援",
+        "onboard_time": 1765101381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876922,
+        "num": 109859,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534148,
+        "num": 109726,
+        "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+        "onboard_time": 1765094239,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369388,
+        "num": 109609,
+        "word": "乔欣南法度假",
+        "onboard_time": 1765099041,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17683,
+        "num": 109499,
+        "word": "日本学者说高市应被停职处理",
+        "onboard_time": 1765102939,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246924,
+        "num": 109356,
+        "word": "李纯马頔腿一样长",
+        "onboard_time": 1765097421,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192171,
+        "num": 109271,
+        "word": "KatyPerry官宣恋情",
+        "onboard_time": 1765098741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152508,
+        "num": 109182,
+        "word": "刘晓庆 头回拿这么小的奖怪新鲜的",
+        "onboard_time": 1765097240,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119216,
+        "num": 109084,
+        "word": "突然就明白了多年前同学录的意思",
+        "onboard_time": 1765098680,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186996,
+        "num": 108890,
+        "word": "刘诗诗白鹿 爱奇艺",
+        "onboard_time": 1765090461,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145588,
+        "num": 108815,
+        "word": "肖战哭了",
+        "onboard_time": 1765090881,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108768,
+        "num": 108768,
+        "word": "于正称因平台有补偿才准周柯宇的假",
+        "onboard_time": 1765095141,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100616,
+        "num": 100616,
+        "word": "幼儿园 本园不养闲人",
+        "onboard_time": 1765102281,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92578,
+        "num": 92578,
+        "word": "在公司吃饭瘦了20斤",
+        "onboard_time": 1765101921,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138254,
+        "num": 89509,
+        "word": "得闲谨制打破9项影史纪录",
+        "onboard_time": 1765101261,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108536,
+        "num": 87469,
+        "word": "朱美吉直播",
+        "onboard_time": 1765102939,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81507,
+        "num": 81507,
+        "word": "21天不吃糖是什么体验",
+        "onboard_time": 1765091599,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77903,
+        "num": 77903,
+        "word": "江苏申论",
+        "onboard_time": 1765098140,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76632,
+        "num": 76632,
+        "word": "二婚夫妻买2套房被丈夫过户前妻",
+        "onboard_time": 1765090700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92131,
+        "num": 76510,
+        "word": "尖叫之夜 没有一个不漂亮",
+        "onboard_time": 1765099341,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16635,
+        "num": 76133,
+        "word": "最忙五人组又双叒叕解锁新场景",
+        "onboard_time": 1765101860,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85794,
+        "num": 75830,
+        "word": "方媛自曝三胎顺产",
+        "onboard_time": 1765095080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76685,
+        "num": 75678,
+        "word": "贺峻霖 星光大赏主持人",
+        "onboard_time": 1765090339,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69190,
+        "num": 75276,
+        "word": "丈夫把2套房过户前妻",
+        "onboard_time": 1765098201,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75206,
+        "num": 75206,
+        "word": "得闲谨制 台词里的高级隐喻",
+        "onboard_time": 1765102700,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73064,
+        "num": 73064,
+        "word": "焦虑型失眠vs抑郁型失眠",
+        "onboard_time": 1765100662,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70472,
+        "num": 73056,
+        "word": "身上肉软其实就是体脂率高",
+        "onboard_time": 1765102880,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67961,
+        "num": 72736,
+        "word": "库克被曝频繁手震",
+        "onboard_time": 1765097360,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71101,
+        "num": 72378,
+        "word": "李昀锐告了132人",
+        "onboard_time": 1765085001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法两国共有独立自主精神#"
+    }
+  }
+}
