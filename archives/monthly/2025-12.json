@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765093061157,
+  "endTime": 1765096380016,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -691,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1020490,
+      "num": 301312,
+      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+      "onboard_time": 1765094239,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1019056,
       "num": 844662,
       "word": "葛夕上恋综 留几手破防",
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 714653,
-      "num": 690387,
+      "num": 1088257,
       "word": "课本上明太祖照片换了",
       "onboard_time": 1765088480,
       "rank": 30,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1764902900,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671890,
+      "num": 273368,
+      "word": "杨幂嫌弃董璇拍照",
+      "onboard_time": 1765095440,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 668932,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1764664042,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 540206,
+      "num": 199674,
+      "word": "21天不吃糖是什么体验",
+      "onboard_time": 1765091599,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 539607,
@@ -4411,6 +4435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324274,
+      "num": 199305,
+      "word": "于正称因平台有补偿才准周柯宇的假",
+      "onboard_time": 1765095141,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324015,
       "num": 215760,
       "word": "葛夕约会",
@@ -4561,6 +4593,14 @@
       "onboard_time": 1764663082,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316096,
+      "num": 278084,
+      "word": "肖战哭了",
+      "onboard_time": 1765090881,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 315522,
@@ -5096,14 +5136,6 @@
       "word": "肖战角色包场得闲谨制",
       "onboard_time": 1764772044,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 278084,
-      "num": 278084,
-      "word": "肖战哭了",
-      "onboard_time": 1765090881,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -6283,6 +6315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225560,
+      "num": 198360,
+      "word": "马克龙用中文发帖感谢中国",
+      "onboard_time": 1765092140,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -6539,6 +6579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214193,
+      "num": 198187,
+      "word": "男子海洋馆内抽烟被白鲸喷水",
+      "onboard_time": 1765094060,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214078,
       "num": 214078,
       "word": "李一桐唱了TF四代的歌",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1764919340,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212640,
+      "num": 192984,
+      "word": "刘浩存跳了呕吐舞",
+      "onboard_time": 1765095681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 212587,
@@ -6713,6 +6769,14 @@
       "onboard_time": 1764933981,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209829,
+      "num": 209829,
+      "word": "广东省考",
+      "onboard_time": 1765093639,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 209772,
@@ -7331,6 +7395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199999,
+      "num": 199999,
+      "word": "日本自卫队滋扰辽宁舰训练",
+      "onboard_time": 1765095320,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199831,
       "num": 199831,
       "word": "电动车时速超25公里就断电",
@@ -7675,6 +7747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192883,
+      "num": 189257,
+      "word": "方媛自曝三胎顺产",
+      "onboard_time": 1765095080,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192663,
       "num": 187819,
       "word": "工作一整年存了3700块钱",
@@ -7817,6 +7897,14 @@
       "onboard_time": 1764593543,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "宋祖儿任嘉伦唠嗑唠生气了",
+      "onboard_time": 1765095500,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 189890,
@@ -11331,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139284,
+      "num": 139284,
+      "word": "得闲谨制猫眼开分9.7分",
+      "onboard_time": 1765094900,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139123,
       "num": 139123,
       "word": "杨紫的家业还是太火了",
@@ -11817,14 +11913,6 @@
       "onboard_time": 1765005321,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134359,
-      "num": 134359,
-      "word": "21天不吃糖是什么体验",
-      "onboard_time": 1765091599,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 134350,
@@ -12955,6 +13043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "韩国凑不齐的五个云南凑齐了",
+      "onboard_time": 1765093461,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123324,
       "num": 759151,
       "word": "电影得闲谨制",
@@ -13187,6 +13283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121569,
+      "num": 140716,
+      "word": "外网对日本文化祛魅",
+      "onboard_time": 1765093521,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121566,
       "num": 121566,
       "word": "赵雅芝全家福",
@@ -13393,6 +13497,14 @@
       "onboard_time": 1764686724,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "男女涉卖淫嫖娼被罚",
+      "onboard_time": 1765095320,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 120086,
@@ -14259,6 +14371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113813,
+      "num": 113813,
+      "word": "情久对战TTG",
+      "onboard_time": 1765096158,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113811,
       "num": 113811,
       "word": "王者荣耀大隐于市的高手",
@@ -14955,6 +15075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107321,
+      "num": 107321,
+      "word": "王楚钦撤回一个下班卡",
+      "onboard_time": 1765096222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107249,
       "num": 95956,
       "word": "路人偶遇Angelababy接小海绵放学",
@@ -15585,6 +15713,14 @@
       "onboard_time": 1764632479,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102678,
+      "num": 102678,
+      "word": "感觉每只被抱起来都问了句干嘛",
+      "onboard_time": 1765096158,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102623,
@@ -17707,6 +17843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85036,
+      "num": 163515,
+      "word": "中国对日企稀土出口审批流程变长",
+      "onboard_time": 1765094840,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85031,
       "num": 120260,
       "word": "韩国8比6中国台北",
@@ -18443,6 +18587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77572,
+      "num": 138323,
+      "word": "荷兰大臣称对中方反制措手不及",
+      "onboard_time": 1765094239,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77272,
       "num": 77272,
       "word": "考编第一因学历重叠落选是否有猫腻",
@@ -19113,6 +19265,14 @@
       "onboard_time": 1764870017,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68168,
+      "num": 186856,
+      "word": "解放军全时备战能力达空前水平",
+      "onboard_time": 1765094840,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 68101,
@@ -20571,6 +20731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44320,
+      "num": 113817,
+      "word": "国外女子产下不同父亲的双胞胎",
+      "onboard_time": 1765094900,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44293,
       "num": 91323,
       "word": "仙逆",
@@ -20753,6 +20921,14 @@
       "onboard_time": 1764925881,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42227,
+      "num": 126232,
+      "word": "12306回应高铁盲文无凸起",
+      "onboard_time": 1765095681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42222,
@@ -20953,6 +21129,14 @@
       "onboard_time": 1764586822,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40076,
+      "num": 130624,
+      "word": "Gumayusi说能战胜T1",
+      "onboard_time": 1765096101,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 40073,
@@ -22705,6 +22889,14 @@
       "onboard_time": 1764657620,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15042,
+      "num": 134161,
+      "word": "马克龙访华任务完成了吗",
+      "onboard_time": 1765095561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14912,

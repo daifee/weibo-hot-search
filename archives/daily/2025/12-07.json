@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765093061157,
+  "endTime": 1765096380016,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -72,6 +72,14 @@
       "word": "刘宇宁尖叫男演员",
       "onboard_time": 1765037004,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1020490,
+      "num": 301312,
+      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+      "onboard_time": 1765094239,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 714653,
-      "num": 690387,
+      "num": 1088257,
       "word": "课本上明太祖照片换了",
       "onboard_time": 1765088480,
       "rank": 30,
@@ -177,6 +185,14 @@
       "onboard_time": 1765078101,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 671890,
+      "num": 273368,
+      "word": "杨幂嫌弃董璇拍照",
+      "onboard_time": 1765095440,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 666783,
@@ -201,6 +217,14 @@
       "onboard_time": 1765077680,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540206,
+      "num": 199674,
+      "word": "21天不吃糖是什么体验",
+      "onboard_time": 1765091599,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 537878,
@@ -403,6 +427,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 324274,
+      "num": 199305,
+      "word": "于正称因平台有补偿才准周柯宇的假",
+      "onboard_time": 1765095141,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322544,
       "num": 284988,
       "word": "浙江省考我数推呢",
@@ -424,6 +456,14 @@
       "word": "天地玄黄 宇宙洪荒",
       "onboard_time": 1765075761,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 316096,
+      "num": 278084,
+      "word": "肖战哭了",
+      "onboard_time": 1765090881,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -481,14 +521,6 @@
       "onboard_time": 1765031966,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278084,
-      "num": 278084,
-      "word": "肖战哭了",
-      "onboard_time": 1765090881,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 276879,
@@ -587,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225560,
+      "num": 198360,
+      "word": "马克龙用中文发帖感谢中国",
+      "onboard_time": 1765092140,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221762,
       "num": 221762,
       "word": "丁禹兮评论了张函瑞",
@@ -619,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214193,
+      "num": 198187,
+      "word": "男子海洋馆内抽烟被白鲸喷水",
+      "onboard_time": 1765094060,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212640,
+      "num": 192984,
+      "word": "刘浩存跳了呕吐舞",
+      "onboard_time": 1765095681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212320,
       "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
@@ -633,6 +689,14 @@
       "onboard_time": 1765063338,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209829,
+      "num": 209829,
+      "word": "广东省考",
+      "onboard_time": 1765093639,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 209367,
@@ -731,6 +795,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 199999,
+      "num": 199999,
+      "word": "日本自卫队滋扰辽宁舰训练",
+      "onboard_time": 1765095320,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 198115,
+      "num": 198115,
+      "word": "腾讯视频星光大赏",
+      "onboard_time": 1765095860,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -747,11 +827,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192883,
+      "num": 189257,
+      "word": "方媛自曝三胎顺产",
+      "onboard_time": 1765095080,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191679,
       "num": 191679,
       "word": "贺峻霖 星光大赏主持人",
       "onboard_time": 1765090339,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "宋祖儿任嘉伦唠嗑唠生气了",
+      "onboard_time": 1765095500,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1067,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139284,
+      "num": 139284,
+      "word": "得闲谨制猫眼开分9.7分",
+      "onboard_time": 1765094900,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138260,
       "num": 138260,
       "word": "速效救心丸 舌下含服",
@@ -1113,14 +1217,6 @@
       "onboard_time": 1765085360,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134359,
-      "num": 134359,
-      "word": "21天不吃糖是什么体验",
-      "onboard_time": 1765091599,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 133599,
@@ -1219,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "韩国凑不齐的五个云南凑齐了",
+      "onboard_time": 1765093461,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 122192,
       "num": 122192,
       "word": "林诗栋2比1张禹珍",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1765075580,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121569,
+      "num": 140716,
+      "word": "外网对日本文化祛魅",
+      "onboard_time": 1765093521,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121191,
@@ -1257,6 +1369,14 @@
       "onboard_time": 1765086321,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "男女涉卖淫嫖娼被罚",
+      "onboard_time": 1765095320,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119902,
@@ -1379,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113813,
+      "num": 113813,
+      "word": "情久对战TTG",
+      "onboard_time": 1765096158,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113241,
       "num": 215604,
       "word": "爱你老己是什么梗",
@@ -1483,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107321,
+      "num": 107321,
+      "word": "王楚钦撤回一个下班卡",
+      "onboard_time": 1765096222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
@@ -1545,6 +1681,14 @@
       "onboard_time": 1765037603,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102678,
+      "num": 102678,
+      "word": "感觉每只被抱起来都问了句干嘛",
+      "onboard_time": 1765096158,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101456,
@@ -1747,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85036,
+      "num": 163515,
+      "word": "中国对日企稀土出口审批流程变长",
+      "onboard_time": 1765094840,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83445,
       "num": 83445,
       "word": "虞书欣 全开麦",
@@ -1761,6 +1913,14 @@
       "onboard_time": 1765063998,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77572,
+      "num": 138323,
+      "word": "荷兰大臣称对中方反制措手不及",
+      "onboard_time": 1765094239,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75562,
@@ -1793,6 +1953,14 @@
       "onboard_time": 1765080021,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68168,
+      "num": 186856,
+      "word": "解放军全时备战能力达空前水平",
+      "onboard_time": 1765094840,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 67414,
@@ -1987,12 +2155,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44320,
+      "num": 113817,
+      "word": "国外女子产下不同父亲的双胞胎",
+      "onboard_time": 1765094900,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42227,
+      "num": 126232,
+      "word": "12306回应高铁盲文无凸起",
+      "onboard_time": 1765095681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40843,
       "num": 293196,
       "word": "下周降6到10摄氏度",
       "onboard_time": 1765066160,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40076,
+      "num": 130624,
+      "word": "Gumayusi说能战胜T1",
+      "onboard_time": 1765096101,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 36878,
@@ -2081,6 +2273,14 @@
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15042,
+      "num": 134161,
+      "word": "马克龙访华任务完成了吗",
+      "onboard_time": 1765095561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13118,
