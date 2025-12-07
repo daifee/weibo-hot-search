@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765080093795,
+  "endTime": 1765080640116,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 674424,
-      "num": 674424,
+      "raw_hot": 680273,
+      "num": 680273,
       "word": "山东省考 谁出的图推",
       "onboard_time": 1765078101,
       "rank": 4,
@@ -195,6 +195,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 382600,
+      "num": 285057,
+      "word": "王楚钦紧急撤回一次击掌",
+      "onboard_time": 1765077680,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382581,
       "num": 288929,
       "word": "得闲谨制 幕后制作王一博",
@@ -235,6 +243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340343,
+      "num": 259260,
+      "word": "邓为的狗去世了",
+      "onboard_time": 1765077800,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333769,
+      "num": 282953,
+      "word": "小酒窝晒了17张尖叫之夜合照",
+      "onboard_time": 1765079661,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322544,
       "num": 284988,
       "word": "浙江省考我数推呢",
@@ -251,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315675,
-      "num": 283244,
-      "word": "王楚钦紧急撤回一次击掌",
-      "onboard_time": 1765077680,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 318520,
+      "num": 280978,
+      "word": "天地玄黄 宇宙洪荒",
+      "onboard_time": 1765075761,
+      "rank": 14,
+      "category": "电影"
     },
     {
-      "raw_hot": 314880,
-      "num": 248130,
-      "word": "邓为的狗去世了",
-      "onboard_time": 1765077800,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 315522,
+      "num": 279529,
+      "word": "郭美美出狱后炫富博眼球账号被关",
+      "onboard_time": 1765078460,
+      "rank": 16,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 311545,
@@ -273,14 +297,6 @@
       "onboard_time": 1765028605,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 305061,
-      "num": 280978,
-      "word": "天地玄黄 宇宙洪荒",
-      "onboard_time": 1765075761,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 300027,
@@ -297,14 +313,6 @@
       "onboard_time": 1765030404,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279529,
-      "num": 279529,
-      "word": "郭美美出狱后炫富博眼球账号被关",
-      "onboard_time": 1765078460,
-      "rank": 16,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 279451,
@@ -329,6 +337,22 @@
       "onboard_time": 1765075161,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276546,
+      "num": 258374,
+      "word": "于正说赵晴每天运动超过六小时",
+      "onboard_time": 1765080201,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270719,
+      "num": 270719,
+      "word": "法新社 马克龙",
+      "onboard_time": 1765079481,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 263839,
@@ -419,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217671,
+      "num": 217671,
+      "word": "周扬青 甲方就是爸爸",
+      "onboard_time": 1765079361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214622,
       "num": 214622,
       "word": "兰迪变云迪",
@@ -483,16 +515,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198495,
-      "num": 198495,
-      "word": "周扬青 甲方就是爸爸",
-      "onboard_time": 1765079361,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 197804,
-      "num": 197804,
+      "raw_hot": 200284,
+      "num": 200284,
       "word": "让体脂率不断下降的习惯",
       "onboard_time": 1765077441,
       "rank": 27,
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143705,
+      "num": 143705,
+      "word": "江苏省考 草稿纸",
+      "onboard_time": 1765080201,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141190,
       "num": 141190,
       "word": "翟子路回应叫错李兰迪名字",
@@ -723,6 +755,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124110,
+      "num": 124110,
+      "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+      "onboard_time": 1765080440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123093,
+      "num": 123093,
+      "word": "山村老尸和她的李逵闺蜜",
+      "onboard_time": 1765079001,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122192,
+      "num": 122192,
+      "word": "林诗栋2比1张禹珍",
+      "onboard_time": 1765080320,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121745,
       "num": 121745,
       "word": "得闲谨制隐喻",
@@ -753,14 +809,6 @@
       "onboard_time": 1765071080,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119226,
-      "num": 119226,
-      "word": "山村老尸和她的李逵闺蜜",
-      "onboard_time": 1765079001,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 118233,
@@ -929,14 +977,6 @@
       "onboard_time": 1765031666,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94682,
-      "num": 257453,
-      "word": "法新社 马克龙",
-      "onboard_time": 1765079481,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93255,
@@ -1115,12 +1155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51822,
-      "num": 149690,
+      "raw_hot": 55098,
+      "num": 262337,
       "word": "日本拟打造日版中情局",
       "onboard_time": 1765080021,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52365,
+      "num": 696271,
+      "word": "文化中国行大雪节气",
+      "onboard_time": 1765079781,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51639,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1765063819,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50035,
+      "num": 725755,
+      "word": "冬天里的大美中国",
+      "onboard_time": 1765080081,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49524,
@@ -1171,20 +1227,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34461,
-      "num": 696271,
-      "word": "文化中国行大雪节气",
-      "onboard_time": 1765079781,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33213,
       "num": 102422,
       "word": "铜价冲破11500美元",
       "onboard_time": 1765041678,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24723,
+      "num": 129703,
+      "word": "新国标电动车爬陡坡吃力得靠人推",
+      "onboard_time": 1765079781,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22155,
+      "num": 293196,
+      "word": "下周降6到10摄氏度",
+      "onboard_time": 1765066160,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20556,
@@ -1209,22 +1273,6 @@
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14656,
-      "num": 289757,
-      "word": "下周降6到10摄氏度",
-      "onboard_time": 1765066160,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12972,
-      "num": 129703,
-      "word": "新国标电动车爬陡坡吃力得靠人推",
-      "onboard_time": 1765079781,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9491,
