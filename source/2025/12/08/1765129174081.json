@@ -1,0 +1,410 @@
+{
+  "runTime": 1765129174081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 262901,
+        "num": 392133,
+        "word": "中方不接受日方所谓交涉",
+        "onboard_time": 1765121242,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76908,
+        "num": 338272,
+        "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+        "onboard_time": 1765116984,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14515,
+        "num": 297610,
+        "word": "国产挖掘机零下40摄氏度一秒启动",
+        "onboard_time": 1765113682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292024,
+        "num": 292024,
+        "word": "张凌赫偷瞄白鹿",
+        "onboard_time": 1765110681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136135,
+        "num": 291150,
+        "word": "狼队对战KSG",
+        "onboard_time": 1765116442,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171528,
+        "num": 265776,
+        "word": "男子欠近5000元房费酒店倒贴都不搬",
+        "onboard_time": 1765117884,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89265,
+        "num": 260082,
+        "word": "台日竟然还想夹击解放军",
+        "onboard_time": 1765119624,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67794,
+        "num": 238590,
+        "word": "地铁上用围巾擦奶茶的女生找到啦",
+        "onboard_time": 1765104622,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 66061,
+        "num": 226112,
+        "word": "全季酒店保洁用毛巾擦马桶",
+        "onboard_time": 1765120040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36235,
+        "num": 210835,
+        "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
+        "onboard_time": 1765111701,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487046,
+        "num": 207284,
+        "word": "很多胃癌是一口一口吃出来的",
+        "onboard_time": 1765125198,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194169,
+        "num": 194169,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171921,
+        "num": 194166,
+        "word": "白鹿编辑记录",
+        "onboard_time": 1765122021,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123646,
+        "num": 194123,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91761,
+        "num": 194096,
+        "word": "曾舜晞上脸 刘宇宁追着调侃",
+        "onboard_time": 1765124717,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80223,
+        "num": 194063,
+        "word": "男子隐瞒病史女儿患病",
+        "onboard_time": 1765121780,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76725,
+        "num": 194031,
+        "word": "檀健次从屁股兜掏手机发微博",
+        "onboard_time": 1765122261,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66478,
+        "num": 193998,
+        "word": "刘亦菲阿布扎比观赛F1",
+        "onboard_time": 1765112661,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 52026,
+        "num": 193971,
+        "word": "人贩子被判死缓后对被害人破口大骂",
+        "onboard_time": 1765103540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49820,
+        "num": 193941,
+        "word": "节食减重50斤吃麻辣烫时晕倒被烫伤",
+        "onboard_time": 1765115003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60476,
+        "num": 193919,
+        "word": "山西一工地发现2.9亿年前大型木化石",
+        "onboard_time": 1765125618,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48471,
+        "num": 193911,
+        "word": "王晶回应曾说王祖贤腿丑",
+        "onboard_time": 1765126338,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47145,
+        "num": 193882,
+        "word": "杨紫包场支持得闲谨制",
+        "onboard_time": 1765120164,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45483,
+        "num": 193830,
+        "word": "虞书欣的12分18秒",
+        "onboard_time": 1765107142,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42347,
+        "num": 193812,
+        "word": "狼队清清首发",
+        "onboard_time": 1765121421,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41594,
+        "num": 193784,
+        "word": "王橹杰高会",
+        "onboard_time": 1765118363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39854,
+        "num": 193750,
+        "word": "董璇晒18张尖叫之夜照片",
+        "onboard_time": 1765126097,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39642,
+        "num": 193739,
+        "word": "义勇军进行曲响彻赛场",
+        "onboard_time": 1765124240,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39589,
+        "num": 193695,
+        "word": "金士杰近60岁生了龙凤胎",
+        "onboard_time": 1765111581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37530,
+        "num": 193676,
+        "word": "曾舜晞刘宇宁 共用口罩",
+        "onboard_time": 1765114643,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37417,
+        "num": 193641,
+        "word": "榕江通报荒野求生女选手疑遭骚扰",
+        "onboard_time": 1765121482,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36081,
+        "num": 193601,
+        "word": "白桃星座",
+        "onboard_time": 1765121062,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34329,
+        "num": 193585,
+        "word": "肖战得闲谨制登上新闻联播",
+        "onboard_time": 1765110800,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33793,
+        "num": 193556,
+        "word": "榕江公安已介入调查",
+        "onboard_time": 1765122440,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 33648,
+        "num": 193532,
+        "word": "你的婚纱照可能被卖了",
+        "onboard_time": 1765109303,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32709,
+        "num": 193502,
+        "word": "12306出新功能了",
+        "onboard_time": 1765117403,
+        "rank": 35,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 31628,
+        "num": 193481,
+        "word": "关晓彤 小时候拍戏条件不好",
+        "onboard_time": 1765113502,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29902,
+        "num": 193429,
+        "word": "邓紫棋到底在给谁作词",
+        "onboard_time": 1765121062,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29024,
+        "num": 193422,
+        "word": "日籍八路军战士之子发声",
+        "onboard_time": 1765119863,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28742,
+        "num": 193375,
+        "word": "王楚然张晚意热聊",
+        "onboard_time": 1765128855,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28357,
+        "num": 193360,
+        "word": "F1",
+        "onboard_time": 1765113322,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28028,
+        "num": 193309,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27994,
+        "num": 193290,
+        "word": "被成毅新剧爽到了",
+        "onboard_time": 1765127418,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27609,
+        "num": 193278,
+        "word": "国乒冠军自拍",
+        "onboard_time": 1765118122,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26147,
+        "num": 193225,
+        "word": "冰面碎了初中女生拉住4岁男童",
+        "onboard_time": 1765128136,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25852,
+        "num": 193220,
+        "word": "日本8比3德国",
+        "onboard_time": 1765123880,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25639,
+        "num": 193185,
+        "word": "勒克莱尔第四",
+        "onboard_time": 1765122801,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25386,
+        "num": 193156,
+        "word": "美防长警告日本",
+        "onboard_time": 1765107982,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24003,
+        "num": 193128,
+        "word": "季节 这都能输为啥不退役啊",
+        "onboard_time": 1765113442,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23376,
+        "num": 193091,
+        "word": "心疼花海",
+        "onboard_time": 1765115482,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
