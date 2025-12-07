@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/07 19:21:44
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/07 19:37:05
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E5%86%8D%E4%B9%9F%E4%B8%8D%E8%87%AA%E5%B7%B1%E4%B9%B1%E5%8C%96%E5%A6%86%E4%BA%86%23" target="weibo">
+金晨 再也不自己乱化妆了（热度：1720832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%A3%E5%A6%B9%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%91%E7%AC%91%E7%BA%B3%E4%BA%86%23" target="weibo">
 辣妹虞书欣我笑纳了（热度：1710357）
 </a>
@@ -203,12 +209,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81%23" target="weibo">
 张雪峰称已经深刻反省（热度：1605556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E5%86%8D%E4%B9%9F%E4%B8%8D%E8%87%AA%E5%B7%B1%E4%B9%B1%E5%8C%96%E5%A6%86%E4%BA%86%23" target="weibo">
-金晨 再也不自己乱化妆了（热度：1586695）
 </a>
 </li>
 
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E7%8E%8B%E4%BC%A0%E5%90%9B%E9%87%91%E4%B8%96%E4%BD%B3%E5%90%8C%E6%A1%86%23" target="weibo">
 陈赫王传君金世佳同框（热度：1174512）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
+声在中国（热度：1153742）
 </a>
 </li>
 
@@ -1125,6 +1131,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%B4%A9%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%E5%90%8E%E5%AF%B9%E8%A2%AB%E5%AE%B3%E4%BA%BA%E7%A0%B4%E5%8F%A3%E5%A4%A7%E9%AA%82%23" target="weibo">
+人贩子被判死缓后对被害人破口大骂（热度：664875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%23" target="weibo">
 2025十大流行语（热度：661744）
 </a>
@@ -1341,12 +1353,6 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%B4%A9%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%E5%90%8E%E5%AF%B9%E8%A2%AB%E5%AE%B3%E4%BA%BA%E7%A0%B4%E5%8F%A3%E5%A4%A7%E9%AA%82%23" target="weibo">
-人贩子被判死缓后对被害人破口大骂（热度：601278）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%BA%8C%E8%83%8E%20%E6%97%B6%E9%97%B4%23" target="weibo">
 胡歌二胎 时间（热度：600877）
 </a>
@@ -1481,12 +1487,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%20%E6%81%8B%E7%BB%BC%23" target="weibo">
 葛夕 恋综（热度：568469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
-声在中国（热度：567300）
 </a>
 </li>
 
@@ -4521,6 +4521,12 @@ LPL（热度：247418）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%23" target="weibo">
+广东省考（热度：242787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%86%B2%E5%9E%AE%E5%A4%A7%E5%8E%82%E6%8A%A4%E5%9F%8E%E6%B2%B3%23" target="weibo">
 周鸿祎称豆包手机冲垮大厂护城河（热度：242493）
 </a>
@@ -5067,6 +5073,12 @@ F1（热度：218873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%B7%98%E5%AE%9D%23" target="weibo">
+易烊千玺淘宝（热度：216145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%20%E4%B8%BB%E6%8C%81%E4%BA%BA%23" target="weibo">
 脱口秀演员 主持人（热度：215943）
 </a>
@@ -5225,12 +5237,6 @@ F1（热度：218873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E4%BB%8A%E6%97%A5%E5%87%BA%E5%BA%AD%23" target="weibo">
 张柏芝今日出庭（热度：209889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%23" target="weibo">
-广东省考（热度：209829）
 </a>
 </li>
 
@@ -5469,6 +5475,12 @@ Uzi邀请Wayward试训（热度：206113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9CTV%E8%AE%A4%E8%AF%81%E7%9A%84%E4%B8%89%E9%83%A8%E7%88%86%E5%89%A7%23" target="weibo">
+芒果TV认证的三部爆剧（热度：205002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%9A%97%E5%A4%9C%E8%B4%B5%E5%85%AC%E5%AD%90%23" target="weibo">
 邓为暗夜贵公子（热度：204723）
 </a>
@@ -5495,6 +5507,12 @@ Uzi邀请Wayward试训（热度：206113）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E4%B8%8A%E7%BA%BF%E5%90%83%E7%93%9C%23" target="weibo">
 Uzi上线吃瓜（热度：204513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E4%B8%8A%E7%94%A8%E5%9B%B4%E5%B7%BE%E6%93%A6%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%A5%B3%E7%94%9F%E6%89%BE%E5%88%B0%E5%95%A6%23" target="weibo">
+地铁上用围巾擦奶茶的女生找到啦（热度：204445）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ WBG官宣Elk加入（热度：195046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%95%AC%E5%B9%B3%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E6%B0%B8%E8%BF%9C%E5%A4%9A%E4%B8%80%E6%9D%BF%23" target="weibo">
 吴敬平说樊振东的技术永远多一板（热度：192546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E7%BA%AA%E5%BF%B5%E4%B9%9D%E9%87%8D%E7%B4%AB%E5%BC%80%E6%92%AD%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
-李昀锐纪念九重紫开播一周年（热度：192304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-国考的难度到底有多大（热度：192259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E7%83%AD%E6%83%85%E6%AC%BE%E5%BE%85%23" target="weibo">
-马克龙感谢中方热情款待（热度：192227）
 </a>
 </li>
 
