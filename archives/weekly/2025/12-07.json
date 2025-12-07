@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765074888747,
+  "endTime": 1765080093795,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -25,6 +25,14 @@
       "onboard_time": 1765037182,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1963944,
+      "num": 1963944,
+      "word": "省考",
+      "onboard_time": 1765068320,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1618218,
@@ -115,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674424,
+      "num": 674424,
+      "word": "山东省考 谁出的图推",
+      "onboard_time": 1765078101,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 582111,
+      "num": 582111,
+      "word": "江苏省考好难",
+      "onboard_time": 1765077800,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 528218,
       "num": 528218,
       "word": "唐诡打败苦尽柑来遇见你",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 366487,
-      "num": 229384,
+      "num": 286019,
       "word": "白鹿 没有白走的路",
       "onboard_time": 1765072222,
       "rank": 23,
@@ -203,12 +227,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344764,
+      "num": 473947,
+      "word": "新疆高速交通事故9死7伤",
+      "onboard_time": 1765072880,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322544,
+      "num": 284988,
+      "word": "浙江省考我数推呢",
+      "onboard_time": 1765077620,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321108,
       "num": 2079315,
       "word": "公考枪手替考89次敛财千万",
       "onboard_time": 1765031004,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315675,
+      "num": 283244,
+      "word": "王楚钦紧急撤回一次击掌",
+      "onboard_time": 1765077680,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314880,
+      "num": 248130,
+      "word": "邓为的狗去世了",
+      "onboard_time": 1765077800,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 311545,
@@ -219,12 +275,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305061,
+      "num": 280978,
+      "word": "天地玄黄 宇宙洪荒",
+      "onboard_time": 1765075761,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 300027,
+      "num": 280513,
+      "word": "女子洗衣结束发现猫咪在洗衣机里",
+      "onboard_time": 1765074140,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285211,
       "num": 285211,
       "word": "于和伟 握烟",
       "onboard_time": 1765030404,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279529,
+      "num": 279529,
+      "word": "郭美美出狱后炫富博眼球账号被关",
+      "onboard_time": 1765078460,
+      "rank": 16,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 279451,
@@ -241,6 +321,14 @@
       "onboard_time": 1765031966,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276879,
+      "num": 276879,
+      "word": "李现 奖杯烫手",
+      "onboard_time": 1765075161,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 263839,
@@ -267,20 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258047,
+      "num": 246333,
+      "word": "曾舜晞躲C未半而中道被架回",
+      "onboard_time": 1765077500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257702,
+      "num": 257702,
+      "word": "四川省考图推 看不出来",
+      "onboard_time": 1765078641,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 257201,
       "num": 257201,
       "word": "敖瑞鹏看白鹿曾舜晞拥抱的表情",
       "onboard_time": 1765035502,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243893,
-      "num": 473947,
-      "word": "新疆高速交通事故9死7伤",
-      "onboard_time": 1765072880,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243438,
@@ -313,6 +409,14 @@
       "onboard_time": 1765029984,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220539,
+      "num": 220539,
+      "word": "美国无法保证日本不会再打美国",
+      "onboard_time": 1765073181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214622,
@@ -371,6 +475,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203701,
+      "num": 203701,
+      "word": "山东省考行测",
+      "onboard_time": 1765079180,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 198495,
+      "num": 198495,
+      "word": "周扬青 甲方就是爸爸",
+      "onboard_time": 1765079361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197804,
+      "num": 197804,
+      "word": "让体脂率不断下降的习惯",
+      "onboard_time": 1765077441,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -387,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189142,
+      "num": 189142,
+      "word": "天津市考",
+      "onboard_time": 1765079120,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188881,
       "num": 165585,
       "word": "起床不要一睁眼就刷手机",
@@ -401,6 +537,14 @@
       "onboard_time": 1765033224,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184434,
+      "num": 184434,
+      "word": "省考答案",
+      "onboard_time": 1765079060,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 183931,
@@ -441,6 +585,14 @@
       "onboard_time": 1765069341,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165021,
+      "num": 165021,
+      "word": "京考",
+      "onboard_time": 1765079721,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 163536,
@@ -499,6 +651,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 149821,
+      "num": 149821,
+      "word": "官方回应黑熊表演现场袭击饲养员",
+      "onboard_time": 1765077921,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149759,
       "num": 208119,
       "word": "王安宇领奖这段路走得好意气风发",
@@ -555,20 +715,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131978,
-      "num": 131978,
-      "word": "女子洗衣结束发现猫咪在洗衣机里",
-      "onboard_time": 1765074140,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 128828,
+      "num": 128828,
+      "word": "杨紫晒和piupiu合照",
+      "onboard_time": 1765077261,
+      "rank": 39,
+      "category": "艺人"
     },
     {
-      "raw_hot": 126948,
-      "num": 126948,
-      "word": "美国无法保证日本不会再打美国",
-      "onboard_time": 1765073181,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 121745,
+      "num": 121745,
+      "word": "得闲谨制隐喻",
+      "onboard_time": 1765075580,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 121191,
@@ -595,12 +755,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119226,
+      "num": 119226,
+      "word": "山村老尸和她的李逵闺蜜",
+      "onboard_time": 1765079001,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118233,
       "num": 118233,
       "word": "99年博士已任浙大博导",
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117911,
+      "num": 117911,
+      "word": "张韶涵在演唱会实时AI换脸",
+      "onboard_time": 1765078460,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 117751,
@@ -651,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112101,
+      "num": 112101,
+      "word": "酒店24小时住房制",
+      "onboard_time": 1765077921,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111082,
       "num": 111082,
       "word": "朱丹主持",
@@ -683,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107061,
+      "num": 107061,
+      "word": "动物园回应黑熊扑倒驯养员",
+      "onboard_time": 1765079721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104070,
       "num": 207281,
       "word": "关晓彤说一定会二刷得闲谨制",
@@ -699,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103555,
+      "num": 103555,
+      "word": "赵小童跑澳门半马",
+      "onboard_time": 1765079841,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103209,
       "num": 314972,
       "word": "法国8比7日本",
@@ -707,12 +907,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101456,
+      "num": 101456,
+      "word": "蒯曼王曼昱vs李恩惠崔孝珠",
+      "onboard_time": 1765079600,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96067,
+      "num": 96067,
+      "word": "Gumayusi说HLE给予了自己尊重",
+      "onboard_time": 1765079542,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95375,
       "num": 205931,
       "word": "无忧渡",
       "onboard_time": 1765031666,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94682,
+      "num": 257453,
+      "word": "法新社 马克龙",
+      "onboard_time": 1765079481,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93255,
@@ -819,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69986,
-      "num": 489204,
-      "word": "省考",
-      "onboard_time": 1765068320,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
@@ -899,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51822,
+      "num": 149690,
+      "word": "日本拟打造日版中情局",
+      "onboard_time": 1765080021,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51639,
       "num": 51639,
       "word": "三只小狗出去玩捡了只小猫回来",
@@ -947,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34461,
+      "num": 696271,
+      "word": "文化中国行大雪节气",
+      "onboard_time": 1765079781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33213,
       "num": 102422,
       "word": "铜价冲破11500美元",
@@ -977,6 +1209,22 @@
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14656,
+      "num": 289757,
+      "word": "下周降6到10摄氏度",
+      "onboard_time": 1765066160,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12972,
+      "num": 129703,
+      "word": "新国标电动车爬陡坡吃力得靠人推",
+      "onboard_time": 1765079781,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9491,

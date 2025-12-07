@@ -1,0 +1,410 @@
+{
+  "runTime": 1765080093795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1963944,
+        "num": 1963944,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 831908,
+        "num": 831908,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34461,
+        "num": 696271,
+        "word": "文化中国行大雪节气",
+        "onboard_time": 1765079781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852851,
+        "num": 689560,
+        "word": "白鹿尖叫女演员",
+        "onboard_time": 1765037182,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674424,
+        "num": 674424,
+        "word": "山东省考 谁出的图推",
+        "onboard_time": 1765078101,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 582111,
+        "num": 582111,
+        "word": "江苏省考好难",
+        "onboard_time": 1765077800,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344764,
+        "num": 344764,
+        "word": "新疆高速交通事故9死7伤",
+        "onboard_time": 1765072880,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332662,
+        "num": 332662,
+        "word": "美国不允许任何国家过于强大",
+        "onboard_time": 1765067659,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14656,
+        "num": 289757,
+        "word": "下周降6到10摄氏度",
+        "onboard_time": 1765066160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287806,
+        "num": 287806,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597230,
+        "num": 287117,
+        "word": "杨幂魏大勋内场同框",
+        "onboard_time": 1765072100,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348027,
+        "num": 286019,
+        "word": "白鹿 没有白走的路",
+        "onboard_time": 1765072222,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322544,
+        "num": 284988,
+        "word": "浙江省考我数推呢",
+        "onboard_time": 1765077620,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315675,
+        "num": 283244,
+        "word": "王楚钦紧急撤回一次击掌",
+        "onboard_time": 1765077680,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305061,
+        "num": 280978,
+        "word": "天地玄黄 宇宙洪荒",
+        "onboard_time": 1765075761,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300027,
+        "num": 280513,
+        "word": "女子洗衣结束发现猫咪在洗衣机里",
+        "onboard_time": 1765074140,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279529,
+        "num": 279529,
+        "word": "郭美美出狱后炫富博眼球账号被关",
+        "onboard_time": 1765078460,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 276879,
+        "num": 276879,
+        "word": "李现 奖杯烫手",
+        "onboard_time": 1765075161,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257702,
+        "num": 257702,
+        "word": "四川省考图推 看不出来",
+        "onboard_time": 1765078641,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94682,
+        "num": 257453,
+        "word": "法新社 马克龙",
+        "onboard_time": 1765079481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 848237,
+        "num": 252198,
+        "word": "爱奇艺颁奖失误",
+        "onboard_time": 1765039280,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314880,
+        "num": 248130,
+        "word": "邓为的狗去世了",
+        "onboard_time": 1765077800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258047,
+        "num": 246333,
+        "word": "曾舜晞躲C未半而中道被架回",
+        "onboard_time": 1765077500,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244688,
+        "num": 244688,
+        "word": "杨幂尖叫年度演员",
+        "onboard_time": 1765037902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220539,
+        "num": 220539,
+        "word": "美国无法保证日本不会再打美国",
+        "onboard_time": 1765073181,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203701,
+        "num": 203701,
+        "word": "山东省考行测",
+        "onboard_time": 1765079180,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198495,
+        "num": 198495,
+        "word": "周扬青 甲方就是爸爸",
+        "onboard_time": 1765079361,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197804,
+        "num": 197804,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1765077441,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189142,
+        "num": 189142,
+        "word": "天津市考",
+        "onboard_time": 1765079120,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1912,
+        "num": 185782,
+        "word": "盘点2025大国重器新突破",
+        "onboard_time": 1764982700,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184434,
+        "num": 184434,
+        "word": "省考答案",
+        "onboard_time": 1765079060,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165021,
+        "num": 165021,
+        "word": "京考",
+        "onboard_time": 1765079721,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 161804,
+        "word": "人形机器人一脚踹翻自家CEO",
+        "onboard_time": 1765073601,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 155367,
+        "num": 155367,
+        "word": "唐诡打败苦尽柑来遇见你",
+        "onboard_time": 1765068980,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154544,
+        "num": 154544,
+        "word": "秦岚撒娇",
+        "onboard_time": 1765072580,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 149821,
+        "word": "官方回应黑熊表演现场袭击饲养员",
+        "onboard_time": 1765077921,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51822,
+        "num": 149690,
+        "word": "日本拟打造日版中情局",
+        "onboard_time": 1765080021,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149623,
+        "num": 149623,
+        "word": "比伯吐槽iPhone按钮设计",
+        "onboard_time": 1765071200,
+        "rank": 37,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 12972,
+        "num": 129703,
+        "word": "新国标电动车爬陡坡吃力得靠人推",
+        "onboard_time": 1765079781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128828,
+        "num": 128828,
+        "word": "杨紫晒和piupiu合照",
+        "onboard_time": 1765077261,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121745,
+        "num": 121745,
+        "word": "得闲谨制隐喻",
+        "onboard_time": 1765075580,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119226,
+        "num": 119226,
+        "word": "山村老尸和她的李逵闺蜜",
+        "onboard_time": 1765079001,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 117911,
+        "word": "张韶涵在演唱会实时AI换脸",
+        "onboard_time": 1765078460,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114731,
+        "num": 114731,
+        "word": "大雪",
+        "onboard_time": 1765063877,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112101,
+        "num": 112101,
+        "word": "酒店24小时住房制",
+        "onboard_time": 1765077921,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "动物园回应黑熊扑倒驯养员",
+        "onboard_time": 1765079721,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103555,
+        "num": 103555,
+        "word": "赵小童跑澳门半马",
+        "onboard_time": 1765079841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101456,
+        "num": 101456,
+        "word": "蒯曼王曼昱vs李恩惠崔孝珠",
+        "onboard_time": 1765079600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96067,
+        "num": 96067,
+        "word": "Gumayusi说HLE给予了自己尊重",
+        "onboard_time": 1765079542,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95733,
+        "num": 95733,
+        "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
+        "onboard_time": 1765074441,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}
