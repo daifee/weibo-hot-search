@@ -1,0 +1,410 @@
+{
+  "runTime": 1765114974970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532183,
+        "num": 1085149,
+        "word": "国乒vs日本",
+        "onboard_time": 1765104861,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524357,
+        "num": 524357,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765095860,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42315,
+        "num": 482197,
+        "word": "国产挖掘机零下40摄氏度一秒启动",
+        "onboard_time": 1765113682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1682041,
+        "num": 480497,
+        "word": "张凌赫偷瞄白鹿",
+        "onboard_time": 1765110681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461154,
+        "num": 461154,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1765108160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404164,
+        "num": 404164,
+        "word": "地铁上用围巾擦奶茶的女生找到啦",
+        "onboard_time": 1765104622,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 285882,
+        "num": 285882,
+        "word": "乒乓球",
+        "onboard_time": 1765109061,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267632,
+        "num": 267632,
+        "word": "肖战得闲谨制登上新闻联播",
+        "onboard_time": 1765110800,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317663,
+        "num": 263936,
+        "word": "人贩子被判死缓后对被害人破口大骂",
+        "onboard_time": 1765103540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409473,
+        "num": 263629,
+        "word": "你的婚纱照可能被卖了",
+        "onboard_time": 1765109303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259639,
+        "num": 259639,
+        "word": "王曼昱3比0胜张本美和",
+        "onboard_time": 1765112901,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1089350,
+        "num": 255311,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514447,
+        "num": 254485,
+        "word": "刘亦菲阿布扎比观赛F1",
+        "onboard_time": 1765112661,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 456248,
+        "num": 249729,
+        "word": "季节 这都能输为啥不退役啊",
+        "onboard_time": 1765113442,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 339912,
+        "num": 243196,
+        "word": "婴儿被褥印不雅英文字母",
+        "onboard_time": 1765108881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336678,
+        "num": 236605,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235250,
+        "num": 235250,
+        "word": "美防长警告日本",
+        "onboard_time": 1765107982,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 215281,
+        "word": "虞书欣的12分18秒",
+        "onboard_time": 1765107142,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197260,
+        "num": 197260,
+        "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
+        "onboard_time": 1765111701,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196461,
+        "num": 196461,
+        "word": "F1",
+        "onboard_time": 1765113322,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518250,
+        "num": 195794,
+        "word": "金士杰近60岁生了龙凤胎",
+        "onboard_time": 1765111581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185674,
+        "num": 185674,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177772,
+        "num": 177772,
+        "word": "谢楠小儿子一把抱住陈妍希儿子",
+        "onboard_time": 1765108881,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171197,
+        "num": 171197,
+        "word": "我驻日大使提出严正交涉",
+        "onboard_time": 1765112061,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158844,
+        "num": 158844,
+        "word": "买了一栋只有一个卧室的别墅",
+        "onboard_time": 1765104321,
+        "rank": 24,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 144434,
+        "num": 144434,
+        "word": "苏新皓cha疯狂动物城2主题曲",
+        "onboard_time": 1765114162,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140842,
+        "num": 140842,
+        "word": "周柯宇演出了正宫的地位妾室的度量",
+        "onboard_time": 1765114402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133008,
+        "num": 133008,
+        "word": "具俊晔没陪小S录音",
+        "onboard_time": 1765110080,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130683,
+        "num": 130683,
+        "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
+        "onboard_time": 1765113562,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126071,
+        "num": 126071,
+        "word": "曾舜晞刘宇宁 共用口罩",
+        "onboard_time": 1765114643,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125695,
+        "num": 125695,
+        "word": "企业因薪资过高被限发招聘信息",
+        "onboard_time": 1765112061,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122680,
+        "num": 122680,
+        "word": "鹭卓直播",
+        "onboard_time": 1765113862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 119937,
+        "word": "保时捷回应俄罗斯数百辆车突然锁死",
+        "onboard_time": 1765114402,
+        "rank": 32,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 117065,
+        "num": 117065,
+        "word": "女子婚后出轨伴郎并生娃双双获刑",
+        "onboard_time": 1765097481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116154,
+        "num": 116154,
+        "word": "奥运冠军武大靖回应退役",
+        "onboard_time": 1765114402,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115442,
+        "num": 115442,
+        "word": "关晓彤 小时候拍戏条件不好",
+        "onboard_time": 1765113502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114832,
+        "num": 114832,
+        "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
+        "onboard_time": 1765105340,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "慕胥辞",
+        "onboard_time": 1765100900,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32338,
+        "num": 108828,
+        "word": "百万抗癌药首次纳入商保",
+        "onboard_time": 1765113982,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96616,
+        "num": 107940,
+        "word": "华晨宇的表情",
+        "onboard_time": 1765114704,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107776,
+        "num": 107776,
+        "word": "王梓莼回应了",
+        "onboard_time": 1765096641,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106211,
+        "num": 106211,
+        "word": "SYG对战eStar",
+        "onboard_time": 1765106963,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104730,
+        "num": 104730,
+        "word": "国乒11战全胜夺冠军",
+        "onboard_time": 1765114941,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103081,
+        "num": 103081,
+        "word": "月亮",
+        "onboard_time": 1765113261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97902,
+        "num": 97902,
+        "word": "12306回应员工用装垃圾的簸箕接开水",
+        "onboard_time": 1765108223,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97866,
+        "num": 97866,
+        "word": "卓沅直播",
+        "onboard_time": 1765113802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96623,
+        "num": 96623,
+        "word": "王继续去了熟悉的米未",
+        "onboard_time": 1765112362,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95261,
+        "num": 95261,
+        "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+        "onboard_time": 1765094239,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93576,
+        "num": 93576,
+        "word": "第一次见眼睛得脚气的",
+        "onboard_time": 1765114822,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92696,
+        "num": 92696,
+        "word": "马来西亚一中国女游客酒店9楼坠亡",
+        "onboard_time": 1765112422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
