@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765103163693,
+  "endTime": 1765104098028,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -1819,6 +1819,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 588431,
+      "num": 198711,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1765097781,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 587224,
       "num": 332179,
       "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1764896961,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 575930,
-      "num": 198711,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1765097781,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 575581,
@@ -2659,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479736,
+      "num": 194512,
+      "word": "女子婚后出轨伴郎并生娃双双获刑",
+      "onboard_time": 1765097481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479137,
       "num": 167652,
       "word": "李嘉格小号分享的恋爱日常",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1764741320,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474627,
+      "num": 434182,
+      "word": "樊振东陈梦发文入选十大体育新闻",
+      "onboard_time": 1765099880,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 474041,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1764676522,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466576,
-      "num": 186462,
-      "word": "女子婚后出轨伴郎并生娃双双获刑",
-      "onboard_time": 1765097481,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463880,
@@ -3075,20 +3083,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 434182,
-      "num": 434182,
-      "word": "樊振东陈梦发文入选十大体育新闻",
-      "onboard_time": 1765099880,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434170,
       "num": 326948,
       "word": "家里家外2",
       "onboard_time": 1764809062,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433491,
+      "num": 166579,
+      "word": "乔欣南法度假",
+      "onboard_time": 1765099041,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 433286,
@@ -3524,7 +3532,7 @@
     },
     {
       "raw_hot": 395896,
-      "num": 129979,
+      "num": 185681,
       "word": "转念花开 贾玲张小斐杨紫",
       "onboard_time": 1765100541,
       "rank": 13,
@@ -3569,6 +3577,14 @@
       "onboard_time": 1764731542,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390282,
+      "num": 187623,
+      "word": "海涛留学留疯了",
+      "onboard_time": 1765098741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 390279,
@@ -3808,14 +3824,6 @@
       "word": "李嘉格捂嘴偷笑",
       "onboard_time": 1764768562,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 369388,
-      "num": 152497,
-      "word": "乔欣南法度假",
-      "onboard_time": 1765099041,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4963,14 +4971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297939,
-      "num": 165844,
-      "word": "海涛留学留疯了",
-      "onboard_time": 1765098741,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297279,
       "num": 297279,
       "word": "曝iPhone折叠屏手机无折痕",
@@ -5419,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267963,
+      "num": 191399,
+      "word": "慕胥辞",
+      "onboard_time": 1765100900,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267550,
       "num": 246450,
       "word": "刘诗诗小时候用这张脸捅马蜂窝",
@@ -5787,20 +5795,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252334,
+      "num": 219162,
+      "word": "人贩子被判死缓后对被害人破口大骂",
+      "onboard_time": 1765103540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252255,
       "num": 338211,
       "word": "吃商届来了个天才",
       "onboard_time": 1765002200,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 251978,
-      "num": 110109,
-      "word": "慕胥辞",
-      "onboard_time": 1765100900,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 250496,
@@ -7683,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196742,
+      "num": 196742,
+      "word": "刘耀文将缺席星光大赏",
+      "onboard_time": 1765100181,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "小力士第一名",
@@ -7801,14 +7817,6 @@
       "onboard_time": 1764743181,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195013,
-      "num": 195013,
-      "word": "刘耀文将缺席星光大赏",
-      "onboard_time": 1765100181,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 194775,
@@ -8480,6 +8488,14 @@
       "word": "原来还有眼癌这一说",
       "onboard_time": 1765008802,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183653,
+      "num": 183653,
+      "word": "黄景瑜张凌赫你俩说啥呢",
+      "onboard_time": 1765103659,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -9443,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166667,
+      "num": 158050,
+      "word": "疯狂动物城2破30亿",
+      "onboard_time": 1765102160,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166627,
       "num": 149549,
       "word": "朱开谈Ale为什么不打",
@@ -10051,6 +10075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158480,
+      "num": 158480,
+      "word": "女子常把外卖写邻居地址让帮忙拿",
+      "onboard_time": 1765103480,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158478,
       "num": 158478,
       "word": "肖战好恐怖的面部肌肉控制力",
@@ -10537,6 +10569,14 @@
       "onboard_time": 1764818001,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152911,
+      "num": 152911,
+      "word": "得闲谨制打破9项影史纪录",
+      "onboard_time": 1765101261,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 152824,
@@ -11683,14 +11723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138254,
-      "num": 89509,
-      "word": "得闲谨制打破9项影史纪录",
-      "onboard_time": 1765101261,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138191,
       "num": 138191,
       "word": "得闲谨制清算两部抗日新片对打",
@@ -12137,6 +12169,14 @@
       "onboard_time": 1764753923,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134003,
+      "num": 112104,
+      "word": "朱美吉直播",
+      "onboard_time": 1765102939,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133876,
@@ -13900,7 +13940,7 @@
     },
     {
       "raw_hot": 119216,
-      "num": 112064,
+      "num": 113117,
       "word": "突然就明白了多年前同学录的意思",
       "onboard_time": 1765098680,
       "rank": 32,
@@ -14763,6 +14803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112370,
+      "num": 89468,
+      "word": "黄景瑜邓超你俩坐一桌",
+      "onboard_time": 1765103659,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112345,
       "num": 112345,
       "word": "罗晋谈孔乙己的长衫",
@@ -14929,6 +14977,14 @@
       "onboard_time": 1764745341,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110642,
+      "num": 110642,
+      "word": "幼儿园 本园不养闲人",
+      "onboard_time": 1765102281,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 110634,
@@ -15195,14 +15251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108536,
-      "num": 87469,
-      "word": "朱美吉直播",
-      "onboard_time": 1765102939,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108489,
       "num": 141518,
       "word": "奶皮子不是奶酪也不是酸奶",
@@ -15323,6 +15371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107424,
+      "num": 107424,
+      "word": "中国共产党工作机关条例印发",
+      "onboard_time": 1765103360,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107330,
       "num": 111479,
       "word": "侯鸿亮看肖战的眼神",
@@ -15433,6 +15489,14 @@
       "onboard_time": 1764754943,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106488,
+      "num": 100383,
+      "word": "金吾不禁",
+      "onboard_time": 1765099521,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 106463,
@@ -16291,14 +16355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100616,
-      "num": 100616,
-      "word": "幼儿园 本园不养闲人",
-      "onboard_time": 1765102281,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100605,
       "num": 1479229,
       "word": "东北大冰箱营业了",
@@ -16352,14 +16408,6 @@
       "word": "刘诗诗配音",
       "onboard_time": 1764733881,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100383,
-      "num": 100383,
-      "word": "金吾不禁",
-      "onboard_time": 1765099521,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -16835,14 +16883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96654,
-      "num": 110154,
-      "word": "疯狂动物城2破30亿",
-      "onboard_time": 1765102160,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96643,
       "num": 96643,
       "word": "中法发表多份联合声明",
@@ -17235,6 +17275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93266,
+      "num": 93266,
+      "word": "在公司吃饭瘦了20斤",
+      "onboard_time": 1765101921,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93255,
       "num": 93255,
       "word": "今年的流感病毒是个老对手",
@@ -17323,14 +17371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92578,
-      "num": 92578,
-      "word": "在公司吃饭瘦了20斤",
-      "onboard_time": 1765101921,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92501,
       "num": 92501,
       "word": "陈晓古装杀死了比赛",
@@ -17353,6 +17393,14 @@
       "onboard_time": 1764658520,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92187,
+      "num": 92187,
+      "word": "我们是来喝下午茶的不是来喝稀饭的",
+      "onboard_time": 1765103720,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 92111,
@@ -18595,6 +18643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81771,
+      "num": 81771,
+      "word": "三门峡一项目工程发生安全事故5人遇难",
+      "onboard_time": 1765103540,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81719,
       "num": 81719,
       "word": "十二月你好",
@@ -19041,6 +19097,14 @@
       "onboard_time": 1764847460,
       "rank": 39,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 75565,
+      "num": 75565,
+      "word": "5种水果的隐藏用法",
+      "onboard_time": 1765104020,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 75558,
@@ -19825,6 +19889,14 @@
       "onboard_time": 1764517821,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 65159,
+      "num": 180365,
+      "word": "当比亚迪海洋车主踢馆香港明星足球队",
+      "onboard_time": 1765103659,
+      "rank": 18,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 65155,
@@ -23075,6 +23147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18795,
+      "num": 179410,
+      "word": "日本学者说高市应被停职处理",
+      "onboard_time": 1765102939,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18724,
       "num": 31246,
       "word": "狙击蝴蝶原著",
@@ -23161,14 +23241,6 @@
       "onboard_time": 1764684623,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17683,
-      "num": 109499,
-      "word": "日本学者说高市应被停职处理",
-      "onboard_time": 1765102939,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17618,

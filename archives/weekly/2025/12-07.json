@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765103163693,
+  "endTime": 1765104098028,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -227,20 +227,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 588431,
+      "num": 198711,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1765097781,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 582111,
       "num": 582111,
       "word": "江苏省考好难",
       "onboard_time": 1765077800,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 575930,
-      "num": 198711,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1765097781,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 547472,
@@ -331,20 +331,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 479736,
+      "num": 194512,
+      "word": "女子婚后出轨伴郎并生娃双双获刑",
+      "onboard_time": 1765097481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474627,
+      "num": 434182,
+      "word": "樊振东陈梦发文入选十大体育新闻",
+      "onboard_time": 1765099880,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474041,
       "num": 296812,
       "word": "林青霞自曝豪宅遭大量蟑螂入侵",
       "onboard_time": 1765080440,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466576,
-      "num": 186462,
-      "word": "女子婚后出轨伴郎并生娃双双获刑",
-      "onboard_time": 1765097481,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 447286,
@@ -371,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434182,
-      "num": 434182,
-      "word": "樊振东陈梦发文入选十大体育新闻",
-      "onboard_time": 1765099880,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 433491,
+      "num": 166579,
+      "word": "乔欣南法度假",
+      "onboard_time": 1765099041,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 410933,
@@ -396,11 +404,19 @@
     },
     {
       "raw_hot": 395896,
-      "num": 129979,
+      "num": 185681,
       "word": "转念花开 贾玲张小斐杨紫",
       "onboard_time": 1765100541,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390282,
+      "num": 187623,
+      "word": "海涛留学留疯了",
+      "onboard_time": 1765098741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 386547,
@@ -425,14 +441,6 @@
       "onboard_time": 1765033524,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 369388,
-      "num": 152497,
-      "word": "乔欣南法度假",
-      "onboard_time": 1765099041,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 368242,
@@ -587,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297939,
-      "num": 165844,
-      "word": "海涛留学留疯了",
-      "onboard_time": 1765098741,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285211,
       "num": 285211,
       "word": "于和伟 握烟",
@@ -641,6 +641,14 @@
       "onboard_time": 1765097421,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267963,
+      "num": 191399,
+      "word": "慕胥辞",
+      "onboard_time": 1765100900,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 263839,
@@ -691,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251978,
-      "num": 110109,
-      "word": "慕胥辞",
-      "onboard_time": 1765100900,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 252334,
+      "num": 219162,
+      "word": "人贩子被判死缓后对被害人破口大骂",
+      "onboard_time": 1765103540,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248464,
@@ -963,19 +971,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196742,
+      "num": 196742,
+      "word": "刘耀文将缺席星光大赏",
+      "onboard_time": 1765100181,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
       "onboard_time": 1765038021,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195013,
-      "num": 195013,
-      "word": "刘耀文将缺席星光大赏",
-      "onboard_time": 1765100181,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -1048,6 +1056,14 @@
       "word": "李现年度演员",
       "onboard_time": 1765035863,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183653,
+      "num": 183653,
+      "word": "黄景瑜张凌赫你俩说啥呢",
+      "onboard_time": 1765103659,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1129,6 +1145,14 @@
       "onboard_time": 1765098381,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 166667,
+      "num": 158050,
+      "word": "疯狂动物城2破30亿",
+      "onboard_time": 1765102160,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 165763,
@@ -1219,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158480,
+      "num": 158480,
+      "word": "女子常把外卖写邻居地址让帮忙拿",
+      "onboard_time": 1765103480,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156897,
       "num": 234033,
       "word": "为让婚车不走回头路司机放倒三轮车",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1765091180,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152911,
+      "num": 152911,
+      "word": "得闲谨制打破9项影史纪录",
+      "onboard_time": 1765101261,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 152508,
@@ -1371,14 +1411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138254,
-      "num": 89509,
-      "word": "得闲谨制打破9项影史纪录",
-      "onboard_time": 1765101261,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138052,
       "num": 138052,
       "word": "狙击蝴蝶",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1765085360,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134003,
+      "num": 112104,
+      "word": "朱美吉直播",
+      "onboard_time": 1765102939,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133599,
@@ -1620,7 +1660,7 @@
     },
     {
       "raw_hot": 119216,
-      "num": 112064,
+      "num": 113117,
       "word": "突然就明白了多年前同学录的意思",
       "onboard_time": 1765098680,
       "rank": 32,
@@ -1771,6 +1811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112370,
+      "num": 89468,
+      "word": "黄景瑜邓超你俩坐一桌",
+      "onboard_time": 1765103659,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112148,
       "num": 112148,
       "word": "王楚钦说和孙颖莎比以前更高效",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1765096222,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110642,
+      "num": 110642,
+      "word": "幼儿园 本园不养闲人",
+      "onboard_time": 1765102281,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 110105,
@@ -1859,12 +1915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108536,
-      "num": 87469,
-      "word": "朱美吉直播",
-      "onboard_time": 1765102939,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 107424,
+      "num": 107424,
+      "word": "中国共产党工作机关条例印发",
+      "onboard_time": 1765103360,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107061,
@@ -1873,6 +1929,14 @@
       "onboard_time": 1765079721,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106488,
+      "num": 100383,
+      "word": "金吾不禁",
+      "onboard_time": 1765099521,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 105294,
@@ -1955,22 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100616,
-      "num": 100616,
-      "word": "幼儿园 本园不养闲人",
-      "onboard_time": 1765102281,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 100383,
-      "num": 100383,
-      "word": "金吾不禁",
-      "onboard_time": 1765099521,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99566,
       "num": 133860,
       "word": "陈晓孙千新剧一集结两次婚",
@@ -2025,14 +2073,6 @@
       "onboard_time": 1765092621,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96654,
-      "num": 110154,
-      "word": "疯狂动物城2破30亿",
-      "onboard_time": 1765102160,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 96208,
@@ -2091,6 +2131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93266,
+      "num": 93266,
+      "word": "在公司吃饭瘦了20斤",
+      "onboard_time": 1765101921,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93255,
       "num": 93255,
       "word": "今年的流感病毒是个老对手",
@@ -2115,11 +2163,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92578,
-      "num": 92578,
-      "word": "在公司吃饭瘦了20斤",
-      "onboard_time": 1765101921,
-      "rank": 34,
+      "raw_hot": 92187,
+      "num": 92187,
+      "word": "我们是来喝下午茶的不是来喝稀饭的",
+      "onboard_time": 1765103720,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -2243,6 +2291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81771,
+      "num": 81771,
+      "word": "三门峡一项目工程发生安全事故5人遇难",
+      "onboard_time": 1765103540,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1765094239,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75565,
+      "num": 75565,
+      "word": "5种水果的隐藏用法",
+      "onboard_time": 1765104020,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 75562,
@@ -2353,6 +2417,14 @@
       "onboard_time": 1765029804,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65159,
+      "num": 180365,
+      "word": "当比亚迪海洋车主踢馆香港明星足球队",
+      "onboard_time": 1765103659,
+      "rank": 18,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 65155,
@@ -2691,20 +2763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18795,
+      "num": 179410,
+      "word": "日本学者说高市应被停职处理",
+      "onboard_time": 1765102939,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17739,
       "num": 109817,
       "word": "孙颖莎绝妙回球变线",
       "onboard_time": 1765092260,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17683,
-      "num": 109499,
-      "word": "日本学者说高市应被停职处理",
-      "onboard_time": 1765102939,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17618,
