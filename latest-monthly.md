@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 00:31:12
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 00:44:59
 </p>
 </blockquote>
 <p>
@@ -2285,6 +2285,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B0%9D%E8%AF%95%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%23" target="weibo">
 蔡磊已准备好尝试脑机接口（热度：450222）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E8%83%83%E7%99%8C%E6%98%AF%E4%B8%80%E5%8F%A3%E4%B8%80%E5%8F%A3%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
+很多胃癌是一口一口吃出来的（热度：448383）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jiejie加入WBG（热度：201545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%20cp%E4%B9%B1%E7%82%96%23" target="weibo">
 尖叫之夜内场 cp乱炖（热度：197584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E4%B8%8E%E6%BD%AE%23" target="weibo">
-风与潮（热度：197538）
 </a>
 </li>
 
