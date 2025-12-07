@@ -1,0 +1,410 @@
+{
+  "runTime": 1765106504025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460409,
+        "num": 1073665,
+        "word": "男子海洋馆内抽烟被白鲸喷水",
+        "onboard_time": 1765094060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284095,
+        "num": 284095,
+        "word": "国乒vs日本",
+        "onboard_time": 1765104861,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21298,
+        "num": 231276,
+        "word": "国家医保目录新增114种药品",
+        "onboard_time": 1765070961,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297670,
+        "num": 227748,
+        "word": "课本上明太祖画像换了",
+        "onboard_time": 1765088480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204052,
+        "num": 204052,
+        "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
+        "onboard_time": 1765105340,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601278,
+        "num": 201380,
+        "word": "人贩子被判死缓后对被害人破口大骂",
+        "onboard_time": 1765103540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567300,
+        "num": 197315,
+        "word": "声在中国",
+        "onboard_time": 1765105460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455579,
+        "num": 196186,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765095860,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264165,
+        "num": 192040,
+        "word": "樊振东陈梦发文入选十大体育新闻",
+        "onboard_time": 1765099880,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189612,
+        "num": 189612,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1586695,
+        "num": 187641,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407324,
+        "num": 185979,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329373,
+        "num": 183820,
+        "word": "王梓莼回应了",
+        "onboard_time": 1765096641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84907,
+        "num": 182050,
+        "word": "人民日报评最忙五人组反复跨界",
+        "onboard_time": 1765105040,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180937,
+        "num": 180937,
+        "word": "易烊千玺淘宝",
+        "onboard_time": 1765105280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186166,
+        "num": 180684,
+        "word": "广东省考",
+        "onboard_time": 1765093639,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 489105,
+        "num": 180010,
+        "word": "金晨回应被黑",
+        "onboard_time": 1765104441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313283,
+        "num": 179301,
+        "word": "女子婚后出轨伴郎并生娃双双获刑",
+        "onboard_time": 1765097481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20358,
+        "num": 178408,
+        "word": "学校为爬冰救人女孩申报见义勇为",
+        "onboard_time": 1765105821,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37318,
+        "num": 177717,
+        "word": "当比亚迪海洋车主踢馆香港明星足球队",
+        "onboard_time": 1765103659,
+        "rank": 19,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 589824,
+        "num": 177274,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342191,
+        "num": 176653,
+        "word": "乔欣南法度假",
+        "onboard_time": 1765099041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287608,
+        "num": 176157,
+        "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+        "onboard_time": 1765094239,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285834,
+        "num": 175149,
+        "word": "慕胥辞",
+        "onboard_time": 1765100900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280708,
+        "num": 174505,
+        "word": "买了一栋只有一个卧室的别墅",
+        "onboard_time": 1765104321,
+        "rank": 24,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 71831,
+        "num": 173985,
+        "word": "尹正说卸妆后大家才愿意跟我玩",
+        "onboard_time": 1765106241,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274852,
+        "num": 173138,
+        "word": "海涛留学留疯了",
+        "onboard_time": 1765098741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238384,
+        "num": 172416,
+        "word": "转念花开 贾玲张小斐杨紫",
+        "onboard_time": 1765100541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172245,
+        "num": 172245,
+        "word": "芒果TV认证的三部爆剧",
+        "onboard_time": 1765106241,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132442,
+        "num": 171353,
+        "word": "疯狂动物城2破30亿",
+        "onboard_time": 1765102160,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236737,
+        "num": 171180,
+        "word": "孙天宇晒喜人合影",
+        "onboard_time": 1765105760,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153904,
+        "num": 153904,
+        "word": "地铁上用围巾擦奶茶的女生找到啦",
+        "onboard_time": 1765104622,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146944,
+        "num": 146944,
+        "word": "得闲谨制打破9项影史纪录",
+        "onboard_time": 1765101261,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145644,
+        "num": 145644,
+        "word": "仙逆",
+        "onboard_time": 1765104801,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137268,
+        "num": 137268,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1765105521,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134807,
+        "num": 134807,
+        "word": "穆祉丞 最有梗的少年",
+        "onboard_time": 1765105101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129237,
+        "num": 129237,
+        "word": "方圆 好想贝贝",
+        "onboard_time": 1765105460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126887,
+        "num": 126887,
+        "word": "女生剃光头462天后的变化",
+        "onboard_time": 1765105161,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72705,
+        "num": 125220,
+        "word": "俄罗斯准备接纳无限数量的印度工人",
+        "onboard_time": 1765106363,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 124987,
+        "word": "刘诗诗白鹿 爱奇艺",
+        "onboard_time": 1765090461,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124275,
+        "num": 124275,
+        "word": "中国共产党工作机关条例印发",
+        "onboard_time": 1765103360,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118512,
+        "num": 118512,
+        "word": "国防部回应日炒作我舰载机雷达照射",
+        "onboard_time": 1765106182,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117799,
+        "num": 117799,
+        "word": "肖战哭了",
+        "onboard_time": 1765090881,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54436,
+        "num": 116537,
+        "word": "孟子义尖叫之夜撅嘴镜头",
+        "onboard_time": 1765104981,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116203,
+        "num": 116203,
+        "word": "山东申论",
+        "onboard_time": 1765099940,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115799,
+        "num": 115799,
+        "word": "黄景瑜张凌赫你俩说啥呢",
+        "onboard_time": 1765103659,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105771,
+        "num": 105771,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 104955,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101279,
+        "num": 101279,
+        "word": "仇人过成这样我都会心疼",
+        "onboard_time": 1765106121,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法两国共有独立自主精神#"
+    }
+  }
+}

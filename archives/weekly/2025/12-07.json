@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765104098028,
+  "endTime": 1765106504025,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -41,6 +41,14 @@
       "onboard_time": 1765039280,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1586695,
+      "num": 187641,
+      "word": "金晨 再也不自己乱化妆了",
+      "onboard_time": 1765104321,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1476603,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601278,
+      "num": 219162,
+      "word": "人贩子被判死缓后对被害人破口大骂",
+      "onboard_time": 1765103540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591798,
       "num": 228415,
       "word": "法国网友一点没放过马克龙",
@@ -241,6 +257,14 @@
       "onboard_time": 1765077800,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 567300,
+      "num": 197315,
+      "word": "声在中国",
+      "onboard_time": 1765105460,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 547472,
@@ -315,6 +339,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 489105,
+      "num": 180010,
+      "word": "金晨回应被黑",
+      "onboard_time": 1765104441,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485207,
       "num": 239409,
       "word": "泰国弃婴遭巨蜥啃食",
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 433491,
-      "num": 166579,
+      "num": 176653,
       "word": "乔欣南法度假",
       "onboard_time": 1765099041,
       "rank": 38,
@@ -595,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285834,
+      "num": 191399,
+      "word": "慕胥辞",
+      "onboard_time": 1765100900,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285211,
       "num": 285211,
       "word": "于和伟 握烟",
@@ -603,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284095,
+      "num": 284095,
+      "word": "国乒vs日本",
+      "onboard_time": 1765104861,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282716,
       "num": 282716,
       "word": "江苏申论",
       "onboard_time": 1765098140,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 280708,
+      "num": 174505,
+      "word": "买了一栋只有一个卧室的别墅",
+      "onboard_time": 1765104321,
+      "rank": 24,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 279451,
@@ -641,14 +697,6 @@
       "onboard_time": 1765097421,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267963,
-      "num": 191399,
-      "word": "慕胥辞",
-      "onboard_time": 1765100900,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 263839,
@@ -699,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252334,
-      "num": 219162,
-      "word": "人贩子被判死缓后对被害人破口大骂",
-      "onboard_time": 1765103540,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -736,6 +776,14 @@
       "word": "爱奇艺年度喜爱女性角色",
       "onboard_time": 1765031904,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236737,
+      "num": 171180,
+      "word": "孙天宇晒喜人合影",
+      "onboard_time": 1765105760,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -915,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204052,
+      "num": 204052,
+      "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
+      "onboard_time": 1765105340,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203701,
       "num": 245175,
       "word": "山东省考行测",
@@ -1083,6 +1139,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 180937,
+      "num": 180937,
+      "word": "易烊千玺淘宝",
+      "onboard_time": 1765105280,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177371,
       "num": 462422,
       "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1765082421,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172245,
+      "num": 172245,
+      "word": "芒果TV认证的三部爆剧",
+      "onboard_time": 1765106241,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 170904,
@@ -1148,7 +1220,7 @@
     },
     {
       "raw_hot": 166667,
-      "num": 158050,
+      "num": 171353,
       "word": "疯狂动物城2破30亿",
       "onboard_time": 1765102160,
       "rank": 19,
@@ -1275,6 +1347,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 153904,
+      "num": 153904,
+      "word": "地铁上用围巾擦奶茶的女生找到啦",
+      "onboard_time": 1765104622,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 153903,
       "num": 131851,
       "word": "被一只猫冷暴力了3年",
@@ -1363,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "仙逆",
+      "onboard_time": 1765104801,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141190,
       "num": 141190,
       "word": "翟子路回应叫错李兰迪名字",
@@ -1419,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137268,
+      "num": 137268,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1765105521,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136749,
       "num": 267239,
       "word": "日本在与那国岛挖一锹土我军都能发现",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1765085360,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 134807,
+      "word": "穆祉丞 最有梗的少年",
+      "onboard_time": 1765105101,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 134003,
@@ -1515,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129237,
+      "num": 129237,
+      "word": "方圆 好想贝贝",
+      "onboard_time": 1765105460,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128828,
       "num": 128828,
       "word": "杨紫晒和piupiu合照",
@@ -1547,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126887,
+      "num": 126887,
+      "word": "女生剃光头462天后的变化",
+      "onboard_time": 1765105161,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125722,
       "num": 125722,
       "word": "韩国凑不齐的五个云南凑齐了",
@@ -1577,6 +1697,14 @@
       "onboard_time": 1765085541,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124275,
+      "num": 124275,
+      "word": "中国共产党工作机关条例印发",
+      "onboard_time": 1765103360,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123750,
@@ -1681,6 +1809,14 @@
       "onboard_time": 1765081041,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118512,
+      "num": 118512,
+      "word": "国防部回应日炒作我舰载机雷达照射",
+      "onboard_time": 1765106182,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118233,
@@ -1915,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107424,
-      "num": 107424,
-      "word": "中国共产党工作机关条例印发",
-      "onboard_time": 1765103360,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
@@ -2017,6 +2145,14 @@
       "onboard_time": 1765079600,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101279,
+      "num": 101279,
+      "word": "仇人过成这样我都会心疼",
+      "onboard_time": 1765106121,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99566,
@@ -2275,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84907,
+      "num": 182050,
+      "word": "人民日报评最忙五人组反复跨界",
+      "onboard_time": 1765105040,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83445,
       "num": 83445,
       "word": "虞书欣 全开麦",
@@ -2371,12 +2515,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72705,
+      "num": 125220,
+      "word": "俄罗斯准备接纳无限数量的印度工人",
+      "onboard_time": 1765106363,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71958,
       "num": 206636,
       "word": "杭州野生动物园黑熊突然袭击饲养员",
       "onboard_time": 1765026204,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71831,
+      "num": 173985,
+      "word": "尹正说卸妆后大家才愿意跟我玩",
+      "onboard_time": 1765106241,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 70472,
@@ -2529,6 +2689,14 @@
       "onboard_time": 1765084642,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54436,
+      "num": 116537,
+      "word": "孟子义尖叫之夜撅嘴镜头",
+      "onboard_time": 1765104981,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 52365,
@@ -2753,6 +2921,14 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20358,
+      "num": 178408,
+      "word": "学校为爬冰救人女孩申报见义勇为",
+      "onboard_time": 1765105821,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 19867,

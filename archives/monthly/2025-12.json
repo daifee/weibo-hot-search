@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765104098028,
+  "endTime": 1765106504025,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -257,6 +257,14 @@
       "onboard_time": 1764749842,
       "rank": 6,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1586695,
+      "num": 187641,
+      "word": "金晨 再也不自己乱化妆了",
+      "onboard_time": 1765104321,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1557919,
@@ -1763,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601278,
+      "num": 219162,
+      "word": "人贩子被判死缓后对被害人破口大骂",
+      "onboard_time": 1765103540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600877,
       "num": 190260,
       "word": "胡歌二胎 时间",
@@ -1944,6 +1960,14 @@
       "word": "葛夕 恋综",
       "onboard_time": 1764571940,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567300,
+      "num": 197315,
+      "word": "声在中国",
+      "onboard_time": 1765105460,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2547,6 +2571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489105,
+      "num": 180010,
+      "word": "金晨回应被黑",
+      "onboard_time": 1765104441,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488673,
       "num": 488673,
       "word": "李现李一桐太配了",
@@ -3092,7 +3124,7 @@
     },
     {
       "raw_hot": 433491,
-      "num": 166579,
+      "num": 176653,
       "word": "乔欣南法度假",
       "onboard_time": 1765099041,
       "rank": 38,
@@ -5107,6 +5139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285834,
+      "num": 191399,
+      "word": "慕胥辞",
+      "onboard_time": 1765100900,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285020,
       "num": 245067,
       "word": "日本最大在野党党首否认南京大屠杀",
@@ -5193,6 +5233,14 @@
       "onboard_time": 1764930322,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280708,
+      "num": 174505,
+      "word": "买了一栋只有一个卧室的别墅",
+      "onboard_time": 1765104321,
+      "rank": 24,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 280680,
@@ -5417,14 +5465,6 @@
       "onboard_time": 1764905061,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267963,
-      "num": 191399,
-      "word": "慕胥辞",
-      "onboard_time": 1765100900,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 267550,
@@ -5795,14 +5835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252334,
-      "num": 219162,
-      "word": "人贩子被判死缓后对被害人破口大骂",
-      "onboard_time": 1765103540,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252255,
       "num": 338211,
       "word": "吃商届来了个天才",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1764603622,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236737,
+      "num": 171180,
+      "word": "孙天宇晒喜人合影",
+      "onboard_time": 1765105760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 236723,
@@ -7297,6 +7337,14 @@
       "onboard_time": 1764645920,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204052,
+      "num": 204052,
+      "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
+      "onboard_time": 1765105340,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 203889,
@@ -8739,6 +8787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180937,
+      "num": 180937,
+      "word": "易烊千玺淘宝",
+      "onboard_time": 1765105280,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180600,
       "num": 180600,
       "word": "原来有花瓣毛茸茸的菊花",
@@ -9107,6 +9163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172245,
+      "num": 172245,
+      "word": "芒果TV认证的三部爆剧",
+      "onboard_time": 1765106241,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172133,
       "num": 172133,
       "word": "嫁金钗男主",
@@ -9460,7 +9524,7 @@
     },
     {
       "raw_hot": 166667,
-      "num": 158050,
+      "num": 171353,
       "word": "疯狂动物城2破30亿",
       "onboard_time": 1765102160,
       "rank": 19,
@@ -10459,6 +10523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153904,
+      "num": 153904,
+      "word": "地铁上用围巾擦奶茶的女生找到啦",
+      "onboard_time": 1765104622,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 153903,
       "num": 131851,
       "word": "被一只猫冷暴力了3年",
@@ -11163,6 +11235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "汪苏泷杭州演唱会",
@@ -11851,6 +11931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137268,
+      "num": 137268,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1765105521,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137119,
       "num": 137119,
       "word": "蒋叔红线穿瞳了",
@@ -12105,6 +12193,14 @@
       "onboard_time": 1765014983,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 134807,
+      "word": "穆祉丞 最有梗的少年",
+      "onboard_time": 1765105101,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 134539,
@@ -12755,6 +12851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129237,
+      "num": 129237,
+      "word": "方圆 好想贝贝",
+      "onboard_time": 1765105460,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "王曼昱回应受伤后首场比赛",
@@ -12969,6 +13073,14 @@
       "onboard_time": 1765016543,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126887,
+      "num": 126887,
+      "word": "女生剃光头462天后的变化",
+      "onboard_time": 1765105161,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 126801,
@@ -13233,6 +13345,14 @@
       "onboard_time": 1764857662,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 124275,
+      "num": 124275,
+      "word": "中国共产党工作机关条例印发",
+      "onboard_time": 1765103360,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124256,
@@ -14033,6 +14153,14 @@
       "onboard_time": 1764672623,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118512,
+      "num": 118512,
+      "word": "国防部回应日炒作我舰载机雷达照射",
+      "onboard_time": 1765106182,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118484,
@@ -15371,14 +15499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 107424,
-      "num": 107424,
-      "word": "中国共产党工作机关条例印发",
-      "onboard_time": 1765103360,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 107330,
       "num": 111479,
       "word": "侯鸿亮看肖战的眼神",
@@ -16273,6 +16393,14 @@
       "onboard_time": 1764930620,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101279,
+      "num": 101279,
+      "word": "仇人过成这样我都会心疼",
+      "onboard_time": 1765106121,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101174,
@@ -18259,6 +18387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84907,
+      "num": 182050,
+      "word": "人民日报评最忙五人组反复跨界",
+      "onboard_time": 1765105040,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84899,
       "num": 84899,
       "word": "小金毛死活要跟德牧一起睡",
@@ -19387,6 +19523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72705,
+      "num": 125220,
+      "word": "俄罗斯准备接纳无限数量的印度工人",
+      "onboard_time": 1765106363,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72578,
       "num": 91817,
       "word": "长期没穿的衣服藏健康隐患",
@@ -19449,6 +19593,14 @@
       "onboard_time": 1764679162,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71831,
+      "num": 173985,
+      "word": "尹正说卸妆后大家才愿意跟我玩",
+      "onboard_time": 1765106241,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 71432,
@@ -20499,6 +20651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54436,
+      "num": 116537,
+      "word": "孟子义尖叫之夜撅嘴镜头",
+      "onboard_time": 1765104981,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54418,
       "num": 95050,
       "word": "地球升温速度远超历史大灭绝",
@@ -21201,14 +21361,6 @@
       "onboard_time": 1765094900,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 44293,
-      "num": 91323,
-      "word": "仙逆",
-      "onboard_time": 1764500120,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 44289,
@@ -23081,6 +23233,14 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20358,
+      "num": 178408,
+      "word": "学校为爬冰救人女孩申报见义勇为",
+      "onboard_time": 1765105821,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 20317,
