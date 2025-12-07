@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765082457278,
+  "endTime": 1765083102407,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -499,6 +499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1218894,
+      "num": 282953,
+      "word": "小酒窝晒了17张尖叫之夜合照",
+      "onboard_time": 1765079661,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1217128,
       "num": 671722,
       "word": "李乃文疑似在大孤山当地陪",
@@ -521,14 +529,6 @@
       "onboard_time": 1764643820,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1185245,
-      "num": 282953,
-      "word": "小酒窝晒了17张尖叫之夜合照",
-      "onboard_time": 1765079661,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1174512,
@@ -1195,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 715825,
+      "num": 270719,
+      "word": "法新社 马克龙",
+      "onboard_time": 1765079481,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 714566,
       "num": 301433,
       "word": "张凌赫晒与刘宇宁周柯宇合照",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1764657440,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 660712,
-      "num": 270719,
-      "word": "法新社 马克龙",
-      "onboard_time": 1765079481,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 660106,
@@ -4651,6 +4651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 302683,
+      "num": 197196,
+      "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+      "onboard_time": 1765080440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302540,
       "num": 233807,
       "word": "已经到了不认识TFBOYS的时代了",
@@ -5587,14 +5595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246433,
-      "num": 195304,
-      "word": "林青霞自曝豪宅遭大量蟑螂入侵",
-      "onboard_time": 1765080440,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246009,
       "num": 230876,
       "word": "张子枫给谭松韵做了发圈",
@@ -5609,6 +5609,14 @@
       "onboard_time": 1764731901,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244981,
+      "num": 210353,
+      "word": "嘎子谢孟伟穿警服直播带货卖假酒",
+      "onboard_time": 1765081340,
+      "rank": 17,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 244916,
@@ -6067,6 +6075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 228495,
+      "num": 228495,
+      "word": "成毅长安二十四计央八首播",
+      "onboard_time": 1765082061,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228388,
       "num": 228388,
       "word": "怎么不等微信停运了再说",
@@ -6347,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216833,
+      "num": 199715,
+      "word": "迪丽热巴 我有点不认识你了",
+      "onboard_time": 1765082300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216576,
       "num": 216576,
       "word": "下半年来最冷的一天来了",
@@ -6539,14 +6563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210353,
-      "num": 210353,
-      "word": "嘎子谢孟伟穿警服直播带货卖假酒",
-      "onboard_time": 1765081340,
-      "rank": 17,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 210096,
       "num": 214391,
       "word": "举报公职人员店主为何被逼得喝农药",
@@ -6705,6 +6721,14 @@
       "onboard_time": 1765023022,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207327,
+      "num": 182823,
+      "word": "刘宇宁回应获尖叫男演员",
+      "onboard_time": 1765082061,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207241,
@@ -7299,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196741,
+      "num": 196741,
+      "word": "日方称歼15用雷达照射日本战机",
+      "onboard_time": 1765082421,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "小力士第一名",
@@ -7457,14 +7489,6 @@
       "onboard_time": 1764648621,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193890,
-      "num": 161447,
-      "word": "刘宇宁回应获尖叫男演员",
-      "onboard_time": 1765082061,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 193570,
@@ -7763,14 +7787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188478,
-      "num": 157728,
-      "word": "成毅长安二十四计央八首播",
-      "onboard_time": 1765082061,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1765013302,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186198,
+      "num": 181833,
+      "word": "胡先煦直球打得我猝不及防",
+      "onboard_time": 1765082122,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186185,
@@ -8515,14 +8539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176079,
-      "num": 176079,
-      "word": "迪丽热巴 我有点不认识你了",
-      "onboard_time": 1765082300,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175761,
       "num": 228567,
       "word": "我有个烧钱且小众的爱好",
@@ -8625,6 +8641,14 @@
       "onboard_time": 1764845182,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173278,
+      "num": 168275,
+      "word": "蓝盈莹领抱其他人秒跟",
+      "onboard_time": 1765082421,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173253,
@@ -9043,14 +9067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165691,
-      "num": 165691,
-      "word": "胡先煦直球打得我猝不及防",
-      "onboard_time": 1765082122,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165527,
       "num": 1520677,
       "word": "哈尔滨大雪人要回归了",
@@ -9209,6 +9225,14 @@
       "onboard_time": 1764584242,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163543,
+      "num": 163543,
+      "word": "国乒8比3韩国",
+      "onboard_time": 1765082481,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 162958,
@@ -10313,6 +10337,14 @@
       "onboard_time": 1765077921,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149653,
+      "num": 149653,
+      "word": "张呈发1600字长文",
+      "onboard_time": 1765082600,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 149636,
@@ -11563,14 +11595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134119,
-      "num": 118828,
-      "word": "蓝盈莹领抱其他人秒跟",
-      "onboard_time": 1765082421,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133876,
       "num": 133876,
       "word": "京城大师赛",
@@ -12043,6 +12067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "租房结婚vs买房结婚",
+      "onboard_time": 1765081581,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 130129,
       "num": 175033,
       "word": "最难抢的东西出现了",
@@ -12280,6 +12312,14 @@
       "word": "王梓莼说同情包洁仪但无法原谅她",
       "onboard_time": 1764751462,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127109,
+      "num": 123504,
+      "word": "AI真人芭比震惊谢娜",
+      "onboard_time": 1765082781,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -12587,6 +12627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123750,
+      "num": 123750,
+      "word": "N2",
+      "onboard_time": 1765082600,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123711,
       "num": 123711,
       "word": "老自一杯 老己一杯",
@@ -12699,6 +12747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122636,
+      "num": 122636,
+      "word": "金晨 金秘书",
+      "onboard_time": 1765082902,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122598,
       "num": 122598,
       "word": "NBA",
@@ -12801,14 +12857,6 @@
       "onboard_time": 1764558440,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121758,
-      "num": 121758,
-      "word": "租房结婚vs买房结婚",
-      "onboard_time": 1765081581,
-      "rank": 36,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 121745,
@@ -13267,14 +13315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118863,
-      "num": 118863,
-      "word": "日方称歼15用雷达照射日本战机",
-      "onboard_time": 1765082421,
-      "rank": 38,
-      "category": "军事"
-    },
-    {
       "raw_hot": 118810,
       "num": 118810,
       "word": "惠英红 支持领养宠物代替购买",
@@ -13353,6 +13393,14 @@
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118141,
+      "num": 114227,
+      "word": "这居然是杨和苏",
+      "onboard_time": 1765081041,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 118030,
@@ -14353,6 +14401,14 @@
       "onboard_time": 1764575842,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108963,
+      "num": 108963,
+      "word": "抗癌针等19种药品纳入首版商保目录",
+      "onboard_time": 1765082960,
+      "rank": 47,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 108959,
@@ -15729,6 +15785,14 @@
       "onboard_time": 1764601582,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98322,
+      "num": 106495,
+      "word": "N1听力",
+      "onboard_time": 1765082960,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98266,
