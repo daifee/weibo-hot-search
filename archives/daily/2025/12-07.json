@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765107425538,
+  "endTime": 1765111772750,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1720832,
-      "num": 204832,
+      "num": 214402,
       "word": "金晨 再也不自己乱化妆了",
       "onboard_time": 1765104321,
       "rank": 10,
@@ -267,8 +267,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 566643,
+      "num": 214364,
+      "word": "张凌赫偷瞄白鹿",
+      "onboard_time": 1765110681,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547472,
-      "num": 547472,
+      "num": 1082531,
       "word": "腾讯视频星光大赏",
       "onboard_time": 1765095860,
       "rank": 18,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434528,
+      "num": 222821,
+      "word": "你的婚纱照可能被卖了",
+      "onboard_time": 1765109303,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433491,
       "num": 198488,
       "word": "乔欣南法度假",
@@ -465,6 +481,14 @@
       "onboard_time": 1765071200,
       "rank": 13,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 383446,
+      "num": 383446,
+      "word": "地铁上用围巾擦奶茶的女生找到啦",
+      "onboard_time": 1765104622,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 382581,
@@ -595,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317256,
+      "num": 173945,
+      "word": "谢楠小儿子一把抱住陈妍希儿子",
+      "onboard_time": 1765108881,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316096,
       "num": 278084,
       "word": "肖战哭了",
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 280708,
-      "num": 202195,
+      "num": 214321,
       "word": "买了一栋只有一个卧室的别墅",
       "onboard_time": 1765104321,
       "rank": 24,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237268,
+      "num": 222561,
+      "word": "婴儿被褥印不雅英文字母",
+      "onboard_time": 1765108881,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236737,
       "num": 178513,
       "word": "孙天宇晒喜人合影",
@@ -809,6 +849,30 @@
       "onboard_time": 1765087041,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 233929,
+      "num": 214247,
+      "word": "美防长警告日本",
+      "onboard_time": 1765107982,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 232509,
+      "num": 211405,
+      "word": "虞书欣的12分18秒",
+      "onboard_time": 1765107142,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 232318,
+      "num": 232318,
+      "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
+      "onboard_time": 1765105340,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 228495,
@@ -891,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214531,
+      "num": 214531,
+      "word": "肖战得闲谨制登上新闻联播",
+      "onboard_time": 1765110800,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212320,
       "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
@@ -913,6 +985,14 @@
       "onboard_time": 1765090700,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208252,
+      "num": 170112,
+      "word": "具俊晔没陪小S录音",
+      "onboard_time": 1765110080,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 207327,
@@ -971,28 +1051,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 204445,
-      "num": 204445,
-      "word": "地铁上用围巾擦奶茶的女生找到啦",
-      "onboard_time": 1765104622,
-      "rank": 32,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 204251,
       "num": 187807,
       "word": "长安二十四计定档",
       "onboard_time": 1765071800,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204052,
-      "num": 204052,
-      "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
-      "onboard_time": 1765105340,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 203701,
@@ -1017,6 +1081,14 @@
       "onboard_time": 1765085181,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201130,
+      "num": 165165,
+      "word": "彭小苒抗住了死亡芭比粉",
+      "onboard_time": 1765109241,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 200802,
@@ -1105,14 +1177,6 @@
       "onboard_time": 1765063937,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 187203,
-      "num": 187203,
-      "word": "虞书欣的12分18秒",
-      "onboard_time": 1765107142,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 186198,
@@ -1275,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164205,
+      "num": 164205,
+      "word": "12306回应员工用装垃圾的簸箕接开水",
+      "onboard_time": 1765108223,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163543,
       "num": 163543,
       "word": "国乒8比3韩国",
@@ -1315,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161265,
+      "num": 214490,
+      "word": "LCK纪录片被曝曲解T1选手",
+      "onboard_time": 1765110561,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160014,
       "num": 160014,
       "word": "浙江申论",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1765103480,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157262,
+      "num": 157262,
+      "word": "娜扎手过敏",
+      "onboard_time": 1765108462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 156897,
@@ -1475,6 +1563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144140,
+      "num": 144140,
+      "word": "擅闯训练区或可被视为训练靶标",
+      "onboard_time": 1765110921,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141190,
       "num": 141190,
       "word": "翟子路回应叫错李兰迪名字",
@@ -1496,6 +1592,14 @@
       "word": "陈妍希怎么做到姐感妹感都有的",
       "onboard_time": 1765089080,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139579,
+      "num": 139579,
+      "word": "张雅钦古装美成啥了",
+      "onboard_time": 1765111701,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1625,6 +1729,14 @@
       "onboard_time": 1765079001,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131818,
+      "num": 131818,
+      "word": "蒋易 摇汞青年的夏天无敌精彩",
+      "onboard_time": 1765111099,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 130365,
@@ -2123,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107600,
+      "num": 107600,
+      "word": "杨幂上次嫌弃别人拍照还是赵又廷",
+      "onboard_time": 1765108762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
@@ -2153,6 +2273,14 @@
       "onboard_time": 1765098981,
       "rank": 34,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 105032,
+      "num": 105032,
+      "word": "金士杰近60岁生了龙凤胎",
+      "onboard_time": 1765111581,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 104987,
@@ -2219,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102568,
+      "num": 102568,
+      "word": "赵今麦居然把宋威龙撩害羞了",
+      "onboard_time": 1765108821,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101456,
       "num": 101456,
       "word": "蒯曼王曼昱vs李恩惠崔孝珠",
@@ -2259,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98362,
+      "num": 98362,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1765108160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98322,
       "num": 106495,
       "word": "N1听力",
@@ -2281,6 +2425,14 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97747,
+      "num": 97747,
+      "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
+      "onboard_time": 1765111701,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97133,
@@ -2473,6 +2625,14 @@
       "onboard_time": 1765046777,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86319,
+      "num": 175496,
+      "word": "华晨宇回归声鸣远扬",
+      "onboard_time": 1765110681,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 85940,
@@ -2771,6 +2931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50551,
+      "num": 167721,
+      "word": "美国对中日外交争端保持沉默",
+      "onboard_time": 1765110319,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50035,
       "num": 1033717,
       "word": "冬天里的大美中国",
@@ -2875,6 +3043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 40321,
+      "num": 99751,
+      "word": "粉丝应援会唱歌的迪丽热巴",
+      "onboard_time": 1765109361,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40076,
       "num": 130624,
       "word": "Gumayusi说能战胜T1",
@@ -2953,6 +3129,14 @@
       "onboard_time": 1765079781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23632,
+      "num": 284682,
+      "word": "2025大家说宪法",
+      "onboard_time": 1765100445,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22723,
