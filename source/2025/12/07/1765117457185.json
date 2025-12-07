@@ -1,0 +1,410 @@
+{
+  "runTime": 1765117457185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459388,
+        "num": 1073502,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765095860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351216,
+        "num": 351216,
+        "word": "国乒11战全胜夺冠军",
+        "onboard_time": 1765114941,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60201,
+        "num": 350345,
+        "word": "国产挖掘机零下40摄氏度一秒启动",
+        "onboard_time": 1765113682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350319,
+        "num": 350319,
+        "word": "国乒vs日本",
+        "onboard_time": 1765104861,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1424187,
+        "num": 348227,
+        "word": "张凌赫偷瞄白鹿",
+        "onboard_time": 1765110681,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428938,
+        "num": 343217,
+        "word": "人贩子被判死缓后对被害人破口大骂",
+        "onboard_time": 1765103540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338098,
+        "num": 338098,
+        "word": "地铁上用围巾擦奶茶的女生找到啦",
+        "onboard_time": 1765104622,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235802,
+        "num": 235802,
+        "word": "肖战得闲谨制登上新闻联播",
+        "onboard_time": 1765110800,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263736,
+        "num": 228682,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1765108160,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213224,
+        "num": 213224,
+        "word": "F1",
+        "onboard_time": 1765113322,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1202604,
+        "num": 212719,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490037,
+        "num": 211749,
+        "word": "刘亦菲阿布扎比观赛F1",
+        "onboard_time": 1765112661,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 474132,
+        "num": 210201,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346835,
+        "num": 208947,
+        "word": "季节 这都能输为啥不退役啊",
+        "onboard_time": 1765113442,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305014,
+        "num": 207572,
+        "word": "曾舜晞刘宇宁 共用口罩",
+        "onboard_time": 1765114643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275222,
+        "num": 205332,
+        "word": "你的婚纱照可能被卖了",
+        "onboard_time": 1765109303,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253840,
+        "num": 205111,
+        "word": "狼队对战KSG",
+        "onboard_time": 1765116442,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247892,
+        "num": 203130,
+        "word": "虞书欣的12分18秒",
+        "onboard_time": 1765107142,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234580,
+        "num": 201779,
+        "word": "心疼花海",
+        "onboard_time": 1765115482,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87172,
+        "num": 200215,
+        "word": "马克龙夫人身边的中国女保镖",
+        "onboard_time": 1765116684,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478784,
+        "num": 199712,
+        "word": "金士杰近60岁生了龙凤胎",
+        "onboard_time": 1765111581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343315,
+        "num": 198322,
+        "word": "节食减重50斤吃麻辣烫时晕倒被烫伤",
+        "onboard_time": 1765115003,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218221,
+        "num": 195943,
+        "word": "婴儿被褥印不雅英文字母",
+        "onboard_time": 1765108881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195901,
+        "num": 195901,
+        "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
+        "onboard_time": 1765111701,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190578,
+        "num": 190578,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169302,
+        "num": 169302,
+        "word": "家人刷视频才知13岁孩子救了人",
+        "onboard_time": 1765115482,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 169286,
+        "num": 169286,
+        "word": "乒乓球",
+        "onboard_time": 1765109061,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 167475,
+        "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+        "onboard_time": 1765116984,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155190,
+        "num": 155190,
+        "word": "我驻日大使提出严正交涉",
+        "onboard_time": 1765112061,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153504,
+        "num": 153504,
+        "word": "林诗栋2比1张本智和",
+        "onboard_time": 1765116023,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159079,
+        "num": 153319,
+        "word": "许昕直播间哇声一片",
+        "onboard_time": 1765116623,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149573,
+        "num": 149573,
+        "word": "土豆对仙子酒后丑态的分享欲",
+        "onboard_time": 1765116863,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145298,
+        "num": 145298,
+        "word": "新疆买葡萄干也分色号",
+        "onboard_time": 1765116503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142505,
+        "num": 142505,
+        "word": "王曼昱感受到中国力量",
+        "onboard_time": 1765116144,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139961,
+        "num": 141174,
+        "word": "王曼昱3比0胜张本美和",
+        "onboard_time": 1765112901,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140808,
+        "num": 140808,
+        "word": "美防长警告日本",
+        "onboard_time": 1765107982,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137637,
+        "num": 137637,
+        "word": "白鹿 差一张曾舜晞还没传给我",
+        "onboard_time": 1765117041,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133383,
+        "num": 133383,
+        "word": "关晓彤 小时候拍戏条件不好",
+        "onboard_time": 1765113502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124130,
+        "num": 132411,
+        "word": "国乒混团三连冠",
+        "onboard_time": 1765115963,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132355,
+        "num": 132355,
+        "word": "买了一栋只有一个卧室的别墅",
+        "onboard_time": 1765104321,
+        "rank": 39,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
+        "onboard_time": 1765113562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "誓约 季节",
+        "onboard_time": 1765115424,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125558,
+        "num": 125558,
+        "word": "沈梦辰好漂亮",
+        "onboard_time": 1765115303,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124320,
+        "num": 124320,
+        "word": "陈晓扛住了瓜皮帽",
+        "onboard_time": 1765117102,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119719,
+        "num": 119719,
+        "word": "GEN三战全败",
+        "onboard_time": 1765115963,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117113,
+        "num": 117113,
+        "word": "入室抢婴案",
+        "onboard_time": 1765117222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114428,
+        "num": 114428,
+        "word": "林诗栋亲吻胸前国旗",
+        "onboard_time": 1765116623,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112219,
+        "num": 112219,
+        "word": "12306出新功能了",
+        "onboard_time": 1765117403,
+        "rank": 47,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 110073,
+        "num": 110073,
+        "word": "慕胥辞",
+        "onboard_time": 1765100900,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107909,
+        "num": 107909,
+        "word": "奥运冠军武大靖回应退役",
+        "onboard_time": 1765114402,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

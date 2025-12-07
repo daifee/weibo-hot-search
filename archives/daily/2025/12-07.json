@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765114974970,
+  "endTime": 1765117457185,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 664875,
-      "num": 332419,
+      "num": 343217,
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 527646,
-      "num": 195794,
+      "num": 199712,
       "word": "金士杰近60岁生了龙凤胎",
       "onboard_time": 1765111581,
       "rank": 41,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351216,
+      "num": 351216,
+      "word": "国乒11战全胜夺冠军",
+      "onboard_time": 1765114941,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350756,
       "num": 350756,
       "word": "秦岚撒娇",
@@ -601,6 +609,14 @@
       "onboard_time": 1765080201,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343315,
+      "num": 198322,
+      "word": "节食减重50斤吃麻辣烫时晕倒被烫伤",
+      "onboard_time": 1765115003,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340343,
@@ -697,6 +713,14 @@
       "onboard_time": 1765086440,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305014,
+      "num": 207572,
+      "word": "曾舜晞刘宇宁 共用口罩",
+      "onboard_time": 1765114643,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 300027,
@@ -859,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253840,
+      "num": 205111,
+      "word": "狼队对战KSG",
+      "onboard_time": 1765116442,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -921,6 +953,14 @@
       "onboard_time": 1765087041,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 234580,
+      "num": 201779,
+      "word": "心疼花海",
+      "onboard_time": 1765115482,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 232318,
@@ -1355,12 +1395,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169302,
+      "num": 169302,
+      "word": "家人刷视频才知13岁孩子救了人",
+      "onboard_time": 1765115482,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "虞书欣雨爱",
       "onboard_time": 1765028184,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+      "onboard_time": 1765116984,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 167352,
@@ -1483,6 +1539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159079,
+      "num": 153319,
+      "word": "许昕直播间哇声一片",
+      "onboard_time": 1765116623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158513,
       "num": 158513,
       "word": "王一博微博被做成了一本书",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1765091180,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153504,
+      "num": 153504,
+      "word": "林诗栋2比1张本智和",
+      "onboard_time": 1765116023,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152911,
@@ -1611,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149573,
+      "num": 149573,
+      "word": "土豆对仙子酒后丑态的分享欲",
+      "onboard_time": 1765116863,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148498,
       "num": 132339,
       "word": "法媒报道马克龙与中国人互动",
@@ -1651,6 +1731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145298,
+      "num": 145298,
+      "word": "新疆买葡萄干也分色号",
+      "onboard_time": 1765116503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144434,
       "num": 144434,
       "word": "苏新皓cha疯狂动物城2主题曲",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1765110921,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142505,
+      "num": 142505,
+      "word": "王曼昱感受到中国力量",
+      "onboard_time": 1765116144,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 141190,
@@ -1747,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137637,
+      "num": 137637,
+      "word": "白鹿 差一张曾舜晞还没传给我",
+      "onboard_time": 1765117041,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136749,
       "num": 267239,
       "word": "日本在与那国岛挖一锹土我军都能发现",
@@ -1827,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133383,
+      "num": 133383,
+      "word": "关晓彤 小时候拍戏条件不好",
+      "onboard_time": 1765113502,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132704,
       "num": 132704,
       "word": "混团决赛国乒vs日本",
@@ -1851,8 +1963,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130683,
-      "num": 130683,
+      "raw_hot": 130772,
+      "num": 130772,
       "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
       "onboard_time": 1765113562,
       "rank": 38,
@@ -1873,6 +1985,14 @@
       "onboard_time": 1765081581,
       "rank": 36,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 129453,
+      "num": 129453,
+      "word": "誓约 季节",
+      "onboard_time": 1765115424,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 129269,
@@ -1939,20 +2059,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126071,
-      "num": 126071,
-      "word": "曾舜晞刘宇宁 共用口罩",
-      "onboard_time": 1765114643,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125722,
       "num": 125722,
       "word": "韩国凑不齐的五个云南凑齐了",
       "onboard_time": 1765093461,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "沈梦辰好漂亮",
+      "onboard_time": 1765115303,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124913,
@@ -1987,12 +2107,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124320,
+      "num": 124320,
+      "word": "陈晓扛住了瓜皮帽",
+      "onboard_time": 1765117102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124275,
       "num": 134536,
       "word": "中国共产党工作机关条例印发",
       "onboard_time": 1765103360,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124130,
+      "num": 132411,
+      "word": "国乒混团三连冠",
+      "onboard_time": 1765115963,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 123750,
@@ -2089,6 +2225,14 @@
       "onboard_time": 1765071200,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119719,
+      "num": 119719,
+      "word": "GEN三战全败",
+      "onboard_time": 1765115963,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 119513,
@@ -2195,6 +2339,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117113,
+      "num": 117113,
+      "word": "入室抢婴案",
+      "onboard_time": 1765117222,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116765,
       "num": 710383,
       "word": "王曼昱谈及身体状况只有坚持",
@@ -2219,12 +2371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115442,
-      "num": 115442,
-      "word": "关晓彤 小时候拍戏条件不好",
-      "onboard_time": 1765113502,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 114428,
+      "num": 114428,
+      "word": "林诗栋亲吻胸前国旗",
+      "onboard_time": 1765116623,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 114223,
@@ -2297,6 +2449,14 @@
       "onboard_time": 1765103659,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112219,
+      "num": 112219,
+      "word": "12306出新功能了",
+      "onboard_time": 1765117403,
+      "rank": 47,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 112148,
@@ -2457,14 +2617,6 @@
       "onboard_time": 1765083441,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 104730,
-      "num": 104730,
-      "word": "国乒11战全胜夺冠军",
-      "onboard_time": 1765114941,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 104297,
@@ -2811,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87172,
+      "num": 200215,
+      "word": "马克龙夫人身边的中国女保镖",
+      "onboard_time": 1765116684,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87039,
       "num": 87039,
       "word": "为挽婚姻做公证反失房产负债400万",
@@ -3067,6 +3227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60201,
+      "num": 482197,
+      "word": "国产挖掘机零下40摄氏度一秒启动",
+      "onboard_time": 1765113682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60087,
       "num": 142798,
       "word": "游客偶遇用镜子反射光给大佛暖鼻子",
@@ -3225,14 +3393,6 @@
       "onboard_time": 1765095681,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42315,
-      "num": 482197,
-      "word": "国产挖掘机零下40摄氏度一秒启动",
-      "onboard_time": 1765113682,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40843,
