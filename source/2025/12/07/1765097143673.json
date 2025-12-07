@@ -1,0 +1,410 @@
+{
+  "runTime": 1765097143673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 482375,
+        "num": 1077180,
+        "word": "课本上明太祖画像换了",
+        "onboard_time": 1765088480,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369922,
+        "num": 369922,
+        "word": "日本自卫队滋扰辽宁舰编队训练",
+        "onboard_time": 1765084582,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22087,
+        "num": 281737,
+        "word": "冬天里的大美中国",
+        "onboard_time": 1765080081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141186,
+        "num": 280025,
+        "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+        "onboard_time": 1765094239,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276941,
+        "num": 276941,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877359,
+        "num": 274710,
+        "word": "杨幂嫌弃董璇拍照",
+        "onboard_time": 1765095440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325246,
+        "num": 267261,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765095860,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218733,
+        "num": 218733,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224527,
+        "num": 216719,
+        "word": "日本自卫队滋扰辽宁舰训练",
+        "onboard_time": 1765095320,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 215284,
+        "word": "广东省考",
+        "onboard_time": 1765093639,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 516510,
+        "num": 212804,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444191,
+        "num": 210822,
+        "word": "21天不吃糖是什么体验",
+        "onboard_time": 1765091599,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 341512,
+        "num": 208168,
+        "word": "王梓莼回应了",
+        "onboard_time": 1765096641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316306,
+        "num": 205671,
+        "word": "于正称因平台有补偿才准周柯宇的假",
+        "onboard_time": 1765095141,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294811,
+        "num": 203918,
+        "word": "肖战哭了",
+        "onboard_time": 1765090881,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293277,
+        "num": 201057,
+        "word": "男子海洋馆内抽烟被白鲸喷水",
+        "onboard_time": 1765094060,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243163,
+        "num": 198537,
+        "word": "宋祖儿任嘉伦唠嗑唠生气了",
+        "onboard_time": 1765095500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232275,
+        "num": 196165,
+        "word": "男女涉卖淫嫖娼被罚300元",
+        "onboard_time": 1765083081,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 194715,
+        "num": 194715,
+        "word": "马克龙用中文发帖感谢中国",
+        "onboard_time": 1765092140,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178498,
+        "num": 178498,
+        "word": "男童掉冰窟13岁女孩施救后默默离开",
+        "onboard_time": 1765088900,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243202,
+        "num": 177669,
+        "word": "李昀锐告了132人",
+        "onboard_time": 1765085001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215752,
+        "num": 177219,
+        "word": "刘浩存跳了呕吐舞",
+        "onboard_time": 1765095681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197782,
+        "num": 177049,
+        "word": "方媛自曝三胎顺产",
+        "onboard_time": 1765095080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176244,
+        "num": 176244,
+        "word": "男子隐瞒遗传病生子致女儿患病",
+        "onboard_time": 1765085301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167352,
+        "num": 167352,
+        "word": "任嘉伦拿一个奖宣三部剧",
+        "onboard_time": 1765096760,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158368,
+        "num": 158368,
+        "word": "迪丽热巴 我有点不认识你了",
+        "onboard_time": 1765082300,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145217,
+        "num": 145217,
+        "word": "二婚夫妻买2套房被丈夫过户前妻",
+        "onboard_time": 1765090700,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82634,
+        "num": 140793,
+        "word": "张呈雷淞然夺冠后双双买车",
+        "onboard_time": 1765091061,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139880,
+        "num": 139880,
+        "word": "贺峻霖 星光大赏主持人",
+        "onboard_time": 1765090339,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132790,
+        "num": 132790,
+        "word": "法国网友一点没放过马克龙",
+        "onboard_time": 1765096820,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432949,
+        "num": 132579,
+        "word": "刘诗诗白鹿 爱奇艺",
+        "onboard_time": 1765090461,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232252,
+        "num": 131608,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 130131,
+        "word": "董璇带着小酒窝到处合影",
+        "onboard_time": 1765096461,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127682,
+        "num": 127682,
+        "word": "外网对日本文化祛魅",
+        "onboard_time": 1765093521,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124737,
+        "num": 127674,
+        "word": "情久对战TTG",
+        "onboard_time": 1765096158,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 127666,
+        "word": "王楚然从南湘变成唐宛如了",
+        "onboard_time": 1765084942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61556,
+        "num": 126367,
+        "word": "解放军全时备战能力达空前水平",
+        "onboard_time": 1765094840,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126208,
+        "num": 126208,
+        "word": "刘宇宁再多说一句就要哭出来了",
+        "onboard_time": 1765092860,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39786,
+        "num": 126110,
+        "word": "Gumayusi说能战胜T1",
+        "onboard_time": 1765096101,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35133,
+        "num": 125993,
+        "word": "官方介入管彩礼合适吗",
+        "onboard_time": 1765096400,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237702,
+        "num": 125887,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90482,
+        "num": 125771,
+        "word": "中国对日企稀土出口审批流程变长",
+        "onboard_time": 1765094840,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125722,
+        "num": 125722,
+        "word": "韩国凑不齐的五个云南凑齐了",
+        "onboard_time": 1765093461,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43400,
+        "num": 120495,
+        "word": "12306回应高铁盲文无凸起",
+        "onboard_time": 1765095681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119438,
+        "num": 119438,
+        "word": "得闲谨制猫眼开分9.7分",
+        "onboard_time": 1765094900,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 113759,
+        "word": "葛荟婕自曝放不下汪峰",
+        "onboard_time": 1765096701,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22723,
+        "num": 112104,
+        "word": "马克龙访华任务完成了吗",
+        "onboard_time": 1765095561,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "王楚钦撤回一个下班卡",
+        "onboard_time": 1765096222,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94555,
+        "num": 108829,
+        "word": "X被欧盟罚款1.2亿欧元马斯克发飙",
+        "onboard_time": 1765096880,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87272,
+        "num": 108581,
+        "word": "混团决赛国乒vs日本",
+        "onboard_time": 1765090280,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}

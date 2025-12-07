@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765096380016,
+  "endTime": 1765097143673,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1141186,
+      "num": 301312,
+      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+      "onboard_time": 1765094239,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1132132,
       "num": 770396,
       "word": "妻子曝光丈夫生前出轨捉奸视频",
@@ -689,14 +697,6 @@
       "onboard_time": 1764568761,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1020490,
-      "num": 301312,
-      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
-      "onboard_time": 1765094239,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1019056,
@@ -952,6 +952,14 @@
       "word": "杨幂 C位",
       "onboard_time": 1765006341,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 877359,
+      "num": 274710,
+      "word": "杨幂嫌弃董璇拍照",
+      "onboard_time": 1765095440,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -1425,14 +1433,6 @@
       "onboard_time": 1764902900,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 671890,
-      "num": 273368,
-      "word": "杨幂嫌弃董璇拍照",
-      "onboard_time": 1765095440,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 668932,
@@ -2116,7 +2116,7 @@
     },
     {
       "raw_hot": 540206,
-      "num": 199674,
+      "num": 210822,
       "word": "21天不吃糖是什么体验",
       "onboard_time": 1765091599,
       "rank": 36,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1764729261,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482375,
+      "num": 1077180,
+      "word": "课本上明太祖画像换了",
+      "onboard_time": 1765088480,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 481298,
@@ -4155,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341512,
+      "num": 208168,
+      "word": "王梓莼回应了",
+      "onboard_time": 1765096641,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341056,
       "num": 341056,
       "word": "建议气血不足的人每天拍臀",
@@ -4427,6 +4443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325246,
+      "num": 311803,
+      "word": "腾讯视频星光大赏",
+      "onboard_time": 1764679281,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324532,
       "num": 734856,
       "word": "达美乐 大美乐",
@@ -4436,7 +4460,7 @@
     },
     {
       "raw_hot": 324274,
-      "num": 199305,
+      "num": 205671,
       "word": "于正称因平台有补偿才准周柯宇的假",
       "onboard_time": 1765095141,
       "rank": 12,
@@ -4945,6 +4969,14 @@
       "onboard_time": 1765021521,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293277,
+      "num": 201057,
+      "word": "男子海洋馆内抽烟被白鲸喷水",
+      "onboard_time": 1765094060,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293183,
@@ -5835,6 +5867,14 @@
       "category": "舆论监督,艺人"
     },
     {
+      "raw_hot": 243163,
+      "num": 198537,
+      "word": "宋祖儿任嘉伦唠嗑唠生气了",
+      "onboard_time": 1765095500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243080,
       "num": 243080,
       "word": "晚安计划",
@@ -6339,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224527,
+      "num": 216719,
+      "word": "日本自卫队滋扰辽宁舰训练",
+      "onboard_time": 1765095320,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 223255,
       "num": 708916,
       "word": "仙剑奇侠传三动画定档",
@@ -6547,6 +6595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215752,
+      "num": 192984,
+      "word": "刘浩存跳了呕吐舞",
+      "onboard_time": 1765095681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215030,
       "num": 215030,
       "word": "白月梵星红毯",
@@ -6577,14 +6633,6 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214193,
-      "num": 198187,
-      "word": "男子海洋馆内抽烟被白鲸喷水",
-      "onboard_time": 1765094060,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214078,
@@ -6643,28 +6691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212640,
-      "num": 192984,
-      "word": "刘浩存跳了呕吐舞",
-      "onboard_time": 1765095681,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212587,
       "num": 212587,
       "word": "50元的安全套以后或涨为56.5元",
       "onboard_time": 1764860120,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212523,
-      "num": 311803,
-      "word": "腾讯视频星光大赏",
-      "onboard_time": 1764679281,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 212320,
@@ -6772,7 +6804,7 @@
     },
     {
       "raw_hot": 209829,
-      "num": 209829,
+      "num": 215284,
       "word": "广东省考",
       "onboard_time": 1765093639,
       "rank": 6,
@@ -7395,14 +7427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199999,
-      "num": 199999,
-      "word": "日本自卫队滋扰辽宁舰训练",
-      "onboard_time": 1765095320,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199831,
       "num": 199831,
       "word": "电动车时速超25公里就断电",
@@ -7489,6 +7513,14 @@
       "onboard_time": 1764653061,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197782,
+      "num": 189257,
+      "word": "方媛自曝三胎顺产",
+      "onboard_time": 1765095080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 197727,
@@ -7747,14 +7779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192883,
-      "num": 189257,
-      "word": "方媛自曝三胎顺产",
-      "onboard_time": 1765095080,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192663,
       "num": 187819,
       "word": "工作一整年存了3700块钱",
@@ -7897,14 +7921,6 @@
       "onboard_time": 1764593543,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189947,
-      "num": 189947,
-      "word": "宋祖儿任嘉伦唠嗑唠生气了",
-      "onboard_time": 1765095500,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 189890,
@@ -9209,6 +9225,14 @@
       "onboard_time": 1764594143,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167352,
+      "num": 167352,
+      "word": "任嘉伦拿一个奖宣三部剧",
+      "onboard_time": 1765096760,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 167316,
@@ -11803,6 +11827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135582,
+      "num": 130131,
+      "word": "董璇带着小酒窝到处合影",
+      "onboard_time": 1765096461,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135522,
       "num": 135522,
       "word": "樊振东2026首个主场碰面薛飞",
@@ -12073,6 +12105,14 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132790,
+      "num": 132790,
+      "word": "法国网友一点没放过马克龙",
+      "onboard_time": 1765096820,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132761,
@@ -12635,6 +12675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127682,
+      "num": 140716,
+      "word": "外网对日本文化祛魅",
+      "onboard_time": 1765093521,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127668,
       "num": 151540,
       "word": "八国外长发表联合声明",
@@ -12835,6 +12883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125722,
+      "num": 125722,
+      "word": "韩国凑不齐的五个云南凑齐了",
+      "onboard_time": 1765093461,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125540,
       "num": 125540,
       "word": "2岁小孩的词汇量有多恐怖",
@@ -12897,6 +12953,14 @@
       "onboard_time": 1764594143,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124737,
+      "num": 127674,
+      "word": "情久对战TTG",
+      "onboard_time": 1765096158,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 124709,
@@ -13041,14 +13105,6 @@
       "onboard_time": 1764688165,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123462,
-      "num": 123462,
-      "word": "韩国凑不齐的五个云南凑齐了",
-      "onboard_time": 1765093461,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 123324,
@@ -13281,14 +13337,6 @@
       "onboard_time": 1764843622,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121569,
-      "num": 140716,
-      "word": "外网对日本文化祛魅",
-      "onboard_time": 1765093521,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 121566,
@@ -14371,14 +14419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113813,
-      "num": 113813,
-      "word": "情久对战TTG",
-      "onboard_time": 1765096158,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 113811,
       "num": 113811,
       "word": "王者荣耀大隐于市的高手",
@@ -14393,6 +14433,14 @@
       "onboard_time": 1764855743,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113759,
+      "num": 113759,
+      "word": "葛荟婕自曝放不下汪峰",
+      "onboard_time": 1765096701,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 113694,
@@ -14657,6 +14705,14 @@
       "onboard_time": 1764637760,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "王楚钦撤回一个下班卡",
+      "onboard_time": 1765096222,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110923,
@@ -15073,14 +15129,6 @@
       "onboard_time": 1764945502,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107321,
-      "num": 107321,
-      "word": "王楚钦撤回一个下班卡",
-      "onboard_time": 1765096222,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 107249,
@@ -16827,6 +16875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94555,
+      "num": 108829,
+      "word": "X被欧盟罚款1.2亿欧元马斯克发飙",
+      "onboard_time": 1765096880,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94460,
       "num": 288056,
       "word": "华为MateX7的大屏AI有多强",
@@ -17289,6 +17345,14 @@
       "onboard_time": 1764924560,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90482,
+      "num": 163515,
+      "word": "中国对日企稀土出口审批流程变长",
+      "onboard_time": 1765094840,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90468,
@@ -17841,14 +17905,6 @@
       "onboard_time": 1764940522,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 85036,
-      "num": 163515,
-      "word": "中国对日企稀土出口审批流程变长",
-      "onboard_time": 1765094840,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85031,
@@ -20811,6 +20867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43400,
+      "num": 126232,
+      "word": "12306回应高铁盲文无凸起",
+      "onboard_time": 1765095681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43354,
       "num": 160724,
       "word": "150元冰箱配件 维修收费899元",
@@ -20921,14 +20985,6 @@
       "onboard_time": 1764925881,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42227,
-      "num": 126232,
-      "word": "12306回应高铁盲文无凸起",
-      "onboard_time": 1765095681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42222,
@@ -21505,6 +21561,14 @@
       "onboard_time": 1764996023,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35133,
+      "num": 125993,
+      "word": "官方介入管彩礼合适吗",
+      "onboard_time": 1765096400,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35059,
@@ -22467,6 +22531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22723,
+      "num": 134161,
+      "word": "马克龙访华任务完成了吗",
+      "onboard_time": 1765095561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22692,
       "num": 106149,
       "word": "男子因质问遛狗不牵绳被打案二审",
@@ -22889,14 +22961,6 @@
       "onboard_time": 1764657620,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15042,
-      "num": 134161,
-      "word": "马克龙访华任务完成了吗",
-      "onboard_time": 1765095561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14912,

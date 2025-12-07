@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765096380016,
+  "endTime": 1765097143673,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1141186,
+      "num": 301312,
+      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
+      "onboard_time": 1765094239,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1110938,
       "num": 612281,
       "word": "爱奇艺颁奖失误",
@@ -72,14 +80,6 @@
       "word": "刘宇宁尖叫男演员",
       "onboard_time": 1765037004,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1020490,
-      "num": 301312,
-      "word": "77年黄晓明喊72年王鹤棣爸爸叔",
-      "onboard_time": 1765094239,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1765018101,
       "rank": 20,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 877359,
+      "num": 274710,
+      "word": "杨幂嫌弃董璇拍照",
+      "onboard_time": 1765095440,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 866700,
@@ -187,14 +195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 671890,
-      "num": 273368,
-      "word": "杨幂嫌弃董璇拍照",
-      "onboard_time": 1765095440,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 666783,
       "num": 916166,
       "word": "女子仅退款225个快递或面临数年徒刑",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 540206,
-      "num": 199674,
+      "num": 210822,
       "word": "21天不吃糖是什么体验",
       "onboard_time": 1765091599,
       "rank": 36,
@@ -281,6 +281,14 @@
       "onboard_time": 1765037062,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 482375,
+      "num": 1077180,
+      "word": "课本上明太祖画像换了",
+      "onboard_time": 1765088480,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 474041,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341512,
+      "num": 208168,
+      "word": "王梓莼回应了",
+      "onboard_time": 1765096641,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340343,
       "num": 259260,
       "word": "邓为的狗去世了",
@@ -427,8 +443,16 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 325246,
+      "num": 267261,
+      "word": "腾讯视频星光大赏",
+      "onboard_time": 1765095860,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324274,
-      "num": 199305,
+      "num": 205671,
       "word": "于正称因平台有补偿才准周柯宇的假",
       "onboard_time": 1765095141,
       "rank": 12,
@@ -496,6 +520,14 @@
       "word": "女子洗衣结束发现猫咪在洗衣机里",
       "onboard_time": 1765074140,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293277,
+      "num": 201057,
+      "word": "男子海洋馆内抽烟被白鲸喷水",
+      "onboard_time": 1765094060,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243163,
+      "num": 198537,
+      "word": "宋祖儿任嘉伦唠嗑唠生气了",
+      "onboard_time": 1765095500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241902,
       "num": 241902,
       "word": "爱奇艺年度喜爱女性角色",
@@ -627,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224527,
+      "num": 216719,
+      "word": "日本自卫队滋扰辽宁舰训练",
+      "onboard_time": 1765095320,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 221762,
       "num": 221762,
       "word": "丁禹兮评论了张函瑞",
@@ -651,28 +699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215752,
+      "num": 192984,
+      "word": "刘浩存跳了呕吐舞",
+      "onboard_time": 1765095681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214622,
       "num": 214622,
       "word": "兰迪变云迪",
       "onboard_time": 1765032685,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214193,
-      "num": 198187,
-      "word": "男子海洋馆内抽烟被白鲸喷水",
-      "onboard_time": 1765094060,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212640,
-      "num": 192984,
-      "word": "刘浩存跳了呕吐舞",
-      "onboard_time": 1765095681,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 212320,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 209829,
-      "num": 209829,
+      "num": 215284,
       "word": "广东省考",
       "onboard_time": 1765093639,
       "rank": 6,
@@ -795,20 +835,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 199999,
-      "num": 199999,
-      "word": "日本自卫队滋扰辽宁舰训练",
-      "onboard_time": 1765095320,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 198115,
-      "num": 198115,
-      "word": "腾讯视频星光大赏",
-      "onboard_time": 1765095860,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 197782,
+      "num": 189257,
+      "word": "方媛自曝三胎顺产",
+      "onboard_time": 1765095080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195781,
@@ -827,27 +859,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192883,
-      "num": 189257,
-      "word": "方媛自曝三胎顺产",
-      "onboard_time": 1765095080,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191679,
       "num": 191679,
       "word": "贺峻霖 星光大赏主持人",
       "onboard_time": 1765090339,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189947,
-      "num": 189947,
-      "word": "宋祖儿任嘉伦唠嗑唠生气了",
-      "onboard_time": 1765095500,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -953,6 +969,14 @@
       "onboard_time": 1765028184,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167352,
+      "num": 167352,
+      "word": "任嘉伦拿一个奖宣三部剧",
+      "onboard_time": 1765096760,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 165763,
@@ -1211,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135582,
+      "num": 130131,
+      "word": "董璇带着小酒窝到处合影",
+      "onboard_time": 1765096461,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135248,
       "num": 135248,
       "word": "湖南卫视向各位观众汇报",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1765080860,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132790,
+      "num": 132790,
+      "word": "法国网友一点没放过马克龙",
+      "onboard_time": 1765096820,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132704,
@@ -1275,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127682,
+      "num": 140716,
+      "word": "外网对日本文化祛魅",
+      "onboard_time": 1765093521,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127356,
       "num": 127356,
       "word": "得闲谨制 笑点和道德反复打架",
@@ -1291,12 +1339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125722,
+      "num": 125722,
+      "word": "韩国凑不齐的五个云南凑齐了",
+      "onboard_time": 1765093461,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 124913,
       "num": 124913,
       "word": "这居然是杨和苏",
       "onboard_time": 1765081041,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124737,
+      "num": 127674,
+      "word": "情久对战TTG",
+      "onboard_time": 1765096158,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 124326,
@@ -1315,14 +1379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 123462,
-      "num": 123462,
-      "word": "韩国凑不齐的五个云南凑齐了",
-      "onboard_time": 1765093461,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122192,
       "num": 122192,
       "word": "林诗栋2比1张禹珍",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1765075580,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121569,
-      "num": 140716,
-      "word": "外网对日本文化祛魅",
-      "onboard_time": 1765093521,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 121191,
@@ -1499,12 +1547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113813,
-      "num": 113813,
-      "word": "情久对战TTG",
-      "onboard_time": 1765096158,
+      "raw_hot": 113759,
+      "num": 113759,
+      "word": "葛荟婕自曝放不下汪峰",
+      "onboard_time": 1765096701,
       "rank": 45,
-      "category": "电竞"
+      "category": "艺人"
     },
     {
       "raw_hot": 113241,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1765048515,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "王楚钦撤回一个下班卡",
+      "onboard_time": 1765096222,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110105,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1765088961,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107321,
-      "num": 107321,
-      "word": "王楚钦撤回一个下班卡",
-      "onboard_time": 1765096222,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 107061,
@@ -1779,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94555,
+      "num": 108829,
+      "word": "X被欧盟罚款1.2亿欧元马斯克发飙",
+      "onboard_time": 1765096880,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93255,
       "num": 93255,
       "word": "今年的流感病毒是个老对手",
@@ -1835,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90482,
+      "num": 163515,
+      "word": "中国对日企稀土出口审批流程变长",
+      "onboard_time": 1765094840,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90457,
       "num": 90457,
       "word": "徐梦桃赛季首冠",
@@ -1889,14 +1953,6 @@
       "onboard_time": 1765045576,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85036,
-      "num": 163515,
-      "word": "中国对日企稀土出口审批流程变长",
-      "onboard_time": 1765094840,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 83445,
@@ -2163,7 +2219,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42227,
+      "raw_hot": 43400,
       "num": 126232,
       "word": "12306回应高铁盲文无凸起",
       "onboard_time": 1765095681,
@@ -2193,6 +2249,14 @@
       "onboard_time": 1765056974,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35133,
+      "num": 125993,
+      "word": "官方介入管彩礼合适吗",
+      "onboard_time": 1765096400,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33213,
@@ -2225,6 +2289,14 @@
       "onboard_time": 1765079781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22723,
+      "num": 134161,
+      "word": "马克龙访华任务完成了吗",
+      "onboard_time": 1765095561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21154,
@@ -2273,14 +2345,6 @@
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15042,
-      "num": 134161,
-      "word": "马克龙访华任务完成了吗",
-      "onboard_time": 1765095561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13118,
