@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765125899915,
+  "endTime": 1765128159220,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613196,
+      "num": 448383,
+      "word": "很多胃癌是一口一口吃出来的",
+      "onboard_time": 1765125198,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 591798,
       "num": 228415,
       "word": "法国网友一点没放过马克龙",
@@ -465,14 +473,6 @@
       "onboard_time": 1765113442,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 448383,
-      "num": 448383,
-      "word": "很多胃癌是一口一口吃出来的",
-      "onboard_time": 1765125198,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 447286,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 288151,
-      "num": 288151,
+      "num": 317667,
       "word": "全季酒店保洁用毛巾擦马桶",
       "onboard_time": 1765120040,
       "rank": 17,
@@ -2643,6 +2643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112416,
+      "num": 112416,
+      "word": "曾舜晞上脸 刘宇宁追着调侃",
+      "onboard_time": 1765124717,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112370,
       "num": 89468,
       "word": "黄景瑜邓超你俩坐一桌",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1765108821,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102208,
-      "num": 103423,
-      "word": "曾舜晞上脸 刘宇宁追着调侃",
-      "onboard_time": 1765124717,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 102048,
@@ -3515,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59406,
+      "num": 83855,
+      "word": "山西一工地发现2.9亿年前大型木化石",
+      "onboard_time": 1765125618,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57155,
       "num": 57155,
       "word": "孟子义一进场直奔王楚然",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1765084700,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56481,
+      "num": 103202,
+      "word": "义勇军进行曲响彻赛场",
+      "onboard_time": 1765124240,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 55820,
@@ -3569,14 +3585,6 @@
       "onboard_time": 1765104981,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52380,
-      "num": 103202,
-      "word": "义勇军进行曲响彻赛场",
-      "onboard_time": 1765124240,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 52365,
@@ -3651,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47881,
+      "num": 65549,
+      "word": "王晶回应曾说王祖贤腿丑",
+      "onboard_time": 1765126338,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46501,
       "num": 116611,
       "word": "张俪观众缘",
@@ -3675,19 +3691,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45637,
+      "num": 65512,
+      "word": "董璇晒18张尖叫之夜照片",
+      "onboard_time": 1765126097,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45227,
       "num": 109993,
       "word": "应急管理部指导连霍高速事故救援",
       "onboard_time": 1765101381,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45186,
-      "num": 83855,
-      "word": "山西一工地发现2.9亿年前大型木化石",
-      "onboard_time": 1765125618,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3801,6 +3817,14 @@
       "onboard_time": 1765041678,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 33193,
+      "num": 65436,
+      "word": "被成毅新剧爽到了",
+      "onboard_time": 1765127418,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 32338,
