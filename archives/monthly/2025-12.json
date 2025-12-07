@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765086094530,
+  "endTime": 1765089449682,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809385,
+      "num": 1129501,
+      "word": "日本自卫队滋扰辽宁舰编队训练",
+      "onboard_time": 1765084582,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 805945,
       "num": 1403154,
       "word": "小米高管疑似集体遭遇短信轰炸",
@@ -1408,6 +1416,14 @@
       "word": "入殓师称同事服务猝死老人被托梦质问",
       "onboard_time": 1764774383,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666783,
+      "num": 666783,
+      "word": "女子仅退款225个快递或面临数年徒刑",
+      "onboard_time": 1765083861,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -2211,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519085,
+      "num": 296878,
+      "word": "王楚然从南湘变成唐宛如了",
+      "onboard_time": 1765084942,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518897,
       "num": 384963,
       "word": "金晨 金秘书",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1764750801,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 517219,
+      "num": 284874,
+      "word": "男子隐瞒遗传病生子致女儿患病",
+      "onboard_time": 1765085301,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516343,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1764922581,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498814,
+      "num": 355795,
+      "word": "男女涉卖淫嫖娼被罚300元",
+      "onboard_time": 1765083081,
+      "rank": 21,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 496725,
@@ -2512,14 +2552,6 @@
       "word": "雅迪毛豆车型",
       "onboard_time": 1764923001,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 480421,
-      "num": 438491,
-      "word": "女子仅退款225个快递或面临数年徒刑",
-      "onboard_time": 1765083861,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -3171,6 +3203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 410933,
+      "num": 264734,
+      "word": "李昀锐告了132人",
+      "onboard_time": 1765085001,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410496,
       "num": 230470,
       "word": "王者荣耀 疯狂动物城",
@@ -3523,14 +3563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380888,
-      "num": 380888,
-      "word": "日本自卫队滋扰辽宁舰编队训练",
-      "onboard_time": 1765084582,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 380818,
       "num": 380818,
       "word": "辛迪瑞拉",
@@ -3857,14 +3889,6 @@
       "onboard_time": 1764682404,
       "rank": 26,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 355795,
-      "num": 355795,
-      "word": "男女涉卖淫嫖娼被罚300元",
-      "onboard_time": 1765083081,
-      "rank": 21,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 355773,
@@ -4771,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299665,
+      "num": 213460,
+      "word": "曾舜晞躲C那张合影放出来了",
+      "onboard_time": 1765086440,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298011,
       "num": 426647,
       "word": "樊振东 我这西语还可以吗",
@@ -4801,14 +4833,6 @@
       "onboard_time": 1764652821,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296878,
-      "num": 296878,
-      "word": "王楚然从南湘变成唐宛如了",
-      "onboard_time": 1765084942,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 296738,
@@ -4929,14 +4953,6 @@
       "onboard_time": 1764574641,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 284874,
-      "num": 284874,
-      "word": "男子隐瞒遗传病生子致女儿患病",
-      "onboard_time": 1765085301,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284675,
@@ -5281,14 +5297,6 @@
       "onboard_time": 1764599124,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264734,
-      "num": 264734,
-      "word": "李昀锐告了132人",
-      "onboard_time": 1765085001,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 264666,
@@ -5689,6 +5697,14 @@
       "onboard_time": 1764829461,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245645,
+      "num": 125582,
+      "word": "课本上明太祖照片换了",
+      "onboard_time": 1765088480,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 245231,
@@ -7180,7 +7196,7 @@
     },
     {
       "raw_hot": 201676,
-      "num": 201676,
+      "num": 209906,
       "word": "中国海军将采取必要措施",
       "onboard_time": 1765085181,
       "rank": 28,
@@ -10555,6 +10571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148359,
+      "num": 148359,
+      "word": "刘宇宁的嘴被吓成TypeC了",
+      "onboard_time": 1765087701,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148341,
       "num": 148341,
       "word": "疯狂动物城 mbti",
@@ -10601,6 +10625,14 @@
       "onboard_time": 1764562343,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147481,
+      "num": 147481,
+      "word": "虞书欣喻言陆柯燃杜华合照",
+      "onboard_time": 1765086260,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 147434,
@@ -12411,6 +12443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127436,
+      "num": 127436,
+      "word": "男童掉冰窟13岁女孩施救后默默离开",
+      "onboard_time": 1765088900,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127356,
+      "num": 127356,
+      "word": "得闲谨制 笑点和道德反复打架",
+      "onboard_time": 1765088240,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127263,
       "num": 127263,
       "word": "再也不敢侧躺着睡觉了",
@@ -13179,6 +13227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120263,
+      "num": 120263,
+      "word": "徐艺洋黄子韬 川渝暴龙和耙耳朵",
+      "onboard_time": 1765086321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120261,
       "num": 152857,
       "word": "胡先煦p图p出火星子了吧",
@@ -13603,6 +13659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117643,
+      "num": 117643,
+      "word": "得闲谨制 中华门一带的南京话",
+      "onboard_time": 1765088240,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117533,
       "num": 117533,
       "word": "去班味的方法找到了",
@@ -13667,6 +13731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117273,
+      "num": 117273,
+      "word": "正式确诊为饺子",
+      "onboard_time": 1765085961,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 117229,
       "num": 117229,
       "word": "俄美会谈未达成折中方案",
@@ -13713,6 +13785,14 @@
       "onboard_time": 1764654981,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 116765,
+      "num": 116765,
+      "word": "王曼昱谈及身体状况只有坚持",
+      "onboard_time": 1765088240,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 116761,
@@ -14107,6 +14187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113193,
+      "num": 113193,
+      "word": "陈妍希怎么做到姐感妹感都有的",
+      "onboard_time": 1765089080,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113161,
       "num": 113161,
       "word": "大额存单转让火爆",
@@ -14395,6 +14483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109935,
+      "num": 109935,
+      "word": "胡先煦王安宇惨遭闺蜜退货",
+      "onboard_time": 1765086861,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109876,
       "num": 109876,
       "word": "原神开门",
@@ -14657,6 +14753,14 @@
       "onboard_time": 1764767361,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107929,
+      "num": 107929,
+      "word": "杨幂 为俺嫂子打call",
+      "onboard_time": 1765088961,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107907,
@@ -15115,6 +15219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104297,
+      "num": 108312,
+      "word": "iPhone前后双摄正确用法",
+      "onboard_time": 1765086200,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104269,
       "num": 104269,
       "word": "人生走马灯时刻",
@@ -15137,14 +15249,6 @@
       "onboard_time": 1764847401,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104151,
-      "num": 104151,
-      "word": "正式确诊为饺子",
-      "onboard_time": 1765085961,
-      "rank": 45,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 104070,
@@ -15225,6 +15329,14 @@
       "onboard_time": 1764925941,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103401,
+      "num": 103401,
+      "word": "法媒报道马克龙与中国人互动",
+      "onboard_time": 1765089322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103333,
@@ -16209,6 +16321,14 @@
       "onboard_time": 1764682404,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "荷兰大臣称没想到中方真叫停芯片出口",
+      "onboard_time": 1765088600,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96184,
@@ -17233,6 +17353,14 @@
       "onboard_time": 1764900920,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86604,
+      "num": 103403,
+      "word": "古平原1个信息差赚了450万",
+      "onboard_time": 1765088779,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 86460,
@@ -19923,6 +20051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48280,
+      "num": 103402,
+      "word": "任嘉伦为提高饭量打乒乓球",
+      "onboard_time": 1765087881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47606,
       "num": 52308,
       "word": "组织这是利用了你的美貌啊",
@@ -20057,6 +20193,14 @@
       "onboard_time": 1764754163,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45807,
+      "num": 109959,
+      "word": "孙颖莎说全力以赴赢下决赛",
+      "onboard_time": 1765089080,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45749,
@@ -21291,6 +21435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30113,
+      "num": 110011,
+      "word": "杨千嬅儿子长这么高了",
+      "onboard_time": 1765088240,
+      "rank": 38,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 29977,
       "num": 140553,
       "word": "穆雷爆砍52分",
@@ -21937,6 +22089,14 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 21154,
+      "num": 103492,
+      "word": "金沙江云南香格里拉段漂下多头死猪",
+      "onboard_time": 1765088001,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21116,

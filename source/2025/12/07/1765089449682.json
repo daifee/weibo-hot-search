@@ -1,0 +1,410 @@
+{
+  "runTime": 1765089449682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 809385,
+        "num": 1129501,
+        "word": "日本自卫队滋扰辽宁舰编队训练",
+        "onboard_time": 1765084582,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795530,
+        "num": 795530,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23823,
+        "num": 712972,
+        "word": "冬天里的大美中国",
+        "onboard_time": 1765080081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666783,
+        "num": 666783,
+        "word": "女子仅退款225个快递或面临数年徒刑",
+        "onboard_time": 1765083861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218581,
+        "num": 218581,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 519085,
+        "num": 218311,
+        "word": "王楚然从南湘变成唐宛如了",
+        "onboard_time": 1765084942,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385190,
+        "num": 217770,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449659,
+        "num": 217679,
+        "word": "白鹿尖叫女演员",
+        "onboard_time": 1765037182,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100018,
+        "num": 217114,
+        "word": "山东省考 谁出的图推",
+        "onboard_time": 1765078101,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98084,
+        "num": 216558,
+        "word": "江苏省考 草稿纸",
+        "onboard_time": 1765080201,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 742972,
+        "num": 216292,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517219,
+        "num": 215439,
+        "word": "男子隐瞒遗传病生子致女儿患病",
+        "onboard_time": 1765085301,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498814,
+        "num": 215279,
+        "word": "男女涉卖淫嫖娼被罚300元",
+        "onboard_time": 1765083081,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 406647,
+        "num": 214884,
+        "word": "金晨 金秘书",
+        "onboard_time": 1765082902,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404597,
+        "num": 214373,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327781,
+        "num": 213915,
+        "word": "迪丽热巴 我有点不认识你了",
+        "onboard_time": 1765082300,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299665,
+        "num": 213460,
+        "word": "曾舜晞躲C那张合影放出来了",
+        "onboard_time": 1765086440,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229711,
+        "num": 212804,
+        "word": "日方称歼15用雷达照射日本战机",
+        "onboard_time": 1765082421,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 212724,
+        "num": 212724,
+        "word": "法新社 马克龙",
+        "onboard_time": 1765079481,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142097,
+        "num": 209906,
+        "word": "中国海军将采取必要措施",
+        "onboard_time": 1765085181,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410933,
+        "num": 206456,
+        "word": "李昀锐告了132人",
+        "onboard_time": 1765085001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227024,
+        "num": 200447,
+        "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+        "onboard_time": 1765080440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 194653,
+        "word": "王楚钦紧急撤回一次击掌",
+        "onboard_time": 1765077680,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189183,
+        "num": 189183,
+        "word": "杨幂魏大勋内场同框",
+        "onboard_time": 1765072100,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134909,
+        "num": 148796,
+        "word": "嘎子谢孟伟穿警服直播带货卖假酒",
+        "onboard_time": 1765081340,
+        "rank": 24,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 148359,
+        "num": 148359,
+        "word": "刘宇宁的嘴被吓成TypeC了",
+        "onboard_time": 1765087701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147481,
+        "num": 147481,
+        "word": "虞书欣喻言陆柯燃杜华合照",
+        "onboard_time": 1765086260,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129883,
+        "num": 129883,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1765077441,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127436,
+        "num": 127436,
+        "word": "男童掉冰窟13岁女孩施救后默默离开",
+        "onboard_time": 1765088900,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127356,
+        "num": 127356,
+        "word": "得闲谨制 笑点和道德反复打架",
+        "onboard_time": 1765088240,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245645,
+        "num": 125582,
+        "word": "课本上明太祖照片换了",
+        "onboard_time": 1765088480,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123704,
+        "num": 123704,
+        "word": "于正说赵晴每天运动超过六小时",
+        "onboard_time": 1765080201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120263,
+        "num": 120263,
+        "word": "徐艺洋黄子韬 川渝暴龙和耙耳朵",
+        "onboard_time": 1765086321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117643,
+        "num": 117643,
+        "word": "得闲谨制 中华门一带的南京话",
+        "onboard_time": 1765088240,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117273,
+        "num": 117273,
+        "word": "正式确诊为饺子",
+        "onboard_time": 1765085961,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 116765,
+        "num": 116765,
+        "word": "王曼昱谈及身体状况只有坚持",
+        "onboard_time": 1765088240,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113193,
+        "num": 113193,
+        "word": "陈妍希怎么做到姐感妹感都有的",
+        "onboard_time": 1765089080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111340,
+        "num": 111340,
+        "word": "爱奇艺颁奖失误",
+        "onboard_time": 1765039280,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30113,
+        "num": 110011,
+        "word": "杨千嬅儿子长这么高了",
+        "onboard_time": 1765088240,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 45807,
+        "num": 109959,
+        "word": "孙颖莎说全力以赴赢下决赛",
+        "onboard_time": 1765089080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "胡先煦王安宇惨遭闺蜜退货",
+        "onboard_time": 1765086861,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104297,
+        "num": 108312,
+        "word": "iPhone前后双摄正确用法",
+        "onboard_time": 1765086200,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107929,
+        "num": 107929,
+        "word": "杨幂 为俺嫂子打call",
+        "onboard_time": 1765088961,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104581,
+        "num": 104581,
+        "word": "女子洗衣结束发现猫咪在洗衣机里",
+        "onboard_time": 1765074140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21154,
+        "num": 103492,
+        "word": "金沙江云南香格里拉段漂下多头死猪",
+        "onboard_time": 1765088001,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86604,
+        "num": 103403,
+        "word": "古平原1个信息差赚了450万",
+        "onboard_time": 1765088779,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48280,
+        "num": 103402,
+        "word": "任嘉伦为提高饭量打乒乓球",
+        "onboard_time": 1765087881,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103401,
+        "num": 103401,
+        "word": "法媒报道马克龙与中国人互动",
+        "onboard_time": 1765089322,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 96208,
+        "word": "荷兰大臣称没想到中方真叫停芯片出口",
+        "onboard_time": 1765088600,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95743,
+        "num": 95743,
+        "word": "才知道橙子里的小橙子到底能不能吃",
+        "onboard_time": 1765084161,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}
