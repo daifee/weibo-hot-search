@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765143417187,
+  "endTime": 1765146319326,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -22323,6 +22323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43499,
+      "num": 75874,
+      "word": "刘宇宁吃席打包",
+      "onboard_time": 1765141393,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43475,
       "num": 171070,
       "word": "4岁男童玩免费项目颅骨骨折",
@@ -24075,6 +24083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23000,
+      "num": 75642,
+      "word": "王一博微指破亿",
+      "onboard_time": 1765145115,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22988,
       "num": 169460,
       "word": "罗大美妹妹称家人帮杀人凶手还钱",
@@ -24211,6 +24227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21037,
+      "num": 75564,
+      "word": "用挖耳勺给厨师拍宣传片",
+      "onboard_time": 1765140313,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20982,
       "num": 116554,
       "word": "王楚钦向对手表示祝贺",
@@ -24323,6 +24347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19583,
+      "num": 75488,
+      "word": "美国不再将俄罗斯称为直接威胁",
+      "onboard_time": 1765135694,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19486,
       "num": 75568,
       "word": "黄霄雲被工作室做局了",
@@ -24361,6 +24393,14 @@
       "onboard_time": 1764878054,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18656,
+      "num": 75399,
+      "word": "哈尔滨的面包树上停满了小鸟",
+      "onboard_time": 1765134014,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18642,
@@ -24539,6 +24579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16319,
+      "num": 75269,
+      "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
+      "onboard_time": 1765136473,
+      "rank": 26,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 16294,
       "num": 128550,
       "word": "大连暖气管爆裂事故致1死1伤",
@@ -24571,6 +24619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16057,
+      "num": 75151,
+      "word": "杨幂尖叫之夜最高荣誉",
+      "onboard_time": 1765139172,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15909,
       "num": 222681,
       "word": "去世女硕士驻村干部好友发声",
@@ -24595,28 +24651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15580,
-      "num": 42318,
-      "word": "用挖耳勺给厨师拍宣传片",
-      "onboard_time": 1765140313,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 15471,
       "num": 78837,
       "word": "枭起青壤细节",
       "onboard_time": 1764701595,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15437,
-      "num": 50433,
-      "word": "哈尔滨的面包树上停满了小鸟",
-      "onboard_time": 1765134014,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15374,
@@ -24627,28 +24667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15319,
-      "num": 42284,
-      "word": "刘宇宁吃席打包",
-      "onboard_time": 1765141393,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15118,
       "num": 111561,
       "word": "广州着火后消防员现场解释着火原因",
       "onboard_time": 1764657620,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14951,
-      "num": 42211,
-      "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
-      "onboard_time": 1765136473,
-      "rank": 26,
-      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 14912,
@@ -24699,12 +24723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14299,
-      "num": 43746,
-      "word": "美国不再将俄罗斯称为直接威胁",
-      "onboard_time": 1765135694,
+      "raw_hot": 14146,
+      "num": 75053,
+      "word": "大生意人",
+      "onboard_time": 1765137614,
       "rank": 46,
-      "category": "国际时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 14136,
@@ -24715,12 +24739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14071,
-      "num": 42026,
-      "word": "杨幂尖叫之夜最高荣誉",
-      "onboard_time": 1765139172,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 13905,
+      "num": 75017,
+      "word": "周深但行好事前程已至",
+      "onboard_time": 1765142293,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13849,
+      "num": 75006,
+      "word": "酒店回应中国女游客从9楼坠亡",
+      "onboard_time": 1765141994,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13772,
@@ -24897,14 +24929,6 @@
       "onboard_time": 1764683003,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11516,
-      "num": 41344,
-      "word": "周深但行好事前程已至",
-      "onboard_time": 1765142293,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 11412,

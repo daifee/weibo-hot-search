@@ -1,0 +1,410 @@
+{
+  "runTime": 1765146319326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 157710,
+        "num": 385233,
+        "word": "中方不接受日方所谓交涉",
+        "onboard_time": 1765121242,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28596,
+        "num": 188600,
+        "word": "F1",
+        "onboard_time": 1765113322,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14398,
+        "num": 124644,
+        "word": "国产挖掘机零下40摄氏度一秒启动",
+        "onboard_time": 1765113682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101736,
+        "num": 101736,
+        "word": "张凌赫偷瞄白鹿",
+        "onboard_time": 1765110681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78743,
+        "num": 78743,
+        "word": "台日竟然还想夹击解放军",
+        "onboard_time": 1765119624,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116835,
+        "num": 78459,
+        "word": "男子欠近5000元房费酒店倒贴都不搬",
+        "onboard_time": 1765117884,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63024,
+        "num": 78249,
+        "word": "曾舜晞上脸 刘宇宁追着调侃",
+        "onboard_time": 1765124717,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37579,
+        "num": 77515,
+        "word": "节食减重50斤吃麻辣烫时晕倒被烫伤",
+        "onboard_time": 1765115003,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24500,
+        "num": 77128,
+        "word": "孙颖莎王楚钦混双战绩恐怖如斯",
+        "onboard_time": 1765116984,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15957,
+        "num": 76424,
+        "word": "国乒冠军自拍",
+        "onboard_time": 1765118122,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180344,
+        "num": 76306,
+        "word": "很多胃癌是一口一口吃出来的",
+        "onboard_time": 1765125198,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75960,
+        "num": 75960,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34688,
+        "num": 75938,
+        "word": "地铁上用围巾擦奶茶的女生找到啦",
+        "onboard_time": 1765104622,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 46276,
+        "num": 75915,
+        "word": "榕江通报荒野求生女选手疑遭骚扰",
+        "onboard_time": 1765121482,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44584,
+        "num": 75888,
+        "word": "男子隐瞒病史女儿患病",
+        "onboard_time": 1765121780,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43499,
+        "num": 75874,
+        "word": "刘宇宁吃席打包",
+        "onboard_time": 1765141393,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43016,
+        "num": 75847,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1765097781,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35043,
+        "num": 75809,
+        "word": "杨紫包场支持得闲谨制",
+        "onboard_time": 1765120164,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34907,
+        "num": 75793,
+        "word": "檀健次从屁股兜掏手机发微博",
+        "onboard_time": 1765122261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29297,
+        "num": 75762,
+        "word": "人贩子被判死缓后对被害人破口大骂",
+        "onboard_time": 1765103540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33270,
+        "num": 75746,
+        "word": "山西一工地发现2.9亿年前大型木化石",
+        "onboard_time": 1765125618,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30919,
+        "num": 75724,
+        "word": "金士杰近60岁生了龙凤胎",
+        "onboard_time": 1765111581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26726,
+        "num": 75688,
+        "word": "王晶回应曾说王祖贤腿丑",
+        "onboard_time": 1765126338,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24050,
+        "num": 75659,
+        "word": "全季酒店保洁用毛巾擦马桶",
+        "onboard_time": 1765120040,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23000,
+        "num": 75642,
+        "word": "王一博微指破亿",
+        "onboard_time": 1765145115,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21932,
+        "num": 75603,
+        "word": "12306出新功能了",
+        "onboard_time": 1765117403,
+        "rank": 25,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 21147,
+        "num": 75575,
+        "word": "白鹿编辑记录",
+        "onboard_time": 1765122021,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21037,
+        "num": 75564,
+        "word": "用挖耳勺给厨师拍宣传片",
+        "onboard_time": 1765140313,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20546,
+        "num": 75520,
+        "word": "高价鸡蛋是智商税吗",
+        "onboard_time": 1765129755,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19583,
+        "num": 75488,
+        "word": "美国不再将俄罗斯称为直接威胁",
+        "onboard_time": 1765135694,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27282,
+        "num": 75466,
+        "word": "日籍八路军战士之子发声",
+        "onboard_time": 1765119863,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19733,
+        "num": 75460,
+        "word": "刘国梁和国乒全员握手",
+        "onboard_time": 1765122081,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19543,
+        "num": 75428,
+        "word": "婴儿被褥印不雅英文",
+        "onboard_time": 1765129456,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 75399,
+        "word": "哈尔滨的面包树上停满了小鸟",
+        "onboard_time": 1765134014,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18608,
+        "num": 75381,
+        "word": "虞书欣的12分18秒",
+        "onboard_time": 1765107142,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 75353,
+        "word": "你的婚纱照可能被卖了",
+        "onboard_time": 1765109303,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17042,
+        "num": 75328,
+        "word": "美防长警告日本",
+        "onboard_time": 1765107982,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17029,
+        "num": 75280,
+        "word": "关晓彤 小时候拍戏条件不好",
+        "onboard_time": 1765113502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16319,
+        "num": 75269,
+        "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
+        "onboard_time": 1765136473,
+        "rank": 38,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 16172,
+        "num": 75246,
+        "word": "榕江公安已介入调查",
+        "onboard_time": 1765122440,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16113,
+        "num": 75205,
+        "word": "刘亦菲阿布扎比观赛F1",
+        "onboard_time": 1765112661,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 16091,
+        "num": 75191,
+        "word": "白桃星座",
+        "onboard_time": 1765121062,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16057,
+        "num": 75151,
+        "word": "杨幂尖叫之夜最高荣誉",
+        "onboard_time": 1765139172,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15963,
+        "num": 75144,
+        "word": "义勇军进行曲响彻赛场",
+        "onboard_time": 1765124240,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14945,
+        "num": 75116,
+        "word": "王楚然张晚意热聊",
+        "onboard_time": 1765128855,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14799,
+        "num": 75068,
+        "word": "冰面碎了初中女生拉住4岁男童",
+        "onboard_time": 1765128136,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14146,
+        "num": 75053,
+        "word": "大生意人",
+        "onboard_time": 1765137614,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13905,
+        "num": 75017,
+        "word": "周深但行好事前程已至",
+        "onboard_time": 1765142293,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13849,
+        "num": 75006,
+        "word": "酒店回应中国女游客从9楼坠亡",
+        "onboard_time": 1765141994,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13380,
+        "num": 74982,
+        "word": "日本8比3德国",
+        "onboard_time": 1765123880,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
