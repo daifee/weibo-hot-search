@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765097143673,
+  "endTime": 1765099580041,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1141186,
-      "num": 301312,
+      "num": 373630,
       "word": "77年黄晓明喊72年王鹤棣爸爸叔",
       "onboard_time": 1765094239,
       "rank": 3,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 877359,
-      "num": 274710,
+      "num": 340564,
       "word": "杨幂嫌弃董璇拍照",
       "onboard_time": 1765095440,
       "rank": 5,
@@ -1143,6 +1143,14 @@
       "num": 777964,
       "word": "胡歌自曝母亲看不上他拍的古偶戏",
       "onboard_time": 1764652222,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774929,
+      "num": 232546,
+      "word": "王梓莼回应了",
+      "onboard_time": 1765096641,
       "rank": 12,
       "category": "艺人"
     },
@@ -1417,6 +1425,14 @@
       "onboard_time": 1764912983,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 676309,
+      "num": 1108209,
+      "word": "男子海洋馆内抽烟被白鲸喷水",
+      "onboard_time": 1765094060,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 673065,
@@ -1787,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591798,
+      "num": 228415,
+      "word": "法国网友一点没放过马克龙",
+      "onboard_time": 1765096820,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 591459,
       "num": 324880,
       "word": "谁把boss不聘做出来了",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1764682041,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547472,
+      "num": 547472,
+      "word": "腾讯视频星光大赏",
+      "onboard_time": 1764679281,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 547093,
@@ -4163,14 +4195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341512,
-      "num": 208168,
-      "word": "王梓莼回应了",
-      "onboard_time": 1765096641,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341056,
       "num": 341056,
       "word": "建议气血不足的人每天拍臀",
@@ -4443,14 +4467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 325246,
-      "num": 311803,
-      "word": "腾讯视频星光大赏",
-      "onboard_time": 1764679281,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324532,
       "num": 734856,
       "word": "达美乐 大美乐",
@@ -4460,7 +4476,7 @@
     },
     {
       "raw_hot": 324274,
-      "num": 205671,
+      "num": 219697,
       "word": "于正称因平台有补偿才准周柯宇的假",
       "onboard_time": 1765095141,
       "rank": 12,
@@ -4971,14 +4987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293277,
-      "num": 201057,
-      "word": "男子海洋馆内抽烟被白鲸喷水",
-      "onboard_time": 1765094060,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293183,
       "num": 395991,
       "word": "世界杯死亡之组",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1764821182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282716,
+      "num": 282716,
+      "word": "江苏申论",
+      "onboard_time": 1765098140,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 282515,
@@ -5329,6 +5345,14 @@
       "onboard_time": 1764946342,
       "rank": 4,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 268474,
+      "num": 181384,
+      "word": "女子婚后出轨伴郎并生娃双双获刑",
+      "onboard_time": 1765097481,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268392,
@@ -5835,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244141,
+      "num": 213935,
+      "word": "宋祖儿任嘉伦唠嗑唠生气了",
+      "onboard_time": 1765095500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243985,
       "num": 196546,
       "word": "年会上的李沁",
@@ -5865,14 +5897,6 @@
       "onboard_time": 1764913462,
       "rank": 23,
       "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 243163,
-      "num": 198537,
-      "word": "宋祖儿任嘉伦唠嗑唠生气了",
-      "onboard_time": 1765095500,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 243080,
@@ -6065,6 +6089,14 @@
       "onboard_time": 1765068500,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235708,
+      "num": 235708,
+      "word": "申论",
+      "onboard_time": 1765087041,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 235607,
@@ -6387,6 +6419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223848,
+      "num": 176070,
+      "word": "KatyPerry官宣恋情",
+      "onboard_time": 1765098741,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223255,
       "num": 708916,
       "word": "仙剑奇侠传三动画定档",
@@ -6441,6 +6481,14 @@
       "onboard_time": 1764898760,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220998,
+      "num": 170337,
+      "word": "李纯马頔腿一样长",
+      "onboard_time": 1765097421,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 220539,
@@ -7107,6 +7155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205479,
+      "num": 194857,
+      "word": "董璇晒小酒窝与白鹿自拍",
+      "onboard_time": 1765097902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205426,
       "num": 204233,
       "word": "疯狂动物城2里很喜欢的一句台词",
@@ -7489,6 +7545,14 @@
       "onboard_time": 1765028244,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198711,
+      "num": 198711,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1765097781,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198581,
@@ -9249,6 +9313,14 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167240,
+      "num": 167240,
+      "word": "余宇涵旧手机拿去回收了",
+      "onboard_time": 1765098381,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 167003,
@@ -12107,14 +12179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132790,
-      "num": 132790,
-      "word": "法国网友一点没放过马克龙",
-      "onboard_time": 1765096820,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132761,
       "num": 132761,
       "word": "热巴杨幂惠英红 全女枭起青壤",
@@ -14603,6 +14667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112064,
+      "num": 112064,
+      "word": "突然就明白了多年前同学录的意思",
+      "onboard_time": 1765098680,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111936,
       "num": 111936,
       "word": "刘耀文到底几点发MV",
@@ -15425,6 +15497,14 @@
       "onboard_time": 1764674122,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105294,
+      "num": 105294,
+      "word": "哈尔滨 媚南",
+      "onboard_time": 1765098981,
+      "rank": 34,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 105105,
@@ -16387,6 +16467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98296,
+      "num": 98296,
+      "word": "谈恋爱要从朋友开始",
+      "onboard_time": 1765098860,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98266,
       "num": 132673,
       "word": "王楚钦给孙颖莎手动点赞",
@@ -16417,6 +16505,14 @@
       "onboard_time": 1764572003,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97792,
+      "num": 91482,
+      "word": "刘晓庆 头回拿这么小的奖怪新鲜的",
+      "onboard_time": 1765097240,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97731,
@@ -16537,6 +16633,14 @@
       "onboard_time": 1764811999,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97170,
+      "num": 91313,
+      "word": "金吾不禁",
+      "onboard_time": 1765099521,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 97133,
@@ -16971,6 +17075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93374,
+      "num": 93374,
+      "word": "库克被曝频繁手震",
+      "onboard_time": 1765097360,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93336,
       "num": 93336,
       "word": "王曼昱3比0帕瓦德",
@@ -17105,6 +17217,14 @@
       "onboard_time": 1765090160,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92011,
+      "num": 90463,
+      "word": "尖叫之夜 没有一个不漂亮",
+      "onboard_time": 1765099341,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 91979,
@@ -17337,6 +17457,14 @@
       "onboard_time": 1764743540,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90588,
+      "num": 90588,
+      "word": "这位老师请注意你的口水",
+      "onboard_time": 1765098920,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 90484,
@@ -18419,6 +18547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 80284,
+      "num": 159082,
+      "word": "日本便当涨价",
+      "onboard_time": 1765098021,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80018,
       "num": 87808,
       "word": "解说感叹孙颖莎接发球特别好",
@@ -18513,6 +18649,14 @@
       "onboard_time": 1765034721,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78890,
+      "num": 92671,
+      "word": "海涛留学留疯了",
+      "onboard_time": 1765098741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 78860,
@@ -18771,6 +18915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75558,
+      "num": 88957,
+      "word": "国乒混双默契瞬间",
+      "onboard_time": 1765098981,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75549,
       "num": 204624,
       "word": "官方介入工厂量产销售儿童情趣娃娃",
@@ -18881,6 +19033,14 @@
       "onboard_time": 1764897740,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74606,
+      "num": 88777,
+      "word": "中国队今晚将再次对阵日本队",
+      "onboard_time": 1765097421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74599,
@@ -21843,6 +22003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31722,
+      "num": 90978,
+      "word": "惊悚AI玩偶视频入侵未成年人",
+      "onboard_time": 1765099521,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31076,
       "num": 232384,
       "word": "高空抛砖案死者家属起诉长春万达",
@@ -21905,6 +22073,14 @@
       "onboard_time": 1764925821,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30713,
+      "num": 93179,
+      "word": "乔欣南法度假",
+      "onboard_time": 1765099041,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30489,
