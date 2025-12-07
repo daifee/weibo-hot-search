@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765135312680,
+  "endTime": 1765136209444,
   "band_list": [
     {
       "raw_hot": 641124,
@@ -443,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32892,
+      "num": 75591,
+      "word": "高价鸡蛋是智商税吗",
+      "onboard_time": 1765129755,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29324,
       "num": 193375,
       "word": "王楚然张晚意热聊",
       "onboard_time": 1765128855,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28513,
-      "num": 75591,
-      "word": "高价鸡蛋是智商税吗",
-      "onboard_time": 1765129755,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26179,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15826,
+      "num": 49915,
+      "word": "于正说杨幂值得更好的",
+      "onboard_time": 1765135094,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15437,
       "num": 50433,
       "word": "哈尔滨的面包树上停满了小鸟",
@@ -507,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12747,
-      "num": 49915,
-      "word": "于正说杨幂值得更好的",
-      "onboard_time": 1765135094,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 12381,
+      "num": 43746,
+      "word": "美国不再将俄罗斯称为直接威胁",
+      "onboard_time": 1765135694,
+      "rank": 46,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

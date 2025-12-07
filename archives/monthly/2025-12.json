@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765135312680,
+  "endTime": 1765136209444,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -23299,6 +23299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32892,
+      "num": 75591,
+      "word": "高价鸡蛋是智商税吗",
+      "onboard_time": 1765129755,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32640,
       "num": 114468,
       "word": "晴天曝Wayward没去试训",
@@ -23585,14 +23593,6 @@
       "onboard_time": 1764823282,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28513,
-      "num": 75591,
-      "word": "高价鸡蛋是智商税吗",
-      "onboard_time": 1765129755,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28506,
@@ -24579,6 +24579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15826,
+      "num": 49915,
+      "word": "于正说杨幂值得更好的",
+      "onboard_time": 1765135094,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15669,
       "num": 106011,
       "word": "嗑上双强cp就发了狠忘了情",
@@ -24739,20 +24747,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12747,
-      "num": 49915,
-      "word": "于正说杨幂值得更好的",
-      "onboard_time": 1765135094,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 12432,
       "num": 132975,
       "word": "四川一地规定涉彩礼环节要监管拍照",
       "onboard_time": 1764991760,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12381,
+      "num": 43746,
+      "word": "美国不再将俄罗斯称为直接威胁",
+      "onboard_time": 1765135694,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12250,
