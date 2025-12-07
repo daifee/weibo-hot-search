@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765073513773,
+  "endTime": 1765074888747,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1009961,
+      "num": 1161593,
+      "word": "仅退款225个快递女子打造富婆人设",
+      "onboard_time": 1765072100,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 928867,
       "num": 306176,
       "word": "尖叫之夜 无聊",
@@ -91,15 +99,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 795466,
-      "num": 532440,
-      "word": "仅退款225个快递女子打造富婆人设",
-      "onboard_time": 1765072100,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 763383,
+      "raw_hot": 813192,
       "num": 405370,
       "word": "杨幂魏大勋内场同框",
       "onboard_time": 1765072100,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 436070,
-      "num": 167170,
+      "num": 243187,
       "word": "杨幂 我看诡秘拍的照片",
       "onboard_time": 1765069580,
       "rank": 20,
@@ -179,20 +179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366487,
+      "num": 229384,
+      "word": "白鹿 没有白走的路",
+      "onboard_time": 1765072222,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350756,
+      "num": 350756,
+      "word": "秦岚撒娇",
+      "onboard_time": 1765072580,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348914,
       "num": 288073,
       "word": "枭起青壤大结局",
       "onboard_time": 1765035742,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338871,
-      "num": 166310,
-      "word": "白鹿 没有白走的路",
-      "onboard_time": 1765072222,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 321108,
@@ -209,14 +217,6 @@
       "onboard_time": 1765028605,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304150,
-      "num": 304150,
-      "word": "秦岚撒娇",
-      "onboard_time": 1765072580,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 285211,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 261673,
-      "num": 167687,
+      "num": 231801,
       "word": "劣迹网红复出乱象",
       "onboard_time": 1765062796,
       "rank": 12,
@@ -273,6 +273,14 @@
       "onboard_time": 1765035502,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243893,
+      "num": 473947,
+      "word": "新疆高速交通事故9死7伤",
+      "onboard_time": 1765072880,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243438,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 204251,
-      "num": 165925,
+      "num": 187807,
       "word": "长安二十四计定档",
       "onboard_time": 1765071800,
       "rank": 25,
@@ -403,6 +411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181184,
+      "num": 125609,
+      "word": "2025国家医保药品目录",
+      "onboard_time": 1765074379,
+      "rank": 31,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 177371,
+      "num": 462422,
+      "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
+      "onboard_time": 1765074441,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "虞书欣雨爱",
@@ -435,12 +459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162302,
+      "num": 415999,
+      "word": "人形机器人一脚踹翻自家CEO",
+      "onboard_time": 1765073601,
+      "rank": 7,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 161819,
       "num": 295225,
       "word": "木薯糖水中毒",
       "onboard_time": 1765024041,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156897,
+      "num": 234033,
+      "word": "为让婚车不走回头路司机放倒三轮车",
+      "onboard_time": 1765073242,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156355,
@@ -491,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138260,
+      "num": 138260,
+      "word": "速效救心丸 舌下含服",
+      "onboard_time": 1765069401,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136749,
       "num": 267239,
       "word": "日本在与那国岛挖一锹土我军都能发现",
@@ -507,12 +555,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128812,
-      "num": 128812,
-      "word": "速效救心丸 舌下含服",
-      "onboard_time": 1765069401,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 131978,
+      "num": 131978,
+      "word": "女子洗衣结束发现猫咪在洗衣机里",
+      "onboard_time": 1765074140,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126948,
+      "num": 126948,
+      "word": "美国无法保证日本不会再打美国",
+      "onboard_time": 1765073181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121191,
@@ -539,12 +595,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118062,
-      "num": 118062,
+      "raw_hot": 118233,
+      "num": 118233,
       "word": "99年博士已任浙大博导",
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117751,
+      "num": 117751,
+      "word": "小酒窝尖叫之夜合影的明星",
+      "onboard_time": 1765063338,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 117714,
@@ -619,20 +683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107515,
-      "num": 107515,
-      "word": "小酒窝尖叫之夜合影的明星",
-      "onboard_time": 1765063338,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104070,
       "num": 207281,
       "word": "关晓彤说一定会二刷得闲谨制",
       "onboard_time": 1765037062,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103902,
+      "num": 103902,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765073901,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 103209,
@@ -651,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94126,
-      "num": 166809,
-      "word": "为让婚车不走回头路司机放倒三轮车",
-      "onboard_time": 1765073242,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93255,
       "num": 93255,
       "word": "今年的流感病毒是个老对手",
@@ -673,6 +729,22 @@
       "onboard_time": 1765036642,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91711,
+      "num": 91711,
+      "word": "北京同仁堂真假调查",
+      "onboard_time": 1765074441,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91339,
+      "num": 91339,
+      "word": "美加墨世界杯开球时间全是AM",
+      "onboard_time": 1765073720,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90457,
@@ -713,14 +785,6 @@
       "onboard_time": 1765060155,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80087,
-      "num": 473947,
-      "word": "新疆高速交通事故9死7伤",
-      "onboard_time": 1765072880,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77824,
@@ -841,14 +905,6 @@
       "onboard_time": 1765063819,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50282,
-      "num": 110850,
-      "word": "美国无法保证日本不会再打美国",
-      "onboard_time": 1765073181,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 49524,
