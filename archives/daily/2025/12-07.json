@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765099580041,
+  "endTime": 1765100427937,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -155,7 +155,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 774929,
+      "raw_hot": 792143,
       "num": 232546,
       "word": "王梓莼回应了",
       "onboard_time": 1765096641,
@@ -371,6 +371,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 392981,
+      "num": 198711,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1765097781,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 386547,
       "num": 298716,
       "word": "爱奇艺的年度销冠都在这儿了",
@@ -483,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 322005,
+      "num": 253649,
+      "word": "山东申论",
+      "onboard_time": 1765099940,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321108,
       "num": 2079315,
       "word": "公考枪手替考89次敛财千万",
@@ -579,8 +595,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268474,
-      "num": 181384,
+      "raw_hot": 276294,
+      "num": 190050,
+      "word": "李纯马頔腿一样长",
+      "onboard_time": 1765097421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271854,
+      "num": 186462,
       "word": "女子婚后出轨伴郎并生娃双双获刑",
       "onboard_time": 1765097481,
       "rank": 20,
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 223848,
-      "num": 176070,
+      "num": 184935,
       "word": "KatyPerry官宣恋情",
       "onboard_time": 1765098741,
       "rank": 21,
@@ -720,14 +744,6 @@
       "word": "丁禹兮评论了张函瑞",
       "onboard_time": 1765029984,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220998,
-      "num": 170337,
-      "word": "李纯马頔腿一样长",
-      "onboard_time": 1765097421,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -891,12 +907,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 198711,
-      "num": 198711,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1765097781,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 198679,
+      "num": 198679,
+      "word": "成毅张涵予眼神对狙这一秒",
+      "onboard_time": 1765099940,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 197782,
@@ -915,12 +931,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195013,
+      "num": 195013,
+      "word": "刘耀文将缺席星光大赏",
+      "onboard_time": 1765100181,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193942,
+      "num": 193942,
+      "word": "樊振东陈梦发文入选十大体育新闻",
+      "onboard_time": 1765099880,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193403,
       "num": 209779,
       "word": "得闲谨制",
       "onboard_time": 1765028664,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191817,
+      "num": 191817,
+      "word": "江苏省考",
+      "onboard_time": 1765100060,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 191679,
@@ -977,6 +1017,14 @@
       "onboard_time": 1765035863,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183442,
+      "num": 183442,
+      "word": "山东省考",
+      "onboard_time": 1765100060,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 181184,
@@ -1051,6 +1099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165844,
+      "num": 165844,
+      "word": "海涛留学留疯了",
+      "onboard_time": 1765098741,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165763,
       "num": 165763,
       "word": "内娱首部霸总真人秀来了",
@@ -1123,6 +1179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160014,
+      "num": 160014,
+      "word": "浙江申论",
+      "onboard_time": 1765099641,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158513,
       "num": 158513,
       "word": "王一博微博被做成了一本书",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1765091180,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152497,
+      "num": 152497,
+      "word": "乔欣南法度假",
+      "onboard_time": 1765099041,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 151476,
@@ -1387,6 +1459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127584,
+      "num": 127584,
+      "word": "刘晓庆 头回拿这么小的奖怪新鲜的",
+      "onboard_time": 1765097240,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127356,
       "num": 127356,
       "word": "得闲谨制 笑点和道德反复打架",
@@ -1457,6 +1537,14 @@
       "onboard_time": 1765075580,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121395,
+      "num": 121395,
+      "word": "四川省考",
+      "onboard_time": 1765100120,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 121191,
@@ -1643,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112475,
+      "num": 112475,
+      "word": "浙江省考",
+      "onboard_time": 1765100181,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112148,
       "num": 112148,
       "word": "王楚钦说和孙颖莎比以前更高效",
@@ -1827,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100383,
+      "num": 100383,
+      "word": "金吾不禁",
+      "onboard_time": 1765099521,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99566,
       "num": 133860,
       "word": "陈晓孙千新剧一集结两次婚",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1765089741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98475,
+      "num": 98475,
+      "word": "尖叫之夜 没有一个不漂亮",
+      "onboard_time": 1765099341,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 98322,
@@ -1865,22 +1977,6 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97792,
-      "num": 91482,
-      "word": "刘晓庆 头回拿这么小的奖怪新鲜的",
-      "onboard_time": 1765097240,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 97170,
-      "num": 91313,
-      "word": "金吾不禁",
-      "onboard_time": 1765099521,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 97133,
@@ -1940,7 +2036,7 @@
     },
     {
       "raw_hot": 93374,
-      "num": 93374,
+      "num": 96830,
       "word": "库克被曝频繁手震",
       "onboard_time": 1765097360,
       "rank": 36,
@@ -1977,14 +2073,6 @@
       "onboard_time": 1765090160,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92011,
-      "num": 90463,
-      "word": "尖叫之夜 没有一个不漂亮",
-      "onboard_time": 1765099341,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 91979,
@@ -2091,20 +2179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80284,
+      "raw_hot": 81904,
       "num": 159082,
       "word": "日本便当涨价",
       "onboard_time": 1765098021,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 78890,
-      "num": 92671,
-      "word": "海涛留学留疯了",
-      "onboard_time": 1765098741,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 77824,
@@ -2395,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40382,
+      "num": 190154,
+      "word": "惊悚AI玩偶视频入侵未成年人",
+      "onboard_time": 1765099521,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40076,
       "num": 130624,
       "word": "Gumayusi说能战胜T1",
@@ -2427,20 +2515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31722,
-      "num": 90978,
-      "word": "惊悚AI玩偶视频入侵未成年人",
-      "onboard_time": 1765099521,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30713,
-      "num": 93179,
-      "word": "乔欣南法度假",
-      "onboard_time": 1765099041,
+      "raw_hot": 31098,
+      "num": 111644,
+      "word": "甘肃一小区发生火灾2人身亡",
+      "onboard_time": 1765099880,
       "rank": 38,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30113,
