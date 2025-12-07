@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765085176497,
+  "endTime": 1765086094530,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1218894,
-      "num": 282953,
+      "num": 403139,
       "word": "小酒窝晒了17张尖叫之夜合照",
       "onboard_time": 1765079661,
       "rank": 12,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 541783,
-      "num": 285057,
+      "num": 418994,
       "word": "王楚钦紧急撤回一次击掌",
       "onboard_time": 1765077680,
       "rank": 13,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 537878,
-      "num": 248998,
+      "num": 396703,
       "word": "迪丽热巴 我有点不认识你了",
       "onboard_time": 1765082300,
       "rank": 26,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518897,
+      "num": 384963,
+      "word": "金晨 金秘书",
+      "onboard_time": 1765082902,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 485207,
       "num": 239409,
       "word": "泰国弃婴遭巨蜥啃食",
@@ -195,8 +203,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 480421,
+      "num": 438491,
+      "word": "女子仅退款225个快递或面临数年徒刑",
+      "onboard_time": 1765083861,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474041,
-      "num": 241650,
+      "num": 296812,
       "word": "林青霞自曝豪宅遭大量蟑螂入侵",
       "onboard_time": 1765080440,
       "rank": 37,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 446244,
-      "num": 247434,
+      "num": 356305,
       "word": "日方称歼15用雷达照射日本战机",
       "onboard_time": 1765082421,
       "rank": 38,
@@ -259,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380888,
+      "num": 380888,
+      "word": "日本自卫队滋扰辽宁舰编队训练",
+      "onboard_time": 1765084582,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368242,
       "num": 232503,
       "word": "沈梦辰居然奔四了",
@@ -275,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352184,
-      "num": 246332,
-      "word": "金晨 金秘书",
-      "onboard_time": 1765082902,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 355795,
+      "num": 355795,
+      "word": "男女涉卖淫嫖娼被罚300元",
+      "onboard_time": 1765083081,
+      "rank": 21,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 350756,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 335842,
-      "num": 245945,
+      "num": 425707,
       "word": "嘎子谢孟伟穿警服直播带货卖假酒",
       "onboard_time": 1765081340,
       "rank": 17,
@@ -371,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 306760,
-      "num": 240459,
-      "word": "男女涉卖淫嫖娼被罚300元",
-      "onboard_time": 1765083081,
-      "rank": 21,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 300027,
       "num": 280513,
       "word": "女子洗衣结束发现猫咪在洗衣机里",
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296878,
+      "num": 296878,
+      "word": "王楚然从南湘变成唐宛如了",
+      "onboard_time": 1765084942,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285211,
       "num": 285211,
       "word": "于和伟 握烟",
       "onboard_time": 1765030404,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284874,
+      "num": 284874,
+      "word": "男子隐瞒遗传病生子致女儿患病",
+      "onboard_time": 1765085301,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279451,
@@ -417,6 +449,14 @@
       "onboard_time": 1765075161,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264734,
+      "num": 264734,
+      "word": "李昀锐告了132人",
+      "onboard_time": 1765085001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 263839,
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248464,
+      "num": 358191,
+      "word": "江苏省考 草稿纸",
+      "onboard_time": 1765080201,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 243438,
       "num": 243438,
       "word": "杨志刚获奖感言",
@@ -481,14 +529,6 @@
       "onboard_time": 1765031904,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237963,
-      "num": 237963,
-      "word": "女子仅退款225个快递或面临数年徒刑",
-      "onboard_time": 1765083861,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235755,
@@ -587,12 +627,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 205010,
-      "num": 205010,
-      "word": "江苏省考 草稿纸",
-      "onboard_time": 1765080201,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 204641,
+      "num": 242974,
+      "word": "苏州地铁全网寻找用围巾擦地女子",
+      "onboard_time": 1765084039,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 204251,
@@ -612,11 +652,19 @@
     },
     {
       "raw_hot": 202902,
-      "num": 266123,
+      "num": 356433,
       "word": "公务员考试",
       "onboard_time": 1765085061,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201676,
+      "num": 201676,
+      "word": "中国海军将采取必要措施",
+      "onboard_time": 1765085181,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200802,
@@ -739,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165763,
+      "num": 165763,
+      "word": "内娱首部霸总真人秀来了",
+      "onboard_time": 1765085722,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "杨志刚有点像喝多了",
@@ -753,14 +809,6 @@
       "onboard_time": 1765079721,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 164442,
-      "num": 164442,
-      "word": "王楚然从南湘变成唐宛如了",
-      "onboard_time": 1765084942,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 163543,
@@ -825,14 +873,6 @@
       "onboard_time": 1765024164,
       "rank": 19,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 151823,
-      "num": 151823,
-      "word": "李昀锐告了132人",
-      "onboard_time": 1765085001,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 149821,
@@ -931,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135248,
+      "num": 135248,
+      "word": "湖南卫视向各位观众汇报",
+      "onboard_time": 1765085360,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133599,
       "num": 169581,
       "word": "成毅首部古装权谋剧",
@@ -955,6 +1003,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 129269,
+      "num": 129269,
+      "word": "展轩探班喜人vlog",
+      "onboard_time": 1765085781,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128828,
       "num": 128828,
       "word": "杨紫晒和piupiu合照",
@@ -977,6 +1033,14 @@
       "onboard_time": 1765081041,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124326,
+      "num": 124326,
+      "word": "OP对战DRG",
+      "onboard_time": 1765085541,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 123750,
@@ -1195,12 +1259,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104151,
+      "num": 104151,
+      "word": "正式确诊为饺子",
+      "onboard_time": 1765085961,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 104070,
       "num": 207281,
       "word": "关晓彤说一定会二刷得闲谨制",
       "onboard_time": 1765037062,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103975,
+      "num": 103975,
+      "word": "找到了曾小贤曾经吃的水泥",
+      "onboard_time": 1765084400,
+      "rank": 46,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 103555,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1765031666,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94827,
+      "num": 133890,
+      "word": "那艺娜自曝大儿子仍在开出租车",
+      "onboard_time": 1765084461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 93255,
@@ -1331,14 +1419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82990,
-      "num": 133890,
-      "word": "那艺娜自曝大儿子仍在开出租车",
-      "onboard_time": 1765084461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
@@ -1387,14 +1467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67300,
-      "num": 250517,
-      "word": "日本自卫队滋扰辽宁舰编队训练",
-      "onboard_time": 1765084582,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65155,
       "num": 65155,
       "word": "美阿拉斯加6.9级地震",
@@ -1427,14 +1499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60371,
-      "num": 242974,
-      "word": "苏州地铁全网寻找用围巾擦地女子",
-      "onboard_time": 1765084039,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 60087,
       "num": 142798,
       "word": "游客偶遇用镜子反射光给大佛暖鼻子",
@@ -1459,12 +1523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56899,
+      "num": 285534,
+      "word": "疯狂动物城2票房破29亿",
+      "onboard_time": 1765084700,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55820,
       "num": 55820,
       "word": "尖叫之夜奖项",
       "onboard_time": 1765058955,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54651,
+      "num": 134251,
+      "word": "印度夜店火灾已致25死",
+      "onboard_time": 1765084642,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52365,
@@ -1531,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43407,
-      "num": 134251,
-      "word": "印度夜店火灾已致25死",
-      "onboard_time": 1765084642,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 40843,
       "num": 293196,
       "word": "下周降6到10摄氏度",
@@ -1569,14 +1641,6 @@
       "onboard_time": 1765079781,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24333,
-      "num": 242222,
-      "word": "疯狂动物城2票房破29亿",
-      "onboard_time": 1765084700,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 20556,
