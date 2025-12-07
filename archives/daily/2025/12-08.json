@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765142596574,
+  "endTime": 1765143417187,
   "band_list": [
     {
       "raw_hot": 641124,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15580,
+      "num": 42318,
+      "word": "用挖耳勺给厨师拍宣传片",
+      "onboard_time": 1765140313,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15437,
       "num": 50433,
       "word": "哈尔滨的面包树上停满了小鸟",
@@ -515,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15319,
+      "num": 42284,
+      "word": "刘宇宁吃席打包",
+      "onboard_time": 1765141393,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14951,
-      "num": 37754,
+      "num": 42211,
       "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
       "onboard_time": 1765136473,
       "rank": 26,
       "category": "国际时政,艺人"
-    },
-    {
-      "raw_hot": 14431,
-      "num": 37686,
-      "word": "用挖耳勺给厨师拍宣传片",
-      "onboard_time": 1765140313,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 14299,
@@ -539,16 +547,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13632,
-      "num": 37624,
-      "word": "刘宇宁吃席打包",
-      "onboard_time": 1765141393,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13599,
-      "num": 37572,
+      "raw_hot": 14071,
+      "num": 42026,
       "word": "杨幂尖叫之夜最高荣誉",
       "onboard_time": 1765139172,
       "rank": 45,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 11960,
-      "num": 37370,
+      "num": 41214,
       "word": "朱志鑫纯欧巴",
       "onboard_time": 1765138034,
       "rank": 40,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 11516,
-      "num": 37353,
+      "num": 41344,
       "word": "周深但行好事前程已至",
       "onboard_time": 1765142293,
       "rank": 44,
