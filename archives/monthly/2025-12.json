@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765132578137,
+  "endTime": 1765133279446,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -24131,6 +24131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22675,
+      "num": 75683,
+      "word": "婴儿被褥印不雅英文",
+      "onboard_time": 1765129456,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22314,
       "num": 125539,
       "word": "被害人家属痛斥姐姐偏袒凶手弟弟",
@@ -24147,19 +24155,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22257,
-      "num": 75683,
-      "word": "婴儿被褥印不雅英文",
-      "onboard_time": 1765129456,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22196,
       "num": 31311,
       "word": "10公斤奶仅有不到1公斤奶皮子",
       "onboard_time": 1764863840,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22178,
+      "num": 75591,
+      "word": "高价鸡蛋是智商税吗",
+      "onboard_time": 1765129755,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -24265,14 +24273,6 @@
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20178,
-      "num": 75591,
-      "word": "高价鸡蛋是智商税吗",
-      "onboard_time": 1765129755,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20135,

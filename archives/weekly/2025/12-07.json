@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765132578137,
+  "endTime": 1765133279446,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -3915,11 +3915,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22257,
+      "raw_hot": 22675,
       "num": 75683,
       "word": "婴儿被褥印不雅英文",
       "onboard_time": 1765129456,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22178,
+      "num": 75591,
+      "word": "高价鸡蛋是智商税吗",
+      "onboard_time": 1765129755,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3969,14 +3977,6 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20178,
-      "num": 75591,
-      "word": "高价鸡蛋是智商税吗",
-      "onboard_time": 1765129755,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19867,
