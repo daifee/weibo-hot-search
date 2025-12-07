@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/08 03:36:49
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/08 04:29:37
 </p>
 </blockquote>
 <p>
@@ -3051,6 +3051,18 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%A7%90%E7%89%B9%E9%B2%81%E5%A4%9A%20CCTV3%E5%92%8CCCTV1%E4%B8%B2%E5%8F%B0%E4%BA%86%23" target="weibo">
+水果姐特鲁多 CCTV3和CCTV1串台了（热度：14951）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%B0%86%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E4%B8%BA%E7%9B%B4%E6%8E%A5%E5%A8%81%E8%83%81%23" target="weibo">
+美国不再将俄罗斯称为直接威胁（热度：14299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E7%A7%B0%E8%A2%AB%E6%94%BB%E5%87%BB%E5%9B%A0%E9%BB%91%E7%86%8A%E6%83%B3%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%23" target="weibo">
 饲养员称被攻击因黑熊想吃胡萝卜（热度：13118）
 </a>
@@ -3063,8 +3075,20 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%B0%86%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E4%B8%BA%E7%9B%B4%E6%8E%A5%E5%A8%81%E8%83%81%23" target="weibo">
-美国不再将俄罗斯称为直接威胁（热度：12381）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%BA%AF%E6%AC%A7%E5%B7%B4%23" target="weibo">
+朱志鑫纯欧巴（热度：11960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%23" target="weibo">
+杨幂尖叫之夜最高荣誉（热度：11026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E9%BB%91%E7%99%BD%E6%B6%A7%E5%A4%A7%E6%88%98%23" target="weibo">
+枭起青壤 黑白涧大战（热度：10451）
 </a>
 </li>
 

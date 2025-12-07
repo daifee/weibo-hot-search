@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765136209444,
+  "endTime": 1765139377144,
   "band_list": [
     {
       "raw_hot": 641124,
@@ -515,12 +515,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12381,
+      "raw_hot": 14951,
+      "num": 35192,
+      "word": "水果姐特鲁多 CCTV3和CCTV1串台了",
+      "onboard_time": 1765136473,
+      "rank": 26,
+      "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 14299,
       "num": 43746,
       "word": "美国不再将俄罗斯称为直接威胁",
       "onboard_time": 1765135694,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11960,
+      "num": 35157,
+      "word": "朱志鑫纯欧巴",
+      "onboard_time": 1765138034,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11026,
+      "num": 35146,
+      "word": "杨幂尖叫之夜最高荣誉",
+      "onboard_time": 1765139172,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10451,
+      "num": 35136,
+      "word": "枭起青壤 黑白涧大战",
+      "onboard_time": 1765137674,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
