@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765092355953,
+  "endTime": 1765093061157,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -1187,20 +1187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732078,
+      "num": 636263,
+      "word": "刘诗诗白鹿 爱奇艺",
+      "onboard_time": 1765090461,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732062,
       "num": 1074669,
       "word": "澳将禁止16岁以下用社媒",
       "onboard_time": 1764811821,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 726075,
-      "num": 636263,
-      "word": "刘诗诗白鹿 爱奇艺",
-      "onboard_time": 1765090461,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 718712,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1765079481,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 714653,
+      "num": 690387,
+      "word": "课本上明太祖照片换了",
+      "onboard_time": 1765088480,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 714566,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1764940703,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 690387,
-      "num": 690387,
-      "word": "课本上明太祖照片换了",
-      "onboard_time": 1765088480,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 686462,
@@ -5099,6 +5099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278084,
+      "num": 278084,
+      "word": "肖战哭了",
+      "onboard_time": 1765090881,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277352,
       "num": 200747,
       "word": "身体有炎症就少吃4种食物",
@@ -6587,14 +6595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212632,
-      "num": 212632,
-      "word": "肖战哭了",
-      "onboard_time": 1765090881,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212587,
       "num": 212587,
       "word": "50元的安全套以后或涨为56.5元",
@@ -6729,6 +6729,14 @@
       "onboard_time": 1764591802,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209367,
+      "num": 209367,
+      "word": "二婚夫妻买2套房被丈夫过户前妻",
+      "onboard_time": 1765090700,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208902,
@@ -7377,14 +7385,6 @@
       "onboard_time": 1764650122,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198834,
-      "num": 198834,
-      "word": "二婚夫妻买2套房被丈夫过户前妻",
-      "onboard_time": 1765090700,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198808,
@@ -8627,6 +8627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177291,
+      "num": 132382,
+      "word": "马克龙把访问中国视频置顶",
+      "onboard_time": 1765092140,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177217,
       "num": 177217,
       "word": "日本正武装菲律宾",
@@ -9337,6 +9345,14 @@
       "onboard_time": 1764766343,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164290,
+      "num": 315720,
+      "word": "刘宇宁再多说一句就要哭出来了",
+      "onboard_time": 1765092860,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 164234,
@@ -10140,7 +10156,7 @@
     },
     {
       "raw_hot": 153903,
-      "num": 114986,
+      "num": 131851,
       "word": "被一只猫冷暴力了3年",
       "onboard_time": 1765091180,
       "rank": 32,
@@ -10633,6 +10649,14 @@
       "onboard_time": 1765027165,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148498,
+      "num": 132339,
+      "word": "法媒报道马克龙与中国人互动",
+      "onboard_time": 1765089322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148414,
@@ -11795,6 +11819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134359,
+      "num": 134359,
+      "word": "21天不吃糖是什么体验",
+      "onboard_time": 1765091599,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134350,
       "num": 829990,
       "word": "治沙人种下的10万株玫瑰长大了",
@@ -11961,6 +11993,14 @@
       "onboard_time": 1764589581,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132704,
+      "num": 132704,
+      "word": "混团决赛国乒vs日本",
+      "onboard_time": 1765090280,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 132688,
@@ -12257,6 +12297,14 @@
       "onboard_time": 1764599844,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130365,
+      "num": 130365,
+      "word": "日本晋级混团决赛",
+      "onboard_time": 1765091780,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 130317,
@@ -13163,14 +13211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121406,
-      "num": 113765,
-      "word": "法媒报道马克龙与中国人互动",
-      "onboard_time": 1765089322,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121372,
       "num": 121372,
       "word": "莫拉娱乐",
@@ -13611,14 +13651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118626,
-      "num": 112137,
-      "word": "21天不吃糖是什么体验",
-      "onboard_time": 1765091599,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 118484,
       "num": 118484,
       "word": "周深哼了两句薛之谦眼睛都瞪大了",
@@ -13680,14 +13712,6 @@
       "word": "杨舒予我很好喔放心",
       "onboard_time": 1765082362,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117942,
-      "num": 117942,
-      "word": "混团决赛国乒vs日本",
-      "onboard_time": 1765090280,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -14939,14 +14963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107245,
-      "num": 107245,
-      "word": "马克龙把访问中国视频置顶",
-      "onboard_time": 1765092140,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107152,
       "num": 107152,
       "word": "混团世界杯八强产生",
@@ -15243,14 +15259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105037,
-      "num": 105037,
-      "word": "日本晋级混团决赛",
-      "onboard_time": 1765091780,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104997,
       "num": 104997,
       "word": "闲鱼崩了",
@@ -15457,6 +15465,14 @@
       "onboard_time": 1764925941,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103360,
+      "num": 103360,
+      "word": "肖战莫得闲除了是钳工还是语文老师",
+      "onboard_time": 1765092800,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 103333,
@@ -16337,6 +16353,14 @@
       "onboard_time": 1764811999,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97133,
+      "num": 97133,
+      "word": "水果姐高调官宣与特鲁多恋情",
+      "onboard_time": 1765092621,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 97055,
@@ -19267,6 +19291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 64985,
+      "num": 215760,
+      "word": "兰晓龙回应太爷为什么不死",
+      "onboard_time": 1765092020,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64953,
       "num": 661614,
       "word": "高市当局洗脑竟连儿童都不放过",
@@ -19329,6 +19361,14 @@
       "onboard_time": 1764671242,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63071,
+      "num": 651333,
+      "word": "公共Wifi真不能随便蹭",
+      "onboard_time": 1765091061,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62947,
@@ -19513,14 +19553,6 @@
       "onboard_time": 1764510381,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59037,
-      "num": 215760,
-      "word": "兰晓龙回应太爷为什么不死",
-      "onboard_time": 1765092020,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 58955,
@@ -20665,14 +20697,6 @@
       "onboard_time": 1764990561,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42907,
-      "num": 651333,
-      "word": "公共Wifi真不能随便蹭",
-      "onboard_time": 1765091061,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42845,
@@ -22363,6 +22387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20442,
+      "num": 102806,
+      "word": "王曼昱展望混团决赛",
+      "onboard_time": 1765092500,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20317,
       "num": 468013,
       "word": "高质量发展故事汇",
@@ -22499,6 +22531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17739,
+      "num": 109817,
+      "word": "孙颖莎绝妙回球变线",
+      "onboard_time": 1765092260,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17707,
       "num": 127428,
       "word": "护士给孩子输液时被殴打系捏造",
@@ -22617,14 +22657,6 @@
       "onboard_time": 1764868036,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16147,
-      "num": 109817,
-      "word": "孙颖莎绝妙回球变线",
-      "onboard_time": 1765092260,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 16144,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765092355953,
+  "endTime": 1765093061157,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -139,7 +139,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 726075,
+      "raw_hot": 732078,
       "num": 636263,
       "word": "刘诗诗白鹿 爱奇艺",
       "onboard_time": 1765090461,
@@ -155,20 +155,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 714653,
+      "num": 690387,
+      "word": "课本上明太祖照片换了",
+      "onboard_time": 1765088480,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714566,
       "num": 301433,
       "word": "张凌赫晒与刘宇宁周柯宇合照",
       "onboard_time": 1765036764,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 690387,
-      "num": 690387,
-      "word": "课本上明太祖照片换了",
-      "onboard_time": 1765088480,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 680273,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278084,
+      "num": 278084,
+      "word": "肖战哭了",
+      "onboard_time": 1765090881,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276879,
       "num": 276879,
       "word": "李现 奖杯烫手",
@@ -611,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212632,
-      "num": 212632,
-      "word": "肖战哭了",
-      "onboard_time": 1765090881,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212320,
       "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
@@ -633,6 +633,14 @@
       "onboard_time": 1765063338,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209367,
+      "num": 209367,
+      "word": "二婚夫妻买2套房被丈夫过户前妻",
+      "onboard_time": 1765090700,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207327,
@@ -723,14 +731,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 198834,
-      "num": 198834,
-      "word": "二婚夫妻买2套房被丈夫过户前妻",
-      "onboard_time": 1765090700,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -819,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177291,
+      "num": 132382,
+      "word": "马克龙把访问中国视频置顶",
+      "onboard_time": 1765092140,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173665,
       "num": 173665,
       "word": "张呈雷淞然夺冠后双双买车",
@@ -873,6 +881,14 @@
       "onboard_time": 1765079721,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164290,
+      "num": 315720,
+      "word": "刘宇宁再多说一句就要哭出来了",
+      "onboard_time": 1765092860,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 163543,
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 153903,
-      "num": 114986,
+      "num": 131851,
       "word": "被一只猫冷暴力了3年",
       "onboard_time": 1765091180,
       "rank": 32,
@@ -993,6 +1009,14 @@
       "onboard_time": 1765080681,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148498,
+      "num": 132339,
+      "word": "法媒报道马克龙与中国人互动",
+      "onboard_time": 1765089322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148359,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134359,
+      "num": 134359,
+      "word": "21天不吃糖是什么体验",
+      "onboard_time": 1765091599,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 133599,
       "num": 169581,
       "word": "成毅首部古装权谋剧",
@@ -1099,12 +1131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132704,
+      "num": 132704,
+      "word": "混团决赛国乒vs日本",
+      "onboard_time": 1765090280,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132645,
       "num": 132645,
       "word": "山村老尸和她的李逵闺蜜",
       "onboard_time": 1765079001,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130365,
+      "num": 130365,
+      "word": "日本晋级混团决赛",
+      "onboard_time": 1765091780,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 130291,
@@ -1187,14 +1235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121406,
-      "num": 113765,
-      "word": "法媒报道马克龙与中国人互动",
-      "onboard_time": 1765089322,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
@@ -1251,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118626,
-      "num": 112137,
-      "word": "21天不吃糖是什么体验",
-      "onboard_time": 1765091599,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 118233,
       "num": 118233,
       "word": "99年博士已任浙大博导",
@@ -1280,14 +1312,6 @@
       "word": "杨舒予我很好喔放心",
       "onboard_time": 1765082362,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117942,
-      "num": 117942,
-      "word": "混团决赛国乒vs日本",
-      "onboard_time": 1765090280,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1459,28 +1483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107245,
-      "num": 107245,
-      "word": "马克龙把访问中国视频置顶",
-      "onboard_time": 1765092140,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
       "onboard_time": 1765079721,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105037,
-      "num": 105037,
-      "word": "日本晋级混团决赛",
-      "onboard_time": 1765091780,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 104987,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1765079841,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103360,
+      "num": 103360,
+      "word": "肖战莫得闲除了是钳工还是语文老师",
+      "onboard_time": 1765092800,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 103209,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97133,
+      "num": 97133,
+      "word": "水果姐高调官宣与特鲁多恋情",
+      "onboard_time": 1765092621,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 96208,
@@ -1787,6 +1811,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 64985,
+      "num": 215760,
+      "word": "兰晓龙回应太爷为什么不死",
+      "onboard_time": 1765092020,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 63071,
+      "num": 651333,
+      "word": "公共Wifi真不能随便蹭",
+      "onboard_time": 1765091061,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61943,
       "num": 928168,
       "word": "AG对战TE",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1765029804,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59037,
-      "num": 215760,
-      "word": "兰晓龙回应太爷为什么不死",
-      "onboard_time": 1765092020,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 57695,
@@ -1955,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42907,
-      "num": 651333,
-      "word": "公共Wifi真不能随便蹭",
-      "onboard_time": 1765091061,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40843,
       "num": 293196,
       "word": "下周降6到10摄氏度",
@@ -2027,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20442,
+      "num": 102806,
+      "word": "王曼昱展望混团决赛",
+      "onboard_time": 1765092500,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19867,
       "num": 890651,
       "word": "足协杯",
@@ -2035,19 +2067,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17739,
+      "num": 109817,
+      "word": "孙颖莎绝妙回球变线",
+      "onboard_time": 1765092260,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17618,
       "num": 44069,
       "word": "世界杯抽签仪式",
       "onboard_time": 1765050974,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16147,
-      "num": 109817,
-      "word": "孙颖莎绝妙回球变线",
-      "onboard_time": 1765092260,
-      "rank": 39,
       "category": "体育"
     },
     {
