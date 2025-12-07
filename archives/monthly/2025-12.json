@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765112618972,
+  "endTime": 1765114311766,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -267,6 +267,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1572899,
+      "num": 441733,
+      "word": "张凌赫偷瞄白鹿",
+      "onboard_time": 1765110681,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1557919,
       "num": 683175,
       "word": "民警玩忽职守致女子再被性侵",
@@ -449,14 +457,6 @@
       "onboard_time": 1764905540,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1320972,
-      "num": 335235,
-      "word": "张凌赫偷瞄白鹿",
-      "onboard_time": 1765110681,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1319314,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 664875,
-      "num": 294002,
+      "num": 332419,
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
@@ -1995,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565657,
+      "num": 1090505,
+      "word": "腾讯视频星光大赏",
+      "onboard_time": 1764679281,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564845,
       "num": 413469,
       "word": "李嘉格新男友才26岁",
@@ -2113,14 +2121,6 @@
       "onboard_time": 1764682041,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547472,
-      "num": 1087575,
-      "word": "腾讯视频星光大赏",
-      "onboard_time": 1764679281,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 547093,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1765068980,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527646,
+      "num": 149745,
+      "word": "金士杰近60岁生了龙凤胎",
+      "onboard_time": 1765111581,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 526347,
@@ -2883,6 +2891,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 457877,
+      "num": 457877,
+      "word": "国乒vs日本",
+      "onboard_time": 1764995362,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 457641,
+      "num": 178582,
+      "word": "刘亦菲阿布扎比观赛F1",
+      "onboard_time": 1765112661,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 457629,
       "num": 356385,
       "word": "得闲谨制票房",
@@ -2987,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446911,
+      "num": 299956,
+      "word": "你的婚纱照可能被卖了",
+      "onboard_time": 1765109303,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446244,
       "num": 356305,
       "word": "日方称歼15用雷达照射日本战机",
@@ -3067,6 +3099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 438843,
+      "num": 438843,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1765108160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438525,
       "num": 438525,
       "word": "三星首款三折叠手机发布",
@@ -3113,14 +3153,6 @@
       "onboard_time": 1765069580,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434528,
-      "num": 299956,
-      "word": "你的婚纱照可能被卖了",
-      "onboard_time": 1765109303,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434499,
@@ -3505,14 +3537,6 @@
       "onboard_time": 1764645981,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400905,
-      "num": 400905,
-      "word": "国乒vs日本",
-      "onboard_time": 1764995362,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 400217,
@@ -3939,6 +3963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366315,
+      "num": 287807,
+      "word": "婴儿被褥印不雅英文字母",
+      "onboard_time": 1765108881,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365595,
       "num": 357722,
       "word": "演员洪剑涛景区试戴帽子被要价5元",
@@ -4081,14 +4113,6 @@
       "onboard_time": 1764975977,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355148,
-      "num": 222561,
-      "word": "婴儿被褥印不雅英文字母",
-      "onboard_time": 1765108881,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354615,
@@ -4665,14 +4689,6 @@
       "onboard_time": 1764635301,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321416,
-      "num": 149018,
-      "word": "金士杰近60岁生了龙凤胎",
-      "onboard_time": 1765111581,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 321275,
@@ -5363,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276656,
+      "num": 275090,
+      "word": "肖战得闲谨制登上新闻联播",
+      "onboard_time": 1765110800,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276294,
       "num": 190050,
       "word": "李纯马頔腿一样长",
@@ -5385,14 +5409,6 @@
       "onboard_time": 1764507981,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275090,
-      "num": 275090,
-      "word": "肖战得闲谨制登上新闻联播",
-      "onboard_time": 1765110800,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 274935,
@@ -6675,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221104,
+      "num": 989000,
+      "word": "F1",
+      "onboard_time": 1764544339,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221030,
       "num": 221030,
       "word": "齐达内晒和樊振东打乒乓照",
@@ -6729,14 +6753,6 @@
       "onboard_time": 1764653361,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218873,
-      "num": 989000,
-      "word": "F1",
-      "onboard_time": 1764544339,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 218863,
@@ -7587,6 +7603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201809,
+      "num": 179889,
+      "word": "我驻日大使提出严正交涉",
+      "onboard_time": 1765112061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201676,
       "num": 209906,
       "word": "中国海军将采取必要措施",
@@ -8323,6 +8347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188429,
+      "num": 124995,
+      "word": "季节 这都能输为啥不退役啊",
+      "onboard_time": 1765113442,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -8912,6 +8944,14 @@
       "word": "杨瀚森三分",
       "onboard_time": 1764905301,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180463,
+      "num": 180463,
+      "word": "王曼昱3比0胜张本美和",
+      "onboard_time": 1765112901,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -11347,6 +11387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146358,
+      "num": 146358,
+      "word": "乒乓球",
+      "onboard_time": 1765109061,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146086,
       "num": 146086,
       "word": "李煜东官娃",
@@ -11940,7 +11988,7 @@
     },
     {
       "raw_hot": 138582,
-      "num": 132653,
+      "num": 133098,
       "word": "SYG对战eStar",
       "onboard_time": 1765106963,
       "rank": 40,
@@ -12499,6 +12547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133608,
+      "num": 150506,
+      "word": "企业因薪资过高被限发招聘信息",
+      "onboard_time": 1765112061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133599,
       "num": 169581,
       "word": "成毅首部古装权谋剧",
@@ -12529,6 +12585,14 @@
       "onboard_time": 1764556220,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133425,
+      "num": 133425,
+      "word": "苏新皓cha疯狂动物城2主题曲",
+      "onboard_time": 1765114162,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 133323,
@@ -13115,14 +13179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128291,
-      "num": 128291,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1765108160,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128288,
       "num": 128288,
       "word": "户晨风账号已关闭",
@@ -13489,6 +13545,14 @@
       "onboard_time": 1764810440,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124617,
+      "num": 124617,
+      "word": "鹭卓直播",
+      "onboard_time": 1765113862,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 124589,
@@ -14907,6 +14971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114223,
+      "num": 114223,
+      "word": "王继续去了熟悉的米未",
+      "onboard_time": 1765112362,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114110,
       "num": 114110,
       "word": "老外是不是对卫生巾有什么误解",
@@ -15121,14 +15193,6 @@
       "onboard_time": 1764814700,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112484,
-      "num": 112484,
-      "word": "王继续去了熟悉的米未",
-      "onboard_time": 1765112362,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 112475,
@@ -15377,6 +15441,14 @@
       "onboard_time": 1764591143,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110146,
+      "num": 110146,
+      "word": "卓沅直播",
+      "onboard_time": 1765113802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 110105,
@@ -16915,6 +16987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99399,
+      "num": 139517,
+      "word": "马来西亚一中国女游客酒店9楼坠亡",
+      "onboard_time": 1765112422,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99379,
       "num": 99379,
       "word": "山东省考准考证",
@@ -18123,6 +18203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89874,
+      "num": 89874,
+      "word": "这就是语文老师说的借物喻人吗",
+      "onboard_time": 1765113623,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89803,
       "num": 101406,
       "word": "看过疯狂动物城2就知道多还原",
@@ -18329,6 +18417,14 @@
       "onboard_time": 1764774622,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87580,
+      "num": 87580,
+      "word": "王楚钦孙颖莎11比4松岛辉空大藤沙月",
+      "onboard_time": 1765113982,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87558,
@@ -18721,6 +18817,14 @@
       "onboard_time": 1765013122,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84056,
+      "num": 107940,
+      "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
+      "onboard_time": 1765113562,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83830,
@@ -20507,6 +20611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60146,
+      "num": 106547,
+      "word": "关晓彤 小时候拍戏条件不好",
+      "onboard_time": 1765113502,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59999,
       "num": 111532,
       "word": "刘诗诗走路腰发力",
@@ -21139,14 +21251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 51177,
-      "num": 150506,
-      "word": "企业因薪资过高被限发招聘信息",
-      "onboard_time": 1765112061,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50780,
       "num": 50780,
       "word": "中方愿同俄方配合坚决遏制日本挑衅",
@@ -21747,14 +21851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42955,
-      "num": 179889,
-      "word": "我驻日大使提出严正交涉",
-      "onboard_time": 1765112061,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 42845,
       "num": 132958,
       "word": "已婚男纠缠杀害网红主播被判死刑",
@@ -22153,6 +22249,14 @@
       "onboard_time": 1764674722,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38831,
+      "num": 89418,
+      "word": "沙漠水稻丰收了",
+      "onboard_time": 1765113081,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38810,
@@ -23051,6 +23155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26953,
+      "num": 442719,
+      "word": "国产挖掘机零下40摄氏度一秒启动",
+      "onboard_time": 1765113682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26885,
       "num": 36861,
       "word": "张杰佛山演唱会",
@@ -23459,6 +23571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22117,
+      "num": 105867,
+      "word": "2000多年前中国水利设计有多超前",
+      "onboard_time": 1765113081,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21931,
       "num": 36771,
       "word": "陈震曾说逃税是最可耻的",
@@ -23539,20 +23659,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20335,
+      "num": 110008,
+      "word": "百万抗癌药首次纳入商保",
+      "onboard_time": 1765113982,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20317,
       "num": 468013,
       "word": "高质量发展故事汇",
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20139,
-      "num": 139517,
-      "word": "马来西亚一中国女游客酒店9楼坠亡",
-      "onboard_time": 1765112422,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20135,
