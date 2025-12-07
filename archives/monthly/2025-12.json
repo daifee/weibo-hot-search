@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765083102407,
+  "endTime": 1765085176497,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -1196,7 +1196,7 @@
     },
     {
       "raw_hot": 715825,
-      "num": 270719,
+      "num": 630109,
       "word": "法新社 马克龙",
       "onboard_time": 1765079481,
       "rank": 19,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537878,
+      "num": 248998,
+      "word": "迪丽热巴 我有点不认识你了",
+      "onboard_time": 1765082300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536655,
       "num": 943338,
       "word": "马航MH370已失踪11年",
@@ -2539,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474041,
+      "num": 241650,
+      "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+      "onboard_time": 1765080440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473327,
       "num": 473327,
       "word": "小胖回应改ID",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1764748042,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446244,
+      "num": 247434,
+      "word": "日方称歼15用雷达照射日本战机",
+      "onboard_time": 1765082421,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 445411,
@@ -3636,7 +3660,7 @@
     },
     {
       "raw_hot": 368242,
-      "num": 232043,
+      "num": 232503,
       "word": "沈梦辰居然奔四了",
       "onboard_time": 1765080801,
       "rank": 13,
@@ -3865,6 +3889,14 @@
       "onboard_time": 1764919701,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352184,
+      "num": 246332,
+      "word": "金晨 金秘书",
+      "onboard_time": 1765082902,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350960,
@@ -4113,6 +4145,14 @@
       "onboard_time": 1765033403,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335842,
+      "num": 245945,
+      "word": "嘎子谢孟伟穿警服直播带货卖假酒",
+      "onboard_time": 1765081340,
+      "rank": 17,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 335762,
@@ -4595,6 +4635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306760,
+      "num": 240459,
+      "word": "男女涉卖淫嫖娼被罚300元",
+      "onboard_time": 1765083081,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 306070,
       "num": 193066,
       "word": "万妮达演唱会偶遇李嘉格和新男友",
@@ -4649,14 +4697,6 @@
       "onboard_time": 1764575362,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 302683,
-      "num": 197196,
-      "word": "林青霞自曝豪宅遭大量蟑螂入侵",
-      "onboard_time": 1765080440,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 302540,
@@ -5611,14 +5651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244981,
-      "num": 210353,
-      "word": "嘎子谢孟伟穿警服直播带货卖假酒",
-      "onboard_time": 1765081340,
-      "rank": 17,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 244916,
       "num": 244916,
       "word": "玉茗茶骨",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1764600085,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237963,
+      "num": 237963,
+      "word": "女子仅退款225个快递或面临数年徒刑",
+      "onboard_time": 1765083861,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237408,
@@ -6361,14 +6401,6 @@
       "onboard_time": 1764903501,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216833,
-      "num": 199715,
-      "word": "迪丽热巴 我有点不认识你了",
-      "onboard_time": 1765082300,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 216576,
@@ -6996,7 +7028,7 @@
     },
     {
       "raw_hot": 203701,
-      "num": 203701,
+      "num": 245175,
       "word": "山东省考行测",
       "onboard_time": 1765079180,
       "rank": 25,
@@ -7049,6 +7081,14 @@
       "onboard_time": 1764892639,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202902,
+      "num": 266123,
+      "word": "公务员考试",
+      "onboard_time": 1765085061,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 202888,
@@ -7321,14 +7361,6 @@
       "onboard_time": 1765024583,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196741,
-      "num": 196741,
-      "word": "日方称歼15用雷达照射日本战机",
-      "onboard_time": 1765082421,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 196477,
@@ -8795,6 +8827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170904,
+      "num": 170904,
+      "word": "才知道橙子里的小橙子到底能不能吃",
+      "onboard_time": 1765084161,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170663,
       "num": 224728,
       "word": "老版1元人民币的女子已经65岁了",
@@ -9169,6 +9209,14 @@
       "onboard_time": 1764855681,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164442,
+      "num": 164442,
+      "word": "王楚然从南湘变成唐宛如了",
+      "onboard_time": 1765084942,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 164290,
@@ -10169,6 +10217,14 @@
       "onboard_time": 1764819081,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151823,
+      "num": 151823,
+      "word": "李昀锐告了132人",
+      "onboard_time": 1765085001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151795,
@@ -12067,8 +12123,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130151,
-      "num": 130151,
+      "raw_hot": 130291,
+      "num": 130291,
       "word": "租房结婚vs买房结婚",
       "onboard_time": 1765081581,
       "rank": 36,
@@ -12515,6 +12571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124913,
+      "num": 124913,
+      "word": "这居然是杨和苏",
+      "onboard_time": 1765081041,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124807,
       "num": 132148,
       "word": "孙颖莎突然想到还没握手",
@@ -12745,14 +12809,6 @@
       "onboard_time": 1764820401,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122636,
-      "num": 122636,
-      "word": "金晨 金秘书",
-      "onboard_time": 1765082902,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 122598,
@@ -13393,14 +13449,6 @@
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118141,
-      "num": 114227,
-      "word": "这居然是杨和苏",
-      "onboard_time": 1765081041,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 118030,
@@ -14073,6 +14121,14 @@
       "onboard_time": 1764583222,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 112148,
+      "num": 112148,
+      "word": "王楚钦说和孙颖莎比以前更高效",
+      "onboard_time": 1765084942,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 112101,
@@ -14907,6 +14963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104987,
+      "num": 104987,
+      "word": "省考写不完",
+      "onboard_time": 1765083441,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104977,
       "num": 104977,
       "word": "花2万7培训两门课都不及格",
@@ -15649,6 +15713,14 @@
       "onboard_time": 1764945203,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99566,
+      "num": 133860,
+      "word": "陈晓孙千新剧一集结两次婚",
+      "onboard_time": 1765084520,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 99559,
@@ -17459,6 +17531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82990,
+      "num": 133890,
+      "word": "那艺娜自曝大儿子仍在开出租车",
+      "onboard_time": 1765084461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82964,
       "num": 82964,
       "word": "SofM回应复出",
@@ -18651,6 +18731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67300,
+      "num": 250517,
+      "word": "日本自卫队滋扰辽宁舰编队训练",
+      "onboard_time": 1765084582,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67258,
       "num": 105572,
       "word": "多所高校买房爆改学生宿舍",
@@ -18977,6 +19065,14 @@
       "onboard_time": 1764829041,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60371,
+      "num": 242974,
+      "word": "苏州地铁全网寻找用围巾擦地女子",
+      "onboard_time": 1765084039,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 59999,
@@ -20089,6 +20185,14 @@
       "onboard_time": 1764832941,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43407,
+      "num": 134251,
+      "word": "印度夜店火灾已致25死",
+      "onboard_time": 1765084642,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43354,
@@ -21553,6 +21657,14 @@
       "onboard_time": 1764927202,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24333,
+      "num": 242222,
+      "word": "疯狂动物城2票房破29亿",
+      "onboard_time": 1765084700,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 24307,

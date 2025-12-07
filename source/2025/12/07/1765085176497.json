@@ -1,0 +1,410 @@
+{
+  "runTime": 1765085176497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673213,
+        "num": 1107714,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 630109,
+        "num": 630109,
+        "word": "法新社 马克龙",
+        "onboard_time": 1765079481,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38276,
+        "num": 555349,
+        "word": "冬天里的大美中国",
+        "onboard_time": 1765080081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542038,
+        "num": 542038,
+        "word": "白鹿尖叫女演员",
+        "onboard_time": 1765037182,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504002,
+        "num": 504002,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530501,
+        "num": 444679,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202902,
+        "num": 266123,
+        "word": "公务员考试",
+        "onboard_time": 1765085061,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251826,
+        "num": 251826,
+        "word": "山东省考 谁出的图推",
+        "onboard_time": 1765078101,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34575,
+        "num": 251767,
+        "word": "下周降6到10摄氏度",
+        "onboard_time": 1765066160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67300,
+        "num": 250517,
+        "word": "日本自卫队滋扰辽宁舰编队训练",
+        "onboard_time": 1765084582,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1018626,
+        "num": 249471,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537878,
+        "num": 248998,
+        "word": "迪丽热巴 我有点不认识你了",
+        "onboard_time": 1765082300,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687938,
+        "num": 248426,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446244,
+        "num": 247434,
+        "word": "日方称歼15用雷达照射日本战机",
+        "onboard_time": 1765082421,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 352184,
+        "num": 246332,
+        "word": "金晨 金秘书",
+        "onboard_time": 1765082902,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335842,
+        "num": 245945,
+        "word": "嘎子谢孟伟穿警服直播带货卖假酒",
+        "onboard_time": 1765081340,
+        "rank": 15,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 57219,
+        "num": 245175,
+        "word": "山东省考行测",
+        "onboard_time": 1765079180,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329688,
+        "num": 243726,
+        "word": "王楚钦紧急撤回一次击掌",
+        "onboard_time": 1765077680,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60371,
+        "num": 242974,
+        "word": "苏州地铁全网寻找用围巾擦地女子",
+        "onboard_time": 1765084039,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24333,
+        "num": 242222,
+        "word": "疯狂动物城2票房破29亿",
+        "onboard_time": 1765084700,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474041,
+        "num": 241650,
+        "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+        "onboard_time": 1765080440,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306760,
+        "num": 240459,
+        "word": "男女涉卖淫嫖娼被罚300元",
+        "onboard_time": 1765083081,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 357579,
+        "num": 239729,
+        "word": "爱奇艺颁奖失误",
+        "onboard_time": 1765039280,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293686,
+        "num": 239299,
+        "word": "杨幂魏大勋内场同框",
+        "onboard_time": 1765072100,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273401,
+        "num": 238001,
+        "word": "于正说赵晴每天运动超过六小时",
+        "onboard_time": 1765080201,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237963,
+        "num": 237963,
+        "word": "女子仅退款225个快递或面临数年徒刑",
+        "onboard_time": 1765083861,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232503,
+        "num": 232503,
+        "word": "沈梦辰居然奔四了",
+        "onboard_time": 1765080801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202449,
+        "num": 202449,
+        "word": "美国不允许任何国家过于强大",
+        "onboard_time": 1765067659,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188789,
+        "num": 188789,
+        "word": "江苏省考 草稿纸",
+        "onboard_time": 1765080201,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181665,
+        "num": 181665,
+        "word": "天地玄黄 宇宙洪荒",
+        "onboard_time": 1765075761,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170904,
+        "num": 170904,
+        "word": "才知道橙子里的小橙子到底能不能吃",
+        "onboard_time": 1765084161,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164442,
+        "num": 164442,
+        "word": "王楚然从南湘变成唐宛如了",
+        "onboard_time": 1765084942,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155100,
+        "num": 155100,
+        "word": "郭美美出狱后炫富博眼球账号被关",
+        "onboard_time": 1765078460,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 154125,
+        "num": 154125,
+        "word": "江苏省考好难",
+        "onboard_time": 1765077800,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151823,
+        "num": 151823,
+        "word": "李昀锐告了132人",
+        "onboard_time": 1765085001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141543,
+        "num": 141543,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1765077441,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138052,
+        "num": 138052,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765073901,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43407,
+        "num": 134251,
+        "word": "印度夜店火灾已致25死",
+        "onboard_time": 1765084642,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82990,
+        "num": 133890,
+        "word": "那艺娜自曝大儿子仍在开出租车",
+        "onboard_time": 1765084461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99566,
+        "num": 133860,
+        "word": "陈晓孙千新剧一集结两次婚",
+        "onboard_time": 1765084520,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133832,
+        "num": 133832,
+        "word": "国乒混团晋级决赛",
+        "onboard_time": 1765081760,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132304,
+        "num": 132304,
+        "word": "女子洗衣结束发现猫咪在洗衣机里",
+        "onboard_time": 1765074140,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130291,
+        "num": 130291,
+        "word": "租房结婚vs买房结婚",
+        "onboard_time": 1765081581,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "这居然是杨和苏",
+        "onboard_time": 1765081041,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116410,
+        "num": 116410,
+        "word": "邓为的狗去世了",
+        "onboard_time": 1765077800,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112148,
+        "num": 112148,
+        "word": "王楚钦说和孙颖莎比以前更高效",
+        "onboard_time": 1765084942,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108098,
+        "num": 108098,
+        "word": "刘宇宁回应获尖叫男演员",
+        "onboard_time": 1765082061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107775,
+        "num": 107775,
+        "word": "抗癌针等19种药品纳入首版商保目录",
+        "onboard_time": 1765082960,
+        "rank": 47,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 104987,
+        "num": 104987,
+        "word": "省考写不完",
+        "onboard_time": 1765083441,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102541,
+        "num": 102541,
+        "word": "蓝盈莹领抱其他人秒跟",
+        "onboard_time": 1765082421,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}
