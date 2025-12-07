@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765064328013,
+  "endTime": 1765073513773,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110938,
+      "num": 612281,
+      "word": "爱奇艺颁奖失误",
+      "onboard_time": 1765039280,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1101984,
       "num": 312888,
       "word": "刘宇宁尖叫男演员",
@@ -57,6 +65,14 @@
       "onboard_time": 1765035983,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 908985,
+      "num": 1145437,
+      "word": "美国不允许任何国家过于强大",
+      "onboard_time": 1765067659,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 895420,
@@ -75,12 +91,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 795466,
+      "num": 532440,
+      "word": "仅退款225个快递女子打造富婆人设",
+      "onboard_time": 1765072100,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 763383,
+      "num": 405370,
+      "word": "杨幂魏大勋内场同框",
+      "onboard_time": 1765072100,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 714566,
       "num": 301433,
       "word": "张凌赫晒与刘宇宁周柯宇合照",
       "onboard_time": 1765036764,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528218,
+      "num": 528218,
+      "word": "唐诡打败苦尽柑来遇见你",
+      "onboard_time": 1765068980,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 485207,
@@ -99,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 436070,
+      "num": 167170,
+      "word": "杨幂 我看诡秘拍的照片",
+      "onboard_time": 1765069580,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406391,
       "num": 300548,
       "word": "红楼梦",
@@ -113,6 +161,14 @@
       "onboard_time": 1765034843,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386117,
+      "num": 386117,
+      "word": "比伯吐槽iPhone按钮设计",
+      "onboard_time": 1765071200,
+      "rank": 13,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 382581,
@@ -131,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338871,
+      "num": 166310,
+      "word": "白鹿 没有白走的路",
+      "onboard_time": 1765072222,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321108,
       "num": 2079315,
       "word": "公考枪手替考89次敛财千万",
@@ -145,6 +209,14 @@
       "onboard_time": 1765028605,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304150,
+      "num": 304150,
+      "word": "秦岚撒娇",
+      "onboard_time": 1765072580,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 285211,
@@ -171,8 +243,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263839,
+      "num": 263839,
+      "word": "张凌赫发言徐若晗台下比心",
+      "onboard_time": 1765068022,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261673,
-      "num": 163883,
+      "num": 167687,
       "word": "劣迹网红复出乱象",
       "onboard_time": 1765062796,
       "rank": 12,
@@ -211,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235755,
+      "num": 166120,
+      "word": "特朗普或将给高市早苗放权",
+      "onboard_time": 1765068500,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221762,
       "num": 221762,
       "word": "丁禹兮评论了张函瑞",
@@ -244,7 +332,7 @@
     },
     {
       "raw_hot": 206934,
-      "num": 119676,
+      "num": 441474,
       "word": "大雪",
       "onboard_time": 1765063877,
       "rank": 12,
@@ -267,6 +355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204251,
+      "num": 165925,
+      "word": "长安二十四计定档",
+      "onboard_time": 1765071800,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -281,6 +377,14 @@
       "onboard_time": 1765028664,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188881,
+      "num": 165585,
+      "word": "起床不要一睁眼就刷手机",
+      "onboard_time": 1765063937,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184949,
@@ -299,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179143,
-      "num": 90684,
-      "word": "起床不要一睁眼就刷手机",
-      "onboard_time": 1765063937,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "虞书欣雨爱",
       "onboard_time": 1765028184,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165352,
+      "num": 165352,
+      "word": "杨志刚有点像喝多了",
+      "onboard_time": 1765069341,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 163536,
@@ -363,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "翟子路回应叫错李兰迪名字",
+      "onboard_time": 1765066580,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140948,
       "num": 123633,
       "word": "刘宇宁你也有今天",
       "onboard_time": 1765037004,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139370,
+      "num": 581125,
+      "word": "2025成都混团世界杯",
+      "onboard_time": 1765071200,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 136749,
@@ -379,12 +499,52 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135833,
+      "num": 167498,
+      "word": "美国重返亚洲战略出现重大转向",
+      "onboard_time": 1765062736,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 128812,
+      "num": 128812,
+      "word": "速效救心丸 舌下含服",
+      "onboard_time": 1765069401,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
       "onboard_time": 1765034185,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119902,
+      "num": 119902,
+      "word": "境外间谍在政府周边设恶意WiFi",
+      "onboard_time": 1765071200,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 119513,
+      "num": 119513,
+      "word": "马克龙用中文感谢中国",
+      "onboard_time": 1765071080,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118062,
+      "num": 118062,
+      "word": "99年博士已任浙大博导",
+      "onboard_time": 1765072880,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117714,
@@ -419,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112784,
+      "num": 112784,
+      "word": "国乒vs韩国",
+      "onboard_time": 1765072700,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111082,
       "num": 111082,
       "word": "朱丹主持",
@@ -427,12 +595,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110105,
+      "num": 110105,
+      "word": "林诗栋vs张禹珍",
+      "onboard_time": 1765072640,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109377,
+      "num": 517267,
+      "word": "利物浦 萨拉赫",
+      "onboard_time": 1765063697,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108866,
       "num": 260268,
       "word": "水库冰面下发现13匹冰冻马",
       "onboard_time": 1765020562,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107515,
+      "num": 107515,
+      "word": "小酒窝尖叫之夜合影的明星",
+      "onboard_time": 1765063338,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 104070,
@@ -459,12 +651,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90601,
-      "num": 90601,
-      "word": "美国重返亚洲战略出现重大转向",
-      "onboard_time": 1765062736,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 94126,
+      "num": 166809,
+      "word": "为让婚车不走回头路司机放倒三轮车",
+      "onboard_time": 1765073242,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93255,
+      "num": 93255,
+      "word": "今年的流感病毒是个老对手",
+      "onboard_time": 1765065738,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91979,
+      "num": 91979,
+      "word": "水库发现13匹冰冻马",
+      "onboard_time": 1765036642,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90457,
+      "num": 90457,
+      "word": "徐梦桃赛季首冠",
+      "onboard_time": 1765072760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86322,
@@ -499,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80087,
+      "num": 473947,
+      "word": "新疆高速交通事故9死7伤",
+      "onboard_time": 1765072880,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
@@ -531,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69986,
+      "num": 489204,
+      "word": "省考",
+      "onboard_time": 1765068320,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
@@ -545,14 +777,6 @@
       "onboard_time": 1765063638,
       "rank": 38,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 64435,
-      "num": 64435,
-      "word": "小酒窝尖叫之夜合影的明星",
-      "onboard_time": 1765063338,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 61943,
@@ -577,14 +801,6 @@
       "onboard_time": 1765062977,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60169,
-      "num": 60169,
-      "word": "利物浦 萨拉赫",
-      "onboard_time": 1765063697,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 60087,
@@ -625,6 +841,14 @@
       "onboard_time": 1765063819,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50282,
+      "num": 110850,
+      "word": "美国无法保证日本不会再打美国",
+      "onboard_time": 1765073181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49524,
@@ -715,7 +939,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 2370,
+      "raw_hot": 2733,
       "num": 1716760,
       "word": "盘点2025大国重器新突破",
       "onboard_time": 1764982700,

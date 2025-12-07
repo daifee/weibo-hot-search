@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765064328013,
+  "endTime": 1765073513773,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -531,6 +531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1110938,
+      "num": 612281,
+      "word": "爱奇艺颁奖失误",
+      "onboard_time": 1765039280,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107113,
       "num": 549969,
       "word": "高市早苗终于不嘴硬了",
@@ -851,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 908985,
+      "num": 1145437,
+      "word": "美国不允许任何国家过于强大",
+      "onboard_time": 1765067659,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 907156,
       "num": 1145145,
       "word": "九重紫",
@@ -1035,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 795466,
+      "num": 532440,
+      "word": "仅退款225个快递女子打造富婆人设",
+      "onboard_time": 1765072100,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 789028,
       "num": 789028,
       "word": "转账约饭法",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1764908661,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 763383,
+      "num": 405370,
+      "word": "杨幂魏大勋内场同框",
+      "onboard_time": 1765072100,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 758808,
@@ -2043,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528218,
+      "num": 528218,
+      "word": "唐诡打败苦尽柑来遇见你",
+      "onboard_time": 1765068980,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526347,
       "num": 350566,
       "word": "香港宣布拆除所有大维修的楼宇棚网",
@@ -2787,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436070,
+      "num": 167170,
+      "word": "杨幂 我看诡秘拍的照片",
+      "onboard_time": 1765069580,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434499,
       "num": 148162,
       "word": "暨南大学 学生宿舍装安检",
@@ -3337,6 +3385,14 @@
       "onboard_time": 1765011142,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386117,
+      "num": 386117,
+      "word": "比伯吐槽iPhone按钮设计",
+      "onboard_time": 1765071200,
+      "rank": 13,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 385892,
@@ -3907,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338871,
+      "num": 166310,
+      "word": "白鹿 没有白走的路",
+      "onboard_time": 1765072222,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338420,
       "num": 452721,
       "word": "应届生公考前得知被误录社保",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1764988640,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 304150,
+      "num": 304150,
+      "word": "秦岚撒娇",
+      "onboard_time": 1765072580,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 303612,
@@ -5043,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263839,
+      "num": 263839,
+      "word": "张凌赫发言徐若晗台下比心",
+      "onboard_time": 1765068022,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263358,
       "num": 263358,
       "word": "美女入殓师曝从业来最离奇事件",
@@ -5084,7 +5164,7 @@
     },
     {
       "raw_hot": 261673,
-      "num": 163883,
+      "num": 167687,
       "word": "劣迹网红复出乱象",
       "onboard_time": 1765062796,
       "rank": 12,
@@ -5625,6 +5705,14 @@
       "onboard_time": 1764896180,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235755,
+      "num": 166120,
+      "word": "特朗普或将给高市早苗放权",
+      "onboard_time": 1765068500,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235607,
@@ -6460,7 +6548,7 @@
     },
     {
       "raw_hot": 206934,
-      "num": 119676,
+      "num": 441474,
       "word": "大雪",
       "onboard_time": 1765063877,
       "rank": 12,
@@ -6641,6 +6729,14 @@
       "onboard_time": 1764574102,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204251,
+      "num": 165925,
+      "word": "长安二十四计定档",
+      "onboard_time": 1765071800,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 204233,
@@ -7403,6 +7499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 188881,
+      "num": 165585,
+      "word": "起床不要一睁眼就刷手机",
+      "onboard_time": 1765063937,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188726,
       "num": 188726,
       "word": "这居然是51岁的林志颖",
@@ -8033,14 +8137,6 @@
       "onboard_time": 1764915141,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179143,
-      "num": 90684,
-      "word": "起床不要一睁眼就刷手机",
-      "onboard_time": 1765063937,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 178984,
@@ -8705,6 +8801,14 @@
       "onboard_time": 1764937102,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165352,
+      "num": 165352,
+      "word": "杨志刚有点像喝多了",
+      "onboard_time": 1765069341,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 165240,
@@ -10475,6 +10579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "翟子路回应叫错李兰迪名字",
+      "onboard_time": 1765066580,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141166,
       "num": 141166,
       "word": "艾米 气血充盈的美",
@@ -10624,6 +10736,14 @@
       "word": "国乒男单男双各丢2分",
       "onboard_time": 1765009044,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139370,
+      "num": 581125,
+      "word": "2025成都混团世界杯",
+      "onboard_time": 1765071200,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -10961,6 +11081,14 @@
       "onboard_time": 1764664823,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135833,
+      "num": 167498,
+      "word": "美国重返亚洲战略出现重大转向",
+      "onboard_time": 1765062736,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135749,
@@ -11657,6 +11785,14 @@
       "onboard_time": 1764838282,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128812,
+      "num": 128812,
+      "word": "速效救心丸 舌下含服",
+      "onboard_time": 1765069401,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128657,
@@ -12563,6 +12699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119902,
+      "num": 119902,
+      "word": "境外间谍在政府周边设恶意WiFi",
+      "onboard_time": 1765071200,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119844,
       "num": 119844,
       "word": "汶川地震女孩回应与施救军人结婚",
@@ -12601,6 +12745,14 @@
       "onboard_time": 1764686183,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119513,
+      "num": 119513,
+      "word": "马克龙用中文感谢中国",
+      "onboard_time": 1765071080,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119422,
@@ -12793,6 +12945,14 @@
       "onboard_time": 1764667521,
       "rank": 48,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 118062,
+      "num": 118062,
+      "word": "99年博士已任浙大博导",
+      "onboard_time": 1765072880,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117911,
@@ -13411,6 +13571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112784,
+      "num": 112784,
+      "word": "国乒vs韩国",
+      "onboard_time": 1764814700,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112409,
       "num": 112409,
       "word": "张雪峰抖音账号30天掉粉近13万",
@@ -13603,6 +13771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110105,
+      "num": 110105,
+      "word": "林诗栋vs张禹珍",
+      "onboard_time": 1765072640,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110074,
       "num": 110074,
       "word": "A股重磅利好来了",
@@ -13673,6 +13849,14 @@
       "onboard_time": 1764837981,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 109377,
+      "num": 517267,
+      "word": "利物浦 萨拉赫",
+      "onboard_time": 1765063697,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 109347,
@@ -13881,6 +14065,14 @@
       "onboard_time": 1764766221,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107515,
+      "num": 107515,
+      "word": "小酒窝尖叫之夜合影的明星",
+      "onboard_time": 1765063338,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 107496,
@@ -15555,6 +15747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94126,
+      "num": 166809,
+      "word": "为让婚车不走回头路司机放倒三轮车",
+      "onboard_time": 1765073242,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94066,
       "num": 94066,
       "word": "马克龙称此次访华之行很棒",
@@ -15617,6 +15817,14 @@
       "onboard_time": 1764843321,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93255,
+      "num": 93255,
+      "word": "今年的流感病毒是个老对手",
+      "onboard_time": 1765065738,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93087,
@@ -15713,6 +15921,14 @@
       "onboard_time": 1764763280,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91979,
+      "num": 91979,
+      "word": "水库发现13匹冰冻马",
+      "onboard_time": 1765036642,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91963,
@@ -15915,27 +16131,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90601,
-      "num": 90601,
-      "word": "美国重返亚洲战略出现重大转向",
-      "onboard_time": 1765062736,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90594,
       "num": 90594,
       "word": "王楚钦孙颖莎3比0克罗地亚组合",
       "onboard_time": 1764743540,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90587,
-      "num": 90587,
-      "word": "国乒vs韩国",
-      "onboard_time": 1764814700,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -15953,6 +16153,14 @@
       "onboard_time": 1764986300,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90457,
+      "num": 90457,
+      "word": "徐梦桃赛季首冠",
+      "onboard_time": 1765072760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90332,
@@ -16979,6 +17187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 80087,
+      "num": 473947,
+      "word": "新疆高速交通事故9死7伤",
+      "onboard_time": 1765072880,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80018,
       "num": 87808,
       "word": "解说感叹孙颖莎接发球特别好",
@@ -17755,6 +17971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69986,
+      "num": 489204,
+      "word": "省考",
+      "onboard_time": 1765068320,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69853,
       "num": 125939,
       "word": "A股缩量2805亿",
@@ -18075,14 +18299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64435,
-      "num": 64435,
-      "word": "小酒窝尖叫之夜合影的明星",
-      "onboard_time": 1765063338,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 64264,
       "num": 147612,
       "word": "迪丽热巴聂九罗睡衣穿搭",
@@ -18233,14 +18449,6 @@
       "onboard_time": 1764829041,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60169,
-      "num": 60169,
-      "word": "利物浦 萨拉赫",
-      "onboard_time": 1765063697,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 59999,
@@ -18881,6 +19089,14 @@
       "onboard_time": 1765012104,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50282,
+      "num": 110850,
+      "word": "美国无法保证日本不会再打美国",
+      "onboard_time": 1765073181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49925,
