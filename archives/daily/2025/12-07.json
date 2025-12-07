@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765111772750,
+  "endTime": 1765112618972,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -56,6 +56,14 @@
       "word": "尖叫之夜内场",
       "onboard_time": 1765019601,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1320972,
+      "num": 335235,
+      "word": "张凌赫偷瞄白鹿",
+      "onboard_time": 1765110681,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 664875,
-      "num": 231135,
+      "num": 294002,
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
@@ -267,16 +275,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 566643,
-      "num": 214364,
-      "word": "张凌赫偷瞄白鹿",
-      "onboard_time": 1765110681,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547472,
-      "num": 1082531,
+      "num": 1087575,
       "word": "腾讯视频星光大赏",
       "onboard_time": 1765095860,
       "rank": 18,
@@ -411,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 443257,
+      "num": 443257,
+      "word": "地铁上用围巾擦奶茶的女生找到啦",
+      "onboard_time": 1765104622,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 436070,
       "num": 243187,
       "word": "杨幂 我看诡秘拍的照片",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 434528,
-      "num": 222821,
+      "num": 299956,
       "word": "你的婚纱照可能被卖了",
       "onboard_time": 1765109303,
       "rank": 6,
@@ -483,14 +491,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 383446,
-      "num": 383446,
-      "word": "地铁上用围巾擦奶茶的女生找到啦",
-      "onboard_time": 1765104622,
-      "rank": 32,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 382581,
       "num": 288929,
       "word": "得闲谨制 幕后制作王一博",
@@ -513,6 +513,14 @@
       "onboard_time": 1765072222,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355148,
+      "num": 222561,
+      "word": "婴儿被褥印不雅英文字母",
+      "onboard_time": 1765108881,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350756,
@@ -571,6 +579,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 326523,
+      "num": 173945,
+      "word": "谢楠小儿子一把抱住陈妍希儿子",
+      "onboard_time": 1765108881,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324274,
       "num": 219697,
       "word": "于正称因平台有补偿才准周柯宇的假",
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321416,
+      "num": 149018,
+      "word": "金士杰近60岁生了龙凤胎",
+      "onboard_time": 1765111581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321108,
       "num": 2079315,
       "word": "公考枪手替考89次敛财千万",
@@ -617,14 +641,6 @@
       "onboard_time": 1765075761,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 317256,
-      "num": 173945,
-      "word": "谢楠小儿子一把抱住陈妍希儿子",
-      "onboard_time": 1765108881,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 316096,
@@ -731,6 +747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275090,
+      "num": 275090,
+      "word": "肖战得闲谨制登上新闻联播",
+      "onboard_time": 1765110800,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 268894,
+      "num": 214247,
+      "word": "美防长警告日本",
+      "onboard_time": 1765107982,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 263839,
       "num": 263839,
       "word": "张凌赫发言徐若晗台下比心",
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255331,
+      "num": 211405,
+      "word": "虞书欣的12分18秒",
+      "onboard_time": 1765107142,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -819,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237268,
-      "num": 222561,
-      "word": "婴儿被褥印不雅英文字母",
-      "onboard_time": 1765108881,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236737,
       "num": 178513,
       "word": "孙天宇晒喜人合影",
@@ -849,22 +881,6 @@
       "onboard_time": 1765087041,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 233929,
-      "num": 214247,
-      "word": "美防长警告日本",
-      "onboard_time": 1765107982,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 232509,
-      "num": 211405,
-      "word": "虞书欣的12分18秒",
-      "onboard_time": 1765107142,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 232318,
@@ -953,14 +969,6 @@
       "onboard_time": 1765032685,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214531,
-      "num": 214531,
-      "word": "肖战得闲谨制登上新闻联播",
-      "onboard_time": 1765110800,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 212320,
@@ -1251,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174743,
+      "num": 143919,
+      "word": "张雅钦古装美成啥了",
+      "onboard_time": 1765111701,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173665,
       "num": 173665,
       "word": "张呈雷淞然夺冠后双双买车",
@@ -1331,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164418,
+      "num": 214490,
+      "word": "LCK纪录片被曝曲解T1选手",
+      "onboard_time": 1765110561,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164290,
       "num": 315720,
       "word": "刘宇宁再多说一句就要哭出来了",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1765024041,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161265,
-      "num": 214490,
-      "word": "LCK纪录片被曝曲解T1选手",
-      "onboard_time": 1765110561,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 160014,
@@ -1459,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153649,
+      "num": 153649,
+      "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
+      "onboard_time": 1765111701,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "得闲谨制打破9项影史纪录",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1765080681,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149614,
+      "num": 149614,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1765105521,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 148498,
@@ -1595,14 +1627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139579,
-      "num": 139579,
-      "word": "张雅钦古装美成啥了",
-      "onboard_time": 1765111701,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139370,
       "num": 581125,
       "word": "2025成都混团世界杯",
@@ -1611,12 +1635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139317,
+      "num": 139317,
+      "word": "张奕然十一月舞蹈考核",
+      "onboard_time": 1765112061,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139284,
       "num": 139284,
       "word": "得闲谨制猫眼开分9.7分",
       "onboard_time": 1765094900,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138582,
+      "num": 132653,
+      "word": "SYG对战eStar",
+      "onboard_time": 1765106963,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 138260,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1765073901,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137268,
-      "num": 137268,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1765105521,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 136749,
@@ -1779,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128291,
+      "num": 128291,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1765108160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127682,
       "num": 140716,
       "word": "外网对日本文化祛魅",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1765093461,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 125400,
-      "num": 125400,
-      "word": "SYG对战eStar",
-      "onboard_time": 1765106963,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 124913,
@@ -2083,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113489,
+      "num": 113489,
+      "word": "杨幂上次嫌弃别人拍照还是赵又廷",
+      "onboard_time": 1765108762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113241,
       "num": 215604,
       "word": "爱你老己是什么梗",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1765072700,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112484,
+      "num": 112484,
+      "word": "王继续去了熟悉的米未",
+      "onboard_time": 1765112362,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 112475,
@@ -2235,14 +2283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107600,
-      "num": 107600,
-      "word": "杨幂上次嫌弃别人拍照还是赵又廷",
-      "onboard_time": 1765108762,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
@@ -2275,12 +2315,12 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 105032,
-      "num": 105032,
-      "word": "金士杰近60岁生了龙凤胎",
-      "onboard_time": 1765111581,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 105018,
+      "num": 105018,
+      "word": "不要再担心找不到工作了",
+      "onboard_time": 1765112302,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 104987,
@@ -2395,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98362,
-      "num": 98362,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1765108160,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98322,
       "num": 106495,
       "word": "N1听力",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97747,
-      "num": 97747,
-      "word": "王楚钦孙颖莎3比0松岛辉空大藤沙月",
-      "onboard_time": 1765111701,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 97133,
@@ -2899,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55093,
+      "num": 167721,
+      "word": "美国对中日外交争端保持沉默",
+      "onboard_time": 1765110319,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54651,
       "num": 134251,
       "word": "印度夜店火灾已致25死",
@@ -2931,12 +2963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50551,
-      "num": 167721,
-      "word": "美国对中日外交争端保持沉默",
-      "onboard_time": 1765110319,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 51177,
+      "num": 150506,
+      "word": "企业因薪资过高被限发招聘信息",
+      "onboard_time": 1765112061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50035,
@@ -3027,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42955,
+      "num": 179889,
+      "word": "我驻日大使提出严正交涉",
+      "onboard_time": 1765112061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40843,
       "num": 293196,
       "word": "下周降6到10摄氏度",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1765105821,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35615,
+      "num": 113551,
+      "word": "贝宁部分军人发动政变",
+      "onboard_time": 1765111881,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35133,
@@ -3132,7 +3180,7 @@
     },
     {
       "raw_hot": 23632,
-      "num": 284682,
+      "num": 341662,
       "word": "2025大家说宪法",
       "onboard_time": 1765100445,
       "rank": 2,
@@ -3145,6 +3193,14 @@
       "onboard_time": 1765095561,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21167,
+      "num": 115255,
+      "word": "男子在儿童沙池内反复搓脚",
+      "onboard_time": 1765111824,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21154,
@@ -3169,6 +3225,14 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20139,
+      "num": 139517,
+      "word": "马来西亚一中国女游客酒店9楼坠亡",
+      "onboard_time": 1765112422,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19867,
@@ -3257,6 +3321,9 @@
     },
     {
       "word": "#中法两国共有独立自主精神#"
+    },
+    {
+      "word": "#中法元首再次进行不打领带的友好交流#"
     }
   ]
 }
