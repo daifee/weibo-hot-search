@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765149907081,
+  "endTime": 1765150725486,
   "band_list": [
     {
       "raw_hot": 641124,
@@ -19,6 +19,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 555238,
+      "num": 153169,
+      "word": "庆功宴唯一素颜明星是黄景瑜",
+      "onboard_time": 1765149497,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547603,
       "num": 571540,
       "word": "狼队对战KSG",
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 546059,
-      "num": 852994,
+      "num": 890361,
       "word": "中方不接受日方所谓交涉",
       "onboard_time": 1765121242,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 453538,
+      "num": 152331,
+      "word": "日本预测大地震或致近2万人遇难",
+      "onboard_time": 1765149618,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 451958,
@@ -51,20 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399296,
+      "raw_hot": 426055,
       "num": 545016,
       "word": "男子欠近5000元房费酒店倒贴都不搬",
       "onboard_time": 1765117884,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295438,
-      "num": 95179,
-      "word": "庆功宴唯一素颜明星是黄景瑜",
-      "onboard_time": 1765149497,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 288151,
@@ -73,14 +81,6 @@
       "onboard_time": 1765120040,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246614,
-      "num": 101755,
-      "word": "日本预测大地震或致近2万人遇难",
-      "onboard_time": 1765149618,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 243453,
@@ -105,6 +105,14 @@
       "onboard_time": 1765119624,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 228974,
+      "num": 147354,
+      "word": "没有父母托举的普通人一生的任务",
+      "onboard_time": 1765149497,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 200440,
@@ -139,6 +147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 154403,
+      "num": 154403,
+      "word": "王楚钦采访太霸气了",
+      "onboard_time": 1765149317,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147835,
       "num": 490507,
       "word": "人贩子被判死缓后对被害人破口大骂",
@@ -147,7 +163,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142261,
+      "raw_hot": 145740,
       "num": 193641,
       "word": "榕江通报荒野求生女选手疑遭骚扰",
       "onboard_time": 1765121482,
@@ -179,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126099,
+      "num": 126099,
+      "word": "尹正想演军人但是被调剂了",
+      "onboard_time": 1765150037,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114461,
       "num": 194031,
       "word": "檀健次从屁股兜掏手机发微博",
@@ -187,23 +211,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110491,
-      "num": 110491,
-      "word": "王楚钦采访太霸气了",
-      "onboard_time": 1765149317,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110347,
-      "num": 90621,
-      "word": "没有父母托举的普通人一生的任务",
-      "onboard_time": 1765149497,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 106766,
+      "raw_hot": 110968,
       "num": 193695,
       "word": "金士杰近60岁生了龙凤胎",
       "onboard_time": 1765111581,
@@ -227,8 +235,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97867,
-      "num": 90366,
+      "raw_hot": 102212,
+      "num": 102212,
+      "word": "星光大赏名单",
+      "onboard_time": 1765150098,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98830,
+      "num": 98830,
       "word": "刘宇宁吃席打包",
       "onboard_time": 1765141393,
       "rank": 32,
@@ -267,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92302,
+      "num": 92302,
+      "word": "谢楠小儿子一把抱住陈妍希儿子",
+      "onboard_time": 1765108881,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91380,
       "num": 193830,
       "word": "虞书欣的12分18秒",
@@ -299,12 +323,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 81799,
-      "num": 81799,
-      "word": "谢楠小儿子一把抱住陈妍希儿子",
-      "onboard_time": 1765108881,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 76842,
+      "num": 76842,
+      "word": "皇马0比2塞尔塔",
+      "onboard_time": 1765149557,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 74660,
@@ -315,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71366,
+      "num": 68249,
+      "word": "刘国梁拍了下王楚钦肩膀",
+      "onboard_time": 1765149136,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70257,
       "num": 103440,
       "word": "一口一个姐姐一步一个心机",
       "onboard_time": 1765123640,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68929,
+      "num": 68929,
+      "word": "母亲肺癌手术儿子陪护时也查出肺癌",
+      "onboard_time": 1765150098,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67155,
@@ -331,20 +371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66723,
+      "num": 148590,
+      "word": "狼队三十二强",
+      "onboard_time": 1765149018,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 64314,
+      "num": 64314,
+      "word": "KPL",
+      "onboard_time": 1765150339,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64156,
       "num": 193532,
       "word": "你的婚纱照可能被卖了",
       "onboard_time": 1765109303,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63478,
-      "num": 63478,
-      "word": "狼队三十二强",
-      "onboard_time": 1765149018,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 61557,
@@ -443,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51295,
+      "num": 75642,
+      "word": "王一博微指破亿",
+      "onboard_time": 1765145115,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50698,
       "num": 103280,
       "word": "入室抢婴案",
       "onboard_time": 1765117222,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50632,
-      "num": 75642,
-      "word": "王一博微指破亿",
-      "onboard_time": 1765145115,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 50446,
@@ -475,8 +523,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48914,
-      "num": 48914,
+      "raw_hot": 49953,
+      "num": 49953,
+      "word": "杨幂曾吃糖葫芦把牙崩了",
+      "onboard_time": 1765149317,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49949,
+      "num": 49949,
       "word": "这些明星简直演我嗑cp",
       "onboard_time": 1765148057,
       "rank": 31,
@@ -491,20 +547,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48222,
-      "num": 48222,
-      "word": "刘国梁拍了下王楚钦肩膀",
-      "onboard_time": 1765149136,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46335,
       "num": 103213,
       "word": "枭起青壤",
       "onboard_time": 1765108402,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46099,
+      "num": 46099,
+      "word": "许昕说松岛辉空要罚站",
+      "onboard_time": 1765149798,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45883,
+      "num": 45883,
+      "word": "红秀",
+      "onboard_time": 1765149857,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 45637,
@@ -515,20 +579,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41446,
-      "num": 41446,
-      "word": "皇马0比2塞尔塔",
-      "onboard_time": 1765149557,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41178,
+      "raw_hot": 45510,
       "num": 75488,
       "word": "美国不再将俄罗斯称为直接威胁",
       "onboard_time": 1765135694,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44637,
+      "num": 44637,
+      "word": "新国标后外卖员超时工作账号会下线",
+      "onboard_time": 1765150220,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43421,
+      "num": 43421,
+      "word": "婴儿被褥印不雅英文字母",
+      "onboard_time": 1765108881,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41293,
+      "num": 75399,
+      "word": "哈尔滨的面包树上停满了小鸟",
+      "onboard_time": 1765134014,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38116,
@@ -555,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35024,
-      "num": 75399,
-      "word": "哈尔滨的面包树上停满了小鸟",
-      "onboard_time": 1765134014,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34453,
       "num": 193375,
       "word": "王楚然张晚意热聊",
@@ -587,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31152,
-      "num": 37111,
-      "word": "许昕说松岛辉空要罚站",
-      "onboard_time": 1765149798,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30998,
       "num": 75053,
       "word": "大生意人",
@@ -603,15 +667,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30548,
-      "num": 37071,
-      "word": "红秀",
-      "onboard_time": 1765149857,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 28938,
+      "raw_hot": 30459,
       "num": 646725,
       "word": "国产挖掘机零下40摄氏度一秒启动",
       "onboard_time": 1765113682,

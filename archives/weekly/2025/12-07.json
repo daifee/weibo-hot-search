@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765149907081,
+  "endTime": 1765150725486,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -315,8 +315,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555238,
+      "num": 153169,
+      "word": "庆功宴唯一素颜明星是黄景瑜",
+      "onboard_time": 1765149497,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546059,
-      "num": 852994,
+      "num": 890361,
       "word": "中方不接受日方所谓交涉",
       "onboard_time": 1765121242,
       "rank": 9,
@@ -473,6 +481,14 @@
       "onboard_time": 1765113442,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 453538,
+      "num": 152331,
+      "word": "日本预测大地震或致近2万人遇难",
+      "onboard_time": 1765149618,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 447286,
@@ -819,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295438,
-      "num": 95179,
-      "word": "庆功宴唯一素颜明星是黄景瑜",
-      "onboard_time": 1765149497,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288151,
       "num": 317667,
       "word": "全季酒店保洁用毛巾擦马桶",
@@ -1003,14 +1011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 246614,
-      "num": 101755,
-      "word": "日本预测大地震或致近2万人遇难",
-      "onboard_time": 1765149618,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 244141,
       "num": 213935,
       "word": "宋祖儿任嘉伦唠嗑唠生气了",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1765105340,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228974,
+      "num": 147354,
+      "word": "没有父母托举的普通人一生的任务",
+      "onboard_time": 1765149497,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 228495,
@@ -1755,6 +1763,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 154403,
+      "num": 154403,
+      "word": "王楚钦采访太霸气了",
+      "onboard_time": 1765149317,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153903,
       "num": 131851,
       "word": "被一只猫冷暴力了3年",
@@ -1891,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145740,
+      "num": 193641,
+      "word": "榕江通报荒野求生女选手疑遭骚扰",
+      "onboard_time": 1765121482,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 145644,
       "num": 145644,
       "word": "仙逆",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1765116144,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142261,
-      "num": 193641,
-      "word": "榕江通报荒野求生女选手疑遭骚扰",
-      "onboard_time": 1765121482,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141190,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1765105161,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126099,
+      "num": 126099,
+      "word": "尹正想演军人但是被调剂了",
+      "onboard_time": 1765150037,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 125722,
@@ -2731,22 +2755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110491,
-      "num": 110491,
-      "word": "王楚钦采访太霸气了",
-      "onboard_time": 1765149317,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110347,
-      "num": 90621,
-      "word": "没有父母托举的普通人一生的任务",
-      "onboard_time": 1765149497,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110146,
       "num": 110146,
       "word": "卓沅直播",
@@ -2931,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102212,
+      "num": 102212,
+      "word": "星光大赏名单",
+      "onboard_time": 1765150098,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102048,
       "num": 121892,
       "word": "那英说歌坛很需要活人",
@@ -2995,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98830,
+      "num": 98830,
+      "word": "刘宇宁吃席打包",
+      "onboard_time": 1765141393,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98475,
       "num": 98475,
       "word": "尖叫之夜 没有一个不漂亮",
@@ -3025,14 +3049,6 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97867,
-      "num": 90366,
-      "word": "刘宇宁吃席打包",
-      "onboard_time": 1765141393,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 97133,
@@ -3347,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76842,
+      "num": 76842,
+      "word": "皇马0比2塞尔塔",
+      "onboard_time": 1765149557,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -3419,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71366,
+      "num": 68249,
+      "word": "刘国梁拍了下王楚钦肩膀",
+      "onboard_time": 1765149136,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70472,
       "num": 73056,
       "word": "身上肉软其实就是体脂率高",
@@ -3440,6 +3472,14 @@
       "word": "丈夫把2套房过户前妻",
       "onboard_time": 1765098201,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68929,
+      "num": 68929,
+      "word": "母亲肺癌手术儿子陪护时也查出肺癌",
+      "onboard_time": 1765150098,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3475,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66723,
+      "num": 148590,
+      "word": "狼队三十二强",
+      "onboard_time": 1765149018,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65159,
       "num": 201362,
       "word": "当比亚迪海洋车主踢馆香港明星足球队",
@@ -3499,11 +3547,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 63478,
-      "num": 63478,
-      "word": "狼队三十二强",
-      "onboard_time": 1765149018,
-      "rank": 27,
+      "raw_hot": 64314,
+      "num": 64314,
+      "word": "KPL",
+      "onboard_time": 1765150339,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -3675,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51295,
+      "num": 75642,
+      "word": "王一博微指破亿",
+      "onboard_time": 1765145115,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51249,
       "num": 125410,
       "word": "日本军国主义大有卷土重来之势",
@@ -3683,20 +3739,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50632,
-      "num": 75642,
-      "word": "王一博微指破亿",
-      "onboard_time": 1765145115,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50035,
       "num": 1033717,
       "word": "冬天里的大美中国",
       "onboard_time": 1765080081,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49953,
+      "num": 49953,
+      "word": "杨幂曾吃糖葫芦把牙崩了",
+      "onboard_time": 1765149317,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49949,
+      "num": 49949,
+      "word": "这些明星简直演我嗑cp",
+      "onboard_time": 1765148057,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 49524,
@@ -3712,14 +3776,6 @@
       "word": "杨幂带着一家人压轴",
       "onboard_time": 1765043177,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48914,
-      "num": 48914,
-      "word": "这些明星简直演我嗑cp",
-      "onboard_time": 1765148057,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -3739,14 +3795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48222,
-      "num": 48222,
-      "word": "刘国梁拍了下王楚钦肩膀",
-      "onboard_time": 1765149136,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46501,
       "num": 116611,
       "word": "张俪观众缘",
@@ -3761,6 +3809,22 @@
       "onboard_time": 1765108402,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46099,
+      "num": 46099,
+      "word": "许昕说松岛辉空要罚站",
+      "onboard_time": 1765149798,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45883,
+      "num": 45883,
+      "word": "红秀",
+      "onboard_time": 1765149857,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 45807,
@@ -3779,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45510,
+      "num": 75488,
+      "word": "美国不再将俄罗斯称为直接威胁",
+      "onboard_time": 1765135694,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45227,
       "num": 109993,
       "word": "应急管理部指导连霍高速事故救援",
@@ -3793,6 +3865,14 @@
       "onboard_time": 1765063758,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44637,
+      "num": 44637,
+      "word": "新国标后外卖员超时工作账号会下线",
+      "onboard_time": 1765150220,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44320,
@@ -3811,20 +3891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41446,
-      "num": 41446,
-      "word": "皇马0比2塞尔塔",
-      "onboard_time": 1765149557,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41178,
-      "num": 75488,
-      "word": "美国不再将俄罗斯称为直接威胁",
-      "onboard_time": 1765135694,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 41293,
+      "num": 75399,
+      "word": "哈尔滨的面包树上停满了小鸟",
+      "onboard_time": 1765134014,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40843,
@@ -3923,14 +3995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35024,
-      "num": 75399,
-      "word": "哈尔滨的面包树上停满了小鸟",
-      "onboard_time": 1765134014,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34453,
       "num": 193375,
       "word": "王楚然张晚意热聊",
@@ -3971,14 +4035,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31152,
-      "num": 37111,
-      "word": "许昕说松岛辉空要罚站",
-      "onboard_time": 1765149798,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31098,
       "num": 111644,
       "word": "甘肃一小区发生火灾2人身亡",
@@ -4001,14 +4057,6 @@
       "onboard_time": 1765120282,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30548,
-      "num": 37071,
-      "word": "红秀",
-      "onboard_time": 1765149857,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 30113,
