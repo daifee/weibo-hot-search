@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765133279446,
+  "endTime": 1765135312680,
   "band_list": [
     {
       "raw_hot": 641124,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28513,
+      "num": 75591,
+      "word": "高价鸡蛋是智商税吗",
+      "onboard_time": 1765129755,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26179,
       "num": 646725,
       "word": "国产挖掘机零下40摄氏度一秒启动",
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22178,
-      "num": 75591,
-      "word": "高价鸡蛋是智商税吗",
-      "onboard_time": 1765129755,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19689,
       "num": 75578,
       "word": "写生至少得写吧",
@@ -497,6 +497,22 @@
       "onboard_time": 1765130175,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15437,
+      "num": 50433,
+      "word": "哈尔滨的面包树上停满了小鸟",
+      "onboard_time": 1765134014,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12747,
+      "num": 49915,
+      "word": "于正说杨幂值得更好的",
+      "onboard_time": 1765135094,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
