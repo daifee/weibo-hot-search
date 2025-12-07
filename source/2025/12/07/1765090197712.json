@@ -1,0 +1,410 @@
+{
+  "runTime": 1765090197712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796955,
+        "num": 1127512,
+        "word": "爱奇艺道歉",
+        "onboard_time": 1765037902,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775587,
+        "num": 775587,
+        "word": "日本自卫队滋扰辽宁舰编队训练",
+        "onboard_time": 1765084582,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21920,
+        "num": 620980,
+        "word": "冬天里的大美中国",
+        "onboard_time": 1765080081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532239,
+        "num": 532239,
+        "word": "女子仅退款225个快递或面临数年徒刑",
+        "onboard_time": 1765083861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203450,
+        "num": 203450,
+        "word": "省考",
+        "onboard_time": 1765068320,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374426,
+        "num": 202453,
+        "word": "白鹿尖叫女演员",
+        "onboard_time": 1765037182,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372111,
+        "num": 201358,
+        "word": "仅退款225个快递女子打造富婆人设",
+        "onboard_time": 1765072100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283941,
+        "num": 200771,
+        "word": "迪丽热巴 我有点不认识你了",
+        "onboard_time": 1765082300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108776,
+        "num": 199445,
+        "word": "王楚钦紧急撤回一次击掌",
+        "onboard_time": 1765077680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95167,
+        "num": 198799,
+        "word": "山东省考 谁出的图推",
+        "onboard_time": 1765078101,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 630452,
+        "num": 197754,
+        "word": "小酒窝晒了17张尖叫之夜合照",
+        "onboard_time": 1765079661,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528356,
+        "num": 195885,
+        "word": "男子隐瞒遗传病生子致女儿患病",
+        "onboard_time": 1765085301,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462982,
+        "num": 195611,
+        "word": "王楚然从南湘变成唐宛如了",
+        "onboard_time": 1765084942,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458996,
+        "num": 194147,
+        "word": "男女涉卖淫嫖娼被罚300元",
+        "onboard_time": 1765083081,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 453513,
+        "num": 193152,
+        "word": "课本上明太祖照片换了",
+        "onboard_time": 1765088480,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367496,
+        "num": 191578,
+        "word": "金晨 金秘书",
+        "onboard_time": 1765082902,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325674,
+        "num": 191033,
+        "word": "白鹿回应获尖叫女演员",
+        "onboard_time": 1765081521,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305512,
+        "num": 190107,
+        "word": "曾舜晞躲C那张合影放出来了",
+        "onboard_time": 1765086440,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101993,
+        "num": 188331,
+        "word": "江苏省考 草稿纸",
+        "onboard_time": 1765080201,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187966,
+        "num": 187966,
+        "word": "男童掉冰窟13岁女孩施救后默默离开",
+        "onboard_time": 1765088900,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382091,
+        "num": 184464,
+        "word": "李昀锐告了132人",
+        "onboard_time": 1765085001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210248,
+        "num": 182858,
+        "word": "日方称歼15用雷达照射日本战机",
+        "onboard_time": 1765082421,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 189660,
+        "num": 181705,
+        "word": "林青霞自曝豪宅遭大量蟑螂入侵",
+        "onboard_time": 1765080440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175236,
+        "num": 175236,
+        "word": "法新社 马克龙",
+        "onboard_time": 1765079481,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154939,
+        "num": 154939,
+        "word": "杨幂魏大勋内场同框",
+        "onboard_time": 1765072100,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154060,
+        "num": 154060,
+        "word": "中国海军将采取必要措施",
+        "onboard_time": 1765085181,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151476,
+        "num": 151476,
+        "word": "妻子回应丈夫把2套房过户前妻",
+        "onboard_time": 1765089561,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 140691,
+        "word": "陈妍希怎么做到姐感妹感都有的",
+        "onboard_time": 1765089080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137425,
+        "num": 137425,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1765077441,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113883,
+        "num": 122675,
+        "word": "嘎子谢孟伟穿警服直播带货卖假酒",
+        "onboard_time": 1765081340,
+        "rank": 29,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "打包价和拿货价区别",
+        "onboard_time": 1765089440,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118466,
+        "num": 118466,
+        "word": "虞书欣喻言陆柯燃杜华合照",
+        "onboard_time": 1765086260,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 118191,
+        "word": "苹果烤蛋奶",
+        "onboard_time": 1765089861,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116889,
+        "num": 116889,
+        "word": "刘宇宁的嘴被吓成TypeC了",
+        "onboard_time": 1765087701,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115151,
+        "num": 115151,
+        "word": "徐艺洋黄子韬 川渝暴龙和耙耳朵",
+        "onboard_time": 1765086321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108861,
+        "num": 108861,
+        "word": "杨幂 为俺嫂子打call",
+        "onboard_time": 1765088961,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106919,
+        "num": 106919,
+        "word": "王曼昱谈及身体状况只有坚持",
+        "onboard_time": 1765088240,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106321,
+        "num": 106321,
+        "word": "得闲谨制 中华门一带的南京话",
+        "onboard_time": 1765088240,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13118,
+        "num": 104456,
+        "word": "饲养员称被攻击因黑熊想吃胡萝卜",
+        "onboard_time": 1765089501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40690,
+        "num": 103697,
+        "word": "孙颖莎说全力以赴赢下决赛",
+        "onboard_time": 1765089080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103691,
+        "num": 103691,
+        "word": "胡先煦王安宇惨遭闺蜜退货",
+        "onboard_time": 1765086861,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103657,
+        "num": 103657,
+        "word": "正式确诊为饺子",
+        "onboard_time": 1765085961,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 99134,
+        "num": 99134,
+        "word": "要吃多少蛋才能成角",
+        "onboard_time": 1765089741,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98260,
+        "num": 98260,
+        "word": "范丞丞想跟谢霆锋一起吃饭",
+        "onboard_time": 1765090041,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95926,
+        "num": 95926,
+        "word": "于正说赵晴每天运动超过六小时",
+        "onboard_time": 1765080201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94880,
+        "num": 94880,
+        "word": "法媒报道马克龙与中国人互动",
+        "onboard_time": 1765089322,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94231,
+        "num": 94231,
+        "word": "荷兰大臣称没想到中方真叫停芯片出口",
+        "onboard_time": 1765088600,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94032,
+        "num": 94032,
+        "word": "女子洗衣结束发现猫咪在洗衣机里",
+        "onboard_time": 1765074140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92039,
+        "num": 92039,
+        "word": "在炫富网红直播间买包收到假货",
+        "onboard_time": 1765090160,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89425,
+        "num": 89425,
+        "word": "张俪 国服米莱狄",
+        "onboard_time": 1765090160,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}

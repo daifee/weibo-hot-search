@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765089449682,
+  "endTime": 1765090197712,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -2155,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528356,
+      "num": 284874,
+      "word": "男子隐瞒遗传病生子致女儿患病",
+      "onboard_time": 1765085301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 528218,
       "num": 528218,
       "word": "唐诡打败苦尽柑来遇见你",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1764750801,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 517219,
-      "num": 284874,
-      "word": "男子隐瞒遗传病生子致女儿患病",
-      "onboard_time": 1765085301,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 516343,
@@ -2785,6 +2785,14 @@
       "onboard_time": 1764579262,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 453513,
+      "num": 193152,
+      "word": "课本上明太祖照片换了",
+      "onboard_time": 1765088480,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 452556,
@@ -4691,6 +4699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305512,
+      "num": 213460,
+      "word": "曾舜晞躲C那张合影放出来了",
+      "onboard_time": 1765086440,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305448,
       "num": 305448,
       "word": "肖战让小朋友别喊哥哥喊叔叔",
@@ -4793,14 +4809,6 @@
       "onboard_time": 1765074140,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299665,
-      "num": 213460,
-      "word": "曾舜晞躲C那张合影放出来了",
-      "onboard_time": 1765086440,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 298011,
@@ -5697,14 +5705,6 @@
       "onboard_time": 1764829461,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245645,
-      "num": 125582,
-      "word": "课本上明太祖照片换了",
-      "onboard_time": 1765088480,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 245231,
@@ -7881,6 +7881,14 @@
       "onboard_time": 1764665301,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187966,
+      "num": 187966,
+      "word": "男童掉冰窟13岁女孩施救后默默离开",
+      "onboard_time": 1765088900,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187879,
@@ -10323,6 +10331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "妻子回应丈夫把2套房过户前妻",
+      "onboard_time": 1765089561,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151322,
       "num": 151322,
       "word": "政务公示用明星和人名大全名字太荒诞",
@@ -11129,6 +11145,14 @@
       "onboard_time": 1764732862,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 140691,
+      "num": 140691,
+      "word": "陈妍希怎么做到姐感妹感都有的",
+      "onboard_time": 1765089080,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 140635,
@@ -12443,14 +12467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127436,
-      "num": 127436,
-      "word": "男童掉冰窟13岁女孩施救后默默离开",
-      "onboard_time": 1765088900,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127356,
       "num": 127356,
       "word": "得闲谨制 笑点和道德反复打架",
@@ -13227,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120333,
+      "num": 120333,
+      "word": "打包价和拿货价区别",
+      "onboard_time": 1765089440,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 120263,
       "num": 120263,
       "word": "徐艺洋黄子韬 川渝暴龙和耙耳朵",
@@ -13569,6 +13593,14 @@
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118191,
+      "num": 118191,
+      "word": "苹果烤蛋奶",
+      "onboard_time": 1765089861,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 118030,
@@ -14187,14 +14219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113193,
-      "num": 113193,
-      "word": "陈妍希怎么做到姐感妹感都有的",
-      "onboard_time": 1765089080,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113161,
       "num": 113161,
       "word": "大额存单转让火爆",
@@ -14651,6 +14675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108861,
+      "num": 108861,
+      "word": "杨幂 为俺嫂子打call",
+      "onboard_time": 1765088961,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108817,
       "num": 150275,
       "word": "ChatGPT评21世纪最伟大运动员",
@@ -14753,14 +14785,6 @@
       "onboard_time": 1764767361,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107929,
-      "num": 107929,
-      "word": "杨幂 为俺嫂子打call",
-      "onboard_time": 1765088961,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 107907,
@@ -15987,6 +16011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99134,
+      "num": 99134,
+      "word": "要吃多少蛋才能成角",
+      "onboard_time": 1765089741,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99049,
       "num": 153483,
       "word": "张柏芝宁静觉得一夜爆红蛮爽的",
@@ -16065,6 +16097,14 @@
       "onboard_time": 1765005081,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98260,
+      "num": 98260,
+      "word": "范丞丞想跟谢霆锋一起吃饭",
+      "onboard_time": 1765090041,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 98145,
@@ -16723,6 +16763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 92039,
+      "num": 92039,
+      "word": "在炫富网红直播间买包收到假货",
+      "onboard_time": 1765090160,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91979,
       "num": 91979,
       "word": "水库发现13匹冰冻马",
@@ -17049,6 +17097,14 @@
       "onboard_time": 1764643640,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89425,
+      "num": 89425,
+      "word": "张俪 国服米莱狄",
+      "onboard_time": 1765090160,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 89389,
@@ -22529,6 +22585,14 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13118,
+      "num": 104456,
+      "word": "饲养员称被攻击因黑熊想吃胡萝卜",
+      "onboard_time": 1765089501,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13098,
