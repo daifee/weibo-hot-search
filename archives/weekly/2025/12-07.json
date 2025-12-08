@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765168922874,
+  "endTime": 1765169648769,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2030167,
+      "num": 2030167,
+      "word": "星光大赏阵容官宣",
+      "onboard_time": 1765167920,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1963944,
       "num": 1963944,
       "word": "省考",
@@ -41,14 +49,6 @@
       "onboard_time": 1765104321,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1705750,
-      "num": 1705750,
-      "word": "星光大赏阵容官宣",
-      "onboard_time": 1765167920,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1682041,
@@ -81,6 +81,14 @@
       "onboard_time": 1765116442,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1441003,
+      "num": 304114,
+      "word": "刘亦菲瘦了",
+      "onboard_time": 1765169541,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218894,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 858848,
-      "num": 628307,
+      "num": 777903,
       "word": "红楼梦 悼明",
       "onboard_time": 1765163421,
       "rank": 11,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 808952,
-      "num": 713175,
+      "num": 818349,
       "word": "我叫李飞",
       "onboard_time": 1765164140,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 798654,
+      "num": 798654,
+      "word": "白鹿 张凌赫",
+      "onboard_time": 1765167442,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 792143,
@@ -249,14 +265,6 @@
       "onboard_time": 1765096641,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 760150,
-      "num": 619855,
-      "word": "白鹿 张凌赫",
-      "onboard_time": 1765167442,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 732078,
@@ -329,6 +337,14 @@
       "onboard_time": 1765116684,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 638559,
+      "num": 638559,
+      "word": "王楚然提抹胸",
+      "onboard_time": 1765167442,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 622550,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524431,
+      "num": 524431,
+      "word": "林俊杰 大牌小耍",
+      "onboard_time": 1765167021,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 519085,
       "num": 320284,
       "word": "王楚然从南湘变成唐宛如了",
@@ -467,20 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 515421,
-      "num": 515421,
-      "word": "王楚然提抹胸",
-      "onboard_time": 1765167442,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 514447,
       "num": 265395,
       "word": "刘亦菲阿布扎比观赛F1",
       "onboard_time": 1765112661,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 514051,
+      "num": 315385,
+      "word": "钟丽缇想让女儿上清北",
+      "onboard_time": 1765168042,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 501961,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 478774,
-      "num": 646368,
+      "num": 808795,
       "word": "得闲谨制",
       "onboard_time": 1765028664,
       "rank": 39,
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424337,
-      "num": 424337,
-      "word": "林俊杰 大牌小耍",
-      "onboard_time": 1765167021,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 410933,
       "num": 264734,
       "word": "李昀锐告了132人",
@@ -713,14 +729,6 @@
       "onboard_time": 1765116984,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402523,
-      "num": 315385,
-      "word": "钟丽缇想让女儿上清北",
-      "onboard_time": 1765168042,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 401349,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 371608,
-      "num": 303023,
+      "num": 318858,
       "word": "詹姆斯戴王冠",
       "onboard_time": 1765164021,
       "rank": 9,
@@ -1091,8 +1099,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290874,
-      "num": 642981,
+      "raw_hot": 297530,
+      "num": 806834,
       "word": "iPhone17Pro系列破发",
       "onboard_time": 1765165520,
       "rank": 33,
@@ -1323,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 242399,
+      "num": 242399,
+      "word": "鹅鸭杀公测定档",
+      "onboard_time": 1765168822,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241902,
       "num": 241902,
       "word": "爱奇艺年度喜爱女性角色",
@@ -1547,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207492,
+      "num": 207492,
+      "word": "成何体统 剧宣",
+      "onboard_time": 1765168101,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207327,
       "num": 182823,
       "word": "刘宇宁回应获尖叫男演员",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1765112061,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 201766,
-      "num": 201766,
-      "word": "鹅鸭杀公测定档",
-      "onboard_time": 1765168822,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 201676,
@@ -1819,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183834,
-      "num": 183834,
-      "word": "成何体统 剧宣",
-      "onboard_time": 1765168101,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183653,
       "num": 183653,
       "word": "黄景瑜张凌赫你俩说啥呢",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1765082421,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171400,
+      "num": 171400,
+      "word": "易梦玲素颜",
+      "onboard_time": 1765168224,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 170904,
@@ -2059,6 +2075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160487,
+      "num": 800074,
+      "word": "A股行情",
+      "onboard_time": 1765167501,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160014,
       "num": 160014,
       "word": "浙江申论",
@@ -2171,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153893,
+      "num": 153893,
+      "word": "李嘉格曾在综艺上哭诉",
+      "onboard_time": 1765169122,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153504,
       "num": 153504,
       "word": "林诗栋2比1张本智和",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1765089561,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150354,
+      "num": 150354,
+      "word": "第一次我比男主先爱上女主",
+      "onboard_time": 1765169122,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 150263,
@@ -2257,14 +2297,6 @@
       "onboard_time": 1765116863,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148930,
-      "num": 148930,
-      "word": "易梦玲素颜",
-      "onboard_time": 1765168224,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 148498,
@@ -2467,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137434,
+      "num": 323872,
+      "word": "零下30℃的漠河室内外温差达60℃",
+      "onboard_time": 1765167681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137431,
       "num": 137431,
       "word": "男子犯低血糖一头栽进麻辣烫",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1765159038,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136847,
+      "num": 136847,
+      "word": "秦岚 男人不重要",
+      "onboard_time": 1765169423,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 136749,
@@ -2625,14 +2673,6 @@
       "onboard_time": 1765111099,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131060,
-      "num": 635011,
-      "word": "A股行情",
-      "onboard_time": 1765167501,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 130827,
@@ -2835,6 +2875,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 124492,
+      "num": 622117,
+      "word": "看极光去北欧要3万去漠河仅3千",
+      "onboard_time": 1765167622,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124355,
       "num": 124355,
       "word": "喜欢拍照是高生命力的一种表现",
@@ -2955,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120559,
+      "num": 120559,
+      "word": "以为是那个李飞",
+      "onboard_time": 1765168762,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120333,
       "num": 120333,
       "word": "打包价和拿货价区别",
@@ -3009,14 +3065,6 @@
       "onboard_time": 1765115963,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119719,
-      "num": 119719,
-      "word": "以为是那个李飞",
-      "onboard_time": 1765168762,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 119513,
@@ -3315,6 +3363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112339,
+      "num": 112339,
+      "word": "数学学到最后已经看不到数字了",
+      "onboard_time": 1765169423,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112175,
+      "num": 112175,
+      "word": "他错了题但做对了人生",
+      "onboard_time": 1765169002,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112148,
       "num": 112148,
       "word": "王楚钦说和孙颖莎比以前更高效",
@@ -3459,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107998,
+      "num": 813972,
+      "word": "日本三季度GDP降幅扩大",
+      "onboard_time": 1765168942,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "动物园回应黑熊扑倒驯养员",
@@ -3489,14 +3561,6 @@
       "onboard_time": 1765162879,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105663,
-      "num": 323872,
-      "word": "零下30℃的漠河室内外温差达60℃",
-      "onboard_time": 1765167681,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105446,
@@ -3987,14 +4051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86647,
-      "num": 622117,
-      "word": "看极光去北欧要3万去漠河仅3千",
-      "onboard_time": 1765167622,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86604,
       "num": 103403,
       "word": "古平原1个信息差赚了450万",
@@ -4292,7 +4348,7 @@
     },
     {
       "raw_hot": 67943,
-      "num": 713247,
+      "num": 822068,
       "word": "尔滨雪人先生即将上线",
       "onboard_time": 1765165581,
       "rank": 2,
@@ -4331,6 +4387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 65106,
+      "num": 148948,
+      "word": "张函瑞第一次见皮皮",
+      "onboard_time": 1765169423,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64985,
       "num": 215760,
       "word": "兰晓龙回应太爷为什么不死",
@@ -4353,6 +4417,14 @@
       "onboard_time": 1765165279,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 63940,
+      "num": 309935,
+      "word": "日军被爆引导美军轰炸平民",
+      "onboard_time": 1765168882,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63071,
@@ -4716,7 +4788,7 @@
     },
     {
       "raw_hot": 41358,
-      "num": 639762,
+      "num": 803395,
       "word": "一起为7000多名残疾人运动员加油",
       "onboard_time": 1765165341,
       "rank": 8,
@@ -4825,6 +4897,14 @@
       "onboard_time": 1765105821,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36414,
+      "num": 148951,
+      "word": "阿凡达3中国首映礼",
+      "onboard_time": 1765169541,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 35615,
@@ -5091,6 +5171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18168,
+      "num": 131434,
+      "word": "波兰总理发帖哀求美国人被指丢脸",
+      "onboard_time": 1765168342,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17739,
       "num": 109817,
       "word": "孙颖莎绝妙回球变线",
@@ -5171,28 +5259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11948,
-      "num": 125498,
-      "word": "日军被爆引导美军轰炸平民",
-      "onboard_time": 1765168882,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10451,
       "num": 35136,
       "word": "枭起青壤 黑白涧大战",
       "onboard_time": 1765137674,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10076,
-      "num": 131434,
-      "word": "波兰总理发帖哀求美国人被指丢脸",
-      "onboard_time": 1765168342,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9491,
