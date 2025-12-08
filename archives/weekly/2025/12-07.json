@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765189956628,
+  "endTime": 1765190971746,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 658740,
+      "num": 256161,
+      "word": "马克龙回国后呼吁中国投资欧洲",
+      "onboard_time": 1765188441,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 657322,
       "num": 1105171,
       "word": "马克龙夫人身边的中国女保镖",
@@ -481,6 +489,14 @@
       "onboard_time": 1765077800,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 574634,
+      "num": 252672,
+      "word": "5月龄女婴手术离世鉴定程序中止",
+      "onboard_time": 1765187421,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 565657,
@@ -649,14 +665,6 @@
       "onboard_time": 1765083081,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 497062,
-      "num": 252672,
-      "word": "5月龄女婴手术离世鉴定程序中止",
-      "onboard_time": 1765187421,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 490089,
@@ -883,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433500,
+      "num": 255727,
+      "word": "得闲谨制票房",
+      "onboard_time": 1765186641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 433491,
       "num": 198488,
       "word": "乔欣南法度假",
       "onboard_time": 1765099041,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417270,
-      "num": 255727,
-      "word": "得闲谨制票房",
-      "onboard_time": 1765186641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 410933,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1765035742,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345822,
-      "num": 256161,
-      "word": "马克龙回国后呼吁中国投资欧洲",
-      "onboard_time": 1765188441,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 345688,
@@ -1443,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278146,
+      "num": 250912,
+      "word": "原来是迟蓬提醒的杨幂",
+      "onboard_time": 1765188320,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 276879,
       "num": 276879,
       "word": "李现 奖杯烫手",
@@ -1595,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 250912,
-      "num": 250912,
-      "word": "原来是迟蓬提醒的杨幂",
-      "onboard_time": 1765188320,
-      "rank": 21,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -1673,6 +1673,14 @@
       "onboard_time": 1765119624,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238841,
+      "num": 204839,
+      "word": "周杰伦晒和林俊杰合照",
+      "onboard_time": 1765188681,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 236737,
@@ -2019,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204839,
-      "num": 204839,
-      "word": "周杰伦晒和林俊杰合照",
-      "onboard_time": 1765188681,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204641,
       "num": 242974,
       "word": "苏州地铁全网寻找用围巾擦地女子",
@@ -2193,6 +2193,14 @@
       "onboard_time": 1765179440,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195853,
+      "num": 195853,
+      "word": "迪丽热巴两部剧人气TOP10",
+      "onboard_time": 1765190482,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 195781,
@@ -2507,6 +2515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 166940,
+      "num": 249437,
+      "word": "苟仲文被判死缓终身监禁不得减刑假释",
+      "onboard_time": 1765189702,
+      "rank": 22,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 166932,
       "num": 166932,
       "word": "诺里斯F1世界冠军",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1765102160,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166540,
+      "num": 166539,
+      "word": "向鱼回归",
+      "onboard_time": 1765189762,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 165763,
@@ -3155,6 +3179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137513,
+      "num": 179972,
+      "word": "郑恺搂着孩子亲苗苗",
+      "onboard_time": 1765189401,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137434,
       "num": 323872,
       "word": "零下30℃的漠河室内外温差达60℃",
@@ -3371,14 +3403,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130810,
-      "num": 130810,
-      "word": "向鱼回归",
-      "onboard_time": 1765189762,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130772,
       "num": 130772,
       "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1765150037,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125947,
+      "num": 195164,
+      "word": "中央定调明年经济政策",
+      "onboard_time": 1765190661,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 125722,
@@ -4027,14 +4059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115424,
-      "num": 249437,
-      "word": "苟仲文被判死缓终身监禁不得减刑假释",
-      "onboard_time": 1765189702,
-      "rank": 22,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 115178,
       "num": 115178,
       "word": "1178名中国籍涉诈人员被押解回国",
@@ -4049,6 +4073,14 @@
       "onboard_time": 1765167323,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114797,
+      "num": 114797,
+      "word": "5月龄女婴手术离世母亲再发声",
+      "onboard_time": 1765190901,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114663,
@@ -5051,6 +5083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90300,
+      "num": 157627,
+      "word": "BLG官宣Beichuan离队",
+      "onboard_time": 1765190601,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89874,
       "num": 89874,
       "word": "这就是语文老师说的借物喻人吗",
@@ -5939,20 +5979,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44522,
-      "num": 179972,
-      "word": "郑恺搂着孩子亲苗苗",
-      "onboard_time": 1765189401,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44320,
       "num": 113817,
       "word": "国外女子产下不同父亲的双胞胎",
       "onboard_time": 1765094900,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43731,
+      "num": 248086,
+      "word": "马航MH370部分家属索赔案一审宣判",
+      "onboard_time": 1765189641,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43400,
@@ -6105,14 +6145,6 @@
       "onboard_time": 1765105821,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 36479,
-      "num": 248086,
-      "word": "马航MH370部分家属索赔案一审宣判",
-      "onboard_time": 1765189641,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36414,
@@ -6395,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19896,
+      "num": 183493,
+      "word": "酒企女主播公开地域黑成都",
+      "onboard_time": 1765189822,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19867,
       "num": 890651,
       "word": "足协杯",
@@ -6515,6 +6555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13996,
+      "num": 190006,
+      "word": "11月我国外贸增速回升至4.1%",
+      "onboard_time": 1765190542,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13788,
       "num": 121688,
       "word": "3人疑在鄱阳湖湿地投毒被抓",
@@ -6555,6 +6603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9896,
+      "num": 189618,
+      "word": "冰雪经济新玩法带动新消费",
+      "onboard_time": 1765190542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9491,
       "num": 35363,
       "word": "原神fes抢票",
@@ -6571,11 +6627,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 6593,
-      "num": 183493,
-      "word": "酒企女主播公开地域黑成都",
-      "onboard_time": 1765189822,
-      "rank": 37,
+      "raw_hot": 5951,
+      "num": 195515,
+      "word": "这股冷空气过后又是一波寒潮",
+      "onboard_time": 1765190841,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -6585,6 +6641,14 @@
       "onboard_time": 1764982700,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1209,
+      "num": 252182,
+      "word": "残特奥会今日开幕",
+      "onboard_time": 1765154900,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -6596,6 +6660,9 @@
     },
     {
       "word": "#中法元首再次进行不打领带的友好交流#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }

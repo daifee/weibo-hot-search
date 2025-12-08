@@ -1,0 +1,410 @@
+{
+  "runTime": 1765190971746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 588054,
+        "num": 1094088,
+        "word": "苟仲文一审被判死缓",
+        "onboard_time": 1765185201,
+        "rank": 0,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 268965,
+        "num": 268965,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1209,
+        "num": 252182,
+        "word": "残特奥会今日开幕",
+        "onboard_time": 1765154900,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658740,
+        "num": 248396,
+        "word": "马克龙回国后呼吁中国投资欧洲",
+        "onboard_time": 1765188441,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239451,
+        "num": 239451,
+        "word": "王楚钦独守男单上半区",
+        "onboard_time": 1765187179,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574634,
+        "num": 231459,
+        "word": "5月龄女婴手术离世鉴定程序中止",
+        "onboard_time": 1765187421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239821,
+        "num": 228221,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195853,
+        "num": 195853,
+        "word": "迪丽热巴两部剧人气TOP10",
+        "onboard_time": 1765190482,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5951,
+        "num": 195515,
+        "word": "这股冷空气过后又是一波寒潮",
+        "onboard_time": 1765190841,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 195164,
+        "word": "中央定调明年经济政策",
+        "onboard_time": 1765190661,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2506940,
+        "num": 194636,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43731,
+        "num": 193740,
+        "word": "马航MH370部分家属索赔案一审宣判",
+        "onboard_time": 1765189641,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440630,
+        "num": 193165,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 433500,
+        "num": 192596,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20090,
+        "num": 192483,
+        "word": "易烊千玺淘宝",
+        "onboard_time": 1765105280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70071,
+        "num": 191451,
+        "word": "DYG战胜WE",
+        "onboard_time": 1765183340,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278146,
+        "num": 191357,
+        "word": "原来是迟蓬提醒的杨幂",
+        "onboard_time": 1765188320,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 61746,
+        "num": 190366,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13996,
+        "num": 190006,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9896,
+        "num": 189618,
+        "word": "冰雪经济新玩法带动新消费",
+        "onboard_time": 1765190542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166940,
+        "num": 188804,
+        "word": "苟仲文被判死缓终身监禁不得减刑假释",
+        "onboard_time": 1765189702,
+        "rank": 20,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 650291,
+        "num": 188317,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622125,
+        "num": 187581,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410779,
+        "num": 187565,
+        "word": "偶遇窦骁何超莲一起吃早餐",
+        "onboard_time": 1765188441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323764,
+        "num": 186927,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 238841,
+        "num": 186347,
+        "word": "周杰伦晒和林俊杰合照",
+        "onboard_time": 1765188681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215253,
+        "num": 185661,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197225,
+        "num": 184981,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 195979,
+        "num": 184432,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198082,
+        "num": 184109,
+        "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
+        "onboard_time": 1765188681,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183707,
+        "num": 183707,
+        "word": "网友首尔偶遇Angelababy",
+        "onboard_time": 1765186941,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183219,
+        "num": 183219,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175352,
+        "num": 175352,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174784,
+        "num": 174784,
+        "word": "浙大回应26岁研究员任博导",
+        "onboard_time": 1765183881,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 169796,
+        "num": 169796,
+        "word": "胖东来因抢购停售小方糖戒指",
+        "onboard_time": 1765178600,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78304,
+        "num": 166546,
+        "word": "小青盒建议流感别叫流感",
+        "onboard_time": 1765186520,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 166540,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166540,
+        "num": 166539,
+        "word": "向鱼回归",
+        "onboard_time": 1765189762,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19896,
+        "num": 160336,
+        "word": "酒企女主播公开地域黑成都",
+        "onboard_time": 1765189822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90300,
+        "num": 157627,
+        "word": "BLG官宣Beichuan离队",
+        "onboard_time": 1765190601,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9768,
+        "num": 155605,
+        "word": "一起为7000多名残疾人运动员加油",
+        "onboard_time": 1765165341,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155536,
+        "num": 155536,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 119447,
+        "num": 150022,
+        "word": "李纯新剧又来吐蛇信子了",
+        "onboard_time": 1765189460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149422,
+        "num": 149422,
+        "word": "尖叫之夜魏大勋前任现任都在",
+        "onboard_time": 1765186821,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "印尼男子性侵残疾女子遭围殴致死",
+        "onboard_time": 1765184540,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142804,
+        "num": 142804,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1765186040,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137513,
+        "num": 137513,
+        "word": "郑恺搂着孩子亲苗苗",
+        "onboard_time": 1765189401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119595,
+        "num": 119595,
+        "word": "内娱顶流圈现状",
+        "onboard_time": 1765180941,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 115682,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765170982,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114797,
+        "num": 114797,
+        "word": "5月龄女婴手术离世母亲再发声",
+        "onboard_time": 1765190901,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
