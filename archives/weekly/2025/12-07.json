@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765169648769,
+  "endTime": 1765171844229,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -163,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 901340,
+      "num": 798654,
+      "word": "白鹿 张凌赫",
+      "onboard_time": 1765167442,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 899951,
       "num": 617362,
       "word": "日本一成人商店惊现婴儿残尸",
@@ -249,14 +257,6 @@
       "onboard_time": 1765164140,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 798654,
-      "num": 798654,
-      "word": "白鹿 张凌赫",
-      "onboard_time": 1765167442,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 792143,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638259,
+      "num": 638259,
+      "word": "日军被爆引导美军轰炸平民",
+      "onboard_time": 1765168882,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 622550,
       "num": 545016,
       "word": "男子欠近5000元房费酒店倒贴都不搬",
@@ -361,6 +369,14 @@
       "onboard_time": 1765125198,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 608311,
+      "num": 608311,
+      "word": "痞幼自曝曾被两个恋综拒绝",
+      "onboard_time": 1765170263,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 591798,
@@ -867,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355569,
+      "num": 355569,
+      "word": "秦岚 男人不重要",
+      "onboard_time": 1765169423,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
       "onboard_time": 1765114941,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350877,
+      "num": 222459,
+      "word": "星光大赏 没有85花",
+      "onboard_time": 1765170199,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 350756,
@@ -969,6 +1001,14 @@
       "onboard_time": 1765165700,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 327085,
+      "num": 625364,
+      "word": "孟子义李昀锐 星光大赏",
+      "onboard_time": 1765170861,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 326523,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 242399,
-      "num": 242399,
+      "num": 630594,
       "word": "鹅鸭杀公测定档",
       "onboard_time": 1765168822,
       "rank": 30,
@@ -1392,6 +1432,14 @@
       "word": "韩泰等国发力承接中国游客",
       "onboard_time": 1765155621,
       "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234241,
+      "num": 234241,
+      "word": "日本婴儿残尸有刀具切割痕迹",
+      "onboard_time": 1765170082,
+      "rank": 18,
       "category": "海外新闻"
     },
     {
@@ -1491,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 218315,
+      "num": 218315,
+      "word": "张钧甯带助理减肥36斤",
+      "onboard_time": 1765171041,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217671,
       "num": 217671,
       "word": "周扬青 甲方就是爸爸",
@@ -1520,6 +1576,14 @@
       "word": "兰迪变云迪",
       "onboard_time": 1765032685,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213597,
+      "num": 213597,
+      "word": "偶像练习生七年后居然还有售后",
+      "onboard_time": 1765171281,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1593,6 +1657,14 @@
       "onboard_time": 1765039340,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205691,
+      "num": 205691,
+      "word": "Chovy剃寸头了",
+      "onboard_time": 1765170982,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 205639,
@@ -1787,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191107,
+      "num": 191107,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765073901,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189142,
       "num": 189142,
       "word": "天津市考",
@@ -1867,6 +1947,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 180272,
+      "num": 617555,
+      "word": "明日方舟",
+      "onboard_time": 1765170023,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177371,
       "num": 462422,
       "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1765167681,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173684,
+      "num": 194840,
+      "word": "47岁刘烨减重17斤新剧状态",
+      "onboard_time": 1765170500,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 173665,
@@ -2203,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153581,
+      "num": 136717,
+      "word": "星光大赏官宣时代少年团",
+      "onboard_time": 1765170861,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153504,
       "num": 153504,
       "word": "林诗栋2比1张本智和",
@@ -2403,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141110,
+      "num": 141110,
+      "word": "长期不吃早餐有什么影响",
+      "onboard_time": 1765165040,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140948,
       "num": 123633,
       "word": "刘宇宁你也有今天",
@@ -2433,6 +2545,14 @@
       "onboard_time": 1765164800,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139507,
+      "num": 139507,
+      "word": "放门口就行 汉武帝",
+      "onboard_time": 1765171041,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 139370,
@@ -2483,12 +2603,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138052,
-      "num": 138052,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765073901,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 138116,
+      "num": 138116,
+      "word": "易烊千玺说粉丝让他有底气去试错",
+      "onboard_time": 1765170740,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137598,
@@ -2521,14 +2641,6 @@
       "onboard_time": 1765159038,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136847,
-      "num": 136847,
-      "word": "秦岚 男人不重要",
-      "onboard_time": 1765169423,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 136749,
@@ -2585,6 +2697,14 @@
       "onboard_time": 1765106363,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135292,
+      "num": 135292,
+      "word": "陈晓剧里结婚忘掀盖头",
+      "onboard_time": 1765171341,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135248,
@@ -2995,6 +3115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121264,
+      "num": 136161,
+      "word": "一个肚子同时生出了捧哏和逗哏",
+      "onboard_time": 1765169840,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
@@ -3129,14 +3257,6 @@
       "onboard_time": 1765089861,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 118094,
-      "num": 118094,
-      "word": "长期不吃早餐有什么影响",
-      "onboard_time": 1765165040,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118030,
@@ -3275,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114240,
+      "num": 135718,
+      "word": "数学学到最后已经看不到数字了",
+      "onboard_time": 1765169423,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114223,
       "num": 114223,
       "word": "王继续去了熟悉的米未",
@@ -3355,20 +3483,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112474,
+      "num": 135217,
+      "word": "手机里什么APP最耗电",
+      "onboard_time": 1765170441,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112370,
       "num": 89468,
       "word": "黄景瑜邓超你俩坐一桌",
       "onboard_time": 1765103659,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112339,
-      "num": 112339,
-      "word": "数学学到最后已经看不到数字了",
-      "onboard_time": 1765169423,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 112175,
@@ -3731,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99947,
+      "num": 205741,
+      "word": "外媒关注中国发布全球首款AI手机",
+      "onboard_time": 1765170500,
+      "rank": 29,
+      "category": "国内时政,数码"
+    },
+    {
       "raw_hot": 99566,
       "num": 133860,
       "word": "陈晓孙千新剧一集结两次婚",
@@ -3769,6 +3905,14 @@
       "onboard_time": 1765099341,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98345,
+      "num": 138675,
+      "word": "醉酒丈夫负气离家落水遭死亡缠绕",
+      "onboard_time": 1765170023,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98322,
@@ -3865,6 +4009,14 @@
       "onboard_time": 1765096880,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94284,
+      "num": 138091,
+      "word": "谁教陈晓这样撒娇的",
+      "onboard_time": 1765170623,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 93576,
@@ -4419,14 +4571,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 63940,
-      "num": 309935,
-      "word": "日军被爆引导美军轰炸平民",
-      "onboard_time": 1765168882,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63071,
       "num": 651333,
       "word": "公共Wifi真不能随便蹭",
@@ -4771,11 +4915,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44034,
+      "num": 138191,
+      "word": "泰国男子杀人藏尸将母亲囚禁在同屋",
+      "onboard_time": 1765171221,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43400,
       "num": 126232,
       "word": "12306回应高铁盲文无凸起",
       "onboard_time": 1765095681,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43220,
+      "num": 232934,
+      "word": "婴儿被褥印不雅英文没有底线的操作",
+      "onboard_time": 1765171281,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
