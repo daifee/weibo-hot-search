@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765212740240,
+  "endTime": 1765214883549,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255859,
+      "num": 120184,
+      "word": "陈妍希眼线",
+      "onboard_time": 1765211479,
+      "rank": 30,
+      "category": "作品衍生,剧集"
+    },
+    {
       "raw_hot": 211226,
       "num": 133829,
       "word": "刘亦菲阿联酋素颜照",
@@ -73,14 +81,6 @@
       "onboard_time": 1765207702,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194684,
-      "num": 120184,
-      "word": "陈妍希眼线",
-      "onboard_time": 1765211479,
-      "rank": 30,
-      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 184434,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136552,
+      "num": 120610,
+      "word": "双轨",
+      "onboard_time": 1765211719,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "李现澳门扫街被路人警告",
@@ -177,14 +185,6 @@
       "onboard_time": 1765200862,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120610,
-      "num": 120610,
-      "word": "双轨",
-      "onboard_time": 1765211719,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 114191,
@@ -363,6 +363,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50878,
+      "num": 71915,
+      "word": "网传中国人国外旅游被印度小孩辱骂",
+      "onboard_time": 1765212737,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49930,
+      "num": 72144,
+      "word": "左奇函 等待一个12月的奇迹",
+      "onboard_time": 1765213398,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49540,
       "num": 96811,
       "word": "幼儿园虐童视频多到要用硬盘存",
@@ -387,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38499,
+      "num": 71131,
+      "word": "李小鹏女儿参加花滑赛",
+      "onboard_time": 1765212318,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35372,
+      "num": 70686,
+      "word": "花漾少女杀人事件",
+      "onboard_time": 1765194082,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33119,
       "num": 140373,
       "word": "LGDNBW对战Hero久竞",
@@ -403,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29548,
+      "num": 70516,
+      "word": "冬天洗澡劝你少做这3件事",
+      "onboard_time": 1765214656,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29488,
       "num": 96803,
       "word": "皇马深夜紧急磋商阿隆索去留",
@@ -411,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24325,
+      "num": 70325,
+      "word": "台湾花莲海域发生5.1级地震",
+      "onboard_time": 1765194141,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20951,
       "num": 284970,
       "word": "盘点2025",
       "onboard_time": 1765201341,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18551,
+      "num": 70191,
+      "word": "周冠宇发博告别25赛季",
+      "onboard_time": 1765205663,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
