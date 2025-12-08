@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 04:32:43
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 04:45:38
 </p>
 </blockquote>
 <p>
@@ -5643,6 +5643,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：20763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E7%9B%97%E7%94%A8%E5%89%AF%E6%89%80%E9%95%BF%E6%95%B0%E5%AD%97%E8%AF%81%E4%B9%A6%E5%94%AE%E5%8D%96%E5%85%AC%E6%B0%91%E4%BF%A1%E6%81%AF%23" target="weibo">
 辅警盗用副所长数字证书售卖公民信息（热度：20653）
 </a>
@@ -5763,12 +5769,6 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：17283）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E9%87%8C%E6%96%AF%E5%8A%A0%E5%86%95F1%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
 诺里斯加冕F1世界冠军（热度：16997）
 </a>
@@ -5824,7 +5824,7 @@ Gumayusi说能战胜T1（热度：40076）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E9%A2%A0%E5%80%92%E9%BB%91%E7%99%BD%E5%AB%81%E7%A5%B8%E4%BA%8E%E4%BA%BA%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83%23" target="weibo">
-日方颠倒黑白嫁祸于人别有用心（热度：13389）
+日方颠倒黑白嫁祸于人别有用心（热度：13691）
 </a>
 </li>
 
@@ -5873,6 +5873,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1%E8%AF%B4%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A%E5%AD%A6%E5%88%B0%E5%BE%88%E5%A4%9A%23" target="weibo">
 弗朗西斯卡说看全运会学到很多（热度：9406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
+微博年度关键词赛博（热度：7597）
 </a>
 </li>
 
