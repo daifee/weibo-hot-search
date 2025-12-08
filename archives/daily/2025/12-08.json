@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765172786553,
+  "endTime": 1765176300365,
   "band_list": [
     {
       "raw_hot": 2030167,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1149043,
+      "num": 1183846,
+      "word": "盒马承认生产草莓蛋糕出问题",
+      "onboard_time": 1765172721,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1026892,
       "num": 1164302,
       "word": "痞幼自曝曾被两个恋综拒绝",
       "onboard_time": 1765170263,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1016284,
+      "num": 196058,
+      "word": "秦岚魏大勋分手了吗",
+      "onboard_time": 1765175480,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 901340,
@@ -235,6 +251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 443522,
+      "num": 443522,
+      "word": "郭德纲相声被举报内容低俗",
+      "onboard_time": 1765173081,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434658,
       "num": 434658,
       "word": "白鹿编辑记录",
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338438,
+      "num": 604557,
+      "word": "泰国对柬埔寨发动空袭",
+      "onboard_time": 1765172422,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337034,
       "num": 337034,
       "word": "成毅演了李莲花的反义词",
@@ -345,6 +377,14 @@
       "onboard_time": 1765165700,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 321595,
+      "num": 321595,
+      "word": "日本婴儿残尸有刀具切割痕迹",
+      "onboard_time": 1765170082,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318787,
@@ -403,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284520,
-      "num": 284520,
-      "word": "日本婴儿残尸有刀具切割痕迹",
-      "onboard_time": 1765170082,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 267790,
       "num": 234606,
       "word": "白年好赫",
@@ -427,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246044,
+      "num": 589153,
+      "word": "梁靖崑家里人多拿走王楚钦的熊猫",
+      "onboard_time": 1765173623,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243453,
       "num": 243453,
       "word": "26岁确诊胃癌前身体发出的信号",
       "onboard_time": 1765097781,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243300,
+      "num": 243300,
+      "word": "韩国的咖啡已经进化到这种程度了吗",
+      "onboard_time": 1765175180,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 242399,
@@ -571,12 +619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199695,
-      "num": 283031,
-      "word": "盒马承认生产草莓蛋糕出问题",
-      "onboard_time": 1765172721,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 191862,
+      "num": 191862,
+      "word": "A股",
+      "onboard_time": 1765175421,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 191107,
@@ -585,6 +633,22 @@
       "onboard_time": 1765170982,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186045,
+      "num": 199543,
+      "word": "中央政治局12月8日召开会议",
+      "onboard_time": 1765174280,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 185079,
+      "num": 185079,
+      "word": "白鹿晒和小酒窝合照",
+      "onboard_time": 1765175421,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 182527,
@@ -771,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139220,
+      "num": 156904,
+      "word": "鞠婧祎9年后再出席星光大赏",
+      "onboard_time": 1765174459,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139140,
       "num": 139140,
       "word": "狙击蝴蝶热度",
@@ -867,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132274,
+      "num": 132274,
+      "word": "女子长12根手指自称灵活好用",
+      "onboard_time": 1765175720,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130827,
       "num": 130827,
       "word": "日本分析师称春节旅游情况将十分严峻",
@@ -883,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127350,
-      "num": 127350,
-      "word": "泰国对柬埔寨发动空袭",
-      "onboard_time": 1765172422,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 126895,
+      "num": 123026,
+      "word": "得闲谨制里为什么让小孩抱公鸡",
+      "onboard_time": 1765174940,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 126099,
@@ -937,6 +1017,14 @@
       "onboard_time": 1765168581,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 121382,
+      "num": 121382,
+      "word": "红楼梦悼明争议",
+      "onboard_time": 1765176021,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 120559,
@@ -1059,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111485,
+      "num": 111485,
+      "word": "俄罗斯 盗版疯狂动物城上映",
+      "onboard_time": 1765176201,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111266,
       "num": 111266,
       "word": "刘亦菲由内而外散发出的好状态",
@@ -1115,6 +1211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107099,
+      "num": 617497,
+      "word": "WE对战DYG",
+      "onboard_time": 1765175060,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106552,
+      "num": 106552,
+      "word": "经济上行期的小妞电影有多敢拍",
+      "onboard_time": 1765174401,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106430,
       "num": 106430,
       "word": "彭小苒你到底有多少双过膝靴",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1765166421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104548,
+      "num": 104548,
+      "word": "研究表明生病的蚂蚁会主动求死",
+      "onboard_time": 1765175361,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 103555,
@@ -1347,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84138,
+      "num": 95966,
+      "word": "鹅鸭杀手游公测",
+      "onboard_time": 1765175901,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83218,
       "num": 85655,
       "word": "杨瀚森连得4分",
@@ -1395,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74346,
+      "num": 102743,
+      "word": "商家故意不打包让骑手干等",
+      "onboard_time": 1765174762,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74048,
       "num": 74048,
       "word": "母亲肺癌手术儿子陪护时也查出肺癌",
@@ -1409,6 +1545,22 @@
       "onboard_time": 1765158080,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71732,
+      "num": 157615,
+      "word": "1600元泰兰尼斯童鞋拿货价不到3折",
+      "onboard_time": 1765176081,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71700,
+      "num": 121912,
+      "word": "任前公示中县委副书记年龄打架",
+      "onboard_time": 1765175660,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71366,
@@ -1867,6 +2019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29279,
+      "num": 134963,
+      "word": "华晨宇 上一期没来亏了",
+      "onboard_time": 1765174401,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26147,
       "num": 193225,
       "word": "冰面碎了初中女生拉住4岁男童",
@@ -1880,6 +2040,14 @@
       "word": "该让全网最忙五人组歇歇了",
       "onboard_time": 1765166181,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25418,
+      "num": 122613,
+      "word": "男子见到干草堆就忍不住放火",
+      "onboard_time": 1765176141,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1961,6 +2129,14 @@
       "onboard_time": 1765135094,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13788,
+      "num": 121688,
+      "word": "3人疑在鄱阳湖湿地投毒被抓",
+      "onboard_time": 1765175301,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11960,
