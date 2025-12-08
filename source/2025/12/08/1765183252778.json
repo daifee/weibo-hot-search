@@ -1,0 +1,410 @@
+{
+  "runTime": 1765183252778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659389,
+        "num": 1105502,
+        "word": "胖东来因抢购停售小方糖戒指",
+        "onboard_time": 1765178600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624709,
+        "num": 624709,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32908,
+        "num": 505174,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472044,
+        "num": 472044,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139321,
+        "num": 421447,
+        "word": "税务师成绩",
+        "onboard_time": 1765179200,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404974,
+        "num": 404974,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356702,
+        "num": 356702,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161298,
+        "num": 352183,
+        "word": "WE对战DYG",
+        "onboard_time": 1765175060,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 350099,
+        "word": "A股行情",
+        "onboard_time": 1765167501,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47578,
+        "num": 341532,
+        "word": "北大原副校长被双开",
+        "onboard_time": 1765182622,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 426743,
+        "num": 337219,
+        "word": "内娱顶流圈现状",
+        "onboard_time": 1765180941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113177,
+        "num": 333549,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328569,
+        "num": 328569,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283955,
+        "num": 316132,
+        "word": "商家故意不打包让骑手干等",
+        "onboard_time": 1765174762,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314170,
+        "num": 314170,
+        "word": "韩国的咖啡已经进化到这种程度了吗",
+        "onboard_time": 1765175180,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304660,
+        "num": 304660,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 39372,
+        "num": 296920,
+        "word": "泰柬边境冲突现场画面",
+        "onboard_time": 1765182681,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36954,
+        "num": 294207,
+        "word": "三价流感疫苗降至5.5元比奶茶便宜",
+        "onboard_time": 1765182980,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 94597,
+        "num": 276248,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104284,
+        "num": 270054,
+        "word": "胖东来回应下架小方糖戒指",
+        "onboard_time": 1765182860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263511,
+        "num": 263511,
+        "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
+        "onboard_time": 1765177400,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236144,
+        "num": 236144,
+        "word": "领养剩下三只 可以和惠英红做亲戚",
+        "onboard_time": 1765180160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1931286,
+        "num": 235802,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235087,
+        "num": 235087,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300355,
+        "num": 232680,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054179,
+        "num": 224431,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242505,
+        "num": 224270,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205545,
+        "num": 205545,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281462,
+        "num": 204937,
+        "word": "白鹿碰了张凌赫头发他当场就变脸了",
+        "onboard_time": 1765180222,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201820,
+        "num": 201820,
+        "word": "外来媳妇本地郎大结局",
+        "onboard_time": 1765176560,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191044,
+        "num": 191044,
+        "word": "CP感 玄学",
+        "onboard_time": 1765182561,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187454,
+        "num": 187454,
+        "word": "特朗普要求高市早苗不要挑衅中国",
+        "onboard_time": 1765180041,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 169056,
+        "word": "官方通报网曝食用油罐车拉化学品",
+        "onboard_time": 1765181480,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 151819,
+        "num": 151819,
+        "word": "WTT女单签表",
+        "onboard_time": 1765183159,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145510,
+        "num": 145510,
+        "word": "敖瑞鹏借王楚然的眼药水",
+        "onboard_time": 1765180581,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137679,
+        "num": 137679,
+        "word": "刘亦菲8秒换轮胎这段",
+        "onboard_time": 1765180640,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133121,
+        "num": 133121,
+        "word": "日本婴儿残尸有刀具切割痕迹",
+        "onboard_time": 1765170082,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128372,
+        "num": 128372,
+        "word": "WTT抽签仪式",
+        "onboard_time": 1765182561,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23656,
+        "num": 127754,
+        "word": "仅退款225件女子被曝有同伙",
+        "onboard_time": 1765182500,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87999,
+        "num": 127309,
+        "word": "16岁的娜扎",
+        "onboard_time": 1765182140,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127288,
+        "num": 127288,
+        "word": "刘萧旭 他叫何聪睿",
+        "onboard_time": 1765181422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123587,
+        "num": 123587,
+        "word": "00花王梓莼没来吗",
+        "onboard_time": 1765181900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 119206,
+        "word": "WTT总决赛签表",
+        "onboard_time": 1765183159,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118038,
+        "num": 118038,
+        "word": "曝79岁雪儿将与39岁男友结婚",
+        "onboard_time": 1765179920,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 116773,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 109234,
+        "num": 109234,
+        "word": "朋友圈 班味",
+        "onboard_time": 1765182921,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 108502,
+        "word": "原来伤心是真的伤心脏",
+        "onboard_time": 1765183041,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107744,
+        "num": 108438,
+        "word": "因为陌生人发现脑子里有肿瘤",
+        "onboard_time": 1765181780,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107868,
+        "num": 108437,
+        "word": "黄景瑜发言把秦岚郭京飞笑醒了",
+        "onboard_time": 1765180101,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107318,
+        "num": 108437,
+        "word": "发现立人设是真的有用",
+        "onboard_time": 1765180700,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

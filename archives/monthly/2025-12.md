@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 15:44:37
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 16:40:52
 </p>
 </blockquote>
 <p>
@@ -137,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%81%E8%80%83%23" target="weibo">
 省考（热度：1963944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%BA%B9%E8%BA%AB%23" target="weibo">
+张子枫纹身（热度：1931286）
 </a>
 </li>
 
@@ -1235,6 +1241,12 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23" target="weibo">
 宁德时代发布涨薪通知（热度：660106）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%A0%E6%8A%A2%E8%B4%AD%E5%81%9C%E5%94%AE%E5%B0%8F%E6%96%B9%E7%B3%96%E6%88%92%E6%8C%87%23" target="weibo">
+胖东来因抢购停售小方糖戒指（热度：659389）
 </a>
 </li>
 
@@ -2681,6 +2693,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%8F%88%E5%A4%B8%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%BA%86%23" target="weibo">
 颖儿又夸付辛博了（热度：426989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E6%B5%81%E5%9C%88%E7%8E%B0%E7%8A%B6%23" target="weibo">
+内娱顶流圈现状（热度：426743）
 </a>
 </li>
 
@@ -4185,6 +4203,12 @@ Duro被大学退学（热度：318839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E8%8A%B1%20%E7%BB%93%E5%A9%9A%23" target="weibo">
+90花 结婚（热度：300355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A4%90%E5%B6%A8%E5%B0%86%E9%87%8D%E5%90%AF%E9%A2%84%E7%BA%A6%23" target="weibo">
 易烊千玺礐嶨将重启预约（热度：300058）
 </a>
@@ -4397,6 +4421,12 @@ Gala在iG队内吐露心声（热度：282515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E5%91%95%E5%90%90%E8%88%9E%E4%B8%80%E5%87%BA%E6%89%8B%E5%B0%B1%E6%98%AF%E4%B8%93%E4%B8%9A%E7%9A%84%23" target="weibo">
 小酒窝呕吐舞一出手就是专业的（热度：281777）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%A2%B0%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A4%B4%E5%8F%91%E4%BB%96%E5%BD%93%E5%9C%BA%E5%B0%B1%E5%8F%98%E8%84%B8%E4%BA%86%23" target="weibo">
+白鹿碰了张凌赫头发他当场就变脸了（热度：281462）
 </a>
 </li>
 
@@ -4631,12 +4661,6 @@ VOGUE预告（热度：269150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%90%8E%E6%98%A5%E5%A4%8F%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7%23" target="weibo">
 影后春夏变化好大（热度：265120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%A0%E6%8A%A2%E8%B4%AD%E5%81%9C%E5%94%AE%E5%B0%8F%E6%96%B9%E7%B3%96%E6%88%92%E6%8C%87%23" target="weibo">
-胖东来因抢购停售小方糖戒指（热度：265074）
 </a>
 </li>
 
@@ -5195,6 +5219,12 @@ LPL（热度：247418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E5%88%9D%E8%AE%BE%E5%B0%BC%E5%85%8B%E6%98%AF%E4%B8%AA%E7%8B%90%E5%AA%9A%E5%AD%90%23" target="weibo">
 疯狂动物城 初设尼克是个狐媚子（热度：236585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%BB%E5%89%A9%E4%B8%8B%E4%B8%89%E5%8F%AA%20%E5%8F%AF%E4%BB%A5%E5%92%8C%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%81%9A%E4%BA%B2%E6%88%9A%23" target="weibo">
+领养剩下三只 可以和惠英红做亲戚（热度：236144）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ Chovy剃寸头了（热度：207254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23" target="weibo">
 大雪（热度：206934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E9%A2%86%E5%A5%96%E5%93%AD%E4%BA%86%23" target="weibo">
-李一桐领奖哭了（热度：206913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%BA%AB%E7%A9%BF%E5%85%A8%E5%A5%97Prada%23" target="weibo">
-杨幂身穿全套Prada（热度：206888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23" target="weibo">
-顾客买鞋子仅退款发AI图（热度：206886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%8E%B7%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E5%90%8D%23" target="weibo">
-孙颖莎获年度最佳女运动员提名（热度：206454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%A8%E8%B7%AF%E4%BA%BA%E9%95%9C%E5%A4%B4%E9%87%8C%E6%B2%A1%E8%BE%93%E8%BF%87%23" target="weibo">
-王鹤棣在路人镜头里没输过（热度：206374）
 </a>
 </li>
 
