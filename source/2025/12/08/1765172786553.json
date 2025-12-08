@@ -1,0 +1,410 @@
+{
+  "runTime": 1765172786553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026892,
+        "num": 1164302,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631050,
+        "num": 631050,
+        "word": "日军被爆引导美军轰炸平民",
+        "onboard_time": 1765168882,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48387,
+        "num": 527866,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946385,
+        "num": 496907,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207254,
+        "num": 472827,
+        "word": "Chovy剃寸头了",
+        "onboard_time": 1765170982,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 461120,
+        "num": 461120,
+        "word": "孟子义李昀锐 星光大赏",
+        "onboard_time": 1765170861,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395013,
+        "num": 395013,
+        "word": "退学北大考上清华小伙被白嫖家教费",
+        "onboard_time": 1765166902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178921,
+        "num": 392447,
+        "word": "1818名包括明星网红在内双高人员被查",
+        "onboard_time": 1765163900,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151482,
+        "num": 389961,
+        "word": "鹅鸭杀公测定档",
+        "onboard_time": 1765168822,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135822,
+        "num": 389370,
+        "word": "A股行情",
+        "onboard_time": 1765167501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 742431,
+        "num": 386811,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513898,
+        "num": 384362,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456748,
+        "num": 381458,
+        "word": "王楚然提抹胸",
+        "onboard_time": 1765167442,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379159,
+        "num": 379159,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 322421,
+        "num": 322421,
+        "word": "星光大赏 没有85花",
+        "onboard_time": 1765170199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313877,
+        "num": 313877,
+        "word": "林俊杰 大牌小耍",
+        "onboard_time": 1765167021,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284520,
+        "num": 284520,
+        "word": "日本婴儿残尸有刀具切割痕迹",
+        "onboard_time": 1765170082,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199695,
+        "num": 283031,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170385,
+        "num": 282275,
+        "word": "香港麦当劳居然这么好吃",
+        "onboard_time": 1765165700,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41895,
+        "num": 281116,
+        "word": "建议内娱疯批演技都按这个标准卷",
+        "onboard_time": 1765172301,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627032,
+        "num": 278309,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384383,
+        "num": 277232,
+        "word": "钟丽缇想让女儿上清北",
+        "onboard_time": 1765168042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107211,
+        "num": 276425,
+        "word": "醉酒丈夫负气离家落水遭死亡缠绕",
+        "onboard_time": 1765170023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274824,
+        "num": 274824,
+        "word": "秦岚 男人不重要",
+        "onboard_time": 1765169423,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97185,
+        "num": 257358,
+        "word": "明日方舟",
+        "onboard_time": 1765170023,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89389,
+        "num": 256757,
+        "word": "婴儿被褥印不雅英文没有底线的操作",
+        "onboard_time": 1765171281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256572,
+        "num": 256572,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225129,
+        "num": 225129,
+        "word": "偶像练习生七年后居然还有售后",
+        "onboard_time": 1765171281,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200700,
+        "num": 200700,
+        "word": "张钧甯带助理减肥36斤",
+        "onboard_time": 1765171041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99517,
+        "num": 191737,
+        "word": "朋友送的护身符核辐射超标1686倍",
+        "onboard_time": 1765172061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186134,
+        "num": 186134,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182527,
+        "num": 182527,
+        "word": "童瑶陪老公聚餐",
+        "onboard_time": 1765172240,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97639,
+        "num": 176228,
+        "word": "詹姆斯戴王冠",
+        "onboard_time": 1765164021,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 174988,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765170982,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173557,
+        "num": 173557,
+        "word": "让成毅徐璐演兄妹的是天才",
+        "onboard_time": 1765165520,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166124,
+        "num": 166124,
+        "word": "iPhone17Pro系列破发",
+        "onboard_time": 1765165520,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147207,
+        "num": 165128,
+        "word": "放门口就行 汉武帝",
+        "onboard_time": 1765171041,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18473,
+        "num": 163390,
+        "word": "男子幻想一夜暴富连续6天偷彩票",
+        "onboard_time": 1765172362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99554,
+        "num": 161981,
+        "word": "刘烨王影璐尼克朱迪",
+        "onboard_time": 1765172301,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58437,
+        "num": 158884,
+        "word": "内娱终于有体感男演员了",
+        "onboard_time": 1765172301,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138546,
+        "num": 158642,
+        "word": "一个肚子同时生出了捧哏和逗哏",
+        "onboard_time": 1765169840,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156863,
+        "num": 156863,
+        "word": "成何体统 剧宣",
+        "onboard_time": 1765168101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156102,
+        "num": 156102,
+        "word": "陈晓剧里结婚忘掀盖头",
+        "onboard_time": 1765171341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145737,
+        "num": 145737,
+        "word": "杨幂 于和伟我罩的",
+        "onboard_time": 1765166121,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141368,
+        "num": 141368,
+        "word": "狙击蝴蝶 黑马",
+        "onboard_time": 1765164800,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45655,
+        "num": 127733,
+        "word": "泰国男子杀人藏尸将母亲囚禁在同屋",
+        "onboard_time": 1765171221,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 127350,
+        "word": "泰国对柬埔寨发动空袭",
+        "onboard_time": 1765172422,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124682,
+        "num": 124682,
+        "word": "47岁刘烨减重17斤新剧状态",
+        "onboard_time": 1765170500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115533,
+        "num": 115533,
+        "word": "小米汽车定制服务开启交付",
+        "onboard_time": 1765172480,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114663,
+        "num": 114663,
+        "word": "数学学到最后已经看不到数字了",
+        "onboard_time": 1765169423,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
