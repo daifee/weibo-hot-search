@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765219286379,
+  "endTime": 1765220016815,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -419,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35733,
+      "raw_hot": 37250,
       "num": 70516,
       "word": "冬天洗澡劝你少做这3件事",
       "onboard_time": 1765214656,
@@ -483,11 +483,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22111,
+      "num": 26750,
+      "word": "日本12块钱一份的鱼干饭",
+      "onboard_time": 1765217955,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 20951,
       "num": 284970,
       "word": "盘点2025",
       "onboard_time": 1765201341,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19839,
+      "num": 35492,
+      "word": "卡梅隆认识章子怡19年了",
+      "onboard_time": 1765219096,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 18851,
+      "num": 35481,
+      "word": "马航MH370索赔案每案判赔290万",
+      "onboard_time": 1765218794,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -499,28 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18248,
-      "num": 35492,
-      "word": "卡梅隆认识章子怡19年了",
-      "onboard_time": 1765219096,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 16997,
       "num": 77846,
       "word": "诺里斯加冕F1世界冠军",
       "onboard_time": 1765215436,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14532,
-      "num": 35481,
-      "word": "马航MH370索赔案每案判赔290万",
-      "onboard_time": 1765218794,
-      "rank": 48,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

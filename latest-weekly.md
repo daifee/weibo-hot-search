@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 02:41:26
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 02:53:36
 </p>
 </blockquote>
 <p>
@@ -5331,6 +5331,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%8A%9D%E4%BD%A0%E5%B0%91%E5%81%9A%E8%BF%993%E4%BB%B6%E4%BA%8B%23" target="weibo">
+冬天洗澡劝你少做这3件事（热度：37250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BF%AB%E7%82%B9%E6%8A%8A%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E6%89%8B%E6%9C%BA%E6%94%B6%E4%BA%86%23" target="weibo">
 工作室快点把檀健次的手机收了（热度：36878）
 </a>
@@ -5351,12 +5357,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%87%A1%E8%BE%BE3%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%98%A0%E7%A4%BC%23" target="weibo">
 阿凡达3中国首映礼（热度：36414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%8A%9D%E4%BD%A0%E5%B0%91%E5%81%9A%E8%BF%993%E4%BB%B6%E4%BA%8B%23" target="weibo">
-冬天洗澡劝你少做这3件事（热度：35733）
 </a>
 </li>
 
@@ -5619,6 +5619,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC12%E5%9D%97%E9%92%B1%E4%B8%80%E4%BB%BD%E7%9A%84%E9%B1%BC%E5%B9%B2%E9%A5%AD%23" target="weibo">
+日本12块钱一份的鱼干饭（热度：22111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%84%BF%E7%AB%A5%E6%B2%99%E6%B1%A0%E5%86%85%E5%8F%8D%E5%A4%8D%E6%90%93%E8%84%9A%23" target="weibo">
 男子在儿童沙池内反复搓脚（热度：21167）
 </a>
@@ -5667,6 +5673,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%A2%85%E9%9A%86%E8%AE%A4%E8%AF%86%E7%AB%A0%E5%AD%90%E6%80%A119%E5%B9%B4%E4%BA%86%23" target="weibo">
+卡梅隆认识章子怡19年了（热度：19839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%99%E7%94%9F%E8%87%B3%E5%B0%91%E5%BE%97%E5%86%99%E5%90%A7%23" target="weibo">
 写生至少得写吧（热度：19689）
 </a>
@@ -5697,6 +5709,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E7%B4%A2%E8%B5%94%E6%A1%88%E6%AF%8F%E6%A1%88%E5%88%A4%E8%B5%94290%E4%B8%87%23" target="weibo">
+马航MH370索赔案每案判赔290万（热度：18851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%E8%AF%B4%E9%AB%98%E5%B8%82%E5%BA%94%E8%A2%AB%E5%81%9C%E8%81%8C%E5%A4%84%E7%90%86%23" target="weibo">
 日本学者说高市应被停职处理（热度：18795）
 </a>
@@ -5717,12 +5735,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BB%E6%83%B3%E4%B8%80%E5%A4%9C%E6%9A%B4%E5%AF%8C%E8%BF%9E%E7%BB%AD6%E5%A4%A9%E5%81%B7%E5%BD%A9%E7%A5%A8%23" target="weibo">
 男子幻想一夜暴富连续6天偷彩票（热度：18473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%A2%85%E9%9A%86%E8%AE%A4%E8%AF%86%E7%AB%A0%E5%AD%90%E6%80%A119%E5%B9%B4%E4%BA%86%23" target="weibo">
-卡梅隆认识章子怡19年了（热度：18248）
 </a>
 </li>
 
@@ -5777,12 +5789,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E6%9D%A8%E5%B9%82%E5%80%BC%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9A%84%23" target="weibo">
 于正说杨幂值得更好的（热度：15826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E7%B4%A2%E8%B5%94%E6%A1%88%E6%AF%8F%E6%A1%88%E5%88%A4%E8%B5%94290%E4%B8%87%23" target="weibo">
-马航MH370索赔案每案判赔290万（热度：14532）
 </a>
 </li>
 
