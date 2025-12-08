@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765226738350,
+  "endTime": 1765229034649,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29805,
+      "num": 29805,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29488,
       "num": 96803,
       "word": "皇马深夜紧急磋商阿隆索去留",
@@ -497,14 +505,6 @@
       "onboard_time": 1765201341,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20763,
-      "num": 28977,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 19839,
@@ -571,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12628,
+      "num": 30647,
+      "word": "漠河梦幻冰泡泡上线",
+      "onboard_time": 1765227433,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 12214,
       "num": 28354,
       "word": "苟仲文一审被判死缓",
@@ -587,7 +595,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 7597,
+      "raw_hot": 8297,
       "num": 31094,
       "word": "微博年度关键词赛博",
       "onboard_time": 1765226054,

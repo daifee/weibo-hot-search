@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765226738350,
+  "endTime": 1765229034649,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -7307,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29805,
+      "num": 29805,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29279,
       "num": 134963,
       "word": "华晨宇 上一期没来亏了",
@@ -7505,14 +7513,6 @@
       "onboard_time": 1765140313,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20763,
-      "num": 28977,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 20653,
@@ -7771,6 +7771,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 12628,
+      "num": 30647,
+      "word": "漠河梦幻冰泡泡上线",
+      "onboard_time": 1765227433,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 11960,
       "num": 41214,
       "word": "朱志鑫纯欧巴",
@@ -7819,7 +7827,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7597,
+      "raw_hot": 8297,
       "num": 31094,
       "word": "微博年度关键词赛博",
       "onboard_time": 1765226054,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 04:45:38
+本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 05:23:54
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ LGDNBW对战Hero久竞（热度：33119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：29805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E6%B7%B1%E5%A4%9C%E7%B4%A7%E6%80%A5%E7%A3%8B%E5%95%86%E9%98%BF%E9%9A%86%E7%B4%A2%E5%8E%BB%E7%95%99%23" target="weibo">
 皇马深夜紧急磋商阿隆索去留（热度：29488）
 </a>
@@ -383,12 +389,6 @@ LGDNBW对战Hero久竞（热度：33119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B92025%23" target="weibo">
 盘点2025（热度：20951）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：20763）
 </a>
 </li>
 
@@ -441,6 +441,12 @@ LGDNBW对战Hero久竞（热度：33119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
+漠河梦幻冰泡泡上线（热度：12628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
 苟仲文一审被判死缓（热度：12214）
 </a>
@@ -454,7 +460,7 @@ LGDNBW对战Hero久竞（热度：33119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
-微博年度关键词赛博（热度：7597）
+微博年度关键词赛博（热度：8297）
 </a>
 </li>
 

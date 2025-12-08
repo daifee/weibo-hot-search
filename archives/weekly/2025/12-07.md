@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 04:45:38
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 05:23:54
 </p>
 </blockquote>
 <p>
@@ -5493,6 +5493,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：29805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E4%B8%8A%E4%B8%80%E6%9C%9F%E6%B2%A1%E6%9D%A5%E4%BA%8F%E4%BA%86%23" target="weibo">
 华晨宇 上一期没来亏了（热度：29279）
 </a>
@@ -5639,12 +5645,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%8C%96%E8%80%B3%E5%8B%BA%E7%BB%99%E5%8E%A8%E5%B8%88%E6%8B%8D%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 用挖耳勺给厨师拍宣传片（热度：21037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：20763）
 </a>
 </li>
 
@@ -5841,6 +5841,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
+漠河梦幻冰泡泡上线（热度：12628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%BA%AF%E6%AC%A7%E5%B7%B4%23" target="weibo">
 朱志鑫纯欧巴（热度：11960）
 </a>
@@ -5878,7 +5884,7 @@ Gumayusi说能战胜T1（热度：40076）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
-微博年度关键词赛博（热度：7597）
+微博年度关键词赛博（热度：8297）
 </a>
 </li>
 
