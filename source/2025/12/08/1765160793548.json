@@ -1,0 +1,410 @@
+{
+  "runTime": 1765160793548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 377853,
+        "num": 1060456,
+        "word": "杨瀚森转身暴扣",
+        "onboard_time": 1765157060,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313483,
+        "num": 313483,
+        "word": "星光大赏名单",
+        "onboard_time": 1765150098,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32406,
+        "num": 272075,
+        "word": "网警查处编造汽车造成8杀网络谣言案",
+        "onboard_time": 1765153400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401136,
+        "num": 266968,
+        "word": "庆功宴唯一素颜明星是黄景瑜",
+        "onboard_time": 1765149497,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261778,
+        "num": 261778,
+        "word": "造谣安全员骚扰女选手当事人致歉",
+        "onboard_time": 1765157060,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451226,
+        "num": 261321,
+        "word": "曝iPhone18系列测试拼接微透玻璃",
+        "onboard_time": 1765156340,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268042,
+        "num": 261172,
+        "word": "张凌赫偷瞄白鹿",
+        "onboard_time": 1765110681,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250424,
+        "num": 250424,
+        "word": "上海一31岁女教师因病去世",
+        "onboard_time": 1765151839,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249350,
+        "num": 249350,
+        "word": "日本与中国竞争已感到绝望",
+        "onboard_time": 1765160120,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237874,
+        "num": 237874,
+        "word": "郎平置换了髋关节和颈椎",
+        "onboard_time": 1765152199,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 899951,
+        "num": 234508,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 499745,
+        "num": 231063,
+        "word": "王鹤棣带沈月去了他的中学",
+        "onboard_time": 1765153101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328938,
+        "num": 223220,
+        "word": "车澈 谁也没有时光机器",
+        "onboard_time": 1765152620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318787,
+        "num": 216489,
+        "word": "白鹿曾舜晞关系好成这样了",
+        "onboard_time": 1765159400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238430,
+        "num": 215572,
+        "word": "男子欠近5000元房费酒店倒贴都不搬",
+        "onboard_time": 1765117884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210294,
+        "num": 210294,
+        "word": "韩泰等国发力承接中国游客",
+        "onboard_time": 1765155621,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205639,
+        "num": 205639,
+        "word": "王楚钦说徐瑛彬凭实力得到世界冠军",
+        "onboard_time": 1765156820,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197998,
+        "num": 197998,
+        "word": "被这位婆婆的一天累到了",
+        "onboard_time": 1765151299,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210518,
+        "num": 196967,
+        "word": "白年好赫",
+        "onboard_time": 1765151719,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192637,
+        "num": 192637,
+        "word": "印度警察为逃避工作深夜抛尸",
+        "onboard_time": 1765152799,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185655,
+        "num": 185655,
+        "word": "很多胃癌是一口一口吃出来的",
+        "onboard_time": 1765125198,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42169,
+        "num": 167836,
+        "word": "安徽一政务清单被指照搬人名库",
+        "onboard_time": 1765160421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159973,
+        "num": 159973,
+        "word": "什么叫做假性亲密关系",
+        "onboard_time": 1765151299,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 156096,
+        "word": "杨瀚森4分5板2助",
+        "onboard_time": 1765159160,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152802,
+        "num": 152802,
+        "word": "张本美和说每次输王曼昱方式都一样",
+        "onboard_time": 1765160179,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143980,
+        "num": 143980,
+        "word": "杨瀚森生涯首次首发",
+        "onboard_time": 1765151659,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50843,
+        "num": 135513,
+        "word": "企业被围堵镇政府说钱捐得不够",
+        "onboard_time": 1765159219,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130827,
+        "num": 130827,
+        "word": "日本分析师称春节旅游情况将十分严峻",
+        "onboard_time": 1765158739,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119419,
+        "num": 119419,
+        "word": "台日竟然还想夹击解放军",
+        "onboard_time": 1765119624,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114197,
+        "num": 114197,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765151600,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112696,
+        "num": 112696,
+        "word": "土豆吕严",
+        "onboard_time": 1765154720,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110369,
+        "num": 110369,
+        "word": "警方通报44岁男子公园搂抱女童",
+        "onboard_time": 1765160241,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108670,
+        "num": 108670,
+        "word": "金晨 再也不自己乱化妆了",
+        "onboard_time": 1765104321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108625,
+        "num": 108625,
+        "word": "杨瀚森出场时间生涯新高",
+        "onboard_time": 1765159941,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106089,
+        "num": 106089,
+        "word": "51岁男子不会打字遭电诈园区转卖",
+        "onboard_time": 1765156579,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103476,
+        "num": 103476,
+        "word": "刘亦菲由内而外散发出的好状态",
+        "onboard_time": 1765154180,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102240,
+        "num": 102240,
+        "word": "中方不接受日方所谓交涉",
+        "onboard_time": 1765121242,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39152,
+        "num": 99330,
+        "word": "女子遭75岁丈夫殴打村民发声",
+        "onboard_time": 1765160659,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36838,
+        "num": 98707,
+        "word": "40万一针的干细胞输注能抗衰吗",
+        "onboard_time": 1765160241,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 37587,
+        "num": 98680,
+        "word": "乘客迟到乐捐100向网约车平台索赔",
+        "onboard_time": 1765160179,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98679,
+        "num": 98679,
+        "word": "狼队三十二强",
+        "onboard_time": 1765149018,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51002,
+        "num": 95832,
+        "word": "卢浮宫严重漏水致大量古籍受损",
+        "onboard_time": 1765159459,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93500,
+        "num": 93500,
+        "word": "刘宇宁吃席打包",
+        "onboard_time": 1765141393,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91286,
+        "num": 91286,
+        "word": "3位日本前首相批高市错误言行",
+        "onboard_time": 1765160179,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91059,
+        "num": 91059,
+        "word": "孙天宇发的杨雨光",
+        "onboard_time": 1765157300,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89532,
+        "num": 89532,
+        "word": "杨瀚森倒地被裁判无视",
+        "onboard_time": 1765159400,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84238,
+        "num": 84238,
+        "word": "A股商业航天板块高开",
+        "onboard_time": 1765159459,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83036,
+        "num": 83036,
+        "word": "王楚钦给徐瑛彬回复鼓励",
+        "onboard_time": 1765160359,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80256,
+        "num": 80256,
+        "word": "徐瑛彬 谢谢头哥",
+        "onboard_time": 1765160718,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79495,
+        "num": 79495,
+        "word": "杨紫包场支持得闲谨制",
+        "onboard_time": 1765120164,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
