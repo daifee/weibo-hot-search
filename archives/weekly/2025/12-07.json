@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765183252778,
+  "endTime": 1765184073389,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675573,
+      "num": 1105502,
+      "word": "胖东来因抢购停售小方糖戒指",
+      "onboard_time": 1765178600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668895,
       "num": 1107023,
       "word": "俄罗斯 盗版疯狂动物城上映",
@@ -368,14 +376,6 @@
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 659389,
-      "num": 1105502,
-      "word": "胖东来因抢购停售小方糖戒指",
-      "onboard_time": 1765178600,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -425,6 +425,14 @@
       "onboard_time": 1765096820,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 589890,
+      "num": 232680,
+      "word": "90花 结婚",
+      "onboard_time": 1765181961,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 588431,
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485369,
+      "num": 337219,
+      "word": "内娱顶流圈现状",
+      "onboard_time": 1765180941,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485207,
       "num": 239409,
       "word": "泰国弃婴遭巨蜥啃食",
@@ -808,14 +824,6 @@
       "word": "乔欣南法度假",
       "onboard_time": 1765099041,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 426743,
-      "num": 337219,
-      "word": "内娱顶流圈现状",
-      "onboard_time": 1765180941,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1251,20 +1259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300355,
-      "num": 232680,
-      "word": "90花 结婚",
-      "onboard_time": 1765181961,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300027,
       "num": 280513,
       "word": "女子洗衣结束发现猫咪在洗衣机里",
       "onboard_time": 1765074140,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299094,
+      "num": 197611,
+      "word": "CP感 玄学",
+      "onboard_time": 1765182561,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297530,
@@ -1771,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210925,
+      "num": 276248,
+      "word": "多校撤销外语专业",
+      "onboard_time": 1765182202,
+      "rank": 18,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 210822,
       "num": 210822,
       "word": "这六位艺人没一个能体面的上台",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1765039340,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206123,
+      "num": 195701,
+      "word": "DYG战胜WE",
+      "onboard_time": 1765183340,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 205639,
@@ -1907,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201936,
+      "num": 201936,
+      "word": "WTT总决赛签表",
+      "onboard_time": 1765183159,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201809,
       "num": 179889,
       "word": "我驻日大使提出严正交涉",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1765099940,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198632,
+      "num": 198632,
+      "word": "WTT女单签表",
+      "onboard_time": 1765183159,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 197782,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1765073901,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191044,
-      "num": 191044,
-      "word": "CP感 玄学",
-      "onboard_time": 1765182561,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189142,
@@ -2451,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158090,
+      "num": 333549,
+      "word": "iPhone17Pro官方破价",
+      "onboard_time": 1765166181,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157449,
       "num": 157449,
       "word": "现在的安睡裤怎么变成这样了",
@@ -2504,6 +2544,14 @@
       "word": "杨瀚森4分5板2助",
       "onboard_time": 1765159160,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155310,
+      "num": 155310,
+      "word": "王曼昱首轮对阵张本美和",
+      "onboard_time": 1765183401,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2563,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153113,
+      "num": 153113,
+      "word": "刘亦菲8秒换轮胎这段",
+      "onboard_time": 1765180640,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "得闲谨制打破9项影史纪录",
@@ -2577,14 +2633,6 @@
       "onboard_time": 1765097240,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151819,
-      "num": 151819,
-      "word": "WTT女单签表",
-      "onboard_time": 1765183159,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 151476,
@@ -2907,20 +2955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137679,
-      "num": 137679,
-      "word": "刘亦菲8秒换轮胎这段",
-      "onboard_time": 1765180640,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137598,
       "num": 193422,
       "word": "日籍八路军战士之子发声",
       "onboard_time": 1765119863,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137545,
+      "num": 137545,
+      "word": "00花王梓莼没来吗",
+      "onboard_time": 1765181900,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137434,
@@ -2955,14 +3003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136729,
-      "num": 333549,
-      "word": "iPhone17Pro官方破价",
-      "onboard_time": 1765166181,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136150,
       "num": 136150,
       "word": "女子遭75岁丈夫殴打村民发声",
@@ -2995,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135431,
+      "num": 166070,
+      "word": "北大原副校长任羽中被双开",
+      "onboard_time": 1765183460,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 135338,
       "num": 135338,
       "word": "俄罗斯准备接纳无限数量的印度工人",
@@ -3011,12 +3059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134933,
+      "num": 134933,
+      "word": "感觉狙击蝴蝶导演真的穷过",
+      "onboard_time": 1765184000,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134807,
       "num": 134807,
       "word": "穆祉丞 最有梗的少年",
       "onboard_time": 1765105101,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134484,
+      "num": 341532,
+      "word": "北大原副校长被双开",
+      "onboard_time": 1765182622,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 134466,
@@ -3387,14 +3451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 123587,
-      "num": 123587,
-      "word": "00花王梓莼没来吗",
-      "onboard_time": 1765181900,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "梁靖崑观赛的时候扶了下腰",
@@ -3571,14 +3627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119206,
-      "num": 119206,
-      "word": "WTT总决赛签表",
-      "onboard_time": 1765183159,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119007,
       "num": 111550,
       "word": "十个勤天微短剧开机仪式",
@@ -3745,6 +3793,14 @@
       "onboard_time": 1765063338,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115178,
+      "num": 115178,
+      "word": "1178名中国籍涉诈人员被押解回国",
+      "onboard_time": 1765183340,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115074,
@@ -4019,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109237,
+      "num": 109237,
+      "word": "惠英红 明星带头领养",
+      "onboard_time": 1765183941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109234,
       "num": 109234,
       "word": "朋友圈 班味",
@@ -4169,6 +4233,14 @@
       "onboard_time": 1765166421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105348,
+      "num": 105348,
+      "word": "汪苏泷点歌大转盘",
+      "onboard_time": 1765183460,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 105294,
@@ -4531,14 +4603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94597,
-      "num": 276248,
-      "word": "多校撤销外语专业",
-      "onboard_time": 1765182202,
-      "rank": 18,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 94555,
       "num": 108829,
       "word": "X被欧盟罚款1.2亿欧元马斯克发飙",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1765170623,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93692,
+      "num": 155849,
+      "word": "浙大回应26岁研究员任博导",
+      "onboard_time": 1765183881,
+      "rank": 33,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 93576,
@@ -5283,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56453,
+      "num": 296920,
+      "word": "泰柬边境冲突现场画面",
+      "onboard_time": 1765182681,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55820,
       "num": 55820,
       "word": "尖叫之夜奖项",
@@ -5459,12 +5539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47578,
-      "num": 341532,
-      "word": "北大原副校长被双开",
-      "onboard_time": 1765182622,
-      "rank": 9,
-      "category": "民生新闻,教育"
+      "raw_hot": 48179,
+      "num": 294207,
+      "word": "三价流感疫苗降至5.5元比奶茶便宜",
+      "onboard_time": 1765182980,
+      "rank": 17,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 46501,
@@ -5635,12 +5715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39372,
-      "num": 296920,
-      "word": "泰柬边境冲突现场画面",
-      "onboard_time": 1765182681,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 39217,
+      "num": 127754,
+      "word": "仅退款225件女子被曝有同伙",
+      "onboard_time": 1765182500,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38831,
@@ -5681,14 +5761,6 @@
       "onboard_time": 1765136473,
       "rank": 26,
       "category": "国际时政,艺人"
-    },
-    {
-      "raw_hot": 36954,
-      "num": 294207,
-      "word": "三价流感疫苗降至5.5元比奶茶便宜",
-      "onboard_time": 1765182980,
-      "rank": 17,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 36878,
@@ -5905,14 +5977,6 @@
       "onboard_time": 1765151000,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23656,
-      "num": 127754,
-      "word": "仅退款225件女子被曝有同伙",
-      "onboard_time": 1765182500,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23632,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 16:40:52
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 16:54:33
 </p>
 </blockquote>
 <p>
@@ -1191,6 +1191,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%A0%E6%8A%A2%E8%B4%AD%E5%81%9C%E5%94%AE%E5%B0%8F%E6%96%B9%E7%B3%96%E6%88%92%E6%8C%87%23" target="weibo">
+胖东来因抢购停售小方糖戒指（热度：675573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E6%8B%BF500%E5%8F%AF%E4%BC%9110%E5%A4%A9%E5%91%98%E5%B7%A5%E7%A7%B0%E5%BE%88%E5%BC%80%E5%BF%83%23" target="weibo">
 少拿500可休10天员工称很开心（热度：673065）
 </a>
@@ -1241,12 +1247,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23" target="weibo">
 宁德时代发布涨薪通知（热度：660106）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%A0%E6%8A%A2%E8%B4%AD%E5%81%9C%E5%94%AE%E5%B0%8F%E6%96%B9%E7%B3%96%E6%88%92%E6%8C%87%23" target="weibo">
-胖东来因抢购停售小方糖戒指（热度：659389）
 </a>
 </li>
 
@@ -1523,6 +1523,12 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8Aboss%E4%B8%8D%E8%81%98%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 谁把boss不聘做出来了（热度：591459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E8%8A%B1%20%E7%BB%93%E5%A9%9A%23" target="weibo">
+90花 结婚（热度：589890）
 </a>
 </li>
 
@@ -2199,6 +2205,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E6%B5%81%E5%9C%88%E7%8E%B0%E7%8A%B6%23" target="weibo">
+内娱顶流圈现状（热度：485369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%BC%83%E5%A9%B4%E9%81%AD%E5%B7%A8%E8%9C%A5%E5%95%83%E9%A3%9F%23" target="weibo">
 泰国弃婴遭巨蜥啃食（热度：485207）
 </a>
@@ -2693,12 +2705,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%8F%88%E5%A4%B8%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%BA%86%23" target="weibo">
 颖儿又夸付辛博了（热度：426989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E6%B5%81%E5%9C%88%E7%8E%B0%E7%8A%B6%23" target="weibo">
-内娱顶流圈现状（热度：426743）
 </a>
 </li>
 
@@ -4203,12 +4209,6 @@ Duro被大学退学（热度：318839）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2390%E8%8A%B1%20%E7%BB%93%E5%A9%9A%23" target="weibo">
-90花 结婚（热度：300355）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A4%90%E5%B6%A8%E5%B0%86%E9%87%8D%E5%90%AF%E9%A2%84%E7%BA%A6%23" target="weibo">
 易烊千玺礐嶨将重启预约（热度：300058）
 </a>
@@ -4217,6 +4217,12 @@ Duro被大学退学（热度：318839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%97%E8%A1%A3%E7%BB%93%E6%9D%9F%E5%8F%91%E7%8E%B0%E7%8C%AB%E5%92%AA%E5%9C%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E9%87%8C%23" target="weibo">
 女子洗衣结束发现猫咪在洗衣机里（热度：300027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CP%E6%84%9F%20%E7%8E%84%E5%AD%A6%23" target="weibo">
+CP感 玄学（热度：299094）
 </a>
 </li>
 
@@ -5835,6 +5841,12 @@ KatyPerry官宣恋情（热度：223848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A%23" target="weibo">
+多校撤销外语专业（热度：210925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%85%AD%E4%BD%8D%E8%89%BA%E4%BA%BA%E6%B2%A1%E4%B8%80%E4%B8%AA%E8%83%BD%E4%BD%93%E9%9D%A2%E7%9A%84%E4%B8%8A%E5%8F%B0%23" target="weibo">
 这六位艺人没一个能体面的上台（热度：210822）
 </a>
@@ -5999,18 +6011,6 @@ Chovy剃寸头了（热度：207254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BF%A9%E9%AD%94%E4%B8%B8%E7%94%9F%E4%BA%86%E4%B8%AA%E7%81%B5%E7%8F%A0%23" target="weibo">
 这才是真的俩魔丸生了个灵珠（热度：207241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%90%B3%E7%90%B3%E5%88%B7%E6%96%B0%E4%B8%AA%E4%BA%BA%E8%87%AA%E7%94%B1%E6%BB%91%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9%23" target="weibo">
-马琳琳刷新个人自由滑最好成绩（热度：207115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23" target="weibo">
-大雪（热度：206934）
 </a>
 </li>
 
