@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765222742378,
+  "endTime": 1765225963055,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -27883,6 +27883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19023,
+      "num": 28805,
+      "word": "留几手全球征婚要求女方是富婆",
+      "onboard_time": 1765222634,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 18959,
       "num": 131305,
       "word": "官方通报一电梯卡人致1人死亡",
@@ -28033,6 +28041,14 @@
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17283,
+      "num": 27054,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 17230,
@@ -28203,6 +28219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15740,
+      "num": 28834,
+      "word": "爱奇艺给刘诗诗粉丝退款",
+      "onboard_time": 1765222095,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15669,
       "num": 106011,
       "word": "嗑上双强cp就发了狠忘了情",
@@ -28225,14 +28249,6 @@
       "onboard_time": 1764658160,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15194,
-      "num": 28834,
-      "word": "爱奇艺给刘诗诗粉丝退款",
-      "onboard_time": 1765222095,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 15118,
@@ -28307,14 +28323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13839,
-      "num": 28805,
-      "word": "留几手全球征婚要求女方是富婆",
-      "onboard_time": 1765222634,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 13788,
       "num": 121688,
       "word": "3人疑在鄱阳湖湿地投毒被抓",
@@ -28336,6 +28344,14 @@
       "word": "特朗普称已确定美联储下任主席人选",
       "onboard_time": 1764577163,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13389,
+      "num": 26967,
+      "word": "日方颠倒黑白嫁祸于人别有用心",
+      "onboard_time": 1765223835,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -28617,6 +28633,14 @@
       "onboard_time": 1764924321,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7423,
+      "num": 27102,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765185261,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 7298,
