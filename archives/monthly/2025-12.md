@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 14:45:00
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 14:58:13
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%A3%E5%A6%B9%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%91%E7%AC%91%E7%BA%B3%E4%BA%86%23" target="weibo">
 辣妹虞书欣我笑纳了（热度：1710357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%86%E6%89%8B%E4%BA%86%E5%90%97%23" target="weibo">
+秦岚魏大勋分手了吗（热度：1700867）
 </a>
 </li>
 
@@ -587,12 +593,6 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E4%B8%8A%E6%81%8B%E7%BB%BC%20%E7%95%99%E5%87%A0%E6%89%8B%E7%A0%B4%E9%98%B2%23" target="weibo">
 葛夕上恋综 留几手破防（热度：1019056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%86%E6%89%8B%E4%BA%86%E5%90%97%23" target="weibo">
-秦岚魏大勋分手了吗（热度：1016284）
 </a>
 </li>
 
@@ -3195,6 +3195,12 @@ F1（热度：401349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E5%92%96%E5%95%A1%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
+韩国的咖啡已经进化到这种程度了吗（热度：369767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%87%AA%E6%9B%9D%E6%81%8B%E7%88%B1%E7%BB%8F%E5%8E%86%23" target="weibo">
 王嘉尔自曝恋爱经历（热度：368767）
 </a>
@@ -4797,6 +4803,12 @@ iPhone用户的尴尬瞬间（热度：257861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%20%E7%9B%97%E7%89%88%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E4%B8%8A%E6%98%A0%23" target="weibo">
+俄罗斯 盗版疯狂动物城上映（热度：255272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%96%B9%E8%B5%B7%E8%AF%89%E9%80%80%E8%BF%98%E5%85%A8%E9%83%A8%E5%BD%A9%E7%A4%BC%23" target="weibo">
 男方起诉退还全部彩礼（热度：255262）
 </a>
@@ -4973,12 +4985,6 @@ LPL（热度：247418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%81%8A%E5%95%A5%E5%91%A2%23" target="weibo">
 王一博辛芷蕾聊啥呢（热度：243334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E5%92%96%E5%95%A1%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
-韩国的咖啡已经进化到这种程度了吗（热度：243300）
 </a>
 </li>
 
@@ -5213,6 +5219,12 @@ LPL（热度：247418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%B7%B3%E5%87%A4%E5%87%B0%E5%8F%B0%E5%A5%B3%E8%B7%B3%E8%AF%9B%E4%BB%99%E5%8F%B0%23" target="weibo">
 男跳凤凰台女跳诛仙台（热度：233795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%82%BC%E6%98%8E%E4%BA%89%E8%AE%AE%23" target="weibo">
+红楼梦悼明争议（热度：233650）
 </a>
 </li>
 
@@ -5453,6 +5465,12 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%BB%8B%E6%89%B0%E8%BE%BD%E5%AE%81%E8%88%B0%E8%AE%AD%E7%BB%83%23" target="weibo">
 日本自卫队滋扰辽宁舰训练（热度：224527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%8012%E6%9C%888%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23" target="weibo">
+中央政治局12月8日召开会议（热度：223985）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Uzi邀请Wayward试训（热度：206113）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E8%AF%88%E9%AA%971451%E4%B8%87%E7%A7%9F%E8%B1%AA%E8%BD%A6%E5%85%BB%E7%94%B7%E6%A8%A1%23" target="weibo">
 幼儿园园长诈骗1451万租豪车养男模（热度：206075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%BB%E6%BC%94%E8%AF%9D%E5%89%A7%E5%AE%98%E5%AE%A3%E5%BC%80%E7%A5%A8%E6%97%B6%E9%97%B4%23" target="weibo">
-王俊凯主演话剧官宣开票时间（热度：205787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%BE%90%E7%91%9B%E5%BD%AC%E5%87%AD%E5%AE%9E%E5%8A%9B%E5%BE%97%E5%88%B0%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
-王楚钦说徐瑛彬凭实力得到世界冠军（热度：205639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%92%8C%E6%9E%97%E5%A4%8F%E8%96%87%E6%98%AF%E5%A4%A7%E5%AD%A6%E5%90%8C%E5%AD%A6%23" target="weibo">
-陈晓和林夏薇是大学同学（热度：205637）
 </a>
 </li>
 

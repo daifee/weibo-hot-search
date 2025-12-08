@@ -1,0 +1,410 @@
+{
+  "runTime": 1765177093510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030912,
+        "num": 1164946,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637009,
+        "num": 637009,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44333,
+        "num": 635156,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653261,
+        "num": 603905,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67380,
+        "num": 580241,
+        "word": "星穹铁道二相乐园预告",
+        "onboard_time": 1765176625,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331133,
+        "num": 554634,
+        "word": "泰国对柬埔寨发动空袭",
+        "onboard_time": 1765172422,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292935,
+        "num": 545330,
+        "word": "孟子义李昀锐 星光大赏",
+        "onboard_time": 1765170861,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239177,
+        "num": 516260,
+        "word": "日军被爆引导美军轰炸平民",
+        "onboard_time": 1765168882,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222566,
+        "num": 507314,
+        "word": "梁靖崑家里人多拿走王楚钦的熊猫",
+        "onboard_time": 1765173623,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149604,
+        "num": 476051,
+        "word": "A股行情",
+        "onboard_time": 1765167501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469206,
+        "num": 469206,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435742,
+        "num": 435742,
+        "word": "郭德纲相声被举报内容低俗",
+        "onboard_time": 1765173081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387298,
+        "num": 387298,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 369767,
+        "num": 369767,
+        "word": "韩国的咖啡已经进化到这种程度了吗",
+        "onboard_time": 1765175180,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280233,
+        "num": 280233,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 223985,
+        "num": 273426,
+        "word": "中央政治局12月8日召开会议",
+        "onboard_time": 1765174280,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270754,
+        "num": 270754,
+        "word": "日本婴儿残尸有刀具切割痕迹",
+        "onboard_time": 1765170082,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255272,
+        "num": 255272,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70812,
+        "num": 252040,
+        "word": "1600元泰兰尼斯童鞋拿货价不到3折",
+        "onboard_time": 1765176081,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87874,
+        "num": 247229,
+        "word": "外来媳妇本地郎大结局",
+        "onboard_time": 1765176560,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1700867,
+        "num": 239421,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399163,
+        "num": 233967,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233650,
+        "num": 233650,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 22,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 196951,
+        "num": 196951,
+        "word": "王楚然提抹胸",
+        "onboard_time": 1765167442,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185013,
+        "num": 185013,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765170982,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181947,
+        "num": 181947,
+        "word": "白鹿晒和小酒窝合照",
+        "onboard_time": 1765175421,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176626,
+        "num": 176626,
+        "word": "女子长12根手指自称灵活好用",
+        "onboard_time": 1765175720,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167484,
+        "num": 167484,
+        "word": "星光大赏 没有85花",
+        "onboard_time": 1765170199,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155940,
+        "num": 155940,
+        "word": "商家故意不打包让骑手干等",
+        "onboard_time": 1765174762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144847,
+        "num": 144847,
+        "word": "钟丽缇想让女儿上清北",
+        "onboard_time": 1765168042,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137539,
+        "num": 137539,
+        "word": "Chovy剃寸头了",
+        "onboard_time": 1765170982,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137079,
+        "num": 137079,
+        "word": "张钧甯带助理减肥36斤",
+        "onboard_time": 1765171041,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134570,
+        "num": 134570,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134389,
+        "num": 134389,
+        "word": "偶像练习生七年后居然还有售后",
+        "onboard_time": 1765171281,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133279,
+        "num": 133279,
+        "word": "退学北大考上清华小伙被白嫖家教费",
+        "onboard_time": 1765166902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132532,
+        "num": 132532,
+        "word": "秦岚 男人不重要",
+        "onboard_time": 1765169423,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127672,
+        "num": 127672,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115149,
+        "num": 115149,
+        "word": "A股",
+        "onboard_time": 1765175421,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30023,
+        "num": 114599,
+        "word": "男子见到干草堆就忍不住放火",
+        "onboard_time": 1765176141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19455,
+        "num": 113317,
+        "word": "约唱三小时KTV的帅哥是黄子弘凡",
+        "onboard_time": 1765176860,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85270,
+        "num": 111994,
+        "word": "WE对战DYG",
+        "onboard_time": 1765175060,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119007,
+        "num": 111550,
+        "word": "十个勤天微短剧开机仪式",
+        "onboard_time": 1765176920,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110727,
+        "num": 110727,
+        "word": "林俊杰 大牌小耍",
+        "onboard_time": 1765167021,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75045,
+        "num": 108500,
+        "word": "任前公示中县委副书记年龄打架",
+        "onboard_time": 1765175660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107798,
+        "num": 107798,
+        "word": "这个顶流发饰太上头了",
+        "onboard_time": 1765176860,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106240,
+        "num": 107710,
+        "word": "得闲谨制里为什么让小孩抱公鸡",
+        "onboard_time": 1765174940,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107709,
+        "num": 107709,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101722,
+        "num": 101722,
+        "word": "鞠婧祎9年后再出席星光大赏",
+        "onboard_time": 1765174459,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96122,
+        "num": 99774,
+        "word": "我这一身聚酯纤维派上用场了",
+        "onboard_time": 1765176980,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79435,
+        "num": 99242,
+        "word": "杨瀚森婉拒给首发表现打分",
+        "onboard_time": 1765176625,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

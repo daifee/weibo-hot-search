@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765176300365,
+  "endTime": 1765177093510,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -48,6 +48,14 @@
       "word": "金晨 再也不自己乱化妆了",
       "onboard_time": 1765104321,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1700867,
+      "num": 239421,
+      "word": "秦岚魏大勋分手了吗",
+      "onboard_time": 1765175480,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1765170263,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1016284,
-      "num": 196058,
-      "word": "秦岚魏大勋分手了吗",
-      "onboard_time": 1765175480,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1009961,
@@ -875,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369767,
+      "num": 369767,
+      "word": "韩国的咖啡已经进化到这种程度了吗",
+      "onboard_time": 1765175180,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368242,
       "num": 232503,
       "word": "沈梦辰居然奔四了",
@@ -1379,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255272,
+      "num": 255272,
+      "word": "俄罗斯 盗版疯狂动物城上映",
+      "onboard_time": 1765176201,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1765039580,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243300,
-      "num": 243300,
-      "word": "韩国的咖啡已经进化到这种程度了吗",
-      "onboard_time": 1765175180,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 242787,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1765155621,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 233650,
+      "num": 233650,
+      "word": "红楼梦悼明争议",
+      "onboard_time": 1765176021,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 232318,
@@ -1568,6 +1584,14 @@
       "word": "日本自卫队滋扰辽宁舰训练",
       "onboard_time": 1765095320,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 223985,
+      "num": 273426,
+      "word": "中央政治局12月8日召开会议",
+      "onboard_time": 1765174280,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -1947,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186045,
-      "num": 199543,
-      "word": "中央政治局12月8日召开会议",
-      "onboard_time": 1765174280,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185079,
       "num": 185079,
       "word": "白鹿晒和小酒窝合照",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1765092140,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176626,
+      "num": 176626,
+      "word": "女子长12根手指自称灵活好用",
+      "onboard_time": 1765175720,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174743,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1765159160,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155940,
+      "num": 155940,
+      "word": "商家故意不打包让骑手干等",
+      "onboard_time": 1765174762,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154643,
@@ -2819,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134570,
+      "num": 134570,
+      "word": "朱孝天回应缺席F4演唱会",
+      "onboard_time": 1765176740,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134066,
       "num": 134066,
       "word": "罗永浩谈豆包被部分app封杀",
@@ -2881,14 +2921,6 @@
       "onboard_time": 1765079001,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132274,
-      "num": 132274,
-      "word": "女子长12根手指自称灵活好用",
-      "onboard_time": 1765175720,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131818,
@@ -3227,14 +3259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 121382,
-      "num": 121382,
-      "word": "红楼梦悼明争议",
-      "onboard_time": 1765176021,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1765081820,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119007,
+      "num": 111550,
+      "word": "十个勤天微短剧开机仪式",
+      "onboard_time": 1765176920,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118810,
@@ -3643,14 +3675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111485,
-      "num": 111485,
-      "word": "俄罗斯 盗版疯狂动物城上映",
-      "onboard_time": 1765176201,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111266,
       "num": 111266,
       "word": "刘亦菲由内而外散发出的好状态",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1765168942,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107798,
+      "num": 107798,
+      "word": "这个顶流发饰太上头了",
+      "onboard_time": 1765176860,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107211,
@@ -4139,6 +4171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96122,
+      "num": 99774,
+      "word": "我这一身聚酯纤维派上用场了",
+      "onboard_time": 1765176980,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96067,
       "num": 96067,
       "word": "Gumayusi说HLE给予了自己尊重",
@@ -4363,6 +4403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87874,
+      "num": 247229,
+      "word": "外来媳妇本地郎大结局",
+      "onboard_time": 1765176560,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87580,
       "num": 87580,
       "word": "王楚钦孙颖莎11比4松岛辉空大藤沙月",
@@ -4507,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79435,
+      "num": 99242,
+      "word": "杨瀚森婉拒给首发表现打分",
+      "onboard_time": 1765176625,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
@@ -4579,6 +4635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75045,
+      "num": 121912,
+      "word": "任前公示中县委副书记年龄打架",
+      "onboard_time": 1765175660,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74660,
       "num": 193919,
       "word": "山西一工地发现2.9亿年前大型木化石",
@@ -4593,14 +4657,6 @@
       "onboard_time": 1765097421,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74346,
-      "num": 102743,
-      "word": "商家故意不打包让骑手干等",
-      "onboard_time": 1765174762,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74048,
@@ -4636,18 +4692,10 @@
     },
     {
       "raw_hot": 71732,
-      "num": 157615,
+      "num": 252040,
       "word": "1600元泰兰尼斯童鞋拿货价不到3折",
       "onboard_time": 1765176081,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71700,
-      "num": 121912,
-      "word": "任前公示中县委副书记年龄打架",
-      "onboard_time": 1765175660,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -4721,6 +4769,14 @@
       "onboard_time": 1765029804,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67380,
+      "num": 580241,
+      "word": "星穹铁道二相乐园预告",
+      "onboard_time": 1765176625,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 67155,
@@ -5395,6 +5451,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 30023,
+      "num": 122613,
+      "word": "男子见到干草堆就忍不住放火",
+      "onboard_time": 1765176141,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29279,
       "num": 134963,
       "word": "华晨宇 上一期没来亏了",
@@ -5432,14 +5496,6 @@
       "word": "该让全网最忙五人组歇歇了",
       "onboard_time": 1765166181,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25418,
-      "num": 122613,
-      "word": "男子见到干草堆就忍不住放火",
-      "onboard_time": 1765176141,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5553,6 +5609,14 @@
       "onboard_time": 1765130175,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19455,
+      "num": 113317,
+      "word": "约唱三小时KTV的帅哥是黄子弘凡",
+      "onboard_time": 1765176860,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 18795,
