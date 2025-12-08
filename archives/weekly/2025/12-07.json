@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765194080842,
+  "endTime": 1765198599112,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -363,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 676320,
+      "num": 202227,
+      "word": "张柏芝庭审 答非所问",
+      "onboard_time": 1765192461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 676309,
       "num": 1108209,
       "word": "男子海洋馆内抽烟被白鲸喷水",
@@ -417,6 +425,14 @@
       "onboard_time": 1765167442,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 638437,
+      "num": 1102149,
+      "word": "多校撤销外语专业",
+      "onboard_time": 1765182202,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 638259,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568246,
+      "num": 230489,
+      "word": "于正官宣张婉莹女一号",
+      "onboard_time": 1765193421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565657,
       "num": 1090505,
       "word": "腾讯视频星光大赏",
@@ -521,6 +545,14 @@
       "onboard_time": 1765121242,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 543389,
+      "num": 205597,
+      "word": "放了很久的衣服不要穿",
+      "onboard_time": 1765192341,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 541783,
@@ -699,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485409,
-      "num": 456961,
-      "word": "多校撤销外语专业",
-      "onboard_time": 1765182202,
-      "rank": 18,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 485369,
       "num": 337219,
       "word": "内娱顶流圈现状",
@@ -875,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442485,
-      "num": 205597,
-      "word": "放了很久的衣服不要穿",
-      "onboard_time": 1765192341,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 436070,
       "num": 243187,
       "word": "杨幂 我看诡秘拍的照片",
@@ -985,14 +1001,6 @@
       "onboard_time": 1765034843,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386381,
-      "num": 202227,
-      "word": "张柏芝庭审 答非所问",
-      "onboard_time": 1765192461,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 386117,
@@ -1331,6 +1339,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315948,
+      "num": 178273,
+      "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+      "onboard_time": 1765196061,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315859,
+      "num": 143521,
+      "word": "李现澳门扫街被路人警告",
+      "onboard_time": 1765196961,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315612,
       "num": 250424,
       "word": "上海一31岁女教师因病去世",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1765182561,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297780,
+      "num": 136114,
+      "word": "外卖员最不建议点的外卖",
+      "onboard_time": 1765194441,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 297530,
@@ -1659,6 +1691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247480,
+      "num": 143077,
+      "word": "谭松韵要开演唱会了",
+      "onboard_time": 1765197022,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246044,
       "num": 589153,
       "word": "梁靖崑家里人多拿走王楚钦的熊猫",
@@ -1723,6 +1763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239188,
+      "num": 944462,
+      "word": "苟仲文被判死缓终身监禁不得减刑假释",
+      "onboard_time": 1765189702,
+      "rank": 22,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 238841,
       "num": 215444,
       "word": "周杰伦晒和林俊杰合照",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1765155621,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 233287,
+      "num": 123333,
+      "word": "马克龙叫嚣欧盟或对华加征关税",
+      "onboard_time": 1765198163,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232318,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1765188681,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218316,
-      "num": 944462,
-      "word": "苟仲文被判死缓终身监禁不得减刑假释",
-      "onboard_time": 1765189702,
-      "rank": 22,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 218315,
@@ -2435,14 +2483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178092,
-      "num": 178092,
-      "word": "于正官宣张婉莹女一号",
-      "onboard_time": 1765193421,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177371,
       "num": 462422,
       "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1765167681,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174070,
+      "num": 129369,
+      "word": "花漾少女杀人事件",
+      "onboard_time": 1765194082,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 173684,
@@ -3115,6 +3163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 141350,
+      "num": 141350,
+      "word": "台湾花莲海域发生5.1级地震",
+      "onboard_time": 1765194141,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141190,
       "num": 141190,
       "word": "翟子路回应叫错李兰迪名字",
@@ -3531,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128692,
+      "num": 128692,
+      "word": "迅猛龙自曝23岁借钱付违约金",
+      "onboard_time": 1765194920,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128676,
       "num": 193601,
       "word": "白桃星座",
@@ -3763,6 +3827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123484,
+      "num": 144934,
+      "word": "WTT香港总决赛选手城市照",
+      "onboard_time": 1765194261,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "梁靖崑观赛的时候扶了下腰",
@@ -3945,6 +4017,14 @@
       "onboard_time": 1765176920,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118947,
+      "num": 118947,
+      "word": "汪苏泷疑似在报沈梦辰念热搜之仇",
+      "onboard_time": 1765194502,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 118810,
@@ -4843,6 +4923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100370,
+      "num": 100370,
+      "word": "立威廉患甲状腺癌",
+      "onboard_time": 1765198223,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99947,
       "num": 205741,
       "word": "外媒关注中国发布全球首款AI手机",
@@ -4971,6 +5059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96832,
+      "num": 96832,
+      "word": "向佐 郭碧婷是个很有主见的人",
+      "onboard_time": 1765194261,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96616,
       "num": 107940,
       "word": "华晨宇的表情",
@@ -5009,6 +5105,14 @@
       "onboard_time": 1765031666,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95038,
+      "num": 86987,
+      "word": "林子烨艾米 小张凌赫小张婧仪",
+      "onboard_time": 1765198281,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 94827,
@@ -5251,12 +5355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88889,
+      "num": 86983,
+      "word": "即刻上场",
+      "onboard_time": 1765196601,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88573,
       "num": 125438,
       "word": "马斯克呼吁废除欧盟",
       "onboard_time": 1765119082,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88168,
+      "num": 88168,
+      "word": "大帅给大家跳个初雪",
+      "onboard_time": 1765196782,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 87999,
@@ -5280,6 +5400,30 @@
       "word": "为挽婚姻做公证反失房产负债400万",
       "onboard_time": 1765092321,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86992,
+      "num": 86992,
+      "word": "美国战争部长称清楚自己的实际实力",
+      "onboard_time": 1765195041,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86979,
+      "num": 86978,
+      "word": "得闲谨制票房是排片的两倍",
+      "onboard_time": 1765198461,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 86744,
+      "num": 86979,
+      "word": "女护士患癌请病假遭拒",
+      "onboard_time": 1765197682,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -5347,6 +5491,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 84691,
+      "num": 84691,
+      "word": "白鹿时隔8年再来星光大赏",
+      "onboard_time": 1765194561,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84238,
       "num": 84238,
       "word": "A股商业航天板块高开",
@@ -5379,6 +5531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83377,
+      "num": 83377,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83218,
       "num": 85655,
       "word": "杨瀚森连得4分",
@@ -5401,6 +5561,14 @@
       "onboard_time": 1765160359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83035,
+      "num": 80066,
+      "word": "14岁的我23岁的我需要你",
+      "onboard_time": 1765197982,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81904,
@@ -6187,6 +6355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41784,
+      "num": 80071,
+      "word": "12月9日可能出现地磁暴",
+      "onboard_time": 1765197022,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41358,
       "num": 803395,
       "word": "一起为7000多名残疾人运动员加油",
@@ -6321,6 +6497,14 @@
       "onboard_time": 1765169541,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36329,
+      "num": 143695,
+      "word": "蒋易孙天宇演我上班",
+      "onboard_time": 1765195581,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 35615,
@@ -6523,12 +6707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24754,
+      "num": 87057,
+      "word": "男子开保时捷跑顺风车盗190块电瓶",
+      "onboard_time": 1765198223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24723,
       "num": 129703,
       "word": "新国标电动车爬陡坡吃力得靠人推",
       "onboard_time": 1765079781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24681,
+      "num": 135580,
+      "word": "中方批评日本挑战战后国际秩序",
+      "onboard_time": 1765197200,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24581,
@@ -6680,6 +6880,14 @@
       "word": "日本学者说高市应被停职处理",
       "onboard_time": 1765102939,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18673,
+      "num": 119003,
+      "word": "乌将美和平计划比作慕尼黑协定",
+      "onboard_time": 1765198400,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -6835,7 +7043,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3691,
+      "raw_hot": 3850,
       "num": 902554,
       "word": "残特奥会今日开幕",
       "onboard_time": 1765154900,

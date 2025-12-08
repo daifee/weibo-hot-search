@@ -1,0 +1,410 @@
+{
+  "runTime": 1765198599112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638437,
+        "num": 1102149,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 284617,
+        "num": 284617,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3850,
+        "num": 231332,
+        "word": "残特奥会今日开幕",
+        "onboard_time": 1765154900,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568246,
+        "num": 230489,
+        "word": "于正官宣张婉莹女一号",
+        "onboard_time": 1765193421,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186520,
+        "num": 186520,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315948,
+        "num": 178273,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239188,
+        "num": 162772,
+        "word": "苟仲文被判死缓终身监禁不得减刑假释",
+        "onboard_time": 1765189702,
+        "rank": 6,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 145764,
+        "num": 145764,
+        "word": "中央定调明年经济政策",
+        "onboard_time": 1765190661,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136777,
+        "num": 145363,
+        "word": "原来是迟蓬提醒的杨幂",
+        "onboard_time": 1765188320,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 123484,
+        "num": 144934,
+        "word": "WTT香港总决赛选手城市照",
+        "onboard_time": 1765194261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1717054,
+        "num": 144483,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543389,
+        "num": 144131,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36329,
+        "num": 143695,
+        "word": "蒋易孙天宇演我上班",
+        "onboard_time": 1765195581,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315859,
+        "num": 143521,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247480,
+        "num": 143077,
+        "word": "谭松韵要开演唱会了",
+        "onboard_time": 1765197022,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 676320,
+        "num": 142640,
+        "word": "张柏芝庭审 答非所问",
+        "onboard_time": 1765192461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207862,
+        "num": 142120,
+        "word": "苟仲文",
+        "onboard_time": 1765191621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158791,
+        "num": 141533,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141350,
+        "num": 141350,
+        "word": "台湾花莲海域发生5.1级地震",
+        "onboard_time": 1765194141,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 140641,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 452345,
+        "num": 138744,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445588,
+        "num": 137820,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297780,
+        "num": 136114,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24681,
+        "num": 135580,
+        "word": "中方批评日本挑战战后国际秩序",
+        "onboard_time": 1765197200,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79239,
+        "num": 133024,
+        "word": "苟仲文一审被判死缓",
+        "onboard_time": 1765185201,
+        "rank": 24,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 207623,
+        "num": 132002,
+        "word": "郑恺搂着孩子亲苗苗",
+        "onboard_time": 1765189401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197407,
+        "num": 131064,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 174070,
+        "num": 129369,
+        "word": "花漾少女杀人事件",
+        "onboard_time": 1765194082,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128692,
+        "num": 128692,
+        "word": "迅猛龙自曝23岁借钱付违约金",
+        "onboard_time": 1765194920,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127488,
+        "num": 127488,
+        "word": "网友首尔偶遇Angelababy",
+        "onboard_time": 1765186941,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233287,
+        "num": 123333,
+        "word": "马克龙叫嚣欧盟或对华加征关税",
+        "onboard_time": 1765198163,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18673,
+        "num": 119003,
+        "word": "乌将美和平计划比作慕尼黑协定",
+        "onboard_time": 1765198400,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118947,
+        "num": 118947,
+        "word": "汪苏泷疑似在报沈梦辰念热搜之仇",
+        "onboard_time": 1765194502,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100370,
+        "num": 100370,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96832,
+        "num": 96832,
+        "word": "向佐 郭碧婷是个很有主见的人",
+        "onboard_time": 1765194261,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96575,
+        "num": 96575,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95439,
+        "num": 95439,
+        "word": "周杰伦晒和林俊杰合照",
+        "onboard_time": 1765188681,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88168,
+        "num": 88168,
+        "word": "大帅给大家跳个初雪",
+        "onboard_time": 1765196782,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24754,
+        "num": 87057,
+        "word": "男子开保时捷跑顺风车盗190块电瓶",
+        "onboard_time": 1765198223,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86992,
+        "num": 86992,
+        "word": "美国战争部长称清楚自己的实际实力",
+        "onboard_time": 1765195041,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95038,
+        "num": 86987,
+        "word": "林子烨艾米 小张凌赫小张婧仪",
+        "onboard_time": 1765198281,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88889,
+        "num": 86983,
+        "word": "即刻上场",
+        "onboard_time": 1765196601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86744,
+        "num": 86979,
+        "word": "女护士患癌请病假遭拒",
+        "onboard_time": 1765197682,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86979,
+        "num": 86978,
+        "word": "得闲谨制票房是排片的两倍",
+        "onboard_time": 1765198461,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84691,
+        "num": 84691,
+        "word": "白鹿时隔8年再来星光大赏",
+        "onboard_time": 1765194561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83377,
+        "num": 83377,
+        "word": "台湾地震",
+        "onboard_time": 1765196361,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79524,
+        "num": 82809,
+        "word": "小狗体检小肚子duang一下弹出来了",
+        "onboard_time": 1765191382,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82741,
+        "num": 82741,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41784,
+        "num": 80071,
+        "word": "12月9日可能出现地磁暴",
+        "onboard_time": 1765197022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83035,
+        "num": 80066,
+        "word": "14岁的我23岁的我需要你",
+        "onboard_time": 1765197982,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
