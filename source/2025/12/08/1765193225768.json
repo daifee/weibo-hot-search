@@ -1,0 +1,410 @@
+{
+  "runTime": 1765193225768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 341857,
+        "num": 1054697,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156652,
+        "num": 944462,
+        "word": "苟仲文被判死缓终身监禁不得减刑假释",
+        "onboard_time": 1765189702,
+        "rank": 1,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 2953,
+        "num": 902554,
+        "word": "残特奥会今日开幕",
+        "onboard_time": 1765154900,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320744,
+        "num": 693950,
+        "word": "中央定调明年经济政策",
+        "onboard_time": 1765190661,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 660586,
+        "word": "王楚钦独守男单上半区",
+        "onboard_time": 1765187179,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563631,
+        "num": 563631,
+        "word": "5月龄女婴手术离世鉴定程序中止",
+        "onboard_time": 1765187421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264590,
+        "num": 556586,
+        "word": "苟仲文一审被判死缓",
+        "onboard_time": 1765185201,
+        "rank": 6,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 172529,
+        "num": 528023,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25998,
+        "num": 484555,
+        "word": "冰雪经济新玩法带动新消费",
+        "onboard_time": 1765190542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137151,
+        "num": 456961,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2406920,
+        "num": 434314,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421196,
+        "num": 421196,
+        "word": "小洛熙妈妈发声",
+        "onboard_time": 1765191321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315503,
+        "num": 315503,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283150,
+        "num": 283150,
+        "word": "原来是迟蓬提醒的杨幂",
+        "onboard_time": 1765188320,
+        "rank": 13,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 250784,
+        "num": 250784,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218855,
+        "num": 218855,
+        "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
+        "onboard_time": 1765188681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215444,
+        "num": 215444,
+        "word": "周杰伦晒和林俊杰合照",
+        "onboard_time": 1765188681,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195926,
+        "num": 195926,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176819,
+        "num": 176819,
+        "word": "张柏芝庭审 答非所问",
+        "onboard_time": 1765192461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23770,
+        "num": 176350,
+        "word": "男子吸烟被白鲸吐水系禁烟宣传视频",
+        "onboard_time": 1765192822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599639,
+        "num": 172743,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551019,
+        "num": 170124,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346605,
+        "num": 167862,
+        "word": "郑恺搂着孩子亲苗苗",
+        "onboard_time": 1765189401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253566,
+        "num": 165860,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 251630,
+        "num": 163671,
+        "word": "偶遇窦骁何超莲一起吃早餐",
+        "onboard_time": 1765188441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161287,
+        "num": 161287,
+        "word": "苟仲文",
+        "onboard_time": 1765191621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209745,
+        "num": 158191,
+        "word": "小狗体检小肚子duang一下弹出来了",
+        "onboard_time": 1765191382,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89776,
+        "num": 150793,
+        "word": "苟仲文受贿2.36亿余元",
+        "onboard_time": 1765191621,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184766,
+        "num": 148267,
+        "word": "网友首尔偶遇Angelababy",
+        "onboard_time": 1765186941,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144370,
+        "num": 144370,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 141229,
+        "num": 141229,
+        "word": "尖叫之夜魏大勋前任现任都在",
+        "onboard_time": 1765186821,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137431,
+        "num": 137431,
+        "word": "冬天的第一件羽绒服怎么买",
+        "onboard_time": 1765192882,
+        "rank": 31,
+        "category": "时尚,休闲"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "迪丽热巴两部剧人气TOP10",
+        "onboard_time": 1765190482,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115103,
+        "num": 115103,
+        "word": "钎城偷拍小乐",
+        "onboard_time": 1765192041,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 114552,
+        "word": "特朗普高市早苗涉台通话内容曝光",
+        "onboard_time": 1765191441,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114295,
+        "num": 114295,
+        "word": "5月龄女婴手术离世母亲再发声",
+        "onboard_time": 1765190901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114190,
+        "num": 114190,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47722,
+        "num": 114136,
+        "word": "盒马草莓蛋糕去年狂卖上亿",
+        "onboard_time": 1765192221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24402,
+        "num": 114023,
+        "word": "职场发小",
+        "onboard_time": 1765192281,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 9406,
+        "num": 113926,
+        "word": "弗朗西斯卡说看全运会学到很多",
+        "onboard_time": 1765192161,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747503,
+        "num": 113819,
+        "word": "马克龙回国后呼吁中国投资欧洲",
+        "onboard_time": 1765188441,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113772,
+        "num": 113772,
+        "word": "得闲谨制里天地玄黄地位约等于abandon",
+        "onboard_time": 1765192221,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111533,
+        "num": 111533,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110979,
+        "num": 110979,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109389,
+        "num": 109389,
+        "word": "印尼男子性侵残疾女子遭围殴致死",
+        "onboard_time": 1765184540,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108719,
+        "num": 108719,
+        "word": "白鹿碰了张凌赫头发他当场就变脸了",
+        "onboard_time": 1765180222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106350,
+        "num": 106350,
+        "word": "内娱顶流圈现状",
+        "onboard_time": 1765180941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28518,
+        "num": 106303,
+        "word": "男子冷静期毒杀儿女案妻子盼死刑",
+        "onboard_time": 1765191621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106269,
+        "num": 106269,
+        "word": "李小鹏回应女儿花滑天赋",
+        "onboard_time": 1765193183,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105573,
+        "num": 105573,
+        "word": "一顿饭吃完倒欠200大卡",
+        "onboard_time": 1765193121,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
