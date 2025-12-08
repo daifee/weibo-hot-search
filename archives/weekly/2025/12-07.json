@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765233845493,
+  "endTime": 1765236425536,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1307,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341193,
+      "num": 271780,
+      "word": "张柏芝庭审大喊所有事情都是假的",
+      "onboard_time": 1765207702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340343,
       "num": 259260,
       "word": "邓为的狗去世了",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1765075761,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 318430,
+      "num": 108810,
+      "word": "刘烨 不好好学习来追星干嘛",
+      "onboard_time": 1765229413,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 316458,
@@ -1681,14 +1697,6 @@
       "onboard_time": 1765115482,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 271780,
-      "num": 271780,
-      "word": "张柏芝庭审大喊所有事情都是假的",
-      "onboard_time": 1765207702,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 270625,
@@ -2635,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181301,
+      "num": 94399,
+      "word": "55岁女子吃冰箱冷冻肉确诊脑膜炎",
+      "onboard_time": 1765235717,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181184,
       "num": 125609,
       "word": "2025国家医保药品目录",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160423,
+      "num": 160423,
+      "word": "丁真对向佐说扛不住就别混这个圈子",
+      "onboard_time": 1765235779,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 160209,
@@ -3843,14 +3867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130689,
-      "num": 65018,
-      "word": "刘烨 不好好学习来追星干嘛",
-      "onboard_time": 1765229413,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130365,
       "num": 130365,
       "word": "日本晋级混团决赛",
@@ -4211,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121767,
+      "num": 106761,
+      "word": "郭德纲发文疑回应相声被举报",
+      "onboard_time": 1765232055,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121745,
       "num": 121745,
       "word": "得闲谨制隐喻",
@@ -4488,6 +4512,14 @@
       "word": "王曼昱谈及身体状况只有坚持",
       "onboard_time": 1765088240,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116734,
+      "num": 116734,
+      "word": "张家齐说感觉有点生不逢时",
+      "onboard_time": 1765235717,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -5075,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106429,
+      "num": 106429,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106269,
       "num": 106269,
       "word": "李小鹏回应女儿花滑天赋",
@@ -5265,6 +5305,14 @@
       "onboard_time": 1765197682,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "日本居民发布地震画面",
+      "onboard_time": 1765235658,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101541,
@@ -5795,6 +5843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89912,
+      "num": 89912,
+      "word": "读明史你会发现一个很诡异的现象",
+      "onboard_time": 1765236259,
+      "rank": 22,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 89874,
       "num": 89874,
       "word": "这就是语文老师说的借物喻人吗",
@@ -6171,6 +6227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74809,
+      "num": 96821,
+      "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
+      "onboard_time": 1765209441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74660,
       "num": 193919,
       "word": "山西一工地发现2.9亿年前大型木化石",
@@ -6315,6 +6379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67617,
+      "num": 63159,
+      "word": "日本观测到浪高0.7米海啸",
+      "onboard_time": 1765236199,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67453,
+      "num": 67453,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1765236199,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
@@ -6329,14 +6409,6 @@
       "onboard_time": 1765176625,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67297,
-      "num": 96821,
-      "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
-      "onboard_time": 1765209441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67155,
@@ -6435,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62715,
+      "num": 70516,
+      "word": "冬天洗澡劝你少做这3件事",
+      "onboard_time": 1765214656,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61943,
       "num": 928168,
       "word": "AG对战TE",
@@ -6491,6 +6571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59862,
+      "num": 109473,
+      "word": "小米汽车11月零售销量46249辆",
+      "onboard_time": 1765236259,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59231,
       "num": 161188,
       "word": "中国驻柬埔寨使馆发安全提醒",
@@ -6523,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57011,
+      "num": 62257,
+      "word": "留几手全球征婚要求女方是富婆",
+      "onboard_time": 1765222634,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 56899,
       "num": 285534,
       "word": "疯狂动物城2票房破29亿",
@@ -6547,12 +6643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56261,
+      "num": 71131,
+      "word": "李小鹏女儿参加花滑赛",
+      "onboard_time": 1765212318,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55820,
       "num": 55820,
       "word": "尖叫之夜奖项",
       "onboard_time": 1765058955,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55707,
+      "num": 55707,
+      "word": "涉事温泉回应大量女宾疑遭偷拍",
+      "onboard_time": 1765236318,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55354,
@@ -6587,14 +6699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54810,
-      "num": 63924,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54651,
       "num": 134251,
       "word": "印度夜店火灾已致25死",
@@ -6616,6 +6720,14 @@
       "word": "王晶回应曾说王祖贤腿丑",
       "onboard_time": 1765126338,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53762,
+      "num": 53762,
+      "word": "肖战的2026祝福",
+      "onboard_time": 1765236199,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -6713,6 +6825,14 @@
       "onboard_time": 1765159459,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50934,
+      "num": 50934,
+      "word": "王者最废手的5位英雄",
+      "onboard_time": 1765236259,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 50843,
@@ -6827,14 +6947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47330,
-      "num": 71131,
-      "word": "李小鹏女儿参加花滑赛",
-      "onboard_time": 1765212318,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46501,
       "num": 116611,
       "word": "张俪观众缘",
@@ -6873,14 +6985,6 @@
       "onboard_time": 1765089080,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45753,
-      "num": 62473,
-      "word": "郭德纲发文疑回应相声被举报",
-      "onboard_time": 1765232055,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 45655,
@@ -6939,6 +7043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44548,
+      "num": 50932,
+      "word": "王曼昱和队友香港逛街",
+      "onboard_time": 1765236259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44320,
       "num": 113817,
       "word": "国外女子产下不同父亲的双胞胎",
@@ -6971,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43178,
+      "num": 62103,
+      "word": "爱奇艺给刘诗诗粉丝退款",
+      "onboard_time": 1765222095,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42169,
       "num": 167836,
       "word": "安徽一政务清单被指照搬人名库",
@@ -6993,6 +7113,14 @@
       "onboard_time": 1765197022,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41682,
+      "num": 50930,
+      "word": "多位欧洲国家领导人近期访华",
+      "onboard_time": 1765236078,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41358,
@@ -7081,14 +7209,6 @@
       "onboard_time": 1765195581,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37914,
-      "num": 70516,
-      "word": "冬天洗澡劝你少做这3件事",
-      "onboard_time": 1765214656,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37587,
@@ -7387,12 +7507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27057,
-      "num": 62257,
-      "word": "留几手全球征婚要求女方是富婆",
-      "onboard_time": 1765222634,
-      "rank": 46,
-      "category": "网红"
+      "raw_hot": 26923,
+      "num": 75308,
+      "word": "漠河梦幻冰泡泡上线",
+      "onboard_time": 1765227433,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 26532,
@@ -7425,14 +7545,6 @@
       "onboard_time": 1765166181,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25547,
-      "num": 62103,
-      "word": "爱奇艺给刘诗诗粉丝退款",
-      "onboard_time": 1765222095,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 25002,
@@ -7545,14 +7657,6 @@
       "onboard_time": 1765140313,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20916,
-      "num": 67352,
-      "word": "漠河梦幻冰泡泡上线",
-      "onboard_time": 1765227433,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 20653,
