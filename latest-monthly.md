@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 16:54:33
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 17:37:11
 </p>
 </blockquote>
 <p>
@@ -1317,6 +1317,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+苟仲文一审被判死缓（热度：636803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%E7%A7%B0%E4%B8%BA%E6%8D%A7%E5%90%91%E4%BD%90%E4%BA%8F%E4%BA%86%E5%87%A0%E4%B8%AA%E4%BA%BF%23" target="weibo">
 向华强称为捧向佐亏了几个亿（热度：636234）
 </a>
@@ -2043,6 +2049,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
+学信网的含金量还在上升（热度：507468）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE%23" target="weibo">
 小伙缅北逃跑失败被掰断手指脚趾（热度：506952）
 </a>
@@ -2469,6 +2481,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%9B%9E%E5%BA%9426%E5%B2%81%E7%A0%94%E7%A9%B6%E5%91%98%E4%BB%BB%E5%8D%9A%E5%AF%BC%23" target="weibo">
+浙大回应26岁研究员任博导（热度：451589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%20%E9%BB%91%E9%A9%AC%23" target="weibo">
 狙击蝴蝶 黑马（热度：451535）
 </a>
@@ -2759,6 +2777,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%23" target="weibo">
 马克龙访问四川大学（热度：421339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A%23" target="weibo">
+多校撤销外语专业（热度：420776）
 </a>
 </li>
 
@@ -4641,6 +4665,12 @@ VOGUE预告（热度：269150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%8F%8C%E5%BC%80%23" target="weibo">
+北大原副校长被双开（热度：267070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%A3%9E%E5%90%BB%23" target="weibo">
 田曦薇飞吻（热度：266790）
 </a>
@@ -4979,6 +5009,12 @@ LPL（热度：247418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%8F%91%E7%81%AB%23" target="weibo">
 何赛飞一直在发火（热度：247284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E6%AE%8B%E7%96%BE%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%B4%E6%AE%B4%E8%87%B4%E6%AD%BB%23" target="weibo">
+印尼男子性侵残疾女子遭围殴致死（热度：246666）
 </a>
 </li>
 
@@ -5559,6 +5595,12 @@ KatyPerry官宣恋情（热度：223848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%87%E8%AE%BF%23" target="weibo">
+日本记者找不到中国游客采访（热度：223541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0%E4%B8%89%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3%23" target="weibo">
 仙剑奇侠传三动画定档（热度：223255）
 </a>
@@ -5823,6 +5865,12 @@ KatyPerry官宣恋情（热度：223848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E7%9C%8B%E6%96%B0%E9%97%BB%E6%89%8D%E7%9F%A5%E9%81%93%E8%A2%AB%E9%80%80%E5%87%BAF4%23" target="weibo">
+朱孝天看新闻才知道被退出F4（热度：211821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%87%A1%E8%BE%BE3%E8%87%B4%E6%AD%89%23" target="weibo">
 阿凡达3致歉（热度：211441）
 </a>
@@ -5841,14 +5889,14 @@ KatyPerry官宣恋情（热度：223848）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A%23" target="weibo">
-多校撤销外语专业（热度：210925）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%85%AD%E4%BD%8D%E8%89%BA%E4%BA%BA%E6%B2%A1%E4%B8%80%E4%B8%AA%E8%83%BD%E4%BD%93%E9%9D%A2%E7%9A%84%E4%B8%8A%E5%8F%B0%23" target="weibo">
+这六位艺人没一个能体面的上台（热度：210822）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%85%AD%E4%BD%8D%E8%89%BA%E4%BA%BA%E6%B2%A1%E4%B8%80%E4%B8%AA%E8%83%BD%E4%BD%93%E9%9D%A2%E7%9A%84%E4%B8%8A%E5%8F%B0%23" target="weibo">
-这六位艺人没一个能体面的上台（热度：210822）
+<a href="https://s.weibo.com/weibo?q=%2300%E8%8A%B1%E7%8E%8B%E6%A2%93%E8%8E%BC%E6%B2%A1%E6%9D%A5%E5%90%97%23" target="weibo">
+00花王梓莼没来吗（热度：210754）
 </a>
 </li>
 
@@ -5963,54 +6011,6 @@ TF家族冒泡（热度：209531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%88%B0%E4%BA%86%E7%8E%8B%E6%A2%93%E8%8E%BC%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF00%E8%8A%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 找到了王梓莼说自己是00花的原因（热度：208046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9D%80%E6%80%A5%E6%9B%BF%E9%A9%AC%E5%85%8B%E9%BE%99%E5%81%9A%E5%86%B3%E5%AE%9A%23" target="weibo">
-日本着急替马克龙做决定（热度：207791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%91%E7%B9%8130%E7%A7%92%E5%A6%82%E5%8E%95%E7%89%B5%E5%87%BA40%E4%BA%BA%E6%B6%89%E9%BB%84%E4%BC%A0%E6%92%AD%E7%BD%91%23" target="weibo">
-男子频繁30秒如厕牵出40人涉黄传播网（热度：207717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E7%8E%8B%E5%AE%89%E5%AE%87%E4%B8%8A%E7%8F%AD%E9%83%BD%E8%B7%AF%E8%BF%87%E8%BF%99%23" target="weibo">
-胡先煦王安宇上班都路过这（热度：207602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%B8%AA240%E5%A4%9A%E5%A4%A9%E6%9C%80%E5%90%8E%E9%80%9A%E8%AF%9D%E7%A7%B0%E6%B2%A1%E8%B7%AF%E4%BA%86%23" target="weibo">
-男子失踪240多天最后通话称没路了（热度：207597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%20%E5%89%A7%E5%AE%A3%23" target="weibo">
-成何体统 剧宣（热度：207492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E8%8E%B7%E5%B0%96%E5%8F%AB%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
-刘宇宁回应获尖叫男演员（热度：207327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Chovy%E5%89%83%E5%AF%B8%E5%A4%B4%E4%BA%86%23" target="weibo">
-Chovy剃寸头了（热度：207254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BF%A9%E9%AD%94%E4%B8%B8%E7%94%9F%E4%BA%86%E4%B8%AA%E7%81%B5%E7%8F%A0%23" target="weibo">
-这才是真的俩魔丸生了个灵珠（热度：207241）
 </a>
 </li>
 

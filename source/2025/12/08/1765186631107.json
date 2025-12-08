@@ -1,0 +1,410 @@
+{
+  "runTime": 1765186631107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636803,
+        "num": 1101888,
+        "word": "苟仲文一审被判死缓",
+        "onboard_time": 1765185201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434137,
+        "num": 434137,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31604,
+        "num": 431516,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524469,
+        "num": 390680,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197862,
+        "num": 366318,
+        "word": "WTT总决赛签表",
+        "onboard_time": 1765183159,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168652,
+        "num": 328402,
+        "word": "WTT香港总决赛混双分组",
+        "onboard_time": 1765186221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320113,
+        "num": 320113,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371855,
+        "num": 318805,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153740,
+        "num": 308630,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125084,
+        "num": 304504,
+        "word": "DYG战胜WE",
+        "onboard_time": 1765183340,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 451589,
+        "num": 299467,
+        "word": "浙大回应26岁研究员任博导",
+        "onboard_time": 1765183881,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 420776,
+        "num": 289519,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 356025,
+        "num": 283608,
+        "word": "内娱顶流圈现状",
+        "onboard_time": 1765180941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344696,
+        "num": 279960,
+        "word": "胖东来因抢购停售小方糖戒指",
+        "onboard_time": 1765178600,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323655,
+        "num": 269654,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267070,
+        "num": 267070,
+        "word": "北大原副校长被双开",
+        "onboard_time": 1765182622,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 223541,
+        "num": 223541,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216738,
+        "num": 216738,
+        "word": "商家故意不打包让骑手干等",
+        "onboard_time": 1765174762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38784,
+        "num": 216567,
+        "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
+        "onboard_time": 1765185622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42118,
+        "num": 216144,
+        "word": "华晨宇 刚学唱歌的人就想飙高音",
+        "onboard_time": 1765185681,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1172101,
+        "num": 215783,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842966,
+        "num": 215239,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566982,
+        "num": 214869,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507468,
+        "num": 214722,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 246666,
+        "num": 214202,
+        "word": "印尼男子性侵残疾女子遭围殴致死",
+        "onboard_time": 1765184540,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214109,
+        "num": 214109,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 211821,
+        "num": 211821,
+        "word": "朱孝天看新闻才知道被退出F4",
+        "onboard_time": 1765185681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210754,
+        "num": 210754,
+        "word": "00花王梓莼没来吗",
+        "onboard_time": 1765181900,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176304,
+        "num": 176304,
+        "word": "狙击蝴蝶吻戏 很欲",
+        "onboard_time": 1765185441,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173566,
+        "num": 173566,
+        "word": "狙击蝴蝶重拾长剧信心",
+        "onboard_time": 1765184060,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165929,
+        "num": 165929,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1765186040,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158984,
+        "num": 158984,
+        "word": "白鹿碰了张凌赫头发他当场就变脸了",
+        "onboard_time": 1765180222,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106650,
+        "num": 158071,
+        "word": "王曼昱首轮对阵张本美和",
+        "onboard_time": 1765183401,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157779,
+        "num": 157779,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135004,
+        "num": 135004,
+        "word": "刘亦菲8秒换轮胎这段",
+        "onboard_time": 1765180640,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131840,
+        "num": 131840,
+        "word": "南昌大学一附院被曝患者砍伤医生",
+        "onboard_time": 1765184961,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30299,
+        "num": 131700,
+        "word": "小青盒建议流感别叫流感",
+        "onboard_time": 1765186520,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18959,
+        "num": 131305,
+        "word": "官方通报一电梯卡人致1人死亡",
+        "onboard_time": 1765185622,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18141,
+        "num": 130736,
+        "word": "日本不同年薪的人群画像",
+        "onboard_time": 1765185801,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27557,
+        "num": 130446,
+        "word": "美国官方发文纪念珍珠港事件",
+        "onboard_time": 1765185740,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130289,
+        "num": 130289,
+        "word": "杨超越片场自拍",
+        "onboard_time": 1765186040,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141915,
+        "num": 130059,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127602,
+        "num": 127602,
+        "word": "领养剩下三只 可以和惠英红做亲戚",
+        "onboard_time": 1765180160,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127192,
+        "num": 127192,
+        "word": "南昌一医院发生伤人事件",
+        "onboard_time": 1765185860,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119616,
+        "num": 119616,
+        "word": "外来媳妇本地郎大结局",
+        "onboard_time": 1765176560,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 117133,
+        "word": "BLG官宣shad0w离队",
+        "onboard_time": 1765186520,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110887,
+        "num": 110887,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102941,
+        "num": 102941,
+        "word": "是时候重新认识流感了",
+        "onboard_time": 1765184660,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100144,
+        "num": 100144,
+        "word": "韩国的咖啡已经进化到这种程度了吗",
+        "onboard_time": 1765175180,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99465,
+        "num": 99465,
+        "word": "治婆婆还得婆婆的婆婆来",
+        "onboard_time": 1765184540,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

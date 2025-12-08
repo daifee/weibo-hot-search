@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765184073389,
+  "endTime": 1765186631107,
   "band_list": [
     {
       "raw_hot": 2030167,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 636803,
+      "num": 1101888,
+      "word": "苟仲文一审被判死缓",
+      "onboard_time": 1765185201,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 613196,
       "num": 448383,
       "word": "很多胃癌是一口一口吃出来的",
@@ -225,6 +233,14 @@
       "onboard_time": 1765168042,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507468,
+      "num": 214722,
+      "word": "学信网的含金量还在上升",
+      "onboard_time": 1765184241,
+      "rank": 23,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 501961,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451589,
+      "num": 299467,
+      "word": "浙大回应26岁研究员任博导",
+      "onboard_time": 1765183881,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 451535,
       "num": 359659,
       "word": "狙击蝴蝶 黑马",
@@ -353,6 +377,14 @@
       "onboard_time": 1765117884,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420776,
+      "num": 289519,
+      "word": "多校撤销外语专业",
+      "onboard_time": 1765182202,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 385940,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267070,
+      "num": 341532,
+      "word": "北大原副校长被双开",
+      "onboard_time": 1765182622,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 261778,
       "num": 261778,
       "word": "造谣安全员骚扰女选手当事人致歉",
@@ -569,6 +609,14 @@
       "onboard_time": 1765179200,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 246666,
+      "num": 214202,
+      "word": "印尼男子性侵残疾女子遭围殴致死",
+      "onboard_time": 1765184540,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 246044,
@@ -683,6 +731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223541,
+      "num": 223541,
+      "word": "日本记者找不到中国游客采访",
+      "onboard_time": 1765185860,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218315,
       "num": 218315,
       "word": "张钧甯带助理减肥36斤",
@@ -691,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210925,
-      "num": 276248,
-      "word": "多校撤销外语专业",
-      "onboard_time": 1765182202,
-      "rank": 18,
-      "category": "民生新闻,教育"
+      "raw_hot": 211821,
+      "num": 211821,
+      "word": "朱孝天看新闻才知道被退出F4",
+      "onboard_time": 1765185681,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 210822,
@@ -704,6 +760,14 @@
       "word": "这六位艺人没一个能体面的上台",
       "onboard_time": 1765165460,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210754,
+      "num": 210754,
+      "word": "00花王梓莼没来吗",
+      "onboard_time": 1765181900,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -724,7 +788,7 @@
     },
     {
       "raw_hot": 206123,
-      "num": 195701,
+      "num": 304504,
       "word": "DYG战胜WE",
       "onboard_time": 1765183340,
       "rank": 20,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 201936,
-      "num": 201936,
+      "num": 366318,
       "word": "WTT总决赛签表",
       "onboard_time": 1765183159,
       "rank": 42,
@@ -835,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176304,
+      "num": 176304,
+      "word": "狙击蝴蝶吻戏 很欲",
+      "onboard_time": 1765185441,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174701,
       "num": 174701,
       "word": "赵昭仪这次不是妹宝是女帝",
@@ -848,6 +920,14 @@
       "word": "47岁刘烨减重17斤新剧状态",
       "onboard_time": 1765170500,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173566,
+      "num": 173566,
+      "word": "狙击蝴蝶重拾长剧信心",
+      "onboard_time": 1765184060,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -867,12 +947,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168652,
+      "num": 328402,
+      "word": "WTT香港总决赛混双分组",
+      "onboard_time": 1765186221,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167789,
       "num": 167789,
       "word": "星光大赏官宣热度",
       "onboard_time": 1765178060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165929,
+      "num": 165929,
+      "word": "当我冲着女儿的颜值生了二胎",
+      "onboard_time": 1765186040,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 165624,
@@ -948,7 +1044,7 @@
     },
     {
       "raw_hot": 155310,
-      "num": 155310,
+      "num": 158071,
       "word": "王曼昱首轮对阵张本美和",
       "onboard_time": 1765183401,
       "rank": 34,
@@ -1107,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137545,
-      "num": 137545,
-      "word": "00花王梓莼没来吗",
-      "onboard_time": 1765181900,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137434,
       "num": 323872,
       "word": "零下30℃的漠河室内外温差达60℃",
@@ -1171,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134484,
-      "num": 341532,
-      "word": "北大原副校长被双开",
-      "onboard_time": 1765182622,
-      "rank": 9,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 134466,
       "num": 134466,
       "word": "T1翻盘NS",
@@ -1219,12 +1299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131840,
+      "num": 131840,
+      "word": "南昌大学一附院被曝患者砍伤医生",
+      "onboard_time": 1765184961,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130827,
       "num": 130827,
       "word": "日本分析师称春节旅游情况将十分严峻",
       "onboard_time": 1765158739,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130289,
+      "num": 130289,
+      "word": "杨超越片场自拍",
+      "onboard_time": 1765186040,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128676,
@@ -1249,6 +1345,14 @@
       "onboard_time": 1765181422,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127192,
+      "num": 127192,
+      "word": "南昌一医院发生伤人事件",
+      "onboard_time": 1765185860,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126895,
@@ -1369,6 +1473,14 @@
       "onboard_time": 1765179920,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117133,
+      "num": 117133,
+      "word": "BLG官宣shad0w离队",
+      "onboard_time": 1765186520,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 116406,
@@ -1675,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102941,
+      "num": 102941,
+      "word": "是时候重新认识流感了",
+      "onboard_time": 1765184660,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101402,
       "num": 101402,
       "word": "孙天宇发的杨雨光",
@@ -1729,6 +1849,14 @@
       "onboard_time": 1765172061,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99465,
+      "num": 99465,
+      "word": "治婆婆还得婆婆的婆婆来",
+      "onboard_time": 1765184540,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99157,
@@ -1801,14 +1929,6 @@
       "onboard_time": 1765170623,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93692,
-      "num": 155849,
-      "word": "浙大回应26岁研究员任博导",
-      "onboard_time": 1765183881,
-      "rank": 33,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 93399,
@@ -2387,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42118,
+      "num": 216144,
+      "word": "华晨宇 刚学唱歌的人就想飙高音",
+      "onboard_time": 1765185681,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41895,
       "num": 281116,
       "word": "建议内娱疯批演技都按这个标准卷",
@@ -2416,6 +2544,14 @@
       "word": "仅退款225件女子被曝有同伙",
       "onboard_time": 1765182500,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38784,
+      "num": 216567,
+      "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
+      "onboard_time": 1765185622,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2531,6 +2667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30299,
+      "num": 131700,
+      "word": "小青盒建议流感别叫流感",
+      "onboard_time": 1765186520,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30023,
       "num": 122613,
       "word": "男子见到干草堆就忍不住放火",
@@ -2545,6 +2689,14 @@
       "onboard_time": 1765174401,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27557,
+      "num": 130446,
+      "word": "美国官方发文纪念珍珠港事件",
+      "onboard_time": 1765185740,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26147,
@@ -2611,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18959,
+      "num": 131305,
+      "word": "官方通报一电梯卡人致1人死亡",
+      "onboard_time": 1765185622,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18473,
       "num": 163390,
       "word": "男子幻想一夜暴富连续6天偷彩票",
@@ -2625,6 +2785,14 @@
       "onboard_time": 1765168342,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18141,
+      "num": 130736,
+      "word": "日本不同年薪的人群画像",
+      "onboard_time": 1765185801,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16440,
