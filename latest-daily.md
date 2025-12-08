@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 05:23:54
+本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 05:38:50
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,14 @@ LGDNBW对战Hero久竞（热度：33119）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E8%8E%B7%E4%BD%93%E8%82%B2%E9%81%93%E5%BE%B7%E9%A3%8E%E5%B0%9A%E5%A5%96%23" target="weibo">
-张博恒获体育道德风尚奖（热度：31263）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：32919）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：29805）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E8%8E%B7%E4%BD%93%E8%82%B2%E9%81%93%E5%BE%B7%E9%A3%8E%E5%B0%9A%E5%A5%96%23" target="weibo">
+张博恒获体育道德风尚奖（热度：31263）
 </a>
 </li>
 
@@ -429,6 +429,12 @@ LGDNBW对战Hero久竞（热度：33119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%20%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E6%9D%A5%E8%BF%BD%E6%98%9F%E5%B9%B2%E5%98%9B%23" target="weibo">
+刘烨 不好好学习来追星干嘛（热度：14837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E9%A2%A0%E5%80%92%E9%BB%91%E7%99%BD%E5%AB%81%E7%A5%B8%E4%BA%8E%E4%BA%BA%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83%23" target="weibo">
 日方颠倒黑白嫁祸于人别有用心（热度：13691）
 </a>
@@ -442,7 +448,7 @@ LGDNBW对战Hero久竞（热度：33119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
-漠河梦幻冰泡泡上线（热度：12628）
+漠河梦幻冰泡泡上线（热度：13370）
 </a>
 </li>
 
@@ -460,7 +466,7 @@ LGDNBW对战Hero久竞（热度：33119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
-微博年度关键词赛博（热度：8297）
+微博年度关键词赛博（热度：9549）
 </a>
 </li>
 

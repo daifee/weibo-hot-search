@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 05:23:54
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 05:38:50
 </p>
 </blockquote>
 <p>
@@ -5403,6 +5403,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：32919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%97%A0%E6%84%8F%E6%94%B9%E5%8F%98%E5%8F%B0%E6%B5%B7%E7%8E%B0%E7%8A%B6%23" target="weibo">
 美防长称美国无意改变台海现状（热度：32806）
 </a>
@@ -5489,12 +5495,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%81%E5%88%B0%E5%B9%B2%E8%8D%89%E5%A0%86%E5%B0%B1%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%94%BE%E7%81%AB%23" target="weibo">
 男子见到干草堆就忍不住放火（热度：30023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：29805）
 </a>
 </li>
 
@@ -5811,6 +5811,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%20%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E6%9D%A5%E8%BF%BD%E6%98%9F%E5%B9%B2%E5%98%9B%23" target="weibo">
+刘烨 不好好学习来追星干嘛（热度：14837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%88%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E5%9B%9E%E5%8D%87%E8%87%B34.1%25%23" target="weibo">
 11月我国外贸增速回升至4.1%（热度：13996）
 </a>
@@ -5829,6 +5835,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
+漠河梦幻冰泡泡上线（热度：13370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E7%A7%B0%E8%A2%AB%E6%94%BB%E5%87%BB%E5%9B%A0%E9%BB%91%E7%86%8A%E6%83%B3%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%23" target="weibo">
 饲养员称被攻击因黑熊想吃胡萝卜（热度：13118）
 </a>
@@ -5837,12 +5849,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B7%BB%E7%A5%A5%E5%9B%9E%E5%BA%94%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%96%E5%BE%88%E5%BF%AB%E5%B0%B1%E7%BA%A2%E4%BA%86%23" target="weibo">
 陈添祥回应于正说他很快就红了（热度：12980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
-漠河梦幻冰泡泡上线（热度：12628）
 </a>
 </li>
 
@@ -5871,6 +5877,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
+微博年度关键词赛博（热度：9549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9Efes%E6%8A%A2%E7%A5%A8%23" target="weibo">
 原神fes抢票（热度：9491）
 </a>
@@ -5879,12 +5891,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1%E8%AF%B4%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A%E5%AD%A6%E5%88%B0%E5%BE%88%E5%A4%9A%23" target="weibo">
 弗朗西斯卡说看全运会学到很多（热度：9406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
-微博年度关键词赛博（热度：8297）
 </a>
 </li>
 
