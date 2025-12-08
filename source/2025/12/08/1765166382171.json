@@ -1,0 +1,410 @@
+{
+  "runTime": 1765166382171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857823,
+        "num": 1137251,
+        "word": "1818名包括明星网红在内双高人员被查",
+        "onboard_time": 1765163900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398137,
+        "num": 398137,
+        "word": "浙江卫视跨年晚会官宣",
+        "onboard_time": 1765161801,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33635,
+        "num": 345668,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808952,
+        "num": 329073,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141756,
+        "num": 310755,
+        "word": "杨瀚森转身暴扣",
+        "onboard_time": 1765157060,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305471,
+        "num": 305471,
+        "word": "成毅演了李莲花的反义词",
+        "onboard_time": 1765161200,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282240,
+        "num": 282240,
+        "word": "詹姆斯戴王冠",
+        "onboard_time": 1765164021,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283332,
+        "num": 281960,
+        "word": "张本美和说每次输王曼昱方式都一样",
+        "onboard_time": 1765160179,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41358,
+        "num": 277365,
+        "word": "一起为7000多名残疾人运动员加油",
+        "onboard_time": 1765165341,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128440,
+        "num": 275278,
+        "word": "湖人战胜76人",
+        "onboard_time": 1765163480,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 858848,
+        "num": 272196,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 726840,
+        "num": 268687,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 501961,
+        "num": 265967,
+        "word": "什么叫做假性亲密关系",
+        "onboard_time": 1765151299,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451535,
+        "num": 263867,
+        "word": "狙击蝴蝶 黑马",
+        "onboard_time": 1765164800,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370248,
+        "num": 258555,
+        "word": "白鹿张凌赫 过期糖",
+        "onboard_time": 1765165279,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127990,
+        "num": 256063,
+        "word": "王楚钦说徐瑛彬凭实力得到世界冠军",
+        "onboard_time": 1765156820,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361711,
+        "num": 254195,
+        "word": "李亚鹏谈第四个女儿",
+        "onboard_time": 1765164621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295016,
+        "num": 251561,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249325,
+        "num": 249325,
+        "word": "让成毅徐璐演兄妹的是天才",
+        "onboard_time": 1765165520,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64208,
+        "num": 248968,
+        "word": "厦门正在更新你的未来生活",
+        "onboard_time": 1765165279,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 420304,
+        "num": 248886,
+        "word": "警方通报44岁男子公园搂抱女童",
+        "onboard_time": 1765160241,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 256052,
+        "num": 248880,
+        "word": "白鹿曾舜晞关系好成这样了",
+        "onboard_time": 1765159400,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248753,
+        "num": 248753,
+        "word": "王鹤棣带沈月去了他的中学",
+        "onboard_time": 1765153101,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122562,
+        "num": 236093,
+        "word": "美国没支持日本慌了",
+        "onboard_time": 1765164980,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233757,
+        "num": 233757,
+        "word": "香港麦当劳居然这么好吃",
+        "onboard_time": 1765165700,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210822,
+        "num": 210822,
+        "word": "这六位艺人没一个能体面的上台",
+        "onboard_time": 1765165460,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121346,
+        "num": 177199,
+        "word": "鸿蒙智行五界首聚直播",
+        "onboard_time": 1765163000,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25798,
+        "num": 169017,
+        "word": "该让全网最忙五人组歇歇了",
+        "onboard_time": 1765166181,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168935,
+        "num": 168935,
+        "word": "华晨宇让小迪丽热巴别辜负那英",
+        "onboard_time": 1765164140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172629,
+        "num": 167978,
+        "word": "耳帝连发两篇小作文锐评林忆莲",
+        "onboard_time": 1765162700,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166214,
+        "num": 166214,
+        "word": "星光大赏名单",
+        "onboard_time": 1765150098,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157449,
+        "num": 157449,
+        "word": "现在的安睡裤怎么变成这样了",
+        "onboard_time": 1765161440,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 148356,
+        "word": "杨幂 于和伟我罩的",
+        "onboard_time": 1765166121,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143822,
+        "num": 143822,
+        "word": "iPhone17Pro系列破发",
+        "onboard_time": 1765165520,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137431,
+        "num": 137431,
+        "word": "男子犯低血糖一头栽进麻辣烫",
+        "onboard_time": 1765161921,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136729,
+        "num": 136729,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129838,
+        "num": 129838,
+        "word": "詹姆斯关键时刻连得10分",
+        "onboard_time": 1765164800,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 129314,
+        "word": "曝iPhone18系列测试拼接微透玻璃",
+        "onboard_time": 1765156340,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16067,
+        "num": 128595,
+        "word": "国外88岁大爷为救病妻每天收银8小时",
+        "onboard_time": 1765165639,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33883,
+        "num": 128487,
+        "word": "被孙颖莎帅到了",
+        "onboard_time": 1765165823,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128454,
+        "num": 128454,
+        "word": "很多胃癌是一口一口吃出来的",
+        "onboard_time": 1765125198,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127279,
+        "num": 127279,
+        "word": "庆功宴唯一素颜明星是黄景瑜",
+        "onboard_time": 1765149497,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "得闲谨制肖战彭昱畅干件大事",
+        "onboard_time": 1765164980,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122018,
+        "num": 122018,
+        "word": "白年好赫",
+        "onboard_time": 1765151719,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120227,
+        "num": 120227,
+        "word": "迪丽热巴演出了非人感",
+        "onboard_time": 1765164260,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32806,
+        "num": 118687,
+        "word": "美防长称美国无意改变台海现状",
+        "onboard_time": 1765164980,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118094,
+        "num": 118094,
+        "word": "长期不吃早餐有什么影响",
+        "onboard_time": 1765165040,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115733,
+        "num": 115733,
+        "word": "罗永浩谈豆包被部分app封杀",
+        "onboard_time": 1765162820,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 114241,
+        "word": "胡先煦眼眶泛红这一下",
+        "onboard_time": 1765166361,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112631,
+        "num": 112631,
+        "word": "罗永浩曝很多企业家想花钱上播客",
+        "onboard_time": 1765166121,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

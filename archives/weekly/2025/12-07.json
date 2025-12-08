@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765165482250,
+  "endTime": 1765166382171,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -187,6 +187,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 858848,
+      "num": 275529,
+      "word": "红楼梦 悼明",
+      "onboard_time": 1765163421,
+      "rank": 11,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 857823,
+      "num": 1137251,
+      "word": "1818名包括明星网红在内双高人员被查",
+      "onboard_time": 1765163900,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813192,
       "num": 405370,
       "word": "杨幂魏大勋内场同框",
@@ -203,20 +219,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 808952,
+      "num": 329073,
+      "word": "我叫李飞",
+      "onboard_time": 1765164140,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 792143,
       "num": 232546,
       "word": "王梓莼回应了",
       "onboard_time": 1765096641,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 789814,
-      "num": 275529,
-      "word": "红楼梦 悼明",
-      "onboard_time": 1765163421,
-      "rank": 11,
-      "category": "读书作家"
     },
     {
       "raw_hot": 732078,
@@ -331,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 571658,
-      "num": 300697,
-      "word": "我叫李飞",
-      "onboard_time": 1765164140,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 565657,
       "num": 1090505,
       "word": "腾讯视频星光大赏",
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 527474,
-      "num": 1084395,
-      "word": "1818名包括明星网红在内双高人员被查",
-      "onboard_time": 1765163900,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 519085,
       "num": 320284,
       "word": "王楚然从南湘变成唐宛如了",
@@ -451,6 +451,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 501961,
+      "num": 272452,
+      "word": "什么叫做假性亲密关系",
+      "onboard_time": 1765151299,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499745,
       "num": 262595,
       "word": "王鹤棣带沈月去了他的中学",
@@ -465,14 +473,6 @@
       "onboard_time": 1765083081,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 492299,
-      "num": 272452,
-      "word": "什么叫做假性亲密关系",
-      "onboard_time": 1765151299,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 490089,
@@ -561,6 +561,14 @@
       "onboard_time": 1765149618,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 451535,
+      "num": 263867,
+      "word": "狙击蝴蝶 黑马",
+      "onboard_time": 1765164800,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 451226,
@@ -732,11 +740,19 @@
     },
     {
       "raw_hot": 371608,
-      "num": 280602,
+      "num": 282240,
       "word": "詹姆斯戴王冠",
       "onboard_time": 1765164021,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370248,
+      "num": 258555,
+      "word": "白鹿张凌赫 过期糖",
+      "onboard_time": 1765165279,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 368242,
@@ -769,6 +785,14 @@
       "onboard_time": 1765108881,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361711,
+      "num": 254195,
+      "word": "李亚鹏谈第四个女儿",
+      "onboard_time": 1765164621,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 351216,
@@ -987,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295016,
+      "num": 251561,
+      "word": "得闲谨制",
+      "onboard_time": 1765028664,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288151,
       "num": 317667,
       "word": "全季酒店保洁用毛巾擦马桶",
@@ -1115,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262550,
-      "num": 262550,
-      "word": "狙击蝴蝶 黑马",
-      "onboard_time": 1765164800,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 261778,
       "num": 261778,
       "word": "造谣安全员骚扰女选手当事人致歉",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1765107142,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249325,
+      "num": 249325,
+      "word": "让成毅徐璐演兄妹的是天才",
+      "onboard_time": 1765165520,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 248464,
@@ -1275,12 +1307,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232646,
-      "num": 232646,
-      "word": "李亚鹏谈第四个女儿",
-      "onboard_time": 1765164621,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 233757,
+      "num": 233757,
+      "word": "香港麦当劳居然这么好吃",
+      "onboard_time": 1765165700,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 232318,
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210822,
+      "num": 210822,
+      "word": "这六位艺人没一个能体面的上台",
+      "onboard_time": 1765165460,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209367,
       "num": 209367,
       "word": "二婚夫妻买2套房被丈夫过户前妻",
@@ -1467,16 +1507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206203,
-      "num": 209779,
-      "word": "得闲谨制",
-      "onboard_time": 1765028664,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 205639,
-      "num": 229333,
+      "num": 256063,
       "word": "王楚钦说徐瑛彬凭实力得到世界冠军",
       "onboard_time": 1765156820,
       "rank": 22,
@@ -1681,14 +1713,6 @@
       "onboard_time": 1765082122,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185862,
-      "num": 185862,
-      "word": "白鹿张凌赫 过期糖",
-      "onboard_time": 1765165279,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 184949,
@@ -1979,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157449,
+      "num": 157449,
+      "word": "现在的安睡裤怎么变成这样了",
+      "onboard_time": 1765161440,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157262,
       "num": 157262,
       "word": "娜扎手过敏",
@@ -2075,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150597,
-      "num": 150597,
-      "word": "现在的安睡裤怎么变成这样了",
-      "onboard_time": 1765161440,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150263,
       "num": 141815,
       "word": "得闲谨制南京大屠杀幸存者的惊心之路",
@@ -2155,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148356,
+      "num": 148356,
+      "word": "杨幂 于和伟我罩的",
+      "onboard_time": 1765166121,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147511,
       "num": 200658,
       "word": "尹正说卸妆后大家才愿意跟我玩",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1765110921,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143822,
+      "num": 143822,
+      "word": "iPhone17Pro系列破发",
+      "onboard_time": 1765165520,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 142505,
@@ -2331,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137431,
+      "num": 137431,
+      "word": "男子犯低血糖一头栽进麻辣烫",
+      "onboard_time": 1765161921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137406,
       "num": 137406,
       "word": "穆祉丞深夜感慨",
@@ -2347,20 +2395,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136729,
+      "num": 136729,
+      "word": "iPhone17Pro官方破价",
+      "onboard_time": 1765166181,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136150,
       "num": 136150,
       "word": "女子遭75岁丈夫殴打村民发声",
       "onboard_time": 1765160659,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136035,
-      "num": 136035,
-      "word": "这六位艺人没一个能体面的上台",
-      "onboard_time": 1765165460,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 135833,
@@ -2627,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125180,
+      "num": 125180,
+      "word": "得闲谨制肖战彭昱畅干件大事",
+      "onboard_time": 1765164980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125070,
       "num": 125070,
       "word": "Peyz加入T1首秀MVP",
@@ -2723,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122562,
+      "num": 244252,
+      "word": "美国没支持日本慌了",
+      "onboard_time": 1765164980,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122192,
       "num": 122192,
       "word": "林诗栋2比1张禹珍",
@@ -2785,6 +2849,14 @@
       "onboard_time": 1765086321,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120227,
+      "num": 120227,
+      "word": "迪丽热巴演出了非人感",
+      "onboard_time": 1765164260,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 120125,
@@ -2867,20 +2939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118222,
-      "num": 118222,
-      "word": "迪丽热巴演出了非人感",
-      "onboard_time": 1765164260,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118191,
       "num": 118191,
       "word": "苹果烤蛋奶",
       "onboard_time": 1765089861,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118094,
+      "num": 118094,
+      "word": "长期不吃早餐有什么影响",
+      "onboard_time": 1765165040,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118030,
@@ -2995,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114241,
+      "num": 114241,
+      "word": "胡先煦眼眶泛红这一下",
+      "onboard_time": 1765166361,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114223,
       "num": 114223,
       "word": "王继续去了熟悉的米未",
@@ -3017,14 +3097,6 @@
       "onboard_time": 1765108762,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113451,
-      "num": 113451,
-      "word": "男子犯低血糖一头栽进麻辣烫",
-      "onboard_time": 1765161921,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113241,
@@ -3065,6 +3137,14 @@
       "onboard_time": 1765154720,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112631,
+      "num": 112631,
+      "word": "罗永浩曝很多企业家想花钱上播客",
+      "onboard_time": 1765166121,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 112475,
@@ -3699,14 +3779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90242,
-      "num": 90242,
-      "word": "长期不吃早餐有什么影响",
-      "onboard_time": 1765165040,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 89874,
       "num": 89874,
       "word": "这就是语文老师说的借物喻人吗",
@@ -4091,20 +4163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64208,
+      "num": 248968,
+      "word": "厦门正在更新你的未来生活",
+      "onboard_time": 1765165279,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 63071,
       "num": 651333,
       "word": "公共Wifi真不能随便蹭",
       "onboard_time": 1765091061,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62631,
-      "num": 206213,
-      "word": "厦门正在更新你的未来生活",
-      "onboard_time": 1765165279,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 61943,
@@ -4459,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41358,
+      "num": 281489,
+      "word": "一起为7000多名残疾人运动员加油",
+      "onboard_time": 1765165341,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41293,
       "num": 75399,
       "word": "哈尔滨的面包树上停满了小鸟",
@@ -4587,12 +4667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33707,
-      "num": 281489,
-      "word": "一起为7000多名残疾人运动员加油",
-      "onboard_time": 1765165341,
-      "rank": 8,
+      "raw_hot": 33883,
+      "num": 128487,
+      "word": "被孙颖莎帅到了",
+      "onboard_time": 1765165823,
+      "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33635,
+      "num": 345668,
+      "word": "尔滨雪人先生即将上线",
+      "onboard_time": 1765165581,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33213,
@@ -4617,6 +4705,14 @@
       "onboard_time": 1765141994,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32806,
+      "num": 134168,
+      "word": "美防长称美国无意改变台海现状",
+      "onboard_time": 1765164980,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32406,
@@ -4689,6 +4785,14 @@
       "onboard_time": 1765128136,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 25798,
+      "num": 169017,
+      "word": "该让全网最忙五人组歇歇了",
+      "onboard_time": 1765166181,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24723,
@@ -4811,14 +4915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17795,
-      "num": 244252,
-      "word": "美国没支持日本慌了",
-      "onboard_time": 1765164980,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17739,
       "num": 109817,
       "word": "孙颖莎绝妙回球变线",
@@ -4859,20 +4955,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16067,
+      "num": 128595,
+      "word": "国外88岁大爷为救病妻每天收银8小时",
+      "onboard_time": 1765165639,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15826,
       "num": 49915,
       "word": "于正说杨幂值得更好的",
       "onboard_time": 1765135094,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14866,
-      "num": 134168,
-      "word": "美防长称美国无意改变台海现状",
-      "onboard_time": 1765164980,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13118,
