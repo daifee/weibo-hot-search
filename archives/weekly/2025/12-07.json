@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765186631107,
+  "endTime": 1765187396701,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -153,6 +153,14 @@
       "onboard_time": 1765037004,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1063890,
+      "num": 1170222,
+      "word": "苟仲文一审被判死缓",
+      "onboard_time": 1765185201,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1026892,
@@ -401,14 +409,6 @@
       "onboard_time": 1765168882,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 636803,
-      "num": 1101888,
-      "word": "苟仲文一审被判死缓",
-      "onboard_time": 1765185201,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 622550,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485409,
+      "num": 317729,
+      "word": "多校撤销外语专业",
+      "onboard_time": 1765182202,
+      "rank": 18,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 485369,
       "num": 337219,
       "word": "内娱顶流圈现状",
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 451589,
-      "num": 299467,
+      "num": 314558,
       "word": "浙大回应26岁研究员任博导",
       "onboard_time": 1765183881,
       "rank": 33,
@@ -849,14 +857,6 @@
       "onboard_time": 1765099041,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420776,
-      "num": 289519,
-      "word": "多校撤销外语专业",
-      "onboard_time": 1765182202,
-      "rank": 18,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 410933,
@@ -1128,6 +1128,14 @@
       "word": "泰国对柬埔寨发动空袭",
       "onboard_time": 1765172422,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 337447,
+      "num": 312876,
+      "word": "日本记者找不到中国游客采访",
+      "onboard_time": 1765185860,
+      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -1427,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270625,
+      "num": 214202,
+      "word": "印尼男子性侵残疾女子遭围殴致死",
+      "onboard_time": 1765184540,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 268894,
       "num": 235250,
       "word": "美防长警告日本",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1765080201,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 246666,
-      "num": 214202,
-      "word": "印尼男子性侵残疾女子遭围殴致死",
-      "onboard_time": 1765184540,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 246044,
@@ -1755,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223541,
-      "num": 223541,
-      "word": "日本记者找不到中国游客采访",
-      "onboard_time": 1765185860,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 221762,
       "num": 221762,
       "word": "丁禹兮评论了张函瑞",
@@ -1916,7 +1916,7 @@
     },
     {
       "raw_hot": 206123,
-      "num": 304504,
+      "num": 305663,
       "word": "DYG战胜WE",
       "onboard_time": 1765183340,
       "rank": 20,
@@ -2035,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200632,
+      "num": 165929,
+      "word": "当我冲着女儿的颜值生了二胎",
+      "onboard_time": 1765186040,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "让体脂率不断下降的习惯",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1765117222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196795,
+      "num": 340258,
+      "word": "WTT香港总决赛混双分组",
+      "onboard_time": 1765186221,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 196742,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1765079120,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188931,
+      "num": 188931,
+      "word": "得闲谨制票房",
+      "onboard_time": 1765186641,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 188881,
@@ -2371,14 +2395,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168652,
-      "num": 328402,
-      "word": "WTT香港总决赛混双分组",
-      "onboard_time": 1765186221,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "虞书欣雨爱",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1765102160,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165929,
-      "num": 165929,
-      "word": "当我冲着女儿的颜值生了二胎",
-      "onboard_time": 1765186040,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 165763,
@@ -3091,6 +3099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "南昌一医院发生伤人事件",
+      "onboard_time": 1765185860,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136150,
       "num": 136150,
       "word": "女子遭75岁丈夫殴打村民发声",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1765062736,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135735,
+      "num": 319745,
+      "word": "王楚钦独守男单上半区",
+      "onboard_time": 1765187179,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 135713,
@@ -3377,14 +3401,6 @@
       "onboard_time": 1765118122,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127192,
-      "num": 127192,
-      "word": "南昌一医院发生伤人事件",
-      "onboard_time": 1765185860,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127109,
@@ -3715,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119463,
+      "num": 119463,
+      "word": "徐冬冬 寸头也和婚礼不冲突",
+      "onboard_time": 1765186760,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119216,
       "num": 113117,
       "word": "突然就明白了多年前同学录的意思",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1765081041,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118615,
+      "num": 118615,
+      "word": "尖叫之夜魏大勋前任现任都在",
+      "onboard_time": 1765186821,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 118604,
@@ -5139,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76102,
+      "num": 209416,
+      "word": "小青盒建议流感别叫流感",
+      "onboard_time": 1765186520,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -5168,6 +5208,14 @@
       "word": "翟子路主持",
       "onboard_time": 1765040418,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75495,
+      "num": 216144,
+      "word": "华晨宇 刚学唱歌的人就想飙高音",
+      "onboard_time": 1765185681,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -5208,6 +5256,14 @@
       "word": "母亲肺癌手术儿子陪护时也查出肺癌",
       "onboard_time": 1765150098,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73117,
+      "num": 216567,
+      "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
+      "onboard_time": 1765185622,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5779,14 +5835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42118,
-      "num": 216144,
-      "word": "华晨宇 刚学唱歌的人就想飙高音",
-      "onboard_time": 1765185681,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41895,
       "num": 281116,
       "word": "建议内娱疯批演技都按这个标准卷",
@@ -5835,6 +5883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40138,
+      "num": 130446,
+      "word": "美国官方发文纪念珍珠港事件",
+      "onboard_time": 1765185740,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40076,
       "num": 130624,
       "word": "Gumayusi说能战胜T1",
@@ -5857,14 +5913,6 @@
       "onboard_time": 1765113081,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38784,
-      "num": 216567,
-      "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
-      "onboard_time": 1765185622,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38116,
@@ -5995,12 +6043,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32719,
+      "num": 130736,
+      "word": "日本不同年薪的人群画像",
+      "onboard_time": 1765185801,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32406,
       "num": 272075,
       "word": "网警查处编造汽车造成8杀网络谣言案",
       "onboard_time": 1765153400,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32339,
+      "num": 125438,
+      "word": "章若楠骨架",
+      "onboard_time": 1765187001,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 32338,
@@ -6035,14 +6099,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 30299,
-      "num": 131700,
-      "word": "小青盒建议流感别叫流感",
-      "onboard_time": 1765186520,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 30113,
       "num": 110011,
       "word": "杨千嬅儿子长这么高了",
@@ -6075,20 +6131,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27557,
-      "num": 130446,
-      "word": "美国官方发文纪念珍珠港事件",
-      "onboard_time": 1765185740,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26532,
       "num": 285082,
       "word": "国家医保目录新增114种药品",
       "onboard_time": 1765070961,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26186,
+      "num": 127302,
+      "word": "网友首尔偶遇Angelababy",
+      "onboard_time": 1765186941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26147,
@@ -6265,14 +6321,6 @@
       "onboard_time": 1765168342,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18141,
-      "num": 130736,
-      "word": "日本不同年薪的人群画像",
-      "onboard_time": 1765185801,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17739,

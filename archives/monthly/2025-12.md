@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 17:37:11
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 17:49:56
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@ BLG官宣Viper加入（热度：1081304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23" target="weibo">
 特朗普点名日本（热度：1067508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+苟仲文一审被判死缓（热度：1063890）
 </a>
 </li>
 
@@ -1313,12 +1319,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E5%81%9C%E6%92%AD%E5%A6%82%E6%AD%A4%E8%82%87%E4%BA%8B%E5%BF%92%E4%BD%8E%E7%BA%A7%23" target="weibo">
 张雪峰被停播如此肇事忒低级（热度：637569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
-苟仲文一审被判死缓（热度：636803）
 </a>
 </li>
 
@@ -2217,6 +2217,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A%23" target="weibo">
+多校撤销外语专业（热度：485409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E6%B5%81%E5%9C%88%E7%8E%B0%E7%8A%B6%23" target="weibo">
 内娱顶流圈现状（热度：485369）
 </a>
@@ -2777,12 +2783,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%23" target="weibo">
 马克龙访问四川大学（热度：421339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A%23" target="weibo">
-多校撤销外语专业（热度：420776）
 </a>
 </li>
 
@@ -3683,6 +3683,12 @@ vivo回应直播间风波（热度：348356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%85%AC%E8%80%83%E5%89%8D%E5%BE%97%E7%9F%A5%E8%A2%AB%E8%AF%AF%E5%BD%95%E7%A4%BE%E4%BF%9D%23" target="weibo">
 应届生公考前得知被误录社保（热度：338420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%87%E8%AE%BF%23" target="weibo">
+日本记者找不到中国游客采访（热度：337447）
 </a>
 </li>
 
@@ -4635,6 +4641,12 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E6%AE%8B%E7%96%BE%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%B4%E6%AE%B4%E8%87%B4%E6%AD%BB%23" target="weibo">
+印尼男子性侵残疾女子遭围殴致死（热度：270625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E9%A2%84%E5%91%8A%23" target="weibo">
 VOGUE预告（热度：269150）
 </a>
@@ -5009,12 +5021,6 @@ LPL（热度：247418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%8F%91%E7%81%AB%23" target="weibo">
 何赛飞一直在发火（热度：247284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E6%AE%8B%E7%96%BE%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%B4%E6%AE%B4%E8%87%B4%E6%AD%BB%23" target="weibo">
-印尼男子性侵残疾女子遭围殴致死（热度：246666）
 </a>
 </li>
 
@@ -5591,12 +5597,6 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KatyPerry%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
 KatyPerry官宣恋情（热度：223848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%87%87%E8%AE%BF%23" target="weibo">
-日本记者找不到中国游客采访（热度：223541）
 </a>
 </li>
 

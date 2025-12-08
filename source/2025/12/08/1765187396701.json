@@ -1,0 +1,410 @@
+{
+  "runTime": 1765187396701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1063890,
+        "num": 1170222,
+        "word": "苟仲文一审被判死缓",
+        "onboard_time": 1765185201,
+        "rank": 0,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 415374,
+        "num": 415374,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32777,
+        "num": 371656,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429614,
+        "num": 369597,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 340258,
+        "word": "WTT香港总决赛混双分组",
+        "onboard_time": 1765186221,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332697,
+        "num": 332697,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177988,
+        "num": 323549,
+        "word": "WTT总决赛签表",
+        "onboard_time": 1765183159,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138195,
+        "num": 320568,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135735,
+        "num": 319745,
+        "word": "王楚钦独守男单上半区",
+        "onboard_time": 1765187179,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319482,
+        "num": 319482,
+        "word": "胖东来因抢购停售小方糖戒指",
+        "onboard_time": 1765178600,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485409,
+        "num": 317729,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 428811,
+        "num": 314558,
+        "word": "浙大回应26岁研究员任博导",
+        "onboard_time": 1765183881,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 337447,
+        "num": 312876,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337291,
+        "num": 309208,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 305663,
+        "word": "DYG战胜WE",
+        "onboard_time": 1765183340,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323956,
+        "num": 301950,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301265,
+        "num": 301265,
+        "word": "内娱顶流圈现状",
+        "onboard_time": 1765180941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261902,
+        "num": 261902,
+        "word": "北大原副校长被双开",
+        "onboard_time": 1765182622,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 209473,
+        "num": 209473,
+        "word": "商家故意不打包让骑手干等",
+        "onboard_time": 1765174762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 209416,
+        "word": "小青盒建议流感别叫流感",
+        "onboard_time": 1765186520,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1134280,
+        "num": 209079,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835820,
+        "num": 208790,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498505,
+        "num": 208621,
+        "word": "90花 结婚",
+        "onboard_time": 1765181961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475719,
+        "num": 208411,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 270625,
+        "num": 208315,
+        "word": "印尼男子性侵残疾女子遭围殴致死",
+        "onboard_time": 1765184540,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208088,
+        "num": 208088,
+        "word": "朱孝天看新闻才知道被退出F4",
+        "onboard_time": 1765185681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196510,
+        "num": 196510,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 188931,
+        "num": 188931,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75495,
+        "num": 187235,
+        "word": "华晨宇 刚学唱歌的人就想飙高音",
+        "onboard_time": 1765185681,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186040,
+        "num": 186040,
+        "word": "00花王梓莼没来吗",
+        "onboard_time": 1765181900,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73117,
+        "num": 162440,
+        "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
+        "onboard_time": 1765185622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200632,
+        "num": 161712,
+        "word": "当我冲着女儿的颜值生了二胎",
+        "onboard_time": 1765186040,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153905,
+        "num": 153905,
+        "word": "狙击蝴蝶吻戏 很欲",
+        "onboard_time": 1765185441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152085,
+        "num": 148311,
+        "word": "狙击蝴蝶重拾长剧信心",
+        "onboard_time": 1765184060,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97426,
+        "num": 136977,
+        "word": "王曼昱首轮对阵张本美和",
+        "onboard_time": 1765183401,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "南昌一医院发生伤人事件",
+        "onboard_time": 1765185860,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131069,
+        "num": 131069,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26186,
+        "num": 127302,
+        "word": "网友首尔偶遇Angelababy",
+        "onboard_time": 1765186941,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32339,
+        "num": 125438,
+        "word": "章若楠骨架",
+        "onboard_time": 1765187001,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124169,
+        "num": 124169,
+        "word": "外来媳妇本地郎大结局",
+        "onboard_time": 1765176560,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119463,
+        "num": 119463,
+        "word": "徐冬冬 寸头也和婚礼不冲突",
+        "onboard_time": 1765186760,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 119436,
+        "word": "白鹿碰了张凌赫头发他当场就变脸了",
+        "onboard_time": 1765180222,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "尖叫之夜魏大勋前任现任都在",
+        "onboard_time": 1765186821,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116217,
+        "num": 116217,
+        "word": "刘亦菲8秒换轮胎这段",
+        "onboard_time": 1765180640,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109803,
+        "num": 109803,
+        "word": "南昌大学一附院被曝患者砍伤医生",
+        "onboard_time": 1765184961,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99677,
+        "num": 99677,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96768,
+        "num": 96768,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765170982,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40138,
+        "num": 93399,
+        "word": "美国官方发文纪念珍珠港事件",
+        "onboard_time": 1765185740,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32719,
+        "num": 93217,
+        "word": "日本不同年薪的人群画像",
+        "onboard_time": 1765185801,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
