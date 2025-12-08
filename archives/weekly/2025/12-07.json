@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765236425536,
+  "endTime": 1765237219244,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1084,7 +1084,7 @@
     },
     {
       "raw_hot": 394597,
-      "num": 137816,
+      "num": 154414,
       "word": "卢克文公众号被封",
       "onboard_time": 1765207762,
       "rank": 43,
@@ -1203,11 +1203,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364872,
+      "num": 218019,
+      "word": "丁真对向佐说扛不住就别混这个圈子",
+      "onboard_time": 1765235779,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361711,
       "num": 254195,
       "word": "李亚鹏谈第四个女儿",
       "onboard_time": 1765164621,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 357904,
+      "num": 163686,
+      "word": "刘烨 不好好学习来追星干嘛",
+      "onboard_time": 1765229413,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1449,14 +1465,6 @@
       "onboard_time": 1765075761,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 318430,
-      "num": 108810,
-      "word": "刘烨 不好好学习来追星干嘛",
-      "onboard_time": 1765229413,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 316458,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1765107142,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253909,
+      "num": 103736,
+      "word": "55岁女子吃冰箱冷冻肉确诊脑膜炎",
+      "onboard_time": 1765235717,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248464,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1765203263,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208587,
+      "num": 208587,
+      "word": "张家齐说感觉有点生不逢时",
+      "onboard_time": 1765235717,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 208252,
@@ -2643,20 +2667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181301,
-      "num": 94399,
-      "word": "55岁女子吃冰箱冷冻肉确诊脑膜炎",
-      "onboard_time": 1765235717,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181184,
       "num": 125609,
       "word": "2025国家医保药品目录",
       "onboard_time": 1765074379,
       "rank": 31,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 181030,
+      "num": 181030,
+      "word": "日本居民发布地震画面",
+      "onboard_time": 1765235658,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180272,
@@ -2804,7 +2828,7 @@
     },
     {
       "raw_hot": 168830,
-      "num": 153452,
+      "num": 178658,
       "word": "日本自卫队战机紧急起飞越发频繁",
       "onboard_time": 1765208541,
       "rank": 30,
@@ -2977,14 +3001,6 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160423,
-      "num": 160423,
-      "word": "丁真对向佐说扛不住就别混这个圈子",
-      "onboard_time": 1765235779,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 160209,
@@ -3220,7 +3236,7 @@
     },
     {
       "raw_hot": 151486,
-      "num": 131712,
+      "num": 148443,
       "word": "60元取卡针被炒是铂金300元回收",
       "onboard_time": 1765209381,
       "rank": 17,
@@ -3233,6 +3249,14 @@
       "onboard_time": 1765089561,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150945,
+      "num": 150945,
+      "word": "郭德纲发文疑回应相声被举报",
+      "onboard_time": 1765232055,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150354,
@@ -4043,6 +4067,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125619,
+      "num": 68131,
+      "word": "日本观测到浪高0.7米海啸",
+      "onboard_time": 1765236199,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125558,
       "num": 125558,
       "word": "沈梦辰好漂亮",
@@ -4211,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122244,
+      "num": 122244,
+      "word": "幼儿园被虐女童多次被拖进死角打",
+      "onboard_time": 1765236800,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122192,
       "num": 122192,
       "word": "林诗栋2比1张禹珍",
@@ -4225,14 +4265,6 @@
       "onboard_time": 1765120402,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121767,
-      "num": 106761,
-      "word": "郭德纲发文疑回应相声被举报",
-      "onboard_time": 1765232055,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121745,
@@ -4507,19 +4539,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117021,
+      "num": 117021,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116765,
       "num": 710383,
       "word": "王曼昱谈及身体状况只有坚持",
       "onboard_time": 1765088240,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116734,
-      "num": 116734,
-      "word": "张家齐说感觉有点生不逢时",
-      "onboard_time": 1765235717,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -5107,14 +5139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106429,
-      "num": 106429,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106269,
       "num": 106269,
       "word": "李小鹏回应女儿花滑天赋",
@@ -5283,6 +5307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102590,
+      "num": 102590,
+      "word": "读明史你会发现一个很诡异的现象",
+      "onboard_time": 1765236259,
+      "rank": 22,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 102568,
       "num": 102568,
       "word": "赵今麦居然把宋威龙撩害羞了",
@@ -5305,14 +5337,6 @@
       "onboard_time": 1765197682,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101600,
-      "num": 101600,
-      "word": "日本居民发布地震画面",
-      "onboard_time": 1765235658,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101541,
@@ -5651,6 +5675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93607,
+      "num": 93607,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1765236199,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93576,
       "num": 93576,
       "word": "第一次见眼睛得脚气的",
@@ -5843,14 +5875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89912,
-      "num": 89912,
-      "word": "读明史你会发现一个很诡异的现象",
-      "onboard_time": 1765236259,
-      "rank": 22,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 89874,
       "num": 89874,
       "word": "这就是语文老师说的借物喻人吗",
@@ -5937,6 +5961,14 @@
       "onboard_time": 1765195041,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86856,
+      "num": 67114,
+      "word": "日本再发生5.6级地震",
+      "onboard_time": 1765236439,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86604,
@@ -6073,6 +6105,14 @@
       "onboard_time": 1765160359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82425,
+      "num": 172214,
+      "word": "小米汽车11月零售销量46249辆",
+      "onboard_time": 1765236259,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 81904,
@@ -6251,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74383,
+      "num": 74383,
+      "word": "留几手全球征婚要求女方是富婆",
+      "onboard_time": 1765222634,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74048,
       "num": 74048,
       "word": "母亲肺癌手术儿子陪护时也查出肺癌",
@@ -6339,6 +6387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69718,
+      "num": 70516,
+      "word": "冬天洗澡劝你少做这3件事",
+      "onboard_time": 1765214656,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69190,
       "num": 75276,
       "word": "丈夫把2套房过户前妻",
@@ -6379,22 +6435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67617,
-      "num": 63159,
-      "word": "日本观测到浪高0.7米海啸",
-      "onboard_time": 1765236199,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 67453,
-      "num": 67453,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1765236199,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
@@ -6425,6 +6465,22 @@
       "onboard_time": 1765188501,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66055,
+      "num": 66055,
+      "word": "爱奇艺名次错误五位角色获补偿",
+      "onboard_time": 1765236860,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65210,
+      "num": 65210,
+      "word": "燕云十六声",
+      "onboard_time": 1765236499,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 65159,
@@ -6499,6 +6555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63573,
+      "num": 63573,
+      "word": "涉事温泉回应大量女宾疑遭偷拍",
+      "onboard_time": 1765236318,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63071,
       "num": 651333,
       "word": "公共Wifi真不能随便蹭",
@@ -6507,20 +6571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62715,
-      "num": 70516,
-      "word": "冬天洗澡劝你少做这3件事",
-      "onboard_time": 1765214656,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 61943,
       "num": 928168,
       "word": "AG对战TE",
       "onboard_time": 1765027705,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61853,
+      "num": 61853,
+      "word": "多位欧洲国家领导人近期访华",
+      "onboard_time": 1765236078,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61672,
@@ -6571,14 +6635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59862,
-      "num": 109473,
-      "word": "小米汽车11月零售销量46249辆",
-      "onboard_time": 1765236259,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 59231,
       "num": 161188,
       "word": "中国驻柬埔寨使馆发安全提醒",
@@ -6603,6 +6659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57466,
+      "num": 57466,
+      "word": "肖战的2026祝福",
+      "onboard_time": 1765236199,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57155,
       "num": 57155,
       "word": "孟子义一进场直奔王楚然",
@@ -6611,12 +6675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57011,
-      "num": 62257,
-      "word": "留几手全球征婚要求女方是富婆",
-      "onboard_time": 1765222634,
-      "rank": 46,
-      "category": "网红"
+      "raw_hot": 57122,
+      "num": 57122,
+      "word": "王者最废手的5位英雄",
+      "onboard_time": 1765236259,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 56899,
@@ -6657,14 +6721,6 @@
       "onboard_time": 1765058955,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55707,
-      "num": 55707,
-      "word": "涉事温泉回应大量女宾疑遭偷拍",
-      "onboard_time": 1765236318,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55354,
@@ -6723,14 +6779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53762,
-      "num": 53762,
-      "word": "肖战的2026祝福",
-      "onboard_time": 1765236199,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52632,
       "num": 108042,
       "word": "得闲谨制太爷MVP",
@@ -6753,6 +6801,14 @@
       "onboard_time": 1765208481,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52316,
+      "num": 52316,
+      "word": "日本海啸预警解除",
+      "onboard_time": 1765237159,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51639,
@@ -6827,12 +6883,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 50934,
-      "num": 50934,
-      "word": "王者最废手的5位英雄",
-      "onboard_time": 1765236259,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 50918,
+      "num": 50918,
+      "word": "现货黄金上破4200",
+      "onboard_time": 1765236559,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 50843,
@@ -7113,14 +7169,6 @@
       "onboard_time": 1765197022,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41682,
-      "num": 50930,
-      "word": "多位欧洲国家领导人近期访华",
-      "onboard_time": 1765236078,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41358,

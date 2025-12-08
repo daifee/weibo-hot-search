@@ -1,0 +1,410 @@
+{
+  "runTime": 1765237219244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212879,
+        "num": 2212879,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300108,
+        "num": 300108,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24022,
+        "num": 218124,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364872,
+        "num": 218019,
+        "word": "丁真对向佐说扛不住就别混这个圈子",
+        "onboard_time": 1765235779,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213780,
+        "num": 213780,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208587,
+        "num": 208587,
+        "word": "张家齐说感觉有点生不逢时",
+        "onboard_time": 1765235717,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181030,
+        "num": 181030,
+        "word": "日本居民发布地震画面",
+        "onboard_time": 1765235658,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146914,
+        "num": 178658,
+        "word": "日本自卫队战机紧急起飞越发频繁",
+        "onboard_time": 1765208541,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105354,
+        "num": 174373,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82425,
+        "num": 172214,
+        "word": "小米汽车11月零售销量46249辆",
+        "onboard_time": 1765236259,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 539265,
+        "num": 166079,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357904,
+        "num": 163686,
+        "word": "刘烨 不好好学习来追星干嘛",
+        "onboard_time": 1765229413,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247531,
+        "num": 158383,
+        "word": "江西地震",
+        "onboard_time": 1765203024,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245049,
+        "num": 154414,
+        "word": "卢克文公众号被封",
+        "onboard_time": 1765207762,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150945,
+        "num": 150945,
+        "word": "郭德纲发文疑回应相声被举报",
+        "onboard_time": 1765232055,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333935,
+        "num": 149899,
+        "word": "张柏芝庭审大喊所有事情都是假的",
+        "onboard_time": 1765207702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148443,
+        "num": 148443,
+        "word": "60元取卡针被炒是铂金300元回收",
+        "onboard_time": 1765209381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122244,
+        "num": 122244,
+        "word": "幼儿园被虐女童多次被拖进死角打",
+        "onboard_time": 1765236800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117021,
+        "num": 117021,
+        "word": "朱孝天希望相信音乐高抬贵手",
+        "onboard_time": 1765223533,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105289,
+        "num": 105289,
+        "word": "日本7.5级地震监控剧烈摇晃",
+        "onboard_time": 1765209022,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 691690,
+        "num": 104119,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253909,
+        "num": 103736,
+        "word": "55岁女子吃冰箱冷冻肉确诊脑膜炎",
+        "onboard_time": 1765235717,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102590,
+        "num": 102590,
+        "word": "读明史你会发现一个很诡异的现象",
+        "onboard_time": 1765236259,
+        "rank": 22,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 99171,
+        "num": 99171,
+        "word": "向佐 娱乐圈的人很恐怖",
+        "onboard_time": 1765200862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93607,
+        "num": 93607,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1765236199,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88814,
+        "num": 88814,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86480,
+        "num": 86480,
+        "word": "皮皮朱说月薪3千不适合结婚",
+        "onboard_time": 1765207223,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74383,
+        "num": 74383,
+        "word": "留几手全球征婚要求女方是富婆",
+        "onboard_time": 1765222634,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72895,
+        "num": 72895,
+        "word": "山东潍坊多名男子跳过近3米远高崖",
+        "onboard_time": 1765205663,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69718,
+        "num": 69718,
+        "word": "冬天洗澡劝你少做这3件事",
+        "onboard_time": 1765214656,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125619,
+        "num": 68131,
+        "word": "日本观测到浪高0.7米海啸",
+        "onboard_time": 1765236199,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86856,
+        "num": 67114,
+        "word": "日本再发生5.6级地震",
+        "onboard_time": 1765236439,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66055,
+        "num": 66055,
+        "word": "爱奇艺名次错误五位角色获补偿",
+        "onboard_time": 1765236860,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65837,
+        "num": 65837,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65210,
+        "num": 65210,
+        "word": "燕云十六声",
+        "onboard_time": 1765236499,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63573,
+        "num": 63573,
+        "word": "涉事温泉回应大量女宾疑遭偷拍",
+        "onboard_time": 1765236318,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61853,
+        "num": 61853,
+        "word": "多位欧洲国家领导人近期访华",
+        "onboard_time": 1765236078,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61566,
+        "num": 61566,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60514,
+        "num": 60514,
+        "word": "傅首尔 导演",
+        "onboard_time": 1765207461,
+        "rank": 38,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 60200,
+        "num": 60200,
+        "word": "刘亦菲阿联酋素颜照",
+        "onboard_time": 1765204401,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60025,
+        "num": 60025,
+        "word": "网传中国人国外旅游被印度小孩辱骂",
+        "onboard_time": 1765212737,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59710,
+        "num": 59710,
+        "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
+        "onboard_time": 1765209441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58878,
+        "num": 58878,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58654,
+        "num": 58654,
+        "word": "QQ空间vs微信朋友圈",
+        "onboard_time": 1765203624,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57466,
+        "num": 57466,
+        "word": "肖战的2026祝福",
+        "onboard_time": 1765236199,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57122,
+        "num": 57122,
+        "word": "王者最废手的5位英雄",
+        "onboard_time": 1765236259,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52857,
+        "num": 52857,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52316,
+        "num": 52316,
+        "word": "日本海啸预警解除",
+        "onboard_time": 1765237159,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52116,
+        "num": 52116,
+        "word": "双轨",
+        "onboard_time": 1765211719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50918,
+        "num": 50918,
+        "word": "现货黄金上破4200",
+        "onboard_time": 1765236559,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
