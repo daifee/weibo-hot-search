@@ -1,0 +1,410 @@
+{
+  "runTime": 1765201987448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645312,
+        "num": 1103249,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439872,
+        "num": 439872,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 44802,
+        "num": 433030,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564154,
+        "num": 431862,
+        "word": "谭松韵要开演唱会了",
+        "onboard_time": 1765197022,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165963,
+        "num": 431057,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430563,
+        "num": 430563,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233910,
+        "num": 419677,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160209,
+        "num": 409995,
+        "word": "LGDNBW对战Hero久竞",
+        "onboard_time": 1765200801,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10177,
+        "num": 399180,
+        "word": "看三星堆象牙难度有多大",
+        "onboard_time": 1765201762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106523,
+        "num": 394708,
+        "word": "中央定调明年经济政策",
+        "onboard_time": 1765190661,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1610460,
+        "num": 382497,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720375,
+        "num": 371273,
+        "word": "马克龙叫嚣欧盟或对华加征关税",
+        "onboard_time": 1765198163,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 719937,
+        "num": 357031,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474026,
+        "num": 349845,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343045,
+        "num": 343045,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518693,
+        "num": 338020,
+        "word": "张柏芝庭审 答非所问",
+        "onboard_time": 1765192461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 317291,
+        "word": "向佐 娱乐圈的人很恐怖",
+        "onboard_time": 1765200862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281421,
+        "num": 281421,
+        "word": "于正官宣张婉莹女一号",
+        "onboard_time": 1765193421,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157321,
+        "num": 279046,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150162,
+        "num": 254206,
+        "word": "幼儿园虐童视频多到要用硬盘存",
+        "onboard_time": 1765199420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14705,
+        "num": 247108,
+        "word": "一人一句为残特奥会运动员加油",
+        "onboard_time": 1765201341,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421431,
+        "num": 237202,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413256,
+        "num": 220638,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307122,
+        "num": 208515,
+        "word": "男子上山遇60斤蟒蛇晒太阳",
+        "onboard_time": 1765200562,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286341,
+        "num": 191228,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186128,
+        "num": 186128,
+        "word": "狙击蝴蝶 梦男文学",
+        "onboard_time": 1765200742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183671,
+        "num": 183671,
+        "word": "偶遇胡歌老婆从医院出来",
+        "onboard_time": 1765199902,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160076,
+        "num": 160076,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 124551,
+        "num": 149856,
+        "word": "苟仲文被判死缓终身监禁不得减刑假释",
+        "onboard_time": 1765189702,
+        "rank": 28,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 111757,
+        "num": 148749,
+        "word": "南昌警方通报伤医事件",
+        "onboard_time": 1765201402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148648,
+        "num": 148648,
+        "word": "郑恺搂着孩子亲苗苗",
+        "onboard_time": 1765189401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141047,
+        "num": 141047,
+        "word": "林子烨艾米 小张凌赫小张婧仪",
+        "onboard_time": 1765198281,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137512,
+        "num": 137512,
+        "word": "苟仲文",
+        "onboard_time": 1765191621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 135426,
+        "word": "刘诗诗粉丝向爱奇艺维权成功",
+        "onboard_time": 1765199121,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127210,
+        "num": 127210,
+        "word": "原来是迟蓬提醒的杨幂",
+        "onboard_time": 1765188320,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 123589,
+        "num": 123589,
+        "word": "网友首尔偶遇Angelababy",
+        "onboard_time": 1765186941,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32030,
+        "num": 103069,
+        "word": "蒋易孙天宇演我上班",
+        "onboard_time": 1765195581,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102501,
+        "num": 102501,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 101789,
+        "num": 101789,
+        "word": "女护士患癌请病假遭拒",
+        "onboard_time": 1765197682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27627,
+        "num": 97977,
+        "word": "消费者称辣椒面内疑现鼠头异物",
+        "onboard_time": 1765201822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97799,
+        "num": 97799,
+        "word": "南宁地震",
+        "onboard_time": 1765201583,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96913,
+        "num": 96913,
+        "word": "偶遇窦骁何超莲一起吃早餐",
+        "onboard_time": 1765188441,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37320,
+        "num": 94537,
+        "word": "1年旷工5次被开除遭索赔80万",
+        "onboard_time": 1765200624,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92482,
+        "num": 92482,
+        "word": "KK园区333栋违法建筑已拆除",
+        "onboard_time": 1765199603,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96646,
+        "num": 92030,
+        "word": "台湾地震",
+        "onboard_time": 1765196361,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88104,
+        "num": 88104,
+        "word": "得闲谨制票房是排片的两倍",
+        "onboard_time": 1765198461,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84156,
+        "num": 84156,
+        "word": "中央政治局会议",
+        "onboard_time": 1765201943,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3021,
+        "num": 83933,
+        "word": "残特奥会今日开幕",
+        "onboard_time": 1765154900,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83913,
+        "num": 83913,
+        "word": "九尾重返首发",
+        "onboard_time": 1765201583,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78687,
+        "num": 83536,
+        "word": "罗永浩开测洗脸巾",
+        "onboard_time": 1765201762,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765201260724,
+  "endTime": 1765201987448,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -331,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720375,
+      "num": 371273,
+      "word": "马克龙叫嚣欧盟或对华加征关税",
+      "onboard_time": 1765198163,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 719937,
+      "num": 357031,
+      "word": "立威廉患甲状腺癌",
+      "onboard_time": 1765198223,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715825,
       "num": 630109,
       "word": "法新社 马克龙",
@@ -355,22 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704279,
-      "num": 187452,
-      "word": "马克龙叫嚣欧盟或对华加征关税",
-      "onboard_time": 1765198163,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 700182,
-      "num": 185491,
-      "word": "立威廉患甲状腺癌",
-      "onboard_time": 1765198223,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 680273,
       "num": 680273,
       "word": "山东省考 谁出的图推",
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 676320,
-      "num": 202227,
+      "num": 338020,
       "word": "张柏芝庭审 答非所问",
       "onboard_time": 1765192461,
       "rank": 18,
@@ -433,6 +433,14 @@
       "onboard_time": 1765116684,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 645312,
+      "num": 1103249,
+      "word": "经典版QQ回归",
+      "onboard_time": 1765200082,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 638559,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 568246,
-      "num": 250156,
+      "num": 281421,
       "word": "于正官宣张婉莹女一号",
       "onboard_time": 1765193421,
       "rank": 28,
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564154,
+      "num": 431862,
+      "word": "谭松韵要开演唱会了",
+      "onboard_time": 1765197022,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 555238,
       "num": 266968,
       "word": "庆功宴唯一素颜明星是黄景瑜",
       "onboard_time": 1765149497,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548725,
-      "num": 200861,
-      "word": "谭松韵要开演唱会了",
-      "onboard_time": 1765197022,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 546059,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 543389,
-      "num": 205597,
+      "num": 349845,
       "word": "放了很久的衣服不要穿",
       "onboard_time": 1765192341,
       "rank": 17,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 433500,
-      "num": 315503,
+      "num": 419677,
       "word": "得闲谨制票房",
       "onboard_time": 1765186641,
       "rank": 27,
@@ -963,8 +971,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427417,
-      "num": 212751,
+      "raw_hot": 430563,
+      "num": 430563,
       "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
       "onboard_time": 1765196061,
       "rank": 5,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 426866,
-      "num": 180429,
+      "num": 343045,
       "word": "李现澳门扫街被路人警告",
       "onboard_time": 1765196961,
       "rank": 13,
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 327468,
-      "num": 179459,
+      "num": 191228,
       "word": "外卖员最不建议点的外卖",
       "onboard_time": 1765194441,
       "rank": 22,
@@ -1371,12 +1379,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 317927,
-      "num": 317927,
-      "word": "经典版QQ回归",
-      "onboard_time": 1765200082,
-      "rank": 1,
-      "category": "互联网"
+      "raw_hot": 317291,
+      "num": 317291,
+      "word": "向佐 娱乐圈的人很恐怖",
+      "onboard_time": 1765200862,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 316458,
@@ -1427,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 307122,
+      "num": 208515,
+      "word": "男子上山遇60斤蟒蛇晒太阳",
+      "onboard_time": 1765200562,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305512,
       "num": 221126,
       "word": "曾舜晞躲C那张合影放出来了",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1765165520,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 289587,
-      "num": 179449,
-      "word": "男子上山遇60斤蟒蛇晒太阳",
-      "onboard_time": 1765200562,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288151,
@@ -1963,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221293,
-      "num": 179398,
-      "word": "向佐 娱乐圈的人很恐怖",
-      "onboard_time": 1765200862,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220539,
       "num": 220539,
       "word": "美国无法保证日本不会再打美国",
@@ -2404,7 +2404,7 @@
     },
     {
       "raw_hot": 189134,
-      "num": 179312,
+      "num": 183671,
       "word": "偶遇胡歌老婆从医院出来",
       "onboard_time": 1765199902,
       "rank": 26,
@@ -2432,6 +2432,14 @@
       "word": "胡先煦直球打得我猝不及防",
       "onboard_time": 1765082122,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186128,
+      "num": 186128,
+      "word": "狙击蝴蝶 梦男文学",
+      "onboard_time": 1765200742,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -2803,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160209,
+      "num": 409995,
+      "word": "LGDNBW对战Hero久竞",
+      "onboard_time": 1765200801,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160014,
       "num": 160014,
       "word": "浙江申论",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1765106963,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150162,
+      "num": 254206,
+      "word": "幼儿园虐童视频多到要用硬盘存",
+      "onboard_time": 1765199420,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149821,
@@ -3515,14 +3539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133902,
-      "num": 179507,
-      "word": "LGDNBW对战Hero久竞",
-      "onboard_time": 1765200801,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133608,
       "num": 150506,
       "word": "企业因薪资过高被限发招聘信息",
@@ -3569,14 +3585,6 @@
       "onboard_time": 1765079001,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132333,
-      "num": 132333,
-      "word": "幼儿园虐童视频多到要用硬盘存",
-      "onboard_time": 1765199420,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131840,
@@ -4091,14 +4099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119123,
-      "num": 119123,
-      "word": "狙击蝴蝶 梦男文学",
-      "onboard_time": 1765200742,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119007,
       "num": 111550,
       "word": "十个勤天微短剧开机仪式",
@@ -4513,6 +4513,14 @@
       "onboard_time": 1765188740,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111757,
+      "num": 148749,
+      "word": "南昌警方通报伤医事件",
+      "onboard_time": 1765201402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111266,
@@ -4955,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101789,
+      "num": 179252,
+      "word": "女护士患癌请病假遭拒",
+      "onboard_time": 1765197682,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101541,
       "num": 211995,
       "word": "Chovy训练空缺位置一个月",
@@ -5009,14 +5025,6 @@
       "onboard_time": 1765118122,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100932,
-      "num": 179252,
-      "word": "女护士患癌请病假遭拒",
-      "onboard_time": 1765197682,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100659,
@@ -5147,6 +5155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97799,
+      "num": 97799,
+      "word": "南宁地震",
+      "onboard_time": 1765201583,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97133,
       "num": 97133,
       "word": "水果姐高调官宣与特鲁多恋情",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1765194261,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96646,
+      "num": 94707,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96616,
@@ -5217,14 +5241,6 @@
       "onboard_time": 1765084461,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94707,
-      "num": 94707,
-      "word": "台湾地震",
-      "onboard_time": 1765196361,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94555,
@@ -5353,6 +5369,14 @@
       "onboard_time": 1765120761,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92482,
+      "num": 179276,
+      "word": "KK园区333栋违法建筑已拆除",
+      "onboard_time": 1765199603,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92194,
@@ -5611,6 +5635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84156,
+      "num": 84156,
+      "word": "中央政治局会议",
+      "onboard_time": 1765201943,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84141,
       "num": 84141,
       "word": "维斯塔潘杆位",
@@ -5625,6 +5657,14 @@
       "onboard_time": 1765175901,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83913,
+      "num": 83913,
+      "word": "九尾重返首发",
+      "onboard_time": 1765201583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 83445,
@@ -5683,14 +5723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80261,
-      "num": 179276,
-      "word": "KK园区333栋违法建筑已拆除",
-      "onboard_time": 1765199603,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80256,
       "num": 80256,
       "word": "徐瑛彬 谢谢头哥",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1765176625,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78687,
+      "num": 83536,
+      "word": "罗永浩开测洗脸巾",
+      "onboard_time": 1765201762,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 77824,
@@ -6427,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44802,
+      "num": 433030,
+      "word": "盘点2025",
+      "onboard_time": 1765201341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44637,
       "num": 44637,
       "word": "新国标后外卖员超时工作账号会下线",
@@ -6595,6 +6643,14 @@
       "category": "国际时政,艺人"
     },
     {
+      "raw_hot": 37320,
+      "num": 115810,
+      "word": "1年旷工5次被开除遭索赔80万",
+      "onboard_time": 1765200624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36878,
       "num": 36878,
       "word": "工作室快点把檀健次的手机收了",
@@ -6755,14 +6811,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 30203,
-      "num": 115810,
-      "word": "1年旷工5次被开除遭索赔80万",
-      "onboard_time": 1765200624,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30197,
       "num": 135580,
       "word": "中方批评日本挑战战后国际秩序",
@@ -6817,6 +6865,14 @@
       "onboard_time": 1765091061,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27627,
+      "num": 97977,
+      "word": "消费者称辣椒面内疑现鼠头异物",
+      "onboard_time": 1765201822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26532,
@@ -7099,6 +7155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14705,
+      "num": 247108,
+      "word": "一人一句为残特奥会运动员加油",
+      "onboard_time": 1765201341,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13996,
       "num": 190006,
       "word": "11月我国外贸增速回升至4.1%",
@@ -7145,6 +7209,14 @@
       "onboard_time": 1765137674,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10177,
+      "num": 399180,
+      "word": "看三星堆象牙难度有多大",
+      "onboard_time": 1765201762,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9491,

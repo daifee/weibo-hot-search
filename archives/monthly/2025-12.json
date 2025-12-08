@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765201260724,
+  "endTime": 1765201987448,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -1387,6 +1387,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 720375,
+      "num": 371273,
+      "word": "马克龙叫嚣欧盟或对华加征关税",
+      "onboard_time": 1765198163,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 719937,
+      "num": 357031,
+      "word": "立威廉患甲状腺癌",
+      "onboard_time": 1765198223,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718712,
       "num": 279916,
       "word": "刘亦菲 我没有遗传到位",
@@ -1467,14 +1483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 704279,
-      "num": 187452,
-      "word": "马克龙叫嚣欧盟或对华加征关税",
-      "onboard_time": 1765198163,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 702779,
       "num": 362172,
       "word": "2025尖叫之夜全阵容名单",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1764818180,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 700182,
-      "num": 185491,
-      "word": "立威廉患甲状腺癌",
-      "onboard_time": 1765198223,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 699887,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 676320,
-      "num": 202227,
+      "num": 338020,
       "word": "张柏芝庭审 答非所问",
       "onboard_time": 1765192461,
       "rank": 18,
@@ -1729,6 +1729,14 @@
       "onboard_time": 1764687623,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 645312,
+      "num": 1103249,
+      "word": "经典版QQ回归",
+      "onboard_time": 1765200082,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 643839,
@@ -2236,7 +2244,7 @@
     },
     {
       "raw_hot": 568246,
-      "num": 250156,
+      "num": 281421,
       "word": "于正官宣张婉莹女一号",
       "onboard_time": 1765193421,
       "rank": 28,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1764747982,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564154,
+      "num": 431862,
+      "word": "谭松韵要开演唱会了",
+      "onboard_time": 1765197022,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 561997,
@@ -2395,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548725,
-      "num": 200861,
-      "word": "谭松韵要开演唱会了",
-      "onboard_time": 1765197022,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 547093,
       "num": 547093,
       "word": "大学生真正的床上五件套",
@@ -2460,7 +2468,7 @@
     },
     {
       "raw_hot": 543389,
-      "num": 205597,
+      "num": 349845,
       "word": "放了很久的衣服不要穿",
       "onboard_time": 1765192341,
       "rank": 17,
@@ -3308,7 +3316,7 @@
     },
     {
       "raw_hot": 457629,
-      "num": 356385,
+      "num": 419677,
       "word": "得闲谨制票房",
       "onboard_time": 1765001300,
       "rank": 11,
@@ -3675,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430563,
+      "num": 430563,
+      "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+      "onboard_time": 1765196061,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430367,
       "num": 1021637,
       "word": "庾澄庆看何炅的表情让我一品再品",
@@ -3715,14 +3731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427417,
-      "num": 212751,
-      "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
-      "onboard_time": 1765196061,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 426989,
       "num": 271160,
       "word": "颖儿又夸付辛博了",
@@ -3732,7 +3740,7 @@
     },
     {
       "raw_hot": 426866,
-      "num": 180429,
+      "num": 343045,
       "word": "李现澳门扫街被路人警告",
       "onboard_time": 1765196961,
       "rank": 13,
@@ -5244,7 +5252,7 @@
     },
     {
       "raw_hot": 327468,
-      "num": 179459,
+      "num": 191228,
       "word": "外卖员最不建议点的外卖",
       "onboard_time": 1765194441,
       "rank": 22,
@@ -5459,12 +5467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317927,
-      "num": 317927,
-      "word": "经典版QQ回归",
-      "onboard_time": 1765200082,
-      "rank": 1,
-      "category": "互联网"
+      "raw_hot": 317291,
+      "num": 317291,
+      "word": "向佐 娱乐圈的人很恐怖",
+      "onboard_time": 1765200862,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 317000,
@@ -5649,6 +5657,14 @@
       "onboard_time": 1764747083,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307122,
+      "num": 208515,
+      "word": "男子上山遇60斤蟒蛇晒太阳",
+      "onboard_time": 1765200562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306911,
@@ -5921,14 +5937,6 @@
       "onboard_time": 1764830062,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289587,
-      "num": 179449,
-      "word": "男子上山遇60斤蟒蛇晒太阳",
-      "onboard_time": 1765200562,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289383,
@@ -7665,14 +7673,6 @@
       "onboard_time": 1764584482,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221293,
-      "num": 179398,
-      "word": "向佐 娱乐圈的人很恐怖",
-      "onboard_time": 1765200862,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 221134,
@@ -9460,7 +9460,7 @@
     },
     {
       "raw_hot": 189134,
-      "num": 179312,
+      "num": 183671,
       "word": "偶遇胡歌老婆从医院出来",
       "onboard_time": 1765199902,
       "rank": 26,
@@ -9649,6 +9649,14 @@
       "onboard_time": 1764908961,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186128,
+      "num": 186128,
+      "word": "狙击蝴蝶 梦男文学",
+      "onboard_time": 1765200742,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 185981,
@@ -11507,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160209,
+      "num": 409995,
+      "word": "LGDNBW对战Hero久竞",
+      "onboard_time": 1765200801,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160099,
       "num": 160099,
       "word": "陈星旭让我改掉了心疼男二的习惯",
@@ -12497,6 +12513,14 @@
       "onboard_time": 1765106963,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150162,
+      "num": 254206,
+      "word": "幼儿园虐童视频多到要用硬盘存",
+      "onboard_time": 1765199420,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150121,
@@ -14179,14 +14203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133902,
-      "num": 179507,
-      "word": "LGDNBW对战Hero久竞",
-      "onboard_time": 1765200801,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133876,
       "num": 133876,
       "word": "京城大师赛",
@@ -14417,14 +14433,6 @@
       "onboard_time": 1764993261,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132333,
-      "num": 132333,
-      "word": "幼儿园虐童视频多到要用硬盘存",
-      "onboard_time": 1765199420,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132213,
@@ -16331,14 +16339,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 119123,
-      "num": 119123,
-      "word": "狙击蝴蝶 梦男文学",
-      "onboard_time": 1765200742,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119102,
       "num": 119102,
       "word": "尖叫之夜预测",
@@ -17489,6 +17489,14 @@
       "onboard_time": 1765028485,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111757,
+      "num": 148749,
+      "word": "南昌警方通报伤医事件",
+      "onboard_time": 1765201402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111508,
@@ -19059,6 +19067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101789,
+      "num": 179252,
+      "word": "女护士患癌请病假遭拒",
+      "onboard_time": 1765197682,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101736,
       "num": 110131,
       "word": "张继科林丹隔空对话",
@@ -19257,14 +19273,6 @@
       "onboard_time": 1764940043,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100932,
-      "num": 179252,
-      "word": "女护士患癌请病假遭拒",
-      "onboard_time": 1765197682,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100855,
@@ -19723,6 +19731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97799,
+      "num": 97799,
+      "word": "南宁地震",
+      "onboard_time": 1765201583,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97731,
       "num": 97731,
       "word": "核心机密被Scout发现了",
@@ -19913,6 +19929,14 @@
       "onboard_time": 1764516981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96646,
+      "num": 94707,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96643,
@@ -20185,14 +20209,6 @@
       "onboard_time": 1765005321,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94707,
-      "num": 94707,
-      "word": "台湾地震",
-      "onboard_time": 1765196361,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94628,
@@ -20513,6 +20529,14 @@
       "onboard_time": 1764920480,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92482,
+      "num": 179276,
+      "word": "KK园区333栋违法建筑已拆除",
+      "onboard_time": 1765199603,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92298,
@@ -21587,6 +21611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84156,
+      "num": 84156,
+      "word": "中央政治局会议",
+      "onboard_time": 1765201943,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84141,
       "num": 84141,
       "word": "维斯塔潘杆位",
@@ -21617,6 +21649,14 @@
       "onboard_time": 1765013122,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83913,
+      "num": 83913,
+      "word": "九尾重返首发",
+      "onboard_time": 1765201583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 83830,
@@ -22075,14 +22115,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 80261,
-      "num": 179276,
-      "word": "KK园区333栋违法建筑已拆除",
-      "onboard_time": 1765199603,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80256,
       "num": 80256,
       "word": "徐瑛彬 谢谢头哥",
@@ -22201,6 +22233,14 @@
       "onboard_time": 1764982220,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78687,
+      "num": 83536,
+      "word": "罗永浩开测洗脸巾",
+      "onboard_time": 1765201762,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 78516,
@@ -24899,6 +24939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44802,
+      "num": 433030,
+      "word": "盘点2025",
+      "onboard_time": 1765201341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44637,
       "num": 44637,
       "word": "新国标后外卖员超时工作账号会下线",
@@ -25731,6 +25779,14 @@
       "category": "国际时政,艺人"
     },
     {
+      "raw_hot": 37320,
+      "num": 115810,
+      "word": "1年旷工5次被开除遭索赔80万",
+      "onboard_time": 1765200624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37285,
       "num": 68235,
       "word": "雷军回应小米YU7获一级能效认证",
@@ -26323,14 +26379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30203,
-      "num": 115810,
-      "word": "1年旷工5次被开除遭索赔80万",
-      "onboard_time": 1765200624,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30197,
       "num": 135580,
       "word": "中方批评日本挑战战后国际秩序",
@@ -26617,6 +26665,14 @@
       "onboard_time": 1765091061,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27627,
+      "num": 97977,
+      "word": "消费者称辣椒面内疑现鼠头异物",
+      "onboard_time": 1765201822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27413,
@@ -27667,6 +27723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14705,
+      "num": 247108,
+      "word": "一人一句为残特奥会运动员加油",
+      "onboard_time": 1765201341,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14588,
       "num": 193593,
       "word": "女婴病危家长质疑月嫂照顾最新进展",
@@ -27945,6 +28009,14 @@
       "onboard_time": 1764932421,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10177,
+      "num": 399180,
+      "word": "看三星堆象牙难度有多大",
+      "onboard_time": 1765201762,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9871,
