@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 03:25:05
+本榜单时间：2025/12/09 00:37:23 ~ 2025/12/09 03:39:02
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,18 @@ LGDNBW对战Hero久竞（热度：33119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E9%87%8C%E6%96%AF%E5%8A%A0%E5%86%95F1%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
 诺里斯加冕F1世界冠军（热度：16997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%BB%99%E5%88%98%E8%AF%97%E8%AF%97%E7%B2%89%E4%B8%9D%E9%80%80%E6%AC%BE%23" target="weibo">
+爱奇艺给刘诗诗粉丝退款（热度：15194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%85%A8%E7%90%83%E5%BE%81%E5%A9%9A%E8%A6%81%E6%B1%82%E5%A5%B3%E6%96%B9%E6%98%AF%E5%AF%8C%E5%A9%86%23" target="weibo">
+留几手全球征婚要求女方是富婆（热度：13839）
 </a>
 </li>
 
