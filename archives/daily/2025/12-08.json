@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765201987448,
+  "endTime": 1765204268421,
   "band_list": [
     {
       "raw_hot": 2552923,
@@ -65,6 +65,14 @@
       "onboard_time": 1765170263,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 970286,
+      "num": 1155245,
+      "word": "经典版QQ回归",
+      "onboard_time": 1765200082,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 901340,
@@ -169,14 +177,6 @@
       "onboard_time": 1765176201,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 645312,
-      "num": 1103249,
-      "word": "经典版QQ回归",
-      "onboard_time": 1765200082,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 641124,
@@ -328,6 +328,14 @@
       "word": "钟丽缇想让女儿上清北",
       "onboard_time": 1765168042,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513879,
+      "num": 317291,
+      "word": "向佐 娱乐圈的人很恐怖",
+      "onboard_time": 1765200862,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378117,
+      "num": 199524,
+      "word": "江西地震",
+      "onboard_time": 1765203024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377853,
       "num": 1060456,
       "word": "杨瀚森转身暴扣",
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336636,
+      "num": 254206,
+      "word": "幼儿园虐童视频多到要用硬盘存",
+      "onboard_time": 1765199420,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333124,
       "num": 333124,
       "word": "香港麦当劳居然这么好吃",
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 327468,
-      "num": 191228,
+      "num": 194556,
       "word": "外卖员最不建议点的外卖",
       "onboard_time": 1765194441,
       "rank": 22,
@@ -664,14 +688,6 @@
       "word": "白鹿曾舜晞关系好成这样了",
       "onboard_time": 1765159400,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317291,
-      "num": 317291,
-      "word": "向佐 娱乐圈的人很恐怖",
-      "onboard_time": 1765200862,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -761,6 +777,14 @@
       "onboard_time": 1765180222,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280585,
+      "num": 280585,
+      "word": "专业画手分析肖战小肌群的抖动",
+      "onboard_time": 1765202362,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 270625,
@@ -985,6 +1009,14 @@
       "onboard_time": 1765191382,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208670,
+      "num": 195107,
+      "word": "新音 重庆",
+      "onboard_time": 1765203263,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 207492,
@@ -1387,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150162,
-      "num": 254206,
-      "word": "幼儿园虐童视频多到要用硬盘存",
-      "onboard_time": 1765199420,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 148924,
+      "num": 196552,
+      "word": "QQ空间vs微信朋友圈",
+      "onboard_time": 1765203624,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 147835,
@@ -1811,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119217,
+      "num": 119217,
+      "word": "刘同得奖被一顿爆锤",
+      "onboard_time": 1765203802,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119007,
       "num": 111550,
       "word": "十个勤天微短剧开机仪式",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1765194502,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118871,
+      "num": 118871,
+      "word": "阿凡达3",
+      "onboard_time": 1765202003,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 118604,
@@ -2372,7 +2420,7 @@
     },
     {
       "raw_hot": 97799,
-      "num": 97799,
+      "num": 109208,
       "word": "南宁地震",
       "onboard_time": 1765201583,
       "rank": 40,
@@ -2409,6 +2457,14 @@
       "onboard_time": 1765095860,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96144,
+      "num": 109203,
+      "word": "12306回应商务座一擦全是黑印",
+      "onboard_time": 1765202062,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95435,
@@ -2465,6 +2521,14 @@
       "onboard_time": 1765197982,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93653,
+      "num": 109199,
+      "word": "往返中日两国的渡轮暂停运营",
+      "onboard_time": 1765203682,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93411,
@@ -2571,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89662,
+      "num": 109197,
+      "word": "即刻上场",
+      "onboard_time": 1765196601,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89389,
       "num": 256757,
       "word": "婴儿被褥印不雅英文没有底线的操作",
@@ -2587,14 +2659,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 88889,
-      "num": 86983,
-      "word": "即刻上场",
-      "onboard_time": 1765196601,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88168,
       "num": 88168,
       "word": "大帅给大家跳个初雪",
@@ -2609,6 +2673,14 @@
       "onboard_time": 1765199182,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88014,
+      "num": 109195,
+      "word": "新娘入场被老人抢喜司仪妙语解气",
+      "onboard_time": 1765204043,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87999,
@@ -2977,6 +3049,14 @@
       "onboard_time": 1765111701,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55354,
+      "num": 109202,
+      "word": "张凌赫问柚子叶是什么意思",
+      "onboard_time": 1765202843,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 55224,
@@ -3427,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31744,
+      "num": 247108,
+      "word": "一人一句为残特奥会运动员加油",
+      "onboard_time": 1765201341,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30998,
       "num": 75053,
       "word": "大生意人",
@@ -3547,6 +3635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23013,
+      "num": 109205,
+      "word": "管道错接导致洗衣机水流入河道",
+      "onboard_time": 1765203024,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21037,
       "num": 75564,
       "word": "用挖耳勺给厨师拍宣传片",
@@ -3659,14 +3755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14705,
-      "num": 247108,
-      "word": "一人一句为残特奥会运动员加油",
-      "onboard_time": 1765201341,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13996,
       "num": 190006,
       "word": "11月我国外贸增速回升至4.1%",
@@ -3679,6 +3767,14 @@
       "num": 121688,
       "word": "3人疑在鄱阳湖湿地投毒被抓",
       "onboard_time": 1765175301,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12870,
+      "num": 109205,
+      "word": "列车长称洗手池混洗水果的是实习生",
+      "onboard_time": 1765204223,
       "rank": 39,
       "category": "民生新闻"
     },
