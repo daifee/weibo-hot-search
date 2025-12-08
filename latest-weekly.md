@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 01:28:03
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 01:45:14
 </p>
 </blockquote>
 <p>
@@ -4953,6 +4953,12 @@ AG对战TE（热度：61943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%BD%E5%A4%96%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%B0%8F%E5%AD%A9%E8%BE%B1%E9%AA%82%23" target="weibo">
+网传中国人国外旅游被印度小孩辱骂（热度：52662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E5%A4%AA%E7%88%B7MVP%23" target="weibo">
 得闲谨制太爷MVP（热度：52632）
 </a>
@@ -5021,12 +5027,6 @@ AG对战TE（热度：61943）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B0%B4%E8%87%B4%E5%A4%A7%E9%87%8F%E5%8F%A4%E7%B1%8D%E5%8F%97%E6%8D%9F%23" target="weibo">
 卢浮宫严重漏水致大量古籍受损（热度：51002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%BD%E5%A4%96%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%B0%8F%E5%AD%A9%E8%BE%B1%E9%AA%82%23" target="weibo">
-网传中国人国外旅游被印度小孩辱骂（热度：50878）
 </a>
 </li>
 
@@ -5111,6 +5111,12 @@ AG对战TE（热度：61943）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95%E5%8E%BB%E5%B9%B4%E7%8B%82%E5%8D%96%E4%B8%8A%E4%BA%BF%23" target="weibo">
 盒马草莓蛋糕去年狂卖上亿（热度：47722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E9%B9%8F%E5%A5%B3%E5%84%BF%E5%8F%82%E5%8A%A0%E8%8A%B1%E6%BB%91%E8%B5%9B%23" target="weibo">
+李小鹏女儿参加花滑赛（热度：47330）
 </a>
 </li>
 
@@ -5283,12 +5289,6 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E9%B9%8F%E5%A5%B3%E5%84%BF%E5%8F%82%E5%8A%A0%E8%8A%B1%E6%BB%91%E8%B5%9B%23" target="weibo">
-李小鹏女儿参加花滑赛（热度：38499）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E9%B8%A1%E8%9B%8B%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97%23" target="weibo">
 高价鸡蛋是智商税吗（热度：38116）
 </a>
@@ -5361,6 +5361,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%8A%9D%E4%BD%A0%E5%B0%91%E5%81%9A%E8%BF%993%E4%BB%B6%E4%BA%8B%23" target="weibo">
+冬天洗澡劝你少做这3件事（热度：34531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E6%99%9A%E6%84%8F%E7%83%AD%E8%81%8A%23" target="weibo">
 王楚然张晚意热聊（热度：34453）
 </a>
@@ -5427,6 +5433,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%BD%A0%E8%80%81%E5%B7%B1%23" target="weibo">
+爱你老己（热度：31771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E6%AE%8B%E7%89%B9%E5%A5%A5%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E5%8A%A0%E6%B2%B9%23" target="weibo">
 一人一句为残特奥会运动员加油（热度：31744）
 </a>
@@ -5481,12 +5493,6 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%8A%9D%E4%BD%A0%E5%B0%91%E5%81%9A%E8%BF%993%E4%BB%B6%E4%BA%8B%23" target="weibo">
-冬天洗澡劝你少做这3件事（热度：29548）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E4%B8%8A%E4%B8%80%E6%9C%9F%E6%B2%A1%E6%9D%A5%E4%BA%8F%E4%BA%86%23" target="weibo">
 华晨宇 上一期没来亏了（热度：29279）
 </a>
@@ -5513,6 +5519,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E8%BE%A3%E6%A4%92%E9%9D%A2%E5%86%85%E7%96%91%E7%8E%B0%E9%BC%A0%E5%A4%B4%E5%BC%82%E7%89%A9%23" target="weibo">
 消费者称辣椒面内疑现鼠头异物（热度：27627）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%BA%A6%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2%E4%BA%BA%E7%89%A9%23" target="weibo">
+2025年度时尚封面人物（热度：27493）
 </a>
 </li>
 
@@ -5717,6 +5729,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E4%BB%AA%E5%BC%8F%23" target="weibo">
 世界杯抽签仪式（热度：17618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E9%87%8C%E6%96%AF%E5%8A%A0%E5%86%95F1%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+诺里斯加冕F1世界冠军（热度：16997）
 </a>
 </li>
 

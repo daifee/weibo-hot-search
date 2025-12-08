@@ -1,0 +1,410 @@
+{
+  "runTime": 1765215914853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 856840,
+        "num": 856840,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159709,
+        "num": 159709,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17335,
+        "num": 159572,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84746,
+        "num": 84746,
+        "word": "日本自卫队战机紧急起飞越发频繁",
+        "onboard_time": 1765208541,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65728,
+        "num": 65728,
+        "word": "日本7.5级地震监控剧烈摇晃",
+        "onboard_time": 1765209022,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62978,
+        "num": 62978,
+        "word": "2025星光大赏星光墙",
+        "onboard_time": 1765208723,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36968,
+        "num": 62975,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21256,
+        "num": 62903,
+        "word": "Hero久竞战胜LGDNBW",
+        "onboard_time": 1765206445,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16997,
+        "num": 62855,
+        "word": "诺里斯加冕F1世界冠军",
+        "onboard_time": 1765215436,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250362,
+        "num": 62778,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143608,
+        "num": 62764,
+        "word": "江西地震",
+        "onboard_time": 1765203024,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 62669,
+        "word": "卢克文公众号被封",
+        "onboard_time": 1765207762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121207,
+        "num": 62621,
+        "word": "双轨",
+        "onboard_time": 1765211719,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109060,
+        "num": 62586,
+        "word": "60元取卡针被炒是铂金300元回收",
+        "onboard_time": 1765209381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68058,
+        "num": 62506,
+        "word": "张柏芝庭审大喊所有事情都是假的",
+        "onboard_time": 1765207702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63719,
+        "num": 62476,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62452,
+        "num": 62452,
+        "word": "刘亦菲阿联酋素颜照",
+        "onboard_time": 1765204401,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55019,
+        "num": 62417,
+        "word": "傅首尔 导演",
+        "onboard_time": 1765207461,
+        "rank": 18,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 46220,
+        "num": 62383,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472174,
+        "num": 62366,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192733,
+        "num": 62299,
+        "word": "陈妍希眼线",
+        "onboard_time": 1765211479,
+        "rank": 21,
+        "category": "作品衍生,剧集"
+      },
+      {
+        "raw_hot": 81413,
+        "num": 62279,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52662,
+        "num": 62227,
+        "word": "网传中国人国外旅游被印度小孩辱骂",
+        "onboard_time": 1765212737,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48388,
+        "num": 62170,
+        "word": "向佐 娱乐圈的人很恐怖",
+        "onboard_time": 1765200862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46937,
+        "num": 62125,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43169,
+        "num": 62116,
+        "word": "南宁地震",
+        "onboard_time": 1765201583,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39675,
+        "num": 62064,
+        "word": "皮皮朱说月薪3千不适合结婚",
+        "onboard_time": 1765207223,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32705,
+        "num": 62006,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28035,
+        "num": 61981,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 64312,
+        "num": 61923,
+        "word": "日本正确认多座核电站震后状态",
+        "onboard_time": 1765210101,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47330,
+        "num": 61906,
+        "word": "李小鹏女儿参加花滑赛",
+        "onboard_time": 1765212318,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39320,
+        "num": 61830,
+        "word": "QQ空间vs微信朋友圈",
+        "onboard_time": 1765203624,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38516,
+        "num": 61821,
+        "word": "陈妍希谈姐弟恋",
+        "onboard_time": 1765209981,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37569,
+        "num": 61755,
+        "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
+        "onboard_time": 1765209441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34531,
+        "num": 61725,
+        "word": "冬天洗澡劝你少做这3件事",
+        "onboard_time": 1765214656,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33619,
+        "num": 61695,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33422,
+        "num": 61651,
+        "word": "谭松韵要开演唱会了",
+        "onboard_time": 1765197022,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32675,
+        "num": 61601,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27079,
+        "num": 61548,
+        "word": "台湾地震",
+        "onboard_time": 1765196361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32577,
+        "num": 61513,
+        "word": "阿凡达3",
+        "onboard_time": 1765202003,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31771,
+        "num": 61458,
+        "word": "爱你老己",
+        "onboard_time": 1765215796,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31706,
+        "num": 61427,
+        "word": "63岁的关之琳",
+        "onboard_time": 1765209801,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14986,
+        "num": 61405,
+        "word": "LGDNBW对战Hero久竞",
+        "onboard_time": 1765200801,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28230,
+        "num": 61347,
+        "word": "花漾少女杀人事件",
+        "onboard_time": 1765194082,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27887,
+        "num": 61316,
+        "word": "韦雪前男友回应有新女友",
+        "onboard_time": 1765206923,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27493,
+        "num": 61282,
+        "word": "2025年度时尚封面人物",
+        "onboard_time": 1765215376,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22109,
+        "num": 61214,
+        "word": "提醒在日中国公民防海啸",
+        "onboard_time": 1765210460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19409,
+        "num": 61188,
+        "word": "台湾花莲海域发生5.1级地震",
+        "onboard_time": 1765194141,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27166,
+        "num": 61143,
+        "word": "敖瑞鹏回应不二之臣路透大事很妙",
+        "onboard_time": 1765210579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

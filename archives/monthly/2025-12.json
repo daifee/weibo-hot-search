@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765214883549,
+  "endTime": 1765215914853,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -24619,6 +24619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52662,
+      "num": 71915,
+      "word": "网传中国人国外旅游被印度小孩辱骂",
+      "onboard_time": 1765212737,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52632,
       "num": 108042,
       "word": "得闲谨制太爷MVP",
@@ -24792,14 +24800,6 @@
       "word": "卢浮宫严重漏水致大量古籍受损",
       "onboard_time": 1765159459,
       "rank": 41,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 50878,
-      "num": 71915,
-      "word": "网传中国人国外旅游被印度小孩辱骂",
-      "onboard_time": 1765212737,
-      "rank": 32,
       "category": "海外新闻"
     },
     {
@@ -25073,6 +25073,14 @@
       "onboard_time": 1764702674,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 71131,
+      "word": "李小鹏女儿参加花滑赛",
+      "onboard_time": 1765212318,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 47295,
@@ -26067,14 +26075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 38499,
-      "num": 71131,
-      "word": "李小鹏女儿参加花滑赛",
-      "onboard_time": 1765212318,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38468,
       "num": 256054,
       "word": "德国外长即将访华",
@@ -26419,6 +26419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 34531,
+      "num": 70516,
+      "word": "冬天洗澡劝你少做这3件事",
+      "onboard_time": 1765214656,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34453,
       "num": 193375,
       "word": "王楚然张晚意热聊",
@@ -26707,6 +26715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31771,
+      "num": 61458,
+      "word": "爱你老己",
+      "onboard_time": 1765215796,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31744,
       "num": 499287,
       "word": "一人一句为残特奥会运动员加油",
@@ -26881,14 +26897,6 @@
       "onboard_time": 1764857062,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29548,
-      "num": 70516,
-      "word": "冬天洗澡劝你少做这3件事",
-      "onboard_time": 1765214656,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 29532,
@@ -27129,6 +27137,14 @@
       "onboard_time": 1765201822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27493,
+      "num": 61282,
+      "word": "2025年度时尚封面人物",
+      "onboard_time": 1765215376,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27413,
@@ -28017,6 +28033,14 @@
       "onboard_time": 1764966554,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16997,
+      "num": 62855,
+      "word": "诺里斯加冕F1世界冠军",
+      "onboard_time": 1765215436,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 16873,
