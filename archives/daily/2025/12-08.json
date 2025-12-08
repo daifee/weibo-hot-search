@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765179078821,
+  "endTime": 1765179877447,
   "band_list": [
     {
       "raw_hot": 2030167,
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668895,
+      "num": 1107023,
+      "word": "俄罗斯 盗版疯狂动物城上映",
+      "onboard_time": 1765176201,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 641124,
       "num": 641124,
       "word": "张凌赫偷瞄白鹿",
@@ -139,14 +147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 583467,
-      "num": 583467,
-      "word": "俄罗斯 盗版疯狂动物城上映",
-      "onboard_time": 1765176201,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 555238,
       "num": 266968,
       "word": "庆功宴唯一素颜明星是黄景瑜",
@@ -171,12 +171,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 536675,
+      "num": 455709,
+      "word": "红楼梦悼明争议",
+      "onboard_time": 1765176021,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 524431,
       "num": 524431,
       "word": "林俊杰 大牌小耍",
       "onboard_time": 1765167021,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 524398,
+      "num": 432455,
+      "word": "韩国的咖啡已经进化到这种程度了吗",
+      "onboard_time": 1765175180,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 514051,
@@ -211,6 +227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 489110,
+      "num": 503813,
+      "word": "商家故意不打包让骑手干等",
+      "onboard_time": 1765174762,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486925,
       "num": 486925,
       "word": "浙江卫视跨年晚会官宣",
@@ -233,14 +257,6 @@
       "onboard_time": 1765170861,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 455709,
-      "num": 455709,
-      "word": "红楼梦悼明争议",
-      "onboard_time": 1765176021,
-      "rank": 40,
-      "category": "读书作家"
     },
     {
       "raw_hot": 453538,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436036,
+      "num": 317497,
+      "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
+      "onboard_time": 1765177400,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434658,
       "num": 434658,
       "word": "白鹿编辑记录",
@@ -291,27 +315,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432455,
-      "num": 432455,
-      "word": "韩国的咖啡已经进化到这种程度了吗",
-      "onboard_time": 1765175180,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 426055,
       "num": 545016,
       "word": "男子欠近5000元房费酒店倒贴都不搬",
       "onboard_time": 1765117884,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392514,
-      "num": 503813,
-      "word": "商家故意不打包让骑手干等",
-      "onboard_time": 1765174762,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 327892,
+      "num": 293949,
+      "word": "外来媳妇本地郎大结局",
+      "onboard_time": 1765176560,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321595,
       "num": 321595,
       "word": "日本婴儿残尸有刀具切割痕迹",
@@ -433,14 +449,6 @@
       "onboard_time": 1765159400,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317497,
-      "num": 317497,
-      "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
-      "onboard_time": 1765177400,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 316458,
@@ -475,14 +483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 293949,
-      "num": 293949,
-      "word": "外来媳妇本地郎大结局",
-      "onboard_time": 1765176560,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288151,
       "num": 317667,
       "word": "全季酒店保洁用毛巾擦马桶",
@@ -507,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265074,
+      "num": 184266,
+      "word": "胖东来因抢购停售小方糖戒指",
+      "onboard_time": 1765178600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261778,
       "num": 261778,
       "word": "造谣安全员骚扰女选手当事人致歉",
       "onboard_time": 1765157060,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255954,
+      "num": 255954,
+      "word": "税务师成绩",
+      "onboard_time": 1765179200,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 246044,
@@ -683,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196353,
+      "num": 163945,
+      "word": "张艺兴就这样闯入病娇赛道",
+      "onboard_time": 1765179440,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191862,
       "num": 191862,
       "word": "A股",
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169469,
+      "num": 800074,
+      "word": "A股行情",
+      "onboard_time": 1765167501,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167789,
       "num": 167789,
       "word": "星光大赏官宣热度",
@@ -769,14 +801,6 @@
       "onboard_time": 1765124717,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160487,
-      "num": 800074,
-      "word": "A股行情",
-      "onboard_time": 1765167501,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 159822,
@@ -817,14 +841,6 @@
       "onboard_time": 1765159160,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154787,
-      "num": 140619,
-      "word": "胖东来因抢购停售小方糖戒指",
-      "onboard_time": 1765178600,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154566,
@@ -1003,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134466,
+      "num": 134466,
+      "word": "T1翻盘NS",
+      "onboard_time": 1765179260,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134066,
       "num": 134066,
       "word": "罗永浩谈豆包被部分app封杀",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1765178422,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "小猫把商场里的树睡歪了",
+      "onboard_time": 1765179321,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 120559,
@@ -1323,6 +1355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107234,
+      "num": 107234,
+      "word": "妈妈是40年前的高考状元",
+      "onboard_time": 1765179500,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107211,
       "num": 276425,
       "word": "醉酒丈夫负气离家落水遭死亡缠绕",
@@ -1363,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105119,
+      "num": 105119,
+      "word": "2026江苏卫视跨年演唱会官宣",
+      "onboard_time": 1765179022,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104548,
       "num": 104548,
       "word": "研究表明生病的蚂蚁会主动求死",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1765157300,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101086,
+      "num": 101086,
+      "word": "我那古装界的白月光杀回来了",
+      "onboard_time": 1765179380,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100978,
@@ -1427,12 +1483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99157,
+      "num": 99157,
+      "word": "王鹤润这个腰",
+      "onboard_time": 1765179200,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98830,
       "num": 98830,
       "word": "刘宇宁吃席打包",
       "onboard_time": 1765141393,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98206,
+      "num": 98206,
+      "word": "留学生遭电诈2次飞回国转账",
+      "onboard_time": 1765178600,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96967,
@@ -1465,14 +1537,6 @@
       "onboard_time": 1765121421,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94773,
-      "num": 94773,
-      "word": "留学生遭电诈2次飞回国转账",
-      "onboard_time": 1765178600,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94500,
@@ -1545,14 +1609,6 @@
       "onboard_time": 1765113322,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90444,
-      "num": 90444,
-      "word": "2026江苏卫视跨年演唱会官宣",
-      "onboard_time": 1765179022,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 89925,
@@ -1883,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52632,
+      "num": 108042,
+      "word": "得闲谨制太爷MVP",
+      "onboard_time": 1765179741,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51538,
       "num": 193185,
       "word": "勒克莱尔第四",
@@ -2211,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25002,
+      "num": 112817,
+      "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
+      "onboard_time": 1765178959,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24581,
       "num": 362163,
       "word": "7000多名残疾人运动员逐梦大湾区",
@@ -2255,14 +2327,6 @@
       "num": 163390,
       "word": "男子幻想一夜暴富连续6天偷彩票",
       "onboard_time": 1765172362,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18217,
-      "num": 112817,
-      "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
-      "onboard_time": 1765178959,
       "rank": 37,
       "category": "民生新闻"
     },
