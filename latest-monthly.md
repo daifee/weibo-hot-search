@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 23:44:23
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 00:37:23
 </p>
 </blockquote>
 <p>
@@ -3153,6 +3153,12 @@ F1（热度：401349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%85%8B%E6%96%87%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
+卢克文公众号被封（热度：394597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%A7%82%E4%BC%97%20%E5%A6%82%E9%A5%A5%E4%BC%BC%E6%B8%B4%23" target="weibo">
 内娱观众 如饥似渴（热度：393267）
 </a>
@@ -6005,12 +6011,6 @@ KatyPerry官宣恋情（热度：223848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23QQ%E7%A9%BA%E9%97%B4vs%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 QQ空间vs微信朋友圈（热度：214114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E5%94%B1%E4%BA%86TF%E5%9B%9B%E4%BB%A3%E7%9A%84%E6%AD%8C%23" target="weibo">
-李一桐唱了TF四代的歌（热度：214078）
 </a>
 </li>
 

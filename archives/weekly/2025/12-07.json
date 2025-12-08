@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765208663390,
+  "endTime": 1765211843034,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1765100541,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394597,
+      "num": 137816,
+      "word": "卢克文公众号被封",
+      "onboard_time": 1765207762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390282,
@@ -2187,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207953,
-      "num": 137816,
-      "word": "卢克文公众号被封",
-      "onboard_time": 1765207762,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207492,
       "num": 207492,
       "word": "成何体统 剧宣",
@@ -2779,6 +2779,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 168830,
+      "num": 138603,
+      "word": "日本自卫队战机紧急起飞越发频繁",
+      "onboard_time": 1765208541,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "虞书欣雨爱",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1765180640,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153075,
+      "num": 117429,
+      "word": "陈妍希谈姐弟恋",
+      "onboard_time": 1765209981,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 152911,
@@ -3531,6 +3547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138367,
+      "num": 138367,
+      "word": "2025星光大赏星光墙",
+      "onboard_time": 1765208723,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138260,
       "num": 138260,
       "word": "速效救心丸 舌下含服",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1765111099,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131712,
+      "num": 131712,
+      "word": "60元取卡针被炒是铂金300元回收",
+      "onboard_time": 1765209381,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130827,
@@ -4337,6 +4369,14 @@
       "onboard_time": 1765089861,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118141,
+      "num": 138076,
+      "word": "日本7.5级地震监控剧烈摇晃",
+      "onboard_time": 1765209022,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118038,
@@ -5387,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97735,
+      "num": 97735,
+      "word": "陈妍希眼线",
+      "onboard_time": 1765211479,
+      "rank": 30,
+      "category": "作品衍生,剧集"
+    },
+    {
       "raw_hot": 97133,
       "num": 97133,
       "word": "水果姐高调官宣与特鲁多恋情",
@@ -5987,6 +6035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78943,
+      "num": 92749,
+      "word": "63岁的关之琳",
+      "onboard_time": 1765209801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78687,
       "num": 83536,
       "word": "罗永浩开测洗脸巾",
@@ -6243,6 +6299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67297,
+      "num": 92624,
+      "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
+      "onboard_time": 1765209441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67155,
       "num": 103407,
       "word": "刘国梁和国乒全员握手",
@@ -6257,6 +6321,14 @@
       "onboard_time": 1765188501,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66209,
+      "num": 92600,
+      "word": "双轨",
+      "onboard_time": 1765211719,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 65159,
@@ -6307,12 +6379,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64229,
+      "num": 92545,
+      "word": "提醒在日中国公民防海啸",
+      "onboard_time": 1765210460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64208,
       "num": 330750,
       "word": "厦门正在更新你的未来生活",
       "onboard_time": 1765165279,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 63273,
+      "num": 92533,
+      "word": "日本正确认多座核电站震后状态",
+      "onboard_time": 1765210101,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63071,
@@ -6467,6 +6555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54924,
+      "num": 92635,
+      "word": "敖瑞鹏回应不二之臣路透大事很妙",
+      "onboard_time": 1765210579,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54651,
       "num": 134251,
       "word": "印度夜店火灾已致25死",
@@ -6561,6 +6657,14 @@
       "onboard_time": 1765117524,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51238,
+      "num": 92792,
+      "word": "刘宇宁大连演唱会",
+      "onboard_time": 1765210041,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 51104,
@@ -6673,14 +6777,6 @@
       "onboard_time": 1765182980,
       "rank": 17,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 48109,
-      "num": 138603,
-      "word": "日本自卫队战机紧急起飞越发频繁",
-      "onboard_time": 1765208541,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47722,
@@ -7104,6 +7200,14 @@
       "word": "一人一句为残特奥会运动员加油",
       "onboard_time": 1765201341,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31263,
+      "num": 92405,
+      "word": "张博恒获体育道德风尚奖",
+      "onboard_time": 1765211539,
+      "rank": 48,
       "category": "体育"
     },
     {
