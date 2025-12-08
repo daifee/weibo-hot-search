@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765220016815,
+  "endTime": 1765221905771,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -7476,7 +7476,7 @@
     },
     {
       "raw_hot": 22111,
-      "num": 26750,
+      "num": 28031,
       "word": "日本12块钱一份的鱼干饭",
       "onboard_time": 1765217955,
       "rank": 38,
@@ -7745,6 +7745,14 @@
       "onboard_time": 1765138034,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11207,
+      "num": 28025,
+      "word": "2025动漫嘉年华",
+      "onboard_time": 1765221254,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 10451,

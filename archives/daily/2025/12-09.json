@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765220016815,
+  "endTime": 1765221905771,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 22111,
-      "num": 26750,
+      "num": 28031,
       "word": "日本12块钱一份的鱼干饭",
       "onboard_time": 1765217955,
       "rank": 38,
@@ -529,6 +529,30 @@
       "onboard_time": 1765215436,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13576,
+      "num": 28026,
+      "word": "新音 重庆",
+      "onboard_time": 1765203263,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12214,
+      "num": 28026,
+      "word": "苟仲文一审被判死缓",
+      "onboard_time": 1765185201,
+      "rank": 48,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 11207,
+      "num": 28025,
+      "word": "2025动漫嘉年华",
+      "onboard_time": 1765221254,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [

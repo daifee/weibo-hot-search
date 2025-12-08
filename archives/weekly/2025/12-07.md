@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 02:53:36
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 03:25:05
 </p>
 </blockquote>
 <p>
@@ -5819,6 +5819,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%BA%AF%E6%AC%A7%E5%B7%B4%23" target="weibo">
 朱志鑫纯欧巴（热度：11960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%8A%A8%E6%BC%AB%E5%98%89%E5%B9%B4%E5%8D%8E%23" target="weibo">
+2025动漫嘉年华（热度：11207）
 </a>
 </li>
 
