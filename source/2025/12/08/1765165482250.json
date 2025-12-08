@@ -1,0 +1,410 @@
+{
+  "runTime": 1765165482250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 527474,
+        "num": 1084395,
+        "word": "1818名包括明星网红在内双高人员被查",
+        "onboard_time": 1765163900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486925,
+        "num": 486925,
+        "word": "浙江卫视跨年晚会官宣",
+        "onboard_time": 1765161801,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24581,
+        "num": 362163,
+        "word": "7000多名残疾人运动员逐梦大湾区",
+        "onboard_time": 1765151000,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337034,
+        "num": 337034,
+        "word": "成毅演了李莲花的反义词",
+        "onboard_time": 1765161200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148501,
+        "num": 305952,
+        "word": "杨瀚森转身暴扣",
+        "onboard_time": 1765157060,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571658,
+        "num": 300697,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284741,
+        "num": 284741,
+        "word": "张本美和说每次输王曼昱方式都一样",
+        "onboard_time": 1765160179,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159214,
+        "num": 283057,
+        "word": "湖人战胜76人",
+        "onboard_time": 1765163480,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33707,
+        "num": 281489,
+        "word": "一起为7000多名残疾人运动员加油",
+        "onboard_time": 1765165341,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371608,
+        "num": 280602,
+        "word": "詹姆斯戴王冠",
+        "onboard_time": 1765164021,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 853827,
+        "num": 277999,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 789814,
+        "num": 275529,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 862590,
+        "num": 273244,
+        "word": "日本与中国竞争已感到绝望",
+        "onboard_time": 1765160120,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 492299,
+        "num": 272452,
+        "word": "什么叫做假性亲密关系",
+        "onboard_time": 1765151299,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490089,
+        "num": 268726,
+        "word": "警方通报44岁男子公园搂抱女童",
+        "onboard_time": 1765160241,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 120286,
+        "num": 268062,
+        "word": "男子欠近5000元房费酒店倒贴都不搬",
+        "onboard_time": 1765117884,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318634,
+        "num": 265539,
+        "word": "白鹿曾舜晞关系好成这样了",
+        "onboard_time": 1765159400,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302350,
+        "num": 262595,
+        "word": "王鹤棣带沈月去了他的中学",
+        "onboard_time": 1765153101,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262550,
+        "num": 262550,
+        "word": "狙击蝴蝶 黑马",
+        "onboard_time": 1765164800,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17795,
+        "num": 244252,
+        "word": "美国没支持日本慌了",
+        "onboard_time": 1765164980,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232646,
+        "num": 232646,
+        "word": "李亚鹏谈第四个女儿",
+        "onboard_time": 1765164621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137567,
+        "num": 229333,
+        "word": "王楚钦说徐瑛彬凭实力得到世界冠军",
+        "onboard_time": 1765156820,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30587,
+        "num": 229042,
+        "word": "网警查处编造汽车造成8杀网络谣言案",
+        "onboard_time": 1765153400,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228812,
+        "num": 228812,
+        "word": "耳帝连发两篇小作文锐评林忆莲",
+        "onboard_time": 1765162700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226816,
+        "num": 226816,
+        "word": "华晨宇让小迪丽热巴别辜负那英",
+        "onboard_time": 1765164140,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134676,
+        "num": 214404,
+        "word": "鸿蒙智行五界首聚直播",
+        "onboard_time": 1765163000,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206766,
+        "num": 206766,
+        "word": "星光大赏名单",
+        "onboard_time": 1765150098,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142952,
+        "num": 206239,
+        "word": "上海一31岁女教师因病去世",
+        "onboard_time": 1765151839,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62631,
+        "num": 206213,
+        "word": "厦门正在更新你的未来生活",
+        "onboard_time": 1765165279,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206203,
+        "num": 206203,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185862,
+        "num": 185862,
+        "word": "白鹿张凌赫 过期糖",
+        "onboard_time": 1765165279,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169301,
+        "num": 169301,
+        "word": "庆功宴唯一素颜明星是黄景瑜",
+        "onboard_time": 1765149497,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152032,
+        "num": 152032,
+        "word": "曝iPhone18系列测试拼接微透玻璃",
+        "onboard_time": 1765156340,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150597,
+        "num": 150597,
+        "word": "现在的安睡裤怎么变成这样了",
+        "onboard_time": 1765161440,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 140688,
+        "word": "詹姆斯关键时刻连得10分",
+        "onboard_time": 1765164800,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 140488,
+        "word": "白年好赫",
+        "onboard_time": 1765151719,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "很多胃癌是一口一口吃出来的",
+        "onboard_time": 1765125198,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136150,
+        "num": 136150,
+        "word": "女子遭75岁丈夫殴打村民发声",
+        "onboard_time": 1765160659,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136035,
+        "num": 136035,
+        "word": "这六位艺人没一个能体面的上台",
+        "onboard_time": 1765165460,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14866,
+        "num": 134168,
+        "word": "美防长称美国无意改变台海现状",
+        "onboard_time": 1765164980,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134066,
+        "num": 134066,
+        "word": "罗永浩谈豆包被部分app封杀",
+        "onboard_time": 1765162820,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118222,
+        "num": 118222,
+        "word": "迪丽热巴演出了非人感",
+        "onboard_time": 1765164260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113451,
+        "num": 113451,
+        "word": "男子犯低血糖一头栽进麻辣烫",
+        "onboard_time": 1765161921,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108834,
+        "num": 108834,
+        "word": "张本智和说国乒实力很强",
+        "onboard_time": 1765164140,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765151600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106430,
+        "num": 106430,
+        "word": "彭小苒你到底有多少双过膝靴",
+        "onboard_time": 1765162879,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105687,
+        "num": 105687,
+        "word": "车澈 谁也没有时光机器",
+        "onboard_time": 1765152620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100978,
+        "num": 100978,
+        "word": "杨瀚森正负值全队第二高",
+        "onboard_time": 1765161139,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96967,
+        "num": 96967,
+        "word": "A股大金融板块继续走强",
+        "onboard_time": 1765165401,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90242,
+        "num": 90242,
+        "word": "长期不吃早餐有什么影响",
+        "onboard_time": 1765165040,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
