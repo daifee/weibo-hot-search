@@ -1,0 +1,410 @@
+{
+  "runTime": 1765179078821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 760009,
+        "num": 1121601,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583467,
+        "num": 583467,
+        "word": "俄罗斯 盗版疯狂动物城上映",
+        "onboard_time": 1765176201,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40669,
+        "num": 526325,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587522,
+        "num": 519626,
+        "word": "朱孝天回应缺席F4演唱会",
+        "onboard_time": 1765176740,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108192,
+        "num": 510685,
+        "word": "WE对战DYG",
+        "onboard_time": 1765175060,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 509816,
+        "num": 509816,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392514,
+        "num": 503813,
+        "word": "商家故意不打包让骑手干等",
+        "onboard_time": 1765174762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178642,
+        "num": 495766,
+        "word": "中央政治局12月8日召开会议",
+        "onboard_time": 1765174280,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178426,
+        "num": 480831,
+        "word": "梁靖崑家里人多拿走王楚钦的熊猫",
+        "onboard_time": 1765173623,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140987,
+        "num": 469070,
+        "word": "A股行情",
+        "onboard_time": 1765167501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 467508,
+        "num": 467508,
+        "word": "痞幼自曝曾被两个恋综拒绝",
+        "onboard_time": 1765170263,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455709,
+        "num": 455709,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765176021,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 432455,
+        "num": 432455,
+        "word": "韩国的咖啡已经进化到这种程度了吗",
+        "onboard_time": 1765175180,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330513,
+        "num": 330513,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317497,
+        "num": 317497,
+        "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
+        "onboard_time": 1765177400,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293949,
+        "num": 293949,
+        "word": "外来媳妇本地郎大结局",
+        "onboard_time": 1765176560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284590,
+        "num": 284590,
+        "word": "郭德纲相声被举报内容低俗",
+        "onboard_time": 1765173081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 272203,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218183,
+        "num": 218183,
+        "word": "泰国对柬埔寨发动空袭",
+        "onboard_time": 1765172422,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 186289,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1634216,
+        "num": 185440,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367036,
+        "num": 185047,
+        "word": "刘亦菲瘦了",
+        "onboard_time": 1765169541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227898,
+        "num": 184977,
+        "word": "女子长12根手指自称灵活好用",
+        "onboard_time": 1765175720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184566,
+        "num": 184566,
+        "word": "孟子义李昀锐 星光大赏",
+        "onboard_time": 1765170861,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167789,
+        "num": 167789,
+        "word": "星光大赏官宣热度",
+        "onboard_time": 1765178060,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "日本婴儿残尸有刀具切割痕迹",
+        "onboard_time": 1765170082,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154566,
+        "num": 154566,
+        "word": "iPhone18系列确认测试屏下FaceID",
+        "onboard_time": 1765177400,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148820,
+        "num": 148820,
+        "word": "日军被爆引导美军轰炸平民",
+        "onboard_time": 1765168882,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143999,
+        "num": 143999,
+        "word": "白鹿晒和小酒窝合照",
+        "onboard_time": 1765175421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143912,
+        "num": 143912,
+        "word": "周柯宇对陈妍希跳姐姐真漂亮",
+        "onboard_time": 1765178359,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154787,
+        "num": 140619,
+        "word": "胖东来因抢购停售小方糖戒指",
+        "onboard_time": 1765178600,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135842,
+        "num": 135842,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765170982,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133940,
+        "num": 133940,
+        "word": "谁家剧放眼望去全是中戏的",
+        "onboard_time": 1765178540,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "王楚然提抹胸",
+        "onboard_time": 1765167442,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123148,
+        "num": 123148,
+        "word": "陈幸同辟谣执教澳大利亚",
+        "onboard_time": 1765178422,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113443,
+        "num": 113443,
+        "word": "德国外长访华前表态",
+        "onboard_time": 1765178480,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113300,
+        "num": 113300,
+        "word": "这个顶流发饰太上头了",
+        "onboard_time": 1765176860,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18217,
+        "num": 112817,
+        "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
+        "onboard_time": 1765178959,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112529,
+        "num": 112529,
+        "word": "我这一身聚酯纤维派上用场了",
+        "onboard_time": 1765176980,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107709,
+        "num": 107709,
+        "word": "林俊杰 大牌小耍",
+        "onboard_time": 1765167021,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106586,
+        "num": 106586,
+        "word": "星光大赏 没有85花",
+        "onboard_time": 1765170199,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103148,
+        "num": 103148,
+        "word": "钟丽缇想让女儿上清北",
+        "onboard_time": 1765168042,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99386,
+        "num": 99386,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96969,
+        "num": 96969,
+        "word": "偶像练习生七年后居然还有售后",
+        "onboard_time": 1765171281,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95194,
+        "num": 95194,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94773,
+        "num": 94773,
+        "word": "留学生遭电诈2次飞回国转账",
+        "onboard_time": 1765178600,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94500,
+        "num": 94500,
+        "word": "警方回应青岛一商圈电梯夹死人",
+        "onboard_time": 1765177280,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83127,
+        "num": 90859,
+        "word": "章子怡卡梅隆热聊",
+        "onboard_time": 1765177341,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90444,
+        "num": 90444,
+        "word": "2026江苏卫视跨年演唱会官宣",
+        "onboard_time": 1765179022,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84951,
+        "num": 84951,
+        "word": "人一旦有了电动车",
+        "onboard_time": 1765179022,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}

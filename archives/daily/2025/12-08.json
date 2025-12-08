@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765177093510,
+  "endTime": 1765179078821,
   "band_list": [
     {
       "raw_hot": 2030167,
@@ -131,6 +131,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 587522,
+      "num": 519626,
+      "word": "朱孝天回应缺席F4演唱会",
+      "onboard_time": 1765176740,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 583467,
+      "num": 583467,
+      "word": "俄罗斯 盗版疯狂动物城上映",
+      "onboard_time": 1765176201,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 555238,
       "num": 266968,
       "word": "庆功宴唯一素颜明星是黄景瑜",
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455709,
+      "num": 455709,
+      "word": "红楼梦悼明争议",
+      "onboard_time": 1765176021,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 453538,
       "num": 152331,
       "word": "日本预测大地震或致近2万人遇难",
@@ -267,11 +291,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432455,
+      "num": 432455,
+      "word": "韩国的咖啡已经进化到这种程度了吗",
+      "onboard_time": 1765175180,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426055,
       "num": 545016,
       "word": "男子欠近5000元房费酒店倒贴都不搬",
       "onboard_time": 1765117884,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392514,
+      "num": 503813,
+      "word": "商家故意不打包让骑手干等",
+      "onboard_time": 1765174762,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -313,14 +353,6 @@
       "onboard_time": 1765165279,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369767,
-      "num": 369767,
-      "word": "韩国的咖啡已经进化到这种程度了吗",
-      "onboard_time": 1765175180,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 361711,
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317497,
+      "num": 317497,
+      "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
+      "onboard_time": 1765177400,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316458,
       "num": 313483,
       "word": "星光大赏名单",
@@ -435,6 +475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 293949,
+      "num": 293949,
+      "word": "外来媳妇本地郎大结局",
+      "onboard_time": 1765176560,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288151,
       "num": 317667,
       "word": "全季酒店保洁用毛巾擦马桶",
@@ -465,14 +513,6 @@
       "onboard_time": 1765157060,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255272,
-      "num": 255272,
-      "word": "俄罗斯 盗版疯狂动物城上映",
-      "onboard_time": 1765176201,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 246044,
@@ -523,14 +563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 233650,
-      "num": 233650,
-      "word": "红楼梦悼明争议",
-      "onboard_time": 1765176021,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 230473,
       "num": 234677,
       "word": "杨瀚森生涯首次首发",
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227898,
+      "num": 184977,
+      "word": "女子长12根手指自称灵活好用",
+      "onboard_time": 1765175720,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226816,
       "num": 226816,
       "word": "华晨宇让小迪丽热巴别辜负那英",
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 223985,
-      "num": 273426,
+      "num": 495766,
       "word": "中央政治局12月8日召开会议",
       "onboard_time": 1765174280,
       "rank": 18,
@@ -683,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176626,
-      "num": 176626,
-      "word": "女子长12根手指自称灵活好用",
-      "onboard_time": 1765175720,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174701,
       "num": 174701,
       "word": "赵昭仪这次不是妹宝是女帝",
@@ -713,6 +745,14 @@
       "onboard_time": 1765168224,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167789,
+      "num": 167789,
+      "word": "星光大赏官宣热度",
+      "onboard_time": 1765178060,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 165624,
@@ -779,12 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155940,
-      "num": 155940,
-      "word": "商家故意不打包让骑手干等",
-      "onboard_time": 1765174762,
-      "rank": 46,
+      "raw_hot": 154787,
+      "num": 140619,
+      "word": "胖东来因抢购停售小方糖戒指",
+      "onboard_time": 1765178600,
+      "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154566,
+      "num": 154566,
+      "word": "iPhone18系列确认测试屏下FaceID",
+      "onboard_time": 1765177400,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 154403,
@@ -841,6 +889,14 @@
       "onboard_time": 1765121482,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 143912,
+      "num": 143912,
+      "word": "周柯宇对陈妍希跳姐姐真漂亮",
+      "onboard_time": 1765178359,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 142835,
@@ -947,20 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134570,
-      "num": 134570,
-      "word": "朱孝天回应缺席F4演唱会",
-      "onboard_time": 1765176740,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134066,
       "num": 134066,
       "word": "罗永浩谈豆包被部分app封杀",
       "onboard_time": 1765162820,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133940,
+      "num": 133940,
+      "word": "谁家剧放眼望去全是中戏的",
+      "onboard_time": 1765178540,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 133270,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1765168581,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 123148,
+      "num": 123148,
+      "word": "陈幸同辟谣执教澳大利亚",
+      "onboard_time": 1765178422,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 120559,
@@ -1147,6 +1211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113443,
+      "num": 113443,
+      "word": "德国外长访华前表态",
+      "onboard_time": 1765178480,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 113300,
+      "num": 113300,
+      "word": "这个顶流发饰太上头了",
+      "onboard_time": 1765176860,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112696,
       "num": 112696,
       "word": "土豆吕严",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1765166121,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112529,
+      "num": 112529,
+      "word": "我这一身聚酯纤维派上用场了",
+      "onboard_time": 1765176980,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 112474,
@@ -1219,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108192,
+      "num": 617497,
+      "word": "WE对战DYG",
+      "onboard_time": 1765175060,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107998,
       "num": 813972,
       "word": "日本三季度GDP降幅扩大",
@@ -1227,28 +1323,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107798,
-      "num": 107798,
-      "word": "这个顶流发饰太上头了",
-      "onboard_time": 1765176860,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107211,
       "num": 276425,
       "word": "醉酒丈夫负气离家落水遭死亡缠绕",
       "onboard_time": 1765170023,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107099,
-      "num": 617497,
-      "word": "WE对战DYG",
-      "onboard_time": 1765175060,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 106552,
@@ -1371,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96122,
-      "num": 99774,
-      "word": "我这一身聚酯纤维派上用场了",
-      "onboard_time": 1765176980,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95435,
       "num": 193784,
       "word": "王橹杰高会",
@@ -1393,6 +1465,22 @@
       "onboard_time": 1765121421,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94773,
+      "num": 94773,
+      "word": "留学生遭电诈2次飞回国转账",
+      "onboard_time": 1765178600,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94500,
+      "num": 94500,
+      "word": "警方回应青岛一商圈电梯夹死人",
+      "onboard_time": 1765177280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94284,
@@ -1459,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90444,
+      "num": 90444,
+      "word": "2026江苏卫视跨年演唱会官宣",
+      "onboard_time": 1765179022,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89925,
       "num": 193585,
       "word": "肖战得闲谨制登上新闻联播",
@@ -1483,14 +1579,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 87874,
-      "num": 247229,
-      "word": "外来媳妇本地郎大结局",
-      "onboard_time": 1765176560,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86397,
       "num": 86397,
       "word": "31岁女教师去世重病时仍安慰他人",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1765159400,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84951,
+      "num": 84951,
+      "word": "人一旦有了电动车",
+      "onboard_time": 1765179022,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 84238,
@@ -1529,6 +1625,14 @@
       "onboard_time": 1765158021,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83127,
+      "num": 90859,
+      "word": "章子怡卡梅隆热聊",
+      "onboard_time": 1765177341,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 83036,
@@ -2151,6 +2255,14 @@
       "num": 163390,
       "word": "男子幻想一夜暴富连续6天偷彩票",
       "onboard_time": 1765172362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18217,
+      "num": 112817,
+      "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
+      "onboard_time": 1765178959,
       "rank": 37,
       "category": "民生新闻"
     },

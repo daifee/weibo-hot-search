@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765177093510,
+  "endTime": 1765179078821,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -2003,6 +2003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 587522,
+      "num": 519626,
+      "word": "朱孝天回应缺席F4演唱会",
+      "onboard_time": 1765176740,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 587224,
       "num": 332179,
       "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1765020323,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583467,
+      "num": 583467,
+      "word": "俄罗斯 盗版疯狂动物城上映",
+      "onboard_time": 1765176201,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 583424,
@@ -3179,6 +3195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 455709,
+      "num": 455709,
+      "word": "红楼梦悼明争议",
+      "onboard_time": 1765176021,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 454485,
       "num": 227493,
       "word": "月薪一万八但无意义的工作",
@@ -3457,6 +3481,14 @@
       "onboard_time": 1764641299,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432455,
+      "num": 432455,
+      "word": "韩国的咖啡已经进化到这种程度了吗",
+      "onboard_time": 1765175180,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 432242,
@@ -3931,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392514,
+      "num": 503813,
+      "word": "商家故意不打包让骑手干等",
+      "onboard_time": 1765174762,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391223,
       "num": 207312,
       "word": "谁在买200元一粒的流感药",
@@ -4241,14 +4281,6 @@
       "onboard_time": 1765165279,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369767,
-      "num": 369767,
-      "word": "韩国的咖啡已经进化到这种程度了吗",
-      "onboard_time": 1765175180,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 368767,
@@ -5211,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317497,
+      "num": 317497,
+      "word": "狙击蝴蝶 男主穿女主衬衫下衣失踪",
+      "onboard_time": 1765177400,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317000,
       "num": 671811,
       "word": "中国男篮对阵韩国两连败",
@@ -5601,6 +5641,14 @@
       "onboard_time": 1764723621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293949,
+      "num": 293949,
+      "word": "外来媳妇本地郎大结局",
+      "onboard_time": 1765176560,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 293331,
@@ -6387,14 +6435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 255272,
-      "num": 255272,
-      "word": "俄罗斯 盗版疯狂动物城上映",
-      "onboard_time": 1765176201,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 255262,
       "num": 233820,
       "word": "男方起诉退还全部彩礼",
@@ -6947,14 +6987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233650,
-      "num": 233650,
-      "word": "红楼梦悼明争议",
-      "onboard_time": 1765176021,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 233400,
       "num": 233400,
       "word": "为骗老人10万元109人炒股群108个托",
@@ -7155,6 +7187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227898,
+      "num": 184977,
+      "word": "女子长12根手指自称灵活好用",
+      "onboard_time": 1765175720,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227646,
       "num": 215939,
       "word": "拜托那可是陈妍希",
@@ -7276,7 +7316,7 @@
     },
     {
       "raw_hot": 223985,
-      "num": 273426,
+      "num": 495766,
       "word": "中央政治局12月8日召开会议",
       "onboard_time": 1765174280,
       "rank": 18,
@@ -9851,14 +9891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176626,
-      "num": 176626,
-      "word": "女子长12根手指自称灵活好用",
-      "onboard_time": 1765175720,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176598,
       "num": 176598,
       "word": "闪耀暖暖",
@@ -10321,6 +10353,14 @@
       "onboard_time": 1764911301,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167789,
+      "num": 167789,
+      "word": "星光大赏官宣热度",
+      "onboard_time": 1765178060,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 167576,
@@ -11403,14 +11443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155940,
-      "num": 155940,
-      "word": "商家故意不打包让骑手干等",
-      "onboard_time": 1765174762,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155768,
       "num": 155768,
       "word": "王皓安慰王楚钦",
@@ -11491,12 +11523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154787,
+      "num": 140619,
+      "word": "胖东来因抢购停售小方糖戒指",
+      "onboard_time": 1765178600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154668,
       "num": 159637,
       "word": "许光汉张轩睿被曝兄弟反目",
       "onboard_time": 1764915503,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154566,
+      "num": 154566,
+      "word": "iPhone18系列确认测试屏下FaceID",
+      "onboard_time": 1765177400,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 154554,
@@ -12499,6 +12547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143912,
+      "num": 143912,
+      "word": "周柯宇对陈妍希跳姐姐真漂亮",
+      "onboard_time": 1765178359,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
@@ -13459,14 +13515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134570,
-      "num": 134570,
-      "word": "朱孝天回应缺席F4演唱会",
-      "onboard_time": 1765176740,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134539,
       "num": 134539,
       "word": "刘萧旭坐硬卧",
@@ -13545,6 +13593,14 @@
       "onboard_time": 1765102939,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133940,
+      "num": 133940,
+      "word": "谁家剧放眼望去全是中戏的",
+      "onboard_time": 1765178540,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 133876,
@@ -14921,6 +14977,14 @@
       "onboard_time": 1764918860,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123148,
+      "num": 123148,
+      "word": "陈幸同辟谣执教澳大利亚",
+      "onboard_time": 1765178422,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 123054,
@@ -16451,12 +16515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113443,
+      "num": 113443,
+      "word": "德国外长访华前表态",
+      "onboard_time": 1765178480,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113437,
       "num": 227248,
       "word": "杨迪的公关速度有多快",
       "onboard_time": 1764600143,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113300,
+      "num": 113300,
+      "word": "这个顶流发饰太上头了",
+      "onboard_time": 1765176860,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113241,
@@ -16553,6 +16633,14 @@
       "onboard_time": 1765166121,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112529,
+      "num": 112529,
+      "word": "我这一身聚酯纤维派上用场了",
+      "onboard_time": 1765176980,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 112475,
@@ -17147,6 +17235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108192,
+      "num": 617497,
+      "word": "WE对战DYG",
+      "onboard_time": 1765175060,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108140,
       "num": 110003,
       "word": "迪丽热巴云包场狙击蝴蝶",
@@ -17184,14 +17280,6 @@
       "word": "起底儿童款硅胶娃娃生产厂家",
       "onboard_time": 1764731961,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107798,
-      "num": 107798,
-      "word": "这个顶流发饰太上头了",
-      "onboard_time": 1765176860,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -17265,14 +17353,6 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107099,
-      "num": 617497,
-      "word": "WE对战DYG",
-      "onboard_time": 1765175060,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 107061,
@@ -19003,14 +19083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96122,
-      "num": 99774,
-      "word": "我这一身聚酯纤维派上用场了",
-      "onboard_time": 1765176980,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96114,
       "num": 96114,
       "word": "李昀锐路透造型被识别成AI了",
@@ -19187,6 +19259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94773,
+      "num": 94773,
+      "word": "留学生遭电诈2次飞回国转账",
+      "onboard_time": 1765178600,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94628,
       "num": 94628,
       "word": "孙颖莎王楚钦递毛巾全靠默契",
@@ -19209,6 +19289,14 @@
       "onboard_time": 1765096880,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94500,
+      "num": 94500,
+      "word": "警方回应青岛一商圈电梯夹死人",
+      "onboard_time": 1765177280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94460,
@@ -19779,6 +19867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90444,
+      "num": 90444,
+      "word": "2026江苏卫视跨年演唱会官宣",
+      "onboard_time": 1765179022,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90332,
       "num": 90332,
       "word": "声生不息评分高不是没原因的",
@@ -20041,14 +20137,6 @@
       "onboard_time": 1764845901,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87874,
-      "num": 247229,
-      "word": "外来媳妇本地郎大结局",
-      "onboard_time": 1765176560,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 87864,
@@ -20403,6 +20491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84951,
+      "num": 84951,
+      "word": "人一旦有了电动车",
+      "onboard_time": 1765179022,
+      "rank": 49,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 84908,
       "num": 112721,
       "word": "你买的进口奶粉可能产自小县城出租屋",
@@ -20625,6 +20721,14 @@
       "onboard_time": 1764673462,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83127,
+      "num": 90859,
+      "word": "章子怡卡梅隆热聊",
+      "onboard_time": 1765177341,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 83112,
@@ -25993,6 +26097,14 @@
       "onboard_time": 1764833243,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18217,
+      "num": 112817,
+      "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
+      "onboard_time": 1765178959,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18213,
