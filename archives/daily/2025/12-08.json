@@ -1,6 +1,6 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765193225768,
+  "endTime": 1765194080842,
   "band_list": [
     {
       "raw_hot": 2552923,
@@ -387,6 +387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 444227,
+      "num": 421196,
+      "word": "小洛熙妈妈发声",
+      "onboard_time": 1765191321,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443522,
       "num": 443522,
       "word": "郭德纲相声被举报内容低俗",
@@ -401,6 +409,14 @@
       "onboard_time": 1765188441,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442485,
+      "num": 205597,
+      "word": "放了很久的衣服不要穿",
+      "onboard_time": 1765192341,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 436036,
@@ -435,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 421196,
-      "num": 421196,
-      "word": "小洛熙妈妈发声",
-      "onboard_time": 1765191321,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 386381,
+      "num": 202227,
+      "word": "张柏芝庭审 答非所问",
+      "onboard_time": 1765192461,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 385940,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 346605,
-      "num": 179972,
+      "num": 197412,
       "word": "郑恺搂着孩子亲苗苗",
       "onboard_time": 1765189401,
       "rank": 39,
@@ -571,7 +587,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 320744,
+      "raw_hot": 321470,
       "num": 693950,
       "word": "中央定调明年经济政策",
       "onboard_time": 1765190661,
@@ -609,6 +625,14 @@
       "onboard_time": 1765152799,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 302940,
+      "num": 203994,
+      "word": "苟仲文",
+      "onboard_time": 1765191621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299094,
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218316,
+      "num": 944462,
+      "word": "苟仲文被判死缓终身监禁不得减刑假释",
+      "onboard_time": 1765189702,
+      "rank": 22,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 218315,
       "num": 218315,
       "word": "张钧甯带助理减肥36斤",
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 209745,
-      "num": 158191,
+      "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
       "onboard_time": 1765191382,
       "rank": 26,
@@ -971,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195926,
-      "num": 195926,
-      "word": "放了很久的衣服不要穿",
-      "onboard_time": 1765192341,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195853,
       "num": 195853,
       "word": "迪丽热巴两部剧人气TOP10",
@@ -1043,12 +1067,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176819,
-      "num": 176819,
-      "word": "张柏芝庭审 答非所问",
-      "onboard_time": 1765192461,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 178092,
+      "num": 178092,
+      "word": "于正官宣张婉莹女一号",
+      "onboard_time": 1765193421,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 176304,
@@ -1115,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166940,
-      "num": 944462,
-      "word": "苟仲文被判死缓终身监禁不得减刑假释",
-      "onboard_time": 1765189702,
-      "rank": 22,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 166540,
       "num": 166539,
       "word": "向鱼回归",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161287,
-      "num": 161287,
-      "word": "苟仲文",
-      "onboard_time": 1765191621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159822,
@@ -1739,20 +1747,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114742,
+      "num": 114742,
+      "word": "特朗普高市早苗涉台通话内容曝光",
+      "onboard_time": 1765191441,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114663,
       "num": 135718,
       "word": "数学学到最后已经看不到数字了",
       "onboard_time": 1765169423,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "特朗普高市早苗涉台通话内容曝光",
-      "onboard_time": 1765191441,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114461,
@@ -1859,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110104,
+      "num": 150793,
+      "word": "苟仲文受贿2.36亿余元",
+      "onboard_time": 1765191621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109900,
       "num": 109900,
       "word": "杨瀚森犯规",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1765164140,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108743,
+      "num": 108743,
+      "word": "声优西村知道去世",
+      "onboard_time": 1765193541,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 108625,
@@ -2051,6 +2075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101541,
+      "num": 211995,
+      "word": "Chovy训练空缺位置一个月",
+      "onboard_time": 1765192581,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101402,
       "num": 101402,
       "word": "孙天宇发的杨雨光",
@@ -2179,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94363,
+      "num": 94363,
+      "word": "郭德纲 艺高人胆小",
+      "onboard_time": 1765189161,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94284,
       "num": 138091,
       "word": "谁教陈晓这样撒娇的",
@@ -2235,6 +2275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92194,
+      "num": 92194,
+      "word": "原来爱是可以具象化",
+      "onboard_time": 1765193962,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91380,
       "num": 193830,
       "word": "虞书欣的12分18秒",
@@ -2273,14 +2321,6 @@
       "onboard_time": 1765110800,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89776,
-      "num": 150793,
-      "word": "苟仲文受贿2.36亿余元",
-      "onboard_time": 1765191621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89389,
@@ -2579,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58379,
+      "num": 99703,
+      "word": "日本人称煎饺起源于日本",
+      "onboard_time": 1765193480,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56624,
       "num": 193091,
       "word": "心疼花海",
@@ -2707,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50275,
+      "num": 199247,
+      "word": "男子吸烟被白鲸吐水系禁烟宣传视频",
+      "onboard_time": 1765192822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50223,
       "num": 193309,
       "word": "杨幂嫌弃董璇拍照",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1765148057,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48769,
+      "num": 101712,
+      "word": "20多岁女生竟靠偷快递为生",
+      "onboard_time": 1765193421,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48759,
@@ -2979,6 +3043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32502,
+      "num": 484555,
+      "word": "冰雪经济新玩法带动新消费",
+      "onboard_time": 1765190542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32406,
       "num": 272075,
       "word": "网警查处编造汽车造成8杀网络谣言案",
@@ -3043,14 +3115,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 25998,
-      "num": 484555,
-      "word": "冰雪经济新玩法带动新消费",
-      "onboard_time": 1765190542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25798,
       "num": 169017,
       "word": "该让全网最忙五人组歇歇了",
@@ -3083,12 +3147,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 23770,
-      "num": 176350,
-      "word": "男子吸烟被白鲸吐水系禁烟宣传视频",
-      "onboard_time": 1765192822,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 23927,
+      "num": 99884,
+      "word": "美国高中生的数学",
+      "onboard_time": 1765193360,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21037,
@@ -3243,7 +3307,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2953,
+      "raw_hot": 3691,
       "num": 902554,
       "word": "残特奥会今日开幕",
       "onboard_time": 1765154900,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765193225768,
+  "endTime": 1765194080842,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -3435,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444227,
+      "num": 421196,
+      "word": "小洛熙妈妈发声",
+      "onboard_time": 1765191321,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443986,
       "num": 283285,
       "word": "沈佳润 路人缘是一种玄的东西",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1765188441,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442485,
+      "num": 205597,
+      "word": "放了很久的衣服不要穿",
+      "onboard_time": 1765192341,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 441578,
@@ -3737,14 +3753,6 @@
       "onboard_time": 1764922521,
       "rank": 20,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 421196,
-      "num": 421196,
-      "word": "小洛熙妈妈发声",
-      "onboard_time": 1765191321,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420610,
@@ -4169,6 +4177,14 @@
       "onboard_time": 1764986001,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386381,
+      "num": 202227,
+      "word": "张柏芝庭审 答非所问",
+      "onboard_time": 1765192461,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 386206,
@@ -4820,7 +4836,7 @@
     },
     {
       "raw_hot": 346605,
-      "num": 179972,
+      "num": 197412,
       "word": "郑恺搂着孩子亲苗苗",
       "onboard_time": 1765189401,
       "rank": 39,
@@ -5299,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321470,
+      "num": 693950,
+      "word": "中央定调明年经济政策",
+      "onboard_time": 1765190661,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321275,
       "num": 269241,
       "word": "王一博说我没办法给别人情绪价值",
@@ -5321,14 +5345,6 @@
       "onboard_time": 1764815840,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320744,
-      "num": 693950,
-      "word": "中央定调明年经济政策",
-      "onboard_time": 1765190661,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 320654,
@@ -5640,6 +5656,14 @@
       "word": "胖东来小方糖戒指热卖",
       "onboard_time": 1764630678,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302940,
+      "num": 203994,
+      "word": "苟仲文",
+      "onboard_time": 1765191621,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -7667,6 +7691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218316,
+      "num": 944462,
+      "word": "苟仲文被判死缓终身监禁不得减刑假释",
+      "onboard_time": 1765189702,
+      "rank": 22,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 218315,
       "num": 218315,
       "word": "张钧甯带助理减肥36斤",
@@ -7996,7 +8028,7 @@
     },
     {
       "raw_hot": 209745,
-      "num": 158191,
+      "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
       "onboard_time": 1765191382,
       "rank": 26,
@@ -8945,14 +8977,6 @@
       "onboard_time": 1764944064,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195926,
-      "num": 195926,
-      "word": "放了很久的衣服不要穿",
-      "onboard_time": 1765192341,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 195884,
@@ -10139,6 +10163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178092,
+      "num": 178092,
+      "word": "于正官宣张婉莹女一号",
+      "onboard_time": 1765193421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177888,
       "num": 255771,
       "word": "十个勤天好多合照",
@@ -10193,14 +10225,6 @@
       "onboard_time": 1764905840,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 176819,
-      "num": 176819,
-      "word": "张柏芝庭审 答非所问",
-      "onboard_time": 1765192461,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 176671,
@@ -10803,14 +10827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166940,
-      "num": 944462,
-      "word": "苟仲文被判死缓终身监禁不得减刑假释",
-      "onboard_time": 1765189702,
-      "rank": 22,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 166932,
       "num": 166932,
       "word": "诺里斯F1世界冠军",
@@ -11313,14 +11329,6 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161287,
-      "num": 161287,
-      "word": "苟仲文",
-      "onboard_time": 1765191621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161267,
@@ -16835,6 +16843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114742,
+      "num": 114742,
+      "word": "特朗普高市早苗涉台通话内容曝光",
+      "onboard_time": 1765191441,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114663,
       "num": 135718,
       "word": "数学学到最后已经看不到数字了",
@@ -16865,14 +16881,6 @@
       "onboard_time": 1764685104,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "特朗普高市早苗涉台通话内容曝光",
-      "onboard_time": 1765191441,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114461,
@@ -17499,6 +17507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110104,
+      "num": 150793,
+      "word": "苟仲文受贿2.36亿余元",
+      "onboard_time": 1765191621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110074,
       "num": 110074,
       "word": "A股重磅利好来了",
@@ -17729,6 +17745,14 @@
       "onboard_time": 1765008442,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108743,
+      "num": 108743,
+      "word": "声优西村知道去世",
+      "onboard_time": 1765193541,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 108714,
@@ -18907,6 +18931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101541,
+      "num": 211995,
+      "word": "Chovy训练空缺位置一个月",
+      "onboard_time": 1765192581,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101511,
       "num": 649359,
       "word": "冻伤要到烧伤科就诊",
@@ -19995,6 +20027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94363,
+      "num": 94363,
+      "word": "郭德纲 艺高人胆小",
+      "onboard_time": 1765189161,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94284,
       "num": 138091,
       "word": "谁教陈晓这样撒娇的",
@@ -20265,6 +20305,14 @@
       "onboard_time": 1764658520,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92194,
+      "num": 92194,
+      "word": "原来爱是可以具象化",
+      "onboard_time": 1765193962,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 92187,
@@ -20641,14 +20689,6 @@
       "onboard_time": 1764572483,
       "rank": 49,
       "category": "电影,幽默"
-    },
-    {
-      "raw_hot": 89776,
-      "num": 150793,
-      "word": "苟仲文受贿2.36亿余元",
-      "onboard_time": 1765191621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89747,
@@ -23395,6 +23435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58379,
+      "num": 99703,
+      "word": "日本人称煎饺起源于日本",
+      "onboard_time": 1765193480,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58342,
       "num": 707448,
       "word": "眼里有光满眼就都是光",
@@ -24083,6 +24131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50275,
+      "num": 199247,
+      "word": "男子吸烟被白鲸吐水系禁烟宣传视频",
+      "onboard_time": 1765192822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50035,
       "num": 1033717,
       "word": "冬天里的大美中国",
@@ -24201,6 +24257,14 @@
       "onboard_time": 1764667521,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48769,
+      "num": 101712,
+      "word": "20多岁女生竟靠偷快递为生",
+      "onboard_time": 1765193421,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48643,
@@ -25787,6 +25851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32502,
+      "num": 484555,
+      "word": "冰雪经济新玩法带动新消费",
+      "onboard_time": 1765190542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32489,
       "num": 108348,
       "word": "孙颖莎小脚一搭笑盈盈",
@@ -26315,14 +26387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25998,
-      "num": 484555,
-      "word": "冰雪经济新玩法带动新消费",
-      "onboard_time": 1765190542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25954,
       "num": 124791,
       "word": "王楚钦弗朗西斯卡赛后热聊",
@@ -26515,20 +26579,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 23927,
+      "num": 99884,
+      "word": "美国高中生的数学",
+      "onboard_time": 1765193360,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23892,
       "num": 27430,
       "word": "汪苏泷这里不让睡觉",
       "onboard_time": 1764528015,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23770,
-      "num": 176350,
-      "word": "男子吸烟被白鲸吐水系禁烟宣传视频",
-      "onboard_time": 1765192822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23707,
@@ -27635,20 +27699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3691,
+      "num": 902554,
+      "word": "残特奥会今日开幕",
+      "onboard_time": 1765154900,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2961,
       "num": 403954,
       "word": "加快生产消费者满意的电动车新产品",
       "onboard_time": 1764894201,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2953,
-      "num": 902554,
-      "word": "残特奥会今日开幕",
-      "onboard_time": 1765154900,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
