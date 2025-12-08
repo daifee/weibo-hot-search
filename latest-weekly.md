@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 05:38:50
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/09 06:27:31
 </p>
 </blockquote>
 <p>
@@ -4533,6 +4533,12 @@ A股商业航天板块高开（热度：84238）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%20%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E6%9D%A5%E8%BF%BD%E6%98%9F%E5%B9%B2%E5%98%9B%23" target="weibo">
+刘烨 不好好学习来追星干嘛（热度：81490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%91%9B%E5%BD%AC%20%E8%B0%A2%E8%B0%A2%E5%A4%B4%E5%93%A5%23" target="weibo">
 徐瑛彬 谢谢头哥（热度：80256）
 </a>
@@ -4587,6 +4593,12 @@ A股商业航天板块高开（热度：84238）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9C%87%E5%90%8E%E7%8A%B6%E6%80%81%23" target="weibo">
+日本正确认多座核电站震后状态（热度：76136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E7%A7%8D%E6%B0%B4%E6%9E%9C%E7%9A%84%E9%9A%90%E8%97%8F%E7%94%A8%E6%B3%95%23" target="weibo">
 5种水果的隐藏用法（热度：75565）
 </a>
@@ -4637,12 +4649,6 @@ A股商业航天板块高开（热度：84238）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BB%8A%E6%99%9A%E5%B0%86%E5%86%8D%E6%AC%A1%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
 中国队今晚将再次对阵日本队（热度：74606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9C%87%E5%90%8E%E7%8A%B6%E6%80%81%23" target="weibo">
-日本正确认多座核电站震后状态（热度：74316）
 </a>
 </li>
 
@@ -5235,6 +5241,12 @@ AG对战TE（热度：61943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
+朱孝天希望相信音乐高抬贵手（热度：41798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E6%9C%889%E6%97%A5%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E5%9C%B0%E7%A3%81%E6%9A%B4%23" target="weibo">
 12月9日可能出现地磁暴（热度：41784）
 </a>
@@ -5399,12 +5411,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E4%BB%8E9%E6%A5%BC%E5%9D%A0%E4%BA%A1%23" target="weibo">
 酒店回应中国女游客从9楼坠亡（热度：32919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%B8%8C%E6%9C%9B%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%E9%AB%98%E6%8A%AC%E8%B4%B5%E6%89%8B%23" target="weibo">
-朱孝天希望相信音乐高抬贵手（热度：32919）
 </a>
 </li>
 
@@ -5631,6 +5637,18 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E5%8F%91%E6%96%87%E7%96%91%E5%9B%9E%E5%BA%94%E7%9B%B8%E5%A3%B0%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
+郭德纲发文疑回应相声被举报（热度：21588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%85%A8%E7%90%83%E5%BE%81%E5%A9%9A%E8%A6%81%E6%B1%82%E5%A5%B3%E6%96%B9%E6%98%AF%E5%AF%8C%E5%A9%86%23" target="weibo">
+留几手全球征婚要求女方是富婆（热度：21443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%84%BF%E7%AB%A5%E6%B2%99%E6%B1%A0%E5%86%85%E5%8F%8D%E5%A4%8D%E6%90%93%E8%84%9A%23" target="weibo">
 男子在儿童沙池内反复搓脚（热度：21167）
 </a>
@@ -5645,6 +5663,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%8C%96%E8%80%B3%E5%8B%BA%E7%BB%99%E5%8E%A8%E5%B8%88%E6%8B%8D%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 用挖耳勺给厨师拍宣传片（热度：21037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%BB%99%E5%88%98%E8%AF%97%E8%AF%97%E7%B2%89%E4%B8%9D%E9%80%80%E6%AC%BE%23" target="weibo">
+爱奇艺给刘诗诗粉丝退款（热度：20713）
 </a>
 </li>
 
@@ -5705,12 +5729,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E9%95%BF%E7%A7%B0%E6%B4%97%E6%89%8B%E6%B1%A0%E6%B7%B7%E6%B4%97%E6%B0%B4%E6%9E%9C%E7%9A%84%E6%98%AF%E5%AE%9E%E4%B9%A0%E7%94%9F%23" target="weibo">
 列车长称洗手池混洗水果的是实习生（热度：19210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%85%A8%E7%90%83%E5%BE%81%E5%A9%9A%E8%A6%81%E6%B1%82%E5%A5%B3%E6%96%B9%E6%98%AF%E5%AF%8C%E5%A9%86%23" target="weibo">
-留几手全球征婚要求女方是富婆（热度：19023）
 </a>
 </li>
 
@@ -5793,6 +5811,12 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
+漠河梦幻冰泡泡上线（热度：16231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%9688%E5%B2%81%E5%A4%A7%E7%88%B7%E4%B8%BA%E6%95%91%E7%97%85%E5%A6%BB%E6%AF%8F%E5%A4%A9%E6%94%B6%E9%93%B68%E5%B0%8F%E6%97%B6%23" target="weibo">
 国外88岁大爷为救病妻每天收银8小时（热度：16067）
 </a>
@@ -5801,18 +5825,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E6%9D%A8%E5%B9%82%E5%80%BC%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9A%84%23" target="weibo">
 于正说杨幂值得更好的（热度：15826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%BB%99%E5%88%98%E8%AF%97%E8%AF%97%E7%B2%89%E4%B8%9D%E9%80%80%E6%AC%BE%23" target="weibo">
-爱奇艺给刘诗诗粉丝退款（热度：15740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%20%E4%B8%8D%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E6%9D%A5%E8%BF%BD%E6%98%9F%E5%B9%B2%E5%98%9B%23" target="weibo">
-刘烨 不好好学习来追星干嘛（热度：14837）
 </a>
 </li>
 
@@ -5835,12 +5847,6 @@ Gumayusi说能战胜T1（热度：40076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%A2%A6%E5%B9%BB%E5%86%B0%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%BA%BF%23" target="weibo">
-漠河梦幻冰泡泡上线（热度：13370）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E7%A7%B0%E8%A2%AB%E6%94%BB%E5%87%BB%E5%9B%A0%E9%BB%91%E7%86%8A%E6%83%B3%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%23" target="weibo">
 饲养员称被攻击因黑熊想吃胡萝卜（热度：13118）
 </a>
@@ -5849,6 +5855,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B7%BB%E7%A5%A5%E5%9B%9E%E5%BA%94%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%96%E5%BE%88%E5%BF%AB%E5%B0%B1%E7%BA%A2%E4%BA%86%23" target="weibo">
 陈添祥回应于正说他很快就红了（热度：12980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
+微博年度关键词赛博（热度：12741）
 </a>
 </li>
 
@@ -5873,12 +5885,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%B8%89%E6%98%9F%E5%A0%86%E8%B1%A1%E7%89%99%E9%9A%BE%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 看三星堆象牙难度有多大（热度：10177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23" target="weibo">
-微博年度关键词赛博（热度：9549）
 </a>
 </li>
 

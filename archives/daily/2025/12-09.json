@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765229930021,
+  "endTime": 1765232851866,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81490,
+      "num": 65018,
+      "word": "刘烨 不好好学习来追星干嘛",
+      "onboard_time": 1765229413,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80629,
       "num": 96823,
       "word": "谭松韵要开演唱会了",
@@ -291,7 +299,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74316,
+      "raw_hot": 76136,
       "num": 96828,
       "word": "日本正确认多座核电站震后状态",
       "onboard_time": 1765210101,
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41798,
+      "num": 63924,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39660,
       "num": 92452,
       "word": "盒马承认生产草莓蛋糕出问题",
@@ -441,14 +457,6 @@
       "onboard_time": 1765200801,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32919,
-      "num": 32919,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 31263,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 22756,
-      "num": 35630,
+      "num": 61697,
       "word": "陈添祥官宣星光大赏",
       "onboard_time": 1765216575,
       "rank": 38,
@@ -499,12 +507,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21588,
+      "num": 62473,
+      "word": "郭德纲发文疑回应相声被举报",
+      "onboard_time": 1765232055,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21443,
+      "num": 62257,
+      "word": "留几手全球征婚要求女方是富婆",
+      "onboard_time": 1765222634,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 20951,
       "num": 284970,
       "word": "盘点2025",
       "onboard_time": 1765201341,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20713,
+      "num": 62103,
+      "word": "爱奇艺给刘诗诗粉丝退款",
+      "onboard_time": 1765222095,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 19839,
@@ -515,16 +547,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19023,
-      "num": 32572,
-      "word": "留几手全球征婚要求女方是富婆",
-      "onboard_time": 1765222634,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 18851,
-      "num": 35481,
+      "num": 62004,
       "word": "马航MH370索赔案每案判赔290万",
       "onboard_time": 1765218794,
       "rank": 48,
@@ -547,20 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15740,
-      "num": 28834,
-      "word": "爱奇艺给刘诗诗粉丝退款",
-      "onboard_time": 1765222095,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 14837,
-      "num": 32541,
-      "word": "刘烨 不好好学习来追星干嘛",
-      "onboard_time": 1765229413,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 16231,
+      "num": 67352,
+      "word": "漠河梦幻冰泡泡上线",
+      "onboard_time": 1765227433,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 13691,
@@ -579,16 +595,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13370,
-      "num": 36560,
-      "word": "漠河梦幻冰泡泡上线",
-      "onboard_time": 1765227433,
-      "rank": 8,
-      "category": "旅游"
+      "raw_hot": 12741,
+      "num": 67031,
+      "word": "微博年度关键词赛博",
+      "onboard_time": 1765226054,
+      "rank": 14,
+      "category": "互联网"
     },
     {
-      "raw_hot": 12214,
-      "num": 32513,
+      "raw_hot": 12569,
+      "num": 61274,
       "word": "苟仲文一审被判死缓",
       "onboard_time": 1765185201,
       "rank": 48,
@@ -601,14 +617,6 @@
       "onboard_time": 1765221254,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 9549,
-      "num": 36115,
-      "word": "微博年度关键词赛博",
-      "onboard_time": 1765226054,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 7423,
