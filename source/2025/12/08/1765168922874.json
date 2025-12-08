@@ -1,0 +1,410 @@
+{
+  "runTime": 1765168922874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1705750,
+        "num": 1705750,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1765167920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 895896,
+        "num": 895896,
+        "word": "退学北大考上清华小伙被白嫖家教费",
+        "onboard_time": 1765166902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67943,
+        "num": 713247,
+        "word": "尔滨雪人先生即将上线",
+        "onboard_time": 1765165581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713175,
+        "num": 713175,
+        "word": "我叫李飞",
+        "onboard_time": 1765164140,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105446,
+        "num": 651834,
+        "word": "未定事件簿",
+        "onboard_time": 1765166421,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 650129,
+        "num": 650129,
+        "word": "1818名包括明星网红在内双高人员被查",
+        "onboard_time": 1765163900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478774,
+        "num": 646368,
+        "word": "得闲谨制",
+        "onboard_time": 1765165401,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290874,
+        "num": 642981,
+        "word": "iPhone17Pro系列破发",
+        "onboard_time": 1765165520,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25980,
+        "num": 639762,
+        "word": "一起为7000多名残疾人运动员加油",
+        "onboard_time": 1765165341,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131060,
+        "num": 635011,
+        "word": "A股行情",
+        "onboard_time": 1765167501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 840049,
+        "num": 628307,
+        "word": "红楼梦 悼明",
+        "onboard_time": 1765163421,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 86647,
+        "num": 622117,
+        "word": "看极光去北欧要3万去漠河仅3千",
+        "onboard_time": 1765167622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760150,
+        "num": 619855,
+        "word": "白鹿 张凌赫",
+        "onboard_time": 1765167442,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617362,
+        "num": 617362,
+        "word": "日本一成人商店惊现婴儿残尸",
+        "onboard_time": 1765160179,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 515421,
+        "num": 515421,
+        "word": "王楚然提抹胸",
+        "onboard_time": 1765167442,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424337,
+        "num": 424337,
+        "word": "林俊杰 大牌小耍",
+        "onboard_time": 1765167021,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385940,
+        "num": 385940,
+        "word": "让成毅徐璐演兄妹的是天才",
+        "onboard_time": 1765165520,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359659,
+        "num": 359659,
+        "word": "狙击蝴蝶 黑马",
+        "onboard_time": 1765164800,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333124,
+        "num": 333124,
+        "word": "香港麦当劳居然这么好吃",
+        "onboard_time": 1765165700,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35233,
+        "num": 330750,
+        "word": "厦门正在更新你的未来生活",
+        "onboard_time": 1765165279,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105663,
+        "num": 323872,
+        "word": "零下30℃的漠河室内外温差达60℃",
+        "onboard_time": 1765167681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402523,
+        "num": 315385,
+        "word": "钟丽缇想让女儿上清北",
+        "onboard_time": 1765168042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342518,
+        "num": 310165,
+        "word": "杨幂 于和伟我罩的",
+        "onboard_time": 1765166121,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185445,
+        "num": 303023,
+        "word": "詹姆斯戴王冠",
+        "onboard_time": 1765164021,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142835,
+        "num": 295549,
+        "word": "鸿蒙智行五界首聚直播",
+        "onboard_time": 1765163000,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 293119,
+        "num": 293119,
+        "word": "白鹿张凌赫 过期糖",
+        "onboard_time": 1765165279,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268327,
+        "num": 268327,
+        "word": "什么叫做假性亲密关系",
+        "onboard_time": 1765151299,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232127,
+        "num": 232127,
+        "word": "李亚鹏谈第四个女儿",
+        "onboard_time": 1765164621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133126,
+        "num": 212600,
+        "word": "鸭头糖葫芦30元1串",
+        "onboard_time": 1765166902,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 205230,
+        "word": "浙江卫视跨年晚会官宣",
+        "onboard_time": 1765161801,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201766,
+        "num": 201766,
+        "word": "鹅鸭杀公测定档",
+        "onboard_time": 1765168822,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199755,
+        "num": 199755,
+        "word": "美国没支持日本慌了",
+        "onboard_time": 1765164980,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183834,
+        "num": 183834,
+        "word": "成何体统 剧宣",
+        "onboard_time": 1765168101,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174701,
+        "num": 174701,
+        "word": "赵昭仪这次不是妹宝是女帝",
+        "onboard_time": 1765167681,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151626,
+        "num": 151626,
+        "word": "这六位艺人没一个能体面的上台",
+        "onboard_time": 1765165460,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148930,
+        "num": 148930,
+        "word": "易梦玲素颜",
+        "onboard_time": 1765168224,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117589,
+        "num": 135479,
+        "word": "张本美和说每次输王曼昱方式都一样",
+        "onboard_time": 1765160179,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10076,
+        "num": 131434,
+        "word": "波兰总理发帖哀求美国人被指丢脸",
+        "onboard_time": 1765168342,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130907,
+        "num": 130907,
+        "word": "成毅演了李莲花的反义词",
+        "onboard_time": 1765161200,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11948,
+        "num": 125498,
+        "word": "日军被爆引导美军轰炸平民",
+        "onboard_time": 1765168882,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125368,
+        "num": 125368,
+        "word": "刘耀文你睁开眼看看不信你两眼空空",
+        "onboard_time": 1765168642,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124527,
+        "num": 124527,
+        "word": "富婆一招让老公的女助理自愿离职",
+        "onboard_time": 1765168882,
+        "rank": 41,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 124355,
+        "num": 124355,
+        "word": "喜欢拍照是高生命力的一种表现",
+        "onboard_time": 1765168581,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 119719,
+        "num": 119719,
+        "word": "以为是那个李飞",
+        "onboard_time": 1765168762,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "iPhone17Pro官方破价",
+        "onboard_time": 1765166181,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118413,
+        "num": 118413,
+        "word": "迪丽热巴新剧吸引到演技粉了",
+        "onboard_time": 1765167561,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117774,
+        "num": 117774,
+        "word": "王鹤棣带沈月去了他的中学",
+        "onboard_time": 1765153101,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115074,
+        "num": 115074,
+        "word": "现在就出发3",
+        "onboard_time": 1765167323,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115870,
+        "num": 115062,
+        "word": "周柯宇 弟圈天菜",
+        "onboard_time": 1765167861,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114715,
+        "num": 114715,
+        "word": "现在的安睡裤怎么变成这样了",
+        "onboard_time": 1765161440,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首再次进行不打领带的友好交流#"
+    }
+  }
+}
