@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765187396701,
+  "endTime": 1765189956628,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -17,6 +17,14 @@
       "onboard_time": 1765037902,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2552923,
+      "num": 254019,
+      "word": "张柏芝庭审情绪失控崩溃大哭",
+      "onboard_time": 1765188380,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2424268,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1931286,
-      "num": 235802,
+      "num": 251098,
       "word": "张子枫纹身",
       "onboard_time": 1765182561,
       "rank": 22,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1700867,
-      "num": 239421,
+      "num": 246578,
       "word": "秦岚魏大勋分手了吗",
       "onboard_time": 1765175480,
       "rank": 20,
@@ -427,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 597891,
+      "num": 312876,
+      "word": "日本记者找不到中国游客采访",
+      "onboard_time": 1765185860,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 591798,
       "num": 228415,
       "word": "法国网友一点没放过马克龙",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 589890,
-      "num": 232680,
+      "num": 235925,
       "word": "90花 结婚",
       "onboard_time": 1765181961,
       "rank": 24,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 507468,
-      "num": 214722,
+      "num": 236316,
       "word": "学信网的含金量还在上升",
       "onboard_time": 1765184241,
       "rank": 23,
@@ -633,6 +649,14 @@
       "onboard_time": 1765083081,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 497062,
+      "num": 252672,
+      "word": "5月龄女婴手术离世鉴定程序中止",
+      "onboard_time": 1765187421,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490089,
@@ -827,6 +851,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 443111,
+      "num": 245846,
+      "word": "偶遇窦骁何超莲一起吃早餐",
+      "onboard_time": 1765188441,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436070,
       "num": 243187,
       "word": "杨幂 我看诡秘拍的照片",
@@ -857,6 +889,14 @@
       "onboard_time": 1765099041,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417270,
+      "num": 255727,
+      "word": "得闲谨制票房",
+      "onboard_time": 1765186641,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 410933,
@@ -1067,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345822,
+      "num": 256161,
+      "word": "马克龙回国后呼吁中国投资欧洲",
+      "onboard_time": 1765188441,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 345688,
       "num": 345688,
       "word": "郎平置换了髋关节和颈椎",
@@ -1128,14 +1176,6 @@
       "word": "泰国对柬埔寨发动空袭",
       "onboard_time": 1765172422,
       "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 337447,
-      "num": 312876,
-      "word": "日本记者找不到中国游客采访",
-      "onboard_time": 1765185860,
-      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -1531,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256381,
+      "num": 319745,
+      "word": "王楚钦独守男单上半区",
+      "onboard_time": 1765187179,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255954,
       "num": 421447,
       "word": "税务师成绩",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1765107142,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250912,
+      "num": 250912,
+      "word": "原来是迟蓬提醒的杨幂",
+      "onboard_time": 1765188320,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 248464,
@@ -1796,7 +1852,7 @@
     },
     {
       "raw_hot": 216145,
-      "num": 203611,
+      "num": 253081,
       "word": "易烊千玺淘宝",
       "onboard_time": 1765105280,
       "rank": 14,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1765032685,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214202,
+      "num": 214202,
+      "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
+      "onboard_time": 1765188681,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 212320,
@@ -1955,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204839,
+      "num": 204839,
+      "word": "周杰伦晒和林俊杰合照",
+      "onboard_time": 1765188681,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204641,
       "num": 242974,
       "word": "苏州地铁全网寻找用围巾擦地女子",
@@ -2036,7 +2108,7 @@
     },
     {
       "raw_hot": 200632,
-      "num": 165929,
+      "num": 187938,
       "word": "当我冲着女儿的颜值生了二胎",
       "onboard_time": 1765186040,
       "rank": 30,
@@ -2179,14 +2251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 188931,
-      "num": 188931,
-      "word": "得闲谨制票房",
-      "onboard_time": 1765186641,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188881,
       "num": 165585,
       "word": "起床不要一睁眼就刷手机",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1765082122,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185948,
+      "num": 185948,
+      "word": "网友首尔偶遇Angelababy",
+      "onboard_time": 1765186941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 185079,
@@ -2313,6 +2385,14 @@
       "onboard_time": 1765185441,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175748,
+      "num": 175748,
+      "word": "尖叫之夜魏大勋前任现任都在",
+      "onboard_time": 1765186821,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174743,
@@ -2859,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145869,
+      "num": 145869,
+      "word": "徐冬冬 寸头也和婚礼不冲突",
+      "onboard_time": 1765186760,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145740,
       "num": 193641,
       "word": "榕江通报荒野求生女选手疑遭骚扰",
@@ -3123,14 +3211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135735,
-      "num": 319745,
-      "word": "王楚钦独守男单上半区",
-      "onboard_time": 1765187179,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135713,
       "num": 118849,
       "word": "得闲谨制业内口碑",
@@ -3291,6 +3371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130810,
+      "num": 130810,
+      "word": "向鱼回归",
+      "onboard_time": 1765189762,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130772,
       "num": 130772,
       "word": "庄达菲卢昱晓敖瑞鹏你们三到底要干嘛",
@@ -3387,6 +3475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127338,
+      "num": 182086,
+      "word": "李纯新剧又来吐蛇信子了",
+      "onboard_time": 1765189460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127288,
       "num": 127288,
       "word": "刘萧旭 他叫何聪睿",
@@ -3409,6 +3505,14 @@
       "onboard_time": 1765082781,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "观众给杨洋的韩立干到返场了",
+      "onboard_time": 1765189460,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126999,
@@ -3731,14 +3835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119463,
-      "num": 119463,
-      "word": "徐冬冬 寸头也和婚礼不冲突",
-      "onboard_time": 1765186760,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119216,
       "num": 113117,
       "word": "突然就明白了多年前同学录的意思",
@@ -3769,14 +3865,6 @@
       "onboard_time": 1765081041,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118615,
-      "num": 118615,
-      "word": "尖叫之夜魏大勋前任现任都在",
-      "onboard_time": 1765186821,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 118604,
@@ -3937,6 +4025,14 @@
       "onboard_time": 1765063338,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115424,
+      "num": 249437,
+      "word": "苟仲文被判死缓终身监禁不得减刑假释",
+      "onboard_time": 1765189702,
+      "rank": 22,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 115178,
@@ -4129,6 +4225,14 @@
       "onboard_time": 1765077921,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111975,
+      "num": 111975,
+      "word": "跑男有望夺下今年综艺年冠",
+      "onboard_time": 1765188740,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111266,
@@ -4787,12 +4891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94100,
+      "num": 251545,
+      "word": "小青盒建议流感别叫流感",
+      "onboard_time": 1765186520,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93576,
       "num": 93576,
       "word": "第一次见眼睛得脚气的",
       "onboard_time": 1765114822,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93411,
+      "num": 127256,
+      "word": "茉莉奶白回应门店故意让骑手干等",
+      "onboard_time": 1765188261,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93399,
@@ -5171,14 +5291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76102,
-      "num": 209416,
-      "word": "小青盒建议流感别叫流感",
-      "onboard_time": 1765186520,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -5385,6 +5497,14 @@
       "onboard_time": 1765122081,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66875,
+      "num": 244505,
+      "word": "吊牌侠在滑雪场帮人剪衣服吊牌",
+      "onboard_time": 1765188501,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65159,
@@ -5707,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48643,
+      "num": 177464,
+      "word": "原来茉莉花也是夜猫子",
+      "onboard_time": 1765187960,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 48280,
       "num": 103402,
       "word": "任嘉伦为提高饭量打乒乓球",
@@ -5809,6 +5937,14 @@
       "onboard_time": 1765150220,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44522,
+      "num": 179972,
+      "word": "郑恺搂着孩子亲苗苗",
+      "onboard_time": 1765189401,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 44320,
@@ -5969,6 +6105,14 @@
       "onboard_time": 1765105821,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36479,
+      "num": 248086,
+      "word": "马航MH370部分家属索赔案一审宣判",
+      "onboard_time": 1765189641,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36414,
@@ -6137,14 +6281,6 @@
       "onboard_time": 1765070961,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26186,
-      "num": 127302,
-      "word": "网友首尔偶遇Angelababy",
-      "onboard_time": 1765186941,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 26147,
@@ -6433,6 +6569,14 @@
       "onboard_time": 1765049354,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6593,
+      "num": 183493,
+      "word": "酒企女主播公开地域黑成都",
+      "onboard_time": 1765189822,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2733,
