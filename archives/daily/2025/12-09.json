@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765232851866,
+  "endTime": 1765233845493,
   "band_list": [
     {
       "raw_hot": 5163384,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130689,
+      "num": 65018,
+      "word": "刘烨 不好好学习来追星干嘛",
+      "onboard_time": 1765229413,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "李现澳门扫街被路人警告",
@@ -267,20 +275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91431,
+      "num": 96828,
+      "word": "日本正确认多座核电站震后状态",
+      "onboard_time": 1765210101,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83626,
       "num": 142123,
       "word": "得闲谨制票房",
       "onboard_time": 1765186641,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81490,
-      "num": 65018,
-      "word": "刘烨 不好好学习来追星干嘛",
-      "onboard_time": 1765229413,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 80629,
@@ -297,14 +305,6 @@
       "onboard_time": 1765209801,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76136,
-      "num": 96828,
-      "word": "日本正确认多座核电站震后状态",
-      "onboard_time": 1765210101,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68786,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63965,
+      "num": 71915,
+      "word": "网传中国人国外旅游被印度小孩辱骂",
+      "onboard_time": 1765212737,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62566,
       "num": 96818,
       "word": "阿凡达3",
@@ -371,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52662,
-      "num": 71915,
-      "word": "网传中国人国外旅游被印度小孩辱骂",
-      "onboard_time": 1765212737,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 54810,
+      "num": 63924,
+      "word": "朱孝天希望相信音乐高抬贵手",
+      "onboard_time": 1765223533,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 51238,
@@ -411,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45753,
+      "num": 62473,
+      "word": "郭德纲发文疑回应相声被举报",
+      "onboard_time": 1765232055,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43777,
       "num": 96808,
       "word": "苟仲文",
       "onboard_time": 1765191621,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41798,
-      "num": 63924,
-      "word": "朱孝天希望相信音乐高抬贵手",
-      "onboard_time": 1765223533,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 39660,
@@ -435,7 +443,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37250,
+      "raw_hot": 37914,
       "num": 70516,
       "word": "冬天洗澡劝你少做这3件事",
       "onboard_time": 1765214656,
@@ -483,6 +491,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 27057,
+      "num": 62257,
+      "word": "留几手全球征婚要求女方是富婆",
+      "onboard_time": 1765222634,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 25547,
+      "num": 62103,
+      "word": "爱奇艺给刘诗诗粉丝退款",
+      "onboard_time": 1765222095,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24325,
       "num": 70325,
       "word": "台湾花莲海域发生5.1级地震",
@@ -491,7 +515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22756,
+      "raw_hot": 22898,
       "num": 61697,
       "word": "陈添祥官宣星光大赏",
       "onboard_time": 1765216575,
@@ -507,22 +531,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 21588,
-      "num": 62473,
-      "word": "郭德纲发文疑回应相声被举报",
-      "onboard_time": 1765232055,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21443,
-      "num": 62257,
-      "word": "留几手全球征婚要求女方是富婆",
-      "onboard_time": 1765222634,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 20951,
       "num": 284970,
       "word": "盘点2025",
@@ -531,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20713,
-      "num": 62103,
-      "word": "爱奇艺给刘诗诗粉丝退款",
-      "onboard_time": 1765222095,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 20916,
+      "num": 67352,
+      "word": "漠河梦幻冰泡泡上线",
+      "onboard_time": 1765227433,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 19839,
@@ -571,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16231,
-      "num": 67352,
-      "word": "漠河梦幻冰泡泡上线",
-      "onboard_time": 1765227433,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 13691,
       "num": 32392,
       "word": "日方颠倒黑白嫁祸于人别有用心",
@@ -603,7 +603,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 12569,
+      "raw_hot": 12626,
       "num": 61274,
       "word": "苟仲文一审被判死缓",
       "onboard_time": 1765185201,
