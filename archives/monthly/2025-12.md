@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 22:31:08
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 22:47:52
 </p>
 </blockquote>
 <p>
@@ -57,8 +57,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本地震（热度：3161899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%BA%AD%E5%AE%A1%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
 张柏芝庭审情绪失控崩溃大哭（热度：2552923）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23" target="weibo">
+日本近海7.5级强震（热度：2449669）
 </a>
 </li>
 
@@ -1689,6 +1701,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
+江西地震（热度：569329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%20%E6%81%8B%E7%BB%BC%23" target="weibo">
 葛夕 恋综（热度：568469）
 </a>
@@ -1835,6 +1853,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 尖叫之夜节目单（热度：546584）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%20%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9A%84%E4%BA%BA%E5%BE%88%E6%81%90%E6%80%96%23" target="weibo">
+向佐 娱乐圈的人很恐怖（热度：546478）
 </a>
 </li>
 
@@ -2097,12 +2121,6 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%20%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9A%84%E4%BA%BA%E5%BE%88%E6%81%90%E6%80%96%23" target="weibo">
-向佐 娱乐圈的人很恐怖（热度：513879）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E7%88%BD%E6%96%87%23" target="weibo">
 杨幂 爽文（热度：513032）
 </a>
@@ -2183,6 +2201,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B8%A6%E6%B2%88%E6%9C%88%E5%8E%BB%E4%BA%86%E4%BB%96%E7%9A%84%E4%B8%AD%E5%AD%A6%23" target="weibo">
 王鹤棣带沈月去了他的中学（热度：499745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E6%9B%9DAngelababy%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%B0%88%E8%BF%87%E7%94%B7%E5%8F%8B%23" target="weibo">
+留几手曝Angelababy离婚后谈过男友（热度：498954）
 </a>
 </li>
 
@@ -3293,12 +3317,6 @@ F1（热度：401349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%B6%8A%E6%83%85%E4%BE%A3%E5%BC%80%E8%89%B2%E6%83%85%E9%A4%90%E5%8E%85%E8%8E%B7%E5%88%A924%E4%BA%BF%E8%B6%8A%E5%8D%97%E7%9B%BE%23" target="weibo">
 中越情侣开色情餐厅获利24亿越南盾（热度：378477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
-江西地震（热度：378117）
 </a>
 </li>
 
@@ -4479,6 +4497,12 @@ A股（热度：296738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%23" target="weibo">
+东京震感（热度：290503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%8F%91%E5%8A%A8%E6%97%A0%E5%A3%B0%E6%88%98%E4%BA%89%23" target="weibo">
 日本正发动无声战争（热度：289383）
 </a>
@@ -4979,6 +5003,12 @@ VOGUE年度最佳着装提名名单（热度：260918）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E8%83%9C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 王曼昱3比0胜张本美和（热度：259639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%98%BF%E8%81%94%E9%85%8B%E7%B4%A0%E9%A2%9C%E7%85%A7%23" target="weibo">
+刘亦菲阿联酋素颜照（热度：259374）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ KatyPerry官宣恋情（热度：223848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%A4%A7%E8%8A%B1%E9%83%BD%E6%B2%A1%E6%9D%A5%23" target="weibo">
 85花大花都没来（热度：213141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%A8%E5%90%A8%E5%90%A8%E5%90%A8%E5%90%A8%23" target="weibo">
-陈晓评论区吨吨吨吨吨（热度：213047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E8%80%85%E6%98%AF%E8%89%BE%E6%BB%8B%E7%97%85%E7%9A%84%E9%AB%98%E5%8F%91%E4%BA%BA%E7%BE%A4%23" target="weibo">
-吸毒者是艾滋病的高发人群（热度：212984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%E5%AD%90%23" target="weibo">
-八仙子（热度：212688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2350%E5%85%83%E7%9A%84%E5%AE%89%E5%85%A8%E5%A5%97%E4%BB%A5%E5%90%8E%E6%88%96%E6%B6%A8%E4%B8%BA56.5%E5%85%83%23" target="weibo">
-50元的安全套以后或涨为56.5元（热度：212587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%9B%BF%E6%95%96%E7%91%9E%E9%B9%8F%E5%89%A7%E5%AE%A3%23" target="weibo">
-李兰迪替敖瑞鹏剧宣（热度：212320）
 </a>
 </li>
 

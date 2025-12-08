@@ -1,0 +1,410 @@
+{
+  "runTime": 1765205272486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3161899,
+        "num": 3823798,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 776317,
+        "num": 776317,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29168,
+        "num": 599321,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2449669,
+        "num": 587278,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 569329,
+        "num": 569329,
+        "word": "江西地震",
+        "onboard_time": 1765203024,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296308,
+        "num": 566244,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 290503,
+        "num": 561896,
+        "word": "东京震感",
+        "onboard_time": 1765204825,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243017,
+        "num": 561650,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97596,
+        "num": 556877,
+        "word": "中央定调明年经济政策",
+        "onboard_time": 1765190661,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79484,
+        "num": 552604,
+        "word": "LGDNBW对战Hero久竞",
+        "onboard_time": 1765200801,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1385625,
+        "num": 548412,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546478,
+        "num": 546478,
+        "word": "向佐 娱乐圈的人很恐怖",
+        "onboard_time": 1765200862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475661,
+        "num": 500442,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 499673,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396649,
+        "num": 499525,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499419,
+        "num": 499419,
+        "word": "张柏芝庭审 答非所问",
+        "onboard_time": 1765192461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194158,
+        "num": 499339,
+        "word": "专业画手分析肖战小肌群的抖动",
+        "onboard_time": 1765202362,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29630,
+        "num": 499287,
+        "word": "一人一句为残特奥会运动员加油",
+        "onboard_time": 1765201341,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302017,
+        "num": 499179,
+        "word": "幼儿园虐童视频多到要用硬盘存",
+        "onboard_time": 1765199420,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30472,
+        "num": 499113,
+        "word": "全网最忙5人组到底在给谁背锅",
+        "onboard_time": 1765204704,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179649,
+        "num": 498981,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498954,
+        "num": 498954,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408838,
+        "num": 408838,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398607,
+        "num": 398607,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330855,
+        "num": 330855,
+        "word": "谭松韵要开演唱会了",
+        "onboard_time": 1765197022,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259374,
+        "num": 259374,
+        "word": "刘亦菲阿联酋素颜照",
+        "onboard_time": 1765204401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145948,
+        "num": 229427,
+        "word": "苟仲文被判死缓终身监禁不得减刑假释",
+        "onboard_time": 1765189702,
+        "rank": 26,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 217285,
+        "num": 217285,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199004,
+        "num": 199004,
+        "word": "孙颖莎王楚钦球员城市照",
+        "onboard_time": 1765205243,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192489,
+        "num": 192489,
+        "word": "于正官宣张婉莹女一号",
+        "onboard_time": 1765193421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181698,
+        "num": 181698,
+        "word": "QQ空间vs微信朋友圈",
+        "onboard_time": 1765203624,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180332,
+        "num": 180332,
+        "word": "新音 重庆",
+        "onboard_time": 1765203263,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178224,
+        "num": 178224,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "偶遇胡歌老婆从医院出来",
+        "onboard_time": 1765199902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136520,
+        "num": 136520,
+        "word": "苟仲文",
+        "onboard_time": 1765191621,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131469,
+        "num": 131469,
+        "word": "南宁地震",
+        "onboard_time": 1765201583,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119198,
+        "num": 119198,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1765184241,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 105925,
+        "word": "台湾地震",
+        "onboard_time": 1765196361,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104698,
+        "num": 104698,
+        "word": "刘诗诗粉丝向爱奇艺维权成功",
+        "onboard_time": 1765199121,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19210,
+        "num": 104510,
+        "word": "列车长称洗手池混洗水果的是实习生",
+        "onboard_time": 1765204223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100978,
+        "num": 104392,
+        "word": "刘同得奖被一顿爆锤",
+        "onboard_time": 1765203802,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90227,
+        "num": 104118,
+        "word": "敖瑞鹏借王楚然的眼药水",
+        "onboard_time": 1765204464,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99097,
+        "num": 104055,
+        "word": "郑恺搂着孩子亲苗苗",
+        "onboard_time": 1765189401,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103923,
+        "num": 103923,
+        "word": "日本记者找不到中国游客采访",
+        "onboard_time": 1765185860,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103673,
+        "num": 103673,
+        "word": "阿凡达3",
+        "onboard_time": 1765202003,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102481,
+        "num": 102481,
+        "word": "花漾少女杀人事件",
+        "onboard_time": 1765194082,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101524,
+        "num": 101524,
+        "word": "林子烨艾米 小张凌赫小张婧仪",
+        "onboard_time": 1765198281,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96858,
+        "num": 96858,
+        "word": "原来是迟蓬提醒的杨幂",
+        "onboard_time": 1765188320,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 96162,
+        "num": 96162,
+        "word": "东京等地有明显震感",
+        "onboard_time": 1765205243,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70319,
+        "num": 94686,
+        "word": "皇马深夜紧急磋商阿隆索去留",
+        "onboard_time": 1765205184,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
