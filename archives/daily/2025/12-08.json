@@ -1,9 +1,9 @@
 {
   "startTime": 1765125072060,
-  "endTime": 1765207928359,
+  "endTime": 1765208663390,
   "band_list": [
     {
-      "raw_hot": 9783949,
+      "raw_hot": 9963382,
       "num": 10742219,
       "word": "日本地震",
       "onboard_time": 1765204343,
@@ -155,20 +155,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 751858,
+      "num": 569329,
+      "word": "江西地震",
+      "onboard_time": 1765203024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 747503,
       "num": 256161,
       "word": "马克龙回国后呼吁中国投资欧洲",
       "onboard_time": 1765188441,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 720447,
-      "num": 569329,
-      "word": "江西地震",
-      "onboard_time": 1765203024,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 720375,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 480633,
-      "num": 259374,
+      "num": 381454,
       "word": "刘亦菲阿联酋素颜照",
       "onboard_time": 1765204401,
       "rank": 25,
@@ -827,20 +827,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271780,
+      "num": 271780,
+      "word": "张柏芝庭审大喊所有事情都是假的",
+      "onboard_time": 1765207702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270625,
       "num": 214202,
       "word": "印尼男子性侵残疾女子遭围殴致死",
       "onboard_time": 1765184540,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 269105,
-      "num": 174111,
-      "word": "张柏芝庭审大喊所有事情都是假的",
-      "onboard_time": 1765207702,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 267790,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 224703,
-      "num": 224703,
+      "num": 430100,
       "word": "Hero久竞战胜LGDNBW",
       "onboard_time": 1765206445,
       "rank": 6,
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 214114,
-      "num": 196552,
+      "num": 208202,
       "word": "QQ空间vs微信朋友圈",
       "onboard_time": 1765203624,
       "rank": 19,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1765203263,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207953,
+      "num": 137816,
+      "word": "卢克文公众号被封",
+      "onboard_time": 1765207762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207492,
@@ -1323,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172113,
+      "num": 172113,
+      "word": "南宁地震",
+      "onboard_time": 1765201583,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "易梦玲素颜",
@@ -1347,20 +1363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167608,
-      "num": 167608,
-      "word": "南宁地震",
-      "onboard_time": 1765201583,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166540,
       "num": 166539,
       "word": "向鱼回归",
       "onboard_time": 1765189762,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166505,
+      "num": 166505,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165624,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161110,
-      "num": 161110,
-      "word": "台湾地震",
-      "onboard_time": 1765196361,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160209,
@@ -1507,6 +1515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152738,
+      "num": 152738,
+      "word": "山东潍坊多名男子跳过近3米远高崖",
+      "onboard_time": 1765205663,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151486,
+      "num": 151486,
+      "word": "傅首尔 导演",
+      "onboard_time": 1765207461,
+      "rank": 38,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 150354,
       "num": 150354,
       "word": "第一次我比男主先爱上女主",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1765180581,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145120,
+      "num": 145120,
+      "word": "皮皮朱说月薪3千不适合结婚",
+      "onboard_time": 1765207223,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 145077,
@@ -1755,14 +1787,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 133978,
-      "num": 133978,
-      "word": "山东潍坊多名男子跳过近3米远高崖",
-      "onboard_time": 1765205663,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133940,
       "num": 133940,
       "word": "谁家剧放眼望去全是中戏的",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1765182561,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127519,
-      "num": 127519,
-      "word": "皮皮朱说月薪3千不适合结婚",
-      "onboard_time": 1765207223,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 127338,
@@ -1961,14 +1977,6 @@
       "onboard_time": 1765164260,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120098,
-      "num": 120098,
-      "word": "傅首尔 导演",
-      "onboard_time": 1765207461,
-      "rank": 38,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 119217,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1765111581,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110404,
-      "num": 110404,
-      "word": "卢克文公众号被封",
-      "onboard_time": 1765207762,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110104,
@@ -3299,12 +3299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52334,
+      "num": 112661,
+      "word": "盘锦幼儿园虐童案监控曝光",
+      "onboard_time": 1765208481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51538,
       "num": 193185,
       "word": "勒克莱尔第四",
       "onboard_time": 1765122801,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51481,
+      "num": 112986,
+      "word": "夫妻俩用塔罗牌占卜骗270余万",
+      "onboard_time": 1765208241,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51406,
@@ -3427,6 +3443,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 48109,
+      "num": 138603,
+      "word": "日本自卫队战机紧急起飞越发频繁",
+      "onboard_time": 1765208541,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47722,
       "num": 114136,
       "word": "盒马草莓蛋糕去年狂卖上亿",
@@ -3497,6 +3521,14 @@
       "onboard_time": 1765150220,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44187,
+      "num": 92049,
+      "word": "孙颖莎王楚钦首轮迎战印度组合",
+      "onboard_time": 1765207043,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 43731,
@@ -3784,6 +3816,14 @@
       "word": "消费者称辣椒面内疑现鼠头异物",
       "onboard_time": 1765201822,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27337,
+      "num": 112931,
+      "word": "副书记任前公示年龄打架需查到底",
+      "onboard_time": 1765208182,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

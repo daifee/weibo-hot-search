@@ -1,0 +1,410 @@
+{
+  "runTime": 1765208663390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9963382,
+        "num": 10423334,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 538511,
+        "num": 538511,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26795,
+        "num": 525168,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1083086,
+        "num": 512684,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255387,
+        "num": 492333,
+        "word": "东京震感",
+        "onboard_time": 1765204825,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215863,
+        "num": 476136,
+        "word": "多校撤销外语专业",
+        "onboard_time": 1765182202,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 157275,
+        "num": 471467,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765186641,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171772,
+        "num": 449870,
+        "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
+        "onboard_time": 1765196061,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152576,
+        "num": 430100,
+        "word": "Hero久竞战胜LGDNBW",
+        "onboard_time": 1765206445,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91618,
+        "num": 416407,
+        "word": "LGDNBW对战Hero久竞",
+        "onboard_time": 1765200801,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1092479,
+        "num": 402409,
+        "word": "张柏芝庭审情绪失控崩溃大哭",
+        "onboard_time": 1765188380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751858,
+        "num": 382702,
+        "word": "江西地震",
+        "onboard_time": 1765203024,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381454,
+        "num": 381454,
+        "word": "刘亦菲阿联酋素颜照",
+        "onboard_time": 1765204401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282331,
+        "num": 282331,
+        "word": "放了很久的衣服不要穿",
+        "onboard_time": 1765192341,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277128,
+        "num": 277128,
+        "word": "向佐 娱乐圈的人很恐怖",
+        "onboard_time": 1765200862,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271780,
+        "num": 271780,
+        "word": "张柏芝庭审大喊所有事情都是假的",
+        "onboard_time": 1765207702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208202,
+        "num": 208202,
+        "word": "QQ空间vs微信朋友圈",
+        "onboard_time": 1765203624,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172113,
+        "num": 172113,
+        "word": "南宁地震",
+        "onboard_time": 1765201583,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169557,
+        "num": 169557,
+        "word": "立威廉患甲状腺癌",
+        "onboard_time": 1765198223,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166505,
+        "num": 166505,
+        "word": "台湾地震",
+        "onboard_time": 1765196361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830416,
+        "num": 163808,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313570,
+        "num": 162944,
+        "word": "秦岚魏大勋分手了吗",
+        "onboard_time": 1765175480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294103,
+        "num": 161277,
+        "word": "张子枫纹身",
+        "onboard_time": 1765182561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156942,
+        "num": 156942,
+        "word": "谭松韵要开演唱会了",
+        "onboard_time": 1765197022,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154432,
+        "num": 154432,
+        "word": "苟仲文",
+        "onboard_time": 1765191621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153036,
+        "num": 153036,
+        "word": "外卖员最不建议点的外卖",
+        "onboard_time": 1765194441,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152738,
+        "num": 152738,
+        "word": "山东潍坊多名男子跳过近3米远高崖",
+        "onboard_time": 1765205663,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151486,
+        "num": 151486,
+        "word": "傅首尔 导演",
+        "onboard_time": 1765207461,
+        "rank": 27,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 148171,
+        "num": 148171,
+        "word": "新音 重庆",
+        "onboard_time": 1765203263,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145120,
+        "num": 145120,
+        "word": "皮皮朱说月薪3千不适合结婚",
+        "onboard_time": 1765207223,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48109,
+        "num": 138603,
+        "word": "日本自卫队战机紧急起飞越发频繁",
+        "onboard_time": 1765208541,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207953,
+        "num": 137816,
+        "word": "卢克文公众号被封",
+        "onboard_time": 1765207762,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136520,
+        "num": 136520,
+        "word": "上海市对樊振东等记大功奖励",
+        "onboard_time": 1765205602,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135280,
+        "num": 135280,
+        "word": "韦雪前男友回应有新女友",
+        "onboard_time": 1765206923,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134287,
+        "num": 134287,
+        "word": "李现澳门扫街被路人警告",
+        "onboard_time": 1765196961,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118820,
+        "num": 118820,
+        "word": "于正官宣张婉莹女一号",
+        "onboard_time": 1765193421,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113100,
+        "num": 113100,
+        "word": "幼儿园虐童视频多到要用硬盘存",
+        "onboard_time": 1765199420,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51481,
+        "num": 112986,
+        "word": "夫妻俩用塔罗牌占卜骗270余万",
+        "onboard_time": 1765208241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27337,
+        "num": 112931,
+        "word": "副书记任前公示年龄打架需查到底",
+        "onboard_time": 1765208182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52334,
+        "num": 112661,
+        "word": "盘锦幼儿园虐童案监控曝光",
+        "onboard_time": 1765208481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48057,
+        "num": 112569,
+        "word": "中国驻柬埔寨使馆发安全提醒",
+        "onboard_time": 1765206445,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112475,
+        "num": 112475,
+        "word": "时代少年团世纪大糖",
+        "onboard_time": 1765207521,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104036,
+        "num": 104036,
+        "word": "花漾少女杀人事件",
+        "onboard_time": 1765194082,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 100097,
+        "word": "肖战彭昱畅阿如那搭肩",
+        "onboard_time": 1765207284,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98701,
+        "num": 98701,
+        "word": "孙颖莎王楚钦球员城市照",
+        "onboard_time": 1765205243,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96825,
+        "num": 96825,
+        "word": "新娘入场被老人抢喜司仪妙语解气",
+        "onboard_time": 1765204043,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96445,
+        "num": 96445,
+        "word": "盒马承认生产草莓蛋糕出问题",
+        "onboard_time": 1765172721,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95952,
+        "num": 95952,
+        "word": "林子烨艾米 小张凌赫小张婧仪",
+        "onboard_time": 1765198281,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47840,
+        "num": 93536,
+        "word": "皇马深夜紧急磋商阿隆索去留",
+        "onboard_time": 1765205184,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44187,
+        "num": 92049,
+        "word": "孙颖莎王楚钦首轮迎战印度组合",
+        "onboard_time": 1765207043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
