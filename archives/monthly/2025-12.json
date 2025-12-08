@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765205272486,
+  "endTime": 1765207928359,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -9,6 +9,14 @@
       "onboard_time": 1764910701,
       "rank": 0,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 9783949,
+      "num": 10742219,
+      "word": "日本地震",
+      "onboard_time": 1765204343,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 4647608,
@@ -57,14 +65,6 @@
       "onboard_time": 1764910701,
       "rank": 3,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 3161899,
-      "num": 3823798,
-      "word": "日本地震",
-      "onboard_time": 1765204343,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2552923,
@@ -907,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 971094,
+      "num": 498954,
+      "word": "留几手曝Angelababy离婚后谈过男友",
+      "onboard_time": 1765204343,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970911,
       "num": 1155345,
       "word": "香港火灾已造成156人遇难",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1764811821,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 720447,
+      "num": 569329,
+      "word": "江西地震",
+      "onboard_time": 1765203024,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 720375,
@@ -2251,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569329,
-      "num": 569329,
-      "word": "江西地震",
-      "onboard_time": 1765203024,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 568469,
       "num": 485181,
       "word": "葛夕 恋综",
@@ -2923,14 +2931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498954,
-      "num": 498954,
-      "word": "留几手曝Angelababy离婚后谈过男友",
-      "onboard_time": 1765204343,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 498814,
       "num": 437219,
       "word": "男女涉卖淫嫖娼被罚300元",
@@ -3137,6 +3137,14 @@
       "onboard_time": 1764923001,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480633,
+      "num": 259374,
+      "word": "刘亦菲阿联酋素颜照",
+      "onboard_time": 1765204401,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 480183,
@@ -6411,6 +6419,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 269105,
+      "num": 174111,
+      "word": "张柏芝庭审大喊所有事情都是假的",
+      "onboard_time": 1765207702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268894,
       "num": 235250,
       "word": "美防长警告日本",
@@ -6657,14 +6673,6 @@
       "onboard_time": 1765112901,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259374,
-      "num": 259374,
-      "word": "刘亦菲阿联酋素颜照",
-      "onboard_time": 1765204401,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 259361,
@@ -7667,6 +7675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224703,
+      "num": 224703,
+      "word": "Hero久竞战胜LGDNBW",
+      "onboard_time": 1765206445,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -7969,6 +7985,14 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214114,
+      "num": 196552,
+      "word": "QQ空间vs微信朋友圈",
+      "onboard_time": 1765203624,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 214078,
@@ -10123,14 +10147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181698,
-      "num": 196552,
-      "word": "QQ空间vs微信朋友圈",
-      "onboard_time": 1765203624,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181669,
       "num": 177381,
       "word": "刘宇宁半夜胃疼疼醒了",
@@ -10540,11 +10556,19 @@
     },
     {
       "raw_hot": 174070,
-      "num": 132009,
+      "num": 136500,
       "word": "花漾少女杀人事件",
       "onboard_time": 1765194082,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174069,
+      "num": 174069,
+      "word": "上海市对樊振东等记大功奖励",
+      "onboard_time": 1765205602,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 174053,
@@ -10921,6 +10945,14 @@
       "onboard_time": 1765178060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167608,
+      "num": 167608,
+      "word": "南宁地震",
+      "onboard_time": 1765201583,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167576,
@@ -11529,6 +11561,14 @@
       "onboard_time": 1764646521,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161110,
+      "num": 161110,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161051,
@@ -13059,6 +13099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145077,
+      "num": 145077,
+      "word": "地震快讯",
+      "onboard_time": 1765206624,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144954,
       "num": 144954,
       "word": "中方回应高市早苗最新涉台表态",
@@ -13521,6 +13569,14 @@
       "onboard_time": 1764739640,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140334,
+      "num": 140334,
+      "word": "韦雪前男友回应有新女友",
+      "onboard_time": 1765206923,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 140166,
@@ -14275,6 +14331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133978,
+      "num": 133978,
+      "word": "山东潍坊多名男子跳过近3米远高崖",
+      "onboard_time": 1765205663,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133940,
       "num": 133940,
       "word": "谁家剧放眼望去全是中戏的",
@@ -14641,14 +14705,6 @@
       "onboard_time": 1764982760,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131469,
-      "num": 131469,
-      "word": "南宁地震",
-      "onboard_time": 1765201583,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131380,
@@ -15113,6 +15169,14 @@
       "onboard_time": 1764997880,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "皮皮朱说月薪3千不适合结婚",
+      "onboard_time": 1765207223,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 127456,
@@ -16219,6 +16283,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 120098,
+      "num": 120098,
+      "word": "傅首尔 导演",
+      "onboard_time": 1765207461,
+      "rank": 38,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "王力宏挑染出现人传猴现象",
@@ -16931,6 +17003,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 116179,
+      "num": 141141,
+      "word": "日本发海啸预警",
+      "onboard_time": 1765205723,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116154,
       "num": 116154,
       "word": "奥运冠军武大靖回应退役",
@@ -17187,6 +17267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114392,
+      "num": 114392,
+      "word": "新娘入场被老人抢喜司仪妙语解气",
+      "onboard_time": 1765204043,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "迪丽热巴侧颜",
@@ -17387,6 +17475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "时代少年团世纪大糖",
+      "onboard_time": 1765207521,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113161,
       "num": 113161,
       "word": "大额存单转让火爆",
@@ -17529,6 +17625,14 @@
       "onboard_time": 1764583222,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 112263,
+      "num": 112263,
+      "word": "肖战彭昱畅阿如那搭肩",
+      "onboard_time": 1765207284,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 112175,
@@ -17753,6 +17857,14 @@
       "onboard_time": 1764594264,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "卢克文公众号被封",
+      "onboard_time": 1765207762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110357,
@@ -18147,6 +18259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108121,
+      "num": 109991,
+      "word": "诡秘肖战这次真的不一样",
+      "onboard_time": 1765205784,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "陈冠希 本山化",
@@ -18481,14 +18601,6 @@
       "onboard_time": 1764990140,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105925,
-      "num": 105925,
-      "word": "台湾地震",
-      "onboard_time": 1765196361,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105900,
@@ -19625,6 +19737,14 @@
       "onboard_time": 1764842183,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99511,
+      "num": 110002,
+      "word": "九尾重返首发",
+      "onboard_time": 1765201583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 99465,
@@ -21267,14 +21387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88014,
-      "num": 109195,
-      "word": "新娘入场被老人抢喜司仪妙语解气",
-      "onboard_time": 1765204043,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87999,
       "num": 127309,
       "word": "16岁的娜扎",
@@ -21667,6 +21779,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 84914,
+      "num": 109993,
+      "word": "朱元璋本尊是帅大叔",
+      "onboard_time": 1765207643,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84908,
       "num": 112721,
       "word": "你买的进口奶粉可能产自小县城出租屋",
@@ -21777,14 +21897,6 @@
       "onboard_time": 1765013122,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83913,
-      "num": 83913,
-      "word": "九尾重返首发",
-      "onboard_time": 1765201583,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 83830,
@@ -22256,6 +22368,14 @@
       "word": "解说感叹孙颖莎接发球特别好",
       "onboard_time": 1764776601,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79972,
+      "num": 109985,
+      "word": "金球奖",
+      "onboard_time": 1765205844,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -23059,6 +23179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70991,
+      "num": 109977,
+      "word": "2026金球奖提名",
+      "onboard_time": 1765205303,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70941,
       "num": 80094,
       "word": "江西上饶一工地挖出一对石狮",
@@ -23857,6 +23985,14 @@
       "onboard_time": 1764510381,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59231,
+      "num": 161188,
+      "word": "中国驻柬埔寨使馆发安全提醒",
+      "onboard_time": 1765206445,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58955,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/08 22:47:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/08 23:32:08
 </p>
 </blockquote>
 <p>
@@ -1071,6 +1071,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本地震（热度：9783949）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 单依纯太牛了（热度：9776759）
 </a>
@@ -1805,12 +1811,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E4%B8%80%E7%87%95%E7%A6%BB%E5%A9%9A%23" target="weibo">
 江一燕离婚（热度：6469656）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BE%E8%A2%AB%E9%94%81%E9%85%92%E5%BA%97%E9%A9%B1%E9%AD%94%23" target="weibo">
-赵露思曾被锁酒店驱魔（热度：6450402）
 </a>
 </li>
 

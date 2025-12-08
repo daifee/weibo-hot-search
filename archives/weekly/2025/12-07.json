@@ -1,7 +1,15 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765205272486,
+  "endTime": 1765207928359,
   "band_list": [
+    {
+      "raw_hot": 9783949,
+      "num": 10742219,
+      "word": "日本地震",
+      "onboard_time": 1765204343,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 4049212,
       "num": 4049212,
@@ -17,14 +25,6 @@
       "onboard_time": 1765037902,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3161899,
-      "num": 3823798,
-      "word": "日本地震",
-      "onboard_time": 1765204343,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2552923,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 971094,
+      "num": 498954,
+      "word": "留几手曝Angelababy离婚后谈过男友",
+      "onboard_time": 1765204343,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970286,
       "num": 1155245,
       "word": "经典版QQ回归",
@@ -353,6 +361,14 @@
       "onboard_time": 1765090461,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720447,
+      "num": 569329,
+      "word": "江西地震",
+      "onboard_time": 1765203024,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 720375,
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569329,
-      "num": 569329,
-      "word": "江西地震",
-      "onboard_time": 1765203024,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 568246,
       "num": 281421,
       "word": "于正官宣张婉莹女一号",
@@ -755,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498954,
-      "num": 498954,
-      "word": "留几手曝Angelababy离婚后谈过男友",
-      "onboard_time": 1765204343,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 498814,
       "num": 437219,
       "word": "男女涉卖淫嫖娼被罚300元",
@@ -825,6 +825,14 @@
       "onboard_time": 1765088480,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 480633,
+      "num": 259374,
+      "word": "刘亦菲阿联酋素颜照",
+      "onboard_time": 1765204401,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 479736,
@@ -1675,6 +1683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 269105,
+      "num": 174111,
+      "word": "张柏芝庭审大喊所有事情都是假的",
+      "onboard_time": 1765207702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268894,
       "num": 235250,
       "word": "美防长警告日本",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1765112901,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259374,
-      "num": 259374,
-      "word": "刘亦菲阿联酋素颜照",
-      "onboard_time": 1765204401,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 258047,
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224703,
+      "num": 224703,
+      "word": "Hero久竞战胜LGDNBW",
+      "onboard_time": 1765206445,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224527,
       "num": 216719,
       "word": "日本自卫队滋扰辽宁舰训练",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1765032685,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214114,
+      "num": 196552,
+      "word": "QQ空间vs微信朋友圈",
+      "onboard_time": 1765203624,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 212320,
@@ -2595,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181698,
-      "num": 196552,
-      "word": "QQ空间vs微信朋友圈",
-      "onboard_time": 1765203624,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181184,
       "num": 125609,
       "word": "2025国家医保药品目录",
@@ -2668,11 +2684,19 @@
     },
     {
       "raw_hot": 174070,
-      "num": 132009,
+      "num": 136500,
       "word": "花漾少女杀人事件",
       "onboard_time": 1765194082,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174069,
+      "num": 174069,
+      "word": "上海市对樊振东等记大功奖励",
+      "onboard_time": 1765205602,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 173684,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1765178060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167608,
+      "num": 167608,
+      "word": "南宁地震",
+      "onboard_time": 1765201583,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167352,
@@ -2897,6 +2929,14 @@
       "onboard_time": 1765175060,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161110,
+      "num": 161110,
+      "word": "台湾地震",
+      "onboard_time": 1765196361,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160209,
@@ -3275,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145077,
+      "num": 145077,
+      "word": "地震快讯",
+      "onboard_time": 1765206624,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144434,
       "num": 144434,
       "word": "苏新皓cha疯狂动物城2主题曲",
@@ -3385,6 +3433,14 @@
       "onboard_time": 1765164800,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140334,
+      "num": 140334,
+      "word": "韦雪前男友回应有新女友",
+      "onboard_time": 1765206923,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 139370,
@@ -3611,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133978,
+      "num": 133978,
+      "word": "山东潍坊多名男子跳过近3米远高崖",
+      "onboard_time": 1765205663,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133940,
       "num": 133940,
       "word": "谁家剧放眼望去全是中戏的",
@@ -3681,14 +3745,6 @@
       "onboard_time": 1765111099,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131469,
-      "num": 131469,
-      "word": "南宁地震",
-      "onboard_time": 1765201583,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130827,
@@ -3793,6 +3849,14 @@
       "onboard_time": 1765093521,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "皮皮朱说月薪3千不适合结婚",
+      "onboard_time": 1765207223,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 127356,
@@ -4139,6 +4203,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 120098,
+      "num": 120098,
+      "word": "傅首尔 导演",
+      "onboard_time": 1765207461,
+      "rank": 38,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 119902,
       "num": 119902,
       "word": "境外间谍在政府周边设恶意WiFi",
@@ -4355,6 +4427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116179,
+      "num": 141141,
+      "word": "日本发海啸预警",
+      "onboard_time": 1765205723,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116154,
       "num": 116154,
       "word": "奥运冠军武大靖回应退役",
@@ -4451,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114392,
+      "num": 114392,
+      "word": "新娘入场被老人抢喜司仪妙语解气",
+      "onboard_time": 1765204043,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "胡先煦眼眶泛红这一下",
@@ -4513,6 +4601,14 @@
       "onboard_time": 1765035805,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "时代少年团世纪大糖",
+      "onboard_time": 1765207521,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 112972,
@@ -4585,6 +4681,14 @@
       "onboard_time": 1765103659,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112263,
+      "num": 112263,
+      "word": "肖战彭昱畅阿如那搭肩",
+      "onboard_time": 1765207284,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 112175,
@@ -4665,6 +4769,14 @@
       "onboard_time": 1765102281,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "卢克文公众号被封",
+      "onboard_time": 1765207762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110146,
@@ -4803,6 +4915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108121,
+      "num": 109991,
+      "word": "诡秘肖战这次真的不一样",
+      "onboard_time": 1765205784,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107998,
       "num": 813972,
       "word": "日本三季度GDP降幅扩大",
@@ -4897,14 +5017,6 @@
       "onboard_time": 1765193183,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105925,
-      "num": 105925,
-      "word": "台湾地震",
-      "onboard_time": 1765196361,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105573,
@@ -5185,6 +5297,14 @@
       "onboard_time": 1765172061,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99511,
+      "num": 110002,
+      "word": "九尾重返首发",
+      "onboard_time": 1765201583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 99465,
@@ -5651,14 +5771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 88014,
-      "num": 109195,
-      "word": "新娘入场被老人抢喜司仪妙语解气",
-      "onboard_time": 1765204043,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87999,
       "num": 127309,
       "word": "16岁的娜扎",
@@ -5755,6 +5867,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 84914,
+      "num": 109993,
+      "word": "朱元璋本尊是帅大叔",
+      "onboard_time": 1765207643,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84238,
       "num": 84238,
       "word": "A股商业航天板块高开",
@@ -5785,14 +5905,6 @@
       "onboard_time": 1765175901,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83913,
-      "num": 83913,
-      "word": "九尾重返首发",
-      "onboard_time": 1765201583,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 83445,
@@ -5855,6 +5967,14 @@
       "num": 80256,
       "word": "徐瑛彬 谢谢头哥",
       "onboard_time": 1765160718,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79972,
+      "num": 109985,
+      "word": "金球奖",
+      "onboard_time": 1765205844,
       "rank": 48,
       "category": "体育"
     },
@@ -6032,6 +6152,14 @@
       "word": "刘国梁拍了下王楚钦肩膀",
       "onboard_time": 1765149136,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70991,
+      "num": 109977,
+      "word": "2026金球奖提名",
+      "onboard_time": 1765205303,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6249,6 +6377,14 @@
       "onboard_time": 1765029804,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59231,
+      "num": 161188,
+      "word": "中国驻柬埔寨使馆发安全提醒",
+      "onboard_time": 1765206445,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58437,

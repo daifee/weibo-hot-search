@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 22:47:52
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/08 23:32:08
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88%23" target="weibo">
 陈震偷税案（热度：9862757）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本地震（热度：9783949）
 </a>
 </li>
 
@@ -53,12 +59,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E5%85%B1%E8%AE%A1247.48%E4%B8%87%E5%85%83%23" target="weibo">
 陈震偷税追缴并罚共计247.48万元（热度：3249130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
-日本地震（热度：3161899）
 </a>
 </li>
 
@@ -693,6 +693,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E6%9B%9DAngelababy%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%B0%88%E8%BF%87%E7%94%B7%E5%8F%8B%23" target="weibo">
+留几手曝Angelababy离婚后谈过男友（热度：971094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90156%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 香港火灾已造成156人遇难（热度：970911）
 </a>
@@ -1067,6 +1073,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%B0%86%E7%A6%81%E6%AD%A216%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E5%AA%92%23" target="weibo">
 澳将禁止16岁以下用社媒（热度：732062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
+江西地震（热度：720447）
 </a>
 </li>
 
@@ -1701,12 +1713,6 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
-江西地震（热度：569329）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%20%E6%81%8B%E7%BB%BC%23" target="weibo">
 葛夕 恋综（热度：568469）
 </a>
@@ -2205,12 +2211,6 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E6%9B%9DAngelababy%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%B0%88%E8%BF%87%E7%94%B7%E5%8F%8B%23" target="weibo">
-留几手曝Angelababy离婚后谈过男友（热度：498954）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B3%E6%B6%89%E5%8D%96%E6%B7%AB%E5%AB%96%E5%A8%BC%E8%A2%AB%E7%BD%9A300%E5%85%83%23" target="weibo">
 男女涉卖淫嫖娼被罚300元（热度：498814）
 </a>
@@ -2363,6 +2363,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E8%BF%AA%E6%AF%9B%E8%B1%86%E8%BD%A6%E5%9E%8B%23" target="weibo">
 雅迪毛豆车型（热度：481298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%98%BF%E8%81%94%E9%85%8B%E7%B4%A0%E9%A2%9C%E7%85%A7%23" target="weibo">
+刘亦菲阿联酋素颜照（热度：480633）
 </a>
 </li>
 
@@ -4821,6 +4827,12 @@ VOGUE预告（热度：269150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%BA%AD%E5%AE%A1%E5%A4%A7%E5%96%8A%E6%89%80%E6%9C%89%E4%BA%8B%E6%83%85%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
+张柏芝庭审大喊所有事情都是假的（热度：269105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23" target="weibo">
 美防长警告日本（热度：268894）
 </a>
@@ -5003,12 +5015,6 @@ VOGUE年度最佳着装提名名单（热度：260918）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E8%83%9C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 王曼昱3比0胜张本美和（热度：259639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%98%BF%E8%81%94%E9%85%8B%E7%B4%A0%E9%A2%9C%E7%85%A7%23" target="weibo">
-刘亦菲阿联酋素颜照（热度：259374）
 </a>
 </li>
 
@@ -5763,6 +5769,12 @@ iPad中国市场份额大跌（热度：230094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Hero%E4%B9%85%E7%AB%9E%E6%88%98%E8%83%9CLGDNBW%23" target="weibo">
+Hero久竞战胜LGDNBW（热度：224703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%83%AD%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E4%B8%8D%E5%8E%BB%23" target="weibo">
 枭起青壤热度为什么上不去（热度：224651）
 </a>
@@ -5991,26 +6003,14 @@ KatyPerry官宣恋情（热度：223848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23QQ%E7%A9%BA%E9%97%B4vs%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+QQ空间vs微信朋友圈（热度：214114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E5%94%B1%E4%BA%86TF%E5%9B%9B%E4%BB%A3%E7%9A%84%E6%AD%8C%23" target="weibo">
 李一桐唱了TF四代的歌（热度：214078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E6%8A%95%E7%A5%A8%23" target="weibo">
-现在就出发投票（热度：213922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E5%A5%B3%E7%A5%9E%23" target="weibo">
-尖叫女神（热度：213906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%A4%A7%E8%8A%B1%E9%83%BD%E6%B2%A1%E6%9D%A5%23" target="weibo">
-85花大花都没来（热度：213141）
 </a>
 </li>
 
