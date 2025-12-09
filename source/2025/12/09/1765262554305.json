@@ -1,0 +1,410 @@
+{
+  "runTime": 1765262554305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 968488,
+        "num": 1154958,
+        "word": "水银体温计血压计明年起禁产",
+        "onboard_time": 1765258102,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547331,
+        "num": 547331,
+        "word": "猫的树 现偶",
+        "onboard_time": 1765256902,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26702,
+        "num": 538906,
+        "word": "盘点2025",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538387,
+        "num": 538387,
+        "word": "深圳一山姆麻薯盒出现活老鼠",
+        "onboard_time": 1765255943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198178,
+        "num": 528223,
+        "word": "苏炳添退役",
+        "onboard_time": 1765246701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1572081,
+        "num": 528082,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519708,
+        "num": 519708,
+        "word": "白天辉被执行死刑",
+        "onboard_time": 1765252762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471291,
+        "num": 513930,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226201,
+        "num": 509565,
+        "word": "张家齐说月经意味着噩梦的开始",
+        "onboard_time": 1765249521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141863,
+        "num": 498615,
+        "word": "小米三款新车齐曝光",
+        "onboard_time": 1765241063,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 788016,
+        "num": 488626,
+        "word": "金昊婚后第13天就家暴妻子",
+        "onboard_time": 1765256063,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488238,
+        "num": 488238,
+        "word": "偶像练习生 蹭冷度",
+        "onboard_time": 1765256783,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19539,
+        "num": 485480,
+        "word": "一天活力益冠搞定",
+        "onboard_time": 1765260203,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485118,
+        "num": 485118,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397407,
+        "num": 397407,
+        "word": "上海月薪9000做五休二的一天",
+        "onboard_time": 1765255344,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389655,
+        "num": 389655,
+        "word": "男子中748万彩票遭店主扣押实体票",
+        "onboard_time": 1765252164,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328861,
+        "num": 328861,
+        "word": "灌面汤杀妻案",
+        "onboard_time": 1765251563,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248103,
+        "num": 248103,
+        "word": "嫁了个这样的又生了个这样的",
+        "onboard_time": 1765253724,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245256,
+        "num": 245256,
+        "word": "蓝战非团队人员回应南非绑架事件",
+        "onboard_time": 1765261102,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196697,
+        "num": 228288,
+        "word": "河北杀妻案夫妻系高中大学同学",
+        "onboard_time": 1765255522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1050619,
+        "num": 228109,
+        "word": "龚琳娜为挽回前夫每天送一件礼物",
+        "onboard_time": 1765259962,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256293,
+        "num": 227554,
+        "word": "甲状腺癌是名副其实的懒癌",
+        "onboard_time": 1765252343,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225115,
+        "num": 225115,
+        "word": "杨旭文新恋情",
+        "onboard_time": 1765250962,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196433,
+        "num": 204022,
+        "word": "杨幂 嘴张的比食物大",
+        "onboard_time": 1765255824,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203737,
+        "num": 203737,
+        "word": "秦岚魏大勋分手传闻",
+        "onboard_time": 1765248923,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201571,
+        "num": 201571,
+        "word": "ally又去do脸了",
+        "onboard_time": 1765255402,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195203,
+        "num": 195203,
+        "word": "印度医生在美强奸偷拍百人以上",
+        "onboard_time": 1765255164,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193504,
+        "num": 193504,
+        "word": "黄景瑜问金晨雀斑是画的吗",
+        "onboard_time": 1765260921,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170616,
+        "num": 170616,
+        "word": "陈意涵自曝认不出爱马仕闹笑话",
+        "onboard_time": 1765259421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164286,
+        "num": 164286,
+        "word": "陈妍希粉丝 这样的日子盼了10年",
+        "onboard_time": 1765261821,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203454,
+        "num": 163092,
+        "word": "韩国母亲杀害照料了38年的残障女儿",
+        "onboard_time": 1765260621,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153712,
+        "num": 153712,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "蓝盈莹首部央一女主戏",
+        "onboard_time": 1765254803,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137865,
+        "num": 137865,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8309,
+        "num": 130317,
+        "word": "央视曝光入职培训骗局",
+        "onboard_time": 1765262483,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123397,
+        "num": 123397,
+        "word": "蓝战非IP地址显示已到智利",
+        "onboard_time": 1765259244,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112890,
+        "num": 112890,
+        "word": "乍看都是熟人细看全是疯批",
+        "onboard_time": 1765261282,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116608,
+        "num": 112886,
+        "word": "百色性侵案老师翻供否认强奸女学生",
+        "onboard_time": 1765262061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55194,
+        "num": 112857,
+        "word": "王楚钦和韩乒男队热聊",
+        "onboard_time": 1765262483,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79023,
+        "num": 112851,
+        "word": "星光大赏割韭菜",
+        "onboard_time": 1765262424,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112850,
+        "num": 112850,
+        "word": "成龙忘东西这段不像演的",
+        "onboard_time": 1765261102,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 110471,
+        "word": "发明微信状态的人是个天才",
+        "onboard_time": 1765261701,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33308,
+        "num": 108698,
+        "word": "东北大哥幼时被拐广东仍是东北胃",
+        "onboard_time": 1765261221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115402,
+        "num": 108619,
+        "word": "日本强震后已发生15次余震",
+        "onboard_time": 1765260323,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108447,
+        "num": 108447,
+        "word": "星光大赏官宣白鹿",
+        "onboard_time": 1765258824,
+        "rank": 44,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 104174,
+        "num": 104174,
+        "word": "狙击蝴蝶剧宣callback陈晓陈妍希",
+        "onboard_time": 1765262362,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101665,
+        "num": 103817,
+        "word": "那你睡吧四个字的潜台词",
+        "onboard_time": 1765262180,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103471,
+        "num": 103471,
+        "word": "心疼沈月但好笑",
+        "onboard_time": 1765261761,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100647,
+        "num": 100647,
+        "word": "金昊杀妻案发卧室卫生间留有血渍",
+        "onboard_time": 1765262362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100469,
+        "num": 100469,
+        "word": "吴艳妮曾鼓起勇气找苏炳添合影",
+        "onboard_time": 1765258641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个坚持为明年经济工作指明方向#"
+    }
+  }
+}
