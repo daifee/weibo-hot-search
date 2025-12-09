@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765302292126,
+  "endTime": 1765305439436,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -6643,6 +6643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114059,
+      "num": 43501,
+      "word": "短剧可以不要虐待老人吗",
+      "onboard_time": 1765303216,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113772,
       "num": 113772,
       "word": "得闲谨制里天地玄黄地位约等于abandon",
@@ -8899,6 +8907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71912,
+      "num": 42993,
+      "word": "陈泽",
+      "onboard_time": 1765304655,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71760,
       "num": 71760,
       "word": "伦敦希思罗机场发生紧急事件",
@@ -10075,6 +10091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39163,
+      "num": 42715,
+      "word": "我对买不起的东西就这样",
+      "onboard_time": 1765301955,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 38831,
       "num": 89418,
       "word": "沙漠水稻丰收了",
@@ -10651,6 +10675,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 24238,
+      "num": 44431,
+      "word": "电影狂野时代",
+      "onboard_time": 1765304775,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24222,
+      "num": 42612,
+      "word": "万宁叔否认整容",
+      "onboard_time": 1765302675,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 23964,
       "num": 123176,
       "word": "河南方城学校火灾680天后",
@@ -10793,6 +10833,14 @@
       "onboard_time": 1765117524,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20620,
+      "num": 42478,
+      "word": "原来真的有脏的立起来这个概念",
+      "onboard_time": 1765304416,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 20556,
@@ -11027,6 +11075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14505,
+      "num": 42429,
+      "word": "北方多地将迎来强雨雪",
+      "onboard_time": 1765304294,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13996,
       "num": 523370,
       "word": "11月我国外贸增速回升至4.1%",
@@ -11049,6 +11105,14 @@
       "onboard_time": 1765223835,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13240,
+      "num": 42448,
+      "word": "今天是太阳雨开机",
+      "onboard_time": 1765303456,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 13118,
