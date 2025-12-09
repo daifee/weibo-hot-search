@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765266218172,
+  "endTime": 1765269594233,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -49,6 +49,14 @@
       "onboard_time": 1765243882,
       "rank": 10,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2732680,
+      "num": 333961,
+      "word": "陈晓 陈妍希",
+      "onboard_time": 1765268121,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2552923,
@@ -153,6 +161,14 @@
       "onboard_time": 1765169541,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1425992,
+      "num": 334127,
+      "word": "小演员婉拒肖战三次亲吻",
+      "onboard_time": 1765266322,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1218894,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 863841,
-      "num": 323069,
+      "num": 333945,
       "word": "医生禁止把玩患者",
       "onboard_time": 1765264641,
       "rank": 30,
@@ -1219,6 +1235,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 445104,
+      "num": 333916,
+      "word": "濮存昕外孙女出道",
+      "onboard_time": 1765266803,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444227,
       "num": 421196,
       "word": "小洛熙妈妈发声",
@@ -1547,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355153,
+      "num": 333987,
+      "word": "31岁中国女留学生遭美国男友杀害",
+      "onboard_time": 1765265001,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1765081340,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 333911,
+      "num": 333911,
+      "word": "95花格局大洗牌",
+      "onboard_time": 1765266622,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 333124,
@@ -1955,12 +1995,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298504,
+      "num": 298504,
+      "word": "网传小洛熙爸爸失业",
+      "onboard_time": 1765267103,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297530,
       "num": 806834,
       "word": "iPhone17Pro系列破发",
       "onboard_time": 1765165520,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 293258,
+      "num": 293258,
+      "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+      "onboard_time": 1765266082,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292228,
@@ -2595,6 +2651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219528,
+      "num": 219528,
+      "word": "史铁生曾开导过14岁的马思纯",
+      "onboard_time": 1765267283,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219316,
       "num": 219316,
       "word": "章若楠王安宇 你那儿几点",
@@ -2616,6 +2680,14 @@
       "word": "张钧甯带助理减肥36斤",
       "onboard_time": 1765171041,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218123,
+      "num": 176228,
+      "word": "陈意涵在邱泽婚礼上大哭",
+      "onboard_time": 1765268843,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -3091,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195824,
+      "num": 334080,
+      "word": "梁家辉特意出演 惠英红亲情出演",
+      "onboard_time": 1765269085,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -3225,6 +3305,14 @@
       "onboard_time": 1765200742,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186063,
+      "num": 334103,
+      "word": "王者荣耀",
+      "onboard_time": 1765268843,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 185948,
@@ -3699,6 +3787,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 162266,
+      "num": 162266,
+      "word": "痞幼上恋综错过朋友婚礼哭了",
+      "onboard_time": 1765267402,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161819,
       "num": 295225,
       "word": "木薯糖水中毒",
@@ -3785,6 +3881,14 @@
       "onboard_time": 1765166181,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157505,
+      "num": 157505,
+      "word": "奚梦瑶何猷君手牵手逛街",
+      "onboard_time": 1765266862,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 157449,
@@ -4009,6 +4113,14 @@
       "onboard_time": 1765106963,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150006,
+      "num": 164399,
+      "word": "尼非法摘取器官场所现100多具尸体",
+      "onboard_time": 1765266983,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149821,
@@ -4467,14 +4579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138014,
-      "num": 142905,
-      "word": "31岁中国女留学生遭美国男友杀害",
-      "onboard_time": 1765265001,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137598,
       "num": 193422,
       "word": "日籍八路军战士之子发声",
@@ -4707,6 +4811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132710,
+      "num": 162364,
+      "word": "余承东官宣尚界首款轿跑明年上市",
+      "onboard_time": 1765269263,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132704,
       "num": 132704,
       "word": "混团决赛国乒vs日本",
@@ -4801,6 +4913,14 @@
       "onboard_time": 1765186040,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "留学生遭美国男友杀害",
+      "onboard_time": 1765268902,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129453,
@@ -5232,6 +5352,14 @@
       "word": "李一桐唱了TF四代的歌",
       "onboard_time": 1765034185,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121187,
+      "num": 121187,
+      "word": "李明磊毕业论文",
+      "onboard_time": 1765268602,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -5707,6 +5835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114295,
+      "num": 114295,
+      "word": "清融C麻了",
+      "onboard_time": 1765269323,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "胡先煦眼眶泛红这一下",
@@ -5737,6 +5873,14 @@
       "onboard_time": 1765096701,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113514,
+      "num": 113514,
+      "word": "肖战辟谣为拍得闲谨制去工厂实习2个月",
+      "onboard_time": 1765266983,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 113489,
@@ -5849,6 +5993,14 @@
       "onboard_time": 1765166121,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112545,
+      "num": 112545,
+      "word": "打碎水银体温计需通风一个月",
+      "onboard_time": 1765269085,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112529,
@@ -6593,6 +6745,14 @@
       "onboard_time": 1765154001,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100268,
+      "num": 112749,
+      "word": "JDG战胜WYG",
+      "onboard_time": 1765268301,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99947,
@@ -7387,6 +7547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81942,
+      "num": 120043,
+      "word": "爷爷奶奶带大的孩子最看不得这种",
+      "onboard_time": 1765268483,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81904,
       "num": 159082,
       "word": "日本便当涨价",
@@ -7425,6 +7593,14 @@
       "onboard_time": 1765205844,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79753,
+      "num": 113854,
+      "word": "迪丽热巴 拉郎乱炖",
+      "onboard_time": 1765268183,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 79524,
@@ -7752,6 +7928,14 @@
       "word": "吊牌侠在滑雪场帮人剪衣服吊牌",
       "onboard_time": 1765188501,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65911,
+      "num": 180478,
+      "word": "你点的三家外卖可能出自同一口锅",
+      "onboard_time": 1765268183,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -8121,14 +8305,6 @@
       "onboard_time": 1765179741,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 52436,
-      "num": 134899,
-      "word": "60岁已婚男追赶35岁暧昧对象时摔死",
-      "onboard_time": 1765266082,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52365,
@@ -8809,6 +8985,14 @@
       "onboard_time": 1765165823,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33357,
+      "num": 119967,
+      "word": "非全日制陶喆 劳务派遣胡彦斌",
+      "onboard_time": 1765269383,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 33308,

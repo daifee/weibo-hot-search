@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765266218172,
+  "endTime": 1765269594233,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -89,6 +89,14 @@
       "onboard_time": 1765243882,
       "rank": 10,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2732680,
+      "num": 333961,
+      "word": "陈晓 陈妍希",
+      "onboard_time": 1765268121,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2552923,
@@ -433,6 +441,14 @@
       "onboard_time": 1764805221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1425992,
+      "num": 334127,
+      "word": "小演员婉拒肖战三次亲吻",
+      "onboard_time": 1765266322,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1409236,
@@ -1204,7 +1220,7 @@
     },
     {
       "raw_hot": 863841,
-      "num": 323069,
+      "num": 333945,
       "word": "医生禁止把玩患者",
       "onboard_time": 1765264641,
       "rank": 30,
@@ -3803,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445104,
+      "num": 333916,
+      "word": "濮存昕外孙女出道",
+      "onboard_time": 1765266803,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445069,
       "num": 445069,
       "word": "尖叫之夜 嗑CP",
@@ -5091,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355153,
+      "num": 333987,
+      "word": "31岁中国女留学生遭美国男友杀害",
+      "onboard_time": 1765265001,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 354615,
       "num": 166050,
       "word": "张继科说乒乓球热度是我带起来的",
@@ -5559,6 +5591,14 @@
       "num": 334443,
       "word": "阑夕宣介境外色情被禁言",
       "onboard_time": 1764748701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333911,
+      "num": 333911,
+      "word": "95花格局大洗牌",
+      "onboard_time": 1765266622,
       "rank": 14,
       "category": "艺人"
     },
@@ -6291,6 +6331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298504,
+      "num": 298504,
+      "word": "网传小洛熙爸爸失业",
+      "onboard_time": 1765267103,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298011,
       "num": 426647,
       "word": "樊振东 我这西语还可以吗",
@@ -6377,6 +6425,14 @@
       "onboard_time": 1765021521,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293258,
+      "num": 293258,
+      "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+      "onboard_time": 1765266082,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293183,
@@ -8339,6 +8395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219528,
+      "num": 219528,
+      "word": "史铁生曾开导过14岁的马思纯",
+      "onboard_time": 1765267283,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "周柯宇现偶最穷的男主",
@@ -8416,6 +8480,14 @@
       "word": "宋茜给自己剪短发",
       "onboard_time": 1764905900,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218123,
+      "num": 176228,
+      "word": "陈意涵在邱泽婚礼上大哭",
+      "onboard_time": 1765268843,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -9827,6 +9899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195824,
+      "num": 334080,
+      "word": "梁家辉特意出演 惠英红亲情出演",
+      "onboard_time": 1765269085,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -10441,6 +10521,14 @@
       "onboard_time": 1765200742,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186063,
+      "num": 334103,
+      "word": "王者荣耀",
+      "onboard_time": 1764754881,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 185981,
@@ -11161,14 +11249,6 @@
       "onboard_time": 1764822924,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176445,
-      "num": 176445,
-      "word": "王者荣耀",
-      "onboard_time": 1764754881,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 176304,
@@ -12195,6 +12275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162266,
+      "num": 162266,
+      "word": "痞幼上恋综错过朋友婚礼哭了",
+      "onboard_time": 1765267402,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162226,
       "num": 162226,
       "word": "晚宴上的张婧仪 小说第几章",
@@ -12657,6 +12745,14 @@
       "onboard_time": 1765003342,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157505,
+      "num": 157505,
+      "word": "奚梦瑶何猷君手牵手逛街",
+      "onboard_time": 1765266862,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 157449,
@@ -13481,6 +13577,14 @@
       "onboard_time": 1765023984,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150006,
+      "num": 164399,
+      "word": "尼非法摘取器官场所现100多具尸体",
+      "onboard_time": 1765266983,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149934,
@@ -14755,14 +14859,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 138014,
-      "num": 142905,
-      "word": "31岁中国女留学生遭美国男友杀害",
-      "onboard_time": 1765265001,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137979,
       "num": 137979,
       "word": "杨旭文领奖台下都在喊唐犟宗",
@@ -15507,6 +15603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132710,
+      "num": 162364,
+      "word": "余承东官宣尚界首款轿跑明年上市",
+      "onboard_time": 1765269263,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132704,
       "num": 132704,
       "word": "混团决赛国乒vs日本",
@@ -15937,6 +16041,14 @@
       "onboard_time": 1764914241,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "留学生遭美国男友杀害",
+      "onboard_time": 1765268902,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129883,
@@ -17185,6 +17297,14 @@
       "onboard_time": 1764832281,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121187,
+      "num": 121187,
+      "word": "李明磊毕业论文",
+      "onboard_time": 1765268602,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 121177,
@@ -18443,6 +18563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114295,
+      "num": 114295,
+      "word": "清融C麻了",
+      "onboard_time": 1765269323,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "胡先煦眼眶泛红这一下",
@@ -18585,6 +18713,14 @@
       "onboard_time": 1764661282,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113514,
+      "num": 113514,
+      "word": "肖战辟谣为拍得闲谨制去工厂实习2个月",
+      "onboard_time": 1765266983,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 113506,
@@ -18761,6 +18897,14 @@
       "onboard_time": 1765166121,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112545,
+      "num": 112545,
+      "word": "打碎水银体温计需通风一个月",
+      "onboard_time": 1765269085,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112529,
@@ -20913,6 +21057,14 @@
       "onboard_time": 1764733881,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100268,
+      "num": 112749,
+      "word": "JDG战胜WYG",
+      "onboard_time": 1765268301,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 100247,
@@ -23603,6 +23755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81942,
+      "num": 120043,
+      "word": "爷爷奶奶带大的孩子最看不得这种",
+      "onboard_time": 1765268483,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "声鸣远扬选手回应撞脸朱一龙",
@@ -23817,6 +23977,14 @@
       "onboard_time": 1764680782,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79753,
+      "num": 113854,
+      "word": "迪丽热巴 拉郎乱炖",
+      "onboard_time": 1765268183,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 79593,
@@ -25107,6 +25275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 65911,
+      "num": 180478,
+      "word": "你点的三家外卖可能出自同一口锅",
+      "onboard_time": 1765268183,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65666,
       "num": 368874,
       "word": "民政局副局长利用养老工作贪污1257万",
@@ -26145,14 +26321,6 @@
       "onboard_time": 1765179741,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 52436,
-      "num": 134899,
-      "word": "60岁已婚男追赶35岁暧昧对象时摔死",
-      "onboard_time": 1765266082,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52365,
@@ -28193,6 +28361,14 @@
       "onboard_time": 1764679881,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33357,
+      "num": 119967,
+      "word": "非全日制陶喆 劳务派遣胡彦斌",
+      "onboard_time": 1765269383,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 33308,
