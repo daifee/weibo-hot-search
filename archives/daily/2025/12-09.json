@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765285090854,
+  "endTime": 1765285975908,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -243,7 +243,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 606664,
+      "raw_hot": 624571,
       "num": 313007,
       "word": "王源肖战从小是邻居",
       "onboard_time": 1765278082,
@@ -289,6 +289,14 @@
       "onboard_time": 1765188380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539250,
+      "num": 283036,
+      "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+      "onboard_time": 1765283122,
+      "rank": 17,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 538387,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380891,
+      "num": 300085,
+      "word": "B站回应被黄杨钿甜起诉",
+      "onboard_time": 1765280001,
+      "rank": 34,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 374688,
       "num": 158383,
       "word": "江西地震",
@@ -643,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300085,
-      "num": 300085,
-      "word": "B站回应被黄杨钿甜起诉",
-      "onboard_time": 1765280001,
-      "rank": 34,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 300056,
       "num": 300056,
       "word": "猫的树镜头下的杨超越",
@@ -697,14 +705,6 @@
       "onboard_time": 1765241183,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283036,
-      "num": 283036,
-      "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
-      "onboard_time": 1765283122,
-      "rank": 17,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 281720,
@@ -859,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223763,
+      "num": 175617,
+      "word": "狙击蝴蝶 最佳改编原著奖",
+      "onboard_time": 1765284503,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219316,
       "num": 219316,
       "word": "章若楠王安宇 你那儿几点",
@@ -979,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203370,
+      "num": 192021,
+      "word": "偶遇素颜的刘亦菲",
+      "onboard_time": 1765281801,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201196,
       "num": 201196,
       "word": "十个勤天浙江跨晚缺席6人",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1765260921,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192021,
-      "num": 192021,
-      "word": "偶遇素颜的刘亦菲",
-      "onboard_time": 1765281801,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 191362,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1765277902,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170215,
+      "num": 170215,
+      "word": "陆虎 烂人带给误会王栎鑫的人",
+      "onboard_time": 1765282762,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 168830,
@@ -1379,8 +1395,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146741,
-      "num": 146741,
+      "raw_hot": 146933,
+      "num": 146933,
       "word": "王飞教授意外离世",
       "onboard_time": 1765279161,
       "rank": 31,
@@ -1467,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141038,
-      "num": 141038,
-      "word": "狙击蝴蝶 最佳改编原著奖",
-      "onboard_time": 1765284503,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140337,
       "num": 140337,
       "word": "余承东回应首款MPV落地智界",
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136728,
+      "num": 136728,
+      "word": "张继科说樊振东的球拍要回收",
+      "onboard_time": 1765283841,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135347,
       "num": 135347,
       "word": "风与潮开播",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1765276101,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134120,
-      "num": 134120,
-      "word": "陆虎 烂人带给误会王栎鑫的人",
-      "onboard_time": 1765282762,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 133881,
@@ -1699,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126886,
+      "num": 126886,
+      "word": "2025四大平台扑剧盘点",
+      "onboard_time": 1765284503,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126041,
       "num": 449887,
       "word": "美将从英伟达对华芯片出口分成25%",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1765236199,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124993,
+      "num": 124993,
+      "word": "潘宏狗市救狗",
+      "onboard_time": 1765281142,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 123409,
@@ -1763,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121956,
-      "num": 121956,
-      "word": "张继科说樊振东的球拍要回收",
-      "onboard_time": 1765283841,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "纪录片称红楼梦120回均由曹雪芹完成",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1765268602,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120590,
-      "num": 120590,
-      "word": "潘宏狗市救狗",
-      "onboard_time": 1765281142,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 120401,
@@ -1963,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113456,
+      "num": 113456,
+      "word": "水银温度计的平替长这样",
+      "onboard_time": 1765281023,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113322,
       "num": 113322,
       "word": "李兰迪赵今麦葵与霜",
@@ -2075,14 +2091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108495,
-      "num": 108495,
-      "word": "水银温度计的平替长这样",
-      "onboard_time": 1765281023,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108447,
       "num": 150010,
       "word": "星光大赏官宣白鹿",
@@ -2187,12 +2195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103843,
-      "num": 103843,
-      "word": "2025四大平台扑剧盘点",
-      "onboard_time": 1765284503,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 103744,
+      "num": 103744,
+      "word": "商家清仓皮草棉服100块三件随便挑",
+      "onboard_time": 1765285582,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103471,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1765250482,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97939,
+      "num": 97939,
+      "word": "将门毒后",
+      "onboard_time": 1765285822,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 96087,
@@ -2481,6 +2497,22 @@
       "onboard_time": 1765253603,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85727,
+      "num": 85727,
+      "word": "杭州集中供暖要来了",
+      "onboard_time": 1765285883,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84559,
+      "num": 180318,
+      "word": "音频实证日本有意滋扰中方训练",
+      "onboard_time": 1765285161,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84423,
@@ -2755,6 +2787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56732,
+      "num": 129797,
+      "word": "神21乘组圆满完成第一次出舱",
+      "onboard_time": 1765285225,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56261,
       "num": 71131,
       "word": "李小鹏女儿参加花滑赛",
@@ -2865,6 +2905,14 @@
       "onboard_time": 1765199420,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49319,
+      "num": 326491,
+      "word": "中俄第10次联合空中战略巡航",
+      "onboard_time": 1765277841,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48362,
@@ -3083,14 +3131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32742,
-      "num": 326491,
-      "word": "中俄第10次联合空中战略巡航",
-      "onboard_time": 1765277841,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32638,
       "num": 137292,
       "word": "男子带老婆买糖葫芦被认成父女",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1765249883,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25164,
+      "num": 211397,
+      "word": "香港火灾严重伤者均已转为稳定",
+      "onboard_time": 1765285161,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24325,
