@@ -1,0 +1,410 @@
+{
+  "runTime": 1765273592093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031488,
+        "num": 1165038,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138907,
+        "num": 1037897,
+        "word": "琉球归属问题被迫无限期搁置",
+        "onboard_time": 1765272142,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3459,
+        "num": 977741,
+        "word": "一人一句为残特奥会运动员加油",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 920174,
+        "num": 920174,
+        "word": "小演员婉拒肖战三次亲吻",
+        "onboard_time": 1765266322,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 681456,
+        "num": 681456,
+        "word": "中方回应没有接听日方热线电话",
+        "onboard_time": 1765270163,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244584,
+        "num": 677870,
+        "word": "31岁中国女留学生遭美国男友杀害",
+        "onboard_time": 1765265001,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209162,
+        "num": 657993,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192572,
+        "num": 648760,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178257,
+        "num": 633467,
+        "word": "外交部回应美批准向中国出售H200",
+        "onboard_time": 1765270104,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159056,
+        "num": 616155,
+        "word": "无畏挑杯开个好头",
+        "onboard_time": 1765272323,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2305266,
+        "num": 590088,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684301,
+        "num": 578535,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 11,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 573892,
+        "num": 573892,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 328444,
+        "num": 328444,
+        "word": "濮存昕外孙女出道",
+        "onboard_time": 1765266803,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291970,
+        "num": 291970,
+        "word": "95花格局大洗牌",
+        "onboard_time": 1765266622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197285,
+        "num": 287516,
+        "word": "水银体温计血压计明年起禁产",
+        "onboard_time": 1765258102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286908,
+        "num": 286908,
+        "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+        "onboard_time": 1765266082,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34519,
+        "num": 273562,
+        "word": "田曦薇今天我要告白",
+        "onboard_time": 1765271061,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115377,
+        "num": 268607,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268149,
+        "num": 268149,
+        "word": "北冥有鱼竟然是真的",
+        "onboard_time": 1765270764,
+        "rank": 19,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 383746,
+        "num": 267526,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276354,
+        "num": 260689,
+        "word": "史铁生曾开导过14岁的马思纯",
+        "onboard_time": 1765267283,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33671,
+        "num": 253822,
+        "word": "年轻人开始流行雇人秒回消息",
+        "onboard_time": 1765272262,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159362,
+        "num": 251652,
+        "word": "余承东官宣首款MPV命名为智界V9",
+        "onboard_time": 1765271061,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247977,
+        "num": 247977,
+        "word": "医生禁止把玩患者",
+        "onboard_time": 1765264641,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242778,
+        "num": 242778,
+        "word": "陈意涵在邱泽婚礼上大哭",
+        "onboard_time": 1765268843,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218258,
+        "num": 218258,
+        "word": "张桂源王橹杰 时代峰峻爆改赛道",
+        "onboard_time": 1765272683,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209644,
+        "num": 209644,
+        "word": "仅退款225个快递女子已归案",
+        "onboard_time": 1765271002,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201411,
+        "num": 201411,
+        "word": "得闲谨制四大平台评分",
+        "onboard_time": 1765271842,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187697,
+        "num": 187697,
+        "word": "陈妍希 谣言",
+        "onboard_time": 1765264641,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79303,
+        "num": 172119,
+        "word": "余承东官宣尚界首款轿跑明年上市",
+        "onboard_time": 1765269263,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171537,
+        "num": 171537,
+        "word": "痞幼上恋综错过朋友婚礼哭了",
+        "onboard_time": 1765267402,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162304,
+        "num": 162304,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141419,
+        "num": 141419,
+        "word": "成龙回应龙叔老了",
+        "onboard_time": 1765271542,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136163,
+        "num": 136163,
+        "word": "空枪檀健次特别主演",
+        "onboard_time": 1765266501,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126305,
+        "num": 126305,
+        "word": "梁家辉特意出演 惠英红亲情出演",
+        "onboard_time": 1765269085,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124992,
+        "num": 124992,
+        "word": "鸡蛋现在已经配不上西红柿了",
+        "onboard_time": 1765271181,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 123562,
+        "word": "金昊杀妻案发卧室卫生间留有血渍",
+        "onboard_time": 1765262362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70455,
+        "num": 120469,
+        "word": "辽宁丹东有人疑在江边放生大米",
+        "onboard_time": 1765272683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119588,
+        "num": 119588,
+        "word": "在吃瓜这一块有的是力气和手段",
+        "onboard_time": 1765273222,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113225,
+        "num": 113225,
+        "word": "Lululemon客服回应羽绒服袖子缝反",
+        "onboard_time": 1765273402,
+        "rank": 40,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 105498,
+        "num": 105498,
+        "word": "肖战感谢5510000位观众支持",
+        "onboard_time": 1765271122,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70296,
+        "num": 103913,
+        "word": "得闲谨制莫得闲家的对联看破防了",
+        "onboard_time": 1765272202,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103719,
+        "num": 103719,
+        "word": "电影空枪编剧汪海林",
+        "onboard_time": 1765272022,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55648,
+        "num": 102714,
+        "word": "无汞玻璃体温计比水银的贵一倍",
+        "onboard_time": 1765272022,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105165,
+        "num": 102629,
+        "word": "电影空枪官宣部分阵容",
+        "onboard_time": 1765263981,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102517,
+        "num": 102517,
+        "word": "印度医生在美强奸偷拍百人以上",
+        "onboard_time": 1765255164,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101976,
+        "num": 101976,
+        "word": "尼非法摘取器官场所现100多具尸体",
+        "onboard_time": 1765266983,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 100874,
+        "word": "金昊婚后第13天就家暴妻子",
+        "onboard_time": 1765256063,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100024,
+        "num": 100024,
+        "word": "东北11元早餐自助的含金量",
+        "onboard_time": 1765272862,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个坚持为明年经济工作指明方向#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765272742491,
+  "endTime": 1765273592093,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2764350,
-      "num": 521999,
+      "num": 590088,
       "word": "陈晓 陈妍希",
       "onboard_time": 1765268121,
       "rank": 11,
@@ -249,6 +249,14 @@
       "onboard_time": 1765259962,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031488,
+      "num": 1165038,
+      "word": "空枪",
+      "onboard_time": 1765264041,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1026892,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 749440,
-      "num": 398090,
+      "num": 578535,
       "word": "黄杨钿甜起诉B站",
       "onboard_time": 1765269803,
       "rank": 16,
@@ -489,14 +497,6 @@
       "onboard_time": 1765188441,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 746946,
-      "num": 1119026,
-      "word": "空枪",
-      "onboard_time": 1765264041,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 735355,
@@ -777,6 +777,14 @@
       "onboard_time": 1765187421,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 573892,
+      "num": 573892,
+      "word": "红楼梦",
+      "onboard_time": 1765032625,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 568246,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 471291,
-      "num": 513930,
+      "num": 657993,
       "word": "星光大赏单人海报",
       "onboard_time": 1765259003,
       "rank": 33,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1765085001,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406391,
-      "num": 300548,
-      "word": "红楼梦",
-      "onboard_time": 1765032625,
-      "rank": 14,
-      "category": "读书作家"
     },
     {
       "raw_hot": 404494,
@@ -2203,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276354,
+      "num": 260689,
+      "word": "史铁生曾开导过14岁的马思纯",
+      "onboard_time": 1765267283,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276294,
       "num": 190050,
       "word": "李纯马頔腿一样长",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1765107982,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 268149,
+      "num": 268149,
+      "word": "北冥有鱼竟然是真的",
+      "onboard_time": 1765270764,
+      "rank": 27,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 267790,
@@ -2297,14 +2313,6 @@
       "onboard_time": 1765028485,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259973,
-      "num": 241086,
-      "word": "史铁生曾开导过14岁的马思纯",
-      "onboard_time": 1765267283,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 259639,
@@ -2636,7 +2644,7 @@
     },
     {
       "raw_hot": 225182,
-      "num": 193426,
+      "num": 201411,
       "word": "得闲谨制四大平台评分",
       "onboard_time": 1765271842,
       "rank": 26,
@@ -2720,6 +2728,14 @@
       "word": "张钧甯带助理减肥36斤",
       "onboard_time": 1765171041,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218258,
+      "num": 218258,
+      "word": "张桂源王橹杰 时代峰峻爆改赛道",
+      "onboard_time": 1765272683,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2825,6 +2841,14 @@
       "onboard_time": 1765191382,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209644,
+      "num": 209644,
+      "word": "仅退款225个快递女子已归案",
+      "onboard_time": 1765271002,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209367,
@@ -3060,7 +3084,7 @@
     },
     {
       "raw_hot": 200986,
-      "num": 251772,
+      "num": 616155,
       "word": "无畏挑杯开个好头",
       "onboard_time": 1765272323,
       "rank": 4,
@@ -3179,14 +3203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196843,
-      "num": 192264,
-      "word": "北冥有鱼竟然是真的",
-      "onboard_time": 1765270764,
-      "rank": 27,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 196795,
       "num": 340258,
       "word": "WTT香港总决赛混双分组",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1765100181,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196680,
-      "num": 196680,
-      "word": "仅退款225个快递女子已归案",
-      "onboard_time": 1765271002,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196353,
@@ -3515,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178257,
+      "num": 633467,
+      "word": "外交部回应美批准向中国出售H200",
+      "onboard_time": 1765270104,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178155,
       "num": 178155,
       "word": "杨幂忙了一整晚口红零耗损",
@@ -3585,14 +3601,6 @@
       "onboard_time": 1765167681,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174675,
-      "num": 457171,
-      "word": "外交部回应美批准向中国出售H200",
-      "onboard_time": 1765270104,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174070,
@@ -3921,6 +3929,14 @@
       "onboard_time": 1765272022,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159362,
+      "num": 251652,
+      "word": "余承东官宣首款MPV命名为智界V9",
+      "onboard_time": 1765271061,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 159214,
@@ -4273,14 +4289,6 @@
       "onboard_time": 1765246701,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148602,
-      "num": 193802,
-      "word": "余承东官宣首款MPV命名为智界V9",
-      "onboard_time": 1765271061,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 148498,
@@ -4657,6 +4665,14 @@
       "onboard_time": 1765258641,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138907,
+      "num": 1037897,
+      "word": "琉球归属问题被迫无限期搁置",
+      "onboard_time": 1765272142,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138630,
@@ -5579,12 +5595,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119560,
-      "num": 140360,
-      "word": "张桂源王橹杰 时代峰峻爆改赛道",
-      "onboard_time": 1765272683,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 119588,
+      "num": 119588,
+      "word": "在吃瓜这一块有的是力气和手段",
+      "onboard_time": 1765273222,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 119513,
@@ -6073,6 +6089,14 @@
       "onboard_time": 1765207521,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113225,
+      "num": 113225,
+      "word": "Lululemon客服回应羽绒服袖子缝反",
+      "onboard_time": 1765273402,
+      "rank": 40,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 112972,
@@ -6921,6 +6945,14 @@
       "onboard_time": 1765268301,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100024,
+      "num": 100024,
+      "word": "东北11元早餐自助的含金量",
+      "onboard_time": 1765272862,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99947,
@@ -8035,6 +8067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70455,
+      "num": 149195,
+      "word": "辽宁丹东有人疑在江边放生大米",
+      "onboard_time": 1765272683,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70319,
       "num": 96803,
       "word": "皇马深夜紧急磋商阿隆索去留",
@@ -8395,20 +8435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56151,
-      "num": 149195,
-      "word": "辽宁丹东有人疑在江边放生大米",
-      "onboard_time": 1765272683,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55820,
       "num": 55820,
       "word": "尖叫之夜奖项",
       "onboard_time": 1765058955,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55648,
+      "num": 151054,
+      "word": "无汞玻璃体温计比水银的贵一倍",
+      "onboard_time": 1765272022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55633,
@@ -8675,14 +8715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49305,
-      "num": 151054,
-      "word": "无汞玻璃体温计比水银的贵一倍",
-      "onboard_time": 1765272022,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49291,
       "num": 78003,
       "word": "杨幂带着一家人压轴",
@@ -8716,7 +8748,7 @@
     },
     {
       "raw_hot": 48362,
-      "num": 203731,
+      "num": 273562,
       "word": "田曦薇今天我要告白",
       "onboard_time": 1765271061,
       "rank": 17,
@@ -9203,6 +9235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33671,
+      "num": 253822,
+      "word": "年轻人开始流行雇人秒回消息",
+      "onboard_time": 1765272262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33357,
       "num": 136533,
       "word": "非全日制陶喆 劳务派遣胡彦斌",
@@ -9308,7 +9348,7 @@
     },
     {
       "raw_hot": 31744,
-      "num": 971308,
+      "num": 977741,
       "word": "一人一句为残特奥会运动员加油",
       "onboard_time": 1765201341,
       "rank": 20,
@@ -9401,14 +9441,6 @@
       "onboard_time": 1765199062,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28886,
-      "num": 219279,
-      "word": "琉球归属问题被迫无限期搁置",
-      "onboard_time": 1765272142,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28518,
@@ -9864,14 +9896,6 @@
       "word": "方城学校火灾680天后起火原因仍不知",
       "onboard_time": 1765255705,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15894,
-      "num": 199641,
-      "word": "年轻人开始流行雇人秒回消息",
-      "onboard_time": 1765272262,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
