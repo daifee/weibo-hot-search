@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765287730404,
+  "endTime": 1765288477494,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 930751,
-      "num": 224700,
+      "num": 297749,
       "word": "陈妍希婚后住在内地一直在带孩子",
       "onboard_time": 1765279702,
       "rank": 21,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 624571,
-      "num": 313007,
+      "num": 336939,
       "word": "王源肖战从小是邻居",
       "onboard_time": 1765278082,
       "rank": 13,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 573230,
-      "num": 283036,
+      "num": 334679,
       "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
       "onboard_time": 1765283122,
       "rank": 17,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 554179,
-      "num": 311151,
+      "num": 332090,
       "word": "阿娇卸妆只卸掉了灰尘",
       "onboard_time": 1765280181,
       "rank": 26,
@@ -427,8 +427,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432213,
-      "num": 181380,
+      "raw_hot": 445660,
+      "num": 445660,
+      "word": "音频实证日本有意滋扰中方训练",
+      "onboard_time": 1765285161,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 436513,
+      "num": 289947,
       "word": "将门毒后",
       "onboard_time": 1765285822,
       "rank": 42,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 366709,
-      "num": 224279,
+      "num": 239751,
       "word": "月薪15000一年存10w的真实生活",
       "onboard_time": 1765280060,
       "rank": 33,
@@ -643,6 +651,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327878,
+      "num": 327878,
+      "word": "不二之臣吻戏给我看脸红了",
+      "onboard_time": 1765287202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326663,
+      "num": 326663,
+      "word": "狙击蝴蝶 最佳改编原著奖",
+      "onboard_time": 1765284503,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326514,
       "num": 251231,
       "word": "蓝战非被勒索300万",
@@ -651,12 +675,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 323670,
-      "num": 251824,
-      "word": "狙击蝴蝶 最佳改编原著奖",
-      "onboard_time": 1765284503,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 324305,
+      "num": 350003,
+      "word": "邱贻可首次公开回应质疑",
+      "onboard_time": 1765286723,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 323061,
@@ -665,14 +689,6 @@
       "onboard_time": 1765250002,
       "rank": 30,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 305413,
-      "num": 305413,
-      "word": "音频实证日本有意滋扰中方训练",
-      "onboard_time": 1765285161,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 302109,
@@ -744,6 +760,14 @@
       "word": "史铁生曾开导过14岁的马思纯",
       "onboard_time": 1765267283,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274328,
+      "num": 274328,
+      "word": "眼里没光 眼里有光",
+      "onboard_time": 1765286783,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -819,11 +843,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249206,
-      "num": 176564,
-      "word": "不二之臣吻戏给我看脸红了",
-      "onboard_time": 1765287202,
-      "rank": 24,
+      "raw_hot": 250106,
+      "num": 250106,
+      "word": "鹅厂2025年押宝剧集体翻车",
+      "onboard_time": 1765286544,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -939,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213238,
+      "num": 213238,
+      "word": "万宁叔整容",
+      "onboard_time": 1765287923,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 212694,
       "num": 212694,
       "word": "柯淳焊死在浙江卫视了吗",
@@ -953,6 +985,14 @@
       "onboard_time": 1765204401,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211088,
+      "num": 270852,
+      "word": "王飞教授意外离世",
+      "onboard_time": 1765279161,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208587,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1765272323,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200223,
+      "num": 346017,
+      "word": "王俊凯话剧",
+      "onboard_time": 1765287984,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 199472,
@@ -1139,28 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185901,
-      "num": 185901,
-      "word": "邱贻可首次公开回应质疑",
-      "onboard_time": 1765286723,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184434,
       "num": 122038,
       "word": "张子枫纹身",
       "onboard_time": 1765182561,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183641,
-      "num": 183641,
-      "word": "王飞教授意外离世",
-      "onboard_time": 1765279161,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183535,
@@ -1235,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176287,
-      "num": 176287,
-      "word": "鹅厂2025年押宝剧集体翻车",
-      "onboard_time": 1765286544,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175706,
       "num": 175706,
       "word": "王石和田朴珺约会摔断了两根肋骨",
@@ -1299,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168249,
-      "num": 168249,
-      "word": "眼里没光 眼里有光",
-      "onboard_time": 1765286783,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167967,
       "num": 167967,
       "word": "肖战感谢5510000位观众支持",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1765272022,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158535,
+      "num": 158535,
+      "word": "2025四大平台扑剧盘点",
+      "onboard_time": 1765284503,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 157505,
@@ -1395,20 +1419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154080,
+      "num": 154080,
+      "word": "圣诞帽头像",
+      "onboard_time": 1765288043,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 153256,
       "num": 153256,
       "word": "鸡蛋现在已经配不上西红柿了",
       "onboard_time": 1765271181,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153114,
-      "num": 153114,
-      "word": "2025四大平台扑剧盘点",
-      "onboard_time": 1765284503,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 153075,
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 149074,
-      "num": 149074,
+      "num": 182668,
       "word": "杭州集中供暖要来了",
       "onboard_time": 1765285883,
       "rank": 47,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1765246701,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 146760,
+      "num": 146760,
+      "word": "以为是故人之姿真故人之子",
+      "onboard_time": 1765288404,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 146575,
@@ -1843,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122174,
+      "num": 122174,
+      "word": "金昊被判死刑足见婚姻不是免死金牌",
+      "onboard_time": 1765287442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "纪录片称红楼梦120回均由曹雪芹完成",
@@ -2139,6 +2179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109896,
+      "num": 109896,
+      "word": "中国女博士生和女儿遭外籍丈夫杀害",
+      "onboard_time": 1765279941,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109846,
       "num": 174373,
       "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1765258824,
       "rank": 39,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 108298,
-      "num": 108298,
-      "word": "中国女博士生和女儿遭外籍丈夫杀害",
-      "onboard_time": 1765279941,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108289,
@@ -2419,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95056,
+      "num": 106973,
+      "word": "人有一个很重要的功课就是熬",
+      "onboard_time": 1765288284,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95009,
       "num": 103547,
       "word": "王昭君偶像歌手星元海报",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1765284263,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93840,
+      "num": 106946,
+      "word": "郭宇欣杂志销售额",
+      "onboard_time": 1765288165,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 93654,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1765256424,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92107,
+      "num": 297912,
+      "word": "被白嫖家教的清华小伙已收到课时费",
+      "onboard_time": 1765287984,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91431,
@@ -2537,6 +2601,14 @@
       "onboard_time": 1765245682,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 119332,
+      "word": "英政府禁用tiktok但首相却开通使用",
+      "onboard_time": 1765287083,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87322,
@@ -2673,14 +2745,6 @@
       "onboard_time": 1765276282,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75169,
-      "num": 120011,
-      "word": "金昊被判死刑足见婚姻不是免死金牌",
-      "onboard_time": 1765287442,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74809,
@@ -3241,14 +3305,6 @@
       "onboard_time": 1765274722,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29829,
-      "num": 119332,
-      "word": "英政府禁用tiktok但首相却开通使用",
-      "onboard_time": 1765287083,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29488,
