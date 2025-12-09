@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765295097185,
+  "endTime": 1765298179769,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -3907,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175925,
+      "num": 175925,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175748,
       "num": 175748,
       "word": "尖叫之夜魏大勋前任现任都在",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1765282762,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169533,
+      "num": 237308,
+      "word": "中日双方军舰通信录音公布",
+      "onboard_time": 1765292184,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169469,
@@ -5481,14 +5497,6 @@
       "onboard_time": 1765257443,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131387,
-      "num": 224656,
-      "word": "中日双方军舰通信录音公布",
-      "onboard_time": 1765292184,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131036,
@@ -7483,6 +7491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103167,
+      "num": 85965,
+      "word": "感到不顺时要丢掉3样东西",
+      "onboard_time": 1765295781,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103081,
       "num": 103081,
       "word": "月亮",
@@ -7763,6 +7779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98764,
+      "num": 92729,
+      "word": "风与潮热度",
+      "onboard_time": 1765294702,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98475,
       "num": 98475,
       "word": "尖叫之夜 没有一个不漂亮",
@@ -7820,7 +7844,7 @@
     },
     {
       "raw_hot": 97263,
-      "num": 105591,
+      "num": 213725,
       "word": "TheShy谈重返赛场",
       "onboard_time": 1765292964,
       "rank": 38,
@@ -8112,14 +8136,6 @@
       "word": "啥剧啊成毅没武功老头卷打戏",
       "onboard_time": 1765256424,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 92729,
-      "num": 92729,
-      "word": "风与潮热度",
-      "onboard_time": 1765294702,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -8443,6 +8459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86003,
+      "num": 120642,
+      "word": "美防长说忽视中国军力愚蠢且失敬",
+      "onboard_time": 1765292484,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85940,
       "num": 210329,
       "word": "孙颖莎是王楚钦全肯定",
@@ -8667,14 +8691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79271,
-      "num": 120642,
-      "word": "美防长说忽视中国军力愚蠢且失敬",
-      "onboard_time": 1765292484,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78943,
       "num": 96825,
       "word": "63岁的关之琳",
@@ -8745,6 +8761,14 @@
       "onboard_time": 1765292365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75933,
+      "num": 75933,
+      "word": "陈泽杯",
+      "onboard_time": 1765297820,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 75565,
@@ -9433,6 +9457,14 @@
       "onboard_time": 1765126338,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52691,
+      "num": 217208,
+      "word": "大风降温雨雪一股脑来了",
+      "onboard_time": 1765291823,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52632,
