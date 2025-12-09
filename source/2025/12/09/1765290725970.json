@@ -1,0 +1,410 @@
+{
+  "runTime": 1765290725970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604112,
+        "num": 1096657,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436957,
+        "num": 436957,
+        "word": "音频实证日本有意滋扰中方训练",
+        "onboard_time": 1765285161,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26959,
+        "num": 375718,
+        "word": "应急管理部发了9个冬季安全提示",
+        "onboard_time": 1765274722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350589,
+        "num": 350589,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140587,
+        "num": 328775,
+        "word": "泡泡玛特4个月跌近44%",
+        "onboard_time": 1765274003,
+        "rank": 4,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 448263,
+        "num": 327758,
+        "word": "邱贻可首次公开回应质疑",
+        "onboard_time": 1765286723,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322922,
+        "num": 322922,
+        "word": "不二之臣吻戏给我看脸红了",
+        "onboard_time": 1765287202,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213308,
+        "num": 320454,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99949,
+        "num": 318400,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79233,
+        "num": 312684,
+        "word": "琉球归属问题被迫无限期搁置",
+        "onboard_time": 1765272142,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1230915,
+        "num": 310527,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713009,
+        "num": 307092,
+        "word": "万宁叔整容",
+        "onboard_time": 1765287923,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541297,
+        "num": 304946,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374344,
+        "num": 300382,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356027,
+        "num": 298161,
+        "word": "眼里没光 眼里有光",
+        "onboard_time": 1765286783,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295541,
+        "num": 295541,
+        "word": "被白嫖家教的清华小伙已收到课时费",
+        "onboard_time": 1765287984,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207078,
+        "num": 207078,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 195599,
+        "num": 195599,
+        "word": "金昊被判死刑足见婚姻不是免死金牌",
+        "onboard_time": 1765287442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186034,
+        "num": 186034,
+        "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+        "onboard_time": 1765283122,
+        "rank": 18,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 174161,
+        "num": 174161,
+        "word": "今屿挑杯三连MVP",
+        "onboard_time": 1765289486,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 352222,
+        "num": 172607,
+        "word": "将门毒后",
+        "onboard_time": 1765285822,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309279,
+        "num": 170687,
+        "word": "陈妍希婚后住在内地一直在带孩子",
+        "onboard_time": 1765279702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256069,
+        "num": 169265,
+        "word": "阿娇卸妆只卸掉了灰尘",
+        "onboard_time": 1765280181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238865,
+        "num": 165167,
+        "word": "以为是故人之姿真故人之子",
+        "onboard_time": 1765288404,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164726,
+        "num": 164726,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228703,
+        "num": 159984,
+        "word": "王俊凯话剧",
+        "onboard_time": 1765287984,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202548,
+        "num": 156057,
+        "word": "狙击蝴蝶 最佳改编原著奖",
+        "onboard_time": 1765284503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 152538,
+        "word": "鹅厂2025年押宝剧集体翻车",
+        "onboard_time": 1765286544,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147834,
+        "num": 147834,
+        "word": "杭州集中供暖要来了",
+        "onboard_time": 1765285883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143004,
+        "num": 143004,
+        "word": "在英国被杀害留学生曾担心感染性病",
+        "onboard_time": 1765278082,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151055,
+        "num": 135401,
+        "word": "星光大赏入场券",
+        "onboard_time": 1765278261,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148849,
+        "num": 131820,
+        "word": "张凌赫妈妈好像周雨彤",
+        "onboard_time": 1765280242,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127707,
+        "num": 127707,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 32,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 122689,
+        "word": "皮皮限停播",
+        "onboard_time": 1765290445,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120749,
+        "num": 120749,
+        "word": "中国女博士生和女儿遭外籍丈夫杀害",
+        "onboard_time": 1765279941,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126598,
+        "num": 120731,
+        "word": "伴舞看虞书欣的眼神",
+        "onboard_time": 1765278321,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120399,
+        "num": 120399,
+        "word": "圣诞帽头像",
+        "onboard_time": 1765288043,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 39455,
+        "num": 120271,
+        "word": "男子被绞身亡家属称公司曾2次开闸",
+        "onboard_time": 1765289664,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37630,
+        "num": 119650,
+        "word": "中学校长培训期间陪妻子游玩被通报",
+        "onboard_time": 1765290263,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112744,
+        "num": 119039,
+        "word": "王飞教授意外离世",
+        "onboard_time": 1765279161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123210,
+        "num": 118875,
+        "word": "B站回应被黄杨钿甜起诉",
+        "onboard_time": 1765280001,
+        "rank": 40,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 118584,
+        "num": 118584,
+        "word": "邱贻可说想过不干了",
+        "onboard_time": 1765289964,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115397,
+        "num": 115397,
+        "word": "美丑就是很客观的一件事",
+        "onboard_time": 1765290445,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117528,
+        "num": 115393,
+        "word": "清华学生被白嫖家教费已追回",
+        "onboard_time": 1765290505,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112906,
+        "num": 112906,
+        "word": "2025四大平台扑剧盘点",
+        "onboard_time": 1765284503,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112469,
+        "num": 112469,
+        "word": "英政府禁用tiktok但首相却开通使用",
+        "onboard_time": 1765287083,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111385,
+        "num": 111385,
+        "word": "范丞丞直播",
+        "onboard_time": 1765289724,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112268,
+        "num": 110325,
+        "word": "风与潮",
+        "onboard_time": 1765284561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108964,
+        "num": 108964,
+        "word": "偶遇素颜的刘亦菲",
+        "onboard_time": 1765281801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102714,
+        "num": 102714,
+        "word": "中国女博士生和女儿遇害现场有斧头",
+        "onboard_time": 1765278982,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}

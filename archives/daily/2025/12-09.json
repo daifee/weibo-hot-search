@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765288477494,
+  "endTime": 1765290725970,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 713009,
+      "num": 307092,
+      "word": "万宁叔整容",
+      "onboard_time": 1765287923,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 697334,
       "num": 697334,
       "word": "人贩子扬言出狱报复符合加重情节",
@@ -288,6 +296,14 @@
       "word": "阿娇卸妆只卸掉了灰尘",
       "onboard_time": 1765280181,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 541297,
+      "num": 304946,
+      "word": "乔任梁爸爸因吃8个死蟹住院",
+      "onboard_time": 1765290144,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -409,6 +425,14 @@
       "onboard_time": 1765266803,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448263,
+      "num": 350003,
+      "word": "邱贻可首次公开回应质疑",
+      "onboard_time": 1765286723,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 448122,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356027,
+      "num": 298161,
+      "word": "眼里没光 眼里有光",
+      "onboard_time": 1765286783,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355153,
       "num": 728794,
       "word": "31岁中国女留学生遭美国男友杀害",
@@ -675,14 +707,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 324305,
-      "num": 350003,
-      "word": "邱贻可首次公开回应质疑",
-      "onboard_time": 1765286723,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323061,
       "num": 247166,
       "word": "蓝战非发文感谢中国大使馆",
@@ -713,6 +737,14 @@
       "onboard_time": 1765268843,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295541,
+      "num": 297912,
+      "word": "被白嫖家教的清华小伙已收到课时费",
+      "onboard_time": 1765287984,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292228,
@@ -760,14 +792,6 @@
       "word": "史铁生曾开导过14岁的马思纯",
       "onboard_time": 1765267283,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 274328,
-      "num": 274328,
-      "word": "眼里没光 眼里有光",
-      "onboard_time": 1765286783,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -859,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238865,
+      "num": 165167,
+      "word": "以为是故人之姿真故人之子",
+      "onboard_time": 1765288404,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238691,
       "num": 238691,
       "word": "伴舞看虞书欣的眼神",
@@ -905,6 +937,14 @@
       "onboard_time": 1765255044,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228703,
+      "num": 346017,
+      "word": "王俊凯话剧",
+      "onboard_time": 1765287984,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 225182,
@@ -961,14 +1001,6 @@
       "onboard_time": 1765269085,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213238,
-      "num": 213238,
-      "word": "万宁叔整容",
-      "onboard_time": 1765287923,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 212694,
@@ -1075,14 +1107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200223,
-      "num": 346017,
-      "word": "王俊凯话剧",
-      "onboard_time": 1765287984,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199472,
       "num": 192054,
       "word": "河北杀妻案宣判被害人家属发声",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1765253963,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195599,
+      "num": 195599,
+      "word": "金昊被判死刑足见婚姻不是免死金牌",
+      "onboard_time": 1765287442,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195561,
@@ -1280,6 +1312,14 @@
       "word": "把镜给无畏玩",
       "onboard_time": 1765265361,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 174161,
+      "num": 174161,
+      "word": "今屿挑杯三连MVP",
+      "onboard_time": 1765289486,
+      "rank": 19,
       "category": "电竞"
     },
     {
@@ -1497,14 +1537,6 @@
       "onboard_time": 1765246701,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 146760,
-      "num": 146760,
-      "word": "以为是故人之姿真故人之子",
-      "onboard_time": 1765288404,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 146575,
@@ -1859,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122689,
+      "num": 122689,
+      "word": "皮皮限停播",
+      "onboard_time": 1765290445,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122368,
       "num": 122368,
       "word": "短跑运动三大悍将都退役了",
@@ -1872,14 +1912,6 @@
       "word": "幼儿园被虐女童多次被拖进死角打",
       "onboard_time": 1765236800,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122174,
-      "num": 122174,
-      "word": "金昊被判死刑足见婚姻不是免死金牌",
-      "onboard_time": 1765287442,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1905,6 +1937,14 @@
       "onboard_time": 1765268602,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120749,
+      "num": 120749,
+      "word": "中国女博士生和女儿遭外籍丈夫杀害",
+      "onboard_time": 1765279941,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120401,
@@ -1979,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "邱贻可说想过不干了",
+      "onboard_time": 1765289964,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118249,
       "num": 118249,
       "word": "一口气买了三十件羽绒服",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1765257322,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117528,
+      "num": 115393,
+      "word": "清华学生被白嫖家教费已追回",
+      "onboard_time": 1765290505,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117021,
@@ -2041,6 +2097,14 @@
       "onboard_time": 1765260323,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115397,
+      "num": 115397,
+      "word": "美丑就是很客观的一件事",
+      "onboard_time": 1765290445,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 114921,
@@ -2131,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112469,
+      "num": 119332,
+      "word": "英政府禁用tiktok但首相却开通使用",
+      "onboard_time": 1765287083,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112335,
       "num": 122172,
       "word": "杨超越董思成新剧药味好足",
@@ -2155,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111385,
+      "num": 111385,
+      "word": "范丞丞直播",
+      "onboard_time": 1765289724,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111243,
       "num": 267643,
       "word": "重温苏炳添高光时刻",
@@ -2177,14 +2257,6 @@
       "onboard_time": 1765275861,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 109896,
-      "num": 109896,
-      "word": "中国女博士生和女儿遭外籍丈夫杀害",
-      "onboard_time": 1765279941,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109846,
@@ -2547,14 +2619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92107,
-      "num": 297912,
-      "word": "被白嫖家教的清华小伙已收到课时费",
-      "onboard_time": 1765287984,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91431,
       "num": 96828,
       "word": "日本正确认多座核电站震后状态",
@@ -2601,14 +2665,6 @@
       "onboard_time": 1765245682,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87331,
-      "num": 119332,
-      "word": "英政府禁用tiktok但首相却开通使用",
-      "onboard_time": 1765287083,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87322,
@@ -3179,12 +3235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39455,
+      "num": 120271,
+      "word": "男子被绞身亡家属称公司曾2次开闸",
+      "onboard_time": 1765289664,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38153,
       "num": 117888,
       "word": "为了陈晓逛了次平遥",
       "onboard_time": 1765245921,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37630,
+      "num": 119650,
+      "word": "中学校长培训期间陪妻子游玩被通报",
+      "onboard_time": 1765290263,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35877,
