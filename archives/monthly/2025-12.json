@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765277344458,
+  "endTime": 1765279619205,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1315,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835895,
+      "num": 1133743,
+      "word": "山姆致歉",
+      "onboard_time": 1765274961,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 833924,
       "num": 833924,
       "word": "徐若晗撞衫田曦薇",
@@ -2259,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 601110,
-      "num": 1096177,
-      "word": "山姆致歉",
-      "onboard_time": 1765274961,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 600877,
       "num": 190260,
       "word": "胡歌二胎 时间",
@@ -2681,6 +2681,14 @@
       "onboard_time": 1764766580,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546723,
+      "num": 197002,
+      "word": "王源肖战从小是邻居",
+      "onboard_time": 1765278082,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 546616,
@@ -3297,6 +3305,14 @@
       "onboard_time": 1764565102,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489112,
+      "num": 749675,
+      "word": "辽宁丹东有人疑在江边放生大米",
+      "onboard_time": 1765272683,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489110,
@@ -7275,6 +7291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260331,
+      "num": 196182,
+      "word": "在英国被杀害留学生曾担心感染性病",
+      "onboard_time": 1765278082,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 259639,
       "num": 259639,
       "word": "王曼昱3比0胜张本美和",
@@ -7899,14 +7923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236781,
-      "num": 236781,
-      "word": "辽宁丹东有人疑在江边放生大米",
-      "onboard_time": 1765272683,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236755,
       "num": 228839,
       "word": "疯狂动物城3 飞禽",
@@ -7929,6 +7945,14 @@
       "onboard_time": 1764567023,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236682,
+      "num": 195880,
+      "word": "李晨一秒认出跑男家族",
+      "onboard_time": 1765278141,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 236585,
@@ -8643,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216171,
+      "num": 195454,
+      "word": "山姆超市金柑里吃出蠕动活虫",
+      "onboard_time": 1765278022,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216145,
       "num": 253081,
       "word": "易烊千玺淘宝",
@@ -8769,6 +8801,14 @@
       "onboard_time": 1764590122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212771,
+      "num": 195123,
+      "word": "伴舞看虞书欣的眼神",
+      "onboard_time": 1765278321,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 212694,
@@ -9851,6 +9891,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198404,
+      "num": 1063374,
+      "word": "泡泡玛特4个月跌近44%",
+      "onboard_time": 1765274003,
+      "rank": 1,
+      "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 198377,
+      "num": 198377,
+      "word": "王俊凯晒托马斯简历",
+      "onboard_time": 1765278380,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197783,
       "num": 197783,
       "word": "汪苏泷广州",
@@ -10177,14 +10233,6 @@
       "onboard_time": 1764732742,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 193458,
-      "num": 1060215,
-      "word": "泡泡玛特4个月跌近44%",
-      "onboard_time": 1765274003,
-      "rank": 1,
-      "category": "财经,休闲"
     },
     {
       "raw_hot": 193371,
@@ -10737,6 +10785,14 @@
       "onboard_time": 1764836242,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 185281,
+      "num": 185281,
+      "word": "星光大赏入场券",
+      "onboard_time": 1765278261,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185207,
@@ -11721,6 +11777,14 @@
       "onboard_time": 1764594264,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171479,
+      "num": 171479,
+      "word": "一个月不上网生活彻底变了",
+      "onboard_time": 1765277902,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 171400,
@@ -13683,6 +13747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150710,
+      "num": 150710,
+      "word": "罗晋任素汐给我字幕依赖症治好了",
+      "onboard_time": 1765278982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150585,
       "num": 150585,
       "word": "刘耀文 黄子韬灭燃器",
@@ -14827,6 +14899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140028,
+      "num": 140028,
+      "word": "王飞教授意外离世",
+      "onboard_time": 1765279161,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139910,
       "num": 139910,
       "word": "张佳宁演出了牛马的疲惫感",
@@ -15521,6 +15601,14 @@
       "onboard_time": 1765105101,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134766,
+      "num": 134766,
+      "word": "山姆活老鼠事件",
+      "onboard_time": 1765278560,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134539,
@@ -17473,6 +17561,14 @@
       "onboard_time": 1764660081,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121555,
+      "num": 121555,
+      "word": "陈晓新剧不语只一味登顶TOP1",
+      "onboard_time": 1765278082,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 121434,
@@ -19931,6 +20027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108025,
+      "num": 195569,
+      "word": "中国空间站安装了碎片防护装置",
+      "onboard_time": 1765279222,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "陈冠希 本山化",
@@ -19993,6 +20097,14 @@
       "onboard_time": 1765181780,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107529,
+      "num": 107529,
+      "word": "山姆回应超市金柑里吃出蠕动活虫",
+      "onboard_time": 1765279401,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107496,
@@ -20761,6 +20873,14 @@
       "onboard_time": 1764901819,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103290,
+      "num": 103290,
+      "word": "国际乒联将创办世界大师队锦标赛",
+      "onboard_time": 1765278921,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 103234,
@@ -24235,6 +24355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81444,
+      "num": 197739,
+      "word": "2026考研",
+      "onboard_time": 1765274902,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 81414,
       "num": 91784,
       "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
@@ -25369,6 +25497,14 @@
       "onboard_time": 1764929002,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 69483,
+      "num": 107597,
+      "word": "中国女博士生和女儿遇害现场有斧头",
+      "onboard_time": 1765278982,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69424,
@@ -26939,6 +27075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50624,
+      "num": 107759,
+      "word": "侯鸿亮最初对肖战的印象",
+      "onboard_time": 1765279401,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50516,
       "num": 152302,
       "word": "被短剧抄袭的长剧有哪些",
@@ -27137,6 +27281,14 @@
       "onboard_time": 1765087881,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48222,
+      "num": 197241,
+      "word": "神21乘组完成第一次出舱活动",
+      "onboard_time": 1765278261,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48179,
@@ -28355,6 +28507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37670,
+      "num": 198111,
+      "word": "我在南极开挖掘机",
+      "onboard_time": 1765274243,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37636,
       "num": 136340,
       "word": "全网最忙五人组造假装都懒得装了",
@@ -29411,6 +29571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27675,
+      "num": 93229,
+      "word": "男子将婚车贴满走失儿童信息",
+      "onboard_time": 1765278022,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27627,
       "num": 97977,
       "word": "消费者称辣椒面内疑现鼠头异物",
@@ -29443,12 +29611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27333,
+      "num": 99650,
+      "word": "冷冷冷北京雪雪雪",
+      "onboard_time": 1765278201,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27295,
       "num": 263787,
       "word": "王世坚既想蹭热度又要换选票",
       "onboard_time": 1764750441,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27217,
+      "num": 988018,
+      "word": "应急管理部发了9个冬季安全提示",
+      "onboard_time": 1765274722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27075,
@@ -29664,14 +29848,6 @@
       "word": "平台赴俄机票预订量大涨近5倍",
       "onboard_time": 1764594022,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24839,
-      "num": 988018,
-      "word": "应急管理部发了9个冬季安全提示",
-      "onboard_time": 1765274722,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
