@@ -1,0 +1,410 @@
+{
+  "runTime": 1765294396931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633996,
+        "num": 1101439,
+        "word": "韩国硬刚高市早苗",
+        "onboard_time": 1765291884,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 524053,
+        "num": 524053,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2418,
+        "num": 523370,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229942,
+        "num": 509605,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108688,
+        "num": 502031,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300019,
+        "num": 491069,
+        "word": "邱贻可首次公开回应质疑",
+        "onboard_time": 1765286723,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205208,
+        "num": 481555,
+        "word": "不二之臣吻戏给我看脸红了",
+        "onboard_time": 1765287202,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193257,
+        "num": 475393,
+        "word": "被白嫖家教的清华小伙已收到课时费",
+        "onboard_time": 1765287984,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66373,
+        "num": 469162,
+        "word": "360行快成3600行了",
+        "onboard_time": 1765292365,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56441,
+        "num": 458446,
+        "word": "中科曙光终止重大资产重组",
+        "onboard_time": 1765290743,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 152154,
+        "num": 454580,
+        "word": "音频实证日本有意滋扰中方训练",
+        "onboard_time": 1765285161,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1975022,
+        "num": 441433,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876158,
+        "num": 435746,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428985,
+        "num": 428985,
+        "word": "万宁叔整容",
+        "onboard_time": 1765287923,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352984,
+        "num": 352984,
+        "word": "怀孕或使女性衰老超5岁",
+        "onboard_time": 1765291643,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248261,
+        "num": 248261,
+        "word": "李鸿其哭着感谢太太王紫璇",
+        "onboard_time": 1765291044,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227838,
+        "num": 227838,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180993,
+        "num": 206912,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 67467,
+        "num": 206729,
+        "word": "中方多机型现身东海太平洋西部空域",
+        "onboard_time": 1765292663,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138039,
+        "num": 206696,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206667,
+        "num": 206667,
+        "word": "王橹杰贝雷帽比心照",
+        "onboard_time": 1765293921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199743,
+        "num": 199743,
+        "word": "眼里没光 眼里有光",
+        "onboard_time": 1765286783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176750,
+        "num": 176750,
+        "word": "王俊凯话剧",
+        "onboard_time": 1765287984,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170653,
+        "num": 170653,
+        "word": "以为是故人之姿真故人之子",
+        "onboard_time": 1765288404,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141258,
+        "num": 161825,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154893,
+        "num": 154893,
+        "word": "将门毒后",
+        "onboard_time": 1765285822,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 151224,
+        "word": "陈妍希婚后住在内地一直在带孩子",
+        "onboard_time": 1765279702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148126,
+        "num": 148126,
+        "word": "佟丽娅严浩翔看王俊凯话剧",
+        "onboard_time": 1765292246,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117182,
+        "num": 146198,
+        "word": "中日双方军舰通信录音公布",
+        "onboard_time": 1765292184,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86809,
+        "num": 144716,
+        "word": "水银温度计的平替长这样",
+        "onboard_time": 1765281023,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144292,
+        "num": 144292,
+        "word": "阿娇卸妆只卸掉了灰尘",
+        "onboard_time": 1765280181,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131070,
+        "num": 131070,
+        "word": "得闲谨制一星高赞ip是海外",
+        "onboard_time": 1765291764,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "圣诞帽头像",
+        "onboard_time": 1765288043,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 76028,
+        "num": 120642,
+        "word": "美防长说忽视中国军力愚蠢且失敬",
+        "onboard_time": 1765292484,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120322,
+        "num": 120322,
+        "word": "星光大赏入场券",
+        "onboard_time": 1765278261,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111141,
+        "num": 111141,
+        "word": "鹅厂2025年押宝剧集体翻车",
+        "onboard_time": 1765286544,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106300,
+        "num": 106300,
+        "word": "范丞丞 三角洲",
+        "onboard_time": 1765293262,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 97422,
+        "num": 105654,
+        "word": "为什么建议35岁就开始控糖",
+        "onboard_time": 1765291524,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97263,
+        "num": 105591,
+        "word": "TheShy谈重返赛场",
+        "onboard_time": 1765292964,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23397,
+        "num": 105559,
+        "word": "灌面汤杀妻案凶手认罪认罚",
+        "onboard_time": 1765293682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105528,
+        "num": 105528,
+        "word": "狙击蝴蝶 分手复合在同一集",
+        "onboard_time": 1765294222,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 103558,
+        "word": "伴舞看虞书欣的眼神",
+        "onboard_time": 1765278321,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102925,
+        "num": 102925,
+        "word": "范丞丞直播",
+        "onboard_time": 1765289724,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83779,
+        "num": 102123,
+        "word": "皮皮限停播",
+        "onboard_time": 1765290445,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101657,
+        "num": 101657,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 44,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 97247,
+        "num": 97247,
+        "word": "狙击蝴蝶 最佳改编原著奖",
+        "onboard_time": 1765284503,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88840,
+        "num": 88840,
+        "word": "00后喜欢的游戏",
+        "onboard_time": 1765290863,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60986,
+        "num": 86605,
+        "word": "中科曙光终止资产重组",
+        "onboard_time": 1765292663,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62975,
+        "num": 86520,
+        "word": "男子锤杀未婚妻经13次判决4死3生",
+        "onboard_time": 1765292722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77159,
+        "num": 86511,
+        "word": "杭州集中供暖要来了",
+        "onboard_time": 1765285883,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
