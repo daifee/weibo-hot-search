@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765285975908,
+  "endTime": 1765287730404,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -827,6 +827,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 573230,
+      "num": 283036,
+      "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+      "onboard_time": 1765283122,
+      "rank": 17,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 568246,
       "num": 281421,
       "word": "于正官宣张婉莹女一号",
@@ -905,14 +913,6 @@
       "onboard_time": 1765091599,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 539250,
-      "num": 283036,
-      "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
-      "onboard_time": 1765283122,
-      "rank": 17,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 538387,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1765099041,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432213,
+      "num": 181380,
+      "word": "将门毒后",
+      "onboard_time": 1765285822,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 430563,
@@ -1971,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323670,
+      "num": 251824,
+      "word": "狙击蝴蝶 最佳改编原著奖",
+      "onboard_time": 1765284503,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323061,
       "num": 247166,
       "word": "蓝战非发文感谢中国大使馆",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1765086440,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305413,
+      "num": 305413,
+      "word": "音频实证日本有意滋扰中方训练",
+      "onboard_time": 1765285161,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305014,
@@ -2531,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249206,
+      "num": 176564,
+      "word": "不二之臣吻戏给我看脸红了",
+      "onboard_time": 1765287202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -2833,14 +2865,6 @@
       "onboard_time": 1765098741,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223763,
-      "num": 175617,
-      "word": "狙击蝴蝶 最佳改编原著奖",
-      "onboard_time": 1765284503,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 221762,
@@ -3587,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185901,
+      "num": 185901,
+      "word": "邱贻可首次公开回应质疑",
+      "onboard_time": 1765286723,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185079,
       "num": 185079,
       "word": "白鹿晒和小酒窝合照",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1765103659,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183641,
+      "num": 183641,
+      "word": "王飞教授意外离世",
+      "onboard_time": 1765279161,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183535,
@@ -3760,6 +3800,14 @@
       "word": "狙击蝴蝶吻戏 很欲",
       "onboard_time": 1765185441,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176287,
+      "num": 176287,
+      "word": "鹅厂2025年押宝剧集体翻车",
+      "onboard_time": 1765286544,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -3929,6 +3977,14 @@
       "onboard_time": 1765245381,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168249,
+      "num": 168249,
+      "word": "眼里没光 眼里有光",
+      "onboard_time": 1765286783,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 167967,
@@ -4267,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155403,
+      "num": 155403,
+      "word": "张继科说樊振东的球拍要回收",
+      "onboard_time": 1765283841,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155310,
       "num": 158071,
       "word": "王曼昱首轮对阵张本美和",
@@ -4361,6 +4425,14 @@
       "onboard_time": 1765271181,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153114,
+      "num": 153114,
+      "word": "2025四大平台扑剧盘点",
+      "onboard_time": 1765284503,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153113,
@@ -4523,6 +4595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149074,
+      "num": 149074,
+      "word": "杭州集中供暖要来了",
+      "onboard_time": 1765285883,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148729,
       "num": 148729,
       "word": "小米中国区多业务人事调整",
@@ -4569,14 +4649,6 @@
       "onboard_time": 1765171041,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146933,
-      "num": 146933,
-      "word": "王飞教授意外离世",
-      "onboard_time": 1765279161,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146575,
@@ -5033,14 +5105,6 @@
       "onboard_time": 1765032986,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136728,
-      "num": 136728,
-      "word": "张继科说樊振东的球拍要回收",
-      "onboard_time": 1765283841,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 136160,
@@ -5521,14 +5585,6 @@
       "onboard_time": 1765105161,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126886,
-      "num": 126886,
-      "word": "2025四大平台扑剧盘点",
-      "onboard_time": 1765284503,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 126099,
@@ -6019,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118873,
+      "num": 118873,
+      "word": "水银温度计的平替长这样",
+      "onboard_time": 1765281023,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118871,
       "num": 118871,
       "word": "阿凡达3",
@@ -6201,6 +6265,14 @@
       "onboard_time": 1765149018,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116323,
+      "num": 116323,
+      "word": "余承东说2025年关键词是成长",
+      "onboard_time": 1765287083,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 116179,
@@ -6393,14 +6465,6 @@
       "onboard_time": 1765108762,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113456,
-      "num": 113456,
-      "word": "水银温度计的平替长这样",
-      "onboard_time": 1765281023,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113443,
@@ -6843,6 +6907,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 108298,
+      "num": 108298,
+      "word": "中国女博士生和女儿遭外籍丈夫杀害",
+      "onboard_time": 1765279941,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108289,
       "num": 108289,
       "word": "200位业主抵制小区开宠物重症医院",
@@ -7283,14 +7355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101557,
-      "num": 101557,
-      "word": "中国女博士生和女儿遭外籍丈夫杀害",
-      "onboard_time": 1765279941,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101541,
       "num": 211995,
       "word": "Chovy训练空缺位置一个月",
@@ -7531,14 +7595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97939,
-      "num": 97939,
-      "word": "将门毒后",
-      "onboard_time": 1765285822,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97133,
       "num": 97133,
       "word": "水果姐高调官宣与特鲁多恋情",
@@ -7689,6 +7745,14 @@
       "onboard_time": 1765247001,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93981,
+      "num": 106655,
+      "word": "一块面包的价格不该超过15元",
+      "onboard_time": 1765284263,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 93913,
@@ -7947,6 +8011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90172,
+      "num": 106640,
+      "word": "RW对战TCG",
+      "onboard_time": 1765287623,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89874,
       "num": 89874,
       "word": "这就是语文老师说的借物喻人吗",
@@ -8123,14 +8195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85727,
-      "num": 85727,
-      "word": "杭州集中供暖要来了",
-      "onboard_time": 1765285883,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85393,
       "num": 85393,
       "word": "张韶涵新专",
@@ -8161,14 +8225,6 @@
       "onboard_time": 1765207643,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84559,
-      "num": 180318,
-      "word": "音频实证日本有意滋扰中方训练",
-      "onboard_time": 1765285161,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84423,
@@ -8457,6 +8513,14 @@
       "onboard_time": 1765102700,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75169,
+      "num": 120011,
+      "word": "金昊被判死刑足见婚姻不是免死金牌",
+      "onboard_time": 1765287442,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75045,
@@ -10011,6 +10075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29829,
+      "num": 119332,
+      "word": "英政府禁用tiktok但首相却开通使用",
+      "onboard_time": 1765287083,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29279,
       "num": 134963,
       "word": "华晨宇 上一期没来亏了",
@@ -10171,7 +10243,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25164,
+      "raw_hot": 25395,
       "num": 211397,
       "word": "香港火灾严重伤者均已转为稳定",
       "onboard_time": 1765285161,

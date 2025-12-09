@@ -1,0 +1,410 @@
+{
+  "runTime": 1765287730404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 607069,
+        "num": 1097131,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305413,
+        "num": 305413,
+        "word": "音频实证日本有意滋扰中方训练",
+        "onboard_time": 1765285161,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26503,
+        "num": 272154,
+        "word": "应急管理部发了9个冬季安全提示",
+        "onboard_time": 1765274722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421327,
+        "num": 271861,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169233,
+        "num": 266780,
+        "word": "泡泡玛特4个月跌近44%",
+        "onboard_time": 1765274003,
+        "rank": 4,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 264156,
+        "num": 264156,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 264066,
+        "word": "辽宁丹东有人疑在江边放生大米",
+        "onboard_time": 1765272683,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183159,
+        "num": 262058,
+        "word": "风与潮",
+        "onboard_time": 1765284561,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 261074,
+        "word": "2026考研",
+        "onboard_time": 1765274902,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111676,
+        "num": 260097,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1411210,
+        "num": 258789,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573230,
+        "num": 256785,
+        "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+        "onboard_time": 1765283122,
+        "rank": 11,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 536386,
+        "num": 255138,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421096,
+        "num": 255030,
+        "word": "阿娇卸妆只卸掉了灰尘",
+        "onboard_time": 1765280181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328739,
+        "num": 253186,
+        "word": "张凌赫妈妈好像周雨彤",
+        "onboard_time": 1765280242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323670,
+        "num": 251824,
+        "word": "狙击蝴蝶 最佳改编原著奖",
+        "onboard_time": 1765284503,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251193,
+        "num": 251193,
+        "word": "在英国被杀害留学生曾担心感染性病",
+        "onboard_time": 1765278082,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206256,
+        "num": 206256,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 185901,
+        "num": 185901,
+        "word": "邱贻可首次公开回应质疑",
+        "onboard_time": 1765286723,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183641,
+        "num": 183641,
+        "word": "王飞教授意外离世",
+        "onboard_time": 1765279161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587740,
+        "num": 183570,
+        "word": "陈妍希婚后住在内地一直在带孩子",
+        "onboard_time": 1765279702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432213,
+        "num": 181380,
+        "word": "将门毒后",
+        "onboard_time": 1765285822,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303684,
+        "num": 179640,
+        "word": "B站回应被黄杨钿甜起诉",
+        "onboard_time": 1765280001,
+        "rank": 22,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 287090,
+        "num": 178539,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249206,
+        "num": 176564,
+        "word": "不二之臣吻戏给我看脸红了",
+        "onboard_time": 1765287202,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176287,
+        "num": 176287,
+        "word": "鹅厂2025年押宝剧集体翻车",
+        "onboard_time": 1765286544,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126069,
+        "num": 173954,
+        "word": "琉球归属问题被迫无限期搁置",
+        "onboard_time": 1765272142,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173267,
+        "num": 173267,
+        "word": "偶遇素颜的刘亦菲",
+        "onboard_time": 1765281801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168249,
+        "num": 168249,
+        "word": "眼里没光 眼里有光",
+        "onboard_time": 1765286783,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155403,
+        "num": 155403,
+        "word": "张继科说樊振东的球拍要回收",
+        "onboard_time": 1765283841,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153114,
+        "num": 153114,
+        "word": "2025四大平台扑剧盘点",
+        "onboard_time": 1765284503,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "杭州集中供暖要来了",
+        "onboard_time": 1765285883,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145198,
+        "num": 145198,
+        "word": "星光大赏入场券",
+        "onboard_time": 1765278261,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144689,
+        "num": 144689,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 33,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 126086,
+        "num": 126086,
+        "word": "中国女博士生和女儿遇害现场有斧头",
+        "onboard_time": 1765278982,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 126043,
+        "word": "伴舞看虞书欣的眼神",
+        "onboard_time": 1765278321,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124219,
+        "num": 124219,
+        "word": "陆虎 烂人带给误会王栎鑫的人",
+        "onboard_time": 1765282762,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121693,
+        "num": 121693,
+        "word": "北冥有鱼竟然是真的",
+        "onboard_time": 1765270764,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 75169,
+        "num": 120011,
+        "word": "金昊被判死刑足见婚姻不是免死金牌",
+        "onboard_time": 1765287442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29829,
+        "num": 119332,
+        "word": "英政府禁用tiktok但首相却开通使用",
+        "onboard_time": 1765287083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25395,
+        "num": 119072,
+        "word": "香港火灾严重伤者均已转为稳定",
+        "onboard_time": 1765285161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118873,
+        "num": 118873,
+        "word": "水银温度计的平替长这样",
+        "onboard_time": 1765281023,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116323,
+        "num": 116323,
+        "word": "余承东说2025年关键词是成长",
+        "onboard_time": 1765287083,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112241,
+        "num": 112241,
+        "word": "山姆超市金柑里吃出蠕动活虫",
+        "onboard_time": 1765278022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108298,
+        "num": 108298,
+        "word": "中国女博士生和女儿遭外籍丈夫杀害",
+        "onboard_time": 1765279941,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106675,
+        "num": 106675,
+        "word": "肖战你也有今天",
+        "onboard_time": 1765282702,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94937,
+        "num": 106661,
+        "word": "潘宏狗市救狗",
+        "onboard_time": 1765281142,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93981,
+        "num": 106655,
+        "word": "一块面包的价格不该超过15元",
+        "onboard_time": 1765284263,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90172,
+        "num": 106640,
+        "word": "RW对战TCG",
+        "onboard_time": 1765287623,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86302,
+        "num": 106624,
+        "word": "濮存昕外孙女出道",
+        "onboard_time": 1765266803,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}
