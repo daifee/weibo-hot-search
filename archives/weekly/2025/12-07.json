@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765320123351,
+  "endTime": 1765322845731,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2803,6 +2803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 235316,
+      "num": 235316,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235227,
       "num": 235227,
       "word": "韩泰等国发力承接中国游客",
@@ -2865,14 +2873,6 @@
       "onboard_time": 1765149497,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228865,
-      "num": 175925,
-      "word": "本科毕业4年26岁研究员成浙大博导",
-      "onboard_time": 1765296381,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228812,
@@ -3147,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210473,
+      "num": 128770,
+      "word": "短剧可以不要虐待老人吗",
+      "onboard_time": 1765303216,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209745,
       "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
@@ -3296,6 +3304,14 @@
       "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
       "onboard_time": 1765027466,
       "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 205085,
+      "num": 152936,
+      "word": "中国女博士生和女儿遇害现场有斧头",
+      "onboard_time": 1765278982,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -3929,6 +3945,14 @@
       "onboard_time": 1765251083,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175632,
+      "num": 175632,
+      "word": "水银温度计的平替长这样",
+      "onboard_time": 1765281023,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175238,
@@ -4571,14 +4595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152936,
-      "num": 152936,
-      "word": "中国女博士生和女儿遇害现场有斧头",
-      "onboard_time": 1765278982,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "得闲谨制打破9项影史纪录",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1765180581,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145498,
+      "num": 127085,
+      "word": "我对买不起的东西就这样",
+      "onboard_time": 1765301955,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 145298,
@@ -6251,14 +6275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118873,
-      "num": 144716,
-      "word": "水银温度计的平替长这样",
-      "onboard_time": 1765281023,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118871,
       "num": 118871,
       "word": "阿凡达3",
@@ -6641,14 +6657,6 @@
       "onboard_time": 1765112362,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114059,
-      "num": 59237,
-      "word": "短剧可以不要虐待老人吗",
-      "onboard_time": 1765303216,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 113772,
@@ -7411,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104888,
+      "num": 131033,
+      "word": "邱贻可说和孙颖莎都哭了",
+      "onboard_time": 1765322058,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104548,
       "num": 104548,
       "word": "研究表明生病的蚂蚁会主动求死",
@@ -7939,6 +7955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95919,
+      "num": 79346,
+      "word": "她不是精神小妹是一位伟大的母亲",
+      "onboard_time": 1765316054,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95827,
       "num": 95827,
       "word": "雪中悍刀行动画大雪海报",
@@ -8041,6 +8065,14 @@
       "onboard_time": 1765284263,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93927,
+      "num": 200929,
+      "word": "欧冠联赛",
+      "onboard_time": 1765320076,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93913,
@@ -8707,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79452,
+      "num": 79452,
+      "word": "马嘉祺 热血漫",
+      "onboard_time": 1765322118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79435,
       "num": 99242,
       "word": "杨瀚森婉拒给首发表现打分",
@@ -8907,14 +8947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 72166,
-      "num": 59009,
-      "word": "我对买不起的东西就这样",
-      "onboard_time": 1765301955,
-      "rank": 17,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 71958,
       "num": 206636,
       "word": "杭州野生动物园黑熊突然袭击饲养员",
@@ -8955,12 +8987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70529,
+      "num": 70529,
+      "word": "百万网红帮家乡带货被妇联邀请发言",
+      "onboard_time": 1765322178,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70472,
       "num": 73056,
       "word": "身上肉软其实就是体脂率高",
       "onboard_time": 1765102880,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70336,
+      "num": 70336,
+      "word": "宋茜剪完头发怎么变这么拘谨",
+      "onboard_time": 1765319896,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 70319,
@@ -9081,6 +9129,14 @@
       "onboard_time": 1765257021,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 65440,
+      "num": 65440,
+      "word": "李现澳门扫街被路人警告删掉照片",
+      "onboard_time": 1765307414,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 65210,
@@ -9257,6 +9313,14 @@
       "onboard_time": 1765292663,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60545,
+      "num": 50891,
+      "word": "原来真的有脏的立起来这个概念",
+      "onboard_time": 1765304416,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 60201,
@@ -9531,14 +9595,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52204,
-      "num": 35686,
-      "word": "她不是精神小妹是一位伟大的母亲",
-      "onboard_time": 1765316054,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51639,
       "num": 51639,
       "word": "三只小狗出去玩捡了只小猫回来",
@@ -9641,6 +9697,14 @@
       "onboard_time": 1765279401,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50385,
+      "num": 50385,
+      "word": "男孩在校被打掉两颗门牙家长讨说法",
+      "onboard_time": 1765322657,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50275,
@@ -9763,6 +9827,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 48149,
+      "num": 48149,
+      "word": "日方自动进入中方雷达搜索范围",
+      "onboard_time": 1765322058,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48003,
       "num": 119058,
       "word": "鹤岗的房子正在悄悄涨价",
@@ -9777,6 +9849,14 @@
       "onboard_time": 1765192221,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47212,
+      "num": 47212,
+      "word": "濮存昕外孙女拍戏被劝去试别的行业",
+      "onboard_time": 1765322239,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 47039,
@@ -9955,6 +10035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43474,
+      "num": 43474,
+      "word": "高市早苗面无表情道歉",
+      "onboard_time": 1765322778,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43414,
       "num": 159855,
       "word": "喜茶加料升杯彩蛋可备注不升级",
@@ -9987,12 +10075,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 42512,
+      "num": 42512,
+      "word": "杜海涛回应快乐家族除了他共用一张脸",
+      "onboard_time": 1765322778,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42169,
       "num": 167836,
       "word": "安徽一政务清单被指照搬人名库",
       "onboard_time": 1765160421,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41923,
+      "num": 41923,
+      "word": "赵丽颖造城者更名小城大事",
+      "onboard_time": 1765320495,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 41895,
@@ -10113,6 +10217,14 @@
       "onboard_time": 1765113081,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38719,
+      "num": 96887,
+      "word": "男孩在校被打掉门牙",
+      "onboard_time": 1765301057,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38153,
@@ -10267,6 +10379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34450,
+      "num": 42612,
+      "word": "万宁叔否认整容",
+      "onboard_time": 1765302675,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33883,
       "num": 128487,
       "word": "被孙颖莎帅到了",
@@ -10280,14 +10400,6 @@
       "word": "年轻人开始流行雇人秒回消息",
       "onboard_time": 1765272262,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33556,
-      "num": 96887,
-      "word": "男孩在校被打掉门牙",
-      "onboard_time": 1765301057,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -10393,6 +10505,22 @@
       "onboard_time": 1765113982,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32255,
+      "num": 37533,
+      "word": "孙兴慜遭前女友敲诈案",
+      "onboard_time": 1765311374,
+      "rank": 42,
+      "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 31958,
+      "num": 37525,
+      "word": "iPhone的长按键你可能并不会用",
+      "onboard_time": 1765307955,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 31744,
@@ -10563,14 +10691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27552,
-      "num": 42478,
-      "word": "原来真的有脏的立起来这个概念",
-      "onboard_time": 1765304416,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27493,
       "num": 61282,
       "word": "2025年度时尚封面人物",
@@ -10617,14 +10737,6 @@
       "onboard_time": 1765070961,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26463,
-      "num": 33635,
-      "word": "李现澳门扫街被路人警告删掉照片",
-      "onboard_time": 1765307414,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 26147,
@@ -10721,14 +10833,6 @@
       "onboard_time": 1765192281,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 24222,
-      "num": 42612,
-      "word": "万宁叔否认整容",
-      "onboard_time": 1765302675,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 23964,
@@ -10931,14 +11035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19732,
-      "num": 33554,
-      "word": "iPhone的长按键你可能并不会用",
-      "onboard_time": 1765307955,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 19689,
       "num": 75578,
       "word": "写生至少得写吧",
@@ -10977,14 +11073,6 @@
       "onboard_time": 1765185622,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 18945,
-      "num": 33552,
-      "word": "孙兴慜遭前女友敲诈案",
-      "onboard_time": 1765311374,
-      "rank": 42,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 18851,
@@ -11073,22 +11161,6 @@
       "onboard_time": 1765313714,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17062,
-      "num": 33547,
-      "word": "欧冠联赛",
-      "onboard_time": 1765320076,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17047,
-      "num": 33547,
-      "word": "宋茜剪完头发怎么变这么拘谨",
-      "onboard_time": 1765319896,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 16997,
