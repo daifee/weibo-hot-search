@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765305439436,
+  "endTime": 1765306306885,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -6987,6 +6987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 110219,
+      "num": 42993,
+      "word": "陈泽",
+      "onboard_time": 1765304655,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110146,
       "num": 110146,
       "word": "卓沅直播",
@@ -8907,14 +8915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71912,
-      "num": 42993,
-      "word": "陈泽",
-      "onboard_time": 1765304655,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 71760,
       "num": 71760,
       "word": "伦敦希思罗机场发生紧急事件",
@@ -10083,20 +10083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39409,
+      "num": 42715,
+      "word": "我对买不起的东西就这样",
+      "onboard_time": 1765301955,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 39217,
       "num": 127754,
       "word": "仅退款225件女子被曝有同伙",
       "onboard_time": 1765182500,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39163,
-      "num": 42715,
-      "word": "我对买不起的东西就这样",
-      "onboard_time": 1765301955,
-      "rank": 17,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 38831,
@@ -10643,6 +10643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25251,
+      "num": 42478,
+      "word": "原来真的有脏的立起来这个概念",
+      "onboard_time": 1765304416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25040,
+      "num": 44431,
+      "word": "电影狂野时代",
+      "onboard_time": 1765304775,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25002,
       "num": 112817,
       "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
@@ -10673,14 +10689,6 @@
       "onboard_time": 1765192281,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 24238,
-      "num": 44431,
-      "word": "电影狂野时代",
-      "onboard_time": 1765304775,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 24222,
@@ -10835,14 +10843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20620,
-      "num": 42478,
-      "word": "原来真的有脏的立起来这个概念",
-      "onboard_time": 1765304416,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20556,
       "num": 902531,
       "word": "中国航天又一次成功发射",
@@ -10995,12 +10995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17713,
+      "num": 36476,
+      "word": "韩总统府批驳高市涉韩日领土争议发言",
+      "onboard_time": 1765305315,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17618,
       "num": 44069,
       "word": "世界杯抽签仪式",
       "onboard_time": 1765050974,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17587,
+      "num": 36476,
+      "word": "空枪 我爱你主演合体",
+      "onboard_time": 1765306036,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 16997,

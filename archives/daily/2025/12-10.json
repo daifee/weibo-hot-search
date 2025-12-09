@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765305439436,
+  "endTime": 1765306306885,
   "band_list": [
     {
       "raw_hot": 1014047,
@@ -113,6 +113,14 @@
       "onboard_time": 1765303216,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110219,
+      "num": 42993,
+      "word": "陈泽",
+      "onboard_time": 1765304655,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 103167,
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71912,
-      "num": 42993,
-      "word": "陈泽",
-      "onboard_time": 1765304655,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 63716,
       "num": 96785,
       "word": "以为是故人之姿真故人之子",
@@ -427,7 +427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39163,
+      "raw_hot": 39409,
       "num": 42715,
       "word": "我对买不起的东西就这样",
       "onboard_time": 1765301955,
@@ -475,7 +475,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24238,
+      "raw_hot": 25251,
+      "num": 42478,
+      "word": "原来真的有脏的立起来这个概念",
+      "onboard_time": 1765304416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25040,
       "num": 44431,
       "word": "电影狂野时代",
       "onboard_time": 1765304775,
@@ -515,12 +523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 20620,
-      "num": 42478,
-      "word": "原来真的有脏的立起来这个概念",
-      "onboard_time": 1765304416,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 17713,
+      "num": 36476,
+      "word": "韩总统府批驳高市涉韩日领土争议发言",
+      "onboard_time": 1765305315,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17587,
+      "num": 36476,
+      "word": "空枪 我爱你主演合体",
+      "onboard_time": 1765306036,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 14505,
