@@ -1,0 +1,410 @@
+{
+  "runTime": 1765295097185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 698863,
+        "num": 1111818,
+        "word": "韩国硬刚高市早苗",
+        "onboard_time": 1765291884,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429508,
+        "num": 429508,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2624,
+        "num": 428972,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210222,
+        "num": 428709,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101230,
+        "num": 428079,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298880,
+        "num": 427231,
+        "word": "邱贻可首次公开回应质疑",
+        "onboard_time": 1765286723,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154225,
+        "num": 426851,
+        "word": "王俊凯话剧",
+        "onboard_time": 1765287984,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 425910,
+        "word": "音频实证日本有意滋扰中方训练",
+        "onboard_time": 1765285161,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76373,
+        "num": 425290,
+        "word": "360行快成3600行了",
+        "onboard_time": 1765292365,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178640,
+        "num": 424597,
+        "word": "不二之臣吻戏给我看脸红了",
+        "onboard_time": 1765287202,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1652349,
+        "num": 423831,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838200,
+        "num": 423560,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55911,
+        "num": 422735,
+        "word": "中科曙光终止重大资产重组",
+        "onboard_time": 1765290743,
+        "rank": 12,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 157775,
+        "num": 421895,
+        "word": "被白嫖家教的清华小伙已收到课时费",
+        "onboard_time": 1765287984,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421805,
+        "num": 421805,
+        "word": "怀孕或使女性衰老超5岁",
+        "onboard_time": 1765291643,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 399378,
+        "num": 399378,
+        "word": "万宁叔整容",
+        "onboard_time": 1765287923,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288066,
+        "num": 288066,
+        "word": "李鸿其哭着感谢太太王紫璇",
+        "onboard_time": 1765291044,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152897,
+        "num": 235539,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 131387,
+        "num": 224656,
+        "word": "中日双方军舰通信录音公布",
+        "onboard_time": 1765292184,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216338,
+        "num": 216338,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191579,
+        "num": 191579,
+        "word": "王橹杰贝雷帽比心照",
+        "onboard_time": 1765293921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123645,
+        "num": 169714,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159567,
+        "num": 159567,
+        "word": "阿娇卸妆只卸掉了灰尘",
+        "onboard_time": 1765280181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "以为是故人之姿真故人之子",
+        "onboard_time": 1765288404,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121259,
+        "num": 154626,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "眼里没光 眼里有光",
+        "onboard_time": 1765286783,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140748,
+        "num": 140748,
+        "word": "将门毒后",
+        "onboard_time": 1765285822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139183,
+        "num": 139183,
+        "word": "陈妍希婚后住在内地一直在带孩子",
+        "onboard_time": 1765279702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 134596,
+        "word": "水银温度计的平替长这样",
+        "onboard_time": 1765281023,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93849,
+        "num": 133748,
+        "word": "为什么建议35岁就开始控糖",
+        "onboard_time": 1765291524,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "得闲谨制一星高赞ip是海外",
+        "onboard_time": 1765291764,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119733,
+        "num": 119733,
+        "word": "佟丽娅严浩翔看王俊凯话剧",
+        "onboard_time": 1765292246,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83162,
+        "num": 115968,
+        "word": "中方多机型现身东海太平洋西部空域",
+        "onboard_time": 1765292663,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115794,
+        "num": 115794,
+        "word": "星光大赏入场券",
+        "onboard_time": 1765278261,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92244,
+        "num": 105925,
+        "word": "圣诞帽头像",
+        "onboard_time": 1765288043,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 97481,
+        "num": 97481,
+        "word": "伴舞看虞书欣的眼神",
+        "onboard_time": 1765278321,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95984,
+        "num": 95984,
+        "word": "狙击蝴蝶 分手复合在同一集",
+        "onboard_time": 1765294222,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80196,
+        "num": 94233,
+        "word": "TheShy谈重返赛场",
+        "onboard_time": 1765292964,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79271,
+        "num": 93231,
+        "word": "美防长说忽视中国军力愚蠢且失敬",
+        "onboard_time": 1765292484,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73296,
+        "num": 92772,
+        "word": "皮皮限停播",
+        "onboard_time": 1765290445,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92729,
+        "num": 92729,
+        "word": "风与潮热度",
+        "onboard_time": 1765294702,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88563,
+        "num": 88563,
+        "word": "狙击蝴蝶 最佳改编原著奖",
+        "onboard_time": 1765284503,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72534,
+        "num": 88322,
+        "word": "中国女博士生和女儿遭外籍丈夫杀害",
+        "onboard_time": 1765279941,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88118,
+        "num": 88118,
+        "word": "鹅厂2025年押宝剧集体翻车",
+        "onboard_time": 1765286544,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45416,
+        "num": 87644,
+        "word": "灌面汤杀妻案凶手认罪认罚",
+        "onboard_time": 1765293682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87517,
+        "num": 87517,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 45,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 87083,
+        "num": 87083,
+        "word": "范丞丞 三角洲",
+        "onboard_time": 1765293262,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 66344,
+        "num": 86723,
+        "word": "00后喜欢的游戏",
+        "onboard_time": 1765290863,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65335,
+        "num": 86036,
+        "word": "杭州集中供暖要来了",
+        "onboard_time": 1765285883,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61803,
+        "num": 85416,
+        "word": "郑钦文入围澳网单打正赛",
+        "onboard_time": 1765294882,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
