@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765237219244,
+  "endTime": 1765245785446,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8214866,
+      "num": 8214866,
+      "word": "蓝战非称被绑架",
+      "onboard_time": 1765242623,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 8210554,
       "num": 8210554,
       "word": "金秀贤和未成年金赛纶约会视频",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1757571163,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6469656,
-      "num": 6469656,
-      "word": "江一燕离婚",
-      "onboard_time": 1761799282,
-      "rank": 33,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
