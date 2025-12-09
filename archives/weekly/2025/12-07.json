@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765306306885,
+  "endTime": 1765308105504,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -9787,6 +9787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46107,
+      "num": 42715,
+      "word": "我对买不起的东西就这样",
+      "onboard_time": 1765301955,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 46099,
       "num": 46099,
       "word": "许昕说松岛辉空要罚站",
@@ -10081,14 +10089,6 @@
       "onboard_time": 1765289664,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39409,
-      "num": 42715,
-      "word": "我对买不起的东西就这样",
-      "onboard_time": 1765301955,
-      "rank": 17,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 39217,
@@ -10571,6 +10571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27194,
+      "num": 42478,
+      "word": "原来真的有脏的立起来这个概念",
+      "onboard_time": 1765304416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26926,
       "num": 197082,
       "word": "为救患病孩子父母寒风中直播跳舞",
@@ -10635,28 +10643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25581,
+      "num": 44431,
+      "word": "电影狂野时代",
+      "onboard_time": 1765304775,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25395,
       "num": 211397,
       "word": "香港火灾严重伤者均已转为稳定",
       "onboard_time": 1765285161,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25251,
-      "num": 42478,
-      "word": "原来真的有脏的立起来这个概念",
-      "onboard_time": 1765304416,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 25040,
-      "num": 44431,
-      "word": "电影狂野时代",
-      "onboard_time": 1765304775,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 25002,
@@ -11083,12 +11083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15324,
+      "num": 26346,
+      "word": "李现澳门扫街被路人警告删掉照片",
+      "onboard_time": 1765307414,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15306,
       "num": 196644,
       "word": "日本军国主义已成全球麻烦制造者",
       "onboard_time": 1765254385,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14573,
+      "num": 26341,
+      "word": "iPhone的长按键你可能并不会用",
+      "onboard_time": 1765307955,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 14505,
