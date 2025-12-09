@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765322845731,
+  "endTime": 1765323560451,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -249,6 +249,14 @@
       "onboard_time": 1765185201,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1053429,
+      "num": 103451,
+      "word": "金晨把腿放到黄景瑜腿上",
+      "onboard_time": 1765322899,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1050619,
@@ -2403,6 +2411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278209,
+      "num": 278209,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276879,
       "num": 276879,
       "word": "李现 奖杯烫手",
@@ -2803,14 +2819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 235316,
-      "num": 235316,
-      "word": "本科毕业4年26岁研究员成浙大博导",
-      "onboard_time": 1765296381,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235227,
       "num": 235227,
       "word": "韩泰等国发力承接中国游客",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1765029984,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221565,
+      "num": 136654,
+      "word": "短剧可以不要虐待老人吗",
+      "onboard_time": 1765303216,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 220539,
@@ -3147,14 +3163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210473,
-      "num": 128770,
-      "word": "短剧可以不要虐待老人吗",
-      "onboard_time": 1765303216,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209745,
       "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1765183340,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205927,
+      "num": 205927,
+      "word": "水银温度计的平替长这样",
+      "onboard_time": 1765281023,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205639,
@@ -3947,14 +3963,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 175632,
-      "num": 175632,
-      "word": "水银温度计的平替长这样",
-      "onboard_time": 1765281023,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "把镜给无畏玩",
@@ -4569,6 +4577,14 @@
       "onboard_time": 1765116023,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153334,
+      "num": 64407,
+      "word": "高市早苗面无表情道歉",
+      "onboard_time": 1765322778,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153256,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1765159038,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137315,
+      "num": 137315,
+      "word": "邱贻可说和孙颖莎都哭了",
+      "onboard_time": 1765322058,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 136749,
@@ -6555,6 +6579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115299,
+      "num": 103254,
+      "word": "她不是精神小妹是一位伟大的母亲",
+      "onboard_time": 1765316054,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115178,
       "num": 115178,
       "word": "1178名中国籍涉诈人员被押解回国",
@@ -7323,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106074,
+      "num": 221442,
+      "word": "欧冠联赛",
+      "onboard_time": 1765320076,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105783,
       "num": 164327,
       "word": "雷军转发小米安全辅助驾驶实测",
@@ -7416,14 +7456,6 @@
       "word": "张家齐称每次比赛都碰上生理期",
       "onboard_time": 1765276703,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104888,
-      "num": 131033,
-      "word": "邱贻可说和孙颖莎都哭了",
-      "onboard_time": 1765322058,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -7593,6 +7625,14 @@
       "onboard_time": 1765119743,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101883,
+      "num": 101883,
+      "word": "百万网红帮家乡带货被妇联邀请发言",
+      "onboard_time": 1765322178,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101789,
@@ -7955,14 +7995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95919,
-      "num": 79346,
-      "word": "她不是精神小妹是一位伟大的母亲",
-      "onboard_time": 1765316054,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95827,
       "num": 95827,
       "word": "雪中悍刀行动画大雪海报",
@@ -8065,14 +8097,6 @@
       "onboard_time": 1765284263,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93927,
-      "num": 200929,
-      "word": "欧冠联赛",
-      "onboard_time": 1765320076,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 93913,
@@ -8740,7 +8764,7 @@
     },
     {
       "raw_hot": 79452,
-      "num": 79452,
+      "num": 85001,
       "word": "马嘉祺 热血漫",
       "onboard_time": 1765322118,
       "rank": 19,
@@ -8867,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75267,
+      "num": 63838,
+      "word": "濮存昕外孙女拍戏被劝去试别的行业",
+      "onboard_time": 1765322239,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75206,
       "num": 75206,
       "word": "得闲谨制 台词里的高级隐喻",
@@ -8913,6 +8945,14 @@
       "onboard_time": 1765222634,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74333,
+      "num": 74333,
+      "word": "日方自动进入中方雷达搜索范围",
+      "onboard_time": 1765322058,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74048,
@@ -8987,14 +9027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70529,
-      "num": 70529,
-      "word": "百万网红帮家乡带货被妇联邀请发言",
-      "onboard_time": 1765322178,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70472,
       "num": 73056,
       "word": "身上肉软其实就是体脂率高",
@@ -9043,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69151,
+      "num": 69151,
+      "word": "李现澳门扫街被路人警告删掉照片",
+      "onboard_time": 1765307414,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69016,
       "num": 69016,
       "word": "又一全国比赛获奖名单批量复制姓名",
@@ -9080,6 +9120,14 @@
       "word": "尔滨雪人先生即将上线",
       "onboard_time": 1765165581,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67839,
+      "num": 67839,
+      "word": "男孩在校被打掉两颗门牙家长讨说法",
+      "onboard_time": 1765322657,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -9129,14 +9177,6 @@
       "onboard_time": 1765257021,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 65440,
-      "num": 65440,
-      "word": "李现澳门扫街被路人警告删掉照片",
-      "onboard_time": 1765307414,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 65210,
@@ -9316,7 +9356,7 @@
     },
     {
       "raw_hot": 60545,
-      "num": 50891,
+      "num": 52289,
       "word": "原来真的有脏的立起来这个概念",
       "onboard_time": 1765304416,
       "rank": 43,
@@ -9337,6 +9377,14 @@
       "onboard_time": 1765029804,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59871,
+      "num": 59871,
+      "word": "唐山地震",
+      "onboard_time": 1765322958,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 59607,
@@ -9555,6 +9603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52918,
+      "num": 52918,
+      "word": "内存条涨得比金条还快",
+      "onboard_time": 1765323078,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 52913,
+      "num": 52913,
+      "word": "赵丽颖造城者更名小城大事",
+      "onboard_time": 1765320495,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52691,
       "num": 217208,
       "word": "大风降温雨雪一股脑来了",
@@ -9593,6 +9657,14 @@
       "onboard_time": 1765237159,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52311,
+      "num": 52311,
+      "word": "果然文化工作者一定要有文化",
+      "onboard_time": 1765323078,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 51639,
@@ -9697,14 +9769,6 @@
       "onboard_time": 1765279401,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 50385,
-      "num": 50385,
-      "word": "男孩在校被打掉两颗门牙家长讨说法",
-      "onboard_time": 1765322657,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50275,
@@ -9827,14 +9891,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 48149,
-      "num": 48149,
-      "word": "日方自动进入中方雷达搜索范围",
-      "onboard_time": 1765322058,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 48003,
       "num": 119058,
       "word": "鹤岗的房子正在悄悄涨价",
@@ -9849,14 +9905,6 @@
       "onboard_time": 1765192221,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47212,
-      "num": 47212,
-      "word": "濮存昕外孙女拍戏被劝去试别的行业",
-      "onboard_time": 1765322239,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 47039,
@@ -10003,6 +10051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44344,
+      "num": 52270,
+      "word": "沈腾王安宇范丞丞男人吃不了漂亮饭",
+      "onboard_time": 1765322899,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44320,
       "num": 113817,
       "word": "国外女子产下不同父亲的双胞胎",
@@ -10033,14 +10089,6 @@
       "onboard_time": 1765189641,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43474,
-      "num": 43474,
-      "word": "高市早苗面无表情道歉",
-      "onboard_time": 1765322778,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43414,
@@ -10083,20 +10131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42277,
+      "num": 52226,
+      "word": "终于有人能治杜海涛了",
+      "onboard_time": 1765323198,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42169,
       "num": 167836,
       "word": "安徽一政务清单被指照搬人名库",
       "onboard_time": 1765160421,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41923,
-      "num": 41923,
-      "word": "赵丽颖造城者更名小城大事",
-      "onboard_time": 1765320495,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 41895,
@@ -10227,6 +10275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38268,
+      "num": 52127,
+      "word": "方圆脸出片像呼吸一样简单",
+      "onboard_time": 1765323320,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 38153,
       "num": 117888,
       "word": "为了陈晓逛了次平遥",
@@ -10249,6 +10305,14 @@
       "onboard_time": 1765195581,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37597,
+      "num": 52107,
+      "word": "全村唯一去过迪厅的狗子出现了",
+      "onboard_time": 1765323258,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 37587,

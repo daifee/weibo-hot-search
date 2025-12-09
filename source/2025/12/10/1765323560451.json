@@ -1,0 +1,410 @@
+{
+  "runTime": 1765323560451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 531051,
+        "num": 910037,
+        "word": "韩国硬刚高市早苗",
+        "onboard_time": 1765291884,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336398,
+        "num": 336398,
+        "word": "得闲谨制",
+        "onboard_time": 1765315393,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1914,
+        "num": 306852,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278209,
+        "num": 278209,
+        "word": "本科毕业4年26岁研究员成浙大博导",
+        "onboard_time": 1765296381,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106074,
+        "num": 221442,
+        "word": "欧冠联赛",
+        "onboard_time": 1765320076,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205927,
+        "num": 205927,
+        "word": "水银温度计的平替长这样",
+        "onboard_time": 1765281023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204772,
+        "num": 204772,
+        "word": "邱贻可首次公开回应质疑",
+        "onboard_time": 1765286723,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150731,
+        "num": 150731,
+        "word": "中日双方军舰通信录音公布",
+        "onboard_time": 1765292184,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148807,
+        "num": 148807,
+        "word": "被白嫖家教的清华小伙已收到课时费",
+        "onboard_time": 1765287984,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137315,
+        "num": 137315,
+        "word": "邱贻可说和孙颖莎都哭了",
+        "onboard_time": 1765322058,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 885646,
+        "num": 137192,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265605,
+        "num": 136984,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221565,
+        "num": 136654,
+        "word": "短剧可以不要虐待老人吗",
+        "onboard_time": 1765303216,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 136570,
+        "word": "中国女博士生和女儿遇害现场有斧头",
+        "onboard_time": 1765278982,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144432,
+        "num": 136378,
+        "word": "怀孕或使女性衰老超5岁",
+        "onboard_time": 1765291643,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136182,
+        "num": 136182,
+        "word": "李鸿其哭着感谢太太王紫璇",
+        "onboard_time": 1765291044,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119602,
+        "num": 119602,
+        "word": "我对买不起的东西就这样",
+        "onboard_time": 1765301955,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 116416,
+        "num": 116416,
+        "word": "万宁叔整容",
+        "onboard_time": 1765287923,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107118,
+        "num": 107118,
+        "word": "在英国被杀害留学生曾担心感染性病",
+        "onboard_time": 1765278082,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75952,
+        "num": 104380,
+        "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+        "onboard_time": 1765283122,
+        "rank": 19,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 1053429,
+        "num": 103451,
+        "word": "金晨把腿放到黄景瑜腿上",
+        "onboard_time": 1765322899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115299,
+        "num": 103254,
+        "word": "她不是精神小妹是一位伟大的母亲",
+        "onboard_time": 1765316054,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101883,
+        "num": 101883,
+        "word": "百万网红帮家乡带货被妇联邀请发言",
+        "onboard_time": 1765322178,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74480,
+        "num": 85001,
+        "word": "马嘉祺 热血漫",
+        "onboard_time": 1765322118,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78232,
+        "num": 78232,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75128,
+        "num": 75128,
+        "word": "杭州集中供暖要来了",
+        "onboard_time": 1765285883,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74333,
+        "num": 74333,
+        "word": "日方自动进入中方雷达搜索范围",
+        "onboard_time": 1765322058,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69151,
+        "num": 69151,
+        "word": "李现澳门扫街被路人警告删掉照片",
+        "onboard_time": 1765307414,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67839,
+        "num": 67839,
+        "word": "男孩在校被打掉两颗门牙家长讨说法",
+        "onboard_time": 1765322657,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66003,
+        "num": 66003,
+        "word": "宋茜剪完头发怎么变这么拘谨",
+        "onboard_time": 1765319896,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153334,
+        "num": 64407,
+        "word": "高市早苗面无表情道歉",
+        "onboard_time": 1765322778,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75267,
+        "num": 63838,
+        "word": "濮存昕外孙女拍戏被劝去试别的行业",
+        "onboard_time": 1765322239,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62578,
+        "num": 62578,
+        "word": "以为是故人之姿真故人之子",
+        "onboard_time": 1765288404,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59871,
+        "num": 59871,
+        "word": "唐山地震",
+        "onboard_time": 1765322958,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53727,
+        "num": 53727,
+        "word": "鹅厂2025年押宝剧集体翻车",
+        "onboard_time": 1765286544,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52918,
+        "num": 52918,
+        "word": "内存条涨得比金条还快",
+        "onboard_time": 1765323078,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52913,
+        "num": 52913,
+        "word": "赵丽颖造城者更名小城大事",
+        "onboard_time": 1765320495,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52791,
+        "num": 52791,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52311,
+        "num": 52311,
+        "word": "果然文化工作者一定要有文化",
+        "onboard_time": 1765323078,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46019,
+        "num": 52289,
+        "word": "原来真的有脏的立起来这个概念",
+        "onboard_time": 1765304416,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44344,
+        "num": 52270,
+        "word": "沈腾王安宇范丞丞男人吃不了漂亮饭",
+        "onboard_time": 1765322899,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44190,
+        "num": 52241,
+        "word": "美防长说忽视中国军力愚蠢且失敬",
+        "onboard_time": 1765292484,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42277,
+        "num": 52226,
+        "word": "终于有人能治杜海涛了",
+        "onboard_time": 1765323198,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41847,
+        "num": 52212,
+        "word": "陈泽",
+        "onboard_time": 1765304655,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40681,
+        "num": 52171,
+        "word": "张凌赫妈妈好像周雨彤",
+        "onboard_time": 1765280242,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40096,
+        "num": 52167,
+        "word": "浙大回应26岁研究员任博导",
+        "onboard_time": 1765322778,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38268,
+        "num": 52127,
+        "word": "方圆脸出片像呼吸一样简单",
+        "onboard_time": 1765323320,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 37597,
+        "num": 52107,
+        "word": "全村唯一去过迪厅的狗子出现了",
+        "onboard_time": 1765323258,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37043,
+        "num": 52079,
+        "word": "偶遇素颜的刘亦菲",
+        "onboard_time": 1765281801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34944,
+        "num": 52072,
+        "word": "感到不顺时要丢掉3样东西",
+        "onboard_time": 1765295781,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
