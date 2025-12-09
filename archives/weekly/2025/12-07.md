@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/10 01:29:08
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/10 01:44:52
 </p>
 </blockquote>
 <p>
@@ -8045,6 +8045,12 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%E4%BA%86%E5%90%97%23" target="weibo">
 马克龙访华任务完成了吗（热度：22723）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%BD%912026%23" target="weibo">
+澳网2026（热度：22677）
 </a>
 </li>
 
