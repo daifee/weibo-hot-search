@@ -1,0 +1,410 @@
+{
+  "runTime": 1765270399284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 491272,
+        "num": 1078603,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276857,
+        "num": 1067708,
+        "word": "水银体温计血压计明年起禁产",
+        "onboard_time": 1765258102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4114,
+        "num": 971308,
+        "word": "一人一句为残特奥会运动员加油",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1294963,
+        "num": 930882,
+        "word": "小演员婉拒肖战三次亲吻",
+        "onboard_time": 1765266322,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234052,
+        "num": 885677,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213468,
+        "num": 829342,
+        "word": "梁家辉特意出演 惠英红亲情出演",
+        "onboard_time": 1765269085,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200296,
+        "num": 791979,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313235,
+        "num": 728794,
+        "word": "31岁中国女留学生遭美国男友杀害",
+        "onboard_time": 1765265001,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3242,
+        "num": 636272,
+        "word": "冰雪经济新玩法带动新消费",
+        "onboard_time": 1765190542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26551,
+        "num": 625794,
+        "word": "小米三款新车齐曝光",
+        "onboard_time": 1765241063,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2764350,
+        "num": 521999,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515383,
+        "num": 515383,
+        "word": "医生禁止把玩患者",
+        "onboard_time": 1765264641,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51512,
+        "num": 483316,
+        "word": "WYG对战JDG",
+        "onboard_time": 1765262721,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 457171,
+        "word": "外交部回应美批准向中国出售H200",
+        "onboard_time": 1765270104,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454491,
+        "num": 454491,
+        "word": "濮存昕外孙女出道",
+        "onboard_time": 1765266803,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403134,
+        "num": 403134,
+        "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+        "onboard_time": 1765266082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398090,
+        "num": 398090,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 327837,
+        "num": 327837,
+        "word": "95花格局大洗牌",
+        "onboard_time": 1765266622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302109,
+        "num": 302109,
+        "word": "网传小洛熙爸爸失业",
+        "onboard_time": 1765267103,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80304,
+        "num": 301803,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 644540,
+        "num": 301666,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488521,
+        "num": 300821,
+        "word": "金昊杀妻案发卧室卫生间留有血渍",
+        "onboard_time": 1765262362,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330989,
+        "num": 300577,
+        "word": "陈妍希 谣言",
+        "onboard_time": 1765264641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16446,
+        "num": 300194,
+        "word": "中方回应没有接听日方热线电话",
+        "onboard_time": 1765270163,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299926,
+        "num": 299926,
+        "word": "陈意涵在邱泽婚礼上大哭",
+        "onboard_time": 1765268843,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241086,
+        "num": 241086,
+        "word": "史铁生曾开导过14岁的马思纯",
+        "onboard_time": 1765267283,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235096,
+        "num": 235096,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181913,
+        "num": 181913,
+        "word": "痞幼上恋综错过朋友婚礼哭了",
+        "onboard_time": 1765267402,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120826,
+        "num": 180290,
+        "word": "余承东官宣尚界首款轿跑明年上市",
+        "onboard_time": 1765269263,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179975,
+        "num": 179975,
+        "word": "金昊婚后第13天就家暴妻子",
+        "onboard_time": 1765256063,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170416,
+        "num": 170416,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "空枪檀健次特别主演",
+        "onboard_time": 1765266501,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 157037,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1765264700,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147336,
+        "num": 156219,
+        "word": "百色性侵案老师翻供否认强奸女学生",
+        "onboard_time": 1765262061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141247,
+        "num": 156067,
+        "word": "狗尴尬的时候也会假装很忙",
+        "onboard_time": 1765269923,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "电影空枪官宣部分阵容",
+        "onboard_time": 1765263981,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151033,
+        "num": 151033,
+        "word": "奚梦瑶何猷君手牵手逛街",
+        "onboard_time": 1765266862,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144219,
+        "num": 144219,
+        "word": "清融C麻了",
+        "onboard_time": 1765269323,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32638,
+        "num": 137292,
+        "word": "男子带老婆买糖葫芦被认成父女",
+        "onboard_time": 1765269683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30060,
+        "num": 136533,
+        "word": "非全日制陶喆 劳务派遣胡彦斌",
+        "onboard_time": 1765269383,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136407,
+        "num": 136407,
+        "word": "尼非法摘取器官场所现100多具尸体",
+        "onboard_time": 1765266983,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70489,
+        "num": 116273,
+        "word": "苏炳添退役",
+        "onboard_time": 1765246701,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93055,
+        "num": 115739,
+        "word": "你点的三家外卖可能出自同一口锅",
+        "onboard_time": 1765268183,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138630,
+        "num": 115709,
+        "word": "曝iG签下Lime",
+        "onboard_time": 1765269623,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115569,
+        "num": 115569,
+        "word": "深圳一山姆麻薯盒出现活老鼠",
+        "onboard_time": 1765255943,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114487,
+        "num": 114487,
+        "word": "重庆警方通报温泉酒店偷拍事件",
+        "onboard_time": 1765269803,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109023,
+        "num": 109023,
+        "word": "原来衣服真的会脏得立起来",
+        "onboard_time": 1765265422,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 107572,
+        "num": 107572,
+        "word": "星光大赏割韭菜",
+        "onboard_time": 1765262424,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107424,
+        "num": 107424,
+        "word": "感谢得闲谨制给我报的语文课",
+        "onboard_time": 1765270284,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98627,
+        "num": 102007,
+        "word": "打碎水银体温计需通风一个月",
+        "onboard_time": 1765269085,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个坚持为明年经济工作指明方向#"
+    }
+  }
+}
