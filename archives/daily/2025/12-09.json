@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765276430614,
+  "endTime": 1765277344458,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640303,
+      "num": 239425,
+      "word": "使馆人员带蓝战非到安全屋",
+      "onboard_time": 1765275141,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 637342,
       "num": 488238,
       "word": "偶像练习生 蹭冷度",
       "onboard_time": 1765256783,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601110,
+      "num": 1096177,
+      "word": "山姆致歉",
+      "onboard_time": 1765274961,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588262,
@@ -233,14 +249,6 @@
       "onboard_time": 1765271302,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 549288,
-      "num": 141112,
-      "word": "使馆人员带蓝战非到安全屋",
-      "onboard_time": 1765275141,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 539265,
@@ -643,7 +651,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268338,
+      "raw_hot": 268696,
       "num": 952647,
       "word": "仅退款225个快递女子已归案",
       "onboard_time": 1765271002,
@@ -699,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252506,
-      "num": 252506,
-      "word": "山姆致歉",
-      "onboard_time": 1765274961,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245468,
       "num": 245468,
       "word": "命真好头胎生了个月嫂",
@@ -720,6 +720,14 @@
       "word": "丈夫帮剖宫产妻子换药",
       "onboard_time": 1765240944,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236781,
+      "num": 236781,
+      "word": "辽宁丹东有人疑在江边放生大米",
+      "onboard_time": 1765272683,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -771,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215976,
-      "num": 215976,
-      "word": "辽宁丹东有人疑在江边放生大米",
-      "onboard_time": 1765272683,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213566,
       "num": 251652,
       "word": "余承东官宣首款MPV命名为智界V9",
@@ -825,6 +825,14 @@
       "onboard_time": 1765248622,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207445,
+      "num": 207445,
+      "word": "檀健次空枪里的实弹",
+      "onboard_time": 1765276823,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 206741,
@@ -931,20 +939,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193458,
+      "num": 1060215,
+      "word": "泡泡玛特4个月跌近44%",
+      "onboard_time": 1765274003,
+      "rank": 1,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 191362,
       "num": 191362,
       "word": "成龙回应龙叔老了",
       "onboard_time": 1765271542,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190267,
-      "num": 1034610,
-      "word": "泡泡玛特4个月跌近44%",
-      "onboard_time": 1765274003,
-      "rank": 1,
-      "category": "财经,休闲"
     },
     {
       "raw_hot": 189882,
@@ -961,6 +969,14 @@
       "onboard_time": 1765255705,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184514,
+      "num": 184514,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765274541,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 184434,
@@ -1131,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157429,
-      "num": 157429,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765274541,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "南大教授称红楼梦索隐只是玩梗",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1765266983,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149334,
+      "num": 635981,
+      "word": "外交部建议日本记者去问问日本",
+      "onboard_time": 1765275141,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148729,
@@ -1464,6 +1480,14 @@
       "word": "26岁学者受聘浙大学习工作经历公布",
       "onboard_time": 1765263741,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127811,
+      "num": 127811,
+      "word": "男子灌面汤杀妻称只想让她服软",
+      "onboard_time": 1765273823,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1779,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110584,
+      "num": 110584,
+      "word": "韦雪太能吃苦了",
+      "onboard_time": 1765275861,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109846,
       "num": 174373,
       "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
@@ -1883,12 +1915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104317,
-      "num": 104317,
-      "word": "韦雪太能吃苦了",
-      "onboard_time": 1765275861,
-      "rank": 46,
-      "category": "网红"
+      "raw_hot": 104947,
+      "num": 104947,
+      "word": "张家齐称每次比赛都碰上生理期",
+      "onboard_time": 1765276703,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103471,
@@ -1932,7 +1964,7 @@
     },
     {
       "raw_hot": 101430,
-      "num": 101430,
+      "num": 132226,
       "word": "问界成为中国豪华汽车引领者",
       "onboard_time": 1765275202,
       "rank": 47,
@@ -1971,14 +2003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99765,
-      "num": 99765,
-      "word": "男子灌面汤杀妻称只想让她服软",
-      "onboard_time": 1765273823,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98321,
       "num": 98321,
       "word": "悬赏20万元通缉电诈人员",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1765205663,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95009,
+      "num": 103547,
+      "word": "王昭君偶像歌手星元海报",
+      "onboard_time": 1765276703,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 94655,
@@ -2195,14 +2227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79466,
-      "num": 635981,
-      "word": "外交部建议日本记者去问问日本",
-      "onboard_time": 1765275141,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 78943,
       "num": 96825,
       "word": "63岁的关之琳",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1765254504,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76625,
+      "num": 118912,
+      "word": "尹正新片撞脸太乙真人",
+      "onboard_time": 1765276282,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 74809,
@@ -2239,14 +2271,6 @@
       "num": 147030,
       "word": "得闲谨制莫得闲家的对联看破防了",
       "onboard_time": 1765272202,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 71450,
-      "num": 118912,
-      "word": "尹正新片撞脸太乙真人",
-      "onboard_time": 1765276282,
       "rank": 39,
       "category": "电影"
     },
@@ -2507,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47039,
+      "num": 118924,
+      "word": "王楚钦对球迷说谢谢",
+      "onboard_time": 1765276823,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45920,
       "num": 107687,
       "word": "女子自驾进猛兽区被老虎跟车咬掉漆",
@@ -2731,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28266,
+      "num": 119115,
+      "word": "百色性侵案老师拒不道歉",
+      "onboard_time": 1765276642,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27901,
       "num": 118248,
       "word": "游客拍下日本地震第一视角",
@@ -2779,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24839,
+      "num": 988018,
+      "word": "应急管理部发了9个冬季安全提示",
+      "onboard_time": 1765274722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24325,
       "num": 70325,
       "word": "台湾花莲海域发生5.1级地震",
@@ -2811,12 +2859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22728,
-      "num": 988018,
-      "word": "应急管理部发了9个冬季安全提示",
-      "onboard_time": 1765274722,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 22841,
+      "num": 249794,
+      "word": "俄乌双方都想拉拢特朗普女婿",
+      "onboard_time": 1765275622,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22236,
@@ -2841,6 +2889,22 @@
       "onboard_time": 1765246821,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21176,
+      "num": 718784,
+      "word": "今冬第一场雪来了",
+      "onboard_time": 1765243582,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20087,
+      "num": 118249,
+      "word": "女子高铁坐过站大喊服务员开车门",
+      "onboard_time": 1765277184,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19839,
@@ -2907,14 +2971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15293,
-      "num": 249794,
-      "word": "俄乌双方都想拉拢特朗普女婿",
-      "onboard_time": 1765275622,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13691,
       "num": 32392,
       "word": "日方颠倒黑白嫁祸于人别有用心",
@@ -2929,14 +2985,6 @@
       "onboard_time": 1765203263,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13366,
-      "num": 718784,
-      "word": "今冬第一场雪来了",
-      "onboard_time": 1765243582,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13016,
