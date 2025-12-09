@@ -1,0 +1,410 @@
+{
+  "runTime": 1765265411211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743915,
+        "num": 1119026,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606059,
+        "num": 606059,
+        "word": "金昊杀妻案发卧室卫生间留有血渍",
+        "onboard_time": 1765262362,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2621,
+        "num": 500992,
+        "word": "一人一句为残特奥会运动员加油",
+        "onboard_time": 1765201341,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482158,
+        "num": 482158,
+        "word": "水银体温计血压计明年起禁产",
+        "onboard_time": 1765258102,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467109,
+        "num": 467109,
+        "word": "电影空枪官宣部分阵容",
+        "onboard_time": 1765263981,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379400,
+        "num": 379400,
+        "word": "白天辉被执行死刑",
+        "onboard_time": 1765252762,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291841,
+        "num": 291841,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155702,
+        "num": 291531,
+        "word": "苏炳添退役",
+        "onboard_time": 1765246701,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 290756,
+        "word": "盘点2025持续火出圈的非遗",
+        "onboard_time": 1765243761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204204,
+        "num": 289093,
+        "word": "张家齐说月经意味着噩梦的开始",
+        "onboard_time": 1765249521,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854698,
+        "num": 288410,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511138,
+        "num": 287456,
+        "word": "金昊婚后第13天就家暴妻子",
+        "onboard_time": 1765256063,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482260,
+        "num": 286998,
+        "word": "蓝战非团队人员回应南非绑架事件",
+        "onboard_time": 1765261102,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430773,
+        "num": 285461,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391831,
+        "num": 284658,
+        "word": "星光大赏割韭菜",
+        "onboard_time": 1765262424,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284501,
+        "num": 284501,
+        "word": "深圳一山姆麻薯盒出现活老鼠",
+        "onboard_time": 1765255943,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266179,
+        "num": 266179,
+        "word": "猫的树 现偶",
+        "onboard_time": 1765256902,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258140,
+        "num": 258140,
+        "word": "偶像练习生 蹭冷度",
+        "onboard_time": 1765256783,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236237,
+        "num": 236237,
+        "word": "百色性侵案老师翻供否认强奸女学生",
+        "onboard_time": 1765262061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32636,
+        "num": 235602,
+        "word": "官方正核查山姆活鼠事件",
+        "onboard_time": 1765264942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23285,
+        "num": 234530,
+        "word": "一天活力益冠搞定",
+        "onboard_time": 1765260203,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537733,
+        "num": 233484,
+        "word": "龚琳娜为挽回前夫每天送一件礼物",
+        "onboard_time": 1765259962,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418378,
+        "num": 232527,
+        "word": "陈妍希 谣言",
+        "onboard_time": 1765264641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231400,
+        "num": 231400,
+        "word": "甲状腺癌是名副其实的懒癌",
+        "onboard_time": 1765252343,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200741,
+        "num": 200741,
+        "word": "上海月薪9000做五休二的一天",
+        "onboard_time": 1765255344,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194978,
+        "num": 194978,
+        "word": "央视曝光入职培训骗局",
+        "onboard_time": 1765262483,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190285,
+        "num": 190285,
+        "word": "灌面汤杀妻案",
+        "onboard_time": 1765251563,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128473,
+        "num": 178370,
+        "word": "26岁学者受聘浙大学习工作经历公布",
+        "onboard_time": 1765263741,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232137,
+        "num": 177015,
+        "word": "狙击蝴蝶剧宣callback陈晓陈妍希",
+        "onboard_time": 1765262362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173563,
+        "num": 173563,
+        "word": "男子中748万彩票遭店主扣押实体票",
+        "onboard_time": 1765252164,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540916,
+        "num": 171565,
+        "word": "医生禁止把玩患者",
+        "onboard_time": 1765264641,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186413,
+        "num": 170860,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1765264700,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167983,
+        "num": 167983,
+        "word": "嫁了个这样的又生了个这样的",
+        "onboard_time": 1765253724,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160345,
+        "num": 160345,
+        "word": "胡先煦 内娱父愁者",
+        "onboard_time": 1765264821,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157501,
+        "num": 157501,
+        "word": "印度医生在美强奸偷拍百人以上",
+        "onboard_time": 1765255164,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144129,
+        "num": 144129,
+        "word": "杨幂忙了一整晚口红零耗损",
+        "onboard_time": 1765264942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143551,
+        "num": 143551,
+        "word": "秦岚魏大勋分手传闻",
+        "onboard_time": 1765248923,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111407,
+        "num": 142905,
+        "word": "31岁中国女留学生遭美国男友杀害",
+        "onboard_time": 1765265001,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33052,
+        "num": 142779,
+        "word": "日媒报道日本街头垃圾遍地",
+        "onboard_time": 1765264582,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142761,
+        "num": 142761,
+        "word": "韩国母亲杀害照料了38年的残障女儿",
+        "onboard_time": 1765260621,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142148,
+        "num": 142148,
+        "word": "发明微信状态的人是个天才",
+        "onboard_time": 1765261701,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 140569,
+        "word": "杨旭文新恋情",
+        "onboard_time": 1765250962,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134533,
+        "num": 134533,
+        "word": "十年前的化妆师VS十年后的化妆师",
+        "onboard_time": 1765264401,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133473,
+        "num": 133473,
+        "word": "濮存昕发文支持外孙女演短剧",
+        "onboard_time": 1765264101,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122043,
+        "num": 122043,
+        "word": "陈意涵自曝认不出爱马仕闹笑话",
+        "onboard_time": 1765259421,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121643,
+        "num": 121643,
+        "word": "纪录片称红楼梦120回均由曹雪芹完成",
+        "onboard_time": 1765264881,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 40042,
+        "num": 120499,
+        "word": "辣椒面厂家称做食品12年从未遇此事",
+        "onboard_time": 1765263801,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120267,
+        "num": 120267,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116772,
+        "num": 116772,
+        "word": "人真的不能一直住太差的房子",
+        "onboard_time": 1765264881,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 112683,
+        "word": "把镜给无畏玩",
+        "onboard_time": 1765265361,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个坚持为明年经济工作指明方向#"
+    }
+  }
+}
