@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765273592093,
+  "endTime": 1765276430614,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549288,
+      "num": 141112,
+      "word": "使馆人员带蓝战非到安全屋",
+      "onboard_time": 1765275141,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 546478,
       "num": 546478,
       "word": "向佐 娱乐圈的人很恐怖",
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527889,
+      "num": 1084462,
+      "word": "琉球归属问题被迫无限期搁置",
+      "onboard_time": 1765272142,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 527646,
       "num": 226752,
       "word": "金士杰近60岁生了龙凤胎",
@@ -985,6 +1001,14 @@
       "onboard_time": 1765168042,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513306,
+      "num": 513306,
+      "word": "北冥有鱼竟然是真的",
+      "onboard_time": 1765270764,
+      "rank": 27,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 507468,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1765255344,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 397233,
+      "num": 277107,
+      "word": "陈妍希明媚成啥样了",
+      "onboard_time": 1765274062,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 396810,
@@ -2251,12 +2283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268149,
-      "num": 268149,
-      "word": "北冥有鱼竟然是真的",
-      "onboard_time": 1765270764,
-      "rank": 27,
-      "category": "情感,休闲"
+      "raw_hot": 268338,
+      "num": 952647,
+      "word": "仅退款225个快递女子已归案",
+      "onboard_time": 1765271002,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267790,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1765261821,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "山姆致歉",
+      "onboard_time": 1765274961,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248464,
@@ -2755,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215976,
+      "num": 215976,
+      "word": "辽宁丹东有人疑在江边放生大米",
+      "onboard_time": 1765272683,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215752,
       "num": 192984,
       "word": "刘浩存跳了呕吐舞",
@@ -2777,6 +2825,14 @@
       "onboard_time": 1765203624,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213566,
+      "num": 251652,
+      "word": "余承东官宣首款MPV命名为智界V9",
+      "onboard_time": 1765271061,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 213468,
@@ -2841,14 +2897,6 @@
       "onboard_time": 1765191382,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209644,
-      "num": 209644,
-      "word": "仅退款225个快递女子已归案",
-      "onboard_time": 1765271002,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209367,
@@ -3315,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190267,
+      "num": 1034610,
+      "word": "泡泡玛特4个月跌近44%",
+      "onboard_time": 1765274003,
+      "rank": 1,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 189882,
       "num": 189882,
       "word": "蔡依林FishLoveMV上线",
@@ -3524,7 +3580,7 @@
     },
     {
       "raw_hot": 178257,
-      "num": 633467,
+      "num": 870317,
       "word": "外交部回应美批准向中国出售H200",
       "onboard_time": 1765270104,
       "rank": 13,
@@ -3931,14 +3987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159362,
-      "num": 251652,
-      "word": "余承东官宣首款MPV命名为智界V9",
-      "onboard_time": 1765271061,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 159214,
       "num": 283057,
       "word": "湖人战胜76人",
@@ -4073,6 +4121,14 @@
       "onboard_time": 1765237700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155023,
+      "num": 155023,
+      "word": "剪刀剥脐橙",
+      "onboard_time": 1765273763,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 154643,
@@ -4329,6 +4385,14 @@
       "onboard_time": 1765171041,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146575,
+      "num": 146575,
+      "word": "水银体温计将禁产药店发声",
+      "onboard_time": 1765274423,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146394,
@@ -4667,14 +4731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138907,
-      "num": 1037897,
-      "word": "琉球归属问题被迫无限期搁置",
-      "onboard_time": 1765272142,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138630,
       "num": 115709,
       "word": "曝iG签下Lime",
@@ -4889,6 +4945,14 @@
       "onboard_time": 1765179260,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134257,
+      "num": 134257,
+      "word": "一听爸吃了不管什么先放嘴里",
+      "onboard_time": 1765276101,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 134066,
@@ -5192,6 +5256,14 @@
       "word": "观众给杨洋的韩立干到返场了",
       "onboard_time": 1765189460,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "十个勤天也是闯进短国了",
+      "onboard_time": 1765275741,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -5673,6 +5745,14 @@
       "onboard_time": 1765194502,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118895,
+      "num": 118895,
+      "word": "快乐家族除了海涛共用一张脸",
+      "onboard_time": 1765274362,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 118871,
@@ -6364,7 +6444,7 @@
     },
     {
       "raw_hot": 109600,
-      "num": 136872,
+      "num": 659664,
       "word": "无畏挑杯三连MVP",
       "onboard_time": 1765270462,
       "rank": 43,
@@ -6707,6 +6787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 104317,
+      "num": 104317,
+      "word": "韦雪太能吃苦了",
+      "onboard_time": 1765275861,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104297,
       "num": 108312,
       "word": "iPhone前后双摄正确用法",
@@ -6875,6 +6963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101430,
+      "num": 101430,
+      "word": "问界成为中国豪华汽车引领者",
+      "onboard_time": 1765275202,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101402,
       "num": 101402,
       "word": "孙天宇发的杨雨光",
@@ -6961,6 +7057,14 @@
       "onboard_time": 1765170500,
       "rank": 29,
       "category": "国内时政,数码"
+    },
+    {
+      "raw_hot": 99765,
+      "num": 99765,
+      "word": "男子灌面汤杀妻称只想让她服软",
+      "onboard_time": 1765273823,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99566,
@@ -7835,6 +7939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79466,
+      "num": 635981,
+      "word": "外交部建议日本记者去问问日本",
+      "onboard_time": 1765275141,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79435,
       "num": 99242,
       "word": "杨瀚森婉拒给首发表现打分",
@@ -8043,6 +8155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71450,
+      "num": 118912,
+      "word": "尹正新片撞脸太乙真人",
+      "onboard_time": 1765276282,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71366,
       "num": 68249,
       "word": "刘国梁拍了下王楚钦肩膀",
@@ -8065,14 +8185,6 @@
       "onboard_time": 1765102880,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 70455,
-      "num": 149195,
-      "word": "辽宁丹东有人疑在江边放生大米",
-      "onboard_time": 1765272683,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70319,
@@ -8137,6 +8249,14 @@
       "onboard_time": 1765165581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67533,
+      "num": 118317,
+      "word": "留给内娱的title不多了",
+      "onboard_time": 1765275081,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 67414,
@@ -8769,6 +8889,14 @@
       "onboard_time": 1765182980,
       "rank": 17,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 48003,
+      "num": 119058,
+      "word": "鹤岗的房子正在悄悄涨价",
+      "onboard_time": 1765275622,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47722,
@@ -9451,6 +9579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27901,
+      "num": 118248,
+      "word": "游客拍下日本地震第一视角",
+      "onboard_time": 1765275081,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27757,
       "num": 214664,
       "word": "梅林罐头残留兽药超标被通报",
@@ -9625,6 +9761,14 @@
       "onboard_time": 1765216575,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22728,
+      "num": 988018,
+      "word": "应急管理部发了9个冬季安全提示",
+      "onboard_time": 1765274722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22723,
@@ -9923,6 +10067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15293,
+      "num": 249794,
+      "word": "俄乌双方都想拉拢特朗普女婿",
+      "onboard_time": 1765275622,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13996,
       "num": 190006,
       "word": "11月我国外贸增速回升至4.1%",
@@ -9945,6 +10097,14 @@
       "onboard_time": 1765223835,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13366,
+      "num": 718784,
+      "word": "今冬第一场雪来了",
+      "onboard_time": 1765243582,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13118,
@@ -10093,6 +10253,9 @@
     },
     {
       "word": "#8个坚持为明年经济工作指明方向#"
+    },
+    {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
     }
   ]
 }

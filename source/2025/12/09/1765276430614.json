@@ -1,0 +1,410 @@
+{
+  "runTime": 1765276430614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 527889,
+        "num": 1084462,
+        "word": "琉球归属问题被迫无限期搁置",
+        "onboard_time": 1765272142,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190267,
+        "num": 1034610,
+        "word": "泡泡玛特4个月跌近44%",
+        "onboard_time": 1765274003,
+        "rank": 1,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 22728,
+        "num": 988018,
+        "word": "应急管理部发了9个冬季安全提示",
+        "onboard_time": 1765274722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268338,
+        "num": 952647,
+        "word": "仅退款225个快递女子已归案",
+        "onboard_time": 1765271002,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132434,
+        "num": 870317,
+        "word": "外交部回应美批准向中国出售H200",
+        "onboard_time": 1765270104,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 837798,
+        "num": 837798,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 823916,
+        "num": 823916,
+        "word": "小演员婉拒肖战三次亲吻",
+        "onboard_time": 1765266322,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127137,
+        "num": 782866,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13366,
+        "num": 718784,
+        "word": "今冬第一场雪来了",
+        "onboard_time": 1765243582,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71846,
+        "num": 659664,
+        "word": "无畏挑杯三连MVP",
+        "onboard_time": 1765270462,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79466,
+        "num": 635981,
+        "word": "外交部建议日本记者去问问日本",
+        "onboard_time": 1765275141,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1902522,
+        "num": 539422,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513306,
+        "num": 513306,
+        "word": "北冥有鱼竟然是真的",
+        "onboard_time": 1765270764,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 501760,
+        "num": 501760,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 13,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 410858,
+        "num": 410858,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 285900,
+        "num": 285900,
+        "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+        "onboard_time": 1765266082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397233,
+        "num": 277107,
+        "word": "陈妍希明媚成啥样了",
+        "onboard_time": 1765274062,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256859,
+        "num": 256859,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252506,
+        "num": 252506,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15293,
+        "num": 249794,
+        "word": "俄乌双方都想拉拢特朗普女婿",
+        "onboard_time": 1765275622,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248958,
+        "num": 248958,
+        "word": "濮存昕外孙女出道",
+        "onboard_time": 1765266803,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213566,
+        "num": 229899,
+        "word": "余承东官宣首款MPV命名为智界V9",
+        "onboard_time": 1765271061,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215976,
+        "num": 215976,
+        "word": "辽宁丹东有人疑在江边放生大米",
+        "onboard_time": 1765272683,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212767,
+        "num": 212767,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175118,
+        "num": 175118,
+        "word": "史铁生曾开导过14岁的马思纯",
+        "onboard_time": 1765267283,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165607,
+        "num": 165607,
+        "word": "95花格局大洗牌",
+        "onboard_time": 1765266622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "31岁中国女留学生遭美国男友杀害",
+        "onboard_time": 1765265001,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157429,
+        "num": 157429,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155023,
+        "num": 155023,
+        "word": "剪刀剥脐橙",
+        "onboard_time": 1765273763,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146575,
+        "num": 146575,
+        "word": "水银体温计将禁产药店发声",
+        "onboard_time": 1765274423,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549288,
+        "num": 141112,
+        "word": "使馆人员带蓝战非到安全屋",
+        "onboard_time": 1765275141,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134257,
+        "num": 134257,
+        "word": "一听爸吃了不管什么先放嘴里",
+        "onboard_time": 1765276101,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133008,
+        "num": 133008,
+        "word": "得闲谨制四大平台评分",
+        "onboard_time": 1765271842,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131369,
+        "num": 131369,
+        "word": "空枪檀健次特别主演",
+        "onboard_time": 1765266501,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130256,
+        "num": 130256,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 128942,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "十个勤天也是闯进短国了",
+        "onboard_time": 1765275741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120923,
+        "num": 120923,
+        "word": "痞幼上恋综错过朋友婚礼哭了",
+        "onboard_time": 1765267402,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48003,
+        "num": 119058,
+        "word": "鹤岗的房子正在悄悄涨价",
+        "onboard_time": 1765275622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71450,
+        "num": 118912,
+        "word": "尹正新片撞脸太乙真人",
+        "onboard_time": 1765276282,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118895,
+        "num": 118895,
+        "word": "快乐家族除了海涛共用一张脸",
+        "onboard_time": 1765274362,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67533,
+        "num": 118317,
+        "word": "留给内娱的title不多了",
+        "onboard_time": 1765275081,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27901,
+        "num": 118248,
+        "word": "游客拍下日本地震第一视角",
+        "onboard_time": 1765275081,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118228,
+        "num": 118228,
+        "word": "梁家辉特意出演 惠英红亲情出演",
+        "onboard_time": 1765269085,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113263,
+        "num": 113263,
+        "word": "鸡蛋现在已经配不上西红柿了",
+        "onboard_time": 1765271181,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108762,
+        "num": 108762,
+        "word": "医生禁止把玩患者",
+        "onboard_time": 1765264641,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104317,
+        "num": 104317,
+        "word": "韦雪太能吃苦了",
+        "onboard_time": 1765275861,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101430,
+        "num": 101430,
+        "word": "问界成为中国豪华汽车引领者",
+        "onboard_time": 1765275202,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99765,
+        "num": 99765,
+        "word": "男子灌面汤杀妻称只想让她服软",
+        "onboard_time": 1765273823,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95561,
+        "num": 95561,
+        "word": "电影空枪官宣部分阵容",
+        "onboard_time": 1765263981,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}
