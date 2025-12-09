@@ -1,0 +1,410 @@
+{
+  "runTime": 1765285090854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721013,
+        "num": 1115362,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765274541,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357024,
+        "num": 357024,
+        "word": "山姆致歉",
+        "onboard_time": 1765274961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29932,
+        "num": 354318,
+        "word": "应急管理部发了9个冬季安全提示",
+        "onboard_time": 1765274722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471828,
+        "num": 351475,
+        "word": "空枪",
+        "onboard_time": 1765264041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162014,
+        "num": 347630,
+        "word": "泡泡玛特4个月跌近44%",
+        "onboard_time": 1765274003,
+        "rank": 4,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 342666,
+        "word": "风与潮",
+        "onboard_time": 1765284561,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144572,
+        "num": 338511,
+        "word": "2026考研",
+        "onboard_time": 1765274902,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128464,
+        "num": 334348,
+        "word": "琉球归属问题被迫无限期搁置",
+        "onboard_time": 1765272142,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119551,
+        "num": 330110,
+        "word": "王者荣耀",
+        "onboard_time": 1765268843,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32742,
+        "num": 326491,
+        "word": "中俄第10次联合空中战略巡航",
+        "onboard_time": 1765277841,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1264353,
+        "num": 320487,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81653,
+        "num": 319468,
+        "word": "外国人拉行李箱在中国买买买",
+        "onboard_time": 1765274722,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572877,
+        "num": 313007,
+        "word": "王源肖战从小是邻居",
+        "onboard_time": 1765278082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554179,
+        "num": 311151,
+        "word": "阿娇卸妆只卸掉了灰尘",
+        "onboard_time": 1765280181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398967,
+        "num": 305261,
+        "word": "在英国被杀害留学生曾担心感染性病",
+        "onboard_time": 1765278082,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 397432,
+        "num": 301402,
+        "word": "张凌赫妈妈好像周雨彤",
+        "onboard_time": 1765280242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300085,
+        "num": 300085,
+        "word": "B站回应被黄杨钿甜起诉",
+        "onboard_time": 1765280001,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 283036,
+        "num": 283036,
+        "word": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+        "onboard_time": 1765283122,
+        "rank": 17,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 225372,
+        "num": 225372,
+        "word": "辽宁丹东有人疑在江边放生大米",
+        "onboard_time": 1765272683,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200655,
+        "num": 224930,
+        "word": "红楼梦",
+        "onboard_time": 1765271302,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 525782,
+        "num": 224700,
+        "word": "陈妍希婚后住在内地一直在带孩子",
+        "onboard_time": 1765279702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366709,
+        "num": 224279,
+        "word": "月薪15000一年存10w的真实生活",
+        "onboard_time": 1765280060,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189427,
+        "num": 223674,
+        "word": "山姆超市金柑里吃出蠕动活虫",
+        "onboard_time": 1765278022,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223300,
+        "num": 223300,
+        "word": "黄杨钿甜起诉B站",
+        "onboard_time": 1765269803,
+        "rank": 23,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 214698,
+        "num": 214698,
+        "word": "空枪去掉朱一龙大男主简介",
+        "onboard_time": 1765280362,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192021,
+        "num": 192021,
+        "word": "偶遇素颜的刘亦菲",
+        "onboard_time": 1765281801,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173753,
+        "num": 173753,
+        "word": "60岁已婚男追赶35岁暧昧对象时摔死",
+        "onboard_time": 1765266082,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154742,
+        "num": 154742,
+        "word": "星光大赏入场券",
+        "onboard_time": 1765278261,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152936,
+        "num": 152936,
+        "word": "中国女博士生和女儿遇害现场有斧头",
+        "onboard_time": 1765278982,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146741,
+        "num": 146741,
+        "word": "王飞教授意外离世",
+        "onboard_time": 1765279161,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146245,
+        "num": 146245,
+        "word": "伴舞看虞书欣的眼神",
+        "onboard_time": 1765278321,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141038,
+        "num": 141038,
+        "word": "狙击蝴蝶 最佳改编原著奖",
+        "onboard_time": 1765284503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134120,
+        "num": 134120,
+        "word": "陆虎 烂人带给误会王栎鑫的人",
+        "onboard_time": 1765282762,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127816,
+        "num": 127816,
+        "word": "北冥有鱼竟然是真的",
+        "onboard_time": 1765270764,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 110449,
+        "num": 127342,
+        "word": "檀健次空枪里的实弹",
+        "onboard_time": 1765276823,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120320,
+        "num": 127266,
+        "word": "日本民众回应如何看待中日关系",
+        "onboard_time": 1765282822,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127254,
+        "num": 127254,
+        "word": "肖战你也有今天",
+        "onboard_time": 1765282702,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121956,
+        "num": 121956,
+        "word": "张继科说樊振东的球拍要回收",
+        "onboard_time": 1765283841,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120590,
+        "num": 120590,
+        "word": "潘宏狗市救狗",
+        "onboard_time": 1765281142,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111576,
+        "num": 111576,
+        "word": "香港火灾遇难者升至160人",
+        "onboard_time": 1765282582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108495,
+        "num": 108495,
+        "word": "水银温度计的平替长这样",
+        "onboard_time": 1765281023,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103843,
+        "num": 103843,
+        "word": "2025四大平台扑剧盘点",
+        "onboard_time": 1765284503,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103492,
+        "num": 103492,
+        "word": "星光大赏单人海报",
+        "onboard_time": 1765259003,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103365,
+        "num": 103365,
+        "word": "突然想通大家为什么都去考研了",
+        "onboard_time": 1765284801,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101783,
+        "num": 101783,
+        "word": "李晨和郑恺最尴尬的时刻",
+        "onboard_time": 1765284021,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93345,
+        "num": 93345,
+        "word": "濮存昕外孙女出道",
+        "onboard_time": 1765266803,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90999,
+        "num": 90999,
+        "word": "水银体温计将禁产药店发声",
+        "onboard_time": 1765274423,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88560,
+        "num": 88560,
+        "word": "JackeyLove回应和TES续约",
+        "onboard_time": 1765281382,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88028,
+        "num": 88028,
+        "word": "罗晋任素汐给我字幕依赖症治好了",
+        "onboard_time": 1765278982,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83773,
+        "num": 83773,
+        "word": "神舟二十一号任务",
+        "onboard_time": 1765284021,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}
