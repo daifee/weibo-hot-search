@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/09 10:25:02
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/09 11:27:06
 </p>
 </blockquote>
 <p>
@@ -1389,6 +1389,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E8%A2%AB%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
+金昊被判处死刑（热度：8250368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B7%E4%BF%8A%E6%99%94%E5%9B%9E%E5%BA%94%E5%A4%A7S%E5%8E%BB%E4%B8%96%23" target="weibo">
 具俊晔回应大S去世（热度：8226159）
 </a>
@@ -1805,12 +1811,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%20%E6%88%91%E5%92%8C%E9%9B%AA%E6%A2%A8%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E4%BA%8B%E5%AE%9E%23" target="weibo">
 赵一博 我和雪梨在一起是事实（热度：6575117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%20%E5%B8%8C%E6%9C%9B%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
-邢菲 希望是假的（热度：6561350）
 </a>
 </li>
 

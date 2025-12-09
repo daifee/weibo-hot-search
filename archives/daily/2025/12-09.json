@@ -1,7 +1,15 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765247102982,
+  "endTime": 1765250826948,
   "band_list": [
+    {
+      "raw_hot": 8250368,
+      "num": 9500368,
+      "word": "金昊被判处死刑",
+      "onboard_time": 1765246521,
+      "rank": 24,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 8214866,
       "num": 8214866,
@@ -27,6 +35,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1178415,
+      "num": 263108,
+      "word": "双轨 空降",
+      "onboard_time": 1765247301,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767920,
       "num": 446028,
       "word": "非常不建议大家拿自己的脊椎冒险",
@@ -35,20 +51,52 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 760853,
+      "num": 261977,
+      "word": "张家齐说月经意味着噩梦的开始",
+      "onboard_time": 1765249521,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748825,
-      "num": 220531,
+      "num": 231303,
       "word": "留几手曝Angelababy离婚后谈过男友",
       "onboard_time": 1765204343,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 735355,
+      "num": 735355,
+      "word": "苏炳添退役",
+      "onboard_time": 1765246701,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 697334,
+      "num": 697334,
+      "word": "人贩子扬言出狱报复符合加重情节",
+      "onboard_time": 1765247060,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661890,
-      "num": 456839,
+      "num": 698026,
       "word": "课本更换朱元璋画像",
       "onboard_time": 1765237760,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624981,
+      "num": 240054,
+      "word": "秦岚魏大勋分手传闻",
+      "onboard_time": 1765248923,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 588262,
@@ -83,12 +131,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 442446,
-      "num": 442446,
-      "word": "苏炳添退役",
-      "onboard_time": 1765246701,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 462413,
+      "num": 362964,
+      "word": "蓝战非被绑架警方已立案",
+      "onboard_time": 1765246042,
+      "rank": 16,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 453069,
+      "num": 255604,
+      "word": "大明王朝",
+      "onboard_time": 1765248860,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 421269,
@@ -113,14 +169,6 @@
       "onboard_time": 1765203024,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362964,
-      "num": 362964,
-      "word": "蓝战非被绑架警方已立案",
-      "onboard_time": 1765246042,
-      "rank": 16,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 357904,
@@ -171,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326514,
+      "num": 251231,
+      "word": "蓝战非被勒索300万",
+      "onboard_time": 1765248801,
+      "rank": 15,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 284627,
       "num": 210159,
       "word": "洪剑涛发声致歉",
@@ -179,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282399,
+      "num": 282399,
+      "word": "猫的树镜头下的杨超越",
+      "onboard_time": 1765248740,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281720,
       "num": 208597,
       "word": "台湾地位已被七重锁定",
       "onboard_time": 1765238241,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 276263,
+      "num": 245449,
+      "word": "灌面汤呛死妻子案3次延期后将宣判",
+      "onboard_time": 1765245860,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267746,
@@ -227,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248833,
+      "num": 135255,
+      "word": "蓝战非发文感谢中国大使馆",
+      "onboard_time": 1765250002,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 237571,
       "num": 190101,
       "word": "丈夫帮剖宫产妻子换药",
@@ -251,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209364,
-      "num": 209364,
-      "word": "金昊被判处死刑",
-      "onboard_time": 1765246521,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208587,
       "num": 208587,
       "word": "张家齐说感觉有点生不逢时",
@@ -275,12 +347,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 201196,
+      "num": 201196,
+      "word": "十个勤天浙江跨晚缺席6人",
+      "onboard_time": 1765248442,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199242,
       "num": 199242,
       "word": "王毅说日本与德国不同",
       "onboard_time": 1765244721,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195289,
+      "num": 195289,
+      "word": "恩师狄公原来你在这",
+      "onboard_time": 1765249642,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 184434,
@@ -307,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180107,
+      "num": 93821,
+      "word": "小伙2分钟吃73根辣条赢7300元",
+      "onboard_time": 1765249101,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179002,
       "num": 179002,
       "word": "双轨",
@@ -321,6 +417,14 @@
       "onboard_time": 1765208541,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168449,
+      "num": 168449,
+      "word": "在日中国游客连滚带爬躲到卫生间",
+      "onboard_time": 1765245381,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166759,
@@ -371,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150570,
-      "num": 150570,
-      "word": "在日中国游客连滚带爬躲到卫生间",
-      "onboard_time": 1765245381,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148729,
       "num": 148729,
       "word": "小米中国区多业务人事调整",
@@ -411,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139835,
+      "num": 139835,
+      "word": "小米三折叠通过认证",
+      "onboard_time": 1765249161,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138367,
       "num": 138367,
       "word": "2025星光大赏星光墙",
@@ -419,11 +523,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135347,
+      "num": 135347,
+      "word": "风与潮开播",
+      "onboard_time": 1765248981,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133881,
       "num": 133881,
       "word": "卢克文",
       "onboard_time": 1765238181,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131036,
+      "num": 131036,
+      "word": "金昊母亲被判2年2个月",
+      "onboard_time": 1765247301,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -465,6 +585,14 @@
       "onboard_time": 1765200862,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122368,
+      "num": 122368,
+      "word": "短跑运动三大悍将都退役了",
+      "onboard_time": 1765250364,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 122244,
@@ -531,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "李兰迪赵今麦葵与霜",
+      "onboard_time": 1765245141,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112813,
       "num": 112813,
       "word": "被猞猁的冲天辫帅到了",
@@ -539,20 +675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112074,
-      "num": 112074,
-      "word": "李兰迪赵今麦葵与霜",
-      "onboard_time": 1765245141,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "刘诗诗东方淮竹获爱奇艺补偿",
       "onboard_time": 1765240524,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111243,
+      "num": 267643,
+      "word": "重温苏炳添高光时刻",
+      "onboard_time": 1765249942,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 109846,
@@ -571,12 +707,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108147,
+      "num": 108147,
+      "word": "迟蓬看着杨幂摇头晃脑过来",
+      "onboard_time": 1765250662,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106975,
+      "num": 106975,
+      "word": "朱元璋 鞋拔子脸",
+      "onboard_time": 1765248622,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106793,
       "num": 144757,
       "word": "多校撤销外语专业",
       "onboard_time": 1765182202,
       "rank": 6,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 106662,
+      "num": 113127,
+      "word": "河北杀妻案宣判被害人家属发声",
+      "onboard_time": 1765250541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106579,
@@ -601,6 +761,14 @@
       "onboard_time": 1765244781,
       "rank": 9,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 105167,
+      "num": 106168,
+      "word": "vivo S50",
+      "onboard_time": 1765250002,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 105092,
@@ -665,6 +833,14 @@
       "onboard_time": 1765241003,
       "rank": 42,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 94052,
+      "num": 94052,
+      "word": "中山佳能工厂停产赔偿2.3N",
+      "onboard_time": 1765247001,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93607,
@@ -875,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58397,
+      "num": 109741,
+      "word": "成本1.2元胶水卖到150元3人获刑",
+      "onboard_time": 1765249462,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57466,
       "num": 57466,
       "word": "肖战的2026祝福",
@@ -931,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50299,
+      "num": 113260,
+      "word": "湖南卫视跨年舞台有高铁",
+      "onboard_time": 1765250242,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49930,
       "num": 72144,
       "word": "左奇函 等待一个12月的奇迹",
@@ -979,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40132,
-      "num": 117858,
-      "word": "灌面汤呛死妻子案3次延期后将宣判",
-      "onboard_time": 1765245860,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39660,
       "num": 92452,
       "word": "盒马承认生产草莓蛋糕出问题",
@@ -1027,8 +1211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29842,
-      "num": 459103,
+      "raw_hot": 30007,
+      "num": 713188,
       "word": "大国小巷首善之治",
       "onboard_time": 1765242444,
       "rank": 2,
@@ -1099,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21176,
+      "num": 113287,
+      "word": "河南方城学校火灾680天后",
+      "onboard_time": 1765250662,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19839,
       "num": 35492,
       "word": "卡梅隆认识章子怡19年了",
@@ -1139,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16541,
-      "num": 116107,
-      "word": "人贩子扬言出狱报复符合加重情节",
-      "onboard_time": 1765247060,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 15620,
+      "num": 113214,
+      "word": "周柯宇围读的时候害羞得不行",
+      "onboard_time": 1765249883,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 13691,
