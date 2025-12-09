@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765308105504,
+  "endTime": 1765309061282,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -10883,6 +10883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19862,
+      "num": 36476,
+      "word": "韩总统府批驳高市涉韩日领土争议发言",
+      "onboard_time": 1765305315,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19839,
       "num": 35492,
       "word": "卡梅隆认识章子怡19年了",
@@ -10995,14 +11003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17713,
-      "num": 36476,
-      "word": "韩总统府批驳高市涉韩日领土争议发言",
-      "onboard_time": 1765305315,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17618,
       "num": 44069,
       "word": "世界杯抽签仪式",
@@ -11059,12 +11059,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16065,
+      "num": 27880,
+      "word": "iPhone的长按键你可能并不会用",
+      "onboard_time": 1765307955,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16040,
       "num": 187080,
       "word": "方城学校火灾680天后起火原因仍不知",
       "onboard_time": 1765255705,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15997,
+      "num": 27879,
+      "word": "李现澳门扫街被路人警告删掉照片",
+      "onboard_time": 1765307414,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 15826,
@@ -11083,28 +11099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15324,
-      "num": 26346,
-      "word": "李现澳门扫街被路人警告删掉照片",
-      "onboard_time": 1765307414,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15306,
       "num": 196644,
       "word": "日本军国主义已成全球麻烦制造者",
       "onboard_time": 1765254385,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14573,
-      "num": 26341,
-      "word": "iPhone的长按键你可能并不会用",
-      "onboard_time": 1765307955,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 14505,
