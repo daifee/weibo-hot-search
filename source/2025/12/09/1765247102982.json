@@ -1,0 +1,410 @@
+{
+  "runTime": 1765247102982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 770257,
+        "num": 1769224,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459276,
+        "num": 459276,
+        "word": "小米三款新车齐曝光",
+        "onboard_time": 1765241063,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29842,
+        "num": 459103,
+        "word": "大国小巷首善之治",
+        "onboard_time": 1765242444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507001,
+        "num": 456839,
+        "word": "课本更换朱元璋画像",
+        "onboard_time": 1765237760,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7079742,
+        "num": 7079742,
+        "word": "蓝战非称被绑架",
+        "onboard_time": 1765242623,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 328590,
+        "num": 454784,
+        "word": "丁真对向佐说扛不住就别混这个圈子",
+        "onboard_time": 1765235779,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272424,
+        "num": 453256,
+        "word": "日本强震超10万人需避难",
+        "onboard_time": 1765237760,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350570,
+        "num": 450967,
+        "word": "00后小伙跑外卖5年攒下112万",
+        "onboard_time": 1765244781,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 59592,
+        "num": 449887,
+        "word": "美将从英伟达对华芯片出口分成25%",
+        "onboard_time": 1765244721,
+        "rank": 8,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 49773,
+        "num": 448998,
+        "word": "燕云十六声",
+        "onboard_time": 1765236499,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1953748,
+        "num": 447122,
+        "word": "蓝战非回应",
+        "onboard_time": 1765243882,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 767920,
+        "num": 446028,
+        "word": "非常不建议大家拿自己的脊椎冒险",
+        "onboard_time": 1765244781,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 588262,
+        "num": 445084,
+        "word": "河北沧州杀妻案一审宣判",
+        "onboard_time": 1765246341,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72943,
+        "num": 442572,
+        "word": "英伟达获准对华出售H200芯片",
+        "onboard_time": 1765241003,
+        "rank": 13,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 442446,
+        "num": 442446,
+        "word": "苏炳添退役",
+        "onboard_time": 1765246701,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439107,
+        "num": 439107,
+        "word": "喜茶加两个小料就会自动触发升杯",
+        "onboard_time": 1765243520,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362964,
+        "num": 362964,
+        "word": "蓝战非被绑架警方已立案",
+        "onboard_time": 1765246042,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 253401,
+        "num": 253401,
+        "word": "星光大赏投票",
+        "onboard_time": 1765238421,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230223,
+        "num": 230223,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220592,
+        "num": 220592,
+        "word": "12306称没明确要求水果售卖前必须清洗",
+        "onboard_time": 1765242683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702686,
+        "num": 220531,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 219327,
+        "word": "在日华人称大雪天穿着秋裤就往外跑",
+        "onboard_time": 1765246759,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 219316,
+        "num": 219316,
+        "word": "章若楠王安宇 你那儿几点",
+        "onboard_time": 1765242264,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210159,
+        "num": 210159,
+        "word": "洪剑涛发声致歉",
+        "onboard_time": 1765241183,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209364,
+        "num": 209364,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208597,
+        "num": 208597,
+        "word": "台湾地位已被七重锁定",
+        "onboard_time": 1765238241,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204582,
+        "num": 204582,
+        "word": "黄雅莉说生育晚一点不是坏事",
+        "onboard_time": 1765239801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199242,
+        "num": 199242,
+        "word": "王毅说日本与德国不同",
+        "onboard_time": 1765244721,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190101,
+        "num": 190101,
+        "word": "丈夫帮剖宫产妻子换药",
+        "onboard_time": 1765240944,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179002,
+        "num": 179002,
+        "word": "双轨",
+        "onboard_time": 1765211719,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162056,
+        "num": 162056,
+        "word": "绑架蓝战非团伙提前半年布局",
+        "onboard_time": 1765244661,
+        "rank": 30,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 160104,
+        "num": 160104,
+        "word": "内娱859095花的顶流梯队一目了然",
+        "onboard_time": 1765238541,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156359,
+        "num": 156359,
+        "word": "南大教授称红楼梦索隐只是玩梗",
+        "onboard_time": 1765243520,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 150570,
+        "num": 150570,
+        "word": "在日中国游客连滚带爬躲到卫生间",
+        "onboard_time": 1765245381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118929,
+        "num": 149546,
+        "word": "经典版QQ回归",
+        "onboard_time": 1765200082,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148729,
+        "num": 148729,
+        "word": "小米中国区多业务人事调整",
+        "onboard_time": 1765246701,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133373,
+        "num": 133373,
+        "word": "留几手头孢配酒",
+        "onboard_time": 1765237700,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119385,
+        "num": 119385,
+        "word": "日本警告或有更多强震",
+        "onboard_time": 1765246161,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 118114,
+        "word": "肖战回应即兴表演被放入正片",
+        "onboard_time": 1765246821,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38153,
+        "num": 117888,
+        "word": "为了陈晓逛了次平遥",
+        "onboard_time": 1765245921,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40132,
+        "num": 117858,
+        "word": "灌面汤呛死妻子案3次延期后将宣判",
+        "onboard_time": 1765245860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117832,
+        "num": 117832,
+        "word": "卢克文公众号被封",
+        "onboard_time": 1765207762,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16541,
+        "num": 116107,
+        "word": "人贩子扬言出狱报复符合加重情节",
+        "onboard_time": 1765247060,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115546,
+        "num": 115546,
+        "word": "朱丹回应说刘宇宁英雄不问出处",
+        "onboard_time": 1765245501,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112813,
+        "num": 112813,
+        "word": "被猞猁的冲天辫帅到了",
+        "onboard_time": 1765246759,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112074,
+        "num": 112074,
+        "word": "李兰迪赵今麦葵与霜",
+        "onboard_time": 1765245141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45920,
+        "num": 107687,
+        "word": "女子自驾进猛兽区被老虎跟车咬掉漆",
+        "onboard_time": 1765245622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106579,
+        "num": 106579,
+        "word": "张家齐谈和陈芋汐全红婵友谊",
+        "onboard_time": 1765246341,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97804,
+        "num": 97804,
+        "word": "我妈的糊弄学早餐",
+        "onboard_time": 1765239743,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95904,
+        "num": 95904,
+        "word": "日本又发6.6级地震",
+        "onboard_time": 1765237820,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
