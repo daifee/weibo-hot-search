@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765251627553,
+  "endTime": 1765255005747,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 1178415,
-      "num": 263108,
+      "num": 264878,
       "word": "双轨 空降",
       "onboard_time": 1765247301,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1156350,
+      "num": 394295,
+      "word": "张家齐说月经意味着噩梦的开始",
+      "onboard_time": 1765249521,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1153742,
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876486,
-      "num": 261977,
-      "word": "张家齐说月经意味着噩梦的开始",
-      "onboard_time": 1765249521,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 866700,
       "num": 866700,
       "word": "刘诗诗的奖换成了白鹿系失误",
@@ -353,6 +353,14 @@
       "onboard_time": 1765163900,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841039,
+      "num": 263154,
+      "word": "蓝战非称被强迫拍裸照",
+      "onboard_time": 1765252099,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 813192,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683665,
+      "num": 249392,
+      "word": "杨旭文新恋情",
+      "onboard_time": 1765250962,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680273,
       "num": 680273,
       "word": "山东省考 谁出的图推",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 653894,
-      "num": 240054,
+      "num": 245545,
       "word": "秦岚魏大勋分手传闻",
       "onboard_time": 1765248923,
       "rank": 20,
@@ -649,6 +665,14 @@
       "onboard_time": 1765077800,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 578066,
+      "num": 262204,
+      "word": "灌面汤杀妻案",
+      "onboard_time": 1765251563,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574634,
@@ -801,14 +825,6 @@
       "onboard_time": 1765241063,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 520423,
-      "num": 216974,
-      "word": "杨旭文新恋情",
-      "onboard_time": 1765250962,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 519085,
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 467159,
-      "num": 255604,
+      "num": 255703,
       "word": "大明王朝",
       "onboard_time": 1765248860,
       "rank": 13,
@@ -1171,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424985,
+      "num": 260798,
+      "word": "日本强震高市早苗一路小跑",
+      "onboard_time": 1765253423,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421269,
       "num": 454784,
       "word": "丁真对向佐说扛不住就别混这个圈子",
       "onboard_time": 1765235779,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420747,
+      "num": 256699,
+      "word": "白天辉被执行死刑",
+      "onboard_time": 1765252762,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410933,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1765032625,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 404494,
+      "num": 243335,
+      "word": "甲状腺癌是名副其实的懒癌",
+      "onboard_time": 1765252343,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 404423,
@@ -1232,6 +1272,14 @@
       "word": "卢克文公众号被封",
       "onboard_time": 1765207762,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393880,
+      "num": 266836,
+      "word": "男子中748万彩票遭店主扣押实体票",
+      "onboard_time": 1765252164,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1579,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323061,
+      "num": 247166,
+      "word": "蓝战非发文感谢中国大使馆",
+      "onboard_time": 1765250002,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 322544,
       "num": 284988,
       "word": "浙江省考我数推呢",
@@ -1907,6 +1963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 269111,
+      "num": 269111,
+      "word": "光遇",
+      "onboard_time": 1765252883,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268894,
       "num": 235250,
       "word": "美防长警告日本",
@@ -2035,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254409,
+      "num": 254409,
+      "word": "得闲谨制豆瓣开分6.9",
+      "onboard_time": 1765253963,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253909,
       "num": 131808,
       "word": "55岁女子吃冰箱冷冻肉确诊脑膜炎",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1765238421,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248833,
-      "num": 247166,
-      "word": "蓝战非发文感谢中国大使馆",
-      "onboard_time": 1765250002,
-      "rank": 30,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 248464,
@@ -2153,6 +2217,14 @@
       "onboard_time": 1765240944,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237008,
+      "num": 237008,
+      "word": "蓝盈莹首部央一女主戏",
+      "onboard_time": 1765254803,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 236737,
@@ -2371,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215250,
+      "num": 215250,
+      "word": "嫁了个这样的又生了个这样的",
+      "onboard_time": 1765253724,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214622,
       "num": 214622,
       "word": "兰迪变云迪",
@@ -2427,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210249,
+      "num": 210249,
+      "word": "蓝战非被绑架1天1夜没睡觉",
+      "onboard_time": 1765254864,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209745,
       "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
@@ -2465,6 +2553,14 @@
       "onboard_time": 1765110080,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "朱元璋 鞋拔子脸",
+      "onboard_time": 1765248622,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207492,
@@ -2676,7 +2772,7 @@
     },
     {
       "raw_hot": 199472,
-      "num": 141022,
+      "num": 192054,
       "word": "河北杀妻案宣判被害人家属发声",
       "onboard_time": 1765250541,
       "rank": 40,
@@ -2721,6 +2817,14 @@
       "onboard_time": 1765095080,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197612,
+      "num": 197612,
+      "word": "猫的树拍的董思成",
+      "onboard_time": 1765253963,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 197260,
@@ -2827,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189882,
+      "num": 189882,
+      "word": "蔡依林FishLoveMV上线",
+      "onboard_time": 1765254263,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189142,
       "num": 189142,
       "word": "天津市考",
@@ -2857,6 +2969,14 @@
       "onboard_time": 1765180041,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186262,
+      "num": 186262,
+      "word": "小镇做题家考上北大却患空心病",
+      "onboard_time": 1765253603,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186198,
@@ -2953,6 +3073,14 @@
       "onboard_time": 1765238541,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182174,
+      "num": 182174,
+      "word": "光遇复刻",
+      "onboard_time": 1765253603,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 181184,
@@ -3083,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173338,
+      "num": 173338,
+      "word": "王石和田朴珺约会摔断了两根肋骨",
+      "onboard_time": 1765251083,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 173278,
       "num": 168275,
       "word": "蓝盈莹领抱其他人秒跟",
@@ -3097,6 +3233,14 @@
       "onboard_time": 1765201583,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171803,
+      "num": 171803,
+      "word": "吴尊日常开车送NeiNei上学",
+      "onboard_time": 1765252463,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 171400,
@@ -3673,14 +3817,6 @@
       "onboard_time": 1765087701,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147856,
-      "num": 147856,
-      "word": "王石和田朴珺约会摔断了两根肋骨",
-      "onboard_time": 1765251083,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 147511,
@@ -5323,14 +5459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112059,
-      "num": 112059,
-      "word": "朱元璋 鞋拔子脸",
-      "onboard_time": 1765248622,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "刘诗诗东方淮竹获爱奇艺补偿",
@@ -5795,6 +5923,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 103793,
+      "num": 196576,
+      "word": "刘宇宁扑通一个小滑跪",
+      "onboard_time": 1765254803,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103555,
       "num": 103555,
       "word": "赵小童跑澳门半马",
@@ -5929,6 +6065,14 @@
       "onboard_time": 1765179380,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101015,
+      "num": 224056,
+      "word": "乌克兰明确表示拒绝割让领土",
+      "onboard_time": 1765253302,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100978,
@@ -6097,14 +6241,6 @@
       "onboard_time": 1765092621,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96970,
-      "num": 96970,
-      "word": "灌面汤杀妻案",
-      "onboard_time": 1765251563,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96967,
@@ -6600,6 +6736,14 @@
       "word": "31岁女教师去世重病时仍安慰他人",
       "onboard_time": 1765157358,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86346,
+      "num": 178921,
+      "word": "男子追已婚育服务员3个月欠20万",
+      "onboard_time": 1765253603,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -7507,6 +7651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51054,
+      "num": 253885,
+      "word": "人教版朱元璋9年前已变帅",
+      "onboard_time": 1765254504,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51002,
       "num": 95832,
       "word": "卢浮宫严重漏水致大量古籍受损",
@@ -7827,6 +7979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40932,
+      "num": 251089,
+      "word": "日本未认真履行战败国义务",
+      "onboard_time": 1765253904,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40843,
       "num": 293196,
       "word": "下周降6到10摄氏度",
@@ -7985,6 +8145,14 @@
       "onboard_time": 1765096400,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34751,
+      "num": 257727,
+      "word": "每个人都是自己的极地",
+      "onboard_time": 1765252042,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 34453,
@@ -8315,6 +8483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23219,
+      "num": 197082,
+      "word": "为救患病孩子父母寒风中直播跳舞",
+      "onboard_time": 1765254504,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23013,
       "num": 109205,
       "word": "管道错接导致洗衣机水流入河道",
@@ -8587,6 +8763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 15866,
+      "num": 199827,
+      "word": "梅林罐头残留兽药超标被通报",
+      "onboard_time": 1765254923,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15826,
       "num": 49915,
       "word": "于正说杨幂值得更好的",
@@ -8641,6 +8825,14 @@
       "onboard_time": 1765226054,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 12297,
+      "num": 196644,
+      "word": "日本军国主义已成全球麻烦制造者",
+      "onboard_time": 1765254385,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11960,
