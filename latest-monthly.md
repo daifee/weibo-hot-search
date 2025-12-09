@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 11:27:06
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 11:40:27
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E8%A2%AB%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
-金昊被判处死刑（热度：8250368）
+金昊被判处死刑（热度：8847609）
 </a>
 </li>
 
@@ -879,6 +879,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AF%B4%E6%9C%88%E7%BB%8F%E6%84%8F%E5%91%B3%E7%9D%80%E5%99%A9%E6%A2%A6%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
+张家齐说月经意味着噩梦的开始（热度：876486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%9B%B4%E6%92%AD%23" target="weibo">
 朱雀三号直播（热度：871199）
 </a>
@@ -1049,12 +1055,6 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8B%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%8A%E6%A4%8E%E5%86%92%E9%99%A9%23" target="weibo">
 非常不建议大家拿自己的脊椎冒险（热度：767920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AF%B4%E6%9C%88%E7%BB%8F%E6%84%8F%E5%91%B3%E7%9D%80%E5%99%A9%E6%A2%A6%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
-张家齐说月经意味着噩梦的开始（热度：760853）
 </a>
 </li>
 
@@ -1389,6 +1389,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%86%E6%89%8B%E4%BC%A0%E9%97%BB%23" target="weibo">
+秦岚魏大勋分手传闻（热度：653894）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%9C%A8%E5%90%91%E8%A5%BF%E5%8D%97%E8%BD%AC%E7%A7%BB%23" target="weibo">
 日本自卫队被曝正在向西南转移（热度：651982）
 </a>
@@ -1469,12 +1475,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%20%E7%99%BD%E9%B9%BF%23" target="weibo">
 小酒窝 白鹿（热度：625080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%86%E6%89%8B%E4%BC%A0%E9%97%BB%23" target="weibo">
-秦岚魏大勋分手传闻（热度：624981）
 </a>
 </li>
 
@@ -2127,6 +2127,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%97%AD%E6%96%87%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
+杨旭文新恋情（热度：520423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E7%94%9F%E5%89%8D%E5%A4%96%E5%80%9F200%E5%A4%9A%E4%B8%87%E6%97%A0%E4%BA%BA%E4%B8%BB%E5%8A%A8%E5%BD%92%E8%BF%98%23" target="weibo">
 罗大美生前外借200多万无人主动归还（热度：519676）
 </a>
@@ -2523,6 +2529,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D%23" target="weibo">
+大明王朝（热度：467159）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%88%9D%E6%AD%A5%E7%A1%AE%E5%AE%9A%E8%B5%B7%E7%81%AB%E7%82%B9%E5%A4%A7%E8%87%B4%E4%BD%8D%E7%BD%AE%23" target="weibo">
 香港初步确定起火点大致位置（热度：466961）
 </a>
@@ -2531,6 +2543,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%A6%BB%E4%BA%86%E8%80%81%E5%85%AC%E5%8F%B8%E5%85%A8%E6%98%AF%E6%96%B0%E8%B5%9B%E9%81%93%23" target="weibo">
 任嘉伦离了老公司全是新赛道（热度：466813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88%23" target="weibo">
+蓝战非被绑架警方已立案（热度：464678）
 </a>
 </li>
 
@@ -2549,12 +2567,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%20%E5%90%8E%E6%9C%9F%23" target="weibo">
 现在就出发 后期（热度：462864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88%23" target="weibo">
-蓝战非被绑架警方已立案（热度：462413）
 </a>
 </li>
 
@@ -2667,12 +2679,6 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D%23" target="weibo">
-大明王朝（热度：453069）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%AB%98%E8%83%8E%E5%90%A6%E8%AE%A4%E5%93%A5%E7%9A%84%E5%85%A8%E5%AE%87%E5%AE%99%E6%8A%84%E8%A2%AD%23" target="weibo">
 双高胎否认哥的全宇宙抄袭（热度：452556）
 </a>
@@ -2735,6 +2741,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
 你的婚纱照可能被卖了（热度：446911）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%883%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%90%8E%E5%B0%86%E5%AE%A3%E5%88%A4%23" target="weibo">
+灌面汤呛死妻子案3次延期后将宣判（热度：446874）
 </a>
 </li>
 
@@ -4539,6 +4551,12 @@ Duro被大学退学（热度：318839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23" target="weibo">
+猫的树镜头下的杨超越（热度：300056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%97%E8%A1%A3%E7%BB%93%E6%9D%9F%E5%8F%91%E7%8E%B0%E7%8C%AB%E5%92%AA%E5%9C%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E9%87%8C%23" target="weibo">
 女子洗衣结束发现猫咪在洗衣机里（热度：300027）
 </a>
@@ -4755,12 +4773,6 @@ Gala在iG队内吐露心声（热度：282515）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23" target="weibo">
-猫的树镜头下的杨超越（热度：282399）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%A0%E9%92%9F%E6%83%85%23" target="weibo">
 为你钟情（热度：282130）
 </a>
@@ -4865,12 +4877,6 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E8%85%BF%E4%B8%80%E6%A0%B7%E9%95%BF%23" target="weibo">
 李纯马頔腿一样长（热度：276294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%883%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%90%8E%E5%B0%86%E5%AE%A3%E5%88%A4%23" target="weibo">
-灌面汤呛死妻子案3次延期后将宣判（热度：276263）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ KatyPerry官宣恋情（热度：223848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E6%88%91%E5%A6%88%E8%AF%B4%E6%88%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%94%B5%E8%A7%86%E7%98%BE%E5%BE%88%E5%A4%A7%23" target="weibo">
 难怪我妈说我小时候电视瘾很大（热度：222960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%83%AB%E5%8F%914%E5%B0%8F%E6%97%B6%E7%A7%B0%E5%87%BA%E5%8E%BB%E9%80%8F%E6%B0%94%E5%90%8E%E7%96%91%E8%B7%91%E8%B7%AF%23" target="weibo">
-女子烫发4小时称出去透气后疑跑路（热度：222766）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765250826948,
+  "endTime": 1765251627553,
   "band_list": [
     {
-      "raw_hot": 8250368,
-      "num": 9500368,
+      "raw_hot": 8847609,
+      "num": 9637279,
       "word": "金昊被判处死刑",
       "onboard_time": 1765246521,
       "rank": 24,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 876486,
+      "num": 261977,
+      "word": "张家齐说月经意味着噩梦的开始",
+      "onboard_time": 1765249521,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 767920,
       "num": 446028,
       "word": "非常不建议大家拿自己的脊椎冒险",
       "onboard_time": 1765244781,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 760853,
-      "num": 261977,
-      "word": "张家齐说月经意味着噩梦的开始",
-      "onboard_time": 1765249521,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 748825,
@@ -91,7 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 624981,
+      "raw_hot": 653894,
       "num": 240054,
       "word": "秦岚魏大勋分手传闻",
       "onboard_time": 1765248923,
@@ -123,6 +123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 520423,
+      "num": 216974,
+      "word": "杨旭文新恋情",
+      "onboard_time": 1765250962,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483939,
       "num": 439107,
       "word": "喜茶加两个小料就会自动触发升杯",
@@ -131,7 +139,15 @@
       "category": "美食"
     },
     {
-      "raw_hot": 462413,
+      "raw_hot": 467159,
+      "num": 255604,
+      "word": "大明王朝",
+      "onboard_time": 1765248860,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 464678,
       "num": 362964,
       "word": "蓝战非被绑架警方已立案",
       "onboard_time": 1765246042,
@@ -139,12 +155,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 453069,
-      "num": 255604,
-      "word": "大明王朝",
-      "onboard_time": 1765248860,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 446874,
+      "num": 346099,
+      "word": "灌面汤呛死妻子案3次延期后将宣判",
+      "onboard_time": 1765245860,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421269,
@@ -227,6 +243,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 300056,
+      "num": 300056,
+      "word": "猫的树镜头下的杨超越",
+      "onboard_time": 1765248740,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284627,
       "num": 210159,
       "word": "洪剑涛发声致歉",
@@ -235,28 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282399,
-      "num": 282399,
-      "word": "猫的树镜头下的杨超越",
-      "onboard_time": 1765248740,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281720,
       "num": 208597,
       "word": "台湾地位已被七重锁定",
       "onboard_time": 1765238241,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 276263,
-      "num": 245449,
-      "word": "灌面汤呛死妻子案3次延期后将宣判",
-      "onboard_time": 1765245860,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267746,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 248833,
-      "num": 135255,
+      "num": 247166,
       "word": "蓝战非发文感谢中国大使馆",
       "onboard_time": 1765250002,
       "rank": 30,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206741,
+      "num": 206741,
+      "word": "猫的树导演今天是太阳雨",
+      "onboard_time": 1765251262,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203888,
       "num": 162056,
       "word": "绑架蓝战非团伙提前半年布局",
@@ -353,6 +369,14 @@
       "onboard_time": 1765248442,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199472,
+      "num": 141022,
+      "word": "河北杀妻案宣判被害人家属发声",
+      "onboard_time": 1765250541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199242,
@@ -483,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147856,
+      "num": 147856,
+      "word": "王石和田朴珺约会摔断了两根肋骨",
+      "onboard_time": 1765251083,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 145727,
       "num": 118930,
       "word": "外卖员最不建议点的外卖",
@@ -505,6 +537,22 @@
       "onboard_time": 1765192341,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141246,
+      "num": 141246,
+      "word": "谁懂真情侣13搭的含金量",
+      "onboard_time": 1765251201,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139910,
+      "num": 139910,
+      "word": "张佳宁演出了牛马的疲惫感",
+      "onboard_time": 1765251442,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 139835,
@@ -536,6 +584,14 @@
       "word": "卢克文",
       "onboard_time": 1765238181,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "灌面汤杀妻案家属希望判凶手死刑",
+      "onboard_time": 1765251324,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -577,6 +633,14 @@
       "onboard_time": 1765236199,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123409,
+      "num": 123409,
+      "word": "迟蓬看着杨幂摇头晃脑过来",
+      "onboard_time": 1765250662,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122691,
@@ -675,6 +739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112335,
+      "num": 122172,
+      "word": "杨超越董思成新剧药味好足",
+      "onboard_time": 1765251083,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112059,
+      "num": 112059,
+      "word": "朱元璋 鞋拔子脸",
+      "onboard_time": 1765248622,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "刘诗诗东方淮竹获爱奇艺补偿",
@@ -707,20 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108147,
-      "num": 108147,
-      "word": "迟蓬看着杨幂摇头晃脑过来",
-      "onboard_time": 1765250662,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 106975,
-      "num": 106975,
-      "word": "朱元璋 鞋拔子脸",
-      "onboard_time": 1765248622,
+      "raw_hot": 107755,
+      "num": 107755,
+      "word": "上班减脂",
+      "onboard_time": 1765251324,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 106793,
@@ -729,14 +801,6 @@
       "onboard_time": 1765182202,
       "rank": 6,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 106662,
-      "num": 113127,
-      "word": "河北杀妻案宣判被害人家属发声",
-      "onboard_time": 1765250541,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106579,
@@ -801,6 +865,22 @@
       "onboard_time": 1765207223,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 98321,
+      "num": 98321,
+      "word": "悬赏20万元通缉电诈人员",
+      "onboard_time": 1765250482,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96970,
+      "num": 96970,
+      "word": "灌面汤杀妻案",
+      "onboard_time": 1765251563,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96087,
@@ -897,6 +977,14 @@
       "onboard_time": 1765236439,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86760,
+      "num": 113260,
+      "word": "湖南卫视跨年舞台有高铁",
+      "onboard_time": 1765250242,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 84423,
@@ -1115,14 +1203,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 50299,
-      "num": 113260,
-      "word": "湖南卫视跨年舞台有高铁",
-      "onboard_time": 1765250242,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49930,
       "num": 72144,
       "word": "左奇函 等待一个12月的奇迹",
@@ -1211,7 +1291,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30007,
+      "raw_hot": 30560,
       "num": 713188,
       "word": "大国小巷首善之治",
       "onboard_time": 1765242444,
@@ -1243,6 +1323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 25821,
+      "num": 113214,
+      "word": "周柯宇围读的时候害羞得不行",
+      "onboard_time": 1765249883,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24325,
       "num": 70325,
       "word": "台湾花莲海域发生5.1级地震",
@@ -1256,6 +1344,14 @@
       "word": "盘点2025",
       "onboard_time": 1765201341,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23964,
+      "num": 123176,
+      "word": "河南方城学校火灾680天后",
+      "onboard_time": 1765250662,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1281,14 +1377,6 @@
       "onboard_time": 1765246821,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21176,
-      "num": 113287,
-      "word": "河南方城学校火灾680天后",
-      "onboard_time": 1765250662,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19839,
@@ -1329,14 +1417,6 @@
       "onboard_time": 1765215436,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15620,
-      "num": 113214,
-      "word": "周柯宇围读的时候害羞得不行",
-      "onboard_time": 1765249883,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 13691,
