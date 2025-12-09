@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765312141238,
+  "endTime": 1765312866078,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -31459,6 +31459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16304,
+      "num": 33267,
+      "word": "iPhone的长按键你可能并不会用",
+      "onboard_time": 1765307955,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16294,
       "num": 128550,
       "word": "大连暖气管爆裂事故致1死1伤",
@@ -31505,14 +31513,6 @@
       "onboard_time": 1765165639,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16065,
-      "num": 33267,
-      "word": "iPhone的长按键你可能并不会用",
-      "onboard_time": 1765307955,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 16040,
@@ -31779,6 +31779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 12671,
+      "num": 33117,
+      "word": "孙兴慜遭前女友敲诈案",
+      "onboard_time": 1765311374,
+      "rank": 42,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 12432,
       "num": 132975,
       "word": "四川一地规定涉彩礼环节要监管拍照",
@@ -31803,6 +31811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12154,
+      "num": 33136,
+      "word": "女博士遭外籍丈夫杀害",
+      "onboard_time": 1765310173,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12153,
       "num": 19735,
       "word": "易烊千玺垒石头直播是自己想的",
@@ -31817,14 +31833,6 @@
       "onboard_time": 1764878594,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 12038,
-      "num": 33117,
-      "word": "孙兴慜遭前女友敲诈案",
-      "onboard_time": 1765311374,
-      "rank": 42,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 11960,
@@ -31857,14 +31865,6 @@
       "onboard_time": 1764790214,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 33136,
-      "word": "女博士遭外籍丈夫杀害",
-      "onboard_time": 1765310173,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11678,
@@ -31969,6 +31969,14 @@
       "onboard_time": 1764943522,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10470,
+      "num": 27114,
+      "word": "亚冠精英联赛",
+      "onboard_time": 1765301476,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10451,

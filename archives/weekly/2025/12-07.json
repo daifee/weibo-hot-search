@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765312141238,
+  "endTime": 1765312866078,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -11043,6 +11043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16304,
+      "num": 33267,
+      "word": "iPhone的长按键你可能并不会用",
+      "onboard_time": 1765307955,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16238,
       "num": 75151,
       "word": "杨幂尖叫之夜最高荣誉",
@@ -11057,14 +11065,6 @@
       "onboard_time": 1765165639,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16065,
-      "num": 33267,
-      "word": "iPhone的长按键你可能并不会用",
-      "onboard_time": 1765307955,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 16040,
@@ -11187,12 +11187,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 12038,
+      "raw_hot": 12671,
       "num": 33117,
       "word": "孙兴慜遭前女友敲诈案",
       "onboard_time": 1765311374,
       "rank": 42,
       "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 12154,
+      "num": 33136,
+      "word": "女博士遭外籍丈夫杀害",
+      "onboard_time": 1765310173,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11960,
@@ -11201,14 +11209,6 @@
       "onboard_time": 1765138034,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 33136,
-      "word": "女博士遭外籍丈夫杀害",
-      "onboard_time": 1765310173,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11207,
@@ -11225,6 +11225,14 @@
       "onboard_time": 1765292003,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10470,
+      "num": 27114,
+      "word": "亚冠精英联赛",
+      "onboard_time": 1765301476,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10451,
