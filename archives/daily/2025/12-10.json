@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765312866078,
+  "endTime": 1765315564300,
   "band_list": [
     {
       "raw_hot": 1014047,
@@ -531,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19447,
+      "num": 38570,
+      "word": "段永平称年轻人仍有大把机会",
+      "onboard_time": 1765310114,
+      "rank": 9,
+      "category": "互联网,休闲"
+    },
+    {
       "raw_hot": 17587,
       "num": 36476,
       "word": "空枪 我爱你主演合体",
@@ -547,6 +555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16166,
+      "num": 33136,
+      "word": "女博士遭外籍丈夫杀害",
+      "onboard_time": 1765310173,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15997,
       "num": 33248,
       "word": "李现澳门扫街被路人警告删掉照片",
@@ -555,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15235,
-      "num": 38570,
-      "word": "段永平称年轻人仍有大把机会",
-      "onboard_time": 1765310114,
-      "rank": 9,
-      "category": "互联网,休闲"
+      "raw_hot": 14995,
+      "num": 33117,
+      "word": "孙兴慜遭前女友敲诈案",
+      "onboard_time": 1765311374,
+      "rank": 42,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 14505,
@@ -587,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12671,
-      "num": 33117,
-      "word": "孙兴慜遭前女友敲诈案",
-      "onboard_time": 1765311374,
-      "rank": 42,
-      "category": "海外新闻,体育"
+      "raw_hot": 13222,
+      "num": 21455,
+      "word": "日本社民党党首说高市应辞职",
+      "onboard_time": 1765315034,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 12154,
-      "num": 33136,
-      "word": "女博士遭外籍丈夫杀害",
-      "onboard_time": 1765310173,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 12907,
+      "num": 21444,
+      "word": "得闲谨制",
+      "onboard_time": 1765315393,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 11156,
@@ -611,7 +627,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10470,
+      "raw_hot": 11147,
+      "num": 21383,
+      "word": "吸烟的危害具象化了",
+      "onboard_time": 1765313714,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 10696,
       "num": 27114,
       "word": "亚冠精英联赛",
       "onboard_time": 1765301476,
