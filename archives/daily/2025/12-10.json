@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765298179769,
+  "endTime": 1765299124887,
   "band_list": [
     {
       "raw_hot": 1014047,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228865,
+      "num": 175925,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202129,
       "num": 202129,
       "word": "怀孕或使女性衰老超5岁",
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175925,
-      "num": 175925,
-      "word": "本科毕业4年26岁研究员成浙大博导",
-      "onboard_time": 1765296381,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
@@ -97,6 +97,14 @@
       "onboard_time": 1765278082,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122805,
+      "num": 197077,
+      "word": "陈泽杯",
+      "onboard_time": 1765297820,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 103167,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75933,
-      "num": 75933,
-      "word": "陈泽杯",
-      "onboard_time": 1765297820,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75143,
       "num": 75143,
       "word": "星光大赏入场券",
@@ -251,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68325,
-      "num": 68325,
+      "raw_hot": 69984,
+      "num": 69984,
       "word": "在英国被杀害留学生曾担心感染性病",
       "onboard_time": 1765278082,
       "rank": 33,
@@ -297,6 +297,14 @@
       "onboard_time": 1765284503,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61762,
+      "num": 61762,
+      "word": "陈妍希 搞事业",
+      "onboard_time": 1765298958,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 61714,
@@ -392,6 +400,22 @@
       "word": "杭州集中供暖要来了",
       "onboard_time": 1765285883,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44988,
+      "num": 47376,
+      "word": "风与潮",
+      "onboard_time": 1765284561,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 8641,
+      "num": 180465,
+      "word": "冰雪大世界建造现场科幻片既视感",
+      "onboard_time": 1765292003,
+      "rank": 8,
       "category": "民生新闻"
     },
     {

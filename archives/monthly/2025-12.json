@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765298179769,
+  "endTime": 1765299124887,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -8435,6 +8435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228865,
+      "num": 175925,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228812,
       "num": 228812,
       "word": "耳帝连发两篇小作文锐评林忆莲",
@@ -11681,14 +11689,6 @@
       "onboard_time": 1764649641,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175925,
-      "num": 175925,
-      "word": "本科毕业4年26岁研究员成浙大博导",
-      "onboard_time": 1765296381,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175761,
@@ -17665,6 +17665,14 @@
       "onboard_time": 1764855081,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122805,
+      "num": 197077,
+      "word": "陈泽杯",
+      "onboard_time": 1765297820,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 122776,
@@ -25419,14 +25427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75933,
-      "num": 75933,
-      "word": "陈泽杯",
-      "onboard_time": 1765297820,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75790,
       "num": 75790,
       "word": "早睡就能激活全身修复程序",
@@ -26657,6 +26657,14 @@
       "onboard_time": 1765294882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61762,
+      "num": 61762,
+      "word": "陈妍希 搞事业",
+      "onboard_time": 1765298958,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 61736,
@@ -31873,6 +31881,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8641,
+      "num": 180465,
+      "word": "冰雪大世界建造现场科幻片既视感",
+      "onboard_time": 1765292003,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7660,

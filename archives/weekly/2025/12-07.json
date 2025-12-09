@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765298179769,
+  "endTime": 1765299124887,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2867,6 +2867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228865,
+      "num": 175925,
+      "word": "本科毕业4年26岁研究员成浙大博导",
+      "onboard_time": 1765296381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228812,
       "num": 228812,
       "word": "耳帝连发两篇小作文锐评林忆莲",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1765185441,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175925,
-      "num": 175925,
-      "word": "本科毕业4年26岁研究员成浙大博导",
-      "onboard_time": 1765296381,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175748,
@@ -5953,6 +5953,14 @@
       "onboard_time": 1765114402,
       "rank": 32,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 122805,
+      "num": 197077,
+      "word": "陈泽杯",
+      "onboard_time": 1765297820,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 122717,
@@ -8763,14 +8771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75933,
-      "num": 75933,
-      "word": "陈泽杯",
-      "onboard_time": 1765297820,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -9185,6 +9185,14 @@
       "onboard_time": 1765294882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61762,
+      "num": 61762,
+      "word": "陈妍希 搞事业",
+      "onboard_time": 1765298958,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 61672,
@@ -11105,6 +11113,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8641,
+      "num": 180465,
+      "word": "冰雪大世界建造现场科幻片既视感",
+      "onboard_time": 1765292003,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7631,
