@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765262554305,
+  "endTime": 1765263331116,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1050619,
-      "num": 228109,
+      "num": 346596,
       "word": "龚琳娜为挽回前夫每天送一件礼物",
       "onboard_time": 1765259962,
       "rank": 20,
@@ -817,6 +817,14 @@
       "onboard_time": 1765176021,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 533203,
+      "num": 366048,
+      "word": "蓝战非团队人员回应南非绑架事件",
+      "onboard_time": 1765261102,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 532183,
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278593,
+      "num": 200231,
+      "word": "金昊杀妻案发卧室卫生间留有血渍",
+      "onboard_time": 1765262362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278575,
       "num": 278575,
       "word": "虞书欣唱了小兰花角色歌",
@@ -2128,6 +2144,14 @@
       "word": "张凌赫发言徐若晗台下比心",
       "onboard_time": 1765068022,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262121,
+      "num": 262121,
+      "word": "星光大赏割韭菜",
+      "onboard_time": 1765262424,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -2235,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252716,
+      "num": 252716,
+      "word": "陈妍希粉丝 这样的日子盼了10年",
+      "onboard_time": 1765261821,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -2249,14 +2281,6 @@
       "onboard_time": 1765173623,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245256,
-      "num": 245256,
-      "word": "蓝战非团队人员回应南非绑架事件",
-      "onboard_time": 1765261102,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 244141,
@@ -2812,7 +2836,7 @@
     },
     {
       "raw_hot": 203454,
-      "num": 163092,
+      "num": 178461,
       "word": "韩国母亲杀害照料了38年的残障女儿",
       "onboard_time": 1765260621,
       "rank": 30,
@@ -3187,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183535,
+      "num": 183535,
+      "word": "陈意涵自曝认不出爱马仕闹笑话",
+      "onboard_time": 1765259421,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183442,
       "num": 183442,
       "word": "山东省考",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1765092140,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176353,
+      "num": 176353,
+      "word": "狙击蝴蝶剧宣callback陈晓陈妍希",
+      "onboard_time": 1765262362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 176304,
@@ -3401,14 +3441,6 @@
       "onboard_time": 1765084161,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 170616,
-      "num": 170616,
-      "word": "陈意涵自曝认不出爱马仕闹笑话",
-      "onboard_time": 1765259421,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 169469,
@@ -3555,12 +3587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164286,
-      "num": 164286,
-      "word": "陈妍希粉丝 这样的日子盼了10年",
-      "onboard_time": 1765261821,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 164229,
+      "num": 164229,
+      "word": "百色性侵案老师翻供否认强奸女学生",
+      "onboard_time": 1765262061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164205,
@@ -4219,6 +4251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 140240,
+      "num": 140240,
+      "word": "WYG对战JDG",
+      "onboard_time": 1765262721,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140131,
       "num": 140131,
       "word": "迪丽热巴演戏没有重复只有突破",
@@ -4233,6 +4273,14 @@
       "onboard_time": 1765251442,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139841,
+      "num": 139841,
+      "word": "T1抽到HLE",
+      "onboard_time": 1765262424,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 139835,
@@ -4321,6 +4369,14 @@
       "onboard_time": 1765069401,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138144,
+      "num": 350047,
+      "word": "痞幼唯一的歌是写给前任的",
+      "onboard_time": 1765262902,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 138116,
@@ -4633,6 +4689,14 @@
       "onboard_time": 1765186040,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "发明微信状态的人是个天才",
+      "onboard_time": 1765261701,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 129453,
@@ -5363,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116608,
-      "num": 112886,
-      "word": "百色性侵案老师翻供否认强奸女学生",
-      "onboard_time": 1765262061,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116406,
       "num": 148590,
       "word": "狼队三十二强",
@@ -5428,7 +5484,7 @@
     },
     {
       "raw_hot": 115402,
-      "num": 108619,
+      "num": 111799,
       "word": "日本强震后已发生15次余震",
       "onboard_time": 1765260323,
       "rank": 43,
@@ -5795,14 +5851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110471,
-      "num": 110471,
-      "word": "发明微信状态的人是个天才",
-      "onboard_time": 1765261701,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110146,
       "num": 110146,
       "word": "卓沅直播",
@@ -5961,6 +6009,14 @@
       "onboard_time": 1765205784,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108075,
+      "num": 112258,
+      "word": "美术生见多了丑术生第一次见",
+      "onboard_time": 1765263201,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107998,
@@ -6187,14 +6243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104174,
-      "num": 104174,
-      "word": "狙击蝴蝶剧宣callback陈晓陈妍希",
-      "onboard_time": 1765262362,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104070,
       "num": 207281,
       "word": "关晓彤说一定会二刷得闲谨制",
@@ -6393,14 +6441,6 @@
       "onboard_time": 1765119624,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100647,
-      "num": 100647,
-      "word": "金昊杀妻案发卧室卫生间留有血渍",
-      "onboard_time": 1765262362,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100501,
@@ -7259,14 +7299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79023,
-      "num": 112851,
-      "word": "星光大赏割韭菜",
-      "onboard_time": 1765262424,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78943,
       "num": 96825,
       "word": "63岁的关之琳",
@@ -7659,6 +7691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64060,
+      "num": 383501,
+      "word": "央视曝光入职培训骗局",
+      "onboard_time": 1765262483,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63965,
       "num": 71915,
       "word": "网传中国人国外旅游被印度小孩辱骂",
@@ -7868,7 +7908,7 @@
     },
     {
       "raw_hot": 55194,
-      "num": 112857,
+      "num": 174338,
       "word": "王楚钦和韩乒男队热聊",
       "onboard_time": 1765262483,
       "rank": 38,
@@ -8329,6 +8369,14 @@
       "onboard_time": 1765222095,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42904,
+      "num": 354277,
+      "word": "央视起底止鼾神器乱象",
+      "onboard_time": 1765262541,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42169,
@@ -9003,6 +9051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20803,
+      "num": 485480,
+      "word": "一天活力益冠搞定",
+      "onboard_time": 1765260203,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20653,
       "num": 125821,
       "word": "辅警盗用副所长数字证书售卖公民信息",
@@ -9057,14 +9113,6 @@
       "onboard_time": 1765130116,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19539,
-      "num": 485480,
-      "word": "一天活力益冠搞定",
-      "onboard_time": 1765260203,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 19486,
@@ -9155,6 +9203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17828,
+      "num": 388075,
+      "word": "盘点2025持续火出圈的非遗",
+      "onboard_time": 1765243761,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17739,
       "num": 109817,
       "word": "孙颖莎绝妙回球变线",
@@ -9225,6 +9281,14 @@
       "onboard_time": 1765135094,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15675,
+      "num": 174470,
+      "word": "梦龙卖冰淇淋年赚666亿元",
+      "onboard_time": 1765262602,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15306,
@@ -9329,14 +9393,6 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8309,
-      "num": 130317,
-      "word": "央视曝光入职培训骗局",
-      "onboard_time": 1765262483,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7631,
