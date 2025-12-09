@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765258136637,
+  "endTime": 1765259083362,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 747776,
+      "num": 1119644,
+      "word": "猫的树 现偶",
+      "onboard_time": 1765256902,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 735355,
       "num": 735355,
       "word": "苏炳添退役",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637342,
+      "num": 419325,
+      "word": "偶像练习生 蹭冷度",
+      "onboard_time": 1765256783,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588262,
       "num": 445084,
       "word": "河北沧州杀妻案一审宣判",
@@ -147,28 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532664,
-      "num": 1085226,
-      "word": "猫的树 现偶",
-      "onboard_time": 1765256902,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 520687,
       "num": 520687,
       "word": "小米三款新车齐曝光",
       "onboard_time": 1765241063,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 504865,
-      "num": 419325,
-      "word": "偶像练习生 蹭冷度",
-      "onboard_time": 1765256783,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 504572,
@@ -179,12 +179,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490520,
+      "num": 490520,
+      "word": "深圳一山姆麻薯盒出现活老鼠",
+      "onboard_time": 1765255943,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483939,
       "num": 439107,
       "word": "喜茶加两个小料就会自动触发升杯",
       "onboard_time": 1765243520,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 469526,
+      "num": 469526,
+      "word": "白天辉被执行死刑",
+      "onboard_time": 1765252762,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467159,
@@ -219,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442747,
-      "num": 442747,
-      "word": "白天辉被执行死刑",
-      "onboard_time": 1765252762,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421269,
       "num": 454784,
       "word": "丁真对向佐说扛不住就别混这个圈子",
@@ -243,11 +251,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 403769,
-      "num": 403769,
-      "word": "深圳一山姆麻薯盒出现活老鼠",
-      "onboard_time": 1765255943,
-      "rank": 14,
+      "raw_hot": 396810,
+      "num": 396810,
+      "word": "男子中748万彩票遭店主扣押实体票",
+      "onboard_time": 1765252164,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -256,14 +264,6 @@
       "word": "卢克文公众号被封",
       "onboard_time": 1765207762,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393880,
-      "num": 393724,
-      "word": "男子中748万彩票遭店主扣押实体票",
-      "onboard_time": 1765252164,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344095,
+      "num": 344095,
+      "word": "水银体温计血压计明年起禁产",
+      "onboard_time": 1765258102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341193,
       "num": 149899,
       "word": "张柏芝庭审大喊所有事情都是假的",
@@ -321,6 +329,14 @@
       "onboard_time": 1765255824,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337415,
+      "num": 383824,
+      "word": "上海月薪9000做五休二的一天",
+      "onboard_time": 1765255344,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 329710,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 292228,
-      "num": 274874,
+      "num": 275404,
       "word": "印度医生在美强奸偷拍百人以上",
       "onboard_time": 1765255164,
       "rank": 30,
@@ -387,12 +403,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 288861,
-      "num": 383824,
-      "word": "上海月薪9000做五休二的一天",
-      "onboard_time": 1765255344,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 285331,
+      "num": 374495,
+      "word": "嫁了个这样的又生了个这样的",
+      "onboard_time": 1765253724,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 284627,
@@ -457,14 +473,6 @@
       "onboard_time": 1765238421,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239045,
-      "num": 374495,
-      "word": "嫁了个这样的又生了个这样的",
-      "onboard_time": 1765253724,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 237571,
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "星光大赏单人海报",
+      "onboard_time": 1765259003,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "南大教授称红楼梦索隐只是玩梗",
@@ -809,6 +825,14 @@
       "onboard_time": 1765249161,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139097,
+      "num": 139097,
+      "word": "吴艳妮曾鼓起勇气找苏炳添合影",
+      "onboard_time": 1765258641,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 138367,
@@ -1251,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88677,
+      "num": 150010,
+      "word": "星光大赏官宣白鹿",
+      "onboard_time": 1765258824,
+      "rank": 39,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 87873,
       "num": 87873,
       "word": "王自如谈豆包手机",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1765243942,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84177,
+      "num": 284366,
+      "word": "方文山作词成毅新剧OST",
+      "onboard_time": 1765258401,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 83626,
@@ -1339,14 +1379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75349,
-      "num": 150443,
-      "word": "水银体温计血压计明年起禁产",
-      "onboard_time": 1765258102,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74809,
       "num": 96821,
       "word": "四川小伙不满宫保鸡丁有黄瓜胡萝卜",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1765206445,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65666,
+      "num": 368874,
+      "word": "民政局副局长利用养老工作贪污1257万",
+      "onboard_time": 1765257021,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 65210,
@@ -1451,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59607,
+      "num": 219272,
+      "word": "提醒在南非中国公民不露富",
+      "onboard_time": 1765258882,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58397,
       "num": 109741,
       "word": "成本1.2元胶水卖到150元3人获刑",
@@ -1491,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54098,
+      "num": 150549,
+      "word": "山西出现熊猫鸭",
+      "onboard_time": 1765258882,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52316,
       "num": 52316,
       "word": "日本海啸预警解除",
@@ -1499,12 +1555,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52066,
-      "num": 368874,
-      "word": "民政局副局长利用养老工作贪污1257万",
-      "onboard_time": 1765257021,
-      "rank": 19,
-      "category": "舆论监督"
+      "raw_hot": 51559,
+      "num": 142612,
+      "word": "德国外长感谢中国",
+      "onboard_time": 1765259062,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51238,
@@ -1544,6 +1600,22 @@
       "word": "女子自驾进猛兽区被老虎跟车咬掉漆",
       "onboard_time": 1765245622,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45338,
+      "num": 150140,
+      "word": "一看张晚意就没少上班",
+      "onboard_time": 1765258401,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45134,
+      "num": 159987,
+      "word": "海外被绑架打钱越快撕票越快",
+      "onboard_time": 1765258102,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1611,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35691,
+      "num": 359179,
+      "word": "翟欣欣没有上诉",
+      "onboard_time": 1765256902,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35372,
       "num": 70686,
       "word": "花漾少女杀人事件",
@@ -1627,6 +1707,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34460,
+      "num": 159933,
+      "word": "朱开谈HLE打T1",
+      "onboard_time": 1765257622,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33119,
       "num": 140373,
       "word": "LGDNBW对战Hero久竞",
@@ -1635,11 +1723,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32562,
-      "num": 359179,
-      "word": "翟欣欣没有上诉",
-      "onboard_time": 1765256902,
-      "rank": 20,
+      "raw_hot": 32612,
+      "num": 285160,
+      "word": "高中生拒绝行家20万收购日军罪证",
+      "onboard_time": 1765258522,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1656,22 +1744,6 @@
       "word": "大国小巷首善之治",
       "onboard_time": 1765242444,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30310,
-      "num": 159933,
-      "word": "朱开谈HLE打T1",
-      "onboard_time": 1765257622,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 29583,
-      "num": 159987,
-      "word": "海外被绑架打钱越快撕票越快",
-      "onboard_time": 1765258102,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1716,7 +1788,7 @@
     },
     {
       "raw_hot": 26791,
-      "num": 442259,
+      "num": 472033,
       "word": "盘点2025",
       "onboard_time": 1765201341,
       "rank": 2,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1765221254,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 7631,
+      "num": 169145,
+      "word": "被曝辣椒食品中吃出鼠头厂家发声",
+      "onboard_time": 1765259003,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7423,
