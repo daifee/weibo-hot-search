@@ -1,6 +1,6 @@
 {
   "startTime": 1765211843034,
-  "endTime": 1765255804242,
+  "endTime": 1765258136637,
   "band_list": [
     {
       "raw_hot": 8847609,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1178415,
-      "num": 264878,
+      "num": 421277,
       "word": "双轨 空降",
       "onboard_time": 1765247301,
       "rank": 10,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1156350,
-      "num": 394295,
+      "num": 431706,
       "word": "张家齐说月经意味着噩梦的开始",
       "onboard_time": 1765249521,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 891426,
+      "num": 424149,
+      "word": "金昊婚后第13天就家暴妻子",
+      "onboard_time": 1765256063,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 847230,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 683665,
-      "num": 249392,
+      "num": 355324,
       "word": "杨旭文新恋情",
       "onboard_time": 1765250962,
       "rank": 21,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 653894,
-      "num": 245545,
+      "num": 342007,
       "word": "秦岚魏大勋分手传闻",
       "onboard_time": 1765248923,
       "rank": 20,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 578066,
-      "num": 262204,
+      "num": 418025,
       "word": "灌面汤杀妻案",
       "onboard_time": 1765251563,
       "rank": 46,
@@ -139,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532664,
+      "num": 1085226,
+      "word": "猫的树 现偶",
+      "onboard_time": 1765256902,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520687,
       "num": 520687,
       "word": "小米三款新车齐曝光",
       "onboard_time": 1765241063,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 504865,
+      "num": 419325,
+      "word": "偶像练习生 蹭冷度",
+      "onboard_time": 1765256783,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 504572,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 448122,
-      "num": 237008,
+      "num": 308695,
       "word": "蓝盈莹首部央一女主戏",
       "onboard_time": 1765254803,
       "rank": 26,
@@ -188,10 +212,18 @@
     },
     {
       "raw_hot": 446874,
-      "num": 346099,
+      "num": 431098,
       "word": "灌面汤呛死妻子案3次延期后将宣判",
       "onboard_time": 1765245860,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442747,
+      "num": 442747,
+      "word": "白天辉被执行死刑",
+      "onboard_time": 1765252762,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -203,20 +235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420747,
-      "num": 256699,
-      "word": "白天辉被执行死刑",
-      "onboard_time": 1765252762,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404494,
-      "num": 243335,
+      "num": 277977,
       "word": "甲状腺癌是名副其实的懒癌",
       "onboard_time": 1765252343,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 403769,
+      "num": 403769,
+      "word": "深圳一山姆麻薯盒出现活老鼠",
+      "onboard_time": 1765255943,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394597,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 393880,
-      "num": 266836,
+      "num": 393724,
       "word": "男子中748万彩票遭店主扣押实体票",
       "onboard_time": 1765252164,
       "rank": 9,
@@ -248,6 +280,14 @@
       "word": "刘烨 不好好学习来追星干嘛",
       "onboard_time": 1765229413,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350764,
+      "num": 350764,
+      "word": "ally又去do脸了",
+      "onboard_time": 1765255402,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -273,6 +313,14 @@
       "onboard_time": 1765207702,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340380,
+      "num": 400164,
+      "word": "杨幂 嘴张的比食物大",
+      "onboard_time": 1765255824,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 329710,
@@ -324,7 +372,7 @@
     },
     {
       "raw_hot": 292228,
-      "num": 205102,
+      "num": 274874,
       "word": "印度医生在美强奸偷拍百人以上",
       "onboard_time": 1765255164,
       "rank": 30,
@@ -337,6 +385,14 @@
       "onboard_time": 1765253963,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288861,
+      "num": 383824,
+      "word": "上海月薪9000做五休二的一天",
+      "onboard_time": 1765255344,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 284627,
@@ -403,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238753,
-      "num": 204899,
-      "word": "ally又去do脸了",
-      "onboard_time": 1765255402,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 239045,
+      "num": 374495,
+      "word": "嫁了个这样的又生了个这样的",
+      "onboard_time": 1765253724,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 237571,
@@ -435,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215250,
-      "num": 215250,
-      "word": "嫁了个这样的又生了个这样的",
-      "onboard_time": 1765253724,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 212694,
+      "num": 212694,
+      "word": "柯淳焊死在浙江卫视了吗",
+      "onboard_time": 1765256483,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 211226,
@@ -515,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197717,
+      "num": 197717,
+      "word": "河北杀妻案夫妻系高中大学同学",
+      "onboard_time": 1765255522,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197612,
       "num": 197612,
       "word": "猫的树拍的董思成",
@@ -537,6 +601,14 @@
       "onboard_time": 1765254263,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189742,
+      "num": 205052,
+      "word": "高市早苗遇强震神色慌张",
+      "onboard_time": 1765255705,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184434,
@@ -579,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179748,
-      "num": 179748,
-      "word": "上海月薪9000做五休二的一天",
-      "onboard_time": 1765255344,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179002,
       "num": 179002,
       "word": "双轨",
@@ -609,14 +673,6 @@
       "onboard_time": 1765252463,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171299,
-      "num": 171299,
-      "word": "河北杀妻案夫妻系高中大学同学",
-      "onboard_time": 1765255522,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168830,
@@ -715,12 +771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142684,
+      "num": 142684,
+      "word": "北京人有多不在乎穿搭",
+      "onboard_time": 1765257622,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141246,
       "num": 141246,
       "word": "谁懂真情侣13搭的含金量",
       "onboard_time": 1765251201,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140131,
+      "num": 140131,
+      "word": "迪丽热巴演戏没有重复只有突破",
+      "onboard_time": 1765256844,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 139910,
@@ -769,6 +841,14 @@
       "onboard_time": 1765251324,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131688,
+      "num": 131688,
+      "word": "杨天真公开招聘英语老师",
+      "onboard_time": 1765257443,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 131036,
@@ -851,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119766,
+      "num": 119766,
+      "word": "有个叫微信支付的一直在花我钱",
+      "onboard_time": 1765257381,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119457,
       "num": 119457,
       "word": "我妈的糊弄学早餐",
@@ -875,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118120,
+      "num": 118120,
+      "word": "网红美食 臃肿",
+      "onboard_time": 1765257322,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117021,
       "num": 117021,
       "word": "朱孝天希望相信音乐高抬贵手",
       "onboard_time": 1765223533,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116772,
+      "num": 159939,
+      "word": "凤凰台上 死了都要爱",
+      "onboard_time": 1765257203,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115546,
@@ -1115,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92783,
+      "num": 205570,
+      "word": "啥剧啊成毅没武功老头卷打戏",
+      "onboard_time": 1765256424,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91431,
       "num": 96828,
       "word": "日本正确认多座核电站震后状态",
@@ -1187,14 +1299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83101,
-      "num": 205052,
-      "word": "高市早苗遇强震神色慌张",
-      "onboard_time": 1765255705,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82425,
       "num": 172214,
       "word": "小米汽车11月零售销量46249辆",
@@ -1232,6 +1336,14 @@
       "word": "人教版朱元璋9年前已变帅",
       "onboard_time": 1765254504,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75349,
+      "num": 150443,
+      "word": "水银体温计血压计明年起禁产",
+      "onboard_time": 1765258102,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1387,6 +1499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 52066,
+      "num": 368874,
+      "word": "民政局副局长利用养老工作贪污1257万",
+      "onboard_time": 1765257021,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51238,
       "num": 92792,
       "word": "刘宇宁大连演唱会",
@@ -1440,6 +1560,14 @@
       "word": "苟仲文",
       "onboard_time": 1765191621,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43414,
+      "num": 159855,
+      "word": "喜茶加料升杯彩蛋可备注不升级",
+      "onboard_time": 1765256902,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1507,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32562,
+      "num": 359179,
+      "word": "翟欣欣没有上诉",
+      "onboard_time": 1765256902,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31263,
       "num": 96806,
       "word": "张博恒获体育道德风尚奖",
@@ -1520,6 +1656,22 @@
       "word": "大国小巷首善之治",
       "onboard_time": 1765242444,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30310,
+      "num": 159933,
+      "word": "朱开谈HLE打T1",
+      "onboard_time": 1765257622,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29583,
+      "num": 159987,
+      "word": "海外被绑架打钱越快撕票越快",
+      "onboard_time": 1765258102,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1715,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26791,
+      "num": 442259,
+      "word": "盘点2025",
+      "onboard_time": 1765201341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25821,
       "num": 113214,
       "word": "周柯宇围读的时候害羞得不行",
@@ -1576,14 +1736,6 @@
       "word": "台湾花莲海域发生5.1级地震",
       "onboard_time": 1765194141,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24022,
-      "num": 284970,
-      "word": "盘点2025",
-      "onboard_time": 1765201341,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

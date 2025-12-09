@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 12:50:04
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 13:28:56
 </p>
 </blockquote>
 <p>
@@ -857,6 +857,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E5%AD%A6%E5%8C%97%E5%A4%A7%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%99%BD%E5%AB%96%E5%AE%B6%E6%95%99%E8%B4%B9%23" target="weibo">
 退学北大考上清华小伙被白嫖家教费（热度：895896）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E5%A9%9A%E5%90%8E%E7%AC%AC13%E5%A4%A9%E5%B0%B1%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%23" target="weibo">
+金昊婚后第13天就家暴妻子（热度：891426）
 </a>
 </li>
 
@@ -2049,6 +2055,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%20%E7%8E%B0%E5%81%B6%23" target="weibo">
+猫的树 现偶（热度：532664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%82%A8%E6%9C%89%E4%B8%80%E7%AC%94%E9%80%80%E6%AC%BE12%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E7%A1%AE%E8%AE%A4%23" target="weibo">
 您有一笔退款12月1日开始确认（热度：532623）
 </a>
@@ -2249,6 +2261,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE%23" target="weibo">
 小伙缅北逃跑失败被掰断手指脚趾（热度：506952）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%20%E8%B9%AD%E5%86%B7%E5%BA%A6%23" target="weibo">
+偶像练习生 蹭冷度（热度：504865）
 </a>
 </li>
 
@@ -2829,6 +2847,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%A9%E8%BE%89%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+白天辉被执行死刑（热度：442747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E6%9C%B1%E7%8F%A0%20%E5%A5%BD%E6%A0%87%E5%87%86%E7%9A%84%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3%E4%BA%BA%23" target="weibo">
 霍建华朱珠 好标准的男人和女人（热度：441578）
 </a>
@@ -3045,12 +3069,6 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%A9%E8%BE%89%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-白天辉被执行死刑（热度：420747）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E8%AE%BF%E5%A4%9A%E5%B9%B3%E5%8F%B0%E9%94%80%E5%94%AE%E5%84%BF%E7%AB%A5%E6%AC%BE%E7%A1%85%E8%83%B6%E5%A8%83%E5%A8%83%23" target="weibo">
 暗访多平台销售儿童款硅胶娃娃（热度：420610）
 </a>
@@ -3197,6 +3215,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E9%A3%9F%E5%87%8F%E9%87%8D50%E6%96%A4%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%B6%E6%99%95%E5%80%92%E8%A2%AB%E7%83%AB%E4%BC%A4%23" target="weibo">
 节食减重50斤吃麻辣烫时晕倒被烫伤（热度：404423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B1%B1%E5%A7%86%E9%BA%BB%E8%96%AF%E7%9B%92%E5%87%BA%E7%8E%B0%E6%B4%BB%E8%80%81%E9%BC%A0%23" target="weibo">
+深圳一山姆麻薯盒出现活老鼠（热度：403769）
 </a>
 </li>
 
@@ -3801,6 +3825,12 @@ iG 0等五（热度：365253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ally%E5%8F%88%E5%8E%BBdo%E8%84%B8%E4%BA%86%23" target="weibo">
+ally又去do脸了（热度：350764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%92%92%E5%A8%87%23" target="weibo">
 秦岚撒娇（热度：350756）
 </a>
@@ -3971,6 +4001,12 @@ vivo回应直播间风波（热度：348356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E5%B0%867800%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23" target="weibo">
 日本再将7800吨核污染水排海（热度：340665）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%98%B4%E5%BC%A0%E7%9A%84%E6%AF%94%E9%A3%9F%E7%89%A9%E5%A4%A7%23" target="weibo">
+杨幂 嘴张的比食物大（热度：340380）
 </a>
 </li>
 
@@ -4739,6 +4775,12 @@ A股（热度：296738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%20%E7%81%B0%E8%A1%A3%E6%9C%8D%E7%BB%BF%E5%86%85%E6%90%AD%23" target="weibo">
 常华森 灰衣服绿内搭（热度：289057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%88%E8%96%AA9000%E5%81%9A%E4%BA%94%E4%BC%91%E4%BA%8C%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
+上海月薪9000做五休二的一天（热度：288861）
 </a>
 </li>
 
@@ -5655,14 +5697,14 @@ LPL（热度：247418）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E5%92%8C%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23" target="weibo">
-周杰伦晒和林俊杰合照（热度：238841）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AB%81%E4%BA%86%E4%B8%AA%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%88%E7%94%9F%E4%BA%86%E4%B8%AA%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
+嫁了个这样的又生了个这样的（热度：239045）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ally%E5%8F%88%E5%8E%BBdo%E8%84%B8%E4%BA%86%23" target="weibo">
-ally又去do脸了（热度：238753）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E5%92%8C%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23" target="weibo">
+周杰伦晒和林俊杰合照（热度：238841）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%95%BF12%E6%A0%B9%E6%89%8B%E6%8C%87%E8%87%AA%E7%A7%B0%E7%81%B5%E6%B4%BB%E5%A5%BD%E7%94%A8%23" target="weibo">
 女子长12根手指自称灵活好用（热度：227898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E6%89%98%E9%82%A3%E5%8F%AF%E6%98%AF%E9%99%88%E5%A6%8D%E5%B8%8C%23" target="weibo">
-拜托那可是陈妍希（热度：227646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%23" target="weibo">
-世界杯抽签（热度：227247）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%99%BD%E7%9E%B3%E9%AC%BC%23" target="weibo">
-枭起青壤白瞳鬼（热度：227010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AE%A9%E5%B0%8F%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%AB%E8%BE%9C%E8%B4%9F%E9%82%A3%E8%8B%B1%23" target="weibo">
-华晨宇让小迪丽热巴别辜负那英（热度：226816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E5%9E%8BH3N2%E6%B5%81%E8%A1%8C%20%E7%97%87%E7%8A%B6%E5%89%8D24%E5%B0%8F%E6%97%B6%E6%8E%92%E6%AF%92%23" target="weibo">
-甲型H3N2流行 症状前24小时排毒（热度：226463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E5%90%8C%E6%97%B6%E7%9B%B8%E4%BA%B263%E5%B2%81%E4%B8%8E29%E5%B2%81%E7%94%B7%23" target="weibo">
-单亲妈妈同时相亲63岁与29岁男（热度：226392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
-王橹杰高会（热度：226345）
 </a>
 </li>
 
