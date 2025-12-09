@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765316418728,
+  "endTime": 1765319243430,
   "band_list": [
     {
       "raw_hot": 1014047,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 114059,
-      "num": 43501,
+      "num": 46102,
       "word": "短剧可以不要虐待老人吗",
       "onboard_time": 1765303216,
       "rank": 12,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 110219,
-      "num": 44003,
+      "num": 58683,
       "word": "陈泽",
       "onboard_time": 1765304655,
       "rank": 14,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76830,
+      "num": 97351,
+      "word": "中国女博士生和女儿遇害现场有斧头",
+      "onboard_time": 1765278982,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76736,
       "num": 76736,
       "word": "眼里没光 眼里有光",
@@ -273,6 +281,14 @@
       "onboard_time": 1765279702,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67231,
+      "num": 67231,
+      "word": "得闲谨制",
+      "onboard_time": 1765315393,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 63716,
@@ -339,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58196,
-      "num": 97351,
-      "word": "中国女博士生和女儿遇害现场有斧头",
-      "onboard_time": 1765278982,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 57937,
+      "num": 45923,
+      "word": "我对买不起的东西就这样",
+      "onboard_time": 1765301955,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 56203,
@@ -411,14 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46107,
-      "num": 42715,
-      "word": "我对买不起的东西就这样",
-      "onboard_time": 1765301955,
-      "rank": 17,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 46013,
       "num": 96355,
       "word": "杭州集中供暖要来了",
@@ -433,6 +441,14 @@
       "onboard_time": 1765284561,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38412,
+      "num": 26701,
+      "word": "她不是精神小妹是一位伟大的母亲",
+      "onboard_time": 1765316054,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 34881,
@@ -499,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 22732,
+      "num": 46658,
+      "word": "段永平称年轻人仍有大把机会",
+      "onboard_time": 1765310114,
+      "rank": 9,
+      "category": "互联网,休闲"
+    },
+    {
       "raw_hot": 22677,
       "num": 96448,
       "word": "澳网2026",
@@ -523,20 +547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21240,
-      "num": 47771,
-      "word": "得闲谨制",
-      "onboard_time": 1765315393,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20891,
-      "num": 38570,
-      "word": "段永平称年轻人仍有大把机会",
-      "onboard_time": 1765310114,
-      "rank": 9,
-      "category": "互联网,休闲"
+      "raw_hot": 19920,
+      "num": 33248,
+      "word": "李现澳门扫街被路人警告删掉照片",
+      "onboard_time": 1765307414,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 19862,
@@ -547,12 +563,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19260,
+      "num": 26690,
+      "word": "日本社民党党首说高市应辞职",
+      "onboard_time": 1765315034,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17587,
       "num": 36476,
       "word": "空枪 我爱你主演合体",
       "onboard_time": 1765306036,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16839,
+      "num": 33117,
+      "word": "孙兴慜遭前女友敲诈案",
+      "onboard_time": 1765311374,
+      "rank": 42,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 16571,
@@ -571,20 +603,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 15997,
-      "num": 33248,
-      "word": "李现澳门扫街被路人警告删掉照片",
-      "onboard_time": 1765307414,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 15452,
+      "num": 26658,
+      "word": "吸烟的危害具象化了",
+      "onboard_time": 1765313714,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 15040,
-      "num": 33117,
-      "word": "孙兴慜遭前女友敲诈案",
-      "onboard_time": 1765311374,
-      "rank": 42,
-      "category": "海外新闻,体育"
+      "raw_hot": 15451,
+      "num": 42426,
+      "word": "王飞教授意外离世",
+      "onboard_time": 1765279161,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14738,
+      "num": 26644,
+      "word": "中科曙光终止资产重组",
+      "onboard_time": 1765292663,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 14505,
@@ -595,36 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14412,
-      "num": 42426,
-      "word": "王飞教授意外离世",
-      "onboard_time": 1765279161,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13240,
       "num": 42448,
       "word": "今天是太阳雨开机",
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13222,
-      "num": 24355,
-      "word": "日本社民党党首说高市应辞职",
-      "onboard_time": 1765315034,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11613,
-      "num": 24341,
-      "word": "吸烟的危害具象化了",
-      "onboard_time": 1765313714,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11156,
