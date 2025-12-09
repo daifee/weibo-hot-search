@@ -1,0 +1,410 @@
+{
+  "runTime": 1765255804242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5694036,
+        "num": 5694036,
+        "word": "金昊被判处死刑",
+        "onboard_time": 1765246521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430689,
+        "num": 430689,
+        "word": "苏炳添退役",
+        "onboard_time": 1765246701,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30799,
+        "num": 382249,
+        "word": "大国小巷首善之治",
+        "onboard_time": 1765242444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377992,
+        "num": 377992,
+        "word": "日本地震",
+        "onboard_time": 1765204343,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368293,
+        "num": 368293,
+        "word": "人贩子扬言出狱报复符合加重情节",
+        "onboard_time": 1765247060,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147742,
+        "num": 328272,
+        "word": "张家齐说月经意味着噩梦的开始",
+        "onboard_time": 1765249521,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265940,
+        "num": 265940,
+        "word": "课本更换朱元璋画像",
+        "onboard_time": 1765237760,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258751,
+        "num": 258751,
+        "word": "灌面汤呛死妻子案3次延期后将宣判",
+        "onboard_time": 1765245860,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400145,
+        "num": 256158,
+        "word": "白天辉被执行死刑",
+        "onboard_time": 1765252762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 255399,
+        "word": "小米三款新车齐曝光",
+        "onboard_time": 1765241063,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 905473,
+        "num": 251703,
+        "word": "双轨 空降",
+        "onboard_time": 1765247301,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 847230,
+        "num": 247099,
+        "word": "蓝战非称被强迫拍裸照",
+        "onboard_time": 1765252099,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 539952,
+        "num": 245089,
+        "word": "灌面汤杀妻案",
+        "onboard_time": 1765251563,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392952,
+        "num": 240985,
+        "word": "男子中748万彩票遭店主扣押实体票",
+        "onboard_time": 1765252164,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30525,
+        "num": 239975,
+        "word": "每个人都是自己的极地",
+        "onboard_time": 1765252042,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 290008,
+        "num": 234236,
+        "word": "得闲谨制豆瓣开分6.9",
+        "onboard_time": 1765253963,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274439,
+        "num": 231401,
+        "word": "大明王朝",
+        "onboard_time": 1765248860,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "时代少年团星光大赏星光值第一",
+        "onboard_time": 1765255044,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215170,
+        "num": 215170,
+        "word": "嫁了个这样的又生了个这样的",
+        "onboard_time": 1765253724,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27757,
+        "num": 214664,
+        "word": "梅林罐头残留兽药超标被通报",
+        "onboard_time": 1765254923,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627585,
+        "num": 213392,
+        "word": "杨旭文新恋情",
+        "onboard_time": 1765250962,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77616,
+        "num": 212623,
+        "word": "人教版朱元璋9年前已变帅",
+        "onboard_time": 1765254504,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540052,
+        "num": 210836,
+        "word": "秦岚魏大勋分手传闻",
+        "onboard_time": 1765248923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448122,
+        "num": 210593,
+        "word": "蓝盈莹首部央一女主戏",
+        "onboard_time": 1765254803,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357626,
+        "num": 208875,
+        "word": "甲状腺癌是名副其实的懒癌",
+        "onboard_time": 1765252343,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 504572,
+        "num": 208420,
+        "word": "日本强震高市早苗一路小跑",
+        "onboard_time": 1765253423,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329710,
+        "num": 207154,
+        "word": "蓝战非被绑架1天1夜没睡觉",
+        "onboard_time": 1765254864,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267393,
+        "num": 205762,
+        "word": "留几手曝Angelababy离婚后谈过男友",
+        "onboard_time": 1765204343,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205218,
+        "num": 205218,
+        "word": "非常不建议大家拿自己的脊椎冒险",
+        "onboard_time": 1765244781,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205127,
+        "num": 205127,
+        "word": "小镇做题家考上北大却患空心病",
+        "onboard_time": 1765253603,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292228,
+        "num": 205102,
+        "word": "印度医生在美强奸偷拍百人以上",
+        "onboard_time": 1765255164,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83101,
+        "num": 205052,
+        "word": "高市早苗遇强震神色慌张",
+        "onboard_time": 1765255705,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264056,
+        "num": 204981,
+        "word": "蓝战非发文感谢中国大使馆",
+        "onboard_time": 1765250002,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38965,
+        "num": 204951,
+        "word": "日本未认真履行战败国义务",
+        "onboard_time": 1765253904,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238753,
+        "num": 204899,
+        "word": "ally又去do脸了",
+        "onboard_time": 1765255402,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204857,
+        "num": 204857,
+        "word": "星光大赏投票",
+        "onboard_time": 1765238421,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189820,
+        "num": 189820,
+        "word": "日本近海7.5级强震",
+        "onboard_time": 1765204401,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16040,
+        "num": 187080,
+        "word": "方城学校火灾680天后起火原因仍不知",
+        "onboard_time": 1765255705,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119117,
+        "num": 184863,
+        "word": "刘宇宁扑通一个小滑跪",
+        "onboard_time": 1765254803,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40559,
+        "num": 184792,
+        "word": "美国防部发文永远不会忘记",
+        "onboard_time": 1765255522,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184785,
+        "num": 184785,
+        "word": "猫的树镜头下的杨超越",
+        "onboard_time": 1765248740,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26926,
+        "num": 181073,
+        "word": "为救患病孩子父母寒风中直播跳舞",
+        "onboard_time": 1765254504,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179804,
+        "num": 179804,
+        "word": "光遇",
+        "onboard_time": 1765252883,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15306,
+        "num": 179757,
+        "word": "日本军国主义已成全球麻烦制造者",
+        "onboard_time": 1765254385,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179748,
+        "num": 179748,
+        "word": "上海月薪9000做五休二的一天",
+        "onboard_time": 1765255344,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177610,
+        "num": 177610,
+        "word": "河北杀妻案宣判被害人家属发声",
+        "onboard_time": 1765250541,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175706,
+        "num": 175706,
+        "word": "王石和田朴珺约会摔断了两根肋骨",
+        "onboard_time": 1765251083,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174491,
+        "num": 174491,
+        "word": "朱元璋 鞋拔子脸",
+        "onboard_time": 1765248622,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 171299,
+        "word": "河北杀妻案夫妻系高中大学同学",
+        "onboard_time": 1765255522,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168760,
+        "num": 168760,
+        "word": "喜茶加两个小料就会自动触发升杯",
+        "onboard_time": 1765243520,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
