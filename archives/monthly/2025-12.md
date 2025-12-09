@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 15:30:11
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/09 15:43:38
 </p>
 </blockquote>
 <p>
@@ -915,6 +915,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A6%81%E6%AD%A2%E6%8A%8A%E7%8E%A9%E6%82%A3%E8%80%85%23" target="weibo">
+医生禁止把玩患者（热度：863841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89%E5%B7%B2%E6%84%9F%E5%88%B0%E7%BB%9D%E6%9C%9B%23" target="weibo">
 日本与中国竞争已感到绝望（热度：862590）
 </a>
@@ -1287,6 +1293,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E6%9D%80%E5%A6%BB%E6%A1%88%E5%8F%91%E5%8D%A7%E5%AE%A4%E5%8D%AB%E7%94%9F%E9%97%B4%E7%95%99%E6%9C%89%E8%A1%80%E6%B8%8D%23" target="weibo">
+金昊杀妻案发卧室卫生间留有血渍（热度：686854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%20%E5%A4%8D%E5%87%BA%23" target="weibo">
 Uzi 复出（热度：686462）
 </a>
@@ -1643,12 +1655,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%B3%E5%97%BD%E4%B8%8D%E6%AD%A2%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C%23" target="weibo">
 24岁女生咳嗽不止查出肺癌（热度：607906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E6%9D%80%E5%A6%BB%E6%A1%88%E5%8F%91%E5%8D%A7%E5%AE%A4%E5%8D%AB%E7%94%9F%E9%97%B4%E7%95%99%E6%9C%89%E8%A1%80%E6%B8%8D%23" target="weibo">
-金昊杀妻案发卧室卫生间留有血渍（热度：606059）
 </a>
 </li>
 
@@ -2033,12 +2039,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%A2%E4%BD%93%E8%AF%B7%E6%B1%82%E8%AE%BF%E5%8D%8E%23" target="weibo">
 中方回应日本团体请求访华（热度：541522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A6%81%E6%AD%A2%E6%8A%8A%E7%8E%A9%E6%82%A3%E8%80%85%23" target="weibo">
-医生禁止把玩患者（热度：540916）
 </a>
 </li>
 
@@ -3069,6 +3069,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%20%E8%B0%A3%E8%A8%80%23" target="weibo">
+陈妍希 谣言（热度：425292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%A5%B3%E5%84%BF%20%E8%8B%B1%E9%9B%84%E9%9C%80%E8%A6%81%E9%BC%93%E5%8A%B1%E8%8D%89%E8%8E%93%E7%86%8A%E4%B8%8D%E7%94%A8%23" target="weibo">
 胡歌女儿 英雄需要鼓励草莓熊不用（热度：425278）
 </a>
@@ -3137,12 +3143,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%87%B5%E6%87%B5%E7%9A%84%E5%A5%BD%E6%BC%82%E4%BA%AE%23" target="weibo">
 孟子义懵懵的好漂亮（热度：419095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%20%E8%B0%A3%E8%A8%80%23" target="weibo">
-陈妍希 谣言（热度：418378）
 </a>
 </li>
 
@@ -4007,6 +4007,12 @@ vivo回应直播间风波（热度：348356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E6%B2%A1%E6%98%8E%E7%A1%AE%E8%A6%81%E6%B1%82%E6%B0%B4%E6%9E%9C%E5%94%AE%E5%8D%96%E5%89%8D%E5%BF%85%E9%A1%BB%E6%B8%85%E6%B4%97%23" target="weibo">
 12306称没明确要求水果售卖前必须清洗（热度：346110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E6%80%A7%E4%BE%B5%E6%A1%88%E8%80%81%E5%B8%88%E7%BF%BB%E4%BE%9B%E5%90%A6%E8%AE%A4%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
+百色性侵案老师翻供否认强奸女学生（热度：345909）
 </a>
 </li>
 
@@ -5607,6 +5613,12 @@ LPL（热度：247418）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BD%E7%9C%9F%E5%A5%BD%E5%A4%B4%E8%83%8E%E7%94%9F%E4%BA%86%E4%B8%AA%E6%9C%88%E5%AB%82%23" target="weibo">
+命真好头胎生了个月嫂（热度：245468）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E4%BA%91%E5%90%88%23" target="weibo">
 国色芳华云合（热度：245231）
 </a>
@@ -5847,12 +5859,6 @@ LPL（热度：247418）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E6%80%A7%E4%BE%B5%E6%A1%88%E8%80%81%E5%B8%88%E7%BF%BB%E4%BE%9B%E5%90%A6%E8%AE%A4%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
-百色性侵案老师翻供否认强奸女学生（热度：236237）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%BB%E5%89%A9%E4%B8%8B%E4%B8%89%E5%8F%AA%20%E5%8F%AF%E4%BB%A5%E5%92%8C%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%81%9A%E4%BA%B2%E6%88%9A%23" target="weibo">
 领养剩下三只 可以和惠英红做亲戚（热度：236144）
 </a>
@@ -6005,12 +6011,6 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%80%A0%E5%9E%8B%23" target="weibo">
 孟子义尖叫之夜造型（热度：230035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E7%86%AC%E5%85%AB%E5%91%A8%23" target="weibo">
-再熬八周（热度：229984）
 </a>
 </li>
 
