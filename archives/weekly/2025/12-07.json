@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765372437941,
+  "endTime": 1765374239114,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1064423,
-      "num": 195253,
+      "num": 210872,
       "word": "虞书欣父亲维权索赔17万",
       "onboard_time": 1765371261,
       "rank": 11,
@@ -617,6 +617,14 @@
       "onboard_time": 1765164140,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 807789,
+      "num": 1129246,
+      "word": "中方录音一出日本有人看不下去了",
+      "onboard_time": 1765372461,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 794913,
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 577354,
-      "num": 186999,
+      "num": 188964,
       "word": "阮经天恋情",
       "onboard_time": 1765368322,
       "rank": 20,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1765339222,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 568356,
+      "num": 210839,
+      "word": "张柏芝出庭 神图",
+      "onboard_time": 1765373184,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 568246,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1765204401,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479894,
+      "num": 479894,
+      "word": "同事加班我跑马获奖20万",
+      "onboard_time": 1765372221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479736,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1765165279,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368989,
+      "num": 368989,
+      "word": "中方回应中俄轰炸机飞临日本",
+      "onboard_time": 1765370844,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 368242,
@@ -3091,6 +3123,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 273593,
+      "num": 191807,
+      "word": "王鹤棣沈月 每隔三年be转he",
+      "onboard_time": 1765368983,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270625,
       "num": 214202,
       "word": "印尼男子性侵残疾女子遭围殴致死",
@@ -3587,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230007,
-      "num": 191807,
-      "word": "王鹤棣沈月 每隔三年be转he",
-      "onboard_time": 1765368983,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228974,
       "num": 147354,
       "word": "没有父母托举的普通人一生的任务",
@@ -3947,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210122,
+      "num": 210122,
+      "word": "片仔癀从1600元一粒降到百元",
+      "onboard_time": 1765372461,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209745,
       "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
@@ -4283,14 +4323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200722,
-      "num": 190659,
-      "word": "中方回应中俄轰炸机飞临日本",
-      "onboard_time": 1765370844,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 200632,
       "num": 187938,
       "word": "当我冲着女儿的颜值生了二胎",
@@ -4571,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190279,
+      "num": 190279,
+      "word": "王楚钦回应4比3松岛辉空",
+      "onboard_time": 1765372882,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "何老师越听越觉得不对劲",
@@ -4649,6 +4689,14 @@
       "onboard_time": 1765284561,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187680,
+      "num": 187680,
+      "word": "陈奕恒高会",
+      "onboard_time": 1765373903,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 187454,
@@ -5843,6 +5891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150290,
+      "num": 150290,
+      "word": "王楚钦说不放弃每一分",
+      "onboard_time": 1765374202,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150263,
       "num": 141815,
       "word": "得闲谨制南京大屠杀幸存者的惊心之路",
@@ -6009,6 +6065,14 @@
       "onboard_time": 1765086260,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "上班最大的意义不是拿点工资",
+      "onboard_time": 1765369402,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 147207,
@@ -6249,6 +6313,14 @@
       "onboard_time": 1765181480,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 141588,
+      "num": 141588,
+      "word": "金莎孙丞潇 现实版狙击蝴蝶",
+      "onboard_time": 1765373662,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 141535,
@@ -7075,6 +7147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129868,
+      "num": 129868,
+      "word": "LV大中华区总裁加入泡泡玛特董事会",
+      "onboard_time": 1765370844,
+      "rank": 39,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 129816,
       "num": 959277,
       "word": "希望台湾民众行动起来",
@@ -7169,14 +7249,6 @@
       "onboard_time": 1765351702,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128486,
-      "num": 128486,
-      "word": "LV大中华区总裁加入泡泡玛特董事会",
-      "onboard_time": 1765370844,
-      "rank": 39,
-      "category": "财经,动漫"
     },
     {
       "raw_hot": 128473,
@@ -8147,12 +8219,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 116306,
-      "num": 116306,
-      "word": "上班最大的意义不是拿点工资",
-      "onboard_time": 1765369402,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 116297,
+      "num": 116297,
+      "word": "周柯宇 不要ban妍希姐的英雄",
+      "onboard_time": 1765370122,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116179,
@@ -8747,14 +8819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109965,
-      "num": 109965,
-      "word": "周柯宇 不要ban妍希姐的英雄",
-      "onboard_time": 1765370122,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109935,
       "num": 109935,
       "word": "胡先煦王安宇惨遭闺蜜退货",
@@ -9265,6 +9329,14 @@
       "onboard_time": 1765285582,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103672,
+      "num": 103672,
+      "word": "王楚钦总决赛大逆转",
+      "onboard_time": 1765372823,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103555,
@@ -10507,6 +10579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85542,
+      "num": 189500,
+      "word": "日本不适应也得适应",
+      "onboard_time": 1765373003,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85393,
       "num": 85393,
       "word": "张韶涵新专",
@@ -10817,14 +10897,6 @@
       "onboard_time": 1765201762,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 78281,
-      "num": 152930,
-      "word": "同事加班我跑马获奖20万",
-      "onboard_time": 1765372221,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77824,
@@ -11979,6 +12051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51263,
+      "num": 125506,
+      "word": "刘浩存 圣诞树成精",
+      "onboard_time": 1765373662,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51249,
       "num": 125410,
       "word": "日本军国主义大有卷土重来之势",
@@ -12507,6 +12587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42068,
+      "num": 125500,
+      "word": "陈伟霆 哥不懂但祝你考试成功",
+      "onboard_time": 1765368983,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41895,
       "num": 281116,
       "word": "建议内娱疯批演技都按这个标准卷",
@@ -12536,6 +12624,14 @@
       "word": "哈尔滨的面包树上停满了小鸟",
       "onboard_time": 1765134014,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41089,
+      "num": 768474,
+      "word": "明年经济三大看点",
+      "onboard_time": 1765360163,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -12665,6 +12761,14 @@
       "onboard_time": 1765323320,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 38168,
+      "num": 179577,
+      "word": "日方应老老实实撤回错误言论",
+      "onboard_time": 1765371803,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38153,
@@ -12827,12 +12931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34866,
+      "num": 134149,
+      "word": "清华大学举行杨振宁追思会",
+      "onboard_time": 1765372283,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34751,
       "num": 257727,
       "word": "每个人都是自己的极地",
       "onboard_time": 1765252042,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34639,
+      "num": 190169,
+      "word": "李在明正式开始搬回青瓦台",
+      "onboard_time": 1765373422,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34460,
@@ -13064,6 +13184,14 @@
       "word": "大国小巷首善之治",
       "onboard_time": 1765242444,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30664,
+      "num": 211392,
+      "word": "2025中国经济回眸",
+      "onboard_time": 1765372221,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -13371,14 +13499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25290,
-      "num": 768474,
-      "word": "明年经济三大看点",
-      "onboard_time": 1765360163,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25002,
       "num": 112817,
       "word": "氢气球爆炸致孩子烧伤妈妈含泪提醒",
@@ -13521,14 +13641,6 @@
       "onboard_time": 1765217955,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 21726,
-      "num": 200638,
-      "word": "2025中国经济回眸",
-      "onboard_time": 1765372221,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21507,
@@ -13683,14 +13795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19146,
-      "num": 134149,
-      "word": "清华大学举行杨振宁追思会",
-      "onboard_time": 1765372283,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18959,
       "num": 131305,
       "word": "官方通报一电梯卡人致1人死亡",
@@ -13761,14 +13865,6 @@
       "onboard_time": 1765168342,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18024,
-      "num": 179577,
-      "word": "日方应老老实实撤回错误言论",
-      "onboard_time": 1765371803,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17739,
@@ -14009,6 +14105,14 @@
       "onboard_time": 1765226054,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 12315,
+      "num": 125782,
+      "word": "最快女护士医院官网曾发文为你骄傲",
+      "onboard_time": 1765373544,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11960,

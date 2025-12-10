@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765372437941,
+  "endTime": 1765374239114,
   "band_list": [
     {
       "raw_hot": 2374415,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1064423,
-      "num": 195253,
+      "num": 210872,
       "word": "虞书欣父亲维权索赔17万",
       "onboard_time": 1765371261,
       "rank": 11,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 807789,
+      "num": 1129246,
+      "word": "中方录音一出日本有人看不下去了",
+      "onboard_time": 1765372461,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 794913,
       "num": 299840,
       "word": "曝何九华王鸥已在南宁领证",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 577354,
-      "num": 186999,
+      "num": 188964,
       "word": "阮经天恋情",
       "onboard_time": 1765368322,
       "rank": 20,
@@ -249,6 +257,14 @@
       "onboard_time": 1765339222,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 568356,
+      "num": 210839,
+      "word": "张柏芝出庭 神图",
+      "onboard_time": 1765373184,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 561233,
@@ -353,6 +369,14 @@
       "onboard_time": 1765268121,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479894,
+      "num": 479894,
+      "word": "同事加班我跑马获奖20万",
+      "onboard_time": 1765372221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477390,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368989,
+      "num": 368989,
+      "word": "中方回应中俄轰炸机飞临日本",
+      "onboard_time": 1765370844,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 360796,
       "num": 360796,
       "word": "学校火灾致13死校方逼家长签协议",
@@ -691,6 +723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 273593,
+      "num": 191807,
+      "word": "王鹤棣沈月 每隔三年be转he",
+      "onboard_time": 1765368983,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270305,
       "num": 270305,
       "word": "狙击蝴蝶今晚不播这段找人弄你",
@@ -779,14 +819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230007,
-      "num": 191807,
-      "word": "王鹤棣沈月 每隔三年be转he",
-      "onboard_time": 1765368983,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228419,
       "num": 619309,
       "word": "原神月之少女",
@@ -857,6 +889,14 @@
       "onboard_time": 1765329621,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210122,
+      "num": 210122,
+      "word": "片仔癀从1600元一粒降到百元",
+      "onboard_time": 1765372461,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 208013,
@@ -931,14 +971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 200722,
-      "num": 190659,
-      "word": "中方回应中俄轰炸机飞临日本",
-      "onboard_time": 1765370844,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 200202,
       "num": 200202,
       "word": "电视剧老舅定档",
@@ -995,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190279,
+      "num": 190279,
+      "word": "王楚钦回应4比3松岛辉空",
+      "onboard_time": 1765372882,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "何老师越听越觉得不对劲",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1765352362,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187680,
+      "num": 187680,
+      "word": "陈奕恒高会",
+      "onboard_time": 1765373903,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 187435,
@@ -1323,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150290,
+      "num": 150290,
+      "word": "王楚钦说不放弃每一分",
+      "onboard_time": 1765374202,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149484,
       "num": 149484,
       "word": "中国科学家证明爱因斯坦这次错了",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1765358061,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "上班最大的意义不是拿点工资",
+      "onboard_time": 1765369402,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 146511,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1765343183,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141588,
+      "num": 141588,
+      "word": "金莎孙丞潇 现实版狙击蝴蝶",
+      "onboard_time": 1765373662,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 141535,
@@ -1667,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129868,
+      "num": 129868,
+      "word": "LV大中华区总裁加入泡泡玛特董事会",
+      "onboard_time": 1765370844,
+      "rank": 39,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 129816,
       "num": 959277,
       "word": "希望台湾民众行动起来",
@@ -1697,14 +1777,6 @@
       "onboard_time": 1765351702,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128486,
-      "num": 128486,
-      "word": "LV大中华区总裁加入泡泡玛特董事会",
-      "onboard_time": 1765370844,
-      "rank": 39,
-      "category": "财经,动漫"
     },
     {
       "raw_hot": 128415,
@@ -1843,12 +1915,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116306,
-      "num": 116306,
-      "word": "上班最大的意义不是拿点工资",
-      "onboard_time": 1765369402,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 116297,
+      "num": 116297,
+      "word": "周柯宇 不要ban妍希姐的英雄",
+      "onboard_time": 1765370122,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 115400,
@@ -1905,14 +1977,6 @@
       "onboard_time": 1765304655,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109965,
-      "num": 109965,
-      "word": "周柯宇 不要ban妍希姐的英雄",
-      "onboard_time": 1765370122,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 109487,
@@ -1993,6 +2057,14 @@
       "onboard_time": 1765366641,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103672,
+      "num": 103672,
+      "word": "王楚钦总决赛大逆转",
+      "onboard_time": 1765372823,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103167,
@@ -2251,6 +2323,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 85542,
+      "num": 189500,
+      "word": "日本不适应也得适应",
+      "onboard_time": 1765373003,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84934,
       "num": 84934,
       "word": "赛力斯副总裁回应脱离华为",
@@ -2353,14 +2433,6 @@
       "onboard_time": 1765323198,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78281,
-      "num": 152930,
-      "word": "同事加班我跑马获奖20万",
-      "onboard_time": 1765372221,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78277,
@@ -2843,6 +2915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51263,
+      "num": 125506,
+      "word": "刘浩存 圣诞树成精",
+      "onboard_time": 1765373662,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51160,
       "num": 157596,
       "word": "我国成功发射一箭九星",
@@ -3003,12 +3083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42068,
+      "num": 125500,
+      "word": "陈伟霆 哥不懂但祝你考试成功",
+      "onboard_time": 1765368983,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41324,
       "num": 96660,
       "word": "张凌赫妈妈好像周雨彤",
       "onboard_time": 1765280242,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41089,
+      "num": 768474,
+      "word": "明年经济三大看点",
+      "onboard_time": 1765360163,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40775,
@@ -3059,6 +3155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 38168,
+      "num": 179577,
+      "word": "日方应老老实实撤回错误言论",
+      "onboard_time": 1765371803,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38131,
       "num": 216491,
       "word": "浙大称26岁博导父母务农",
@@ -3089,6 +3193,22 @@
       "onboard_time": 1765342282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34866,
+      "num": 134149,
+      "word": "清华大学举行杨振宁追思会",
+      "onboard_time": 1765372283,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34639,
+      "num": 190169,
+      "word": "李在明正式开始搬回青瓦台",
+      "onboard_time": 1765373422,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34450,
@@ -3137,6 +3257,14 @@
       "onboard_time": 1765307955,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 30664,
+      "num": 211392,
+      "word": "2025中国经济回眸",
+      "onboard_time": 1765372221,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30581,
@@ -3251,14 +3379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25290,
-      "num": 768474,
-      "word": "明年经济三大看点",
-      "onboard_time": 1765360163,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24506,
       "num": 33570,
       "word": "日本社民党党首说高市应辞职",
@@ -3289,14 +3409,6 @@
       "onboard_time": 1765289486,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21726,
-      "num": 200638,
-      "word": "2025中国经济回眸",
-      "onboard_time": 1765372221,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21606,
@@ -3331,14 +3443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19146,
-      "num": 134149,
-      "word": "清华大学举行杨振宁追思会",
-      "onboard_time": 1765372283,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18958,
       "num": 146857,
       "word": "警方介入店主持刀挥向打假博主",
@@ -3353,14 +3457,6 @@
       "onboard_time": 1765279161,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18024,
-      "num": 179577,
-      "word": "日方应老老实实撤回错误言论",
-      "onboard_time": 1765371803,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17694,
@@ -3465,6 +3561,14 @@
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12315,
+      "num": 125782,
+      "word": "最快女护士医院官网曾发文为你骄傲",
+      "onboard_time": 1765373544,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11156,
