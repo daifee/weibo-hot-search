@@ -1,0 +1,410 @@
+{
+  "runTime": 1765352646710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1990930,
+        "num": 1990930,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536554,
+        "num": 536554,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28682,
+        "num": 534193,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392274,
+        "num": 530552,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112605,
+        "num": 523908,
+        "word": "原神月之少女",
+        "onboard_time": 1765347742,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339608,
+        "num": 516891,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234465,
+        "num": 512050,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91815,
+        "num": 502360,
+        "word": "万科A午后涨停",
+        "onboard_time": 1765345882,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63037,
+        "num": 496301,
+        "word": "中国机器人6000米深海拍视频",
+        "onboard_time": 1765341142,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70273,
+        "num": 492397,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 488682,
+        "num": 488682,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486600,
+        "num": 486600,
+        "word": "新生儿疑因基因筛查错误致死",
+        "onboard_time": 1765347623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457522,
+        "num": 457522,
+        "word": "李现西藏徒步",
+        "onboard_time": 1765347861,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380512,
+        "num": 380512,
+        "word": "崖洞发现干尸博主称已找到家属",
+        "onboard_time": 1765350800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319102,
+        "num": 319102,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268715,
+        "num": 268715,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1765349300,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221986,
+        "num": 221986,
+        "word": "4岁女童甲流合并细菌感染肺都白了",
+        "onboard_time": 1765345820,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 208752,
+        "num": 208752,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190584,
+        "num": 190584,
+        "word": "爱奇艺排播片单没有双轨",
+        "onboard_time": 1765346301,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47462,
+        "num": 189650,
+        "word": "部分网店水银体温计价格翻倍被抢空",
+        "onboard_time": 1765351820,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379819,
+        "num": 189473,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177130,
+        "num": 188989,
+        "word": "领克10EM-P销量快速突破2万",
+        "onboard_time": 1765350860,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188726,
+        "num": 188726,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185780,
+        "num": 185780,
+        "word": "七个偶像练习生在综艺里吵起来了",
+        "onboard_time": 1765345221,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 180324,
+        "word": "汕头火灾致12人遇难已排除刑案",
+        "onboard_time": 1765350620,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173021,
+        "num": 173021,
+        "word": "19岁男生肚疼查出肠癌晚期",
+        "onboard_time": 1765351702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165657,
+        "num": 165657,
+        "word": "孙俪教邓超减肥 3周腰围小4厘米",
+        "onboard_time": 1765343541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158602,
+        "num": 158602,
+        "word": "银价已暴涨110%",
+        "onboard_time": 1765352001,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155566,
+        "num": 155566,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130811,
+        "num": 147510,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140134,
+        "num": 140134,
+        "word": "大爷配的药完美解决了全菌操作",
+        "onboard_time": 1765350921,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138898,
+        "num": 138898,
+        "word": "王俊凯工作室你让我很尴尬",
+        "onboard_time": 1765352422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137180,
+        "num": 137180,
+        "word": "老阿姨澡堂内偷拍多名女性被拘",
+        "onboard_time": 1765346422,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134683,
+        "num": 134683,
+        "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+        "onboard_time": 1765339941,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 128645,
+        "num": 128645,
+        "word": "周柯宇藏得也太深了",
+        "onboard_time": 1765351702,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "聂远11岁女儿已拍4部长剧",
+        "onboard_time": 1765348821,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100395,
+        "num": 122845,
+        "word": "中国海警舰艇在我钓鱼岛领海巡航",
+        "onboard_time": 1765352542,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92671,
+        "num": 121807,
+        "word": "最快女护士曾称绝不影响工作",
+        "onboard_time": 1765350620,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42578,
+        "num": 120483,
+        "word": "汕头失火自建房窗户有防盗网",
+        "onboard_time": 1765352001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26167,
+        "num": 119590,
+        "word": "老舅友情出演姚安娜",
+        "onboard_time": 1765352362,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90754,
+        "num": 119223,
+        "word": "为何欧洲已不值得中国帮助",
+        "onboard_time": 1765350441,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118642,
+        "num": 118642,
+        "word": "苹果喊话iPhone用户更新iOS26",
+        "onboard_time": 1765343482,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117312,
+        "num": 117312,
+        "word": "汪东城 绝望直男",
+        "onboard_time": 1765346601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51156,
+        "num": 116820,
+        "word": "男子推翻自己小车为婚车让路",
+        "onboard_time": 1765351222,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47135,
+        "num": 116426,
+        "word": "盆栽如何选择营养土",
+        "onboard_time": 1765351222,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116424,
+        "num": 116424,
+        "word": "才知道苹果按右上角就能关机",
+        "onboard_time": 1765352480,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 111072,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363669,
+        "num": 109894,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 47,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 104918,
+        "num": 104918,
+        "word": "大疆回应多地无人机黑飞至8000米",
+        "onboard_time": 1765349542,
+        "rank": 48,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 104792,
+        "num": 104792,
+        "word": "你上辈子在军情六处干过吧",
+        "onboard_time": 1765352061,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}

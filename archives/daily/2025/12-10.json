@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765351839375,
+  "endTime": 1765352646710,
   "band_list": [
     {
       "raw_hot": 2151815,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 390299,
-      "num": 356610,
+      "num": 516891,
       "word": "男子飞无人机时在崖洞中发现干尸",
       "onboard_time": 1765343302,
       "rank": 26,
@@ -296,6 +296,14 @@
       "word": "4岁女童甲流合并细菌感染肺都白了",
       "onboard_time": 1765345820,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380512,
+      "num": 380512,
+      "word": "崖洞发现干尸博主称已找到家属",
+      "onboard_time": 1765350800,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -643,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180324,
+      "num": 594775,
+      "word": "汕头火灾致12人遇难已排除刑案",
+      "onboard_time": 1765350620,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173021,
+      "num": 173021,
+      "word": "19岁男生肚疼查出肠癌晚期",
+      "onboard_time": 1765351702,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170732,
       "num": 170732,
       "word": "汪东城 绝望直男",
@@ -705,6 +729,14 @@
       "onboard_time": 1765345101,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158602,
+      "num": 158602,
+      "word": "银价已暴涨110%",
+      "onboard_time": 1765352001,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 157817,
@@ -851,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138898,
+      "num": 138898,
+      "word": "王俊凯工作室你让我很尴尬",
+      "onboard_time": 1765352422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138519,
       "num": 222721,
       "word": "BLG官宣Daeny加入",
@@ -939,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128645,
+      "num": 128645,
+      "word": "周柯宇藏得也太深了",
+      "onboard_time": 1765351702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128404,
       "num": 384679,
       "word": "NBA交易市场",
@@ -1019,20 +1067,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116424,
+      "num": 116424,
+      "word": "才知道苹果按右上角就能关机",
+      "onboard_time": 1765352480,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115299,
       "num": 103254,
       "word": "她不是精神小妹是一位伟大的母亲",
       "onboard_time": 1765316054,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111362,
-      "num": 125674,
-      "word": "崖洞发现干尸博主称已找到家属",
-      "onboard_time": 1765350800,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111086,
@@ -1059,14 +1107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109621,
-      "num": 109621,
-      "word": "周柯宇藏得也太深了",
-      "onboard_time": 1765351702,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109487,
       "num": 109487,
       "word": "36岁电商女老板王晓析患胃癌去世",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1765342401,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108124,
-      "num": 108124,
-      "word": "19岁男生肚疼查出肠癌晚期",
-      "onboard_time": 1765351702,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108033,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1765337481,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104792,
+      "num": 104792,
+      "word": "你上辈子在军情六处干过吧",
+      "onboard_time": 1765352061,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103167,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1765336700,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100395,
+      "num": 122845,
+      "word": "中国海警舰艇在我钓鱼岛领海巡航",
+      "onboard_time": 1765352542,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100264,
@@ -1243,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92671,
+      "num": 270654,
+      "word": "最快女护士曾称绝不影响工作",
+      "onboard_time": 1765350620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91770,
       "num": 91770,
       "word": "男女主相差11岁的设定",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1765341201,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90754,
+      "num": 252049,
+      "word": "为何欧洲已不值得中国帮助",
+      "onboard_time": 1765350441,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90679,
@@ -1611,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66074,
-      "num": 594775,
-      "word": "汕头火灾致12人遇难已排除刑案",
-      "onboard_time": 1765350620,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64916,
       "num": 253344,
       "word": "校领导安排学生给儿子投票被免职",
@@ -1627,20 +1683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64688,
-      "num": 252049,
-      "word": "为何欧洲已不值得中国帮助",
-      "onboard_time": 1765350441,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63521,
       "num": 97006,
       "word": "王橹杰贝雷帽比心照",
       "onboard_time": 1765293921,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63037,
+      "num": 607118,
+      "word": "中国机器人6000米深海拍视频",
+      "onboard_time": 1765341142,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62845,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1765293262,
       "rank": 41,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 61130,
-      "num": 607118,
-      "word": "中国机器人6000米深海拍视频",
-      "onboard_time": 1765341142,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60545,
@@ -1811,6 +1859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51156,
+      "num": 121954,
+      "word": "男子推翻自己小车为婚车让路",
+      "onboard_time": 1765351222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51080,
       "num": 61707,
       "word": "中国女博士生和女儿遭外籍丈夫杀害",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1765292663,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47462,
+      "num": 189650,
+      "word": "部分网店水银体温计价格翻倍被抢空",
+      "onboard_time": 1765351820,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45843,
@@ -1883,20 +1947,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44136,
-      "num": 270654,
-      "word": "最快女护士曾称绝不影响工作",
-      "onboard_time": 1765350620,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43916,
       "num": 225482,
       "word": "WTT香港总决赛",
       "onboard_time": 1765329981,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42578,
+      "num": 120483,
+      "word": "汕头失火自建房窗户有防盗网",
+      "onboard_time": 1765352001,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42512,
@@ -2011,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32941,
-      "num": 121954,
-      "word": "男子推翻自己小车为婚车让路",
-      "onboard_time": 1765351222,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32255,
       "num": 37533,
       "word": "孙兴慜遭前女友敲诈案",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1765332320,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26167,
+      "num": 119590,
+      "word": "老舅友情出演姚安娜",
+      "onboard_time": 1765352362,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 25581,
