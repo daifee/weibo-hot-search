@@ -1,7 +1,15 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765338323690,
+  "endTime": 1765339204907,
   "band_list": [
+    {
+      "raw_hot": 1910823,
+      "num": 447157,
+      "word": "TF家族新音官宣",
+      "onboard_time": 1765337001,
+      "rank": 3,
+      "category": "演出"
+    },
     {
       "raw_hot": 1778889,
       "num": 262566,
@@ -9,14 +17,6 @@
       "onboard_time": 1765330822,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1585228,
-      "num": 447157,
-      "word": "TF家族新音官宣",
-      "onboard_time": 1765337001,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1399999,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606511,
+      "num": 313626,
+      "word": "双轨",
+      "onboard_time": 1765325901,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559432,
       "num": 356807,
       "word": "最快女护士张水华被医院处分",
@@ -91,12 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 515469,
-      "num": 313626,
-      "word": "双轨",
-      "onboard_time": 1765325901,
+      "raw_hot": 504163,
+      "num": 259437,
+      "word": "女子一周喝三次奶茶确诊糖尿病",
+      "onboard_time": 1765335680,
       "rank": 15,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483774,
@@ -171,11 +179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345879,
-      "num": 259437,
-      "word": "女子一周喝三次奶茶确诊糖尿病",
-      "onboard_time": 1765335680,
-      "rank": 15,
+      "raw_hot": 365451,
+      "num": 300486,
+      "word": "最快女护士已影响科室正常排班",
+      "onboard_time": 1765337183,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341377,
+      "num": 283124,
+      "word": "中国景点被误标地点为日本",
+      "onboard_time": 1765332562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332624,
       "num": 256778,
       "word": "外交官辟谣这是中国不是日本",
       "onboard_time": 1765332320,
       "rank": 23,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 318735,
-      "num": 262187,
-      "word": "中国景点被误标地点为日本",
-      "onboard_time": 1765332562,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305139,
@@ -257,6 +265,14 @@
       "onboard_time": 1765336580,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252310,
+      "num": 200455,
+      "word": "蓝战非 生物证据",
+      "onboard_time": 1765337001,
+      "rank": 34,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 241390,
@@ -339,19 +355,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 201641,
-      "num": 261910,
-      "word": "最快女护士已影响科室正常排班",
-      "onboard_time": 1765337183,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195103,
       "num": 195103,
       "word": "白鹿浙江跨晚造型",
       "onboard_time": 1765334960,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190197,
+      "num": 190197,
+      "word": "何老师越听越觉得不对劲",
+      "onboard_time": 1765337301,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -371,20 +387,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186755,
+      "num": 186755,
+      "word": "12月的最大尺度",
+      "onboard_time": 1765337961,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183040,
       "num": 183040,
       "word": "孙千问陈晓知道谁旺你了吧",
       "onboard_time": 1765333400,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173941,
-      "num": 173941,
-      "word": "何老师越听越觉得不对劲",
-      "onboard_time": 1765337301,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 169533,
@@ -419,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154339,
-      "num": 154339,
-      "word": "蓝战非 生物证据",
-      "onboard_time": 1765337001,
-      "rank": 34,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 153334,
       "num": 121200,
       "word": "高市早苗面无表情道歉",
@@ -441,6 +449,30 @@
       "onboard_time": 1765287984,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148547,
+      "num": 148547,
+      "word": "蓝盈莹民国不养闲散大小姐",
+      "onboard_time": 1765338503,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146511,
+      "num": 146511,
+      "word": "阿禅官宣",
+      "onboard_time": 1765338503,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146488,
+      "num": 261627,
+      "word": "小米澎湃OS微信聊天能发实况图",
+      "onboard_time": 1765337542,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 145498,
@@ -473,6 +505,22 @@
       "onboard_time": 1765322058,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136274,
+      "num": 136274,
+      "word": "熬夜 代偿性清醒",
+      "onboard_time": 1765338320,
+      "rank": 35,
+      "category": "科学科普,情感"
+    },
+    {
+      "raw_hot": 136034,
+      "num": 136034,
+      "word": "狙击蝴蝶今晚不播这段找人弄你",
+      "onboard_time": 1765339101,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 133182,
@@ -531,20 +579,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 125652,
+      "num": 125652,
+      "word": "20岁女子1天瘦1斤确诊糖尿病",
+      "onboard_time": 1765338560,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121847,
+      "num": 126799,
+      "word": "自卑的他明媚的她互补的家",
+      "onboard_time": 1765338861,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115299,
       "num": 103254,
       "word": "她不是精神小妹是一位伟大的母亲",
       "onboard_time": 1765316054,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114377,
-      "num": 261627,
-      "word": "小米澎湃OS微信聊天能发实况图",
-      "onboard_time": 1765337542,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 110219,
@@ -595,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103525,
-      "num": 103525,
-      "word": "12月的最大尺度",
-      "onboard_time": 1765337961,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103167,
       "num": 97058,
       "word": "感到不顺时要丢掉3样东西",
@@ -635,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101047,
+      "num": 101047,
+      "word": "水煮蛋 九分十二秒",
+      "onboard_time": 1765339162,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100264,
       "num": 100264,
       "word": "人渣遭报复被缝进人偶蜡像",
@@ -649,6 +705,14 @@
       "onboard_time": 1765326141,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98791,
+      "num": 98791,
+      "word": "长安到底有谁在啊",
+      "onboard_time": 1765339040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98764,
@@ -939,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72116,
+      "num": 126592,
+      "word": "男生把零食当饭发现已肠癌晚期",
+      "onboard_time": 1765338861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70336,
       "num": 70336,
       "word": "宋茜剪完头发怎么变这么拘谨",
@@ -1099,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52576,
+      "num": 256311,
+      "word": "26岁成浙大博导是无编制岗位",
+      "onboard_time": 1765338081,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52311,
       "num": 52311,
       "word": "果然文化工作者一定要有文化",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1765280242,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40775,
+      "num": 126595,
+      "word": "精神医院为何排满失眠的中老年女性",
+      "onboard_time": 1765338982,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40096,
@@ -1369,14 +1457,6 @@
       "onboard_time": 1765305315,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19019,
-      "num": 256311,
-      "word": "26岁成浙大博导是无编制岗位",
-      "onboard_time": 1765338081,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18502,
