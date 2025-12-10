@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765381576545,
+  "endTime": 1765384704105,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1765163900,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 857605,
+      "num": 857605,
+      "word": "5000万网红偷税漏税被实名举报",
+      "onboard_time": 1765380561,
+      "rank": 15,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 852733,
@@ -3859,6 +3867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482553,
+      "num": 173878,
+      "word": "女子熟睡遭男友喂堕胎药",
+      "onboard_time": 1765379721,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 482375,
       "num": 1077180,
       "word": "课本上明太祖画像换了",
@@ -5881,14 +5897,6 @@
       "onboard_time": 1764682404,
       "rank": 26,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 357229,
-      "num": 357229,
-      "word": "5000万网红偷税漏税被实名举报",
-      "onboard_time": 1765380561,
-      "rank": 15,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 356027,
@@ -13075,6 +13083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172956,
+      "num": 172956,
+      "word": "水银体温计网售价从4元涨至33元",
+      "onboard_time": 1765378104,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172829,
       "num": 172828,
       "word": "殷世航自曝65万营业额到手2万",
@@ -15105,14 +15121,6 @@
       "onboard_time": 1765180640,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153091,
-      "num": 116779,
-      "word": "女子熟睡遭男友喂堕胎药",
-      "onboard_time": 1765379721,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153075,
@@ -18275,14 +18283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130442,
-      "num": 147131,
-      "word": "水银体温计网售价从4元涨至33元",
-      "onboard_time": 1765378104,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130398,
       "num": 130398,
       "word": "指甲出现这个变化别不当回事",
@@ -18553,6 +18553,14 @@
       "onboard_time": 1764514220,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128661,
+      "num": 116799,
+      "word": "躺床上玩手机的正确姿势",
+      "onboard_time": 1765380561,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128657,
@@ -20705,6 +20713,14 @@
       "onboard_time": 1764992721,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117402,
+      "num": 117402,
+      "word": "汕头火灾遇难者系四代同堂",
+      "onboard_time": 1765380921,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117368,
@@ -23433,6 +23449,14 @@
       "onboard_time": 1765278921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103267,
+      "num": 103267,
+      "word": "狙击蝴蝶 女主赋魅",
+      "onboard_time": 1765383859,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 103234,
@@ -26491,6 +26515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86664,
+      "num": 103213,
+      "word": "狙击蝴蝶剧组工作人员发文",
+      "onboard_time": 1765382361,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86645,
       "num": 86645,
       "word": "蛇和龙的区别",
@@ -28203,14 +28235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73903,
-      "num": 116799,
-      "word": "躺床上玩手机的正确姿势",
-      "onboard_time": 1765380561,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 73881,
       "num": 264724,
       "word": "问界56789产品矩阵将补齐",
@@ -28875,6 +28899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67076,
+      "num": 116317,
+      "word": "泰柬冲突",
+      "onboard_time": 1765381281,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66907,
       "num": 106785,
       "word": "田曦薇的肌肉终于派上用场了",
@@ -29275,20 +29307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62400,
-      "num": 116430,
-      "word": "汕头火灾遇难者系四代同堂",
-      "onboard_time": 1765380921,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62285,
       "num": 497749,
       "word": "王嘉尔入选美国AT40榜单",
       "onboard_time": 1764579681,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62265,
+      "num": 116404,
+      "word": "小樱桃坠亡后家庭现状",
+      "onboard_time": 1765381221,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62120,
@@ -29489,14 +29521,6 @@
       "onboard_time": 1765258882,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59555,
-      "num": 116404,
-      "word": "小樱桃坠亡后家庭现状",
-      "onboard_time": 1765381221,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59547,
@@ -29769,14 +29793,6 @@
       "onboard_time": 1765285225,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56660,
-      "num": 116317,
-      "word": "泰柬冲突",
-      "onboard_time": 1765381281,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56615,
@@ -32569,6 +32585,14 @@
       "onboard_time": 1764674963,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 34488,
+      "num": 102532,
+      "word": "片仔癀跌破官方指导价",
+      "onboard_time": 1765382120,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 34460,
