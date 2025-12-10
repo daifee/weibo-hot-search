@@ -1,0 +1,410 @@
+{
+  "runTime": 1765374974095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734133,
+        "num": 1117461,
+        "word": "中方录音一出日本有人看不下去了",
+        "onboard_time": 1765372461,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 677539,
+        "num": 677539,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46563,
+        "num": 547197,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511951,
+        "num": 511951,
+        "word": "同事加班我跑马获奖20万",
+        "onboard_time": 1765372221,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270750,
+        "num": 270750,
+        "word": "王楚钦回应4比3松岛辉空",
+        "onboard_time": 1765372882,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389809,
+        "num": 270581,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344906,
+        "num": 270512,
+        "word": "中方回应中俄轰炸机飞临日本",
+        "onboard_time": 1765370844,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268831,
+        "num": 268831,
+        "word": "王楚钦4比3松岛辉空",
+        "onboard_time": 1765371143,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23676,
+        "num": 262924,
+        "word": "2025中国经济回眸",
+        "onboard_time": 1765372221,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152879,
+        "num": 255165,
+        "word": "TheShy发文告别赛场",
+        "onboard_time": 1765367422,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1550780,
+        "num": 250386,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1070452,
+        "num": 243424,
+        "word": "张柏芝出庭 神图",
+        "onboard_time": 1765373184,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837184,
+        "num": 234368,
+        "word": "虞书欣父亲维权索赔17万",
+        "onboard_time": 1765371261,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367694,
+        "num": 225488,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337983,
+        "num": 223633,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314434,
+        "num": 216613,
+        "word": "管不住下半身 姐会亲自手刃",
+        "onboard_time": 1765361542,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289915,
+        "num": 208064,
+        "word": "我大使馆回应蓝战非被胁迫转账",
+        "onboard_time": 1765360282,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203180,
+        "num": 203180,
+        "word": "片仔癀从1600元一粒降到百元",
+        "onboard_time": 1765372461,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178415,
+        "num": 178415,
+        "word": "LV大中华区总裁加入泡泡玛特董事会",
+        "onboard_time": 1765370844,
+        "rank": 18,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 125797,
+        "num": 178238,
+        "word": "程靖淇宣布退役",
+        "onboard_time": 1765368862,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353100,
+        "num": 178200,
+        "word": "阮经天恋情",
+        "onboard_time": 1765368322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273206,
+        "num": 177900,
+        "word": "王鹤棣沈月 每隔三年be转he",
+        "onboard_time": 1765368983,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204709,
+        "num": 177782,
+        "word": "陈奕恒高会",
+        "onboard_time": 1765373903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190021,
+        "num": 177524,
+        "word": "上班最大的意义不是拿点工资",
+        "onboard_time": 1765369402,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177498,
+        "num": 177498,
+        "word": "金莎孙丞潇 现实版狙击蝴蝶",
+        "onboard_time": 1765373662,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54606,
+        "num": 145718,
+        "word": "李在明正式开始搬回青瓦台",
+        "onboard_time": 1765373422,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145419,
+        "num": 145419,
+        "word": "惠英红跳了替身不敢跳的楼",
+        "onboard_time": 1765374624,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129285,
+        "num": 129285,
+        "word": "郭碧婷说住台北公婆没意见",
+        "onboard_time": 1765369642,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119451,
+        "num": 127184,
+        "word": "小樱桃坠亡3年妈妈仍留着她衣服",
+        "onboard_time": 1765368021,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191195,
+        "num": 126989,
+        "word": "王楚钦的嘴还是一如既往搞笑",
+        "onboard_time": 1765374743,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126528,
+        "num": 126528,
+        "word": "李昀锐手上好多伤",
+        "onboard_time": 1765367962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94586,
+        "num": 123628,
+        "word": "日本不适应也得适应",
+        "onboard_time": 1765373003,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98766,
+        "num": 123210,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1765368562,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122842,
+        "num": 122842,
+        "word": "周柯宇 不要ban妍希姐的英雄",
+        "onboard_time": 1765370122,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121344,
+        "num": 121344,
+        "word": "肖战签名专辑",
+        "onboard_time": 1765358000,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117680,
+        "num": 117680,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41067,
+        "num": 117584,
+        "word": "鸭子填油脂冒充大鹅",
+        "onboard_time": 1765374863,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50593,
+        "num": 117395,
+        "word": "电动车一条街 11家店7家关门",
+        "onboard_time": 1765374382,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32818,
+        "num": 117200,
+        "word": "李昀锐 内娱脸蛋天才",
+        "onboard_time": 1765374863,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110491,
+        "num": 116928,
+        "word": "南非当地警方调查蓝战非案",
+        "onboard_time": 1765360882,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81507,
+        "num": 116684,
+        "word": "刘浩存 圣诞树成精",
+        "onboard_time": 1765373662,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116488,
+        "num": 116488,
+        "word": "美国女子熟睡时被医生男友喂堕胎药",
+        "onboard_time": 1765374685,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20068,
+        "num": 116286,
+        "word": "最快女护士医院官网曾发文为你骄傲",
+        "onboard_time": 1765373544,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116099,
+        "num": 116099,
+        "word": "王楚钦回应身体状态",
+        "onboard_time": 1765374743,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113521,
+        "num": 113521,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1765357702,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113507,
+        "num": 113507,
+        "word": "两种情况不建议穿外衣上床",
+        "onboard_time": 1765372342,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113318,
+        "num": 113318,
+        "word": "李飞 我太羞耻了",
+        "onboard_time": 1765374263,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110273,
+        "num": 110273,
+        "word": "考研准考证 颜文字",
+        "onboard_time": 1765360520,
+        "rank": 48,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 74071,
+        "num": 109317,
+        "word": "陈伟霆 哥不懂但祝你考试成功",
+        "onboard_time": 1765368983,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
