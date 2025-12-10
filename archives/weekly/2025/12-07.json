@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765360048222,
+  "endTime": 1765362843647,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 923860,
+      "num": 199914,
+      "word": "我大使馆回应蓝战非被胁迫转账",
+      "onboard_time": 1765360282,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 919387,
       "num": 859149,
       "word": "蓝战非 生物证据",
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 674535,
+      "num": 222880,
+      "word": "郭碧婷 向太有给很多钱",
+      "onboard_time": 1765359561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668895,
       "num": 1107023,
       "word": "俄罗斯 盗版疯狂动物城上映",
@@ -825,6 +841,14 @@
       "onboard_time": 1765248923,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647378,
+      "num": 199766,
+      "word": "冯提莫 团播",
+      "onboard_time": 1765359800,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 643465,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1765104861,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528832,
+      "num": 202647,
+      "word": "你不结婚我晚上睡不着",
+      "onboard_time": 1765357702,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 528356,
@@ -2443,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327890,
+      "num": 199042,
+      "word": "日本求锤得锤",
+      "onboard_time": 1765360941,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 327878,
       "num": 481555,
       "word": "不二之臣吻戏给我看脸红了",
@@ -3059,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260107,
+      "num": 198690,
+      "word": "管不住下半身 姐会亲自手刃",
+      "onboard_time": 1765361542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259639,
       "num": 259639,
       "word": "王曼昱3比0胜张本美和",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1765121780,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240619,
+      "num": 198487,
+      "word": "南非当地警方调查蓝战非案",
+      "onboard_time": 1765360882,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 240323,
@@ -3512,14 +3568,6 @@
       "word": "KatyPerry官宣恋情",
       "onboard_time": 1765098741,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222880,
-      "num": 222880,
-      "word": "郭碧婷 向太有给很多钱",
-      "onboard_time": 1765359561,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3891,6 +3939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206209,
+      "num": 198362,
+      "word": "iG阵容",
+      "onboard_time": 1765362141,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206123,
       "num": 305663,
       "word": "DYG战胜WE",
@@ -4017,14 +4073,6 @@
       "onboard_time": 1765085061,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202647,
-      "num": 202647,
-      "word": "你不结婚我晚上睡不着",
-      "onboard_time": 1765357702,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 201936,
@@ -4337,6 +4385,14 @@
       "onboard_time": 1765090339,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191661,
+      "num": 191661,
+      "word": "考研准考证 颜文字",
+      "onboard_time": 1765360520,
+      "rank": 35,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 191362,
@@ -4859,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169726,
+      "num": 169726,
+      "word": "微博之夜要来了",
+      "onboard_time": 1765362501,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
@@ -5011,6 +5075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165383,
+      "num": 165383,
+      "word": "iG官宣Wei续约",
+      "onboard_time": 1765361721,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "杨志刚有点像喝多了",
@@ -5089,6 +5161,14 @@
       "onboard_time": 1765033644,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163358,
+      "num": 199969,
+      "word": "iG官宣Meiko续约",
+      "onboard_time": 1765361302,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 162374,
@@ -5699,6 +5779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147090,
+      "num": 198601,
+      "word": "孙颖莎回应比赛拖场",
+      "onboard_time": 1765362441,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146575,
       "num": 146575,
       "word": "水银体温计将禁产药店发声",
@@ -5875,14 +5963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143292,
-      "num": 143292,
-      "word": "冯提莫 团播",
-      "onboard_time": 1765359800,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 142835,
       "num": 295549,
       "word": "鸿蒙智行五界首聚直播",
@@ -6011,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140777,
+      "num": 140777,
+      "word": "古天乐林峯宣萱跨越25年的同框",
+      "onboard_time": 1765361421,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140691,
       "num": 140691,
       "word": "陈妍希怎么做到姐感妹感都有的",
@@ -6107,6 +6195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139734,
+      "num": 199308,
+      "word": "中俄轰炸机和航母从3个方向包围琉球",
+      "onboard_time": 1765362021,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139370,
       "num": 581125,
       "word": "2025成都混团世界杯",
@@ -6129,6 +6225,14 @@
       "onboard_time": 1765094900,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139273,
+      "num": 139273,
+      "word": "刘念首部横屏古装短剧",
+      "onboard_time": 1765361781,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 139220,
@@ -6697,6 +6801,14 @@
       "onboard_time": 1765186040,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130077,
+      "num": 130077,
+      "word": "王者新赛季",
+      "onboard_time": 1765362441,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 129974,
@@ -9291,6 +9403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97522,
+      "num": 198520,
+      "word": "近8000吨车厘子来了",
+      "onboard_time": 1765362141,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97422,
       "num": 133748,
       "word": "为什么建议35岁就开始控糖",
@@ -9723,6 +9843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91556,
+      "num": 189053,
+      "word": "家长吐槽英语教材过度提及负面情绪",
+      "onboard_time": 1765361841,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91431,
       "num": 96828,
       "word": "日本正确认多座核电站震后状态",
@@ -9856,6 +9984,14 @@
       "word": "婴儿被褥印不雅英文没有底线的操作",
       "onboard_time": 1765171281,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89180,
+      "num": 198814,
+      "word": "崖洞干尸系59岁生前抑郁男子",
+      "onboard_time": 1765362561,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -11027,6 +11163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 60931,
+      "num": 198943,
+      "word": "韩国电子入境卡将台湾列为中国台湾",
+      "onboard_time": 1765362561,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60545,
       "num": 52289,
       "word": "原来真的有脏的立起来这个概念",
@@ -11257,6 +11401,14 @@
       "onboard_time": 1765262483,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55174,
+      "num": 178068,
+      "word": "最快女护士曾说不会辞职去跑马",
+      "onboard_time": 1765360822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55093,
@@ -11921,6 +12073,14 @@
       "onboard_time": 1765262541,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 42599,
+      "num": 199271,
+      "word": "北京迪奥之家即将盛大开幕",
+      "onboard_time": 1765361661,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 42578,
@@ -12899,6 +13059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22473,
+      "num": 264917,
+      "word": "在这片辽阔的土地上",
+      "onboard_time": 1765360641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22236,
       "num": 388075,
       "word": "盘点2025持续火出圈的非遗",
@@ -12961,6 +13129,14 @@
       "onboard_time": 1765140313,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20922,
+      "num": 189675,
+      "word": "男子因闪婚妻子患糖尿病诉撤销婚姻",
+      "onboard_time": 1765362082,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20653,
@@ -13379,6 +13555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10816,
+      "num": 189255,
+      "word": "旅游遇车祸男子千字长文悼念亡妻",
+      "onboard_time": 1765362021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10696,
       "num": 27114,
       "word": "亚冠精英联赛",
@@ -13417,6 +13601,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9233,
+      "num": 200053,
+      "word": "山海协同陆海联动绘就万里山河新画卷",
+      "onboard_time": 1765361480,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7631,
