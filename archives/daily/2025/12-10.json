@@ -1,10 +1,10 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765342433166,
+  "endTime": 1765344589427,
   "band_list": [
     {
       "raw_hot": 1910823,
-      "num": 1008499,
+      "num": 1146966,
       "word": "TF家族新音官宣",
       "onboard_time": 1765337001,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1428291,
-      "num": 533139,
+      "num": 1079623,
       "word": "陈晓陈妍希 风评",
       "onboard_time": 1765340179,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1144542,
+      "num": 1144542,
+      "word": "双轨 全集",
+      "onboard_time": 1765341023,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1053429,
       "num": 322883,
       "word": "金晨把腿放到黄景瑜腿上",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 919387,
-      "num": 528217,
+      "num": 859149,
       "word": "蓝战非 生物证据",
       "onboard_time": 1765337001,
       "rank": 34,
@@ -91,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 854804,
-      "num": 314247,
-      "word": "双轨 全集",
-      "onboard_time": 1765341023,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 643465,
       "num": 643465,
       "word": "浙江卫视工作人员聊天记录",
@@ -107,8 +107,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574341,
+      "num": 574341,
+      "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+      "onboard_time": 1765340422,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561233,
-      "num": 540796,
+      "num": 1146659,
       "word": "最快女护士已影响科室正常排班",
       "onboard_time": 1765337183,
       "rank": 8,
@@ -131,14 +139,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 551895,
-      "num": 437797,
-      "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
-      "onboard_time": 1765340422,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531051,
       "num": 910037,
       "word": "韩国硬刚高市早苗",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 504163,
-      "num": 354251,
+      "num": 416087,
       "word": "女子一周喝三次奶茶确诊糖尿病",
       "onboard_time": 1765335680,
       "rank": 15,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 500710,
-      "num": 500710,
+      "num": 1146276,
       "word": "俄乌冲突",
       "onboard_time": 1765339222,
       "rank": 15,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 423593,
-      "num": 1078766,
+      "num": 1148354,
       "word": "小米将承担门店调整损失约2726万元",
       "onboard_time": 1765333520,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 419298,
+      "num": 419298,
+      "word": "儿子回应洪金宝回春",
+      "onboard_time": 1765341862,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 414764,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 341377,
-      "num": 283124,
+      "num": 1145708,
       "word": "中国景点被误标地点为日本",
       "onboard_time": 1765332562,
       "rank": 35,
@@ -265,6 +273,14 @@
       "onboard_time": 1765332320,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 313594,
+      "num": 313594,
+      "word": "孙俪教邓超减肥 3周腰围小4厘米",
+      "onboard_time": 1765343541,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 305139,
@@ -324,19 +340,11 @@
     },
     {
       "raw_hot": 262416,
-      "num": 539156,
+      "num": 1145084,
       "word": "四六级",
       "onboard_time": 1765329503,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 260106,
-      "num": 232080,
-      "word": "儿子回应洪金宝回春",
-      "onboard_time": 1765341862,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 256307,
@@ -347,12 +355,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254330,
+      "num": 254330,
+      "word": "学校火灾致13死校方逼家长签协议",
+      "onboard_time": 1765341562,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241390,
       "num": 241390,
       "word": "狙击蝴蝶",
       "onboard_time": 1765274541,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235134,
+      "num": 235134,
+      "word": "男子飞无人机时在崖洞中发现干尸",
+      "onboard_time": 1765343302,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232391,
+      "num": 232391,
+      "word": "原神",
+      "onboard_time": 1765343302,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 222093,
@@ -435,6 +467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200202,
+      "num": 200202,
+      "word": "电视剧老舅定档",
+      "onboard_time": 1765343782,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195103,
       "num": 195103,
       "word": "白鹿浙江跨晚造型",
@@ -499,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176479,
-      "num": 234389,
-      "word": "学校火灾致13死校方逼家长签协议",
-      "onboard_time": 1765341562,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 177473,
+      "num": 177473,
+      "word": "苹果喊话iPhone用户更新iOS26",
+      "onboard_time": 1765343482,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 169533,
@@ -547,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155855,
+      "num": 200859,
+      "word": "大学四年没人知道我带了假发",
+      "onboard_time": 1765341743,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 154179,
       "num": 154179,
       "word": "新音 划区",
@@ -563,12 +611,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152124,
-      "num": 200859,
-      "word": "大学四年没人知道我带了假发",
-      "onboard_time": 1765341743,
-      "rank": 33,
-      "category": "情感,休闲"
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "马年春晚官宣",
+      "onboard_time": 1765344499,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148807,
@@ -619,12 +667,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143784,
+      "num": 143784,
+      "word": "周柯宇就这样回味吻戏",
+      "onboard_time": 1765343242,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142472,
+      "num": 142472,
+      "word": "Daeny BLG",
+      "onboard_time": 1765343183,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141535,
       "num": 197077,
       "word": "陈泽杯",
       "onboard_time": 1765297820,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139920,
+      "num": 139920,
+      "word": "A股全市场超3800只个股下跌",
+      "onboard_time": 1765343661,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 137315,
@@ -691,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127724,
+      "num": 127723,
+      "word": "家人回应最快女护士被医院处分",
+      "onboard_time": 1765344202,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126617,
       "num": 126617,
       "word": "马来西亚要求高市早苗道歉",
@@ -740,7 +820,7 @@
     },
     {
       "raw_hot": 110375,
-      "num": 535068,
+      "num": 1144730,
       "word": "iG官宣Daeny卸任",
       "onboard_time": 1765340242,
       "rank": 9,
@@ -987,6 +1067,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 84628,
+      "num": 414861,
+      "word": "华妃为朕花心思了",
+      "onboard_time": 1765343183,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84433,
       "num": 97293,
       "word": "伴舞看虞书欣的眼神",
@@ -1009,6 +1097,14 @@
       "onboard_time": 1765331900,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81830,
+      "num": 206663,
+      "word": "韩媒称高市早苗像只斗鸡",
+      "onboard_time": 1765342821,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79452,
@@ -1291,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57182,
+      "num": 326071,
+      "word": "民进党成了民禁挡",
+      "onboard_time": 1765342821,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56203,
       "num": 97159,
       "word": "偶遇素颜的刘亦菲",
@@ -1483,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39021,
+      "num": 1147889,
+      "word": "48个场景百亿投资向海而兴",
+      "onboard_time": 1765341142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38719,
       "num": 96887,
       "word": "男孩在校被打掉门牙",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1765323258,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35070,
+      "num": 127727,
+      "word": "张水华50天4场马拉松奖金超20万",
+      "onboard_time": 1765342282,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34450,
@@ -1571,14 +1691,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 30203,
-      "num": 1043046,
-      "word": "48个场景百亿投资向海而兴",
-      "onboard_time": 1765341142,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29498,
       "num": 96531,
       "word": "范丞丞直播",
@@ -1611,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27426,
+      "num": 527394,
+      "word": "时代少年团的节日桶你有了吗",
+      "onboard_time": 1765339521,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27155,
       "num": 109517,
       "word": "澳大利亚不满16岁社媒禁令生效",
@@ -1641,14 +1761,6 @@
       "onboard_time": 1765340602,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23774,
-      "num": 527394,
-      "word": "时代少年团的节日桶你有了吗",
-      "onboard_time": 1765339521,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 22677,
@@ -1761,6 +1873,14 @@
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11631,
+      "num": 140300,
+      "word": "益禾堂外卖包装被烟头烫破该谁赔",
+      "onboard_time": 1765344081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11156,
