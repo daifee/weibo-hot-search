@@ -1,7 +1,15 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765345554422,
+  "endTime": 1765348994985,
   "band_list": [
+    {
+      "raw_hot": 2011850,
+      "num": 2011850,
+      "word": "马年春晚官宣",
+      "onboard_time": 1765344499,
+      "rank": 35,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1910823,
       "num": 1146966,
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1051898,
-      "num": 1051898,
-      "word": "马年春晚官宣",
-      "onboard_time": 1765344499,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1028863,
       "num": 1164618,
       "word": "广东汕头火灾事故遇难人数升至12人",
@@ -89,6 +89,14 @@
       "onboard_time": 1765290144,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 932451,
+      "num": 932451,
+      "word": "因仅退款损失9万商家回应地域歧视",
+      "onboard_time": 1765344802,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 919387,
@@ -121,6 +129,14 @@
       "onboard_time": 1765340422,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571468,
+      "num": 1146276,
+      "word": "俄乌冲突",
+      "onboard_time": 1765339222,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 561233,
@@ -161,14 +177,6 @@
       "onboard_time": 1765335680,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500710,
-      "num": 1146276,
-      "word": "俄乌冲突",
-      "onboard_time": 1765339222,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 483774,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390299,
+      "num": 328243,
+      "word": "男子飞无人机时在崖洞中发现干尸",
+      "onboard_time": 1765343302,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384275,
       "num": 384275,
       "word": "广东一住宅突发火灾致8死",
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378306,
+      "num": 415007,
+      "word": "七个偶像练习生在综艺里吵起来了",
+      "onboard_time": 1765345221,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376200,
       "num": 376200,
       "word": "孙俪教邓超减肥 3周腰围小4厘米",
@@ -273,6 +297,14 @@
       "onboard_time": 1765341562,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347454,
+      "num": 222474,
+      "word": "爱奇艺排播片单没有双轨",
+      "onboard_time": 1765346301,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 342582,
@@ -297,14 +329,6 @@
       "onboard_time": 1765332320,
       "rank": 23,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 328243,
-      "num": 328243,
-      "word": "男子飞无人机时在崖洞中发现干尸",
-      "onboard_time": 1765343302,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305139,
@@ -379,6 +403,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252293,
+      "num": 222316,
+      "word": "4岁女童甲流合并细菌感染肺都白了",
+      "onboard_time": 1765345820,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242360,
+      "num": 222258,
+      "word": "李现西藏徒步",
+      "onboard_time": 1765347861,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241390,
       "num": 241390,
       "word": "狙击蝴蝶",
@@ -401,6 +441,22 @@
       "onboard_time": 1765343302,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222699,
+      "num": 222699,
+      "word": "原神月之少女",
+      "onboard_time": 1765347742,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 222231,
+      "num": 222231,
+      "word": "新生儿疑因基因筛查错误致死",
+      "onboard_time": 1765347623,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222093,
@@ -515,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189452,
-      "num": 415007,
-      "word": "七个偶像练习生在综艺里吵起来了",
-      "onboard_time": 1765345221,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187435,
       "num": 187435,
       "word": "李鸿其哭着感谢太太王紫璇",
@@ -563,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170732,
+      "num": 170732,
+      "word": "汪东城 绝望直男",
+      "onboard_time": 1765346601,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
       "onboard_time": 1765292184,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168226,
+      "num": 168226,
+      "word": "沈腾 马丽你直接点我名吧",
+      "onboard_time": 1765348101,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 166846,
@@ -633,6 +697,14 @@
       "onboard_time": 1765322778,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150548,
+      "num": 150548,
+      "word": "王俊凯话剧舞台",
+      "onboard_time": 1765348640,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 148807,
@@ -707,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140468,
+      "num": 140468,
+      "word": "陈幸同4比2石洵瑶",
+      "onboard_time": 1765348821,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139920,
       "num": 139920,
       "word": "A股全市场超3800只个股下跌",
@@ -715,12 +795,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138519,
+      "num": 222611,
+      "word": "BLG官宣Daeny加入",
+      "onboard_time": 1765345820,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137315,
       "num": 137315,
       "word": "邱贻可说和孙颖莎都哭了",
       "onboard_time": 1765322058,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137041,
+      "num": 137041,
+      "word": "AL官宣全员续约",
+      "onboard_time": 1765346781,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 136274,
@@ -747,12 +843,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132254,
+      "num": 149383,
+      "word": "顾客用胶带粘吊牌退回穿脏表演服",
+      "onboard_time": 1765346901,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131110,
       "num": 131110,
       "word": "白银为何大涨",
       "onboard_time": 1765333520,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130734,
+      "num": 144523,
+      "word": "张俪 聪明真的可以演出来",
+      "onboard_time": 1765347623,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130297,
+      "num": 130297,
+      "word": "万科A午后涨停",
+      "onboard_time": 1765345882,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 129816,
+      "num": 959277,
+      "word": "希望台湾民众行动起来",
+      "onboard_time": 1765344983,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 129645,
+      "num": 129645,
+      "word": "老阿姨澡堂内偷拍多名女性被拘",
+      "onboard_time": 1765346422,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128404,
@@ -817,6 +953,14 @@
       "onboard_time": 1765338861,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117320,
+      "num": 117320,
+      "word": "白银涨势远超黄金",
+      "onboard_time": 1765348280,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 115299,
@@ -1131,6 +1275,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80578,
+      "num": 147391,
+      "word": "特朗普抱怨为什么收垃圾国家移民",
+      "onboard_time": 1765346842,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 79811,
+      "num": 141939,
+      "word": "聂远11岁女儿已拍4部长剧",
+      "onboard_time": 1765348821,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79452,
       "num": 85001,
       "word": "马嘉祺 热血漫",
@@ -1323,6 +1483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69459,
+      "num": 132949,
+      "word": "岑矜直球表白",
+      "onboard_time": 1765347623,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69151,
       "num": 69151,
       "word": "李现澳门扫街被路人警告删掉照片",
@@ -1336,14 +1504,6 @@
       "word": "男孩在校被打掉两颗门牙家长讨说法",
       "onboard_time": 1765322657,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66063,
-      "num": 419112,
-      "word": "因仅退款损失9万商家回应地域歧视",
-      "onboard_time": 1765344802,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44885,
+      "num": 439850,
+      "word": "鸿蒙智行五界全面深化合作",
+      "onboard_time": 1765344860,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44344,
       "num": 52270,
       "word": "沈腾王安宇范丞丞男人吃不了漂亮饭",
@@ -1617,6 +1785,14 @@
       "onboard_time": 1765322778,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39787,
+      "num": 143401,
+      "word": "鞠婧祎 血色回眸",
+      "onboard_time": 1765348821,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 39021,
@@ -1715,14 +1891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 31328,
-      "num": 959277,
-      "word": "希望台湾民众行动起来",
-      "onboard_time": 1765344983,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30581,
       "num": 96611,
       "word": "潘宏狗市救狗",
@@ -1787,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27186,
-      "num": 439850,
-      "word": "鸿蒙智行五界全面深化合作",
-      "onboard_time": 1765344860,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 27155,
       "num": 109517,
       "word": "澳大利亚不满16岁社媒禁令生效",
@@ -1819,7 +1979,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24330,
+      "raw_hot": 24475,
       "num": 536302,
       "word": "中国经济长期向好具有坚实支撑",
       "onboard_time": 1765340602,
@@ -1856,6 +2016,14 @@
       "word": "派出所回应女子被多只狗咬成重伤",
       "onboard_time": 1765337361,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20093,
+      "num": 222395,
+      "word": "张水华家人称对处分不评价",
+      "onboard_time": 1765348340,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
