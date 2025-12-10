@@ -1,0 +1,410 @@
+{
+  "runTime": 1765378224106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700137,
+        "num": 1112021,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505481,
+        "num": 505481,
+        "word": "中方录音一出日本有人看不下去了",
+        "onboard_time": 1765372461,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41708,
+        "num": 415822,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403661,
+        "num": 403661,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311593,
+        "num": 311593,
+        "word": "片仔癀从1600元一粒降到百元",
+        "onboard_time": 1765372461,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 395713,
+        "num": 310903,
+        "word": "美国女子熟睡时被医生男友喂堕胎药",
+        "onboard_time": 1765374685,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306742,
+        "num": 306742,
+        "word": "王楚钦说打得我真没招了",
+        "onboard_time": 1765377263,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233022,
+        "num": 233022,
+        "word": "王楚钦回应4比3松岛辉空",
+        "onboard_time": 1765372882,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34587,
+        "num": 217761,
+        "word": "我国AI产业规模突破9000亿元",
+        "onboard_time": 1765371684,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206188,
+        "num": 206188,
+        "word": "中方回应中俄轰炸机飞临日本",
+        "onboard_time": 1765370844,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1434815,
+        "num": 205138,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874273,
+        "num": 202551,
+        "word": "张柏芝出庭 神图",
+        "onboard_time": 1765373184,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623173,
+        "num": 200424,
+        "word": "同事加班我跑马获奖20万",
+        "onboard_time": 1765372221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540461,
+        "num": 196778,
+        "word": "虞书欣父亲要求被告公开道歉",
+        "onboard_time": 1765375162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469391,
+        "num": 195793,
+        "word": "辣妈正传",
+        "onboard_time": 1765376183,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286221,
+        "num": 193128,
+        "word": "最快女护士丈夫发声",
+        "onboard_time": 1765374564,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269296,
+        "num": 191465,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189428,
+        "num": 189428,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491697,
+        "num": 189111,
+        "word": "虞书欣父亲维权索赔17万",
+        "onboard_time": 1765371261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121042,
+        "num": 188393,
+        "word": "王楚钦说对比赛的热爱到了瓶颈",
+        "onboard_time": 1765376902,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108451,
+        "num": 188213,
+        "word": "汕头正全面调查火灾事故原因",
+        "onboard_time": 1765376902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 187277,
+        "word": "江西对314人追责问责",
+        "onboard_time": 1765376902,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 430535,
+        "num": 186943,
+        "word": "阮经天恋情",
+        "onboard_time": 1765368322,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186660,
+        "num": 186660,
+        "word": "上班最大的意义不是拿点工资",
+        "onboard_time": 1765369402,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181361,
+        "num": 181361,
+        "word": "管不住下半身 姐会亲自手刃",
+        "onboard_time": 1765361542,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179789,
+        "num": 179789,
+        "word": "沈佳润 我在跨晚很想你",
+        "onboard_time": 1765376063,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175723,
+        "num": 175723,
+        "word": "金莎孙丞潇 现实版狙击蝴蝶",
+        "onboard_time": 1765373662,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154753,
+        "num": 154753,
+        "word": "惠英红跳了替身不敢跳的楼",
+        "onboard_time": 1765374624,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144906,
+        "num": 144906,
+        "word": "陈伟霆 神父",
+        "onboard_time": 1765377323,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138557,
+        "num": 138557,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "张婧仪长了麦粒肿",
+        "onboard_time": 1765374985,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128448,
+        "num": 128448,
+        "word": "王源要漂亮的蓝要胖要大",
+        "onboard_time": 1765375283,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120826,
+        "num": 120826,
+        "word": "Gumayusi对决T1",
+        "onboard_time": 1765377143,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95978,
+        "num": 119882,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122246,
+        "num": 119558,
+        "word": "李昀锐手上好多伤",
+        "onboard_time": 1765367962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119203,
+        "num": 119203,
+        "word": "王鹤棣沈月 每隔三年be转he",
+        "onboard_time": 1765368983,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115506,
+        "num": 115506,
+        "word": "陈奕恒高会",
+        "onboard_time": 1765373903,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108435,
+        "num": 108435,
+        "word": "小樱桃妈妈称女儿母亲相继离世",
+        "onboard_time": 1765374564,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102922,
+        "num": 102922,
+        "word": "秋冬丸子头最好看的6种扎法",
+        "onboard_time": 1765377562,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29035,
+        "num": 102764,
+        "word": "水银体温计网售价从4元涨至33元",
+        "onboard_time": 1765378104,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37341,
+        "num": 102621,
+        "word": "男子毒杀儿女案细节披露",
+        "onboard_time": 1765376964,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 102365,
+        "word": "成毅赴山海人气断层",
+        "onboard_time": 1765377861,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111359,
+        "num": 102296,
+        "word": "易烊千玺给王俊凯送花篮了",
+        "onboard_time": 1765358121,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42571,
+        "num": 102125,
+        "word": "1克拉培育钻石只要3500元",
+        "onboard_time": 1765376902,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101941,
+        "num": 101941,
+        "word": "小樱桃坠亡3年妈妈仍留着她衣服",
+        "onboard_time": 1765368021,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98746,
+        "num": 98746,
+        "word": "陈伟霆 哥不懂但祝你考试成功",
+        "onboard_time": 1765368983,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96096,
+        "num": 96096,
+        "word": "UUG巅峰对决Hero",
+        "onboard_time": 1765378163,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94536,
+        "num": 94536,
+        "word": "王楚钦说都想着拎包回去了",
+        "onboard_time": 1765377143,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89443,
+        "num": 89443,
+        "word": "王楚钦说兼项赛程紧凑见怪不怪了",
+        "onboard_time": 1765377923,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "我一直以为长大了我们会聊点别的",
+        "onboard_time": 1765375523,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
