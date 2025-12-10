@@ -1,0 +1,410 @@
+{
+  "runTime": 1765366886406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 248253,
+        "num": 1039720,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198900,
+        "num": 1012830,
+        "word": "孙颖莎回应比赛拖场",
+        "onboard_time": 1765362441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22832,
+        "num": 921215,
+        "word": "在这片辽阔的土地上",
+        "onboard_time": 1765360641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488363,
+        "num": 831251,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148252,
+        "num": 632246,
+        "word": "警方通报男子飞无人机崖洞发现干尸",
+        "onboard_time": 1765357342,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 631335,
+        "num": 631335,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433515,
+        "num": 630177,
+        "word": "崖洞干尸系59岁生前抑郁男子",
+        "onboard_time": 1765362561,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240848,
+        "num": 622904,
+        "word": "iG阵容",
+        "onboard_time": 1765362141,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25290,
+        "num": 619530,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204451,
+        "num": 614571,
+        "word": "西班牙女员工连续提前到岗被开除",
+        "onboard_time": 1765356682,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2374415,
+        "num": 611358,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609953,
+        "num": 609953,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509866,
+        "num": 509866,
+        "word": "我大使馆回应蓝战非被胁迫转账",
+        "onboard_time": 1765360282,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 408609,
+        "num": 408609,
+        "word": "管不住下半身 姐会亲自手刃",
+        "onboard_time": 1765361542,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386793,
+        "num": 386793,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425712,
+        "num": 362453,
+        "word": "冯提莫 团播",
+        "onboard_time": 1765359800,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337931,
+        "num": 337931,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1765357702,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328766,
+        "num": 328766,
+        "word": "考研准考证 颜文字",
+        "onboard_time": 1765360520,
+        "rank": 17,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 322665,
+        "num": 322665,
+        "word": "日本求锤得锤",
+        "onboard_time": 1765360941,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301169,
+        "num": 301169,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324398,
+        "num": 294235,
+        "word": "曝阮经天去韩国看女友",
+        "onboard_time": 1765362983,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282140,
+        "num": 282140,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48611,
+        "num": 232341,
+        "word": "澳门电影之城红毯",
+        "onboard_time": 1765363342,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204639,
+        "num": 204639,
+        "word": "王鹤棣沈月白月光杀回湖南卫视",
+        "onboard_time": 1765365862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198631,
+        "num": 198631,
+        "word": "陈晓陈妍希 顶峰相见",
+        "onboard_time": 1765353742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196633,
+        "num": 196633,
+        "word": "王源送王俊凯话剧花篮",
+        "onboard_time": 1765365383,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 183407,
+        "word": "肖战签名专辑",
+        "onboard_time": 1765358000,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 174620,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147395,
+        "num": 170876,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1765364362,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110044,
+        "num": 169513,
+        "word": "原来情绪稳定的孩子是这样来的",
+        "onboard_time": 1765363402,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 176242,
+        "num": 169362,
+        "word": "易烊千玺给王俊凯送花篮了",
+        "onboard_time": 1765358121,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168299,
+        "num": 168299,
+        "word": "陈妍希周柯宇 首付三万月供两千",
+        "onboard_time": 1765364542,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151767,
+        "num": 151767,
+        "word": "中俄轰炸机和航母从3个方向包围琉球",
+        "onboard_time": 1765362021,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150207,
+        "num": 150207,
+        "word": "南非当地警方调查蓝战非案",
+        "onboard_time": 1765360882,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146086,
+        "num": 146086,
+        "word": "iG官宣Rookie续约",
+        "onboard_time": 1765357042,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139245,
+        "num": 139245,
+        "word": "中方回应英首相将访华",
+        "onboard_time": 1765365623,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133216,
+        "num": 133216,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131328,
+        "num": 131328,
+        "word": "2014年的马年春晚",
+        "onboard_time": 1765365323,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111606,
+        "num": 130411,
+        "word": "第一次在床上晕车了",
+        "onboard_time": 1765354462,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18958,
+        "num": 130234,
+        "word": "警方介入店主持刀挥向打假博主",
+        "onboard_time": 1765365743,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130173,
+        "num": 130173,
+        "word": "蒋易 停一下",
+        "onboard_time": 1765363223,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121171,
+        "num": 121171,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765362501,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66394,
+        "num": 115954,
+        "word": "女孩与母亲争吵后跳楼家属起诉物业",
+        "onboard_time": 1765365444,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113438,
+        "num": 113438,
+        "word": "法老 河南说唱之神",
+        "onboard_time": 1765365022,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57479,
+        "num": 107095,
+        "word": "孙颖莎回应赛程密集",
+        "onboard_time": 1765366823,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104301,
+        "num": 104301,
+        "word": "李施嬅 不要在孩子面前随便说话",
+        "onboard_time": 1765366641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103838,
+        "num": 103838,
+        "word": "爷爷奶奶用的是情头",
+        "onboard_time": 1765365082,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 102208,
+        "num": 102208,
+        "word": "泡泡玛特全新IPSupertutu",
+        "onboard_time": 1765354221,
+        "rank": 47,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 100937,
+        "num": 100937,
+        "word": "小猫第一次见这么大的逗猫棒",
+        "onboard_time": 1765366162,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100295,
+        "num": 100295,
+        "word": "做了将近7个小时的饭",
+        "onboard_time": 1765366461,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定推动高质量发展这个主题#"
+    }
+  }
+}

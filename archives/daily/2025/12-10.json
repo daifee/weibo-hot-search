@@ -1,7 +1,15 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765365998617,
+  "endTime": 1765366886406,
   "band_list": [
+    {
+      "raw_hot": 2374415,
+      "num": 611358,
+      "word": "冯提莫癌症复发",
+      "onboard_time": 1765365022,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2151815,
       "num": 2151815,
@@ -24,14 +32,6 @@
       "word": "王鸥女儿都这么大了",
       "onboard_time": 1765330822,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1527650,
-      "num": 524087,
-      "word": "冯提莫癌症复发",
-      "onboard_time": 1765365022,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1146435,
-      "num": 522319,
+      "num": 609953,
       "word": "微博之夜年度推荐",
       "onboard_time": 1765365862,
       "rank": 11,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 635296,
-      "num": 528107,
+      "num": 614571,
       "word": "西班牙女员工连续提前到岗被开除",
       "onboard_time": 1765356682,
       "rank": 41,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 534060,
-      "num": 534060,
+      "num": 630177,
       "word": "崖洞干尸系59岁生前抑郁男子",
       "onboard_time": 1765362561,
       "rank": 25,
@@ -305,6 +305,14 @@
       "onboard_time": 1765352480,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 488363,
+      "num": 868226,
+      "word": "iG官宣TheShy离场",
+      "onboard_time": 1765365082,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 483774,
@@ -403,14 +411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 403255,
-      "num": 868226,
-      "word": "iG官宣TheShy离场",
-      "onboard_time": 1765365082,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 397539,
       "num": 397539,
       "word": "考研准考证 颜文字",
@@ -441,6 +441,14 @@
       "onboard_time": 1765343302,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386793,
+      "num": 386793,
+      "word": "女子连续早到岗被开除",
+      "onboard_time": 1765363763,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 384275,
@@ -579,14 +587,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 301399,
-      "num": 301399,
-      "word": "女子连续早到岗被开除",
-      "onboard_time": 1765363763,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 299346,
       "num": 335063,
       "word": "iG官宣Rookie续约",
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 293298,
-      "num": 533839,
+      "num": 622904,
       "word": "iG阵容",
       "onboard_time": 1765362141,
       "rank": 31,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 208013,
-      "num": 174142,
+      "num": 196633,
       "word": "王源送王俊凯话剧花篮",
       "onboard_time": 1765365383,
       "rank": 30,
@@ -843,8 +843,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204639,
+      "num": 204639,
+      "word": "王鹤棣沈月白月光杀回湖南卫视",
+      "onboard_time": 1765365862,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202438,
-      "num": 977145,
+      "num": 1012830,
       "word": "孙颖莎回应比赛拖场",
       "onboard_time": 1765362441,
       "rank": 28,
@@ -1043,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168299,
+      "num": 168299,
+      "word": "陈妍希周柯宇 首付三万月供两千",
+      "onboard_time": 1765364542,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168226,
       "num": 168226,
       "word": "沈腾 马丽你直接点我名吧",
@@ -1107,14 +1123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161219,
-      "num": 161219,
-      "word": "陈妍希周柯宇 首付三万月供两千",
-      "onboard_time": 1765364542,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159954,
       "num": 159954,
       "word": "刘宇宁大连站售罄",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1765341743,
       "rank": 33,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 155378,
-      "num": 155378,
-      "word": "王鹤棣沈月白月光杀回湖南卫视",
-      "onboard_time": 1765365862,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 154179,
@@ -1363,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139245,
+      "num": 146360,
+      "word": "中方回应英首相将访华",
+      "onboard_time": 1765365623,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139130,
       "num": 139130,
       "word": "LV圣诞树桩蛋糕 密恐",
@@ -1499,6 +1507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130173,
+      "num": 178373,
+      "word": "蒋易 停一下",
+      "onboard_time": 1765363223,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130077,
       "num": 130077,
       "word": "王者新赛季",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1765338560,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124359,
-      "num": 178373,
-      "word": "蒋易 停一下",
-      "onboard_time": 1765363223,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 124274,
@@ -1787,20 +1795,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104301,
+      "num": 104301,
+      "word": "李施嬅 不要在孩子面前随便说话",
+      "onboard_time": 1765366641,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103167,
       "num": 97058,
       "word": "感到不顺时要丢掉3样东西",
       "onboard_time": 1765295781,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102698,
-      "num": 146360,
-      "word": "中方回应英首相将访华",
-      "onboard_time": 1765365623,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102605,
@@ -1843,12 +1851,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100937,
+      "num": 100937,
+      "word": "小猫第一次见这么大的逗猫棒",
+      "onboard_time": 1765366162,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100395,
       "num": 157713,
       "word": "中国海警舰艇在我钓鱼岛领海巡航",
       "onboard_time": 1765352542,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100295,
+      "num": 100295,
+      "word": "做了将近7个小时的饭",
+      "onboard_time": 1765366461,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 100264,
@@ -2331,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66394,
+      "num": 146445,
+      "word": "女孩与母亲争吵后跳楼家属起诉物业",
+      "onboard_time": 1765365444,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66390,
       "num": 117818,
       "word": "尹正 雍和宫许愿调剂",
@@ -2435,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59210,
-      "num": 146445,
-      "word": "女孩与母亲争吵后跳楼家属起诉物业",
-      "onboard_time": 1765365444,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58884,
       "num": 96713,
       "word": "山姆致歉",
@@ -2457,6 +2481,14 @@
       "onboard_time": 1765356200,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57479,
+      "num": 107095,
+      "word": "孙颖莎回应赛程密集",
+      "onboard_time": 1765366823,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 57182,
@@ -2659,7 +2691,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47903,
+      "raw_hot": 48611,
       "num": 268118,
       "word": "澳门电影之城红毯",
       "onboard_time": 1765363342,
@@ -2987,6 +3019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25290,
+      "num": 619530,
+      "word": "明年经济三大看点",
+      "onboard_time": 1765360163,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24506,
       "num": 33570,
       "word": "日本社民党党首说高市应辞职",
@@ -3000,14 +3040,6 @@
       "word": "在这片辽阔的土地上",
       "onboard_time": 1765360641,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23997,
-      "num": 529431,
-      "word": "明年经济三大看点",
-      "onboard_time": 1765360163,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3049,6 +3081,14 @@
       "onboard_time": 1765305315,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18958,
+      "num": 146857,
+      "word": "警方介入店主持刀挥向打假博主",
+      "onboard_time": 1765365743,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18502,
@@ -3144,14 +3184,6 @@
       "word": "北方多地将迎来强雨雪",
       "onboard_time": 1765304294,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14465,
-      "num": 146857,
-      "word": "警方介入店主持刀挥向打假博主",
-      "onboard_time": 1765365743,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
