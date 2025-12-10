@@ -1,0 +1,410 @@
+{
+  "runTime": 1765385585572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 746421,
+        "num": 746421,
+        "word": "5000万网红偷税漏税被实名举报",
+        "onboard_time": 1765380561,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 194614,
+        "num": 194614,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19453,
+        "num": 153371,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134466,
+        "num": 134466,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88503,
+        "num": 132486,
+        "word": "王楚钦12比14松岛辉空",
+        "onboard_time": 1765376842,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488913,
+        "num": 132311,
+        "word": "女子熟睡遭男友喂堕胎药",
+        "onboard_time": 1765379721,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131642,
+        "num": 131642,
+        "word": "中方录音一出日本有人看不下去了",
+        "onboard_time": 1765372461,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126903,
+        "num": 126903,
+        "word": "水银体温计网售价从4元涨至33元",
+        "onboard_time": 1765378104,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80718,
+        "num": 126527,
+        "word": "片仔癀从1600元一粒降到百元",
+        "onboard_time": 1765372461,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61031,
+        "num": 126284,
+        "word": "王楚钦说对比赛的热爱到了瓶颈",
+        "onboard_time": 1765376902,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552391,
+        "num": 125520,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448298,
+        "num": 124808,
+        "word": "虞书欣父亲要求被告公开道歉",
+        "onboard_time": 1765375162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329755,
+        "num": 124415,
+        "word": "吴宣仪取消行程图",
+        "onboard_time": 1765379243,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221509,
+        "num": 123828,
+        "word": "辣妈正传",
+        "onboard_time": 1765376183,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176136,
+        "num": 122847,
+        "word": "张柏芝出庭 神图",
+        "onboard_time": 1765373184,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150532,
+        "num": 122659,
+        "word": "陈伟霆 哥不懂但祝你考试成功",
+        "onboard_time": 1765368983,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 121932,
+        "word": "汕头火灾遇难者系四代同堂",
+        "onboard_time": 1765380921,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83059,
+        "num": 121409,
+        "word": "中方回应中俄轰炸机飞临日本",
+        "onboard_time": 1765370844,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72719,
+        "num": 120693,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62697,
+        "num": 119930,
+        "word": "泰柬冲突",
+        "onboard_time": 1765381281,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146407,
+        "num": 119687,
+        "word": "阮经天恋情",
+        "onboard_time": 1765368322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119154,
+        "num": 119154,
+        "word": "小S晒母女四人全家福",
+        "onboard_time": 1765380441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119114,
+        "num": 119114,
+        "word": "狙击蝴蝶 女主赋魅",
+        "onboard_time": 1765383859,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97875,
+        "num": 97875,
+        "word": "躺床上玩手机的正确姿势",
+        "onboard_time": 1765380561,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84246,
+        "num": 97780,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77327,
+        "num": 97724,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765362501,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77175,
+        "num": 97572,
+        "word": "上班最大的意义不是拿点工资",
+        "onboard_time": 1765369402,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70435,
+        "num": 97529,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765383380,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68132,
+        "num": 97399,
+        "word": "虞书欣父亲维权索赔17万",
+        "onboard_time": 1765371261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52604,
+        "num": 97317,
+        "word": "美国女子熟睡时被医生男友喂堕胎药",
+        "onboard_time": 1765374685,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65845,
+        "num": 97165,
+        "word": "狙击蝴蝶剧组工作人员发文",
+        "onboard_time": 1765382361,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64241,
+        "num": 97116,
+        "word": "小樱桃坠亡后家庭现状",
+        "onboard_time": 1765381221,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60435,
+        "num": 96945,
+        "word": "惠英红跳了替身不敢跳的楼",
+        "onboard_time": 1765374624,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 96893,
+        "word": "王源要漂亮的蓝要胖要大",
+        "onboard_time": 1765375283,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45809,
+        "num": 96743,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49213,
+        "num": 96706,
+        "word": "金莎孙丞潇 现实版狙击蝴蝶",
+        "onboard_time": 1765373662,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47507,
+        "num": 96624,
+        "word": "华晨宇因太瘦买不到衣服直呼要增肥",
+        "onboard_time": 1765378281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44533,
+        "num": 96505,
+        "word": "小樱桃妈妈称女儿母亲相继离世",
+        "onboard_time": 1765374564,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42125,
+        "num": 96395,
+        "word": "奥司他韦胶囊泡罩内现飞虫",
+        "onboard_time": 1765379482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45492,
+        "num": 96251,
+        "word": "李昀锐手上好多伤",
+        "onboard_time": 1765367962,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43636,
+        "num": 96161,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41069,
+        "num": 96092,
+        "word": "成毅赴山海人气断层",
+        "onboard_time": 1765377861,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40628,
+        "num": 95990,
+        "word": "水银体温计停产后用啥测体温",
+        "onboard_time": 1765384699,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41063,
+        "num": 95886,
+        "word": "王鹤棣沈月 每隔三年be转he",
+        "onboard_time": 1765368983,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36914,
+        "num": 95726,
+        "word": "老虎熟睡的样子怎么这么好笑",
+        "onboard_time": 1765379303,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36856,
+        "num": 95635,
+        "word": "张婧仪长了麦粒肿",
+        "onboard_time": 1765374985,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35792,
+        "num": 95582,
+        "word": "考研准考证 颜文字",
+        "onboard_time": 1765360520,
+        "rank": 46,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 34820,
+        "num": 95469,
+        "word": "王楚钦说都想着拎包回去了",
+        "onboard_time": 1765377143,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30371,
+        "num": 95304,
+        "word": "片仔癀跌破官方指导价",
+        "onboard_time": 1765382120,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29870,
+        "num": 95256,
+        "word": "请问显胯宽吗 不知道我的身材很曼妙",
+        "onboard_time": 1765385538,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
