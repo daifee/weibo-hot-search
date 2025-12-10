@@ -1,18 +1,18 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765409151172,
+  "endTime": 1765410047588,
   "band_list": [
     {
       "raw_hot": 857605,
-      "num": 857605,
+      "num": 926167,
       "word": "5000万网红偷税漏税被实名举报",
       "onboard_time": 1765380561,
       "rank": 0,
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 681507,
-      "num": 176118,
+      "raw_hot": 794594,
+      "num": 206020,
       "word": "女子熟睡遭男友喂堕胎药",
       "onboard_time": 1765379721,
       "rank": 5,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441612,
-      "num": 441612,
+      "raw_hot": 492091,
+      "num": 492091,
       "word": "美联储宣布降息25个基点",
       "onboard_time": 1765406476,
       "rank": 31,
@@ -51,28 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273635,
-      "num": 110355,
+      "raw_hot": 330699,
+      "num": 130147,
       "word": "山东冠县地震",
       "onboard_time": 1765408278,
       "rank": 10,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 268487,
-      "num": 126995,
-      "word": "辣妈正传",
-      "onboard_time": 1765376183,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 263035,
+      "raw_hot": 329746,
       "num": 122659,
       "word": "陈伟霆 哥不懂但祝你考试成功",
       "onboard_time": 1765368983,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278893,
+      "num": 128522,
+      "word": "辣妈正传",
+      "onboard_time": 1765376183,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 253190,
@@ -91,20 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207415,
-      "num": 207415,
+      "raw_hot": 233846,
+      "num": 233846,
       "word": "LV高管加入泡泡玛特",
       "onboard_time": 1765375882,
       "rank": 47,
       "category": "财经"
     },
     {
-      "raw_hot": 194709,
-      "num": 194709,
+      "raw_hot": 229150,
+      "num": 229150,
       "word": "中方录音一出日本有人看不下去了",
       "onboard_time": 1765372461,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186159,
+      "num": 127998,
+      "word": "郭碧婷回应和向太越长越像",
+      "onboard_time": 1765403474,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 185124,
@@ -131,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158432,
+      "num": 158432,
+      "word": "赴山海",
+      "onboard_time": 1765403893,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139693,
       "num": 119154,
       "word": "小S晒母女四人全家福",
       "onboard_time": 1765380441,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138934,
+      "num": 174582,
+      "word": "王楚钦12比14松岛辉空",
+      "onboard_time": 1765376842,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 138747,
@@ -155,12 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130607,
-      "num": 106668,
-      "word": "郭碧婷回应和向太越长越像",
-      "onboard_time": 1765403474,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 134618,
+      "num": 134618,
+      "word": "皇马1比2曼城",
+      "onboard_time": 1765408278,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 128661,
@@ -171,12 +195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122921,
-      "num": 122921,
-      "word": "赴山海",
-      "onboard_time": 1765403893,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 125526,
+      "num": 125526,
+      "word": "中方回应中俄轰炸机飞临日本",
+      "onboard_time": 1765370844,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117402,
@@ -187,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117122,
-      "num": 174582,
-      "word": "王楚钦12比14松岛辉空",
-      "onboard_time": 1765376842,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114134,
       "num": 114134,
       "word": "腾讯视频星光大赏",
@@ -203,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110715,
-      "num": 110715,
-      "word": "皇马1比2曼城",
-      "onboard_time": 1765408278,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 109875,
+      "num": 103262,
+      "word": "上班最大的意义不是拿点工资",
+      "onboard_time": 1765369402,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 107909,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106949,
-      "num": 121409,
-      "word": "中方回应中俄轰炸机飞临日本",
-      "onboard_time": 1765370844,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98399,
       "num": 152891,
       "word": "片仔癀从1600元一粒降到百元",
@@ -235,7 +243,15 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93721,
+      "raw_hot": 97490,
+      "num": 97490,
+      "word": "美联储降息",
+      "onboard_time": 1765409298,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97304,
       "num": 120693,
       "word": "女子连续早到岗被开除",
       "onboard_time": 1765363763,
@@ -251,20 +267,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89828,
-      "num": 103262,
-      "word": "上班最大的意义不是拿点工资",
-      "onboard_time": 1765369402,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86664,
       "num": 103213,
       "word": "狙击蝴蝶剧组工作人员发文",
       "onboard_time": 1765382361,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84407,
+      "num": 84407,
+      "word": "曝某科班男只愿和漂亮女演员搭戏",
+      "onboard_time": 1765387516,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78405,
+      "num": 78405,
+      "word": "高市早苗希望尽早会面特朗普",
+      "onboard_time": 1765408818,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78320,
@@ -283,12 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74261,
-      "num": 67208,
-      "word": "曝某科班男只愿和漂亮女演员搭戏",
-      "onboard_time": 1765387516,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 75288,
+      "num": 75288,
+      "word": "历年的King和Queen",
+      "onboard_time": 1765409659,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69756,
@@ -340,11 +364,19 @@
     },
     {
       "raw_hot": 63661,
-      "num": 63661,
+      "num": 73461,
       "word": "本周六上午故宫门票已约满",
       "onboard_time": 1765403234,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62940,
+      "num": 73465,
+      "word": "许玮甯患甲流不敢抱儿子",
+      "onboard_time": 1765407557,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 62079,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 61994,
-      "num": 61994,
+      "num": 73433,
       "word": "向太说港星脾气最大是梅艳芳",
       "onboard_time": 1765390216,
       "rank": 33,
@@ -387,12 +419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53006,
-      "num": 61957,
-      "word": "许玮甯患甲流不敢抱儿子",
-      "onboard_time": 1765407557,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 54207,
+      "num": 73449,
+      "word": "水银体温计血压计禁产",
+      "onboard_time": 1765409898,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53260,
+      "num": 73427,
+      "word": "男子把玉米扔九寨沟水里被游客怒怼",
+      "onboard_time": 1765409239,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52759,
@@ -411,7 +451,23 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48061,
+      "raw_hot": 49586,
+      "num": 73407,
+      "word": "九寨沟回应男子把吃剩玉米扔水里",
+      "onboard_time": 1765409659,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49419,
+      "num": 73399,
+      "word": "鲍威尔排除加息可能",
+      "onboard_time": 1765409180,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 48868,
       "num": 95990,
       "word": "水银体温计停产后用啥测体温",
       "onboard_time": 1765384699,
@@ -419,12 +475,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 47004,
-      "num": 61894,
-      "word": "高市早苗希望尽早会面特朗普",
-      "onboard_time": 1765408818,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 48047,
+      "num": 102571,
+      "word": "王鹤棣沈月 每隔三年be转he",
+      "onboard_time": 1765368983,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46998,
+      "num": 73380,
+      "word": "比死神先来的是小狗的嘴筒子",
+      "onboard_time": 1765409898,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 46576,
@@ -444,19 +508,11 @@
     },
     {
       "raw_hot": 46319,
-      "num": 61824,
+      "num": 73341,
       "word": "周柯宇做了我最想对陈妍希做的事",
       "onboard_time": 1765395554,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46021,
-      "num": 102571,
-      "word": "王鹤棣沈月 每隔三年be转he",
-      "onboard_time": 1765368983,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 45809,
@@ -499,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41816,
+      "num": 73347,
+      "word": "女生每天一杯奶茶可乐尿酸值破700",
+      "onboard_time": 1765409418,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40887,
       "num": 61676,
       "word": "跨年演唱会",
@@ -507,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39177,
+      "num": 73344,
+      "word": "朋友组10人局不买单结束只留男子一人",
+      "onboard_time": 1765409719,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38344,
       "num": 95256,
       "word": "请问显胯宽吗 不知道我的身材很曼妙",
       "onboard_time": 1765385538,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38112,
+      "num": 73330,
+      "word": "每天至少吃12种以上食物",
+      "onboard_time": 1765409479,
+      "rank": 49,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 37539,
@@ -683,7 +763,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2204,
+      "raw_hot": 2632,
       "num": 321665,
       "word": "中国经济长期向好具有坚实支撑",
       "onboard_time": 1765340602,
