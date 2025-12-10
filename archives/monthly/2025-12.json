@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765405691575,
+  "endTime": 1765406724076,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -27507,6 +27507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79893,
+      "num": 79893,
+      "word": "杨振宁追思会",
+      "onboard_time": 1765388416,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79753,
       "num": 113854,
       "word": "迪丽热巴 拉郎乱炖",
@@ -29395,6 +29403,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 61379,
+      "num": 49213,
+      "word": "赴山海",
+      "onboard_time": 1765403893,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61301,
       "num": 109916,
       "word": "美国生活在下水道的人",
@@ -29801,14 +29817,6 @@
       "onboard_time": 1765285225,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56637,
-      "num": 56637,
-      "word": "杨振宁追思会",
-      "onboard_time": 1765388416,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56615,
@@ -30739,14 +30747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49213,
-      "num": 49213,
-      "word": "赴山海",
-      "onboard_time": 1765403893,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49026,
       "num": 49026,
       "word": "狙击蝴蝶李嘉格真人版",
@@ -31009,6 +31009,14 @@
       "onboard_time": 1764911902,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46319,
+      "num": 46319,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 46225,
@@ -31699,6 +31707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41528,
+      "num": 41528,
+      "word": "郭碧婷回应和向太越长越像",
+      "onboard_time": 1765403474,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41397,
       "num": 114184,
       "word": "女子乳腺癌晚期被骗85万救命钱",
@@ -32177,6 +32193,14 @@
       "onboard_time": 1765031543,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38356,
+      "num": 42484,
+      "word": "原来春宵一刻值千金是这个千金啊",
+      "onboard_time": 1765402514,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 38344,
@@ -32763,14 +32787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33657,
-      "num": 33657,
-      "word": "周柯宇做了我最想对陈妍希做的事",
-      "onboard_time": 1765395554,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33627,
       "num": 33627,
       "word": "刘宇宁空降爱奇艺尖叫嘉年华",
@@ -32857,6 +32873,14 @@
       "onboard_time": 1765127418,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33182,
+      "num": 33182,
+      "word": "向太说港星脾气最大是梅艳芳",
+      "onboard_time": 1765390216,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 33138,
@@ -33051,12 +33075,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31808,
+      "num": 31279,
+      "word": "美联储宣布降息25个基点",
+      "onboard_time": 1765406476,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31744,
       "num": 977741,
       "word": "一人一句为残特奥会运动员加油",
       "onboard_time": 1765201341,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31492,
+      "num": 31492,
+      "word": "本周六上午故宫门票已约满",
+      "onboard_time": 1765403234,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31263,
@@ -33491,14 +33531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27942,
-      "num": 30615,
-      "word": "原来春宵一刻值千金是这个千金啊",
-      "onboard_time": 1765402514,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27901,
       "num": 118248,
       "word": "游客拍下日本地震第一视角",
@@ -33659,6 +33691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27056,
+      "num": 31168,
+      "word": "当安卓用户第一次用苹果",
+      "onboard_time": 1765394834,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26926,
       "num": 197082,
       "word": "为救患病孩子父母寒风中直播跳舞",
@@ -33681,14 +33721,6 @@
       "onboard_time": 1764958995,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26830,
-      "num": 30615,
-      "word": "郭碧婷回应和向太越长越像",
-      "onboard_time": 1765403474,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 26781,
@@ -33809,14 +33841,6 @@
       "onboard_time": 1765249883,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25806,
-      "num": 30585,
-      "word": "向太说港星脾气最大是梅艳芳",
-      "onboard_time": 1765390216,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 25798,
@@ -34276,7 +34300,7 @@
     },
     {
       "raw_hot": 22669,
-      "num": 30597,
+      "num": 31153,
       "word": "当地法院回应女子提前上班被解雇",
       "onboard_time": 1765399274,
       "rank": 34,
@@ -34337,22 +34361,6 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 21764,
-      "num": 30579,
-      "word": "当安卓用户第一次用苹果",
-      "onboard_time": 1765394834,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 21584,
-      "num": 30567,
-      "word": "本周六上午故宫门票已约满",
-      "onboard_time": 1765403234,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21507,
@@ -34713,6 +34721,14 @@
       "onboard_time": 1765172362,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18341,
+      "num": 31144,
+      "word": "星光墙",
+      "onboard_time": 1765401194,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 18248,
@@ -35137,14 +35153,6 @@
       "onboard_time": 1765304294,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14220,
-      "num": 30498,
-      "word": "星光墙",
-      "onboard_time": 1765401194,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 14136,
