@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765366886406,
+  "endTime": 1765371526517,
   "band_list": [
     {
       "raw_hot": 2374415,
@@ -33,6 +33,14 @@
       "onboard_time": 1765330822,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1469004,
+      "num": 1469004,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1765368562,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1428291,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761089,
+      "num": 191896,
+      "word": "虞书欣父亲维权索赔17万",
+      "onboard_time": 1765371261,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701415,
       "num": 363144,
       "word": "陈晓陈妍希 顶峰相见",
@@ -201,6 +217,14 @@
       "onboard_time": 1765347623,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577354,
+      "num": 186999,
+      "word": "阮经天恋情",
+      "onboard_time": 1765368322,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 574341,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476115,
+      "num": 386793,
+      "word": "女子连续早到岗被开除",
+      "onboard_time": 1765363763,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 465224,
       "num": 465224,
       "word": "黄子韬叫陈梦姐后给了自己一巴掌",
@@ -361,6 +393,14 @@
       "onboard_time": 1765324160,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443647,
+      "num": 190716,
+      "word": "王楚钦4比3松岛辉空",
+      "onboard_time": 1765371143,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 423593,
@@ -443,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386793,
-      "num": 386793,
-      "word": "女子连续早到岗被开除",
-      "onboard_time": 1765363763,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 384275,
       "num": 384275,
       "word": "广东一住宅突发火灾致8死",
@@ -521,6 +553,14 @@
       "onboard_time": 1765341562,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350320,
+      "num": 194321,
+      "word": "王楚钦场外指导是孙逊",
+      "onboard_time": 1765370422,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 347454,
@@ -691,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251457,
+      "num": 188731,
+      "word": "程靖淇宣布退役",
+      "onboard_time": 1765368862,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241390,
       "num": 273947,
       "word": "狙击蝴蝶",
@@ -729,6 +777,14 @@
       "onboard_time": 1765347742,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227614,
+      "num": 227614,
+      "word": "TheShy发文告别赛场",
+      "onboard_time": 1765367422,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 222093,
@@ -891,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195517,
+      "num": 184939,
+      "word": "李昀锐手上好多伤",
+      "onboard_time": 1765367962,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195103,
       "num": 195103,
       "word": "白鹿浙江跨晚造型",
@@ -905,6 +969,14 @@
       "onboard_time": 1765359081,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194339,
+      "num": 194339,
+      "word": "王曼昱4比2胜张本美和",
+      "onboard_time": 1765368802,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 190197,
@@ -971,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184621,
+      "num": 184621,
+      "word": "王鹤棣沈月 每隔三年be转he",
+      "onboard_time": 1765368983,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "枭起青壤",
@@ -1025,6 +1105,22 @@
       "onboard_time": 1765353502,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171317,
+      "num": 171317,
+      "word": "朱志鑫张桂源新音跨代双人舞台",
+      "onboard_time": 1765370962,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 170937,
+      "num": 170937,
+      "word": "虞书欣父亲维权案将开庭",
+      "onboard_time": 1765371261,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 170732,
@@ -1115,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163200,
+      "num": 163200,
+      "word": "此沙的签名居然比贪吃蛇还长",
+      "onboard_time": 1765370361,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163132,
       "num": 226078,
       "word": "空枪",
@@ -1163,8 +1267,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153286,
+      "num": 153286,
+      "word": "郭碧婷说住台北公婆没意见",
+      "onboard_time": 1765369642,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153215,
-      "num": 153215,
+      "num": 193080,
       "word": "2014年的马年春晚",
       "onboard_time": 1765365323,
       "rank": 35,
@@ -1259,6 +1371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145840,
+      "num": 145840,
+      "word": "小樱桃坠亡3年妈妈仍留着她衣服",
+      "onboard_time": 1765368021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145498,
       "num": 127085,
       "word": "我对买不起的东西就这样",
@@ -1281,6 +1401,14 @@
       "onboard_time": 1765356021,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143978,
+      "num": 143978,
+      "word": "中方回应中俄轰炸机飞临日本",
+      "onboard_time": 1765370844,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143784,
@@ -1385,6 +1513,14 @@
       "onboard_time": 1765345820,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137925,
+      "num": 137925,
+      "word": "新手妈妈建议反复观看",
+      "onboard_time": 1765370302,
+      "rank": 36,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 137315,
@@ -1643,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121917,
+      "num": 121917,
+      "word": "LV大中华区总裁加入泡泡玛特董事会",
+      "onboard_time": 1765370844,
+      "rank": 39,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 121847,
       "num": 126799,
       "word": "自卑的他明媚的她互补的家",
@@ -1747,12 +1891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108621,
+      "num": 108621,
+      "word": "上班最大的意义不是拿点工资",
+      "onboard_time": 1765369402,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108033,
       "num": 108033,
       "word": "张韶涵淋雨一直走 周杰伦欧洲一直走",
       "onboard_time": 1765332680,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107609,
+      "num": 105407,
+      "word": "周柯宇 不要ban妍希姐的英雄",
+      "onboard_time": 1765370122,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 107118,
@@ -1777,6 +1937,14 @@
       "onboard_time": 1765337481,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105671,
+      "num": 105671,
+      "word": "天生瘦子一天吃什么",
+      "onboard_time": 1765370662,
+      "rank": 45,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 105653,
@@ -1953,6 +2121,14 @@
       "onboard_time": 1765350620,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92602,
+      "num": 92602,
+      "word": "家长吐槽英语教材被质疑亮证书回击",
+      "onboard_time": 1765371323,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 91770,
@@ -2747,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44720,
+      "num": 172502,
+      "word": "中国探险家成功登顶七大洲最高峰",
+      "onboard_time": 1765369043,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44344,
       "num": 52270,
       "word": "沈腾王安宇范丞丞男人吃不了漂亮饭",
@@ -2889,6 +3073,14 @@
       "onboard_time": 1765334000,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33289,
+      "num": 187689,
+      "word": "实力派阵容集结电影之城",
+      "onboard_time": 1765367301,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 33138,
@@ -3088,6 +3280,14 @@
       "word": "警方介入店主持刀挥向打假博主",
       "onboard_time": 1765365743,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18743,
+      "num": 193654,
+      "word": "IMF上调2025年中国经济增速预期",
+      "onboard_time": 1765360641,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
