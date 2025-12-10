@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765403067090,
+  "endTime": 1765405691575,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -29803,6 +29803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56637,
+      "num": 56637,
+      "word": "杨振宁追思会",
+      "onboard_time": 1765388416,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56615,
       "num": 231329,
       "word": "华为MateX7开售氛围火爆",
@@ -30729,6 +30737,14 @@
       "onboard_time": 1765043177,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49213,
+      "num": 49213,
+      "word": "赴山海",
+      "onboard_time": 1765403893,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 49026,
@@ -32035,14 +32051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39165,
-      "num": 53918,
-      "word": "杨振宁追思会",
-      "onboard_time": 1765388416,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39155,
       "num": 86617,
       "word": "美军将采购超30万架自杀式无人机",
@@ -32315,20 +32323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37539,
+      "num": 33825,
+      "word": "19岁男生让6岁女孩感受到了父爱",
+      "onboard_time": 1765394474,
+      "rank": 49,
+      "category": "情感,剧集"
+    },
+    {
       "raw_hot": 37438,
       "num": 194067,
       "word": "欧米茄海马活动现场颜值狙击",
       "onboard_time": 1764760882,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 37396,
-      "num": 27751,
-      "word": "19岁男生让6岁女孩感受到了父爱",
-      "onboard_time": 1765394474,
-      "rank": 49,
-      "category": "情感,剧集"
     },
     {
       "raw_hot": 37360,
@@ -32753,6 +32761,14 @@
       "onboard_time": 1765272262,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33657,
+      "num": 33657,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 33627,
@@ -33475,6 +33491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27942,
+      "num": 30615,
+      "word": "原来春宵一刻值千金是这个千金啊",
+      "onboard_time": 1765402514,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27901,
       "num": 118248,
       "word": "游客拍下日本地震第一视角",
@@ -33659,6 +33683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26830,
+      "num": 30615,
+      "word": "郭碧婷回应和向太越长越像",
+      "onboard_time": 1765403474,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26781,
       "num": 121850,
       "word": "遵义湘江河漂浮粪水臭气熏天",
@@ -33777,6 +33809,14 @@
       "onboard_time": 1765249883,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25806,
+      "num": 30585,
+      "word": "向太说港星脾气最大是梅艳芳",
+      "onboard_time": 1765390216,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 25798,
@@ -34107,14 +34147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 23354,
-      "num": 30296,
-      "word": "向太说港星脾气最大是梅艳芳",
-      "onboard_time": 1765390216,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23343,
       "num": 133039,
       "word": "日本儿童版防卫白皮书遭批",
@@ -34243,6 +34275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22669,
+      "num": 30597,
+      "word": "当地法院回应女子提前上班被解雇",
+      "onboard_time": 1765399274,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22314,
       "num": 125539,
       "word": "被害人家属痛斥姐姐偏袒凶手弟弟",
@@ -34297,6 +34337,22 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 21764,
+      "num": 30579,
+      "word": "当安卓用户第一次用苹果",
+      "onboard_time": 1765394834,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 21584,
+      "num": 30567,
+      "word": "本周六上午故宫门票已约满",
+      "onboard_time": 1765403234,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21507,
@@ -34491,22 +34547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19807,
-      "num": 27720,
-      "word": "当安卓用户第一次用苹果",
-      "onboard_time": 1765394834,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 19751,
-      "num": 27732,
-      "word": "周柯宇做了我最想对陈妍希做的事",
-      "onboard_time": 1765395554,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19689,
       "num": 75578,
       "word": "写生至少得写吧",
@@ -34649,14 +34689,6 @@
       "onboard_time": 1764556160,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18540,
-      "num": 27729,
-      "word": "当地法院回应女子提前上班被解雇",
-      "onboard_time": 1765399274,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18521,
@@ -35107,6 +35139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14220,
+      "num": 30498,
+      "word": "星光墙",
+      "onboard_time": 1765401194,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14136,
       "num": 178836,
       "word": "餐馆贴狗与外卖员勿进",
@@ -35403,28 +35443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11137,
-      "num": 25348,
-      "word": "星光墙",
-      "onboard_time": 1765401194,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 11043,
       "num": 19672,
       "word": "熊黑 永远怀疑永远被骗",
       "onboard_time": 1764790814,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11038,
-      "num": 27672,
-      "word": "原来春宵一刻值千金是这个千金啊",
-      "onboard_time": 1765402514,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 10816,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765403067090,
+  "endTime": 1765405691575,
   "band_list": [
     {
       "raw_hot": 857605,
@@ -299,6 +299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57458,
+      "num": 57458,
+      "word": "LV高管加入泡泡玛特",
+      "onboard_time": 1765375882,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 56637,
+      "num": 56637,
+      "word": "杨振宁追思会",
+      "onboard_time": 1765388416,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52759,
       "num": 102795,
       "word": "曝何九华王鸥已在南宁领证",
@@ -321,6 +337,14 @@
       "onboard_time": 1765377323,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49213,
+      "num": 49213,
+      "word": "赴山海",
+      "onboard_time": 1765403893,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 46576,
@@ -395,14 +419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 39165,
-      "num": 53918,
-      "word": "杨振宁追思会",
-      "onboard_time": 1765388416,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38344,
       "num": 95256,
       "word": "请问显胯宽吗 不知道我的身材很曼妙",
@@ -411,16 +427,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37524,
-      "num": 53858,
-      "word": "LV高管加入泡泡玛特",
-      "onboard_time": 1765375882,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 37396,
-      "num": 27751,
+      "raw_hot": 37539,
+      "num": 33825,
       "word": "19岁男生让6岁女孩感受到了父爱",
       "onboard_time": 1765394474,
       "rank": 49,
@@ -467,12 +475,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33657,
+      "num": 33657,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29292,
       "num": 53886,
       "word": "周柯宇 不要ban妍希姐的英雄",
       "onboard_time": 1765370122,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27942,
+      "num": 30615,
+      "word": "原来春宵一刻值千金是这个千金啊",
+      "onboard_time": 1765402514,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 27878,
@@ -483,12 +507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26830,
+      "num": 30615,
+      "word": "郭碧婷回应和向太越长越像",
+      "onboard_time": 1765403474,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26437,
       "num": 53688,
       "word": "微博年度喜爱二次元角色",
       "onboard_time": 1765385718,
       "rank": 46,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 25806,
+      "num": 30585,
+      "word": "向太说港星脾气最大是梅艳芳",
+      "onboard_time": 1765390216,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 25719,
@@ -523,36 +563,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23354,
-      "num": 30296,
-      "word": "向太说港星脾气最大是梅艳芳",
-      "onboard_time": 1765390216,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 22669,
+      "num": 30597,
+      "word": "当地法院回应女子提前上班被解雇",
+      "onboard_time": 1765399274,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 19807,
-      "num": 27720,
+      "raw_hot": 21764,
+      "num": 30579,
       "word": "当安卓用户第一次用苹果",
       "onboard_time": 1765394834,
       "rank": 45,
       "category": "数码"
     },
     {
-      "raw_hot": 19751,
-      "num": 27732,
-      "word": "周柯宇做了我最想对陈妍希做的事",
-      "onboard_time": 1765395554,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18540,
-      "num": 27729,
-      "word": "当地法院回应女子提前上班被解雇",
-      "onboard_time": 1765399274,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 21584,
+      "num": 30567,
+      "word": "本周六上午故宫门票已约满",
+      "onboard_time": 1765403234,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17976,
@@ -563,12 +595,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 15819,
-      "num": 30183,
+      "raw_hot": 15863,
+      "num": 30521,
       "word": "王楚钦4比3松岛辉空",
       "onboard_time": 1765371143,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14220,
+      "num": 30498,
+      "word": "星光墙",
+      "onboard_time": 1765401194,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 13046,
@@ -587,22 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11137,
-      "num": 25348,
-      "word": "星光墙",
-      "onboard_time": 1765401194,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 11038,
-      "num": 27672,
-      "word": "原来春宵一刻值千金是这个千金啊",
-      "onboard_time": 1765402514,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 10366,
       "num": 27664,
       "word": "日本地震已致51人受伤",
@@ -611,8 +635,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1504,
-      "num": 36646,
+      "raw_hot": 1769,
+      "num": 56853,
       "word": "中国经济长期向好具有坚实支撑",
       "onboard_time": 1765340602,
       "rank": 2,

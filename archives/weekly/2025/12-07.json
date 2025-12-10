@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765403067090,
+  "endTime": 1765405691575,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -12123,6 +12123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56637,
+      "num": 56637,
+      "word": "杨振宁追思会",
+      "onboard_time": 1765388416,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56481,
       "num": 193739,
       "word": "义勇军进行曲响彻赛场",
@@ -12585,6 +12593,14 @@
       "onboard_time": 1765043177,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49213,
+      "num": 49213,
+      "word": "赴山海",
+      "onboard_time": 1765403893,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 48866,
@@ -13139,14 +13155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39165,
-      "num": 53918,
-      "word": "杨振宁追思会",
-      "onboard_time": 1765388416,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39021,
       "num": 1147889,
       "word": "48个场景百亿投资向海而兴",
@@ -13251,8 +13259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37396,
-      "num": 27751,
+      "raw_hot": 37539,
+      "num": 33825,
       "word": "19岁男生让6岁女孩感受到了父爱",
       "onboard_time": 1765394474,
       "rank": 49,
@@ -13457,6 +13465,14 @@
       "onboard_time": 1765272262,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33657,
+      "num": 33657,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 33357,
@@ -13779,6 +13795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27942,
+      "num": 30615,
+      "word": "原来春宵一刻值千金是这个千金啊",
+      "onboard_time": 1765402514,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27901,
       "num": 118248,
       "word": "游客拍下日本地震第一视角",
@@ -13891,6 +13915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26830,
+      "num": 30615,
+      "word": "郭碧婷回应和向太越长越像",
+      "onboard_time": 1765403474,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26532,
       "num": 285082,
       "word": "国家医保目录新增114种药品",
@@ -13953,6 +13985,14 @@
       "onboard_time": 1765249883,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25806,
+      "num": 30585,
+      "word": "向太说港星脾气最大是梅艳芳",
+      "onboard_time": 1765390216,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 25798,
@@ -14075,14 +14115,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23354,
-      "num": 30296,
-      "word": "向太说港星脾气最大是梅艳芳",
-      "onboard_time": 1765390216,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23285,
       "num": 485480,
       "word": "一天活力益冠搞定",
@@ -14131,6 +14163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22669,
+      "num": 30597,
+      "word": "当地法院回应女子提前上班被解雇",
+      "onboard_time": 1765399274,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22236,
       "num": 388075,
       "word": "盘点2025持续火出圈的非遗",
@@ -14153,6 +14193,22 @@
       "onboard_time": 1765217955,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 21764,
+      "num": 30579,
+      "word": "当安卓用户第一次用苹果",
+      "onboard_time": 1765394834,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 21584,
+      "num": 30567,
+      "word": "本周六上午故宫门票已约满",
+      "onboard_time": 1765403234,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21507,
@@ -14275,22 +14331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19807,
-      "num": 27720,
-      "word": "当安卓用户第一次用苹果",
-      "onboard_time": 1765394834,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 19751,
-      "num": 27732,
-      "word": "周柯宇做了我最想对陈妍希做的事",
-      "onboard_time": 1765395554,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19689,
       "num": 75578,
       "word": "写生至少得写吧",
@@ -14377,14 +14417,6 @@
       "onboard_time": 1765205663,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18540,
-      "num": 27729,
-      "word": "当地法院回应女子提前上班被解雇",
-      "onboard_time": 1765399274,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18521,
@@ -14587,6 +14619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14220,
+      "num": 30498,
+      "word": "星光墙",
+      "onboard_time": 1765401194,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13996,
       "num": 523370,
       "word": "11月我国外贸增速回升至4.1%",
@@ -14689,22 +14729,6 @@
       "onboard_time": 1765292003,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11137,
-      "num": 25348,
-      "word": "星光墙",
-      "onboard_time": 1765401194,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 11038,
-      "num": 27672,
-      "word": "原来春宵一刻值千金是这个千金啊",
-      "onboard_time": 1765402514,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 10816,
