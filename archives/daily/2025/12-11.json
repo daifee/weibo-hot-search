@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765385585572,
+  "endTime": 1765387846690,
   "band_list": [
     {
       "raw_hot": 857605,
@@ -115,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134676,
+      "num": 119114,
+      "word": "狙击蝴蝶 女主赋魅",
+      "onboard_time": 1765383859,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128661,
       "num": 109128,
       "word": "躺床上玩手机的正确姿势",
       "onboard_time": 1765380561,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 119114,
-      "num": 119114,
-      "word": "狙击蝴蝶 女主赋魅",
-      "onboard_time": 1765383859,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 117402,
@@ -379,6 +379,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39916,
+      "num": 53723,
+      "word": "跨年演唱会",
+      "onboard_time": 1765387757,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37125,
+      "num": 95256,
+      "word": "请问显胯宽吗 不知道我的身材很曼妙",
+      "onboard_time": 1765385538,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36856,
       "num": 95635,
       "word": "张婧仪长了麦粒肿",
@@ -419,12 +435,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29870,
-      "num": 95256,
-      "word": "请问显胯宽吗 不知道我的身材很曼妙",
-      "onboard_time": 1765385538,
+      "raw_hot": 29292,
+      "num": 53700,
+      "word": "周柯宇 不要ban妍希姐的英雄",
+      "onboard_time": 1765370122,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27878,
+      "num": 53701,
+      "word": "寻秦记原班人马24年后重聚",
+      "onboard_time": 1765385837,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26437,
+      "num": 53688,
+      "word": "微博年度喜爱二次元角色",
+      "onboard_time": 1765385718,
+      "rank": 46,
+      "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 25222,
+      "num": 53681,
+      "word": "曝某科班男只愿和漂亮女演员搭戏",
+      "onboard_time": 1765387516,
       "rank": 49,
-      "category": "幽默"
+      "category": "艺人"
     },
     {
       "raw_hot": 24170,
