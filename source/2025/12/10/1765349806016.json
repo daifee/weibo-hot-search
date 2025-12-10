@@ -1,0 +1,410 @@
+{
+  "runTime": 1765349806016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980570,
+        "num": 1980570,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868897,
+        "num": 868897,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32161,
+        "num": 537023,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479773,
+        "num": 479773,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228419,
+        "num": 228419,
+        "word": "原神月之少女",
+        "onboard_time": 1765347742,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354672,
+        "num": 227586,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308615,
+        "num": 226242,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121991,
+        "num": 225506,
+        "word": "万科A午后涨停",
+        "onboard_time": 1765345882,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21576,
+        "num": 224459,
+        "word": "中国机器人6000米深海拍视频",
+        "onboard_time": 1765341142,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111457,
+        "num": 222721,
+        "word": "BLG官宣Daeny加入",
+        "onboard_time": 1765345820,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307839,
+        "num": 221314,
+        "word": "广东汕头火灾事故遇难人数升至12人",
+        "onboard_time": 1765340060,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602805,
+        "num": 219808,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523154,
+        "num": 219092,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518048,
+        "num": 216977,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 13,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 445383,
+        "num": 216575,
+        "word": "李现西藏徒步",
+        "onboard_time": 1765347861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380914,
+        "num": 214478,
+        "word": "4岁女童甲流合并细菌感染肺都白了",
+        "onboard_time": 1765345820,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 213012,
+        "word": "中国经济长期向好具有坚实支撑",
+        "onboard_time": 1765340602,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342244,
+        "num": 211972,
+        "word": "七个偶像练习生在综艺里吵起来了",
+        "onboard_time": 1765345221,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340972,
+        "num": 210513,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321219,
+        "num": 208988,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316606,
+        "num": 207535,
+        "word": "新生儿疑因基因筛查错误致死",
+        "onboard_time": 1765347623,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464516,
+        "num": 207369,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339541,
+        "num": 205052,
+        "word": "孙俪教邓超减肥 3周腰围小4厘米",
+        "onboard_time": 1765343541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45843,
+        "num": 203855,
+        "word": "张水华家人称对处分不评价",
+        "onboard_time": 1765348340,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302852,
+        "num": 202513,
+        "word": "爱奇艺排播片单没有双轨",
+        "onboard_time": 1765346301,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202263,
+        "num": 202263,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253550,
+        "num": 202244,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202087,
+        "num": 202087,
+        "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+        "onboard_time": 1765339941,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 172688,
+        "num": 172688,
+        "word": "老阿姨澡堂内偷拍多名女性被拘",
+        "onboard_time": 1765346422,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165920,
+        "num": 165920,
+        "word": "汪东城 绝望直男",
+        "onboard_time": 1765346601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163806,
+        "num": 163806,
+        "word": "王俊凯话剧舞台",
+        "onboard_time": 1765348640,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161848,
+        "num": 161848,
+        "word": "苹果喊话iPhone用户更新iOS26",
+        "onboard_time": 1765343482,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154341,
+        "num": 154341,
+        "word": "儿子回应洪金宝回春",
+        "onboard_time": 1765341862,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150271,
+        "num": 150271,
+        "word": "沈腾 马丽你直接点我名吧",
+        "onboard_time": 1765348101,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149484,
+        "num": 149484,
+        "word": "中国科学家证明爱因斯坦这次错了",
+        "onboard_time": 1765349241,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141525,
+        "num": 141525,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1765349300,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135364,
+        "num": 135364,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131332,
+        "num": 131332,
+        "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+        "onboard_time": 1765340422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108127,
+        "num": 126849,
+        "word": "聂远11岁女儿已拍4部长剧",
+        "onboard_time": 1765348821,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54730,
+        "num": 125622,
+        "word": "鞠婧祎 血色回眸",
+        "onboard_time": 1765348821,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108670,
+        "num": 124736,
+        "word": "大疆回应多地无人机黑飞至8000米",
+        "onboard_time": 1765349542,
+        "rank": 40,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 124708,
+        "num": 124708,
+        "word": "电视剧老舅定档",
+        "onboard_time": 1765343782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120256,
+        "num": 120256,
+        "word": "女子一周喝三次奶茶确诊糖尿病",
+        "onboard_time": 1765335680,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111474,
+        "num": 111474,
+        "word": "枭起青壤",
+        "onboard_time": 1765340001,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108870,
+        "num": 108870,
+        "word": "AL官宣全员续约",
+        "onboard_time": 1765346781,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105628,
+        "num": 105628,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102405,
+        "num": 102405,
+        "word": "许绍雄离世细节",
+        "onboard_time": 1765334960,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102168,
+        "num": 102168,
+        "word": "顾客用胶带粘吊牌退回穿脏表演服",
+        "onboard_time": 1765346901,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102260,
+        "num": 101917,
+        "word": "立陶宛因气球侵犯领空进入紧急状态",
+        "onboard_time": 1765345701,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97226,
+        "num": 101617,
+        "word": "张俪 聪明真的可以演出来",
+        "onboard_time": 1765347623,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定推动高质量发展这个主题#"
+    }
+  }
+}
