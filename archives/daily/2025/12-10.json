@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765362843647,
+  "endTime": 1765363849649,
   "band_list": [
     {
       "raw_hot": 2151815,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 923860,
-      "num": 199914,
+      "num": 272245,
       "word": "我大使馆回应蓝战非被胁迫转账",
       "onboard_time": 1765360282,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 794913,
-      "num": 226708,
+      "num": 268696,
       "word": "曝何九华王鸥已在南宁领证",
       "onboard_time": 1765357042,
       "rank": 21,
@@ -140,15 +140,15 @@
     },
     {
       "raw_hot": 674535,
-      "num": 222880,
+      "num": 271302,
       "word": "郭碧婷 向太有给很多钱",
       "onboard_time": 1765359561,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 647378,
-      "num": 199766,
+      "raw_hot": 668972,
+      "num": 271904,
       "word": "冯提莫 团播",
       "onboard_time": 1765359800,
       "rank": 32,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 528832,
-      "num": 202647,
+      "num": 271626,
       "word": "你不结婚我晚上睡不着",
       "onboard_time": 1765357702,
       "rank": 33,
@@ -297,6 +297,14 @@
       "onboard_time": 1765315393,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 459910,
+      "num": 273708,
+      "word": "崖洞干尸系59岁生前抑郁男子",
+      "onboard_time": 1765362561,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453490,
@@ -377,6 +385,14 @@
       "onboard_time": 1765325000,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390947,
+      "num": 270937,
+      "word": "管不住下半身 姐会亲自手刃",
+      "onboard_time": 1765361542,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 390299,
@@ -508,11 +524,19 @@
     },
     {
       "raw_hot": 327890,
-      "num": 199042,
+      "num": 267444,
       "word": "日本求锤得锤",
       "onboard_time": 1765360941,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305976,
+      "num": 269964,
+      "word": "考研准考证 颜文字",
+      "onboard_time": 1765360520,
+      "rank": 35,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 305139,
@@ -553,6 +577,14 @@
       "onboard_time": 1765287923,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 280610,
+      "num": 267654,
+      "word": "曝阮经天去韩国看女友",
+      "onboard_time": 1765362983,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 279002,
@@ -603,14 +635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 260107,
-      "num": 198690,
-      "word": "管不住下半身 姐会亲自手刃",
-      "onboard_time": 1765361542,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256307,
       "num": 256307,
       "word": "网传新音歌单",
@@ -619,8 +643,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254145,
+      "num": 246906,
+      "word": "iG阵容",
+      "onboard_time": 1765362141,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 252262,
+      "num": 252262,
+      "word": "中俄轰炸机和航母从3个方向包围琉球",
+      "onboard_time": 1765362021,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241390,
-      "num": 241390,
+      "num": 273947,
       "word": "狙击蝴蝶",
       "onboard_time": 1765274541,
       "rank": 1,
@@ -739,14 +779,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 206209,
-      "num": 198362,
-      "word": "iG阵容",
-      "onboard_time": 1765362141,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205927,
       "num": 205927,
       "word": "水银温度计的平替长这样",
@@ -819,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191661,
-      "num": 191661,
-      "word": "考研准考证 颜文字",
-      "onboard_time": 1765360520,
-      "rank": 35,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "何老师越听越觉得不对劲",
@@ -873,6 +897,14 @@
       "onboard_time": 1765337961,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186289,
+      "num": 186289,
+      "word": "微博之夜要来了",
+      "onboard_time": 1765362501,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184978,
@@ -947,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169726,
-      "num": 169726,
-      "word": "微博之夜要来了",
-      "onboard_time": 1765362501,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
@@ -1027,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161268,
+      "num": 272445,
+      "word": "孙颖莎回应比赛拖场",
+      "onboard_time": 1765362441,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159954,
       "num": 159954,
       "word": "刘宇宁大连站售罄",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1765322778,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152177,
+      "num": 254190,
+      "word": "原来情绪稳定的孩子是这样来的",
+      "onboard_time": 1765363402,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 150798,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1765358061,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147090,
-      "num": 198601,
-      "word": "孙颖莎回应比赛拖场",
-      "onboard_time": 1765362441,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 146511,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1765343661,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139734,
-      "num": 199308,
-      "word": "中俄轰炸机和航母从3个方向包围琉球",
-      "onboard_time": 1765362021,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139273,
@@ -1507,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122208,
+      "num": 269164,
+      "word": "韩国电子入境卡将台湾列为中国台湾",
+      "onboard_time": 1765362561,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121847,
       "num": 126799,
       "word": "自卑的他明媚的她互补的家",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1765354882,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112932,
+      "num": 112932,
+      "word": "女子连续早到岗被开除",
+      "onboard_time": 1765363763,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111086,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1765337481,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105653,
+      "num": 198520,
+      "word": "近8000吨车厘子来了",
+      "onboard_time": 1765362141,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104792,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1765294702,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97522,
-      "num": 198520,
-      "word": "近8000吨车厘子来了",
-      "onboard_time": 1765362141,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96574,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1765280181,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89180,
-      "num": 198814,
-      "word": "崖洞干尸系59岁生前抑郁男子",
-      "onboard_time": 1765362561,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88335,
@@ -2283,14 +2315,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 60931,
-      "num": 198943,
-      "word": "韩国电子入境卡将台湾列为中国台湾",
-      "onboard_time": 1765362561,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60545,
       "num": 52289,
       "word": "原来真的有脏的立起来这个概念",
@@ -2339,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56743,
+      "num": 180468,
+      "word": "现在的姐弟恋终于对味了",
+      "onboard_time": 1765363342,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56203,
       "num": 97159,
       "word": "偶遇素颜的刘亦菲",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1765348821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53733,
+      "num": 178373,
+      "word": "蒋易 停一下",
+      "onboard_time": 1765363223,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 53727,
@@ -2515,6 +2555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47903,
+      "num": 268118,
+      "word": "澳门电影之城红毯",
+      "onboard_time": 1765363342,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47462,
       "num": 189650,
       "word": "部分网店水银体温计价格翻倍被抢空",
@@ -2555,6 +2603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44802,
+      "num": 189675,
+      "word": "男子因闪婚妻子患糖尿病诉撤销婚姻",
+      "onboard_time": 1765362082,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44344,
       "num": 52270,
       "word": "沈腾王安宇范丞丞男人吃不了漂亮饭",
@@ -2572,7 +2628,7 @@
     },
     {
       "raw_hot": 42599,
-      "num": 199271,
+      "num": 269901,
       "word": "北京迪奥之家即将盛大开幕",
       "onboard_time": 1765361661,
       "rank": 19,
@@ -2731,6 +2787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 30269,
+      "num": 269506,
+      "word": "12306回应高铁无障碍厕所哺乳不便",
+      "onboard_time": 1765363223,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29498,
       "num": 96531,
       "word": "范丞丞直播",
@@ -2827,6 +2891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24141,
+      "num": 274601,
+      "word": "在这片辽阔的土地上",
+      "onboard_time": 1765360641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22677,
       "num": 96448,
       "word": "澳网2026",
@@ -2843,28 +2915,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22473,
-      "num": 264917,
-      "word": "在这片辽阔的土地上",
-      "onboard_time": 1765360641,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21606,
       "num": 96396,
       "word": "皮皮限停播",
       "onboard_time": 1765290445,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20922,
-      "num": 189675,
-      "word": "男子因闪婚妻子患糖尿病诉撤销婚姻",
-      "onboard_time": 1765362082,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20603,
@@ -2939,6 +2995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16258,
+      "num": 272832,
+      "word": "山海协同陆海联动绘就万里山河新画卷",
+      "onboard_time": 1765361480,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15879,
       "num": 131667,
       "word": "枭起青壤导演回应削弱南山猎人",
@@ -3001,14 +3065,6 @@
       "onboard_time": 1765301476,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9233,
-      "num": 200053,
-      "word": "山海协同陆海联动绘就万里山河新画卷",
-      "onboard_time": 1765361480,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3078,
