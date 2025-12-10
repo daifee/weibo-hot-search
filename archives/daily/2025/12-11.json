@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765395585159,
+  "endTime": 1765398827794,
   "band_list": [
     {
       "raw_hot": 857605,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37396,
+      "num": 24016,
+      "word": "19岁男生让6岁女孩感受到了父爱",
+      "onboard_time": 1765394474,
+      "rank": 49,
+      "category": "情感,剧集"
+    },
+    {
       "raw_hot": 36856,
       "num": 95635,
       "word": "张婧仪长了麦粒肿",
@@ -451,20 +459,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31429,
+      "num": 53858,
+      "word": "LV高管加入泡泡玛特",
+      "onboard_time": 1765375882,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29292,
       "num": 53886,
       "word": "周柯宇 不要ban妍希姐的英雄",
       "onboard_time": 1765370122,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28626,
-      "num": 53858,
-      "word": "LV高管加入泡泡玛特",
-      "onboard_time": 1765375882,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 27878,
@@ -499,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25048,
+      "num": 24012,
+      "word": "冯提莫成立传媒公司",
+      "onboard_time": 1765398134,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 24170,
       "num": 196842,
       "word": "明年经济三大看点",
@@ -515,20 +531,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17260,
-      "num": 23837,
-      "word": "19岁男生让6岁女孩感受到了父爱",
-      "onboard_time": 1765394474,
-      "rank": 49,
-      "category": "情感,剧集"
+      "raw_hot": 19807,
+      "num": 24004,
+      "word": "当安卓用户第一次用苹果",
+      "onboard_time": 1765394834,
+      "rank": 45,
+      "category": "数码"
     },
     {
-      "raw_hot": 17023,
-      "num": 23877,
+      "raw_hot": 17976,
+      "num": 23999,
       "word": "雪中阿勒泰是限定版童话世界吧",
       "onboard_time": 1765385718,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 17065,
+      "num": 23995,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 15819,
@@ -539,28 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14176,
-      "num": 23410,
-      "word": "当安卓用户第一次用苹果",
-      "onboard_time": 1765394834,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 13046,
       "num": 23842,
       "word": "清华大学今日举行杨振宁先生追思会",
       "onboard_time": 1765394235,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12941,
-      "num": 23409,
-      "word": "周柯宇做了我最想对陈妍希做的事",
-      "onboard_time": 1765395554,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 12487,
@@ -571,8 +579,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 10366,
+      "num": 23967,
+      "word": "日本地震已致51人受伤",
+      "onboard_time": 1765389736,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1504,
-      "num": 30544,
+      "num": 32470,
       "word": "中国经济长期向好具有坚实支撑",
       "onboard_time": 1765340602,
       "rank": 2,
