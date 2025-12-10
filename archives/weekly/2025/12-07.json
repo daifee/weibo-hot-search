@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765323560451,
+  "endTime": 1765332305511,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -112,6 +112,14 @@
       "word": "张子枫纹身",
       "onboard_time": 1765182561,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1778889,
+      "num": 128230,
+      "word": "王鸥女儿都这么大了",
+      "onboard_time": 1765330822,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1053429,
-      "num": 103451,
+      "num": 128209,
       "word": "金晨把腿放到黄景瑜腿上",
       "onboard_time": 1765322899,
       "rank": 20,
@@ -891,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 558153,
+      "num": 384442,
+      "word": "30岁戴2年牙套的后遗症",
+      "onboard_time": 1765329080,
+      "rank": 11,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 555238,
       "num": 266968,
       "word": "庆功宴唯一素颜明星是黄景瑜",
@@ -1395,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 444993,
+      "num": 1071198,
+      "word": "男孩考19分被妈妈夸到结巴",
+      "onboard_time": 1765324160,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444227,
       "num": 421196,
       "word": "小洛熙妈妈发声",
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414764,
+      "num": 384355,
+      "word": "唐山地震",
+      "onboard_time": 1765322958,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 410933,
       "num": 264734,
       "word": "李昀锐告了132人",
@@ -1627,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391401,
+      "num": 128174,
+      "word": "张馨予婚后被宠成孩子",
+      "onboard_time": 1765325000,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390282,
       "num": 194831,
       "word": "海涛留学留疯了",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1765165520,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384275,
+      "num": 384275,
+      "word": "广东一住宅突发火灾致8死",
+      "onboard_time": 1765328302,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382581,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1765080201,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342582,
+      "num": 342582,
+      "word": "中戏",
+      "onboard_time": 1765328061,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342518,
@@ -2155,6 +2211,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 313626,
+      "num": 313626,
+      "word": "双轨",
+      "onboard_time": 1765211719,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311545,
       "num": 960418,
       "word": "高市早苗被曝自身难保",
@@ -2299,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287358,
+      "num": 127778,
+      "word": "泡泡玛特遭做空市值蒸发1800亿",
+      "onboard_time": 1765327881,
+      "rank": 25,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 285882,
       "num": 285882,
       "word": "乒乓球",
@@ -2412,7 +2484,7 @@
     },
     {
       "raw_hot": 278209,
-      "num": 278209,
+      "num": 384908,
       "word": "本科毕业4年26岁研究员成浙大博导",
       "onboard_time": 1765296381,
       "rank": 15,
@@ -2748,7 +2820,7 @@
     },
     {
       "raw_hot": 238865,
-      "num": 180918,
+      "num": 384768,
       "word": "以为是故人之姿真故人之子",
       "onboard_time": 1765288404,
       "rank": 36,
@@ -3043,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217078,
+      "num": 127547,
+      "word": "英国首次宣布英国军人在乌克兰身亡",
+      "onboard_time": 1765330580,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216171,
       "num": 223674,
       "word": "山姆超市金柑里吃出蠕动活虫",
@@ -3107,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213299,
+      "num": 127251,
+      "word": "聂远女儿已参演多部电视剧",
+      "onboard_time": 1765325843,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212694,
       "num": 212694,
       "word": "柯淳焊死在浙江卫视了吗",
@@ -3137,6 +3225,14 @@
       "onboard_time": 1765185681,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211561,
+      "num": 126673,
+      "word": "一个让皮肤变好的简单方法",
+      "onboard_time": 1765329621,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211088,
@@ -3635,6 +3731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194106,
+      "num": 194106,
+      "word": "当你谈了个山东的男朋友",
+      "onboard_time": 1765328961,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193504,
       "num": 193504,
       "word": "黄景瑜问金晨雀斑是画的吗",
@@ -3681,6 +3785,14 @@
       "onboard_time": 1765271542,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189953,
+      "num": 189953,
+      "word": "狙击蝴蝶12集26分22秒",
+      "onboard_time": 1765324400,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 189882,
@@ -3889,14 +4001,6 @@
       "onboard_time": 1765249101,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179002,
-      "num": 179002,
-      "word": "双轨",
-      "onboard_time": 1765211719,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 178710,
@@ -4177,6 +4281,14 @@
       "onboard_time": 1765118662,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166846,
+      "num": 384890,
+      "word": "美国一监狱无人机空投牛排大麻",
+      "onboard_time": 1765323800,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166667,
@@ -4580,7 +4692,7 @@
     },
     {
       "raw_hot": 153334,
-      "num": 64407,
+      "num": 121200,
       "word": "高市早苗面无表情道歉",
       "onboard_time": 1765322778,
       "rank": 35,
@@ -4681,6 +4793,14 @@
       "onboard_time": 1765106963,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150197,
+      "num": 385017,
+      "word": "白泽 陈泽",
+      "onboard_time": 1765330881,
+      "rank": 4,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 150006,
@@ -5491,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133182,
+      "num": 133182,
+      "word": "妻子谈许绍雄离世细节",
+      "onboard_time": 1765331361,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133126,
       "num": 212600,
       "word": "鸭头糖葫芦30元1串",
@@ -5691,6 +5819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128248,
+      "num": 128248,
+      "word": "村民不慎挖断国防电缆获谅解被免罚",
+      "onboard_time": 1765331121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128144,
+      "num": 128144,
+      "word": "广东一住宅火灾致8死",
+      "onboard_time": 1765330940,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127811,
       "num": 127811,
       "word": "男子灌面汤杀妻称只想让她服软",
@@ -5705,6 +5849,14 @@
       "onboard_time": 1765093521,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127485,
+      "num": 384679,
+      "word": "NBA交易市场",
+      "onboard_time": 1765328481,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 127356,
@@ -5793,6 +5945,22 @@
       "onboard_time": 1765105161,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126617,
+      "num": 126617,
+      "word": "马来西亚要求高市早苗道歉",
+      "onboard_time": 1765325242,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 126142,
+      "num": 128160,
+      "word": "捏面界有自己的代言人",
+      "onboard_time": 1765330940,
+      "rank": 23,
+      "category": "休闲"
     },
     {
       "raw_hot": 126099,
@@ -7091,6 +7259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109487,
+      "num": 109487,
+      "word": "36岁电商女老板王晓析患胃癌去世",
+      "onboard_time": 1765324761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109377,
       "num": 517267,
       "word": "利物浦 萨拉赫",
@@ -7763,6 +7939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100114,
+      "num": 100114,
+      "word": "暗星拍的王俊凯",
+      "onboard_time": 1765326141,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100024,
       "num": 100024,
       "word": "东北11元早餐自助的含金量",
@@ -7961,6 +8145,14 @@
       "onboard_time": 1765114704,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96574,
+      "num": 96574,
+      "word": "詹姆斯谈巅峰赛季",
+      "onboard_time": 1765331000,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 96208,
@@ -8331,6 +8523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90679,
+      "num": 90679,
+      "word": "大额存单正在消失还有哪些替代",
+      "onboard_time": 1765328721,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90588,
       "num": 90588,
       "word": "这位老师请注意你的口水",
@@ -8419,6 +8619,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88495,
+      "num": 384615,
+      "word": "四六级",
+      "onboard_time": 1765329503,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 88453,
+      "num": 86691,
+      "word": "王俊凯话剧舞台照",
+      "onboard_time": 1765327461,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88335,
+      "num": 88335,
+      "word": "VOGUE最佳着装票选结果",
+      "onboard_time": 1765328302,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 88168,
       "num": 88168,
       "word": "大帅给大家跳个初雪",
@@ -8473,6 +8697,14 @@
       "onboard_time": 1765092321,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87039,
+      "num": 87039,
+      "word": "网红直播模仿张颂文在线人数超2万",
+      "onboard_time": 1765324100,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 86992,
@@ -8579,6 +8811,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 84934,
+      "num": 84934,
+      "word": "赛力斯副总裁回应脱离华为",
+      "onboard_time": 1765328542,
+      "rank": 39,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 84914,
       "num": 109993,
       "word": "朱元璋本尊是帅大叔",
@@ -8593,6 +8833,14 @@
       "onboard_time": 1765243942,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84267,
+      "num": 84267,
+      "word": "VOGUE年度最佳着装",
+      "onboard_time": 1765331721,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 84238,
@@ -8641,6 +8889,14 @@
       "onboard_time": 1765284021,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83549,
+      "num": 83549,
+      "word": "校领导要求学生为其儿子投票被免职",
+      "onboard_time": 1765331900,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83445,
@@ -8779,6 +9035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79054,
+      "num": 79054,
+      "word": "终于有人能治杜海涛了",
+      "onboard_time": 1765323198,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78943,
       "num": 96825,
       "word": "63岁的关之琳",
@@ -8793,6 +9057,14 @@
       "onboard_time": 1765201762,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 78653,
+      "num": 78653,
+      "word": "男女主相差11岁的设定",
+      "onboard_time": 1765331841,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 77824,
@@ -8849,6 +9121,22 @@
       "onboard_time": 1765292365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76112,
+      "num": 76112,
+      "word": "在动物园买鸡回家炖了",
+      "onboard_time": 1765331000,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75870,
+      "num": 75870,
+      "word": "茅台跌出近年新低",
+      "onboard_time": 1765332142,
+      "rank": 48,
+      "category": "财经,财经"
     },
     {
       "raw_hot": 75565,
@@ -8963,6 +9251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73881,
+      "num": 84426,
+      "word": "问界56789产品矩阵将补齐",
+      "onboard_time": 1765328901,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73520,
       "num": 147030,
       "word": "得闲谨制莫得闲家的对联看破防了",
@@ -8985,6 +9281,14 @@
       "onboard_time": 1765100662,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72908,
+      "num": 72908,
+      "word": "巧克力红茶烤奶",
+      "onboard_time": 1765331780,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 71958,
@@ -9377,14 +9681,6 @@
       "onboard_time": 1765029804,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59871,
-      "num": 59871,
-      "word": "唐山地震",
-      "onboard_time": 1765322958,
-      "rank": 33,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 59607,
@@ -10128,14 +10424,6 @@
       "word": "杜海涛回应快乐家族除了他共用一张脸",
       "onboard_time": 1765322778,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 42277,
-      "num": 52226,
-      "word": "终于有人能治杜海涛了",
-      "onboard_time": 1765323198,
-      "rank": 42,
       "category": "艺人"
     },
     {
