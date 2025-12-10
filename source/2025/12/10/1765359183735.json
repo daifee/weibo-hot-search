@@ -1,0 +1,410 @@
+{
+  "runTime": 1765359183735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301976,
+        "num": 1301976,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393587,
+        "num": 393587,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26108,
+        "num": 352994,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335140,
+        "num": 335140,
+        "word": "泡泡玛特全新IPSupertutu",
+        "onboard_time": 1765354221,
+        "rank": 3,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 299346,
+        "num": 335063,
+        "word": "iG官宣Rookie续约",
+        "onboard_time": 1765357042,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 635296,
+        "num": 334937,
+        "word": "西班牙女员工连续提前到岗被开除",
+        "onboard_time": 1765356682,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285832,
+        "num": 334856,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205427,
+        "num": 334690,
+        "word": "警方通报男子飞无人机崖洞发现干尸",
+        "onboard_time": 1765357342,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 195820,
+        "num": 334547,
+        "word": "王楚钦孙颖莎总决赛开门红",
+        "onboard_time": 1765357401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166391,
+        "num": 334385,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634377,
+        "num": 334219,
+        "word": "第一次在床上晕车了",
+        "onboard_time": 1765354462,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 570539,
+        "num": 334153,
+        "word": "陈晓陈妍希 顶峰相见",
+        "onboard_time": 1765353742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412259,
+        "num": 333980,
+        "word": "日防相承认中方训练前通报日方",
+        "onboard_time": 1765354824,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343257,
+        "num": 333904,
+        "word": "肖战签名专辑",
+        "onboard_time": 1765358000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333785,
+        "num": 333785,
+        "word": "佛山 鸟屎袭城",
+        "onboard_time": 1765355122,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309346,
+        "num": 309346,
+        "word": "易烊千玺给王俊凯送花篮了",
+        "onboard_time": 1765358121,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264203,
+        "num": 264203,
+        "word": "才知道苹果按右上角就能关机",
+        "onboard_time": 1765352480,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35896,
+        "num": 248519,
+        "word": "方逸伦N6一见倾心",
+        "onboard_time": 1765357462,
+        "rank": 17,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 51618,
+        "num": 238040,
+        "word": "医院调查张水华处分文件为何被发上网",
+        "onboard_time": 1765358601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64182,
+        "num": 235454,
+        "word": "孙颖莎超绝二次反应",
+        "onboard_time": 1765358841,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234084,
+        "num": 234084,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 794913,
+        "num": 226708,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341634,
+        "num": 213765,
+        "word": "高市早苗承认中日关系恶化冲击经济",
+        "onboard_time": 1765356021,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249473,
+        "num": 204821,
+        "word": "王俊凯工作室你让我很尴尬",
+        "onboard_time": 1765352422,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192112,
+        "num": 192112,
+        "word": "李诞 我连公司都没有了",
+        "onboard_time": 1765358960,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183619,
+        "num": 183619,
+        "word": "崖洞发现干尸博主称已找到家属",
+        "onboard_time": 1765350800,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301239,
+        "num": 178720,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173494,
+        "num": 173494,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54529,
+        "num": 172265,
+        "word": "广东成立事故调查组彻查火灾原因",
+        "onboard_time": 1765356200,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49673,
+        "num": 172083,
+        "word": "日本军国主义从未得到彻底清算",
+        "onboard_time": 1765357462,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147967,
+        "num": 171937,
+        "word": "姚晨庄达菲见面先干抗病毒口服液",
+        "onboard_time": 1765358901,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171907,
+        "num": 171907,
+        "word": "李茂满脑子二婚自动屏蔽弦子解释",
+        "onboard_time": 1765356381,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171678,
+        "num": 171678,
+        "word": "狙击蝴蝶还是狙击陈晓",
+        "onboard_time": 1765359081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1765357702,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150798,
+        "num": 150798,
+        "word": "中学教师当众踩死猫被停职",
+        "onboard_time": 1765357101,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147739,
+        "num": 147739,
+        "word": "艾福杰尼 为rapper重新正名",
+        "onboard_time": 1765358061,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112470,
+        "num": 147549,
+        "word": "王楚钦孙颖莎vs沙奇塔莱",
+        "onboard_time": 1765352362,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "19岁男生肚疼查出肠癌晚期",
+        "onboard_time": 1765351702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62660,
+        "num": 146802,
+        "word": "覃海洋全运会后变瘦了",
+        "onboard_time": 1765358242,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24323,
+        "num": 146801,
+        "word": "85花90花95花早期颜值",
+        "onboard_time": 1765358783,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26164,
+        "num": 146800,
+        "word": "成都小伙为一棵树拨打12345",
+        "onboard_time": 1765357942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146800,
+        "num": 146799,
+        "word": "银价已暴涨110%",
+        "onboard_time": 1765352001,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134760,
+        "num": 134760,
+        "word": "星光大赏第二波嘉宾阵容",
+        "onboard_time": 1765355901,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131948,
+        "num": 131948,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127102,
+        "num": 127102,
+        "word": "LV圣诞树桩蛋糕 密恐",
+        "onboard_time": 1765355122,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126837,
+        "num": 126837,
+        "word": "新生儿疑因基因筛查错误致死",
+        "onboard_time": 1765347623,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119615,
+        "num": 119615,
+        "word": "狙击蝴蝶口碑两极反转",
+        "onboard_time": 1765356021,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66390,
+        "num": 117818,
+        "word": "尹正 雍和宫许愿调剂",
+        "onboard_time": 1765357583,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117670,
+        "num": 117670,
+        "word": "微信回复讨好型人格",
+        "onboard_time": 1765353502,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定推动高质量发展这个主题#"
+    }
+  }
+}

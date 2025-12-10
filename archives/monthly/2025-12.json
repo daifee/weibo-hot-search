@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765356749898,
+  "endTime": 1765359183735,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1523,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 794913,
+      "num": 226708,
+      "word": "曝何九华王鸥已在南宁领证",
+      "onboard_time": 1765357042,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792143,
       "num": 232546,
       "word": "王梓莼回应了",
@@ -2193,6 +2201,22 @@
       "onboard_time": 1764907821,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635296,
+      "num": 334937,
+      "word": "西班牙女员工连续提前到岗被开除",
+      "onboard_time": 1765356682,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 634377,
+      "num": 341101,
+      "word": "第一次在床上晕车了",
+      "onboard_time": 1765354462,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 628659,
@@ -5939,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343257,
+      "num": 333904,
+      "word": "肖战签名专辑",
+      "onboard_time": 1765358000,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342582,
       "num": 342582,
       "word": "中戏",
@@ -5953,6 +5985,14 @@
       "onboard_time": 1765166121,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341634,
+      "num": 274776,
+      "word": "高市早苗承认中日关系恶化冲击经济",
+      "onboard_time": 1765356021,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 341377,
@@ -5977,14 +6017,6 @@
       "onboard_time": 1765207702,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341101,
-      "num": 341101,
-      "word": "第一次在床上晕车了",
-      "onboard_time": 1765354462,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 341056,
@@ -6161,6 +6193,14 @@
       "onboard_time": 1765266622,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333785,
+      "num": 333785,
+      "word": "佛山 鸟屎袭城",
+      "onboard_time": 1765355122,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333124,
@@ -6723,6 +6763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309346,
+      "num": 309346,
+      "word": "易烊千玺给王俊凯送花篮了",
+      "onboard_time": 1765358121,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 309309,
       "num": 866094,
       "word": "王励勤乒羽运动管理中心副主任",
@@ -6937,6 +6985,14 @@
       "onboard_time": 1765268843,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299346,
+      "num": 335063,
+      "word": "iG官宣Rookie续约",
+      "onboard_time": 1765357042,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 299094,
@@ -7489,14 +7545,6 @@
       "onboard_time": 1764689602,
       "rank": 29,
       "category": "海外新闻,时尚"
-    },
-    {
-      "raw_hot": 274776,
-      "num": 274776,
-      "word": "高市早苗承认中日关系恶化冲击经济",
-      "onboard_time": 1765356021,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 274474,
@@ -9619,14 +9667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211006,
-      "num": 318793,
-      "word": "佛山 鸟屎袭城",
-      "onboard_time": 1765355122,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211001,
       "num": 205421,
       "word": "易烊千玺你也很难戒断吧",
@@ -10121,6 +10161,14 @@
       "onboard_time": 1765097902,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205427,
+      "num": 334690,
+      "word": "警方通报男子飞无人机崖洞发现干尸",
+      "onboard_time": 1765357342,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 205426,
@@ -10875,6 +10923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195820,
+      "num": 334547,
+      "word": "王楚钦孙颖莎总决赛开门红",
+      "onboard_time": 1765357401,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -11121,6 +11177,14 @@
       "onboard_time": 1764987621,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 192112,
+      "num": 192112,
+      "word": "李诞 我连公司都没有了",
+      "onboard_time": 1765358960,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 192098,
@@ -12643,6 +12707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171907,
+      "num": 171907,
+      "word": "李茂满脑子二婚自动屏蔽弦子解释",
+      "onboard_time": 1765356381,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171832,
       "num": 171832,
       "word": "假性恋爱",
@@ -12657,6 +12729,14 @@
       "onboard_time": 1765252463,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171678,
+      "num": 171678,
+      "word": "狙击蝴蝶还是狙击陈晓",
+      "onboard_time": 1765359081,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 171607,
@@ -12809,6 +12889,14 @@
       "onboard_time": 1764943222,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "你不结婚我晚上睡不着",
+      "onboard_time": 1765357702,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 169770,
@@ -14771,6 +14859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150798,
+      "num": 150798,
+      "word": "中学教师当众踩死猫被停职",
+      "onboard_time": 1765357101,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150743,
       "num": 150743,
       "word": "摩尔线程最高飙涨超500%",
@@ -15123,12 +15219,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 147967,
+      "num": 171937,
+      "word": "姚晨庄达菲见面先干抗病毒口服液",
+      "onboard_time": 1765358901,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147739,
       "num": 147739,
       "word": "大爷配的药完美解决了全菌操作",
       "onboard_time": 1765350921,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "艾福杰尼 为rapper重新正名",
+      "onboard_time": 1765358061,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 147729,
@@ -15521,14 +15633,6 @@
       "onboard_time": 1764772645,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144220,
-      "num": 144220,
-      "word": "李茂满脑子二婚自动屏蔽弦子解释",
-      "onboard_time": 1765356381,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 144219,
@@ -16803,6 +16907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134760,
+      "num": 366897,
+      "word": "星光大赏第二波嘉宾阵容",
+      "onboard_time": 1765355901,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134539,
       "num": 134539,
       "word": "刘萧旭坐硬卧",
@@ -18041,6 +18153,14 @@
       "onboard_time": 1765082781,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127102,
+      "num": 127102,
+      "word": "LV圣诞树桩蛋糕 密恐",
+      "onboard_time": 1765355122,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 127099,
@@ -22323,14 +22443,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 104531,
-      "num": 366897,
-      "word": "星光大赏第二波嘉宾阵容",
-      "onboard_time": 1765355901,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104476,
       "num": 127653,
       "word": "美脑死亡孕妇靠机器撑四个月后产子",
@@ -26411,14 +26523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 80366,
-      "num": 116108,
-      "word": "西班牙女员工连续提前到岗被开除",
-      "onboard_time": 1765356682,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80256,
       "num": 80256,
       "word": "徐瑛彬 谢谢头哥",
@@ -27907,6 +28011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66390,
+      "num": 117818,
+      "word": "尹正 雍和宫许愿调剂",
+      "onboard_time": 1765357583,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66357,
       "num": 80331,
       "word": "2026乒乓球亚洲杯海口举办",
@@ -28115,6 +28227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64182,
+      "num": 235454,
+      "word": "孙颖莎超绝二次反应",
+      "onboard_time": 1765358841,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63965,
       "num": 71915,
       "word": "网传中国人国外旅游被印度小孩辱骂",
@@ -28193,6 +28313,14 @@
       "onboard_time": 1764649161,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62660,
+      "num": 146802,
+      "word": "覃海洋全运会后变瘦了",
+      "onboard_time": 1765358242,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 62437,
@@ -28923,6 +29051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54529,
+      "num": 303687,
+      "word": "广东成立事故调查组彻查火灾原因",
+      "onboard_time": 1765356200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54489,
       "num": 123795,
       "word": "多方回应男子掉进粉碎机身亡",
@@ -28944,14 +29080,6 @@
       "word": "地球升温速度远超历史大灭绝",
       "onboard_time": 1764774503,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54341,
-      "num": 303687,
-      "word": "广东成立事故调查组彻查火灾原因",
-      "onboard_time": 1765356200,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -29235,6 +29363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51618,
+      "num": 238040,
+      "word": "医院调查张水华处分文件为何被发上网",
+      "onboard_time": 1765358601,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51582,
       "num": 51582,
       "word": "得闲谨制观影口碑",
@@ -29489,6 +29625,14 @@
       "onboard_time": 1764760281,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 49673,
+      "num": 172083,
+      "word": "日本军国主义从未得到彻底清算",
+      "onboard_time": 1765357462,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49555,
@@ -31155,6 +31299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35896,
+      "num": 248519,
+      "word": "方逸伦N6一见倾心",
+      "onboard_time": 1765357462,
+      "rank": 17,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 35877,
       "num": 134546,
       "word": "刘亦菲面部平整度",
@@ -32299,6 +32451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26164,
+      "num": 146800,
+      "word": "成都小伙为一棵树拨打12345",
+      "onboard_time": 1765357942,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26147,
       "num": 193225,
       "word": "冰面碎了初中女生拉住4岁男童",
@@ -32536,6 +32696,14 @@
       "word": "邹明轩长这么大了",
       "onboard_time": 1764927202,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24323,
+      "num": 146801,
+      "word": "85花90花95花早期颜值",
+      "onboard_time": 1765358783,
+      "rank": 39,
       "category": "艺人"
     },
     {
