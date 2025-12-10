@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765333677170,
+  "endTime": 1765338323690,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -371,6 +371,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1585228,
+      "num": 447157,
+      "word": "TF家族新音官宣",
+      "onboard_time": 1765337001,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1557919,
       "num": 683175,
       "word": "民警玩忽职守致女子再被性侵",
@@ -489,6 +497,14 @@
       "onboard_time": 1764686424,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1399999,
+      "num": 257603,
+      "word": "何九华 王鸥",
+      "onboard_time": 1765332861,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1394966,
@@ -625,6 +641,14 @@
       "onboard_time": 1764654082,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1243925,
+      "num": 1243925,
+      "word": "医院回应最快女护士张水华被处分",
+      "onboard_time": 1765334360,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1230701,
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 1053429,
-      "num": 248852,
+      "num": 257285,
       "word": "金晨把腿放到黄景瑜腿上",
       "onboard_time": 1765322899,
       "rank": 20,
@@ -969,14 +993,6 @@
       "onboard_time": 1764747740,
       "rank": 0,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 982234,
-      "num": 211316,
-      "word": "何九华 王鸥",
-      "onboard_time": 1765332861,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 979695,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1764733764,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 868374,
+      "num": 261153,
+      "word": "陈晓苦尽甘来遇见她",
+      "onboard_time": 1765335320,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 866700,
@@ -2027,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643465,
+      "num": 643465,
+      "word": "浙江卫视工作人员聊天记录",
+      "onboard_time": 1765335380,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642825,
       "num": 1102852,
       "word": "韩国标示中国台湾台当局急了",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1764829220,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 559432,
+      "num": 356807,
+      "word": "最快女护士张水华被医院处分",
+      "onboard_time": 1765335680,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559414,
@@ -4315,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423593,
+      "num": 423593,
+      "word": "小米将承担门店调整损失约2726万元",
+      "onboard_time": 1765333520,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 423077,
       "num": 351873,
       "word": "微信上的这个人戒烟了",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1764725961,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 383284,
+      "num": 260029,
+      "word": "许绍雄离世细节",
+      "onboard_time": 1765334960,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 383085,
@@ -5643,6 +5699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345879,
+      "num": 259437,
+      "word": "女子一周喝三次奶茶确诊糖尿病",
+      "onboard_time": 1765335680,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345688,
       "num": 345688,
       "word": "郎平置换了髋关节和颈椎",
@@ -5892,7 +5956,7 @@
     },
     {
       "raw_hot": 332624,
-      "num": 236041,
+      "num": 256778,
       "word": "外交官辟谣这是中国不是日本",
       "onboard_time": 1765332320,
       "rank": 23,
@@ -6257,6 +6321,14 @@
       "onboard_time": 1765159400,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318735,
+      "num": 262187,
+      "word": "中国景点被误标地点为日本",
+      "onboard_time": 1765332562,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318520,
@@ -7211,6 +7283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273990,
+      "num": 259108,
+      "word": "台军涉诈近乎消灭一个连",
+      "onboard_time": 1765333520,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 273732,
       "num": 4022064,
       "word": "大湾区大学正式成立",
@@ -7483,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262416,
+      "num": 384615,
+      "word": "四六级",
+      "onboard_time": 1765329503,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262266,
       "num": 262266,
       "word": "易烊千玺小网站更新",
@@ -7649,6 +7737,14 @@
       "onboard_time": 1765187179,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256307,
+      "num": 256307,
+      "word": "网传新音歌单",
+      "onboard_time": 1765336580,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 255954,
@@ -9539,6 +9635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206905,
+      "num": 206905,
+      "word": "网购维生素 不含维生素",
+      "onboard_time": 1765334900,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 206888,
       "num": 206888,
       "word": "杨幂身穿全套Prada",
@@ -10009,6 +10113,14 @@
       "onboard_time": 1765085181,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201641,
+      "num": 261910,
+      "word": "最快女护士已影响科室正常排班",
+      "onboard_time": 1765337183,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201545,
@@ -10520,6 +10632,14 @@
       "word": "内场的宋祖儿",
       "onboard_time": 1765027885,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195103,
+      "num": 195103,
+      "word": "白鹿浙江跨晚造型",
+      "onboard_time": 1765334960,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -12003,6 +12123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173941,
+      "num": 173941,
+      "word": "何老师越听越觉得不对劲",
+      "onboard_time": 1765337301,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173877,
       "num": 173877,
       "word": "员工误将生乌粉当黑胡椒毒死老板",
@@ -12609,14 +12737,6 @@
       "onboard_time": 1764594143,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166464,
-      "num": 166464,
-      "word": "中国景点被误标地点为日本",
-      "onboard_time": 1765332562,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166178,
@@ -13785,6 +13905,14 @@
       "onboard_time": 1764587842,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154339,
+      "num": 154339,
+      "word": "蓝战非 生物证据",
+      "onboard_time": 1765337001,
+      "rank": 34,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 154332,
@@ -15137,14 +15265,6 @@
       "onboard_time": 1764989240,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141757,
-      "num": 381914,
-      "word": "小米将承担门店调整损失约2726万元",
-      "onboard_time": 1765333520,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 141746,
@@ -19595,6 +19715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114377,
+      "num": 261627,
+      "word": "小米澎湃OS微信聊天能发实况图",
+      "onboard_time": 1765337542,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "迪丽热巴侧颜",
@@ -21147,6 +21275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106024,
+      "num": 106024,
+      "word": "红伞白杆躺板板都有电视剧了",
+      "onboard_time": 1765337481,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105900,
       "num": 295791,
       "word": "雅迪是电动车新国标起草单位之一",
@@ -21587,6 +21723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103525,
+      "num": 103525,
+      "word": "12月的最大尺度",
+      "onboard_time": 1765337961,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103471,
       "num": 103471,
       "word": "心疼沈月但好笑",
@@ -21891,6 +22035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 102121,
+      "num": 102121,
+      "word": "寻秦记电影定档跨年",
+      "onboard_time": 1765336282,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102062,
       "num": 102062,
       "word": "未定事件簿夏彦予爱未名",
@@ -22001,6 +22153,14 @@
       "onboard_time": 1765270942,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101670,
+      "num": 101670,
+      "word": "得闲谨制口碑",
+      "onboard_time": 1765336700,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 101665,
@@ -22289,6 +22449,14 @@
       "onboard_time": 1765268301,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100264,
+      "num": 100264,
+      "word": "人渣遭报复被缝进人偶蜡像",
+      "onboard_time": 1765336220,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100247,
@@ -23115,6 +23283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95801,
+      "num": 259743,
+      "word": "英国与美国狼狈为奸蓄意诬蔑中国",
+      "onboard_time": 1765336882,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95785,
       "num": 107315,
       "word": "啥样的短剧能把周深请过来",
@@ -23249,6 +23425,14 @@
       "onboard_time": 1765096880,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94536,
+      "num": 94536,
+      "word": "你猫怎么这么卡",
+      "onboard_time": 1765338203,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94500,
@@ -23841,14 +24025,6 @@
       "onboard_time": 1765160179,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91199,
-      "num": 384615,
-      "word": "四六级",
-      "onboard_time": 1765329503,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 91192,
@@ -28227,6 +28403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50709,
+      "num": 257789,
+      "word": "中国超豪华车市场为何尊界能成功",
+      "onboard_time": 1765335861,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50704,
       "num": 112395,
       "word": "孙颖莎的暴挑永远看不腻",
@@ -28609,14 +28793,6 @@
       "onboard_time": 1764911902,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46256,
-      "num": 213793,
-      "word": "台军涉诈近乎消灭一个连",
-      "onboard_time": 1765333520,
-      "rank": 26,
-      "category": "军事"
     },
     {
       "raw_hot": 46225,
@@ -29723,6 +29899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38131,
+      "num": 216491,
+      "word": "浙大称26岁博导父母务农",
+      "onboard_time": 1765336882,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38116,
       "num": 75591,
       "word": "高价鸡蛋是智商税吗",
@@ -30153,6 +30337,14 @@
       "onboard_time": 1764751462,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33737,
+      "num": 197971,
+      "word": "鸿蒙智行享界12月交付目标过万",
+      "onboard_time": 1765334000,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 33682,
@@ -31643,6 +31835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20603,
+      "num": 125708,
+      "word": "派出所回应女子被多只狗咬成重伤",
+      "onboard_time": 1765337361,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20483,
       "num": 106886,
       "word": "骑手连续接单超4小时暂停派单20分钟",
@@ -31793,6 +31993,14 @@
       "onboard_time": 1764645560,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19019,
+      "num": 256311,
+      "word": "26岁成浙大博导是无编制岗位",
+      "onboard_time": 1765338081,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18959,

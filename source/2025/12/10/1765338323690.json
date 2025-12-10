@@ -1,0 +1,410 @@
+{
+  "runTime": 1765338323690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243925,
+        "num": 1243925,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643465,
+        "num": 643465,
+        "word": "浙江卫视工作人员聊天记录",
+        "onboard_time": 1765335380,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2365,
+        "num": 448024,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1585228,
+        "num": 447157,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423593,
+        "num": 423593,
+        "word": "小米将承担门店调整损失约2726万元",
+        "onboard_time": 1765333520,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 559432,
+        "num": 356807,
+        "word": "最快女护士张水华被医院处分",
+        "onboard_time": 1765335680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262416,
+        "num": 262416,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318735,
+        "num": 262187,
+        "word": "中国景点被误标地点为日本",
+        "onboard_time": 1765332562,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201641,
+        "num": 261910,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 261627,
+        "word": "小米澎湃OS微信聊天能发实况图",
+        "onboard_time": 1765337542,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 868374,
+        "num": 261153,
+        "word": "陈晓苦尽甘来遇见她",
+        "onboard_time": 1765335320,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527493,
+        "num": 260903,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515469,
+        "num": 260333,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383284,
+        "num": 260029,
+        "word": "许绍雄离世细节",
+        "onboard_time": 1765334960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95801,
+        "num": 259743,
+        "word": "英国与美国狼狈为奸蓄意诬蔑中国",
+        "onboard_time": 1765336882,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345879,
+        "num": 259437,
+        "word": "女子一周喝三次奶茶确诊糖尿病",
+        "onboard_time": 1765335680,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273990,
+        "num": 259108,
+        "word": "台军涉诈近乎消灭一个连",
+        "onboard_time": 1765333520,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 272308,
+        "num": 258663,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1765329080,
+        "rank": 17,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 175512,
+        "num": 258369,
+        "word": "得闲谨制",
+        "onboard_time": 1765315393,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50709,
+        "num": 257789,
+        "word": "中国超豪华车市场为何尊界能成功",
+        "onboard_time": 1765335861,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1399999,
+        "num": 257603,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483412,
+        "num": 257285,
+        "word": "金晨把腿放到黄景瑜腿上",
+        "onboard_time": 1765322899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269490,
+        "num": 256778,
+        "word": "外交官辟谣这是中国不是日本",
+        "onboard_time": 1765332320,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19019,
+        "num": 256311,
+        "word": "26岁成浙大博导是无编制岗位",
+        "onboard_time": 1765338081,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256307,
+        "num": 256307,
+        "word": "网传新音歌单",
+        "onboard_time": 1765336580,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38131,
+        "num": 216491,
+        "word": "浙大称26岁博导父母务农",
+        "onboard_time": 1765336882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646760,
+        "num": 216339,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206905,
+        "num": 206905,
+        "word": "网购维生素 不含维生素",
+        "onboard_time": 1765334900,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 206707,
+        "num": 206707,
+        "word": "当你谈了个山东的男朋友",
+        "onboard_time": 1765328961,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33737,
+        "num": 197971,
+        "word": "鸿蒙智行享界12月交付目标过万",
+        "onboard_time": 1765334000,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195103,
+        "num": 195103,
+        "word": "白鹿浙江跨晚造型",
+        "onboard_time": 1765334960,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173941,
+        "num": 173941,
+        "word": "何老师越听越觉得不对劲",
+        "onboard_time": 1765337301,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169281,
+        "num": 169281,
+        "word": "白泽 陈泽",
+        "onboard_time": 1765330881,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 164459,
+        "num": 164459,
+        "word": "孙千问陈晓知道谁旺你了吧",
+        "onboard_time": 1765333400,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154339,
+        "num": 154339,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 34,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 150190,
+        "num": 150190,
+        "word": "泡泡玛特遭做空市值蒸发1800亿",
+        "onboard_time": 1765327881,
+        "rank": 35,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 137318,
+        "num": 137318,
+        "word": "男孩考19分被妈妈夸到结巴",
+        "onboard_time": 1765324160,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 126927,
+        "word": "一个让皮肤变好的简单方法",
+        "onboard_time": 1765329621,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20603,
+        "num": 125708,
+        "word": "派出所回应女子被多只狗咬成重伤",
+        "onboard_time": 1765337361,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 125673,
+        "word": "唐山地震",
+        "onboard_time": 1765322958,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113992,
+        "num": 113992,
+        "word": "聂远女儿已参演多部电视剧",
+        "onboard_time": 1765325843,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112394,
+        "num": 112394,
+        "word": "韩国硬刚高市早苗",
+        "onboard_time": 1765291884,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107767,
+        "num": 107767,
+        "word": "张馨予婚后被宠成孩子",
+        "onboard_time": 1765325000,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106024,
+        "num": 106024,
+        "word": "红伞白杆躺板板都有电视剧了",
+        "onboard_time": 1765337481,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 103525,
+        "word": "12月的最大尺度",
+        "onboard_time": 1765337961,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102121,
+        "num": 102121,
+        "word": "寻秦记电影定档跨年",
+        "onboard_time": 1765336282,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101670,
+        "num": 101670,
+        "word": "得闲谨制口碑",
+        "onboard_time": 1765336700,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100264,
+        "num": 100264,
+        "word": "人渣遭报复被缝进人偶蜡像",
+        "onboard_time": 1765336220,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94536,
+        "num": 94536,
+        "word": "你猫怎么这么卡",
+        "onboard_time": 1765338203,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37910,
+        "num": 93726,
+        "word": "余承东再聊为什么坚持做旅行车",
+        "onboard_time": 1765332381,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
