@@ -1,0 +1,410 @@
+{
+  "runTime": 1765365998617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 246228,
+        "num": 1039396,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202438,
+        "num": 977145,
+        "word": "孙颖莎回应比赛拖场",
+        "onboard_time": 1765362441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21255,
+        "num": 969178,
+        "word": "在这片辽阔的土地上",
+        "onboard_time": 1765360641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403255,
+        "num": 868226,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157981,
+        "num": 771579,
+        "word": "警方通报男子飞无人机崖洞发现干尸",
+        "onboard_time": 1765357342,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 759018,
+        "num": 759018,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534060,
+        "num": 534060,
+        "word": "崖洞干尸系59岁生前抑郁男子",
+        "onboard_time": 1765362561,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293298,
+        "num": 533839,
+        "word": "iG阵容",
+        "onboard_time": 1765362141,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23997,
+        "num": 529431,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242589,
+        "num": 528107,
+        "word": "西班牙女员工连续提前到岗被开除",
+        "onboard_time": 1765356682,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1527650,
+        "num": 524087,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1146435,
+        "num": 522319,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608751,
+        "num": 521381,
+        "word": "我大使馆回应蓝战非被胁迫转账",
+        "onboard_time": 1765360282,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518968,
+        "num": 518968,
+        "word": "管不住下半身 姐会亲自手刃",
+        "onboard_time": 1765361542,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397539,
+        "num": 397539,
+        "word": "考研准考证 颜文字",
+        "onboard_time": 1765360520,
+        "rank": 14,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 627930,
+        "num": 394915,
+        "word": "冯提莫 团播",
+        "onboard_time": 1765359800,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 385383,
+        "num": 385383,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1765357702,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381042,
+        "num": 381042,
+        "word": "日本求锤得锤",
+        "onboard_time": 1765360941,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373564,
+        "num": 373564,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301399,
+        "num": 301399,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446522,
+        "num": 300828,
+        "word": "曝阮经天去韩国看女友",
+        "onboard_time": 1765362983,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27795,
+        "num": 300149,
+        "word": "北京迪奥之家即将盛大开幕",
+        "onboard_time": 1765361661,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 164675,
+        "num": 299864,
+        "word": "iG官宣Rookie续约",
+        "onboard_time": 1765357042,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299840,
+        "num": 299840,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45410,
+        "num": 256328,
+        "word": "澳门电影之城红毯",
+        "onboard_time": 1765363342,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216712,
+        "num": 216712,
+        "word": "易烊千玺给王俊凯送花篮了",
+        "onboard_time": 1765358121,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196355,
+        "num": 196355,
+        "word": "陈晓陈妍希 顶峰相见",
+        "onboard_time": 1765353742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169407,
+        "num": 184684,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1765364362,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179722,
+        "num": 179722,
+        "word": "肖战签名专辑",
+        "onboard_time": 1765358000,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120656,
+        "num": 174186,
+        "word": "原来情绪稳定的孩子是这样来的",
+        "onboard_time": 1765363402,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 208013,
+        "num": 174142,
+        "word": "王源送王俊凯话剧花篮",
+        "onboard_time": 1765365383,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173844,
+        "num": 173844,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164251,
+        "num": 164251,
+        "word": "中俄轰炸机和航母从3个方向包围琉球",
+        "onboard_time": 1765362021,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161219,
+        "num": 161219,
+        "word": "陈妍希周柯宇 首付三万月供两千",
+        "onboard_time": 1765364542,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155378,
+        "num": 155378,
+        "word": "王鹤棣沈月白月光杀回湖南卫视",
+        "onboard_time": 1765365862,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153215,
+        "num": 153215,
+        "word": "2014年的马年春晚",
+        "onboard_time": 1765365323,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151017,
+        "num": 151017,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14465,
+        "num": 146857,
+        "word": "警方介入店主持刀挥向打假博主",
+        "onboard_time": 1765365743,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59210,
+        "num": 146445,
+        "word": "女孩与母亲争吵后跳楼家属起诉物业",
+        "onboard_time": 1765365444,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 146360,
+        "word": "中方回应英首相将访华",
+        "onboard_time": 1765365623,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146329,
+        "num": 146329,
+        "word": "南非当地警方调查蓝战非案",
+        "onboard_time": 1765360882,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137905,
+        "num": 137905,
+        "word": "第一次在床上晕车了",
+        "onboard_time": 1765354462,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151248,
+        "num": 134969,
+        "word": "高市早苗承认中日关系恶化冲击经济",
+        "onboard_time": 1765356021,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "爷爷奶奶用的是情头",
+        "onboard_time": 1765365082,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 62994,
+        "num": 129953,
+        "word": "成毅一开口把自己送走了",
+        "onboard_time": 1765364421,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129427,
+        "num": 129427,
+        "word": "法老 河南说唱之神",
+        "onboard_time": 1765365022,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9679,
+        "num": 127580,
+        "word": "假千金骗婚案女子获刑四年半",
+        "onboard_time": 1765364421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127183,
+        "num": 127183,
+        "word": "泡泡玛特全新IPSupertutu",
+        "onboard_time": 1765354221,
+        "rank": 47,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 124359,
+        "num": 124359,
+        "word": "蒋易 停一下",
+        "onboard_time": 1765363223,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123175,
+        "num": 123175,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765362501,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
