@@ -1,0 +1,410 @@
+{
+  "runTime": 1765333677170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465079,
+        "num": 1074412,
+        "word": "得闲谨制",
+        "onboard_time": 1765315393,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391475,
+        "num": 391475,
+        "word": "男孩考19分被妈妈夸到结巴",
+        "onboard_time": 1765324160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2970,
+        "num": 389469,
+        "word": "11月我国外贸增速回升至4.1%",
+        "onboard_time": 1765190542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237863,
+        "num": 383888,
+        "word": "韩国硬刚高市早苗",
+        "onboard_time": 1765291884,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141757,
+        "num": 381914,
+        "word": "小米将承担门店调整损失约2726万元",
+        "onboard_time": 1765333520,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140865,
+        "num": 375031,
+        "word": "以为是故人之姿真故人之子",
+        "onboard_time": 1765288404,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161066,
+        "num": 371148,
+        "word": "本科毕业4年26岁研究员成浙大博导",
+        "onboard_time": 1765296381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111249,
+        "num": 369210,
+        "word": "美国一监狱无人机空投牛排大麻",
+        "onboard_time": 1765323800,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91199,
+        "num": 363028,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128404,
+        "num": 358408,
+        "word": "NBA交易市场",
+        "onboard_time": 1765328481,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637832,
+        "num": 353216,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38606,
+        "num": 350781,
+        "word": "日方要认清形势反思纠错",
+        "onboard_time": 1765332381,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 497149,
+        "num": 346023,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1765329080,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 406604,
+        "num": 339358,
+        "word": "当你谈了个山东的男朋友",
+        "onboard_time": 1765328961,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338957,
+        "num": 338957,
+        "word": "唐山地震",
+        "onboard_time": 1765322958,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 305139,
+        "num": 305139,
+        "word": "白泽 陈泽",
+        "onboard_time": 1765330881,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 69553,
+        "num": 292743,
+        "word": "余承东再聊为什么坚持做旅行车",
+        "onboard_time": 1765332381,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286364,
+        "num": 286364,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51208,
+        "num": 264724,
+        "word": "问界56789产品矩阵将补齐",
+        "onboard_time": 1765328901,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 263866,
+        "num": 263866,
+        "word": "中戏",
+        "onboard_time": 1765328061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1595115,
+        "num": 262566,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64916,
+        "num": 253344,
+        "word": "校领导安排学生给儿子投票被免职",
+        "onboard_time": 1765332381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861390,
+        "num": 248852,
+        "word": "金晨把腿放到黄景瑜腿上",
+        "onboard_time": 1765322899,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332624,
+        "num": 236041,
+        "word": "外交官辟谣这是中国不是日本",
+        "onboard_time": 1765332320,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 309286,
+        "num": 229302,
+        "word": "张馨予婚后被宠成孩子",
+        "onboard_time": 1765325000,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43916,
+        "num": 225482,
+        "word": "WTT香港总决赛",
+        "onboard_time": 1765329981,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46256,
+        "num": 213793,
+        "word": "台军涉诈近乎消灭一个连",
+        "onboard_time": 1765333520,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 982234,
+        "num": 211316,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 197648,
+        "word": "村民不慎挖断国防电缆获谅解被免罚",
+        "onboard_time": 1765331121,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298033,
+        "num": 193715,
+        "word": "泡泡玛特遭做空市值蒸发1800亿",
+        "onboard_time": 1765327881,
+        "rank": 29,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 189910,
+        "num": 189910,
+        "word": "一个让皮肤变好的简单方法",
+        "onboard_time": 1765329621,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33138,
+        "num": 183348,
+        "word": "美海军已打捞出在南海坠毁军机",
+        "onboard_time": 1765333582,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183040,
+        "num": 183040,
+        "word": "孙千问陈晓知道谁旺你了吧",
+        "onboard_time": 1765333400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167918,
+        "num": 167918,
+        "word": "狙击蝴蝶12集26分22秒",
+        "onboard_time": 1765324400,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171820,
+        "num": 167725,
+        "word": "聂远女儿已参演多部电视剧",
+        "onboard_time": 1765325843,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166464,
+        "num": 166464,
+        "word": "中国景点被误标地点为日本",
+        "onboard_time": 1765332562,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278177,
+        "num": 163113,
+        "word": "广东一住宅突发火灾致8死",
+        "onboard_time": 1765328302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15241,
+        "num": 153706,
+        "word": "月付开通容易关闭难",
+        "onboard_time": 1765333520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45026,
+        "num": 149144,
+        "word": "中俄空中编队或与辽宁舰相遇",
+        "onboard_time": 1765333520,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147453,
+        "num": 147453,
+        "word": "英国首次宣布英国军人在乌克兰身亡",
+        "onboard_time": 1765330580,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131110,
+        "num": 131110,
+        "word": "白银为何大涨",
+        "onboard_time": 1765333520,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117351,
+        "num": 117351,
+        "word": "广东一住宅火灾致8死",
+        "onboard_time": 1765330940,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115069,
+        "num": 115069,
+        "word": "妻子谈许绍雄离世细节",
+        "onboard_time": 1765331361,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27155,
+        "num": 109517,
+        "word": "澳大利亚不满16岁社媒禁令生效",
+        "onboard_time": 1765332320,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108033,
+        "num": 108033,
+        "word": "张韶涵淋雨一直走 周杰伦欧洲一直走",
+        "onboard_time": 1765332680,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104599,
+        "num": 104599,
+        "word": "高市早苗面无表情道歉",
+        "onboard_time": 1765322778,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101436,
+        "num": 101436,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1765268121,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101303,
+        "num": 101303,
+        "word": "马来西亚要求高市早苗道歉",
+        "onboard_time": 1765325242,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93979,
+        "num": 93979,
+        "word": "王俊凯话剧舞台照",
+        "onboard_time": 1765327461,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91770,
+        "num": 91770,
+        "word": "男女主相差11岁的设定",
+        "onboard_time": 1765331841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}

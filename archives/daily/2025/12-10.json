@@ -1,10 +1,10 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765332305511,
+  "endTime": 1765333677170,
   "band_list": [
     {
       "raw_hot": 1778889,
-      "num": 128230,
+      "num": 262566,
       "word": "王鸥女儿都这么大了",
       "onboard_time": 1765330822,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1053429,
-      "num": 128209,
+      "num": 248852,
       "word": "金晨把腿放到黄景瑜腿上",
       "onboard_time": 1765322899,
       "rank": 20,
@@ -24,6 +24,14 @@
       "word": "乔任梁爸爸因吃8个死蟹住院",
       "onboard_time": 1765290144,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 982234,
+      "num": 211316,
+      "word": "何九华 王鸥",
+      "onboard_time": 1765332861,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465079,
+      "num": 1074412,
+      "word": "得闲谨制",
+      "onboard_time": 1765315393,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444993,
       "num": 1071198,
       "word": "男孩考19分被妈妈夸到结巴",
@@ -67,20 +83,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 406604,
+      "num": 339358,
+      "word": "当你谈了个山东的男朋友",
+      "onboard_time": 1765328961,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391401,
-      "num": 128174,
+      "num": 229302,
       "word": "张馨予婚后被宠成孩子",
       "onboard_time": 1765325000,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385249,
-      "num": 385249,
-      "word": "得闲谨制",
-      "onboard_time": 1765315393,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 384275,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332624,
+      "num": 236041,
+      "word": "外交官辟谣这是中国不是日本",
+      "onboard_time": 1765332320,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 313626,
       "num": 313626,
       "word": "双轨",
@@ -107,8 +131,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287358,
-      "num": 127778,
+      "raw_hot": 305139,
+      "num": 385017,
+      "word": "白泽 陈泽",
+      "onboard_time": 1765330881,
+      "rank": 4,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 298033,
+      "num": 193715,
       "word": "泡泡玛特遭做空市值蒸发1800亿",
       "onboard_time": 1765327881,
       "rank": 25,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 217078,
-      "num": 127547,
+      "num": 147453,
       "word": "英国首次宣布英国军人在乌克兰身亡",
       "onboard_time": 1765330580,
       "rank": 26,
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 213299,
-      "num": 127251,
+      "num": 167725,
       "word": "聂远女儿已参演多部电视剧",
       "onboard_time": 1765325843,
       "rank": 27,
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 211561,
-      "num": 126673,
+      "num": 189910,
       "word": "一个让皮肤变好的简单方法",
       "onboard_time": 1765329621,
       "rank": 28,
@@ -203,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194106,
-      "num": 194106,
-      "word": "当你谈了个山东的男朋友",
-      "onboard_time": 1765328961,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189953,
       "num": 189953,
       "word": "狙击蝴蝶12集26分22秒",
@@ -227,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183040,
+      "num": 183040,
+      "word": "孙千问陈晓知道谁旺你了吧",
+      "onboard_time": 1765333400,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
@@ -241,6 +273,14 @@
       "onboard_time": 1765323800,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166464,
+      "num": 166464,
+      "word": "中国景点被误标地点为日本",
+      "onboard_time": 1765332562,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163132,
@@ -267,14 +307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 150197,
-      "num": 385017,
-      "word": "白泽 陈泽",
-      "onboard_time": 1765330881,
-      "rank": 4,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 148807,
       "num": 148807,
       "word": "被白嫖家教的清华小伙已收到课时费",
@@ -297,6 +329,14 @@
       "onboard_time": 1765278082,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141757,
+      "num": 381914,
+      "word": "小米将承担门店调整损失约2726万元",
+      "onboard_time": 1765333520,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 141535,
@@ -323,8 +363,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131110,
+      "num": 131110,
+      "word": "白银为何大涨",
+      "onboard_time": 1765333520,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 128404,
+      "num": 384679,
+      "word": "NBA交易市场",
+      "onboard_time": 1765328481,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128248,
-      "num": 128248,
+      "num": 197648,
       "word": "村民不慎挖断国防电缆获谅解被免罚",
       "onboard_time": 1765331121,
       "rank": 19,
@@ -337,14 +393,6 @@
       "onboard_time": 1765330940,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127485,
-      "num": 384679,
-      "word": "NBA交易市场",
-      "onboard_time": 1765328481,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 126617,
@@ -385,6 +433,14 @@
       "onboard_time": 1765324761,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108033,
+      "num": 108033,
+      "word": "张韶涵淋雨一直走 周杰伦欧洲一直走",
+      "onboard_time": 1765332680,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 107118,
@@ -443,6 +499,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93979,
+      "num": 93979,
+      "word": "王俊凯话剧舞台照",
+      "onboard_time": 1765327461,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "男女主相差11岁的设定",
+      "onboard_time": 1765331841,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91199,
+      "num": 384615,
+      "word": "四六级",
+      "onboard_time": 1765329503,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90679,
       "num": 90679,
       "word": "大额存单正在消失还有哪些替代",
@@ -465,22 +545,6 @@
       "onboard_time": 1765280181,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88495,
-      "num": 384615,
-      "word": "四六级",
-      "onboard_time": 1765329503,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 88453,
-      "num": 86691,
-      "word": "王俊凯话剧舞台照",
-      "onboard_time": 1765327461,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 88335,
@@ -587,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78653,
-      "num": 78653,
-      "word": "男女主相差11岁的设定",
-      "onboard_time": 1765331841,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78277,
       "num": 96985,
       "word": "不二之臣吻戏给我看脸红了",
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 73881,
-      "num": 84426,
+      "num": 264724,
       "word": "问界56789产品矩阵将补齐",
       "onboard_time": 1765328901,
       "rank": 40,
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69553,
+      "num": 292743,
+      "word": "余承东再聊为什么坚持做旅行车",
+      "onboard_time": 1765332381,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69151,
       "num": 69151,
       "word": "李现澳门扫街被路人警告删掉照片",
@@ -728,6 +792,14 @@
       "word": "男孩在校被打掉两颗门牙家长讨说法",
       "onboard_time": 1765322657,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64916,
+      "num": 253344,
+      "word": "校领导安排学生给儿子投票被免职",
+      "onboard_time": 1765332381,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -891,6 +963,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46256,
+      "num": 213793,
+      "word": "台军涉诈近乎消灭一个连",
+      "onboard_time": 1765333520,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 45026,
+      "num": 149144,
+      "word": "中俄空中编队或与辽宁舰相遇",
+      "onboard_time": 1765333520,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44988,
       "num": 96528,
       "word": "风与潮",
@@ -905,6 +993,14 @@
       "onboard_time": 1765322899,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43916,
+      "num": 225482,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765329981,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 42512,
@@ -939,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38606,
+      "num": 350781,
+      "word": "日方要认清形势反思纠错",
+      "onboard_time": 1765332381,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38268,
       "num": 52127,
       "word": "方圆脸出片像呼吸一样简单",
@@ -961,6 +1065,14 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33138,
+      "num": 183348,
+      "word": "美海军已打捞出在南海坠毁军机",
+      "onboard_time": 1765333582,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32255,
@@ -1001,6 +1113,14 @@
       "onboard_time": 1765310114,
       "rank": 9,
       "category": "互联网,休闲"
+    },
+    {
+      "raw_hot": 27155,
+      "num": 109517,
+      "word": "澳大利亚不满16岁社媒禁令生效",
+      "onboard_time": 1765332320,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25581,
@@ -1099,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15241,
+      "num": 153706,
+      "word": "月付开通容易关闭难",
+      "onboard_time": 1765333520,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14505,
       "num": 42429,
       "word": "北方多地将迎来强雨雪",
@@ -1132,7 +1260,7 @@
     },
     {
       "raw_hot": 3078,
-      "num": 385240,
+      "num": 389469,
       "word": "11月我国外贸增速回升至4.1%",
       "onboard_time": 1765190542,
       "rank": 2,
