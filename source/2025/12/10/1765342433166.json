@@ -1,0 +1,410 @@
+{
+  "runTime": 1765342433166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028863,
+        "num": 1164618,
+        "word": "广东汕头火灾事故遇难人数升至12人",
+        "onboard_time": 1765340060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261680,
+        "num": 261680,
+        "word": "小米将承担门店调整损失约2726万元",
+        "onboard_time": 1765333520,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30203,
+        "num": 259396,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1024218,
+        "num": 254509,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794783,
+        "num": 246045,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 561233,
+        "num": 242783,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416900,
+        "num": 236644,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235478,
+        "num": 235478,
+        "word": "中国景点被误标地点为日本",
+        "onboard_time": 1765332562,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155505,
+        "num": 235424,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96841,
+        "num": 235314,
+        "word": "iG官宣Daeny卸任",
+        "onboard_time": 1765340242,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1425883,
+        "num": 235247,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076169,
+        "num": 235108,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919387,
+        "num": 235043,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 20826,
+        "num": 234912,
+        "word": "时代少年团的节日桶你有了吗",
+        "onboard_time": 1765339521,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854804,
+        "num": 234863,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551895,
+        "num": 234715,
+        "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+        "onboard_time": 1765340422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547218,
+        "num": 234610,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347463,
+        "num": 234534,
+        "word": "女子一周喝三次奶茶确诊糖尿病",
+        "onboard_time": 1765335680,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155581,
+        "num": 234389,
+        "word": "学校火灾致13死校方逼家长签协议",
+        "onboard_time": 1765341562,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57249,
+        "num": 234354,
+        "word": "刘亦菲传递愉悦的新方式",
+        "onboard_time": 1765339521,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90940,
+        "num": 234202,
+        "word": "公司招聘称工作满5年有望获赠住房",
+        "onboard_time": 1765341201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999830,
+        "num": 234155,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447720,
+        "num": 233966,
+        "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+        "onboard_time": 1765339941,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 321878,
+        "num": 233871,
+        "word": "金晨把腿放到黄景瑜腿上",
+        "onboard_time": 1765322899,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317240,
+        "num": 233797,
+        "word": "浙江卫视工作人员聊天记录",
+        "onboard_time": 1765335380,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282521,
+        "num": 233672,
+        "word": "张杰跨年演唱会预售",
+        "onboard_time": 1765341502,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471272,
+        "num": 233639,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233554,
+        "num": 233554,
+        "word": "外交官辟谣这是中国不是日本",
+        "onboard_time": 1765332320,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 260106,
+        "num": 232080,
+        "word": "儿子回应洪金宝回春",
+        "onboard_time": 1765341862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142668,
+        "num": 226458,
+        "word": "泡泡玛特遭做空市值蒸发1800亿",
+        "onboard_time": 1765327881,
+        "rank": 29,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 254967,
+        "num": 226200,
+        "word": "狙击蝴蝶今晚不播这段找人弄你",
+        "onboard_time": 1765339101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222093,
+        "num": 222093,
+        "word": "TF家族新音84人",
+        "onboard_time": 1765341982,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201713,
+        "num": 201713,
+        "word": "许绍雄离世细节",
+        "onboard_time": 1765334960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152124,
+        "num": 200859,
+        "word": "大学四年没人知道我带了假发",
+        "onboard_time": 1765341743,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 130379,
+        "num": 199199,
+        "word": "广东汕头火灾遇难者亲属发声",
+        "onboard_time": 1765340121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128426,
+        "num": 197565,
+        "word": "太爱辞职了但完全没gap",
+        "onboard_time": 1765339641,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 123501,
+        "num": 196884,
+        "word": "水煮蛋 九分十二秒",
+        "onboard_time": 1765339162,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28382,
+        "num": 195606,
+        "word": "张水华50天5场马拉松奖金超20万",
+        "onboard_time": 1765342282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70899,
+        "num": 194171,
+        "word": "狙击蝴蝶原著番外",
+        "onboard_time": 1765341441,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65358,
+        "num": 192422,
+        "word": "情绪价值给到满的老公谁不想要",
+        "onboard_time": 1765341263,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 119729,
+        "num": 190733,
+        "word": "最快女护士张水华被医院处分",
+        "onboard_time": 1765335680,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190284,
+        "num": 190284,
+        "word": "陈晓苦尽甘来遇见她",
+        "onboard_time": 1765335320,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153954,
+        "num": 153954,
+        "word": "何老师越听越觉得不对劲",
+        "onboard_time": 1765337301,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145658,
+        "num": 145658,
+        "word": "枭起青壤",
+        "onboard_time": 1765340001,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137266,
+        "num": 137266,
+        "word": "新音 划区",
+        "onboard_time": 1765341081,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132976,
+        "num": 132976,
+        "word": "白鹿浙江跨晚造型",
+        "onboard_time": 1765334960,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122361,
+        "num": 122361,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1765329080,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "iPhone截图隐藏功能",
+        "onboard_time": 1765342162,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109368,
+        "num": 109368,
+        "word": "熬夜 代偿性清醒",
+        "onboard_time": 1765338320,
+        "rank": 48,
+        "category": "科学科普,情感"
+      },
+      {
+        "raw_hot": 109258,
+        "num": 109258,
+        "word": "小猫也不能笑着走出理发店",
+        "onboard_time": 1765342401,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定推动高质量发展这个主题#"
+    }
+  }
+}

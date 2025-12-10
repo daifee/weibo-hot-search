@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765341716846,
+  "endTime": 1765342433166,
   "band_list": [
     {
       "raw_hot": 1910823,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1028863,
+      "num": 1164618,
+      "word": "广东汕头火灾事故遇难人数升至12人",
+      "onboard_time": 1765340060,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1014047,
       "num": 525728,
       "word": "乔任梁爸爸因吃8个死蟹住院",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 971248,
-      "num": 971248,
-      "word": "广东汕头火灾事故遇难人数升至12人",
-      "onboard_time": 1765340060,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 919387,
+      "num": 528217,
+      "word": "蓝战非 生物证据",
+      "onboard_time": 1765337001,
+      "rank": 34,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 868374,
@@ -83,12 +91,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 699676,
-      "num": 528217,
-      "word": "蓝战非 生物证据",
-      "onboard_time": 1765337001,
-      "rank": 34,
-      "category": "网红,民生新闻"
+      "raw_hot": 854804,
+      "num": 314247,
+      "word": "双轨 全集",
+      "onboard_time": 1765341023,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 643465,
@@ -97,6 +105,14 @@
       "onboard_time": 1765335380,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561233,
+      "num": 540796,
+      "word": "最快女护士已影响科室正常排班",
+      "onboard_time": 1765337183,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559432,
@@ -115,11 +131,11 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 540796,
-      "num": 540796,
-      "word": "最快女护士已影响科室正常排班",
-      "onboard_time": 1765337183,
-      "rank": 8,
+      "raw_hot": 551895,
+      "num": 437797,
+      "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+      "onboard_time": 1765340422,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -176,14 +192,6 @@
       "word": "男孩考19分被妈妈夸到结巴",
       "onboard_time": 1765324160,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437797,
-      "num": 437797,
-      "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
-      "onboard_time": 1765340422,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -259,14 +267,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 314247,
-      "num": 314247,
-      "word": "双轨 全集",
-      "onboard_time": 1765341023,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305139,
       "num": 385017,
       "word": "白泽 陈泽",
@@ -276,11 +276,19 @@
     },
     {
       "raw_hot": 298033,
-      "num": 193715,
+      "num": 226458,
       "word": "泡泡玛特遭做空市值蒸发1800亿",
       "onboard_time": 1765327881,
       "rank": 25,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 282521,
+      "num": 233672,
+      "word": "张杰跨年演唱会预售",
+      "onboard_time": 1765341502,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 281853,
@@ -323,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 260106,
+      "num": 232080,
+      "word": "儿子回应洪金宝回春",
+      "onboard_time": 1765341862,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256307,
       "num": 256307,
       "word": "网传新音歌单",
@@ -337,6 +353,14 @@
       "onboard_time": 1765274541,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222093,
+      "num": 222093,
+      "word": "TF家族新音84人",
+      "onboard_time": 1765341982,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 221565,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 184978,
-      "num": 184978,
+      "num": 199199,
       "word": "广东汕头火灾遇难者亲属发声",
       "onboard_time": 1765340121,
       "rank": 32,
@@ -476,19 +500,11 @@
     },
     {
       "raw_hot": 176479,
-      "num": 176479,
+      "num": 234389,
       "word": "学校火灾致13死校方逼家长签协议",
       "onboard_time": 1765341562,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172145,
-      "num": 154330,
-      "word": "张杰跨年演唱会预售",
-      "onboard_time": 1765341502,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 169533,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 166570,
-      "num": 166570,
+      "num": 197565,
       "word": "太爱辞职了但完全没gap",
       "onboard_time": 1765339641,
       "rank": 36,
@@ -545,6 +561,14 @@
       "onboard_time": 1765322778,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152124,
+      "num": 200859,
+      "word": "大学四年没人知道我带了假发",
+      "onboard_time": 1765341743,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 148807,
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 133550,
-      "num": 133550,
+      "num": 196884,
       "word": "水煮蛋 九分十二秒",
       "onboard_time": 1765339162,
       "rank": 48,
@@ -707,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111086,
+      "num": 111086,
+      "word": "iPhone截图隐藏功能",
+      "onboard_time": 1765342162,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 110375,
       "num": 535068,
       "word": "iG官宣Daeny卸任",
@@ -729,6 +761,14 @@
       "onboard_time": 1765324761,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109258,
+      "num": 109258,
+      "word": "小猫也不能笑着走出理发店",
+      "onboard_time": 1765342401,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 108033,
@@ -865,6 +905,14 @@
       "onboard_time": 1765331841,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90940,
+      "num": 388500,
+      "word": "公司招聘称工作满5年有望获赠住房",
+      "onboard_time": 1765341201,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90679,
@@ -1124,11 +1172,19 @@
     },
     {
       "raw_hot": 71274,
-      "num": 154388,
+      "num": 192422,
       "word": "情绪价值给到满的老公谁不想要",
       "onboard_time": 1765341263,
       "rank": 39,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 70899,
+      "num": 194171,
+      "word": "狙击蝴蝶原著番外",
+      "onboard_time": 1765341441,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 70336,
@@ -1233,14 +1289,6 @@
       "onboard_time": 1765274961,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58601,
-      "num": 155871,
-      "word": "狙击蝴蝶原著番外",
-      "onboard_time": 1765341441,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 56203,
@@ -1475,14 +1523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35672,
-      "num": 388500,
-      "word": "公司招聘称工作满5年有望获赠住房",
-      "onboard_time": 1765341201,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34450,
       "num": 42612,
       "word": "万宁叔否认整容",
@@ -1531,6 +1571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 30203,
+      "num": 1043046,
+      "word": "48个场景百亿投资向海而兴",
+      "onboard_time": 1765341142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29498,
       "num": 96531,
       "word": "范丞丞直播",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1765310114,
       "rank": 9,
       "category": "互联网,休闲"
+    },
+    {
+      "raw_hot": 28382,
+      "num": 195606,
+      "word": "张水华50天5场马拉松奖金超20万",
+      "onboard_time": 1765342282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27155,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1765313714,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17376,
-      "num": 1043046,
-      "word": "48个场景百亿投资向海而兴",
-      "onboard_time": 1765341142,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16571,
