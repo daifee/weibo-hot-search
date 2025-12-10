@@ -1,10 +1,10 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765339204907,
+  "endTime": 1765341716846,
   "band_list": [
     {
       "raw_hot": 1910823,
-      "num": 447157,
+      "num": 1008499,
       "word": "TF家族新音官宣",
       "onboard_time": 1765337001,
       "rank": 3,
@@ -12,19 +12,35 @@
     },
     {
       "raw_hot": 1778889,
-      "num": 262566,
+      "num": 269522,
       "word": "王鸥女儿都这么大了",
       "onboard_time": 1765330822,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 1428291,
+      "num": 533139,
+      "word": "陈晓陈妍希 风评",
+      "onboard_time": 1765340179,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1399999,
-      "num": 257603,
+      "num": 372230,
       "word": "何九华 王鸥",
       "onboard_time": 1765332861,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1329392,
+      "num": 530658,
+      "word": "双轨",
+      "onboard_time": 1765325901,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1243925,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1053429,
-      "num": 257285,
+      "num": 322883,
       "word": "金晨把腿放到黄景瑜腿上",
       "onboard_time": 1765322899,
       "rank": 20,
@@ -44,11 +60,19 @@
     },
     {
       "raw_hot": 1014047,
-      "num": 384501,
+      "num": 525728,
       "word": "乔任梁爸爸因吃8个死蟹住院",
       "onboard_time": 1765290144,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 971248,
+      "num": 971248,
+      "word": "广东汕头火灾事故遇难人数升至12人",
+      "onboard_time": 1765340060,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 868374,
@@ -59,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 699676,
+      "num": 528217,
+      "word": "蓝战非 生物证据",
+      "onboard_time": 1765337001,
+      "rank": 34,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 643465,
       "num": 643465,
       "word": "浙江卫视工作人员聊天记录",
       "onboard_time": 1765335380,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606511,
-      "num": 313626,
-      "word": "双轨",
-      "onboard_time": 1765325901,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 559432,
@@ -91,6 +115,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 540796,
+      "num": 540796,
+      "word": "最快女护士已影响科室正常排班",
+      "onboard_time": 1765337183,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531051,
       "num": 910037,
       "word": "韩国硬刚高市早苗",
@@ -100,11 +132,19 @@
     },
     {
       "raw_hot": 504163,
-      "num": 259437,
+      "num": 354251,
       "word": "女子一周喝三次奶茶确诊糖尿病",
       "onboard_time": 1765335680,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500710,
+      "num": 500710,
+      "word": "俄乌冲突",
+      "onboard_time": 1765339222,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 483774,
@@ -113,6 +153,14 @@
       "onboard_time": 1765268121,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465224,
+      "num": 465224,
+      "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+      "onboard_time": 1765339941,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 465079,
@@ -131,8 +179,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437797,
+      "num": 437797,
+      "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+      "onboard_time": 1765340422,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423593,
-      "num": 423593,
+      "num": 1078766,
       "word": "小米将承担门店调整损失约2726万元",
       "onboard_time": 1765333520,
       "rank": 4,
@@ -179,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365451,
-      "num": 300486,
-      "word": "最快女护士已影响科室正常排班",
-      "onboard_time": 1765337183,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342582,
       "num": 342582,
       "word": "中戏",
@@ -204,11 +252,19 @@
     },
     {
       "raw_hot": 332624,
-      "num": 256778,
+      "num": 257958,
       "word": "外交官辟谣这是中国不是日本",
       "onboard_time": 1765332320,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "双轨 全集",
+      "onboard_time": 1765341023,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 305139,
@@ -251,8 +307,16 @@
       "category": "军事"
     },
     {
+      "raw_hot": 270305,
+      "num": 270305,
+      "word": "狙击蝴蝶今晚不播这段找人弄你",
+      "onboard_time": 1765339101,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262416,
-      "num": 384615,
+      "num": 539156,
       "word": "四六级",
       "onboard_time": 1765329503,
       "rank": 9,
@@ -265,14 +329,6 @@
       "onboard_time": 1765336580,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 252310,
-      "num": 200455,
-      "word": "蓝战非 生物证据",
-      "onboard_time": 1765337001,
-      "rank": 34,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 241390,
@@ -395,12 +451,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184978,
+      "num": 184978,
+      "word": "广东汕头火灾遇难者亲属发声",
+      "onboard_time": 1765340121,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183191,
+      "num": 183191,
+      "word": "枭起青壤",
+      "onboard_time": 1765340001,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183040,
       "num": 183040,
       "word": "孙千问陈晓知道谁旺你了吧",
       "onboard_time": 1765333400,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176479,
+      "num": 176479,
+      "word": "学校火灾致13死校方逼家长签协议",
+      "onboard_time": 1765341562,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172145,
+      "num": 154330,
+      "word": "张杰跨年演唱会预售",
+      "onboard_time": 1765341502,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 169533,
@@ -419,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "太爱辞职了但完全没gap",
+      "onboard_time": 1765339641,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 163132,
       "num": 226078,
       "word": "空枪",
@@ -433,6 +529,14 @@
       "onboard_time": 1765288404,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154179,
+      "num": 154179,
+      "word": "新音 划区",
+      "onboard_time": 1765341081,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 153334,
@@ -515,12 +619,12 @@
       "category": "科学科普,情感"
     },
     {
-      "raw_hot": 136034,
-      "num": 136034,
-      "word": "狙击蝴蝶今晚不播这段找人弄你",
-      "onboard_time": 1765339101,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 133550,
+      "num": 133550,
+      "word": "水煮蛋 九分十二秒",
+      "onboard_time": 1765339162,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 133182,
@@ -603,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110375,
+      "num": 535068,
+      "word": "iG官宣Daeny卸任",
+      "onboard_time": 1765340242,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110219,
       "num": 72905,
       "word": "陈泽",
@@ -681,14 +793,6 @@
       "onboard_time": 1765336700,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101047,
-      "num": 101047,
-      "word": "水煮蛋 九分十二秒",
-      "onboard_time": 1765339162,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 100264,
@@ -1011,6 +1115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71762,
+      "num": 388152,
+      "word": "刘亦菲传递愉悦的新方式",
+      "onboard_time": 1765339521,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71274,
+      "num": 154388,
+      "word": "情绪价值给到满的老公谁不想要",
+      "onboard_time": 1765341263,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 70336,
       "num": 70336,
       "word": "宋茜剪完头发怎么变这么拘谨",
@@ -1115,12 +1235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58601,
+      "num": 155871,
+      "word": "狙击蝴蝶原著番外",
+      "onboard_time": 1765341441,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56203,
       "num": 97159,
       "word": "偶遇素颜的刘亦菲",
       "onboard_time": 1765281801,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55611,
+      "num": 135228,
+      "word": "王曼昱一如既往走错方向",
+      "onboard_time": 1765340179,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 55598,
@@ -1267,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41502,
+      "num": 537740,
+      "word": "中国机器人6000米深海拍视频",
+      "onboard_time": 1765341142,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41324,
       "num": 96660,
       "word": "张凌赫妈妈好像周雨彤",
@@ -1331,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35672,
+      "num": 388500,
+      "word": "公司招聘称工作满5年有望获赠住房",
+      "onboard_time": 1765341201,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34450,
       "num": 42612,
       "word": "万宁叔否认整容",
@@ -1387,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29231,
+      "num": 132030,
+      "word": "孙颖莎移动的合影招牌",
+      "onboard_time": 1765340060,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28936,
       "num": 60833,
       "word": "段永平称年轻人仍有大把机会",
@@ -1417,6 +1577,22 @@
       "onboard_time": 1765315034,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24330,
+      "num": 536302,
+      "word": "中国经济长期向好具有坚实支撑",
+      "onboard_time": 1765340602,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23774,
+      "num": 527394,
+      "word": "时代少年团的节日桶你有了吗",
+      "onboard_time": 1765339521,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 22677,
@@ -1491,6 +1667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17376,
+      "num": 1043046,
+      "word": "48个场景百亿投资向海而兴",
+      "onboard_time": 1765341142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16571,
       "num": 33136,
       "word": "女博士遭外籍丈夫杀害",
@@ -1558,6 +1742,9 @@
   "hotgov_list": [
     {
       "word": "#从治水到治国总书记这样说#"
+    },
+    {
+      "word": "#锚定推动高质量发展这个主题#"
     }
   ]
 }
