@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765394702782,
+  "endTime": 1765395585159,
   "band_list": [
     {
       "raw_hot": 857605,
@@ -515,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17260,
+      "num": 23837,
+      "word": "19岁男生让6岁女孩感受到了父爱",
+      "onboard_time": 1765394474,
+      "rank": 49,
+      "category": "情感,剧集"
+    },
+    {
+      "raw_hot": 17023,
+      "num": 23877,
+      "word": "雪中阿勒泰是限定版童话世界吧",
+      "onboard_time": 1765385718,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15819,
       "num": 30183,
       "word": "王楚钦4比3松岛辉空",
@@ -523,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15405,
-      "num": 23877,
-      "word": "雪中阿勒泰是限定版童话世界吧",
-      "onboard_time": 1765385718,
-      "rank": 39,
-      "category": "旅游"
+      "raw_hot": 14176,
+      "num": 23410,
+      "word": "当安卓用户第一次用苹果",
+      "onboard_time": 1765394834,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 13046,
@@ -539,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12910,
-      "num": 23837,
-      "word": "19岁男生让6岁女孩感受到了父爱",
-      "onboard_time": 1765394474,
-      "rank": 49,
-      "category": "情感,剧集"
+      "raw_hot": 12941,
+      "num": 23409,
+      "word": "周柯宇做了我最想对陈妍希做的事",
+      "onboard_time": 1765395554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12487,
@@ -555,8 +571,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1379,
-      "num": 26839,
+      "raw_hot": 1504,
+      "num": 30544,
       "word": "中国经济长期向好具有坚实支撑",
       "onboard_time": 1765340602,
       "rank": 2,
