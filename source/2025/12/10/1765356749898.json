@@ -1,0 +1,410 @@
+{
+  "runTime": 1765356749898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521999,
+        "num": 1521999,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451854,
+        "num": 451854,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25457,
+        "num": 408591,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381649,
+        "num": 381649,
+        "word": "泡泡玛特全新IPSupertutu",
+        "onboard_time": 1765354221,
+        "rank": 3,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 335969,
+        "num": 378864,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216958,
+        "num": 377889,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188927,
+        "num": 374689,
+        "word": "王楚钦孙颖莎vs沙奇塔莱",
+        "onboard_time": 1765352362,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171489,
+        "num": 372663,
+        "word": "陈熠4比3朱雨玲",
+        "onboard_time": 1765355240,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168714,
+        "num": 369462,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104531,
+        "num": 366897,
+        "word": "星光大赏第二波嘉宾阵容",
+        "onboard_time": 1765355901,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701415,
+        "num": 363144,
+        "word": "陈晓陈妍希 顶峰相见",
+        "onboard_time": 1765353742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490957,
+        "num": 360158,
+        "word": "才知道苹果按右上角就能关机",
+        "onboard_time": 1765352480,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 453490,
+        "num": 356121,
+        "word": "日防相承认中方训练前通报日方",
+        "onboard_time": 1765354824,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442929,
+        "num": 355847,
+        "word": "崖洞发现干尸博主称已找到家属",
+        "onboard_time": 1765350800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353046,
+        "num": 353046,
+        "word": "王俊凯工作室你让我很尴尬",
+        "onboard_time": 1765352422,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341101,
+        "num": 341101,
+        "word": "第一次在床上晕车了",
+        "onboard_time": 1765354462,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259435,
+        "num": 336070,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211006,
+        "num": 318793,
+        "word": "佛山 鸟屎袭城",
+        "onboard_time": 1765355122,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189139,
+        "num": 308498,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54341,
+        "num": 303687,
+        "word": "广东成立事故调查组彻查火灾原因",
+        "onboard_time": 1765356200,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292837,
+        "num": 292837,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274776,
+        "num": 274776,
+        "word": "高市早苗承认中日关系恶化冲击经济",
+        "onboard_time": 1765356021,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266705,
+        "num": 266705,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202467,
+        "num": 202467,
+        "word": "银价已暴涨110%",
+        "onboard_time": 1765352001,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183547,
+        "num": 200483,
+        "word": "新生儿疑因基因筛查错误致死",
+        "onboard_time": 1765347623,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200003,
+        "num": 200003,
+        "word": "王鸥啥时候结婚的",
+        "onboard_time": 1765355662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196671,
+        "num": 196671,
+        "word": "19岁男生肚疼查出肠癌晚期",
+        "onboard_time": 1765351702,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163615,
+        "num": 163615,
+        "word": "时代少年团不去新音第二天",
+        "onboard_time": 1765356381,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160392,
+        "num": 160392,
+        "word": "邓为 热衷穿孔",
+        "onboard_time": 1765352661,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51160,
+        "num": 157596,
+        "word": "我国成功发射一箭九星",
+        "onboard_time": 1765355781,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156929,
+        "num": 156929,
+        "word": "李现西藏徒步",
+        "onboard_time": 1765347861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107346,
+        "num": 150939,
+        "word": "得闲体 一份凡间岗位说明书",
+        "onboard_time": 1765355001,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147093,
+        "num": 147093,
+        "word": "微信回复讨好型人格",
+        "onboard_time": 1765353502,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144269,
+        "num": 144269,
+        "word": "狙击蝴蝶口碑两极反转",
+        "onboard_time": 1765356021,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144220,
+        "num": 144220,
+        "word": "李茂满脑子二婚自动屏蔽弦子解释",
+        "onboard_time": 1765356381,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136574,
+        "num": 136574,
+        "word": "小狗不知道演戏只知道成毅很难过",
+        "onboard_time": 1765356381,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40325,
+        "num": 124172,
+        "word": "领克10EM-P销量快速突破2万",
+        "onboard_time": 1765350860,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15443,
+        "num": 121967,
+        "word": "第一次见把观众写到名字的综艺",
+        "onboard_time": 1765356081,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120378,
+        "num": 120378,
+        "word": "突然理解马皇后了",
+        "onboard_time": 1765352842,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 16823,
+        "num": 118856,
+        "word": "在郑州遗址公园见证仰韶7000年",
+        "onboard_time": 1765353681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117746,
+        "num": 117746,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80366,
+        "num": 116108,
+        "word": "西班牙女员工连续提前到岗被开除",
+        "onboard_time": 1765356682,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39516,
+        "num": 115656,
+        "word": "中国海警舰艇在我钓鱼岛领海巡航",
+        "onboard_time": 1765352542,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67952,
+        "num": 115489,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "苹果iOS26.2的5大新变化",
+        "onboard_time": 1765356200,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113731,
+        "num": 115235,
+        "word": "豆包手机",
+        "onboard_time": 1765355842,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115211,
+        "num": 115211,
+        "word": "宝宝认母期认成土豆片了",
+        "onboard_time": 1765355362,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 114244,
+        "word": "向太吐槽向佐穿女装",
+        "onboard_time": 1765354882,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 111709,
+        "word": "张本智和训练迟到",
+        "onboard_time": 1765355180,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111099,
+        "num": 111099,
+        "word": "大疆回应多地无人机黑飞至8000米",
+        "onboard_time": 1765349542,
+        "rank": 49,
+        "category": "民生新闻,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
