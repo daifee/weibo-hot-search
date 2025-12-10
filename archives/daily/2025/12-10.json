@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765371526517,
+  "endTime": 1765372437941,
   "band_list": [
     {
       "raw_hot": 2374415,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1064423,
+      "num": 195253,
+      "word": "虞书欣父亲维权索赔17万",
+      "onboard_time": 1765371261,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1053429,
       "num": 322883,
       "word": "金晨把腿放到黄景瑜腿上",
@@ -147,19 +155,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 827979,
+      "num": 827979,
+      "word": "王楚钦4比3松岛辉空",
+      "onboard_time": 1765371143,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 794913,
       "num": 299840,
       "word": "曝何九华王鸥已在南宁领证",
       "onboard_time": 1765357042,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 761089,
-      "num": 191896,
-      "word": "虞书欣父亲维权索赔17万",
-      "onboard_time": 1765371261,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -347,7 +355,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476115,
+      "raw_hot": 477390,
       "num": 386793,
       "word": "女子连续早到岗被开除",
       "onboard_time": 1765363763,
@@ -393,14 +401,6 @@
       "onboard_time": 1765324160,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 443647,
-      "num": 190716,
-      "word": "王楚钦4比3松岛辉空",
-      "onboard_time": 1765371143,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 423593,
@@ -555,8 +555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350320,
-      "num": 194321,
+      "raw_hot": 357351,
+      "num": 357351,
       "word": "王楚钦场外指导是孙逊",
       "onboard_time": 1765370422,
       "rank": 7,
@@ -732,11 +732,19 @@
     },
     {
       "raw_hot": 251457,
-      "num": 188731,
+      "num": 196433,
       "word": "程靖淇宣布退役",
       "onboard_time": 1765368862,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243413,
+      "num": 533742,
+      "word": "TheShy发文告别赛场",
+      "onboard_time": 1765367422,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 241390,
@@ -771,20 +779,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230007,
+      "num": 191807,
+      "word": "王鹤棣沈月 每隔三年be转he",
+      "onboard_time": 1765368983,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228419,
       "num": 619309,
       "word": "原神月之少女",
       "onboard_time": 1765347742,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227614,
-      "num": 227614,
-      "word": "TheShy发文告别赛场",
-      "onboard_time": 1765367422,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 222093,
@@ -923,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200722,
+      "num": 190659,
+      "word": "中方回应中俄轰炸机飞临日本",
+      "onboard_time": 1765370844,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200202,
       "num": 200202,
       "word": "电视剧老舅定档",
@@ -1043,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184621,
-      "num": 184621,
-      "word": "王鹤棣沈月 每隔三年be转he",
-      "onboard_time": 1765368983,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "枭起青壤",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1765350620,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173204,
+      "num": 173204,
+      "word": "王楚钦晋级香港总决赛8强",
+      "onboard_time": 1765372043,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 173165,
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148387,
+      "num": 148387,
+      "word": "小樱桃坠亡3年妈妈仍留着她衣服",
+      "onboard_time": 1765368021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147967,
       "num": 171937,
       "word": "姚晨庄达菲见面先干抗病毒口服液",
@@ -1371,14 +1395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145840,
-      "num": 145840,
-      "word": "小樱桃坠亡3年妈妈仍留着她衣服",
-      "onboard_time": 1765368021,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145498,
       "num": 127085,
       "word": "我对买不起的东西就这样",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1765356021,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143978,
-      "num": 143978,
-      "word": "中方回应中俄轰炸机飞临日本",
-      "onboard_time": 1765370844,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143784,
@@ -1691,6 +1699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128486,
+      "num": 128486,
+      "word": "LV大中华区总裁加入泡泡玛特董事会",
+      "onboard_time": 1765370844,
+      "rank": 39,
+      "category": "财经,动漫"
+    },
+    {
+      "raw_hot": 128415,
+      "num": 128415,
+      "word": "两种情况不建议穿外衣上床",
+      "onboard_time": 1765372342,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128404,
       "num": 384679,
       "word": "NBA交易市场",
@@ -1779,14 +1803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121917,
-      "num": 121917,
-      "word": "LV大中华区总裁加入泡泡玛特董事会",
-      "onboard_time": 1765370844,
-      "rank": 39,
-      "category": "财经,动漫"
-    },
-    {
       "raw_hot": 121847,
       "num": 126799,
       "word": "自卑的他明媚的她互补的家",
@@ -1811,12 +1827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119039,
+      "num": 119039,
+      "word": "朱雨玲赛后采访谈WTT规则",
+      "onboard_time": 1765371863,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117320,
       "num": 117320,
       "word": "白银涨势远超黄金",
       "onboard_time": 1765348280,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116306,
+      "num": 116306,
+      "word": "上班最大的意义不是拿点工资",
+      "onboard_time": 1765369402,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 115400,
@@ -1875,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109965,
+      "num": 109965,
+      "word": "周柯宇 不要ban妍希姐的英雄",
+      "onboard_time": 1765370122,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109487,
       "num": 109487,
       "word": "36岁电商女老板王晓析患胃癌去世",
@@ -1891,28 +1931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108621,
-      "num": 108621,
-      "word": "上班最大的意义不是拿点工资",
-      "onboard_time": 1765369402,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108033,
       "num": 108033,
       "word": "张韶涵淋雨一直走 周杰伦欧洲一直走",
       "onboard_time": 1765332680,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107609,
-      "num": 105407,
-      "word": "周柯宇 不要ban妍希姐的英雄",
-      "onboard_time": 1765370122,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 107118,
@@ -2329,6 +2353,14 @@
       "onboard_time": 1765323198,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78281,
+      "num": 152930,
+      "word": "同事加班我跑马获奖20万",
+      "onboard_time": 1765372221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78277,
@@ -3195,6 +3227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26355,
+      "num": 128441,
+      "word": "白衣侠客网红局长解伟提前退休",
+      "onboard_time": 1765371622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26164,
       "num": 146800,
       "word": "成都小伙为一棵树拨打12345",
@@ -3212,7 +3252,7 @@
     },
     {
       "raw_hot": 25290,
-      "num": 619530,
+      "num": 768474,
       "word": "明年经济三大看点",
       "onboard_time": 1765360163,
       "rank": 8,
@@ -3251,6 +3291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21726,
+      "num": 200638,
+      "word": "2025中国经济回眸",
+      "onboard_time": 1765372221,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21606,
       "num": 96396,
       "word": "皮皮限停播",
@@ -3275,6 +3323,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19159,
+      "num": 193654,
+      "word": "IMF上调2025年中国经济增速预期",
+      "onboard_time": 1765360641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19146,
+      "num": 134149,
+      "word": "清华大学举行杨振宁追思会",
+      "onboard_time": 1765372283,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18958,
       "num": 146857,
       "word": "警方介入店主持刀挥向打假博主",
@@ -3283,19 +3347,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18743,
-      "num": 193654,
-      "word": "IMF上调2025年中国经济增速预期",
-      "onboard_time": 1765360641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18502,
       "num": 42426,
       "word": "王飞教授意外离世",
       "onboard_time": 1765279161,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18024,
+      "num": 179577,
+      "word": "日方应老老实实撤回错误言论",
+      "onboard_time": 1765371803,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17694,
+      "num": 150376,
+      "word": "我国AI产业规模突破9000亿元",
+      "onboard_time": 1765371684,
+      "rank": 30,
       "category": "民生新闻"
     },
     {

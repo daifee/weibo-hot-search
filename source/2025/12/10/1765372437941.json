@@ -1,0 +1,410 @@
+{
+  "runTime": 1765372437941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828195,
+        "num": 1132511,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1765368562,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827979,
+        "num": 827979,
+        "word": "王楚钦4比3松岛辉空",
+        "onboard_time": 1765371143,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18937,
+        "num": 768474,
+        "word": "明年经济三大看点",
+        "onboard_time": 1765360163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718390,
+        "num": 718390,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243413,
+        "num": 533742,
+        "word": "TheShy发文告别赛场",
+        "onboard_time": 1765367422,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 396111,
+        "num": 396111,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357351,
+        "num": 357351,
+        "word": "王楚钦场外指导是孙逊",
+        "onboard_time": 1765370422,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220441,
+        "num": 220441,
+        "word": "iG官宣TheShy离场",
+        "onboard_time": 1765365082,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21726,
+        "num": 200638,
+        "word": "2025中国经济回眸",
+        "onboard_time": 1765372221,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196433,
+        "num": 196433,
+        "word": "程靖淇宣布退役",
+        "onboard_time": 1765368862,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1840537,
+        "num": 196193,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064423,
+        "num": 195253,
+        "word": "虞书欣父亲维权索赔17万",
+        "onboard_time": 1765371261,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477390,
+        "num": 194640,
+        "word": "女子连续早到岗被开除",
+        "onboard_time": 1765363763,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 395180,
+        "num": 193637,
+        "word": "郭碧婷 向太有给很多钱",
+        "onboard_time": 1765359561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385149,
+        "num": 192730,
+        "word": "管不住下半身 姐会亲自手刃",
+        "onboard_time": 1765361542,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339748,
+        "num": 192487,
+        "word": "我大使馆回应蓝战非被胁迫转账",
+        "onboard_time": 1765360282,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230007,
+        "num": 191807,
+        "word": "王鹤棣沈月 每隔三年be转he",
+        "onboard_time": 1765368983,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200722,
+        "num": 190659,
+        "word": "中方回应中俄轰炸机飞临日本",
+        "onboard_time": 1765370844,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190372,
+        "num": 190372,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1765357702,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 179577,
+        "word": "日方应老老实实撤回错误言论",
+        "onboard_time": 1765371803,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345439,
+        "num": 179367,
+        "word": "阮经天恋情",
+        "onboard_time": 1765368322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211296,
+        "num": 179354,
+        "word": "曝何九华王鸥已在南宁领证",
+        "onboard_time": 1765357042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178668,
+        "num": 178668,
+        "word": "考研准考证 颜文字",
+        "onboard_time": 1765360520,
+        "rank": 22,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 173204,
+        "num": 173204,
+        "word": "王楚钦晋级香港总决赛8强",
+        "onboard_time": 1765372043,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112851,
+        "num": 172567,
+        "word": "2014年的马年春晚",
+        "onboard_time": 1765365323,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172101,
+        "num": 172101,
+        "word": "李昀锐手上好多伤",
+        "onboard_time": 1765367962,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30466,
+        "num": 159711,
+        "word": "中国探险家成功登顶七大洲最高峰",
+        "onboard_time": 1765369043,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129580,
+        "num": 153241,
+        "word": "王曼昱4比2胜张本美和",
+        "onboard_time": 1765368802,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78281,
+        "num": 152930,
+        "word": "同事加班我跑马获奖20万",
+        "onboard_time": 1765372221,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152730,
+        "num": 152730,
+        "word": "虞书欣父亲维权案将开庭",
+        "onboard_time": 1765371261,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17694,
+        "num": 150376,
+        "word": "我国AI产业规模突破9000亿元",
+        "onboard_time": 1765371684,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148387,
+        "num": 148387,
+        "word": "小樱桃坠亡3年妈妈仍留着她衣服",
+        "onboard_time": 1765368021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6329,
+        "num": 145009,
+        "word": "中国经济长期向好具有坚实支撑",
+        "onboard_time": 1765340602,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142695,
+        "num": 142695,
+        "word": "朱志鑫张桂源新音跨代双人舞台",
+        "onboard_time": 1765370962,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "肖战签名专辑",
+        "onboard_time": 1765358000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19146,
+        "num": 134149,
+        "word": "清华大学举行杨振宁追思会",
+        "onboard_time": 1765372283,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 132015,
+        "word": "郭碧婷说住台北公婆没意见",
+        "onboard_time": 1765369642,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130833,
+        "num": 130833,
+        "word": "中俄轰炸机和航母从3个方向包围琉球",
+        "onboard_time": 1765362021,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128486,
+        "num": 128486,
+        "word": "LV大中华区总裁加入泡泡玛特董事会",
+        "onboard_time": 1765370844,
+        "rank": 38,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 26355,
+        "num": 128441,
+        "word": "白衣侠客网红局长解伟提前退休",
+        "onboard_time": 1765371622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128415,
+        "num": 128415,
+        "word": "两种情况不建议穿外衣上床",
+        "onboard_time": 1765372342,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124111,
+        "num": 124111,
+        "word": "日本求锤得锤",
+        "onboard_time": 1765360941,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "朱雨玲赛后采访谈WTT规则",
+        "onboard_time": 1765371863,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116306,
+        "num": 116306,
+        "word": "上班最大的意义不是拿点工资",
+        "onboard_time": 1765369402,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114876,
+        "num": 114876,
+        "word": "南非当地警方调查蓝战非案",
+        "onboard_time": 1765360882,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20629,
+        "num": 112429,
+        "word": "在这片辽阔的土地上",
+        "onboard_time": 1765360641,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111078,
+        "num": 111078,
+        "word": "易烊千玺给王俊凯送花篮了",
+        "onboard_time": 1765358121,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109965,
+        "num": 109965,
+        "word": "周柯宇 不要ban妍希姐的英雄",
+        "onboard_time": 1765370122,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78994,
+        "num": 104482,
+        "word": "此沙的签名居然比贪吃蛇还长",
+        "onboard_time": 1765370361,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19159,
+        "num": 104166,
+        "word": "IMF上调2025年中国经济增速预期",
+        "onboard_time": 1765360641,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
