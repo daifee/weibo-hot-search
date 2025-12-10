@@ -1,0 +1,410 @@
+{
+  "runTime": 1765351839375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2151815,
+        "num": 2151815,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655930,
+        "num": 655930,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30749,
+        "num": 651195,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 483914,
+        "num": 642698,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113868,
+        "num": 636208,
+        "word": "万科A午后涨停",
+        "onboard_time": 1765345882,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240951,
+        "num": 633702,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180797,
+        "num": 624792,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 619309,
+        "word": "原神月之少女",
+        "onboard_time": 1765347742,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61130,
+        "num": 607118,
+        "word": "中国机器人6000米深海拍视频",
+        "onboard_time": 1765341142,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54574,
+        "num": 601414,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66074,
+        "num": 594775,
+        "word": "汕头火灾致12人遇难已排除刑案",
+        "onboard_time": 1765350620,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592959,
+        "num": 592959,
+        "word": "新生儿疑因基因筛查错误致死",
+        "onboard_time": 1765347623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552313,
+        "num": 552313,
+        "word": "李现西藏徒步",
+        "onboard_time": 1765347861,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515734,
+        "num": 515734,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473622,
+        "num": 473622,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 14,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 384346,
+        "num": 384346,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356610,
+        "num": 356610,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305974,
+        "num": 305974,
+        "word": "4岁女童甲流合并细菌感染肺都白了",
+        "onboard_time": 1765345820,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 279002,
+        "num": 279002,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1765349300,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44136,
+        "num": 270654,
+        "word": "最快女护士曾称绝不影响工作",
+        "onboard_time": 1765350620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428055,
+        "num": 265787,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331763,
+        "num": 253211,
+        "word": "濮存昕外孙女遭大量容貌恶评",
+        "onboard_time": 1765350441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64688,
+        "num": 252049,
+        "word": "为何欧洲已不值得中国帮助",
+        "onboard_time": 1765350441,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243834,
+        "num": 243834,
+        "word": "爱奇艺排播片单没有双轨",
+        "onboard_time": 1765346301,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235531,
+        "num": 235531,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271871,
+        "num": 232423,
+        "word": "广东汕头火灾事故遇难人数升至12人",
+        "onboard_time": 1765340060,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225760,
+        "num": 225760,
+        "word": "七个偶像练习生在综艺里吵起来了",
+        "onboard_time": 1765345221,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206597,
+        "num": 206597,
+        "word": "领克10EM-P销量快速突破2万",
+        "onboard_time": 1765350860,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217505,
+        "num": 202874,
+        "word": "孙俪教邓超减肥 3周腰围小4厘米",
+        "onboard_time": 1765343541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146675,
+        "num": 192218,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190157,
+        "num": 190157,
+        "word": "老阿姨澡堂内偷拍多名女性被拘",
+        "onboard_time": 1765346422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176719,
+        "num": 176719,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157114,
+        "num": 157114,
+        "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+        "onboard_time": 1765339941,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 147739,
+        "num": 147739,
+        "word": "大爷配的药完美解决了全菌操作",
+        "onboard_time": 1765350921,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69162,
+        "num": 143782,
+        "word": "盆栽如何选择营养土",
+        "onboard_time": 1765351222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140096,
+        "num": 140096,
+        "word": "聂远11岁女儿已拍4部长剧",
+        "onboard_time": 1765348821,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133118,
+        "num": 133118,
+        "word": "汪东城 绝望直男",
+        "onboard_time": 1765346601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130568,
+        "num": 130568,
+        "word": "苹果喊话iPhone用户更新iOS26",
+        "onboard_time": 1765343482,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111362,
+        "num": 125674,
+        "word": "崖洞发现干尸博主称已找到家属",
+        "onboard_time": 1765350800,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32941,
+        "num": 121954,
+        "word": "男子推翻自己小车为婚车让路",
+        "onboard_time": 1765351222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121342,
+        "num": 121342,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120378,
+        "num": 120378,
+        "word": "大疆回应多地无人机黑飞至8000米",
+        "onboard_time": 1765349542,
+        "rank": 41,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 116714,
+        "num": 116714,
+        "word": "中国科学家证明爱因斯坦这次错了",
+        "onboard_time": 1765349241,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109621,
+        "num": 109621,
+        "word": "周柯宇藏得也太深了",
+        "onboard_time": 1765351702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61471,
+        "num": 108713,
+        "word": "特朗普抱怨为什么收垃圾国家移民",
+        "onboard_time": 1765346842,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95516,
+        "num": 108323,
+        "word": "全家都被陈晓硬控在沙发上了",
+        "onboard_time": 1765350021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108124,
+        "num": 108124,
+        "word": "19岁男生肚疼查出肠癌晚期",
+        "onboard_time": 1765351702,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107447,
+        "num": 107447,
+        "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+        "onboard_time": 1765340422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101014,
+        "num": 101014,
+        "word": "沈腾 马丽你直接点我名吧",
+        "onboard_time": 1765348101,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79105,
+        "num": 100816,
+        "word": "田里说迪丽热巴是导演友好型演员",
+        "onboard_time": 1765350021,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定推动高质量发展这个主题#"
+    }
+  }
+}
