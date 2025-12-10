@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765352646710,
+  "endTime": 1765355924759,
   "band_list": [
     {
       "raw_hot": 2151815,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665649,
+      "num": 260444,
+      "word": "陈晓陈妍希 顶峰相见",
+      "onboard_time": 1765353742,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643465,
       "num": 643465,
       "word": "浙江卫视工作人员聊天记录",
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503391,
+      "num": 380512,
+      "word": "崖洞发现干尸博主称已找到家属",
+      "onboard_time": 1765350800,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483774,
       "num": 206763,
       "word": "陈晓 陈妍希",
@@ -217,6 +233,14 @@
       "onboard_time": 1765315393,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 449565,
+      "num": 256453,
+      "word": "才知道苹果按右上角就能关机",
+      "onboard_time": 1765352480,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 444993,
@@ -249,6 +273,14 @@
       "onboard_time": 1765322958,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 407264,
+      "num": 254723,
+      "word": "王俊凯工作室你让我很尴尬",
+      "onboard_time": 1765352422,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 406604,
@@ -296,14 +328,6 @@
       "word": "4岁女童甲流合并细菌感染肺都白了",
       "onboard_time": 1765345820,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380512,
-      "num": 380512,
-      "word": "崖洞发现干尸博主称已找到家属",
-      "onboard_time": 1765350800,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -435,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269999,
+      "num": 269999,
+      "word": "泡泡玛特全新IPSupertutu",
+      "onboard_time": 1765354221,
+      "rank": 4,
+      "category": "动漫,休闲"
+    },
+    {
       "raw_hot": 262416,
       "num": 1145084,
       "word": "四六级",
@@ -449,6 +481,14 @@
       "onboard_time": 1765336580,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253760,
+      "num": 253760,
+      "word": "日防相承认中方训练前通报日方",
+      "onboard_time": 1765354824,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 241390,
@@ -497,6 +537,22 @@
       "onboard_time": 1765303216,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218396,
+      "num": 182986,
+      "word": "银价已暴涨110%",
+      "onboard_time": 1765352001,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 217410,
+      "num": 181623,
+      "word": "19岁男生肚疼查出肠癌晚期",
+      "onboard_time": 1765351702,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217078,
@@ -651,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181159,
+      "num": 181159,
+      "word": "邓为 热衷穿孔",
+      "onboard_time": 1765352661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180324,
       "num": 594775,
       "word": "汕头火灾致12人遇难已排除刑案",
@@ -659,12 +723,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173021,
-      "num": 173021,
-      "word": "19岁男生肚疼查出肠癌晚期",
-      "onboard_time": 1765351702,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 175317,
+      "num": 143671,
+      "word": "第一次在床上晕车了",
+      "onboard_time": 1765354462,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 173165,
+      "num": 262225,
+      "word": "陈熠4比3朱雨玲",
+      "onboard_time": 1765355240,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171394,
+      "num": 171394,
+      "word": "微信回复讨好型人格",
+      "onboard_time": 1765353502,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 170732,
@@ -731,14 +811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158602,
-      "num": 158602,
-      "word": "银价已暴涨110%",
-      "onboard_time": 1765352001,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157817,
       "num": 384768,
       "word": "以为是故人之姿真故人之子",
@@ -769,6 +841,14 @@
       "onboard_time": 1765322778,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150693,
+      "num": 266566,
+      "word": "得闲体 一份凡间岗位说明书",
+      "onboard_time": 1765355001,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 149484,
@@ -875,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "王鸥啥时候结婚的",
+      "onboard_time": 1765355662,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139920,
       "num": 139920,
       "word": "A股全市场超3800只个股下跌",
@@ -883,20 +971,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138898,
-      "num": 138898,
-      "word": "王俊凯工作室你让我很尴尬",
-      "onboard_time": 1765352422,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138519,
       "num": 222721,
       "word": "BLG官宣Daeny加入",
       "onboard_time": 1765345820,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138045,
+      "num": 263764,
+      "word": "王楚钦孙颖莎vs沙奇塔莱",
+      "onboard_time": 1765352362,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 137315,
@@ -939,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132315,
+      "num": 131351,
+      "word": "突然理解马皇后了",
+      "onboard_time": 1765352842,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 132254,
       "num": 149383,
       "word": "顾客用胶带粘吊牌退回穿脏表演服",
@@ -963,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130734,
+      "num": 130734,
+      "word": "月薪3K也能实现毛衣自由",
+      "onboard_time": 1765355781,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130297,
       "num": 636208,
       "word": "万科A午后涨停",
@@ -977,6 +1081,14 @@
       "onboard_time": 1765344983,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129547,
+      "num": 129547,
+      "word": "宝宝认母期认成土豆片了",
+      "onboard_time": 1765355362,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 128645,
@@ -1043,6 +1155,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124274,
+      "num": 168497,
+      "word": "大疆回应多地无人机黑飞至8000米",
+      "onboard_time": 1765349542,
+      "rank": 40,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 123921,
+      "num": 114842,
+      "word": "豆包手机",
+      "onboard_time": 1765355842,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 123071,
+      "num": 119590,
+      "word": "老舅友情出演姚安娜",
+      "onboard_time": 1765352362,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121847,
       "num": 126799,
       "word": "自卑的他明媚的她互补的家",
@@ -1051,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120378,
-      "num": 124736,
-      "word": "大疆回应多地无人机黑飞至8000米",
-      "onboard_time": 1765349542,
-      "rank": 40,
-      "category": "民生新闻,数码"
+      "raw_hot": 119634,
+      "num": 119634,
+      "word": "李冰冰 备战冬奥",
+      "onboard_time": 1765353561,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 117320,
@@ -1067,20 +1203,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116424,
-      "num": 116424,
-      "word": "才知道苹果按右上角就能关机",
-      "onboard_time": 1765352480,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 115299,
       "num": 103254,
       "word": "她不是精神小妹是一位伟大的母亲",
       "onboard_time": 1765316054,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114894,
+      "num": 114894,
+      "word": "各省隐藏款美食",
+      "onboard_time": 1765354882,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 111086,
@@ -1121,6 +1257,14 @@
       "onboard_time": 1765342401,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109068,
+      "num": 133316,
+      "word": "向太吐槽向佐穿女装",
+      "onboard_time": 1765354882,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 108033,
@@ -1212,7 +1356,7 @@
     },
     {
       "raw_hot": 100395,
-      "num": 122845,
+      "num": 157713,
       "word": "中国海警舰艇在我钓鱼岛领海巡航",
       "onboard_time": 1765352542,
       "rank": 36,
@@ -1675,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66730,
+      "num": 135951,
+      "word": "在中国人寿工作两月仅得半月工资",
+      "onboard_time": 1765353981,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64916,
       "num": 253344,
       "word": "校领导安排学生给儿子投票被免职",
@@ -1787,6 +1939,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 54950,
+      "num": 138028,
+      "word": "谁能和周深吃饭坐一桌",
+      "onboard_time": 1765354041,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54730,
       "num": 143401,
       "word": "鞠婧祎 血色回眸",
@@ -1841,6 +2001,14 @@
       "onboard_time": 1765338081,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52323,
+      "num": 134453,
+      "word": "张本智和训练迟到",
+      "onboard_time": 1765355180,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 52311,
@@ -1947,12 +2115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43977,
+      "num": 190352,
+      "word": "佛山 鸟屎袭城",
+      "onboard_time": 1765355122,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43916,
       "num": 225482,
       "word": "WTT香港总决赛",
       "onboard_time": 1765329981,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42683,
+      "num": 135477,
+      "word": "我国成功发射一箭九星",
+      "onboard_time": 1765355781,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42578,
@@ -2171,14 +2355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26167,
-      "num": 119590,
-      "word": "老舅友情出演姚安娜",
-      "onboard_time": 1765352362,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25581,
       "num": 44431,
       "word": "电影狂野时代",
@@ -2305,6 +2481,14 @@
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13060,
+      "num": 131952,
+      "word": "在郑州遗址公园见证仰韶7000年",
+      "onboard_time": 1765353681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11156,
