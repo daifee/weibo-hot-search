@@ -1,6 +1,6 @@
 {
   "startTime": 1765298179769,
-  "endTime": 1765344589427,
+  "endTime": 1765345554422,
   "band_list": [
     {
       "raw_hot": 1910823,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1778889,
-      "num": 269522,
+      "num": 352000,
       "word": "王鸥女儿都这么大了",
       "onboard_time": 1765330822,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1399999,
-      "num": 372230,
+      "num": 400229,
       "word": "何九华 王鸥",
       "onboard_time": 1765332861,
       "rank": 27,
@@ -65,6 +65,14 @@
       "onboard_time": 1765322899,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1051898,
+      "num": 1051898,
+      "word": "马年春晚官宣",
+      "onboard_time": 1765344499,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1028863,
@@ -251,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376200,
+      "num": 376200,
+      "word": "孙俪教邓超减肥 3周腰围小4厘米",
+      "onboard_time": 1765343541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360796,
+      "num": 360796,
+      "word": "学校火灾致13死校方逼家长签协议",
+      "onboard_time": 1765341562,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342582,
       "num": 342582,
       "word": "中戏",
@@ -275,12 +299,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 313594,
-      "num": 313594,
-      "word": "孙俪教邓超减肥 3周腰围小4厘米",
-      "onboard_time": 1765343541,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 328243,
+      "num": 328243,
+      "word": "男子飞无人机时在崖洞中发现干尸",
+      "onboard_time": 1765343302,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305139,
@@ -355,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 254330,
-      "num": 254330,
-      "word": "学校火灾致13死校方逼家长签协议",
-      "onboard_time": 1765341562,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241390,
       "num": 241390,
       "word": "狙击蝴蝶",
@@ -371,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235134,
-      "num": 235134,
-      "word": "男子飞无人机时在崖洞中发现干尸",
-      "onboard_time": 1765343302,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 236685,
+      "num": 236685,
+      "word": "苹果喊话iPhone用户更新iOS26",
+      "onboard_time": 1765343482,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 232391,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189452,
+      "num": 415007,
+      "word": "七个偶像练习生在综艺里吵起来了",
+      "onboard_time": 1765345221,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187435,
       "num": 187435,
       "word": "李鸿其哭着感谢太太王紫璇",
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177473,
-      "num": 177473,
-      "word": "苹果喊话iPhone用户更新iOS26",
-      "onboard_time": 1765343482,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 169533,
       "num": 237308,
       "word": "中日双方军舰通信录音公布",
@@ -579,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159954,
+      "num": 159954,
+      "word": "刘宇宁大连站售罄",
+      "onboard_time": 1765345101,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157817,
       "num": 384768,
       "word": "以为是故人之姿真故人之子",
@@ -609,14 +633,6 @@
       "onboard_time": 1765322778,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149669,
-      "num": 149669,
-      "word": "马年春晚官宣",
-      "onboard_time": 1765344499,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 148807,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 142472,
-      "num": 142472,
+      "num": 968179,
       "word": "Daeny BLG",
       "onboard_time": 1765343183,
       "rank": 38,
@@ -891,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102605,
+      "num": 102605,
+      "word": "医院通报张水华虚假理由获取调休",
+      "onboard_time": 1765344922,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102121,
       "num": 102121,
       "word": "寻秦记电影定档跨年",
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 84628,
-      "num": 414861,
+      "num": 426345,
       "word": "华妃为朕花心思了",
       "onboard_time": 1765343183,
       "rank": 19,
@@ -1312,6 +1336,14 @@
       "word": "男孩在校被打掉两颗门牙家长讨说法",
       "onboard_time": 1765322657,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66063,
+      "num": 419112,
+      "word": "因仅退款损失9万商家回应地域歧视",
+      "onboard_time": 1765344802,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1683,6 +1715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31328,
+      "num": 959277,
+      "word": "希望台湾民众行动起来",
+      "onboard_time": 1765344983,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30581,
       "num": 96611,
       "word": "潘宏狗市救狗",
@@ -1715,11 +1755,27 @@
       "category": "互联网,休闲"
     },
     {
+      "raw_hot": 28801,
+      "num": 140300,
+      "word": "益禾堂外卖包装被烟头烫破该谁赔",
+      "onboard_time": 1765344081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28382,
       "num": 195606,
       "word": "张水华50天5场马拉松奖金超20万",
       "onboard_time": 1765342282,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28079,
+      "num": 141709,
+      "word": "父亲因孩子改母姓拒付抚养费",
+      "onboard_time": 1765345041,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1729,6 +1785,14 @@
       "onboard_time": 1765339521,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27186,
+      "num": 439850,
+      "word": "鸿蒙智行五界全面深化合作",
+      "onboard_time": 1765344860,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 27155,
@@ -1873,14 +1937,6 @@
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11631,
-      "num": 140300,
-      "word": "益禾堂外卖包装被烟头烫破该谁赔",
-      "onboard_time": 1765344081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11156,

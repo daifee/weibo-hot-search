@@ -1,0 +1,410 @@
+{
+  "runTime": 1765345554422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740070,
+        "num": 1118411,
+        "word": "广东汕头火灾事故遇难人数升至12人",
+        "onboard_time": 1765340060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169595,
+        "num": 1117162,
+        "word": "四六级",
+        "onboard_time": 1765329503,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36988,
+        "num": 1104204,
+        "word": "48个场景百亿投资向海而兴",
+        "onboard_time": 1765341142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521306,
+        "num": 1088475,
+        "word": "医院回应最快女护士张水华被处分",
+        "onboard_time": 1765334360,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448562,
+        "num": 1079072,
+        "word": "俄乌冲突",
+        "onboard_time": 1765339222,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427649,
+        "num": 1072255,
+        "word": "TF家族新音官宣",
+        "onboard_time": 1765337001,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372775,
+        "num": 1061978,
+        "word": "最快女护士已影响科室正常排班",
+        "onboard_time": 1765337183,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051898,
+        "num": 1051898,
+        "word": "马年春晚官宣",
+        "onboard_time": 1765344499,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 968179,
+        "word": "Daeny BLG",
+        "onboard_time": 1765343183,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31328,
+        "num": 959277,
+        "word": "希望台湾民众行动起来",
+        "onboard_time": 1765344983,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 957854,
+        "num": 957854,
+        "word": "双轨 全集",
+        "onboard_time": 1765341023,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 935668,
+        "num": 935668,
+        "word": "陈晓陈妍希 风评",
+        "onboard_time": 1765340179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553584,
+        "num": 553584,
+        "word": "蓝战非 生物证据",
+        "onboard_time": 1765337001,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 462086,
+        "num": 462086,
+        "word": "嫌未婚妻吃得多挑轻活起诉退彩礼",
+        "onboard_time": 1765340422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79632,
+        "num": 443613,
+        "word": "iG官宣Daeny卸任",
+        "onboard_time": 1765340242,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 443516,
+        "num": 443516,
+        "word": "乔任梁爸爸因吃8个死蟹住院",
+        "onboard_time": 1765290144,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27186,
+        "num": 439850,
+        "word": "鸿蒙智行五界全面深化合作",
+        "onboard_time": 1765344860,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62242,
+        "num": 426345,
+        "word": "华妃为朕花心思了",
+        "onboard_time": 1765343183,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66063,
+        "num": 419112,
+        "word": "因仅退款损失9万商家回应地域歧视",
+        "onboard_time": 1765344802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189452,
+        "num": 415007,
+        "word": "七个偶像练习生在综艺里吵起来了",
+        "onboard_time": 1765345221,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634714,
+        "num": 400229,
+        "word": "何九华 王鸥",
+        "onboard_time": 1765332861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396950,
+        "num": 396950,
+        "word": "儿子回应洪金宝回春",
+        "onboard_time": 1765341862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376200,
+        "num": 376200,
+        "word": "孙俪教邓超减肥 3周腰围小4厘米",
+        "onboard_time": 1765343541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363435,
+        "num": 363435,
+        "word": "黄子韬叫陈梦姐后给了自己一巴掌",
+        "onboard_time": 1765339941,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 360796,
+        "num": 360796,
+        "word": "学校火灾致13死校方逼家长签协议",
+        "onboard_time": 1765341562,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381380,
+        "num": 352000,
+        "word": "王鸥女儿都这么大了",
+        "onboard_time": 1765330822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328243,
+        "num": 328243,
+        "word": "男子飞无人机时在崖洞中发现干尸",
+        "onboard_time": 1765343302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322087,
+        "num": 322087,
+        "word": "双轨",
+        "onboard_time": 1765325901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252348,
+        "num": 252348,
+        "word": "金晨把腿放到黄景瑜腿上",
+        "onboard_time": 1765322899,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184930,
+        "num": 251937,
+        "word": "中国景点被误标地点为日本",
+        "onboard_time": 1765332562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251767,
+        "num": 251767,
+        "word": "女子一周喝三次奶茶确诊糖尿病",
+        "onboard_time": 1765335680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236685,
+        "num": 236685,
+        "word": "苹果喊话iPhone用户更新iOS26",
+        "onboard_time": 1765343482,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181156,
+        "num": 181156,
+        "word": "小米将承担门店调整损失约2726万元",
+        "onboard_time": 1765333520,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176598,
+        "num": 176598,
+        "word": "电视剧老舅定档",
+        "onboard_time": 1765343782,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21761,
+        "num": 175970,
+        "word": "时代少年团的节日桶你有了吗",
+        "onboard_time": 1765339521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175873,
+        "num": 175873,
+        "word": "原神",
+        "onboard_time": 1765343302,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174111,
+        "num": 174111,
+        "word": "外交官辟谣这是中国不是日本",
+        "onboard_time": 1765332320,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 159954,
+        "num": 159954,
+        "word": "刘宇宁大连站售罄",
+        "onboard_time": 1765345101,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145378,
+        "num": 145378,
+        "word": "大学四年没人知道我带了假发",
+        "onboard_time": 1765341743,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 28079,
+        "num": 141709,
+        "word": "父亲因孩子改母姓拒付抚养费",
+        "onboard_time": 1765345041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140739,
+        "num": 140739,
+        "word": "浙江卫视工作人员聊天记录",
+        "onboard_time": 1765335380,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130052,
+        "num": 130052,
+        "word": "太爱辞职了但完全没gap",
+        "onboard_time": 1765339641,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125015,
+        "num": 125015,
+        "word": "新音 划区",
+        "onboard_time": 1765341081,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123696,
+        "num": 123696,
+        "word": "家人回应最快女护士被医院处分",
+        "onboard_time": 1765344202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28801,
+        "num": 118157,
+        "word": "益禾堂外卖包装被烟头烫破该谁赔",
+        "onboard_time": 1765344081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117573,
+        "num": 117573,
+        "word": "许绍雄离世细节",
+        "onboard_time": 1765334960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113039,
+        "num": 113039,
+        "word": "周柯宇就这样回味吻戏",
+        "onboard_time": 1765343242,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111986,
+        "num": 111986,
+        "word": "狙击蝴蝶今晚不播这段找人弄你",
+        "onboard_time": 1765339101,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105480,
+        "num": 105480,
+        "word": "张杰跨年演唱会预售",
+        "onboard_time": 1765341502,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102605,
+        "num": 102605,
+        "word": "医院通报张水华虚假理由获取调休",
+        "onboard_time": 1765344922,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水到治国总书记这样说#"
+    }
+  }
+}
