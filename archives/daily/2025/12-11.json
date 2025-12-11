@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765461440785,
+  "endTime": 1765463399962,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1058207,
+      "num": 224763,
+      "word": "好一个乖乖女 徐梦洁",
+      "onboard_time": 1765461204,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942298,
       "num": 1150767,
       "word": "原来分手真的是一个人的事",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 795578,
-      "num": 200840,
+      "num": 224679,
       "word": "曝短剧演员收入",
       "onboard_time": 1765458503,
       "rank": 32,
@@ -291,12 +299,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 521075,
+      "num": 223925,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 23,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 512603,
       "num": 326924,
       "word": "神隐还是播早了",
       "onboard_time": 1765450761,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509882,
+      "num": 223305,
+      "word": "10人聚餐9人开溜男子看完账单傻眼",
+      "onboard_time": 1765459043,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500249,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 340086,
-      "num": 221984,
+      "num": 222213,
       "word": "敖瑞鹏请把背头焊死",
       "onboard_time": 1765456342,
       "rank": 30,
@@ -739,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281941,
+      "num": 281941,
+      "word": "孙颖莎震惊有可能一日三赛",
+      "onboard_time": 1765462943,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279502,
       "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226202,
+      "num": 457179,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765362501,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225522,
       "num": 225522,
       "word": "陈晓这是笑场了吗",
@@ -945,14 +985,6 @@
       "onboard_time": 1765412721,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 215293,
-      "num": 457179,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765362501,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 215240,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1765453822,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200111,
-      "num": 196099,
-      "word": "10人聚餐9人开溜男子看完账单傻眼",
-      "onboard_time": 1765459043,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199144,
@@ -1179,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181963,
+      "num": 181963,
+      "word": "原来你的床上已经有猫了",
+      "onboard_time": 1765461322,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181543,
       "num": 181543,
       "word": "有网友称已经囤了100支水银温度计",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1765447221,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168189,
-      "num": 168189,
-      "word": "好一个乖乖女 徐梦洁",
-      "onboard_time": 1765461204,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 168089,
@@ -1579,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143293,
-      "num": 143293,
-      "word": "原来你的床上已经有猫了",
-      "onboard_time": 1765461322,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142801,
       "num": 142801,
       "word": "郭柯宇再见爱人永远的白月光",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1765426522,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133526,
+      "num": 133526,
+      "word": "和陈妍希吃饭 回到我是毒妇前",
+      "onboard_time": 1765460603,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 133241,
@@ -2035,6 +2059,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121603,
+      "num": 121603,
+      "word": "景甜 顶级进化论",
+      "onboard_time": 1765463361,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121587,
       "num": 121587,
       "word": "压力大生闷气的人患甲状腺癌机率更大",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1765460003,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120973,
+      "num": 120973,
+      "word": "孙颖莎说只能好好休息了",
+      "onboard_time": 1765463003,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 120219,
@@ -2073,14 +2113,6 @@
       "onboard_time": 1765424842,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118857,
-      "num": 118857,
-      "word": "和陈妍希吃饭 回到我是毒妇前",
-      "onboard_time": 1765460603,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 117931,
@@ -2531,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99855,
+      "num": 99855,
+      "word": "五花八们",
+      "onboard_time": 1765463063,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99472,
       "num": 124709,
       "word": "陈晓新剧碰上老婆硬气不过三秒",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1765417340,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99203,
+      "num": 99203,
+      "word": "DRG对战TTG",
+      "onboard_time": 1765456101,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 98939,
@@ -2635,6 +2683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95652,
+      "num": 99250,
+      "word": "孙颖莎没有过多想结果",
+      "onboard_time": 1765462584,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95246,
       "num": 95246,
       "word": "原神唯一六星",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1765439421,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93095,
+      "num": 93095,
+      "word": "A股游戏龙头靠摩尔线程狂赚6.4亿",
+      "onboard_time": 1765462523,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 92547,
@@ -2864,6 +2928,14 @@
       "word": "32岁女子每天工作12小时突然中风",
       "onboard_time": 1765431621,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71172,
+      "num": 185235,
+      "word": "北京发布暴雪蓝警",
+      "onboard_time": 1765461803,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3155,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47626,
+      "num": 225786,
+      "word": "初雪就要来了",
+      "onboard_time": 1765460482,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46998,
       "num": 73380,
       "word": "比死神先来的是小狗的嘴筒子",
@@ -3265,14 +3345,6 @@
       "onboard_time": 1765379482,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41922,
-      "num": 199338,
-      "word": "中央明确普通高中优质本科扩招",
-      "onboard_time": 1765460543,
-      "rank": 23,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 41816,
@@ -3467,14 +3539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31760,
-      "num": 201654,
-      "word": "初雪就要来了",
-      "onboard_time": 1765460482,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31727,
       "num": 199470,
       "word": "2025最后一抹唇色诱惑",
@@ -3505,6 +3569,14 @@
       "onboard_time": 1765385837,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27551,
+      "num": 363003,
+      "word": "2025最后20天",
+      "onboard_time": 1765460752,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26780,
@@ -3627,6 +3699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22599,
+      "num": 92982,
+      "word": "灵活高效运用降准降息等工具",
+      "onboard_time": 1765461622,
+      "rank": 49,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 20503,
       "num": 101069,
       "word": "天然气项目投资上亿被告知无权经营",
@@ -3673,14 +3753,6 @@
       "onboard_time": 1765385718,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 17433,
-      "num": 363003,
-      "word": "2025最后20天",
-      "onboard_time": 1765460752,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17327,
