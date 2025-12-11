@@ -1,0 +1,410 @@
+{
+  "runTime": 1765446467795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 732368,
+        "num": 1117178,
+        "word": "字节跳动100元餐标的免费三餐",
+        "onboard_time": 1765438462,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 473873,
+        "num": 473873,
+        "word": "哈尔滨机场羽绒服洗2次不再出租",
+        "onboard_time": 1765441042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16795,
+        "num": 399157,
+        "word": "从五年规划看中国之治",
+        "onboard_time": 1765445241,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384818,
+        "num": 384818,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346789,
+        "num": 346789,
+        "word": "华为Mate80销量",
+        "onboard_time": 1765443083,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459269,
+        "num": 310039,
+        "word": "医院躺了2700多天的男子是植物人",
+        "onboard_time": 1765441521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268414,
+        "num": 268414,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257850,
+        "num": 257850,
+        "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
+        "onboard_time": 1765441883,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1070,
+        "num": 211257,
+        "word": "山海协同陆海联动绘就万里山河新画卷",
+        "onboard_time": 1765361480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199304,
+        "num": 199304,
+        "word": "王楚钦说莎莎一直在顶点",
+        "onboard_time": 1765444580,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 823692,
+        "num": 199230,
+        "word": "李现 我不叫李现",
+        "onboard_time": 1765443202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737360,
+        "num": 197165,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 427323,
+        "num": 196601,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407673,
+        "num": 195045,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295779,
+        "num": 194457,
+        "word": "聚酯纤维 人心中的成见是一座大山",
+        "onboard_time": 1765443802,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 290315,
+        "num": 192231,
+        "word": "王安宇第一次古装",
+        "onboard_time": 1765445361,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288725,
+        "num": 192162,
+        "word": "再见爱人5",
+        "onboard_time": 1765443861,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233103,
+        "num": 190466,
+        "word": "雪王卖早餐被吐槽有点贵",
+        "onboard_time": 1765443981,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212728,
+        "num": 188833,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55382,
+        "num": 187651,
+        "word": "迪奥与北京的一场全新对话",
+        "onboard_time": 1765444402,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 682050,
+        "num": 186654,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438709,
+        "num": 186284,
+        "word": "TFBOYS 帝国姐",
+        "onboard_time": 1765432221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341632,
+        "num": 184146,
+        "word": "马来西亚男孩残忍杀害女同学",
+        "onboard_time": 1765442360,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200838,
+        "num": 183438,
+        "word": "李昀锐 130斤不行130斤胖了",
+        "onboard_time": 1765437380,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182746,
+        "num": 182746,
+        "word": "女子为集娃娃到商场偷盲盒",
+        "onboard_time": 1765445423,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181511,
+        "num": 181511,
+        "word": "周也 豪门大小姐",
+        "onboard_time": 1765445120,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155421,
+        "num": 155421,
+        "word": "贾玲巴黎分玲",
+        "onboard_time": 1765437442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152120,
+        "num": 152120,
+        "word": "新一代鸿蒙电脑发布",
+        "onboard_time": 1765446320,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150025,
+        "num": 150025,
+        "word": "我辞职时就像蓝盈莹这样说",
+        "onboard_time": 1765446081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140328,
+        "num": 140328,
+        "word": "肖战 爱你老己先靠自己",
+        "onboard_time": 1765444161,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137889,
+        "num": 137889,
+        "word": "王楚钦孙颖莎打着打着笑了",
+        "onboard_time": 1765444461,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135333,
+        "num": 135333,
+        "word": "离婚后她举办了一个人的婚礼",
+        "onboard_time": 1765443142,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131885,
+        "num": 131885,
+        "word": "张本智和希望得到世界第一的称号",
+        "onboard_time": 1765446381,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129921,
+        "num": 129921,
+        "word": "HLE对战T1",
+        "onboard_time": 1765446023,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 128928,
+        "word": "张凌赫在我们公司楼下拍广告",
+        "onboard_time": 1765439543,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125504,
+        "num": 125504,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124514,
+        "num": 124514,
+        "word": "微博之夜推荐",
+        "onboard_time": 1765443620,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124454,
+        "num": 124454,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1765445541,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 122697,
+        "num": 122697,
+        "word": "陈妍希戒指习惯性戴回无名指",
+        "onboard_time": 1765445780,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "成都GG对战TE",
+        "onboard_time": 1765445361,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116883,
+        "num": 116883,
+        "word": "这一天请假的同学堪比丢了500块钱",
+        "onboard_time": 1765437803,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109739,
+        "num": 109739,
+        "word": "金饰克价涨到1337元",
+        "onboard_time": 1765442061,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109042,
+        "num": 109042,
+        "word": "ShowMaker发条单杀Scout沙皇",
+        "onboard_time": 1765446023,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14961,
+        "num": 107435,
+        "word": "2025中央经济工作会议",
+        "onboard_time": 1765446381,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13837,
+        "num": 106991,
+        "word": "林诗栋说梁靖崑一直不太好打",
+        "onboard_time": 1765444881,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106654,
+        "num": 106654,
+        "word": "iG官宣Photic加入",
+        "onboard_time": 1765441582,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103913,
+        "num": 103913,
+        "word": "狙击蝴蝶 市场没有放弃90后",
+        "onboard_time": 1765437200,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100835,
+        "num": 100835,
+        "word": "汪苏泷希林娜依高剪影借位吻",
+        "onboard_time": 1765443682,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95246,
+        "num": 95246,
+        "word": "原神唯一六星",
+        "onboard_time": 1765446320,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记用这4个字评价2025年#"
+    }
+  }
+}

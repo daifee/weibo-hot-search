@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765445674592,
+  "endTime": 1765446467795,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823692,
+      "num": 278979,
+      "word": "李现 我不叫李现",
+      "onboard_time": 1765443202,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819912,
       "num": 470223,
       "word": "沈梦辰创业半年倒闭",
@@ -1720,14 +1728,6 @@
       "word": "王梓莼回应了",
       "onboard_time": 1765096641,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 789483,
-      "num": 278979,
-      "word": "李现 我不叫李现",
-      "onboard_time": 1765443202,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2145,6 +2145,14 @@
       "onboard_time": 1764831802,
       "rank": 10,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 682050,
+      "num": 186654,
+      "word": "赵樱子官宣小12岁男友",
+      "onboard_time": 1765445481,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 680273,
@@ -5636,7 +5644,7 @@
     },
     {
       "raw_hot": 388314,
-      "num": 175022,
+      "num": 184146,
       "word": "马来西亚男孩残忍杀害女同学",
       "onboard_time": 1765442360,
       "rank": 44,
@@ -7779,6 +7787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295779,
+      "num": 194457,
+      "word": "聚酯纤维 人心中的成见是一座大山",
+      "onboard_time": 1765443802,
+      "rank": 19,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 295541,
       "num": 475393,
       "word": "被白嫖家教的清华小伙已收到课时费",
@@ -7875,6 +7891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 290315,
+      "num": 238433,
+      "word": "王安宇第一次古装",
+      "onboard_time": 1765445361,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290008,
       "num": 254409,
       "word": "得闲谨制豆瓣开分6.9",
@@ -7904,6 +7928,14 @@
       "word": "常华森 灰衣服绿内搭",
       "onboard_time": 1765004361,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288725,
+      "num": 202529,
+      "word": "再见爱人5",
+      "onboard_time": 1765443861,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -9395,14 +9427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238433,
-      "num": 238433,
-      "word": "王安宇第一次古装",
-      "onboard_time": 1765445361,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "尖叫之夜红毯主持人",
@@ -9633,6 +9657,14 @@
       "onboard_time": 1764833661,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233103,
+      "num": 190466,
+      "word": "雪王卖早餐被吐槽有点贵",
+      "onboard_time": 1765443981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232754,
@@ -11435,14 +11467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202529,
-      "num": 202529,
-      "word": "再见爱人5",
-      "onboard_time": 1765443861,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202438,
       "num": 1012830,
       "word": "孙颖莎回应比赛拖场",
@@ -11681,6 +11705,14 @@
       "onboard_time": 1764843443,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199304,
+      "num": 288718,
+      "word": "王楚钦说莎莎一直在顶点",
+      "onboard_time": 1765444580,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 199242,
@@ -12393,14 +12425,6 @@
       "onboard_time": 1764851722,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190052,
-      "num": 190052,
-      "word": "雪王卖早餐被吐槽有点贵",
-      "onboard_time": 1765443981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189956,
@@ -13123,6 +13147,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 182746,
+      "num": 182746,
+      "word": "女子为集娃娃到商场偷盲盒",
+      "onboard_time": 1765445423,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182527,
       "num": 182527,
       "word": "童瑶陪老公聚餐",
@@ -13265,6 +13297,14 @@
       "onboard_time": 1765410079,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181511,
+      "num": 181511,
+      "word": "周也 豪门大小姐",
+      "onboard_time": 1765445120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 181469,
@@ -13473,14 +13513,6 @@
       "onboard_time": 1764755784,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178893,
-      "num": 178893,
-      "word": "聚酯纤维 人心中的成见是一座大山",
-      "onboard_time": 1765443802,
-      "rank": 19,
-      "category": "休闲"
     },
     {
       "raw_hot": 178771,
@@ -15003,14 +15035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161782,
-      "num": 288718,
-      "word": "王楚钦说莎莎一直在顶点",
-      "onboard_time": 1765444580,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161725,
       "num": 161725,
       "word": "爱马仕继承人被曝坐廉航出行",
@@ -16219,6 +16243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152120,
+      "num": 152120,
+      "word": "新一代鸿蒙电脑发布",
+      "onboard_time": 1765446320,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152017,
       "num": 152017,
       "word": "这4种基因很容易隔代遗传",
@@ -16459,6 +16491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150025,
+      "num": 150025,
+      "word": "我辞职时就像蓝盈莹这样说",
+      "onboard_time": 1765446081,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150006,
       "num": 164399,
       "word": "尼非法摘取器官场所现100多具尸体",
@@ -16697,14 +16737,6 @@
       "onboard_time": 1764495141,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 148169,
-      "num": 148169,
-      "word": "赵樱子官宣小12岁男友",
-      "onboard_time": 1765445481,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 148126,
@@ -19171,6 +19203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131885,
+      "num": 131885,
+      "word": "张本智和希望得到世界第一的称号",
+      "onboard_time": 1765446381,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131877,
       "num": 131877,
       "word": "卢昱晓完全是台偶女主",
@@ -19563,6 +19603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129921,
+      "num": 129921,
+      "word": "HLE对战T1",
+      "onboard_time": 1765446023,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129898,
       "num": 129898,
       "word": "抖音高管回应红楼梦悼明说",
@@ -19769,14 +19817,6 @@
       "onboard_time": 1764804078,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128615,
-      "num": 128615,
-      "word": "女子为集娃娃到商场偷盲盒",
-      "onboard_time": 1765445423,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128473,
@@ -20435,12 +20475,28 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 124514,
+      "num": 124514,
+      "word": "微博之夜推荐",
+      "onboard_time": 1765443620,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124492,
       "num": 622117,
       "word": "看极光去北欧要3万去漠河仅3千",
       "onboard_time": 1765167622,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124454,
+      "num": 124454,
+      "word": "33岁苦练化妆2个月的变化",
+      "onboard_time": 1765445541,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 124416,
@@ -20785,6 +20841,14 @@
       "onboard_time": 1764653721,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122697,
+      "num": 122697,
+      "word": "陈妍希戒指习惯性戴回无名指",
+      "onboard_time": 1765445780,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 122689,
@@ -21185,14 +21249,6 @@
       "onboard_time": 1764915503,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120696,
-      "num": 120696,
-      "word": "周也 豪门大小姐",
-      "onboard_time": 1765445120,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 120579,
@@ -23755,6 +23811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109042,
+      "num": 109042,
+      "word": "ShowMaker发条单杀Scout沙皇",
+      "onboard_time": 1765446023,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108963,
       "num": 108963,
       "word": "抗癌针等19种药品纳入首版商保目录",
@@ -24201,14 +24265,6 @@
       "onboard_time": 1764900321,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106772,
-      "num": 106772,
-      "word": "33岁苦练化妆2个月的变化",
-      "onboard_time": 1765445541,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 106768,
@@ -25385,14 +25441,6 @@
       "onboard_time": 1765284021,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101772,
-      "num": 101772,
-      "word": "微博之夜推荐",
-      "onboard_time": 1765443620,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 101736,
@@ -26769,6 +26817,14 @@
       "onboard_time": 1764847943,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95246,
+      "num": 95246,
+      "word": "原神唯一六星",
+      "onboard_time": 1765446320,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95197,
@@ -31867,6 +31923,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 55382,
+      "num": 193313,
+      "word": "迪奥与北京的一场全新对话",
+      "onboard_time": 1765444402,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 55354,
       "num": 109202,
       "word": "张凌赫问柚子叶是什么意思",
@@ -33833,14 +33897,6 @@
       "onboard_time": 1765255522,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40528,
-      "num": 193313,
-      "word": "迪奥与北京的一场全新对话",
-      "onboard_time": 1765444402,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 40427,
@@ -36995,6 +37051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16795,
+      "num": 450565,
+      "word": "从五年规划看中国之治",
+      "onboard_time": 1765445241,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16690,
       "num": 142707,
       "word": "特朗普想给美式足球改名",
@@ -37219,6 +37283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14961,
+      "num": 107435,
+      "word": "2025中央经济工作会议",
+      "onboard_time": 1765446381,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14912,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
@@ -37289,6 +37361,14 @@
       "onboard_time": 1765190542,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13837,
+      "num": 133981,
+      "word": "林诗栋说梁靖崑一直不太好打",
+      "onboard_time": 1765444881,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 13788,
@@ -37611,14 +37691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10675,
-      "num": 450565,
-      "word": "从五年规划看中国之治",
-      "onboard_time": 1765445241,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10456,
       "num": 216609,
       "word": "真人易容头套网上热卖",
@@ -37696,14 +37768,6 @@
       "word": "弗朗西斯卡说看全运会学到很多",
       "onboard_time": 1765192161,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9333,
-      "num": 133981,
-      "word": "林诗栋说梁靖崑一直不太好打",
-      "onboard_time": 1765444881,
-      "rank": 38,
       "category": "体育"
     },
     {
