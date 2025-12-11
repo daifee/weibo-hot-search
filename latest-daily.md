@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/12 00:40:28 ~ 2025/12/12 02:40:08
+本榜单时间：2025/12/12 00:40:28 ~ 2025/12/12 02:55:10
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ Zeka三次单杀Faker（热度：47356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BD%AE%E5%AF%92%E6%BD%AE%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+这轮寒潮威力有多大（热度：18956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E9%A1%BB%E4%BB%A5%E8%8B%A6%E7%BB%83%E5%86%85%E5%8A%9F%E6%9D%A5%E5%BA%94%E5%AF%B9%E5%A4%96%E9%83%A8%E6%8C%91%E6%88%98%23" target="weibo">
 必须以苦练内功来应对外部挑战（热度：18744）
 </a>
@@ -411,8 +417,8 @@ WTT香港总决赛（热度：16363）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BD%AE%E5%AF%92%E6%BD%AE%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-这轮寒潮威力有多大（热度：16177）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%23" target="weibo">
+王者荣耀挑战者杯（热度：16306）
 </a>
 </li>
 

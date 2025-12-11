@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765478408499,
+  "endTime": 1765479310233,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18956,
+      "num": 28447,
+      "word": "这轮寒潮威力有多大",
+      "onboard_time": 1765478054,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18744,
       "num": 28538,
       "word": "必须以苦练内功来应对外部挑战",
@@ -524,23 +532,23 @@
     },
     {
       "raw_hot": 16363,
-      "num": 28465,
+      "num": 34139,
       "word": "WTT香港总决赛",
       "onboard_time": 1765460062,
       "rank": 47,
       "category": "体育"
     },
     {
-      "raw_hot": 16177,
-      "num": 28447,
-      "word": "这轮寒潮威力有多大",
-      "onboard_time": 1765478054,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 16306,
+      "num": 42357,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1765462282,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 15934,
-      "num": 28440,
+      "num": 36147,
       "word": "四六级",
       "onboard_time": 1765460003,
       "rank": 49,
