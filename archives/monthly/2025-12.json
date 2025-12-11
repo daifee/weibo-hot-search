@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765458858121,
+  "endTime": 1765460831642,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1765030404,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 783219,
+      "num": 200840,
+      "word": "曝短剧演员收入",
+      "onboard_time": 1765458503,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 783164,
@@ -4764,7 +4772,7 @@
     },
     {
       "raw_hot": 444437,
-      "num": 289138,
+      "num": 338955,
       "word": "迪丽热巴长文告别枭起青壤",
       "onboard_time": 1765454602,
       "rank": 3,
@@ -4819,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442774,
+      "num": 362723,
+      "word": "SK发博",
+      "onboard_time": 1765459222,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 441578,
       "num": 339408,
       "word": "霍建华朱珠 好标准的男人和女人",
@@ -4857,6 +4873,14 @@
       "onboard_time": 1764645801,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 437938,
+      "num": 238456,
+      "word": "王玉雯 这把冲刘亦菲来的",
+      "onboard_time": 1765451960,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437648,
@@ -5209,14 +5233,6 @@
       "onboard_time": 1764638060,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 417596,
-      "num": 238456,
-      "word": "王玉雯 这把冲刘亦菲来的",
-      "onboard_time": 1765451960,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417024,
@@ -6123,6 +6139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367022,
+      "num": 367022,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1765456821,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366906,
       "num": 299338,
       "word": "保温杯四不放",
@@ -6257,6 +6281,14 @@
       "onboard_time": 1765017322,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362347,
+      "num": 362347,
+      "word": "蜜雪冰城早餐价格",
+      "onboard_time": 1765456041,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361714,
@@ -6793,6 +6825,14 @@
       "onboard_time": 1764822383,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339907,
+      "num": 221984,
+      "word": "敖瑞鹏请把背头焊死",
+      "onboard_time": 1765456342,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 338438,
@@ -8051,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288936,
+      "num": 238145,
+      "word": "再见爱人这一期好好哭",
+      "onboard_time": 1765458323,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288725,
       "num": 237279,
       "word": "再见爱人5",
@@ -8393,6 +8441,14 @@
       "onboard_time": 1765110800,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276479,
+      "num": 238337,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276354,
@@ -9147,14 +9203,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 252866,
-      "num": 238364,
-      "word": "蜜雪冰城早餐价格",
-      "onboard_time": 1765456041,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252817,
       "num": 148046,
       "word": "刘亦菲洪世贤 全女回家的诱惑",
@@ -9411,14 +9459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243075,
-      "num": 238145,
-      "word": "再见爱人这一期好好哭",
-      "onboard_time": 1765458323,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242787,
       "num": 242787,
       "word": "广东省考",
@@ -9593,14 +9633,6 @@
       "onboard_time": 1764751343,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238522,
-      "num": 238522,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1765456821,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 238330,
@@ -10305,14 +10337,6 @@
       "onboard_time": 1764584482,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221984,
-      "num": 221984,
-      "word": "敖瑞鹏请把背头焊死",
-      "onboard_time": 1765456342,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 221565,
@@ -12195,6 +12219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196099,
+      "num": 196099,
+      "word": "10人聚餐9人开溜男子看完账单傻眼",
+      "onboard_time": 1765459043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195884,
       "num": 195884,
       "word": "华策影视严正声明",
@@ -13227,14 +13259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184317,
-      "num": 184317,
-      "word": "曝短剧演员收入",
-      "onboard_time": 1765458503,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184228,
       "num": 184228,
       "word": "米卡全家都被中国圈粉了",
@@ -13683,6 +13707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180129,
+      "num": 225482,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765185261,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180107,
       "num": 93821,
       "word": "小伙2分钟吃73根辣条赢7300元",
@@ -13881,6 +13913,14 @@
       "onboard_time": 1764905840,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176698,
+      "num": 176698,
+      "word": "孙颖莎4比0胜王艺迪",
+      "onboard_time": 1765460062,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 176685,
@@ -14329,6 +14369,14 @@
       "onboard_time": 1764567144,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171371,
+      "num": 171371,
+      "word": "孙颖莎晋级香港总决赛8强",
+      "onboard_time": 1765459822,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 171317,
@@ -14819,6 +14867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166521,
+      "num": 166521,
+      "word": "吴磊星光值暴涨",
+      "onboard_time": 1765459103,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166505,
       "num": 166505,
       "word": "台湾地震",
@@ -15153,14 +15209,6 @@
       "onboard_time": 1765370361,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163116,
-      "num": 238337,
-      "word": "台当局扬言报复韩国",
-      "onboard_time": 1765457661,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162958,
@@ -15569,6 +15617,14 @@
       "onboard_time": 1765025364,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159369,
+      "num": 159369,
+      "word": "0713不会真去拍短剧了吧",
+      "onboard_time": 1765458503,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 159214,
@@ -17363,6 +17419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145503,
+      "num": 145503,
+      "word": "伊藤美诚遗憾不能和孙颖莎交手",
+      "onboard_time": 1765460752,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145500,
       "num": 145500,
       "word": "黄雅琼婚礼最热闹的一桌",
@@ -18515,6 +18579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137698,
+      "num": 137698,
+      "word": "周柯宇收拾好锅碗瓢盆准备升咖吧",
+      "onboard_time": 1765455921,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137670,
       "num": 137670,
       "word": "这居然是陈晓黑图",
@@ -19113,14 +19185,6 @@
       "onboard_time": 1765005321,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134383,
-      "num": 134383,
-      "word": "周柯宇收拾好锅碗瓢盆准备升咖吧",
-      "onboard_time": 1765455921,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 134350,
@@ -20019,14 +20083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 129766,
-      "num": 126769,
-      "word": "0713不会真去拍短剧了吧",
-      "onboard_time": 1765458503,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129673,
       "num": 564068,
       "word": "国乒8比4瑞典",
@@ -20571,6 +20627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126495,
+      "num": 126495,
+      "word": "这些食物是结节加速器",
+      "onboard_time": 1765454479,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126377,
       "num": 126377,
       "word": "王力宏被歌迷讽刺到了",
@@ -20883,14 +20947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124595,
-      "num": 124595,
-      "word": "这些食物是结节加速器",
-      "onboard_time": 1765454479,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124589,
       "num": 124589,
       "word": "万千惠脚底生花抹胸裙",
@@ -21193,6 +21249,14 @@
       "onboard_time": 1765178422,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123135,
+      "num": 123135,
+      "word": "张真源 蚂蝗你别过来啊",
+      "onboard_time": 1765459523,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 123071,
@@ -21569,6 +21633,14 @@
       "onboard_time": 1765278082,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121486,
+      "num": 121486,
+      "word": "宋雨琦画的中分草莓",
+      "onboard_time": 1765460003,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 121434,
@@ -28443,6 +28515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89742,
+      "num": 199208,
+      "word": "人民日报专访得闲谨制剧组",
+      "onboard_time": 1765458862,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89662,
       "num": 109197,
       "word": "即刻上场",
@@ -34059,14 +34139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43916,
-      "num": 225482,
-      "word": "WTT香港总决赛",
-      "onboard_time": 1765185261,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43886,
       "num": 254300,
       "word": "我在南极开挖掘机",
@@ -36524,7 +36596,7 @@
     },
     {
       "raw_hot": 26544,
-      "num": 151937,
+      "num": 200575,
       "word": "世界银行上调2025年中国经济增速预期",
       "onboard_time": 1765444342,
       "rank": 29,
@@ -37691,6 +37763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17269,
+      "num": 199338,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 23,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 17230,
       "num": 133781,
       "word": "新国标电动自行车能否搭载儿童",
@@ -38347,6 +38427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11182,
+      "num": 201654,
+      "word": "初雪就要来了",
+      "onboard_time": 1765460482,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11156,
       "num": 180465,
       "word": "冰雪大世界建造现场科幻片既视感",
@@ -38377,6 +38465,14 @@
       "onboard_time": 1764943522,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10734,
+      "num": 199969,
+      "word": "回望2025中国经济",
+      "onboard_time": 1765460482,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10696,
@@ -38467,6 +38563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9173,
+      "num": 363003,
+      "word": "2025最后20天",
+      "onboard_time": 1765460752,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7660,
       "num": 818780,
       "word": "做好6件事保护呼吸道",
@@ -38497,6 +38601,14 @@
       "onboard_time": 1765049354,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6491,
+      "num": 203561,
+      "word": "这些大国重器震撼人心",
+      "onboard_time": 1765460752,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6456,
