@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765446467795,
+  "endTime": 1765449224754,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -201,6 +201,14 @@
       "onboard_time": 1765427544,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1516270,
+      "num": 186654,
+      "word": "赵樱子官宣小12岁男友",
+      "onboard_time": 1765445481,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1482958,
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 682050,
-      "num": 186654,
-      "word": "赵樱子官宣小12岁男友",
-      "onboard_time": 1765445481,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 680273,
       "num": 680273,
       "word": "山东省考 谁出的图推",
@@ -1008,6 +1008,14 @@
       "word": "郭碧婷 向太有给很多钱",
       "onboard_time": 1765359561,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 674346,
+      "num": 162827,
+      "word": "网友把何炅喝过的水保存了20年",
+      "onboard_time": 1765447221,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1195,12 +1203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 616114,
+      "num": 202456,
+      "word": "聚酯纤维 人心中的成见是一座大山",
+      "onboard_time": 1765443802,
+      "rank": 19,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 613196,
       "num": 448383,
       "word": "很多胃癌是一口一口吃出来的",
       "onboard_time": 1765125198,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 608497,
+      "num": 1097359,
+      "word": "雪王卖早餐被吐槽有点贵",
+      "onboard_time": 1765443981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597891,
@@ -1404,7 +1428,7 @@
     },
     {
       "raw_hot": 547047,
-      "num": 268082,
+      "num": 463705,
       "word": "微博之夜",
       "onboard_time": 1765443561,
       "rank": 12,
@@ -3419,14 +3443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 295779,
-      "num": 194457,
-      "word": "聚酯纤维 人心中的成见是一座大山",
-      "onboard_time": 1765443802,
-      "rank": 19,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 295541,
       "num": 475393,
       "word": "被白嫖家教的清华小伙已收到课时费",
@@ -4219,12 +4235,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 233103,
-      "num": 190466,
-      "word": "雪王卖早餐被吐槽有点贵",
-      "onboard_time": 1765443981,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "HLE对战T1",
+      "onboard_time": 1765446023,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 232754,
@@ -5883,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178055,
+      "num": 158321,
+      "word": "33岁苦练化妆2个月的变化",
+      "onboard_time": 1765445541,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 177371,
       "num": 462422,
       "word": "王楚钦孙颖莎vs吴晙诚崔孝珠",
@@ -6667,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157079,
+      "num": 157079,
+      "word": "摔的是彭昱畅疼的是成龙",
+      "onboard_time": 1765447282,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156988,
       "num": 193502,
       "word": "12306出新功能了",
@@ -6995,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151243,
+      "num": 145993,
+      "word": "陈晓你火到我老板了",
+      "onboard_time": 1765449021,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151093,
       "num": 151093,
       "word": "李少红用Mate80随手拍出电影感",
@@ -7139,6 +7179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148564,
+      "num": 146160,
+      "word": "迈凯伦首款SUV",
+      "onboard_time": 1765446501,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148547,
       "num": 148547,
       "word": "蓝盈莹民国不养闲散大小姐",
@@ -7201,6 +7249,14 @@
       "onboard_time": 1765358061,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147529,
+      "num": 166727,
+      "word": "王一博的手脚各有各的KPI",
+      "onboard_time": 1765447882,
+      "rank": 20,
+      "category": "综艺,电影"
     },
     {
       "raw_hot": 147511,
@@ -7273,6 +7329,14 @@
       "onboard_time": 1765118004,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146328,
+      "num": 146328,
+      "word": "向佐郭碧婷为尼泊尔捐赠医院",
+      "onboard_time": 1765447822,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 145869,
@@ -8419,6 +8483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130903,
+      "num": 130903,
+      "word": "男子花36万买毒品到手竟是味精",
+      "onboard_time": 1765447641,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130827,
       "num": 130827,
       "word": "日本分析师称春节旅游情况将十分严峻",
@@ -8513,14 +8585,6 @@
       "onboard_time": 1765268902,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129921,
-      "num": 129921,
-      "word": "HLE对战T1",
-      "onboard_time": 1765446023,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 129898,
@@ -8931,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124802,
+      "num": 124802,
+      "word": "陈妍希说妹妹姐是什么意思",
+      "onboard_time": 1765448960,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124737,
       "num": 127674,
       "word": "情久对战TTG",
@@ -8969,14 +9041,6 @@
       "onboard_time": 1765167622,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124454,
-      "num": 124454,
-      "word": "33岁苦练化妆2个月的变化",
-      "onboard_time": 1765445541,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 124355,
@@ -10683,6 +10747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108770,
+      "num": 108770,
+      "word": "是谁发明的用电饭锅抢东西",
+      "onboard_time": 1765446681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108743,
       "num": 108743,
       "word": "声优西村知道去世",
@@ -11091,6 +11163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104941,
+      "num": 104941,
+      "word": "痞幼恋综同款豪车全球仅300台",
+      "onboard_time": 1765446681,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104792,
       "num": 104792,
       "word": "你上辈子在军情六处干过吧",
@@ -11387,6 +11467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101863,
+      "num": 101315,
+      "word": "RNG最后一个选手也离队了",
+      "onboard_time": 1765448122,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101789,
       "num": 179252,
       "word": "女护士患癌请病假遭拒",
@@ -11449,6 +11537,14 @@
       "onboard_time": 1765275202,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101418,
+      "num": 101418,
+      "word": "狙击蝴蝶 又土又纯又有性张力",
+      "onboard_time": 1765448479,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 101402,
@@ -11585,6 +11681,14 @@
       "onboard_time": 1765326141,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100081,
+      "num": 100081,
+      "word": "中方希望墨方及早纠正错误做法",
+      "onboard_time": 1765449021,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100024,
@@ -11777,6 +11881,14 @@
       "onboard_time": 1765409298,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97485,
+      "num": 97485,
+      "word": "着力稳定房地产市场",
+      "onboard_time": 1765448900,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97422,
@@ -13881,6 +13993,14 @@
       "onboard_time": 1765062977,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61041,
+      "num": 118215,
+      "word": "柬埔寨千年寺庙遭泰军炸毁",
+      "onboard_time": 1765448479,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60986,
@@ -16211,6 +16331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25179,
+      "num": 167551,
+      "word": "迪奥重视中国市场发展",
+      "onboard_time": 1765447522,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25101,
       "num": 199789,
       "word": "济南考研点酒店破千元",
@@ -16395,6 +16523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21894,
+      "num": 191575,
+      "word": "外交部回应高市最新言论",
+      "onboard_time": 1765448781,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21507,
       "num": 118114,
       "word": "肖战回应即兴表演被放入正片",
@@ -16473,6 +16609,14 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20147,
+      "num": 450565,
+      "word": "从五年规划看中国之治",
+      "onboard_time": 1765445241,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20087,
@@ -16705,14 +16849,6 @@
       "onboard_time": 1765353681,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16795,
-      "num": 450565,
-      "word": "从五年规划看中国之治",
-      "onboard_time": 1765445241,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16635,

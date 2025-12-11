@@ -1,0 +1,410 @@
+{
+  "runTime": 1765449224754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 608497,
+        "num": 1097359,
+        "word": "雪王卖早餐被吐槽有点贵",
+        "onboard_time": 1765443981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463705,
+        "num": 463705,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 335763,
+        "word": "从五年规划看中国之治",
+        "onboard_time": 1765445241,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292651,
+        "num": 292651,
+        "word": "哈尔滨机场羽绒服洗2次不再出租",
+        "onboard_time": 1765441042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234099,
+        "num": 234099,
+        "word": "HLE对战T1",
+        "onboard_time": 1765446023,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 700895,
+        "num": 231862,
+        "word": "字节跳动100元餐标的免费三餐",
+        "onboard_time": 1765438462,
+        "rank": 5,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 224042,
+        "num": 224042,
+        "word": "医院躺了2700多天的男子是植物人",
+        "onboard_time": 1765441521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215293,
+        "num": 215293,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765448061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1115,
+        "num": 211236,
+        "word": "山海协同陆海联动绘就万里山河新画卷",
+        "onboard_time": 1765361480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209575,
+        "num": 209575,
+        "word": "华为Mate80销量",
+        "onboard_time": 1765443083,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 632993,
+        "num": 207324,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 616114,
+        "num": 202456,
+        "word": "聚酯纤维 人心中的成见是一座大山",
+        "onboard_time": 1765443802,
+        "rank": 11,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 493209,
+        "num": 198701,
+        "word": "李现 我不叫李现",
+        "onboard_time": 1765443202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 191575,
+        "word": "外交部回应高市最新言论",
+        "onboard_time": 1765448781,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395686,
+        "num": 187331,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266645,
+        "num": 184009,
+        "word": "再见爱人5",
+        "onboard_time": 1765443861,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229140,
+        "num": 181465,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178045,
+        "num": 178045,
+        "word": "周也 豪门大小姐",
+        "onboard_time": 1765445120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168405,
+        "num": 168405,
+        "word": "得闲谨制",
+        "onboard_time": 1765447221,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25179,
+        "num": 167551,
+        "word": "迪奥重视中国市场发展",
+        "onboard_time": 1765447522,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147529,
+        "num": 166727,
+        "word": "王一博的手脚各有各的KPI",
+        "onboard_time": 1765447882,
+        "rank": 20,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 1516270,
+        "num": 164803,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674346,
+        "num": 162827,
+        "word": "网友把何炅喝过的水保存了20年",
+        "onboard_time": 1765447221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210168,
+        "num": 161052,
+        "word": "马来西亚男孩残忍杀害女同学",
+        "onboard_time": 1765442360,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 159075,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178055,
+        "num": 158321,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1765445541,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 157079,
+        "num": 157079,
+        "word": "摔的是彭昱畅疼的是成龙",
+        "onboard_time": 1765447282,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156358,
+        "num": 156358,
+        "word": "李昀锐 130斤不行130斤胖了",
+        "onboard_time": 1765437380,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36732,
+        "num": 149989,
+        "word": "迪奥与北京的一场全新对话",
+        "onboard_time": 1765444402,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 125377,
+        "num": 147724,
+        "word": "王楚钦孙颖莎打着打着笑了",
+        "onboard_time": 1765444461,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 146328,
+        "word": "向佐郭碧婷为尼泊尔捐赠医院",
+        "onboard_time": 1765447822,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148564,
+        "num": 146160,
+        "word": "迈凯伦首款SUV",
+        "onboard_time": 1765446501,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151243,
+        "num": 145993,
+        "word": "陈晓你火到我老板了",
+        "onboard_time": 1765449021,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145743,
+        "num": 145743,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130903,
+        "num": 130903,
+        "word": "男子花36万买毒品到手竟是味精",
+        "onboard_time": 1765447641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128654,
+        "num": 128654,
+        "word": "离婚后她举办了一个人的婚礼",
+        "onboard_time": 1765443142,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124972,
+        "num": 124972,
+        "word": "王楚钦说莎莎一直在顶点",
+        "onboard_time": 1765444580,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124802,
+        "num": 124802,
+        "word": "陈妍希说妹妹姐是什么意思",
+        "onboard_time": 1765448960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61041,
+        "num": 118215,
+        "word": "柬埔寨千年寺庙遭泰军炸毁",
+        "onboard_time": 1765448479,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117912,
+        "num": 117912,
+        "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
+        "onboard_time": 1765441883,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115515,
+        "num": 115515,
+        "word": "张本智和希望得到世界第一的称号",
+        "onboard_time": 1765446381,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115447,
+        "num": 115447,
+        "word": "王安宇第一次古装",
+        "onboard_time": 1765445361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108770,
+        "num": 108770,
+        "word": "是谁发明的用电饭锅抢东西",
+        "onboard_time": 1765446681,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106007,
+        "num": 106007,
+        "word": "陈妍希戒指习惯性戴回无名指",
+        "onboard_time": 1765445780,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104941,
+        "num": 104941,
+        "word": "痞幼恋综同款豪车全球仅300台",
+        "onboard_time": 1765446681,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101418,
+        "num": 101418,
+        "word": "狙击蝴蝶 又土又纯又有性张力",
+        "onboard_time": 1765448479,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101863,
+        "num": 101315,
+        "word": "RNG最后一个选手也离队了",
+        "onboard_time": 1765448122,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100081,
+        "num": 100081,
+        "word": "中方希望墨方及早纠正错误做法",
+        "onboard_time": 1765449021,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98498,
+        "num": 98498,
+        "word": "肖战 爱你老己先靠自己",
+        "onboard_time": 1765444161,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97485,
+        "num": 97485,
+        "word": "着力稳定房地产市场",
+        "onboard_time": 1765448900,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记用这4个字评价2025年#"
+    }
+  }
+}

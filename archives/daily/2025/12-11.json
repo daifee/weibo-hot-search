@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765446467795,
+  "endTime": 1765449224754,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -25,6 +25,14 @@
       "onboard_time": 1765427544,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1516270,
+      "num": 186654,
+      "word": "赵樱子官宣小12岁男友",
+      "onboard_time": 1765445481,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1482958,
@@ -139,20 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 682050,
-      "num": 186654,
-      "word": "赵樱子官宣小12岁男友",
-      "onboard_time": 1765445481,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 679124,
       "num": 695517,
       "word": "红学专家否定红楼梦悼明",
       "onboard_time": 1765414821,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 674346,
+      "num": 162827,
+      "word": "网友把何炅喝过的水保存了20年",
+      "onboard_time": 1765447221,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 672206,
@@ -195,6 +203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 616114,
+      "num": 202456,
+      "word": "聚酯纤维 人心中的成见是一座大山",
+      "onboard_time": 1765443802,
+      "rank": 19,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 608497,
+      "num": 1097359,
+      "word": "雪王卖早餐被吐槽有点贵",
+      "onboard_time": 1765443981,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596257,
       "num": 341937,
       "word": "暂时失去了在办公室吃苹果的权力",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 547047,
-      "num": 268082,
+      "num": 463705,
       "word": "微博之夜",
       "onboard_time": 1765443561,
       "rank": 12,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295779,
-      "num": 194457,
-      "word": "聚酯纤维 人心中的成见是一座大山",
-      "onboard_time": 1765443802,
-      "rank": 19,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 290315,
       "num": 238433,
       "word": "王安宇第一次古装",
@@ -643,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233103,
-      "num": 190466,
-      "word": "雪王卖早餐被吐槽有点贵",
-      "onboard_time": 1765443981,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "HLE对战T1",
+      "onboard_time": 1765446023,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 230686,
@@ -729,6 +745,14 @@
       "onboard_time": 1765412721,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 215293,
+      "num": 215293,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765362501,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 215240,
@@ -931,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178055,
+      "num": 158321,
+      "word": "33岁苦练化妆2个月的变化",
+      "onboard_time": 1765445541,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 176685,
       "num": 150387,
       "word": "王楚钦孙颖莎打着打着笑了",
@@ -993,6 +1025,14 @@
       "onboard_time": 1765417824,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168405,
+      "num": 168405,
+      "word": "得闲谨制",
+      "onboard_time": 1765447221,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 168089,
@@ -1059,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157079,
+      "num": 157079,
+      "word": "摔的是彭昱畅疼的是成龙",
+      "onboard_time": 1765447282,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155381,
       "num": 155381,
       "word": "银价疯涨",
@@ -1115,6 +1163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151243,
+      "num": 145993,
+      "word": "陈晓你火到我老板了",
+      "onboard_time": 1765449021,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151093,
       "num": 151093,
       "word": "李少红用Mate80随手拍出电影感",
@@ -1131,11 +1187,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148564,
+      "num": 146160,
+      "word": "迈凯伦首款SUV",
+      "onboard_time": 1765446501,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 147529,
+      "num": 166727,
+      "word": "王一博的手脚各有各的KPI",
+      "onboard_time": 1765447882,
+      "rank": 20,
+      "category": "综艺,电影"
+    },
+    {
       "raw_hot": 147326,
       "num": 142909,
       "word": "年初年末的黑马都是周柯宇",
       "onboard_time": 1765427601,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146328,
+      "num": 146328,
+      "word": "向佐郭碧婷为尼泊尔捐赠医院",
+      "onboard_time": 1765447822,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1347,19 +1427,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130903,
+      "num": 130903,
+      "word": "男子花36万买毒品到手竟是味精",
+      "onboard_time": 1765447641,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130100,
       "num": 130100,
       "word": "成都GG对战TE",
       "onboard_time": 1765445361,
       "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 129921,
-      "num": 129921,
-      "word": "HLE对战T1",
-      "onboard_time": 1765446023,
-      "rank": 33,
       "category": "电竞"
     },
     {
@@ -1411,20 +1491,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124802,
+      "num": 124802,
+      "word": "陈妍希说妹妹姐是什么意思",
+      "onboard_time": 1765448960,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124514,
       "num": 124514,
       "word": "微博之夜推荐",
       "onboard_time": 1765443620,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124454,
-      "num": 124454,
-      "word": "33岁苦练化妆2个月的变化",
-      "onboard_time": 1765445541,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 124004,
@@ -1715,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108770,
+      "num": 108770,
+      "word": "是谁发明的用电饭锅抢东西",
+      "onboard_time": 1765446681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108661,
       "num": 108661,
       "word": "张晚意 我也没有看到我资金的成长",
@@ -1787,6 +1875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104941,
+      "num": 104941,
+      "word": "痞幼恋综同款豪车全球仅300台",
+      "onboard_time": 1765446681,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104153,
       "num": 104153,
       "word": "钟文泽三星三折叠体验",
@@ -1851,6 +1947,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101863,
+      "num": 101315,
+      "word": "RNG最后一个选手也离队了",
+      "onboard_time": 1765448122,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101418,
+      "num": 101418,
+      "word": "狙击蝴蝶 又土又纯又有性张力",
+      "onboard_time": 1765448479,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101272,
       "num": 101272,
       "word": "Doinb谈LWX和刘青松和好",
@@ -1873,6 +1985,14 @@
       "onboard_time": 1765417702,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100081,
+      "num": 100081,
+      "word": "中方希望墨方及早纠正错误做法",
+      "onboard_time": 1765449021,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99472,
@@ -1913,6 +2033,14 @@
       "onboard_time": 1765409298,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97485,
+      "num": 97485,
+      "word": "着力稳定房地产市场",
+      "onboard_time": 1765448900,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97411,
@@ -2123,14 +2251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77327,
-      "num": 103110,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765362501,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72517,
       "num": 123213,
       "word": "32岁女子每天工作12小时突然中风",
@@ -2241,6 +2361,14 @@
       "onboard_time": 1765413682,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61041,
+      "num": 118215,
+      "word": "柬埔寨千年寺庙遭泰军炸毁",
+      "onboard_time": 1765448479,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60656,
@@ -2747,6 +2875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25179,
+      "num": 167551,
+      "word": "迪奥重视中国市场发展",
+      "onboard_time": 1765447522,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25101,
       "num": 199789,
       "word": "济南考研点酒店破千元",
@@ -2795,12 +2931,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21894,
+      "num": 191575,
+      "word": "外交部回应高市最新言论",
+      "onboard_time": 1765448781,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20503,
       "num": 101069,
       "word": "天然气项目投资上亿被告知无权经营",
       "onboard_time": 1765417824,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20147,
+      "num": 450565,
+      "word": "从五年规划看中国之治",
+      "onboard_time": 1765445241,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19398,
@@ -2833,14 +2985,6 @@
       "onboard_time": 1765371143,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16795,
-      "num": 450565,
-      "word": "从五年规划看中国之治",
-      "onboard_time": 1765445241,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14961,
@@ -2931,7 +3075,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1070,
+      "raw_hot": 1115,
       "num": 296938,
       "word": "山海协同陆海联动绘就万里山河新画卷",
       "onboard_time": 1765361480,
