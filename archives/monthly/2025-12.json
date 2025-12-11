@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765439098490,
+  "endTime": 1765442390564,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1765379721,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 793918,
+      "num": 1127026,
+      "word": "字节跳动100元餐标的免费三餐",
+      "onboard_time": 1765438462,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 792669,
@@ -3817,6 +3825,14 @@
       "onboard_time": 1765083081,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 497799,
+      "num": 497799,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1765437081,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 496725,
@@ -6267,6 +6283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351798,
+      "num": 185322,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
@@ -6353,6 +6377,14 @@
       "onboard_time": 1765005021,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349778,
+      "num": 184018,
+      "word": "李昀锐 130斤不行130斤胖了",
+      "onboard_time": 1765437380,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 349201,
@@ -7235,6 +7267,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 315132,
+      "num": 200459,
+      "word": "这一天请假的同学堪比丢了500块钱",
+      "onboard_time": 1765437803,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314996,
       "num": 262471,
       "word": "老吃家情侣不需要漂亮饭",
@@ -7697,6 +7737,14 @@
       "onboard_time": 1764723621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293956,
+      "num": 199702,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 293331,
@@ -8635,14 +8683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 260595,
-      "num": 148308,
-      "word": "贾玲巴黎分玲",
-      "onboard_time": 1765437442,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259929,
       "num": 259929,
       "word": "LV高管加入泡泡玛特",
@@ -9251,6 +9291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239675,
+      "num": 198261,
+      "word": "哈尔滨机场羽绒服洗2次不再出租",
+      "onboard_time": 1765441042,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239450,
       "num": 287328,
       "word": "现在就出发",
@@ -9585,14 +9633,6 @@
       "onboard_time": 1765032265,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231302,
-      "num": 145979,
-      "word": "李昀锐 130斤不行130斤胖了",
-      "onboard_time": 1765437380,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 231030,
@@ -10043,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219700,
+      "num": 196392,
+      "word": "王楚钦孙颖莎两连胜",
+      "onboard_time": 1765441762,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219537,
       "num": 776392,
       "word": "疯狂动物城2中国票房惊呆外媒",
@@ -10169,6 +10217,14 @@
       "onboard_time": 1764675682,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217678,
+      "num": 191430,
+      "word": "张凌赫在我们公司楼下拍广告",
+      "onboard_time": 1765439543,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 217671,
@@ -10401,6 +10457,14 @@
       "onboard_time": 1765358601,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212865,
+      "num": 212865,
+      "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
+      "onboard_time": 1765441883,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 212694,
@@ -11027,14 +11091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205241,
-      "num": 205241,
-      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
-      "onboard_time": 1765437081,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205127,
       "num": 205127,
       "word": "小镇做题家考上北大却患空心病",
@@ -11128,6 +11184,14 @@
       "word": "Uzi上线吃瓜",
       "onboard_time": 1764574102,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 204337,
+      "num": 136098,
+      "word": "iG官宣Photic加入",
+      "onboard_time": 1765441582,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -12627,14 +12691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186176,
-      "num": 139696,
-      "word": "这一天请假的同学堪比丢了500块钱",
-      "onboard_time": 1765437803,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186159,
       "num": 127998,
       "word": "郭碧婷回应和向太越长越像",
@@ -13065,6 +13121,14 @@
       "onboard_time": 1765253603,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182156,
+      "num": 182156,
+      "word": "孙俪还是太超前了",
+      "onboard_time": 1765439362,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182000,
@@ -14017,6 +14081,14 @@
       "onboard_time": 1764634581,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169573,
+      "num": 169573,
+      "word": "路人视角的张子萱",
+      "onboard_time": 1765438642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 169533,
@@ -18067,6 +18139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "金饰克价涨到1337元",
+      "onboard_time": 1765442061,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136620,
       "num": 136620,
       "word": "Peanut兵役推迟",
@@ -18193,6 +18273,22 @@
       "onboard_time": 1764833602,
       "rank": 42,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 135996,
+      "num": 135996,
+      "word": "湖南跨年晚会 全开麦",
+      "onboard_time": 1765439961,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135974,
+      "num": 135974,
+      "word": "水银体温计禁产令5年前就已发出",
+      "onboard_time": 1765440322,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135904,
@@ -18361,6 +18457,14 @@
       "onboard_time": 1765184000,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134832,
+      "num": 136134,
+      "word": "李少红用Mate80随手拍出电影感",
+      "onboard_time": 1765439481,
+      "rank": 30,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 134807,
@@ -19193,14 +19297,6 @@
       "onboard_time": 1764819202,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130462,
-      "num": 154900,
-      "word": "狙击蝴蝶 市场没有放弃90后",
-      "onboard_time": 1765437200,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 130398,
@@ -21587,6 +21683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117924,
+      "num": 194589,
+      "word": "医院躺了2700多天的男子是植物人",
+      "onboard_time": 1765441521,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117911,
       "num": 120219,
       "word": "田嘉瑞没买到疯狂动物城的票",
@@ -21969,6 +22073,14 @@
       "onboard_time": 1764926421,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 116208,
+      "num": 116208,
+      "word": "日方没有必要大惊小怪对号入座",
+      "onboard_time": 1765441703,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116179,
@@ -22401,14 +22513,6 @@
       "onboard_time": 1765112362,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114176,
-      "num": 114176,
-      "word": "字节跳动100元餐标的免费三餐",
-      "onboard_time": 1765438462,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 114110,
@@ -23011,6 +23115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111372,
+      "num": 111372,
+      "word": "5000万网红逃税1600万税款已追回",
+      "onboard_time": 1765441102,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 111323,
       "num": 111323,
       "word": "对人像模式的开发还是太少了",
@@ -23129,6 +23241,14 @@
       "onboard_time": 1765106602,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110679,
+      "num": 110679,
+      "word": "范曾与第四任妻子相差50岁",
+      "onboard_time": 1765440562,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110656,
@@ -23947,6 +24067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106656,
+      "num": 106656,
+      "word": "胖子生病vs瘦子生病",
+      "onboard_time": 1765440382,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106634,
       "num": 99859,
       "word": "狙击蝴蝶处处吻",
@@ -24617,6 +24745,14 @@
       "onboard_time": 1764731061,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103617,
+      "num": 103617,
+      "word": "周可人 是蒋易还是徐杭",
+      "onboard_time": 1765442122,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 103555,
@@ -25571,6 +25707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99812,
+      "num": 99812,
+      "word": "马来西亚男孩残忍杀害女同学",
+      "onboard_time": 1765442360,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99741,
       "num": 99741,
       "word": "狙击蝴蝶第1集哇第4集哇塞",
@@ -26163,6 +26307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96593,
+      "num": 96593,
+      "word": "当父母把我养了六年的猫扔了",
+      "onboard_time": 1765441703,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 96574,
       "num": 96574,
       "word": "詹姆斯谈巅峰赛季",
@@ -26739,6 +26891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93596,
+      "num": 93596,
+      "word": "气血不足的1个典型表现",
+      "onboard_time": 1765439421,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93576,
       "num": 93576,
       "word": "第一次见眼睛得脚气的",
@@ -27075,6 +27235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91811,
+      "num": 91811,
+      "word": "电话响了用号码查微信再联系",
+      "onboard_time": 1765441461,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 91809,
       "num": 91809,
       "word": "为什么我要隐藏博士学历",
@@ -27281,6 +27449,14 @@
       "onboard_time": 1764804018,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 90765,
+      "num": 90765,
+      "word": "别人是忌口 黄景瑜是多吃",
+      "onboard_time": 1765442360,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 90764,
@@ -28345,6 +28521,14 @@
       "onboard_time": 1765175901,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84113,
+      "num": 193812,
+      "word": "东北户外洗浴惊现机器人技师",
+      "onboard_time": 1765440982,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 84093,
@@ -30299,20 +30483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68056,
-      "num": 122064,
-      "word": "路人视角的张子萱",
-      "onboard_time": 1765438642,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67943,
       "num": 822068,
       "word": "尔滨雪人先生即将上线",
       "onboard_time": 1765165581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67913,
+      "num": 99983,
+      "word": "这是黄子韬还是黄子诚",
+      "onboard_time": 1765441042,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 67900,
@@ -36275,6 +36459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19682,
+      "num": 106725,
+      "word": "刘宇宁张峻豪cha了黄子弘凡新歌",
+      "onboard_time": 1765442241,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 19653,
       "num": 78631,
       "word": "2025斯诺克英锦赛",
@@ -36768,6 +36960,14 @@
       "word": "嗑上双强cp就发了狠忘了情",
       "onboard_time": 1764747260,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15500,
+      "num": 107573,
+      "word": "距离郭芙蓉赎身还有不到1个月",
+      "onboard_time": 1765441762,
+      "rank": 38,
       "category": "剧集"
     },
     {
