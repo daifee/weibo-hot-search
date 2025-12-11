@@ -1,0 +1,410 @@
+{
+  "runTime": 1765425677788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 242840,
+        "num": 1038854,
+        "word": "5000万网红偷税漏税被实名举报",
+        "onboard_time": 1765380561,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 207991,
+        "num": 684238,
+        "word": "卢伟冰宣布小米将发布自产中央空调",
+        "onboard_time": 1765424482,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 56198,
+        "num": 659692,
+        "word": "网警查处一起AI生成虚假低俗视频案",
+        "onboard_time": 1765413682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659266,
+        "num": 659266,
+        "word": "陈妍希台湾腔全给周柯宇一个人听了",
+        "onboard_time": 1765423520,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467821,
+        "num": 643150,
+        "word": "无汞玻璃体温计甩了100余次未成功",
+        "onboard_time": 1765418601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1492855,
+        "num": 628377,
+        "word": "papi妈妈",
+        "onboard_time": 1765419262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495403,
+        "num": 616029,
+        "word": "一无名男子在医院躺了7年半",
+        "onboard_time": 1765416861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362964,
+        "num": 597330,
+        "word": "红学专家否定红楼梦悼明",
+        "onboard_time": 1765414821,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 279777,
+        "num": 574851,
+        "word": "男子毒死9条宠物狗一审宣判",
+        "onboard_time": 1765415900,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 285569,
+        "num": 558108,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 556224,
+        "num": 556224,
+        "word": "爱奇艺回复双轨播出时间",
+        "onboard_time": 1765420161,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12386,
+        "num": 524399,
+        "word": "郝某涉案约9.7亿元被遣返",
+        "onboard_time": 1765425203,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515814,
+        "num": 515814,
+        "word": "吴宣仪 训粉",
+        "onboard_time": 1765416080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440618,
+        "num": 440618,
+        "word": "杨紫三封Queen",
+        "onboard_time": 1765421721,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146089,
+        "num": 361462,
+        "word": "原来魔芋爽是这么来的",
+        "onboard_time": 1765422261,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340622,
+        "num": 340622,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271292,
+        "num": 271292,
+        "word": "三十年前的奢侈品零食有多好吃",
+        "onboard_time": 1765423581,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265563,
+        "num": 265563,
+        "word": "女子熟睡遭男友喂堕胎药",
+        "onboard_time": 1765379721,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59703,
+        "num": 264599,
+        "word": "狗主人回应投毒男子获刑4年",
+        "onboard_time": 1765425203,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198893,
+        "num": 262485,
+        "word": "浙江卫视跨年晚会阵容官宣",
+        "onboard_time": 1765424962,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1206346,
+        "num": 261985,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540097,
+        "num": 258825,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507102,
+        "num": 258110,
+        "word": "金价",
+        "onboard_time": 1765420161,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257035,
+        "num": 257035,
+        "word": "暂时失去了在办公室吃苹果的权力",
+        "onboard_time": 1765415361,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288163,
+        "num": 256902,
+        "word": "曝经纪公司压榨即将到期的顶流",
+        "onboard_time": 1765418419,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284347,
+        "num": 255949,
+        "word": "张艺兴退股染色体娱乐",
+        "onboard_time": 1765424962,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261589,
+        "num": 255564,
+        "word": "小狗西高地papi主人发声",
+        "onboard_time": 1765421120,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254679,
+        "num": 254679,
+        "word": "陈赫给娄艺潇直播刷礼物",
+        "onboard_time": 1765418360,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227900,
+        "num": 227900,
+        "word": "孙坚 没有想过卖惨",
+        "onboard_time": 1765421721,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172803,
+        "num": 226661,
+        "word": "外交部再提醒避免前往日本",
+        "onboard_time": 1765424603,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225522,
+        "num": 225522,
+        "word": "陈晓这是笑场了吗",
+        "onboard_time": 1765424962,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "向佐换造型师了",
+        "onboard_time": 1765423160,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195489,
+        "num": 195489,
+        "word": "谭松韵 大波浪洋娃娃",
+        "onboard_time": 1765424603,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 189115,
+        "word": "周洁琼孔雪儿终于想起自己是爱豆了",
+        "onboard_time": 1765424902,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179986,
+        "num": 179986,
+        "word": "银价",
+        "onboard_time": 1765423281,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175627,
+        "num": 175627,
+        "word": "A股",
+        "onboard_time": 1765423040,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166742,
+        "num": 166742,
+        "word": "羽绒服越穿越不暖的真相",
+        "onboard_time": 1765410439,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 166324,
+        "word": "初代偶练爱豆差点退圈",
+        "onboard_time": 1765423881,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88976,
+        "num": 166033,
+        "word": "女子为爱犬追凶已坚持1000多天",
+        "onboard_time": 1765425621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 165994,
+        "word": "吴谨言重生之门妆造",
+        "onboard_time": 1765425081,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165992,
+        "num": 165992,
+        "word": "F1抢票",
+        "onboard_time": 1765424722,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164147,
+        "num": 164147,
+        "word": "一批恶意抹黑汽车企业账号被处置",
+        "onboard_time": 1765425563,
+        "rank": 41,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 152523,
+        "word": "狙击蝴蝶 删减吻戏",
+        "onboard_time": 1765418840,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138466,
+        "num": 138466,
+        "word": "阿姨1984年花两千多买了50克黄金",
+        "onboard_time": 1765410979,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117931,
+        "num": 133191,
+        "word": "松岛辉空说混双有机会复仇王楚钦",
+        "onboard_time": 1765424181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133036,
+        "num": 133036,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122108,
+        "num": 122108,
+        "word": "男子隐瞒妻子墓地岳父母苦寻4年",
+        "onboard_time": 1765419801,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119347,
+        "num": 119347,
+        "word": "雷霆太阳冲突",
+        "onboard_time": 1765424842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119043,
+        "num": 119043,
+        "word": "中兴通讯",
+        "onboard_time": 1765422081,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118941,
+        "num": 118941,
+        "word": "护士被男友割喉杀害最新细节曝光",
+        "onboard_time": 1765419500,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
