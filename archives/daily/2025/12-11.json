@@ -1,7 +1,15 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765428244189,
+  "endTime": 1765428945334,
   "band_list": [
+    {
+      "raw_hot": 1870366,
+      "num": 1870366,
+      "word": "87岁画家范曾喜获独子",
+      "onboard_time": 1765427544,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1599499,
       "num": 824814,
@@ -11,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1591573,
+      "num": 1591573,
+      "word": "范曾宣布与女儿继子断绝关系",
+      "onboard_time": 1765427544,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1482958,
       "num": 269815,
       "word": "经纪人曝痞幼恋综老头乐真相",
       "onboard_time": 1765418180,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1311781,
-      "num": 1311781,
-      "word": "87岁画家范曾喜获独子",
-      "onboard_time": 1765427544,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1077554,
@@ -57,14 +65,6 @@
       "onboard_time": 1765379721,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 709772,
-      "num": 709772,
-      "word": "范曾宣布与女儿继子断绝关系",
-      "onboard_time": 1765427544,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 679124,
@@ -105,6 +105,14 @@
       "onboard_time": 1765420161,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605184,
+      "num": 272121,
+      "word": "护士被男友割喉杀害",
+      "onboard_time": 1765427422,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596257,
@@ -251,6 +259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 305308,
+      "num": 228156,
+      "word": "欧洲有致癌基因男子捐精17年",
+      "onboard_time": 1765427722,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 301821,
       "num": 167128,
       "word": "冯提莫需要终身服药",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 279502,
-      "num": 193444,
+      "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
       "onboard_time": 1765428022,
       "rank": 31,
@@ -281,14 +297,6 @@
       "onboard_time": 1765376183,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272121,
-      "num": 272121,
-      "word": "护士被男友割喉杀害",
-      "onboard_time": 1765427422,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266248,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250816,
+      "num": 250816,
+      "word": "华为重夺中国手机市场份额第一",
+      "onboard_time": 1765427782,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246705,
       "num": 161658,
       "word": "历年的King和Queen",
@@ -337,6 +353,14 @@
       "onboard_time": 1765373184,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237910,
+      "num": 237910,
+      "word": "无期迷途",
+      "onboard_time": 1765428320,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 230686,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 227369,
-      "num": 1007603,
+      "num": 1632457,
       "word": "浙江卫视跨年晚会阵容官宣",
       "onboard_time": 1765424962,
       "rank": 19,
@@ -427,20 +451,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199144,
+      "num": 199144,
+      "word": "詹姆斯隔扣",
+      "onboard_time": 1765427963,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195794,
       "num": 195794,
       "word": "湖人vs马刺",
       "onboard_time": 1765427062,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191074,
-      "num": 191074,
-      "word": "华为重夺中国手机市场份额第一",
-      "onboard_time": 1765427782,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 189843,
@@ -473,14 +497,6 @@
       "onboard_time": 1765403474,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185692,
-      "num": 185692,
-      "word": "欧洲有致癌基因男子捐精17年",
-      "onboard_time": 1765427722,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185124,
@@ -547,12 +563,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "林诗栋15比13梁靖崑",
+      "onboard_time": 1765428562,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168506,
       "num": 161522,
       "word": "吴宣仪 我们是不是应该保持一些距离",
       "onboard_time": 1765417824,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168089,
+      "num": 168089,
+      "word": "狙击蝴蝶剧宣必有高人指点",
+      "onboard_time": 1765427902,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167476,
+      "num": 167476,
+      "word": "B站",
+      "onboard_time": 1765428862,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 165992,
@@ -603,20 +643,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148841,
-      "num": 148841,
-      "word": "詹姆斯隔扣",
-      "onboard_time": 1765427963,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148011,
-      "num": 148011,
-      "word": "狙击蝴蝶剧宣必有高人指点",
-      "onboard_time": 1765427902,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 153514,
+      "num": 153514,
+      "word": "孩子的阿贝贝退休了",
+      "onboard_time": 1765427782,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 147326,
@@ -625,6 +657,14 @@
       "onboard_time": 1765427601,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141842,
+      "num": 141842,
+      "word": "已经开始对迪丽热巴有戒断反应",
+      "onboard_time": 1765428923,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139868,
@@ -691,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134432,
-      "num": 134432,
-      "word": "孩子的阿贝贝退休了",
-      "onboard_time": 1765427782,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133241,
       "num": 135096,
       "word": "王建华 让我进群",
@@ -755,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123447,
+      "num": 362596,
+      "word": "EVA动画制作公司正式解散",
+      "onboard_time": 1765428022,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 121587,
       "num": 121587,
       "word": "压力大生闷气的人患甲状腺癌机率更大",
@@ -787,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116630,
-      "num": 362596,
-      "word": "EVA动画制作公司正式解散",
-      "onboard_time": 1765428022,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 115086,
       "num": 115086,
       "word": "雷霆大胜太阳49分",
@@ -825,6 +857,14 @@
       "onboard_time": 1765419500,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111780,
+      "num": 167507,
+      "word": "联合国厕所不再提供擦手纸",
+      "onboard_time": 1765428442,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110861,
@@ -995,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91214,
+      "num": 164686,
+      "word": "马斯克或成全球首个万亿富豪",
+      "onboard_time": 1765427362,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90700,
       "num": 90700,
       "word": "原来春宵一刻值千金是这个千金啊",
@@ -1075,20 +1123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78157,
+      "num": 167546,
+      "word": "男子一天5瓶饮料喝成石头人致残",
+      "onboard_time": 1765428562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77327,
       "num": 103110,
       "word": "狙击蝴蝶",
       "onboard_time": 1765362501,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72025,
-      "num": 164686,
-      "word": "马斯克或成全球首个万亿富豪",
-      "onboard_time": 1765427362,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 69756,
@@ -1171,20 +1219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61154,
+      "num": 1593813,
+      "word": "网警查处一起AI生成虚假低俗视频案",
+      "onboard_time": 1765413682,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60656,
       "num": 103149,
       "word": "美国女子熟睡时被医生男友喂堕胎药",
       "onboard_time": 1765374685,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 60479,
-      "num": 995373,
-      "word": "网警查处一起AI生成虚假低俗视频案",
-      "onboard_time": 1765413682,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59703,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1765357042,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51978,
+      "num": 221066,
+      "word": "体面过冬要花多少钱",
+      "onboard_time": 1765427782,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51899,
@@ -1451,14 +1507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 34402,
-      "num": 214565,
-      "word": "体面过冬要花多少钱",
-      "onboard_time": 1765427782,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33800,
       "num": 102486,
       "word": "TheShy发文告别赛场",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1765425203,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10456,
+      "num": 216609,
+      "word": "真人易容头套网上热卖",
+      "onboard_time": 1765428622,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10366,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765428244189,
+  "endTime": 1765428945334,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1870366,
+      "num": 1870366,
+      "word": "87岁画家范曾喜获独子",
+      "onboard_time": 1765427544,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1778889,
       "num": 352000,
       "word": "王鸥女儿都这么大了",
@@ -184,6 +192,14 @@
       "word": "papi妈妈",
       "onboard_time": 1765419262,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1591573,
+      "num": 1591573,
+      "word": "范曾宣布与女儿继子断绝关系",
+      "onboard_time": 1765427544,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1765211719,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1311781,
-      "num": 1311781,
-      "word": "87岁画家范曾喜获独子",
-      "onboard_time": 1765427544,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1243925,
@@ -835,14 +843,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 709772,
-      "num": 709772,
-      "word": "范曾宣布与女儿继子断绝关系",
-      "onboard_time": 1765427544,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 701415,
       "num": 363144,
       "word": "陈晓陈妍希 顶峰相见",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1765125198,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 605184,
+      "num": 272121,
+      "word": "护士被男友割喉杀害",
+      "onboard_time": 1765427422,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597891,
@@ -3067,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305308,
+      "num": 228156,
+      "word": "欧洲有致癌基因男子捐精17年",
+      "onboard_time": 1765427722,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 305139,
       "num": 385017,
       "word": "白泽 陈泽",
@@ -3340,7 +3356,7 @@
     },
     {
       "raw_hot": 279502,
-      "num": 193444,
+      "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
       "onboard_time": 1765428022,
       "rank": 31,
@@ -3433,14 +3449,6 @@
       "onboard_time": 1765368983,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272121,
-      "num": 272121,
-      "word": "护士被男友割喉杀害",
-      "onboard_time": 1765427422,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270625,
@@ -3707,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250816,
+      "num": 250816,
+      "word": "华为重夺中国手机市场份额第一",
+      "onboard_time": 1765427782,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 250106,
       "num": 250106,
       "word": "鹅厂2025年押宝剧集体翻车",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1765278321,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237910,
+      "num": 237910,
+      "word": "无期迷途",
+      "onboard_time": 1765428320,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 237571,
@@ -4028,7 +4052,7 @@
     },
     {
       "raw_hot": 227369,
-      "num": 1007603,
+      "num": 1632457,
       "word": "浙江卫视跨年晚会阵容官宣",
       "onboard_time": 1765424962,
       "rank": 19,
@@ -4819,6 +4843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199144,
+      "num": 199144,
+      "word": "詹姆斯隔扣",
+      "onboard_time": 1765427963,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199004,
       "num": 199004,
       "word": "孙颖莎王楚钦球员城市照",
@@ -5067,14 +5099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191074,
-      "num": 191074,
-      "word": "华为重夺中国手机市场份额第一",
-      "onboard_time": 1765427782,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "何老师越听越觉得不对劲",
@@ -5241,14 +5265,6 @@
       "onboard_time": 1765186941,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185692,
-      "num": 185692,
-      "word": "欧洲有致癌基因男子捐精17年",
-      "onboard_time": 1765427722,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185079,
@@ -5627,6 +5643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "林诗栋15比13梁靖崑",
+      "onboard_time": 1765428562,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172113,
       "num": 172113,
       "word": "南宁地震",
@@ -5787,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168089,
+      "num": 168089,
+      "word": "狙击蝴蝶剧宣必有高人指点",
+      "onboard_time": 1765427902,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167967,
       "num": 167967,
       "word": "肖战感谢5510000位观众支持",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1765178060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167476,
+      "num": 167476,
+      "word": "B站",
+      "onboard_time": 1765428862,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 167352,
@@ -6379,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153514,
+      "num": 153514,
+      "word": "孩子的阿贝贝退休了",
+      "onboard_time": 1765427782,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153504,
       "num": 153504,
       "word": "林诗栋2比1张本智和",
@@ -6611,14 +6659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148841,
-      "num": 148841,
-      "word": "詹姆斯隔扣",
-      "onboard_time": 1765427963,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148729,
       "num": 148729,
       "word": "小米中国区多业务人事调整",
@@ -6665,14 +6705,6 @@
       "onboard_time": 1765292246,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148011,
-      "num": 148011,
-      "word": "狙击蝴蝶剧宣必有高人指点",
-      "onboard_time": 1765427902,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 147967,
@@ -6977,6 +7009,14 @@
       "onboard_time": 1765181480,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 141842,
+      "num": 141842,
+      "word": "已经开始对迪丽热巴有戒断反应",
+      "onboard_time": 1765428923,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 141535,
@@ -7561,14 +7601,6 @@
       "onboard_time": 1765179260,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134432,
-      "num": 134432,
-      "word": "孩子的阿贝贝退休了",
-      "onboard_time": 1765427782,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 134257,
@@ -8403,6 +8435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123447,
+      "num": 362596,
+      "word": "EVA动画制作公司正式解散",
+      "onboard_time": 1765428022,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123409,
       "num": 123409,
       "word": "迟蓬看着杨幂摇头晃脑过来",
@@ -9027,14 +9067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116630,
-      "num": 362596,
-      "word": "EVA动画制作公司正式解散",
-      "onboard_time": 1765428022,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 116406,
       "num": 148590,
       "word": "狼队三十二强",
@@ -9553,6 +9585,14 @@
       "onboard_time": 1765419500,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111780,
+      "num": 167507,
+      "word": "联合国厕所不再提供擦手纸",
+      "onboard_time": 1765428442,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111757,
@@ -11379,6 +11419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91214,
+      "num": 164686,
+      "word": "马斯克或成全球首个万亿富豪",
+      "onboard_time": 1765427362,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91144,
       "num": 91144,
       "word": "樊振东拟再获上海体育事业贡献奖",
@@ -12067,6 +12115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78157,
+      "num": 167546,
+      "word": "男子一天5瓶饮料喝成石头人致残",
+      "onboard_time": 1765428562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
@@ -12297,14 +12353,6 @@
       "onboard_time": 1765338861,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72025,
-      "num": 164686,
-      "word": "马斯克或成全球首个万亿富豪",
-      "onboard_time": 1765427362,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 71958,
@@ -12811,6 +12859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61154,
+      "num": 1593813,
+      "word": "网警查处一起AI生成虚假低俗视频案",
+      "onboard_time": 1765413682,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61077,
       "num": 61077,
       "word": "低质量社交的4个表现",
@@ -12849,14 +12905,6 @@
       "onboard_time": 1765359440,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60479,
-      "num": 995373,
-      "word": "网警查处一起AI生成虚假低俗视频案",
-      "onboard_time": 1765413682,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60201,
@@ -13281,6 +13329,14 @@
       "onboard_time": 1765323078,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51978,
+      "num": 221066,
+      "word": "体面过冬要花多少钱",
+      "onboard_time": 1765427782,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51899,
@@ -14409,14 +14465,6 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 34402,
-      "num": 214565,
-      "word": "体面过冬要花多少钱",
-      "onboard_time": 1765427782,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33883,
@@ -15721,6 +15769,14 @@
       "onboard_time": 1765301476,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10456,
+      "num": 216609,
+      "word": "真人易容头套网上热卖",
+      "onboard_time": 1765428622,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10451,
