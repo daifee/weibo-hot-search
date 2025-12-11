@@ -1,0 +1,410 @@
+{
+  "runTime": 1765493107605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 266044,
+        "num": 509511,
+        "word": "中央明确普通高中优质本科扩招",
+        "onboard_time": 1765460543,
+        "rank": 0,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 182466,
+        "num": 182466,
+        "word": "枭起青壤",
+        "onboard_time": 1765469180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17099,
+        "num": 133244,
+        "word": "2025最后20天",
+        "onboard_time": 1765460752,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 116936,
+        "word": "张本智和庆祝动作致敬樊振东",
+        "onboard_time": 1765465102,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110853,
+        "num": 110853,
+        "word": "多方回应用东方树叶养茶菌当宠物",
+        "onboard_time": 1765483094,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "恋综宾利哥说认出了痞幼的老头乐",
+        "onboard_time": 1765466061,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93447,
+        "num": 93447,
+        "word": "10人聚餐9人开溜男子看完账单傻眼",
+        "onboard_time": 1765459043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81558,
+        "num": 81558,
+        "word": "凭煮蛋涨粉356万博主回应爆红",
+        "onboard_time": 1765464622,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44669,
+        "num": 44669,
+        "word": "孙颖莎震惊有可能一日三赛",
+        "onboard_time": 1765462943,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34063,
+        "num": 44580,
+        "word": "WTT香港总决赛",
+        "onboard_time": 1765460062,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169019,
+        "num": 44455,
+        "word": "42岁陈妍希 建议所有女性来学",
+        "onboard_time": 1765464262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162345,
+        "num": 44122,
+        "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
+        "onboard_time": 1765468880,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88121,
+        "num": 44089,
+        "word": "好一个乖乖女 徐梦洁",
+        "onboard_time": 1765461204,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79430,
+        "num": 43878,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72126,
+        "num": 43617,
+        "word": "深化住房公积金制度改革",
+        "onboard_time": 1765467321,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62905,
+        "num": 43463,
+        "word": "曝短剧演员收入",
+        "onboard_time": 1765458503,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61792,
+        "num": 43240,
+        "word": "国补",
+        "onboard_time": 1765454121,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53446,
+        "num": 43117,
+        "word": "杨紫一口气戴了五副墨镜",
+        "onboard_time": 1765473857,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 42976,
+        "word": "藏海传",
+        "onboard_time": 1765454061,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39763,
+        "num": 39763,
+        "word": "鼓励支持灵活就业人员参加职工保险",
+        "onboard_time": 1765449201,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102688,
+        "num": 39746,
+        "word": "郭碧婷坦言向太给了很多钱",
+        "onboard_time": 1765469540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87330,
+        "num": 39725,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54881,
+        "num": 39690,
+        "word": "国外捐精者被查出20%精子带致癌基因",
+        "onboard_time": 1765451061,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50066,
+        "num": 39671,
+        "word": "余少群揭露娱乐圈真相",
+        "onboard_time": 1765472838,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39660,
+        "num": 39660,
+        "word": "髋部骨折堪称人生最后一次骨折",
+        "onboard_time": 1765469779,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36953,
+        "num": 36953,
+        "word": "原来你的床上已经有猫了",
+        "onboard_time": 1765461322,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33874,
+        "num": 33874,
+        "word": "王楚然每天都在做法令纹消失操",
+        "onboard_time": 1765466002,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32069,
+        "num": 32069,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30781,
+        "num": 30781,
+        "word": "逃税1600万网红7天狂卖10万件",
+        "onboard_time": 1765466961,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "王玉雯 这把冲刘亦菲来的",
+        "onboard_time": 1765451960,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30140,
+        "num": 30140,
+        "word": "欧弟瘦了16斤",
+        "onboard_time": 1765473198,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30019,
+        "num": 30019,
+        "word": "黄慧颐回应遭保剑锋妻子辱骂",
+        "onboard_time": 1765456821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 29598,
+        "word": "台当局扬言报复韩国",
+        "onboard_time": 1765457661,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29377,
+        "num": 29377,
+        "word": "长期熬夜小心甲状腺癌",
+        "onboard_time": 1765470678,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28733,
+        "num": 28733,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27436,
+        "num": 27436,
+        "word": "倡导积极婚育观",
+        "onboard_time": 1765464142,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27098,
+        "num": 27098,
+        "word": "神隐还是播早了",
+        "onboard_time": 1765450761,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26280,
+        "num": 26280,
+        "word": "陈妍希 沈佳宜",
+        "onboard_time": 1765465881,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24810,
+        "num": 26279,
+        "word": "必须以苦练内功来应对外部挑战",
+        "onboard_time": 1765477575,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23326,
+        "num": 26279,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1765456821,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22744,
+        "num": 26279,
+        "word": "papi妈辞职维权的1000多天",
+        "onboard_time": 1765463902,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22505,
+        "num": 26278,
+        "word": "好一个乖乖女",
+        "onboard_time": 1765465042,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22256,
+        "num": 26278,
+        "word": "蜜雪冰城早餐价格",
+        "onboard_time": 1765456041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21907,
+        "num": 26278,
+        "word": "2026中国经济怎么干",
+        "onboard_time": 1765483634,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20656,
+        "num": 26277,
+        "word": "迪丽热巴长文告别枭起青壤",
+        "onboard_time": 1765454602,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18586,
+        "num": 26277,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18043,
+        "num": 26277,
+        "word": "2025最下饭综艺TOP50",
+        "onboard_time": 1765474218,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17925,
+        "num": 26276,
+        "word": "这轮寒潮威力有多大",
+        "onboard_time": 1765478054,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14811,
+        "num": 26276,
+        "word": "必须充分挖掘经济潜能",
+        "onboard_time": 1765492215,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13342,
+        "num": 26275,
+        "word": "微博网友年度期待电影",
+        "onboard_time": 1765476374,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}

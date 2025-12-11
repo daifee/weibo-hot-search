@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765492120072,
+  "endTime": 1765493107605,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266044,
+      "num": 509511,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 3,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 260359,
       "num": 212303,
       "word": "男子携致癌基因捐精17年",
@@ -91,14 +99,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188040,
-      "num": 409104,
-      "word": "中央明确普通高中优质本科扩招",
-      "onboard_time": 1765460543,
-      "rank": 3,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 186028,
       "num": 119528,
       "word": "郭碧婷坦言向太给了很多钱",
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182466,
+      "num": 189890,
+      "word": "枭起青壤",
+      "onboard_time": 1765469180,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172943,
       "num": 172943,
       "word": "原来你的床上已经有猫了",
@@ -123,12 +131,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166826,
-      "num": 189890,
-      "word": "枭起青壤",
-      "onboard_time": 1765469180,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 169019,
+      "num": 137712,
+      "word": "42岁陈妍希 建议所有女性来学",
+      "onboard_time": 1765464262,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 155595,
@@ -145,14 +153,6 @@
       "onboard_time": 1765467321,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145132,
-      "num": 137712,
-      "word": "42岁陈妍希 建议所有女性来学",
-      "onboard_time": 1765464262,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 136065,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110853,
+      "num": 110853,
+      "word": "多方回应用东方树叶养茶菌当宠物",
+      "onboard_time": 1765483094,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109854,
       "num": 109854,
       "word": "国外捐精者被查出20%精子带致癌基因",
@@ -209,14 +217,6 @@
       "onboard_time": 1765451960,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 87262,
-      "num": 84231,
-      "word": "多方回应用东方树叶养茶菌当宠物",
-      "onboard_time": 1765483094,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84305,
@@ -387,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53446,
+      "num": 43117,
+      "word": "杨紫一口气戴了五副墨镜",
+      "onboard_time": 1765473857,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51824,
       "num": 54049,
       "word": "8种癌症遗传风险高",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40866,
-      "num": 40866,
-      "word": "杨紫一口气戴了五副墨镜",
-      "onboard_time": 1765473857,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36316,
       "num": 139930,
       "word": "孙颖莎vs王艺迪",
@@ -475,12 +475,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30453,
+      "raw_hot": 34063,
       "num": 61654,
       "word": "WTT香港总决赛",
       "onboard_time": 1765460062,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30019,
+      "num": 30019,
+      "word": "黄慧颐回应遭保剑锋妻子辱骂",
+      "onboard_time": 1765456821,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29598,
+      "num": 29598,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28219,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24810,
+      "num": 28538,
+      "word": "必须以苦练内功来应对外部挑战",
+      "onboard_time": 1765477575,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24488,
       "num": 40397,
       "word": "微博网友年度喜爱剧集",
@@ -499,20 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24372,
-      "num": 24372,
-      "word": "黄慧颐回应遭保剑锋妻子辱骂",
-      "onboard_time": 1765456821,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24139,
-      "num": 28621,
-      "word": "台当局扬言报复韩国",
-      "onboard_time": 1765457661,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 22505,
+      "num": 28500,
+      "word": "好一个乖乖女",
+      "onboard_time": 1765465042,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 22295,
@@ -523,11 +539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21141,
-      "num": 28538,
-      "word": "必须以苦练内功来应对外部挑战",
-      "onboard_time": 1765477575,
-      "rank": 41,
+      "raw_hot": 21907,
+      "num": 26278,
+      "word": "2026中国经济怎么干",
+      "onboard_time": 1765483634,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -539,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19118,
-      "num": 28500,
-      "word": "好一个乖乖女",
-      "onboard_time": 1765465042,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18956,
       "num": 28447,
       "word": "这轮寒潮威力有多大",
@@ -555,11 +563,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17182,
-      "num": 22807,
-      "word": "2026中国经济怎么干",
-      "onboard_time": 1765483634,
-      "rank": 47,
+      "raw_hot": 18586,
+      "num": 26277,
+      "word": "新形势下经济工作五个必须",
+      "onboard_time": 1765482735,
+      "rank": 43,
       "category": "国内时政"
     },
     {
@@ -579,11 +587,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 14804,
-      "num": 22803,
-      "word": "新形势下经济工作五个必须",
-      "onboard_time": 1765482735,
-      "rank": 43,
+      "raw_hot": 14811,
+      "num": 26276,
+      "word": "必须充分挖掘经济潜能",
+      "onboard_time": 1765492215,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -595,8 +603,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12448,
-      "num": 22802,
+      "raw_hot": 13342,
+      "num": 26275,
       "word": "微博网友年度期待电影",
       "onboard_time": 1765476374,
       "rank": 46,
