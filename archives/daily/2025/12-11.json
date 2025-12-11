@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765460831642,
+  "endTime": 1765461440785,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795578,
+      "num": 200840,
+      "word": "曝短剧演员收入",
+      "onboard_time": 1765458503,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794594,
       "num": 276727,
       "word": "女子熟睡遭男友喂堕胎药",
@@ -137,14 +145,6 @@
       "onboard_time": 1765427422,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783219,
-      "num": 200840,
-      "word": "曝短剧演员收入",
-      "onboard_time": 1765458503,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 751283,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451614,
+      "num": 238456,
+      "word": "王玉雯 这把冲刘亦菲来的",
+      "onboard_time": 1765451960,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 447659,
       "num": 447659,
       "word": "杨紫三封Queen",
@@ -419,20 +427,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 437938,
-      "num": 238456,
-      "word": "王玉雯 这把冲刘亦菲来的",
-      "onboard_time": 1765451960,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 432000,
       "num": 458127,
       "word": "联合国厕所不再提供擦手纸",
       "onboard_time": 1765428442,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 429752,
+      "num": 362347,
+      "word": "蜜雪冰城早餐价格",
+      "onboard_time": 1765456041,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427399,
@@ -515,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362347,
-      "num": 362347,
-      "word": "蜜雪冰城早餐价格",
-      "onboard_time": 1765456041,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 361714,
       "num": 361714,
       "word": "三十年前的奢侈品零食有多好吃",
@@ -563,7 +563,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339907,
+      "raw_hot": 340086,
       "num": 221984,
       "word": "敖瑞鹏请把背头焊死",
       "onboard_time": 1765456342,
@@ -625,6 +625,14 @@
       "onboard_time": 1765436060,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 315269,
+      "num": 238337,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 315132,
@@ -745,14 +753,6 @@
       "onboard_time": 1765376183,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276479,
-      "num": 238337,
-      "word": "台当局扬言报复韩国",
-      "onboard_time": 1765457661,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 272321,
@@ -1019,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200111,
+      "num": 196099,
+      "word": "10人聚餐9人开溜男子看完账单傻眼",
+      "onboard_time": 1765459043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199144,
       "num": 199144,
       "word": "詹姆斯隔扣",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1765458382,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196099,
-      "num": 196099,
-      "word": "10人聚餐9人开溜男子看完账单傻眼",
-      "onboard_time": 1765459043,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195794,
@@ -1323,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168189,
+      "num": 168189,
+      "word": "好一个乖乖女 徐梦洁",
+      "onboard_time": 1765461204,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168089,
       "num": 168089,
       "word": "狙击蝴蝶剧宣必有高人指点",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1765422261,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164705,
+      "num": 164705,
+      "word": "医院用癌变恐吓患者诱导天价手术",
+      "onboard_time": 1765455801,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164147,
@@ -1435,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154980,
-      "num": 154980,
-      "word": "医院用癌变恐吓患者诱导天价手术",
-      "onboard_time": 1765455801,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154387,
       "num": 154387,
       "word": "肖战 爱你老己先靠自己",
@@ -1507,6 +1515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 147965,
+      "num": 147965,
+      "word": "伊藤美诚遗憾不能和孙颖莎交手",
+      "onboard_time": 1765460752,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147529,
       "num": 166727,
       "word": "王一博的手脚各有各的KPI",
@@ -1547,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145503,
-      "num": 145503,
-      "word": "伊藤美诚遗憾不能和孙颖莎交手",
-      "onboard_time": 1765460752,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145027,
       "num": 201369,
       "word": "向鹏vs安宰贤",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1765440562,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143293,
+      "num": 143293,
+      "word": "原来你的床上已经有猫了",
+      "onboard_time": 1765461322,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 142801,
@@ -1835,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129434,
+      "num": 129434,
+      "word": "90后女教师放弃编制闯养老赛道",
+      "onboard_time": 1765461322,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128661,
       "num": 109128,
       "word": "躺床上玩手机的正确姿势",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1765424842,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118857,
+      "num": 118857,
+      "word": "和陈妍希吃饭 回到我是毒妇前",
+      "onboard_time": 1765460603,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 117931,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1765436120,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106123,
+      "num": 106123,
+      "word": "统一是台湾前途的唯一方向",
+      "onboard_time": 1765461204,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105464,
@@ -3227,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41922,
+      "num": 199338,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 23,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 41816,
       "num": 73347,
       "word": "女生每天一杯奶茶可乐尿酸值破700",
@@ -3417,6 +3465,14 @@
       "onboard_time": 1765426822,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31760,
+      "num": 201654,
+      "word": "初雪就要来了",
+      "onboard_time": 1765460482,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31727,
@@ -3619,6 +3675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 17433,
+      "num": 363003,
+      "word": "2025最后20天",
+      "onboard_time": 1765460752,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17327,
       "num": 31136,
       "word": "王楚钦4比3松岛辉空",
@@ -3627,12 +3691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17269,
-      "num": 199338,
-      "word": "中央明确普通高中优质本科扩招",
-      "onboard_time": 1765460543,
-      "rank": 23,
-      "category": "国内时政,教育"
+      "raw_hot": 15948,
+      "num": 203561,
+      "word": "这些大国重器震撼人心",
+      "onboard_time": 1765460752,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14961,
@@ -3683,14 +3747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11182,
-      "num": 201654,
-      "word": "初雪就要来了",
-      "onboard_time": 1765460482,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10734,
       "num": 199969,
       "word": "回望2025中国经济",
@@ -3715,27 +3771,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 9173,
-      "num": 363003,
-      "word": "2025最后20天",
-      "onboard_time": 1765460752,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8634,
       "num": 291839,
       "word": "大国小巷首善之治",
       "onboard_time": 1765457722,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 6491,
-      "num": 203561,
-      "word": "这些大国重器震撼人心",
-      "onboard_time": 1765460752,
-      "rank": 7,
       "category": "国内时政"
     },
     {
