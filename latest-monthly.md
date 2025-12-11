@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/11 12:55:45
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/11 13:31:19
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%9B%BE%20%E5%BE%90%E8%90%8C%23" target="weibo">
+范曾 徐萌（热度：751283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%BF%9B%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%A4%A7%E6%A5%BC%23" target="weibo">
 黄子韬进时代峰峻大楼（热度：749710）
 </a>
@@ -1385,6 +1391,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%B0%86%E7%A6%81%E6%AD%A216%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E5%AA%92%23" target="weibo">
 澳将禁止16岁以下用社媒（热度：732062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%89%B2%E5%96%89%E6%9D%80%E5%AE%B3%23" target="weibo">
+护士被男友割喉杀害（热度：731519）
 </a>
 </li>
 
@@ -1973,12 +1985,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%B3%E5%97%BD%E4%B8%8D%E6%AD%A2%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C%23" target="weibo">
 24岁女生咳嗽不止查出肺癌（热度：607906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%89%B2%E5%96%89%E6%9D%80%E5%AE%B3%23" target="weibo">
-护士被男友割喉杀害（热度：605184）
 </a>
 </li>
 
@@ -4131,6 +4137,12 @@ F1（热度：401349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9C%89%E8%87%B4%E7%99%8C%E5%9F%BA%E5%9B%A0%E7%94%B7%E5%AD%90%E6%8D%90%E7%B2%BE17%E5%B9%B4%23" target="weibo">
+欧洲有致癌基因男子捐精17年（热度：386425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E7%B2%89%E7%A2%8E%E6%9C%BA%E8%BA%AB%E4%BA%A1%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 男子掉入粉碎机身亡妻子发声（热度：386206）
 </a>
@@ -4881,6 +4893,12 @@ vivo回应直播间风波（热度：348356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80%23" target="weibo">
+华为重夺中国手机市场份额第一（热度：338452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD%23" target="weibo">
 泰国对柬埔寨发动空袭（热度：338438）
 </a>
@@ -4889,6 +4907,12 @@ vivo回应直播间风波（热度：348356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%85%AC%E8%80%83%E5%89%8D%E5%BE%97%E7%9F%A5%E8%A2%AB%E8%AF%AF%E5%BD%95%E7%A4%BE%E4%BF%9D%23" target="weibo">
 应届生公考前得知被误录社保（热度：338420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E8%B6%85%E8%AF%9D%E5%A4%A7%E8%B5%8F%23" target="weibo">
+2025超话大赏（热度：337747）
 </a>
 </li>
 
@@ -5493,12 +5517,6 @@ Duro被大学退学（热度：318839）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9C%89%E8%87%B4%E7%99%8C%E5%9F%BA%E5%9B%A0%E7%94%B7%E5%AD%90%E6%8D%90%E7%B2%BE17%E5%B9%B4%23" target="weibo">
-欧洲有致癌基因男子捐精17年（热度：305308）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B3%BD%20%E9%99%88%E6%B3%BD%23" target="weibo">
 白泽 陈泽（热度：305139）
 </a>
@@ -5639,6 +5657,12 @@ CP感 玄学（热度：299094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E6%88%91%E8%BF%99%E8%A5%BF%E8%AF%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%90%97%23" target="weibo">
 樊振东 我这西语还可以吗（热度：298011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%23" target="weibo">
+B站（热度：297583）
 </a>
 </li>
 
@@ -5985,32 +6009,8 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%9C%89%E7%82%8E%E7%97%87%E5%B0%B1%E5%B0%91%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
-身体有炎症就少吃4种食物（热度：277352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%A4%E4%B8%AA%E5%9B%A2%E4%BD%93%E8%AF%B7%E6%B1%82%E8%AE%BF%E5%8D%8E%23" target="weibo">
-日本两个团体请求访华（热度：277027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%A5%96%E6%9D%AF%E7%83%AB%E6%89%8B%23" target="weibo">
-李现 奖杯烫手（热度：276879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E7%99%BB%E4%B8%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23" target="weibo">
-肖战得闲谨制登上新闻联播（热度：276656）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E9%93%81%E7%94%9F%E6%9B%BE%E5%BC%80%E5%AF%BC%E8%BF%8714%E5%B2%81%E7%9A%84%E9%A9%AC%E6%80%9D%E7%BA%AF%23" target="weibo">
-史铁生曾开导过14岁的马思纯（热度：276354）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E5%A4%AA%E7%B2%BE%E8%87%B4%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%8C%96%E5%A6%86%E4%BA%86%23" target="weibo">
+长得太精致被误认为是化妆了（热度：278015）
 </a>
 </li>
 
@@ -6197,6 +6197,12 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B7%A8%E8%BD%AE%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%23%23" target="weibo">
 #总书记引领中国经济巨轮行稳致远#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%94%A8%E8%BF%994%E4%B8%AA%E5%AD%97%E8%AF%84%E4%BB%B72025%E5%B9%B4%23%23" target="weibo">
+#总书记用这4个字评价2025年#
 </a>
 </li>
 
