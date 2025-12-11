@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765436271144,
+  "endTime": 1765438319337,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 736940,
+      "num": 485316,
+      "word": "一个LV狗窝可以买一套房",
+      "onboard_time": 1765434861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679124,
       "num": 695517,
       "word": "红学专家否定红楼梦悼明",
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 545546,
+      "num": 142956,
+      "word": "男子携致癌基因捐精17年",
+      "onboard_time": 1765436541,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 543795,
       "num": 161594,
       "word": "虞书欣父亲要求被告公开道歉",
@@ -180,11 +196,19 @@
     },
     {
       "raw_hot": 500249,
-      "num": 500249,
+      "num": 712417,
       "word": "B站",
       "onboard_time": 1765428862,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 495994,
+      "num": 495994,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 495403,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494391,
+      "num": 281739,
+      "word": "2025超话大赏",
+      "onboard_time": 1765429103,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 492091,
       "num": 492091,
       "word": "美联储宣布降息25个基点",
@@ -203,12 +235,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 487533,
-      "num": 281739,
-      "word": "2025超话大赏",
-      "onboard_time": 1765429103,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 485092,
+      "num": 485092,
+      "word": "沈梦辰回应什么时候要小孩",
+      "onboard_time": 1765435100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 482430,
@@ -235,6 +267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 460413,
+      "num": 361186,
+      "word": "高市早苗想让美国好歹拉日本一把",
+      "onboard_time": 1765433421,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447659,
       "num": 447659,
       "word": "杨紫三封Queen",
@@ -257,14 +297,6 @@
       "onboard_time": 1765379243,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406366,
-      "num": 278177,
-      "word": "沈梦辰回应什么时候要小孩",
-      "onboard_time": 1765435100,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 393503,
@@ -299,28 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361186,
-      "num": 361186,
-      "word": "高市早苗想让美国好歹拉日本一把",
-      "onboard_time": 1765433421,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 353852,
       "num": 300880,
       "word": "陈赫给娄艺潇直播刷礼物",
       "onboard_time": 1765418360,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353531,
-      "num": 353531,
-      "word": "神隐",
-      "onboard_time": 1765431321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 330699,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 289217,
-      "num": 289217,
+      "num": 485373,
       "word": "王者荣耀",
       "onboard_time": 1765432582,
       "rank": 9,
@@ -451,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247035,
-      "num": 247035,
-      "word": "一个LV狗窝可以买一套房",
-      "onboard_time": 1765434861,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246705,
       "num": 161658,
       "word": "历年的King和Queen",
@@ -489,6 +497,14 @@
       "onboard_time": 1765431080,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231302,
+      "num": 145979,
+      "word": "李昀锐 130斤不行130斤胖了",
+      "onboard_time": 1765437380,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 230686,
@@ -611,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195052,
+      "num": 195052,
+      "word": "日本电视台工作人员跳楼砸中路人肩膀",
+      "onboard_time": 1765436060,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 189843,
       "num": 189843,
       "word": "赴山海",
@@ -635,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188787,
+      "num": 144912,
+      "word": "TFBOYS团粉真的长情",
+      "onboard_time": 1765437261,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187747,
       "num": 549370,
       "word": "梁靖崑vs林诗栋",
@@ -649,6 +681,14 @@
       "onboard_time": 1765403474,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185166,
+      "num": 185166,
+      "word": "跨年旅行才是最好的年终奖",
+      "onboard_time": 1765438221,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 185124,
@@ -795,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157788,
+      "num": 157788,
+      "word": "用一场旅行偿还被偷走的时间",
+      "onboard_time": 1765437560,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155381,
       "num": 155381,
       "word": "银价疯涨",
@@ -827,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152743,
+      "num": 152743,
+      "word": "王一博吃个海鲜斧子都用上了",
+      "onboard_time": 1765437081,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147326,
       "num": 142909,
       "word": "年初年末的黑马都是周柯宇",
@@ -841,6 +897,22 @@
       "onboard_time": 1765433062,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143455,
+      "num": 143455,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1765437081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142801,
+      "num": 142801,
+      "word": "郭柯宇再见爱人永远的白月光",
+      "onboard_time": 1765436242,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 141842,
@@ -995,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125702,
+      "num": 125702,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125526,
       "num": 125526,
       "word": "中方回应中俄轰炸机飞临日本",
@@ -1091,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117022,
+      "num": 117022,
+      "word": "papi说车崇健等这个问题很久了",
+      "onboard_time": 1765438102,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116669,
       "num": 116669,
       "word": "华为重夺国内份额第一",
@@ -1099,10 +1187,26 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116177,
+      "num": 116177,
+      "word": "原神兹白",
+      "onboard_time": 1765436839,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116071,
       "num": 116071,
       "word": "狙击蝴蝶分手名场面",
       "onboard_time": 1765434981,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115487,
+      "num": 115487,
+      "word": "差点没认出来这是陶昕然",
+      "onboard_time": 1765437922,
       "rank": 45,
       "category": "剧集"
     },
@@ -1131,6 +1235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113706,
+      "num": 127308,
+      "word": "刘强东砸35亿港元买楼",
+      "onboard_time": 1765436601,
+      "rank": 36,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 113437,
+      "num": 110577,
+      "word": "流浪猫接到订单是真干事啊",
+      "onboard_time": 1765438221,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113255,
       "num": 113255,
       "word": "摩尔线程市值突破4000亿",
@@ -1139,12 +1259,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112714,
+      "num": 116210,
+      "word": "只有大学生知道豆包有多傻",
+      "onboard_time": 1765436480,
+      "rank": 43,
+      "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 111992,
+      "num": 256041,
+      "word": "迪奥高订花瓣在三里屯绽放",
+      "onboard_time": 1765433062,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 111965,
       "num": 111965,
       "word": "梅德福演员接到得闲谨制黑稿",
       "onboard_time": 1765419500,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111852,
+      "num": 143009,
+      "word": "联合国厕所停供擦手纸",
+      "onboard_time": 1765436242,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111323,
+      "num": 111323,
+      "word": "对人像模式的开发还是太少了",
+      "onboard_time": 1765437200,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 110861,
@@ -1169,6 +1321,14 @@
       "onboard_time": 1765434741,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109569,
+      "num": 117023,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 109363,
@@ -1211,28 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107997,
-      "num": 107997,
-      "word": "郭柯宇再见爱人永远的白月光",
-      "onboard_time": 1765436242,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107909,
       "num": 107909,
       "word": "郭碧婷 向太有给很多钱",
       "onboard_time": 1765359561,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107149,
-      "num": 107149,
-      "word": "联合国厕所停供擦手纸",
-      "onboard_time": 1765436242,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107065,
@@ -1379,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96567,
+      "num": 116305,
+      "word": "张涵予新剧两句话逼疯成毅",
+      "onboard_time": 1765436962,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96228,
       "num": 165381,
       "word": "罢当选台湾2025年度代表字",
@@ -1401,6 +1553,14 @@
       "onboard_time": 1765422680,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92981,
+      "num": 107059,
+      "word": "这一天请假的同学堪比丢了500块钱",
+      "onboard_time": 1765437803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92547,
@@ -1483,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79595,
+      "num": 143291,
+      "word": "问界M8冬季出行实力护航",
+      "onboard_time": 1765436601,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78405,
       "num": 78405,
       "word": "高市早苗希望尽早会面特朗普",
@@ -1561,14 +1729,6 @@
       "onboard_time": 1765381281,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66840,
-      "num": 116536,
-      "word": "日本电视台工作人员跳楼砸中路人肩膀",
-      "onboard_time": 1765436060,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66554,
@@ -1811,14 +1971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44933,
-      "num": 256041,
-      "word": "迪奥高订花瓣在三里屯绽放",
-      "onboard_time": 1765433062,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 42962,
       "num": 102852,
       "word": "考研准考证 颜文字",
@@ -1963,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 33984,
+      "num": 148281,
+      "word": "李昀锐让今夜升温",
+      "onboard_time": 1765436902,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33800,
       "num": 102486,
       "word": "TheShy发文告别赛场",
@@ -2028,7 +2188,7 @@
     },
     {
       "raw_hot": 26780,
-      "num": 444157,
+      "num": 507771,
       "word": "一条vlog回顾2025",
       "onboard_time": 1765429402,
       "rank": 2,
@@ -2113,6 +2273,14 @@
       "onboard_time": 1765417824,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19594,
+      "num": 117876,
+      "word": "工人高空坠落14mm钢筋贯穿胸部",
+      "onboard_time": 1765438102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19398,

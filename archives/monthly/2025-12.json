@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765436271144,
+  "endTime": 1765438319337,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1851,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 736940,
+      "num": 485316,
+      "word": "一个LV狗窝可以买一套房",
+      "onboard_time": 1765434861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 735355,
       "num": 735355,
       "word": "苏炳添退役",
@@ -3219,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 545546,
+      "num": 142956,
+      "word": "男子携致癌基因捐精17年",
+      "onboard_time": 1765436541,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 543639,
       "num": 571043,
       "word": "美军承认击落美军战机",
@@ -3764,7 +3780,7 @@
     },
     {
       "raw_hot": 500249,
-      "num": 500249,
+      "num": 712417,
       "word": "B站",
       "onboard_time": 1765428862,
       "rank": 40,
@@ -3811,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495994,
+      "num": 495994,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495671,
       "num": 308046,
       "word": "肖战演技",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1765012403,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494391,
+      "num": 281739,
+      "word": "2025超话大赏",
+      "onboard_time": 1765429103,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492466,
@@ -3963,14 +3995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 487533,
-      "num": 281739,
-      "word": "2025超话大赏",
-      "onboard_time": 1765429103,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 486925,
       "num": 486925,
       "word": "浙江卫视跨年晚会官宣",
@@ -4001,6 +4025,14 @@
       "onboard_time": 1765037062,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 485092,
+      "num": 485092,
+      "word": "沈梦辰回应什么时候要小孩",
+      "onboard_time": 1765435100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 484560,
@@ -4321,6 +4353,14 @@
       "onboard_time": 1765170861,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460413,
+      "num": 361186,
+      "word": "高市早苗想让美国好歹拉日本一把",
+      "onboard_time": 1765433421,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 459861,
@@ -5185,14 +5225,6 @@
       "onboard_time": 1765328961,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 406366,
-      "num": 278177,
-      "word": "沈梦辰回应什么时候要小孩",
-      "onboard_time": 1765435100,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 406205,
@@ -6083,14 +6115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361186,
-      "num": 361186,
-      "word": "高市早苗想让美国好歹拉日本一把",
-      "onboard_time": 1765433421,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 360796,
       "num": 360796,
       "word": "学校火灾致13死校方逼家长签协议",
@@ -6225,14 +6249,6 @@
       "onboard_time": 1765418360,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353531,
-      "num": 353531,
-      "word": "神隐",
-      "onboard_time": 1765431321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 353100,
@@ -8955,14 +8971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247035,
-      "num": 247035,
-      "word": "一个LV狗窝可以买一套房",
-      "onboard_time": 1765434861,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246705,
       "num": 161658,
       "word": "历年的King和Queen",
@@ -9561,6 +9569,14 @@
       "onboard_time": 1765032265,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231302,
+      "num": 145979,
+      "word": "李昀锐 130斤不行130斤胖了",
+      "onboard_time": 1765437380,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 231030,
@@ -11915,6 +11931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195052,
+      "num": 195052,
+      "word": "日本电视台工作人员跳楼砸中路人肩膀",
+      "onboard_time": 1765436060,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195046,
       "num": 1092353,
       "word": "WBG官宣Elk加入",
@@ -12387,6 +12411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188787,
+      "num": 144912,
+      "word": "TFBOYS团粉真的长情",
+      "onboard_time": 1765437261,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188726,
       "num": 188726,
       "word": "这居然是51岁的林志颖",
@@ -12689,6 +12721,14 @@
       "onboard_time": 1765016543,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185166,
+      "num": 185166,
+      "word": "跨年旅行才是最好的年终奖",
+      "onboard_time": 1765438221,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 185079,
@@ -15211,6 +15251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157788,
+      "num": 157788,
+      "word": "用一场旅行偿还被偷走的时间",
+      "onboard_time": 1765437560,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157661,
       "num": 157661,
       "word": "刘宇宁终于闯进主持人赛道了",
@@ -15873,6 +15921,14 @@
       "onboard_time": 1764915742,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152743,
+      "num": 152743,
+      "word": "王一博吃个海鲜斧子都用上了",
+      "onboard_time": 1765437081,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 152738,
@@ -16963,6 +17019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143455,
+      "num": 143455,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1765437081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143421,
       "num": 143421,
       "word": "网友调侃蛇盖瑞火了才看清楚脸",
@@ -17025,6 +17089,14 @@
       "onboard_time": 1765163000,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 142801,
+      "num": 142801,
+      "word": "郭柯宇再见爱人永远的白月光",
+      "onboard_time": 1765436242,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142684,
@@ -19899,6 +19971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125702,
+      "num": 125702,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125652,
       "num": 125652,
       "word": "20岁女子1天瘦1斤确诊糖尿病",
@@ -21723,6 +21803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117022,
+      "num": 117022,
+      "word": "papi说车崇健等这个问题很久了",
+      "onboard_time": 1765438102,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117021,
       "num": 117021,
       "word": "朱孝天希望相信音乐高抬贵手",
@@ -21867,6 +21955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116177,
+      "num": 116177,
+      "word": "原神兹白",
+      "onboard_time": 1765436839,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116154,
       "num": 116154,
       "word": "奥运冠军武大靖回应退役",
@@ -21985,6 +22081,14 @@
       "onboard_time": 1764757702,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115487,
+      "num": 115487,
+      "word": "差点没认出来这是陶昕然",
+      "onboard_time": 1765437922,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 115476,
@@ -22379,6 +22483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113706,
+      "num": 127308,
+      "word": "刘强东砸35亿港元买楼",
+      "onboard_time": 1765436601,
+      "rank": 36,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 113694,
       "num": 127675,
       "word": "周杰伦终于不是颓废风了",
@@ -22441,6 +22553,14 @@
       "onboard_time": 1764600143,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113437,
+      "num": 110577,
+      "word": "流浪猫接到订单是真干事啊",
+      "onboard_time": 1765438221,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 113322,
@@ -22595,6 +22715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112714,
+      "num": 116210,
+      "word": "只有大学生知道豆包有多傻",
+      "onboard_time": 1765436480,
+      "rank": 43,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 112696,
       "num": 112696,
       "word": "土豆吕严",
@@ -22739,6 +22867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111992,
+      "num": 256041,
+      "word": "迪奥高订花瓣在三里屯绽放",
+      "onboard_time": 1765433062,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 111975,
       "num": 111975,
       "word": "跑男有望夺下今年综艺年冠",
@@ -22769,6 +22905,14 @@
       "onboard_time": 1764754102,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111852,
+      "num": 143009,
+      "word": "联合国厕所停供擦手纸",
+      "onboard_time": 1765436242,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111834,
@@ -22841,6 +22985,14 @@
       "onboard_time": 1765289724,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111323,
+      "num": 111323,
+      "word": "对人像模式的开发还是太少了",
+      "onboard_time": 1765437200,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 111293,
@@ -23137,6 +23289,14 @@
       "onboard_time": 1765270462,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109569,
+      "num": 117023,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 109520,
@@ -23547,14 +23707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107997,
-      "num": 107997,
-      "word": "郭柯宇再见爱人永远的白月光",
-      "onboard_time": 1765436242,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107907,
       "num": 107907,
       "word": "疑避让路人遇难32岁司机有3个孩子",
@@ -23689,14 +23841,6 @@
       "onboard_time": 1764682643,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107149,
-      "num": 107149,
-      "word": "联合国厕所停供擦手纸",
-      "onboard_time": 1765436242,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107133,
@@ -25987,6 +26131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96567,
+      "num": 116305,
+      "word": "张涵予新剧两句话逼疯成毅",
+      "onboard_time": 1765436962,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96509,
       "num": 96509,
       "word": "郑乃馨疑似回应分手",
@@ -26641,6 +26793,14 @@
       "onboard_time": 1765158200,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 92981,
+      "num": 107059,
+      "word": "这一天请假的同学堪比丢了500块钱",
+      "onboard_time": 1765437803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92955,
@@ -28755,6 +28915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79595,
+      "num": 143291,
+      "word": "问界M8冬季出行实力护航",
+      "onboard_time": 1765436601,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79593,
       "num": 79593,
       "word": "河南全面进入流感流行高峰期",
@@ -30185,14 +30353,6 @@
       "onboard_time": 1765188501,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66840,
-      "num": 116536,
-      "word": "日本电视台工作人员跳楼砸中路人肩膀",
-      "onboard_time": 1765436060,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66805,
@@ -32627,14 +32787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44933,
-      "num": 256041,
-      "word": "迪奥高订花瓣在三里屯绽放",
-      "onboard_time": 1765433062,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 44885,
       "num": 439850,
       "word": "鸿蒙智行五界全面深化合作",
@@ -34179,6 +34331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33984,
+      "num": 148281,
+      "word": "李昀锐让今夜升温",
+      "onboard_time": 1765436902,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33883,
       "num": 128487,
       "word": "被孙颖莎帅到了",
@@ -35172,7 +35332,7 @@
     },
     {
       "raw_hot": 26780,
-      "num": 444157,
+      "num": 507771,
       "word": "一条vlog回顾2025",
       "onboard_time": 1765429402,
       "rank": 2,
@@ -36049,6 +36209,14 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19594,
+      "num": 117876,
+      "word": "工人高空坠落14mm钢筋贯穿胸部",
+      "onboard_time": 1765438102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19486,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765438319337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800694,
+        "num": 1128111,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282840,
+        "num": 712417,
+        "word": "B站",
+        "onboard_time": 1765428862,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9432,
+        "num": 507771,
+        "word": "一条vlog回顾2025",
+        "onboard_time": 1765429402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495994,
+        "num": 495994,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216970,
+        "num": 485373,
+        "word": "王者荣耀",
+        "onboard_time": 1765432582,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 736940,
+        "num": 485316,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485092,
+        "num": 485092,
+        "word": "沈梦辰回应什么时候要小孩",
+        "onboard_time": 1765435100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347175,
+        "num": 347175,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 289026,
+        "num": 289026,
+        "word": "papi妈妈",
+        "onboard_time": 1765419262,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205016,
+        "num": 205016,
+        "word": "联合国厕所不再提供擦手纸",
+        "onboard_time": 1765428442,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 494391,
+        "num": 203807,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217613,
+        "num": 203564,
+        "word": "刘亦菲珠宝消失术",
+        "onboard_time": 1765431920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195215,
+        "num": 195215,
+        "word": "欧洲有致癌基因男子捐精17年",
+        "onboard_time": 1765427722,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195052,
+        "num": 195052,
+        "word": "日本电视台工作人员跳楼砸中路人肩膀",
+        "onboard_time": 1765436060,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185166,
+        "num": 185166,
+        "word": "跨年旅行才是最好的年终奖",
+        "onboard_time": 1765438221,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164973,
+        "num": 164973,
+        "word": "华为重夺中国手机市场份额第一",
+        "onboard_time": 1765427782,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157788,
+        "num": 157788,
+        "word": "用一场旅行偿还被偷走的时间",
+        "onboard_time": 1765437560,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152743,
+        "num": 152743,
+        "word": "王一博吃个海鲜斧子都用上了",
+        "onboard_time": 1765437081,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 149295,
+        "word": "迪奥高订花瓣在三里屯绽放",
+        "onboard_time": 1765433062,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 33984,
+        "num": 148281,
+        "word": "李昀锐让今夜升温",
+        "onboard_time": 1765436902,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713637,
+        "num": 148218,
+        "word": "TFBOYS 帝国姐",
+        "onboard_time": 1765432221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147978,
+        "num": 147978,
+        "word": "R1SE浙江跨晚 结没结婚都来了",
+        "onboard_time": 1765431080,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578079,
+        "num": 147463,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368593,
+        "num": 146622,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231302,
+        "num": 145979,
+        "word": "李昀锐 130斤不行130斤胖了",
+        "onboard_time": 1765437380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188787,
+        "num": 144912,
+        "word": "TFBOYS团粉真的长情",
+        "onboard_time": 1765437261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177845,
+        "num": 143669,
+        "word": "考研被酒店威胁了",
+        "onboard_time": 1765432523,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 143455,
+        "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+        "onboard_time": 1765437081,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61083,
+        "num": 143453,
+        "word": "手机被骗子共享了屏幕怎么办",
+        "onboard_time": 1765434622,
+        "rank": 28,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 79595,
+        "num": 143291,
+        "word": "问界M8冬季出行实力护航",
+        "onboard_time": 1765436601,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111852,
+        "num": 143009,
+        "word": "联合国厕所停供擦手纸",
+        "onboard_time": 1765436242,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 545546,
+        "num": 142956,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142801,
+        "num": 142801,
+        "word": "郭柯宇再见爱人永远的白月光",
+        "onboard_time": 1765436242,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41419,
+        "num": 137776,
+        "word": "华妃说这歌声吵到本宫了",
+        "onboard_time": 1765434682,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134739,
+        "num": 134739,
+        "word": "张艺兴退股染色体娱乐",
+        "onboard_time": 1765424962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128996,
+        "num": 128996,
+        "word": "A股",
+        "onboard_time": 1765423040,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113706,
+        "num": 127308,
+        "word": "刘强东砸35亿港元买楼",
+        "onboard_time": 1765436601,
+        "rank": 36,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 125702,
+        "num": 125702,
+        "word": "狙击蝴蝶 市场没有放弃90后",
+        "onboard_time": 1765437200,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19594,
+        "num": 117876,
+        "word": "工人高空坠落14mm钢筋贯穿胸部",
+        "onboard_time": 1765438102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109569,
+        "num": 117023,
+        "word": "贾玲巴黎分玲",
+        "onboard_time": 1765437442,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460413,
+        "num": 117023,
+        "word": "高市早苗想让美国好歹拉日本一把",
+        "onboard_time": 1765433421,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117022,
+        "num": 117022,
+        "word": "papi说车崇健等这个问题很久了",
+        "onboard_time": 1765438102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96567,
+        "num": 116305,
+        "word": "张涵予新剧两句话逼疯成毅",
+        "onboard_time": 1765436962,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112714,
+        "num": 116210,
+        "word": "只有大学生知道豆包有多傻",
+        "onboard_time": 1765436480,
+        "rank": 43,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 116177,
+        "num": 116177,
+        "word": "原神兹白",
+        "onboard_time": 1765436839,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115487,
+        "num": 115487,
+        "word": "差点没认出来这是陶昕然",
+        "onboard_time": 1765437922,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111323,
+        "num": 111323,
+        "word": "对人像模式的开发还是太少了",
+        "onboard_time": 1765437200,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113437,
+        "num": 110577,
+        "word": "流浪猫接到订单是真干事啊",
+        "onboard_time": 1765438221,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109813,
+        "num": 109813,
+        "word": "拉伸对直腿细腿的杀伤力",
+        "onboard_time": 1765433661,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92981,
+        "num": 107059,
+        "word": "这一天请假的同学堪比丢了500块钱",
+        "onboard_time": 1765437803,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记用这4个字评价2025年#"
+    }
+  }
+}
