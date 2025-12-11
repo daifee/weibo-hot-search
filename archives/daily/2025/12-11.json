@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765464384067,
+  "endTime": 1765467253708,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -371,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 491923,
+      "num": 265207,
+      "word": "原来你的床上已经有猫了",
+      "onboard_time": 1765461322,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485092,
       "num": 485092,
       "word": "沈梦辰回应什么时候要小孩",
@@ -417,6 +425,14 @@
       "onboard_time": 1765433421,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 455721,
+      "num": 253041,
+      "word": "凭煮蛋涨粉356万博主回应爆红",
+      "onboard_time": 1765464622,
+      "rank": 13,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 454692,
@@ -505,6 +521,14 @@
       "onboard_time": 1765415900,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 390440,
+      "num": 457179,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765362501,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 389822,
@@ -659,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 322261,
-      "num": 457179,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765362501,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315269,
       "num": 238337,
       "word": "台当局扬言报复韩国",
@@ -779,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280862,
+      "num": 280862,
+      "word": "张本智和庆祝动作致敬樊振东",
+      "onboard_time": 1765465102,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279502,
       "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
@@ -859,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245284,
-      "num": 245284,
-      "word": "原来你的床上已经有猫了",
-      "onboard_time": 1765461322,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244525,
       "num": 122847,
       "word": "张柏芝出庭 神图",
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235186,
+      "num": 170017,
+      "word": "42岁陈妍希 建议所有女性来学",
+      "onboard_time": 1765464262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234099,
       "num": 234099,
       "word": "HLE对战T1",
@@ -921,6 +945,14 @@
       "onboard_time": 1765410800,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229678,
+      "num": 229678,
+      "word": "狙击蝴蝶热度",
+      "onboard_time": 1765464862,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 229150,
@@ -1115,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189899,
+      "num": 202669,
+      "word": "倡导积极婚育观",
+      "onboard_time": 1765464142,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189843,
       "num": 189843,
       "word": "赴山海",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1765368322,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184854,
+      "num": 184854,
+      "word": "陈妍希 沈佳宜",
+      "onboard_time": 1765465881,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 184472,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1765452021,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170017,
-      "num": 170017,
-      "word": "42岁陈妍希 建议所有女性来学",
-      "onboard_time": 1765464262,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 169573,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1765439481,
       "rank": 30,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 150987,
+      "num": 150987,
+      "word": "恋综宾利哥说认出了痞幼的老头乐",
+      "onboard_time": 1765466061,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150025,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1765430720,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134985,
+      "num": 134985,
+      "word": "papi妈辞职维权的1000多天",
+      "onboard_time": 1765463902,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134676,
@@ -2259,14 +2315,6 @@
       "category": "幽默,互联网"
     },
     {
-      "raw_hot": 112648,
-      "num": 112648,
-      "word": "papi妈辞职维权的1000多天",
-      "onboard_time": 1765463902,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112203,
       "num": 112203,
       "word": "白鹿简简单单一幅画",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1765419500,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 111882,
-      "num": 202669,
-      "word": "倡导积极婚育观",
-      "onboard_time": 1765464142,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111852,
@@ -2483,6 +2523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104455,
+      "num": 104455,
+      "word": "DRG战胜TTG",
+      "onboard_time": 1765464562,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104153,
       "num": 104153,
       "word": "钟文泽三星三折叠体验",
@@ -2603,12 +2651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100788,
+      "num": 100788,
+      "word": "731部队原队员证言公布",
+      "onboard_time": 1765466122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99855,
       "num": 99855,
       "word": "五花八们",
       "onboard_time": 1765463063,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99714,
+      "num": 99714,
+      "word": "好一个乖乖女",
+      "onboard_time": 1765465042,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 99472,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1765417340,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99163,
+      "num": 99163,
+      "word": "王楚然每天都在做法令纹消失操",
+      "onboard_time": 1765466002,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 98939,
@@ -2689,6 +2761,14 @@
       "onboard_time": 1765363763,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96900,
+      "num": 281334,
+      "word": "王楚钦孙颖莎混双心往一处想",
+      "onboard_time": 1765464442,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 96815,
@@ -2787,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92508,
+      "num": 92508,
+      "word": "邵美琪是孙颖莎王楚钦球迷",
+      "onboard_time": 1765466842,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91912,
       "num": 91912,
       "word": "李施嬅穿雨衣爆改法证先锋",
@@ -2803,12 +2891,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 91359,
+      "num": 91359,
+      "word": "萝卜事业运",
+      "onboard_time": 1765467080,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91214,
       "num": 164686,
       "word": "马斯克或成全球首个万亿富豪",
       "onboard_time": 1765427362,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90819,
+      "num": 90819,
+      "word": "huanfeng谈最强AD",
+      "onboard_time": 1765467201,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 90810,
@@ -3395,6 +3499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42131,
+      "num": 167053,
+      "word": "督促各地主动化债",
+      "onboard_time": 1765465822,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42125,
       "num": 96395,
       "word": "奥司他韦胶囊泡罩内现飞虫",
@@ -3459,6 +3571,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 37836,
+      "num": 191081,
+      "word": "华为Mate双旗舰追星神器现场",
+      "onboard_time": 1765464562,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37539,
       "num": 61589,
       "word": "19岁男生让6岁女孩感受到了父爱",
@@ -3497,6 +3617,14 @@
       "onboard_time": 1765374985,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36139,
+      "num": 102576,
+      "word": "女子被丈夫灌面汤呛死案一审将宣判",
+      "onboard_time": 1765466362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35755,
@@ -3617,6 +3745,14 @@
       "onboard_time": 1765464202,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30354,
+      "num": 102240,
+      "word": "王楚钦纠正自己的采访发言",
+      "onboard_time": 1765466481,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29292,
