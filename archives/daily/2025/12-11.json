@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765453298245,
+  "endTime": 1765458024883,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -41,6 +41,14 @@
       "onboard_time": 1765418180,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1245523,
+      "num": 1245523,
+      "word": "国补",
+      "onboard_time": 1765454121,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1219469,
@@ -371,12 +379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454692,
+      "num": 196558,
+      "word": "王楚然是每天都在买新的丑镜子吗",
+      "onboard_time": 1765453281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447659,
       "num": 447659,
       "word": "杨紫三封Queen",
       "onboard_time": 1765421721,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 444437,
+      "num": 289138,
+      "word": "迪丽热巴长文告别枭起青壤",
+      "onboard_time": 1765454602,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 432000,
@@ -403,8 +427,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417596,
+      "num": 196281,
+      "word": "王玉雯 这把冲刘亦菲来的",
+      "onboard_time": 1765451960,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 412955,
-      "num": 186696,
+      "num": 193040,
       "word": "国外捐精者被查出20%精子带致癌基因",
       "onboard_time": 1765451061,
       "rank": 23,
@@ -483,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341973,
+      "num": 195464,
+      "word": "DeepSeek崩了",
+      "onboard_time": 1765456641,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 340485,
       "num": 199702,
       "word": "狙击蝴蝶 市场没有放弃90后",
       "onboard_time": 1765437200,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333946,
+      "num": 333946,
+      "word": "林诗栋说调不回来了我知道的",
+      "onboard_time": 1765451481,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 330699,
@@ -547,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311061,
+      "num": 194255,
+      "word": "多国前政要给中国李华回感谢信",
+      "onboard_time": 1765453100,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 308634,
       "num": 274027,
       "word": "刘亦菲珠宝消失术",
@@ -561,6 +617,14 @@
       "onboard_time": 1765415361,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299844,
+      "num": 199043,
+      "word": "藏海传",
+      "onboard_time": 1765454061,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 290315,
@@ -731,12 +795,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232728,
+      "num": 192621,
+      "word": "蜜雪冰城早餐价格",
+      "onboard_time": 1765456041,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230686,
       "num": 230686,
       "word": "2岁女童米粒坠亡5年后",
       "onboard_time": 1765410800,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230511,
+      "num": 192504,
+      "word": "杨紫直播",
+      "onboard_time": 1765457240,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229150,
@@ -843,6 +923,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 206867,
+      "num": 192256,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1765456821,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204719,
       "num": 204719,
       "word": "肺结节的形成可能和油烟有关",
@@ -867,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200152,
+      "num": 200152,
+      "word": "HLE战胜T1",
+      "onboard_time": 1765453822,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199144,
       "num": 199144,
       "word": "詹姆斯隔扣",
@@ -889,6 +985,14 @@
       "onboard_time": 1765427062,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192082,
+      "num": 192082,
+      "word": "殷世航称网红欠债严重",
+      "onboard_time": 1765454602,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 189998,
@@ -979,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184765,
-      "num": 184765,
-      "word": "王玉雯 这把冲刘亦菲来的",
-      "onboard_time": 1765451960,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184472,
       "num": 184472,
       "word": "考研被酒店威胁了",
@@ -1001,14 +1097,6 @@
       "onboard_time": 1765445423,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182427,
-      "num": 197707,
-      "word": "林诗栋说调不回来了我知道的",
-      "onboard_time": 1765451481,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 182156,
@@ -1035,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180478,
+      "num": 180478,
+      "word": "敖瑞鹏请把背头焊死",
+      "onboard_time": 1765456342,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "银价",
       "onboard_time": 1765423281,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178853,
+      "num": 178853,
+      "word": "鸟叔被警方调查",
+      "onboard_time": 1765457841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 176685,
@@ -1075,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172858,
+      "num": 172858,
+      "word": "大生意人大结局",
+      "onboard_time": 1765454479,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172803,
       "num": 226661,
       "word": "外交部再提醒避免前往日本",
@@ -1088,6 +1200,14 @@
       "word": "林诗栋15比13梁靖崑",
       "onboard_time": 1765428562,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170946,
+      "num": 196985,
+      "word": "林诗栋把王楚钦孙颖莎逗笑了",
+      "onboard_time": 1765452021,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1347,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142068,
+      "num": 142068,
+      "word": "医院用癌变恐吓患者诱导天价手术",
+      "onboard_time": 1765455801,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141842,
       "num": 141842,
       "word": "已经开始对迪丽热巴有戒断反应",
@@ -1355,12 +1483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141587,
+      "num": 141587,
+      "word": "被收养的小猫看见妈妈还在流浪",
+      "onboard_time": 1765457062,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141549,
       "num": 141549,
       "word": "金饰克价涨到1337元",
       "onboard_time": 1765442061,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140929,
+      "num": 140929,
+      "word": "黄慧颐回应遭保剑锋妻子辱骂",
+      "onboard_time": 1765456821,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140132,
@@ -1480,6 +1624,14 @@
       "word": "吴谨言优酷年冠女主回归",
       "onboard_time": 1765426522,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134383,
+      "num": 134383,
+      "word": "周柯宇收拾好锅碗瓢盆准备升咖吧",
+      "onboard_time": 1765455921,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1635,6 +1787,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125067,
+      "num": 125067,
+      "word": "西藏那曲双湖5.0级地震",
+      "onboard_time": 1765457602,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 124595,
+      "num": 124595,
+      "word": "这些食物是结节加速器",
+      "onboard_time": 1765454479,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124514,
       "num": 124514,
       "word": "微博之夜推荐",
@@ -1643,12 +1811,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124378,
-      "num": 124378,
-      "word": "林诗栋把王楚钦孙颖莎逗笑了",
-      "onboard_time": 1765452021,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 124221,
+      "num": 124221,
+      "word": "神隐平台还是破了28000",
+      "onboard_time": 1765456281,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 124004,
@@ -1728,6 +1896,14 @@
       "word": "雷霆太阳冲突",
       "onboard_time": 1765424842,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119173,
+      "num": 119173,
+      "word": "张本智和4比2高茨",
+      "onboard_time": 1765457602,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1849,6 +2025,14 @@
       "onboard_time": 1765436480,
       "rank": 43,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 112291,
+      "num": 112291,
+      "word": "樊振东暂不确定参加乒超总决赛",
+      "onboard_time": 1765456281,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 111992,
@@ -1995,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107529,
+      "num": 107529,
+      "word": "荒野求生赛提前结束",
+      "onboard_time": 1765457781,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107065,
       "num": 107065,
       "word": "新音购票时间",
@@ -2059,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103491,
+      "num": 103491,
+      "word": "何婧婧自曝是孤儿",
+      "onboard_time": 1765454240,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 103347,
       "num": 103347,
       "word": "林诗栋回应4比0梁靖崑",
@@ -2105,6 +2305,14 @@
       "onboard_time": 1765448122,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101721,
+      "num": 101721,
+      "word": "陈哲远术后首次露面",
+      "onboard_time": 1765457841,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 101418,
@@ -2163,12 +2371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98547,
+      "num": 195128,
+      "word": "田曦薇手里的痛机是粉丝手搓的",
+      "onboard_time": 1765453702,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98399,
       "num": 152891,
       "word": "片仔癀从1600元一粒降到百元",
       "onboard_time": 1765372461,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97963,
+      "num": 97963,
+      "word": "反向催婚成功让我妈没招了",
+      "onboard_time": 1765456582,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 97490,
@@ -2779,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46056,
+      "num": 194452,
+      "word": "短剧女主京东青春采销直播间热舞炸场",
+      "onboard_time": 1765455262,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 45809,
       "num": 102906,
       "word": "iG官宣TheShy离场",
@@ -2793,6 +3025,14 @@
       "onboard_time": 1765439061,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45109,
+      "num": 194612,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44148,
@@ -2833,14 +3073,6 @@
       "onboard_time": 1765379303,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42251,
-      "num": 124800,
-      "word": "多国前政要给中国李华回感谢信",
-      "onboard_time": 1765453100,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42125,
@@ -3297,6 +3529,14 @@
       "onboard_time": 1765389736,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8634,
+      "num": 291839,
+      "word": "大国小巷首善之治",
+      "onboard_time": 1765457722,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3374,

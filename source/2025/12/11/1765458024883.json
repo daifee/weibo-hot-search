@@ -1,0 +1,410 @@
+{
+  "runTime": 1765458024883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245523,
+        "num": 1245523,
+        "word": "国补",
+        "onboard_time": 1765454121,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333946,
+        "num": 333946,
+        "word": "林诗栋说调不回来了我知道的",
+        "onboard_time": 1765451481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8634,
+        "num": 291839,
+        "word": "大国小巷首善之治",
+        "onboard_time": 1765457722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444437,
+        "num": 289138,
+        "word": "迪丽热巴长文告别枭起青壤",
+        "onboard_time": 1765454602,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264288,
+        "num": 264288,
+        "word": "鼓励支持灵活就业人员参加职工保险",
+        "onboard_time": 1765449201,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278064,
+        "num": 236422,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200152,
+        "num": 200152,
+        "word": "HLE战胜T1",
+        "onboard_time": 1765453822,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299844,
+        "num": 199043,
+        "word": "藏海传",
+        "onboard_time": 1765454061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197137,
+        "num": 197137,
+        "word": "中央定调明年继续国补",
+        "onboard_time": 1765452141,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 196985,
+        "word": "林诗栋把王楚钦孙颖莎逗笑了",
+        "onboard_time": 1765452021,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592325,
+        "num": 196762,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 454692,
+        "num": 196558,
+        "word": "王楚然是每天都在买新的丑镜子吗",
+        "onboard_time": 1765453281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417596,
+        "num": 196281,
+        "word": "王玉雯 这把冲刘亦菲来的",
+        "onboard_time": 1765451960,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375448,
+        "num": 196084,
+        "word": "聚酯纤维 人心中的成见是一座大山",
+        "onboard_time": 1765443802,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 347969,
+        "num": 195640,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341973,
+        "num": 195464,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1765456641,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98547,
+        "num": 195128,
+        "word": "田曦薇手里的痛机是粉丝手搓的",
+        "onboard_time": 1765453702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252170,
+        "num": 194984,
+        "word": "雪王卖早餐被吐槽有点贵",
+        "onboard_time": 1765443981,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45109,
+        "num": 194612,
+        "word": "台当局扬言报复韩国",
+        "onboard_time": 1765457661,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46056,
+        "num": 194452,
+        "word": "短剧女主京东青春采销直播间热舞炸场",
+        "onboard_time": 1765455262,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 311061,
+        "num": 194255,
+        "word": "多国前政要给中国李华回感谢信",
+        "onboard_time": 1765453100,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 916515,
+        "num": 193865,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408822,
+        "num": 193694,
+        "word": "网友把何炅喝过的水保存了20年",
+        "onboard_time": 1765447221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15559,
+        "num": 193433,
+        "word": "从五年规划看中国之治",
+        "onboard_time": 1765445241,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320541,
+        "num": 193308,
+        "word": "神隐还是播早了",
+        "onboard_time": 1765450761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313334,
+        "num": 193040,
+        "word": "国外捐精者被查出20%精子带致癌基因",
+        "onboard_time": 1765451061,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232728,
+        "num": 192621,
+        "word": "蜜雪冰城早餐价格",
+        "onboard_time": 1765456041,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230511,
+        "num": 192504,
+        "word": "杨紫直播",
+        "onboard_time": 1765457240,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206867,
+        "num": 192256,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1765456821,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192082,
+        "num": 192082,
+        "word": "殷世航称网红欠债严重",
+        "onboard_time": 1765454602,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180478,
+        "num": 180478,
+        "word": "敖瑞鹏请把背头焊死",
+        "onboard_time": 1765456342,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178853,
+        "num": 178853,
+        "word": "鸟叔被警方调查",
+        "onboard_time": 1765457841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172858,
+        "num": 172858,
+        "word": "大生意人大结局",
+        "onboard_time": 1765454479,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155665,
+        "num": 155665,
+        "word": "李现 我不叫李现",
+        "onboard_time": 1765443202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142068,
+        "num": 142068,
+        "word": "医院用癌变恐吓患者诱导天价手术",
+        "onboard_time": 1765455801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141587,
+        "num": 141587,
+        "word": "被收养的小猫看见妈妈还在流浪",
+        "onboard_time": 1765457062,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140929,
+        "num": 140929,
+        "word": "黄慧颐回应遭保剑锋妻子辱骂",
+        "onboard_time": 1765456821,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134383,
+        "num": 134383,
+        "word": "周柯宇收拾好锅碗瓢盆准备升咖吧",
+        "onboard_time": 1765455921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125067,
+        "num": 125067,
+        "word": "西藏那曲双湖5.0级地震",
+        "onboard_time": 1765457602,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124595,
+        "num": 124595,
+        "word": "这些食物是结节加速器",
+        "onboard_time": 1765454479,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "神隐平台还是破了28000",
+        "onboard_time": 1765456281,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119173,
+        "num": 119173,
+        "word": "张本智和4比2高茨",
+        "onboard_time": 1765457602,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "周也 豪门大小姐",
+        "onboard_time": 1765445120,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112291,
+        "num": 112291,
+        "word": "樊振东暂不确定参加乒超总决赛",
+        "onboard_time": 1765456281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109701,
+        "num": 109701,
+        "word": "哈尔滨机场羽绒服洗2次不再出租",
+        "onboard_time": 1765441042,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107529,
+        "num": 107529,
+        "word": "荒野求生赛提前结束",
+        "onboard_time": 1765457781,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103491,
+        "num": 103491,
+        "word": "何婧婧自曝是孤儿",
+        "onboard_time": 1765454240,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101721,
+        "num": 101721,
+        "word": "陈哲远术后首次露面",
+        "onboard_time": 1765457841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101018,
+        "num": 101018,
+        "word": "得闲谨制",
+        "onboard_time": 1765447221,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97963,
+        "num": 97963,
+        "word": "反向催婚成功让我妈没招了",
+        "onboard_time": 1765456582,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
