@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765488651779,
+  "endTime": 1765489317259,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 166826,
-      "num": 166826,
+      "num": 189890,
       "word": "枭起青壤",
       "onboard_time": 1765469180,
       "rank": 28,
@@ -283,8 +283,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62246,
-      "num": 27408,
+      "raw_hot": 62371,
+      "num": 41415,
       "word": "多方回应用东方树叶养茶菌当宠物",
       "onboard_time": 1765483094,
       "rank": 25,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19270,
+      "num": 39881,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765460062,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18956,
       "num": 28447,
       "word": "这轮寒潮威力有多大",
@@ -529,14 +537,6 @@
       "onboard_time": 1765477575,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17412,
-      "num": 39881,
-      "word": "WTT香港总决赛",
-      "onboard_time": 1765460062,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 16972,
@@ -579,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12637,
+      "num": 16315,
+      "word": "黄慧颐回应遭保剑锋妻子辱骂",
+      "onboard_time": 1765456821,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12281,
       "num": 16315,
       "word": "2026中国经济怎么干",
@@ -593,14 +601,6 @@
       "onboard_time": 1765476374,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10958,
-      "num": 16315,
-      "word": "黄慧颐回应遭保剑锋妻子辱骂",
-      "onboard_time": 1765456821,
-      "rank": 49,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
