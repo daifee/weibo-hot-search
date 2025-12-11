@@ -1,0 +1,410 @@
+{
+  "runTime": 1765436271144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 921117,
+        "num": 1147378,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386369,
+        "num": 386369,
+        "word": "B站",
+        "onboard_time": 1765428862,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10271,
+        "num": 361712,
+        "word": "一条vlog回顾2025",
+        "onboard_time": 1765429402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361186,
+        "num": 361186,
+        "word": "高市早苗想让美国好歹拉日本一把",
+        "onboard_time": 1765433421,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1084740,
+        "num": 360791,
+        "word": "蜜雪冰城开始卖早餐了",
+        "onboard_time": 1765430839,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351477,
+        "num": 351477,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 336195,
+        "num": 336195,
+        "word": "papi妈妈",
+        "onboard_time": 1765419262,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322047,
+        "num": 322047,
+        "word": "联合国厕所不再提供擦手纸",
+        "onboard_time": 1765428442,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289217,
+        "num": 289217,
+        "word": "王者荣耀",
+        "onboard_time": 1765432582,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282941,
+        "num": 282941,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449291,
+        "num": 281338,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406366,
+        "num": 278177,
+        "word": "沈梦辰回应什么时候要小孩",
+        "onboard_time": 1765435100,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355730,
+        "num": 270124,
+        "word": "护士被男友割喉杀害",
+        "onboard_time": 1765427422,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306106,
+        "num": 267034,
+        "word": "刘亦菲珠宝消失术",
+        "onboard_time": 1765431920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265465,
+        "num": 265465,
+        "word": "欧洲有致癌基因男子捐精17年",
+        "onboard_time": 1765427722,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36127,
+        "num": 256041,
+        "word": "迪奥高订花瓣在三里屯绽放",
+        "onboard_time": 1765433062,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 247035,
+        "num": 247035,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "R1SE浙江跨晚 结没结婚都来了",
+        "onboard_time": 1765431080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199824,
+        "num": 199824,
+        "word": "华为重夺中国手机市场份额第一",
+        "onboard_time": 1765427782,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25101,
+        "num": 199789,
+        "word": "济南考研点酒店破千元",
+        "onboard_time": 1765435822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809875,
+        "num": 199501,
+        "word": "TFBOYS 帝国姐",
+        "onboard_time": 1765432221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614244,
+        "num": 198989,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558027,
+        "num": 198768,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306348,
+        "num": 198404,
+        "word": "陈妍希台湾腔全给周柯宇一个人听了",
+        "onboard_time": 1765423520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198348,
+        "num": 198348,
+        "word": "华妃说这歌声吵到本宫了",
+        "onboard_time": 1765434682,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 189115,
+        "word": "范曾4段婚姻1女1子2继子",
+        "onboard_time": 1765435281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188187,
+        "num": 188187,
+        "word": "张艺兴退股染色体娱乐",
+        "onboard_time": 1765424962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184472,
+        "num": 184472,
+        "word": "考研被酒店威胁了",
+        "onboard_time": 1765432523,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128381,
+        "num": 182337,
+        "word": "千元羽绒服穿1天变吸油服",
+        "onboard_time": 1765430601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81176,
+        "num": 180843,
+        "word": "手机被骗子共享了屏幕怎么办",
+        "onboard_time": 1765434622,
+        "rank": 29,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "长得太精致被误认为是化妆了",
+        "onboard_time": 1765428981,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 145835,
+        "word": "向鹏vs安宰贤",
+        "onboard_time": 1765433062,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37517,
+        "num": 142396,
+        "word": "商人被控诈骗政府9500万",
+        "onboard_time": 1765434622,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140789,
+        "num": 140789,
+        "word": "Kanavi韩服挂机",
+        "onboard_time": 1765432461,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131083,
+        "num": 139778,
+        "word": "向鹏4比2安宰贤",
+        "onboard_time": 1765435881,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "肖战二封King",
+        "onboard_time": 1765429282,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131410,
+        "num": 131410,
+        "word": "A股",
+        "onboard_time": 1765423040,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126095,
+        "num": 126095,
+        "word": "金价",
+        "onboard_time": 1765420161,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53026,
+        "num": 117388,
+        "word": "好命哥也在看大生意人",
+        "onboard_time": 1765435761,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66840,
+        "num": 116536,
+        "word": "日本电视台工作人员跳楼砸中路人肩膀",
+        "onboard_time": 1765436060,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116340,
+        "num": 116340,
+        "word": "马刺淘汰湖人",
+        "onboard_time": 1765434321,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98939,
+        "num": 114355,
+        "word": "清华博士斩获Excel世锦赛第9名",
+        "onboard_time": 1765434081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114347,
+        "num": 114347,
+        "word": "拉伸对直腿细腿的杀伤力",
+        "onboard_time": 1765433661,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110652,
+        "num": 110652,
+        "word": "弦子李茂一个电话把黄英夫妇哄上综艺",
+        "onboard_time": 1765435340,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108994,
+        "num": 108994,
+        "word": "爱奇艺回复双轨播出时间",
+        "onboard_time": 1765420161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107997,
+        "num": 107997,
+        "word": "郭柯宇再见爱人永远的白月光",
+        "onboard_time": 1765436242,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "联合国厕所停供擦手纸",
+        "onboard_time": 1765436242,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106150,
+        "num": 106150,
+        "word": "杨紫申请强执诽谤黑粉",
+        "onboard_time": 1765436120,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101984,
+        "num": 105136,
+        "word": "华为重夺国内份额第一",
+        "onboard_time": 1765434682,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104988,
+        "num": 104988,
+        "word": "安崎官宣签约天娱",
+        "onboard_time": 1765434501,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记用这4个字评价2025年#"
+    }
+  }
+}

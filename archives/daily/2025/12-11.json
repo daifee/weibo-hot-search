@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765435440390,
+  "endTime": 1765436271144,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -33,6 +33,14 @@
       "onboard_time": 1765418180,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1084740,
+      "num": 443917,
+      "word": "蜜雪冰城开始卖早餐了",
+      "onboard_time": 1765430839,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1077554,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 831035,
-      "num": 191052,
+      "num": 199501,
       "word": "TFBOYS 帝国姐",
       "onboard_time": 1765432221,
       "rank": 20,
@@ -89,14 +97,6 @@
       "onboard_time": 1765427422,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 780931,
-      "num": 443917,
-      "word": "蜜雪冰城开始卖早餐了",
-      "onboard_time": 1765430839,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 751283,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 482430,
-      "num": 252690,
+      "num": 265465,
       "word": "欧洲有致癌基因男子捐精17年",
       "onboard_time": 1765427722,
       "rank": 35,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406366,
+      "num": 278177,
+      "word": "沈梦辰回应什么时候要小孩",
+      "onboard_time": 1765435100,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393503,
       "num": 735344,
       "word": "男子毒死9条宠物狗一审宣判",
@@ -289,6 +297,14 @@
       "onboard_time": 1765423581,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 361186,
+      "num": 361186,
+      "word": "高市早苗想让美国好歹拉日本一把",
+      "onboard_time": 1765433421,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 353852,
@@ -339,14 +355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 321830,
-      "num": 321830,
-      "word": "高市早苗想让美国好歹拉日本一把",
-      "onboard_time": 1765433421,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 308634,
       "num": 274027,
       "word": "刘亦菲珠宝消失术",
@@ -363,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289217,
+      "num": 289217,
+      "word": "王者荣耀",
+      "onboard_time": 1765432582,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288163,
       "num": 262873,
       "word": "曝经纪公司压榨即将到期的顶流",
       "onboard_time": 1765418419,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283851,
-      "num": 283851,
-      "word": "王者荣耀",
-      "onboard_time": 1765432582,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 281956,
@@ -441,6 +449,14 @@
       "onboard_time": 1765344499,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247035,
+      "num": 247035,
+      "word": "一个LV狗窝可以买一套房",
+      "onboard_time": 1765434861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246705,
@@ -579,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198348,
+      "num": 198348,
+      "word": "华妃说这歌声吵到本宫了",
+      "onboard_time": 1765434682,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195794,
       "num": 195794,
       "word": "湖人vs马刺",
       "onboard_time": 1765427062,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193167,
-      "num": 193167,
-      "word": "沈梦辰回应什么时候要小孩",
-      "onboard_time": 1765435100,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 189843,
@@ -609,6 +625,14 @@
       "onboard_time": 1765424902,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189115,
+      "num": 189115,
+      "word": "范曾4段婚姻1女1子2继子",
+      "onboard_time": 1765435281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187747,
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184472,
+      "num": 184472,
+      "word": "考研被酒店威胁了",
+      "onboard_time": 1765432523,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181543,
       "num": 181543,
       "word": "有网友称已经囤了100支水银温度计",
@@ -657,14 +689,6 @@
       "onboard_time": 1765423281,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179487,
-      "num": 179487,
-      "word": "考研被酒店威胁了",
-      "onboard_time": 1765432523,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176305,
@@ -761,14 +785,6 @@
       "onboard_time": 1765417941,
       "rank": 26,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 159995,
-      "num": 159995,
-      "word": "华妃说这歌声吵到本宫了",
-      "onboard_time": 1765434682,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 158740,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 132157,
-      "num": 180308,
+      "num": 180843,
       "word": "手机被骗子共享了屏幕怎么办",
       "onboard_time": 1765434622,
       "rank": 29,
@@ -945,6 +961,14 @@
       "onboard_time": 1765429821,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131083,
+      "num": 139778,
+      "word": "向鹏4比2安宰贤",
+      "onboard_time": 1765435881,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 129898,
@@ -1179,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108247,
-      "num": 108247,
-      "word": "范曾4段婚姻1女1子2继子",
-      "onboard_time": 1765435281,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108056,
       "num": 106767,
       "word": "李昀锐曾瘦到124斤",
@@ -1195,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107997,
+      "num": 107997,
+      "word": "郭柯宇再见爱人永远的白月光",
+      "onboard_time": 1765436242,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107909,
       "num": 107909,
       "word": "郭碧婷 向太有给很多钱",
       "onboard_time": 1765359561,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107149,
+      "num": 107149,
+      "word": "联合国厕所停供擦手纸",
+      "onboard_time": 1765436242,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107065,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1765422739,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106150,
+      "num": 106150,
+      "word": "杨紫申请强执诽谤黑粉",
+      "onboard_time": 1765436120,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 104153,
@@ -1299,20 +1339,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98939,
+      "num": 189987,
+      "word": "清华博士斩获Excel世锦赛第9名",
+      "onboard_time": 1765434081,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98399,
       "num": 152891,
       "word": "片仔癀从1600元一粒降到百元",
       "onboard_time": 1765372461,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98206,
-      "num": 120239,
-      "word": "一个LV狗窝可以买一套房",
-      "onboard_time": 1765434861,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97490,
@@ -1361,14 +1401,6 @@
       "onboard_time": 1765422680,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94525,
-      "num": 189987,
-      "word": "清华博士斩获Excel世锦赛第9名",
-      "onboard_time": 1765434081,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92547,
@@ -1531,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66840,
+      "num": 116536,
+      "word": "日本电视台工作人员跳楼砸中路人肩膀",
+      "onboard_time": 1765436060,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66554,
       "num": 105102,
       "word": "刘宇宁羽毛扣杀技能唯一拥有者",
@@ -1651,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53026,
+      "num": 117388,
+      "word": "好命哥也在看大生意人",
+      "onboard_time": 1765435761,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52759,
       "num": 102795,
       "word": "曝何九华王鸥已在南宁领证",
@@ -1764,7 +1812,7 @@
     },
     {
       "raw_hot": 44933,
-      "num": 240543,
+      "num": 256041,
       "word": "迪奥高订花瓣在三里屯绽放",
       "onboard_time": 1765433062,
       "rank": 14,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1765394474,
       "rank": 49,
       "category": "情感,剧集"
+    },
+    {
+      "raw_hot": 37517,
+      "num": 193156,
+      "word": "商人被控诈骗政府9500万",
+      "onboard_time": 1765434622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36856,
@@ -1955,14 +2011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30934,
-      "num": 193156,
-      "word": "商人被控诈骗政府9500万",
-      "onboard_time": 1765434622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29292,
       "num": 53886,
       "word": "周柯宇 不要ban妍希姐的英雄",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1765388476,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25101,
+      "num": 199789,
+      "word": "济南考研点酒店破千元",
+      "onboard_time": 1765435822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25048,
