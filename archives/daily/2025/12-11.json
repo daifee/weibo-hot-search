@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765467253708,
+  "endTime": 1765468092938,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -515,20 +515,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 403625,
+      "num": 457179,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765362501,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393503,
       "num": 735344,
       "word": "男子毒死9条宠物狗一审宣判",
       "onboard_time": 1765415900,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 390440,
-      "num": 457179,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765362501,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 389822,
@@ -569,6 +569,14 @@
       "onboard_time": 1765437442,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371280,
+      "num": 280862,
+      "word": "张本智和庆祝动作致敬樊振东",
+      "onboard_time": 1765465102,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 367022,
@@ -795,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280862,
-      "num": 280862,
-      "word": "张本智和庆祝动作致敬樊振东",
-      "onboard_time": 1765465102,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279502,
       "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240712,
+      "num": 170017,
+      "word": "42岁陈妍希 建议所有女性来学",
+      "onboard_time": 1765464262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240148,
       "num": 254352,
       "word": "中央定调明年继续国补",
@@ -921,14 +929,6 @@
       "onboard_time": 1765431080,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235186,
-      "num": 170017,
-      "word": "42岁陈妍希 建议所有女性来学",
-      "onboard_time": 1765464262,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 234099,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1765444580,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200285,
+      "num": 150987,
+      "word": "恋综宾利哥说认出了痞幼的老头乐",
+      "onboard_time": 1765466061,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 200152,
@@ -1585,14 +1593,6 @@
       "onboard_time": 1765439481,
       "rank": 30,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 150987,
-      "num": 150987,
-      "word": "恋综宾利哥说认出了痞幼的老头乐",
-      "onboard_time": 1765466061,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 150025,
@@ -2939,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90013,
+      "num": 90013,
+      "word": "逃税1600万网红7天狂卖10万件",
+      "onboard_time": 1765466961,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89833,
       "num": 89833,
       "word": "Gumayusi和T1队员握手",
@@ -3043,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82875,
+      "num": 85415,
+      "word": "拌饭嘎嘎香的鱼香肉丝",
+      "onboard_time": 1765467981,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81672,
       "num": 81672,
       "word": "居民称汕头火灾有小女孩冒火冲出",
@@ -3089,6 +3105,22 @@
       "onboard_time": 1765452080,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76387,
+      "num": 128469,
+      "word": "WTT香港总决赛12月12日赛程",
+      "onboard_time": 1765467440,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74517,
+      "num": 89127,
+      "word": "深化住房公积金制度改革",
+      "onboard_time": 1765467321,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72517,
@@ -3185,6 +3217,14 @@
       "onboard_time": 1765407557,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62482,
+      "num": 102576,
+      "word": "女子被丈夫灌面汤呛死案一审将宣判",
+      "onboard_time": 1765466362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62079,
@@ -3443,6 +3483,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 46042,
+      "num": 167053,
+      "word": "督促各地主动化债",
+      "onboard_time": 1765465822,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45809,
       "num": 102906,
       "word": "iG官宣TheShy离场",
@@ -3497,14 +3545,6 @@
       "onboard_time": 1765379303,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42131,
-      "num": 167053,
-      "word": "督促各地主动化债",
-      "onboard_time": 1765465822,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42125,
@@ -3619,14 +3659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36139,
-      "num": 102576,
-      "word": "女子被丈夫灌面汤呛死案一审将宣判",
-      "onboard_time": 1765466362,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35755,
       "num": 61639,
       "word": "当安卓用户第一次用苹果",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1765382120,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 34052,
+      "num": 102240,
+      "word": "王楚钦纠正自己的采访发言",
+      "onboard_time": 1765466481,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 33800,
@@ -3745,14 +3785,6 @@
       "onboard_time": 1765464202,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30354,
-      "num": 102240,
-      "word": "王楚钦纠正自己的采访发言",
-      "onboard_time": 1765466481,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 29292,

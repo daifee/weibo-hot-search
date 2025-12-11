@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/11 23:34:13
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/11 23:48:12
 </p>
 </blockquote>
 <p>
@@ -4623,6 +4623,12 @@ B站回应被黄杨钿甜起诉（热度：380891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%E8%87%B4%E6%95%AC%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+张本智和庆祝动作致敬樊振东（热度：371280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%BF%87%E6%9C%9F%E7%B3%96%23" target="weibo">
 白鹿张凌赫 过期糖（热度：370248）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro系列破发（热度：297530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3su7%E6%92%9E%E5%9D%8F%E4%B8%8A%E7%99%BE%E7%B1%B3%E6%8A%A4%E6%A0%8F%E5%8D%81%E5%A4%9A%E8%BE%86%E8%BD%A6%23" target="weibo">
 小米su7撞坏上百米护栏十多辆车（热度：296920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：296738）
 </a>
 </li>
 
