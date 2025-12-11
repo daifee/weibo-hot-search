@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765471228520,
+  "endTime": 1765472241923,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199068,
+      "num": 155302,
+      "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
+      "onboard_time": 1765468880,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188040,
       "num": 273432,
       "word": "中央明确普通高中优质本科扩招",
@@ -108,15 +116,23 @@
     },
     {
       "raw_hot": 155339,
-      "num": 155339,
+      "num": 183515,
       "word": "深化住房公积金制度改革",
       "onboard_time": 1765467321,
       "rank": 16,
       "category": "国内时政"
     },
     {
+      "raw_hot": 144786,
+      "num": 119528,
+      "word": "郭碧婷坦言向太给了很多钱",
+      "onboard_time": 1765469540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142162,
-      "num": 113345,
+      "num": 124120,
       "word": "42岁陈妍希 建议所有女性来学",
       "onboard_time": 1765464262,
       "rank": 24,
@@ -131,28 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127841,
-      "num": 127841,
-      "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
-      "onboard_time": 1765468880,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "陈妍希 沈佳宜",
       "onboard_time": 1765465881,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119528,
-      "num": 119528,
-      "word": "郭碧婷坦言向太给了很多钱",
-      "onboard_time": 1765469540,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 114071,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98819,
+      "num": 98819,
+      "word": "长期熬夜小心甲状腺癌",
+      "onboard_time": 1765470678,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74504,
       "num": 74504,
       "word": "王楚然每天都在做法令纹消失操",
@@ -249,6 +257,14 @@
       "onboard_time": 1765456041,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62465,
+      "num": 62465,
+      "word": "没见他之前我简直在乱爬山",
+      "onboard_time": 1765470978,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 61898,
@@ -323,16 +339,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54299,
-      "num": 54299,
-      "word": "长期熬夜小心甲状腺癌",
-      "onboard_time": 1765470678,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 53997,
-      "num": 53997,
+      "num": 54000,
       "word": "SK发博",
       "onboard_time": 1765459222,
       "rank": 44,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 51824,
-      "num": 53995,
+      "num": 54049,
       "word": "8种癌症遗传风险高",
       "onboard_time": 1765469540,
       "rank": 45,
@@ -355,20 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51038,
-      "num": 53971,
-      "word": "没见他之前我简直在乱爬山",
-      "onboard_time": 1765470978,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 50443,
-      "num": 53962,
+      "num": 54034,
       "word": "人民空军双语海报喊话日本",
       "onboard_time": 1765467680,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47356,
+      "num": 54086,
+      "word": "Zeka三次单杀Faker",
+      "onboard_time": 1765471278,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 46846,
@@ -377,6 +385,22 @@
       "onboard_time": 1765466842,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44461,
+      "num": 54072,
+      "word": "萝卜事业运",
+      "onboard_time": 1765467080,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 41263,
+      "num": 54027,
+      "word": "杨紫直播",
+      "onboard_time": 1765457240,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 36316,
