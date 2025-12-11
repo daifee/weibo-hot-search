@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765431079808,
+  "endTime": 1765432039900,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -715,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 792669,
+      "num": 272121,
+      "word": "护士被男友割喉杀害",
+      "onboard_time": 1765427422,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 792143,
       "num": 232546,
       "word": "王梓莼回应了",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 751283,
-      "num": 220416,
+      "num": 223435,
       "word": "范曾 徐萌",
       "onboard_time": 1765429282,
       "rank": 10,
@@ -793,14 +801,6 @@
       "onboard_time": 1765090461,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731519,
-      "num": 272121,
-      "word": "护士被男友割喉杀害",
-      "onboard_time": 1765427422,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 721013,
@@ -1715,6 +1715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 482430,
+      "num": 228156,
+      "word": "欧洲有致癌基因男子捐精17年",
+      "onboard_time": 1765427722,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 482375,
       "num": 1077180,
       "word": "课本上明太祖画像换了",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1765418601,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467670,
+      "num": 1074827,
+      "word": "华为重夺中国手机市场份额第一",
+      "onboard_time": 1765427782,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 467159,
@@ -2011,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439446,
+      "num": 221752,
+      "word": "2025超话大赏",
+      "onboard_time": 1765429103,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 436513,
       "num": 289947,
       "word": "将门毒后",
@@ -2195,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401401,
+      "num": 401401,
+      "word": "B站",
+      "onboard_time": 1765428862,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 401349,
       "num": 989000,
       "word": "F1",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1765034843,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386425,
-      "num": 228156,
-      "word": "欧洲有致癌基因男子捐精17年",
-      "onboard_time": 1765427722,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 386117,
@@ -2771,28 +2795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338452,
-      "num": 1054152,
-      "word": "华为重夺中国手机市场份额第一",
-      "onboard_time": 1765427782,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 338438,
       "num": 604557,
       "word": "泰国对柬埔寨发动空袭",
       "onboard_time": 1765172422,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 337747,
-      "num": 216674,
-      "word": "2025超话大赏",
-      "onboard_time": 1765429103,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 337034,
@@ -3203,14 +3211,6 @@
       "category": "财经,休闲"
     },
     {
-      "raw_hot": 297583,
-      "num": 297583,
-      "word": "B站",
-      "onboard_time": 1765428862,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 297530,
       "num": 806834,
       "word": "iPhone17Pro系列破发",
@@ -3355,6 +3355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281956,
+      "num": 194248,
+      "word": "长得太精致被误认为是化妆了",
+      "onboard_time": 1765428981,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281720,
       "num": 208597,
       "word": "台湾地位已被七重锁定",
@@ -3427,14 +3435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278015,
-      "num": 168266,
-      "word": "长得太精致被误认为是化妆了",
-      "onboard_time": 1765428981,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276879,
       "num": 276879,
       "word": "李现 奖杯烫手",
@@ -3492,7 +3492,7 @@
     },
     {
       "raw_hot": 272321,
-      "num": 214603,
+      "num": 221232,
       "word": "肖战二封King",
       "onboard_time": 1765429282,
       "rank": 13,
@@ -4227,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218934,
+      "num": 193834,
+      "word": "千元羽绒服穿1天变吸油服",
+      "onboard_time": 1765430601,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
@@ -4851,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200128,
+      "num": 200128,
+      "word": "R1SE浙江跨晚 结没结婚都来了",
+      "onboard_time": 1765431080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200003,
       "num": 200003,
       "word": "王鸥啥时候结婚的",
@@ -5153,6 +5169,14 @@
       "onboard_time": 1765346422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189955,
+      "num": 225673,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 189953,
@@ -6259,6 +6283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158347,
+      "num": 158347,
+      "word": "蜜雪冰城开始卖早餐了",
+      "onboard_time": 1765430839,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158090,
       "num": 333549,
       "word": "iPhone17Pro官方破价",
@@ -6369,6 +6401,14 @@
       "onboard_time": 1765183401,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155278,
+      "num": 167507,
+      "word": "联合国厕所不再提供擦手纸",
+      "onboard_time": 1765428442,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155212,
@@ -7371,6 +7411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138409,
+      "num": 138409,
+      "word": "冯提莫曾说患癌是被气的",
+      "onboard_time": 1765430960,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138367,
       "num": 138367,
       "word": "2025星光大赏星光墙",
@@ -7569,6 +7617,14 @@
       "onboard_time": 1765085360,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135018,
+      "num": 135018,
+      "word": "姚晨杨幂赵丽颖二封Queen",
+      "onboard_time": 1765430720,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134933,
@@ -8041,14 +8097,6 @@
       "onboard_time": 1765105460,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129216,
-      "num": 129216,
-      "word": "千元羽绒服穿1天变吸油服",
-      "onboard_time": 1765430601,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128828,
@@ -8587,6 +8635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "米兰冬奥会冰壶落选赛",
+      "onboard_time": 1765431621,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122368,
       "num": 122368,
       "word": "短跑运动三大悍将都退役了",
@@ -8755,14 +8811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120233,
-      "num": 167507,
-      "word": "联合国厕所不再提供擦手纸",
-      "onboard_time": 1765428442,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120227,
       "num": 120227,
       "word": "迪丽热巴演出了非人感",
@@ -8881,14 +8929,6 @@
       "onboard_time": 1765081820,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119207,
-      "num": 119207,
-      "word": "姚晨杨幂赵丽颖二封Queen",
-      "onboard_time": 1765430720,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119117,
@@ -9600,6 +9640,14 @@
       "word": "黄景瑜邓超你俩坐一桌",
       "onboard_time": 1765103659,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112349,
+      "num": 112349,
+      "word": "刘亦菲珠宝消失术",
+      "onboard_time": 1765431920,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -10435,6 +10483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103347,
+      "num": 103347,
+      "word": "林诗栋回应4比0梁靖崑",
+      "onboard_time": 1765431980,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103290,
       "num": 103290,
       "word": "国际乒联将创办世界大师队锦标赛",
@@ -10489,6 +10545,14 @@
       "onboard_time": 1765377562,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 102892,
+      "num": 102892,
+      "word": "幼儿园小朋友过马路有多可爱",
+      "onboard_time": 1765431501,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 102678,
@@ -10827,6 +10891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99472,
+      "num": 124709,
+      "word": "陈晓新剧碰上老婆硬气不过三秒",
+      "onboard_time": 1765430839,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99465,
       "num": 99465,
       "word": "治婆婆还得婆婆的婆婆来",
@@ -10964,7 +11036,7 @@
     },
     {
       "raw_hot": 97411,
-      "num": 97411,
+      "num": 160029,
       "word": "我使馆提醒在日中国公民登记",
       "onboard_time": 1765430839,
       "rank": 49,
@@ -11739,14 +11811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87529,
-      "num": 120280,
-      "word": "陈晓新剧碰上老婆硬气不过三秒",
-      "onboard_time": 1765430839,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87322,
       "num": 119972,
       "word": "沈腾气的嘴都歪了",
@@ -11905,14 +11969,6 @@
       "onboard_time": 1765207643,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84637,
-      "num": 120454,
-      "word": "冯提莫曾说患癌是被气的",
-      "onboard_time": 1765430960,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 84628,
@@ -12457,6 +12513,14 @@
       "onboard_time": 1765331780,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72517,
+      "num": 123213,
+      "word": "32岁女子每天工作12小时突然中风",
+      "onboard_time": 1765431621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72116,
@@ -13739,6 +13803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48311,
+      "num": 202724,
+      "word": "无名老人住院7年半仅眼球能转动",
+      "onboard_time": 1765431023,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48280,
       "num": 103402,
       "word": "任嘉伦为提高饭量打乒乓球",
@@ -14796,11 +14868,19 @@
     },
     {
       "raw_hot": 31727,
-      "num": 178003,
+      "num": 199470,
       "word": "2025最后一抹唇色诱惑",
       "onboard_time": 1765430180,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 31398,
+      "num": 225175,
+      "word": "电建1号可在太空监工",
+      "onboard_time": 1765429402,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31263,
@@ -15083,6 +15163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26780,
+      "num": 284473,
+      "word": "一条vlog回顾2025",
+      "onboard_time": 1765429402,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26546,
       "num": 245779,
       "word": "我国重大科技成果数量月月攀高",
@@ -15224,14 +15312,6 @@
       "word": "新国标电动车爬陡坡吃力得靠人推",
       "onboard_time": 1765079781,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24699,
-      "num": 106545,
-      "word": "无名老人住院7年半仅眼球能转动",
-      "onboard_time": 1765431023,
-      "rank": 44,
       "category": "民生新闻"
     },
     {

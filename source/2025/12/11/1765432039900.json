@@ -1,0 +1,410 @@
+{
+  "runTime": 1765432039900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 467670,
+        "num": 1074827,
+        "word": "华为重夺中国手机市场份额第一",
+        "onboard_time": 1765427782,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401401,
+        "num": 401401,
+        "word": "B站",
+        "onboard_time": 1765428862,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26780,
+        "num": 284473,
+        "word": "一条vlog回顾2025",
+        "onboard_time": 1765429402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231702,
+        "num": 231702,
+        "word": "无汞玻璃体温计甩了100余次未成功",
+        "onboard_time": 1765418601,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 225673,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530049,
+        "num": 225525,
+        "word": "papi妈妈",
+        "onboard_time": 1765419262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792669,
+        "num": 225523,
+        "word": "护士被男友割喉杀害",
+        "onboard_time": 1765427422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225372,
+        "num": 225372,
+        "word": "红学专家否定红楼梦悼明",
+        "onboard_time": 1765414821,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 31398,
+        "num": 225175,
+        "word": "电建1号可在太空监工",
+        "onboard_time": 1765429402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364460,
+        "num": 224036,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 668867,
+        "num": 223435,
+        "word": "范曾 徐萌",
+        "onboard_time": 1765429282,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482430,
+        "num": 222515,
+        "word": "欧洲有致癌基因男子捐精17年",
+        "onboard_time": 1765427722,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439446,
+        "num": 221752,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270198,
+        "num": 221232,
+        "word": "肖战二封King",
+        "onboard_time": 1765429282,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 220605,
+        "word": "爱奇艺回复双轨播出时间",
+        "onboard_time": 1765420161,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220235,
+        "num": 220235,
+        "word": "吴宣仪 训粉",
+        "onboard_time": 1765416080,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205588,
+        "num": 205588,
+        "word": "谭松韵 大波浪洋娃娃",
+        "onboard_time": 1765424603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48311,
+        "num": 202724,
+        "word": "无名老人住院7年半仅眼球能转动",
+        "onboard_time": 1765431023,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200128,
+        "num": 200128,
+        "word": "R1SE浙江跨晚 结没结婚都来了",
+        "onboard_time": 1765431080,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 199470,
+        "word": "2025最后一抹唇色诱惑",
+        "onboard_time": 1765430180,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 786679,
+        "num": 198319,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726811,
+        "num": 197271,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378375,
+        "num": 196922,
+        "word": "张艺兴退股染色体娱乐",
+        "onboard_time": 1765424962,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297713,
+        "num": 195584,
+        "word": "陈妍希台湾腔全给周柯宇一个人听了",
+        "onboard_time": 1765423520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281956,
+        "num": 194248,
+        "word": "长得太精致被误认为是化妆了",
+        "onboard_time": 1765428981,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 193834,
+        "word": "千元羽绒服穿1天变吸油服",
+        "onboard_time": 1765430601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193127,
+        "num": 193127,
+        "word": "金价",
+        "onboard_time": 1765420161,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171209,
+        "num": 171209,
+        "word": "三十年前的奢侈品零食有多好吃",
+        "onboard_time": 1765423581,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162542,
+        "num": 162542,
+        "word": "杨紫三封Queen",
+        "onboard_time": 1765421721,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81643,
+        "num": 160029,
+        "word": "我使馆提醒在日中国公民登记",
+        "onboard_time": 1765430839,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158347,
+        "num": 158347,
+        "word": "蜜雪冰城开始卖早餐了",
+        "onboard_time": 1765430839,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "联合国厕所不再提供擦手纸",
+        "onboard_time": 1765428442,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149102,
+        "num": 149102,
+        "word": "孩子的阿贝贝退休了",
+        "onboard_time": 1765427782,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 145501,
+        "word": "詹姆斯隔扣",
+        "onboard_time": 1765427963,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138409,
+        "num": 138409,
+        "word": "冯提莫曾说患癌是被气的",
+        "onboard_time": 1765430960,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135018,
+        "num": 135018,
+        "word": "姚晨杨幂赵丽颖二封Queen",
+        "onboard_time": 1765430720,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "浙江卫视跨年晚会阵容官宣",
+        "onboard_time": 1765424962,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "原来卧龙凤雏是同一个人",
+        "onboard_time": 1765430661,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99472,
+        "num": 124709,
+        "word": "陈晓新剧碰上老婆硬气不过三秒",
+        "onboard_time": 1765430839,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72517,
+        "num": 123213,
+        "word": "32岁女子每天工作12小时突然中风",
+        "onboard_time": 1765431621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122428,
+        "num": 122428,
+        "word": "米兰冬奥会冰壶落选赛",
+        "onboard_time": 1765431621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116858,
+        "num": 116858,
+        "word": "狙击蝴蝶剧宣必有高人指点",
+        "onboard_time": 1765427902,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34429,
+        "num": 114581,
+        "word": "4城10多家药店仅1家在售无汞体温计",
+        "onboard_time": 1765429821,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112349,
+        "num": 112349,
+        "word": "刘亦菲珠宝消失术",
+        "onboard_time": 1765431920,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106105,
+        "num": 106105,
+        "word": "一无名男子在医院躺了7年半",
+        "onboard_time": 1765416861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103851,
+        "num": 103851,
+        "word": "长安二十四计成毅面相都变了",
+        "onboard_time": 1765427242,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103347,
+        "num": 103347,
+        "word": "林诗栋回应4比0梁靖崑",
+        "onboard_time": 1765431980,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102892,
+        "num": 102892,
+        "word": "幼儿园小朋友过马路有多可爱",
+        "onboard_time": 1765431501,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101773,
+        "num": 101773,
+        "word": "林诗栋4比0胜梁靖崑",
+        "onboard_time": 1765429642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98873,
+        "num": 98873,
+        "word": "A股",
+        "onboard_time": 1765423040,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记用这4个字评价2025年#"
+    }
+  }
+}
