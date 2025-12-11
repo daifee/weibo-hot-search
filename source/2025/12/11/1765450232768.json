@@ -1,0 +1,410 @@
+{
+  "runTime": 1765450232768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 665302,
+        "num": 1106448,
+        "word": "雪王卖早餐被吐槽有点贵",
+        "onboard_time": 1765443981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481122,
+        "num": 481122,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19093,
+        "num": 480261,
+        "word": "从五年规划看中国之治",
+        "onboard_time": 1765445241,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251368,
+        "num": 474788,
+        "word": "哈尔滨机场羽绒服洗2次不再出租",
+        "onboard_time": 1765441042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176375,
+        "num": 471985,
+        "word": "华为Mate80销量",
+        "onboard_time": 1765443083,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 559679,
+        "num": 466224,
+        "word": "字节跳动100元餐标的免费三餐",
+        "onboard_time": 1765438462,
+        "rank": 5,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 187524,
+        "num": 464296,
+        "word": "医院躺了2700多天的男子是植物人",
+        "onboard_time": 1765441521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152462,
+        "num": 457179,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765448061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1146,
+        "num": 455255,
+        "word": "山海协同陆海联动绘就万里山河新画卷",
+        "onboard_time": 1765361480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127091,
+        "num": 450653,
+        "word": "王楚钦说莎莎一直在顶点",
+        "onboard_time": 1765444580,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147055,
+        "num": 446433,
+        "word": "得闲谨制",
+        "onboard_time": 1765447221,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 625339,
+        "num": 440901,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590990,
+        "num": 439322,
+        "word": "聚酯纤维 人心中的成见是一座大山",
+        "onboard_time": 1765443802,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 59120,
+        "num": 433869,
+        "word": "外交部回应高市最新言论",
+        "onboard_time": 1765448781,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431030,
+        "num": 431030,
+        "word": "李现 我不叫李现",
+        "onboard_time": 1765443202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385910,
+        "num": 385910,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248997,
+        "num": 248997,
+        "word": "周也 豪门大小姐",
+        "onboard_time": 1765445120,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237279,
+        "num": 237279,
+        "word": "再见爱人5",
+        "onboard_time": 1765443861,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122237,
+        "num": 237144,
+        "word": "鼓励支持灵活就业人员参加职工保险",
+        "onboard_time": 1765449201,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26662,
+        "num": 229795,
+        "word": "迪奥重视中国市场发展",
+        "onboard_time": 1765447522,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1430678,
+        "num": 227874,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716080,
+        "num": 224658,
+        "word": "网友把何炅喝过的水保存了20年",
+        "onboard_time": 1765447221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256062,
+        "num": 219461,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1765445541,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 218267,
+        "num": 218267,
+        "word": "HLE对战T1",
+        "onboard_time": 1765446023,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211372,
+        "num": 211372,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163494,
+        "num": 163494,
+        "word": "陈晓你火到我老板了",
+        "onboard_time": 1765449021,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149422,
+        "num": 149422,
+        "word": "马来西亚男孩残忍杀害女同学",
+        "onboard_time": 1765442360,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142811,
+        "num": 142811,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139579,
+        "num": 139579,
+        "word": "痞幼恋综同款豪车全球仅300台",
+        "onboard_time": 1765446681,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135971,
+        "num": 135971,
+        "word": "李昀锐 130斤不行130斤胖了",
+        "onboard_time": 1765437380,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283151,
+        "num": 132985,
+        "word": "光与夜之恋新周边",
+        "onboard_time": 1765449802,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140132,
+        "num": 131297,
+        "word": "中方希望墨方及早纠正错误做法",
+        "onboard_time": 1765449021,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129014,
+        "num": 129014,
+        "word": "迈凯伦首款SUV",
+        "onboard_time": 1765446501,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128686,
+        "num": 128686,
+        "word": "离婚后她举办了一个人的婚礼",
+        "onboard_time": 1765443142,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126921,
+        "num": 126921,
+        "word": "男子花36万买毒品到手竟是味精",
+        "onboard_time": 1765447641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116078,
+        "num": 122458,
+        "word": "王楚钦孙颖莎打着打着笑了",
+        "onboard_time": 1765444461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "陈妍希说妹妹姐是什么意思",
+        "onboard_time": 1765448960,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112450,
+        "num": 112450,
+        "word": "摔的是彭昱畅疼的是成龙",
+        "onboard_time": 1765447282,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44047,
+        "num": 108667,
+        "word": "谁看了这个王俊凯不说顶",
+        "onboard_time": 1765449680,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50482,
+        "num": 106360,
+        "word": "王一博的手脚各有各的KPI",
+        "onboard_time": 1765447882,
+        "rank": 39,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 106343,
+        "num": 106343,
+        "word": "神隐",
+        "onboard_time": 1765431321,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113202,
+        "num": 106105,
+        "word": "陈妍希戒指习惯性戴回无名指",
+        "onboard_time": 1765445780,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105858,
+        "num": 105858,
+        "word": "是谁发明的用电饭锅抢东西",
+        "onboard_time": 1765446681,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91904,
+        "num": 91904,
+        "word": "微博之夜推荐",
+        "onboard_time": 1765443620,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91708,
+        "num": 91708,
+        "word": "王安宇第一次古装",
+        "onboard_time": 1765445361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90810,
+        "num": 90810,
+        "word": "再见爱人5跟艾威Lisa的画重合了",
+        "onboard_time": 1765449741,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89800,
+        "num": 89800,
+        "word": "王楚钦说林诗栋蒯曼现在非常优秀",
+        "onboard_time": 1765449980,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62077,
+        "num": 87659,
+        "word": "柬埔寨千年寺庙遭泰军炸毁",
+        "onboard_time": 1765448479,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86966,
+        "num": 86966,
+        "word": "沈梦辰回应什么时候要小孩",
+        "onboard_time": 1765435100,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86585,
+        "num": 86585,
+        "word": "张本智和希望得到世界第一的称号",
+        "onboard_time": 1765446381,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
