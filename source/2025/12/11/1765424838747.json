@@ -1,0 +1,410 @@
+{
+  "runTime": 1765424838747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415290,
+        "num": 1066446,
+        "word": "无汞玻璃体温计甩了100余次未成功",
+        "onboard_time": 1765418601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207459,
+        "num": 1019282,
+        "word": "卢伟冰宣布小米将发布自产中央空调",
+        "onboard_time": 1765424482,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 54118,
+        "num": 995373,
+        "word": "网警查处一起AI生成虚假低俗视频案",
+        "onboard_time": 1765413682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270411,
+        "num": 946533,
+        "word": "5000万网红偷税漏税被实名举报",
+        "onboard_time": 1765380561,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 204187,
+        "num": 894049,
+        "word": "羽绒服越穿越不暖的真相",
+        "onboard_time": 1765410439,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1599499,
+        "num": 824814,
+        "word": "papi妈妈",
+        "onboard_time": 1765419262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483247,
+        "num": 788551,
+        "word": "一无名男子在医院躺了7年半",
+        "onboard_time": 1765416861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304764,
+        "num": 735344,
+        "word": "男子毒死9条宠物狗一审宣判",
+        "onboard_time": 1765415900,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 278807,
+        "num": 695517,
+        "word": "红学专家否定红楼梦悼明",
+        "onboard_time": 1765414821,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 667077,
+        "word": "小狗西高地papi主人发声",
+        "onboard_time": 1765421120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626358,
+        "num": 626358,
+        "word": "爱奇艺回复双轨播出时间",
+        "onboard_time": 1765420161,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511560,
+        "num": 511560,
+        "word": "陈妍希台湾腔全给周柯宇一个人听了",
+        "onboard_time": 1765423520,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506228,
+        "num": 506228,
+        "word": "吴宣仪 训粉",
+        "onboard_time": 1765416080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447659,
+        "num": 447659,
+        "word": "杨紫三封Queen",
+        "onboard_time": 1765421721,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371418,
+        "num": 371418,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 165255,
+        "num": 359818,
+        "word": "原来魔芋爽是这么来的",
+        "onboard_time": 1765422261,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356578,
+        "num": 356578,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341937,
+        "num": 341937,
+        "word": "暂时失去了在办公室吃苹果的权力",
+        "onboard_time": 1765415361,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300880,
+        "num": 300880,
+        "word": "陈赫给娄艺潇直播刷礼物",
+        "onboard_time": 1765418360,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276727,
+        "num": 276727,
+        "word": "女子熟睡遭男友喂堕胎药",
+        "onboard_time": 1765379721,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1221114,
+        "num": 269815,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535088,
+        "num": 266396,
+        "word": "金价",
+        "onboard_time": 1765420161,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262873,
+        "num": 262873,
+        "word": "曝经纪公司压榨即将到期的顶流",
+        "onboard_time": 1765418419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215240,
+        "num": 215240,
+        "word": "向佐换造型师了",
+        "onboard_time": 1765423160,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212162,
+        "num": 212162,
+        "word": "三十年前的奢侈品零食有多好吃",
+        "onboard_time": 1765423581,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202124,
+        "num": 202124,
+        "word": "孙坚 没有想过卖惨",
+        "onboard_time": 1765421721,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181384,
+        "num": 181384,
+        "word": "初代偶练爱豆差点退圈",
+        "onboard_time": 1765423881,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 180487,
+        "word": "狙击蝴蝶 删减吻戏",
+        "onboard_time": 1765418840,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170295,
+        "num": 146780,
+        "word": "外交部再提醒避免前往日本",
+        "onboard_time": 1765424603,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 144043,
+        "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+        "onboard_time": 1765424422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177667,
+        "num": 143962,
+        "word": "银价",
+        "onboard_time": 1765423281,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141149,
+        "num": 141149,
+        "word": "谭松韵 大波浪洋娃娃",
+        "onboard_time": 1765424603,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139868,
+        "num": 139868,
+        "word": "护士被男友割喉杀害最新细节曝光",
+        "onboard_time": 1765419500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94571,
+        "num": 137496,
+        "word": "Meiko回应续约iG",
+        "onboard_time": 1765422680,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136239,
+        "num": 136239,
+        "word": "中兴通讯",
+        "onboard_time": 1765422081,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129691,
+        "num": 129691,
+        "word": "A股",
+        "onboard_time": 1765423040,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127652,
+        "num": 127652,
+        "word": "男子隐瞒妻子墓地岳父母苦寻4年",
+        "onboard_time": 1765419801,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110006,
+        "num": 126752,
+        "word": "松岛辉空说混双有机会复仇王楚钦",
+        "onboard_time": 1765424181,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126475,
+        "num": 126475,
+        "word": "阿姨1984年花两千多买了50克黄金",
+        "onboard_time": 1765410979,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116066,
+        "num": 116066,
+        "word": "此沙一条蛇",
+        "onboard_time": 1765416080,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115086,
+        "num": 115086,
+        "word": "雷霆大胜太阳49分",
+        "onboard_time": 1765423100,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113255,
+        "num": 113255,
+        "word": "摩尔线程市值突破4000亿",
+        "onboard_time": 1765424121,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112838,
+        "num": 112838,
+        "word": "F1抢票",
+        "onboard_time": 1765424722,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110861,
+        "num": 110861,
+        "word": "王楚钦直言1比3时都想拎包回去了",
+        "onboard_time": 1765420882,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102486,
+        "num": 109383,
+        "word": "日方被打脸后改口",
+        "onboard_time": 1765419380,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109363,
+        "num": 109363,
+        "word": "金价波动",
+        "onboard_time": 1765424361,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109141,
+        "num": 109141,
+        "word": "外国人上陈晓这桌了",
+        "onboard_time": 1765423100,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108661,
+        "num": 108661,
+        "word": "张晚意 我也没有看到我资金的成长",
+        "onboard_time": 1765424482,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "猫 就出门逛两圈还叫打手",
+        "onboard_time": 1765422739,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
