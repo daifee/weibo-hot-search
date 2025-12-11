@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765472241923,
+  "endTime": 1765474444425,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -13171,6 +13171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186028,
+      "num": 119528,
+      "word": "郭碧婷坦言向太给了很多钱",
+      "onboard_time": 1765469540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185981,
       "num": 270474,
       "word": "新生儿出生证明被盖死亡证明章",
@@ -16555,6 +16563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153101,
+      "num": 98819,
+      "word": "长期熬夜小心甲状腺癌",
+      "onboard_time": 1765470678,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153075,
       "num": 117429,
       "word": "陈妍希谈姐弟恋",
@@ -17633,14 +17649,6 @@
       "onboard_time": 1765209022,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 144786,
-      "num": 119528,
-      "word": "郭碧婷坦言向太给了很多钱",
-      "onboard_time": 1765469540,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 144785,
@@ -26955,14 +26963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98819,
-      "num": 98819,
-      "word": "长期熬夜小心甲状腺癌",
-      "onboard_time": 1765470678,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 98791,
       "num": 98791,
       "word": "长安到底有谁在啊",
@@ -32627,6 +32627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58202,
+      "num": 58202,
+      "word": "余少群揭露娱乐圈真相",
+      "onboard_time": 1765472838,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 58126,
       "num": 207862,
       "word": "国考结束",
@@ -34619,6 +34627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43195,
+      "num": 43195,
+      "word": "欧弟瘦了16斤",
+      "onboard_time": 1765473198,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43178,
       "num": 62103,
       "word": "爱奇艺给刘诗诗粉丝退款",
@@ -34649,6 +34665,14 @@
       "onboard_time": 1764926481,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43000,
+      "num": 43000,
+      "word": "戳爷怎么变老了",
+      "onboard_time": 1765471878,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 42992,
@@ -34977,6 +35001,14 @@
       "onboard_time": 1765387757,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40866,
+      "num": 40866,
+      "word": "杨紫一口气戴了五副墨镜",
+      "onboard_time": 1765473857,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 40843,
@@ -36777,6 +36809,14 @@
       "onboard_time": 1765276642,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28219,
+      "num": 37170,
+      "word": "2025最下饭综艺TOP50",
+      "onboard_time": 1765474218,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 28094,
