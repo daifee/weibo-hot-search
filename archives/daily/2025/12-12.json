@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765475954086,
+  "endTime": 1765478408499,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166826,
+      "num": 166826,
+      "word": "枭起青壤",
+      "onboard_time": 1765469180,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155595,
       "num": 247180,
       "word": "微博之夜",
@@ -145,14 +153,6 @@
       "onboard_time": 1765464262,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142570,
-      "num": 142570,
-      "word": "枭起青壤",
-      "onboard_time": 1765469180,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 136065,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61299,
+      "num": 44801,
+      "word": "欧弟瘦了16斤",
+      "onboard_time": 1765473198,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59903,
       "num": 59903,
       "word": "刘耀文差点断更",
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44801,
-      "num": 44801,
-      "word": "欧弟瘦了16斤",
-      "onboard_time": 1765473198,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44461,
       "num": 54072,
       "word": "萝卜事业运",
@@ -491,12 +491,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20996,
+      "num": 28621,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19659,
       "num": 276709,
       "word": "2025最后20天",
       "onboard_time": 1765460752,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18744,
+      "num": 28538,
+      "word": "必须以苦练内功来应对外部挑战",
+      "onboard_time": 1765477575,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16972,
+      "num": 28500,
+      "word": "好一个乖乖女",
+      "onboard_time": 1765465042,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16363,
+      "num": 28465,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765460062,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16177,
+      "num": 28447,
+      "word": "这轮寒潮威力有多大",
+      "onboard_time": 1765478054,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15934,
+      "num": 28440,
+      "word": "四六级",
+      "onboard_time": 1765460003,
+      "rank": 49,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

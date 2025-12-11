@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765475954086,
+  "endTime": 1765478408499,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -14899,6 +14899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61299,
+      "num": 44801,
+      "word": "欧弟瘦了16斤",
+      "onboard_time": 1765473198,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61154,
       "num": 1593813,
       "word": "网警查处一起AI生成虚假低俗视频案",
@@ -16017,14 +16025,6 @@
       "onboard_time": 1765362082,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44801,
-      "num": 44801,
-      "word": "欧弟瘦了16斤",
-      "onboard_time": 1765473198,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 44720,
@@ -17867,6 +17867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18744,
+      "num": 28538,
+      "word": "必须以苦练内功来应对外部挑战",
+      "onboard_time": 1765477575,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18673,
       "num": 170668,
       "word": "乌将美和平计划比作慕尼黑协定",
@@ -18025,6 +18033,14 @@
       "onboard_time": 1765139172,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16177,
+      "num": 28447,
+      "word": "这轮寒潮威力有多大",
+      "onboard_time": 1765478054,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16067,

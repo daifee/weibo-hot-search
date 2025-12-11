@@ -1,0 +1,410 @@
+{
+  "runTime": 1765478408499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166826,
+        "num": 166826,
+        "word": "枭起青壤",
+        "onboard_time": 1765469180,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85176,
+        "num": 85176,
+        "word": "国补",
+        "onboard_time": 1765454121,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16580,
+        "num": 72009,
+        "word": "2025最后20天",
+        "onboard_time": 1765460752,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69050,
+        "num": 69050,
+        "word": "陈泽杯",
+        "onboard_time": 1765464382,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55302,
+        "num": 68722,
+        "word": "恋综宾利哥说认出了痞幼的老头乐",
+        "onboard_time": 1765466061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107601,
+        "num": 68060,
+        "word": "凭煮蛋涨粉356万博主回应爆红",
+        "onboard_time": 1765464622,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 50819,
+        "num": 67158,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765448061,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37811,
+        "num": 66109,
+        "word": "10人聚餐9人开溜男子看完账单傻眼",
+        "onboard_time": 1765459043,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18711,
+        "num": 65679,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1765456821,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44719,
+        "num": 65242,
+        "word": "张本智和庆祝动作致敬樊振东",
+        "onboard_time": 1765465102,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151916,
+        "num": 63841,
+        "word": "长期熬夜小心甲状腺癌",
+        "onboard_time": 1765470678,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96093,
+        "num": 63506,
+        "word": "42岁陈妍希 建议所有女性来学",
+        "onboard_time": 1765464262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89779,
+        "num": 62468,
+        "word": "好一个乖乖女 徐梦洁",
+        "onboard_time": 1765461204,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62254,
+        "num": 62254,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58012,
+        "num": 58012,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50452,
+        "num": 50452,
+        "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
+        "onboard_time": 1765468880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47791,
+        "num": 47791,
+        "word": "中央明确普通高中优质本科扩招",
+        "onboard_time": 1765460543,
+        "rank": 16,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 46764,
+        "num": 46764,
+        "word": "原来你的床上已经有猫了",
+        "onboard_time": 1765461322,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36873,
+        "num": 36873,
+        "word": "曝短剧演员收入",
+        "onboard_time": 1765458503,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34655,
+        "num": 34655,
+        "word": "陈妍希 沈佳宜",
+        "onboard_time": 1765465881,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74131,
+        "num": 34626,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69240,
+        "num": 34609,
+        "word": "郭碧婷坦言向太给了很多钱",
+        "onboard_time": 1765469540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61299,
+        "num": 34568,
+        "word": "欧弟瘦了16斤",
+        "onboard_time": 1765473198,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40326,
+        "num": 34552,
+        "word": "余少群揭露娱乐圈真相",
+        "onboard_time": 1765472838,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34527,
+        "num": 34527,
+        "word": "国外捐精者被查出20%精子带致癌基因",
+        "onboard_time": 1765451061,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30368,
+        "num": 30368,
+        "word": "迪丽热巴长文告别枭起青壤",
+        "onboard_time": 1765454602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29685,
+        "num": 29685,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29281,
+        "num": 29281,
+        "word": "深化住房公积金制度改革",
+        "onboard_time": 1765467321,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28716,
+        "num": 28716,
+        "word": "杨紫一口气戴了五副墨镜",
+        "onboard_time": 1765473857,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24519,
+        "num": 28702,
+        "word": "鼓励支持灵活就业人员参加职工保险",
+        "onboard_time": 1765449201,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27221,
+        "num": 28692,
+        "word": "戳爷怎么变老了",
+        "onboard_time": 1765471878,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22517,
+        "num": 28687,
+        "word": "王玉雯 这把冲刘亦菲来的",
+        "onboard_time": 1765451960,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 28663,
+        "word": "蜜雪冰城早餐价格",
+        "onboard_time": 1765456041,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21953,
+        "num": 28657,
+        "word": "藏海传",
+        "onboard_time": 1765454061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 28639,
+        "word": "髋部骨折堪称人生最后一次骨折",
+        "onboard_time": 1765469779,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20996,
+        "num": 28621,
+        "word": "台当局扬言报复韩国",
+        "onboard_time": 1765457661,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20127,
+        "num": 28612,
+        "word": "孙颖莎震惊有可能一日三赛",
+        "onboard_time": 1765462943,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19881,
+        "num": 28596,
+        "word": "王楚然每天都在做法令纹消失操",
+        "onboard_time": 1765466002,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19737,
+        "num": 28580,
+        "word": "逃税1600万网红7天狂卖10万件",
+        "onboard_time": 1765466961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 28565,
+        "word": "papi妈辞职维权的1000多天",
+        "onboard_time": 1765463902,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19271,
+        "num": 28551,
+        "word": "神隐还是播早了",
+        "onboard_time": 1765450761,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18744,
+        "num": 28538,
+        "word": "必须以苦练内功来应对外部挑战",
+        "onboard_time": 1765477575,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18214,
+        "num": 28530,
+        "word": "Zeka三次单杀Faker",
+        "onboard_time": 1765471278,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17629,
+        "num": 28511,
+        "word": "网友把何炅喝过的水保存了20年",
+        "onboard_time": 1765447221,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16972,
+        "num": 28500,
+        "word": "好一个乖乖女",
+        "onboard_time": 1765465042,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 28496,
+        "word": "敖瑞鹏请把背头焊死",
+        "onboard_time": 1765456342,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16579,
+        "num": 28480,
+        "word": "SK发博",
+        "onboard_time": 1765459222,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16363,
+        "num": 28465,
+        "word": "WTT香港总决赛",
+        "onboard_time": 1765460062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16177,
+        "num": 28447,
+        "word": "这轮寒潮威力有多大",
+        "onboard_time": 1765478054,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15934,
+        "num": 28440,
+        "word": "四六级",
+        "onboard_time": 1765460003,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
