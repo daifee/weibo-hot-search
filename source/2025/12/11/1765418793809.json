@@ -1,0 +1,410 @@
+{
+  "runTime": 1765418793809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604249,
+        "num": 1096679,
+        "word": "5000万网红偷税漏税被实名举报",
+        "onboard_time": 1765380561,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 266248,
+        "num": 266248,
+        "word": "羽绒服越穿越不暖的真相",
+        "onboard_time": 1765410439,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60479,
+        "num": 245025,
+        "word": "网警查处一起AI生成虚假低俗视频案",
+        "onboard_time": 1765413682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569835,
+        "num": 241465,
+        "word": "经纪人曝痞幼恋综老头乐真相",
+        "onboard_time": 1765418180,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232428,
+        "num": 232428,
+        "word": "LV高管加入泡泡玛特",
+        "onboard_time": 1765375882,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 679124,
+        "num": 232251,
+        "word": "红学专家否定红楼梦悼明",
+        "onboard_time": 1765414821,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 230686,
+        "num": 230686,
+        "word": "2岁女童米粒坠亡5年后",
+        "onboard_time": 1765410800,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218519,
+        "num": 218519,
+        "word": "俄女网红儿子塞真空袋",
+        "onboard_time": 1765412721,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189843,
+        "num": 189843,
+        "word": "赴山海",
+        "onboard_time": 1765403893,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181543,
+        "num": 181543,
+        "word": "有网友称已经囤了100支水银温度计",
+        "onboard_time": 1765410079,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939406,
+        "num": 180448,
+        "word": "吴宣仪 训粉",
+        "onboard_time": 1765416080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602562,
+        "num": 179170,
+        "word": "冯提莫癌症复发",
+        "onboard_time": 1765365022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596257,
+        "num": 177006,
+        "word": "暂时失去了在办公室吃苹果的权力",
+        "onboard_time": 1765415361,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565133,
+        "num": 175736,
+        "word": "女子熟睡遭男友喂堕胎药",
+        "onboard_time": 1765379721,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 389822,
+        "num": 174721,
+        "word": "此沙一条蛇",
+        "onboard_time": 1765416080,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323203,
+        "num": 173163,
+        "word": "阿姨1984年花两千多买了50克黄金",
+        "onboard_time": 1765410979,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318733,
+        "num": 170563,
+        "word": "一无名男子在医院躺了7年半",
+        "onboard_time": 1765416861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305445,
+        "num": 169281,
+        "word": "男子毒死9条宠物狗一审宣判",
+        "onboard_time": 1765415900,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 301821,
+        "num": 167128,
+        "word": "冯提莫需要终身服药",
+        "onboard_time": 1765415361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21048,
+        "num": 165381,
+        "word": "罢当选台湾2025年度代表字",
+        "onboard_time": 1765417879,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378167,
+        "num": 163839,
+        "word": "曝阮经天女友小他21岁",
+        "onboard_time": 1765413740,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765365862,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246705,
+        "num": 161358,
+        "word": "历年的King和Queen",
+        "onboard_time": 1765409659,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 161141,
+        "word": "虞书欣父亲要求被告公开道歉",
+        "onboard_time": 1765375162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173974,
+        "num": 161112,
+        "word": "陈赫给娄艺潇直播刷礼物",
+        "onboard_time": 1765418360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155212,
+        "num": 155212,
+        "word": "甲状腺癌为什么越来越常见了",
+        "onboard_time": 1765410560,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150809,
+        "num": 150809,
+        "word": "网红澳门CoCo姐多平台被封禁",
+        "onboard_time": 1765417941,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 143080,
+        "num": 143080,
+        "word": "曝经纪公司压榨即将到期的顶流",
+        "onboard_time": 1765418419,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140622,
+        "num": 140622,
+        "word": "山东冠县地震",
+        "onboard_time": 1765408278,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135992,
+        "num": 135992,
+        "word": "中方录音一出日本有人看不下去了",
+        "onboard_time": 1765372461,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129898,
+        "num": 129898,
+        "word": "抖音高管回应红楼梦悼明说",
+        "onboard_time": 1765416080,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129194,
+        "num": 129194,
+        "word": "吴宣仪 我们是不是应该保持一些距离",
+        "onboard_time": 1765417824,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124004,
+        "num": 124004,
+        "word": "俄女网红把10岁儿子塞真空袋引众怒",
+        "onboard_time": 1765410380,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117042,
+        "num": 117042,
+        "word": "银价疯涨",
+        "onboard_time": 1765416861,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113831,
+        "num": 113831,
+        "word": "红楼梦悼明争议",
+        "onboard_time": 1765416380,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 104327,
+        "num": 104327,
+        "word": "辣妈正传",
+        "onboard_time": 1765376183,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102519,
+        "num": 102519,
+        "word": "喜茶600多家店消失",
+        "onboard_time": 1765411640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101321,
+        "num": 101321,
+        "word": "李昀锐 体态",
+        "onboard_time": 1765416501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20503,
+        "num": 101069,
+        "word": "天然气项目投资上亿被告知无权经营",
+        "onboard_time": 1765417824,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31889,
+        "num": 100978,
+        "word": "普京说将实现特别军事行动所有目标",
+        "onboard_time": 1765417824,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100940,
+        "num": 100940,
+        "word": "男子毒死9条宠物狗",
+        "onboard_time": 1765418480,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100821,
+        "num": 100821,
+        "word": "钱学森生前珍贵采访",
+        "onboard_time": 1765417702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 100145,
+        "word": "压力大生闷气的人患甲状腺癌机率更大",
+        "onboard_time": 1765415420,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99355,
+        "num": 99355,
+        "word": "美国要看免签游客过去5年社媒记录",
+        "onboard_time": 1765417340,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99862,
+        "num": 96953,
+        "word": "无汞玻璃体温计甩了100余次未成功",
+        "onboard_time": 1765418601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92547,
+        "num": 92547,
+        "word": "辣妈正传的编剧",
+        "onboard_time": 1765416680,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88073,
+        "num": 88073,
+        "word": "南京大屠杀作者张纯如",
+        "onboard_time": 1765415602,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 81672,
+        "num": 81672,
+        "word": "居民称汕头火灾有小女孩冒火冲出",
+        "onboard_time": 1765416560,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81139,
+        "num": 81139,
+        "word": "郭碧婷回应和向太越长越像",
+        "onboard_time": 1765403474,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80541,
+        "num": 80541,
+        "word": "美联储宣布降息25个基点",
+        "onboard_time": 1765406476,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济巨轮行稳致远#"
+    }
+  }
+}
