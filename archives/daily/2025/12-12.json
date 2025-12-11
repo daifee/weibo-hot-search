@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765495663272,
+  "endTime": 1765496491494,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -11,20 +11,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450872,
+      "num": 912417,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 3,
+      "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 425125,
+      "num": 156418,
+      "word": "42岁陈妍希 建议所有女性来学",
+      "onboard_time": 1765464262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414412,
       "num": 256549,
       "word": "凭煮蛋涨粉356万博主回应爆红",
       "onboard_time": 1765464622,
       "rank": 5,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 399753,
-      "num": 807866,
-      "word": "中央明确普通高中优质本科扩招",
-      "onboard_time": 1765460543,
-      "rank": 3,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 385317,
@@ -43,12 +51,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 344939,
-      "num": 156418,
-      "word": "42岁陈妍希 建议所有女性来学",
-      "onboard_time": 1765464262,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 373232,
+      "num": 218666,
+      "word": "村支书卖小米被投诉下架",
+      "onboard_time": 1765495878,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315821,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298593,
+      "num": 119528,
+      "word": "郭碧婷坦言向太给了很多钱",
+      "onboard_time": 1765469540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283697,
       "num": 283697,
       "word": "狙击蝴蝶",
@@ -83,28 +99,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 251887,
-      "num": 119528,
-      "word": "郭碧婷坦言向太给了很多钱",
-      "onboard_time": 1765469540,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231596,
-      "num": 231596,
+      "raw_hot": 258658,
+      "num": 258658,
       "word": "多方回应用东方树叶养茶菌当宠物",
       "onboard_time": 1765483094,
       "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223008,
-      "num": 223008,
+      "raw_hot": 229686,
+      "num": 229686,
       "word": "张本智和庆祝动作致敬樊振东",
       "onboard_time": 1765465102,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218626,
+      "num": 77792,
+      "word": "以为是休息实则最伤气血的3件事",
+      "onboard_time": 1765495817,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211214,
@@ -171,20 +187,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137268,
+      "num": 114767,
+      "word": "云南地震",
+      "onboard_time": 1765494557,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "陈妍希 沈佳宜",
       "onboard_time": 1765465881,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114767,
-      "num": 114767,
-      "word": "云南地震",
-      "onboard_time": 1765494557,
-      "rank": 17,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 114071,
@@ -227,7 +243,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88379,
+      "raw_hot": 101321,
       "num": 88379,
       "word": "杨紫一口气戴了五副墨镜",
       "onboard_time": 1765473857,
@@ -235,8 +251,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86235,
-      "num": 65653,
+      "raw_hot": 100306,
+      "num": 64283,
+      "word": "俄放话敢动我资产就让全球买单",
+      "onboard_time": 1765495937,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88508,
+      "num": 76786,
       "word": "余少群揭露娱乐圈真相",
       "onboard_time": 1765472838,
       "rank": 26,
@@ -249,6 +273,30 @@
       "onboard_time": 1765408278,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 76677,
+      "num": 76677,
+      "word": "删了吧我有个单身的朋友破防了",
+      "onboard_time": 1765496057,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 75985,
+      "num": 75985,
+      "word": "北京局地累计降雪量可达8毫米",
+      "onboard_time": 1765495937,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75469,
+      "num": 75469,
+      "word": "赵丽颖温柔红衣",
+      "onboard_time": 1765496178,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 74504,
@@ -265,6 +313,14 @@
       "onboard_time": 1765464382,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73062,
+      "num": 73062,
+      "word": "90后女教师放弃编制闯养老赛道",
+      "onboard_time": 1765461322,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71418,
@@ -291,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64650,
+      "num": 64650,
+      "word": "鼓励支持灵活就业人员参加职工保险",
+      "onboard_time": 1765449201,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64592,
       "num": 64592,
       "word": "逃税1600万网红7天狂卖10万件",
@@ -307,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63709,
+      "num": 63709,
+      "word": "孙颖莎提醒王楚钦小心",
+      "onboard_time": 1765496119,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62548,
       "num": 62548,
       "word": "蜜雪冰城早餐价格",
@@ -315,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62535,
+      "num": 62535,
+      "word": "台当局扬言报复韩国",
+      "onboard_time": 1765457661,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62465,
       "num": 62465,
       "word": "没见他之前我简直在乱爬山",
       "onboard_time": 1765470978,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61898,
-      "num": 61898,
-      "word": "鼓励支持灵活就业人员参加职工保险",
-      "onboard_time": 1765449201,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61651,
@@ -355,6 +427,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60833,
+      "num": 60833,
+      "word": "王玉雯这次下车神图有了",
+      "onboard_time": 1765496057,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60336,
+      "num": 81990,
+      "word": "量化交易在交易所的设备传将被清退",
+      "onboard_time": 1765496178,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59903,
       "num": 59903,
       "word": "刘耀文差点断更",
@@ -379,12 +467,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58102,
+      "num": 58102,
+      "word": "越南禁止出口稀土矿石",
+      "onboard_time": 1765496178,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57375,
       "num": 57375,
       "word": "papi妈辞职维权的1000多天",
       "onboard_time": 1765463902,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57235,
+      "num": 57235,
+      "word": "泰军再炸柬埔寨赌场园区",
+      "onboard_time": 1765496178,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 56757,
@@ -395,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56146,
+      "num": 56146,
+      "word": "宜宾震感",
+      "onboard_time": 1765496298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55106,
       "num": 55106,
       "word": "陈星旭 炎拓的孤勇打动着我",
       "onboard_time": 1765469599,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54630,
+      "num": 54630,
+      "word": "殷世航称网红欠债严重",
+      "onboard_time": 1765454602,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 53997,
@@ -411,12 +531,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 53431,
-      "num": 53431,
-      "word": "台当局扬言报复韩国",
-      "onboard_time": 1765457661,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 53546,
+      "num": 160667,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765460062,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 51824,
@@ -427,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51560,
-      "num": 160667,
-      "word": "WTT香港总决赛",
-      "onboard_time": 1765460062,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50443,
       "num": 54034,
       "word": "人民空军双语海报喊话日本",
@@ -443,12 +555,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48532,
-      "num": 48532,
+      "raw_hot": 49358,
+      "num": 49358,
       "word": "黄慧颐回应遭保剑锋妻子辱骂",
       "onboard_time": 1765456821,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47729,
+      "num": 47729,
+      "word": "十个勤天自制短剧上线",
+      "onboard_time": 1765496298,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 47356,
@@ -457,6 +577,14 @@
       "onboard_time": 1765471278,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47203,
+      "num": 47203,
+      "word": "甲骨文跌超14%",
+      "onboard_time": 1765496178,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 46846,
@@ -481,14 +609,6 @@
       "onboard_time": 1765471878,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42730,
-      "num": 42730,
-      "word": "殷世航称网红欠债严重",
-      "onboard_time": 1765454602,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 41263,
@@ -571,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22361,
+      "num": 276709,
+      "word": "2025最后20天",
+      "onboard_time": 1765460752,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22295,
       "num": 40325,
       "word": "京城大师赛",
       "onboard_time": 1765475176,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19659,
-      "num": 276709,
-      "word": "2025最后20天",
-      "onboard_time": 1765460752,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18586,

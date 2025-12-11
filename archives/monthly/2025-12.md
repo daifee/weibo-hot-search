@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/12 07:27:43
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/12 07:41:31
 </p>
 </blockquote>
 <p>
@@ -3879,6 +3879,12 @@ SK发博（热度：442774）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2342%E5%B2%81%E9%99%88%E5%A6%8D%E5%B8%8C%20%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E6%9D%A5%E5%AD%A6%23" target="weibo">
+42岁陈妍希 建议所有女性来学（热度：425125）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E4%BA%91%E5%8D%97%E5%B1%B1%E8%B0%B7%E7%8E%B05000%E5%90%A8%E5%9E%83%E5%9C%BE%E5%A0%86%23" target="weibo">
 央视调查云南山谷现5000吨垃圾堆（热度：424595）
 </a>
@@ -4611,6 +4617,12 @@ B站回应被黄杨钿甜起诉（热度：380891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6%23" target="weibo">
+村支书卖小米被投诉下架（热度：373232）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%23" target="weibo">
 洛克王国（热度：372948）
 </a>
@@ -5075,12 +5087,6 @@ vivo回应直播间风波（热度：348356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%8E%E5%B9%B3%E7%BD%AE%E6%8D%A2%E4%BA%86%E9%AB%8B%E5%85%B3%E8%8A%82%E5%92%8C%E9%A2%88%E6%A4%8E%23" target="weibo">
 郎平置换了髋关节和颈椎（热度：345688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2342%E5%B2%81%E9%99%88%E5%A6%8D%E5%B8%8C%20%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E6%9D%A5%E5%AD%A6%23" target="weibo">
-42岁陈妍希 建议所有女性来学（热度：344939）
 </a>
 </li>
 
@@ -5997,20 +6003,14 @@ CP感 玄学（热度：299094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%9D%A6%E8%A8%80%E5%90%91%E5%A4%AA%E7%BB%99%E4%BA%86%E5%BE%88%E5%A4%9A%E9%92%B1%23" target="weibo">
+郭碧婷坦言向太给了很多钱（热度：298593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E9%81%AD%E5%81%9A%E7%A9%BA%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911800%E4%BA%BF%23" target="weibo">
 泡泡玛特遭做空市值蒸发1800亿（热度：298033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E6%88%91%E8%BF%99%E8%A5%BF%E8%AF%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%90%97%23" target="weibo">
-樊振东 我这西语还可以吗（热度：298011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E7%B3%BB%E5%88%97%E7%A0%B4%E5%8F%91%23" target="weibo">
-iPhone17Pro系列破发（热度：297530）
 </a>
 </li>
 
