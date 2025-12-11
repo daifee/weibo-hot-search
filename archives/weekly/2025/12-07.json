@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765463399962,
+  "endTime": 1765464384067,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1165682,
+      "num": 310546,
+      "word": "好一个乖乖女 徐梦洁",
+      "onboard_time": 1765461204,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1163574,
       "num": 254689,
       "word": "张柏芝出庭 神图",
@@ -425,14 +433,6 @@
       "onboard_time": 1765185201,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1058207,
-      "num": 224763,
-      "word": "好一个乖乖女 徐梦洁",
-      "onboard_time": 1765461204,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 1053429,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 795578,
-      "num": 224679,
+      "num": 304811,
       "word": "曝短剧演员收入",
       "onboard_time": 1765458503,
       "rank": 32,
@@ -817,6 +817,14 @@
       "onboard_time": 1765270163,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 770391,
+      "num": 386251,
+      "word": "中央明确普通高中优质本科扩招",
+      "onboard_time": 1765460543,
+      "rank": 23,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 767920,
@@ -1259,6 +1267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 606654,
+      "num": 335759,
+      "word": "10人聚餐9人开溜男子看完账单傻眼",
+      "onboard_time": 1765459043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597891,
       "num": 312876,
       "word": "日本记者找不到中国游客采访",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1765181961,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589530,
+      "num": 589530,
+      "word": "孙颖莎震惊有可能一日三赛",
+      "onboard_time": 1765462943,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 588431,
@@ -1635,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 521075,
-      "num": 223925,
-      "word": "中央明确普通高中优质本科扩招",
-      "onboard_time": 1765460543,
-      "rank": 23,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 520687,
       "num": 625794,
       "word": "小米三款新车齐曝光",
@@ -1713,14 +1729,6 @@
       "onboard_time": 1765450761,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 509882,
-      "num": 223305,
-      "word": "10人聚餐9人开溜男子看完账单傻眼",
-      "onboard_time": 1765459043,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507468,
@@ -2116,7 +2124,7 @@
     },
     {
       "raw_hot": 451614,
-      "num": 238456,
+      "num": 300493,
       "word": "王玉雯 这把冲刘亦菲来的",
       "onboard_time": 1765451960,
       "rank": 31,
@@ -3803,14 +3811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281941,
-      "num": 281941,
-      "word": "孙颖莎震惊有可能一日三赛",
-      "onboard_time": 1765462943,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281720,
       "num": 208597,
       "word": "台湾地位已被七重锁定",
@@ -4264,6 +4264,14 @@
       "word": "命真好头胎生了个月嫂",
       "onboard_time": 1765264700,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 245284,
+      "num": 245284,
+      "word": "原来你的床上已经有猫了",
+      "onboard_time": 1765461322,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -5283,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203164,
+      "num": 203164,
+      "word": "DRG对战TTG",
+      "onboard_time": 1765456101,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202902,
       "num": 356433,
       "word": "公务员考试",
@@ -6059,14 +6075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181963,
-      "num": 181963,
-      "word": "原来你的床上已经有猫了",
-      "onboard_time": 1765461322,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181913,
       "num": 181913,
       "word": "痞幼上恋综错过朋友婚礼哭了",
@@ -6475,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170017,
+      "num": 170017,
+      "word": "42岁陈妍希 建议所有女性来学",
+      "onboard_time": 1765464262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169573,
       "num": 169573,
       "word": "路人视角的张子萱",
@@ -6777,6 +6793,14 @@
       "onboard_time": 1765348640,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163686,
+      "num": 163686,
+      "word": "景甜 顶级进化论",
+      "onboard_time": 1765463361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 163615,
@@ -7851,6 +7875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143412,
+      "num": 141512,
+      "word": "和陈妍希吃饭 回到我是毒妇前",
+      "onboard_time": 1765460603,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143321,
       "num": 143321,
       "word": "刘诗诗粉丝向爱奇艺维权成功",
@@ -8689,14 +8721,6 @@
       "onboard_time": 1765339162,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133526,
-      "num": 133526,
-      "word": "和陈妍希吃饭 回到我是毒妇前",
-      "onboard_time": 1765460603,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 133473,
@@ -9827,14 +9851,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 121603,
-      "num": 121603,
-      "word": "景甜 顶级进化论",
-      "onboard_time": 1765463361,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121587,
       "num": 121587,
       "word": "压力大生闷气的人患甲状腺癌机率更大",
@@ -10827,6 +10843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112648,
+      "num": 112648,
+      "word": "papi妈辞职维权的1000多天",
+      "onboard_time": 1765463902,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112631,
       "num": 112631,
       "word": "罗永浩曝很多企业家想花钱上播客",
@@ -10961,6 +10985,14 @@
       "onboard_time": 1765419500,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111882,
+      "num": 202669,
+      "word": "倡导积极婚育观",
+      "onboard_time": 1765464142,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111852,
@@ -11145,6 +11177,14 @@
       "onboard_time": 1765191621,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110062,
+      "num": 110062,
+      "word": "狼队 SK",
+      "onboard_time": 1765463603,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 109935,
@@ -12339,14 +12379,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 99203,
-      "num": 99203,
-      "word": "DRG对战TTG",
-      "onboard_time": 1765456101,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99157,
       "num": 99157,
       "word": "王鹤润这个腰",
@@ -12531,6 +12563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96815,
+      "num": 96815,
+      "word": "樊振东比啥都不能输",
+      "onboard_time": 1765463902,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96616,
       "num": 107940,
       "word": "华晨宇的表情",
@@ -12689,6 +12729,14 @@
       "onboard_time": 1765276703,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94935,
+      "num": 94935,
+      "word": "中国人搞纯爱两个人一起考上清北",
+      "onboard_time": 1765463721,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 94827,
@@ -13219,6 +13267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89833,
+      "num": 89833,
+      "word": "Gumayusi和T1队员握手",
+      "onboard_time": 1765463063,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89800,
       "num": 89800,
       "word": "王楚钦说林诗栋蒯曼现在非常优秀",
@@ -13369,6 +13425,14 @@
       "onboard_time": 1765452980,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87657,
+      "num": 185235,
+      "word": "北京发布暴雪蓝警",
+      "onboard_time": 1765461803,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87580,
@@ -14169,14 +14233,6 @@
       "onboard_time": 1765341263,
       "rank": 39,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 71172,
-      "num": 185235,
-      "word": "北京发布暴雪蓝警",
-      "onboard_time": 1765461803,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70991,
@@ -15331,6 +15387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50169,
+      "num": 319094,
+      "word": "初雪就要来了",
+      "onboard_time": 1765460482,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50035,
       "num": 1033717,
       "word": "冬天里的大美中国",
@@ -15512,14 +15576,6 @@
       "word": "盒马草莓蛋糕去年狂卖上亿",
       "onboard_time": 1765192221,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47626,
-      "num": 225786,
-      "word": "初雪就要来了",
-      "onboard_time": 1765460482,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -16699,6 +16755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30584,
+      "num": 134833,
+      "word": "重视解决地方财政困难",
+      "onboard_time": 1765464202,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30472,
       "num": 499113,
       "word": "全网最忙5人组到底在给谁背锅",
@@ -16876,7 +16940,7 @@
     },
     {
       "raw_hot": 27551,
-      "num": 363003,
+      "num": 390210,
       "word": "2025最后20天",
       "onboard_time": 1765460752,
       "rank": 2,
@@ -17105,6 +17169,14 @@
       "onboard_time": 1765398134,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 25019,
+      "num": 221056,
+      "word": "2025年度扛剧花",
+      "onboard_time": 1765463844,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 25002,
@@ -17953,6 +18025,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8688,
+      "num": 135543,
+      "word": "定制怀孕医学证明网络黑产明码标价",
+      "onboard_time": 1765464202,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 7631,
