@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765438319337,
+  "endTime": 1765439098490,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -281,6 +281,14 @@
       "onboard_time": 1765334360,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1219469,
+      "num": 236543,
+      "word": "男子携致癌基因捐精17年",
+      "onboard_time": 1765436541,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1218894,
@@ -811,7 +819,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 736940,
+      "raw_hot": 744554,
       "num": 485316,
       "word": "一个LV狗窝可以买一套房",
       "onboard_time": 1765434861,
@@ -1379,14 +1387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 545546,
-      "num": 142956,
-      "word": "男子携致癌基因捐精17年",
-      "onboard_time": 1765436541,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 543389,
       "num": 500442,
       "word": "放了很久的衣服不要穿",
@@ -1401,6 +1401,14 @@
       "onboard_time": 1765077680,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540715,
+      "num": 540715,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 540206,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1765083081,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 495994,
-      "num": 495994,
-      "word": "神隐",
-      "onboard_time": 1765431321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 495403,
@@ -2156,7 +2156,7 @@
     },
     {
       "raw_hot": 432000,
-      "num": 432000,
+      "num": 458127,
       "word": "联合国厕所不再提供擦手纸",
       "onboard_time": 1765428442,
       "rank": 39,
@@ -3051,6 +3051,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 322928,
+      "num": 322928,
+      "word": "日本电视台工作人员跳楼砸中路人肩膀",
+      "onboard_time": 1765436060,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 322544,
       "num": 284988,
       "word": "浙江省考我数推呢",
@@ -3721,6 +3729,14 @@
       "onboard_time": 1765028485,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260595,
+      "num": 148308,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 259929,
@@ -4731,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205241,
+      "num": 205241,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1765437081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205127,
       "num": 205127,
       "word": "小镇做题家考上北大却患空心病",
@@ -5171,14 +5195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195052,
-      "num": 195052,
-      "word": "日本电视台工作人员跳楼砸中路人肩膀",
-      "onboard_time": 1765436060,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 194978,
       "num": 383501,
       "word": "央视曝光入职培训骗局",
@@ -5371,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188626,
+      "num": 188626,
+      "word": "跨年旅行才是最好的年终奖",
+      "onboard_time": 1765438221,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 188147,
       "num": 342666,
       "word": "风与潮",
@@ -5419,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186176,
+      "num": 139696,
+      "word": "这一天请假的同学堪比丢了500块钱",
+      "onboard_time": 1765437803,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186159,
       "num": 127998,
       "word": "郭碧婷回应和向太越长越像",
@@ -5441,14 +5473,6 @@
       "onboard_time": 1765186941,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185166,
-      "num": 185166,
-      "word": "跨年旅行才是最好的年终奖",
-      "onboard_time": 1765438221,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 185079,
@@ -7171,14 +7195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 143455,
-      "num": 143455,
-      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
-      "onboard_time": 1765437081,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143321,
       "num": 143321,
       "word": "刘诗诗粉丝向爱奇艺维权成功",
@@ -8147,6 +8163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130462,
+      "num": 154900,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130365,
       "num": 130365,
       "word": "日本晋级混团决赛",
@@ -8529,14 +8553,6 @@
       "onboard_time": 1765093461,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 125702,
-      "num": 125702,
-      "word": "狙击蝴蝶 市场没有放弃90后",
-      "onboard_time": 1765437200,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 125652,
@@ -9299,6 +9315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "差点没认出来这是陶昕然",
+      "onboard_time": 1765437922,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117751,
       "num": 117751,
       "word": "小酒窝尖叫之夜合影的明星",
@@ -9515,14 +9539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115487,
-      "num": 115487,
-      "word": "差点没认出来这是陶昕然",
-      "onboard_time": 1765437922,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115402,
       "num": 111799,
       "word": "日本强震后已发生15次余震",
@@ -9699,6 +9715,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114176,
+      "num": 114176,
+      "word": "字节跳动100元餐标的免费三餐",
+      "onboard_time": 1765438462,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 114002,
+      "num": 140835,
+      "word": "刘强东砸35亿港元买楼",
+      "onboard_time": 1765436601,
+      "rank": 36,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 113925,
+      "num": 113925,
+      "word": "流浪猫接到订单是真干事啊",
+      "onboard_time": 1765438221,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113772,
       "num": 113772,
       "word": "得闲谨制里天地玄黄地位约等于abandon",
@@ -9713,14 +9753,6 @@
       "onboard_time": 1765096701,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113706,
-      "num": 127308,
-      "word": "刘强东砸35亿港元买楼",
-      "onboard_time": 1765436601,
-      "rank": 36,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 113514,
@@ -9745,14 +9777,6 @@
       "onboard_time": 1765178480,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113437,
-      "num": 110577,
-      "word": "流浪猫接到订单是真干事啊",
-      "onboard_time": 1765438221,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 113322,
@@ -10211,14 +10235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109569,
-      "num": 117023,
-      "word": "贾玲巴黎分玲",
-      "onboard_time": 1765437442,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109487,
       "num": 109487,
       "word": "36岁电商女老板王晓析患胃癌去世",
@@ -10385,6 +10401,14 @@
       "onboard_time": 1765205784,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108078,
+      "num": 136716,
+      "word": "山西一大厦发生火灾致3人死亡",
+      "onboard_time": 1765438941,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 108075,
@@ -10635,6 +10659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105464,
+      "num": 129939,
+      "word": "北证50",
+      "onboard_time": 1765438343,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105446,
       "num": 651834,
       "word": "未定事件簿",
@@ -10769,6 +10801,14 @@
       "onboard_time": 1765084400,
       "rank": 46,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 103838,
+      "num": 103838,
+      "word": "豆包手机或许是下一个初代iPhone",
+      "onboard_time": 1765438881,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 103744,
@@ -11065,6 +11105,14 @@
       "onboard_time": 1765106121,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101272,
+      "num": 101272,
+      "word": "Doinb谈LWX和刘青松和好",
+      "onboard_time": 1765435701,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 101086,
@@ -11777,14 +11825,6 @@
       "onboard_time": 1765158200,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 92981,
-      "num": 107059,
-      "word": "这一天请假的同学堪比丢了500块钱",
-      "onboard_time": 1765437803,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 92908,
@@ -13075,6 +13115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 68056,
+      "num": 122064,
+      "word": "路人视角的张子萱",
+      "onboard_time": 1765438642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67943,
       "num": 822068,
       "word": "尔滨雪人先生即将上线",
@@ -14155,6 +14203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48830,
+      "num": 132851,
+      "word": "因疲惫身影走红民警林军去世",
+      "onboard_time": 1765439061,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48769,
       "num": 101712,
       "word": "20多岁女生竟靠偷快递为生",
@@ -14321,6 +14377,14 @@
       "onboard_time": 1765089080,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45703,
+      "num": 125166,
+      "word": "狗狗中毒死亡第二天主人父亲也去世",
+      "onboard_time": 1765439061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45655,
@@ -14995,6 +15059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35283,
+      "num": 153657,
+      "word": "李昀锐让今夜升温",
+      "onboard_time": 1765436902,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35133,
       "num": 125993,
       "word": "官方介入管彩礼合适吗",
@@ -15065,14 +15137,6 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33984,
-      "num": 148281,
-      "word": "李昀锐让今夜升温",
-      "onboard_time": 1765436902,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 33883,
@@ -15241,6 +15305,14 @@
       "onboard_time": 1765311374,
       "rank": 42,
       "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 32025,
+      "num": 118446,
+      "word": "工人高空坠落14mm钢筋贯穿胸部",
+      "onboard_time": 1765438102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31958,
@@ -15572,7 +15644,7 @@
     },
     {
       "raw_hot": 26780,
-      "num": 507771,
+      "num": 601840,
       "word": "一条vlog回顾2025",
       "onboard_time": 1765429402,
       "rank": 2,
@@ -16001,14 +16073,6 @@
       "onboard_time": 1765130116,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19594,
-      "num": 117876,
-      "word": "工人高空坠落14mm钢筋贯穿胸部",
-      "onboard_time": 1765438102,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19486,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765438319337,
+  "endTime": 1765439098490,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -33,6 +33,14 @@
       "onboard_time": 1765418180,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1219469,
+      "num": 236543,
+      "word": "男子携致癌基因捐精17年",
+      "onboard_time": 1765436541,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1084740,
@@ -107,7 +115,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 736940,
+      "raw_hot": 744554,
       "num": 485316,
       "word": "一个LV狗窝可以买一套房",
       "onboard_time": 1765434861,
@@ -163,20 +171,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 545546,
-      "num": 142956,
-      "word": "男子携致癌基因捐精17年",
-      "onboard_time": 1765436541,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 543795,
       "num": 161594,
       "word": "虞书欣父亲要求被告公开道歉",
       "onboard_time": 1765375162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540715,
+      "num": 540715,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 535088,
@@ -201,14 +209,6 @@
       "onboard_time": 1765428862,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 495994,
-      "num": 495994,
-      "word": "神隐",
-      "onboard_time": 1765431321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 495403,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 432000,
-      "num": 432000,
+      "num": 458127,
       "word": "联合国厕所不再提供擦手纸",
       "onboard_time": 1765428442,
       "rank": 39,
@@ -371,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 322928,
+      "num": 322928,
+      "word": "日本电视台工作人员跳楼砸中路人肩膀",
+      "onboard_time": 1765436060,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 308634,
       "num": 274027,
       "word": "刘亦菲珠宝消失术",
@@ -449,6 +457,14 @@
       "onboard_time": 1765421120,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260595,
+      "num": 148308,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 259929,
@@ -595,6 +611,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 205241,
+      "num": 205241,
+      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
+      "onboard_time": 1765437081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204719,
       "num": 204719,
       "word": "肺结节的形成可能和油烟有关",
@@ -625,14 +649,6 @@
       "onboard_time": 1765427062,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195052,
-      "num": 195052,
-      "word": "日本电视台工作人员跳楼砸中路人肩膀",
-      "onboard_time": 1765436060,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 189843,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188626,
+      "num": 188626,
+      "word": "跨年旅行才是最好的年终奖",
+      "onboard_time": 1765438221,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187747,
       "num": 549370,
       "word": "梁靖崑vs林诗栋",
@@ -675,20 +699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186176,
+      "num": 139696,
+      "word": "这一天请假的同学堪比丢了500块钱",
+      "onboard_time": 1765437803,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186159,
       "num": 127998,
       "word": "郭碧婷回应和向太越长越像",
       "onboard_time": 1765403474,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185166,
-      "num": 185166,
-      "word": "跨年旅行才是最好的年终奖",
-      "onboard_time": 1765438221,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 185124,
@@ -899,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143455,
-      "num": 143455,
-      "word": "王楚钦孙颖莎vs林诗栋蒯曼",
-      "onboard_time": 1765437081,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142801,
       "num": 142801,
       "word": "郭柯宇再见爱人永远的白月光",
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130462,
+      "num": 154900,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129898,
       "num": 129898,
       "word": "抖音高管回应红楼梦悼明说",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1765419801,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125702,
-      "num": 125702,
-      "word": "狙击蝴蝶 市场没有放弃90后",
-      "onboard_time": 1765437200,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 125526,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "差点没认出来这是陶昕然",
+      "onboard_time": 1765437922,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117402,
       "num": 121932,
       "word": "汕头火灾遇难者系四代同堂",
@@ -1203,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115487,
-      "num": 115487,
-      "word": "差点没认出来这是陶昕然",
-      "onboard_time": 1765437922,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115086,
       "num": 115086,
       "word": "雷霆大胜太阳49分",
@@ -1227,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114176,
+      "num": 114176,
+      "word": "字节跳动100元餐标的免费三餐",
+      "onboard_time": 1765438462,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114134,
       "num": 114134,
       "word": "腾讯视频星光大赏",
@@ -1235,16 +1259,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113706,
-      "num": 127308,
+      "raw_hot": 114002,
+      "num": 140835,
       "word": "刘强东砸35亿港元买楼",
       "onboard_time": 1765436601,
       "rank": 36,
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 113437,
-      "num": 110577,
+      "raw_hot": 113925,
+      "num": 113925,
       "word": "流浪猫接到订单是真干事啊",
       "onboard_time": 1765438221,
       "rank": 47,
@@ -1323,14 +1347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109569,
-      "num": 117023,
-      "word": "贾玲巴黎分玲",
-      "onboard_time": 1765437442,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109363,
       "num": 109363,
       "word": "金价波动",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1765424482,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108078,
+      "num": 136716,
+      "word": "山西一大厦发生火灾致3人死亡",
+      "onboard_time": 1765438941,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 108056,
@@ -1403,11 +1427,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105464,
+      "num": 129939,
+      "word": "北证50",
+      "onboard_time": 1765438343,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104153,
       "num": 104153,
       "word": "钟文泽三星三折叠体验",
       "onboard_time": 1765429881,
       "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 103838,
+      "num": 103838,
+      "word": "豆包手机或许是下一个初代iPhone",
+      "onboard_time": 1765438881,
+      "rank": 45,
       "category": "数码"
     },
     {
@@ -1449,6 +1489,14 @@
       "onboard_time": 1765419380,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101272,
+      "num": 101272,
+      "word": "Doinb谈LWX和刘青松和好",
+      "onboard_time": 1765435701,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 100940,
@@ -1553,14 +1601,6 @@
       "onboard_time": 1765422680,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92981,
-      "num": 107059,
-      "word": "这一天请假的同学堪比丢了500块钱",
-      "onboard_time": 1765437803,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 92547,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1765373662,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68056,
+      "num": 122064,
+      "word": "路人视角的张子萱",
+      "onboard_time": 1765438642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 67102,
@@ -1915,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 48830,
+      "num": 132851,
+      "word": "因疲惫身影走红民警林军去世",
+      "onboard_time": 1765439061,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48311,
       "num": 202724,
       "word": "无名老人住院7年半仅眼球能转动",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1765365082,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45703,
+      "num": 125166,
+      "word": "狗狗中毒死亡第二天主人父亲也去世",
+      "onboard_time": 1765439061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42962,
@@ -2099,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35283,
+      "num": 153657,
+      "word": "李昀锐让今夜升温",
+      "onboard_time": 1765436902,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34718,
       "num": 102608,
       "word": "江西对314人追责问责",
@@ -2115,14 +2187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 33984,
-      "num": 148281,
-      "word": "李昀锐让今夜升温",
-      "onboard_time": 1765436902,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33800,
       "num": 102486,
       "word": "TheShy发文告别赛场",
@@ -2136,6 +2200,14 @@
       "word": "医院垫付无名男子躺7年半医药费",
       "onboard_time": 1765430180,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32025,
+      "num": 118446,
+      "word": "工人高空坠落14mm钢筋贯穿胸部",
+      "onboard_time": 1765438102,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2188,7 +2260,7 @@
     },
     {
       "raw_hot": 26780,
-      "num": 507771,
+      "num": 601840,
       "word": "一条vlog回顾2025",
       "onboard_time": 1765429402,
       "rank": 2,
@@ -2273,14 +2345,6 @@
       "onboard_time": 1765417824,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 19594,
-      "num": 117876,
-      "word": "工人高空坠落14mm钢筋贯穿胸部",
-      "onboard_time": 1765438102,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19398,
