@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765425677788,
+  "endTime": 1765428244189,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1311781,
+      "num": 1311781,
+      "word": "87岁画家范曾喜获独子",
+      "onboard_time": 1765427544,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1243925,
       "num": 1243925,
       "word": "医院回应最快女护士张水华被处分",
@@ -353,6 +361,14 @@
       "onboard_time": 1765037004,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1077554,
+      "num": 258825,
+      "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
+      "onboard_time": 1765424422,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1064423,
@@ -819,6 +835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 709772,
+      "num": 709772,
+      "word": "范曾宣布与女儿继子断绝关系",
+      "onboard_time": 1765427544,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 701415,
       "num": 363144,
       "word": "陈晓陈妍希 顶峰相见",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1765354462,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 633108,
+      "num": 255949,
+      "word": "张艺兴退股染色体娱乐",
+      "onboard_time": 1765424962,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 626358,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1765091599,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 540097,
-      "num": 258825,
-      "word": "郭碧婷说只在乎孩子有没有跟向佐联系",
-      "onboard_time": 1765424422,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 538600,
@@ -2475,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361714,
+      "num": 361714,
+      "word": "三十年前的奢侈品零食有多好吃",
+      "onboard_time": 1765423581,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361711,
       "num": 254195,
       "word": "李亚鹏谈第四个女儿",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1765408278,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 330098,
+      "num": 330098,
+      "word": "谭松韵 大波浪洋娃娃",
+      "onboard_time": 1765424603,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 329746,
@@ -3243,14 +3283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284347,
-      "num": 255949,
-      "word": "张艺兴退股染色体娱乐",
-      "onboard_time": 1765424962,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283150,
       "num": 283150,
       "word": "原来是迟蓬提醒的杨幂",
@@ -3305,6 +3337,14 @@
       "onboard_time": 1765202362,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279502,
+      "num": 193444,
+      "word": "东北猫冬生活离不开冻饺子",
+      "onboard_time": 1765428022,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 279451,
@@ -3395,12 +3435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271292,
-      "num": 271292,
-      "word": "三十年前的奢侈品零食有多好吃",
-      "onboard_time": 1765423581,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 272121,
+      "num": 272121,
+      "word": "护士被男友割喉杀害",
+      "onboard_time": 1765427422,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270625,
@@ -3987,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227369,
+      "num": 1007603,
+      "word": "浙江卫视跨年晚会阵容官宣",
+      "onboard_time": 1765424962,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226816,
       "num": 226816,
       "word": "华晨宇让小迪丽热巴别辜负那英",
@@ -4331,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210106,
+      "num": 210106,
+      "word": "长安二十四计成毅面相都变了",
+      "onboard_time": 1765427242,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209745,
       "num": 180151,
       "word": "小狗体检小肚子duang一下弹出来了",
@@ -4537,6 +4593,14 @@
       "onboard_time": 1765106241,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204719,
+      "num": 204719,
+      "word": "肺结节的形成可能和油烟有关",
+      "onboard_time": 1765427301,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204709,
@@ -4763,14 +4827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198893,
-      "num": 262485,
-      "word": "浙江卫视跨年晚会阵容官宣",
-      "onboard_time": 1765424962,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198679,
       "num": 198679,
       "word": "成毅张涵予眼神对狙这一秒",
@@ -4883,6 +4939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195794,
+      "num": 195794,
+      "word": "湖人vs马刺",
+      "onboard_time": 1765427062,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195781,
       "num": 209129,
       "word": "生万物年度剧王",
@@ -4904,14 +4968,6 @@
       "word": "李昀锐手上好多伤",
       "onboard_time": 1765367962,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195489,
-      "num": 195489,
-      "word": "谭松韵 大波浪洋娃娃",
-      "onboard_time": 1765424603,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -5009,6 +5065,14 @@
       "onboard_time": 1765374743,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191074,
+      "num": 191074,
+      "word": "华为重夺中国手机市场份额第一",
+      "onboard_time": 1765427782,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 190197,
@@ -5115,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187747,
+      "num": 549370,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1765425802,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187454,
       "num": 187454,
       "word": "特朗普要求高市早苗不要挑衅中国",
@@ -5169,6 +5241,14 @@
       "onboard_time": 1765186941,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185692,
+      "num": 185692,
+      "word": "欧洲有致癌基因男子捐精17年",
+      "onboard_time": 1765427722,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185079,
@@ -6531,6 +6611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148841,
+      "num": 148841,
+      "word": "詹姆斯隔扣",
+      "onboard_time": 1765427963,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148729,
       "num": 148729,
       "word": "小米中国区多业务人事调整",
@@ -6579,6 +6667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148011,
+      "num": 148011,
+      "word": "狙击蝴蝶剧宣必有高人指点",
+      "onboard_time": 1765427902,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147967,
       "num": 171937,
       "word": "姚晨庄达菲见面先干抗病毒口服液",
@@ -6617,6 +6713,14 @@
       "onboard_time": 1765086260,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147326,
+      "num": 142909,
+      "word": "年初年末的黑马都是周柯宇",
+      "onboard_time": 1765427601,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 147207,
@@ -7435,6 +7539,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134499,
+      "num": 134499,
+      "word": "吴谨言优酷年冠女主回归",
+      "onboard_time": 1765426522,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134467,
       "num": 134467,
       "word": "原来衣服真的会脏得立起来",
@@ -7449,6 +7561,14 @@
       "onboard_time": 1765179260,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134432,
+      "num": 134432,
+      "word": "孩子的阿贝贝退休了",
+      "onboard_time": 1765427782,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 134257,
@@ -7539,12 +7659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133241,
+      "num": 135096,
+      "word": "王建华 让我进群",
+      "onboard_time": 1765426703,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133182,
       "num": 133182,
       "word": "妻子谈许绍雄离世细节",
       "onboard_time": 1765331361,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "国漫天花板级双A打戏",
+      "onboard_time": 1765428201,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 133126,
@@ -8889,6 +9025,14 @@
       "onboard_time": 1765088240,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116630,
+      "num": 362596,
+      "word": "EVA动画制作公司正式解散",
+      "onboard_time": 1765428022,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 116406,
@@ -12155,6 +12299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72025,
+      "num": 164686,
+      "word": "马斯克或成全球首个万亿富豪",
+      "onboard_time": 1765427362,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71958,
       "num": 206636,
       "word": "杭州野生动物园黑熊突然袭击饲养员",
@@ -14259,6 +14411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 34402,
+      "num": 214565,
+      "word": "体面过冬要花多少钱",
+      "onboard_time": 1765427782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33883,
       "num": 128487,
       "word": "被孙颖莎帅到了",
@@ -14433,6 +14593,14 @@
       "onboard_time": 1765417824,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31787,
+      "num": 135893,
+      "word": "日本震后灾区码头龟裂超200米",
+      "onboard_time": 1765426822,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31744,
@@ -14729,6 +14897,14 @@
       "onboard_time": 1765070961,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26448,
+      "num": 170233,
+      "word": "爱宠人士带狗狗合影支持宠物中毒案",
+      "onboard_time": 1765428022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26437,
