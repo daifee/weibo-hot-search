@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765432039900,
+  "endTime": 1765435440390,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1219,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 942298,
+      "num": 1150767,
+      "word": "原来分手真的是一个人的事",
+      "onboard_time": 1765433062,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 942206,
       "num": 1150753,
       "word": "得闲谨制",
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 831035,
+      "num": 191052,
+      "word": "TFBOYS 帝国姐",
+      "onboard_time": 1765432221,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 830374,
       "num": 702801,
       "word": "感觉李晨有老人味了",
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 792669,
-      "num": 272121,
+      "num": 275125,
       "word": "护士被男友割喉杀害",
       "onboard_time": 1765427422,
       "rank": 16,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1764686424,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 780931,
+      "num": 443917,
+      "word": "蜜雪冰城开始卖早餐了",
+      "onboard_time": 1765430839,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 777964,
@@ -3739,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500249,
+      "num": 500249,
+      "word": "B站",
+      "onboard_time": 1765428862,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 499933,
       "num": 253380,
       "word": "伊能静首尔做医美",
@@ -3931,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487533,
+      "num": 281739,
+      "word": "2025超话大赏",
+      "onboard_time": 1765429103,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486925,
       "num": 486925,
       "word": "浙江卫视跨年晚会官宣",
@@ -4004,7 +4044,7 @@
     },
     {
       "raw_hot": 482430,
-      "num": 228156,
+      "num": 252690,
       "word": "欧洲有致癌基因男子捐精17年",
       "onboard_time": 1765427722,
       "rank": 35,
@@ -4651,14 +4691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 439446,
-      "num": 221752,
-      "word": "2025超话大赏",
-      "onboard_time": 1765429103,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 438525,
       "num": 438525,
       "word": "三星首款三折叠手机发布",
@@ -4777,6 +4809,14 @@
       "onboard_time": 1764926540,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432000,
+      "num": 432000,
+      "word": "联合国厕所不再提供擦手纸",
+      "onboard_time": 1765428442,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 430563,
@@ -5233,14 +5273,6 @@
       "onboard_time": 1764645981,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401401,
-      "num": 401401,
-      "word": "B站",
-      "onboard_time": 1765428862,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 401349,
@@ -6179,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353531,
+      "num": 353531,
+      "word": "神隐",
+      "onboard_time": 1765431321,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353100,
       "num": 353100,
       "word": "幼儿园15天虐童上千次案最新进展",
@@ -7003,6 +7043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321830,
+      "num": 321830,
+      "word": "高市早苗想让美国好歹拉日本一把",
+      "onboard_time": 1765433421,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321595,
       "num": 321595,
       "word": "日本婴儿残尸有刀具切割痕迹",
@@ -7289,6 +7337,14 @@
       "onboard_time": 1764816621,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308634,
+      "num": 274027,
+      "word": "刘亦菲珠宝消失术",
+      "onboard_time": 1765431920,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 307795,
@@ -7817,6 +7873,14 @@
       "onboard_time": 1764662481,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283851,
+      "num": 885677,
+      "word": "王者荣耀",
+      "onboard_time": 1764754881,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 283150,
@@ -9235,6 +9299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237495,
+      "num": 237495,
+      "word": "R1SE浙江跨晚 结没结婚都来了",
+      "onboard_time": 1765431080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237408,
       "num": 220487,
       "word": "杨幂蓝色镂空裙",
@@ -9393,14 +9465,6 @@
       "onboard_time": 1764976096,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 234052,
-      "num": 885677,
-      "word": "王者荣耀",
-      "onboard_time": 1764754881,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 233795,
@@ -11387,14 +11451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200128,
-      "num": 200128,
-      "word": "R1SE浙江跨晚 结没结婚都来了",
-      "onboard_time": 1765431080,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200003,
       "num": 200003,
       "word": "王鸥啥时候结婚的",
@@ -11971,6 +12027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193167,
+      "num": 193167,
+      "word": "沈梦辰回应什么时候要小孩",
+      "onboard_time": 1765435100,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192888,
       "num": 276768,
       "word": "张本智和0比3F勒布伦",
@@ -12161,14 +12225,6 @@
       "onboard_time": 1764593543,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189955,
-      "num": 225673,
-      "word": "神隐",
-      "onboard_time": 1765431321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 189953,
@@ -13153,6 +13209,14 @@
       "onboard_time": 1764544458,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179487,
+      "num": 179487,
+      "word": "考研被酒店威胁了",
+      "onboard_time": 1765432523,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179404,
@@ -14891,6 +14955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159995,
+      "num": 159995,
+      "word": "华妃说这歌声吵到本宫了",
+      "onboard_time": 1765434682,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159954,
       "num": 159954,
       "word": "刘宇宁大连站售罄",
@@ -15049,14 +15121,6 @@
       "onboard_time": 1764984981,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158347,
-      "num": 158347,
-      "word": "蜜雪冰城开始卖早餐了",
-      "onboard_time": 1765430839,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 158246,
@@ -15451,14 +15515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155278,
-      "num": 167507,
-      "word": "联合国厕所不再提供擦手纸",
-      "onboard_time": 1765428442,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155245,
       "num": 155245,
       "word": "向佐来到康定心系郭碧婷和孩子",
@@ -15785,6 +15841,14 @@
       "onboard_time": 1765101261,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "Kanavi韩服挂机",
+      "onboard_time": 1765432461,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 152824,
@@ -16697,6 +16761,14 @@
       "onboard_time": 1765206624,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145027,
+      "num": 201369,
+      "word": "向鹏vs安宰贤",
+      "onboard_time": 1765433062,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 144954,
@@ -18683,6 +18755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132157,
+      "num": 180308,
+      "word": "手机被骗子共享了屏幕怎么办",
+      "onboard_time": 1765434622,
+      "rank": 29,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 132152,
       "num": 132152,
       "word": "灌面汤杀妻案家属希望判凶手死刑",
@@ -19843,6 +19923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125215,
+      "num": 125215,
+      "word": "B站辟谣全面会员",
+      "onboard_time": 1765434622,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125200,
       "num": 123436,
       "word": "GALA回应离队",
@@ -20547,6 +20635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121607,
+      "num": 121607,
+      "word": "拉伸对直腿细腿的杀伤力",
+      "onboard_time": 1765433661,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 121587,
       "num": 121587,
       "word": "压力大生闷气的人患甲状腺癌机率更大",
@@ -20811,6 +20907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120219,
+      "num": 120219,
+      "word": "安崎官宣签约天娱",
+      "onboard_time": 1765434501,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120218,
       "num": 127631,
       "word": "刘诗诗杨幂白鹿 全女版秦时明月",
@@ -20953,6 +21057,14 @@
       "onboard_time": 1765273222,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119584,
+      "num": 119584,
+      "word": "马刺淘汰湖人",
+      "onboard_time": 1765434321,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 119555,
@@ -21635,6 +21747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116669,
+      "num": 116669,
+      "word": "华为重夺国内份额第一",
+      "onboard_time": 1765434682,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116668,
       "num": 116668,
       "word": "喜人奇妙夜2总决赛",
@@ -21769,6 +21889,14 @@
       "onboard_time": 1764753923,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116071,
+      "num": 116071,
+      "word": "狙击蝴蝶分手名场面",
+      "onboard_time": 1765434981,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 115912,
@@ -22089,6 +22217,14 @@
       "onboard_time": 1764656541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114279,
+      "num": 114279,
+      "word": "弦子李茂一个电话把黄英夫妇哄上综艺",
+      "onboard_time": 1765435340,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114244,
@@ -22512,14 +22648,6 @@
       "word": "黄景瑜邓超你俩坐一桌",
       "onboard_time": 1765103659,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112349,
-      "num": 112349,
-      "word": "刘亦菲珠宝消失术",
-      "onboard_time": 1765431920,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -22947,6 +23075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109794,
+      "num": 120226,
+      "word": "小王开麦节我来喵一句",
+      "onboard_time": 1765434741,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "被王者语音害惨了",
@@ -23331,6 +23467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108247,
+      "num": 108247,
+      "word": "范曾4段婚姻1女1子2继子",
+      "onboard_time": 1765435281,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108140,
       "num": 110003,
       "word": "迪丽热巴云包场狙击蝴蝶",
@@ -23529,6 +23673,14 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107065,
+      "num": 107065,
+      "word": "新音购票时间",
+      "onboard_time": 1765433902,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 107061,
@@ -25515,6 +25667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98206,
+      "num": 120239,
+      "word": "一个LV狗窝可以买一套房",
+      "onboard_time": 1765434861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98145,
       "num": 98145,
       "word": "王安宇大侦探首发",
@@ -26177,6 +26337,14 @@
       "onboard_time": 1765377143,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94525,
+      "num": 189987,
+      "word": "清华博士斩获Excel世锦赛第9名",
+      "onboard_time": 1765434081,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94500,
@@ -30987,6 +31155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56142,
+      "num": 120577,
+      "word": "国外女子彩票中奖选择终身分期领奖",
+      "onboard_time": 1765434561,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56112,
       "num": 56112,
       "word": "王楚钦接球出界 孙颖莎懵出表情包",
@@ -32403,6 +32579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44933,
+      "num": 240543,
+      "word": "迪奥高订花瓣在三里屯绽放",
+      "onboard_time": 1765433062,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44885,
       "num": 439850,
       "word": "鸿蒙智行五界全面深化合作",
@@ -33121,6 +33305,14 @@
       "onboard_time": 1764929901,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40069,
+      "num": 117721,
+      "word": "追星坐上自担副驾了",
+      "onboard_time": 1765434021,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 40042,
@@ -34355,6 +34547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30934,
+      "num": 193156,
+      "word": "商人被控诈骗政府9500万",
+      "onboard_time": 1765434622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30843,
       "num": 68218,
       "word": "丁俊晖vs唐纳森",
@@ -34924,7 +35124,7 @@
     },
     {
       "raw_hot": 26780,
-      "num": 284473,
+      "num": 444157,
       "word": "一条vlog回顾2025",
       "onboard_time": 1765429402,
       "rank": 2,
