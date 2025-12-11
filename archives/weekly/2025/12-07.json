@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765442390564,
+  "endTime": 1765443183040,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 833703,
+      "num": 1133392,
+      "word": "字节跳动100元餐标的免费三餐",
+      "onboard_time": 1765438462,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 831035,
       "num": 199501,
       "word": "TFBOYS 帝国姐",
@@ -745,14 +753,6 @@
       "onboard_time": 1765379721,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 793918,
-      "num": 1127026,
-      "word": "字节跳动100元餐标的免费三餐",
-      "onboard_time": 1765438462,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 792669,
@@ -993,6 +993,14 @@
       "onboard_time": 1765359561,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670900,
+      "num": 197169,
+      "word": "医院躺了2700多天的男子是植物人",
+      "onboard_time": 1765441521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668972,
@@ -2547,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377228,
+      "num": 185322,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376200,
       "num": 376200,
       "word": "孙俪教邓超减肥 3周腰围小4厘米",
@@ -2651,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361597,
+      "num": 184018,
+      "word": "李昀锐 130斤不行130斤胖了",
+      "onboard_time": 1765437380,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360796,
       "num": 360796,
       "word": "学校火灾致13死校方逼家长签协议",
@@ -2707,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351798,
-      "num": 185322,
-      "word": "贾玲巴黎分玲",
-      "onboard_time": 1765437442,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
@@ -2753,14 +2769,6 @@
       "onboard_time": 1765244781,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 349778,
-      "num": 184018,
-      "word": "李昀锐 130斤不行130斤胖了",
-      "onboard_time": 1765437380,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 348914,
@@ -2881,6 +2889,14 @@
       "onboard_time": 1765207702,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340485,
+      "num": 199702,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 340380,
@@ -3057,6 +3073,14 @@
       "onboard_time": 1765248801,
       "rank": 15,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 325092,
+      "num": 325092,
+      "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
+      "onboard_time": 1765441883,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 324274,
@@ -3259,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304751,
+      "num": 198261,
+      "word": "哈尔滨机场羽绒服洗2次不再出租",
+      "onboard_time": 1765441042,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302940,
       "num": 203994,
       "word": "苟仲文",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1765287984,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293956,
-      "num": 199702,
-      "word": "狙击蝴蝶 市场没有放弃90后",
-      "onboard_time": 1765437200,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 293298,
@@ -4019,14 +4043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239675,
-      "num": 198261,
-      "word": "哈尔滨机场羽绒服洗2次不再出租",
-      "onboard_time": 1765441042,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239188,
       "num": 944462,
       "word": "苟仲文被判死缓终身监禁不得减刑假释",
@@ -4403,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218661,
+      "num": 191430,
+      "word": "张凌赫在我们公司楼下拍广告",
+      "onboard_time": 1765439543,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218519,
       "num": 218519,
       "word": "俄女网红儿子塞真空袋",
@@ -4432,14 +4456,6 @@
       "word": "张桂源王橹杰 时代峰峻爆改赛道",
       "onboard_time": 1765272683,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 217678,
-      "num": 191430,
-      "word": "张凌赫在我们公司楼下拍广告",
-      "onboard_time": 1765439543,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -4553,14 +4569,6 @@
       "onboard_time": 1765358601,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212865,
-      "num": 212865,
-      "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
-      "onboard_time": 1765441883,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 212694,
@@ -4884,7 +4892,7 @@
     },
     {
       "raw_hot": 204337,
-      "num": 136098,
+      "num": 189653,
       "word": "iG官宣Photic加入",
       "onboard_time": 1765441582,
       "rank": 31,
@@ -5529,6 +5537,14 @@
       "onboard_time": 1765186941,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185246,
+      "num": 147015,
+      "word": "王楚钦孙颖莎提前小组出线",
+      "onboard_time": 1765443083,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185079,
@@ -6859,6 +6875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151093,
+      "num": 151093,
+      "word": "李少红用Mate80随手拍出电影感",
+      "onboard_time": 1765439481,
+      "rank": 30,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 150945,
       "num": 150945,
       "word": "郭德纲发文疑回应相声被举报",
@@ -7195,6 +7219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144967,
+      "num": 163524,
+      "word": "范曾与第四任妻子相差50岁",
+      "onboard_time": 1765440562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144906,
       "num": 144906,
       "word": "陈伟霆 神父",
@@ -7353,6 +7385,14 @@
       "onboard_time": 1765428923,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141549,
+      "num": 141549,
+      "word": "金饰克价涨到1337元",
+      "onboard_time": 1765442061,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 141535,
@@ -7771,12 +7811,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136641,
-      "num": 136641,
-      "word": "金饰克价涨到1337元",
-      "onboard_time": 1765442061,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 136719,
+      "num": 136719,
+      "word": "马来西亚男孩残忍杀害女同学",
+      "onboard_time": 1765442360,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136574,
@@ -7905,14 +7945,6 @@
       "onboard_time": 1765184000,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134832,
-      "num": 136134,
-      "word": "李少红用Mate80随手拍出电影感",
-      "onboard_time": 1765439481,
-      "rank": 30,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 134807,
@@ -8641,6 +8673,14 @@
       "onboard_time": 1765244721,
       "rank": 32,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 125901,
+      "num": 125901,
+      "word": "别人是忌口 黄景瑜是多吃",
+      "onboard_time": 1765442360,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 125722,
@@ -9401,14 +9441,6 @@
       "onboard_time": 1765424181,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117924,
-      "num": 194589,
-      "word": "医院躺了2700多天的男子是植物人",
-      "onboard_time": 1765441521,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117911,
@@ -10235,14 +10267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110679,
-      "num": 110679,
-      "word": "范曾与第四任妻子相差50岁",
-      "onboard_time": 1765440562,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110656,
       "num": 198766,
       "word": "中国空间站安装了碎片防护装置",
@@ -10883,6 +10907,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 104316,
+      "num": 104316,
+      "word": "华为Mate80销量",
+      "onboard_time": 1765443083,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104301,
       "num": 104301,
       "word": "李施嬅 不要在孩子面前随便说话",
@@ -11377,14 +11409,6 @@
       "onboard_time": 1765170500,
       "rank": 29,
       "category": "国内时政,数码"
-    },
-    {
-      "raw_hot": 99812,
-      "num": 99812,
-      "word": "马来西亚男孩残忍杀害女同学",
-      "onboard_time": 1765442360,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99566,
@@ -12083,6 +12107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91912,
+      "num": 91912,
+      "word": "李施嬅穿雨衣爆改法证先锋",
+      "onboard_time": 1765442841,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91811,
       "num": 91811,
       "word": "电话响了用号码查微信再联系",
@@ -12179,14 +12211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90765,
-      "num": 90765,
-      "word": "别人是忌口 黄景瑜是多吃",
-      "onboard_time": 1765442360,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90754,
       "num": 252049,
       "word": "为何欧洲已不值得中国帮助",
@@ -12257,6 +12281,14 @@
       "onboard_time": 1765287623,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90151,
+      "num": 87662,
+      "word": "离婚后她举办了一个人的婚礼",
+      "onboard_time": 1765443142,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89874,
@@ -12361,6 +12393,14 @@
       "onboard_time": 1765415602,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 88020,
+      "num": 193812,
+      "word": "东北户外洗浴惊现机器人技师",
+      "onboard_time": 1765440982,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 87999,
@@ -12617,14 +12657,6 @@
       "onboard_time": 1765175901,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84113,
-      "num": 193812,
-      "word": "东北户外洗浴惊现机器人技师",
-      "onboard_time": 1765440982,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 83773,
@@ -15923,6 +15955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25733,
+      "num": 106725,
+      "word": "刘宇宁张峻豪cha了黄子弘凡新歌",
+      "onboard_time": 1765442241,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25719,
       "num": 30321,
       "word": "陈妍希训狗",
@@ -15995,6 +16035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24529,
+      "num": 107573,
+      "word": "距离郭芙蓉赎身还有不到1个月",
+      "onboard_time": 1765441762,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24506,
       "num": 33570,
       "word": "日本社民党党首说高市应辞职",
@@ -16009,6 +16057,14 @@
       "onboard_time": 1765192281,
       "rank": 38,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 24357,
+      "num": 104212,
+      "word": "肖战说家是自己的避风港",
+      "onboard_time": 1765442961,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 24141,
@@ -16257,14 +16313,6 @@
       "onboard_time": 1765130116,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19682,
-      "num": 106725,
-      "word": "刘宇宁张峻豪cha了黄子弘凡新歌",
-      "onboard_time": 1765442241,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 19486,
@@ -16529,14 +16577,6 @@
       "onboard_time": 1765262602,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15500,
-      "num": 107573,
-      "word": "距离郭芙蓉赎身还有不到1个月",
-      "onboard_time": 1765441762,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 15443,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765384704105,
-  "endTime": 1765442390564,
+  "endTime": 1765443183040,
   "band_list": [
     {
       "raw_hot": 1870366,
@@ -83,6 +83,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 833703,
+      "num": 1133392,
+      "word": "字节跳动100元餐标的免费三餐",
+      "onboard_time": 1765438462,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 831035,
       "num": 199501,
       "word": "TFBOYS 帝国姐",
@@ -97,14 +105,6 @@
       "onboard_time": 1765379721,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 793918,
-      "num": 1127026,
-      "word": "字节跳动100元餐标的免费三餐",
-      "onboard_time": 1765438462,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 792669,
@@ -145,6 +145,14 @@
       "onboard_time": 1765365022,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670900,
+      "num": 197169,
+      "word": "医院躺了2700多天的男子是植物人",
+      "onboard_time": 1765441521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 659266,
@@ -339,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377228,
+      "num": 185322,
+      "word": "贾玲巴黎分玲",
+      "onboard_time": 1765437442,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361714,
       "num": 361714,
       "word": "三十年前的奢侈品零食有多好吃",
       "onboard_time": 1765423581,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 361597,
+      "num": 184018,
+      "word": "李昀锐 130斤不行130斤胖了",
+      "onboard_time": 1765437380,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 353852,
@@ -355,20 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351798,
-      "num": 185322,
-      "word": "贾玲巴黎分玲",
-      "onboard_time": 1765437442,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 349778,
-      "num": 184018,
-      "word": "李昀锐 130斤不行130斤胖了",
-      "onboard_time": 1765437380,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 340485,
+      "num": 199702,
+      "word": "狙击蝴蝶 市场没有放弃90后",
+      "onboard_time": 1765437200,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 330699,
@@ -393,6 +409,14 @@
       "onboard_time": 1765368983,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325092,
+      "num": 325092,
+      "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
+      "onboard_time": 1765441883,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 323203,
@@ -427,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304751,
+      "num": 198261,
+      "word": "哈尔滨机场羽绒服洗2次不再出租",
+      "onboard_time": 1765441042,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301821,
       "num": 167128,
       "word": "冯提莫需要终身服药",
       "onboard_time": 1765415361,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293956,
-      "num": 199702,
-      "word": "狙击蝴蝶 市场没有放弃90后",
-      "onboard_time": 1765437200,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 289217,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239675,
-      "num": 198261,
-      "word": "哈尔滨机场羽绒服洗2次不再出租",
-      "onboard_time": 1765441042,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237910,
       "num": 237910,
       "word": "无期迷途",
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218661,
+      "num": 191430,
+      "word": "张凌赫在我们公司楼下拍广告",
+      "onboard_time": 1765439543,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218519,
       "num": 218519,
       "word": "俄女网红儿子塞真空袋",
@@ -635,28 +659,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 217678,
-      "num": 191430,
-      "word": "张凌赫在我们公司楼下拍广告",
-      "onboard_time": 1765439543,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215240,
       "num": 215240,
       "word": "向佐换造型师了",
       "onboard_time": 1765423160,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212865,
-      "num": 212865,
-      "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
-      "onboard_time": 1765441883,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 210106,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 204337,
-      "num": 136098,
+      "num": 189653,
       "word": "iG官宣Photic加入",
       "onboard_time": 1765441582,
       "rank": 31,
@@ -769,6 +777,14 @@
       "onboard_time": 1765403474,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185246,
+      "num": 147015,
+      "word": "王楚钦孙颖莎提前小组出线",
+      "onboard_time": 1765443083,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185124,
@@ -979,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151093,
+      "num": 151093,
+      "word": "李少红用Mate80随手拍出电影感",
+      "onboard_time": 1765439481,
+      "rank": 30,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 147326,
       "num": 142909,
       "word": "年初年末的黑马都是周柯宇",
@@ -995,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144967,
+      "num": 163524,
+      "word": "范曾与第四任妻子相差50岁",
+      "onboard_time": 1765440562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142801,
       "num": 142801,
       "word": "郭柯宇再见爱人永远的白月光",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1765428923,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141549,
+      "num": 141549,
+      "word": "金饰克价涨到1337元",
+      "onboard_time": 1765442061,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 139868,
@@ -1051,12 +1091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136641,
-      "num": 136641,
-      "word": "金饰克价涨到1337元",
-      "onboard_time": 1765442061,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 136719,
+      "num": 136719,
+      "word": "马来西亚男孩残忍杀害女同学",
+      "onboard_time": 1765442360,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136239,
@@ -1089,14 +1129,6 @@
       "onboard_time": 1765430720,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134832,
-      "num": 136134,
-      "word": "李少红用Mate80随手拍出电影感",
-      "onboard_time": 1765439481,
-      "rank": 30,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 134676,
@@ -1187,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125901,
+      "num": 125901,
+      "word": "别人是忌口 黄景瑜是多吃",
+      "onboard_time": 1765442360,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125526,
       "num": 125526,
       "word": "中方回应中俄轰炸机飞临日本",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1765424181,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117924,
-      "num": 194589,
-      "word": "医院躺了2700多天的男子是植物人",
-      "onboard_time": 1765441521,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117781,
@@ -1443,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110679,
-      "num": 110679,
-      "word": "范曾与第四任妻子相差50岁",
-      "onboard_time": 1765440562,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109875,
       "num": 103262,
       "word": "上班最大的意义不是拿点工资",
@@ -1563,6 +1587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104316,
+      "num": 104316,
+      "word": "华为Mate80销量",
+      "onboard_time": 1765443083,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104153,
       "num": 104153,
       "word": "钟文泽三星三折叠体验",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1765417702,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99812,
-      "num": 99812,
-      "word": "马来西亚男孩残忍杀害女同学",
-      "onboard_time": 1765442360,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99472,
@@ -1771,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91912,
+      "num": 91912,
+      "word": "李施嬅穿雨衣爆改法证先锋",
+      "onboard_time": 1765442841,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91811,
       "num": 91811,
       "word": "电话响了用号码查微信再联系",
@@ -1787,14 +1819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90765,
-      "num": 90765,
-      "word": "别人是忌口 黄景瑜是多吃",
-      "onboard_time": 1765442360,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90700,
       "num": 90700,
       "word": "原来春宵一刻值千金是这个千金啊",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1765420039,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90151,
+      "num": 87662,
+      "word": "离婚后她举办了一个人的婚礼",
+      "onboard_time": 1765443142,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89452,
@@ -1835,6 +1867,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 88020,
+      "num": 193812,
+      "word": "东北户外洗浴惊现机器人技师",
+      "onboard_time": 1765440982,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 86664,
       "num": 103213,
       "word": "狙击蝴蝶剧组工作人员发文",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1765387516,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84113,
-      "num": 193812,
-      "word": "东北户外洗浴惊现机器人技师",
-      "onboard_time": 1765440982,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 81672,
@@ -2475,6 +2507,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 25733,
+      "num": 106725,
+      "word": "刘宇宁张峻豪cha了黄子弘凡新歌",
+      "onboard_time": 1765442241,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25719,
       "num": 30321,
       "word": "陈妍希训狗",
@@ -2507,6 +2547,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 24529,
+      "num": 107573,
+      "word": "距离郭芙蓉赎身还有不到1个月",
+      "onboard_time": 1765441762,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24357,
+      "num": 104212,
+      "word": "肖战说家是自己的避风港",
+      "onboard_time": 1765442961,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24170,
       "num": 196842,
       "word": "明年经济三大看点",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1765417824,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 19682,
-      "num": 106725,
-      "word": "刘宇宁张峻豪cha了黄子弘凡新歌",
-      "onboard_time": 1765442241,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 19398,
@@ -2569,14 +2617,6 @@
       "onboard_time": 1765371143,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15500,
-      "num": 107573,
-      "word": "距离郭芙蓉赎身还有不到1个月",
-      "onboard_time": 1765441762,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 13046,
