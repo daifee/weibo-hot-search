@@ -1,0 +1,410 @@
+{
+  "runTime": 1765453298245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 698156,
+        "num": 1111705,
+        "word": "鼓励支持灵活就业人员参加职工保险",
+        "onboard_time": 1765449201,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202459,
+        "num": 202459,
+        "word": "王楚钦说莎莎一直在顶点",
+        "onboard_time": 1765444580,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16544,
+        "num": 202230,
+        "word": "从五年规划看中国之治",
+        "onboard_time": 1765445241,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366012,
+        "num": 200805,
+        "word": "雪王卖早餐被吐槽有点贵",
+        "onboard_time": 1765443981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220244,
+        "num": 199999,
+        "word": "HLE对战T1",
+        "onboard_time": 1765446023,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323260,
+        "num": 199618,
+        "word": "微博之夜",
+        "onboard_time": 1765443561,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212083,
+        "num": 198724,
+        "word": "哈尔滨机场羽绒服洗2次不再出租",
+        "onboard_time": 1765441042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 197707,
+        "word": "林诗栋说调不回来了我知道的",
+        "onboard_time": 1765451481,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1137,
+        "num": 197250,
+        "word": "山海协同陆海联动绘就万里山河新画卷",
+        "onboard_time": 1765361480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 196175,
+        "word": "中央定调明年继续国补",
+        "onboard_time": 1765452141,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593151,
+        "num": 195213,
+        "word": "男子携致癌基因捐精17年",
+        "onboard_time": 1765436541,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 512603,
+        "num": 194257,
+        "word": "神隐还是播早了",
+        "onboard_time": 1765450761,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462594,
+        "num": 193356,
+        "word": "聚酯纤维 人心中的成见是一座大山",
+        "onboard_time": 1765443802,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 156234,
+        "num": 192512,
+        "word": "得闲谨制",
+        "onboard_time": 1765447221,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382115,
+        "num": 191713,
+        "word": "周也 豪门大小姐",
+        "onboard_time": 1765445120,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354094,
+        "num": 191320,
+        "word": "2025超话大赏",
+        "onboard_time": 1765429103,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312276,
+        "num": 189956,
+        "word": "李现 我不叫李现",
+        "onboard_time": 1765443202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189937,
+        "num": 189937,
+        "word": "原来分手真的是一个人的事",
+        "onboard_time": 1765433062,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187246,
+        "num": 187246,
+        "word": "蒯曼vs早田希娜",
+        "onboard_time": 1765452861,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 186981,
+        "word": "医院躺了2700多天的男子是植物人",
+        "onboard_time": 1765441521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100319,
+        "num": 186582,
+        "word": "赵樱子官宣小12岁男友",
+        "onboard_time": 1765445481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658074,
+        "num": 186219,
+        "word": "网友把何炅喝过的水保存了20年",
+        "onboard_time": 1765447221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36916,
+        "num": 185928,
+        "word": "商务部推动安世荷兰尽快派员来华",
+        "onboard_time": 1765451901,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412955,
+        "num": 185724,
+        "word": "国外捐精者被查出20%精子带致癌基因",
+        "onboard_time": 1765451061,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232939,
+        "num": 185362,
+        "word": "马国明父亲葬礼",
+        "onboard_time": 1765450462,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189998,
+        "num": 184843,
+        "word": "赵樱子男友神似酷滕",
+        "onboard_time": 1765451901,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184765,
+        "num": 184765,
+        "word": "王玉雯 这把冲刘亦菲来的",
+        "onboard_time": 1765451960,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87790,
+        "num": 143528,
+        "word": "我什么时候才能不管盛家那点事",
+        "onboard_time": 1765452980,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139532,
+        "num": 139532,
+        "word": "33岁苦练化妆2个月的变化",
+        "onboard_time": 1765445541,
+        "rank": 28,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 131726,
+        "num": 131726,
+        "word": "华为Mate80销量",
+        "onboard_time": 1765443083,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 130318,
+        "word": "一个LV狗窝可以买一套房",
+        "onboard_time": 1765434861,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128195,
+        "num": 128195,
+        "word": "王楚钦想看是否有混双竞争资格",
+        "onboard_time": 1765452141,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42251,
+        "num": 124800,
+        "word": "多国前政要给中国李华回感谢信",
+        "onboard_time": 1765453100,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124378,
+        "num": 124378,
+        "word": "林诗栋把王楚钦孙颖莎逗笑了",
+        "onboard_time": 1765452021,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122331,
+        "num": 122331,
+        "word": "章子怡高马尾造型",
+        "onboard_time": 1765453160,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120149,
+        "num": 120149,
+        "word": "痞幼恋综同款豪车全球仅300台",
+        "onboard_time": 1765446681,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115494,
+        "num": 115494,
+        "word": "iG官宣Soboro加入",
+        "onboard_time": 1765451600,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112961,
+        "num": 112961,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765448061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76750,
+        "num": 106373,
+        "word": "32岁宝妈连跑12小时网约车后中风",
+        "onboard_time": 1765452080,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66092,
+        "num": 105058,
+        "word": "胡一天 不要相信男人",
+        "onboard_time": 1765452861,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95707,
+        "num": 104437,
+        "word": "张真源口水差点流白鹿脸上",
+        "onboard_time": 1765451781,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104283,
+        "num": 104283,
+        "word": "微博之夜推荐",
+        "onboard_time": 1765443620,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32265,
+        "num": 103654,
+        "word": "女子毕业24年起诉母校多收4千学费",
+        "onboard_time": 1765451901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103260,
+        "num": 103260,
+        "word": "外交部回应高市最新言论",
+        "onboard_time": 1765448781,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101931,
+        "num": 101931,
+        "word": "李昀锐 130斤不行130斤胖了",
+        "onboard_time": 1765437380,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93838,
+        "num": 93838,
+        "word": "陈妍希说妹妹姐是什么意思",
+        "onboard_time": 1765448960,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89236,
+        "num": 89236,
+        "word": "整天私私私跟蛇一样",
+        "onboard_time": 1765450281,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147166,
+        "num": 89135,
+        "word": "张雪峰复播戴眼镜宣布和过去划清界限",
+        "onboard_time": 1765450340,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84784,
+        "num": 88893,
+        "word": "范曾继子公司近1个月销售额或超百万",
+        "onboard_time": 1765451661,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88738,
+        "num": 88738,
+        "word": "中方希望墨方及早纠正错误做法",
+        "onboard_time": 1765449021,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
