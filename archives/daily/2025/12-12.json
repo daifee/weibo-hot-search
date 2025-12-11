@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765481220150,
+  "endTime": 1765482093621,
   "band_list": [
     {
       "raw_hot": 490715,
@@ -523,20 +523,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17412,
+      "num": 39881,
+      "word": "WTT香港总决赛",
+      "onboard_time": 1765460062,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16972,
       "num": 28500,
       "word": "好一个乖乖女",
       "onboard_time": 1765465042,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16615,
-      "num": 34139,
-      "word": "WTT香港总决赛",
-      "onboard_time": 1765460062,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 16306,
@@ -548,11 +548,19 @@
     },
     {
       "raw_hot": 15934,
-      "num": 36147,
+      "num": 38546,
       "word": "四六级",
       "onboard_time": 1765460003,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13651,
+      "num": 22333,
+      "word": "邓为北京线下人气",
+      "onboard_time": 1765481774,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

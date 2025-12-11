@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765481220150,
+  "endTime": 1765482093621,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -38681,6 +38681,14 @@
       "onboard_time": 1765223835,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13651,
+      "num": 22333,
+      "word": "邓为北京线下人气",
+      "onboard_time": 1765481774,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 13582,
