@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765418793809,
+  "endTime": 1765420199660,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -176,6 +176,14 @@
       "word": "爱奇艺把刘诗诗的奖换成了白鹿",
       "onboard_time": 1765039280,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1482958,
+      "num": 254563,
+      "word": "经纪人曝痞幼恋综老头乐真相",
+      "onboard_time": 1765418180,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 679124,
-      "num": 232251,
+      "num": 247557,
       "word": "红学专家否定红楼梦悼明",
       "onboard_time": 1765414821,
       "rank": 5,
@@ -1177,14 +1185,6 @@
       "onboard_time": 1765339222,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 569835,
-      "num": 241465,
-      "word": "经纪人曝痞幼恋综老头乐真相",
-      "onboard_time": 1765418180,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 568246,
@@ -2163,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393503,
+      "num": 245250,
+      "word": "男子毒死9条宠物狗一审宣判",
+      "onboard_time": 1765415900,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 391831,
       "num": 319032,
       "word": "星光大赏割韭菜",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1765416080,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386989,
+      "num": 250834,
+      "word": "一无名男子在医院躺了7年半",
+      "onboard_time": 1765416861,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386547,
@@ -2457,6 +2473,14 @@
       "onboard_time": 1765265001,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353852,
+      "num": 162616,
+      "word": "陈赫给娄艺潇直播刷礼物",
+      "onboard_time": 1765418360,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 351216,
@@ -2859,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318733,
-      "num": 170563,
-      "word": "一无名男子在医院躺了7年半",
-      "onboard_time": 1765416861,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318520,
       "num": 280978,
       "word": "天地玄黄 宇宙洪荒",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1765086440,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305445,
-      "num": 169281,
-      "word": "男子毒死9条宠物狗一审宣判",
-      "onboard_time": 1765415900,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 305139,
@@ -3443,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259929,
+      "num": 259929,
+      "word": "LV高管加入泡泡玛特",
+      "onboard_time": 1765375882,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 259639,
       "num": 259639,
       "word": "王曼昱3比0胜张本美和",
@@ -3580,7 +3596,7 @@
     },
     {
       "raw_hot": 246705,
-      "num": 161358,
+      "num": 161658,
       "word": "历年的King和Queen",
       "onboard_time": 1765409659,
       "rank": 26,
@@ -3739,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236393,
+      "num": 162491,
+      "word": "papi妈妈",
+      "onboard_time": 1765419262,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236144,
       "num": 236144,
       "word": "领养剩下三只 可以和惠英红做亲戚",
@@ -3777,14 +3801,6 @@
       "onboard_time": 1765268843,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233846,
-      "num": 233846,
-      "word": "LV高管加入泡泡玛特",
-      "onboard_time": 1765375882,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 232754,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1765095320,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224363,
+      "num": 162170,
+      "word": "狙击蝴蝶 删减吻戏",
+      "onboard_time": 1765418840,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 223985,
@@ -4409,6 +4433,14 @@
       "onboard_time": 1765373903,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204668,
+      "num": 161735,
+      "word": "无汞玻璃体温计甩了100余次未成功",
+      "onboard_time": 1765418601,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204641,
@@ -5307,14 +5339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173974,
-      "num": 161112,
-      "word": "陈赫给娄艺潇直播刷礼物",
-      "onboard_time": 1765418360,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173684,
       "num": 194840,
       "word": "47岁刘烨减重17斤新剧状态",
@@ -5497,6 +5521,14 @@
       "onboard_time": 1765208541,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168506,
+      "num": 161522,
+      "word": "吴宣仪 我们是不是应该保持一些距离",
+      "onboard_time": 1765417824,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 168449,
@@ -5715,6 +5747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163489,
+      "num": 161414,
+      "word": "曝经纪公司压榨即将到期的顶流",
+      "onboard_time": 1765418419,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163358,
       "num": 199969,
       "word": "iG官宣Meiko续约",
@@ -5761,6 +5801,14 @@
       "onboard_time": 1765024041,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161377,
+      "num": 161377,
+      "word": "网红澳门CoCo姐多平台被封禁",
+      "onboard_time": 1765417941,
+      "rank": 26,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 161298,
@@ -5969,6 +6017,14 @@
       "onboard_time": 1765283841,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155381,
+      "num": 155381,
+      "word": "银价疯涨",
+      "onboard_time": 1765416861,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 155310,
@@ -6193,14 +6249,6 @@
       "onboard_time": 1765232055,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150809,
-      "num": 150809,
-      "word": "网红澳门CoCo姐多平台被封禁",
-      "onboard_time": 1765417941,
-      "rank": 26,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 150798,
@@ -6593,14 +6641,6 @@
       "onboard_time": 1765199121,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143080,
-      "num": 143080,
-      "word": "曝经纪公司压榨即将到期的顶流",
-      "onboard_time": 1765418419,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 142835,
@@ -7595,14 +7635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129194,
-      "num": 129194,
-      "word": "吴宣仪 我们是不是应该保持一些距离",
-      "onboard_time": 1765417824,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128828,
       "num": 128828,
       "word": "杨紫晒和piupiu合照",
@@ -8195,6 +8227,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 121587,
+      "num": 121587,
+      "word": "压力大生闷气的人患甲状腺癌机率更大",
+      "onboard_time": 1765415420,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121555,
       "num": 121555,
       "word": "陈晓新剧不语只一味登顶TOP1",
@@ -8611,14 +8651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117042,
-      "num": 117042,
-      "word": "银价疯涨",
-      "onboard_time": 1765416861,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 117021,
       "num": 117021,
       "word": "朱孝天希望相信音乐高抬贵手",
@@ -8697,6 +8729,14 @@
       "onboard_time": 1765167861,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115840,
+      "num": 115840,
+      "word": "金价",
+      "onboard_time": 1765420161,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 115586,
@@ -9147,6 +9187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "梅德福演员接到得闲谨制黑稿",
+      "onboard_time": 1765419500,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111757,
       "num": 148749,
       "word": "南昌警方通报伤医事件",
@@ -9339,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109344,
+      "num": 109344,
+      "word": "李昀锐 体态",
+      "onboard_time": 1765416501,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109258,
       "num": 109258,
       "word": "小猫也不能笑着走出理发店",
@@ -9465,6 +9521,14 @@
       "onboard_time": 1765263201,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108056,
+      "num": 106767,
+      "word": "李昀锐曾瘦到124斤",
+      "onboard_time": 1765419320,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108033,
@@ -10059,14 +10123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101321,
-      "num": 101321,
-      "word": "李昀锐 体态",
-      "onboard_time": 1765416501,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101279,
       "num": 101279,
       "word": "仇人过成这样我都会心疼",
@@ -10179,14 +10235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100145,
-      "num": 100145,
-      "word": "压力大生闷气的人患甲状腺癌机率更大",
-      "onboard_time": 1765415420,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100114,
       "num": 100114,
       "word": "暗星拍的王俊凯",
@@ -10209,14 +10257,6 @@
       "onboard_time": 1765170500,
       "rank": 29,
       "category": "国内时政,数码"
-    },
-    {
-      "raw_hot": 99862,
-      "num": 96953,
-      "word": "无汞玻璃体温计甩了100余次未成功",
-      "onboard_time": 1765418601,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99566,
@@ -10435,6 +10475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96228,
+      "num": 165381,
+      "word": "罢当选台湾2025年度代表字",
+      "onboard_time": 1765417879,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96208,
       "num": 96208,
       "word": "荷兰大臣称没想到中方真叫停芯片出口",
@@ -10600,6 +10648,14 @@
       "word": "谁教陈晓这样撒娇的",
       "onboard_time": 1765170623,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94114,
+      "num": 94114,
+      "word": "爱奇艺回复双轨播出时间",
+      "onboard_time": 1765420161,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -10979,6 +11035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90295,
+      "num": 90295,
+      "word": "王楚钦失控边缘找准方向",
+      "onboard_time": 1765420039,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90172,
       "num": 106640,
       "word": "RW对战TCG",
@@ -11001,6 +11065,14 @@
       "onboard_time": 1765196601,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89452,
+      "num": 114471,
+      "word": "男子毒杀儿女妻子再回应直播出轨",
+      "onboard_time": 1765419560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89443,
@@ -12067,6 +12139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66185,
+      "num": 162321,
+      "word": "日方被打脸后改口",
+      "onboard_time": 1765419380,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65666,
       "num": 368874,
       "word": "民政局副局长利用养老工作贪污1257万",
@@ -12348,7 +12428,7 @@
     },
     {
       "raw_hot": 60479,
-      "num": 245025,
+      "num": 259225,
       "word": "网警查处一起AI生成虚假低俗视频案",
       "onboard_time": 1765413682,
       "rank": 2,
@@ -12384,6 +12464,14 @@
       "word": "中国驻柬埔寨使馆发安全提醒",
       "onboard_time": 1765206445,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59006,
+      "num": 162249,
+      "word": "日本撒谎被锤",
+      "onboard_time": 1765419080,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -12763,6 +12851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51899,
+      "num": 113730,
+      "word": "水银体温计2元变20元抢空",
+      "onboard_time": 1765419320,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51639,
       "num": 51639,
       "word": "三只小狗出去玩捡了只小猫回来",
@@ -13064,6 +13160,14 @@
       "word": "鹤岗的房子正在悄悄涨价",
       "onboard_time": 1765275622,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47856,
+      "num": 112239,
+      "word": "护士被男友割喉杀害最新细节曝光",
+      "onboard_time": 1765419500,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -14643,14 +14747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21048,
-      "num": 165381,
-      "word": "罢当选台湾2025年度代表字",
-      "onboard_time": 1765417879,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21037,
       "num": 75564,
       "word": "用挖耳勺给厨师拍宣传片",
@@ -14769,6 +14865,14 @@
       "onboard_time": 1765176860,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19398,
+      "num": 162421,
+      "word": "男子毒杀子女案今日开庭",
+      "onboard_time": 1765419560,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19210,
@@ -14977,6 +15081,14 @@
       "onboard_time": 1765165639,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16049,
+      "num": 115508,
+      "word": "男子隐瞒妻子墓地岳父母苦寻4年",
+      "onboard_time": 1765419801,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16040,
