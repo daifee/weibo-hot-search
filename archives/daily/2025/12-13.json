@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765565688821,
+  "endTime": 1765567470357,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42996,
+      "num": 42325,
+      "word": "畸形吃播陈晨辰被封禁",
+      "onboard_time": 1765561635,
+      "rank": 22,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 35408,
       "num": 85384,
       "word": "刺杀小说家2",
@@ -473,14 +481,6 @@
       "onboard_time": 1765550005,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33067,
-      "num": 42325,
-      "word": "畸形吃播陈晨辰被封禁",
-      "onboard_time": 1765561635,
-      "rank": 22,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 30253,

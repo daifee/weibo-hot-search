@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/07 00:32:13 ~ 2025/12/13 02:54:48
+本榜单时间：2025/12/07 00:32:13 ~ 2025/12/13 03:24:30
 </p>
 </blockquote>
 <p>
@@ -14595,6 +14595,12 @@ Zeka三次单杀Faker（热度：47356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%B8%E5%BD%A2%E5%90%83%E6%92%AD%E9%99%88%E6%99%A8%E8%BE%B0%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
+畸形吃播陈晨辰被封禁（热度：42996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%A8%E6%9F%AF%E5%AE%87%E6%88%91%E6%83%B3%E8%A6%81%E5%8D%A0%E6%8D%AE%E4%BD%A0%23" target="weibo">
 陈妍希周柯宇我想要占据你（热度：42994）
 </a>
@@ -15191,12 +15197,6 @@ Gumayusi说能战胜T1（热度：40076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B5%B7%E5%86%9B%E5%B7%B2%E6%89%93%E6%8D%9E%E5%87%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%86%9B%E6%9C%BA%23" target="weibo">
 美海军已打捞出在南海坠毁军机（热度：33138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%B8%E5%BD%A2%E5%90%83%E6%92%AD%E9%99%88%E6%99%A8%E8%BE%B0%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
-畸形吃播陈晨辰被封禁（热度：33067）
 </a>
 </li>
 

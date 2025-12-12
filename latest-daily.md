@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/13 00:35:28 ~ 2025/12/13 02:54:48
+本榜单时间：2025/12/13 00:35:28 ~ 2025/12/13 03:24:30
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ AG超玩会vs上海RNG.M（热度：99257）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%B8%E5%BD%A2%E5%90%83%E6%92%AD%E9%99%88%E6%99%A8%E8%BE%B0%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
+畸形吃播陈晨辰被封禁（热度：42996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B62%23" target="weibo">
 刺杀小说家2（热度：35408）
 </a>
@@ -365,12 +371,6 @@ AG超玩会vs上海RNG.M（热度：99257）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23zwy%E7%9A%84bp%23" target="weibo">
 zwy的bp（热度：33265）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%B8%E5%BD%A2%E5%90%83%E6%92%AD%E9%99%88%E6%99%A8%E8%BE%B0%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
-畸形吃播陈晨辰被封禁（热度：33067）
 </a>
 </li>
 
