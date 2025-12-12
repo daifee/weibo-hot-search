@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765579474157,
+  "endTime": 1765582000538,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1765036764,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 714252,
+      "num": 851016,
+      "word": "成都地震",
+      "onboard_time": 1765580956,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 713009,
@@ -3443,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367690,
+      "num": 505098,
+      "word": "俄罗斯向日本发出警告",
+      "onboard_time": 1765554681,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 367022,
       "num": 367022,
       "word": "孙颖莎vs王艺迪",
@@ -3625,14 +3641,6 @@
       "onboard_time": 1765507099,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347994,
-      "num": 505098,
-      "word": "俄罗斯向日本发出警告",
-      "onboard_time": 1765554681,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347454,
@@ -7675,6 +7683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175458,
+      "num": 225446,
+      "word": "国家公祭日",
+      "onboard_time": 1765581617,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "把镜给无畏玩",
@@ -8139,6 +8155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167524,
+      "num": 163729,
+      "word": "陈伟霆 它咬了你我立马下班",
+      "onboard_time": 1765555161,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167390,
       "num": 167390,
       "word": "TF家族 五练呢",
@@ -8393,14 +8417,6 @@
       "onboard_time": 1765348640,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163729,
-      "num": 163729,
-      "word": "陈伟霆 它咬了你我立马下班",
-      "onboard_time": 1765555161,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 163686,
@@ -9113,6 +9129,14 @@
       "onboard_time": 1765446320,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151786,
+      "num": 151786,
+      "word": "小学生病逝同学以为是转学纷纷写信",
+      "onboard_time": 1765581737,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151486,
@@ -10499,6 +10523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136035,
+      "num": 73197,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135996,
       "num": 135996,
       "word": "湖南跨年晚会 全开麦",
@@ -10881,6 +10913,14 @@
       "onboard_time": 1765510339,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132394,
+      "num": 72668,
+      "word": "中国佛协回应放生大米行为",
+      "onboard_time": 1765576214,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132315,
@@ -12417,6 +12457,14 @@
       "onboard_time": 1765434321,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119526,
+      "num": 65949,
+      "word": "南京大屠杀",
+      "onboard_time": 1765581556,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119523,
@@ -16963,14 +17011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79892,
-      "num": 42651,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79753,
       "num": 113854,
       "word": "迪丽热巴 拉郎乱炖",
@@ -17368,6 +17408,14 @@
       "word": "32岁女子每天工作12小时突然中风",
       "onboard_time": 1765431621,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72430,
+      "num": 45528,
+      "word": "96年月嫂入行四年订单排到明年十月",
+      "onboard_time": 1765581197,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -18723,6 +18771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51415,
+      "num": 51415,
+      "word": "一念江南是一念关山的续作",
+      "onboard_time": 1765581857,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51406,
       "num": 75683,
       "word": "婴儿被褥印不雅英文",
@@ -18995,6 +19051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48466,
+      "num": 48466,
+      "word": "郭碧婷公开自己的婚后生活",
+      "onboard_time": 1765537161,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48443,
       "num": 93284,
       "word": "王一博大魔王年终结算画面",
@@ -19153,6 +19217,14 @@
       "onboard_time": 1765512623,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46235,
+      "num": 46235,
+      "word": "叶祖新一年后又来开场了",
+      "onboard_time": 1765581857,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 46112,
@@ -19452,7 +19524,7 @@
     },
     {
       "raw_hot": 42996,
-      "num": 42325,
+      "num": 44961,
       "word": "畸形吃播陈晨辰被封禁",
       "onboard_time": 1765561635,
       "rank": 22,
@@ -19704,6 +19776,14 @@
       "word": "辣椒面厂家称做食品12年从未遇此事",
       "onboard_time": 1765263801,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39887,
+      "num": 45444,
+      "word": "青岛下雪",
+      "onboard_time": 1765581978,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -19993,14 +20073,6 @@
       "onboard_time": 1765169541,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36319,
-      "num": 36319,
-      "word": "中国佛协回应放生大米行为",
-      "onboard_time": 1765576214,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35896,
@@ -20339,6 +20411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32363,
+      "num": 45201,
+      "word": "古早留子vs现代留子",
+      "onboard_time": 1765575554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32339,
       "num": 125438,
       "word": "章若楠骨架",
@@ -20545,6 +20625,14 @@
       "onboard_time": 1765197200,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30149,
+      "num": 45023,
+      "word": "金铲铲之战",
+      "onboard_time": 1765581556,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 30113,
@@ -20803,6 +20891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27010,
+      "num": 44731,
+      "word": "周柯宇说李雾头皮一松是自己加的",
+      "onboard_time": 1765570274,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26926,
       "num": 197082,
       "word": "为救患病孩子父母寒风中直播跳舞",
@@ -20841,6 +20937,14 @@
       "onboard_time": 1765429402,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26778,
+      "num": 44658,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 26662,
@@ -21019,14 +21123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25056,
-      "num": 34291,
-      "word": "古早留子vs现代留子",
-      "onboard_time": 1765575554,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25048,
       "num": 25332,
       "word": "冯提莫成立传媒公司",
@@ -21188,7 +21284,7 @@
     },
     {
       "raw_hot": 23385,
-      "num": 152018,
+      "num": 353433,
       "word": "中央经济工作会议要点学习笔记",
       "onboard_time": 1765530621,
       "rank": 32,
@@ -21321,14 +21417,6 @@
       "onboard_time": 1765246821,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21213,
-      "num": 34275,
-      "word": "iPhone拍照脸歪的问题解决了",
-      "onboard_time": 1765573694,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 21194,
@@ -21857,14 +21945,6 @@
       "onboard_time": 1765537821,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14938,
-      "num": 34215,
-      "word": "周柯宇说李雾头皮一松是自己加的",
-      "onboard_time": 1765570274,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 14811,
