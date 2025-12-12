@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765545092318,
+  "endTime": 1765546883794,
   "band_list": [
     {
       "raw_hot": 8983486,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1540033,
-      "num": 286752,
+      "num": 337728,
       "word": "云初令官宣虞书欣",
       "onboard_time": 1765542622,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1398422,
-      "num": 278117,
+      "num": 330420,
       "word": "一念江南",
       "onboard_time": 1765542863,
       "rank": 11,
@@ -75,12 +75,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1053558,
+      "num": 230050,
+      "word": "一念江南删除了虞书欣官宣博",
+      "onboard_time": 1765546464,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1020695,
       "num": 442814,
       "word": "张柏芝 我要生到不能生为止",
       "onboard_time": 1765515142,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 964267,
+      "num": 364170,
+      "word": "AG超玩会vs上海RNG.M",
+      "onboard_time": 1765538962,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 944624,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 609735,
-      "num": 332656,
+      "num": 351438,
       "word": "云初令官宣",
       "onboard_time": 1765541663,
       "rank": 5,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 464684,
-      "num": 320691,
+      "num": 358759,
       "word": "198斤新娘减肥70斤后要离婚",
       "onboard_time": 1765539741,
       "rank": 6,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 421383,
-      "num": 269280,
+      "num": 328980,
       "word": "双轨热度",
       "onboard_time": 1765542863,
       "rank": 13,
@@ -555,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366953,
+      "num": 366953,
+      "word": "王楚钦说被打1比11很正常",
+      "onboard_time": 1765543523,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358450,
       "num": 240092,
       "word": "陈妍希建议女性不要为了结婚而结婚",
@@ -587,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332691,
-      "num": 332691,
-      "word": "AG超玩会vs上海RNG.M",
-      "onboard_time": 1765538962,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 328106,
       "num": 328106,
       "word": "人大899元书记严选羽绒服卖断货",
       "onboard_time": 1765512321,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323275,
-      "num": 323275,
-      "word": "王楚钦说被打1比11很正常",
-      "onboard_time": 1765543523,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 320376,
@@ -729,6 +737,14 @@
       "onboard_time": 1765503860,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281657,
+      "num": 234744,
+      "word": "审判双轨",
+      "onboard_time": 1765545505,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 281315,
@@ -931,6 +947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231825,
+      "num": 231825,
+      "word": "疑注射3万一支失效药患儿母亲发声",
+      "onboard_time": 1765543403,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 231628,
+      "num": 231628,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229686,
       "num": 229686,
       "word": "张本智和庆祝动作致敬樊振东",
@@ -1003,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207261,
+      "num": 343707,
+      "word": "国考考到中央是什么难度",
+      "onboard_time": 1765541541,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205775,
       "num": 205775,
       "word": "孩子哭的那一刻去不去已经没意义了",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1765505601,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204732,
-      "num": 227551,
-      "word": "30厘米长老鼠爬到2岁孩子床上",
-      "onboard_time": 1765535001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204459,
@@ -1099,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196588,
+      "num": 196588,
+      "word": "现在的美甲店已经进化成这样了",
+      "onboard_time": 1765540281,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196291,
       "num": 293897,
       "word": "王楚钦回应3比2黄镇廷杜凯琹",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1765505299,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194846,
+      "num": 194846,
+      "word": "长安二十四计热度",
+      "onboard_time": 1765545565,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 194000,
@@ -1179,6 +1227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 187660,
+      "num": 231265,
+      "word": "菲律宾小孩哥对战AG",
+      "onboard_time": 1765542983,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187382,
       "num": 187382,
       "word": "黄朔 抽象",
@@ -1208,6 +1264,14 @@
       "word": "宁静扇了邵子恒一巴掌",
       "onboard_time": 1765514901,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184578,
+      "num": 184578,
+      "word": "陈伟霆范丞丞黄景瑜不在内娱混了吗",
+      "onboard_time": 1765546224,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1243,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181203,
-      "num": 181203,
-      "word": "现在的美甲店已经进化成这样了",
-      "onboard_time": 1765540281,
-      "rank": 26,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 180349,
       "num": 180349,
       "word": "陈星旭关注迪丽热巴",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1765527982,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174615,
-      "num": 303203,
-      "word": "国考考到中央是什么难度",
-      "onboard_time": 1765541541,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 173803,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1765514362,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167390,
+      "num": 167390,
+      "word": "TF家族 五练呢",
+      "onboard_time": 1765545505,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 166585,
@@ -1627,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "没有工作怎么交社保",
+      "onboard_time": 1765546165,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145059,
       "num": 145059,
       "word": "一家五口靠薅商场停车羊毛转卖获利",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1765510221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144923,
+      "num": 144923,
+      "word": "日本人嘲笑小泉进次郎",
+      "onboard_time": 1765546165,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144072,
@@ -1819,6 +1891,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "KPL",
+      "onboard_time": 1765540702,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134559,
+      "num": 134559,
+      "word": "日媒开始精神胜利了",
+      "onboard_time": 1765546104,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133905,
       "num": 133905,
       "word": "雷军回应小米上架准新车",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1765532423,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128713,
+      "num": 128713,
+      "word": "3万1支药剂疑失效后注射给患儿",
+      "onboard_time": 1765546104,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 127824,
@@ -2001,6 +2097,14 @@
       "onboard_time": 1765524920,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122137,
+      "num": 122137,
+      "word": "T1败决遭遇DK",
+      "onboard_time": 1765546285,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 121958,
@@ -2148,7 +2252,7 @@
     },
     {
       "raw_hot": 115573,
-      "num": 132882,
+      "num": 149406,
       "word": "一下雪怎么到处都是波司登",
       "onboard_time": 1765540161,
       "rank": 33,
@@ -2235,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113207,
+      "num": 113207,
+      "word": "小狗趴在床上看了一晚上的动画片",
+      "onboard_time": 1765546404,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113152,
       "num": 113152,
       "word": "惠英红回应和王一博陈都灵打包去花少",
@@ -2281,6 +2393,14 @@
       "onboard_time": 1765534222,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110667,
+      "num": 113205,
+      "word": "五竹睁开眼打得更猛了",
+      "onboard_time": 1765546285,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 109854,
@@ -2443,36 +2563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102083,
-      "num": 107209,
-      "word": "疑注射3万一支失效药患儿母亲发声",
-      "onboard_time": 1765543403,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 101862,
-      "num": 101862,
-      "word": "KPL",
-      "onboard_time": 1765540702,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101321,
       "num": 88379,
       "word": "杨紫一口气戴了五副墨镜",
       "onboard_time": 1765473857,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101303,
-      "num": 101303,
-      "word": "菲律宾小孩哥对战AG",
-      "onboard_time": 1765542983,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 100306,
@@ -2521,6 +2617,14 @@
       "onboard_time": 1765514242,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97760,
+      "num": 113185,
+      "word": "长安二十四计节奏",
+      "onboard_time": 1765546705,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 97492,
@@ -2617,6 +2721,14 @@
       "onboard_time": 1765542203,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89092,
+      "num": 113174,
+      "word": "原来抱树的好处这么多",
+      "onboard_time": 1765546643,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 88508,
@@ -2748,7 +2860,7 @@
     },
     {
       "raw_hot": 74675,
-      "num": 219850,
+      "num": 231064,
       "word": "这才是中国式安全感",
       "onboard_time": 1765544723,
       "rank": 19,
@@ -3563,6 +3675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23674,
+      "num": 157674,
+      "word": "八项重点任务这样干",
+      "onboard_time": 1765546104,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23385,
+      "num": 152018,
+      "word": "中央经济工作会议要点学习笔记",
+      "onboard_time": 1765530621,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22782,
       "num": 39109,
       "word": "奔跑吧天路篇",
@@ -3721,6 +3849,14 @@
       "onboard_time": 1765511901,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11332,
+      "num": 348390,
+      "word": "解读2025中央经济工作会议",
+      "onboard_time": 1765546584,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11040,

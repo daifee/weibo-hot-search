@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765545092318,
+  "endTime": 1765546883794,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1540033,
-      "num": 286752,
+      "num": 337728,
       "word": "云初令官宣虞书欣",
       "onboard_time": 1765542622,
       "rank": 10,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1398422,
-      "num": 278117,
+      "num": 330420,
       "word": "一念江南",
       "onboard_time": 1765542863,
       "rank": 11,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1053558,
+      "num": 230050,
+      "word": "一念江南删除了虞书欣官宣博",
+      "onboard_time": 1765546464,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1053429,
       "num": 322883,
       "word": "金晨把腿放到黄景瑜腿上",
@@ -577,6 +585,14 @@
       "onboard_time": 1765258102,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 964267,
+      "num": 364170,
+      "word": "AG超玩会vs上海RNG.M",
+      "onboard_time": 1765538962,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 963599,
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 609735,
-      "num": 332656,
+      "num": 351438,
       "word": "云初令官宣",
       "onboard_time": 1765541663,
       "rank": 5,
@@ -2340,7 +2356,7 @@
     },
     {
       "raw_hot": 464684,
-      "num": 320691,
+      "num": 358759,
       "word": "198斤新娘减肥70斤后要离婚",
       "onboard_time": 1765539741,
       "rank": 6,
@@ -2788,7 +2804,7 @@
     },
     {
       "raw_hot": 421383,
-      "num": 269280,
+      "num": 328980,
       "word": "双轨热度",
       "onboard_time": 1765542863,
       "rank": 13,
@@ -3355,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366953,
+      "num": 366953,
+      "word": "王楚钦说被打1比11很正常",
+      "onboard_time": 1765543523,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366709,
       "num": 239751,
       "word": "月薪15000一年存10w的真实生活",
@@ -3755,14 +3779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 332691,
-      "num": 332691,
-      "word": "AG超玩会vs上海RNG.M",
-      "onboard_time": 1765538962,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 332624,
       "num": 257958,
       "word": "外交官辟谣这是中国不是日本",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1765095141,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323275,
-      "num": 323275,
-      "word": "王楚钦说被打1比11很正常",
-      "onboard_time": 1765543523,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 323203,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1765238241,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281657,
+      "num": 234744,
+      "word": "审判双轨",
+      "onboard_time": 1765545505,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 281462,
@@ -5379,6 +5395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231825,
+      "num": 231825,
+      "word": "疑注射3万一支失效药患儿母亲发声",
+      "onboard_time": 1765543403,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 231628,
+      "num": 231628,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230851,
       "num": 230851,
       "word": "时代少年团星光大赏星光值第一",
@@ -5987,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207261,
+      "num": 343707,
+      "word": "国考考到中央是什么难度",
+      "onboard_time": 1765541541,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207254,
       "num": 472827,
       "word": "Chovy剃寸头了",
@@ -6137,14 +6177,6 @@
       "onboard_time": 1765407856,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204732,
-      "num": 227551,
-      "word": "30厘米长老鼠爬到2岁孩子床上",
-      "onboard_time": 1765535001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204719,
@@ -6579,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196588,
+      "num": 196588,
+      "word": "现在的美甲店已经进化成这样了",
+      "onboard_time": 1765540281,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196353,
       "num": 163945,
       "word": "张艺兴就这样闯入病娇赛道",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1765262483,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194846,
+      "num": 194846,
+      "word": "长安二十四计热度",
+      "onboard_time": 1765545565,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 194359,
@@ -6979,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187660,
+      "num": 231265,
+      "word": "菲律宾小孩哥对战AG",
+      "onboard_time": 1765542983,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187454,
       "num": 187454,
       "word": "特朗普要求高市早苗不要挑衅中国",
@@ -7105,6 +7161,14 @@
       "onboard_time": 1765465881,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184578,
+      "num": 184578,
+      "word": "陈伟霆范丞丞黄景瑜不在内娱混了吗",
+      "onboard_time": 1765546224,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 184472,
@@ -7257,14 +7321,6 @@
       "onboard_time": 1765423881,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181203,
-      "num": 181203,
-      "word": "现在的美甲店已经进化成这样了",
-      "onboard_time": 1765540281,
-      "rank": 26,
-      "category": "美妆"
     },
     {
       "raw_hot": 181184,
@@ -7473,14 +7529,6 @@
       "onboard_time": 1765167681,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174615,
-      "num": 303203,
-      "word": "国考考到中央是什么难度",
-      "onboard_time": 1765541541,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 174161,
@@ -7889,6 +7937,14 @@
       "onboard_time": 1765514362,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167390,
+      "num": 167390,
+      "word": "TF家族 五练呢",
+      "onboard_time": 1765545505,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 167352,
@@ -9259,6 +9315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "没有工作怎么交社保",
+      "onboard_time": 1765546165,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145644,
       "num": 145644,
       "word": "仙逆",
@@ -9337,6 +9401,14 @@
       "onboard_time": 1765440562,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144923,
+      "num": 144923,
+      "word": "日本人嘲笑小泉进次郎",
+      "onboard_time": 1765546165,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144906,
@@ -10275,6 +10347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "KPL",
+      "onboard_time": 1765150339,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134985,
       "num": 134985,
       "word": "papi妈辞职维权的1000多天",
@@ -10329,6 +10409,14 @@
       "onboard_time": 1765408278,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134559,
+      "num": 134559,
+      "word": "日媒开始精神胜利了",
+      "onboard_time": 1765546104,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134533,
@@ -10897,6 +10985,14 @@
       "onboard_time": 1765077261,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128713,
+      "num": 128713,
+      "word": "3万1支药剂疑失效后注射给患儿",
+      "onboard_time": 1765546104,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 128692,
@@ -11673,6 +11769,14 @@
       "onboard_time": 1765080320,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122137,
+      "num": 122137,
+      "word": "T1败决遭遇DK",
+      "onboard_time": 1765546285,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 121863,
@@ -12484,7 +12588,7 @@
     },
     {
       "raw_hot": 115573,
-      "num": 132882,
+      "num": 149406,
       "word": "一下雪怎么到处都是波司登",
       "onboard_time": 1765540161,
       "rank": 33,
@@ -12875,6 +12979,14 @@
       "category": "民生新闻,时尚"
     },
     {
+      "raw_hot": 113207,
+      "num": 113207,
+      "word": "小狗趴在床上看了一晚上的动画片",
+      "onboard_time": 1765546404,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113152,
       "num": 113152,
       "word": "惠英红回应和王一博陈都灵打包去花少",
@@ -13233,6 +13345,14 @@
       "onboard_time": 1765534222,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110667,
+      "num": 113205,
+      "word": "五竹睁开眼打得更猛了",
+      "onboard_time": 1765546285,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 110656,
@@ -14323,14 +14443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102083,
-      "num": 107209,
-      "word": "疑注射3万一支失效药患儿母亲发声",
-      "onboard_time": 1765543403,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 102048,
       "num": 121892,
       "word": "那英说歌坛很需要活人",
@@ -14352,14 +14464,6 @@
       "word": "RNG最后一个选手也离队了",
       "onboard_time": 1765448122,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 101862,
-      "num": 101862,
-      "word": "KPL",
-      "onboard_time": 1765150339,
-      "rank": 31,
       "category": "电竞"
     },
     {
@@ -14457,14 +14561,6 @@
       "onboard_time": 1765473857,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101303,
-      "num": 101303,
-      "word": "菲律宾小孩哥对战AG",
-      "onboard_time": 1765542983,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 101279,
@@ -14873,6 +14969,14 @@
       "onboard_time": 1765456582,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 97760,
+      "num": 113185,
+      "word": "长安二十四计节奏",
+      "onboard_time": 1765546705,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 97492,
@@ -15851,6 +15955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89092,
+      "num": 113174,
+      "word": "原来抱树的好处这么多",
+      "onboard_time": 1765546643,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 88976,
       "num": 166033,
       "word": "女子为爱犬追凶已坚持1000多天",
@@ -16740,7 +16852,7 @@
     },
     {
       "raw_hot": 74675,
-      "num": 219850,
+      "num": 231064,
       "word": "这才是中国式安全感",
       "onboard_time": 1765544723,
       "rank": 19,
@@ -20531,11 +20643,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23674,
+      "num": 157674,
+      "word": "八项重点任务这样干",
+      "onboard_time": 1765546104,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23632,
       "num": 341662,
       "word": "2025大家说宪法",
       "onboard_time": 1765100445,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23385,
+      "num": 152018,
+      "word": "中央经济工作会议要点学习笔记",
+      "onboard_time": 1765530621,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -21329,6 +21457,14 @@
       "onboard_time": 1765511901,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11332,
+      "num": 348390,
+      "word": "解读2025中央经济工作会议",
+      "onboard_time": 1765546584,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11207,
