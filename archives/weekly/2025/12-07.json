@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765532818418,
+  "endTime": 1765535547672,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1765116684,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 656774,
+      "num": 379374,
+      "word": "成毅天地剑心降级",
+      "onboard_time": 1765532061,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 653894,
@@ -3083,14 +3091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 379374,
-      "num": 379374,
-      "word": "成毅天地剑心降级",
-      "onboard_time": 1765532061,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378306,
       "num": 415007,
       "word": "七个偶像练习生在综艺里吵起来了",
@@ -3419,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346573,
+      "num": 276112,
+      "word": "跑男后期把敖瑞鹏小号翻遍了",
+      "onboard_time": 1765533501,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346110,
       "num": 346110,
       "word": "12306称没明确要求水果售卖前必须清洗",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1765081340,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 334856,
+      "num": 290761,
+      "word": "药品说明书1粒米能挡6个字",
+      "onboard_time": 1765530382,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333946,
@@ -4187,14 +4203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289154,
-      "num": 289154,
-      "word": "药品说明书1粒米能挡6个字",
-      "onboard_time": 1765530382,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288936,
       "num": 238145,
       "word": "再见爱人这一期好好哭",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1765115482,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 274993,
+      "num": 274993,
+      "word": "小米公司辟谣不让卖小米",
+      "onboard_time": 1765531462,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 274289,
@@ -5163,6 +5179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233705,
+      "num": 233705,
+      "word": "声生不息碧昂丝",
+      "onboard_time": 1765534043,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232754,
       "num": 426851,
       "word": "王俊凯话剧",
@@ -5723,14 +5747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209236,
-      "num": 209236,
-      "word": "小米公司辟谣不让卖小米",
-      "onboard_time": 1765531462,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 208670,
       "num": 195107,
       "word": "新音 重庆",
@@ -6256,6 +6272,14 @@
       "word": "孙颖莎王楚钦球员城市照",
       "onboard_time": 1765205243,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198875,
+      "num": 198875,
+      "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+      "onboard_time": 1765535062,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -7987,6 +8011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161791,
+      "num": 161791,
+      "word": "成毅新剧大雪定律冲出横店",
+      "onboard_time": 1765534941,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161516,
       "num": 161516,
       "word": "明日方舟终末地",
@@ -8137,6 +8169,14 @@
       "onboard_time": 1765103480,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158432,
+      "num": 158432,
+      "word": "以前的发型审美",
+      "onboard_time": 1765534461,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 158090,
@@ -8313,6 +8353,14 @@
       "onboard_time": 1765237700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155024,
+      "num": 161892,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155023,
@@ -8867,6 +8915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "不同年代的发型变化",
+      "onboard_time": 1765534101,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146575,
       "num": 146575,
       "word": "水银体温计将禁产药店发声",
@@ -9091,6 +9147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144072,
+      "num": 280991,
+      "word": "FPX.ZQ战胜成都GG",
+      "onboard_time": 1765533381,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143940,
       "num": 239177,
       "word": "淘宝闪购为幸运老友送全年免单",
@@ -9307,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141133,
+      "num": 141133,
+      "word": "网易暴雪",
+      "onboard_time": 1765533742,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141110,
       "num": 141110,
       "word": "长期不吃早餐有什么影响",
@@ -9457,6 +9529,14 @@
       "onboard_time": 1765251442,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139904,
+      "num": 139904,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 139868,
@@ -10683,6 +10763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127511,
+      "num": 127511,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 127356,
       "num": 127356,
       "word": "得闲谨制 笑点和道德反复打架",
@@ -10857,6 +10945,14 @@
       "onboard_time": 1765442360,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125901,
+      "num": 125901,
+      "word": "俄已向日本发出警告",
+      "onboard_time": 1765535121,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125722,
@@ -12339,6 +12435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113455,
+      "num": 280271,
+      "word": "解放军正告菲方停止侵权挑衅",
+      "onboard_time": 1765532423,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113443,
       "num": 113443,
       "word": "德国外长访华前表态",
@@ -12521,6 +12625,14 @@
       "onboard_time": 1765287083,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112374,
+      "num": 112374,
+      "word": "早田希娜含泪回应输给蒯曼",
+      "onboard_time": 1765535423,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112370,
@@ -12737,6 +12849,14 @@
       "onboard_time": 1765106602,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110673,
+      "num": 235894,
+      "word": "鸣潮",
+      "onboard_time": 1765534222,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 110656,
@@ -16187,6 +16307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72811,
+      "num": 126532,
+      "word": "Lululemon卫衣 囚服",
+      "onboard_time": 1765535423,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72517,
       "num": 123213,
       "word": "32岁女子每天工作12小时突然中风",
@@ -16369,6 +16497,14 @@
       "onboard_time": 1765347623,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69299,
+      "num": 126108,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 69190,
@@ -17273,6 +17409,14 @@
       "onboard_time": 1765373422,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54537,
+      "num": 222714,
+      "word": "广告不得利用减小字号等进行补充说明",
+      "onboard_time": 1765534642,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54436,
@@ -18267,6 +18411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42278,
+      "num": 452676,
+      "word": "我国大型无人机技术新突破",
+      "onboard_time": 1765531283,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42197,
+      "num": 110257,
+      "word": "女子埃及旅游被骗子气哭",
+      "onboard_time": 1765535482,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42169,
       "num": 167836,
       "word": "安徽一政务清单被指照搬人名库",
@@ -18305,14 +18465,6 @@
       "onboard_time": 1765197022,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41503,
-      "num": 452676,
-      "word": "我国大型无人机技术新突破",
-      "onboard_time": 1765531283,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41358,
@@ -19899,6 +20051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22626,
+      "num": 113962,
+      "word": "商户挂火焰LED屏引消防车救援",
+      "onboard_time": 1765534222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22599,
       "num": 92982,
       "word": "灵活高效运用降准降息等工具",
@@ -19953,6 +20113,14 @@
       "onboard_time": 1765246821,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21248,
+      "num": 228683,
+      "word": "中俄联合巡航把琉球包了饺子",
+      "onboard_time": 1765534701,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21194,
@@ -20017,6 +20185,14 @@
       "onboard_time": 1765337361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20561,
+      "num": 279356,
+      "word": "卫星互联网低轨16组卫星发射成功",
+      "onboard_time": 1765530982,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20556,
@@ -20105,14 +20281,6 @@
       "onboard_time": 1765130116,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19669,
-      "num": 104611,
-      "word": "卫星互联网低轨16组卫星发射成功",
-      "onboard_time": 1765530982,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19486,

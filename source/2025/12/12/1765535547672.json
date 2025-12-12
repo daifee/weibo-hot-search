@@ -1,0 +1,410 @@
+{
+  "runTime": 1765535547672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 697464,
+        "num": 1111594,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332953,
+        "num": 332953,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3160,
+        "num": 296295,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334856,
+        "num": 290761,
+        "word": "药品说明书1粒米能挡6个字",
+        "onboard_time": 1765530382,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281872,
+        "num": 281872,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 656774,
+        "num": 281372,
+        "word": "成毅天地剑心降级",
+        "onboard_time": 1765532061,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144072,
+        "num": 280991,
+        "word": "FPX.ZQ战胜成都GG",
+        "onboard_time": 1765533381,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113455,
+        "num": 280271,
+        "word": "解放军正告菲方停止侵权挑衅",
+        "onboard_time": 1765532423,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20561,
+        "num": 279356,
+        "word": "卫星互联网低轨16组卫星发射成功",
+        "onboard_time": 1765530982,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 278743,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 860675,
+        "num": 278134,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549865,
+        "num": 277231,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530728,
+        "num": 276834,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346573,
+        "num": 276112,
+        "word": "跑男后期把敖瑞鹏小号翻遍了",
+        "onboard_time": 1765533501,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318782,
+        "num": 275109,
+        "word": "任素汐 任宥纶",
+        "onboard_time": 1765527680,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274993,
+        "num": 274993,
+        "word": "小米公司辟谣不让卖小米",
+        "onboard_time": 1765531462,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110673,
+        "num": 235894,
+        "word": "鸣潮",
+        "onboard_time": 1765534222,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233705,
+        "num": 233705,
+        "word": "声生不息碧昂丝",
+        "onboard_time": 1765534043,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21248,
+        "num": 228683,
+        "word": "中俄联合巡航把琉球包了饺子",
+        "onboard_time": 1765534701,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54537,
+        "num": 222714,
+        "word": "广告不得利用减小字号等进行补充说明",
+        "onboard_time": 1765534642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442450,
+        "num": 219470,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329778,
+        "num": 214243,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320350,
+        "num": 209970,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301787,
+        "num": 201396,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198875,
+        "num": 198875,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1765535062,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221029,
+        "num": 194129,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188117,
+        "num": 188117,
+        "word": "爱用26键的人有福了",
+        "onboard_time": 1765525701,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162533,
+        "num": 162533,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 162066,
+        "word": "日本仍有人公然说南京大屠杀是造谣",
+        "onboard_time": 1765526722,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155024,
+        "num": 161892,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161791,
+        "num": 161791,
+        "word": "成毅新剧大雪定律冲出横店",
+        "onboard_time": 1765534941,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158432,
+        "num": 158432,
+        "word": "以前的发型审美",
+        "onboard_time": 1765534461,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146849,
+        "num": 146849,
+        "word": "不同年代的发型变化",
+        "onboard_time": 1765534101,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141133,
+        "num": 141133,
+        "word": "网易暴雪",
+        "onboard_time": 1765533742,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139904,
+        "num": 139904,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133125,
+        "num": 133125,
+        "word": "周也在北京光腿穿裙子",
+        "onboard_time": 1765526542,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127511,
+        "num": 127511,
+        "word": "官方通报2岁男童输液后死亡",
+        "onboard_time": 1765535180,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72811,
+        "num": 126532,
+        "word": "Lululemon卫衣 囚服",
+        "onboard_time": 1765535423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69299,
+        "num": 126108,
+        "word": "刘亦菲朱亚文大学合照",
+        "onboard_time": 1765534881,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42278,
+        "num": 125906,
+        "word": "我国大型无人机技术新突破",
+        "onboard_time": 1765531283,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 125901,
+        "word": "俄已向日本发出警告",
+        "onboard_time": 1765535121,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22626,
+        "num": 113962,
+        "word": "商户挂火焰LED屏引消防车救援",
+        "onboard_time": 1765534222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112374,
+        "num": 112374,
+        "word": "早田希娜含泪回应输给蒯曼",
+        "onboard_time": 1765535423,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42197,
+        "num": 110257,
+        "word": "女子埃及旅游被骗子气哭",
+        "onboard_time": 1765535482,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108678,
+        "num": 108678,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106837,
+        "num": 106837,
+        "word": "胡先煦是沈腾迪丽热巴的水印吧",
+        "onboard_time": 1765527801,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106246,
+        "num": 106246,
+        "word": "痞幼9年前旧照",
+        "onboard_time": 1765523962,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103664,
+        "num": 103664,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101626,
+        "num": 101626,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}

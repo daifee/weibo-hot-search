@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765532818418,
+  "endTime": 1765535547672,
   "band_list": [
     {
       "raw_hot": 2027944,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656774,
+      "num": 379374,
+      "word": "成毅天地剑心降级",
+      "onboard_time": 1765532061,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598855,
       "num": 553338,
       "word": "epic 免费游戏",
@@ -153,6 +161,14 @@
       "onboard_time": 1765521441,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549865,
+      "num": 372954,
+      "word": "双轨",
+      "onboard_time": 1765531523,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 549259,
@@ -209,14 +225,6 @@
       "onboard_time": 1765507280,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477205,
-      "num": 372954,
-      "word": "双轨",
-      "onboard_time": 1765531523,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 468303,
@@ -387,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 379374,
-      "num": 379374,
-      "word": "成毅天地剑心降级",
-      "onboard_time": 1765532061,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377326,
       "num": 377326,
       "word": "腾讯视频星光大赏",
@@ -448,6 +448,22 @@
       "word": "灌面汤案丈夫取得被害人亲属谅解",
       "onboard_time": 1765507099,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346573,
+      "num": 276112,
+      "word": "跑男后期把敖瑞鹏小号翻遍了",
+      "onboard_time": 1765533501,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334856,
+      "num": 290761,
+      "word": "药品说明书1粒米能挡6个字",
+      "onboard_time": 1765530382,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289154,
-      "num": 289154,
-      "word": "药品说明书1粒米能挡6个字",
-      "onboard_time": 1765530382,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284748,
       "num": 284748,
       "word": "周也在北京光腿穿裙子",
@@ -585,6 +593,14 @@
       "onboard_time": 1765509381,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274993,
+      "num": 274993,
+      "word": "小米公司辟谣不让卖小米",
+      "onboard_time": 1765531462,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 274289,
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233705,
+      "num": 233705,
+      "word": "声生不息碧昂丝",
+      "onboard_time": 1765534043,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231928,
       "num": 203537,
       "word": "R1SE官博发了12个闪电",
@@ -793,14 +817,6 @@
       "onboard_time": 1765468880,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209236,
-      "num": 209236,
-      "word": "小米公司辟谣不让卖小米",
-      "onboard_time": 1765531462,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 208887,
@@ -864,6 +880,14 @@
       "word": "王楚钦晋级香港总决赛四强",
       "onboard_time": 1765519881,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198875,
+      "num": 198875,
+      "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+      "onboard_time": 1765535062,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1195,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161791,
+      "num": 161791,
+      "word": "成毅新剧大雪定律冲出横店",
+      "onboard_time": 1765534941,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161516,
       "num": 161516,
       "word": "明日方舟终末地",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1765532302,
       "rank": 32,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 158432,
+      "num": 158432,
+      "word": "以前的发型审美",
+      "onboard_time": 1765534461,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 157433,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1765467321,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155024,
+      "num": 161892,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154379,
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "不同年代的发型变化",
+      "onboard_time": 1765534101,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146464,
       "num": 146464,
       "word": "影之刃",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1765510221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144072,
+      "num": 280991,
+      "word": "FPX.ZQ战胜成都GG",
+      "onboard_time": 1765533381,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 143940,
@@ -1363,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141133,
+      "num": 141133,
+      "word": "网易暴雪",
+      "onboard_time": 1765533742,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141011,
       "num": 141011,
       "word": "白鹿杨紫田曦薇25年度扛剧花",
@@ -1384,6 +1456,14 @@
       "word": "苏新皓穿个拖鞋就出来给粉丝拍雪了",
       "onboard_time": 1765532481,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139904,
+      "num": 139904,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1531,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127511,
+      "num": 127511,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 127331,
       "num": 127331,
       "word": "刘嘉玲从来没洗过菜",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1765510820,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125901,
+      "num": 125901,
+      "word": "俄已向日本发出警告",
+      "onboard_time": 1765535121,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125709,
@@ -1755,12 +1851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113455,
+      "num": 280271,
+      "word": "解放军正告菲方停止侵权挑衅",
+      "onboard_time": 1765532423,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113152,
       "num": 113152,
       "word": "惠英红回应和王一博陈都灵打包去花少",
       "onboard_time": 1765521501,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112374,
+      "num": 112374,
+      "word": "早田希娜含泪回应输给蒯曼",
+      "onboard_time": 1765535423,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110954,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1765528281,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110673,
+      "num": 235894,
+      "word": "鸣潮",
+      "onboard_time": 1765534222,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 109854,
@@ -2131,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72811,
+      "num": 126532,
+      "word": "Lululemon卫衣 囚服",
+      "onboard_time": 1765535423,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72161,
       "num": 72161,
       "word": "盲老太街头求带路被拒后竟能看手机",
@@ -2185,6 +2313,14 @@
       "onboard_time": 1765500801,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69299,
+      "num": 126108,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 68195,
@@ -2403,6 +2539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 54537,
+      "num": 222714,
+      "word": "广告不得利用减小字号等进行补充说明",
+      "onboard_time": 1765534642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53997,
       "num": 54000,
       "word": "SK发博",
@@ -2587,12 +2731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41503,
+      "raw_hot": 42278,
       "num": 452676,
       "word": "我国大型无人机技术新突破",
       "onboard_time": 1765531283,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42197,
+      "num": 110257,
+      "word": "女子埃及旅游被骗子气哭",
+      "onboard_time": 1765535482,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41263,
@@ -2851,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22626,
+      "num": 113962,
+      "word": "商户挂火焰LED屏引消防车救援",
+      "onboard_time": 1765534222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22361,
       "num": 276709,
       "word": "2025最后20天",
@@ -2875,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21248,
+      "num": 228683,
+      "word": "中俄联合巡航把琉球包了饺子",
+      "onboard_time": 1765534701,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21194,
       "num": 181846,
       "word": "中央明确明年优化药品集中采购",
@@ -2891,8 +3059,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19669,
-      "num": 104611,
+      "raw_hot": 20561,
+      "num": 279356,
       "word": "卫星互联网低轨16组卫星发射成功",
       "onboard_time": 1765530982,
       "rank": 47,
