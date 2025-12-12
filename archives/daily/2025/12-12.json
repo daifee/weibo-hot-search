@@ -1,7 +1,15 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765539727967,
+  "endTime": 1765544273996,
   "band_list": [
+    {
+      "raw_hot": 8983486,
+      "num": 8983486,
+      "word": "双轨空降",
+      "onboard_time": 1765539202,
+      "rank": 12,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2027944,
       "num": 834269,
@@ -19,20 +27,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1656839,
-      "num": 204326,
-      "word": "双轨空降",
-      "onboard_time": 1765539202,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1551235,
       "num": 1460304,
       "word": "Lululemon卫衣 囚服",
       "onboard_time": 1765535423,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1540033,
+      "num": 286752,
+      "word": "云初令官宣虞书欣",
+      "onboard_time": 1765542622,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1398422,
+      "num": 278117,
+      "word": "一念江南",
+      "onboard_time": 1765542863,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1314495,
@@ -89,6 +105,14 @@
       "onboard_time": 1765504460,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875417,
+      "num": 261350,
+      "word": "虞书欣演技",
+      "onboard_time": 1765542443,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 824680,
@@ -169,6 +193,14 @@
       "onboard_time": 1765536321,
       "rank": 27,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 609735,
+      "num": 332656,
+      "word": "云初令官宣",
+      "onboard_time": 1765541663,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 598855,
@@ -267,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 464684,
+      "num": 320691,
+      "word": "198斤新娘减肥70斤后要离婚",
+      "onboard_time": 1765539741,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462893,
       "num": 1072703,
       "word": "均价500元的手机壳被疯抢",
@@ -355,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421383,
+      "num": 269280,
+      "word": "双轨热度",
+      "onboard_time": 1765542863,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418377,
       "num": 418377,
       "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
       "onboard_time": 1765535062,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417437,
+      "num": 264427,
+      "word": "云初令",
+      "onboard_time": 1765542683,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 415476,
@@ -379,6 +435,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 411661,
+      "num": 244250,
+      "word": "双轨云包场",
+      "onboard_time": 1765540761,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411531,
       "num": 258670,
       "word": "刘嘉玲吐槽张柏芝没男友就想生娃",
@@ -388,7 +452,7 @@
     },
     {
       "raw_hot": 404806,
-      "num": 236310,
+      "num": 307541,
       "word": "官方通报2岁男童输液后死亡",
       "onboard_time": 1765535180,
       "rank": 37,
@@ -523,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332691,
+      "num": 332691,
+      "word": "AG超玩会vs上海RNG.M",
+      "onboard_time": 1765538962,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328106,
       "num": 328106,
       "word": "人大899元书记严选羽绒服卖断货",
@@ -585,14 +657,6 @@
       "onboard_time": 1765525641,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 305598,
-      "num": 204128,
-      "word": "AG超玩会vs上海RNG.M",
-      "onboard_time": 1765538962,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 304783,
@@ -683,6 +747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 273412,
+      "num": 273412,
+      "word": "王楚钦说被打1比11很正常",
+      "onboard_time": 1765543523,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267396,
       "num": 207304,
       "word": "不齐舞团创始人37岁舞龄20年",
@@ -747,6 +819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 254807,
+      "num": 254807,
+      "word": "王一博的舌苔",
+      "onboard_time": 1765538721,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248160,
       "num": 236602,
       "word": "肖战莫得闲的故事会被所有人看到",
@@ -793,6 +873,14 @@
       "onboard_time": 1765527801,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241041,
+      "num": 241041,
+      "word": "保剑锋",
+      "onboard_time": 1765539501,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 240531,
@@ -931,8 +1019,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204900,
+      "num": 189765,
+      "word": "长安二十四计",
+      "onboard_time": 1765505601,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204732,
-      "num": 204205,
+      "num": 227551,
       "word": "30厘米长老鼠爬到2岁孩子床上",
       "onboard_time": 1765535001,
       "rank": 29,
@@ -971,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201031,
-      "num": 201031,
-      "word": "王一博的舌苔",
-      "onboard_time": 1765538721,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199158,
       "num": 285057,
       "word": "王楚钦晋级香港总决赛四强",
@@ -1012,7 +1100,7 @@
     },
     {
       "raw_hot": 196291,
-      "num": 203839,
+      "num": 293897,
       "word": "王楚钦回应3比2黄镇廷杜凯琹",
       "onboard_time": 1765538421,
       "rank": 9,
@@ -1083,14 +1171,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 189765,
-      "num": 189765,
-      "word": "长安二十四计",
-      "onboard_time": 1765505601,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188265,
       "num": 188265,
       "word": "龙族第二季大结局",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1765517721,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186868,
+      "num": 245700,
+      "word": "WBG首轮失利",
+      "onboard_time": 1765543943,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 186834,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1765513523,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181203,
+      "num": 181203,
+      "word": "现在的美甲店已经进化成这样了",
+      "onboard_time": 1765540281,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 180349,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1765514841,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169925,
+      "num": 219382,
+      "word": "Hero晋级赛排名第一",
+      "onboard_time": 1765544064,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 169811,
@@ -1603,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140279,
+      "num": 303203,
+      "word": "国考考到中央是什么难度",
+      "onboard_time": 1765541541,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140216,
       "num": 140216,
       "word": "苏新皓穿个拖鞋就出来给粉丝拍雪了",
@@ -1827,6 +1939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124620,
+      "num": 124620,
+      "word": "中足联颁奖典礼",
+      "onboard_time": 1765544064,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124491,
+      "num": 124491,
+      "word": "蒯曼vs大藤沙月",
+      "onboard_time": 1765542082,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123882,
       "num": 123882,
       "word": "狙击蝴蝶 禁止姐姐弃养小狗",
@@ -1881,6 +2009,14 @@
       "onboard_time": 1765531823,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "2025国剧盛典阵容官宣",
+      "onboard_time": 1765542383,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 120932,
@@ -1947,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117465,
+      "num": 117465,
+      "word": "长安二十四计 第一计",
+      "onboard_time": 1765540102,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117376,
       "num": 128154,
       "word": "二次元也是让Suk闯进去了",
@@ -1995,12 +2139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114919,
-      "num": 114919,
-      "word": "保剑锋",
-      "onboard_time": 1765539501,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 114929,
+      "num": 105948,
+      "word": "蒯曼16比14大藤沙月",
+      "onboard_time": 1765544183,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 114670,
@@ -2171,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108118,
+      "num": 119051,
+      "word": "一下雪怎么到处都是波司登",
+      "onboard_time": 1765540161,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107703,
       "num": 107703,
       "word": "如何一个月瘦12斤",
@@ -2201,6 +2353,14 @@
       "onboard_time": 1765536802,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105620,
+      "num": 105620,
+      "word": "快递站旁大量幼犬幼猫被弃部分死亡",
+      "onboard_time": 1765540821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105547,
@@ -2259,12 +2419,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101862,
+      "num": 101862,
+      "word": "KPL",
+      "onboard_time": 1765540702,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101321,
       "num": 88379,
       "word": "杨紫一口气戴了五副墨镜",
       "onboard_time": 1765473857,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101303,
+      "num": 101303,
+      "word": "菲律宾小孩哥对战AG",
+      "onboard_time": 1765542983,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 100306,
@@ -2395,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90018,
+      "num": 101082,
+      "word": "云旗直播",
+      "onboard_time": 1765542203,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88508,
       "num": 76786,
       "word": "余少群揭露娱乐圈真相",
@@ -2481,6 +2665,14 @@
       "onboard_time": 1765495937,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75621,
+      "num": 124511,
+      "word": "普通人怎么拍出田曦薇百万运镜",
+      "onboard_time": 1765539741,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 75469,
@@ -2585,6 +2777,14 @@
       "onboard_time": 1765500801,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68222,
+      "num": 205999,
+      "word": "中方提3个绝不允许",
+      "onboard_time": 1765542863,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68195,
@@ -2707,6 +2907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 60002,
+      "num": 100674,
+      "word": "中国海警对菲船只采取必要管控",
+      "onboard_time": 1765542383,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59903,
       "num": 59903,
       "word": "刘耀文差点断更",
@@ -2777,6 +2985,14 @@
       "onboard_time": 1765464862,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56183,
+      "num": 106141,
+      "word": "黄子弘凡丁程鑫 次元壁破了",
+      "onboard_time": 1765542983,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 56146,
@@ -2921,6 +3137,14 @@
       "onboard_time": 1765471278,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47226,
+      "num": 107209,
+      "word": "疑注射3万一支失效药患儿母亲发声",
+      "onboard_time": 1765543403,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 47203,
@@ -3089,6 +3313,14 @@
       "onboard_time": 1765517841,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34406,
+      "num": 108217,
+      "word": "36岁男子第14次考研",
+      "onboard_time": 1765543403,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33949,
@@ -3328,6 +3560,14 @@
       "word": "这些大国重器震撼人心",
       "onboard_time": 1765460752,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20155,
+      "num": 110691,
+      "word": "大学生自述沉迷音乐剧借8万网贷",
+      "onboard_time": 1765544183,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

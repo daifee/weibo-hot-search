@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765539727967,
+  "endTime": 1765544273996,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -9,6 +9,14 @@
       "onboard_time": 1765204343,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8983486,
+      "num": 8983486,
+      "word": "双轨空降",
+      "onboard_time": 1765539202,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 8847609,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1656839,
-      "num": 204326,
-      "word": "双轨空降",
-      "onboard_time": 1765539202,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1618218,
       "num": 232082,
       "word": "爱奇艺把刘诗诗的奖换成了白鹿",
@@ -233,6 +233,14 @@
       "onboard_time": 1765535423,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1540033,
+      "num": 286752,
+      "word": "云初令官宣虞书欣",
+      "onboard_time": 1765542622,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1516270,
@@ -305,6 +313,14 @@
       "onboard_time": 1765332861,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1398422,
+      "num": 278117,
+      "word": "一念江南",
+      "onboard_time": 1765542863,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1314495,
@@ -713,6 +729,14 @@
       "onboard_time": 1765095440,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875417,
+      "num": 261350,
+      "word": "虞书欣演技",
+      "onboard_time": 1765542443,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 868374,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1765125198,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 609735,
+      "num": 332656,
+      "word": "云初令官宣",
+      "onboard_time": 1765541663,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 606654,
@@ -2307,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464684,
+      "num": 320691,
+      "word": "198斤新娘减肥70斤后要离婚",
+      "onboard_time": 1765539741,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464678,
       "num": 362964,
       "word": "蓝战非被绑架警方已立案",
@@ -2747,6 +2787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 421383,
+      "num": 269280,
+      "word": "双轨热度",
+      "onboard_time": 1765542863,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421269,
       "num": 454784,
       "word": "丁真对向佐说扛不住就别混这个圈子",
@@ -2771,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417437,
+      "num": 264427,
+      "word": "云初令",
+      "onboard_time": 1765542683,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415476,
       "num": 276784,
       "word": "北京的雪下大了",
@@ -2793,6 +2849,14 @@
       "onboard_time": 1765451061,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 411661,
+      "num": 244250,
+      "word": "双轨云包场",
+      "onboard_time": 1765540761,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 411531,
@@ -2836,7 +2900,7 @@
     },
     {
       "raw_hot": 404806,
-      "num": 236310,
+      "num": 307541,
       "word": "官方通报2岁男童输液后死亡",
       "onboard_time": 1765535180,
       "rank": 37,
@@ -3691,6 +3755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 332691,
+      "num": 332691,
+      "word": "AG超玩会vs上海RNG.M",
+      "onboard_time": 1765538962,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 332624,
       "num": 257958,
       "word": "外交官辟谣这是中国不是日本",
@@ -4049,14 +4121,6 @@
       "onboard_time": 1765372882,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305598,
-      "num": 204128,
-      "word": "AG超玩会vs上海RNG.M",
-      "onboard_time": 1765538962,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 305512,
@@ -4571,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273412,
+      "num": 273412,
+      "word": "王楚钦说被打1比11很正常",
+      "onboard_time": 1765543523,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272321,
       "num": 221232,
       "word": "肖战二封King",
@@ -4859,6 +4931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254807,
+      "num": 254807,
+      "word": "王一博的舌苔",
+      "onboard_time": 1765538721,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254007,
       "num": 195599,
       "word": "金昊被判死刑足见婚姻不是免死金牌",
@@ -5057,6 +5137,14 @@
       "onboard_time": 1765527801,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241041,
+      "num": 241041,
+      "word": "保剑锋",
+      "onboard_time": 1765539501,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 240619,
@@ -6043,8 +6131,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204900,
+      "num": 189765,
+      "word": "长安二十四计",
+      "onboard_time": 1765407856,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204732,
-      "num": 204205,
+      "num": 227551,
       "word": "30厘米长老鼠爬到2岁孩子床上",
       "onboard_time": 1765535001,
       "rank": 29,
@@ -6257,14 +6353,6 @@
       "onboard_time": 1765109241,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201031,
-      "num": 201031,
-      "word": "王一博的舌苔",
-      "onboard_time": 1765538721,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 200986,
@@ -6500,7 +6588,7 @@
     },
     {
       "raw_hot": 196291,
-      "num": 203839,
+      "num": 293897,
       "word": "王楚钦回应3比2黄镇廷杜凯琹",
       "onboard_time": 1765538421,
       "rank": 9,
@@ -6787,14 +6875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189765,
-      "num": 189765,
-      "word": "长安二十四计",
-      "onboard_time": 1765407856,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189742,
       "num": 205052,
       "word": "高市早苗遇强震神色慌张",
@@ -6921,6 +7001,14 @@
       "onboard_time": 1765452861,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186868,
+      "num": 245700,
+      "word": "WBG首轮失利",
+      "onboard_time": 1765543943,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 186755,
@@ -7169,6 +7257,14 @@
       "onboard_time": 1765423881,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181203,
+      "num": 181203,
+      "word": "现在的美甲店已经进化成这样了",
+      "onboard_time": 1765540281,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 181184,
@@ -7625,6 +7721,14 @@
       "onboard_time": 1765514841,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169925,
+      "num": 219382,
+      "word": "Hero晋级赛排名第一",
+      "onboard_time": 1765544064,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 169811,
@@ -9619,6 +9723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 140279,
+      "num": 303203,
+      "word": "国考考到中央是什么难度",
+      "onboard_time": 1765541541,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140240,
       "num": 483316,
       "word": "WYG对战JDG",
@@ -11211,6 +11323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124620,
+      "num": 124620,
+      "word": "中足联颁奖典礼",
+      "onboard_time": 1765544064,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124617,
       "num": 124617,
       "word": "鹭卓直播",
@@ -11241,6 +11361,14 @@
       "onboard_time": 1765167622,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124491,
+      "num": 124491,
+      "word": "蒯曼vs大藤沙月",
+      "onboard_time": 1765542082,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 124355,
@@ -11665,6 +11793,14 @@
       "onboard_time": 1765463003,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "2025国剧盛典阵容官宣",
+      "onboard_time": 1765542383,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 120932,
@@ -12123,6 +12259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117465,
+      "num": 117465,
+      "word": "长安二十四计 第一计",
+      "onboard_time": 1765540102,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117402,
       "num": 121932,
       "word": "汕头火灾遇难者系四代同堂",
@@ -12435,20 +12579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114929,
+      "num": 105948,
+      "word": "蒯曼16比14大藤沙月",
+      "onboard_time": 1765544183,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114921,
       "num": 114921,
       "word": "经常喝咖啡的好处",
       "onboard_time": 1765265961,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114919,
-      "num": 114919,
-      "word": "保剑锋",
-      "onboard_time": 1765539501,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 114894,
@@ -13403,6 +13547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108118,
+      "num": 119051,
+      "word": "一下雪怎么到处都是波司登",
+      "onboard_time": 1765540161,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108078,
       "num": 136716,
       "word": "山西一大厦发生火灾致3人死亡",
@@ -13688,6 +13840,14 @@
       "word": "近8000吨车厘子来了",
       "onboard_time": 1765362141,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105620,
+      "num": 105620,
+      "word": "快递站旁大量幼犬幼猫被弃部分死亡",
+      "onboard_time": 1765540821,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -14163,6 +14323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101862,
+      "num": 101862,
+      "word": "KPL",
+      "onboard_time": 1765150339,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101789,
       "num": 179252,
       "word": "女护士患癌请病假遭拒",
@@ -14257,6 +14425,14 @@
       "onboard_time": 1765473857,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101303,
+      "num": 101303,
+      "word": "菲律宾小孩哥对战AG",
+      "onboard_time": 1765542983,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 101279,
@@ -15539,6 +15715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90018,
+      "num": 101082,
+      "word": "云旗直播",
+      "onboard_time": 1765542203,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90013,
       "num": 90013,
       "word": "逃税1600万网红7天狂卖10万件",
@@ -16403,6 +16587,14 @@
       "category": "财经,财经"
     },
     {
+      "raw_hot": 75621,
+      "num": 124511,
+      "word": "普通人怎么拍出田曦薇百万运镜",
+      "onboard_time": 1765539741,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -16811,6 +17003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68222,
+      "num": 205999,
+      "word": "中方提3个绝不允许",
+      "onboard_time": 1765542863,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68168,
       "num": 186856,
       "word": "解放军全时备战能力达空前水平",
@@ -17009,14 +17209,6 @@
       "onboard_time": 1765200262,
       "rank": 39,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 64314,
-      "num": 64314,
-      "word": "KPL",
-      "onboard_time": 1765150339,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 64241,
@@ -17307,6 +17499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60002,
+      "num": 100674,
+      "word": "中国海警对菲船只采取必要管控",
+      "onboard_time": 1765542383,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59903,
       "num": 59903,
       "word": "刘耀文差点断更",
@@ -17505,6 +17705,14 @@
       "onboard_time": 1765212318,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56183,
+      "num": 106141,
+      "word": "黄子弘凡丁程鑫 次元壁破了",
+      "onboard_time": 1765542983,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 56146,
@@ -18257,6 +18465,14 @@
       "onboard_time": 1765471278,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47226,
+      "num": 107209,
+      "word": "疑注射3万一支失效药患儿母亲发声",
+      "onboard_time": 1765543403,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 47203,
@@ -19281,6 +19497,14 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 34406,
+      "num": 108217,
+      "word": "36岁男子第14次考研",
+      "onboard_time": 1765543403,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34052,
@@ -20473,6 +20697,14 @@
       "onboard_time": 1765092500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20155,
+      "num": 110691,
+      "word": "大学生自述沉迷音乐剧借8万网贷",
+      "onboard_time": 1765544183,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20147,

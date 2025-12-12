@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765539727967,
+  "endTime": 1765544273996,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1635,6 +1635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 8983486,
+      "num": 8983486,
+      "word": "双轨空降",
+      "onboard_time": 1765539202,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 8960529,
       "num": 8960529,
       "word": "石凯回应",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746884065,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 6575117,
-      "num": 6575117,
-      "word": "赵一博 我和雪梨在一起是事实",
-      "onboard_time": 1741325063,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
