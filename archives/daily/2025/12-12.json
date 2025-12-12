@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765549568881,
+  "endTime": 1765550519134,
   "band_list": [
     {
       "raw_hot": 8983486,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1687517,
-      "num": 1120846,
+      "num": 1122019,
       "word": "双轨",
       "onboard_time": 1765531523,
       "rank": 15,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1051383,
+      "num": 310254,
+      "word": "好莱坞女星被撞身亡",
+      "onboard_time": 1765548204,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1020695,
       "num": 442814,
       "word": "张柏芝 我要生到不能生为止",
@@ -112,14 +120,6 @@
       "word": "陈妍希爸爸将陈晓以半子待之",
       "onboard_time": 1765515862,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 885247,
-      "num": 310254,
-      "word": "好莱坞女星被撞身亡",
-      "onboard_time": 1765548204,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1765525342,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688296,
+      "num": 311986,
+      "word": "孟子义云包场双轨",
+      "onboard_time": 1765548805,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 656774,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487341,
+      "num": 304007,
+      "word": "东北雨姐转世账号被关闭",
+      "onboard_time": 1765549344,
+      "rank": 26,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 485699,
       "num": 242796,
       "word": "双轨 精华速看版",
@@ -305,14 +321,6 @@
       "onboard_time": 1765507280,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 473843,
-      "num": 296104,
-      "word": "孟子义云包场双轨",
-      "onboard_time": 1765548805,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 468303,
@@ -337,6 +345,14 @@
       "onboard_time": 1765539741,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464206,
+      "num": 308034,
+      "word": "孙颖莎vs长崎美柚",
+      "onboard_time": 1765548744,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 462893,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 295933,
-      "num": 117259,
+      "num": 193083,
       "word": "双轨故事逻辑",
       "onboard_time": 1765547124,
       "rank": 42,
@@ -803,20 +819,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275027,
+      "num": 215072,
+      "word": "长安二十四计热度",
+      "onboard_time": 1765545565,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274289,
       "num": 274289,
       "word": "日本列车脱轨翻覆",
       "onboard_time": 1765497439,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 271651,
-      "num": 215072,
-      "word": "长安二十四计热度",
-      "onboard_time": 1765545565,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 267396,
@@ -841,14 +857,6 @@
       "onboard_time": 1765519342,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260714,
-      "num": 260714,
-      "word": "孙颖莎vs长崎美柚",
-      "onboard_time": 1765548744,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 260359,
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207419,
+      "num": 193934,
+      "word": "王源北京跨晚路透氛围感",
+      "onboard_time": 1765549705,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207261,
       "num": 343707,
       "word": "国考考到中央是什么难度",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1765538600,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203706,
+      "num": 203706,
+      "word": "KPL",
+      "onboard_time": 1765540702,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 203102,
@@ -1227,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194005,
+      "num": 194005,
+      "word": "钟意别送了",
+      "onboard_time": 1765549044,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194000,
       "num": 194000,
       "word": "内娱好多人的歌都是他写的",
@@ -1299,14 +1331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187406,
-      "num": 197784,
-      "word": "KPL",
-      "onboard_time": 1765540702,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187382,
       "num": 187382,
       "word": "黄朔 抽象",
@@ -1328,6 +1352,14 @@
       "word": "10人聚餐9人开溜男子看完账单傻眼",
       "onboard_time": 1765459043,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186654,
+      "num": 186654,
+      "word": "中国佛协称对放生大米深感惊讶不解",
+      "onboard_time": 1765549165,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1363,6 +1395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182004,
+      "num": 182004,
+      "word": "zwy的bp",
+      "onboard_time": 1765550005,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181566,
       "num": 181566,
       "word": "任嘉伦新剧硬控我爷奶",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1765504820,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179496,
-      "num": 179496,
-      "word": "东北雨姐转世账号被关闭",
-      "onboard_time": 1765549344,
-      "rank": 26,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 177738,
@@ -1507,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169357,
+      "num": 169357,
+      "word": "湖南卫视跨年五对cp",
+      "onboard_time": 1765550124,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169315,
       "num": 169315,
       "word": "欢迎来到蘑菇屋",
       "onboard_time": 1765511540,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168136,
+      "num": 168136,
+      "word": "假如南京大屠杀没有发生",
+      "onboard_time": 1765549644,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167841,
@@ -1747,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149233,
-      "num": 149233,
-      "word": "钟意别送了",
-      "onboard_time": 1765549044,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "Viper和On迎来德杯首秀",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1765537342,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148022,
+      "num": 161461,
+      "word": "CBA",
+      "onboard_time": 1765549943,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 147889,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1765514782,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146420,
+      "num": 143448,
+      "word": "徐璐古装",
+      "onboard_time": 1765547664,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146394,
@@ -2083,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131066,
-      "num": 131066,
-      "word": "徐璐古装",
-      "onboard_time": 1765547664,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130414,
       "num": 130414,
       "word": "国乒跟港队完赛后有说有笑",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1765504639,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126829,
+      "num": 149406,
+      "word": "一下雪怎么到处都是波司登",
+      "onboard_time": 1765540161,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 126743,
@@ -2403,14 +2459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115573,
-      "num": 149406,
-      "word": "一下雪怎么到处都是波司登",
-      "onboard_time": 1765540161,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115547,
       "num": 115547,
       "word": "何与肌肉线条",
@@ -2489,14 +2537,6 @@
       "onboard_time": 1765462943,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113795,
-      "num": 113795,
-      "word": "中国佛协称对放生大米深感惊讶不解",
-      "onboard_time": 1765549165,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113207,
@@ -2923,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85592,
+      "num": 193084,
+      "word": "李书福称五星只是安全的门槛",
+      "onboard_time": 1765550124,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85091,
       "num": 266394,
       "word": "谁懂姨妈奶茶的救赎感",
@@ -2961,6 +3009,14 @@
       "onboard_time": 1765516822,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81374,
+      "num": 142866,
+      "word": "兰晓龙拒绝给得闲谨制起商业名字",
+      "onboard_time": 1765549044,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 81163,
@@ -3273,14 +3329,6 @@
       "onboard_time": 1765496178,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57694,
-      "num": 142866,
-      "word": "兰晓龙拒绝给得闲谨制起商业名字",
-      "onboard_time": 1765549044,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 57375,
