@@ -1,0 +1,410 @@
+{
+  "runTime": 1765538873404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460304,
+        "num": 1460304,
+        "word": "Lululemon卫衣 囚服",
+        "onboard_time": 1765535423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455133,
+        "num": 455133,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2449,
+        "num": 402051,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384606,
+        "num": 384606,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1765535062,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270747,
+        "num": 270747,
+        "word": "日本地震",
+        "onboard_time": 1765536741,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385762,
+        "num": 236310,
+        "word": "官方通报2岁男童输液后死亡",
+        "onboard_time": 1765535180,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317707,
+        "num": 229305,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201592,
+        "num": 201592,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11040,
+        "num": 182332,
+        "word": "消费主引擎持续释放增长新动能",
+        "onboard_time": 1765530683,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170651,
+        "num": 170651,
+        "word": "王楚钦回应3比2黄镇廷杜凯琹",
+        "onboard_time": 1765538421,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 818283,
+        "num": 170650,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654750,
+        "num": 170650,
+        "word": "雷军小米投诉村支书小米不如握手",
+        "onboard_time": 1765536321,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 149204,
+        "num": 170649,
+        "word": "药品说明书1粒米能挡6个字",
+        "onboard_time": 1765530382,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 458255,
+        "num": 170648,
+        "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
+        "onboard_time": 1765536622,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452690,
+        "num": 170647,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 365178,
+        "num": 170646,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330457,
+        "num": 170645,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210780,
+        "num": 170644,
+        "word": "跑男后期把敖瑞鹏小号翻遍了",
+        "onboard_time": 1765533501,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204732,
+        "num": 170644,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170643,
+        "num": 170643,
+        "word": "李一桐短发",
+        "onboard_time": 1765538600,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508522,
+        "num": 169177,
+        "word": "成毅天地剑心降级",
+        "onboard_time": 1765532061,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335898,
+        "num": 168280,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213854,
+        "num": 164469,
+        "word": "原来这就是牙齿的求救信号",
+        "onboard_time": 1765537522,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209912,
+        "num": 163626,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161886,
+        "num": 161886,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150260,
+        "num": 150260,
+        "word": "刘亦菲朱亚文大学合照",
+        "onboard_time": 1765534881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292567,
+        "num": 150208,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24019,
+        "num": 148894,
+        "word": "卫星互联网低轨16组卫星发射成功",
+        "onboard_time": 1765530982,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "周杰伦瘦下来后嘴角压不住",
+        "onboard_time": 1765537342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38930,
+        "num": 146650,
+        "word": "中央明确推动投资止跌回稳",
+        "onboard_time": 1765537222,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146507,
+        "num": 146507,
+        "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+        "onboard_time": 1765536921,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143685,
+        "num": 143685,
+        "word": "王楚钦孙颖莎进半决赛",
+        "onboard_time": 1765537821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140070,
+        "num": 140070,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133139,
+        "num": 133139,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 128154,
+        "word": "二次元也是让Suk闯进去了",
+        "onboard_time": 1765537580,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125711,
+        "num": 125711,
+        "word": "内娱好多人的歌都是他写的",
+        "onboard_time": 1765538664,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115989,
+        "num": 115989,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 110855,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14942,
+        "num": 108934,
+        "word": "泰柬在13条战线上交战",
+        "onboard_time": 1765537821,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96829,
+        "num": 108698,
+        "word": "王一博的舌苔",
+        "onboard_time": 1765538721,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108621,
+        "num": 108621,
+        "word": "王楚钦孙颖莎三连胜晋级",
+        "onboard_time": 1765538182,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121347,
+        "num": 108210,
+        "word": "郭碧婷婚前给向佐打预防针",
+        "onboard_time": 1765538483,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107666,
+        "num": 107666,
+        "word": "声生不息碧昂丝",
+        "onboard_time": 1765534043,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 107500,
+        "word": "香港总决赛混双小组赛",
+        "onboard_time": 1765536802,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107381,
+        "num": 107381,
+        "word": "成毅13部剧凑不出1个活爹",
+        "onboard_time": 1765536862,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106093,
+        "num": 106093,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105998,
+        "num": 105998,
+        "word": "日本地震东京震感明显",
+        "onboard_time": 1765536321,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99466,
+        "num": 99466,
+        "word": "狙击蝴蝶剧宣",
+        "onboard_time": 1765538302,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99390,
+        "num": 99390,
+        "word": "不让卖小米事件当事人道歉",
+        "onboard_time": 1765538362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99078,
+        "num": 99078,
+        "word": "一直很怕出租屋文学",
+        "onboard_time": 1765538122,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}

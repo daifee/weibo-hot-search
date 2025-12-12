@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765536509223,
+  "endTime": 1765538873404,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -505,6 +505,14 @@
       "onboard_time": 1764755241,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1460304,
+      "num": 1460304,
+      "word": "Lululemon卫衣 囚服",
+      "onboard_time": 1765535423,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1454772,
@@ -2547,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654750,
+      "num": 187937,
+      "word": "雷军小米投诉村支书小米不如握手",
+      "onboard_time": 1765536321,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 653894,
       "num": 342007,
       "word": "秦岚魏大勋分手传闻",
@@ -4315,14 +4331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487751,
-      "num": 351222,
-      "word": "Lululemon卫衣 囚服",
-      "onboard_time": 1765535423,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 487558,
       "num": 298412,
       "word": "丈夫中千万大奖后打赏女主播近120万",
@@ -4809,6 +4817,14 @@
       "onboard_time": 1765500440,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458255,
+      "num": 170648,
+      "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
+      "onboard_time": 1765536622,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 457629,
@@ -6203,6 +6219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385762,
+      "num": 236310,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 385317,
       "num": 214872,
       "word": "恋综宾利哥说认出了痞幼的老头乐",
@@ -6673,6 +6697,14 @@
       "onboard_time": 1764648081,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365178,
+      "num": 259028,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 365142,
@@ -9339,14 +9371,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 266792,
-      "num": 259028,
-      "word": "好莱坞女星曼哈顿街头被撞身亡",
-      "onboard_time": 1765535240,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266790,
       "num": 209008,
       "word": "田曦薇飞吻",
@@ -11363,14 +11387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217357,
-      "num": 217357,
-      "word": "官方通报2岁男童输液后死亡",
-      "onboard_time": 1765535180,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 217078,
       "num": 147453,
       "word": "英国首次宣布英国军人在乌克兰身亡",
@@ -11513,6 +11529,14 @@
       "onboard_time": 1765030945,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213854,
+      "num": 164469,
+      "word": "原来这就是牙齿的求救信号",
+      "onboard_time": 1765537522,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213566,
@@ -12259,6 +12283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204732,
+      "num": 204205,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204723,
       "num": 204723,
       "word": "邓为暗夜贵公子",
@@ -12361,14 +12393,6 @@
       "onboard_time": 1764673042,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204205,
-      "num": 204205,
-      "word": "30厘米长老鼠爬到2岁孩子床上",
-      "onboard_time": 1765535001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204128,
@@ -13865,14 +13889,6 @@
       "onboard_time": 1765510760,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187937,
-      "num": 187937,
-      "word": "雷军小米投诉村支书小米不如握手",
-      "onboard_time": 1765536321,
-      "rank": 27,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 187879,
@@ -15537,6 +15553,22 @@
       "onboard_time": 1765001601,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170651,
+      "num": 170651,
+      "word": "王楚钦回应3比2黄镇廷杜凯琹",
+      "onboard_time": 1765538421,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170643,
+      "num": 170643,
+      "word": "李一桐短发",
+      "onboard_time": 1765538600,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 170404,
@@ -18115,6 +18147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150260,
+      "num": 150260,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150222,
       "num": 964295,
       "word": "王曼昱WTT单打第100胜",
@@ -18403,6 +18443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "周杰伦瘦下来后嘴角压不住",
+      "onboard_time": 1765537342,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148126,
       "num": 148126,
       "word": "佟丽娅严浩翔看王俊凯话剧",
@@ -18633,6 +18681,14 @@
       "onboard_time": 1765338503,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146507,
+      "num": 146507,
+      "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+      "onboard_time": 1765536921,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 146488,
@@ -19041,6 +19097,14 @@
       "onboard_time": 1765343242,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143685,
+      "num": 143685,
+      "word": "王楚钦孙颖莎进半决赛",
+      "onboard_time": 1765537821,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 143421,
@@ -20915,14 +20979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133330,
-      "num": 133330,
-      "word": "刘亦菲朱亚文大学合照",
-      "onboard_time": 1765534881,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133323,
       "num": 216334,
       "word": "白鹿呵呵新合照",
@@ -22419,6 +22475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125711,
+      "num": 125711,
+      "word": "内娱好多人的歌都是他写的",
+      "onboard_time": 1765538664,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125652,
       "num": 125652,
       "word": "20岁女子1天瘦1斤确诊糖尿病",
@@ -23361,6 +23425,14 @@
       "onboard_time": 1764931641,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121347,
+      "num": 108210,
+      "word": "郭碧婷婚前给向佐打预防针",
+      "onboard_time": 1765538483,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121306,
@@ -24345,6 +24417,14 @@
       "onboard_time": 1765380921,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117376,
+      "num": 128154,
+      "word": "二次元也是让Suk闯进去了",
+      "onboard_time": 1765537580,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 117368,
@@ -26363,6 +26443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108621,
+      "num": 108621,
+      "word": "王楚钦孙颖莎三连胜晋级",
+      "onboard_time": 1765538182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108502,
       "num": 108502,
       "word": "原来伤心是真的伤心脏",
@@ -26625,6 +26713,14 @@
       "onboard_time": 1765270284,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107381,
+      "num": 107381,
+      "word": "成毅13部剧凑不出1个活爹",
+      "onboard_time": 1765536862,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 107330,
@@ -26969,6 +27065,14 @@
       "onboard_time": 1765337481,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105943,
+      "num": 107500,
+      "word": "香港总决赛混双小组赛",
+      "onboard_time": 1765536802,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105900,
@@ -28635,6 +28739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99466,
+      "num": 99466,
+      "word": "狙击蝴蝶剧宣",
+      "onboard_time": 1765538302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99465,
       "num": 99465,
       "word": "治婆婆还得婆婆的婆婆来",
@@ -28648,6 +28760,14 @@
       "word": "马来西亚一中国女游客酒店9楼坠亡",
       "onboard_time": 1765112422,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99390,
+      "num": 99390,
+      "word": "不让卖小米事件当事人道歉",
+      "onboard_time": 1765538362,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -28729,6 +28849,14 @@
       "onboard_time": 1765089741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99078,
+      "num": 99078,
+      "word": "一直很怕出租屋文学",
+      "onboard_time": 1765538122,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99049,
@@ -29153,6 +29281,14 @@
       "onboard_time": 1765194261,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96829,
+      "num": 108698,
+      "word": "王一博的舌苔",
+      "onboard_time": 1765538721,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96818,
@@ -37547,6 +37683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38930,
+      "num": 146650,
+      "word": "中央明确推动投资止跌回稳",
+      "onboard_time": 1765537222,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38914,
       "num": 221811,
       "word": "作者称作品遭大学生抄袭获一等奖",
@@ -41067,6 +41211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14942,
+      "num": 108934,
+      "word": "泰柬在13条战线上交战",
+      "onboard_time": 1765537821,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14912,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
@@ -41489,6 +41641,14 @@
       "onboard_time": 1764790814,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11040,
+      "num": 182332,
+      "word": "消费主引擎持续释放增长新动能",
+      "onboard_time": 1765530683,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10816,

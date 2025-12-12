@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765536509223,
+  "endTime": 1765538873404,
   "band_list": [
     {
       "raw_hot": 2027944,
@@ -9,6 +9,14 @@
       "onboard_time": 1765529242,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1460304,
+      "num": 1460304,
+      "word": "Lululemon卫衣 囚服",
+      "onboard_time": 1765535423,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1314495,
@@ -83,6 +91,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 818283,
+      "num": 372954,
+      "word": "双轨",
+      "onboard_time": 1765531523,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 798877,
       "num": 1127820,
       "word": "北京暴雪",
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 654750,
+      "num": 187937,
+      "word": "雷军小米投诉村支书小米不如握手",
+      "onboard_time": 1765536321,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 598855,
       "num": 553338,
       "word": "epic 免费游戏",
@@ -161,14 +185,6 @@
       "onboard_time": 1765521441,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549865,
-      "num": 372954,
-      "word": "双轨",
-      "onboard_time": 1765531523,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 549259,
@@ -209,14 +225,6 @@
       "onboard_time": 1765461204,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487751,
-      "num": 351222,
-      "word": "Lululemon卫衣 囚服",
-      "onboard_time": 1765535423,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 485699,
@@ -273,6 +281,14 @@
       "onboard_time": 1765500440,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458255,
+      "num": 170648,
+      "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
+      "onboard_time": 1765536622,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 450872,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385762,
+      "num": 236310,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 385317,
       "num": 214872,
       "word": "恋综宾利哥说认出了痞幼的老头乐",
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365178,
+      "num": 259028,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358450,
       "num": 240092,
       "word": "陈妍希建议女性不要为了结婚而结婚",
@@ -504,6 +536,14 @@
       "word": "骄阳似我定档",
       "onboard_time": 1765518682,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317707,
+      "num": 283697,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765448061,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -587,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283697,
-      "num": 283697,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765448061,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282171,
       "num": 193136,
       "word": "奶奶用暖气片给孙子烤苹果干",
@@ -627,20 +659,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 270747,
+      "num": 270747,
+      "word": "日本地震",
+      "onboard_time": 1765536741,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 267396,
       "num": 207304,
       "word": "不齐舞团创始人37岁舞龄20年",
       "onboard_time": 1765509982,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 266792,
-      "num": 259028,
-      "word": "好莱坞女星曼哈顿街头被撞身亡",
-      "onboard_time": 1765535240,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 266638,
@@ -835,12 +867,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217357,
-      "num": 217357,
-      "word": "官方通报2岁男童输液后死亡",
-      "onboard_time": 1765535180,
-      "rank": 37,
-      "category": "辟谣/通报"
+      "raw_hot": 213854,
+      "num": 164469,
+      "word": "原来这就是牙齿的求救信号",
+      "onboard_time": 1765537522,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211214,
@@ -883,20 +915,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204732,
+      "num": 204205,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "成毅长安二十四计首播",
       "onboard_time": 1765509982,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204205,
-      "num": 204205,
-      "word": "30厘米长老鼠爬到2岁孩子床上",
-      "onboard_time": 1765535001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203102,
@@ -1019,14 +1051,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 187937,
-      "num": 187937,
-      "word": "雷军小米投诉村支书小米不如握手",
-      "onboard_time": 1765536321,
-      "rank": 27,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 187382,
       "num": 187382,
       "word": "黄朔 抽象",
@@ -1145,6 +1169,22 @@
       "onboard_time": 1765517542,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170651,
+      "num": 170651,
+      "word": "王楚钦回应3比2黄镇廷杜凯琹",
+      "onboard_time": 1765538421,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170643,
+      "num": 170643,
+      "word": "李一桐短发",
+      "onboard_time": 1765538600,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 170112,
@@ -1363,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150260,
+      "num": 150260,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150222,
       "num": 964295,
       "word": "王曼昱WTT单打第100胜",
@@ -1387,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "周杰伦瘦下来后嘴角压不住",
+      "onboard_time": 1765537342,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "苏新皓晒北京的雪",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1765534101,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146507,
+      "num": 146507,
+      "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+      "onboard_time": 1765536921,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 146464,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1765512202,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 143685,
+      "num": 143685,
+      "word": "王楚钦孙颖莎进半决赛",
+      "onboard_time": 1765537821,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 142841,
@@ -1611,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133330,
-      "num": 133330,
-      "word": "刘亦菲朱亚文大学合照",
-      "onboard_time": 1765534881,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132480,
       "num": 245313,
       "word": "96岁南京大屠杀幸存者说我还要讲",
@@ -1707,6 +1771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125711,
+      "num": 125711,
+      "word": "内娱好多人的歌都是他写的",
+      "onboard_time": 1765538664,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125709,
       "num": 125709,
       "word": "星光大赏投票",
@@ -1753,6 +1825,14 @@
       "onboard_time": 1765531162,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121347,
+      "num": 108210,
+      "word": "郭碧婷婚前给向佐打预防针",
+      "onboard_time": 1765538483,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121117,
@@ -1825,6 +1905,14 @@
       "onboard_time": 1765500440,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117376,
+      "num": 128154,
+      "word": "二次元也是让Suk闯进去了",
+      "onboard_time": 1765537580,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 117272,
@@ -1979,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108621,
+      "num": 108621,
+      "word": "王楚钦孙颖莎三连胜晋级",
+      "onboard_time": 1765538182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108490,
       "num": 108490,
       "word": "这居然是惠英红",
@@ -2011,11 +2107,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107381,
+      "num": 107381,
+      "word": "成毅13部剧凑不出1个活爹",
+      "onboard_time": 1765536862,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106374,
       "num": 182144,
       "word": "陈熠晋级香港总决赛四强",
       "onboard_time": 1765527020,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105943,
+      "num": 107500,
+      "word": "香港总决赛混双小组赛",
+      "onboard_time": 1765536802,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2091,6 +2203,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99466,
+      "num": 99466,
+      "word": "狙击蝴蝶剧宣",
+      "onboard_time": 1765538302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99390,
+      "num": 99390,
+      "word": "不让卖小米事件当事人道歉",
+      "onboard_time": 1765538362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99078,
+      "num": 99078,
+      "word": "一直很怕出租屋文学",
+      "onboard_time": 1765538122,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 98907,
       "num": 98907,
       "word": "CBA新赛季揭幕战",
@@ -2113,6 +2249,14 @@
       "onboard_time": 1765523421,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96829,
+      "num": 108698,
+      "word": "王一博的舌苔",
+      "onboard_time": 1765538721,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96638,
@@ -2819,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38930,
+      "num": 146650,
+      "word": "中央明确推动投资止跌回稳",
+      "onboard_time": 1765537222,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38663,
       "num": 138721,
       "word": "得闲谨制 何以生肖莫",
@@ -3155,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14942,
+      "num": 108934,
+      "word": "泰柬在13条战线上交战",
+      "onboard_time": 1765537821,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14811,
       "num": 26276,
       "word": "必须充分挖掘经济潜能",
@@ -3200,6 +3360,14 @@
       "word": "2026中国经济工作怎么干",
       "onboard_time": 1765511901,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11040,
+      "num": 182332,
+      "word": "消费主引擎持续释放增长新动能",
+      "onboard_time": 1765530683,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
