@@ -1,0 +1,410 @@
+{
+  "runTime": 1765506545478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 851598,
+        "num": 1136255,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761676,
+        "num": 761676,
+        "word": "感觉时间越来越快不是错觉",
+        "onboard_time": 1765502421,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 12127,
+        "num": 380225,
+        "word": "大国小巷首善之治",
+        "onboard_time": 1765457722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377326,
+        "num": 377326,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765499900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256273,
+        "num": 256273,
+        "word": "上海市民扎堆挖银元",
+        "onboard_time": 1765497260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232236,
+        "num": 232236,
+        "word": "北京初雪来了",
+        "onboard_time": 1765500500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203332,
+        "num": 203332,
+        "word": "下雪",
+        "onboard_time": 1765499121,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195451,
+        "num": 195451,
+        "word": "中国冰壶男队战胜日本进军冬奥会",
+        "onboard_time": 1765505299,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193750,
+        "num": 193750,
+        "word": "日本列车脱轨翻覆",
+        "onboard_time": 1765497439,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179299,
+        "num": 193715,
+        "word": "TGA2025",
+        "onboard_time": 1765503979,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 720422,
+        "num": 193668,
+        "word": "周柯宇编辑刘宇宁法令纹",
+        "onboard_time": 1765499301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702061,
+        "num": 193630,
+        "word": "删了吧我有个单身的朋友破防了",
+        "onboard_time": 1765496057,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342600,
+        "num": 193582,
+        "word": "郭碧婷回应与向佐分居两地",
+        "onboard_time": 1765500859,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277737,
+        "num": 193523,
+        "word": "42岁陈妍希 建议所有女性来学",
+        "onboard_time": 1765464262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266638,
+        "num": 193491,
+        "word": "偶遇王一博新疆滑雪",
+        "onboard_time": 1765503800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239965,
+        "num": 193444,
+        "word": "张本智和说樊振东是自己的偶像",
+        "onboard_time": 1765499840,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239721,
+        "num": 193387,
+        "word": "2025微博之夜",
+        "onboard_time": 1765497260,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221254,
+        "num": 193337,
+        "word": "嫁金钗",
+        "onboard_time": 1765505539,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213515,
+        "num": 193283,
+        "word": "美国想和中俄印日组建核心五国",
+        "onboard_time": 1765505539,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29592,
+        "num": 193230,
+        "word": "高市早苗内阁高官再曝丑闻",
+        "onboard_time": 1765505721,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294259,
+        "num": 193149,
+        "word": "曝短剧某女演员卸了妆脸上全是闭口",
+        "onboard_time": 1765497918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282171,
+        "num": 193136,
+        "word": "奶奶用暖气片给孙子烤苹果干",
+        "onboard_time": 1765503860,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206297,
+        "num": 193093,
+        "word": "郭碧婷坦言向太给了很多钱",
+        "onboard_time": 1765469540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205383,
+        "num": 192996,
+        "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
+        "onboard_time": 1765468880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198659,
+        "num": 192994,
+        "word": "方力申得女",
+        "onboard_time": 1765504939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192944,
+        "num": 192944,
+        "word": "税务局回应5000万网红逃税被举报",
+        "onboard_time": 1765505660,
+        "rank": 25,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 189765,
+        "num": 189765,
+        "word": "长安二十四计",
+        "onboard_time": 1765505601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180349,
+        "num": 180349,
+        "word": "陈星旭关注迪丽热巴",
+        "onboard_time": 1765504820,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169946,
+        "num": 169946,
+        "word": "TGA直播",
+        "onboard_time": 1765500680,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162159,
+        "num": 162159,
+        "word": "VOGUE替刘雯井柏然官宣了",
+        "onboard_time": 1765506201,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 154379,
+        "num": 154379,
+        "word": "神界原罪新作",
+        "onboard_time": 1765505299,
+        "rank": 30,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 133070,
+        "num": 133070,
+        "word": "枭起青壤",
+        "onboard_time": 1765469180,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131406,
+        "num": 131406,
+        "word": "拉瑞安新作",
+        "onboard_time": 1765505299,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "星光大赏投票",
+        "onboard_time": 1765497140,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120932,
+        "num": 120932,
+        "word": "中国冰壶男队获米兰冬奥资格",
+        "onboard_time": 1765505299,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119721,
+        "num": 119721,
+        "word": "肖战说过哪有那么多的设计",
+        "onboard_time": 1765499721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118718,
+        "num": 118718,
+        "word": "老魔丸生了个小魔丸",
+        "onboard_time": 1765505240,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118464,
+        "num": 118464,
+        "word": "星光大赏",
+        "onboard_time": 1765500440,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 117780,
+        "word": "好一个乖乖女 徐梦洁",
+        "onboard_time": 1765461204,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28932,
+        "num": 116328,
+        "word": "四川一2岁男童在家失踪80余天",
+        "onboard_time": 1765505840,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116274,
+        "num": 116274,
+        "word": "王玉雯这次下车神图有了",
+        "onboard_time": 1765496057,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114842,
+        "num": 114842,
+        "word": "日本前将领称珍珠港事件是美国栽赃",
+        "onboard_time": 1765503499,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109949,
+        "num": 109949,
+        "word": "凭煮蛋涨粉356万博主回应爆红",
+        "onboard_time": 1765464622,
+        "rank": 42,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 102282,
+        "num": 102282,
+        "word": "TGA电竞奖项",
+        "onboard_time": 1765505478,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102212,
+        "num": 102212,
+        "word": "一家五口靠薅商场停车羊毛转卖获利",
+        "onboard_time": 1765501101,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95570,
+        "num": 95570,
+        "word": "国补",
+        "onboard_time": 1765454121,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93861,
+        "num": 93861,
+        "word": "南京大屠杀真实存在任何人抹杀不了",
+        "onboard_time": 1765500921,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48443,
+        "num": 93284,
+        "word": "王一博大魔王年终结算画面",
+        "onboard_time": 1765506079,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92763,
+        "num": 92763,
+        "word": "以为是休息实则最伤气血的3件事",
+        "onboard_time": 1765495817,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85979,
+        "num": 85979,
+        "word": "TGA2025最佳独立游戏",
+        "onboard_time": 1765503440,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
