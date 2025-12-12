@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765557328864,
+  "endTime": 1765558109223,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347994,
+      "num": 242809,
+      "word": "俄罗斯向日本发出警告",
+      "onboard_time": 1765554681,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344229,
       "num": 167590,
       "word": "一念江南",
@@ -64,6 +72,14 @@
       "word": "双轨",
       "onboard_time": 1765531523,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302106,
+      "num": 164119,
+      "word": "云初令官宣虞书欣",
+      "onboard_time": 1765542622,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -83,28 +99,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 292666,
-      "num": 164119,
-      "word": "云初令官宣虞书欣",
-      "onboard_time": 1765542622,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
       "onboard_time": 1765539741,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222861,
-      "num": 222861,
-      "word": "俄罗斯向日本发出警告",
-      "onboard_time": 1765554681,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 203278,
@@ -179,8 +179,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124251,
-      "num": 124251,
+      "raw_hot": 127032,
+      "num": 102970,
+      "word": "双轨热度",
+      "onboard_time": 1765542863,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124263,
+      "num": 124263,
       "word": "陈妍希 翻红",
       "onboard_time": 1765554202,
       "rank": 24,
@@ -203,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103109,
+      "num": 108862,
+      "word": "李飞李逗逗硬闯时尚圈",
+      "onboard_time": 1765557080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99257,
       "num": 108980,
       "word": "AG超玩会vs上海RNG.M",
       "onboard_time": 1765538962,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98218,
+      "num": 103102,
+      "word": "网信部门点名陈震",
+      "onboard_time": 1765557622,
+      "rank": 26,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 94572,
@@ -225,6 +249,22 @@
       "onboard_time": 1765556601,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90723,
+      "num": 108898,
+      "word": "霍格沃兹变义务教育了",
+      "onboard_time": 1765554382,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 79480,
+      "num": 108800,
+      "word": "小猫每天去给过世的主人上坟",
+      "onboard_time": 1765556899,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 75114,
@@ -283,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69217,
-      "num": 108898,
-      "word": "霍格沃兹变义务教育了",
-      "onboard_time": 1765554382,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 68343,
       "num": 108895,
       "word": "英语四六级",
@@ -323,12 +355,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64817,
-      "num": 108862,
-      "word": "李飞李逗逗硬闯时尚圈",
-      "onboard_time": 1765557080,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 64737,
+      "num": 108845,
+      "word": "王源北京跨晚路透氛围感",
+      "onboard_time": 1765549705,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 64665,
@@ -337,14 +369,6 @@
       "onboard_time": 1765542683,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63989,
-      "num": 108845,
-      "word": "王源北京跨晚路透氛围感",
-      "onboard_time": 1765549705,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 61584,
@@ -363,14 +387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60458,
-      "num": 108800,
-      "word": "小猫每天去给过世的主人上坟",
-      "onboard_time": 1765556899,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60179,
       "num": 108822,
       "word": "久酷盾山",
@@ -387,7 +403,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17769,
+      "raw_hot": 18059,
       "num": 178169,
       "word": "解读2025中央经济工作会议",
       "onboard_time": 1765546584,
