@@ -1,0 +1,410 @@
+{
+  "runTime": 1765545092318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8330553,
+        "num": 8330553,
+        "word": "双轨空降",
+        "onboard_time": 1765539202,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370581,
+        "num": 370581,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2579,
+        "num": 334114,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606218,
+        "num": 330167,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323275,
+        "num": 323275,
+        "word": "王楚钦说被打1比11很正常",
+        "onboard_time": 1765543523,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499067,
+        "num": 307796,
+        "word": "云初令官宣",
+        "onboard_time": 1765541663,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444690,
+        "num": 299794,
+        "word": "198斤新娘减肥70斤后要离婚",
+        "onboard_time": 1765539741,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267278,
+        "num": 267278,
+        "word": "AG超玩会vs上海RNG.M",
+        "onboard_time": 1765538962,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189850,
+        "num": 264944,
+        "word": "官方通报2岁男童输液后死亡",
+        "onboard_time": 1765535180,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 174615,
+        "num": 257493,
+        "word": "国考考到中央是什么难度",
+        "onboard_time": 1765541541,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1389128,
+        "num": 247860,
+        "word": "一念江南",
+        "onboard_time": 1765542863,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1249033,
+        "num": 244232,
+        "word": "云初令官宣虞书欣",
+        "onboard_time": 1765542622,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309307,
+        "num": 235241,
+        "word": "云初令",
+        "onboard_time": 1765542683,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410325,
+        "num": 232684,
+        "word": "双轨热度",
+        "onboard_time": 1765542863,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228108,
+        "num": 228108,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185897,
+        "num": 226879,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176367,
+        "num": 225415,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137946,
+        "num": 222688,
+        "word": "一诺MVP",
+        "onboard_time": 1765544425,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128163,
+        "num": 221889,
+        "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+        "onboard_time": 1765536921,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74675,
+        "num": 219850,
+        "word": "这才是中国式安全感",
+        "onboard_time": 1765544723,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 826480,
+        "num": 218510,
+        "word": "虞书欣演技",
+        "onboard_time": 1765542443,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374552,
+        "num": 215939,
+        "word": "双轨云包场",
+        "onboard_time": 1765540761,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134067,
+        "num": 214756,
+        "word": "WBG首轮失利",
+        "onboard_time": 1765543943,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213216,
+        "num": 213216,
+        "word": "王一博的舌苔",
+        "onboard_time": 1765538721,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202535,
+        "num": 202535,
+        "word": "保剑锋",
+        "onboard_time": 1765539501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186781,
+        "num": 186781,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171661,
+        "num": 171661,
+        "word": "现在的美甲店已经进化成这样了",
+        "onboard_time": 1765540281,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146651,
+        "num": 146651,
+        "word": "成毅天地剑心降级",
+        "onboard_time": 1765532061,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 142191,
+        "word": "Hero晋级赛排名第一",
+        "onboard_time": 1765544064,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109734,
+        "num": 140095,
+        "word": "王楚钦回应3比2黄镇廷杜凯琹",
+        "onboard_time": 1765538421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115573,
+        "num": 132882,
+        "word": "一下雪怎么到处都是波司登",
+        "onboard_time": 1765540161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194996,
+        "num": 126951,
+        "word": "长安二十四计",
+        "onboard_time": 1765539862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124444,
+        "num": 124444,
+        "word": "蒯曼4比2大藤沙月",
+        "onboard_time": 1765544783,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123525,
+        "num": 123525,
+        "word": "蒯曼16比14大藤沙月",
+        "onboard_time": 1765544183,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118124,
+        "num": 118124,
+        "word": "长安二十四计 第一计",
+        "onboard_time": 1765540102,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116707,
+        "num": 116707,
+        "word": "2025国剧盛典阵容官宣",
+        "onboard_time": 1765542383,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115547,
+        "num": 115547,
+        "word": "何与肌肉线条",
+        "onboard_time": 1765544603,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111765,
+        "num": 111765,
+        "word": "原来这就是牙齿的求救信号",
+        "onboard_time": 1765537522,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102083,
+        "num": 102083,
+        "word": "疑注射3万一支失效药患儿母亲发声",
+        "onboard_time": 1765543403,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24610,
+        "num": 96820,
+        "word": "大学生自述沉迷音乐剧借8万网贷",
+        "onboard_time": 1765544183,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60359,
+        "num": 96002,
+        "word": "普通人怎么拍出田曦薇百万运镜",
+        "onboard_time": 1765539741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86780,
+        "num": 95829,
+        "word": "中方提3个绝不允许",
+        "onboard_time": 1765542863,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95759,
+        "num": 95759,
+        "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
+        "onboard_time": 1765536622,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95641,
+        "num": 95641,
+        "word": "快递站旁大量幼犬幼猫被弃部分死亡",
+        "onboard_time": 1765540821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90730,
+        "num": 94760,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93983,
+        "num": 93983,
+        "word": "差点问檀健次要联系方式了",
+        "onboard_time": 1765544664,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92049,
+        "num": 92049,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90397,
+        "num": 90397,
+        "word": "蒯曼vs大藤沙月",
+        "onboard_time": 1765542082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86655,
+        "num": 86655,
+        "word": "王楚钦不忘和黄镇廷寒暄",
+        "onboard_time": 1765544004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47593,
+        "num": 86450,
+        "word": "36岁男子第14次考研",
+        "onboard_time": 1765543403,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}
