@@ -1,9 +1,17 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765506545478,
+  "endTime": 1765511213829,
   "band_list": [
     {
-      "raw_hot": 851598,
+      "raw_hot": 944624,
+      "num": 1151139,
+      "word": "唐诡奇谭定档",
+      "onboard_time": 1765508119,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 882698,
       "num": 1136255,
       "word": "灌面汤杀妻案李某春死缓",
       "onboard_time": 1765504460,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 772031,
-      "num": 193630,
+      "num": 236263,
       "word": "删了吧我有个单身的朋友破防了",
       "onboard_time": 1765496057,
       "rank": 25,
@@ -28,17 +36,57 @@
     },
     {
       "raw_hot": 762179,
-      "num": 193668,
+      "num": 240677,
       "word": "周柯宇编辑刘宇宁法令纹",
       "onboard_time": 1765499301,
       "rank": 11,
       "category": "艺人"
     },
     {
+      "raw_hot": 592492,
+      "num": 592492,
+      "word": "美国想和中俄印日组建核心五国",
+      "onboard_time": 1765505539,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 553338,
+      "num": 553338,
+      "word": "epic 免费游戏",
+      "onboard_time": 1765506621,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 549259,
+      "num": 549259,
+      "word": "北京下雪",
+      "onboard_time": 1765506621,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528106,
+      "num": 213776,
+      "word": "VOGUE替刘雯井柏然官宣了",
+      "onboard_time": 1765506201,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 490715,
       "num": 217331,
       "word": "好一个乖乖女 徐梦洁",
       "onboard_time": 1765461204,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485699,
+      "num": 242796,
+      "word": "双轨 精华速看版",
+      "onboard_time": 1765507218,
       "rank": 10,
       "category": "剧集"
     },
@@ -75,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422813,
+      "num": 234661,
+      "word": "哑舍",
+      "onboard_time": 1765507940,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414412,
       "num": 256549,
       "word": "凭煮蛋涨粉356万博主回应爆红",
       "onboard_time": 1765464622,
       "rank": 5,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 395679,
+      "num": 395679,
+      "word": "奶奶用暖气片烤苹果干",
+      "onboard_time": 1765507280,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385317,
@@ -123,6 +187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365411,
+      "num": 227406,
+      "word": "张天爱送了全团队CHANEL",
+      "onboard_time": 1765509021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348698,
+      "num": 225132,
+      "word": "灌面汤案丈夫取得被害人亲属谅解",
+      "onboard_time": 1765507099,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320376,
       "num": 193149,
       "word": "曝短剧某女演员卸了妆脸上全是闭口",
@@ -163,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293992,
+      "num": 211258,
+      "word": "郭柯宇说李施嬅还好没结婚",
+      "onboard_time": 1765509561,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283697,
       "num": 283697,
       "word": "狙击蝴蝶",
@@ -179,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277773,
+      "num": 277773,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1765509381,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274289,
       "num": 274289,
       "word": "日本列车脱轨翻覆",
@@ -193,6 +289,14 @@
       "onboard_time": 1765503800,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262749,
+      "num": 207304,
+      "word": "不齐舞团创始人37岁舞龄20年",
+      "onboard_time": 1765509982,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 260359,
@@ -217,6 +321,14 @@
       "onboard_time": 1765483094,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258276,
+      "num": 206256,
+      "word": "日本远海6.7级左右地震",
+      "onboard_time": 1765509080,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 239965,
@@ -259,14 +371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213515,
-      "num": 193283,
-      "word": "美国想和中俄印日组建核心五国",
-      "onboard_time": 1765505539,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 211214,
       "num": 192996,
       "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
@@ -281,6 +385,14 @@
       "onboard_time": 1765458503,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "成毅长安二十四计首播",
+      "onboard_time": 1765509982,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 198659,
@@ -323,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188265,
+      "num": 188265,
+      "word": "龙族第二季大结局",
+      "onboard_time": 1765510760,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187365,
       "num": 187365,
       "word": "TGA直播",
@@ -345,6 +465,14 @@
       "onboard_time": 1765429103,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182567,
+      "num": 182567,
+      "word": "00后女子因积怨偷婆婆43万花光",
+      "onboard_time": 1765509920,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180349,
@@ -371,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162159,
-      "num": 162159,
-      "word": "VOGUE替刘雯井柏然官宣了",
-      "onboard_time": 1765506201,
+      "raw_hot": 164190,
+      "num": 181281,
+      "word": "日本发布紧急地震预警",
+      "onboard_time": 1765509439,
       "rank": 29,
-      "category": "艺人,时尚"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155595,
@@ -411,12 +539,28 @@
       "category": "游戏,游戏"
     },
     {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "唐朝诡事录",
+      "onboard_time": 1765507940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145059,
       "num": 145059,
       "word": "一家五口靠薅商场停车羊毛转卖获利",
       "onboard_time": 1765501101,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144983,
+      "num": 144983,
+      "word": "鸣潮获TGA玩家之声",
+      "onboard_time": 1765510221,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 139538,
@@ -451,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133905,
+      "num": 133905,
+      "word": "雷军回应小米上架准新车",
+      "onboard_time": 1765510942,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131406,
       "num": 131406,
       "word": "拉瑞安新作",
@@ -465,6 +617,30 @@
       "onboard_time": 1765504639,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126905,
+      "num": 126905,
+      "word": "宋雨琦王楚然民族风服饰牵手亮相",
+      "onboard_time": 1765511001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126743,
+      "num": 126743,
+      "word": "五百年内没人看懂敖瑞鹏的画",
+      "onboard_time": 1765508600,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125950,
+      "num": 219960,
+      "word": "王一博上完山开始下海了",
+      "onboard_time": 1765510820,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 125709,
@@ -491,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120185,
+      "num": 120185,
+      "word": "小米汽车准新车开售",
+      "onboard_time": 1765509261,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120151,
       "num": 120151,
       "word": "日本人帮日本算了一笔账",
@@ -513,6 +697,14 @@
       "onboard_time": 1765500440,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114670,
+      "num": 124088,
+      "word": "狙击蝴蝶试衣间吻",
+      "onboard_time": 1765509920,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 114071,
@@ -609,6 +801,14 @@
       "onboard_time": 1765472838,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88250,
+      "num": 126746,
+      "word": "女子称遭酒店前台凌晨刷卡进房猥亵",
+      "onboard_time": 1765510581,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84305,
@@ -923,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53965,
+      "num": 230338,
+      "word": "你的手机也能秒变AI手机",
+      "onboard_time": 1765508481,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53546,
       "num": 160667,
       "word": "WTT香港总决赛",
@@ -1003,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44386,
+      "num": 216812,
+      "word": "李某春有自首情节且获谅解",
+      "onboard_time": 1765510460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43000,
       "num": 43000,
       "word": "戳爷怎么变老了",
@@ -1019,6 +1235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41042,
+      "num": 108571,
+      "word": "泽连斯基核心圈商人遭暗杀",
+      "onboard_time": 1765509500,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36639,
+      "num": 223114,
+      "word": "住院7年半无名男子已用医疗救助金",
+      "onboard_time": 1765510640,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36316,
       "num": 139930,
       "word": "孙颖莎vs王艺迪",
@@ -1033,6 +1265,14 @@
       "onboard_time": 1765460482,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34712,
+      "num": 245313,
+      "word": "96岁南京大屠杀幸存者说我还要讲",
+      "onboard_time": 1765510339,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32620,
@@ -1123,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20878,
+      "num": 572585,
+      "word": "这些大国重器震撼人心",
+      "onboard_time": 1765460752,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18586,
       "num": 26277,
       "word": "新形势下经济工作五个必须",
@@ -1176,6 +1424,14 @@
       "word": "大国小巷首善之治",
       "onboard_time": 1765457722,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11403,
+      "num": 126824,
+      "word": "永辉上架听妈妈话竹鞭",
+      "onboard_time": 1765510879,
+      "rank": 38,
       "category": "民生新闻"
     }
   ],
