@@ -1,9 +1,9 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765514562422,
+  "endTime": 1765515261336,
   "band_list": [
     {
-      "raw_hot": 1184057,
+      "raw_hot": 1282404,
       "num": 244966,
       "word": "演员印小天在宁国救落水女子",
       "onboard_time": 1765512680,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 772031,
-      "num": 236394,
+      "num": 237665,
       "word": "删了吧我有个单身的朋友破防了",
       "onboard_time": 1765496057,
       "rank": 25,
@@ -51,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 675999,
+      "raw_hot": 695917,
       "num": 244135,
       "word": "双轨疑似变短剧了",
       "onboard_time": 1765511780,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648857,
+      "num": 241782,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1765512441,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 598855,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 528106,
-      "num": 213776,
+      "num": 220899,
       "word": "VOGUE替刘雯井柏然官宣了",
       "onboard_time": 1765506201,
       "rank": 29,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 448479,
-      "num": 227406,
+      "num": 229517,
       "word": "张天爱送了全团队CHANEL",
       "onboard_time": 1765509021,
       "rank": 15,
@@ -179,20 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384466,
-      "num": 241782,
-      "word": "比单休更恶心的是月休4天",
-      "onboard_time": 1765512441,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 380030,
       "num": 762211,
       "word": "国补",
       "onboard_time": 1765454121,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 379677,
+      "num": 379677,
+      "word": "美国要建C5世界惊了欧洲懵了",
+      "onboard_time": 1765511540,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 377326,
@@ -219,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367353,
-      "num": 367353,
-      "word": "美国要建C5世界惊了欧洲懵了",
-      "onboard_time": 1765511540,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 358450,
+      "num": 240092,
+      "word": "陈妍希建议女性不要为了结婚而结婚",
+      "onboard_time": 1765513101,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 348698,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314182,
+      "num": 233042,
+      "word": "人大899元书记严选羽绒服卖断货",
+      "onboard_time": 1765512321,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312194,
       "num": 193387,
       "word": "2025微博之夜",
@@ -273,14 +289,6 @@
       "onboard_time": 1765469540,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298448,
-      "num": 224441,
-      "word": "人大899元书记严选羽绒服卖断货",
-      "onboard_time": 1765512321,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293992,
@@ -331,14 +339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 267062,
-      "num": 212311,
-      "word": "陈妍希建议女性不要为了结婚而结婚",
-      "onboard_time": 1765513101,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266638,
       "num": 193491,
       "word": "偶遇王一博新疆滑雪",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 259841,
-      "num": 210423,
+      "num": 217846,
       "word": "邵子恒自曝回家不敢关房门",
       "onboard_time": 1765513280,
       "rank": 29,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 248160,
-      "num": 218365,
+      "num": 236602,
       "word": "肖战莫得闲的故事会被所有人看到",
       "onboard_time": 1765513461,
       "rank": 25,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 246997,
-      "num": 206748,
+      "num": 228055,
       "word": "TGA2025年度游戏",
       "onboard_time": 1765513942,
       "rank": 31,
@@ -409,6 +409,14 @@
       "onboard_time": 1765503979,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242956,
+      "num": 242956,
+      "word": "故宫",
+      "onboard_time": 1765512860,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 239965,
@@ -467,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205550,
-      "num": 205550,
+      "raw_hot": 205775,
+      "num": 205775,
       "word": "孩子哭的那一刻去不去已经没意义了",
       "onboard_time": 1765511780,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205343,
+      "num": 238724,
+      "word": "明日方舟终末地定档",
+      "onboard_time": 1765514662,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 204459,
@@ -489,14 +505,6 @@
       "onboard_time": 1765511842,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199523,
-      "num": 199523,
-      "word": "故宫",
-      "onboard_time": 1765512860,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 198659,
@@ -555,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190663,
+      "num": 190663,
+      "word": "王一博二哈化",
+      "onboard_time": 1765514662,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189765,
       "num": 189765,
       "word": "长安二十四计",
@@ -579,11 +595,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185222,
+      "num": 234373,
+      "word": "宁静扇了邵子恒一巴掌",
+      "onboard_time": 1765514901,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183920,
       "num": 183920,
       "word": "2025超话大赏",
       "onboard_time": 1765429103,
       "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183834,
+      "num": 183834,
+      "word": "给热巴的是蓝莓 给星旭的是烂霉",
+      "onboard_time": 1765514122,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -603,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176504,
-      "num": 176504,
-      "word": "给热巴的是蓝莓 给星旭的是烂霉",
-      "onboard_time": 1765514122,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 177738,
+      "num": 230193,
+      "word": "余宇涵首谈父母离异",
+      "onboard_time": 1765513700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 173803,
@@ -641,14 +673,6 @@
       "onboard_time": 1765511601,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172402,
-      "num": 230193,
-      "word": "余宇涵首谈父母离异",
-      "onboard_time": 1765513700,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 169811,
@@ -747,6 +771,38 @@
       "category": "游戏,游戏"
     },
     {
+      "raw_hot": 151331,
+      "num": 151331,
+      "word": "成毅 聪明真的可以演出来",
+      "onboard_time": 1765515021,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150255,
+      "num": 150255,
+      "word": "00年出生的唯一红利",
+      "onboard_time": 1765514841,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146464,
+      "num": 146464,
+      "word": "影之刃",
+      "onboard_time": 1765514782,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146394,
+      "num": 200497,
+      "word": "王俊凯 喜羊羊塑",
+      "onboard_time": 1765513700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145059,
       "num": 145059,
       "word": "一家五口靠薅商场停车羊毛转卖获利",
@@ -763,8 +819,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142799,
-      "num": 237559,
+      "raw_hot": 143940,
+      "num": 239177,
       "word": "淘宝闪购为幸运老友送全年免单",
       "onboard_time": 1765512202,
       "rank": 14,
@@ -785,6 +841,14 @@
       "onboard_time": 1765499721,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137680,
+      "num": 180482,
+      "word": "张柏芝 我要生到不能生为止",
+      "onboard_time": 1765515142,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 137268,
@@ -947,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111548,
-      "num": 200497,
-      "word": "王俊凯 喜羊羊塑",
-      "onboard_time": 1765513700,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109854,
       "num": 109854,
       "word": "国外捐精者被查出20%精子带致癌基因",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1765495937,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98505,
+      "num": 234891,
+      "word": "全网爆火的煮鸡蛋大神是个00后",
+      "onboard_time": 1765514242,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96638,
@@ -1075,14 +1139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 77356,
-      "num": 227611,
-      "word": "全网爆火的煮鸡蛋大神是个00后",
-      "onboard_time": 1765514242,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75985,
       "num": 75985,
       "word": "北京局地累计降雪量可达8毫米",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1765504639,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72153,
+      "num": 181384,
+      "word": "娜扎一字马腿长",
+      "onboard_time": 1765514901,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 71996,
@@ -1339,6 +1403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 56907,
+      "num": 183110,
+      "word": "游客一早排队进故宫等雪",
+      "onboard_time": 1765514841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56757,
       "num": 56757,
       "word": "狙击蝴蝶热度",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1765460062,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52370,
+      "num": 232335,
+      "word": "央美毕业的格斗女孩参加扇耳光大赛",
+      "onboard_time": 1765513881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51824,
@@ -1556,7 +1636,7 @@
     },
     {
       "raw_hot": 31094,
-      "num": 232864,
+      "num": 236222,
       "word": "抖音商城年末终极补好价别错过",
       "onboard_time": 1765512381,
       "rank": 17,
@@ -1584,14 +1664,6 @@
       "word": "四川一2岁男童在家失踪80余天",
       "onboard_time": 1765505840,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28829,
-      "num": 227813,
-      "word": "央美毕业的格斗女孩参加扇耳光大赛",
-      "onboard_time": 1765513881,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
