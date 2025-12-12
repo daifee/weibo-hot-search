@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765518360665,
+  "endTime": 1765521788357,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -681,6 +681,14 @@
       "onboard_time": 1765002561,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1314495,
+      "num": 201441,
+      "word": "陈伟霆首谈官宣生子原因",
+      "onboard_time": 1765518081,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1302137,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1764811821,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 730662,
+      "num": 205910,
+      "word": "回看花千骨 诡异",
+      "onboard_time": 1765517901,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 720375,
@@ -5179,6 +5195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432519,
+      "num": 196958,
+      "word": "女子拒绝颈椎病手术当晚瘫痪",
+      "onboard_time": 1765518623,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432242,
       "num": 432242,
       "word": "雅迪争议电动车已下架",
@@ -5321,6 +5345,14 @@
       "onboard_time": 1764640521,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424013,
+      "num": 424013,
+      "word": "王楚钦vsA勒布伦",
+      "onboard_time": 1765518920,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 423743,
@@ -5521,6 +5553,14 @@
       "onboard_time": 1764599544,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 411531,
+      "num": 194682,
+      "word": "刘嘉玲吐槽张柏芝没男友就想生娃",
+      "onboard_time": 1765518560,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 410933,
@@ -6324,7 +6364,7 @@
     },
     {
       "raw_hot": 374400,
-      "num": 338265,
+      "num": 352595,
       "word": "故宫",
       "onboard_time": 1765512860,
       "rank": 39,
@@ -7795,6 +7835,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 315489,
+      "num": 279172,
+      "word": "骄阳似我定档",
+      "onboard_time": 1764946702,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315269,
       "num": 238337,
       "word": "台当局扬言报复韩国",
@@ -8739,14 +8787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279172,
-      "num": 279172,
-      "word": "骄阳似我定档",
-      "onboard_time": 1764946702,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279002,
       "num": 279002,
       "word": "成本36元一锅做了10个菜",
@@ -9241,6 +9281,14 @@
       "onboard_time": 1764577762,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262955,
+      "num": 193334,
+      "word": "李昀锐 浙江跨晚大漏勺",
+      "onboard_time": 1765519342,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 262416,
@@ -10027,6 +10075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 240089,
+      "num": 191144,
+      "word": "印度大学生情侣未婚先孕酿悲剧",
+      "onboard_time": 1765518200,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239965,
       "num": 193444,
       "word": "张本智和说樊振东是自己的偶像",
@@ -10161,6 +10217,14 @@
       "onboard_time": 1764554000,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236871,
+      "num": 190362,
+      "word": "张碧晨连发9个捂嘴哭",
+      "onboard_time": 1765521382,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 236810,
@@ -11217,6 +11281,14 @@
       "onboard_time": 1765325843,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213184,
+      "num": 189693,
+      "word": "保剑锋疑似阴阳黄慧颐",
+      "onboard_time": 1765517662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 213141,
@@ -12307,14 +12379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201441,
-      "num": 201441,
-      "word": "陈伟霆首谈官宣生子原因",
-      "onboard_time": 1765518081,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201377,
       "num": 201377,
       "word": "喜人奇妙夜2颁奖典礼",
@@ -12505,6 +12569,14 @@
       "onboard_time": 1765244721,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199158,
+      "num": 199158,
+      "word": "王楚钦晋级香港总决赛四强",
+      "onboard_time": 1765519881,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 199144,
@@ -15667,14 +15739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166015,
-      "num": 167176,
-      "word": "保剑锋疑似阴阳黄慧颐",
-      "onboard_time": 1765517662,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165992,
       "num": 165992,
       "word": "F1抢票",
@@ -15889,6 +15953,14 @@
       "onboard_time": 1765005859,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164220,
+      "num": 164220,
+      "word": "张艺兴影音人气双TOP",
+      "onboard_time": 1765521021,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 164205,
@@ -17923,6 +17995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148205,
+      "num": 148205,
+      "word": "对喜欢的男生祛魅最好的方式就是抄",
+      "onboard_time": 1765518320,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148171,
       "num": 145122,
       "word": "香港火灾已致146人遇难",
@@ -19617,6 +19697,14 @@
       "onboard_time": 1765494557,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 137131,
+      "num": 137131,
+      "word": "不小心把简历发给上司了",
+      "onboard_time": 1765516521,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 137119,
@@ -21481,6 +21569,14 @@
       "onboard_time": 1765189460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127331,
+      "num": 127331,
+      "word": "刘嘉玲从来没洗过菜",
+      "onboard_time": 1765521021,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 127288,
@@ -23803,14 +23899,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 116823,
-      "num": 116823,
-      "word": "不小心把简历发给上司了",
-      "onboard_time": 1765516521,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116772,
       "num": 159939,
       "word": "凤凰台上 死了都要爱",
@@ -24827,14 +24915,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 112339,
-      "num": 112339,
-      "word": "对喜欢的男生祛魅最好的方式就是抄",
-      "onboard_time": 1765518320,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112335,
       "num": 122172,
       "word": "杨超越董思成新剧药味好足",
@@ -25185,6 +25265,14 @@
       "onboard_time": 1765275861,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110553,
+      "num": 105935,
+      "word": "惠英红回应和王一博陈都灵打包去花少",
+      "onboard_time": 1765521501,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 110420,
@@ -26089,6 +26177,14 @@
       "onboard_time": 1764905301,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106366,
+      "num": 106366,
+      "word": "日本年度汉字为熊",
+      "onboard_time": 1765521080,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106300,
@@ -27987,6 +28083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98628,
+      "num": 271006,
+      "word": "日本海军侵华多张照片首度曝光",
+      "onboard_time": 1765519220,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98551,
       "num": 112299,
       "word": "云南一地群内统计儿童母亲月经时间",
@@ -28049,6 +28153,14 @@
       "onboard_time": 1764601582,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98327,
+      "num": 98327,
+      "word": "梁淞 我平地生爱吗",
+      "onboard_time": 1765521261,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 98322,
@@ -30475,6 +30587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86138,
+      "num": 86138,
+      "word": "医院躺7年无名男子疑似家属现身",
+      "onboard_time": 1765519220,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86003,
       "num": 120642,
       "word": "美防长说忽视中国军力愚蠢且失敬",
@@ -30993,6 +31113,14 @@
       "onboard_time": 1764580222,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82990,
+      "num": 82990,
+      "word": "澳大利亚男子跳伞时伞缠在飞机尾部",
+      "onboard_time": 1765521561,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82964,
@@ -31539,6 +31667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78917,
+      "num": 203500,
+      "word": "王楚钦4比1A勒布伦",
+      "onboard_time": 1765520001,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78914,
       "num": 212338,
       "word": "怀沙女娲关键抢龙",
@@ -32081,6 +32217,14 @@
       "onboard_time": 1764641121,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74682,
+      "num": 199146,
+      "word": "明日方舟终末地定档PV",
+      "onboard_time": 1765519821,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 74660,
@@ -33299,6 +33443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63444,
+      "num": 106494,
+      "word": "日本队主动握手恭喜中国冰壶男队",
+      "onboard_time": 1765520661,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63308,
       "num": 1056099,
       "word": "zhe里太能装了",
@@ -34288,14 +34440,6 @@
       "word": "敖瑞鹏回应不二之臣路透大事很妙",
       "onboard_time": 1765210579,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54815,
-      "num": 205910,
-      "word": "回看花千骨 诡异",
-      "onboard_time": 1765517901,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -36651,6 +36795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38510,
+      "num": 207432,
+      "word": "田曦薇的明媚有四种颜色",
+      "onboard_time": 1765517662,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38468,
       "num": 256054,
       "word": "德国外长即将访华",
@@ -37267,6 +37419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34054,
+      "num": 106844,
+      "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
+      "onboard_time": 1765521441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34052,
       "num": 102240,
       "word": "王楚钦纠正自己的采访发言",
@@ -37745,14 +37905,6 @@
       "onboard_time": 1764758182,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31061,
-      "num": 207432,
-      "word": "田曦薇的明媚有四种颜色",
-      "onboard_time": 1765517662,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30998,

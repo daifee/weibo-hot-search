@@ -1,0 +1,410 @@
+{
+  "runTime": 1765521788357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327973,
+        "num": 1052475,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424013,
+        "num": 424013,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1765518920,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29488,
+        "num": 405982,
+        "word": "中央经济工作会议速览",
+        "onboard_time": 1765512623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165956,
+        "num": 352595,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 320422,
+        "word": "epic 免费游戏",
+        "onboard_time": 1765506621,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184242,
+        "num": 291574,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98628,
+        "num": 271006,
+        "word": "日本海军侵华多张照片首度曝光",
+        "onboard_time": 1765519220,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78917,
+        "num": 203500,
+        "word": "王楚钦4比1A勒布伦",
+        "onboard_time": 1765520001,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199158,
+        "num": 199158,
+        "word": "王楚钦晋级香港总决赛四强",
+        "onboard_time": 1765519881,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74682,
+        "num": 199146,
+        "word": "明日方舟终末地定档PV",
+        "onboard_time": 1765519821,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 854934,
+        "num": 198483,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 730662,
+        "num": 197959,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597178,
+        "num": 197238,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432519,
+        "num": 196958,
+        "word": "女子拒绝颈椎病手术当晚瘫痪",
+        "onboard_time": 1765518623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429728,
+        "num": 196207,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38510,
+        "num": 195580,
+        "word": "田曦薇的明媚有四种颜色",
+        "onboard_time": 1765517662,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315489,
+        "num": 195044,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411531,
+        "num": 194682,
+        "word": "刘嘉玲吐槽张柏芝没男友就想生娃",
+        "onboard_time": 1765518560,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263592,
+        "num": 194033,
+        "word": "北京的雪下大了",
+        "onboard_time": 1765515441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262955,
+        "num": 193334,
+        "word": "李昀锐 浙江跨晚大漏勺",
+        "onboard_time": 1765519342,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1314495,
+        "num": 193243,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206425,
+        "num": 192243,
+        "word": "人大899元书记严选羽绒服卖断货",
+        "onboard_time": 1765512321,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723792,
+        "num": 191840,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244356,
+        "num": 191706,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240089,
+        "num": 191144,
+        "word": "印度大学生情侣未婚先孕酿悲剧",
+        "onboard_time": 1765518200,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236871,
+        "num": 190362,
+        "word": "张碧晨连发9个捂嘴哭",
+        "onboard_time": 1765521382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213184,
+        "num": 189693,
+        "word": "保剑锋疑似阴阳黄慧颐",
+        "onboard_time": 1765517662,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189582,
+        "num": 189582,
+        "word": "宁静发火了",
+        "onboard_time": 1765515321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167568,
+        "num": 167568,
+        "word": "奶奶用暖气片烤苹果干",
+        "onboard_time": 1765507280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164220,
+        "num": 164220,
+        "word": "张艺兴影音人气双TOP",
+        "onboard_time": 1765521021,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148205,
+        "num": 148205,
+        "word": "对喜欢的男生祛魅最好的方式就是抄",
+        "onboard_time": 1765518320,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145832,
+        "num": 145832,
+        "word": "唐诡奇谭定档",
+        "onboard_time": 1765508119,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137131,
+        "num": 137131,
+        "word": "不小心把简历发给上司了",
+        "onboard_time": 1765516521,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136716,
+        "num": 136716,
+        "word": "梁淞鼓励何美延生理期爬山",
+        "onboard_time": 1765516102,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127331,
+        "num": 127331,
+        "word": "刘嘉玲从来没洗过菜",
+        "onboard_time": 1765521021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112283,
+        "num": 112283,
+        "word": "陈妍希建议女性不要为了结婚而结婚",
+        "onboard_time": 1765513101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110618,
+        "num": 110618,
+        "word": "玉娆你姐没告诉你莞字不好吗",
+        "onboard_time": 1765517423,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34054,
+        "num": 106844,
+        "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
+        "onboard_time": 1765521441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63444,
+        "num": 106494,
+        "word": "日本队主动握手恭喜中国冰壶男队",
+        "onboard_time": 1765520661,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106366,
+        "num": 106366,
+        "word": "日本年度汉字为熊",
+        "onboard_time": 1765521080,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110553,
+        "num": 105935,
+        "word": "惠英红回应和王一博陈都灵打包去花少",
+        "onboard_time": 1765521501,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100816,
+        "num": 100816,
+        "word": "双轨 精华速看版",
+        "onboard_time": 1765507218,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98327,
+        "num": 98327,
+        "word": "梁淞 我平地生爱吗",
+        "onboard_time": 1765521261,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98051,
+        "num": 98051,
+        "word": "哑舍",
+        "onboard_time": 1765507940,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95861,
+        "num": 95861,
+        "word": "R1SE官博发了12个闪电",
+        "onboard_time": 1765517241,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94489,
+        "num": 94489,
+        "word": "骄阳似我",
+        "onboard_time": 1765517542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91031,
+        "num": 91031,
+        "word": "00年出生的唯一红利",
+        "onboard_time": 1765514841,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86138,
+        "num": 86138,
+        "word": "医院躺7年无名男子疑似家属现身",
+        "onboard_time": 1765519220,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83891,
+        "num": 83891,
+        "word": "村民称异姓外孙子女改姓才能领补偿",
+        "onboard_time": 1765516641,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82990,
+        "num": 82990,
+        "word": "澳大利亚男子跳伞时伞缠在飞机尾部",
+        "onboard_time": 1765521561,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
