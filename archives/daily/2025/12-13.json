@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765571517374,
+  "endTime": 1765572290240,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 20354,
-      "num": 26000,
+      "num": 26657,
       "word": "双轨色调",
       "onboard_time": 1765569914,
       "rank": 21,
@@ -539,16 +539,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12213,
-      "num": 25945,
+      "raw_hot": 13167,
+      "num": 26588,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12446,
+      "num": 26563,
       "word": "一场被全球汽车圈围观的碰撞",
       "onboard_time": 1765555461,
       "rank": 42,
       "category": "汽车"
     },
     {
-      "raw_hot": 11627,
-      "num": 25938,
+      "raw_hot": 12279,
+      "num": 26552,
       "word": "周柯宇说李雾头皮一松是自己加的",
       "onboard_time": 1765570274,
       "rank": 45,
