@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765522636393,
+  "endTime": 1765524606273,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -5051,6 +5051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 441951,
+      "num": 158171,
+      "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
+      "onboard_time": 1765521441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441578,
       "num": 339408,
       "word": "霍建华朱珠 好标准的男人和女人",
@@ -6283,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377792,
+      "num": 263301,
+      "word": "张碧晨连发9个捂嘴哭",
+      "onboard_time": 1765521382,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377737,
       "num": 194519,
       "word": "神20返回舱玻璃裂纹是个三角形",
@@ -6441,6 +6457,14 @@
       "onboard_time": 1764504381,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368479,
+      "num": 1058956,
+      "word": "日本年度汉字为熊",
+      "onboard_time": 1765521080,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 368323,
@@ -7859,6 +7883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315061,
+      "num": 154561,
+      "word": "为什么我们停止不了视奸",
+      "onboard_time": 1765523001,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314996,
       "num": 262471,
       "word": "老吃家情侣不需要漂亮饭",
@@ -7985,6 +8017,14 @@
       "onboard_time": 1764757702,
       "rank": 32,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 309826,
+      "num": 252966,
+      "word": "研究发现1天已不足24小时",
+      "onboard_time": 1765522101,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 309455,
@@ -8297,14 +8337,6 @@
       "onboard_time": 1765007842,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297890,
-      "num": 263301,
-      "word": "张碧晨连发9个捂嘴哭",
-      "onboard_time": 1765521382,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 297530,
@@ -9675,14 +9707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 252966,
-      "num": 252966,
-      "word": "研究发现1天已不足24小时",
-      "onboard_time": 1765522101,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 252817,
       "num": 148046,
       "word": "刘亦菲洪世贤 全女回家的诱惑",
@@ -9969,6 +9993,14 @@
       "onboard_time": 1764595043,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242859,
+      "num": 149447,
+      "word": "痞幼9年前旧照",
+      "onboard_time": 1765523962,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 242787,
@@ -15315,6 +15347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169663,
+      "num": 169663,
+      "word": "王曼昱4比1朱芊曦",
+      "onboard_time": 1765523900,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169573,
       "num": 169573,
       "word": "路人视角的张子萱",
@@ -16081,14 +16121,6 @@
       "onboard_time": 1765361302,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163338,
-      "num": 290611,
-      "word": "日本年度汉字为熊",
-      "onboard_time": 1765521080,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163210,
@@ -18067,6 +18099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147754,
+      "num": 147754,
+      "word": "苏新皓晒北京的雪",
+      "onboard_time": 1765524321,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147739,
       "num": 147739,
       "word": "大爷配的药完美解决了全菌操作",
@@ -19017,6 +19057,14 @@
       "onboard_time": 1764945562,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141011,
+      "num": 141011,
+      "word": "白鹿杨紫田曦薇25年度扛剧花",
+      "onboard_time": 1765522701,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140948,
@@ -20649,6 +20697,14 @@
       "onboard_time": 1765352842,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 132285,
+      "num": 279511,
+      "word": "王曼昱vs朱芊曦",
+      "onboard_time": 1765521920,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 132254,
@@ -22515,6 +22571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122665,
+      "num": 122665,
+      "word": "下雪后人体7成的热量从头部散发",
+      "onboard_time": 1765523302,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122641,
       "num": 143044,
       "word": "国乒8比0韩国",
@@ -23609,14 +23673,6 @@
       "onboard_time": 1765072880,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118228,
-      "num": 279511,
-      "word": "王曼昱vs朱芊曦",
-      "onboard_time": 1765521920,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 118191,
@@ -25075,6 +25131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111838,
+      "num": 111838,
+      "word": "腾讯12月抬了两部双男主",
+      "onboard_time": 1765523962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111834,
       "num": 190211,
       "word": "周深举这牌班味一下就上来了",
@@ -25865,6 +25929,14 @@
       "onboard_time": 1764840442,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108130,
+      "num": 108130,
+      "word": "梁淞的亲亲来得猝不及防",
+      "onboard_time": 1765518200,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108121,
@@ -26785,6 +26857,14 @@
       "onboard_time": 1765084400,
       "rank": 46,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 103952,
+      "num": 110521,
+      "word": "郑恺苗苗一家游迪士尼",
+      "onboard_time": 1765522223,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 103942,
@@ -28259,14 +28339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 98082,
-      "num": 110521,
-      "word": "郑恺苗苗一家游迪士尼",
-      "onboard_time": 1765522223,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97963,
       "num": 97963,
       "word": "反向催婚成功让我妈没招了",
@@ -28329,6 +28401,14 @@
       "onboard_time": 1764650362,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97492,
+      "num": 110149,
+      "word": "何赛飞说为了孩子应该尽量不离婚",
+      "onboard_time": 1765523421,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 97490,
@@ -28465,6 +28545,14 @@
       "onboard_time": 1765165401,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96936,
+      "num": 96936,
+      "word": "王曼昱WTT单打第100胜",
+      "onboard_time": 1765524500,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96900,
@@ -30089,14 +30177,6 @@
       "onboard_time": 1765450281,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89236,
-      "num": 113079,
-      "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
-      "onboard_time": 1765521441,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89232,
@@ -31923,6 +32003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77376,
+      "num": 109413,
+      "word": "33岁男子娶了20岁外国模特",
+      "onboard_time": 1765524141,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77272,
       "num": 77272,
       "word": "考编第一因学历重叠落选是否有猫腻",
@@ -32897,6 +32985,14 @@
       "onboard_time": 1765347623,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69432,
+      "num": 111576,
+      "word": "北京初雪故宫一步三个格格",
+      "onboard_time": 1765523841,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69424,
@@ -35497,6 +35593,14 @@
       "onboard_time": 1765496178,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47139,
+      "num": 152100,
+      "word": "苏翊鸣喊你开板啦",
+      "onboard_time": 1765523361,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 47072,
@@ -39651,6 +39755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19082,
+      "num": 90889,
+      "word": "天不亮学生集合在路灯下读书",
+      "onboard_time": 1765522821,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19078,
       "num": 127785,
       "word": "以色列民众在总统官邸外集会抗议",
@@ -40203,6 +40315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14776,
+      "num": 110981,
+      "word": "老人自称眼盲求助多位路人女孩带路",
+      "onboard_time": 1765524021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14760,
       "num": 384231,
       "word": "劲酒直播间称月经期间不能喝",
@@ -40697,6 +40817,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9175,
+      "num": 152221,
+      "word": "中央明确明年优化药品集中采购",
+      "onboard_time": 1765523900,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8688,
