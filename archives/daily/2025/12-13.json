@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765567470357,
+  "endTime": 1765568355678,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -523,7 +523,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9446,
+      "raw_hot": 13873,
+      "num": 33318,
+      "word": "KPL",
+      "onboard_time": 1765540702,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 9543,
       "num": 81974,
       "word": "中央经济工作会议要点学习笔记",
       "onboard_time": 1765530621,
