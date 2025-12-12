@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765511213829,
+  "endTime": 1765512063618,
   "band_list": [
     {
       "raw_hot": 944624,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598855,
+      "num": 553338,
+      "word": "epic 免费游戏",
+      "onboard_time": 1765506621,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 592492,
       "num": 592492,
       "word": "美国想和中俄印日组建核心五国",
       "onboard_time": 1765505539,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 553338,
-      "num": 553338,
-      "word": "epic 免费游戏",
-      "onboard_time": 1765506621,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 549259,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485480,
+      "num": 485480,
+      "word": "奶奶用暖气片烤苹果干",
+      "onboard_time": 1765507280,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458448,
       "num": 183038,
       "word": "村支书卖小米被投诉",
@@ -105,6 +113,14 @@
       "onboard_time": 1765460543,
       "rank": 3,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 448479,
+      "num": 227406,
+      "word": "张天爱送了全团队CHANEL",
+      "onboard_time": 1765509021,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 432217,
@@ -137,14 +153,6 @@
       "onboard_time": 1765464622,
       "rank": 5,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 395679,
-      "num": 395679,
-      "word": "奶奶用暖气片烤苹果干",
-      "onboard_time": 1765507280,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 385317,
@@ -184,14 +192,6 @@
       "word": "郭碧婷回应与向佐分居两地",
       "onboard_time": 1765500859,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 365411,
-      "num": 227406,
-      "word": "张天爱送了全团队CHANEL",
-      "onboard_time": 1765509021,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -283,20 +283,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267396,
+      "num": 207304,
+      "word": "不齐舞团创始人37岁舞龄20年",
+      "onboard_time": 1765509982,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 266638,
       "num": 193491,
       "word": "偶遇王一博新疆滑雪",
       "onboard_time": 1765503800,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262749,
-      "num": 207304,
-      "word": "不齐舞团创始人37岁舞龄20年",
-      "onboard_time": 1765509982,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 260359,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193871,
+      "num": 182567,
+      "word": "00后女子因积怨偷婆婆43万花光",
+      "onboard_time": 1765509920,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192944,
       "num": 192944,
       "word": "税务局回应5000万网红逃税被举报",
@@ -425,6 +433,14 @@
       "onboard_time": 1765470678,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190278,
+      "num": 183351,
+      "word": "双轨疑似变短剧了",
+      "onboard_time": 1765511780,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 189765,
@@ -467,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182567,
-      "num": 182567,
-      "word": "00后女子因积怨偷婆婆43万花光",
-      "onboard_time": 1765509920,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180349,
       "num": 180349,
       "word": "陈星旭关注迪丽热巴",
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173529,
+      "num": 173529,
+      "word": "陈妍希你不仅能当家长还能当老婆",
+      "onboard_time": 1765511660,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172943,
       "num": 172943,
       "word": "原来你的床上已经有猫了",
@@ -499,12 +515,52 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172908,
+      "num": 172908,
+      "word": "不去演唱会的钱省下来可以看演唱会",
+      "onboard_time": 1765511601,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "唐朝诡事录",
+      "onboard_time": 1765507940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169315,
+      "num": 169315,
+      "word": "欢迎来到蘑菇屋",
+      "onboard_time": 1765511540,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164793,
+      "num": 164793,
+      "word": "宋雨琦王楚然民族风服饰牵手亮相",
+      "onboard_time": 1765511001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164190,
       "num": 181281,
       "word": "日本发布紧急地震预警",
       "onboard_time": 1765509439,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160387,
+      "num": 160387,
+      "word": "美国要建C5世界惊了欧洲懵了",
+      "onboard_time": 1765511540,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155595,
@@ -539,14 +595,6 @@
       "category": "游戏,游戏"
     },
     {
-      "raw_hot": 149960,
-      "num": 149960,
-      "word": "唐朝诡事录",
-      "onboard_time": 1765507940,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145059,
       "num": 145059,
       "word": "一家五口靠薅商场停车羊毛转卖获利",
@@ -563,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141850,
+      "num": 141850,
+      "word": "谁教王一博这样撒娇的",
+      "onboard_time": 1765511421,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "肖战说过哪有那么多的设计",
@@ -577,6 +633,14 @@
       "onboard_time": 1765494557,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 137075,
+      "num": 137075,
+      "word": "日本已发布海啸预警",
+      "onboard_time": 1765511421,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136495,
@@ -603,6 +667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132480,
+      "num": 245313,
+      "word": "96岁南京大屠杀幸存者说我还要讲",
+      "onboard_time": 1765510339,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131406,
       "num": 131406,
       "word": "拉瑞安新作",
@@ -617,14 +689,6 @@
       "onboard_time": 1765504639,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126905,
-      "num": 126905,
-      "word": "宋雨琦王楚然民族风服饰牵手亮相",
-      "onboard_time": 1765511001,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 126743,
@@ -779,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96638,
+      "num": 141005,
+      "word": "女子称遭酒店前台凌晨刷卡进房猥亵",
+      "onboard_time": 1765510581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93861,
       "num": 93861,
       "word": "南京大屠杀真实存在任何人抹杀不了",
@@ -801,14 +873,6 @@
       "onboard_time": 1765472838,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88250,
-      "num": 126746,
-      "word": "女子称遭酒店前台凌晨刷卡进房猥亵",
-      "onboard_time": 1765510581,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84305,
@@ -1099,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56087,
+      "num": 223114,
+      "word": "住院7年半无名男子已用医疗救助金",
+      "onboard_time": 1765510640,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55106,
       "num": 55106,
       "word": "陈星旭 炎拓的孤勇打动着我",
@@ -1163,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49352,
+      "num": 216812,
+      "word": "李某春有自首情节且获谅解",
+      "onboard_time": 1765510460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48443,
       "num": 93284,
       "word": "王一博大魔王年终结算画面",
@@ -1211,14 +1291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44386,
-      "num": 216812,
-      "word": "李某春有自首情节且获谅解",
-      "onboard_time": 1765510460,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43000,
       "num": 43000,
       "word": "戳爷怎么变老了",
@@ -1243,14 +1315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36639,
-      "num": 223114,
-      "word": "住院7年半无名男子已用医疗救助金",
-      "onboard_time": 1765510640,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36316,
       "num": 139930,
       "word": "孙颖莎vs王艺迪",
@@ -1265,14 +1329,6 @@
       "onboard_time": 1765460482,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34712,
-      "num": 245313,
-      "word": "96岁南京大屠杀幸存者说我还要讲",
-      "onboard_time": 1765510339,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32620,
@@ -1291,11 +1347,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31247,
+      "num": 164223,
+      "word": "永辉上架听妈妈话竹鞭",
+      "onboard_time": 1765510879,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29592,
       "num": 193230,
       "word": "高市早苗内阁高官再曝丑闻",
       "onboard_time": 1765505721,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29435,
+      "num": 181433,
+      "word": "张家界荒野赛8人平分48万奖金",
+      "onboard_time": 1765511842,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29139,
+      "num": 163929,
+      "word": "日本在机场打广告卖武器",
+      "onboard_time": 1765511540,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -1324,7 +1404,7 @@
     },
     {
       "raw_hot": 24810,
-      "num": 39086,
+      "num": 197542,
       "word": "必须以苦练内功来应对外部挑战",
       "onboard_time": 1765477575,
       "rank": 41,
@@ -1427,17 +1507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11403,
-      "num": 126824,
-      "word": "永辉上架听妈妈话竹鞭",
-      "onboard_time": 1765510879,
-      "rank": 38,
+      "raw_hot": 11612,
+      "num": 550574,
+      "word": "2026中国经济工作怎么干",
+      "onboard_time": 1765511901,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#2025中央经济工作会议#"
+    },
+    {
+      "word": "#中央经济工作会议#"
     }
   ]
 }

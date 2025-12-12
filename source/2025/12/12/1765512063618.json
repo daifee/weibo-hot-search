@@ -1,0 +1,410 @@
+{
+  "runTime": 1765512063618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909544,
+        "num": 1145527,
+        "word": "唐诡奇谭定档",
+        "onboard_time": 1765508119,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565604,
+        "num": 565604,
+        "word": "美国想和中俄印日组建核心五国",
+        "onboard_time": 1765505539,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11612,
+        "num": 550574,
+        "word": "2026中国经济工作怎么干",
+        "onboard_time": 1765511901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598855,
+        "num": 549649,
+        "word": "epic 免费游戏",
+        "onboard_time": 1765506621,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544060,
+        "num": 544060,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780482,
+        "num": 539269,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485480,
+        "num": 485480,
+        "word": "奶奶用暖气片烤苹果干",
+        "onboard_time": 1765507280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244675,
+        "num": 244675,
+        "word": "感觉时间越来越快不是错觉",
+        "onboard_time": 1765502421,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 10751,
+        "num": 197542,
+        "word": "必须以苦练内功来应对外部挑战",
+        "onboard_time": 1765477575,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189403,
+        "num": 189403,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1765509381,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 465002,
+        "num": 189170,
+        "word": "双轨 精华速看版",
+        "onboard_time": 1765507218,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448479,
+        "num": 188388,
+        "word": "张天爱送了全团队CHANEL",
+        "onboard_time": 1765509021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418708,
+        "num": 187966,
+        "word": "删了吧我有个单身的朋友破防了",
+        "onboard_time": 1765496057,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398519,
+        "num": 187603,
+        "word": "哑舍",
+        "onboard_time": 1765507940,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392892,
+        "num": 187080,
+        "word": "周柯宇编辑刘宇宁法令纹",
+        "onboard_time": 1765499301,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305815,
+        "num": 186483,
+        "word": "灌面汤案丈夫取得被害人亲属谅解",
+        "onboard_time": 1765507099,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20272,
+        "num": 186140,
+        "word": "这些大国重器震撼人心",
+        "onboard_time": 1765460752,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48615,
+        "num": 185601,
+        "word": "你的手机也能秒变AI手机",
+        "onboard_time": 1765508481,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251341,
+        "num": 184956,
+        "word": "郭柯宇说李施嬅还好没结婚",
+        "onboard_time": 1765509561,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132480,
+        "num": 184337,
+        "word": "96岁南京大屠杀幸存者说我还要讲",
+        "onboard_time": 1765510339,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 183998,
+        "word": "王一博上完山开始下海了",
+        "onboard_time": 1765510820,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190278,
+        "num": 183351,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432238,
+        "num": 182891,
+        "word": "VOGUE替刘雯井柏然官宣了",
+        "onboard_time": 1765506201,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 267396,
+        "num": 182554,
+        "word": "不齐舞团创始人37岁舞龄20年",
+        "onboard_time": 1765509982,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201655,
+        "num": 181972,
+        "word": "日本远海6.7级左右地震",
+        "onboard_time": 1765509080,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29435,
+        "num": 181433,
+        "word": "张家界荒野赛8人平分48万奖金",
+        "onboard_time": 1765511842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56087,
+        "num": 181116,
+        "word": "住院7年半无名男子已用医疗救助金",
+        "onboard_time": 1765510640,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49352,
+        "num": 180244,
+        "word": "李某春有自首情节且获谅解",
+        "onboard_time": 1765510460,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193871,
+        "num": 180043,
+        "word": "00后女子因积怨偷婆婆43万花光",
+        "onboard_time": 1765509920,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179588,
+        "num": 179588,
+        "word": "TGA直播",
+        "onboard_time": 1765500680,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173529,
+        "num": 173529,
+        "word": "陈妍希你不仅能当家长还能当老婆",
+        "onboard_time": 1765511660,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172908,
+        "num": 172908,
+        "word": "不去演唱会的钱省下来可以看演唱会",
+        "onboard_time": 1765511601,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "唐朝诡事录",
+        "onboard_time": 1765507940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169315,
+        "num": 169315,
+        "word": "欢迎来到蘑菇屋",
+        "onboard_time": 1765511540,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161391,
+        "num": 166154,
+        "word": "龙族第二季大结局",
+        "onboard_time": 1765510760,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166075,
+        "num": 166075,
+        "word": "嫁金钗",
+        "onboard_time": 1765505539,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163407,
+        "num": 165288,
+        "word": "成毅长安二十四计首播",
+        "onboard_time": 1765509982,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164793,
+        "num": 164793,
+        "word": "宋雨琦王楚然民族风服饰牵手亮相",
+        "onboard_time": 1765511001,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31247,
+        "num": 164223,
+        "word": "永辉上架听妈妈话竹鞭",
+        "onboard_time": 1765510879,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29139,
+        "num": 163929,
+        "word": "日本在机场打广告卖武器",
+        "onboard_time": 1765511540,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163921,
+        "num": 163921,
+        "word": "曝短剧某女演员卸了妆脸上全是闭口",
+        "onboard_time": 1765497918,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160387,
+        "num": 160387,
+        "word": "美国要建C5世界惊了欧洲懵了",
+        "onboard_time": 1765511540,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148918,
+        "num": 148918,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765499900,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142547,
+        "num": 142547,
+        "word": "日本发布紧急地震预警",
+        "onboard_time": 1765509439,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141850,
+        "num": 141850,
+        "word": "谁教王一博这样撒娇的",
+        "onboard_time": 1765511421,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96638,
+        "num": 141005,
+        "word": "女子称遭酒店前台凌晨刷卡进房猥亵",
+        "onboard_time": 1765510581,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140796,
+        "num": 140942,
+        "word": "TGA2025",
+        "onboard_time": 1765503979,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140911,
+        "num": 140911,
+        "word": "鸣潮获TGA玩家之声",
+        "onboard_time": 1765510221,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139918,
+        "num": 139918,
+        "word": "郭碧婷回应与向佐分居两地",
+        "onboard_time": 1765500859,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137075,
+        "num": 137075,
+        "word": "日本已发布海啸预警",
+        "onboard_time": 1765511421,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
