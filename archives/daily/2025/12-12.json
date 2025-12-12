@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765515261336,
+  "endTime": 1765517393361,
   "band_list": [
     {
       "raw_hot": 1282404,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069742,
+      "num": 241782,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1765512441,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 944624,
       "num": 1151139,
       "word": "唐诡奇谭定档",
       "onboard_time": 1765508119,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 943981,
+      "num": 180482,
+      "word": "张柏芝 我要生到不能生为止",
+      "onboard_time": 1765515142,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 882698,
@@ -59,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 648857,
-      "num": 241782,
-      "word": "比单休更恶心的是月休4天",
-      "onboard_time": 1765512441,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 617307,
+      "num": 166893,
+      "word": "陈妍希爸爸将陈晓以半子待之",
+      "onboard_time": 1765515862,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 598855,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 549259,
-      "num": 549259,
+      "num": 1076198,
       "word": "北京下雪",
       "onboard_time": 1765506621,
       "rank": 4,
@@ -171,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415476,
+      "num": 242782,
+      "word": "北京的雪下大了",
+      "onboard_time": 1765515441,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414412,
       "num": 256549,
       "word": "凭煮蛋涨粉356万博主回应爆红",
       "onboard_time": 1765464622,
       "rank": 5,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 394762,
+      "num": 168553,
+      "word": "宁静发火了",
+      "onboard_time": 1765515321,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 385317,
@@ -211,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374400,
+      "num": 338265,
+      "word": "故宫",
+      "onboard_time": 1765512860,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 373232,
       "num": 218666,
       "word": "村支书卖小米被投诉下架",
@@ -243,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328106,
+      "num": 328106,
+      "word": "人大899元书记严选羽绒服卖断货",
+      "onboard_time": 1765512321,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320376,
       "num": 193149,
       "word": "曝短剧某女演员卸了妆脸上全是闭口",
@@ -257,14 +305,6 @@
       "onboard_time": 1765445481,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314182,
-      "num": 233042,
-      "word": "人大899元书记严选羽绒服卖断货",
-      "onboard_time": 1765512321,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312194,
@@ -411,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242956,
-      "num": 242956,
-      "word": "故宫",
-      "onboard_time": 1765512860,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 239965,
       "num": 193444,
       "word": "张本智和说樊振东是自己的偶像",
@@ -505,6 +537,14 @@
       "onboard_time": 1765511842,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201356,
+      "num": 167662,
+      "word": "梁淞鼓励何美延生理期爬山",
+      "onboard_time": 1765516102,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 198659,
@@ -707,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166585,
+      "num": 166585,
+      "word": "33以貌取猫",
+      "onboard_time": 1765517301,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165391,
       "num": 215606,
       "word": "干部用个人收款码10年侵吞993万获刑",
@@ -835,20 +883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "2025票房号召力男演员TOP30",
+      "onboard_time": 1765516461,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "肖战说过哪有那么多的设计",
       "onboard_time": 1765499721,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137680,
-      "num": 180482,
-      "word": "张柏芝 我要生到不能生为止",
-      "onboard_time": 1765515142,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 137268,
@@ -891,6 +939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133721,
+      "num": 133721,
+      "word": "徐冬冬和准婆婆在洛杉矶吃夜宵",
+      "onboard_time": 1765515502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132480,
       "num": 245313,
       "word": "96岁南京大屠杀幸存者说我还要讲",
@@ -905,6 +961,14 @@
       "onboard_time": 1765505299,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130476,
+      "num": 130476,
+      "word": "R1SE官博发了12个闪电",
+      "onboard_time": 1765517241,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 126928,
@@ -971,6 +1035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119814,
+      "num": 119814,
+      "word": "鸣潮TGA玩家之声卡片好帅",
+      "onboard_time": 1765517301,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118718,
       "num": 118718,
       "word": "老魔丸生了个小魔丸",
@@ -987,12 +1059,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117272,
+      "num": 117272,
+      "word": "这比周五下午还要难熬",
+      "onboard_time": 1765513942,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114670,
       "num": 124088,
       "word": "狙击蝴蝶试衣间吻",
       "onboard_time": 1765509920,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114448,
+      "num": 114448,
+      "word": "陈熠vs陈幸同",
+      "onboard_time": 1765516341,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114241,
+      "num": 114241,
+      "word": "刘宪华新身份",
+      "onboard_time": 1765517301,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114071,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1765408278,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 82342,
+      "num": 119874,
+      "word": "张柏芝谈浪姐很苦很苦很苦",
+      "onboard_time": 1765516822,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 81163,
@@ -1563,6 +1667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45883,
+      "num": 114316,
+      "word": "乘客落东西司机想打表送被指想捞钱",
+      "onboard_time": 1765516041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45353,
+      "num": 167331,
+      "word": "村民称异姓外孙子女改姓才能领补偿",
+      "onboard_time": 1765516641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44461,
       "num": 54072,
       "word": "萝卜事业运",
@@ -1608,6 +1728,14 @@
       "word": "初雪就要来了",
       "onboard_time": 1765460482,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32909,
+      "num": 107865,
+      "word": "老爸帮儿子征婚招来杀猪盘",
+      "onboard_time": 1765515622,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1723,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22257,
+      "num": 119992,
+      "word": "中韩民间密集行动要求日本道歉赔偿",
+      "onboard_time": 1765517361,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20878,
       "num": 572585,
       "word": "这些大国重器震撼人心",
@@ -1761,6 +1897,14 @@
       "onboard_time": 1765492215,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14304,
+      "num": 119819,
+      "word": "警方回应博主打假遭店主持刀驱赶",
+      "onboard_time": 1765517181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13651,

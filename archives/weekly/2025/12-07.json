@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765515261336,
+  "endTime": 1765517393361,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069742,
+      "num": 241782,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1765512441,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1064423,
       "num": 252447,
       "word": "虞书欣父亲维权索赔17万",
@@ -529,6 +537,14 @@
       "onboard_time": 1765508119,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 943981,
+      "num": 180482,
+      "word": "张柏芝 我要生到不能生为止",
+      "onboard_time": 1765515142,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 943665,
@@ -1203,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 648857,
-      "num": 241782,
-      "word": "比单休更恶心的是月休4天",
-      "onboard_time": 1765512441,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 643465,
       "num": 643465,
       "word": "浙江卫视工作人员聊天记录",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1765117884,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617307,
+      "num": 166893,
+      "word": "陈妍希爸爸将陈晓以半子待之",
+      "onboard_time": 1765515862,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 616114,
@@ -1564,7 +1580,7 @@
     },
     {
       "raw_hot": 549259,
-      "num": 549259,
+      "num": 1076198,
       "word": "北京下雪",
       "onboard_time": 1765506621,
       "rank": 4,
@@ -2587,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415476,
+      "num": 242782,
+      "word": "北京的雪下大了",
+      "onboard_time": 1765515441,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414764,
       "num": 384355,
       "word": "唐山地震",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1765100541,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394762,
+      "num": 168553,
+      "word": "宁静发火了",
+      "onboard_time": 1765515321,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 394597,
@@ -2961,6 +2993,14 @@
       "onboard_time": 1765152620,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374400,
+      "num": 338265,
+      "word": "故宫",
+      "onboard_time": 1765512860,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 373232,
@@ -3475,6 +3515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328106,
+      "num": 328106,
+      "word": "人大899元书记严选羽绒服卖断货",
+      "onboard_time": 1765512321,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327892,
       "num": 293949,
       "word": "外来媳妇本地郎大结局",
@@ -3681,14 +3729,6 @@
       "onboard_time": 1765457240,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314182,
-      "num": 233042,
-      "word": "人大899元书记严选羽绒服卖断货",
-      "onboard_time": 1765512321,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312194,
@@ -4657,14 +4697,6 @@
       "onboard_time": 1765367422,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 242956,
-      "num": 242956,
-      "word": "故宫",
-      "onboard_time": 1765512860,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 242787,
@@ -5793,6 +5825,14 @@
       "onboard_time": 1765085181,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201356,
+      "num": 167662,
+      "word": "梁淞鼓励何美延生理期爬山",
+      "onboard_time": 1765516102,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 201196,
@@ -7273,6 +7313,14 @@
       "onboard_time": 1765102160,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166585,
+      "num": 166585,
+      "word": "33以貌取猫",
+      "onboard_time": 1765517301,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 166570,
@@ -8851,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "2025票房号召力男演员TOP30",
+      "onboard_time": 1765516461,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140337,
       "num": 140337,
       "word": "余承东回应首款MPV落地智界",
@@ -9121,14 +9177,6 @@
       "onboard_time": 1765455921,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137680,
-      "num": 180482,
-      "word": "张柏芝 我要生到不能生为止",
-      "onboard_time": 1765515142,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 137598,
@@ -9491,6 +9539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133721,
+      "num": 133721,
+      "word": "徐冬冬和准婆婆在洛杉矶吃夜宵",
+      "onboard_time": 1765515502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133679,
       "num": 133679,
       "word": "得闲谨制一星高赞ip是海外",
@@ -9777,6 +9833,14 @@
       "onboard_time": 1765355781,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130476,
+      "num": 130476,
+      "word": "R1SE官博发了12个闪电",
+      "onboard_time": 1765517241,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 130365,
@@ -10859,6 +10923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119814,
+      "num": 119814,
+      "word": "鸣潮TGA玩家之声卡片好帅",
+      "onboard_time": 1765517301,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "有个叫微信支付的一直在花我钱",
@@ -11203,6 +11275,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117272,
+      "num": 117272,
+      "word": "这比周五下午还要难熬",
+      "onboard_time": 1765513942,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117133,
       "num": 117133,
       "word": "BLG官宣shad0w离队",
@@ -11507,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114448,
+      "num": 114448,
+      "word": "陈熠vs陈幸同",
+      "onboard_time": 1765516341,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114428,
       "num": 114428,
       "word": "林诗栋亲吻胸前国旗",
@@ -11545,6 +11633,14 @@
       "onboard_time": 1765166361,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114241,
+      "num": 114241,
+      "word": "刘宪华新身份",
+      "onboard_time": 1765517301,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114223,
@@ -14795,6 +14891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82342,
+      "num": 119874,
+      "word": "张柏芝谈浪姐很苦很苦很苦",
+      "onboard_time": 1765516822,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81942,
       "num": 120043,
       "word": "爷爷奶奶带大的孩子最看不得这种",
@@ -16995,6 +17099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45883,
+      "num": 114316,
+      "word": "乘客落东西司机想打表送被指想捞钱",
+      "onboard_time": 1765516041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45843,
       "num": 222395,
       "word": "张水华家人称对处分不评价",
@@ -17048,6 +17160,14 @@
       "word": "灌面汤杀妻案凶手认罪认罚",
       "onboard_time": 1765293682,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45353,
+      "num": 167331,
+      "word": "村民称异姓外孙子女改姓才能领补偿",
+      "onboard_time": 1765516641,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -17915,6 +18035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32909,
+      "num": 107865,
+      "word": "老爸帮儿子征婚招来杀猪盘",
+      "onboard_time": 1765515622,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32818,
       "num": 117200,
       "word": "李昀锐 内娱脸蛋天才",
@@ -18779,6 +18907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22257,
+      "num": 119992,
+      "word": "中韩民间密集行动要求日本道歉赔偿",
+      "onboard_time": 1765517361,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22236,
       "num": 388075,
       "word": "盘点2025持续火出圈的非遗",
@@ -19288,6 +19424,14 @@
       "word": "北方多地将迎来强雨雪",
       "onboard_time": 1765304294,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14304,
+      "num": 119819,
+      "word": "警方回应博主打假遭店主持刀驱赶",
+      "onboard_time": 1765517181,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

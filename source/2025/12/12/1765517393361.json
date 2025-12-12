@@ -1,0 +1,410 @@
+{
+  "runTime": 1765517393361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 476240,
+        "num": 1076198,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370048,
+        "num": 370048,
+        "word": "唐诡奇谭定档",
+        "onboard_time": 1765508119,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35350,
+        "num": 338907,
+        "word": "中央经济工作会议速览",
+        "onboard_time": 1765512623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374400,
+        "num": 338265,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 328106,
+        "num": 328106,
+        "word": "人大899元书记严选羽绒服卖断货",
+        "onboard_time": 1765512321,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284020,
+        "num": 284020,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257797,
+        "num": 257797,
+        "word": "奶奶用暖气片烤苹果干",
+        "onboard_time": 1765507280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415476,
+        "num": 242782,
+        "word": "北京的雪下大了",
+        "onboard_time": 1765515441,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169723,
+        "num": 169723,
+        "word": "感觉时间越来越快不是错觉",
+        "onboard_time": 1765502421,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155754,
+        "num": 169665,
+        "word": "epic 免费游戏",
+        "onboard_time": 1765506621,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1108743,
+        "num": 169465,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1069742,
+        "num": 169182,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 943981,
+        "num": 168952,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575569,
+        "num": 168791,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394762,
+        "num": 168553,
+        "word": "宁静发火了",
+        "onboard_time": 1765515321,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376847,
+        "num": 168247,
+        "word": "美国要建C5世界惊了欧洲懵了",
+        "onboard_time": 1765511540,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355268,
+        "num": 167937,
+        "word": "陈妍希建议女性不要为了结婚而结婚",
+        "onboard_time": 1765513101,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207798,
+        "num": 167768,
+        "word": "周柯宇编辑刘宇宁法令纹",
+        "onboard_time": 1765499301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201356,
+        "num": 167662,
+        "word": "梁淞鼓励何美延生理期爬山",
+        "onboard_time": 1765516102,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45353,
+        "num": 167331,
+        "word": "村民称异姓外孙子女改姓才能领补偿",
+        "onboard_time": 1765516641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 167204,
+        "word": "孩子哭的那一刻去不去已经没意义了",
+        "onboard_time": 1765511780,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617307,
+        "num": 166893,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171461,
+        "num": 166713,
+        "word": "邵子恒自曝回家不敢关房门",
+        "onboard_time": 1765513280,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166585,
+        "num": 166585,
+        "word": "33以貌取猫",
+        "onboard_time": 1765517301,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157286,
+        "num": 157286,
+        "word": "删了吧我有个单身的朋友破防了",
+        "onboard_time": 1765496057,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156572,
+        "num": 156572,
+        "word": "双轨 精华速看版",
+        "onboard_time": 1765507218,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155694,
+        "num": 155694,
+        "word": "VOGUE替刘雯井柏然官宣了",
+        "onboard_time": 1765506201,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142857,
+        "num": 142857,
+        "word": "哑舍",
+        "onboard_time": 1765507940,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141403,
+        "num": 141403,
+        "word": "张天爱送了全团队CHANEL",
+        "onboard_time": 1765509021,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140439,
+        "num": 140439,
+        "word": "2025票房号召力男演员TOP30",
+        "onboard_time": 1765516461,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135812,
+        "num": 135812,
+        "word": "给热巴的是蓝莓 给星旭的是烂霉",
+        "onboard_time": 1765514122,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133721,
+        "num": 133721,
+        "word": "徐冬冬和准婆婆在洛杉矶吃夜宵",
+        "onboard_time": 1765515502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132559,
+        "num": 132559,
+        "word": "TGA2025年度游戏",
+        "onboard_time": 1765513942,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "R1SE官博发了12个闪电",
+        "onboard_time": 1765517241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124072,
+        "num": 124072,
+        "word": "灌面汤案丈夫取得被害人亲属谅解",
+        "onboard_time": 1765507099,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127726,
+        "num": 122753,
+        "word": "嫁金钗",
+        "onboard_time": 1765505539,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120915,
+        "num": 120915,
+        "word": "00年出生的唯一红利",
+        "onboard_time": 1765514841,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22257,
+        "num": 119992,
+        "word": "中韩民间密集行动要求日本道歉赔偿",
+        "onboard_time": 1765517361,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82342,
+        "num": 119874,
+        "word": "张柏芝谈浪姐很苦很苦很苦",
+        "onboard_time": 1765516822,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14304,
+        "num": 119819,
+        "word": "警方回应博主打假遭店主持刀驱赶",
+        "onboard_time": 1765517181,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "鸣潮TGA玩家之声卡片好帅",
+        "onboard_time": 1765517301,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121729,
+        "num": 118991,
+        "word": "星光大赏投票",
+        "onboard_time": 1765497140,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117272,
+        "num": 117272,
+        "word": "这比周五下午还要难熬",
+        "onboard_time": 1765513942,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118716,
+        "num": 115934,
+        "word": "不齐舞团创始人37岁舞龄20年",
+        "onboard_time": 1765509982,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114448,
+        "num": 114448,
+        "word": "陈熠vs陈幸同",
+        "onboard_time": 1765516341,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45883,
+        "num": 114316,
+        "word": "乘客落东西司机想打表送被指想捞钱",
+        "onboard_time": 1765516041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 114241,
+        "word": "刘宪华新身份",
+        "onboard_time": 1765517301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111496,
+        "num": 111496,
+        "word": "王俊凯 喜羊羊塑",
+        "onboard_time": 1765513700,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108506,
+        "num": 108506,
+        "word": "宁静扇了邵子恒一巴掌",
+        "onboard_time": 1765514901,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32909,
+        "num": 107865,
+        "word": "老爸帮儿子征婚招来杀猪盘",
+        "onboard_time": 1765515622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
