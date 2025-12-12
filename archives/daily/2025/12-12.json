@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765546883794,
+  "endTime": 1765547619270,
   "band_list": [
     {
       "raw_hot": 8983486,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1687517,
-      "num": 372954,
+      "num": 423138,
       "word": "双轨",
       "onboard_time": 1765531523,
       "rank": 15,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1270490,
+      "num": 330249,
+      "word": "一念江南删除了虞书欣官宣博",
+      "onboard_time": 1765546464,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1175113,
       "num": 512237,
       "word": "比单休更恶心的是月休4天",
       "onboard_time": 1765512441,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1053558,
-      "num": 230050,
-      "word": "一念江南删除了虞书欣官宣博",
-      "onboard_time": 1765546464,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 1020695,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 964267,
-      "num": 364170,
+      "num": 424028,
       "word": "AG超玩会vs上海RNG.M",
       "onboard_time": 1765538962,
       "rank": 16,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 609735,
-      "num": 351438,
+      "num": 378442,
       "word": "云初令官宣",
       "onboard_time": 1765541663,
       "rank": 5,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 464684,
-      "num": 358759,
+      "num": 421462,
       "word": "198斤新娘减肥70斤后要离婚",
       "onboard_time": 1765539741,
       "rank": 6,
@@ -369,6 +369,14 @@
       "onboard_time": 1765509021,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438654,
+      "num": 438654,
+      "word": "王楚钦说被打1比11很正常",
+      "onboard_time": 1765543523,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 432519,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385857,
+      "num": 327500,
+      "word": "审判双轨",
+      "onboard_time": 1765545505,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385317,
       "num": 214872,
       "word": "恋综宾利哥说认出了痞幼的老头乐",
@@ -571,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366953,
-      "num": 366953,
-      "word": "王楚钦说被打1比11很正常",
-      "onboard_time": 1765543523,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 358450,
       "num": 240092,
       "word": "陈妍希建议女性不要为了结婚而结婚",
@@ -617,6 +625,14 @@
       "onboard_time": 1765512321,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323049,
+      "num": 323049,
+      "word": "疑注射3万一支失效药患儿母亲发声",
+      "onboard_time": 1765543403,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 320376,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295933,
+      "num": 117259,
+      "word": "双轨故事逻辑",
+      "onboard_time": 1765547124,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294210,
       "num": 294210,
       "word": "日本地震",
@@ -737,14 +761,6 @@
       "onboard_time": 1765503860,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281657,
-      "num": 234744,
-      "word": "审判双轨",
-      "onboard_time": 1765545505,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 281315,
@@ -947,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231825,
-      "num": 231825,
-      "word": "疑注射3万一支失效药患儿母亲发声",
-      "onboard_time": 1765543403,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 231628,
       "num": 231628,
       "word": "30厘米长老鼠爬到2岁孩子床上",
@@ -969,6 +977,14 @@
       "onboard_time": 1765465102,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229155,
+      "num": 229155,
+      "word": "云初令男主",
+      "onboard_time": 1765547183,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 225886,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1765495817,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215072,
+      "num": 215072,
+      "word": "长安二十四计热度",
+      "onboard_time": 1765545565,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 213854,
@@ -1099,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200977,
+      "num": 200977,
+      "word": "陈伟霆范丞丞黄景瑜不在内娱混了吗",
+      "onboard_time": 1765546224,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199158,
       "num": 285057,
       "word": "王楚钦晋级香港总决赛四强",
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 196588,
-      "num": 196588,
+      "num": 207945,
       "word": "现在的美甲店已经进化成这样了",
       "onboard_time": 1765540281,
       "rank": 26,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1765505299,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194846,
-      "num": 194846,
-      "word": "长安二十四计热度",
-      "onboard_time": 1765545565,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 194000,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1765470678,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191961,
+      "num": 191961,
+      "word": "长安二十四计节奏",
+      "onboard_time": 1765546705,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 190663,
@@ -1264,14 +1296,6 @@
       "word": "宁静扇了邵子恒一巴掌",
       "onboard_time": 1765514901,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184578,
-      "num": 184578,
-      "word": "陈伟霆范丞丞黄景瑜不在内娱混了吗",
-      "onboard_time": 1765546224,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1355,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173201,
+      "num": 229793,
+      "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+      "onboard_time": 1765536921,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172943,
       "num": 172943,
       "word": "原来你的床上已经有猫了",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1765517542,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 184369,
+      "word": "日本人嘲笑小泉进次郎",
+      "onboard_time": 1765546165,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170112,
@@ -1539,6 +1579,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 158756,
+      "num": 158756,
+      "word": "KPL",
+      "onboard_time": 1765540702,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158432,
       "num": 158432,
       "word": "以前的发型审美",
@@ -1603,6 +1651,14 @@
       "category": "游戏,游戏"
     },
     {
+      "raw_hot": 153622,
+      "num": 153622,
+      "word": "日媒开始精神胜利了",
+      "onboard_time": 1765546104,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151331,
       "num": 151331,
       "word": "成毅 聪明真的可以演出来",
@@ -1643,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147889,
+      "num": 147889,
+      "word": "HLE战胜DK",
+      "onboard_time": 1765547362,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "苏新皓晒北京的雪",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1765534101,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 146507,
-      "num": 221889,
-      "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
-      "onboard_time": 1765536921,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 146464,
@@ -1705,14 +1761,6 @@
       "onboard_time": 1765510221,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144923,
-      "num": 144923,
-      "word": "日本人嘲笑小泉进次郎",
-      "onboard_time": 1765546165,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144072,
@@ -1891,22 +1939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134989,
-      "num": 134989,
-      "word": "KPL",
-      "onboard_time": 1765540702,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 134559,
-      "num": 134559,
-      "word": "日媒开始精神胜利了",
-      "onboard_time": 1765546104,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133905,
       "num": 133905,
       "word": "雷军回应小米上架准新车",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1765546104,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 128512,
+      "num": 229386,
+      "word": "我国安全中心拿下五项世界纪录",
+      "onboard_time": 1765547005,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 127824,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1765531162,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121485,
+      "num": 121485,
+      "word": "五竹睁开眼打得更猛了",
+      "onboard_time": 1765546285,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121347,
@@ -2395,14 +2443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110667,
-      "num": 113205,
-      "word": "五竹睁开眼打得更猛了",
-      "onboard_time": 1765546285,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109854,
       "num": 109854,
       "word": "国外捐精者被查出20%精子带致癌基因",
@@ -2617,14 +2657,6 @@
       "onboard_time": 1765514242,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97760,
-      "num": 113185,
-      "word": "长安二十四计节奏",
-      "onboard_time": 1765546705,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 97492,
@@ -3627,6 +3659,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26599,
+      "num": 348390,
+      "word": "解读2025中央经济工作会议",
+      "onboard_time": 1765546584,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26311,
       "num": 259212,
       "word": "加油站请女模搞促销引热议",
@@ -3747,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19775,
+      "num": 335528,
+      "word": "中央力推投资于人释放民生红利",
+      "onboard_time": 1765547243,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19082,
       "num": 90889,
       "word": "天不亮学生集合在路灯下读书",
@@ -3849,14 +3897,6 @@
       "onboard_time": 1765511901,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11332,
-      "num": 348390,
-      "word": "解读2025中央经济工作会议",
-      "onboard_time": 1765546584,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11040,
