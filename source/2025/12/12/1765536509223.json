@@ -1,0 +1,410 @@
+{
+  "runTime": 1765536509223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 639840,
+        "num": 1102374,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418377,
+        "num": 418377,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1765535062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2321,
+        "num": 355835,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 487751,
+        "num": 351222,
+        "word": "Lululemon卫衣 囚服",
+        "onboard_time": 1765535423,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298420,
+        "num": 298420,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265897,
+        "num": 265897,
+        "word": "药品说明书1粒米能挡6个字",
+        "onboard_time": 1765530382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241727,
+        "num": 265363,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138452,
+        "num": 264751,
+        "word": "成毅新剧大雪定律冲出横店",
+        "onboard_time": 1765534941,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24545,
+        "num": 264093,
+        "word": "卫星互联网低轨16组卫星发射成功",
+        "onboard_time": 1765530982,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108366,
+        "num": 263656,
+        "word": "FPX.ZQ战胜成都GG",
+        "onboard_time": 1765533381,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 693872,
+        "num": 263084,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 455393,
+        "num": 262203,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606653,
+        "num": 261775,
+        "word": "成毅天地剑心降级",
+        "onboard_time": 1765532061,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422860,
+        "num": 260791,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302475,
+        "num": 260172,
+        "word": "小米公司辟谣不让卖小米",
+        "onboard_time": 1765531462,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287636,
+        "num": 259552,
+        "word": "跑男后期把敖瑞鹏小号翻遍了",
+        "onboard_time": 1765533501,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266792,
+        "num": 259028,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258432,
+        "num": 258432,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230636,
+        "num": 230636,
+        "word": "声生不息碧昂丝",
+        "onboard_time": 1765534043,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217357,
+        "num": 217357,
+        "word": "官方通报2岁男童输液后死亡",
+        "onboard_time": 1765535180,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 392128,
+        "num": 214973,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286277,
+        "num": 212836,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209503,
+        "num": 209503,
+        "word": "任素汐 任宥纶",
+        "onboard_time": 1765527680,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276584,
+        "num": 208952,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245433,
+        "num": 207374,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345155,
+        "num": 206321,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204205,
+        "num": 204205,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187937,
+        "num": 187937,
+        "word": "雷军小米投诉村支书小米不如握手",
+        "onboard_time": 1765536321,
+        "rank": 27,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 156163,
+        "num": 156163,
+        "word": "沈月新年的期待",
+        "onboard_time": 1765535901,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112408,
+        "num": 152476,
+        "word": "中俄联合巡航把琉球包了饺子",
+        "onboard_time": 1765534701,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 152169,
+        "word": "日本地震东京震感明显",
+        "onboard_time": 1765536321,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57085,
+        "num": 151790,
+        "word": "广告不得利用减小字号等进行补充说明",
+        "onboard_time": 1765534642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "以前的发型审美",
+        "onboard_time": 1765534461,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149938,
+        "num": 149938,
+        "word": "爱用26键的人有福了",
+        "onboard_time": 1765525701,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95010,
+        "num": 133461,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133330,
+        "num": 133330,
+        "word": "刘亦菲朱亚文大学合照",
+        "onboard_time": 1765534881,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129939,
+        "num": 129939,
+        "word": "解放军正告菲方停止侵权挑衅",
+        "onboard_time": 1765532423,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123873,
+        "num": 123873,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42822,
+        "num": 122180,
+        "word": "女子埃及旅游被骗子气哭",
+        "onboard_time": 1765535482,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11876,
+        "num": 122015,
+        "word": "魏大勋像盘菜被端上来了",
+        "onboard_time": 1765536321,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 121966,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116855,
+        "num": 116855,
+        "word": "俄已向日本发出警告",
+        "onboard_time": 1765535121,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108903,
+        "num": 108903,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108611,
+        "num": 108611,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105456,
+        "num": 105456,
+        "word": "以为我微信被封了",
+        "onboard_time": 1765536381,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103808,
+        "num": 103808,
+        "word": "早田希娜含泪回应输给蒯曼",
+        "onboard_time": 1765535423,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100723,
+        "num": 101002,
+        "word": "周也在北京光腿穿裙子",
+        "onboard_time": 1765526542,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100900,
+        "num": 100900,
+        "word": "网易暴雪",
+        "onboard_time": 1765533742,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98907,
+        "num": 98907,
+        "word": "CBA新赛季揭幕战",
+        "onboard_time": 1765536081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97970,
+        "num": 97970,
+        "word": "鸣潮",
+        "onboard_time": 1765534222,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}

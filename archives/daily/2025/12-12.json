@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765535547672,
+  "endTime": 1765536509223,
   "band_list": [
     {
       "raw_hot": 2027944,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487751,
+      "num": 351222,
+      "word": "Lululemon卫衣 囚服",
+      "onboard_time": 1765535423,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485699,
       "num": 242796,
       "word": "双轨 精华速看版",
@@ -321,6 +329,14 @@
       "onboard_time": 1765507940,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418377,
+      "num": 418377,
+      "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+      "onboard_time": 1765535062,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 415476,
@@ -531,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 302475,
+      "num": 274993,
+      "word": "小米公司辟谣不让卖小米",
+      "onboard_time": 1765531462,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 299766,
       "num": 299766,
       "word": "枭起青壤",
@@ -595,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274993,
-      "num": 274993,
-      "word": "小米公司辟谣不让卖小米",
-      "onboard_time": 1765531462,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 274289,
       "num": 274289,
       "word": "日本列车脱轨翻覆",
@@ -617,6 +633,14 @@
       "onboard_time": 1765509982,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 266792,
+      "num": 259028,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 266638,
@@ -811,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217357,
+      "num": 217357,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211214,
       "num": 192996,
       "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
@@ -859,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204205,
+      "num": 204205,
+      "word": "30厘米长老鼠爬到2岁孩子床上",
+      "onboard_time": 1765535001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203102,
       "num": 203102,
       "word": "张家界荒野赛8人平分48万奖金",
@@ -880,14 +920,6 @@
       "word": "王楚钦晋级香港总决赛四强",
       "onboard_time": 1765519881,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198875,
-      "num": 198875,
-      "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
-      "onboard_time": 1765535062,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -985,6 +1017,14 @@
       "onboard_time": 1765510760,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187937,
+      "num": 187937,
+      "word": "雷军小米投诉村支书小米不如握手",
+      "onboard_time": 1765536321,
+      "rank": 27,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 187382,
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 161791,
-      "num": 161791,
+      "num": 264751,
       "word": "成毅新剧大雪定律冲出横店",
       "onboard_time": 1765534941,
       "rank": 30,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1765514181,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159267,
+      "num": 152169,
+      "word": "日本地震东京震感明显",
+      "onboard_time": 1765536321,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159256,
@@ -1267,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156163,
+      "num": 156163,
+      "word": "沈月新年的期待",
+      "onboard_time": 1765535901,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155595,
       "num": 247180,
       "word": "微博之夜",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1765467321,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 155024,
-      "num": 161892,
-      "word": "30厘米长老鼠爬到2岁孩子床上",
-      "onboard_time": 1765535001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154379,
@@ -1459,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139904,
-      "num": 139904,
-      "word": "好莱坞女星曼哈顿街头被撞身亡",
-      "onboard_time": 1765535240,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "肖战说过哪有那么多的设计",
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133330,
+      "num": 133330,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132480,
       "num": 245313,
       "word": "96岁南京大屠杀幸存者说我还要讲",
@@ -1603,20 +1651,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129939,
+      "num": 280271,
+      "word": "解放军正告菲方停止侵权挑衅",
+      "onboard_time": 1765532423,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127824,
       "num": 127824,
       "word": "原来真的有人是老天爷追着喂饭吃",
       "onboard_time": 1765530201,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127511,
-      "num": 127511,
-      "word": "官方通报2岁男童输液后死亡",
-      "onboard_time": 1765535180,
-      "rank": 37,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 127331,
@@ -1851,20 +1899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113455,
-      "num": 280271,
-      "word": "解放军正告菲方停止侵权挑衅",
-      "onboard_time": 1765532423,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 113152,
       "num": 113152,
       "word": "惠英红回应和王一博陈都灵打包去花少",
       "onboard_time": 1765521501,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112408,
+      "num": 228683,
+      "word": "中俄联合巡航把琉球包了饺子",
+      "onboard_time": 1765534701,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112374,
@@ -1979,6 +2027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105456,
+      "num": 105456,
+      "word": "以为我微信被封了",
+      "onboard_time": 1765536381,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104032,
       "num": 104032,
       "word": "东北人为什么不爱戴围巾",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1765495937,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98907,
+      "num": 98907,
+      "word": "CBA新赛季揭幕战",
+      "onboard_time": 1765536081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98505,
@@ -2251,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72811,
-      "num": 126532,
-      "word": "Lululemon卫衣 囚服",
-      "onboard_time": 1765535423,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72161,
       "num": 72161,
       "word": "盲老太街头求带路被拒后竟能看手机",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1765500801,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69299,
-      "num": 126108,
-      "word": "刘亦菲朱亚文大学合照",
-      "onboard_time": 1765534881,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 68195,
@@ -2491,6 +2539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 57085,
+      "num": 222714,
+      "word": "广告不得利用减小字号等进行补充说明",
+      "onboard_time": 1765534642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56907,
       "num": 183110,
       "word": "游客一早排队进故宫等雪",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1765454602,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 54537,
-      "num": 222714,
-      "word": "广告不得利用减小字号等进行补充说明",
-      "onboard_time": 1765534642,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53997,
@@ -2731,20 +2779,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42822,
+      "num": 122180,
+      "word": "女子埃及旅游被骗子气哭",
+      "onboard_time": 1765535482,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42278,
       "num": 452676,
       "word": "我国大型无人机技术新突破",
       "onboard_time": 1765531283,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42197,
-      "num": 110257,
-      "word": "女子埃及旅游被骗子气哭",
-      "onboard_time": 1765535482,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41263,
@@ -2987,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24545,
+      "num": 279356,
+      "word": "卫星互联网低轨16组卫星发射成功",
+      "onboard_time": 1765530982,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24488,
       "num": 40397,
       "word": "微博网友年度喜爱剧集",
@@ -3035,14 +3091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21248,
-      "num": 228683,
-      "word": "中俄联合巡航把琉球包了饺子",
-      "onboard_time": 1765534701,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21194,
       "num": 181846,
       "word": "中央明确明年优化药品集中采购",
@@ -3057,14 +3105,6 @@
       "onboard_time": 1765460752,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20561,
-      "num": 279356,
-      "word": "卫星互联网低轨16组卫星发射成功",
-      "onboard_time": 1765530982,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19082,
@@ -3145,6 +3185,14 @@
       "onboard_time": 1765457722,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11876,
+      "num": 122015,
+      "word": "魏大勋像盘菜被端上来了",
+      "onboard_time": 1765536321,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 11612,
