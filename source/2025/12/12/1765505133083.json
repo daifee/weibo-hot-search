@@ -1,0 +1,410 @@
+{
+  "runTime": 1765505133083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 824680,
+        "num": 1131948,
+        "word": "感觉时间越来越快不是错觉",
+        "onboard_time": 1765502421,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 432217,
+        "num": 432217,
+        "word": "上海市民扎堆挖银元",
+        "onboard_time": 1765497260,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8425,
+        "num": 313092,
+        "word": "大国小巷首善之治",
+        "onboard_time": 1765457722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274289,
+        "num": 274289,
+        "word": "日本列车脱轨翻覆",
+        "onboard_time": 1765497439,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259956,
+        "num": 259956,
+        "word": "下雪",
+        "onboard_time": 1765499121,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237322,
+        "num": 237322,
+        "word": "北京初雪来了",
+        "onboard_time": 1765500500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233228,
+        "num": 233228,
+        "word": "枭起青壤",
+        "onboard_time": 1765469180,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223708,
+        "num": 223708,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1765499900,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187365,
+        "num": 187365,
+        "word": "TGA直播",
+        "onboard_time": 1765500680,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186297,
+        "num": 186297,
+        "word": "张本智和说樊振东是自己的偶像",
+        "onboard_time": 1765499840,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772031,
+        "num": 185925,
+        "word": "删了吧我有个单身的朋友破防了",
+        "onboard_time": 1765496057,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 762179,
+        "num": 184395,
+        "word": "周柯宇编辑刘宇宁法令纹",
+        "onboard_time": 1765499301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458448,
+        "num": 183038,
+        "word": "村支书卖小米被投诉",
+        "onboard_time": 1765500440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369249,
+        "num": 182484,
+        "word": "郭碧婷回应与向佐分居两地",
+        "onboard_time": 1765500859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312194,
+        "num": 180815,
+        "word": "2025微博之夜",
+        "onboard_time": 1765497260,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311081,
+        "num": 179486,
+        "word": "42岁陈妍希 建议所有女性来学",
+        "onboard_time": 1765464262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255700,
+        "num": 178613,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190873,
+        "num": 177289,
+        "word": "女子被丈夫灌面汤呛死亲属拒签谅解书",
+        "onboard_time": 1765468880,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190297,
+        "num": 176247,
+        "word": "偶遇王一博新疆滑雪",
+        "onboard_time": 1765503800,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176079,
+        "num": 176079,
+        "word": "好一个乖乖女 徐梦洁",
+        "onboard_time": 1765461204,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320376,
+        "num": 175673,
+        "word": "曝短剧某女演员卸了妆脸上全是闭口",
+        "onboard_time": 1765497918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285674,
+        "num": 174944,
+        "word": "郭碧婷坦言向太给了很多钱",
+        "onboard_time": 1765469540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205593,
+        "num": 174742,
+        "word": "奶奶用暖气片给孙子烤苹果干",
+        "onboard_time": 1765503860,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173413,
+        "num": 173413,
+        "word": "陈星旭关注迪丽热巴",
+        "onboard_time": 1765504820,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155411,
+        "num": 155411,
+        "word": "王玉雯这次下车神图有了",
+        "onboard_time": 1765496057,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145059,
+        "num": 145059,
+        "word": "一家五口靠薅商场停车羊毛转卖获利",
+        "onboard_time": 1765501101,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139661,
+        "num": 139661,
+        "word": "凭煮蛋涨粉356万博主回应爆红",
+        "onboard_time": 1765464622,
+        "rank": 26,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "肖战说过哪有那么多的设计",
+        "onboard_time": 1765499721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136495,
+        "num": 136495,
+        "word": "TGA2025最佳独立游戏",
+        "onboard_time": 1765503440,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134994,
+        "num": 134994,
+        "word": "日本前将领称珍珠港事件是美国栽赃",
+        "onboard_time": 1765503499,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126928,
+        "num": 126928,
+        "word": "TGA2025最佳动作游戏",
+        "onboard_time": 1765504639,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124933,
+        "num": 124933,
+        "word": "星光大赏投票",
+        "onboard_time": 1765497140,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124704,
+        "num": 124704,
+        "word": "以为是休息实则最伤气血的3件事",
+        "onboard_time": 1765495817,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120151,
+        "num": 120151,
+        "word": "日本人帮日本算了一笔账",
+        "onboard_time": 1765498041,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106100,
+        "num": 106100,
+        "word": "星光大赏",
+        "onboard_time": 1765500440,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 105547,
+        "word": "日媒称辽宁舰最近距日本仅400公里",
+        "onboard_time": 1765499060,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104690,
+        "num": 104690,
+        "word": "国补",
+        "onboard_time": 1765454121,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102434,
+        "num": 102434,
+        "word": "TGA2025",
+        "onboard_time": 1765503979,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91242,
+        "num": 91242,
+        "word": "何美延觉得梁淞不爱她",
+        "onboard_time": 1765502059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84850,
+        "num": 84850,
+        "word": "俄放话敢动我资产就让全球买单",
+        "onboard_time": 1765495937,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78141,
+        "num": 78141,
+        "word": "摩尔线程跌超6%",
+        "onboard_time": 1765504999,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74584,
+        "num": 74584,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1765504338,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74438,
+        "num": 74438,
+        "word": "方力申得女",
+        "onboard_time": 1765504939,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72161,
+        "num": 72161,
+        "word": "盲老太街头求带路被拒后竟能看手机",
+        "onboard_time": 1765504639,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71996,
+        "num": 71996,
+        "word": "昀牵孟绕",
+        "onboard_time": 1765497318,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71526,
+        "num": 71526,
+        "word": "王楚钦对阵A勒布伦",
+        "onboard_time": 1765504460,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69846,
+        "num": 69846,
+        "word": "中午前后北京城区降雪趋于明显",
+        "onboard_time": 1765500801,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68052,
+        "num": 68052,
+        "word": "OpenAI发布GPT5.2",
+        "onboard_time": 1765504699,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66877,
+        "num": 66877,
+        "word": "孙颖莎王楚钦12日继续出战",
+        "onboard_time": 1765503800,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65073,
+        "num": 65073,
+        "word": "王楚然每天都在做法令纹消失操",
+        "onboard_time": 1765466002,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中央经济工作会议#"
+    }
+  }
+}
