@@ -1,0 +1,410 @@
+{
+  "runTime": 1765549568881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755291,
+        "num": 1120846,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361552,
+        "num": 361552,
+        "word": "王楚钦说被打1比11很正常",
+        "onboard_time": 1765543523,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2486,
+        "num": 360738,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 883357,
+        "num": 356004,
+        "word": "AG超玩会vs上海RNG.M",
+        "onboard_time": 1765538962,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384990,
+        "num": 352483,
+        "word": "云初令官宣",
+        "onboard_time": 1765541663,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374409,
+        "num": 346639,
+        "word": "198斤新娘减肥70斤后要离婚",
+        "onboard_time": 1765539741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343488,
+        "num": 343488,
+        "word": "疑注射3万一支失效药患儿母亲发声",
+        "onboard_time": 1765543403,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 336579,
+        "num": 336579,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55265,
+        "num": 334209,
+        "word": "中央力推投资于人释放民生红利",
+        "onboard_time": 1765547243,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5419802,
+        "num": 5419802,
+        "word": "双轨空降",
+        "onboard_time": 1765539202,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1123679,
+        "num": 315058,
+        "word": "一念江南删除了虞书欣官宣博",
+        "onboard_time": 1765546464,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 885247,
+        "num": 310254,
+        "word": "好莱坞女星被撞身亡",
+        "onboard_time": 1765548204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748776,
+        "num": 303492,
+        "word": "一念江南",
+        "onboard_time": 1765542863,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473843,
+        "num": 296104,
+        "word": "孟子义云包场双轨",
+        "onboard_time": 1765548805,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292243,
+        "num": 292243,
+        "word": "云初令男主",
+        "onboard_time": 1765547183,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260714,
+        "num": 260714,
+        "word": "孙颖莎vs长崎美柚",
+        "onboard_time": 1765548744,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47920,
+        "num": 226339,
+        "word": "我买的车到底能应对多少极端危险",
+        "onboard_time": 1765548263,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45928,
+        "num": 215386,
+        "word": "我国安全中心拿下五项世界纪录",
+        "onboard_time": 1765547005,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214807,
+        "num": 214807,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197924,
+        "num": 197924,
+        "word": "英语四六级",
+        "onboard_time": 1765548744,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 610835,
+        "num": 197918,
+        "word": "云初令官宣虞书欣",
+        "onboard_time": 1765542622,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271651,
+        "num": 197857,
+        "word": "长安二十四计热度",
+        "onboard_time": 1765545565,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187406,
+        "num": 197784,
+        "word": "KPL",
+        "onboard_time": 1765540702,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300287,
+        "num": 197721,
+        "word": "审判双轨",
+        "onboard_time": 1765545505,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205725,
+        "num": 197698,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197668,
+        "num": 197668,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179496,
+        "num": 179496,
+        "word": "东北雨姐转世账号被关闭",
+        "onboard_time": 1765549344,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 177714,
+        "num": 177714,
+        "word": "长安二十四计 反转",
+        "onboard_time": 1765548444,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177096,
+        "num": 177096,
+        "word": "菲律宾小孩哥对战AG",
+        "onboard_time": 1765542983,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158535,
+        "num": 158535,
+        "word": "日本人嘲笑小泉进次郎",
+        "onboard_time": 1765546165,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155310,
+        "num": 155310,
+        "word": "李冰冰童瑶没有雌竞全是欣赏",
+        "onboard_time": 1765548924,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153192,
+        "num": 153192,
+        "word": "张子墨 大家猜我是不是自愿的",
+        "onboard_time": 1765548144,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153074,
+        "num": 153074,
+        "word": "莫雷加德4比2林昀儒",
+        "onboard_time": 1765548744,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53459,
+        "num": 150724,
+        "word": "这才是中国式安全感",
+        "onboard_time": 1765544723,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149233,
+        "num": 149233,
+        "word": "钟意别送了",
+        "onboard_time": 1765549044,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143034,
+        "num": 143034,
+        "word": "长安二十四计",
+        "onboard_time": 1765539862,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146825,
+        "num": 143028,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147717,
+        "num": 143004,
+        "word": "保剑锋",
+        "onboard_time": 1765539501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142956,
+        "num": 142956,
+        "word": "日媒开始精神胜利了",
+        "onboard_time": 1765546104,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57694,
+        "num": 142866,
+        "word": "兰晓龙拒绝给得闲谨制起商业名字",
+        "onboard_time": 1765549044,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143803,
+        "num": 142866,
+        "word": "陈伟霆范丞丞黄景瑜不在内娱混了吗",
+        "onboard_time": 1765546224,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142859,
+        "num": 142859,
+        "word": "王一博的舌苔",
+        "onboard_time": 1765538721,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "王男回应名字由来",
+        "onboard_time": 1765547664,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131066,
+        "num": 131066,
+        "word": "徐璐古装",
+        "onboard_time": 1765547664,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112737,
+        "num": 120255,
+        "word": "穆祉丞cha初雪了",
+        "onboard_time": 1765547845,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "久哲bp",
+        "onboard_time": 1765549224,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113795,
+        "num": 113795,
+        "word": "中国佛协称对放生大米深感惊讶不解",
+        "onboard_time": 1765549165,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 113355,
+        "word": "云初令",
+        "onboard_time": 1765542683,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111444,
+        "num": 111444,
+        "word": "英国女子在印度看演唱会时遭猥亵",
+        "onboard_time": 1765549524,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88690,
+        "num": 110405,
+        "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+        "onboard_time": 1765536921,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}
