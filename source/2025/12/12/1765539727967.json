@@ -1,0 +1,410 @@
+{
+  "runTime": 1765539727967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 444908,
+        "num": 1071185,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294210,
+        "num": 294210,
+        "word": "日本地震",
+        "onboard_time": 1765536741,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2685,
+        "num": 252981,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237651,
+        "num": 237651,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1765535062,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1551235,
+        "num": 232156,
+        "word": "Lululemon卫衣 囚服",
+        "onboard_time": 1765535423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404806,
+        "num": 225960,
+        "word": "官方通报2岁男童输液后死亡",
+        "onboard_time": 1765535180,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 293714,
+        "num": 220795,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613375,
+        "num": 214072,
+        "word": "雷军小米投诉村支书小米不如握手",
+        "onboard_time": 1765536321,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 10013,
+        "num": 207915,
+        "word": "消费主引擎持续释放增长新动能",
+        "onboard_time": 1765530683,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204470,
+        "num": 204470,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1687517,
+        "num": 204455,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408010,
+        "num": 204418,
+        "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
+        "onboard_time": 1765536622,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1656839,
+        "num": 204326,
+        "word": "双轨空降",
+        "onboard_time": 1765539202,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391650,
+        "num": 204278,
+        "word": "好莱坞女星曼哈顿街头被撞身亡",
+        "onboard_time": 1765535240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358623,
+        "num": 204210,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 344977,
+        "num": 204184,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305598,
+        "num": 204128,
+        "word": "AG超玩会vs上海RNG.M",
+        "onboard_time": 1765538962,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204106,
+        "num": 204106,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196291,
+        "num": 203839,
+        "word": "王楚钦回应3比2黄镇廷杜凯琹",
+        "onboard_time": 1765538421,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203819,
+        "num": 203819,
+        "word": "李一桐短发",
+        "onboard_time": 1765538600,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416087,
+        "num": 203475,
+        "word": "成毅天地剑心降级",
+        "onboard_time": 1765532061,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201031,
+        "num": 201031,
+        "word": "王一博的舌苔",
+        "onboard_time": 1765538721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199044,
+        "num": 199044,
+        "word": "跑男后期把敖瑞鹏小号翻遍了",
+        "onboard_time": 1765533501,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "原来这就是牙齿的求救信号",
+        "onboard_time": 1765537522,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194000,
+        "num": 194000,
+        "word": "内娱好多人的歌都是他写的",
+        "onboard_time": 1765538664,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176631,
+        "num": 176631,
+        "word": "刘亦菲朱亚文大学合照",
+        "onboard_time": 1765534881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171144,
+        "num": 171144,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330425,
+        "num": 162952,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "周杰伦瘦下来后嘴角压不住",
+        "onboard_time": 1765537342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134936,
+        "num": 134936,
+        "word": "药品说明书1粒米能挡6个字",
+        "onboard_time": 1765530382,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 132311,
+        "num": 132311,
+        "word": "狙击蝴蝶剧宣",
+        "onboard_time": 1765538302,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130414,
+        "num": 130414,
+        "word": "国乒跟港队完赛后有说有笑",
+        "onboard_time": 1765539624,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119822,
+        "num": 119822,
+        "word": "郭碧婷婚前给向佐打预防针",
+        "onboard_time": 1765538483,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263474,
+        "num": 118919,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116322,
+        "num": 116322,
+        "word": "原来我爱的只是萨摩耶的毛",
+        "onboard_time": 1765539022,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115404,
+        "num": 115404,
+        "word": "王楚钦孙颖莎11比4黄镇廷杜凯琹",
+        "onboard_time": 1765539381,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114919,
+        "num": 114919,
+        "word": "保剑锋",
+        "onboard_time": 1765539501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129402,
+        "num": 114882,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116058,
+        "num": 114633,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114306,
+        "num": 114306,
+        "word": "狗狗还原小猫犯罪全过程",
+        "onboard_time": 1765539081,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110188,
+        "num": 110188,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106053,
+        "num": 106053,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98669,
+        "num": 98669,
+        "word": "王楚钦孙颖莎超神一球",
+        "onboard_time": 1765539441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 98233,
+        "word": "不让卖小米事件当事人道歉",
+        "onboard_time": 1765538362,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 96044,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96041,
+        "num": 96041,
+        "word": "狙击蝴蝶还有这种好东西",
+        "onboard_time": 1765539441,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 93714,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92892,
+        "num": 92892,
+        "word": "王楚钦孙颖莎3比2胜黄镇廷杜凯琹",
+        "onboard_time": 1765536921,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91988,
+        "num": 91988,
+        "word": "日本地震东京震感明显",
+        "onboard_time": 1765536321,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}

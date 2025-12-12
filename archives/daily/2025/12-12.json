@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765538873404,
+  "endTime": 1765539727967,
   "band_list": [
     {
       "raw_hot": 2027944,
@@ -11,7 +11,23 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1460304,
+      "raw_hot": 1687517,
+      "num": 372954,
+      "word": "双轨",
+      "onboard_time": 1765531523,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1656839,
+      "num": 204326,
+      "word": "双轨空降",
+      "onboard_time": 1765539202,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1551235,
       "num": 1460304,
       "word": "Lululemon卫衣 囚服",
       "onboard_time": 1765535423,
@@ -91,14 +107,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 818283,
-      "num": 372954,
-      "word": "双轨",
-      "onboard_time": 1765531523,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 798877,
       "num": 1127820,
       "word": "北京暴雪",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 654750,
-      "num": 187937,
+      "num": 214072,
       "word": "雷军小米投诉村支书小米不如握手",
       "onboard_time": 1765536321,
       "rank": 27,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 458255,
-      "num": 170648,
+      "num": 204418,
       "word": "王楚钦孙颖莎9比11黄镇廷杜凯琹",
       "onboard_time": 1765536622,
       "rank": 13,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404806,
+      "num": 236310,
+      "word": "官方通报2岁男童输液后死亡",
+      "onboard_time": 1765535180,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 398705,
       "num": 263301,
       "word": "张碧晨连发9个捂嘴哭",
@@ -395,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385762,
-      "num": 236310,
-      "word": "官方通报2岁男童输液后死亡",
-      "onboard_time": 1765535180,
-      "rank": 37,
-      "category": "辟谣/通报"
+      "raw_hot": 391650,
+      "num": 259028,
+      "word": "好莱坞女星曼哈顿街头被撞身亡",
+      "onboard_time": 1765535240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 385317,
@@ -472,14 +488,6 @@
       "word": "郭碧婷回应与向佐分居两地",
       "onboard_time": 1765500859,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 365178,
-      "num": 259028,
-      "word": "好莱坞女星曼哈顿街头被撞身亡",
-      "onboard_time": 1765535240,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -579,6 +587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 305598,
+      "num": 204128,
+      "word": "AG超玩会vs上海RNG.M",
+      "onboard_time": 1765538962,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304783,
       "num": 304783,
       "word": "微信回应群聊崩了",
@@ -609,6 +625,14 @@
       "onboard_time": 1765469540,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294210,
+      "num": 294210,
+      "word": "日本地震",
+      "onboard_time": 1765536741,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 293992,
@@ -656,14 +680,6 @@
       "word": "日本列车脱轨翻覆",
       "onboard_time": 1765497439,
       "rank": 3,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 270747,
-      "num": 270747,
-      "word": "日本地震",
-      "onboard_time": 1765536741,
-      "rank": 4,
       "category": "海外新闻"
     },
     {
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 213854,
-      "num": 164469,
+      "num": 197616,
       "word": "原来这就是牙齿的求救信号",
       "onboard_time": 1765537522,
       "rank": 22,
@@ -931,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203819,
+      "num": 203819,
+      "word": "李一桐短发",
+      "onboard_time": 1765538600,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203102,
       "num": 203102,
       "word": "张家界荒野赛8人平分48万奖金",
@@ -944,6 +968,14 @@
       "word": "江疏影出门炸街了",
       "onboard_time": 1765530742,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201031,
+      "num": 201031,
+      "word": "王一博的舌苔",
+      "onboard_time": 1765538721,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196291,
+      "num": 203839,
+      "word": "王楚钦回应3比2黄镇廷杜凯琹",
+      "onboard_time": 1765538421,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196113,
       "num": 202107,
       "word": "TGA直播",
@@ -993,6 +1033,14 @@
       "onboard_time": 1765505299,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194000,
+      "num": 194000,
+      "word": "内娱好多人的歌都是他写的",
+      "onboard_time": 1765538664,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193871,
@@ -1123,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176631,
+      "num": 176631,
+      "word": "刘亦菲朱亚文大学合照",
+      "onboard_time": 1765534881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175101,
       "num": 175101,
       "word": "机器狗的就业新方向",
@@ -1169,22 +1225,6 @@
       "onboard_time": 1765517542,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170651,
-      "num": 170651,
-      "word": "王楚钦回应3比2黄镇廷杜凯琹",
-      "onboard_time": 1765538421,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 170643,
-      "num": 170643,
-      "word": "李一桐短发",
-      "onboard_time": 1765538600,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 170112,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1765515021,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150260,
-      "num": 150260,
-      "word": "刘亦菲朱亚文大学合照",
-      "onboard_time": 1765534881,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 150222,
@@ -1691,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132311,
+      "num": 132311,
+      "word": "狙击蝴蝶剧宣",
+      "onboard_time": 1765538302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132285,
       "num": 279511,
       "word": "王曼昱vs朱芊曦",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1765505299,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130414,
+      "num": 130414,
+      "word": "国乒跟港队完赛后有说有笑",
+      "onboard_time": 1765539624,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 129939,
@@ -1771,14 +1819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125711,
-      "num": 125711,
-      "word": "内娱好多人的歌都是他写的",
-      "onboard_time": 1765538664,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125709,
       "num": 125709,
       "word": "星光大赏投票",
@@ -1828,7 +1868,7 @@
     },
     {
       "raw_hot": 121347,
-      "num": 108210,
+      "num": 119822,
       "word": "郭碧婷婚前给向佐打预防针",
       "onboard_time": 1765538483,
       "rank": 41,
@@ -1931,11 +1971,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116322,
+      "num": 116322,
+      "word": "原来我爱的只是萨摩耶的毛",
+      "onboard_time": 1765539022,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115404,
+      "num": 115404,
+      "word": "王楚钦孙颖莎11比4黄镇廷杜凯琹",
+      "onboard_time": 1765539381,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115118,
       "num": 115118,
       "word": "蔡徐坤去贵州做公益了",
       "onboard_time": 1765532602,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114919,
+      "num": 114919,
+      "word": "保剑锋",
+      "onboard_time": 1765539501,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1953,6 +2017,14 @@
       "onboard_time": 1765516341,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114306,
+      "num": 114306,
+      "word": "狗狗还原小猫犯罪全过程",
+      "onboard_time": 1765539081,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 114241,
@@ -2203,14 +2275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99466,
-      "num": 99466,
-      "word": "狙击蝴蝶剧宣",
-      "onboard_time": 1765538302,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99390,
       "num": 99390,
       "word": "不让卖小米事件当事人道歉",
@@ -2235,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98669,
+      "num": 98669,
+      "word": "王楚钦孙颖莎超神一球",
+      "onboard_time": 1765539441,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98505,
       "num": 234891,
       "word": "全网爆火的煮鸡蛋大神是个00后",
@@ -2251,20 +2323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96829,
-      "num": 108698,
-      "word": "王一博的舌苔",
-      "onboard_time": 1765538721,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96638,
       "num": 141005,
       "word": "女子称遭酒店前台凌晨刷卡进房猥亵",
       "onboard_time": 1765510581,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96041,
+      "num": 96041,
+      "word": "狙击蝴蝶还有这种好东西",
+      "onboard_time": 1765539441,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 94018,
@@ -3364,7 +3436,7 @@
     },
     {
       "raw_hot": 11040,
-      "num": 182332,
+      "num": 207915,
       "word": "消费主引擎持续释放增长新动能",
       "onboard_time": 1765530683,
       "rank": 8,
