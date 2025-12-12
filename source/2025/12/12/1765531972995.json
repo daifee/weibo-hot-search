@@ -1,0 +1,410 @@
+{
+  "runTime": 1765531972995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 798877,
+        "num": 1127820,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462893,
+        "num": 462893,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 4406,
+        "num": 461906,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378107,
+        "num": 460666,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237485,
+        "num": 458523,
+        "word": "胡先煦是沈腾迪丽热巴的水印吧",
+        "onboard_time": 1765527801,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190866,
+        "num": 457897,
+        "word": "日本仍有人公然说南京大屠杀是造谣",
+        "onboard_time": 1765526722,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103263,
+        "num": 456848,
+        "word": "王曼昱WTT单打第100胜",
+        "onboard_time": 1765524500,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99829,
+        "num": 455133,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26731,
+        "num": 452676,
+        "word": "我国大型无人机技术新突破",
+        "onboard_time": 1765531283,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33617,
+        "num": 452026,
+        "word": "解放军对菲律宾小型机坚决驱离",
+        "onboard_time": 1765531162,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2027944,
+        "num": 450904,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 524208,
+        "num": 448332,
+        "word": "爱用26键的人有福了",
+        "onboard_time": 1765525701,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 448095,
+        "num": 448095,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162600,
+        "num": 420967,
+        "word": "快看啊下雪了",
+        "onboard_time": 1765526722,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416562,
+        "num": 416562,
+        "word": "任素汐 任宥纶",
+        "onboard_time": 1765527680,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372954,
+        "num": 372954,
+        "word": "双轨",
+        "onboard_time": 1765531523,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304783,
+        "num": 304783,
+        "word": "微信回应群聊崩了",
+        "onboard_time": 1765531222,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272830,
+        "num": 272830,
+        "word": "周也在北京光腿穿裙子",
+        "onboard_time": 1765526542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85091,
+        "num": 266394,
+        "word": "谁懂姨妈奶茶的救赎感",
+        "onboard_time": 1765530323,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29018,
+        "num": 264417,
+        "word": "10人聚餐9人开溜店主称将起诉",
+        "onboard_time": 1765531581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262952,
+        "num": 262952,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521353,
+        "num": 259232,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477973,
+        "num": 252158,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456432,
+        "num": 250212,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419314,
+        "num": 244249,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199932,
+        "num": 237623,
+        "word": "药品说明书1粒米能挡6个字",
+        "onboard_time": 1765530382,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235933,
+        "num": 235933,
+        "word": "痞幼9年前旧照",
+        "onboard_time": 1765523962,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 405176,
+        "num": 234972,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225397,
+        "num": 225397,
+        "word": "见识一下100%纯羊毛",
+        "onboard_time": 1765527743,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 210012,
+        "word": "日本年度汉字为熊",
+        "onboard_time": 1765521080,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205732,
+        "num": 205732,
+        "word": "小米公司辟谣不让卖小米",
+        "onboard_time": 1765531462,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202870,
+        "num": 202870,
+        "word": "江疏影出门炸街了",
+        "onboard_time": 1765530742,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187204,
+        "num": 187204,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177887,
+        "num": 177887,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172499,
+        "num": 172499,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169481,
+        "num": 169481,
+        "word": "赤木刚宪瘦了70斤",
+        "onboard_time": 1765525641,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157068,
+        "num": 157068,
+        "word": "钉钉文档崩了",
+        "onboard_time": 1765529303,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "Viper和On迎来德杯首秀",
+        "onboard_time": 1765531162,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9602,
+        "num": 139979,
+        "word": "1岁宝宝因病去世捐器官救6人",
+        "onboard_time": 1765531823,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38663,
+        "num": 138721,
+        "word": "得闲谨制 何以生肖莫",
+        "onboard_time": 1765530742,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137737,
+        "num": 137737,
+        "word": "研究发现1天已不足24小时",
+        "onboard_time": 1765522101,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127824,
+        "num": 127824,
+        "word": "原来真的有人是老天爷追着喂饭吃",
+        "onboard_time": 1765530201,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33681,
+        "num": 125003,
+        "word": "路怒司机掌掴宝妈要求登报道歉",
+        "onboard_time": 1765530621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 124902,
+        "word": "郑州的雪越下越大",
+        "onboard_time": 1765529601,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124803,
+        "num": 124803,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105264,
+        "num": 105264,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90944,
+        "num": 104793,
+        "word": "肖战真学会做鸭血粉丝汤了",
+        "onboard_time": 1765530323,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19669,
+        "num": 104611,
+        "word": "卫星互联网低轨16组卫星发射成功",
+        "onboard_time": 1765530982,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104563,
+        "num": 104563,
+        "word": "后悔删掉小时候尴尬的QQ动态",
+        "onboard_time": 1765531823,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102350,
+        "num": 102350,
+        "word": "狙击蝴蝶 禁止姐姐弃养小狗",
+        "onboard_time": 1765531823,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}
