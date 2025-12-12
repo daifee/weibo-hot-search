@@ -1,7 +1,15 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765512063618,
+  "endTime": 1765514562422,
   "band_list": [
+    {
+      "raw_hot": 1184057,
+      "num": 244966,
+      "word": "演员印小天在宁国救落水女子",
+      "onboard_time": 1765512680,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 944624,
       "num": 1151139,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 772031,
-      "num": 236263,
+      "num": 236394,
       "word": "删了吧我有个单身的朋友破防了",
       "onboard_time": 1765496057,
       "rank": 25,
@@ -41,6 +49,14 @@
       "onboard_time": 1765499301,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675999,
+      "num": 244135,
+      "word": "双轨疑似变短剧了",
+      "onboard_time": 1765511780,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 598855,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384466,
+      "num": 241782,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1765512441,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380030,
       "num": 762211,
       "word": "国补",
@@ -193,6 +217,14 @@
       "onboard_time": 1765500859,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367353,
+      "num": 367353,
+      "word": "美国要建C5世界惊了欧洲懵了",
+      "onboard_time": 1765511540,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 348698,
@@ -243,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298448,
+      "num": 224441,
+      "word": "人大899元书记严选羽绒服卖断货",
+      "onboard_time": 1765512321,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293992,
       "num": 211258,
       "word": "郭柯宇说李施嬅还好没结婚",
@@ -291,6 +331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 267062,
+      "num": 212311,
+      "word": "陈妍希建议女性不要为了结婚而结婚",
+      "onboard_time": 1765513101,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266638,
       "num": 193491,
       "word": "偶遇王一博新疆滑雪",
@@ -315,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259841,
+      "num": 210423,
+      "word": "邵子恒自曝回家不敢关房门",
+      "onboard_time": 1765513280,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258658,
       "num": 258658,
       "word": "多方回应用东方树叶养茶菌当宠物",
@@ -329,6 +385,30 @@
       "onboard_time": 1765509080,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 248160,
+      "num": 218365,
+      "word": "肖战莫得闲的故事会被所有人看到",
+      "onboard_time": 1765513461,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 246997,
+      "num": 206748,
+      "word": "TGA2025年度游戏",
+      "onboard_time": 1765513942,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 246311,
+      "num": 246311,
+      "word": "TGA2025",
+      "onboard_time": 1765503979,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 239965,
@@ -387,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205550,
+      "num": 205550,
+      "word": "孩子哭的那一刻去不去已经没意义了",
+      "onboard_time": 1765511780,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "成毅长安二十四计首播",
@@ -395,12 +483,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203102,
+      "num": 203102,
+      "word": "张家界荒野赛8人平分48万奖金",
+      "onboard_time": 1765511842,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199523,
+      "num": 199523,
+      "word": "故宫",
+      "onboard_time": 1765512860,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 198659,
       "num": 192994,
       "word": "方力申得女",
       "onboard_time": 1765504939,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196889,
+      "num": 196889,
+      "word": "初雪",
+      "onboard_time": 1765514242,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196113,
+      "num": 202107,
+      "word": "TGA直播",
+      "onboard_time": 1765500680,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 195451,
@@ -435,14 +555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190278,
-      "num": 183351,
-      "word": "双轨疑似变短剧了",
-      "onboard_time": 1765511780,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189765,
       "num": 189765,
       "word": "长安二十四计",
@@ -457,14 +569,6 @@
       "onboard_time": 1765510760,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187365,
-      "num": 187365,
-      "word": "TGA直播",
-      "onboard_time": 1765500680,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 186834,
@@ -483,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181566,
+      "num": 181566,
+      "word": "任嘉伦新剧硬控我爷奶",
+      "onboard_time": 1765513523,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180349,
       "num": 180349,
       "word": "陈星旭关注迪丽热巴",
@@ -491,12 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179299,
-      "num": 193715,
-      "word": "TGA2025",
-      "onboard_time": 1765503979,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 176504,
+      "num": 176504,
+      "word": "给热巴的是蓝莓 给星旭的是烂霉",
+      "onboard_time": 1765514122,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173803,
+      "num": 173803,
+      "word": "拉塞尔好帅",
+      "onboard_time": 1765513280,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 173529,
@@ -523,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172402,
+      "num": 230193,
+      "word": "余宇涵首谈父母离异",
+      "onboard_time": 1765513700,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169811,
       "num": 169811,
       "word": "唐朝诡事录",
@@ -537,6 +665,30 @@
       "onboard_time": 1765511540,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167841,
+      "num": 167841,
+      "word": "第一次对难熬有了实感",
+      "onboard_time": 1765513101,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 167703,
+      "num": 167703,
+      "word": "张柏芝曾被朋友多次背叛",
+      "onboard_time": 1765514362,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165391,
+      "num": 215606,
+      "word": "干部用个人收款码10年侵吞993万获刑",
+      "onboard_time": 1765512981,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164793,
@@ -555,12 +707,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 160387,
-      "num": 160387,
-      "word": "美国要建C5世界惊了欧洲懵了",
-      "onboard_time": 1765511540,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 161516,
+      "num": 161516,
+      "word": "明日方舟终末地",
+      "onboard_time": 1765514181,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 155595,
@@ -609,6 +761,14 @@
       "onboard_time": 1765510221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142799,
+      "num": 237559,
+      "word": "淘宝闪购为幸运老友送全年免单",
+      "onboard_time": 1765512202,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 141850,
@@ -787,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111548,
+      "num": 200497,
+      "word": "王俊凯 喜羊羊塑",
+      "onboard_time": 1765513700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109854,
       "num": 109854,
       "word": "国外捐精者被查出20%精子带致癌基因",
@@ -851,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94018,
+      "num": 202352,
+      "word": "超6成农村定向医学生履约后离开基层",
+      "onboard_time": 1765512501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93861,
       "num": 93861,
       "word": "南京大屠杀真实存在任何人抹杀不了",
@@ -883,12 +1059,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 81163,
+      "num": 214367,
+      "word": "林诗栋蒯曼vs沙奇塔莱",
+      "onboard_time": 1765513042,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78141,
       "num": 78141,
       "word": "摩尔线程跌超6%",
       "onboard_time": 1765504999,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77356,
+      "num": 227611,
+      "word": "全网爆火的煮鸡蛋大神是个00后",
+      "onboard_time": 1765514242,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75985,
@@ -1283,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46257,
+      "num": 420808,
+      "word": "中央经济工作会议速览",
+      "onboard_time": 1765512623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44461,
       "num": 54072,
       "word": "萝卜事业运",
@@ -1355,20 +1555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31094,
+      "num": 232864,
+      "word": "抖音商城年末终极补好价别错过",
+      "onboard_time": 1765512381,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29592,
       "num": 193230,
       "word": "高市早苗内阁高官再曝丑闻",
       "onboard_time": 1765505721,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29435,
-      "num": 181433,
-      "word": "张家界荒野赛8人平分48万奖金",
-      "onboard_time": 1765511842,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29139,
@@ -1384,6 +1584,14 @@
       "word": "四川一2岁男童在家失踪80余天",
       "onboard_time": 1765505840,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28829,
+      "num": 227813,
+      "word": "央美毕业的格斗女孩参加扇耳光大赛",
+      "onboard_time": 1765513881,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1404,7 +1612,7 @@
     },
     {
       "raw_hot": 24810,
-      "num": 197542,
+      "num": 249787,
       "word": "必须以苦练内功来应对外部挑战",
       "onboard_time": 1765477575,
       "rank": 41,
@@ -1521,6 +1729,9 @@
     },
     {
       "word": "#中央经济工作会议#"
+    },
+    {
+      "word": "#2026中国经济工作怎么干#"
     }
   ]
 }
