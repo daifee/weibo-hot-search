@@ -1,0 +1,410 @@
+{
+  "runTime": 1765528749428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 442084,
+        "num": 1070733,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137556,
+        "num": 425553,
+        "word": "王曼昱WTT单打第100胜",
+        "onboard_time": 1765524500,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26782,
+        "num": 410933,
+        "word": "中央经济工作会议速览",
+        "onboard_time": 1765512623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408177,
+        "num": 408177,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263906,
+        "num": 407602,
+        "word": "日本年度汉字为熊",
+        "onboard_time": 1765521080,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165868,
+        "num": 404375,
+        "word": "快看啊下雪了",
+        "onboard_time": 1765526722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121571,
+        "num": 403341,
+        "word": "日本仍有人公然说南京大屠杀是造谣",
+        "onboard_time": 1765526722,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118415,
+        "num": 401077,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1765518920,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108381,
+        "num": 400051,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 398230,
+        "num": 398230,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699269,
+        "num": 387269,
+        "word": "爱用26键的人有福了",
+        "onboard_time": 1765525701,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 528660,
+        "num": 360366,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521914,
+        "num": 353018,
+        "word": "痞幼9年前旧照",
+        "onboard_time": 1765523962,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 458377,
+        "num": 321984,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315858,
+        "num": 315858,
+        "word": "为什么我们停止不了视奸",
+        "onboard_time": 1765523001,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256286,
+        "num": 256286,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251150,
+        "num": 251150,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234318,
+        "num": 234318,
+        "word": "胡先煦是沈腾迪丽热巴的水印吧",
+        "onboard_time": 1765527801,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190906,
+        "num": 190906,
+        "word": "周也在北京光腿穿裙子",
+        "onboard_time": 1765526542,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182340,
+        "num": 182340,
+        "word": "任素汐 任宥纶",
+        "onboard_time": 1765527680,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106374,
+        "num": 182144,
+        "word": "陈熠晋级香港总决赛四强",
+        "onboard_time": 1765527020,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101243,
+        "num": 181900,
+        "word": "成毅长安二十四计首播",
+        "onboard_time": 1765509982,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769627,
+        "num": 181599,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523093,
+        "num": 181218,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23374,
+        "num": 180771,
+        "word": "双十二初雪到货",
+        "onboard_time": 1765527263,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42482,
+        "num": 180380,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480213,
+        "num": 180009,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690698,
+        "num": 179844,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308308,
+        "num": 179569,
+        "word": "赤木刚宪瘦了70斤",
+        "onboard_time": 1765525641,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38360,
+        "num": 178992,
+        "word": "香港将于9个月内完成火灾成因报告",
+        "onboard_time": 1765526481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246171,
+        "num": 178589,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261836,
+        "num": 178206,
+        "word": "见识一下100%纯羊毛",
+        "onboard_time": 1765527743,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178203,
+        "num": 178203,
+        "word": "研究发现1天已不足24小时",
+        "onboard_time": 1765522101,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175101,
+        "num": 175101,
+        "word": "机器狗的就业新方向",
+        "onboard_time": 1765527982,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162340,
+        "num": 162340,
+        "word": "张碧晨连发9个捂嘴哭",
+        "onboard_time": 1765521382,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142441,
+        "num": 142441,
+        "word": "陈晓好直观的美人尖",
+        "onboard_time": 1765528281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106948,
+        "num": 141253,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8834,
+        "num": 139309,
+        "word": "被北京雪地里的祝福戳到了",
+        "onboard_time": 1765528582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28990,
+        "num": 137144,
+        "word": "陈小纭 狙击蝴蝶最强助攻",
+        "onboard_time": 1765527743,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12017,
+        "num": 134505,
+        "word": "王俊凯粉丝给董子健发观演须知",
+        "onboard_time": 1765528341,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116955,
+        "num": 116955,
+        "word": "下雪后人体7成的热量从头部散发",
+        "onboard_time": 1765523302,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116341,
+        "num": 116341,
+        "word": "哑舍",
+        "onboard_time": 1765507940,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115993,
+        "num": 115993,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114334,
+        "num": 114334,
+        "word": "印度大学生情侣未婚先孕酿悲剧",
+        "onboard_time": 1765518200,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110954,
+        "num": 110954,
+        "word": "杨紫紧急申请打码保护小狗隐私",
+        "onboard_time": 1765526122,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 110819,
+        "word": "Kanavi说回到LCK生活很舒服",
+        "onboard_time": 1765528281,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107703,
+        "num": 107703,
+        "word": "如何一个月瘦12斤",
+        "onboard_time": 1765527441,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 42910,
+        "num": 102411,
+        "word": "租客称退租因窗帘两根猫毛被扣钱",
+        "onboard_time": 1765527142,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101654,
+        "num": 101654,
+        "word": "腾讯12月抬了两部双男主",
+        "onboard_time": 1765523962,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026中国经济工作怎么干#"
+    }
+  }
+}
