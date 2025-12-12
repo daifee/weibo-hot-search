@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765572290240,
+  "endTime": 1765574771671,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -41075,6 +41075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23699,
+      "num": 26588,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23674,
       "num": 267133,
       "word": "八项重点任务这样干",
@@ -42307,6 +42315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13872,
+      "num": 26552,
+      "word": "周柯宇说李雾头皮一松是自己加的",
+      "onboard_time": 1765570274,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13837,
       "num": 133981,
       "word": "林诗栋说梁靖崑一直不太好打",
@@ -42355,6 +42371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13391,
+      "num": 16844,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 13387,
       "num": 41436,
       "word": "葛夕回应上恋综",
@@ -42377,14 +42401,6 @@
       "onboard_time": 1765303456,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13167,
-      "num": 26588,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 13118,
@@ -42451,20 +42467,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 12591,
+      "num": 26563,
+      "word": "一场被全球汽车圈围观的碰撞",
+      "onboard_time": 1765555461,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 12487,
       "num": 30157,
       "word": "如果你想买一件东西时犹豫不决",
       "onboard_time": 1765391354,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12446,
-      "num": 26563,
-      "word": "一场被全球汽车圈围观的碰撞",
-      "onboard_time": 1765555461,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 12432,
@@ -42481,14 +42497,6 @@
       "onboard_time": 1765425203,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12279,
-      "num": 26552,
-      "word": "周柯宇说李雾头皮一松是自己加的",
-      "onboard_time": 1765570274,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 12250,
