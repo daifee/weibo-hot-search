@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765578470691,
+  "endTime": 1765579474157,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -7284,7 +7284,7 @@
     },
     {
       "raw_hot": 347994,
-      "num": 409670,
+      "num": 505098,
       "word": "俄罗斯向日本发出警告",
       "onboard_time": 1765554681,
       "rank": 6,
@@ -33251,6 +33251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79892,
+      "num": 42651,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79753,
       "num": 113854,
       "word": "迪丽热巴 拉郎乱炖",
@@ -34209,14 +34217,6 @@
       "onboard_time": 1765431621,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72468,
-      "num": 33133,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 72463,
@@ -39075,6 +39075,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 36319,
+      "num": 36319,
+      "word": "中国佛协回应放生大米行为",
+      "onboard_time": 1765576214,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36170,
       "num": 176563,
       "word": "宝妈称网购爱他美奶粉开罐后变面粉",
@@ -40835,6 +40843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25056,
+      "num": 34291,
+      "word": "古早留子vs现代留子",
+      "onboard_time": 1765575554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25048,
       "num": 25332,
       "word": "冯提莫成立传媒公司",
@@ -41355,14 +41371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22167,
-      "num": 27364,
-      "word": "中国佛协回应放生大米行为",
-      "onboard_time": 1765576214,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22117,
       "num": 105867,
       "word": "2000多年前中国水利设计有多超前",
@@ -41395,12 +41403,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21401,
-      "num": 27356,
-      "word": "古早留子vs现代留子",
-      "onboard_time": 1765575554,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 21213,
+      "num": 34275,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 21194,
@@ -41545,14 +41553,6 @@
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20175,
-      "num": 27352,
-      "word": "iPhone拍照脸歪的问题解决了",
-      "onboard_time": 1765573694,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 20147,
@@ -42211,6 +42211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15274,
+      "num": 34226,
+      "word": "2025国剧盛典",
+      "onboard_time": 1765575074,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15259,
       "num": 134950,
       "word": "警方回应博主打假遭店主持刀驱赶",
@@ -42249,6 +42257,14 @@
       "onboard_time": 1765537821,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14938,
+      "num": 34215,
+      "word": "周柯宇说李雾头皮一松是自己加的",
+      "onboard_time": 1765570274,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14912,
@@ -42339,14 +42355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13879,
-      "num": 27335,
-      "word": "周柯宇说李雾头皮一松是自己加的",
-      "onboard_time": 1765570274,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13837,
       "num": 133981,
       "word": "林诗栋说梁靖崑一直不太好打",
@@ -42409,14 +42417,6 @@
       "onboard_time": 1765476374,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13299,
-      "num": 27333,
-      "word": "2025国剧盛典",
-      "onboard_time": 1765575074,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 13240,
@@ -42483,20 +42483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12753,
+      "num": 34199,
+      "word": "一场被全球汽车圈围观的碰撞",
+      "onboard_time": 1765555461,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 12741,
       "num": 67031,
       "word": "微博年度关键词赛博",
       "onboard_time": 1765226054,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12591,
-      "num": 27324,
-      "word": "一场被全球汽车圈围观的碰撞",
-      "onboard_time": 1765555461,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 12487,

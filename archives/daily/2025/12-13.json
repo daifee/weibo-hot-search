@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765578470691,
+  "endTime": 1765579474157,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 347994,
-      "num": 409670,
+      "num": 505098,
       "word": "俄罗斯向日本发出警告",
       "onboard_time": 1765554681,
       "rank": 6,
@@ -291,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79892,
+      "num": 42651,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75114,
       "num": 108971,
       "word": "比单休更恶心的是月休4天",
@@ -313,14 +321,6 @@
       "onboard_time": 1765538721,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72468,
-      "num": 33133,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 71918,
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53401,
+      "num": 86173,
+      "word": "日本人嘲笑小泉进次郎",
+      "onboard_time": 1765546165,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52751,
       "num": 86330,
       "word": "双轨故事逻辑",
@@ -441,14 +449,6 @@
       "onboard_time": 1765556301,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45817,
-      "num": 86173,
-      "word": "日本人嘲笑小泉进次郎",
-      "onboard_time": 1765546165,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44312,
@@ -473,6 +473,14 @@
       "onboard_time": 1765561635,
       "rank": 22,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 36319,
+      "num": 36319,
+      "word": "中国佛协回应放生大米行为",
+      "onboard_time": 1765576214,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35408,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25056,
+      "num": 34291,
+      "word": "古早留子vs现代留子",
+      "onboard_time": 1765575554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24134,
       "num": 42214,
       "word": "减肥思路 无视中断",
@@ -523,20 +539,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 22167,
-      "num": 27364,
-      "word": "中国佛协回应放生大米行为",
-      "onboard_time": 1765576214,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21401,
-      "num": 27356,
-      "word": "古早留子vs现代留子",
-      "onboard_time": 1765575554,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 21213,
+      "num": 34275,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 20354,
@@ -547,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20175,
-      "num": 27352,
-      "word": "iPhone拍照脸歪的问题解决了",
-      "onboard_time": 1765573694,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 18059,
       "num": 178169,
       "word": "解读2025中央经济工作会议",
@@ -563,8 +563,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13879,
-      "num": 27335,
+      "raw_hot": 15274,
+      "num": 34226,
+      "word": "2025国剧盛典",
+      "onboard_time": 1765575074,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14938,
+      "num": 34215,
       "word": "周柯宇说李雾头皮一松是自己加的",
       "onboard_time": 1765570274,
       "rank": 45,
@@ -579,16 +587,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13299,
-      "num": 27333,
-      "word": "2025国剧盛典",
-      "onboard_time": 1765575074,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12591,
-      "num": 27324,
+      "raw_hot": 12753,
+      "num": 34199,
       "word": "一场被全球汽车圈围观的碰撞",
       "onboard_time": 1765555461,
       "rank": 42,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 9543,
-      "num": 108938,
+      "num": 127489,
       "word": "中央经济工作会议要点学习笔记",
       "onboard_time": 1765530621,
       "rank": 2,

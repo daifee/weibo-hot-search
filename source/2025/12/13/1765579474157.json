@@ -1,0 +1,410 @@
+{
+  "runTime": 1765579474157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 273946,
+        "num": 505098,
+        "word": "俄罗斯向日本发出警告",
+        "onboard_time": 1765554681,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200375,
+        "num": 200375,
+        "word": "东北雨姐转世账号被关闭",
+        "onboard_time": 1765549344,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 9519,
+        "num": 127489,
+        "word": "中央经济工作会议要点学习笔记",
+        "onboard_time": 1765530621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107937,
+        "num": 107937,
+        "word": "女子仅退款225个快递案现新受害者",
+        "onboard_time": 1765551625,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54352,
+        "num": 54352,
+        "word": "假如南京大屠杀没有发生",
+        "onboard_time": 1765549644,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107822,
+        "num": 54290,
+        "word": "198斤新娘减肥70斤后要离婚",
+        "onboard_time": 1765539741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53401,
+        "num": 53401,
+        "word": "日本人嘲笑小泉进次郎",
+        "onboard_time": 1765546165,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61240,
+        "num": 51615,
+        "word": "网信部门点名陈震",
+        "onboard_time": 1765557622,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 45159,
+        "num": 45159,
+        "word": "疑注射3万一支失效药患儿母亲发声",
+        "onboard_time": 1765543403,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 44767,
+        "num": 44767,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765535602,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95151,
+        "num": 42868,
+        "word": "陈伟霆 它咬了你我立马下班",
+        "onboard_time": 1765555161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79892,
+        "num": 42651,
+        "word": "刘亦菲与朱亚文是大学同学",
+        "onboard_time": 1765571834,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51541,
+        "num": 41275,
+        "word": "好莱坞女星被撞身亡",
+        "onboard_time": 1765548204,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39029,
+        "num": 39029,
+        "word": "王楚钦说被打1比11很正常",
+        "onboard_time": 1765543523,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37366,
+        "num": 37366,
+        "word": "30厘米长老鼠爬到2岁孩子床上",
+        "onboard_time": 1765535001,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37251,
+        "num": 37251,
+        "word": "一念江南",
+        "onboard_time": 1765542863,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36319,
+        "num": 36319,
+        "word": "中国佛协回应放生大米行为",
+        "onboard_time": 1765576214,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35508,
+        "num": 35508,
+        "word": "为30多万死难同胞发条微博",
+        "onboard_time": 1765556601,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35445,
+        "num": 35445,
+        "word": "畸形吃播陈晨辰被封禁",
+        "onboard_time": 1765561635,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 34349,
+        "num": 34349,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43187,
+        "num": 34345,
+        "word": "哈尔滨中央大街开始供暖了",
+        "onboard_time": 1765551024,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 31245,
+        "num": 34343,
+        "word": "男子给同事发不雅视频被开除起诉公司",
+        "onboard_time": 1765559477,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28167,
+        "num": 34337,
+        "word": "北京大兴机场20元过夜",
+        "onboard_time": 1765559418,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27890,
+        "num": 34331,
+        "word": "保剑锋",
+        "onboard_time": 1765539501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27095,
+        "num": 34323,
+        "word": "云初令官宣虞书欣",
+        "onboard_time": 1765542622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26220,
+        "num": 34318,
+        "word": "长安二十四计",
+        "onboard_time": 1765539862,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 34316,
+        "word": "小猫每天去给过世的主人上坟",
+        "onboard_time": 1765556899,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25345,
+        "num": 34311,
+        "word": "孙颖莎主动挑战",
+        "onboard_time": 1765552042,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22983,
+        "num": 34301,
+        "word": "王一博的舌苔",
+        "onboard_time": 1765538721,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26486,
+        "num": 34299,
+        "word": "虞书欣双轨对打成毅长安二十四计",
+        "onboard_time": 1765560619,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25056,
+        "num": 34291,
+        "word": "古早留子vs现代留子",
+        "onboard_time": 1765575554,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21788,
+        "num": 34290,
+        "word": "陈妍希 翻红",
+        "onboard_time": 1765554202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21284,
+        "num": 34279,
+        "word": "AG战胜RNGM",
+        "onboard_time": 1765553662,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21213,
+        "num": 34275,
+        "word": "iPhone拍照脸歪的问题解决了",
+        "onboard_time": 1765573694,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20902,
+        "num": 34269,
+        "word": "双轨热度",
+        "onboard_time": 1765542863,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20094,
+        "num": 34265,
+        "word": "台军误射民宅后竟向村民要掌声",
+        "onboard_time": 1765553722,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18888,
+        "num": 34259,
+        "word": "长安二十四计热度",
+        "onboard_time": 1765545565,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18734,
+        "num": 34255,
+        "word": "云初令",
+        "onboard_time": 1765542683,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17429,
+        "num": 34248,
+        "word": "霍格沃兹变义务教育了",
+        "onboard_time": 1765554382,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15927,
+        "num": 34242,
+        "word": "英语四六级",
+        "onboard_time": 1765548744,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15689,
+        "num": 34242,
+        "word": "陈妍希说把周柯宇当小狗",
+        "onboard_time": 1765551382,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15543,
+        "num": 34232,
+        "word": "双轨故事逻辑",
+        "onboard_time": 1765547124,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15274,
+        "num": 34226,
+        "word": "2025国剧盛典",
+        "onboard_time": 1765575074,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15254,
+        "num": 34223,
+        "word": "减肥思路 无视中断",
+        "onboard_time": 1765563135,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15250,
+        "num": 34218,
+        "word": "云初令官宣",
+        "onboard_time": 1765541663,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14938,
+        "num": 34215,
+        "word": "周柯宇说李雾头皮一松是自己加的",
+        "onboard_time": 1765570274,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13382,
+        "num": 34207,
+        "word": "人类对车屁股的掌控力不如对自家猫",
+        "onboard_time": 1765556301,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 34205,
+        "word": "2025最燃音乐现场TOP30",
+        "onboard_time": 1765560797,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12753,
+        "num": 34199,
+        "word": "一场被全球汽车圈围观的碰撞",
+        "onboard_time": 1765555461,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11599,
+        "num": 34189,
+        "word": "王源北京跨晚路透氛围感",
+        "onboard_time": 1765549705,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}
