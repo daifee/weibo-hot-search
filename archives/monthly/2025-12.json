@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765564896406,
+  "endTime": 1765565688821,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -41027,6 +41027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24134,
+      "num": 42214,
+      "word": "减肥思路 无视中断",
+      "onboard_time": 1765563135,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 23964,
       "num": 123176,
       "word": "河南方城学校火灾680天后",
@@ -41337,14 +41345,6 @@
       "onboard_time": 1764863840,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22144,
-      "num": 42214,
-      "word": "减肥思路 无视中断",
-      "onboard_time": 1765563135,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 22117,
