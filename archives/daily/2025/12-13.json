@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765560467000,
+  "endTime": 1765561482232,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -275,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86414,
+      "num": 86414,
+      "word": "虞书欣双轨对打成毅长安二十四计",
+      "onboard_time": 1765560619,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75114,
       "num": 108971,
       "word": "比单休更恶心的是月休4天",
@@ -321,6 +329,14 @@
       "onboard_time": 1765540161,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70237,
+      "num": 89425,
+      "word": "北京大兴机场20元过夜",
+      "onboard_time": 1765559418,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69356,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 52751,
-      "num": 82073,
+      "num": 86330,
       "word": "双轨故事逻辑",
       "onboard_time": 1765547124,
       "rank": 25,
@@ -419,16 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49707,
-      "num": 82055,
-      "word": "北京大兴机场20元过夜",
-      "onboard_time": 1765559418,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45817,
-      "num": 82022,
+      "num": 86173,
       "word": "日本人嘲笑小泉进次郎",
       "onboard_time": 1765546165,
       "rank": 31,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 44312,
-      "num": 81988,
+      "num": 86051,
       "word": "男子给同事发不雅视频被开除起诉公司",
       "onboard_time": 1765559477,
       "rank": 34,
@@ -444,15 +452,23 @@
     },
     {
       "raw_hot": 43675,
-      "num": 81984,
+      "num": 85631,
       "word": "保剑锋",
       "onboard_time": 1765539501,
       "rank": 35,
       "category": "艺人"
     },
     {
-      "raw_hot": 33172,
-      "num": 81921,
+      "raw_hot": 33547,
+      "num": 85384,
+      "word": "刺杀小说家2",
+      "onboard_time": 1765560737,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 33265,
+      "num": 85268,
       "word": "zwy的bp",
       "onboard_time": 1765550005,
       "rank": 42,
@@ -465,6 +481,22 @@
       "onboard_time": 1765560077,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29749,
+      "num": 85123,
+      "word": "2025最燃音乐现场TOP30",
+      "onboard_time": 1765560797,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25392,
+      "num": 84852,
+      "word": "浙江跨晚抓大鹅式官宣",
+      "onboard_time": 1765560497,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 18059,
