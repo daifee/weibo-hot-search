@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765558109223,
+  "endTime": 1765560467000,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 302106,
-      "num": 164119,
+      "num": 166524,
       "word": "云初令官宣虞书欣",
       "onboard_time": 1765542622,
       "rank": 16,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224616,
+      "num": 224616,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765535602,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203278,
       "num": 162150,
       "word": "孟子义云包场双轨",
@@ -132,19 +140,19 @@
     },
     {
       "raw_hot": 170819,
-      "num": 170819,
+      "num": 170866,
       "word": "北京暴雪",
       "onboard_time": 1765527322,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163386,
-      "num": 163386,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765535602,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 163729,
+      "num": 163729,
+      "word": "陈伟霆 它咬了你我立马下班",
+      "onboard_time": 1765555161,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 162309,
@@ -163,14 +171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161134,
-      "num": 161134,
-      "word": "陈伟霆 它咬了你我立马下班",
-      "onboard_time": 1765555161,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138095,
       "num": 138095,
       "word": "30厘米长老鼠爬到2岁孩子床上",
@@ -179,20 +179,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137831,
+      "num": 81901,
+      "word": "虞书欣演技",
+      "onboard_time": 1765542443,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129779,
+      "num": 129779,
+      "word": "陈妍希 翻红",
+      "onboard_time": 1765554202,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127032,
-      "num": 102970,
+      "num": 115509,
       "word": "双轨热度",
       "onboard_time": 1765542863,
       "rank": 36,
       "category": "剧集"
     },
     {
-      "raw_hot": 124263,
-      "num": 124263,
-      "word": "陈妍希 翻红",
-      "onboard_time": 1765554202,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 121555,
+      "num": 172701,
+      "word": "网信部门点名陈震",
+      "onboard_time": 1765557622,
+      "rank": 26,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 119224,
@@ -227,12 +243,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98218,
-      "num": 103102,
-      "word": "网信部门点名陈震",
-      "onboard_time": 1765557622,
-      "rank": 26,
-      "category": "民生新闻,网红"
+      "raw_hot": 97102,
+      "num": 108800,
+      "word": "小猫每天去给过世的主人上坟",
+      "onboard_time": 1765556899,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 94572,
@@ -257,14 +273,6 @@
       "onboard_time": 1765554382,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79480,
-      "num": 108800,
-      "word": "小猫每天去给过世的主人上坟",
-      "onboard_time": 1765556899,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 75114,
@@ -395,12 +403,68 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52751,
+      "num": 82073,
+      "word": "双轨故事逻辑",
+      "onboard_time": 1765547124,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51934,
       "num": 108855,
       "word": "人类对车屁股的掌控力不如对自家猫",
       "onboard_time": 1765556301,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49707,
+      "num": 82055,
+      "word": "北京大兴机场20元过夜",
+      "onboard_time": 1765559418,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45817,
+      "num": 82022,
+      "word": "日本人嘲笑小泉进次郎",
+      "onboard_time": 1765546165,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44312,
+      "num": 81988,
+      "word": "男子给同事发不雅视频被开除起诉公司",
+      "onboard_time": 1765559477,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43675,
+      "num": 81984,
+      "word": "保剑锋",
+      "onboard_time": 1765539501,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33172,
+      "num": 81921,
+      "word": "zwy的bp",
+      "onboard_time": 1765550005,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30253,
+      "num": 81874,
+      "word": "朱珠 女性总是会有牺牲精神",
+      "onboard_time": 1765560077,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 18059,

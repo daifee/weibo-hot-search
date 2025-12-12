@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765558109223,
+  "endTime": 1765560467000,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -16771,6 +16771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163729,
+      "num": 163729,
+      "word": "陈伟霆 它咬了你我立马下班",
+      "onboard_time": 1765555161,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163686,
       "num": 163686,
       "word": "景甜 顶级进化论",
@@ -17081,14 +17089,6 @@
       "onboard_time": 1764646521,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161134,
-      "num": 161134,
-      "word": "陈伟霆 它咬了你我立马下班",
-      "onboard_time": 1765555161,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 161051,
@@ -22235,6 +22235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129779,
+      "num": 129779,
+      "word": "陈妍希 翻红",
+      "onboard_time": 1765554202,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129673,
       "num": 564068,
       "word": "国乒8比4瑞典",
@@ -23307,14 +23315,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 124263,
-      "num": 124263,
-      "word": "陈妍希 翻红",
-      "onboard_time": 1765554202,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124256,
       "num": 124256,
       "word": "30秒解决吃什么世纪难题",
@@ -23953,6 +23953,14 @@
       "onboard_time": 1765278082,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121555,
+      "num": 172701,
+      "word": "网信部门点名陈震",
+      "onboard_time": 1765557622,
+      "rank": 26,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 121486,
@@ -29739,14 +29747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98218,
-      "num": 103102,
-      "word": "网信部门点名陈震",
-      "onboard_time": 1765557622,
-      "rank": 26,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 98206,
       "num": 98206,
       "word": "留学生遭电诈2次飞回国转账",
@@ -29953,6 +29953,14 @@
       "onboard_time": 1765092621,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97102,
+      "num": 108800,
+      "word": "小猫每天去给过世的主人上坟",
+      "onboard_time": 1765556899,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 97055,
@@ -33265,14 +33273,6 @@
       "onboard_time": 1765243942,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79480,
-      "num": 108800,
-      "word": "小猫每天去给过世的主人上坟",
-      "onboard_time": 1765556899,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 79452,
@@ -36931,6 +36931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49707,
+      "num": 82055,
+      "word": "北京大兴机场20元过夜",
+      "onboard_time": 1765559418,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49673,
       "num": 172083,
       "word": "日本军国主义从未得到彻底清算",
@@ -37729,6 +37737,14 @@
       "onboard_time": 1765094900,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44312,
+      "num": 81988,
+      "word": "男子给同事发不雅视频被开除起诉公司",
+      "onboard_time": 1765559477,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44289,
@@ -39921,6 +39937,14 @@
       "onboard_time": 1765363223,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30253,
+      "num": 81874,
+      "word": "朱珠 女性总是会有牺牲精神",
+      "onboard_time": 1765560077,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 30197,
