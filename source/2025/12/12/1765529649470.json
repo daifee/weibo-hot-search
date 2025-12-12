@@ -1,0 +1,410 @@
+{
+  "runTime": 1765529649470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 561122,
+        "num": 1089779,
+        "word": "北京暴雪",
+        "onboard_time": 1765527322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183018,
+        "num": 1072703,
+        "word": "均价500元的手机壳被疯抢",
+        "onboard_time": 1765528161,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24437,
+        "num": 1053324,
+        "word": "中央经济工作会议速览",
+        "onboard_time": 1765512623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198151,
+        "num": 1023497,
+        "word": "日本年度汉字为熊",
+        "onboard_time": 1765521080,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318198,
+        "num": 1001018,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 964295,
+        "word": "王曼昱WTT单打第100胜",
+        "onboard_time": 1765524500,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 932092,
+        "word": "快看啊下雪了",
+        "onboard_time": 1765526722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114811,
+        "num": 921961,
+        "word": "日本仍有人公然说南京大屠杀是造谣",
+        "onboard_time": 1765526722,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138185,
+        "num": 888336,
+        "word": "白宫回应中日冲突后日本失望",
+        "onboard_time": 1765528463,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107668,
+        "num": 861120,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1765518920,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1238260,
+        "num": 834269,
+        "word": "微信群崩了",
+        "onboard_time": 1765529242,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 821608,
+        "num": 821608,
+        "word": "爱用26键的人有福了",
+        "onboard_time": 1765525701,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104249,
+        "num": 529252,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 512237,
+        "num": 512237,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467628,
+        "num": 467628,
+        "word": "年入百万和年薪百万的区别",
+        "onboard_time": 1765525522,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326755,
+        "num": 442814,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429252,
+        "num": 429252,
+        "word": "痞幼9年前旧照",
+        "onboard_time": 1765523962,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284748,
+        "num": 284748,
+        "word": "周也在北京光腿穿裙子",
+        "onboard_time": 1765526542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241499,
+        "num": 241499,
+        "word": "胡先煦是沈腾迪丽热巴的水印吧",
+        "onboard_time": 1765527801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238856,
+        "num": 238856,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 699452,
+        "num": 238321,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500141,
+        "num": 237995,
+        "word": "郭碧婷爸爸有7个孙子孙女了",
+        "onboard_time": 1765526722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251625,
+        "num": 237151,
+        "word": "为什么我们停止不了视奸",
+        "onboard_time": 1765523001,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488392,
+        "num": 236521,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236391,
+        "num": 236391,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606338,
+        "num": 236332,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281315,
+        "num": 236248,
+        "word": "见识一下100%纯羊毛",
+        "onboard_time": 1765527743,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242306,
+        "num": 236073,
+        "word": "赤木刚宪瘦了70斤",
+        "onboard_time": 1765525641,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113950,
+        "num": 235959,
+        "word": "王楚钦主动擦椅子上的汗",
+        "onboard_time": 1765528943,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235926,
+        "num": 235926,
+        "word": "霍建华娶林心如的原因找到了",
+        "onboard_time": 1765526542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225886,
+        "num": 225886,
+        "word": "钉钉文档崩了",
+        "onboard_time": 1765529303,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198768,
+        "num": 198768,
+        "word": "任素汐 任宥纶",
+        "onboard_time": 1765527680,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182539,
+        "num": 182539,
+        "word": "研究发现1天已不足24小时",
+        "onboard_time": 1765522101,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157433,
+        "num": 157433,
+        "word": "李维嘉撞脸俄罗斯小美人",
+        "onboard_time": 1765528881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133152,
+        "num": 133152,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128705,
+        "num": 128705,
+        "word": "陈晓好直观的美人尖",
+        "onboard_time": 1765528281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109766,
+        "num": 109766,
+        "word": "张碧晨连发9个捂嘴哭",
+        "onboard_time": 1765521382,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15458,
+        "num": 108548,
+        "word": "被北京雪地里的祝福戳到了",
+        "onboard_time": 1765528582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9413,
+        "num": 107767,
+        "word": "现偶有这样的女主任谁都想代入男主",
+        "onboard_time": 1765529542,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33949,
+        "num": 106361,
+        "word": "兰晓龙对肖战的肯定",
+        "onboard_time": 1765528943,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89411,
+        "num": 105359,
+        "word": "陈熠晋级香港总决赛四强",
+        "onboard_time": 1765527020,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104435,
+        "num": 104435,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51762,
+        "num": 102632,
+        "word": "王俊凯粉丝给董子健发观演须知",
+        "onboard_time": 1765528341,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101971,
+        "num": 101971,
+        "word": "Kanavi说回到LCK生活很舒服",
+        "onboard_time": 1765528281,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100624,
+        "num": 100624,
+        "word": "杨紫紧急申请打码保护小狗隐私",
+        "onboard_time": 1765526122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99512,
+        "num": 99512,
+        "word": "印度大学生情侣未婚先孕酿悲剧",
+        "onboard_time": 1765518200,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92473,
+        "num": 92473,
+        "word": "郑州的雪越下越大",
+        "onboard_time": 1765529601,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26869,
+        "num": 92367,
+        "word": "双十二初雪到货",
+        "onboard_time": 1765527263,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92300,
+        "num": 92300,
+        "word": "下雪后人体7成的热量从头部散发",
+        "onboard_time": 1765523302,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92096,
+        "num": 92096,
+        "word": "小狗立马躺下示意该摸我了",
+        "onboard_time": 1765529361,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}

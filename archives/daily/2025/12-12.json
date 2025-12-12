@@ -1,6 +1,6 @@
 {
   "startTime": 1765471228520,
-  "endTime": 1765528749428,
+  "endTime": 1765529649470,
   "band_list": [
     {
       "raw_hot": 1314495,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1238260,
+      "num": 834269,
+      "word": "微信群崩了",
+      "onboard_time": 1765529242,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1175113,
-      "num": 360366,
+      "num": 512237,
       "word": "比单休更恶心的是月休4天",
       "onboard_time": 1765512441,
       "rank": 12,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1020695,
-      "num": 398230,
+      "num": 442814,
       "word": "张柏芝 我要生到不能生为止",
       "onboard_time": 1765515142,
       "rank": 38,
@@ -67,6 +75,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 821608,
+      "num": 821608,
+      "word": "爱用26键的人有福了",
+      "onboard_time": 1765525701,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 772031,
       "num": 237665,
       "word": "删了吧我有个单身的朋友破防了",
@@ -91,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 699269,
-      "num": 387269,
-      "word": "爱用26键的人有福了",
-      "onboard_time": 1765525701,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 695917,
       "num": 261569,
       "word": "双轨疑似变短剧了",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 690698,
-      "num": 179844,
+      "num": 236332,
       "word": "陈伟霆说不会做未婚爸爸",
       "onboard_time": 1765525342,
       "rank": 30,
@@ -131,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 561122,
+      "num": 1089779,
+      "word": "北京暴雪",
+      "onboard_time": 1765527322,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550955,
       "num": 185085,
       "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 543844,
-      "num": 353018,
+      "num": 429252,
       "word": "痞幼9年前旧照",
       "onboard_time": 1765523962,
       "rank": 24,
@@ -161,6 +177,14 @@
       "onboard_time": 1765506201,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 500141,
+      "num": 237995,
+      "word": "郭碧婷爸爸有7个孙子孙女了",
+      "onboard_time": 1765526722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 490715,
@@ -187,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 480213,
-      "num": 180009,
-      "word": "郭碧婷爸爸有7个孙子孙女了",
-      "onboard_time": 1765526722,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468303,
       "num": 1074928,
       "word": "日本年度汉字为熊",
@@ -203,20 +219,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 467628,
+      "num": 467628,
+      "word": "年入百万和年薪百万的区别",
+      "onboard_time": 1765525522,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 458448,
       "num": 183038,
       "word": "村支书卖小米被投诉",
       "onboard_time": 1765500440,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458377,
-      "num": 321984,
-      "word": "年入百万和年薪百万的区别",
-      "onboard_time": 1765525522,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 450872,
@@ -233,14 +249,6 @@
       "onboard_time": 1765509021,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442084,
-      "num": 1070733,
-      "word": "北京暴雪",
-      "onboard_time": 1765527322,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432519,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 374400,
-      "num": 400051,
+      "num": 529252,
       "word": "故宫",
       "onboard_time": 1765512860,
       "rank": 39,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 308308,
-      "num": 179569,
+      "num": 236073,
       "word": "赤木刚宪瘦了70斤",
       "onboard_time": 1765525641,
       "rank": 28,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284748,
+      "num": 284748,
+      "word": "周也在北京光腿穿裙子",
+      "onboard_time": 1765526542,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283697,
       "num": 283697,
       "word": "狙击蝴蝶",
@@ -497,6 +513,14 @@
       "onboard_time": 1765503860,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281315,
+      "num": 236248,
+      "word": "见识一下100%纯羊毛",
+      "onboard_time": 1765527743,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 277773,
@@ -537,14 +561,6 @@
       "onboard_time": 1765519342,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261836,
-      "num": 178206,
-      "word": "见识一下100%纯羊毛",
-      "onboard_time": 1765527743,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 260359,
@@ -620,11 +636,19 @@
     },
     {
       "raw_hot": 246171,
-      "num": 178589,
+      "num": 235926,
       "word": "霍建华娶林心如的原因找到了",
       "onboard_time": 1765526542,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241499,
+      "num": 241499,
+      "word": "胡先煦是沈腾迪丽热巴的水印吧",
+      "onboard_time": 1765527801,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 240289,
@@ -651,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234318,
-      "num": 234318,
-      "word": "胡先煦是沈腾迪丽热巴的水印吧",
-      "onboard_time": 1765527801,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231928,
       "num": 203537,
       "word": "R1SE官博发了12个闪电",
@@ -673,6 +689,14 @@
       "onboard_time": 1765465102,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225886,
+      "num": 225886,
+      "word": "钉钉文档崩了",
+      "onboard_time": 1765529303,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 223450,
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198768,
+      "num": 198768,
+      "word": "任素汐 任宥纶",
+      "onboard_time": 1765527680,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198659,
       "num": 192994,
       "word": "方力申得女",
@@ -825,14 +857,6 @@
       "onboard_time": 1765470678,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 190906,
-      "num": 190906,
-      "word": "周也在北京光腿穿裙子",
-      "onboard_time": 1765526542,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 190663,
@@ -899,20 +923,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183018,
+      "num": 1072703,
+      "word": "均价500元的手机壳被疯抢",
+      "onboard_time": 1765528161,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182716,
       "num": 182716,
       "word": "下雪后人体7成的热量从头部散发",
       "onboard_time": 1765523302,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 182340,
-      "num": 182340,
-      "word": "任素汐 任宥纶",
-      "onboard_time": 1765527680,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 181566,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 165868,
-      "num": 404375,
+      "num": 932092,
       "word": "快看啊下雪了",
       "onboard_time": 1765526722,
       "rank": 5,
@@ -1107,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157433,
+      "num": 157433,
+      "word": "李维嘉撞脸俄罗斯小美人",
+      "onboard_time": 1765528881,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156935,
       "num": 156935,
       "word": "腾讯持股游戏霸屏TGA",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1765515021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150222,
+      "num": 964295,
+      "word": "王曼昱WTT单打第100胜",
+      "onboard_time": 1765524500,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148205,
@@ -1275,12 +1315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137556,
-      "num": 518969,
-      "word": "王曼昱WTT单打第100胜",
-      "onboard_time": 1765524500,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 138185,
+      "num": 888336,
+      "word": "白宫回应中日冲突后日本失望",
+      "onboard_time": 1765528463,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137268,
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 121571,
-      "num": 403341,
+      "num": 921961,
       "word": "日本仍有人公然说南京大屠杀是造谣",
       "onboard_time": 1765526722,
       "rank": 6,
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113950,
+      "num": 235959,
+      "word": "王楚钦主动擦椅子上的汗",
+      "onboard_time": 1765528943,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113879,
       "num": 262199,
       "word": "孙颖莎震惊有可能一日三赛",
@@ -1667,14 +1715,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 106948,
-      "num": 141253,
-      "word": "均价500元的手机壳被疯抢",
-      "onboard_time": 1765528161,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 106374,
       "num": 182144,
       "word": "陈熠晋级香港总决赛四强",
@@ -1769,6 +1809,22 @@
       "onboard_time": 1765500921,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92473,
+      "num": 92473,
+      "word": "郑州的雪越下越大",
+      "onboard_time": 1765529601,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92096,
+      "num": 92096,
+      "word": "小狗立马躺下示意该摸我了",
+      "onboard_time": 1765529361,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91242,
@@ -2235,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51762,
+      "num": 134505,
+      "word": "王俊凯粉丝给董子健发观演须知",
+      "onboard_time": 1765528341,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50443,
       "num": 54034,
       "word": "人民空军双语海报喊话日本",
@@ -2308,7 +2372,7 @@
     },
     {
       "raw_hot": 46257,
-      "num": 420808,
+      "num": 1053324,
       "word": "中央经济工作会议速览",
       "onboard_time": 1765512623,
       "rank": 2,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1765527142,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42482,
-      "num": 180380,
-      "word": "白宫回应中日冲突后日本失望",
-      "onboard_time": 1765528463,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41263,
@@ -2417,6 +2473,14 @@
       "onboard_time": 1765517841,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33949,
+      "num": 106361,
+      "word": "兰晓龙对肖战的肯定",
+      "onboard_time": 1765528943,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 33878,
@@ -2531,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26869,
+      "num": 180771,
+      "word": "双十二初雪到货",
+      "onboard_time": 1765527263,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26311,
       "num": 259212,
       "word": "加油站请女模搞促销引热议",
@@ -2561,14 +2633,6 @@
       "onboard_time": 1765475236,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23374,
-      "num": 180771,
-      "word": "双十二初雪到货",
-      "onboard_time": 1765527263,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22782,
@@ -2651,6 +2715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 15458,
+      "num": 139309,
+      "word": "被北京雪地里的祝福戳到了",
+      "onboard_time": 1765528582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15259,
       "num": 134950,
       "word": "警方回应博主打假遭店主持刀驱赶",
@@ -2691,14 +2763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12017,
-      "num": 134505,
-      "word": "王俊凯粉丝给董子健发观演须知",
-      "onboard_time": 1765528341,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 11612,
       "num": 550574,
       "word": "2026中国经济工作怎么干",
@@ -2707,12 +2771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8834,
-      "num": 139309,
-      "word": "被北京雪地里的祝福戳到了",
-      "onboard_time": 1765528582,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 9413,
+      "num": 107767,
+      "word": "现偶有这样的女主任谁都想代入男主",
+      "onboard_time": 1765529542,
+      "rank": 38,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
