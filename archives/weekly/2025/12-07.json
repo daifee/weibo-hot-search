@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765568355678,
+  "endTime": 1765571517374,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -21387,6 +21387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20354,
+      "num": 26000,
+      "word": "双轨色调",
+      "onboard_time": 1765569914,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20147,
       "num": 521777,
       "word": "从五年规划看中国之治",
@@ -21947,6 +21955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12213,
+      "num": 25945,
+      "word": "一场被全球汽车圈围观的碰撞",
+      "onboard_time": 1765555461,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 11960,
       "num": 41214,
       "word": "朱志鑫纯欧巴",
@@ -21961,6 +21977,14 @@
       "onboard_time": 1765536321,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11627,
+      "num": 25938,
+      "word": "周柯宇说李雾头皮一松是自己加的",
+      "onboard_time": 1765570274,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 11612,
@@ -21993,6 +22017,14 @@
       "onboard_time": 1765530683,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10881,
+      "num": 25927,
+      "word": "檀健次落地是真的饿了",
+      "onboard_time": 1765568775,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 10816,
