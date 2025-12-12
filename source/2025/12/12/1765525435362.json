@@ -1,0 +1,410 @@
+{
+  "runTime": 1765525435362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 468303,
+        "num": 1074928,
+        "word": "日本年度汉字为熊",
+        "onboard_time": 1765521080,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137485,
+        "num": 518969,
+        "word": "王曼昱WTT单打第100胜",
+        "onboard_time": 1765524500,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26654,
+        "num": 403013,
+        "word": "中央经济工作会议速览",
+        "onboard_time": 1765512623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344258,
+        "num": 344258,
+        "word": "北京下雪",
+        "onboard_time": 1765506621,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185295,
+        "num": 185295,
+        "word": "王楚钦vsA勒布伦",
+        "onboard_time": 1765518920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139412,
+        "num": 185200,
+        "word": "北京的雪下大了",
+        "onboard_time": 1765515441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550955,
+        "num": 185085,
+        "word": "儿媳偷走婆婆43万元KTV内挥霍一空",
+        "onboard_time": 1765521441,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287234,
+        "num": 184913,
+        "word": "女子拒绝颈椎病手术当晚瘫痪",
+        "onboard_time": 1765518623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119437,
+        "num": 184886,
+        "word": "故宫",
+        "onboard_time": 1765512860,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99515,
+        "num": 184651,
+        "word": "王曼昱vs朱芊曦",
+        "onboard_time": 1765521920,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764203,
+        "num": 184634,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1765512441,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543844,
+        "num": 184431,
+        "word": "痞幼9年前旧照",
+        "onboard_time": 1765523962,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93889,
+        "num": 184388,
+        "word": "王曼昱4比1朱芊曦",
+        "onboard_time": 1765523900,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437252,
+        "num": 184218,
+        "word": "张柏芝 我要生到不能生为止",
+        "onboard_time": 1765515142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424210,
+        "num": 184063,
+        "word": "回看花千骨 诡异",
+        "onboard_time": 1765517901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398705,
+        "num": 183878,
+        "word": "张碧晨连发9个捂嘴哭",
+        "onboard_time": 1765521382,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377317,
+        "num": 183809,
+        "word": "为什么我们停止不了视奸",
+        "onboard_time": 1765523001,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305560,
+        "num": 183655,
+        "word": "演员印小天在宁国救落水女子",
+        "onboard_time": 1765512680,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218462,
+        "num": 183615,
+        "word": "刘嘉玲吐槽张柏芝没男友就想生娃",
+        "onboard_time": 1765518560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36902,
+        "num": 183446,
+        "word": "苏翊鸣喊你开板啦",
+        "onboard_time": 1765523361,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 934124,
+        "num": 183246,
+        "word": "陈伟霆首谈官宣生子原因",
+        "onboard_time": 1765518081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30375,
+        "num": 183167,
+        "word": "爱你老己 最好的梗",
+        "onboard_time": 1765525102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208366,
+        "num": 183018,
+        "word": "骄阳似我定档",
+        "onboard_time": 1765518682,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653497,
+        "num": 182872,
+        "word": "陈妍希爸爸将陈晓以半子待之",
+        "onboard_time": 1765515862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289563,
+        "num": 182771,
+        "word": "研究发现1天已不足24小时",
+        "onboard_time": 1765522101,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 182716,
+        "num": 182716,
+        "word": "下雪后人体7成的热量从头部散发",
+        "onboard_time": 1765523302,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21194,
+        "num": 181846,
+        "word": "中央明确明年优化药品集中采购",
+        "onboard_time": 1765523900,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181747,
+        "num": 181747,
+        "word": "双轨疑似变短剧了",
+        "onboard_time": 1765511780,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161889,
+        "num": 161889,
+        "word": "33岁男子娶了20岁外国模特",
+        "onboard_time": 1765524141,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157040,
+        "num": 157040,
+        "word": "印度大学生情侣未婚先孕酿悲剧",
+        "onboard_time": 1765518200,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202204,
+        "num": 156998,
+        "word": "陈伟霆说不会做未婚爸爸",
+        "onboard_time": 1765525342,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156935,
+        "num": 156935,
+        "word": "腾讯持股游戏霸屏TGA",
+        "onboard_time": 1765524980,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142841,
+        "num": 142841,
+        "word": "周柯宇最喜欢看陈晓陈妍希版神雕侠侣",
+        "onboard_time": 1765521981,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139183,
+        "num": 139183,
+        "word": "腾讯12月抬了两部双男主",
+        "onboard_time": 1765523962,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139135,
+        "num": 139135,
+        "word": "苏新皓晒北京的雪",
+        "onboard_time": 1765524321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135547,
+        "num": 135547,
+        "word": "白鹿杨紫田曦薇25年度扛剧花",
+        "onboard_time": 1765522701,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132225,
+        "num": 132225,
+        "word": "被街头一束花的仪式感拿捏",
+        "onboard_time": 1765524980,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90759,
+        "num": 130748,
+        "word": "五旬男子在按摩店内身亡",
+        "onboard_time": 1765525041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24599,
+        "num": 130484,
+        "word": "孙颖莎惊讶表情",
+        "onboard_time": 1765525222,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40979,
+        "num": 130422,
+        "word": "女子多次点外卖填写他人地址",
+        "onboard_time": 1765525342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130373,
+        "num": 130373,
+        "word": "保剑锋疑似阴阳黄慧颐",
+        "onboard_time": 1765517662,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123335,
+        "num": 123335,
+        "word": "北京初雪故宫一步三个格格",
+        "onboard_time": 1765523841,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33676,
+        "num": 122858,
+        "word": "老人自称眼盲求助多位路人女孩带路",
+        "onboard_time": 1765524021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122503,
+        "num": 122503,
+        "word": "胡先煦让王安宇裸泳",
+        "onboard_time": 1765524920,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119523,
+        "num": 119523,
+        "word": "肖战彭昱畅周依然想在作品上刻上谨制",
+        "onboard_time": 1765524741,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109393,
+        "num": 109393,
+        "word": "宋威龙带自己的老鼠干打卡初雪",
+        "onboard_time": 1765525401,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109358,
+        "num": 109358,
+        "word": "人大899元书记严选羽绒服卖断货",
+        "onboard_time": 1765512321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105827,
+        "num": 105827,
+        "word": "灌面汤杀妻案李某春死缓",
+        "onboard_time": 1765504460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102832,
+        "num": 102832,
+        "word": "R1SE是个巨大的callback",
+        "onboard_time": 1765525222,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96924,
+        "num": 96924,
+        "word": "郑恺苗苗一家游迪士尼",
+        "onboard_time": 1765522223,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026中国经济工作怎么干#"
+    }
+  }
+}
