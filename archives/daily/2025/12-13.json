@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765574771671,
+  "endTime": 1765575591428,
   "band_list": [
     {
       "raw_hot": 801646,
@@ -467,6 +467,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 39251,
+      "num": 26863,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35408,
       "num": 85384,
       "word": "刺杀小说家2",
@@ -515,14 +523,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 23699,
-      "num": 26588,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20354,
       "num": 26657,
       "word": "双轨色调",
@@ -537,6 +537,14 @@
       "onboard_time": 1765546584,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14157,
+      "num": 26240,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 13873,
@@ -555,20 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13391,
-      "num": 16844,
-      "word": "iPhone拍照脸歪的问题解决了",
-      "onboard_time": 1765573694,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 12591,
       "num": 26563,
       "word": "一场被全球汽车圈围观的碰撞",
       "onboard_time": 1765555461,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 11173,
+      "num": 26200,
+      "word": "古早留子vs现代留子",
+      "onboard_time": 1765575554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11132,
+      "num": 26193,
+      "word": "2025国剧盛典",
+      "onboard_time": 1765575074,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 10881,

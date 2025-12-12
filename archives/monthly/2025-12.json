@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765574771671,
+  "endTime": 1765575591428,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -38547,6 +38547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39251,
+      "num": 26863,
+      "word": "刘亦菲与朱亚文是大学同学",
+      "onboard_time": 1765571834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39217,
       "num": 127754,
       "word": "仅退款225件女子被曝有同伙",
@@ -41075,14 +41083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23699,
-      "num": 26588,
-      "word": "刘亦菲与朱亚文是大学同学",
-      "onboard_time": 1765571834,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23674,
       "num": 267133,
       "word": "八项重点任务这样干",
@@ -42291,6 +42291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14157,
+      "num": 26240,
+      "word": "iPhone拍照脸歪的问题解决了",
+      "onboard_time": 1765573694,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 14136,
       "num": 178836,
       "word": "餐馆贴狗与外卖员勿进",
@@ -42369,14 +42377,6 @@
       "onboard_time": 1764577163,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13391,
-      "num": 16844,
-      "word": "iPhone拍照脸歪的问题解决了",
-      "onboard_time": 1765573694,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 13387,
@@ -42659,12 +42659,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11173,
+      "num": 26200,
+      "word": "古早留子vs现代留子",
+      "onboard_time": 1765575554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 11156,
       "num": 180465,
       "word": "冰雪大世界建造现场科幻片既视感",
       "onboard_time": 1765292003,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11132,
+      "num": 26193,
+      "word": "2025国剧盛典",
+      "onboard_time": 1765575074,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 11043,
