@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765553493606,
+  "endTime": 1765554329552,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716311,
+      "num": 303308,
+      "word": "AG战胜RNGM",
+      "onboard_time": 1765553662,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716080,
       "num": 238211,
       "word": "网友把何炅喝过的水保存了20年",
@@ -2012,7 +2020,7 @@
     },
     {
       "raw_hot": 507952,
-      "num": 211175,
+      "num": 258534,
       "word": "双轨这干嘛呢",
       "onboard_time": 1765550243,
       "rank": 13,
@@ -2244,7 +2252,7 @@
     },
     {
       "raw_hot": 482558,
-      "num": 482558,
+      "num": 1073359,
       "word": "假如南京大屠杀没有发生",
       "onboard_time": 1765549644,
       "rank": 32,
@@ -3540,7 +3548,7 @@
     },
     {
       "raw_hot": 353861,
-      "num": 188422,
+      "num": 236607,
       "word": "AG巅峰对决RNGM",
       "onboard_time": 1765552042,
       "rank": 16,
@@ -4179,6 +4187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 310618,
+      "num": 255812,
+      "word": "女子仅退款225个快递案现新受害者",
+      "onboard_time": 1765551625,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309826,
       "num": 252966,
       "word": "研究发现1天已不足24小时",
@@ -4724,7 +4740,7 @@
     },
     {
       "raw_hot": 275027,
-      "num": 215072,
+      "num": 226558,
       "word": "长安二十四计热度",
       "onboard_time": 1765545565,
       "rank": 24,
@@ -6081,6 +6097,14 @@
       "onboard_time": 1765424482,
       "rank": 1,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 207580,
+      "num": 207580,
+      "word": "长生王昭君",
+      "onboard_time": 1765552583,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 207492,
@@ -8283,14 +8307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165010,
-      "num": 165010,
-      "word": "女子仅退款225个快递案现新受害者",
-      "onboard_time": 1765551625,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164869,
       "num": 194096,
       "word": "曾舜晞上脸 刘宇宁追着调侃",
@@ -8520,14 +8536,6 @@
       "word": "LGDNBW对战Hero久竞",
       "onboard_time": 1765200801,
       "rank": 22,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 160084,
-      "num": 160084,
-      "word": "长生王昭君",
-      "onboard_time": 1765552583,
-      "rank": 27,
       "category": "电竞"
     },
     {
@@ -9585,6 +9593,14 @@
       "onboard_time": 1765301955,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 145492,
+      "num": 145492,
+      "word": "久哲bp",
+      "onboard_time": 1765549224,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 145298,
@@ -11529,14 +11545,6 @@
       "onboard_time": 1765150037,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126055,
-      "num": 126055,
-      "word": "久哲bp",
-      "onboard_time": 1765549224,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 126041,
@@ -14683,6 +14691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102544,
+      "num": 109982,
+      "word": "陈妍希说把周柯宇当小狗",
+      "onboard_time": 1765551382,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102519,
       "num": 102519,
       "word": "喜茶600多家店消失",
@@ -15475,14 +15491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95547,
-      "num": 109982,
-      "word": "陈妍希说把周柯宇当小狗",
-      "onboard_time": 1765551382,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95516,
       "num": 108323,
       "word": "全家都被陈晓硬控在沙发上了",
@@ -16169,6 +16177,14 @@
       "onboard_time": 1765466961,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89914,
+      "num": 89914,
+      "word": "陈妍希 翻红",
+      "onboard_time": 1765554202,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89874,
@@ -21003,6 +21019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23381,
+      "num": 230398,
+      "word": "台军误射民宅后竟向村民要掌声",
+      "onboard_time": 1765553722,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23285,
       "num": 485480,
       "word": "一天活力益冠搞定",
@@ -21497,6 +21521,14 @@
       "onboard_time": 1765310173,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16567,
+      "num": 103416,
+      "word": "水务公司回应漏水2203吨水费1.5万",
+      "onboard_time": 1765553722,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16467,
