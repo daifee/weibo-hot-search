@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765665741742,
+  "endTime": 1765668368148,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244914,
+      "num": 768786,
+      "word": "今年下雪为啥不撒融雪剂了",
+      "onboard_time": 1765633463,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 231812,
       "num": 211695,
       "word": "曾把胸隆炸的网红在泰国坠亡",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183882,
+      "num": 41869,
+      "word": "王楚钦拍了拍孙颖莎肩膀",
+      "onboard_time": 1765667716,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173672,
       "num": 173672,
       "word": "10人聚餐逃单店主称已收到转账",
@@ -155,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122007,
+      "num": 93707,
+      "word": "白鹿 骗完你的骗你的",
+      "onboard_time": 1765635503,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121591,
       "num": 121591,
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
@@ -171,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116525,
-      "num": 468661,
-      "word": "今年下雪为啥不撒融雪剂了",
-      "onboard_time": 1765633463,
-      "rank": 31,
-      "category": "议题讨论"
+      "raw_hot": 116650,
+      "num": 66837,
+      "word": "向太回应向佐泪崩谈娱乐圈复杂",
+      "onboard_time": 1765662373,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 114718,
@@ -185,6 +209,14 @@
       "onboard_time": 1765627281,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 107655,
+      "num": 64474,
+      "word": "iPhone的相册你真的会用吗",
+      "onboard_time": 1765668195,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 99177,
@@ -217,14 +249,6 @@
       "onboard_time": 1765645878,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93707,
-      "num": 93707,
-      "word": "白鹿 骗完你的骗你的",
-      "onboard_time": 1765635503,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 93031,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82103,
+      "num": 41860,
+      "word": "王楚钦开局就猛抽抽抽",
+      "onboard_time": 1765667837,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81596,
       "num": 86079,
       "word": "郭艾伦重返CBA",
@@ -299,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75890,
+      "num": 51469,
+      "word": "向太回应好婆婆形象没了",
+      "onboard_time": 1765667897,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74709,
+      "num": 43752,
+      "word": "央视曝光取消自动扣费骗局",
+      "onboard_time": 1765668136,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
@@ -315,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70706,
+      "num": 70706,
+      "word": "日本八纮一宇塔应当被拆除",
+      "onboard_time": 1765654154,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64499,
       "num": 85912,
       "word": "超话大赏",
       "onboard_time": 1765626681,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64243,
+      "num": 85724,
+      "word": "盲老太求带路被拒后看手机事件反转",
+      "onboard_time": 1765636043,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63097,
@@ -363,14 +427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 59149,
-      "num": 85724,
-      "word": "盲老太求带路被拒后看手机事件反转",
-      "onboard_time": 1765636043,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59115,
       "num": 85682,
       "word": "你好星期六",
@@ -380,7 +436,7 @@
     },
     {
       "raw_hot": 57069,
-      "num": 30549,
+      "num": 41849,
       "word": "孙颖莎退赛后匆匆备战混双",
       "onboard_time": 1765652236,
       "rank": 49,
@@ -403,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51395,
+      "num": 41865,
+      "word": "这下知道皇帝为啥喜欢奸臣了",
+      "onboard_time": 1765668316,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 49851,
+      "num": 60999,
+      "word": "女子连吃10多颗山楂胃里长巨大结石",
+      "onboard_time": 1765628721,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48316,
       "num": 61002,
       "word": "美术生就业就是广啊",
@@ -417,14 +489,6 @@
       "onboard_time": 1765647016,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41878,
-      "num": 60999,
-      "word": "女子连吃10多颗山楂胃里长巨大结石",
-      "onboard_time": 1765628721,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41809,
@@ -451,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36818,
+      "num": 41860,
+      "word": "收费站捡到戴电话手表的猫咪",
+      "onboard_time": 1765655053,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 34328,
+      "num": 42426,
+      "word": "美国孕妇被生母继父剖腹取胎杀害",
+      "onboard_time": 1765617801,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33502,
       "num": 60997,
       "word": "山西忻州3.4级地震",
@@ -465,22 +545,6 @@
       "onboard_time": 1765644559,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32310,
-      "num": 32310,
-      "word": "向太回应向佐泪崩谈娱乐圈复杂",
-      "onboard_time": 1765662373,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30961,
-      "num": 26447,
-      "word": "收费站捡到戴电话手表的猫咪",
-      "onboard_time": 1765655053,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 29851,
@@ -507,12 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27918,
-      "num": 30507,
-      "word": "日本八纮一宇塔应当被拆除",
-      "onboard_time": 1765654154,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 26274,
+      "num": 41824,
+      "word": "2025国产剧人气TOP50",
+      "onboard_time": 1765655594,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25483,
+      "num": 41818,
+      "word": "花少是群像不是恋爱节目",
+      "onboard_time": 1765668195,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 24052,
@@ -523,12 +595,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21095,
-      "num": 42426,
-      "word": "美国孕妇被生母继父剖腹取胎杀害",
-      "onboard_time": 1765617801,
+      "raw_hot": 23028,
+      "num": 41809,
+      "word": "流星雨",
+      "onboard_time": 1765625061,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22997,
+      "num": 41804,
+      "word": "雷军的营销风格能不能被模仿",
+      "onboard_time": 1765666095,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 41801,
+      "word": "金铲铲",
+      "onboard_time": 1765668316,
       "rank": 49,
-      "category": "海外新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 18838,
@@ -539,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18678,
+      "num": 93688,
+      "word": "海南自贸港封关将带来更多机遇",
+      "onboard_time": 1765636403,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18340,
       "num": 33448,
       "word": "金铲铲回应下线不朽传奇召唤活动",
@@ -547,28 +643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18021,
-      "num": 26440,
-      "word": "2025国产剧人气TOP50",
-      "onboard_time": 1765655594,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 15096,
       "num": 30310,
       "word": "姜暮说泰语没有不亲的义务",
       "onboard_time": 1765652236,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14882,
-      "num": 60619,
-      "word": "海南自贸港封关将带来更多机遇",
-      "onboard_time": 1765636403,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14549,
