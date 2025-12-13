@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765597079718,
+  "endTime": 1765600420248,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -9,6 +9,14 @@
       "onboard_time": 1765204343,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9194123,
+      "num": 9194123,
+      "word": "四级",
+      "onboard_time": 1765588221,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 8983486,
@@ -49,14 +57,6 @@
       "onboard_time": 1765037902,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3388747,
-      "num": 3388747,
-      "word": "四级",
-      "onboard_time": 1765588221,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 2764544,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751943,
+      "num": 751943,
+      "word": "四级作文 没看懂",
+      "onboard_time": 1765597042,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 751858,
       "num": 569329,
       "word": "江西地震",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1765434861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740843,
+      "num": 740843,
+      "word": "四级答案",
+      "onboard_time": 1765597101,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 735355,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1765359561,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 673381,
+      "num": 332490,
+      "word": "猫一杯转世账号被关闭",
+      "onboard_time": 1765597942,
+      "rank": 10,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 670900,
@@ -2291,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 488272,
+      "num": 354933,
+      "word": "四级翻译 citywalk",
+      "onboard_time": 1765597763,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 486925,
       "num": 486925,
       "word": "浙江卫视跨年晚会官宣",
@@ -2867,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432593,
+      "num": 331223,
+      "word": "四级翻译民营经济",
+      "onboard_time": 1765598781,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 432519,
       "num": 278722,
       "word": "女子拒绝颈椎病手术当晚瘫痪",
@@ -3212,7 +3252,7 @@
     },
     {
       "raw_hot": 394099,
-      "num": 294869,
+      "num": 369622,
       "word": "四级翻译",
       "onboard_time": 1765596680,
       "rank": 15,
@@ -3979,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335287,
+      "num": 329636,
+      "word": "恨你四级明年见 爱你老己烤肉店",
+      "onboard_time": 1765598962,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 334856,
       "num": 290761,
       "word": "药品说明书1粒米能挡6个字",
@@ -4105,6 +4153,14 @@
       "onboard_time": 1765194441,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327229,
+      "num": 327229,
+      "word": "六级",
+      "onboard_time": 1765597462,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 326663,
@@ -4529,14 +4585,6 @@
       "onboard_time": 1765182561,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299061,
-      "num": 294205,
-      "word": "四级作文 没看懂",
-      "onboard_time": 1765597042,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 298593,
@@ -5299,6 +5347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253133,
+      "num": 235215,
+      "word": "故宫偶遇李现",
+      "onboard_time": 1765598662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252883,
       "num": 295816,
       "word": "这是南京大屠杀的真实影像",
@@ -5441,6 +5497,14 @@
       "onboard_time": 1765264700,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244654,
+      "num": 244654,
+      "word": "你是说王俊凯穿了四层才这样吗",
+      "onboard_time": 1765599622,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 244141,
@@ -5641,6 +5705,14 @@
       "onboard_time": 1765500500,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237161,
+      "num": 237161,
+      "word": "四级阅读",
+      "onboard_time": 1765597703,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 236737,
@@ -6019,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218863,
+      "num": 218863,
+      "word": "重庆10人聚餐9人开溜事件进展",
+      "onboard_time": 1765599382,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
@@ -6129,6 +6209,14 @@
       "onboard_time": 1765423160,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215073,
+      "num": 215073,
+      "word": "六级作文",
+      "onboard_time": 1765599742,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 214698,
@@ -6491,6 +6579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205608,
+      "num": 205608,
+      "word": "向太说郭碧婷不用婆家钱帮娘家",
+      "onboard_time": 1765595840,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205479,
       "num": 194857,
       "word": "董璇晒小酒窝与白鹿自拍",
@@ -6841,6 +6937,14 @@
       "onboard_time": 1765250541,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199314,
+      "num": 199314,
+      "word": "academic writing",
+      "onboard_time": 1765599321,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 199242,
@@ -7227,6 +7331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191778,
+      "num": 191778,
+      "word": "四级段落匹配",
+      "onboard_time": 1765598781,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191679,
       "num": 191679,
       "word": "贺峻霖 星光大赏主持人",
@@ -7489,6 +7601,14 @@
       "onboard_time": 1765549165,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186334,
+      "num": 186334,
+      "word": "41岁女生未婚未育的真实生活",
+      "onboard_time": 1765599742,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 186289,
@@ -7819,6 +7939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178853,
+      "num": 178853,
+      "word": "六级预测",
+      "onboard_time": 1765599443,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178710,
       "num": 458446,
       "word": "中科曙光终止重大资产重组",
@@ -7889,6 +8017,14 @@
       "onboard_time": 1765074441,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177348,
+      "num": 177348,
+      "word": "四级 明年见",
+      "onboard_time": 1765599681,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 177291,
@@ -7977,6 +8113,14 @@
       "onboard_time": 1765167681,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174177,
+      "num": 174177,
+      "word": "四级听力",
+      "onboard_time": 1765597462,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 174161,
@@ -8363,14 +8507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168196,
-      "num": 168196,
-      "word": "向太说郭碧婷不用婆家钱帮娘家",
-      "onboard_time": 1765595840,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168089,
       "num": 168089,
       "word": "狙击蝴蝶剧宣必有高人指点",
@@ -8504,6 +8640,14 @@
       "word": "吴磊星光值暴涨",
       "onboard_time": 1765459103,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166518,
+      "num": 166518,
+      "word": "刘亦菲当年的采访还是体面",
+      "onboard_time": 1765599981,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -9089,6 +9233,14 @@
       "onboard_time": 1765341743,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155469,
+      "num": 155469,
+      "word": "鸡排哥杭州开炸千人排队",
+      "onboard_time": 1765598723,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155411,
@@ -15091,6 +15243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102912,
+      "num": 242739,
+      "word": "00后骑手回应5年攒下112万",
+      "onboard_time": 1765599801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102892,
       "num": 102892,
       "word": "幼儿园小朋友过马路有多可爱",
@@ -16523,6 +16683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91219,
+      "num": 118887,
+      "word": "金铲铲之战补偿",
+      "onboard_time": 1765600282,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91214,
       "num": 164686,
       "word": "马斯克或成全球首个万亿富豪",
@@ -17267,6 +17435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83279,
+      "num": 118874,
+      "word": "库里这球比AI还离谱",
+      "onboard_time": 1765600282,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83218,
       "num": 85655,
       "word": "杨瀚森连得4分",
@@ -17971,6 +18147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72073,
+      "num": 1032058,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1765599981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71996,
       "num": 71996,
       "word": "昀牵孟绕",
@@ -18435,6 +18619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64016,
+      "num": 165191,
+      "word": "日本孤独死现象触目惊心",
+      "onboard_time": 1765599141,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 63965,
       "num": 71915,
       "word": "网传中国人国外旅游被印度小孩辱骂",
@@ -18456,6 +18648,14 @@
       "word": "本周六上午故宫门票已约满",
       "onboard_time": 1765403234,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63594,
+      "num": 165204,
+      "word": "88岁爷爷机场认出孙女后大哭",
+      "onboard_time": 1765598065,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -18505,6 +18705,14 @@
       "onboard_time": 1765376902,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 62991,
+      "num": 129786,
+      "word": "19371213永不敢忘",
+      "onboard_time": 1765599742,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62975,
@@ -19065,6 +19273,14 @@
       "onboard_time": 1765110319,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55081,
+      "num": 243171,
+      "word": "哈尔滨雪人先生用雪量5000立方米",
+      "onboard_time": 1765599561,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54950,
@@ -19761,6 +19977,14 @@
       "onboard_time": 1765409898,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46582,
+      "num": 121214,
+      "word": "辣椒价格飙涨",
+      "onboard_time": 1765598901,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46563,
@@ -22683,6 +22907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11845,
+      "num": 339735,
+      "word": "中央经济工作会议里的民生事",
+      "onboard_time": 1765599742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11612,
       "num": 550574,
       "word": "2026中国经济工作怎么干",
@@ -22904,6 +23136,9 @@
     },
     {
       "word": "#中央定调2026年经济工作#"
+    },
+    {
+      "word": "#跟着总书记走进抗战纪念地#"
     }
   ]
 }

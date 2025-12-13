@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765597079718,
+  "endTime": 1765600420248,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9194123,
+      "num": 9194123,
+      "word": "四级",
+      "onboard_time": 1740525013,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9177808,
       "num": 9177808,
       "word": "哪吒2全球影史票房第10",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6577239,
-      "num": 6577239,
-      "word": "AG夺冠",
-      "onboard_time": 1746884065,
-      "rank": 5,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

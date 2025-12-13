@@ -1,0 +1,410 @@
+{
+  "runTime": 1765600420248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9194123,
+        "num": 9194123,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1626340,
+        "num": 1626340,
+        "word": "四级作文",
+        "onboard_time": 1765590980,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72073,
+        "num": 1032058,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1765599981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751943,
+        "num": 751943,
+        "word": "四级作文 没看懂",
+        "onboard_time": 1765597042,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 740843,
+        "num": 740843,
+        "word": "四级答案",
+        "onboard_time": 1765597101,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436325,
+        "num": 436325,
+        "word": "成都地震",
+        "onboard_time": 1765580956,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 369622,
+        "num": 369622,
+        "word": "四级翻译",
+        "onboard_time": 1765596680,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 488272,
+        "num": 354933,
+        "word": "四级翻译 citywalk",
+        "onboard_time": 1765597763,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11845,
+        "num": 339735,
+        "word": "中央经济工作会议里的民生事",
+        "onboard_time": 1765599742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335160,
+        "num": 335160,
+        "word": "东部战区发布重磅主题海报",
+        "onboard_time": 1765594399,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673381,
+        "num": 332490,
+        "word": "猫一杯转世账号被关闭",
+        "onboard_time": 1765597942,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 432593,
+        "num": 331223,
+        "word": "四级翻译民营经济",
+        "onboard_time": 1765598781,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335287,
+        "num": 329636,
+        "word": "恨你四级明年见 爱你老己烤肉店",
+        "onboard_time": 1765598962,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327229,
+        "num": 327229,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273795,
+        "num": 273795,
+        "word": "台湾是中国一个省没外交部",
+        "onboard_time": 1765594700,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267952,
+        "num": 267952,
+        "word": "亲爱的客栈 棣月常驻",
+        "onboard_time": 1765592721,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246437,
+        "num": 246437,
+        "word": "美国对日本不耐烦已几乎写在脸上",
+        "onboard_time": 1765593261,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244654,
+        "num": 244654,
+        "word": "你是说王俊凯穿了四层才这样吗",
+        "onboard_time": 1765599622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55081,
+        "num": 243171,
+        "word": "哈尔滨雪人先生用雪量5000立方米",
+        "onboard_time": 1765599561,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102912,
+        "num": 242739,
+        "word": "00后骑手回应5年攒下112万",
+        "onboard_time": 1765599801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811080,
+        "num": 240303,
+        "word": "王艳儿子颜值",
+        "onboard_time": 1765595420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352468,
+        "num": 237290,
+        "word": "偶遇谢霆锋张柏芝大儿子",
+        "onboard_time": 1765587860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237161,
+        "num": 237161,
+        "word": "四级阅读",
+        "onboard_time": 1765597703,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253133,
+        "num": 235215,
+        "word": "故宫偶遇李现",
+        "onboard_time": 1765598662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233242,
+        "num": 233242,
+        "word": "韩国鸟叔被警方强制调查",
+        "onboard_time": 1765590080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218863,
+        "num": 218863,
+        "word": "重庆10人聚餐9人开溜事件进展",
+        "onboard_time": 1765599382,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216920,
+        "num": 216920,
+        "word": "17岁男生吃治痘药导致乳房发育变大",
+        "onboard_time": 1765593320,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215073,
+        "num": 215073,
+        "word": "六级作文",
+        "onboard_time": 1765599742,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205608,
+        "num": 205608,
+        "word": "向太说郭碧婷不用婆家钱帮娘家",
+        "onboard_time": 1765595840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199314,
+        "num": 199314,
+        "word": "academic writing",
+        "onboard_time": 1765599321,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "四级段落匹配",
+        "onboard_time": 1765598781,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186334,
+        "num": 186334,
+        "word": "41岁女生未婚未育的真实生活",
+        "onboard_time": 1765599742,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183819,
+        "num": 183819,
+        "word": "朕的玉娆果真是国色",
+        "onboard_time": 1765590262,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178853,
+        "num": 178853,
+        "word": "六级预测",
+        "onboard_time": 1765599443,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "四级 明年见",
+        "onboard_time": 1765599681,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177103,
+        "num": 177103,
+        "word": "毛人龙 许文婷",
+        "onboard_time": 1765588280,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174177,
+        "num": 174177,
+        "word": "四级听力",
+        "onboard_time": 1765597462,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "刘亦菲当年的采访还是体面",
+        "onboard_time": 1765599981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63594,
+        "num": 165204,
+        "word": "88岁爷爷机场认出孙女后大哭",
+        "onboard_time": 1765598065,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64016,
+        "num": 165191,
+        "word": "日本孤独死现象触目惊心",
+        "onboard_time": 1765599141,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165183,
+        "num": 165183,
+        "word": "陈妍希张婧仪 干发帽的正确用法",
+        "onboard_time": 1765595061,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160742,
+        "num": 160742,
+        "word": "我才8岁被日军刺得血流满身",
+        "onboard_time": 1765589422,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159592,
+        "num": 159592,
+        "word": "我下班就迪丽热巴这样",
+        "onboard_time": 1765593141,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155469,
+        "num": 155469,
+        "word": "鸡排哥杭州开炸千人排队",
+        "onboard_time": 1765598723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154391,
+        "num": 154391,
+        "word": "银价飙涨",
+        "onboard_time": 1765585400,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62991,
+        "num": 129786,
+        "word": "19371213永不敢忘",
+        "onboard_time": 1765599742,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46582,
+        "num": 121214,
+        "word": "辣椒价格飙涨",
+        "onboard_time": 1765598901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119153,
+        "num": 119153,
+        "word": "国家公祭日",
+        "onboard_time": 1765581617,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91219,
+        "num": 118887,
+        "word": "金铲铲之战补偿",
+        "onboard_time": 1765600282,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83279,
+        "num": 118874,
+        "word": "库里这球比AI还离谱",
+        "onboard_time": 1765600282,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
