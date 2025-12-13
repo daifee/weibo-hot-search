@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765624943184,
+  "endTime": 1765625812536,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 846619,
-      "num": 196731,
+      "num": 243265,
       "word": "张凯毅称4斤黄金凤冠被毁未索赔",
       "onboard_time": 1765622541,
       "rank": 46,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 430751,
-      "num": 182082,
+      "num": 205847,
       "word": "于小彤与女友逛街",
       "onboard_time": 1765623023,
       "rank": 24,
@@ -416,6 +416,14 @@
       "word": "你是说王俊凯穿了四层才这样吗",
       "onboard_time": 1765599622,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 398623,
+      "num": 242705,
+      "word": "于正回应不让周柯宇去星光大赏",
+      "onboard_time": 1765623441,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -473,6 +481,14 @@
       "onboard_time": 1765604602,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359506,
+      "num": 192714,
+      "word": "月经期间不建议做的10件事",
+      "onboard_time": 1765624821,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 354927,
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311966,
+      "num": 242474,
+      "word": "虞书欣这一脚直接把我踹成梦女",
+      "onboard_time": 1765624761,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302106,
       "num": 166524,
       "word": "云初令官宣虞书欣",
@@ -633,14 +657,6 @@
       "onboard_time": 1765581556,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 291169,
-      "num": 181583,
-      "word": "月经期间不建议做的10件事",
-      "onboard_time": 1765624821,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 288750,
@@ -691,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268363,
+      "num": 241705,
+      "word": "被骗936万女子抑郁暴瘦自杀身亡",
+      "onboard_time": 1765624521,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267315,
       "num": 267315,
       "word": "张若昀 谁说演员不能看镜头",
@@ -731,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 252698,
+      "num": 236395,
+      "word": "狙击蝴蝶 还我睡眠",
+      "onboard_time": 1765624521,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250909,
       "num": 250909,
       "word": "小学生病逝同学以为是转学纷纷写信",
@@ -763,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246935,
+      "num": 246935,
+      "word": "六级 以为在考政治",
+      "onboard_time": 1765620742,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246546,
       "num": 246546,
       "word": "林诗栋蒯曼vs林仲勋申裕斌",
@@ -777,6 +817,14 @@
       "onboard_time": 1765606340,
       "rank": 22,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 241619,
+      "num": 241619,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765535602,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 240065,
@@ -811,14 +859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 224616,
-      "num": 224616,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765535602,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "林诗栋蒯曼1比3林仲勋申裕斌",
@@ -849,14 +889,6 @@
       "onboard_time": 1765611020,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205747,
-      "num": 201847,
-      "word": "六级 以为在考政治",
-      "onboard_time": 1765620742,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 205608,
@@ -947,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192374,
-      "num": 192374,
-      "word": "于正回应不让周柯宇去星光大赏",
-      "onboard_time": 1765623441,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191778,
       "num": 191778,
       "word": "四级段落匹配",
@@ -977,14 +1001,6 @@
       "onboard_time": 1765552042,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188743,
-      "num": 188743,
-      "word": "虞书欣这一脚直接把我踹成梦女",
-      "onboard_time": 1765624761,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 187892,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1765599681,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175786,
+      "num": 175786,
+      "word": "奔跑吧",
+      "onboard_time": 1765625481,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 174981,
@@ -1179,6 +1203,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156469,
+      "num": 156469,
+      "word": "张本美和采访松岛辉空突然走掉了",
+      "onboard_time": 1765624640,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156332,
+      "num": 156332,
+      "word": "陈妍希周柯宇 花少",
+      "onboard_time": 1765624461,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155982,
       "num": 155982,
       "word": "辛龙在妻子刘真去世五年后复出",
@@ -1195,20 +1235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153510,
-      "num": 153510,
-      "word": "被骗936万女子抑郁暴瘦自杀身亡",
-      "onboard_time": 1765624521,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151402,
-      "num": 151402,
-      "word": "狙击蝴蝶 还我睡眠",
-      "onboard_time": 1765624521,
+      "raw_hot": 152908,
+      "num": 152908,
+      "word": "高度近视最极端的后果是失明",
+      "onboard_time": 1765624941,
       "rank": 32,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147811,
@@ -1235,8 +1267,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144523,
-      "num": 144523,
+      "raw_hot": 145329,
+      "num": 145329,
       "word": "清华大学打雪仗有多激烈",
       "onboard_time": 1765620440,
       "rank": 49,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "双轨自来水",
+      "onboard_time": 1765624941,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141127,
       "num": 141127,
       "word": "白银暴涨有人2月狂赚16万",
@@ -1275,20 +1315,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139463,
-      "num": 139463,
-      "word": "张本美和采访松岛辉空突然走掉了",
-      "onboard_time": 1765624640,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139326,
       "num": 139326,
       "word": "张凯毅黄金凤冠遭毁紧急在线求助",
       "onboard_time": 1765624222,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 138819,
+      "num": 138819,
+      "word": "孙颖莎2场比赛间隔不到2小时",
+      "onboard_time": 1765623921,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138707,
+      "num": 138707,
+      "word": "流星雨",
+      "onboard_time": 1765625061,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138095,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1765588400,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135741,
-      "num": 135741,
-      "word": "孙颖莎2场比赛间隔不到2小时",
-      "onboard_time": 1765623921,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 135007,
@@ -1443,6 +1483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122190,
+      "num": 122190,
+      "word": "被日寇焚烧的古树如今守着102名烈士",
+      "onboard_time": 1765624941,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121835,
       "num": 121835,
       "word": "金铲铲之战补偿",
@@ -1459,6 +1507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121717,
+      "num": 121717,
+      "word": "动物在梵净山走自己的高速路",
+      "onboard_time": 1765625061,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121555,
       "num": 172701,
       "word": "网信部门点名陈震",
@@ -1472,14 +1528,6 @@
       "word": "双轨热度走势",
       "onboard_time": 1765590622,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120949,
-      "num": 120949,
-      "word": "陈妍希周柯宇 花少",
-      "onboard_time": 1765624461,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1691,8 +1739,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107028,
-      "num": 107028,
+      "raw_hot": 107163,
+      "num": 107163,
       "word": "ShowMaker三分钟单杀Faker",
       "onboard_time": 1765624640,
       "rank": 47,
@@ -2523,7 +2571,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52427,
+      "raw_hot": 52528,
       "num": 371149,
       "word": "网警起底专坑新主播的推流骗局",
       "onboard_time": 1765623322,
@@ -2747,6 +2795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25862,
+      "num": 243639,
+      "word": "直播看双子座流星雨",
+      "onboard_time": 1765625121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25526,
       "num": 106975,
       "word": "谢淮安12岁后六亲不认",
@@ -2867,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13162,
+      "num": 138739,
+      "word": "曝胡彦斌粉丝脱粉原因",
+      "onboard_time": 1765624821,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12753,
       "num": 34199,
       "word": "一场被全球汽车圈围观的碰撞",
@@ -2889,14 +2953,6 @@
       "onboard_time": 1765530621,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7290,
-      "num": 126449,
-      "word": "曝胡彦斌粉丝脱粉原因",
-      "onboard_time": 1765624821,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 7068,
