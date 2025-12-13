@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765658521016,
+  "endTime": 1765661057330,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 89380,
-      "num": 89380,
+      "num": 130631,
       "word": "今年下雪为啥不撒融雪剂了",
       "onboard_time": 1765633463,
       "rank": 31,
@@ -459,7 +459,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30094,
+      "raw_hot": 30961,
       "num": 24903,
       "word": "收费站捡到戴电话手表的猫咪",
       "onboard_time": 1765655053,
@@ -531,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16753,
+      "num": 30507,
+      "word": "日本八纮一宇塔应当被拆除",
+      "onboard_time": 1765654154,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15989,
       "num": 42426,
       "word": "美国孕妇被生母继父剖腹取胎杀害",
       "onboard_time": 1765617801,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15149,
-      "num": 30507,
-      "word": "日本八纮一宇塔应当被拆除",
-      "onboard_time": 1765654154,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15096,
