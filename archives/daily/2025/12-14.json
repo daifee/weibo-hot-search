@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765661902519,
+  "endTime": 1765664785706,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97757,
+      "num": 380658,
+      "word": "今年下雪为啥不撒融雪剂了",
+      "onboard_time": 1765633463,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "内娱现偶终于开窍了",
@@ -233,14 +241,6 @@
       "onboard_time": 1765638324,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89380,
-      "num": 175628,
-      "word": "今年下雪为啥不撒融雪剂了",
-      "onboard_time": 1765633463,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 86131,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39117,
+      "num": 30549,
+      "word": "孙颖莎退赛后匆匆备战混双",
+      "onboard_time": 1765652236,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38164,
       "num": 47767,
       "word": "孙颖莎2025赛季外战61胜0负",
@@ -499,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21424,
-      "num": 30549,
-      "word": "孙颖莎退赛后匆匆备战混双",
-      "onboard_time": 1765652236,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 23743,
+      "num": 30507,
+      "word": "日本八纮一宇塔应当被拆除",
+      "onboard_time": 1765654154,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21980,
+      "num": 22853,
+      "word": "向太回应向佐泪崩谈娱乐圈复杂",
+      "onboard_time": 1765662373,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 18838,
@@ -523,28 +539,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18157,
+      "num": 42426,
+      "word": "美国孕妇被生母继父剖腹取胎杀害",
+      "onboard_time": 1765617801,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17882,
       "num": 24901,
       "word": "2025国产剧人气TOP50",
       "onboard_time": 1765655594,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17312,
-      "num": 30507,
-      "word": "日本八纮一宇塔应当被拆除",
-      "onboard_time": 1765654154,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15989,
-      "num": 42426,
-      "word": "美国孕妇被生母继父剖腹取胎杀害",
-      "onboard_time": 1765617801,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 15096,
@@ -579,12 +587,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11457,
+      "raw_hot": 12302,
       "num": 24874,
       "word": "微博年度期待作品",
       "onboard_time": 1765648696,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12153,
+      "num": 22415,
+      "word": "曝王耀庆蔡国庆闹掰",
+      "onboard_time": 1765620320,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 11228,
