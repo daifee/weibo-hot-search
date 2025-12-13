@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765592523768,
+  "endTime": 1765596212275,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1235,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 687689,
+      "num": 687689,
+      "word": "四级作文",
+      "onboard_time": 1765590980,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 686854,
       "num": 606059,
       "word": "金昊杀妻案发卧室卫生间留有血渍",
@@ -1731,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 562829,
+      "num": 185601,
+      "word": "朕的玉娆果真是国色",
+      "onboard_time": 1765590262,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561233,
       "num": 1146659,
       "word": "最快女护士已影响科室正常排班",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1765437081,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496015,
+      "num": 150666,
+      "word": "亲爱的客栈 棣月常驻",
+      "onboard_time": 1765592721,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 495403,
@@ -2579,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451898,
+      "num": 223175,
+      "word": "美国对日本不耐烦已几乎写在脸上",
+      "onboard_time": 1765593261,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 451614,
       "num": 300493,
       "word": "王玉雯 这把冲刘亦菲来的",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1765254803,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448023,
+      "num": 149387,
+      "word": "东部战区发布重磅主题海报",
+      "onboard_time": 1765594399,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 447659,
@@ -2800,6 +2840,14 @@
       "word": "乔欣南法度假",
       "onboard_time": 1765099041,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432601,
+      "num": 137266,
+      "word": "王艳儿子颜值",
+      "onboard_time": 1765595420,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3073,14 +3121,6 @@
       "onboard_time": 1765018703,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399742,
-      "num": 185601,
-      "word": "朕的玉娆果真是国色",
-      "onboard_time": 1765590262,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 398705,
@@ -3875,6 +3915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 338407,
+      "num": 147477,
+      "word": "17岁男生吃治痘药导致乳房发育变大",
+      "onboard_time": 1765593320,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337034,
       "num": 337034,
       "word": "成毅演了李莲花的反义词",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1765081340,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 335512,
+      "num": 145310,
+      "word": "女子用9分12秒煮完美蛋烧干锅",
+      "onboard_time": 1765589121,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334856,
@@ -4067,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323827,
+      "num": 144649,
+      "word": "穿吧 洛丽塔会长已经40多岁了",
+      "onboard_time": 1765592662,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323203,
       "num": 173163,
       "word": "阿姨1984年花两千多买了50克黄金",
@@ -4129,6 +4193,14 @@
       "onboard_time": 1765031004,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320640,
+      "num": 142186,
+      "word": "台湾是中国一个省没外交部",
+      "onboard_time": 1765594700,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 320376,
@@ -4209,6 +4281,14 @@
       "onboard_time": 1765437803,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314852,
+      "num": 140268,
+      "word": "我下班就迪丽热巴这样",
+      "onboard_time": 1765593141,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 314427,
@@ -4305,6 +4385,14 @@
       "onboard_time": 1765372882,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306781,
+      "num": 306781,
+      "word": "四级",
+      "onboard_time": 1765588221,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 305512,
@@ -4489,14 +4577,6 @@
       "onboard_time": 1765362141,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 293166,
-      "num": 140350,
-      "word": "女子用9分12秒煮完美蛋烧干锅",
-      "onboard_time": 1765589121,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292243,
@@ -5075,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258968,
+      "num": 136520,
+      "word": "陈妍希张婧仪 干发帽的正确用法",
+      "onboard_time": 1765595061,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258658,
       "num": 258658,
       "word": "多方回应用东方树叶养茶菌当宠物",
@@ -5193,6 +5281,14 @@
       "onboard_time": 1765238421,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252883,
+      "num": 252883,
+      "word": "这是南京大屠杀的真实影像",
+      "onboard_time": 1765591102,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252716,
@@ -8779,14 +8875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159075,
-      "num": 159075,
-      "word": "这是南京大屠杀的真实影像",
-      "onboard_time": 1765591102,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 158783,
       "num": 179699,
       "word": "老祖宗的养生智慧绝了",
@@ -9057,6 +9145,14 @@
       "onboard_time": 1765177400,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154507,
+      "num": 154507,
+      "word": "华谊兄弟7年巨亏82亿",
+      "onboard_time": 1765592361,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 154403,
@@ -10587,14 +10683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137114,
-      "num": 137114,
-      "word": "四级作文",
-      "onboard_time": 1765590980,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 137075,
       "num": 137075,
       "word": "日本已发布海啸预警",
@@ -10985,6 +11073,14 @@
       "onboard_time": 1765113502,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133337,
+      "num": 133337,
+      "word": "哈尔滨中央大街供暖",
+      "onboard_time": 1765594461,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133241,
@@ -11755,14 +11851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126256,
-      "num": 126256,
-      "word": "四级",
-      "onboard_time": 1765588221,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 126142,
       "num": 128160,
       "word": "捏面界有自己的代言人",
@@ -12411,6 +12499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121260,
+      "num": 121260,
+      "word": "双轨热度走势",
+      "onboard_time": 1765590622,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
@@ -12865,6 +12961,14 @@
       "onboard_time": 1765117524,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117951,
+      "num": 117951,
+      "word": "陈伟霆因造型丑被嘲不拍古装",
+      "onboard_time": 1765592122,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 117931,
@@ -13539,14 +13643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113028,
-      "num": 113028,
-      "word": "双轨热度走势",
-      "onboard_time": 1765590622,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112972,
       "num": 182050,
       "word": "人民日报评最忙五人组反复跨界",
@@ -13633,6 +13729,14 @@
       "onboard_time": 1765269085,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112537,
+      "num": 112537,
+      "word": "睡眠超9小时可能影响寿命",
+      "onboard_time": 1765582277,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112529,
@@ -13867,14 +13971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111153,
-      "num": 111153,
-      "word": "睡眠超9小时可能影响寿命",
-      "onboard_time": 1765582277,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111086,
       "num": 111086,
       "word": "iPhone截图隐藏功能",
@@ -13961,6 +14057,14 @@
       "onboard_time": 1765275861,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110487,
+      "num": 110487,
+      "word": "向太说郭碧婷不用婆家钱帮娘家",
+      "onboard_time": 1765595840,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110375,
@@ -14257,6 +14361,14 @@
       "onboard_time": 1765258824,
       "rank": 39,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 108393,
+      "num": 108393,
+      "word": "10人聚餐1人留下拒付1262元餐费",
+      "onboard_time": 1765595781,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108289,
@@ -14843,6 +14955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103616,
+      "num": 103616,
+      "word": "时刻高举血祭大刀坚决斩断肮脏头颅",
+      "onboard_time": 1765595120,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103555,
       "num": 103555,
       "word": "赵小童跑澳门半马",
@@ -15073,14 +15193,6 @@
       "onboard_time": 1765119743,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101938,
-      "num": 101938,
-      "word": "陈伟霆因造型丑被嘲不拍古装",
-      "onboard_time": 1765592122,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 101883,
@@ -15835,14 +15947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95554,
-      "num": 95554,
-      "word": "华谊兄弟7年巨亏82亿",
-      "onboard_time": 1765592361,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95516,
       "num": 108323,
       "word": "全家都被陈晓硬控在沙发上了",
@@ -16555,6 +16659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90042,
+      "num": 90042,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1765596022,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90018,
       "num": 101082,
       "word": "云旗直播",
@@ -16936,6 +17048,14 @@
       "word": "孙颖莎是王楚钦全肯定",
       "onboard_time": 1765027824,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "孙颖莎的大格局",
+      "onboard_time": 1765596022,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -17675,6 +17795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74502,
+      "num": 74502,
+      "word": "冬天早晨的养狗人与养猫人",
+      "onboard_time": 1765593862,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74383,
       "num": 74383,
       "word": "留几手全球征婚要求女方是富婆",
@@ -17691,6 +17819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74265,
+      "num": 74265,
+      "word": "圣诞树草莓酸奶夹",
+      "onboard_time": 1765592900,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74048,
       "num": 74048,
       "word": "母亲肺癌手术儿子陪护时也查出肺癌",
@@ -17705,6 +17841,14 @@
       "onboard_time": 1765328901,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 73662,
+      "num": 73662,
+      "word": "东北人的自来熟程度",
+      "onboard_time": 1765596141,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 73520,
@@ -18920,6 +19064,14 @@
       "word": "孟子义尖叫之夜撅嘴镜头",
       "onboard_time": 1765104981,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54230,
+      "num": 95593,
+      "word": "王鹤棣沈月跨年舞台",
+      "onboard_time": 1765596141,
+      "rank": 40,
       "category": "综艺"
     },
     {
