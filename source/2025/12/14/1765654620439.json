@@ -1,0 +1,410 @@
+{
+  "runTime": 1765654620439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 84888,
+        "num": 84888,
+        "word": "金铲铲补偿",
+        "onboard_time": 1765633522,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44821,
+        "num": 44821,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14882,
+        "num": 42722,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48114,
+        "num": 42430,
+        "word": "张真源因离开跑男哭了",
+        "onboard_time": 1765629924,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41674,
+        "num": 41674,
+        "word": "周柯宇演技",
+        "onboard_time": 1765639522,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161851,
+        "num": 39075,
+        "word": "高中女教师新婚当天坠楼身亡",
+        "onboard_time": 1765640482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45475,
+        "num": 38817,
+        "word": "曾把胸隆炸的网红在泰国坠亡",
+        "onboard_time": 1765637303,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35827,
+        "num": 35827,
+        "word": "孙颖莎回应受伤退赛",
+        "onboard_time": 1765638502,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31242,
+        "num": 34751,
+        "word": "被骗936万女子抑郁暴瘦自杀身亡",
+        "onboard_time": 1765624521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29740,
+        "num": 34151,
+        "word": "10人聚餐逃单店主称已收到转账",
+        "onboard_time": 1765640421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39005,
+        "num": 34116,
+        "word": "宫女干到25岁就可以出宫了",
+        "onboard_time": 1765626264,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34063,
+        "num": 34063,
+        "word": "水银体温计线上99元一支",
+        "onboard_time": 1765629083,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31843,
+        "num": 31843,
+        "word": "张怡宁为孙颖莎王楚钦颁奖",
+        "onboard_time": 1765639342,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30835,
+        "num": 30835,
+        "word": "女子体检10年没查出癌症最新进展",
+        "onboard_time": 1765634063,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25332,
+        "num": 30821,
+        "word": "虞书欣这一脚直接把我踹成梦女",
+        "onboard_time": 1765624761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24675,
+        "num": 30811,
+        "word": "刘芮麟也在嗑陈妍希周柯宇",
+        "onboard_time": 1765647016,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23670,
+        "num": 30787,
+        "word": "白鹿 骗完你的骗你的",
+        "onboard_time": 1765635503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22996,
+        "num": 30780,
+        "word": "蔡国庆点赞和王耀庆闹掰博文",
+        "onboard_time": 1765638622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22578,
+        "num": 30766,
+        "word": "今年下雪为啥不撒融雪剂了",
+        "onboard_time": 1765633463,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 21549,
+        "num": 30753,
+        "word": "王励勤关心询问孙颖莎",
+        "onboard_time": 1765637303,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75425,
+        "num": 30723,
+        "word": "于小彤控制欲好强",
+        "onboard_time": 1765636642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72600,
+        "num": 30706,
+        "word": "曝双顶流恋情",
+        "onboard_time": 1765631544,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 69162,
+        "num": 30693,
+        "word": "胡可大儿子又高又白",
+        "onboard_time": 1765639461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33909,
+        "num": 30690,
+        "word": "大李雾 小李雾",
+        "onboard_time": 1765645878,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24419,
+        "num": 30667,
+        "word": "小郑嘻嘻回应",
+        "onboard_time": 1765635203,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20715,
+        "num": 30642,
+        "word": "迪丽热巴 谁说演员不能看镜头",
+        "onboard_time": 1765633644,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20648,
+        "num": 30626,
+        "word": "六级答案",
+        "onboard_time": 1765618883,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20231,
+        "num": 30621,
+        "word": "双子座流星雨",
+        "onboard_time": 1765630164,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 30601,
+        "word": "小郑 一天",
+        "onboard_time": 1765628422,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19714,
+        "num": 30588,
+        "word": "每天练背10分钟是回报率最高的运动",
+        "onboard_time": 1765627281,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23752,
+        "num": 30569,
+        "word": "广东一公司财务造假10名高管集体获刑",
+        "onboard_time": 1765650255,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20192,
+        "num": 30549,
+        "word": "孙颖莎退赛后匆匆备战混双",
+        "onboard_time": 1765652236,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 30530,
+        "word": "长安二十四计",
+        "onboard_time": 1765623860,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 30513,
+        "word": "盲老太求带路被拒后看手机事件反转",
+        "onboard_time": 1765636043,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12422,
+        "num": 30507,
+        "word": "日本八纮一宇塔应当被拆除",
+        "onboard_time": 1765654154,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18889,
+        "num": 30488,
+        "word": "张凯毅称4斤黄金凤冠被毁未索赔",
+        "onboard_time": 1765622541,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18082,
+        "num": 30469,
+        "word": "特朗普说中国团结一心干大事",
+        "onboard_time": 1765630462,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18012,
+        "num": 30464,
+        "word": "WTT",
+        "onboard_time": 1765630762,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17287,
+        "num": 30441,
+        "word": "月经期间不建议做的10件事",
+        "onboard_time": 1765624821,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17121,
+        "num": 30419,
+        "word": "内娱现偶终于开窍了",
+        "onboard_time": 1765632144,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16902,
+        "num": 30400,
+        "word": "蒯曼回应孙颖莎受伤退赛",
+        "onboard_time": 1765633883,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16857,
+        "num": 30391,
+        "word": "超话大赏",
+        "onboard_time": 1765626681,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16746,
+        "num": 30367,
+        "word": "碾压妻子致死男子还有82天出狱",
+        "onboard_time": 1765639282,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 30357,
+        "word": "陈妍希周柯宇 花少",
+        "onboard_time": 1765624461,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11037,
+        "num": 30345,
+        "word": "山西忻州3.4级地震",
+        "onboard_time": 1765618281,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 15571,
+        "num": 30334,
+        "word": "孙颖莎回应坚持打混双决赛",
+        "onboard_time": 1765639342,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15051,
+        "num": 30310,
+        "word": "姜暮说泰语没有不亲的义务",
+        "onboard_time": 1765652236,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14644,
+        "num": 30303,
+        "word": "双轨 古早台偶味",
+        "onboard_time": 1765632504,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14549,
+        "num": 30270,
+        "word": "酒店天价考研房7796元",
+        "onboard_time": 1765627882,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14172,
+        "num": 30256,
+        "word": "美国孕妇被生母继父剖腹取胎杀害",
+        "onboard_time": 1765617801,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}
