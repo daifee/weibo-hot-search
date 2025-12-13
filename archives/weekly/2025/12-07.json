@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765582788852,
+  "endTime": 1765591153934,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1130909,
+      "num": 1180945,
+      "word": "成都地震",
+      "onboard_time": 1765580956,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1110938,
       "num": 612281,
       "word": "爱奇艺颁奖失误",
@@ -561,6 +569,14 @@
       "onboard_time": 1765515142,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1015594,
+      "num": 126388,
+      "word": "偶遇谢霆锋张柏芝大儿子",
+      "onboard_time": 1765587860,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1009961,
@@ -835,14 +851,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 840096,
-      "num": 967071,
-      "word": "成都地震",
-      "onboard_time": 1765580956,
-      "rank": 0,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 835895,
       "num": 1133743,
       "word": "山姆致歉",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1765517901,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 724004,
+      "num": 724004,
+      "word": "银价飙涨",
+      "onboard_time": 1765585400,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 721013,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1765549344,
       "rank": 26,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 603860,
+      "num": 141246,
+      "word": "虞书欣何与双轨首播反响",
+      "onboard_time": 1765585999,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 598855,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1765151299,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 500729,
+      "num": 140915,
+      "word": "毛人龙 许文婷",
+      "onboard_time": 1765588280,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 500249,
@@ -2713,6 +2745,14 @@
       "onboard_time": 1765543523,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437223,
+      "num": 140343,
+      "word": "韩国鸟叔被警方强制调查",
+      "onboard_time": 1765590080,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 436513,
@@ -4667,6 +4707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280362,
+      "num": 139701,
+      "word": "不停运动3个月瘦了45斤",
+      "onboard_time": 1765584500,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 279502,
       "num": 196627,
       "word": "东北猫冬生活离不开冻饺子",
@@ -4915,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262913,
+      "num": 262913,
+      "word": "手机壳爱马仕狂卖36亿",
+      "onboard_time": 1765583118,
+      "rank": 3,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 262416,
       "num": 1145084,
       "word": "四六级",
@@ -5083,6 +5139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254030,
+      "num": 126370,
+      "word": "女子用9分12秒煮完美蛋烧干锅",
+      "onboard_time": 1765589121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254007,
       "num": 195599,
       "word": "金昊被判死刑足见婚姻不是免死金牌",
@@ -5131,12 +5195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250909,
+      "num": 250909,
+      "word": "小学生病逝同学以为是转学纷纷写信",
+      "onboard_time": 1765581737,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250106,
       "num": 250106,
       "word": "鹅厂2025年押宝剧集体翻车",
       "onboard_time": 1765286544,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249162,
+      "num": 249162,
+      "word": "国家公祭日",
+      "onboard_time": 1765581617,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248464,
@@ -5371,6 +5451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238253,
+      "num": 139318,
+      "word": "狙击蝴蝶演浙江过年包饺子被吐槽",
+      "onboard_time": 1765585580,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238130,
       "num": 238130,
       "word": "余宇涵 第一次觉得楼上的菜好吃",
@@ -5467,14 +5555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 234501,
-      "num": 234501,
-      "word": "小学生病逝同学以为是转学纷纷写信",
-      "onboard_time": 1765581737,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234099,
       "num": 234099,
       "word": "HLE对战T1",
@@ -5489,6 +5569,14 @@
       "onboard_time": 1765534043,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233664,
+      "num": 138932,
+      "word": "我才8岁被日军刺得血流满身",
+      "onboard_time": 1765589422,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232754,
@@ -5729,6 +5817,14 @@
       "onboard_time": 1765516102,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223277,
+      "num": 126346,
+      "word": "睡不建议少于6个小时",
+      "onboard_time": 1765582277,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222093,
@@ -6065,6 +6161,14 @@
       "onboard_time": 1765090700,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208945,
+      "num": 175841,
+      "word": "南京大屠杀",
+      "onboard_time": 1765581556,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208670,
@@ -7187,20 +7291,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 188233,
-      "num": 237208,
-      "word": "国家公祭日",
-      "onboard_time": 1765581617,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188147,
       "num": 342666,
       "word": "风与潮",
       "onboard_time": 1765284561,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187892,
+      "num": 79819,
+      "word": "26岁博士任博导父亲称是他自己努力",
+      "onboard_time": 1765584740,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187747,
@@ -7587,6 +7691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179116,
+      "num": 138482,
+      "word": "朕的玉娆果真是国色",
+      "onboard_time": 1765590262,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178710,
       "num": 458446,
       "word": "中科曙光终止重大资产重组",
@@ -7640,6 +7752,14 @@
       "word": "长安二十四计 反转",
       "onboard_time": 1765548444,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177699,
+      "num": 126314,
+      "word": "陈妍希李沁都试镜过小龙女",
+      "onboard_time": 1765584919,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -9377,14 +9497,6 @@
       "onboard_time": 1765518320,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148152,
-      "num": 80820,
-      "word": "南京大屠杀",
-      "onboard_time": 1765581556,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 148139,
@@ -11515,6 +11627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127106,
+      "num": 126267,
+      "word": "iOS26.2正式版来了",
+      "onboard_time": 1765590860,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127099,
       "num": 127099,
       "word": "观众给杨洋的韩立干到返场了",
@@ -11609,6 +11729,14 @@
       "onboard_time": 1765454479,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126256,
+      "num": 126256,
+      "word": "四级",
+      "onboard_time": 1765588221,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 126142,
@@ -13132,7 +13260,7 @@
     },
     {
       "raw_hot": 114696,
-      "num": 61147,
+      "num": 93294,
       "word": "96年月嫂入行四年订单排到明年十月",
       "onboard_time": 1765581197,
       "rank": 30,
@@ -13185,6 +13313,14 @@
       "onboard_time": 1765116623,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114423,
+      "num": 114423,
+      "word": "华谊兄弟王中军所有股份已被冻结",
+      "onboard_time": 1765589422,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 114392,
@@ -13779,14 +13915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 110422,
-      "num": 80809,
-      "word": "睡不建议少于6个小时",
-      "onboard_time": 1765582277,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 110375,
       "num": 1144730,
       "word": "iG官宣Daeny卸任",
@@ -14371,6 +14499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "咪的世界发大水了咪处理不好",
+      "onboard_time": 1765583237,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105783,
       "num": 164327,
       "word": "雷军转发小米安全辅助驾驶实测",
@@ -14595,6 +14731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104053,
+      "num": 104053,
+      "word": "睡眠超9小时可能影响寿命",
+      "onboard_time": 1765582277,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104032,
       "num": 104032,
       "word": "东北人为什么不爱戴围巾",
@@ -14745,6 +14889,14 @@
       "onboard_time": 1765113261,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103006,
+      "num": 103006,
+      "word": "这是南京大屠杀的真实影像",
+      "onboard_time": 1765591102,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102941,
@@ -15835,6 +15987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93751,
+      "num": 79786,
+      "word": "96岁奶奶一家7口被日军杀害",
+      "onboard_time": 1765590680,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93654,
       "num": 145400,
       "word": "她说的是等不起不是不爱你",
@@ -16073,6 +16233,14 @@
       "onboard_time": 1765442841,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91858,
+      "num": 91858,
+      "word": "成毅你别演了我害怕",
+      "onboard_time": 1765583658,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 91811,
@@ -16379,6 +16547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89447,
+      "num": 89447,
+      "word": "一念江南只保留了男主角王安宇",
+      "onboard_time": 1765587739,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89443,
       "num": 89443,
       "word": "王楚钦说兼项赛程紧凑见怪不怪了",
@@ -16433,6 +16609,14 @@
       "onboard_time": 1765425621,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88727,
+      "num": 118215,
+      "word": "柬埔寨千年寺庙遭泰军炸毁",
+      "onboard_time": 1765448479,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88573,
@@ -16617,6 +16801,22 @@
       "onboard_time": 1765088779,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86588,
+      "num": 86588,
+      "word": "双轨热度走势",
+      "onboard_time": 1765590622,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86561,
+      "num": 86561,
+      "word": "明年房地产政策有4个新变化",
+      "onboard_time": 1765582397,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86397,
@@ -16819,6 +17019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83848,
+      "num": 83848,
+      "word": "长安二十四计全网收视登顶",
+      "onboard_time": 1765587981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83773,
       "num": 83773,
       "word": "神舟二十一号任务",
@@ -16931,6 +17139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82151,
+      "num": 82151,
+      "word": "网文作家痞子老妖突发心梗离世",
+      "onboard_time": 1765582277,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 81942,
       "num": 120043,
       "word": "爷爷奶奶带大的孩子最看不得这种",
@@ -17009,6 +17225,14 @@
       "onboard_time": 1765549044,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81178,
+      "num": 81178,
+      "word": "爱来爱去的上两天班就老实了",
+      "onboard_time": 1765589480,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 81163,
@@ -17147,12 +17371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77911,
+      "num": 77911,
+      "word": "四级作文",
+      "onboard_time": 1765590980,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77824,
       "num": 77824,
       "word": "孟子义曾舜晞换座位热聊",
       "onboard_time": 1765063998,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77706,
+      "num": 77706,
+      "word": "宋威龙赵今麦骄阳似我婚纱照",
+      "onboard_time": 1765589721,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 77616,
@@ -17217,6 +17457,14 @@
       "onboard_time": 1765292365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76230,
+      "num": 78769,
+      "word": "周柯宇在片场把陈妍希闹成啥了",
+      "onboard_time": 1765586720,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 76112,
@@ -17651,14 +17899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69071,
-      "num": 69071,
-      "word": "明年房地产政策有4个新变化",
-      "onboard_time": 1765582397,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69016,
       "num": 69016,
       "word": "又一全国比赛获奖名单批量复制姓名",
@@ -18043,14 +18283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62077,
-      "num": 118215,
-      "word": "柬埔寨千年寺庙遭泰军炸毁",
-      "onboard_time": 1765448479,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 61994,
       "num": 73433,
       "word": "向太说港星脾气最大是梅艳芳",
@@ -18259,14 +18491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 58737,
-      "num": 58737,
-      "word": "睡眠超9小时可能影响寿命",
-      "onboard_time": 1765582277,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 58577,
       "num": 303687,
       "word": "广东成立事故调查组彻查火灾原因",
@@ -18417,6 +18641,14 @@
       "onboard_time": 1765182681,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56349,
+      "num": 79902,
+      "word": "南京大屠杀死难者国家公祭仪式",
+      "onboard_time": 1765591102,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56261,
@@ -18777,14 +19009,6 @@
       "onboard_time": 1765323078,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52023,
-      "num": 52023,
-      "word": "网文作家痞子老妖突发心梗离世",
-      "onboard_time": 1765582277,
-      "rank": 36,
-      "category": "读书作家"
     },
     {
       "raw_hot": 51978,
@@ -19273,6 +19497,14 @@
       "onboard_time": 1765409898,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46608,
+      "num": 432476,
+      "word": "千年古都逆龄生长",
+      "onboard_time": 1765589180,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46563,

@@ -1,14 +1,22 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765582788852,
+  "endTime": 1765591153934,
   "band_list": [
     {
-      "raw_hot": 840096,
-      "num": 967071,
+      "raw_hot": 1130909,
+      "num": 1180945,
       "word": "成都地震",
       "onboard_time": 1765580956,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1015594,
+      "num": 126388,
+      "word": "偶遇谢霆锋张柏芝大儿子",
+      "onboard_time": 1765587860,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 801646,
@@ -17,6 +25,14 @@
       "onboard_time": 1765539202,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 724004,
+      "num": 724004,
+      "word": "银价飙涨",
+      "onboard_time": 1765585400,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 635175,
@@ -33,6 +49,30 @@
       "onboard_time": 1765549344,
       "rank": 0,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 603860,
+      "num": 141246,
+      "word": "虞书欣何与双轨首播反响",
+      "onboard_time": 1765585999,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 500729,
+      "num": 140915,
+      "word": "毛人龙 许文婷",
+      "onboard_time": 1765588280,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 437223,
+      "num": 140343,
+      "word": "韩国鸟叔被警方强制调查",
+      "onboard_time": 1765590080,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 390118,
@@ -107,6 +147,46 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280362,
+      "num": 139701,
+      "word": "不停运动3个月瘦了45斤",
+      "onboard_time": 1765584500,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 262913,
+      "num": 262913,
+      "word": "手机壳爱马仕狂卖36亿",
+      "onboard_time": 1765583118,
+      "rank": 3,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 254030,
+      "num": 126370,
+      "word": "女子用9分12秒煮完美蛋烧干锅",
+      "onboard_time": 1765589121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250909,
+      "num": 250909,
+      "word": "小学生病逝同学以为是转学纷纷写信",
+      "onboard_time": 1765581737,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249162,
+      "num": 249162,
+      "word": "国家公祭日",
+      "onboard_time": 1765581617,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
@@ -115,12 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234501,
-      "num": 234501,
-      "word": "小学生病逝同学以为是转学纷纷写信",
-      "onboard_time": 1765581737,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 238253,
+      "num": 139318,
+      "word": "狙击蝴蝶演浙江过年包饺子被吐槽",
+      "onboard_time": 1765585580,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233664,
+      "num": 138932,
+      "word": "我才8岁被日军刺得血流满身",
+      "onboard_time": 1765589422,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224616,
@@ -129,6 +217,22 @@
       "onboard_time": 1765535602,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223277,
+      "num": 126346,
+      "word": "睡不建议少于6个小时",
+      "onboard_time": 1765582277,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208945,
+      "num": 175841,
+      "word": "南京大屠杀",
+      "onboard_time": 1765581556,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203278,
@@ -155,12 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188233,
-      "num": 237208,
-      "word": "国家公祭日",
-      "onboard_time": 1765581617,
-      "rank": 4,
+      "raw_hot": 187892,
+      "num": 79819,
+      "word": "26岁博士任博导父亲称是他自己努力",
+      "onboard_time": 1765584740,
+      "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179116,
+      "num": 138482,
+      "word": "朕的玉娆果真是国色",
+      "onboard_time": 1765590262,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 178485,
@@ -169,6 +281,22 @@
       "onboard_time": 1765555161,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177699,
+      "num": 126314,
+      "word": "陈妍希李沁都试镜过小龙女",
+      "onboard_time": 1765584919,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171717,
+      "num": 138022,
+      "word": "四六级",
+      "onboard_time": 1765590380,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 170819,
@@ -193,14 +321,6 @@
       "onboard_time": 1765552583,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148152,
-      "num": 80820,
-      "word": "南京大屠杀",
-      "onboard_time": 1765581556,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143737,
@@ -243,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127106,
+      "num": 126267,
+      "word": "iOS26.2正式版来了",
+      "onboard_time": 1765590860,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127032,
       "num": 115509,
       "word": "双轨热度",
@@ -257,6 +385,22 @@
       "onboard_time": 1765560619,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126256,
+      "num": 126256,
+      "word": "四级",
+      "onboard_time": 1765588221,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 123216,
+      "num": 123216,
+      "word": "微博之夜",
+      "onboard_time": 1765588400,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121832,
@@ -284,11 +428,19 @@
     },
     {
       "raw_hot": 114696,
-      "num": 61147,
+      "num": 93294,
       "word": "96年月嫂入行四年订单排到明年十月",
       "onboard_time": 1765581197,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114423,
+      "num": 114423,
+      "word": "华谊兄弟王中军所有股份已被冻结",
+      "onboard_time": 1765589422,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 112084,
@@ -299,20 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110422,
-      "num": 80809,
-      "word": "睡不建议少于6个小时",
-      "onboard_time": 1765582277,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 108997,
       "num": 108997,
       "word": "云初令官宣",
       "onboard_time": 1765541663,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "咪的世界发大水了咪处理不好",
+      "onboard_time": 1765583237,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 104635,
@@ -323,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104053,
+      "num": 104053,
+      "word": "睡眠超9小时可能影响寿命",
+      "onboard_time": 1765582277,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103109,
       "num": 108862,
       "word": "李飞李逗逗硬闯时尚圈",
       "onboard_time": 1765557080,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103006,
+      "num": 103006,
+      "word": "这是南京大屠杀的真实影像",
+      "onboard_time": 1765591102,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99257,
@@ -352,6 +520,22 @@
       "word": "长安二十四计",
       "onboard_time": 1765539862,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93751,
+      "num": 79786,
+      "word": "96岁奶奶一家7口被日军杀害",
+      "onboard_time": 1765590680,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 91858,
+      "num": 91858,
+      "word": "成毅你别演了我害怕",
+      "onboard_time": 1765583658,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -379,6 +563,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89447,
+      "num": 89447,
+      "word": "一念江南只保留了男主角王安宇",
+      "onboard_time": 1765587739,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88727,
+      "num": 88727,
+      "word": "柬埔寨千年寺庙遭泰军炸毁",
+      "onboard_time": 1765588039,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86588,
+      "num": 86588,
+      "word": "双轨热度走势",
+      "onboard_time": 1765590622,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86561,
+      "num": 86561,
+      "word": "明年房地产政策有4个新变化",
+      "onboard_time": 1765582397,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85456,
       "num": 108936,
       "word": "疑注射3万一支失效药患儿母亲发声",
@@ -387,11 +603,67 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 83848,
+      "num": 83848,
+      "word": "长安二十四计全网收视登顶",
+      "onboard_time": 1765587981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82151,
+      "num": 82151,
+      "word": "网文作家痞子老妖突发心梗离世",
+      "onboard_time": 1765582277,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 81758,
       "num": 81758,
       "word": "一念江南是一念关山的续作",
       "onboard_time": 1765581857,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81178,
+      "num": 81178,
+      "word": "爱来爱去的上两天班就老实了",
+      "onboard_time": 1765589480,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 79697,
+      "num": 108895,
+      "word": "英语四六级",
+      "onboard_time": 1765548744,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 77911,
+      "num": 77911,
+      "word": "四级作文",
+      "onboard_time": 1765590980,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 77706,
+      "num": 77706,
+      "word": "宋威龙赵今麦骄阳似我婚纱照",
+      "onboard_time": 1765589721,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76230,
+      "num": 78769,
+      "word": "周柯宇在片场把陈妍希闹成啥了",
+      "onboard_time": 1765586720,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -449,22 +721,6 @@
       "onboard_time": 1765547183,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69071,
-      "num": 69071,
-      "word": "明年房地产政策有4个新变化",
-      "onboard_time": 1765582397,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68343,
-      "num": 108895,
-      "word": "英语四六级",
-      "onboard_time": 1765548744,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 67556,
@@ -555,12 +811,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58737,
-      "num": 58737,
-      "word": "睡眠超9小时可能影响寿命",
-      "onboard_time": 1765582277,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 56349,
+      "num": 79902,
+      "word": "南京大屠杀死难者国家公祭仪式",
+      "onboard_time": 1765591102,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53184,
@@ -577,14 +833,6 @@
       "onboard_time": 1765547124,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52023,
-      "num": 52023,
-      "word": "网文作家痞子老妖突发心梗离世",
-      "onboard_time": 1765582277,
-      "rank": 36,
-      "category": "读书作家"
     },
     {
       "raw_hot": 51934,
@@ -608,6 +856,14 @@
       "word": "男子给同事发不雅视频被开除起诉公司",
       "onboard_time": 1765559477,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46608,
+      "num": 432476,
+      "word": "千年古都逆龄生长",
+      "onboard_time": 1765589180,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
