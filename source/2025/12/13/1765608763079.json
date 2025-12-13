@@ -1,0 +1,410 @@
+{
+  "runTime": 1765608763079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091193,
+        "num": 1174591,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406858,
+        "num": 406858,
+        "word": "重庆10人聚餐9人开溜事件进展",
+        "onboard_time": 1765599382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52441,
+        "num": 371760,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1765599981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555355,
+        "num": 368620,
+        "word": "沈腾 肥瘦自由",
+        "onboard_time": 1765603642,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362509,
+        "num": 362509,
+        "word": "双轨口碑",
+        "onboard_time": 1765604602,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481842,
+        "num": 362074,
+        "word": "未领证女方流产后分手判返40%彩礼",
+        "onboard_time": 1765604001,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437319,
+        "num": 359631,
+        "word": "妈妈沟通病情发现孩子正库里库里",
+        "onboard_time": 1765605021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349713,
+        "num": 349713,
+        "word": "成都地震",
+        "onboard_time": 1765580956,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 316939,
+        "num": 316939,
+        "word": "宁静在香港拍戏都住向太家",
+        "onboard_time": 1765603642,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215535,
+        "num": 215535,
+        "word": "林诗栋蒯曼vs林仲勋申裕斌",
+        "onboard_time": 1765606580,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 934969,
+        "num": 215385,
+        "word": "王楚然高度近视不做手术的原因",
+        "onboard_time": 1765602442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496807,
+        "num": 207470,
+        "word": "猫一杯转世账号被关闭",
+        "onboard_time": 1765597942,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 333516,
+        "num": 203891,
+        "word": "建议大家住五星级酒店带行李箱",
+        "onboard_time": 1765602080,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318979,
+        "num": 200560,
+        "word": "41岁女生未婚未育的真实生活",
+        "onboard_time": 1765599742,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247004,
+        "num": 197983,
+        "word": "四级答案",
+        "onboard_time": 1765597101,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244307,
+        "num": 191094,
+        "word": "东部战区发布重磅主题海报",
+        "onboard_time": 1765594399,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231137,
+        "num": 190195,
+        "word": "不上镜的人有多不上镜",
+        "onboard_time": 1765605141,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229774,
+        "num": 184909,
+        "word": "特朗普和爱泼斯坦照片公布",
+        "onboard_time": 1765606640,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182821,
+        "num": 182821,
+        "word": "林诗栋蒯曼1比3林仲勋申裕斌",
+        "onboard_time": 1765607901,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178070,
+        "num": 178070,
+        "word": "你是说王俊凯穿了四层才这样吗",
+        "onboard_time": 1765599622,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177750,
+        "num": 177750,
+        "word": "内娱三大名场面",
+        "onboard_time": 1765607241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277446,
+        "num": 175422,
+        "word": "王艳儿子颜值",
+        "onboard_time": 1765595420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217360,
+        "num": 173552,
+        "word": "咖啡加奶对抗炎症效果翻倍",
+        "onboard_time": 1765606340,
+        "rank": 22,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 212630,
+        "num": 171410,
+        "word": "偶遇谢霆锋张柏芝大儿子",
+        "onboard_time": 1765587860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162050,
+        "num": 162050,
+        "word": "被央视点名的禁用药",
+        "onboard_time": 1765603040,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152561,
+        "num": 152561,
+        "word": "星火英语",
+        "onboard_time": 1765602621,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146546,
+        "num": 146546,
+        "word": "林诗栋蒯曼混双无缘决赛",
+        "onboard_time": 1765607482,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38718,
+        "num": 135965,
+        "word": "官方通报男子养生馆内死亡",
+        "onboard_time": 1765608501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135265,
+        "num": 135265,
+        "word": "辛龙在妻子刘真去世五年后复出",
+        "onboard_time": 1765603822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "四级作文 没看懂",
+        "onboard_time": 1765597042,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182476,
+        "num": 131114,
+        "word": "林仲勋申裕斌进混双决赛",
+        "onboard_time": 1765607901,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145861,
+        "num": 130745,
+        "word": "Smash挑战T1",
+        "onboard_time": 1765608440,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108347,
+        "num": 128804,
+        "word": "中产羽绒服集体站上2000元",
+        "onboard_time": 1765605501,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128586,
+        "num": 128586,
+        "word": "四级作文",
+        "onboard_time": 1765590980,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59083,
+        "num": 126451,
+        "word": "投资千万景区荒废沦为鬼城",
+        "onboard_time": 1765606701,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124897,
+        "num": 124897,
+        "word": "印度网友被中国小学生午餐震惊",
+        "onboard_time": 1765607901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123967,
+        "num": 123967,
+        "word": "谷爱凌世界杯逆转夺冠",
+        "onboard_time": 1765602981,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119199,
+        "num": 119199,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77201,
+        "num": 115086,
+        "word": "向太回应向佐哭诉娱乐圈很恐怖",
+        "onboard_time": 1765607781,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16373,
+        "num": 113672,
+        "word": "马库斯为南京大屠杀遇难同胞默哀",
+        "onboard_time": 1765608501,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112457,
+        "num": 112457,
+        "word": "官俊臣参加艺考",
+        "onboard_time": 1765607241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109392,
+        "num": 109392,
+        "word": "iPhone通话录音无感隐藏小技巧",
+        "onboard_time": 1765606340,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104501,
+        "num": 104501,
+        "word": "刘亦菲当年的采访还是体面",
+        "onboard_time": 1765599981,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100362,
+        "num": 100362,
+        "word": "火锅丸子浮起来别马上夹",
+        "onboard_time": 1765604900,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100289,
+        "num": 100289,
+        "word": "六级作文",
+        "onboard_time": 1765599742,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98218,
+        "num": 98218,
+        "word": "白银暴涨有人2月狂赚16万",
+        "onboard_time": 1765603161,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33097,
+        "num": 97100,
+        "word": "泰方否认同意停火",
+        "onboard_time": 1765607002,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96366,
+        "num": 96366,
+        "word": "四级翻译 citywalk",
+        "onboard_time": 1765597763,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95287,
+        "num": 95287,
+        "word": "Kanavi被反野心态爆炸",
+        "onboard_time": 1765606340,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91934,
+        "num": 91934,
+        "word": "青岛初雪杀疯了",
+        "onboard_time": 1765604841,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

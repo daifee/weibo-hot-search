@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765607970524,
+  "endTime": 1765608763079,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -3611,6 +3611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 555355,
+      "num": 386005,
+      "word": "沈腾 肥瘦自由",
+      "onboard_time": 1765603642,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555238,
       "num": 266968,
       "word": "庆功宴唯一素颜明星是黄景瑜",
@@ -4196,7 +4204,7 @@
     },
     {
       "raw_hot": 513429,
-      "num": 358212,
+      "num": 362074,
       "word": "未领证女方流产后分手判返40%彩礼",
       "onboard_time": 1765604001,
       "rank": 25,
@@ -4609,14 +4617,6 @@
       "onboard_time": 1764939502,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 487308,
-      "num": 386005,
-      "word": "沈腾 肥瘦自由",
-      "onboard_time": 1765603642,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 486925,
@@ -5476,7 +5476,7 @@
     },
     {
       "raw_hot": 443085,
-      "num": 357582,
+      "num": 359631,
       "word": "妈妈沟通病情发现孩子正库里库里",
       "onboard_time": 1765605021,
       "rank": 6,
@@ -7193,6 +7193,14 @@
       "onboard_time": 1765017322,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362509,
+      "num": 362509,
+      "word": "双轨口碑",
+      "onboard_time": 1765604602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 361714,
@@ -9739,14 +9747,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 273981,
-      "num": 243621,
-      "word": "双轨口碑",
-      "onboard_time": 1765604602,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273732,
       "num": 4022064,
       "word": "大湾区大学正式成立",
@@ -11411,6 +11411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231137,
+      "num": 190195,
+      "word": "不上镜的人有多不上镜",
+      "onboard_time": 1765605141,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231030,
       "num": 231030,
       "word": "陈震全网粉丝超2400万",
@@ -11483,6 +11491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229774,
+      "num": 184909,
+      "word": "特朗普和爱泼斯坦照片公布",
+      "onboard_time": 1765606640,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229678,
       "num": 229678,
       "word": "狙击蝴蝶热度",
@@ -11492,7 +11508,7 @@
     },
     {
       "raw_hot": 229476,
-      "num": 164251,
+      "num": 173552,
       "word": "咖啡加奶对抗炎症效果翻倍",
       "onboard_time": 1765606340,
       "rank": 22,
@@ -15267,6 +15283,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 182821,
+      "num": 182821,
+      "word": "林诗栋蒯曼1比3林仲勋申裕斌",
+      "onboard_time": 1765607901,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182746,
       "num": 182746,
       "word": "女子为集娃娃到商场偷盲盒",
@@ -15297,6 +15321,14 @@
       "onboard_time": 1765238541,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182476,
+      "num": 134689,
+      "word": "林仲勋申裕斌进混双决赛",
+      "onboard_time": 1765607901,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 182410,
@@ -15755,20 +15787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177968,
-      "num": 177968,
-      "word": "林诗栋蒯曼1比3林仲勋申裕斌",
-      "onboard_time": 1765607901,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177888,
       "num": 255771,
       "word": "十个勤天好多合照",
       "onboard_time": 1765031904,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177750,
+      "num": 177750,
+      "word": "内娱三大名场面",
+      "onboard_time": 1765607241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 177738,
@@ -16329,14 +16361,6 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171705,
-      "num": 171705,
-      "word": "不上镜的人有多不上镜",
-      "onboard_time": 1765605141,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 171607,
@@ -17305,14 +17329,6 @@
       "onboard_time": 1764755362,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163881,
-      "num": 163881,
-      "word": "特朗普和爱泼斯坦照片公布",
-      "onboard_time": 1765606640,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163844,
@@ -19707,6 +19723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146546,
+      "num": 146546,
+      "word": "林诗栋蒯曼混双无缘决赛",
+      "onboard_time": 1765607482,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146545,
       "num": 146545,
       "word": "马克龙抵达北京",
@@ -19721,14 +19745,6 @@
       "onboard_time": 1764648141,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146527,
-      "num": 146527,
-      "word": "林诗栋蒯曼混双无缘决赛",
-      "onboard_time": 1765607482,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 146511,
@@ -19825,6 +19841,14 @@
       "onboard_time": 1765186760,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145861,
+      "num": 130745,
+      "word": "Smash挑战T1",
+      "onboard_time": 1765608440,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 145849,
@@ -21785,14 +21809,6 @@
       "onboard_time": 1765355901,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134689,
-      "num": 134689,
-      "word": "林仲勋申裕斌进混双决赛",
-      "onboard_time": 1765607901,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 134676,
@@ -23825,6 +23841,14 @@
       "onboard_time": 1765081041,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124897,
+      "num": 124897,
+      "word": "印度网友被中国小学生午餐震惊",
+      "onboard_time": 1765607901,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124807,
@@ -27691,6 +27715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109392,
+      "num": 109392,
+      "word": "iPhone通话录音无感隐藏小技巧",
+      "onboard_time": 1765606340,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109377,
       "num": 517267,
       "word": "利物浦 萨拉赫",
@@ -29507,14 +29539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102416,
-      "num": 102416,
-      "word": "印度网友被中国小学生午餐震惊",
-      "onboard_time": 1765607901,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102385,
       "num": 102385,
       "word": "杨瀚森背靠背出战G联赛",
@@ -30081,6 +30105,14 @@
       "onboard_time": 1765352542,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100362,
+      "num": 100362,
+      "word": "火锅丸子浮起来别马上夹",
+      "onboard_time": 1765604900,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 100306,
@@ -31945,6 +31977,14 @@
       "onboard_time": 1764939082,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91934,
+      "num": 91934,
+      "word": "青岛初雪杀疯了",
+      "onboard_time": 1765604841,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91912,
@@ -34611,6 +34651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77201,
+      "num": 130097,
+      "word": "向太回应向佐哭诉娱乐圈很恐怖",
+      "onboard_time": 1765607781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77065,
       "num": 77065,
       "word": "万达赎回一座万达广场释放什么信号",
@@ -35025,14 +35073,6 @@
       "onboard_time": 1765593862,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74486,
-      "num": 129977,
-      "word": "内娱三大名场面",
-      "onboard_time": 1765607241,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 74460,
@@ -36753,6 +36793,14 @@
       "onboard_time": 1765206445,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59083,
+      "num": 164806,
+      "word": "投资千万景区荒废沦为鬼城",
+      "onboard_time": 1765606701,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59006,
@@ -38571,14 +38619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46316,
-      "num": 164806,
-      "word": "投资千万景区荒废沦为鬼城",
-      "onboard_time": 1765606701,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46257,
       "num": 1053324,
       "word": "中央经济工作会议速览",
@@ -39851,6 +39891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38718,
+      "num": 135965,
+      "word": "官方通报男子养生馆内死亡",
+      "onboard_time": 1765608501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38711,
       "num": 106171,
       "word": "敖瑞鹏你有对手了",
@@ -40755,6 +40803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33097,
+      "num": 130985,
+      "word": "泰方否认同意停火",
+      "onboard_time": 1765607002,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33070,
       "num": 151119,
       "word": "公益项目受助名单照搬人名大全",
@@ -41531,14 +41587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28184,
-      "num": 130985,
-      "word": "泰方否认同意停火",
-      "onboard_time": 1765607002,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28154,
       "num": 275019,
       "word": "礼兵敬献花圈",
@@ -41825,14 +41873,6 @@
       "onboard_time": 1765546584,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26586,
-      "num": 130097,
-      "word": "向太回应向佐哭诉娱乐圈很恐怖",
-      "onboard_time": 1765607781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 26546,
@@ -43313,6 +43353,14 @@
       "onboard_time": 1764680603,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 16373,
+      "num": 113672,
+      "word": "马库斯为南京大屠杀遇难同胞默哀",
+      "onboard_time": 1765608501,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16329,

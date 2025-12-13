@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765607970524,
+  "endTime": 1765608763079,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -155,8 +155,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 555355,
+      "num": 386005,
+      "word": "沈腾 肥瘦自由",
+      "onboard_time": 1765603642,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513429,
-      "num": 358212,
+      "num": 362074,
       "word": "未领证女方流产后分手判返40%彩礼",
       "onboard_time": 1765604001,
       "rank": 25,
@@ -195,14 +203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 487308,
-      "num": 386005,
-      "word": "沈腾 肥瘦自由",
-      "onboard_time": 1765603642,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454560,
       "num": 454560,
       "word": "academic writing",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 443085,
-      "num": 357582,
+      "num": 359631,
       "word": "妈妈沟通病情发现孩子正库里库里",
       "onboard_time": 1765605021,
       "rank": 6,
@@ -289,6 +289,14 @@
       "onboard_time": 1765554681,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362509,
+      "num": 362509,
+      "word": "双轨口碑",
+      "onboard_time": 1765604602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 354927,
@@ -427,14 +435,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 273981,
-      "num": 243621,
-      "word": "双轨口碑",
-      "onboard_time": 1765604602,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262913,
       "num": 262913,
       "word": "手机壳爱马仕狂卖36亿",
@@ -539,8 +539,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 231137,
+      "num": 190195,
+      "word": "不上镜的人有多不上镜",
+      "onboard_time": 1765605141,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229774,
+      "num": 184909,
+      "word": "特朗普和爱泼斯坦照片公布",
+      "onboard_time": 1765606640,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229476,
-      "num": 164251,
+      "num": 173552,
       "word": "咖啡加奶对抗炎症效果翻倍",
       "onboard_time": 1765606340,
       "rank": 22,
@@ -619,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182821,
+      "num": 182821,
+      "word": "林诗栋蒯曼1比3林仲勋申裕斌",
+      "onboard_time": 1765607901,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182476,
+      "num": 134689,
+      "word": "林仲勋申裕斌进混双决赛",
+      "onboard_time": 1765607901,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181742,
       "num": 297171,
       "word": "华谊兄弟7年巨亏82亿",
@@ -635,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177968,
-      "num": 177968,
-      "word": "林诗栋蒯曼1比3林仲勋申裕斌",
-      "onboard_time": 1765607901,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 177750,
+      "num": 177750,
+      "word": "内娱三大名场面",
+      "onboard_time": 1765607241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 177699,
@@ -683,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171705,
-      "num": 171705,
-      "word": "不上镜的人有多不上镜",
-      "onboard_time": 1765605141,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170819,
       "num": 170866,
       "word": "北京暴雪",
@@ -713,14 +737,6 @@
       "onboard_time": 1765595781,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163881,
-      "num": 163881,
-      "word": "特朗普和爱泼斯坦照片公布",
-      "onboard_time": 1765606640,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162309,
@@ -771,12 +787,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 146527,
-      "num": 146527,
+      "raw_hot": 146546,
+      "num": 146546,
       "word": "林诗栋蒯曼混双无缘决赛",
       "onboard_time": 1765607482,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145861,
+      "num": 130745,
+      "word": "Smash挑战T1",
+      "onboard_time": 1765608440,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 143737,
@@ -825,14 +849,6 @@
       "onboard_time": 1765607241,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134689,
-      "num": 134689,
-      "word": "林仲勋申裕斌进混双决赛",
-      "onboard_time": 1765607901,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 133337,
@@ -896,6 +912,14 @@
       "word": "女孩成功减重70斤后朋友的反应",
       "onboard_time": 1765600461,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124897,
+      "num": 124897,
+      "word": "印度网友被中国小学生午餐震惊",
+      "onboard_time": 1765607901,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1043,6 +1067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109392,
+      "num": 109392,
+      "word": "iPhone通话录音无感隐藏小技巧",
+      "onboard_time": 1765606340,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108997,
       "num": 108997,
       "word": "云初令官宣",
@@ -1107,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102416,
-      "num": 102416,
-      "word": "印度网友被中国小学生午餐震惊",
-      "onboard_time": 1765607901,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 100362,
+      "num": 100362,
+      "word": "火锅丸子浮起来别马上夹",
+      "onboard_time": 1765604900,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 99257,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1765590680,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91934,
+      "num": 91934,
+      "word": "青岛初雪杀疯了",
+      "onboard_time": 1765604841,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91858,
@@ -1347,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77201,
+      "num": 130097,
+      "word": "向太回应向佐哭诉娱乐圈很恐怖",
+      "onboard_time": 1765607781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76828,
       "num": 76828,
       "word": "肖战 得闲想要得闲手搓得到",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1765593862,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74486,
-      "num": 129977,
-      "word": "内娱三大名场面",
-      "onboard_time": 1765607241,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 74265,
@@ -1595,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59083,
+      "num": 164806,
+      "word": "投资千万景区荒废沦为鬼城",
+      "onboard_time": 1765606701,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56349,
       "num": 79902,
       "word": "南京大屠杀死难者国家公祭仪式",
@@ -1667,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46316,
-      "num": 164806,
-      "word": "投资千万景区荒废沦为鬼城",
-      "onboard_time": 1765606701,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45887,
       "num": 197457,
       "word": "刘嘉玲何赛飞因拍短剧理念不合吵起来",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1765539501,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38718,
+      "num": 135965,
+      "word": "官方通报男子养生馆内死亡",
+      "onboard_time": 1765608501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38174,
@@ -1731,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33097,
+      "num": 130985,
+      "word": "泰方否认同意停火",
+      "onboard_time": 1765607002,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32363,
       "num": 45201,
       "word": "古早留子vs现代留子",
@@ -1763,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28184,
-      "num": 130985,
-      "word": "泰方否认同意停火",
-      "onboard_time": 1765607002,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28154,
       "num": 275019,
       "word": "礼兵敬献花圈",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1765573694,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 26586,
-      "num": 130097,
-      "word": "向太回应向佐哭诉娱乐圈很恐怖",
-      "onboard_time": 1765607781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 25392,
@@ -1848,6 +1888,14 @@
       "word": "解读2025中央经济工作会议",
       "onboard_time": 1765546584,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16373,
+      "num": 113672,
+      "word": "马库斯为南京大屠杀遇难同胞默哀",
+      "onboard_time": 1765608501,
+      "rank": 39,
       "category": "国内时政"
     },
     {
