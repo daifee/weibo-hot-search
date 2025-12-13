@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765600420248,
+  "endTime": 1765601288222,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -91,7 +91,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 673381,
+      "raw_hot": 679952,
       "num": 332490,
       "word": "猫一杯转世账号被关闭",
       "onboard_time": 1765597942,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 488272,
-      "num": 354933,
+      "num": 388144,
       "word": "四级翻译 citywalk",
       "onboard_time": 1765597763,
       "rank": 7,
@@ -177,6 +177,14 @@
       "onboard_time": 1765598781,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 399069,
+      "num": 300721,
+      "word": "你是说王俊凯穿了四层才这样吗",
+      "onboard_time": 1765599622,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 394099,
@@ -267,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 332530,
+      "num": 235215,
+      "word": "故宫偶遇李现",
+      "onboard_time": 1765598662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327229,
       "num": 327229,
       "word": "六级",
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309116,
+      "num": 309116,
+      "word": "academic writing",
+      "onboard_time": 1765599321,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 302106,
       "num": 166524,
       "word": "云初令官宣虞书欣",
@@ -307,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 297393,
+      "num": 297393,
+      "word": "重庆10人聚餐9人开溜事件进展",
+      "onboard_time": 1765599382,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295282,
       "num": 295282,
       "word": "假如南京大屠杀没有发生",
@@ -321,6 +353,14 @@
       "onboard_time": 1765581556,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281186,
+      "num": 281186,
+      "word": "六级预测",
+      "onboard_time": 1765599443,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 280362,
@@ -345,14 +385,6 @@
       "onboard_time": 1765595061,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253133,
-      "num": 235215,
-      "word": "故宫偶遇李现",
-      "onboard_time": 1765598662,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 252883,
@@ -387,14 +419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 244654,
-      "num": 244654,
-      "word": "你是说王俊凯穿了四层才这样吗",
-      "onboard_time": 1765599622,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
@@ -419,6 +443,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234719,
+      "num": 234719,
+      "word": "刘亦菲当年的采访还是体面",
+      "onboard_time": 1765599981,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232947,
+      "num": 232947,
+      "word": "六级作文",
+      "onboard_time": 1765599742,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 224616,
       "num": 224616,
       "word": "狙击蝴蝶",
@@ -427,27 +467,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218863,
-      "num": 218863,
-      "word": "重庆10人聚餐9人开溜事件进展",
-      "onboard_time": 1765599382,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217504,
       "num": 249762,
       "word": "四六级",
       "onboard_time": 1765590380,
       "rank": 17,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 215073,
-      "num": 215073,
-      "word": "六级作文",
-      "onboard_time": 1765599742,
-      "rank": 27,
       "category": "教育"
     },
     {
@@ -465,14 +489,6 @@
       "onboard_time": 1765548805,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199314,
-      "num": 199314,
-      "word": "academic writing",
-      "onboard_time": 1765599321,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 193537,
@@ -523,14 +539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178853,
-      "num": 178853,
-      "word": "六级预测",
-      "onboard_time": 1765599443,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178485,
       "num": 163729,
       "word": "陈伟霆 它咬了你我立马下班",
@@ -563,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172578,
+      "num": 1032058,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1765599981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170819,
       "num": 170866,
       "word": "北京暴雪",
@@ -571,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166518,
-      "num": 166518,
-      "word": "刘亦菲当年的采访还是体面",
-      "onboard_time": 1765599981,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 168929,
+      "num": 242739,
+      "word": "00后骑手回应5年攒下112万",
+      "onboard_time": 1765599801,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164900,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135813,
+      "num": 135813,
+      "word": "微博之夜",
+      "onboard_time": 1765588400,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133337,
       "num": 133337,
       "word": "哈尔滨中央大街供暖",
@@ -699,12 +723,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123216,
-      "num": 123216,
-      "word": "微博之夜",
-      "onboard_time": 1765588400,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 125927,
+      "num": 125927,
+      "word": "女孩成功减重70斤后朋友的反应",
+      "onboard_time": 1765600461,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121835,
+      "num": 121835,
+      "word": "金铲铲之战补偿",
+      "onboard_time": 1765600282,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 121832,
@@ -737,6 +769,14 @@
       "onboard_time": 1765551382,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117505,
+      "num": 117505,
+      "word": "距离四级还有182天",
+      "onboard_time": 1765600580,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 114696,
@@ -787,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108831,
+      "num": 108831,
+      "word": "凡人修仙传",
+      "onboard_time": 1765600942,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105902,
       "num": 105902,
       "word": "咪的世界发大水了咪处理不好",
@@ -825,14 +873,6 @@
       "onboard_time": 1765557080,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102912,
-      "num": 242739,
-      "word": "00后骑手回应5年攒下112万",
-      "onboard_time": 1765599801,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99257,
@@ -889,14 +929,6 @@
       "onboard_time": 1765583658,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91219,
-      "num": 118887,
-      "word": "金铲铲之战补偿",
-      "onboard_time": 1765600282,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 91200,
@@ -963,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87715,
+      "num": 118874,
+      "word": "库里这球比AI还离谱",
+      "onboard_time": 1765600282,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86561,
       "num": 86561,
       "word": "明年房地产政策有4个新变化",
@@ -977,14 +1017,6 @@
       "onboard_time": 1765543403,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 83279,
-      "num": 118874,
-      "word": "库里这球比AI还离谱",
-      "onboard_time": 1765600282,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 83145,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1765587439,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72073,
-      "num": 1032058,
-      "word": "以国之名悼我同胞",
-      "onboard_time": 1765599981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71792,
@@ -1283,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59789,
+      "num": 136163,
+      "word": "7000吃漂亮饭拍照不让开闪光",
+      "onboard_time": 1765600521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56349,
       "num": 79902,
       "word": "南京大屠杀死难者国家公祭仪式",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1765539501,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38174,
+      "num": 233164,
+      "word": "日军曾用毒气弹轰炸台湾少数民族",
+      "onboard_time": 1765600761,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37428,
@@ -1491,6 +1531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13778,
+      "num": 339735,
+      "word": "中央经济工作会议里的民生事",
+      "onboard_time": 1765599742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13511,
       "num": 109399,
       "word": "躺医院7年半无名男子DNA未比对成功",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1765555461,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 11845,
-      "num": 339735,
-      "word": "中央经济工作会议里的民生事",
-      "onboard_time": 1765599742,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10881,

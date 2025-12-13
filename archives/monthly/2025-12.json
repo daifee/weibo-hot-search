@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765600420248,
+  "endTime": 1765601288222,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2499,6 +2499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 679952,
+      "num": 332490,
+      "word": "猫一杯转世账号被关闭",
+      "onboard_time": 1765597942,
+      "rank": 10,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 679124,
       "num": 695517,
       "word": "红学专家否定红楼梦悼明",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1765359561,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 673381,
-      "num": 332490,
-      "word": "猫一杯转世账号被关闭",
-      "onboard_time": 1765597942,
-      "rank": 10,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 673065,
@@ -4548,7 +4548,7 @@
     },
     {
       "raw_hot": 488272,
-      "num": 354933,
+      "num": 388144,
       "word": "四级翻译 citywalk",
       "onboard_time": 1765597763,
       "rank": 7,
@@ -6209,6 +6209,14 @@
       "onboard_time": 1764639260,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399069,
+      "num": 300721,
+      "word": "你是说王俊凯穿了四层才这样吗",
+      "onboard_time": 1765599622,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 398705,
@@ -7899,6 +7907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 332530,
+      "num": 235215,
+      "word": "故宫偶遇李现",
+      "onboard_time": 1765598662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332372,
       "num": 193528,
       "word": "胎儿竟在妈妈的肝脏上安了家",
@@ -8619,6 +8635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309116,
+      "num": 309116,
+      "word": "academic writing",
+      "onboard_time": 1765599321,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 308679,
       "num": 256785,
       "word": "王鹤棣沈月现实版尼克朱迪",
@@ -8937,6 +8961,14 @@
       "onboard_time": 1765165520,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 297393,
+      "num": 297393,
+      "word": "重庆10人聚餐9人开溜事件进展",
+      "onboard_time": 1765599382,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297279,
@@ -9401,6 +9433,14 @@
       "onboard_time": 1765527743,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281186,
+      "num": 281186,
+      "word": "六级预测",
+      "onboard_time": 1765599443,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 280708,
@@ -10371,14 +10411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253133,
-      "num": 235215,
-      "word": "故宫偶遇李现",
-      "onboard_time": 1765598662,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253062,
       "num": 1086619,
       "word": "A股为何突然大涨",
@@ -10649,14 +10681,6 @@
       "onboard_time": 1764570382,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244654,
-      "num": 244654,
-      "word": "你是说王俊凯穿了四层才这样吗",
-      "onboard_time": 1765599622,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 244273,
@@ -11155,6 +11179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234719,
+      "num": 234719,
+      "word": "刘亦菲当年的采访还是体面",
+      "onboard_time": 1765599981,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "方圆拍短剧花钱找配音",
@@ -11217,6 +11249,14 @@
       "onboard_time": 1764833661,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232947,
+      "num": 232947,
+      "word": "六级作文",
+      "onboard_time": 1765599742,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 232754,
@@ -11827,14 +11867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218863,
-      "num": 218863,
-      "word": "重庆10人聚餐9人开溜事件进展",
-      "onboard_time": 1765599382,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "许绍雄女儿斥责钱翰群泄露丧礼细节",
@@ -12025,14 +12057,6 @@
       "onboard_time": 1765423160,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215073,
-      "num": 215073,
-      "word": "六级作文",
-      "onboard_time": 1765599742,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 215030,
@@ -13473,14 +13497,6 @@
       "onboard_time": 1764843443,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199314,
-      "num": 199314,
-      "word": "academic writing",
-      "onboard_time": 1765599321,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 199242,
@@ -15571,14 +15587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178853,
-      "num": 178853,
-      "word": "六级预测",
-      "onboard_time": 1765599443,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178771,
       "num": 178771,
       "word": "风与潮定档",
@@ -16139,6 +16147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172578,
+      "num": 1032058,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1765599981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172133,
       "num": 172133,
       "word": "嫁金钗男主",
@@ -16547,6 +16563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168929,
+      "num": 242739,
+      "word": "00后骑手回应5年攒下112万",
+      "onboard_time": 1765599801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168830,
       "num": 178658,
       "word": "日本自卫队战机紧急起飞越发频繁",
@@ -16848,14 +16872,6 @@
       "word": "吴磊星光值暴涨",
       "onboard_time": 1765459103,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 166518,
-      "num": 166518,
-      "word": "刘亦菲当年的采访还是体面",
-      "onboard_time": 1765599981,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -23435,6 +23451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125927,
+      "num": 125927,
+      "word": "女孩成功减重70斤后朋友的反应",
+      "onboard_time": 1765600461,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125920,
       "num": 125920,
       "word": "雅迪新车上市有前后座有车筐",
@@ -24329,6 +24353,14 @@
       "onboard_time": 1765338861,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121835,
+      "num": 121835,
+      "word": "金铲铲之战补偿",
+      "onboard_time": 1765600282,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 121832,
@@ -25505,6 +25537,14 @@
       "onboard_time": 1765290505,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117505,
+      "num": 117505,
+      "word": "距离四级还有182天",
+      "onboard_time": 1765600580,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 117468,
@@ -27603,6 +27643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108831,
+      "num": 108831,
+      "word": "凡人修仙传",
+      "onboard_time": 1765600942,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108817,
       "num": 150275,
       "word": "ChatGPT评21世纪最伟大运动员",
@@ -29057,14 +29105,6 @@
       "onboard_time": 1764679943,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102912,
-      "num": 242739,
-      "word": "00后骑手回应5年攒下112万",
-      "onboard_time": 1765599801,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102892,
@@ -31859,14 +31899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91219,
-      "num": 118887,
-      "word": "金铲铲之战补偿",
-      "onboard_time": 1765600282,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91214,
       "num": 164686,
       "word": "马斯克或成全球首个万亿富豪",
@@ -32619,6 +32651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87715,
+      "num": 118874,
+      "word": "库里这球比AI还离谱",
+      "onboard_time": 1765600282,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87657,
       "num": 185235,
       "word": "北京发布暴雪蓝警",
@@ -33369,14 +33409,6 @@
       "onboard_time": 1764852202,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83279,
-      "num": 118874,
-      "word": "库里这球比AI还离谱",
-      "onboard_time": 1765600282,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 83267,
@@ -35027,14 +35059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72073,
-      "num": 1032058,
-      "word": "以国之名悼我同胞",
-      "onboard_time": 1765599981,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71996,
       "num": 71996,
       "word": "昀牵孟绕",
@@ -36385,6 +36409,14 @@
       "onboard_time": 1765469122,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59789,
+      "num": 136163,
+      "word": "7000吃漂亮饭拍照不让开闪光",
+      "onboard_time": 1765600521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59703,
@@ -39625,6 +39657,14 @@
       "onboard_time": 1764915141,
       "rank": 47,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 38174,
+      "num": 233164,
+      "word": "日军曾用毒气弹轰炸台湾少数民族",
+      "onboard_time": 1765600761,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38168,
@@ -43243,6 +43283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13778,
+      "num": 339735,
+      "word": "中央经济工作会议里的民生事",
+      "onboard_time": 1765599742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13772,
       "num": 234332,
       "word": "开罗宣言发表82周年",
@@ -43457,14 +43505,6 @@
       "onboard_time": 1765536321,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11845,
-      "num": 339735,
-      "word": "中央经济工作会议里的民生事",
-      "onboard_time": 1765599742,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11743,
