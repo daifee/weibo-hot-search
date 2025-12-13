@@ -1,0 +1,410 @@
+{
+  "runTime": 1765624943184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911558,
+        "num": 1911558,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 479109,
+        "num": 479109,
+        "word": "与儿子换血富豪每年抗衰花200万美元",
+        "onboard_time": 1765616841,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52427,
+        "num": 371149,
+        "word": "网警起底专坑新主播的推流骗局",
+        "onboard_time": 1765623322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 916922,
+        "num": 340547,
+        "word": "六级答案",
+        "onboard_time": 1765618883,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309165,
+        "num": 309165,
+        "word": "张本智和赢了再次致敬樊振东",
+        "onboard_time": 1765616300,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299519,
+        "num": 299519,
+        "word": "梅西印度行",
+        "onboard_time": 1765619963,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262549,
+        "num": 262549,
+        "word": "南京大屠杀唯一存世动态影像",
+        "onboard_time": 1765617321,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203012,
+        "num": 203012,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765622300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16816,
+        "num": 198833,
+        "word": "中央经济工作会议这些提法意涵深刻",
+        "onboard_time": 1765617440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196840,
+        "num": 196840,
+        "word": "长安二十四计",
+        "onboard_time": 1765623860,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 846619,
+        "num": 196731,
+        "word": "张凯毅称4斤黄金凤冠被毁未索赔",
+        "onboard_time": 1765622541,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462098,
+        "num": 196048,
+        "word": "曝papi维嘉团队争番",
+        "onboard_time": 1765615160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325701,
+        "num": 195232,
+        "word": "王楚然高度近视不做手术的原因",
+        "onboard_time": 1765602442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182146,
+        "num": 195162,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271486,
+        "num": 194562,
+        "word": "北京积水潭医院已收治170例摔伤患者",
+        "onboard_time": 1765616841,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317925,
+        "num": 193992,
+        "word": "爱你六级明年见",
+        "onboard_time": 1765618883,
+        "rank": 15,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 205747,
+        "num": 193285,
+        "word": "六级 以为在考政治",
+        "onboard_time": 1765620742,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220602,
+        "num": 192537,
+        "word": "六级翻译好难",
+        "onboard_time": 1765618821,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192374,
+        "num": 192374,
+        "word": "于正回应不让周柯宇去星光大赏",
+        "onboard_time": 1765623441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188748,
+        "num": 188748,
+        "word": "六级阅读",
+        "onboard_time": 1765619063,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 762536,
+        "num": 188747,
+        "word": "曝王耀庆蔡国庆闹掰",
+        "onboard_time": 1765620320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458477,
+        "num": 188746,
+        "word": "曝知名导演疑似与年轻女子同居",
+        "onboard_time": 1765615340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188743,
+        "num": 188743,
+        "word": "虞书欣这一脚直接把我踹成梦女",
+        "onboard_time": 1765624761,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183043,
+        "num": 183043,
+        "word": "六级作文",
+        "onboard_time": 1765599742,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430751,
+        "num": 182082,
+        "word": "于小彤与女友逛街",
+        "onboard_time": 1765623023,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291169,
+        "num": 181583,
+        "word": "月经期间不建议做的10件事",
+        "onboard_time": 1765624821,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198812,
+        "num": 181040,
+        "word": "王楚钦爆抽吓到张本美和",
+        "onboard_time": 1765621281,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179089,
+        "num": 179089,
+        "word": "六级听力",
+        "onboard_time": 1765619063,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177971,
+        "num": 177971,
+        "word": "爷爷没认出长大的盼盼",
+        "onboard_time": 1765623023,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169375,
+        "num": 169375,
+        "word": "六级红绿灯",
+        "onboard_time": 1765621461,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153510,
+        "num": 153510,
+        "word": "被骗936万女子抑郁暴瘦自杀身亡",
+        "onboard_time": 1765624521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161187,
+        "num": 153191,
+        "word": "六级请尊重二旬老人",
+        "onboard_time": 1765622062,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151402,
+        "num": 151402,
+        "word": "狙击蝴蝶 还我睡眠",
+        "onboard_time": 1765624521,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144523,
+        "num": 144523,
+        "word": "清华大学打雪仗有多激烈",
+        "onboard_time": 1765620440,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139463,
+        "num": 139463,
+        "word": "张本美和采访松岛辉空突然走掉了",
+        "onboard_time": 1765624640,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139326,
+        "num": 139326,
+        "word": "张凯毅黄金凤冠遭毁紧急在线求助",
+        "onboard_time": 1765624222,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135741,
+        "num": 135741,
+        "word": "孙颖莎2场比赛间隔不到2小时",
+        "onboard_time": 1765623921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128322,
+        "num": 128322,
+        "word": "咖啡加奶对抗炎症效果翻倍",
+        "onboard_time": 1765606340,
+        "rank": 37,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 7290,
+        "num": 126449,
+        "word": "曝胡彦斌粉丝脱粉原因",
+        "onboard_time": 1765624821,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124774,
+        "num": 124774,
+        "word": "日本住持捐出5千份日军侵华史料",
+        "onboard_time": 1765615402,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "东北雨姐被曝数次尝试复出",
+        "onboard_time": 1765616601,
+        "rank": 40,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 120949,
+        "num": 120949,
+        "word": "陈妍希周柯宇 花少",
+        "onboard_time": 1765624461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117542,
+        "num": 117542,
+        "word": "王安宇 打喷嚏原来是王子命",
+        "onboard_time": 1765623261,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116883,
+        "num": 116883,
+        "word": "六级段落匹配",
+        "onboard_time": 1765620142,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116738,
+        "num": 116738,
+        "word": "王楚钦说孙颖莎晚上还有比赛",
+        "onboard_time": 1765620382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116260,
+        "num": 116260,
+        "word": "肖指导生气了",
+        "onboard_time": 1765616240,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111430,
+        "num": 111430,
+        "word": "张若昀 谁说演员不能看镜头",
+        "onboard_time": 1765613839,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107028,
+        "num": 107028,
+        "word": "ShowMaker三分钟单杀Faker",
+        "onboard_time": 1765624640,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106981,
+        "num": 106981,
+        "word": "美国孕妇被生母继父剖腹取胎杀害",
+        "onboard_time": 1765617801,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106004,
+        "num": 106004,
+        "word": "长期侧睡对脸型的影响",
+        "onboard_time": 1765621222,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的这番话掷地有声#"
+    }
+  }
+}
