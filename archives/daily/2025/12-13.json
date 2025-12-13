@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765621702078,
+  "endTime": 1765622618226,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 788843,
+      "num": 228027,
+      "word": "曝王耀庆蔡国庆闹掰",
+      "onboard_time": 1765620320,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751943,
       "num": 751943,
       "word": "四级作文 没看懂",
@@ -153,14 +161,6 @@
       "onboard_time": 1765585400,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 717993,
-      "num": 228027,
-      "word": "曝王耀庆蔡国庆闹掰",
-      "onboard_time": 1765620320,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 716161,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443205,
+      "num": 443205,
+      "word": "与儿子换血富豪每年抗衰花200万美元",
+      "onboard_time": 1765616841,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 439134,
       "num": 244584,
       "word": "建议大家住五星级酒店带行李箱",
@@ -385,14 +393,6 @@
       "onboard_time": 1765620142,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 409436,
-      "num": 409436,
-      "word": "与儿子换血富豪每年抗衰花200万美元",
-      "onboard_time": 1765616841,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 399069,
@@ -643,6 +643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 277032,
+      "num": 277032,
+      "word": "梅西印度行",
+      "onboard_time": 1765619963,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275931,
       "num": 275931,
       "word": "北京卫视直播八小时媚眼抛给瞎子看",
@@ -835,12 +843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201847,
+      "num": 201847,
+      "word": "六级 以为在考政治",
+      "onboard_time": 1765620742,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200689,
       "num": 200689,
       "word": "长崎美柚采访承认故意发球违例",
       "onboard_time": 1765611381,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195618,
+      "num": 195618,
+      "word": "六级红绿灯",
+      "onboard_time": 1765621461,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 195307,
@@ -1027,22 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167033,
-      "num": 167033,
-      "word": "梅西印度行",
-      "onboard_time": 1765619963,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166967,
-      "num": 166967,
-      "word": "六级 以为在考政治",
-      "onboard_time": 1765620742,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 164900,
       "num": 164900,
       "word": "10人聚餐1人留下拒付1262元餐费",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1765603822,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155583,
+      "num": 155583,
+      "word": "六级请尊重二旬老人",
+      "onboard_time": 1765622062,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 155469,
@@ -1171,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139884,
+      "num": 139884,
+      "word": "王楚钦爆抽吓到张本美和",
+      "onboard_time": 1765621281,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138095,
       "num": 138095,
       "word": "30厘米长老鼠爬到2岁孩子床上",
@@ -1235,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132007,
+      "num": 132007,
+      "word": "美国孕妇被生母继父剖腹取胎杀害",
+      "onboard_time": 1765617801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131703,
       "num": 131703,
       "word": "难怪婴儿出生的时候会使劲哭",
@@ -1275,12 +1307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126431,
-      "num": 126431,
-      "word": "美国孕妇被生母继父剖腹取胎杀害",
-      "onboard_time": 1765617801,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 126898,
+      "num": 126898,
+      "word": "清华大学打雪仗有多激烈",
+      "onboard_time": 1765620440,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126119,
+      "num": 126119,
+      "word": "张本智和说必须把冠军拿下来",
+      "onboard_time": 1765620620,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 125927,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1765600461,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125569,
-      "num": 125569,
-      "word": "六级红绿灯",
-      "onboard_time": 1765621461,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 125397,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1765620142,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 121932,
-      "num": 121932,
-      "word": "王楚钦爆抽吓到张本美和",
-      "onboard_time": 1765621281,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 121835,
@@ -1363,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119436,
+      "num": 119436,
+      "word": "王楚钦说孙颖莎晚上还有比赛",
+      "onboard_time": 1765620382,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119224,
       "num": 108989,
       "word": "陈妍希说把周柯宇当小狗",
@@ -1395,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117699,
+      "num": 117699,
+      "word": "张凯毅称4斤黄金凤冠被毁未索赔",
+      "onboard_time": 1765622541,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 117505,
       "num": 117505,
       "word": "距离四级还有182天",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1765605501,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116908,
+      "num": 116908,
+      "word": "内娱三大女魔童",
+      "onboard_time": 1765619000,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116620,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1765613959,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112970,
-      "num": 112970,
-      "word": "张本智和说必须把冠军拿下来",
-      "onboard_time": 1765620620,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 112537,
@@ -1563,14 +1603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105043,
-      "num": 105043,
-      "word": "内娱三大女魔童",
-      "onboard_time": 1765619000,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104635,
       "num": 89425,
       "word": "北京大兴机场20元过夜",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1765621580,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101656,
-      "num": 101656,
-      "word": "清华大学打雪仗有多激烈",
-      "onboard_time": 1765620440,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 100708,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1765600282,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86874,
+      "num": 732817,
+      "word": "和平宣言响彻南京",
+      "onboard_time": 1765618161,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86561,
@@ -2153,14 +2185,6 @@
       "onboard_time": 1765540161,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70462,
-      "num": 732817,
-      "word": "和平宣言响彻南京",
-      "onboard_time": 1765618161,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69356,
@@ -2724,7 +2748,7 @@
     },
     {
       "raw_hot": 12326,
-      "num": 110443,
+      "num": 312358,
       "word": "中央经济工作会议这些提法意涵深刻",
       "onboard_time": 1765617440,
       "rank": 35,
