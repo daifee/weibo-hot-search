@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765647599275,
+  "endTime": 1765650948537,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44615,
+      "num": 47688,
+      "word": "刘芮麟也在嗑陈妍希周柯宇",
+      "onboard_time": 1765647016,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41878,
       "num": 60999,
       "word": "女子连吃10多颗山楂胃里长巨大结石",
@@ -475,12 +483,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28307,
-      "num": 47688,
-      "word": "刘芮麟也在嗑陈妍希周柯宇",
-      "onboard_time": 1765647016,
+      "raw_hot": 18838,
+      "num": 33455,
+      "word": "邂逅双子座流星雨的浪漫",
+      "onboard_time": 1765646717,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18340,
+      "num": 33448,
+      "word": "金铲铲回应下线不朽传奇召唤活动",
+      "onboard_time": 1765649175,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 18124,
+      "num": 33447,
+      "word": "广东一公司财务造假10名高管集体获刑",
+      "onboard_time": 1765650255,
       "rank": 49,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12645,
@@ -497,6 +521,14 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9621,
+      "num": 60619,
+      "word": "海南自贸港封关将带来更多机遇",
+      "onboard_time": 1765636403,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1426,
