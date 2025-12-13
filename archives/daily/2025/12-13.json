@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765618072023,
+  "endTime": 1765618842919,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -19,8 +19,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1199807,
-      "num": 269554,
+      "raw_hot": 2302072,
+      "num": 2302072,
+      "word": "六级",
+      "onboard_time": 1765597462,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1218605,
+      "num": 334338,
       "word": "曝papi维嘉团队争番",
       "onboard_time": 1765615160,
       "rank": 11,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1153637,
-      "num": 280629,
+      "num": 331984,
       "word": "王楚然高度近视不做手术的原因",
       "onboard_time": 1765602442,
       "rank": 10,
@@ -40,6 +48,14 @@
       "word": "成都地震",
       "onboard_time": 1765580956,
       "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1018410,
+      "num": 1018410,
+      "word": "山西忻州3.4级地震",
+      "onboard_time": 1765618281,
+      "rank": 1,
       "category": "突发/灾害"
     },
     {
@@ -115,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 712301,
+      "num": 712301,
+      "word": "六级作文",
+      "onboard_time": 1765599742,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 679952,
       "num": 332490,
       "word": "猫一杯转世账号被关闭",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 627984,
-      "num": 383001,
+      "num": 510691,
       "word": "9分12秒的水煮蛋太权威了",
       "onboard_time": 1765615520,
       "rank": 28,
@@ -171,20 +195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594306,
+      "num": 218130,
+      "word": "曝知名导演疑似与年轻女子同居",
+      "onboard_time": 1765615340,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575367,
       "num": 1075756,
       "word": "重庆10人聚餐9人开溜事件进展",
       "onboard_time": 1765599382,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573359,
-      "num": 218130,
-      "word": "曝知名导演疑似与年轻女子同居",
-      "onboard_time": 1765615340,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 562829,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 447939,
-      "num": 268110,
+      "num": 358823,
       "word": "张本智和赢了再次致敬樊振东",
       "onboard_time": 1765616300,
       "rank": 12,
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368733,
+      "num": 332498,
+      "word": "南京大屠杀唯一存世动态影像",
+      "onboard_time": 1765617321,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 367690,
       "num": 505098,
       "word": "俄罗斯向日本发出警告",
@@ -385,6 +417,22 @@
       "onboard_time": 1765550243,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351505,
+      "num": 351505,
+      "word": "东北雨姐被曝数次尝试复出",
+      "onboard_time": 1765616601,
+      "rank": 5,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 344812,
+      "num": 344812,
+      "word": "北京积水潭医院已收治170例摔伤患者",
+      "onboard_time": 1765616841,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344229,
@@ -441,22 +489,6 @@
       "onboard_time": 1765598662,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327258,
-      "num": 327258,
-      "word": "东北雨姐被曝数次尝试复出",
-      "onboard_time": 1765616601,
-      "rank": 5,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 327229,
-      "num": 327229,
-      "word": "六级",
-      "onboard_time": 1765597462,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 323827,
@@ -553,6 +585,14 @@
       "onboard_time": 1765611020,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271068,
+      "num": 271606,
+      "word": "日本住持捐出5千份日军侵华史料",
+      "onboard_time": 1765615402,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 267315,
@@ -675,36 +715,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 232947,
-      "num": 232947,
-      "word": "六级作文",
-      "onboard_time": 1765599742,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 232516,
-      "num": 271606,
-      "word": "日本住持捐出5千份日军侵华史料",
-      "onboard_time": 1765615402,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 224616,
       "num": 224616,
       "word": "狙击蝴蝶",
       "onboard_time": 1765535602,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223236,
-      "num": 223236,
-      "word": "北京积水潭医院已收治170例摔伤患者",
-      "onboard_time": 1765616841,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218820,
@@ -784,6 +800,14 @@
       "word": "长安二十四计热度",
       "onboard_time": 1765545565,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193271,
+      "num": 193271,
+      "word": "虞书欣云初令真大女主来了",
+      "onboard_time": 1765615039,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -883,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174981,
+      "num": 174981,
+      "word": "陈妍希原生家庭",
+      "onboard_time": 1765616240,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174177,
       "num": 174177,
       "word": "四级听力",
@@ -921,6 +953,14 @@
       "onboard_time": 1765599801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168895,
+      "num": 168895,
+      "word": "与儿子换血富豪每年抗衰花200万美元",
+      "onboard_time": 1765616841,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164900,
@@ -987,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153088,
-      "num": 153088,
-      "word": "陈妍希原生家庭",
-      "onboard_time": 1765616240,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147811,
       "num": 145488,
       "word": "南京鸣响了防空警报",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1765571834,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142742,
-      "num": 142742,
-      "word": "虞书欣云初令真大女主来了",
-      "onboard_time": 1765615039,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 141127,
@@ -1307,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113108,
+      "num": 113108,
+      "word": "王楚然后悔自己侧着玩手机",
+      "onboard_time": 1765613959,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112537,
       "num": 112537,
       "word": "睡眠超9小时可能影响寿命",
@@ -1387,22 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106819,
-      "num": 269822,
-      "word": "南京大屠杀唯一存世动态影像",
-      "onboard_time": 1765617321,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 106743,
-      "num": 106743,
-      "word": "与儿子换血富豪每年抗衰花200万美元",
-      "onboard_time": 1765616841,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105902,
       "num": 105902,
       "word": "咪的世界发大水了咪处理不好",
@@ -1451,12 +1467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101718,
-      "num": 101718,
-      "word": "王楚然后悔自己侧着玩手机",
-      "onboard_time": 1765613959,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 100708,
+      "num": 100708,
+      "word": "81年男子去幼儿园接娃被当成爷爷",
+      "onboard_time": 1765618341,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100362,
@@ -1488,6 +1504,14 @@
       "word": "谢淮安真名叫刘啥",
       "onboard_time": 1765606580,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97963,
+      "num": 93604,
+      "word": "成毅新剧三声质问三种情绪",
+      "onboard_time": 1765618100,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1531,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95745,
+      "num": 95745,
+      "word": "得闲谨制",
+      "onboard_time": 1765617681,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94572,
       "num": 108947,
       "word": "长安二十四计",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1765590680,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92179,
+      "num": 92179,
+      "word": "孙颖莎打得松岛辉空直跺脚",
+      "onboard_time": 1765618401,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 91934,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1765556601,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 90791,
-      "num": 90791,
-      "word": "得闲谨制",
-      "onboard_time": 1765617681,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 90723,
@@ -1777,6 +1809,22 @@
       "onboard_time": 1765596980,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80795,
+      "num": 106764,
+      "word": "美国孕妇被生母继父剖腹取胎杀害",
+      "onboard_time": 1765617801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80739,
+      "num": 80739,
+      "word": "没点文化还真看不了这剧",
+      "onboard_time": 1765618703,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 79914,
@@ -1971,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67419,
+      "num": 147070,
+      "word": "10斤车厘子批发价从1700元降至500",
+      "onboard_time": 1765616481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67409,
       "num": 67409,
       "word": "郭碧婷公开自己的婚后生活",
@@ -2075,14 +2131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 61357,
-      "num": 106764,
-      "word": "美国孕妇被生母继父剖腹取胎杀害",
-      "onboard_time": 1765617801,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 61184,
       "num": 83767,
       "word": "梅婷一家游马德里",
@@ -2115,14 +2163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59377,
-      "num": 147070,
-      "word": "10斤车厘子批发价从1700元降至500",
-      "onboard_time": 1765616481,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59083,
       "num": 164806,
       "word": "投资千万景区荒废沦为鬼城",
@@ -2147,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53603,
+      "num": 100848,
+      "word": "女子家门口遇害母亲称后悔叫保安",
+      "onboard_time": 1765618401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53184,
       "num": 53184,
       "word": "成都彭州3.9级地震",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1765547124,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52610,
+      "num": 218282,
+      "word": "清华大学堆雪人太有仪式感了",
+      "onboard_time": 1765617262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51934,
@@ -2259,14 +2315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35896,
-      "num": 218282,
-      "word": "清华大学堆雪人太有仪式感了",
-      "onboard_time": 1765617262,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35687,
       "num": 44972,
       "word": "魏大勋杨迪 同综艺不同命",
@@ -2355,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26900,
+      "num": 270829,
+      "word": "数看医保5年成效",
+      "onboard_time": 1765617801,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26778,
       "num": 44658,
       "word": "iPhone拍照脸歪的问题解决了",
@@ -2363,12 +2419,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25526,
+      "num": 106975,
+      "word": "谢淮安12岁后六亲不认",
+      "onboard_time": 1765617440,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25392,
       "num": 84852,
       "word": "浙江跨晚抓大鹅式官宣",
       "onboard_time": 1765560497,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25344,
+      "num": 732817,
+      "word": "和平宣言响彻南京",
+      "onboard_time": 1765618161,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24134,
@@ -2411,6 +2483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18282,
+      "num": 345493,
+      "word": "快舟十一号遥八运载火箭发射成功了",
+      "onboard_time": 1765618401,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18059,
       "num": 178169,
       "word": "解读2025中央经济工作会议",
@@ -2420,7 +2500,7 @@
     },
     {
       "raw_hot": 17775,
-      "num": 99765,
+      "num": 218469,
       "word": "李家超致献花圈纪念南京大屠杀死难者",
       "onboard_time": 1765618042,
       "rank": 42,
@@ -2435,27 +2515,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16014,
-      "num": 270829,
-      "word": "数看医保5年成效",
-      "onboard_time": 1765617801,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15274,
       "num": 34226,
       "word": "2025国剧盛典",
       "onboard_time": 1765575074,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14589,
-      "num": 106975,
-      "word": "谢淮安12岁后六亲不认",
-      "onboard_time": 1765617440,
-      "rank": 38,
       "category": "剧集"
     },
     {

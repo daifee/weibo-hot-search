@@ -1,0 +1,410 @@
+{
+  "runTime": 1765618842919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2302072,
+        "num": 2302072,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1018410,
+        "num": 1018410,
+        "word": "山西忻州3.4级地震",
+        "onboard_time": 1765618281,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25344,
+        "num": 732817,
+        "word": "和平宣言响彻南京",
+        "onboard_time": 1765618161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712301,
+        "num": 712301,
+        "word": "六级作文",
+        "onboard_time": 1765599742,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 510691,
+        "num": 510691,
+        "word": "9分12秒的水煮蛋太权威了",
+        "onboard_time": 1765615520,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361068,
+        "num": 361068,
+        "word": "明年力争实现全国生娃基本不花钱",
+        "onboard_time": 1765610419,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425165,
+        "num": 358823,
+        "word": "张本智和赢了再次致敬樊振东",
+        "onboard_time": 1765616300,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351505,
+        "num": 351505,
+        "word": "东北雨姐被曝数次尝试复出",
+        "onboard_time": 1765616601,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 18282,
+        "num": 345493,
+        "word": "快舟十一号遥八运载火箭发射成功了",
+        "onboard_time": 1765618401,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 344812,
+        "num": 344812,
+        "word": "北京积水潭医院已收治170例摔伤患者",
+        "onboard_time": 1765616841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334700,
+        "num": 334700,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1218605,
+        "num": 334338,
+        "word": "曝papi维嘉团队争番",
+        "onboard_time": 1765615160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389196,
+        "num": 333529,
+        "word": "肖指导生气了",
+        "onboard_time": 1765616240,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368733,
+        "num": 332498,
+        "word": "南京大屠杀唯一存世动态影像",
+        "onboard_time": 1765617321,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 508439,
+        "num": 331984,
+        "word": "王楚然高度近视不做手术的原因",
+        "onboard_time": 1765602442,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331621,
+        "num": 331621,
+        "word": "这还是当年演小燕子的李晟吗",
+        "onboard_time": 1765614021,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271068,
+        "num": 271068,
+        "word": "日本住持捐出5千份日军侵华史料",
+        "onboard_time": 1765615402,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241157,
+        "num": 241157,
+        "word": "张若昀 谁说演员不能看镜头",
+        "onboard_time": 1765613839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228639,
+        "num": 228639,
+        "word": "重庆10人聚餐9人开溜事件进展",
+        "onboard_time": 1765599382,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13733,
+        "num": 218469,
+        "word": "李家超致献花圈纪念南京大屠杀死难者",
+        "onboard_time": 1765618042,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594306,
+        "num": 216759,
+        "word": "曝知名导演疑似与年轻女子同居",
+        "onboard_time": 1765615340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214462,
+        "num": 214462,
+        "word": "猫一杯转世账号被关闭",
+        "onboard_time": 1765597942,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 193271,
+        "num": 193271,
+        "word": "虞书欣云初令真大女主来了",
+        "onboard_time": 1765615039,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185109,
+        "num": 185109,
+        "word": "男子将鸡骨埋邻居家地基被抓现行",
+        "onboard_time": 1765615520,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181026,
+        "num": 181026,
+        "word": "云合",
+        "onboard_time": 1765615340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180757,
+        "num": 180757,
+        "word": "内娱三大名场面",
+        "onboard_time": 1765607241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52610,
+        "num": 177420,
+        "word": "清华大学堆雪人太有仪式感了",
+        "onboard_time": 1765617262,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174981,
+        "num": 174981,
+        "word": "陈妍希原生家庭",
+        "onboard_time": 1765616240,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168895,
+        "num": 168895,
+        "word": "与儿子换血富豪每年抗衰花200万美元",
+        "onboard_time": 1765616841,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154359,
+        "num": 154359,
+        "word": "咖啡加奶对抗炎症效果翻倍",
+        "onboard_time": 1765606340,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 139278,
+        "num": 139278,
+        "word": "月经是女性健康的显示器",
+        "onboard_time": 1765611980,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134072,
+        "num": 134072,
+        "word": "印度网友被中国小学生午餐震惊",
+        "onboard_time": 1765607901,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120205,
+        "num": 120205,
+        "word": "妈妈沟通病情发现孩子正库里库里",
+        "onboard_time": 1765605021,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113108,
+        "num": 113108,
+        "word": "王楚然后悔自己侧着玩手机",
+        "onboard_time": 1765613959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110407,
+        "num": 110407,
+        "word": "心梗发病前1个月身体就有迹象",
+        "onboard_time": 1765616660,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108566,
+        "num": 108566,
+        "word": "沈腾 肥瘦自由",
+        "onboard_time": 1765603642,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104880,
+        "num": 104880,
+        "word": "王俊凯 今天是红外线最多的一次",
+        "onboard_time": 1765615402,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102590,
+        "num": 102590,
+        "word": "北京卫视直播八小时媚眼抛给瞎子看",
+        "onboard_time": 1765611020,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80795,
+        "num": 101464,
+        "word": "美国孕妇被生母继父剖腹取胎杀害",
+        "onboard_time": 1765617801,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53603,
+        "num": 100848,
+        "word": "女子家门口遇害母亲称后悔叫保安",
+        "onboard_time": 1765618401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26900,
+        "num": 100773,
+        "word": "数看医保5年成效",
+        "onboard_time": 1765617801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100708,
+        "num": 100708,
+        "word": "81年男子去幼儿园接娃被当成爷爷",
+        "onboard_time": 1765618341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 96693,
+        "word": "谢淮安12岁后六亲不认",
+        "onboard_time": 1765617440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95745,
+        "num": 95745,
+        "word": "得闲谨制",
+        "onboard_time": 1765617681,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67419,
+        "num": 93692,
+        "word": "10斤车厘子批发价从1700元降至500",
+        "onboard_time": 1765616481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97963,
+        "num": 93604,
+        "word": "成毅新剧三声质问三种情绪",
+        "onboard_time": 1765618100,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92179,
+        "num": 92179,
+        "word": "孙颖莎打得松岛辉空直跺脚",
+        "onboard_time": 1765618401,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90039,
+        "num": 90039,
+        "word": "南京大屠杀遇难同胞九成为男性",
+        "onboard_time": 1765614440,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84556,
+        "num": 84556,
+        "word": "研究证实绝育能延长寿命",
+        "onboard_time": 1765617561,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80739,
+        "num": 80739,
+        "word": "没点文化还真看不了这剧",
+        "onboard_time": 1765618703,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的这番话掷地有声#"
+    }
+  }
+}
