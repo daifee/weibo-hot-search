@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765630323048,
+  "endTime": 1765631147103,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -11,20 +11,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 8933548,
+      "num": 8933548,
+      "word": "孙颖莎受伤退赛",
+      "onboard_time": 1765629325,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6156148,
       "num": 6156148,
       "word": "六级",
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 5903773,
-      "num": 5903773,
-      "word": "孙颖莎受伤退赛",
-      "onboard_time": 1765629325,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3913198,
@@ -307,6 +307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550517,
+      "num": 485560,
+      "word": "孙颖莎无奈笑了笑",
+      "onboard_time": 1765629562,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 514666,
+      "num": 454529,
+      "word": "张真源因离开跑男哭了",
+      "onboard_time": 1765629924,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513429,
       "num": 362074,
       "word": "未领证女方流产后分手判返40%彩礼",
@@ -355,14 +371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 476943,
-      "num": 476943,
-      "word": "孙颖莎无奈笑了笑",
-      "onboard_time": 1765629562,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473084,
       "num": 473084,
       "word": "肖指导生气了",
@@ -393,6 +401,14 @@
       "onboard_time": 1765599321,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 454085,
+      "num": 454085,
+      "word": "王楚钦说孙颖莎哪有时间接受采访",
+      "onboard_time": 1765629325,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 451898,
@@ -459,6 +475,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 423555,
+      "num": 160404,
+      "word": "孙颖莎治疗露出痛苦面具",
+      "onboard_time": 1765630885,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 405726,
+      "num": 405726,
+      "word": "宫女干到25岁就可以出宫了",
+      "onboard_time": 1765626264,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399069,
       "num": 300721,
       "word": "你是说王俊凯穿了四层才这样吗",
@@ -505,14 +537,6 @@
       "onboard_time": 1765589422,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 389060,
-      "num": 389060,
-      "word": "宫女干到25岁就可以出宫了",
-      "onboard_time": 1765626264,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 387844,
@@ -689,14 +713,6 @@
       "onboard_time": 1765542622,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302008,
-      "num": 194755,
-      "word": "王楚钦说孙颖莎哪有时间接受采访",
-      "onboard_time": 1765629325,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 301400,
@@ -931,12 +947,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 236407,
-      "num": 236407,
-      "word": "张真源因离开跑男哭了",
-      "onboard_time": 1765629924,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 235157,
+      "num": 531884,
+      "word": "T1让二追三DK",
+      "onboard_time": 1765629623,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 218820,
@@ -961,6 +977,14 @@
       "onboard_time": 1765590380,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207197,
+      "num": 207197,
+      "word": "WTT",
+      "onboard_time": 1765630762,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 207133,
@@ -995,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199436,
-      "num": 531884,
-      "word": "T1让二追三DK",
-      "onboard_time": 1765629623,
-      "rank": 7,
-      "category": "电竞"
+      "raw_hot": 200371,
+      "num": 200371,
+      "word": "你好星期六",
+      "onboard_time": 1765630164,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199347,
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 196840,
-      "num": 426217,
+      "num": 469482,
       "word": "长安二十四计",
       "onboard_time": 1765539862,
       "rank": 31,
@@ -1107,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190863,
+      "num": 190863,
+      "word": "混双",
+      "onboard_time": 1765630885,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189414,
       "num": 189414,
       "word": "王楚钦孙颖莎零封日本队",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1765621401,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 178772,
-      "num": 178772,
-      "word": "你好星期六",
-      "onboard_time": 1765630164,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 178485,
@@ -1307,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160798,
+      "num": 158611,
+      "word": "陈妍希周柯宇 花少",
+      "onboard_time": 1765624461,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160373,
       "num": 160373,
       "word": "这胸肌你说是王劲松的",
@@ -1323,12 +1355,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158002,
+      "num": 235553,
+      "word": "水银体温计线上99元一支",
+      "onboard_time": 1765629083,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157951,
       "num": 157951,
       "word": "星火英语",
       "onboard_time": 1765602621,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156519,
+      "num": 156519,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1765630945,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 156469,
@@ -1339,20 +1387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156332,
-      "num": 156332,
-      "word": "陈妍希周柯宇 花少",
-      "onboard_time": 1765624461,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155982,
       "num": 155982,
       "word": "辛龙在妻子刘真去世五年后复出",
       "onboard_time": 1765603822,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155792,
+      "num": 155792,
+      "word": "双子座流星雨",
+      "onboard_time": 1765630164,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155469,
@@ -1363,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "孙颖莎退赛蒯曼晋级决赛",
+      "onboard_time": 1765631004,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152908,
       "num": 152908,
       "word": "高度近视最极端的后果是失明",
@@ -1371,12 +1427,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 152574,
-      "num": 152574,
-      "word": "双子座流星雨",
-      "onboard_time": 1765630164,
+      "raw_hot": 152274,
+      "num": 152274,
+      "word": "特朗普说中国团结一心干大事",
+      "onboard_time": 1765630462,
       "rank": 37,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 147811,
@@ -1579,6 +1635,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131579,
+      "num": 131579,
+      "word": "瑞思拜",
+      "onboard_time": 1765628963,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 131187,
+      "num": 131187,
+      "word": "虞书欣演的姜暮是黑芝麻馅汤圆",
+      "onboard_time": 1765631004,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129779,
       "num": 129779,
       "word": "陈妍希 翻红",
@@ -1641,14 +1713,6 @@
       "onboard_time": 1765620142,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 123666,
-      "num": 235553,
-      "word": "水银体温计线上99元一支",
-      "onboard_time": 1765629083,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122190,
@@ -2531,6 +2595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69262,
+      "num": 150506,
+      "word": "房东称租客发帖造成超500万损失",
+      "onboard_time": 1765630462,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68563,
+      "num": 230226,
+      "word": "731部队用3岁孩子做细菌实验",
+      "onboard_time": 1765630282,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68512,
       "num": 68512,
       "word": "宇树发布人形机器人AppStore",
@@ -2635,14 +2715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62326,
-      "num": 140437,
-      "word": "731部队用3岁孩子做细菌实验",
-      "onboard_time": 1765630282,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62070,
       "num": 62070,
       "word": "陈泽",
@@ -2707,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57781,
+      "num": 740812,
+      "word": "网警起底专坑新主播的推流骗局",
+      "onboard_time": 1765623322,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56349,
       "num": 79902,
       "word": "南京大屠杀死难者国家公祭仪式",
@@ -2721,14 +2801,6 @@
       "onboard_time": 1765599561,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53749,
-      "num": 740812,
-      "word": "网警起底专坑新主播的推流骗局",
-      "onboard_time": 1765623322,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53603,
@@ -2777,6 +2849,14 @@
       "onboard_time": 1765561635,
       "rank": 22,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 48930,
+      "num": 151116,
+      "word": "柬埔寨重机枪手向泰国战机猛烈扫射",
+      "onboard_time": 1765630343,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48058,

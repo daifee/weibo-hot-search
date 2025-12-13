@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765630323048,
+  "endTime": 1765631147103,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1659,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8933548,
+      "num": 8933548,
+      "word": "孙颖莎受伤退赛",
+      "onboard_time": 1765629325,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8920967,
       "num": 8920967,
       "word": "石凯 订过婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1762332922,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6585357,
-      "num": 6585357,
-      "word": "林高远父亲去世",
-      "onboard_time": 1736005415,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765630323048,
+  "endTime": 1765631147103,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 8933548,
+      "num": 8933548,
+      "word": "孙颖莎受伤退赛",
+      "onboard_time": 1765629325,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8847609,
       "num": 9637279,
       "word": "金昊被判处死刑",
@@ -49,14 +57,6 @@
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 5903773,
-      "num": 5903773,
-      "word": "孙颖莎受伤退赛",
-      "onboard_time": 1765629325,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4049212,
@@ -2027,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550517,
+      "num": 485560,
+      "word": "孙颖莎无奈笑了笑",
+      "onboard_time": 1765629562,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549259,
       "num": 1077716,
       "word": "北京下雪",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1765082902,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514666,
+      "num": 454529,
+      "word": "张真源因离开跑男哭了",
+      "onboard_time": 1765629924,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 514447,
@@ -2643,14 +2659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 476943,
-      "num": 476943,
-      "word": "孙颖莎无奈笑了笑",
-      "onboard_time": 1765629562,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 474627,
       "num": 434182,
       "word": "樊振东陈梦发文入选十大体育新闻",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1765266803,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454085,
+      "num": 454085,
+      "word": "王楚钦说孙颖莎哪有时间接受采访",
+      "onboard_time": 1765629325,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 453538,
@@ -3275,6 +3291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 423555,
+      "num": 160404,
+      "word": "孙颖莎治疗露出痛苦面具",
+      "onboard_time": 1765630885,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422813,
       "num": 234661,
       "word": "哑舍",
@@ -3408,6 +3432,14 @@
       "word": "当你谈了个山东的男朋友",
       "onboard_time": 1765328961,
       "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 405726,
+      "num": 405726,
+      "word": "宫女干到25岁就可以出宫了",
+      "onboard_time": 1765626264,
+      "rank": 14,
       "category": "幽默"
     },
     {
@@ -3641,14 +3673,6 @@
       "onboard_time": 1765589422,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 389060,
-      "num": 389060,
-      "word": "宫女干到25岁就可以出宫了",
-      "onboard_time": 1765626264,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 388314,
@@ -4905,14 +4929,6 @@
       "onboard_time": 1765267103,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302008,
-      "num": 194755,
-      "word": "王楚钦说孙颖莎哪有时间接受采访",
-      "onboard_time": 1765629325,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 301960,
@@ -6243,14 +6259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236407,
-      "num": 236407,
-      "word": "张真源因离开跑男哭了",
-      "onboard_time": 1765629924,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236144,
       "num": 236144,
       "word": "领养剩下三只 可以和惠英红做亲戚",
@@ -6281,6 +6289,14 @@
       "onboard_time": 1765155621,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235157,
+      "num": 531884,
+      "word": "T1让二追三DK",
+      "onboard_time": 1765629623,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 234099,
@@ -7003,6 +7019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207197,
+      "num": 207197,
+      "word": "WTT",
+      "onboard_time": 1765118122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207133,
       "num": 108899,
       "word": "一个谈八次是在他身上闯关吗",
@@ -7156,7 +7180,7 @@
     },
     {
       "raw_hot": 204900,
-      "num": 426217,
+      "num": 469482,
       "word": "长安二十四计",
       "onboard_time": 1765407856,
       "rank": 38,
@@ -7419,6 +7443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200371,
+      "num": 200371,
+      "word": "你好星期六",
+      "onboard_time": 1765630164,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "让体脂率不断下降的习惯",
@@ -7465,14 +7497,6 @@
       "onboard_time": 1765250541,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199436,
-      "num": 531884,
-      "word": "T1让二追三DK",
-      "onboard_time": 1765629623,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 199347,
@@ -7968,6 +7992,14 @@
       "word": "王楚钦的嘴还是一如既往搞笑",
       "onboard_time": 1765374743,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190863,
+      "num": 190863,
+      "word": "混双",
+      "onboard_time": 1765630885,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -8577,14 +8609,6 @@
       "onboard_time": 1765621401,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 178772,
-      "num": 178772,
-      "word": "你好星期六",
-      "onboard_time": 1765630164,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 178710,
@@ -9651,6 +9675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160798,
+      "num": 158611,
+      "word": "陈妍希周柯宇 花少",
+      "onboard_time": 1765624461,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160513,
       "num": 128707,
       "word": "小S晒母女四人全家福",
@@ -9827,6 +9859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158002,
+      "num": 235553,
+      "word": "水银体温计线上99元一支",
+      "onboard_time": 1765629083,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157951,
       "num": 157951,
       "word": "星火英语",
@@ -9907,6 +9947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156519,
+      "num": 156519,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1765630945,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156469,
       "num": 156469,
       "word": "张本美和采访松岛辉空突然走掉了",
@@ -9929,14 +9977,6 @@
       "onboard_time": 1765062736,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156332,
-      "num": 156332,
-      "word": "陈妍希周柯宇 花少",
-      "onboard_time": 1765624461,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 156163,
@@ -9977,6 +10017,14 @@
       "onboard_time": 1765341743,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155792,
+      "num": 155792,
+      "word": "双子座流星雨",
+      "onboard_time": 1765630164,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155469,
@@ -10171,6 +10219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "孙颖莎退赛蒯曼晋级决赛",
+      "onboard_time": 1765631004,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153334,
       "num": 121200,
       "word": "高市早苗面无表情道歉",
@@ -10275,20 +10331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152574,
-      "num": 152574,
-      "word": "双子座流星雨",
-      "onboard_time": 1765630164,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152508,
       "num": 127584,
       "word": "刘晓庆 头回拿这么小的奖怪新鲜的",
       "onboard_time": 1765097240,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152274,
+      "num": 152274,
+      "word": "特朗普说中国团结一心干大事",
+      "onboard_time": 1765630462,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152177,
@@ -12355,6 +12411,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 131579,
+      "num": 131579,
+      "word": "瑞思拜",
+      "onboard_time": 1765628963,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131406,
       "num": 131406,
       "word": "拉瑞安新作",
@@ -12376,6 +12440,14 @@
       "word": "让吴谨言演女飞贼的是天才",
       "onboard_time": 1765429821,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131187,
+      "num": 131187,
+      "word": "虞书欣演的姜暮是黑芝麻馅汤圆",
+      "onboard_time": 1765631004,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -13281,14 +13353,6 @@
       "onboard_time": 1765551984,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123666,
-      "num": 235553,
-      "word": "水银体温计线上99元一支",
-      "onboard_time": 1765629083,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123525,
@@ -16675,14 +16739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100969,
-      "num": 195964,
-      "word": "WTT",
-      "onboard_time": 1765118122,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100940,
       "num": 100940,
       "word": "男子毒死9条宠物狗",
@@ -19675,6 +19731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69262,
+      "num": 150506,
+      "word": "房东称租客发帖造成超500万损失",
+      "onboard_time": 1765630462,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69190,
       "num": 75276,
       "word": "丈夫把2套房过户前妻",
@@ -19705,6 +19769,14 @@
       "onboard_time": 1765159278,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68563,
+      "num": 230226,
+      "word": "731部队用3岁孩子做细菌实验",
+      "onboard_time": 1765630282,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68512,
@@ -20139,14 +20211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62326,
-      "num": 140437,
-      "word": "731部队用3岁孩子做细菌实验",
-      "onboard_time": 1765630282,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61994,
       "num": 73433,
       "word": "向太说港星脾气最大是梅艳芳",
@@ -20417,6 +20481,14 @@
       "onboard_time": 1765496178,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57781,
+      "num": 740812,
+      "word": "网警起底专坑新主播的推流骗局",
+      "onboard_time": 1765623322,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57479,
@@ -20777,14 +20849,6 @@
       "onboard_time": 1765126338,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53749,
-      "num": 740812,
-      "word": "网警起底专坑新主播的推流骗局",
-      "onboard_time": 1765623322,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53603,
@@ -21233,6 +21297,14 @@
       "onboard_time": 1765043177,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48930,
+      "num": 151116,
+      "word": "柬埔寨重机枪手向泰国战机猛烈扫射",
+      "onboard_time": 1765630343,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48868,

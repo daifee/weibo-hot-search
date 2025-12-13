@@ -1,0 +1,410 @@
+{
+  "runTime": 1765631147103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8933548,
+        "num": 8933548,
+        "word": "孙颖莎受伤退赛",
+        "onboard_time": 1765629325,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010559,
+        "num": 1010559,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1765626981,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57781,
+        "num": 622777,
+        "word": "网警起底专坑新主播的推流骗局",
+        "onboard_time": 1765623322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572885,
+        "num": 572885,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490573,
+        "num": 490573,
+        "word": "被骗936万女子抑郁暴瘦自杀身亡",
+        "onboard_time": 1765624521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550517,
+        "num": 485560,
+        "word": "孙颖莎无奈笑了笑",
+        "onboard_time": 1765629562,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235157,
+        "num": 483134,
+        "word": "T1让二追三DK",
+        "onboard_time": 1765629623,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209027,
+        "num": 476865,
+        "word": "梅西印度行",
+        "onboard_time": 1765619963,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197901,
+        "num": 470001,
+        "word": "与儿子换血富豪每年抗衰花200万美元",
+        "onboard_time": 1765616841,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171316,
+        "num": 469482,
+        "word": "长安二十四计",
+        "onboard_time": 1765623860,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2561752,
+        "num": 460904,
+        "word": "孙颖莎医疗暂停",
+        "onboard_time": 1765628361,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514666,
+        "num": 454529,
+        "word": "张真源因离开跑男哭了",
+        "onboard_time": 1765629924,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454085,
+        "num": 454085,
+        "word": "王楚钦说孙颖莎哪有时间接受采访",
+        "onboard_time": 1765629325,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405726,
+        "num": 405726,
+        "word": "宫女干到25岁就可以出宫了",
+        "onboard_time": 1765626264,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385025,
+        "num": 385025,
+        "word": "六级答案",
+        "onboard_time": 1765618883,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 379801,
+        "num": 379801,
+        "word": "每天练背10分钟是回报率最高的运动",
+        "onboard_time": 1765627281,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 334700,
+        "num": 334700,
+        "word": "张凯毅称4斤黄金凤冠被毁未索赔",
+        "onboard_time": 1765622541,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266422,
+        "num": 266422,
+        "word": "虞书欣这一脚直接把我踹成梦女",
+        "onboard_time": 1765624761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68563,
+        "num": 230226,
+        "word": "731部队用3岁孩子做细菌实验",
+        "onboard_time": 1765630282,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207197,
+        "num": 207197,
+        "word": "WTT",
+        "onboard_time": 1765630762,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206037,
+        "num": 206037,
+        "word": "孙颖莎2场比赛间隔不到2小时",
+        "onboard_time": 1765623921,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357948,
+        "num": 204235,
+        "word": "曝王耀庆蔡国庆闹掰",
+        "onboard_time": 1765620320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349868,
+        "num": 203380,
+        "word": "月经期间不建议做的10件事",
+        "onboard_time": 1765624821,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330674,
+        "num": 202394,
+        "word": "小郑 一天",
+        "onboard_time": 1765628422,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200371,
+        "num": 200371,
+        "word": "你好星期六",
+        "onboard_time": 1765630164,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190863,
+        "num": 190863,
+        "word": "混双",
+        "onboard_time": 1765630885,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "于正回应不让周柯宇去星光大赏",
+        "onboard_time": 1765623441,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181451,
+        "num": 181451,
+        "word": "狙击蝴蝶 还我睡眠",
+        "onboard_time": 1765624521,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174379,
+        "num": 174379,
+        "word": "曝知名导演疑似与年轻女子同居",
+        "onboard_time": 1765615340,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141339,
+        "num": 161907,
+        "word": "爷爷没认出长大的盼盼",
+        "onboard_time": 1765623023,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423555,
+        "num": 160404,
+        "word": "孙颖莎治疗露出痛苦面具",
+        "onboard_time": 1765630885,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158677,
+        "num": 158677,
+        "word": "酒店天价考研房7796元",
+        "onboard_time": 1765627882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 158611,
+        "word": "陈妍希周柯宇 花少",
+        "onboard_time": 1765624461,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158002,
+        "num": 158002,
+        "word": "水银体温计线上99元一支",
+        "onboard_time": 1765629083,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156519,
+        "num": 156519,
+        "word": "王曼昱vs陈熠",
+        "onboard_time": 1765630945,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 155792,
+        "word": "双子座流星雨",
+        "onboard_time": 1765630164,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153404,
+        "num": 153404,
+        "word": "孙颖莎退赛蒯曼晋级决赛",
+        "onboard_time": 1765631004,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152274,
+        "num": 152274,
+        "word": "特朗普说中国团结一心干大事",
+        "onboard_time": 1765630462,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48930,
+        "num": 151116,
+        "word": "柬埔寨重机枪手向泰国战机猛烈扫射",
+        "onboard_time": 1765630343,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69262,
+        "num": 150506,
+        "word": "房东称租客发帖造成超500万损失",
+        "onboard_time": 1765630462,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144312,
+        "num": 150396,
+        "word": "王楚然高度近视不做手术的原因",
+        "onboard_time": 1765602442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150383,
+        "num": 150383,
+        "word": "肖指导生气了",
+        "onboard_time": 1765616240,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147819,
+        "num": 147819,
+        "word": "六级听力",
+        "onboard_time": 1765619063,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139778,
+        "num": 139778,
+        "word": "曝papi维嘉团队争番",
+        "onboard_time": 1765615160,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 137561,
+        "word": "爱你六级明年见",
+        "onboard_time": 1765618883,
+        "rank": 44,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 134393,
+        "num": 134393,
+        "word": "为什么不用陈妍希原声",
+        "onboard_time": 1765628782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132355,
+        "num": 132355,
+        "word": "张本智和赢了再次致敬樊振东",
+        "onboard_time": 1765616300,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 131579,
+        "word": "瑞思拜",
+        "onboard_time": 1765628963,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131187,
+        "num": 131187,
+        "word": "虞书欣演的姜暮是黑芝麻馅汤圆",
+        "onboard_time": 1765631004,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124316,
+        "num": 124316,
+        "word": "个人账户将全面实现跨省共济",
+        "onboard_time": 1765629023,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的这番话掷地有声#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/13 20:52:03
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/13 21:05:47
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%97%E4%BC%A4%E9%80%80%E8%B5%9B%23" target="weibo">
+孙颖莎受伤退赛（热度：8933548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%20%E8%AE%A2%E8%BF%87%E5%A9%9A%23" target="weibo">
 石凯 订过婚（热度：8920967）
 </a>
@@ -1805,12 +1811,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D%23" target="weibo">
 王传君东京电影节影帝（热度：6617734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
-林高远父亲去世（热度：6585357）
 </a>
 </li>
 
