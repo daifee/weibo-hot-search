@@ -1,0 +1,410 @@
+{
+  "runTime": 1765614824617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 641104,
+        "num": 1102576,
+        "word": "明年力争实现全国生娃基本不花钱",
+        "onboard_time": 1765610419,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312430,
+        "num": 312430,
+        "word": "重庆10人聚餐9人开溜事件进展",
+        "onboard_time": 1765599382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40067,
+        "num": 309907,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1765599981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171042,
+        "num": 306592,
+        "word": "印度网友被中国小学生午餐震惊",
+        "onboard_time": 1765607901,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125976,
+        "num": 300770,
+        "word": "孙颖莎王楚钦进混双决赛",
+        "onboard_time": 1765608801,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803201,
+        "num": 290648,
+        "word": "女子被丈夫碾压致死女儿刚百天",
+        "onboard_time": 1765608922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428617,
+        "num": 288689,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284353,
+        "num": 284353,
+        "word": "孙颖莎说确实也配合了8年了",
+        "onboard_time": 1765610780,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170732,
+        "num": 283573,
+        "word": "妈妈沟通病情发现孩子正库里库里",
+        "onboard_time": 1765605021,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95430,
+        "num": 282848,
+        "word": "王楚钦回应3比0松岛辉空张本美和",
+        "onboard_time": 1765611319,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549570,
+        "num": 280629,
+        "word": "王楚然高度近视不做手术的原因",
+        "onboard_time": 1765602442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416330,
+        "num": 278812,
+        "word": "猫一杯转世账号被关闭",
+        "onboard_time": 1765597942,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 95084,
+        "num": 278246,
+        "word": "六级",
+        "onboard_time": 1765597462,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366668,
+        "num": 276903,
+        "word": "内娱三大名场面",
+        "onboard_time": 1765607241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275931,
+        "num": 275931,
+        "word": "北京卫视直播八小时媚眼抛给瞎子看",
+        "onboard_time": 1765611020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232114,
+        "num": 232114,
+        "word": "沈腾 肥瘦自由",
+        "onboard_time": 1765603642,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226870,
+        "num": 226870,
+        "word": "41岁女生未婚未育的真实生活",
+        "onboard_time": 1765599742,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200689,
+        "num": 200689,
+        "word": "长崎美柚采访承认故意发球违例",
+        "onboard_time": 1765611381,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164329,
+        "num": 164329,
+        "word": "这还是当年演小燕子的李晟吗",
+        "onboard_time": 1765614021,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17086,
+        "num": 160399,
+        "word": "南京大屠杀遇难同胞九成为男性",
+        "onboard_time": 1765614440,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207592,
+        "num": 160395,
+        "word": "咖啡加奶对抗炎症效果翻倍",
+        "onboard_time": 1765606340,
+        "rank": 20,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 190060,
+        "num": 160385,
+        "word": "月经是女性健康的显示器",
+        "onboard_time": 1765611980,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160373,
+        "num": 160373,
+        "word": "这胸肌你说是王劲松的",
+        "onboard_time": 1765611741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147747,
+        "num": 147747,
+        "word": "宁静在香港拍戏都住向太家",
+        "onboard_time": 1765603642,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143933,
+        "num": 143933,
+        "word": "现在就出发",
+        "onboard_time": 1765612881,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133303,
+        "num": 133303,
+        "word": "建议大家住五星级酒店带行李箱",
+        "onboard_time": 1765602080,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131268,
+        "num": 131268,
+        "word": "你是说王俊凯穿了四层才这样吗",
+        "onboard_time": 1765599622,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126837,
+        "num": 126837,
+        "word": "不上镜的人有多不上镜",
+        "onboard_time": 1765605141,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117211,
+        "num": 117211,
+        "word": "王艳儿子颜值",
+        "onboard_time": 1765595420,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86422,
+        "num": 110295,
+        "word": "2025票房前5",
+        "onboard_time": 1765613420,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288750,
+        "num": 110047,
+        "word": "电脑突然打开了428个文档",
+        "onboard_time": 1765614262,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109788,
+        "num": 109788,
+        "word": "四级答案",
+        "onboard_time": 1765597101,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94885,
+        "num": 94885,
+        "word": "猫眼圣诞树美甲",
+        "onboard_time": 1765610780,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91250,
+        "num": 91250,
+        "word": "白银暴涨有人2月狂赚16万",
+        "onboard_time": 1765603161,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89230,
+        "num": 89230,
+        "word": "成都地震",
+        "onboard_time": 1765580956,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88817,
+        "num": 88817,
+        "word": "偶遇谢霆锋张柏芝大儿子",
+        "onboard_time": 1765587860,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11684,
+        "num": 84911,
+        "word": "成都女子家门口被害案将再开庭",
+        "onboard_time": 1765614440,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74304,
+        "num": 83833,
+        "word": "张若昀 谁说演员不能看镜头",
+        "onboard_time": 1765613839,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43302,
+        "num": 83767,
+        "word": "梅婷一家游马德里",
+        "onboard_time": 1765613839,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83735,
+        "num": 83735,
+        "word": "王楚然后悔自己侧着玩手机",
+        "onboard_time": 1765613959,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77980,
+        "num": 81641,
+        "word": "警方回应男子与已婚前女友生女无法落户",
+        "onboard_time": 1765614561,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81097,
+        "num": 81097,
+        "word": "林诗栋蒯曼1比3林仲勋申裕斌",
+        "onboard_time": 1765607901,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80725,
+        "num": 80725,
+        "word": "辛龙在妻子刘真去世五年后复出",
+        "onboard_time": 1765603822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79443,
+        "num": 79443,
+        "word": "美国毒品问题有多严重",
+        "onboard_time": 1765610240,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78232,
+        "num": 78232,
+        "word": "papi坦言20多岁时没工作全靠老公养",
+        "onboard_time": 1765602442,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69853,
+        "num": 69853,
+        "word": "东部战区发布重磅主题海报",
+        "onboard_time": 1765594399,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68512,
+        "num": 68512,
+        "word": "宇树发布人形机器人AppStore",
+        "onboard_time": 1765612641,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67757,
+        "num": 67757,
+        "word": "难怪婴儿出生的时候会使劲哭",
+        "onboard_time": 1765608861,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66340,
+        "num": 66340,
+        "word": "王楚钦孙颖莎零封日本队",
+        "onboard_time": 1765609821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67275,
+        "num": 66139,
+        "word": "钟南山称流感患者三种情况立刻就医",
+        "onboard_time": 1765610601,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
