@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765615613941,
+  "endTime": 1765618072023,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -17,6 +17,14 @@
       "onboard_time": 1765590980,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1199807,
+      "num": 269554,
+      "word": "曝papi维嘉团队争番",
+      "onboard_time": 1765615160,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1153637,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627984,
+      "num": 383001,
+      "word": "9分12秒的水煮蛋太权威了",
+      "onboard_time": 1765615520,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 605153,
       "num": 833560,
       "word": "东北雨姐转世账号被关闭",
@@ -161,6 +177,14 @@
       "onboard_time": 1765599382,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 573359,
+      "num": 218130,
+      "word": "曝知名导演疑似与年轻女子同居",
+      "onboard_time": 1765615340,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 562829,
@@ -227,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 473084,
+      "num": 473084,
+      "word": "肖指导生气了",
+      "onboard_time": 1765616240,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469546,
       "num": 359631,
       "word": "妈妈沟通病情发现孩子正库里库里",
@@ -259,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444407,
-      "num": 181345,
-      "word": "曝papi维嘉团队争番",
-      "onboard_time": 1765615160,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 447939,
+      "num": 268110,
+      "word": "张本智和赢了再次致敬樊振东",
+      "onboard_time": 1765616300,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 439134,
@@ -363,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342028,
+      "num": 342028,
+      "word": "这还是当年演小燕子的李晟吗",
+      "onboard_time": 1765614021,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338456,
       "num": 165755,
       "word": "双轨",
@@ -401,6 +441,14 @@
       "onboard_time": 1765598662,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327258,
+      "num": 327258,
+      "word": "东北雨姐被曝数次尝试复出",
+      "onboard_time": 1765616601,
+      "rank": 5,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 327229,
@@ -507,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267315,
+      "num": 267315,
+      "word": "张若昀 谁说演员不能看镜头",
+      "onboard_time": 1765613839,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262913,
       "num": 262913,
       "word": "手机壳爱马仕狂卖36亿",
@@ -537,14 +593,6 @@
       "onboard_time": 1765591102,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251095,
-      "num": 174525,
-      "word": "曝知名导演疑似与年轻女子同居",
-      "onboard_time": 1765615340,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 250909,
@@ -635,12 +683,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232516,
+      "num": 271606,
+      "word": "日本住持捐出5千份日军侵华史料",
+      "onboard_time": 1765615402,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 224616,
       "num": 224616,
       "word": "狙击蝴蝶",
       "onboard_time": 1765535602,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223236,
+      "num": 223236,
+      "word": "北京积水潭医院已收治170例摔伤患者",
+      "onboard_time": 1765616841,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218820,
@@ -651,20 +715,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217608,
+      "num": 217608,
+      "word": "云合",
+      "onboard_time": 1765615340,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217504,
       "num": 249762,
       "word": "四六级",
       "onboard_time": 1765590380,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 216416,
-      "num": 177520,
-      "word": "这还是当年演小燕子的李晟吗",
-      "onboard_time": 1765614021,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 207133,
@@ -700,7 +764,7 @@
     },
     {
       "raw_hot": 195307,
-      "num": 173786,
+      "num": 180129,
       "word": "月经是女性健康的显示器",
       "onboard_time": 1765611980,
       "rank": 21,
@@ -761,6 +825,14 @@
       "onboard_time": 1765610780,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185360,
+      "num": 185360,
+      "word": "男子将鸡骨埋邻居家地基被抓现行",
+      "onboard_time": 1765615520,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182476,
@@ -859,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162874,
-      "num": 162874,
-      "word": "云合",
-      "onboard_time": 1765615340,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162309,
       "num": 162309,
       "word": "王楚钦说被打1比11很正常",
@@ -907,14 +971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157702,
-      "num": 157702,
-      "word": "张若昀 谁说演员不能看镜头",
-      "onboard_time": 1765613839,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155982,
       "num": 155982,
       "word": "辛龙在妻子刘真去世五年后复出",
@@ -929,6 +985,14 @@
       "onboard_time": 1765598723,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153088,
+      "num": 153088,
+      "word": "陈妍希原生家庭",
+      "onboard_time": 1765616240,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147811,
@@ -969,6 +1033,14 @@
       "onboard_time": 1765571834,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142742,
+      "num": 142742,
+      "word": "虞书欣云初令真大女主来了",
+      "onboard_time": 1765615039,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141127,
@@ -1027,20 +1099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132549,
+      "num": 132549,
+      "word": "心梗发病前1个月身体就有迹象",
+      "onboard_time": 1765616660,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132394,
       "num": 82411,
       "word": "中国佛协回应放生大米行为",
       "onboard_time": 1765576214,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 132196,
-      "word": "9分12秒的水煮蛋太权威了",
-      "onboard_time": 1765615520,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 131703,
@@ -1097,14 +1169,6 @@
       "onboard_time": 1765610601,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124770,
-      "num": 124770,
-      "word": "日本住持捐出5千份日军侵华史料",
-      "onboard_time": 1765615402,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121835,
@@ -1203,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116248,
-      "num": 116248,
-      "word": "男子将鸡骨埋邻居家地基被抓现行",
-      "onboard_time": 1765615520,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114758,
       "num": 114758,
       "word": "金铲铲之战道歉",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1765604420,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114006,
+      "num": 175387,
+      "word": "南京大屠杀遇难同胞九成为男性",
+      "onboard_time": 1765614440,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112537,
@@ -1299,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108884,
+      "num": 108884,
+      "word": "王俊凯 今天是红外线最多的一次",
+      "onboard_time": 1765615402,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108831,
       "num": 108831,
       "word": "凡人修仙传",
@@ -1313,6 +1385,22 @@
       "onboard_time": 1765609881,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106819,
+      "num": 269822,
+      "word": "南京大屠杀唯一存世动态影像",
+      "onboard_time": 1765617321,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106743,
+      "num": 106743,
+      "word": "与儿子换血富豪每年抗衰花200万美元",
+      "onboard_time": 1765616841,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105902,
@@ -1363,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101718,
+      "num": 101718,
+      "word": "王楚然后悔自己侧着玩手机",
+      "onboard_time": 1765613959,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100362,
       "num": 100362,
       "word": "火锅丸子浮起来别马上夹",
@@ -1377,6 +1473,14 @@
       "onboard_time": 1765538962,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98362,
+      "num": 98362,
+      "word": "10人聚餐9人开溜事件组局者隐身",
+      "onboard_time": 1765615642,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98020,
@@ -1483,6 +1587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90791,
+      "num": 90791,
+      "word": "得闲谨制",
+      "onboard_time": 1765617681,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90723,
       "num": 108898,
       "word": "霍格沃兹变义务教育了",
@@ -1539,6 +1651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88945,
+      "num": 88945,
+      "word": "研究证实绝育能延长寿命",
+      "onboard_time": 1765617561,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88727,
       "num": 88727,
       "word": "柬埔寨千年寺庙遭泰军炸毁",
@@ -1587,20 +1707,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85378,
+      "num": 85378,
+      "word": "林诗栋4比0胜向鹏",
+      "onboard_time": 1765616423,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84062,
       "num": 84062,
       "word": "王俊凯话剧趁世界还年青",
       "onboard_time": 1765610961,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83735,
-      "num": 83735,
-      "word": "王楚然后悔自己侧着玩手机",
-      "onboard_time": 1765613959,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 83145,
@@ -1705,14 +1825,6 @@
       "onboard_time": 1765589721,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77672,
-      "num": 77672,
-      "word": "王俊凯 今天是红外线最多的一次",
-      "onboard_time": 1765615402,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 77454,
@@ -1963,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61357,
+      "num": 106764,
+      "word": "美国孕妇被生母继父剖腹取胎杀害",
+      "onboard_time": 1765617801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61184,
       "num": 83767,
       "word": "梅婷一家游马德里",
@@ -1995,20 +2115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59377,
+      "num": 147070,
+      "word": "10斤车厘子批发价从1700元降至500",
+      "onboard_time": 1765616481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59083,
       "num": 164806,
       "word": "投资千万景区荒废沦为鬼城",
       "onboard_time": 1765606701,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58386,
-      "num": 175387,
-      "word": "南京大屠杀遇难同胞九成为男性",
-      "onboard_time": 1765614440,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56349,
@@ -2107,6 +2227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39252,
+      "num": 397708,
+      "word": "中央档案馆公布一批731罪行档案",
+      "onboard_time": 1765617801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39049,
+      "num": 144298,
+      "word": "这是今天的南京",
+      "onboard_time": 1765617440,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38174,
       "num": 233164,
       "word": "日军曾用毒气弹轰炸台湾少数民族",
@@ -2121,6 +2257,14 @@
       "onboard_time": 1765581556,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35896,
+      "num": 218282,
+      "word": "清华大学堆雪人太有仪式感了",
+      "onboard_time": 1765617262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35687,
@@ -2177,6 +2321,14 @@
       "onboard_time": 1765560077,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29987,
+      "num": 107782,
+      "word": "欧洲携致癌基因捐精者已有197名子女",
+      "onboard_time": 1765616841,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29749,
@@ -2267,12 +2419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17656,
-      "num": 98820,
-      "word": "虞书欣云初令真大女主来了",
-      "onboard_time": 1765615039,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 17775,
+      "num": 99765,
+      "word": "李家超致献花圈纪念南京大屠杀死难者",
+      "onboard_time": 1765618042,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16373,
@@ -2283,11 +2435,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16014,
+      "num": 270829,
+      "word": "数看医保5年成效",
+      "onboard_time": 1765617801,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15274,
       "num": 34226,
       "word": "2025国剧盛典",
       "onboard_time": 1765575074,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14589,
+      "num": 106975,
+      "word": "谢淮安12岁后六亲不认",
+      "onboard_time": 1765617440,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2321,6 +2489,14 @@
       "onboard_time": 1765555461,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12326,
+      "num": 110443,
+      "word": "中央经济工作会议这些提法意涵深刻",
+      "onboard_time": 1765617440,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10881,
@@ -2361,6 +2537,9 @@
     },
     {
       "word": "#跟着总书记走进抗战纪念地#"
+    },
+    {
+      "word": "#习近平总书记的这番话掷地有声#"
     }
   ]
 }
