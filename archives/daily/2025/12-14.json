@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765668368148,
+  "endTime": 1765669173413,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274921,
+      "num": 876643,
+      "word": "今年下雪为啥不撒融雪剂了",
+      "onboard_time": 1765633463,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 267681,
       "num": 801179,
       "word": "王励勤关心询问孙颖莎",
@@ -81,14 +89,6 @@
       "onboard_time": 1765633522,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244914,
-      "num": 768786,
-      "word": "今年下雪为啥不撒融雪剂了",
-      "onboard_time": 1765633463,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 231812,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 183882,
-      "num": 41869,
+      "num": 44508,
       "word": "王楚钦拍了拍孙颖莎肩膀",
       "onboard_time": 1765667716,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182638,
+      "num": 69249,
+      "word": "向太回应好婆婆形象没了",
+      "onboard_time": 1765667897,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 173672,
@@ -155,12 +163,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149673,
+      "num": 68595,
+      "word": "iPhone的相册你真的会用吗",
+      "onboard_time": 1765668195,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136130,
       "num": 136130,
       "word": "孙颖莎回应受伤退赛",
       "onboard_time": 1765638502,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128238,
+      "num": 128238,
+      "word": "白鹿 骗完你的骗你的",
+      "onboard_time": 1765635503,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 127538,
@@ -171,12 +195,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 122007,
-      "num": 93707,
-      "word": "白鹿 骗完你的骗你的",
-      "onboard_time": 1765635503,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 124407,
+      "num": 58330,
+      "word": "央视曝光取消自动扣费骗局",
+      "onboard_time": 1765668136,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121591,
@@ -209,14 +233,6 @@
       "onboard_time": 1765627281,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 107655,
-      "num": 64474,
-      "word": "iPhone的相册你真的会用吗",
-      "onboard_time": 1765668195,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 99177,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88477,
+      "num": 88477,
+      "word": "盲老太求带路被拒后看手机事件反转",
+      "onboard_time": 1765636043,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86131,
       "num": 86131,
       "word": "小郑 一天",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 82103,
-      "num": 41860,
+      "num": 43611,
       "word": "王楚钦开局就猛抽抽抽",
       "onboard_time": 1765667837,
       "rank": 33,
@@ -331,22 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75890,
-      "num": 51469,
-      "word": "向太回应好婆婆形象没了",
-      "onboard_time": 1765667897,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 74709,
-      "num": 43752,
-      "word": "央视曝光取消自动扣费骗局",
-      "onboard_time": 1765668136,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
@@ -371,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66547,
+      "num": 85738,
+      "word": "碾压妻子致死男子还有82天出狱",
+      "onboard_time": 1765639282,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64499,
       "num": 85912,
       "word": "超话大赏",
@@ -379,11 +395,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 64243,
-      "num": 85724,
-      "word": "盲老太求带路被拒后看手机事件反转",
-      "onboard_time": 1765636043,
-      "rank": 47,
+      "raw_hot": 63758,
+      "num": 63758,
+      "word": "草莓这些年可冤死了",
+      "onboard_time": 1765668796,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -395,20 +411,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63095,
-      "num": 85738,
-      "word": "碾压妻子致死男子还有82天出狱",
-      "onboard_time": 1765639282,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60522,
       "num": 85819,
       "word": "张真源被评和姚译添关系一般",
       "onboard_time": 1765638324,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59748,
+      "num": 60999,
+      "word": "女子连吃10多颗山楂胃里长巨大结石",
+      "onboard_time": 1765628721,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59689,
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59115,
+      "num": 44140,
+      "word": "这下知道皇帝为啥喜欢奸臣了",
+      "onboard_time": 1765668316,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57069,
       "num": 41849,
       "word": "孙颖莎退赛后匆匆备战混双",
@@ -459,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51395,
-      "num": 41865,
-      "word": "这下知道皇帝为啥喜欢奸臣了",
+      "raw_hot": 54860,
+      "num": 54860,
+      "word": "金铲铲",
       "onboard_time": 1765668316,
-      "rank": 31,
-      "category": "幽默"
+      "rank": 49,
+      "category": "游戏"
     },
     {
-      "raw_hot": 49851,
-      "num": 60999,
-      "word": "女子连吃10多颗山楂胃里长巨大结石",
-      "onboard_time": 1765628721,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 52537,
+      "num": 42704,
+      "word": "孙颖莎王楚钦笑着退场",
+      "onboard_time": 1765668856,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 48316,
@@ -491,12 +515,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43687,
+      "num": 43687,
+      "word": "收费站捡到戴电话手表的猫咪",
+      "onboard_time": 1765655053,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 43247,
+      "num": 43247,
+      "word": "韩国街头偶遇高圆圆",
+      "onboard_time": 1765668077,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43065,
+      "num": 43065,
+      "word": "大学生创业摆摊被同行掀翻摊位",
+      "onboard_time": 1765668796,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41809,
       "num": 60999,
       "word": "陈妍希周柯宇 花少",
       "onboard_time": 1765624461,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40709,
+      "num": 41818,
+      "word": "花少是群像不是恋爱节目",
+      "onboard_time": 1765668195,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40448,
+      "num": 40448,
+      "word": "蒯曼击败孙颖莎 晋级香港女单决赛",
+      "onboard_time": 1765668796,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 39376,
@@ -515,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36818,
-      "num": 41860,
-      "word": "收费站捡到戴电话手表的猫咪",
-      "onboard_time": 1765655053,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 35254,
+      "num": 39488,
+      "word": "孙悦早就懂祝你平安的恶毒之处",
+      "onboard_time": 1765668618,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 34328,
@@ -563,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29749,
+      "num": 39053,
+      "word": "阿森纳vs狼队",
+      "onboard_time": 1765668618,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28506,
       "num": 47693,
       "word": "双子座流星雨",
@@ -571,20 +643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28306,
+      "num": 41804,
+      "word": "雷军的营销风格能不能被模仿",
+      "onboard_time": 1765666095,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26274,
       "num": 41824,
       "word": "2025国产剧人气TOP50",
       "onboard_time": 1765655594,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25483,
-      "num": 41818,
-      "word": "花少是群像不是恋爱节目",
-      "onboard_time": 1765668195,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 24052,
@@ -603,20 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22997,
-      "num": 41804,
-      "word": "雷军的营销风格能不能被模仿",
-      "onboard_time": 1765666095,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 22860,
-      "num": 41801,
-      "word": "金铲铲",
-      "onboard_time": 1765668316,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 20217,
+      "num": 138518,
+      "word": "海南自贸港封关将带来更多机遇",
+      "onboard_time": 1765636403,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18838,
@@ -625,14 +689,6 @@
       "onboard_time": 1765646717,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18678,
-      "num": 93688,
-      "word": "海南自贸港封关将带来更多机遇",
-      "onboard_time": 1765636403,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18340,
