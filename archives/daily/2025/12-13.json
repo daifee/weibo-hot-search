@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765625812536,
+  "endTime": 1765630323048,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -19,6 +19,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 5903773,
+      "num": 5903773,
+      "word": "孙颖莎受伤退赛",
+      "onboard_time": 1765629325,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3913198,
+      "num": 503048,
+      "word": "孙颖莎医疗暂停",
+      "onboard_time": 1765628361,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2309103,
       "num": 2309103,
       "word": "四级作文",
@@ -28,11 +44,19 @@
     },
     {
       "raw_hot": 1713544,
-      "num": 410002,
+      "num": 413746,
       "word": "六级答案",
       "onboard_time": 1765618883,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1591340,
+      "num": 1591340,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1765626981,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1222661,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 846619,
-      "num": 243265,
+      "num": 372328,
       "word": "张凯毅称4斤黄金凤冠被毁未索赔",
       "onboard_time": 1765622541,
       "rank": 46,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 788843,
-      "num": 228027,
+      "num": 231503,
       "word": "曝王耀庆蔡国庆闹掰",
       "onboard_time": 1765620320,
       "rank": 20,
@@ -236,11 +260,19 @@
     },
     {
       "raw_hot": 594306,
-      "num": 218501,
+      "num": 225075,
       "word": "曝知名导演疑似与年轻女子同居",
       "onboard_time": 1765615340,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579071,
+      "num": 579071,
+      "word": "被骗936万女子抑郁暴瘦自杀身亡",
+      "onboard_time": 1765624521,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575367,
@@ -316,11 +348,19 @@
     },
     {
       "raw_hot": 479109,
-      "num": 479109,
+      "num": 544125,
       "word": "与儿子换血富豪每年抗衰花200万美元",
       "onboard_time": 1765616841,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 476943,
+      "num": 476943,
+      "word": "孙颖莎无奈笑了笑",
+      "onboard_time": 1765629562,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 473084,
@@ -337,6 +377,14 @@
       "onboard_time": 1765605021,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457266,
+      "num": 457266,
+      "word": "每天练背10分钟是回报率最高的运动",
+      "onboard_time": 1765627281,
+      "rank": 11,
+      "category": "运动健身"
     },
     {
       "raw_hot": 454560,
@@ -435,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 394030,
+      "num": 228708,
+      "word": "月经期间不建议做的10件事",
+      "onboard_time": 1765624821,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 390118,
       "num": 390118,
       "word": "女子仅退款225个快递案现新受害者",
@@ -449,6 +505,14 @@
       "onboard_time": 1765589422,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 389060,
+      "num": 389060,
+      "word": "宫女干到25岁就可以出宫了",
+      "onboard_time": 1765626264,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 387844,
@@ -481,14 +545,6 @@
       "onboard_time": 1765604602,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359506,
-      "num": 192714,
-      "word": "月经期间不建议做的10件事",
-      "onboard_time": 1765624821,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 354927,
@@ -529,6 +585,14 @@
       "onboard_time": 1765542863,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342102,
+      "num": 226886,
+      "word": "小郑 一天",
+      "onboard_time": 1765628422,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 342028,
@@ -580,11 +644,19 @@
     },
     {
       "raw_hot": 328273,
-      "num": 298727,
+      "num": 477770,
       "word": "六级听力",
       "onboard_time": 1765619063,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 325974,
+      "num": 325974,
+      "word": "虞书欣这一脚直接把我踹成梦女",
+      "onboard_time": 1765624761,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 323827,
@@ -611,20 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311966,
-      "num": 242474,
-      "word": "虞书欣这一脚直接把我踹成梦女",
-      "onboard_time": 1765624761,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302106,
       "num": 166524,
       "word": "云初令官宣虞书欣",
       "onboard_time": 1765542622,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302008,
+      "num": 194755,
+      "word": "王楚钦说孙颖莎哪有时间接受采访",
+      "onboard_time": 1765629325,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 301400,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 299519,
-      "num": 299519,
+      "num": 560900,
       "word": "梅西印度行",
       "onboard_time": 1765619963,
       "rank": 26,
@@ -707,14 +779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268363,
-      "num": 241705,
-      "word": "被骗936万女子抑郁暴瘦自杀身亡",
-      "onboard_time": 1765624521,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267315,
       "num": 267315,
       "word": "张若昀 谁说演员不能看镜头",
@@ -777,6 +841,14 @@
       "onboard_time": 1765581617,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250094,
+      "num": 250094,
+      "word": "孙颖莎2场比赛间隔不到2小时",
+      "onboard_time": 1765623921,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 248050,
@@ -859,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236407,
+      "num": 236407,
+      "word": "张真源因离开跑男哭了",
+      "onboard_time": 1765629924,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "林诗栋蒯曼1比3林仲勋申裕斌",
@@ -915,6 +995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199436,
+      "num": 531884,
+      "word": "T1让二追三DK",
+      "onboard_time": 1765629623,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199347,
+      "num": 194906,
+      "word": "孙颖莎脚缠绷带",
+      "onboard_time": 1765629265,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198812,
       "num": 181040,
       "word": "王楚钦爆抽吓到张本美和",
@@ -923,8 +1019,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197546,
+      "num": 197546,
+      "word": "爷爷没认出长大的盼盼",
+      "onboard_time": 1765623023,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196840,
-      "num": 196840,
+      "num": 426217,
       "word": "长安二十四计",
       "onboard_time": 1765539862,
       "rank": 31,
@@ -963,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194208,
+      "num": 194208,
+      "word": "酒店天价考研房7796元",
+      "onboard_time": 1765627882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193537,
       "num": 164469,
       "word": "长安二十四计热度",
@@ -985,6 +1097,14 @@
       "onboard_time": 1765598781,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191687,
+      "num": 191687,
+      "word": "孙颖莎带伤坚持比赛",
+      "onboard_time": 1765629203,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 189414,
@@ -1051,20 +1171,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 178772,
+      "num": 178772,
+      "word": "你好星期六",
+      "onboard_time": 1765630164,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178485,
       "num": 163729,
       "word": "陈伟霆 它咬了你我立马下班",
       "onboard_time": 1765555161,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177971,
-      "num": 177971,
-      "word": "爷爷没认出长大的盼盼",
-      "onboard_time": 1765623023,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177699,
@@ -1129,6 +1249,14 @@
       "onboard_time": 1765527322,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170476,
+      "num": 170476,
+      "word": "蒯曼12比10孙颖莎",
+      "onboard_time": 1765628782,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 168929,
@@ -1243,6 +1371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152574,
+      "num": 152574,
+      "word": "双子座流星雨",
+      "onboard_time": 1765630164,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147811,
       "num": 145488,
       "word": "南京鸣响了防空警报",
@@ -1273,6 +1409,14 @@
       "onboard_time": 1765620440,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144535,
+      "num": 144535,
+      "word": "这不是遛狗这是放生",
+      "onboard_time": 1765629623,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 143933,
@@ -1315,20 +1459,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140384,
+      "num": 140384,
+      "word": "为什么不用陈妍希原声",
+      "onboard_time": 1765628782,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139326,
       "num": 139326,
       "word": "张凯毅黄金凤冠遭毁紧急在线求助",
       "onboard_time": 1765624222,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138819,
-      "num": 138819,
-      "word": "孙颖莎2场比赛间隔不到2小时",
-      "onboard_time": 1765623921,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 138707,
@@ -1355,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137650,
+      "num": 137650,
+      "word": "个人账户将全面实现跨省共济",
+      "onboard_time": 1765629023,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135813,
       "num": 135813,
       "word": "微博之夜",
@@ -1369,6 +1521,14 @@
       "onboard_time": 1765607241,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134459,
+      "num": 134459,
+      "word": "超话大赏",
+      "onboard_time": 1765626681,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133337,
@@ -1481,6 +1641,14 @@
       "onboard_time": 1765620142,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123666,
+      "num": 235553,
+      "word": "水银体温计线上99元一支",
+      "onboard_time": 1765629083,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122190,
@@ -1809,6 +1977,14 @@
       "onboard_time": 1765557080,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102584,
+      "num": 129916,
+      "word": "女子连吃10多颗山楂胃里长巨大结石",
+      "onboard_time": 1765628721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101860,
@@ -2459,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62326,
+      "num": 140437,
+      "word": "731部队用3岁孩子做细菌实验",
+      "onboard_time": 1765630282,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62070,
       "num": 62070,
       "word": "陈泽",
@@ -2539,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53749,
+      "num": 740812,
+      "word": "网警起底专坑新主播的推流骗局",
+      "onboard_time": 1765623322,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53603,
       "num": 100848,
       "word": "女子家门口遇害母亲称后悔叫保安",
@@ -2571,14 +2763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52528,
-      "num": 371149,
-      "word": "网警起底专坑新主播的推流骗局",
-      "onboard_time": 1765623322,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51934,
       "num": 108855,
       "word": "人类对车屁股的掌控力不如对自家猫",
@@ -2609,6 +2793,14 @@
       "onboard_time": 1765604363,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47192,
+      "num": 144917,
+      "word": "大雪天演员卖力开唱台下无人离场",
+      "onboard_time": 1765629144,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46582,
@@ -2673,6 +2865,14 @@
       "onboard_time": 1765581556,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36151,
+      "num": 194927,
+      "word": "福建一煤矿致7死1伤31人被问责",
+      "onboard_time": 1765628181,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35687,
