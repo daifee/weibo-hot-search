@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765610936231,
+  "endTime": 1765611616736,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -107,7 +107,7 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 640490,
+      "raw_hot": 652602,
       "num": 226166,
       "word": "特朗普和爱泼斯坦照片公布",
       "onboard_time": 1765606640,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 575367,
-      "num": 1073871,
+      "num": 1075756,
       "word": "重庆10人聚餐9人开溜事件进展",
       "onboard_time": 1765599382,
       "rank": 25,
@@ -235,20 +235,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 448026,
+      "num": 221968,
+      "word": "内娱三大名场面",
+      "onboard_time": 1765607241,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439134,
       "num": 244584,
       "word": "建议大家住五星级酒店带行李箱",
       "onboard_time": 1765602080,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 433317,
-      "num": 221968,
-      "word": "内娱三大名场面",
-      "onboard_time": 1765607241,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 432593,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253889,
+      "num": 253889,
+      "word": "明年力争实现全国生娃基本不花钱",
+      "onboard_time": 1765610419,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252883,
       "num": 295816,
       "word": "这是南京大屠杀的真实影像",
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246207,
+      "num": 173552,
+      "word": "咖啡加奶对抗炎症效果翻倍",
+      "onboard_time": 1765606340,
+      "rank": 22,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
@@ -579,14 +595,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 229476,
-      "num": 173552,
-      "word": "咖啡加奶对抗炎症效果翻倍",
-      "onboard_time": 1765606340,
-      "rank": 22,
-      "category": "美食,健康医疗"
-    },
-    {
       "raw_hot": 224616,
       "num": 224616,
       "word": "狙击蝴蝶",
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207133,
+      "num": 108899,
+      "word": "一个谈八次是在他身上闯关吗",
+      "onboard_time": 1765611020,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "向太说郭碧婷不用婆家钱帮娘家",
@@ -625,6 +641,14 @@
       "onboard_time": 1765548805,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198878,
+      "num": 106131,
+      "word": "孙颖莎说确实也配合了8年了",
+      "onboard_time": 1765610780,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194454,
@@ -649,14 +673,6 @@
       "onboard_time": 1765598781,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 189745,
-      "num": 106131,
-      "word": "孙颖莎说确实也配合了8年了",
-      "onboard_time": 1765610780,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 189414,
@@ -859,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "北京卫视直播八小时媚眼抛给瞎子看",
+      "onboard_time": 1765611020,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138095,
       "num": 138095,
       "word": "30厘米长老鼠爬到2岁孩子床上",
@@ -963,12 +987,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126421,
+      "num": 126421,
+      "word": "长崎美柚采访承认故意发球违例",
+      "onboard_time": 1765611381,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125927,
       "num": 125927,
       "word": "女孩成功减重70斤后朋友的反应",
       "onboard_time": 1765600461,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125397,
+      "num": 125397,
+      "word": "钟南山称流感患者三种情况立刻就医",
+      "onboard_time": 1765610601,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123110,
+      "num": 103268,
+      "word": "王楚钦回应3比0松岛辉空张本美和",
+      "onboard_time": 1765611319,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 121835,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1765590622,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120801,
+      "num": 120801,
+      "word": "胡先煦用舌头弹了一斤的棉花",
+      "onboard_time": 1765610299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119224,
@@ -1227,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97715,
+      "num": 97715,
+      "word": "猫眼圣诞树美甲",
+      "onboard_time": 1765610780,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 97247,
       "num": 130097,
       "word": "向太回应向佐哭诉娱乐圈很恐怖",
@@ -1275,28 +1339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 92107,
-      "num": 92107,
-      "word": "猫眼圣诞树美甲",
-      "onboard_time": 1765610780,
-      "rank": 38,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 91934,
       "num": 91934,
       "word": "青岛初雪杀疯了",
       "onboard_time": 1765604841,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91918,
-      "num": 91918,
-      "word": "钟南山称流感患者三种情况立刻就医",
-      "onboard_time": 1765610601,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91858,
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89739,
+      "num": 89739,
+      "word": "美国毒品问题有多严重",
+      "onboard_time": 1765610240,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89447,
       "num": 89447,
       "word": "一念江南只保留了男主角王安宇",
@@ -1387,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87036,
-      "num": 87036,
-      "word": "胡先煦用舌头弹了一斤的棉花",
-      "onboard_time": 1765610299,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86561,
       "num": 86561,
       "word": "明年房地产政策有4个新变化",
@@ -1403,12 +1451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86267,
+      "num": 86267,
+      "word": "梁伟铿竟然和劲敌搭档了",
+      "onboard_time": 1765611381,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85456,
       "num": 108936,
       "word": "疑注射3万一支失效药患儿母亲发声",
       "onboard_time": 1765543403,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 84062,
+      "num": 84062,
+      "word": "王俊凯话剧趁世界还年青",
+      "onboard_time": 1765610961,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 83145,
@@ -1467,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80611,
-      "num": 80611,
-      "word": "美国毒品问题有多严重",
-      "onboard_time": 1765610240,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79914,
       "num": 81606,
       "word": "被网友叫本名太羞耻了",
@@ -1515,12 +1571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77454,
+      "num": 77454,
+      "word": "Doinb谈陈泽杯三角洲比赛",
+      "onboard_time": 1765608141,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76828,
       "num": 76828,
       "word": "肖战 得闲想要得闲手搓得到",
       "onboard_time": 1765591580,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76639,
+      "num": 76639,
+      "word": "做了个和小狗一模一样的蛋糕",
+      "onboard_time": 1765611079,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75562,
@@ -1857,14 +1929,6 @@
       "onboard_time": 1765539501,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39358,
-      "num": 224775,
-      "word": "明年力争实现全国生娃基本不花钱",
-      "onboard_time": 1765610419,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38174,
