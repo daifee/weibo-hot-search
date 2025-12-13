@@ -1,0 +1,410 @@
+{
+  "runTime": 1765597079718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3388747,
+        "num": 3388747,
+        "word": "四级",
+        "onboard_time": 1765588221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2309103,
+        "num": 2309103,
+        "word": "四级作文",
+        "onboard_time": 1765590980,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2299,
+        "num": 870037,
+        "word": "新形势下经济工作五个必须",
+        "onboard_time": 1765482735,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783713,
+        "num": 783713,
+        "word": "成都地震",
+        "onboard_time": 1765580956,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 716161,
+        "num": 716161,
+        "word": "东部战区发布重磅主题海报",
+        "onboard_time": 1765594399,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416637,
+        "num": 416637,
+        "word": "美国对日本不耐烦已几乎写在脸上",
+        "onboard_time": 1765593261,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300838,
+        "num": 300838,
+        "word": "银价飙涨",
+        "onboard_time": 1765585400,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297257,
+        "num": 297257,
+        "word": "我才8岁被日军刺得血流满身",
+        "onboard_time": 1765589422,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181742,
+        "num": 297171,
+        "word": "华谊兄弟7年巨亏82亿",
+        "onboard_time": 1765592361,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18671,
+        "num": 296823,
+        "word": "中国驻巴基斯坦使馆提醒",
+        "onboard_time": 1765596500,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 598306,
+        "num": 296376,
+        "word": "韩国鸟叔被警方强制调查",
+        "onboard_time": 1765590080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492417,
+        "num": 296226,
+        "word": "17岁男生吃治痘药导致乳房发育变大",
+        "onboard_time": 1765593320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219102,
+        "num": 295816,
+        "word": "这是南京大屠杀的真实影像",
+        "onboard_time": 1765591102,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446521,
+        "num": 295468,
+        "word": "亲爱的客栈 棣月常驻",
+        "onboard_time": 1765592721,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439157,
+        "num": 295217,
+        "word": "朕的玉娆果真是国色",
+        "onboard_time": 1765590262,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394099,
+        "num": 294869,
+        "word": "四级翻译",
+        "onboard_time": 1765596680,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337398,
+        "num": 294680,
+        "word": "台湾是中国一个省没外交部",
+        "onboard_time": 1765594700,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299061,
+        "num": 294205,
+        "word": "四级作文 没看懂",
+        "onboard_time": 1765597042,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294044,
+        "num": 294044,
+        "word": "我下班就迪丽热巴这样",
+        "onboard_time": 1765593141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28154,
+        "num": 275019,
+        "word": "礼兵敬献花圈",
+        "onboard_time": 1765593801,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 897846,
+        "num": 272862,
+        "word": "王艳儿子颜值",
+        "onboard_time": 1765595420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267980,
+        "num": 267980,
+        "word": "毛人龙 许文婷",
+        "onboard_time": 1765588280,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217504,
+        "num": 249762,
+        "word": "四六级",
+        "onboard_time": 1765590380,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 550430,
+        "num": 247252,
+        "word": "偶遇谢霆锋张柏芝大儿子",
+        "onboard_time": 1765587860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233155,
+        "num": 233155,
+        "word": "女子用9分12秒煮完美蛋烧干锅",
+        "onboard_time": 1765589121,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230073,
+        "num": 230073,
+        "word": "穿吧 洛丽塔会长已经40多岁了",
+        "onboard_time": 1765592662,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219361,
+        "num": 219361,
+        "word": "陈妍希张婧仪 干发帽的正确用法",
+        "onboard_time": 1765595061,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181804,
+        "num": 181804,
+        "word": "东北雨姐转世账号被关闭",
+        "onboard_time": 1765549344,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 171818,
+        "num": 171818,
+        "word": "睡不建议少于6个小时",
+        "onboard_time": 1765582277,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168196,
+        "num": 168196,
+        "word": "向太说郭碧婷不用婆家钱帮娘家",
+        "onboard_time": 1765595840,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164900,
+        "num": 164900,
+        "word": "10人聚餐1人留下拒付1262元餐费",
+        "onboard_time": 1765595781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136833,
+        "num": 136833,
+        "word": "南京大屠杀",
+        "onboard_time": 1765581556,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132769,
+        "num": 132769,
+        "word": "陈伟霆因造型丑被嘲不拍古装",
+        "onboard_time": 1765592122,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129085,
+        "num": 129085,
+        "word": "哈尔滨中央大街供暖",
+        "onboard_time": 1765594461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "手机壳爱马仕狂卖36亿",
+        "onboard_time": 1765583118,
+        "rank": 34,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 116040,
+        "num": 116040,
+        "word": "双轨热度走势",
+        "onboard_time": 1765590622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115355,
+        "num": 115355,
+        "word": "国家公祭日",
+        "onboard_time": 1765581617,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115090,
+        "num": 115090,
+        "word": "陈妍希李沁都试镜过小龙女",
+        "onboard_time": 1765584919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13511,
+        "num": 109399,
+        "word": "躺医院7年半无名男子DNA未比对成功",
+        "onboard_time": 1765596500,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83145,
+        "num": 108677,
+        "word": "王鹤棣沈月跨年舞台",
+        "onboard_time": 1765596141,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108129,
+        "num": 108129,
+        "word": "不停运动3个月瘦了45斤",
+        "onboard_time": 1765584500,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104156,
+        "num": 104156,
+        "word": "微博之夜",
+        "onboard_time": 1765588400,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95958,
+        "num": 95958,
+        "word": "孙颖莎的大格局",
+        "onboard_time": 1765596022,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95266,
+        "num": 95266,
+        "word": "iOS26.2正式版来了",
+        "onboard_time": 1765590860,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94988,
+        "num": 94988,
+        "word": "睡眠超9小时可能影响寿命",
+        "onboard_time": 1765582277,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89069,
+        "num": 89069,
+        "word": "苹果再砸2.16亿美元购置两栋办公楼",
+        "onboard_time": 1765596441,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82660,
+        "num": 82660,
+        "word": "男子承诺次日付餐费至今未支付",
+        "onboard_time": 1765596200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81640,
+        "num": 81640,
+        "word": "成毅你别演了我害怕",
+        "onboard_time": 1765583658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81035,
+        "num": 81035,
+        "word": "樊振东2月有望亮相欧冠",
+        "onboard_time": 1765596980,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79865,
+        "num": 79865,
+        "word": "东北人的自来熟程度",
+        "onboard_time": 1765596141,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定调2026年经济工作#"
+    }
+  }
+}
