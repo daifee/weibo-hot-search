@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765636928163,
+  "endTime": 1765639564959,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -259,12 +259,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 652881,
+      "num": 368917,
+      "word": "曾把胸隆炸的网红在泰国坠亡",
+      "onboard_time": 1765637303,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 652602,
       "num": 226166,
       "word": "特朗普和爱泼斯坦照片公布",
       "onboard_time": 1765606640,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 642695,
+      "num": 397282,
+      "word": "王楚钦问孙颖莎脚没事吧",
+      "onboard_time": 1765637303,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 641104,
@@ -465,6 +481,14 @@
       "onboard_time": 1765605021,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469512,
+      "num": 220001,
+      "word": "于小彤控制欲好强",
+      "onboard_time": 1765636642,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 457266,
@@ -939,6 +963,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 261558,
+      "num": 261558,
+      "word": "王励勤关心询问孙颖莎",
+      "onboard_time": 1765637303,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260280,
       "num": 234719,
       "word": "刘亦菲当年的采访还是体面",
@@ -1043,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240439,
+      "num": 227770,
+      "word": "小郑嘻嘻回应",
+      "onboard_time": 1765635203,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
@@ -1083,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235409,
+      "num": 235409,
+      "word": "孙颖莎回应受伤退赛",
+      "onboard_time": 1765638502,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235157,
       "num": 531884,
       "word": "T1让二追三DK",
@@ -1105,22 +1153,6 @@
       "onboard_time": 1765636703,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227770,
-      "num": 227770,
-      "word": "小郑嘻嘻回应",
-      "onboard_time": 1765635203,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 220001,
-      "num": 220001,
-      "word": "于小彤控制欲好强",
-      "onboard_time": 1765636642,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 218820,
@@ -1147,6 +1179,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214508,
+      "num": 161741,
+      "word": "王楚钦说咬一局呗",
+      "onboard_time": 1765638324,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212819,
+      "num": 212819,
+      "word": "蔡国庆点赞和王耀庆闹掰博文",
+      "onboard_time": 1765638622,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207400,
       "num": 166086,
       "word": "孙颖莎移动受限发球也受限了",
@@ -1168,6 +1216,14 @@
       "word": "王楚钦孙颖莎0比3林仲勋申裕斌",
       "onboard_time": 1765635863,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206068,
+      "num": 146496,
+      "word": "王楚钦合影完毕走错方向",
+      "onboard_time": 1765637303,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1251,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196831,
+      "num": 142385,
+      "word": "孙颖莎回应坚持打混双决赛",
+      "onboard_time": 1765639342,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195618,
       "num": 195618,
       "word": "六级红绿灯",
       "onboard_time": 1765621461,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195421,
+      "num": 127017,
+      "word": "张怡宁为孙颖莎王楚钦颁奖",
+      "onboard_time": 1765639342,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 195307,
@@ -1699,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143407,
+      "num": 149823,
+      "word": "郭艾伦重返CBA",
+      "onboard_time": 1765637962,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143190,
       "num": 143190,
       "word": "陈妍希和儿子的相处模式",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1765628782,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140073,
+      "num": 140073,
+      "word": "张真源被评和姚译添关系一般",
+      "onboard_time": 1765638324,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 139326,
@@ -1899,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126636,
+      "num": 231913,
+      "word": "盲老太求带路被拒后看手机事件反转",
+      "onboard_time": 1765636043,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126119,
       "num": 126119,
       "word": "张本智和说必须把冠军拿下来",
@@ -2019,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120245,
+      "num": 122359,
+      "word": "长安二十四计预期违背这块",
+      "onboard_time": 1765635683,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119436,
       "num": 119436,
       "word": "王楚钦说孙颖莎晚上还有比赛",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1765602862,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114707,
+      "num": 114707,
+      "word": "周柯宇演技",
+      "onboard_time": 1765639522,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 114696,
@@ -2371,14 +2483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97851,
-      "num": 122359,
-      "word": "长安二十四计预期违背这块",
-      "onboard_time": 1765635683,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97715,
       "num": 97715,
       "word": "猫眼圣诞树美甲",
@@ -2467,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91547,
+      "num": 91547,
+      "word": "胡可大儿子又高又白",
+      "onboard_time": 1765639461,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91200,
       "num": 86173,
       "word": "日本人嘲笑小泉进次郎",
@@ -2497,6 +2609,14 @@
       "onboard_time": 1765554382,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90406,
+      "num": 89206,
+      "word": "茅台酒价大反攻",
+      "onboard_time": 1765639403,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 90042,
@@ -2567,6 +2687,14 @@
       "num": 118874,
       "word": "库里这球比AI还离谱",
       "onboard_time": 1765600282,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87218,
+      "num": 87218,
+      "word": "林仲勋申裕斌混双夺冠",
+      "onboard_time": 1765637362,
       "rank": 49,
       "category": "体育"
     },
@@ -2769,14 +2897,6 @@
       "onboard_time": 1765592240,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75242,
-      "num": 231913,
-      "word": "盲老太求带路被拒后看手机事件反转",
-      "onboard_time": 1765636043,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75114,
@@ -3211,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43957,
+      "num": 266899,
+      "word": "战犯审讯录揭731细菌战细节",
+      "onboard_time": 1765637243,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43675,
       "num": 85631,
       "word": "保剑锋",
@@ -3491,6 +3619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17363,
+      "num": 152278,
+      "word": "官方回应因地贫基因被解聘幼师事件",
+      "onboard_time": 1765639221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16816,
       "num": 312358,
       "word": "中央经济工作会议这些提法意涵深刻",
@@ -3513,6 +3649,14 @@
       "onboard_time": 1765575074,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15205,
+      "num": 116623,
+      "word": "碾压妻子致死男子还有82天出狱",
+      "onboard_time": 1765639282,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13873,
@@ -3595,7 +3739,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1062,
+      "raw_hot": 1590,
       "num": 546114,
       "word": "八项重点任务这样干",
       "onboard_time": 1765546104,
