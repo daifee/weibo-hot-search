@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765614824617,
+  "endTime": 1765615613941,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889192,
+      "num": 290648,
+      "word": "女子被丈夫碾压致死女儿刚百天",
+      "onboard_time": 1765608922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 817574,
       "num": 296376,
       "word": "韩国鸟叔被警方强制调查",
       "onboard_time": 1765590080,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803201,
-      "num": 290648,
-      "word": "女子被丈夫碾压致死女儿刚百天",
-      "onboard_time": 1765608922,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 801646,
@@ -256,6 +256,14 @@
       "word": "内娱三大名场面",
       "onboard_time": 1765607241,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444407,
+      "num": 181345,
+      "word": "曝papi维嘉团队争番",
+      "onboard_time": 1765615160,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 288750,
-      "num": 110047,
+      "num": 175839,
       "word": "电脑突然打开了428个文档",
       "onboard_time": 1765614262,
       "rank": 30,
@@ -529,6 +537,14 @@
       "onboard_time": 1765591102,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 251095,
+      "num": 174525,
+      "word": "曝知名导演疑似与年轻女子同居",
+      "onboard_time": 1765615340,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 250909,
@@ -643,6 +659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216416,
+      "num": 177520,
+      "word": "这还是当年演小燕子的李晟吗",
+      "onboard_time": 1765614021,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207133,
       "num": 108899,
       "word": "一个谈八次是在他身上闯关吗",
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195307,
+      "num": 173786,
+      "word": "月经是女性健康的显示器",
+      "onboard_time": 1765611980,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194454,
       "num": 194323,
       "word": "papi坦言20多岁时没工作全靠老公养",
@@ -697,14 +729,6 @@
       "onboard_time": 1765598781,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190060,
-      "num": 160385,
-      "word": "月经是女性健康的显示器",
-      "onboard_time": 1765611980,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 189414,
@@ -745,6 +769,14 @@
       "onboard_time": 1765607901,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182402,
+      "num": 306592,
+      "word": "印度网友被中国小学生午餐震惊",
+      "onboard_time": 1765607901,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181742,
@@ -803,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171042,
-      "num": 306592,
-      "word": "印度网友被中国小学生午餐震惊",
-      "onboard_time": 1765607901,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170819,
       "num": 170866,
       "word": "北京暴雪",
@@ -835,11 +859,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164329,
-      "num": 164329,
-      "word": "这还是当年演小燕子的李晟吗",
-      "onboard_time": 1765614021,
-      "rank": 18,
+      "raw_hot": 162874,
+      "num": 162874,
+      "word": "云合",
+      "onboard_time": 1765615340,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -848,6 +872,14 @@
       "word": "王楚钦说被打1比11很正常",
       "onboard_time": 1765543523,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161402,
+      "num": 282848,
+      "word": "王楚钦回应3比0松岛辉空张本美和",
+      "onboard_time": 1765611319,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -873,6 +905,14 @@
       "onboard_time": 1765602621,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157702,
+      "num": 157702,
+      "word": "张若昀 谁说演员不能看镜头",
+      "onboard_time": 1765613839,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 155982,
@@ -995,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132196,
+      "num": 132196,
+      "word": "9分12秒的水煮蛋太权威了",
+      "onboard_time": 1765615520,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131703,
       "num": 131703,
       "word": "难怪婴儿出生的时候会使劲哭",
@@ -1051,12 +1099,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123110,
-      "num": 282848,
-      "word": "王楚钦回应3比0松岛辉空张本美和",
-      "onboard_time": 1765611319,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 124770,
+      "num": 124770,
+      "word": "日本住持捐出5千份日军侵华史料",
+      "onboard_time": 1765615402,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121835,
@@ -1155,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116248,
+      "num": 116248,
+      "word": "男子将鸡骨埋邻居家地基被抓现行",
+      "onboard_time": 1765615520,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114758,
       "num": 114758,
       "word": "金铲铲之战道歉",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1765582277,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112474,
+      "num": 112474,
+      "word": "张本智和4比3F勒布伦",
+      "onboard_time": 1765615101,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 112084,
@@ -1435,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89984,
+      "num": 89984,
+      "word": "WTT总决赛混双决赛对阵出炉",
+      "onboard_time": 1765615462,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89739,
       "num": 89739,
       "word": "美国毒品问题有多严重",
@@ -1635,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77672,
+      "num": 77672,
+      "word": "王俊凯 今天是红外线最多的一次",
+      "onboard_time": 1765615402,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77454,
       "num": 77454,
       "word": "Doinb谈陈泽杯三角洲比赛",
@@ -1689,14 +1769,6 @@
       "onboard_time": 1765593862,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74304,
-      "num": 83833,
-      "word": "张若昀 谁说演员不能看镜头",
-      "onboard_time": 1765613839,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 74265,
@@ -1843,6 +1915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63978,
+      "num": 98781,
+      "word": "成毅长安二十四计播放量破5000万",
+      "onboard_time": 1765615039,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63594,
       "num": 165204,
       "word": "88岁爷爷机场认出孙女后大哭",
@@ -1883,6 +1963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61184,
+      "num": 83767,
+      "word": "梅婷一家游马德里",
+      "onboard_time": 1765613839,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60827,
       "num": 60827,
       "word": "青岛下雪",
@@ -1913,6 +2001,14 @@
       "onboard_time": 1765606701,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58386,
+      "num": 175387,
+      "word": "南京大屠杀遇难同胞九成为男性",
+      "onboard_time": 1765614440,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56349,
@@ -2008,14 +2104,6 @@
       "word": "保剑锋",
       "onboard_time": 1765539501,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 43302,
-      "num": 83767,
-      "word": "梅婷一家游马德里",
-      "onboard_time": 1765613839,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2155,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19039,
+      "num": 99220,
+      "word": "成都女子家门口被害案将再开庭",
+      "onboard_time": 1765614440,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18671,
       "num": 296823,
       "word": "中国驻巴基斯坦使馆提醒",
@@ -2171,12 +2267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17086,
-      "num": 160399,
-      "word": "南京大屠杀遇难同胞九成为男性",
-      "onboard_time": 1765614440,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 17656,
+      "num": 98820,
+      "word": "虞书欣云初令真大女主来了",
+      "onboard_time": 1765615039,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 16373,
@@ -2225,14 +2321,6 @@
       "onboard_time": 1765555461,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 11684,
-      "num": 84911,
-      "word": "成都女子家门口被害案将再开庭",
-      "onboard_time": 1765614440,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10881,
