@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765604689219,
+  "endTime": 1765607970524,
   "band_list": [
     {
       "raw_hot": 9194123,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1153637,
-      "num": 205846,
+      "num": 246454,
       "word": "王楚然高度近视不做手术的原因",
       "onboard_time": 1765602442,
       "rank": 10,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 555766,
-      "num": 203685,
+      "num": 244473,
       "word": "41岁女生未婚未育的真实生活",
       "onboard_time": 1765599742,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513429,
+      "num": 358212,
+      "word": "未领证女方流产后分手判返40%彩礼",
+      "onboard_time": 1765604001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500729,
@@ -187,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 487308,
+      "num": 386005,
+      "word": "沈腾 肥瘦自由",
+      "onboard_time": 1765603642,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454560,
       "num": 454560,
       "word": "academic writing",
@@ -203,16 +219,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 447673,
-      "num": 203256,
-      "word": "沈腾 肥瘦自由",
-      "onboard_time": 1765603642,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 443085,
+      "num": 357582,
+      "word": "妈妈沟通病情发现孩子正库里库里",
+      "onboard_time": 1765605021,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439134,
-      "num": 201675,
+      "num": 244584,
       "word": "建议大家住五星级酒店带行李箱",
       "onboard_time": 1765602080,
       "rank": 12,
@@ -273,6 +289,14 @@
       "onboard_time": 1765554681,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354927,
+      "num": 354927,
+      "word": "宁静在香港拍戏都住向太家",
+      "onboard_time": 1765603642,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 351851,
@@ -355,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307997,
-      "num": 199708,
-      "word": "宁静在香港拍戏都住向太家",
-      "onboard_time": 1765603642,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302106,
       "num": 166524,
       "word": "云初令官宣虞书欣",
@@ -409,6 +425,14 @@
       "onboard_time": 1765584500,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 273981,
+      "num": 243621,
+      "word": "双轨口碑",
+      "onboard_time": 1765604602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 262913,
@@ -467,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 246546,
+      "num": 246546,
+      "word": "林诗栋蒯曼vs林仲勋申裕斌",
+      "onboard_time": 1765606580,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240065,
       "num": 240065,
       "word": "198斤新娘减肥70斤后要离婚",
@@ -507,12 +539,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 226724,
-      "num": 195339,
-      "word": "未领证女方流产后分手判返40%彩礼",
-      "onboard_time": 1765604001,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 229476,
+      "num": 164251,
+      "word": "咖啡加奶对抗炎症效果翻倍",
+      "onboard_time": 1765606340,
+      "rank": 22,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 224616,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177968,
+      "num": 177968,
+      "word": "林诗栋蒯曼1比3林仲勋申裕斌",
+      "onboard_time": 1765607901,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177699,
       "num": 137503,
       "word": "陈妍希李沁都试镜过小龙女",
@@ -643,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171705,
+      "num": 171705,
+      "word": "不上镜的人有多不上镜",
+      "onboard_time": 1765605141,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170819,
       "num": 170866,
       "word": "北京暴雪",
@@ -667,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163881,
+      "num": 163881,
+      "word": "特朗普和爱泼斯坦照片公布",
+      "onboard_time": 1765606640,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162309,
       "num": 162309,
       "word": "王楚钦说被打1比11很正常",
@@ -681,6 +737,14 @@
       "onboard_time": 1765552583,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157951,
+      "num": 157951,
+      "word": "星火英语",
+      "onboard_time": 1765602621,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 155982,
@@ -705,6 +769,14 @@
       "onboard_time": 1765592301,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146527,
+      "num": 146527,
+      "word": "林诗栋蒯曼混双无缘决赛",
+      "onboard_time": 1765607482,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 143737,
@@ -747,12 +819,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 135792,
-      "num": 135792,
-      "word": "星火英语",
-      "onboard_time": 1765602621,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 135007,
+      "num": 135007,
+      "word": "官俊臣参加艺考",
+      "onboard_time": 1765607241,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134689,
+      "num": 134689,
+      "word": "林仲勋申裕斌进混双决赛",
+      "onboard_time": 1765607901,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 133337,
@@ -859,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118529,
+      "num": 118529,
+      "word": "Kanavi被反野心态爆炸",
+      "onboard_time": 1765606340,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118044,
       "num": 118044,
       "word": "谷爱凌自由式滑雪冠军",
@@ -873,6 +961,22 @@
       "onboard_time": 1765600580,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117431,
+      "num": 149545,
+      "word": "中产羽绒服集体站上2000元",
+      "onboard_time": 1765605501,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116620,
+      "num": 116620,
+      "word": "库里复出空砍39分",
+      "onboard_time": 1765606822,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 114758,
@@ -931,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110594,
+      "num": 147220,
+      "word": "日军慰安妇制度受害幸存者仅余7人",
+      "onboard_time": 1765605621,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108997,
       "num": 108997,
       "word": "云初令官宣",
@@ -961,14 +1073,6 @@
       "onboard_time": 1765592240,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105380,
-      "num": 105380,
-      "word": "双轨口碑",
-      "onboard_time": 1765604602,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 104635,
@@ -1003,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102416,
+      "num": 102416,
+      "word": "印度网友被中国小学生午餐震惊",
+      "onboard_time": 1765607901,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99257,
       "num": 108980,
       "word": "AG超玩会vs上海RNG.M",
       "onboard_time": 1765538962,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98020,
+      "num": 98020,
+      "word": "谢淮安真名叫刘啥",
+      "onboard_time": 1765606580,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 97102,
@@ -1265,6 +1385,14 @@
       "onboard_time": 1765593862,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74486,
+      "num": 129977,
+      "word": "内娱三大名场面",
+      "onboard_time": 1765607241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 74265,
@@ -1539,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46316,
+      "num": 164806,
+      "word": "投资千万景区荒废沦为鬼城",
+      "onboard_time": 1765606701,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45887,
       "num": 197457,
       "word": "刘嘉玲何赛飞因拍短剧理念不合吵起来",
@@ -1627,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28184,
+      "num": 130985,
+      "word": "泰方否认同意停火",
+      "onboard_time": 1765607002,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28154,
       "num": 275019,
       "word": "礼兵敬献花圈",
@@ -1649,6 +1793,14 @@
       "onboard_time": 1765573694,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 26586,
+      "num": 130097,
+      "word": "向太回应向佐哭诉娱乐圈很恐怖",
+      "onboard_time": 1765607781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 25392,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/13 13:44:49
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/13 14:39:30
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ VOGUE替刘雯井柏然官宣了（热度：528106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E9%A2%86%E8%AF%81%E5%A5%B3%E6%96%B9%E6%B5%81%E4%BA%A7%E5%90%8E%E5%88%86%E6%89%8B%E5%88%A4%E8%BF%9440%25%E5%BD%A9%E7%A4%BC%23" target="weibo">
+未领证女方流产后分手判返40%彩礼（热度：513429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%86%A5%E6%9C%89%E9%B1%BC%E7%AB%9F%E7%84%B6%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 北冥有鱼竟然是真的（热度：513306）
 </a>
@@ -3461,6 +3467,12 @@ iG官宣TheShy离场（热度：488363）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%BD%E8%A1%80%E6%98%BE%E7%A4%BA%E6%80%80%E5%AD%95%E5%AD%90%E5%AE%AB%E9%87%8C%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E8%83%8E%E5%84%BF%23" target="weibo">
 抽血显示怀孕子宫里却找不到胎儿（热度：487555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%82%A5%E7%98%A6%E8%87%AA%E7%94%B1%23" target="weibo">
+沈腾 肥瘦自由（热度：487308）
 </a>
 </li>
 
@@ -3999,12 +4011,6 @@ academic writing（热度：454560）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%82%A5%E7%98%A6%E8%87%AA%E7%94%B1%23" target="weibo">
-沈腾 肥瘦自由（热度：447673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%9B%9D%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%9B%BE%E5%86%99%E9%81%97%E4%B9%A6%23" target="weibo">
 胡先煦曝叫兽易小星曾写遗书（热度：447665）
 </a>
@@ -4109,6 +4115,12 @@ academic writing（热度：454560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%AA%A6%E9%AA%81%E4%BD%95%E8%B6%85%E8%8E%B2%E4%B8%80%E8%B5%B7%E5%90%83%E6%97%A9%E9%A4%90%23" target="weibo">
 偶遇窦骁何超莲一起吃早餐（热度：443111）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%B2%9F%E9%80%9A%E7%97%85%E6%83%85%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E6%AD%A3%E5%BA%93%E9%87%8C%E5%BA%93%E9%87%8C%23" target="weibo">
+妈妈沟通病情发现孩子正库里库里（热度：443085）
 </a>
 </li>
 
@@ -5499,6 +5511,12 @@ iG 0等五（热度：365253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%8B%8D%E6%88%8F%E9%83%BD%E4%BD%8F%E5%90%91%E5%A4%AA%E5%AE%B6%23" target="weibo">
+宁静在香港拍戏都住向太家（热度：354927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E4%B9%92%E4%B9%93%E7%90%83%E7%83%AD%E5%BA%A6%E6%98%AF%E6%88%91%E5%B8%A6%E8%B5%B7%E6%9D%A5%E7%9A%84%23" target="weibo">
 张继科说乒乓球热度是我带起来的（热度：354615）
 </a>
@@ -5993,24 +6011,6 @@ DeepSeek崩了（热度：341973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BF%AE%E5%AD%98%E6%98%95%E5%A4%96%E5%AD%99%E5%A5%B3%E9%81%AD%E5%A4%A7%E9%87%8F%E5%AE%B9%E8%B2%8C%E6%81%B6%E8%AF%84%23" target="weibo">
 濮存昕外孙女遭大量容貌恶评（热度：331763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%BD%A8%E5%8C%97%E7%BE%8E%E6%92%AD%E5%87%BA%23" target="weibo">
-双轨北美播出（热度：331625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E5%90%91%E6%B6%B5%E4%B9%8B%E6%98%AF%E4%B8%BB%E8%A7%92%E4%BC%9A%E7%88%86%E6%88%90%E5%95%A5%E6%A0%B7%23" target="weibo">
-朱亚文向涵之是主角会爆成啥样（热度：330744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%BD%95%E8%B7%A8%E5%B9%B4%E5%AE%A3%E4%BC%A0%E7%89%87%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
-小S录跨年宣传片崩溃大哭（热度：330699）
 </a>
 </li>
 
