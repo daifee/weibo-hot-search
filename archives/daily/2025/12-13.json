@@ -1,6 +1,6 @@
 {
   "startTime": 1765557328864,
-  "endTime": 1765591153934,
+  "endTime": 1765592523768,
   "band_list": [
     {
       "raw_hot": 1130909,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1015594,
-      "num": 126388,
+      "num": 141735,
       "word": "偶遇谢霆锋张柏芝大儿子",
       "onboard_time": 1765587860,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817574,
+      "num": 155502,
+      "word": "韩国鸟叔被警方强制调查",
+      "onboard_time": 1765590080,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -60,19 +68,19 @@
     },
     {
       "raw_hot": 500729,
-      "num": 140915,
+      "num": 154376,
       "word": "毛人龙 许文婷",
       "onboard_time": 1765588280,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 437223,
-      "num": 140343,
-      "word": "韩国鸟叔被警方强制调查",
-      "onboard_time": 1765590080,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 399742,
+      "num": 185601,
+      "word": "朕的玉娆果真是国色",
+      "onboard_time": 1765590262,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 390118,
@@ -81,6 +89,14 @@
       "onboard_time": 1765551625,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389662,
+      "num": 389662,
+      "word": "我才8岁被日军刺得血流满身",
+      "onboard_time": 1765589422,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 387844,
@@ -147,8 +163,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293166,
+      "num": 140350,
+      "word": "女子用9分12秒煮完美蛋烧干锅",
+      "onboard_time": 1765589121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291892,
+      "num": 291892,
+      "word": "南京大屠杀",
+      "onboard_time": 1765581556,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 280362,
-      "num": 139701,
+      "num": 152148,
       "word": "不停运动3个月瘦了45斤",
       "onboard_time": 1765584500,
       "rank": 13,
@@ -163,14 +195,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 254030,
-      "num": 126370,
-      "word": "女子用9分12秒煮完美蛋烧干锅",
-      "onboard_time": 1765589121,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250909,
       "num": 250909,
       "word": "小学生病逝同学以为是转学纷纷写信",
@@ -179,12 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249162,
+      "raw_hot": 250244,
       "num": 249162,
       "word": "国家公祭日",
       "onboard_time": 1765581617,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248050,
+      "num": 140125,
+      "word": "睡不建议少于6个小时",
+      "onboard_time": 1765582277,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240065,
@@ -196,19 +228,11 @@
     },
     {
       "raw_hot": 238253,
-      "num": 139318,
+      "num": 146495,
       "word": "狙击蝴蝶演浙江过年包饺子被吐槽",
       "onboard_time": 1765585580,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233664,
-      "num": 138932,
-      "word": "我才8岁被日军刺得血流满身",
-      "onboard_time": 1765589422,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 224616,
@@ -217,22 +241,6 @@
       "onboard_time": 1765535602,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223277,
-      "num": 126346,
-      "word": "睡不建议少于6个小时",
-      "onboard_time": 1765582277,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208945,
-      "num": 175841,
-      "word": "南京大屠杀",
-      "onboard_time": 1765581556,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 203278,
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179116,
-      "num": 138482,
-      "word": "朕的玉娆果真是国色",
-      "onboard_time": 1765590262,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178485,
       "num": 163729,
       "word": "陈伟霆 它咬了你我立马下班",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 177699,
-      "num": 126314,
+      "num": 137503,
       "word": "陈妍希李沁都试镜过小龙女",
       "onboard_time": 1765584919,
       "rank": 23,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 171717,
-      "num": 138022,
+      "num": 144661,
       "word": "四六级",
       "onboard_time": 1765590380,
       "rank": 17,
@@ -323,6 +323,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159075,
+      "num": 159075,
+      "word": "这是南京大屠杀的真实影像",
+      "onboard_time": 1765591102,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 147811,
+      "num": 145488,
+      "word": "南京鸣响了防空警报",
+      "onboard_time": 1765592301,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143737,
       "num": 82594,
       "word": "刘亦菲与朱亚文是大学同学",
@@ -345,6 +361,14 @@
       "onboard_time": 1765542443,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137114,
+      "num": 137114,
+      "word": "四级作文",
+      "onboard_time": 1765590980,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 132394,
@@ -443,12 +467,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113028,
+      "num": 113028,
+      "word": "双轨热度走势",
+      "onboard_time": 1765590622,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112084,
       "num": 82219,
       "word": "许我耀眼",
       "onboard_time": 1765582098,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111813,
+      "num": 111813,
+      "word": "请记住她的名字张纯如",
+      "onboard_time": 1765591762,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111153,
+      "num": 111153,
+      "word": "睡眠超9小时可能影响寿命",
+      "onboard_time": 1765582277,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108997,
@@ -467,20 +515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105781,
+      "num": 143643,
+      "word": "国家公祭仪式",
+      "onboard_time": 1765592240,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104635,
       "num": 89425,
       "word": "北京大兴机场20元过夜",
       "onboard_time": 1765559418,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104053,
-      "num": 104053,
-      "word": "睡眠超9小时可能影响寿命",
-      "onboard_time": 1765582277,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103109,
@@ -491,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103006,
-      "num": 103006,
-      "word": "这是南京大屠杀的真实影像",
-      "onboard_time": 1765591102,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 101938,
+      "num": 101938,
+      "word": "陈伟霆因造型丑被嘲不拍古装",
+      "onboard_time": 1765592122,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 99257,
@@ -513,6 +561,22 @@
       "onboard_time": 1765556899,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95859,
+      "num": 95859,
+      "word": "周柯宇在片场把陈妍希闹成啥了",
+      "onboard_time": 1765586720,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "华谊兄弟7年巨亏82亿",
+      "onboard_time": 1765592361,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 94572,
@@ -547,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91093,
+      "num": 91093,
+      "word": "长安二十四计全网收视登顶",
+      "onboard_time": 1765587981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90819,
       "num": 108972,
       "word": "为30多万死难同胞发条微博",
@@ -579,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86588,
-      "num": 86588,
-      "word": "双轨热度走势",
-      "onboard_time": 1765590622,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86561,
       "num": 86561,
       "word": "明年房地产政策有4个新变化",
@@ -601,14 +665,6 @@
       "onboard_time": 1765543403,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 83848,
-      "num": 83848,
-      "word": "长安二十四计全网收视登顶",
-      "onboard_time": 1765587981,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 82151,
@@ -643,14 +699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 77911,
-      "num": 77911,
-      "word": "四级作文",
-      "onboard_time": 1765590980,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 77706,
       "num": 77706,
       "word": "宋威龙赵今麦骄阳似我婚纱照",
@@ -659,12 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76230,
-      "num": 78769,
-      "word": "周柯宇在片场把陈妍希闹成啥了",
-      "onboard_time": 1765586720,
+      "raw_hot": 76828,
+      "num": 76828,
+      "word": "肖战 得闲想要得闲手搓得到",
+      "onboard_time": 1765591580,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 75562,
+      "num": 75562,
+      "word": "世界杯官方票价过高震惊球迷",
+      "onboard_time": 1765592240,
       "rank": 46,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 75114,
@@ -689,6 +745,14 @@
       "onboard_time": 1765538721,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72999,
+      "num": 72999,
+      "word": "迪丽热巴卫蓝杀青捧花照",
+      "onboard_time": 1765587439,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 71792,
@@ -753,6 +817,14 @@
       "onboard_time": 1765549224,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65096,
+      "num": 432476,
+      "word": "千年古都逆龄生长",
+      "onboard_time": 1765589180,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64737,
@@ -856,14 +928,6 @@
       "word": "男子给同事发不雅视频被开除起诉公司",
       "onboard_time": 1765559477,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46608,
-      "num": 432476,
-      "word": "千年古都逆龄生长",
-      "onboard_time": 1765589180,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
