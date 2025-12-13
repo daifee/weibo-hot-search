@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765643566216,
+  "endTime": 1765644429827,
   "band_list": [
     {
       "raw_hot": 906534,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285975,
+      "num": 214588,
+      "word": "张真源因离开跑男哭了",
+      "onboard_time": 1765629924,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283424,
       "num": 208587,
       "word": "蔡国庆点赞和王耀庆闹掰博文",
@@ -67,12 +75,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253963,
-      "num": 214588,
-      "word": "张真源因离开跑男哭了",
-      "onboard_time": 1765629924,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 245389,
+      "num": 213828,
+      "word": "金铲铲补偿",
+      "onboard_time": 1765633522,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 231812,
@@ -81,14 +89,6 @@
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 226396,
-      "num": 213828,
-      "word": "金铲铲补偿",
-      "onboard_time": 1765633522,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 215504,
@@ -187,8 +187,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 98067,
-      "num": 98067,
+      "raw_hot": 99141,
+      "num": 99141,
       "word": "长安二十四计",
       "onboard_time": 1765623860,
       "rank": 26,
@@ -219,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90328,
-      "num": 90328,
+      "raw_hot": 91313,
+      "num": 91313,
       "word": "王楚钦说咬一局呗",
       "onboard_time": 1765638324,
       "rank": 30,
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 85414,
+      "num": 86044,
+      "word": "虞书欣这一脚直接把我踹成梦女",
+      "onboard_time": 1765624761,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82401,
       "num": 86107,
       "word": "于正回应不让周柯宇去星光大赏",
@@ -257,14 +265,6 @@
       "onboard_time": 1765637962,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80407,
-      "num": 86044,
-      "word": "虞书欣这一脚直接把我踹成梦女",
-      "onboard_time": 1765624761,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 77804,
@@ -283,6 +283,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 76164,
+      "num": 85883,
+      "word": "孙颖莎回应坚持打混双决赛",
+      "onboard_time": 1765639342,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69058,
-      "num": 85883,
-      "word": "孙颖莎回应坚持打混双决赛",
-      "onboard_time": 1765639342,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64499,
       "num": 85912,
       "word": "超话大赏",
@@ -321,6 +321,14 @@
       "onboard_time": 1765630462,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63095,
+      "num": 85738,
+      "word": "碾压妻子致死男子还有82天出狱",
+      "onboard_time": 1765639282,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60522,
@@ -363,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 59008,
-      "num": 85738,
-      "word": "碾压妻子致死男子还有82天出狱",
-      "onboard_time": 1765639282,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 56733,
+      "num": 76042,
+      "word": "张怡宁为孙颖莎王楚钦颁奖",
+      "onboard_time": 1765639342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 55998,
@@ -379,7 +387,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28042,
+      "raw_hot": 29851,
       "num": 210938,
       "word": "2025中国电影总票房突破500亿",
       "onboard_time": 1765636403,
@@ -387,7 +395,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 9151,
+      "raw_hot": 12645,
       "num": 209796,
       "word": "中央档案馆公布一批731罪行档案",
       "onboard_time": 1765617801,
