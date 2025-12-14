@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765717553206,
+  "endTime": 1765719225903,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -129,6 +129,14 @@
       "onboard_time": 1765698923,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 753255,
+      "num": 753255,
+      "word": "王曼昱冠军",
+      "onboard_time": 1765716864,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 752574,
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533738,
+      "num": 284393,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528421,
       "num": 334675,
       "word": "科比吧官方微博发了孙颖莎",
@@ -323,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502061,
-      "num": 284393,
-      "word": "李现拍的雪后故宫",
-      "onboard_time": 1765710623,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492615,
       "num": 492615,
       "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
       "onboard_time": 1765697062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490430,
+      "num": 285181,
+      "word": "何晴父母均因脑溢血离世",
+      "onboard_time": 1765714524,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 487696,
@@ -359,22 +375,6 @@
       "num": 435277,
       "word": "林诗栋3比4张本智和",
       "onboard_time": 1765696103,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 456898,
-      "num": 285181,
-      "word": "何晴父母均因脑溢血离世",
-      "onboard_time": 1765714524,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 454268,
-      "num": 415494,
-      "word": "王曼昱冠军",
-      "onboard_time": 1765716864,
       "rank": 6,
       "category": "体育"
     },
@@ -403,6 +403,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 412339,
+      "num": 281855,
+      "word": "张呈 拉完了",
+      "onboard_time": 1765715602,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411839,
       "num": 323293,
       "word": "第一批短剧受害者出现了",
@@ -411,12 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408386,
-      "num": 281855,
-      "word": "张呈 拉完了",
-      "onboard_time": 1765715602,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 411124,
+      "num": 282076,
+      "word": "尚公主",
+      "onboard_time": 1765713984,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 405036,
@@ -433,14 +441,6 @@
       "onboard_time": 1765702823,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398795,
-      "num": 282076,
-      "word": "尚公主",
-      "onboard_time": 1765713984,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 398013,
@@ -504,6 +504,14 @@
       "word": "国乒男单无缘5连冠",
       "onboard_time": 1765705040,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356472,
+      "num": 232093,
+      "word": "张本智和vs莫雷加德",
+      "onboard_time": 1765717764,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -603,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 304002,
+      "num": 230034,
+      "word": "狙击蝴蝶分手复合在同一集",
+      "onboard_time": 1765718063,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301738,
       "num": 301738,
       "word": "恋与深空",
@@ -673,6 +689,14 @@
       "onboard_time": 1765629924,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285871,
+      "num": 233593,
+      "word": "沈佳润小宝眼线是你自己画的吗",
+      "onboard_time": 1765714704,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 283699,
@@ -769,14 +793,6 @@
       "onboard_time": 1765670418,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258884,
-      "num": 233593,
-      "word": "沈佳润小宝眼线是你自己画的吗",
-      "onboard_time": 1765714704,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 258862,
@@ -979,6 +995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211298,
+      "num": 211298,
+      "word": "宁波卫健委就小洛熙事件致歉",
+      "onboard_time": 1765717824,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 208707,
+      "num": 208707,
+      "word": "王曼昱说希望我们健康涨球",
+      "onboard_time": 1765718544,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208172,
       "num": 208172,
       "word": "何与拍了虞书欣",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1765708463,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198677,
+      "num": 198677,
+      "word": "小洛熙事件主刀医师具备手术资质",
+      "onboard_time": 1765718724,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 196768,
@@ -1267,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177502,
+      "num": 177502,
+      "word": "王曼昱总决赛夺冠获56万奖金",
+      "onboard_time": 1765718843,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177163,
       "num": 177163,
       "word": "Faker首个K杯冠军",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1765687643,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174464,
+      "num": 174464,
+      "word": "金晨发文悼念何晴",
+      "onboard_time": 1765718843,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 173672,
@@ -1451,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158185,
+      "num": 158185,
+      "word": "流苏 zwy",
+      "onboard_time": 1765718784,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156594,
       "num": 156594,
       "word": "虞书欣姜暮头盔戴反了",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1765686382,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151158,
+      "num": 151158,
+      "word": "乒协回应孙颖莎王楚钦因伤退赛",
+      "onboard_time": 1765719145,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 150354,
@@ -1579,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144742,
+      "num": 144742,
+      "word": "TF新音抢票",
+      "onboard_time": 1765719145,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144675,
       "num": 144675,
       "word": "结婚14年被家暴13年女子发声",
@@ -1651,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137881,
+      "num": 140848,
+      "word": "Peyz FMVP",
+      "onboard_time": 1765717884,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137491,
       "num": 137491,
       "word": "声鸣远扬",
@@ -1704,6 +1792,14 @@
       "word": "选手们暖心祝福樊振东",
       "onboard_time": 1765711704,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133943,
+      "num": 122301,
+      "word": "王曼昱回应总决赛卫冕",
+      "onboard_time": 1765718964,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1915,6 +2011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122771,
+      "num": 122771,
+      "word": "魏大勋跳舞空气感 不愧JYP出来的",
+      "onboard_time": 1765719145,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122682,
       "num": 122682,
       "word": "网红跟歌手真的有壁吗",
@@ -1960,6 +2064,14 @@
       "word": "王楚钦为了让孙颖莎少跑动想一板过",
       "onboard_time": 1765689862,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120799,
+      "num": 120799,
+      "word": "徐杰受伤",
+      "onboard_time": 1765719205,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2403,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96635,
+      "num": 141326,
+      "word": "你打扮那么美是为了和我告别吗",
+      "onboard_time": 1765718243,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96546,
       "num": 104490,
       "word": "终于有人把零食说明白了",
@@ -2568,6 +2688,14 @@
       "word": "41岁交警生前画面看得心碎",
       "onboard_time": 1765678823,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90508,
+      "num": 206462,
+      "word": "女子家门口遇害案凶手庭审冷笑",
+      "onboard_time": 1765717345,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3227,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35588,
+      "num": 142413,
+      "word": "律师解读4斤重黄金凤冠被男童破坏",
+      "onboard_time": 1765718483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35355,
       "num": 97696,
       "word": "孙颖莎肖指导有说有笑",
@@ -3491,6 +3627,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20049,
+      "num": 237153,
+      "word": "铁路清雪车有流浪地球那味了",
+      "onboard_time": 1765718724,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -3505,6 +3649,14 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17036,
+      "num": 696262,
+      "word": "聚焦经济社会发展",
+      "onboard_time": 1765719084,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16540,
@@ -3529,14 +3681,6 @@
       "onboard_time": 1765652236,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14888,
-      "num": 206462,
-      "word": "女子家门口遇害案凶手庭审冷笑",
-      "onboard_time": 1765717345,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14549,
@@ -3617,6 +3761,9 @@
     },
     {
       "word": "#习近平总书记深刻解析因地制宜#"
+    },
+    {
+      "word": "#总书记提到一个重大任务#"
     }
   ]
 }

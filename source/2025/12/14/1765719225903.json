@@ -1,0 +1,410 @@
+{
+  "runTime": 1765719225903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7689468,
+        "num": 7689468,
+        "word": "宁波通报患儿手术后离世",
+        "onboard_time": 1765714044,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 753255,
+        "num": 753255,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17036,
+        "num": 696262,
+        "word": "聚焦经济社会发展",
+        "onboard_time": 1765719084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647528,
+        "num": 647528,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458890,
+        "num": 458890,
+        "word": "小洛熙",
+        "onboard_time": 1765714643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360448,
+        "num": 360448,
+        "word": "王王队演唱会",
+        "onboard_time": 1765712964,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241078,
+        "num": 241078,
+        "word": "张艺兴 国家话剧院活动",
+        "onboard_time": 1765708703,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286799,
+        "num": 239008,
+        "word": "T1夺冠",
+        "onboard_time": 1765715484,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20049,
+        "num": 237153,
+        "word": "铁路清雪车有流浪地球那味了",
+        "onboard_time": 1765718724,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235834,
+        "num": 235834,
+        "word": "樊振东今晚不打一单",
+        "onboard_time": 1765717224,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533738,
+        "num": 235647,
+        "word": "李现拍的雪后故宫",
+        "onboard_time": 1765710623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490430,
+        "num": 234810,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448465,
+        "num": 234084,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412339,
+        "num": 232951,
+        "word": "张呈 拉完了",
+        "onboard_time": 1765715602,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356472,
+        "num": 232093,
+        "word": "张本智和vs莫雷加德",
+        "onboard_time": 1765717764,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411124,
+        "num": 231386,
+        "word": "尚公主",
+        "onboard_time": 1765713984,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351067,
+        "num": 230585,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 304002,
+        "num": 230034,
+        "word": "狙击蝴蝶分手复合在同一集",
+        "onboard_time": 1765718063,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229756,
+        "num": 229756,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1765712242,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211298,
+        "num": 211298,
+        "word": "宁波卫健委就小洛熙事件致歉",
+        "onboard_time": 1765717824,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1961856,
+        "num": 211007,
+        "word": "张艺兴发文道歉",
+        "onboard_time": 1765708042,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 556033,
+        "num": 210269,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285871,
+        "num": 209996,
+        "word": "沈佳润小宝眼线是你自己画的吗",
+        "onboard_time": 1765714704,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244287,
+        "num": 209678,
+        "word": "虞书欣何与双轨首播战报",
+        "onboard_time": 1765716924,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214973,
+        "num": 208911,
+        "word": "樊振东顶着空气刘海上班",
+        "onboard_time": 1765713025,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208707,
+        "num": 208707,
+        "word": "王曼昱说希望我们健康涨球",
+        "onboard_time": 1765718544,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198677,
+        "num": 198677,
+        "word": "小洛熙事件主刀医师具备手术资质",
+        "onboard_time": 1765718724,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177502,
+        "num": 177502,
+        "word": "王曼昱总决赛夺冠获56万奖金",
+        "onboard_time": 1765718843,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174464,
+        "num": 174464,
+        "word": "金晨发文悼念何晴",
+        "onboard_time": 1765718843,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165813,
+        "num": 165813,
+        "word": "患儿手术后离世多人被处理",
+        "onboard_time": 1765714104,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90508,
+        "num": 161325,
+        "word": "女子家门口遇害案凶手庭审冷笑",
+        "onboard_time": 1765717345,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158185,
+        "num": 158185,
+        "word": "流苏 zwy",
+        "onboard_time": 1765718784,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155085,
+        "num": 155085,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151158,
+        "num": 151158,
+        "word": "乒协回应孙颖莎王楚钦因伤退赛",
+        "onboard_time": 1765719145,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150630,
+        "num": 150630,
+        "word": "4300万网红刘二狗泳池直播被指擦边",
+        "onboard_time": 1765711044,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146902,
+        "num": 146902,
+        "word": "泰国战斗机轰炸酒店大楼",
+        "onboard_time": 1765716324,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144742,
+        "num": 144742,
+        "word": "TF新音抢票",
+        "onboard_time": 1765719145,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35588,
+        "num": 142413,
+        "word": "律师解读4斤重黄金凤冠被男童破坏",
+        "onboard_time": 1765718483,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96635,
+        "num": 141326,
+        "word": "你打扮那么美是为了和我告别吗",
+        "onboard_time": 1765718243,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137881,
+        "num": 140848,
+        "word": "Peyz FMVP",
+        "onboard_time": 1765717884,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140768,
+        "num": 140768,
+        "word": "36岁男子追求43岁女子称姐姐不作",
+        "onboard_time": 1765710262,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1765710505,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136418,
+        "num": 136418,
+        "word": "樊振东vs奇里塔",
+        "onboard_time": 1765716684,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "厕所安装吸烟会变透明玻璃",
+        "onboard_time": 1765710202,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122771,
+        "num": 122771,
+        "word": "魏大勋跳舞空气感 不愧JYP出来的",
+        "onboard_time": 1765719145,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133943,
+        "num": 122301,
+        "word": "王曼昱回应总决赛卫冕",
+        "onboard_time": 1765718964,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120799,
+        "num": 120799,
+        "word": "徐杰受伤",
+        "onboard_time": 1765719205,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118397,
+        "num": 118397,
+        "word": "zwy回应",
+        "onboard_time": 1765711642,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114621,
+        "num": 114621,
+        "word": "AG获得2025CFS总冠军",
+        "onboard_time": 1765714884,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
