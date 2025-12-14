@@ -1,10 +1,10 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765754730701,
+  "endTime": 1765755565415,
   "band_list": [
     {
-      "raw_hot": 761320,
-      "num": 844311,
+      "raw_hot": 847369,
+      "num": 960648,
       "word": "我国已经进入拉尼娜状态",
       "onboard_time": 1765713085,
       "rank": 1,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 592472,
-      "num": 592472,
+      "raw_hot": 704257,
+      "num": 704257,
       "word": "感染艾滋病老人称死也不能丢脸",
       "onboard_time": 1765724003,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 311326,
-      "num": 223154,
+      "num": 258713,
       "word": "美国276斤死刑犯行刑前点奢华盛宴",
       "onboard_time": 1765729280,
       "rank": 39,
@@ -99,6 +99,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217249,
+      "num": 217249,
+      "word": "美术馆回应黄金凤冠被男童触碰损坏",
+      "onboard_time": 1765755258,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215282,
       "num": 148752,
       "word": "iPhone面容ID还可以这么用",
@@ -107,12 +115,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 204865,
-      "num": 117578,
+      "raw_hot": 209180,
+      "num": 148693,
       "word": "4300万网红刘二狗泳池直播被指擦边",
       "onboard_time": 1765711044,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190104,
+      "num": 190104,
+      "word": "现在就出发3",
+      "onboard_time": 1765749435,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 187492,
@@ -121,6 +137,14 @@
       "onboard_time": 1765710322,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184163,
+      "num": 184163,
+      "word": "难怪李雾整宿整宿睡不着觉",
+      "onboard_time": 1765731139,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 176115,
@@ -147,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154674,
-      "num": 154674,
-      "word": "难怪李雾整宿整宿睡不着觉",
-      "onboard_time": 1765731139,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 152881,
+      "num": 152881,
+      "word": "乒协回应孙颖莎王楚钦因伤退赛",
+      "onboard_time": 1765719145,
+      "rank": 24,
+      "category": "体育"
     },
     {
-      "raw_hot": 142437,
-      "num": 142437,
-      "word": "现在就出发3",
-      "onboard_time": 1765749435,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 148059,
+      "num": 148059,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 137592,
@@ -177,14 +201,6 @@
       "onboard_time": 1765727482,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136744,
-      "num": 140251,
-      "word": "乒协回应孙颖莎王楚钦因伤退赛",
-      "onboard_time": 1765719145,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 133928,
@@ -209,6 +225,22 @@
       "onboard_time": 1765726102,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129694,
+      "num": 129694,
+      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+      "onboard_time": 1765726762,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128297,
+      "num": 128297,
+      "word": "何晴曾劝黄绮珊不要整容",
+      "onboard_time": 1765717644,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 122857,
@@ -243,30 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113581,
-      "num": 113581,
-      "word": "水龙吟",
-      "onboard_time": 1765744693,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 111579,
-      "num": 111579,
-      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
-      "onboard_time": 1765726762,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 110934,
-      "num": 110934,
-      "word": "何晴曾劝黄绮珊不要整容",
-      "onboard_time": 1765717644,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109230,
       "num": 109230,
       "word": "李现拍的雪后故宫",
@@ -283,8 +291,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108046,
+      "num": 107624,
+      "word": "郭碧婷爸爸发文感谢女儿婆家",
+      "onboard_time": 1765752016,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107896,
+      "num": 107896,
+      "word": "中国乒协启动保障机制",
+      "onboard_time": 1765719984,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105502,
-      "num": 105502,
+      "num": 107057,
       "word": "尚公主",
       "onboard_time": 1765713984,
       "rank": 26,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 101577,
-      "num": 101577,
+      "num": 107725,
       "word": "小洛熙主刀医生被暂停诊疗",
       "onboard_time": 1765728021,
       "rank": 31,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 97271,
-      "num": 97271,
+      "num": 106762,
       "word": "TF家族四代纪录片",
       "onboard_time": 1765728560,
       "rank": 28,
@@ -315,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95981,
-      "num": 95981,
-      "word": "中国乒协启动保障机制",
-      "onboard_time": 1765719984,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90580,
       "num": 109644,
       "word": "王俊凯话剧收官",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 83535,
-      "num": 84483,
+      "num": 107192,
       "word": "陈奕恒在韩国训练了三个月",
       "onboard_time": 1765723524,
       "rank": 34,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 83237,
-      "num": 84403,
+      "num": 107094,
       "word": "王曼昱冠军",
       "onboard_time": 1765716864,
       "rank": 35,
@@ -353,14 +369,6 @@
       "onboard_time": 1765723943,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75270,
-      "num": 60255,
-      "word": "郭碧婷爸爸发文感谢女儿婆家",
-      "onboard_time": 1765752016,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 73921,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 60326,
-      "num": 60326,
+      "num": 107296,
       "word": "暮暮朝朝这是正经吃苹果吗",
       "onboard_time": 1765735755,
       "rank": 42,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 57654,
-      "num": 84166,
+      "num": 106972,
       "word": "张韶涵圈内人脉",
       "onboard_time": 1765722982,
       "rank": 48,
@@ -467,60 +475,76 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51711,
-      "num": 60317,
-      "word": "以色列提醒海外公民警惕",
-      "onboard_time": 1765753816,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 46433,
-      "num": 60307,
-      "word": "长安二十四计",
-      "onboard_time": 1765748113,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 41749,
-      "num": 60282,
-      "word": "原来十年之约是李飞和柴鸡蛋",
-      "onboard_time": 1765719864,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 40759,
-      "num": 60280,
+      "raw_hot": 52917,
+      "num": 107507,
       "word": "王曼昱收获1500冠军积分和8万美元",
       "onboard_time": 1765735996,
       "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 39466,
-      "num": 60211,
+      "raw_hot": 52129,
+      "num": 107469,
+      "word": "长安二十四计",
+      "onboard_time": 1765748113,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51711,
+      "num": 107397,
+      "word": "以色列提醒海外公民警惕",
+      "onboard_time": 1765753816,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48729,
+      "num": 107387,
+      "word": "原来十年之约是李飞和柴鸡蛋",
+      "onboard_time": 1765719864,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48718,
+      "num": 107358,
+      "word": "魏大勋跳舞空气感 不愧JYP出来的",
+      "onboard_time": 1765719145,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44245,
+      "num": 148763,
       "word": "T1夺冠",
       "onboard_time": 1765715484,
       "rank": 42,
       "category": "电竞"
     },
     {
-      "raw_hot": 36195,
-      "num": 60262,
+      "raw_hot": 43026,
+      "num": 107294,
+      "word": "澳大利亚路人大爷徒手夺枪",
+      "onboard_time": 1765735095,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42095,
+      "num": 107246,
       "word": "当暴力萝莉遇上阴湿糙汉",
       "onboard_time": 1765743374,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 35149,
-      "num": 60228,
-      "word": "魏大勋跳舞空气感 不愧JYP出来的",
-      "onboard_time": 1765719145,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 40216,
+      "num": 107176,
+      "word": "泰国战斗机轰炸酒店大楼",
+      "onboard_time": 1765716324,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35066,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 33849,
-      "num": 60139,
+      "num": 106701,
       "word": "731部队特别移送制度有多残暴",
       "onboard_time": 1765735155,
       "rank": 27,
@@ -547,36 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32901,
+      "num": 339766,
+      "word": "加强商务和金融协同更大力度提振消费",
+      "onboard_time": 1765718544,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31989,
-      "num": 60191,
+      "num": 106921,
       "word": "双轨物料",
       "onboard_time": 1765748894,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 31605,
-      "num": 60187,
-      "word": "澳大利亚路人大爷徒手夺枪",
-      "onboard_time": 1765735095,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28799,
-      "num": 60166,
+      "num": 106726,
       "word": "大衣哥朱之文辟谣跳楼身亡",
       "onboard_time": 1765744813,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 27263,
-      "num": 240032,
-      "word": "加强商务和金融协同更大力度提振消费",
-      "onboard_time": 1765718544,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26984,
@@ -595,11 +611,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22960,
-      "num": 60101,
+      "raw_hot": 25409,
+      "num": 106853,
       "word": "Peyz泽丽输出高于HLE三C之和",
       "onboard_time": 1765727721,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 25286,
+      "num": 111696,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1765721724,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1765747214,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19944,
-      "num": 111696,
-      "word": "王者荣耀挑战者杯",
-      "onboard_time": 1765721724,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 15425,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765755565415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847369,
+        "num": 960648,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704257,
+        "num": 704257,
+        "word": "感染艾滋病老人称死也不能丢脸",
+        "onboard_time": 1765724003,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32901,
+        "num": 339766,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258713,
+        "num": 258713,
+        "word": "美国276斤死刑犯行刑前点奢华盛宴",
+        "onboard_time": 1765729280,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217249,
+        "num": 217249,
+        "word": "美术馆回应黄金凤冠被男童触碰损坏",
+        "onboard_time": 1765755258,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190104,
+        "num": 190104,
+        "word": "现在就出发3",
+        "onboard_time": 1765749435,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184163,
+        "num": 184163,
+        "word": "难怪李雾整宿整宿睡不着觉",
+        "onboard_time": 1765731139,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159092,
+        "num": 159092,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 152881,
+        "num": 152881,
+        "word": "乒协回应孙颖莎王楚钦因伤退赛",
+        "onboard_time": 1765719145,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44245,
+        "num": 148763,
+        "word": "T1夺冠",
+        "onboard_time": 1765715484,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263017,
+        "num": 148703,
+        "word": "巨人观的水果尸体慢慢浮出水面",
+        "onboard_time": 1765724905,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209180,
+        "num": 148693,
+        "word": "4300万网红刘二狗泳池直播被指擦边",
+        "onboard_time": 1765711044,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148059,
+        "num": 148059,
+        "word": "水龙吟",
+        "onboard_time": 1765744693,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129694,
+        "num": 129694,
+        "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+        "onboard_time": 1765726762,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128297,
+        "num": 128297,
+        "word": "何晴曾劝黄绮珊不要整容",
+        "onboard_time": 1765717644,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110866,
+        "num": 110866,
+        "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
+        "onboard_time": 1765725623,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 109591,
+        "word": "乌克兰已放弃加入北约",
+        "onboard_time": 1765720825,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107896,
+        "num": 107896,
+        "word": "中国乒协启动保障机制",
+        "onboard_time": 1765719984,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107735,
+        "num": 107735,
+        "word": "周深用全部身家留下给粉丝的歌",
+        "onboard_time": 1765728500,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 107725,
+        "word": "小洛熙主刀医生被暂停诊疗",
+        "onboard_time": 1765728021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161724,
+        "num": 107690,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115869,
+        "num": 107661,
+        "word": "女子买二手存钱罐开出2千多现金",
+        "onboard_time": 1765723462,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108046,
+        "num": 107624,
+        "word": "郭碧婷爸爸发文感谢女儿婆家",
+        "onboard_time": 1765752016,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78645,
+        "num": 107567,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 61382,
+        "num": 107563,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52917,
+        "num": 107507,
+        "word": "王曼昱收获1500冠军积分和8万美元",
+        "onboard_time": 1765735996,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52129,
+        "num": 107469,
+        "word": "长安二十四计",
+        "onboard_time": 1765748113,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50024,
+        "num": 107433,
+        "word": "张呈 拉完了",
+        "onboard_time": 1765715602,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49363,
+        "num": 107397,
+        "word": "以色列提醒海外公民警惕",
+        "onboard_time": 1765753816,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48729,
+        "num": 107387,
+        "word": "原来十年之约是李飞和柴鸡蛋",
+        "onboard_time": 1765719864,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48718,
+        "num": 107358,
+        "word": "魏大勋跳舞空气感 不愧JYP出来的",
+        "onboard_time": 1765719145,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48462,
+        "num": 107296,
+        "word": "暮暮朝朝这是正经吃苹果吗",
+        "onboard_time": 1765735755,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43026,
+        "num": 107294,
+        "word": "澳大利亚路人大爷徒手夺枪",
+        "onboard_time": 1765735095,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42095,
+        "num": 107246,
+        "word": "当暴力萝莉遇上阴湿糙汉",
+        "onboard_time": 1765743374,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41479,
+        "num": 107192,
+        "word": "陈奕恒在韩国训练了三个月",
+        "onboard_time": 1765723524,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40216,
+        "num": 107176,
+        "word": "泰国战斗机轰炸酒店大楼",
+        "onboard_time": 1765716324,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37452,
+        "num": 107150,
+        "word": "张婧仪菜市场妆造",
+        "onboard_time": 1765727482,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34706,
+        "num": 107094,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32846,
+        "num": 107083,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765722203,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31031,
+        "num": 107057,
+        "word": "尚公主",
+        "onboard_time": 1765713984,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29150,
+        "num": 107017,
+        "word": "iPhone面容ID还可以这么用",
+        "onboard_time": 1765721964,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28998,
+        "num": 106972,
+        "word": "张韶涵圈内人脉",
+        "onboard_time": 1765722982,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27391,
+        "num": 106921,
+        "word": "双轨物料",
+        "onboard_time": 1765748894,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26734,
+        "num": 106906,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25444,
+        "num": 106886,
+        "word": "RW战胜JDG",
+        "onboard_time": 1765725563,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25409,
+        "num": 106853,
+        "word": "Peyz泽丽输出高于HLE三C之和",
+        "onboard_time": 1765727721,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25286,
+        "num": 106819,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1765721724,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25076,
+        "num": 106762,
+        "word": "TF家族四代纪录片",
+        "onboard_time": 1765728560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25022,
+        "num": 106726,
+        "word": "大衣哥朱之文辟谣跳楼身亡",
+        "onboard_time": 1765744813,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25000,
+        "num": 106701,
+        "word": "731部队特别移送制度有多残暴",
+        "onboard_time": 1765735155,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
