@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765685057138,
+  "endTime": 1765685617415,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -51,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711752,
+      "num": 228118,
+      "word": "许亚军何晴儿子不久前才亮相杂志",
+      "onboard_time": 1765685002,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680717,
       "num": 212408,
       "word": "王楚钦孙颖莎混双亚军",
       "onboard_time": 1765634964,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 674612,
-      "num": 228118,
-      "word": "许亚军何晴儿子不久前才亮相杂志",
-      "onboard_time": 1765685002,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 668193,
@@ -115,20 +115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398013,
+      "num": 299977,
+      "word": "戒掉熬夜第一步不是早睡",
+      "onboard_time": 1765680743,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386793,
       "num": 258072,
       "word": "向太回应好婆婆形象没了",
       "onboard_time": 1765667897,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381784,
-      "num": 299977,
-      "word": "戒掉熬夜第一步不是早睡",
-      "onboard_time": 1765680743,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 375162,
@@ -171,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301855,
-      "num": 301855,
+      "raw_hot": 306592,
+      "num": 306592,
       "word": "军队文职",
       "onboard_time": 1765683383,
       "rank": 7,
@@ -331,8 +331,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202987,
+      "num": 202987,
+      "word": "导演说尼克从未真正建立亲密关系",
+      "onboard_time": 1765684945,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200825,
-      "num": 200825,
+      "num": 205850,
       "word": "00后好像被分成了三批",
       "onboard_time": 1765682003,
       "rank": 18,
@@ -344,6 +352,14 @@
       "word": "王楚然1秒钟800个表情",
       "onboard_time": 1765683982,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "这三位艺人就这么水灵灵跪下了",
+      "onboard_time": 1765684703,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -361,14 +377,6 @@
       "onboard_time": 1765629083,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190204,
-      "num": 190204,
-      "word": "这三位艺人就这么水灵灵跪下了",
-      "onboard_time": 1765684703,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 189171,
@@ -403,12 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175383,
-      "num": 175383,
+      "raw_hot": 180953,
+      "num": 180953,
       "word": "韩国组合没有庆祝夺冠",
       "onboard_time": 1765682062,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176045,
+      "num": 145533,
+      "word": "比亚迪胜诉龙猪网络诋毁案细节",
+      "onboard_time": 1765685002,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 173672,
@@ -449,6 +465,22 @@
       "onboard_time": 1765670778,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148271,
+      "num": 148271,
+      "word": "23岁状元郎直怼秦桧为岳飞喊冤",
+      "onboard_time": 1765685423,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142622,
+      "num": 205660,
+      "word": "汪苏泷 我不想录这一集了",
+      "onboard_time": 1765685242,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 138944,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122682,
+      "num": 122682,
+      "word": "网红跟歌手真的有壁吗",
+      "onboard_time": 1765684283,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121591,
       "num": 121591,
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
@@ -569,6 +609,14 @@
       "onboard_time": 1765633644,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119288,
+      "num": 119288,
+      "word": "男子掀翻2学生卖糖葫芦摊位被行拘",
+      "onboard_time": 1765685002,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116650,
@@ -620,15 +668,31 @@
     },
     {
       "raw_hot": 100566,
-      "num": 100566,
+      "num": 116124,
       "word": "双轨前八集最好嗑的一个镜头",
       "onboard_time": 1765684583,
       "rank": 34,
       "category": "剧集"
     },
     {
+      "raw_hot": 100546,
+      "num": 117756,
+      "word": "汕头火灾独自逃生10岁女孩整日哭",
+      "onboard_time": 1765683862,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100060,
+      "num": 117333,
+      "word": "军队文职答案",
+      "onboard_time": 1765684703,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99583,
-      "num": 99583,
+      "num": 115604,
       "word": "金铲铲",
       "onboard_time": 1765668316,
       "rank": 49,
@@ -667,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94764,
-      "num": 94764,
-      "word": "网红跟歌手真的有壁吗",
-      "onboard_time": 1765684283,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94354,
       "num": 94354,
       "word": "宝马全新一代X7最新谍照曝光",
@@ -708,7 +764,7 @@
     },
     {
       "raw_hot": 92552,
-      "num": 92552,
+      "num": 114278,
       "word": "卡斯柏变化好大",
       "onboard_time": 1765681764,
       "rank": 41,
@@ -755,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86880,
-      "num": 95701,
-      "word": "军队文职答案",
-      "onboard_time": 1765684703,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 86131,
       "num": 86131,
       "word": "小郑 一天",
@@ -787,20 +835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85323,
+      "num": 115453,
+      "word": "虞书欣姜暮头盔戴反了",
+      "onboard_time": 1765685423,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82987,
       "num": 82987,
       "word": "日媒称绝不能忘却加害历史",
       "onboard_time": 1765677321,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 82834,
-      "num": 92552,
-      "word": "男子掀翻2学生卖糖葫芦摊位被行拘",
-      "onboard_time": 1765685002,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82401,
@@ -833,6 +881,14 @@
       "onboard_time": 1765678281,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77908,
+      "num": 114923,
+      "word": "怎么发嗯不显得冰冷",
+      "onboard_time": 1765683741,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 77804,
@@ -889,14 +945,6 @@
       "onboard_time": 1765635683,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71798,
-      "num": 92536,
-      "word": "怎么发嗯不显得冰冷",
-      "onboard_time": 1765683741,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 71480,
@@ -963,12 +1011,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61671,
-      "num": 94947,
-      "word": "汕头火灾独自逃生10岁女孩整日哭",
-      "onboard_time": 1765683862,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 61402,
+      "num": 119334,
+      "word": "长安二十四计优酷热度破9000",
+      "onboard_time": 1765684945,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 61292,
@@ -1051,22 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55827,
-      "num": 92546,
-      "word": "比亚迪胜诉龙猪网络诋毁案细节",
-      "onboard_time": 1765685002,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 54999,
-      "num": 94799,
-      "word": "长安二十四计优酷热度破9000",
-      "onboard_time": 1765684945,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54521,
       "num": 86265,
       "word": "家属称女婿碾死女儿有故意杀人嫌疑",
@@ -1091,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48742,
+      "num": 196820,
+      "word": "中国留学生亲历美国校园枪击事件",
+      "onboard_time": 1765683862,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48316,
       "num": 61002,
       "word": "美术生就业就是广啊",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1765647016,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43396,
-      "num": 196820,
-      "word": "中国留学生亲历美国校园枪击事件",
-      "onboard_time": 1765683862,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 43247,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1765618281,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 32786,
+      "num": 205714,
+      "word": "体检10年未查出癌症女子再发声",
+      "onboard_time": 1765685063,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32756,
@@ -1283,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21812,
+      "num": 120067,
+      "word": "高校被指缴数万元可消挂科",
+      "onboard_time": 1765685063,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8411,
+      "num": 306702,
+      "word": "北京用未诉先办重新定义城市治理",
+      "onboard_time": 1765685302,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1426,
