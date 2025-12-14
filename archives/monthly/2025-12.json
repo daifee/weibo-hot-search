@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765691025089,
+  "endTime": 1765694391048,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1652,7 +1652,7 @@
     },
     {
       "raw_hot": 911925,
-      "num": 206550,
+      "num": 233481,
       "word": "何晴做颅脑手术后语言表达受影响",
       "onboard_time": 1765689023,
       "rank": 15,
@@ -4147,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540318,
+      "num": 407102,
+      "word": "魏大勋进去daddy出来baby",
+      "onboard_time": 1765691721,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540206,
       "num": 210822,
       "word": "21天不吃糖是什么体验",
@@ -4272,6 +4280,14 @@
       "word": "国乒vs日本",
       "onboard_time": 1764995362,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 529595,
+      "num": 461154,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1765108160,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -5067,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483343,
+      "num": 244003,
+      "word": "霉霉 不上价值直接给钱",
+      "onboard_time": 1765691422,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482558,
       "num": 1073359,
       "word": "假如南京大屠杀没有发生",
@@ -5433,14 +5457,6 @@
       "onboard_time": 1764806720,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 461154,
-      "num": 461154,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1765108160,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 461120,
@@ -6116,7 +6132,7 @@
     },
     {
       "raw_hot": 431063,
-      "num": 208646,
+      "num": 242867,
       "word": "周扬青说3克拉以下建议买培育钻",
       "onboard_time": 1765688902,
       "rank": 16,
@@ -7153,6 +7169,14 @@
       "onboard_time": 1765545505,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385856,
+      "num": 385856,
+      "word": "猪猪侠",
+      "onboard_time": 1765688002,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 385317,
@@ -9233,6 +9257,14 @@
       "onboard_time": 1765497260,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312166,
+      "num": 247585,
+      "word": "何卓佳陪孙颖莎已回京",
+      "onboard_time": 1765691662,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 311593,
@@ -11395,6 +11427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248029,
+      "num": 248029,
+      "word": "2025年度时尚封面人物",
+      "onboard_time": 1765215376,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247800,
       "num": 232470,
       "word": "张本智和一直站在原地不动",
@@ -11651,6 +11691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 242461,
+      "num": 242461,
+      "word": "向佐不会再扮女装",
+      "onboard_time": 1765691721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242399,
       "num": 630594,
       "word": "鹅鸭杀公测定档",
@@ -11857,6 +11905,14 @@
       "onboard_time": 1764751343,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238617,
+      "num": 238617,
+      "word": "牛蛙被小狗吓到扶墙大哭",
+      "onboard_time": 1765692081,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 238330,
@@ -12241,6 +12297,14 @@
       "onboard_time": 1764985400,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231386,
+      "num": 231386,
+      "word": "陈哲远我叫桑延你记住",
+      "onboard_time": 1765693943,
+      "rank": 20,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 231382,
@@ -12804,7 +12868,7 @@
     },
     {
       "raw_hot": 218940,
-      "num": 168141,
+      "num": 231728,
       "word": "中年大厂人离职后都去了哪里",
       "onboard_time": 1765686983,
       "rank": 25,
@@ -14112,6 +14176,14 @@
       "word": "李一桐短发",
       "onboard_time": 1765538600,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203763,
+      "num": 203763,
+      "word": "鞠婧祎 谁说演员不能看镜头",
+      "onboard_time": 1765692501,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -15483,6 +15555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191042,
+      "num": 132828,
+      "word": "邓亚萍郭晶晶同框了",
+      "onboard_time": 1765694002,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190914,
       "num": 332261,
       "word": "王楚钦林诗栋vs篠塚大登户上隼辅",
@@ -15560,6 +15640,14 @@
       "word": "偶遇李嘉格与男友牵手逛街",
       "onboard_time": 1764851722,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190044,
+      "num": 190044,
+      "word": "王玉雯看小说看一半喵上了",
+      "onboard_time": 1765694181,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -16073,6 +16161,14 @@
       "onboard_time": 1764766822,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185793,
+      "num": 185793,
+      "word": "沈梦辰说越来越多厂二代不愿意接班",
+      "onboard_time": 1765691301,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 185660,
@@ -17145,6 +17241,14 @@
       "onboard_time": 1764932781,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175336,
+      "num": 234104,
+      "word": "日本太空航母野心曝光",
+      "onboard_time": 1765689083,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175238,
@@ -18667,14 +18771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162870,
-      "num": 212006,
-      "word": "日本太空航母野心曝光",
-      "onboard_time": 1765689083,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162837,
       "num": 191439,
       "word": "国乒混团世界杯八连胜",
@@ -19273,6 +19369,14 @@
       "onboard_time": 1765534461,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 158250,
+      "num": 158250,
+      "word": "现在就出发下期有陈哲远",
+      "onboard_time": 1765694061,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 158246,
@@ -21603,14 +21707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143707,
-      "num": 211730,
-      "word": "猪猪侠",
-      "onboard_time": 1765688002,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "王楚钦孙颖莎进半决赛",
@@ -22080,6 +22176,14 @@
       "word": "星光大赏女明星星光值TOP3",
       "onboard_time": 1765359625,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140921,
+      "num": 140921,
+      "word": "侯明昊谭松韵演上强制爱了",
+      "onboard_time": 1765693943,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -22875,6 +22979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137012,
+      "num": 137012,
+      "word": "何与 内娱留牌子了",
+      "onboard_time": 1765691900,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136987,
       "num": 590783,
       "word": "孙颖莎回应和王楚钦配合",
@@ -23643,6 +23755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133271,
+      "num": 133271,
+      "word": "警方通报54岁男子持刀行凶致2死",
+      "onboard_time": 1765692802,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 133247,
       "num": 137988,
       "word": "带娃界来了个天才",
@@ -24281,6 +24401,14 @@
       "onboard_time": 1765355781,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130692,
+      "num": 130692,
+      "word": "江西上饶通报望仙谷景区火灾",
+      "onboard_time": 1765688962,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130594,
@@ -26833,6 +26961,14 @@
       "onboard_time": 1765517301,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119813,
+      "num": 119813,
+      "word": "周柯宇 姑姑开门我是过儿",
+      "onboard_time": 1765692562,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119811,
@@ -29755,6 +29891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108823,
+      "num": 108823,
+      "word": "清华教授建议放开禁限摩",
+      "onboard_time": 1765693882,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108817,
       "num": 150275,
       "word": "ChatGPT评21世纪最伟大运动员",
@@ -30297,14 +30441,6 @@
       "onboard_time": 1764754943,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106506,
-      "num": 106506,
-      "word": "江西上饶通报望仙谷景区火灾",
-      "onboard_time": 1765688962,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106488,
@@ -31811,6 +31947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101212,
+      "num": 104787,
+      "word": "马云现身非洲帮扶创业者",
+      "onboard_time": 1765693221,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101174,
       "num": 196490,
       "word": "政府采购评审名单被指照搬人名大全",
@@ -32400,6 +32544,14 @@
       "word": "王鹤润这个腰",
       "onboard_time": 1765179200,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99143,
+      "num": 104785,
+      "word": "王勉自曝自己是恋爱脑",
+      "onboard_time": 1765693342,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -33899,6 +34051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92649,
+      "num": 146622,
+      "word": "高市早苗谬论影响正在日本各地显现",
+      "onboard_time": 1765692863,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92624,
       "num": 92624,
       "word": "国乒混团世界杯七连胜",
@@ -34176,6 +34336,14 @@
       "word": "预制交换礼物",
       "onboard_time": 1765199062,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91625,
+      "num": 104777,
+      "word": "冬天为什么需要戴帽子",
+      "onboard_time": 1765693522,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -34625,6 +34793,14 @@
       "onboard_time": 1764847943,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90066,
+      "num": 104772,
+      "word": "敢翻脸是2025年的顶级心态",
+      "onboard_time": 1765693522,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 90042,
@@ -35523,6 +35699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85664,
+      "num": 104766,
+      "word": "怪不得都说当年的事彼此各有难处",
+      "onboard_time": 1765691003,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85592,
       "num": 193084,
       "word": "李书福称五星只是安全的门槛",
@@ -36099,6 +36283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82857,
+      "num": 104766,
+      "word": "飞起来的樊振东",
+      "onboard_time": 1765692381,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82792,
       "num": 116521,
       "word": "华晨宇因太瘦买不到衣服直呼要增肥",
@@ -36153,6 +36345,14 @@
       "onboard_time": 1764778040,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82509,
+      "num": 104763,
+      "word": "甘肃一地滑坡45户房屋被埋",
+      "onboard_time": 1765692620,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82425,
@@ -37001,14 +37201,6 @@
       "onboard_time": 1764593482,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76874,
-      "num": 85172,
-      "word": "怪不得都说当年的事彼此各有难处",
-      "onboard_time": 1765691003,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 76862,
@@ -39033,6 +39225,14 @@
       "onboard_time": 1765684945,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61379,
+      "num": 104772,
+      "word": "马刺田忌赛马",
+      "onboard_time": 1765692863,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 61301,
@@ -42507,6 +42707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39048,
+      "num": 419150,
+      "word": "揭开日本伪装受害者的真面目",
+      "onboard_time": 1765682243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39021,
       "num": 1147889,
       "word": "48个场景百亿投资向海而兴",
@@ -42569,14 +42777,6 @@
       "onboard_time": 1764924624,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38773,
-      "num": 383360,
-      "word": "揭开日本伪装受害者的真面目",
-      "onboard_time": 1765682243,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38721,
@@ -44571,14 +44771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27493,
-      "num": 61282,
-      "word": "2025年度时尚封面人物",
-      "onboard_time": 1765215376,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 27426,
       "num": 527394,
       "word": "时代少年团的节日桶你有了吗",
@@ -45057,6 +45249,14 @@
       "onboard_time": 1764917542,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24955,
+      "num": 104790,
+      "word": "遇害女子母亲去女儿坟前告知新进展",
+      "onboard_time": 1765693641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24928,
@@ -46865,6 +47065,14 @@
       "onboard_time": 1765663514,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11901,
+      "num": 231481,
+      "word": "央视揭网约货运乱象",
+      "onboard_time": 1765694061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11889,
