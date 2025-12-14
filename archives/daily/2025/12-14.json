@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765694391048,
+  "endTime": 1765695139754,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752574,
+      "num": 752574,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1765692682,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 711752,
       "num": 228118,
       "word": "许亚军何晴儿子不久前才亮相杂志",
@@ -91,28 +99,28 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 560096,
-      "num": 560096,
-      "word": "4斤黄金凤冠展出时被毁谁来赔",
-      "onboard_time": 1765678884,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 609953,
+      "num": 244003,
+      "word": "霉霉 不上价值直接给钱",
+      "onboard_time": 1765691422,
+      "rank": 11,
+      "category": "艺人"
     },
     {
-      "raw_hot": 540318,
-      "num": 407102,
+      "raw_hot": 567001,
+      "num": 567001,
       "word": "魏大勋进去daddy出来baby",
       "onboard_time": 1765691721,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 529595,
-      "num": 255510,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1765692682,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 560096,
+      "num": 560096,
+      "word": "4斤黄金凤冠展出时被毁谁来赔",
+      "onboard_time": 1765678884,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528421,
@@ -129,14 +137,6 @@
       "onboard_time": 1765682784,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 483343,
-      "num": 244003,
-      "word": "霉霉 不上价值直接给钱",
-      "onboard_time": 1765691422,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 479044,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364321,
+      "num": 231386,
+      "word": "陈哲远我叫桑延你记住",
+      "onboard_time": 1765693943,
+      "rank": 20,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 352172,
       "num": 216824,
       "word": "导演说尼克从未真正建立亲密关系",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 312166,
-      "num": 247585,
+      "num": 252304,
       "word": "何卓佳陪孙颖莎已回京",
       "onboard_time": 1765691662,
       "rank": 9,
@@ -273,6 +281,14 @@
       "onboard_time": 1765636642,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288839,
+      "num": 238617,
+      "word": "牛蛙被小狗吓到扶墙大哭",
+      "onboard_time": 1765692081,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 288549,
@@ -387,28 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238617,
-      "num": 238617,
-      "word": "牛蛙被小狗吓到扶墙大哭",
-      "onboard_time": 1765692081,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231812,
       "num": 211695,
       "word": "曾把胸隆炸的网红在泰国坠亡",
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 231386,
-      "num": 231386,
-      "word": "陈哲远我叫桑延你记住",
-      "onboard_time": 1765693943,
-      "rank": 20,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 223991,
@@ -491,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203296,
+      "num": 112156,
+      "word": "林诗栋第四局12比10张本智和",
+      "onboard_time": 1765694422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202362,
+      "num": 202362,
+      "word": "王源初雪cha",
+      "onboard_time": 1765694422,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196768,
       "num": 196768,
       "word": "王楚然1秒钟800个表情",
@@ -515,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194510,
+      "num": 111522,
+      "word": "刘亦菲晒初雪哈哈合照",
+      "onboard_time": 1765694902,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192932,
+      "num": 192932,
+      "word": "王玉雯看小说看一半喵上了",
+      "onboard_time": 1765694181,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191042,
       "num": 132828,
       "word": "邓亚萍郭晶晶同框了",
@@ -529,14 +561,6 @@
       "onboard_time": 1765629083,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190044,
-      "num": 190044,
-      "word": "王玉雯看小说看一半喵上了",
-      "onboard_time": 1765694181,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 189171,
@@ -577,6 +601,14 @@
       "onboard_time": 1765639461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182639,
+      "num": 182639,
+      "word": "侯明昊谭松韵演上强制爱了",
+      "onboard_time": 1765693943,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 176045,
@@ -699,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147171,
+      "num": 147171,
+      "word": "何与 内娱留牌子了",
+      "onboard_time": 1765691900,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144841,
       "num": 144841,
       "word": "用放羊的星星打开双轨",
       "onboard_time": 1765686923,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140921,
-      "num": 140921,
-      "word": "侯明昊谭松韵演上强制爱了",
-      "onboard_time": 1765693943,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 138944,
@@ -737,14 +769,6 @@
       "onboard_time": 1765678703,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137012,
-      "num": 137012,
-      "word": "何与 内娱留牌子了",
-      "onboard_time": 1765691900,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 136130,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 133271,
-      "num": 133271,
+      "num": 175761,
       "word": "警方通报54岁男子持刀行凶致2死",
       "onboard_time": 1765692802,
       "rank": 29,
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96546,
+      "num": 104490,
+      "word": "终于有人把零食说明白了",
+      "onboard_time": 1765694541,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95532,
       "num": 95532,
       "word": "蒯曼描述孙颖莎受伤经过",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1765678281,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77924,
+      "num": 104274,
+      "word": "身体这些不舒服可能是炎症预警",
+      "onboard_time": 1765691721,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77908,
@@ -1699,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39491,
+      "num": 104790,
+      "word": "遇害女子母亲去女儿坟前告知新进展",
+      "onboard_time": 1765693641,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39376,
       "num": 60998,
       "word": "双轨 古早台偶味",
@@ -1708,7 +1756,7 @@
     },
     {
       "raw_hot": 39048,
-      "num": 419150,
+      "num": 628419,
       "word": "揭开日本伪装受害者的真面目",
       "onboard_time": 1765682243,
       "rank": 2,
@@ -1779,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32740,
+      "num": 231481,
+      "word": "央视揭网约货运乱象",
+      "onboard_time": 1765694061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32496,
       "num": 60996,
       "word": "郭艾伦时隔325天重返CBA",
@@ -1843,6 +1899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 27635,
+      "num": 104526,
+      "word": "汕头火灾幸存者称或受浓烟影响更大",
+      "onboard_time": 1765694841,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26274,
       "num": 41824,
       "word": "2025国产剧人气TOP50",
@@ -1857,14 +1921,6 @@
       "onboard_time": 1765682544,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24955,
-      "num": 104790,
-      "word": "遇害女子母亲去女儿坟前告知新进展",
-      "onboard_time": 1765693641,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24052,
@@ -1969,14 +2025,6 @@
       "onboard_time": 1765663514,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11901,
-      "num": 231481,
-      "word": "央视揭网约货运乱象",
-      "onboard_time": 1765694061,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11228,
