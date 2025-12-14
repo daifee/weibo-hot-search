@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765730793159,
+  "endTime": 1765733040147,
   "band_list": [
     {
       "raw_hot": 741920,
@@ -41,6 +41,14 @@
       "onboard_time": 1765725324,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311326,
+      "num": 194398,
+      "word": "美国276斤死刑犯行刑前点奢华盛宴",
+      "onboard_time": 1765729280,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298329,
@@ -163,14 +171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128644,
-      "num": 128644,
-      "word": "美国276斤死刑犯行刑前点奢华盛宴",
-      "onboard_time": 1765729280,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 122857,
       "num": 119663,
       "word": "女子买二手存钱罐开出2千多现金",
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 119170,
-      "num": 119170,
+      "num": 142637,
       "word": "乌克兰已放弃加入北约",
       "onboard_time": 1765720825,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 117578,
+      "word": "4300万网红刘二狗泳池直播被指擦边",
+      "onboard_time": 1765711044,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 114140,
@@ -228,19 +236,11 @@
     },
     {
       "raw_hot": 102933,
-      "num": 102933,
+      "num": 169519,
       "word": "周深用全部身家留下给粉丝的歌",
       "onboard_time": 1765728500,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101844,
-      "num": 101844,
-      "word": "4300万网红刘二狗泳池直播被指擦边",
-      "onboard_time": 1765711044,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 97271,
@@ -283,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84499,
+      "num": 84499,
+      "word": "难怪李雾整宿整宿睡不着觉",
+      "onboard_time": 1765731139,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83535,
       "num": 84483,
       "word": "陈奕恒在韩国训练了三个月",
@@ -305,6 +313,14 @@
       "onboard_time": 1765723943,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77083,
+      "num": 84312,
+      "word": "女子新婚坠亡村干部称双方无其他纠纷",
+      "onboard_time": 1765730422,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73921,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67846,
+      "num": 67846,
+      "word": "林一去祁连家串门了",
+      "onboard_time": 1765732399,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66294,
       "num": 84136,
       "word": "AG获得2025CFS总冠军",
@@ -353,14 +377,6 @@
       "onboard_time": 1765724723,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62515,
-      "num": 84312,
-      "word": "女子新婚坠亡村干部称双方无其他纠纷",
-      "onboard_time": 1765730422,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60795,
@@ -403,10 +419,42 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39466,
+      "num": 59239,
+      "word": "T1夺冠",
+      "onboard_time": 1765715484,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 35066,
+      "num": 59069,
+      "word": "成毅的招商",
+      "onboard_time": 1765732219,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30986,
+      "num": 59039,
+      "word": "回顾2025",
+      "onboard_time": 1765732937,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13252,
       "num": 505127,
       "word": "聚焦经济社会发展",
       "onboard_time": 1765719084,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13002,
+      "num": 204958,
+      "word": "加强商务和金融协同更大力度提振消费",
+      "onboard_time": 1765718544,
       "rank": 2,
       "category": "国内时政"
     }
