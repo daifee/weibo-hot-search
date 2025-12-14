@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765701285799,
+  "endTime": 1765702029019,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 900250,
+      "num": 474052,
+      "word": "外网曝霉霉伴舞每个人分到了500多万",
+      "onboard_time": 1765699221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774967,
       "num": 478861,
       "word": "涉嫌歧视中国人芬兰小姐公开道歉",
@@ -81,14 +89,6 @@
       "onboard_time": 1765692682,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 734880,
-      "num": 474052,
-      "word": "外网曝霉霉伴舞每个人分到了500多万",
-      "onboard_time": 1765699221,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 711752,
@@ -123,20 +123,20 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 629442,
+      "num": 629442,
+      "word": "香港住宅楼起火400多住户凌晨逃生",
+      "onboard_time": 1765696042,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609953,
       "num": 289576,
       "word": "霉霉 不上价值直接给钱",
       "onboard_time": 1765691422,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574936,
-      "num": 574936,
-      "word": "香港住宅楼起火400多住户凌晨逃生",
-      "onboard_time": 1765696042,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567001,
@@ -195,20 +195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487696,
+      "num": 487696,
+      "word": "国家发文禁止亏本卖车",
+      "onboard_time": 1765696223,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 479044,
       "num": 479044,
       "word": "草莓这些年可冤死了",
       "onboard_time": 1765668796,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478916,
-      "num": 478916,
-      "word": "国家发文禁止亏本卖车",
-      "onboard_time": 1765696223,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 457732,
@@ -243,12 +243,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 399751,
+      "num": 213864,
+      "word": "对不起老己",
+      "onboard_time": 1765697482,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398013,
       "num": 299977,
       "word": "戒掉熬夜第一步不是早睡",
       "onboard_time": 1765680743,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394155,
+      "num": 362754,
+      "word": "何晴曾与演员刘威相恋5年",
+      "onboard_time": 1765698982,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 386793,
@@ -275,27 +291,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376060,
+      "num": 354180,
+      "word": "虞书欣回复何与",
+      "onboard_time": 1765697242,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375162,
       "num": 375162,
       "word": "双轨",
       "onboard_time": 1765675761,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 362754,
-      "num": 362754,
-      "word": "何晴曾与演员刘威相恋5年",
-      "onboard_time": 1765698982,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 359570,
-      "num": 354180,
-      "word": "虞书欣回复何与",
-      "onboard_time": 1765697242,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -331,6 +339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 321895,
+      "num": 206598,
+      "word": "最佳入睡时间和睡眠时长",
+      "onboard_time": 1765700123,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309051,
       "num": 208935,
       "word": "王楚钦问孙颖莎脚没事吧",
@@ -353,14 +369,6 @@
       "onboard_time": 1765682902,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301557,
-      "num": 200193,
-      "word": "最佳入睡时间和睡眠时长",
-      "onboard_time": 1765700123,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 293923,
@@ -401,6 +409,14 @@
       "onboard_time": 1765629924,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283699,
+      "num": 475809,
+      "word": "多方回应28岁女教师新婚坠楼身亡",
+      "onboard_time": 1765698381,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283424,
@@ -507,14 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244428,
-      "num": 475809,
-      "word": "多方回应28岁女教师新婚坠楼身亡",
-      "onboard_time": 1765698381,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242461,
       "num": 242461,
       "word": "向佐不会再扮女装",
@@ -553,6 +561,14 @@
       "onboard_time": 1765681884,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221121,
+      "num": 474826,
+      "word": "殡仪馆称次日才接收28岁女教师遗体",
+      "onboard_time": 1765700661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218987,
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211825,
-      "num": 211825,
-      "word": "对不起老己",
-      "onboard_time": 1765697482,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211673,
       "num": 237001,
       "word": "莫雷加德拥抱王楚钦",
@@ -641,6 +649,14 @@
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206552,
+      "num": 206552,
+      "word": "陈小纭身上的诡魅感",
+      "onboard_time": 1765701202,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203763,
@@ -681,6 +697,14 @@
       "onboard_time": 1765698081,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197296,
+      "num": 197296,
+      "word": "偶遇维嘉以为是俄罗斯美女",
+      "onboard_time": 1765701501,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196768,
@@ -755,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187784,
+      "num": 148630,
+      "word": "郭焱谈王楚钦因伤退赛",
+      "onboard_time": 1765701202,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185793,
       "num": 185793,
       "word": "沈梦辰说越来越多厂二代不愿意接班",
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 178704,
-      "num": 178704,
+      "num": 206688,
       "word": "奶茶 流苏",
       "onboard_time": 1765695983,
       "rank": 34,
@@ -809,6 +841,14 @@
       "onboard_time": 1765699401,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176196,
+      "num": 176196,
+      "word": "陈妍希无声哭戏",
+      "onboard_time": 1765701561,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 176045,
@@ -891,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162014,
-      "num": 474826,
-      "word": "殡仪馆称次日才接收28岁女教师遗体",
-      "onboard_time": 1765700661,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159389,
       "num": 158431,
       "word": "美军被曝突袭从中国驶往伊朗货轮",
@@ -971,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148582,
-      "num": 148582,
-      "word": "陈小纭身上的诡魅感",
-      "onboard_time": 1765701202,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148271,
       "num": 148271,
       "word": "23岁状元郎直怼秦桧为岳飞喊冤",
@@ -993,6 +1017,14 @@
       "onboard_time": 1765691900,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146639,
+      "num": 146639,
+      "word": "得闲谨制台词出现人传人现象",
+      "onboard_time": 1765701321,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 144841,
@@ -1091,6 +1123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132223,
+      "num": 132223,
+      "word": "万岁山景区回应演员被冻成冰雕",
+      "onboard_time": 1765701020,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131917,
+      "num": 128942,
+      "word": "莫雷加德说退赛也是为了职业生涯更长久",
+      "onboard_time": 1765700602,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130982,
       "num": 130982,
       "word": "第一次见到雪的猫",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1765688962,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130498,
-      "num": 128942,
-      "word": "莫雷加德说退赛也是为了职业生涯更长久",
-      "onboard_time": 1765700602,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 130235,
@@ -1251,20 +1291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118522,
-      "num": 118522,
-      "word": "郭焱谈王楚钦因伤退赛",
-      "onboard_time": 1765701202,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116650,
       "num": 66837,
       "word": "向太回应向佐泪崩谈娱乐圈复杂",
       "onboard_time": 1765662373,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116411,
+      "num": 110746,
+      "word": "王楚钦疑似背部受伤",
+      "onboard_time": 1765699702,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 114718,
@@ -1339,20 +1379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107763,
-      "num": 106190,
-      "word": "王楚钦疑似背部受伤",
-      "onboard_time": 1765699702,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 106695,
+      "num": 106695,
+      "word": "第一次看到这么小的海豚宝宝",
+      "onboard_time": 1765701681,
+      "rank": 44,
+      "category": "幽默"
     },
     {
-      "raw_hot": 106731,
-      "num": 106731,
-      "word": "万岁山景区回应演员被冻成冰雕",
-      "onboard_time": 1765701020,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 104594,
+      "num": 104594,
+      "word": "肠包蛋也进入瑜伽裤时代",
+      "onboard_time": 1765701622,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 103665,
@@ -1515,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95075,
+      "num": 99761,
+      "word": "华为Mate80掉湖里51小时捞起还能用",
+      "onboard_time": 1765701981,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94354,
       "num": 94354,
       "word": "宝马全新一代X7最新谍照曝光",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1765690402,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90953,
+      "num": 206611,
+      "word": "湖南跨年也是有综艺节目单了",
+      "onboard_time": 1765701202,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 90893,
@@ -1843,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72519,
+      "num": 206649,
+      "word": "华晨宇 我怎么谁都锐评",
+      "onboard_time": 1765701321,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72456,
       "num": 85950,
       "word": "长安二十四计预期违背这块",
@@ -1873,14 +1937,6 @@
       "onboard_time": 1765654154,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69348,
-      "num": 127580,
-      "word": "湖南跨年也是有综艺节目单了",
-      "onboard_time": 1765701202,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 69184,
@@ -1929,6 +1985,14 @@
       "onboard_time": 1765672280,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63133,
+      "num": 119774,
+      "word": "高叶美丽冻人具象化",
+      "onboard_time": 1765701142,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 63097,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1765624461,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41213,
-      "num": 118523,
-      "word": "高叶美丽冻人具象化",
-      "onboard_time": 1765701142,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 40709,
@@ -2403,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20840,
+      "num": 119863,
+      "word": "起底爬虫市场非法饲养现状",
+      "onboard_time": 1765700841,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15952,
-      "num": 118533,
-      "word": "起底爬虫市场非法饲养现状",
-      "onboard_time": 1765700841,
-      "rank": 38,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 15096,
