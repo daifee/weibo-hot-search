@@ -1,0 +1,410 @@
+{
+  "runTime": 1765685057138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6389180,
+        "num": 6389180,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658887,
+        "num": 658887,
+        "word": "日本开始军事介入南海",
+        "onboard_time": 1765674919,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44819,
+        "num": 539333,
+        "word": "我们珍爱和平更有能力捍卫和平",
+        "onboard_time": 1765682544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 668193,
+        "num": 530799,
+        "word": "何晴被曝患脑瘤后淡出演艺圈",
+        "onboard_time": 1765683443,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488633,
+        "num": 488633,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470178,
+        "num": 470178,
+        "word": "好友证实女教师生前发文称不想结婚",
+        "onboard_time": 1765682784,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396621,
+        "num": 396621,
+        "word": "何晴",
+        "onboard_time": 1765675280,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301855,
+        "num": 301855,
+        "word": "军队文职",
+        "onboard_time": 1765683383,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25103,
+        "num": 301739,
+        "word": "残特奥赛场故事值得更多人看见",
+        "onboard_time": 1765682544,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301738,
+        "num": 301738,
+        "word": "恋与深空",
+        "onboard_time": 1765682902,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1796212,
+        "num": 301184,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381784,
+        "num": 299977,
+        "word": "戒掉熬夜第一步不是早睡",
+        "onboard_time": 1765680743,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288549,
+        "num": 288549,
+        "word": "不齐舞团创始人瞒着母亲做开颅手术",
+        "onboard_time": 1765679062,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270139,
+        "num": 270139,
+        "word": "不交物业费和交物业费的都沉默了",
+        "onboard_time": 1765676841,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230832,
+        "num": 230832,
+        "word": "草莓这些年可冤死了",
+        "onboard_time": 1765668796,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674612,
+        "num": 228118,
+        "word": "许亚军何晴儿子不久前才亮相杂志",
+        "onboard_time": 1765685002,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223991,
+        "num": 223991,
+        "word": "李现 故宫刺客",
+        "onboard_time": 1765680503,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221849,
+        "num": 221849,
+        "word": "TF家族新音抢票",
+        "onboard_time": 1765681884,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200825,
+        "num": 200825,
+        "word": "00后好像被分成了三批",
+        "onboard_time": 1765682003,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43396,
+        "num": 196820,
+        "word": "中国留学生亲历美国校园枪击事件",
+        "onboard_time": 1765683862,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196768,
+        "num": 196768,
+        "word": "王楚然1秒钟800个表情",
+        "onboard_time": 1765683982,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192046,
+        "num": 192046,
+        "word": "星光大赏",
+        "onboard_time": 1765677501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190204,
+        "num": 190204,
+        "word": "这三位艺人就这么水灵灵跪下了",
+        "onboard_time": 1765684703,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184339,
+        "num": 184339,
+        "word": "幂级恐惧犯了",
+        "onboard_time": 1765676600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175383,
+        "num": 175383,
+        "word": "韩国组合没有庆祝夺冠",
+        "onboard_time": 1765682062,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172697,
+        "num": 172697,
+        "word": "iPhone17中国市场卖爆",
+        "onboard_time": 1765676781,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150354,
+        "num": 150354,
+        "word": "花一百万就给我看这个",
+        "onboard_time": 1765684223,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 144340,
+        "word": "探访小米公司不让卖小米涉事村庄",
+        "onboard_time": 1765676480,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138944,
+        "num": 138944,
+        "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
+        "onboard_time": 1765680803,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134541,
+        "num": 134541,
+        "word": "独居老人百万房产赠侄女因逾期失效",
+        "onboard_time": 1765677441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133230,
+        "num": 133230,
+        "word": "颜人中和周杰伦打球兴奋到腿软",
+        "onboard_time": 1765683201,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "黑色长款羽绒服搭配思路",
+        "onboard_time": 1765681222,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 124998,
+        "num": 124998,
+        "word": "浙江跨晚哪个神人想的官宣方式",
+        "onboard_time": 1765683622,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117934,
+        "num": 117934,
+        "word": "向太回应好婆婆形象没了",
+        "onboard_time": 1765667897,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100566,
+        "num": 100566,
+        "word": "双轨前八集最好嗑的一个镜头",
+        "onboard_time": 1765684583,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 99583,
+        "word": "金铲铲",
+        "onboard_time": 1765668316,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86880,
+        "num": 95701,
+        "word": "军队文职答案",
+        "onboard_time": 1765684703,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61671,
+        "num": 94947,
+        "word": "汕头火灾独自逃生10岁女孩整日哭",
+        "onboard_time": 1765683862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54999,
+        "num": 94799,
+        "word": "长安二十四计优酷热度破9000",
+        "onboard_time": 1765684945,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94764,
+        "num": 94764,
+        "word": "网红跟歌手真的有壁吗",
+        "onboard_time": 1765684283,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94253,
+        "num": 94253,
+        "word": "这部电影一个圣母都没有",
+        "onboard_time": 1765685002,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92552,
+        "num": 92552,
+        "word": "卡斯柏变化好大",
+        "onboard_time": 1765681764,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82834,
+        "num": 92552,
+        "word": "男子掀翻2学生卖糖葫芦摊位被行拘",
+        "onboard_time": 1765685002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55827,
+        "num": 92546,
+        "word": "比亚迪胜诉龙猪网络诋毁案细节",
+        "onboard_time": 1765685002,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77604,
+        "num": 92546,
+        "word": "是不是养猫的都这样",
+        "onboard_time": 1765684163,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74881,
+        "num": 92543,
+        "word": "白鹿 骗完你的骗你的",
+        "onboard_time": 1765635503,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87382,
+        "num": 92541,
+        "word": "虞书欣何与的眼神戏",
+        "onboard_time": 1765678402,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72407,
+        "num": 92536,
+        "word": "个头更大的草莓真是无辜的",
+        "onboard_time": 1765678402,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 71798,
+        "num": 92536,
+        "word": "怎么发嗯不显得冰冷",
+        "onboard_time": 1765683741,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75446,
+        "num": 92530,
+        "word": "气血不足试试这样煮鸡蛋",
+        "onboard_time": 1765683443,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}

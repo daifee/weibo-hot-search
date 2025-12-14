@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765679751022,
+  "endTime": 1765685057138,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -12,9 +12,17 @@
     },
     {
       "raw_hot": 2943520,
-      "num": 262634,
+      "num": 396621,
       "word": "何晴",
       "onboard_time": 1765675280,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1796212,
+      "num": 301184,
+      "word": "何晴 许亚军",
+      "onboard_time": 1765679903,
       "rank": 10,
       "category": "艺人"
     },
@@ -51,12 +59,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674612,
+      "num": 228118,
+      "word": "许亚军何晴儿子不久前才亮相杂志",
+      "onboard_time": 1765685002,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 668193,
+      "num": 530799,
+      "word": "何晴被曝患脑瘤后淡出演艺圈",
+      "onboard_time": 1765683443,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 649573,
       "num": 114135,
       "word": "曝双顶流恋情",
       "onboard_time": 1765631544,
       "rank": 20,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 488633,
+      "num": 488633,
+      "word": "4斤黄金凤冠展出时被毁谁来赔",
+      "onboard_time": 1765678884,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479044,
@@ -67,8 +99,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470178,
+      "num": 470178,
+      "word": "好友证实女教师生前发文称不想结婚",
+      "onboard_time": 1765682784,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452131,
-      "num": 261575,
+      "num": 270139,
       "word": "不交物业费和交物业费的都沉默了",
       "onboard_time": 1765676841,
       "rank": 14,
@@ -81,6 +121,14 @@
       "onboard_time": 1765667897,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381784,
+      "num": 299977,
+      "word": "戒掉熬夜第一步不是早睡",
+      "onboard_time": 1765680743,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 375162,
@@ -108,7 +156,7 @@
     },
     {
       "raw_hot": 322266,
-      "num": 171458,
+      "num": 172697,
       "word": "iPhone17中国市场卖爆",
       "onboard_time": 1765676781,
       "rank": 20,
@@ -121,6 +169,22 @@
       "onboard_time": 1765637303,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301855,
+      "num": 301855,
+      "word": "军队文职",
+      "onboard_time": 1765683383,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 301738,
+      "num": 301738,
+      "word": "恋与深空",
+      "onboard_time": 1765682902,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 293923,
@@ -137,6 +201,14 @@
       "onboard_time": 1765636642,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288549,
+      "num": 288549,
+      "word": "不齐舞团创始人瞒着母亲做开颅手术",
+      "onboard_time": 1765679062,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 285975,
@@ -219,6 +291,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223991,
+      "num": 223991,
+      "word": "李现 故宫刺客",
+      "onboard_time": 1765680503,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221849,
+      "num": 221849,
+      "word": "TF家族新音抢票",
+      "onboard_time": 1765681884,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215504,
       "num": 215504,
       "word": "女子体检10年没查出癌症最新进展",
@@ -243,12 +331,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205599,
-      "num": 205599,
-      "word": "4斤黄金凤冠展出时被毁谁来赔",
-      "onboard_time": 1765678884,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 200825,
+      "num": 200825,
+      "word": "00后好像被分成了三批",
+      "onboard_time": 1765682003,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 196768,
+      "num": 196768,
+      "word": "王楚然1秒钟800个表情",
+      "onboard_time": 1765683982,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 195841,
@@ -265,6 +361,14 @@
       "onboard_time": 1765629083,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190204,
+      "num": 190204,
+      "word": "这三位艺人就这么水灵灵跪下了",
+      "onboard_time": 1765684703,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 189171,
@@ -299,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175383,
+      "num": 175383,
+      "word": "韩国组合没有庆祝夺冠",
+      "onboard_time": 1765682062,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173672,
       "num": 173672,
       "word": "10人聚餐逃单店主称已收到转账",
       "onboard_time": 1765640421,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172319,
-      "num": 172319,
-      "word": "不齐舞团创始人瞒着母亲做开颅手术",
-      "onboard_time": 1765679062,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 164264,
@@ -331,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150354,
+      "num": 150354,
+      "word": "花一百万就给我看这个",
+      "onboard_time": 1765684223,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149662,
       "num": 149662,
       "word": "张艺兴只有22秒的镜头",
       "onboard_time": 1765670778,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138944,
+      "num": 138944,
+      "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
+      "onboard_time": 1765680803,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 137370,
@@ -369,6 +489,22 @@
       "onboard_time": 1765677681,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133230,
+      "num": 133230,
+      "word": "颜人中和周杰伦打球兴奋到腿软",
+      "onboard_time": 1765683201,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130235,
+      "num": 130235,
+      "word": "黑色长款羽绒服搭配思路",
+      "onboard_time": 1765681222,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 129237,
@@ -409,6 +545,14 @@
       "onboard_time": 1765668796,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124998,
+      "num": 124998,
+      "word": "浙江跨晚哪个神人想的官宣方式",
+      "onboard_time": 1765683622,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 121591,
@@ -475,6 +619,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100566,
+      "num": 100566,
+      "word": "双轨前八集最好嗑的一个镜头",
+      "onboard_time": 1765684583,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99583,
+      "num": 99583,
+      "word": "金铲铲",
+      "onboard_time": 1765668316,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99177,
       "num": 99177,
       "word": "六级答案",
@@ -507,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94764,
+      "num": 94764,
+      "word": "网红跟歌手真的有壁吗",
+      "onboard_time": 1765684283,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94354,
       "num": 94354,
       "word": "宝马全新一代X7最新谍照曝光",
       "onboard_time": 1765677741,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 94253,
+      "num": 94253,
+      "word": "这部电影一个圣母都没有",
+      "onboard_time": 1765685002,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 93875,
@@ -529,6 +705,14 @@
       "onboard_time": 1765640660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92552,
+      "num": 92552,
+      "word": "卡斯柏变化好大",
+      "onboard_time": 1765681764,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 92414,
@@ -571,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86880,
+      "num": 95701,
+      "word": "军队文职答案",
+      "onboard_time": 1765684703,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 86131,
       "num": 86131,
       "word": "小郑 一天",
@@ -601,6 +793,14 @@
       "onboard_time": 1765677321,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82834,
+      "num": 92552,
+      "word": "男子掀翻2学生卖糖葫芦摊位被行拘",
+      "onboard_time": 1765685002,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82401,
@@ -643,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77604,
+      "num": 92546,
+      "word": "是不是养猫的都这样",
+      "onboard_time": 1765684163,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76586,
       "num": 86011,
       "word": "经销商称收到贵州茅台停货通知",
@@ -659,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75446,
+      "num": 92530,
+      "word": "气血不足试试这样煮鸡蛋",
+      "onboard_time": 1765683443,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
@@ -673,6 +889,14 @@
       "onboard_time": 1765635683,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71798,
+      "num": 92536,
+      "word": "怎么发嗯不显得冰冷",
+      "onboard_time": 1765683741,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 71480,
@@ -737,6 +961,14 @@
       "onboard_time": 1765630462,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61671,
+      "num": 94947,
+      "word": "汕头火灾独自逃生10岁女孩整日哭",
+      "onboard_time": 1765683862,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61292,
@@ -819,12 +1051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54860,
-      "num": 54860,
-      "word": "金铲铲",
-      "onboard_time": 1765668316,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 55827,
+      "num": 92546,
+      "word": "比亚迪胜诉龙猪网络诋毁案细节",
+      "onboard_time": 1765685002,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 54999,
+      "num": 94799,
+      "word": "长安二十四计优酷热度破9000",
+      "onboard_time": 1765684945,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 54521,
@@ -859,12 +1099,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44819,
+      "num": 539333,
+      "word": "我们珍爱和平更有能力捍卫和平",
+      "onboard_time": 1765682544,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44615,
       "num": 47688,
       "word": "刘芮麟也在嗑陈妍希周柯宇",
       "onboard_time": 1765647016,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43396,
+      "num": 196820,
+      "word": "中国留学生亲历美国校园枪击事件",
+      "onboard_time": 1765683862,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43247,
@@ -1001,6 +1257,14 @@
       "onboard_time": 1765655594,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25103,
+      "num": 301739,
+      "word": "残特奥赛场故事值得更多人看见",
+      "onboard_time": 1765682544,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24052,
