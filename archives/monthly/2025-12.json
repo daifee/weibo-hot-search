@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765726819095,
+  "endTime": 1765729974716,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1732,7 +1732,7 @@
     },
     {
       "raw_hot": 907575,
-      "num": 513739,
+      "num": 840109,
       "word": "王皓生气了",
       "onboard_time": 1765724962,
       "rank": 3,
@@ -5689,6 +5689,14 @@
       "onboard_time": 1764723861,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 463556,
+      "num": 219989,
+      "word": "张本智和窘态百出",
+      "onboard_time": 1765725324,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 463006,
@@ -12488,14 +12496,6 @@
       "word": "张本智和说樊振东是自己的偶像",
       "onboard_time": 1765499840,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 239550,
-      "num": 219989,
-      "word": "张本智和窘态百出",
-      "onboard_time": 1765725324,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -24211,6 +24211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137524,
+      "num": 137524,
+      "word": "张婧仪菜市场妆造",
+      "onboard_time": 1765727482,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137512,
       "num": 137512,
       "word": "声生不息认证张艺兴华流小骄傲",
@@ -25137,6 +25145,14 @@
       "onboard_time": 1765113502,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133367,
+      "num": 133367,
+      "word": "无双 不开龙",
+      "onboard_time": 1765726223,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 133337,
@@ -26377,14 +26393,6 @@
       "onboard_time": 1765372342,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128407,
-      "num": 128407,
-      "word": "无双 不开龙",
-      "onboard_time": 1765726223,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 128404,
@@ -33131,6 +33139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102933,
+      "num": 102933,
+      "word": "周深用全部身家留下给粉丝的歌",
+      "onboard_time": 1765728500,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102922,
       "num": 102922,
       "word": "秋冬丸子头最好看的6种扎法",
@@ -34803,6 +34819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97271,
+      "num": 97271,
+      "word": "TF家族四代纪录片",
+      "onboard_time": 1765728560,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97263,
       "num": 213725,
       "word": "TheShy谈重返赛场",
@@ -35793,6 +35817,14 @@
       "onboard_time": 1765101921,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93265,
+      "num": 93265,
+      "word": "小洛熙主刀医生被暂停诊疗",
+      "onboard_time": 1765728021,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93255,
@@ -39451,6 +39483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75398,
+      "num": 82928,
+      "word": "张本智和夺冠后致敬樊振东",
+      "onboard_time": 1765725262,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75324,
       "num": 102237,
       "word": "2025年底了我还是一个人",
@@ -40451,6 +40491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67960,
+      "num": 83127,
+      "word": "那英在cos王菲还是窦靖童呀",
+      "onboard_time": 1765727601,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67943,
       "num": 822068,
       "word": "尔滨雪人先生即将上线",
@@ -40656,6 +40704,14 @@
       "word": "碾压妻子致死男子还有82天出狱",
       "onboard_time": 1765639282,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66536,
+      "num": 82990,
+      "word": "火流星",
+      "onboard_time": 1765727302,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -42017,6 +42073,14 @@
       "onboard_time": 1765008923,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55744,
+      "num": 83054,
+      "word": "美国276斤死刑犯行刑前点奢华盛宴",
+      "onboard_time": 1765729280,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55728,

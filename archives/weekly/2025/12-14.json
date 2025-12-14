@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765726819095,
+  "endTime": 1765729974716,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 907575,
-      "num": 513739,
+      "num": 840109,
       "word": "王皓生气了",
       "onboard_time": 1765724962,
       "rank": 3,
@@ -433,6 +433,14 @@
       "onboard_time": 1765668796,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463556,
+      "num": 219989,
+      "word": "张本智和窘态百出",
+      "onboard_time": 1765725324,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 457732,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1765691721,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239550,
-      "num": 219989,
-      "word": "张本智和窘态百出",
-      "onboard_time": 1765725324,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 231812,
@@ -2139,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137524,
+      "num": 137524,
+      "word": "张婧仪菜市场妆造",
+      "onboard_time": 1765727482,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137491,
       "num": 137491,
       "word": "声鸣远扬",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1765695441,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133367,
+      "num": 133367,
+      "word": "无双 不开龙",
+      "onboard_time": 1765726223,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 133271,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1765714404,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 128407,
-      "num": 128407,
-      "word": "无双 不开龙",
-      "onboard_time": 1765726223,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 128238,
@@ -2795,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102933,
+      "num": 102933,
+      "word": "周深用全部身家留下给粉丝的歌",
+      "onboard_time": 1765728500,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102691,
       "num": 102691,
       "word": "女性养肝血推荐四大宝",
@@ -2963,6 +2979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97271,
+      "num": 97271,
+      "word": "TF家族四代纪录片",
+      "onboard_time": 1765728560,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97195,
       "num": 97195,
       "word": "我们近视患者是这样的",
@@ -3065,6 +3089,14 @@
       "onboard_time": 1765711224,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93265,
+      "num": 93265,
+      "word": "小洛熙主刀医生被暂停诊疗",
+      "onboard_time": 1765728021,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93046,
@@ -3435,6 +3467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75398,
+      "num": 82928,
+      "word": "张本智和夺冠后致敬樊振东",
+      "onboard_time": 1765725262,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
@@ -3499,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67960,
+      "num": 83127,
+      "word": "那英在cos王菲还是窦靖童呀",
+      "onboard_time": 1765727601,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67660,
       "num": 67660,
       "word": "一条毛巾就能高效练背",
@@ -3512,6 +3560,14 @@
       "word": "碾压妻子致死男子还有82天出狱",
       "onboard_time": 1765639282,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66536,
+      "num": 82990,
+      "word": "火流星",
+      "onboard_time": 1765727302,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3651,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58900,
+      "num": 82488,
+      "word": "不二之臣",
+      "onboard_time": 1765712784,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58729,
       "num": 205866,
       "word": "罗永浩说豪华新能源就看沃尔沃XC70",
@@ -3697,6 +3761,14 @@
       "onboard_time": 1765630762,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55744,
+      "num": 83054,
+      "word": "美国276斤死刑犯行刑前点奢华盛宴",
+      "onboard_time": 1765729280,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54994,
