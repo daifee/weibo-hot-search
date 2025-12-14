@@ -1,0 +1,410 @@
+{
+  "runTime": 1765711422249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873343,
+        "num": 1139734,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440972,
+        "num": 440972,
+        "word": "4斤黄金凤冠被毁业内称重做20万起",
+        "onboard_time": 1765703782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3647,
+        "num": 397117,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387031,
+        "num": 387031,
+        "word": "悉尼邦迪滩枪击事件10人死亡",
+        "onboard_time": 1765708522,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249116,
+        "num": 249116,
+        "word": "国乒男单无缘5连冠",
+        "onboard_time": 1765705040,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7294726,
+        "num": 7294726,
+        "word": "张艺兴发文道歉",
+        "onboard_time": 1765708042,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 444856,
+        "num": 248248,
+        "word": "何炅 已经在努力劝架了",
+        "onboard_time": 1765703902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240576,
+        "num": 240576,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42503,
+        "num": 239962,
+        "word": "雪后大范围回暖来了",
+        "onboard_time": 1765702764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178474,
+        "num": 239404,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1207979,
+        "num": 238375,
+        "word": "张艺兴 国家话剧院活动",
+        "onboard_time": 1765708703,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 825650,
+        "num": 237083,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 559321,
+        "num": 236420,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467107,
+        "num": 234812,
+        "word": "28岁坠亡女子曾以岗位第一考上教师",
+        "onboard_time": 1765705341,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311659,
+        "num": 233912,
+        "word": "张本智和又又又致敬樊振东",
+        "onboard_time": 1765703180,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276556,
+        "num": 233094,
+        "word": "悉尼",
+        "onboard_time": 1765705281,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269271,
+        "num": 232050,
+        "word": "4300万网红刘二狗泳池直播被指擦边",
+        "onboard_time": 1765711044,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241954,
+        "num": 231200,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230825,
+        "num": 230825,
+        "word": "何晴最后一次公开露面",
+        "onboard_time": 1765709842,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190644,
+        "num": 222881,
+        "word": "女子结婚14年被家暴13年",
+        "onboard_time": 1765709542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261555,
+        "num": 220483,
+        "word": "偶遇维嘉以为是俄罗斯美女",
+        "onboard_time": 1765701501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217441,
+        "num": 217441,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215589,
+        "num": 215589,
+        "word": "下降体脂率最快的6个方法",
+        "onboard_time": 1765706722,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204541,
+        "num": 204541,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 203309,
+        "word": "仙逆",
+        "onboard_time": 1765709363,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 202828,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202442,
+        "num": 202442,
+        "word": "李现拍的雪后故宫",
+        "onboard_time": 1765710623,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178790,
+        "num": 178790,
+        "word": "王楚钦孙颖莎本月还要打乒超",
+        "onboard_time": 1765708643,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "第一次在谢娜脸上看到无助",
+        "onboard_time": 1765704082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160903,
+        "num": 160903,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160483,
+        "num": 160483,
+        "word": "宝宝你才两个月脚怎么就这么大了",
+        "onboard_time": 1765709782,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175914,
+        "num": 160411,
+        "word": "网传杨紫李现将三搭",
+        "onboard_time": 1765708463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157920,
+        "num": 157920,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145181,
+        "num": 145181,
+        "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
+        "onboard_time": 1765703543,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141769,
+        "num": 141769,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1765710505,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140533,
+        "num": 140533,
+        "word": "核心员工离职前骂了公司所有人",
+        "onboard_time": 1765709484,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136579,
+        "num": 136579,
+        "word": "厕所安装吸烟会变透明玻璃",
+        "onboard_time": 1765710202,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "好喜欢充满生命力又可爱的人",
+        "onboard_time": 1765710923,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61373,
+        "num": 120401,
+        "word": "36岁男子追求43岁女子称姐姐不作",
+        "onboard_time": 1765710262,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32277,
+        "num": 120340,
+        "word": "女子称网购的坚果上有白色痰状物",
+        "onboard_time": 1765710322,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120316,
+        "num": 120316,
+        "word": "第一批短剧受害者出现了",
+        "onboard_time": 1765699401,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 119567,
+        "word": "关晓彤淡淡的就很好",
+        "onboard_time": 1765702222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 119092,
+        "word": "陈伟霆 怎么可能有剧本",
+        "onboard_time": 1765708583,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116128,
+        "num": 116128,
+        "word": "美伢回应闭店",
+        "onboard_time": 1765710382,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113545,
+        "num": 113545,
+        "word": "T1对战HLE",
+        "onboard_time": 1765703902,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41575,
+        "num": 102179,
+        "word": "路人从邦迪枪案凶手背后成功夺枪",
+        "onboard_time": 1765709002,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98386,
+        "num": 98386,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97290,
+        "num": 97290,
+        "word": "澳枪击事件黑衣人开枪瞬间曝光",
+        "onboard_time": 1765710202,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96053,
+        "num": 96053,
+        "word": "DYG道歉",
+        "onboard_time": 1765707922,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93774,
+        "num": 93774,
+        "word": "被labubu吓到躲起来的小比格",
+        "onboard_time": 1765711224,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记深刻解析因地制宜#"
+    }
+  }
+}

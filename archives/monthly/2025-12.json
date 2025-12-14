@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765709066886,
+  "endTime": 1765711422249,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7294726,
+      "num": 7294726,
+      "word": "张艺兴发文道歉",
+      "onboard_time": 1765708042,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 6156148,
       "num": 6156148,
       "word": "六级",
@@ -121,14 +129,6 @@
       "onboard_time": 1765628361,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3471646,
-      "num": 614610,
-      "word": "张艺兴发文道歉",
-      "onboard_time": 1765708042,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 3471249,
@@ -985,6 +985,14 @@
       "onboard_time": 1764581302,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1207979,
+      "num": 238375,
+      "word": "张艺兴 国家话剧院活动",
+      "onboard_time": 1765708703,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 1190318,
@@ -2041,6 +2049,14 @@
       "onboard_time": 1764749963,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 825650,
+      "num": 270596,
+      "word": "美伢要闭店了",
+      "onboard_time": 1765707561,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 824680,
@@ -3107,14 +3123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 640959,
-      "num": 270596,
-      "word": "美伢要闭店了",
-      "onboard_time": 1765707561,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 640303,
       "num": 248389,
       "word": "使馆人员带蓝战非到安全屋",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1764664402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559321,
+      "num": 236420,
+      "word": "陈妍希 香奈儿老了还是香奈儿",
+      "onboard_time": 1765710322,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 558153,
@@ -7297,6 +7313,14 @@
       "onboard_time": 1764835461,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387031,
+      "num": 387031,
+      "word": "悉尼邦迪滩枪击事件10人死亡",
+      "onboard_time": 1765708522,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 386893,
@@ -10827,6 +10851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269271,
+      "num": 232050,
+      "word": "4300万网红刘二狗泳池直播被指擦边",
+      "onboard_time": 1765711044,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 269150,
       "num": 594827,
       "word": "VOGUE预告",
@@ -12603,6 +12635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230825,
+      "num": 230825,
+      "word": "何晴最后一次公开露面",
+      "onboard_time": 1765709842,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230686,
       "num": 230686,
       "word": "2岁女童米粒坠亡5年后",
@@ -12857,14 +12897,6 @@
       "onboard_time": 1765529303,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 225757,
-      "num": 225757,
-      "word": "张艺兴 国家话剧院活动",
-      "onboard_time": 1765708703,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 225645,
@@ -13385,6 +13417,14 @@
       "onboard_time": 1765095681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215589,
+      "num": 215589,
+      "word": "下降体脂率最快的6个方法",
+      "onboard_time": 1765706722,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 215240,
@@ -14723,6 +14763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202442,
+      "num": 202442,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202438,
       "num": 1012830,
       "word": "孙颖莎回应比赛拖场",
@@ -15987,6 +16035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190644,
+      "num": 222881,
+      "word": "女子结婚14年被家暴13年",
+      "onboard_time": 1765709542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190421,
       "num": 190421,
       "word": "为什么年轻人越来越接受国产车了",
@@ -16280,6 +16336,14 @@
       "word": "龙族第二季大结局",
       "onboard_time": 1765510760,
       "rank": 27,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 188162,
+      "num": 203309,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 48,
       "category": "动漫"
     },
     {
@@ -17339,20 +17403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178936,
-      "num": 178936,
-      "word": "下降体脂率最快的6个方法",
-      "onboard_time": 1765706722,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 178883,
       "num": 178883,
       "word": "六级作文题目",
       "onboard_time": 1765621401,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 178790,
+      "num": 178790,
+      "word": "王楚钦孙颖莎本月还要打乒超",
+      "onboard_time": 1765708643,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178771,
@@ -19545,6 +19609,14 @@
       "onboard_time": 1765380441,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160483,
+      "num": 160483,
+      "word": "宝宝你才两个月脚怎么就这么大了",
+      "onboard_time": 1765709782,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 160474,
@@ -21883,14 +21955,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 145644,
-      "num": 145644,
-      "word": "仙逆",
-      "onboard_time": 1764500120,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "汪苏泷杭州演唱会",
@@ -22539,6 +22603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141769,
+      "num": 141769,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1764825800,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141746,
       "num": 191753,
       "word": "这届年轻人靠AI认知差赚了多少钱",
@@ -22793,6 +22865,14 @@
       "onboard_time": 1764739640,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140533,
+      "num": 140533,
+      "word": "核心员工离职前骂了公司所有人",
+      "onboard_time": 1765709484,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 140468,
@@ -23379,14 +23459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137606,
-      "num": 137606,
-      "word": "王楚钦孙颖莎本月还要打乒超",
-      "onboard_time": 1765708643,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137598,
       "num": 193422,
       "word": "日籍八路军战士之子发声",
@@ -23585,6 +23657,14 @@
       "onboard_time": 1764672562,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136579,
+      "num": 136579,
+      "word": "厕所安装吸烟会变透明玻璃",
+      "onboard_time": 1765710202,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136574,
@@ -26971,6 +27051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121973,
+      "num": 121973,
+      "word": "好喜欢充满生命力又可爱的人",
+      "onboard_time": 1765710923,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121944,
       "num": 208524,
       "word": "中国首款自研量产TCR赛车亮相",
@@ -27385,14 +27473,6 @@
       "onboard_time": 1765706360,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120579,
-      "num": 120579,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1764825800,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 120559,
@@ -27880,6 +27960,14 @@
       "word": "尖叫之夜预测",
       "onboard_time": 1764989121,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119092,
+      "num": 119092,
+      "word": "陈伟霆 怎么可能有剧本",
+      "onboard_time": 1765708583,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -28689,6 +28777,14 @@
       "onboard_time": 1765114402,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116128,
+      "num": 116128,
+      "word": "美伢回应闭店",
+      "onboard_time": 1765710382,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 116123,
@@ -31041,14 +31137,6 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107102,
-      "num": 107102,
-      "word": "陈伟霆 怎么可能有剧本",
-      "onboard_time": 1765708583,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 107065,
@@ -33779,6 +33867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97290,
+      "num": 97290,
+      "word": "澳枪击事件黑衣人开枪瞬间曝光",
+      "onboard_time": 1765710202,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97288,
       "num": 97288,
       "word": "Viper曾帮陌生女生搬行李",
@@ -34657,6 +34753,14 @@
       "onboard_time": 1765288165,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93774,
+      "num": 93774,
+      "word": "被labubu吓到躲起来的小比格",
+      "onboard_time": 1765711224,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 93751,
@@ -39499,14 +39603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66967,
-      "num": 272040,
-      "word": "悉尼邦迪滩枪击事件10人死亡",
-      "onboard_time": 1765708522,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 66907,
       "num": 106785,
       "word": "田曦薇的肌肉终于派上用场了",
@@ -40161,6 +40257,14 @@
       "onboard_time": 1765692863,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61373,
+      "num": 120401,
+      "word": "36岁男子追求43岁女子称姐姐不作",
+      "onboard_time": 1765710262,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61301,
@@ -43235,6 +43339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41575,
+      "num": 137882,
+      "word": "路人从邦迪枪案凶手背后成功夺枪",
+      "onboard_time": 1765709002,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41397,
       "num": 114184,
       "word": "女子乳腺癌晚期被骗85万救命钱",
@@ -43385,14 +43497,6 @@
       "onboard_time": 1765668195,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40626,
-      "num": 137882,
-      "word": "路人从邦迪枪案凶手背后成功夺枪",
-      "onboard_time": 1765709002,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40594,
@@ -44985,6 +45089,14 @@
       "onboard_time": 1765113982,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32277,
+      "num": 120340,
+      "word": "女子称网购的坚果上有白色痰状物",
+      "onboard_time": 1765710322,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32265,

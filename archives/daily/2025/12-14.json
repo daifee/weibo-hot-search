@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765709066886,
+  "endTime": 1765711422249,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3471646,
-      "num": 614610,
+      "raw_hot": 7294726,
+      "num": 7294726,
       "word": "张艺兴发文道歉",
       "onboard_time": 1765708042,
       "rank": 11,
@@ -41,6 +41,14 @@
       "onboard_time": 1765679903,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207979,
+      "num": 238375,
+      "word": "张艺兴 国家话剧院活动",
+      "onboard_time": 1765708703,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 1035014,
@@ -97,6 +105,14 @@
       "onboard_time": 1765703902,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 825650,
+      "num": 270596,
+      "word": "美伢要闭店了",
+      "onboard_time": 1765707561,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 774967,
@@ -163,14 +179,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 640959,
-      "num": 270596,
-      "word": "美伢要闭店了",
-      "onboard_time": 1765707561,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 629442,
       "num": 629442,
       "word": "香港住宅楼起火400多住户凌晨逃生",
@@ -225,6 +233,14 @@
       "onboard_time": 1765694902,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559321,
+      "num": 236420,
+      "word": "陈妍希 香奈儿老了还是香奈儿",
+      "onboard_time": 1765710322,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 557121,
@@ -353,6 +369,14 @@
       "onboard_time": 1765698982,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387031,
+      "num": 387031,
+      "word": "悉尼邦迪滩枪击事件10人死亡",
+      "onboard_time": 1765708522,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 386793,
@@ -555,6 +579,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 269271,
+      "num": 232050,
+      "word": "4300万网红刘二狗泳池直播被指擦边",
+      "onboard_time": 1765711044,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 268253,
       "num": 268253,
       "word": "美报告称中国拥有超600枚超音速导弹",
@@ -675,12 +707,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 225757,
-      "num": 225757,
-      "word": "张艺兴 国家话剧院活动",
-      "onboard_time": 1765708703,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 230825,
+      "num": 230825,
+      "word": "何晴最后一次公开露面",
+      "onboard_time": 1765709842,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 224135,
@@ -737,6 +769,14 @@
       "onboard_time": 1765682062,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215589,
+      "num": 215589,
+      "word": "下降体脂率最快的6个方法",
+      "onboard_time": 1765706722,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 215504,
@@ -819,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204541,
+      "num": 204541,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765708882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203763,
       "num": 203763,
       "word": "鞠婧祎 谁说演员不能看镜头",
@@ -841,6 +889,14 @@
       "onboard_time": 1765700182,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202442,
+      "num": 202442,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202362,
@@ -891,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195790,
-      "num": 195790,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765708882,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191042,
       "num": 132828,
       "word": "邓亚萍郭晶晶同框了",
@@ -923,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190644,
+      "num": 222881,
+      "word": "女子结婚14年被家暴13年",
+      "onboard_time": 1765709542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190339,
       "num": 190339,
       "word": "水银体温计线上99元一支",
@@ -945,6 +1001,14 @@
       "onboard_time": 1765677381,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188162,
+      "num": 203309,
+      "word": "仙逆",
+      "onboard_time": 1765709363,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 185793,
@@ -987,12 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178936,
-      "num": 178936,
-      "word": "下降体脂率最快的6个方法",
-      "onboard_time": 1765706722,
-      "rank": 26,
-      "category": "运动健身"
+      "raw_hot": 178790,
+      "num": 178790,
+      "word": "王楚钦孙颖莎本月还要打乒超",
+      "onboard_time": 1765708643,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178704,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1765696223,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160483,
+      "num": 160483,
+      "word": "宝宝你才两个月脚怎么就这么大了",
+      "onboard_time": 1765709782,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 159389,
@@ -1251,12 +1323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141769,
+      "num": 141769,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1765710505,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141530,
       "num": 141530,
       "word": "DYG道歉",
       "onboard_time": 1765707922,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140533,
+      "num": 140533,
+      "word": "核心员工离职前骂了公司所有人",
+      "onboard_time": 1765709484,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 139764,
@@ -1291,14 +1379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 137606,
-      "num": 137606,
-      "word": "王楚钦孙颖莎本月还要打乒超",
-      "onboard_time": 1765708643,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137370,
       "num": 137370,
       "word": "央视曝光取消自动扣费骗局",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1765678703,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136579,
+      "num": 136579,
+      "word": "厕所安装吸烟会变透明玻璃",
+      "onboard_time": 1765710202,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136130,
@@ -1531,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121973,
+      "num": 121973,
+      "word": "好喜欢充满生命力又可爱的人",
+      "onboard_time": 1765710923,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121591,
       "num": 121591,
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
@@ -1579,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119092,
+      "num": 119092,
+      "word": "陈伟霆 怎么可能有剧本",
+      "onboard_time": 1765708583,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "樊振东腾空照片入围世界体育摄影奖",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1765699702,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116128,
+      "num": 116128,
+      "word": "美伢回应闭店",
+      "onboard_time": 1765710382,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 114999,
@@ -1729,14 +1841,6 @@
       "onboard_time": 1765703962,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107102,
-      "num": 107102,
-      "word": "陈伟霆 怎么可能有剧本",
-      "onboard_time": 1765708583,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 106695,
@@ -1915,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97290,
+      "num": 97290,
+      "word": "澳枪击事件黑衣人开枪瞬间曝光",
+      "onboard_time": 1765710202,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97195,
       "num": 97195,
       "word": "我们近视患者是这样的",
@@ -1993,6 +2105,14 @@
       "onboard_time": 1765679125,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93774,
+      "num": 93774,
+      "word": "被labubu吓到躲起来的小比格",
+      "onboard_time": 1765711224,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 93031,
@@ -2379,14 +2499,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 66967,
-      "num": 272040,
-      "word": "悉尼邦迪滩枪击事件10人死亡",
-      "onboard_time": 1765708522,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 66547,
       "num": 85738,
       "word": "碾压妻子致死男子还有82天出狱",
@@ -2449,6 +2561,14 @@
       "onboard_time": 1765692863,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61373,
+      "num": 120401,
+      "word": "36岁男子追求43岁女子称姐姐不作",
+      "onboard_time": 1765710262,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61292,
@@ -2643,20 +2763,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41575,
+      "num": 137882,
+      "word": "路人从邦迪枪案凶手背后成功夺枪",
+      "onboard_time": 1765709002,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40709,
       "num": 41818,
       "word": "花少是群像不是恋爱节目",
       "onboard_time": 1765668195,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40626,
-      "num": 137882,
-      "word": "路人从邦迪枪案凶手背后成功夺枪",
-      "onboard_time": 1765709002,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40448,
@@ -2801,6 +2921,14 @@
       "onboard_time": 1765644559,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32277,
+      "num": 120340,
+      "word": "女子称网购的坚果上有白色痰状物",
+      "onboard_time": 1765710322,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 31287,
