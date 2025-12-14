@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765737435175,
+  "endTime": 1765738188638,
   "band_list": [
     {
       "raw_hot": 741920,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24508,
+      "num": 32093,
+      "word": "731部队特别移送制度有多残暴",
+      "onboard_time": 1765735155,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22546,
       "num": 34458,
       "word": "澳大利亚路人大爷徒手夺枪",
@@ -483,11 +491,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21894,
+      "raw_hot": 22476,
       "num": 34439,
       "word": "中国乒协启动保障机制",
       "onboard_time": 1765719984,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19832,
+      "num": 34312,
+      "word": "王曼昱收获1500冠军积分和8万美元",
+      "onboard_time": 1765735996,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -497,14 +513,6 @@
       "onboard_time": 1765735755,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17996,
-      "num": 34312,
-      "word": "王曼昱收获1500冠军积分和8万美元",
-      "onboard_time": 1765735996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 17727,
