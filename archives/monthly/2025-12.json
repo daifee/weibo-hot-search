@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765726017316,
+  "endTime": 1765726819095,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -1131,6 +1131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1121446,
+      "num": 249804,
+      "word": "巨人观的水果尸体慢慢浮出水面",
+      "onboard_time": 1765724905,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1110938,
       "num": 612281,
       "word": "爱奇艺颁奖失误",
@@ -1723,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 907575,
+      "num": 513739,
+      "word": "王皓生气了",
+      "onboard_time": 1765724962,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 907156,
       "num": 1145145,
       "word": "九重紫",
@@ -2172,7 +2188,7 @@
     },
     {
       "raw_hot": 804085,
-      "num": 250090,
+      "num": 479745,
       "word": "RW战胜JDG",
       "onboard_time": 1765725563,
       "rank": 10,
@@ -2929,14 +2945,6 @@
       "onboard_time": 1764902900,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672192,
-      "num": 249804,
-      "word": "巨人观的水果尸体慢慢浮出水面",
-      "onboard_time": 1765724905,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 670900,
@@ -4825,14 +4833,6 @@
       "onboard_time": 1765168042,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513739,
-      "num": 513739,
-      "word": "王皓生气了",
-      "onboard_time": 1765724962,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 513429,
@@ -8027,7 +8027,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365727,
+      "raw_hot": 365962,
       "num": 216899,
       "word": "感染艾滋病老人称死也不能丢脸",
       "onboard_time": 1765724003,
@@ -8843,6 +8843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 337222,
+      "num": 224434,
+      "word": "JDG止步16强",
+      "onboard_time": 1765726102,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 337221,
       "num": 337221,
       "word": "zwy回应",
@@ -9161,6 +9169,14 @@
       "onboard_time": 1764743181,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328889,
+      "num": 328889,
+      "word": "央视曝光20倍暴利假陈皮",
+      "onboard_time": 1765721425,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 328813,
@@ -9723,14 +9739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311905,
-      "num": 311905,
-      "word": "央视曝光20倍暴利假陈皮",
-      "onboard_time": 1765721425,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 311593,
       "num": 311593,
       "word": "片仔癀从1600元一粒降到百元",
@@ -9785,6 +9793,14 @@
       "onboard_time": 1764657560,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310222,
+      "num": 310222,
+      "word": "小洛熙事件手术监控摄像配置合规",
+      "onboard_time": 1765720885,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 309989,
@@ -12475,6 +12491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239550,
+      "num": 219989,
+      "word": "张本智和窘态百出",
+      "onboard_time": 1765725324,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239450,
       "num": 287328,
       "word": "现在就出发",
@@ -13881,6 +13905,14 @@
       "onboard_time": 1765269085,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213344,
+      "num": 213344,
+      "word": "RW挺进挑杯八强",
+      "onboard_time": 1765726162,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 213299,
@@ -16411,14 +16443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 190393,
-      "num": 190393,
-      "word": "张本智和窘态百出",
-      "onboard_time": 1765725324,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "新音 三亚",
@@ -16835,6 +16859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187218,
+      "num": 187218,
+      "word": "王俊凯话剧收官",
+      "onboard_time": 1765726162,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186868,
       "num": 245700,
       "word": "WBG首轮失利",
@@ -16977,14 +17009,6 @@
       "onboard_time": 1765200742,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186105,
-      "num": 251323,
-      "word": "小洛熙事件手术监控摄像配置合规",
-      "onboard_time": 1765720885,
-      "rank": 7,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 185981,
@@ -17641,6 +17665,14 @@
       "onboard_time": 1764913283,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181393,
+      "num": 142699,
+      "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
+      "onboard_time": 1765725623,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181384,
@@ -20235,6 +20267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160054,
+      "num": 160054,
+      "word": "女子买二手存钱罐开出2千多现金",
+      "onboard_time": 1765723462,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160042,
       "num": 160042,
       "word": "马克龙将在四川大学演讲",
@@ -20961,14 +21001,6 @@
       "onboard_time": 1764997221,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155627,
-      "num": 155627,
-      "word": "女子买二手存钱罐开出2千多现金",
-      "onboard_time": 1765723462,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 155533,
@@ -23803,6 +23835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139276,
+      "num": 130059,
+      "word": "乒协呼吁营造理性温暖的舆论环境",
+      "onboard_time": 1765725742,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139273,
       "num": 139273,
       "word": "刘念首部横屏古装短剧",
@@ -25033,14 +25073,6 @@
       "onboard_time": 1764920002,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133666,
-      "num": 133666,
-      "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
-      "onboard_time": 1765725623,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133608,
@@ -26347,6 +26379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128407,
+      "num": 128407,
+      "word": "无双 不开龙",
+      "onboard_time": 1765726223,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128404,
       "num": 384679,
       "word": "NBA交易市场",
@@ -26441,14 +26481,6 @@
       "onboard_time": 1765645878,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127918,
-      "num": 127918,
-      "word": "乒协呼吁营造理性温暖的舆论环境",
-      "onboard_time": 1765725742,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 127824,
@@ -30457,6 +30489,14 @@
       "onboard_time": 1764818422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113011,
+      "num": 113011,
+      "word": "何晴曾劝黄绮珊不要整容",
+      "onboard_time": 1765717644,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 112972,
@@ -34577,6 +34617,14 @@
       "onboard_time": 1764837201,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97721,
+      "num": 97721,
+      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+      "onboard_time": 1765726762,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 97718,
@@ -47315,6 +47363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25406,
+      "num": 142089,
+      "word": "女子2年骗走男友140万打赏主播",
+      "onboard_time": 1765725623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25395,
       "num": 211397,
       "word": "香港火灾严重伤者均已转为稳定",
@@ -49529,14 +49585,6 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9042,
-      "num": 142089,
-      "word": "女子2年骗走男友140万打赏主播",
-      "onboard_time": 1765725623,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8688,
