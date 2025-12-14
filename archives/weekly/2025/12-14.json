@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765748354828,
+  "endTime": 1765751169786,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -3795,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55459,
+      "num": 55459,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54994,
       "num": 98671,
       "word": "罗永浩带货沃尔沃全新XC70",
@@ -3985,14 +3993,6 @@
       "onboard_time": 1765646896,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38158,
-      "num": 38158,
-      "word": "水龙吟",
-      "onboard_time": 1765744693,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 35355,
@@ -4211,6 +4211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28236,
+      "num": 28236,
+      "word": "现在就出发3",
+      "onboard_time": 1765749435,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27635,
       "num": 104526,
       "word": "汕头火灾幸存者称或受浓烟影响更大",
@@ -4323,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20902,
+      "num": 34312,
+      "word": "王曼昱收获1500冠军积分和8万美元",
+      "onboard_time": 1765735996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20840,
       "num": 119863,
       "word": "起底爬虫市场非法饲养现状",
@@ -4331,20 +4347,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20836,
+      "num": 27151,
+      "word": "大衣哥朱之文辟谣跳楼身亡",
+      "onboard_time": 1765744813,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 20263,
       "num": 22965,
       "word": "来战",
       "onboard_time": 1765747214,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19832,
-      "num": 34312,
-      "word": "王曼昱收获1500冠军积分和8万美元",
-      "onboard_time": 1765735996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 18838,
@@ -4369,6 +4385,22 @@
       "onboard_time": 1765727721,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17454,
+      "num": 27145,
+      "word": "双轨物料",
+      "onboard_time": 1765748894,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17343,
+      "num": 27140,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16540,
@@ -4463,14 +4495,6 @@
       "num": 26368,
       "word": "狙击蝴蝶让我演两集",
       "onboard_time": 1765663514,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11641,
-      "num": 26516,
-      "word": "当暴力萝莉遇上阴湿糙汉",
-      "onboard_time": 1765743374,
       "rank": 49,
       "category": "剧集"
     },

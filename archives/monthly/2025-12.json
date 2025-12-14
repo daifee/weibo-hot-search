@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765748354828,
+  "endTime": 1765751169786,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -42155,6 +42155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55459,
+      "num": 55459,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55447,
       "num": 190989,
       "word": "网红罗大美被害案二审开庭",
@@ -45145,14 +45153,6 @@
       "onboard_time": 1765646896,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38158,
-      "num": 38158,
-      "word": "水龙吟",
-      "onboard_time": 1765744693,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 38153,
@@ -48219,6 +48219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20902,
+      "num": 34312,
+      "word": "王曼昱收获1500冠军积分和8万美元",
+      "onboard_time": 1765735996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20878,
       "num": 572585,
       "word": "这些大国重器震撼人心",
@@ -48249,6 +48257,14 @@
       "onboard_time": 1765700841,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20836,
+      "num": 27151,
+      "word": "大衣哥朱之文辟谣跳楼身亡",
+      "onboard_time": 1765744813,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 20653,
@@ -48393,14 +48409,6 @@
       "onboard_time": 1765219096,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19832,
-      "num": 34312,
-      "word": "王曼昱收获1500冠军积分和8万美元",
-      "onboard_time": 1765735996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 19823,
@@ -48755,12 +48763,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17454,
+      "num": 27145,
+      "word": "双轨物料",
+      "onboard_time": 1765748894,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17405,
       "num": 33549,
       "word": "吸烟的危害具象化了",
       "onboard_time": 1765313714,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17343,
+      "num": 27140,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 17230,
@@ -49553,14 +49577,6 @@
       "onboard_time": 1764852261,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11641,
-      "num": 26516,
-      "word": "当暴力萝莉遇上阴湿糙汉",
-      "onboard_time": 1765743374,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 11612,
