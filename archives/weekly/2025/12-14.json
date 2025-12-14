@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765695139754,
+  "endTime": 1765697182958,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -9,6 +9,14 @@
       "onboard_time": 1765678462,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8061205,
+      "num": 8061205,
+      "word": "王楚钦因伤退赛",
+      "onboard_time": 1765695504,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2943520,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 711752,
-      "num": 228118,
+      "num": 231231,
       "word": "许亚军何晴儿子不久前才亮相杂志",
       "onboard_time": 1765685002,
       "rank": 15,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 609953,
-      "num": 244003,
+      "num": 289576,
       "word": "霉霉 不上价值直接给钱",
       "onboard_time": 1765691422,
       "rank": 11,
@@ -121,6 +129,22 @@
       "onboard_time": 1765678884,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557538,
+      "num": 297948,
+      "word": "刘亦菲晒初雪哈哈合照",
+      "onboard_time": 1765694902,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 557121,
+      "num": 557121,
+      "word": "奶茶力挺zwy",
+      "onboard_time": 1765695802,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 528421,
@@ -147,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457732,
+      "num": 312049,
+      "word": "林诗栋3比4张本智和",
+      "onboard_time": 1765696103,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452131,
       "num": 270139,
       "word": "不交物业费和交物业费的都沉默了",
@@ -161,6 +193,14 @@
       "onboard_time": 1765688902,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424091,
+      "num": 300114,
+      "word": "陈哲远我叫桑延你记住",
+      "onboard_time": 1765693943,
+      "rank": 20,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 398013,
@@ -187,20 +227,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 376680,
+      "num": 281165,
+      "word": "何卓佳陪孙颖莎已回京",
+      "onboard_time": 1765691662,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375162,
       "num": 375162,
       "word": "双轨",
       "onboard_time": 1765675761,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364321,
-      "num": 231386,
-      "word": "陈哲远我叫桑延你记住",
-      "onboard_time": 1765693943,
-      "rank": 20,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 352172,
@@ -233,14 +273,6 @@
       "onboard_time": 1765676781,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 312166,
-      "num": 252304,
-      "word": "何卓佳陪孙颖莎已回京",
-      "onboard_time": 1765691662,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 309051,
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280614,
+      "num": 280614,
+      "word": "香港住宅楼起火400多住户凌晨逃生",
+      "onboard_time": 1765696042,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279490,
       "num": 207766,
       "word": "周柯宇演技",
@@ -379,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256611,
+      "num": 225057,
+      "word": "知道上林赋什么意思吗你就抄",
+      "onboard_time": 1765695802,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248029,
       "num": 248029,
       "word": "2025年度时尚封面人物",
@@ -409,6 +457,22 @@
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231414,
+      "num": 231414,
+      "word": "金晨 我是瞎了吗",
+      "onboard_time": 1765695504,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224135,
+      "num": 224135,
+      "word": "王玉雯看小说看一半喵上了",
+      "onboard_time": 1765694181,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 223991,
@@ -459,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214643,
+      "num": 214643,
+      "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+      "onboard_time": 1765697062,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214500,
       "num": 214500,
       "word": "00后好像被分成了三批",
@@ -473,6 +545,22 @@
       "onboard_time": 1765668195,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 212242,
+      "num": 212242,
+      "word": "国家发文禁止亏本卖车",
+      "onboard_time": 1765696223,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 211673,
+      "num": 212702,
+      "word": "莫雷加德拥抱王楚钦",
+      "onboard_time": 1765696462,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 207340,
@@ -531,27 +619,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194510,
-      "num": 111522,
-      "word": "刘亦菲晒初雪哈哈合照",
-      "onboard_time": 1765694902,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192932,
-      "num": 192932,
-      "word": "王玉雯看小说看一半喵上了",
-      "onboard_time": 1765694181,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191042,
       "num": 132828,
       "word": "邓亚萍郭晶晶同框了",
       "onboard_time": 1765694002,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "林诗栋无缘WTT香港男单决赛",
+      "onboard_time": 1765696163,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190883,
+      "num": 190883,
+      "word": "张本智和男单晋级决赛",
+      "onboard_time": 1765696702,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -667,6 +755,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163411,
+      "num": 163411,
+      "word": "樊振东接受萨尔报采访",
+      "onboard_time": 1765696223,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159389,
+      "num": 151414,
+      "word": "美军被曝突袭从中国驶往伊朗货轮",
+      "onboard_time": 1765696042,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159186,
       "num": 159186,
       "word": "孙颖莎德班受伤的也是同一只脚",
@@ -696,6 +800,14 @@
       "word": "汕头火灾独自逃生10岁女孩整日哭",
       "onboard_time": 1765683862,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153270,
+      "num": 153270,
+      "word": "景区NPC演员被冻成冰雕",
+      "onboard_time": 1765695260,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -747,6 +859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144663,
+      "num": 144663,
+      "word": "何与拍了虞书欣",
+      "onboard_time": 1765696702,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143009,
+      "num": 143009,
+      "word": "奶茶 流苏",
+      "onboard_time": 1765695983,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138944,
       "num": 138944,
       "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
@@ -793,6 +921,14 @@
       "onboard_time": 1765677681,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133727,
+      "num": 133727,
+      "word": "贾玲姐姐贾丹记录的李焕英",
+      "onboard_time": 1765695441,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133271,
@@ -849,6 +985,14 @@
       "onboard_time": 1765686622,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129347,
+      "num": 129347,
+      "word": "孙颖莎现身机场",
+      "onboard_time": 1765696342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 129237,
@@ -987,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113332,
+      "num": 113332,
+      "word": "张本智和发球回抛",
+      "onboard_time": 1765696284,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112554,
       "num": 112554,
       "word": "文班亚马22分",
@@ -1065,6 +1217,14 @@
       "onboard_time": 1765684703,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99615,
+      "num": 104777,
+      "word": "冬天为什么需要戴帽子",
+      "onboard_time": 1765693522,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 99583,
@@ -1211,14 +1371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91625,
-      "num": 104777,
-      "word": "冬天为什么需要戴帽子",
-      "onboard_time": 1765693522,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91313,
       "num": 91313,
       "word": "王楚钦说咬一局呗",
@@ -1345,6 +1497,14 @@
       "onboard_time": 1765623441,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82295,
+      "num": 191511,
+      "word": "日本弹药库距黄岩岛仅200公里",
+      "onboard_time": 1765695623,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82103,
@@ -1619,6 +1779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57460,
+      "num": 129438,
+      "word": "别人出发图 杨超越出厕图",
+      "onboard_time": 1765696462,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57256,
       "num": 121325,
       "word": "低价社区食堂为何开不下去了",
@@ -1713,6 +1881,14 @@
       "onboard_time": 1765668077,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42891,
+      "num": 225653,
+      "word": "长沙盲人老太事件拍摄者发文道歉",
+      "onboard_time": 1765696822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41809,
@@ -1883,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29541,
+      "num": 129356,
+      "word": "女子称腿伤就医司机强制院外下车",
+      "onboard_time": 1765696643,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 47693,
       "word": "双子座流星雨",
@@ -1953,6 +2137,14 @@
       "onboard_time": 1765685063,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20493,
+      "num": 306882,
+      "word": "2026年中国经济三个关键词",
+      "onboard_time": 1765682243,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18838,
@@ -2033,6 +2225,14 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3599,
+      "num": 891721,
+      "word": "被日寇焚烧的古树如今守着102名烈士",
+      "onboard_time": 1765624941,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1426,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/14 14:52:19
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/14 15:26:22
 </p>
 </blockquote>
 <p>
@@ -1491,6 +1491,12 @@ T1三连冠（热度：8192449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B%23" target="weibo">
+王楚钦因伤退赛（热度：8061205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%A6%BB%E5%A9%9A%23" target="weibo">
 李亚鹏离婚（热度：8054511）
 </a>
@@ -1805,12 +1811,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E7%BB%93%E5%A9%9A%23" target="weibo">
 李纯马頔结婚（热度：6668945）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E5%A6%82%E5%90%AC%E4%BB%99%E4%B9%90%E8%80%B3%E6%9A%82%E6%98%8E%23" target="weibo">
-单依纯 如听仙乐耳暂明（热度：6624460）
 </a>
 </li>
 
