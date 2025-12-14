@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765719225903,
+  "endTime": 1765719888180,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2971,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664537,
+      "num": 664537,
+      "word": "我国已经进入拉尼娜状态",
+      "onboard_time": 1765713085,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661890,
       "num": 698026,
       "word": "课本更换朱元璋画像",
@@ -2984,14 +2992,6 @@
       "word": "2025十大流行语",
       "onboard_time": 1764657440,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 660477,
-      "num": 660477,
-      "word": "我国已经进入拉尼娜状态",
-      "onboard_time": 1765713085,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -5195,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487711,
+      "num": 255381,
+      "word": "张本智和vs莫雷加德",
+      "onboard_time": 1765717764,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487696,
       "num": 487696,
       "word": "国家发文禁止亏本卖车",
@@ -6195,6 +6203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 439556,
+      "num": 281855,
+      "word": "张呈 拉完了",
+      "onboard_time": 1765715602,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439134,
       "num": 244584,
       "word": "建议大家住五星级酒店带行李箱",
@@ -6761,14 +6777,6 @@
       "onboard_time": 1765451061,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 412339,
-      "num": 281855,
-      "word": "张呈 拉完了",
-      "onboard_time": 1765715602,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 412181,
@@ -8003,6 +8011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 364761,
+      "num": 230034,
+      "word": "狙击蝴蝶分手复合在同一集",
+      "onboard_time": 1765718063,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364601,
       "num": 283637,
       "word": "陈震同学的同学",
@@ -8169,14 +8185,6 @@
       "onboard_time": 1764682404,
       "rank": 26,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 356472,
-      "num": 232093,
-      "word": "张本智和vs莫雷加德",
-      "onboard_time": 1765717764,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 356027,
@@ -9755,6 +9763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307428,
+      "num": 233593,
+      "word": "沈佳润小宝眼线是你自己画的吗",
+      "onboard_time": 1765714704,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307122,
       "num": 208515,
       "word": "男子上山遇60斤蟒蛇晒太阳",
@@ -9857,14 +9873,6 @@
       "onboard_time": 1764988640,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 304002,
-      "num": 230034,
-      "word": "狙击蝴蝶分手复合在同一集",
-      "onboard_time": 1765718063,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 303612,
@@ -10401,14 +10409,6 @@
       "onboard_time": 1765109061,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285871,
-      "num": 233593,
-      "word": "沈佳润小宝眼线是你自己画的吗",
-      "onboard_time": 1765714704,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 285834,
@@ -11235,6 +11235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264745,
+      "num": 264745,
+      "word": "宁波卫健委就小洛熙事件致歉",
+      "onboard_time": 1765717824,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 264666,
       "num": 192847,
       "word": "陈震回旋镖",
@@ -11457,6 +11465,14 @@
       "onboard_time": 1765112901,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259585,
+      "num": 259585,
+      "word": "小洛熙事件主刀医师具备手术资质",
+      "onboard_time": 1765718724,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 259361,
@@ -12256,6 +12272,14 @@
       "word": "保剑锋",
       "onboard_time": 1765539501,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240712,
+      "num": 214755,
+      "word": "金晨发文悼念何晴",
+      "onboard_time": 1765718843,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -13211,6 +13235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222790,
+      "num": 222790,
+      "word": "乒协回应孙颖莎王楚钦因伤退赛",
+      "onboard_time": 1765719145,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222766,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
@@ -13865,14 +13897,6 @@
       "onboard_time": 1764744202,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211298,
-      "num": 211298,
-      "word": "宁波卫健委就小洛熙事件致歉",
-      "onboard_time": 1765717824,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 211214,
@@ -15363,11 +15387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198677,
-      "num": 198677,
-      "word": "小洛熙事件主刀医师具备手术资质",
-      "onboard_time": 1765718724,
-      "rank": 26,
+      "raw_hot": 198678,
+      "num": 179245,
+      "word": "小洛熙事件医院存在多个问题",
+      "onboard_time": 1765719745,
+      "rank": 30,
       "category": "辟谣/通报"
     },
     {
@@ -16491,6 +16515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188867,
+      "num": 188867,
+      "word": "小俞公孙离五杀",
+      "onboard_time": 1765719564,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188787,
       "num": 144912,
       "word": "TFBOYS团粉真的长情",
@@ -17595,6 +17627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179502,
+      "num": 179502,
+      "word": "TF新音抢票",
+      "onboard_time": 1765719145,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179404,
       "num": 170069,
       "word": "邓紫棋跨年场抢票",
@@ -18057,14 +18097,6 @@
       "onboard_time": 1764593543,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174464,
-      "num": 174464,
-      "word": "金晨发文悼念何晴",
-      "onboard_time": 1765718843,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 174238,
@@ -19179,6 +19211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166114,
+      "num": 160246,
+      "word": "乒协为孙颖莎王楚钦提供康复支持",
+      "onboard_time": 1765719745,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165992,
       "num": 165992,
       "word": "F1抢票",
@@ -19937,6 +19977,14 @@
       "onboard_time": 1765264821,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160299,
+      "num": 160299,
+      "word": "魏大勋跳舞空气感 不愧JYP出来的",
+      "onboard_time": 1765719145,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160209,
@@ -21123,6 +21171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153008,
+      "num": 153008,
+      "word": "徐杰受伤",
+      "onboard_time": 1765719205,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152969,
       "num": 152969,
       "word": "朱志鑫头像还没有换回来",
@@ -21392,14 +21448,6 @@
       "word": "中国香港8比7法国",
       "onboard_time": 1764927202,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151158,
-      "num": 151158,
-      "word": "乒协回应孙颖莎王楚钦因伤退赛",
-      "onboard_time": 1765719145,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -22459,14 +22507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144742,
-      "num": 144742,
-      "word": "TF新音抢票",
-      "onboard_time": 1765719145,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144675,
       "num": 144675,
       "word": "结婚14年被家暴13年女子发声",
@@ -22945,6 +22985,14 @@
       "onboard_time": 1765428923,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141752,
+      "num": 132699,
+      "word": "王曼昱回应总决赛卫冕",
+      "onboard_time": 1765718964,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 141746,
@@ -24577,14 +24625,6 @@
       "onboard_time": 1765547664,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133943,
-      "num": 122301,
-      "word": "王曼昱回应总决赛卫冕",
-      "onboard_time": 1765718964,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 133940,
@@ -26947,6 +26987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124076,
+      "num": 124076,
+      "word": "原来十年之约是李飞和柴鸡蛋",
+      "onboard_time": 1765719864,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124065,
       "num": 139129,
       "word": "四川鼓励教师实行弹性上下班",
@@ -27233,14 +27281,6 @@
       "onboard_time": 1764666740,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122771,
-      "num": 122771,
-      "word": "魏大勋跳舞空气感 不愧JYP出来的",
-      "onboard_time": 1765719145,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 122717,
@@ -27865,14 +27905,6 @@
       "onboard_time": 1765610299,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120799,
-      "num": 120799,
-      "word": "徐杰受伤",
-      "onboard_time": 1765719205,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120752,
@@ -40675,6 +40707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62250,
+      "num": 142413,
+      "word": "律师解读4斤重黄金凤冠被男童破坏",
+      "onboard_time": 1765718483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62120,
       "num": 62120,
       "word": "汪苏泷给场外观众准备了姜茶",
@@ -41217,6 +41257,14 @@
       "onboard_time": 1765236199,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57323,
+      "num": 260393,
+      "word": "铁路清雪车有流浪地球那味了",
+      "onboard_time": 1765718724,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57256,
@@ -43715,6 +43763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42512,
+      "num": 138633,
+      "word": "7000多名宝妈生娃实际花不到100元",
+      "onboard_time": 1765719685,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42384,
       "num": 96083,
       "word": "房子被大火烧光女子微笑与废墟合影",
@@ -44921,14 +44977,6 @@
       "onboard_time": 1765111881,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35588,
-      "num": 142413,
-      "word": "律师解读4斤重黄金凤冠被男童破坏",
-      "onboard_time": 1765718483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35420,
@@ -46257,6 +46305,14 @@
       "onboard_time": 1765666095,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28287,
+      "num": 696262,
+      "word": "聚焦经济社会发展",
+      "onboard_time": 1765719084,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28268,
@@ -47683,14 +47739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20049,
-      "num": 237153,
-      "word": "铁路清雪车有流浪地球那味了",
-      "onboard_time": 1765718724,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20009,
       "num": 127329,
       "word": "郑州5岁男童传甲流致全家感染",
@@ -48105,14 +48153,6 @@
       "onboard_time": 1764966554,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17036,
-      "num": 696262,
-      "word": "聚焦经济社会发展",
-      "onboard_time": 1765719084,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16997,
