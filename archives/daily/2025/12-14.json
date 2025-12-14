@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765690115927,
+  "endTime": 1765691025089,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 911925,
-      "num": 175988,
+      "num": 206550,
       "word": "何晴做颅脑手术后语言表达受影响",
       "onboard_time": 1765689023,
       "rank": 15,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528421,
+      "num": 334675,
+      "word": "科比吧官方微博发了孙颖莎",
+      "onboard_time": 1765687643,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526626,
       "num": 470178,
       "word": "好友证实女教师生前发文称不想结婚",
@@ -121,6 +129,14 @@
       "onboard_time": 1765676841,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431063,
+      "num": 208646,
+      "word": "周扬青说3克拉以下建议买培育钻",
+      "onboard_time": 1765688902,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 398013,
@@ -161,14 +177,6 @@
       "onboard_time": 1765676423,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 334675,
-      "num": 334675,
-      "word": "科比吧官方微博发了孙颖莎",
-      "onboard_time": 1765687643,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 327743,
@@ -267,6 +275,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 268253,
+      "num": 268253,
+      "word": "美报告称中国拥有超600枚超音速导弹",
+      "onboard_time": 1765688423,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 267681,
       "num": 801179,
       "word": "王励勤关心询问孙颖莎",
@@ -307,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254251,
-      "num": 175001,
-      "word": "周扬青说3克拉以下建议买培育钻",
-      "onboard_time": 1765688902,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245389,
       "num": 461132,
       "word": "金铲铲补偿",
@@ -331,14 +339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 230348,
-      "num": 230348,
-      "word": "美报告称中国拥有超600枚超音速导弹",
-      "onboard_time": 1765688423,
-      "rank": 5,
-      "category": "军事"
-    },
-    {
       "raw_hot": 223991,
       "num": 223991,
       "word": "李现 故宫刺客",
@@ -353,6 +353,22 @@
       "onboard_time": 1765681884,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218987,
+      "num": 206244,
+      "word": "马刺终结雷霆16连胜",
+      "onboard_time": 1765690221,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218940,
+      "num": 168141,
+      "word": "中年大厂人离职后都去了哪里",
+      "onboard_time": 1765686983,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 217958,
@@ -385,14 +401,6 @@
       "onboard_time": 1765668195,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207411,
-      "num": 168141,
-      "word": "中年大厂人离职后都去了哪里",
-      "onboard_time": 1765686983,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 207340,
@@ -515,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162870,
+      "num": 212006,
+      "word": "日本太空航母野心曝光",
+      "onboard_time": 1765689083,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159186,
       "num": 159186,
       "word": "孙颖莎德班受伤的也是同一只脚",
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143707,
+      "num": 211730,
+      "word": "猪猪侠",
+      "onboard_time": 1765688002,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138944,
       "num": 138944,
       "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
@@ -641,6 +665,14 @@
       "onboard_time": 1765687763,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130982,
+      "num": 130982,
+      "word": "第一次见到雪的猫",
+      "onboard_time": 1765689202,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 130235,
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122299,
+      "num": 122299,
+      "word": "NBA",
+      "onboard_time": 1765690642,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121591,
       "num": 121591,
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 121044,
-      "num": 113434,
+      "num": 117445,
       "word": "王楚钦为了让孙颖莎少跑动想一板过",
       "onboard_time": 1765689862,
       "rank": 31,
@@ -747,22 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118630,
-      "num": 118630,
-      "word": "第一次见到雪的猫",
-      "onboard_time": 1765689202,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117892,
-      "num": 168149,
-      "word": "日本太空航母野心曝光",
-      "onboard_time": 1765689083,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116650,
       "num": 66837,
       "word": "向太回应向佐泪崩谈娱乐圈复杂",
@@ -779,6 +803,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114283,
+      "num": 114283,
+      "word": "王楚然告别跑男",
+      "onboard_time": 1765689741,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113404,
       "num": 264265,
       "word": "梅西印度活动只待10分钟球迷怒砸场",
@@ -787,12 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112675,
-      "num": 112675,
-      "word": "王楚然告别跑男",
-      "onboard_time": 1765689741,
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "文班亚马22分",
+      "onboard_time": 1765690342,
       "rank": 32,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 112210,
@@ -809,6 +841,14 @@
       "onboard_time": 1765678402,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106506,
+      "num": 106506,
+      "word": "江西上饶通报望仙谷景区火灾",
+      "onboard_time": 1765688962,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103665,
@@ -891,14 +931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96785,
-      "num": 96785,
-      "word": "江西上饶通报望仙谷景区火灾",
-      "onboard_time": 1765688962,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "内娱现偶终于开窍了",
@@ -913,14 +945,6 @@
       "onboard_time": 1765677741,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94910,
-      "num": 94910,
-      "word": "猪猪侠",
-      "onboard_time": 1765688002,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 94354,
@@ -995,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91134,
+      "num": 91134,
+      "word": "肠包蛋",
+      "onboard_time": 1765690402,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90893,
       "num": 90893,
       "word": "望仙谷景区明火被扑灭",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1765636043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86653,
+      "num": 86653,
+      "word": "这活别干了太废手指头",
+      "onboard_time": 1765690642,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 86367,
@@ -1115,12 +1155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76874,
+      "num": 85172,
+      "word": "怪不得都说当年的事彼此各有难处",
+      "onboard_time": 1765691003,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76862,
       "num": 121207,
       "word": "全场观众把掌声送给孙颖莎",
       "onboard_time": 1765687582,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76773,
+      "num": 85153,
+      "word": "王一博户外也要搞抽象",
+      "onboard_time": 1765690161,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 76586,
@@ -1307,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58729,
+      "num": 205866,
+      "word": "罗永浩说豪华新能源就看沃尔沃XC70",
+      "onboard_time": 1765688722,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57256,
       "num": 121325,
       "word": "低价社区食堂为何开不下去了",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1765679125,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54296,
-      "num": 168360,
-      "word": "罗永浩说豪华新能源就看沃尔沃XC70",
-      "onboard_time": 1765688722,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 53364,

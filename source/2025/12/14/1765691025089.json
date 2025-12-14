@@ -1,0 +1,410 @@
+{
+  "runTime": 1765691025089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2923236,
+        "num": 2923236,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512434,
+        "num": 512434,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38695,
+        "num": 346435,
+        "word": "揭开日本伪装受害者的真面目",
+        "onboard_time": 1765682243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320829,
+        "num": 320829,
+        "word": "何晴",
+        "onboard_time": 1765675280,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268253,
+        "num": 268253,
+        "word": "美报告称中国拥有超600枚超音速导弹",
+        "onboard_time": 1765688423,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 212412,
+        "num": 212412,
+        "word": "草莓这些年可冤死了",
+        "onboard_time": 1765668796,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162870,
+        "num": 212006,
+        "word": "日本太空航母野心曝光",
+        "onboard_time": 1765689083,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143707,
+        "num": 211730,
+        "word": "猪猪侠",
+        "onboard_time": 1765688002,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132004,
+        "num": 210893,
+        "word": "军队文职",
+        "onboard_time": 1765683383,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130690,
+        "num": 210465,
+        "word": "星光大赏",
+        "onboard_time": 1765677501,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1034101,
+        "num": 209726,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528421,
+        "num": 209411,
+        "word": "科比吧官方微博发了孙颖莎",
+        "onboard_time": 1765687643,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431063,
+        "num": 208646,
+        "word": "周扬青说3克拉以下建议买培育钻",
+        "onboard_time": 1765688902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263778,
+        "num": 207819,
+        "word": "导演说尼克从未真正建立亲密关系",
+        "onboard_time": 1765684945,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244804,
+        "num": 207112,
+        "word": "戒掉熬夜第一步不是早睡",
+        "onboard_time": 1765680743,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 760225,
+        "num": 206550,
+        "word": "何晴做颅脑手术后语言表达受影响",
+        "onboard_time": 1765689023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218987,
+        "num": 206244,
+        "word": "马刺终结雷霆16连胜",
+        "onboard_time": 1765690221,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58729,
+        "num": 205866,
+        "word": "罗永浩说豪华新能源就看沃尔沃XC70",
+        "onboard_time": 1765688722,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205318,
+        "num": 205318,
+        "word": "汪苏泷 我不想录这一集了",
+        "onboard_time": 1765685242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172641,
+        "num": 172641,
+        "word": "iPhone17中国市场卖爆",
+        "onboard_time": 1765676781,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218940,
+        "num": 167742,
+        "word": "中年大厂人离职后都去了哪里",
+        "onboard_time": 1765686983,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145740,
+        "num": 145740,
+        "word": "00后好像被分成了三批",
+        "onboard_time": 1765682003,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "韩国组合没有庆祝夺冠",
+        "onboard_time": 1765682062,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118039,
+        "num": 142028,
+        "word": "沈梦辰一句嘴瓢两个主持笑场",
+        "onboard_time": 1765689561,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141466,
+        "num": 141466,
+        "word": "陈伟霆是金晨带过最差的一届",
+        "onboard_time": 1765688243,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134975,
+        "num": 134975,
+        "word": "虞书欣姜暮头盔戴反了",
+        "onboard_time": 1765685423,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130982,
+        "num": 130982,
+        "word": "第一次见到雪的猫",
+        "onboard_time": 1765689202,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122299,
+        "num": 122299,
+        "word": "NBA",
+        "onboard_time": 1765690642,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117445,
+        "num": 117445,
+        "word": "王楚钦为了让孙颖莎少跑动想一板过",
+        "onboard_time": 1765689862,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114283,
+        "num": 114283,
+        "word": "王楚然告别跑男",
+        "onboard_time": 1765689741,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85236,
+        "num": 112880,
+        "word": "比亚迪胜诉龙猪网络诋毁案细节",
+        "onboard_time": 1765685002,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121126,
+        "num": 112791,
+        "word": "句句不离衣服 句句不是衣服",
+        "onboard_time": 1765689501,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "文班亚马22分",
+        "onboard_time": 1765690342,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109973,
+        "num": 109973,
+        "word": "不交物业费和交物业费的都沉默了",
+        "onboard_time": 1765676841,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106735,
+        "num": 106735,
+        "word": "幂级恐惧犯了",
+        "onboard_time": 1765676600,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106506,
+        "num": 106506,
+        "word": "江西上饶通报望仙谷景区火灾",
+        "onboard_time": 1765688962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105536,
+        "num": 105536,
+        "word": "李现 故宫刺客",
+        "onboard_time": 1765680503,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94539,
+        "num": 94539,
+        "word": "独居老人百万房产赠侄女因逾期失效",
+        "onboard_time": 1765677441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94329,
+        "num": 94329,
+        "word": "不齐舞团创始人瞒着母亲做开颅手术",
+        "onboard_time": 1765679062,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91134,
+        "num": 91134,
+        "word": "肠包蛋",
+        "onboard_time": 1765690402,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88804,
+        "num": 88804,
+        "word": "狙击蝴蝶程雅昭五官跟三观一样正",
+        "onboard_time": 1765687763,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88694,
+        "num": 88694,
+        "word": "恋与深空",
+        "onboard_time": 1765682902,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86653,
+        "num": 86653,
+        "word": "这活别干了太废手指头",
+        "onboard_time": 1765690642,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86561,
+        "num": 86561,
+        "word": "爱你老己在蓝盈莹身上具象化了",
+        "onboard_time": 1765686622,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86026,
+        "num": 86026,
+        "word": "这一段真的有人看了不脸红吗",
+        "onboard_time": 1765687101,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85186,
+        "num": 85186,
+        "word": "999元买13斤咸菜",
+        "onboard_time": 1765686382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82083,
+        "num": 85180,
+        "word": "周柯宇说后面会有一场激烈一点的吻戏",
+        "onboard_time": 1765687942,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76874,
+        "num": 85172,
+        "word": "怪不得都说当年的事彼此各有难处",
+        "onboard_time": 1765691003,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76773,
+        "num": 85153,
+        "word": "王一博户外也要搞抽象",
+        "onboard_time": 1765690161,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76432,
+        "num": 85142,
+        "word": "TF家族新音抢票",
+        "onboard_time": 1765681884,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}
