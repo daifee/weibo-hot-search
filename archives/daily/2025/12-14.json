@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765708106743,
+  "endTime": 1765709066886,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -17,6 +17,14 @@
       "onboard_time": 1765695504,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3471646,
+      "num": 614610,
+      "word": "张艺兴发文道歉",
+      "onboard_time": 1765708042,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 2943520,
@@ -83,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 845072,
+      "raw_hot": 873026,
       "num": 845072,
       "word": "何炅 已经在努力劝架了",
       "onboard_time": 1765703902,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 715052,
-      "num": 223020,
+      "num": 232963,
       "word": "偶遇维嘉以为是俄罗斯美女",
       "onboard_time": 1765701501,
       "rank": 23,
@@ -155,6 +163,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 640959,
+      "num": 270596,
+      "word": "美伢要闭店了",
+      "onboard_time": 1765707561,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 629442,
       "num": 629442,
       "word": "香港住宅楼起火400多住户凌晨逃生",
@@ -171,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598244,
+      "num": 598244,
+      "word": "张本智和又又又致敬樊振东",
+      "onboard_time": 1765703180,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567001,
       "num": 567001,
       "word": "魏大勋进去daddy出来baby",
       "onboard_time": 1765691721,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566805,
+      "num": 287919,
+      "word": "悉尼",
+      "onboard_time": 1765705281,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 560096,
@@ -203,12 +235,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 541138,
-      "num": 287919,
-      "word": "悉尼",
-      "onboard_time": 1765705281,
-      "rank": 10,
-      "category": "海外新闻"
+      "raw_hot": 534387,
+      "num": 534387,
+      "word": "28岁坠亡女子曾以岗位第一考上教师",
+      "onboard_time": 1765705341,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528421,
@@ -225,14 +257,6 @@
       "onboard_time": 1765682784,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 514315,
-      "num": 514315,
-      "word": "张本智和又又又致敬樊振东",
-      "onboard_time": 1765703180,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 492615,
@@ -275,28 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 431346,
-      "num": 286640,
-      "word": "张艺兴发文道歉",
-      "onboard_time": 1765708042,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 431063,
       "num": 242867,
       "word": "周扬青说3克拉以下建议买培育钻",
       "onboard_time": 1765688902,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424141,
-      "num": 424141,
-      "word": "28岁坠亡女子曾以岗位第一考上教师",
-      "onboard_time": 1765705341,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424091,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 405036,
-      "num": 219420,
+      "num": 232795,
       "word": "最佳入睡时间和睡眠时长",
       "onboard_time": 1765700123,
       "rank": 20,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244171,
+      "num": 244171,
+      "word": "悉尼枪击事件已造成至少10人受伤",
+      "onboard_time": 1765708403,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 242461,
       "num": 242461,
       "word": "向佐不会再扮女装",
@@ -657,6 +673,14 @@
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 225757,
+      "num": 225757,
+      "word": "张艺兴 国家话剧院活动",
+      "onboard_time": 1765708703,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 224135,
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199063,
+      "num": 199063,
+      "word": "网传杨紫李现将三搭",
+      "onboard_time": 1765708463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196768,
       "num": 196768,
       "word": "王楚然1秒钟800个表情",
@@ -857,6 +889,14 @@
       "onboard_time": 1765667716,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195790,
+      "num": 195790,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765708882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 191042,
@@ -945,6 +985,14 @@
       "onboard_time": 1765698982,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178936,
+      "num": 178936,
+      "word": "下降体脂率最快的6个方法",
+      "onboard_time": 1765706722,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 178704,
@@ -1041,14 +1089,6 @@
       "onboard_time": 1765626264,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163471,
-      "num": 163471,
-      "word": "下降体脂率最快的6个方法",
-      "onboard_time": 1765706722,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 163411,
@@ -1187,14 +1227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146588,
-      "num": 146588,
-      "word": "美伢要闭店了",
-      "onboard_time": 1765707561,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 144841,
       "num": 144841,
       "word": "用放羊的星星打开双轨",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1765697302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141530,
+      "num": 141530,
+      "word": "DYG道歉",
+      "onboard_time": 1765707922,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 139764,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1765701622,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137606,
+      "num": 137606,
+      "word": "王楚钦孙颖莎本月还要打乒超",
+      "onboard_time": 1765708643,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137370,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122996,
+      "num": 122996,
+      "word": "澳大利亚邦迪海滩发生枪击",
+      "onboard_time": 1765705762,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122682,
       "num": 122682,
       "word": "网红跟歌手真的有壁吗",
@@ -1563,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114999,
+      "num": 114999,
+      "word": "T1打HLE拿到三个赛点",
+      "onboard_time": 1765708222,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "每天练背10分钟是回报率最高的运动",
@@ -1667,6 +1731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107102,
+      "num": 107102,
+      "word": "陈伟霆 怎么可能有剧本",
+      "onboard_time": 1765708583,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106695,
       "num": 106695,
       "word": "第一次看到这么小的海豚宝宝",
@@ -1739,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101637,
-      "num": 101637,
-      "word": "澳大利亚邦迪海滩发生枪击",
-      "onboard_time": 1765705762,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101212,
       "num": 104787,
       "word": "马云现身非洲帮扶创业者",
@@ -1761,14 +1825,6 @@
       "onboard_time": 1765684583,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100459,
-      "num": 100459,
-      "word": "DYG道歉",
-      "onboard_time": 1765707922,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 100349,
@@ -2323,6 +2379,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 66967,
+      "num": 272040,
+      "word": "悉尼邦迪滩枪击事件10人死亡",
+      "onboard_time": 1765708522,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66547,
       "num": 85738,
       "word": "碾压妻子致死男子还有82天出狱",
@@ -2587,12 +2651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40626,
+      "num": 137882,
+      "word": "路人从邦迪枪案凶手背后成功夺枪",
+      "onboard_time": 1765709002,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40448,
       "num": 40448,
       "word": "蒯曼击败孙颖莎 晋级香港女单决赛",
       "onboard_time": 1765668796,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40060,
+      "num": 233921,
+      "word": "日方炒作中俄3个方向包围琉球",
+      "onboard_time": 1765708222,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39491,
@@ -2811,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26860,
+      "num": 135355,
+      "word": "湖南安化一只狗追咬一女孩",
+      "onboard_time": 1765708161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26274,
       "num": 41824,
       "word": "2025国产剧人气TOP50",
@@ -2864,6 +2952,14 @@
       "word": "当地村民回应男子杀害两妇女后潜逃",
       "onboard_time": 1765706841,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22223,
+      "num": 134308,
+      "word": "被家暴13年女子追究丈夫刑事罪名",
+      "onboard_time": 1765708762,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
