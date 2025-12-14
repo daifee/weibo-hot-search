@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765752125959,
+  "endTime": 1765754730701,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -171,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 761320,
+      "num": 844311,
+      "word": "我国已经进入拉尼娜状态",
+      "onboard_time": 1765713085,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 753255,
       "num": 753255,
       "word": "王曼昱冠军",
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664537,
-      "num": 738264,
-      "word": "我国已经进入拉尼娜状态",
-      "onboard_time": 1765713085,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 658023,
       "num": 323395,
       "word": "对不起老己",
@@ -289,6 +289,14 @@
       "onboard_time": 1765712242,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 592472,
+      "num": 592472,
+      "word": "感染艾滋病老人称死也不能丢脸",
+      "onboard_time": 1765724003,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582717,
@@ -579,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365962,
-      "num": 260436,
-      "word": "感染艾滋病老人称死也不能丢脸",
-      "onboard_time": 1765724003,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364761,
       "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 311326,
-      "num": 194398,
+      "num": 223154,
       "word": "美国276斤死刑犯行刑前点奢华盛宴",
       "onboard_time": 1765729280,
       "rank": 39,
@@ -1915,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154674,
+      "num": 154674,
+      "word": "难怪李雾整宿整宿睡不着觉",
+      "onboard_time": 1765731139,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "汕头火灾独自逃生10岁女孩整日哭",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1765697302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142437,
+      "num": 142437,
+      "word": "现在就出发3",
+      "onboard_time": 1765749435,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 141752,
@@ -2675,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113581,
+      "num": 113581,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113404,
       "num": 264265,
       "word": "梅西印度活动只待10分钟球迷怒砸场",
@@ -2737,6 +2761,14 @@
       "onboard_time": 1765678402,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 111579,
+      "num": 111579,
+      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+      "onboard_time": 1765726762,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 110585,
@@ -2803,14 +2835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104046,
-      "num": 104046,
-      "word": "难怪李雾整宿整宿睡不着觉",
-      "onboard_time": 1765731139,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103723,
       "num": 103723,
       "word": "华为Mate80掉湖里51小时捞起还能用",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1765704561,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101577,
+      "num": 101577,
+      "word": "小洛熙主刀医生被暂停诊疗",
+      "onboard_time": 1765728021,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101212,
@@ -2969,14 +3001,6 @@
       "onboard_time": 1765686262,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97721,
-      "num": 97721,
-      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
-      "onboard_time": 1765726762,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 97662,
@@ -3121,14 +3145,6 @@
       "onboard_time": 1765711224,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93265,
-      "num": 93265,
-      "word": "小洛熙主刀医生被暂停诊疗",
-      "onboard_time": 1765728021,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93046,
@@ -3499,20 +3515,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75270,
+      "num": 60255,
+      "word": "郭碧婷爸爸发文感谢女儿婆家",
+      "onboard_time": 1765752016,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73604,
       "num": 85973,
       "word": "蒯曼回应孙颖莎受伤退赛",
       "onboard_time": 1765633883,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73557,
-      "num": 73557,
-      "word": "水龙吟",
-      "onboard_time": 1765744693,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 72519,
@@ -3699,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60326,
+      "num": 60326,
+      "word": "暮暮朝朝这是正经吃苹果吗",
+      "onboard_time": 1765735755,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59748,
       "num": 60999,
       "word": "女子连吃10多颗山楂胃里长巨大结石",
@@ -3835,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51711,
+      "num": 60317,
+      "word": "以色列提醒海外公民警惕",
+      "onboard_time": 1765753816,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51224,
       "num": 160542,
       "word": "官方回应企业打白条欠千万粮食款",
@@ -3923,6 +3955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40759,
+      "num": 60280,
+      "word": "王曼昱收获1500冠军积分和8万美元",
+      "onboard_time": 1765735996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40709,
       "num": 41818,
       "word": "花少是群像不是恋爱节目",
@@ -3995,11 +4035,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37518,
-      "num": 37518,
-      "word": "暮暮朝朝这是正经吃苹果吗",
-      "onboard_time": 1765735755,
-      "rank": 42,
+      "raw_hot": 36195,
+      "num": 60262,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -4043,14 +4083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 34319,
-      "num": 34319,
-      "word": "现在就出发3",
-      "onboard_time": 1765749435,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34311,
       "num": 129356,
       "word": "女子称腿伤就医司机强制院外下车",
@@ -4060,7 +4092,7 @@
     },
     {
       "raw_hot": 33849,
-      "num": 32221,
+      "num": 60139,
       "word": "731部队特别移送制度有多残暴",
       "onboard_time": 1765735155,
       "rank": 27,
@@ -4068,7 +4100,7 @@
     },
     {
       "raw_hot": 33789,
-      "num": 59039,
+      "num": 60080,
       "word": "回顾2025",
       "onboard_time": 1765732937,
       "rank": 49,
@@ -4129,6 +4161,22 @@
       "onboard_time": 1765710322,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31989,
+      "num": 60191,
+      "word": "双轨物料",
+      "onboard_time": 1765748894,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31605,
+      "num": 60187,
+      "word": "澳大利亚路人大爷徒手夺枪",
+      "onboard_time": 1765735095,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31287,
@@ -4195,6 +4243,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28799,
+      "num": 60166,
+      "word": "大衣哥朱之文辟谣跳楼身亡",
+      "onboard_time": 1765744813,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 28506,
       "num": 47693,
       "word": "双子座流星雨",
@@ -4227,12 +4283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27127,
-      "num": 29957,
-      "word": "大衣哥朱之文辟谣跳楼身亡",
-      "onboard_time": 1765744813,
-      "rank": 29,
-      "category": "网红"
+      "raw_hot": 27263,
+      "num": 240032,
+      "word": "加强商务和金融协同更大力度提振消费",
+      "onboard_time": 1765718544,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26860,
@@ -4257,14 +4313,6 @@
       "onboard_time": 1765733417,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 34312,
-      "word": "王曼昱收获1500冠军积分和8万美元",
-      "onboard_time": 1765735996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 25406,
@@ -4315,12 +4363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22546,
-      "num": 34458,
-      "word": "澳大利亚路人大爷徒手夺枪",
-      "onboard_time": 1765735095,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 22960,
+      "num": 60101,
+      "word": "Peyz泽丽输出高于HLE三C之和",
+      "onboard_time": 1765727721,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 22256,
@@ -4355,27 +4403,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 20273,
-      "num": 29955,
-      "word": "当暴力萝莉遇上阴湿糙汉",
-      "onboard_time": 1765743374,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20263,
       "num": 22965,
       "word": "来战",
       "onboard_time": 1765747214,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 29955,
-      "word": "双轨物料",
-      "onboard_time": 1765748894,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -4393,14 +4425,6 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17727,
-      "num": 34295,
-      "word": "Peyz泽丽输出高于HLE三C之和",
-      "onboard_time": 1765727721,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 16540,
@@ -4441,22 +4465,6 @@
       "onboard_time": 1765652236,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15079,
-      "num": 29952,
-      "word": "郭碧婷爸爸发文感谢女儿婆家",
-      "onboard_time": 1765752016,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14574,
-      "num": 204958,
-      "word": "加强商务和金融协同更大力度提振消费",
-      "onboard_time": 1765718544,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14549,

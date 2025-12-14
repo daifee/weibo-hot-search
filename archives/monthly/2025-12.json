@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765752125959,
+  "endTime": 1765754730701,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2355,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761320,
+      "num": 844311,
+      "word": "我国已经进入拉尼娜状态",
+      "onboard_time": 1765713085,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758808,
       "num": 392518,
       "word": "刘宇宁李一桐 大哥大嫂风味儿",
@@ -3016,14 +3024,6 @@
       "word": "人贩子被判死缓后对被害人破口大骂",
       "onboard_time": 1765103540,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 664537,
-      "num": 738264,
-      "word": "我国已经进入拉尼娜状态",
-      "onboard_time": 1765713085,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3713,6 +3713,14 @@
       "onboard_time": 1765032685,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592472,
+      "num": 592472,
+      "word": "感染艾滋病老人称死也不能丢脸",
+      "onboard_time": 1765724003,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591798,
@@ -8035,14 +8043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365962,
-      "num": 260436,
-      "word": "感染艾滋病老人称死也不能丢脸",
-      "onboard_time": 1765724003,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365595,
       "num": 357722,
       "word": "演员洪剑涛景区试戴帽子被要价5元",
@@ -9772,7 +9772,7 @@
     },
     {
       "raw_hot": 311326,
-      "num": 194398,
+      "num": 223154,
       "word": "美国276斤死刑犯行刑前点奢华盛宴",
       "onboard_time": 1765729280,
       "rank": 39,
@@ -21163,6 +21163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154674,
+      "num": 154674,
+      "word": "难怪李雾整宿整宿睡不着觉",
+      "onboard_time": 1765731139,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154668,
       "num": 159637,
       "word": "许光汉张轩睿被曝兄弟反目",
@@ -23201,6 +23209,14 @@
       "onboard_time": 1765528281,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142437,
+      "num": 142437,
+      "word": "现在就出发3",
+      "onboard_time": 1765167323,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 142419,
@@ -29923,14 +29939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115074,
-      "num": 115074,
-      "word": "现在就出发3",
-      "onboard_time": 1765167323,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115047,
       "num": 115047,
       "word": "国乒vs法国",
@@ -30353,6 +30361,14 @@
       "onboard_time": 1764735384,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113581,
+      "num": 113581,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 113540,
@@ -30921,6 +30937,14 @@
       "onboard_time": 1765201402,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111579,
+      "num": 111579,
+      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+      "onboard_time": 1765726762,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 111576,
@@ -32859,14 +32883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104046,
-      "num": 104046,
-      "word": "难怪李雾整宿整宿睡不着觉",
-      "onboard_time": 1765731139,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104032,
       "num": 104032,
       "word": "东北人为什么不爱戴围巾",
@@ -33649,6 +33665,14 @@
       "onboard_time": 1764516081,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101577,
+      "num": 101577,
+      "word": "小洛熙主刀医生被暂停诊疗",
+      "onboard_time": 1765728021,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101541,
@@ -34657,14 +34681,6 @@
       "onboard_time": 1764837201,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97721,
-      "num": 97721,
-      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
-      "onboard_time": 1765726762,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 97718,
@@ -35849,14 +35865,6 @@
       "onboard_time": 1765101921,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93265,
-      "num": 93265,
-      "word": "小洛熙主刀医生被暂停诊疗",
-      "onboard_time": 1765728021,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93255,
@@ -39523,6 +39531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75270,
+      "num": 60255,
+      "word": "郭碧婷爸爸发文感谢女儿婆家",
+      "onboard_time": 1765752016,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75267,
       "num": 63838,
       "word": "濮存昕外孙女拍戏被劝去试别的行业",
@@ -39777,14 +39793,6 @@
       "onboard_time": 1764889217,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73557,
-      "num": 73557,
-      "word": "水龙吟",
-      "onboard_time": 1765744693,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 73520,
@@ -41483,6 +41491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 60326,
+      "num": 60326,
+      "word": "暮暮朝朝这是正经吃苹果吗",
+      "onboard_time": 1765735755,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60201,
       "num": 646725,
       "word": "国产挖掘机零下40摄氏度一秒启动",
@@ -42761,6 +42777,14 @@
       "onboard_time": 1765528341,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51711,
+      "num": 60317,
+      "word": "以色列提醒海外公民警惕",
+      "onboard_time": 1765753816,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51700,
@@ -44603,6 +44627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40759,
+      "num": 60280,
+      "word": "王曼昱收获1500冠军积分和8万美元",
+      "onboard_time": 1765735996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40709,
       "num": 41818,
       "word": "花少是群像不是恋爱节目",
@@ -45267,14 +45299,6 @@
       "category": "情感,剧集"
     },
     {
-      "raw_hot": 37518,
-      "num": 37518,
-      "word": "暮暮朝朝这是正经吃苹果吗",
-      "onboard_time": 1765735755,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37517,
       "num": 193156,
       "word": "商人被控诈骗政府9500万",
@@ -45457,6 +45481,14 @@
       "onboard_time": 1764656780,
       "rank": 19,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 36195,
+      "num": 60262,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 36170,
@@ -45836,7 +45868,7 @@
     },
     {
       "raw_hot": 33849,
-      "num": 32221,
+      "num": 60139,
       "word": "731部队特别移送制度有多残暴",
       "onboard_time": 1765735155,
       "rank": 27,
@@ -45852,7 +45884,7 @@
     },
     {
       "raw_hot": 33789,
-      "num": 59039,
+      "num": 60080,
       "word": "回顾2025",
       "onboard_time": 1765732937,
       "rank": 49,
@@ -46275,6 +46307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31989,
+      "num": 60191,
+      "word": "双轨物料",
+      "onboard_time": 1765748894,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31958,
       "num": 37525,
       "word": "iPhone的长按键你可能并不会用",
@@ -46337,6 +46377,14 @@
       "onboard_time": 1765430180,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 31605,
+      "num": 60187,
+      "word": "澳大利亚路人大爷徒手夺枪",
+      "onboard_time": 1765735095,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31398,
@@ -46795,6 +46843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28799,
+      "num": 60166,
+      "word": "大衣哥朱之文辟谣跳楼身亡",
+      "onboard_time": 1765744813,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 28738,
       "num": 149659,
       "word": "日本冬瓜售卖方式",
@@ -47123,20 +47179,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27263,
+      "num": 240032,
+      "word": "加强商务和金融协同更大力度提振消费",
+      "onboard_time": 1765718544,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27155,
       "num": 109517,
       "word": "澳大利亚不满16岁社媒禁令生效",
       "onboard_time": 1765332320,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27127,
-      "num": 29957,
-      "word": "大衣哥朱之文辟谣跳楼身亡",
-      "onboard_time": 1765744813,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 27075,
@@ -47505,14 +47561,6 @@
       "onboard_time": 1765617440,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 34312,
-      "word": "王曼昱收获1500冠军积分和8万美元",
-      "onboard_time": 1765735996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 25406,
@@ -47963,6 +48011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22960,
+      "num": 60101,
+      "word": "Peyz泽丽输出高于HLE三C之和",
+      "onboard_time": 1765727721,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 22898,
       "num": 61697,
       "word": "陈添祥官宣星光大赏",
@@ -48073,14 +48129,6 @@
       "onboard_time": 1765461622,
       "rank": 49,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 22546,
-      "num": 34458,
-      "word": "澳大利亚路人大爷徒手夺枪",
-      "onboard_time": 1765735095,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22314,
@@ -48331,14 +48379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20273,
-      "num": 29955,
-      "word": "当暴力萝莉遇上阴湿糙汉",
-      "onboard_time": 1765743374,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20263,
       "num": 22965,
       "word": "来战",
@@ -48441,14 +48481,6 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 29955,
-      "word": "双轨物料",
-      "onboard_time": 1765748894,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 19632,
@@ -48745,14 +48777,6 @@
       "onboard_time": 1765092260,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17727,
-      "num": 34295,
-      "word": "Peyz泽丽输出高于HLE三C之和",
-      "onboard_time": 1765727721,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 17707,
@@ -49155,14 +49179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15079,
-      "num": 29952,
-      "word": "郭碧婷爸爸发文感谢女儿婆家",
-      "onboard_time": 1765752016,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 14961,
       "num": 107435,
       "word": "2025中央经济工作会议",
@@ -49225,14 +49241,6 @@
       "onboard_time": 1764556760,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14574,
-      "num": 204958,
-      "word": "加强商务和金融协同更大力度提振消费",
-      "onboard_time": 1765718544,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14508,
