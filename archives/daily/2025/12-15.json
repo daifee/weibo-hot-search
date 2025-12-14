@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765733040147,
+  "endTime": 1765734070981,
   "band_list": [
     {
       "raw_hot": 741920,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133928,
+      "num": 169519,
+      "word": "周深用全部身家留下给粉丝的歌",
+      "onboard_time": 1765728500,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133367,
       "num": 133367,
       "word": "无双 不开龙",
@@ -193,6 +201,14 @@
       "onboard_time": 1765720825,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118555,
+      "num": 84312,
+      "word": "女子新婚坠亡村干部称双方无其他纠纷",
+      "onboard_time": 1765730422,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117578,
@@ -235,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102933,
-      "num": 169519,
-      "word": "周深用全部身家留下给粉丝的歌",
-      "onboard_time": 1765728500,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 104046,
+      "num": 104046,
+      "word": "难怪李雾整宿整宿睡不着觉",
+      "onboard_time": 1765731139,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 97271,
@@ -276,19 +292,11 @@
     },
     {
       "raw_hot": 90580,
-      "num": 90580,
+      "num": 109644,
       "word": "王俊凯话剧收官",
       "onboard_time": 1765726162,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84499,
-      "num": 84499,
-      "word": "难怪李雾整宿整宿睡不着觉",
-      "onboard_time": 1765731139,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 83535,
@@ -313,14 +321,6 @@
       "onboard_time": 1765723943,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77083,
-      "num": 84312,
-      "word": "女子新婚坠亡村干部称双方无其他纠纷",
-      "onboard_time": 1765730422,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73921,
@@ -435,12 +435,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30986,
+      "raw_hot": 33789,
       "num": 59039,
       "word": "回顾2025",
       "onboard_time": 1765732937,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28468,
+      "num": 49644,
+      "word": "魏大勋跳舞空气感 不愧JYP出来的",
+      "onboard_time": 1765719145,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27225,
+      "num": 49603,
+      "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+      "onboard_time": 1765726762,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26984,
+      "num": 49582,
+      "word": "仙逆",
+      "onboard_time": 1765709363,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 25980,
+      "num": 49568,
+      "word": "黄景瑜睡觉也不影响杀羊",
+      "onboard_time": 1765733417,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13252,
@@ -451,7 +483,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13002,
+      "raw_hot": 13165,
       "num": 204958,
       "word": "加强商务和金融协同更大力度提振消费",
       "onboard_time": 1765718544,
