@@ -1,7 +1,31 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765669173413,
+  "endTime": 1765678351422,
   "band_list": [
+    {
+      "raw_hot": 2943520,
+      "num": 184856,
+      "word": "何晴",
+      "onboard_time": 1765675280,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1035014,
+      "num": 182916,
+      "word": "何晴 唯一演遍四大名著的女演员",
+      "onboard_time": 1765676841,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 999419,
+      "num": 1159907,
+      "word": "日本开始军事介入南海",
+      "onboard_time": 1765674919,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 906534,
       "num": 213210,
@@ -27,6 +51,54 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 479044,
+      "num": 479044,
+      "word": "草莓这些年可冤死了",
+      "onboard_time": 1765668796,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386793,
+      "num": 184085,
+      "word": "向太回应好婆婆形象没了",
+      "onboard_time": 1765667897,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375162,
+      "num": 375162,
+      "word": "双轨",
+      "onboard_time": 1765675761,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346433,
+      "num": 245305,
+      "word": "女儿坠楼妈妈怀疑施工拆玻璃导致",
+      "onboard_time": 1765676423,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322266,
+      "num": 169414,
+      "word": "iPhone17中国市场卖爆",
+      "onboard_time": 1765676781,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 311211,
+      "num": 183696,
+      "word": "幂级恐惧犯了",
+      "onboard_time": 1765676600,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309051,
       "num": 208935,
       "word": "王楚钦问孙颖莎脚没事吧",
@@ -41,6 +113,14 @@
       "onboard_time": 1765636642,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286472,
+      "num": 183423,
+      "word": "不交物业费和交物业费的都沉默了",
+      "onboard_time": 1765676841,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 285975,
@@ -83,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265820,
+      "num": 265820,
+      "word": "2025微博之夜",
+      "onboard_time": 1765670418,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245389,
       "num": 461132,
       "word": "金铲铲补偿",
@@ -107,12 +195,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212878,
+      "num": 182752,
+      "word": "iPhone的相册你真的会用吗",
+      "onboard_time": 1765668195,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207340,
       "num": 207340,
       "word": "六级",
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206730,
+      "num": 206730,
+      "word": "星光大赏",
+      "onboard_time": 1765677501,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195841,
+      "num": 195841,
+      "word": "王楚钦拍了拍孙颖莎肩膀",
+      "onboard_time": 1765667716,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 190339,
@@ -123,28 +235,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188292,
+      "num": 182421,
+      "word": "林仲勋说王楚钦应该很累",
+      "onboard_time": 1765677381,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185369,
+      "num": 185369,
+      "word": "警方通报男子卖冰糖葫芦被掀摊",
+      "onboard_time": 1765670658,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184122,
-      "num": 107653,
+      "num": 162221,
       "word": "胡可大儿子又高又白",
       "onboard_time": 1765639461,
       "rank": 22,
       "category": "艺人"
     },
     {
-      "raw_hot": 183882,
-      "num": 44508,
-      "word": "王楚钦拍了拍孙颖莎肩膀",
-      "onboard_time": 1765667716,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 182638,
-      "num": 69249,
-      "word": "向太回应好婆婆形象没了",
-      "onboard_time": 1765667897,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 182175,
+      "num": 182175,
+      "word": "特朗普或因说漏嘴致间谍曝光",
+      "onboard_time": 1765677200,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173672,
@@ -152,6 +272,14 @@
       "word": "10人聚餐逃单店主称已收到转账",
       "onboard_time": 1765640421,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164378,
+      "num": 164378,
+      "word": "探访小米公司不让卖小米涉事村庄",
+      "onboard_time": 1765676480,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -163,12 +291,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149673,
-      "num": 68595,
-      "word": "iPhone的相册你真的会用吗",
-      "onboard_time": 1765668195,
-      "rank": 12,
-      "category": "数码"
+      "raw_hot": 159186,
+      "num": 159186,
+      "word": "孙颖莎德班受伤的也是同一只脚",
+      "onboard_time": 1765669458,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154942,
+      "num": 154942,
+      "word": "独居老人百万房产赠侄女因逾期失效",
+      "onboard_time": 1765677441,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149662,
+      "num": 149662,
+      "word": "张艺兴只有22秒的镜头",
+      "onboard_time": 1765670778,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 137370,
+      "num": 137370,
+      "word": "央视曝光取消自动扣费骗局",
+      "onboard_time": 1765668136,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136130,
@@ -187,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127920,
+      "num": 127920,
+      "word": "大李雾 小李雾",
+      "onboard_time": 1765645878,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127538,
       "num": 103087,
       "word": "小郑嘻嘻回应",
@@ -195,11 +355,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 124407,
-      "num": 58330,
-      "word": "央视曝光取消自动扣费骗局",
-      "onboard_time": 1765668136,
-      "rank": 24,
+      "raw_hot": 125533,
+      "num": 125533,
+      "word": "大学生创业摆摊被同行掀翻摊位",
+      "onboard_time": 1765668796,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -227,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115507,
+      "num": 115507,
+      "word": "孙颖莎说自己自愿去参赛",
+      "onboard_time": 1765677681,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "每天练背10分钟是回报率最高的运动",
       "onboard_time": 1765627281,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 103344,
+      "num": 185282,
+      "word": "梅西印度活动只待10分钟球迷怒砸场",
+      "onboard_time": 1765672280,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 99177,
@@ -259,12 +435,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95042,
-      "num": 61000,
-      "word": "大李雾 小李雾",
-      "onboard_time": 1765645878,
+      "raw_hot": 96102,
+      "num": 96102,
+      "word": "女性养肝血推荐四大宝",
+      "onboard_time": 1765676781,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95532,
+      "num": 95532,
+      "word": "蒯曼描述孙颖莎受伤经过",
+      "onboard_time": 1765677741,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94354,
+      "num": 94354,
+      "word": "宝马全新一代X7最新谍照曝光",
+      "onboard_time": 1765677741,
       "rank": 35,
-      "category": "剧集"
+      "category": "汽车"
     },
     {
       "raw_hot": 93031,
@@ -273,6 +465,14 @@
       "onboard_time": 1765640660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92414,
+      "num": 92414,
+      "word": "经销商称茅台1天上调4次价格",
+      "onboard_time": 1765674680,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 91313,
@@ -291,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87531,
+      "num": 87531,
+      "word": "望仙谷景区明火被扑灭",
+      "onboard_time": 1765677501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86131,
       "num": 86131,
       "word": "小郑 一天",
@@ -305,6 +513,14 @@
       "onboard_time": 1765624761,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82987,
+      "num": 82987,
+      "word": "日媒称绝不能忘却加害历史",
+      "onboard_time": 1765677321,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82401,
@@ -329,6 +545,14 @@
       "onboard_time": 1765637962,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79379,
+      "num": 79379,
+      "word": "收费站捡到戴电话手表的猫咪",
+      "onboard_time": 1765655053,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 77804,
@@ -371,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71480,
+      "num": 71480,
+      "word": "雪天外卖小哥不敢回妈妈短信",
+      "onboard_time": 1765676241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70706,
       "num": 70706,
       "word": "日本八纮一宇塔应当被拆除",
       "onboard_time": 1765654154,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69184,
+      "num": 69184,
+      "word": "140岁落叶松救活一片荒漠",
+      "onboard_time": 1765676781,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66547,
@@ -395,12 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63758,
-      "num": 63758,
-      "word": "草莓这些年可冤死了",
-      "onboard_time": 1765668796,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 63420,
+      "num": 69184,
+      "word": "美国布朗大学发生校园枪击",
+      "onboard_time": 1765672280,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63097,
@@ -409,6 +649,22 @@
       "onboard_time": 1765630462,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61878,
+      "num": 69180,
+      "word": "donk生气",
+      "onboard_time": 1765678281,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 61292,
+      "num": 69177,
+      "word": "孙颖莎王楚钦最大限度内做到了最好",
+      "onboard_time": 1765676241,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60522,
@@ -491,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53364,
+      "num": 382504,
+      "word": "海南自贸港封关将带来更多机遇",
+      "onboard_time": 1765636403,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52537,
       "num": 42704,
       "word": "孙颖莎王楚钦笑着退场",
@@ -515,28 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43687,
-      "num": 43687,
-      "word": "收费站捡到戴电话手表的猫咪",
-      "onboard_time": 1765655053,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 43247,
       "num": 43247,
       "word": "韩国街头偶遇高圆圆",
       "onboard_time": 1765668077,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43065,
-      "num": 43065,
-      "word": "大学生创业摆摊被同行掀翻摊位",
-      "onboard_time": 1765668796,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41809,
@@ -667,20 +915,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23845,
+      "num": 169983,
+      "word": "湖南怀化贩婴案18名嫌疑人被抓",
+      "onboard_time": 1765677441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23028,
       "num": 41809,
       "word": "流星雨",
       "onboard_time": 1765625061,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20217,
-      "num": 138518,
-      "word": "海南自贸港封关将带来更多机遇",
-      "onboard_time": 1765636403,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18838,
