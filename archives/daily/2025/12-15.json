@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765740166057,
+  "endTime": 1765741032634,
   "band_list": [
     {
       "raw_hot": 741920,
@@ -451,7 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29055,
+      "raw_hot": 32423,
       "num": 34366,
       "word": "暮暮朝朝这是正经吃苹果吗",
       "onboard_time": 1765735755,
@@ -539,7 +539,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14947,
+      "raw_hot": 15394,
       "num": 28186,
       "word": "张呈 喜剧之神降临",
       "onboard_time": 1765739775,
