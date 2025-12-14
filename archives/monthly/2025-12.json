@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765716717802,
+  "endTime": 1765717553206,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -75,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7980480,
+      "num": 9147103,
+      "word": "宁波通报患儿手术后离世",
+      "onboard_time": 1765714044,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 7294726,
       "num": 7294726,
       "word": "张艺兴发文道歉",
       "onboard_time": 1765708042,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 6978253,
-      "num": 8228253,
-      "word": "宁波通报患儿手术后离世",
-      "onboard_time": 1765714044,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 6156148,
@@ -2979,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660477,
+      "num": 660477,
+      "word": "我国已经进入拉尼娜状态",
+      "onboard_time": 1765713085,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660125,
       "num": 166569,
       "word": "吴宣仪取消行程图",
@@ -3619,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592526,
+      "num": 592526,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1765712242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 592492,
       "num": 592492,
       "word": "美国想和中俄印日组建核心五国",
@@ -3880,14 +3896,6 @@
       "word": "水库冰面下发现13匹冰冻马",
       "onboard_time": 1765020562,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568757,
-      "num": 568757,
-      "word": "我国已经进入拉尼娜状态",
-      "onboard_time": 1765713085,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -4875,6 +4883,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 502061,
+      "num": 284393,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501961,
       "num": 272452,
       "word": "什么叫做假性亲密关系",
@@ -5313,14 +5329,6 @@
       "onboard_time": 1764923001,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 480989,
-      "num": 480989,
-      "word": "蒯曼vs王曼昱",
-      "onboard_time": 1765712242,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 480633,
@@ -5841,6 +5849,14 @@
       "onboard_time": 1764579262,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 454268,
+      "num": 415494,
+      "word": "王曼昱冠军",
+      "onboard_time": 1765716864,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 454085,
@@ -6811,14 +6827,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 410204,
-      "num": 284393,
-      "word": "李现拍的雪后故宫",
-      "onboard_time": 1765710623,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409260,
       "num": 436710,
       "word": "陈妍希周柯宇坐腿吻",
@@ -6833,6 +6841,14 @@
       "onboard_time": 1765021102,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408386,
+      "num": 281855,
+      "word": "张呈 拉完了",
+      "onboard_time": 1765715602,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 408186,
@@ -7033,6 +7049,14 @@
       "onboard_time": 1765599622,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398795,
+      "num": 282076,
+      "word": "尚公主",
+      "onboard_time": 1764944064,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 398705,
@@ -8603,6 +8627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341249,
+      "num": 341249,
+      "word": "T1夺冠",
+      "onboard_time": 1765715484,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 341193,
       "num": 271780,
       "word": "张柏芝庭审大喊所有事情都是假的",
@@ -9659,14 +9691,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 309738,
-      "num": 282950,
-      "word": "T1夺冠",
-      "onboard_time": 1765715484,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 309455,
       "num": 338365,
       "word": "恋与深空",
@@ -9777,14 +9801,6 @@
       "onboard_time": 1765086440,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305475,
-      "num": 282076,
-      "word": "尚公主",
-      "onboard_time": 1764944064,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 305448,
@@ -10017,6 +10033,14 @@
       "onboard_time": 1765182561,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298799,
+      "num": 226787,
+      "word": "樊振东顶着空气刘海上班",
+      "onboard_time": 1765713025,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 298593,
@@ -10539,14 +10563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281855,
-      "num": 281855,
-      "word": "张呈 拉完了",
-      "onboard_time": 1765715602,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281777,
       "num": 215806,
       "word": "小酒窝呕吐舞一出手就是专业的",
@@ -10907,6 +10923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 272969,
+      "num": 272969,
+      "word": "樊振东今晚不打一单",
+      "onboard_time": 1765717224,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272321,
       "num": 221232,
       "word": "肖战二封King",
@@ -10937,14 +10961,6 @@
       "onboard_time": 1764768023,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271489,
-      "num": 226787,
-      "word": "樊振东顶着空气刘海上班",
-      "onboard_time": 1765713025,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 271068,
@@ -11161,6 +11177,14 @@
       "onboard_time": 1765695504,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265869,
+      "num": 224712,
+      "word": "虞书欣何与双轨首播战报",
+      "onboard_time": 1765716924,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 265740,
@@ -11433,6 +11457,14 @@
       "onboard_time": 1765595061,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258884,
+      "num": 233593,
+      "word": "沈佳润小宝眼线是你自己画的吗",
+      "onboard_time": 1765714704,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 258862,
@@ -12633,14 +12665,6 @@
       "onboard_time": 1765534043,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233593,
-      "num": 233593,
-      "word": "沈佳润小宝眼线是你自己画的吗",
-      "onboard_time": 1765714704,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 233400,
@@ -14347,6 +14371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206202,
+      "num": 204074,
+      "word": "樊振东vs奇里塔",
+      "onboard_time": 1765716684,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206123,
       "num": 305663,
       "word": "DYG战胜WE",
@@ -14569,6 +14601,14 @@
       "onboard_time": 1765373903,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "王安宇打胡先煦屁股",
+      "onboard_time": 1765716624,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204681,
@@ -17603,14 +17643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178568,
-      "num": 178568,
-      "word": "王安宇打胡先煦屁股",
-      "onboard_time": 1765716624,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178485,
       "num": 163729,
       "word": "陈伟霆 它咬了你我立马下班",
@@ -18745,6 +18777,14 @@
       "onboard_time": 1764823524,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168307,
+      "num": 212083,
+      "word": "泰国战斗机轰炸酒店大楼",
+      "onboard_time": 1765716324,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168299,
@@ -22067,6 +22107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146417,
+      "num": 146417,
+      "word": "36岁男子追求43岁女子称姐姐不作",
+      "onboard_time": 1765710262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146394,
       "num": 146394,
       "word": "林子烨艾米 小张凌赫小张婧仪",
@@ -22273,14 +22321,6 @@
       "onboard_time": 1765433062,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144986,
-      "num": 144986,
-      "word": "36岁男子追求43岁女子称姐姐不作",
-      "onboard_time": 1765710262,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144983,
@@ -23073,6 +23113,14 @@
       "onboard_time": 1764573802,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140589,
+      "num": 180893,
+      "word": "宁波去世患儿手术操作存在过失",
+      "onboard_time": 1765714944,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140581,
@@ -24259,14 +24307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134952,
-      "num": 134952,
-      "word": "樊振东vs奇里塔",
-      "onboard_time": 1765716684,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134933,
       "num": 134933,
       "word": "感觉狙击蝴蝶导演真的穷过",
@@ -24737,14 +24777,6 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132840,
-      "num": 132840,
-      "word": "泰国战斗机轰炸酒店大楼",
-      "onboard_time": 1765716324,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132769,
@@ -25796,7 +25828,7 @@
     },
     {
       "raw_hot": 128595,
-      "num": 123844,
+      "num": 124879,
       "word": "停产但非常怀念的零食",
       "onboard_time": 1765714404,
       "rank": 46,
@@ -26545,6 +26577,14 @@
       "onboard_time": 1765164980,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125157,
+      "num": 125157,
+      "word": "五花八们直播",
+      "onboard_time": 1765716624,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125070,
@@ -28643,14 +28683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117611,
-      "num": 117611,
-      "word": "五花八们直播",
-      "onboard_time": 1765716624,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117542,
       "num": 117542,
       "word": "王安宇 打喷嚏原来是王子命",
@@ -30219,6 +30251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112075,
+      "num": 112075,
+      "word": "王曼昱4比2战胜蒯曼",
+      "onboard_time": 1765717523,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "刘诗诗东方淮竹获爱奇艺补偿",
@@ -30577,6 +30617,14 @@
       "onboard_time": 1765275861,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110463,
+      "num": 110463,
+      "word": "孙颖莎不必时时刻刻明亮",
+      "onboard_time": 1765715724,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110420,
@@ -32635,14 +32683,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 102661,
-      "num": 180893,
-      "word": "宁波去世患儿手术操作存在过失",
-      "onboard_time": 1765714944,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102652,
       "num": 102652,
       "word": "第一次觉得四六级不难",
@@ -33483,6 +33523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99969,
+      "num": 286102,
+      "word": "悉尼邦迪滩枪击事件12人死亡",
+      "onboard_time": 1765715662,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99947,
       "num": 205741,
       "word": "外媒关注中国发布全球首款AI手机",
@@ -34049,6 +34097,14 @@
       "onboard_time": 1764813680,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 97662,
+      "num": 233502,
+      "word": "患儿心脏手术后离世多人被免职",
+      "onboard_time": 1765716143,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97636,
@@ -37539,14 +37595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82958,
-      "num": 286102,
-      "word": "悉尼邦迪滩枪击事件12人死亡",
-      "onboard_time": 1765715662,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 82906,
       "num": 120747,
       "word": "日本大米涨价再刷新纪录",
@@ -38281,6 +38329,14 @@
       "onboard_time": 1764777380,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78204,
+      "num": 128020,
+      "word": "外籍男子携11件文物出境被查",
+      "onboard_time": 1765716804,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78200,
@@ -40217,14 +40273,6 @@
       "onboard_time": 1764801256,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64271,
-      "num": 233502,
-      "word": "患儿心脏手术后离世多人被免职",
-      "onboard_time": 1765716143,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64264,
@@ -47979,6 +48027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16540,
+      "num": 128853,
+      "word": "侵华日军制造了至少173场屠杀",
+      "onboard_time": 1765717224,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16527,
       "num": 25332,
       "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
@@ -48249,6 +48305,14 @@
       "onboard_time": 1764611594,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14888,
+      "num": 206462,
+      "word": "女子家门口遇害案凶手庭审冷笑",
+      "onboard_time": 1765717345,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14883,
