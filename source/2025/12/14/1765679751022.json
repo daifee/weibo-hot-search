@@ -1,0 +1,410 @@
+{
+  "runTime": 1765679751022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8376805,
+        "num": 8376805,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887576,
+        "num": 887576,
+        "word": "日本开始军事介入南海",
+        "onboard_time": 1765674919,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47724,
+        "num": 572287,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396783,
+        "num": 396783,
+        "word": "草莓这些年可冤死了",
+        "onboard_time": 1765668796,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293923,
+        "num": 293923,
+        "word": "特朗普或因说漏嘴致间谍曝光",
+        "onboard_time": 1765677200,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328638,
+        "num": 283474,
+        "word": "女儿坠楼妈妈怀疑施工拆玻璃导致",
+        "onboard_time": 1765676423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266372,
+        "num": 266372,
+        "word": "星光大赏",
+        "onboard_time": 1765677501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158471,
+        "num": 266055,
+        "word": "2025微博之夜",
+        "onboard_time": 1765670418,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135536,
+        "num": 264891,
+        "word": "孙颖莎说自己自愿去参赛",
+        "onboard_time": 1765677681,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113404,
+        "num": 264265,
+        "word": "梅西印度活动只待10分钟球迷怒砸场",
+        "onboard_time": 1765672280,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2203914,
+        "num": 262634,
+        "word": "何晴",
+        "onboard_time": 1765675280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822578,
+        "num": 262117,
+        "word": "高中女教师新婚当天坠楼身亡",
+        "onboard_time": 1765640482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452131,
+        "num": 261575,
+        "word": "不交物业费和交物业费的都沉默了",
+        "onboard_time": 1765676841,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338535,
+        "num": 260331,
+        "word": "双轨",
+        "onboard_time": 1765675761,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327743,
+        "num": 258951,
+        "word": "幂级恐惧犯了",
+        "onboard_time": 1765676600,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314209,
+        "num": 258072,
+        "word": "向太回应好婆婆形象没了",
+        "onboard_time": 1765667897,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257885,
+        "num": 257885,
+        "word": "独居老人百万房产赠侄女因逾期失效",
+        "onboard_time": 1765677441,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205599,
+        "num": 205599,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189171,
+        "num": 189171,
+        "word": "探访小米公司不让卖小米涉事村庄",
+        "onboard_time": 1765676480,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172319,
+        "num": 172319,
+        "word": "不齐舞团创始人瞒着母亲做开颅手术",
+        "onboard_time": 1765679062,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295271,
+        "num": 171458,
+        "word": "iPhone17中国市场卖爆",
+        "onboard_time": 1765676781,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163351,
+        "num": 163351,
+        "word": "iPhone的相册你真的会用吗",
+        "onboard_time": 1765668195,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143055,
+        "num": 143055,
+        "word": "胡可大儿子又高又白",
+        "onboard_time": 1765639461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137095,
+        "num": 137095,
+        "word": "王楚钦孙颖莎不熟悉混双亚军颁奖流程",
+        "onboard_time": 1765678703,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129237,
+        "num": 129237,
+        "word": "清华学霸打雪仗还是太雅了",
+        "onboard_time": 1765678462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111807,
+        "num": 122831,
+        "word": "个头更大的草莓真是无辜的",
+        "onboard_time": 1765678402,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120253,
+        "num": 120253,
+        "word": "白鹿 骗完你的骗你的",
+        "onboard_time": 1765635503,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "央视曝光取消自动扣费骗局",
+        "onboard_time": 1765668136,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118874,
+        "num": 118874,
+        "word": "女子体检10年没查出癌症最新进展",
+        "onboard_time": 1765634063,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114483,
+        "num": 114483,
+        "word": "林仲勋说王楚钦应该很累",
+        "onboard_time": 1765677381,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107462,
+        "num": 107462,
+        "word": "张艺兴只有22秒的镜头",
+        "onboard_time": 1765670778,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107424,
+        "num": 107424,
+        "word": "警方通报男子卖冰糖葫芦被掀摊",
+        "onboard_time": 1765670658,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103665,
+        "num": 103665,
+        "word": "虞书欣何与的眼神戏",
+        "onboard_time": 1765678402,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102691,
+        "num": 102691,
+        "word": "女性养肝血推荐四大宝",
+        "onboard_time": 1765676781,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99713,
+        "num": 99713,
+        "word": "大李雾 小李雾",
+        "onboard_time": 1765645878,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93875,
+        "num": 93875,
+        "word": "大批美军增援抵达叙利亚",
+        "onboard_time": 1765679125,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90893,
+        "num": 90893,
+        "word": "望仙谷景区明火被扑灭",
+        "onboard_time": 1765677501,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90818,
+        "num": 90818,
+        "word": "41岁交警生前画面看得心碎",
+        "onboard_time": 1765678823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86795,
+        "num": 86795,
+        "word": "蒯曼描述孙颖莎受伤经过",
+        "onboard_time": 1765677741,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54521,
+        "num": 86265,
+        "word": "家属称女婿碾死女儿有故意杀人嫌疑",
+        "onboard_time": 1765679125,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567230,
+        "num": 86031,
+        "word": "何晴 唯一演遍四大名著的女演员",
+        "onboard_time": 1765676841,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32756,
+        "num": 85830,
+        "word": "湖南怀化贩婴案18名嫌疑人被抓",
+        "onboard_time": 1765677441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85761,
+        "num": 85761,
+        "word": "收费站捡到戴电话手表的猫咪",
+        "onboard_time": 1765655053,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83229,
+        "num": 83229,
+        "word": "大学生创业摆摊被同行掀翻摊位",
+        "onboard_time": 1765668796,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81207,
+        "num": 81207,
+        "word": "日媒称绝不能忘却加害历史",
+        "onboard_time": 1765677321,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80334,
+        "num": 80334,
+        "word": "donk生气",
+        "onboard_time": 1765678281,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76051,
+        "num": 76051,
+        "word": "今年下雪为啥不撒融雪剂了",
+        "onboard_time": 1765633463,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 69180,
+        "num": 69180,
+        "word": "金铲铲补偿",
+        "onboard_time": 1765633522,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68054,
+        "num": 68054,
+        "word": "迪丽热巴 谁说演员不能看镜头",
+        "onboard_time": 1765633644,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67660,
+        "num": 67660,
+        "word": "一条毛巾就能高效练背",
+        "onboard_time": 1765678703,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765678351422,
+  "endTime": 1765679751022,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1835,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8376805,
+      "num": 8376805,
+      "word": "演员何晴去世",
+      "onboard_time": 1765678462,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8337386,
       "num": 8337386,
       "word": "放飞和平鸽",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1748008234,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6617734,
-      "num": 6617734,
-      "word": "王传君东京电影节影帝",
-      "onboard_time": 1762332922,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
