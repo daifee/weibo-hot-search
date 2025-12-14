@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765744201219,
+  "endTime": 1765744978308,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -45147,6 +45147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38158,
+      "num": 38158,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38153,
       "num": 117888,
       "word": "为了陈晓逛了次平遥",
@@ -49739,6 +49747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9668,
+      "num": 26516,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 9491,
       "num": 35363,
       "word": "原神fes抢票",
@@ -49761,14 +49777,6 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9392,
-      "num": 20411,
-      "word": "当暴力萝莉遇上阴湿糙汉",
-      "onboard_time": 1765743374,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 8688,

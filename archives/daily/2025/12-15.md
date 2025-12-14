@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/15 00:32:54 ~ 2025/12/15 04:30:01
+本榜单时间：2025/12/15 00:32:54 ~ 2025/12/15 04:42:58
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ T1夺冠（热度：39466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%23" target="weibo">
+水龙吟（热度：38158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%9A%84%E6%8B%9B%E5%95%86%23" target="weibo">
 成毅的招商（热度：35066）
 </a>
@@ -442,7 +448,7 @@ Peyz泽丽输出高于HLE三C之和（热度：17727）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%23" target="weibo">
-声鸣远扬（热度：12223）
+声鸣远扬（热度：12301）
 </a>
 </li>
 
@@ -454,7 +460,7 @@ Peyz泽丽输出高于HLE三C之和（热度：17727）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%9A%B4%E5%8A%9B%E8%90%9D%E8%8E%89%E9%81%87%E4%B8%8A%E9%98%B4%E6%B9%BF%E7%B3%99%E6%B1%89%23" target="weibo">
-当暴力萝莉遇上阴湿糙汉（热度：9392）
+当暴力萝莉遇上阴湿糙汉（热度：9668）
 </a>
 </li>
 

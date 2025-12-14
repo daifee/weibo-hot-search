@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765744201219,
+  "endTime": 1765744978308,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -3987,6 +3987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38158,
+      "num": 38158,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35355,
       "num": 97696,
       "word": "孙颖莎肖指导有说有笑",
@@ -4459,8 +4467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9392,
-      "num": 20411,
+      "raw_hot": 9668,
+      "num": 26516,
       "word": "当暴力萝莉遇上阴湿糙汉",
       "onboard_time": 1765743374,
       "rank": 49,

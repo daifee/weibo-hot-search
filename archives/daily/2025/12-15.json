@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765744201219,
+  "endTime": 1765744978308,
   "band_list": [
     {
       "raw_hot": 741920,
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38158,
+      "num": 38158,
+      "word": "水龙吟",
+      "onboard_time": 1765744693,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35066,
       "num": 59069,
       "word": "成毅的招商",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 13715,
-      "num": 20469,
+      "num": 26571,
       "word": "音乐缘计划",
       "onboard_time": 1765715784,
       "rank": 28,
@@ -571,8 +579,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12223,
-      "num": 20440,
+      "raw_hot": 12301,
+      "num": 26551,
       "word": "声鸣远扬",
       "onboard_time": 1765716624,
       "rank": 39,
@@ -580,15 +588,15 @@
     },
     {
       "raw_hot": 11849,
-      "num": 20427,
+      "num": 26530,
       "word": "原来十年之约是李飞和柴鸡蛋",
       "onboard_time": 1765719864,
       "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 9392,
-      "num": 20411,
+      "raw_hot": 9668,
+      "num": 26516,
       "word": "当暴力萝莉遇上阴湿糙汉",
       "onboard_time": 1765743374,
       "rank": 49,
