@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765711422249,
+  "endTime": 1765712269477,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1207979,
+      "raw_hot": 1378148,
       "num": 238375,
       "word": "张艺兴 国家话剧院活动",
       "onboard_time": 1765708703,
@@ -219,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 562732,
+      "num": 562732,
+      "word": "悉尼邦迪滩枪击事件10人死亡",
+      "onboard_time": 1765708522,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 560096,
       "num": 560096,
       "word": "4斤黄金凤冠展出时被毁谁来赔",
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387031,
-      "num": 387031,
-      "word": "悉尼邦迪滩枪击事件10人死亡",
-      "onboard_time": 1765708522,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 386793,
       "num": 258072,
       "word": "向太回应好婆婆形象没了",
@@ -441,6 +441,30 @@
       "onboard_time": 1765676423,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338812,
+      "num": 212739,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 338444,
+      "num": 232050,
+      "word": "4300万网红刘二狗泳池直播被指擦边",
+      "onboard_time": 1765711044,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 337221,
+      "num": 337221,
+      "word": "zwy回应",
+      "onboard_time": 1765711642,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 327743,
@@ -577,14 +601,6 @@
       "onboard_time": 1765633463,
       "rank": 31,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 269271,
-      "num": 232050,
-      "word": "4300万网红刘二狗泳池直播被指擦边",
-      "onboard_time": 1765711044,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 268253,
@@ -851,12 +867,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205883,
+      "num": 205883,
+      "word": "沈佳润唱了沈春阳的樱桃红",
+      "onboard_time": 1765711642,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205880,
       "num": 165777,
       "word": "得闲谨制票房破3亿",
       "onboard_time": 1765703482,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205664,
+      "num": 205664,
+      "word": "何与对虞书欣说真拿你没办法",
+      "onboard_time": 1765711822,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 204541,
@@ -889,14 +921,6 @@
       "onboard_time": 1765700182,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202442,
-      "num": 202442,
-      "word": "李现拍的雪后故宫",
-      "onboard_time": 1765710623,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 202362,
@@ -1107,12 +1131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173603,
+      "num": 207034,
+      "word": "WTT回应王楚钦孙颖莎伤退",
+      "onboard_time": 1765711764,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171502,
       "num": 163737,
       "word": "Mike 泰剧白月光国产剧里全中文台词",
       "onboard_time": 1765698862,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168392,
+      "num": 168392,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1765710505,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166645,
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 165629,
-      "num": 147989,
+      "num": 154042,
       "word": "王男直播预告",
       "onboard_time": 1765707324,
       "rank": 30,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1765709782,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159552,
+      "num": 159552,
+      "word": "CFS",
+      "onboard_time": 1765711885,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 159389,
@@ -1315,20 +1363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144379,
+      "num": 144379,
+      "word": "厕所安装吸烟会变透明玻璃",
+      "onboard_time": 1765710202,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143144,
       "num": 143144,
       "word": "王皓对林诗栋说你先让他安静下来",
       "onboard_time": 1765697302,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141769,
-      "num": 141769,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1765710505,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 141530,
@@ -1395,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136579,
-      "num": 136579,
-      "word": "厕所安装吸烟会变透明玻璃",
-      "onboard_time": 1765710202,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136130,
       "num": 136130,
       "word": "孙颖莎回应受伤退赛",
@@ -1425,6 +1465,22 @@
       "onboard_time": 1765677681,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 135461,
+      "word": "选手们暖心祝福樊振东",
+      "onboard_time": 1765711704,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134424,
+      "num": 134424,
+      "word": "霉霉给员工发近2亿美元奖金",
+      "onboard_time": 1765712063,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 133727,
@@ -1651,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120400,
+      "num": 120400,
+      "word": "暧昧期咬一个苹果都像在接吻",
+      "onboard_time": 1765712123,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119813,
       "num": 119813,
       "word": "周柯宇 姑姑开门我是过儿",
@@ -1731,6 +1795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 115803,
+      "num": 115803,
+      "word": "特朗普受够了",
+      "onboard_time": 1765711822,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114999,
       "num": 114999,
       "word": "T1打HLE拿到三个赛点",
@@ -1803,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111917,
+      "num": 120401,
+      "word": "36岁男子追求43岁女子称姐姐不作",
+      "onboard_time": 1765710262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111807,
       "num": 122831,
       "word": "个头更大的草莓真是无辜的",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1765704983,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 109571,
+      "num": 109571,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1765712242,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109200,
@@ -2355,6 +2443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79590,
+      "num": 134388,
+      "word": "日本人的晚餐",
+      "onboard_time": 1765711463,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77924,
       "num": 104274,
       "word": "身体这些不舒服可能是炎症预警",
@@ -2563,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61373,
-      "num": 120401,
-      "word": "36岁男子追求43岁女子称姐姐不作",
-      "onboard_time": 1765710262,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61292,
       "num": 69177,
       "word": "孙颖莎王楚钦最大限度内做到了最好",
@@ -2753,6 +2841,14 @@
       "onboard_time": 1765668077,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42878,
+      "num": 134409,
+      "word": "女子给暖手宝充电仅2分钟突然爆炸",
+      "onboard_time": 1765711764,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41809,

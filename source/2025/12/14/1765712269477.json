@@ -1,0 +1,410 @@
+{
+  "runTime": 1765712269477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 844957,
+        "num": 1135193,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562732,
+        "num": 562732,
+        "word": "悉尼邦迪滩枪击事件10人死亡",
+        "onboard_time": 1765708522,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4169,
+        "num": 338400,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337221,
+        "num": 337221,
+        "word": "zwy回应",
+        "onboard_time": 1765711642,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319897,
+        "num": 319897,
+        "word": "4斤黄金凤冠被毁业内称重做20万起",
+        "onboard_time": 1765703782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6716206,
+        "num": 6716206,
+        "word": "张艺兴发文道歉",
+        "onboard_time": 1765708042,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231538,
+        "num": 231538,
+        "word": "国乒男单无缘5连冠",
+        "onboard_time": 1765705040,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203165,
+        "num": 230083,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40857,
+        "num": 226336,
+        "word": "雪后大范围回暖来了",
+        "onboard_time": 1765702764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352242,
+        "num": 223846,
+        "word": "何炅 已经在努力劝架了",
+        "onboard_time": 1765703902,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1378148,
+        "num": 220406,
+        "word": "张艺兴 国家话剧院活动",
+        "onboard_time": 1765708703,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 663003,
+        "num": 218299,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 517691,
+        "num": 216432,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338812,
+        "num": 212739,
+        "word": "李现拍的雪后故宫",
+        "onboard_time": 1765710623,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338444,
+        "num": 210550,
+        "word": "4300万网红刘二狗泳池直播被指擦边",
+        "onboard_time": 1765711044,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208216,
+        "num": 208216,
+        "word": "何晴最后一次公开露面",
+        "onboard_time": 1765709842,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186602,
+        "num": 207915,
+        "word": "女子结婚14年被家暴13年",
+        "onboard_time": 1765709542,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167834,
+        "num": 207372,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173603,
+        "num": 207034,
+        "word": "WTT回应王楚钦孙颖莎伤退",
+        "onboard_time": 1765711764,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 206431,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205985,
+        "num": 205985,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 205883,
+        "word": "沈佳润唱了沈春阳的樱桃红",
+        "onboard_time": 1765711642,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205664,
+        "num": 205664,
+        "word": "何与对虞书欣说真拿你没办法",
+        "onboard_time": 1765711822,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156858,
+        "num": 203846,
+        "word": "悉尼",
+        "onboard_time": 1765705281,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203498,
+        "num": 203498,
+        "word": "偶遇维嘉以为是俄罗斯美女",
+        "onboard_time": 1765701501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194699,
+        "num": 194699,
+        "word": "下降体脂率最快的6个方法",
+        "onboard_time": 1765706722,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 186975,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186483,
+        "num": 186483,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173287,
+        "num": 173287,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168392,
+        "num": 168392,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1765710505,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159552,
+        "num": 159552,
+        "word": "CFS",
+        "onboard_time": 1765711885,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154042,
+        "num": 154042,
+        "word": "王男直播预告",
+        "onboard_time": 1765707324,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153828,
+        "num": 153828,
+        "word": "仙逆",
+        "onboard_time": 1765709363,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151747,
+        "num": 151747,
+        "word": "网传杨紫李现将三搭",
+        "onboard_time": 1765708463,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "宝宝你才两个月脚怎么就这么大了",
+        "onboard_time": 1765709782,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144379,
+        "num": 144379,
+        "word": "厕所安装吸烟会变透明玻璃",
+        "onboard_time": 1765710202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135461,
+        "num": 135461,
+        "word": "选手们暖心祝福樊振东",
+        "onboard_time": 1765711704,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134424,
+        "num": 134424,
+        "word": "霉霉给员工发近2亿美元奖金",
+        "onboard_time": 1765712063,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42878,
+        "num": 134409,
+        "word": "女子给暖手宝充电仅2分钟突然爆炸",
+        "onboard_time": 1765711764,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79590,
+        "num": 134388,
+        "word": "日本人的晚餐",
+        "onboard_time": 1765711463,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131399,
+        "num": 134376,
+        "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
+        "onboard_time": 1765703543,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219214,
+        "num": 134356,
+        "word": "张本智和又又又致敬樊振东",
+        "onboard_time": 1765703180,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 134336,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371134,
+        "num": 132695,
+        "word": "28岁坠亡女子曾以岗位第一考上教师",
+        "onboard_time": 1765705341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120400,
+        "num": 120400,
+        "word": "暧昧期咬一个苹果都像在接吻",
+        "onboard_time": 1765712123,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115803,
+        "num": 115803,
+        "word": "特朗普受够了",
+        "onboard_time": 1765711822,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114631,
+        "num": 114631,
+        "word": "核心员工离职前骂了公司所有人",
+        "onboard_time": 1765709484,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111917,
+        "num": 111917,
+        "word": "36岁男子追求43岁女子称姐姐不作",
+        "onboard_time": 1765710262,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109670,
+        "num": 109670,
+        "word": "好喜欢充满生命力又可爱的人",
+        "onboard_time": 1765710923,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109571,
+        "num": 109571,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1765712242,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记深刻解析因地制宜#"
+    }
+  }
+}
