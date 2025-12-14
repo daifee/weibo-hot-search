@@ -1,0 +1,410 @@
+{
+  "runTime": 1765723318392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6098660,
+        "num": 6098660,
+        "word": "宁波通报患儿手术后离世",
+        "onboard_time": 1765714044,
+        "rank": 0,
+        "category": "辟谣/通报,健康医疗"
+      },
+      {
+        "raw_hot": 2357925,
+        "num": 2357925,
+        "word": "张本智和冠军",
+        "onboard_time": 1765720766,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20413,
+        "num": 824813,
+        "word": "聚焦经济社会发展",
+        "onboard_time": 1765719084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585996,
+        "num": 585996,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829616,
+        "num": 491817,
+        "word": "莫雷加德透露王楚钦退赛细节",
+        "onboard_time": 1765721724,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370279,
+        "num": 370279,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314060,
+        "num": 314060,
+        "word": "王王队演唱会",
+        "onboard_time": 1765712964,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385860,
+        "num": 311125,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87177,
+        "num": 305119,
+        "word": "铁路清雪车有流浪地球那味了",
+        "onboard_time": 1765718724,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304019,
+        "num": 304019,
+        "word": "张呈 拉完了",
+        "onboard_time": 1765715602,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545158,
+        "num": 303215,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765722203,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468518,
+        "num": 296569,
+        "word": "李现拍的雪后故宫",
+        "onboard_time": 1765710623,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355442,
+        "num": 289720,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 346456,
+        "num": 283196,
+        "word": "孙天宇夯爆了",
+        "onboard_time": 1765720702,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344626,
+        "num": 276173,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311198,
+        "num": 273373,
+        "word": "张本智和vs莫雷加德",
+        "onboard_time": 1765717764,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267964,
+        "num": 267964,
+        "word": "iPhone面容ID还可以这么用",
+        "onboard_time": 1765721964,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249008,
+        "num": 249008,
+        "word": "乌克兰已放弃加入北约",
+        "onboard_time": 1765720825,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245705,
+        "num": 245705,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 91667,
+        "num": 241602,
+        "word": "日本膨胀了",
+        "onboard_time": 1765722623,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 613740,
+        "num": 241432,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241035,
+        "num": 241035,
+        "word": "尚公主",
+        "onboard_time": 1765713984,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268722,
+        "num": 239792,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234557,
+        "num": 234557,
+        "word": "乒协回应孙颖莎王楚钦因伤退赛",
+        "onboard_time": 1765719145,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225745,
+        "num": 225745,
+        "word": "雷淞然 比赛结束了幽默感爆发了",
+        "onboard_time": 1765722564,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223350,
+        "num": 223350,
+        "word": "狙击蝴蝶分手复合在同一集",
+        "onboard_time": 1765718063,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217867,
+        "num": 217867,
+        "word": "虞书欣何与双轨首播战报",
+        "onboard_time": 1765716924,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208832,
+        "num": 208832,
+        "word": "祝绪丹上半身戴了6个蝴蝶结",
+        "onboard_time": 1765721903,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185457,
+        "num": 185457,
+        "word": "金晨发文悼念何晴",
+        "onboard_time": 1765718843,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178229,
+        "num": 178229,
+        "word": "2025乒乓球国际赛事已全部结束",
+        "onboard_time": 1765722502,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183681,
+        "num": 175779,
+        "word": "原来十年之约是李飞和柴鸡蛋",
+        "onboard_time": 1765719864,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165898,
+        "num": 165898,
+        "word": "JDG对战RW",
+        "onboard_time": 1765714044,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163502,
+        "num": 163502,
+        "word": "樊振东vs奇里塔",
+        "onboard_time": 1765716684,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158463,
+        "num": 158463,
+        "word": "魏大勋跳舞空气感 不愧JYP出来的",
+        "onboard_time": 1765719145,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155002,
+        "num": 155002,
+        "word": "T1夺冠",
+        "onboard_time": 1765715484,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160457,
+        "num": 153848,
+        "word": "中国乒协启动保障机制",
+        "onboard_time": 1765719984,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151113,
+        "num": 151113,
+        "word": "柴米油盐酱醋周可人",
+        "onboard_time": 1765720524,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81887,
+        "num": 148045,
+        "word": "悉尼枪击事件1名枪手身份确认",
+        "onboard_time": 1765721065,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "樊振东德甲",
+        "onboard_time": 1765720943,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140297,
+        "num": 140297,
+        "word": "沈佳润小宝眼线是你自己画的吗",
+        "onboard_time": 1765714704,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112019,
+        "num": 139738,
+        "word": "泽连斯基放弃加入北约",
+        "onboard_time": 1765722084,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139702,
+        "num": 139702,
+        "word": "男生杀同学判无期死者母亲申诉被驳",
+        "onboard_time": 1765723163,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136198,
+        "num": 136198,
+        "word": "张韶涵圈内人脉",
+        "onboard_time": 1765722982,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32395,
+        "num": 133322,
+        "word": "液体口罩 虚假宣传",
+        "onboard_time": 1765723283,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 708456,
+        "num": 133156,
+        "word": "小洛熙事件主刀医师具备手术资质",
+        "onboard_time": 1765718724,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129577,
+        "num": 133063,
+        "word": "zwy回应",
+        "onboard_time": 1765711642,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 132990,
+        "word": "孙颖莎王楚钦退赛运动员并非机器",
+        "onboard_time": 1765722203,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177880,
+        "num": 132779,
+        "word": "小洛熙",
+        "onboard_time": 1765714643,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131027,
+        "num": 131027,
+        "word": "向太说易烊千玺的戏路可以到60岁",
+        "onboard_time": 1765722084,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123727,
+        "num": 123727,
+        "word": "不运动也能减脂的7个方法",
+        "onboard_time": 1765723043,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}

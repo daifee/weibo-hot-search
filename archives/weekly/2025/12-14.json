@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765722350713,
+  "endTime": 1765723318392,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1892898,
-      "num": 1892898,
+      "raw_hot": 2357925,
+      "num": 2357925,
       "word": "张本智和冠军",
       "onboard_time": 1765720766,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829616,
+      "num": 491817,
+      "word": "莫雷加德透露王楚钦退赛细节",
+      "onboard_time": 1765721724,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 825650,
       "num": 310406,
       "word": "美伢要闭店了",
@@ -169,6 +177,14 @@
       "onboard_time": 1765685002,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708456,
+      "num": 309796,
+      "word": "小洛熙事件主刀医师具备手术资质",
+      "onboard_time": 1765718724,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 680717,
@@ -321,6 +337,14 @@
       "onboard_time": 1765695802,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 545158,
+      "num": 308439,
+      "word": "狙击蝴蝶热度",
+      "onboard_time": 1765722203,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 534387,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370279,
+      "num": 370279,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1765708882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364761,
       "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
@@ -531,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356166,
-      "num": 309796,
-      "word": "小洛熙事件主刀医师具备手术资质",
-      "onboard_time": 1765718724,
-      "rank": 26,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 352172,
       "num": 216824,
       "word": "导演说尼克从未真正建立亲密关系",
@@ -547,15 +571,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 346433,
-      "num": 283474,
-      "word": "女儿坠楼妈妈怀疑施工拆玻璃导致",
-      "onboard_time": 1765676423,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346083,
+      "raw_hot": 346456,
       "num": 309503,
       "word": "孙天宇夯爆了",
       "onboard_time": 1765720702,
@@ -563,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342363,
-      "num": 309106,
-      "word": "莫雷加德透露王楚钦退赛细节",
-      "onboard_time": 1765721724,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 346433,
+      "num": 283474,
+      "word": "女儿坠楼妈妈怀疑施工拆玻璃导致",
+      "onboard_time": 1765676423,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341249,
@@ -635,28 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315335,
-      "num": 308439,
-      "word": "狙击蝴蝶热度",
-      "onboard_time": 1765722203,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312605,
       "num": 308277,
       "word": "乒协回应孙颖莎王楚钦因伤退赛",
       "onboard_time": 1765719145,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311961,
-      "num": 311961,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1765708882,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 309051,
@@ -819,6 +819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 267964,
+      "num": 267964,
+      "word": "iPhone面容ID还可以这么用",
+      "onboard_time": 1765721964,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267681,
       "num": 801179,
       "word": "王励勤关心询问孙颖莎",
@@ -923,6 +931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 245705,
+      "num": 311048,
+      "word": "央视曝光20倍暴利假陈皮",
+      "onboard_time": 1765721425,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 245389,
       "num": 461132,
       "word": "金铲铲补偿",
@@ -969,6 +985,14 @@
       "onboard_time": 1765719745,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 225745,
+      "num": 225745,
+      "word": "雷淞然 比赛结束了幽默感爆发了",
+      "onboard_time": 1765722564,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 224135,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1765696462,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208832,
+      "num": 208832,
+      "word": "祝绪丹上半身戴了6个蝴蝶结",
+      "onboard_time": 1765721903,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 208707,
@@ -1443,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178229,
+      "num": 178229,
+      "word": "2025乒乓球国际赛事已全部结束",
+      "onboard_time": 1765722502,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177502,
       "num": 177502,
       "word": "王曼昱总决赛夺冠获56万奖金",
@@ -1491,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174906,
-      "num": 174906,
-      "word": "iPhone面容ID还可以这么用",
-      "onboard_time": 1765721964,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 174622,
       "num": 136294,
       "word": "科比官方微博发了孙颖莎",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1765722203,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168568,
-      "num": 168568,
-      "word": "祝绪丹上半身戴了6个蝴蝶结",
-      "onboard_time": 1765721903,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 168392,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1765719745,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165898,
+      "num": 165898,
+      "word": "JDG对战RW",
+      "onboard_time": 1765714044,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 165629,
@@ -1696,14 +1728,6 @@
       "word": "流苏 zwy",
       "onboard_time": 1765718784,
       "rank": 32,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 158135,
-      "num": 158135,
-      "word": "JDG对战RW",
-      "onboard_time": 1765714044,
-      "rank": 47,
       "category": "电竞"
     },
     {
@@ -1915,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139702,
+      "num": 139702,
+      "word": "男生杀同学判无期死者母亲申诉被驳",
+      "onboard_time": 1765723163,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139072,
       "num": 139072,
       "word": "悉尼邦迪滩枪击事件已致3死",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1765678703,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 136198,
+      "word": "张韶涵圈内人脉",
+      "onboard_time": 1765722982,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 136130,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1765700602,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131027,
+      "num": 131027,
+      "word": "向太说易烊千玺的戏路可以到60岁",
+      "onboard_time": 1765722084,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130982,
@@ -2201,6 +2249,14 @@
       "onboard_time": 1765683622,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "不运动也能减脂的7个方法",
+      "onboard_time": 1765723043,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 122996,
@@ -2433,6 +2489,14 @@
       "onboard_time": 1765717523,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112019,
+      "num": 163691,
+      "word": "泽连斯基放弃加入北约",
+      "onboard_time": 1765722084,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111807,
@@ -2755,14 +2819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94903,
-      "num": 163691,
-      "word": "泽连斯基放弃加入北约",
-      "onboard_time": 1765722084,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94354,
       "num": 94354,
       "word": "宝马全新一代X7最新谍照曝光",
@@ -2849,6 +2905,14 @@
       "onboard_time": 1765689442,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91667,
+      "num": 241602,
+      "word": "日本膨胀了",
+      "onboard_time": 1765722623,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91313,
@@ -3027,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81887,
+      "num": 302854,
+      "word": "悉尼枪击事件1名枪手身份确认",
+      "onboard_time": 1765721065,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81596,
       "num": 86079,
       "word": "郭艾伦重返CBA",
@@ -3129,14 +3201,6 @@
       "onboard_time": 1765639342,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76082,
-      "num": 311048,
-      "word": "央视曝光20倍暴利假陈皮",
-      "onboard_time": 1765721425,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75446,
@@ -3321,14 +3385,6 @@
       "onboard_time": 1765622541,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 59465,
-      "num": 302854,
-      "word": "悉尼枪击事件1名枪手身份确认",
-      "onboard_time": 1765721065,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 59323,
@@ -3673,6 +3729,14 @@
       "onboard_time": 1765644559,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32395,
+      "num": 133322,
+      "word": "液体口罩 虚假宣传",
+      "onboard_time": 1765723283,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32277,
