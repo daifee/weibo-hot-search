@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765719888180,
+  "endTime": 1765722350713,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -385,6 +385,14 @@
       "onboard_time": 1765021521,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1892898,
+      "num": 1892898,
+      "word": "张本智和冠军",
+      "onboard_time": 1765720766,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1870366,
@@ -2060,7 +2068,7 @@
     },
     {
       "raw_hot": 825650,
-      "num": 283940,
+      "num": 310406,
       "word": "美伢要闭店了",
       "onboard_time": 1765707561,
       "rank": 31,
@@ -3203,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637056,
+      "num": 306691,
+      "word": "何晴父母均因脑溢血离世",
+      "onboard_time": 1765714524,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636234,
       "num": 284026,
       "word": "向华强称为捧向佐亏了几个亿",
@@ -3779,6 +3795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 579186,
+      "num": 579186,
+      "word": "张本智和vs莫雷加德",
+      "onboard_time": 1765717764,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579071,
       "num": 579071,
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
@@ -4052,7 +4076,7 @@
     },
     {
       "raw_hot": 559321,
-      "num": 285670,
+      "num": 310133,
       "word": "陈妍希 香奈儿老了还是香奈儿",
       "onboard_time": 1765710322,
       "rank": 12,
@@ -4452,7 +4476,7 @@
     },
     {
       "raw_hot": 533738,
-      "num": 284393,
+      "num": 310704,
       "word": "李现拍的雪后故宫",
       "onboard_time": 1765710623,
       "rank": 26,
@@ -5107,14 +5131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 490430,
-      "num": 285181,
-      "word": "何晴父母均因脑溢血离世",
-      "onboard_time": 1765714524,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 490089,
       "num": 268726,
       "word": "警方通报44岁男子公园搂抱女童",
@@ -5193,14 +5209,6 @@
       "onboard_time": 1764827002,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487711,
-      "num": 255381,
-      "word": "张本智和vs莫雷加德",
-      "onboard_time": 1765717764,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 487696,
@@ -6204,7 +6212,7 @@
     },
     {
       "raw_hot": 439556,
-      "num": 281855,
+      "num": 308825,
       "word": "张呈 拉完了",
       "onboard_time": 1765715602,
       "rank": 17,
@@ -6812,7 +6820,7 @@
     },
     {
       "raw_hot": 411124,
-      "num": 282076,
+      "num": 296421,
       "word": "尚公主",
       "onboard_time": 1764944064,
       "rank": 24,
@@ -8012,7 +8020,7 @@
     },
     {
       "raw_hot": 364761,
-      "num": 230034,
+      "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
       "onboard_time": 1765718063,
       "rank": 17,
@@ -8185,6 +8193,14 @@
       "onboard_time": 1764682404,
       "rank": 26,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 356166,
+      "num": 309796,
+      "word": "小洛熙事件主刀医师具备手术资质",
+      "onboard_time": 1765718724,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 356027,
@@ -8531,6 +8547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346083,
+      "num": 309503,
+      "word": "孙天宇夯爆了",
+      "onboard_time": 1765720702,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345909,
       "num": 319629,
       "word": "百色性侵案老师翻供否认强奸女学生",
@@ -8601,6 +8625,14 @@
       "onboard_time": 1765166121,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342363,
+      "num": 309106,
+      "word": "莫雷加德透露王楚钦退赛细节",
+      "onboard_time": 1765721724,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 342028,
@@ -9539,6 +9571,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 315335,
+      "num": 308439,
+      "word": "狙击蝴蝶热度",
+      "onboard_time": 1765151600,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315269,
       "num": 238337,
       "word": "台当局扬言报复韩国",
@@ -9617,6 +9657,14 @@
       "onboard_time": 1764807981,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312605,
+      "num": 308277,
+      "word": "乒协回应孙颖莎王楚钦因伤退赛",
+      "onboard_time": 1765719145,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 312365,
@@ -10169,6 +10217,14 @@
       "onboard_time": 1764723621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 294714,
+      "num": 294714,
+      "word": "金晨发文悼念何晴",
+      "onboard_time": 1765718843,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 293992,
@@ -11204,7 +11260,7 @@
     },
     {
       "raw_hot": 265869,
-      "num": 224712,
+      "num": 235670,
       "word": "虞书欣何与双轨首播战报",
       "onboard_time": 1765716924,
       "rank": 17,
@@ -11465,14 +11521,6 @@
       "onboard_time": 1765112901,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259585,
-      "num": 259585,
-      "word": "小洛熙事件主刀医师具备手术资质",
-      "onboard_time": 1765718724,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 259361,
@@ -11883,6 +11931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249453,
+      "num": 299663,
+      "word": "乌克兰已放弃加入北约",
+      "onboard_time": 1765720825,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248464,
       "num": 358191,
       "word": "江苏省考 草稿纸",
@@ -12272,14 +12328,6 @@
       "word": "保剑锋",
       "onboard_time": 1765539501,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 240712,
-      "num": 214755,
-      "word": "金晨发文悼念何晴",
-      "onboard_time": 1765718843,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -12883,14 +12931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229678,
-      "num": 229678,
-      "word": "狙击蝴蝶热度",
-      "onboard_time": 1765151600,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229475,
       "num": 140373,
       "word": "曹璐回国五年才上内娱综艺",
@@ -12913,6 +12953,14 @@
       "onboard_time": 1764998181,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229031,
+      "num": 229031,
+      "word": "小洛熙事件医院存在多个问题",
+      "onboard_time": 1765719745,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 228974,
@@ -13235,14 +13283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222790,
-      "num": 222790,
-      "word": "乒协回应孙颖莎王楚钦因伤退赛",
-      "onboard_time": 1765719145,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222766,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
@@ -13329,6 +13369,14 @@
       "onboard_time": 1764564323,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219952,
+      "num": 219952,
+      "word": "原来十年之约是李飞和柴鸡蛋",
+      "onboard_time": 1765719864,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 219700,
@@ -13568,6 +13616,14 @@
       "word": "埃奇库姆补篮绝杀勇士",
       "onboard_time": 1764903501,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216616,
+      "num": 216616,
+      "word": "中国乒协启动保障机制",
+      "onboard_time": 1765719984,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -15387,14 +15443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198678,
-      "num": 179245,
-      "word": "小洛熙事件医院存在多个问题",
-      "onboard_time": 1765719745,
-      "rank": 30,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 198659,
       "num": 192994,
       "word": "方力申得女",
@@ -16571,6 +16619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188480,
+      "num": 174967,
+      "word": "樊振东德甲",
+      "onboard_time": 1765720943,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188292,
       "num": 182421,
       "word": "林仲勋说王楚钦应该很累",
@@ -16971,12 +17027,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185176,
+      "num": 163112,
+      "word": "张本智和4比2莫雷加德",
+      "onboard_time": 1765721844,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185079,
       "num": 185079,
       "word": "白鹿晒和小酒窝合照",
       "onboard_time": 1765175421,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185023,
+      "num": 185023,
+      "word": "罗云熙 好听",
+      "onboard_time": 1765721483,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 184978,
@@ -17059,6 +17131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184229,
+      "num": 162958,
+      "word": "莫雷加德亚军",
+      "onboard_time": 1765721363,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184228,
       "num": 184228,
       "word": "米卡全家都被中国圈粉了",
@@ -17113,6 +17193,14 @@
       "onboard_time": 1765514122,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183832,
+      "num": 399687,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1764743540,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 183696,
@@ -17305,14 +17393,6 @@
       "onboard_time": 1764839483,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182299,
-      "num": 399687,
-      "word": "王者荣耀挑战者杯",
-      "onboard_time": 1764743540,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 182276,
@@ -18051,6 +18131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175016,
+      "num": 175016,
+      "word": "魏大勋跳舞空气感 不愧JYP出来的",
+      "onboard_time": 1765719145,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174987,
       "num": 220170,
       "word": "厂二代父亲无差别攻击老婆女儿",
@@ -18065,6 +18153,14 @@
       "onboard_time": 1765616240,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174906,
+      "num": 174906,
+      "word": "iPhone面容ID还可以这么用",
+      "onboard_time": 1765721964,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 174743,
@@ -18659,6 +18755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169961,
+      "num": 161153,
+      "word": "孙颖莎王楚钦退赛运动员并非机器",
+      "onboard_time": 1765722203,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169925,
       "num": 219382,
       "word": "Hero晋级赛排名第一",
@@ -18825,6 +18929,14 @@
       "onboard_time": 1765208541,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168568,
+      "num": 168568,
+      "word": "祝绪丹上半身戴了6个蝴蝶结",
+      "onboard_time": 1765721903,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 168506,
@@ -19931,6 +20043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160526,
+      "num": 160526,
+      "word": "柴米油盐酱醋周可人",
+      "onboard_time": 1765720524,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160513,
       "num": 128707,
       "word": "小S晒母女四人全家福",
@@ -19977,14 +20097,6 @@
       "onboard_time": 1765264821,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160299,
-      "num": 160299,
-      "word": "魏大勋跳舞空气感 不愧JYP出来的",
-      "onboard_time": 1765719145,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 160209,
@@ -20073,6 +20185,14 @@
       "onboard_time": 1765272022,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159590,
+      "num": 161219,
+      "word": "李沛恩新歌",
+      "onboard_time": 1765721004,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 159560,
@@ -20283,6 +20403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158135,
+      "num": 158135,
+      "word": "JDG对战RW",
+      "onboard_time": 1765714044,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158134,
       "num": 360175,
       "word": "和平精英",
@@ -20425,6 +20553,14 @@
       "onboard_time": 1765108462,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157257,
+      "num": 157257,
+      "word": "先吃烂苹果最后吃的全是烂苹果",
+      "onboard_time": 1765721844,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 157122,
@@ -20657,6 +20793,14 @@
       "onboard_time": 1765341743,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155814,
+      "num": 155814,
+      "word": "尚公主剧照",
+      "onboard_time": 1765721425,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 155792,
@@ -26985,14 +27129,6 @@
       "onboard_time": 1765115963,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124076,
-      "num": 124076,
-      "word": "原来十年之约是李飞和柴鸡蛋",
-      "onboard_time": 1765719864,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 124065,
@@ -34443,6 +34579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97069,
+      "num": 311419,
+      "word": "铁路清雪车有流浪地球那味了",
+      "onboard_time": 1765718724,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97055,
       "num": 99291,
       "word": "Scout回到LCK谈JDG",
@@ -34985,6 +35129,14 @@
       "onboard_time": 1765463721,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 94903,
+      "num": 163691,
+      "word": "泽连斯基放弃加入北约",
+      "onboard_time": 1765722084,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94858,
@@ -38851,6 +39003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76082,
+      "num": 311048,
+      "word": "央视曝光20倍暴利假陈皮",
+      "onboard_time": 1765721425,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76043,
       "num": 76043,
       "word": "向涵之的演技",
@@ -41043,6 +41203,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 59465,
+      "num": 302854,
+      "word": "悉尼枪击事件1名枪手身份确认",
+      "onboard_time": 1765721065,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59254,
       "num": 91547,
       "word": "iG纪录片",
@@ -41257,14 +41425,6 @@
       "onboard_time": 1765236199,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57323,
-      "num": 260393,
-      "word": "铁路清雪车有流浪地球那味了",
-      "onboard_time": 1765718724,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57256,
@@ -42321,6 +42481,14 @@
       "onboard_time": 1765026204,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51224,
+      "num": 160542,
+      "word": "官方回应企业打白条欠千万粮食款",
+      "onboard_time": 1765720885,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 51197,
@@ -46308,7 +46476,7 @@
     },
     {
       "raw_hot": 28287,
-      "num": 696262,
+      "num": 867172,
       "word": "聚焦经济社会发展",
       "onboard_time": 1765719084,
       "rank": 2,

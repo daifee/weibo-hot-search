@@ -1,0 +1,410 @@
+{
+  "runTime": 1765722350713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6293861,
+        "num": 6293861,
+        "word": "宁波通报患儿手术后离世",
+        "onboard_time": 1765714044,
+        "rank": 0,
+        "category": "辟谣/通报,健康医疗"
+      },
+      {
+        "raw_hot": 1892898,
+        "num": 1892898,
+        "word": "张本智和冠军",
+        "onboard_time": 1765720766,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18913,
+        "num": 867172,
+        "word": "聚焦经济社会发展",
+        "onboard_time": 1765719084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650668,
+        "num": 650668,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579186,
+        "num": 579186,
+        "word": "张本智和vs莫雷加德",
+        "onboard_time": 1765717764,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391663,
+        "num": 391663,
+        "word": "王王队演唱会",
+        "onboard_time": 1765712964,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311961,
+        "num": 311961,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443119,
+        "num": 311868,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97069,
+        "num": 311419,
+        "word": "铁路清雪车有流浪地球那味了",
+        "onboard_time": 1765718724,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76082,
+        "num": 311048,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 530565,
+        "num": 310704,
+        "word": "李现拍的雪后故宫",
+        "onboard_time": 1765710623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434765,
+        "num": 310406,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 416889,
+        "num": 310133,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356166,
+        "num": 309796,
+        "word": "小洛熙事件主刀医师具备手术资质",
+        "onboard_time": 1765718724,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 346083,
+        "num": 309503,
+        "word": "孙天宇夯爆了",
+        "onboard_time": 1765720702,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342363,
+        "num": 309106,
+        "word": "莫雷加德透露王楚钦退赛细节",
+        "onboard_time": 1765721724,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323699,
+        "num": 308825,
+        "word": "张呈 拉完了",
+        "onboard_time": 1765715602,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315335,
+        "num": 308439,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765722203,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312605,
+        "num": 308277,
+        "word": "乒协回应孙颖莎王楚钦因伤退赛",
+        "onboard_time": 1765719145,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308059,
+        "num": 308059,
+        "word": "狙击蝴蝶分手复合在同一集",
+        "onboard_time": 1765718063,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637056,
+        "num": 306691,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59465,
+        "num": 302854,
+        "word": "悉尼枪击事件1名枪手身份确认",
+        "onboard_time": 1765721065,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249453,
+        "num": 299663,
+        "word": "乌克兰已放弃加入北约",
+        "onboard_time": 1765720825,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398413,
+        "num": 298409,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296421,
+        "num": 296421,
+        "word": "尚公主",
+        "onboard_time": 1765713984,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294714,
+        "num": 294714,
+        "word": "金晨发文悼念何晴",
+        "onboard_time": 1765718843,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235670,
+        "num": 235670,
+        "word": "虞书欣何与双轨首播战报",
+        "onboard_time": 1765716924,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229031,
+        "num": 229031,
+        "word": "小洛熙事件医院存在多个问题",
+        "onboard_time": 1765719745,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 227353,
+        "num": 227353,
+        "word": "小洛熙",
+        "onboard_time": 1765714643,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219952,
+        "num": 219952,
+        "word": "原来十年之约是李飞和柴鸡蛋",
+        "onboard_time": 1765719864,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216616,
+        "num": 216616,
+        "word": "中国乒协启动保障机制",
+        "onboard_time": 1765719984,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 196984,
+        "word": "沈佳润小宝眼线是你自己画的吗",
+        "onboard_time": 1765714704,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185023,
+        "num": 185023,
+        "word": "罗云熙 好听",
+        "onboard_time": 1765721483,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204271,
+        "num": 184740,
+        "word": "樊振东vs奇里塔",
+        "onboard_time": 1765716684,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183832,
+        "num": 183832,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1765721724,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175016,
+        "num": 175016,
+        "word": "魏大勋跳舞空气感 不愧JYP出来的",
+        "onboard_time": 1765719145,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188480,
+        "num": 174967,
+        "word": "樊振东德甲",
+        "onboard_time": 1765720943,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174906,
+        "num": 174906,
+        "word": "iPhone面容ID还可以这么用",
+        "onboard_time": 1765721964,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168568,
+        "num": 168568,
+        "word": "祝绪丹上半身戴了6个蝴蝶结",
+        "onboard_time": 1765721903,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94903,
+        "num": 163691,
+        "word": "泽连斯基放弃加入北约",
+        "onboard_time": 1765722084,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185176,
+        "num": 163112,
+        "word": "张本智和4比2莫雷加德",
+        "onboard_time": 1765721844,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184229,
+        "num": 162958,
+        "word": "莫雷加德亚军",
+        "onboard_time": 1765721363,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 162439,
+        "word": "T1夺冠",
+        "onboard_time": 1765715484,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159590,
+        "num": 161219,
+        "word": "李沛恩新歌",
+        "onboard_time": 1765721004,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169961,
+        "num": 161153,
+        "word": "孙颖莎王楚钦退赛运动员并非机器",
+        "onboard_time": 1765722203,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51224,
+        "num": 160542,
+        "word": "官方回应企业打白条欠千万粮食款",
+        "onboard_time": 1765720885,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 160526,
+        "num": 160526,
+        "word": "柴米油盐酱醋周可人",
+        "onboard_time": 1765720524,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158135,
+        "num": 158135,
+        "word": "JDG对战RW",
+        "onboard_time": 1765714044,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157257,
+        "num": 157257,
+        "word": "先吃烂苹果最后吃的全是烂苹果",
+        "onboard_time": 1765721844,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155814,
+        "num": 155814,
+        "word": "尚公主剧照",
+        "onboard_time": 1765721425,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
