@@ -1,0 +1,410 @@
+{
+  "runTime": 1765708106743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031059,
+        "num": 1164969,
+        "word": "4斤黄金凤冠被毁业内称重做20万起",
+        "onboard_time": 1765703782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847771,
+        "num": 847771,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4607,
+        "num": 845200,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 845072,
+        "num": 845072,
+        "word": "何炅 已经在努力劝架了",
+        "onboard_time": 1765703902,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514315,
+        "num": 514315,
+        "word": "张本智和又又又致敬樊振东",
+        "onboard_time": 1765703180,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424141,
+        "num": 424141,
+        "word": "28岁坠亡女子曾以岗位第一考上教师",
+        "onboard_time": 1765705341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329990,
+        "num": 329990,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334413,
+        "num": 319176,
+        "word": "王楚钦犹豫的每一秒都是尊重",
+        "onboard_time": 1765702823,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45863,
+        "num": 297744,
+        "word": "雪后大范围回暖来了",
+        "onboard_time": 1765702764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287933,
+        "num": 287933,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 541138,
+        "num": 287919,
+        "word": "悉尼",
+        "onboard_time": 1765705281,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 431346,
+        "num": 286640,
+        "word": "张艺兴发文道歉",
+        "onboard_time": 1765708042,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 431221,
+        "num": 285594,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359791,
+        "num": 284260,
+        "word": "国乒男单无缘5连冠",
+        "onboard_time": 1765705040,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322283,
+        "num": 282688,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321776,
+        "num": 282094,
+        "word": "第一次在谢娜脸上看到无助",
+        "onboard_time": 1765704082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281609,
+        "num": 281609,
+        "word": "关晓彤淡淡的就很好",
+        "onboard_time": 1765702222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250177,
+        "num": 250177,
+        "word": "对不起老己",
+        "onboard_time": 1765697482,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226318,
+        "num": 226318,
+        "word": "第一批短剧受害者出现了",
+        "onboard_time": 1765699401,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264510,
+        "num": 225266,
+        "word": "何晴做颅脑手术后语言表达受影响",
+        "onboard_time": 1765689023,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506039,
+        "num": 223020,
+        "word": "偶遇维嘉以为是俄罗斯美女",
+        "onboard_time": 1765701501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249100,
+        "num": 219420,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214502,
+        "num": 214502,
+        "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
+        "onboard_time": 1765703543,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201356,
+        "num": 201356,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174595,
+        "num": 174595,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172850,
+        "num": 172850,
+        "word": "双轨云合超长安二十四计",
+        "onboard_time": 1765702883,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163471,
+        "num": 163471,
+        "word": "下降体脂率最快的6个方法",
+        "onboard_time": 1765706722,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 167161,
+        "num": 161417,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159293,
+        "num": 159293,
+        "word": "T1对战HLE",
+        "onboard_time": 1765703902,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149317,
+        "num": 149317,
+        "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+        "onboard_time": 1765697062,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165629,
+        "num": 147989,
+        "word": "王男直播预告",
+        "onboard_time": 1765707324,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146588,
+        "num": 146588,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144675,
+        "num": 144675,
+        "word": "结婚14年被家暴13年女子发声",
+        "onboard_time": 1765702703,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139764,
+        "num": 139764,
+        "word": "周深一听就知道是自己的菜",
+        "onboard_time": 1765706902,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139072,
+        "num": 139072,
+        "word": "悉尼邦迪滩枪击事件已致3死",
+        "onboard_time": 1765706062,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137535,
+        "num": 137535,
+        "word": "不二之臣用上私人飞机了",
+        "onboard_time": 1765704022,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120690,
+        "num": 120690,
+        "word": "HLE Kanavi",
+        "onboard_time": 1765706360,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116637,
+        "num": 116637,
+        "word": "范丞丞飞吻王安宇",
+        "onboard_time": 1765705942,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109422,
+        "num": 109422,
+        "word": "烟花美甲",
+        "onboard_time": 1765704983,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105389,
+        "num": 105389,
+        "word": "景区猴子打架致胳膊只剩骨头",
+        "onboard_time": 1765705463,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22256,
+        "num": 105255,
+        "word": "当地村民回应男子杀害两妇女后潜逃",
+        "onboard_time": 1765706841,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105179,
+        "num": 105179,
+        "word": "汪顺半蹲和郭晶晶合影",
+        "onboard_time": 1765705521,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68304,
+        "num": 101896,
+        "word": "女子谎称为八旬老人生子诈骗160万元",
+        "onboard_time": 1765706662,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101637,
+        "num": 101637,
+        "word": "澳大利亚邦迪海滩发生枪击",
+        "onboard_time": 1765705762,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84014,
+        "num": 100592,
+        "word": "张本智和拿了3次总决赛第二",
+        "onboard_time": 1765707622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100459,
+        "num": 100459,
+        "word": "DYG道歉",
+        "onboard_time": 1765707922,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98323,
+        "num": 98323,
+        "word": "奶茶 流苏",
+        "onboard_time": 1765695983,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35355,
+        "num": 97696,
+        "word": "孙颖莎肖指导有说有笑",
+        "onboard_time": 1765706422,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 97576,
+        "word": "战争和人 白敬亭",
+        "onboard_time": 1765705463,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95478,
+        "num": 95478,
+        "word": "张远跨年现在开始点菜",
+        "onboard_time": 1765707982,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记深刻解析因地制宜#"
+    }
+  }
+}
