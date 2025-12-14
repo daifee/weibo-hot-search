@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765712269477,
+  "endTime": 1765716717802,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -81,6 +81,14 @@
       "onboard_time": 1765708042,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6978253,
+      "num": 8228253,
+      "word": "宁波通报患儿手术后离世",
+      "onboard_time": 1765714044,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 6156148,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 1378148,
-      "num": 238375,
+      "num": 541616,
       "word": "张艺兴 国家话剧院活动",
       "onboard_time": 1765708703,
       "rank": 24,
@@ -2052,7 +2060,7 @@
     },
     {
       "raw_hot": 825650,
-      "num": 270596,
+      "num": 283940,
       "word": "美伢要闭店了",
       "onboard_time": 1765707561,
       "rank": 31,
@@ -3715,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582717,
+      "num": 582717,
+      "word": "小洛熙",
+      "onboard_time": 1765714643,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 582111,
       "num": 582111,
       "word": "江苏省考好难",
@@ -3867,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568757,
+      "num": 568757,
+      "word": "我国已经进入拉尼娜状态",
+      "onboard_time": 1765713085,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568469,
       "num": 485181,
       "word": "葛夕 恋综",
@@ -4012,7 +4036,7 @@
     },
     {
       "raw_hot": 559321,
-      "num": 236420,
+      "num": 285670,
       "word": "陈妍希 香奈儿老了还是香奈儿",
       "onboard_time": 1765710322,
       "rank": 12,
@@ -4585,6 +4609,14 @@
       "onboard_time": 1764590602,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521315,
+      "num": 521315,
+      "word": "王王队演唱会",
+      "onboard_time": 1765712964,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 520687,
@@ -5283,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480989,
+      "num": 480989,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1765712242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480633,
       "num": 381454,
       "word": "刘亦菲阿联酋素颜照",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1764661523,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456898,
+      "num": 285181,
+      "word": "何晴父母均因脑溢血离世",
+      "onboard_time": 1765714524,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 456873,
@@ -6761,6 +6809,14 @@
       "onboard_time": 1765012283,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 410204,
+      "num": 284393,
+      "word": "李现拍的雪后故宫",
+      "onboard_time": 1765710623,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 409260,
@@ -8619,14 +8675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338812,
-      "num": 212739,
-      "word": "李现拍的雪后故宫",
-      "onboard_time": 1765710623,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338444,
       "num": 232050,
       "word": "4300万网红刘二狗泳池直播被指擦边",
@@ -8699,6 +8747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336711,
+      "num": 283385,
+      "word": "WTT回应王楚钦孙颖莎伤退",
+      "onboard_time": 1765711764,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336636,
       "num": 499179,
       "word": "幼儿园虐童视频多到要用硬盘存",
@@ -8721,6 +8777,14 @@
       "onboard_time": 1764557360,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336027,
+      "num": 336027,
+      "word": "AG获得2025CFS总冠军",
+      "onboard_time": 1765714884,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 335861,
@@ -9595,6 +9659,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 309738,
+      "num": 282950,
+      "word": "T1夺冠",
+      "onboard_time": 1765715484,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 309455,
       "num": 338365,
       "word": "恋与深空",
@@ -9705,6 +9777,14 @@
       "onboard_time": 1765086440,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305475,
+      "num": 282076,
+      "word": "尚公主",
+      "onboard_time": 1764944064,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 305448,
@@ -10267,6 +10347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286383,
+      "num": 286383,
+      "word": "患儿手术后离世多人被处理",
+      "onboard_time": 1765714104,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285882,
       "num": 285882,
       "word": "乒乓球",
@@ -10449,6 +10537,14 @@
       "onboard_time": 1765428981,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281855,
+      "num": 281855,
+      "word": "张呈 拉完了",
+      "onboard_time": 1765715602,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 281777,
@@ -10841,6 +10937,14 @@
       "onboard_time": 1764768023,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271489,
+      "num": 226787,
+      "word": "樊振东顶着空气刘海上班",
+      "onboard_time": 1765713025,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 271068,
@@ -11332,7 +11436,7 @@
     },
     {
       "raw_hot": 258862,
-      "num": 167022,
+      "num": 189793,
       "word": "T1对战HLE",
       "onboard_time": 1765703902,
       "rank": 30,
@@ -12529,6 +12633,14 @@
       "onboard_time": 1765534043,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233593,
+      "num": 233593,
+      "word": "沈佳润小宝眼线是你自己画的吗",
+      "onboard_time": 1765714704,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 233400,
@@ -15459,14 +15571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196141,
-      "num": 196141,
-      "word": "尚公主",
-      "onboard_time": 1764944064,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196113,
       "num": 202107,
       "word": "TGA直播",
@@ -16083,6 +16187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190212,
+      "num": 190212,
+      "word": "T1战胜HLE",
+      "onboard_time": 1765715602,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "何老师越听越觉得不对劲",
@@ -16419,6 +16531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187560,
+      "num": 187560,
+      "word": "霉霉给员工发近2亿美元奖金",
+      "onboard_time": 1765712063,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187454,
       "num": 187454,
       "word": "特朗普要求高市早苗不要挑衅中国",
@@ -16649,6 +16769,14 @@
       "onboard_time": 1764649401,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185633,
+      "num": 185633,
+      "word": "音乐缘计划",
+      "onboard_time": 1765715784,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 185594,
@@ -17475,6 +17603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178568,
+      "num": 178568,
+      "word": "王安宇打胡先煦屁股",
+      "onboard_time": 1765716624,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178485,
       "num": 163729,
       "word": "陈伟霆 它咬了你我立马下班",
@@ -17609,6 +17745,14 @@
       "onboard_time": 1764653300,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177163,
+      "num": 177163,
+      "word": "Faker首个K杯冠军",
+      "onboard_time": 1765715423,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 177040,
@@ -17955,14 +18099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173603,
-      "num": 207034,
-      "word": "WTT回应王楚钦孙颖莎伤退",
-      "onboard_time": 1765711764,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173566,
       "num": 173566,
       "word": "狙击蝴蝶重拾长剧信心",
@@ -18097,6 +18233,14 @@
       "onboard_time": 1765428562,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172595,
+      "num": 172595,
+      "word": "厕所安装吸烟会变透明玻璃",
+      "onboard_time": 1765710202,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172578,
@@ -19403,6 +19547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162218,
+      "num": 162218,
+      "word": "AG 团结",
+      "onboard_time": 1765713324,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162204,
       "num": 227258,
       "word": "SofM以选手身份复出",
@@ -19841,6 +19993,14 @@
       "onboard_time": 1765163480,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159201,
+      "num": 159201,
+      "word": "暧昧期咬一个苹果都像在接吻",
+      "onboard_time": 1765712123,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 159186,
@@ -21451,6 +21611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148963,
+      "num": 148963,
+      "word": "何晴 我想战胜病魔走回舞台",
+      "onboard_time": 1765712724,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148944,
       "num": 206700,
       "word": "李刚一审被判15年",
@@ -22107,6 +22275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "36岁男子追求43岁女子称姐姐不作",
+      "onboard_time": 1765710262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144983,
       "num": 144983,
       "word": "鸣潮获TGA玩家之声",
@@ -22233,14 +22409,6 @@
       "onboard_time": 1764556341,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 144379,
-      "num": 144379,
-      "word": "厕所安装吸烟会变透明玻璃",
-      "onboard_time": 1765710202,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144269,
@@ -23531,6 +23699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137491,
+      "num": 137491,
+      "word": "声鸣远扬",
+      "onboard_time": 1765716624,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137472,
       "num": 137472,
       "word": "李健清华档案照",
@@ -24083,6 +24259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134952,
+      "num": 134952,
+      "word": "樊振东vs奇里塔",
+      "onboard_time": 1765716684,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134933,
       "num": 134933,
       "word": "感觉狙击蝴蝶导演真的穷过",
@@ -24209,14 +24393,6 @@
       "onboard_time": 1764997281,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134424,
-      "num": 134424,
-      "word": "霉霉给员工发近2亿美元奖金",
-      "onboard_time": 1765712063,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 134403,
@@ -24561,6 +24737,14 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132840,
+      "num": 132840,
+      "word": "泰国战斗机轰炸酒店大楼",
+      "onboard_time": 1765716324,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132769,
@@ -25227,6 +25411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130293,
+      "num": 130293,
+      "word": "孙颖莎开赛前没让任何人知道状态变化",
+      "onboard_time": 1765712603,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130291,
       "num": 130291,
       "word": "租房结婚vs买房结婚",
@@ -25315,6 +25507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129932,
+      "num": 129932,
+      "word": "第一次知道老家特产有多牛",
+      "onboard_time": 1765715843,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129898,
       "num": 129898,
       "word": "抖音高管回应红楼梦悼明说",
@@ -25393,6 +25593,14 @@
       "onboard_time": 1765290863,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129511,
+      "num": 129511,
+      "word": "Peyz泽丽",
+      "onboard_time": 1765716444,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 129489,
@@ -25585,6 +25793,14 @@
       "onboard_time": 1764804078,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128595,
+      "num": 123844,
+      "word": "停产但非常怀念的零食",
+      "onboard_time": 1765714404,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 128512,
@@ -27579,14 +27795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120400,
-      "num": 120400,
-      "word": "暧昧期咬一个苹果都像在接吻",
-      "onboard_time": 1765712123,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120341,
       "num": 120341,
       "word": "孙颖莎王楚钦今日轮休",
@@ -28433,6 +28641,14 @@
       "onboard_time": 1765088240,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117611,
+      "num": 117611,
+      "word": "五花八们直播",
+      "onboard_time": 1765716624,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117542,
@@ -30043,14 +30259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111917,
-      "num": 120401,
-      "word": "36岁男子追求43岁女子称姐姐不作",
-      "onboard_time": 1765710262,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111872,
       "num": 111872,
       "word": "肖战 上班老舅下班爱豆",
@@ -30537,14 +30745,6 @@
       "onboard_time": 1765521261,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109571,
-      "num": 109571,
-      "word": "蒯曼vs王曼昱",
-      "onboard_time": 1765712242,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109520,
@@ -32433,6 +32633,14 @@
       "onboard_time": 1765704801,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 102661,
+      "num": 180893,
+      "word": "宁波去世患儿手术操作存在过失",
+      "onboard_time": 1765714944,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102652,
@@ -37331,6 +37539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82958,
+      "num": 286102,
+      "word": "悉尼邦迪滩枪击事件12人死亡",
+      "onboard_time": 1765715662,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82906,
       "num": 120747,
       "word": "日本大米涨价再刷新纪录",
@@ -38344,6 +38560,14 @@
       "word": "32岁宝妈连跑12小时网约车后中风",
       "onboard_time": 1765452080,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76745,
+      "num": 118185,
+      "word": "法院已经受理小洛熙家属的诉讼",
+      "onboard_time": 1765715004,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -39993,6 +40217,14 @@
       "onboard_time": 1764801256,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64271,
+      "num": 233502,
+      "word": "患儿心脏手术后离世多人被免职",
+      "onboard_time": 1765716143,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64264,
