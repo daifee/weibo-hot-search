@@ -1,0 +1,410 @@
+{
+  "runTime": 1765688062203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5006933,
+        "num": 5006933,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560096,
+        "num": 560096,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34710,
+        "num": 351893,
+        "word": "北京用未诉先办重新定义城市治理",
+        "onboard_time": 1765685302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270514,
+        "num": 270514,
+        "word": "军队文职",
+        "onboard_time": 1765683383,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259316,
+        "num": 259316,
+        "word": "何晴",
+        "onboard_time": 1765675280,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222353,
+        "num": 222353,
+        "word": "草莓这些年可冤死了",
+        "onboard_time": 1765668796,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427556,
+        "num": 220487,
+        "word": "好友证实女教师生前发文称不想结婚",
+        "onboard_time": 1765682784,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245652,
+        "num": 219475,
+        "word": "何晴被曝患脑瘤后淡出演艺圈",
+        "onboard_time": 1765683443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18566,
+        "num": 218678,
+        "word": "140岁落叶松救活一片荒漠",
+        "onboard_time": 1765676781,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217958,
+        "num": 217958,
+        "word": "韩国组合没有庆祝夺冠",
+        "onboard_time": 1765682062,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1357383,
+        "num": 217914,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352172,
+        "num": 216824,
+        "word": "导演说尼克从未真正建立亲密关系",
+        "onboard_time": 1765684945,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284990,
+        "num": 216200,
+        "word": "戒掉熬夜第一步不是早睡",
+        "onboard_time": 1765680743,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249228,
+        "num": 215180,
+        "word": "汪苏泷 我不想录这一集了",
+        "onboard_time": 1765685242,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214500,
+        "num": 214500,
+        "word": "00后好像被分成了三批",
+        "onboard_time": 1765682003,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 706243,
+        "num": 205741,
+        "word": "许亚军何晴儿子不久前才亮相杂志",
+        "onboard_time": 1765685002,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 179394,
+        "word": "iPhone17中国市场卖爆",
+        "onboard_time": 1765676781,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104168,
+        "num": 165586,
+        "word": "恋与深空",
+        "onboard_time": 1765682902,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160776,
+        "num": 160776,
+        "word": "不齐舞团创始人瞒着母亲做开颅手术",
+        "onboard_time": 1765679062,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159078,
+        "num": 159078,
+        "word": "不交物业费和交物业费的都沉默了",
+        "onboard_time": 1765676841,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155082,
+        "num": 155082,
+        "word": "星光大赏",
+        "onboard_time": 1765677501,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "汕头火灾独自逃生10岁女孩整日哭",
+        "onboard_time": 1765683862,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "999元买13斤咸菜",
+        "onboard_time": 1765686382,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101047,
+        "num": 152109,
+        "word": "独居老人百万房产赠侄女因逾期失效",
+        "onboard_time": 1765677441,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151889,
+        "num": 151889,
+        "word": "王楚然1秒钟800个表情",
+        "onboard_time": 1765683982,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150890,
+        "num": 150890,
+        "word": "中年大厂人离职后都去了哪里",
+        "onboard_time": 1765686983,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 145865,
+        "word": "虞书欣姜暮头盔戴反了",
+        "onboard_time": 1765685423,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 145195,
+        "word": "幂级恐惧犯了",
+        "onboard_time": 1765676600,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144841,
+        "num": 144841,
+        "word": "用放羊的星星打开双轨",
+        "onboard_time": 1765686923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 144510,
+        "word": "TF家族新音抢票",
+        "onboard_time": 1765681884,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30904,
+        "num": 137816,
+        "word": "曝美军在叙利亚紧急出动F16",
+        "onboard_time": 1765686262,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 136294,
+        "word": "科比官方微博发了孙颖莎",
+        "onboard_time": 1765687643,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132859,
+        "num": 132859,
+        "word": "比亚迪胜诉龙猪网络诋毁案细节",
+        "onboard_time": 1765685002,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132356,
+        "num": 132356,
+        "word": "狙击蝴蝶程雅昭五官跟三观一样正",
+        "onboard_time": 1765687763,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129735,
+        "num": 129735,
+        "word": "爱你老己在蓝盈莹身上具象化了",
+        "onboard_time": 1765686622,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70747,
+        "num": 128092,
+        "word": "王一博科普亲妈点",
+        "onboard_time": 1765686143,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127282,
+        "num": 127282,
+        "word": "这三位艺人就这么水灵灵跪下了",
+        "onboard_time": 1765684703,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14397,
+        "num": 121678,
+        "word": "滑翔伞坠落致残飞行者自担八成责任",
+        "onboard_time": 1765687462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57256,
+        "num": 121325,
+        "word": "低价社区食堂为何开不下去了",
+        "onboard_time": 1765687162,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 76862,
+        "num": 121207,
+        "word": "全场观众把掌声送给孙颖莎",
+        "onboard_time": 1765687582,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121189,
+        "num": 121189,
+        "word": "李现 故宫刺客",
+        "onboard_time": 1765680503,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112210,
+        "num": 112210,
+        "word": "这一段真的有人看了不脸红吗",
+        "onboard_time": 1765687101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101226,
+        "num": 101226,
+        "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
+        "onboard_time": 1765680803,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98846,
+        "num": 98846,
+        "word": "男子掀翻2学生卖糖葫芦摊位被行拘",
+        "onboard_time": 1765685002,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98484,
+        "num": 98484,
+        "word": "NBA杯半决赛",
+        "onboard_time": 1765687643,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98142,
+        "num": 98142,
+        "word": "成年人要有自己兜底的能力",
+        "onboard_time": 1765686262,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93273,
+        "num": 93273,
+        "word": "猪猪侠",
+        "onboard_time": 1765688002,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92847,
+        "num": 92847,
+        "word": "周柯宇说后面会有一场激烈一点的吻戏",
+        "onboard_time": 1765687942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30363,
+        "num": 91406,
+        "word": "从G2到C5东升西降是大势所趋",
+        "onboard_time": 1765686262,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90999,
+        "num": 90999,
+        "word": "黑色长款羽绒服搭配思路",
+        "onboard_time": 1765681222,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}

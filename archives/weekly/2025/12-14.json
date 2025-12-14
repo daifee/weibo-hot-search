@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765685617415,
+  "endTime": 1765688062203,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -83,8 +83,8 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 488633,
-      "num": 488633,
+      "raw_hot": 560096,
+      "num": 560096,
       "word": "4斤黄金凤冠展出时被毁谁来赔",
       "onboard_time": 1765678884,
       "rank": 17,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352172,
+      "num": 216824,
+      "word": "导演说尼克从未真正建立亲密关系",
+      "onboard_time": 1765684945,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346433,
       "num": 283474,
       "word": "女儿坠楼妈妈怀疑施工拆玻璃导致",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 322266,
-      "num": 172697,
+      "num": 179394,
       "word": "iPhone17中国市场卖爆",
       "onboard_time": 1765676781,
       "rank": 20,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249228,
+      "num": 215180,
+      "word": "汪苏泷 我不想录这一集了",
+      "onboard_time": 1765685242,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245389,
       "num": 461132,
       "word": "金铲铲补偿",
@@ -307,12 +323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217958,
+      "num": 217958,
+      "word": "韩国组合没有庆祝夺冠",
+      "onboard_time": 1765682062,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215504,
       "num": 215504,
       "word": "女子体检10年没查出癌症最新进展",
       "onboard_time": 1765634063,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214500,
+      "num": 214500,
+      "word": "00后好像被分成了三批",
+      "onboard_time": 1765682003,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 212878,
@@ -329,22 +361,6 @@
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202987,
-      "num": 202987,
-      "word": "导演说尼克从未真正建立亲密关系",
-      "onboard_time": 1765684945,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 200825,
-      "num": 205850,
-      "word": "00后好像被分成了三批",
-      "onboard_time": 1765682003,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 196768,
@@ -411,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180953,
-      "num": 180953,
-      "word": "韩国组合没有庆祝夺冠",
-      "onboard_time": 1765682062,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176045,
       "num": 145533,
       "word": "比亚迪胜诉龙猪网络诋毁案细节",
       "onboard_time": 1765685002,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174622,
+      "num": 136294,
+      "word": "科比官方微博发了孙颖莎",
+      "onboard_time": 1765687643,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 173672,
@@ -451,6 +467,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153962,
+      "num": 153962,
+      "word": "汕头火灾独自逃生10岁女孩整日哭",
+      "onboard_time": 1765683862,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152461,
+      "num": 152461,
+      "word": "999元买13斤咸菜",
+      "onboard_time": 1765686382,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150890,
+      "num": 150890,
+      "word": "中年大厂人离职后都去了哪里",
+      "onboard_time": 1765686983,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150354,
       "num": 150354,
       "word": "花一百万就给我看这个",
@@ -475,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142622,
-      "num": 205660,
-      "word": "汪苏泷 我不想录这一集了",
-      "onboard_time": 1765685242,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 145865,
+      "num": 145865,
+      "word": "虞书欣姜暮头盔戴反了",
+      "onboard_time": 1765685423,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144841,
+      "num": 144841,
+      "word": "用放羊的星星打开双轨",
+      "onboard_time": 1765686923,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 138944,
@@ -531,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132356,
+      "num": 132356,
+      "word": "狙击蝴蝶程雅昭五官跟三观一样正",
+      "onboard_time": 1765687763,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130235,
       "num": 130235,
       "word": "黑色长款羽绒服搭配思路",
       "onboard_time": 1765681222,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "爱你老己在蓝盈莹身上具象化了",
+      "onboard_time": 1765686622,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 129237,
@@ -643,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112210,
+      "num": 112210,
+      "word": "这一段真的有人看了不脸红吗",
+      "onboard_time": 1765687101,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111807,
       "num": 122831,
       "word": "个头更大的草莓真是无辜的",
@@ -675,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100546,
-      "num": 117756,
-      "word": "汕头火灾独自逃生10岁女孩整日哭",
-      "onboard_time": 1765683862,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100060,
       "num": 117333,
       "word": "军队文职答案",
@@ -713,6 +777,22 @@
       "onboard_time": 1765623860,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98484,
+      "num": 98484,
+      "word": "NBA杯半决赛",
+      "onboard_time": 1765687643,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98142,
+      "num": 98142,
+      "word": "成年人要有自己兜底的能力",
+      "onboard_time": 1765686262,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 96764,
@@ -755,12 +835,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93273,
+      "num": 93273,
+      "word": "猪猪侠",
+      "onboard_time": 1765688002,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 93031,
       "num": 93031,
       "word": "王艳19岁儿子球球身高",
       "onboard_time": 1765640660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92847,
+      "num": 92847,
+      "word": "周柯宇说后面会有一场激烈一点的吻戏",
+      "onboard_time": 1765687942,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 92552,
@@ -835,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85323,
-      "num": 115453,
-      "word": "虞书欣姜暮头盔戴反了",
-      "onboard_time": 1765685423,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82987,
       "num": 82987,
       "word": "日媒称绝不能忘却加害历史",
@@ -907,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76862,
+      "num": 121207,
+      "word": "全场观众把掌声送给孙颖莎",
+      "onboard_time": 1765687582,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76586,
       "num": 86011,
       "word": "经销商称收到贵州茅台停货通知",
@@ -955,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70747,
+      "num": 128092,
+      "word": "王一博科普亲妈点",
+      "onboard_time": 1765686143,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70706,
       "num": 70706,
       "word": "日本八纮一宇塔应当被拆除",
@@ -964,7 +1068,7 @@
     },
     {
       "raw_hot": 69184,
-      "num": 69184,
+      "num": 218678,
       "word": "140岁落叶松救活一片荒漠",
       "onboard_time": 1765676781,
       "rank": 46,
@@ -1073,6 +1177,14 @@
       "onboard_time": 1765668316,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57256,
+      "num": 121325,
+      "word": "低价社区食堂为何开不下去了",
+      "onboard_time": 1765687162,
+      "rank": 38,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 57069,
@@ -1211,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34710,
+      "num": 351893,
+      "word": "北京用未诉先办重新定义城市治理",
+      "onboard_time": 1765685302,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34328,
       "num": 42426,
       "word": "美国孕妇被生母继父剖腹取胎杀害",
@@ -1249,6 +1369,22 @@
       "onboard_time": 1765644559,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30904,
+      "num": 137816,
+      "word": "曝美军在叙利亚紧急出动F16",
+      "onboard_time": 1765686262,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30363,
+      "num": 91406,
+      "word": "从G2到C5东升西降是大势所趋",
+      "onboard_time": 1765686262,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29851,
@@ -1363,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14397,
+      "num": 121678,
+      "word": "滑翔伞坠落致残飞行者自担八成责任",
+      "onboard_time": 1765687462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13505,
       "num": 26383,
       "word": "曝王耀庆蔡国庆闹掰",
@@ -1401,14 +1545,6 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8411,
-      "num": 306702,
-      "word": "北京用未诉先办重新定义城市治理",
-      "onboard_time": 1765685302,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1426,
