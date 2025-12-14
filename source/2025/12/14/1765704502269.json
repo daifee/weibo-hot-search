@@ -1,0 +1,410 @@
+{
+  "runTime": 1765704502269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048416,
+        "num": 1167746,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409131,
+        "num": 409131,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3481,
+        "num": 352717,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331755,
+        "num": 331755,
+        "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+        "onboard_time": 1765697062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324386,
+        "num": 324386,
+        "word": "王楚钦犹豫的每一秒都是尊重",
+        "onboard_time": 1765702823,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593919,
+        "num": 324281,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250214,
+        "num": 324117,
+        "word": "郭焱谈王楚钦因伤退赛",
+        "onboard_time": 1765701202,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238226,
+        "num": 324002,
+        "word": "4斤黄金凤冠被毁业内称重做20万起",
+        "onboard_time": 1765703782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34451,
+        "num": 323796,
+        "word": "雪后大范围回暖来了",
+        "onboard_time": 1765702764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234858,
+        "num": 323687,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 710265,
+        "num": 323603,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626840,
+        "num": 323395,
+        "word": "对不起老己",
+        "onboard_time": 1765697482,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411839,
+        "num": 323293,
+        "word": "第一批短剧受害者出现了",
+        "onboard_time": 1765699401,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592491,
+        "num": 323125,
+        "word": "香港住宅楼起火400多住户凌晨逃生",
+        "onboard_time": 1765696042,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323019,
+        "num": 323019,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289160,
+        "num": 289160,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284165,
+        "num": 284165,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277318,
+        "num": 277318,
+        "word": "双轨云合超长安二十四计",
+        "onboard_time": 1765702883,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210192,
+        "num": 210192,
+        "word": "第一次在谢娜脸上看到无助",
+        "onboard_time": 1765704082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187691,
+        "num": 187691,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1765696103,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696096,
+        "num": 184824,
+        "word": "偶遇维嘉以为是俄罗斯美女",
+        "onboard_time": 1765701501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375817,
+        "num": 180675,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322057,
+        "num": 178145,
+        "word": "何晴做颅脑手术后语言表达受影响",
+        "onboard_time": 1765689023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208849,
+        "num": 175312,
+        "word": "关晓彤淡淡的就很好",
+        "onboard_time": 1765702222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 169971,
+        "word": "李家超将赴京述职",
+        "onboard_time": 1765703002,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205880,
+        "num": 165777,
+        "word": "得闲谨制票房破3亿",
+        "onboard_time": 1765703482,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119317,
+        "num": 161226,
+        "word": "老人用奶粉罐装近15万寄给骗子",
+        "onboard_time": 1765702883,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190645,
+        "num": 158681,
+        "word": "何炅 已经在努力劝架了",
+        "onboard_time": 1765703902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 154901,
+        "word": "DYG挑杯遗憾止步",
+        "onboard_time": 1765703002,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151915,
+        "num": 151915,
+        "word": "张本智和又又又致敬樊振东",
+        "onboard_time": 1765703180,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178342,
+        "num": 150635,
+        "word": "T1对战HLE",
+        "onboard_time": 1765703902,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149337,
+        "num": 149337,
+        "word": "KSG挺进挑杯八强",
+        "onboard_time": 1765703243,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148022,
+        "num": 148022,
+        "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
+        "onboard_time": 1765703543,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 141102,
+        "word": "结婚14年被家暴13年女子发声",
+        "onboard_time": 1765702703,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137891,
+        "num": 137891,
+        "word": "肠包蛋也进入瑜伽裤时代",
+        "onboard_time": 1765701622,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134276,
+        "num": 134276,
+        "word": "陈小纭身上的诡魅感",
+        "onboard_time": 1765701202,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128644,
+        "num": 128644,
+        "word": "奶茶 流苏",
+        "onboard_time": 1765695983,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 127210,
+        "word": "中国留美学生在图书馆躲枪案5小时",
+        "onboard_time": 1765704261,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56319,
+        "num": 126456,
+        "word": "王一博腹语无障碍交流",
+        "onboard_time": 1765703662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66327,
+        "num": 126165,
+        "word": "不二之臣用上私人飞机了",
+        "onboard_time": 1765704022,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125968,
+        "num": 125968,
+        "word": "王耀庆严选内娱四大帅哥",
+        "onboard_time": 1765702403,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118163,
+        "num": 118163,
+        "word": "樊振东腾空照片入围世界体育摄影奖",
+        "onboard_time": 1765703962,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114085,
+        "num": 114085,
+        "word": "丁禹兮 内娱有自己的乌啦啦",
+        "onboard_time": 1765702883,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 113721,
+        "word": "举报上司职场霸凌后反被起诉",
+        "onboard_time": 1765703061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113699,
+        "num": 113699,
+        "word": "句号3个MVP",
+        "onboard_time": 1765704022,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111319,
+        "num": 111319,
+        "word": "莫雷加德说退赛也是为了职业生涯更长久",
+        "onboard_time": 1765700602,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 110671,
+        "word": "陈妍希无声哭戏",
+        "onboard_time": 1765701561,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110268,
+        "num": 110268,
+        "word": "万岁山景区回应演员被冻成冰雕",
+        "onboard_time": 1765701020,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29720,
+        "num": 108607,
+        "word": "全景还原汕头火灾",
+        "onboard_time": 1765702823,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 107417,
+        "word": "气血不足有多可怕",
+        "onboard_time": 1765703962,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记深刻解析因地制宜#"
+    }
+  }
+}
