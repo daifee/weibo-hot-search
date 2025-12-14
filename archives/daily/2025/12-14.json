@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765723318392,
+  "endTime": 1765726017316,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -139,6 +139,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 804085,
+      "num": 250090,
+      "word": "RW战胜JDG",
+      "onboard_time": 1765725563,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 774967,
       "num": 478861,
       "word": "涉嫌歧视中国人芬兰小姐公开道歉",
@@ -193,6 +201,14 @@
       "onboard_time": 1765634964,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672192,
+      "num": 249804,
+      "word": "巨人观的水果尸体慢慢浮出水面",
+      "onboard_time": 1765724905,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 668193,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513739,
+      "num": 513739,
+      "word": "王皓生气了",
+      "onboard_time": 1765724962,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492615,
       "num": 492615,
       "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365727,
+      "num": 216899,
+      "word": "感染艾滋病老人称死也不能丢脸",
+      "onboard_time": 1765724003,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364761,
       "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
@@ -585,6 +617,14 @@
       "onboard_time": 1765676423,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342498,
+      "num": 248195,
+      "word": "JDG对战RW",
+      "onboard_time": 1765714044,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 341249,
@@ -657,6 +697,14 @@
       "onboard_time": 1765719145,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311905,
+      "num": 311905,
+      "word": "央视曝光20倍暴利假陈皮",
+      "onboard_time": 1765721425,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 309051,
@@ -907,6 +955,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254940,
+      "num": 216268,
+      "word": "樊振东弗朗西斯卡出战双打",
+      "onboard_time": 1765723883,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251477,
+      "num": 299663,
+      "word": "乌克兰已放弃加入北约",
+      "onboard_time": 1765720825,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250214,
       "num": 324117,
       "word": "郭焱谈王楚钦因伤退赛",
@@ -915,28 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249453,
-      "num": 299663,
-      "word": "乌克兰已放弃加入北约",
-      "onboard_time": 1765720825,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 248029,
       "num": 248029,
       "word": "2025年度时尚封面人物",
       "onboard_time": 1765692620,
       "rank": 8,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 245705,
-      "num": 311048,
-      "word": "央视曝光20倍暴利假陈皮",
-      "onboard_time": 1765721425,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 245389,
@@ -1307,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190393,
+      "num": 190393,
+      "word": "张本智和窘态百出",
+      "onboard_time": 1765725324,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190339,
       "num": 190339,
       "word": "水银体温计线上99元一支",
@@ -1371,6 +1427,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187471,
+      "num": 187471,
+      "word": "JDG醒醒",
+      "onboard_time": 1765725503,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 186105,
+      "num": 251323,
+      "word": "小洛熙事件手术监控摄像配置合规",
+      "onboard_time": 1765720885,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 185793,
       "num": 185793,
       "word": "沈梦辰说越来越多厂二代不愿意接班",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1765721483,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184518,
+      "num": 184518,
+      "word": "樊振东3比0奇里塔",
+      "onboard_time": 1765723943,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 184229,
@@ -1531,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174973,
+      "num": 174973,
+      "word": "王曼昱再捧总决赛奖杯",
+      "onboard_time": 1765724841,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174622,
       "num": 136294,
       "word": "科比官方微博发了孙颖莎",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1765710202,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172033,
+      "num": 172033,
+      "word": "某某某大底的神",
+      "onboard_time": 1765724603,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 171502,
@@ -1617,14 +1713,6 @@
       "onboard_time": 1765719745,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165898,
-      "num": 165898,
-      "word": "JDG对战RW",
-      "onboard_time": 1765714044,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 165629,
@@ -1755,6 +1843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155627,
+      "num": 155627,
+      "word": "女子买二手存钱罐开出2千多现金",
+      "onboard_time": 1765723462,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155482,
+      "num": 150225,
+      "word": "男生杀同学判无期死者母亲申诉被驳",
+      "onboard_time": 1765723163,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155475,
       "num": 155475,
       "word": "不二之臣用上私人飞机了",
@@ -1801,6 +1905,14 @@
       "onboard_time": 1765686382,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151736,
+      "num": 151736,
+      "word": "陈奕恒在韩国训练了三个月",
+      "onboard_time": 1765723524,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 150354,
@@ -1875,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145668,
+      "num": 145668,
+      "word": "张韶涵圈内人脉",
+      "onboard_time": 1765722982,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144841,
       "num": 144841,
       "word": "用放羊的星星打开双轨",
@@ -1939,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139702,
-      "num": 139702,
-      "word": "男生杀同学判无期死者母亲申诉被驳",
-      "onboard_time": 1765723163,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139072,
       "num": 139072,
       "word": "悉尼邦迪滩枪击事件已致3死",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1765680803,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137964,
+      "num": 137964,
+      "word": "无畏的张良",
+      "onboard_time": 1765725742,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 137891,
@@ -2003,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136198,
-      "num": 136198,
-      "word": "张韶涵圈内人脉",
-      "onboard_time": 1765722982,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136130,
       "num": 136130,
       "word": "孙颖莎回应受伤退赛",
@@ -2043,12 +2155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "清融 女娲神",
+      "onboard_time": 1765724723,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133727,
       "num": 133727,
       "word": "贾玲姐姐贾丹记录的李焕英",
       "onboard_time": 1765695441,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133666,
+      "num": 133666,
+      "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
+      "onboard_time": 1765725623,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133271,
@@ -2081,6 +2209,14 @@
       "onboard_time": 1765701020,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131965,
+      "num": 187830,
+      "word": "日本想中美发生战争",
+      "onboard_time": 1765724423,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131917,
@@ -2201,6 +2337,14 @@
       "onboard_time": 1765645878,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127918,
+      "num": 127918,
+      "word": "乒协呼吁营造理性温暖的舆论环境",
+      "onboard_time": 1765725742,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127538,
@@ -2355,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118477,
+      "num": 118477,
+      "word": "唱歌是低成本养气血的方法",
+      "onboard_time": 1765725382,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "樊振东腾空照片入围世界体育摄影奖",
@@ -2409,6 +2561,14 @@
       "onboard_time": 1765711822,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "王曼昱回应密集赛程",
+      "onboard_time": 1765725924,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114999,
@@ -2849,6 +3009,14 @@
       "onboard_time": 1765711224,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93046,
+      "num": 119255,
+      "word": "为王嘉尔哭到发抖的南美人",
+      "onboard_time": 1765724423,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 93031,
@@ -3307,6 +3475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63875,
+      "num": 120338,
+      "word": "王楚钦曾表示身体已到极限",
+      "onboard_time": 1765724363,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63420,
       "num": 69184,
       "word": "美国布朗大学发生校园枪击",
@@ -3393,6 +3569,14 @@
       "onboard_time": 1765639403,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59215,
+      "num": 180356,
+      "word": "千元假陈皮成本仅70元",
+      "onboard_time": 1765724423,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 59115,
@@ -4025,6 +4209,14 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9042,
+      "num": 142089,
+      "word": "女子2年骗走男友140万打赏主播",
+      "onboard_time": 1765725623,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8092,
