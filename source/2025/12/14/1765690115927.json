@@ -1,0 +1,410 @@
+{
+  "runTime": 1765690115927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3397946,
+        "num": 3397946,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528990,
+        "num": 528990,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38773,
+        "num": 383360,
+        "word": "揭开日本伪装受害者的真面目",
+        "onboard_time": 1765682243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334675,
+        "num": 334675,
+        "word": "科比吧官方微博发了孙颖莎",
+        "onboard_time": 1765687643,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309338,
+        "num": 309338,
+        "word": "何晴",
+        "onboard_time": 1765675280,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 230348,
+        "word": "美报告称中国拥有超600枚超音速导弹",
+        "onboard_time": 1765688423,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 224820,
+        "num": 224820,
+        "word": "草莓这些年可冤死了",
+        "onboard_time": 1765668796,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182153,
+        "num": 182153,
+        "word": "军队文职",
+        "onboard_time": 1765683383,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151830,
+        "num": 182061,
+        "word": "韩国组合没有庆祝夺冠",
+        "onboard_time": 1765682062,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128459,
+        "num": 181180,
+        "word": "星光大赏",
+        "onboard_time": 1765677501,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1110038,
+        "num": 179806,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526626,
+        "num": 179397,
+        "word": "好友证实女教师生前发文称不想结婚",
+        "onboard_time": 1765682784,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339451,
+        "num": 178426,
+        "word": "导演说尼克从未真正建立亲密关系",
+        "onboard_time": 1765684945,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262929,
+        "num": 177572,
+        "word": "戒掉熬夜第一步不是早睡",
+        "onboard_time": 1765680743,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257382,
+        "num": 176518,
+        "word": "汪苏泷 我不想录这一集了",
+        "onboard_time": 1765685242,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 911925,
+        "num": 175988,
+        "word": "何晴做颅脑手术后语言表达受影响",
+        "onboard_time": 1765689023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254251,
+        "num": 175001,
+        "word": "周扬青说3克拉以下建议买培育钻",
+        "onboard_time": 1765688902,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174325,
+        "num": 174325,
+        "word": "00后好像被分成了三批",
+        "onboard_time": 1765682003,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 168360,
+        "word": "罗永浩说豪华新能源就看沃尔沃XC70",
+        "onboard_time": 1765688722,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 168149,
+        "word": "日本太空航母野心曝光",
+        "onboard_time": 1765689083,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207411,
+        "num": 168141,
+        "word": "中年大厂人离职后都去了哪里",
+        "onboard_time": 1765686983,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168099,
+        "num": 168099,
+        "word": "iPhone17中国市场卖爆",
+        "onboard_time": 1765676781,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166645,
+        "num": 166645,
+        "word": "陈伟霆是金晨带过最差的一届",
+        "onboard_time": 1765688243,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166180,
+        "num": 166180,
+        "word": "沈梦辰一句嘴瓢两个主持笑场",
+        "onboard_time": 1765689561,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156594,
+        "num": 156594,
+        "word": "虞书欣姜暮头盔戴反了",
+        "onboard_time": 1765685423,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148229,
+        "num": 148229,
+        "word": "汕头火灾独自逃生10岁女孩整日哭",
+        "onboard_time": 1765683862,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 122766,
+        "word": "幂级恐惧犯了",
+        "onboard_time": 1765676600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "不交物业费和交物业费的都沉默了",
+        "onboard_time": 1765676841,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118630,
+        "num": 118630,
+        "word": "第一次见到雪的猫",
+        "onboard_time": 1765689202,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 114049,
+        "word": "独居老人百万房产赠侄女因逾期失效",
+        "onboard_time": 1765677441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136112,
+        "num": 113840,
+        "word": "句句不离衣服 句句不是衣服",
+        "onboard_time": 1765689501,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121044,
+        "num": 113434,
+        "word": "王楚钦为了让孙颖莎少跑动想一板过",
+        "onboard_time": 1765689862,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112675,
+        "num": 112675,
+        "word": "王楚然告别跑男",
+        "onboard_time": 1765689741,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83728,
+        "num": 111187,
+        "word": "比亚迪胜诉龙猪网络诋毁案细节",
+        "onboard_time": 1765685002,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110806,
+        "num": 110806,
+        "word": "不齐舞团创始人瞒着母亲做开颅手术",
+        "onboard_time": 1765679062,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109443,
+        "num": 109443,
+        "word": "爱你老己在蓝盈莹身上具象化了",
+        "onboard_time": 1765686622,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108243,
+        "num": 108243,
+        "word": "狙击蝴蝶程雅昭五官跟三观一样正",
+        "onboard_time": 1765687763,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98749,
+        "num": 98749,
+        "word": "李现 故宫刺客",
+        "onboard_time": 1765680503,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100349,
+        "num": 98556,
+        "word": "周柯宇说后面会有一场激烈一点的吻戏",
+        "onboard_time": 1765687942,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97832,
+        "num": 97832,
+        "word": "这一段真的有人看了不脸红吗",
+        "onboard_time": 1765687101,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38310,
+        "num": 97163,
+        "word": "C罗将出演速度与激情",
+        "onboard_time": 1765688783,
+        "rank": 40,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 96785,
+        "num": 96785,
+        "word": "江西上饶通报望仙谷景区火灾",
+        "onboard_time": 1765688962,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23943,
+        "num": 96205,
+        "word": "泰柬尚未开始任何停火谈判",
+        "onboard_time": 1765688662,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95904,
+        "num": 95904,
+        "word": "NBA杯半决赛",
+        "onboard_time": 1765687643,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94910,
+        "num": 94910,
+        "word": "猪猪侠",
+        "onboard_time": 1765688002,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93121,
+        "num": 93121,
+        "word": "TF家族新音抢票",
+        "onboard_time": 1765681884,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92437,
+        "num": 92437,
+        "word": "费启鸣 没人能笑着走出理发店",
+        "onboard_time": 1765688243,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92323,
+        "num": 92323,
+        "word": "我果然不是当老师的料",
+        "onboard_time": 1765689442,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86367,
+        "num": 86367,
+        "word": "这顿饭她只出了话费",
+        "onboard_time": 1765689382,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63987,
+        "num": 85042,
+        "word": "Faker谈决赛交手Gumayusi",
+        "onboard_time": 1765688362,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}
