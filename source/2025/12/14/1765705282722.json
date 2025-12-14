@@ -1,0 +1,410 @@
+{
+  "runTime": 1765705282722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037325,
+        "num": 1165972,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747160,
+        "num": 747160,
+        "word": "4斤黄金凤冠被毁业内称重做20万起",
+        "onboard_time": 1765703782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4083,
+        "num": 546441,
+        "word": "海南自贸港封关将带来更多机遇",
+        "onboard_time": 1765636403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425807,
+        "num": 425807,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 399943,
+        "num": 399943,
+        "word": "王楚钦犹豫的每一秒都是尊重",
+        "onboard_time": 1765702823,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554104,
+        "num": 362513,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282303,
+        "num": 282303,
+        "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+        "onboard_time": 1765697062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232646,
+        "num": 232646,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41293,
+        "num": 222845,
+        "word": "雪后大范围回暖来了",
+        "onboard_time": 1765702764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219713,
+        "num": 219713,
+        "word": "郭焱谈王楚钦因伤退赛",
+        "onboard_time": 1765701202,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658023,
+        "num": 218685,
+        "word": "对不起老己",
+        "onboard_time": 1765697482,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637330,
+        "num": 207729,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406870,
+        "num": 201936,
+        "word": "第一批短剧受害者出现了",
+        "onboard_time": 1765699401,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323231,
+        "num": 196807,
+        "word": "何晴做颅脑手术后语言表达受影响",
+        "onboard_time": 1765689023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299656,
+        "num": 190732,
+        "word": "双轨云合超长安二十四计",
+        "onboard_time": 1765702883,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265204,
+        "num": 182464,
+        "word": "第一次在谢娜脸上看到无助",
+        "onboard_time": 1765704082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264215,
+        "num": 178336,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262828,
+        "num": 172840,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258862,
+        "num": 167022,
+        "word": "T1对战HLE",
+        "onboard_time": 1765703902,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160760,
+        "num": 160760,
+        "word": "张本智和又又又致敬樊振东",
+        "onboard_time": 1765703180,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715052,
+        "num": 160353,
+        "word": "偶遇维嘉以为是俄罗斯美女",
+        "onboard_time": 1765701501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405036,
+        "num": 158901,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318575,
+        "num": 158451,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261281,
+        "num": 157554,
+        "word": "关晓彤淡淡的就很好",
+        "onboard_time": 1765702222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212554,
+        "num": 156530,
+        "word": "何炅 已经在努力劝架了",
+        "onboard_time": 1765703902,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156075,
+        "num": 156075,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1765696103,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155475,
+        "num": 155475,
+        "word": "不二之臣用上私人飞机了",
+        "onboard_time": 1765704022,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146930,
+        "num": 146930,
+        "word": "刷到檀健次我愣了三次",
+        "onboard_time": 1765704501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129298,
+        "num": 129298,
+        "word": "老人用奶粉罐装近15万寄给骗子",
+        "onboard_time": 1765702883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "莫雷加德说退赛也是为了职业生涯更长久",
+        "onboard_time": 1765700602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155618,
+        "num": 127749,
+        "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
+        "onboard_time": 1765703543,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135873,
+        "num": 127601,
+        "word": "国乒男单无缘5连冠",
+        "onboard_time": 1765705040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 125913,
+        "word": "结婚14年被家暴13年女子发声",
+        "onboard_time": 1765702703,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 122092,
+        "word": "KSG战胜DYG",
+        "onboard_time": 1765704561,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121038,
+        "num": 121038,
+        "word": "奶茶 流苏",
+        "onboard_time": 1765695983,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120515,
+        "num": 120515,
+        "word": "DYG挑杯遗憾止步",
+        "onboard_time": 1765703002,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118257,
+        "num": 118257,
+        "word": "樊振东腾空照片入围世界体育摄影奖",
+        "onboard_time": 1765703962,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96466,
+        "num": 118052,
+        "word": "李家超将赴京述职",
+        "onboard_time": 1765703002,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117946,
+        "num": 117946,
+        "word": "句号3个MVP",
+        "onboard_time": 1765704022,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38856,
+        "num": 115532,
+        "word": "中国留美学生在图书馆躲枪案5小时",
+        "onboard_time": 1765704261,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114880,
+        "num": 114880,
+        "word": "肠包蛋也进入瑜伽裤时代",
+        "onboard_time": 1765701622,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 113951,
+        "word": "得闲谨制票房破3亿",
+        "onboard_time": 1765703482,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110585,
+        "num": 110585,
+        "word": "烟花美甲",
+        "onboard_time": 1765704983,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 103802,
+        "num": 103802,
+        "word": "陈小纭身上的诡魅感",
+        "onboard_time": 1765701202,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103723,
+        "num": 103723,
+        "word": "华为Mate80掉湖里51小时捞起还能用",
+        "onboard_time": 1765701981,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103676,
+        "num": 103676,
+        "word": "王耀庆严选内娱四大帅哥",
+        "onboard_time": 1765702403,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51572,
+        "num": 103579,
+        "word": "王一博腹语无障碍交流",
+        "onboard_time": 1765703662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102198,
+        "num": 103574,
+        "word": "全红婵训练最早到最晚走",
+        "onboard_time": 1765704561,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103571,
+        "num": 103571,
+        "word": "又怎么了姜暮大小姐",
+        "onboard_time": 1765703842,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102675,
+        "num": 102675,
+        "word": "如果一个人的朋友圈特别正常",
+        "onboard_time": 1765704801,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记深刻解析因地制宜#"
+    }
+  }
+}
