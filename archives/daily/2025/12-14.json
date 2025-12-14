@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765697182958,
+  "endTime": 1765697965427,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 711752,
-      "num": 231231,
+      "num": 235015,
       "word": "许亚军何晴儿子不久前才亮相杂志",
       "onboard_time": 1765685002,
       "rank": 15,
@@ -131,7 +131,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557538,
+      "raw_hot": 559701,
       "num": 297948,
       "word": "刘亦菲晒初雪哈哈合照",
       "onboard_time": 1765694902,
@@ -171,8 +171,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462449,
+      "num": 462449,
+      "word": "香港住宅楼起火400多住户凌晨逃生",
+      "onboard_time": 1765696042,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457732,
-      "num": 312049,
+      "num": 435277,
       "word": "林诗栋3比4张本智和",
       "onboard_time": 1765696103,
       "rank": 6,
@@ -241,6 +249,22 @@
       "onboard_time": 1765675761,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359570,
+      "num": 243353,
+      "word": "虞书欣回复何与",
+      "onboard_time": 1765697242,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 357027,
+      "num": 240052,
+      "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+      "onboard_time": 1765697062,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 352172,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280614,
-      "num": 280614,
-      "word": "香港住宅楼起火400多住户凌晨逃生",
-      "onboard_time": 1765696042,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279490,
       "num": 207766,
       "word": "周柯宇演技",
@@ -451,20 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237774,
+      "num": 237774,
+      "word": "国家发文禁止亏本卖车",
+      "onboard_time": 1765696223,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 234594,
+      "num": 234594,
+      "word": "金晨 我是瞎了吗",
+      "onboard_time": 1765695504,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231812,
       "num": 211695,
       "word": "曾把胸隆炸的网红在泰国坠亡",
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 231414,
-      "num": 231414,
-      "word": "金晨 我是瞎了吗",
-      "onboard_time": 1765695504,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 224135,
@@ -523,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214643,
-      "num": 214643,
-      "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
-      "onboard_time": 1765697062,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214500,
       "num": 214500,
       "word": "00后好像被分成了三批",
@@ -547,20 +563,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 212242,
-      "num": 212242,
-      "word": "国家发文禁止亏本卖车",
-      "onboard_time": 1765696223,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 211673,
-      "num": 212702,
+      "num": 237001,
       "word": "莫雷加德拥抱王楚钦",
       "onboard_time": 1765696462,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208172,
+      "num": 208172,
+      "word": "何与拍了虞书欣",
+      "onboard_time": 1765696702,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 207340,
@@ -739,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "北京烤鸭是十大名菜之首吗",
+      "onboard_time": 1765697242,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166180,
       "num": 166180,
       "word": "沈梦辰一句嘴瓢两个主持笑场",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 159389,
-      "num": 151414,
+      "num": 158431,
       "word": "美军被曝突袭从中国驶往伊朗货轮",
       "onboard_time": 1765696042,
       "rank": 31,
@@ -785,6 +809,14 @@
       "onboard_time": 1765694061,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157572,
+      "num": 157572,
+      "word": "奶茶 流苏",
+      "onboard_time": 1765695983,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 156594,
@@ -859,20 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144663,
-      "num": 144663,
-      "word": "何与拍了虞书欣",
-      "onboard_time": 1765696702,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143009,
-      "num": 143009,
-      "word": "奶茶 流苏",
-      "onboard_time": 1765695983,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "王皓对林诗栋说你先让他安静下来",
+      "onboard_time": 1765697302,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 138944,
@@ -987,7 +1011,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129347,
+      "raw_hot": 129403,
       "num": 129347,
       "word": "孙颖莎现身机场",
       "onboard_time": 1765696342,
@@ -1163,6 +1187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109200,
+      "num": 109200,
+      "word": "当一天外卖员赔600",
+      "onboard_time": 1765697662,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108823,
       "num": 108823,
       "word": "清华教授建议放开禁限摩",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1765678402,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102836,
+      "num": 102836,
+      "word": "对不起老己",
+      "onboard_time": 1765697482,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 102691,
@@ -1291,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96403,
+      "num": 96403,
+      "word": "周柯宇声比人先碎了",
+      "onboard_time": 1765697842,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95532,
       "num": 95532,
       "word": "蒯曼描述孙颖莎受伤经过",
@@ -1363,6 +1411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92364,
+      "num": 129438,
+      "word": "别人出发图 杨超越出厕图",
+      "onboard_time": 1765696462,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92323,
       "num": 92323,
       "word": "我果然不是当老师的料",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1765693522,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88909,
+      "num": 236143,
+      "word": "长沙盲人老太事件拍摄者发文道歉",
+      "onboard_time": 1765696822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88477,
@@ -1779,14 +1843,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 57460,
-      "num": 129438,
-      "word": "别人出发图 杨超越出厕图",
-      "onboard_time": 1765696462,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57256,
       "num": 121325,
       "word": "低价社区食堂为何开不下去了",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1765630762,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54994,
+      "num": 98671,
+      "word": "罗永浩带货沃尔沃全新XC70",
+      "onboard_time": 1765697482,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 54521,
@@ -1881,14 +1945,6 @@
       "onboard_time": 1765668077,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42891,
-      "num": 225653,
-      "word": "长沙盲人老太事件拍摄者发文道歉",
-      "onboard_time": 1765696822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41809,
@@ -1979,6 +2035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34311,
+      "num": 129356,
+      "word": "女子称腿伤就医司机强制院外下车",
+      "onboard_time": 1765696643,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33502,
       "num": 60997,
       "word": "山西忻州3.4级地震",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1765644559,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31287,
+      "num": 112255,
+      "word": "女子露营饮酒溺亡同行好友赔偿45万",
+      "onboard_time": 1765697242,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30904,
@@ -2059,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29541,
-      "num": 129356,
-      "word": "女子称腿伤就医司机强制院外下车",
-      "onboard_time": 1765696643,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28506,
       "num": 47693,
       "word": "双子座流星雨",
@@ -2107,6 +2171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24204,
+      "num": 306882,
+      "word": "2026年中国经济三个关键词",
+      "onboard_time": 1765682243,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24052,
       "num": 42454,
       "word": "广东一公司财务造假10名高管集体获刑",
@@ -2137,14 +2209,6 @@
       "onboard_time": 1765685063,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20493,
-      "num": 306882,
-      "word": "2026年中国经济三个关键词",
-      "onboard_time": 1765682243,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18838,
@@ -2227,7 +2291,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3599,
+      "raw_hot": 5486,
       "num": 891721,
       "word": "被日寇焚烧的古树如今守着102名烈士",
       "onboard_time": 1765624941,

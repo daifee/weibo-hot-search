@@ -1,0 +1,410 @@
+{
+  "runTime": 1765697965427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7502041,
+        "num": 7502041,
+        "word": "王楚钦因伤退赛",
+        "onboard_time": 1765695504,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1609875,
+        "num": 1609875,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5486,
+        "num": 745034,
+        "word": "被日寇焚烧的古树如今守着102名烈士",
+        "onboard_time": 1765624941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462449,
+        "num": 462449,
+        "word": "香港住宅楼起火400多住户凌晨逃生",
+        "onboard_time": 1765696042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435277,
+        "num": 435277,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1765696103,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516754,
+        "num": 364357,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258208,
+        "num": 258208,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433170,
+        "num": 256518,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1765692682,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24204,
+        "num": 254930,
+        "word": "2026年中国经济三个关键词",
+        "onboard_time": 1765682243,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309470,
+        "num": 253091,
+        "word": "魏大勋进去daddy出来baby",
+        "onboard_time": 1765691721,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559701,
+        "num": 249825,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473429,
+        "num": 246989,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426344,
+        "num": 245488,
+        "word": "霉霉 不上价值直接给钱",
+        "onboard_time": 1765691422,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359570,
+        "num": 243353,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357027,
+        "num": 240052,
+        "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+        "onboard_time": 1765697062,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317367,
+        "num": 238691,
+        "word": "陈哲远我叫桑延你记住",
+        "onboard_time": 1765693943,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 237774,
+        "num": 237774,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188321,
+        "num": 237001,
+        "word": "莫雷加德拥抱王楚钦",
+        "onboard_time": 1765696462,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184457,
+        "num": 236302,
+        "word": "牛蛙被小狗吓到扶墙大哭",
+        "onboard_time": 1765692081,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88909,
+        "num": 236143,
+        "word": "长沙盲人老太事件拍摄者发文道歉",
+        "onboard_time": 1765696822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371406,
+        "num": 235015,
+        "word": "许亚军何晴儿子不久前才亮相杂志",
+        "onboard_time": 1765685002,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234594,
+        "num": 234594,
+        "word": "金晨 我是瞎了吗",
+        "onboard_time": 1765695504,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208172,
+        "num": 208172,
+        "word": "何与拍了虞书欣",
+        "onboard_time": 1765696702,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190589,
+        "num": 190589,
+        "word": "王玉雯看小说看一半喵上了",
+        "onboard_time": 1765694181,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166507,
+        "num": 166507,
+        "word": "北京烤鸭是十大名菜之首吗",
+        "onboard_time": 1765697242,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176810,
+        "num": 165541,
+        "word": "知道上林赋什么意思吗你就抄",
+        "onboard_time": 1765695802,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163604,
+        "num": 163604,
+        "word": "林诗栋无缘WTT香港男单决赛",
+        "onboard_time": 1765696163,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162215,
+        "num": 162215,
+        "word": "猪猪侠",
+        "onboard_time": 1765688002,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159994,
+        "num": 159994,
+        "word": "2025年度时尚封面人物",
+        "onboard_time": 1765692620,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 158431,
+        "num": 158431,
+        "word": "美军被曝突袭从中国驶往伊朗货轮",
+        "onboard_time": 1765696042,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157572,
+        "num": 157572,
+        "word": "奶茶 流苏",
+        "onboard_time": 1765695983,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144328,
+        "num": 144328,
+        "word": "景区NPC演员被冻成冰雕",
+        "onboard_time": 1765695260,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143144,
+        "num": 143144,
+        "word": "王皓对林诗栋说你先让他安静下来",
+        "onboard_time": 1765697302,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136408,
+        "num": 136408,
+        "word": "樊振东接受萨尔报采访",
+        "onboard_time": 1765696223,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125521,
+        "num": 125521,
+        "word": "周扬青说3克拉以下建议买培育钻",
+        "onboard_time": 1765688902,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135710,
+        "num": 121896,
+        "word": "张本智和男单晋级决赛",
+        "onboard_time": 1765696702,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117826,
+        "num": 117826,
+        "word": "贾玲姐姐贾丹记录的李焕英",
+        "onboard_time": 1765695441,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116211,
+        "num": 116211,
+        "word": "鞠婧祎 谁说演员不能看镜头",
+        "onboard_time": 1765692501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31287,
+        "num": 112255,
+        "word": "女子露营饮酒溺亡同行好友赔偿45万",
+        "onboard_time": 1765697242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109200,
+        "num": 109200,
+        "word": "当一天外卖员赔600",
+        "onboard_time": 1765697662,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129403,
+        "num": 108697,
+        "word": "孙颖莎现身机场",
+        "onboard_time": 1765696342,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34311,
+        "num": 106866,
+        "word": "女子称腿伤就医司机强制院外下车",
+        "onboard_time": 1765696643,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105469,
+        "num": 105469,
+        "word": "王源初雪cha",
+        "onboard_time": 1765694422,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77592,
+        "num": 103077,
+        "word": "日本弹药库距黄岩岛仅200公里",
+        "onboard_time": 1765695623,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92364,
+        "num": 102913,
+        "word": "别人出发图 杨超越出厕图",
+        "onboard_time": 1765696462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102836,
+        "num": 102836,
+        "word": "对不起老己",
+        "onboard_time": 1765697482,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102802,
+        "num": 102802,
+        "word": "戒掉熬夜第一步不是早睡",
+        "onboard_time": 1765680743,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54994,
+        "num": 98671,
+        "word": "罗永浩带货沃尔沃全新XC70",
+        "onboard_time": 1765697482,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96403,
+        "num": 96403,
+        "word": "周柯宇声比人先碎了",
+        "onboard_time": 1765697842,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94056,
+        "num": 94056,
+        "word": "张本智和发球回抛",
+        "onboard_time": 1765696284,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}
