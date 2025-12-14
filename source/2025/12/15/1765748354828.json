@@ -1,0 +1,410 @@
+{
+  "runTime": 1765748354828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105448,
+        "num": 183607,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89783,
+        "num": 89783,
+        "word": "感染艾滋病老人称死也不能丢脸",
+        "onboard_time": 1765724003,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9672,
+        "num": 72943,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69129,
+        "num": 69129,
+        "word": "美国276斤死刑犯行刑前点奢华盛宴",
+        "onboard_time": 1765729280,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36477,
+        "num": 36477,
+        "word": "乒协回应孙颖莎王楚钦因伤退赛",
+        "onboard_time": 1765719145,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36038,
+        "num": 36038,
+        "word": "水龙吟",
+        "onboard_time": 1765744693,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35235,
+        "num": 35235,
+        "word": "长安二十四计",
+        "onboard_time": 1765748113,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29701,
+        "num": 29701,
+        "word": "中国乒协启动保障机制",
+        "onboard_time": 1765719984,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34532,
+        "num": 29271,
+        "word": "小洛熙主刀医生被暂停诊疗",
+        "onboard_time": 1765728021,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28052,
+        "num": 28052,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 67068,
+        "num": 27941,
+        "word": "4300万网红刘二狗泳池直播被指擦边",
+        "onboard_time": 1765711044,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48793,
+        "num": 27483,
+        "word": "巨人观的水果尸体慢慢浮出水面",
+        "onboard_time": 1765724905,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34744,
+        "num": 26866,
+        "word": "暮暮朝朝这是正经吃苹果吗",
+        "onboard_time": 1765735755,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33216,
+        "num": 26427,
+        "word": "美伢要闭店了",
+        "onboard_time": 1765707561,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 26232,
+        "num": 26232,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1765708882,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25680,
+        "num": 25680,
+        "word": "乌克兰已放弃加入北约",
+        "onboard_time": 1765720825,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24343,
+        "num": 24343,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23220,
+        "num": 23220,
+        "word": "难怪李雾整宿整宿睡不着觉",
+        "onboard_time": 1765731139,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23055,
+        "num": 23055,
+        "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
+        "onboard_time": 1765725623,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22297,
+        "num": 23006,
+        "word": "陈妍希 香奈儿老了还是香奈儿",
+        "onboard_time": 1765710322,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28616,
+        "num": 23004,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22999,
+        "num": 22999,
+        "word": "女子买二手存钱罐开出2千多现金",
+        "onboard_time": 1765723462,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20509,
+        "num": 22999,
+        "word": "无双 不开龙",
+        "onboard_time": 1765726223,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18069,
+        "num": 22991,
+        "word": "周深用全部身家留下给粉丝的歌",
+        "onboard_time": 1765728500,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17508,
+        "num": 22990,
+        "word": "张婧仪菜市场妆造",
+        "onboard_time": 1765727482,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20898,
+        "num": 22986,
+        "word": "何晴曾劝黄绮珊不要整容",
+        "onboard_time": 1765717644,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14150,
+        "num": 22983,
+        "word": "火流星",
+        "onboard_time": 1765727302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14098,
+        "num": 22975,
+        "word": "iPhone面容ID还可以这么用",
+        "onboard_time": 1765721964,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14010,
+        "num": 22974,
+        "word": "RW战胜JDG",
+        "onboard_time": 1765725563,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13414,
+        "num": 22971,
+        "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
+        "onboard_time": 1765726762,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19857,
+        "num": 22965,
+        "word": "来战",
+        "onboard_time": 1765747214,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15459,
+        "num": 22959,
+        "word": "回顾2025",
+        "onboard_time": 1765732937,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13255,
+        "num": 22955,
+        "word": "澳大利亚路人大爷徒手夺枪",
+        "onboard_time": 1765735095,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13254,
+        "num": 22951,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1765710505,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13243,
+        "num": 22949,
+        "word": "魏大勋跳舞空气感 不愧JYP出来的",
+        "onboard_time": 1765719145,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13148,
+        "num": 22945,
+        "word": "731部队特别移送制度有多残暴",
+        "onboard_time": 1765735155,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12987,
+        "num": 22941,
+        "word": "TF家族四代纪录片",
+        "onboard_time": 1765728560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12903,
+        "num": 22937,
+        "word": "张呈 拉完了",
+        "onboard_time": 1765715602,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12248,
+        "num": 22933,
+        "word": "陈奕恒在韩国训练了三个月",
+        "onboard_time": 1765723524,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11944,
+        "num": 22928,
+        "word": "原来十年之约是李飞和柴鸡蛋",
+        "onboard_time": 1765719864,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11925,
+        "num": 22924,
+        "word": "王曼昱收获1500冠军积分和8万美元",
+        "onboard_time": 1765735996,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11838,
+        "num": 22920,
+        "word": "张韶涵圈内人脉",
+        "onboard_time": 1765722982,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 22914,
+        "word": "当暴力萝莉遇上阴湿糙汉",
+        "onboard_time": 1765743374,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11452,
+        "num": 22914,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1765721724,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11394,
+        "num": 22905,
+        "word": "RW挺进挑杯八强",
+        "onboard_time": 1765726162,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10955,
+        "num": 22903,
+        "word": "王王队演唱会",
+        "onboard_time": 1765712964,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10949,
+        "num": 22901,
+        "word": "T1夺冠",
+        "onboard_time": 1765715484,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10543,
+        "num": 22894,
+        "word": "Peyz泽丽输出高于HLE三C之和",
+        "onboard_time": 1765727721,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10133,
+        "num": 22893,
+        "word": "狙击蝴蝶热度",
+        "onboard_time": 1765722203,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10076,
+        "num": 22885,
+        "word": "AG获得2025CFS总冠军",
+        "onboard_time": 1765714884,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
