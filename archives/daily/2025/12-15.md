@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/15 00:32:54 ~ 2025/12/15 03:37:12
+本榜单时间：2025/12/15 00:32:54 ~ 2025/12/15 04:30:01
 </p>
 </blockquote>
 <p>
@@ -423,6 +423,12 @@ Peyz泽丽输出高于HLE三C之和（热度：17727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
+音乐缘计划（热度：13715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%95%86%E5%8A%A1%E5%92%8C%E9%87%91%E8%9E%8D%E5%8D%8F%E5%90%8C%E6%9B%B4%E5%A4%A7%E5%8A%9B%E5%BA%A6%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9%23" target="weibo">
 加强商务和金融协同更大力度提振消费（热度：13459）
 </a>
@@ -431,6 +437,24 @@ Peyz泽丽输出高于HLE三C之和（热度：17727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%23" target="weibo">
 聚焦经济社会发展（热度：13252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%23" target="weibo">
+声鸣远扬（热度：12223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%98%AF%E6%9D%8E%E9%A3%9E%E5%92%8C%E6%9F%B4%E9%B8%A1%E8%9B%8B%23" target="weibo">
+原来十年之约是李飞和柴鸡蛋（热度：11849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%9A%B4%E5%8A%9B%E8%90%9D%E8%8E%89%E9%81%87%E4%B8%8A%E9%98%B4%E6%B9%BF%E7%B3%99%E6%B1%89%23" target="weibo">
+当暴力萝莉遇上阴湿糙汉（热度：9392）
 </a>
 </li>
 

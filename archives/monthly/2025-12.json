@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765741032634,
+  "endTime": 1765744201219,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -49761,6 +49761,14 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9392,
+      "num": 20411,
+      "word": "当暴力萝莉遇上阴湿糙汉",
+      "onboard_time": 1765743374,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 8688,
