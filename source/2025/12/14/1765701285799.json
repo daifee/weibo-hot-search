@@ -1,0 +1,410 @@
+{
+  "runTime": 1765701285799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197802,
+        "num": 1197802,
+        "word": "演员何晴去世",
+        "onboard_time": 1765678462,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574936,
+        "num": 574936,
+        "word": "香港住宅楼起火400多住户凌晨逃生",
+        "onboard_time": 1765696042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8092,
+        "num": 523674,
+        "word": "被日寇焚烧的古树如今守着102名烈士",
+        "onboard_time": 1765624941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492615,
+        "num": 492615,
+        "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+        "onboard_time": 1765697062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478916,
+        "num": 478916,
+        "word": "国家发文禁止亏本卖车",
+        "onboard_time": 1765696223,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 774967,
+        "num": 478861,
+        "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+        "onboard_time": 1765698923,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360501,
+        "num": 477651,
+        "word": "奶茶力挺zwy",
+        "onboard_time": 1765695802,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3283299,
+        "num": 476531,
+        "word": "王楚钦因伤退赛",
+        "onboard_time": 1765695504,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244428,
+        "num": 475809,
+        "word": "多方回应28岁女教师新婚坠楼身亡",
+        "onboard_time": 1765698381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162014,
+        "num": 474826,
+        "word": "殡仪馆称次日才接收28岁女教师遗体",
+        "onboard_time": 1765700661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734880,
+        "num": 474052,
+        "word": "外网曝霉霉伴舞每个人分到了500多万",
+        "onboard_time": 1765699221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473465,
+        "num": 473465,
+        "word": "刘亦菲晒初雪哈哈合照",
+        "onboard_time": 1765694902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362754,
+        "num": 362754,
+        "word": "何晴曾与演员刘威相恋5年",
+        "onboard_time": 1765698982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357902,
+        "num": 357902,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1765696103,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354180,
+        "num": 354180,
+        "word": "虞书欣回复何与",
+        "onboard_time": 1765697242,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265911,
+        "num": 265911,
+        "word": "金晨 我是瞎了吗",
+        "onboard_time": 1765695504,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212662,
+        "num": 212662,
+        "word": "莫雷加德谈乒乓球密集赛程",
+        "onboard_time": 1765698621,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341692,
+        "num": 212558,
+        "word": "何晴 许亚军",
+        "onboard_time": 1765679903,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211825,
+        "num": 211825,
+        "word": "对不起老己",
+        "onboard_time": 1765697482,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200464,
+        "num": 200464,
+        "word": "莫雷加德回应王楚钦退赛",
+        "onboard_time": 1765698081,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301557,
+        "num": 200193,
+        "word": "最佳入睡时间和睡眠时长",
+        "onboard_time": 1765700123,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178704,
+        "num": 178704,
+        "word": "奶茶 流苏",
+        "onboard_time": 1765695983,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179223,
+        "num": 178474,
+        "word": "张本智和说除了夺冠别无选择",
+        "onboard_time": 1765698982,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177650,
+        "num": 177650,
+        "word": "第一批短剧受害者出现了",
+        "onboard_time": 1765699401,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173410,
+        "num": 173410,
+        "word": "何与拍了虞书欣",
+        "onboard_time": 1765696702,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164365,
+        "num": 164365,
+        "word": "霉霉 不上价值直接给钱",
+        "onboard_time": 1765691422,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171502,
+        "num": 163737,
+        "word": "Mike 泰剧白月光国产剧里全中文台词",
+        "onboard_time": 1765698862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160808,
+        "num": 160808,
+        "word": "4斤黄金凤冠展出时被毁谁来赔",
+        "onboard_time": 1765678884,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157956,
+        "num": 157956,
+        "word": "陈哲远我叫桑延你记住",
+        "onboard_time": 1765693943,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "陈小纭身上的诡魅感",
+        "onboard_time": 1765701202,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203107,
+        "num": 146007,
+        "word": "王楚钦上训时一直手扶腰部",
+        "onboard_time": 1765700182,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140510,
+        "num": 140510,
+        "word": "美军被曝突袭从中国驶往伊朗货轮",
+        "onboard_time": 1765696042,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129632,
+        "num": 129632,
+        "word": "牛蛙被小狗吓到扶墙大哭",
+        "onboard_time": 1765692081,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130498,
+        "num": 128942,
+        "word": "莫雷加德说退赛也是为了职业生涯更长久",
+        "onboard_time": 1765700602,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69348,
+        "num": 127580,
+        "word": "湖南跨年也是有综艺节目单了",
+        "onboard_time": 1765701202,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30813,
+        "num": 126752,
+        "word": "美国薅了拉美200年羊毛",
+        "onboard_time": 1765699221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126462,
+        "num": 126462,
+        "word": "开家长会的也可以是老公",
+        "onboard_time": 1765700902,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118903,
+        "num": 118903,
+        "word": "2025年度时尚封面人物",
+        "onboard_time": 1765692620,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 15952,
+        "num": 118533,
+        "word": "起底爬虫市场非法饲养现状",
+        "onboard_time": 1765700841,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 41213,
+        "num": 118523,
+        "word": "高叶美丽冻人具象化",
+        "onboard_time": 1765701142,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118522,
+        "num": 118522,
+        "word": "郭焱谈王楚钦因伤退赛",
+        "onboard_time": 1765701202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115003,
+        "num": 115003,
+        "word": "景区NPC演员被冻成冰雕",
+        "onboard_time": 1765695260,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "王皓对林诗栋说你先让他安静下来",
+        "onboard_time": 1765697302,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106731,
+        "num": 106731,
+        "word": "万岁山景区回应演员被冻成冰雕",
+        "onboard_time": 1765701020,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106461,
+        "num": 106461,
+        "word": "魏大勋进去daddy出来baby",
+        "onboard_time": 1765691721,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107763,
+        "num": 106190,
+        "word": "王楚钦疑似背部受伤",
+        "onboard_time": 1765699702,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97195,
+        "num": 97195,
+        "word": "我们近视患者是这样的",
+        "onboard_time": 1765699281,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96032,
+        "num": 96032,
+        "word": "王安宇顶级表演胡先煦顶级理解",
+        "onboard_time": 1765700483,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100166,
+        "num": 95929,
+        "word": "今晚又能看樊振东比赛了",
+        "onboard_time": 1765700422,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94691,
+        "num": 94691,
+        "word": "知道上林赋什么意思吗你就抄",
+        "onboard_time": 1765695802,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年有底气#"
+    }
+  }
+}

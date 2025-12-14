@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765697965427,
+  "endTime": 1765701285799,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -67,12 +67,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774967,
+      "num": 478861,
+      "word": "涉嫌歧视中国人芬兰小姐公开道歉",
+      "onboard_time": 1765698923,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 752574,
       "num": 752574,
       "word": "林诗栋vs张本智和",
       "onboard_time": 1765692682,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 734880,
+      "num": 474052,
+      "word": "外网曝霉霉伴舞每个人分到了500多万",
+      "onboard_time": 1765699221,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 711752,
@@ -115,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574936,
+      "num": 574936,
+      "word": "香港住宅楼起火400多住户凌晨逃生",
+      "onboard_time": 1765696042,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567001,
       "num": 567001,
       "word": "魏大勋进去daddy出来baby",
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 559701,
-      "num": 297948,
+      "num": 473465,
       "word": "刘亦菲晒初雪哈哈合照",
       "onboard_time": 1765694902,
       "rank": 31,
@@ -163,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492615,
+      "num": 492615,
+      "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
+      "onboard_time": 1765697062,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479044,
       "num": 479044,
       "word": "草莓这些年可冤死了",
@@ -171,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462449,
-      "num": 462449,
-      "word": "香港住宅楼起火400多住户凌晨逃生",
-      "onboard_time": 1765696042,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 478916,
+      "num": 478916,
+      "word": "国家发文禁止亏本卖车",
+      "onboard_time": 1765696223,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 457732,
@@ -251,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362754,
+      "num": 362754,
+      "word": "何晴曾与演员刘威相恋5年",
+      "onboard_time": 1765698982,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359570,
-      "num": 243353,
+      "num": 354180,
       "word": "虞书欣回复何与",
       "onboard_time": 1765697242,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357027,
-      "num": 240052,
-      "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
-      "onboard_time": 1765697062,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 352172,
@@ -321,6 +353,14 @@
       "onboard_time": 1765682902,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301557,
+      "num": 200193,
+      "word": "最佳入睡时间和睡眠时长",
+      "onboard_time": 1765700123,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 293923,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265911,
+      "num": 265911,
+      "word": "金晨 我是瞎了吗",
+      "onboard_time": 1765695504,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265820,
       "num": 266055,
       "word": "2025微博之夜",
@@ -459,28 +507,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244428,
+      "num": 475809,
+      "word": "多方回应28岁女教师新婚坠楼身亡",
+      "onboard_time": 1765698381,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242461,
       "num": 242461,
       "word": "向佐不会再扮女装",
       "onboard_time": 1765691721,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237774,
-      "num": 237774,
-      "word": "国家发文禁止亏本卖车",
-      "onboard_time": 1765696223,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 234594,
-      "num": 234594,
-      "word": "金晨 我是瞎了吗",
-      "onboard_time": 1765695504,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 231812,
@@ -563,6 +603,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212662,
+      "num": 212662,
+      "word": "莫雷加德谈乒乓球密集赛程",
+      "onboard_time": 1765698621,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211825,
+      "num": 211825,
+      "word": "对不起老己",
+      "onboard_time": 1765697482,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211673,
       "num": 237001,
       "word": "莫雷加德拥抱王楚钦",
@@ -603,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203107,
+      "num": 146007,
+      "word": "王楚钦上训时一直手扶腰部",
+      "onboard_time": 1765700182,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "王源初雪cha",
       "onboard_time": 1765694422,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "莫雷加德回应王楚钦退赛",
+      "onboard_time": 1765698081,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 196768,
@@ -715,6 +787,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179223,
+      "num": 178474,
+      "word": "张本智和说除了夺冠别无选择",
+      "onboard_time": 1765698982,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178704,
+      "num": 178704,
+      "word": "奶茶 流苏",
+      "onboard_time": 1765695983,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 177650,
+      "num": 177650,
+      "word": "第一批短剧受害者出现了",
+      "onboard_time": 1765699401,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176045,
       "num": 145533,
       "word": "比亚迪胜诉龙猪网络诋毁案细节",
@@ -745,6 +841,14 @@
       "onboard_time": 1765640421,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171502,
+      "num": 163737,
+      "word": "Mike 泰剧白月光国产剧里全中文台词",
+      "onboard_time": 1765698862,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 166645,
@@ -787,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162014,
+      "num": 474826,
+      "word": "殡仪馆称次日才接收28岁女教师遗体",
+      "onboard_time": 1765700661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159389,
       "num": 158431,
       "word": "美军被曝突袭从中国驶往伊朗货轮",
@@ -809,14 +921,6 @@
       "onboard_time": 1765694061,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157572,
-      "num": 157572,
-      "word": "奶茶 流苏",
-      "onboard_time": 1765695983,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 156594,
@@ -865,6 +969,14 @@
       "onboard_time": 1765670778,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148582,
+      "num": 148582,
+      "word": "陈小纭身上的诡魅感",
+      "onboard_time": 1765701202,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 148271,
@@ -995,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130498,
+      "num": 128942,
+      "word": "莫雷加德说退赛也是为了职业生涯更长久",
+      "onboard_time": 1765700602,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130235,
       "num": 130235,
       "word": "黑色长款羽绒服搭配思路",
@@ -1049,6 +1169,14 @@
       "onboard_time": 1765635203,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 126462,
+      "num": 126462,
+      "word": "开家长会的也可以是老公",
+      "onboard_time": 1765700902,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 125533,
@@ -1121,6 +1249,14 @@
       "onboard_time": 1765685002,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118522,
+      "num": 118522,
+      "word": "郭焱谈王楚钦因伤退赛",
+      "onboard_time": 1765701202,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 116650,
@@ -1203,20 +1339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107763,
+      "num": 106190,
+      "word": "王楚钦疑似背部受伤",
+      "onboard_time": 1765699702,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106731,
+      "num": 106731,
+      "word": "万岁山景区回应演员被冻成冰雕",
+      "onboard_time": 1765701020,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103665,
       "num": 103665,
       "word": "虞书欣何与的眼神戏",
       "onboard_time": 1765678402,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102836,
-      "num": 102836,
-      "word": "对不起老己",
-      "onboard_time": 1765697482,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 102691,
@@ -1249,6 +1393,14 @@
       "onboard_time": 1765687942,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100166,
+      "num": 95929,
+      "word": "今晚又能看樊振东比赛了",
+      "onboard_time": 1765700422,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 100060,
@@ -1315,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97195,
+      "num": 97195,
+      "word": "我们近视患者是这样的",
+      "onboard_time": 1765699281,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "内娱现偶终于开窍了",
@@ -1337,6 +1497,14 @@
       "onboard_time": 1765697842,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96032,
+      "num": 96032,
+      "word": "王安宇顶级表演胡先煦顶级理解",
+      "onboard_time": 1765700483,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 95532,
@@ -1707,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69348,
+      "num": 127580,
+      "word": "湖南跨年也是有综艺节目单了",
+      "onboard_time": 1765701202,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69184,
       "num": 218678,
       "word": "140岁落叶松救活一片荒漠",
@@ -1955,6 +2131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41213,
+      "num": 118523,
+      "word": "高叶美丽冻人具象化",
+      "onboard_time": 1765701142,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40709,
       "num": 41818,
       "word": "花少是群像不是恋爱节目",
@@ -2099,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30813,
+      "num": 126752,
+      "word": "美国薅了拉美200年羊毛",
+      "onboard_time": 1765699221,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30363,
       "num": 91406,
       "word": "从G2到C5东升西降是大势所趋",
@@ -2227,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15952,
+      "num": 118533,
+      "word": "起底爬虫市场非法饲养现状",
+      "onboard_time": 1765700841,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 15096,
       "num": 30310,
       "word": "姜暮说泰语没有不亲的义务",
@@ -2291,7 +2491,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5486,
+      "raw_hot": 8092,
       "num": 891721,
       "word": "被日寇焚烧的古树如今守着102名烈士",
       "onboard_time": 1765624941,
