@@ -1,7 +1,15 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765766026532,
+  "endTime": 1765771771777,
   "band_list": [
+    {
+      "raw_hot": 1546117,
+      "num": 454490,
+      "word": "全红婵拎到王俊凯爆炸头",
+      "onboard_time": 1765767740,
+      "rank": 3,
+      "category": "演出,体育"
+    },
     {
       "raw_hot": 1104308,
       "num": 252748,
@@ -9,6 +17,22 @@
       "onboard_time": 1765762881,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 913059,
+      "num": 247967,
+      "word": "向太曝李连杰将收入全部上缴利智",
+      "onboard_time": 1765766722,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 888708,
+      "num": 366130,
+      "word": "排骨羽绒服",
+      "onboard_time": 1765769242,
+      "rank": 4,
+      "category": "时尚"
     },
     {
       "raw_hot": 847369,
@@ -19,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 745618,
-      "num": 268042,
+      "raw_hot": 823577,
+      "num": 322571,
       "word": "女子误转240万替巨额债务人还了87万",
       "onboard_time": 1765764921,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 815479,
+      "num": 247842,
+      "word": "利智 李连杰",
+      "onboard_time": 1765769962,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 741920,
@@ -49,6 +81,22 @@
       "onboard_time": 1765758561,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 580247,
+      "num": 580247,
+      "word": "小吃街一夜间换上同一个收款码",
+      "onboard_time": 1765764921,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569177,
+      "num": 247931,
+      "word": "张凯毅1个月掉粉近23万",
+      "onboard_time": 1765768222,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 556237,
@@ -99,12 +147,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391131,
+      "num": 247912,
+      "word": "陈妍希将出席星光大赏",
+      "onboard_time": 1765769002,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378556,
       "num": 231809,
       "word": "以前审美vs现在审美",
       "onboard_time": 1765758321,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348055,
+      "num": 247888,
+      "word": "王俊凯保镖陪同全红婵",
+      "onboard_time": 1765770022,
+      "rank": 13,
+      "category": "演出,体育"
+    },
+    {
+      "raw_hot": 347529,
+      "num": 247865,
+      "word": "能不能放周柯宇去星光大赏",
+      "onboard_time": 1765769483,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329149,
+      "num": 247796,
+      "word": "王楚钦代言JBL",
+      "onboard_time": 1765768102,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 321152,
+      "num": 247685,
+      "word": "结了婚的人才懂被托举有多幸福",
+      "onboard_time": 1765770261,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 317176,
@@ -139,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287128,
+      "num": 287128,
+      "word": "唐毓文被判18年",
+      "onboard_time": 1765768343,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275811,
       "num": 205759,
       "word": "狙击蝴蝶热度",
@@ -147,11 +243,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274649,
+      "num": 247657,
+      "word": "Shanks三问JDG教练",
+      "onboard_time": 1765767261,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270510,
       "num": 270510,
       "word": "河南省委书记暗访嵩山少林",
       "onboard_time": 1765759161,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265655,
+      "num": 248007,
+      "word": "唐毓文案一审宣判",
+      "onboard_time": 1765768343,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -203,6 +315,30 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 247633,
+      "num": 247633,
+      "word": "35万纯电玛莎拉蒂被一抢而空",
+      "onboard_time": 1765770022,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247525,
+      "num": 247525,
+      "word": "广西高中教师性侵案一审宣判",
+      "onboard_time": 1765768521,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232739,
+      "num": 232739,
+      "word": "郭碧婷三姐妹现状",
+      "onboard_time": 1765766722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228911,
       "num": 209974,
       "word": "才知道眼镜布是不能用来擦眼镜的",
@@ -225,6 +361,14 @@
       "onboard_time": 1765758263,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222926,
+      "num": 222926,
+      "word": "好久没见这么土的综艺官宣",
+      "onboard_time": 1765769421,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220344,
@@ -267,12 +411,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 201108,
-      "num": 201108,
-      "word": "小吃街一夜间换上同一个收款码",
-      "onboard_time": 1765764921,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 206602,
+      "num": 206602,
+      "word": "黎智英被定罪",
+      "onboard_time": 1765767321,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194600,
@@ -281,6 +425,14 @@
       "onboard_time": 1765752016,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191446,
+      "num": 191446,
+      "word": "曾黎挖出了一米长完整的藕",
+      "onboard_time": 1765770561,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 187492,
@@ -299,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179115,
+      "num": 179115,
+      "word": "詹姆斯被狄龙惹急了",
+      "onboard_time": 1765770081,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176115,
       "num": 139444,
       "word": "美伢要闭店了",
       "onboard_time": 1765707561,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 171698,
+      "num": 171698,
+      "word": "亚运会三金得主举报被领导索要奖金",
+      "onboard_time": 1765771042,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 171452,
@@ -347,12 +515,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151437,
+      "num": 151437,
+      "word": "刘昱晗拖欠员工工资",
+      "onboard_time": 1765770681,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149310,
       "num": 149310,
       "word": "澳大利亚全国降半旗",
       "onboard_time": 1765761500,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148257,
+      "num": 148257,
+      "word": "骄阳似我",
+      "onboard_time": 1765768280,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 148059,
@@ -363,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145621,
+      "num": 145621,
+      "word": "17秒唱了八辈子的愿望",
+      "onboard_time": 1765771401,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144654,
       "num": 144654,
       "word": "胡彦斌转发张韶涵的文案",
       "onboard_time": 1765757602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142491,
+      "num": 142491,
+      "word": "没认出来是王珞丹",
+      "onboard_time": 1765770081,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142407,
@@ -393,6 +593,14 @@
       "onboard_time": 1765727482,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133953,
+      "num": 133953,
+      "word": "TF家族四代分班",
+      "onboard_time": 1765769543,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 133928,
@@ -435,12 +643,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128282,
+      "num": 128282,
+      "word": "建议卖面包的大爷全国巡卖",
+      "onboard_time": 1765770981,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125966,
+      "num": 125966,
+      "word": "麦当劳涨价0.5到1元",
+      "onboard_time": 1765771522,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122857,
       "num": 119663,
       "word": "女子买二手存钱罐开出2千多现金",
       "onboard_time": 1765723462,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121793,
+      "num": 121793,
+      "word": "小猫哥遇上了最懂他的猫",
+      "onboard_time": 1765768581,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 119962,
@@ -467,6 +699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117868,
+      "num": 117868,
+      "word": "司机开辅助驾驶打盹连撞30米水马",
+      "onboard_time": 1765766901,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113610,
+      "num": 113610,
+      "word": "邓亚萍点出张本智和获胜关键",
+      "onboard_time": 1765770742,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112003,
       "num": 112003,
       "word": "双轨成绩",
@@ -481,6 +729,14 @@
       "onboard_time": 1765763061,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111184,
+      "num": 111184,
+      "word": "兰晓龙 作品解释权都交给观众",
+      "onboard_time": 1765771581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 109230,
@@ -523,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105223,
+      "num": 105223,
+      "word": "虽然不能同时拥有一切",
+      "onboard_time": 1765766963,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104666,
       "num": 104666,
       "word": "48岁女子回应36岁男友称被骗色",
@@ -561,6 +825,14 @@
       "onboard_time": 1765763660,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98014,
+      "num": 247726,
+      "word": "日本将不再有大熊猫",
+      "onboard_time": 1765771343,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97271,
@@ -779,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64548,
+      "num": 145923,
+      "word": "成毅复仇爽剧大男主少不了好搭子",
+      "onboard_time": 1765769601,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64208,
       "num": 84244,
       "word": "清融 女娲神",
@@ -835,12 +1115,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57418,
+      "num": 142728,
+      "word": "李现 以后不穿一身黑了",
+      "onboard_time": 1765771461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57404,
       "num": 82292,
       "word": "RW挺进挑杯八强",
       "onboard_time": 1765726162,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54886,
+      "num": 247752,
+      "word": "虞书欣姜暮暴力萝莉",
+      "onboard_time": 1765770804,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 52129,
@@ -915,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41137,
+      "num": 142593,
+      "word": "李连杰和女儿同游九华山",
+      "onboard_time": 1765771461,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40216,
       "num": 107176,
       "word": "泰国战斗机轰炸酒店大楼",
@@ -948,7 +1252,7 @@
     },
     {
       "raw_hot": 32901,
-      "num": 339766,
+      "num": 527779,
       "word": "加强商务和金融协同更大力度提振消费",
       "onboard_time": 1765718544,
       "rank": 2,
@@ -961,6 +1265,14 @@
       "onboard_time": 1765748894,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29375,
+      "num": 247791,
+      "word": "广西全面调查20倍暴利假陈皮",
+      "onboard_time": 1765771343,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28799,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765766026532,
+  "endTime": 1765771771777,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -617,6 +617,14 @@
       "onboard_time": 1765535423,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1546117,
+      "num": 454490,
+      "word": "全红婵拎到王俊凯爆炸头",
+      "onboard_time": 1765767740,
+      "rank": 3,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 1540033,
@@ -1715,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 913059,
+      "num": 247967,
+      "word": "向太曝李连杰将收入全部上缴利智",
+      "onboard_time": 1765766722,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911925,
       "num": 233481,
       "word": "何晴做颅脑手术后语言表达受影响",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1765608922,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 888708,
+      "num": 366130,
+      "word": "排骨羽绒服",
+      "onboard_time": 1765769242,
+      "rank": 4,
+      "category": "时尚"
     },
     {
       "raw_hot": 883597,
@@ -2131,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823577,
+      "num": 322571,
+      "word": "女子误转240万替巨额债务人还了87万",
+      "onboard_time": 1765764921,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 821608,
       "num": 821608,
       "word": "爱用26键的人有福了",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1764555559,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 815479,
+      "num": 247842,
+      "word": "利智 李连杰",
+      "onboard_time": 1765769962,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 813192,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1765188441,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 745618,
-      "num": 268042,
-      "word": "女子误转240万替巨额债务人还了87万",
-      "onboard_time": 1765764921,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 744554,
@@ -3867,6 +3899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 580247,
+      "num": 580247,
+      "word": "小吃街一夜间换上同一个收款码",
+      "onboard_time": 1765764921,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579186,
       "num": 579186,
       "word": "张本智和vs莫雷加德",
@@ -4001,6 +4041,14 @@
       "onboard_time": 1765020562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569177,
+      "num": 247931,
+      "word": "张凯毅1个月掉粉近23万",
+      "onboard_time": 1765768222,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 568469,
@@ -7427,6 +7475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 391131,
+      "num": 247912,
+      "word": "陈妍希将出席星光大赏",
+      "onboard_time": 1765769002,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390979,
       "num": 630397,
       "word": "柬埔寨免签",
@@ -8571,6 +8627,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 348055,
+      "num": 247888,
+      "word": "王俊凯保镖陪同全红婵",
+      "onboard_time": 1765770022,
+      "rank": 13,
+      "category": "演出,体育"
+    },
+    {
+      "raw_hot": 347529,
+      "num": 247865,
+      "word": "能不能放周柯宇去星光大赏",
+      "onboard_time": 1765769483,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347454,
       "num": 243834,
       "word": "爱奇艺排播片单没有双轨",
@@ -9235,6 +9307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329149,
+      "num": 247796,
+      "word": "王楚钦代言JBL",
+      "onboard_time": 1765768102,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328889,
       "num": 328889,
       "word": "央视曝光20倍暴利假陈皮",
@@ -9561,6 +9641,14 @@
       "onboard_time": 1764908541,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321152,
+      "num": 247685,
+      "word": "结了婚的人才懂被托举有多幸福",
+      "onboard_time": 1765770261,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 321108,
@@ -10595,6 +10683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287128,
+      "num": 287128,
+      "word": "唐毓文被判18年",
+      "onboard_time": 1765768343,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286982,
       "num": 260078,
       "word": "Viper上线",
@@ -11075,6 +11171,14 @@
       "category": "海外新闻,时尚"
     },
     {
+      "raw_hot": 274649,
+      "num": 247657,
+      "word": "Shanks三问JDG教练",
+      "onboard_time": 1765767261,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 274474,
       "num": 233458,
       "word": "家业剧组维权",
@@ -11441,6 +11545,14 @@
       "onboard_time": 1764575902,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265655,
+      "num": 248007,
+      "word": "唐毓文案一审宣判",
+      "onboard_time": 1765768343,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265120,
@@ -12193,6 +12305,22 @@
       "onboard_time": 1764952999,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247633,
+      "num": 247633,
+      "word": "35万纯电玛莎拉蒂被一抢而空",
+      "onboard_time": 1765770022,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247525,
+      "num": 247525,
+      "word": "广西高中教师性侵案一审宣判",
+      "onboard_time": 1765768521,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247419,
@@ -12995,6 +13123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232739,
+      "num": 232739,
+      "word": "郭碧婷三姐妹现状",
+      "onboard_time": 1765766722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232318,
       "num": 232318,
       "word": "王楚钦孙颖莎vs松岛辉空大藤沙月",
@@ -13521,6 +13657,14 @@
       "onboard_time": 1764718879,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222926,
+      "num": 222926,
+      "word": "好久没见这么土的综艺官宣",
+      "onboard_time": 1765769421,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 222766,
@@ -14691,6 +14835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206602,
+      "num": 206602,
+      "word": "黎智英被定罪",
+      "onboard_time": 1765767321,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206597,
       "num": 206597,
       "word": "领克10EM-P销量快速突破2万",
@@ -15449,14 +15601,6 @@
       "onboard_time": 1765109241,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201108,
-      "num": 201108,
-      "word": "小吃街一夜间换上同一个收款码",
-      "onboard_time": 1765764921,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200986,
@@ -16528,6 +16672,14 @@
       "word": "贺峻霖 星光大赏主持人",
       "onboard_time": 1765090339,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191446,
+      "num": 191446,
+      "word": "曾黎挖出了一米长完整的藕",
+      "onboard_time": 1765770561,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -18075,6 +18227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179115,
+      "num": 179115,
+      "word": "詹姆斯被狄龙惹急了",
+      "onboard_time": 1765770081,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178984,
       "num": 178984,
       "word": "枭起青壤口碑",
@@ -18881,6 +19041,14 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171698,
+      "num": 171698,
+      "word": "亚运会三金得主举报被领导索要奖金",
+      "onboard_time": 1765771042,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 171607,
@@ -21931,6 +22099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151437,
+      "num": 151437,
+      "word": "刘昱晗拖欠员工工资",
+      "onboard_time": 1765770681,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151331,
       "num": 151331,
       "word": "成毅 聪明真的可以演出来",
@@ -22875,6 +23051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145621,
+      "num": 145621,
+      "word": "17秒唱了八辈子的愿望",
+      "onboard_time": 1765771401,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "汪苏泷杭州演唱会",
@@ -23385,6 +23569,14 @@
       "onboard_time": 1764854782,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142491,
+      "num": 142491,
+      "word": "没认出来是王珞丹",
+      "onboard_time": 1765770081,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142486,
@@ -25203,6 +25395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133953,
+      "num": 133953,
+      "word": "TF家族四代分班",
+      "onboard_time": 1765769543,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133949,
       "num": 133949,
       "word": "王男回应名字由来",
@@ -26691,6 +26891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128282,
+      "num": 128282,
+      "word": "建议卖面包的大爷全国巡卖",
+      "onboard_time": 1765770981,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128278,
       "num": 128278,
       "word": "黄雅琼太漂亮了",
@@ -27161,6 +27369,14 @@
       "onboard_time": 1765702403,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125966,
+      "num": 125966,
+      "word": "麦当劳涨价0.5到1元",
+      "onboard_time": 1765771522,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125950,
@@ -28217,6 +28433,14 @@
       "onboard_time": 1765531162,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121793,
+      "num": 121793,
+      "word": "小猫哥遇上了最懂他的猫",
+      "onboard_time": 1765768581,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 121779,
@@ -29403,6 +29627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117868,
+      "num": 117868,
+      "word": "司机开辅助驾驶打盹连撞30米水马",
+      "onboard_time": 1765766901,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117863,
       "num": 132305,
       "word": "Peanut关注Viper",
@@ -30587,6 +30819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113610,
+      "num": 113610,
+      "word": "邓亚萍点出张本智和获胜关键",
+      "onboard_time": 1765770742,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113540,
       "num": 113540,
       "word": "原来有个独立空间这么关键",
@@ -31281,6 +31521,14 @@
       "onboard_time": 1765249942,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111184,
+      "num": 111184,
+      "word": "兰晓龙 作品解释权都交给观众",
+      "onboard_time": 1765771581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 111086,
@@ -32849,6 +33097,14 @@
       "onboard_time": 1765098981,
       "rank": 34,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 105223,
+      "num": 105223,
+      "word": "虽然不能同时拥有一切",
+      "onboard_time": 1765766963,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 105179,
@@ -34913,6 +35169,14 @@
       "onboard_time": 1765606580,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98014,
+      "num": 247726,
+      "word": "日本将不再有大熊猫",
+      "onboard_time": 1765771343,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97963,
@@ -41323,6 +41587,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 64548,
+      "num": 145923,
+      "word": "成毅复仇爽剧大男主少不了好搭子",
+      "onboard_time": 1765769601,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64532,
       "num": 114382,
       "word": "邓超一个偷亲逗笑孙俪",
@@ -42195,6 +42467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57418,
+      "num": 142728,
+      "word": "李现 以后不穿一身黑了",
+      "onboard_time": 1765771461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57256,
       "num": 121325,
       "word": "低价社区食堂为何开不下去了",
@@ -42688,6 +42968,14 @@
       "word": "敖瑞鹏回应不二之臣路透大事很妙",
       "onboard_time": 1765210579,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54886,
+      "num": 247752,
+      "word": "虞书欣姜暮暴力萝莉",
+      "onboard_time": 1765770804,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -44931,6 +45219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41137,
+      "num": 142593,
+      "word": "李连杰和女儿同游九华山",
+      "onboard_time": 1765771461,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41128,
       "num": 269869,
       "word": "林诗栋蒯曼vs博格斯维加",
@@ -46484,7 +46780,7 @@
     },
     {
       "raw_hot": 32901,
-      "num": 339766,
+      "num": 527779,
       "word": "加强商务和金融协同更大力度提振消费",
       "onboard_time": 1765718544,
       "rank": 2,
@@ -47136,6 +47432,14 @@
       "word": "中国福彩回应公益金使用情况",
       "onboard_time": 1765030104,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29375,
+      "num": 247791,
+      "word": "广西全面调查20倍暴利假陈皮",
+      "onboard_time": 1765771343,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
