@@ -1,0 +1,410 @@
+{
+  "runTime": 1765794985889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 902280,
+        "num": 1144364,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378470,
+        "num": 378470,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25041,
+        "num": 332005,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328517,
+        "num": 328517,
+        "word": "王俊凯你吓到全红婵了",
+        "onboard_time": 1765784723,
+        "rank": 3,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 243818,
+        "num": 243818,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 4,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 635558,
+        "num": 225484,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195933,
+        "num": 195933,
+        "word": "我国首批L3自动驾驶车型获准入许可",
+        "onboard_time": 1765787122,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195715,
+        "num": 195715,
+        "word": "麦当劳回应双吉汉堡越变越小",
+        "onboard_time": 1765793183,
+        "rank": 7,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 34775,
+        "num": 171285,
+        "word": "我国全年粮食实现丰收",
+        "onboard_time": 1765790001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168497,
+        "num": 168497,
+        "word": "公务员平替岗挤满没能上岸的年轻人",
+        "onboard_time": 1765782562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034704,
+        "num": 167102,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397087,
+        "num": 166451,
+        "word": "许亚军疑似现身何晴追悼会",
+        "onboard_time": 1765793662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390193,
+        "num": 164262,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384848,
+        "num": 162148,
+        "word": "丝芭起诉状称鞠婧祎合约至2033年",
+        "onboard_time": 1765787421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330181,
+        "num": 161509,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323053,
+        "num": 159669,
+        "word": "孙颖莎腿肿了",
+        "onboard_time": 1765790661,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 157167,
+        "word": "周柯宇让陈妍希叫哥哥",
+        "onboard_time": 1765790421,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288992,
+        "num": 155317,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155056,
+        "num": 155056,
+        "word": "高考604分就读高职",
+        "onboard_time": 1765789401,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46652,
+        "num": 154115,
+        "word": "20万元现金抢不到一箱水银温度计",
+        "onboard_time": 1765794383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508398,
+        "num": 152567,
+        "word": "一群小学生追着蔡徐坤喊鸡哥",
+        "onboard_time": 1765792762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458723,
+        "num": 151530,
+        "word": "李心艾瘦了80斤",
+        "onboard_time": 1765793903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305212,
+        "num": 150765,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304412,
+        "num": 149884,
+        "word": "李连杰住院利智被曝每日仅探视15分钟",
+        "onboard_time": 1765782623,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148650,
+        "num": 148650,
+        "word": "麦当劳涨价",
+        "onboard_time": 1765786642,
+        "rank": 24,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 279135,
+        "num": 146939,
+        "word": "儿子哽咽向何晴承诺会好好生活",
+        "onboard_time": 1765790722,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163224,
+        "num": 145634,
+        "word": "虞书欣何与给所有情侣合照打个样",
+        "onboard_time": 1765791562,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197508,
+        "num": 144309,
+        "word": "王悦伊回应",
+        "onboard_time": 1765791922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141082,
+        "num": 141082,
+        "word": "老人家门口吃橘子被邻居一拳打倒在地",
+        "onboard_time": 1765794143,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89910,
+        "num": 138409,
+        "word": "蚂蚁阿福跻身国内AI应用TOP5",
+        "onboard_time": 1765793122,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162731,
+        "num": 138362,
+        "word": "郑恺李晨跑男还没戒断又续上了",
+        "onboard_time": 1765793183,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 138336,
+        "word": "秦俊杰是去体制内进修过吧",
+        "onboard_time": 1765789582,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138296,
+        "num": 138296,
+        "word": "属于下雪天的情绪价值",
+        "onboard_time": 1765794442,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136463,
+        "num": 136463,
+        "word": "严浩翔不会亚洲蹲",
+        "onboard_time": 1765794562,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103643,
+        "num": 130234,
+        "word": "菲方人员持刀威胁中方海警",
+        "onboard_time": 1765793543,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129206,
+        "num": 129206,
+        "word": "羊副市长 爱你老己",
+        "onboard_time": 1765792222,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101741,
+        "num": 128762,
+        "word": "L3",
+        "onboard_time": 1765787182,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36775,
+        "num": 127486,
+        "word": "美国拿本科学历要花约280万元",
+        "onboard_time": 1765794023,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18650,
+        "num": 126288,
+        "word": "3人聚餐误饮工业酒精致1死1脑死亡",
+        "onboard_time": 1765793783,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96874,
+        "num": 125144,
+        "word": "何与 薄肌才是内娱该有的审美",
+        "onboard_time": 1765794383,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648969,
+        "num": 124299,
+        "word": "张凯毅最新回应4斤黄金凤冠被毁",
+        "onboard_time": 1765789702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45695,
+        "num": 122901,
+        "word": "阿福每天回答五百万个健康问题",
+        "onboard_time": 1765790601,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122708,
+        "num": 122708,
+        "word": "肖战我还没有亲你呢",
+        "onboard_time": 1765790421,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114462,
+        "num": 114462,
+        "word": "陈妍希的澄清帖",
+        "onboard_time": 1765789882,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109848,
+        "num": 109848,
+        "word": "田曦薇开屏",
+        "onboard_time": 1765793002,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103936,
+        "num": 103936,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99693,
+        "num": 99693,
+        "word": "删了吧有个谈恋爱的朋友破防了",
+        "onboard_time": 1765794323,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 99596,
+        "num": 99596,
+        "word": "AI健康应用阿福",
+        "onboard_time": 1765794862,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95995,
+        "num": 95995,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63180,
+        "num": 92392,
+        "word": "7岁男童被斥责后坠亡警方已立案",
+        "onboard_time": 1765793183,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议微镜头#"
+    }
+  }
+}

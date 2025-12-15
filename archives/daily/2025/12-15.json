@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765792497730,
+  "endTime": 1765794985889,
   "band_list": [
     {
       "raw_hot": 1908899,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1034704,
+      "num": 167102,
+      "word": "冯提莫直播间换装被封",
+      "onboard_time": 1765792401,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 931339,
       "num": 1149014,
       "word": "日本将不再有大熊猫",
@@ -65,6 +73,14 @@
       "onboard_time": 1765766722,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902280,
+      "num": 1144364,
+      "word": "狙击蝴蝶大结局",
+      "onboard_time": 1765793062,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 888708,
@@ -163,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648969,
+      "num": 1096065,
+      "word": "张凯毅最新回应4斤黄金凤冠被毁",
+      "onboard_time": 1765789702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 644921,
       "num": 241887,
       "word": "原来爱有滞后性是真的",
@@ -179,11 +203,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 600406,
-      "num": 1096065,
-      "word": "张凯毅最新回应4斤黄金凤冠被毁",
-      "onboard_time": 1765789702,
-      "rank": 1,
+      "raw_hot": 635558,
+      "num": 271254,
+      "word": "哈尔滨一男子冻到血管破裂",
+      "onboard_time": 1765791501,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 508398,
+      "num": 152567,
+      "word": "一群小学生追着蔡徐坤喊鸡哥",
+      "onboard_time": 1765792762,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498329,
       "num": 289984,
       "word": "结了婚的人才懂被托举有多幸福",
@@ -289,6 +321,14 @@
       "onboard_time": 1765725324,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458723,
+      "num": 151530,
+      "word": "李心艾瘦了80斤",
+      "onboard_time": 1765793903,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 428064,
@@ -355,6 +395,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 397087,
+      "num": 166451,
+      "word": "许亚军疑似现身何晴追悼会",
+      "onboard_time": 1765793662,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391131,
       "num": 247912,
       "word": "陈妍希将出席星光大赏",
@@ -411,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319406,
-      "num": 271254,
-      "word": "哈尔滨一男子冻到血管破裂",
-      "onboard_time": 1765791501,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317176,
       "num": 225354,
       "word": "和美国女友网恋奔现",
       "onboard_time": 1765760962,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313217,
+      "num": 270272,
+      "word": "周柯宇让陈妍希叫哥哥",
+      "onboard_time": 1765790421,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 311326,
@@ -475,20 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297048,
-      "num": 270272,
-      "word": "周柯宇让陈妍希叫哥哥",
-      "onboard_time": 1765790421,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293497,
       "num": 287128,
       "word": "唐毓文被判18年",
       "onboard_time": 1765768343,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288992,
+      "num": 206809,
+      "word": "mlxg成老赖",
+      "onboard_time": 1765790901,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 279978,
@@ -499,7 +547,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278538,
+      "raw_hot": 279135,
       "num": 269465,
       "word": "儿子哽咽向何晴承诺会好好生活",
       "onboard_time": 1765790722,
@@ -827,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206809,
-      "num": 206809,
-      "word": "mlxg成老赖",
-      "onboard_time": 1765790901,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 206602,
       "num": 206602,
       "word": "黎智英被定罪",
@@ -856,6 +896,14 @@
       "word": "姚晨发了郭芙蓉赎身倒计时",
       "onboard_time": 1765772663,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197508,
+      "num": 169235,
+      "word": "王悦伊回应",
+      "onboard_time": 1765791922,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -881,6 +929,14 @@
       "onboard_time": 1765785323,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195715,
+      "num": 195715,
+      "word": "麦当劳回应双吉汉堡越变越小",
+      "onboard_time": 1765793183,
+      "rank": 7,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 194792,
@@ -1035,14 +1091,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 169235,
-      "num": 169235,
-      "word": "王悦伊回应",
-      "onboard_time": 1765791922,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167611,
       "num": 167611,
       "word": "新月同行",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1765772602,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 138362,
+      "word": "郑恺李晨跑男还没戒断又续上了",
+      "onboard_time": 1765793183,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 160523,
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141082,
+      "num": 141082,
+      "word": "老人家门口吃橘子被邻居一拳打倒在地",
+      "onboard_time": 1765794143,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139469,
       "num": 139469,
       "word": "易烊千玺 别回头别停留往前走",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1765789521,
       "rank": 29,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 138296,
+      "num": 138296,
+      "word": "属于下雪天的情绪价值",
+      "onboard_time": 1765794442,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 138222,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1765727482,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136463,
+      "num": 136463,
+      "word": "严浩翔不会亚洲蹲",
+      "onboard_time": 1765794562,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 135717,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1765792101,
       "rank": 33,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 129206,
+      "num": 129206,
+      "word": "羊副市长 爱你老己",
+      "onboard_time": 1765792222,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 128297,
@@ -1747,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109848,
+      "num": 109848,
+      "word": "田曦薇开屏",
+      "onboard_time": 1765793002,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109230,
       "num": 109230,
       "word": "李现拍的雪后故宫",
@@ -1851,12 +1947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104147,
-      "num": 104147,
-      "word": "冯提莫直播间换装被封",
-      "onboard_time": 1765792401,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 103643,
+      "num": 130234,
+      "word": "菲方人员持刀威胁中方海警",
+      "onboard_time": 1765793543,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103606,
@@ -1891,6 +1987,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99693,
+      "num": 99693,
+      "word": "删了吧有个谈恋爱的朋友破防了",
+      "onboard_time": 1765794323,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 99596,
+      "num": 99596,
+      "word": "AI健康应用阿福",
+      "onboard_time": 1765794862,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98890,
       "num": 98890,
       "word": "不必质疑莎头退赛动机",
@@ -1904,6 +2016,14 @@
       "word": "TF家族四代纪录片",
       "onboard_time": 1765728560,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96874,
+      "num": 125144,
+      "word": "何与 薄肌才是内娱该有的审美",
+      "onboard_time": 1765794383,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2035,12 +2155,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89230,
-      "num": 107444,
-      "word": "羊副市长 爱你老己",
-      "onboard_time": 1765792222,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 89910,
+      "num": 138409,
+      "word": "蚂蚁阿福跻身国内AI应用TOP5",
+      "onboard_time": 1765793122,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 87100,
@@ -2283,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63180,
+      "num": 92392,
+      "word": "7岁男童被斥责后坠亡警方已立案",
+      "onboard_time": 1765793183,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60795,
       "num": 84152,
       "word": "孙天宇夯爆了",
@@ -2356,7 +2484,7 @@
     },
     {
       "raw_hot": 54181,
-      "num": 105025,
+      "num": 122901,
       "word": "阿福每天回答五百万个健康问题",
       "onboard_time": 1765790601,
       "rank": 45,
@@ -2449,6 +2577,14 @@
       "onboard_time": 1765765460,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 46652,
+      "num": 154115,
+      "word": "20万元现金抢不到一箱水银温度计",
+      "onboard_time": 1765794383,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46059,
@@ -2571,12 +2707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36775,
+      "num": 127486,
+      "word": "美国拿本科学历要花约280万元",
+      "onboard_time": 1765794023,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35066,
       "num": 59069,
       "word": "成毅的招商",
       "onboard_time": 1765732219,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34775,
+      "num": 299764,
+      "word": "我国全年粮食实现丰收",
+      "onboard_time": 1765790001,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34334,
@@ -2683,14 +2835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27086,
-      "num": 299764,
-      "word": "我国全年粮食实现丰收",
-      "onboard_time": 1765790001,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26984,
       "num": 49582,
       "word": "仙逆",
@@ -2768,6 +2912,14 @@
       "word": "重庆一婴儿出生时窒息致脑瘫",
       "onboard_time": 1765788741,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18650,
+      "num": 126288,
+      "word": "3人聚餐误饮工业酒精致1死1脑死亡",
+      "onboard_time": 1765793783,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
