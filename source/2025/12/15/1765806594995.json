@@ -1,0 +1,410 @@
+{
+  "runTime": 1765806594995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532201,
+        "num": 1085152,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335495,
+        "num": 335495,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15277,
+        "num": 335489,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013665,
+        "num": 327222,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460473,
+        "num": 318870,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345922,
+        "num": 312939,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 312665,
+        "num": 312665,
+        "word": "双轨原著 冠夫姓",
+        "onboard_time": 1765800022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288023,
+        "num": 288023,
+        "word": "爱吃蛋入驻微博",
+        "onboard_time": 1765802302,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14118,
+        "num": 284837,
+        "word": "回望2025中国经济",
+        "onboard_time": 1765806083,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111264,
+        "num": 276140,
+        "word": "Viper抵达BLG基地",
+        "onboard_time": 1765802903,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45314,
+        "num": 265832,
+        "word": "田曦薇认领薇我S50",
+        "onboard_time": 1765805844,
+        "rank": 10,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 679322,
+        "num": 264568,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 357034,
+        "num": 255629,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1765800503,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328524,
+        "num": 247049,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323187,
+        "num": 234770,
+        "word": "这居然是张凯丽",
+        "onboard_time": 1765797500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35698,
+        "num": 230679,
+        "word": "S50奶fufu的小新机",
+        "onboard_time": 1765802182,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225890,
+        "num": 225890,
+        "word": "5月龄女婴离世问责不是终点",
+        "onboard_time": 1765801642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225792,
+        "num": 225792,
+        "word": "深圳一地厕所吸烟会变透明",
+        "onboard_time": 1765801224,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147079,
+        "num": 147079,
+        "word": "张本智和右肩受伤",
+        "onboard_time": 1765803201,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112040,
+        "num": 146891,
+        "word": "香港人都在偶遇汪顺的一天",
+        "onboard_time": 1765805664,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605750,
+        "num": 145862,
+        "word": "曝已婚知名导演追求北电女学生",
+        "onboard_time": 1765802543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267073,
+        "num": 143915,
+        "word": "许亚军疑似现身何晴追悼会",
+        "onboard_time": 1765793662,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73620,
+        "num": 143095,
+        "word": "老师鼓励学生互相举报遭家长质疑",
+        "onboard_time": 1765805244,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98942,
+        "num": 141703,
+        "word": "回顾2025中国健儿高光时刻",
+        "onboard_time": 1765805063,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242609,
+        "num": 140066,
+        "word": "岑矜李雾女儿",
+        "onboard_time": 1765798100,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40292,
+        "num": 139606,
+        "word": "我和站姐只差一台vivoS50",
+        "onboard_time": 1765803864,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33849,
+        "num": 137812,
+        "word": "vivoS50天选主角感",
+        "onboard_time": 1765803864,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235020,
+        "num": 137442,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198341,
+        "num": 136053,
+        "word": "王俊凯逼全红婵选1号",
+        "onboard_time": 1765805302,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 166301,
+        "num": 134551,
+        "word": "刘萧旭220斤旧照",
+        "onboard_time": 1765805784,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155525,
+        "num": 133880,
+        "word": "王安宇滑雪摔了",
+        "onboard_time": 1765804223,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132871,
+        "num": 132871,
+        "word": "陈妍希周柯宇 外套",
+        "onboard_time": 1765802423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117314,
+        "num": 117314,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114612,
+        "num": 114612,
+        "word": "工作室称丝芭伪造鞠婧祎签名",
+        "onboard_time": 1765798041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 110543,
+        "word": "樊振东鲜衣怒马少年时",
+        "onboard_time": 1765806443,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110396,
+        "num": 110396,
+        "word": "刘芮麟 狙击蝴蝶有自己的暗爽哥",
+        "onboard_time": 1765803083,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107848,
+        "num": 107848,
+        "word": "温峥嵘称已刑事立案",
+        "onboard_time": 1765806561,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95744,
+        "num": 107784,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95028,
+        "num": 107769,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76980,
+        "num": 107767,
+        "word": "石宇奇年度最佳男单运动员",
+        "onboard_time": 1765805123,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107765,
+        "num": 107765,
+        "word": "赵本山女儿球球回应生二胎",
+        "onboard_time": 1765804763,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107085,
+        "num": 107085,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105167,
+        "num": 105167,
+        "word": "李心艾瘦了80斤",
+        "onboard_time": 1765793903,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103505,
+        "num": 103505,
+        "word": "赵昭仪这下真成昭仪了",
+        "onboard_time": 1765795342,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103127,
+        "num": 103127,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76787,
+        "num": 103016,
+        "word": "王楚钦孙颖莎背着肖指导沟通战术",
+        "onboard_time": 1765801400,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76422,
+        "num": 102552,
+        "word": "北京同仁堂发声明",
+        "onboard_time": 1765805963,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68496,
+        "num": 101623,
+        "word": "王昶黑西装亮相总决赛晚宴",
+        "onboard_time": 1765806323,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68457,
+        "num": 101474,
+        "word": "西北唯一水银体温计厂上百万支库存清空",
+        "onboard_time": 1765799242,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46897,
+        "num": 100767,
+        "word": "田曦薇给我下了一场告白雪",
+        "onboard_time": 1765802063,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
