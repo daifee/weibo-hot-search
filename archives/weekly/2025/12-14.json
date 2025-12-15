@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765820940931,
+  "endTime": 1765824120756,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -7825,6 +7825,14 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17485,
+      "num": 27481,
+      "word": "珍惜每天用心和你说晚安的人",
+      "onboard_time": 1765823955,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 16540,
