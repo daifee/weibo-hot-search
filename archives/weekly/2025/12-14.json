@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765824966209,
+  "endTime": 1765826836864,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -7819,20 +7819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18531,
+      "num": 30898,
+      "word": "珍惜每天用心和你说晚安的人",
+      "onboard_time": 1765823955,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18340,
       "num": 33448,
       "word": "金铲铲回应下线不朽传奇召唤活动",
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17485,
-      "num": 30898,
-      "word": "珍惜每天用心和你说晚安的人",
-      "onboard_time": 1765823955,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 16540,
@@ -7875,6 +7875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14841,
+      "num": 22910,
+      "word": "虞书欣台偶女主的明媚感",
+      "onboard_time": 1765825635,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14549,
       "num": 30270,
       "word": "酒店天价考研房7796元",
@@ -7905,6 +7913,14 @@
       "onboard_time": 1765777402,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12987,
+      "num": 22889,
+      "word": "张泽禹跟登陆少年海报合照",
+      "onboard_time": 1765824196,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12645,

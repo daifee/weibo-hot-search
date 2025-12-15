@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765824966209,
+  "endTime": 1765826836864,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -52011,6 +52011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18531,
+      "num": 30898,
+      "word": "珍惜每天用心和你说晚安的人",
+      "onboard_time": 1765823955,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18521,
       "num": 219327,
       "word": "在日华人称大雪天穿着秋裤就往外跑",
@@ -52145,14 +52153,6 @@
       "onboard_time": 1765306036,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17485,
-      "num": 30898,
-      "word": "珍惜每天用心和你说晚安的人",
-      "onboard_time": 1765823955,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 17405,
@@ -52571,6 +52571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14841,
+      "num": 22910,
+      "word": "虞书欣台偶女主的明媚感",
+      "onboard_time": 1765825635,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14811,
       "num": 26276,
       "word": "必须充分挖掘经济潜能",
@@ -52785,6 +52793,14 @@
       "onboard_time": 1765265781,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12987,
+      "num": 22889,
+      "word": "张泽禹跟登陆少年海报合照",
+      "onboard_time": 1765824196,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12980,

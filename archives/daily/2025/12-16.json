@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765824966209,
+  "endTime": 1765826836864,
   "band_list": [
     {
       "raw_hot": 646812,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18531,
+      "num": 30898,
+      "word": "珍惜每天用心和你说晚安的人",
+      "onboard_time": 1765823955,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18380,
       "num": 30933,
       "word": "王悦伊回应",
@@ -483,12 +491,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17485,
-      "num": 30898,
-      "word": "珍惜每天用心和你说晚安的人",
-      "onboard_time": 1765823955,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 14841,
+      "num": 22910,
+      "word": "虞书欣台偶女主的明媚感",
+      "onboard_time": 1765825635,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14095,
+      "num": 22899,
+      "word": "田曦薇认领薇我S50",
+      "onboard_time": 1765805844,
+      "rank": 45,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 12987,
+      "num": 22889,
+      "word": "张泽禹跟登陆少年海报合照",
+      "onboard_time": 1765824196,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12016,
