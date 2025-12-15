@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765837753778,
+  "endTime": 1765838735883,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 423874,
-      "num": 398497,
+      "num": 500196,
       "word": "销售直言不建议买35万玛莎拉蒂",
       "onboard_time": 1765808663,
       "rank": 37,
@@ -6707,12 +6707,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 57125,
+      "num": 57125,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57069,
       "num": 41849,
       "word": "孙颖莎退赛后匆匆备战混双",
       "onboard_time": 1765652236,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56936,
+      "num": 56936,
+      "word": "店主直接把小蛋糕的成本都写上了",
+      "onboard_time": 1765829474,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 56733,
@@ -6753,14 +6769,6 @@
       "onboard_time": 1765697482,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 54912,
-      "num": 41109,
-      "word": "店主直接把小蛋糕的成本都写上了",
-      "onboard_time": 1765829474,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 54521,
@@ -6859,6 +6867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48976,
+      "num": 48976,
+      "word": "悉尼枪击事件夺枪者父母受访",
+      "onboard_time": 1765817778,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48742,
       "num": 196820,
       "word": "中国留学生亲历美国校园枪击事件",
@@ -6905,14 +6921,6 @@
       "onboard_time": 1765813040,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46506,
-      "num": 47056,
-      "word": "董宇辉采访得闲谨制主创",
-      "onboard_time": 1765818318,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 46059,
@@ -7187,14 +7195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37554,
-      "num": 47001,
-      "word": "悉尼枪击事件夺枪者父母受访",
-      "onboard_time": 1765817778,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 37246,
       "num": 90790,
       "word": "满脑子都是前途真的会很爽",
@@ -7385,6 +7385,14 @@
       "onboard_time": 1765694061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32575,
+      "num": 35443,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 32506,
@@ -7627,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25887,
+      "num": 35380,
+      "word": "林妹妹悼念秦可卿",
+      "onboard_time": 1765836915,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25815,
       "num": 1006992,
       "word": "中国经济航船必将继续行稳致远",
@@ -7660,7 +7676,7 @@
     },
     {
       "raw_hot": 25237,
-      "num": 35223,
+      "num": 35319,
       "word": "食堂员工将工业酒精当作白酒提供",
       "onboard_time": 1765818797,
       "rank": 46,
@@ -7681,14 +7697,6 @@
       "onboard_time": 1765802363,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24407,
-      "num": 27812,
-      "word": "刷新了和平饭店历史最低消费的可能",
-      "onboard_time": 1765826954,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 24204,
@@ -7843,12 +7851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18578,
+      "num": 35104,
+      "word": "双轨11集好甜",
+      "onboard_time": 1765832593,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18340,
       "num": 33448,
       "word": "金铲铲回应下线不朽传奇召唤活动",
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17459,
+      "num": 35038,
+      "word": "黄金疯涨为何买金者卖金者都受伤",
+      "onboard_time": 1765804943,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 16540,
@@ -7859,20 +7883,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15554,
-      "num": 27753,
-      "word": "双轨11集好甜",
-      "onboard_time": 1765832593,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15511,
-      "num": 27745,
-      "word": "林妹妹悼念秦可卿",
-      "onboard_time": 1765836915,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 16087,
+      "num": 34967,
+      "word": "刘宇宁邪恶小猫发力中",
+      "onboard_time": 1765838115,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 15425,
@@ -7931,16 +7947,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13922,
-      "num": 27715,
-      "word": "黄金疯涨为何买金者卖金者都受伤",
-      "onboard_time": 1765804943,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 13534,
-      "num": 27812,
+      "raw_hot": 13537,
+      "num": 34852,
       "word": "尹锡悦等24人被提起诉讼",
       "onboard_time": 1765831454,
       "rank": 48,

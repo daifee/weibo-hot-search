@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765837753778,
+  "endTime": 1765838735883,
   "band_list": [
     {
       "raw_hot": 646812,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 198442,
-      "num": 398497,
+      "num": 500196,
       "word": "销售直言不建议买35万玛莎拉蒂",
       "onboard_time": 1765808663,
       "rank": 1,
@@ -219,12 +219,28 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 73493,
+      "num": 90865,
+      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+      "onboard_time": 1765808903,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73372,
       "num": 91435,
       "word": "陈都灵这已经不是兔塑的问题了",
       "onboard_time": 1765814660,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69204,
+      "num": 91342,
+      "word": "黎智英给香港市民留下彻骨之痛",
+      "onboard_time": 1765812741,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68043,
@@ -241,14 +257,6 @@
       "onboard_time": 1765808003,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 67157,
-      "num": 91342,
-      "word": "黎智英给香港市民留下彻骨之痛",
-      "onboard_time": 1765812741,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66508,
@@ -275,6 +283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57125,
+      "num": 57125,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 56936,
+      "num": 56936,
+      "word": "店主直接把小蛋糕的成本都写上了",
+      "onboard_time": 1765829474,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55435,
       "num": 91183,
       "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
@@ -289,22 +313,6 @@
       "onboard_time": 1765807882,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54912,
-      "num": 41109,
-      "word": "店主直接把小蛋糕的成本都写上了",
-      "onboard_time": 1765829474,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 54788,
-      "num": 90865,
-      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
-      "onboard_time": 1765808903,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52403,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48976,
+      "num": 48976,
+      "word": "悉尼枪击事件夺枪者父母受访",
+      "onboard_time": 1765817778,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48318,
       "num": 91014,
       "word": "工作室称丝芭伪造鞠婧祎签名",
@@ -369,14 +385,6 @@
       "onboard_time": 1765811481,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46506,
-      "num": 47056,
-      "word": "董宇辉采访得闲谨制主创",
-      "onboard_time": 1765818318,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 46010,
@@ -411,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 37554,
-      "num": 47001,
-      "word": "悉尼枪击事件夺枪者父母受访",
-      "onboard_time": 1765817778,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 37246,
       "num": 90790,
       "word": "满脑子都是前途真的会很爽",
@@ -443,6 +443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 32575,
+      "num": 35443,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31824,
       "num": 46773,
       "word": "打扮历史附会现实的流量生意当止",
@@ -459,12 +467,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29175,
+      "num": 35603,
+      "word": "赵昭仪这下真成昭仪了",
+      "onboard_time": 1765795342,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26388,
       "num": 46574,
       "word": "霸王茶姬员工晒创始人喜糖",
       "onboard_time": 1765818857,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25887,
+      "num": 35380,
+      "word": "林妹妹悼念秦可卿",
+      "onboard_time": 1765836915,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 25613,
@@ -476,27 +500,19 @@
     },
     {
       "raw_hot": 25237,
-      "num": 35223,
+      "num": 35319,
       "word": "食堂员工将工业酒精当作白酒提供",
       "onboard_time": 1765818797,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24407,
-      "num": 27812,
-      "word": "刷新了和平饭店历史最低消费的可能",
-      "onboard_time": 1765826954,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20304,
-      "num": 27806,
-      "word": "赵昭仪这下真成昭仪了",
-      "onboard_time": 1765795342,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 21055,
+      "num": 35218,
+      "word": "老师鼓励学生互相举报遭家长质疑",
+      "onboard_time": 1765805244,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18805,
@@ -507,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18578,
+      "num": 35104,
+      "word": "双轨11集好甜",
+      "onboard_time": 1765832593,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18380,
       "num": 30933,
       "word": "王悦伊回应",
@@ -515,28 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17736,
-      "num": 27775,
-      "word": "老师鼓励学生互相举报遭家长质疑",
-      "onboard_time": 1765805244,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 17459,
+      "num": 35038,
+      "word": "黄金疯涨为何买金者卖金者都受伤",
+      "onboard_time": 1765804943,
+      "rank": 45,
+      "category": "财经"
     },
     {
-      "raw_hot": 15554,
-      "num": 27753,
-      "word": "双轨11集好甜",
-      "onboard_time": 1765832593,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15511,
-      "num": 27745,
-      "word": "林妹妹悼念秦可卿",
-      "onboard_time": 1765836915,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 16087,
+      "num": 34967,
+      "word": "刘宇宁邪恶小猫发力中",
+      "onboard_time": 1765838115,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 14841,
@@ -555,16 +571,8 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 13922,
-      "num": 27715,
-      "word": "黄金疯涨为何买金者卖金者都受伤",
-      "onboard_time": 1765804943,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 13534,
-      "num": 27812,
+      "raw_hot": 13537,
+      "num": 34852,
       "word": "尹锡悦等24人被提起诉讼",
       "onboard_time": 1765831454,
       "rank": 48,
