@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765813748291,
+  "endTime": 1765816857602,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -1683,6 +1683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 264228,
+      "num": 105145,
+      "word": "张韶涵新旧发型师差距太大了",
+      "onboard_time": 1765814300,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262630,
       "num": 262630,
       "word": "华为nova15来了",
@@ -3299,6 +3307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157126,
+      "num": 198332,
+      "word": "警车上下来3人未穿警服牵着宠物狗",
+      "onboard_time": 1765809923,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156594,
       "num": 156594,
       "word": "虞书欣姜暮头盔戴反了",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1765770681,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150807,
-      "num": 198332,
-      "word": "警车上下来3人未穿警服牵着宠物狗",
-      "onboard_time": 1765809923,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150354,
@@ -5675,6 +5683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91640,
+      "num": 91640,
+      "word": "怪奇物语预告",
+      "onboard_time": 1765813761,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91313,
       "num": 91313,
       "word": "王楚钦说咬一局呗",
@@ -5913,6 +5929,14 @@
       "onboard_time": 1765800802,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 83042,
+      "num": 103222,
+      "word": "桃黑黑中奖名单 没有我",
+      "onboard_time": 1765816099,
+      "rank": 19,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 82987,
@@ -6195,6 +6219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73372,
+      "num": 91435,
+      "word": "陈都灵这已经不是兔塑的问题了",
+      "onboard_time": 1765814660,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73318,
       "num": 233486,
       "word": "小孩拉扭扭车绊倒男子致九级伤残",
@@ -6236,7 +6268,7 @@
     },
     {
       "raw_hot": 71964,
-      "num": 74831,
+      "num": 91342,
       "word": "黎智英给香港市民留下彻骨之痛",
       "onboard_time": 1765812741,
       "rank": 49,
@@ -6617,6 +6649,14 @@
       "onboard_time": 1765712784,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58808,
+      "num": 91230,
+      "word": "辽宁男篮",
+      "onboard_time": 1765814840,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 58729,
@@ -7113,6 +7153,14 @@
       "onboard_time": 1765775062,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37246,
+      "num": 90790,
+      "word": "满脑子都是前途真的会很爽",
+      "onboard_time": 1765810523,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 36775,
