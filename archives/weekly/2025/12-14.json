@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765781938318,
+  "endTime": 1765783946273,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1127392,
+      "num": 193528,
+      "word": "李连杰住院利智被曝每日仅探视15分钟",
+      "onboard_time": 1765782623,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1121446,
       "num": 251926,
       "word": "巨人观的水果尸体慢慢浮出水面",
@@ -129,6 +137,14 @@
       "onboard_time": 1765674919,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 952883,
+      "num": 193405,
+      "word": "曹格 以为是我前妻",
+      "onboard_time": 1765782682,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 931339,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 723684,
+      "num": 312081,
+      "word": "王子文自曝三年没谈过恋爱",
+      "onboard_time": 1765779321,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715052,
       "num": 232963,
       "word": "偶遇维嘉以为是俄罗斯美女",
@@ -353,14 +377,6 @@
       "onboard_time": 1765771042,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 652095,
-      "num": 312081,
-      "word": "王子文自曝三年没谈过恋爱",
-      "onboard_time": 1765779321,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 649573,
@@ -795,6 +811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 380002,
+      "num": 193185,
+      "word": "闺蜜断崖式消失了19年",
+      "onboard_time": 1765779981,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378556,
       "num": 231809,
       "word": "以前审美vs现在审美",
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 338028,
-      "num": 188160,
+      "num": 188550,
       "word": "iPhone20爆料",
       "onboard_time": 1765778182,
       "rank": 21,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1765768343,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291562,
+      "num": 291562,
+      "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+      "onboard_time": 1765782502,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 290081,
@@ -1595,12 +1627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220483,
+      "num": 192815,
+      "word": "中国亲历者以为枪击是放烟花",
+      "onboard_time": 1765781182,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 219952,
       "num": 219952,
       "word": "原来十年之约是李飞和柴鸡蛋",
       "onboard_time": 1765719864,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219399,
+      "num": 192735,
+      "word": "全国70城房价下跌",
+      "onboard_time": 1765782383,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218987,
@@ -1729,14 +1777,6 @@
       "onboard_time": 1765696462,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209438,
-      "num": 186720,
-      "word": "闺蜜断崖式消失了19年",
-      "onboard_time": 1765779981,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 208832,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1765639461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184122,
+      "num": 184122,
+      "word": "公务员平替岗挤满没能上岸的年轻人",
+      "onboard_time": 1765782562,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183832,
@@ -3091,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133780,
+      "num": 133780,
+      "word": "麦当劳回应涨价",
+      "onboard_time": 1765781422,
+      "rank": 49,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 133727,
       "num": 133727,
       "word": "贾玲姐姐贾丹记录的李焕英",
@@ -3123,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132486,
+      "num": 132486,
+      "word": "小米17ultra保密措施做的太严了",
+      "onboard_time": 1765783283,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132356,
       "num": 132356,
       "word": "狙击蝴蝶程雅昭五官跟三观一样正",
@@ -3153,6 +3217,14 @@
       "onboard_time": 1765700602,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131769,
+      "num": 131769,
+      "word": "青你1选手上恋综哭了",
+      "onboard_time": 1765782802,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 131027,
@@ -3361,6 +3433,14 @@
       "onboard_time": 1765774583,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123085,
+      "num": 135642,
+      "word": "电竞酒店退房垃圾堆1米高3天才清完",
+      "onboard_time": 1765781781,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122996,
@@ -3587,6 +3667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115673,
+      "num": 115673,
+      "word": "宋茜开机路透",
+      "onboard_time": 1765779202,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115310,
       "num": 115310,
       "word": "王曼昱回应密集赛程",
@@ -3787,12 +3875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107594,
-      "num": 107594,
-      "word": "麦当劳回应涨价",
-      "onboard_time": 1765781422,
-      "rank": 49,
-      "category": "美食,民生新闻"
+      "raw_hot": 107780,
+      "num": 107780,
+      "word": "曝苹果阔折叠采用侧边指纹识别",
+      "onboard_time": 1765783462,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 107417,
@@ -3803,12 +3891,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107279,
+      "num": 107279,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1765782022,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107262,
       "num": 107262,
       "word": "女子胸罩藏违禁品进京被刑拘",
       "onboard_time": 1765780583,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106839,
+      "num": 106839,
+      "word": "易烊千玺 别回头别停留往前走",
+      "onboard_time": 1765783761,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 106695,
@@ -3857,6 +3961,14 @@
       "onboard_time": 1765705521,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104875,
+      "num": 104875,
+      "word": "独居久了才能意识到的事",
+      "onboard_time": 1765783822,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 104666,
@@ -4851,6 +4963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 67525,
+      "num": 175274,
+      "word": "那英 反正我要力挺她",
+      "onboard_time": 1765781842,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66547,
       "num": 85738,
       "word": "碾压妻子致死男子还有82天出狱",
@@ -5195,14 +5315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45206,
-      "num": 175274,
-      "word": "那英 反正我要力挺她",
-      "onboard_time": 1765781842,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44819,
       "num": 539333,
       "word": "我们珍爱和平更有能力捍卫和平",
@@ -5273,6 +5385,14 @@
       "onboard_time": 1765743374,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41955,
+      "num": 129458,
+      "word": "刘耀文此男美商极高",
+      "onboard_time": 1765782984,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 41882,
@@ -5401,14 +5521,6 @@
       "onboard_time": 1765775062,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37596,
-      "num": 135642,
-      "word": "电竞酒店退房垃圾堆1米高3天才清完",
-      "onboard_time": 1765781781,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35355,
@@ -5563,6 +5675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31115,
+      "num": 249360,
+      "word": "12年前的今天中国首次实现月球软着陆",
+      "onboard_time": 1765777222,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30904,
       "num": 137816,
       "word": "曝美军在叙利亚紧急出动F16",
@@ -5659,12 +5779,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28216,
-      "num": 187782,
-      "word": "中国亲历者以为枪击是放烟花",
-      "onboard_time": 1765781182,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 28038,
+      "num": 129449,
+      "word": "16名执法人员因吃拿卡要被撤职调岗",
+      "onboard_time": 1765783342,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27635,
@@ -5721,14 +5841,6 @@
       "onboard_time": 1765725623,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25134,
-      "num": 249360,
-      "word": "12年前的今天中国首次实现月球软着陆",
-      "onboard_time": 1765777222,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25103,
