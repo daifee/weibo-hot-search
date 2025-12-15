@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/16 00:40:57 ~ 2025/12/16 03:27:16
+本榜单时间：2025/12/16 00:40:57 ~ 2025/12/16 03:40:55
 </p>
 </blockquote>
 <p>
@@ -370,7 +370,7 @@ Viper抵达BLG基地（热度：38332）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E6%83%9C%E6%AF%8F%E5%A4%A9%E7%94%A8%E5%BF%83%E5%92%8C%E4%BD%A0%E8%AF%B4%E6%99%9A%E5%AE%89%E7%9A%84%E4%BA%BA%23" target="weibo">
-珍惜每天用心和你说晚安的人（热度：18531）
+珍惜每天用心和你说晚安的人（热度：18805）
 </a>
 </li>
 
@@ -387,8 +387,20 @@ Viper抵达BLG基地（热度：38332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
+刷新了和平饭店历史最低消费的可能（热度：14111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%AE%A4%E9%A2%86%E8%96%87%E6%88%91S50%23" target="weibo">
 田曦薇认领薇我S50（热度：14095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+vivo发布会（热度：13294）
 </a>
 </li>
 

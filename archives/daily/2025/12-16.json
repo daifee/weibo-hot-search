@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765826836864,
+  "endTime": 1765827655895,
   "band_list": [
     {
       "raw_hot": 646812,
@@ -475,7 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18531,
+      "raw_hot": 18805,
       "num": 30898,
       "word": "珍惜每天用心和你说晚安的人",
       "onboard_time": 1765823955,
@@ -499,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14111,
+      "num": 27541,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14095,
-      "num": 22899,
+      "num": 27462,
       "word": "田曦薇认领薇我S50",
       "onboard_time": 1765805844,
       "rank": 45,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 13294,
+      "num": 27488,
+      "word": "vivo发布会",
+      "onboard_time": 1765798881,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 12987,

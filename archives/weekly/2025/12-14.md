@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/14 00:32:46 ~ 2025/12/16 03:27:16
+本榜单时间：2025/12/14 00:32:46 ~ 2025/12/16 03:40:55
 </p>
 </blockquote>
 <p>
@@ -5871,14 +5871,14 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E8%81%9A%E9%A4%90%E8%AF%AF%E9%A5%AE%E5%B7%A5%E4%B8%9A%E9%85%92%E7%B2%BE%E8%87%B41%E6%AD%BB1%E8%84%91%E6%AD%BB%E4%BA%A1%23" target="weibo">
-3人聚餐误饮工业酒精致1死1脑死亡（热度：18650）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E6%83%9C%E6%AF%8F%E5%A4%A9%E7%94%A8%E5%BF%83%E5%92%8C%E4%BD%A0%E8%AF%B4%E6%99%9A%E5%AE%89%E7%9A%84%E4%BA%BA%23" target="weibo">
+珍惜每天用心和你说晚安的人（热度：18805）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E6%83%9C%E6%AF%8F%E5%A4%A9%E7%94%A8%E5%BF%83%E5%92%8C%E4%BD%A0%E8%AF%B4%E6%99%9A%E5%AE%89%E7%9A%84%E4%BA%BA%23" target="weibo">
-珍惜每天用心和你说晚安的人（热度：18531）
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E8%81%9A%E9%A4%90%E8%AF%AF%E9%A5%AE%E5%B7%A5%E4%B8%9A%E9%85%92%E7%B2%BE%E8%87%B41%E6%AD%BB1%E8%84%91%E6%AD%BB%E4%BA%A1%23" target="weibo">
+3人聚餐误饮工业酒精致1死1脑死亡（热度：18650）
 </a>
 </li>
 
@@ -5933,6 +5933,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%91%E7%BF%94%E4%BC%9E%E5%9D%A0%E8%90%BD%E8%87%B4%E6%AE%8B%E9%A3%9E%E8%A1%8C%E8%80%85%E8%87%AA%E6%8B%85%E5%85%AB%E6%88%90%E8%B4%A3%E4%BB%BB%23" target="weibo">
 滑翔伞坠落致残飞行者自担八成责任（热度：14397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
+刷新了和平饭店历史最低消费的可能（热度：14111）
 </a>
 </li>
 

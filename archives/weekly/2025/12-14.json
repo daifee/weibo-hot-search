@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765826836864,
+  "endTime": 1765827655895,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -7811,20 +7811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18805,
+      "num": 30898,
+      "word": "珍惜每天用心和你说晚安的人",
+      "onboard_time": 1765823955,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18650,
       "num": 126288,
       "word": "3人聚餐误饮工业酒精致1死1脑死亡",
       "onboard_time": 1765793783,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18531,
-      "num": 30898,
-      "word": "珍惜每天用心和你说晚安的人",
-      "onboard_time": 1765823955,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 18340,
@@ -7897,6 +7897,14 @@
       "onboard_time": 1765687462,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 27541,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 13505,
