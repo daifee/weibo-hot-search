@@ -1,0 +1,410 @@
+{
+  "runTime": 1765803638796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 538679,
+        "num": 1086188,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405401,
+        "num": 405401,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19597,
+        "num": 375723,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1121472,
+        "num": 370913,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487422,
+        "num": 369784,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354256,
+        "num": 354256,
+        "word": "岑矜李雾女儿",
+        "onboard_time": 1765798100,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317800,
+        "num": 317800,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 231746,
+        "num": 231746,
+        "word": "5月龄女婴离世问责不是终点",
+        "onboard_time": 1765801642,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128314,
+        "num": 231546,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 8,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 76999,
+        "num": 228567,
+        "word": "vivo发布会",
+        "onboard_time": 1765798881,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 669620,
+        "num": 228064,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 624370,
+        "num": 225793,
+        "word": "这居然是张凯丽",
+        "onboard_time": 1765797500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499760,
+        "num": 224832,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1765800503,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464145,
+        "num": 222159,
+        "word": "儿子抱何晴遗像送母亲最后一程",
+        "onboard_time": 1765802903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235956,
+        "num": 222105,
+        "word": "深圳一地厕所吸烟会变透明",
+        "onboard_time": 1765801224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34378,
+        "num": 219978,
+        "word": "田曦薇给我下了一场告白雪",
+        "onboard_time": 1765802063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169622,
+        "num": 218276,
+        "word": "Viper抵达BLG基地",
+        "onboard_time": 1765802903,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60924,
+        "num": 216145,
+        "word": "S50奶fufu的小新机",
+        "onboard_time": 1765802182,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29482,
+        "num": 214698,
+        "word": "vivoS50拍出恋综电影感",
+        "onboard_time": 1765800260,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137276,
+        "num": 213068,
+        "word": "王楚钦孙颖莎背着肖指导沟通战术",
+        "onboard_time": 1765801400,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491897,
+        "num": 210953,
+        "word": "曝已婚知名导演追求北电女学生",
+        "onboard_time": 1765802543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422979,
+        "num": 210166,
+        "word": "双轨原著 冠夫姓",
+        "onboard_time": 1765800022,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404998,
+        "num": 208776,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278565,
+        "num": 207066,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 205976,
+        "word": "小米",
+        "onboard_time": 1765803382,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204490,
+        "num": 204490,
+        "word": "陈妍希周柯宇 外套",
+        "onboard_time": 1765802423,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197479,
+        "num": 197479,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179432,
+        "num": 179432,
+        "word": "刘芮麟 狙击蝴蝶有自己的暗爽哥",
+        "onboard_time": 1765803083,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 137065,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135162,
+        "num": 135162,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169796,
+        "num": 134440,
+        "word": "赵昭仪这下真成昭仪了",
+        "onboard_time": 1765795342,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 134123,
+        "word": "丝芭 伪造补充协议",
+        "onboard_time": 1765797741,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133708,
+        "num": 133708,
+        "word": "爱吃蛋入驻微博",
+        "onboard_time": 1765802302,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123232,
+        "num": 123232,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111747,
+        "num": 111747,
+        "word": "张本智和右肩受伤",
+        "onboard_time": 1765803201,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117363,
+        "num": 110078,
+        "word": "李心艾瘦了80斤",
+        "onboard_time": 1765793903,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105312,
+        "num": 105312,
+        "word": "老人家门口吃橘子被邻居一拳打倒在地",
+        "onboard_time": 1765794143,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99197,
+        "num": 99197,
+        "word": "林钟勋向妻子表白急坏申裕斌",
+        "onboard_time": 1765802543,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24620,
+        "num": 98414,
+        "word": "男子当儿子面杀害前妻案进展",
+        "onboard_time": 1765802363,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98321,
+        "num": 98321,
+        "word": "西北唯一水银体温计厂上百万支库存清空",
+        "onboard_time": 1765799242,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109380,
+        "num": 97762,
+        "word": "工作室称丝芭伪造鞠婧祎签名",
+        "onboard_time": 1765798041,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107250,
+        "num": 96856,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105175,
+        "num": 96825,
+        "word": "狙击蝴蝶番外 幸福晕了",
+        "onboard_time": 1765800323,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95506,
+        "num": 95506,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86260,
+        "num": 86260,
+        "word": "郑钦文蝉联WTA最受欢迎单打球员",
+        "onboard_time": 1765803083,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84792,
+        "num": 84792,
+        "word": "Viper落地秒进Peanut直播间",
+        "onboard_time": 1765801821,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32506,
+        "num": 84729,
+        "word": "被家暴13年女子称现在没有一点尊严",
+        "onboard_time": 1765802002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84724,
+        "num": 84724,
+        "word": "浓淡适宜的东方美人妆",
+        "onboard_time": 1765803503,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 83118,
+        "num": 83118,
+        "word": "广西启动应急机制处置假陈皮",
+        "onboard_time": 1765800802,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43445,
+        "num": 82632,
+        "word": "我国首批L3自动驾驶车型获准入许可",
+        "onboard_time": 1765787122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议微镜头#"
+    }
+  }
+}

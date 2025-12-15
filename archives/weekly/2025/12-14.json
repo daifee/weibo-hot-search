@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765798977614,
+  "endTime": 1765803638796,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -113,6 +113,14 @@
       "onboard_time": 1765782623,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1121472,
+      "num": 370913,
+      "word": "陈妍希周柯宇跟官宣似的",
+      "onboard_time": 1765798221,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1121446,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624370,
+      "num": 326009,
+      "word": "这居然是张凯丽",
+      "onboard_time": 1765797500,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611313,
       "num": 222020,
       "word": "一群小学生追着蔡徐坤喊鸡哥",
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499760,
+      "num": 224832,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1765800503,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498329,
       "num": 289984,
       "word": "结了婚的人才懂被托举有多幸福",
@@ -721,6 +745,14 @@
       "onboard_time": 1765697062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491897,
+      "num": 210953,
+      "word": "曝已婚知名导演追求北电女学生",
+      "onboard_time": 1765802543,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 487696,
@@ -768,6 +800,14 @@
       "word": "何晴离世前用尽全身力气拉紧儿子的手",
       "onboard_time": 1765796722,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464145,
+      "num": 222159,
+      "word": "儿子抱何晴遗像送母亲最后一程",
+      "onboard_time": 1765802903,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -843,6 +883,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 422979,
+      "num": 210166,
+      "word": "双轨原著 冠夫姓",
+      "onboard_time": 1765800022,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420302,
       "num": 272253,
       "word": "时代峰峻回应陈奕恒回归",
@@ -883,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 410515,
-      "num": 326009,
-      "word": "这居然是张凯丽",
-      "onboard_time": 1765797500,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 405401,
+      "num": 405401,
+      "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+      "onboard_time": 1765796782,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405036,
@@ -1035,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354256,
+      "num": 354256,
+      "word": "岑矜李雾女儿",
+      "onboard_time": 1765798100,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353829,
       "num": 353829,
       "word": "我国首批L3自动驾驶车型获准入许可",
@@ -1131,14 +1187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 332777,
-      "num": 332777,
-      "word": "陈妍希周柯宇跟官宣似的",
-      "onboard_time": 1765798221,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 330440,
       "num": 271936,
       "word": "孙颖莎腿肿了",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1765676600,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324816,
-      "num": 324816,
-      "word": "岑矜李雾女儿",
-      "onboard_time": 1765798100,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 322266,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1765718843,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294061,
-      "num": 277412,
-      "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
-      "onboard_time": 1765796782,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293923,
@@ -1763,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235956,
+      "num": 222105,
+      "word": "深圳一地厕所吸烟会变透明",
+      "onboard_time": 1765801224,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232739,
       "num": 232739,
       "word": "郭碧婷三姐妹现状",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1765637303,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231746,
+      "num": 231746,
+      "word": "5月龄女婴离世问责不是终点",
+      "onboard_time": 1765801642,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231283,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1765716624,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204490,
+      "num": 204490,
+      "word": "陈妍希周柯宇 外套",
+      "onboard_time": 1765802423,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 203763,
@@ -2619,6 +2675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179432,
+      "num": 179432,
+      "word": "刘芮麟 狙击蝴蝶有自己的暗爽哥",
+      "onboard_time": 1765803083,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179223,
       "num": 178474,
       "word": "张本智和说除了夺冠别无选择",
@@ -2785,6 +2849,14 @@
       "onboard_time": 1765722203,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169622,
+      "num": 218276,
+      "word": "Viper抵达BLG基地",
+      "onboard_time": 1765802903,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 168392,
@@ -3017,6 +3089,14 @@
       "onboard_time": 1765694061,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158211,
+      "num": 205976,
+      "word": "小米",
+      "onboard_time": 1765803382,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 158185,
@@ -3260,7 +3340,7 @@
     },
     {
       "raw_hot": 147194,
-      "num": 123639,
+      "num": 134123,
       "word": "丝芭 伪造补充协议",
       "onboard_time": 1765797741,
       "rank": 44,
@@ -3579,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137276,
+      "num": 213068,
+      "word": "王楚钦孙颖莎背着肖指导沟通战术",
+      "onboard_time": 1765801400,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "王楚钦孙颖莎不熟悉混双亚军颁奖流程",
@@ -3673,6 +3761,14 @@
       "onboard_time": 1765695441,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133708,
+      "num": 133708,
+      "word": "爱吃蛋入驻微博",
+      "onboard_time": 1765802302,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 133367,
@@ -3916,7 +4012,7 @@
     },
     {
       "raw_hot": 127555,
-      "num": 127555,
+      "num": 228567,
       "word": "vivo发布会",
       "onboard_time": 1765798881,
       "rank": 35,
@@ -4499,6 +4595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111747,
+      "num": 111747,
+      "word": "张本智和右肩受伤",
+      "onboard_time": 1765803201,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111507,
       "num": 111507,
       "word": "新华社披露莎头伤情细节",
@@ -4673,6 +4777,14 @@
       "onboard_time": 1765705521,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105175,
+      "num": 96825,
+      "word": "狙击蝴蝶番外 幸福晕了",
+      "onboard_time": 1765800323,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104666,
@@ -4875,6 +4987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99197,
+      "num": 99197,
+      "word": "林钟勋向妻子表白急坏申裕斌",
+      "onboard_time": 1765802543,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99177,
       "num": 99177,
       "word": "六级答案",
@@ -4913,6 +5033,14 @@
       "onboard_time": 1765687643,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98321,
+      "num": 98321,
+      "word": "西北唯一水银体温计厂上百万支库存清空",
+      "onboard_time": 1765799242,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98151,
@@ -5387,6 +5515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86260,
+      "num": 86260,
+      "word": "郑钦文蝉联WTA最受欢迎单打球员",
+      "onboard_time": 1765803083,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86131,
       "num": 86131,
       "word": "小郑 一天",
@@ -5419,6 +5555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84792,
+      "num": 84792,
+      "word": "Viper落地秒进Peanut直播间",
+      "onboard_time": 1765801821,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 84724,
+      "num": 84724,
+      "word": "浓淡适宜的东方美人妆",
+      "onboard_time": 1765803503,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 84125,
       "num": 84125,
       "word": "这个视频每一帧让我感觉到窒息",
@@ -5441,6 +5593,14 @@
       "onboard_time": 1765759220,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83118,
+      "num": 83118,
+      "word": "广西启动应急机制处置假陈皮",
+      "onboard_time": 1765800802,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82987,
@@ -5969,6 +6129,14 @@
       "onboard_time": 1765676241,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60924,
+      "num": 216145,
+      "word": "S50奶fufu的小新机",
+      "onboard_time": 1765802182,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 60522,
@@ -6579,6 +6747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34378,
+      "num": 219978,
+      "word": "田曦薇给我下了一场告白雪",
+      "onboard_time": 1765802063,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34334,
       "num": 97154,
       "word": "何晴儿子说北京的初雪是为母亲下的",
@@ -6680,6 +6856,14 @@
       "word": "央视揭网约货运乱象",
       "onboard_time": 1765694061,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32506,
+      "num": 84729,
+      "word": "被家暴13年女子称现在没有一点尊严",
+      "onboard_time": 1765802002,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -6793,6 +6977,14 @@
       "onboard_time": 1765702823,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 29482,
+      "num": 214698,
+      "word": "vivoS50拍出恋综电影感",
+      "onboard_time": 1765800260,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 28799,
@@ -6913,6 +7105,14 @@
       "onboard_time": 1765682544,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24620,
+      "num": 98414,
+      "word": "男子当儿子面杀害前妻案进展",
+      "onboard_time": 1765802363,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24204,
