@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765772885273,
+  "endTime": 1765774760769,
   "band_list": [
     {
       "raw_hot": 1546117,
@@ -19,6 +19,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 931339,
+      "num": 1149014,
+      "word": "日本将不再有大熊猫",
+      "onboard_time": 1765771343,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 913059,
       "num": 247967,
       "word": "向太曝李连杰将收入全部上缴利智",
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 888708,
-      "num": 465971,
+      "num": 577687,
       "word": "排骨羽绒服",
       "onboard_time": 1765769242,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 850718,
+      "num": 241573,
+      "word": "曝怦然心动导演被儿子杀死",
+      "onboard_time": 1765773861,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 847369,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 823577,
-      "num": 464451,
+      "num": 546408,
       "word": "女子误转240万替巨额债务人还了87万",
       "onboard_time": 1765764921,
       "rank": 5,
@@ -75,6 +91,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690657,
+      "num": 237220,
+      "word": "李现 以后不穿一身黑了",
+      "onboard_time": 1765771461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 656781,
+      "num": 656781,
+      "word": "亚运会三金得主举报被领导索要奖金",
+      "onboard_time": 1765771042,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644921,
       "num": 241887,
       "word": "原来爱有滞后性是真的",
@@ -83,20 +115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 638803,
-      "num": 1102208,
-      "word": "日本将不再有大熊猫",
-      "onboard_time": 1765771343,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 580247,
       "num": 580247,
       "word": "小吃街一夜间换上同一个收款码",
       "onboard_time": 1765764921,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575279,
+      "num": 575279,
+      "word": "连吃7天麻辣烫身体的变化",
+      "onboard_time": 1765772542,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 569177,
@@ -147,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 461052,
-      "num": 461052,
-      "word": "亚运会三金得主举报被领导索要奖金",
-      "onboard_time": 1765771042,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427056,
       "num": 295326,
       "word": "双轨剧宣尺度",
@@ -169,6 +193,14 @@
       "onboard_time": 1765763483,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417454,
+      "num": 247633,
+      "word": "35万纯电玛莎拉蒂被一抢而空",
+      "onboard_time": 1765770022,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402699,
@@ -211,28 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366929,
-      "num": 247633,
-      "word": "35万纯电玛莎拉蒂被一抢而空",
-      "onboard_time": 1765770022,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317176,
       "num": 225354,
       "word": "和美国女友网恋奔现",
       "onboard_time": 1765760962,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317089,
-      "num": 205846,
-      "word": "李现 以后不穿一身黑了",
-      "onboard_time": 1765771461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 311326,
@@ -265,6 +281,14 @@
       "onboard_time": 1765768343,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279978,
+      "num": 279978,
+      "word": "无限暖暖",
+      "onboard_time": 1765773983,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 275811,
@@ -315,11 +339,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 260528,
+      "num": 222732,
+      "word": "萧敬腾岳父林光宁去世",
+      "onboard_time": 1765772783,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258872,
       "num": 119689,
       "word": "何晴父母均因脑溢血离世",
       "onboard_time": 1765714524,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256370,
+      "num": 218874,
+      "word": "吉娜这脸建模都不敢这么建",
+      "onboard_time": 1765772903,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -419,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215596,
+      "num": 215596,
+      "word": "闪耀暖暖",
+      "onboard_time": 1765772363,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215282,
       "num": 148752,
       "word": "iPhone面容ID还可以这么用",
@@ -451,19 +499,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 197853,
-      "num": 197853,
-      "word": "闪耀暖暖",
-      "onboard_time": 1765772363,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194600,
       "num": 194600,
       "word": "郭碧婷爸爸发文感谢女儿婆家",
       "onboard_time": 1765752016,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192922,
+      "num": 192922,
+      "word": "姚晨发了郭芙蓉赎身倒计时",
+      "onboard_time": 1765772663,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -473,6 +521,22 @@
       "onboard_time": 1765770561,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191204,
+      "num": 191204,
+      "word": "导演罗伯莱纳去世",
+      "onboard_time": 1765774043,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189341,
+      "num": 189341,
+      "word": "光明网 李沛恩新歌",
+      "onboard_time": 1765773443,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 187492,
@@ -499,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177819,
-      "num": 177819,
-      "word": "连吃7天麻辣烫身体的变化",
-      "onboard_time": 1765772542,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176115,
       "num": 139444,
       "word": "美伢要闭店了",
@@ -521,6 +577,14 @@
       "onboard_time": 1765721425,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 168861,
+      "num": 168861,
+      "word": "曝iPhone20搭载无开孔真全面屏",
+      "onboard_time": 1765773142,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 165312,
@@ -579,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148264,
+      "num": 148264,
+      "word": "桃黑黑中奖名单",
+      "onboard_time": 1765774523,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148257,
       "num": 148257,
       "word": "骄阳似我",
@@ -595,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147076,
+      "num": 147076,
+      "word": "侯明昊的狗是胡彦斌的狗生的崽",
+      "onboard_time": 1765773744,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145621,
       "num": 145621,
       "word": "17秒唱了八辈子的愿望",
@@ -603,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144717,
+      "num": 144717,
+      "word": "湖人险胜太阳",
+      "onboard_time": 1765774225,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144654,
       "num": 144654,
       "word": "胡彦斌转发张韶涵的文案",
       "onboard_time": 1765757602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "37岁坚持化妆200天的变化",
+      "onboard_time": 1765774703,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 142491,
@@ -651,14 +747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137096,
-      "num": 137096,
-      "word": "姚晨发了郭芙蓉赎身倒计时",
-      "onboard_time": 1765772663,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135099,
       "num": 135099,
       "word": "建议卖面包的大爷全国巡卖",
@@ -691,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130894,
+      "num": 130894,
+      "word": "让郭京飞王佳佳演夫妻的是天才",
+      "onboard_time": 1765773803,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129694,
       "num": 129694,
       "word": "肖战一把蒲扇摇出矜贵公子与糙汉钳工",
@@ -707,12 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127286,
-      "num": 127286,
-      "word": "萧敬腾岳父林光宁去世",
-      "onboard_time": 1765772783,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 123513,
+      "num": 123513,
+      "word": "医生建议合理的洗澡顺序",
+      "onboard_time": 1765774583,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122925,
+      "num": 122925,
+      "word": "陈妍希说还没有想过退休",
+      "onboard_time": 1765774343,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 122857,
@@ -745,6 +849,14 @@
       "onboard_time": 1765771581,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121051,
+      "num": 121051,
+      "word": "六小龄童唐国强为何晴送来挽联",
+      "onboard_time": 1765774703,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 119962,
@@ -947,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94758,
+      "num": 140948,
+      "word": "得闲谨制调低发行价",
+      "onboard_time": 1765773924,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93659,
       "num": 93659,
       "word": "这才是真正的中式恐怖",
@@ -1113,6 +1233,14 @@
       "onboard_time": 1765772663,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68532,
+      "num": 139833,
+      "word": "王楚钦离开赛场时无法弯腰",
+      "onboard_time": 1765773861,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 68357,
@@ -1291,6 +1419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43698,
+      "num": 191893,
+      "word": "女子结婚14年被家暴13年案今日开庭",
+      "onboard_time": 1765773024,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43026,
       "num": 107294,
       "word": "澳大利亚路人大爷徒手夺枪",
@@ -1323,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39355,
+      "num": 121529,
+      "word": "煎饼叔叔确诊后曾想放弃治疗",
+      "onboard_time": 1765773083,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35066,
       "num": 59069,
       "word": "成毅的招商",
@@ -1348,11 +1492,19 @@
     },
     {
       "raw_hot": 32901,
-      "num": 527779,
+      "num": 602588,
       "word": "加强商务和金融协同更大力度提振消费",
       "onboard_time": 1765718544,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32003,
+      "num": 224761,
+      "word": "日本街头垃圾泛滥强行甩锅别国游客",
+      "onboard_time": 1765774225,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31989,

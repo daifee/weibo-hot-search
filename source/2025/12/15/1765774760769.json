@@ -1,0 +1,410 @@
+{
+  "runTime": 1765774760769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931339,
+        "num": 1149014,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 656781,
+        "num": 656781,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5064,
+        "num": 602588,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577687,
+        "num": 577687,
+        "word": "排骨羽绒服",
+        "onboard_time": 1765769242,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 575279,
+        "num": 575279,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 546408,
+        "num": 546408,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279978,
+        "num": 279978,
+        "word": "无限暖暖",
+        "onboard_time": 1765773983,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248600,
+        "num": 248600,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298943,
+        "num": 246853,
+        "word": "小吃街一夜间换上同一个收款码",
+        "onboard_time": 1765764921,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417454,
+        "num": 245219,
+        "word": "35万纯电玛莎拉蒂被一抢而空",
+        "onboard_time": 1765770022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1336595,
+        "num": 243861,
+        "word": "全红婵拎到王俊凯爆炸头",
+        "onboard_time": 1765767740,
+        "rank": 10,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 850718,
+        "num": 241573,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 850626,
+        "num": 239273,
+        "word": "向太曝李连杰将收入全部上缴利智",
+        "onboard_time": 1765766722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690657,
+        "num": 237220,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472539,
+        "num": 236187,
+        "word": "结了婚的人才懂被托举有多幸福",
+        "onboard_time": 1765770261,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398339,
+        "num": 233601,
+        "word": "张凯毅1个月掉粉近23万",
+        "onboard_time": 1765768222,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 380729,
+        "num": 231466,
+        "word": "王俊凯保镖陪同全红婵",
+        "onboard_time": 1765770022,
+        "rank": 16,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 642226,
+        "num": 230412,
+        "word": "利智 李连杰",
+        "onboard_time": 1765769962,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334608,
+        "num": 228306,
+        "word": "能不能放周柯宇去星光大赏",
+        "onboard_time": 1765769483,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32003,
+        "num": 224761,
+        "word": "日本街头垃圾泛滥强行甩锅别国游客",
+        "onboard_time": 1765774225,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260528,
+        "num": 222732,
+        "word": "萧敬腾岳父林光宁去世",
+        "onboard_time": 1765772783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257811,
+        "num": 222180,
+        "word": "王楚钦代言JBL",
+        "onboard_time": 1765768102,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256370,
+        "num": 218874,
+        "word": "吉娜这脸建模都不敢这么建",
+        "onboard_time": 1765772903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218389,
+        "num": 218389,
+        "word": "陈妍希将出席星光大赏",
+        "onboard_time": 1765769002,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215596,
+        "num": 215596,
+        "word": "闪耀暖暖",
+        "onboard_time": 1765772363,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215065,
+        "num": 215065,
+        "word": "煮了9个小时的鸡蛋",
+        "onboard_time": 1765762881,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206063,
+        "num": 206063,
+        "word": "好久没见这么土的综艺官宣",
+        "onboard_time": 1765769421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192922,
+        "num": 192922,
+        "word": "姚晨发了郭芙蓉赎身倒计时",
+        "onboard_time": 1765772663,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43698,
+        "num": 191893,
+        "word": "女子结婚14年被家暴13年案今日开庭",
+        "onboard_time": 1765773024,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191204,
+        "num": 191204,
+        "word": "导演罗伯莱纳去世",
+        "onboard_time": 1765774043,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190724,
+        "num": 190724,
+        "word": "麦当劳涨价0.5到1元",
+        "onboard_time": 1765771522,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189341,
+        "num": 189341,
+        "word": "光明网 李沛恩新歌",
+        "onboard_time": 1765773443,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168861,
+        "num": 168861,
+        "word": "曝iPhone20搭载无开孔真全面屏",
+        "onboard_time": 1765773142,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "桃黑黑中奖名单",
+        "onboard_time": 1765774523,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147076,
+        "num": 147076,
+        "word": "侯明昊的狗是胡彦斌的狗生的崽",
+        "onboard_time": 1765773744,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146956,
+        "num": 146956,
+        "word": "澳大利亚海滩枪击已致16死",
+        "onboard_time": 1765758263,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144717,
+        "num": 144717,
+        "word": "湖人险胜太阳",
+        "onboard_time": 1765774225,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143022,
+        "num": 143022,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1765774703,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94758,
+        "num": 140948,
+        "word": "得闲谨制调低发行价",
+        "onboard_time": 1765773924,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68532,
+        "num": 139833,
+        "word": "王楚钦离开赛场时无法弯腰",
+        "onboard_time": 1765773861,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139419,
+        "num": 139419,
+        "word": "微博之夜门票",
+        "onboard_time": 1765762224,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130894,
+        "num": 130894,
+        "word": "让郭京飞王佳佳演夫妻的是天才",
+        "onboard_time": 1765773803,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128582,
+        "num": 128582,
+        "word": "Shanks三问JDG教练",
+        "onboard_time": 1765767261,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125680,
+        "num": 125680,
+        "word": "郭碧婷三姐妹现状",
+        "onboard_time": 1765766722,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123513,
+        "num": 123513,
+        "word": "医生建议合理的洗澡顺序",
+        "onboard_time": 1765774583,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122925,
+        "num": 122925,
+        "word": "陈妍希说还没有想过退休",
+        "onboard_time": 1765774343,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122035,
+        "num": 122035,
+        "word": "TF家族四代分班",
+        "onboard_time": 1765769543,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39355,
+        "num": 121529,
+        "word": "煎饼叔叔确诊后曾想放弃治疗",
+        "onboard_time": 1765773083,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 121051,
+        "word": "六小龄童唐国强为何晴送来挽联",
+        "onboard_time": 1765774703,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115928,
+        "num": 115928,
+        "word": "彭小苒抹胸长靴从冬天辣回夏天",
+        "onboard_time": 1765772602,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
