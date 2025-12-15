@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765781124560,
+  "endTime": 1765781938318,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1908899,
+      "num": 350073,
+      "word": "穷鬼套餐 涨价",
+      "onboard_time": 1765777522,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1796212,
       "num": 323019,
       "word": "何晴 许亚军",
       "onboard_time": 1765679903,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1706079,
-      "num": 339633,
-      "word": "穷鬼套餐 涨价",
-      "onboard_time": 1765777522,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1546117,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652095,
+      "num": 312081,
+      "word": "王子文自曝三年没谈过恋爱",
+      "onboard_time": 1765779321,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649573,
       "num": 114135,
       "word": "曝双顶流恋情",
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 579386,
-      "num": 208290,
-      "word": "王子文自曝三年没谈过恋爱",
-      "onboard_time": 1765779321,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579186,
       "num": 579186,
       "word": "张本智和vs莫雷加德",
@@ -448,6 +448,14 @@
       "word": "原来Angelababy的相册是这样的",
       "onboard_time": 1765774942,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 575795,
+      "num": 188819,
+      "word": "锤娜丽莎体重反弹",
+      "onboard_time": 1765779802,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1765695802,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 545509,
-      "num": 188819,
-      "word": "锤娜丽莎体重反弹",
-      "onboard_time": 1765779802,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 545158,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 483004,
-      "num": 331521,
+      "num": 336651,
       "word": "叶祖新41岁面相",
       "onboard_time": 1765776082,
       "rank": 24,
@@ -1275,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265092,
+      "num": 265092,
+      "word": "曝iPhone20搭载无开孔真全面屏",
+      "onboard_time": 1765773142,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 264745,
       "num": 264745,
       "word": "宁波卫健委就小洛熙事件致歉",
@@ -1363,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255314,
+      "num": 187391,
+      "word": "李连杰大女儿结婚他送了一辆30万的车",
+      "onboard_time": 1765780976,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255265,
       "num": 231178,
       "word": "微博之夜门票",
@@ -1428,10 +1444,18 @@
     },
     {
       "raw_hot": 242947,
-      "num": 183294,
+      "num": 186869,
       "word": "迪丽热巴演了爱你老己",
       "onboard_time": 1765777881,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242849,
+      "num": 187254,
+      "word": "短剧女演员都快美成AI了",
+      "onboard_time": 1765779682,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1467,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230231,
-      "num": 180334,
-      "word": "短剧女演员都快美成AI了",
-      "onboard_time": 1765779682,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229031,
       "num": 229031,
       "word": "小洛熙事件医院存在多个问题",
@@ -1491,14 +1507,6 @@
       "category": "幽默,美妆"
     },
     {
-      "raw_hot": 227454,
-      "num": 178405,
-      "word": "李连杰大女儿结婚他送了一辆30万的车",
-      "onboard_time": 1765780976,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227264,
       "num": 322002,
       "word": "彩虹7成功首飞",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1765771522,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226718,
+      "num": 226718,
+      "word": "苏有朋怕过气所以转型演员",
+      "onboard_time": 1765780103,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 225745,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1765681884,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221225,
+      "num": 221225,
+      "word": "被家暴13年女子回应为啥不离婚",
+      "onboard_time": 1765776564,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221121,
@@ -1707,16 +1731,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210368,
-      "num": 210368,
-      "word": "曝iPhone20搭载无开孔真全面屏",
-      "onboard_time": 1765773142,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 209438,
-      "num": 167045,
+      "num": 186720,
       "word": "闺蜜断崖式消失了19年",
       "onboard_time": 1765779981,
       "rank": 29,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1765684703,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196390,
+      "num": 185148,
+      "word": "A股",
+      "onboard_time": 1765780642,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 195841,
@@ -2291,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175001,
-      "num": 166848,
-      "word": "被家暴13年女子回应为啥不离婚",
-      "onboard_time": 1765776564,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174973,
       "num": 174973,
       "word": "王曼昱再捧总决赛奖杯",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1765710202,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172555,
+      "num": 172555,
+      "word": "这才是内娱台词该有的意境",
+      "onboard_time": 1765781481,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172033,
@@ -2563,6 +2587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157924,
+      "num": 157924,
+      "word": "第一个发现陶喆像labubu的是陶喆",
+      "onboard_time": 1765781722,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157257,
       "num": 157257,
       "word": "先吃烂苹果最后吃的全是烂苹果",
@@ -2617,14 +2649,6 @@
       "onboard_time": 1765703002,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154776,
-      "num": 154776,
-      "word": "A股",
-      "onboard_time": 1765780642,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 153962,
@@ -2915,14 +2939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139674,
-      "num": 191038,
-      "word": "苏有朋怕过气所以转型演员",
-      "onboard_time": 1765780103,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139276,
       "num": 130059,
       "word": "乒协呼吁营造理性温暖的舆论环境",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1765711704,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135321,
+      "num": 135321,
+      "word": "优动漫 付费升级",
+      "onboard_time": 1765781422,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 135099,
@@ -3659,6 +3683,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 112348,
+      "num": 112348,
+      "word": "王俊凯全红婵跨圈友谊羡慕了",
+      "onboard_time": 1765781722,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 112210,
       "num": 112210,
       "word": "这一段真的有人看了不脸红吗",
@@ -3753,6 +3785,14 @@
       "onboard_time": 1765693882,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107594,
+      "num": 107594,
+      "word": "麦当劳回应涨价",
+      "onboard_time": 1765781422,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 107417,
@@ -3852,7 +3892,7 @@
     },
     {
       "raw_hot": 103606,
-      "num": 175237,
+      "num": 187038,
       "word": "华为乾崑探索智能汽车无人区",
       "onboard_time": 1765778722,
       "rank": 26,
@@ -4169,6 +4209,14 @@
       "onboard_time": 1765707982,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95047,
+      "num": 137036,
+      "word": "华晨宇 其实我想捞两个",
+      "onboard_time": 1765781182,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 94758,
@@ -5027,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56019,
+      "num": 136561,
+      "word": "以色列律师分享在澳遭遇枪击后照片",
+      "onboard_time": 1765780221,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55998,
       "num": 85656,
       "word": "WTT",
@@ -5137,6 +5193,14 @@
       "onboard_time": 1765702764,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45206,
+      "num": 175274,
+      "word": "那英 反正我要力挺她",
+      "onboard_time": 1765781842,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 44819,
@@ -5323,12 +5387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37949,
+      "num": 358504,
+      "word": "2025中国经济新突破",
+      "onboard_time": 1765777222,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37607,
       "num": 124231,
       "word": "杨瀚森升级为可出战状态",
       "onboard_time": 1765775062,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37596,
+      "num": 135642,
+      "word": "电竞酒店退房垃圾堆1米高3天才清完",
+      "onboard_time": 1765781781,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35355,
@@ -5411,14 +5491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33082,
-      "num": 348594,
-      "word": "2025中国经济新突破",
-      "onboard_time": 1765777222,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32901,
       "num": 602588,
       "word": "加强商务和金融协同更大力度提振消费",
@@ -5481,14 +5553,6 @@
       "onboard_time": 1765748894,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31602,
-      "num": 136561,
-      "word": "以色列律师分享在澳遭遇枪击后照片",
-      "onboard_time": 1765780221,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 31287,
@@ -5595,6 +5659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28216,
+      "num": 187782,
+      "word": "中国亲历者以为枪击是放烟花",
+      "onboard_time": 1765781182,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27635,
       "num": 104526,
       "word": "汕头火灾幸存者称或受浓烟影响更大",
@@ -5649,6 +5721,14 @@
       "onboard_time": 1765725623,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25134,
+      "num": 249360,
+      "word": "12年前的今天中国首次实现月球软着陆",
+      "onboard_time": 1765777222,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25103,
@@ -5761,14 +5841,6 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17850,
-      "num": 158401,
-      "word": "12年前的今天中国首次实现月球软着陆",
-      "onboard_time": 1765777222,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16540,

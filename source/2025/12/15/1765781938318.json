@@ -1,0 +1,410 @@
+{
+  "runTime": 1765781938318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 424406,
+        "num": 1067905,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371524,
+        "num": 371524,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37949,
+        "num": 358504,
+        "word": "2025中国经济新突破",
+        "onboard_time": 1765777222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1908899,
+        "num": 350073,
+        "word": "穷鬼套餐 涨价",
+        "onboard_time": 1765777522,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 464762,
+        "num": 336651,
+        "word": "叶祖新41岁面相",
+        "onboard_time": 1765776082,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652095,
+        "num": 312081,
+        "word": "王子文自曝三年没谈过恋爱",
+        "onboard_time": 1765779321,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303005,
+        "num": 303005,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265092,
+        "num": 265092,
+        "word": "曝iPhone20搭载无开孔真全面屏",
+        "onboard_time": 1765773142,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25134,
+        "num": 249360,
+        "word": "12年前的今天中国首次实现月球软着陆",
+        "onboard_time": 1765777222,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236071,
+        "num": 236071,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 803380,
+        "num": 235354,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541959,
+        "num": 232644,
+        "word": "何晴儿子在告别仪式上追忆母亲",
+        "onboard_time": 1765777043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315617,
+        "num": 230595,
+        "word": "向太曝李连杰将收入全部上缴利智",
+        "onboard_time": 1765766722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314434,
+        "num": 228630,
+        "word": "原来Angelababy的相册是这样的",
+        "onboard_time": 1765774942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253268,
+        "num": 226766,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226718,
+        "num": 226718,
+        "word": "苏有朋怕过气所以转型演员",
+        "onboard_time": 1765780103,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221225,
+        "num": 221225,
+        "word": "被家暴13年女子回应为啥不离婚",
+        "onboard_time": 1765776564,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213768,
+        "num": 213768,
+        "word": "芬兰小姐被剥夺头衔中文道歉又反转",
+        "onboard_time": 1765775423,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187812,
+        "num": 187812,
+        "word": "35万纯电玛莎拉蒂被一抢而空",
+        "onboard_time": 1765770022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28216,
+        "num": 187782,
+        "word": "中国亲历者以为枪击是放烟花",
+        "onboard_time": 1765781182,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 575795,
+        "num": 187608,
+        "word": "锤娜丽莎体重反弹",
+        "onboard_time": 1765779802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323622,
+        "num": 187541,
+        "word": "iPhone20爆料",
+        "onboard_time": 1765778182,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255314,
+        "num": 187391,
+        "word": "李连杰大女儿结婚他送了一辆30万的车",
+        "onboard_time": 1765780976,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242849,
+        "num": 187254,
+        "word": "短剧女演员都快美成AI了",
+        "onboard_time": 1765779682,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239573,
+        "num": 187143,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1765774703,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94458,
+        "num": 187038,
+        "word": "华为乾崑探索智能汽车无人区",
+        "onboard_time": 1765778722,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209340,
+        "num": 186869,
+        "word": "迪丽热巴演了爱你老己",
+        "onboard_time": 1765777881,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208136,
+        "num": 186720,
+        "word": "闺蜜断崖式消失了19年",
+        "onboard_time": 1765779981,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186681,
+        "num": 186681,
+        "word": "排骨羽绒服",
+        "onboard_time": 1765769242,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196390,
+        "num": 185148,
+        "word": "A股",
+        "onboard_time": 1765780642,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179751,
+        "num": 179751,
+        "word": "女子中532万后选择每周领5000",
+        "onboard_time": 1765775303,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45206,
+        "num": 175274,
+        "word": "那英 反正我要力挺她",
+        "onboard_time": 1765781842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172555,
+        "num": 172555,
+        "word": "这才是内娱台词该有的意境",
+        "onboard_time": 1765781481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 157924,
+        "word": "第一个发现陶喆像labubu的是陶喆",
+        "onboard_time": 1765781722,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148443,
+        "num": 148443,
+        "word": "云南体育局回应运动员实名举报",
+        "onboard_time": 1765780103,
+        "rank": 34,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 146829,
+        "num": 146829,
+        "word": "张凯毅1个月掉粉近23万",
+        "onboard_time": 1765768222,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139553,
+        "num": 139553,
+        "word": "罗伯莱纳儿子染毒瘾多年",
+        "onboard_time": 1765780221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 137036,
+        "word": "华晨宇 其实我想捞两个",
+        "onboard_time": 1765781182,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37596,
+        "num": 135642,
+        "word": "电竞酒店退房垃圾堆1米高3天才清完",
+        "onboard_time": 1765781781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135321,
+        "num": 135321,
+        "word": "优动漫 付费升级",
+        "onboard_time": 1765781422,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129506,
+        "num": 129506,
+        "word": "结了婚的人才懂被托举有多幸福",
+        "onboard_time": 1765770261,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127485,
+        "num": 127485,
+        "word": "生娃个人仅支付400多元",
+        "onboard_time": 1765774823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127016,
+        "num": 127016,
+        "word": "虞书欣怎么跑得乱七八糟的",
+        "onboard_time": 1765775902,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120159,
+        "num": 120159,
+        "word": "桃黑黑中奖名单",
+        "onboard_time": 1765774523,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117126,
+        "num": 117126,
+        "word": "澳民众愤怒猛踩被击毙枪手头部",
+        "onboard_time": 1765778182,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 114241,
+        "word": "韩网红说爱上中国是因为中国人",
+        "onboard_time": 1765776022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112348,
+        "num": 112348,
+        "word": "王俊凯全红婵跨圈友谊羡慕了",
+        "onboard_time": 1765781722,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 56019,
+        "num": 111324,
+        "word": "以色列律师分享在澳遭遇枪击后照片",
+        "onboard_time": 1765780221,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111011,
+        "num": 111011,
+        "word": "能不能放周柯宇去星光大赏",
+        "onboard_time": 1765769483,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107594,
+        "num": 107594,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要树立和践行正确政绩观#"
+    }
+  }
+}
