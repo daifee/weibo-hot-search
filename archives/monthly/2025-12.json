@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765803638796,
+  "endTime": 1765804561070,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -2657,6 +2657,14 @@
       "onboard_time": 1765618821,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 724594,
+      "num": 210953,
+      "word": "曝已婚知名导演追求北电女学生",
+      "onboard_time": 1765802543,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 724004,
@@ -5483,14 +5491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 491897,
-      "num": 210953,
-      "word": "曝已婚知名导演追求北电女学生",
-      "onboard_time": 1765802543,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491336,
       "num": 1078613,
       "word": "中国人在太空存粮多得超乎想象",
@@ -7044,7 +7044,7 @@
     },
     {
       "raw_hot": 422979,
-      "num": 210166,
+      "num": 347897,
       "word": "双轨原著 冠夫姓",
       "onboard_time": 1765800022,
       "rank": 21,
@@ -11355,6 +11355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280771,
+      "num": 205976,
+      "word": "小米",
+      "onboard_time": 1765803382,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 280708,
       "num": 214321,
       "word": "买了一栋只有一个卧室的别墅",
@@ -12289,6 +12297,14 @@
       "onboard_time": 1764685403,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259255,
+      "num": 222105,
+      "word": "深圳一地厕所吸烟会变透明",
+      "onboard_time": 1765801224,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259160,
@@ -13489,14 +13505,6 @@
       "onboard_time": 1764896180,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235956,
-      "num": 222105,
-      "word": "深圳一地厕所吸烟会变透明",
-      "onboard_time": 1765801224,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235755,
@@ -17219,6 +17227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "爱吃蛋入驻微博",
+      "onboard_time": 1765802302,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192663,
       "num": 187819,
       "word": "工作一整年存了3700块钱",
@@ -18713,6 +18729,14 @@
       "onboard_time": 1764976157,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181593,
+      "num": 181593,
+      "word": "交警确认杭州小米交付中心发生车祸",
+      "onboard_time": 1765804103,
+      "rank": 18,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 181566,
@@ -21769,14 +21793,6 @@
       "onboard_time": 1764833901,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158211,
-      "num": 205976,
-      "word": "小米",
-      "onboard_time": 1765803382,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 158185,
@@ -25659,6 +25675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137593,
+      "num": 137593,
+      "word": "石宇奇获年度最佳男单",
+      "onboard_time": 1765804043,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137570,
       "num": 131108,
       "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
@@ -26577,14 +26601,6 @@
       "onboard_time": 1765515502,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133708,
-      "num": 133708,
-      "word": "爱吃蛋入驻微博",
-      "onboard_time": 1765802302,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 133679,
@@ -27841,6 +27857,14 @@
       "onboard_time": 1765077261,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128798,
+      "num": 128798,
+      "word": "张本智和右肩受伤",
+      "onboard_time": 1765803201,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 128772,
@@ -31339,6 +31363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116328,
+      "num": 116328,
+      "word": "狙击蝴蝶番外 幸福晕了",
+      "onboard_time": 1765800323,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116323,
       "num": 116323,
       "word": "余承东说2025年关键词是成长",
@@ -32731,14 +32763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111747,
-      "num": 111747,
-      "word": "张本智和右肩受伤",
-      "onboard_time": 1765803201,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111576,
       "num": 111576,
       "word": "香港火灾遇难者升至160人",
@@ -32761,6 +32785,14 @@
       "onboard_time": 1765787901,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "王安宇滑雪摔了",
+      "onboard_time": 1765804223,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 111453,
@@ -34529,14 +34561,6 @@
       "onboard_time": 1765705521,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105175,
-      "num": 96825,
-      "word": "狙击蝴蝶番外 幸福晕了",
-      "onboard_time": 1765800323,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 105167,
@@ -43171,6 +43195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 65997,
+      "num": 137208,
+      "word": "vivoS50天选主角感",
+      "onboard_time": 1765803864,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65666,
       "num": 368874,
       "word": "民政局副局长利用养老工作贪污1257万",
@@ -45619,6 +45651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49331,
+      "num": 111541,
+      "word": "如何从汽车大国变身汽车强国",
+      "onboard_time": 1765799603,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49319,
       "num": 326491,
       "word": "中俄第10次联合空中战略巡航",
@@ -47603,6 +47643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38627,
+      "num": 137294,
+      "word": "我和站姐只差一台vivoS50",
+      "onboard_time": 1765803864,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38610,
       "num": 68250,
       "word": "谢娜参加跳跳运动会",
@@ -47961,6 +48009,14 @@
       "onboard_time": 1765451542,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37007,
+      "num": 219978,
+      "word": "田曦薇给我下了一场告白雪",
+      "onboard_time": 1765802063,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 36985,
@@ -48385,14 +48441,6 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 34378,
-      "num": 219978,
-      "word": "田曦薇给我下了一场告白雪",
-      "onboard_time": 1765802063,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 34363,
@@ -52632,6 +52680,14 @@
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7165,
+      "num": 358028,
+      "word": "投资于人民生为大",
+      "onboard_time": 1765789942,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

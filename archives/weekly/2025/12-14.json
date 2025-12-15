@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765803638796,
+  "endTime": 1765804561070,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -313,6 +313,14 @@
       "onboard_time": 1765692682,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 724594,
+      "num": 210953,
+      "word": "曝已婚知名导演追求北电女学生",
+      "onboard_time": 1765802543,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 723684,
@@ -747,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491897,
-      "num": 210953,
-      "word": "曝已婚知名导演追求北电女学生",
-      "onboard_time": 1765802543,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 487696,
       "num": 487696,
       "word": "国家发文禁止亏本卖车",
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 422979,
-      "num": 210166,
+      "num": 347897,
       "word": "双轨原著 冠夫姓",
       "onboard_time": 1765800022,
       "rank": 21,
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280771,
+      "num": 205976,
+      "word": "小米",
+      "onboard_time": 1765803382,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 279978,
       "num": 279978,
       "word": "无限暖暖",
@@ -1627,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259255,
+      "num": 222105,
+      "word": "深圳一地厕所吸烟会变透明",
+      "onboard_time": 1765801224,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258862,
       "num": 189793,
       "word": "T1对战HLE",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1765691721,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235956,
-      "num": 222105,
-      "word": "深圳一地厕所吸烟会变透明",
-      "onboard_time": 1765801224,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232739,
@@ -2371,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "爱吃蛋入驻微博",
+      "onboard_time": 1765802302,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191446,
       "num": 191446,
       "word": "曾黎挖出了一米长完整的藕",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1765775243,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181593,
+      "num": 181593,
+      "word": "交警确认杭州小米交付中心发生车祸",
+      "onboard_time": 1765804103,
+      "rank": 18,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 181393,
@@ -3089,14 +3113,6 @@
       "onboard_time": 1765694061,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158211,
-      "num": 205976,
-      "word": "小米",
-      "onboard_time": 1765803382,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 158185,
@@ -3627,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137593,
+      "num": 137593,
+      "word": "石宇奇获年度最佳男单",
+      "onboard_time": 1765804043,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137555,
       "num": 137555,
       "word": "怪不得以前管结婚叫找婆家",
@@ -3761,14 +3785,6 @@
       "onboard_time": 1765695441,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133708,
-      "num": 133708,
-      "word": "爱吃蛋入驻微博",
-      "onboard_time": 1765802302,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 133367,
@@ -3969,6 +3985,14 @@
       "onboard_time": 1765792222,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128798,
+      "num": 128798,
+      "word": "张本智和右肩受伤",
+      "onboard_time": 1765803201,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 128595,
@@ -4395,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116328,
+      "num": 116328,
+      "word": "狙击蝴蝶番外 幸福晕了",
+      "onboard_time": 1765800323,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116187,
       "num": 207062,
       "word": "狂花开机",
@@ -4595,20 +4627,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 111747,
-      "num": 111747,
-      "word": "张本智和右肩受伤",
-      "onboard_time": 1765803201,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111507,
       "num": 111507,
       "word": "新华社披露莎头伤情细节",
       "onboard_time": 1765787901,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "王安宇滑雪摔了",
+      "onboard_time": 1765804223,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 111432,
@@ -4777,14 +4809,6 @@
       "onboard_time": 1765705521,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105175,
-      "num": 96825,
-      "word": "狙击蝴蝶番外 幸福晕了",
-      "onboard_time": 1765800323,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 104666,
@@ -6019,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65997,
+      "num": 137208,
+      "word": "vivoS50天选主角感",
+      "onboard_time": 1765803864,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64548,
       "num": 145923,
       "word": "成毅复仇爽剧大男主少不了好搭子",
@@ -6379,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49331,
+      "num": 111541,
+      "word": "如何从汽车大国变身汽车强国",
+      "onboard_time": 1765799603,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49098,
       "num": 126169,
       "word": "张籽沐参加天津表演统考",
@@ -6635,6 +6675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38627,
+      "num": 137294,
+      "word": "我和站姐只差一台vivoS50",
+      "onboard_time": 1765803864,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38584,
       "num": 117737,
       "word": "楼下称楼上把4房2卫改为6房6卫",
@@ -6681,6 +6729,14 @@
       "onboard_time": 1765775062,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37007,
+      "num": 219978,
+      "word": "田曦薇给我下了一场告白雪",
+      "onboard_time": 1765802063,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 36775,
@@ -6745,14 +6801,6 @@
       "onboard_time": 1765685302,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34378,
-      "num": 219978,
-      "word": "田曦薇给我下了一场告白雪",
-      "onboard_time": 1765802063,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 34334,
@@ -7369,6 +7417,14 @@
       "onboard_time": 1765624941,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7165,
+      "num": 358028,
+      "word": "投资于人民生为大",
+      "onboard_time": 1765789942,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1426,

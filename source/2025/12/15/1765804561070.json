@@ -1,0 +1,410 @@
+{
+  "runTime": 1765804561070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522924,
+        "num": 1083667,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359059,
+        "num": 359059,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7165,
+        "num": 358028,
+        "word": "投资于人民生为大",
+        "onboard_time": 1765789942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024923,
+        "num": 353472,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473659,
+        "num": 351881,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366966,
+        "num": 347897,
+        "word": "双轨原著 冠夫姓",
+        "onboard_time": 1765800022,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347848,
+        "num": 347848,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 205071,
+        "num": 205071,
+        "word": "5月龄女婴离世问责不是终点",
+        "onboard_time": 1765801642,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192732,
+        "num": 192732,
+        "word": "爱吃蛋入驻微博",
+        "onboard_time": 1765802302,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143501,
+        "num": 191961,
+        "word": "Viper抵达BLG基地",
+        "onboard_time": 1765802903,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 753132,
+        "num": 190947,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 533513,
+        "num": 189029,
+        "word": "这居然是张凯丽",
+        "onboard_time": 1765797500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438003,
+        "num": 188904,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1765800503,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37007,
+        "num": 186827,
+        "word": "田曦薇给我下了一场告白雪",
+        "onboard_time": 1765802063,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406016,
+        "num": 185313,
+        "word": "儿子抱何晴遗像送母亲最后一程",
+        "onboard_time": 1765802903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280771,
+        "num": 184478,
+        "word": "小米",
+        "onboard_time": 1765803382,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46742,
+        "num": 183764,
+        "word": "S50奶fufu的小新机",
+        "onboard_time": 1765802182,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 259255,
+        "num": 182803,
+        "word": "深圳一地厕所吸烟会变透明",
+        "onboard_time": 1765801224,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "交警确认杭州小米交付中心发生车祸",
+        "onboard_time": 1765804103,
+        "rank": 18,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 137593,
+        "num": 137593,
+        "word": "石宇奇获年度最佳男单",
+        "onboard_time": 1765804043,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724594,
+        "num": 137579,
+        "word": "曝已婚知名导演追求北电女学生",
+        "onboard_time": 1765802543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373775,
+        "num": 137553,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341748,
+        "num": 137495,
+        "word": "岑矜李雾女儿",
+        "onboard_time": 1765798100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22478,
+        "num": 137440,
+        "word": "vivoS50拍出恋综电影感",
+        "onboard_time": 1765800260,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283421,
+        "num": 137422,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157818,
+        "num": 137378,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157163,
+        "num": 137343,
+        "word": "陈妍希周柯宇 外套",
+        "onboard_time": 1765802423,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38627,
+        "num": 137294,
+        "word": "我和站姐只差一台vivoS50",
+        "onboard_time": 1765803864,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41681,
+        "num": 137266,
+        "word": "我国首批L3自动驾驶车型获准入许可",
+        "onboard_time": 1765787122,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65997,
+        "num": 137208,
+        "word": "vivoS50天选主角感",
+        "onboard_time": 1765803864,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20803,
+        "num": 137151,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137149,
+        "num": 137149,
+        "word": "刘芮麟 狙击蝴蝶有自己的暗爽哥",
+        "onboard_time": 1765803083,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122763,
+        "num": 135230,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 32,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 133847,
+        "num": 133847,
+        "word": "李心艾瘦了80斤",
+        "onboard_time": 1765793903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128798,
+        "num": 128798,
+        "word": "张本智和右肩受伤",
+        "onboard_time": 1765803201,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126757,
+        "num": 126757,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125485,
+        "num": 125485,
+        "word": "赵昭仪这下真成昭仪了",
+        "onboard_time": 1765795342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116328,
+        "num": 116328,
+        "word": "狙击蝴蝶番外 幸福晕了",
+        "onboard_time": 1765800323,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116273,
+        "num": 116273,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113842,
+        "num": 113842,
+        "word": "王楚钦孙颖莎背着肖指导沟通战术",
+        "onboard_time": 1765801400,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "工作室称丝芭伪造鞠婧祎签名",
+        "onboard_time": 1765798041,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 113189,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49331,
+        "num": 111541,
+        "word": "如何从汽车大国变身汽车强国",
+        "onboard_time": 1765799603,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111486,
+        "num": 111486,
+        "word": "王安宇滑雪摔了",
+        "onboard_time": 1765804223,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74498,
+        "num": 111331,
+        "word": "vivo发布会",
+        "onboard_time": 1765798881,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111262,
+        "num": 111262,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109526,
+        "num": 109526,
+        "word": "丝芭 伪造补充协议",
+        "onboard_time": 1765797741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98828,
+        "num": 98828,
+        "word": "老人家门口吃橘子被邻居一拳打倒在地",
+        "onboard_time": 1765794143,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96222,
+        "num": 96222,
+        "word": "西北唯一水银体温计厂上百万支库存清空",
+        "onboard_time": 1765799242,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91399,
+        "num": 91399,
+        "word": "林钟勋向妻子表白急坏申裕斌",
+        "onboard_time": 1765802543,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议微镜头#"
+    }
+  }
+}
