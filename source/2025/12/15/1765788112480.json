@@ -1,0 +1,410 @@
+{
+  "runTime": 1765788112480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636221,
+        "num": 1101795,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 561273,
+        "num": 561273,
+        "word": "公务员平替岗挤满没能上岸的年轻人",
+        "onboard_time": 1765782562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29344,
+        "num": 356171,
+        "word": "2025中国经济新突破",
+        "onboard_time": 1765777222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226124,
+        "num": 226124,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 3,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 222336,
+        "num": 222336,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221227,
+        "num": 221227,
+        "word": "中国亲历者以为枪击是放烟花",
+        "onboard_time": 1765781182,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186780,
+        "num": 220943,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 6,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 179619,
+        "num": 219107,
+        "word": "曝iPhone20搭载无开孔真全面屏",
+        "onboard_time": 1765773142,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186117,
+        "num": 217273,
+        "word": "L3",
+        "onboard_time": 1765787182,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154028,
+        "num": 216128,
+        "word": "麦当劳涨价",
+        "onboard_time": 1765786642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743871,
+        "num": 215563,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564837,
+        "num": 213518,
+        "word": "李连杰住院利智被曝每日仅探视15分钟",
+        "onboard_time": 1765782623,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480903,
+        "num": 211920,
+        "word": "王俊凯你吓到全红婵了",
+        "onboard_time": 1765784723,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 261851,
+        "num": 210589,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148359,
+        "num": 209975,
+        "word": "芬兰小姐被剥夺头衔中文道歉又反转",
+        "onboard_time": 1765775423,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251236,
+        "num": 207364,
+        "word": "云合",
+        "onboard_time": 1765787242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53891,
+        "num": 206310,
+        "word": "开箱百万级后排大沙发",
+        "onboard_time": 1765785863,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 224292,
+        "num": 204858,
+        "word": "全国70城房价下跌",
+        "onboard_time": 1765782383,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48647,
+        "num": 204312,
+        "word": "蚂蚁集团推出AI健康应用阿福",
+        "onboard_time": 1765785863,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221949,
+        "num": 202788,
+        "word": "丝芭起诉状称鞠婧祎合约至2033年",
+        "onboard_time": 1765787421,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438227,
+        "num": 200666,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34197,
+        "num": 199079,
+        "word": "被领导索要奖金运动员遭恶意边缘化",
+        "onboard_time": 1765787782,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193829,
+        "num": 197874,
+        "word": "我国首批L3自动驾驶车型获准入许可",
+        "onboard_time": 1765787122,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231933,
+        "num": 196692,
+        "word": "何晴儿子在告别仪式上追忆母亲",
+        "onboard_time": 1765777043,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195962,
+        "num": 195962,
+        "word": "刘昱晗 嘴人",
+        "onboard_time": 1765785323,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194734,
+        "num": 194734,
+        "word": "邓超小花cos尼克朱迪",
+        "onboard_time": 1765785984,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186457,
+        "num": 186457,
+        "word": "王一博T杂志",
+        "onboard_time": 1765786163,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158532,
+        "num": 158532,
+        "word": "外交部回应日本将不再有大熊猫",
+        "onboard_time": 1765785984,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138755,
+        "num": 138755,
+        "word": "iPhone20爆料",
+        "onboard_time": 1765778182,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131472,
+        "num": 137884,
+        "word": "短剧女演员都快美成AI了",
+        "onboard_time": 1765779682,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137555,
+        "num": 137555,
+        "word": "怪不得以前管结婚叫找婆家",
+        "onboard_time": 1765787901,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135597,
+        "num": 135597,
+        "word": "您的大夫撤回了一个催生",
+        "onboard_time": 1765786043,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131356,
+        "num": 131356,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1765774703,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 122854,
+        "num": 122854,
+        "word": "独居久了才能意识到的事",
+        "onboard_time": 1765783822,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122551,
+        "num": 122551,
+        "word": "女子中532万后选择每周领5000",
+        "onboard_time": 1765775303,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121907,
+        "num": 121907,
+        "word": "双轨团综官宣定档",
+        "onboard_time": 1765786941,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115321,
+        "num": 115321,
+        "word": "住进这个房子拖延症瞬间好了",
+        "onboard_time": 1765787901,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 18908,
+        "num": 112877,
+        "word": "1200张婚纱照仅售不到2块钱",
+        "onboard_time": 1765787541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38428,
+        "num": 111592,
+        "word": "王一博脸和手反差感",
+        "onboard_time": 1765787782,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57056,
+        "num": 111549,
+        "word": "陈妍希演沈佳宜的时候28岁",
+        "onboard_time": 1765787842,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111507,
+        "num": 111507,
+        "word": "新华社披露莎头伤情细节",
+        "onboard_time": 1765787901,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107783,
+        "num": 107783,
+        "word": "国防部双语正告日本",
+        "onboard_time": 1765786283,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100448,
+        "num": 100448,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98890,
+        "num": 98890,
+        "word": "不必质疑莎头退赛动机",
+        "onboard_time": 1765787301,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34334,
+        "num": 97154,
+        "word": "何晴儿子说北京的初雪是为母亲下的",
+        "onboard_time": 1765786642,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96570,
+        "num": 96570,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71570,
+        "num": 94304,
+        "word": "中国留学生为躲海滩枪击腿都跑软了",
+        "onboard_time": 1765786582,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92387,
+        "num": 94058,
+        "word": "L3自动驾驶将在京渝上路试点",
+        "onboard_time": 1765786701,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93956,
+        "num": 93956,
+        "word": "穿上了精挑细选的黑羽绒服",
+        "onboard_time": 1765787301,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92641,
+        "num": 92641,
+        "word": "锤娜丽莎体重反弹",
+        "onboard_time": 1765779802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要树立和践行正确政绩观#"
+    }
+  }
+}
