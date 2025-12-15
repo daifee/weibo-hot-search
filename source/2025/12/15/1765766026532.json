@@ -1,0 +1,410 @@
+{
+  "runTime": 1765766026532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640054,
+        "num": 1102408,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383852,
+        "num": 383852,
+        "word": "澳大利亚海滩枪击已致16死",
+        "onboard_time": 1765758263,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22464,
+        "num": 279923,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270887,
+        "num": 270887,
+        "word": "现在就出发3",
+        "onboard_time": 1765749435,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354404,
+        "num": 268416,
+        "word": "双轨剧宣尺度",
+        "onboard_time": 1765758561,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745618,
+        "num": 268042,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264340,
+        "num": 264340,
+        "word": "悉尼海滩英勇夺枪男子需接受手术",
+        "onboard_time": 1765762342,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 418337,
+        "num": 263499,
+        "word": "王楚钦绑着护带出发回京",
+        "onboard_time": 1765763483,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262630,
+        "num": 262630,
+        "word": "华为nova15来了",
+        "onboard_time": 1765766002,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41882,
+        "num": 259169,
+        "word": "对岩崎茂采取反制措施",
+        "onboard_time": 1765764980,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1104308,
+        "num": 252748,
+        "word": "煮了9个小时的鸡蛋",
+        "onboard_time": 1765762881,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544980,
+        "num": 251926,
+        "word": "巨人观的水果尸体慢慢浮出水面",
+        "onboard_time": 1765724905,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404419,
+        "num": 241887,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1765758561,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111432,
+        "num": 239095,
+        "word": "王曼昱冠军城市宣传照",
+        "onboard_time": 1765763061,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293592,
+        "num": 231809,
+        "word": "以前审美vs现在审美",
+        "onboard_time": 1765758321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231178,
+        "num": 231178,
+        "word": "微博之夜门票",
+        "onboard_time": 1765762224,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225354,
+        "num": 225354,
+        "word": "和美国女友网恋奔现",
+        "onboard_time": 1765760962,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224433,
+        "num": 224433,
+        "word": "王俊凯抹眼泪",
+        "onboard_time": 1765760360,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47608,
+        "num": 208046,
+        "word": "首席经济学家卖课10天吸金900万",
+        "onboard_time": 1765765460,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 57860,
+        "num": 204360,
+        "word": "大厂员工们正在帮AI取代自己",
+        "onboard_time": 1765765460,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201108,
+        "num": 201108,
+        "word": "小吃街一夜间换上同一个收款码",
+        "onboard_time": 1765764921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195409,
+        "num": 195409,
+        "word": "才知道眼镜布是不能用来擦眼镜的",
+        "onboard_time": 1765760901,
+        "rank": 21,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 158979,
+        "num": 158979,
+        "word": "为什么总感觉老二比老大更聪明",
+        "onboard_time": 1765763960,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 156009,
+        "num": 156009,
+        "word": "郭碧婷爸爸发文感谢女儿婆家",
+        "onboard_time": 1765752016,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 155883,
+        "word": "河南省委书记暗访嵩山少林",
+        "onboard_time": 1765759161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155382,
+        "num": 155382,
+        "word": "狙击蝴蝶编剧发长文",
+        "onboard_time": 1765758263,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149628,
+        "num": 149628,
+        "word": "煎饼叔叔生病一整条街都出手了",
+        "onboard_time": 1765760962,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149310,
+        "num": 149310,
+        "word": "澳大利亚全国降半旗",
+        "onboard_time": 1765761500,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120014,
+        "num": 120014,
+        "word": "彩虹7成功首飞",
+        "onboard_time": 1765759402,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112003,
+        "num": 112003,
+        "word": "双轨成绩",
+        "onboard_time": 1765764800,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104302,
+        "num": 104302,
+        "word": "高叶 比人先认出来的是狗",
+        "onboard_time": 1765763601,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103366,
+        "num": 103366,
+        "word": "何与从横店骑行480公里到南京",
+        "onboard_time": 1765761740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100253,
+        "num": 100253,
+        "word": "何晴和许亚军的家人都是好朋友",
+        "onboard_time": 1765763660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96818,
+        "num": 96818,
+        "word": "狙击蝴蝶A级剧",
+        "onboard_time": 1765760120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89709,
+        "num": 89709,
+        "word": "日本中学生滥用药物现象严重",
+        "onboard_time": 1765758442,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85327,
+        "num": 85327,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84125,
+        "num": 84125,
+        "word": "这个视频每一帧让我感觉到窒息",
+        "onboard_time": 1765763540,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 82911,
+        "num": 82911,
+        "word": "莫雷加德发文分享与王楚钦拥抱照",
+        "onboard_time": 1765764980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82096,
+        "num": 82096,
+        "word": "向太买给郭碧婷的两块地好几百坪",
+        "onboard_time": 1765759462,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 81601,
+        "word": "海归培育30株大麻被刑拘",
+        "onboard_time": 1765765460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81348,
+        "num": 81348,
+        "word": "美国276斤死刑犯行刑前点奢华盛宴",
+        "onboard_time": 1765729280,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79996,
+        "num": 79996,
+        "word": "姐姐养的第一个小孩是我",
+        "onboard_time": 1765763180,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76685,
+        "num": 76685,
+        "word": "48岁女子回应36岁男友称被骗色",
+        "onboard_time": 1765763960,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75494,
+        "num": 75494,
+        "word": "虞书欣发了最好嗑的镜头live",
+        "onboard_time": 1765762281,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74714,
+        "num": 74714,
+        "word": "樊振东瘦了很多",
+        "onboard_time": 1765763001,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73622,
+        "num": 73622,
+        "word": "河南仍未公布致13死火灾调查报告",
+        "onboard_time": 1765763960,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72464,
+        "num": 72464,
+        "word": "何晴父母均因脑溢血离世",
+        "onboard_time": 1765714524,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70124,
+        "num": 70124,
+        "word": "杜凯琹说看到莎头退赛很心痛",
+        "onboard_time": 1765764621,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71320,
+        "num": 69821,
+        "word": "日本网民指责欧美游客素质差",
+        "onboard_time": 1765759220,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68601,
+        "num": 68601,
+        "word": "周奇演技",
+        "onboard_time": 1765763841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
