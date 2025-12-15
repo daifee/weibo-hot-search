@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765841299265,
+  "endTime": 1765842124817,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 725051,
+      "num": 232447,
+      "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+      "onboard_time": 1765812020,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 724594,
       "num": 221544,
       "word": "曝已婚知名导演追求北电女学生",
@@ -385,14 +393,6 @@
       "onboard_time": 1765772542,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 688357,
-      "num": 232447,
-      "word": "妻子骨折生蛆死亡丈夫辩称不知情",
-      "onboard_time": 1765812020,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 680717,
@@ -803,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481499,
+      "num": 924973,
+      "word": "演唱会安保用暗号放行126人",
+      "onboard_time": 1765838836,
+      "rank": 3,
+      "category": "民生新闻,演出"
+    },
+    {
       "raw_hot": 480903,
       "num": 387246,
       "word": "王俊凯你吓到全红婵了",
@@ -1123,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364196,
-      "num": 130865,
-      "word": "演唱会安保用暗号放行126人",
-      "onboard_time": 1765838836,
-      "rank": 3,
-      "category": "民生新闻,演出"
-    },
-    {
       "raw_hot": 359791,
       "num": 284260,
       "word": "国乒男单无缘5连冠",
@@ -1395,6 +1395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 300367,
+      "num": 198332,
+      "word": "警车上下来3人未穿警服牵着宠物狗",
+      "onboard_time": 1765809923,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299656,
       "num": 277318,
       "word": "双轨云合超长安二十四计",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1765790722,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279038,
-      "num": 198332,
-      "word": "警车上下来3人未穿警服牵着宠物狗",
-      "onboard_time": 1765809923,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275478,
@@ -2147,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214537,
+      "num": 214537,
+      "word": "美国蜜雪冰城糖度",
+      "onboard_time": 1765839677,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214502,
       "num": 214502,
       "word": "儿媳婆婆住一栋楼中间却砌了一堵墙",
@@ -2387,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199366,
+      "num": 199366,
+      "word": "GEN首位中援Cryin",
+      "onboard_time": 1765840637,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199063,
       "num": 199063,
       "word": "网传杨紫李现将三搭",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1765805302,
       "rank": 28,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 197740,
+      "num": 198554,
+      "word": "江浙沪最神秘人设 苏北人",
+      "onboard_time": 1765810702,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197700,
@@ -2497,6 +2521,14 @@
       "onboard_time": 1765752016,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192057,
+      "num": 72610,
+      "word": "慢性炎症会唤醒休眠的癌细胞",
+      "onboard_time": 1765840637,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191446,
@@ -2787,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182032,
-      "num": 198554,
-      "word": "江浙沪最神秘人设 苏北人",
-      "onboard_time": 1765810702,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181593,
       "num": 181593,
       "word": "交警确认杭州小米交付中心发生车祸",
@@ -2961,14 +2985,6 @@
       "onboard_time": 1765687643,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174168,
-      "num": 123321,
-      "word": "GEN首位中援Cryin",
-      "onboard_time": 1765840637,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 173984,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1765685423,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156371,
-      "num": 71333,
-      "word": "慢性炎症会唤醒休眠的癌细胞",
-      "onboard_time": 1765840637,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155921,
@@ -4427,6 +4435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121929,
+      "num": 72532,
+      "word": "这样煮苹果水养生又瘦身",
+      "onboard_time": 1765840637,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121894,
       "num": 121894,
       "word": "王曼昱朱雨玲均坦言筋疲力尽",
@@ -5035,6 +5051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106151,
+      "num": 58596,
+      "word": "4岁被拐21年后认亲果断卖房回归",
+      "onboard_time": 1765841899,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105389,
       "num": 105389,
       "word": "景区猴子打架致胳膊只剩骨头",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1765776261,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 105271,
-      "num": 69962,
-      "word": "这样煮苹果水养生又瘦身",
-      "onboard_time": 1765840637,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105223,
@@ -5377,6 +5393,14 @@
       "onboard_time": 1765686262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97773,
+      "num": 57988,
+      "word": "美国少年散步失踪7年后发现遗骸",
+      "onboard_time": 1765841237,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97662,
@@ -5891,14 +5915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 85875,
-      "num": 85875,
-      "word": "美国蜜雪冰城糖度",
-      "onboard_time": 1765839677,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "收费站捡到戴电话手表的猫咪",
@@ -6155,6 +6171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77686,
+      "num": 77686,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77668,
       "num": 282381,
       "word": "她把男主会干的全干了",
@@ -6291,22 +6315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73045,
-      "num": 50515,
-      "word": "美国少年散步失踪7年后发现遗骸",
-      "onboard_time": 1765841237,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 73044,
-      "num": 73044,
-      "word": "董宇辉采访得闲谨制主创",
-      "onboard_time": 1765818318,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 72519,
       "num": 206649,
       "word": "华晨宇 我怎么谁都锐评",
@@ -6329,6 +6337,14 @@
       "onboard_time": 1765635683,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72329,
+      "num": 72329,
+      "word": "驻英国使馆发声强烈谴责",
+      "onboard_time": 1765841419,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71570,
@@ -6499,6 +6515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64736,
+      "num": 72653,
+      "word": "林妹妹悼念秦可卿",
+      "onboard_time": 1765836915,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64548,
       "num": 145923,
       "word": "成毅复仇爽剧大男主少不了好搭子",
@@ -6579,6 +6603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62703,
+      "num": 62703,
+      "word": "曼联vs伯恩茅斯",
+      "onboard_time": 1765841179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62250,
       "num": 142413,
       "word": "律师解读4斤重黄金凤冠被男童破坏",
@@ -6600,14 +6632,6 @@
       "word": "马刺田忌赛马",
       "onboard_time": 1765692863,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61296,
-      "num": 61296,
-      "word": "曼联vs伯恩茅斯",
-      "onboard_time": 1765841179,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -6803,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56300,
+      "num": 56300,
+      "word": "霸王茶姬员工晒创始人喜糖",
+      "onboard_time": 1765818857,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56019,
       "num": 136561,
       "word": "以色列律师分享在澳遭遇枪击后照片",
@@ -6843,6 +6875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54137,
+      "num": 54137,
+      "word": "丝芭称对鞠婧祎有20年独家经纪权",
+      "onboard_time": 1765839376,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53891,
       "num": 206310,
       "word": "开箱百万级后排大沙发",
@@ -6857,6 +6897,14 @@
       "onboard_time": 1765636403,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52780,
+      "num": 52780,
+      "word": "你信任的装修博主可能是AI夫妻",
+      "onboard_time": 1765841717,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52537,
@@ -6881,14 +6929,6 @@
       "onboard_time": 1765720885,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 50718,
-      "num": 50718,
-      "word": "林妹妹悼念秦可卿",
-      "onboard_time": 1765836915,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 49651,
@@ -6932,7 +6972,7 @@
     },
     {
       "raw_hot": 48976,
-      "num": 48976,
+      "num": 51106,
       "word": "悉尼枪击事件夺枪者父母受访",
       "onboard_time": 1765817778,
       "rank": 36,
@@ -6977,6 +7017,14 @@
       "onboard_time": 1765765460,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 47103,
+      "num": 51117,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 46913,
@@ -7035,14 +7083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44414,
-      "num": 46574,
-      "word": "霸王茶姬员工晒创始人喜糖",
-      "onboard_time": 1765818857,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44191,
       "num": 133375,
       "word": "湖北一公司员工聚餐3人甲醇中毒",
@@ -7073,14 +7113,6 @@
       "onboard_time": 1765735095,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42951,
-      "num": 42951,
-      "word": "丝芭称对鞠婧祎有20年独家经纪权",
-      "onboard_time": 1765839376,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 42878,
@@ -7179,12 +7211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39578,
-      "num": 42951,
-      "word": "刷新了和平饭店历史最低消费的可能",
-      "onboard_time": 1765826954,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 39672,
+      "num": 51106,
+      "word": "小黄豆新家暖房着火",
+      "onboard_time": 1765818977,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 39491,
@@ -7220,7 +7252,7 @@
     },
     {
       "raw_hot": 38868,
-      "num": 42949,
+      "num": 51096,
       "word": "狙击蝴蝶原著结局",
       "onboard_time": 1765819756,
       "rank": 24,
@@ -7273,6 +7305,14 @@
       "onboard_time": 1765777222,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37692,
+      "num": 51099,
+      "word": "成睿一次没亲就成合法老公了",
+      "onboard_time": 1765841298,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 37607,
@@ -7403,20 +7443,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33818,
+      "num": 51092,
+      "word": "刘宇宁邪恶小猫发力中",
+      "onboard_time": 1765838115,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33789,
       "num": 60080,
       "word": "回顾2025",
       "onboard_time": 1765732937,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33570,
-      "num": 46690,
-      "word": "小黄豆新家暖房着火",
-      "onboard_time": 1765818977,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 33502,
@@ -7579,14 +7619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30011,
-      "num": 42949,
-      "word": "刘宇宁邪恶小猫发力中",
-      "onboard_time": 1765838115,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 29868,
       "num": 145095,
       "word": "麦当劳连续三年调价",
@@ -7648,6 +7680,14 @@
       "word": "双子座流星雨",
       "onboard_time": 1765630164,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28396,
+      "num": 319959,
+      "word": "家门口的民生议事厅",
+      "onboard_time": 1765839677,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -7904,14 +7944,6 @@
       "word": "重庆一婴儿出生时窒息致脑瘫",
       "onboard_time": 1765788741,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18994,
-      "num": 132685,
-      "word": "家门口的民生议事厅",
-      "onboard_time": 1765839677,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
