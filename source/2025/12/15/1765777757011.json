@@ -1,0 +1,410 @@
+{
+  "runTime": 1765777757011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623168,
+        "num": 1099707,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 511407,
+        "num": 511407,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13447,
+        "num": 456407,
+        "word": "2025年11月国民经济运行情况",
+        "onboard_time": 1765777402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 539885,
+        "num": 450664,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247464,
+        "num": 431247,
+        "word": "排骨羽绒服",
+        "onboard_time": 1765769242,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 425068,
+        "num": 425068,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161941,
+        "num": 355692,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 336718,
+        "word": "小吃街一夜间换上同一个收款码",
+        "onboard_time": 1765764921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24431,
+        "num": 322002,
+        "word": "彩虹7成功首飞",
+        "onboard_time": 1765759402,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319125,
+        "num": 319125,
+        "word": "35万纯电玛莎拉蒂被一抢而空",
+        "onboard_time": 1765770022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 899325,
+        "num": 317359,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577849,
+        "num": 309798,
+        "word": "原来Angelababy的相册是这样的",
+        "onboard_time": 1765774942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561779,
+        "num": 306599,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543765,
+        "num": 303077,
+        "word": "向太曝李连杰将收入全部上缴利智",
+        "onboard_time": 1765766722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422971,
+        "num": 297466,
+        "word": "何晴儿子在告别仪式上追忆母亲",
+        "onboard_time": 1765777043,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365981,
+        "num": 291183,
+        "word": "芬兰小姐被剥夺头衔中文道歉又反转",
+        "onboard_time": 1765775423,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289984,
+        "num": 289984,
+        "word": "结了婚的人才懂被托举有多幸福",
+        "onboard_time": 1765770261,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74438,
+        "num": 288311,
+        "word": "nova15好看",
+        "onboard_time": 1765775243,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 376686,
+        "num": 284699,
+        "word": "利智 李连杰",
+        "onboard_time": 1765769962,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127226,
+        "num": 280064,
+        "word": "双轨 嗑完你的嗑你的",
+        "onboard_time": 1765776742,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339313,
+        "num": 277535,
+        "word": "叶祖新41岁面相",
+        "onboard_time": 1765776082,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275478,
+        "num": 275478,
+        "word": "六小龄童唐国强为何晴送来挽联",
+        "onboard_time": 1765774703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267960,
+        "num": 267960,
+        "word": "张凯毅1个月掉粉近23万",
+        "onboard_time": 1765768222,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267483,
+        "num": 267483,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1765774703,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 242866,
+        "num": 242866,
+        "word": "女子中532万后选择每周领5000",
+        "onboard_time": 1765775303,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10213,
+        "num": 228146,
+        "word": "我国海洋生产总值首破10万亿元",
+        "onboard_time": 1765777402,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213802,
+        "num": 213802,
+        "word": "韩网红说爱上中国是因为中国人",
+        "onboard_time": 1765776022,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188977,
+        "num": 188977,
+        "word": "能不能放周柯宇去星光大赏",
+        "onboard_time": 1765769483,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188953,
+        "num": 188953,
+        "word": "桃黑黑中奖名单",
+        "onboard_time": 1765774523,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185239,
+        "num": 185239,
+        "word": "生娃个人仅支付400多元",
+        "onboard_time": 1765774823,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184714,
+        "num": 184714,
+        "word": "第五人格",
+        "onboard_time": 1765776621,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180024,
+        "num": 180024,
+        "word": "虞书欣怎么跑得乱七八糟的",
+        "onboard_time": 1765775902,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175822,
+        "num": 175822,
+        "word": "洪尧说吴谨言怎么吃都不胖",
+        "onboard_time": 1765774942,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168459,
+        "num": 168459,
+        "word": "王俊凯保镖陪同全红婵",
+        "onboard_time": 1765770022,
+        "rank": 33,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 166147,
+        "num": 166147,
+        "word": "姚晨发了郭芙蓉赎身倒计时",
+        "onboard_time": 1765772663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160158,
+        "num": 160158,
+        "word": "穷鬼套餐 涨价",
+        "onboard_time": 1765777522,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159357,
+        "num": 159357,
+        "word": "陈妍希说现在允许一切发生",
+        "onboard_time": 1765777162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27209,
+        "num": 159233,
+        "word": "实拍柬埔寨边境空城",
+        "onboard_time": 1765777222,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35310,
+        "num": 159037,
+        "word": "王俊凯想哭时会假装很忙",
+        "onboard_time": 1765776621,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33286,
+        "num": 158921,
+        "word": "骄阳似我后脑勺之吻",
+        "onboard_time": 1765777462,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24311,
+        "num": 158540,
+        "word": "2025中国经济新突破",
+        "onboard_time": 1765777222,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17850,
+        "num": 158401,
+        "word": "12年前的今天中国首次实现月球软着陆",
+        "onboard_time": 1765777222,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158330,
+        "num": 158330,
+        "word": "当地体育局回应运动员被索要奖金",
+        "onboard_time": 1765776441,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158082,
+        "num": 158082,
+        "word": "闪耀暖暖首个湿发套装",
+        "onboard_time": 1765776922,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153478,
+        "num": 153478,
+        "word": "曝iPhone20搭载无开孔真全面屏",
+        "onboard_time": 1765773142,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 149943,
+        "word": "蜜雪冰城7块9早餐套餐为何被嫌贵",
+        "onboard_time": 1765776261,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 146558,
+        "num": 146558,
+        "word": "被家暴13年女子回应为啥不离婚",
+        "onboard_time": 1765776564,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138937,
+        "num": 138937,
+        "word": "萧敬腾岳父林光宁去世",
+        "onboard_time": 1765772783,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137562,
+        "num": 137562,
+        "word": "库里48分",
+        "onboard_time": 1765775243,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122187,
+        "num": 122187,
+        "word": "吉娜这脸建模都不敢这么建",
+        "onboard_time": 1765772903,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要树立和践行正确政绩观#"
+    }
+  }
+}
