@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765817876750,
+  "endTime": 1765819924530,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -6843,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49057,
+      "num": 47287,
+      "word": "迪丽热巴 姐狗文学拉郎",
+      "onboard_time": 1765818077,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48742,
       "num": 196820,
       "word": "中国留学生亲历美国校园枪击事件",
@@ -7171,6 +7179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36666,
+      "num": 47056,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35994,
       "num": 118104,
       "word": "12306回应旅客买到列车工作席",
@@ -7233,6 +7249,14 @@
       "onboard_time": 1765790001,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34747,
+      "num": 47001,
+      "word": "悉尼枪击事件夺枪者父母受访",
+      "onboard_time": 1765817778,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34710,
@@ -7419,6 +7443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30401,
+      "num": 46773,
+      "word": "打扮历史附会现实的流量生意当止",
+      "onboard_time": 1765819096,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30363,
       "num": 91406,
       "word": "从G2到C5东升西降是大势所趋",
@@ -7480,6 +7512,14 @@
       "word": "大衣哥朱之文辟谣跳楼身亡",
       "onboard_time": 1765744813,
       "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 28512,
+      "num": 46690,
+      "word": "小黄豆新家暖房着火",
+      "onboard_time": 1765818977,
+      "rank": 46,
       "category": "网红"
     },
     {
@@ -7545,6 +7585,14 @@
       "onboard_time": 1765789760,
       "rank": 8,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 26388,
+      "num": 46574,
+      "word": "霸王茶姬员工晒创始人喜糖",
+      "onboard_time": 1765818857,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26274,
@@ -7881,6 +7929,14 @@
       "onboard_time": 1765624941,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7977,
+      "num": 91156,
+      "word": "2025中国经济这些首次真提气",
+      "onboard_time": 1765805244,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7165,

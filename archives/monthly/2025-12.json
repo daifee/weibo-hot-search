@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765817876750,
+  "endTime": 1765819924530,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -46099,6 +46099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49057,
+      "num": 47287,
+      "word": "迪丽热巴 姐狗文学拉郎",
+      "onboard_time": 1765818077,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49026,
       "num": 49026,
       "word": "狙击蝴蝶李嘉格真人版",
@@ -48515,6 +48523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36666,
+      "num": 47056,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36566,
       "num": 91225,
       "word": "王昶陈旭君2比1刘毅曾维瀚",
@@ -48809,6 +48825,14 @@
       "onboard_time": 1765252042,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34747,
+      "num": 47001,
+      "word": "悉尼枪击事件夺枪者父母受访",
+      "onboard_time": 1765817778,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34710,
@@ -49723,6 +49747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30401,
+      "num": 46773,
+      "word": "打扮历史附会现实的流量生意当止",
+      "onboard_time": 1765819096,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30375,
       "num": 183167,
       "word": "爱你老己 最好的梗",
@@ -50057,6 +50089,14 @@
       "onboard_time": 1765191621,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28512,
+      "num": 46690,
+      "word": "小黄豆新家暖房着火",
+      "onboard_time": 1765818977,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 28506,
@@ -50545,6 +50585,14 @@
       "onboard_time": 1765385718,
       "rank": 46,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 26388,
+      "num": 46574,
+      "word": "霸王茶姬员工晒创始人喜糖",
+      "onboard_time": 1765818857,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26355,
@@ -53113,6 +53161,14 @@
       "onboard_time": 1765464202,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 7977,
+      "num": 91156,
+      "word": "2025中国经济这些首次真提气",
+      "onboard_time": 1765805244,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7660,
