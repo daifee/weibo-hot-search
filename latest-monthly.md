@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/15 22:33:54
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/15 22:53:29
 </p>
 </blockquote>
 <p>
@@ -4413,6 +4413,12 @@ iG官宣TheShy离场（热度：488363）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23" target="weibo">
+日媒爆特朗普警告高市早苗别添乱（热度：474472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9D%92%E9%9C%9E%E8%87%AA%E6%9B%9D%E8%B1%AA%E5%AE%85%E9%81%AD%E5%A4%A7%E9%87%8F%E8%9F%91%E8%9E%82%E5%85%A5%E4%BE%B5%23" target="weibo">
 林青霞自曝豪宅遭大量蟑螂入侵（热度：474041）
 </a>
@@ -6005,12 +6011,6 @@ F1（热度：401349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E6%98%8E%E8%BD%A914%E5%B2%81%E8%BA%AB%E9%AB%98175cm%23" target="weibo">
 邹明轩14岁身高175cm（热度：385892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E5%8F%8C%E8%BD%A8%23" target="weibo">
-审判双轨（热度：385857）
 </a>
 </li>
 

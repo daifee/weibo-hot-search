@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765809234660,
+  "endTime": 1765810409444,
   "band_list": [
     {
       "raw_hot": 1908899,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1121472,
-      "num": 370913,
+      "num": 461471,
       "word": "陈妍希周柯宇跟官宣似的",
       "onboard_time": 1765798221,
       "rank": 7,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 635558,
-      "num": 370668,
+      "num": 387591,
       "word": "哈尔滨一男子冻到血管破裂",
       "onboard_time": 1765791501,
       "rank": 42,
@@ -385,6 +385,14 @@
       "onboard_time": 1765784723,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 474472,
+      "num": 1075915,
+      "word": "日媒爆特朗普警告高市早苗别添乱",
+      "onboard_time": 1765807521,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 473650,
@@ -569,6 +577,14 @@
       "onboard_time": 1765790661,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319632,
+      "num": 277925,
+      "word": "美国蜜雪冰城价格",
+      "onboard_time": 1765807103,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 317176,
@@ -859,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246030,
-      "num": 246030,
-      "word": "日媒爆特朗普警告高市早苗别添乱",
-      "onboard_time": 1765807521,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 244857,
       "num": 244857,
       "word": "樊振东鲜衣怒马少年时",
@@ -1067,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205400,
+      "num": 205400,
+      "word": "男子陪女友逛街买刮刮乐中80万元",
+      "onboard_time": 1765807823,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204490,
       "num": 204490,
       "word": "陈妍希周柯宇 外套",
@@ -1155,14 +1171,6 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 195184,
-      "num": 153122,
-      "word": "男子陪女友逛街买刮刮乐中80万元",
-      "onboard_time": 1765807823,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194792,
       "num": 194792,
       "word": "桃黑黑中奖名单",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1765770561,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191266,
+      "num": 191266,
+      "word": "这次是真的阴湿男吻上破碎女了",
+      "onboard_time": 1765807882,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191204,
@@ -1275,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182401,
-      "num": 153019,
-      "word": "这次是真的阴湿男吻上破碎女了",
-      "onboard_time": 1765807882,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181921,
       "num": 150081,
       "word": "双轨",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1765804103,
       "rank": 18,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 180414,
+      "num": 180414,
+      "word": "徐若晗片场痛到直不起腰",
+      "onboard_time": 1765806923,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 180269,
@@ -1387,12 +1403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166678,
-      "num": 130887,
-      "word": "徐若晗片场痛到直不起腰",
-      "onboard_time": 1765806923,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 167419,
+      "num": 167419,
+      "word": "霸王茶姬创始人婚礼人手一杯奶茶",
+      "onboard_time": 1765809623,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166301,
@@ -1547,20 +1563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154555,
+      "num": 154555,
+      "word": "虞书欣跑姿",
+      "onboard_time": 1765809563,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153383,
       "num": 223084,
       "word": "香港人都在偶遇汪顺的一天",
       "onboard_time": 1765805664,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152975,
-      "num": 152975,
-      "word": "美国蜜雪冰城价格",
-      "onboard_time": 1765807103,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 152881,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1765770681,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150177,
+      "num": 150177,
+      "word": "被曝遭前国脚戴琳欠钱球迷已离世",
+      "onboard_time": 1765808843,
+      "rank": 34,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 149310,
@@ -1971,6 +1995,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 124682,
+      "num": 124682,
+      "word": "警车上下来3人未穿警服牵着宠物狗",
+      "onboard_time": 1765809923,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123904,
       "num": 123904,
       "word": "mlxg因RNG合同案被限消",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1765768581,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121673,
+      "num": 124892,
+      "word": "销售直言不建议买35万玛莎拉蒂",
+      "onboard_time": 1765808663,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 121397,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1765766901,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117665,
+      "num": 117665,
+      "word": "赵小童晚安直播",
+      "onboard_time": 1765810043,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117149,
@@ -2307,6 +2355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109756,
+      "num": 109756,
+      "word": "梁伟铿说感恩每一份支持",
+      "onboard_time": 1765810283,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109450,
+      "num": 109450,
+      "word": "狙击蝴蝶大结局番外",
+      "onboard_time": 1765807164,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109230,
       "num": 109230,
       "word": "李现拍的雪后故宫",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1765724603,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108778,
+      "num": 128527,
+      "word": "戴琳",
+      "onboard_time": 1765808783,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 107896,
@@ -2475,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99833,
+      "num": 99833,
+      "word": "孙颖莎王楚钦近3年赛事都超100场",
+      "onboard_time": 1765809804,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99693,
       "num": 99693,
       "word": "删了吧有个谈恋爱的朋友破防了",
@@ -2571,12 +2651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96146,
-      "num": 128527,
-      "word": "戴琳",
-      "onboard_time": 1765808783,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 96164,
+      "num": 96164,
+      "word": "岑矜李雾女儿随妈妈姓",
+      "onboard_time": 1765810043,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95757,
@@ -2625,22 +2705,6 @@
       "onboard_time": 1765763540,
       "rank": 36,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 93614,
-      "num": 127860,
-      "word": "被曝遭前国脚戴琳欠钱球迷已离世",
-      "onboard_time": 1765808843,
-      "rank": 34,
-      "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 93439,
-      "num": 124892,
-      "word": "销售直言不建议买35万玛莎拉蒂",
-      "onboard_time": 1765808663,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 92485,
@@ -3147,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58367,
+      "num": 123325,
+      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+      "onboard_time": 1765808903,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57860,
       "num": 204360,
       "word": "大厂员工们正在帮AI取代自己",
@@ -3185,6 +3257,14 @@
       "onboard_time": 1765780221,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54788,
+      "num": 212537,
+      "word": "比亚迪海洋双旗舰定名海豹08海狮08",
+      "onboard_time": 1765809263,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 54181,
@@ -3619,6 +3699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 26845,
+      "num": 205538,
+      "word": "商场称因男士躲着抽烟才上科技",
+      "onboard_time": 1765809563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26450,
       "num": 331828,
       "word": "中国电影市场展现蓬勃活力",
@@ -3673,6 +3761,14 @@
       "onboard_time": 1765723462,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21955,
+      "num": 110936,
+      "word": "方城火灾事故快2年了仍无调查报告",
+      "onboard_time": 1765810103,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21549,
@@ -3801,14 +3897,6 @@
       "onboard_time": 1765777402,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9912,
-      "num": 123325,
-      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
-      "onboard_time": 1765808903,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 7165,
