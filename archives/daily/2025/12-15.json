@@ -1,6 +1,6 @@
 {
   "startTime": 1765729974716,
-  "endTime": 1765810409444,
+  "endTime": 1765812773932,
   "band_list": [
     {
       "raw_hot": 1908899,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511940,
+      "num": 185350,
+      "word": "霸王茶姬创始人婚礼人手一杯奶茶",
+      "onboard_time": 1765809623,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508992,
       "num": 328344,
       "word": "小洛熙死亡时间疑与诊断书记录不符",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472986,
+      "num": 1075677,
+      "word": "美国蜜雪冰城价格",
+      "onboard_time": 1765807103,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 471467,
       "num": 471467,
       "word": "张本智和冠军",
@@ -449,6 +465,14 @@
       "onboard_time": 1765758561,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423874,
+      "num": 372146,
+      "word": "销售直言不建议买35万玛莎拉蒂",
+      "onboard_time": 1765808663,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 422979,
@@ -563,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344165,
+      "num": 126787,
+      "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+      "onboard_time": 1765812020,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338028,
       "num": 188550,
       "word": "iPhone20爆料",
@@ -577,14 +609,6 @@
       "onboard_time": 1765790661,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319632,
-      "num": 277925,
-      "word": "美国蜜雪冰城价格",
-      "onboard_time": 1765807103,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 317176,
@@ -1019,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215676,
+      "num": 215676,
+      "word": "虞书欣跑姿",
+      "onboard_time": 1765809563,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215596,
       "num": 215596,
       "word": "闪耀暖暖",
@@ -1267,6 +1299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185706,
+      "num": 185706,
+      "word": "刘浩存拍了初雪",
+      "onboard_time": 1765811481,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184714,
       "num": 184714,
       "word": "第五人格",
@@ -1355,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177557,
+      "num": 197899,
+      "word": "江浙沪最神秘人设 苏北人",
+      "onboard_time": 1765810702,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176115,
       "num": 139444,
       "word": "美伢要闭店了",
@@ -1401,14 +1449,6 @@
       "onboard_time": 1765788862,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167419,
-      "num": 167419,
-      "word": "霸王茶姬创始人婚礼人手一杯奶茶",
-      "onboard_time": 1765809623,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166301,
@@ -1563,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154555,
-      "num": 154555,
-      "word": "虞书欣跑姿",
-      "onboard_time": 1765809563,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153383,
       "num": 223084,
       "word": "香港人都在偶遇汪顺的一天",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1765770681,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150807,
+      "num": 150807,
+      "word": "警车上下来3人未穿警服牵着宠物狗",
+      "onboard_time": 1765809923,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150177,
@@ -1995,14 +2035,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 124682,
-      "num": 124682,
-      "word": "警车上下来3人未穿警服牵着宠物狗",
-      "onboard_time": 1765809923,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123904,
       "num": 123904,
       "word": "mlxg因RNG合同案被限消",
@@ -2051,6 +2083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122516,
+      "num": 122516,
+      "word": "狙击蝴蝶大结局番外",
+      "onboard_time": 1765807164,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121894,
       "num": 121894,
       "word": "王曼昱朱雨玲均坦言筋疲力尽",
@@ -2065,14 +2105,6 @@
       "onboard_time": 1765768581,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121673,
-      "num": 124892,
-      "word": "销售直言不建议买35万玛莎拉蒂",
-      "onboard_time": 1765808663,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 121397,
@@ -2363,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109450,
-      "num": 109450,
-      "word": "狙击蝴蝶大结局番外",
-      "onboard_time": 1765807164,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109230,
       "num": 109230,
       "word": "李现拍的雪后故宫",
@@ -2521,6 +2545,14 @@
       "onboard_time": 1765761740,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102961,
+      "num": 205538,
+      "word": "商场称因男士躲着抽烟才上科技",
+      "onboard_time": 1765809563,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101577,
@@ -2747,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91714,
+      "num": 91714,
+      "word": "长安二十四计把虎贲金币卖脱销了",
+      "onboard_time": 1765811961,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90580,
       "num": 109644,
       "word": "王俊凯话剧收官",
@@ -2809,6 +2849,22 @@
       "onboard_time": 1765803083,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85382,
+      "num": 85382,
+      "word": "张本智和决赛吃止痛药比赛",
+      "onboard_time": 1765811242,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84875,
+      "num": 123325,
+      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+      "onboard_time": 1765808903,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84792,
@@ -2995,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72482,
+      "num": 75064,
+      "word": "小米多款平板涨价",
+      "onboard_time": 1765810582,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72247,
       "num": 84287,
       "word": "王王队演唱会",
@@ -3003,12 +3067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71964,
+      "num": 74831,
+      "word": "黎智英给香港市民留下彻骨之痛",
+      "onboard_time": 1765812741,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71570,
       "num": 94304,
       "word": "中国留学生为躲海滩枪击腿都跑软了",
       "onboard_time": 1765786582,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71235,
+      "num": 212537,
+      "word": "比亚迪海洋双旗舰定名海豹08海狮08",
+      "onboard_time": 1765809263,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 70640,
@@ -3171,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60364,
+      "num": 310074,
+      "word": "田曦薇认领薇我S50",
+      "onboard_time": 1765805844,
+      "rank": 10,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 60326,
       "num": 107296,
       "word": "暮暮朝朝这是正经吃苹果吗",
@@ -3209,14 +3297,6 @@
       "onboard_time": 1765722564,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58367,
-      "num": 123325,
-      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
-      "onboard_time": 1765808903,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57860,
@@ -3259,14 +3339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 54788,
-      "num": 212537,
-      "word": "比亚迪海洋双旗舰定名海豹08海狮08",
-      "onboard_time": 1765809263,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 54181,
       "num": 122901,
       "word": "阿福每天回答五百万个健康问题",
@@ -3281,14 +3353,6 @@
       "onboard_time": 1765785863,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 52625,
-      "num": 310074,
-      "word": "田曦薇认领薇我S50",
-      "onboard_time": 1765805844,
-      "rank": 10,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 52129,
@@ -3465,6 +3529,14 @@
       "onboard_time": 1765776621,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40417,
+      "num": 192548,
+      "word": "2晚2600元的酒店做不到让人睡个好觉",
+      "onboard_time": 1765812081,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40292,
@@ -3699,14 +3771,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26845,
-      "num": 205538,
-      "word": "商场称因男士躲着抽烟才上科技",
-      "onboard_time": 1765809563,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26450,
       "num": 331828,
       "word": "中国电影市场展现蓬勃活力",
@@ -3771,7 +3835,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21549,
+      "raw_hot": 21647,
       "num": 313807,
       "word": "回望2025中国经济",
       "onboard_time": 1765806083,

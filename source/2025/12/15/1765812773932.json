@@ -1,0 +1,410 @@
+{
+  "runTime": 1765812773932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 472986,
+        "num": 1075677,
+        "word": "美国蜜雪冰城价格",
+        "onboard_time": 1765807103,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 422644,
+        "num": 422644,
+        "word": "日媒爆特朗普警告高市早苗别添乱",
+        "onboard_time": 1765807521,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13820,
+        "num": 387315,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815280,
+        "num": 381246,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423874,
+        "num": 372146,
+        "word": "销售直言不建议买35万玛莎拉蒂",
+        "onboard_time": 1765808663,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 360043,
+        "num": 360043,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284628,
+        "num": 284628,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237606,
+        "num": 280087,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 21647,
+        "num": 270072,
+        "word": "回望2025中国经济",
+        "onboard_time": 1765806083,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112558,
+        "num": 258333,
+        "word": "爱吃蛋入驻微博",
+        "onboard_time": 1765802302,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 455596,
+        "num": 249216,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397743,
+        "num": 245855,
+        "word": "温峥嵘称已刑事立案",
+        "onboard_time": 1765806561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239453,
+        "num": 239453,
+        "word": "这居然是张凯丽",
+        "onboard_time": 1765797500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218409,
+        "num": 218409,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215676,
+        "num": 215676,
+        "word": "虞书欣跑姿",
+        "onboard_time": 1765809563,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199820,
+        "num": 199820,
+        "word": "岑矜李雾女儿",
+        "onboard_time": 1765798100,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177557,
+        "num": 197899,
+        "word": "江浙沪最神秘人设 苏北人",
+        "onboard_time": 1765810702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 193157,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40417,
+        "num": 192548,
+        "word": "2晚2600元的酒店做不到让人睡个好觉",
+        "onboard_time": 1765812081,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71235,
+        "num": 188127,
+        "word": "比亚迪海洋双旗舰定名海豹08海狮08",
+        "onboard_time": 1765809263,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185706,
+        "num": 185706,
+        "word": "刘浩存拍了初雪",
+        "onboard_time": 1765811481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511940,
+        "num": 185350,
+        "word": "霸王茶姬创始人婚礼人手一杯奶茶",
+        "onboard_time": 1765809623,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180033,
+        "num": 180033,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1765800503,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169485,
+        "num": 169485,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157262,
+        "num": 157262,
+        "word": "男子陪女友逛街买刮刮乐中80万元",
+        "onboard_time": 1765807823,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150807,
+        "num": 150807,
+        "word": "警车上下来3人未穿警服牵着宠物狗",
+        "onboard_time": 1765809923,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146813,
+        "num": 146813,
+        "word": "这次是真的阴湿男吻上破碎女了",
+        "onboard_time": 1765807882,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137603,
+        "num": 137603,
+        "word": "被曝遭前国脚戴琳欠钱球迷已离世",
+        "onboard_time": 1765808843,
+        "rank": 27,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 132887,
+        "num": 132887,
+        "word": "林俊杰发了和王心凌的官摄",
+        "onboard_time": 1765808003,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129528,
+        "num": 129528,
+        "word": "陈妍希周柯宇 外套",
+        "onboard_time": 1765802423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344165,
+        "num": 126787,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122516,
+        "num": 122516,
+        "word": "狙击蝴蝶大结局番外",
+        "onboard_time": 1765807164,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119345,
+        "num": 119345,
+        "word": "樊振东鲜衣怒马少年时",
+        "onboard_time": 1765806443,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108360,
+        "num": 108360,
+        "word": "王安宇滑雪摔了",
+        "onboard_time": 1765804223,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102961,
+        "num": 102961,
+        "word": "商场称因男士躲着抽烟才上科技",
+        "onboard_time": 1765809563,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99471,
+        "num": 99471,
+        "word": "戴琳",
+        "onboard_time": 1765808783,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97802,
+        "num": 97802,
+        "word": "徐若晗片场痛到直不起腰",
+        "onboard_time": 1765806923,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94293,
+        "num": 94293,
+        "word": "许亚军疑似现身何晴追悼会",
+        "onboard_time": 1765793662,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93052,
+        "num": 93052,
+        "word": "工作室称丝芭伪造鞠婧祎签名",
+        "onboard_time": 1765798041,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 92020,
+        "word": "孙颖莎王楚钦近3年赛事都超100场",
+        "onboard_time": 1765809804,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91714,
+        "num": 91714,
+        "word": "长安二十四计把虎贲金币卖脱销了",
+        "onboard_time": 1765811961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90159,
+        "num": 90159,
+        "word": "一群小学生追着蔡徐坤喊你好",
+        "onboard_time": 1765792762,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60364,
+        "num": 89988,
+        "word": "田曦薇认领薇我S50",
+        "onboard_time": 1765805844,
+        "rank": 42,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 89857,
+        "num": 89857,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88677,
+        "num": 88677,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85382,
+        "num": 85382,
+        "word": "张本智和决赛吃止痛药比赛",
+        "onboard_time": 1765811242,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84875,
+        "num": 84875,
+        "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+        "onboard_time": 1765808903,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81991,
+        "num": 81991,
+        "word": "王俊凯逼全红婵选1号",
+        "onboard_time": 1765805302,
+        "rank": 47,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 72482,
+        "num": 75064,
+        "word": "小米多款平板涨价",
+        "onboard_time": 1765810582,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71964,
+        "num": 74831,
+        "word": "黎智英给香港市民留下彻骨之痛",
+        "onboard_time": 1765812741,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}

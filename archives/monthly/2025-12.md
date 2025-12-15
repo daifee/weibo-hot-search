@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/15 22:53:29
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/15 23:32:53
 </p>
 </blockquote>
 <p>
@@ -3903,6 +3903,12 @@ VOGUE替刘雯井柏然官宣了（热度：528106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%BA%BA%E6%89%8B%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23" target="weibo">
+霸王茶姬创始人婚礼人手一杯奶茶（热度：511940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E5%81%9C%E4%BA%A7%E5%8D%B4%E8%AE%A9%E4%BD%A0%E5%BE%88%E6%80%80%E5%BF%B5%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 已经停产却让你很怀念的东西（热度：511316）
 </a>
@@ -4445,6 +4451,12 @@ iG官宣TheShy离场（热度：488363）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%B2%E9%85%92%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%9C%88%E7%BB%8F%E7%A5%9E%E4%BB%99%E6%B0%B4%23" target="weibo">
 劲酒被称为月经神仙水（热度：473063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%BB%B7%E6%A0%BC%23" target="weibo">
+美国蜜雪冰城价格（热度：472986）
 </a>
 </li>
 
@@ -5283,6 +5295,12 @@ SK发博（热度：442774）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%80%E5%94%AE%E7%9B%B4%E8%A8%80%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B035%E4%B8%87%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%23" target="weibo">
+销售直言不建议买35万玛莎拉蒂（热度：423874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E8%BD%A6%E6%BE%88%E7%A0%B4%E9%98%B2%23" target="weibo">
 怪不得车澈破防（热度：423743）
 </a>
@@ -5993,24 +6011,6 @@ F1（热度：401349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E7%B2%89%E7%A2%8E%E6%9C%BA%E8%BA%AB%E4%BA%A1%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 男子掉入粉碎机身亡妻子发声（热度：386206）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%90%90%E6%A7%BDiPhone%E6%8C%89%E9%92%AE%E8%AE%BE%E8%AE%A1%23" target="weibo">
-比伯吐槽iPhone按钮设计（热度：386117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%88%90%E6%AF%85%E5%BE%90%E7%92%90%E6%BC%94%E5%85%84%E5%A6%B9%E7%9A%84%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
-让成毅徐璐演兄妹的是天才（热度：385940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E6%98%8E%E8%BD%A914%E5%B2%81%E8%BA%AB%E9%AB%98175cm%23" target="weibo">
-邹明轩14岁身高175cm（热度：385892）
 </a>
 </li>
 
