@@ -1,0 +1,410 @@
+{
+  "runTime": 1765776832656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 677090,
+        "num": 1108334,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 570134,
+        "num": 570134,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3748,
+        "num": 303945,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690223,
+        "num": 301141,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295919,
+        "num": 295919,
+        "word": "排骨羽绒服",
+        "onboard_time": 1765769242,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 429952,
+        "num": 293660,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197990,
+        "num": 290390,
+        "word": "小吃街一夜间换上同一个收款码",
+        "onboard_time": 1765764921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345373,
+        "num": 290220,
+        "word": "35万纯电玛莎拉蒂被一抢而空",
+        "onboard_time": 1765770022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194967,
+        "num": 287368,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132423,
+        "num": 282127,
+        "word": "当地体育局回应运动员被索要奖金",
+        "onboard_time": 1765776441,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1168266,
+        "num": 279818,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646047,
+        "num": 277690,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621436,
+        "num": 274631,
+        "word": "向太曝李连杰将收入全部上缴利智",
+        "onboard_time": 1765766722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379232,
+        "num": 272834,
+        "word": "原来Angelababy的相册是这样的",
+        "onboard_time": 1765774942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364858,
+        "num": 270490,
+        "word": "结了婚的人才懂被托举有多幸福",
+        "onboard_time": 1765770261,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310598,
+        "num": 266448,
+        "word": "张凯毅1个月掉粉近23万",
+        "onboard_time": 1765768222,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 263523,
+        "word": "nova15好看",
+        "onboard_time": 1765775243,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 445953,
+        "num": 260818,
+        "word": "利智 李连杰",
+        "onboard_time": 1765769962,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259864,
+        "num": 259864,
+        "word": "六小龄童唐国强为何晴送来挽联",
+        "onboard_time": 1765774703,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239659,
+        "num": 239659,
+        "word": "能不能放周柯宇去星光大赏",
+        "onboard_time": 1765769483,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300807,
+        "num": 238514,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1765774703,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 229393,
+        "word": "无限暖暖",
+        "onboard_time": 1765773983,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257154,
+        "num": 228986,
+        "word": "女子中532万后选择每周领5000",
+        "onboard_time": 1765775303,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228028,
+        "num": 228028,
+        "word": "芬兰小姐被剥夺头衔中文道歉又反转",
+        "onboard_time": 1765775423,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229118,
+        "num": 224328,
+        "word": "叶祖新41岁面相",
+        "onboard_time": 1765776082,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208456,
+        "num": 208456,
+        "word": "王俊凯保镖陪同全红婵",
+        "onboard_time": 1765770022,
+        "rank": 25,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 207820,
+        "num": 207820,
+        "word": "生娃个人仅支付400多元",
+        "onboard_time": 1765774823,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202009,
+        "num": 202009,
+        "word": "姚晨发了郭芙蓉赎身倒计时",
+        "onboard_time": 1765772663,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196580,
+        "num": 196580,
+        "word": "洪尧说吴谨言怎么吃都不胖",
+        "onboard_time": 1765774942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194792,
+        "num": 194792,
+        "word": "桃黑黑中奖名单",
+        "onboard_time": 1765774523,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188919,
+        "num": 188919,
+        "word": "长安二十四计一晚上死了157人",
+        "onboard_time": 1765775602,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182557,
+        "num": 182557,
+        "word": "库里48分",
+        "onboard_time": 1765775243,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180558,
+        "num": 180558,
+        "word": "萧敬腾岳父林光宁去世",
+        "onboard_time": 1765772783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179422,
+        "num": 179422,
+        "word": "吉娜这脸建模都不敢这么建",
+        "onboard_time": 1765772903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174777,
+        "num": 174777,
+        "word": "虞书欣怎么跑得乱七八糟的",
+        "onboard_time": 1765775902,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62082,
+        "num": 168459,
+        "word": "双轨 嗑完你的嗑你的",
+        "onboard_time": 1765776742,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 166001,
+        "word": "第五人格",
+        "onboard_time": 1765776621,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104658,
+        "num": 156165,
+        "word": "韩网红说爱上中国是因为中国人",
+        "onboard_time": 1765776022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96420,
+        "num": 155924,
+        "word": "蜜雪冰城7块9早餐套餐为何被嫌贵",
+        "onboard_time": 1765776261,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 40443,
+        "num": 155921,
+        "word": "王俊凯想哭时会假装很忙",
+        "onboard_time": 1765776621,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155921,
+        "num": 155920,
+        "word": "我们吃的砂糖橘可能是蜜桔",
+        "onboard_time": 1765775602,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146358,
+        "num": 146358,
+        "word": "曝iPhone20搭载无开孔真全面屏",
+        "onboard_time": 1765773142,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143755,
+        "num": 143755,
+        "word": "日本街头垃圾泛滥强行甩锅别国游客",
+        "onboard_time": 1765774225,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134814,
+        "num": 134814,
+        "word": "煮了9个小时的鸡蛋",
+        "onboard_time": 1765762881,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44191,
+        "num": 133375,
+        "word": "湖北一公司员工聚餐3人甲醇中毒",
+        "onboard_time": 1765775423,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133304,
+        "num": 133304,
+        "word": "侯明昊的狗是胡彦斌的狗生的崽",
+        "onboard_time": 1765773744,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 131184,
+        "word": "导演罗伯莱纳去世",
+        "onboard_time": 1765774043,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130633,
+        "num": 130633,
+        "word": "被家暴13年女子回应为啥不离婚",
+        "onboard_time": 1765776564,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49098,
+        "num": 126169,
+        "word": "张籽沐参加天津表演统考",
+        "onboard_time": 1765775125,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37607,
+        "num": 124231,
+        "word": "杨瀚森升级为可出战状态",
+        "onboard_time": 1765775062,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
