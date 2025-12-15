@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765771771777,
+  "endTime": 1765772885273,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1546117,
-      "num": 454490,
+      "num": 471388,
       "word": "全红婵拎到王俊凯爆炸头",
       "onboard_time": 1765767740,
       "rank": 3,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 888708,
-      "num": 366130,
+      "num": 465971,
       "word": "排骨羽绒服",
       "onboard_time": 1765769242,
       "rank": 4,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 823577,
-      "num": 322571,
+      "num": 464451,
       "word": "女子误转240万替巨额债务人还了87万",
       "onboard_time": 1765764921,
       "rank": 5,
@@ -313,6 +313,14 @@
       "onboard_time": 1765758561,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638803,
+      "num": 1102208,
+      "word": "日本将不再有大熊猫",
+      "onboard_time": 1765771343,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 637056,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498329,
+      "num": 247685,
+      "word": "结了婚的人才懂被托举有多幸福",
+      "onboard_time": 1765770261,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492615,
       "num": 492615,
       "word": "沈腾 陈伟霆是我们请过最好的嘉宾",
@@ -528,6 +544,14 @@
       "word": "张本智和窘态百出",
       "onboard_time": 1765725324,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 461052,
+      "num": 461052,
+      "word": "亚运会三金得主举报被领导索要奖金",
+      "onboard_time": 1765771042,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -619,12 +643,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 402699,
+      "num": 247865,
+      "word": "能不能放周柯宇去星光大赏",
+      "onboard_time": 1765769483,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399943,
       "num": 399943,
       "word": "王楚钦犹豫的每一秒都是尊重",
       "onboard_time": 1765702823,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398489,
+      "num": 247796,
+      "word": "王楚钦代言JBL",
+      "onboard_time": 1765768102,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398235,
+      "num": 247888,
+      "word": "王俊凯保镖陪同全红婵",
+      "onboard_time": 1765770022,
+      "rank": 13,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 398013,
@@ -699,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366929,
+      "num": 247633,
+      "word": "35万纯电玛莎拉蒂被一抢而空",
+      "onboard_time": 1765770022,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364761,
       "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
@@ -721,22 +777,6 @@
       "onboard_time": 1765684945,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 348055,
-      "num": 247888,
-      "word": "王俊凯保镖陪同全红婵",
-      "onboard_time": 1765770022,
-      "rank": 13,
-      "category": "演出,体育"
-    },
-    {
-      "raw_hot": 347529,
-      "num": 247865,
-      "word": "能不能放周柯宇去星光大赏",
-      "onboard_time": 1765769483,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 346456,
@@ -811,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 329149,
-      "num": 247796,
-      "word": "王楚钦代言JBL",
-      "onboard_time": 1765768102,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328889,
       "num": 328889,
       "word": "央视曝光20倍暴利假陈皮",
@@ -851,20 +883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321152,
-      "num": 247685,
-      "word": "结了婚的人才懂被托举有多幸福",
-      "onboard_time": 1765770261,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317176,
       "num": 225354,
       "word": "和美国女友网恋奔现",
       "onboard_time": 1765760962,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317089,
+      "num": 205846,
+      "word": "李现 以后不穿一身黑了",
+      "onboard_time": 1765771461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 312605,
@@ -963,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293497,
+      "num": 287128,
+      "word": "唐毓文被判18年",
+      "onboard_time": 1765768343,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290081,
       "num": 111402,
       "word": "于小彤控制欲好强",
@@ -985,14 +1025,6 @@
       "onboard_time": 1765679062,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 287128,
-      "num": 287128,
-      "word": "唐毓文被判18年",
-      "onboard_time": 1765768343,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286383,
@@ -1243,14 +1275,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 247633,
-      "num": 247633,
-      "word": "35万纯电玛莎拉蒂被一抢而空",
-      "onboard_time": 1765770022,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247525,
       "num": 247525,
       "word": "广西高中教师性侵案一审宣判",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1765759402,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 226983,
+      "num": 203940,
+      "word": "麦当劳涨价0.5到1元",
+      "onboard_time": 1765771522,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225745,
@@ -1643,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197853,
+      "num": 197853,
+      "word": "闪耀暖暖",
+      "onboard_time": 1765772363,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196768,
       "num": 196768,
       "word": "王楚然1秒钟800个表情",
@@ -1939,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177819,
+      "num": 177819,
+      "word": "连吃7天麻辣烫身体的变化",
+      "onboard_time": 1765772542,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177502,
       "num": 177502,
       "word": "王曼昱总决赛夺冠获56万奖金",
@@ -2027,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171698,
-      "num": 171698,
-      "word": "亚运会三金得主举报被领导索要奖金",
-      "onboard_time": 1765771042,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171502,
       "num": 163737,
       "word": "Mike 泰剧白月光国产剧里全中文台词",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1765696223,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 163255,
+      "word": "彭小苒抹胸长靴从冬天辣回夏天",
+      "onboard_time": 1765772602,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 162218,
@@ -2547,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138222,
+      "num": 138222,
+      "word": "TF家族四代分班",
+      "onboard_time": 1765769543,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137964,
       "num": 137964,
       "word": "无畏的张良",
@@ -2595,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137096,
+      "num": 137096,
+      "word": "姚晨发了郭芙蓉赎身倒计时",
+      "onboard_time": 1765772663,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "王楚钦孙颖莎不熟悉混双亚军颁奖流程",
@@ -2635,20 +2699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135099,
+      "num": 135099,
+      "word": "建议卖面包的大爷全国巡卖",
+      "onboard_time": 1765770981,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134071,
       "num": 134071,
       "word": "清融 女娲神",
       "onboard_time": 1765724723,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133953,
-      "num": 133953,
-      "word": "TF家族四代分班",
-      "onboard_time": 1765769543,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 133928,
@@ -2835,14 +2899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128282,
-      "num": 128282,
-      "word": "建议卖面包的大爷全国巡卖",
-      "onboard_time": 1765770981,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128238,
       "num": 128238,
       "word": "白鹿 骗完你的骗你的",
@@ -2867,6 +2923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 127286,
+      "num": 127286,
+      "word": "萧敬腾岳父林光宁去世",
+      "onboard_time": 1765772783,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126462,
       "num": 126462,
       "word": "开家长会的也可以是老公",
@@ -2881,14 +2945,6 @@
       "onboard_time": 1765702403,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125966,
-      "num": 125966,
-      "word": "麦当劳涨价0.5到1元",
-      "onboard_time": 1765771522,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125533,
@@ -2963,6 +3019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121894,
+      "num": 121894,
+      "word": "王曼昱朱雨玲均坦言筋疲力尽",
+      "onboard_time": 1765772483,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121793,
       "num": 121793,
       "word": "小猫哥遇上了最懂他的猫",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1765624521,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121397,
+      "num": 125187,
+      "word": "兰晓龙 作品解释权都交给观众",
+      "onboard_time": 1765771581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 121044,
@@ -3091,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116187,
+      "num": 207062,
+      "word": "狂花开机",
+      "onboard_time": 1765772181,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "美伢回应闭店",
@@ -3113,6 +3193,14 @@
       "onboard_time": 1765725924,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115239,
+      "num": 212046,
+      "word": "2025年度书单",
+      "onboard_time": 1765772542,
+      "rank": 9,
+      "category": "读书作家"
     },
     {
       "raw_hot": 114999,
@@ -3233,14 +3321,6 @@
       "onboard_time": 1765763061,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111184,
-      "num": 111184,
-      "word": "兰晓龙 作品解释权都交给观众",
-      "onboard_time": 1765771581,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 110585,
@@ -3521,14 +3601,6 @@
       "onboard_time": 1765686262,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98014,
-      "num": 247726,
-      "word": "日本将不再有大熊猫",
-      "onboard_time": 1765771343,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97662,
@@ -4211,6 +4283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70439,
+      "num": 247791,
+      "word": "广西全面调查20倍暴利假陈皮",
+      "onboard_time": 1765771343,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70124,
       "num": 70124,
       "word": "杜凯琹说看到莎头退赛很心痛",
@@ -4225,6 +4305,22 @@
       "onboard_time": 1765676781,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68678,
+      "num": 140427,
+      "word": "狙击蝴蝶callback",
+      "onboard_time": 1765772663,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68357,
+      "num": 247752,
+      "word": "虞书欣姜暮暴力萝莉",
+      "onboard_time": 1765770804,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 68304,
@@ -4435,20 +4531,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58614,
+      "num": 142593,
+      "word": "李连杰和女儿同游九华山",
+      "onboard_time": 1765771461,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57860,
       "num": 204360,
       "word": "大厂员工们正在帮AI取代自己",
       "onboard_time": 1765765460,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57418,
-      "num": 142728,
-      "word": "李现 以后不穿一身黑了",
-      "onboard_time": 1765771461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 57256,
@@ -4499,14 +4595,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 54886,
-      "num": 247752,
-      "word": "虞书欣姜暮暴力萝莉",
-      "onboard_time": 1765770804,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54521,
       "num": 86265,
       "word": "家属称女婿碾死女儿有故意杀人嫌疑",
@@ -4547,6 +4635,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 49651,
+      "num": 141526,
+      "word": "全国多地公安交通管理部门陆续更名",
+      "onboard_time": 1765772423,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48742,
       "num": 196820,
       "word": "中国留学生亲历美国校园枪击事件",
@@ -4561,6 +4657,14 @@
       "onboard_time": 1765644917,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47642,
+      "num": 139118,
+      "word": "河南方城领导在担心什么",
+      "onboard_time": 1765772723,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 47608,
@@ -4657,14 +4761,6 @@
       "onboard_time": 1765709002,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41137,
-      "num": 142593,
-      "word": "李连杰和女儿同游九华山",
-      "onboard_time": 1765771461,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 40709,
@@ -4937,14 +5033,6 @@
       "onboard_time": 1765702823,
       "rank": 48,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 29375,
-      "num": 247791,
-      "word": "广西全面调查20倍暴利假陈皮",
-      "onboard_time": 1765771343,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28799,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765772885273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638803,
+        "num": 1102208,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 478357,
+        "num": 478357,
+        "word": "小吃街一夜间换上同一个收款码",
+        "onboard_time": 1765764921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10761,
+        "num": 478094,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1358940,
+        "num": 471388,
+        "word": "全红婵拎到王俊凯爆炸头",
+        "onboard_time": 1765767740,
+        "rank": 3,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 797181,
+        "num": 465971,
+        "word": "排骨羽绒服",
+        "onboard_time": 1765769242,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 707733,
+        "num": 464451,
+        "word": "女子误转240万替巨额债务人还了87万",
+        "onboard_time": 1765764921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461052,
+        "num": 461052,
+        "word": "亚运会三金得主举报被领导索要奖金",
+        "onboard_time": 1765771042,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436605,
+        "num": 436605,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212122,
+        "num": 212122,
+        "word": "澳大利亚海滩枪击已致16死",
+        "onboard_time": 1765758263,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115239,
+        "num": 212046,
+        "word": "2025年度书单",
+        "onboard_time": 1765772542,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 804528,
+        "num": 211504,
+        "word": "向太曝李连杰将收入全部上缴利智",
+        "onboard_time": 1765766722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515203,
+        "num": 211102,
+        "word": "张凯毅1个月掉粉近23万",
+        "onboard_time": 1765768222,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 498329,
+        "num": 210514,
+        "word": "结了婚的人才懂被托举有多幸福",
+        "onboard_time": 1765770261,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402699,
+        "num": 210068,
+        "word": "能不能放周柯宇去星光大赏",
+        "onboard_time": 1765769483,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398489,
+        "num": 209525,
+        "word": "王楚钦代言JBL",
+        "onboard_time": 1765768102,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767383,
+        "num": 208969,
+        "word": "利智 李连杰",
+        "onboard_time": 1765769962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398235,
+        "num": 208428,
+        "word": "王俊凯保镖陪同全红婵",
+        "onboard_time": 1765770022,
+        "rank": 16,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 366929,
+        "num": 208133,
+        "word": "35万纯电玛莎拉蒂被一抢而空",
+        "onboard_time": 1765770022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222352,
+        "num": 207640,
+        "word": "好久没见这么土的综艺官宣",
+        "onboard_time": 1765769421,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 207062,
+        "word": "狂花开机",
+        "onboard_time": 1765772181,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318843,
+        "num": 206458,
+        "word": "陈妍希将出席星光大赏",
+        "onboard_time": 1765769002,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317089,
+        "num": 205846,
+        "word": "李现 以后不穿一身黑了",
+        "onboard_time": 1765771461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309849,
+        "num": 205300,
+        "word": "煮了9个小时的鸡蛋",
+        "onboard_time": 1765762881,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293497,
+        "num": 205187,
+        "word": "唐毓文被判18年",
+        "onboard_time": 1765768343,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70439,
+        "num": 204763,
+        "word": "广西全面调查20倍暴利假陈皮",
+        "onboard_time": 1765771343,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226983,
+        "num": 203940,
+        "word": "麦当劳涨价0.5到1元",
+        "onboard_time": 1765771522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203823,
+        "num": 203823,
+        "word": "郭碧婷三姐妹现状",
+        "onboard_time": 1765766722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198782,
+        "num": 198782,
+        "word": "巨人观的水果尸体慢慢浮出水面",
+        "onboard_time": 1765724905,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197853,
+        "num": 197853,
+        "word": "闪耀暖暖",
+        "onboard_time": 1765772363,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "广西高中教师性侵案一审宣判",
+        "onboard_time": 1765768521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193880,
+        "num": 193880,
+        "word": "Shanks三问JDG教练",
+        "onboard_time": 1765767261,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177819,
+        "num": 177819,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163255,
+        "num": 163255,
+        "word": "彭小苒抹胸长靴从冬天辣回夏天",
+        "onboard_time": 1765772602,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 148627,
+        "word": "唐毓文案一审宣判",
+        "onboard_time": 1765768343,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68357,
+        "num": 143491,
+        "word": "虞书欣姜暮暴力萝莉",
+        "onboard_time": 1765770804,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142595,
+        "num": 142595,
+        "word": "詹姆斯被狄龙惹急了",
+        "onboard_time": 1765770081,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143099,
+        "num": 142153,
+        "word": "双轨剧宣尺度",
+        "onboard_time": 1765758561,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49651,
+        "num": 141526,
+        "word": "全国多地公安交通管理部门陆续更名",
+        "onboard_time": 1765772423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68678,
+        "num": 140427,
+        "word": "狙击蝴蝶callback",
+        "onboard_time": 1765772663,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47642,
+        "num": 139118,
+        "word": "河南方城领导在担心什么",
+        "onboard_time": 1765772723,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96396,
+        "num": 138889,
+        "word": "华为nova15来了",
+        "onboard_time": 1765766002,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138222,
+        "num": 138222,
+        "word": "TF家族四代分班",
+        "onboard_time": 1765769543,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137096,
+        "num": 137096,
+        "word": "姚晨发了郭芙蓉赎身倒计时",
+        "onboard_time": 1765772663,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58614,
+        "num": 135532,
+        "word": "李连杰和女儿同游九华山",
+        "onboard_time": 1765771461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135099,
+        "num": 135099,
+        "word": "建议卖面包的大爷全国巡卖",
+        "onboard_time": 1765770981,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134894,
+        "num": 134894,
+        "word": "没认出来是王珞丹",
+        "onboard_time": 1765770081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 127286,
+        "word": "萧敬腾岳父林光宁去世",
+        "onboard_time": 1765772783,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121397,
+        "num": 125187,
+        "word": "兰晓龙 作品解释权都交给观众",
+        "onboard_time": 1765771581,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124621,
+        "num": 124621,
+        "word": "微博之夜门票",
+        "onboard_time": 1765762224,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121894,
+        "num": 121894,
+        "word": "王曼昱朱雨玲均坦言筋疲力尽",
+        "onboard_time": 1765772483,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
