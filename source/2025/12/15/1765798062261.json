@@ -1,0 +1,410 @@
+{
+  "runTime": 1765798062261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 306034,
+        "num": 1048965,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247776,
+        "num": 247776,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 1,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 22485,
+        "num": 247526,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692173,
+        "num": 246644,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196623,
+        "num": 246278,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1018645,
+        "num": 245111,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428328,
+        "num": 244932,
+        "word": "小洛熙死亡时间疑与诊断书记录不符",
+        "onboard_time": 1765795042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413044,
+        "num": 243913,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17805,
+        "num": 242953,
+        "word": "中国电影市场展现蓬勃活力",
+        "onboard_time": 1765789760,
+        "rank": 8,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 163831,
+        "num": 242463,
+        "word": "麦当劳回应双吉汉堡越变越小",
+        "onboard_time": 1765793183,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 895465,
+        "num": 242107,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877349,
+        "num": 241104,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468397,
+        "num": 240564,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269337,
+        "num": 240045,
+        "word": "赵昭仪这下真成昭仪了",
+        "onboard_time": 1765795342,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239466,
+        "num": 239466,
+        "word": "陈妍希周柯宇头顶吻",
+        "onboard_time": 1765797081,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230798,
+        "num": 230798,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220788,
+        "num": 220788,
+        "word": "这居然是张凯丽",
+        "onboard_time": 1765797500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188741,
+        "num": 188741,
+        "word": "33拍摄进行时",
+        "onboard_time": 1765797381,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180269,
+        "num": 180269,
+        "word": "老人家门口吃橘子被邻居一拳打倒在地",
+        "onboard_time": 1765794143,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80570,
+        "num": 180110,
+        "word": "蚂蚁阿福APP月活用户已超1500万",
+        "onboard_time": 1765796661,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430078,
+        "num": 179866,
+        "word": "许亚军疑似现身何晴追悼会",
+        "onboard_time": 1765793662,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145587,
+        "num": 179668,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39966,
+        "num": 179540,
+        "word": "清远男子洪水中救起儿童获减刑",
+        "onboard_time": 1765796661,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418803,
+        "num": 179373,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283831,
+        "num": 179186,
+        "word": "李心艾瘦了80斤",
+        "onboard_time": 1765793903,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 178857,
+        "word": "一群小学生追着蔡徐坤喊你好",
+        "onboard_time": 1765792762,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178775,
+        "num": 178775,
+        "word": "老板问为什么pdf转word跟没转一样",
+        "onboard_time": 1765796241,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172143,
+        "num": 172143,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171832,
+        "num": 171832,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162730,
+        "num": 162730,
+        "word": "高考604分就读高职",
+        "onboard_time": 1765789401,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160880,
+        "num": 160880,
+        "word": "骄阳似我广播剧开播",
+        "onboard_time": 1765797682,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159435,
+        "num": 159435,
+        "word": "这是什么i人地狱呀",
+        "onboard_time": 1765797981,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148959,
+        "num": 148959,
+        "word": "老人去世子女未申报多发4年养老金",
+        "onboard_time": 1765795702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 148736,
+        "word": "孙颖莎腿肿了",
+        "onboard_time": 1765790661,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "周柯宇让陈妍希叫哥哥",
+        "onboard_time": 1765790421,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24810,
+        "num": 145095,
+        "word": "麦当劳连续三年调价",
+        "onboard_time": 1765797621,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63262,
+        "num": 140806,
+        "word": "侯明昊 我自己的吻戏比较好",
+        "onboard_time": 1765796841,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39871,
+        "num": 139098,
+        "word": "5大人带4孩吃自助边吃边打包",
+        "onboard_time": 1765797321,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19880,
+        "num": 135544,
+        "word": "嵩山少林景区50元接驳车引吐槽",
+        "onboard_time": 1765797981,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26062,
+        "num": 133608,
+        "word": "女保安怒扇男子耳光致其耳膜穿孔",
+        "onboard_time": 1765797562,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 132373,
+        "word": "张本智和刷到了樊振东巴奥原题",
+        "onboard_time": 1765795462,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118081,
+        "num": 118081,
+        "word": "李连杰住院利智被曝每日仅探视15分钟",
+        "onboard_time": 1765782623,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118000,
+        "num": 118000,
+        "word": "Viper抵达上海",
+        "onboard_time": 1765797381,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113043,
+        "num": 113043,
+        "word": "扫地机器人鼻祖要破产了",
+        "onboard_time": 1765797862,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104404,
+        "num": 104404,
+        "word": "公务员平替岗挤满没能上岸的年轻人",
+        "onboard_time": 1765782562,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104104,
+        "num": 104104,
+        "word": "田曦薇开屏",
+        "onboard_time": 1765793002,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103988,
+        "num": 103988,
+        "word": "爱打车的女生轻轻碎掉了",
+        "onboard_time": 1765796360,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12271,
+        "num": 103713,
+        "word": "携地贫基因被解聘幼师再申诉被受理",
+        "onboard_time": 1765796422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "虞书欣何与给所有情侣合照打个样",
+        "onboard_time": 1765791562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98151,
+        "num": 98151,
+        "word": "其实你根本不喜欢玩手机",
+        "onboard_time": 1765797921,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议微镜头#"
+    }
+  }
+}

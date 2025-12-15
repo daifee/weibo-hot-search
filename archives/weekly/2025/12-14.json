@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765795964813,
+  "endTime": 1765798062261,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1034704,
-      "num": 233082,
+      "num": 241104,
       "word": "冯提莫直播间换装被封",
       "onboard_time": 1765792401,
       "rank": 41,
@@ -208,6 +208,14 @@
       "word": "外网曝霉霉伴舞每个人分到了500多万",
       "onboard_time": 1765699221,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 895465,
+      "num": 242107,
+      "word": "鞠婧祎声明",
+      "onboard_time": 1765795162,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -336,6 +344,14 @@
       "word": "感染艾滋病老人称死也不能丢脸",
       "onboard_time": 1765724003,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692173,
+      "num": 246644,
+      "word": "第一批免签去俄罗斯的中产傻眼了",
+      "onboard_time": 1765795582,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -611,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 554408,
-      "num": 232732,
-      "word": "鞠婧祎声明",
-      "onboard_time": 1765795162,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 545158,
       "num": 308439,
       "word": "狙击蝴蝶热度",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468397,
+      "num": 240564,
+      "word": "何晴离世前用尽全身力气拉紧儿子的手",
+      "onboard_time": 1765796722,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463556,
       "num": 219989,
       "word": "张本智和窘态百出",
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428328,
+      "num": 244932,
+      "word": "小洛熙死亡时间疑与诊断书记录不符",
+      "onboard_time": 1765795042,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428064,
       "num": 428064,
       "word": "麦当劳涨价",
@@ -817,6 +841,14 @@
       "onboard_time": 1765788801,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418803,
+      "num": 179373,
+      "word": "马筱梅展示孕肚",
+      "onboard_time": 1765796120,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 418337,
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 288992,
-      "num": 229021,
+      "num": 246278,
       "word": "mlxg成老赖",
       "onboard_time": 1765790901,
       "rank": 34,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1765759161,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269337,
+      "num": 240045,
+      "word": "赵昭仪这下真成昭仪了",
+      "onboard_time": 1765795342,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 268253,
@@ -1675,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239466,
+      "num": 239466,
+      "word": "陈妍希周柯宇头顶吻",
+      "onboard_time": 1765797081,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232739,
       "num": 232739,
       "word": "郭碧婷三姐妹现状",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1765700661,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220788,
+      "num": 220788,
+      "word": "这居然是张凯丽",
+      "onboard_time": 1765797500,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 219952,
@@ -2075,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203754,
+      "num": 178857,
+      "word": "一群小学生追着蔡徐坤喊你好",
+      "onboard_time": 1765792762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203296,
       "num": 112156,
       "word": "林诗栋第四局12比10张本智和",
@@ -2188,7 +2252,7 @@
     },
     {
       "raw_hot": 195715,
-      "num": 236052,
+      "num": 242463,
       "word": "麦当劳回应双吉汉堡越变越小",
       "onboard_time": 1765793183,
       "rank": 7,
@@ -2312,6 +2376,14 @@
       "word": "小俞公孙离五杀",
       "onboard_time": 1765719564,
       "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188741,
+      "num": 188741,
+      "word": "33拍摄进行时",
+      "onboard_time": 1765797381,
+      "rank": 17,
       "category": "电竞"
     },
     {
@@ -2491,20 +2563,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180269,
+      "num": 180269,
+      "word": "老人家门口吃橘子被邻居一拳打倒在地",
+      "onboard_time": 1765794143,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180024,
       "num": 180024,
       "word": "虞书欣怎么跑得乱七八糟的",
       "onboard_time": 1765775902,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179984,
-      "num": 226247,
-      "word": "小洛熙死亡时间疑与诊断书记录不符",
-      "onboard_time": 1765795042,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179502,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1765708643,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178775,
+      "num": 178775,
+      "word": "老板问为什么pdf转word跟没转一样",
+      "onboard_time": 1765796241,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 178704,
@@ -2667,14 +2747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171143,
-      "num": 171143,
-      "word": "赵昭仪这下真成昭仪了",
-      "onboard_time": 1765795342,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169961,
       "num": 161153,
       "word": "孙颖莎王楚钦退赛运动员并非机器",
@@ -2787,6 +2859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160880,
+      "num": 160880,
+      "word": "骄阳似我广播剧开播",
+      "onboard_time": 1765797682,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 160526,
       "num": 160526,
       "word": "柴米油盐酱醋周可人",
@@ -2833,6 +2913,14 @@
       "onboard_time": 1765711885,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159435,
+      "num": 159435,
+      "word": "这是什么i人地狱呀",
+      "onboard_time": 1765797981,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 159389,
@@ -3067,14 +3155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151398,
-      "num": 151398,
-      "word": "老人家门口吃橘子被邻居一拳打倒在地",
-      "onboard_time": 1765794143,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150354,
       "num": 150354,
       "word": "花一百万就给我看这个",
@@ -3113,6 +3193,14 @@
       "onboard_time": 1765712724,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148959,
+      "num": 210980,
+      "word": "老人去世子女未申报多发4年养老金",
+      "onboard_time": 1765795702,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148271,
@@ -3201,6 +3289,14 @@
       "onboard_time": 1765771401,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145587,
+      "num": 179668,
+      "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+      "onboard_time": 1765796782,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144841,
@@ -3531,14 +3627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133692,
-      "num": 224923,
-      "word": "第一批免签去俄罗斯的中产傻眼了",
-      "onboard_time": 1765795582,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133367,
       "num": 133367,
       "word": "无双 不开龙",
@@ -3569,6 +3657,14 @@
       "onboard_time": 1765783283,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132373,
+      "num": 132373,
+      "word": "张本智和刷到了樊振东巴奥原题",
+      "onboard_time": 1765795462,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 132356,
@@ -4075,6 +4171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118000,
+      "num": 118000,
+      "word": "Viper抵达上海",
+      "onboard_time": 1765797381,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117946,
       "num": 117946,
       "word": "句号3个MVP",
@@ -4096,14 +4200,6 @@
       "word": "王莉称长期遭受打压患上重度抑郁",
       "onboard_time": 1765784362,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116913,
-      "num": 116913,
-      "word": "张本智和刷到了樊振东巴奥原题",
-      "onboard_time": 1765795462,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -4273,6 +4369,14 @@
       "onboard_time": 1765696284,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113043,
+      "num": 113043,
+      "word": "扫地机器人鼻祖要破产了",
+      "onboard_time": 1765797862,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 112621,
@@ -4539,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103988,
+      "num": 103988,
+      "word": "爱打车的女生轻轻碎掉了",
+      "onboard_time": 1765796360,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103723,
       "num": 103723,
       "word": "华为Mate80掉湖里51小时捞起还能用",
@@ -4753,6 +4865,14 @@
       "onboard_time": 1765687643,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98151,
+      "num": 98151,
+      "word": "其实你根本不喜欢玩手机",
+      "onboard_time": 1765797921,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98142,
@@ -5363,6 +5483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80570,
+      "num": 180110,
+      "word": "蚂蚁阿福APP月活用户已超1500万",
+      "onboard_time": 1765796661,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80334,
       "num": 80334,
       "word": "donk生气",
@@ -5713,6 +5841,14 @@
       "onboard_time": 1765672280,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63262,
+      "num": 140806,
+      "word": "侯明昊 我自己的吻戏比较好",
+      "onboard_time": 1765796841,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 63180,
@@ -6211,6 +6347,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39966,
+      "num": 179540,
+      "word": "清远男子洪水中救起儿童获减刑",
+      "onboard_time": 1765796661,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39871,
+      "num": 139098,
+      "word": "5大人带4孩吃自助边吃边打包",
+      "onboard_time": 1765797321,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39491,
       "num": 104790,
       "word": "遇害女子母亲去女儿坟前告知新进展",
@@ -6579,14 +6731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28432,
-      "num": 210980,
-      "word": "老人去世子女未申报多发4年养老金",
-      "onboard_time": 1765795702,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28306,
       "num": 41804,
       "word": "雷军的营销风格能不能被模仿",
@@ -6643,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26062,
+      "num": 133608,
+      "word": "女保安怒扇男子耳光致其耳膜穿孔",
+      "onboard_time": 1765797562,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25980,
       "num": 49568,
       "word": "黄景瑜睡觉也不影响杀羊",
@@ -6681,6 +6833,14 @@
       "onboard_time": 1765682544,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24810,
+      "num": 145095,
+      "word": "麦当劳连续三年调价",
+      "onboard_time": 1765797621,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 24204,
@@ -6779,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19880,
+      "num": 135544,
+      "word": "嵩山少林景区50元接驳车引吐槽",
+      "onboard_time": 1765797981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -6801,6 +6969,14 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17805,
+      "num": 242953,
+      "word": "中国电影市场展现蓬勃活力",
+      "onboard_time": 1765789760,
+      "rank": 8,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 16540,
@@ -6889,6 +7065,14 @@
       "onboard_time": 1765648696,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12271,
+      "num": 103713,
+      "word": "携地贫基因被解聘幼师再申诉被受理",
+      "onboard_time": 1765796422,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11936,
