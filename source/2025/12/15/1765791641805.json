@@ -1,0 +1,410 @@
+{
+  "runTime": 1765791641805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 496791,
+        "num": 1079486,
+        "word": "大屠杀幸存者在悉尼枪击案中弹身亡",
+        "onboard_time": 1765782502,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532197,
+        "num": 532197,
+        "word": "张凯毅最新回应4斤黄金凤冠被毁",
+        "onboard_time": 1765789702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25779,
+        "num": 439046,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428064,
+        "num": 428064,
+        "word": "麦当劳涨价",
+        "onboard_time": 1765786642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384758,
+        "num": 384758,
+        "word": "王俊凯你吓到全红婵了",
+        "onboard_time": 1765784723,
+        "rank": 4,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 353829,
+        "num": 353829,
+        "word": "我国首批L3自动驾驶车型获准入许可",
+        "onboard_time": 1765787122,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306373,
+        "num": 306373,
+        "word": "麦当劳回应涨价",
+        "onboard_time": 1765781422,
+        "rank": 6,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 302265,
+        "num": 302265,
+        "word": "公务员平替岗挤满没能上岸的年轻人",
+        "onboard_time": 1765782562,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20513,
+        "num": 299764,
+        "word": "我国全年粮食实现丰收",
+        "onboard_time": 1765790001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 294734,
+        "word": "L3",
+        "onboard_time": 1765787182,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 548309,
+        "num": 286128,
+        "word": "丝芭起诉状称鞠婧祎合约至2033年",
+        "onboard_time": 1765787421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518298,
+        "num": 282238,
+        "word": "曹格 以为是我前妻",
+        "onboard_time": 1765782682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513386,
+        "num": 274261,
+        "word": "李连杰住院利智被曝每日仅探视15分钟",
+        "onboard_time": 1765782623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412810,
+        "num": 270097,
+        "word": "时代峰峻回应陈奕恒回归",
+        "onboard_time": 1765788801,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302266,
+        "num": 266484,
+        "word": "秦俊杰是去体制内进修过吧",
+        "onboard_time": 1765789582,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260599,
+        "num": 260599,
+        "word": "孙颖莎腿肿了",
+        "onboard_time": 1765790661,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241121,
+        "num": 241121,
+        "word": "周柯宇让陈妍希叫哥哥",
+        "onboard_time": 1765790421,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31752,
+        "num": 237652,
+        "word": "AI健康陪伴搭子阿福上线",
+        "onboard_time": 1765789462,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37693,
+        "num": 233486,
+        "word": "小孩拉扭扭车绊倒男子致九级伤残",
+        "onboard_time": 1765790601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21606,
+        "num": 222151,
+        "word": "校长遭学生雪球围攻求助班主任",
+        "onboard_time": 1765790901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567128,
+        "num": 212553,
+        "word": "王悦伊",
+        "onboard_time": 1765787182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211268,
+        "num": 211268,
+        "word": "日本将不再有大熊猫",
+        "onboard_time": 1765771343,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 208416,
+        "word": "高考604分就读高职",
+        "onboard_time": 1765789401,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196651,
+        "num": 196651,
+        "word": "曝怦然心动导演被儿子杀死",
+        "onboard_time": 1765773861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187385,
+        "num": 187385,
+        "word": "虞书欣何与给所有情侣合照打个样",
+        "onboard_time": 1765791562,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182485,
+        "num": 182485,
+        "word": "何晴儿子在告别仪式上追忆母亲",
+        "onboard_time": 1765777043,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160523,
+        "num": 160523,
+        "word": "陈妍希的澄清帖",
+        "onboard_time": 1765789882,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157718,
+        "num": 157718,
+        "word": "时代峰峻回应张奕然分班",
+        "onboard_time": 1765790841,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155978,
+        "num": 155978,
+        "word": "肖战我还没有亲你呢",
+        "onboard_time": 1765790421,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138485,
+        "num": 138485,
+        "word": "再也拍不出第二次的神图",
+        "onboard_time": 1765789521,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 217354,
+        "num": 137842,
+        "word": "儿子哽咽向何晴承诺会好好生活",
+        "onboard_time": 1765790722,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134250,
+        "num": 134250,
+        "word": "怪不得以前管结婚叫找婆家",
+        "onboard_time": 1765787901,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118079,
+        "num": 129616,
+        "word": "新月同行",
+        "onboard_time": 1765788862,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126125,
+        "num": 126125,
+        "word": "连吃7天麻辣烫身体的变化",
+        "onboard_time": 1765772542,
+        "rank": 33,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 125988,
+        "num": 125988,
+        "word": "mlxg成老赖",
+        "onboard_time": 1765790901,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "mlxg因RNG合同案被限消",
+        "onboard_time": 1765788562,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120484,
+        "num": 120484,
+        "word": "北京雪地惊现蚊子爬行",
+        "onboard_time": 1765788623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33237,
+        "num": 120079,
+        "word": "我国海上风电取得重大突破",
+        "onboard_time": 1765790122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17440,
+        "num": 119940,
+        "word": "吴京 短中庭大眼睛娃娃脸",
+        "onboard_time": 1765791022,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119915,
+        "num": 119915,
+        "word": "外交部回应日本将不再有大熊猫",
+        "onboard_time": 1765785984,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113760,
+        "num": 113760,
+        "word": "一到节日就送礼焦虑怎么办",
+        "onboard_time": 1765790722,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111292,
+        "num": 111292,
+        "word": "2025德玛西亚杯",
+        "onboard_time": 1765790301,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110919,
+        "num": 110919,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109915,
+        "num": 109915,
+        "word": "王楚钦登日本杂志封面",
+        "onboard_time": 1765789342,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "全国70城房价下跌",
+        "onboard_time": 1765782383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54181,
+        "num": 105025,
+        "word": "阿福每天回答五百万个健康问题",
+        "onboard_time": 1765790601,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102631,
+        "num": 102631,
+        "word": "中国亲历者以为枪击是放烟花",
+        "onboard_time": 1765781182,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100640,
+        "num": 100640,
+        "word": "邓超小花cos尼克朱迪",
+        "onboard_time": 1765785984,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30156,
+        "num": 99060,
+        "word": "美容院阻止穿衣逼顾客网贷消费",
+        "onboard_time": 1765789821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98156,
+        "num": 98156,
+        "word": "双轨团综官宣定档",
+        "onboard_time": 1765786941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议微镜头#"
+    }
+  }
+}
