@@ -1,0 +1,410 @@
+{
+  "runTime": 1765764601581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676096,
+        "num": 1108175,
+        "word": "我国已经进入拉尼娜状态",
+        "onboard_time": 1765713085,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535271,
+        "num": 535271,
+        "word": "澳大利亚海滩枪击已致16死",
+        "onboard_time": 1765758263,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25826,
+        "num": 311499,
+        "word": "加强商务和金融协同更大力度提振消费",
+        "onboard_time": 1765718544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306582,
+        "num": 306582,
+        "word": "现在就出发3",
+        "onboard_time": 1765749435,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427056,
+        "num": 295326,
+        "word": "双轨剧宣尺度",
+        "onboard_time": 1765758561,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320211,
+        "num": 286806,
+        "word": "王楚钦绑着护带出发回京",
+        "onboard_time": 1765763483,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270510,
+        "num": 270510,
+        "word": "河南省委书记暗访嵩山少林",
+        "onboard_time": 1765759161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255973,
+        "num": 255973,
+        "word": "王俊凯抹眼泪",
+        "onboard_time": 1765760360,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227264,
+        "num": 227264,
+        "word": "彩虹7成功首飞",
+        "onboard_time": 1765759402,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 24176,
+        "num": 227199,
+        "word": "王曼昱冠军",
+        "onboard_time": 1765716864,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644921,
+        "num": 226299,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1765758561,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504361,
+        "num": 225814,
+        "word": "巨人观的水果尸体慢慢浮出水面",
+        "onboard_time": 1765724905,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378556,
+        "num": 225163,
+        "word": "以前审美vs现在审美",
+        "onboard_time": 1765758321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322311,
+        "num": 224694,
+        "word": "煮了9个小时的鸡蛋",
+        "onboard_time": 1765762881,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21031,
+        "num": 224186,
+        "word": "王楚钦好好休息",
+        "onboard_time": 1765759283,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317176,
+        "num": 223929,
+        "word": "和美国女友网恋奔现",
+        "onboard_time": 1765760962,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255265,
+        "num": 223264,
+        "word": "微博之夜门票",
+        "onboard_time": 1765762224,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223048,
+        "num": 223048,
+        "word": "狙击蝴蝶编剧发长文",
+        "onboard_time": 1765758263,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221999,
+        "num": 221999,
+        "word": "悉尼海滩英勇夺枪男子需接受手术",
+        "onboard_time": 1765762342,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212710,
+        "num": 212710,
+        "word": "煎饼叔叔生病一整条街都出手了",
+        "onboard_time": 1765760962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228911,
+        "num": 209974,
+        "word": "才知道眼镜布是不能用来擦眼镜的",
+        "onboard_time": 1765760901,
+        "rank": 20,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "郭碧婷爸爸发文感谢女儿婆家",
+        "onboard_time": 1765752016,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152671,
+        "num": 152671,
+        "word": "日本中学生滥用药物现象严重",
+        "onboard_time": 1765758442,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144654,
+        "num": 144654,
+        "word": "胡彦斌转发张韶涵的文案",
+        "onboard_time": 1765757602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143794,
+        "num": 143794,
+        "word": "央视曝光20倍暴利假陈皮",
+        "onboard_time": 1765721425,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "王曼昱收获1500冠军积分和8万美元",
+        "onboard_time": 1765735996,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125531,
+        "num": 125531,
+        "word": "美国276斤死刑犯行刑前点奢华盛宴",
+        "onboard_time": 1765729280,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107110,
+        "num": 107110,
+        "word": "澳大利亚全国降半旗",
+        "onboard_time": 1765761500,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 105369,
+        "word": "向太买给郭碧婷的两块地好几百坪",
+        "onboard_time": 1765759462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104666,
+        "num": 104666,
+        "word": "48岁女子回应36岁男友称被骗色",
+        "onboard_time": 1765763960,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99803,
+        "num": 104300,
+        "word": "王曼昱冠军城市宣传照",
+        "onboard_time": 1765763061,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104143,
+        "num": 104143,
+        "word": "高叶 比人先认出来的是狗",
+        "onboard_time": 1765763601,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101716,
+        "num": 101716,
+        "word": "为什么总感觉老二比老大更聪明",
+        "onboard_time": 1765763960,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 96249,
+        "num": 96249,
+        "word": "河南仍未公布致13死火灾调查报告",
+        "onboard_time": 1765763960,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95757,
+        "num": 95757,
+        "word": "虞书欣发了最好嗑的镜头live",
+        "onboard_time": 1765762281,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94063,
+        "num": 94063,
+        "word": "狙击蝴蝶A级剧",
+        "onboard_time": 1765760120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93659,
+        "num": 93659,
+        "word": "这才是真正的中式恐怖",
+        "onboard_time": 1765763540,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 92673,
+        "num": 92673,
+        "word": "何与从横店骑行480公里到南京",
+        "onboard_time": 1765761740,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92265,
+        "num": 92265,
+        "word": "周奇演技",
+        "onboard_time": 1765763841,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28301,
+        "num": 90433,
+        "word": "最早发现永靖滑坡的信息员发声",
+        "onboard_time": 1765763540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90218,
+        "num": 90218,
+        "word": "樊振东瘦了很多",
+        "onboard_time": 1765763001,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90117,
+        "num": 90117,
+        "word": "她的这一天小说都不敢这么写",
+        "onboard_time": 1765758561,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85794,
+        "num": 85794,
+        "word": "何晴和许亚军的家人都是好朋友",
+        "onboard_time": 1765763660,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84010,
+        "num": 84010,
+        "word": "日本网民指责欧美游客素质差",
+        "onboard_time": 1765759220,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83564,
+        "num": 83564,
+        "word": "女子买二手存钱罐开出2千多现金",
+        "onboard_time": 1765723462,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82421,
+        "num": 82421,
+        "word": "乌克兰已放弃加入北约",
+        "onboard_time": 1765720825,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80639,
+        "num": 80639,
+        "word": "纽约发生枪击事件致6人受伤",
+        "onboard_time": 1765763361,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75945,
+        "num": 75945,
+        "word": "致我那菜市场的白月光",
+        "onboard_time": 1765764501,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75268,
+        "num": 75268,
+        "word": "悉尼枪击事件嫌疑人是一对父子",
+        "onboard_time": 1765761559,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69966,
+        "num": 69966,
+        "word": "姐姐养的第一个小孩是我",
+        "onboard_time": 1765763180,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到一个重大任务#"
+    }
+  }
+}
