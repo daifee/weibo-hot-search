@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765838735883,
+  "endTime": 1765841299265,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 423874,
-      "num": 500196,
+      "num": 796894,
       "word": "销售直言不建议买35万玛莎拉蒂",
       "onboard_time": 1765808663,
       "rank": 37,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1765718063,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364196,
+      "num": 130865,
+      "word": "演唱会安保用暗号放行126人",
+      "onboard_time": 1765838836,
+      "rank": 3,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 359791,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1765790722,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279038,
+      "num": 198332,
+      "word": "警车上下来3人未穿警服牵着宠物狗",
+      "onboard_time": 1765809923,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275478,
@@ -2947,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174168,
+      "num": 123321,
+      "word": "GEN首位中援Cryin",
+      "onboard_time": 1765840637,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173984,
       "num": 173984,
       "word": "云南调查运动员被索要奖金事件",
@@ -3307,20 +3331,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157126,
-      "num": 198332,
-      "word": "警车上下来3人未穿警服牵着宠物狗",
-      "onboard_time": 1765809923,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156594,
       "num": 156594,
       "word": "虞书欣姜暮头盔戴反了",
       "onboard_time": 1765685423,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156371,
+      "num": 71333,
+      "word": "慢性炎症会唤醒休眠的癌细胞",
+      "onboard_time": 1765840637,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155921,
@@ -3995,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133140,
+      "num": 192833,
+      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+      "onboard_time": 1765808903,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132486,
       "num": 132486,
       "word": "小米17ultra保密措施做的太严了",
@@ -4289,6 +4321,14 @@
       "onboard_time": 1765683622,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124179,
+      "num": 93358,
+      "word": "黎智英给香港市民留下彻骨之痛",
+      "onboard_time": 1765812741,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123904,
@@ -5017,6 +5057,14 @@
       "onboard_time": 1765776261,
       "rank": 38,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 105271,
+      "num": 69962,
+      "word": "这样煮苹果水养生又瘦身",
+      "onboard_time": 1765840637,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105223,
@@ -5843,6 +5891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 85875,
+      "num": 85875,
+      "word": "美国蜜雪冰城糖度",
+      "onboard_time": 1765839677,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "收费站捡到戴电话手表的猫咪",
@@ -5873,14 +5929,6 @@
       "onboard_time": 1765811242,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84875,
-      "num": 192833,
-      "word": "金建希被曝曾深夜激烈斥责尹锡悦",
-      "onboard_time": 1765808903,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84792,
@@ -6243,6 +6291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73045,
+      "num": 50515,
+      "word": "美国少年散步失踪7年后发现遗骸",
+      "onboard_time": 1765841237,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73044,
+      "num": 73044,
+      "word": "董宇辉采访得闲谨制主创",
+      "onboard_time": 1765818318,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72519,
       "num": 206649,
       "word": "华晨宇 我怎么谁都锐评",
@@ -6265,14 +6329,6 @@
       "onboard_time": 1765635683,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71964,
-      "num": 91342,
-      "word": "黎智英给香港市民留下彻骨之痛",
-      "onboard_time": 1765812741,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71570,
@@ -6547,6 +6603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61296,
+      "num": 61296,
+      "word": "曼联vs伯恩茅斯",
+      "onboard_time": 1765841179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61292,
       "num": 69177,
       "word": "孙颖莎王楚钦最大限度内做到了最好",
@@ -6707,14 +6771,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 57125,
-      "num": 57125,
-      "word": "董宇辉采访得闲谨制主创",
-      "onboard_time": 1765818318,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 57069,
       "num": 41849,
       "word": "孙颖莎退赛后匆匆备战混双",
@@ -6825,6 +6881,14 @@
       "onboard_time": 1765720885,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 50718,
+      "num": 50718,
+      "word": "林妹妹悼念秦可卿",
+      "onboard_time": 1765836915,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 49651,
@@ -6971,6 +7035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44414,
+      "num": 46574,
+      "word": "霸王茶姬员工晒创始人喜糖",
+      "onboard_time": 1765818857,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44191,
       "num": 133375,
       "word": "湖北一公司员工聚餐3人甲醇中毒",
@@ -7001,6 +7073,14 @@
       "onboard_time": 1765735095,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42951,
+      "num": 42951,
+      "word": "丝芭称对鞠婧祎有20年独家经纪权",
+      "onboard_time": 1765839376,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 42878,
@@ -7099,6 +7179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39578,
+      "num": 42951,
+      "word": "刷新了和平饭店历史最低消费的可能",
+      "onboard_time": 1765826954,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39491,
       "num": 104790,
       "word": "遇害女子母亲去女儿坟前告知新进展",
@@ -7132,7 +7220,7 @@
     },
     {
       "raw_hot": 38868,
-      "num": 38868,
+      "num": 42949,
       "word": "狙击蝴蝶原著结局",
       "onboard_time": 1765819756,
       "rank": 24,
@@ -7323,6 +7411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33570,
+      "num": 46690,
+      "word": "小黄豆新家暖房着火",
+      "onboard_time": 1765818977,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33502,
       "num": 60997,
       "word": "山西忻州3.4级地震",
@@ -7385,14 +7481,6 @@
       "onboard_time": 1765694061,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32575,
-      "num": 35443,
-      "word": "刷新了和平饭店历史最低消费的可能",
-      "onboard_time": 1765826954,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 32506,
@@ -7459,14 +7547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31196,
-      "num": 46690,
-      "word": "小黄豆新家暖房着火",
-      "onboard_time": 1765818977,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 30904,
       "num": 137816,
       "word": "曝美军在叙利亚紧急出动F16",
@@ -7497,6 +7577,14 @@
       "onboard_time": 1765789821,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30011,
+      "num": 42949,
+      "word": "刘宇宁邪恶小猫发力中",
+      "onboard_time": 1765838115,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 29868,
@@ -7537,6 +7625,14 @@
       "onboard_time": 1765800260,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 29431,
+      "num": 42948,
+      "word": "黄金疯涨为何买金者卖金者都受伤",
+      "onboard_time": 1765804943,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 28799,
@@ -7611,14 +7707,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 26388,
-      "num": 46574,
-      "word": "霸王茶姬员工晒创始人喜糖",
-      "onboard_time": 1765818857,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26274,
       "num": 41824,
       "word": "2025国产剧人气TOP50",
@@ -7633,14 +7721,6 @@
       "onboard_time": 1765733417,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25887,
-      "num": 35380,
-      "word": "林妹妹悼念秦可卿",
-      "onboard_time": 1765836915,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 25815,
@@ -7827,6 +7907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18994,
+      "num": 132685,
+      "word": "家门口的民生议事厅",
+      "onboard_time": 1765839677,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -7867,28 +7955,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17459,
-      "num": 35038,
-      "word": "黄金疯涨为何买金者卖金者都受伤",
-      "onboard_time": 1765804943,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 16540,
       "num": 128853,
       "word": "侵华日军制造了至少173场屠杀",
       "onboard_time": 1765717224,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16087,
-      "num": 34967,
-      "word": "刘宇宁邪恶小猫发力中",
-      "onboard_time": 1765838115,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 15425,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765841299265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 331178,
+        "num": 796894,
+        "word": "销售直言不建议买35万玛莎拉蒂",
+        "onboard_time": 1765808663,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133140,
+        "num": 133140,
+        "word": "金建希被曝曾深夜激烈斥责尹锡悦",
+        "onboard_time": 1765808903,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 132685,
+        "word": "家门口的民生议事厅",
+        "onboard_time": 1765839677,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364196,
+        "num": 130865,
+        "word": "演唱会安保用暗号放行126人",
+        "onboard_time": 1765838836,
+        "rank": 3,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 265047,
+        "num": 128215,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 125007,
+        "word": "江浙沪最神秘人设 苏北人",
+        "onboard_time": 1765810702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174168,
+        "num": 123321,
+        "word": "GEN首位中援Cryin",
+        "onboard_time": 1765840637,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122749,
+        "num": 122749,
+        "word": "日媒爆特朗普警告高市早苗别添乱",
+        "onboard_time": 1765807521,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104601,
+        "num": 104601,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94231,
+        "num": 94231,
+        "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
+        "onboard_time": 1765796782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636426,
+        "num": 93960,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279038,
+        "num": 93748,
+        "word": "警车上下来3人未穿警服牵着宠物狗",
+        "onboard_time": 1765809923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124179,
+        "num": 93358,
+        "word": "黎智英给香港市民留下彻骨之痛",
+        "onboard_time": 1765812741,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188177,
+        "num": 93021,
+        "word": "冯提莫直播间换装被封",
+        "onboard_time": 1765792401,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 92453,
+        "word": "张韶涵新旧发型师差距太大了",
+        "onboard_time": 1765814300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92256,
+        "num": 92256,
+        "word": "男子陪女友逛街买刮刮乐中80万元",
+        "onboard_time": 1765807823,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87898,
+        "num": 87898,
+        "word": "何晴离世前用尽全身力气拉紧儿子的手",
+        "onboard_time": 1765796722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85875,
+        "num": 85875,
+        "word": "美国蜜雪冰城糖度",
+        "onboard_time": 1765839677,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85444,
+        "num": 85444,
+        "word": "哈尔滨一男子冻到血管破裂",
+        "onboard_time": 1765791501,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 73044,
+        "num": 73044,
+        "word": "董宇辉采访得闲谨制主创",
+        "onboard_time": 1765818318,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 71333,
+        "word": "慢性炎症会唤醒休眠的癌细胞",
+        "onboard_time": 1765840637,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105271,
+        "num": 69962,
+        "word": "这样煮苹果水养生又瘦身",
+        "onboard_time": 1765840637,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83938,
+        "num": 66618,
+        "word": "霸王茶姬创始人婚礼人手一杯奶茶",
+        "onboard_time": 1765809623,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74258,
+        "num": 61948,
+        "word": "赵本山女儿球球回应生二胎",
+        "onboard_time": 1765804763,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61296,
+        "num": 61296,
+        "word": "曼联vs伯恩茅斯",
+        "onboard_time": 1765841179,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60006,
+        "num": 60006,
+        "word": "赵昭仪这下真成昭仪了",
+        "onboard_time": 1765795342,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57697,
+        "num": 57697,
+        "word": "虞书欣跑姿",
+        "onboard_time": 1765809563,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55911,
+        "num": 55911,
+        "word": "岑矜李雾女儿",
+        "onboard_time": 1765798100,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53629,
+        "num": 53629,
+        "word": "这次是真的阴湿男吻上破碎女了",
+        "onboard_time": 1765807882,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50718,
+        "num": 50718,
+        "word": "林妹妹悼念秦可卿",
+        "onboard_time": 1765836915,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73045,
+        "num": 50515,
+        "word": "美国少年散步失踪7年后发现遗骸",
+        "onboard_time": 1765841237,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48850,
+        "num": 48850,
+        "word": "狙击蝴蝶大结局",
+        "onboard_time": 1765793062,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48146,
+        "num": 48146,
+        "word": "悉尼枪击事件夺枪者父母受访",
+        "onboard_time": 1765817778,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47486,
+        "num": 47486,
+        "word": "店主直接把小蛋糕的成本都写上了",
+        "onboard_time": 1765829474,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45426,
+        "num": 45426,
+        "word": "温峥嵘称已刑事立案",
+        "onboard_time": 1765806561,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44414,
+        "num": 44414,
+        "word": "霸王茶姬员工晒创始人喜糖",
+        "onboard_time": 1765818857,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43968,
+        "num": 43968,
+        "word": "美国蜜雪冰城价格",
+        "onboard_time": 1765807103,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42951,
+        "num": 42951,
+        "word": "丝芭称对鞠婧祎有20年独家经纪权",
+        "onboard_time": 1765839376,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39578,
+        "num": 42951,
+        "word": "刷新了和平饭店历史最低消费的可能",
+        "onboard_time": 1765826954,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39356,
+        "num": 42950,
+        "word": "马筱梅展示孕肚",
+        "onboard_time": 1765796120,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34653,
+        "num": 42950,
+        "word": "孙颖莎王楚钦近3年赛事都超100场",
+        "onboard_time": 1765809804,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33570,
+        "num": 42950,
+        "word": "小黄豆新家暖房着火",
+        "onboard_time": 1765818977,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41375,
+        "num": 42950,
+        "word": "鞠婧祎声明",
+        "onboard_time": 1765795162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32325,
+        "num": 42949,
+        "word": "狙击蝴蝶原著结局",
+        "onboard_time": 1765819756,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30487,
+        "num": 42949,
+        "word": "被曝遭前国脚戴琳欠钱球迷已离世",
+        "onboard_time": 1765808843,
+        "rank": 44,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 30011,
+        "num": 42949,
+        "word": "刘宇宁邪恶小猫发力中",
+        "onboard_time": 1765838115,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29431,
+        "num": 42948,
+        "word": "黄金疯涨为何买金者卖金者都受伤",
+        "onboard_time": 1765804943,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29138,
+        "num": 42947,
+        "word": "林俊杰发了和王心凌的官摄",
+        "onboard_time": 1765808003,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28555,
+        "num": 42947,
+        "word": "陈妍希周柯宇 外套",
+        "onboard_time": 1765802423,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27529,
+        "num": 42947,
+        "word": "老师鼓励学生互相举报遭家长质疑",
+        "onboard_time": 1765805244,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
