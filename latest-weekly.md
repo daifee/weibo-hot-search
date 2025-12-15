@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/14 00:32:46 ~ 2025/12/16 03:40:55
+本榜单时间：2025/12/14 00:32:46 ~ 2025/12/16 04:33:15
 </p>
 </blockquote>
 <p>
@@ -5835,6 +5835,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
+刷新了和平饭店历史最低消费的可能（热度：21342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF%23" target="weibo">
 王楚钦好好休息（热度：21031）
 </a>
@@ -5889,6 +5895,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
+店主直接把小蛋糕的成本都写上了（热度：16964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%88%B6%E9%80%A0%E4%BA%86%E8%87%B3%E5%B0%91173%E5%9C%BA%E5%B1%A0%E6%9D%80%23" target="weibo">
 侵华日军制造了至少173场屠杀（热度：16540）
 </a>
@@ -5933,12 +5945,6 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%91%E7%BF%94%E4%BC%9E%E5%9D%A0%E8%90%BD%E8%87%B4%E6%AE%8B%E9%A3%9E%E8%A1%8C%E8%80%85%E8%87%AA%E6%8B%85%E5%85%AB%E6%88%90%E8%B4%A3%E4%BB%BB%23" target="weibo">
 滑翔伞坠落致残飞行者自担八成责任（热度：14397）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
-刷新了和平饭店历史最低消费的可能（热度：14111）
 </a>
 </li>
 

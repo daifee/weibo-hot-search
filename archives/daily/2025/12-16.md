@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/16 00:40:57 ~ 2025/12/16 03:40:55
+本榜单时间：2025/12/16 00:40:57 ~ 2025/12/16 04:33:15
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Viper抵达BLG基地（热度：38332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
+刷新了和平饭店历史最低消费的可能（热度：21342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E6%83%9C%E6%AF%8F%E5%A4%A9%E7%94%A8%E5%BF%83%E5%92%8C%E4%BD%A0%E8%AF%B4%E6%99%9A%E5%AE%89%E7%9A%84%E4%BA%BA%23" target="weibo">
 珍惜每天用心和你说晚安的人（热度：18805）
 </a>
@@ -381,14 +387,14 @@ Viper抵达BLG基地（热度：38332）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%B0%E5%81%B6%E5%A5%B3%E4%B8%BB%E7%9A%84%E6%98%8E%E5%AA%9A%E6%84%9F%23" target="weibo">
-虞书欣台偶女主的明媚感（热度：14841）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
+店主直接把小蛋糕的成本都写上了（热度：16964）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%96%B0%E4%BA%86%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
-刷新了和平饭店历史最低消费的可能（热度：14111）
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%B0%E5%81%B6%E5%A5%B3%E4%B8%BB%E7%9A%84%E6%98%8E%E5%AA%9A%E6%84%9F%23" target="weibo">
+虞书欣台偶女主的明媚感（热度：14841）
 </a>
 </li>
 
@@ -407,6 +413,12 @@ vivo发布会（热度：13294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E8%B7%9F%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E6%B5%B7%E6%8A%A5%E5%90%88%E7%85%A7%23" target="weibo">
 张泽禹跟登陆少年海报合照（热度：12987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%BF%99%E4%B8%8B%E7%9C%9F%E6%88%90%E6%98%AD%E4%BB%AA%E4%BA%86%23" target="weibo">
+赵昭仪这下真成昭仪了（热度：12066）
 </a>
 </li>
 
