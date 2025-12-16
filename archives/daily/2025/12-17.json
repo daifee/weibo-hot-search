@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765917976048,
+  "endTime": 1765920567114,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -483,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18810,
+      "num": 30713,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17441,
       "num": 172198,
       "word": "海南自贸港全岛封关后有啥变化",
       "onboard_time": 1765874063,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16371,
-      "num": 30713,
-      "word": "女员工拒洗窗帘硬杠董事长被降职",
-      "onboard_time": 1765889662,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15894,
