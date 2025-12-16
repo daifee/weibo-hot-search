@@ -1,0 +1,410 @@
+{
+  "runTime": 1765850800770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649689,
+        "num": 1103950,
+        "word": "肝癌晚期父亲让女儿陪着买寿衣",
+        "onboard_time": 1765846160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645936,
+        "num": 645936,
+        "word": "警方通报一警车下来3人牵着宠物狗",
+        "onboard_time": 1765844661,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31975,
+        "num": 531497,
+        "word": "家门口的民生议事厅",
+        "onboard_time": 1765839677,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462272,
+        "num": 462272,
+        "word": "美队有孩子了",
+        "onboard_time": 1765847000,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459651,
+        "num": 459651,
+        "word": "老舅",
+        "onboard_time": 1765848201,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370715,
+        "num": 370715,
+        "word": "中华书局下架召回唐诗三百首",
+        "onboard_time": 1765846581,
+        "rank": 5,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 420397,
+        "num": 327916,
+        "word": "狙击蝴蝶 那天晚上展开说说",
+        "onboard_time": 1765847721,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224198,
+        "num": 224198,
+        "word": "销售直言不建议买35万玛莎拉蒂",
+        "onboard_time": 1765808663,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162990,
+        "num": 162990,
+        "word": "杨瀚森18分10篮板4助攻",
+        "onboard_time": 1765844661,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 148255,
+        "word": "美国蜜雪冰城糖度",
+        "onboard_time": 1765839677,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 505331,
+        "num": 148223,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306024,
+        "num": 147796,
+        "word": "田曦薇跑步的神",
+        "onboard_time": 1765849460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246361,
+        "num": 147659,
+        "word": "原来接吻还有这么多讲究",
+        "onboard_time": 1765843940,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238556,
+        "num": 147493,
+        "word": "沈腾在意大利吃冰淇淋吃伤了",
+        "onboard_time": 1765843340,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181538,
+        "num": 147214,
+        "word": "意想不到的国服第一出现了",
+        "onboard_time": 1765850360,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 146960,
+        "word": "杨幂生万物提名最佳女主",
+        "onboard_time": 1765850301,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158130,
+        "num": 146758,
+        "word": "3000多人被养生骗走5亿元",
+        "onboard_time": 1765850000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154569,
+        "num": 146629,
+        "word": "大爷用雪堆出逼真猫咪竟引来真猫",
+        "onboard_time": 1765809082,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "演唱会安保用暗号放行126人",
+        "onboard_time": 1765838836,
+        "rank": 18,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 134952,
+        "word": "GEN首位中援Cryin",
+        "onboard_time": 1765840637,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 624041,
+        "num": 134906,
+        "word": "金价",
+        "onboard_time": 1765844901,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231595,
+        "num": 134844,
+        "word": "劣质碳水是慢性炎症推手",
+        "onboard_time": 1765848621,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152499,
+        "num": 134797,
+        "word": "慢性炎症会唤醒休眠的癌细胞",
+        "onboard_time": 1765840637,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134735,
+        "num": 134735,
+        "word": "陈妍希周柯宇跟官宣似的",
+        "onboard_time": 1765798221,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123483,
+        "num": 123483,
+        "word": "彭聪聪回应认亲后10天迅速切割",
+        "onboard_time": 1765846581,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119080,
+        "num": 119080,
+        "word": "4岁被拐21年后认亲果断卖房回归",
+        "onboard_time": 1765841899,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116639,
+        "num": 116639,
+        "word": "第一批免签去俄罗斯的中产傻眼了",
+        "onboard_time": 1765795582,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115861,
+        "num": 115861,
+        "word": "金饰克价涨到1353元",
+        "onboard_time": 1765842319,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112063,
+        "num": 112063,
+        "word": "这样煮苹果水养生又瘦身",
+        "onboard_time": 1765840637,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101286,
+        "num": 101286,
+        "word": "TVB最佳女主角十强名单公布",
+        "onboard_time": 1765845320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99254,
+        "num": 99254,
+        "word": "江浙沪最神秘人设 苏北人",
+        "onboard_time": 1765810702,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95384,
+        "num": 95384,
+        "word": "你信任的装修博主可能是AI夫妻",
+        "onboard_time": 1765841717,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93794,
+        "num": 93794,
+        "word": "虞书欣跑姿",
+        "onboard_time": 1765809563,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92593,
+        "num": 92593,
+        "word": "张艺兴直播",
+        "onboard_time": 1765847479,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92393,
+        "num": 92393,
+        "word": "男子陪女友逛街买刮刮乐中80万元",
+        "onboard_time": 1765807823,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90080,
+        "num": 90080,
+        "word": "温峥嵘称已刑事立案",
+        "onboard_time": 1765806561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88643,
+        "num": 88643,
+        "word": "董宇辉盛赞肖战得闲谨制演技",
+        "onboard_time": 1765846760,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82083,
+        "num": 82083,
+        "word": "狙击蝴蝶原著结局",
+        "onboard_time": 1765819756,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80582,
+        "num": 80582,
+        "word": "霸王茶姬员工晒创始人喜糖",
+        "onboard_time": 1765818857,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78215,
+        "num": 78215,
+        "word": "男生跳楼家属向物业索赔90万被驳回",
+        "onboard_time": 1765844120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77743,
+        "num": 77743,
+        "word": "河北通报辅警开警车送家人购物",
+        "onboard_time": 1765845201,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73579,
+        "num": 73579,
+        "word": "霸王茶姬创始人婚礼人手一杯奶茶",
+        "onboard_time": 1765809623,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69786,
+        "num": 69786,
+        "word": "尿毒症患者楼上踩缝纫机楼下做透析",
+        "onboard_time": 1765847182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67916,
+        "num": 67916,
+        "word": "35万的玛莎拉蒂卖1辆亏1辆",
+        "onboard_time": 1765850421,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65883,
+        "num": 65883,
+        "word": "高市早苗逆流而动",
+        "onboard_time": 1765849340,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65430,
+        "num": 65430,
+        "word": "江西警方通报老人被邻居打倒在地",
+        "onboard_time": 1765846160,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 64845,
+        "num": 64845,
+        "word": "小猫真的能听懂人在说什么",
+        "onboard_time": 1765846760,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63421,
+        "num": 63421,
+        "word": "墨西哥一小飞机坠毁多人死亡",
+        "onboard_time": 1765847661,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62153,
+        "num": 62153,
+        "word": "2025最后15天",
+        "onboard_time": 1765850121,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61111,
+        "num": 61111,
+        "word": "我们养狗人老了就这样",
+        "onboard_time": 1765848140,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
