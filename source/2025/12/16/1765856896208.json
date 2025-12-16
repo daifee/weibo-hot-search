@@ -1,0 +1,410 @@
+{
+  "runTime": 1765856896208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 411218,
+        "num": 1065795,
+        "word": "肝癌晚期父亲让女儿陪着买寿衣",
+        "onboard_time": 1765846160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334586,
+        "num": 334586,
+        "word": "中美合作查获可卡因430公斤",
+        "onboard_time": 1765853602,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4275,
+        "num": 265301,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535413,
+        "num": 260974,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394409,
+        "num": 257984,
+        "word": "黄磊是胡歌李沁新剧总导演",
+        "onboard_time": 1765852280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249196,
+        "num": 249196,
+        "word": "日本不需要把国家带向战争的首相",
+        "onboard_time": 1765850781,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256303,
+        "num": 248937,
+        "word": "人间有味官宣胡歌李沁",
+        "onboard_time": 1765851981,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247795,
+        "num": 247795,
+        "word": "中华书局下架召回唐诗三百首",
+        "onboard_time": 1765846581,
+        "rank": 7,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 236802,
+        "num": 236802,
+        "word": "老舅",
+        "onboard_time": 1765848201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471541,
+        "num": 235466,
+        "word": "凶手称家门口被捅女子害她坐被告席",
+        "onboard_time": 1765852280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349513,
+        "num": 234979,
+        "word": "你的小棉袄摔成小王八了",
+        "onboard_time": 1765852880,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315887,
+        "num": 234360,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232889,
+        "num": 232889,
+        "word": "25B站跨年晚会官宣",
+        "onboard_time": 1765853240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225789,
+        "num": 225789,
+        "word": "警方通报一警车下来3人牵着宠物狗",
+        "onboard_time": 1765844661,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216807,
+        "num": 216807,
+        "word": "第一批小票主理人已经上岗了",
+        "onboard_time": 1765854561,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183755,
+        "num": 183755,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172436,
+        "num": 172436,
+        "word": "美队有孩子了",
+        "onboard_time": 1765847000,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170171,
+        "num": 170171,
+        "word": "中美卫星仅距200米惊险擦肩",
+        "onboard_time": 1765855161,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158302,
+        "num": 158302,
+        "word": "男子杀发小妻儿事发前说定娃娃亲",
+        "onboard_time": 1765854982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90793,
+        "num": 158150,
+        "word": "开拓者召回杨瀚森对战国王",
+        "onboard_time": 1765856362,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474554,
+        "num": 158019,
+        "word": "郑恺问苗苗今天为什么要化妆",
+        "onboard_time": 1765851799,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277133,
+        "num": 157597,
+        "word": "金价",
+        "onboard_time": 1765844901,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273862,
+        "num": 157372,
+        "word": "A股",
+        "onboard_time": 1765851560,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191494,
+        "num": 157305,
+        "word": "劣质碳水是慢性炎症推手",
+        "onboard_time": 1765848621,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 157000,
+        "word": "看完短剧连夜提升择偶标准",
+        "onboard_time": 1765855640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156880,
+        "num": 156880,
+        "word": "湖南卫视跨年要开车了",
+        "onboard_time": 1765855942,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155762,
+        "num": 155762,
+        "word": "田曦薇跑步的神",
+        "onboard_time": 1765849460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151748,
+        "num": 151748,
+        "word": "谁懂生日隐藏福利的含金量",
+        "onboard_time": 1765855942,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63380,
+        "num": 150304,
+        "word": "元旦假期购票日历来了",
+        "onboard_time": 1765855341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149649,
+        "num": 149649,
+        "word": "蒯曼升至女单世界第三",
+        "onboard_time": 1765855761,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176319,
+        "num": 149625,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148743,
+        "num": 148743,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139800,
+        "num": 139800,
+        "word": "狙击蝴蝶 那天晚上展开说说",
+        "onboard_time": 1765847721,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134724,
+        "num": 134724,
+        "word": "跨晚还有周杰伦的事儿",
+        "onboard_time": 1765854022,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126044,
+        "num": 126044,
+        "word": "岑矜李雾女儿叫岑想",
+        "onboard_time": 1765855822,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121578,
+        "num": 121578,
+        "word": "杨幂生万物提名最佳女主",
+        "onboard_time": 1765850301,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115412,
+        "num": 115412,
+        "word": "难怪长辈觉得读书了就应该啥都懂",
+        "onboard_time": 1765856242,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 83224,
+        "num": 114660,
+        "word": "陈乔恩说今年底要瘦回46公斤",
+        "onboard_time": 1765856421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19664,
+        "num": 114439,
+        "word": "乔任梁爸爸出院了",
+        "onboard_time": 1765856662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114415,
+        "num": 114415,
+        "word": "王楚钦入选国家一队10周年",
+        "onboard_time": 1765854861,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113535,
+        "num": 113535,
+        "word": "夏以昼慵懒共谋",
+        "onboard_time": 1765856782,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113316,
+        "num": 113316,
+        "word": "3000多人被养生骗走5亿元",
+        "onboard_time": 1765850000,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108996,
+        "num": 108996,
+        "word": "宠物友好酒店 提灯定损",
+        "onboard_time": 1765851920,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 105531,
+        "num": 105531,
+        "word": "周深放鸽子",
+        "onboard_time": 1765856542,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103069,
+        "num": 103069,
+        "word": "明年居民存款到期规模超170万亿",
+        "onboard_time": 1765853358,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98946,
+        "num": 98946,
+        "word": "美国蜜雪冰城糖度",
+        "onboard_time": 1765839677,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92569,
+        "num": 92569,
+        "word": "腾讯系成00后玩家首选",
+        "onboard_time": 1765854501,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35016,
+        "num": 92448,
+        "word": "泰飞机失事一年空难家属未获赔偿",
+        "onboard_time": 1765855220,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92416,
+        "num": 92416,
+        "word": "苹果正研发数十款未发布新品",
+        "onboard_time": 1765856842,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}

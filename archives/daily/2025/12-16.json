@@ -1,10 +1,10 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765852217824,
+  "endTime": 1765856896208,
   "band_list": [
     {
       "raw_hot": 725051,
-      "num": 163342,
+      "num": 234360,
       "word": "妻子骨折生蛆死亡丈夫辩称不知情",
       "onboard_time": 1765812020,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 649368,
-      "num": 143966,
+      "num": 157597,
       "word": "金价",
       "onboard_time": 1765844901,
       "rank": 20,
@@ -43,12 +43,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535413,
+      "num": 260974,
+      "word": "恋与深空",
+      "onboard_time": 1765854742,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481499,
       "num": 924973,
       "word": "演唱会安保用暗号放行126人",
       "onboard_time": 1765838836,
       "rank": 3,
       "category": "民生新闻,演出"
+    },
+    {
+      "raw_hot": 474554,
+      "num": 158019,
+      "word": "郑恺问苗苗今天为什么要化妆",
+      "onboard_time": 1765851799,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471541,
+      "num": 235466,
+      "word": "凶手称家门口被捅女子害她坐被告席",
+      "onboard_time": 1765852280,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 462272,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 425740,
-      "num": 143926,
+      "num": 157372,
       "word": "A股",
       "onboard_time": 1765851560,
       "rank": 21,
@@ -91,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394409,
+      "num": 257984,
+      "word": "黄磊是胡歌李沁新剧总导演",
+      "onboard_time": 1765852280,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383226,
       "num": 796894,
       "word": "销售直言不建议买35万玛莎拉蒂",
@@ -107,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349513,
+      "num": 234979,
+      "word": "你的小棉袄摔成小王八了",
+      "onboard_time": 1765852880,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347758,
       "num": 156570,
       "word": "3000多人被养生骗走5亿元",
       "onboard_time": 1765850000,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334586,
+      "num": 334586,
+      "word": "中美合作查获可卡因430公斤",
+      "onboard_time": 1765853602,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 316308,
@@ -164,11 +212,27 @@
     },
     {
       "raw_hot": 262139,
-      "num": 143909,
+      "num": 157305,
       "word": "劣质碳水是慢性炎症推手",
       "onboard_time": 1765848621,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256303,
+      "num": 248937,
+      "word": "人间有味官宣胡歌李沁",
+      "onboard_time": 1765851981,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249196,
+      "num": 249196,
+      "word": "日本不需要把国家带向战争的首相",
+      "onboard_time": 1765850781,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246361,
@@ -195,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232889,
+      "num": 232889,
+      "word": "25B站跨年晚会官宣",
+      "onboard_time": 1765853240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227751,
       "num": 103219,
       "word": "霸王茶姬创始人婚礼人手一杯奶茶",
       "onboard_time": 1765809623,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216807,
+      "num": 216807,
+      "word": "第一批小票主理人已经上岗了",
+      "onboard_time": 1765854561,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 214537,
@@ -243,20 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196938,
-      "num": 143863,
-      "word": "人间有味官宣胡歌李沁",
-      "onboard_time": 1765851981,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192057,
       "num": 143797,
       "word": "慢性炎症会唤醒休眠的癌细胞",
       "onboard_time": 1765840637,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183755,
+      "num": 183755,
+      "word": "恋与深空 恶俗",
+      "onboard_time": 1765856481,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 181538,
@@ -267,10 +347,34 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176319,
+      "num": 149625,
+      "word": "何晴儿子归许亚军抚养",
+      "onboard_time": 1765856481,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176200,
       "num": 143826,
       "word": "成毅长安二十四计总冠名",
       "onboard_time": 1765851500,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170171,
+      "num": 170171,
+      "word": "中美卫星仅距200米惊险擦肩",
+      "onboard_time": 1765855161,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 163538,
+      "num": 157000,
+      "word": "看完短剧连夜提升择偶标准",
+      "onboard_time": 1765855640,
       "rank": 24,
       "category": "剧集"
     },
@@ -283,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158302,
+      "num": 158302,
+      "word": "男子杀发小妻儿事发前说定娃娃亲",
+      "onboard_time": 1765854982,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156880,
+      "num": 156880,
+      "word": "湖南卫视跨年要开车了",
+      "onboard_time": 1765855942,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154569,
       "num": 146629,
       "word": "大爷用雪堆出逼真猫咪竟引来真猫",
@@ -291,20 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145081,
-      "num": 111245,
-      "word": "郑恺问苗苗今天为什么要化妆",
-      "onboard_time": 1765851799,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 151748,
+      "num": 151748,
+      "word": "谁懂生日隐藏福利的含金量",
+      "onboard_time": 1765855942,
+      "rank": 27,
+      "category": "幽默"
     },
     {
-      "raw_hot": 144019,
-      "num": 144019,
-      "word": "日本不需要把国家带向战争的首相",
-      "onboard_time": 1765850781,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "蒯曼升至女单世界第三",
+      "onboard_time": 1765855761,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148743,
+      "num": 148743,
+      "word": "考研味最重的一张照片",
+      "onboard_time": 1765855462,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 143767,
@@ -323,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134724,
+      "num": 134724,
+      "word": "跨晚还有周杰伦的事儿",
+      "onboard_time": 1765854022,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133140,
       "num": 133140,
       "word": "金建希被曝曾深夜激烈斥责尹锡悦",
       "onboard_time": 1765808903,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126044,
+      "num": 126044,
+      "word": "岑矜李雾女儿叫岑想",
+      "onboard_time": 1765855822,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 124179,
@@ -363,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117704,
+      "num": 117704,
+      "word": "独居女子离世遗产归公买墓地需审定",
+      "onboard_time": 1765855462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115861,
       "num": 115861,
       "word": "金饰克价涨到1353元",
@@ -371,12 +523,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115412,
+      "num": 115412,
+      "word": "难怪长辈觉得读书了就应该啥都懂",
+      "onboard_time": 1765856242,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 114415,
+      "num": 114415,
+      "word": "王楚钦入选国家一队10周年",
+      "onboard_time": 1765854861,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113535,
+      "num": 113535,
+      "word": "夏以昼慵懒共谋",
+      "onboard_time": 1765856782,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110738,
       "num": 104150,
       "word": "岑矜李雾女儿",
       "onboard_time": 1765798100,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108996,
+      "num": 108996,
+      "word": "宠物友好酒店 提灯定损",
+      "onboard_time": 1765851920,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 108868,
@@ -395,6 +579,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 105531,
+      "num": 105531,
+      "word": "周深放鸽子",
+      "onboard_time": 1765856542,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103722,
       "num": 103722,
       "word": "何晴离世前用尽全身力气拉紧儿子的手",
@@ -409,6 +601,14 @@
       "onboard_time": 1765806561,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103069,
+      "num": 103069,
+      "word": "明年居民存款到期规模超170万亿",
+      "onboard_time": 1765853358,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 102993,
@@ -483,12 +683,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92569,
+      "num": 92569,
+      "word": "腾讯系成00后玩家首选",
+      "onboard_time": 1765854501,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92416,
+      "num": 92416,
+      "word": "苹果正研发数十款未发布新品",
+      "onboard_time": 1765856842,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91640,
       "num": 91640,
       "word": "怪奇物语预告",
       "onboard_time": 1765813761,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90793,
+      "num": 158150,
+      "word": "开拓者召回杨瀚森对战国王",
+      "onboard_time": 1765856362,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 88643,
@@ -523,6 +747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83224,
+      "num": 114660,
+      "word": "陈乔恩说今年底要瘦回46公斤",
+      "onboard_time": 1765856421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83042,
       "num": 103222,
       "word": "桃黑黑中奖名单 没有我",
@@ -553,14 +785,6 @@
       "onboard_time": 1765802302,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81639,
-      "num": 81639,
-      "word": "宠物友好酒店 提灯定损",
-      "onboard_time": 1765851920,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 81352,
@@ -745,6 +969,14 @@
       "onboard_time": 1765847661,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63380,
+      "num": 150304,
+      "word": "元旦假期购票日历来了",
+      "onboard_time": 1765855341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62703,
@@ -947,6 +1179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 35016,
+      "num": 92448,
+      "word": "泰飞机失事一年空难家属未获赔偿",
+      "onboard_time": 1765855220,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33818,
       "num": 51092,
       "word": "刘宇宁邪恶小猫发力中",
@@ -1017,6 +1257,14 @@
       "onboard_time": 1765818797,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19664,
+      "num": 114439,
+      "word": "乔任梁爸爸出院了",
+      "onboard_time": 1765856662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 18805,
@@ -1092,7 +1340,7 @@
     },
     {
       "raw_hot": 9369,
-      "num": 195575,
+      "num": 265301,
       "word": "中国经济航船必将继续行稳致远",
       "onboard_time": 1765790122,
       "rank": 2,
