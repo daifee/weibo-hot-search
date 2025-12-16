@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765870254548,
+  "endTime": 1765871049448,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -91,6 +91,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 632575,
+      "num": 1101212,
+      "word": "人民币又大涨",
+      "onboard_time": 1765867101,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 623314,
       "num": 272634,
       "word": "恋与深空",
@@ -121,14 +129,6 @@
       "onboard_time": 1765848201,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562810,
-      "num": 1090049,
-      "word": "人民币又大涨",
-      "onboard_time": 1765867101,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 514071,
@@ -209,6 +209,14 @@
       "onboard_time": 1765862062,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 432924,
+      "num": 195686,
+      "word": "怪不得唐诡奇谭要单独播",
+      "onboard_time": 1765869563,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 430759,
@@ -331,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 312348,
+      "num": 193885,
+      "word": "岑矜错过了李雾最好用的6年",
+      "onboard_time": 1765866381,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309643,
       "num": 251826,
       "word": "王一博T锦绣12月刊封面",
@@ -379,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 288312,
-      "num": 153352,
-      "word": "怪不得唐诡奇谭要单独播",
-      "onboard_time": 1765869563,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283060,
       "num": 283060,
       "word": "余承东任华为终端公司董事长",
@@ -403,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265984,
-      "num": 152974,
-      "word": "岑矜错过了李雾最好用的6年",
-      "onboard_time": 1765866381,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 276315,
+      "num": 276315,
+      "word": "小学老师百人群内咒骂全班得甲流",
+      "onboard_time": 1765867581,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264228,
@@ -457,6 +465,14 @@
       "onboard_time": 1765866621,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254504,
+      "num": 151046,
+      "word": "国剧盛典红毯",
+      "onboard_time": 1765869624,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 249196,
@@ -515,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233319,
+      "num": 152566,
+      "word": "郭宇欣刘萧旭红毯",
+      "onboard_time": 1765868723,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232889,
       "num": 275854,
       "word": "25B站跨年晚会官宣",
@@ -547,16 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225200,
-      "num": 152566,
-      "word": "郭宇欣刘萧旭红毯",
-      "onboard_time": 1765868723,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223091,
-      "num": 159233,
+      "num": 192731,
       "word": "商场被指吓人悬空大衣已撤下",
       "onboard_time": 1765864341,
       "rank": 31,
@@ -569,6 +585,14 @@
       "onboard_time": 1765864644,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216460,
+      "num": 193184,
+      "word": "元旦请3休8",
+      "onboard_time": 1765870404,
+      "rank": 13,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 214537,
@@ -707,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180653,
-      "num": 151046,
-      "word": "国剧盛典红毯",
-      "onboard_time": 1765869624,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178523,
       "num": 150882,
       "word": "幼儿园咬伤小朋友被对方奶奶恐吓",
@@ -745,6 +761,14 @@
       "onboard_time": 1765851500,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174668,
+      "num": 195390,
+      "word": "苹果安卓实现互通",
+      "onboard_time": 1765870042,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 174543,
@@ -785,14 +809,6 @@
       "onboard_time": 1765860083,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168868,
-      "num": 152050,
-      "word": "小学老师百人群内咒骂全班得甲流",
-      "onboard_time": 1765867581,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167980,
@@ -944,6 +960,14 @@
       "word": "刘奕君 咋还跟这小鲜肉过不去呢",
       "onboard_time": 1765859421,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141278,
+      "num": 141278,
+      "word": "成毅这个出场太漂亮了",
+      "onboard_time": 1765870283,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1227,14 +1251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112506,
-      "num": 112506,
-      "word": "苹果安卓实现互通",
-      "onboard_time": 1765870042,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110974,
       "num": 110974,
       "word": "以前抵抗力与现在抵抗力的区别",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1765841237,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96423,
+      "num": 96423,
+      "word": "演员林雪自曝一直在做医美",
+      "onboard_time": 1765870883,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 96411,
@@ -1696,6 +1720,14 @@
       "word": "陈妍希 妹妹姐也是姐",
       "onboard_time": 1765860262,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75880,
+      "num": 92513,
+      "word": "暴躁东北太奶一箭射鬼子",
+      "onboard_time": 1765870583,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2115,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35189,
+      "num": 91972,
+      "word": "赴韩国航班量超日本居第一",
+      "onboard_time": 1765870822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35154,
       "num": 67484,
       "word": "安徽红杉雾凇一秒进入古偶剧",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1765838115,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32814,
+      "num": 151848,
+      "word": "澳总理赴医院探望夺枪英雄",
+      "onboard_time": 1765869682,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32236,
@@ -2267,6 +2315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 24280,
+      "num": 93509,
+      "word": "家暴13年男子当庭说这是家务事",
+      "onboard_time": 1765870583,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21559,
       "num": 239140,
       "word": "海南电力输送能力提升超4倍",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1765791922,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16182,
-      "num": 151848,
-      "word": "澳总理赴医院探望夺枪英雄",
-      "onboard_time": 1765869682,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14841,
