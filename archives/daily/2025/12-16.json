@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765878523391,
+  "endTime": 1765881246425,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1022685,
+      "num": 172623,
+      "word": "王俊凯全红婵不是很友好的互动吗",
+      "onboard_time": 1765877663,
+      "rank": 11,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 1003723,
       "num": 1160595,
       "word": "元旦请3休8",
       "onboard_time": 1765870404,
       "rank": 13,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 863824,
+      "num": 155873,
+      "word": "刘亦菲的脚 脚中刘亦菲",
+      "onboard_time": 1765878262,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 768682,
@@ -57,6 +73,14 @@
       "onboard_time": 1765872442,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710895,
+      "num": 217201,
+      "word": "丝芭回应鞠婧祎",
+      "onboard_time": 1765878861,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 707610,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 646476,
-      "num": 198941,
+      "num": 216188,
       "word": "咒骂学生全得甲流教师已停职",
       "onboard_time": 1765875502,
       "rank": 10,
@@ -211,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481803,
-      "num": 172623,
-      "word": "王俊凯全红婵不是很友好的互动吗",
-      "onboard_time": 1765877663,
-      "rank": 11,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 481499,
       "num": 924973,
       "word": "演唱会安保用暗号放行126人",
@@ -233,6 +249,14 @@
       "onboard_time": 1765851799,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466079,
+      "num": 275376,
+      "word": "年度奶茶",
+      "onboard_time": 1765876581,
+      "rank": 32,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 462272,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 380309,
-      "num": 198883,
+      "num": 215342,
       "word": "店家回应女子全裸按摩遇男技师",
       "onboard_time": 1765874901,
       "rank": 34,
@@ -377,6 +401,14 @@
       "onboard_time": 1765849460,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353529,
+      "num": 353529,
+      "word": "胡歌李沁开机照",
+      "onboard_time": 1765877901,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 350431,
@@ -521,14 +553,6 @@
       "onboard_time": 1765862002,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275376,
-      "num": 275376,
-      "word": "年度奶茶",
-      "onboard_time": 1765876581,
-      "rank": 32,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 267239,
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226064,
+      "num": 226064,
+      "word": "女子称丈夫被骗1日接受13人次服务",
+      "onboard_time": 1765879822,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223091,
       "num": 192731,
       "word": "商场被指吓人悬空大衣已撤下",
@@ -705,6 +737,14 @@
       "onboard_time": 1765864644,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218003,
+      "num": 218003,
+      "word": "A股为何全线下跌",
+      "onboard_time": 1765876940,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 214537,
@@ -779,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200169,
-      "num": 171767,
-      "word": "胡歌李沁开机照",
-      "onboard_time": 1765877901,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200148,
       "num": 187915,
       "word": "王俊凯话剧趁世界还年青剧照",
@@ -817,6 +849,14 @@
       "onboard_time": 1765810702,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197713,
+      "num": 146468,
+      "word": "身体有炎症时要少吃的4种食物",
+      "onboard_time": 1765879042,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197013,
@@ -899,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181655,
+      "num": 181655,
+      "word": "周鸿祎声明",
+      "onboard_time": 1765881082,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181538,
       "num": 147214,
       "word": "意想不到的国服第一出现了",
@@ -969,14 +1017,6 @@
       "onboard_time": 1765861102,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171506,
-      "num": 171506,
-      "word": "A股为何全线下跌",
-      "onboard_time": 1765876940,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 171004,
@@ -1105,6 +1145,22 @@
       "onboard_time": 1765862002,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146293,
+      "num": 146293,
+      "word": "流量明星 中度抽动症",
+      "onboard_time": 1765880842,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145489,
+      "num": 145489,
+      "word": "萧敬腾林有慧 狙击蝴蝶",
+      "onboard_time": 1765879340,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145287,
@@ -1291,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "虞书欣这扑通一声",
+      "onboard_time": 1765878982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132670,
       "num": 132670,
       "word": "和许光汉林俊杰一起跨年只有一次",
@@ -1339,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128054,
+      "num": 128054,
+      "word": "内娱短剧上星央一的含金量",
+      "onboard_time": 1765879101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127938,
       "num": 115814,
       "word": "彭小苒礼服内贴了20个暖宝宝",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1765855822,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125565,
+      "num": 153974,
+      "word": "窝囊版蹦极58元一人",
+      "onboard_time": 1765879101,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124944,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1765846581,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123130,
+      "num": 123130,
+      "word": "雨霖铃",
+      "onboard_time": 1765880361,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 123035,
@@ -1443,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116490,
-      "num": 116490,
-      "word": "刘亦菲的脚 脚中刘亦菲",
-      "onboard_time": 1765878262,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115861,
       "num": 115861,
       "word": "金饰克价涨到1353元",
@@ -1481,6 +1561,14 @@
       "onboard_time": 1765862062,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115138,
+      "num": 115138,
+      "word": "范丞丞意大利vlog",
+      "onboard_time": 1765880720,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114210,
@@ -1707,6 +1795,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "雪王去了美国也得加200%的糖",
+      "onboard_time": 1765880780,
+      "rank": 42,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 102019,
       "num": 102019,
       "word": "杨洋雨霖铃即将上线播出预告",
@@ -1739,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98839,
+      "num": 98839,
+      "word": "360称财务造假等言论失实",
+      "onboard_time": 1765881142,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97965,
       "num": 97965,
       "word": "原来这么多人都薅到了生日礼",
@@ -1753,6 +1857,22 @@
       "onboard_time": 1765841237,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96772,
+      "num": 96772,
+      "word": "老己 考研辛苦了",
+      "onboard_time": 1765880361,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 96640,
+      "num": 96640,
+      "word": "生命树",
+      "onboard_time": 1765878921,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 96423,
@@ -1907,12 +2027,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91321,
+      "num": 91321,
+      "word": "猫 你出门花了一个月",
+      "onboard_time": 1765878982,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90930,
       "num": 123035,
       "word": "暧昧期的男人也是福尔摩斯",
       "onboard_time": 1765863861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90571,
+      "num": 90571,
+      "word": "高盛称明年股市的最大机会不在AI",
+      "onboard_time": 1765880960,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 89901,
@@ -1985,6 +2121,14 @@
       "onboard_time": 1765795162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85183,
+      "num": 103440,
+      "word": "肖战说很感谢解读得闲的观众",
+      "onboard_time": 1765879340,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 84946,
@@ -2355,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60429,
+      "num": 196133,
+      "word": "蚂蚁阿福冲上苹果应用总榜第三",
+      "onboard_time": 1765879281,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60159,
       "num": 123032,
       "word": "成毅谢淮安角色热度冠军",
@@ -2555,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40701,
+      "num": 220955,
+      "word": "我国自研世界最大直径高铁盾构机新突破",
+      "onboard_time": 1765873643,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40202,
       "num": 205774,
       "word": "门口遇害案母亲穿女儿选的衣服出庭",
@@ -2659,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34993,
+      "num": 105396,
+      "word": "男子82万打赏女主播妻子要回41万",
+      "onboard_time": 1765880361,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33818,
       "num": 51092,
       "word": "刘宇宁邪恶小猫发力中",
@@ -2713,6 +2881,14 @@
       "onboard_time": 1765819096,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30854,
+      "num": 107730,
+      "word": "央视曝光天价疗养院骗局",
+      "onboard_time": 1765880422,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30694,
@@ -2851,12 +3027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22582,
-      "num": 177725,
-      "word": "我国自研世界最大直径高铁盾构机新突破",
-      "onboard_time": 1765873643,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 23203,
+      "num": 105891,
+      "word": "法国1分钱红酒激怒酒商",
+      "onboard_time": 1765880660,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22537,
