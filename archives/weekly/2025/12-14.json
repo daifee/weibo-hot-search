@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765885330944,
+  "endTime": 1765889959234,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -211,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 977338,
+      "num": 167576,
+      "word": "虞书欣泰国红毯压轴",
+      "onboard_time": 1765888040,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 931339,
       "num": 1149014,
       "word": "日本将不再有大熊猫",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 892329,
-      "num": 163747,
+      "num": 164371,
       "word": "刘亦菲的脚 脚中刘亦菲",
       "onboard_time": 1765878262,
       "rank": 36,
@@ -731,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591822,
+      "num": 166928,
+      "word": "柬埔寨",
+      "onboard_time": 1765888462,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 586320,
       "num": 586320,
       "word": "老舅",
@@ -745,6 +761,14 @@
       "onboard_time": 1765714643,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581419,
+      "num": 166699,
+      "word": "鞠婧祎方艾特丝芭",
+      "onboard_time": 1765887921,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 580247,
@@ -913,6 +937,14 @@
       "onboard_time": 1765687643,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526861,
+      "num": 165930,
+      "word": "张凯丽特意换掉留了12年的短发",
+      "onboard_time": 1765884921,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 526626,
@@ -1227,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429782,
+      "num": 225980,
+      "word": "央视起底走私孕妇血样黑产链",
+      "onboard_time": 1765886421,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 428064,
       "num": 428064,
       "word": "麦当劳涨价",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1765880780,
       "rank": 42,
       "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 367799,
+      "num": 234805,
+      "word": "男子肺炎住院2天突发狂躁后死亡",
+      "onboard_time": 1765886421,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367418,
@@ -1843,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306283,
+      "num": 198813,
+      "word": "王源抢票",
+      "onboard_time": 1765885881,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 302266,
       "num": 270841,
       "word": "秦俊杰是去体制内进修过吧",
@@ -2059,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277706,
+      "num": 277706,
+      "word": "男子电竞馆猝死家属索赔157万",
+      "onboard_time": 1765883782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277185,
       "num": 217479,
       "word": "曝TOP出道秀人面试恋综",
@@ -2068,7 +2132,7 @@
     },
     {
       "raw_hot": 276398,
-      "num": 157061,
+      "num": 162781,
       "word": "身体有炎症时要少吃的4种食物",
       "onboard_time": 1765879042,
       "rank": 26,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1765759161,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268293,
+      "num": 163882,
+      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+      "onboard_time": 1765883421,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 268253,
@@ -2515,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241938,
+      "num": 163411,
+      "word": "肖战直播",
+      "onboard_time": 1765889182,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238556,
       "num": 147721,
       "word": "沈腾在意大利吃冰淇淋吃伤了",
@@ -2777,6 +2857,14 @@
       "onboard_time": 1765686983,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218817,
+      "num": 163261,
+      "word": "荣耀GT系列升级为荣耀WIN",
+      "onboard_time": 1765887620,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 218003,
@@ -3203,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198936,
+      "num": 184334,
+      "word": "将门毒后",
+      "onboard_time": 1765889361,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198485,
       "num": 198485,
       "word": "DeepSeek崩了",
@@ -3443,6 +3539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189434,
+      "num": 165303,
+      "word": "女子1万多买二手苹果14还充不进电",
+      "onboard_time": 1765884861,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189341,
       "num": 189341,
       "word": "光明网 李沛恩新歌",
@@ -3628,7 +3732,7 @@
     },
     {
       "raw_hot": 185020,
-      "num": 130591,
+      "num": 162511,
       "word": "卢昱晓好薄一片",
       "onboard_time": 1765884682,
       "rank": 31,
@@ -4179,14 +4283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163121,
-      "num": 164137,
-      "word": "男子电竞馆猝死家属索赔157万",
-      "onboard_time": 1765883782,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162990,
       "num": 163915,
       "word": "杨瀚森18分10篮板4助攻",
@@ -4249,6 +4345,22 @@
       "onboard_time": 1765723462,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159909,
+      "num": 159909,
+      "word": "狙击蝴蝶 戒断",
+      "onboard_time": 1765888161,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159776,
+      "num": 159776,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1765888822,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 159590,
@@ -4491,6 +4603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154190,
+      "num": 154190,
+      "word": "原来喝苹果水有这么多好处",
+      "onboard_time": 1765886120,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "汕头火灾独自逃生10岁女孩整日哭",
@@ -4665,14 +4785,6 @@
       "onboard_time": 1765744693,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147929,
-      "num": 147929,
-      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
-      "onboard_time": 1765883421,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 147194,
@@ -5499,14 +5611,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 130116,
-      "num": 130116,
-      "word": "张凯丽特意换掉留了12年的短发",
-      "onboard_time": 1765884921,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129932,
       "num": 129932,
       "word": "第一次知道老家特产有多牛",
@@ -6035,6 +6139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118944,
+      "num": 118944,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1765885700,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118616,
       "num": 118616,
       "word": "遭索要奖金运动员去年被记大功",
@@ -6193,6 +6305,14 @@
       "onboard_time": 1765772181,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116142,
+      "num": 116142,
+      "word": "科学家终于揭开百慕大三角之谜",
+      "onboard_time": 1765889182,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116128,
@@ -6723,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106930,
+      "num": 114921,
+      "word": "轰动整个阅卷组的试卷",
+      "onboard_time": 1765886841,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106695,
       "num": 106695,
       "word": "第一次看到这么小的海豚宝宝",
@@ -7249,6 +7377,14 @@
       "onboard_time": 1765718724,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97037,
+      "num": 164864,
+      "word": "眼睛度数能不能恢复出厂设置",
+      "onboard_time": 1765888940,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 96874,
@@ -7899,6 +8035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88038,
+      "num": 164443,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87100,
       "num": 87100,
       "word": "谁能先取消暂停广告放大",
@@ -8267,6 +8411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79691,
+      "num": 162560,
+      "word": "Baolan说T1野辅是历史最厉害的",
+      "onboard_time": 1765889662,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79590,
       "num": 134388,
       "word": "日本人的晚餐",
@@ -8571,6 +8723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71831,
+      "num": 116138,
+      "word": "民政局回应女子离世买墓地需审定",
+      "onboard_time": 1765887620,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71570,
       "num": 94304,
       "word": "中国留学生为躲海滩枪击腿都跑软了",
@@ -8793,6 +8953,14 @@
       "onboard_time": 1765846760,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64807,
+      "num": 113458,
+      "word": "男子花近40万经络按摩妻子怒了",
+      "onboard_time": 1765886061,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64736,
@@ -9307,6 +9475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 53033,
+      "num": 149751,
+      "word": "周柯宇回复剧粉",
+      "onboard_time": 1765889361,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52537,
       "num": 42704,
       "word": "孙颖莎王楚钦笑着退场",
@@ -9329,6 +9505,14 @@
       "onboard_time": 1765720885,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 51042,
+      "num": 146698,
+      "word": "迪桑特活动三大男神同框",
+      "onboard_time": 1765888101,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 50576,
@@ -9521,6 +9705,14 @@
       "onboard_time": 1765773024,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43316,
+      "num": 164612,
+      "word": "汤唯Burberry电影感",
+      "onboard_time": 1765888521,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43247,
@@ -9955,6 +10147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33801,
+      "num": 113843,
+      "word": "谁来管管何与",
+      "onboard_time": 1765888462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33789,
       "num": 60080,
       "word": "回顾2025",
@@ -10265,6 +10465,14 @@
       "onboard_time": 1765744813,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 28644,
+      "num": 163118,
+      "word": "威神V和V头鞋有多智酷",
+      "onboard_time": 1765887201,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28506,
@@ -10633,6 +10841,14 @@
       "onboard_time": 1765832593,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18575,
+      "num": 260903,
+      "word": "海南自贸港18日起正式启动全岛封关",
+      "onboard_time": 1765854140,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18340,
