@@ -1,10 +1,10 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765850800770,
+  "endTime": 1765852217824,
   "band_list": [
     {
       "raw_hot": 725051,
-      "num": 148223,
+      "num": 163342,
       "word": "妻子骨折生蛆死亡丈夫辩称不知情",
       "onboard_time": 1765812020,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649368,
+      "num": 143966,
+      "word": "金价",
+      "onboard_time": 1765844901,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 645936,
       "num": 645936,
       "word": "警方通报一警车下来3人牵着宠物狗",
@@ -27,12 +35,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 624041,
-      "num": 134906,
-      "word": "金价",
-      "onboard_time": 1765844901,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 586320,
+      "num": 586320,
+      "word": "老舅",
+      "onboard_time": 1765848201,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 481499,
@@ -51,16 +59,24 @@
       "category": "电影"
     },
     {
-      "raw_hot": 459651,
-      "num": 459651,
-      "word": "老舅",
-      "onboard_time": 1765848201,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 453764,
+      "num": 443550,
+      "word": "中华书局下架召回唐诗三百首",
+      "onboard_time": 1765846581,
+      "rank": 5,
+      "category": "读书作家,民生新闻"
+    },
+    {
+      "raw_hot": 425740,
+      "num": 143926,
+      "word": "A股",
+      "onboard_time": 1765851560,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 420397,
-      "num": 327916,
+      "num": 407200,
       "word": "狙击蝴蝶 那天晚上展开说说",
       "onboard_time": 1765847721,
       "rank": 6,
@@ -83,12 +99,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 370715,
-      "num": 370715,
-      "word": "中华书局下架召回唐诗三百首",
-      "onboard_time": 1765846581,
-      "rank": 5,
-      "category": "读书作家,民生新闻"
+      "raw_hot": 354808,
+      "num": 158894,
+      "word": "田曦薇跑步的神",
+      "onboard_time": 1765849460,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347758,
+      "num": 156570,
+      "word": "3000多人被养生骗走5亿元",
+      "onboard_time": 1765850000,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316308,
@@ -105,14 +129,6 @@
       "onboard_time": 1765795582,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306024,
-      "num": 147796,
-      "word": "田曦薇跑步的神",
-      "onboard_time": 1765849460,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 305545,
@@ -147,28 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262139,
+      "num": 143909,
+      "word": "劣质碳水是慢性炎症推手",
+      "onboard_time": 1765848621,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246361,
-      "num": 147659,
+      "num": 151703,
       "word": "原来接吻还有这么多讲究",
       "onboard_time": 1765843940,
       "rank": 12,
       "category": "幽默"
     },
     {
+      "raw_hot": 246310,
+      "num": 154998,
+      "word": "杨幂生万物提名最佳女主",
+      "onboard_time": 1765850301,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238556,
-      "num": 147493,
+      "num": 147721,
       "word": "沈腾在意大利吃冰淇淋吃伤了",
       "onboard_time": 1765843340,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231595,
-      "num": 134844,
-      "word": "劣质碳水是慢性炎症推手",
-      "onboard_time": 1765848621,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 227751,
@@ -195,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200954,
+      "num": 149113,
+      "word": "按摩拒绝男技师遭嘲讽女子发声",
+      "onboard_time": 1765850781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199366,
       "num": 199366,
       "word": "GEN首位中援Cryin",
@@ -211,8 +243,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196938,
+      "num": 143863,
+      "word": "人间有味官宣胡歌李沁",
+      "onboard_time": 1765851981,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192057,
-      "num": 134797,
+      "num": 143797,
       "word": "慢性炎症会唤醒休眠的癌细胞",
       "onboard_time": 1765840637,
       "rank": 20,
@@ -227,28 +267,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163510,
-      "num": 146960,
-      "word": "杨幂生万物提名最佳女主",
-      "onboard_time": 1765850301,
-      "rank": 15,
+      "raw_hot": 176200,
+      "num": 143826,
+      "word": "成毅长安二十四计总冠名",
+      "onboard_time": 1765851500,
+      "rank": 24,
       "category": "剧集"
     },
     {
       "raw_hot": 162990,
-      "num": 162990,
+      "num": 163915,
       "word": "杨瀚森18分10篮板4助攻",
       "onboard_time": 1765844661,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158130,
-      "num": 146758,
-      "word": "3000多人被养生骗走5亿元",
-      "onboard_time": 1765850000,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154569,
@@ -257,6 +289,30 @@
       "onboard_time": 1765809082,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145081,
+      "num": 111245,
+      "word": "郑恺问苗苗今天为什么要化妆",
+      "onboard_time": 1765851799,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144019,
+      "num": 144019,
+      "word": "日本不需要把国家带向战争的首相",
+      "onboard_time": 1765850781,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 143767,
+      "num": 143767,
+      "word": "人间有味",
+      "onboard_time": 1765851799,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 143321,
@@ -379,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96411,
+      "num": 96411,
+      "word": "孙颖莎本赛季国际赛事11冠",
+      "onboard_time": 1765851680,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95384,
       "num": 95384,
       "word": "你信任的装修博主可能是AI夫妻",
@@ -393,6 +457,14 @@
       "onboard_time": 1765797500,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94298,
+      "num": 94298,
+      "word": "明孝陵朱元璋帅版画像展板被划",
+      "onboard_time": 1765850840,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94231,
@@ -427,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86565,
+      "num": 86565,
+      "word": "母女空难身亡前夫打官司争遗产",
+      "onboard_time": 1765850899,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86186,
       "num": 91595,
       "word": "鞠婧祎声明",
@@ -435,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84946,
+      "num": 84946,
+      "word": "35万的玛莎拉蒂卖1辆亏1辆",
+      "onboard_time": 1765850421,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83042,
       "num": 103222,
       "word": "桃黑黑中奖名单 没有我",
       "onboard_time": 1765816099,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 82785,
+      "num": 82785,
+      "word": "陈妍希说姐姐永远是姐姐",
+      "onboard_time": 1765851981,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 82083,
@@ -457,6 +553,14 @@
       "onboard_time": 1765802302,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 81639,
+      "num": 81639,
+      "word": "宠物友好酒店 提灯定损",
+      "onboard_time": 1765851920,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81352,
@@ -515,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75064,
+      "num": 75064,
+      "word": "曝UP输LNG幕后故事",
+      "onboard_time": 1765851140,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74258,
       "num": 67230,
       "word": "赵本山女儿球球回应生二胎",
@@ -561,14 +673,6 @@
       "onboard_time": 1765809804,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67916,
-      "num": 67916,
-      "word": "35万的玛莎拉蒂卖1辆亏1辆",
-      "onboard_time": 1765850421,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 67360,
@@ -625,6 +729,14 @@
       "onboard_time": 1765836915,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64155,
+      "num": 146256,
+      "word": "向全世界安利这个我",
+      "onboard_time": 1765851441,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 63421,
@@ -851,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31877,
+      "num": 144019,
+      "word": "女子家门口遇害案一审再次开庭",
+      "onboard_time": 1765851080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31824,
       "num": 46773,
       "word": "打扮历史附会现实的流量生意当止",
@@ -985,6 +1105,14 @@
       "onboard_time": 1765805244,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8324,
+      "num": 86981,
+      "word": "苏有朋重返唱跳舞台练瘦16斤",
+      "onboard_time": 1765852040,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
