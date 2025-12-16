@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765864017938,
+  "endTime": 1765867452633,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -9,6 +9,14 @@
       "onboard_time": 1765856481,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1193007,
+      "num": 144241,
+      "word": "许亚军被曝在美国",
+      "onboard_time": 1765865601,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1178857,
@@ -25,6 +33,14 @@
       "onboard_time": 1765812020,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 691376,
+      "num": 218538,
+      "word": "杨幂大学上形体课照片",
+      "onboard_time": 1765862840,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 649689,
@@ -57,14 +73,6 @@
       "onboard_time": 1765844661,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 624063,
-      "num": 218538,
-      "word": "杨幂大学上形体课照片",
-      "onboard_time": 1765862840,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 623314,
@@ -177,6 +185,14 @@
       "onboard_time": 1765855161,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 434254,
+      "num": 434254,
+      "word": "悉尼枪击事件中英勇夺枪男子留遗言",
+      "onboard_time": 1765862062,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 430759,
@@ -347,6 +363,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283060,
+      "num": 283060,
+      "word": "余承东任华为终端公司董事长",
+      "onboard_time": 1765864281,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 277185,
+      "num": 217479,
+      "word": "曝TOP出道秀人面试恋综",
+      "onboard_time": 1765862002,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264228,
       "num": 124667,
       "word": "张韶涵新旧发型师差距太大了",
@@ -411,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246061,
-      "num": 217479,
-      "word": "曝TOP出道秀人面试恋综",
-      "onboard_time": 1765862002,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 239309,
+      "num": 164748,
+      "word": "成毅长安二十四计追剧团造型",
+      "onboard_time": 1765866440,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 238556,
@@ -467,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220641,
+      "num": 220641,
+      "word": "湖南卫视零下12度官宣冰雪之夜",
+      "onboard_time": 1765864644,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216821,
+      "num": 216821,
+      "word": "李雾回来已经过了25了",
+      "onboard_time": 1765864644,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214537,
       "num": 214537,
       "word": "美国蜜雪冰城糖度",
@@ -497,6 +545,14 @@
       "onboard_time": 1765858223,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204422,
+      "num": 140077,
+      "word": "以为很健康实则免疫力低的表现",
+      "onboard_time": 1765866440,
+      "rank": 26,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 201638,
@@ -561,6 +617,14 @@
       "onboard_time": 1765856901,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190408,
+      "num": 163723,
+      "word": "汪东城曾沛慈玫瑰大盗",
+      "onboard_time": 1765866621,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 188619,
@@ -731,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148442,
-      "num": 219373,
-      "word": "悉尼枪击事件中英勇夺枪男子留遗言",
-      "onboard_time": 1765862062,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 146383,
       "num": 146383,
       "word": "双轨剧集热度TOP1",
       "onboard_time": 1765862002,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145287,
+      "num": 145287,
+      "word": "天价救护车涉事医院被罚没8.7万",
+      "onboard_time": 1765866381,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 143767,
@@ -787,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141139,
+      "num": 141139,
+      "word": "怪不得衣服买回去穿不出店里效果",
+      "onboard_time": 1765859421,
+      "rank": 40,
+      "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 139882,
+      "num": 139882,
+      "word": "陈伟霆一句话送走胡先煦范丞丞",
+      "onboard_time": 1765866440,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136400,
       "num": 136400,
       "word": "徐冬冬120斤每天两碗米饭",
@@ -827,14 +907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133875,
-      "num": 133875,
-      "word": "怪不得衣服买回去穿不出店里效果",
-      "onboard_time": 1765859421,
-      "rank": 40,
-      "category": "时尚,幽默"
-    },
-    {
       "raw_hot": 133759,
       "num": 133759,
       "word": "全人类进入水仙时代",
@@ -857,6 +929,38 @@
       "onboard_time": 1765808903,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132642,
+      "num": 132642,
+      "word": "樊振东庆祝动作出现人传人现象",
+      "onboard_time": 1765866501,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131743,
+      "num": 131743,
+      "word": "人民币又大涨",
+      "onboard_time": 1765867101,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131157,
+      "num": 131157,
+      "word": "商场被指吓人悬空大衣已撤下",
+      "onboard_time": 1765864341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129126,
+      "num": 129126,
+      "word": "王俊凯一抬手全场安静",
+      "onboard_time": 1765866260,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 126044,
@@ -907,6 +1011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121900,
+      "num": 121900,
+      "word": "岑矜错过了李雾最好用的6年",
+      "onboard_time": 1765866381,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119080,
       "num": 119080,
       "word": "4岁被拐21年后认亲果断卖房回归",
@@ -955,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114210,
+      "num": 114210,
+      "word": "豆包手机为何被封杀",
+      "onboard_time": 1765866501,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113911,
       "num": 174845,
       "word": "我说不舒服AI竟追问12次",
@@ -977,6 +1097,14 @@
       "onboard_time": 1765856782,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110974,
+      "num": 110974,
+      "word": "以前抵抗力与现在抵抗力的区别",
+      "onboard_time": 1765866440,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 110949,
@@ -1017,6 +1145,14 @@
       "onboard_time": 1765791501,
       "rank": 6,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 106311,
+      "num": 106311,
+      "word": "苹果数十款新品遭泄密",
+      "onboard_time": 1765865181,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 104682,
@@ -1067,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102952,
+      "num": 102952,
+      "word": "柬军士兵猛烈扫射一只鸡意外抢镜",
+      "onboard_time": 1765864103,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101289,
       "num": 111117,
       "word": "肖战尹正旗杆下对峙戏",
@@ -1115,12 +1259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95301,
+      "num": 95301,
+      "word": "一人之下",
+      "onboard_time": 1765865960,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 95202,
       "num": 95202,
       "word": "这居然是张凯丽",
       "onboard_time": 1765797500,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94910,
+      "num": 94910,
+      "word": "内娱首个央视播出的老外免签综艺",
+      "onboard_time": 1765864341,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 94392,
@@ -1179,11 +1339,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91059,
+      "num": 91059,
+      "word": "苏醒的表情演都不演了",
+      "onboard_time": 1765867401,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90930,
       "num": 123035,
       "word": "暧昧期的男人也是福尔摩斯",
       "onboard_time": 1765863861,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89538,
+      "num": 92606,
+      "word": "双轨昏头吻来了我也昏头了",
+      "onboard_time": 1765865782,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1225,6 +1401,14 @@
       "onboard_time": 1765850421,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83541,
+      "num": 140208,
+      "word": "智残村民被任命为村支书当了老赖",
+      "onboard_time": 1765866021,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 83042,
@@ -1739,6 +1923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32866,
+      "num": 114300,
+      "word": "我要继续去当她的小男孩儿了",
+      "onboard_time": 1765866982,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32236,
+      "num": 144713,
+      "word": "刘雨昕亮相迪奥北京旗舰店",
+      "onboard_time": 1765865122,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 31975,
       "num": 531497,
       "word": "家门口的民生议事厅",
@@ -1787,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28126,
+      "num": 117065,
+      "word": "家门口遇害案被告家属称两个家毁了",
+      "onboard_time": 1765866861,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27529,
       "num": 42947,
       "word": "老师鼓励学生互相举报遭家长质疑",
@@ -1819,6 +2027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25330,
+      "num": 114548,
+      "word": "全球航司排队来海南修飞机",
+      "onboard_time": 1765867222,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25290,
       "num": 114439,
       "word": "乔任梁爸爸出院了",
@@ -1841,6 +2057,22 @@
       "onboard_time": 1765863261,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 24590,
+      "num": 141855,
+      "word": "27岁女孩遇害551天母亲满头白发",
+      "onboard_time": 1765867222,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21559,
+      "num": 239140,
+      "word": "海南电力输送能力提升超4倍",
+      "onboard_time": 1765860562,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18805,
@@ -1953,14 +2185,6 @@
       "onboard_time": 1765852040,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7441,
-      "num": 239140,
-      "word": "海南电力输送能力提升超4倍",
-      "onboard_time": 1765860562,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6339,

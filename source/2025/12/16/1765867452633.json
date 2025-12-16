@@ -1,0 +1,410 @@
+{
+  "runTime": 1765867452633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 548371,
+        "num": 1087739,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434254,
+        "num": 434254,
+        "word": "悉尼枪击事件中英勇夺枪男子留遗言",
+        "onboard_time": 1765862062,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21704,
+        "num": 353745,
+        "word": "中国农村的科技含量越来越高",
+        "onboard_time": 1765808122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283060,
+        "num": 283060,
+        "word": "余承东任华为终端公司董事长",
+        "onboard_time": 1765864281,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266442,
+        "num": 266442,
+        "word": "恋与深空回应被指恶俗",
+        "onboard_time": 1765862121,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220641,
+        "num": 220641,
+        "word": "湖南卫视零下12度官宣冰雪之夜",
+        "onboard_time": 1765864644,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 218521,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216821,
+        "num": 216821,
+        "word": "李雾回来已经过了25了",
+        "onboard_time": 1765864644,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21559,
+        "num": 191040,
+        "word": "海南电力输送能力提升超4倍",
+        "onboard_time": 1765860562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 175621,
+        "word": "孟晚舟卸任华为终端公司董事",
+        "onboard_time": 1765860803,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 691376,
+        "num": 175556,
+        "word": "杨幂大学上形体课照片",
+        "onboard_time": 1765862840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540104,
+        "num": 171584,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277185,
+        "num": 170635,
+        "word": "曝TOP出道秀人面试恋综",
+        "onboard_time": 1765862002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271164,
+        "num": 167959,
+        "word": "频繁做美甲 伤害不可逆",
+        "onboard_time": 1765859183,
+        "rank": 13,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 239309,
+        "num": 164748,
+        "word": "成毅长安二十四计追剧团造型",
+        "onboard_time": 1765866440,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190408,
+        "num": 163723,
+        "word": "汪东城曾沛慈玫瑰大盗",
+        "onboard_time": 1765866621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162291,
+        "num": 162291,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145287,
+        "num": 145287,
+        "word": "天价救护车涉事医院被罚没8.7万",
+        "onboard_time": 1765866381,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32236,
+        "num": 144713,
+        "word": "刘雨昕亮相迪奥北京旗舰店",
+        "onboard_time": 1765865122,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1193007,
+        "num": 144241,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443447,
+        "num": 143530,
+        "word": "张根硕抗癌成功",
+        "onboard_time": 1765860863,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290164,
+        "num": 142036,
+        "word": "姚明15岁女儿身高近2米",
+        "onboard_time": 1765858282,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24590,
+        "num": 141855,
+        "word": "27岁女孩遇害551天母亲满头白发",
+        "onboard_time": 1765867222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141139,
+        "num": 141139,
+        "word": "怪不得衣服买回去穿不出店里效果",
+        "onboard_time": 1765859421,
+        "rank": 24,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 83541,
+        "num": 140208,
+        "word": "智残村民被任命为村支书当了老赖",
+        "onboard_time": 1765866021,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 204422,
+        "num": 140077,
+        "word": "以为很健康实则免疫力低的表现",
+        "onboard_time": 1765866440,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 170315,
+        "num": 140028,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 139882,
+        "word": "陈伟霆一句话送走胡先煦范丞丞",
+        "onboard_time": 1765866440,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132642,
+        "num": 132642,
+        "word": "樊振东庆祝动作出现人传人现象",
+        "onboard_time": 1765866501,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131743,
+        "num": 131743,
+        "word": "人民币又大涨",
+        "onboard_time": 1765867101,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131157,
+        "num": 131157,
+        "word": "商场被指吓人悬空大衣已撤下",
+        "onboard_time": 1765864341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129126,
+        "num": 129126,
+        "word": "王俊凯一抬手全场安静",
+        "onboard_time": 1765866260,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "徐冬冬120斤每天两碗米饭",
+        "onboard_time": 1765863621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "岑矜错过了李雾最好用的6年",
+        "onboard_time": 1765866381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120764,
+        "num": 120764,
+        "word": "周柯宇陈鑫海 内娱双胞胎",
+        "onboard_time": 1765858341,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28126,
+        "num": 117065,
+        "word": "家门口遇害案被告家属称两个家毁了",
+        "onboard_time": 1765866861,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25330,
+        "num": 114548,
+        "word": "全球航司排队来海南修飞机",
+        "onboard_time": 1765867222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32866,
+        "num": 114300,
+        "word": "我要继续去当她的小男孩儿了",
+        "onboard_time": 1765866982,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114210,
+        "num": 114210,
+        "word": "豆包手机为何被封杀",
+        "onboard_time": 1765866501,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113463,
+        "num": 113463,
+        "word": "吴秀波被执行6200万",
+        "onboard_time": 1765857801,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110974,
+        "num": 110974,
+        "word": "以前抵抗力与现在抵抗力的区别",
+        "onboard_time": 1765866440,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 108465,
+        "word": "研究发现秦人鼻子宽面形低",
+        "onboard_time": 1765863981,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106311,
+        "num": 106311,
+        "word": "苹果数十款新品遭泄密",
+        "onboard_time": 1765865181,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102952,
+        "num": 102952,
+        "word": "柬军士兵猛烈扫射一只鸡意外抢镜",
+        "onboard_time": 1765864103,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96689,
+        "num": 96689,
+        "word": "妹妹被收养哥哥守了她7年",
+        "onboard_time": 1765857502,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95301,
+        "num": 95301,
+        "word": "一人之下",
+        "onboard_time": 1765865960,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94910,
+        "num": 94910,
+        "word": "内娱首个央视播出的老外免签综艺",
+        "onboard_time": 1765864341,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89538,
+        "num": 92606,
+        "word": "双轨昏头吻来了我也昏头了",
+        "onboard_time": 1765865782,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91059,
+        "num": 91059,
+        "word": "苏醒的表情演都不演了",
+        "onboard_time": 1765867401,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#引导广大未成年人树立远大理想#"
+    }
+  }
+}
