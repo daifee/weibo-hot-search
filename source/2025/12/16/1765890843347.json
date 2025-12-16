@@ -1,0 +1,410 @@
+{
+  "runTime": 1765890843347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 448166,
+        "num": 1071706,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 175313,
+        "num": 327286,
+        "word": "国剧盛典",
+        "onboard_time": 1765890562,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22202,
+        "num": 273556,
+        "word": "海南自贸港18日起正式启动全岛封关",
+        "onboard_time": 1765854140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231407,
+        "num": 231407,
+        "word": "王源抢票",
+        "onboard_time": 1765885881,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177376,
+        "num": 230814,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 4,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 261185,
+        "num": 230794,
+        "word": "将门毒后",
+        "onboard_time": 1765889361,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161194,
+        "num": 230702,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 6,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 230698,
+        "num": 230698,
+        "word": "男子电竞馆猝死家属索赔157万",
+        "onboard_time": 1765883782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381508,
+        "num": 230028,
+        "word": "男子肺炎住院2天突发狂躁后死亡",
+        "onboard_time": 1765886421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490918,
+        "num": 228309,
+        "word": "央视起底走私孕妇血样黑产链",
+        "onboard_time": 1765886421,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159599,
+        "num": 226406,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765885700,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1125570,
+        "num": 224701,
+        "word": "虞书欣泰国红毯压轴",
+        "onboard_time": 1765888040,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 914284,
+        "num": 223272,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147982,
+        "num": 220861,
+        "word": "生育成本社会共担来了",
+        "onboard_time": 1765874361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584640,
+        "num": 219247,
+        "word": "鞠婧祎方艾特丝芭",
+        "onboard_time": 1765887921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285414,
+        "num": 218062,
+        "word": "女子1万多买二手苹果14还充不进电",
+        "onboard_time": 1765884861,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 216610,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146333,
+        "num": 214116,
+        "word": "轰动整个阅卷组的试卷",
+        "onboard_time": 1765886841,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38804,
+        "num": 213533,
+        "word": "汤唯Burberry电影感",
+        "onboard_time": 1765888521,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144296,
+        "num": 210990,
+        "word": "女员工拒洗窗帘硬杠董事长被降职",
+        "onboard_time": 1765889662,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635258,
+        "num": 210020,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466714,
+        "num": 207307,
+        "word": "张凯丽特意换掉留了12年的短发",
+        "onboard_time": 1765884921,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372866,
+        "num": 206383,
+        "word": "肖战直播",
+        "onboard_time": 1765889182,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328320,
+        "num": 203831,
+        "word": "将门毒后 祝绪丹汪铎",
+        "onboard_time": 1765884261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324609,
+        "num": 203051,
+        "word": "丝芭回应鞠婧祎",
+        "onboard_time": 1765878861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262038,
+        "num": 201338,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 199733,
+        "word": "vivoS50痛店不基础店长更不基础",
+        "onboard_time": 1765890622,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151681,
+        "num": 197714,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25196,
+        "num": 195321,
+        "word": "威神V和V头鞋有多智酷",
+        "onboard_time": 1765887201,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 193378,
+        "word": "荣耀GT系列升级为荣耀WIN",
+        "onboard_time": 1765887620,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 257467,
+        "num": 191732,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191661,
+        "num": 191661,
+        "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+        "onboard_time": 1765883421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196453,
+        "num": 186275,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 178509,
+        "word": "沈佳润这孩子真让人踏实",
+        "onboard_time": 1765890202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175843,
+        "num": 175843,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170648,
+        "num": 170648,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163378,
+        "num": 163378,
+        "word": "原来喝苹果水有这么多好处",
+        "onboard_time": 1765886120,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42890,
+        "num": 153661,
+        "word": "迪桑特活动三大男神同框",
+        "onboard_time": 1765888101,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52141,
+        "num": 151923,
+        "word": "首家泼水成冰工作室日赚上万元",
+        "onboard_time": 1765890202,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150650,
+        "num": 150650,
+        "word": "卢昱晓好薄一片",
+        "onboard_time": 1765884682,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148616,
+        "num": 148616,
+        "word": "狙击蝴蝶 戒断",
+        "onboard_time": 1765888161,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126929,
+        "num": 126929,
+        "word": "科学家终于揭开百慕大三角之谜",
+        "onboard_time": 1765889182,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116948,
+        "num": 116948,
+        "word": "肖战回应得闲谨制和藏海传梦幻联动",
+        "onboard_time": 1765890681,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92773,
+        "num": 116269,
+        "word": "周柯宇回复剧粉",
+        "onboard_time": 1765889361,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115612,
+        "num": 115612,
+        "word": "胡歌李沁开机照",
+        "onboard_time": 1765877901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 113686,
+        "word": "长安二十四计豆瓣评论异常",
+        "onboard_time": 1765882583,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101523,
+        "num": 101523,
+        "word": "眼睛度数能不能恢复出厂设置",
+        "onboard_time": 1765888940,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92415,
+        "num": 92415,
+        "word": "性格内向的朋友们狠狠共鸣了",
+        "onboard_time": 1765884561,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91959,
+        "num": 91959,
+        "word": "欧盟将放弃2035年内燃机禁令",
+        "onboard_time": 1765890562,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86802,
+        "num": 86802,
+        "word": "Baolan说T1野辅是历史最厉害的",
+        "onboard_time": 1765889662,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
