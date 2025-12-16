@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765882229948,
+  "endTime": 1765884473638,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 892329,
-      "num": 155873,
+      "num": 163747,
       "word": "刘亦菲的脚 脚中刘亦菲",
       "onboard_time": 1765878262,
       "rank": 36,
@@ -163,6 +163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 619231,
+      "num": 264614,
+      "word": "将门毒后 祝绪丹汪铎",
+      "onboard_time": 1765884261,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610438,
       "num": 215465,
       "word": "张根硕抗癌成功",
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496437,
+      "num": 257170,
+      "word": "女子称丈夫被骗1日接受13人次服务",
+      "onboard_time": 1765879822,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495869,
       "num": 495869,
       "word": "孟晚舟卸任华为终端公司董事",
@@ -224,14 +240,6 @@
       "word": "被害女孩临终遗言我被捅刀了",
       "onboard_time": 1765858341,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486592,
-      "num": 226064,
-      "word": "女子称丈夫被骗1日接受13人次服务",
-      "onboard_time": 1765879822,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368989,
+      "num": 248149,
+      "word": "雪王去了美国也得加200%的糖",
+      "onboard_time": 1765880780,
+      "rank": 42,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 367418,
       "num": 253904,
       "word": "姚明15岁女儿身高近2米",
@@ -457,6 +473,14 @@
       "onboard_time": 1765876342,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322897,
+      "num": 145942,
+      "word": "倪萍在故宫听到张学良的名字震惊了",
+      "onboard_time": 1765881562,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 316308,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276398,
+      "num": 157061,
+      "word": "身体有炎症时要少吃的4种食物",
+      "onboard_time": 1765879042,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 267239,
       "num": 198724,
       "word": "黄子韬曝男明星群都在内卷健身",
@@ -593,14 +625,6 @@
       "onboard_time": 1765857742,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259736,
-      "num": 146468,
-      "word": "身体有炎症时要少吃的4种食物",
-      "onboard_time": 1765879042,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 257021,
@@ -755,6 +779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217061,
+      "num": 196906,
+      "word": "长安二十四计豆瓣评论异常",
+      "onboard_time": 1765882583,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214537,
       "num": 214537,
       "word": "美国蜜雪冰城糖度",
@@ -785,6 +817,22 @@
       "onboard_time": 1765858223,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205453,
+      "num": 190451,
+      "word": "双轨首个内娱男女混团",
+      "onboard_time": 1765881862,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205002,
+      "num": 185125,
+      "word": "今年冬天会遇见心软的伞兵吗",
+      "onboard_time": 1765883961,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 204422,
@@ -916,7 +964,7 @@
     },
     {
       "raw_hot": 190967,
-      "num": 146293,
+      "num": 152429,
       "word": "流量明星 中度抽动症",
       "onboard_time": 1765880842,
       "rank": 27,
@@ -1051,12 +1099,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170559,
-      "num": 126640,
-      "word": "倪萍在故宫听到张学良的名字震惊了",
-      "onboard_time": 1765881562,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 169705,
+      "num": 153358,
+      "word": "王俊凯给粉丝的感觉",
+      "onboard_time": 1765884381,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168915,
+      "num": 168915,
+      "word": "雨霖铃",
+      "onboard_time": 1765880361,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167980,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1765862782,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "虞书欣这扑通一声",
+      "onboard_time": 1765878982,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 163538,
@@ -1187,6 +1251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 144305,
+      "num": 284395,
+      "word": "360将追究玉红法律责任",
+      "onboard_time": 1765883721,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143767,
       "num": 143767,
       "word": "人间有味",
@@ -1283,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136031,
-      "num": 136031,
-      "word": "雪王去了美国也得加200%的糖",
-      "onboard_time": 1765880780,
-      "rank": 42,
-      "category": "美食,互联网"
-    },
-    {
       "raw_hot": 135473,
       "num": 135473,
       "word": "苏醒的表情演都不演了",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1765869862,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135191,
-      "num": 135191,
-      "word": "雨霖铃",
-      "onboard_time": 1765880361,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 134885,
@@ -1363,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+      "onboard_time": 1765883421,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133262,
       "num": 167837,
       "word": "开拓者召回杨瀚森对战国王",
@@ -1379,12 +1443,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132693,
-      "num": 132693,
-      "word": "虞书欣这扑通一声",
-      "onboard_time": 1765878982,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 133074,
+      "num": 133074,
+      "word": "快乐老友记含喜量还是太高了",
+      "onboard_time": 1765883961,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132863,
+      "num": 283098,
+      "word": "梁王热身刘雨辰黄雅琼陪练",
+      "onboard_time": 1765882160,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 132670,
@@ -1440,14 +1512,6 @@
       "word": "内娱短剧上星央一的含金量",
       "onboard_time": 1765879101,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127991,
-      "num": 119990,
-      "word": "双轨首个内娱男女混团",
-      "onboard_time": 1765881862,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1563,12 +1627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118456,
+      "num": 118456,
+      "word": "疑似许光汉林俊杰给我25年最后一击",
+      "onboard_time": 1765882583,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118267,
       "num": 118267,
       "word": "周深放鸽子",
       "onboard_time": 1765856542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116546,
+      "num": 116546,
+      "word": "谭松韵抢票",
+      "onboard_time": 1765883661,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 115861,
@@ -1659,12 +1739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111205,
+      "num": 111205,
+      "word": "Kuro谈LPL选手夺冠后变化",
+      "onboard_time": 1765883902,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110974,
       "num": 110974,
       "word": "以前抵抗力与现在抵抗力的区别",
       "onboard_time": 1765866440,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110972,
+      "num": 110972,
+      "word": "快本 内娱热点超前点映",
+      "onboard_time": 1765882941,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110949,
@@ -1745,6 +1841,14 @@
       "onboard_time": 1765866021,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 107706,
+      "num": 107706,
+      "word": "宋亚轩张真源KTV暖冬金曲",
+      "onboard_time": 1765883602,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 106311,
@@ -1995,14 +2099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94529,
-      "num": 94529,
-      "word": "梁王热身刘雨辰黄雅琼陪练",
-      "onboard_time": 1765882160,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94478,
       "num": 98957,
       "word": "一家人用存钱罐存现金五年存八万",
@@ -2041,6 +2137,14 @@
       "onboard_time": 1765796782,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93772,
+      "num": 93772,
+      "word": "明年全球手机平均售价或涨6.9%",
+      "onboard_time": 1765884321,
+      "rank": 48,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 93140,
@@ -2267,6 +2371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81038,
+      "num": 111119,
+      "word": "周深熬夜看完了家里家外2",
+      "onboard_time": 1765884021,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80582,
       "num": 80582,
       "word": "霸王茶姬员工晒创始人喜糖",
@@ -2281,6 +2393,14 @@
       "onboard_time": 1765797081,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78563,
+      "num": 88591,
+      "word": "哈尔滨大雪人 颜值巅峰",
+      "onboard_time": 1765882761,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78215,
@@ -2401,6 +2521,14 @@
       "onboard_time": 1765841419,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72231,
+      "num": 111075,
+      "word": "2026考研",
+      "onboard_time": 1765883001,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 70742,
@@ -2619,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57313,
+      "num": 111001,
+      "word": "虾滑虾仁含量仅4成还掺猪肥膘",
+      "onboard_time": 1765883240,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 56936,
       "num": 56936,
       "word": "店主直接把小蛋糕的成本都写上了",
@@ -2660,7 +2796,7 @@
     },
     {
       "raw_hot": 53337,
-      "num": 96121,
+      "num": 164837,
       "word": "阿福提醒五大流感防护误区",
       "onboard_time": 1765881680,
       "rank": 46,
@@ -2705,6 +2841,14 @@
       "onboard_time": 1765877121,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49659,
+      "num": 164414,
+      "word": "为什么医生也在推荐AI健康助手",
+      "onboard_time": 1765883961,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49430,
@@ -2777,6 +2921,14 @@
       "onboard_time": 1765796120,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 45339,
+      "num": 164137,
+      "word": "男子电竞馆猝死家属索赔157万",
+      "onboard_time": 1765883782,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45021,
