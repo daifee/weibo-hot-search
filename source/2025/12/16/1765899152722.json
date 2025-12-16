@@ -1,0 +1,410 @@
+{
+  "runTime": 1765899152722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 330754,
+        "num": 1052920,
+        "word": "央视起底走私孕妇血样黑产链",
+        "onboard_time": 1765886421,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 238216,
+        "num": 1022966,
+        "word": "男子肺炎住院2天突发狂躁后死亡",
+        "onboard_time": 1765886421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39395,
+        "num": 999166,
+        "word": "海南自贸港全岛封关后有啥变化",
+        "onboard_time": 1765874063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228970,
+        "num": 939022,
+        "word": "深圳16岁少年卖烤鸡日入过万",
+        "onboard_time": 1765894163,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216045,
+        "num": 887360,
+        "word": "五年前投资100万能挣多少",
+        "onboard_time": 1765895306,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 842129,
+        "num": 842129,
+        "word": "丝芭回应鞠婧祎收入争议",
+        "onboard_time": 1765898125,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320418,
+        "num": 785656,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136290,
+        "num": 757626,
+        "word": "剑来动画",
+        "onboard_time": 1765896387,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21902,
+        "num": 616083,
+        "word": "盘点2025触动人心的声音",
+        "onboard_time": 1765891703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 527153,
+        "word": "高市早苗在国会遭嘘",
+        "onboard_time": 1765893625,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10847061,
+        "num": 10847061,
+        "word": "鞠婧祎收入",
+        "onboard_time": 1765892208,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436026,
+        "num": 436026,
+        "word": "第一眼以为Angelababy早期仿妆",
+        "onboard_time": 1765891282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360251,
+        "num": 360251,
+        "word": "虞书欣泰国红毯压轴",
+        "onboard_time": 1765888040,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283463,
+        "num": 283463,
+        "word": "陈卓璇小号发长文爆新团队氛围",
+        "onboard_time": 1765895247,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263389,
+        "num": 263389,
+        "word": "双轨热度",
+        "onboard_time": 1765897885,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202954,
+        "num": 202954,
+        "word": "陈奕恒吃幸运饼干",
+        "onboard_time": 1765899023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202402,
+        "num": 202402,
+        "word": "教师猥亵儿童妻子因社会压力提离婚",
+        "onboard_time": 1765896085,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151901,
+        "num": 201825,
+        "word": "前老板发视频吐槽张凯毅老公",
+        "onboard_time": 1765892965,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 150108,
+        "num": 197739,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124451,
+        "num": 193788,
+        "word": "当学生面摔死小猫宿管已被辞退",
+        "onboard_time": 1765897945,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702664,
+        "num": 190874,
+        "word": "毛人龙许文婷分手",
+        "onboard_time": 1765891224,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499545,
+        "num": 185872,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267067,
+        "num": 181421,
+        "word": "Angelababy真的好美",
+        "onboard_time": 1765894945,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299852,
+        "num": 178368,
+        "word": "赵丽颖周翡",
+        "onboard_time": 1765895366,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176007,
+        "num": 176007,
+        "word": "尹正秀妻子晒蜜月照",
+        "onboard_time": 1765892605,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171382,
+        "num": 171382,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 25,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 164934,
+        "num": 164934,
+        "word": "云为衫顶号虞书欣来了",
+        "onboard_time": 1765898065,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158152,
+        "num": 158152,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131986,
+        "num": 157586,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765885700,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157134,
+        "num": 157134,
+        "word": "手机充电器千万不要一直插着不拔",
+        "onboard_time": 1765892303,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117327,
+        "num": 147672,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142676,
+        "num": 142676,
+        "word": "肖战直播",
+        "onboard_time": 1765889182,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140554,
+        "num": 140554,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 131097,
+        "num": 131097,
+        "word": "原来喝苹果水有这么多好处",
+        "onboard_time": 1765886120,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129643,
+        "num": 129643,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121552,
+        "num": 121552,
+        "word": "将门毒后 祝绪丹汪铎",
+        "onboard_time": 1765884261,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118281,
+        "num": 118281,
+        "word": "美国11月失业率为4.6%",
+        "onboard_time": 1765898664,
+        "rank": 36,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 112983,
+        "num": 118277,
+        "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+        "onboard_time": 1765894284,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19707,
+        "num": 118247,
+        "word": "房地产商卷豪宅有钱人不够用了",
+        "onboard_time": 1765898543,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29518,
+        "num": 118230,
+        "word": "45岁霍建华素颜状态",
+        "onboard_time": 1765898424,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105077,
+        "num": 118221,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 40,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 112337,
+        "num": 118187,
+        "word": "现在是钎城时间",
+        "onboard_time": 1765898184,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108596,
+        "num": 118177,
+        "word": "六旬老人被分手后买刀行凶杀错人",
+        "onboard_time": 1765897343,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104043,
+        "num": 118157,
+        "word": "狙击蝴蝶 戒断",
+        "onboard_time": 1765888161,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103005,
+        "num": 118138,
+        "word": "一直失眠可能是疾病信号",
+        "onboard_time": 1765898125,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99208,
+        "num": 118111,
+        "word": "魏建军说让每一个零件多工作10年",
+        "onboard_time": 1765893146,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98281,
+        "num": 118090,
+        "word": "王俊凯给粉丝的感觉",
+        "onboard_time": 1765884381,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92678,
+        "num": 118073,
+        "word": "缺觉的人全身都处于炎症状态",
+        "onboard_time": 1765898244,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90547,
+        "num": 118060,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83848,
+        "num": 118038,
+        "word": "卢昱晓好薄一片",
+        "onboard_time": 1765884682,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
