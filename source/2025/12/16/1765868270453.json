@@ -1,0 +1,410 @@
+{
+  "runTime": 1765868270453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656304,
+        "num": 1105008,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397163,
+        "num": 397163,
+        "word": "悉尼枪击事件中英勇夺枪男子留遗言",
+        "onboard_time": 1765862062,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19791,
+        "num": 270028,
+        "word": "中国农村的科技含量越来越高",
+        "onboard_time": 1765808122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259063,
+        "num": 259063,
+        "word": "恋与深空回应被指恶俗",
+        "onboard_time": 1765862121,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249120,
+        "num": 249120,
+        "word": "人民币又大涨",
+        "onboard_time": 1765867101,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227689,
+        "num": 227689,
+        "word": "余承东任华为终端公司董事长",
+        "onboard_time": 1765864281,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183566,
+        "num": 183566,
+        "word": "湖南卫视零下12度官宣冰雪之夜",
+        "onboard_time": 1765864644,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257021,
+        "num": 177930,
+        "word": "成毅长安二十四计追剧团造型",
+        "onboard_time": 1765866440,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167805,
+        "num": 167805,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167042,
+        "num": 167042,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 768682,
+        "num": 166973,
+        "word": "杨幂大学上形体课照片",
+        "onboard_time": 1765862840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707610,
+        "num": 165333,
+        "word": "长安二十四计微博追剧团",
+        "onboard_time": 1765867581,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589615,
+        "num": 163905,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276354,
+        "num": 163549,
+        "word": "频繁做美甲 伤害不可逆",
+        "onboard_time": 1765859183,
+        "rank": 13,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 261936,
+        "num": 162257,
+        "word": "曝TOP出道秀人面试恋综",
+        "onboard_time": 1765862002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254530,
+        "num": 160488,
+        "word": "汪东城曾沛慈玫瑰大盗",
+        "onboard_time": 1765866621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173569,
+        "num": 160197,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159233,
+        "num": 159233,
+        "word": "商场被指吓人悬空大衣已撤下",
+        "onboard_time": 1765864341,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47098,
+        "num": 158565,
+        "word": "27岁女孩遇害551天母亲满头白发",
+        "onboard_time": 1765867222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32173,
+        "num": 156245,
+        "word": "刘雨昕亮相迪奥北京旗舰店",
+        "onboard_time": 1765865122,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1468725,
+        "num": 154720,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482224,
+        "num": 152747,
+        "word": "张根硕抗癌成功",
+        "onboard_time": 1765860863,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359127,
+        "num": 149713,
+        "word": "姚明15岁女儿身高近2米",
+        "onboard_time": 1765858282,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234966,
+        "num": 147863,
+        "word": "李雾回来已经过了25了",
+        "onboard_time": 1765864644,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168868,
+        "num": 145984,
+        "word": "小学老师百人群内咒骂全班得甲流",
+        "onboard_time": 1765867581,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170270,
+        "num": 143092,
+        "word": "岑矜错过了李雾最好用的6年",
+        "onboard_time": 1765866381,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164569,
+        "num": 141725,
+        "word": "以为很健康实则免疫力低的表现",
+        "onboard_time": 1765866440,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 140140,
+        "num": 140140,
+        "word": "怪不得衣服买回去穿不出店里效果",
+        "onboard_time": 1765859421,
+        "rank": 27,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 135473,
+        "num": 135473,
+        "word": "苏醒的表情演都不演了",
+        "onboard_time": 1765867401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107198,
+        "num": 134761,
+        "word": "研究发现秦人鼻子宽面形低",
+        "onboard_time": 1765863981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134694,
+        "num": 134694,
+        "word": "天价救护车涉事医院被罚没8.7万",
+        "onboard_time": 1765866381,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133268,
+        "num": 133268,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132167,
+        "num": 132167,
+        "word": "地球之肺或即将变成肺干",
+        "onboard_time": 1765867522,
+        "rank": 32,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 124944,
+        "num": 124944,
+        "word": "谁家男主上一秒纯野下一秒纯爱",
+        "onboard_time": 1765868182,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124892,
+        "num": 124892,
+        "word": "吴秀波被执行6200万",
+        "onboard_time": 1765857801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 121538,
+        "word": "樊振东庆祝动作出现人传人现象",
+        "onboard_time": 1765866501,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121482,
+        "num": 121482,
+        "word": "周柯宇陈鑫海 内娱双胞胎",
+        "onboard_time": 1765858341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120220,
+        "num": 120220,
+        "word": "徐冬冬120斤每天两碗米饭",
+        "onboard_time": 1765863621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42251,
+        "num": 117417,
+        "word": "全球航司排队来海南修飞机",
+        "onboard_time": 1765867222,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114637,
+        "num": 114637,
+        "word": "孟晚舟卸任华为终端公司董事",
+        "onboard_time": 1765860803,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108093,
+        "num": 108093,
+        "word": "智残村民被任命为村支书当了老赖",
+        "onboard_time": 1765866021,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99128,
+        "num": 99128,
+        "word": "苹果数十款新品遭泄密",
+        "onboard_time": 1765865181,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37899,
+        "num": 95699,
+        "word": "我要继续去当她的小男孩儿了",
+        "onboard_time": 1765866982,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34999,
+        "num": 95343,
+        "word": "家门口遇害案被告家属称两个家毁了",
+        "onboard_time": 1765866861,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95174,
+        "num": 95174,
+        "word": "幼儿园咬伤小朋友被对方奶奶恐吓",
+        "onboard_time": 1765868123,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93268,
+        "num": 93268,
+        "word": "柬军士兵猛烈扫射一只鸡意外抢镜",
+        "onboard_time": 1765864103,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91636,
+        "num": 91636,
+        "word": "陈伟霆一句话送走胡先煦范丞丞",
+        "onboard_time": 1765866440,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88901,
+        "num": 88901,
+        "word": "妹妹被收养哥哥守了她7年",
+        "onboard_time": 1765857502,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88764,
+        "num": 88764,
+        "word": "王俊凯一抬手全场安静",
+        "onboard_time": 1765866260,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21318,
+        "num": 85584,
+        "word": "海南电力输送能力提升超4倍",
+        "onboard_time": 1765860562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#引导广大未成年人树立远大理想#"
+    }
+  }
+}
