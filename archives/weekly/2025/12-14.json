@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765881246425,
+  "endTime": 1765882229948,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 892329,
+      "num": 155873,
+      "word": "刘亦菲的脚 脚中刘亦菲",
+      "onboard_time": 1765878262,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 888708,
       "num": 577687,
       "word": "排骨羽绒服",
@@ -281,14 +289,6 @@
       "onboard_time": 1765703902,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 863824,
-      "num": 155873,
-      "word": "刘亦菲的脚 脚中刘亦菲",
-      "onboard_time": 1765878262,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 847369,
@@ -1011,6 +1011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 486592,
+      "num": 226064,
+      "word": "女子称丈夫被骗1日接受13人次服务",
+      "onboard_time": 1765879822,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483004,
       "num": 336651,
       "word": "叶祖新41岁面相",
@@ -1387,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391436,
+      "num": 353529,
+      "word": "胡歌李沁开机照",
+      "onboard_time": 1765877901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391131,
       "num": 247912,
       "word": "陈妍希将出席星光大赏",
@@ -1521,14 +1537,6 @@
       "onboard_time": 1765787122,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353529,
-      "num": 353529,
-      "word": "胡歌李沁开机照",
-      "onboard_time": 1765877901,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 352172,
@@ -2219,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259736,
+      "num": 146468,
+      "word": "身体有炎症时要少吃的4种食物",
+      "onboard_time": 1765879042,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259255,
       "num": 225792,
       "word": "深圳一地厕所吸烟会变透明",
@@ -2617,14 +2633,6 @@
       "onboard_time": 1765791562,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226064,
-      "num": 226064,
-      "word": "女子称丈夫被骗1日接受13人次服务",
-      "onboard_time": 1765879822,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225745,
@@ -3075,12 +3083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201901,
+      "num": 201901,
+      "word": "周鸿祎声明",
+      "onboard_time": 1765881082,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201617,
       "num": 198565,
       "word": "国剧盛典直播",
       "onboard_time": 1765876824,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201432,
+      "num": 181115,
+      "word": "周鸿祎回应被举报财务造假",
+      "onboard_time": 1765881261,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 200954,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1765810702,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197713,
-      "num": 146468,
-      "word": "身体有炎症时要少吃的4种食物",
-      "onboard_time": 1765879042,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197700,
@@ -3321,6 +3337,14 @@
       "onboard_time": 1765696163,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190967,
+      "num": 146293,
+      "word": "流量明星 中度抽动症",
+      "onboard_time": 1765880842,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 190883,
@@ -3609,14 +3633,6 @@
       "onboard_time": 1765775243,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181655,
-      "num": 181655,
-      "word": "周鸿祎声明",
-      "onboard_time": 1765881082,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 181593,
@@ -3921,6 +3937,14 @@
       "onboard_time": 1765860083,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170559,
+      "num": 126640,
+      "word": "倪萍在故宫听到张学良的名字震惊了",
+      "onboard_time": 1765881562,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 169961,
@@ -4619,14 +4643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146293,
-      "num": 146293,
-      "word": "流量明星 中度抽动症",
-      "onboard_time": 1765880842,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145694,
       "num": 145694,
       "word": "严浩翔不会亚洲蹲",
@@ -5043,6 +5059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136031,
+      "num": 136031,
+      "word": "雪王去了美国也得加200%的糖",
+      "onboard_time": 1765880780,
+      "rank": 42,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 135717,
       "num": 135717,
       "word": "独居久了才能意识到的事",
@@ -5105,6 +5129,14 @@
       "onboard_time": 1765869862,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135191,
+      "num": 135191,
+      "word": "雨霖铃",
+      "onboard_time": 1765880361,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 135099,
@@ -5483,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127991,
+      "num": 119990,
+      "word": "双轨首个内娱男女混团",
+      "onboard_time": 1765881862,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127938,
       "num": 115814,
       "word": "彭小苒礼服内贴了20个暖宝宝",
@@ -5587,6 +5627,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 125199,
+      "num": 131277,
+      "word": "狙击蝴蝶云合首登顶",
+      "onboard_time": 1765881442,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125157,
       "num": 125157,
       "word": "五花八们直播",
@@ -5665,14 +5713,6 @@
       "onboard_time": 1765846581,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123130,
-      "num": 123130,
-      "word": "雨霖铃",
-      "onboard_time": 1765880361,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 123085,
@@ -6563,6 +6603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106266,
+      "num": 106266,
+      "word": "360称财务造假等言论失实",
+      "onboard_time": 1765881142,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105737,
       "num": 105737,
       "word": "易烊千玺 不要把自己的努力看太重",
@@ -6707,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103126,
+      "num": 117830,
+      "word": "林高远科普赛车知识",
+      "onboard_time": 1765881261,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103069,
       "num": 103069,
       "word": "明年居民存款到期规模超170万亿",
@@ -6747,6 +6803,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 102455,
+      "num": 122018,
+      "word": "回顾2015年的王楚钦",
+      "onboard_time": 1765881501,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102251,
       "num": 102251,
       "word": "罗永浩发了录音文件名",
@@ -6761,14 +6825,6 @@
       "onboard_time": 1765704561,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102069,
-      "num": 102069,
-      "word": "雪王去了美国也得加200%的糖",
-      "onboard_time": 1765880780,
-      "rank": 42,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 102019,
@@ -6817,6 +6873,14 @@
       "onboard_time": 1765693221,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100787,
+      "num": 100787,
+      "word": "那些细腻又美好的人",
+      "onboard_time": 1765882042,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 100566,
@@ -6953,14 +7017,6 @@
       "onboard_time": 1765787301,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98839,
-      "num": 98839,
-      "word": "360称财务造假等言论失实",
-      "onboard_time": 1765881142,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 98484,
@@ -7179,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95855,
+      "num": 95855,
+      "word": "不内耗的最好方式",
+      "onboard_time": 1765881981,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "虞书欣发了最好嗑的镜头live",
@@ -7257,6 +7321,14 @@
       "onboard_time": 1765873523,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94529,
+      "num": 94529,
+      "word": "梁王热身刘雨辰黄雅琼陪练",
+      "onboard_time": 1765882160,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94478,
@@ -7977,6 +8049,14 @@
       "onboard_time": 1765637962,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81213,
+      "num": 106307,
+      "word": "新加坡躺赚时代或将结束",
+      "onboard_time": 1765881862,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80639,
@@ -8723,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60940,
+      "num": 106367,
+      "word": "Elk和Bin互动热聊",
+      "onboard_time": 1765881562,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60924,
       "num": 230679,
       "word": "S50奶fufu的小新机",
@@ -9009,6 +9097,14 @@
       "onboard_time": 1765636403,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53337,
+      "num": 96121,
+      "word": "阿福提醒五大流感防护误区",
+      "onboard_time": 1765881680,
+      "rank": 46,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 53121,
@@ -9771,6 +9867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 32258,
+      "num": 172048,
+      "word": "张婧仪Burberry红风衣",
+      "onboard_time": 1765877841,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32236,
       "num": 156245,
       "word": "刘雨昕亮相迪奥北京旗舰店",
@@ -9867,6 +9971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30671,
+      "num": 105891,
+      "word": "法国1分钱红酒激怒酒商",
+      "onboard_time": 1765880660,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30442,
       "num": 132697,
       "word": "印度10车连环相撞致4死25伤",
@@ -9889,14 +10001,6 @@
       "onboard_time": 1765860803,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30165,
-      "num": 172048,
-      "word": "张婧仪Burberry红风衣",
-      "onboard_time": 1765877841,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30156,
@@ -10187,14 +10291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23203,
-      "num": 105891,
-      "word": "法国1分钱红酒激怒酒商",
-      "onboard_time": 1765880660,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 23028,
       "num": 41809,
       "word": "流星雨",
@@ -10353,6 +10449,14 @@
       "onboard_time": 1765717224,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15802,
+      "num": 108089,
+      "word": "男子幻想被作法枪杀邻居老人夫妇",
+      "onboard_time": 1765882042,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15425,

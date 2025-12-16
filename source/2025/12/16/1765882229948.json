@@ -1,0 +1,410 @@
+{
+  "runTime": 1765882229948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 651383,
+        "num": 1104221,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 370860,
+        "num": 370860,
+        "word": "生育成本社会共担来了",
+        "onboard_time": 1765874361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25934,
+        "num": 247145,
+        "word": "一句话总结你的2025",
+        "onboard_time": 1765873643,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391436,
+        "num": 232787,
+        "word": "胡歌李沁开机照",
+        "onboard_time": 1765877901,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201901,
+        "num": 201901,
+        "word": "周鸿祎声明",
+        "onboard_time": 1765881082,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486592,
+        "num": 200376,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424156,
+        "num": 198179,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 6,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 219444,
+        "num": 196142,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "天价救护车事件涉事医院被罚",
+        "onboard_time": 1765875141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 186052,
+        "num": 186052,
+        "word": "A股为何全线下跌",
+        "onboard_time": 1765876940,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 638024,
+        "num": 185934,
+        "word": "丝芭回应鞠婧祎",
+        "onboard_time": 1765878861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208232,
+        "num": 183481,
+        "word": "店家回应女子全裸按摩遇男技师",
+        "onboard_time": 1765874901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201542,
+        "num": 182376,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201432,
+        "num": 181115,
+        "word": "周鸿祎回应被举报财务造假",
+        "onboard_time": 1765881261,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53555,
+        "num": 179672,
+        "word": "蚂蚁阿福冲上苹果应用总榜第三",
+        "onboard_time": 1765879281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179029,
+        "num": 179029,
+        "word": "小狗天塌了一晚上白干",
+        "onboard_time": 1765871243,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170864,
+        "num": 170864,
+        "word": "怪不得唐诡奇谭要单独播",
+        "onboard_time": 1765869563,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139728,
+        "num": 139728,
+        "word": "萧敬腾林有慧 狙击蝴蝶",
+        "onboard_time": 1765879340,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136031,
+        "num": 136031,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 18,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 135191,
+        "num": 135191,
+        "word": "雨霖铃",
+        "onboard_time": 1765880361,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 960516,
+        "num": 134566,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 20,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 892329,
+        "num": 134388,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374845,
+        "num": 133315,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53887,
+        "num": 132856,
+        "word": "田曦薇出个live教学吧",
+        "onboard_time": 1765877841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341982,
+        "num": 131894,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125199,
+        "num": 131277,
+        "word": "狙击蝴蝶云合首登顶",
+        "onboard_time": 1765881442,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259736,
+        "num": 130738,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190967,
+        "num": 130051,
+        "word": "流量明星 中度抽动症",
+        "onboard_time": 1765880842,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129363,
+        "num": 129363,
+        "word": "虞书欣这扑通一声",
+        "onboard_time": 1765878982,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127267,
+        "num": 127267,
+        "word": "高圆圆 替身",
+        "onboard_time": 1765871843,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170559,
+        "num": 126640,
+        "word": "倪萍在故宫听到张学良的名字震惊了",
+        "onboard_time": 1765881562,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32258,
+        "num": 124406,
+        "word": "张婧仪Burberry红风衣",
+        "onboard_time": 1765877841,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102455,
+        "num": 122018,
+        "word": "回顾2015年的王楚钦",
+        "onboard_time": 1765881501,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127991,
+        "num": 119990,
+        "word": "双轨首个内娱男女混团",
+        "onboard_time": 1765881862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103126,
+        "num": 117830,
+        "word": "林高远科普赛车知识",
+        "onboard_time": 1765881261,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117073,
+        "num": 117073,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111409,
+        "num": 111409,
+        "word": "苹果安卓实现互通",
+        "onboard_time": 1765870042,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15802,
+        "num": 108089,
+        "word": "男子幻想被作法枪杀邻居老人夫妇",
+        "onboard_time": 1765882042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60940,
+        "num": 106367,
+        "word": "Elk和Bin互动热聊",
+        "onboard_time": 1765881562,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81213,
+        "num": 106307,
+        "word": "新加坡躺赚时代或将结束",
+        "onboard_time": 1765881862,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106266,
+        "num": 106266,
+        "word": "360称财务造假等言论失实",
+        "onboard_time": 1765881142,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103803,
+        "num": 103803,
+        "word": "内娱短剧上星央一的含金量",
+        "onboard_time": 1765879101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100787,
+        "num": 100787,
+        "word": "那些细腻又美好的人",
+        "onboard_time": 1765882042,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 100665,
+        "word": "王俊凯话剧趁世界还年青剧照",
+        "onboard_time": 1765862721,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98778,
+        "num": 98778,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96876,
+        "num": 96876,
+        "word": "窝囊版蹦极58元一人",
+        "onboard_time": 1765879101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53337,
+        "num": 96121,
+        "word": "阿福提醒五大流感防护误区",
+        "onboard_time": 1765881680,
+        "rank": 46,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 30671,
+        "num": 95871,
+        "word": "法国1分钱红酒激怒酒商",
+        "onboard_time": 1765880660,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95855,
+        "num": 95855,
+        "word": "不内耗的最好方式",
+        "onboard_time": 1765881981,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94529,
+        "num": 94529,
+        "word": "梁王热身刘雨辰黄雅琼陪练",
+        "onboard_time": 1765882160,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
