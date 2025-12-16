@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765925032094,
+  "endTime": 1765927654683,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 389633,
-      "num": 166851,
+      "num": 263142,
       "word": "有翡",
       "onboard_time": 1765901001,
       "rank": 3,
@@ -49,6 +49,30 @@
       "onboard_time": 1765891224,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266631,
+      "num": 266631,
+      "word": "4400万粉丝网红直播泳池派对被处理",
+      "onboard_time": 1765904717,
+      "rank": 12,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 262419,
+      "num": 262419,
+      "word": "手机充电器千万不要一直插着不拔",
+      "onboard_time": 1765892303,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 213344,
+      "num": 213344,
+      "word": "柬埔寨",
+      "onboard_time": 1765888462,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212655,
@@ -75,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206228,
+      "num": 206228,
+      "word": "乒乓球名将倪夏莲宣布复出",
+      "onboard_time": 1765926977,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196772,
       "num": 146604,
       "word": "刘亦菲的脚 脚中刘亦菲",
       "onboard_time": 1765878262,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188977,
+      "num": 146658,
+      "word": "教师猥亵儿童妻子因社会压力提离婚",
+      "onboard_time": 1765896085,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173558,
@@ -91,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165445,
-      "num": 146859,
-      "word": "柬埔寨",
-      "onboard_time": 1765888462,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161864,
       "num": 146588,
       "word": "赵丽颖周翡",
@@ -107,11 +139,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160711,
-      "num": 160711,
-      "word": "4400万粉丝网红直播泳池派对被处理",
-      "onboard_time": 1765904717,
-      "rank": 12,
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "前老板发视频吐槽张凯毅老公",
+      "onboard_time": 1765892965,
+      "rank": 16,
       "category": "民生新闻,网红"
     },
     {
@@ -147,19 +179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126738,
-      "num": 146554,
-      "word": "手机充电器千万不要一直插着不拔",
-      "onboard_time": 1765892303,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 123835,
-      "num": 146658,
-      "word": "教师猥亵儿童妻子因社会压力提离婚",
-      "onboard_time": 1765896085,
-      "rank": 15,
+      "raw_hot": 125168,
+      "num": 125168,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -171,12 +195,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 106875,
-      "num": 146647,
-      "word": "前老板发视频吐槽张凯毅老公",
-      "onboard_time": 1765892965,
-      "rank": 16,
-      "category": "民生新闻,网红"
+      "raw_hot": 107189,
+      "num": 146500,
+      "word": "高市早苗在国会遭嘘",
+      "onboard_time": 1765893625,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99080,
@@ -185,6 +209,22 @@
       "onboard_time": 1765901481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95235,
+      "num": 146505,
+      "word": "六旬老人被分手后买刀行凶杀错人",
+      "onboard_time": 1765897343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95161,
+      "num": 111658,
+      "word": "女子称丈夫被骗1日接受13人次服务",
+      "onboard_time": 1765879822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93766,
@@ -267,20 +307,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 72193,
-      "num": 146505,
-      "word": "六旬老人被分手后买刀行凶杀错人",
-      "onboard_time": 1765897343,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69873,
-      "num": 146500,
-      "word": "高市早苗在国会遭嘘",
-      "onboard_time": 1765893625,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 69436,
+      "num": 146460,
+      "word": "缺觉的人全身都处于炎症状态",
+      "onboard_time": 1765898244,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67358,
@@ -307,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64385,
+      "num": 56251,
+      "word": "倪萍在故宫听到张学良的名字震惊了",
+      "onboard_time": 1765881562,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63076,
       "num": 146444,
       "word": "卢昱晓好薄一片",
@@ -315,20 +355,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60857,
+      "num": 56240,
+      "word": "39岁中国女子伦敦被刺身亡",
+      "onboard_time": 1765927220,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60716,
+      "num": 146415,
+      "word": "身体有炎症时要少吃的4种食物",
+      "onboard_time": 1765879042,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60611,
       "num": 146440,
       "word": "王俊凯全红婵不是很友好的互动吗",
       "onboard_time": 1765877663,
       "rank": 41,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 58728,
-      "num": 146460,
-      "word": "缺觉的人全身都处于炎症状态",
-      "onboard_time": 1765898244,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58184,
@@ -363,20 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52120,
-      "num": 52120,
-      "word": "女员工拒洗窗帘硬杠董事长被降职",
-      "onboard_time": 1765889662,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51970,
-      "num": 146415,
-      "word": "身体有炎症时要少吃的4种食物",
-      "onboard_time": 1765879042,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 52696,
+      "num": 56255,
+      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+      "onboard_time": 1765894284,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 51435,
@@ -387,12 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51052,
-      "num": 111658,
-      "word": "女子称丈夫被骗1日接受13人次服务",
-      "onboard_time": 1765879822,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 48733,
+      "num": 56204,
+      "word": "卢昱晓的舞蹈视频正在像线面一样繁殖",
+      "onboard_time": 1765926677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 48054,
@@ -435,20 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34904,
+      "num": 56125,
+      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+      "onboard_time": 1765883421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33557,
-      "num": 35141,
+      "num": 56089,
       "word": "成毅帅成啥样了",
       "onboard_time": 1765909755,
       "rank": 24,
       "category": "剧集"
     },
     {
-      "raw_hot": 33399,
-      "num": 35081,
-      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
-      "onboard_time": 1765894284,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 33480,
+      "num": 56096,
+      "word": "江苏卫视跨年首波阵容摊牌了",
+      "onboard_time": 1765904358,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32708,
+      "num": 56077,
+      "word": "23岁男子公交车猥亵女子被行拘",
+      "onboard_time": 1765915753,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32308,
@@ -457,14 +513,6 @@
       "onboard_time": 1765901599,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27911,
-      "num": 31725,
-      "word": "江苏卫视跨年首波阵容摊牌了",
-      "onboard_time": 1765904358,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 27169,
@@ -507,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18198,
-      "num": 31689,
-      "word": "23岁男子公交车猥亵女子被行拘",
-      "onboard_time": 1765915753,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17441,
       "num": 172198,
       "word": "海南自贸港全岛封关后有啥变化",
@@ -539,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14988,
+      "num": 263510,
+      "word": "中央经济工作会议热点简读",
+      "onboard_time": 1765891703,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14533,
       "num": 27306,
       "word": "虞书欣被油吓退在双轨callback了",
@@ -561,14 +609,6 @@
       "onboard_time": 1765883001,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12310,
-      "num": 137380,
-      "word": "中央经济工作会议热点简读",
-      "onboard_time": 1765891703,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10391,
