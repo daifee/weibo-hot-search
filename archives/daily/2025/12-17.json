@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765924002070,
+  "endTime": 1765925032094,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160711,
+      "num": 160711,
+      "word": "4400万粉丝网红直播泳池派对被处理",
+      "onboard_time": 1765904717,
+      "rank": 12,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 146909,
       "num": 146909,
       "word": "美国11月失业率为4.6%",
@@ -131,20 +139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133583,
-      "num": 133583,
-      "word": "4400万粉丝网红直播泳池派对被处理",
-      "onboard_time": 1765904717,
-      "rank": 12,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 131260,
       "num": 146584,
       "word": "Angelababy真的好美",
       "onboard_time": 1765894945,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126738,
+      "num": 146554,
+      "word": "手机充电器千万不要一直插着不拔",
+      "onboard_time": 1765892303,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 123835,
@@ -163,28 +171,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 106875,
+      "num": 146647,
+      "word": "前老板发视频吐槽张凯毅老公",
+      "onboard_time": 1765892965,
+      "rank": 16,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 99080,
       "num": 146578,
       "word": "余景天 师姐拍的",
       "onboard_time": 1765901481,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96504,
-      "num": 146554,
-      "word": "手机充电器千万不要一直插着不拔",
-      "onboard_time": 1765892303,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 94215,
-      "num": 146647,
-      "word": "前老板发视频吐槽张凯毅老公",
-      "onboard_time": 1765892965,
-      "rank": 16,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 93766,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52120,
+      "num": 52120,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51970,
       "num": 146415,
       "word": "身体有炎症时要少吃的4种食物",
@@ -377,6 +385,14 @@
       "onboard_time": 1765899382,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51052,
+      "num": 111658,
+      "word": "女子称丈夫被骗1日接受13人次服务",
+      "onboard_time": 1765879822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48054,
@@ -403,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44644,
-      "num": 111658,
-      "word": "女子称丈夫被骗1日接受13人次服务",
-      "onboard_time": 1765879822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44547,
       "num": 146372,
       "word": "原来喝苹果水有这么多好处",
@@ -425,14 +433,6 @@
       "onboard_time": 1765904358,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35062,
-      "num": 35062,
-      "word": "女员工拒洗窗帘硬杠董事长被降职",
-      "onboard_time": 1765889662,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33557,
@@ -457,6 +457,14 @@
       "onboard_time": 1765901599,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27911,
+      "num": 31725,
+      "word": "江苏卫视跨年首波阵容摊牌了",
+      "onboard_time": 1765904358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 27169,
@@ -491,12 +499,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 20893,
-      "num": 29782,
-      "word": "江苏卫视跨年首波阵容摊牌了",
-      "onboard_time": 1765904358,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 20237,
+      "num": 31697,
+      "word": "刘宇宁说努力一定有用",
+      "onboard_time": 1765923976,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18198,
+      "num": 31689,
+      "word": "23岁男子公交车猥亵女子被行拘",
+      "onboard_time": 1765915753,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17441,
@@ -523,28 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14933,
-      "num": 27601,
-      "word": "23岁男子公交车猥亵女子被行拘",
-      "onboard_time": 1765915753,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14533,
       "num": 27306,
       "word": "虞书欣被油吓退在双轨callback了",
       "onboard_time": 1765913054,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13636,
-      "num": 25278,
-      "word": "刘宇宁说努力一定有用",
-      "onboard_time": 1765923976,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 13523,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 12310,
-      "num": 121951,
+      "num": 137380,
       "word": "中央经济工作会议热点简读",
       "onboard_time": 1765891703,
       "rank": 2,
