@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765913171739,
+  "endTime": 1765914005046,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 15894,
-      "num": 27314,
+      "num": 29782,
       "word": "江苏卫视跨年首波阵容摊牌了",
       "onboard_time": 1765904358,
       "rank": 37,
@@ -531,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13523,
+      "num": 29802,
+      "word": "檀健次我发现你这人特较真儿",
+      "onboard_time": 1765913715,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 12310,
       "num": 121951,
       "word": "中央经济工作会议热点简读",
       "onboard_time": 1765891703,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12049,
+      "num": 29737,
+      "word": "2026考研",
+      "onboard_time": 1765883001,
+      "rank": 48,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765914005046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197602,
+        "num": 197602,
+        "word": "芸汐传 1.6亿",
+        "onboard_time": 1765899800,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69601,
+        "num": 69601,
+        "word": "4400万粉丝网红直播泳池派对被处理",
+        "onboard_time": 1765904717,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 9146,
+        "num": 54506,
+        "word": "中央经济工作会议热点简读",
+        "onboard_time": 1765891703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88744,
+        "num": 53747,
+        "word": "有翡",
+        "onboard_time": 1765901001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52773,
+        "num": 52773,
+        "word": "前老板发视频吐槽张凯毅老公",
+        "onboard_time": 1765892965,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 60416,
+        "num": 50520,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44708,
+        "num": 44708,
+        "word": "深圳16岁少年卖烤鸡日入过万",
+        "onboard_time": 1765894163,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39653,
+        "num": 39653,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1765899382,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34367,
+        "num": 34367,
+        "word": "手机充电器千万不要一直插着不拔",
+        "onboard_time": 1765892303,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 30116,
+        "num": 32380,
+        "word": "当学生面摔死小猫宿管已被辞退",
+        "onboard_time": 1765897945,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 31762,
+        "word": "鞠婧祎每月25万元固定工资",
+        "onboard_time": 1765901061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41404,
+        "num": 31709,
+        "word": "虞书欣泰国红毯压轴",
+        "onboard_time": 1765888040,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31138,
+        "num": 31138,
+        "word": "Angelababy真的好美",
+        "onboard_time": 1765894945,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30047,
+        "num": 30047,
+        "word": "央视起底走私孕妇血样黑产链",
+        "onboard_time": 1765886421,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 30040,
+        "word": "美国11月失业率为4.6%",
+        "onboard_time": 1765898664,
+        "rank": 14,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 128761,
+        "num": 30038,
+        "word": "鞠婧祎收入",
+        "onboard_time": 1765892208,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25314,
+        "num": 30026,
+        "word": "教师猥亵儿童妻子因社会压力提离婚",
+        "onboard_time": 1765896085,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24416,
+        "num": 30017,
+        "word": "赵丽颖周翡",
+        "onboard_time": 1765895366,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24329,
+        "num": 30004,
+        "word": "高市早苗在国会遭嘘",
+        "onboard_time": 1765893625,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22539,
+        "num": 30000,
+        "word": "王楚钦孙颖莎入围体坛年度最佳组合",
+        "onboard_time": 1765902380,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57254,
+        "num": 29993,
+        "word": "丝芭回应鞠婧祎收入争议",
+        "onboard_time": 1765898125,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32413,
+        "num": 29982,
+        "word": "毛人龙许文婷分手",
+        "onboard_time": 1765891224,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28245,
+        "num": 29970,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21246,
+        "num": 29966,
+        "word": "年度体育榜样力量",
+        "onboard_time": 1765904358,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21203,
+        "num": 29951,
+        "word": "我的年度赛场记忆",
+        "onboard_time": 1765902080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20245,
+        "num": 29949,
+        "word": "陈卓璇小号发长文爆新团队氛围",
+        "onboard_time": 1765895247,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19514,
+        "num": 29941,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18519,
+        "num": 29924,
+        "word": "双轨热度",
+        "onboard_time": 1765897885,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17526,
+        "num": 29917,
+        "word": "第一眼以为Angelababy早期仿妆",
+        "onboard_time": 1765891282,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17023,
+        "num": 29912,
+        "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+        "onboard_time": 1765894284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16782,
+        "num": 29900,
+        "word": "男子肺炎住院2天突发狂躁后死亡",
+        "onboard_time": 1765886421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16396,
+        "num": 29894,
+        "word": "双轨",
+        "onboard_time": 1765906218,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16194,
+        "num": 29886,
+        "word": "尹正秀妻子晒蜜月照",
+        "onboard_time": 1765892605,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15872,
+        "num": 29869,
+        "word": "女员工拒洗窗帘硬杠董事长被降职",
+        "onboard_time": 1765889662,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15409,
+        "num": 29869,
+        "word": "肖战直播",
+        "onboard_time": 1765889182,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15133,
+        "num": 29857,
+        "word": "2025泰国年度风云人物",
+        "onboard_time": 1765902558,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14811,
+        "num": 29852,
+        "word": "原来喝苹果水有这么多好处",
+        "onboard_time": 1765886120,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14482,
+        "num": 29843,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765885700,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14285,
+        "num": 29833,
+        "word": "缺觉的人全身都处于炎症状态",
+        "onboard_time": 1765898244,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14213,
+        "num": 29822,
+        "word": "六旬老人被分手后买刀行凶杀错人",
+        "onboard_time": 1765897343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13776,
+        "num": 29816,
+        "word": "成毅帅成啥样了",
+        "onboard_time": 1765909755,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13523,
+        "num": 29802,
+        "word": "檀健次我发现你这人特较真儿",
+        "onboard_time": 1765913715,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13443,
+        "num": 29794,
+        "word": "陈奕恒吃幸运饼干",
+        "onboard_time": 1765899023,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13427,
+        "num": 29782,
+        "word": "江苏卫视跨年首波阵容摊牌了",
+        "onboard_time": 1765904358,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13099,
+        "num": 29773,
+        "word": "狙击蝴蝶 戒断",
+        "onboard_time": 1765888161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12762,
+        "num": 29767,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12647,
+        "num": 29758,
+        "word": "五年前投资100万能挣多少",
+        "onboard_time": 1765895306,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12474,
+        "num": 29745,
+        "word": "九尾直播",
+        "onboard_time": 1765900760,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12049,
+        "num": 29737,
+        "word": "2026考研",
+        "onboard_time": 1765883001,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12020,
+        "num": 29736,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取岑浩辉述职报告#"
+    }
+  }
+}
