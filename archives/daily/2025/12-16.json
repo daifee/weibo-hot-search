@@ -1,7 +1,15 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765893422552,
+  "endTime": 1765895560833,
   "band_list": [
+    {
+      "raw_hot": 13149261,
+      "num": 13149261,
+      "word": "鞠婧祎收入",
+      "onboard_time": 1765892208,
+      "rank": 24,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2059679,
       "num": 295923,
@@ -24,14 +32,6 @@
       "word": "丝芭称已支付鞠婧祎超1.39亿",
       "onboard_time": 1765891401,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1678599,
-      "num": 346519,
-      "word": "鞠婧祎收入",
-      "onboard_time": 1765892208,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -91,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 858306,
+      "num": 329706,
+      "word": "鞠婧祎方艾特丝芭",
+      "onboard_time": 1765887921,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 805942,
+      "num": 1128950,
+      "word": "女子被大狗撞倒身亡丈夫住进ICU",
+      "onboard_time": 1765892363,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768682,
       "num": 218538,
       "word": "杨幂大学上形体课照片",
@@ -137,14 +153,6 @@
       "onboard_time": 1765867581,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 685960,
-      "num": 329706,
-      "word": "鞠婧祎方艾特丝芭",
-      "onboard_time": 1765887921,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 656304,
@@ -264,14 +272,6 @@
       "word": "生育成本社会共担来了",
       "onboard_time": 1765874361,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560649,
-      "num": 350633,
-      "word": "女子被大狗撞倒身亡丈夫住进ICU",
-      "onboard_time": 1765892363,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232067,
+      "num": 190084,
+      "word": "陈卓璇小号发长文爆新团队氛围",
+      "onboard_time": 1765895247,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227751,
       "num": 103219,
       "word": "霸王茶姬创始人婚礼人手一杯奶茶",
@@ -947,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215314,
+      "num": 215314,
+      "word": "高市早苗在国会遭嘘",
+      "onboard_time": 1765893625,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214537,
       "num": 214537,
       "word": "美国蜜雪冰城糖度",
@@ -993,6 +1009,14 @@
       "onboard_time": 1765883961,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204888,
+      "num": 154226,
+      "word": "Angelababy真的好美",
+      "onboard_time": 1765894945,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204422,
@@ -1075,6 +1099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198172,
+      "num": 175706,
+      "word": "手机充电器千万不要一直插着不拔",
+      "onboard_time": 1765892303,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 197740,
       "num": 197740,
       "word": "江浙沪最神秘人设 苏北人",
@@ -1147,12 +1179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189078,
+      "num": 154512,
+      "word": "尹正秀妻子晒蜜月照",
+      "onboard_time": 1765892605,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188619,
       "num": 188619,
       "word": "2025票房号召力男演员TOP10",
       "onboard_time": 1765859722,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187080,
+      "num": 187080,
+      "word": "深圳16岁少年卖烤鸡日入过万",
+      "onboard_time": 1765894163,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186294,
@@ -1227,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177303,
+      "num": 177303,
+      "word": "五年前投资100万能挣多少",
+      "onboard_time": 1765895306,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177252,
       "num": 265396,
       "word": "余承东称尊界已经出现口碑效应",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1765851500,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175706,
-      "num": 175706,
-      "word": "手机充电器千万不要一直插着不拔",
-      "onboard_time": 1765892303,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 175313,
@@ -1283,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172800,
+      "num": 403268,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1765885700,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172074,
       "num": 162012,
       "word": "魏建军说让每一个零件多工作10年",
@@ -1315,20 +1371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170548,
-      "num": 403268,
-      "word": "微博之夜年度推荐",
-      "onboard_time": 1765885700,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "美国将芬太尼列为大规模杀伤性武器",
       "onboard_time": 1765859302,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166273,
+      "num": 166273,
+      "word": "前老板发视频吐槽张凯毅老公",
+      "onboard_time": 1765892965,
+      "rank": 45,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 165684,
@@ -1443,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154512,
-      "num": 154512,
-      "word": "尹正秀妻子晒蜜月照",
-      "onboard_time": 1765892605,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151748,
       "num": 151748,
       "word": "谁懂生日隐藏福利的含金量",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1765866381,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 144879,
+      "num": 144879,
+      "word": "方博说樊振东三大赛没输过外协",
+      "onboard_time": 1765894586,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 144305,
@@ -1747,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129578,
+      "num": 129578,
+      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+      "onboard_time": 1765894284,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129126,
       "num": 129126,
       "word": "王俊凯一抬手全场安静",
@@ -1899,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118805,
+      "num": 118805,
+      "word": "赵丽颖周翡",
+      "onboard_time": 1765895366,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118456,
       "num": 118456,
       "word": "疑似许光汉林俊杰给我25年最后一击",
@@ -1977,6 +2049,14 @@
       "onboard_time": 1765880720,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114352,
+      "num": 114352,
+      "word": "Pyosik爆料Deft或复出",
+      "onboard_time": 1765894045,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114210,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1765853358,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103024,
-      "num": 103024,
-      "word": "前老板发视频吐槽张凯毅老公",
-      "onboard_time": 1765892965,
-      "rank": 45,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 102993,
@@ -2931,6 +3003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71943,
+      "num": 155015,
+      "word": "新人用1000元举办极简婚礼",
+      "onboard_time": 1765895366,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71831,
       "num": 116138,
       "word": "民政局回应女子离世买墓地需审定",
@@ -3171,6 +3251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55800,
+      "num": 144462,
+      "word": "学校通报宿管人员摔死学生小猫",
+      "onboard_time": 1765894886,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55158,
       "num": 91215,
       "word": "这次是真的阴湿男吻上破碎女了",
@@ -3355,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44034,
+      "num": 153722,
+      "word": "迪桑特中国国家队雪服首秀",
+      "onboard_time": 1765893982,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43316,
       "num": 298928,
       "word": "汤唯Burberry电影感",
@@ -3441,6 +3537,14 @@
       "onboard_time": 1765810523,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36947,
+      "num": 144544,
+      "word": "内娱最想听的乐队居然在高淳跨年",
+      "onboard_time": 1765893805,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 35779,
@@ -3627,6 +3731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 28699,
+      "num": 371608,
+      "word": "温暖的身边事儿",
+      "onboard_time": 1765892208,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28644,
       "num": 195321,
       "word": "威神V和V头鞋有多智酷",
@@ -3664,14 +3776,6 @@
       "word": "中国农村的科技含量越来越高",
       "onboard_time": 1765808122,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26060,
-      "num": 371608,
-      "word": "温暖的身边事儿",
-      "onboard_time": 1765892208,
-      "rank": 8,
       "category": "民生新闻"
     },
     {

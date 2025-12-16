@@ -1,7 +1,15 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765893422552,
+  "endTime": 1765895560833,
   "band_list": [
+    {
+      "raw_hot": 13149261,
+      "num": 13149261,
+      "word": "鞠婧祎收入",
+      "onboard_time": 1765892208,
+      "rank": 24,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8376805,
       "num": 8376805,
@@ -88,14 +96,6 @@
       "word": "丝芭称已支付鞠婧祎超1.39亿",
       "onboard_time": 1765891401,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1678599,
-      "num": 346519,
-      "word": "鞠婧祎收入",
-      "onboard_time": 1765892208,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 858306,
+      "num": 329706,
+      "word": "鞠婧祎方艾特丝芭",
+      "onboard_time": 1765887921,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847369,
       "num": 1108175,
       "word": "我国已经进入拉尼娜状态",
@@ -369,6 +377,14 @@
       "onboard_time": 1765769962,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805942,
+      "num": 1128950,
+      "word": "女子被大狗撞倒身亡丈夫住进ICU",
+      "onboard_time": 1765892363,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 804085,
@@ -521,14 +537,6 @@
       "onboard_time": 1765772542,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 685960,
-      "num": 329706,
-      "word": "鞠婧祎方艾特丝芭",
-      "onboard_time": 1765887921,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 680717,
@@ -888,14 +896,6 @@
       "word": "公务员平替岗挤满没能上岸的年轻人",
       "onboard_time": 1765782562,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560649,
-      "num": 350633,
-      "word": "女子被大狗撞倒身亡丈夫住进ICU",
-      "onboard_time": 1765892363,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2707,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232067,
+      "num": 190084,
+      "word": "陈卓璇小号发长文爆新团队氛围",
+      "onboard_time": 1765895247,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231812,
       "num": 211695,
       "word": "曾把胸隆炸的网红在泰国坠亡",
@@ -2995,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215314,
+      "num": 215314,
+      "word": "高市早苗在国会遭嘘",
+      "onboard_time": 1765893625,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214537,
       "num": 214537,
       "word": "美国蜜雪冰城糖度",
@@ -3203,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204888,
+      "num": 154226,
+      "word": "Angelababy真的好美",
+      "onboard_time": 1765894945,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204684,
       "num": 204684,
       "word": "王安宇打胡先煦屁股",
@@ -3369,6 +3393,14 @@
       "onboard_time": 1765805302,
       "rank": 28,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 198172,
+      "num": 175706,
+      "word": "手机充电器千万不要一直插着不拔",
+      "onboard_time": 1765892303,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 197740,
@@ -3619,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189078,
+      "num": 154512,
+      "word": "尹正秀妻子晒蜜月照",
+      "onboard_time": 1765892605,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188919,
       "num": 188919,
       "word": "长安二十四计一晚上死了157人",
@@ -3697,6 +3737,14 @@
       "onboard_time": 1765726162,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187080,
+      "num": 187080,
+      "word": "深圳16岁少年卖烤鸡日入过万",
+      "onboard_time": 1765894163,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186457,
@@ -4011,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177303,
+      "num": 177303,
+      "word": "五年前投资100万能挣多少",
+      "onboard_time": 1765895306,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177252,
       "num": 265396,
       "word": "余承东称尊界已经出现口碑效应",
@@ -4049,14 +4105,6 @@
       "onboard_time": 1765685002,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175706,
-      "num": 175706,
-      "word": "手机充电器千万不要一直插着不拔",
-      "onboard_time": 1765892303,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 175336,
@@ -4139,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172800,
+      "num": 403268,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1765885700,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172595,
       "num": 172595,
       "word": "厕所安装吸烟会变透明玻璃",
@@ -4201,14 +4257,6 @@
       "onboard_time": 1765860083,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170548,
-      "num": 403268,
-      "word": "微博之夜年度推荐",
-      "onboard_time": 1765885700,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169961,
@@ -4281,6 +4329,14 @@
       "onboard_time": 1765805784,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166273,
+      "num": 166273,
+      "word": "前老板发视频吐槽张凯毅老公",
+      "onboard_time": 1765892965,
+      "rank": 45,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 166180,
@@ -4707,14 +4763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154512,
-      "num": 154512,
-      "word": "尹正秀妻子晒蜜月照",
-      "onboard_time": 1765892605,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "汕头火灾独自逃生10岁女孩整日哭",
@@ -4993,6 +5041,14 @@
       "onboard_time": 1765866381,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 144879,
+      "num": 144879,
+      "word": "方博说樊振东三大赛没输过外协",
+      "onboard_time": 1765894586,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 144841,
@@ -5747,6 +5803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129578,
+      "num": 129578,
+      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+      "onboard_time": 1765894284,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129550,
       "num": 129550,
       "word": "麦当劳汉堡 缩水",
@@ -6275,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118805,
+      "num": 118805,
+      "word": "赵丽颖周翡",
+      "onboard_time": 1765895366,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118616,
       "num": 118616,
       "word": "遭索要奖金运动员去年被记大功",
@@ -6569,6 +6641,14 @@
       "onboard_time": 1765703002,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114352,
+      "num": 114352,
+      "word": "Pyosik爆料Deft或复出",
+      "onboard_time": 1765894045,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114283,
@@ -7177,14 +7257,6 @@
       "onboard_time": 1765853358,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103024,
-      "num": 103024,
-      "word": "前老板发视频吐槽张凯毅老公",
-      "onboard_time": 1765892965,
-      "rank": 45,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 102961,
@@ -8907,6 +8979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71943,
+      "num": 155015,
+      "word": "新人用1000元举办极简婚礼",
+      "onboard_time": 1765895366,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71831,
       "num": 116138,
       "word": "民政局回应女子离世买墓地需审定",
@@ -9579,6 +9659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55800,
+      "num": 144462,
+      "word": "学校通报宿管人员摔死学生小猫",
+      "onboard_time": 1765894886,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54994,
       "num": 98671,
       "word": "罗永浩带货沃尔沃全新XC70",
@@ -9883,6 +9971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44034,
+      "num": 153722,
+      "word": "迪桑特中国国家队雪服首秀",
+      "onboard_time": 1765893982,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43698,
       "num": 191893,
       "word": "女子结婚14年被家暴13年案今日开庭",
@@ -10169,6 +10265,14 @@
       "onboard_time": 1765810523,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36947,
+      "num": 144544,
+      "word": "内娱最想听的乐队居然在高淳跨年",
+      "onboard_time": 1765893805,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 36775,
@@ -10659,6 +10763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28699,
+      "num": 371608,
+      "word": "温暖的身边事儿",
+      "onboard_time": 1765892208,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28644,
       "num": 195321,
       "word": "威神V和V头鞋有多智酷",
@@ -10745,14 +10857,6 @@
       "onboard_time": 1765655594,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26060,
-      "num": 371608,
-      "word": "温暖的身边事儿",
-      "onboard_time": 1765892208,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25980,

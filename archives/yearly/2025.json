@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765893422552,
+  "endTime": 1765895560833,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -736,6 +736,14 @@
       "word": "左航 撞人",
       "onboard_time": 1759838601,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13149261,
+      "num": 13149261,
+      "word": "鞠婧祎收入",
+      "onboard_time": 1765892208,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1754042484,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6694211,
-      "num": 6694211,
-      "word": "范玮琪声音好抖",
-      "onboard_time": 1749214224,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
