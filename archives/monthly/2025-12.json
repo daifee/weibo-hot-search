@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765910527564,
+  "endTime": 1765911350951,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -56089,6 +56089,14 @@
       "onboard_time": 1765739775,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15388,
+      "num": 30717,
+      "word": "小狗穿棉衣在雪地行走神似肉松面包",
+      "onboard_time": 1765908194,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 15379,
