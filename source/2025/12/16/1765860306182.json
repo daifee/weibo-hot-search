@@ -1,0 +1,410 @@
+{
+  "runTime": 1765860306182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 444414,
+        "num": 1071106,
+        "word": "中美卫星仅距200米惊险擦肩",
+        "onboard_time": 1765855161,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329412,
+        "num": 329412,
+        "word": "肝癌晚期父亲让女儿陪着买寿衣",
+        "onboard_time": 1765846160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2820,
+        "num": 303721,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279556,
+        "num": 279556,
+        "word": "黄磊是胡歌李沁新剧总导演",
+        "onboard_time": 1765852280,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276240,
+        "num": 276240,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482620,
+        "num": 276081,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194557,
+        "num": 275854,
+        "word": "25B站跨年晚会官宣",
+        "onboard_time": 1765853240,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180338,
+        "num": 275776,
+        "word": "中华书局下架召回唐诗三百首",
+        "onboard_time": 1765846581,
+        "rank": 7,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 154373,
+        "num": 275537,
+        "word": "中美合作查获可卡因430公斤",
+        "onboard_time": 1765853602,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275451,
+        "num": 275451,
+        "word": "被害女孩临终遗言我被捅刀了",
+        "onboard_time": 1765858341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2059679,
+        "num": 274837,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 648619,
+        "num": 274614,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601064,
+        "num": 274108,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400825,
+        "num": 273246,
+        "word": "频繁做美甲 伤害不可逆",
+        "onboard_time": 1765859183,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 371101,
+        "num": 272634,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350431,
+        "num": 271861,
+        "word": "王一博杂志秒罄",
+        "onboard_time": 1765859122,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345076,
+        "num": 271475,
+        "word": "吴秀波被执行6200万",
+        "onboard_time": 1765857801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270852,
+        "num": 270852,
+        "word": "周柯宇陈鑫海 内娱双胞胎",
+        "onboard_time": 1765858341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54531,
+        "num": 265049,
+        "word": "阿福治好了我的疑病症",
+        "onboard_time": 1765857923,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260778,
+        "num": 260778,
+        "word": "破了3亿得闲谨制主创们才敢说真话",
+        "onboard_time": 1765857742,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317386,
+        "num": 253904,
+        "word": "姚明15岁女儿身高近2米",
+        "onboard_time": 1765858282,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309643,
+        "num": 251826,
+        "word": "王一博T锦绣12月刊封面",
+        "onboard_time": 1765858403,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244209,
+        "num": 244209,
+        "word": "郑恺问苗苗今天为什么要化妆",
+        "onboard_time": 1765851799,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226947,
+        "num": 226947,
+        "word": "妹妹被收养哥哥守了她7年",
+        "onboard_time": 1765857502,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40202,
+        "num": 205774,
+        "word": "门口遇害案母亲穿女儿选的衣服出庭",
+        "onboard_time": 1765858823,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205747,
+        "num": 205747,
+        "word": "尹正一个月演了俩鬼子",
+        "onboard_time": 1765858223,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186215,
+        "num": 186215,
+        "word": "你的小棉袄摔成小王八了",
+        "onboard_time": 1765852880,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163148,
+        "num": 185871,
+        "word": "别让小洛熙的通报成为二次伤害",
+        "onboard_time": 1765858462,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185860,
+        "num": 185860,
+        "word": "安吉丽娜朱莉首度公开手术疤痕",
+        "onboard_time": 1765856962,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75202,
+        "num": 174911,
+        "word": "我的车今天好像有情绪了",
+        "onboard_time": 1765857862,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191614,
+        "num": 173605,
+        "word": "离婚后她隐居冰岛小镇当公务员",
+        "onboard_time": 1765856901,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170843,
+        "num": 170843,
+        "word": "曾舜晞还是那么喜欢香芋奶茶",
+        "onboard_time": 1765860083,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170640,
+        "num": 170640,
+        "word": "周柯宇 哪来的",
+        "onboard_time": 1765859842,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "美国将芬太尼列为大规模杀伤性武器",
+        "onboard_time": 1765859302,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163894,
+        "num": 163894,
+        "word": "金渐层一怒之下窝囊了一下",
+        "onboard_time": 1765859842,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160526,
+        "num": 160526,
+        "word": "2025票房号召力男演员TOP10",
+        "onboard_time": 1765859722,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350295,
+        "num": 160251,
+        "word": "凶手称家门口被捅女子害她坐被告席",
+        "onboard_time": 1765852280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159206,
+        "num": 159206,
+        "word": "在线等曹骏舒畅的售后",
+        "onboard_time": 1765857682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110949,
+        "num": 155900,
+        "word": "金价又涨了",
+        "onboard_time": 1765857083,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 154669,
+        "word": "58岁侯勇带三婚老婆和儿子亮相",
+        "onboard_time": 1765860025,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89055,
+        "num": 154006,
+        "word": "何与 水龙头体质",
+        "onboard_time": 1765859062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153909,
+        "num": 153909,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142652,
+        "num": 142652,
+        "word": "刘奕君 咋还跟这小鲜肉过不去呢",
+        "onboard_time": 1765859421,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67784,
+        "num": 139530,
+        "word": "陈妍希 妹妹姐也是姐",
+        "onboard_time": 1765860262,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70376,
+        "num": 139252,
+        "word": "27岁女儿家门口遇害母亲用AI复活",
+        "onboard_time": 1765858823,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138983,
+        "num": 138983,
+        "word": "疯狂动物城2官宣延期下映",
+        "onboard_time": 1765857742,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135466,
+        "num": 135466,
+        "word": "金价",
+        "onboard_time": 1765844901,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129694,
+        "num": 129694,
+        "word": "人间有味官宣胡歌李沁",
+        "onboard_time": 1765851981,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104386,
+        "num": 123964,
+        "word": "A股智能驾驶概念多股涨停",
+        "onboard_time": 1765860025,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94392,
+        "num": 123315,
+        "word": "2岁男童误服去污膏肠胃全腐蚀",
+        "onboard_time": 1765860262,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
