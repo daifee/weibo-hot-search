@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765860306182,
+  "endTime": 1765860932518,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -59,8 +59,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 619393,
+      "num": 273246,
+      "word": "频繁做美甲 伤害不可逆",
+      "onboard_time": 1765859183,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 601064,
-      "num": 274108,
+      "num": 1086682,
       "word": "狙击蝴蝶原著 李雾殉情",
       "onboard_time": 1765859003,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 482620,
-      "num": 276081,
+      "num": 288604,
       "word": "独居女子离世遗产归公买墓地需审定",
       "onboard_time": 1765855462,
       "rank": 36,
@@ -123,12 +131,20 @@
       "category": "读书作家,民生新闻"
     },
     {
-      "raw_hot": 444414,
+      "raw_hot": 446376,
       "num": 1071106,
       "word": "中美卫星仅距200米惊险擦肩",
       "onboard_time": 1765855161,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 430759,
+      "num": 271475,
+      "word": "吴秀波被执行6200万",
+      "onboard_time": 1765857801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 425740,
@@ -155,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400825,
-      "num": 273246,
-      "word": "频繁做美甲 伤害不可逆",
-      "onboard_time": 1765859183,
-      "rank": 13,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 394409,
       "num": 279556,
       "word": "黄磊是胡歌李沁新剧总导演",
@@ -177,6 +185,14 @@
       "onboard_time": 1765808663,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 367418,
+      "num": 253904,
+      "word": "姚明15岁女儿身高近2米",
+      "onboard_time": 1765858282,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 354808,
@@ -219,20 +235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 345076,
-      "num": 271475,
-      "word": "吴秀波被执行6200万",
-      "onboard_time": 1765857801,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317386,
-      "num": 253904,
-      "word": "姚明15岁女儿身高近2米",
-      "onboard_time": 1765858282,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 343721,
+      "num": 275451,
+      "word": "被害女孩临终遗言我被捅刀了",
+      "onboard_time": 1765858341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316308,
@@ -241,6 +249,14 @@
       "onboard_time": 1765809563,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315767,
+      "num": 315767,
+      "word": "考研味最重的一张照片",
+      "onboard_time": 1765855462,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 309643,
@@ -275,36 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295322,
+      "num": 270852,
+      "word": "周柯宇陈鑫海 内娱双胞胎",
+      "onboard_time": 1765858341,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294228,
       "num": 741521,
       "word": "美国蜜雪冰城价格",
       "onboard_time": 1765807103,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 276240,
-      "num": 276240,
-      "word": "考研味最重的一张照片",
-      "onboard_time": 1765855462,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 275451,
-      "num": 275451,
-      "word": "被害女孩临终遗言我被捅刀了",
-      "onboard_time": 1765858341,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270852,
-      "num": 270852,
-      "word": "周柯宇陈鑫海 内娱双胞胎",
-      "onboard_time": 1765858341,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 264228,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234947,
+      "num": 186828,
+      "word": "金渐层一怒之下窝囊了一下",
+      "onboard_time": 1765859842,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232889,
       "num": 275854,
       "word": "25B站跨年晚会官宣",
@@ -417,6 +425,14 @@
       "onboard_time": 1765839677,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206840,
+      "num": 206840,
+      "word": "周柯宇 哪来的",
+      "onboard_time": 1765859842,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205747,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192616,
+      "num": 192616,
+      "word": "58岁侯勇带三婚老婆和儿子亮相",
+      "onboard_time": 1765860025,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192057,
       "num": 143797,
       "word": "慢性炎症会唤醒休眠的癌细胞",
@@ -468,11 +492,19 @@
     },
     {
       "raw_hot": 191614,
-      "num": 173605,
+      "num": 184773,
       "word": "离婚后她隐居冰岛小镇当公务员",
       "onboard_time": 1765856901,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188619,
+      "num": 188619,
+      "word": "2025票房号召力男演员TOP10",
+      "onboard_time": 1765859722,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 181538,
@@ -499,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174322,
+      "num": 174322,
+      "word": "综艺也有替身了",
+      "onboard_time": 1765860744,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170843,
       "num": 170843,
       "word": "曾舜晞还是那么喜欢香芋奶茶",
@@ -507,28 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170640,
-      "num": 170640,
-      "word": "周柯宇 哪来的",
-      "onboard_time": 1765859842,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "美国将芬太尼列为大规模杀伤性武器",
       "onboard_time": 1765859302,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163894,
-      "num": 163894,
-      "word": "金渐层一怒之下窝囊了一下",
-      "onboard_time": 1765859842,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 163538,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 163148,
-      "num": 185871,
+      "num": 188696,
       "word": "别让小洛熙的通报成为二次伤害",
       "onboard_time": 1765858462,
       "rank": 27,
@@ -553,14 +577,6 @@
       "onboard_time": 1765844661,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "2025票房号召力男演员TOP10",
-      "onboard_time": 1765859722,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 159206,
@@ -611,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146216,
+      "num": 146216,
+      "word": "张根硕抗癌成功",
+      "onboard_time": 1765860863,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143767,
       "num": 143767,
       "word": "人间有味",
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143071,
+      "num": 143071,
+      "word": "疯狂动物城2官宣延期下映",
+      "onboard_time": 1765857742,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "刘奕君 咋还跟这小鲜肉过不去呢",
@@ -643,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138983,
-      "num": 138983,
-      "word": "疯狂动物城2官宣延期下映",
-      "onboard_time": 1765857742,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 141064,
+      "num": 141064,
+      "word": "孟晚舟卸任华为终端公司董事",
+      "onboard_time": 1765860803,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 134724,
@@ -657,6 +689,14 @@
       "onboard_time": 1765854022,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133759,
+      "num": 133759,
+      "word": "全人类进入水仙时代",
+      "onboard_time": 1765860744,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 133262,
@@ -761,14 +801,6 @@
       "onboard_time": 1765856782,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113407,
-      "num": 154669,
-      "word": "58岁侯勇带三婚老婆和儿子亮相",
-      "onboard_time": 1765860025,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 110949,
@@ -1099,8 +1131,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76648,
+      "num": 168009,
+      "word": "陈妍希 妹妹姐也是姐",
+      "onboard_time": 1765860262,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75202,
-      "num": 174911,
+      "num": 188635,
       "word": "我的车今天好像有情绪了",
       "onboard_time": 1765857862,
       "rank": 29,
@@ -1169,14 +1209,6 @@
       "onboard_time": 1765809804,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67784,
-      "num": 139530,
-      "word": "陈妍希 妹妹姐也是姐",
-      "onboard_time": 1765860262,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 67360,
@@ -1628,7 +1660,7 @@
     },
     {
       "raw_hot": 12016,
-      "num": 125876,
+      "num": 243464,
       "word": "回望2025中国经济",
       "onboard_time": 1765806083,
       "rank": 8,
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9118,
+      "num": 168660,
+      "word": "中国代表在安理会批驳高市妄言",
+      "onboard_time": 1765860803,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8896,
       "num": 91156,
       "word": "2025中国经济这些首次真提气",
@@ -1667,17 +1707,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7441,
+      "num": 239140,
+      "word": "海南电力输送能力提升超4倍",
+      "onboard_time": 1765860562,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6339,
       "num": 110346,
       "word": "多家超10年店龄网红女装闭店",
       "onboard_time": 1765857682,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5671,
+      "num": 254499,
+      "word": "工业机器人产量增长超20%",
+      "onboard_time": 1765860803,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4271,
+      "num": 323470,
+      "word": "中国农村的科技含量越来越高",
+      "onboard_time": 1765808122,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#为未成年人健康成长营造良好社会环境#"
+    },
+    {
+      "word": "#引导广大未成年人树立远大理想#"
     }
   ]
 }
