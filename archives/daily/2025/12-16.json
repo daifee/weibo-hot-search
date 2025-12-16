@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765877678409,
+  "endTime": 1765878523391,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646476,
+      "num": 198941,
+      "word": "咒骂学生全得甲流教师已停职",
+      "onboard_time": 1765875502,
+      "rank": 10,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 645936,
       "num": 645936,
       "word": "警方通报一警车下来3人牵着宠物狗",
@@ -163,16 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 558500,
-      "num": 198941,
-      "word": "咒骂学生全得甲流教师已停职",
-      "onboard_time": 1765875502,
-      "rank": 10,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 522674,
-      "num": 522674,
+      "raw_hot": 570701,
+      "num": 570701,
       "word": "生育成本社会共担来了",
       "onboard_time": 1765874361,
       "rank": 45,
@@ -209,6 +209,14 @@
       "onboard_time": 1765855462,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481803,
+      "num": 172623,
+      "word": "王俊凯全红婵不是很友好的互动吗",
+      "onboard_time": 1765877663,
+      "rank": 11,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 481499,
@@ -515,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275376,
+      "num": 275376,
+      "word": "年度奶茶",
+      "onboard_time": 1765876581,
+      "rank": 32,
+      "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 267239,
+      "num": 198724,
+      "word": "黄子韬曝男明星群都在内卷健身",
+      "onboard_time": 1765873342,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264228,
       "num": 124667,
       "word": "张韶涵新旧发型师差距太大了",
@@ -577,14 +601,6 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247841,
-      "num": 198724,
-      "word": "黄子韬曝男明星群都在内卷健身",
-      "onboard_time": 1765873342,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 247410,
@@ -763,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200169,
+      "num": 171767,
+      "word": "胡歌李沁开机照",
+      "onboard_time": 1765877901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200148,
+      "num": 187915,
+      "word": "王俊凯话剧趁世界还年青剧照",
+      "onboard_time": 1765862721,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199366,
       "num": 199366,
       "word": "GEN首位中援Cryin",
@@ -841,14 +873,6 @@
       "onboard_time": 1765859722,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187915,
-      "num": 187915,
-      "word": "王俊凯话剧趁世界还年青剧照",
-      "onboard_time": 1765862721,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 186294,
@@ -945,6 +969,14 @@
       "onboard_time": 1765861102,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171506,
+      "num": 171506,
+      "word": "A股为何全线下跌",
+      "onboard_time": 1765876940,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 171004,
@@ -1155,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138362,
+      "num": 138362,
+      "word": "前360高管炮轰周鸿祎",
+      "onboard_time": 1765877483,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136850,
       "num": 136850,
       "word": "爱你老己是一生的必修课",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1765854022,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134109,
+      "num": 134109,
+      "word": "成毅又在剧宣时闯祸了",
+      "onboard_time": 1765878144,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 134077,
@@ -1267,6 +1315,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "性格内向的人狠狠共鸣了",
+      "onboard_time": 1765872203,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130627,
       "num": 130627,
       "word": "内娱终于有综艺把走后门说出来了",
@@ -1283,20 +1339,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127938,
+      "num": 115814,
+      "word": "彭小苒礼服内贴了20个暖宝宝",
+      "onboard_time": 1765878084,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126044,
       "num": 126044,
       "word": "岑矜李雾女儿叫岑想",
       "onboard_time": 1765855822,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125790,
-      "num": 125790,
-      "word": "年度奶茶",
-      "onboard_time": 1765876581,
-      "rank": 32,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 124944,
@@ -1339,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122690,
-      "num": 122690,
-      "word": "A股为何全线下跌",
-      "onboard_time": 1765876940,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122112,
       "num": 122112,
       "word": "前国脚戴琳回应欠球迷救命钱不还",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1765840637,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121799,
-      "num": 121799,
-      "word": "性格内向的人狠狠共鸣了",
-      "onboard_time": 1765872203,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 121356,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1765856542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116490,
+      "num": 116490,
+      "word": "刘亦菲的脚 脚中刘亦菲",
+      "onboard_time": 1765878262,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 115861,
@@ -1515,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109982,
-      "num": 109982,
-      "word": "前360高管炮轰周鸿祎",
-      "onboard_time": 1765877483,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109721,
       "num": 109721,
       "word": "杨紫胡歌生命树央视综合频道",
@@ -1563,6 +1603,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 108609,
+      "num": 108609,
+      "word": "狗狗被电成了嗦过的芒果核",
+      "onboard_time": 1765877964,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108093,
       "num": 140208,
       "word": "智残村民被任命为村支书当了老赖",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1765865181,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105737,
+      "num": 105737,
+      "word": "易烊千玺 不要把自己的努力看太重",
+      "onboard_time": 1765878204,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 104682,
@@ -1600,6 +1656,14 @@
       "word": "何晴离世前用尽全身力气拉紧儿子的手",
       "onboard_time": 1765796722,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103430,
+      "num": 103430,
+      "word": "向佐晒了一家四口合照",
+      "onboard_time": 1765878382,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1785,6 +1849,14 @@
       "onboard_time": 1765796782,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93140,
+      "num": 171624,
+      "word": "田曦薇出个live教学吧",
+      "onboard_time": 1765877841,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 92778,
@@ -2667,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30165,
+      "num": 172048,
+      "word": "张婧仪Burberry红风衣",
+      "onboard_time": 1765877841,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29431,
       "num": 42948,
       "word": "黄金疯涨为何买金者卖金者都受伤",
@@ -2723,6 +2803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25361,
+      "num": 115877,
+      "word": "女子称拒绝陌生男子搭讪遭殴打",
+      "onboard_time": 1765878022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25290,
       "num": 114439,
       "word": "乔任梁爸爸出院了",
@@ -2747,12 +2835,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 24528,
+      "num": 115815,
+      "word": "李登科用姚景元搭话刘耀文",
+      "onboard_time": 1765877602,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24280,
       "num": 93509,
       "word": "家暴13年男子当庭说这是家务事",
       "onboard_time": 1765870583,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22582,
+      "num": 177725,
+      "word": "我国自研世界最大直径高铁盾构机新突破",
+      "onboard_time": 1765873643,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22537,
@@ -2811,6 +2915,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 14045,
+      "num": 172167,
+      "word": "民政局担任孤独死遗产管理人",
+      "onboard_time": 1765878084,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13537,
       "num": 34852,
       "word": "尹锡悦等24人被提起诉讼",
@@ -2841,14 +2953,6 @@
       "onboard_time": 1765806083,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11442,
-      "num": 111888,
-      "word": "李登科用姚景元搭话刘耀文",
-      "onboard_time": 1765877602,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 9596,

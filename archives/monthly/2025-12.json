@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765877678409,
+  "endTime": 1765878523391,
   "band_list": [
     {
       "raw_hot": 9963382,
@@ -3451,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646476,
+      "num": 198941,
+      "word": "咒骂学生全得甲流教师已停职",
+      "onboard_time": 1765875502,
+      "rank": 10,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 645936,
       "num": 645936,
       "word": "警方通报一警车下来3人牵着宠物狗",
@@ -4395,6 +4403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 570701,
+      "num": 570701,
+      "word": "生育成本社会共担来了",
+      "onboard_time": 1765874361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570034,
       "num": 439603,
       "word": "水库冰面下发现13匹冰冻马",
@@ -4577,14 +4593,6 @@
       "onboard_time": 1765710322,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558500,
-      "num": 198941,
-      "word": "咒骂学生全得甲流教师已停职",
-      "onboard_time": 1765875502,
-      "rank": 10,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 558153,
@@ -5144,14 +5152,6 @@
       "word": "电动车新国标",
       "onboard_time": 1764727700,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522674,
-      "num": 522674,
-      "word": "生育成本社会共担来了",
-      "onboard_time": 1765874361,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -5969,6 +5969,14 @@
       "onboard_time": 1765088480,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 481803,
+      "num": 172623,
+      "word": "王俊凯全红婵不是很友好的互动吗",
+      "onboard_time": 1765877663,
+      "rank": 11,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 481499,
@@ -12067,6 +12075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275376,
+      "num": 275376,
+      "word": "年度奶茶",
+      "onboard_time": 1765876581,
+      "rank": 32,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 275204,
       "num": 184888,
       "word": "孙颖莎走路一瘸一拐",
@@ -12400,6 +12416,14 @@
       "word": "张若昀 谁说演员不能看镜头",
       "onboard_time": 1765613839,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267239,
+      "num": 198724,
+      "word": "黄子韬曝男明星群都在内卷健身",
+      "onboard_time": 1765873342,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -13369,14 +13393,6 @@
       "onboard_time": 1765215376,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247841,
-      "num": 198724,
-      "word": "黄子韬曝男明星群都在内卷健身",
-      "onboard_time": 1765873342,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 247800,
@@ -17083,6 +17099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200169,
+      "num": 171767,
+      "word": "胡歌李沁开机照",
+      "onboard_time": 1765877901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -17097,6 +17121,14 @@
       "onboard_time": 1765453822,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200148,
+      "num": 187915,
+      "word": "王俊凯话剧趁世界还年青剧照",
+      "onboard_time": 1765862721,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 200003,
@@ -18649,14 +18681,6 @@
       "onboard_time": 1764500120,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187915,
-      "num": 187915,
-      "word": "王俊凯话剧趁世界还年青剧照",
-      "onboard_time": 1765862721,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 187892,
@@ -20825,6 +20849,14 @@
       "onboard_time": 1764594264,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171506,
+      "num": 171506,
+      "word": "A股为何全线下跌",
+      "onboard_time": 1765876940,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 171502,
@@ -26683,6 +26715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138362,
+      "num": 138362,
+      "word": "前360高管炮轰周鸿祎",
+      "onboard_time": 1765877483,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138296,
       "num": 138296,
       "word": "属于下雪天的情绪价值",
@@ -27731,6 +27771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134109,
+      "num": 134109,
+      "word": "成毅又在剧宣时闯祸了",
+      "onboard_time": 1765878144,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134077,
       "num": 134077,
       "word": "长安二十四计直播",
@@ -28313,6 +28361,14 @@
       "onboard_time": 1765251324,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "性格内向的人狠狠共鸣了",
+      "onboard_time": 1765872203,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 132135,
@@ -29411,6 +29467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127938,
+      "num": 115814,
+      "word": "彭小苒礼服内贴了20个暖宝宝",
+      "onboard_time": 1765878084,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127920,
       "num": 127920,
       "word": "大李雾 小李雾",
@@ -29921,14 +29985,6 @@
       "onboard_time": 1764726801,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125790,
-      "num": 125790,
-      "word": "年度奶茶",
-      "onboard_time": 1765876581,
-      "rank": 32,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 125789,
@@ -30747,14 +30803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122690,
-      "num": 122690,
-      "word": "A股为何全线下跌",
-      "onboard_time": 1765876940,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122689,
       "num": 122689,
       "word": "皮皮限停播",
@@ -31065,14 +31113,6 @@
       "onboard_time": 1765531162,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121799,
-      "num": 121799,
-      "word": "性格内向的人狠狠共鸣了",
-      "onboard_time": 1765872203,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 121793,
@@ -32800,6 +32840,14 @@
       "word": "董璇小酒窝去佟大为女儿艺术展",
       "onboard_time": 1764575603,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116490,
+      "num": 116490,
+      "word": "刘亦菲的脚 脚中刘亦菲",
+      "onboard_time": 1765878262,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -34755,14 +34803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109982,
-      "num": 109982,
-      "word": "前360高管炮轰周鸿祎",
-      "onboard_time": 1765877483,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109943,
       "num": 553467,
       "word": "早田希娜张本美和1比0吴咏琳朱成竹",
@@ -35217,6 +35257,14 @@
       "onboard_time": 1765538182,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108609,
+      "num": 108609,
+      "word": "狗狗被电成了嗦过的芒果核",
+      "onboard_time": 1765877964,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 108502,
@@ -35987,6 +36035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105737,
+      "num": 105737,
+      "word": "易烊千玺 不要把自己的努力看太重",
+      "onboard_time": 1765878204,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105671,
       "num": 105671,
       "word": "天生瘦子一天吃什么",
@@ -36673,6 +36729,14 @@
       "onboard_time": 1765261761,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103430,
+      "num": 103430,
+      "word": "向佐晒了一家四口合照",
+      "onboard_time": 1765878382,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 103366,
@@ -39825,6 +39889,14 @@
       "onboard_time": 1765065738,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93140,
+      "num": 171624,
+      "word": "田曦薇出个live教学吧",
+      "onboard_time": 1765877841,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 93095,
@@ -51971,6 +52043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30165,
+      "num": 172048,
+      "word": "张婧仪Burberry红风衣",
+      "onboard_time": 1765877841,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30156,
       "num": 99060,
       "word": "美容院阻止穿衣逼顾客网贷消费",
@@ -53035,6 +53115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25361,
+      "num": 115877,
+      "word": "女子称拒绝陌生男子搭讪遭殴打",
+      "onboard_time": 1765878022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25338,
       "num": 107140,
       "word": "真实的美国是什么样的",
@@ -53217,6 +53305,14 @@
       "onboard_time": 1765441762,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24528,
+      "num": 115815,
+      "word": "李登科用姚景元搭话刘耀文",
+      "onboard_time": 1765877602,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 24506,
@@ -53617,6 +53713,14 @@
       "onboard_time": 1765461622,
       "rank": 49,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 22582,
+      "num": 177725,
+      "word": "我国自研世界最大直径高铁盾构机新突破",
+      "onboard_time": 1765873643,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22537,
@@ -54859,6 +54963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14045,
+      "num": 172167,
+      "word": "民政局担任孤独死遗产管理人",
+      "onboard_time": 1765878084,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13996,
       "num": 523370,
       "word": "11月我国外贸增速回升至4.1%",
@@ -55233,14 +55345,6 @@
       "onboard_time": 1764683003,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11442,
-      "num": 111888,
-      "word": "李登科用姚景元搭话刘耀文",
-      "onboard_time": 1765877602,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 11412,

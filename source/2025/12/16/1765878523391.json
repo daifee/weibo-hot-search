@@ -1,0 +1,410 @@
+{
+  "runTime": 1765878523391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942270,
+        "num": 1150763,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 570701,
+        "num": 570701,
+        "word": "生育成本社会共担来了",
+        "onboard_time": 1765874361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30381,
+        "num": 398298,
+        "word": "一句话总结你的2025",
+        "onboard_time": 1765873643,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348204,
+        "num": 348204,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287888,
+        "num": 287888,
+        "word": "天价救护车事件涉事医院被罚",
+        "onboard_time": 1765875141,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 275376,
+        "num": 275376,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 5,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 259786,
+        "num": 259786,
+        "word": "怪不得唐诡奇谭要单独播",
+        "onboard_time": 1765869563,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194306,
+        "num": 194306,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22582,
+        "num": 177725,
+        "word": "我国自研世界最大直径高铁盾构机新突破",
+        "onboard_time": 1765873643,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172700,
+        "num": 172700,
+        "word": "苹果安卓实现互通",
+        "onboard_time": 1765870042,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 646476,
+        "num": 172660,
+        "word": "咒骂学生全得甲流教师已停职",
+        "onboard_time": 1765875502,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 481803,
+        "num": 172623,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 11,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 353156,
+        "num": 172548,
+        "word": "小狗天塌了一晚上白干",
+        "onboard_time": 1765871243,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321178,
+        "num": 172470,
+        "word": "店家回应女子全裸按摩遇男技师",
+        "onboard_time": 1765874901,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267239,
+        "num": 172403,
+        "word": "黄子韬曝男明星群都在内卷健身",
+        "onboard_time": 1765873342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238754,
+        "num": 172342,
+        "word": "高圆圆 替身",
+        "onboard_time": 1765871843,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220090,
+        "num": 172294,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52812,
+        "num": 172219,
+        "word": "阿福从智能手表里读懂了我的睡眠",
+        "onboard_time": 1765875922,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14045,
+        "num": 172167,
+        "word": "民政局担任孤独死遗产管理人",
+        "onboard_time": 1765878084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30165,
+        "num": 172048,
+        "word": "张婧仪Burberry红风衣",
+        "onboard_time": 1765877841,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536592,
+        "num": 172006,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506100,
+        "num": 171958,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28703,
+        "num": 171845,
+        "word": "吴磊Burberry新年",
+        "onboard_time": 1765875383,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48347,
+        "num": 171819,
+        "word": "新浪扫楼再现王鹤棣苍兰诀名场面",
+        "onboard_time": 1765877121,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200169,
+        "num": 171767,
+        "word": "胡歌李沁开机照",
+        "onboard_time": 1765877901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200148,
+        "num": 171671,
+        "word": "王俊凯话剧趁世界还年青剧照",
+        "onboard_time": 1765862721,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93140,
+        "num": 171624,
+        "word": "田曦薇出个live教学吧",
+        "onboard_time": 1765877841,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196713,
+        "num": 171508,
+        "word": "王劲松吴刚 短剧",
+        "onboard_time": 1765873643,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171506,
+        "num": 171506,
+        "word": "A股为何全线下跌",
+        "onboard_time": 1765876940,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145424,
+        "num": 145424,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138362,
+        "num": 138362,
+        "word": "前360高管炮轰周鸿祎",
+        "onboard_time": 1765877483,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134109,
+        "num": 134109,
+        "word": "成毅又在剧宣时闯祸了",
+        "onboard_time": 1765878144,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132716,
+        "num": 132716,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1765877000,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132152,
+        "num": 132152,
+        "word": "性格内向的人狠狠共鸣了",
+        "onboard_time": 1765872203,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "人民币又大涨",
+        "onboard_time": 1765867101,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122095,
+        "num": 122095,
+        "word": "小米回应K80手机换新3次还是故障",
+        "onboard_time": 1765876402,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116490,
+        "num": 116490,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25361,
+        "num": 115877,
+        "word": "女子称拒绝陌生男子搭讪遭殴打",
+        "onboard_time": 1765878022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24528,
+        "num": 115815,
+        "word": "李登科用姚景元搭话刘耀文",
+        "onboard_time": 1765877602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127938,
+        "num": 115814,
+        "word": "彭小苒礼服内贴了20个暖宝宝",
+        "onboard_time": 1765878084,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115813,
+        "num": 115813,
+        "word": "炎症高的人一定少做3件事",
+        "onboard_time": 1765869144,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108609,
+        "num": 108609,
+        "word": "狗狗被电成了嗦过的芒果核",
+        "onboard_time": 1765877964,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108359,
+        "num": 108359,
+        "word": "前国脚戴琳回应欠球迷救命钱不还",
+        "onboard_time": 1765876581,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106623,
+        "num": 106623,
+        "word": "恋与深空回应被指恶俗",
+        "onboard_time": 1765862121,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49579,
+        "num": 106286,
+        "word": "这是内娱国产剧该有的尺度吗",
+        "onboard_time": 1765877062,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106225,
+        "num": 106225,
+        "word": "悉尼枪击事件中英勇夺枪男子留遗言",
+        "onboard_time": 1765862062,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105737,
+        "num": 105737,
+        "word": "易烊千玺 不要把自己的努力看太重",
+        "onboard_time": 1765878204,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103430,
+        "num": 103430,
+        "word": "向佐晒了一家四口合照",
+        "onboard_time": 1765878382,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100647,
+        "num": 100647,
+        "word": "小洛熙是否需要立即手术存疑",
+        "onboard_time": 1765877362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100098,
+        "num": 100098,
+        "word": "张根硕抗癌成功",
+        "onboard_time": 1765860863,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}
