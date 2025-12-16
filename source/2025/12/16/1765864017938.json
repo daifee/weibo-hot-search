@@ -1,0 +1,410 @@
+{
+  "runTime": 1765864017938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540247,
+        "num": 1086439,
+        "word": "狙击蝴蝶原著 李雾殉情",
+        "onboard_time": 1765859003,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495869,
+        "num": 495869,
+        "word": "孟晚舟卸任华为终端公司董事",
+        "onboard_time": 1765860803,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26829,
+        "num": 457203,
+        "word": "中国农村的科技含量越来越高",
+        "onboard_time": 1765808122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418806,
+        "num": 418806,
+        "word": "恋与深空回应被指恶俗",
+        "onboard_time": 1765862121,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220589,
+        "num": 220589,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239088,
+        "num": 220464,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167178,
+        "num": 220014,
+        "word": "中美卫星仅距200米惊险擦肩",
+        "onboard_time": 1765855161,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166384,
+        "num": 219668,
+        "word": "一人之下第六季定档",
+        "onboard_time": 1765862002,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148442,
+        "num": 219373,
+        "word": "悉尼枪击事件中英勇夺枪男子留遗言",
+        "onboard_time": 1765862062,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124905,
+        "num": 218947,
+        "word": "肝癌晚期父亲让女儿陪着买寿衣",
+        "onboard_time": 1765846160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779173,
+        "num": 218819,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 624063,
+        "num": 218538,
+        "word": "杨幂大学上形体课照片",
+        "onboard_time": 1765862840,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460854,
+        "num": 218046,
+        "word": "频繁做美甲 伤害不可逆",
+        "onboard_time": 1765859183,
+        "rank": 12,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 260091,
+        "num": 217752,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246061,
+        "num": 217479,
+        "word": "曝TOP出道秀人面试恋综",
+        "onboard_time": 1765862002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243256,
+        "num": 217176,
+        "word": "吴秀波被执行6200万",
+        "onboard_time": 1765857801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158742,
+        "num": 216872,
+        "word": "黄磊是胡歌李沁新剧总导演",
+        "onboard_time": 1765852280,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226353,
+        "num": 216529,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49562,
+        "num": 216075,
+        "word": "从从容容击败流感病毒",
+        "onboard_time": 1765861582,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25815,
+        "num": 215778,
+        "word": "卢浮宫员工罢工",
+        "onboard_time": 1765863501,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 605028,
+        "num": 215465,
+        "word": "张根硕抗癌成功",
+        "onboard_time": 1765860863,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306403,
+        "num": 215123,
+        "word": "姚明15岁女儿身高近2米",
+        "onboard_time": 1765858282,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214988,
+        "num": 214988,
+        "word": "周柯宇陈鑫海 内娱双胞胎",
+        "onboard_time": 1765858341,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207788,
+        "num": 207788,
+        "word": "什么行为是隔空猥亵",
+        "onboard_time": 1765863501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177598,
+        "num": 177598,
+        "word": "研究发现秦人鼻子宽面形低",
+        "onboard_time": 1765863981,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165684,
+        "num": 165684,
+        "word": "A股跨年行情蓄势待发",
+        "onboard_time": 1765862782,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140042,
+        "num": 140042,
+        "word": "菲方人员持刀威胁中方海警画面公开",
+        "onboard_time": 1765861102,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136400,
+        "num": 136400,
+        "word": "徐冬冬120斤每天两碗米饭",
+        "onboard_time": 1765863621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135424,
+        "num": 135424,
+        "word": "恋与深空客服回应恶俗",
+        "onboard_time": 1765862961,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72662,
+        "num": 135152,
+        "word": "我说不舒服AI竟追问12次",
+        "onboard_time": 1765861582,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134885,
+        "num": 134885,
+        "word": "火箭vs掘金",
+        "onboard_time": 1765862961,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133875,
+        "num": 133875,
+        "word": "怪不得衣服买回去穿不出店里效果",
+        "onboard_time": 1765859421,
+        "rank": 31,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 115254,
+        "num": 133230,
+        "word": "智残男子被真公章假文件任命村书记",
+        "onboard_time": 1765862301,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "杜海涛自曝因腰伤在床上躺三个月",
+        "onboard_time": 1765861762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127727,
+        "num": 127727,
+        "word": "金渐层一怒之下窝囊了一下",
+        "onboard_time": 1765859842,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123782,
+        "num": 123782,
+        "word": "吃了让你明显感觉舒服的食物",
+        "onboard_time": 1765863081,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 123214,
+        "word": "58岁侯勇带三婚老婆和儿子亮相",
+        "onboard_time": 1765860025,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 123073,
+        "word": "警方通报致2死潜逃男子被抓",
+        "onboard_time": 1765863261,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 90930,
+        "num": 123035,
+        "word": "暧昧期的男人也是福尔摩斯",
+        "onboard_time": 1765863861,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60159,
+        "num": 123032,
+        "word": "成毅谢淮安角色热度冠军",
+        "onboard_time": 1765863621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 123029,
+        "word": "妹妹被收养哥哥守了她7年",
+        "onboard_time": 1765857502,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114227,
+        "num": 114227,
+        "word": "破了3亿得闲谨制主创们才敢说真话",
+        "onboard_time": 1765857742,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111506,
+        "num": 111506,
+        "word": "离婚后她隐居冰岛小镇当公务员",
+        "onboard_time": 1765856901,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473890,
+        "num": 111427,
+        "word": "被害女孩临终遗言我被捅刀了",
+        "onboard_time": 1765858341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69536,
+        "num": 111342,
+        "word": "疯狂动物城2导演画马年贺图",
+        "onboard_time": 1765862660,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105462,
+        "num": 111252,
+        "word": "王俊凯话剧趁世界还年青剧照",
+        "onboard_time": 1765862721,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111913,
+        "num": 111070,
+        "word": "尹正一个月演了俩鬼子",
+        "onboard_time": 1765858223,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48908,
+        "num": 111038,
+        "word": "吴越回忆演凌玲被骂",
+        "onboard_time": 1765862421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "周柯宇 哪来的",
+        "onboard_time": 1765859842,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109108,
+        "num": 109108,
+        "word": "郑恺问苗苗今天为什么要化妆",
+        "onboard_time": 1765851799,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#引导广大未成年人树立远大理想#"
+    }
+  }
+}
