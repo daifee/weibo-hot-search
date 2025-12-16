@@ -1,0 +1,410 @@
+{
+  "runTime": 1765857708502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 410045,
+        "num": 1065607,
+        "word": "肝癌晚期父亲让女儿陪着买寿衣",
+        "onboard_time": 1765846160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345355,
+        "num": 345355,
+        "word": "中美合作查获可卡因430公斤",
+        "onboard_time": 1765853602,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5031,
+        "num": 334291,
+        "word": "中国经济航船必将继续行稳致远",
+        "onboard_time": 1765790122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1193382,
+        "num": 295923,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 623314,
+        "num": 270462,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376699,
+        "num": 236050,
+        "word": "黄磊是胡歌李沁新剧总导演",
+        "onboard_time": 1765852280,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235900,
+        "num": 235900,
+        "word": "中华书局下架召回唐诗三百首",
+        "onboard_time": 1765846581,
+        "rank": 6,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 230931,
+        "num": 230931,
+        "word": "25B站跨年晚会官宣",
+        "onboard_time": 1765853240,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201044,
+        "num": 201044,
+        "word": "人间有味官宣胡歌李沁",
+        "onboard_time": 1765851981,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200660,
+        "num": 200660,
+        "word": "日本不需要把国家带向战争的首相",
+        "onboard_time": 1765850781,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514071,
+        "num": 197845,
+        "word": "凶手称家门口被捅女子害她坐被告席",
+        "onboard_time": 1765852280,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342709,
+        "num": 193676,
+        "word": "你的小棉袄摔成小王八了",
+        "onboard_time": 1765852880,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326446,
+        "num": 191683,
+        "word": "何晴儿子归许亚军抚养",
+        "onboard_time": 1765856481,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271421,
+        "num": 187043,
+        "word": "妻子骨折生蛆死亡丈夫辩称不知情",
+        "onboard_time": 1765812020,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247410,
+        "num": 182095,
+        "word": "第一批小票主理人已经上岗了",
+        "onboard_time": 1765854561,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210385,
+        "num": 178658,
+        "word": "中美卫星仅距200米惊险擦肩",
+        "onboard_time": 1765855161,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176442,
+        "num": 176442,
+        "word": "老舅",
+        "onboard_time": 1765848201,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174543,
+        "num": 174543,
+        "word": "剑网3",
+        "onboard_time": 1765857201,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 172953,
+        "word": "考研味最重的一张照片",
+        "onboard_time": 1765855462,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142582,
+        "num": 171149,
+        "word": "独居女子离世遗产归公买墓地需审定",
+        "onboard_time": 1765855462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133262,
+        "num": 167837,
+        "word": "开拓者召回杨瀚森对战国王",
+        "onboard_time": 1765856362,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442738,
+        "num": 163399,
+        "word": "郑恺问苗苗今天为什么要化妆",
+        "onboard_time": 1765851799,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243867,
+        "num": 161079,
+        "word": "金价",
+        "onboard_time": 1765844901,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227688,
+        "num": 159628,
+        "word": "安吉丽娜朱莉首度公开手术疤痕",
+        "onboard_time": 1765856962,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195831,
+        "num": 155945,
+        "word": "A股",
+        "onboard_time": 1765851560,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184483,
+        "num": 153213,
+        "word": "劣质碳水是慢性炎症推手",
+        "onboard_time": 1765848621,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151721,
+        "num": 151721,
+        "word": "美队有孩子了",
+        "onboard_time": 1765847000,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143224,
+        "num": 143224,
+        "word": "陈乔恩说今年底要瘦回46公斤",
+        "onboard_time": 1765856421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136227,
+        "num": 136227,
+        "word": "男子杀发小妻儿事发前说定娃娃亲",
+        "onboard_time": 1765854982,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129163,
+        "num": 129163,
+        "word": "妹妹被收养哥哥守了她7年",
+        "onboard_time": 1765857502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126558,
+        "num": 126558,
+        "word": "跨晚还有周杰伦的事儿",
+        "onboard_time": 1765854022,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123035,
+        "num": 123035,
+        "word": "王楚钦入选国家一队10周年",
+        "onboard_time": 1765854861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118267,
+        "num": 118267,
+        "word": "周深放鸽子",
+        "onboard_time": 1765856542,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108433,
+        "num": 118133,
+        "word": "夏以昼慵懒共谋",
+        "onboard_time": 1765856782,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118018,
+        "num": 118018,
+        "word": "离婚后她隐居冰岛小镇当公务员",
+        "onboard_time": 1765856901,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117127,
+        "num": 117127,
+        "word": "湖南卫视跨年要开车了",
+        "onboard_time": 1765855942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "蒯曼升至女单世界第三",
+        "onboard_time": 1765855761,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113800,
+        "num": 113800,
+        "word": "hi6致力于打造丁程鑫版再见爱人",
+        "onboard_time": 1765857502,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25290,
+        "num": 111848,
+        "word": "乔任梁爸爸出院了",
+        "onboard_time": 1765856662,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101289,
+        "num": 111117,
+        "word": "肖战尹正旗杆下对峙戏",
+        "onboard_time": 1765857623,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111080,
+        "num": 111080,
+        "word": "难怪长辈觉得读书了就应该啥都懂",
+        "onboard_time": 1765856242,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 6339,
+        "num": 110346,
+        "word": "多家超10年店龄网红女装闭店",
+        "onboard_time": 1765857682,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9596,
+        "num": 109922,
+        "word": "煎饼叔叔说恢复了请大家吃饼",
+        "onboard_time": 1765857682,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 109781,
+        "word": "狙击蝴蝶 那天晚上展开说说",
+        "onboard_time": 1765847721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109759,
+        "num": 109759,
+        "word": "在线等曹骏舒畅的售后",
+        "onboard_time": 1765857682,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109130,
+        "num": 109130,
+        "word": "田曦薇跑步的神",
+        "onboard_time": 1765849460,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35311,
+        "num": 105946,
+        "word": "元旦假期购票日历来了",
+        "onboard_time": 1765855341,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104682,
+        "num": 104682,
+        "word": "没名分的醋吃起来最香",
+        "onboard_time": 1765857502,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97965,
+        "num": 97965,
+        "word": "原来这么多人都薅到了生日礼",
+        "onboard_time": 1765857382,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 87537,
+        "num": 95118,
+        "word": "谁懂生日隐藏福利的含金量",
+        "onboard_time": 1765855942,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}

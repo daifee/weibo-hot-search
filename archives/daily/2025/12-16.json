@@ -1,7 +1,15 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765856896208,
+  "endTime": 1765857708502,
   "band_list": [
+    {
+      "raw_hot": 1193382,
+      "num": 295923,
+      "word": "恋与深空 恶俗",
+      "onboard_time": 1765856481,
+      "rank": 15,
+      "category": "游戏"
+    },
     {
       "raw_hot": 725051,
       "num": 234360,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 649368,
-      "num": 157597,
+      "num": 161079,
       "word": "金价",
       "onboard_time": 1765844901,
       "rank": 20,
@@ -35,6 +43,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 623314,
+      "num": 270462,
+      "word": "恋与深空",
+      "onboard_time": 1765854742,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 586320,
       "num": 586320,
       "word": "老舅",
@@ -43,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 535413,
-      "num": 260974,
-      "word": "恋与深空",
-      "onboard_time": 1765854742,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 514071,
+      "num": 235466,
+      "word": "凶手称家门口被捅女子害她坐被告席",
+      "onboard_time": 1765852280,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481499,
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 474554,
-      "num": 158019,
+      "num": 163399,
       "word": "郑恺问苗苗今天为什么要化妆",
       "onboard_time": 1765851799,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471541,
-      "num": 235466,
-      "word": "凶手称家门口被捅女子害她坐被告席",
-      "onboard_time": 1765852280,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462272,
@@ -155,12 +163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334586,
-      "num": 334586,
+      "raw_hot": 345355,
+      "num": 345355,
       "word": "中美合作查获可卡因430公斤",
       "onboard_time": 1765853602,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 326446,
+      "num": 191683,
+      "word": "何晴儿子归许亚军抚养",
+      "onboard_time": 1765856481,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 316308,
@@ -235,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247410,
+      "num": 216807,
+      "word": "第一批小票主理人已经上岗了",
+      "onboard_time": 1765854561,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246361,
       "num": 151703,
       "word": "原来接吻还有这么多讲究",
@@ -275,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216807,
-      "num": 216807,
-      "word": "第一批小票主理人已经上岗了",
-      "onboard_time": 1765854561,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 227688,
+      "num": 159628,
+      "word": "安吉丽娜朱莉首度公开手术疤痕",
+      "onboard_time": 1765856962,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 214537,
@@ -289,6 +313,14 @@
       "onboard_time": 1765839677,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210385,
+      "num": 178658,
+      "word": "中美卫星仅距200米惊险擦肩",
+      "onboard_time": 1765855161,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201638,
@@ -331,28 +363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 183755,
-      "num": 183755,
-      "word": "恋与深空 恶俗",
-      "onboard_time": 1765856481,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181538,
       "num": 147214,
       "word": "意想不到的国服第一出现了",
       "onboard_time": 1765850360,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176319,
-      "num": 149625,
-      "word": "何晴儿子归许亚军抚养",
-      "onboard_time": 1765856481,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 176200,
@@ -363,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170171,
-      "num": 170171,
-      "word": "中美卫星仅距200米惊险擦肩",
-      "onboard_time": 1765855161,
+      "raw_hot": 174543,
+      "num": 174543,
+      "word": "剑网3",
+      "onboard_time": 1765857201,
       "rank": 17,
-      "category": "国际时政"
+      "category": "游戏"
     },
     {
       "raw_hot": 163538,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 148743,
-      "num": 148743,
+      "num": 172953,
       "word": "考研味最重的一张照片",
       "onboard_time": 1765855462,
       "rank": 31,
@@ -451,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143224,
+      "num": 143224,
+      "word": "陈乔恩说今年底要瘦回46公斤",
+      "onboard_time": 1765856421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142582,
+      "num": 171149,
+      "word": "独居女子离世遗产归公买墓地需审定",
+      "onboard_time": 1765855462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134724,
       "num": 134724,
       "word": "跨晚还有周杰伦的事儿",
@@ -459,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133262,
+      "num": 167837,
+      "word": "开拓者召回杨瀚森对战国王",
+      "onboard_time": 1765856362,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133140,
       "num": 133140,
       "word": "金建希被曝曾深夜激烈斥责尹锡悦",
       "onboard_time": 1765808903,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129163,
+      "num": 129163,
+      "word": "妹妹被收养哥哥守了她7年",
+      "onboard_time": 1765857502,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 126044,
@@ -491,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123035,
+      "num": 123035,
+      "word": "王楚钦入选国家一队10周年",
+      "onboard_time": 1765854861,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121929,
       "num": 112063,
       "word": "这样煮苹果水养生又瘦身",
@@ -507,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117704,
-      "num": 117704,
-      "word": "独居女子离世遗产归公买墓地需审定",
-      "onboard_time": 1765855462,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 118267,
+      "num": 118267,
+      "word": "周深放鸽子",
+      "onboard_time": 1765856542,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118018,
+      "num": 118018,
+      "word": "离婚后她隐居冰岛小镇当公务员",
+      "onboard_time": 1765856901,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 115861,
@@ -531,16 +595,16 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 114415,
-      "num": 114415,
-      "word": "王楚钦入选国家一队10周年",
-      "onboard_time": 1765854861,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 113800,
+      "num": 113800,
+      "word": "hi6致力于打造丁程鑫版再见爱人",
+      "onboard_time": 1765857502,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 113535,
-      "num": 113535,
+      "num": 118133,
       "word": "夏以昼慵懒共谋",
       "onboard_time": 1765856782,
       "rank": 41,
@@ -553,6 +617,14 @@
       "onboard_time": 1765798100,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109759,
+      "num": 109759,
+      "word": "在线等曹骏舒畅的售后",
+      "onboard_time": 1765857682,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108996,
@@ -579,12 +651,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 105531,
-      "num": 105531,
-      "word": "周深放鸽子",
-      "onboard_time": 1765856542,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 104682,
+      "num": 104682,
+      "word": "没名分的醋吃起来最香",
+      "onboard_time": 1765857502,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 103722,
@@ -619,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101289,
+      "num": 111117,
+      "word": "肖战尹正旗杆下对峙戏",
+      "onboard_time": 1765857623,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101286,
       "num": 101286,
       "word": "TVB最佳女主角十强名单公布",
       "onboard_time": 1765845320,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97965,
+      "num": 97965,
+      "word": "原来这么多人都薅到了生日礼",
+      "onboard_time": 1765857382,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 97773,
@@ -707,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90793,
-      "num": 158150,
-      "word": "开拓者召回杨瀚森对战国王",
-      "onboard_time": 1765856362,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88643,
       "num": 88643,
       "word": "董宇辉盛赞肖战得闲谨制演技",
@@ -745,14 +825,6 @@
       "onboard_time": 1765850421,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 83224,
-      "num": 114660,
-      "word": "陈乔恩说今年底要瘦回46公斤",
-      "onboard_time": 1765856421,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 83042,
@@ -1251,20 +1323,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25290,
+      "num": 114439,
+      "word": "乔任梁爸爸出院了",
+      "onboard_time": 1765856662,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25237,
       "num": 35319,
       "word": "食堂员工将工业酒精当作白酒提供",
       "onboard_time": 1765818797,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19664,
-      "num": 114439,
-      "word": "乔任梁爸爸出院了",
-      "onboard_time": 1765856662,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 18805,
@@ -1339,8 +1411,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9596,
+      "num": 109922,
+      "word": "煎饼叔叔说恢复了请大家吃饼",
+      "onboard_time": 1765857682,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9369,
-      "num": 265301,
+      "num": 334291,
       "word": "中国经济航船必将继续行稳致远",
       "onboard_time": 1765790122,
       "rank": 2,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1765852040,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6339,
+      "num": 110346,
+      "word": "多家超10年店龄网红女装闭店",
+      "onboard_time": 1765857682,
+      "rank": 41,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
