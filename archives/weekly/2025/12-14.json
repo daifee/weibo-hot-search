@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765892727994,
+  "endTime": 1765893422552,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1798811,
+      "num": 291923,
+      "word": "毛人龙许文婷分手",
+      "onboard_time": 1765891224,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1796212,
       "num": 323019,
       "word": "何晴 许亚军",
@@ -75,19 +83,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1740168,
-      "num": 291923,
-      "word": "毛人龙许文婷分手",
-      "onboard_time": 1765891224,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1703538,
       "num": 355166,
       "word": "丝芭称已支付鞠婧祎超1.39亿",
       "onboard_time": 1765891401,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1678599,
+      "num": 346519,
+      "word": "鞠婧祎收入",
+      "onboard_time": 1765892208,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 737177,
+      "num": 325750,
+      "word": "第一眼以为Angelababy早期仿妆",
+      "onboard_time": 1765891282,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725051,
       "num": 234360,
       "word": "妻子骨折生蛆死亡丈夫辩称不知情",
@@ -507,20 +523,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 685960,
+      "num": 329706,
+      "word": "鞠婧祎方艾特丝芭",
+      "onboard_time": 1765887921,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680717,
       "num": 212408,
       "word": "王楚钦孙颖莎混双亚军",
       "onboard_time": 1765634964,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 668610,
-      "num": 329706,
-      "word": "鞠婧祎方艾特丝芭",
-      "onboard_time": 1765887921,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 668193,
@@ -875,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560649,
+      "num": 350633,
+      "word": "女子被大狗撞倒身亡丈夫住进ICU",
+      "onboard_time": 1765892363,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 560096,
       "num": 560096,
       "word": "4斤黄金凤冠展出时被毁谁来赔",
@@ -947,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528873,
-      "num": 267873,
-      "word": "第一眼以为Angelababy早期仿妆",
-      "onboard_time": 1765891282,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 528421,
       "num": 334675,
       "word": "科比吧官方微博发了孙颖莎",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1765795042,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500536,
-      "num": 261406,
-      "word": "鞠婧祎收入",
-      "onboard_time": 1765892208,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 499760,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 449352,
-      "num": 378615,
+      "num": 387157,
       "word": "成毅 求求你们再看一会吧",
       "onboard_time": 1765872983,
       "rank": 12,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 372866,
-      "num": 244296,
+      "num": 256996,
       "word": "肖战直播",
       "onboard_time": 1765889182,
       "rank": 26,
@@ -1793,14 +1801,6 @@
       "onboard_time": 1765721425,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 327896,
-      "num": 327896,
-      "word": "女子被大狗撞倒身亡丈夫住进ICU",
-      "onboard_time": 1765892363,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327743,
@@ -2196,7 +2196,7 @@
     },
     {
       "raw_hot": 276398,
-      "num": 181231,
+      "num": 196027,
       "word": "身体有炎症时要少吃的4种食物",
       "onboard_time": 1765879042,
       "rank": 26,
@@ -4051,6 +4051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175706,
+      "num": 175706,
+      "word": "手机充电器千万不要一直插着不拔",
+      "onboard_time": 1765892303,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 175336,
       "num": 234104,
       "word": "日本太空航母野心曝光",
@@ -4147,6 +4155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172074,
+      "num": 162012,
+      "word": "魏建军说让每一个零件多工作10年",
+      "onboard_time": 1765893146,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172033,
       "num": 172033,
       "word": "某某某大底的神",
@@ -4187,20 +4203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170548,
+      "num": 403268,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1765885700,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169961,
       "num": 161153,
       "word": "孙颖莎王楚钦退赛运动员并非机器",
       "onboard_time": 1765722203,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169861,
-      "num": 403268,
-      "word": "微博之夜年度推荐",
-      "onboard_time": 1765885700,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169622,
@@ -4691,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154512,
+      "num": 154512,
+      "word": "尹正秀妻子晒蜜月照",
+      "onboard_time": 1765892605,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "汕头火灾独自逃生10岁女孩整日哭",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1765686382,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151946,
-      "num": 151946,
-      "word": "手机充电器千万不要一直插着不拔",
-      "onboard_time": 1765892303,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 151748,
@@ -5963,6 +5979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124454,
+      "num": 124454,
+      "word": "何与 拿个外卖燃成这样",
+      "onboard_time": 1765892844,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124179,
       "num": 93358,
       "word": "黎智英给香港市民留下彻骨之痛",
@@ -6188,7 +6212,7 @@
     },
     {
       "raw_hot": 119689,
-      "num": 309917,
+      "num": 322384,
       "word": "vivoS50痛店不基础店长更不基础",
       "onboard_time": 1765890622,
       "rank": 26,
@@ -6329,6 +6353,14 @@
       "onboard_time": 1765766901,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117678,
+      "num": 290199,
+      "word": "专家说孙颖莎是领潮流的人",
+      "onboard_time": 1765893085,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 117665,
@@ -6835,6 +6867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109638,
+      "num": 109638,
+      "word": "张本智和明年目标是世界杯亚运会金牌",
+      "onboard_time": 1765893146,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109501,
       "num": 111697,
       "word": "厄敌同人游戏寻觅已上线",
@@ -7115,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103206,
+      "num": 103206,
+      "word": "等了一年颐和园金光穿洞",
+      "onboard_time": 1765892724,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103126,
       "num": 117830,
       "word": "林高远科普赛车知识",
@@ -7129,6 +7177,14 @@
       "onboard_time": 1765853358,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103024,
+      "num": 103024,
+      "word": "前老板发视频吐槽张凯毅老公",
+      "onboard_time": 1765892965,
+      "rank": 45,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 102961,
@@ -7243,6 +7299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101187,
+      "num": 101187,
+      "word": "Viper谈在BLG的目标",
+      "onboard_time": 1765892303,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100787,
       "num": 100787,
       "word": "那些细腻又美好的人",
@@ -7305,6 +7369,14 @@
       "onboard_time": 1765715662,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99881,
+      "num": 99881,
+      "word": "上班一般都想不到好点子",
+      "onboard_time": 1765893384,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99833,
@@ -7433,14 +7505,6 @@
       "onboard_time": 1765841237,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97728,
-      "num": 97728,
-      "word": "Viper谈在BLG的目标",
-      "onboard_time": 1765892303,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 97662,
@@ -7824,14 +7888,6 @@
       "word": "王艳19岁儿子球球身高",
       "onboard_time": 1765640660,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 93027,
-      "num": 93027,
-      "word": "尹正秀妻子晒蜜月照",
-      "onboard_time": 1765892605,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -10691,6 +10747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26060,
+      "num": 371608,
+      "word": "温暖的身边事儿",
+      "onboard_time": 1765892208,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25980,
       "num": 49568,
       "word": "黄景瑜睡觉也不影响杀羊",
@@ -11107,14 +11171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13390,
-      "num": 371608,
-      "word": "温暖的身边事儿",
-      "onboard_time": 1765892208,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12987,
       "num": 22889,
       "word": "张泽禹跟登陆少年海报合照",
@@ -11161,6 +11217,14 @@
       "onboard_time": 1765636944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11187,
+      "num": 299443,
+      "word": "转账上亿建佛堂设坛被控迷信罪",
+      "onboard_time": 1765892965,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10213,
@@ -11259,6 +11323,9 @@
     },
     {
       "word": "#习近平听取岑浩辉述职报告#"
+    },
+    {
+      "word": "#习近平听取李家超述职报告#"
     }
   ]
 }

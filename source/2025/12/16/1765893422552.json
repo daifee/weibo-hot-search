@@ -1,0 +1,410 @@
+{
+  "runTime": 1765893422552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 492126,
+        "num": 1078740,
+        "word": "央视起底走私孕妇血样黑产链",
+        "onboard_time": 1765886421,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 403849,
+        "num": 403849,
+        "word": "男子肺炎住院2天突发狂躁后死亡",
+        "onboard_time": 1765886421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32464,
+        "num": 401666,
+        "word": "海南自贸港全岛封关后有啥变化",
+        "onboard_time": 1765874063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 396897,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 3,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 185377,
+        "num": 387157,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177050,
+        "num": 382963,
+        "word": "将门毒后",
+        "onboard_time": 1765889361,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170548,
+        "num": 375187,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765885700,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 365313,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 7,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 26060,
+        "num": 357852,
+        "word": "温暖的身边事儿",
+        "onboard_time": 1765892208,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560649,
+        "num": 350633,
+        "word": "女子被大狗撞倒身亡丈夫住进ICU",
+        "onboard_time": 1765892363,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1678599,
+        "num": 346519,
+        "word": "鞠婧祎收入",
+        "onboard_time": 1765892208,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1580572,
+        "num": 337960,
+        "word": "丝芭称已支付鞠婧祎超1.39亿",
+        "onboard_time": 1765891401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826109,
+        "num": 333818,
+        "word": "虞书欣泰国红毯压轴",
+        "onboard_time": 1765888040,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 737177,
+        "num": 325750,
+        "word": "第一眼以为Angelababy早期仿妆",
+        "onboard_time": 1765891282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28098,
+        "num": 322384,
+        "word": "vivoS50痛店不基础店长更不基础",
+        "onboard_time": 1765890622,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557371,
+        "num": 313116,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 15,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 705987,
+        "num": 307451,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303843,
+        "num": 303843,
+        "word": "轰动整个阅卷组的试卷",
+        "onboard_time": 1765886841,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11187,
+        "num": 299443,
+        "word": "转账上亿建佛堂设坛被控迷信罪",
+        "onboard_time": 1765892965,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117678,
+        "num": 290199,
+        "word": "专家说孙颖莎是领潮流的人",
+        "onboard_time": 1765893085,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1798811,
+        "num": 284475,
+        "word": "毛人龙许文婷分手",
+        "onboard_time": 1765891224,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685960,
+        "num": 274585,
+        "word": "鞠婧祎方艾特丝芭",
+        "onboard_time": 1765887921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531680,
+        "num": 266145,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337678,
+        "num": 256996,
+        "word": "肖战直播",
+        "onboard_time": 1765889182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162122,
+        "num": 240055,
+        "word": "女员工拒洗窗帘硬杠董事长被降职",
+        "onboard_time": 1765889662,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239503,
+        "num": 239503,
+        "word": "张凯丽特意换掉留了12年的短发",
+        "onboard_time": 1765884921,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221571,
+        "num": 221571,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 196027,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175706,
+        "num": 175706,
+        "word": "手机充电器千万不要一直插着不拔",
+        "onboard_time": 1765892303,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "将门毒后 祝绪丹汪铎",
+        "onboard_time": 1765884261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64054,
+        "num": 163268,
+        "word": "荣耀GT系列升级为荣耀WIN",
+        "onboard_time": 1765887620,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172074,
+        "num": 162012,
+        "word": "魏建军说让每一个零件多工作10年",
+        "onboard_time": 1765893146,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158687,
+        "num": 158687,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 154512,
+        "num": 154512,
+        "word": "尹正秀妻子晒蜜月照",
+        "onboard_time": 1765892605,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "女子1万多买二手苹果14还充不进电",
+        "onboard_time": 1765884861,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148456,
+        "num": 139539,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136983,
+        "num": 136983,
+        "word": "原来喝苹果水有这么多好处",
+        "onboard_time": 1765886120,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124454,
+        "num": 124454,
+        "word": "何与 拿个外卖燃成这样",
+        "onboard_time": 1765892844,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123246,
+        "num": 123246,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119291,
+        "num": 119291,
+        "word": "沈佳润这孩子真让人踏实",
+        "onboard_time": 1765890202,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 112575,
+        "word": "卢昱晓好薄一片",
+        "onboard_time": 1765884682,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "张本智和明年目标是世界杯亚运会金牌",
+        "onboard_time": 1765893146,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107440,
+        "num": 107440,
+        "word": "狙击蝴蝶 戒断",
+        "onboard_time": 1765888161,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103994,
+        "num": 103994,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103206,
+        "num": 103206,
+        "word": "等了一年颐和园金光穿洞",
+        "onboard_time": 1765892724,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103024,
+        "num": 103024,
+        "word": "前老板发视频吐槽张凯毅老公",
+        "onboard_time": 1765892965,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 102053,
+        "num": 102053,
+        "word": "科学家终于揭开百慕大三角之谜",
+        "onboard_time": 1765889182,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101187,
+        "num": 101187,
+        "word": "Viper谈在BLG的目标",
+        "onboard_time": 1765892303,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100698,
+        "num": 100698,
+        "word": "生育成本社会共担来了",
+        "onboard_time": 1765874361,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99881,
+        "num": 99881,
+        "word": "上班一般都想不到好点子",
+        "onboard_time": 1765893384,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
