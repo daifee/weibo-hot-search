@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/17 00:39:45 ~ 2025/12/17 05:29:27
+本榜单时间：2025/12/17 00:39:45 ~ 2025/12/17 05:42:48
 </p>
 </blockquote>
 <p>
@@ -376,7 +376,7 @@ Angelababy真的好美（热度：131260）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E6%8B%92%E6%B4%97%E7%AA%97%E5%B8%98%E7%A1%AC%E6%9D%A0%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E9%99%8D%E8%81%8C%23" target="weibo">
-女员工拒洗窗帘硬杠董事长被降职（热度：18810）
+女员工拒洗窗帘硬杠董事长被降职（热度：19987）
 </a>
 </li>
 
@@ -431,6 +431,12 @@ Angelababy真的好美（热度：131260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%83%AD%E7%82%B9%E7%AE%80%E8%AF%BB%23" target="weibo">
 中央经济工作会议热点简读（热度：12310）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E5%AE%9E%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+确实型人格（热度：10391）
 </a>
 </li>
 

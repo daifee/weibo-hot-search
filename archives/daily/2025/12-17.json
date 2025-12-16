@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765920567114,
+  "endTime": 1765921368141,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18810,
+      "raw_hot": 19987,
       "num": 30713,
       "word": "女员工拒洗窗帘硬杠董事长被降职",
       "onboard_time": 1765889662,
@@ -561,6 +561,14 @@
       "onboard_time": 1765891703,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10391,
+      "num": 23930,
+      "word": "确实型人格",
+      "onboard_time": 1765920854,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

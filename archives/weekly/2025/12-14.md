@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/14 00:32:46 ~ 2025/12/17 05:29:27
+本榜单时间：2025/12/14 00:32:46 ~ 2025/12/17 05:42:48
 </p>
 </blockquote>
 <p>
@@ -8795,6 +8795,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%AC%E8%B4%A6%E4%B8%8A%E4%BA%BF%E5%BB%BA%E4%BD%9B%E5%A0%82%E8%AE%BE%E5%9D%9B%E8%A2%AB%E6%8E%A7%E8%BF%B7%E4%BF%A1%E7%BD%AA%23" target="weibo">
 转账上亿建佛堂设坛被控迷信罪（热度：11187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E5%AE%9E%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+确实型人格（热度：10391）
 </a>
 </li>
 

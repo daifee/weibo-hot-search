@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765920567114,
+  "endTime": 1765921368141,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -11713,6 +11713,14 @@
       "onboard_time": 1765892965,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10391,
+      "num": 23930,
+      "word": "确实型人格",
+      "onboard_time": 1765920854,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 10213,
