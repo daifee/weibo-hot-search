@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765871049448,
+  "endTime": 1765874398334,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1468725,
-      "num": 154720,
+      "num": 156712,
       "word": "许亚军被曝在美国",
       "onboard_time": 1765865601,
       "rank": 20,
@@ -25,6 +25,14 @@
       "onboard_time": 1765861523,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 933314,
+      "num": 1149330,
+      "word": "元旦请3休8",
+      "onboard_time": 1765870404,
+      "rank": 13,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 768682,
@@ -57,6 +65,14 @@
       "onboard_time": 1765859003,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655777,
+      "num": 155724,
+      "word": "女子全裸做SPA被安排男技师",
+      "onboard_time": 1765872442,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 649689,
@@ -120,6 +136,22 @@
       "word": "张根硕抗癌成功",
       "onboard_time": 1765860863,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602251,
+      "num": 158475,
+      "word": "小狗天塌了一晚上白干",
+      "onboard_time": 1765871243,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 595898,
+      "num": 158452,
+      "word": "高圆圆 替身",
+      "onboard_time": 1765871843,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -203,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 435804,
+      "num": 276315,
+      "word": "小学老师百人群内咒骂全班得甲流",
+      "onboard_time": 1765867581,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434254,
       "num": 434254,
       "word": "悉尼枪击事件中英勇夺枪男子留遗言",
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 432924,
-      "num": 195686,
+      "num": 424446,
       "word": "怪不得唐诡奇谭要单独播",
       "onboard_time": 1765869563,
       "rank": 12,
@@ -323,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 337738,
+      "num": 158431,
+      "word": "成毅 求求你们再看一会吧",
+      "onboard_time": 1765872983,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316308,
       "num": 125116,
       "word": "虞书欣跑姿",
@@ -411,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276315,
-      "num": 276315,
-      "word": "小学老师百人群内咒骂全班得甲流",
-      "onboard_time": 1765867581,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 272983,
+      "num": 226294,
+      "word": "苹果安卓实现互通",
+      "onboard_time": 1765870042,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 264228,
@@ -481,6 +529,14 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249119,
+      "num": 158378,
+      "word": "王劲松吴刚 短剧",
+      "onboard_time": 1765873643,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 247410,
@@ -585,14 +641,6 @@
       "onboard_time": 1765864644,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216460,
-      "num": 193184,
-      "word": "元旦请3休8",
-      "onboard_time": 1765870404,
-      "rank": 13,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 214537,
@@ -715,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186294,
+      "num": 153585,
+      "word": "炎症高的人一定少做3件事",
+      "onboard_time": 1765869144,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185967,
       "num": 185967,
       "word": "王一博摄影许闯",
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 178523,
-      "num": 150882,
+      "num": 152726,
       "word": "幼儿园咬伤小朋友被对方奶奶恐吓",
       "onboard_time": 1765868123,
       "rank": 44,
@@ -763,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174668,
-      "num": 195390,
-      "word": "苹果安卓实现互通",
-      "onboard_time": 1765870042,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 174543,
       "num": 174543,
       "word": "剑网3",
@@ -784,6 +832,14 @@
       "word": "综艺也有替身了",
       "onboard_time": 1765860744,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173934,
+      "num": 173934,
+      "word": "江苏卫视跨年首波阵容",
+      "onboard_time": 1765873464,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -817,6 +873,14 @@
       "onboard_time": 1765859302,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165775,
+      "num": 158342,
+      "word": "黄子韬曝男明星群都在内卷健身",
+      "onboard_time": 1765873342,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 165684,
@@ -859,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158487,
+      "num": 158487,
+      "word": "恋与深空相关公司曾被约谈",
+      "onboard_time": 1765872921,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158302,
       "num": 158302,
       "word": "男子杀发小妻儿事发前说定娃娃亲",
@@ -891,12 +963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150200,
-      "num": 150200,
-      "word": "炎症高的人一定少做3件事",
-      "onboard_time": 1765869144,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "文咏珊产后状态",
+      "onboard_time": 1765872083,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 149649,
@@ -993,6 +1065,14 @@
       "onboard_time": 1765867222,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136850,
+      "num": 136850,
+      "word": "爱你老己是一生的必修课",
+      "onboard_time": 1765873582,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 136400,
@@ -1163,6 +1243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121356,
+      "num": 121356,
+      "word": "0薪工作",
+      "onboard_time": 1765871363,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119572,
       "num": 119572,
       "word": "陈卓璇期待硬糖少女303再合体",
@@ -1185,6 +1273,14 @@
       "onboard_time": 1765856542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116132,
+      "num": 116132,
+      "word": "向佐回台湾看孩子了",
+      "onboard_time": 1765874183,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 115861,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1765862062,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114576,
+      "num": 114576,
+      "word": "恋与深空吃很好",
+      "onboard_time": 1765873883,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 114210,
@@ -1281,6 +1385,22 @@
       "onboard_time": 1765868361,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109721,
+      "num": 109721,
+      "word": "杨紫胡歌生命树央视综合频道",
+      "onboard_time": 1765872983,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109501,
+      "num": 109501,
+      "word": "厄敌同人游戏寻觅已上线",
+      "onboard_time": 1765874004,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 108996,
@@ -1395,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100425,
+      "num": 100425,
+      "word": "AG遗憾止步晋级赛",
+      "onboard_time": 1765872863,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97965,
       "num": 97965,
       "word": "原来这么多人都薅到了生日礼",
@@ -1411,6 +1539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97581,
+      "num": 97581,
+      "word": "生育成本社会共担来了",
+      "onboard_time": 1765874361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96423,
       "num": 96423,
       "word": "演员林雪自曝一直在做医美",
@@ -1425,6 +1561,14 @@
       "onboard_time": 1765851680,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95826,
+      "num": 95826,
+      "word": "性格内向的人狠狠共鸣了",
+      "onboard_time": 1765872203,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 95384,
@@ -1459,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94478,
+      "num": 98957,
+      "word": "一家人用存钱罐存现金五年存八万",
+      "onboard_time": 1765869323,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94392,
       "num": 123315,
       "word": "2岁男童误服去污膏肠胃全腐蚀",
@@ -1488,14 +1640,6 @@
       "word": "蜜雪冰城回应7.9元早餐套餐被嫌贵",
       "onboard_time": 1765796782,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93658,
-      "num": 93658,
-      "word": "一家人用存钱罐存现金五年存八万",
-      "onboard_time": 1765869323,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1539,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91451,
+      "num": 91451,
+      "word": "日方仍在要害问题上挤牙膏埋钉子",
+      "onboard_time": 1765874004,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90930,
       "num": 123035,
       "word": "暧昧期的男人也是福尔摩斯",
       "onboard_time": 1765863861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90723,
+      "num": 90723,
+      "word": "一想到她回去还要擦八只脚",
+      "onboard_time": 1765873523,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89901,
@@ -1755,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73654,
+      "num": 150875,
+      "word": "肖战对舒适区的看法",
+      "onboard_time": 1765872983,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73372,
       "num": 91435,
       "word": "陈都灵这已经不是兔塑的问题了",
@@ -1899,11 +2067,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62619,
+      "num": 109503,
+      "word": "在零下30度拍延时是种什么体验",
+      "onboard_time": 1765873342,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62153,
       "num": 62153,
       "word": "2025最后15天",
       "onboard_time": 1765850121,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61369,
+      "num": 331490,
+      "word": "一句话总结你的2025",
+      "onboard_time": 1765873643,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1920,6 +2104,14 @@
       "word": "成毅谢淮安角色热度冠军",
       "onboard_time": 1765863621,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59229,
+      "num": 109557,
+      "word": "李雾关于岑矜的19710篇日记",
+      "onboard_time": 1765873222,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2139,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 35748,
+      "num": 157551,
+      "word": "海南自贸港全岛封关后有啥变化",
+      "onboard_time": 1765874063,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35484,
       "num": 67511,
       "word": "反人类暴行",
@@ -2187,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33406,
+      "num": 109727,
+      "word": "江西通报一公司员工血铅异常",
+      "onboard_time": 1765874004,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 32814,
       "num": 151848,
       "word": "澳总理赴医院探望夺枪英雄",
@@ -2227,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30694,
+      "num": 158651,
+      "word": "海南自贸港封关运作有啥红利",
+      "onboard_time": 1765873763,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30442,
       "num": 132697,
       "word": "印度10车连环相撞致4死25伤",
@@ -2257,6 +2473,14 @@
       "onboard_time": 1765802423,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28142,
+      "num": 109510,
+      "word": "00后男子冒充公务员骗多位女性百万",
+      "onboard_time": 1765874004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27529,
