@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765921368141,
+  "endTime": 1765924002070,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -427,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35062,
+      "num": 35062,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33557,
       "num": 35141,
       "word": "成毅帅成啥样了",
       "onboard_time": 1765909755,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33399,
+      "num": 35081,
+      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+      "onboard_time": 1765894284,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 32308,
@@ -475,20 +491,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 20445,
-      "num": 35081,
-      "word": "网友给谢霆锋张柏芝大儿子P了新发型",
-      "onboard_time": 1765894284,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19987,
-      "num": 30713,
-      "word": "女员工拒洗窗帘硬杠董事长被降职",
-      "onboard_time": 1765889662,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 20893,
+      "num": 29782,
+      "word": "江苏卫视跨年首波阵容摊牌了",
+      "onboard_time": 1765904358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 17441,
@@ -499,15 +507,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15894,
-      "num": 29782,
-      "word": "江苏卫视跨年首波阵容摊牌了",
-      "onboard_time": 1765904358,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15435,
+      "raw_hot": 16375,
       "num": 35069,
       "word": "美国11月非农高于预期",
       "onboard_time": 1765899982,
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14933,
+      "num": 27601,
+      "word": "23岁男子公交车猥亵女子被行拘",
+      "onboard_time": 1765915753,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14533,
       "num": 27306,
       "word": "虞书欣被油吓退在双轨callback了",
@@ -531,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14371,
-      "num": 27601,
-      "word": "23岁男子公交车猥亵女子被行拘",
-      "onboard_time": 1765915753,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 13636,
+      "num": 25278,
+      "word": "刘宇宁说努力一定有用",
+      "onboard_time": 1765923976,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13523,
