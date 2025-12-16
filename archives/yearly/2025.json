@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1765895560833,
+  "endTime": 1765896699660,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14068624,
+      "num": 14068624,
+      "word": "鞠婧祎收入",
+      "onboard_time": 1765892208,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14050966,
       "num": 14050966,
       "word": "林俊杰心脏",
@@ -736,14 +744,6 @@
       "word": "左航 撞人",
       "onboard_time": 1759838601,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13149261,
-      "num": 13149261,
-      "word": "鞠婧祎收入",
-      "onboard_time": 1765892208,
-      "rank": 24,
       "category": "艺人"
     },
     {

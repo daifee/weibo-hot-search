@@ -1,0 +1,410 @@
+{
+  "runTime": 1765896699660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 331527,
+        "num": 1053044,
+        "word": "央视起底走私孕妇血样黑产链",
+        "onboard_time": 1765886421,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255028,
+        "num": 1039453,
+        "word": "男子肺炎住院2天突发狂躁后死亡",
+        "onboard_time": 1765886421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47752,
+        "num": 1021707,
+        "word": "海南自贸港全岛封关后有啥变化",
+        "onboard_time": 1765874063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251763,
+        "num": 995781,
+        "word": "高市早苗在国会遭嘘",
+        "onboard_time": 1765893625,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197108,
+        "num": 976116,
+        "word": "五年前投资100万能挣多少",
+        "onboard_time": 1765895306,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 483487,
+        "num": 973584,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169487,
+        "num": 943590,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1765885700,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134421,
+        "num": 918633,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 7,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 20923,
+        "num": 901054,
+        "word": "盘点2025触动人心的声音",
+        "onboard_time": 1765891703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124439,
+        "num": 881542,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14068624,
+        "num": 14068624,
+        "word": "鞠婧祎收入",
+        "onboard_time": 1765892208,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860642,
+        "num": 860642,
+        "word": "丝芭称已支付鞠婧祎超1.39亿",
+        "onboard_time": 1765891401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842194,
+        "num": 842194,
+        "word": "女子被大狗撞倒身亡丈夫住进ICU",
+        "onboard_time": 1765892363,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603511,
+        "num": 603511,
+        "word": "第一眼以为Angelababy早期仿妆",
+        "onboard_time": 1765891282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543058,
+        "num": 543058,
+        "word": "虞书欣泰国红毯压轴",
+        "onboard_time": 1765888040,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1133606,
+        "num": 397357,
+        "word": "鞠婧祎方艾特丝芭",
+        "onboard_time": 1765887921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238127,
+        "num": 238127,
+        "word": "深圳16岁少年卖烤鸡日入过万",
+        "onboard_time": 1765894163,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172237,
+        "num": 236846,
+        "word": "前老板发视频吐槽张凯毅老公",
+        "onboard_time": 1765892965,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 147072,
+        "num": 233842,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121526,
+        "num": 230380,
+        "word": "剑来动画",
+        "onboard_time": 1765896387,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 940640,
+        "num": 227416,
+        "word": "毛人龙许文婷分手",
+        "onboard_time": 1765891224,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103661,
+        "num": 224706,
+        "word": "新人用1000元举办极简婚礼",
+        "onboard_time": 1765895366,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549042,
+        "num": 221372,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406020,
+        "num": 218622,
+        "word": "陈卓璇小号发长文爆新团队氛围",
+        "onboard_time": 1765895247,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291730,
+        "num": 215604,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 24,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 281729,
+        "num": 212904,
+        "word": "Angelababy真的好美",
+        "onboard_time": 1765894945,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212324,
+        "num": 212324,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211461,
+        "num": 211461,
+        "word": "赵丽颖周翡",
+        "onboard_time": 1765895366,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199314,
+        "num": 199314,
+        "word": "尹正秀妻子晒蜜月照",
+        "onboard_time": 1765892605,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34419,
+        "num": 195999,
+        "word": "迪桑特中国国家队雪服首秀",
+        "onboard_time": 1765893982,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94250,
+        "num": 195914,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 30,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 195847,
+        "num": 195847,
+        "word": "手机充电器千万不要一直插着不拔",
+        "onboard_time": 1765892303,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186528,
+        "num": 195795,
+        "word": "肖战直播",
+        "onboard_time": 1765889182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178200,
+        "num": 195785,
+        "word": "虞书欣盘发簪花",
+        "onboard_time": 1765896506,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173569,
+        "num": 195733,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117256,
+        "num": 195672,
+        "word": "魏建军说让每一个零件多工作10年",
+        "onboard_time": 1765893146,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164233,
+        "num": 195630,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 27773,
+        "num": 195560,
+        "word": "内娱最想听的乐队居然在高淳跨年",
+        "onboard_time": 1765893805,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80998,
+        "num": 195491,
+        "word": "教师猥亵儿童妻子因社会压力提离婚",
+        "onboard_time": 1765896085,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49291,
+        "num": 195433,
+        "word": "景区回应橙子墙有橙子发霉",
+        "onboard_time": 1765896025,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 195382,
+        "word": "原来喝苹果水有这么多好处",
+        "onboard_time": 1765886120,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138626,
+        "num": 195366,
+        "word": "将门毒后 祝绪丹汪铎",
+        "onboard_time": 1765884261,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 195297,
+        "word": "网友给谢霆锋张柏芝大儿子P了新发型",
+        "onboard_time": 1765894284,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 195235,
+        "word": "方博说樊振东三大赛没输过外协",
+        "onboard_time": 1765894586,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110796,
+        "num": 195210,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107715,
+        "num": 195115,
+        "word": "校方通报宿管当学生面摔死小猫",
+        "onboard_time": 1765895965,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105539,
+        "num": 195095,
+        "word": "轰动整个阅卷组的试卷",
+        "onboard_time": 1765886841,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101871,
+        "num": 195013,
+        "word": "卢昱晓好薄一片",
+        "onboard_time": 1765884682,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101170,
+        "num": 194978,
+        "word": "TF四代适合不适合MV",
+        "onboard_time": 1765896025,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37757,
+        "num": 194936,
+        "word": "学校通报宿管人员摔死学生小猫",
+        "onboard_time": 1765894886,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
