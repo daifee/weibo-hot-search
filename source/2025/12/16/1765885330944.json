@@ -1,0 +1,410 @@
+{
+  "runTime": 1765885330944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 471646,
+        "num": 1075463,
+        "word": "元旦请3休8",
+        "onboard_time": 1765870404,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 292309,
+        "num": 292309,
+        "word": "生育成本社会共担来了",
+        "onboard_time": 1765874361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24556,
+        "num": 289445,
+        "word": "一句话总结你的2025",
+        "onboard_time": 1765873643,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 265396,
+        "word": "余承东称尊界已经出现口碑效应",
+        "onboard_time": 1765884861,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132157,
+        "num": 250705,
+        "word": "梁王热身刘雨辰黄雅琼陪练",
+        "onboard_time": 1765882160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609949,
+        "num": 249360,
+        "word": "将门毒后 祝绪丹汪铎",
+        "onboard_time": 1765884261,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491153,
+        "num": 224569,
+        "word": "女子称丈夫被骗1日接受13人次服务",
+        "onboard_time": 1765879822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309712,
+        "num": 219744,
+        "word": "雪王去了美国也得加200%的糖",
+        "onboard_time": 1765880780,
+        "rank": 7,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 208369,
+        "num": 208369,
+        "word": "雨霖铃",
+        "onboard_time": 1765880361,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175140,
+        "num": 175140,
+        "word": "成毅 求求你们再看一会吧",
+        "onboard_time": 1765872983,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411752,
+        "num": 174652,
+        "word": "丝芭回应鞠婧祎",
+        "onboard_time": 1765878861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275191,
+        "num": 172875,
+        "word": "双轨首个内娱男女混团",
+        "onboard_time": 1765881862,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210988,
+        "num": 170128,
+        "word": "长安二十四计豆瓣评论异常",
+        "onboard_time": 1765882583,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 168712,
+        "word": "恋与深空 恶俗",
+        "onboard_time": 1765856481,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168254,
+        "num": 168254,
+        "word": "年度奶茶",
+        "onboard_time": 1765876581,
+        "rank": 14,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 163121,
+        "num": 163121,
+        "word": "男子电竞馆猝死家属索赔157万",
+        "onboard_time": 1765883782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153921,
+        "num": 153921,
+        "word": "虞书欣这扑通一声",
+        "onboard_time": 1765878982,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147929,
+        "num": 147929,
+        "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+        "onboard_time": 1765883421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27443,
+        "num": 136559,
+        "word": "阿福提醒五大流感防护误区",
+        "onboard_time": 1765881680,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 80077,
+        "num": 135815,
+        "word": "为什么医生也在推荐AI健康助手",
+        "onboard_time": 1765883961,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135596,
+        "num": 135596,
+        "word": "快乐老友记含喜量还是太高了",
+        "onboard_time": 1765883961,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741893,
+        "num": 135305,
+        "word": "刘亦菲的脚 脚中刘亦菲",
+        "onboard_time": 1765878262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528013,
+        "num": 134698,
+        "word": "王俊凯全红婵不是很友好的互动吗",
+        "onboard_time": 1765877663,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 329840,
+        "num": 134551,
+        "word": "女子全裸做SPA被安排男技师",
+        "onboard_time": 1765872442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304064,
+        "num": 134042,
+        "word": "许亚军被曝在美国",
+        "onboard_time": 1765865601,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229507,
+        "num": 133468,
+        "word": "身体有炎症时要少吃的4种食物",
+        "onboard_time": 1765879042,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220533,
+        "num": 133184,
+        "word": "胡歌李沁开机照",
+        "onboard_time": 1765877901,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45314,
+        "num": 132599,
+        "word": "Burberry陈坤新年",
+        "onboard_time": 1765885101,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197157,
+        "num": 132376,
+        "word": "王俊凯给粉丝的感觉",
+        "onboard_time": 1765884381,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121029,
+        "num": 131811,
+        "word": "今年冬天会遇见心软的伞兵吗",
+        "onboard_time": 1765883961,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298146,
+        "num": 131151,
+        "word": "倪萍在故宫听到张学良的名字震惊了",
+        "onboard_time": 1765881562,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185020,
+        "num": 130591,
+        "word": "卢昱晓好薄一片",
+        "onboard_time": 1765884682,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75804,
+        "num": 130455,
+        "word": "360将追究玉红法律责任",
+        "onboard_time": 1765883721,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130116,
+        "num": 130116,
+        "word": "张凯丽特意换掉留了12年的短发",
+        "onboard_time": 1765884921,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125548,
+        "num": 125548,
+        "word": "店家回应女子全裸按摩遇男技师",
+        "onboard_time": 1765874901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116089,
+        "num": 116089,
+        "word": "流量明星 中度抽动症",
+        "onboard_time": 1765880842,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107141,
+        "num": 107141,
+        "word": "小狗天塌了一晚上白干",
+        "onboard_time": 1765871243,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105367,
+        "num": 105367,
+        "word": "谭松韵抢票",
+        "onboard_time": 1765883661,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101271,
+        "num": 101271,
+        "word": "恋与深空",
+        "onboard_time": 1765854742,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13442,
+        "num": 100215,
+        "word": "八旬老人关门时被大门压倒",
+        "onboard_time": 1765884981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105049,
+        "num": 100181,
+        "word": "怪不得唐诡奇谭要单独播",
+        "onboard_time": 1765869563,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85648,
+        "num": 99800,
+        "word": "周深熬夜看完了家里家外2",
+        "onboard_time": 1765884021,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99795,
+        "num": 99795,
+        "word": "快本 内娱热点超前点映",
+        "onboard_time": 1765882941,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98728,
+        "num": 98728,
+        "word": "狙击蝴蝶云合首登顶",
+        "onboard_time": 1765881442,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95649,
+        "num": 95649,
+        "word": "胡先煦给沈腾调麦 魏晨给撒贝宁翻译",
+        "onboard_time": 1765884861,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86407,
+        "num": 86407,
+        "word": "虾滑虾仁含量仅4成还掺猪肥膘",
+        "onboard_time": 1765883240,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 81427,
+        "num": 81427,
+        "word": "哈尔滨大雪人 颜值巅峰",
+        "onboard_time": 1765882761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80602,
+        "num": 80602,
+        "word": "Kuro谈LPL选手夺冠后变化",
+        "onboard_time": 1765883902,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80391,
+        "num": 80391,
+        "word": "周鸿祎回应被举报财务造假",
+        "onboard_time": 1765881261,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79142,
+        "num": 79142,
+        "word": "性格内向的朋友们狠狠共鸣了",
+        "onboard_time": 1765884561,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#为未成年人健康成长营造良好社会环境#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765884473638,
+  "endTime": 1765885330944,
   "band_list": [
     {
       "raw_hot": 8376805,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275191,
+      "num": 190451,
+      "word": "双轨首个内娱男女混团",
+      "onboard_time": 1765881862,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274921,
       "num": 876643,
       "word": "今年下雪为啥不撒融雪剂了",
@@ -2923,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208369,
+      "num": 208369,
+      "word": "雨霖铃",
+      "onboard_time": 1765880361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208172,
       "num": 208172,
       "word": "何与拍了虞书欣",
@@ -3016,14 +3032,6 @@
       "word": "何与对虞书欣说真拿你没办法",
       "onboard_time": 1765711822,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205453,
-      "num": 190451,
-      "word": "双轨首个内娱男女混团",
-      "onboard_time": 1765881862,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3232,6 +3240,14 @@
       "word": "王悦伊回应",
       "onboard_time": 1765791922,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197157,
+      "num": 153358,
+      "word": "王俊凯给粉丝的感觉",
+      "onboard_time": 1765884381,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3611,6 +3627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185020,
+      "num": 130591,
+      "word": "卢昱晓好薄一片",
+      "onboard_time": 1765884682,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184728,
       "num": 184728,
       "word": "恋与深空相关公司曾被约谈",
@@ -3827,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177252,
+      "num": 265396,
+      "word": "余承东称尊界已经出现口碑效应",
+      "onboard_time": 1765884861,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177163,
       "num": 177163,
       "word": "Faker首个K杯冠军",
@@ -3995,28 +4027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169705,
-      "num": 153358,
-      "word": "王俊凯给粉丝的感觉",
-      "onboard_time": 1765884381,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169622,
       "num": 310716,
       "word": "Viper抵达BLG基地",
       "onboard_time": 1765802903,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 168915,
-      "num": 168915,
-      "word": "雨霖铃",
-      "onboard_time": 1765880361,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 168392,
@@ -4160,6 +4176,14 @@
       "word": "别让小洛熙的通报成为二次伤害",
       "onboard_time": 1765858462,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163121,
+      "num": 164137,
+      "word": "男子电竞馆猝死家属索赔157万",
+      "onboard_time": 1765883782,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4641,6 +4665,14 @@
       "onboard_time": 1765744693,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147929,
+      "num": 147929,
+      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+      "onboard_time": 1765883421,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 147194,
@@ -5147,6 +5179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135596,
+      "num": 135596,
+      "word": "快乐老友记含喜量还是太高了",
+      "onboard_time": 1765883961,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135536,
       "num": 264891,
       "word": "孙颖莎说自己自愿去参赛",
@@ -5267,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133593,
-      "num": 133593,
-      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
-      "onboard_time": 1765883421,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133367,
       "num": 133367,
       "word": "无双 不开龙",
@@ -5313,14 +5345,6 @@
       "onboard_time": 1765808903,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133074,
-      "num": 133074,
-      "word": "快乐老友记含喜量还是太高了",
-      "onboard_time": 1765883961,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 132863,
@@ -5473,6 +5497,14 @@
       "onboard_time": 1765681222,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 130116,
+      "num": 130116,
+      "word": "张凯丽特意换掉留了12年的短发",
+      "onboard_time": 1765884921,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 129932,
@@ -7363,6 +7395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95649,
+      "num": 95649,
+      "word": "胡先煦给沈腾调麦 魏晨给撒贝宁翻译",
+      "onboard_time": 1765884861,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95532,
       "num": 95532,
       "word": "蒯曼描述孙颖莎受伤经过",
@@ -7891,6 +7931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86407,
+      "num": 111001,
+      "word": "虾滑虾仁含量仅4成还掺猪肥膘",
+      "onboard_time": 1765883240,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86367,
       "num": 86367,
       "word": "这顿饭她只出了话费",
@@ -7937,6 +7985,14 @@
       "onboard_time": 1765691003,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85648,
+      "num": 111119,
+      "word": "周深熬夜看完了家里家外2",
+      "onboard_time": 1765884021,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 85414,
@@ -8155,20 +8211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81427,
+      "num": 88591,
+      "word": "哈尔滨大雪人 颜值巅峰",
+      "onboard_time": 1765882761,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81213,
       "num": 106307,
       "word": "新加坡躺赚时代或将结束",
       "onboard_time": 1765881862,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 81038,
-      "num": 111119,
-      "word": "周深熬夜看完了家里家外2",
-      "onboard_time": 1765884021,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 80639,
@@ -8195,6 +8251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80077,
+      "num": 164414,
+      "word": "为什么医生也在推荐AI健康助手",
+      "onboard_time": 1765883961,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79996,
       "num": 79996,
       "word": "姐姐养的第一个小孩是我",
@@ -8211,12 +8275,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 78563,
-      "num": 88591,
-      "word": "哈尔滨大雪人 颜值巅峰",
-      "onboard_time": 1765882761,
+      "raw_hot": 79142,
+      "num": 79142,
+      "word": "性格内向的朋友们狠狠共鸣了",
+      "onboard_time": 1765884561,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 78215,
@@ -9107,14 +9171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57313,
-      "num": 111001,
-      "word": "虾滑虾仁含量仅4成还掺猪肥膘",
-      "onboard_time": 1765883240,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 57256,
       "num": 121325,
       "word": "低价社区食堂为何开不下去了",
@@ -9283,14 +9339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49659,
-      "num": 164414,
-      "word": "为什么医生也在推荐AI健康助手",
-      "onboard_time": 1765883961,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49651,
       "num": 141526,
       "word": "全国多地公安交通管理部门陆续更名",
@@ -9419,12 +9467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45339,
-      "num": 164137,
-      "word": "男子电竞馆猝死家属索赔157万",
-      "onboard_time": 1765883782,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 45314,
+      "num": 132599,
+      "word": "Burberry陈坤新年",
+      "onboard_time": 1765885101,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 44848,
@@ -10697,6 +10745,14 @@
       "onboard_time": 1765777402,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13442,
+      "num": 100215,
+      "word": "八旬老人关门时被大门压倒",
+      "onboard_time": 1765884981,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12987,

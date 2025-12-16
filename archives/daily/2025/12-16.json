@@ -1,6 +1,6 @@
 {
   "startTime": 1765816857602,
-  "endTime": 1765884473638,
+  "endTime": 1765885330944,
   "band_list": [
     {
       "raw_hot": 2059679,
@@ -595,6 +595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275191,
+      "num": 190451,
+      "word": "双轨首个内娱男女混团",
+      "onboard_time": 1765881862,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267239,
       "num": 198724,
       "word": "黄子韬曝男明星群都在内卷健身",
@@ -795,6 +803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208369,
+      "num": 208369,
+      "word": "雨霖铃",
+      "onboard_time": 1765880361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207788,
       "num": 207788,
       "word": "什么行为是隔空猥亵",
@@ -816,14 +832,6 @@
       "word": "尹正一个月演了俩鬼子",
       "onboard_time": 1765858223,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205453,
-      "num": 190451,
-      "word": "双轨首个内娱男女混团",
-      "onboard_time": 1765881862,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -923,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197157,
+      "num": 153358,
+      "word": "王俊凯给粉丝的感觉",
+      "onboard_time": 1765884381,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197013,
       "num": 169190,
       "word": "向佐回台湾看孩子了",
@@ -1003,6 +1019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185020,
+      "num": 130591,
+      "word": "卢昱晓好薄一片",
+      "onboard_time": 1765884682,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184728,
       "num": 184728,
       "word": "恋与深空相关公司曾被约谈",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1765863981,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177252,
+      "num": 265396,
+      "word": "余承东称尊界已经出现口碑效应",
+      "onboard_time": 1765884861,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 176200,
@@ -1099,22 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169705,
-      "num": 153358,
-      "word": "王俊凯给粉丝的感觉",
-      "onboard_time": 1765884381,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168915,
-      "num": 168915,
-      "word": "雨霖铃",
-      "onboard_time": 1765880361,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "美国将芬太尼列为大规模杀伤性武器",
@@ -1152,6 +1168,14 @@
       "word": "别让小洛熙的通报成为二次伤害",
       "onboard_time": 1765858462,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163121,
+      "num": 164137,
+      "word": "男子电竞馆猝死家属索赔157万",
+      "onboard_time": 1765883782,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1225,6 +1249,14 @@
       "onboard_time": 1765855761,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147929,
+      "num": 147929,
+      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
+      "onboard_time": 1765883421,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 146383,
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135596,
+      "num": 135596,
+      "word": "快乐老友记含喜量还是太高了",
+      "onboard_time": 1765883961,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135473,
       "num": 135473,
       "word": "苏醒的表情演都不演了",
@@ -1419,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133593,
-      "num": 133593,
-      "word": "陈飞宇哥哥侧脸被认成陈飞宇",
-      "onboard_time": 1765883421,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133262,
       "num": 167837,
       "word": "开拓者召回杨瀚森对战国王",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1765808903,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133074,
-      "num": 133074,
-      "word": "快乐老友记含喜量还是太高了",
-      "onboard_time": 1765883961,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 132863,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1765876222,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130116,
+      "num": 130116,
+      "word": "张凯丽特意换掉留了12年的短发",
+      "onboard_time": 1765884921,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 129126,
@@ -2059,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95649,
+      "num": 95649,
+      "word": "胡先煦给沈腾调麦 魏晨给撒贝宁翻译",
+      "onboard_time": 1765884861,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95384,
       "num": 95384,
       "word": "你信任的装修博主可能是AI夫妻",
@@ -2283,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86407,
+      "num": 111001,
+      "word": "虾滑虾仁含量仅4成还掺猪肥膘",
+      "onboard_time": 1765883240,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86252,
       "num": 122250,
       "word": "狙击蝴蝶程雅昭活成了爱你老己",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1765795162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85648,
+      "num": 111119,
+      "word": "周深熬夜看完了家里家外2",
+      "onboard_time": 1765884021,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 85183,
@@ -2355,6 +2411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81427,
+      "num": 88591,
+      "word": "哈尔滨大雪人 颜值巅峰",
+      "onboard_time": 1765882761,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81352,
       "num": 91539,
       "word": "一群小学生追着蔡徐坤喊你好",
@@ -2371,14 +2435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 81038,
-      "num": 111119,
-      "word": "周深熬夜看完了家里家外2",
-      "onboard_time": 1765884021,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80582,
       "num": 80582,
       "word": "霸王茶姬员工晒创始人喜糖",
@@ -2387,20 +2443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80077,
+      "num": 164414,
+      "word": "为什么医生也在推荐AI健康助手",
+      "onboard_time": 1765883961,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79142,
+      "num": 79142,
+      "word": "性格内向的朋友们狠狠共鸣了",
+      "onboard_time": 1765884561,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78567,
       "num": 91530,
       "word": "陈妍希周柯宇头顶吻",
       "onboard_time": 1765797081,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78563,
-      "num": 88591,
-      "word": "哈尔滨大雪人 颜值巅峰",
-      "onboard_time": 1765882761,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78215,
@@ -2747,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57313,
-      "num": 111001,
-      "word": "虾滑虾仁含量仅4成还掺猪肥膘",
-      "onboard_time": 1765883240,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 56936,
       "num": 56936,
       "word": "店主直接把小蛋糕的成本都写上了",
@@ -2843,14 +2899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49659,
-      "num": 164414,
-      "word": "为什么医生也在推荐AI健康助手",
-      "onboard_time": 1765883961,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49430,
       "num": 91046,
       "word": "戴琳",
@@ -2923,12 +2971,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 45339,
-      "num": 164137,
-      "word": "男子电竞馆猝死家属索赔157万",
-      "onboard_time": 1765883782,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 45314,
+      "num": 132599,
+      "word": "Burberry陈坤新年",
+      "onboard_time": 1765885101,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 45021,
@@ -3361,6 +3409,14 @@
       "onboard_time": 1765831454,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13442,
+      "num": 100215,
+      "word": "八旬老人关门时被大门压倒",
+      "onboard_time": 1765884981,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13294,
