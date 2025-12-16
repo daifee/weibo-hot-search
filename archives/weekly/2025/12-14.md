@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/14 00:32:46 ~ 2025/12/17 02:55:50
+本榜单时间：2025/12/14 00:32:46 ~ 2025/12/17 03:26:11
 </p>
 </blockquote>
 <p>
@@ -8637,6 +8637,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%E6%91%8A%E7%89%8C%E4%BA%86%23" target="weibo">
+江苏卫视跨年首波阵容摊牌了（热度：15894）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BB%E6%83%B3%E8%A2%AB%E4%BD%9C%E6%B3%95%E6%9E%AA%E6%9D%80%E9%82%BB%E5%B1%85%E8%80%81%E4%BA%BA%E5%A4%AB%E5%A6%87%23" target="weibo">
 男子幻想被作法枪杀邻居老人夫妇（热度：15802）
 </a>
@@ -8687,6 +8693,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%A4%A9%E4%BB%B7%E8%80%83%E7%A0%94%E6%88%BF7796%E5%85%83%23" target="weibo">
 酒店天价考研房7796元（热度：14549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A2%AB%E6%B2%B9%E5%90%93%E9%80%80%E5%9C%A8%E5%8F%8C%E8%BD%A8callback%E4%BA%86%23" target="weibo">
+虞书欣被油吓退在双轨callback了（热度：14533）
 </a>
 </li>
 

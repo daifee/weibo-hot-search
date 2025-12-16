@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765911350951,
+  "endTime": 1765913171739,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -56003,6 +56003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15894,
+      "num": 27314,
+      "word": "江苏卫视跨年首波阵容摊牌了",
+      "onboard_time": 1765904358,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15879,
       "num": 131667,
       "word": "枭起青壤导演回应削弱南山猎人",
@@ -56233,6 +56241,14 @@
       "onboard_time": 1764556760,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14533,
+      "num": 27306,
+      "word": "虞书欣被油吓退在双轨callback了",
+      "onboard_time": 1765913054,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 14508,

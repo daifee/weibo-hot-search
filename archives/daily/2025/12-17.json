@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765911350951,
+  "endTime": 1765913171739,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -491,6 +491,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16371,
+      "num": 30713,
+      "word": "女员工拒洗窗帘硬杠董事长被降职",
+      "onboard_time": 1765889662,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15894,
+      "num": 27314,
+      "word": "江苏卫视跨年首波阵容摊牌了",
+      "onboard_time": 1765904358,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15435,
       "num": 35069,
       "word": "美国11月非农高于预期",
@@ -507,12 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15212,
-      "num": 30713,
-      "word": "女员工拒洗窗帘硬杠董事长被降职",
-      "onboard_time": 1765889662,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 14533,
+      "num": 27306,
+      "word": "虞书欣被油吓退在双轨callback了",
+      "onboard_time": 1765913054,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 12310,
