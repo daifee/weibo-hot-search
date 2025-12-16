@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765914005046,
+  "endTime": 1765917218446,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14371,
+      "num": 27601,
+      "word": "23岁男子公交车猥亵女子被行拘",
+      "onboard_time": 1765915753,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13523,
       "num": 29802,
       "word": "檀健次我发现你这人特较真儿",
@@ -539,20 +547,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12680,
+      "num": 29737,
+      "word": "2026考研",
+      "onboard_time": 1765883001,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 12310,
       "num": 121951,
       "word": "中央经济工作会议热点简读",
       "onboard_time": 1765891703,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12049,
-      "num": 29737,
-      "word": "2026考研",
-      "onboard_time": 1765883001,
-      "rank": 48,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
