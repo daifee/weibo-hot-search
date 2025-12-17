@@ -1,0 +1,410 @@
+{
+  "runTime": 1765947239430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277987,
+        "num": 1277987,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708275,
+        "num": 708275,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24487,
+        "num": 493657,
+        "word": "山东舰正式入列6周年",
+        "onboard_time": 1765929739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759771,
+        "num": 446556,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397152,
+        "num": 397152,
+        "word": "哑舍开播",
+        "onboard_time": 1765940780,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350309,
+        "num": 350309,
+        "word": "警惕1644史观带乱了节奏",
+        "onboard_time": 1765942101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487429,
+        "num": 350229,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228453,
+        "num": 350206,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42620,
+        "num": 350055,
+        "word": "2200万人的精细化治理实验",
+        "onboard_time": 1765944862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207768,
+        "num": 350006,
+        "word": "HLE经理爆料Viper拒绝续约",
+        "onboard_time": 1765942942,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 830741,
+        "num": 349944,
+        "word": "不是所有法拉利老了都还是法拉利",
+        "onboard_time": 1765945222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528514,
+        "num": 349799,
+        "word": "李兰迪 6块9的水姐觉得有点不值",
+        "onboard_time": 1765945281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397450,
+        "num": 349726,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349684,
+        "num": 349684,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280980,
+        "num": 280980,
+        "word": "台军通报福建舰通过台湾海峡",
+        "onboard_time": 1765943782,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26340,
+        "num": 272174,
+        "word": "成毅的珠光宝计",
+        "onboard_time": 1765944862,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269860,
+        "num": 269860,
+        "word": "前阿里中层吐槽上万人号称高管",
+        "onboard_time": 1765941203,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234713,
+        "num": 234713,
+        "word": "两次四六级等于一顿烤肉自助",
+        "onboard_time": 1765944322,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140380,
+        "num": 234598,
+        "word": "女教师新婚坠亡一楼业主要求赔偿",
+        "onboard_time": 1765946242,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37421,
+        "num": 234286,
+        "word": "央视鸿蒙星光盛典播出定档",
+        "onboard_time": 1765944802,
+        "rank": 19,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 749060,
+        "num": 233827,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347292,
+        "num": 233470,
+        "word": "杀死29岁陌生女子凶手精神鉴定无病",
+        "onboard_time": 1765938381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313653,
+        "num": 233423,
+        "word": "张真源QQ爱手势舞",
+        "onboard_time": 1765946362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233111,
+        "num": 233111,
+        "word": "孩子给自己舔出个羊胡子疮",
+        "onboard_time": 1765942581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224377,
+        "num": 224377,
+        "word": "王阳救场王传君千里江山图",
+        "onboard_time": 1765940902,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215011,
+        "num": 215011,
+        "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
+        "onboard_time": 1765935981,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214328,
+        "num": 214328,
+        "word": "脑瘫美妆博主被质疑装病",
+        "onboard_time": 1765946542,
+        "rank": 26,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 64475,
+        "num": 213130,
+        "word": "魏建军向用户为新平台征名",
+        "onboard_time": 1765945103,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212113,
+        "num": 212113,
+        "word": "小米天才少女罗福莉首次登场",
+        "onboard_time": 1765941742,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208889,
+        "num": 208889,
+        "word": "王传君 亚健康",
+        "onboard_time": 1765947082,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205824,
+        "num": 205824,
+        "word": "绵阳地震",
+        "onboard_time": 1765946242,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 204538,
+        "num": 204538,
+        "word": "刘亦菲早就爱你老己了",
+        "onboard_time": 1765944262,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204015,
+        "num": 204015,
+        "word": "尼克斯夺NBA杯总冠军",
+        "onboard_time": 1765946183,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188499,
+        "num": 188499,
+        "word": "双轨 处处吻",
+        "onboard_time": 1765945762,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187111,
+        "num": 187111,
+        "word": "麻省理工学院教授在家遭枪击身亡",
+        "onboard_time": 1765944982,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182888,
+        "num": 182888,
+        "word": "小米发布最新MiMo大模型",
+        "onboard_time": 1765934780,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181925,
+        "num": 181925,
+        "word": "一村庄规定未婚先孕罚3000",
+        "onboard_time": 1765946062,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12580,
+        "num": 176200,
+        "word": "悬赏5万刑案嫌疑人已投案",
+        "onboard_time": 1765946422,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169113,
+        "num": 175958,
+        "word": "王源 许愿池系爱豆",
+        "onboard_time": 1765946422,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175798,
+        "num": 175798,
+        "word": "原来陈妍希上过浪姐",
+        "onboard_time": 1765943540,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171912,
+        "num": 171912,
+        "word": "鞠婧祎宣布已是独立艺人",
+        "onboard_time": 1765929680,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "Angelababy妆",
+        "onboard_time": 1765939340,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 152777,
+        "num": 152777,
+        "word": "肖战一直在等重庆话的剧本",
+        "onboard_time": 1765944443,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93383,
+        "num": 152489,
+        "word": "宗馥莉卸任杭州娃哈哈食品公司职务",
+        "onboard_time": 1765945043,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152346,
+        "num": 152346,
+        "word": "许光汉来给姐弟恋上强度了",
+        "onboard_time": 1765947022,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151984,
+        "num": 151984,
+        "word": "鹿晗亚巡纪念册预售",
+        "onboard_time": 1765945463,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68272,
+        "num": 141217,
+        "word": "为何越来越多的女性开始穿男装",
+        "onboard_time": 1765945643,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138560,
+        "num": 138560,
+        "word": "有翡",
+        "onboard_time": 1765901001,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138089,
+        "num": 138089,
+        "word": "李现潜水第一次看到鲨鱼",
+        "onboard_time": 1765943602,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 127911,
+        "word": "竟然在综艺上看到了老板做PPT",
+        "onboard_time": 1765944742,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}
