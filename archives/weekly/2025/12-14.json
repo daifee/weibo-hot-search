@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765943047101,
+  "endTime": 1765946404498,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -371,11 +371,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857047,
+      "num": 532038,
+      "word": "王一博 我在乎",
+      "onboard_time": 1765943121,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 847369,
       "num": 1108175,
       "word": "我国已经进入拉尼娜状态",
       "onboard_time": 1765713085,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 846635,
+      "num": 363289,
+      "word": "哈尔滨穿单裤 血管冻裂",
+      "onboard_time": 1765939880,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -763,14 +779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 631709,
-      "num": 363289,
-      "word": "哈尔滨穿单裤 血管冻裂",
-      "onboard_time": 1765939880,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 629442,
       "num": 629442,
       "word": "香港住宅楼起火400多住户凌晨逃生",
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530557,
+      "num": 530557,
+      "word": "俄乌冲突",
+      "onboard_time": 1765939821,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 528421,
       "num": 334675,
       "word": "科比吧官方微博发了孙颖莎",
@@ -1227,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482378,
+      "num": 249917,
+      "word": "不是所有法拉利老了都还是法拉利",
+      "onboard_time": 1765945222,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481499,
       "num": 924973,
       "word": "演唱会安保用暗号放行126人",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1765846581,
       "rank": 5,
       "category": "读书作家,民生新闻"
+    },
+    {
+      "raw_hot": 452236,
+      "num": 235176,
+      "word": "丝芭说鞠婧祎经常报销和工作无关支出",
+      "onboard_time": 1765938259,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 452131,
@@ -1492,7 +1524,7 @@
     },
     {
       "raw_hot": 420982,
-      "num": 196628,
+      "num": 196985,
       "word": "身体严重缺觉的8个表现",
       "onboard_time": 1765939880,
       "rank": 21,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1765770022,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414732,
-      "num": 214965,
-      "word": "丝芭说鞠婧祎经常报销和工作无关支出",
-      "onboard_time": 1765938259,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 411839,
@@ -1667,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391736,
-      "num": 214600,
-      "word": "俄乌冲突",
-      "onboard_time": 1765939821,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 391436,
       "num": 353529,
       "word": "胡歌李沁开机照",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1765769002,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389072,
+      "num": 389072,
+      "word": "警惕1644史观带乱了节奏",
+      "onboard_time": 1765942101,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386793,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1765691662,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376295,
+      "num": 207053,
+      "word": "丝芭曾拒付鞠婧祎发型师费用",
+      "onboard_time": 1765940540,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 376060,
@@ -1795,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362213,
+      "num": 227461,
+      "word": "李兰迪 6块9的水姐觉得有点不值",
+      "onboard_time": 1765945281,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360043,
       "num": 360043,
       "word": "天价救护车事件涉事医院被罚",
@@ -1851,14 +1891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 350309,
-      "num": 207053,
-      "word": "丝芭曾拒付鞠婧祎发型师费用",
-      "onboard_time": 1765940540,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "河南通报方城学校火灾事故调查结果",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1765852880,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349458,
+      "num": 213582,
+      "word": "前阿里中层吐槽上万人号称高管",
+      "onboard_time": 1765941203,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 347758,
@@ -2291,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288972,
+      "num": 196543,
+      "word": "张真源QQ爱手势舞",
+      "onboard_time": 1765946362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288839,
       "num": 238617,
       "word": "牛蛙被小狗吓到扶墙大哭",
@@ -2401,6 +2449,14 @@
       "onboard_time": 1765702222,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281521,
+      "num": 196348,
+      "word": "虞书欣ThaiMu",
+      "onboard_time": 1765945402,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 280771,
@@ -2835,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250134,
+      "num": 250134,
+      "word": "HLE经理爆料Viper拒绝续约",
+      "onboard_time": 1765942942,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249233,
       "num": 266149,
       "word": "德国总理差点哭了",
@@ -2873,6 +2937,14 @@
       "onboard_time": 1765854561,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247129,
+      "num": 195601,
+      "word": "孩子给自己舔出个羊胡子疮",
+      "onboard_time": 1765942581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246805,
@@ -3163,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222169,
+      "num": 195307,
+      "word": "鹿晗亚巡纪念册预售",
+      "onboard_time": 1765945463,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221849,
       "num": 221849,
       "word": "TF家族新音抢票",
@@ -3257,6 +3337,14 @@
       "onboard_time": 1765682062,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217760,
+      "num": 195728,
+      "word": "小米天才少女罗福莉首次登场",
+      "onboard_time": 1765941742,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 217249,
@@ -3395,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210220,
+      "num": 210220,
+      "word": "台军通报福建舰通过台湾海峡",
+      "onboard_time": 1765943782,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208832,
       "num": 208832,
       "word": "祝绪丹上半身戴了6个蝴蝶结",
@@ -3425,6 +3521,14 @@
       "onboard_time": 1765696702,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208163,
+      "num": 208163,
+      "word": "绵阳地震",
+      "onboard_time": 1765946242,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 207820,
@@ -3537,14 +3641,6 @@
       "onboard_time": 1765883961,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204997,
-      "num": 195728,
-      "word": "小米天才少女罗福莉首次登场",
-      "onboard_time": 1765941742,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 204684,
@@ -3683,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200512,
+      "num": 200512,
+      "word": "两次四六级等于一顿烤肉自助",
+      "onboard_time": 1765944322,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 200464,
       "num": 200464,
       "word": "莫雷加德回应王楚钦退赛",
@@ -3739,6 +3843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198438,
+      "num": 194542,
+      "word": "原来陈妍希上过浪姐",
+      "onboard_time": 1765943540,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198341,
       "num": 183145,
       "word": "王俊凯逼全红婵选1号",
@@ -3771,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197164,
+      "num": 197164,
+      "word": "麻省理工学院教授在家遭枪击身亡",
+      "onboard_time": 1765944982,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 197157,
       "num": 153358,
       "word": "王俊凯给粉丝的感觉",
@@ -3793,22 +3913,6 @@
       "onboard_time": 1765683982,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196646,
-      "num": 196646,
-      "word": "警惕1644史观带乱了节奏",
-      "onboard_time": 1765942101,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196585,
-      "num": 196585,
-      "word": "前阿里中层吐槽上万人号称高管",
-      "onboard_time": 1765941203,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 196580,
@@ -3875,19 +3979,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194690,
-      "num": 194690,
-      "word": "HLE经理爆料Viper拒绝续约",
-      "onboard_time": 1765942942,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 194600,
       "num": 194600,
       "word": "郭碧婷爸爸发文感谢女儿婆家",
       "onboard_time": 1765752016,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194505,
+      "num": 194505,
+      "word": "刘亦菲早就爱你老己了",
+      "onboard_time": 1765944262,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -4001,6 +4105,14 @@
       "onboard_time": 1765715602,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190059,
+      "num": 190059,
+      "word": "李现潜水第一次看到鲨鱼",
+      "onboard_time": 1765943602,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 189341,
@@ -4603,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172292,
+      "num": 172292,
+      "word": "双轨 处处吻",
+      "onboard_time": 1765945762,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172269,
       "num": 236846,
       "word": "前老板发视频吐槽张凯毅老公",
@@ -4793,14 +4913,6 @@
       "onboard_time": 1765855640,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163430,
-      "num": 153449,
-      "word": "孩子给自己舔出个羊胡子疮",
-      "onboard_time": 1765942581,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163411,
@@ -5003,6 +5115,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 158877,
+      "num": 158877,
+      "word": "一村庄规定未婚先孕罚3000",
+      "onboard_time": 1765946062,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "外交部回应日本将不再有大熊猫",
@@ -5017,6 +5137,14 @@
       "onboard_time": 1765776441,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158315,
+      "num": 158315,
+      "word": "肖战一直在等重庆话的剧本",
+      "onboard_time": 1765944443,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 158312,
@@ -5073,6 +5201,14 @@
       "onboard_time": 1765790841,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157703,
+      "num": 157703,
+      "word": "尼克斯夺NBA杯总冠军",
+      "onboard_time": 1765946183,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 157405,
@@ -5353,6 +5489,14 @@
       "onboard_time": 1765795702,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148428,
+      "num": 148428,
+      "word": "竟然在综艺上看到了老板做PPT",
+      "onboard_time": 1765944742,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148271,
@@ -9987,6 +10131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67907,
+      "num": 196030,
+      "word": "魏建军向用户为新平台征名",
+      "onboard_time": 1765945103,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67846,
       "num": 67846,
       "word": "林一去祁连家串门了",
@@ -10009,6 +10161,14 @@
       "onboard_time": 1765781842,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67512,
+      "num": 198490,
+      "word": "宗馥莉卸任杭州娃哈哈食品公司职务",
+      "onboard_time": 1765945043,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66797,
@@ -10232,6 +10392,14 @@
       "word": "2025最后15天",
       "onboard_time": 1765850121,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61858,
+      "num": 191053,
+      "word": "京沪牛马夜班专列",
+      "onboard_time": 1765945222,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -10683,6 +10851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49584,
+      "num": 190199,
+      "word": "为何越来越多的女性开始穿男装",
+      "onboard_time": 1765945643,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49548,
       "num": 199079,
       "word": "被领导索要奖金运动员遭恶意边缘化",
@@ -10785,6 +10961,14 @@
       "onboard_time": 1765900161,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 200064,
+      "word": "央视鸿蒙星光盛典播出定档",
+      "onboard_time": 1765944802,
+      "rank": 19,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 47103,
@@ -11227,6 +11411,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36636,
+      "num": 250359,
+      "word": "2200万人的精细化治理实验",
+      "onboard_time": 1765944862,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36064,
+      "num": 208678,
+      "word": "成毅的珠光宝计",
+      "onboard_time": 1765944862,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35994,
       "num": 118104,
       "word": "12306回应旅客买到列车工作席",
@@ -11627,6 +11827,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30840,
+      "num": 194881,
+      "word": "女教师新婚坠亡一楼业主要求赔偿",
+      "onboard_time": 1765946242,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30813,
       "num": 126752,
       "word": "美国薅了拉美200年羊毛",
@@ -11953,6 +12161,14 @@
       "onboard_time": 1765877602,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24362,
+      "num": 532329,
+      "word": "山东舰正式入列6周年",
+      "onboard_time": 1765929739,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24280,
@@ -12510,6 +12726,9 @@
     },
     {
       "word": "#习近平听取李家超述职报告#"
+    },
+    {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
     }
   ]
 }
