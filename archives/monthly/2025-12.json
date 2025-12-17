@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765957465896,
+  "endTime": 1765960798466,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -721,6 +721,14 @@
       "onboard_time": 1765418180,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1475473,
+      "num": 194631,
+      "word": "丝芭 陪酒",
+      "onboard_time": 1765958002,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1469657,
@@ -2299,6 +2307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 843383,
+      "num": 359146,
+      "word": "王子异 抑郁症",
+      "onboard_time": 1765956143,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 843258,
       "num": 140181,
       "word": "支付宝崩了",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1765511780,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 694640,
-      "num": 207043,
-      "word": "王子异 抑郁症",
-      "onboard_time": 1765956143,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 694414,
@@ -4347,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595415,
+      "num": 194239,
+      "word": "车厘子你爱吃吗 超市有卖的",
+      "onboard_time": 1765958601,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 594306,
       "num": 225075,
       "word": "曝知名导演疑似与年轻女子同居",
@@ -4771,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564550,
+      "num": 195003,
+      "word": "崔丽丽被评定为工伤十级伤残",
+      "onboard_time": 1765958721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564154,
       "num": 431862,
       "word": "谭松韵要开演唱会了",
@@ -5025,6 +5049,14 @@
       "onboard_time": 1764943283,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551306,
+      "num": 193585,
+      "word": "半藏森林 互联网产品经理",
+      "onboard_time": 1765957882,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 550955,
@@ -6385,6 +6417,14 @@
       "onboard_time": 1765097481,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479719,
+      "num": 537122,
+      "word": "严禁向任何组织和个人购买试卷",
+      "onboard_time": 1765955601,
+      "rank": 8,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 479137,
@@ -10347,6 +10387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 337077,
+      "num": 311297,
+      "word": "新婚当天坠亡女教师学生发声",
+      "onboard_time": 1765957522,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337060,
       "num": 324353,
       "word": "陈梦黄晓明合照",
@@ -11235,6 +11283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 314506,
+      "num": 314506,
+      "word": "日本遗孤说从小恨自己为何是日本人",
+      "onboard_time": 1765957522,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 314427,
       "num": 238371,
       "word": "杨紫直播",
@@ -11481,6 +11537,14 @@
       "onboard_time": 1765525641,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 307968,
+      "num": 307968,
+      "word": "学生提起28岁坠亡女教师就哭",
+      "onboard_time": 1765956143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307795,
@@ -12707,6 +12771,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 276467,
+      "num": 189489,
+      "word": "李诞 娱乐圈是重灾区",
+      "onboard_time": 1765958423,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276398,
       "num": 196027,
       "word": "身体有炎症时要少吃的4种食物",
@@ -13137,6 +13209,14 @@
       "onboard_time": 1765873342,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267091,
+      "num": 267091,
+      "word": "小学一二年级不进行纸笔考试",
+      "onboard_time": 1765957462,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 267070,
@@ -18107,6 +18187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199414,
+      "num": 190778,
+      "word": "iPhone18Pro或摒弃药丸状挖孔",
+      "onboard_time": 1765959862,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199366,
       "num": 199366,
       "word": "GEN首位中援Cryin",
@@ -18459,14 +18547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197006,
-      "num": 537122,
-      "word": "严禁向任何组织和个人购买试卷",
-      "onboard_time": 1765955601,
-      "rank": 8,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 196889,
       "num": 196889,
       "word": "初雪",
@@ -18739,6 +18819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195323,
+      "num": 195323,
+      "word": "成毅长安二十四计人物主题曲",
+      "onboard_time": 1765959743,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195307,
       "num": 180129,
       "word": "月经是女性健康的显示器",
@@ -18905,6 +18993,14 @@
       "onboard_time": 1765368802,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194318,
+      "num": 190705,
+      "word": "内地女子在港卖淫被拘捕",
+      "onboard_time": 1765958842,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194208,
@@ -19233,6 +19329,14 @@
       "onboard_time": 1765807882,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191215,
+      "num": 191215,
+      "word": "张艺兴大航海巡演人气断层",
+      "onboard_time": 1765960162,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 191204,
@@ -21241,6 +21345,14 @@
       "onboard_time": 1765074441,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "罗昊曾和周扬青短暂谈过恋爱",
+      "onboard_time": 1765960581,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 177348,
@@ -25451,6 +25563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151221,
+      "num": 151221,
+      "word": "艺考",
+      "onboard_time": 1765957942,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151154,
       "num": 151154,
       "word": "刘谦抗癌成功后首登跨晚",
@@ -25609,6 +25729,14 @@
       "onboard_time": 1765106963,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150250,
+      "num": 150250,
+      "word": "孩子跋涉一天一夜来打球感动姚明",
+      "onboard_time": 1765960763,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 150222,
@@ -29547,6 +29675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133029,
+      "num": 119398,
+      "word": "她真的演出了富家千金的自信和从容",
+      "onboard_time": 1765957761,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132863,
       "num": 283098,
       "word": "梁王热身刘雨辰黄雅琼陪练",
@@ -30177,6 +30313,14 @@
       "onboard_time": 1764939261,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130923,
+      "num": 130923,
+      "word": "文班亚马跌落神坛",
+      "onboard_time": 1765958002,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 130903,
@@ -31281,6 +31425,14 @@
       "onboard_time": 1764671242,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126784,
+      "num": 191550,
+      "word": "献血年龄拟延长至65岁",
+      "onboard_time": 1765960402,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126743,
@@ -32955,14 +33107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121174,
-      "num": 175097,
-      "word": "学生提起28岁坠亡女教师就哭",
-      "onboard_time": 1765956143,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121132,
       "num": 121132,
       "word": "果然谈恋爱的人没有手",
@@ -34473,6 +34617,14 @@
       "onboard_time": 1765883661,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116544,
+      "num": 116544,
+      "word": "遭老板性侵女高管每月心理治疗费4000",
+      "onboard_time": 1765960701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116530,
@@ -37107,6 +37259,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 108434,
+      "num": 108434,
+      "word": "王者最久没出皮肤的英雄",
+      "onboard_time": 1765960162,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108431,
       "num": 271926,
       "word": "重庆渐冻症女子为自己办生命告别会",
@@ -37945,6 +38105,14 @@
       "onboard_time": 1765009943,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105557,
+      "num": 105557,
+      "word": "怪不得麦当劳是减肥餐",
+      "onboard_time": 1765958902,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105547,
@@ -47708,7 +47876,7 @@
     },
     {
       "raw_hot": 66654,
-      "num": 103435,
+      "num": 191082,
       "word": "殷商文化起源在商丘",
       "onboard_time": 1765956862,
       "rank": 35,
@@ -48513,6 +48681,14 @@
       "onboard_time": 1765122440,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 61455,
+      "num": 122800,
+      "word": "陈坤为演林则徐增肥8斤",
+      "onboard_time": 1765960043,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 61402,
@@ -52356,7 +52532,7 @@
     },
     {
       "raw_hot": 40701,
-      "num": 220955,
+      "num": 359544,
       "word": "我国自研世界最大直径高铁盾构机新突破",
       "onboard_time": 1765873643,
       "rank": 8,
@@ -56235,6 +56411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24049,
+      "num": 122254,
+      "word": "王一博素颜出镜杂志封面拍摄",
+      "onboard_time": 1765960701,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23964,
       "num": 123176,
       "word": "河南方城学校火灾680天后",
@@ -56561,6 +56745,14 @@
       "onboard_time": 1765876824,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22428,
+      "num": 121463,
+      "word": "姜暮帮靳朝穿衣服",
+      "onboard_time": 1765959502,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 22314,
@@ -57641,6 +57833,14 @@
       "onboard_time": 1764747260,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15563,
+      "num": 123331,
+      "word": "新生儿剖腹产后死亡家属发声",
+      "onboard_time": 1765960581,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15471,
