@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765986487671,
+  "endTime": 1765989551311,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -113,6 +113,14 @@
       "onboard_time": 1765891401,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1632817,
+      "num": 102835,
+      "word": "我不喝可乐",
+      "onboard_time": 1765986623,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1546117,
@@ -1979,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413052,
+      "num": 137791,
+      "word": "女孩穿光腿神器进了急诊",
+      "onboard_time": 1765986021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412616,
       "num": 341421,
       "word": "高市早苗又表态台湾问题",
@@ -2803,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300902,
+      "num": 135709,
+      "word": "万青",
+      "onboard_time": 1765986501,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300807,
       "num": 267483,
       "word": "37岁坚持化妆200天的变化",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248952,
+      "num": 134637,
+      "word": "27岁女子没来过例假一查竟是男儿芯",
+      "onboard_time": 1765985721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248029,
@@ -7779,6 +7811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127545,
+      "num": 127545,
+      "word": "袁咏仪不爱买包张智霖也害怕",
+      "onboard_time": 1765987222,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127538,
       "num": 103087,
       "word": "小郑嘻嘻回应",
@@ -9467,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103993,
+      "num": 99547,
+      "word": "孤注一掷未曝光片场照",
+      "onboard_time": 1765986800,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103988,
       "num": 103988,
       "word": "爱打车的女生轻轻碎掉了",
@@ -9563,6 +9611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103094,
+      "num": 122041,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103069,
       "num": 103069,
       "word": "明年居民存款到期规模超170万亿",
@@ -9617,14 +9673,6 @@
       "onboard_time": 1765881501,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102414,
-      "num": 135156,
-      "word": "女孩穿光腿神器进了急诊",
-      "onboard_time": 1765986021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102251,
@@ -9745,14 +9793,6 @@
       "onboard_time": 1765882042,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100606,
-      "num": 100606,
-      "word": "27岁女子没来过例假一查竟是男儿芯",
-      "onboard_time": 1765985721,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100566,
@@ -10448,14 +10488,6 @@
       "word": "宗馥莉卸任杭州娃哈哈食品公司职务",
       "onboard_time": 1765945043,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93335,
-      "num": 122041,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -11403,6 +11435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80539,
+      "num": 122038,
+      "word": "ThaiSweet樱花舞MV",
+      "onboard_time": 1765983322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80334,
       "num": 80334,
       "word": "donk生气",
@@ -11635,6 +11675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75818,
+      "num": 98950,
+      "word": "网传欧美小孩在日本地铁踩踏座椅",
+      "onboard_time": 1765986921,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75446,
       "num": 92530,
       "word": "气血不足试试这样煮鸡蛋",
@@ -11683,20 +11731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74742,
+      "num": 98928,
+      "word": "陈妍希说最难的时候被女性救赎了",
+      "onboard_time": 1765986321,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74026,
       "num": 201216,
       "word": "被这篇悼友文看哭了",
       "onboard_time": 1765969281,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73890,
-      "num": 122038,
-      "word": "ThaiSweet樱花舞MV",
-      "onboard_time": 1765983322,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 73654,
@@ -11737,14 +11785,6 @@
       "onboard_time": 1765808122,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72908,
-      "num": 72908,
-      "word": "陈妍希说最难的时候被女性救赎了",
-      "onboard_time": 1765986321,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 72665,
@@ -12099,6 +12139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66023,
+      "num": 98885,
+      "word": "Jasper和吴尊一家滑雪",
+      "onboard_time": 1765988001,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65997,
       "num": 218457,
       "word": "vivoS50天选主角感",
@@ -12169,6 +12217,14 @@
       "onboard_time": 1765769601,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64478,
+      "num": 98909,
+      "word": "iPhone锁屏的7个神操作",
+      "onboard_time": 1765986201,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 64387,
@@ -12779,6 +12835,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 53137,
+      "num": 98887,
+      "word": "外交部回应泰国缴获中国制造装备",
+      "onboard_time": 1765988899,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53121,
       "num": 109727,
       "word": "江西通报一公司员工血铅异常",
@@ -13361,6 +13425,14 @@
       "onboard_time": 1765773083,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39323,
+      "num": 98799,
+      "word": "北京男篮战胜辽宁男篮",
+      "onboard_time": 1765987761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 39048,

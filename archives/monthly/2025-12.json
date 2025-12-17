@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765986487671,
+  "endTime": 1765989551311,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -585,6 +585,14 @@
       "onboard_time": 1764723621,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1632817,
+      "num": 102835,
+      "word": "我不喝可乐",
+      "onboard_time": 1765986623,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1632037,
@@ -8307,6 +8315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 413052,
+      "num": 137791,
+      "word": "女孩穿光腿神器进了急诊",
+      "onboard_time": 1765986021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412955,
       "num": 238178,
       "word": "国外捐精者被查出20%精子带致癌基因",
@@ -12115,6 +12131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300902,
+      "num": 135709,
+      "word": "万青",
+      "onboard_time": 1765986501,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300881,
       "num": 526956,
       "word": "幼师等招聘可依法查询吸毒记录",
@@ -14561,6 +14585,14 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248952,
+      "num": 134637,
+      "word": "27岁女子没来过例假一查竟是男儿芯",
+      "onboard_time": 1765985721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248464,
@@ -31851,6 +31883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127545,
+      "num": 127545,
+      "word": "袁咏仪不爱买包张智霖也害怕",
+      "onboard_time": 1765987222,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127456,
       "num": 127456,
       "word": "张雪峰说已经深刻反省",
@@ -39411,6 +39451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103993,
+      "num": 99547,
+      "word": "孤注一掷未曝光片场照",
+      "onboard_time": 1765986800,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103988,
       "num": 103988,
       "word": "爱打车的女生轻轻碎掉了",
@@ -39747,6 +39795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103094,
+      "num": 122041,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103069,
       "num": 103069,
       "word": "明年居民存款到期规模超170万亿",
@@ -40017,14 +40073,6 @@
       "onboard_time": 1765023742,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102414,
-      "num": 135156,
-      "word": "女孩穿光腿神器进了急诊",
-      "onboard_time": 1765986021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102385,
@@ -40649,14 +40697,6 @@
       "onboard_time": 1764592582,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100606,
-      "num": 100606,
-      "word": "27岁女子没来过例假一查竟是男儿芯",
-      "onboard_time": 1765985721,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100605,
@@ -43041,14 +43081,6 @@
       "onboard_time": 1764843321,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93335,
-      "num": 122041,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93266,
@@ -46595,6 +46627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80539,
+      "num": 122038,
+      "word": "ThaiSweet樱花舞MV",
+      "onboard_time": 1765983322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80475,
       "num": 91865,
       "word": "皮皮朱回怼女人独立要男人干啥",
@@ -47395,6 +47435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75818,
+      "num": 98950,
+      "word": "网传欧美小孩在日本地铁踩踏座椅",
+      "onboard_time": 1765986921,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75790,
       "num": 75790,
       "word": "早睡就能激活全身修复程序",
@@ -47651,6 +47699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74742,
+      "num": 98928,
+      "word": "陈妍希说最难的时候被女性救赎了",
+      "onboard_time": 1765986321,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74723,
       "num": 124812,
       "word": "智界R7十万公里电池安全挑战",
@@ -47811,14 +47867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73890,
-      "num": 122038,
-      "word": "ThaiSweet樱花舞MV",
-      "onboard_time": 1765983322,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73881,
       "num": 264724,
       "word": "问界56789产品矩阵将补齐",
@@ -47945,14 +47993,6 @@
       "onboard_time": 1765331780,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 72908,
-      "num": 72908,
-      "word": "陈妍希说最难的时候被女性救赎了",
-      "onboard_time": 1765986321,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 72823,
@@ -49163,6 +49203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66023,
+      "num": 98885,
+      "word": "Jasper和吴尊一家滑雪",
+      "onboard_time": 1765988001,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66009,
       "num": 124881,
       "word": "刘耀文内娱唯一寿司塑",
@@ -49377,6 +49425,14 @@
       "onboard_time": 1765200262,
       "rank": 39,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 64478,
+      "num": 98909,
+      "word": "iPhone锁屏的7个神操作",
+      "onboard_time": 1765986201,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 64459,
@@ -51321,6 +51377,14 @@
       "onboard_time": 1765582036,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 53137,
+      "num": 98887,
+      "word": "外交部回应泰国缴获中国制造装备",
+      "onboard_time": 1765988899,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53121,
@@ -54105,6 +54169,14 @@
       "onboard_time": 1765773083,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39323,
+      "num": 98799,
+      "word": "北京男篮战胜辽宁男篮",
+      "onboard_time": 1765987761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 39252,
