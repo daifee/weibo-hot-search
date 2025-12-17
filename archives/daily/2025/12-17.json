@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765964216996,
+  "endTime": 1765964973502,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813174,
+      "num": 323422,
+      "word": "新婚坠亡女教师遗体无人认领",
+      "onboard_time": 1765962442,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757178,
       "num": 502067,
       "word": "周柯宇居然还有个哥哥在拍短剧",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 613464,
-      "num": 288487,
+      "num": 348572,
       "word": "内地女子在港卖淫被拘捕",
       "onboard_time": 1765958842,
       "rank": 20,
@@ -219,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 574239,
-      "num": 266412,
-      "word": "新婚坠亡女教师遗体无人认领",
-      "onboard_time": 1765962442,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 564550,
       "num": 249739,
       "word": "崔丽丽被评定为工伤十级伤残",
@@ -251,8 +251,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537605,
+      "num": 246313,
+      "word": "吴君如曾三次撮合古天乐陈妍希",
+      "onboard_time": 1765963402,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531066,
-      "num": 296626,
+      "num": 364418,
       "word": "怪不得麦当劳是减肥餐",
       "onboard_time": 1765958902,
       "rank": 48,
@@ -273,6 +281,14 @@
       "onboard_time": 1765950261,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521462,
+      "num": 1083433,
+      "word": "遭老板性侵女高管每月心理治疗费4000",
+      "onboard_time": 1765960701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506394,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395918,
-      "num": 246313,
-      "word": "吴君如曾三次撮合古天乐陈妍希",
-      "onboard_time": 1765963402,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389072,
       "num": 389072,
       "word": "警惕1644史观带乱了节奏",
@@ -451,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364519,
-      "num": 364519,
-      "word": "遭老板性侵女高管每月心理治疗费4000",
-      "onboard_time": 1765960701,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 374729,
+      "num": 236629,
+      "word": "高市早苗又表态台湾问题",
+      "onboard_time": 1765962623,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 359143,
@@ -467,11 +475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353992,
-      "num": 236629,
-      "word": "高市早苗又表态台湾问题",
-      "onboard_time": 1765962623,
-      "rank": 24,
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "日议员提议去台湾换大熊猫",
+      "onboard_time": 1765962023,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1765949361,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 337665,
+      "num": 245605,
+      "word": "凤凰传奇全家福",
+      "onboard_time": 1765961181,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 337098,
@@ -547,6 +563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 322616,
+      "num": 235617,
+      "word": "Angelababy参加上海网红聚会",
+      "onboard_time": 1765961424,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316444,
       "num": 269732,
       "word": "陈飞宇哥哥居然也在影视圈",
@@ -579,36 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303824,
-      "num": 235617,
-      "word": "Angelababy参加上海网红聚会",
-      "onboard_time": 1765961424,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 297860,
-      "num": 297860,
-      "word": "日议员提议去台湾换大熊猫",
-      "onboard_time": 1765962023,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 293431,
       "num": 225615,
       "word": "内娱第一位230斤的爱豆出现了",
       "onboard_time": 1765950022,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291689,
-      "num": 245605,
-      "word": "凤凰传奇全家福",
-      "onboard_time": 1765961181,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 291345,
@@ -691,7 +691,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234836,
+      "raw_hot": 236228,
       "num": 234836,
       "word": "月鳞绮纪",
       "onboard_time": 1765962982,
@@ -731,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221610,
+      "num": 216674,
+      "word": "德云女孩 销声匿迹",
+      "onboard_time": 1765962262,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221377,
       "num": 237615,
       "word": "iPhone18Pro或摒弃药丸状挖孔",
@@ -761,14 +769,6 @@
       "onboard_time": 1765941742,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 216674,
-      "num": 216674,
-      "word": "德云女孩 销声匿迹",
-      "onboard_time": 1765962262,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212655,
@@ -947,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190114,
+      "num": 190114,
+      "word": "漂亮的李慧珍原来这么离谱",
+      "onboard_time": 1765963282,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190059,
       "num": 190059,
       "word": "李现潜水第一次看到鲨鱼",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1765950560,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174335,
-      "num": 174335,
-      "word": "漂亮的李慧珍原来这么离谱",
-      "onboard_time": 1765963282,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173558,
@@ -1467,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119835,
+      "num": 124066,
+      "word": "30岁健美冠军去世前几天刚体检完",
+      "onboard_time": 1765963762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119143,
       "num": 119143,
       "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
@@ -1539,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113621,
+      "num": 113621,
+      "word": "张歆艺43岁状态",
+      "onboard_time": 1765964481,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111604,
       "num": 111604,
       "word": "欧阳娜娜牵狗上班",
       "onboard_time": 1765949182,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111291,
+      "num": 111291,
+      "word": "车里说不清道不明的异味从哪来",
+      "onboard_time": 1765963644,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109914,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1765934180,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109325,
-      "num": 124066,
-      "word": "30岁健美冠军去世前几天刚体检完",
-      "onboard_time": 1765963762,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109138,
@@ -1787,20 +1803,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90684,
+      "num": 101790,
+      "word": "罗永浩回应骂俞敏洪是忘恩负义",
+      "onboard_time": 1765964902,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89983,
       "num": 169070,
       "word": "Bin对Viper说奖杯看一次就够了",
       "onboard_time": 1765955301,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89690,
-      "num": 96622,
-      "word": "车里说不清道不明的异味从哪来",
-      "onboard_time": 1765963644,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89641,
@@ -2331,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37629,
+      "num": 192025,
+      "word": "舷号17横跨137年的巧合",
+      "onboard_time": 1765964361,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37274,
       "num": 76931,
       "word": "年度体育榜样力量",
@@ -2451,6 +2475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25953,
+      "num": 124167,
+      "word": "同行质疑公牛误导宣传被索赔420万",
+      "onboard_time": 1765963521,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24690,
       "num": 194186,
       "word": "日本防卫费近五年激增约60%",
@@ -2459,12 +2491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24358,
+      "num": 313352,
+      "word": "我国脑机接口技术有新突破",
+      "onboard_time": 1765964122,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24345,
       "num": 146544,
       "word": "我国全年用电量将首超10万亿千瓦时",
       "onboard_time": 1765891943,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24129,
+      "num": 254184,
+      "word": "流感预防药物不能代替疫苗",
+      "onboard_time": 1765964122,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23183,
@@ -2531,12 +2579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18365,
-      "num": 124167,
-      "word": "同行质疑公牛误导宣传被索赔420万",
-      "onboard_time": 1765963521,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 18952,
+      "num": 193775,
+      "word": "罗马许愿池要收费了",
+      "onboard_time": 1765964300,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17441,
@@ -2579,14 +2627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14724,
-      "num": 313352,
-      "word": "我国脑机接口技术有新突破",
-      "onboard_time": 1765964122,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14533,
       "num": 27306,
       "word": "虞书欣被油吓退在双轨callback了",
@@ -2627,6 +2667,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 11631,
+      "num": 201060,
+      "word": "南方多地升温梦回10月",
+      "onboard_time": 1765964601,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11236,
+      "num": 190464,
+      "word": "国宝画重点",
+      "onboard_time": 1765964361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10391,
       "num": 23930,
       "word": "确实型人格",
@@ -2635,18 +2691,18 @@
       "category": "情感"
     },
     {
+      "raw_hot": 8571,
+      "num": 366477,
+      "word": "为中国航天点赞",
+      "onboard_time": 1765964601,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7880,
       "num": 258761,
       "word": "盘点2025触动人心的声音",
       "onboard_time": 1765891703,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5740,
-      "num": 254184,
-      "word": "流感预防药物不能代替疫苗",
-      "onboard_time": 1765964122,
       "rank": 8,
       "category": "民生新闻"
     },
@@ -2668,6 +2724,9 @@
     },
     {
       "word": "#帮助未成年人扣好人生第一粒扣子#"
+    },
+    {
+      "word": "#重温总书记谈改革开放的这番话#"
     }
   ]
 }

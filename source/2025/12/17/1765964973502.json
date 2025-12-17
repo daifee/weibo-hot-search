@@ -1,0 +1,410 @@
+{
+  "runTime": 1765964973502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521462,
+        "num": 1083433,
+        "word": "遭老板性侵女高管每月心理治疗费4000",
+        "onboard_time": 1765960701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395985,
+        "num": 395985,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8571,
+        "num": 366477,
+        "word": "为中国航天点赞",
+        "onboard_time": 1765964601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 467153,
+        "num": 364418,
+        "word": "怪不得麦当劳是减肥餐",
+        "onboard_time": 1765958902,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351226,
+        "num": 351226,
+        "word": "日议员提议去台湾换大熊猫",
+        "onboard_time": 1765962023,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509825,
+        "num": 348572,
+        "word": "内地女子在港卖淫被拘捕",
+        "onboard_time": 1765958842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813174,
+        "num": 323422,
+        "word": "新婚坠亡女教师遗体无人认领",
+        "onboard_time": 1765962442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216495,
+        "num": 216495,
+        "word": "iPhone18Pro或摒弃药丸状挖孔",
+        "onboard_time": 1765959862,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11631,
+        "num": 201060,
+        "word": "南方多地升温梦回10月",
+        "onboard_time": 1765964601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197426,
+        "num": 197426,
+        "word": "严禁向任何组织和个人购买试卷",
+        "onboard_time": 1765955601,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 985845,
+        "num": 197382,
+        "word": "丝芭 陪酒",
+        "onboard_time": 1765958002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537605,
+        "num": 196872,
+        "word": "吴君如曾三次撮合古天乐陈妍希",
+        "onboard_time": 1765963402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443516,
+        "num": 196410,
+        "word": "车厘子你爱吃吗 超市有卖的",
+        "onboard_time": 1765958601,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337665,
+        "num": 196026,
+        "word": "凤凰传奇全家福",
+        "onboard_time": 1765961181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323820,
+        "num": 195952,
+        "word": "半藏森林 互联网产品经理",
+        "onboard_time": 1765957882,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262748,
+        "num": 195448,
+        "word": "好利来大公子点赞称他为女生的评论",
+        "onboard_time": 1765954822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242147,
+        "num": 195012,
+        "word": "王俊凯的真心",
+        "onboard_time": 1765950501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20432,
+        "num": 194625,
+        "word": "阿福成为宝爸育儿培训班",
+        "onboard_time": 1765962322,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 236228,
+        "num": 194500,
+        "word": "月鳞绮纪",
+        "onboard_time": 1765962982,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18952,
+        "num": 193775,
+        "word": "罗马许愿池要收费了",
+        "onboard_time": 1765964300,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 922960,
+        "num": 193620,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761365,
+        "num": 193139,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374729,
+        "num": 192819,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223356,
+        "num": 192309,
+        "word": "陈妍希周柯宇 二搭",
+        "onboard_time": 1765955601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37629,
+        "num": 192025,
+        "word": "舷号17横跨137年的巧合",
+        "onboard_time": 1765964361,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322616,
+        "num": 191767,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311692,
+        "num": 191247,
+        "word": "罗昊曾和周扬青短暂谈过恋爱",
+        "onboard_time": 1765960581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221610,
+        "num": 190923,
+        "word": "德云女孩 销声匿迹",
+        "onboard_time": 1765962262,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 190481,
+        "word": "李诞 娱乐圈是重灾区",
+        "onboard_time": 1765958423,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 190464,
+        "word": "国宝画重点",
+        "onboard_time": 1765964361,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190114,
+        "num": 190114,
+        "word": "漂亮的李慧珍原来这么离谱",
+        "onboard_time": 1765963282,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188936,
+        "num": 188936,
+        "word": "崔丽丽被评定为工伤十级伤残",
+        "onboard_time": 1765958721,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174535,
+        "num": 174535,
+        "word": "仲天骐终于后继有人了",
+        "onboard_time": 1765962501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159655,
+        "num": 159655,
+        "word": "日本遗孤说从小恨自己为何是日本人",
+        "onboard_time": 1765957522,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147120,
+        "num": 147120,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "赵丽颖黄晓明新剧改名",
+        "onboard_time": 1765961061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 132824,
+        "word": "小学一二年级不进行纸笔考试",
+        "onboard_time": 1765957462,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "张震岳怼朱孝天",
+        "onboard_time": 1765954583,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119835,
+        "num": 119835,
+        "word": "30岁健美冠军去世前几天刚体检完",
+        "onboard_time": 1765963762,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113621,
+        "num": 113621,
+        "word": "张歆艺43岁状态",
+        "onboard_time": 1765964481,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113612,
+        "num": 113612,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1765963941,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112812,
+        "num": 112812,
+        "word": "小郑嘻嘻再回应",
+        "onboard_time": 1765953201,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111291,
+        "num": 111291,
+        "word": "车里说不清道不明的异味从哪来",
+        "onboard_time": 1765963644,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25953,
+        "num": 109705,
+        "word": "同行质疑公牛误导宣传被索赔420万",
+        "onboard_time": 1765963521,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109146,
+        "num": 109146,
+        "word": "张萌夫妇路边亲吻",
+        "onboard_time": 1765953981,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108480,
+        "num": 108480,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24358,
+        "num": 102475,
+        "word": "我国脑机接口技术有新突破",
+        "onboard_time": 1765964122,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24129,
+        "num": 102042,
+        "word": "流感预防药物不能代替疫苗",
+        "onboard_time": 1765964122,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101882,
+        "num": 101882,
+        "word": "明清以及任何王朝更迭都是中国历史",
+        "onboard_time": 1765961122,
+        "rank": 48,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 90684,
+        "num": 101790,
+        "word": "罗永浩回应骂俞敏洪是忘恩负义",
+        "onboard_time": 1765964902,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
