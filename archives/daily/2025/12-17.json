@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765956642843,
+  "endTime": 1765957465896,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1049684,
+      "num": 204412,
+      "word": "好利来大公子点赞称他为女生的评论",
+      "onboard_time": 1765954822,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 985355,
       "num": 229942,
       "word": "鞠婧祎丝芭 硬刚",
       "onboard_time": 1765953322,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904153,
-      "num": 204412,
-      "word": "好利来大公子点赞称他为女生的评论",
-      "onboard_time": 1765954822,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 857047,
@@ -123,12 +123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 694640,
+      "num": 207043,
+      "word": "王子异 抑郁症",
+      "onboard_time": 1765956143,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652083,
       "num": 652083,
       "word": "哑舍开播",
       "onboard_time": 1765940780,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 634900,
+      "num": 1096303,
+      "word": "知情者称坠亡女教师发过取消婚礼通知",
+      "onboard_time": 1765953620,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 620223,
@@ -153,14 +169,6 @@
       "onboard_time": 1765953201,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 601897,
-      "num": 1096303,
-      "word": "知情者称坠亡女教师发过取消婚礼通知",
-      "onboard_time": 1765953620,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 584774,
@@ -307,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419679,
+      "num": 202585,
+      "word": "陈妍希周柯宇 二搭",
+      "onboard_time": 1765955601,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410093,
+      "num": 202769,
+      "word": "任敏在南极跳水",
+      "onboard_time": 1765953861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398288,
       "num": 264230,
       "word": "女孩回应坐公交被猥亵无一人帮忙",
@@ -371,14 +395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 340333,
-      "num": 202769,
-      "word": "任敏在南极跳水",
-      "onboard_time": 1765953861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336748,
       "num": 146607,
       "word": "毛人龙许文婷分手",
@@ -401,14 +417,6 @@
       "onboard_time": 1765926977,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325837,
-      "num": 202585,
-      "word": "陈妍希周柯宇 二搭",
-      "onboard_time": 1765955601,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 324823,
@@ -489,14 +497,6 @@
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 252037,
-      "num": 200386,
-      "word": "王子异 抑郁症",
-      "onboard_time": 1765956143,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 250134,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 205902,
-      "num": 205902,
+      "num": 242422,
       "word": "高中要严格控制考试次数",
       "onboard_time": 1765955421,
       "rank": 4,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 197006,
-      "num": 205020,
+      "num": 537122,
       "word": "严禁向任何组织和个人购买试卷",
       "onboard_time": 1765955601,
       "rank": 8,
@@ -1027,12 +1027,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138135,
+      "num": 230675,
+      "word": "小米SU7换代或涨价2万元",
+      "onboard_time": 1765949721,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137769,
       "num": 137769,
       "word": "怪不得檀健次一秒十个假动作",
       "onboard_time": 1765935620,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137395,
+      "num": 177367,
+      "word": "王楚钦孙颖莎是大众喜欢的运动员",
+      "onboard_time": 1765956383,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136420,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1765935800,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135303,
-      "num": 230675,
-      "word": "小米SU7换代或涨价2万元",
-      "onboard_time": 1765949721,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 134850,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1765942402,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129654,
-      "num": 177367,
-      "word": "王楚钦孙颖莎是大众喜欢的运动员",
-      "onboard_time": 1765956383,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 128685,
@@ -1307,12 +1307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108216,
-      "num": 108216,
+      "raw_hot": 108651,
+      "num": 108651,
       "word": "终于有人把火锅底料说明白了",
       "onboard_time": 1765954822,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108510,
+      "num": 100178,
+      "word": "周柯宇 星光大赏",
+      "onboard_time": 1765957401,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 106619,
@@ -1387,12 +1395,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99518,
+      "num": 99518,
+      "word": "谷江山二什么次元采访",
+      "onboard_time": 1765957282,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99080,
       "num": 146578,
       "word": "余景天 师姐拍的",
       "onboard_time": 1765901481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "考研人的8种结局",
+      "onboard_time": 1765957401,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 97652,
@@ -1408,6 +1432,22 @@
       "word": "宗馥莉卸任杭州娃哈哈食品公司职务",
       "onboard_time": 1765945043,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93002,
+      "num": 102699,
+      "word": "日本民众不舍大熊猫掩面哭泣",
+      "onboard_time": 1765957102,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92988,
+      "num": 92988,
+      "word": "镇政府回应一村未婚先孕罚款3000",
+      "onboard_time": 1765957401,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1643,12 +1683,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 66654,
+      "num": 103435,
+      "word": "殷商文化起源在商丘",
+      "onboard_time": 1765956862,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66641,
       "num": 146480,
       "word": "2025泰国年度风云人物",
       "onboard_time": 1765902558,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66121,
+      "num": 103014,
+      "word": "沈佳润带伤录跨晚",
+      "onboard_time": 1765956742,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 65218,
@@ -1803,7 +1859,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50734,
+      "raw_hot": 51011,
       "num": 227055,
       "word": "胡先煦年轻就要智界出发",
       "onboard_time": 1765953680,
@@ -2147,6 +2203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12908,
+      "num": 172507,
+      "word": "比伯15年后站在原地唱Baby",
+      "onboard_time": 1765956502,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 12680,
       "num": 29737,
       "word": "2026考研",
@@ -2177,14 +2241,6 @@
       "onboard_time": 1765891703,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7209,
-      "num": 172507,
-      "word": "比伯15年后站在原地唱Baby",
-      "onboard_time": 1765956502,
-      "rank": 39,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

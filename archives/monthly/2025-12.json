@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765956642843,
+  "endTime": 1765957465896,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049684,
+      "num": 204412,
+      "word": "好利来大公子点赞称他为女生的评论",
+      "onboard_time": 1765954822,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049490,
       "num": 527881,
       "word": "赵今麦 好大气的五官",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1764679042,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 904153,
-      "num": 204412,
-      "word": "好利来大公子点赞称他为女生的评论",
-      "onboard_time": 1765954822,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 902836,
@@ -3203,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694640,
+      "num": 207043,
+      "word": "王子异 抑郁症",
+      "onboard_time": 1765956143,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694414,
       "num": 694414,
       "word": "应届硕士偷偷参加国考",
@@ -3843,6 +3851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 634900,
+      "num": 1096303,
+      "word": "知情者称坠亡女教师发过取消婚礼通知",
+      "onboard_time": 1765953620,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634377,
       "num": 341101,
       "word": "第一次在床上晕车了",
@@ -4255,14 +4271,6 @@
       "num": 209323,
       "word": "反诈老陈公开悬赏100万元",
       "onboard_time": 1764763402,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 601897,
-      "num": 1096303,
-      "word": "知情者称坠亡女教师发过取消婚礼通知",
-      "onboard_time": 1765953620,
       "rank": 6,
       "category": "民生新闻"
     },
@@ -7915,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419679,
+      "num": 202585,
+      "word": "陈妍希周柯宇 二搭",
+      "onboard_time": 1765955601,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419298,
       "num": 419298,
       "word": "儿子回应洪金宝回春",
@@ -8113,6 +8129,14 @@
       "onboard_time": 1765012283,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 410093,
+      "num": 202769,
+      "word": "任敏在南极跳水",
+      "onboard_time": 1765953861,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 409260,
@@ -10243,14 +10267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340333,
-      "num": 202769,
-      "word": "任敏在南极跳水",
-      "onboard_time": 1765953861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340168,
       "num": 340168,
       "word": "不二之臣全阵容官宣",
@@ -10825,14 +10841,6 @@
       "onboard_time": 1765624761,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325837,
-      "num": 202585,
-      "word": "陈妍希周柯宇 二搭",
-      "onboard_time": 1765955601,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 325092,
@@ -13977,14 +13985,6 @@
       "onboard_time": 1765002200,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 252037,
-      "num": 200386,
-      "word": "王子异 抑郁症",
-      "onboard_time": 1765956143,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 251763,
@@ -17148,7 +17148,7 @@
     },
     {
       "raw_hot": 205902,
-      "num": 205902,
+      "num": 242422,
       "word": "高中要严格控制考试次数",
       "onboard_time": 1765955421,
       "rank": 4,
@@ -18460,7 +18460,7 @@
     },
     {
       "raw_hot": 197006,
-      "num": 205020,
+      "num": 537122,
       "word": "严禁向任何组织和个人购买试卷",
       "onboard_time": 1765955601,
       "rank": 8,
@@ -28155,6 +28155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138135,
+      "num": 230675,
+      "word": "小米SU7换代或涨价2万元",
+      "onboard_time": 1765949721,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138116,
       "num": 138116,
       "word": "易烊千玺说粉丝让他有底气去试错",
@@ -28393,6 +28401,14 @@
       "onboard_time": 1765159038,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137395,
+      "num": 177367,
+      "word": "王楚钦孙颖莎是大众喜欢的运动员",
+      "onboard_time": 1765956383,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 137370,
@@ -28897,14 +28913,6 @@
       "onboard_time": 1765781422,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 135303,
-      "num": 230675,
-      "word": "小米SU7换代或涨价2万元",
-      "onboard_time": 1765949721,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 135271,
@@ -30536,14 +30544,6 @@
       "word": "国乒8比4瑞典",
       "onboard_time": 1765019422,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129654,
-      "num": 177367,
-      "word": "王楚钦孙颖莎是大众喜欢的运动员",
-      "onboard_time": 1765956383,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -37003,6 +37003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108651,
+      "num": 108651,
+      "word": "终于有人把火锅底料说明白了",
+      "onboard_time": 1765954822,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108639,
       "num": 97277,
       "word": "电影得闲谨制上座率",
@@ -37041,6 +37049,14 @@
       "onboard_time": 1765897343,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108510,
+      "num": 100178,
+      "word": "周柯宇 星光大赏",
+      "onboard_time": 1765957401,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 108502,
@@ -37137,14 +37153,6 @@
       "onboard_time": 1764860482,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108216,
-      "num": 108216,
-      "word": "终于有人把火锅底料说明白了",
-      "onboard_time": 1765954822,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 108140,
@@ -39995,6 +40003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99518,
+      "num": 99518,
+      "word": "谷江山二什么次元采访",
+      "onboard_time": 1765957282,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99517,
       "num": 191737,
       "word": "朋友送的护身符核辐射超标1686倍",
@@ -40337,6 +40353,14 @@
       "onboard_time": 1764601582,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "考研人的8种结局",
+      "onboard_time": 1765957401,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 98362,
@@ -41969,6 +41993,22 @@
       "onboard_time": 1765640660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93002,
+      "num": 102699,
+      "word": "日本民众不舍大熊猫掩面哭泣",
+      "onboard_time": 1765957102,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92988,
+      "num": 92988,
+      "word": "镇政府回应一村未婚先孕罚款3000",
+      "onboard_time": 1765957401,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92955,
@@ -47667,6 +47707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66654,
+      "num": 103435,
+      "word": "殷商文化起源在商丘",
+      "onboard_time": 1765956862,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66641,
       "num": 146480,
       "word": "2025泰国年度风云人物",
@@ -47761,6 +47809,14 @@
       "onboard_time": 1764689122,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66121,
+      "num": 103014,
+      "word": "沈佳润带伤录跨晚",
+      "onboard_time": 1765956742,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 66092,
@@ -50315,6 +50371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51011,
+      "num": 227055,
+      "word": "胡先煦年轻就要智界出发",
+      "onboard_time": 1765953680,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51002,
       "num": 95832,
       "word": "卢浮宫严重漏水致大量古籍受损",
@@ -50345,14 +50409,6 @@
       "onboard_time": 1764977057,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50734,
-      "num": 227055,
-      "word": "胡先煦年轻就要智界出发",
-      "onboard_time": 1765953680,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 50725,
@@ -58043,6 +58099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12908,
+      "num": 172507,
+      "word": "比伯15年后站在原地唱Baby",
+      "onboard_time": 1765956502,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 12753,
       "num": 34199,
       "word": "一场被全球汽车圈围观的碰撞",
@@ -58505,14 +58569,6 @@
       "onboard_time": 1764563543,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7209,
-      "num": 172507,
-      "word": "比伯15年后站在原地唱Baby",
-      "onboard_time": 1765956502,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 7165,
