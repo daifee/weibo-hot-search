@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1765999616497,
+  "endTime": 1766000441016,
   "band_list": [
     {
       "raw_hot": 1632817,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26288,
+      "num": 26288,
+      "word": "老外一个人站在机场三个小时",
+      "onboard_time": 1765998194,
+      "rank": 19,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 24674,
       "num": 70730,
       "word": "芬兰总理谴责多人涉嫌歧视中国人",
@@ -491,20 +499,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22495,
-      "num": 25936,
-      "word": "老外一个人站在机场三个小时",
-      "onboard_time": 1765998194,
-      "rank": 19,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 17404,
       "num": 70716,
       "word": "CBA",
       "onboard_time": 1765978821,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17019,
+      "num": 25762,
+      "word": "这才是发箍的正确戴法",
+      "onboard_time": 1765998615,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 16898,
@@ -515,15 +523,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13747,
-      "num": 25762,
-      "word": "这才是发箍的正确戴法",
-      "onboard_time": 1765998615,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 13318,
+      "raw_hot": 14194,
       "num": 25722,
       "word": "法国第一夫人道歉",
       "onboard_time": 1765976962,
