@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765936904686,
+  "endTime": 1765938312479,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1344075,
-      "num": 217886,
+      "num": 268118,
       "word": "张韶涵也是裁员裁到大动脉了",
       "onboard_time": 1765929680,
       "rank": 3,
@@ -35,24 +35,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 490137,
-      "num": 160526,
-      "word": "面试其实筛选掉了很多真正做事的人",
-      "onboard_time": 1765930341,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 488677,
-      "num": 1078188,
+      "raw_hot": 506394,
+      "num": 1081023,
       "word": "脑瘫女孩3年帮家里还债40余万",
       "onboard_time": 1765929260,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 458314,
-      "num": 156691,
+      "raw_hot": 490137,
+      "num": 248380,
+      "word": "面试其实筛选掉了很多真正做事的人",
+      "onboard_time": 1765930341,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 483665,
+      "num": 254827,
       "word": "工作35年被延迟退休的自白",
       "onboard_time": 1765931482,
       "rank": 13,
@@ -67,20 +67,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419733,
+      "num": 252318,
+      "word": "鞠婧祎宣布已是独立艺人",
+      "onboard_time": 1765929680,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414732,
+      "num": 211054,
+      "word": "丝芭说鞠婧祎经常报销和工作无关支出",
+      "onboard_time": 1765938259,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404439,
+      "num": 250291,
+      "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
+      "onboard_time": 1765935981,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 398288,
+      "num": 264230,
+      "word": "女孩回应坐公交被猥亵无一人帮忙",
+      "onboard_time": 1765933161,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397184,
       "num": 326243,
       "word": "有翡",
       "onboard_time": 1765901001,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 374936,
-      "num": 198946,
-      "word": "女孩回应坐公交被猥亵无一人帮忙",
-      "onboard_time": 1765933161,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 336748,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 333371,
-      "num": 154997,
+      "num": 247664,
       "word": "郭敬明上线好几次",
       "onboard_time": 1765931542,
       "rank": 14,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 249233,
-      "num": 209512,
+      "num": 266149,
       "word": "德国总理差点哭了",
       "onboard_time": 1765930401,
       "rank": 4,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 232385,
-      "num": 138799,
+      "num": 155027,
       "word": "阿凡达3遇冷",
       "onboard_time": 1765933161,
       "rank": 21,
@@ -155,12 +179,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222568,
-      "num": 149231,
-      "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
-      "onboard_time": 1765935981,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 216476,
+      "num": 216476,
+      "word": "河南通报方城学校火灾事故调查结果",
+      "onboard_time": 1765937901,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 212655,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 211863,
-      "num": 146295,
+      "num": 157095,
       "word": "丝芭艺人收入依法纳税补充声明",
       "onboard_time": 1765930941,
       "rank": 17,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 200167,
-      "num": 146584,
+      "num": 172016,
       "word": "Angelababy真的好美",
       "onboard_time": 1765894945,
       "rank": 24,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195794,
+      "num": 261890,
+      "word": "小米发布最新MiMo大模型",
+      "onboard_time": 1765934780,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192904,
       "num": 146658,
       "word": "教师猥亵儿童妻子因社会压力提离婚",
@@ -211,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189794,
-      "num": 189794,
-      "word": "小米发布最新MiMo大模型",
-      "onboard_time": 1765934780,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 183537,
-      "num": 183537,
+      "num": 256500,
       "word": "万宁关闭内地所有门店",
       "onboard_time": 1765928539,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176547,
+      "num": 152666,
+      "word": "收入分配制度或迎重大改革",
+      "onboard_time": 1765936641,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 173558,
@@ -241,6 +273,14 @@
       "onboard_time": 1765892965,
       "rank": 16,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 167529,
+      "num": 167529,
+      "word": "日本民众告别大熊猫只能看1分钟",
+      "onboard_time": 1765934121,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161864,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 150903,
-      "num": 128030,
+      "num": 132632,
       "word": "黄镇廷女儿和孙颖莎合影",
       "onboard_time": 1765936641,
       "rank": 30,
@@ -291,28 +331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139901,
-      "num": 137899,
-      "word": "收入分配制度或迎重大改革",
-      "onboard_time": 1765936641,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 137769,
       "num": 137769,
       "word": "怪不得檀健次一秒十个假动作",
       "onboard_time": 1765935620,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135886,
-      "num": 135886,
-      "word": "日本民众告别大熊猫只能看1分钟",
-      "onboard_time": 1765934121,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135558,
@@ -371,12 +395,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109914,
+      "num": 109914,
+      "word": "孙颖莎入围年度社媒最受欢迎运动员",
+      "onboard_time": 1765937781,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109618,
       "num": 109618,
       "word": "学中医前后冬天减肥的区别",
       "onboard_time": 1765930522,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109339,
+      "num": 109339,
+      "word": "姆巴佩世界足球先生得票第三",
+      "onboard_time": 1765934180,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109138,
+      "num": 109138,
+      "word": "发现好多人都不会聊天",
+      "onboard_time": 1765931842,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 106113,
@@ -387,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105775,
-      "num": 105775,
-      "word": "发现好多人都不会聊天",
-      "onboard_time": 1765931842,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105294,
       "num": 146505,
       "word": "六旬老人被分手后买刀行凶杀错人",
       "onboard_time": 1765897343,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101357,
+      "num": 101357,
+      "word": "阴阳师",
+      "onboard_time": 1765937961,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 100309,
@@ -427,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98622,
+      "num": 98622,
+      "word": "东北虎雪地睡觉还冒热气",
+      "onboard_time": 1765937660,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97652,
+      "num": 97652,
+      "word": "黄山一工人翻护栏有偿为游客捡手机",
+      "onboard_time": 1765937541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93766,
       "num": 93766,
       "word": "双轨",
@@ -443,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92010,
+      "num": 137265,
+      "word": "日本在冲绳圈地为部署雷达做准备",
+      "onboard_time": 1765936820,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89641,
       "num": 89641,
       "word": "小米新模型媲美DeepSeekV3.2",
@@ -457,6 +529,14 @@
       "onboard_time": 1765898244,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88158,
+      "num": 88158,
+      "word": "特朗普认定委政府是恐怖组织",
+      "onboard_time": 1765937000,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85653,
@@ -483,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83632,
+      "num": 83632,
+      "word": "官方通报男子住院后突发狂躁死亡",
+      "onboard_time": 1765937059,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 82372,
       "num": 82372,
       "word": "这种被子得多抱出来晒晒",
       "onboard_time": 1765933401,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81216,
+      "num": 81216,
+      "word": "妈妈的不讨好是希望你更好",
+      "onboard_time": 1765938199,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 81058,
@@ -529,6 +625,14 @@
       "onboard_time": 1765895306,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79320,
+      "num": 79320,
+      "word": "周柯宇居然还有个哥哥在拍短剧",
+      "onboard_time": 1765938259,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 78932,
@@ -723,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38978,
+      "num": 88908,
+      "word": "柬埔寨称一小学遭泰国轰炸",
+      "onboard_time": 1765936521,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38189,
       "num": 64560,
       "word": "23岁男子公交车猥亵女子被行拘",
@@ -771,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25204,
-      "num": 111001,
-      "word": "日本在冲绳圈地为部署雷达做准备",
-      "onboard_time": 1765936820,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24345,
       "num": 146544,
       "word": "我国全年用电量将首超10万亿千瓦时",
@@ -819,14 +923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19623,
-      "num": 88908,
-      "word": "柬埔寨称一小学遭泰国轰炸",
-      "onboard_time": 1765936521,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17441,
       "num": 172198,
       "word": "海南自贸港全岛封关后有啥变化",
@@ -849,6 +945,14 @@
       "onboard_time": 1765908194,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14880,
+      "num": 143126,
+      "word": "家门口被害案找到关键证人",
+      "onboard_time": 1765938020,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14533,
@@ -881,6 +985,14 @@
       "onboard_time": 1765920854,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7880,
+      "num": 258761,
+      "word": "盘点2025触动人心的声音",
+      "onboard_time": 1765891703,
+      "rank": 8,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

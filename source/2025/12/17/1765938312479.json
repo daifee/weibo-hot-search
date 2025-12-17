@@ -1,0 +1,410 @@
+{
+  "runTime": 1765938312479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 506394,
+        "num": 1081023,
+        "word": "脑瘫女孩3年帮家里还债40余万",
+        "onboard_time": 1765929260,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271499,
+        "num": 271499,
+        "word": "手机充电器千万不要一直插着不拔",
+        "onboard_time": 1765892303,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15864,
+        "num": 270125,
+        "word": "中央经济工作会议热点简读",
+        "onboard_time": 1765891703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1180122,
+        "num": 268118,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239535,
+        "num": 266149,
+        "word": "德国总理差点哭了",
+        "onboard_time": 1765930401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398288,
+        "num": 264230,
+        "word": "女孩回应坐公交被猥亵无一人帮忙",
+        "onboard_time": 1765933161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195794,
+        "num": 261890,
+        "word": "小米发布最新MiMo大模型",
+        "onboard_time": 1765934780,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164089,
+        "num": 260749,
+        "word": "有翡",
+        "onboard_time": 1765901001,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7880,
+        "num": 258761,
+        "word": "盘点2025触动人心的声音",
+        "onboard_time": 1765891703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176125,
+        "num": 256500,
+        "word": "万宁关闭内地所有门店",
+        "onboard_time": 1765928539,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483665,
+        "num": 254827,
+        "word": "工作35年被延迟退休的自白",
+        "onboard_time": 1765931482,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419733,
+        "num": 252318,
+        "word": "鞠婧祎宣布已是独立艺人",
+        "onboard_time": 1765929680,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404439,
+        "num": 250291,
+        "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
+        "onboard_time": 1765935981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381448,
+        "num": 248380,
+        "word": "面试其实筛选掉了很多真正做事的人",
+        "onboard_time": 1765930341,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247664,
+        "num": 247664,
+        "word": "郭敬明上线好几次",
+        "onboard_time": 1765931542,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216476,
+        "num": 216476,
+        "word": "河南通报方城学校火灾事故调查结果",
+        "onboard_time": 1765937901,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 414732,
+        "num": 211054,
+        "word": "丝芭说鞠婧祎经常报销和工作无关支出",
+        "onboard_time": 1765938259,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172016,
+        "num": 172016,
+        "word": "Angelababy真的好美",
+        "onboard_time": 1765894945,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 167529,
+        "word": "日本民众告别大熊猫只能看1分钟",
+        "onboard_time": 1765934121,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157095,
+        "num": 157095,
+        "word": "丝芭艺人收入依法纳税补充声明",
+        "onboard_time": 1765930941,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201389,
+        "num": 155027,
+        "word": "阿凡达3遇冷",
+        "onboard_time": 1765933161,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 152666,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14880,
+        "num": 143126,
+        "word": "家门口被害案找到关键证人",
+        "onboard_time": 1765938020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139994,
+        "num": 139994,
+        "word": "乒乓球名将倪夏莲宣布复出",
+        "onboard_time": 1765926977,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92010,
+        "num": 137265,
+        "word": "日本在冲绳圈地为部署雷达做准备",
+        "onboard_time": 1765936820,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134558,
+        "num": 134558,
+        "word": "毛人龙许文婷分手",
+        "onboard_time": 1765891224,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 132632,
+        "word": "黄镇廷女儿和孙颖莎合影",
+        "onboard_time": 1765936641,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114713,
+        "num": 114713,
+        "word": "深圳16岁少年卖烤鸡日入过万",
+        "onboard_time": 1765894163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 109914,
+        "word": "孙颖莎入围年度社媒最受欢迎运动员",
+        "onboard_time": 1765937781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109339,
+        "num": 109339,
+        "word": "姆巴佩世界足球先生得票第三",
+        "onboard_time": 1765934180,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109138,
+        "num": 109138,
+        "word": "发现好多人都不会聊天",
+        "onboard_time": 1765931842,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108055,
+        "num": 108055,
+        "word": "杨瀚森又被下放至G联赛",
+        "onboard_time": 1765935380,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103918,
+        "num": 103918,
+        "word": "官方回应老师称想让班上孩子全得甲流",
+        "onboard_time": 1765934480,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 103467,
+        "word": "虞书欣拍的何与",
+        "onboard_time": 1765934121,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101447,
+        "num": 101447,
+        "word": "叶祖新曾因娃娃脸无戏可拍",
+        "onboard_time": 1765935081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101357,
+        "num": 101357,
+        "word": "阴阳师",
+        "onboard_time": 1765937961,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98622,
+        "num": 98622,
+        "word": "东北虎雪地睡觉还冒热气",
+        "onboard_time": 1765937660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97831,
+        "num": 97831,
+        "word": "柬埔寨",
+        "onboard_time": 1765888462,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97652,
+        "num": 97652,
+        "word": "黄山一工人翻护栏有偿为游客捡手机",
+        "onboard_time": 1765937541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95563,
+        "num": 95563,
+        "word": "怪不得檀健次一秒十个假动作",
+        "onboard_time": 1765935620,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88158,
+        "num": 88158,
+        "word": "特朗普认定委政府是恐怖组织",
+        "onboard_time": 1765937000,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92367,
+        "num": 86855,
+        "word": "厕所吸烟没理玻璃透明却授人以柄",
+        "onboard_time": 1765931421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83632,
+        "num": 83632,
+        "word": "官方通报男子住院后突发狂躁死亡",
+        "onboard_time": 1765937059,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 82609,
+        "num": 82609,
+        "word": "学中医前后冬天减肥的区别",
+        "onboard_time": 1765930522,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 82462,
+        "num": 82462,
+        "word": "双轨",
+        "onboard_time": 1765906218,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81216,
+        "num": 81216,
+        "word": "妈妈的不讨好是希望你更好",
+        "onboard_time": 1765938199,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80837,
+        "num": 80837,
+        "word": "这种被子得多抱出来晒晒",
+        "onboard_time": 1765933401,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79320,
+        "num": 79320,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78369,
+        "num": 78369,
+        "word": "缺觉的人全身都处于炎症状态",
+        "onboard_time": 1765898244,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38978,
+        "num": 76158,
+        "word": "柬埔寨称一小学遭泰国轰炸",
+        "onboard_time": 1765936521,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
