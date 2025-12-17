@@ -1,0 +1,410 @@
+{
+  "runTime": 1765976393485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170090,
+        "num": 1187214,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350291,
+        "num": 350291,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3249,
+        "num": 322481,
+        "word": "为中国航天点赞",
+        "onboard_time": 1765964601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423772,
+        "num": 320057,
+        "word": "朝朝暮暮嘴对嘴吃草莓",
+        "onboard_time": 1765970660,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314405,
+        "num": 314405,
+        "word": "月鳞绮纪",
+        "onboard_time": 1765962982,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321245,
+        "num": 313851,
+        "word": "镇政府回应未婚同居每年交500元告示",
+        "onboard_time": 1765972821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204814,
+        "num": 313206,
+        "word": "怪不得麦当劳是减肥餐",
+        "onboard_time": 1765958902,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 451917,
+        "num": 311935,
+        "word": "双轨尺度",
+        "onboard_time": 1765972581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126295,
+        "num": 310684,
+        "word": "严禁向任何组织和个人购买试卷",
+        "onboard_time": 1765955601,
+        "rank": 8,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 121870,
+        "num": 309155,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412616,
+        "num": 308498,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381163,
+        "num": 307452,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338466,
+        "num": 306512,
+        "word": "丝芭律师年份写错了",
+        "onboard_time": 1765971322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305612,
+        "num": 305612,
+        "word": "白鹿修图师",
+        "onboard_time": 1765972461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284566,
+        "num": 284566,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269645,
+        "num": 269645,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214993,
+        "num": 214993,
+        "word": "唐诡奇谭一集好短",
+        "onboard_time": 1765975402,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168125,
+        "num": 168125,
+        "word": "车厘子你爱吃吗 超市有卖的",
+        "onboard_time": 1765958601,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 167775,
+        "word": "遭性侵女高管称很难一个人出门",
+        "onboard_time": 1765972821,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 167607,
+        "word": "手机壳界爱马仕涨价",
+        "onboard_time": 1765974082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911386,
+        "num": 167060,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356981,
+        "num": 166545,
+        "word": "当地税务局回应凳子被指形似刑具",
+        "onboard_time": 1765967600,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319293,
+        "num": 166257,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265317,
+        "num": 165902,
+        "word": "S妈回应和具俊晔到小S家跨年",
+        "onboard_time": 1765968981,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99679,
+        "num": 165610,
+        "word": "被打乱",
+        "onboard_time": 1765971502,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65450,
+        "num": 164939,
+        "word": "毒死11只猫狗男子拒民事赔偿",
+        "onboard_time": 1765974922,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260067,
+        "num": 164805,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207414,
+        "num": 164343,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135169,
+        "num": 163812,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190292,
+        "num": 163318,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173279,
+        "num": 162809,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162745,
+        "num": 162745,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162440,
+        "num": 162440,
+        "word": "周柯宇陈妍希 跨年",
+        "onboard_time": 1765975823,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149391,
+        "num": 149391,
+        "word": "德云女孩 销声匿迹",
+        "onboard_time": 1765962262,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136148,
+        "num": 136148,
+        "word": "王大陆与女友出庭",
+        "onboard_time": 1765971200,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133340,
+        "num": 133340,
+        "word": "钟汉良秦岚说吻戏拍了三个小时",
+        "onboard_time": 1765975043,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89081,
+        "num": 132919,
+        "word": "2000多年前的垃圾桶",
+        "onboard_time": 1765974441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 132688,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31165,
+        "num": 129421,
+        "word": "举报逆行反被交警怼我管不了那么多",
+        "onboard_time": 1765975702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43893,
+        "num": 129131,
+        "word": "艺考男生称自己至少被15次擦妆",
+        "onboard_time": 1765976302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129075,
+        "num": 129075,
+        "word": "第一次感到和欧阳娜娜有代沟",
+        "onboard_time": 1765965982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127134,
+        "num": 127134,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124355,
+        "num": 124355,
+        "word": "一部剧2集居然能亲8次",
+        "onboard_time": 1765972941,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119581,
+        "num": 119581,
+        "word": "丝芭传媒律师声明",
+        "onboard_time": 1765965261,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 118992,
+        "word": "双轨男女主草莓翻面吻唇享30秒",
+        "onboard_time": 1765974861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118844,
+        "num": 118844,
+        "word": "冯德伦不愧是舒淇严选",
+        "onboard_time": 1765973962,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "美殡仪馆误将逝者脑组织当衣物交还",
+        "onboard_time": 1765972341,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94923,
+        "num": 94923,
+        "word": "上班真的是很可怕的一件事",
+        "onboard_time": 1765972702,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90999,
+        "num": 90999,
+        "word": "SpaceX要求员工进入IPO前静默期",
+        "onboard_time": 1765975641,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90887,
+        "num": 90887,
+        "word": "兔闪闪优惠券",
+        "onboard_time": 1765973302,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

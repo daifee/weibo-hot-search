@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765971771296,
+  "endTime": 1765976393485,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -185,6 +185,14 @@
       "onboard_time": 1765861523,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1170090,
+      "num": 1187214,
+      "word": "最能生娃省份排名来了",
+      "onboard_time": 1765971322,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1168266,
@@ -1659,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 451917,
+      "num": 311935,
+      "word": "双轨尺度",
+      "onboard_time": 1765972581,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449448,
       "num": 449448,
       "word": "狙击蝴蝶",
@@ -1787,6 +1803,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 423772,
+      "num": 320057,
+      "word": "朝朝暮暮嘴对嘴吃草莓",
+      "onboard_time": 1765970660,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422979,
       "num": 347897,
       "word": "双轨原著 冠夫姓",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1765770022,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412616,
+      "num": 308498,
+      "word": "高市早苗又表态台湾问题",
+      "onboard_time": 1765962623,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 411839,
@@ -2004,7 +2036,7 @@
     },
     {
       "raw_hot": 393227,
-      "num": 268889,
+      "num": 314405,
       "word": "月鳞绮纪",
       "onboard_time": 1765962982,
       "rank": 27,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1765688002,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 381163,
+      "num": 307452,
+      "word": "男子中1750万彩票朋友跟买中35万",
+      "onboard_time": 1765974622,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380309,
@@ -2105,14 +2145,6 @@
       "onboard_time": 1765675761,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 374729,
-      "num": 259521,
-      "word": "高市早苗又表态台湾问题",
-      "onboard_time": 1765962623,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 372866,
@@ -2219,6 +2251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350291,
+      "num": 350291,
+      "word": "福建舰 台湾海峡",
+      "onboard_time": 1765970481,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "河南通报方城学校火灾事故调查结果",
@@ -2313,6 +2353,14 @@
       "onboard_time": 1765876342,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338466,
+      "num": 306512,
+      "word": "丝芭律师年份写错了",
+      "onboard_time": 1765971322,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 338444,
@@ -2467,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321245,
+      "num": 313851,
+      "word": "镇政府回应未婚同居每年交500元告示",
+      "onboard_time": 1765972821,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317176,
       "num": 225354,
       "word": "和美国女友网恋奔现",
@@ -2617,6 +2673,14 @@
       "onboard_time": 1765885881,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305612,
+      "num": 305612,
+      "word": "白鹿修图师",
+      "onboard_time": 1765972461,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 302266,
@@ -2801,6 +2865,14 @@
       "onboard_time": 1765873643,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284566,
+      "num": 284566,
+      "word": "没人告诉我鲁豫线下长这样",
+      "onboard_time": 1765970241,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 284389,
@@ -2995,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269645,
+      "num": 269645,
+      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+      "onboard_time": 1765970361,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268293,
       "num": 191661,
       "word": "陈飞宇哥哥侧脸被认成陈飞宇",
@@ -3049,14 +3129,6 @@
       "onboard_time": 1765797081,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266675,
-      "num": 231811,
-      "word": "没人告诉我鲁豫线下长这样",
-      "onboard_time": 1765970241,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 266372,
@@ -3187,12 +3259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260489,
-      "num": 231637,
-      "word": "朝朝暮暮嘴对嘴吃草莓",
-      "onboard_time": 1765970660,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 260067,
+      "num": 164805,
+      "word": "家里不穿的毛衣不要扔了",
+      "onboard_time": 1765975101,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 259255,
@@ -3521,14 +3593,6 @@
       "onboard_time": 1765859842,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233618,
-      "num": 223547,
-      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
-      "onboard_time": 1765970361,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 233319,
@@ -3905,6 +3969,14 @@
       "onboard_time": 1765634063,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214993,
+      "num": 214993,
+      "word": "唐诡奇谭一集好短",
+      "onboard_time": 1765975402,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214537,
@@ -4649,6 +4721,14 @@
       "onboard_time": 1765629083,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 163318,
+      "word": "迪丽热巴19岁时就在爱你老己了",
+      "onboard_time": 1765975221,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190212,
@@ -5595,12 +5675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162745,
+      "num": 162745,
+      "word": "电影孤注一掷",
+      "onboard_time": 1765976002,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162731,
       "num": 138362,
       "word": "郑恺李晨跑男还没戒断又续上了",
       "onboard_time": 1765793183,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162440,
+      "num": 162440,
+      "word": "周柯宇陈妍希 跨年",
+      "onboard_time": 1765975823,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 162218,
@@ -6299,14 +6395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146244,
-      "num": 146244,
-      "word": "最能生娃省份排名来了",
-      "onboard_time": 1765971322,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "多名艺人与丝芭解约后被限消",
@@ -6545,14 +6633,6 @@
       "onboard_time": 1765714944,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140567,
-      "num": 140567,
-      "word": "丝芭律师年份写错了",
-      "onboard_time": 1765971322,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 140533,
@@ -6915,6 +6995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135169,
+      "num": 163812,
+      "word": "山姆车厘子30天狂降100元",
+      "onboard_time": 1765975282,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135099,
       "num": 135099,
       "word": "建议卖面包的大爷全国巡卖",
@@ -7001,6 +7089,14 @@
       "onboard_time": 1765726223,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133340,
+      "num": 133340,
+      "word": "钟汉良秦岚说吻戏拍了三个小时",
+      "onboard_time": 1765975043,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 133271,
@@ -7427,6 +7523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127134,
+      "num": 127134,
+      "word": "李在明动作失误被夫人肘击",
+      "onboard_time": 1765975823,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126929,
       "num": 126929,
       "word": "科学家终于揭开百慕大三角之谜",
@@ -7560,6 +7664,14 @@
       "word": "何与 拿个外卖燃成这样",
       "onboard_time": 1765892844,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124355,
+      "num": 124355,
+      "word": "一部剧2集居然能亲8次",
+      "onboard_time": 1765972941,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -7945,6 +8057,14 @@
       "onboard_time": 1765788741,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118844,
+      "num": 118844,
+      "word": "冯德伦不愧是舒淇严选",
+      "onboard_time": 1765973962,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 118648,
@@ -9099,6 +9219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103529,
+      "num": 167775,
+      "word": "遭性侵女高管称很难一个人出门",
+      "onboard_time": 1765972821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103430,
       "num": 103430,
       "word": "向佐晒了一家四口合照",
@@ -9209,6 +9337,14 @@
       "onboard_time": 1765875021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101788,
+      "num": 167607,
+      "word": "手机壳界爱马仕涨价",
+      "onboard_time": 1765974082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101577,
@@ -9523,6 +9659,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98168,
+      "num": 98168,
+      "word": "美殡仪馆误将逝者脑组织当衣物交还",
+      "onboard_time": 1765972341,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98151,
       "num": 98151,
       "word": "其实你根本不喜欢玩手机",
@@ -9833,6 +9977,14 @@
       "onboard_time": 1765781182,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94923,
+      "num": 94923,
+      "word": "上班真的是很可怕的一件事",
+      "onboard_time": 1765972702,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 94910,
@@ -10219,12 +10371,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 90975,
-      "num": 233677,
-      "word": "福建舰 台湾海峡",
-      "onboard_time": 1765970481,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 90999,
+      "num": 90999,
+      "word": "SpaceX要求员工进入IPO前静默期",
+      "onboard_time": 1765975641,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 90953,
@@ -10249,6 +10401,14 @@
       "onboard_time": 1765677501,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90887,
+      "num": 90887,
+      "word": "兔闪闪优惠券",
+      "onboard_time": 1765973302,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 90818,
@@ -10377,6 +10537,22 @@
       "onboard_time": 1765869503,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89322,
+      "num": 118992,
+      "word": "双轨男女主草莓翻面吻唇享30秒",
+      "onboard_time": 1765974861,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89081,
+      "num": 132919,
+      "word": "2000多年前的垃圾桶",
+      "onboard_time": 1765974441,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89055,
@@ -11491,6 +11667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65450,
+      "num": 164939,
+      "word": "毒死11只猫狗男子拒民事赔偿",
+      "onboard_time": 1765974922,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65430,
       "num": 65430,
       "word": "江西警方通报老人被邻居打倒在地",
@@ -12443,6 +12627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43893,
+      "num": 129131,
+      "word": "艺考男生称自己至少被15次擦妆",
+      "onboard_time": 1765976302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43698,
       "num": 191893,
       "word": "女子结婚14年被家暴13年案今日开庭",
@@ -13255,6 +13447,14 @@
       "num": 112255,
       "word": "女子露营饮酒溺亡同行好友赔偿45万",
       "onboard_time": 1765697242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31165,
+      "num": 129421,
+      "word": "举报逆行反被交警怼我管不了那么多",
+      "onboard_time": 1765975702,
       "rank": 38,
       "category": "民生新闻"
     },
