@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/14 00:32:46 ~ 2025/12/18 05:43:09
+本榜单时间：2025/12/14 00:32:46 ~ 2025/12/18 06:28:25
 </p>
 </blockquote>
 <p>
@@ -10767,6 +10767,12 @@ vivoS50拍出恋综电影感（热度：29482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%83%E5%8F%B0%E8%AF%8D%E7%BB%83%E5%88%B0%E5%BF%98%E8%AE%B0%E8%AF%B4%E7%9A%84%E6%98%AF%E6%96%B9%E8%A8%80%23" target="weibo">
+肖战练台词练到忘记说的是方言（热度：26908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%A3%85%E5%90%B8%E7%83%9F%E5%8F%98%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E5%95%86%E5%9C%BA%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23" target="weibo">
 安装吸烟变透明玻璃商场涉嫌侵权（热度：26889）
 </a>
@@ -11193,6 +11199,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%9C%80%E6%83%B3%E4%B8%8A%E7%83%AD%E6%90%9C%E6%98%AF%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E5%90%AC%23" target="weibo">
+刘宇宁最想上热搜是刘宇宁好听（热度：15335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E9%A6%96%E9%83%BD%E6%9C%89%E6%AF%92%E7%83%9F%E9%9B%BE%E8%87%B440%E5%A4%9A%E4%B8%AA%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%23" target="weibo">
 印首都有毒烟雾致40多个航班取消（热度：15271）
 </a>
@@ -11231,6 +11243,12 @@ Peyz泽丽输出高于HLE三C之和（热度：25409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A2%AB%E6%B2%B9%E5%90%93%E9%80%80%E5%9C%A8%E5%8F%8C%E8%BD%A8callback%E4%BA%86%23" target="weibo">
 虞书欣被油吓退在双轨callback了（热度：14533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%8E%8B%E8%8E%89%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
+亚运冠军王莉再发声（热度：14434）
 </a>
 </li>
 
