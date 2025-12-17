@@ -1,0 +1,410 @@
+{
+  "runTime": 1765983039796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 972523,
+        "num": 1155603,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797238,
+        "num": 797238,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43140,
+        "num": 762211,
+        "word": "2025大国重器震撼人心",
+        "onboard_time": 1765977021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750538,
+        "num": 750538,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451582,
+        "num": 451582,
+        "word": "南京博物院",
+        "onboard_time": 1765978883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372951,
+        "num": 372951,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602608,
+        "num": 367804,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286908,
+        "num": 286908,
+        "word": "骄阳似我OST阵容官宣",
+        "onboard_time": 1765976902,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20824,
+        "num": 286220,
+        "word": "回顾2025赛场拼搏瞬间",
+        "onboard_time": 1765976449,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13494,
+        "num": 284801,
+        "word": "看旅日大熊猫排队4小时参观1分钟",
+        "onboard_time": 1765982543,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1127806,
+        "num": 284154,
+        "word": "鞠婧祎 王一栩",
+        "onboard_time": 1765980624,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670616,
+        "num": 282121,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357777,
+        "num": 281012,
+        "word": "嫌犯把孕妇血绑身上走私",
+        "onboard_time": 1765980144,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357224,
+        "num": 279469,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279295,
+        "num": 279295,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254498,
+        "num": 254498,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213981,
+        "num": 213981,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195016,
+        "num": 195016,
+        "word": "唐诡奇谭一集好短",
+        "onboard_time": 1765975402,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 194975,
+        "word": "南博5幅受赠画作两次鉴定为假",
+        "onboard_time": 1765982543,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100596,
+        "num": 194971,
+        "word": "警务人员开警车接送孩子被停职",
+        "onboard_time": 1765982062,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749626,
+        "num": 194921,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334429,
+        "num": 194848,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239282,
+        "num": 194839,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226509,
+        "num": 194761,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196335,
+        "num": 194728,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 194710,
+        "word": "双轨尺度",
+        "onboard_time": 1765972581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167703,
+        "num": 167703,
+        "word": "法国第一夫人道歉",
+        "onboard_time": 1765976962,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166391,
+        "num": 166391,
+        "word": "南京博物院回应馆藏现拍卖市场",
+        "onboard_time": 1765978883,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164107,
+        "num": 164107,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156792,
+        "num": 156792,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156256,
+        "num": 156256,
+        "word": "丝芭发文回应曾艳芬",
+        "onboard_time": 1765979304,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152964,
+        "num": 152964,
+        "word": "坠楼女教师有已婚哥哥和未婚弟弟",
+        "onboard_time": 1765981163,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149568,
+        "num": 149568,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141632,
+        "num": 141632,
+        "word": "坠亡女教师生前称未婚夫只会气人",
+        "onboard_time": 1765980082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126685,
+        "num": 126685,
+        "word": "南京博物院回应仇英名作现身拍卖市场",
+        "onboard_time": 1765981821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126244,
+        "num": 126244,
+        "word": "刘奕君私下摸了王劲松胸肌",
+        "onboard_time": 1765978342,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120866,
+        "num": 120866,
+        "word": "朝朝暮暮嘴对嘴吃草莓",
+        "onboard_time": 1765970660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9185,
+        "num": 119233,
+        "word": "枪杀邻居夫妇后男子买3瓶52度白酒自杀",
+        "onboard_time": 1765982723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13892,
+        "num": 118922,
+        "word": "女子连续加班半个月一觉醒来险没命",
+        "onboard_time": 1765982182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19017,
+        "num": 118919,
+        "word": "这会员惊喜多得像过年",
+        "onboard_time": 1765980082,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118916,
+        "num": 118916,
+        "word": "白鹿修图师",
+        "onboard_time": 1765972461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116765,
+        "num": 118891,
+        "word": "京辽大战判罚",
+        "onboard_time": 1765981523,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118886,
+        "num": 118886,
+        "word": "第一批提前回家过年摆摊的人",
+        "onboard_time": 1765980864,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117787,
+        "num": 117787,
+        "word": "黄轩你怎么了",
+        "onboard_time": 1765977576,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114068,
+        "num": 114068,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105609,
+        "num": 105609,
+        "word": "陈清晨郑思维黄雅琼刘雨辰退役仪式",
+        "onboard_time": 1765981704,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104351,
+        "num": 104351,
+        "word": "当地税务局回应凳子被指形似刑具",
+        "onboard_time": 1765967600,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99598,
+        "num": 99598,
+        "word": "国羽功勋四将退役仪式",
+        "onboard_time": 1765982244,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98417,
+        "num": 98417,
+        "word": "国家医保局发文回应生娃不花钱",
+        "onboard_time": 1765982782,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97880,
+        "num": 97880,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
