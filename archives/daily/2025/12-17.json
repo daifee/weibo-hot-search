@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765977226513,
+  "endTime": 1765978803448,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -89,6 +89,14 @@
       "onboard_time": 1765953322,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 900143,
+      "num": 530834,
+      "word": "电影孤注一掷",
+      "onboard_time": 1765976002,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 861247,
@@ -243,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 588936,
+      "num": 588936,
+      "word": "男子中1750万彩票朋友跟买中35万",
+      "onboard_time": 1765974622,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584774,
       "num": 227101,
       "word": "张激扬 小郑嘻嘻",
@@ -264,14 +280,6 @@
       "word": "杀死29岁陌生女子凶手精神鉴定无病",
       "onboard_time": 1765938381,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568577,
-      "num": 363540,
-      "word": "男子中1750万彩票朋友跟买中35万",
-      "onboard_time": 1765974622,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -355,8 +363,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503877,
+      "num": 503877,
+      "word": "骄阳似我OST阵容官宣",
+      "onboard_time": 1765976902,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501376,
-      "num": 311935,
+      "num": 390075,
       "word": "双轨尺度",
       "onboard_time": 1765972581,
       "rank": 7,
@@ -401,6 +417,14 @@
       "onboard_time": 1765955601,
       "rank": 8,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 479406,
+      "num": 348846,
+      "word": "双轨直播",
+      "onboard_time": 1765977921,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 473031,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 412616,
-      "num": 308498,
+      "num": 341421,
       "word": "高市早苗又表态台湾问题",
       "onboard_time": 1765962623,
       "rank": 24,
@@ -571,20 +595,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386767,
+      "num": 345274,
+      "word": "法国第一夫人道歉",
+      "onboard_time": 1765976962,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 376295,
       "num": 207053,
       "word": "丝芭曾拒付鞠婧祎发型师费用",
       "onboard_time": 1765940540,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368871,
-      "num": 368871,
-      "word": "电影孤注一掷",
-      "onboard_time": 1765976002,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 359143,
@@ -657,6 +681,14 @@
       "onboard_time": 1765891224,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334604,
+      "num": 334604,
+      "word": "唐诡奇谭一集好短",
+      "onboard_time": 1765975402,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 333371,
@@ -739,12 +771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301227,
-      "num": 301227,
-      "word": "唐诡奇谭一集好短",
-      "onboard_time": 1765975402,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 304267,
+      "num": 237176,
+      "word": "家里不穿的毛衣不要扔了",
+      "onboard_time": 1765975101,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300675,
+      "num": 300675,
+      "word": "女子借款13万滚到近1300万",
+      "onboard_time": 1765976722,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293431,
@@ -777,14 +817,6 @@
       "onboard_time": 1765963762,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284236,
-      "num": 237176,
-      "word": "家里不穿的毛衣不要扔了",
-      "onboard_time": 1765975101,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 280980,
@@ -912,6 +944,14 @@
       "word": "深圳16岁少年卖烤鸡日入过万",
       "onboard_time": 1765894163,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228658,
+      "num": 262749,
+      "word": "女教师新婚当天坠亡引发三个反思",
+      "onboard_time": 1765976449,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1051,14 +1091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201797,
-      "num": 201797,
-      "word": "骄阳似我OST阵容官宣",
-      "onboard_time": 1765976902,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200167,
       "num": 172016,
       "word": "Angelababy真的好美",
@@ -1131,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192502,
+      "num": 192502,
+      "word": "黄轩你怎么了",
+      "onboard_time": 1765977576,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191659,
       "num": 225930,
       "word": "大爷用502胶水给违停车贴警示语",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1765960162,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190451,
+      "num": 190451,
+      "word": "山姆车厘子30天狂降100元",
+      "onboard_time": 1765975282,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190292,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1765948642,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 184053,
-      "num": 184053,
-      "word": "山姆车厘子30天狂降100元",
-      "onboard_time": 1765975282,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184032,
@@ -1347,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159024,
+      "num": 159024,
+      "word": "长生",
+      "onboard_time": 1765977576,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158770,
       "num": 158770,
       "word": "鞠婧祎等7名成员总选票额过亿",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1765940902,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155461,
+      "num": 155461,
+      "word": "哑舍特别鸣谢檀健次",
+      "onboard_time": 1765977381,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 154411,
@@ -1435,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150491,
-      "num": 150491,
-      "word": "女子借款13万滚到近1300万",
-      "onboard_time": 1765976722,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150250,
       "num": 163258,
       "word": "孩子跋涉一天一夜来打球感动姚明",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1765954101,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148847,
+      "num": 148847,
+      "word": "老舅",
+      "onboard_time": 1765978463,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148428,
@@ -1755,6 +1811,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 123739,
+      "num": 123739,
+      "word": "家长因送孩子晚被班主任批评",
+      "onboard_time": 1765977743,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123606,
       "num": 146845,
       "word": "央视起底走私孕妇血样黑产链",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1765967842,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123285,
+      "num": 123285,
+      "word": "刘奕君私下摸了王劲松胸肌",
+      "onboard_time": 1765978342,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 123262,
@@ -1923,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114060,
+      "num": 114060,
+      "word": "阿尔卡拉斯费雷罗结束合作",
+      "onboard_time": 1765978463,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114047,
       "num": 196359,
       "word": "小猫吃饭差点溺亡",
@@ -2049,6 +2129,22 @@
       "onboard_time": 1765960162,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107913,
+      "num": 107913,
+      "word": "逐步增加开放性试题比重",
+      "onboard_time": 1765978642,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 107078,
+      "num": 107078,
+      "word": "王曼昱与好友合照好可爱",
+      "onboard_time": 1765977623,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106949,
@@ -2507,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77028,
-      "num": 262749,
-      "word": "女教师新婚当天坠亡引发三个反思",
-      "onboard_time": 1765976449,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76976,
       "num": 146513,
       "word": "尹正秀妻子晒蜜月照",
@@ -2707,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61188,
-      "num": 150782,
-      "word": "法国第一夫人道歉",
-      "onboard_time": 1765976962,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60716,
       "num": 146415,
       "word": "身体有炎症时要少吃的4种食物",
@@ -2875,6 +2955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49147,
+      "num": 123992,
+      "word": "1000元办婚礼的夫妻回应争议",
+      "onboard_time": 1765978221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47455,
       "num": 111420,
       "word": "他们的九年也是九年啊",
@@ -2921,6 +3009,14 @@
       "onboard_time": 1765886120,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43088,
+      "num": 541374,
+      "word": "2025大国重器震撼人心",
+      "onboard_time": 1765977021,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42620,
@@ -3051,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34270,
+      "num": 355452,
+      "word": "冬天里的大美中国",
+      "onboard_time": 1765977108,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33909,
       "num": 64553,
       "word": "江苏卫视跨年首波阵容摊牌了",
@@ -3120,6 +3224,14 @@
       "word": "新生儿剖腹产后死亡家属发声",
       "onboard_time": 1765960581,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29859,
+      "num": 224052,
+      "word": "好友称30岁健美运动员生前感染流感",
+      "onboard_time": 1765977743,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3379,14 +3491,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 11812,
-      "num": 376673,
-      "word": "2025大国重器震撼人心",
-      "onboard_time": 1765977021,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11236,
       "num": 190464,
       "word": "国宝画重点",
@@ -3425,14 +3529,6 @@
       "onboard_time": 1765971442,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 6334,
-      "num": 309299,
-      "word": "冬天里的大美中国",
-      "onboard_time": 1765977108,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4437,
