@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765976393485,
+  "endTime": 1765977226513,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 684279,
-      "num": 263541,
+      "num": 278763,
       "word": "车厘子你爱吃吗 超市有卖的",
       "onboard_time": 1765958601,
       "rank": 11,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568577,
+      "num": 363540,
+      "word": "男子中1750万彩票朋友跟买中35万",
+      "onboard_time": 1765974622,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564550,
       "num": 249739,
       "word": "崔丽丽被评定为工伤十级伤残",
@@ -345,6 +353,14 @@
       "onboard_time": 1765929260,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501376,
+      "num": 311935,
+      "word": "双轨尺度",
+      "onboard_time": 1765972581,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 500467,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451917,
-      "num": 311935,
-      "word": "双轨尺度",
-      "onboard_time": 1765972581,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 429596,
       "num": 250291,
       "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 423772,
-      "num": 320057,
+      "num": 325449,
       "word": "朝朝暮暮嘴对嘴吃草莓",
       "onboard_time": 1765970660,
       "rank": 28,
@@ -547,19 +555,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392501,
+      "num": 392501,
+      "word": "福建舰 台湾海峡",
+      "onboard_time": 1765970481,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 389072,
       "num": 389072,
       "word": "警惕1644史观带乱了节奏",
       "onboard_time": 1765942101,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381163,
-      "num": 307452,
-      "word": "男子中1750万彩票朋友跟买中35万",
-      "onboard_time": 1765974622,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -571,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368871,
+      "num": 368871,
+      "word": "电影孤注一掷",
+      "onboard_time": 1765976002,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359143,
       "num": 275467,
       "word": "精神病男子射杀邻居改判死刑",
       "onboard_time": 1765947622,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350291,
-      "num": 350291,
-      "word": "福建舰 台湾海峡",
-      "onboard_time": 1765970481,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 349888,
@@ -619,7 +627,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 338466,
+      "raw_hot": 341472,
       "num": 306512,
       "word": "丝芭律师年份写错了",
       "onboard_time": 1765971322,
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301227,
+      "num": 301227,
+      "word": "唐诡奇谭一集好短",
+      "onboard_time": 1765975402,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293431,
       "num": 225615,
       "word": "内娱第一位230斤的爱豆出现了",
@@ -747,8 +763,8 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 284566,
-      "num": 284566,
+      "raw_hot": 289719,
+      "num": 289719,
       "word": "没人告诉我鲁豫线下长这样",
       "onboard_time": 1765970241,
       "rank": 37,
@@ -761,6 +777,14 @@
       "onboard_time": 1765963762,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284236,
+      "num": 237176,
+      "word": "家里不穿的毛衣不要扔了",
+      "onboard_time": 1765975101,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 280980,
@@ -817,14 +841,6 @@
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 260067,
-      "num": 164805,
-      "word": "家里不穿的毛衣不要扔了",
-      "onboard_time": 1765975101,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 256850,
@@ -907,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223136,
+      "num": 185382,
+      "word": "李在明动作失误被夫人肘击",
+      "onboard_time": 1765975823,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222169,
       "num": 195307,
       "word": "鹿晗亚巡纪念册预售",
@@ -931,20 +955,20 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 219617,
+      "num": 235620,
+      "word": "双轨",
+      "onboard_time": 1765906218,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217760,
       "num": 380158,
       "word": "小米天才少女罗福莉首次登场",
       "onboard_time": 1765941742,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 214993,
-      "num": 214993,
-      "word": "唐诡奇谭一集好短",
-      "onboard_time": 1765975402,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 212655,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1765941203,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201797,
+      "num": 201797,
+      "word": "骄阳似我OST阵容官宣",
+      "onboard_time": 1765976902,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200167,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 190292,
-      "num": 163318,
+      "num": 179308,
       "word": "迪丽热巴19岁时就在爱你老己了",
       "onboard_time": 1765975221,
       "rank": 29,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1765948642,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184053,
+      "num": 184053,
+      "word": "山姆车厘子30天狂降100元",
+      "onboard_time": 1765975282,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184032,
@@ -1227,20 +1267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173884,
+      "num": 173884,
+      "word": "肖战电影射雕英雄传侠之大者",
+      "onboard_time": 1765976542,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173558,
       "num": 146734,
       "word": "当学生面摔死小猫宿管已被辞退",
       "onboard_time": 1765897945,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173279,
-      "num": 235620,
-      "word": "双轨",
-      "onboard_time": 1765906218,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 172836,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1765946422,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162745,
-      "num": 162745,
-      "word": "电影孤注一掷",
-      "onboard_time": 1765976002,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 162440,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1765936641,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150491,
+      "num": 150491,
+      "word": "女子借款13万滚到近1300万",
+      "onboard_time": 1765976722,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150250,
@@ -1563,20 +1603,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135169,
-      "num": 163812,
-      "word": "山姆车厘子30天狂降100元",
-      "onboard_time": 1765975282,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134850,
       "num": 134850,
       "word": "万宁致歉",
       "onboard_time": 1765939401,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133708,
+      "num": 133708,
+      "word": "美殡仪馆误将逝者脑组织当衣物交还",
+      "onboard_time": 1765972341,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133340,
@@ -1651,12 +1691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127134,
-      "num": 127134,
-      "word": "李在明动作失误被夫人肘击",
-      "onboard_time": 1765975823,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 128056,
+      "num": 185887,
+      "word": "剑来群像六卷四十六个角色",
+      "onboard_time": 1765976782,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 126784,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1765967842,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116672,
+      "num": 167775,
+      "word": "遭性侵女高管称很难一个人出门",
+      "onboard_time": 1765972821,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115283,
@@ -2075,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103529,
-      "num": 167775,
-      "word": "遭性侵女高管称很难一个人出门",
-      "onboard_time": 1765972821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101788,
       "num": 167607,
       "word": "手机壳界爱马仕涨价",
@@ -2171,14 +2211,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 98168,
-      "num": 98168,
-      "word": "美殡仪馆误将逝者脑组织当衣物交还",
-      "onboard_time": 1765972341,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 97652,
       "num": 97652,
       "word": "黄山一工人翻护栏有偿为游客捡手机",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1765972702,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94642,
+      "num": 121542,
+      "word": "SpaceX要求员工进入IPO前静默期",
+      "onboard_time": 1765975641,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 93383,
@@ -2267,12 +2307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90999,
-      "num": 90999,
-      "word": "SpaceX要求员工进入IPO前静默期",
-      "onboard_time": 1765975641,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 91041,
+      "num": 164939,
+      "word": "毒死11只猫狗男子拒民事赔偿",
+      "onboard_time": 1765974922,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90887,
@@ -2467,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77028,
+      "num": 262749,
+      "word": "女教师新婚当天坠亡引发三个反思",
+      "onboard_time": 1765976449,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76976,
       "num": 146513,
       "word": "尹正秀妻子晒蜜月照",
@@ -2547,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67914,
+      "num": 150750,
+      "word": "艺考男生称自己至少被15次擦妆",
+      "onboard_time": 1765976302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67907,
       "num": 213130,
       "word": "魏建军向用户为新平台征名",
@@ -2603,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65450,
-      "num": 164939,
-      "word": "毒死11只猫狗男子拒民事赔偿",
-      "onboard_time": 1765974922,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65218,
       "num": 146473,
       "word": "九尾直播",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1765945222,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61188,
+      "num": 150782,
+      "word": "法国第一夫人道歉",
+      "onboard_time": 1765976962,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60716,
@@ -2803,6 +2859,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50919,
+      "num": 129421,
+      "word": "举报逆行反被交警怼我管不了那么多",
+      "onboard_time": 1765975702,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49727,
+      "num": 152403,
+      "word": "海南封关会咋样",
+      "onboard_time": 1765976449,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47455,
       "num": 111420,
       "word": "他们的九年也是九年啊",
@@ -2849,14 +2921,6 @@
       "onboard_time": 1765886120,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 43893,
-      "num": 129131,
-      "word": "艺考男生称自己至少被15次擦妆",
-      "onboard_time": 1765976302,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42620,
@@ -3019,14 +3083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31165,
-      "num": 129421,
-      "word": "举报逆行反被交警怼我管不了那么多",
-      "onboard_time": 1765975702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31135,
       "num": 151854,
       "word": "王一博素颜出镜杂志封面拍摄",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1765953921,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27911,
+      "num": 259895,
+      "word": "我国发现新矿物金秀矿",
+      "onboard_time": 1765976722,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27169,
@@ -3251,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14790,
+      "num": 123598,
+      "word": "回顾2025赛场拼搏瞬间",
+      "onboard_time": 1765976449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14533,
       "num": 27306,
       "word": "虞书欣被油吓退在双轨callback了",
@@ -3265,6 +3337,14 @@
       "onboard_time": 1765913715,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13369,
+      "num": 275638,
+      "word": "山东舰完成2025最后一次海训",
+      "onboard_time": 1765976782,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13143,
@@ -3297,6 +3377,14 @@
       "onboard_time": 1765946422,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 11812,
+      "num": 376673,
+      "word": "2025大国重器震撼人心",
+      "onboard_time": 1765977021,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11236,
@@ -3337,6 +3425,14 @@
       "onboard_time": 1765971442,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6334,
+      "num": 309299,
+      "word": "冬天里的大美中国",
+      "onboard_time": 1765977108,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4437,
