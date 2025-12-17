@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766004420178,
+  "endTime": 1766006967079,
   "band_list": [
     {
       "raw_hot": 1632817,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24790,
+      "num": 24790,
+      "word": "流水线公主",
+      "onboard_time": 1766001734,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24674,
       "num": 70730,
       "word": "芬兰总理谴责多人涉嫌歧视中国人",
@@ -523,7 +531,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14194,
+      "raw_hot": 14427,
       "num": 25722,
       "word": "法国第一夫人道歉",
       "onboard_time": 1765976962,
@@ -531,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13457,
-      "num": 13661,
-      "word": "流水线公主",
-      "onboard_time": 1766001734,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 13694,
+      "num": 14331,
+      "word": "郭敬明又在线了",
+      "onboard_time": 1766001675,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 13044,
@@ -547,12 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12316,
-      "num": 13659,
-      "word": "郭敬明又在线了",
-      "onboard_time": 1766001675,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 11420,
+      "num": 14316,
+      "word": "月鳞绮纪",
+      "onboard_time": 1765962982,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 7585,
+      "num": 31790,
+      "word": "我国发现新矿物金秀矿",
+      "onboard_time": 1765976722,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
