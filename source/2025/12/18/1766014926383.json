@@ -1,0 +1,410 @@
+{
+  "runTime": 1766014926383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456443,
+        "num": 920964,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228396,
+        "num": 228396,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35794,
+        "num": 208578,
+        "word": "我国发现新矿物金秀矿",
+        "onboard_time": 1765976722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363237,
+        "num": 201538,
+        "word": "芬兰总理正式道歉",
+        "onboard_time": 1766013677,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190114,
+        "num": 190114,
+        "word": "外交部回应泰国缴获中国制造装备",
+        "onboard_time": 1765988899,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168829,
+        "num": 168829,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167191,
+        "num": 167191,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160802,
+        "num": 160802,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120177,
+        "num": 120177,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106020,
+        "num": 106020,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743111,
+        "num": 105211,
+        "word": "张韶涵前造型师回应裁员裁到大动脉",
+        "onboard_time": 1766013438,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287764,
+        "num": 104672,
+        "word": "再坚持一下 2262年有两个春节",
+        "onboard_time": 1766011276,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276256,
+        "num": 103819,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208608,
+        "num": 102757,
+        "word": "27岁女子没来过例假一查竟是男儿芯",
+        "onboard_time": 1765985721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142146,
+        "num": 102036,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120210,
+        "num": 100736,
+        "word": "陈妍希说最难的时候被女性救赎了",
+        "onboard_time": 1765986321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100214,
+        "num": 100214,
+        "word": "警务人员开警车接送孩子被停职",
+        "onboard_time": 1765982062,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100138,
+        "num": 100138,
+        "word": "卷到清北毕业后却给二本毕业生打工",
+        "onboard_time": 1766014339,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95874,
+        "num": 95874,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93014,
+        "num": 93014,
+        "word": "鞠婧祎 王一栩",
+        "onboard_time": 1765980624,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271426,
+        "num": 92839,
+        "word": "我不喝可乐",
+        "onboard_time": 1765986623,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188294,
+        "num": 92745,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92505,
+        "num": 92505,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92464,
+        "num": 92464,
+        "word": "2026考研",
+        "onboard_time": 1766014639,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90987,
+        "num": 90987,
+        "word": "国家医保局发文回应生娃不花钱",
+        "onboard_time": 1765982782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86214,
+        "num": 86214,
+        "word": "丝芭让女艺人陪酒若属实可能被拘留",
+        "onboard_time": 1765991178,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75701,
+        "num": 75701,
+        "word": "家庭作业A4纸化",
+        "onboard_time": 1766012837,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73671,
+        "num": 73671,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73521,
+        "num": 73521,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70524,
+        "num": 70524,
+        "word": "香港打击街头卖淫",
+        "onboard_time": 1765985063,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70085,
+        "num": 70085,
+        "word": "嫌犯把孕妇血绑身上走私",
+        "onboard_time": 1765980144,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68196,
+        "num": 68196,
+        "word": "彩票店老板回应男子花3元中1750万",
+        "onboard_time": 1766014399,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65249,
+        "num": 65249,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65093,
+        "num": 65093,
+        "word": "遭性侵女高管称每周要做心理治疗",
+        "onboard_time": 1766013557,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63315,
+        "num": 63315,
+        "word": "Jasper和吴尊一家滑雪",
+        "onboard_time": 1765988001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54888,
+        "num": 54888,
+        "word": "人大书记严选羽绒服已全部售罄",
+        "onboard_time": 1766013919,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53741,
+        "num": 53741,
+        "word": "ThaiSweet樱花舞MV",
+        "onboard_time": 1765983322,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53436,
+        "num": 53436,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50055,
+        "num": 50055,
+        "word": "一天 小郑嘻嘻",
+        "onboard_time": 1765984583,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50011,
+        "num": 50011,
+        "word": "泰军炮击柬埔寨境内赌场电诈基地",
+        "onboard_time": 1765991596,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49675,
+        "num": 49675,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48558,
+        "num": 48558,
+        "word": "只要不高兴马上就掉脸",
+        "onboard_time": 1766014819,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 46984,
+        "num": 46984,
+        "word": "孤注一掷未曝光片场照",
+        "onboard_time": 1765986800,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45920,
+        "num": 45920,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45165,
+        "num": 45165,
+        "word": "网红教授张河清悼念室友文字看哭全网",
+        "onboard_time": 1766014819,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44908,
+        "num": 44908,
+        "word": "泰柬冲突",
+        "onboard_time": 1766014758,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43920,
+        "num": 44908,
+        "word": "警方通报27岁男子机场打人",
+        "onboard_time": 1765984941,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42328,
+        "num": 44902,
+        "word": "新郎回应用1000元举办极简婚礼",
+        "onboard_time": 1765983685,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22637,
+        "num": 44901,
+        "word": "亚运冠军王莉再发声",
+        "onboard_time": 1765983983,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22534,
+        "num": 44897,
+        "word": "这才是发箍的正确戴法",
+        "onboard_time": 1765998615,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
