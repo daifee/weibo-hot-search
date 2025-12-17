@@ -1,0 +1,410 @@
+{
+  "runTime": 1766014104184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 412241,
+        "num": 809864,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212632,
+        "num": 212632,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30038,
+        "num": 189247,
+        "word": "我国发现新矿物金秀矿",
+        "onboard_time": 1765976722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253105,
+        "num": 182663,
+        "word": "芬兰总理正式道歉",
+        "onboard_time": 1766013677,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172284,
+        "num": 172284,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159508,
+        "num": 159508,
+        "word": "外交部回应泰国缴获中国制造装备",
+        "onboard_time": 1765988899,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132198,
+        "num": 132198,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129558,
+        "num": 129558,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122511,
+        "num": 122511,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121363,
+        "num": 121363,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458307,
+        "num": 121352,
+        "word": "张韶涵前造型师回应裁员裁到大动脉",
+        "onboard_time": 1766013438,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202792,
+        "num": 121290,
+        "word": "27岁女子没来过例假一查竟是男儿芯",
+        "onboard_time": 1765985721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160042,
+        "num": 121269,
+        "word": "再坚持一下 2262年有两个春节",
+        "onboard_time": 1766011276,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130349,
+        "num": 121230,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121198,
+        "num": 121198,
+        "word": "陈妍希说最难的时候被女性救赎了",
+        "onboard_time": 1765986321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109671,
+        "num": 109671,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103605,
+        "num": 103605,
+        "word": "袁咏仪不爱买包张智霖也害怕",
+        "onboard_time": 1765987222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88809,
+        "num": 88809,
+        "word": "鞠婧祎 王一栩",
+        "onboard_time": 1765980624,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85677,
+        "num": 85677,
+        "word": "警务人员开警车接送孩子被停职",
+        "onboard_time": 1765982062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82535,
+        "num": 82535,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299503,
+        "num": 82275,
+        "word": "我不喝可乐",
+        "onboard_time": 1765986623,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164369,
+        "num": 82020,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84053,
+        "num": 81888,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80909,
+        "num": 80909,
+        "word": "丝芭让女艺人陪酒若属实可能被拘留",
+        "onboard_time": 1765991178,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80194,
+        "num": 80194,
+        "word": "国家医保局发文回应生娃不花钱",
+        "onboard_time": 1765982782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74360,
+        "num": 74360,
+        "word": "嫌犯把孕妇血绑身上走私",
+        "onboard_time": 1765980144,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71320,
+        "num": 71320,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66157,
+        "num": 66157,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65311,
+        "num": 65311,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63432,
+        "num": 63432,
+        "word": "香港打击街头卖淫",
+        "onboard_time": 1765985063,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62176,
+        "num": 62176,
+        "word": "Jasper和吴尊一家滑雪",
+        "onboard_time": 1765988001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61783,
+        "num": 61783,
+        "word": "家庭作业A4纸化",
+        "onboard_time": 1766012837,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56154,
+        "num": 56154,
+        "word": "网传欧美小孩在日本地铁踩踏座椅",
+        "onboard_time": 1765986921,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49053,
+        "num": 49053,
+        "word": "遭性侵女高管称每周要做心理治疗",
+        "onboard_time": 1766013557,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48907,
+        "num": 48907,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47563,
+        "num": 47563,
+        "word": "泰军炮击柬埔寨境内赌场电诈基地",
+        "onboard_time": 1765991596,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44480,
+        "num": 44480,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44116,
+        "num": 44116,
+        "word": "ThaiSweet樱花舞MV",
+        "onboard_time": 1765983322,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43846,
+        "num": 43846,
+        "word": "警方通报27岁男子机场打人",
+        "onboard_time": 1765984941,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42968,
+        "num": 42968,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42832,
+        "num": 42832,
+        "word": "孤注一掷未曝光片场照",
+        "onboard_time": 1765986800,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40004,
+        "num": 42832,
+        "word": "老外一个人站在机场三个小时",
+        "onboard_time": 1765998194,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 37480,
+        "num": 42825,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36274,
+        "num": 42820,
+        "word": "一天 小郑嘻嘻",
+        "onboard_time": 1765984583,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36117,
+        "num": 42815,
+        "word": "肖战练台词练到忘记说的是方言",
+        "onboard_time": 1766007854,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35175,
+        "num": 42807,
+        "word": "人大书记严选羽绒服已全部售罄",
+        "onboard_time": 1766013919,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34644,
+        "num": 42805,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34282,
+        "num": 42799,
+        "word": "刘宇宁最想上热搜是刘宇宁好听",
+        "onboard_time": 1766010135,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23522,
+        "num": 42792,
+        "word": "亚运冠军王莉再发声",
+        "onboard_time": 1765983983,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19777,
+        "num": 42785,
+        "word": "CBA",
+        "onboard_time": 1765978821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

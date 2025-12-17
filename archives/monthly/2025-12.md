@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 06:45:44
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 07:28:24
 </p>
 </blockquote>
 <p>
@@ -5313,6 +5313,12 @@ S妈回应和具俊晔到小S家跨年（热度：458799）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%89%8D%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E8%A3%81%E5%91%98%E8%A3%81%E5%88%B0%E5%A4%A7%E5%8A%A8%E8%84%89%23" target="weibo">
+张韶涵前造型师回应裁员裁到大动脉（热度：458307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E9%E6%AF%9411%E9%BB%84%E9%95%87%E5%BB%B7%E6%9D%9C%E5%87%AF%E7%90%B9%23" target="weibo">
 王楚钦孙颖莎9比11黄镇廷杜凯琹（热度：458255）
 </a>
@@ -6005,12 +6011,6 @@ A股（热度：425740）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vsA%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 王楚钦vsA勒布伦（热度：424013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%94%80%E5%94%AE%E7%9B%B4%E8%A8%80%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B035%E4%B8%87%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%23" target="weibo">
-销售直言不建议买35万玛莎拉蒂（热度：423874）
 </a>
 </li>
 
