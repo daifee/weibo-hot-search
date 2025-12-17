@@ -1,0 +1,410 @@
+{
+  "runTime": 1765999616497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115956,
+        "num": 115956,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78791,
+        "num": 78791,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14379,
+        "num": 62074,
+        "word": "海南封关会咋样",
+        "onboard_time": 1765976449,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48906,
+        "num": 48906,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43784,
+        "num": 43784,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55049,
+        "num": 42444,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36481,
+        "num": 36481,
+        "word": "孤注一掷未曝光片场照",
+        "onboard_time": 1765986800,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34155,
+        "num": 34155,
+        "word": "南京博物院回应仇英名作现身拍卖市场",
+        "onboard_time": 1765981821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33639,
+        "num": 33639,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26211,
+        "num": 33582,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38439,
+        "num": 31433,
+        "word": "丝芭让女艺人陪酒若属实可能被拘留",
+        "onboard_time": 1765991178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37131,
+        "num": 29837,
+        "word": "袁咏仪不爱买包张智霖也害怕",
+        "onboard_time": 1765987222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34719,
+        "num": 28783,
+        "word": "鞠婧祎 王一栩",
+        "onboard_time": 1765980624,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33688,
+        "num": 27378,
+        "word": "27岁女子没来过例假一查竟是男儿芯",
+        "onboard_time": 1765985721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "泰军炮击柬埔寨境内赌场电诈基地",
+        "onboard_time": 1765991596,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24344,
+        "num": 26131,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26071,
+        "num": 26071,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25948,
+        "num": 25948,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24149,
+        "num": 25943,
+        "word": "外交部回应泰国缴获中国制造装备",
+        "onboard_time": 1765988899,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22495,
+        "num": 25936,
+        "word": "老外一个人站在机场三个小时",
+        "onboard_time": 1765998194,
+        "rank": 19,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 190041,
+        "num": 25928,
+        "word": "我不喝可乐",
+        "onboard_time": 1765986623,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53838,
+        "num": 25922,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30892,
+        "num": 25917,
+        "word": "一天 小郑嘻嘻",
+        "onboard_time": 1765984583,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24234,
+        "num": 25904,
+        "word": "ThaiSweet樱花舞MV",
+        "onboard_time": 1765983322,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20768,
+        "num": 25903,
+        "word": "香港打击街头卖淫",
+        "onboard_time": 1765985063,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18200,
+        "num": 25889,
+        "word": "国家医保局发文回应生娃不花钱",
+        "onboard_time": 1765982782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20761,
+        "num": 25889,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20704,
+        "num": 25879,
+        "word": "阿凡达",
+        "onboard_time": 1765995915,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20394,
+        "num": 25871,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19738,
+        "num": 25866,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22717,
+        "num": 25860,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18655,
+        "num": 25850,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18187,
+        "num": 25843,
+        "word": "嫌犯把孕妇血绑身上走私",
+        "onboard_time": 1765980144,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18108,
+        "num": 25837,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17373,
+        "num": 25825,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16810,
+        "num": 25816,
+        "word": "Jasper和吴尊一家滑雪",
+        "onboard_time": 1765988001,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16158,
+        "num": 25810,
+        "word": "网传欧美小孩在日本地铁踩踏座椅",
+        "onboard_time": 1765986921,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15752,
+        "num": 25808,
+        "word": "警方通报27岁男子机场打人",
+        "onboard_time": 1765984941,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15342,
+        "num": 25794,
+        "word": "警务人员开警车接送孩子被停职",
+        "onboard_time": 1765982062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14867,
+        "num": 25792,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14527,
+        "num": 25783,
+        "word": "新郎回应用1000元举办极简婚礼",
+        "onboard_time": 1765983685,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14485,
+        "num": 25776,
+        "word": "万青",
+        "onboard_time": 1765986501,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14467,
+        "num": 25764,
+        "word": "双轨尺度",
+        "onboard_time": 1765972581,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13747,
+        "num": 25762,
+        "word": "这才是发箍的正确戴法",
+        "onboard_time": 1765998615,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13722,
+        "num": 25749,
+        "word": "不被看见的勇气",
+        "onboard_time": 1765990997,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13651,
+        "num": 25742,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13649,
+        "num": 25741,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13372,
+        "num": 25733,
+        "word": "白鹿修图师",
+        "onboard_time": 1765972461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13318,
+        "num": 25722,
+        "word": "法国第一夫人道歉",
+        "onboard_time": 1765976962,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12819,
+        "num": 25720,
+        "word": "CBA",
+        "onboard_time": 1765978821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
