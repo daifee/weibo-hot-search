@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766003633433,
+  "endTime": 1766004420178,
   "band_list": [
     {
       "raw_hot": 1632817,
@@ -531,7 +531,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12581,
+      "raw_hot": 13457,
       "num": 13661,
       "word": "流水线公主",
       "onboard_time": 1766001734,
@@ -539,7 +539,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12175,
+      "raw_hot": 13044,
+      "num": 13044,
+      "word": "成毅微博直播",
+      "onboard_time": 1766004375,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12316,
       "num": 13659,
       "word": "郭敬明又在线了",
       "onboard_time": 1766001675,
