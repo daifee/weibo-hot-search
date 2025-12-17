@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765985586010,
+  "endTime": 1765986487671,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291588,
+      "num": 213995,
+      "word": "坠楼女教师有已婚哥哥和未婚弟弟",
+      "onboard_time": 1765981163,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291345,
       "num": 209446,
       "word": "Angelababy妆",
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271058,
+      "num": 271058,
+      "word": "国家医保局发文回应生娃不花钱",
+      "onboard_time": 1765982782,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
@@ -929,14 +945,6 @@
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 260344,
-      "num": 213995,
-      "word": "坠楼女教师有已婚哥哥和未婚弟弟",
-      "onboard_time": 1765981163,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256850,
@@ -1691,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145478,
+      "num": 155776,
+      "word": "警方通报27岁男子机场打人",
+      "onboard_time": 1765984941,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 145441,
       "num": 145441,
       "word": "京辽大战判罚",
@@ -2379,11 +2395,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102801,
-      "num": 219598,
-      "word": "国家医保局发文回应生娃不花钱",
-      "onboard_time": 1765982782,
-      "rank": 48,
+      "raw_hot": 102414,
+      "num": 135156,
+      "word": "女孩穿光腿神器进了急诊",
+      "onboard_time": 1765986021,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2409,6 +2425,14 @@
       "onboard_time": 1765937961,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100606,
+      "num": 100606,
+      "word": "27岁女子没来过例假一查竟是男儿芯",
+      "onboard_time": 1765985721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100357,
@@ -2499,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97099,
+      "num": 133172,
+      "word": "春节请5休15",
+      "onboard_time": 1765983743,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95692,
       "num": 157418,
       "word": "小狗以为鬼压床了",
@@ -2547,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93335,
+      "num": 122041,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93002,
       "num": 102699,
       "word": "日本民众不舍大熊猫掩面哭泣",
@@ -2569,14 +2609,6 @@
       "onboard_time": 1765895247,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92720,
-      "num": 133172,
-      "word": "春节请5休15",
-      "onboard_time": 1765983743,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92377,
@@ -2891,12 +2923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73755,
-      "num": 122041,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 73890,
+      "num": 122038,
+      "word": "ThaiSweet樱花舞MV",
+      "onboard_time": 1765983322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 73539,
@@ -2907,12 +2939,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 73041,
-      "num": 122038,
-      "word": "ThaiSweet樱花舞MV",
-      "onboard_time": 1765983322,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 72908,
+      "num": 72908,
+      "word": "陈妍希说最难的时候被女性救赎了",
+      "onboard_time": 1765986321,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 72665,
@@ -2993,14 +3025,6 @@
       "onboard_time": 1765982062,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66912,
-      "num": 155776,
-      "word": "警方通报27岁男子机场打人",
-      "onboard_time": 1765984941,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66797,
@@ -3571,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26889,
+      "num": 122104,
+      "word": "安装吸烟变透明玻璃商场涉嫌侵权",
+      "onboard_time": 1765985122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26669,
       "num": 255923,
       "word": "千问上线国内首个AI小剧场玩法",
@@ -3585,6 +3617,14 @@
       "onboard_time": 1765963521,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25396,
+      "num": 275638,
+      "word": "山东舰完成2025最后一次海训",
+      "onboard_time": 1765976782,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25310,
@@ -3635,14 +3675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23674,
-      "num": 275638,
-      "word": "山东舰完成2025最后一次海训",
-      "onboard_time": 1765976782,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23183,
       "num": 138934,
       "word": "保罗与快船分手内幕曝光",
@@ -3657,14 +3689,6 @@
       "onboard_time": 1765907115,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22702,
-      "num": 122104,
-      "word": "安装吸烟变透明玻璃商场涉嫌侵权",
-      "onboard_time": 1765985122,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22648,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765985586010,
+  "endTime": 1765986487671,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -12459,6 +12459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291588,
+      "num": 213995,
+      "word": "坠楼女教师有已婚哥哥和未婚弟弟",
+      "onboard_time": 1765981163,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291345,
       "num": 209446,
       "word": "Angelababy妆",
@@ -13387,6 +13395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271058,
+      "num": 271058,
+      "word": "国家医保局发文回应生娃不花钱",
+      "onboard_time": 1765982782,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271043,
       "num": 211292,
       "word": "21岁和26岁差距真的很大",
@@ -13945,14 +13961,6 @@
       "onboard_time": 1765772783,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260344,
-      "num": 213995,
-      "word": "坠楼女教师有已婚哥哥和未婚弟弟",
-      "onboard_time": 1765981163,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260280,
@@ -27235,6 +27243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145478,
+      "num": 155776,
+      "word": "警方通报27岁男子机场打人",
+      "onboard_time": 1765984941,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 145441,
       "num": 145441,
       "word": "从过气主持人到互联网顶流只需一秒",
@@ -39851,14 +39867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102801,
-      "num": 219598,
-      "word": "国家医保局发文回应生娃不花钱",
-      "onboard_time": 1765982782,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102800,
       "num": 101146,
       "word": "光看迪丽热巴走路就知道是美女了",
@@ -40009,6 +40017,14 @@
       "onboard_time": 1765023742,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102414,
+      "num": 135156,
+      "word": "女孩穿光腿神器进了急诊",
+      "onboard_time": 1765986021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102385,
@@ -40633,6 +40649,14 @@
       "onboard_time": 1764592582,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100606,
+      "num": 100606,
+      "word": "27岁女子没来过例假一查竟是男儿芯",
+      "onboard_time": 1765985721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100605,
@@ -41801,6 +41825,14 @@
       "onboard_time": 1765556899,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97099,
+      "num": 133172,
+      "word": "春节请5休15",
+      "onboard_time": 1765983743,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97069,
@@ -43011,6 +43043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93335,
+      "num": 122041,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93266,
       "num": 93266,
       "word": "在公司吃饭瘦了20斤",
@@ -43185,14 +43225,6 @@
       "onboard_time": 1765889361,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92720,
-      "num": 133172,
-      "word": "春节请5休15",
-      "onboard_time": 1765983743,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92678,
@@ -47779,6 +47811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73890,
+      "num": 122038,
+      "word": "ThaiSweet樱花舞MV",
+      "onboard_time": 1765983322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73881,
       "num": 264724,
       "word": "问界56789产品矩阵将补齐",
@@ -47801,14 +47841,6 @@
       "onboard_time": 1764889217,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73755,
-      "num": 122041,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73654,
@@ -47891,14 +47923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73041,
-      "num": 122038,
-      "word": "ThaiSweet樱花舞MV",
-      "onboard_time": 1765983322,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73021,
       "num": 79963,
       "word": "生活中看到这种黄色小花立即上报",
@@ -47921,6 +47945,14 @@
       "onboard_time": 1765331780,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72908,
+      "num": 72908,
+      "word": "陈妍希说最难的时候被女性救赎了",
+      "onboard_time": 1765986321,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 72823,
@@ -48945,14 +48977,6 @@
       "onboard_time": 1765381281,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66912,
-      "num": 155776,
-      "word": "警方通报27岁男子机场打人",
-      "onboard_time": 1765984941,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66907,
@@ -56987,6 +57011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26889,
+      "num": 122104,
+      "word": "安装吸烟变透明玻璃商场涉嫌侵权",
+      "onboard_time": 1765985122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26885,
       "num": 36861,
       "word": "张杰佛山演唱会",
@@ -57377,6 +57409,14 @@
       "onboard_time": 1765725623,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25396,
+      "num": 275638,
+      "word": "山东舰完成2025最后一次海训",
+      "onboard_time": 1765976782,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25395,
@@ -57811,14 +57851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23674,
-      "num": 275638,
-      "word": "山东舰完成2025最后一次海训",
-      "onboard_time": 1765976782,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23632,
       "num": 341662,
       "word": "2025大家说宪法",
@@ -58017,14 +58049,6 @@
       "onboard_time": 1765095561,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22702,
-      "num": 122104,
-      "word": "安装吸烟变透明玻璃商场涉嫌侵权",
-      "onboard_time": 1765985122,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22692,
