@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765950443952,
+  "endTime": 1765953801914,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1026462,
+      "num": 1103622,
+      "word": "女教师新婚坠亡一楼业主要求赔偿",
+      "onboard_time": 1765946242,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 857047,
       "num": 532038,
       "word": "王一博 我在乎",
@@ -83,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 732992,
-      "num": 1103622,
-      "word": "女教师新婚坠亡一楼业主要求赔偿",
-      "onboard_time": 1765946242,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 750138,
+      "num": 364288,
+      "word": "李连杰 我女儿生下来就是享福的",
+      "onboard_time": 1765947863,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 708275,
@@ -107,12 +115,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 623830,
-      "num": 364288,
-      "word": "李连杰 我女儿生下来就是享福的",
-      "onboard_time": 1765947863,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 606496,
+      "num": 214114,
+      "word": "小郑嘻嘻再回应",
+      "onboard_time": 1765953201,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 587594,
+      "num": 1094015,
+      "word": "网红柴犬佩奇中毒死亡",
+      "onboard_time": 1765948043,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584774,
+      "num": 211949,
+      "word": "张激扬 小郑嘻嘻",
+      "onboard_time": 1765953260,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 577811,
@@ -123,11 +147,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554129,
+      "num": 264622,
+      "word": "王俊凯的真心",
+      "onboard_time": 1765950501,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528514,
       "num": 354116,
       "word": "李兰迪 6块9的水姐觉得有点不值",
       "onboard_time": 1765945281,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 525310,
+      "num": 260455,
+      "word": "汪苏泷方辟谣",
+      "onboard_time": 1765950261,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -139,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498461,
+      "num": 259420,
+      "word": "鞠婧祎前队友曾艳芬发声",
+      "onboard_time": 1765950380,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490137,
       "num": 248380,
       "word": "面试其实筛选掉了很多真正做事的人",
       "onboard_time": 1765930341,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 484752,
-      "num": 484752,
-      "word": "网红柴犬佩奇中毒死亡",
-      "onboard_time": 1765948043,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483665,
@@ -177,6 +217,14 @@
       "onboard_time": 1765945402,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453645,
+      "num": 211629,
+      "word": "鞠婧祎丝芭 硬刚",
+      "onboard_time": 1765953322,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 452236,
@@ -259,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359143,
+      "num": 275467,
+      "word": "精神病男子射杀邻居改判死刑",
+      "onboard_time": 1765947622,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "河南通报方城学校火灾事故调查结果",
@@ -307,12 +363,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 316444,
+      "num": 269732,
+      "word": "陈飞宇哥哥居然也在影视圈",
+      "onboard_time": 1765947863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313653,
       "num": 233423,
       "word": "张真源QQ爱手势舞",
       "onboard_time": 1765946362,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293431,
+      "num": 208052,
+      "word": "内娱第一位230斤的爱豆出现了",
+      "onboard_time": 1765950022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 291345,
@@ -347,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267183,
-      "num": 267183,
-      "word": "陈飞宇哥哥居然也在影视圈",
-      "onboard_time": 1765947863,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263466,
       "num": 263466,
       "word": "两次四六级等于一顿烤肉自助",
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 252970,
+      "num": 252970,
+      "word": "小英拿着所有东西从山里搬走了",
+      "onboard_time": 1765949361,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 250134,
@@ -427,8 +499,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 217789,
-      "num": 217789,
+      "raw_hot": 219875,
+      "num": 219875,
       "word": "脑瘫美妆博主被质疑装病",
       "onboard_time": 1765946542,
       "rank": 26,
@@ -475,6 +547,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 207908,
+      "num": 207908,
+      "word": "A股",
+      "onboard_time": 1765952842,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205149,
       "num": 196626,
       "word": "郭柯宇影后就是影后",
@@ -515,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200011,
-      "num": 173149,
-      "word": "内娱第一位230斤的爱豆出现了",
-      "onboard_time": 1765950022,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198515,
       "num": 198515,
       "word": "王橹杰花自会诉说心声",
@@ -537,14 +609,6 @@
       "onboard_time": 1765943540,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197421,
-      "num": 197421,
-      "word": "精神病男子射杀邻居改判死刑",
-      "onboard_time": 1765947622,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197164,
@@ -585,6 +649,14 @@
       "onboard_time": 1765941982,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190585,
+      "num": 280616,
+      "word": "唐诡奇谭",
+      "onboard_time": 1765952901,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 190059,
@@ -643,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176026,
+      "num": 171542,
+      "word": "湖南卫视跨年第一波阵容",
+      "onboard_time": 1765950560,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173558,
       "num": 146734,
       "word": "当学生面摔死小猫宿管已被辞退",
@@ -675,14 +755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167432,
-      "num": 167432,
-      "word": "小英拿着所有东西从山里搬走了",
-      "onboard_time": 1765949361,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 161864,
       "num": 146588,
       "word": "赵丽颖周翡",
@@ -699,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159271,
-      "num": 159271,
-      "word": "汪苏泷方辟谣",
-      "onboard_time": 1765950261,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158315,
       "num": 158315,
       "word": "肖战一直在等重庆话的剧本",
@@ -721,6 +785,22 @@
       "onboard_time": 1765940902,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154411,
+      "num": 154411,
+      "word": "手机最好玩的三小时",
+      "onboard_time": 1765948162,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152488,
+      "num": 152488,
+      "word": "马思纯家人朋友全都反对上花少",
+      "onboard_time": 1765950501,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 152346,
@@ -819,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142510,
+      "num": 142510,
+      "word": "可乐不让爸妈生二胎的原因",
+      "onboard_time": 1765952121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139500,
       "num": 139500,
       "word": "原来我早看过狙击蝴蝶电影版",
       "onboard_time": 1765947982,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139348,
-      "num": 139348,
-      "word": "手机最好玩的三小时",
-      "onboard_time": 1765948162,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 137769,
@@ -907,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128685,
+      "num": 128685,
+      "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+      "onboard_time": 1765950201,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128121,
       "num": 128121,
       "word": "杨瀚森又被下放至G联赛",
@@ -915,20 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125198,
-      "num": 125198,
-      "word": "鞠婧祎前队友曾艳芬发声",
-      "onboard_time": 1765950380,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125041,
-      "num": 125041,
-      "word": "叙前总统阿萨德一家在莫斯科近况曝光",
-      "onboard_time": 1765950201,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 126648,
+      "num": 273941,
+      "word": "NBA杯",
+      "onboard_time": 1765952721,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 124331,
@@ -1011,6 +1091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115283,
+      "num": 115283,
+      "word": "诚C化身王牌飞行员",
+      "onboard_time": 1765953382,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114011,
       "num": 114011,
       "word": "杨瀚森G联赛比赛直播",
@@ -1091,12 +1179,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105021,
+      "num": 105021,
+      "word": "曾艳芬称丝芭曾让成员陪酒",
+      "onboard_time": 1765951821,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104983,
+      "num": 104983,
+      "word": "唐诡奇谭开局血书求救",
+      "onboard_time": 1765950501,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104138,
+      "num": 104138,
+      "word": "女方回应被嫌麻辣烫吃太多退婚",
+      "onboard_time": 1765952060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101357,
       "num": 101357,
       "word": "阴阳师",
       "onboard_time": 1765937961,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101177,
+      "num": 101177,
+      "word": "杨瀚森14分6篮板",
+      "onboard_time": 1765953442,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100309,
@@ -1305,6 +1425,14 @@
       "onboard_time": 1765896387,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 72396,
+      "num": 125713,
+      "word": "男子因未婚妻吃太多退婚案法院判了",
+      "onboard_time": 1765952721,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68849,
@@ -1579,12 +1707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37833,
+      "num": 104281,
+      "word": "男子掐俩女实习生脖子遭开除还叫屈",
+      "onboard_time": 1765952181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37274,
       "num": 76931,
       "word": "年度体育榜样力量",
       "onboard_time": 1765904358,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36088,
+      "num": 219590,
+      "word": "长安二十四计有阿福守护",
+      "onboard_time": 1765951521,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 35532,
@@ -1635,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28728,
+      "num": 532329,
+      "word": "山东舰正式入列6周年",
+      "onboard_time": 1765929739,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27169,
       "num": 66320,
       "word": "孟子义尚公主白金大氅",
@@ -1643,20 +1795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26669,
+      "num": 255923,
+      "word": "千问上线国内首个AI小剧场玩法",
+      "onboard_time": 1765951282,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 25713,
+      "num": 216136,
+      "word": "南京博物院获赠名画现身拍卖市场",
+      "onboard_time": 1765953501,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24690,
       "num": 194186,
       "word": "日本防卫费近五年激增约60%",
       "onboard_time": 1765950022,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 532329,
-      "word": "山东舰正式入列6周年",
-      "onboard_time": 1765929739,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24345,
@@ -1699,6 +1859,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19727,
+      "num": 271852,
+      "word": "海南省GDP连跨2个千亿级台阶",
+      "onboard_time": 1765944563,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19632,
+      "num": 126087,
+      "word": "胡先煦年轻就要智界出发",
+      "onboard_time": 1765953680,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17441,
       "num": 172198,
       "word": "海南自贸港全岛封关后有啥变化",
@@ -1713,6 +1889,14 @@
       "onboard_time": 1765899982,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15542,
+      "num": 125729,
+      "word": "保罗与快船分手内幕曝光",
+      "onboard_time": 1765953382,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 15388,

@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765950443952,
+  "endTime": 1765953801914,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1026462,
+      "num": 1103622,
+      "word": "女教师新婚坠亡一楼业主要求赔偿",
+      "onboard_time": 1765946242,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1022685,
       "num": 201338,
       "word": "王俊凯全红婵不是很友好的互动吗",
@@ -507,20 +515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 750138,
+      "num": 364288,
+      "word": "李连杰 我女儿生下来就是享福的",
+      "onboard_time": 1765947863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737177,
       "num": 603511,
       "word": "第一眼以为Angelababy早期仿妆",
       "onboard_time": 1765891282,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 732992,
-      "num": 1103622,
-      "word": "女教师新婚坠亡一楼业主要求赔偿",
-      "onboard_time": 1765946242,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 725051,
@@ -827,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623830,
-      "num": 364288,
-      "word": "李连杰 我女儿生下来就是享福的",
-      "onboard_time": 1765947863,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 623314,
       "num": 301738,
       "word": "恋与深空",
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606496,
+      "num": 214114,
+      "word": "小郑嘻嘻再回应",
+      "onboard_time": 1765953201,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 602251,
       "num": 198917,
       "word": "小狗天塌了一晚上白干",
@@ -915,12 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587594,
+      "num": 1094015,
+      "word": "网红柴犬佩奇中毒死亡",
+      "onboard_time": 1765948043,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586320,
       "num": 586320,
       "word": "老舅",
       "onboard_time": 1765848201,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 584774,
+      "num": 211949,
+      "word": "张激扬 小郑嘻嘻",
+      "onboard_time": 1765953260,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 582717,
@@ -1067,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 554129,
+      "num": 264622,
+      "word": "王俊凯的真心",
+      "onboard_time": 1765950501,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545158,
       "num": 308439,
       "word": "狙击蝴蝶热度",
@@ -1131,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525310,
+      "num": 260455,
+      "word": "汪苏泷方辟谣",
+      "onboard_time": 1765950261,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521315,
       "num": 521315,
       "word": "王王队演唱会",
@@ -1184,6 +1224,14 @@
       "word": "迪丽热巴直播",
       "onboard_time": 1765800503,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 498461,
+      "num": 259420,
+      "word": "鞠婧祎前队友曾艳芬发声",
+      "onboard_time": 1765950380,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1257,14 +1305,6 @@
       "onboard_time": 1765696223,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 484752,
-      "num": 484752,
-      "word": "网红柴犬佩奇中毒死亡",
-      "onboard_time": 1765948043,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483665,
@@ -1411,6 +1451,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 453645,
+      "num": 211629,
+      "word": "鞠婧祎丝芭 硬刚",
+      "onboard_time": 1765953322,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452236,
       "num": 235176,
       "word": "丝芭说鞠婧祎经常报销和工作无关支出",
@@ -1532,7 +1580,7 @@
     },
     {
       "raw_hot": 425740,
-      "num": 185148,
+      "num": 207908,
       "word": "A股",
       "onboard_time": 1765780642,
       "rank": 32,
@@ -1891,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359143,
+      "num": 275467,
+      "word": "精神病男子射杀邻居改判死刑",
+      "onboard_time": 1765947622,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354808,
       "num": 158894,
       "word": "田曦薇跑步的神",
@@ -2147,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316444,
+      "num": 269732,
+      "word": "陈飞宇哥哥居然也在影视圈",
+      "onboard_time": 1765947863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315767,
       "num": 315767,
       "word": "考研味最重的一张照片",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1765894163,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293431,
+      "num": 208052,
+      "word": "内娱第一位230斤的爱豆出现了",
+      "onboard_time": 1765950022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 291345,
@@ -2659,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267183,
-      "num": 267183,
-      "word": "陈飞宇哥哥居然也在影视圈",
-      "onboard_time": 1765947863,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266795,
       "num": 266795,
       "word": "陈妍希周柯宇头顶吻",
@@ -2921,6 +2985,14 @@
       "onboard_time": 1765869624,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252970,
+      "num": 252970,
+      "word": "小英拿着所有东西从山里搬走了",
+      "onboard_time": 1765949361,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 251763,
@@ -3355,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219875,
+      "num": 219875,
+      "word": "脑瘫美妆博主被质疑装病",
+      "onboard_time": 1765946542,
+      "rank": 26,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 219830,
       "num": 219830,
       "word": "教师猥亵儿童妻子因社会压力提离婚",
@@ -3401,14 +3481,6 @@
       "onboard_time": 1765682062,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217789,
-      "num": 217789,
-      "word": "脑瘫美妆博主被质疑装病",
-      "onboard_time": 1765946542,
-      "rank": 26,
-      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 217760,
@@ -3875,14 +3947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200011,
-      "num": 173149,
-      "word": "内娱第一位230斤的爱豆出现了",
-      "onboard_time": 1765950022,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199366,
       "num": 199366,
       "word": "GEN首位中援Cryin",
@@ -3961,14 +4025,6 @@
       "onboard_time": 1765791922,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197421,
-      "num": 197421,
-      "word": "精神病男子射杀邻居改判死刑",
-      "onboard_time": 1765947622,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197164,
@@ -4177,6 +4233,14 @@
       "onboard_time": 1765709542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190585,
+      "num": 280616,
+      "word": "唐诡奇谭",
+      "onboard_time": 1765952901,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 190339,
@@ -4715,6 +4779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176026,
+      "num": 171542,
+      "word": "湖南卫视跨年第一波阵容",
+      "onboard_time": 1765950560,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175336,
       "num": 234104,
       "word": "日本太空航母野心曝光",
@@ -4945,14 +5017,6 @@
       "onboard_time": 1765788862,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167432,
-      "num": 167432,
-      "word": "小英拿着所有东西从山里搬走了",
-      "onboard_time": 1765949361,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 166645,
@@ -5211,14 +5275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159271,
-      "num": 159271,
-      "word": "汪苏泷方辟谣",
-      "onboard_time": 1765950261,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159206,
       "num": 159206,
       "word": "在线等曹骏舒畅的售后",
@@ -5443,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154411,
+      "num": 154411,
+      "word": "手机最好玩的三小时",
+      "onboard_time": 1765948162,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "汕头火灾独自逃生10岁女孩整日哭",
@@ -5481,6 +5545,14 @@
       "onboard_time": 1765758442,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152488,
+      "num": 152488,
+      "word": "马思纯家人朋友全都反对上花少",
+      "onboard_time": 1765950501,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 152461,
@@ -5891,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142510,
+      "num": 142510,
+      "word": "可乐不让爸妈生二胎的原因",
+      "onboard_time": 1765952121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142491,
       "num": 142491,
       "word": "没认出来是王珞丹",
@@ -6017,14 +6097,6 @@
       "onboard_time": 1765867222,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139348,
-      "num": 139348,
-      "word": "手机最好玩的三小时",
-      "onboard_time": 1765948162,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 139276,
@@ -6707,6 +6779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128685,
+      "num": 128685,
+      "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+      "onboard_time": 1765950201,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128595,
       "num": 124879,
       "word": "停产但非常怀念的零食",
@@ -6803,6 +6883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 126648,
+      "num": 273941,
+      "word": "NBA杯",
+      "onboard_time": 1765952721,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126462,
       "num": 126462,
       "word": "开家长会的也可以是老公",
@@ -6867,28 +6955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125198,
-      "num": 125198,
-      "word": "鞠婧祎前队友曾艳芬发声",
-      "onboard_time": 1765950380,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125157,
       "num": 125157,
       "word": "五花八们直播",
       "onboard_time": 1765716624,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125041,
-      "num": 125041,
-      "word": "叙前总统阿萨德一家在莫斯科近况曝光",
-      "onboard_time": 1765950201,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124998,
@@ -7505,6 +7577,14 @@
       "onboard_time": 1765725924,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115283,
+      "num": 115283,
+      "word": "诚C化身王牌飞行员",
+      "onboard_time": 1765953382,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 115254,
@@ -8155,6 +8235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105021,
+      "num": 105021,
+      "word": "曾艳芬称丝芭曾让成员陪酒",
+      "onboard_time": 1765951821,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104983,
+      "num": 104983,
+      "word": "唐诡奇谭开局血书求救",
+      "onboard_time": 1765950501,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104682,
       "num": 104682,
       "word": "没名分的醋吃起来最香",
@@ -8185,6 +8281,14 @@
       "onboard_time": 1765763601,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104138,
+      "num": 104138,
+      "word": "女方回应被嫌麻辣烫吃太多退婚",
+      "onboard_time": 1765952060,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103988,
@@ -8417,6 +8521,14 @@
       "onboard_time": 1765892303,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101177,
+      "num": 101177,
+      "word": "杨瀚森14分6篮板",
+      "onboard_time": 1765953442,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101170,
@@ -10155,6 +10267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72396,
+      "num": 125713,
+      "word": "男子因未婚妻吃太多退婚案法院判了",
+      "onboard_time": 1765952721,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72329,
       "num": 72329,
       "word": "驻英国使馆发声强烈谴责",
@@ -11627,6 +11747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37833,
+      "num": 104281,
+      "word": "男子掐俩女实习生脖子遭开除还叫屈",
+      "onboard_time": 1765952181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37692,
       "num": 51099,
       "word": "成睿一次没亲就成合法老公了",
@@ -11673,6 +11801,14 @@
       "onboard_time": 1765794023,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36088,
+      "num": 219590,
+      "word": "长安二十四计有阿福守护",
+      "onboard_time": 1765951521,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 35994,
@@ -12203,6 +12339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28728,
+      "num": 532329,
+      "word": "山东舰正式入列6周年",
+      "onboard_time": 1765929739,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28699,
       "num": 371608,
       "word": "温暖的身边事儿",
@@ -12291,6 +12435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26669,
+      "num": 255923,
+      "word": "千问上线国内首个AI小剧场玩法",
+      "onboard_time": 1765951282,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26450,
       "num": 331828,
       "word": "中国电影市场展现蓬勃活力",
@@ -12329,6 +12481,14 @@
       "onboard_time": 1765863501,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25713,
+      "num": 216136,
+      "word": "南京博物院获赠名画现身拍卖市场",
+      "onboard_time": 1765953501,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25613,
@@ -12417,14 +12577,6 @@
       "onboard_time": 1765877602,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 532329,
-      "word": "山东舰正式入列6周年",
-      "onboard_time": 1765929739,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24280,
@@ -12627,6 +12779,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19727,
+      "num": 271852,
+      "word": "海南省GDP连跨2个千亿级台阶",
+      "onboard_time": 1765944563,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19632,
+      "num": 126087,
+      "word": "胡先煦年轻就要智界出发",
+      "onboard_time": 1765953680,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18838,
       "num": 42453,
       "word": "邂逅双子座流星雨的浪漫",
@@ -12689,6 +12857,14 @@
       "onboard_time": 1765882042,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15542,
+      "num": 125729,
+      "word": "保罗与快船分手内幕曝光",
+      "onboard_time": 1765953382,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 15425,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1765953801914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 587594,
+        "num": 1094015,
+        "word": "网红柴犬佩奇中毒死亡",
+        "onboard_time": 1765948043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339069,
+        "num": 339069,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28728,
+        "num": 301853,
+        "word": "山东舰正式入列6周年",
+        "onboard_time": 1765929739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282056,
+        "num": 282056,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190585,
+        "num": 280616,
+        "word": "唐诡奇谭",
+        "onboard_time": 1765952901,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1026462,
+        "num": 277901,
+        "word": "女教师新婚坠亡一楼业主要求赔偿",
+        "onboard_time": 1765946242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359143,
+        "num": 275467,
+        "word": "精神病男子射杀邻居改判死刑",
+        "onboard_time": 1765947622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126648,
+        "num": 273941,
+        "word": "NBA杯",
+        "onboard_time": 1765952721,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 271852,
+        "word": "海南省GDP连跨2个千亿级台阶",
+        "onboard_time": 1765944563,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316444,
+        "num": 269732,
+        "word": "陈飞宇哥哥居然也在影视圈",
+        "onboard_time": 1765947863,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750138,
+        "num": 265908,
+        "word": "李连杰 我女儿生下来就是享福的",
+        "onboard_time": 1765947863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554129,
+        "num": 264622,
+        "word": "王俊凯的真心",
+        "onboard_time": 1765950501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525310,
+        "num": 260455,
+        "word": "汪苏泷方辟谣",
+        "onboard_time": 1765950261,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498461,
+        "num": 259420,
+        "word": "鞠婧祎前队友曾艳芬发声",
+        "onboard_time": 1765950380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26669,
+        "num": 255923,
+        "word": "千问上线国内首个AI小剧场玩法",
+        "onboard_time": 1765951282,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112278,
+        "num": 254558,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252970,
+        "num": 252970,
+        "word": "小英拿着所有东西从山里搬走了",
+        "onboard_time": 1765949361,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238458,
+        "num": 238458,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219875,
+        "num": 219875,
+        "word": "脑瘫美妆博主被质疑装病",
+        "onboard_time": 1765946542,
+        "rank": 18,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 36088,
+        "num": 219590,
+        "word": "长安二十四计有阿福守护",
+        "onboard_time": 1765951521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2405725,
+        "num": 218260,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25713,
+        "num": 216136,
+        "word": "南京博物院获赠名画现身拍卖市场",
+        "onboard_time": 1765953501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242518,
+        "num": 215219,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606496,
+        "num": 214114,
+        "word": "小郑嘻嘻再回应",
+        "onboard_time": 1765953201,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 584774,
+        "num": 211949,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 453645,
+        "num": 211629,
+        "word": "鞠婧祎丝芭 硬刚",
+        "onboard_time": 1765953322,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399503,
+        "num": 210448,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293431,
+        "num": 208052,
+        "word": "内娱第一位230斤的爱豆出现了",
+        "onboard_time": 1765950022,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207908,
+        "num": 207908,
+        "word": "A股",
+        "onboard_time": 1765952842,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175905,
+        "num": 175905,
+        "word": "大爷用502胶水给违停车贴警示语",
+        "onboard_time": 1765948522,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176026,
+        "num": 171542,
+        "word": "湖南卫视跨年第一波阵容",
+        "onboard_time": 1765950560,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166258,
+        "num": 166258,
+        "word": "小米天才少女罗福莉首次登场",
+        "onboard_time": 1765941742,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154411,
+        "num": 154411,
+        "word": "手机最好玩的三小时",
+        "onboard_time": 1765948162,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152488,
+        "num": 152488,
+        "word": "马思纯家人朋友全都反对上花少",
+        "onboard_time": 1765950501,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142510,
+        "num": 142510,
+        "word": "可乐不让爸妈生二胎的原因",
+        "onboard_time": 1765952121,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139123,
+        "num": 139123,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128685,
+        "num": 128685,
+        "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+        "onboard_time": 1765950201,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19632,
+        "num": 126087,
+        "word": "胡先煦年轻就要智界出发",
+        "onboard_time": 1765953680,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15542,
+        "num": 125729,
+        "word": "保罗与快船分手内幕曝光",
+        "onboard_time": 1765953382,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72396,
+        "num": 125713,
+        "word": "男子因未婚妻吃太多退婚案法院判了",
+        "onboard_time": 1765952721,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125711,
+        "num": 125711,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115283,
+        "num": 115283,
+        "word": "诚C化身王牌飞行员",
+        "onboard_time": 1765953382,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113462,
+        "num": 113462,
+        "word": "泡面的时候千万别玩手机",
+        "onboard_time": 1765948462,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112824,
+        "num": 112824,
+        "word": "王传君 亚健康",
+        "onboard_time": 1765947082,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105021,
+        "num": 105021,
+        "word": "曾艳芬称丝芭曾让成员陪酒",
+        "onboard_time": 1765951821,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104983,
+        "num": 104983,
+        "word": "唐诡奇谭开局血书求救",
+        "onboard_time": 1765950501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37833,
+        "num": 104281,
+        "word": "男子掐俩女实习生脖子遭开除还叫屈",
+        "onboard_time": 1765952181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104138,
+        "num": 104138,
+        "word": "女方回应被嫌麻辣烫吃太多退婚",
+        "onboard_time": 1765952060,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104045,
+        "num": 104045,
+        "word": "不是所有法拉利老了都还是法拉利",
+        "onboard_time": 1765945222,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 101177,
+        "word": "杨瀚森14分6篮板",
+        "onboard_time": 1765953442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}
