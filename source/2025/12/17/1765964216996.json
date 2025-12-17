@@ -1,0 +1,410 @@
+{
+  "runTime": 1765964216996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 439135,
+        "num": 1070261,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364519,
+        "num": 364519,
+        "word": "遭老板性侵女高管每月心理治疗费4000",
+        "onboard_time": 1765960701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14724,
+        "num": 313352,
+        "word": "我国脑机接口技术有新突破",
+        "onboard_time": 1765964122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297860,
+        "num": 297860,
+        "word": "日议员提议去台湾换大熊猫",
+        "onboard_time": 1765962023,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531066,
+        "num": 296626,
+        "word": "怪不得麦当劳是减肥餐",
+        "onboard_time": 1765958902,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 613464,
+        "num": 288487,
+        "word": "内地女子在港卖淫被拘捕",
+        "onboard_time": 1765958842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279877,
+        "num": 279877,
+        "word": "严禁向任何组织和个人购买试卷",
+        "onboard_time": 1765955601,
+        "rank": 6,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 574239,
+        "num": 266412,
+        "word": "新婚坠亡女教师遗体无人认领",
+        "onboard_time": 1765962442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5740,
+        "num": 254184,
+        "word": "流感预防药物不能代替疫苗",
+        "onboard_time": 1765964122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249739,
+        "num": 249739,
+        "word": "崔丽丽被评定为工伤十级伤残",
+        "onboard_time": 1765958721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1183940,
+        "num": 249053,
+        "word": "丝芭 陪酒",
+        "onboard_time": 1765958002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534940,
+        "num": 248311,
+        "word": "车厘子你爱吃吗 超市有卖的",
+        "onboard_time": 1765958601,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408254,
+        "num": 247584,
+        "word": "半藏森林 互联网产品经理",
+        "onboard_time": 1765957882,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 395918,
+        "num": 246313,
+        "word": "吴君如曾三次撮合古天乐陈妍希",
+        "onboard_time": 1765963402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291689,
+        "num": 245605,
+        "word": "凤凰传奇全家福",
+        "onboard_time": 1765961181,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263833,
+        "num": 244704,
+        "word": "好利来大公子点赞称他为女生的评论",
+        "onboard_time": 1765954822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4437,
+        "num": 244396,
+        "word": "我国自研世界最大直径高铁盾构机新突破",
+        "onboard_time": 1765873643,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254785,
+        "num": 242944,
+        "word": "王俊凯的真心",
+        "onboard_time": 1765950501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30370,
+        "num": 242703,
+        "word": "阿福成为宝爸育儿培训班",
+        "onboard_time": 1765962322,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 200847,
+        "num": 240977,
+        "word": "日本遗孤说从小恨自己为何是日本人",
+        "onboard_time": 1765957522,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 942508,
+        "num": 240536,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251694,
+        "num": 239364,
+        "word": "陈妍希周柯宇 二搭",
+        "onboard_time": 1765955601,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776288,
+        "num": 238424,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185533,
+        "num": 237615,
+        "word": "iPhone18Pro或摒弃药丸状挖孔",
+        "onboard_time": 1765959862,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 353992,
+        "num": 236629,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 348862,
+        "num": 236394,
+        "word": "罗昊曾和周扬青短暂谈过恋爱",
+        "onboard_time": 1765960581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303824,
+        "num": 235617,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234836,
+        "num": 234836,
+        "word": "月鳞绮纪",
+        "onboard_time": 1765962982,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228224,
+        "num": 228224,
+        "word": "李诞 娱乐圈是重灾区",
+        "onboard_time": 1765958423,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216674,
+        "num": 216674,
+        "word": "德云女孩 销声匿迹",
+        "onboard_time": 1765962262,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191570,
+        "num": 191570,
+        "word": "仲天骐终于后继有人了",
+        "onboard_time": 1765962501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176644,
+        "num": 176644,
+        "word": "小学一二年级不进行纸笔考试",
+        "onboard_time": 1765957462,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174335,
+        "num": 174335,
+        "word": "漂亮的李慧珍原来这么离谱",
+        "onboard_time": 1765963282,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167321,
+        "num": 167321,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159926,
+        "num": 159926,
+        "word": "赵丽颖黄晓明新剧改名",
+        "onboard_time": 1765961061,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155106,
+        "num": 155106,
+        "word": "张震岳怼朱孝天",
+        "onboard_time": 1765954583,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124184,
+        "num": 124184,
+        "word": "明清以及任何王朝更迭都是中国历史",
+        "onboard_time": 1765961122,
+        "rank": 36,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 18365,
+        "num": 124167,
+        "word": "同行质疑公牛误导宣传被索赔420万",
+        "onboard_time": 1765963521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71080,
+        "num": 124125,
+        "word": "范丞丞这白眼我能看上一百遍",
+        "onboard_time": 1765963103,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109325,
+        "num": 124066,
+        "word": "30岁健美冠军去世前几天刚体检完",
+        "onboard_time": 1765963762,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131122,
+        "num": 123989,
+        "word": "张萌夫妇路边亲吻",
+        "onboard_time": 1765953981,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123971,
+        "num": 123971,
+        "word": "小郑嘻嘻再回应",
+        "onboard_time": 1765953201,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120906,
+        "num": 120906,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1765963941,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109151,
+        "num": 109151,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100357,
+        "num": 100357,
+        "word": "豆瓣回应长安二十四计异常情况",
+        "onboard_time": 1765963941,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100112,
+        "num": 100112,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98987,
+        "num": 98987,
+        "word": "文班亚马跌落神坛",
+        "onboard_time": 1765958002,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98319,
+        "num": 98319,
+        "word": "果然话越简短事情越大",
+        "onboard_time": 1765963941,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 95065,
+        "num": 96711,
+        "word": "澳一怀孕母亲为陌生3岁女孩挡子弹",
+        "onboard_time": 1765962381,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89690,
+        "num": 96622,
+        "word": "车里说不清道不明的异味从哪来",
+        "onboard_time": 1765963644,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}
