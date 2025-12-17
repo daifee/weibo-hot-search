@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765960798466,
+  "endTime": 1765961676266,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1475473,
-      "num": 194631,
+      "raw_hot": 1525901,
+      "num": 238436,
       "word": "丝芭 陪酒",
       "onboard_time": 1765958002,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1049684,
-      "num": 204412,
+      "num": 227066,
       "word": "好利来大公子点赞称他为女生的评论",
       "onboard_time": 1765954822,
       "rank": 11,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 985355,
-      "num": 229942,
+      "num": 231872,
       "word": "鞠婧祎丝芭 硬刚",
       "onboard_time": 1765953322,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861247,
+      "num": 359146,
+      "word": "王子异 抑郁症",
+      "onboard_time": 1765956143,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 857047,
@@ -97,14 +105,6 @@
       "onboard_time": 1765939880,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 843383,
-      "num": 359146,
-      "word": "王子异 抑郁症",
-      "onboard_time": 1765956143,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 830741,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749892,
+      "num": 311297,
+      "word": "新婚当天坠亡女教师学生发声",
+      "onboard_time": 1765957522,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708275,
       "num": 708275,
       "word": "俄乌冲突",
       "onboard_time": 1765939821,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 684279,
+      "num": 237146,
+      "word": "车厘子你爱吃吗 超市有卖的",
+      "onboard_time": 1765958601,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 652083,
@@ -179,14 +195,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 595415,
-      "num": 194239,
-      "word": "车厘子你爱吃吗 超市有卖的",
-      "onboard_time": 1765958601,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 584774,
       "num": 227101,
       "word": "张激扬 小郑嘻嘻",
@@ -204,11 +212,19 @@
     },
     {
       "raw_hot": 564550,
-      "num": 195003,
+      "num": 233346,
       "word": "崔丽丽被评定为工伤十级伤残",
       "onboard_time": 1765958721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557971,
+      "num": 235506,
+      "word": "半藏森林 互联网产品经理",
+      "onboard_time": 1765957882,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 554129,
@@ -217,14 +233,6 @@
       "onboard_time": 1765950501,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551306,
-      "num": 193585,
-      "word": "半藏森林 互联网产品经理",
-      "onboard_time": 1765957882,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 528514,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 458110,
-      "num": 203881,
+      "num": 214881,
       "word": "张震岳怼朱孝天",
       "onboard_time": 1765954583,
       "rank": 44,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 419679,
-      "num": 202585,
+      "num": 220371,
       "word": "陈妍希周柯宇 二搭",
       "onboard_time": 1765955601,
       "rank": 18,
@@ -368,6 +376,14 @@
       "word": "任敏在南极跳水",
       "onboard_time": 1765953861,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399971,
+      "num": 229246,
+      "word": "李诞 娱乐圈是重灾区",
+      "onboard_time": 1765958423,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -435,12 +451,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 337077,
-      "num": 311297,
-      "word": "新婚当天坠亡女教师学生发声",
+      "raw_hot": 337098,
+      "num": 337098,
+      "word": "日本遗孤说从小恨自己为何是日本人",
       "onboard_time": 1765957522,
-      "rank": 5,
-      "category": "民生新闻"
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 336748,
@@ -481,14 +497,6 @@
       "onboard_time": 1765947863,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314506,
-      "num": 314506,
-      "word": "日本遗孤说从小恨自己为何是日本人",
-      "onboard_time": 1765957522,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 313653,
@@ -539,20 +547,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278605,
+      "num": 217036,
+      "word": "罗昊曾和周扬青短暂谈过恋爱",
+      "onboard_time": 1765960581,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276501,
       "num": 276501,
       "word": "4400万粉丝网红直播泳池派对被处理",
       "onboard_time": 1765904717,
       "rank": 12,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 276467,
-      "num": 189489,
-      "word": "李诞 娱乐圈是重灾区",
-      "onboard_time": 1765958423,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 271204,
@@ -585,6 +593,14 @@
       "onboard_time": 1765942942,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249234,
+      "num": 225490,
+      "word": "内地女子在港卖淫被拘捕",
+      "onboard_time": 1765958842,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249233,
@@ -643,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221377,
+      "num": 221377,
+      "word": "iPhone18Pro或摒弃药丸状挖孔",
+      "onboard_time": 1765959862,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220046,
       "num": 261890,
       "word": "小米发布最新MiMo大模型",
@@ -667,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213237,
+      "num": 213237,
+      "word": "Angelababy参加上海网红聚会",
+      "onboard_time": 1765961424,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212655,
       "num": 146694,
       "word": "第一眼以为Angelababy早期仿妆",
@@ -681,6 +713,14 @@
       "onboard_time": 1765930941,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209454,
+      "num": 172599,
+      "word": "遭老板性侵女高管每月心理治疗费4000",
+      "onboard_time": 1765960701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209373,
@@ -755,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199414,
-      "num": 190778,
-      "word": "iPhone18Pro或摒弃药丸状挖孔",
-      "onboard_time": 1765959862,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 198515,
       "num": 198515,
       "word": "王橹杰花自会诉说心声",
@@ -803,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194318,
-      "num": 190705,
-      "word": "内地女子在港卖淫被拘捕",
-      "onboard_time": 1765958842,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192904,
       "num": 146658,
       "word": "教师猥亵儿童妻子因社会压力提离婚",
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 191215,
-      "num": 191215,
+      "num": 243688,
       "word": "张艺兴大航海巡演人气断层",
       "onboard_time": 1765960162,
       "rank": 17,
@@ -904,14 +928,6 @@
       "word": "王宝强我脱了没人看 陈思诚并非如此",
       "onboard_time": 1765955122,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 177351,
-      "num": 177351,
-      "word": "罗昊曾和周扬青短暂谈过恋爱",
-      "onboard_time": 1765960581,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 151221,
-      "num": 151221,
+      "num": 167705,
       "word": "艺考",
       "onboard_time": 1765957942,
       "rank": 32,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 150250,
-      "num": 150250,
+      "num": 163258,
       "word": "孩子跋涉一天一夜来打球感动姚明",
       "onboard_time": 1765960763,
       "rank": 33,
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 130923,
-      "num": 130923,
+      "num": 172748,
       "word": "文班亚马跌落神坛",
       "onboard_time": 1765958002,
       "rank": 36,
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 126784,
-      "num": 191550,
+      "num": 239664,
       "word": "献血年龄拟延长至65岁",
       "onboard_time": 1765960402,
       "rank": 16,
@@ -1347,11 +1363,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119494,
+      "num": 119494,
+      "word": "凤凰传奇全家福",
+      "onboard_time": 1765961181,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119143,
       "num": 119143,
       "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
       "onboard_time": 1765950201,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118648,
+      "num": 118648,
+      "word": "杨紫出发进组",
+      "onboard_time": 1765957582,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1371,12 +1403,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116544,
-      "num": 116544,
-      "word": "遭老板性侵女高管每月心理治疗费4000",
-      "onboard_time": 1765960701,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 116106,
+      "num": 148928,
+      "word": "明清以及任何王朝更迭都是中国历史",
+      "onboard_time": 1765961122,
+      "rank": 40,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 115283,
@@ -1500,7 +1532,7 @@
     },
     {
       "raw_hot": 105557,
-      "num": 105557,
+      "num": 242851,
       "word": "怪不得麦当劳是减肥餐",
       "onboard_time": 1765958902,
       "rank": 48,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1765895247,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92377,
+      "num": 92377,
+      "word": "A股午后再现大反攻",
+      "onboard_time": 1765961542,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 92010,
@@ -1891,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63066,
+      "num": 122800,
+      "word": "陈坤为演林则徐增肥8斤",
+      "onboard_time": 1765960043,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62233,
       "num": 272174,
       "word": "成毅的珠光宝计",
@@ -1915,12 +1963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61455,
-      "num": 122800,
-      "word": "陈坤为演林则徐增肥8斤",
-      "onboard_time": 1765960043,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 61105,
+      "num": 223872,
+      "word": "赵丽颖黄晓明新剧改名",
+      "onboard_time": 1765961061,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 60716,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1765899023,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54126,
+      "num": 154123,
+      "word": "看完狙击蝴蝶看金莎",
+      "onboard_time": 1765961242,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 53304,
@@ -2211,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31135,
+      "num": 151854,
+      "word": "王一博素颜出镜杂志封面拍摄",
+      "onboard_time": 1765960701,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30997,
       "num": 390636,
       "word": "延时看哈尔滨大雪人建成过程",
@@ -2224,6 +2288,14 @@
       "word": "在哈尔滨游客称室内外温差近50度",
       "onboard_time": 1765940422,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29982,
+      "num": 158199,
+      "word": "新生儿剖腹产后死亡家属发声",
+      "onboard_time": 1765960581,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2265,14 +2337,6 @@
       "onboard_time": 1765891943,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24049,
-      "num": 122254,
-      "word": "王一博素颜出镜杂志封面拍摄",
-      "onboard_time": 1765960701,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 23183,
@@ -2355,14 +2419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 15563,
-      "num": 123331,
-      "word": "新生儿剖腹产后死亡家属发声",
-      "onboard_time": 1765960581,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15388,
       "num": 30717,
       "word": "小狗穿棉衣在雪地行走神似肉松面包",
@@ -2443,8 +2499,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3008,
-      "num": 359544,
+      "raw_hot": 3531,
+      "num": 361732,
       "word": "我国自研世界最大直径高铁盾构机新突破",
       "onboard_time": 1765873643,
       "rank": 2,
