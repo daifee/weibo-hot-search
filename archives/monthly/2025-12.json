@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765989551311,
+  "endTime": 1765990487104,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -8316,7 +8316,7 @@
     },
     {
       "raw_hot": 413052,
-      "num": 137791,
+      "num": 182700,
       "word": "女孩穿光腿神器进了急诊",
       "onboard_time": 1765986021,
       "rank": 19,
@@ -17600,6 +17600,14 @@
       "word": "王鹤棣在路人镜头里没输过",
       "onboard_time": 1764598463,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206370,
+      "num": 127545,
+      "word": "袁咏仪不爱买包张智霖也害怕",
+      "onboard_time": 1765987222,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -31883,14 +31891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 127545,
-      "num": 127545,
-      "word": "袁咏仪不爱买包张智霖也害怕",
-      "onboard_time": 1765987222,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127456,
       "num": 127456,
       "word": "张雪峰说已经深刻反省",
@@ -35273,6 +35273,14 @@
       "onboard_time": 1765619000,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116815,
+      "num": 122041,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116772,
@@ -39452,7 +39460,7 @@
     },
     {
       "raw_hot": 103993,
-      "num": 99547,
+      "num": 101973,
       "word": "孤注一掷未曝光片场照",
       "onboard_time": 1765986800,
       "rank": 24,
@@ -39793,14 +39801,6 @@
       "onboard_time": 1765557080,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103094,
-      "num": 122041,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103069,
@@ -47475,6 +47475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75606,
+      "num": 98885,
+      "word": "Jasper和吴尊一家滑雪",
+      "onboard_time": 1765988001,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75565,
       "num": 75565,
       "word": "5种水果的隐藏用法",
@@ -49203,14 +49211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66023,
-      "num": 98885,
-      "word": "Jasper和吴尊一家滑雪",
-      "onboard_time": 1765988001,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66009,
       "num": 124881,
       "word": "刘耀文内娱唯一寿司塑",
@@ -49232,6 +49232,14 @@
       "word": "高市早苗逆流而动",
       "onboard_time": 1765849340,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65823,
+      "num": 98887,
+      "word": "外交部回应泰国缴获中国制造装备",
+      "onboard_time": 1765988899,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -51377,14 +51385,6 @@
       "onboard_time": 1765582036,
       "rank": 35,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 53137,
-      "num": 98887,
-      "word": "外交部回应泰国缴获中国制造装备",
-      "onboard_time": 1765988899,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53121,
@@ -54129,6 +54129,14 @@
       "onboard_time": 1765818977,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 39664,
+      "num": 96217,
+      "word": "虞书欣双轨MV给所有人唱跳机会",
+      "onboard_time": 1765989977,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 39623,

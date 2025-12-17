@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1765989551311,
+  "endTime": 1765990487104,
   "band_list": [
     {
       "raw_hot": 1632817,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 413052,
-      "num": 137791,
+      "num": 182700,
       "word": "女孩穿光腿神器进了急诊",
       "onboard_time": 1765986021,
       "rank": 9,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 347120,
-      "num": 173359,
+      "num": 180014,
       "word": "丝芭传媒报警",
       "onboard_time": 1765979363,
       "rank": 5,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206370,
+      "num": 127545,
+      "word": "袁咏仪不爱买包张智霖也害怕",
+      "onboard_time": 1765987222,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196716,
       "num": 196716,
       "word": "樊振东需通过资格赛获奥运参赛席位",
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127545,
-      "num": 127545,
-      "word": "袁咏仪不爱买包张智霖也害怕",
-      "onboard_time": 1765987222,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126876,
       "num": 100130,
       "word": "家里不穿的毛衣不要扔了",
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116815,
+      "num": 108981,
+      "word": "香港打击街头卖淫",
+      "onboard_time": 1765985063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115940,
       "num": 115940,
       "word": "坠亡女教师生前称未婚夫只会气人",
@@ -180,19 +188,11 @@
     },
     {
       "raw_hot": 103993,
-      "num": 99547,
+      "num": 101973,
       "word": "孤注一掷未曝光片场照",
       "onboard_time": 1765986800,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103094,
-      "num": 103094,
-      "word": "香港打击街头卖淫",
-      "onboard_time": 1765985063,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99015,
@@ -209,6 +209,14 @@
       "onboard_time": 1765984941,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 83387,
+      "num": 98963,
+      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+      "onboard_time": 1765970361,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 81807,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80016,
-      "num": 98963,
-      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
-      "onboard_time": 1765970361,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79780,
       "num": 98952,
       "word": "骄阳似我OST阵容官宣",
@@ -257,6 +257,14 @@
       "onboard_time": 1765986921,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75606,
+      "num": 98885,
+      "word": "Jasper和吴尊一家滑雪",
+      "onboard_time": 1765988001,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 74742,
@@ -275,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66023,
-      "num": 98885,
-      "word": "Jasper和吴尊一家滑雪",
-      "onboard_time": 1765988001,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 65823,
+      "num": 98887,
+      "word": "外交部回应泰国缴获中国制造装备",
+      "onboard_time": 1765988899,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64478,
@@ -331,15 +339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53137,
-      "num": 98887,
-      "word": "外交部回应泰国缴获中国制造装备",
-      "onboard_time": 1765988899,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 51306,
+      "raw_hot": 54356,
       "num": 98856,
       "word": "迪丽热巴19岁时就在爱你老己了",
       "onboard_time": 1765975221,
@@ -387,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43450,
+      "num": 96457,
+      "word": "李在明动作失误被夫人肘击",
+      "onboard_time": 1765975823,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39664,
+      "num": 96217,
+      "word": "虞书欣双轨MV给所有人唱跳机会",
+      "onboard_time": 1765989977,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39323,
       "num": 98799,
       "word": "北京男篮战胜辽宁男篮",
@@ -401,6 +417,14 @@
       "onboard_time": 1765977021,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27416,
+      "num": 96114,
+      "word": "梁伟铿王昶1比2兰基雷迪谢提",
+      "onboard_time": 1765983923,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
