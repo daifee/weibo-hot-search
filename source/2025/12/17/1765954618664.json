@@ -1,0 +1,410 @@
+{
+  "runTime": 1765954618664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 613224,
+        "num": 1098115,
+        "word": "网红柴犬佩奇中毒死亡",
+        "onboard_time": 1765948043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410317,
+        "num": 410317,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31462,
+        "num": 249213,
+        "word": "山东舰正式入列6周年",
+        "onboard_time": 1765929739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240560,
+        "num": 240560,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184668,
+        "num": 239693,
+        "word": "脑瘫美妆博主被质疑装病",
+        "onboard_time": 1765946542,
+        "rank": 4,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 310715,
+        "num": 237249,
+        "word": "精神病男子射杀邻居改判死刑",
+        "onboard_time": 1765947622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177027,
+        "num": 235745,
+        "word": "知情者称坠亡女教师发过取消婚礼通知",
+        "onboard_time": 1765953620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138851,
+        "num": 234581,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22648,
+        "num": 232721,
+        "word": "海南省GDP连跨2个千亿级台阶",
+        "onboard_time": 1765944563,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56196,
+        "num": 230675,
+        "word": "小米SU7换代或涨价2万元",
+        "onboard_time": 1765949721,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230369,
+        "num": 230369,
+        "word": "唐诡奇谭",
+        "onboard_time": 1765952901,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1102583,
+        "num": 230146,
+        "word": "女教师新婚坠亡一楼业主要求赔偿",
+        "onboard_time": 1765946242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890990,
+        "num": 229942,
+        "word": "鞠婧祎丝芭 硬刚",
+        "onboard_time": 1765953322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636998,
+        "num": 229856,
+        "word": "李连杰 我女儿生下来就是享福的",
+        "onboard_time": 1765947863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21071,
+        "num": 229575,
+        "word": "千问上线国内首个AI小剧场玩法",
+        "onboard_time": 1765951282,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 525489,
+        "num": 229332,
+        "word": "王俊凯的真心",
+        "onboard_time": 1765950501,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346718,
+        "num": 229175,
+        "word": "小英拿着所有东西从山里搬走了",
+        "onboard_time": 1765949361,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400970,
+        "num": 228912,
+        "word": "鞠婧祎前队友曾艳芬发声",
+        "onboard_time": 1765950380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45834,
+        "num": 228501,
+        "word": "南京博物院获赠名画现身拍卖市场",
+        "onboard_time": 1765953501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36919,
+        "num": 228432,
+        "word": "长安二十四计有阿福守护",
+        "onboard_time": 1765951521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49796,
+        "num": 228089,
+        "word": "NBA杯",
+        "onboard_time": 1765952721,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2245453,
+        "num": 227863,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518411,
+        "num": 227724,
+        "word": "张萌夫妇路边亲吻",
+        "onboard_time": 1765953981,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448099,
+        "num": 227462,
+        "word": "小郑嘻嘻再回应",
+        "onboard_time": 1765953201,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 423906,
+        "num": 227101,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45344,
+        "num": 227055,
+        "word": "胡先煦年轻就要智界出发",
+        "onboard_time": 1765953680,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442074,
+        "num": 226742,
+        "word": "汪苏泷方辟谣",
+        "onboard_time": 1765950261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311722,
+        "num": 226510,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245919,
+        "num": 226307,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180133,
+        "num": 225930,
+        "word": "大爷用502胶水给违停车贴警示语",
+        "onboard_time": 1765948522,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247627,
+        "num": 225794,
+        "word": "陈飞宇哥哥居然也在影视圈",
+        "onboard_time": 1765947863,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238982,
+        "num": 225615,
+        "word": "内娱第一位230斤的爱豆出现了",
+        "onboard_time": 1765950022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225433,
+        "num": 225433,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201459,
+        "num": 201459,
+        "word": "任敏在南极跳水",
+        "onboard_time": 1765953861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148321,
+        "num": 148321,
+        "word": "手机最好玩的三小时",
+        "onboard_time": 1765948162,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4501,
+        "num": 147922,
+        "word": "华晨宇本命年穿骐骥红",
+        "onboard_time": 1765954521,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149285,
+        "num": 146333,
+        "word": "锤娜丽莎怎么越穿越大胆",
+        "onboard_time": 1765954101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126686,
+        "num": 144956,
+        "word": "A股",
+        "onboard_time": 1765952842,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69387,
+        "num": 144665,
+        "word": "今年车厘子比去年还便宜",
+        "onboard_time": 1765954101,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28726,
+        "num": 143155,
+        "word": "樊振东说升国旗就是最好的庆祝",
+        "onboard_time": 1765953921,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142710,
+        "num": 142710,
+        "word": "马思纯家人朋友全都反对上花少",
+        "onboard_time": 1765950501,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23183,
+        "num": 138934,
+        "word": "保罗与快船分手内幕曝光",
+        "onboard_time": 1765953382,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137468,
+        "num": 137468,
+        "word": "可乐不让爸妈生二胎的原因",
+        "onboard_time": 1765952121,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128722,
+        "num": 128722,
+        "word": "湖南卫视跨年第一波阵容",
+        "onboard_time": 1765950560,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125412,
+        "num": 125412,
+        "word": "张震岳怼朱孝天",
+        "onboard_time": 1765954583,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 123974,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 114269,
+        "word": "杨瀚森14分6篮板",
+        "onboard_time": 1765953442,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113514,
+        "num": 113514,
+        "word": "诚C化身王牌飞行员",
+        "onboard_time": 1765953382,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110435,
+        "num": 110435,
+        "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+        "onboard_time": 1765950201,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109228,
+        "num": 109228,
+        "word": "泡面的时候千万别玩手机",
+        "onboard_time": 1765948462,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}
