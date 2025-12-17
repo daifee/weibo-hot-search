@@ -1,0 +1,410 @@
+{
+  "runTime": 1765970899013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604846,
+        "num": 1096775,
+        "word": "当地税务局回应凳子被指形似刑具",
+        "onboard_time": 1765967600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320726,
+        "num": 320726,
+        "word": "日议员提议去台湾换大熊猫",
+        "onboard_time": 1765962023,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3684,
+        "num": 255636,
+        "word": "为中国航天点赞",
+        "onboard_time": 1765964601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234426,
+        "num": 234426,
+        "word": "30岁健美冠军去世前几天刚体检完",
+        "onboard_time": 1765963762,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219120,
+        "num": 219120,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393227,
+        "num": 217409,
+        "word": "月鳞绮纪",
+        "onboard_time": 1765962982,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303515,
+        "num": 216662,
+        "word": "怪不得麦当劳是减肥餐",
+        "onboard_time": 1765958902,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153419,
+        "num": 214869,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24349,
+        "num": 213491,
+        "word": "流感预防药物不能代替疫苗",
+        "onboard_time": 1765964122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76870,
+        "num": 211505,
+        "word": "剑来宁姚又美又飒",
+        "onboard_time": 1765967842,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 558619,
+        "num": 209697,
+        "word": "第一次感到和欧阳娜娜有代沟",
+        "onboard_time": 1765965982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444895,
+        "num": 207316,
+        "word": "于正 周柯宇",
+        "onboard_time": 1765967301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343888,
+        "num": 205606,
+        "word": "漂亮的李慧珍原来这么离谱",
+        "onboard_time": 1765963282,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 204193,
+        "word": "德云女孩 销声匿迹",
+        "onboard_time": 1765962262,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254381,
+        "num": 202907,
+        "word": "吴君如曾三次撮合古天乐陈妍希",
+        "onboard_time": 1765963402,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201558,
+        "num": 201558,
+        "word": "车厘子你爱吃吗 超市有卖的",
+        "onboard_time": 1765958601,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74026,
+        "num": 201216,
+        "word": "被这篇悼友文看哭了",
+        "onboard_time": 1765969281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27344,
+        "num": 200320,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36994,
+        "num": 199905,
+        "word": "鸿蒙3D影像定格精彩",
+        "onboard_time": 1765967660,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122732,
+        "num": 199445,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798739,
+        "num": 198639,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458799,
+        "num": 197931,
+        "word": "S妈回应和具俊晔到小S家跨年",
+        "onboard_time": 1765968981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399104,
+        "num": 197229,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182873,
+        "num": 196916,
+        "word": "iPhone18Pro或摒弃药丸状挖孔",
+        "onboard_time": 1765959862,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204912,
+        "num": 196154,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195907,
+        "num": 195907,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 189271,
+        "word": "张函瑞编舞",
+        "onboard_time": 1765969880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187091,
+        "num": 187091,
+        "word": "张激扬 小郑嘻嘻",
+        "onboard_time": 1765953260,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172314,
+        "num": 172314,
+        "word": "朝朝暮暮嘴对嘴吃草莓",
+        "onboard_time": 1765970660,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161886,
+        "num": 161886,
+        "word": "好利来大公子点赞称他为女生的评论",
+        "onboard_time": 1765954822,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 158766,
+        "word": "王俊凯的真心",
+        "onboard_time": 1765950501,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155321,
+        "num": 155321,
+        "word": "丝芭传媒律师声明",
+        "onboard_time": 1765965261,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153025,
+        "num": 153025,
+        "word": "美国一家7口月入2千6医保要缴1千1",
+        "onboard_time": 1765967481,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150028,
+        "num": 150028,
+        "word": "用邪修思路打造圣诞氛围感",
+        "onboard_time": 1765970301,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144751,
+        "num": 144751,
+        "word": "今屿雪景照",
+        "onboard_time": 1765970660,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123568,
+        "num": 136596,
+        "word": "花海洒雪",
+        "onboard_time": 1765970660,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26337,
+        "num": 135685,
+        "word": "税务局定做便民竹凳被指单价偏贵",
+        "onboard_time": 1765970541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135425,
+        "num": 135425,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79662,
+        "num": 135407,
+        "word": "成毅用袖子为徐璐挡雨",
+        "onboard_time": 1765970181,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 135358,
+        "word": "丝芭质疑鞠婧祎玩文字游戏",
+        "onboard_time": 1765965442,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550906,
+        "num": 135333,
+        "word": "鞠婧祎丝芭 20年合约",
+        "onboard_time": 1765965142,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152553,
+        "num": 135310,
+        "word": "半藏森林 互联网产品经理",
+        "onboard_time": 1765957882,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89611,
+        "num": 135244,
+        "word": "江奇霖尹正 面相都变了",
+        "onboard_time": 1765969042,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149221,
+        "num": 135235,
+        "word": "陈妍希周柯宇 二搭",
+        "onboard_time": 1765955601,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135206,
+        "num": 135206,
+        "word": "张碧晨看恶评挺爽的吧",
+        "onboard_time": 1765966043,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108038,
+        "num": 134379,
+        "word": "车厘子火速降价",
+        "onboard_time": 1765967842,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342972,
+        "num": 133840,
+        "word": "遭老板性侵女高管每月心理治疗费4000",
+        "onboard_time": 1765960701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111162,
+        "num": 132262,
+        "word": "小猫吃饭差点溺亡",
+        "onboard_time": 1765967061,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106949,
+        "num": 132074,
+        "word": "韩国教授提出汉字教育",
+        "onboard_time": 1765968922,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89679,
+        "num": 130906,
+        "word": "4400万粉丝网红擦边直播不该封号吗",
+        "onboard_time": 1765970481,
+        "rank": 49,
+        "category": "议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

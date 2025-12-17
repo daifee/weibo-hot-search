@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765968569646,
+  "endTime": 1765970899013,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -227,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 604846,
+      "num": 1096775,
+      "word": "当地税务局回应凳子被指形似刑具",
+      "onboard_time": 1765967600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584774,
       "num": 227101,
       "word": "张激扬 小郑嘻嘻",
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458799,
+      "num": 197931,
+      "word": "S妈回应和具俊晔到小S家跨年",
+      "onboard_time": 1765968981,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458110,
       "num": 214881,
       "word": "张震岳怼朱孝天",
@@ -489,6 +505,14 @@
       "onboard_time": 1765963282,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393227,
+      "num": 268889,
+      "word": "月鳞绮纪",
+      "onboard_time": 1765962982,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 389072,
@@ -683,14 +707,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 273830,
-      "num": 262090,
-      "word": "当地税务局回应凳子被指形似刑具",
-      "onboard_time": 1765967600,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272431,
       "num": 245852,
       "word": "丝芭传媒律师声明",
@@ -705,14 +721,6 @@
       "onboard_time": 1765947082,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268889,
-      "num": 268889,
-      "word": "月鳞绮纪",
-      "onboard_time": 1765962982,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 267091,
@@ -1027,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189271,
+      "num": 189271,
+      "word": "张函瑞编舞",
+      "onboard_time": 1765969880,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188499,
       "num": 188499,
       "word": "双轨 处处吻",
@@ -1115,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172314,
+      "num": 172314,
+      "word": "朝朝暮暮嘴对嘴吃草莓",
+      "onboard_time": 1765970660,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172269,
       "num": 172269,
       "word": "前老板发视频吐槽张凯毅老公",
@@ -1187,6 +1211,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153419,
+      "num": 214869,
+      "word": "双轨",
+      "onboard_time": 1765906218,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153025,
+      "num": 153025,
+      "word": "美国一家7口月入2千6医保要缴1千1",
+      "onboard_time": 1765967481,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152488,
       "num": 152488,
       "word": "马思纯家人朋友全都反对上花少",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1765947022,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151231,
-      "num": 151231,
-      "word": "双轨",
-      "onboard_time": 1765906218,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 151221,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1765960763,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150028,
+      "num": 150028,
+      "word": "用邪修思路打造圣诞氛围感",
+      "onboard_time": 1765970301,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 149285,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1765902380,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144751,
+      "num": 144751,
+      "word": "今屿雪景照",
+      "onboard_time": 1765970660,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 142923,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1765935800,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135425,
+      "num": 135425,
+      "word": "没人告诉我鲁豫线下长这样",
+      "onboard_time": 1765970241,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 134850,
@@ -1499,8 +1555,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 123568,
+      "num": 136596,
+      "word": "花海洒雪",
+      "onboard_time": 1765970660,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123405,
-      "num": 201299,
+      "num": 211505,
       "word": "剑来宁姚又美又飒",
       "onboard_time": 1765967842,
       "rank": 32,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1765968263,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 122732,
+      "num": 199445,
+      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+      "onboard_time": 1765970361,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 122227,
@@ -1763,6 +1835,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108038,
+      "num": 177868,
+      "word": "车厘子火速降价",
+      "onboard_time": 1765967842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106949,
+      "num": 132074,
+      "word": "韩国教授提出汉字教育",
+      "onboard_time": 1765968922,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106619,
       "num": 106619,
       "word": "第一次见手拉手吵架的",
@@ -1915,14 +2003,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93885,
-      "num": 93885,
-      "word": "美国一家7口月入2千6医保要缴1千1",
-      "onboard_time": 1765967481,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 93383,
       "num": 198490,
       "word": "宗馥莉卸任杭州娃哈哈食品公司职务",
@@ -1987,12 +2067,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89679,
+      "num": 130906,
+      "word": "4400万粉丝网红擦边直播不该封号吗",
+      "onboard_time": 1765970481,
+      "rank": 49,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 89641,
       "num": 89641,
       "word": "小米新模型媲美DeepSeekV3.2",
       "onboard_time": 1765935441,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89611,
+      "num": 135244,
+      "word": "江奇霖尹正 面相都变了",
+      "onboard_time": 1765969042,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 88495,
@@ -2075,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79662,
+      "num": 135407,
+      "word": "成毅用袖子为徐璐挡雨",
+      "onboard_time": 1765970181,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79636,
       "num": 79636,
       "word": "梅西投票登贝莱",
@@ -2129,6 +2233,14 @@
       "onboard_time": 1765881562,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74026,
+      "num": 201216,
+      "word": "被这篇悼友文看哭了",
+      "onboard_time": 1765969281,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73539,
@@ -2427,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50741,
-      "num": 177868,
-      "word": "车厘子火速降价",
-      "onboard_time": 1765967842,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47455,
       "num": 111420,
       "word": "他们的九年也是九年啊",
@@ -2571,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36994,
+      "num": 262471,
+      "word": "鸿蒙3D影像定格精彩",
+      "onboard_time": 1765967660,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36919,
       "num": 228432,
       "word": "长安二十四计有阿福守护",
@@ -2627,14 +2739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31372,
-      "num": 262471,
-      "word": "鸿蒙3D影像定格精彩",
-      "onboard_time": 1765967660,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 31135,
       "num": 151854,
       "word": "王一博素颜出镜杂志封面拍摄",
@@ -2683,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27344,
+      "num": 200320,
+      "word": "福建舰 台湾海峡",
+      "onboard_time": 1765970481,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27169,
       "num": 66320,
       "word": "孟子义尚公主白金大氅",
@@ -2697,6 +2809,14 @@
       "onboard_time": 1765951282,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 26337,
+      "num": 135685,
+      "word": "税务局定做便民竹凳被指单价偏贵",
+      "onboard_time": 1765970541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25953,
@@ -2723,6 +2843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24349,
+      "num": 266891,
+      "word": "流感预防药物不能代替疫苗",
+      "onboard_time": 1765964122,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24345,
       "num": 146544,
       "word": "我国全年用电量将首超10万亿千瓦时",
@@ -2737,14 +2865,6 @@
       "onboard_time": 1765967001,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24129,
-      "num": 266891,
-      "word": "流感预防药物不能代替疫苗",
-      "onboard_time": 1765964122,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23183,
