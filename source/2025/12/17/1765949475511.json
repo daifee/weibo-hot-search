@@ -1,0 +1,410 @@
+{
+  "runTime": 1765949475511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 783287,
+        "num": 1125326,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732992,
+        "num": 732992,
+        "word": "女教师新婚坠亡一楼业主要求赔偿",
+        "onboard_time": 1765946242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22852,
+        "num": 520592,
+        "word": "山东舰正式入列6周年",
+        "onboard_time": 1765929739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471968,
+        "num": 471968,
+        "word": "网红柴犬佩奇中毒死亡",
+        "onboard_time": 1765948043,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421232,
+        "num": 421232,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227889,
+        "num": 412256,
+        "word": "台军通报福建舰通过台湾海峡",
+        "onboard_time": 1765943782,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200620,
+        "num": 403585,
+        "word": "哑舍开播",
+        "onboard_time": 1765940780,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156512,
+        "num": 397604,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21100,
+        "num": 390636,
+        "word": "延时看哈尔滨大雪人建成过程",
+        "onboard_time": 1765943902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163965,
+        "num": 380158,
+        "word": "小米天才少女罗福莉首次登场",
+        "onboard_time": 1765941742,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 545395,
+        "num": 364288,
+        "word": "李连杰 我女儿生下来就是享福的",
+        "onboard_time": 1765947863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456799,
+        "num": 354386,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354116,
+        "num": 354116,
+        "word": "李兰迪 6块9的水姐觉得有点不值",
+        "onboard_time": 1765945281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271204,
+        "num": 271204,
+        "word": "王传君 亚健康",
+        "onboard_time": 1765947082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266147,
+        "num": 266147,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263466,
+        "num": 263466,
+        "word": "两次四六级等于一顿烤肉自助",
+        "onboard_time": 1765944322,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 62233,
+        "num": 262487,
+        "word": "成毅的珠光宝计",
+        "onboard_time": 1765944862,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572157,
+        "num": 259874,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184680,
+        "num": 258406,
+        "word": "警惕1644史观带乱了节奏",
+        "onboard_time": 1765942101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41404,
+        "num": 255885,
+        "word": "家长竟带娃野爬绝望坡练胆",
+        "onboard_time": 1765948821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2965021,
+        "num": 254053,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319148,
+        "num": 252679,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518647,
+        "num": 251341,
+        "word": "不是所有法拉利老了都还是法拉利",
+        "onboard_time": 1765945222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457929,
+        "num": 249506,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247521,
+        "num": 247521,
+        "word": "陈飞宇哥哥居然也在影视圈",
+        "onboard_time": 1765947863,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217789,
+        "num": 217789,
+        "word": "脑瘫美妆博主被质疑装病",
+        "onboard_time": 1765946542,
+        "rank": 25,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 209701,
+        "num": 209701,
+        "word": "杀死29岁陌生女子凶手精神鉴定无病",
+        "onboard_time": 1765938381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191659,
+        "num": 191659,
+        "word": "大爷用502胶水给违停车贴警示语",
+        "onboard_time": 1765948522,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185883,
+        "num": 185883,
+        "word": "小米新一代SU7明年二季度上市",
+        "onboard_time": 1765948642,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172836,
+        "num": 172836,
+        "word": "泡面的时候千万别玩手机",
+        "onboard_time": 1765948462,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169550,
+        "num": 169550,
+        "word": "孩子给自己舔出个羊胡子疮",
+        "onboard_time": 1765942581,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165321,
+        "num": 165321,
+        "word": "精神病男子射杀邻居改判死刑",
+        "onboard_time": 1765947622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62216,
+        "num": 163273,
+        "word": "方城英才学校已注销",
+        "onboard_time": 1765947622,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161969,
+        "num": 161969,
+        "word": "刘亦菲早就爱你老己了",
+        "onboard_time": 1765944262,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147174,
+        "num": 147174,
+        "word": "双轨 处处吻",
+        "onboard_time": 1765945762,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 146273,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1765897885,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139500,
+        "num": 139500,
+        "word": "原来我早看过狙击蝴蝶电影版",
+        "onboard_time": 1765947982,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31897,
+        "num": 139373,
+        "word": "魏建军向用户为新平台征名",
+        "onboard_time": 1765945103,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "手机最好玩的三小时",
+        "onboard_time": 1765948162,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37056,
+        "num": 138456,
+        "word": "学生拒劝导持手机激将教官摔猫",
+        "onboard_time": 1765948821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15714,
+        "num": 138378,
+        "word": "易烊千玺6部影片入选21世纪影响力榜单",
+        "onboard_time": 1765949421,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138340,
+        "num": 138340,
+        "word": "尼克斯夺NBA杯总冠军",
+        "onboard_time": 1765946183,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124331,
+        "num": 124331,
+        "word": "爱你老己到底在爱啥",
+        "onboard_time": 1765948343,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120412,
+        "num": 120412,
+        "word": "网易云音乐2025年度音乐奖",
+        "onboard_time": 1765949361,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119995,
+        "num": 119995,
+        "word": "Angelababy妆",
+        "onboard_time": 1765939340,
+        "rank": 44,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 116117,
+        "num": 119354,
+        "word": "一村庄规定未婚先孕罚3000",
+        "onboard_time": 1765946062,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "原来陈妍希上过浪姐",
+        "onboard_time": 1765943540,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115444,
+        "num": 115444,
+        "word": "小英拿着所有东西从山里搬走了",
+        "onboard_time": 1765949361,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114346,
+        "num": 114346,
+        "word": "HLE经理爆料Viper拒绝续约",
+        "onboard_time": 1765942942,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111604,
+        "num": 111604,
+        "word": "欧阳娜娜牵狗上班",
+        "onboard_time": 1765949182,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}

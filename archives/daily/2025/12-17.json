@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765947239430,
+  "endTime": 1765949475511,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -8,6 +8,14 @@
       "word": "鞠婧祎收入",
       "onboard_time": 1765892208,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2965021,
+      "num": 254053,
+      "word": "汪苏泷 孩子",
+      "onboard_time": 1765947563,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732992,
+      "num": 732992,
+      "word": "女教师新婚坠亡一楼业主要求赔偿",
+      "onboard_time": 1765946242,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708275,
       "num": 708275,
       "word": "俄乌冲突",
@@ -99,8 +115,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545395,
+      "num": 364288,
+      "word": "李连杰 我女儿生下来就是享福的",
+      "onboard_time": 1765947863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528514,
-      "num": 349799,
+      "num": 354116,
       "word": "李兰迪 6块9的水姐觉得有点不值",
       "onboard_time": 1765945281,
       "rank": 12,
@@ -136,6 +160,22 @@
       "word": "王阳救场王传君千里江山图",
       "onboard_time": 1765940902,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 471968,
+      "num": 471968,
+      "word": "网红柴犬佩奇中毒死亡",
+      "onboard_time": 1765948043,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456799,
+      "num": 354386,
+      "word": "虞书欣ThaiMu",
+      "onboard_time": 1765945402,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -193,14 +233,6 @@
       "onboard_time": 1765933161,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397450,
-      "num": 349726,
-      "word": "虞书欣ThaiMu",
-      "onboard_time": 1765945402,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 397184,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 280980,
-      "num": 280980,
+      "num": 412256,
       "word": "台军通报福建舰通过台湾海峡",
       "onboard_time": 1765943782,
       "rank": 14,
@@ -305,6 +337,22 @@
       "onboard_time": 1765904717,
       "rank": 12,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 271204,
+      "num": 271204,
+      "word": "王传君 亚健康",
+      "onboard_time": 1765947082,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263466,
+      "num": 263466,
+      "word": "两次四六级等于一顿烤肉自助",
+      "onboard_time": 1765944322,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 250134,
@@ -323,20 +371,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "陈飞宇哥哥居然也在影视圈",
+      "onboard_time": 1765947863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247129,
       "num": 233111,
       "word": "孩子给自己舔出个羊胡子疮",
       "onboard_time": 1765942581,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234713,
-      "num": 234713,
-      "word": "两次四六级等于一顿烤肉自助",
-      "onboard_time": 1765944322,
-      "rank": 18,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 232385,
@@ -379,20 +427,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 217760,
-      "num": 212113,
-      "word": "小米天才少女罗福莉首次登场",
-      "onboard_time": 1765941742,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 214328,
-      "num": 214328,
+      "raw_hot": 217789,
+      "num": 217789,
       "word": "脑瘫美妆博主被质疑装病",
       "onboard_time": 1765946542,
       "rank": 26,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 217760,
+      "num": 380158,
+      "word": "小米天才少女罗福莉首次登场",
+      "onboard_time": 1765941742,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 212655,
@@ -417,14 +465,6 @@
       "onboard_time": 1765888040,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208889,
-      "num": 208889,
-      "word": "王传君 亚健康",
-      "onboard_time": 1765947082,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 208163,
@@ -515,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191659,
+      "num": 191659,
+      "word": "大爷用502胶水给违停车贴警示语",
+      "onboard_time": 1765948522,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191595,
       "num": 191595,
       "word": "阿凡达3",
@@ -537,6 +585,14 @@
       "onboard_time": 1765945762,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185883,
+      "num": 185883,
+      "word": "小米新一代SU7明年二季度上市",
+      "onboard_time": 1765948642,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 183537,
@@ -579,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172836,
+      "num": 172836,
+      "word": "泡面的时候千万别玩手机",
+      "onboard_time": 1765948462,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172269,
       "num": 172269,
       "word": "前老板发视频吐槽张凯毅老公",
@@ -593,6 +657,14 @@
       "onboard_time": 1765946422,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165321,
+      "num": 165321,
+      "word": "精神病男子射杀邻居改判死刑",
+      "onboard_time": 1765947622,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161864,
@@ -691,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146273,
+      "num": 146273,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1765897885,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "多名艺人与丝芭解约后被限消",
@@ -715,12 +795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140380,
-      "num": 234598,
-      "word": "女教师新婚坠亡一楼业主要求赔偿",
-      "onboard_time": 1765946242,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 139500,
+      "num": 139500,
+      "word": "原来我早看过狙击蝴蝶电影版",
+      "onboard_time": 1765947982,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "手机最好玩的三小时",
+      "onboard_time": 1765948162,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 137769,
@@ -795,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124331,
+      "num": 124331,
+      "word": "爱你老己到底在爱啥",
+      "onboard_time": 1765948343,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123606,
       "num": 146845,
       "word": "央视起底走私孕妇血样黑产链",
@@ -835,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120412,
+      "num": 120412,
+      "word": "网易云音乐2025年度音乐奖",
+      "onboard_time": 1765949361,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118576,
       "num": 146500,
       "word": "高市早苗在国会遭嘘",
@@ -851,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115444,
+      "num": 115444,
+      "word": "小英拿着所有东西从山里搬走了",
+      "onboard_time": 1765949361,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114011,
       "num": 114011,
       "word": "杨瀚森G联赛比赛直播",
@@ -865,6 +977,14 @@
       "onboard_time": 1765934121,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111604,
+      "num": 111604,
+      "word": "欧阳娜娜牵狗上班",
+      "onboard_time": 1765949182,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109914,
@@ -1203,6 +1323,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 62233,
+      "num": 272174,
+      "word": "成毅的珠光宝计",
+      "onboard_time": 1765944862,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62216,
+      "num": 163273,
+      "word": "方城英才学校已注销",
+      "onboard_time": 1765947622,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61858,
       "num": 191053,
       "word": "京沪牛马夜班专列",
@@ -1331,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41404,
+      "num": 255885,
+      "word": "家长竟带娃野爬绝望坡练胆",
+      "onboard_time": 1765948821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40290,
       "num": 218889,
       "word": "河南学校火灾系学生使用打火机引发",
@@ -1371,12 +1515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36064,
-      "num": 272174,
-      "word": "成毅的珠光宝计",
-      "onboard_time": 1765944862,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 37056,
+      "num": 138456,
+      "word": "学生拒劝导持手机激将教官摔猫",
+      "onboard_time": 1765948821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35532,
@@ -1459,6 +1603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21100,
+      "num": 390636,
+      "word": "延时看哈尔滨大雪人建成过程",
+      "onboard_time": 1765943902,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20237,
       "num": 31697,
       "word": "刘宇宁说努力一定有用",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1765899982,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15714,
+      "num": 138378,
+      "word": "易烊千玺6部影片入选21世纪影响力榜单",
+      "onboard_time": 1765949421,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 15388,
