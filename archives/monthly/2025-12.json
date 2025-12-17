@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765964973502,
+  "endTime": 1765967638538,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3211,6 +3211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 697590,
+      "num": 206121,
+      "word": "第一次感到和欧阳娜娜有代沟",
+      "onboard_time": 1765965982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697538,
       "num": 282427,
       "word": "吴昕维嘉聊天30秒牵手转了三次圈",
@@ -4227,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610066,
+      "num": 216674,
+      "word": "德云女孩 销声匿迹",
+      "onboard_time": 1765962262,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 609953,
       "num": 289576,
       "word": "霉霉 不上价值直接给钱",
@@ -5040,6 +5056,14 @@
       "word": "王俊凯的真心",
       "onboard_time": 1765950501,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 553900,
+      "num": 202219,
+      "word": "鞠婧祎丝芭 20年合约",
+      "onboard_time": 1765965142,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -5905,6 +5929,14 @@
       "onboard_time": 1765588280,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500467,
+      "num": 1080074,
+      "word": "日议员提议去台湾换大熊猫",
+      "onboard_time": 1765962023,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 500249,
@@ -9891,14 +9923,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 351226,
-      "num": 351226,
-      "word": "日议员提议去台湾换大熊猫",
-      "onboard_time": 1765962023,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
@@ -10449,6 +10473,14 @@
       "onboard_time": 1765961181,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337645,
+      "num": 193856,
+      "word": "漂亮的李慧珍原来这么离谱",
+      "onboard_time": 1765963282,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337398,
@@ -13075,6 +13107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272431,
+      "num": 192139,
+      "word": "丝芭传媒律师声明",
+      "onboard_time": 1765965261,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272321,
       "num": 221232,
       "word": "肖战二封King",
@@ -13859,12 +13899,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 256850,
+      "num": 192441,
+      "word": "张碧晨看恶评挺爽的吧",
+      "onboard_time": 1765966043,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256611,
       "num": 225057,
       "word": "知道上林赋什么意思吗你就抄",
       "onboard_time": 1765695802,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256579,
+      "num": 191393,
+      "word": "丝芭质疑鞠婧祎玩文字游戏",
+      "onboard_time": 1765965442,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 256381,
@@ -15036,7 +15092,7 @@
     },
     {
       "raw_hot": 236228,
-      "num": 234836,
+      "num": 240296,
       "word": "月鳞绮纪",
       "onboard_time": 1765962982,
       "rank": 27,
@@ -15241,6 +15297,14 @@
       "onboard_time": 1765766722,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232409,
+      "num": 237615,
+      "word": "iPhone18Pro或摒弃药丸状挖孔",
+      "onboard_time": 1765959862,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 232385,
@@ -15907,28 +15971,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221610,
-      "num": 216674,
-      "word": "德云女孩 销声匿迹",
-      "onboard_time": 1765962262,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221565,
       "num": 136654,
       "word": "短剧可以不要虐待老人吗",
       "onboard_time": 1765303216,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221377,
-      "num": 237615,
-      "word": "iPhone18Pro或摒弃药丸状挖孔",
-      "onboard_time": 1765959862,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 221225,
@@ -18635,6 +18683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197117,
+      "num": 197117,
+      "word": "30岁健美冠军去世前几天刚体检完",
+      "onboard_time": 1765963762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197013,
       "num": 169190,
       "word": "向佐回台湾看孩子了",
@@ -19571,14 +19627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190114,
-      "num": 190114,
-      "word": "漂亮的李慧珍原来这么离谱",
-      "onboard_time": 1765963282,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190085,
       "num": 184418,
       "word": "偶遇李嘉格与男友牵手逛街",
@@ -19681,6 +19729,14 @@
       "onboard_time": 1764649702,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189463,
+      "num": 189463,
+      "word": "于正 周柯宇",
+      "onboard_time": 1765967301,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 189414,
@@ -20537,6 +20593,14 @@
       "onboard_time": 1765029804,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184032,
+      "num": 184032,
+      "word": "苏新皓送给穆祉丞的礼物",
+      "onboard_time": 1765967001,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 183997,
@@ -28163,6 +28227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139102,
+      "num": 185338,
+      "word": "当地税务局回应凳子被指形似刑具",
+      "onboard_time": 1765967600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139097,
       "num": 139097,
       "word": "吴艳妮曾鼓起勇气找苏炳添合影",
@@ -33563,14 +33635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119835,
-      "num": 124066,
-      "word": "30岁健美冠军去世前几天刚体检完",
-      "onboard_time": 1765963762,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119814,
       "num": 119814,
       "word": "鸣潮TGA玩家之声卡片好帅",
@@ -34217,6 +34281,14 @@
       "onboard_time": 1765257322,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118095,
+      "num": 184478,
+      "word": "如何确定一件衣服留不留",
+      "onboard_time": 1765965381,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118044,
@@ -35593,6 +35665,14 @@
       "onboard_time": 1764660502,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113978,
+      "num": 113978,
+      "word": "周觅叫宁艺卓宁宁",
+      "onboard_time": 1765965202,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 113950,
@@ -36985,6 +37065,14 @@
       "onboard_time": 1765324761,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109445,
+      "num": 196560,
+      "word": "孙颖莎智搜指数殿堂级第一",
+      "onboard_time": 1765965921,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 109416,
@@ -40235,6 +40323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99732,
+      "num": 178826,
+      "word": "小猫吃饭差点溺亡",
+      "onboard_time": 1765967061,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99714,
       "num": 99714,
       "word": "好一个乖乖女",
@@ -40708,7 +40804,7 @@
     },
     {
       "raw_hot": 98319,
-      "num": 98319,
+      "num": 176833,
       "word": "果然话越简短事情越大",
       "onboard_time": 1765963941,
       "rank": 47,
@@ -41587,6 +41683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95692,
+      "num": 157418,
+      "word": "小狗以为鬼压床了",
+      "onboard_time": 1765967361,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95690,
       "num": 288311,
       "word": "nova15好看",
@@ -41657,6 +41761,14 @@
       "onboard_time": 1765707982,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95450,
+      "num": 142287,
+      "word": "中金公司股票复牌",
+      "onboard_time": 1765967422,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 95448,
@@ -42073,6 +42185,14 @@
       "onboard_time": 1765197982,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93885,
+      "num": 93885,
+      "word": "美国一家7口月入2千6医保要缴1千1",
+      "onboard_time": 1765967481,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93875,
@@ -50107,6 +50227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54337,
+      "num": 180225,
+      "word": "靳朝摔书包这一下",
+      "onboard_time": 1765966822,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54328,
       "num": 272756,
       "word": "锦州为什么没有必吃榜",
@@ -50169,6 +50297,14 @@
       "onboard_time": 1764597383,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54056,
+      "num": 193258,
+      "word": "国防部回应菲方炒作仙宾礁水炮事件",
+      "onboard_time": 1765966043,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53989,
@@ -53635,6 +53771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37116,
+      "num": 180606,
+      "word": "住院2天离世男子已进行死因鉴定",
+      "onboard_time": 1765966582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36985,
       "num": 137124,
       "word": "深圳望郎归80天内3人徒步遇难",
@@ -53865,6 +54009,14 @@
       "onboard_time": 1765111881,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35610,
+      "num": 209360,
+      "word": "南方多地升温梦回10月",
+      "onboard_time": 1765964601,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35532,
@@ -58547,6 +58699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12823,
+      "num": 182768,
+      "word": "泰国袭击已致柬平民17死77伤",
+      "onboard_time": 1765967001,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12753,
       "num": 34199,
       "word": "一场被全球汽车圈围观的碰撞",
@@ -58712,14 +58872,6 @@
       "word": "白鸭绒暴涨屠宰场1个月提价3次",
       "onboard_time": 1764852261,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11631,
-      "num": 201060,
-      "word": "南方多地升温梦回10月",
-      "onboard_time": 1765964601,
-      "rank": 8,
       "category": "民生新闻"
     },
     {

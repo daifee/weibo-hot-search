@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765964973502,
+  "endTime": 1765967638538,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 697590,
+      "num": 206121,
+      "word": "第一次感到和欧阳娜娜有代沟",
+      "onboard_time": 1765965982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684279,
       "num": 248311,
       "word": "车厘子你爱吃吗 超市有卖的",
@@ -201,6 +209,14 @@
       "onboard_time": 1765948043,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610066,
+      "num": 216674,
+      "word": "德云女孩 销声匿迹",
+      "onboard_time": 1765962262,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 606496,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553900,
+      "num": 202219,
+      "word": "鞠婧祎丝芭 20年合约",
+      "onboard_time": 1765965142,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537605,
       "num": 246313,
       "word": "吴君如曾三次撮合古天乐陈妍希",
@@ -297,6 +321,14 @@
       "onboard_time": 1765929260,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500467,
+      "num": 1080074,
+      "word": "日议员提议去台湾换大熊猫",
+      "onboard_time": 1765962023,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498461,
@@ -475,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351226,
-      "num": 351226,
-      "word": "日议员提议去台湾换大熊猫",
-      "onboard_time": 1765962023,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 349888,
       "num": 349888,
       "word": "河南通报方城学校火灾事故调查结果",
@@ -521,6 +545,14 @@
       "onboard_time": 1765961181,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337645,
+      "num": 193856,
+      "word": "漂亮的李慧珍原来这么离谱",
+      "onboard_time": 1765963282,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337098,
@@ -635,6 +667,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 272431,
+      "num": 192139,
+      "word": "丝芭传媒律师声明",
+      "onboard_time": 1765965261,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271204,
       "num": 271204,
       "word": "王传君 亚健康",
@@ -657,6 +697,22 @@
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 256850,
+      "num": 192441,
+      "word": "张碧晨看恶评挺爽的吧",
+      "onboard_time": 1765966043,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256579,
+      "num": 191393,
+      "word": "丝芭质疑鞠婧祎玩文字游戏",
+      "onboard_time": 1765965442,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 250134,
@@ -692,11 +748,19 @@
     },
     {
       "raw_hot": 236228,
-      "num": 234836,
+      "num": 240296,
       "word": "月鳞绮纪",
       "onboard_time": 1765962982,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232409,
+      "num": 237615,
+      "word": "iPhone18Pro或摒弃药丸状挖孔",
+      "onboard_time": 1765959862,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 232385,
@@ -729,22 +793,6 @@
       "onboard_time": 1765945463,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221610,
-      "num": 216674,
-      "word": "德云女孩 销声匿迹",
-      "onboard_time": 1765962262,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221377,
-      "num": 237615,
-      "word": "iPhone18Pro或摒弃药丸状挖孔",
-      "onboard_time": 1765959862,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 220046,
@@ -883,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197117,
+      "num": 197117,
+      "word": "30岁健美冠军去世前几天刚体检完",
+      "onboard_time": 1765963762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196772,
       "num": 146604,
       "word": "刘亦菲的脚 脚中刘亦菲",
@@ -947,19 +1003,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190114,
-      "num": 190114,
-      "word": "漂亮的李慧珍原来这么离谱",
-      "onboard_time": 1765963282,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190059,
       "num": 190059,
       "word": "李现潜水第一次看到鲨鱼",
       "onboard_time": 1765943602,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189463,
+      "num": 189463,
+      "word": "于正 周柯宇",
+      "onboard_time": 1765967301,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -977,6 +1033,14 @@
       "onboard_time": 1765948642,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184032,
+      "num": 184032,
+      "word": "苏新皓送给穆祉丞的礼物",
+      "onboard_time": 1765967001,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 183537,
@@ -1259,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139102,
+      "num": 185338,
+      "word": "当地税务局回应凳子被指形似刑具",
+      "onboard_time": 1765967600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138135,
       "num": 230675,
       "word": "小米SU7换代或涨价2万元",
@@ -1467,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119835,
-      "num": 124066,
-      "word": "30岁健美冠军去世前几天刚体检完",
-      "onboard_time": 1765963762,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119143,
       "num": 119143,
       "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1765893625,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118095,
+      "num": 184478,
+      "word": "如何确定一件衣服留不留",
+      "onboard_time": 1765965381,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 117820,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1765941142,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113978,
+      "num": 113978,
+      "word": "周觅叫宁艺卓宁宁",
+      "onboard_time": 1765965202,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 113865,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1765930522,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109445,
+      "num": 196560,
+      "word": "孙颖莎智搜指数殿堂级第一",
+      "onboard_time": 1765965921,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 109339,
@@ -1707,6 +1795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99732,
+      "num": 178826,
+      "word": "小猫吃饭差点溺亡",
+      "onboard_time": 1765967061,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99518,
       "num": 99518,
       "word": "谷江山二什么次元采访",
@@ -1732,7 +1828,7 @@
     },
     {
       "raw_hot": 98319,
-      "num": 98319,
+      "num": 176833,
       "word": "果然话越简短事情越大",
       "onboard_time": 1765963941,
       "rank": 47,
@@ -1747,11 +1843,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95692,
+      "num": 157418,
+      "word": "小狗以为鬼压床了",
+      "onboard_time": 1765967361,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95450,
+      "num": 142287,
+      "word": "中金公司股票复牌",
+      "onboard_time": 1765967422,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95065,
       "num": 96711,
       "word": "澳一怀孕母亲为陌生3岁女孩挡子弹",
       "onboard_time": 1765962381,
       "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93885,
+      "num": 93885,
+      "word": "美国一家7口月入2千6医保要缴1千1",
+      "onboard_time": 1765967481,
+      "rank": 49,
       "category": "海外新闻"
     },
     {
@@ -2187,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54337,
+      "num": 180225,
+      "word": "靳朝摔书包这一下",
+      "onboard_time": 1765966822,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54325,
       "num": 146419,
       "word": "陈奕恒吃幸运饼干",
@@ -2201,6 +2329,14 @@
       "onboard_time": 1765961242,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54056,
+      "num": 193258,
+      "word": "国防部回应菲方炒作仙宾礁水炮事件",
+      "onboard_time": 1765966043,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53304,
@@ -2363,12 +2499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37116,
+      "num": 180606,
+      "word": "住院2天离世男子已进行死因鉴定",
+      "onboard_time": 1765966582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36919,
       "num": 228432,
       "word": "长安二十四计有阿福守护",
       "onboard_time": 1765951521,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35610,
+      "num": 209360,
+      "word": "南方多地升温梦回10月",
+      "onboard_time": 1765964601,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35532,
@@ -2651,6 +2803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12823,
+      "num": 182768,
+      "word": "泰国袭击已致柬平民17死77伤",
+      "onboard_time": 1765967001,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12680,
       "num": 29737,
       "word": "2026考研",
@@ -2665,14 +2825,6 @@
       "onboard_time": 1765946422,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 11631,
-      "num": 201060,
-      "word": "南方多地升温梦回10月",
-      "onboard_time": 1765964601,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11236,
