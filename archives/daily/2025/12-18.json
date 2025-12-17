@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766010505607,
+  "endTime": 1766011544609,
   "band_list": [
     {
       "raw_hot": 1632817,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 413052,
-      "num": 437223,
+      "num": 512001,
       "word": "女孩穿光腿神器进了急诊",
       "onboard_time": 1765986021,
       "rank": 9,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100211,
+      "num": 100211,
+      "word": "家长因送孩子晚被班主任批评",
+      "onboard_time": 1765977743,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99015,
       "num": 99015,
       "word": "双轨尺度",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69657,
+      "num": 70797,
+      "word": "没人告诉我鲁豫线下长这样",
+      "onboard_time": 1765970241,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64478,
       "num": 98909,
       "word": "iPhone锁屏的7个神操作",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 54680,
-      "num": 31110,
+      "num": 52228,
       "word": "老外一个人站在机场三个小时",
       "onboard_time": 1765998194,
       "rank": 19,
@@ -361,14 +377,6 @@
       "onboard_time": 1765975221,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53645,
-      "num": 98832,
-      "word": "家长因送孩子晚被班主任批评",
-      "onboard_time": 1765977743,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49300,
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47688,
-      "num": 70797,
-      "word": "没人告诉我鲁豫线下长这样",
-      "onboard_time": 1765970241,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47246,
       "num": 98808,
       "word": "新郎回应用1000元举办极简婚礼",
@@ -443,8 +443,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36252,
+      "num": 36252,
+      "word": "肖战练台词练到忘记说的是方言",
+      "onboard_time": 1766007854,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35614,
-      "num": 25222,
+      "num": 31641,
       "word": "流水线公主",
       "onboard_time": 1766001734,
       "rank": 41,
@@ -491,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26908,
-      "num": 26908,
-      "word": "肖战练台词练到忘记说的是方言",
-      "onboard_time": 1766007854,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24674,
       "num": 70730,
       "word": "芬兰总理谴责多人涉嫌歧视中国人",
@@ -515,12 +515,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19964,
-      "num": 25722,
+      "raw_hot": 22986,
+      "num": 31655,
       "word": "法国第一夫人道歉",
       "onboard_time": 1765976962,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22179,
+      "num": 31650,
+      "word": "刘宇宁最想上热搜是刘宇宁好听",
+      "onboard_time": 1766010135,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20778,
+      "num": 31639,
+      "word": "再坚持一下 2262年有两个春节",
+      "onboard_time": 1766011276,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 17404,
@@ -529,6 +545,14 @@
       "onboard_time": 1765978821,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17328,
+      "num": 100486,
+      "word": "我国发现新矿物金秀矿",
+      "onboard_time": 1765976722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17019,
@@ -547,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15335,
-      "num": 24583,
-      "word": "刘宇宁最想上热搜是刘宇宁好听",
-      "onboard_time": 1766010135,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 16698,
+      "num": 31632,
+      "word": "亚运冠军王莉再发声",
+      "onboard_time": 1765983983,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14771,
@@ -563,28 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14434,
-      "num": 24580,
-      "word": "亚运冠军王莉再发声",
-      "onboard_time": 1765983983,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13044,
       "num": 13044,
       "word": "成毅微博直播",
       "onboard_time": 1766004375,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12997,
-      "num": 63339,
-      "word": "我国发现新矿物金秀矿",
-      "onboard_time": 1765976722,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11420,
