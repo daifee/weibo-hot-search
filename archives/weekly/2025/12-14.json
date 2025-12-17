@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765970899013,
+  "endTime": 1765971771296,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756435,
+      "num": 1121029,
+      "word": "当地税务局回应凳子被指形似刑具",
+      "onboard_time": 1765967600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 753255,
       "num": 753255,
       "word": "王曼昱冠军",
@@ -993,14 +1001,6 @@
       "onboard_time": 1765953201,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 604846,
-      "num": 1096775,
-      "word": "当地税务局回应凳子被指形似刑具",
-      "onboard_time": 1765967600,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 602251,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 458799,
-      "num": 197931,
+      "num": 217940,
       "word": "S妈回应和具俊晔到小S家跨年",
       "onboard_time": 1765968981,
       "rank": 21,
@@ -3051,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266675,
+      "num": 231811,
+      "word": "没人告诉我鲁豫线下长这样",
+      "onboard_time": 1765970241,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266372,
       "num": 266372,
       "word": "星光大赏",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1765772783,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260489,
+      "num": 231637,
+      "word": "朝朝暮暮嘴对嘴吃草莓",
+      "onboard_time": 1765970660,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 259255,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1765859842,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233618,
+      "num": 223547,
+      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+      "onboard_time": 1765970361,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 233319,
@@ -4483,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192961,
+      "num": 227716,
+      "word": "被打乱",
+      "onboard_time": 1765971502,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192714,
       "num": 200181,
       "word": "女孩坐公交被猥亵全车无一人帮忙",
@@ -5299,14 +5331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172314,
-      "num": 172314,
-      "word": "朝朝暮暮嘴对嘴吃草莓",
-      "onboard_time": 1765970660,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172269,
       "num": 236846,
       "word": "前老板发视频吐槽张凯毅老公",
@@ -5723,6 +5747,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 158770,
+      "num": 158770,
+      "word": "鞠婧祎等7名成员总选票额过亿",
+      "onboard_time": 1765971261,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "外交部回应日本将不再有大熊猫",
@@ -5929,6 +5961,14 @@
       "onboard_time": 1765683862,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153735,
+      "num": 153735,
+      "word": "今屿雪景照",
+      "onboard_time": 1765970660,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 153383,
@@ -6259,6 +6299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146244,
+      "num": 146244,
+      "word": "最能生娃省份排名来了",
+      "onboard_time": 1765971322,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "多名艺人与丝芭解约后被限消",
@@ -6329,14 +6377,6 @@
       "onboard_time": 1765686923,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144751,
-      "num": 144751,
-      "word": "今屿雪景照",
-      "onboard_time": 1765970660,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 144717,
@@ -6427,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142611,
+      "num": 142611,
+      "word": "王大陆与女友出庭",
+      "onboard_time": 1765971200,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142510,
       "num": 142510,
       "word": "可乐不让爸妈生二胎的原因",
@@ -6497,6 +6545,14 @@
       "onboard_time": 1765714944,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140567,
+      "num": 140567,
+      "word": "丝芭律师年份写错了",
+      "onboard_time": 1765971322,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 140533,
@@ -6833,14 +6889,6 @@
       "onboard_time": 1765711704,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135425,
-      "num": 135425,
-      "word": "没人告诉我鲁豫线下长这样",
-      "onboard_time": 1765970241,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 135424,
@@ -7411,6 +7459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126191,
+      "num": 200664,
+      "word": "车厘子火速降价",
+      "onboard_time": 1765967842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126185,
       "num": 126185,
       "word": "以前评论vs现在评论",
@@ -7588,7 +7644,7 @@
     },
     {
       "raw_hot": 123405,
-      "num": 211505,
+      "num": 235338,
       "word": "剑来宁姚又美又飒",
       "onboard_time": 1765967842,
       "rank": 32,
@@ -7641,14 +7697,6 @@
       "onboard_time": 1765774343,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122732,
-      "num": 199445,
-      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
-      "onboard_time": 1765970361,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 122682,
@@ -8763,14 +8811,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 108038,
-      "num": 177868,
-      "word": "车厘子火速降价",
-      "onboard_time": 1765967842,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107783,
       "num": 107783,
       "word": "国防部双语正告日本",
@@ -9003,6 +9043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103931,
+      "num": 198770,
+      "word": "东风蒯递混双搭档的魅力",
+      "onboard_time": 1765971081,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103723,
       "num": 103723,
       "word": "华为Mate80掉湖里51小时捞起还能用",
@@ -9177,6 +9225,14 @@
       "onboard_time": 1765888940,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101380,
+      "num": 130410,
+      "word": "健美运动员王昆去世",
+      "onboard_time": 1765970901,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101357,
@@ -9433,6 +9489,14 @@
       "onboard_time": 1765687643,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98384,
+      "num": 124336,
+      "word": "广州大学教授悼念同窗感动全网",
+      "onboard_time": 1765971741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98368,
@@ -10153,6 +10217,14 @@
       "onboard_time": 1765690402,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90975,
+      "num": 233677,
+      "word": "福建舰 台湾海峡",
+      "onboard_time": 1765970481,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90953,
@@ -11065,6 +11137,14 @@
       "onboard_time": 1765808122,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72665,
+      "num": 144938,
+      "word": "王一博无名文艺片票房top1",
+      "onboard_time": 1765971381,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 72519,
@@ -12419,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42313,
+      "num": 262471,
+      "word": "鸿蒙3D影像定格精彩",
+      "onboard_time": 1765967660,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42260,
       "num": 113180,
       "word": "凌晨1点钙片卡住喉咙怎么办",
@@ -12513,6 +12601,14 @@
       "onboard_time": 1765776621,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40368,
+      "num": 142746,
+      "word": "税务局定做便民竹凳被指单价偏贵",
+      "onboard_time": 1765970541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40292,
@@ -12737,14 +12833,6 @@
       "onboard_time": 1765966582,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36994,
-      "num": 262471,
-      "word": "鸿蒙3D影像定格精彩",
-      "onboard_time": 1765967660,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 36947,
@@ -13403,14 +13491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27344,
-      "num": 200320,
-      "word": "福建舰 台湾海峡",
-      "onboard_time": 1765970481,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27304,
       "num": 198996,
       "word": "我国成功发射资源三号04星",
@@ -13457,14 +13537,6 @@
       "onboard_time": 1765789760,
       "rank": 8,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 26337,
-      "num": 135685,
-      "word": "税务局定做便民竹凳被指单价偏贵",
-      "onboard_time": 1765970541,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26274,
@@ -13571,6 +13643,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 24715,
+      "num": 266891,
+      "word": "流感预防药物不能代替疫苗",
+      "onboard_time": 1765964122,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24690,
       "num": 194186,
       "word": "日本防卫费近五年激增约60%",
@@ -13601,14 +13681,6 @@
       "onboard_time": 1765964122,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24349,
-      "num": 266891,
-      "word": "流感预防药物不能代替疫苗",
-      "onboard_time": 1765964122,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24280,
@@ -14059,6 +14131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13143,
+      "num": 220968,
+      "word": "美防长拒绝公开袭船完整视频",
+      "onboard_time": 1765971442,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12987,
       "num": 22889,
       "word": "张泽禹跟登陆少年海报合照",
@@ -14209,6 +14289,14 @@
       "onboard_time": 1765789942,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7143,
+      "num": 144771,
+      "word": "终于有偶像剧是让女主占到红利",
+      "onboard_time": 1765971442,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 6339,

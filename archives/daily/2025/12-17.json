@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765970899013,
+  "endTime": 1765971771296,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756435,
+      "num": 1121029,
+      "word": "当地税务局回应凳子被指形似刑具",
+      "onboard_time": 1765967600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750138,
       "num": 364288,
       "word": "李连杰 我女儿生下来就是享福的",
@@ -225,14 +233,6 @@
       "onboard_time": 1765953201,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 604846,
-      "num": 1096775,
-      "word": "当地税务局回应凳子被指形似刑具",
-      "onboard_time": 1765967600,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 584774,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 458799,
-      "num": 197931,
+      "num": 217940,
       "word": "S妈回应和具俊晔到小S家跨年",
       "onboard_time": 1765968981,
       "rank": 21,
@@ -731,12 +731,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266675,
+      "num": 231811,
+      "word": "没人告诉我鲁豫线下长这样",
+      "onboard_time": 1765970241,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263466,
       "num": 263466,
       "word": "两次四六级等于一顿烤肉自助",
       "onboard_time": 1765944322,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 260489,
+      "num": 231637,
+      "word": "朝朝暮暮嘴对嘴吃草莓",
+      "onboard_time": 1765970660,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 256850,
@@ -785,6 +801,14 @@
       "onboard_time": 1765952901,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233618,
+      "num": 223547,
+      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+      "onboard_time": 1765970361,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 232409,
@@ -979,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192961,
+      "num": 227716,
+      "word": "被打乱",
+      "onboard_time": 1765971502,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192904,
       "num": 146658,
       "word": "教师猥亵儿童妻子因社会压力提离婚",
@@ -1131,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172314,
-      "num": 172314,
-      "word": "朝朝暮暮嘴对嘴吃草莓",
-      "onboard_time": 1765970660,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172269,
       "num": 172269,
       "word": "前老板发视频吐槽张凯毅老公",
@@ -1187,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158770,
+      "num": 158770,
+      "word": "鞠婧祎等7名成员总选票额过亿",
+      "onboard_time": 1765971261,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158315,
       "num": 158315,
       "word": "肖战一直在等重庆话的剧本",
@@ -1211,8 +1243,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153735,
+      "num": 153735,
+      "word": "今屿雪景照",
+      "onboard_time": 1765970660,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153419,
-      "num": 214869,
+      "num": 235620,
       "word": "双轨",
       "onboard_time": 1765906218,
       "rank": 7,
@@ -1331,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146244,
+      "num": 146244,
+      "word": "最能生娃省份排名来了",
+      "onboard_time": 1765971322,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "多名艺人与丝芭解约后被限消",
@@ -1347,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144751,
-      "num": 144751,
-      "word": "今屿雪景照",
-      "onboard_time": 1765970660,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142923,
       "num": 142923,
       "word": "王铮亮一个跨晚一天官宣三次",
@@ -1363,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142611,
+      "num": 142611,
+      "word": "王大陆与女友出庭",
+      "onboard_time": 1765971200,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142510,
       "num": 142510,
       "word": "可乐不让爸妈生二胎的原因",
       "onboard_time": 1765952121,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140567,
+      "num": 140567,
+      "word": "丝芭律师年份写错了",
+      "onboard_time": 1765971322,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139500,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1765935800,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135425,
-      "num": 135425,
-      "word": "没人告诉我鲁豫线下长这样",
-      "onboard_time": 1765970241,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 134850,
@@ -1523,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126191,
+      "num": 200664,
+      "word": "车厘子火速降价",
+      "onboard_time": 1765967842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125440,
       "num": 247620,
       "word": "古人的穿搭竟然比我想的open",
@@ -1564,7 +1620,7 @@
     },
     {
       "raw_hot": 123405,
-      "num": 211505,
+      "num": 235338,
       "word": "剑来宁姚又美又飒",
       "onboard_time": 1765967842,
       "rank": 32,
@@ -1585,14 +1641,6 @@
       "onboard_time": 1765968263,
       "rank": 34,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 122732,
-      "num": 199445,
-      "word": "刘宇宁让欧阳娣娣爱哭回家哭",
-      "onboard_time": 1765970361,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 122227,
@@ -1835,14 +1883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108038,
-      "num": 177868,
-      "word": "车厘子火速降价",
-      "onboard_time": 1765967842,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106949,
       "num": 132074,
       "word": "韩国教授提出汉字教育",
@@ -1907,6 +1947,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103931,
+      "num": 198770,
+      "word": "东风蒯递混双搭档的魅力",
+      "onboard_time": 1765971081,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101380,
+      "num": 130410,
+      "word": "健美运动员王昆去世",
+      "onboard_time": 1765970901,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101357,
       "num": 101357,
       "word": "阴阳师",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1765901481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98384,
+      "num": 124336,
+      "word": "广州大学教授悼念同窗感动全网",
+      "onboard_time": 1765971741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98368,
@@ -2049,6 +2113,14 @@
       "onboard_time": 1765936820,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90975,
+      "num": 233677,
+      "word": "福建舰 台湾海峡",
+      "onboard_time": 1765970481,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90684,
@@ -2249,6 +2321,14 @@
       "onboard_time": 1765896387,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 72665,
+      "num": 144938,
+      "word": "王一博无名文艺片票房top1",
+      "onboard_time": 1765971381,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 72396,
@@ -2595,12 +2675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42313,
+      "num": 262471,
+      "word": "鸿蒙3D影像定格精彩",
+      "onboard_time": 1765967660,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42260,
       "num": 113180,
       "word": "凌晨1点钙片卡住喉咙怎么办",
       "onboard_time": 1765955063,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40368,
+      "num": 142746,
+      "word": "税务局定做便民竹凳被指单价偏贵",
+      "onboard_time": 1765970541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40290,
@@ -2673,14 +2769,6 @@
       "onboard_time": 1765966582,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36994,
-      "num": 262471,
-      "word": "鸿蒙3D影像定格精彩",
-      "onboard_time": 1765967660,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 36919,
@@ -2787,14 +2875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27344,
-      "num": 200320,
-      "word": "福建舰 台湾海峡",
-      "onboard_time": 1765970481,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27169,
       "num": 66320,
       "word": "孟子义尚公主白金大氅",
@@ -2811,19 +2891,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26337,
-      "num": 135685,
-      "word": "税务局定做便民竹凳被指单价偏贵",
-      "onboard_time": 1765970541,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25953,
       "num": 124167,
       "word": "同行质疑公牛误导宣传被索赔420万",
       "onboard_time": 1765963521,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24715,
+      "num": 266891,
+      "word": "流感预防药物不能代替疫苗",
+      "onboard_time": 1765964122,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2841,14 +2921,6 @@
       "onboard_time": 1765964122,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24349,
-      "num": 266891,
-      "word": "流感预防药物不能代替疫苗",
-      "onboard_time": 1765964122,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24345,
@@ -2995,6 +3067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13143,
+      "num": 220968,
+      "word": "美防长拒绝公开袭船完整视频",
+      "onboard_time": 1765971442,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12908,
       "num": 172507,
       "word": "比伯15年后站在原地唱Baby",
@@ -3049,6 +3129,14 @@
       "onboard_time": 1765891703,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7143,
+      "num": 144771,
+      "word": "终于有偶像剧是让女主占到红利",
+      "onboard_time": 1765971442,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 4437,

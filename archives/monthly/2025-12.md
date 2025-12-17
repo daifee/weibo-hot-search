@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/17 19:28:19
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/17 19:42:51
 </p>
 </blockquote>
 <p>
@@ -2061,6 +2061,12 @@ RW战胜JDG（热度：804085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E5%87%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E5%BD%A2%E4%BC%BC%E5%88%91%E5%85%B7%23" target="weibo">
+当地税务局回应凳子被指形似刑具（热度：756435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E5%AE%8C%E9%A4%90%E5%A4%96%E5%8D%96%E5%91%98%E5%B7%AE%E7%82%B9%E5%90%90%E4%BA%86%23" target="weibo">
 取完餐外卖员差点吐了（热度：755939）
 </a>
@@ -3227,12 +3233,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E8%BD%AC%E4%B8%96%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%23" target="weibo">
 东北雨姐转世账号被关闭（热度：605153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E5%87%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E5%BD%A2%E4%BC%BC%E5%88%91%E5%85%B7%23" target="weibo">
-当地税务局回应凳子被指形似刑具（热度：604846）
 </a>
 </li>
 
