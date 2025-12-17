@@ -1,0 +1,410 @@
+{
+  "runTime": 1765979565700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062949,
+        "num": 1170071,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652172,
+        "num": 652172,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43555,
+        "num": 607392,
+        "word": "2025大国重器震撼人心",
+        "onboard_time": 1765977021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795915,
+        "num": 607283,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 605594,
+        "num": 605594,
+        "word": "法国第一夫人道歉",
+        "onboard_time": 1765976962,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 488687,
+        "num": 488687,
+        "word": "骄阳似我OST阵容官宣",
+        "onboard_time": 1765976902,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357523,
+        "num": 357523,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330114,
+        "num": 330114,
+        "word": "双轨尺度",
+        "onboard_time": 1765972581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30028,
+        "num": 328734,
+        "word": "冬天里的大美中国",
+        "onboard_time": 1765977108,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195830,
+        "num": 326109,
+        "word": "CBA",
+        "onboard_time": 1765978821,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536663,
+        "num": 325266,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504466,
+        "num": 321990,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321874,
+        "num": 321874,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314707,
+        "num": 314707,
+        "word": "唐诡奇谭一集好短",
+        "onboard_time": 1765975402,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240895,
+        "num": 240895,
+        "word": "白鹿修图师",
+        "onboard_time": 1765972461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 193071,
+        "word": "南京博物院",
+        "onboard_time": 1765978883,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191239,
+        "num": 191239,
+        "word": "镇政府回应未婚同居每年交500元告示",
+        "onboard_time": 1765972821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186676,
+        "num": 186676,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184982,
+        "num": 184982,
+        "word": "南京博物院回应馆藏现拍卖市场",
+        "onboard_time": 1765978883,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183463,
+        "num": 183463,
+        "word": "朝朝暮暮嘴对嘴吃草莓",
+        "onboard_time": 1765970660,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 705118,
+        "num": 183257,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353691,
+        "num": 182841,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310088,
+        "num": 182330,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 181898,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245114,
+        "num": 181550,
+        "word": "当地税务局回应凳子被指形似刑具",
+        "onboard_time": 1765967600,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235028,
+        "num": 181346,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215900,
+        "num": 180883,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215315,
+        "num": 180279,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200859,
+        "num": 179937,
+        "word": "刘奕君私下摸了王劲松胸肌",
+        "onboard_time": 1765978342,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179707,
+        "num": 179707,
+        "word": "黄轩你怎么了",
+        "onboard_time": 1765977576,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191134,
+        "num": 178108,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173022,
+        "num": 173022,
+        "word": "女教师新婚当天坠亡引发三个反思",
+        "onboard_time": 1765976449,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66141,
+        "num": 170324,
+        "word": "好友称30岁健美运动员生前感染流感",
+        "onboard_time": 1765977743,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169194,
+        "num": 169194,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155605,
+        "num": 155605,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143562,
+        "num": 143562,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143262,
+        "num": 143262,
+        "word": "德云女孩 销声匿迹",
+        "onboard_time": 1765962262,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140207,
+        "num": 140207,
+        "word": "月鳞绮纪",
+        "onboard_time": 1765962982,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55322,
+        "num": 138471,
+        "word": "美国人因汉堡太小起诉麦当劳",
+        "onboard_time": 1765979423,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69350,
+        "num": 137988,
+        "word": "网红餐厅老板醉驾撞死23岁环卫工",
+        "onboard_time": 1765978821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137833,
+        "num": 137833,
+        "word": "怪不得麦当劳是减肥餐",
+        "onboard_time": 1765958902,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139615,
+        "num": 137043,
+        "word": "丝芭发文回应曾艳芬",
+        "onboard_time": 1765979304,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134327,
+        "num": 134327,
+        "word": "车厘子你爱吃吗 超市有卖的",
+        "onboard_time": 1765958601,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55764,
+        "num": 132645,
+        "word": "1000元办婚礼的夫妻回应争议",
+        "onboard_time": 1765978221,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132407,
+        "num": 132407,
+        "word": "央视曝光套路贷新手段",
+        "onboard_time": 1765979483,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131715,
+        "num": 131715,
+        "word": "长生",
+        "onboard_time": 1765977576,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132120,
+        "num": 123650,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114131,
+        "num": 114131,
+        "word": "谁在纵容4400万粉丝网红擦边直播",
+        "onboard_time": 1765979123,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104163,
+        "num": 104163,
+        "word": "美殡仪馆误将逝者脑组织当衣物交还",
+        "onboard_time": 1765972341,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92047,
+        "num": 103738,
+        "word": "CBA常规赛",
+        "onboard_time": 1765979544,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
