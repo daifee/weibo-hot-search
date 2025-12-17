@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765979565700,
+  "endTime": 1765981919853,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844317,
+      "num": 240651,
+      "word": "鞠婧祎 王一栩",
+      "onboard_time": 1765980624,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842194,
       "num": 1128950,
       "word": "女子被大狗撞倒身亡丈夫住进ICU",
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653233,
+      "num": 237522,
+      "word": "丝芭传媒报警",
+      "onboard_time": 1765979363,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652172,
       "num": 652172,
       "word": "男子中1750万彩票朋友跟买中35万",
@@ -921,6 +937,14 @@
       "onboard_time": 1765867101,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 631883,
+      "num": 631883,
+      "word": "双轨直播",
+      "onboard_time": 1765977921,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 629442,
@@ -1419,20 +1443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 504466,
-      "num": 348846,
-      "word": "双轨直播",
-      "onboard_time": 1765977921,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 503877,
       "num": 503877,
       "word": "骄阳似我OST阵容官宣",
       "onboard_time": 1765976902,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502587,
+      "num": 329153,
+      "word": "樊振东需通过资格赛获奥运参赛席位",
+      "onboard_time": 1765979602,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 501376,
@@ -2475,6 +2499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 335091,
+      "num": 335091,
+      "word": "南京博物院",
+      "onboard_time": 1765978883,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334604,
       "num": 334604,
       "word": "唐诡奇谭一集好短",
@@ -2617,6 +2649,14 @@
       "onboard_time": 1765886841,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 313529,
+      "num": 234765,
+      "word": "嫌犯把孕妇血绑身上走私",
+      "onboard_time": 1765980144,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313217,
@@ -3803,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224168,
+      "num": 224168,
+      "word": "南京博物院回应馆藏现拍卖市场",
+      "onboard_time": 1765978883,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224135,
       "num": 224135,
       "word": "王玉雯看小说看一半喵上了",
@@ -4291,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "丝芭发文回应曾艳芬",
+      "onboard_time": 1765979304,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204538,
       "num": 204538,
       "word": "刘亦菲早就爱你老己了",
@@ -4657,14 +4713,6 @@
       "onboard_time": 1765752016,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193071,
-      "num": 193071,
-      "word": "南京博物院",
-      "onboard_time": 1765978883,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192961,
@@ -5057,14 +5105,6 @@
       "onboard_time": 1765884682,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184982,
-      "num": 184982,
-      "word": "南京博物院回应馆藏现拍卖市场",
-      "onboard_time": 1765978883,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184728,
@@ -5609,6 +5649,14 @@
       "onboard_time": 1765946422,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168943,
+      "num": 168943,
+      "word": "家长因送孩子晚被班主任批评",
+      "onboard_time": 1765977743,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168392,
@@ -6315,6 +6363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150659,
+      "num": 150659,
+      "word": "坠亡女教师生前称未婚夫只会气人",
+      "onboard_time": 1765980082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150354,
       "num": 150354,
       "word": "花一百万就给我看这个",
@@ -6555,6 +6611,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145441,
+      "num": 145441,
+      "word": "京辽大战判罚",
+      "onboard_time": 1765981523,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145315,
+      "num": 145315,
+      "word": "南京博物院回应仇英名作现身拍卖市场",
+      "onboard_time": 1765981821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145287,
       "num": 145287,
       "word": "天价救护车涉事医院被罚没8.7万",
@@ -6633,14 +6705,6 @@
       "onboard_time": 1765774225,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143562,
-      "num": 143562,
-      "word": "丝芭传媒报警",
-      "onboard_time": 1765979363,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 143224,
@@ -6801,14 +6865,6 @@
       "onboard_time": 1765706902,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139615,
-      "num": 137043,
-      "word": "丝芭发文回应曾艳芬",
-      "onboard_time": 1765979304,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 139500,
@@ -7361,14 +7417,6 @@
       "onboard_time": 1765872203,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132120,
-      "num": 123739,
-      "word": "家长因送孩子晚被班主任批评",
-      "onboard_time": 1765977743,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131965,
@@ -8731,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113072,
+      "num": 113072,
+      "word": "第一批提前回家过年摆摊的人",
+      "onboard_time": 1765980864,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112554,
       "num": 112554,
       "word": "文班亚马22分",
@@ -8809,6 +8865,14 @@
       "onboard_time": 1765764800,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "陈清晨郑思维黄雅琼刘雨辰退役仪式",
+      "onboard_time": 1765981704,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 111807,
@@ -9787,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99005,
+      "num": 99005,
+      "word": "坠楼女教师有已婚哥哥和未婚弟弟",
+      "onboard_time": 1765981163,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98942,
       "num": 141703,
       "word": "回顾2025中国健儿高光时刻",
@@ -9800,6 +9872,14 @@
       "word": "不必质疑莎头退赛动机",
       "onboard_time": 1765787301,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98791,
+      "num": 98791,
+      "word": "杨鸣连吃两T被驱逐",
+      "onboard_time": 1765979662,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -10635,6 +10715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90468,
+      "num": 137988,
+      "word": "网红餐厅老板醉驾撞死23岁环卫工",
+      "onboard_time": 1765978821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90218,
       "num": 90218,
       "word": "樊振东瘦了很多",
@@ -10657,6 +10745,14 @@
       "onboard_time": 1765693522,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89995,
+      "num": 89995,
+      "word": "冬天这些水果蒸着吃能养生",
+      "onboard_time": 1765980923,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89983,
@@ -11691,14 +11787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69350,
-      "num": 137988,
-      "word": "网红餐厅老板醉驾撞死23岁环卫工",
-      "onboard_time": 1765978821,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69184,
       "num": 218678,
       "word": "140岁落叶松救活一片荒漠",
@@ -12627,6 +12715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49977,
+      "num": 607392,
+      "word": "2025大国重器震撼人心",
+      "onboard_time": 1765977021,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49727,
       "num": 152403,
       "word": "海南封关会咋样",
@@ -12873,14 +12969,6 @@
       "onboard_time": 1765773024,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43555,
-      "num": 607392,
-      "word": "2025大国重器震撼人心",
-      "onboard_time": 1765977021,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43316,
@@ -13417,6 +13505,14 @@
       "onboard_time": 1765685302,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34546,
+      "num": 112209,
+      "word": "这会员惊喜多得像过年",
+      "onboard_time": 1765980082,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 34479,
@@ -14059,6 +14155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25310,
+      "num": 268080,
+      "word": "回顾2025赛场拼搏瞬间",
+      "onboard_time": 1765976449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25290,
       "num": 114439,
       "word": "乔任梁爸爸出院了",
@@ -14505,14 +14609,6 @@
       "onboard_time": 1765825635,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14790,
-      "num": 123598,
-      "word": "回顾2025赛场拼搏瞬间",
-      "onboard_time": 1765976449,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 14549,
