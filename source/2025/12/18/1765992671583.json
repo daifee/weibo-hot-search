@@ -1,0 +1,410 @@
+{
+  "runTime": 1765992671583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291238,
+        "num": 437223,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163373,
+        "num": 163373,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23013,
+        "num": 153654,
+        "word": "海南封关会咋样",
+        "onboard_time": 1765976449,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144373,
+        "num": 144373,
+        "word": "孤注一掷未曝光片场照",
+        "onboard_time": 1765986800,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134117,
+        "num": 134117,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179305,
+        "num": 130580,
+        "word": "丝芭传媒报警",
+        "onboard_time": 1765979363,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104981,
+        "num": 104981,
+        "word": "电影孤注一掷",
+        "onboard_time": 1765976002,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89790,
+        "num": 89790,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80637,
+        "num": 80637,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76776,
+        "num": 76776,
+        "word": "男子中1750万彩票朋友跟买中35万",
+        "onboard_time": 1765974622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170973,
+        "num": 76740,
+        "word": "袁咏仪不爱买包张智霖也害怕",
+        "onboard_time": 1765987222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 74773,
+        "word": "万青",
+        "onboard_time": 1765986501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102580,
+        "num": 72589,
+        "word": "27岁女子没来过例假一查竟是男儿芯",
+        "onboard_time": 1765985721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92830,
+        "num": 70441,
+        "word": "鞠婧祎 王一栩",
+        "onboard_time": 1765980624,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82361,
+        "num": 69656,
+        "word": "外交部回应泰国缴获中国制造装备",
+        "onboard_time": 1765988899,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68001,
+        "num": 68001,
+        "word": "高市早苗又表态台湾问题",
+        "onboard_time": 1765962623,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63926,
+        "num": 63926,
+        "word": "丝芭让女艺人陪酒若属实可能被拘留",
+        "onboard_time": 1765991178,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61051,
+        "num": 61051,
+        "word": "香港打击街头卖淫",
+        "onboard_time": 1765985063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41877,
+        "num": 61049,
+        "word": "警方通报27岁男子机场打人",
+        "onboard_time": 1765984941,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 37820,
+        "num": 61031,
+        "word": "国家医保局发文回应生娃不花钱",
+        "onboard_time": 1765982782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892351,
+        "num": 61005,
+        "word": "我不喝可乐",
+        "onboard_time": 1765986623,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162405,
+        "num": 61003,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138902,
+        "num": 60988,
+        "word": "一天 小郑嘻嘻",
+        "onboard_time": 1765984583,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55359,
+        "num": 60963,
+        "word": "Jasper和吴尊一家滑雪",
+        "onboard_time": 1765988001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54434,
+        "num": 60943,
+        "word": "家里不穿的毛衣不要扔了",
+        "onboard_time": 1765975101,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50131,
+        "num": 60937,
+        "word": "刘宇宁让欧阳娣娣爱哭回家哭",
+        "onboard_time": 1765970361,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47994,
+        "num": 60921,
+        "word": "双轨",
+        "onboard_time": 1765968861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42552,
+        "num": 60905,
+        "word": "迪丽热巴19岁时就在爱你老己了",
+        "onboard_time": 1765975221,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 60889,
+        "word": "嫌犯把孕妇血绑身上走私",
+        "onboard_time": 1765980144,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31655,
+        "num": 60860,
+        "word": "山姆车厘子30天狂降100元",
+        "onboard_time": 1765975282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44324,
+        "num": 60852,
+        "word": "网传欧美小孩在日本地铁踩踏座椅",
+        "onboard_time": 1765986921,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42007,
+        "num": 60842,
+        "word": "老舅",
+        "onboard_time": 1765978463,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41544,
+        "num": 60816,
+        "word": "骄阳似我OST阵容官宣",
+        "onboard_time": 1765976902,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40751,
+        "num": 60807,
+        "word": "白鹿修图师",
+        "onboard_time": 1765972461,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38508,
+        "num": 60791,
+        "word": "李在明动作失误被夫人肘击",
+        "onboard_time": 1765975823,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39964,
+        "num": 60775,
+        "word": "王子异 抑郁症",
+        "onboard_time": 1765956143,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38933,
+        "num": 60755,
+        "word": "双轨尺度",
+        "onboard_time": 1765972581,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37820,
+        "num": 60735,
+        "word": "没人告诉我鲁豫线下长这样",
+        "onboard_time": 1765970241,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30047,
+        "num": 60728,
+        "word": "泰军炮击柬埔寨境内赌场电诈基地",
+        "onboard_time": 1765991596,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29080,
+        "num": 60702,
+        "word": "家长因送孩子晚被班主任批评",
+        "onboard_time": 1765977743,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38691,
+        "num": 60688,
+        "word": "Angelababy参加上海网红聚会",
+        "onboard_time": 1765961424,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36192,
+        "num": 60676,
+        "word": "mike太好笑了",
+        "onboard_time": 1765984163,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36031,
+        "num": 60652,
+        "word": "陈妍希说最难的时候被女性救赎了",
+        "onboard_time": 1765986321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28468,
+        "num": 60638,
+        "word": "福建舰 台湾海峡",
+        "onboard_time": 1765970481,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31245,
+        "num": 60622,
+        "word": "ThaiSweet樱花舞MV",
+        "onboard_time": 1765983322,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25288,
+        "num": 60617,
+        "word": "南京博物院回应仇英名作现身拍卖市场",
+        "onboard_time": 1765981821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24674,
+        "num": 60601,
+        "word": "芬兰总理谴责多人涉嫌歧视中国人",
+        "onboard_time": 1765985842,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24479,
+        "num": 60583,
+        "word": "iPhone锁屏的7个神操作",
+        "onboard_time": 1765986201,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20472,
+        "num": 60557,
+        "word": "警务人员开警车接送孩子被停职",
+        "onboard_time": 1765982062,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17206,
+        "num": 60556,
+        "word": "CBA",
+        "onboard_time": 1765978821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
