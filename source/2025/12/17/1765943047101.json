@@ -1,0 +1,410 @@
+{
+  "runTime": 1765943047101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1844987,
+        "num": 1844987,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652083,
+        "num": 652083,
+        "word": "哑舍开播",
+        "onboard_time": 1765940780,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9404,
+        "num": 503873,
+        "word": "中央经济工作会议热点简读",
+        "onboard_time": 1765891703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 669044,
+        "num": 502067,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426405,
+        "num": 426405,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 577811,
+        "num": 403354,
+        "word": "杀死29岁陌生女子凶手精神鉴定无病",
+        "onboard_time": 1765938381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631709,
+        "num": 363289,
+        "word": "哈尔滨穿单裤 血管冻裂",
+        "onboard_time": 1765939880,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278990,
+        "num": 278990,
+        "word": "脑瘫女孩3年帮家里还债40余万",
+        "onboard_time": 1765929260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220046,
+        "num": 220046,
+        "word": "小米发布最新MiMo大模型",
+        "onboard_time": 1765934780,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40290,
+        "num": 218889,
+        "word": "河南学校火灾系学生使用打火机引发",
+        "onboard_time": 1765942341,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 473031,
+        "num": 217993,
+        "word": "王阳救场王传君千里江山图",
+        "onboard_time": 1765940902,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398370,
+        "num": 214965,
+        "word": "丝芭说鞠婧祎经常报销和工作无关支出",
+        "onboard_time": 1765938259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391736,
+        "num": 214600,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365955,
+        "num": 212222,
+        "word": "王俊凯粉丝脱粉是玩梗还是抹黑",
+        "onboard_time": 1765935981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291345,
+        "num": 209446,
+        "word": "Angelababy妆",
+        "onboard_time": 1765939340,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 225502,
+        "num": 208173,
+        "word": "河南通报方城学校火灾事故调查结果",
+        "onboard_time": 1765937901,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 334019,
+        "num": 207053,
+        "word": "丝芭曾拒付鞠婧祎发型师费用",
+        "onboard_time": 1765940540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205531,
+        "num": 205531,
+        "word": "女孩回应坐公交被猥亵无一人帮忙",
+        "onboard_time": 1765933161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198515,
+        "num": 198515,
+        "word": "王橹杰花自会诉说心声",
+        "onboard_time": 1765942701,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196646,
+        "num": 196646,
+        "word": "警惕1644史观带乱了节奏",
+        "onboard_time": 1765942101,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909002,
+        "num": 196641,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371761,
+        "num": 196628,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205149,
+        "num": 196626,
+        "word": "郭柯宇影后就是影后",
+        "onboard_time": 1765939942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196585,
+        "num": 196585,
+        "word": "前阿里中层吐槽上万人号称高管",
+        "onboard_time": 1765941203,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204997,
+        "num": 195728,
+        "word": "小米天才少女罗福莉首次登场",
+        "onboard_time": 1765941742,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194690,
+        "num": 194690,
+        "word": "HLE经理爆料Viper拒绝续约",
+        "onboard_time": 1765942942,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191595,
+        "num": 191595,
+        "word": "阿凡达3",
+        "onboard_time": 1765941982,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156193,
+        "num": 156193,
+        "word": "脑瘫女孩60S广告报价4.2万",
+        "onboard_time": 1765940902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154938,
+        "num": 154938,
+        "word": "日本民众告别大熊猫只能看1分钟",
+        "onboard_time": 1765934121,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 153538,
+        "word": "准新郎嫌女友吃得太多要求退婚退钱",
+        "onboard_time": 1765938740,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 153449,
+        "word": "孩子给自己舔出个羊胡子疮",
+        "onboard_time": 1765942581,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146154,
+        "num": 146154,
+        "word": "多名艺人与丝芭解约后被限消",
+        "onboard_time": 1765941501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142923,
+        "num": 142923,
+        "word": "王铮亮一个跨晚一天官宣三次",
+        "onboard_time": 1765943002,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134091,
+        "num": 134091,
+        "word": "幼儿园园长1年给老师发3次黄金",
+        "onboard_time": 1765940540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130685,
+        "num": 130685,
+        "word": "TFING全员事业批",
+        "onboard_time": 1765942042,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129691,
+        "num": 129691,
+        "word": "B站跨晚捅了猴子窝",
+        "onboard_time": 1765942402,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126892,
+        "num": 126892,
+        "word": "阿凡达3遇冷",
+        "onboard_time": 1765933161,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125833,
+        "num": 125833,
+        "word": "2025微博之夜",
+        "onboard_time": 1765941682,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125297,
+        "num": 125297,
+        "word": "有翡",
+        "onboard_time": 1765901001,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56402,
+        "num": 123654,
+        "word": "女大学生校内溺亡同学手机定位发现",
+        "onboard_time": 1765942341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123310,
+        "num": 123310,
+        "word": "刘谦抗癌成功后首登跨晚",
+        "onboard_time": 1765940603,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120297,
+        "num": 120297,
+        "word": "万宁致歉",
+        "onboard_time": 1765939401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117793,
+        "num": 117793,
+        "word": "双轨",
+        "onboard_time": 1765906218,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117426,
+        "num": 117426,
+        "word": "孙颖莎听黄公主高歌一曲",
+        "onboard_time": 1765941382,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113573,
+        "num": 113573,
+        "word": "苹果计划发布至少7款iPhone",
+        "onboard_time": 1765939040,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 113385,
+        "word": "面试其实筛选掉了很多真正做事的人",
+        "onboard_time": 1765930341,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109765,
+        "num": 109765,
+        "word": "德国总理差点哭了",
+        "onboard_time": 1765930401,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109297,
+        "num": 109297,
+        "word": "杨瀚森G联赛比赛直播",
+        "onboard_time": 1765941142,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108826,
+        "num": 108826,
+        "word": "东北虎雪地睡觉还冒热气",
+        "onboard_time": 1765937660,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106619,
+        "num": 106619,
+        "word": "第一次见手拉手吵架的",
+        "onboard_time": 1765942942,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取岑浩辉述职报告#"
+    }
+  }
+}

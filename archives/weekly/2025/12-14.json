@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1765942147051,
+  "endTime": 1765943047101,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1844987,
+      "num": 1844987,
+      "word": "明年生娃基本不用再花钱",
+      "onboard_time": 1765938320,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1798811,
       "num": 291923,
       "word": "毛人龙许文婷分手",
@@ -97,14 +105,6 @@
       "onboard_time": 1765891401,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1590166,
-      "num": 1590166,
-      "word": "明年生娃基本不用再花钱",
-      "onboard_time": 1765938320,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1546117,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 757178,
-      "num": 194957,
+      "num": 502067,
       "word": "周柯宇居然还有个哥哥在拍短剧",
       "onboard_time": 1765938259,
       "rank": 47,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652083,
+      "num": 652083,
+      "word": "哑舍开播",
+      "onboard_time": 1765940780,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 650974,
       "num": 307286,
       "word": "温峥嵘称已刑事立案",
@@ -753,6 +761,14 @@
       "onboard_time": 1765867101,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 631709,
+      "num": 363289,
+      "word": "哈尔滨穿单裤 血管冻裂",
+      "onboard_time": 1765939880,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 629442,
@@ -859,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 586018,
-      "num": 586018,
-      "word": "哑舍开播",
-      "onboard_time": 1765940780,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 582717,
       "num": 582717,
       "word": "小洛熙",
@@ -897,6 +905,14 @@
       "onboard_time": 1765774942,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577811,
+      "num": 403354,
+      "word": "杀死29岁陌生女子凶手精神鉴定无病",
+      "onboard_time": 1765938381,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575795,
@@ -1059,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 524021,
-      "num": 323312,
-      "word": "哈尔滨穿单裤 血管冻裂",
-      "onboard_time": 1765939880,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 521315,
       "num": 521315,
       "word": "王王队演唱会",
@@ -1096,14 +1104,6 @@
       "word": "霸王茶姬创始人婚礼人手一杯奶茶",
       "onboard_time": 1765809623,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511471,
-      "num": 331886,
-      "word": "杀死29岁陌生女子凶手精神鉴定无病",
-      "onboard_time": 1765938381,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473031,
+      "num": 217993,
+      "word": "王阳救场王传君千里江山图",
+      "onboard_time": 1765940902,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468397,
       "num": 327018,
       "word": "何晴离世前用尽全身力气拉紧儿子的手",
@@ -1435,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426405,
+      "num": 426405,
+      "word": "收入分配制度或迎重大改革",
+      "onboard_time": 1765936641,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 425740,
       "num": 185148,
       "word": "A股",
@@ -1476,7 +1492,7 @@
     },
     {
       "raw_hot": 420982,
-      "num": 179689,
+      "num": 196628,
       "word": "身体严重缺觉的8个表现",
       "onboard_time": 1765939880,
       "rank": 21,
@@ -1532,7 +1548,7 @@
     },
     {
       "raw_hot": 414732,
-      "num": 211054,
+      "num": 214965,
       "word": "丝芭说鞠婧祎经常报销和工作无关支出",
       "onboard_time": 1765938259,
       "rank": 16,
@@ -1651,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391736,
+      "num": 214600,
+      "word": "俄乌冲突",
+      "onboard_time": 1765939821,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391436,
       "num": 353529,
       "word": "胡歌李沁开机照",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1765667897,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386491,
-      "num": 386491,
-      "word": "收入分配制度或迎重大改革",
-      "onboard_time": 1765936641,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 385856,
@@ -1779,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364687,
-      "num": 190763,
-      "word": "王阳救场王传君千里江山图",
-      "onboard_time": 1765940902,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360043,
       "num": 360043,
       "word": "天价救护车事件涉事医院被罚",
@@ -1844,7 +1852,7 @@
     },
     {
       "raw_hot": 350309,
-      "num": 182335,
+      "num": 207053,
       "word": "丝芭曾拒付鞠婧祎发型师费用",
       "onboard_time": 1765940540,
       "rank": 17,
@@ -2171,14 +2179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 305877,
-      "num": 188814,
-      "word": "俄乌冲突",
-      "onboard_time": 1765939821,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 302266,
       "num": 270841,
       "word": "秦俊杰是去体制内进修过吧",
@@ -2265,6 +2265,14 @@
       "onboard_time": 1765894163,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291345,
+      "num": 209446,
+      "word": "Angelababy妆",
+      "onboard_time": 1765939340,
+      "rank": 15,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 290081,
@@ -2947,14 +2955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236125,
-      "num": 186996,
-      "word": "Angelababy妆",
-      "onboard_time": 1765939340,
-      "rank": 15,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 234966,
       "num": 216821,
       "word": "李雾回来已经过了25了",
@@ -3193,6 +3193,14 @@
       "onboard_time": 1765864644,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220046,
+      "num": 261890,
+      "word": "小米发布最新MiMo大模型",
+      "onboard_time": 1765934780,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 219952,
@@ -3515,12 +3523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205149,
+      "num": 196626,
+      "word": "郭柯宇影后就是影后",
+      "onboard_time": 1765939942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205002,
       "num": 185125,
       "word": "今年冬天会遇见心软的伞兵吗",
       "onboard_time": 1765883961,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204997,
+      "num": 195728,
+      "word": "小米天才少女罗福莉首次登场",
+      "onboard_time": 1765941742,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 204684,
@@ -3699,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198515,
+      "num": 198515,
+      "word": "王橹杰花自会诉说心声",
+      "onboard_time": 1765942701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198485,
       "num": 198485,
       "word": "DeepSeek崩了",
@@ -3763,6 +3795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196646,
+      "num": 196646,
+      "word": "警惕1644史观带乱了节奏",
+      "onboard_time": 1765942101,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "前阿里中层吐槽上万人号称高管",
+      "onboard_time": 1765941203,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196580,
       "num": 196580,
       "word": "洪尧说吴谨言怎么吃都不胖",
@@ -3785,22 +3833,6 @@
       "onboard_time": 1765862002,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 196406,
-      "num": 261890,
-      "word": "小米发布最新MiMo大模型",
-      "onboard_time": 1765934780,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 196133,
-      "num": 178904,
-      "word": "郭柯宇影后就是影后",
-      "onboard_time": 1765939942,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 195962,
@@ -3843,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194690,
+      "num": 194690,
+      "word": "HLE经理爆料Viper拒绝续约",
+      "onboard_time": 1765942942,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194600,
       "num": 194600,
       "word": "郭碧婷爸爸发文感谢女儿婆家",
@@ -3873,6 +3913,14 @@
       "onboard_time": 1765856901,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191595,
+      "num": 191595,
+      "word": "阿凡达3",
+      "onboard_time": 1765941982,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191446,
@@ -4315,14 +4363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178837,
-      "num": 178837,
-      "word": "小米天才少女罗福莉首次登场",
-      "onboard_time": 1765941742,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 178790,
       "num": 178790,
       "word": "王楚钦孙颖莎本月还要打乒超",
@@ -4755,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163430,
+      "num": 153449,
+      "word": "孩子给自己舔出个羊胡子疮",
+      "onboard_time": 1765942581,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163411,
       "num": 163411,
       "word": "樊振东接受萨尔报采访",
@@ -5067,6 +5115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156193,
+      "num": 156193,
+      "word": "脑瘫女孩60S广告报价4.2万",
+      "onboard_time": 1765940902,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155921,
       "num": 155920,
       "word": "我们吃的砂糖橘可能是蜜桔",
@@ -5323,14 +5379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147470,
-      "num": 181300,
-      "word": "前阿里中层吐槽上万人号称高管",
-      "onboard_time": 1765941203,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147194,
       "num": 134123,
       "word": "丝芭 伪造补充协议",
@@ -5401,6 +5449,14 @@
       "onboard_time": 1765862002,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146154,
+      "num": 146154,
+      "word": "多名艺人与丝芭解约后被限消",
+      "onboard_time": 1765941501,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 145694,
@@ -5539,20 +5595,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142923,
+      "num": 142923,
+      "word": "王铮亮一个跨晚一天官宣三次",
+      "onboard_time": 1765943002,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "刘奕君 咋还跟这小鲜肉过不去呢",
       "onboard_time": 1765859421,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142610,
-      "num": 142610,
-      "word": "阿凡达3",
-      "onboard_time": 1765941982,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 142491,
@@ -5611,27 +5667,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140873,
-      "num": 139794,
-      "word": "警惕1644史观带乱了节奏",
-      "onboard_time": 1765942101,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140589,
       "num": 180893,
       "word": "宁波去世患儿手术操作存在过失",
       "onboard_time": 1765714944,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140538,
-      "num": 140538,
-      "word": "脑瘫女孩60S广告报价4.2万",
-      "onboard_time": 1765940902,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -6235,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130685,
+      "num": 130685,
+      "word": "TFING全员事业批",
+      "onboard_time": 1765942042,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130648,
       "num": 130648,
       "word": "微博年度能量人物推荐",
@@ -6289,6 +6337,14 @@
       "onboard_time": 1765726762,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129691,
+      "num": 129691,
+      "word": "B站跨晚捅了猴子窝",
+      "onboard_time": 1765942402,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 129550,
@@ -6441,14 +6497,6 @@
       "onboard_time": 1765889182,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 126559,
-      "num": 126559,
-      "word": "多名艺人与丝芭解约后被限消",
-      "onboard_time": 1765941501,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 126462,
@@ -7673,6 +7721,14 @@
       "onboard_time": 1765701681,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106619,
+      "num": 106619,
+      "word": "第一次见手拉手吵架的",
+      "onboard_time": 1765942942,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 106311,
@@ -10075,14 +10131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63661,
-      "num": 125614,
-      "word": "TFING全员事业批",
-      "onboard_time": 1765942042,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63477,
       "num": 107256,
       "word": "小弗晒与樊振东及队友合影",
@@ -10441,6 +10489,14 @@
       "onboard_time": 1765639342,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56402,
+      "num": 123654,
+      "word": "女大学生校内溺亡同学手机定位发现",
+      "onboard_time": 1765942341,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56319,
@@ -10969,6 +11025,14 @@
       "onboard_time": 1765803864,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40290,
+      "num": 218889,
+      "word": "河南学校火灾系学生使用打火机引发",
+      "onboard_time": 1765942341,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 40202,
@@ -12084,7 +12148,7 @@
     },
     {
       "raw_hot": 19759,
-      "num": 429048,
+      "num": 503873,
       "word": "中央经济工作会议热点简读",
       "onboard_time": 1765891703,
       "rank": 2,
