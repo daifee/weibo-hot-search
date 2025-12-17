@@ -1,0 +1,410 @@
+{
+  "runTime": 1765950443952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647642,
+        "num": 1103622,
+        "word": "女教师新婚坠亡一楼业主要求赔偿",
+        "onboard_time": 1765946242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615987,
+        "num": 615987,
+        "word": "明年生娃基本不用再花钱",
+        "onboard_time": 1765938320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20717,
+        "num": 499695,
+        "word": "山东舰正式入列6周年",
+        "onboard_time": 1765929739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484752,
+        "num": 484752,
+        "word": "网红柴犬佩奇中毒死亡",
+        "onboard_time": 1765948043,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340003,
+        "num": 340003,
+        "word": "俄乌冲突",
+        "onboard_time": 1765939821,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178950,
+        "num": 339532,
+        "word": "台军通报福建舰通过台湾海峡",
+        "onboard_time": 1765943782,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165380,
+        "num": 335999,
+        "word": "哑舍开播",
+        "onboard_time": 1765940780,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188350,
+        "num": 334840,
+        "word": "小米天才少女罗福莉首次登场",
+        "onboard_time": 1765941742,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 331472,
+        "word": "延时看哈尔滨大雪人建成过程",
+        "onboard_time": 1765943902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135507,
+        "num": 329351,
+        "word": "收入分配制度或迎重大改革",
+        "onboard_time": 1765936641,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 623830,
+        "num": 328531,
+        "word": "李连杰 我女儿生下来就是享福的",
+        "onboard_time": 1765947863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326877,
+        "num": 326877,
+        "word": "虞书欣ThaiMu",
+        "onboard_time": 1765945402,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270788,
+        "num": 270788,
+        "word": "李兰迪 6块9的水姐觉得有点不值",
+        "onboard_time": 1765945281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267183,
+        "num": 267183,
+        "word": "陈飞宇哥哥居然也在影视圈",
+        "onboard_time": 1765947863,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266327,
+        "num": 266327,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1765939880,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263868,
+        "num": 263868,
+        "word": "王传君 亚健康",
+        "onboard_time": 1765947082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224904,
+        "num": 224904,
+        "word": "两次四六级等于一顿烤肉自助",
+        "onboard_time": 1765944322,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 202957,
+        "num": 202957,
+        "word": "脑瘫美妆博主被质疑装病",
+        "onboard_time": 1765946542,
+        "rank": 17,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 197421,
+        "num": 197421,
+        "word": "精神病男子射杀邻居改判死刑",
+        "onboard_time": 1765947622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24690,
+        "num": 194186,
+        "word": "日本防卫费近五年激增约60%",
+        "onboard_time": 1765950022,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3640782,
+        "num": 192434,
+        "word": "汪苏泷 孩子",
+        "onboard_time": 1765947563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466141,
+        "num": 186867,
+        "word": "王一博 我在乎",
+        "onboard_time": 1765943121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348413,
+        "num": 184219,
+        "word": "张韶涵也是裁员裁到大动脉了",
+        "onboard_time": 1765929680,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342776,
+        "num": 179164,
+        "word": "不是所有法拉利老了都还是法拉利",
+        "onboard_time": 1765945222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251825,
+        "num": 176682,
+        "word": "周柯宇居然还有个哥哥在拍短剧",
+        "onboard_time": 1765938259,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200011,
+        "num": 173149,
+        "word": "内娱第一位230斤的爱豆出现了",
+        "onboard_time": 1765950022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 170783,
+        "word": "泡面的时候千万别玩手机",
+        "onboard_time": 1765948462,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56320,
+        "num": 170080,
+        "word": "家长竟带娃野爬绝望坡练胆",
+        "onboard_time": 1765948821,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169858,
+        "num": 169858,
+        "word": "大爷用502胶水给违停车贴警示语",
+        "onboard_time": 1765948522,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167432,
+        "num": 167432,
+        "word": "小英拿着所有东西从山里搬走了",
+        "onboard_time": 1765949361,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 159271,
+        "word": "汪苏泷方辟谣",
+        "onboard_time": 1765950261,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158909,
+        "num": 158909,
+        "word": "杀死29岁陌生女子凶手精神鉴定无病",
+        "onboard_time": 1765938381,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148913,
+        "num": 148913,
+        "word": "刘亦菲早就爱你老己了",
+        "onboard_time": 1765944262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141486,
+        "num": 141486,
+        "word": "警惕1644史观带乱了节奏",
+        "onboard_time": 1765942101,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135636,
+        "num": 135636,
+        "word": "手机最好玩的三小时",
+        "onboard_time": 1765948162,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135303,
+        "num": 135303,
+        "word": "小米SU7换代或涨价2万元",
+        "onboard_time": 1765949721,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132518,
+        "num": 132518,
+        "word": "孩子给自己舔出个羊胡子疮",
+        "onboard_time": 1765942581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45945,
+        "num": 130969,
+        "word": "易烊千玺6部影片入选21世纪影响力榜单",
+        "onboard_time": 1765949421,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40001,
+        "num": 130434,
+        "word": "中介回应入住女生合租房发现3男子",
+        "onboard_time": 1765949541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15271,
+        "num": 130032,
+        "word": "印首都有毒烟雾致40多个航班取消",
+        "onboard_time": 1765949603,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129912,
+        "num": 129912,
+        "word": "小米新一代SU7明年二季度上市",
+        "onboard_time": 1765948642,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126140,
+        "num": 126140,
+        "word": "有翡",
+        "onboard_time": 1765901001,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126054,
+        "num": 126054,
+        "word": "双轨 处处吻",
+        "onboard_time": 1765945762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125198,
+        "num": 125198,
+        "word": "鞠婧祎前队友曾艳芬发声",
+        "onboard_time": 1765950380,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+        "onboard_time": 1765950201,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123439,
+        "num": 123439,
+        "word": "尼克斯夺NBA杯总冠军",
+        "onboard_time": 1765946183,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123262,
+        "num": 123262,
+        "word": "网易云音乐2025年度音乐奖",
+        "onboard_time": 1765949361,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119143,
+        "num": 119143,
+        "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
+        "onboard_time": 1765950201,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57316,
+        "num": 118912,
+        "word": "学生拒劝导持手机激将教官摔猫",
+        "onboard_time": 1765948821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121921,
+        "num": 118212,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1765897885,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#帮助未成年人扣好人生第一粒扣子#"
+    }
+  }
+}

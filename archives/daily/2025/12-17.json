@@ -1,6 +1,6 @@
 {
   "startTime": 1765903185942,
-  "endTime": 1765949475511,
+  "endTime": 1765950443952,
   "band_list": [
     {
       "raw_hot": 4854933,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2965021,
+      "raw_hot": 3640782,
       "num": 254053,
       "word": "汪苏泷 孩子",
       "onboard_time": 1765947563,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 732992,
-      "num": 732992,
+      "num": 1103622,
       "word": "女教师新婚坠亡一楼业主要求赔偿",
       "onboard_time": 1765946242,
       "rank": 34,
@@ -107,20 +107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 623830,
+      "num": 364288,
+      "word": "李连杰 我女儿生下来就是享福的",
+      "onboard_time": 1765947863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577811,
       "num": 403354,
       "word": "杀死29岁陌生女子凶手精神鉴定无病",
       "onboard_time": 1765938381,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545395,
-      "num": 364288,
-      "word": "李连杰 我女儿生下来就是享福的",
-      "onboard_time": 1765947863,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 528514,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 484752,
+      "num": 484752,
+      "word": "网红柴犬佩奇中毒死亡",
+      "onboard_time": 1765948043,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483665,
       "num": 254827,
       "word": "工作35年被延迟退休的自白",
@@ -161,14 +169,6 @@
       "onboard_time": 1765940902,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471968,
-      "num": 471968,
-      "word": "网红柴犬佩奇中毒死亡",
-      "onboard_time": 1765948043,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456799,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267183,
+      "num": 267183,
+      "word": "陈飞宇哥哥居然也在影视圈",
+      "onboard_time": 1765947863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263466,
       "num": 263466,
       "word": "两次四六级等于一顿烤肉自助",
@@ -369,14 +377,6 @@
       "onboard_time": 1765930401,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247521,
-      "num": 247521,
-      "word": "陈飞宇哥哥居然也在影视圈",
-      "onboard_time": 1765947863,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 247129,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200011,
+      "num": 173149,
+      "word": "内娱第一位230斤的爱豆出现了",
+      "onboard_time": 1765950022,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198515,
       "num": 198515,
       "word": "王橹杰花自会诉说心声",
@@ -529,6 +537,14 @@
       "onboard_time": 1765943540,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197421,
+      "num": 197421,
+      "word": "精神病男子射杀邻居改判死刑",
+      "onboard_time": 1765947622,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197164,
@@ -659,12 +675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165321,
-      "num": 165321,
-      "word": "精神病男子射杀邻居改判死刑",
-      "onboard_time": 1765947622,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 167432,
+      "num": 167432,
+      "word": "小英拿着所有东西从山里搬走了",
+      "onboard_time": 1765949361,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 161864,
@@ -681,6 +697,14 @@
       "onboard_time": 1765889662,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159271,
+      "num": 159271,
+      "word": "汪苏泷方辟谣",
+      "onboard_time": 1765950261,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 158315,
@@ -843,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135303,
+      "num": 135303,
+      "word": "小米SU7换代或涨价2万元",
+      "onboard_time": 1765949721,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134850,
       "num": 134850,
       "word": "万宁致歉",
@@ -883,6 +915,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "鞠婧祎前队友曾艳芬发声",
+      "onboard_time": 1765950380,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "叙前总统阿萨德一家在莫斯科近况曝光",
+      "onboard_time": 1765950201,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124331,
       "num": 124331,
       "word": "爱你老己到底在爱啥",
@@ -897,6 +945,14 @@
       "onboard_time": 1765886421,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 123262,
+      "num": 123262,
+      "word": "网易云音乐2025年度音乐奖",
+      "onboard_time": 1765949361,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 122227,
@@ -931,12 +987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120412,
-      "num": 120412,
-      "word": "网易云音乐2025年度音乐奖",
-      "onboard_time": 1765949361,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 119143,
+      "num": 119143,
+      "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
+      "onboard_time": 1765950201,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118576,
@@ -953,14 +1009,6 @@
       "onboard_time": 1765939040,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 115444,
-      "num": 115444,
-      "word": "小英拿着所有东西从山里搬走了",
-      "onboard_time": 1765949361,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 114011,
@@ -1379,11 +1427,27 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 57316,
+      "num": 138456,
+      "word": "学生拒劝导持手机激将教官摔猫",
+      "onboard_time": 1765948821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56402,
       "num": 123654,
       "word": "女大学生校内溺亡同学手机定位发现",
       "onboard_time": 1765942341,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56320,
+      "num": 255885,
+      "word": "家长竟带娃野爬绝望坡练胆",
+      "onboard_time": 1765948821,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1451,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45945,
+      "num": 138378,
+      "word": "易烊千玺6部影片入选21世纪影响力榜单",
+      "onboard_time": 1765949421,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45053,
       "num": 146372,
       "word": "原来喝苹果水有这么多好处",
@@ -1464,14 +1536,6 @@
       "word": "2200万人的精细化治理实验",
       "onboard_time": 1765944862,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41404,
-      "num": 255885,
-      "word": "家长竟带娃野爬绝望坡练胆",
-      "onboard_time": 1765948821,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1489,6 +1553,14 @@
       "onboard_time": 1765909755,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40001,
+      "num": 130434,
+      "word": "中介回应入住女生合租房发现3男子",
+      "onboard_time": 1765949541,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38978,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1765904358,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37056,
-      "num": 138456,
-      "word": "学生拒劝导持手机激将教官摔猫",
-      "onboard_time": 1765948821,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35532,
@@ -1555,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30997,
+      "num": 390636,
+      "word": "延时看哈尔滨大雪人建成过程",
+      "onboard_time": 1765943902,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30446,
       "num": 105243,
       "word": "在哈尔滨游客称室内外温差近50度",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1765905976,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24690,
+      "num": 194186,
+      "word": "日本防卫费近五年激增约60%",
+      "onboard_time": 1765950022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24487,
@@ -1603,14 +1683,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21100,
-      "num": 390636,
-      "word": "延时看哈尔滨大雪人建成过程",
-      "onboard_time": 1765943902,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20237,
       "num": 31697,
       "word": "刘宇宁说努力一定有用",
@@ -1643,20 +1715,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 15714,
-      "num": 138378,
-      "word": "易烊千玺6部影片入选21世纪影响力榜单",
-      "onboard_time": 1765949421,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 15388,
       "num": 30717,
       "word": "小狗穿棉衣在雪地行走神似肉松面包",
       "onboard_time": 1765908194,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 130032,
+      "word": "印首都有毒烟雾致40多个航班取消",
+      "onboard_time": 1765949603,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14880,
