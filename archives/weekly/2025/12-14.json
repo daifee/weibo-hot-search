@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766040989666,
+  "endTime": 1766043005730,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -169,6 +169,14 @@
       "onboard_time": 1766021000,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1414605,
+      "num": 286112,
+      "word": "海南封关",
+      "onboard_time": 1766040441,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1405447,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668790,
+      "num": 261139,
+      "word": "徐冬冬终于嫁给了自己的童年偶像",
+      "onboard_time": 1766041281,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668193,
       "num": 530799,
       "word": "何晴被曝患脑瘤后淡出演艺圈",
@@ -921,6 +937,14 @@
       "onboard_time": 1765940780,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 651425,
+      "num": 260333,
+      "word": "曝流量女星拍戏要求点满1000元肯德基",
+      "onboard_time": 1766040681,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 650974,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 564695,
-      "num": 276332,
+      "num": 291638,
       "word": "55岁三星长公主李富真露面",
       "onboard_time": 1766038222,
       "rank": 30,
@@ -2804,7 +2828,7 @@
     },
     {
       "raw_hot": 334738,
-      "num": 221869,
+      "num": 255917,
       "word": "丝芭就曾艳芬陪酒言论报警",
       "onboard_time": 1766039181,
       "rank": 15,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1765760962,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317139,
+      "num": 247336,
+      "word": "胡先煦王安宇在欧洲待不住",
+      "onboard_time": 1766040322,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 316444,
@@ -3995,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "曝现偶男女主吵架致剧组停工",
+      "onboard_time": 1766038821,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247129,
       "num": 233111,
       "word": "孩子给自己舔出个羊胡子疮",
@@ -4097,14 +4137,6 @@
       "onboard_time": 1765843340,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235415,
-      "num": 197915,
-      "word": "曝流量女星拍戏要求点满1000元肯德基",
-      "onboard_time": 1766040681,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 235084,
@@ -4499,14 +4531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 217323,
-      "num": 180457,
-      "word": "胡先煦王安宇在欧洲待不住",
-      "onboard_time": 1766040322,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217249,
       "num": 217249,
       "word": "美术馆回应黄金凤冠被男童触碰损坏",
@@ -4707,20 +4731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209089,
+      "num": 194488,
+      "word": "丝芭传媒报警回执单",
+      "onboard_time": 1766041100,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208832,
       "num": 208832,
       "word": "祝绪丹上半身戴了6个蝴蝶结",
       "onboard_time": 1765721903,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208756,
-      "num": 208756,
-      "word": "海南封关",
-      "onboard_time": 1766040441,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208707,
@@ -4824,6 +4848,14 @@
       "word": "袁咏仪不爱买包张智霖也害怕",
       "onboard_time": 1765987222,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206321,
+      "num": 194138,
+      "word": "廖慧佳的礼服才30块钱",
+      "onboard_time": 1766042121,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5033,6 +5065,14 @@
       "onboard_time": 1765780103,
       "rank": 9,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 202459,
+      "num": 202459,
+      "word": "考研弃考率",
+      "onboard_time": 1766038881,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 202362,
@@ -5353,6 +5393,14 @@
       "onboard_time": 1766021959,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193457,
+      "num": 193457,
+      "word": "虞书欣谁说眼泪不值钱",
+      "onboard_time": 1766042661,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 193302,
@@ -6851,14 +6899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157481,
-      "num": 157481,
-      "word": "考研弃考率",
-      "onboard_time": 1766038881,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157405,
       "num": 157405,
       "word": "肖战我还没有亲你呢",
@@ -6921,6 +6961,14 @@
       "onboard_time": 1766035402,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156543,
+      "num": 156543,
+      "word": "于正 李雾姑父照进现实",
+      "onboard_time": 1766041461,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156371,
@@ -6993,14 +7041,6 @@
       "onboard_time": 1765703002,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154718,
-      "num": 144268,
-      "word": "曝现偶男女主吵架致剧组停工",
-      "onboard_time": 1766038821,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 154661,
@@ -7395,6 +7435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146449,
+      "num": 114888,
+      "word": "大孤山",
+      "onboard_time": 1766042061,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146432,
       "num": 146432,
       "word": "幼儿园园长1年给老师发3次黄金",
@@ -7587,6 +7635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "比亚迪第1500万辆新能源汽车下线",
+      "onboard_time": 1766041521,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "原神那维莱特",
@@ -7624,6 +7680,14 @@
       "word": "王铮亮一个跨晚一天官宣三次",
       "onboard_time": 1765943002,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142775,
+      "num": 114539,
+      "word": "汪苏泷 下面这段送给周深",
+      "onboard_time": 1766042540,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -7745,6 +7809,14 @@
       "onboard_time": 1765866440,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139806,
+      "num": 116248,
+      "word": "尹子维终于有名分了",
+      "onboard_time": 1766040681,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139764,
@@ -8403,6 +8475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131738,
+      "num": 114031,
+      "word": "丝芭董事长成被执行人",
+      "onboard_time": 1766042901,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 131717,
+      "num": 195273,
+      "word": "Faker呼唤Peanut回来",
+      "onboard_time": 1766042901,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131329,
       "num": 131329,
       "word": "2025式人民警察制式服装正式列装",
@@ -8833,6 +8921,14 @@
       "onboard_time": 1765702403,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125629,
+      "num": 113781,
+      "word": "贺峻霖全场最高评分赢下比赛",
+      "onboard_time": 1766041521,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125565,
@@ -9291,6 +9387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120655,
+      "num": 188476,
+      "word": "中国EUV光刻自主研发获重大进展",
+      "onboard_time": 1766042361,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120484,
       "num": 121131,
       "word": "北京雪地惊现蚊子爬行",
@@ -9595,6 +9699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116451,
+      "num": 273058,
+      "word": "电竞热搜名梗盘点",
+      "onboard_time": 1766042061,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116411,
       "num": 110746,
       "word": "王楚钦疑似背部受伤",
@@ -9619,12 +9731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116248,
-      "num": 116248,
-      "word": "尹子维终于有名分了",
-      "onboard_time": 1766040681,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 116281,
+      "num": 116281,
+      "word": "辅导作业这届家长有的是力气和手段",
+      "onboard_time": 1766042841,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 116187,
@@ -9753,6 +9865,22 @@
       "onboard_time": 1765708222,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114953,
+      "num": 114953,
+      "word": "T1与GEN全员入围最佳阵容",
+      "onboard_time": 1766041521,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114761,
+      "num": 114761,
+      "word": "报销 反向抹零",
+      "onboard_time": 1766042001,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 114718,
@@ -9944,6 +10072,14 @@
       "word": "张本智和发球回抛",
       "onboard_time": 1765696284,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113123,
+      "num": 157384,
+      "word": "樊振东发完球就爆冲",
+      "onboard_time": 1766041461,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -11611,12 +11747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93887,
+      "num": 113601,
+      "word": "顺灏股份涨停",
+      "onboard_time": 1766042481,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93875,
       "num": 93875,
       "word": "大批美军增援抵达叙利亚",
       "onboard_time": 1765679125,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93831,
+      "num": 113272,
+      "word": "我国发现储量3900余吨巨型金矿",
+      "onboard_time": 1766041760,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93774,
@@ -13347,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68430,
+      "num": 115219,
+      "word": "5岁男孩玩打火机烧了自家别墅",
+      "onboard_time": 1766042841,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68357,
       "num": 247752,
       "word": "虞书欣姜暮暴力萝莉",
@@ -15067,6 +15227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36455,
+      "num": 114813,
+      "word": "警方回应护士更衣室被偷装摄像头",
+      "onboard_time": 1766041642,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36252,
       "num": 42815,
       "word": "肖战练台词练到忘记说的是方言",
@@ -16112,6 +16280,14 @@
       "word": "流星雨",
       "onboard_time": 1765625061,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22734,
+      "num": 196449,
+      "word": "医院护士站更衣室被偷装摄像头",
+      "onboard_time": 1766042722,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
