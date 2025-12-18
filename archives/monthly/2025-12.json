@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766076884261,
+  "endTime": 1766079021703,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -13531,6 +13531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283541,
+      "num": 283541,
+      "word": "我的女友怕len",
+      "onboard_time": 1766076258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283151,
       "num": 410752,
       "word": "光与夜之恋新周边",
@@ -16089,6 +16097,14 @@
       "onboard_time": 1765009523,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238303,
+      "num": 79251,
+      "word": "三星长公主曾不顾反对下嫁司机",
+      "onboard_time": 1766075959,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238253,
@@ -37843,14 +37859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115582,
-      "num": 79251,
-      "word": "三星长公主曾不顾反对下嫁司机",
-      "onboard_time": 1766075959,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 115547,
       "num": 115547,
       "word": "何与肌肉线条",
@@ -49643,14 +49651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79646,
-      "num": 79646,
-      "word": "我的女友怕len",
-      "onboard_time": 1766076258,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79636,
       "num": 79636,
       "word": "梅西投票登贝莱",
@@ -55475,6 +55475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48694,
+      "num": 65679,
+      "word": "张凯毅凤冠事件后掉粉超43万",
+      "onboard_time": 1766076437,
+      "rank": 48,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 48647,
       "num": 204312,
       "word": "蚂蚁集团推出AI健康应用阿福",
@@ -56169,6 +56177,14 @@
       "onboard_time": 1766014819,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45154,
+      "num": 55221,
+      "word": "小狗用舌头给主人刮痧治病",
+      "onboard_time": 1766076378,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 45134,
@@ -56969,14 +56985,6 @@
       "onboard_time": 1765709002,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41502,
-      "num": 65679,
-      "word": "张凯毅凤冠事件后掉粉超43万",
-      "onboard_time": 1766076437,
-      "rank": 48,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 41397,
@@ -58529,6 +58537,14 @@
       "onboard_time": 1765007721,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35047,
+      "num": 55097,
+      "word": "几块和几十块的盐区别大吗",
+      "onboard_time": 1766077818,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 35016,
@@ -60345,6 +60361,14 @@
       "onboard_time": 1766037682,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 27824,
+      "num": 54947,
+      "word": "微博网友年度喜爱电影",
+      "onboard_time": 1766078895,
+      "rank": 48,
+      "category": "作品衍生,电影"
     },
     {
       "raw_hot": 27823,
@@ -63625,6 +63649,14 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11403,
+      "num": 224365,
+      "word": "海南自由贸易港今起全岛封关",
+      "onboard_time": 1766063603,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11244,

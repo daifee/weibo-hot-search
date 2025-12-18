@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766076884261,
+  "endTime": 1766079021703,
   "band_list": [
     {
       "raw_hot": 433191,
@@ -43,12 +43,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283541,
+      "num": 283541,
+      "word": "我的女友怕len",
+      "onboard_time": 1766076258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257357,
       "num": 137436,
       "word": "台退将称日本只能来台湾换柴犬",
       "onboard_time": 1766074460,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238303,
+      "num": 79251,
+      "word": "三星长公主曾不顾反对下嫁司机",
+      "onboard_time": 1766075959,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220503,
@@ -107,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130826,
+      "num": 138740,
+      "word": "阿凡达3",
+      "onboard_time": 1766069781,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129791,
       "num": 146376,
       "word": "高市早苗5秒变脸",
@@ -128,14 +152,6 @@
       "word": "泰国彻夜播放鬼叫声恐吓柬村民",
       "onboard_time": 1766056461,
       "rank": 5,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115582,
-      "num": 79251,
-      "word": "三星长公主曾不顾反对下嫁司机",
-      "onboard_time": 1766075959,
-      "rank": 47,
       "category": "海外新闻"
     },
     {
@@ -217,22 +233,6 @@
       "onboard_time": 1766072001,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79646,
-      "num": 79646,
-      "word": "我的女友怕len",
-      "onboard_time": 1766076258,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 71700,
-      "num": 138740,
-      "word": "阿凡达3",
-      "onboard_time": 1766069781,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 69631,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48694,
+      "num": 65679,
+      "word": "张凯毅凤冠事件后掉粉超43万",
+      "onboard_time": 1766076437,
+      "rank": 48,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 48274,
       "num": 79500,
       "word": "iPhone千万不能把内存用完",
@@ -395,20 +403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45154,
+      "num": 55221,
+      "word": "小狗用舌头给主人刮痧治病",
+      "onboard_time": 1766076378,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44797,
       "num": 79191,
       "word": "女子路边买麻花摊主切完要价160元",
       "onboard_time": 1766069661,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41502,
-      "num": 65679,
-      "word": "张凯毅凤冠事件后掉粉超43万",
-      "onboard_time": 1766076437,
-      "rank": 48,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 40255,
@@ -425,6 +433,30 @@
       "onboard_time": 1766067021,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35047,
+      "num": 55097,
+      "word": "几块和几十块的盐区别大吗",
+      "onboard_time": 1766077818,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 27824,
+      "num": 54947,
+      "word": "微博网友年度喜爱电影",
+      "onboard_time": 1766078895,
+      "rank": 48,
+      "category": "作品衍生,电影"
+    },
+    {
+      "raw_hot": 11403,
+      "num": 224365,
+      "word": "海南自由贸易港今起全岛封关",
+      "onboard_time": 1766063603,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
