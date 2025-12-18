@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766096883889,
+  "endTime": 1766097871052,
   "band_list": [
     {
       "raw_hot": 433191,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293538,
+      "num": 136328,
+      "word": "三星长公主曾不顾反对下嫁司机",
+      "onboard_time": 1766075959,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 292477,
       "num": 85170,
       "word": "双轨直播 搞笑",
@@ -57,14 +65,6 @@
       "onboard_time": 1766074460,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 238303,
-      "num": 108769,
-      "word": "三星长公主曾不顾反对下嫁司机",
-      "onboard_time": 1766075959,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 220503,
@@ -251,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65060,
+      "num": 79630,
+      "word": "合肥警方通报一46岁男子身亡",
+      "onboard_time": 1766069002,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63358,
       "num": 79743,
       "word": "迪丽热巴飞毛腿cha",
@@ -289,14 +297,6 @@
       "onboard_time": 1766061863,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58600,
-      "num": 79630,
-      "word": "合肥警方通报一46岁男子身亡",
-      "onboard_time": 1766069002,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58294,
@@ -387,6 +387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 48009,
+      "num": 48009,
+      "word": "人的出场顺序真的很重要",
+      "onboard_time": 1766095574,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47640,
       "num": 79303,
       "word": "重庆一对7旬夫妇被邻居老人打死",
@@ -443,20 +451,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 31238,
+      "num": 31238,
+      "word": "男子养异宠被咬致截肢",
+      "onboard_time": 1766059580,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29931,
+      "num": 31237,
+      "word": "喀纳斯景区通报一人被埋身亡",
+      "onboard_time": 1766097617,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29919,
       "num": 46718,
       "word": "济南泄漏热力管道已抢修完毕",
       "onboard_time": 1766051960,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28978,
-      "num": 28978,
-      "word": "人的出场顺序真的很重要",
-      "onboard_time": 1766095574,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 28624,
@@ -483,11 +499,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24542,
-      "num": 29973,
-      "word": "男子养异宠被咬致截肢",
-      "onboard_time": 1766059580,
-      "rank": 34,
+      "raw_hot": 23837,
+      "num": 224365,
+      "word": "海南自由贸易港今起全岛封关",
+      "onboard_time": 1766063603,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23277,
+      "num": 31206,
+      "word": "美国11月CPI意外回落",
+      "onboard_time": 1766096895,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23227,
       "num": 44932,
       "word": "谢淮安之二十四计",
@@ -507,27 +531,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20504,
+      "num": 31193,
+      "word": "芭莎艺术之夜",
+      "onboard_time": 1766065402,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 19487,
-      "num": 25723,
+      "num": 31173,
       "word": "冬奥会冰壶落选赛",
       "onboard_time": 1766084354,
       "rank": 31,
       "category": "体育"
     },
     {
-      "raw_hot": 19293,
-      "num": 224365,
-      "word": "海南自由贸易港今起全岛封关",
-      "onboard_time": 1766063603,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 17837,
+      "num": 31187,
+      "word": "肖战说很多故事在画面以外",
+      "onboard_time": 1766097676,
+      "rank": 45,
+      "category": "电影"
     },
     {
-      "raw_hot": 15924,
-      "num": 24409,
+      "raw_hot": 17370,
+      "num": 31180,
       "word": "任嘉伦眼神戏",
       "onboard_time": 1766095755,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16673,
+      "num": 31176,
+      "word": "成毅一句话推荐长安二十四计",
+      "onboard_time": 1766089813,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -585,22 +625,6 @@
       "onboard_time": 1766080755,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12135,
-      "num": 16311,
-      "word": "成毅一句话推荐长安二十四计",
-      "onboard_time": 1766089813,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11369,
-      "num": 15649,
-      "word": "芭莎艺术之夜",
-      "onboard_time": 1766065402,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 10912,

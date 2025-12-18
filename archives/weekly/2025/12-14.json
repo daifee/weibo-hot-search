@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766096883889,
+  "endTime": 1766097871052,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3611,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293538,
+      "num": 136328,
+      "word": "三星长公主曾不顾反对下嫁司机",
+      "onboard_time": 1766075959,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 293497,
       "num": 287128,
       "word": "唐毓文被判18年",
@@ -4625,14 +4633,6 @@
       "onboard_time": 1765843340,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238303,
-      "num": 108769,
-      "word": "三星长公主曾不顾反对下嫁司机",
-      "onboard_time": 1766075959,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 235084,
@@ -16299,6 +16299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48009,
+      "num": 48009,
+      "word": "人的出场顺序真的很重要",
+      "onboard_time": 1766095574,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47642,
       "num": 139118,
       "word": "河南方城领导在担心什么",
@@ -17635,6 +17643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29931,
+      "num": 31237,
+      "word": "喀纳斯景区通报一人被埋身亡",
+      "onboard_time": 1766097617,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29868,
       "num": 145095,
       "word": "麦当劳连续三年调价",
@@ -17705,14 +17721,6 @@
       "onboard_time": 1765993156,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 28978,
-      "num": 28978,
-      "word": "人的出场顺序真的很重要",
-      "onboard_time": 1766095574,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 28799,
@@ -18139,6 +18147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23837,
+      "num": 224365,
+      "word": "海南自由贸易港今起全岛封关",
+      "onboard_time": 1766063603,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23799,
       "num": 44952,
       "word": "探索新境2",
@@ -18169,6 +18185,14 @@
       "onboard_time": 1765983983,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23277,
+      "num": 31206,
+      "word": "美国11月CPI意外回落",
+      "onboard_time": 1766096895,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23227,
@@ -18436,19 +18460,11 @@
     },
     {
       "raw_hot": 19487,
-      "num": 25723,
+      "num": 31173,
       "word": "冬奥会冰壶落选赛",
       "onboard_time": 1766084354,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19293,
-      "num": 224365,
-      "word": "海南自由贸易港今起全岛封关",
-      "onboard_time": 1766063603,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18952,
@@ -18499,12 +18515,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17837,
+      "num": 31187,
+      "word": "肖战说很多故事在画面以外",
+      "onboard_time": 1766097676,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 17370,
+      "num": 31180,
+      "word": "任嘉伦眼神戏",
+      "onboard_time": 1766095755,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16898,
       "num": 39406,
       "word": "不被看见的勇气",
       "onboard_time": 1765990997,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16673,
+      "num": 31176,
+      "word": "成毅一句话推荐长安二十四计",
+      "onboard_time": 1766089813,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 16540,
@@ -18529,14 +18569,6 @@
       "onboard_time": 1766036481,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15924,
-      "num": 24409,
-      "word": "任嘉伦眼神戏",
-      "onboard_time": 1766095755,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 15837,
@@ -18809,14 +18841,6 @@
       "onboard_time": 1765796422,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12135,
-      "num": 16311,
-      "word": "成毅一句话推荐长安二十四计",
-      "onboard_time": 1766089813,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 11936,
