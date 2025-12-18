@@ -1,0 +1,410 @@
+{
+  "runTime": 1766040989666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 492585,
+        "num": 1078813,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359583,
+        "num": 359583,
+        "word": "海南省委书记用英语向全球发邀请",
+        "onboard_time": 1766036903,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21233,
+        "num": 339221,
+        "word": "下下周四就2026了",
+        "onboard_time": 1766029341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807817,
+        "num": 331987,
+        "word": "黄晓明 孩子多的条件反射",
+        "onboard_time": 1766037322,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647885,
+        "num": 282896,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 564695,
+        "num": 276332,
+        "word": "55岁三星长公主李富真露面",
+        "onboard_time": 1766038222,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255942,
+        "num": 255942,
+        "word": "知情人称女教师对象曾以为她想通了",
+        "onboard_time": 1766029881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277963,
+        "num": 255217,
+        "word": "河南女孩吐槽经常被南方室友催着洗澡",
+        "onboard_time": 1766031201,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208756,
+        "num": 208756,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203007,
+        "num": 203007,
+        "word": "时尚芭莎盛典名单",
+        "onboard_time": 1766030000,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 339490,
+        "num": 202838,
+        "word": "男子吹玻璃30年变青蛙王子",
+        "onboard_time": 1766034862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335155,
+        "num": 202235,
+        "word": "工作倒贴行为",
+        "onboard_time": 1766034563,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334738,
+        "num": 201848,
+        "word": "丝芭就曾艳芬陪酒言论报警",
+        "onboard_time": 1766039181,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323839,
+        "num": 201399,
+        "word": "可我的妈妈真的是陈妍希",
+        "onboard_time": 1766036122,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256426,
+        "num": 201072,
+        "word": "庞莱臣 南京博物院",
+        "onboard_time": 1766031623,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87918,
+        "num": 200536,
+        "word": "自提外卖也是一种爱你老己",
+        "onboard_time": 1766038042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58699,
+        "num": 200482,
+        "word": "周杰伦终于又营业了",
+        "onboard_time": 1766039781,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160065,
+        "num": 199825,
+        "word": "马年春晚吉祥物发布",
+        "onboard_time": 1766026520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30986,
+        "num": 199551,
+        "word": "李在明说汉字得学",
+        "onboard_time": 1766040382,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35374,
+        "num": 198912,
+        "word": "李雪琴说再见爱人这段别剪进去",
+        "onboard_time": 1766040560,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304181,
+        "num": 198411,
+        "word": "孙俪一件羽绒服穿15年",
+        "onboard_time": 1766036422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497146,
+        "num": 197965,
+        "word": "陈妍希婚后一边带孩子一边照顾陈晓家人",
+        "onboard_time": 1766036001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235415,
+        "num": 197915,
+        "word": "曝流量女星拍戏要求点满1000元肯德基",
+        "onboard_time": 1766040681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221706,
+        "num": 197173,
+        "word": "张凯毅 背刺",
+        "onboard_time": 1766024959,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218148,
+        "num": 196768,
+        "word": "陈建斌逛故宫痛失本名",
+        "onboard_time": 1766030602,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209579,
+        "num": 196678,
+        "word": "坠楼女教师被父母以死相逼催婚7年",
+        "onboard_time": 1766035462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196282,
+        "num": 196282,
+        "word": "肖战成毅陈晓 2025大男主剧成绩单",
+        "onboard_time": 1766036721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196160,
+        "num": 196160,
+        "word": "曾艳芬 给我工资的是我粉丝",
+        "onboard_time": 1766036903,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190716,
+        "num": 190716,
+        "word": "董子初爆料张凯毅",
+        "onboard_time": 1766033542,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83543,
+        "num": 183095,
+        "word": "台军派F16跟拍福建舰",
+        "onboard_time": 1766039301,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217323,
+        "num": 180457,
+        "word": "胡先煦王安宇在欧洲待不住",
+        "onboard_time": 1766040322,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176120,
+        "num": 176120,
+        "word": "何美延梁淞厕所事件",
+        "onboard_time": 1766038401,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160335,
+        "num": 160335,
+        "word": "关晓彤早就爱你老己了",
+        "onboard_time": 1766034203,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156582,
+        "num": 156582,
+        "word": "花傲天年度热梗",
+        "onboard_time": 1766039901,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153672,
+        "num": 153672,
+        "word": "考研弃考率",
+        "onboard_time": 1766038881,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86461,
+        "num": 135789,
+        "word": "妹妹从从容容哥哥连滚带爬",
+        "onboard_time": 1766039060,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "马伯庸 古董局中局",
+        "onboard_time": 1766040142,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 24506,
+        "num": 132324,
+        "word": "在外合租的打工人最怕家人来探望",
+        "onboard_time": 1766040020,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 8711,
+        "num": 131960,
+        "word": "李雾送姐姐礼物",
+        "onboard_time": 1766040742,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24267,
+        "num": 131804,
+        "word": "上关注流看搜狐时尚盛典",
+        "onboard_time": 1766037682,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159428,
+        "num": 131720,
+        "word": "郭敬明王一栩 苦命鸳鸯",
+        "onboard_time": 1766029460,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154718,
+        "num": 131412,
+        "word": "曝现偶男女主吵架致剧组停工",
+        "onboard_time": 1766038821,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140693,
+        "num": 131226,
+        "word": "徐冬冬尹子维婚纱照",
+        "onboard_time": 1766032402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 131120,
+        "word": "papi说梁淞家产都给你但头巾不给你",
+        "onboard_time": 1766039962,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36906,
+        "num": 124819,
+        "word": "一家四代12人火灾中丧生背后",
+        "onboard_time": 1766039541,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120747,
+        "num": 120747,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118189,
+        "num": 118189,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116248,
+        "num": 116248,
+        "word": "尹子维终于有名分了",
+        "onboard_time": 1766040681,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 116244,
+        "word": "丝芭鞠婧祎究竟谁在说谎",
+        "onboard_time": 1766036481,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115404,
+        "num": 115404,
+        "word": "全球收入第1女运动员不到男子第100",
+        "onboard_time": 1766031804,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
