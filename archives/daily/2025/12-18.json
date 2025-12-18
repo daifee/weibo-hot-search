@@ -1,7 +1,15 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766024757785,
+  "endTime": 1766029189375,
   "band_list": [
+    {
+      "raw_hot": 4314499,
+      "num": 340059,
+      "word": "丝芭喊话鞠婧祎再不收手将实名举报",
+      "onboard_time": 1766025740,
+      "rank": 5,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1632817,
       "num": 147518,
@@ -17,6 +25,22 @@
       "onboard_time": 1766021000,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1405447,
+      "num": 205109,
+      "word": "丝芭指控鞠婧祎严重经济犯罪",
+      "onboard_time": 1766025979,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 958904,
+      "num": 202352,
+      "word": "张凯毅 背刺",
+      "onboard_time": 1766024959,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 946163,
@@ -47,6 +71,14 @@
       "num": 566616,
       "word": "春晚",
       "onboard_time": 1766017401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 551768,
+      "num": 551768,
+      "word": "马年春晚吉祥物发布",
+      "onboard_time": 1766026520,
       "rank": 1,
       "category": "综艺"
     },
@@ -97,6 +129,14 @@
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362471,
+      "num": 192150,
+      "word": "27岁女子患性发育异常",
+      "onboard_time": 1766027541,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 353639,
@@ -179,12 +219,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 268350,
+      "num": 190431,
+      "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+      "onboard_time": 1766027180,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255610,
       "num": 140724,
       "word": "坠楼女教师有已婚哥哥和未婚弟弟",
       "onboard_time": 1765981163,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249933,
+      "num": 185634,
+      "word": "虞书欣何与给内娱亲密戏上强度了",
+      "onboard_time": 1766023999,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 248952,
@@ -211,6 +267,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236470,
+      "num": 236470,
+      "word": "剑来",
+      "onboard_time": 1766026340,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 235084,
+      "num": 146236,
+      "word": "小米17Ultra发布时间定档",
+      "onboard_time": 1766026101,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 232130,
       "num": 165678,
       "word": "陈妍希回应脸颊肉像饺子一样",
@@ -219,11 +291,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222609,
+      "num": 145949,
+      "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
+      "onboard_time": 1766025382,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213860,
       "num": 170957,
       "word": "何与回复虞书欣",
       "onboard_time": 1766019501,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212839,
+      "num": 145845,
+      "word": "热恋期的生理性喜欢藏不住",
+      "onboard_time": 1766028440,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -251,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204550,
+      "num": 145641,
+      "word": "每年都会复活一次的老梗",
+      "onboard_time": 1766027840,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199048,
       "num": 199048,
       "word": "南博",
@@ -267,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196094,
+      "num": 145524,
+      "word": "吃人的冰血窟送命的鸽血红",
+      "onboard_time": 1766028381,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193578,
       "num": 151796,
       "word": "小学生书包全是A4纸",
@@ -281,6 +385,14 @@
       "onboard_time": 1765988899,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 184904,
+      "word": "第一次知道微信支付还有这功能",
+      "onboard_time": 1766028741,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 181324,
@@ -307,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159751,
+      "num": 145316,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1766027119,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158040,
       "num": 132611,
       "word": "mike太好笑了",
@@ -315,12 +435,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147280,
-      "num": 147280,
-      "word": "虞书欣何与给内娱亲密戏上强度了",
-      "onboard_time": 1766023999,
-      "rank": 25,
+      "raw_hot": 152937,
+      "num": 145020,
+      "word": "男主等了两百年等出了双女主",
+      "onboard_time": 1766026101,
+      "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "封关后进出海南岛受影响吗",
+      "onboard_time": 1766026759,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 144786,
+      "num": 144786,
+      "word": "湖南卫视跨年第二波阵容",
+      "onboard_time": 1766027063,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 144373,
@@ -355,6 +491,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133978,
+      "num": 133978,
+      "word": "剑来动画第二季定档",
+      "onboard_time": 1766029041,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 132703,
+      "num": 132703,
+      "word": "张小泉名下浙A迈巴赫被拍卖",
+      "onboard_time": 1766025321,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 132578,
+      "num": 132578,
+      "word": "1个汽车碰撞假人身价达1200万",
+      "onboard_time": 1766027840,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131099,
       "num": 131099,
       "word": "英首相要求阿布将25亿切尔西售款援乌",
@@ -369,6 +529,22 @@
       "onboard_time": 1766020040,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129224,
+      "num": 129224,
+      "word": "刘宇宁务实天花板",
+      "onboard_time": 1766028021,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127707,
+      "num": 127707,
+      "word": "陈添祥你到底穿了多少条秋裤",
+      "onboard_time": 1766028500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126876,
@@ -387,6 +563,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125177,
+      "num": 125177,
+      "word": "周杰伦报备型艺人实锤了",
+      "onboard_time": 1766028859,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122486,
+      "num": 122486,
+      "word": "天津一医院女护士更衣被偷拍",
+      "onboard_time": 1766027720,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122071,
       "num": 122071,
       "word": "射雕英雄传侠之大者",
@@ -401,6 +593,30 @@
       "onboard_time": 1765986321,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118721,
+      "num": 118721,
+      "word": "兄妹失散十五年至死没相认",
+      "onboard_time": 1766028560,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 118571,
+      "word": "我发现男朋友背着我偷偷嗑",
+      "onboard_time": 1766028440,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117563,
+      "num": 117563,
+      "word": "情圣3定档",
+      "onboard_time": 1766028981,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 116815,
@@ -425,6 +641,22 @@
       "onboard_time": 1765980082,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112316,
+      "num": 112316,
+      "word": "抖音小红书等互联网平台被约谈",
+      "onboard_time": 1766025680,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110571,
+      "num": 110571,
+      "word": "冬天对于流浪猫来说有多难",
+      "onboard_time": 1766029100,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105248,
@@ -635,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77314,
+      "num": 144872,
+      "word": "日本遗孤说是吃黑龙江水长大的",
+      "onboard_time": 1766027421,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77222,
       "num": 77222,
       "word": "咪咪很生气为您服务",
@@ -747,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61512,
+      "num": 146426,
+      "word": "连锁酒店保洁员用地巾擦刷牙杯",
+      "onboard_time": 1766028021,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60131,
       "num": 156117,
       "word": "中方将再赴柬泰穿梭调停",
@@ -755,12 +1003,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59833,
+      "num": 127869,
+      "word": "马克龙就欧盟对华加征关税表态",
+      "onboard_time": 1766028021,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59779,
       "num": 98868,
       "word": "唐诡奇谭一集好短",
       "onboard_time": 1765975402,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58871,
+      "num": 127719,
+      "word": "贵州一断指烫伤男童牵出多残家庭",
+      "onboard_time": 1766028381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54888,
@@ -891,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34583,
+      "num": 130710,
+      "word": "吸纳村民120万扶贫资金合作社破产",
+      "onboard_time": 1766028021,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34282,
       "num": 42799,
       "word": "刘宇宁最想上热搜是刘宇宁好听",
@@ -929,6 +1201,14 @@
       "onboard_time": 1765983923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25258,
+      "num": 196963,
+      "word": "华晨宇骐骥红",
+      "onboard_time": 1766027119,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 24674,
@@ -1014,6 +1294,9 @@
   "hotgov_list": [
     {
       "word": "#重温总书记谈改革开放的这番话#"
+    },
+    {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
     }
   ]
 }
