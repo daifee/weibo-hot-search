@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766047135368,
+  "endTime": 1766048027076,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1801608,
+      "num": 310741,
+      "word": "海南封关",
+      "onboard_time": 1766040441,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1799138,
       "num": 234139,
       "word": "李诞 所有女生尽早完成社会化",
@@ -673,14 +681,6 @@
       "onboard_time": 1764743121,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1555958,
-      "num": 287613,
-      "word": "海南封关",
-      "onboard_time": 1766040441,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1553169,
@@ -1723,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 989840,
+      "num": 184687,
+      "word": "曝成毅助理打粉丝",
+      "onboard_time": 1766046441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989329,
       "num": 1158292,
       "word": "特朗普警告高市早苗别插手台海",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1765416080,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 938924,
+      "num": 1150227,
+      "word": "海南封关首日iPhone最高可减2140元",
+      "onboard_time": 1766043561,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 932451,
@@ -2211,12 +2227,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 883796,
-      "num": 1141407,
-      "word": "海南封关首日iPhone最高可减2140元",
-      "onboard_time": 1766043561,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 884501,
+      "num": 313478,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 883597,
@@ -6187,14 +6203,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 502201,
-      "num": 211030,
-      "word": "霍建华问林心如我是你司机吗",
-      "onboard_time": 1766045962,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 501961,
       "num": 272452,
       "word": "什么叫做假性亲密关系",
@@ -7299,14 +7307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457277,
-      "num": 184687,
-      "word": "曝成毅助理打粉丝",
-      "onboard_time": 1766046441,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 457266,
       "num": 457266,
       "word": "每天练背10分钟是回报率最高的运动",
@@ -7409,6 +7409,14 @@
       "onboard_time": 1764579262,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 454330,
+      "num": 211892,
+      "word": "王俊凯粉丝",
+      "onboard_time": 1766043981,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 454085,
@@ -7537,14 +7545,6 @@
       "onboard_time": 1764767961,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449992,
-      "num": 203426,
-      "word": "王俊凯粉丝",
-      "onboard_time": 1766043981,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 449352,
@@ -7780,7 +7780,7 @@
     },
     {
       "raw_hot": 441522,
-      "num": 201823,
+      "num": 210864,
       "word": "丝芭董事长成被执行人",
       "onboard_time": 1766042901,
       "rank": 46,
@@ -8785,6 +8785,14 @@
       "onboard_time": 1765700123,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 404982,
+      "num": 211021,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 404806,
@@ -12105,6 +12113,14 @@
       "onboard_time": 1765497260,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311919,
+      "num": 311919,
+      "word": "南京博物院 江南春",
+      "onboard_time": 1766046262,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311702,
@@ -16811,6 +16827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220994,
+      "num": 210427,
+      "word": "特朗普账户宣传存1千可涨至60万",
+      "onboard_time": 1766044222,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220641,
       "num": 220641,
       "word": "湖南卫视零下12度官宣冰雪之夜",
@@ -17113,22 +17137,6 @@
       "onboard_time": 1765351702,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217371,
-      "num": 217371,
-      "word": "南京博物院 江南春",
-      "onboard_time": 1766046262,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217337,
-      "num": 189135,
-      "word": "特朗普账户宣传存1千可涨至60万",
-      "onboard_time": 1766044222,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 217249,
@@ -17649,6 +17657,14 @@
       "onboard_time": 1764774922,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210297,
+      "num": 210297,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210106,
@@ -25027,6 +25043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161002,
+      "num": 161002,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160880,
       "num": 160880,
       "word": "骄阳似我广播剧开播",
@@ -25145,6 +25169,14 @@
       "onboard_time": 1765200801,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160146,
+      "num": 160146,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 160099,
@@ -25457,6 +25489,14 @@
       "onboard_time": 1765615402,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158606,
+      "num": 158606,
+      "word": "徐志胜来再见爱人上语法课了",
+      "onboard_time": 1766046860,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 158535,
@@ -26299,6 +26339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154689,
+      "num": 154689,
+      "word": "曝童星出道女明星拍戏带8个助理",
+      "onboard_time": 1766045301,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154668,
       "num": 159637,
       "word": "许光汉张轩睿被曝兄弟反目",
@@ -26577,14 +26625,6 @@
       "onboard_time": 1765695260,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153269,
-      "num": 153269,
-      "word": "曝童星出道女明星拍戏带8个助理",
-      "onboard_time": 1766045301,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 153256,
@@ -27593,14 +27633,6 @@
       "onboard_time": 1764597442,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148286,
-      "num": 148286,
-      "word": "珠海",
-      "onboard_time": 1766046621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148271,
@@ -29249,14 +29281,6 @@
       "onboard_time": 1764732862,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 140713,
-      "num": 140713,
-      "word": "Epic提前道歉",
-      "onboard_time": 1766046441,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 140691,
@@ -31811,14 +31835,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 131773,
-      "num": 131773,
-      "word": "多位博主爆料张凯毅",
-      "onboard_time": 1766046681,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 131769,
       "num": 131769,
       "word": "青你1选手上恋综哭了",
@@ -34017,6 +34033,14 @@
       "onboard_time": 1765410380,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123993,
+      "num": 123993,
+      "word": "满江红2原班人马",
+      "onboard_time": 1766047042,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 123955,
@@ -36579,6 +36603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116754,
+      "num": 116754,
+      "word": "广东短袖 穿回本",
+      "onboard_time": 1766046503,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116672,
       "num": 167775,
       "word": "遭性侵女高管称很难一个人出门",
@@ -36609,14 +36641,6 @@
       "onboard_time": 1765792161,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116653,
-      "num": 101091,
-      "word": "徐志胜来再见爱人上语法课了",
-      "onboard_time": 1766046860,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 116650,
@@ -36921,6 +36945,14 @@
       "onboard_time": 1764746902,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115687,
+      "num": 115687,
+      "word": "济公2开机",
+      "onboard_time": 1766047641,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115673,
@@ -39724,7 +39756,7 @@
     },
     {
       "raw_hot": 107473,
-      "num": 143264,
+      "num": 156071,
       "word": "大批车厘子坐船到中国了",
       "onboard_time": 1766045061,
       "rank": 28,
@@ -41571,6 +41603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102120,
+      "num": 116349,
+      "word": "知情人称坠楼女教师出嫁时并未梳妆",
+      "onboard_time": 1766047821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102062,
       "num": 102062,
       "word": "未定事件簿夏彦予爱未名",
@@ -43379,6 +43419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96920,
+      "num": 187260,
+      "word": "国际航班外籍男子辱骂骚扰中国女生",
+      "onboard_time": 1766047581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96900,
       "num": 281334,
       "word": "王楚钦孙颖莎混双心往一处想",
@@ -43513,14 +43561,6 @@
       "onboard_time": 1765441703,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 96589,
-      "num": 96589,
-      "word": "广东短袖 穿回本",
-      "onboard_time": 1766046503,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 96585,
@@ -43705,14 +43745,6 @@
       "onboard_time": 1765205243,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96157,
-      "num": 96157,
-      "word": "办公室轮流请奶茶真的很窒息",
-      "onboard_time": 1766047042,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 96144,
@@ -46969,6 +47001,14 @@
       "onboard_time": 1764603863,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85446,
+      "num": 95010,
+      "word": "我妈给我的备注是秀女",
+      "onboard_time": 1766048000,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85428,
@@ -51123,6 +51163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64571,
+      "num": 116692,
+      "word": "孙颖莎带伤作战感动观众",
+      "onboard_time": 1766047702,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64548,
       "num": 145923,
       "word": "成毅复仇爽剧大男主少不了好搭子",
@@ -51844,7 +51892,7 @@
     },
     {
       "raw_hot": 60386,
-      "num": 313270,
+      "num": 314096,
       "word": "这座城把新就业群体当成自己人",
       "onboard_time": 1766044460,
       "rank": 2,
@@ -54643,6 +54691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45614,
+      "num": 101658,
+      "word": "沈腾的好笑离不开王安宇范丞丞",
+      "onboard_time": 1766046262,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45510,
       "num": 75488,
       "word": "美国不再将俄罗斯称为直接威胁",
@@ -54897,6 +54953,14 @@
       "onboard_time": 1764774443,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44438,
+      "num": 116417,
+      "word": "我这辈子就这样逃不过双男主了",
+      "onboard_time": 1766047161,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 44366,
@@ -55993,14 +56057,6 @@
       "onboard_time": 1765289664,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39363,
-      "num": 101658,
-      "word": "沈腾的好笑离不开王安宇范丞丞",
-      "onboard_time": 1766046262,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 39355,
