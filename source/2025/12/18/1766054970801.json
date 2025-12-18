@@ -1,0 +1,410 @@
+{
+  "runTime": 1766054970801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 689584,
+        "num": 1110333,
+        "word": "全资进组拍短剧结果赔了近千万",
+        "onboard_time": 1766049380,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235173,
+        "num": 235173,
+        "word": "国际航班外籍男子辱骂骚扰中国女生",
+        "onboard_time": 1766047581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25198,
+        "num": 235082,
+        "word": "一组时空对比照看改革开放来时路",
+        "onboard_time": 1766052381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 233159,
+        "word": "英雄联盟",
+        "onboard_time": 1766049921,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240364,
+        "num": 231540,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1004632,
+        "num": 229785,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 922390,
+        "num": 227654,
+        "word": "坠亡女教师父母不愿退彩礼拒绝退婚",
+        "onboard_time": 1766050761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801838,
+        "num": 225993,
+        "word": "遭性侵女高管回应开价2000万和解",
+        "onboard_time": 1766052799,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357272,
+        "num": 224428,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207717,
+        "num": 222543,
+        "word": "55岁三星长公主李富真露面",
+        "onboard_time": 1766038222,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298481,
+        "num": 221087,
+        "word": "济南泄漏热力管道已抢修完毕",
+        "onboard_time": 1766051960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282563,
+        "num": 220406,
+        "word": "办公室轮流请奶茶真的很窒息",
+        "onboard_time": 1766047042,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270987,
+        "num": 218114,
+        "word": "国家文物局调查博物馆藏画拍卖事件",
+        "onboard_time": 1766052381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259564,
+        "num": 215753,
+        "word": "海南封关首日iPhone最高可减2140元",
+        "onboard_time": 1766043561,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215634,
+        "num": 215634,
+        "word": "王俊凯粉丝",
+        "onboard_time": 1766043981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210109,
+        "num": 210109,
+        "word": "多位博主爆料张凯毅",
+        "onboard_time": 1766046681,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190387,
+        "num": 190387,
+        "word": "律师称丝芭致鞠婧祎告知无法律效力",
+        "onboard_time": 1766052321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181427,
+        "num": 181427,
+        "word": "大熊猫遭游客故意投掷打火机",
+        "onboard_time": 1766052381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172186,
+        "num": 172186,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "向佐穿了十厘米高跟鞋",
+        "onboard_time": 1766053341,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686607,
+        "num": 137103,
+        "word": "霍建华问林心如我是你司机吗",
+        "onboard_time": 1766045962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368824,
+        "num": 135686,
+        "word": "珠海",
+        "onboard_time": 1766046621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77804,
+        "num": 134428,
+        "word": "爆料护士更衣室被偷拍博主发声",
+        "onboard_time": 1766053580,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296575,
+        "num": 133388,
+        "word": "曝成毅助理打粉丝",
+        "onboard_time": 1766046441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174722,
+        "num": 133057,
+        "word": "陈晓陈妍希会共同承担家庭责任",
+        "onboard_time": 1766049800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138902,
+        "num": 131280,
+        "word": "胡先煦王安宇在欧洲待不住",
+        "onboard_time": 1766040322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130981,
+        "num": 130981,
+        "word": "这同事是来报恩的吗",
+        "onboard_time": 1766054361,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130664,
+        "num": 130664,
+        "word": "双轨",
+        "onboard_time": 1766053042,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125218,
+        "num": 125218,
+        "word": "美伢 完全没整过",
+        "onboard_time": 1766054424,
+        "rank": 28,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "亲爱的鲁豫女士 时代跟上你了",
+        "onboard_time": 1766054239,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119708,
+        "num": 119708,
+        "word": "猫咪向主人炫耀自己生了三花",
+        "onboard_time": 1766048480,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117167,
+        "num": 117167,
+        "word": "长安二十四计",
+        "onboard_time": 1766053821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116854,
+        "num": 116854,
+        "word": "满江红2原班人马",
+        "onboard_time": 1766047042,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80574,
+        "num": 116133,
+        "word": "文旅厅回应南博藏品现身拍卖",
+        "onboard_time": 1766054781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 115682,
+        "word": "周奇被问跟肖战合作时会不会有压力",
+        "onboard_time": 1766054661,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70763,
+        "num": 114955,
+        "word": "小米华为理想先后报警12人团伙被抓",
+        "onboard_time": 1766052081,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 114651,
+        "word": "宋威龙骄阳似我克制到青筋爆起",
+        "onboard_time": 1766053341,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29390,
+        "num": 97883,
+        "word": "上班遇车祸公司称不是合理路线拒赔",
+        "onboard_time": 1766054060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32152,
+        "num": 97847,
+        "word": "香港10亿日元劫案",
+        "onboard_time": 1766053940,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97825,
+        "num": 97825,
+        "word": "一个人去看电影却感受到了幸福",
+        "onboard_time": 1766054301,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22168,
+        "num": 93934,
+        "word": "张桂源 感觉哪都是师兄",
+        "onboard_time": 1766054901,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93489,
+        "num": 93489,
+        "word": "向佐同时穿了男装和女装",
+        "onboard_time": 1766052860,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28156,
+        "num": 89603,
+        "word": "陶昕然与千问讨论安小鸟命运",
+        "onboard_time": 1766050460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87720,
+        "num": 87720,
+        "word": "万茜好明媚的一张脸",
+        "onboard_time": 1766054541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87365,
+        "num": 87365,
+        "word": "唐诡剧组谁教你这么团建的",
+        "onboard_time": 1766053102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62495,
+        "num": 84835,
+        "word": "郑丽文宣战赖清德",
+        "onboard_time": 1766053399,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83909,
+        "num": 83909,
+        "word": "只有近视才能懂的痛",
+        "onboard_time": 1766054901,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83515,
+        "num": 83515,
+        "word": "Epic提前道歉",
+        "onboard_time": 1766046441,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80490,
+        "num": 80490,
+        "word": "阿凡达3首批口碑来了",
+        "onboard_time": 1766053462,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79353,
+        "num": 79353,
+        "word": "特朗普账户宣传存1千可涨至60万",
+        "onboard_time": 1766044222,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}

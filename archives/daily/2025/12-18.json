@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766053988048,
+  "endTime": 1766054970801,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922390,
+      "num": 246011,
+      "word": "坠亡女教师父母不愿退彩礼拒绝退婚",
+      "onboard_time": 1766050761,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 911880,
       "num": 573995,
       "word": "黄晓明 孩子多的条件反射",
@@ -99,11 +107,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 886595,
-      "num": 246011,
-      "word": "坠亡女教师父母不愿退彩礼拒绝退婚",
-      "onboard_time": 1766050761,
-      "rank": 17,
+      "raw_hot": 801838,
+      "num": 245476,
+      "word": "遭性侵女高管回应开价2000万和解",
+      "onboard_time": 1766052799,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -355,14 +363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 373814,
-      "num": 245476,
-      "word": "遭性侵女高管回应开价2000万和解",
-      "onboard_time": 1766052799,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364518,
       "num": 269895,
       "word": "全球收入第1女运动员不到男子第100",
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 357272,
+      "num": 245723,
+      "word": "iPhone千万不能把内存用完",
+      "onboard_time": 1766050161,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 353639,
       "num": 353639,
       "word": "香港女子疑点香薰引发火灾",
@@ -425,14 +433,6 @@
       "onboard_time": 1765979363,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345829,
-      "num": 245723,
-      "word": "iPhone千万不能把内存用完",
-      "onboard_time": 1766050161,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 342192,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298481,
+      "num": 221087,
+      "word": "济南泄漏热力管道已抢修完毕",
+      "onboard_time": 1766051960,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288615,
       "num": 101880,
       "word": "汪苏泷 孩子",
@@ -568,6 +576,14 @@
       "word": "家长因送孩子晚被班主任批评",
       "onboard_time": 1765977743,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270987,
+      "num": 218114,
+      "word": "国家文物局调查博物馆藏画拍卖事件",
+      "onboard_time": 1766052381,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -817,14 +833,6 @@
       "onboard_time": 1766031081,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204146,
-      "num": 204146,
-      "word": "国家文物局调查博物馆藏画拍卖事件",
-      "onboard_time": 1766052381,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204037,
@@ -1348,7 +1356,7 @@
     },
     {
       "raw_hot": 137510,
-      "num": 127065,
+      "num": 137252,
       "word": "向佐穿了十厘米高跟鞋",
       "onboard_time": 1766053341,
       "rank": 32,
@@ -1449,6 +1457,14 @@
       "onboard_time": 1766020102,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130981,
+      "num": 130981,
+      "word": "这同事是来报恩的吗",
+      "onboard_time": 1766054361,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 130799,
@@ -1555,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125218,
+      "num": 125218,
+      "word": "美伢 完全没整过",
+      "onboard_time": 1766054424,
+      "rank": 28,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 123947,
       "num": 144095,
       "word": "他在故事开头阻挡孩子必死的结局",
@@ -1627,6 +1651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121536,
+      "num": 121536,
+      "word": "亲爱的鲁豫女士 时代跟上你了",
+      "onboard_time": 1766054239,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121504,
       "num": 121504,
       "word": "那英 最烦蹭热点的人",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1766050580,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117167,
+      "num": 117167,
+      "word": "长安二十四计",
+      "onboard_time": 1766053821,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116815,
@@ -1739,12 +1779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115682,
+      "num": 115682,
+      "word": "周奇被问跟肖战合作时会不会有压力",
+      "onboard_time": 1766054661,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114953,
       "num": 139666,
       "word": "T1与GEN全员入围最佳阵容",
       "onboard_time": 1766041521,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114651,
+      "num": 114651,
+      "word": "宋威龙骄阳似我克制到青筋爆起",
+      "onboard_time": 1766053341,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 113747,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1766035222,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107326,
-      "num": 107326,
-      "word": "宋威龙骄阳似我克制到青筋爆起",
-      "onboard_time": 1766053341,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 107211,
@@ -1971,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97825,
+      "num": 97825,
+      "word": "一个人去看电影却感受到了幸福",
+      "onboard_time": 1766054301,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97180,
       "num": 131495,
       "word": "小米华为理想先后报警12人团伙被抓",
@@ -2067,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89198,
-      "num": 89198,
-      "word": "长安二十四计",
-      "onboard_time": 1766053821,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89023,
       "num": 136896,
       "word": "发射洲际弹道导弹万里之遥精准命中",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1766021900,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87720,
+      "num": 87720,
+      "word": "万茜好明媚的一张脸",
+      "onboard_time": 1766054541,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 87660,
@@ -2171,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83909,
+      "num": 83909,
+      "word": "只有近视才能懂的痛",
+      "onboard_time": 1766054901,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83827,
       "num": 98992,
       "word": "老舅",
@@ -2235,6 +2299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80574,
+      "num": 116133,
+      "word": "文旅厅回应南博藏品现身拍卖",
+      "onboard_time": 1766054781,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80539,
       "num": 98974,
       "word": "ThaiSweet樱花舞MV",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1766023340,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77804,
+      "num": 203879,
+      "word": "爆料护士更衣室被偷拍博主发声",
+      "onboard_time": 1766053580,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77222,
@@ -2755,20 +2835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33099,
-      "num": 203879,
-      "word": "爆料护士更衣室被偷拍博主发声",
-      "onboard_time": 1766053580,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32762,
       "num": 105351,
       "word": "全职儿女是逃避就业吗",
       "onboard_time": 1766052740,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 32152,
+      "num": 106946,
+      "word": "香港10亿日元劫案",
+      "onboard_time": 1766053940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30986,
@@ -2787,10 +2867,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30620,
-      "num": 106946,
-      "word": "香港10亿日元劫案",
-      "onboard_time": 1766053940,
+      "raw_hot": 29390,
+      "num": 97883,
+      "word": "上班遇车祸公司称不是合理路线拒赔",
+      "onboard_time": 1766054060,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -2913,6 +2993,14 @@
       "onboard_time": 1765998615,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 22168,
+      "num": 93934,
+      "word": "张桂源 感觉哪都是师兄",
+      "onboard_time": 1766054901,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 21846,
