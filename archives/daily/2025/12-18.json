@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766035898311,
+  "endTime": 1766036830584,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507255,
+      "num": 201330,
+      "word": "陈妍希婚后一边带孩子一边照顾陈晓家人",
+      "onboard_time": 1766036001,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466339,
       "num": 206834,
       "word": "没认出来是张雨绮",
@@ -179,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 396469,
+      "num": 396469,
+      "word": "庞莱臣 南京博物院",
+      "onboard_time": 1766031623,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387918,
       "num": 770469,
       "word": "最能生娃省份排名来了",
@@ -195,12 +211,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 372026,
-      "num": 292066,
-      "word": "庞莱臣 南京博物院",
-      "onboard_time": 1766031623,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 364518,
+      "num": 269895,
+      "word": "全球收入第1女运动员不到男子第100",
+      "onboard_time": 1766031804,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 363237,
@@ -209,14 +225,6 @@
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 363176,
-      "num": 269895,
-      "word": "全球收入第1女运动员不到男子第100",
-      "onboard_time": 1766031804,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 359751,
@@ -411,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226830,
+      "num": 199882,
+      "word": "男子吹玻璃30年变青蛙王子",
+      "onboard_time": 1766034862,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222609,
       "num": 191260,
       "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
@@ -499,12 +515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199647,
+      "num": 199647,
+      "word": "丝芭鞠婧祎究竟谁在说谎",
+      "onboard_time": 1766036481,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199048,
       "num": 199048,
       "word": "南博",
       "onboard_time": 1766020280,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197107,
+      "num": 197107,
+      "word": "可我的妈妈真的是陈妍希",
+      "onboard_time": 1766036122,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196716,
@@ -539,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "男子吹玻璃30年变青蛙王子",
-      "onboard_time": 1766034862,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 193302,
+      "num": 204567,
+      "word": "两只小猫就已经没食吃了",
+      "onboard_time": 1766032702,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 190114,
@@ -593,14 +625,6 @@
       "onboard_time": 1766031201,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173839,
-      "num": 173839,
-      "word": "两只小猫就已经没食吃了",
-      "onboard_time": 1766032702,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 170278,
@@ -659,8 +683,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160243,
-      "num": 160243,
+      "raw_hot": 164473,
+      "num": 203969,
       "word": "每天只花28一万够花一年",
       "onboard_time": 1766034322,
       "rank": 35,
@@ -723,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153314,
+      "num": 202385,
+      "word": "工作倒贴行为",
+      "onboard_time": 1766034563,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153133,
       "num": 153133,
       "word": "本田中国工厂将停产",
@@ -755,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147161,
+      "num": 147161,
+      "word": "云顶天宫工作人员下班好像小企鹅",
+      "onboard_time": 1766035581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144373,
       "num": 144373,
       "word": "孤注一掷未曝光片场照",
@@ -769,14 +809,6 @@
       "onboard_time": 1766031501,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143634,
-      "num": 143634,
-      "word": "工作倒贴行为",
-      "onboard_time": 1766034563,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 142260,
@@ -907,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128987,
-      "num": 128987,
-      "word": "云顶天宫工作人员下班好像小企鹅",
-      "onboard_time": 1766035581,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128413,
       "num": 128413,
       "word": "冬天对于流浪猫来说有多难",
@@ -953,6 +977,22 @@
       "onboard_time": 1766035101,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122977,
+      "num": 122977,
+      "word": "iPhone折叠屏",
+      "onboard_time": 1766032883,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 122729,
+      "num": 122729,
+      "word": "梦想演唱会官宣",
+      "onboard_time": 1766035882,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 122486,
@@ -995,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121008,
-      "num": 121008,
-      "word": "iPhone折叠屏",
-      "onboard_time": 1766032883,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120877,
       "num": 124663,
       "word": "意想不到的圣诞过节思路",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1766028440,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118483,
+      "num": 118483,
+      "word": "肖战成毅陈晓 2025大男主剧成绩单",
+      "onboard_time": 1766036721,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 116815,
@@ -1067,12 +1107,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110697,
+      "num": 107458,
+      "word": "汪苏泷广州二开",
+      "onboard_time": 1766036422,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 107607,
+      "num": 134071,
+      "word": "成毅被机场广播催登机",
+      "onboard_time": 1766035222,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105991,
+      "num": 117337,
+      "word": "孙俪一件羽绒服穿15年",
+      "onboard_time": 1766036422,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105248,
       "num": 105248,
       "word": "丝芭曾起诉鞠婧祎代言品牌",
       "onboard_time": 1766023760,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104480,
+      "num": 104480,
+      "word": "委内瑞拉向中方通报",
+      "onboard_time": 1766033844,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102269,
@@ -1227,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86482,
+      "num": 133592,
+      "word": "坠楼女教师被父母以死相逼催婚7年",
+      "onboard_time": 1766035462,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85224,
       "num": 85224,
       "word": "京东外卖自提",
@@ -1355,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74085,
-      "num": 134071,
-      "word": "成毅被机场广播催登机",
-      "onboard_time": 1766035222,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73671,
       "num": 98984,
       "word": "山姆车厘子30天狂降100元",
@@ -1473,14 +1545,6 @@
       "onboard_time": 1766034262,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60257,
-      "num": 133592,
-      "word": "坠楼女教师被父母以死相逼催婚7年",
-      "onboard_time": 1766035462,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60131,
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 38785,
-      "num": 173465,
+      "num": 203069,
       "word": "张歆艺说N6真能装",
       "onboard_time": 1766035702,
       "rank": 30,
@@ -1763,6 +1827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21493,
+      "num": 116602,
+      "word": "侯明昊就差腋下夹个包了",
+      "onboard_time": 1766036662,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20731,
       "num": 141374,
       "word": "男子欲去缅甸搞电诈被识破获刑6个月",
@@ -1785,6 +1857,14 @@
       "onboard_time": 1765990997,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16275,
+      "num": 117523,
+      "word": "海南封关首日三亚挤满俄罗斯游客",
+      "onboard_time": 1766036481,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14771,

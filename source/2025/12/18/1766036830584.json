@@ -1,0 +1,410 @@
+{
+  "runTime": 1766036830584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 722668,
+        "num": 1115626,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 611217,
+        "num": 611217,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25788,
+        "num": 469102,
+        "word": "下下周四就2026了",
+        "onboard_time": 1766029341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396469,
+        "num": 396469,
+        "word": "庞莱臣 南京博物院",
+        "onboard_time": 1766031623,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265541,
+        "num": 265541,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262052,
+        "num": 262052,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260218,
+        "num": 260218,
+        "word": "时尚芭莎盛典名单",
+        "onboard_time": 1766030000,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 150587,
+        "num": 259990,
+        "word": "马年春晚吉祥物发布",
+        "onboard_time": 1766026520,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466371,
+        "num": 258248,
+        "word": "河南女孩吐槽经常被南方室友催着洗澡",
+        "onboard_time": 1766031201,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353871,
+        "num": 256625,
+        "word": "知情人称女教师对象曾以为她想通了",
+        "onboard_time": 1766029881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382097,
+        "num": 253797,
+        "word": "李煜东不敢接女同学的球",
+        "onboard_time": 1766031201,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 364518,
+        "num": 251751,
+        "word": "全球收入第1女运动员不到男子第100",
+        "onboard_time": 1766031804,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356732,
+        "num": 250927,
+        "word": "张凯毅 背刺",
+        "onboard_time": 1766024959,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249746,
+        "num": 249746,
+        "word": "徐冬冬尹子维婚纱照",
+        "onboard_time": 1766032402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204600,
+        "num": 204600,
+        "word": "27岁女子患性发育异常",
+        "onboard_time": 1766027541,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 193302,
+        "num": 204567,
+        "word": "两只小猫就已经没食吃了",
+        "onboard_time": 1766032702,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164473,
+        "num": 203969,
+        "word": "每天只花28一万够花一年",
+        "onboard_time": 1766034322,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59666,
+        "num": 203331,
+        "word": "胡歌状态好能打",
+        "onboard_time": 1766034262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31566,
+        "num": 203069,
+        "word": "张歆艺说N6真能装",
+        "onboard_time": 1766035702,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153314,
+        "num": 202385,
+        "word": "工作倒贴行为",
+        "onboard_time": 1766034563,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616838,
+        "num": 201718,
+        "word": "陈建斌逛故宫痛失本名",
+        "onboard_time": 1766030602,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507255,
+        "num": 201330,
+        "word": "陈妍希婚后一边带孩子一边照顾陈晓家人",
+        "onboard_time": 1766036001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435314,
+        "num": 201072,
+        "word": "董子初爆料张凯毅",
+        "onboard_time": 1766033542,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398282,
+        "num": 200356,
+        "word": "郭敬明王一栩 苦命鸳鸯",
+        "onboard_time": 1766029460,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226830,
+        "num": 199882,
+        "word": "男子吹玻璃30年变青蛙王子",
+        "onboard_time": 1766034862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199647,
+        "num": 199647,
+        "word": "丝芭鞠婧祎究竟谁在说谎",
+        "onboard_time": 1766036481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197107,
+        "num": 197107,
+        "word": "可我的妈妈真的是陈妍希",
+        "onboard_time": 1766036122,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193893,
+        "num": 193893,
+        "word": "关晓彤早就爱你老己了",
+        "onboard_time": 1766034203,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154137,
+        "num": 154137,
+        "word": "马頔 话糙理不糙但你这太糙了",
+        "onboard_time": 1766032102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147161,
+        "num": 147161,
+        "word": "云顶天宫工作人员下班好像小企鹅",
+        "onboard_time": 1766035581,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185208,
+        "num": 142798,
+        "word": "怦然心动导演夫妇死因公布",
+        "onboard_time": 1766032582,
+        "rank": 30,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 148398,
+        "num": 142431,
+        "word": "业内曝辛芷蕾唯一黑点",
+        "onboard_time": 1766034322,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 124712,
+        "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+        "onboard_time": 1766027180,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 122977,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1766032883,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122729,
+        "num": 122729,
+        "word": "梦想演唱会官宣",
+        "onboard_time": 1766035882,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118483,
+        "num": 118483,
+        "word": "肖战成毅陈晓 2025大男主剧成绩单",
+        "onboard_time": 1766036721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 118353,
+        "word": "本田中国工厂将停产",
+        "onboard_time": 1766033123,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16275,
+        "num": 117523,
+        "word": "海南封关首日三亚挤满俄罗斯游客",
+        "onboard_time": 1766036481,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105991,
+        "num": 117337,
+        "word": "孙俪一件羽绒服穿15年",
+        "onboard_time": 1766036422,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21493,
+        "num": 116602,
+        "word": "侯明昊就差腋下夹个包了",
+        "onboard_time": 1766036662,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66094,
+        "num": 116038,
+        "word": "领克900在贵州修音响",
+        "onboard_time": 1766035822,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115915,
+        "num": 115915,
+        "word": "汪苏泷 南宁两天都见",
+        "onboard_time": 1766035222,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114675,
+        "num": 114675,
+        "word": "姐狗恋和叔狗恋都差11岁",
+        "onboard_time": 1766034982,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 111370,
+        "word": "编舞老师曝TF三代边吃饭边哭",
+        "onboard_time": 1766031201,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86482,
+        "num": 108842,
+        "word": "坠楼女教师被父母以死相逼催婚7年",
+        "onboard_time": 1766035462,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107607,
+        "num": 107607,
+        "word": "成毅被机场广播催登机",
+        "onboard_time": 1766035222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110697,
+        "num": 107458,
+        "word": "汪苏泷广州二开",
+        "onboard_time": 1766036422,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93482,
+        "num": 105879,
+        "word": "许知远对话汪顺",
+        "onboard_time": 1766035402,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104480,
+        "num": 104480,
+        "word": "委内瑞拉向中方通报",
+        "onboard_time": 1766033844,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102825,
+        "num": 102825,
+        "word": "高效写作业的正确打开方式",
+        "onboard_time": 1766035822,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
