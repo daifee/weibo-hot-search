@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766093102421,
+  "endTime": 1766093977392,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -18795,19 +18795,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12135,
+      "num": 16311,
+      "word": "成毅一句话推荐长安二十四计",
+      "onboard_time": 1766089813,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11936,
       "num": 26368,
       "word": "狙击蝴蝶让我演两集",
       "onboard_time": 1765663514,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11709,
-      "num": 16311,
-      "word": "成毅一句话推荐长安二十四计",
-      "onboard_time": 1766089813,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -18843,7 +18843,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10901,
+      "raw_hot": 10912,
       "num": 16307,
       "word": "中国电影120周年活力之夜",
       "onboard_time": 1766058262,
