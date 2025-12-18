@@ -1,0 +1,410 @@
+{
+  "runTime": 1766100483616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 303387,
+        "num": 792448,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301978,
+        "num": 301978,
+        "word": "周大福涨价",
+        "onboard_time": 1766071641,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47236,
+        "num": 238671,
+        "word": "海南自由贸易港今起全岛封关",
+        "onboard_time": 1766063603,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528066,
+        "num": 232958,
+        "word": "三星长公主曾不顾反对下嫁司机",
+        "onboard_time": 1766075959,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213399,
+        "num": 213399,
+        "word": "台退将称日本只能来台湾换柴犬",
+        "onboard_time": 1766074460,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179617,
+        "num": 179617,
+        "word": "飞天茅台价格暴跌黄牛损失惨重",
+        "onboard_time": 1766067982,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157407,
+        "num": 157407,
+        "word": "轿车刹车失灵以时速115狂奔490公里",
+        "onboard_time": 1766071341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155717,
+        "num": 155717,
+        "word": "27岁女孩患胃萎缩去世",
+        "onboard_time": 1766067381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133405,
+        "num": 133405,
+        "word": "高市早苗5秒变脸",
+        "onboard_time": 1766065883,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130888,
+        "num": 130888,
+        "word": "喀纳斯景区通报一人被埋身亡",
+        "onboard_time": 1766097617,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366764,
+        "num": 130492,
+        "word": "刘晓庆 震撼全家的75岁红毯状态",
+        "onboard_time": 1766071221,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318281,
+        "num": 129635,
+        "word": "人的出场顺序真的很重要",
+        "onboard_time": 1766095574,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138916,
+        "num": 129496,
+        "word": "时隔两年Angelababy再战红毯",
+        "onboard_time": 1766062521,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "丝芭传媒有权公开鞠婧祎收入吗",
+        "onboard_time": 1766071760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124532,
+        "num": 124532,
+        "word": "合肥警方通报一46岁男子身亡",
+        "onboard_time": 1766069002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102349,
+        "num": 102349,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1766067863,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99393,
+        "num": 99393,
+        "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+        "onboard_time": 1766056461,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97943,
+        "num": 97943,
+        "word": "男子用白鹿黄金海报炼10g金豆却破防",
+        "onboard_time": 1766075959,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 87546,
+        "num": 87546,
+        "word": "51岁林志玲惊艳亮相活动",
+        "onboard_time": 1766072960,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83861,
+        "num": 83861,
+        "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+        "onboard_time": 1766061502,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196777,
+        "num": 82700,
+        "word": "彭小苒说走光了提醒我啊",
+        "onboard_time": 1766099297,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107949,
+        "num": 81955,
+        "word": "德国女子舌下藏毒探监毒死男友",
+        "onboard_time": 1766100198,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79406,
+        "num": 79406,
+        "word": "国盾量子董事长意外去世",
+        "onboard_time": 1766068882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75656,
+        "num": 75656,
+        "word": "张凯毅凤冠事件后掉粉超43万",
+        "onboard_time": 1766076437,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 72262,
+        "num": 72262,
+        "word": "吕品",
+        "onboard_time": 1766069601,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64216,
+        "num": 64216,
+        "word": "金价",
+        "onboard_time": 1766064082,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63210,
+        "num": 63210,
+        "word": "因为穷染上了新疆人的化妆品",
+        "onboard_time": 1766064381,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 61843,
+        "num": 61843,
+        "word": "摆摊卖大残蟹被人砸摊日入5000",
+        "onboard_time": 1766069302,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60409,
+        "num": 60409,
+        "word": "女孩遭侵犯其父被害案二审维持死刑",
+        "onboard_time": 1766073921,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56671,
+        "num": 56671,
+        "word": "管乐妈妈认领小酒窝是Q版管乐",
+        "onboard_time": 1766060960,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53814,
+        "num": 53814,
+        "word": "阿凡达3",
+        "onboard_time": 1766069781,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52814,
+        "num": 52814,
+        "word": "第一次看到有直角肩的小猫咪",
+        "onboard_time": 1766099417,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52581,
+        "num": 52581,
+        "word": "男子养异宠被咬致截肢",
+        "onboard_time": 1766059580,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51958,
+        "num": 51958,
+        "word": "鞠婧祎是否经济犯罪应由法院确定",
+        "onboard_time": 1766100198,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49857,
+        "num": 49857,
+        "word": "日本前女市长为开房男下属申冤",
+        "onboard_time": 1766063662,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49557,
+        "num": 49557,
+        "word": "虞书欣你让我演两集吧",
+        "onboard_time": 1766099958,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49144,
+        "num": 49144,
+        "word": "CBA官方对浙江男篮和义乌赛区发警告",
+        "onboard_time": 1766099417,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48847,
+        "num": 48847,
+        "word": "韩国学生不认识在明两个汉字",
+        "onboard_time": 1766069240,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48407,
+        "num": 48407,
+        "word": "男子公园骑车遭铁丝勒脖身亡",
+        "onboard_time": 1766062942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44167,
+        "num": 48405,
+        "word": "岳云鹏回应演唱会取消男模伴舞",
+        "onboard_time": 1766100198,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43284,
+        "num": 48372,
+        "word": "赵敏周芷若又同框了",
+        "onboard_time": 1766100078,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42832,
+        "num": 48356,
+        "word": "女子路边买麻花摊主切完要价160元",
+        "onboard_time": 1766069661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40981,
+        "num": 48331,
+        "word": "几块和几十块的盐区别大吗",
+        "onboard_time": 1766077818,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 40198,
+        "num": 48313,
+        "word": "冬季保暖建议这么穿",
+        "onboard_time": 1766099417,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38756,
+        "num": 48298,
+        "word": "马嘉祺第一首OST",
+        "onboard_time": 1766061863,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36734,
+        "num": 48270,
+        "word": "撒贝宁侯佩岑对抗路搭档",
+        "onboard_time": 1766099598,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36423,
+        "num": 48246,
+        "word": "刘宇宁晒与任贤齐聚餐合照",
+        "onboard_time": 1766100078,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35880,
+        "num": 48236,
+        "word": "重庆一对7旬夫妇被邻居老人打死",
+        "onboard_time": 1766072540,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35468,
+        "num": 48212,
+        "word": "奇迹",
+        "onboard_time": 1766061863,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34421,
+        "num": 48196,
+        "word": "香港宏福苑业主将获每年15万港元租金补助",
+        "onboard_time": 1766072001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}
