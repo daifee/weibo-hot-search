@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766083303018,
+  "endTime": 1766084148062,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -18515,12 +18515,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15837,
+      "num": 29971,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766080276,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15802,
       "num": 108089,
       "word": "男子幻想被作法枪杀邻居老人夫妇",
       "onboard_time": 1765882042,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15452,
+      "num": 29971,
+      "word": "融合嘻哈盛典",
+      "onboard_time": 1766073739,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 15425,
@@ -18555,28 +18571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15289,
-      "num": 29431,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1766080276,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15271,
       "num": 130032,
       "word": "印首都有毒烟雾致40多个航班取消",
       "onboard_time": 1765949603,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15233,
-      "num": 29417,
-      "word": "融合嘻哈盛典",
-      "onboard_time": 1766073739,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 15096,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/19 00:39:59 ~ 2025/12/19 02:41:43
+本榜单时间：2025/12/19 00:39:59 ~ 2025/12/19 02:55:48
 </p>
 </blockquote>
 <p>
@@ -382,7 +382,7 @@ Peanut直播回应Faker（热度：38403）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB%E5%BC%82%E5%AE%A0%E8%A2%AB%E5%92%AC%E8%87%B4%E6%88%AA%E8%82%A2%23" target="weibo">
-男子养异宠被咬致截肢（热度：20899）
+男子养异宠被咬致截肢（热度：21125）
 </a>
 </li>
 
@@ -393,26 +393,26 @@ Peanut直播回应Faker（热度：38403）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%23" target="weibo">
-金价波动（热度：15318）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F%23" target="weibo">
-宇宙闪烁请注意（热度：15289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9E%8D%E5%90%88%E5%98%BB%E5%93%88%E7%9B%9B%E5%85%B8%23" target="weibo">
-融合嘻哈盛典（热度：15233）
+宇宙闪烁请注意（热度：15837）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%20%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%23" target="weibo">
-TF四代 再见朋友（热度：15087）
+TF四代 再见朋友（热度：15688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9E%8D%E5%90%88%E5%98%BB%E5%93%88%E7%9B%9B%E5%85%B8%23" target="weibo">
+融合嘻哈盛典（热度：15452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%23" target="weibo">
+金价波动（热度：15318）
 </a>
 </li>
 
