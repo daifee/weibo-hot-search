@@ -1,10 +1,10 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766075999889,
+  "endTime": 1766076884261,
   "band_list": [
     {
       "raw_hot": 433191,
-      "num": 125490,
+      "num": 138321,
       "word": "刘晓庆 震撼全家的75岁红毯状态",
       "onboard_time": 1766071221,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 424546,
-      "num": 157328,
+      "num": 662541,
       "word": "周大福一条金手链多收9000元",
       "onboard_time": 1766071641,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 359114,
-      "num": 124817,
+      "num": 137764,
       "word": "时隔两年Angelababy再战红毯",
       "onboard_time": 1766062521,
       "rank": 11,
@@ -41,6 +41,14 @@
       "onboard_time": 1766071942,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257357,
+      "num": 137436,
+      "word": "台退将称日本只能来台湾换柴犬",
+      "onboard_time": 1766074460,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220503,
@@ -59,16 +67,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180539,
-      "num": 124342,
-      "word": "台退将称日本只能来台湾换柴犬",
-      "onboard_time": 1766074460,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 187209,
+      "num": 136555,
+      "word": "51岁林志玲惊艳亮相活动",
+      "onboard_time": 1766072960,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178513,
-      "num": 121381,
+      "num": 133063,
       "word": "Angelababy原图",
       "onboard_time": 1766068941,
       "rank": 16,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 176282,
-      "num": 128204,
+      "num": 138959,
       "word": "27岁女孩患胃萎缩去世",
       "onboard_time": 1766067381,
       "rank": 7,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 165875,
-      "num": 123520,
+      "num": 136321,
       "word": "轿车刹车失灵以时速115狂奔490公里",
       "onboard_time": 1766071341,
       "rank": 13,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 156465,
-      "num": 122697,
+      "num": 124483,
       "word": "摆摊卖大残蟹被人砸摊日入5000",
       "onboard_time": 1766069302,
       "rank": 14,
@@ -100,26 +108,34 @@
     },
     {
       "raw_hot": 129791,
-      "num": 129791,
+      "num": 146376,
       "word": "高市早苗5秒变脸",
       "onboard_time": 1766065883,
       "rank": 4,
       "category": "国际时政"
     },
     {
-      "raw_hot": 120877,
-      "num": 120877,
-      "word": "51岁林志玲惊艳亮相活动",
-      "onboard_time": 1766072960,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 124049,
+      "num": 124049,
+      "word": "女孩遭侵犯其父被害案二审维持死刑",
+      "onboard_time": 1766073921,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120137,
-      "num": 129379,
+      "num": 150661,
       "word": "泰国彻夜播放鬼叫声恐吓柬村民",
       "onboard_time": 1766056461,
       "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115582,
+      "num": 79251,
+      "word": "三星长公主曾不顾反对下嫁司机",
+      "onboard_time": 1766075959,
+      "rank": 47,
       "category": "海外新闻"
     },
     {
@@ -140,23 +156,15 @@
     },
     {
       "raw_hot": 108993,
-      "num": 128378,
+      "num": 144197,
       "word": "马嘉祺第一首OST",
       "onboard_time": 1766061863,
       "rank": 6,
       "category": "剧集"
     },
     {
-      "raw_hot": 103955,
-      "num": 110624,
-      "word": "女孩遭侵犯其父被害案二审维持死刑",
-      "onboard_time": 1766073921,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96703,
-      "num": 126963,
+      "num": 139973,
       "word": "崩坏星穹铁道超话",
       "onboard_time": 1766067863,
       "rank": 8,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 85181,
-      "num": 85181,
+      "num": 137128,
       "word": "38岁病危爸爸给孩子剪指甲温柔告别",
       "onboard_time": 1766061502,
       "rank": 24,
@@ -211,8 +219,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79646,
+      "num": 79646,
+      "word": "我的女友怕len",
+      "onboard_time": 1766076258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71700,
-      "num": 79853,
+      "num": 138740,
       "word": "阿凡达3",
       "onboard_time": 1766069781,
       "rank": 28,
@@ -227,7 +243,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65745,
+      "raw_hot": 68891,
       "num": 79801,
       "word": "王力宏全球首个机器人舞台秀",
       "onboard_time": 1766074281,
@@ -249,6 +265,14 @@
       "onboard_time": 1766060601,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61030,
+      "num": 79378,
+      "word": "男子用白鹿黄金海报炼10g金豆却破防",
+      "onboard_time": 1766075959,
+      "rank": 43,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 59904,
@@ -299,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55738,
+      "num": 110446,
+      "word": "胡兵参加时尚盛典是他的舒适区",
+      "onboard_time": 1766074281,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 53765,
       "num": 79479,
       "word": "吴宣仪滥俗的歌舞台",
@@ -315,20 +347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52709,
+      "num": 79281,
+      "word": "金价",
+      "onboard_time": 1766064082,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50829,
       "num": 79442,
       "word": "广州官宣时代少年团演唱会",
       "onboard_time": 1766055201,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49116,
-      "num": 79378,
-      "word": "男子用白鹿黄金海报炼10g金豆却破防",
-      "onboard_time": 1766075959,
-      "rank": 43,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 49010,
@@ -355,31 +387,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47520,
-      "num": 79281,
-      "word": "金价",
-      "onboard_time": 1766064082,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 47362,
-      "num": 79251,
-      "word": "三星长公主曾不顾反对下嫁司机",
-      "onboard_time": 1766075959,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 46163,
-      "num": 110446,
-      "word": "胡兵参加时尚盛典是他的舒适区",
-      "onboard_time": 1766074281,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 45722,
+      "raw_hot": 46152,
       "num": 79223,
       "word": "男子公园骑车遭铁丝勒脖身亡",
       "onboard_time": 1766062942,
@@ -395,17 +403,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41502,
+      "num": 65679,
+      "word": "张凯毅凤冠事件后掉粉超43万",
+      "onboard_time": 1766076437,
+      "rank": 48,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 40255,
-      "num": 161545,
+      "num": 179412,
       "word": "大批车厘子坐船到中国了",
       "onboard_time": 1766045061,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38403,
+      "num": 65674,
+      "word": "Peanut直播回应Faker",
+      "onboard_time": 1766067021,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
     {
       "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    },
+    {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
     }
   ]
 }
