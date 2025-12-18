@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/19 00:39:59 ~ 2025/12/19 03:23:42
+本榜单时间：2025/12/19 00:39:59 ~ 2025/12/19 03:36:33
 </p>
 </blockquote>
 <p>
@@ -394,7 +394,7 @@ Peanut直播回应Faker（热度：38403）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%B0%E5%A3%B6%E8%90%BD%E9%80%89%E8%B5%9B%23" target="weibo">
-冬奥会冰壶落选赛（热度：17832）
+冬奥会冰壶落选赛（热度：18571）
 </a>
 </li>
 
@@ -419,6 +419,12 @@ TF四代 再见朋友（热度：15688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%23" target="weibo">
 金价波动（热度：15318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BD%91%E5%8F%8B%E5%B9%B4%E5%BA%A6%E6%9C%9F%E5%BE%85%E5%89%A7%E9%9B%86%23" target="weibo">
+微博网友年度期待剧集（热度：12813）
 </a>
 </li>
 
