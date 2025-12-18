@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766043005730,
+  "endTime": 1766043793961,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 755831,
+      "num": 261139,
+      "word": "徐冬冬终于嫁给了自己的童年偶像",
+      "onboard_time": 1766041281,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743111,
       "num": 219362,
       "word": "张韶涵前造型师回应裁员裁到大动脉",
@@ -97,14 +105,6 @@
       "onboard_time": 1766030602,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668790,
-      "num": 261139,
-      "word": "徐冬冬终于嫁给了自己的童年偶像",
-      "onboard_time": 1766041281,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 651425,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343598,
+      "num": 247336,
+      "word": "胡先煦王安宇在欧洲待不住",
+      "onboard_time": 1766040322,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342192,
       "num": 342192,
       "word": "男子吹玻璃30年变青蛙王子",
@@ -355,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317139,
-      "num": 247336,
-      "word": "胡先煦王安宇在欧洲待不住",
-      "onboard_time": 1766040322,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 310889,
+      "num": 247136,
+      "word": "曝现偶男女主吵架致剧组停工",
+      "onboard_time": 1766038821,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 310549,
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247136,
-      "num": 247136,
-      "word": "曝现偶男女主吵架致剧组停工",
-      "onboard_time": 1766038821,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241521,
       "num": 279266,
       "word": "剑来",
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239862,
+      "num": 181735,
+      "word": "丝芭董事长成被执行人",
+      "onboard_time": 1766042901,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 236887,
       "num": 236887,
       "word": "电影孤注一掷",
@@ -513,6 +521,14 @@
       "onboard_time": 1766026101,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 232148,
+      "num": 232148,
+      "word": "Faker呼唤Peanut回来",
+      "onboard_time": 1766042901,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 232130,
@@ -619,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207853,
+      "num": 207853,
+      "word": "考研弃考率",
+      "onboard_time": 1766038881,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206370,
       "num": 127545,
       "word": "袁咏仪不爱买包张智霖也害怕",
@@ -657,14 +681,6 @@
       "onboard_time": 1766039060,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202459,
-      "num": 202459,
-      "word": "考研弃考率",
-      "onboard_time": 1766038881,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 200182,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184967,
+      "num": 184967,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1766043501,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183700,
       "num": 183700,
       "word": "周杰伦报备型艺人实锤了",
@@ -784,6 +808,14 @@
       "word": "编舞老师曝TF三代边吃饭边哭",
       "onboard_time": 1766031201,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174416,
+      "num": 174416,
+      "word": "向佐这次衣服真的正常了",
+      "onboard_time": 1766043022,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -875,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157375,
+      "num": 157375,
+      "word": "汪苏泷 下面这段送给周深",
+      "onboard_time": 1766042540,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156582,
       "num": 156582,
       "word": "花傲天年度热梗",
@@ -913,6 +953,14 @@
       "onboard_time": 1766027063,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156023,
+      "num": 179629,
+      "word": "报销 反向抹零",
+      "onboard_time": 1766042001,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 154351,
@@ -955,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148366,
+      "num": 180853,
+      "word": "比亚迪第1500万辆新能源汽车下线",
+      "onboard_time": 1766041521,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147161,
       "num": 147161,
       "word": "云顶天宫工作人员下班好像小企鹅",
@@ -987,28 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143602,
-      "num": 143602,
-      "word": "比亚迪第1500万辆新能源汽车下线",
-      "onboard_time": 1766041521,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "原神那维莱特",
       "onboard_time": 1766038942,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142775,
-      "num": 114539,
-      "word": "汪苏泷 下面这段送给周深",
-      "onboard_time": 1766042540,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142260,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1766028500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135110,
+      "num": 203731,
+      "word": "花海的评论区全是梗",
+      "onboard_time": 1766043681,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 133596,
@@ -1115,22 +1163,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 131738,
-      "num": 114031,
-      "word": "丝芭董事长成被执行人",
-      "onboard_time": 1766042901,
-      "rank": 46,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 131717,
-      "num": 195273,
-      "word": "Faker呼唤Peanut回来",
-      "onboard_time": 1766042901,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131120,
       "num": 131120,
       "word": "papi说梁淞家产都给你但头巾不给你",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1766028560,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130490,
+      "num": 185046,
+      "word": "辅导作业这届家长有的是力气和手段",
+      "onboard_time": 1766042841,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 129936,
@@ -1307,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119596,
+      "num": 176331,
+      "word": "曾艳芬让丝芭传票发她微信上",
+      "onboard_time": 1766043381,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "我发现男朋友背着我偷偷嗑",
@@ -1339,14 +1387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116281,
-      "num": 116281,
-      "word": "辅导作业这届家长有的是力气和手段",
-      "onboard_time": 1766042841,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115940,
       "num": 115940,
       "word": "坠亡女教师生前称未婚夫只会气人",
@@ -1364,19 +1404,11 @@
     },
     {
       "raw_hot": 114953,
-      "num": 114953,
+      "num": 139666,
       "word": "T1与GEN全员入围最佳阵容",
       "onboard_time": 1766041521,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114761,
-      "num": 114761,
-      "word": "报销 反向抹零",
-      "onboard_time": 1766042001,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 113747,
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 113123,
-      "num": 157384,
+      "num": 183431,
       "word": "樊振东发完球就爆冲",
       "onboard_time": 1766041461,
       "rank": 33,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1766032343,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111088,
+      "num": 178894,
+      "word": "5岁男孩玩打火机烧了自家别墅",
+      "onboard_time": 1766042841,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110697,
@@ -1483,6 +1523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100142,
+      "num": 177579,
+      "word": "我国发现储量3900余吨巨型金矿",
+      "onboard_time": 1766041760,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100138,
       "num": 100138,
       "word": "卷到清北毕业后却给二本毕业生打工",
@@ -1531,14 +1579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93831,
-      "num": 113272,
-      "word": "我国发现储量3900余吨巨型金矿",
-      "onboard_time": 1766041760,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92505,
       "num": 98963,
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
@@ -1577,6 +1617,14 @@
       "onboard_time": 1766014399,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89023,
+      "num": 136896,
+      "word": "发射洲际弹道导弹万里之遥精准命中",
+      "onboard_time": 1766043141,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 88661,
@@ -1627,6 +1675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85099,
+      "num": 133871,
+      "word": "城乡居民养老金明年第八次上涨",
+      "onboard_time": 1766043381,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84928,
       "num": 129840,
       "word": "谁给那英报名的湖南跨年",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1765956143,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80803,
+      "num": 131264,
+      "word": "一诺名梗盘点",
+      "onboard_time": 1766043741,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 80755,
@@ -1729,6 +1793,14 @@
       "onboard_time": 1766024420,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76507,
+      "num": 177997,
+      "word": "海南封关首日iPhone最高可减2140元",
+      "onboard_time": 1766043561,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75818,
@@ -1817,14 +1889,6 @@
       "onboard_time": 1765970241,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68430,
-      "num": 115219,
-      "word": "5岁男孩玩打火机烧了自家别墅",
-      "onboard_time": 1766042841,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67953,
@@ -1937,6 +2001,22 @@
       "onboard_time": 1765975221,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51732,
+      "num": 196449,
+      "word": "医院护士站更衣室被偷装摄像头",
+      "onboard_time": 1766042722,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51222,
+      "num": 183986,
+      "word": "鲁豫说马思纯的外表具有欺骗性",
+      "onboard_time": 1766043201,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 50011,
@@ -2201,14 +2281,6 @@
       "onboard_time": 1765976962,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22734,
-      "num": 196449,
-      "word": "医院护士站更衣室被偷装摄像头",
-      "onboard_time": 1766042722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22534,
