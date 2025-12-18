@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766079021703,
+  "endTime": 1766080064482,
   "band_list": [
     {
       "raw_hot": 433191,
@@ -259,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62069,
+      "num": 79378,
+      "word": "男子用白鹿黄金海报炼10g金豆却破防",
+      "onboard_time": 1766075959,
+      "rank": 43,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 61705,
       "num": 79718,
       "word": "何穗雪中素颜怼拍",
       "onboard_time": 1766060601,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61030,
-      "num": 79378,
-      "word": "男子用白鹿黄金海报炼10g金豆却破防",
-      "onboard_time": 1766075959,
-      "rank": 43,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 59904,
@@ -331,6 +331,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 54260,
+      "num": 65679,
+      "word": "张凯毅凤冠事件后掉粉超43万",
+      "onboard_time": 1766076437,
+      "rank": 48,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 53765,
       "num": 79479,
       "word": "吴宣仪滥俗的歌舞台",
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48694,
-      "num": 65679,
-      "word": "张凯毅凤冠事件后掉粉超43万",
-      "onboard_time": 1766076437,
-      "rank": 48,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 48274,
       "num": 79500,
       "word": "iPhone千万不能把内存用完",
@@ -403,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45154,
+      "raw_hot": 45833,
       "num": 55221,
       "word": "小狗用舌头给主人刮痧治病",
       "onboard_time": 1766076378,
@@ -443,7 +443,15 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 27824,
+      "raw_hot": 29919,
+      "num": 45055,
+      "word": "济南泄漏热力管道已抢修完毕",
+      "onboard_time": 1766051960,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28624,
       "num": 54947,
       "word": "微博网友年度喜爱电影",
       "onboard_time": 1766078895,
@@ -451,7 +459,39 @@
       "category": "作品衍生,电影"
     },
     {
-      "raw_hot": 11403,
+      "raw_hot": 27494,
+      "num": 44989,
+      "word": "2025搜狐时尚盛典",
+      "onboard_time": 1766079136,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24695,
+      "num": 44972,
+      "word": "喀纳斯景区局部雪崩一人被埋身亡",
+      "onboard_time": 1766079497,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23799,
+      "num": 44952,
+      "word": "探索新境2",
+      "onboard_time": 1766079916,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23227,
+      "num": 44932,
+      "word": "谢淮安之二十四计",
+      "onboard_time": 1766079916,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15329,
       "num": 224365,
       "word": "海南自由贸易港今起全岛封关",
       "onboard_time": 1766063603,
