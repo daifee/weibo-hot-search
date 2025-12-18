@@ -1,0 +1,410 @@
+{
+  "runTime": 1766024757785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431360,
+        "num": 1431360,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815621,
+        "num": 815621,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63210,
+        "num": 567822,
+        "word": "我国发现新矿物金秀矿",
+        "onboard_time": 1765976722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415492,
+        "num": 415492,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387553,
+        "num": 387553,
+        "word": "海南自贸港正式封关",
+        "onboard_time": 1766022501,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367817,
+        "num": 367817,
+        "word": "泰柬冲突",
+        "onboard_time": 1766014758,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353639,
+        "num": 353639,
+        "word": "香港女子疑点香薰引发火灾",
+        "onboard_time": 1766018902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 291544,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241471,
+        "num": 241471,
+        "word": "相亲双双隐瞒未离婚男方被打",
+        "onboard_time": 1766016442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111439,
+        "num": 238080,
+        "word": "樊振东需通过资格赛获奥运参赛席位",
+        "onboard_time": 1765979602,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674241,
+        "num": 227069,
+        "word": "陈妍希刘浩存 姐姐开门我是晓媛",
+        "onboard_time": 1766022200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515414,
+        "num": 219362,
+        "word": "张韶涵前造型师回应裁员裁到大动脉",
+        "onboard_time": 1766013438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466339,
+        "num": 206834,
+        "word": "没认出来是张雨绮",
+        "onboard_time": 1766020639,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199048,
+        "num": 199048,
+        "word": "南博",
+        "onboard_time": 1766020280,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196783,
+        "num": 196783,
+        "word": "27岁女子没来过例假一查竟是男儿芯",
+        "onboard_time": 1765985721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181324,
+        "num": 181324,
+        "word": "当年轻人的圣诞树思路打开后",
+        "onboard_time": 1766023580,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170957,
+        "num": 170957,
+        "word": "何与回复虞书欣",
+        "onboard_time": 1766019501,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159471,
+        "num": 159471,
+        "word": "女子借款13万滚到近1300万",
+        "onboard_time": 1765976722,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156698,
+        "num": 156698,
+        "word": "再坚持一下 2262年有两个春节",
+        "onboard_time": 1766011276,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60131,
+        "num": 156117,
+        "word": "中方将再赴柬泰穿梭调停",
+        "onboard_time": 1766024120,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209826,
+        "num": 154945,
+        "word": "睡觉时建议把手机放在1.5米外",
+        "onboard_time": 1766015479,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200456,
+        "num": 154004,
+        "word": "长期熬夜后身体释放的5个求救信号",
+        "onboard_time": 1766015180,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193578,
+        "num": 151796,
+        "word": "小学生书包全是A4纸",
+        "onboard_time": 1766021959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151475,
+        "num": 151475,
+        "word": "陈妍希回应脸颊肉像饺子一样",
+        "onboard_time": 1766016682,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147518,
+        "num": 147518,
+        "word": "我不喝可乐",
+        "onboard_time": 1765986623,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147280,
+        "num": 147280,
+        "word": "虞书欣何与给内娱亲密戏上强度了",
+        "onboard_time": 1766023999,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139889,
+        "num": 139889,
+        "word": "比月圆还准时的是老己的爱",
+        "onboard_time": 1766023340,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "我国发现亚洲最大海底金矿",
+        "onboard_time": 1766020040,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116419,
+        "num": 116419,
+        "word": "射雕英雄传侠之大者",
+        "onboard_time": 1766021360,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108218,
+        "num": 108218,
+        "word": "芬兰总理正式道歉",
+        "onboard_time": 1766013677,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105248,
+        "num": 105248,
+        "word": "丝芭曾起诉鞠婧祎代言品牌",
+        "onboard_time": 1766023760,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105014,
+        "num": 105014,
+        "word": "英首相要求阿布将25亿切尔西售款援乌",
+        "onboard_time": 1766020102,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102269,
+        "num": 102269,
+        "word": "当近视的朋友第一次戴眼镜",
+        "onboard_time": 1766023221,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101832,
+        "num": 101832,
+        "word": "小米17Ultra下周发布",
+        "onboard_time": 1766024660,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101132,
+        "num": 101132,
+        "word": "抻完脖子长了十厘米",
+        "onboard_time": 1766023042,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98277,
+        "num": 98277,
+        "word": "iPhoneFold尺寸信息曝光",
+        "onboard_time": 1766023340,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91861,
+        "num": 91861,
+        "word": "钎城后援会 跑路",
+        "onboard_time": 1766020701,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91442,
+        "num": 91442,
+        "word": "王昆离世或因甲流",
+        "onboard_time": 1766020761,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90474,
+        "num": 90474,
+        "word": "不要去15号之后发工资的公司",
+        "onboard_time": 1766016141,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88648,
+        "num": 88648,
+        "word": "最能生娃省份排名来了",
+        "onboard_time": 1765971322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86877,
+        "num": 86877,
+        "word": "马龙的2025关键词",
+        "onboard_time": 1766024540,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85224,
+        "num": 85224,
+        "word": "京东外卖自提",
+        "onboard_time": 1766022441,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83664,
+        "num": 83664,
+        "word": "双轨直播",
+        "onboard_time": 1765977921,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82939,
+        "num": 82939,
+        "word": "霍格沃茨之遗销量破4000万份",
+        "onboard_time": 1766021900,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81161,
+        "num": 81161,
+        "word": "家庭作业A4纸化",
+        "onboard_time": 1766012837,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77222,
+        "num": 77222,
+        "word": "咪咪很生气为您服务",
+        "onboard_time": 1766024420,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 76077,
+        "word": "彩票店老板回应男子花3元中1750万",
+        "onboard_time": 1766014399,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73610,
+        "num": 73610,
+        "word": "看似日常其实在给癌症铺路的习惯",
+        "onboard_time": 1766024240,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72161,
+        "num": 72161,
+        "word": "丝芭让女艺人陪酒若属实可能被拘留",
+        "onboard_time": 1765991178,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71949,
+        "num": 71949,
+        "word": "本人撒过最多的谎",
+        "onboard_time": 1766024720,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

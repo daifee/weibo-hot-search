@@ -1,14 +1,22 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766023372205,
+  "endTime": 1766024757785,
   "band_list": [
     {
       "raw_hot": 1632817,
-      "num": 133146,
+      "num": 147518,
       "word": "我不喝可乐",
       "onboard_time": 1765986623,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1431360,
+      "num": 1431360,
+      "word": "2262年2个春节只放1次假",
+      "onboard_time": 1766021000,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 946163,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 743111,
-      "num": 167123,
+      "num": 219362,
       "word": "张韶涵前造型师回应裁员裁到大动脉",
       "onboard_time": 1766013438,
       "rank": 10,
@@ -28,19 +36,11 @@
     },
     {
       "raw_hot": 736965,
-      "num": 167460,
+      "num": 227069,
       "word": "陈妍希刘浩存 姐姐开门我是晓媛",
       "onboard_time": 1766022200,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623385,
-      "num": 413525,
-      "word": "2262年2个春节只放1次假",
-      "onboard_time": 1766021000,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 566616,
@@ -49,6 +49,14 @@
       "onboard_time": 1766017401,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466339,
+      "num": 206834,
+      "word": "没认出来是张雨绮",
+      "onboard_time": 1766020639,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 456443,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387553,
+      "num": 387553,
+      "word": "海南自贸港正式封关",
+      "onboard_time": 1766022501,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 363237,
       "num": 201538,
       "word": "芬兰总理正式道歉",
@@ -83,12 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 348017,
-      "num": 166829,
-      "word": "没认出来是张雨绮",
-      "onboard_time": 1766020639,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 353639,
+      "num": 353639,
+      "word": "香港女子疑点香薰引发火灾",
+      "onboard_time": 1766018902,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347120,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 269217,
-      "num": 144406,
+      "num": 154945,
       "word": "睡觉时建议把手机放在1.5米外",
       "onboard_time": 1766015479,
       "rank": 20,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 248952,
-      "num": 165294,
+      "num": 196783,
       "word": "27岁女子没来过例假一查竟是男儿芯",
       "onboard_time": 1765985721,
       "rank": 11,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 213860,
-      "num": 166195,
+      "num": 170957,
       "word": "何与回复虞书欣",
       "onboard_time": 1766019501,
       "rank": 14,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 208463,
-      "num": 141578,
+      "num": 154004,
       "word": "长期熬夜后身体释放的5个求救信号",
       "onboard_time": 1766015180,
       "rank": 21,
@@ -235,19 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199048,
+      "num": 199048,
+      "word": "南博",
+      "onboard_time": 1766020280,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196716,
-      "num": 196716,
+      "num": 238080,
       "word": "樊振东需通过资格赛获奥运参赛席位",
       "onboard_time": 1765979602,
       "rank": 4,
       "category": "体育"
     },
     {
-      "raw_hot": 196560,
-      "num": 196560,
-      "word": "南博",
-      "onboard_time": 1766020280,
-      "rank": 7,
+      "raw_hot": 193578,
+      "num": 151796,
+      "word": "小学生书包全是A4纸",
+      "onboard_time": 1766021959,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -259,20 +283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175943,
-      "num": 139970,
-      "word": "香港女子疑点香薰引发火灾",
-      "onboard_time": 1766018902,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173090,
-      "num": 134537,
-      "word": "小学生书包全是A4纸",
-      "onboard_time": 1766021959,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 181324,
+      "num": 181324,
+      "word": "当年轻人的圣诞树思路打开后",
+      "onboard_time": 1766023580,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 169386,
@@ -299,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145113,
-      "num": 145113,
-      "word": "海南自贸港正式封关",
-      "onboard_time": 1766022501,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 147280,
+      "num": 147280,
+      "word": "虞书欣何与给内娱亲密戏上强度了",
+      "onboard_time": 1766023999,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 144373,
@@ -411,6 +427,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "丝芭曾起诉鞠婧祎代言品牌",
+      "onboard_time": 1766023760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102269,
+      "num": 102269,
+      "word": "当近视的朋友第一次戴眼镜",
+      "onboard_time": 1766023221,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101832,
+      "num": 101832,
+      "word": "小米17Ultra下周发布",
+      "onboard_time": 1766024660,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 101132,
+      "num": 101132,
+      "word": "抻完脖子长了十厘米",
+      "onboard_time": 1766023042,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100214,
       "num": 100214,
       "word": "警务人员开警车接送孩子被停职",
@@ -475,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91442,
+      "num": 91442,
+      "word": "王昆离世或因甲流",
+      "onboard_time": 1766020761,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89968,
       "num": 99007,
       "word": "警方通报27岁男子机场打人",
@@ -507,20 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "马龙的2025关键词",
+      "onboard_time": 1766024540,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85224,
+      "num": 85224,
+      "word": "京东外卖自提",
+      "onboard_time": 1766022441,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83827,
       "num": 98992,
       "word": "老舅",
       "onboard_time": 1765978463,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82766,
-      "num": 82766,
-      "word": "王昆离世或因甲流",
-      "onboard_time": 1766020761,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 82043,
@@ -537,14 +601,6 @@
       "onboard_time": 1765956143,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81678,
-      "num": 81678,
-      "word": "抻完脖子长了十厘米",
-      "onboard_time": 1766023042,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 80674,
@@ -579,20 +635,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77475,
-      "num": 77475,
-      "word": "当近视的朋友第一次戴眼镜",
-      "onboard_time": 1766023221,
+      "raw_hot": 77222,
+      "num": 77222,
+      "word": "咪咪很生气为您服务",
+      "onboard_time": 1766024420,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75978,
-      "num": 75978,
-      "word": "京东外卖自提",
-      "onboard_time": 1766022441,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 75818,
@@ -612,7 +660,7 @@
     },
     {
       "raw_hot": 74655,
-      "num": 489945,
+      "num": 567822,
       "word": "我国发现新矿物金秀矿",
       "onboard_time": 1765976722,
       "rank": 2,
@@ -635,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73610,
+      "num": 73610,
+      "word": "看似日常其实在给癌症铺路的习惯",
+      "onboard_time": 1766024240,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72819,
       "num": 98918,
       "word": "Angelababy参加上海网红聚会",
       "onboard_time": 1765961424,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71949,
+      "num": 71949,
+      "word": "本人撒过最多的谎",
+      "onboard_time": 1766024720,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71924,
@@ -681,6 +745,14 @@
       "onboard_time": 1765972461,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60131,
+      "num": 156117,
+      "word": "中方将再赴柬泰穿梭调停",
+      "onboard_time": 1766024120,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59779,
