@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766029513431,
+  "endTime": 1766032883680,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 1405447,
-      "num": 205109,
+      "num": 317090,
       "word": "丝芭指控鞠婧祎严重经济犯罪",
       "onboard_time": 1766025979,
       "rank": 10,
@@ -1836,7 +1836,7 @@
     },
     {
       "raw_hot": 958904,
-      "num": 202352,
+      "num": 343529,
       "word": "张凯毅 背刺",
       "onboard_time": 1766024959,
       "rank": 11,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1764995901,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 954167,
+      "num": 1152666,
+      "word": "第一次知道微信支付还有这功能",
+      "onboard_time": 1766028741,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 950543,
@@ -4227,6 +4235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 619263,
+      "num": 479295,
+      "word": "郭敬明王一栩 苦命鸳鸯",
+      "onboard_time": 1766029460,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619231,
       "num": 264614,
       "word": "将门毒后 祝绪丹汪铎",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1765976962,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605492,
+      "num": 473275,
+      "word": "陈建斌逛故宫痛失本名",
+      "onboard_time": 1766030602,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 605153,
@@ -5665,6 +5689,14 @@
       "onboard_time": 1765111581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527131,
+      "num": 342637,
+      "word": "知情人称女教师对象曾以为她想通了",
+      "onboard_time": 1766029881,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526861,
@@ -6940,7 +6972,7 @@
     },
     {
       "raw_hot": 466257,
-      "num": 192150,
+      "num": 332774,
       "word": "27岁女子患性发育异常",
       "onboard_time": 1766027541,
       "rank": 13,
@@ -7659,6 +7691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440515,
+      "num": 333899,
+      "word": "河南女孩吐槽经常被南方室友催着洗澡",
+      "onboard_time": 1766031201,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439799,
       "num": 439799,
       "word": "很多人意识不到气血是补不回来的",
@@ -7953,6 +7993,14 @@
       "onboard_time": 1764553941,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428511,
+      "num": 428511,
+      "word": "时尚芭莎盛典名单",
+      "onboard_time": 1766030000,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 428064,
@@ -10011,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359751,
+      "num": 359751,
+      "word": "光遇",
+      "onboard_time": 1764804738,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 359143,
       "num": 275467,
       "word": "精神病男子射杀邻居改判死刑",
@@ -11073,6 +11129,14 @@
       "onboard_time": 1764739041,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331483,
+      "num": 331483,
+      "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+      "onboard_time": 1766027180,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330744,
@@ -13467,14 +13531,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 273709,
-      "num": 190431,
-      "word": "情侣住酒店把饭菜倒床上摔杯跑路",
-      "onboard_time": 1766027180,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 273593,
       "num": 191807,
       "word": "王鹤棣沈月 每隔三年be转he",
@@ -13633,14 +13689,6 @@
       "onboard_time": 1764946342,
       "rank": 4,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 269111,
-      "num": 269111,
-      "word": "光遇",
-      "onboard_time": 1764804738,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 268894,
@@ -14033,6 +14081,14 @@
       "onboard_time": 1765329503,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 262404,
+      "num": 262404,
+      "word": "热恋期的生理性喜欢藏不住",
+      "onboard_time": 1766028440,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 262266,
@@ -14617,14 +14673,6 @@
       "onboard_time": 1765624521,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252684,
-      "num": 184904,
-      "word": "第一次知道微信支付还有这功能",
-      "onboard_time": 1766028741,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 252262,
@@ -16419,6 +16467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223036,
+      "num": 178771,
+      "word": "怦然心动导演夫妇死因公布",
+      "onboard_time": 1766032582,
+      "rank": 30,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 222960,
       "num": 211998,
       "word": "难怪我妈说我小时候电视瘾很大",
@@ -16444,7 +16500,7 @@
     },
     {
       "raw_hot": 222609,
-      "num": 163971,
+      "num": 183516,
       "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
       "onboard_time": 1766025382,
       "rank": 22,
@@ -16529,14 +16585,6 @@
       "onboard_time": 1764898760,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220932,
-      "num": 165526,
-      "word": "热恋期的生理性喜欢藏不住",
-      "onboard_time": 1766028440,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 220641,
@@ -16723,6 +16771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218590,
+      "num": 218590,
+      "word": "徐冬冬尹子维婚纱照",
+      "onboard_time": 1766032402,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218519,
       "num": 218519,
       "word": "俄女网红儿子塞真空袋",
@@ -16889,6 +16945,14 @@
       "onboard_time": 1764795734,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216337,
+      "num": 216337,
+      "word": "李煜东不敢接女同学的球",
+      "onboard_time": 1766031201,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 216171,
@@ -17249,6 +17313,14 @@
       "onboard_time": 1765185681,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211767,
+      "num": 264895,
+      "word": "全球收入第1女运动员不到男子第100",
+      "onboard_time": 1766031804,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 211673,
@@ -18251,6 +18323,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 204378,
+      "num": 204378,
+      "word": "光遇复刻",
+      "onboard_time": 1765253603,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204337,
       "num": 189653,
       "word": "iG官宣Photic加入",
@@ -18288,6 +18368,14 @@
       "word": "金莎孙丞潇 现实版狙击蝴蝶",
       "onboard_time": 1765373662,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204037,
+      "num": 204037,
+      "word": "吃人的冰血窟送命的鸽血红",
+      "onboard_time": 1766028381,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -19419,12 +19507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196094,
-      "num": 160678,
-      "word": "吃人的冰血窟送命的鸽血红",
-      "onboard_time": 1766028381,
+      "raw_hot": 196111,
+      "num": 196111,
+      "word": "马頔 话糙理不糙但你这太糙了",
+      "onboard_time": 1766032102,
       "rank": 25,
-      "category": "剧集"
+      "category": "艺人"
     },
     {
       "raw_hot": 195962,
@@ -19649,6 +19737,14 @@
       "onboard_time": 1765262483,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194975,
+      "num": 194975,
+      "word": "罗永浩一整年点了557杯咖啡奶茶",
+      "onboard_time": 1766029581,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 194792,
@@ -20401,6 +20497,14 @@
       "onboard_time": 1765969880,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189237,
+      "num": 189237,
+      "word": "刘耀文边走边掉暖宝宝",
+      "onboard_time": 1766031501,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 189194,
@@ -21267,6 +21371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183700,
+      "num": 183700,
+      "word": "周杰伦报备型艺人实锤了",
+      "onboard_time": 1766028859,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "原来还有眼癌这一说",
@@ -21489,14 +21601,6 @@
       "onboard_time": 1764561263,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182174,
-      "num": 182174,
-      "word": "光遇复刻",
-      "onboard_time": 1765253603,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 182156,
@@ -25187,6 +25291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157706,
+      "num": 157706,
+      "word": "庞莱臣 南京博物院",
+      "onboard_time": 1766031623,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157661,
       "num": 157661,
       "word": "刘宇宁终于闯进主持人赛道了",
@@ -25419,12 +25531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156424,
-      "num": 156424,
-      "word": "周杰伦报备型艺人实锤了",
-      "onboard_time": 1766028859,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 156371,
+      "num": 156371,
+      "word": "湖南卫视跨年第二波阵容",
+      "onboard_time": 1766027063,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 156359,
@@ -25529,6 +25641,14 @@
       "onboard_time": 1764682404,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155927,
+      "num": 155927,
+      "word": "编舞老师曝TF三代边吃饭边哭",
+      "onboard_time": 1766031201,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 155921,
@@ -27147,14 +27267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147737,
-      "num": 147737,
-      "word": "湖南卫视跨年第二波阵容",
-      "onboard_time": 1766027063,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147729,
       "num": 186235,
       "word": "TheShy说赢了T1就能进决赛",
@@ -27897,6 +28009,14 @@
       "onboard_time": 1764993442,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144228,
+      "num": 144228,
+      "word": "时代少年团七个男人抱一圈",
+      "onboard_time": 1766031501,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 144222,
@@ -29329,6 +29449,14 @@
       "onboard_time": 1765370302,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "没有不夸关晓彤的义务",
+      "onboard_time": 1766032102,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 137891,
@@ -30899,6 +31027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132352,
+      "num": 132352,
+      "word": "樊振东为国争光的决心毋庸置疑",
+      "onboard_time": 1766031143,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132315,
       "num": 131351,
       "word": "突然理解马皇后了",
@@ -31089,6 +31225,14 @@
       "onboard_time": 1765184961,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131836,
+      "num": 131836,
+      "word": "李斯丹妮袁一琦安崎签保密协议",
+      "onboard_time": 1766032582,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131825,
@@ -31713,14 +31857,6 @@
       "onboard_time": 1765554202,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129753,
-      "num": 129753,
-      "word": "郭敬明王一栩 苦命鸳鸯",
-      "onboard_time": 1766029460,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 129735,
@@ -33235,6 +33371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124215,
+      "num": 124215,
+      "word": "两只小猫就已经没食吃了",
+      "onboard_time": 1766032702,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124184,
       "num": 148928,
       "word": "明清以及任何王朝更迭都是中国历史",
@@ -33377,6 +33521,14 @@
       "onboard_time": 1765551984,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123695,
+      "num": 113554,
+      "word": "谭松韵沈月芒果的女主回家了",
+      "onboard_time": 1766032102,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 123584,
@@ -34233,6 +34385,14 @@
       "onboard_time": 1765538483,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121345,
+      "num": 121345,
+      "word": "法国农民粪洗政府办公楼",
+      "onboard_time": 1766030842,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121306,
@@ -36643,6 +36803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114181,
+      "num": 114181,
+      "word": "宋威龙谭松韵湖南跨年二搭",
+      "onboard_time": 1766032763,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114131,
       "num": 114131,
       "word": "谁在纵容4400万粉丝网红擦边直播",
@@ -37417,6 +37585,14 @@
       "onboard_time": 1765717523,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112040,
+      "num": 112040,
+      "word": "朋友圈权限还调来调去的",
+      "onboard_time": 1766032343,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112019,
@@ -42089,6 +42265,14 @@
       "onboard_time": 1765178600,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98206,
+      "num": 196963,
+      "word": "华晨宇骐骥红",
+      "onboard_time": 1766027119,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 98151,
@@ -47451,6 +47635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79173,
+      "num": 132702,
+      "word": "疯狂动物城2年度票房第二",
+      "onboard_time": 1766031623,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79130,
       "num": 144851,
       "word": "艾滋病自愿咨询检测结果仅本人可查",
@@ -48297,6 +48489,14 @@
       "onboard_time": 1765175660,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75043,
+      "num": 121686,
+      "word": "沈月海绵宝宝大电影中国推广大使",
+      "onboard_time": 1766032822,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 75036,
@@ -50385,6 +50585,14 @@
       "onboard_time": 1765292722,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62951,
+      "num": 305896,
+      "word": "经期健康从干爽透气开始",
+      "onboard_time": 1766031740,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62947,
@@ -54033,6 +54241,14 @@
       "onboard_time": 1764731061,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 43087,
+      "num": 133893,
+      "word": "部分餐饮店要求外卖订单不可堂食",
+      "onboard_time": 1766031623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43026,
@@ -57707,14 +57923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27747,
-      "num": 196963,
-      "word": "华晨宇骐骥红",
-      "onboard_time": 1766027119,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27675,
       "num": 93229,
       "word": "男子将婚车贴满走失儿童信息",
@@ -57760,6 +57968,14 @@
       "word": "入室抢婴案二审择期宣判",
       "onboard_time": 1764916881,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27394,
+      "num": 509040,
+      "word": "下下周四就2026了",
+      "onboard_time": 1766029341,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -58320,14 +58536,6 @@
       "word": "食堂员工将工业酒精当作白酒提供",
       "onboard_time": 1765818797,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25198,
-      "num": 189956,
-      "word": "下下周四就2026了",
-      "onboard_time": 1766029341,
-      "rank": 11,
       "category": "民生新闻"
     },
     {

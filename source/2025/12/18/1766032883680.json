@@ -1,0 +1,410 @@
+{
+  "runTime": 1766032883680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954167,
+        "num": 1152666,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 649615,
+        "num": 649615,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27394,
+        "num": 509040,
+        "word": "下下周四就2026了",
+        "onboard_time": 1766029341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485301,
+        "num": 485301,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619263,
+        "num": 479295,
+        "word": "郭敬明王一栩 苦命鸳鸯",
+        "onboard_time": 1766029460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605492,
+        "num": 473275,
+        "word": "陈建斌逛故宫痛失本名",
+        "onboard_time": 1766030602,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428511,
+        "num": 428511,
+        "word": "时尚芭莎盛典名单",
+        "onboard_time": 1766030000,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 398283,
+        "num": 398283,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359751,
+        "num": 359751,
+        "word": "光遇",
+        "onboard_time": 1766031143,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193498,
+        "num": 346044,
+        "word": "泰柬冲突",
+        "onboard_time": 1766014758,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 624642,
+        "num": 343529,
+        "word": "张凯毅 背刺",
+        "onboard_time": 1766024959,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 527131,
+        "num": 342637,
+        "word": "知情人称女教师对象曾以为她想通了",
+        "onboard_time": 1766029881,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335519,
+        "num": 335519,
+        "word": "马年春晚吉祥物发布",
+        "onboard_time": 1766026520,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440515,
+        "num": 333899,
+        "word": "河南女孩吐槽经常被南方室友催着洗澡",
+        "onboard_time": 1766031201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386499,
+        "num": 332774,
+        "word": "27岁女子患性发育异常",
+        "onboard_time": 1766027541,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 331483,
+        "num": 331483,
+        "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+        "onboard_time": 1766027180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797866,
+        "num": 317090,
+        "word": "丝芭指控鞠婧祎严重经济犯罪",
+        "onboard_time": 1766025979,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62951,
+        "num": 305896,
+        "word": "经期健康从干爽透气开始",
+        "onboard_time": 1766031740,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2714205,
+        "num": 293788,
+        "word": "丝芭喊话鞠婧祎再不收手将实名举报",
+        "onboard_time": 1766025740,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211767,
+        "num": 264895,
+        "word": "全球收入第1女运动员不到男子第100",
+        "onboard_time": 1766031804,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262404,
+        "num": 262404,
+        "word": "热恋期的生理性喜欢藏不住",
+        "onboard_time": 1766028440,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218590,
+        "num": 218590,
+        "word": "徐冬冬尹子维婚纱照",
+        "onboard_time": 1766032402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216337,
+        "num": 216337,
+        "word": "李煜东不敢接女同学的球",
+        "onboard_time": 1766031201,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204378,
+        "num": 204378,
+        "word": "光遇复刻",
+        "onboard_time": 1766031081,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204037,
+        "num": 204037,
+        "word": "吃人的冰血窟送命的鸽血红",
+        "onboard_time": 1766028381,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196111,
+        "num": 196111,
+        "word": "马頔 话糙理不糙但你这太糙了",
+        "onboard_time": 1766032102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194975,
+        "num": 194975,
+        "word": "罗永浩一整年点了557杯咖啡奶茶",
+        "onboard_time": 1766029581,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189237,
+        "num": 189237,
+        "word": "刘耀文边走边掉暖宝宝",
+        "onboard_time": 1766031501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183700,
+        "num": 183700,
+        "word": "周杰伦报备型艺人实锤了",
+        "onboard_time": 1766028859,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183516,
+        "num": 183516,
+        "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
+        "onboard_time": 1766025382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223036,
+        "num": 178771,
+        "word": "怦然心动导演夫妇死因公布",
+        "onboard_time": 1766032582,
+        "rank": 30,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 157706,
+        "num": 157706,
+        "word": "庞莱臣 南京博物院",
+        "onboard_time": 1766031623,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 156371,
+        "word": "湖南卫视跨年第二波阵容",
+        "onboard_time": 1766027063,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155927,
+        "num": 155927,
+        "word": "编舞老师曝TF三代边吃饭边哭",
+        "onboard_time": 1766031201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152643,
+        "num": 152643,
+        "word": "情圣3定档",
+        "onboard_time": 1766028981,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144228,
+        "num": 144228,
+        "word": "时代少年团七个男人抱一圈",
+        "onboard_time": 1766031501,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 139450,
+        "word": "剑来",
+        "onboard_time": 1766026340,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137893,
+        "num": 137893,
+        "word": "没有不夸关晓彤的义务",
+        "onboard_time": 1766032102,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43087,
+        "num": 133893,
+        "word": "部分餐饮店要求外卖订单不可堂食",
+        "onboard_time": 1766031623,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79173,
+        "num": 132702,
+        "word": "疯狂动物城2年度票房第二",
+        "onboard_time": 1766031623,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98206,
+        "num": 132459,
+        "word": "华晨宇骐骥红",
+        "onboard_time": 1766027119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132352,
+        "num": 132352,
+        "word": "樊振东为国争光的决心毋庸置疑",
+        "onboard_time": 1766031143,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131836,
+        "num": 131836,
+        "word": "李斯丹妮袁一琦安崎签保密协议",
+        "onboard_time": 1766032582,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124215,
+        "num": 124215,
+        "word": "两只小猫就已经没食吃了",
+        "onboard_time": 1766032702,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75043,
+        "num": 121686,
+        "word": "沈月海绵宝宝大电影中国推广大使",
+        "onboard_time": 1766032822,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121345,
+        "num": 121345,
+        "word": "法国农民粪洗政府办公楼",
+        "onboard_time": 1766030842,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117210,
+        "num": 117210,
+        "word": "每年都会复活一次的老梗",
+        "onboard_time": 1766027840,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114181,
+        "num": 114181,
+        "word": "宋威龙谭松韵湖南跨年二搭",
+        "onboard_time": 1766032763,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123695,
+        "num": 113554,
+        "word": "谭松韵沈月芒果的女主回家了",
+        "onboard_time": 1766032102,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112040,
+        "num": 112040,
+        "word": "朋友圈权限还调来调去的",
+        "onboard_time": 1766032343,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
