@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766062656748,
+  "endTime": 1766063556239,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -4227,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624406,
+      "num": 235798,
+      "word": "Angelababy金粉裙",
+      "onboard_time": 1766061682,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 624370,
       "num": 326009,
       "word": "这居然是张凯丽",
@@ -6148,7 +6156,7 @@
     },
     {
       "raw_hot": 509552,
-      "num": 233482,
+      "num": 243534,
       "word": "广州官宣时代少年团演唱会",
       "onboard_time": 1766055201,
       "rank": 7,
@@ -6681,6 +6689,14 @@
       "onboard_time": 1765161801,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486523,
+      "num": 270922,
+      "word": "马嘉祺第一首OST",
+      "onboard_time": 1766061863,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 485699,
@@ -8987,6 +9003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400722,
+      "num": 196399,
+      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+      "onboard_time": 1766061502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400217,
       "num": 247411,
       "word": "高市早苗搂肩熊抱滑椅子",
@@ -10259,14 +10283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361709,
-      "num": 235798,
-      "word": "Angelababy金粉裙",
-      "onboard_time": 1766061682,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 361676,
       "num": 244592,
       "word": "李茂吐槽和弦子结婚九年感情淡了",
@@ -11529,14 +11545,6 @@
       "onboard_time": 1765424603,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330094,
-      "num": 241398,
-      "word": "马嘉祺第一首OST",
-      "onboard_time": 1766061863,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 329746,
@@ -12987,6 +12995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293922,
+      "num": 293922,
+      "word": "奇迹",
+      "onboard_time": 1766061863,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293497,
       "num": 287128,
       "word": "唐毓文被判18年",
@@ -13297,6 +13313,14 @@
       "onboard_time": 1765100900,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285572,
+      "num": 185171,
+      "word": "时隔两年Angelababy再战红毯",
+      "onboard_time": 1766062521,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285414,
@@ -13961,6 +13985,14 @@
       "onboard_time": 1765006221,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 273658,
+      "num": 232628,
+      "word": "智力残疾女孩遭侵犯其父讨说法被害",
+      "onboard_time": 1766060722,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273593,
@@ -15635,14 +15667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242852,
-      "num": 242852,
-      "word": "奇迹",
-      "onboard_time": 1766061863,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242849,
       "num": 187254,
       "word": "短剧女演员都快美成AI了",
@@ -16273,14 +16297,6 @@
       "onboard_time": 1765766722,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232628,
-      "num": 232628,
-      "word": "智力残疾女孩遭侵犯其父讨说法被害",
-      "onboard_time": 1766060722,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232409,
@@ -22131,14 +22147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183205,
-      "num": 196399,
-      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
-      "onboard_time": 1766061502,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183100,
       "num": 193429,
       "word": "邓紫棋到底在给谁作词",
@@ -26059,6 +26067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157747,
+      "num": 185056,
+      "word": "韩国人上海吃火锅把小料装满满的",
+      "onboard_time": 1766057001,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157718,
       "num": 157718,
       "word": "时代峰峻回应张奕然分班",
@@ -28859,6 +28875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144330,
+      "num": 144330,
+      "word": "陈哲远王传君合唱",
+      "onboard_time": 1766063121,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144305,
       "num": 284395,
       "word": "360将追究玉红法律责任",
@@ -29467,6 +29491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141421,
+      "num": 239061,
+      "word": "遭性侵女高管说病好了准备卖煎饼果子",
+      "onboard_time": 1766055080,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141350,
       "num": 141350,
       "word": "台湾花莲海域发生5.1级地震",
@@ -29913,6 +29945,14 @@
       "onboard_time": 1765446681,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 139542,
+      "num": 139542,
+      "word": "周奇 提到肖战没有不爱的义务",
+      "onboard_time": 1766062521,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139538,
@@ -33099,14 +33139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128779,
-      "num": 132773,
-      "word": "韩国人上海吃火锅把小料装满满的",
-      "onboard_time": 1766057001,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128772,
       "num": 139268,
       "word": "高薪岗位TOP20平均月薪超6万",
@@ -33473,6 +33505,14 @@
       "onboard_time": 1765798881,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127479,
+      "num": 185006,
+      "word": "金价波动",
+      "onboard_time": 1765424361,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 127456,
@@ -36251,6 +36291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "金饰克价涨到1359元",
+      "onboard_time": 1766058440,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119051,
       "num": 1781773,
       "word": "今年甲流常见问题看这里",
@@ -36337,14 +36385,6 @@
       "onboard_time": 1765973962,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118834,
-      "num": 118834,
-      "word": "金饰克价涨到1359元",
-      "onboard_time": 1766058440,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 118810,
@@ -37723,6 +37763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114836,
+      "num": 114836,
+      "word": "男子公园骑车遭铁丝勒脖身亡",
+      "onboard_time": 1766062942,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114797,
       "num": 114797,
       "word": "5月龄女婴手术离世母亲再发声",
@@ -37817,6 +37865,14 @@
       "onboard_time": 1764685104,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114498,
+      "num": 114498,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1766062342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 114487,
@@ -38507,6 +38563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112814,
+      "num": 112814,
+      "word": "石宇奇2比1周天成",
+      "onboard_time": 1766063241,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112813,
       "num": 112813,
       "word": "被猞猁的冲天辫帅到了",
@@ -38721,14 +38785,6 @@
       "onboard_time": 1765251083,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112321,
-      "num": 112321,
-      "word": "乒乓球欧冠联赛",
-      "onboard_time": 1766062342,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 112316,
@@ -39633,22 +39689,6 @@
       "onboard_time": 1765063697,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109363,
-      "num": 109363,
-      "word": "金价波动",
-      "onboard_time": 1765424361,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 109353,
-      "num": 109353,
-      "word": "周奇 提到肖战没有不爱的义务",
-      "onboard_time": 1766062521,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109347,
@@ -41363,14 +41403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104274,
-      "num": 104274,
-      "word": "时隔两年Angelababy再战红毯",
-      "onboard_time": 1766062521,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104269,
       "num": 104269,
       "word": "人生走马灯时刻",
@@ -42987,6 +43019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100096,
+      "num": 100096,
+      "word": "周奇剧里被成毅训剧外被记者训",
+      "onboard_time": 1766062821,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100094,
       "num": 100094,
       "word": "内存芯片价格大涨",
@@ -43249,6 +43289,14 @@
       "onboard_time": 1765184540,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99443,
+      "num": 99443,
+      "word": "球迷举樊振东童年照逗笑队友",
+      "onboard_time": 1766063302,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 99408,
@@ -44483,14 +44531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95847,
-      "num": 239061,
-      "word": "遭性侵女高管说病好了准备卖煎饼果子",
-      "onboard_time": 1766055080,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95831,
       "num": 93530,
       "word": "热巴的大眼睛让心疼都是高清的",
@@ -45369,6 +45409,14 @@
       "onboard_time": 1765092321,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92876,
+      "num": 139767,
+      "word": "车厘子等等党赢了",
+      "onboard_time": 1766059402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92850,
@@ -47529,14 +47577,6 @@
       "onboard_time": 1765875623,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86243,
-      "num": 133779,
-      "word": "车厘子等等党赢了",
-      "onboard_time": 1766059402,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86234,
@@ -59483,6 +59523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28796,
+      "num": 272557,
+      "word": "一组时空对比照看改革开放来时路",
+      "onboard_time": 1766052381,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28738,
       "num": 149659,
       "word": "日本冬瓜售卖方式",
@@ -59737,14 +59785,6 @@
       "onboard_time": 1765340602,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27795,
-      "num": 266437,
-      "word": "一组时空对比照看改革开放来时路",
-      "onboard_time": 1766052381,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27779,
@@ -61105,6 +61145,14 @@
       "onboard_time": 1765959502,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22418,
+      "num": 112574,
+      "word": "哀牢山荒野求生将于明年3月开赛",
+      "onboard_time": 1766062462,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22314,
@@ -62795,14 +62843,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 12490,
-      "num": 112574,
-      "word": "哀牢山荒野求生将于明年3月开赛",
-      "onboard_time": 1766062462,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12487,
       "num": 30157,
       "word": "如果你想买一件东西时犹豫不决",
@@ -63032,6 +63072,14 @@
       "word": "冰雪大世界建造现场科幻片既视感",
       "onboard_time": 1765292003,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11154,
+      "num": 107240,
+      "word": "油罐车侧翻后村民提桶捞柴油",
+      "onboard_time": 1766062821,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766062656748,
+  "endTime": 1766063556239,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1139,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624406,
+      "num": 235798,
+      "word": "Angelababy金粉裙",
+      "onboard_time": 1766061682,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 624370,
       "num": 326009,
       "word": "这居然是张凯丽",
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 509552,
-      "num": 233482,
+      "num": 243534,
       "word": "广州官宣时代少年团演唱会",
       "onboard_time": 1766055201,
       "rank": 7,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1765696223,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 486523,
+      "num": 270922,
+      "word": "马嘉祺第一首OST",
+      "onboard_time": 1766061863,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 483665,
@@ -2419,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400722,
+      "num": 196399,
+      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+      "onboard_time": 1766061502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399971,
       "num": 229246,
       "word": "李诞 娱乐圈是重灾区",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 361709,
-      "num": 235798,
-      "word": "Angelababy金粉裙",
-      "onboard_time": 1766061682,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 360043,
@@ -3089,14 +3105,6 @@
       "onboard_time": 1766036422,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330094,
-      "num": 241398,
-      "word": "马嘉祺第一首OST",
-      "onboard_time": 1766061863,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 328889,
@@ -3491,6 +3499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293922,
+      "num": 293922,
+      "word": "奇迹",
+      "onboard_time": 1766061863,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293497,
       "num": 287128,
       "word": "唐毓文被判18年",
@@ -3609,6 +3625,14 @@
       "onboard_time": 1765870042,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285572,
+      "num": 185171,
+      "word": "时隔两年Angelababy再战红毯",
+      "onboard_time": 1766062521,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285414,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1765767261,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273658,
+      "num": 232628,
+      "word": "智力残疾女孩遭侵犯其父讨说法被害",
+      "onboard_time": 1766060722,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272969,
@@ -4395,14 +4427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242852,
-      "num": 242852,
-      "word": "奇迹",
-      "onboard_time": 1766061863,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242849,
       "num": 187254,
       "word": "短剧女演员都快美成AI了",
@@ -4481,14 +4505,6 @@
       "onboard_time": 1765766722,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232628,
-      "num": 232628,
-      "word": "智力残疾女孩遭侵犯其父讨说法被害",
-      "onboard_time": 1766060722,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232409,
@@ -6315,14 +6331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183205,
-      "num": 196399,
-      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
-      "onboard_time": 1766061502,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182639,
       "num": 182639,
       "word": "侯明昊谭松韵演上强制爱了",
@@ -7363,6 +7371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157747,
+      "num": 185056,
+      "word": "韩国人上海吃火锅把小料装满满的",
+      "onboard_time": 1766057001,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157718,
       "num": 157718,
       "word": "时代峰峻回应张奕然分班",
@@ -8115,6 +8131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144330,
+      "num": 144330,
+      "word": "陈哲远王传君合唱",
+      "onboard_time": 1766063121,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144305,
       "num": 284395,
       "word": "360将追究玉红法律责任",
@@ -8259,6 +8283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141421,
+      "num": 239061,
+      "word": "遭性侵女高管说病好了准备卖煎饼果子",
+      "onboard_time": 1766055080,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141139,
       "num": 141139,
       "word": "怪不得衣服买回去穿不出店里效果",
@@ -8337,6 +8369,14 @@
       "onboard_time": 1765706902,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139542,
+      "num": 139542,
+      "word": "周奇 提到肖战没有不爱的义务",
+      "onboard_time": 1766062521,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139500,
@@ -9307,14 +9347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128779,
-      "num": 132773,
-      "word": "韩国人上海吃火锅把小料装满满的",
-      "onboard_time": 1766057001,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128685,
       "num": 128685,
       "word": "叙前总统阿萨德一家在莫斯科近况曝光",
@@ -9425,6 +9457,14 @@
       "onboard_time": 1765635203,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127479,
+      "num": 185006,
+      "word": "金价波动",
+      "onboard_time": 1766062821,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 127226,
@@ -10099,6 +10139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "金饰克价涨到1359元",
+      "onboard_time": 1766058440,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118987,
       "num": 118987,
       "word": "新月同行停更",
@@ -10113,14 +10161,6 @@
       "onboard_time": 1765973962,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118834,
-      "num": 118834,
-      "word": "金饰克价涨到1359元",
-      "onboard_time": 1766058440,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 118648,
@@ -10539,6 +10579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114836,
+      "num": 114836,
+      "word": "男子公园骑车遭铁丝勒脖身亡",
+      "onboard_time": 1766062942,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "每天练背10分钟是回报率最高的运动",
@@ -10561,6 +10609,14 @@
       "onboard_time": 1766053341,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114498,
+      "num": 114498,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1766062342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 114352,
@@ -10771,6 +10827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112814,
+      "num": 112814,
+      "word": "石宇奇2比1周天成",
+      "onboard_time": 1766063241,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112554,
       "num": 112554,
       "word": "文班亚马22分",
@@ -10817,14 +10881,6 @@
       "onboard_time": 1765898184,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112321,
-      "num": 112321,
-      "word": "乒乓球欧冠联赛",
-      "onboard_time": 1766062342,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 112316,
@@ -11097,14 +11153,6 @@
       "onboard_time": 1765965921,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109353,
-      "num": 109353,
-      "word": "周奇 提到肖战没有不爱的义务",
-      "onboard_time": 1766062521,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109339,
@@ -11497,14 +11545,6 @@
       "onboard_time": 1765763601,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104274,
-      "num": 104274,
-      "word": "时隔两年Angelababy再战红毯",
-      "onboard_time": 1766062521,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 104138,
@@ -11971,6 +12011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100096,
+      "num": 100096,
+      "word": "周奇剧里被成毅训剧外被记者训",
+      "onboard_time": 1766062821,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100060,
       "num": 117333,
       "word": "军队文职答案",
@@ -12057,6 +12105,14 @@
       "onboard_time": 1765957282,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99443,
+      "num": 99443,
+      "word": "球迷举樊振东童年照逗笑队友",
+      "onboard_time": 1766063302,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 99197,
@@ -12419,14 +12475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95847,
-      "num": 239061,
-      "word": "遭性侵女高管说病好了准备卖煎饼果子",
-      "onboard_time": 1766055080,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "虞书欣发了最好嗑的镜头live",
@@ -12712,6 +12760,14 @@
       "word": "镇政府回应一村未婚先孕罚款3000",
       "onboard_time": 1765957401,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92876,
+      "num": 139767,
+      "word": "车厘子等等党赢了",
+      "onboard_time": 1766059402,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -13377,14 +13433,6 @@
       "onboard_time": 1765875623,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86243,
-      "num": 133779,
-      "word": "车厘子等等党赢了",
-      "onboard_time": 1766059402,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86234,
@@ -17059,6 +17107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28796,
+      "num": 272557,
+      "word": "一组时空对比照看改革开放来时路",
+      "onboard_time": 1766052381,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28726,
       "num": 143155,
       "word": "樊振东说升国旗就是最好的庆祝",
@@ -17121,14 +17177,6 @@
       "onboard_time": 1766037682,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 27795,
-      "num": 266437,
-      "word": "一组时空对比照看改革开放来时路",
-      "onboard_time": 1766052381,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27749,
@@ -17521,6 +17569,14 @@
       "onboard_time": 1765959502,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22418,
+      "num": 112574,
+      "word": "哀牢山荒野求生将于明年3月开赛",
+      "onboard_time": 1766062462,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22256,
@@ -18011,14 +18067,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 12490,
-      "num": 112574,
-      "word": "哀牢山荒野求生将于明年3月开赛",
-      "onboard_time": 1766062462,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12302,
       "num": 24874,
       "word": "微博年度期待作品",
@@ -18064,6 +18112,14 @@
       "word": "转账上亿建佛堂设坛被控迷信罪",
       "onboard_time": 1765892965,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11154,
+      "num": 107240,
+      "word": "油罐车侧翻后村民提桶捞柴油",
+      "onboard_time": 1766062821,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
