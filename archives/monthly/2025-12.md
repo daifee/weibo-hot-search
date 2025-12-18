@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 17:49:42
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 18:33:08
 </p>
 </blockquote>
 <p>
@@ -1689,6 +1689,12 @@ AG超玩会vs上海RNG.M（热度：964267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%95%99%E5%B8%88%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%84%BF%E9%80%80%E5%BD%A9%E7%A4%BC%E6%8B%92%E7%BB%9D%E9%80%80%E5%A9%9A%23" target="weibo">
+坠亡女教师父母不愿退彩礼拒绝退婚（热度：886595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%9B%B4%E6%92%AD%23" target="weibo">
 刘耀文直播（热度：883597）
 </a>
@@ -2441,6 +2447,12 @@ AG战胜RNGM（热度：716311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%23" target="weibo">
 丝芭回应鞠婧祎（热度：710895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E6%8B%8D%E7%9F%AD%E5%89%A7%E7%BB%93%E6%9E%9C%E8%B5%94%E4%BA%86%E8%BF%91%E5%8D%83%E4%B8%87%23" target="weibo">
+全资进组拍短剧结果赔了近千万（热度：709031）
 </a>
 </li>
 
@@ -3605,12 +3617,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83%E5%A5%BD%E9%9A%BE%23" target="weibo">
 江苏省考好难（热度：582111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E6%8B%8D%E7%9F%AD%E5%89%A7%E7%BB%93%E6%9E%9C%E8%B5%94%E4%BA%86%E8%BF%91%E5%8D%83%E4%B8%87%23" target="weibo">
-全资进组拍短剧结果赔了近千万（热度：581225）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ SK发博（热度：442774）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%8D%97%E6%B3%95%E5%BA%A6%E5%81%87%23" target="weibo">
 乔欣南法度假（热度：433491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%BA%A43%E4%B8%878%E7%9B%B8%E4%BA%B2%E4%B8%8D%E5%88%B024%E5%B0%8F%E6%97%B6%E5%B0%B1%E5%90%8E%E6%82%94%23" target="weibo">
-姑娘交3万8相亲不到24小时就后悔（热度：433286）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766053988048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709031,
+        "num": 1113445,
+        "word": "全资进组拍短剧结果赔了近千万",
+        "onboard_time": 1766049380,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246403,
+        "num": 246403,
+        "word": "国际航班外籍男子辱骂骚扰中国女生",
+        "onboard_time": 1766047581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26135,
+        "num": 246397,
+        "word": "一组时空对比照看改革开放来时路",
+        "onboard_time": 1766052381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312305,
+        "num": 246258,
+        "word": "英雄联盟",
+        "onboard_time": 1766049921,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248299,
+        "num": 246152,
+        "word": "55岁三星长公主李富真露面",
+        "onboard_time": 1766038222,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1072029,
+        "num": 246143,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 886595,
+        "num": 246011,
+        "word": "坠亡女教师父母不愿退彩礼拒绝退婚",
+        "onboard_time": 1766050761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226682,
+        "num": 245925,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214543,
+        "num": 245858,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345829,
+        "num": 245723,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 409381,
+        "num": 245687,
+        "word": "济南",
+        "onboard_time": 1766051960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381595,
+        "num": 245555,
+        "word": "办公室轮流请奶茶真的很窒息",
+        "onboard_time": 1766047042,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373814,
+        "num": 245476,
+        "word": "遭性侵女高管回应开价2000万和解",
+        "onboard_time": 1766052799,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310903,
+        "num": 245413,
+        "word": "海南封关首日iPhone最高可减2140元",
+        "onboard_time": 1766043561,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245366,
+        "num": 245366,
+        "word": "多位博主爆料张凯毅",
+        "onboard_time": 1766046681,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225441,
+        "num": 225441,
+        "word": "王俊凯粉丝",
+        "onboard_time": 1766043981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204146,
+        "num": 204146,
+        "word": "国家文物局调查博物馆藏画拍卖事件",
+        "onboard_time": 1766052381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18742,
+        "num": 203897,
+        "word": "陶昕然与千问讨论安小鸟命运",
+        "onboard_time": 1766050460,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33099,
+        "num": 203879,
+        "word": "爆料护士更衣室被偷拍博主发声",
+        "onboard_time": 1766053580,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203863,
+        "num": 203863,
+        "word": "律师称丝芭致鞠婧祎告知无法律效力",
+        "onboard_time": 1766052321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715565,
+        "num": 203712,
+        "word": "霍建华问林心如我是你司机吗",
+        "onboard_time": 1766045962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374945,
+        "num": 203442,
+        "word": "珠海",
+        "onboard_time": 1766046621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328375,
+        "num": 203216,
+        "word": "曝成毅助理打粉丝",
+        "onboard_time": 1766046441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202420,
+        "num": 202420,
+        "word": "陈晓陈妍希会共同承担家庭责任",
+        "onboard_time": 1766049800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194184,
+        "num": 194184,
+        "word": "大熊猫遭游客故意投掷打火机",
+        "onboard_time": 1766052381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167906,
+        "num": 167906,
+        "word": "胡先煦王安宇在欧洲待不住",
+        "onboard_time": 1766040322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155613,
+        "num": 155613,
+        "word": "双轨",
+        "onboard_time": 1766053042,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153534,
+        "num": 153534,
+        "word": "向佐同时穿了男装和女装",
+        "onboard_time": 1766052860,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135736,
+        "num": 135736,
+        "word": "猫咪向主人炫耀自己生了三花",
+        "onboard_time": 1766048480,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 131495,
+        "word": "小米华为理想先后报警12人团伙被抓",
+        "onboard_time": 1766052081,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "满江红2原班人马",
+        "onboard_time": 1766047042,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131145,
+        "num": 131145,
+        "word": "7成超时孩子用家长信息规避防沉迷",
+        "onboard_time": 1766053279,
+        "rank": 31,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 137510,
+        "num": 127065,
+        "word": "向佐穿了十厘米高跟鞋",
+        "onboard_time": 1766053341,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121092,
+        "num": 121092,
+        "word": "唐诡剧组谁教你这么团建的",
+        "onboard_time": 1766053102,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112844,
+        "num": 112844,
+        "word": "Epic提前道歉",
+        "onboard_time": 1766046441,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107326,
+        "num": 107326,
+        "word": "宋威龙骄阳似我克制到青筋爆起",
+        "onboard_time": 1766053341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37842,
+        "num": 107055,
+        "word": "单月访日中国游客骤降15万人",
+        "onboard_time": 1766052860,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30620,
+        "num": 106946,
+        "word": "香港10亿日元劫案",
+        "onboard_time": 1766053940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71512,
+        "num": 106430,
+        "word": "郑丽文宣战赖清德",
+        "onboard_time": 1766053399,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24307,
+        "num": 106066,
+        "word": "何与 人红了五官也帅得清晰了",
+        "onboard_time": 1766053221,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36658,
+        "num": 105845,
+        "word": "谁能拒绝白鹿用汤圆做的奶茶",
+        "onboard_time": 1766049261,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32762,
+        "num": 105351,
+        "word": "全职儿女是逃避就业吗",
+        "onboard_time": 1766052740,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 105160,
+        "num": 105160,
+        "word": "果郡王14年来还在追查真相",
+        "onboard_time": 1766048242,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100234,
+        "num": 100234,
+        "word": "满脑子都是虞书欣买聊劳",
+        "onboard_time": 1766049081,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95315,
+        "num": 95315,
+        "word": "特朗普账户宣传存1千可涨至60万",
+        "onboard_time": 1766044222,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93131,
+        "num": 93131,
+        "word": "阿凡达3首批口碑来了",
+        "onboard_time": 1766053462,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89198,
+        "num": 89198,
+        "word": "长安二十四计",
+        "onboard_time": 1766053821,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88836,
+        "num": 88836,
+        "word": "报销 反向抹零",
+        "onboard_time": 1766042001,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84311,
+        "num": 84311,
+        "word": "无畏选择了弹幕最多的打法",
+        "onboard_time": 1766052200,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82924,
+        "num": 82924,
+        "word": "王艺瑾首谈转型原因",
+        "onboard_time": 1766050580,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}
