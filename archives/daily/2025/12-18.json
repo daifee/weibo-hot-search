@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766033704436,
+  "endTime": 1766035898311,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669414,
+      "num": 473275,
+      "word": "陈建斌逛故宫痛失本名",
+      "onboard_time": 1766030602,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630389,
       "num": 630389,
       "word": "春晚",
@@ -89,14 +97,6 @@
       "onboard_time": 1766029460,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 605492,
-      "num": 473275,
-      "word": "陈建斌逛故宫痛失本名",
-      "onboard_time": 1766030602,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 551768,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437262,
+      "num": 258068,
+      "word": "董子初爆料张凯毅",
+      "onboard_time": 1766033542,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 428511,
       "num": 428511,
       "word": "时尚芭莎盛典名单",
@@ -161,6 +169,14 @@
       "onboard_time": 1766014758,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 396828,
+      "num": 274292,
+      "word": "李煜东不敢接女同学的球",
+      "onboard_time": 1766031201,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 387918,
@@ -179,12 +195,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 372026,
+      "num": 292066,
+      "word": "庞莱臣 南京博物院",
+      "onboard_time": 1766031623,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363237,
       "num": 201538,
       "word": "芬兰总理正式道歉",
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 363176,
+      "num": 269895,
+      "word": "全球收入第1女运动员不到男子第100",
+      "onboard_time": 1766031804,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 359751,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 351933,
-      "num": 218590,
+      "num": 269037,
       "word": "徐冬冬尹子维婚纱照",
       "onboard_time": 1766032402,
       "rank": 21,
@@ -235,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308646,
-      "num": 264895,
-      "word": "全球收入第1女运动员不到男子第100",
-      "onboard_time": 1766031804,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305193,
       "num": 178771,
       "word": "怦然心动导演夫妇死因公布",
@@ -257,14 +281,6 @@
       "onboard_time": 1765986501,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293295,
-      "num": 216394,
-      "word": "李煜东不敢接女同学的球",
-      "onboard_time": 1766031201,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 288615,
@@ -315,6 +331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 267035,
+      "num": 218408,
+      "word": "丝芭鞠婧祎热搜见不如法庭见",
+      "onboard_time": 1766033426,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262404,
       "num": 262404,
       "word": "热恋期的生理性喜欢藏不住",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 241521,
-      "num": 241521,
+      "num": 279266,
       "word": "剑来",
       "onboard_time": 1766026340,
       "rank": 7,
@@ -393,6 +417,14 @@
       "onboard_time": 1766025382,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217017,
+      "num": 217017,
+      "word": "正常人写作业vs我写作业",
+      "onboard_time": 1766034922,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 215681,
@@ -459,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200182,
+      "num": 162372,
+      "word": "汪苏泷 南宁两天都见",
+      "onboard_time": 1766035222,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199048,
       "num": 199048,
       "word": "南博",
@@ -475,8 +515,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196501,
+      "num": 196501,
+      "word": "关晓彤早就爱你老己了",
+      "onboard_time": 1766034203,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194975,
-      "num": 194975,
+      "num": 273375,
       "word": "罗永浩一整年点了557杯咖啡奶茶",
       "onboard_time": 1766029581,
       "rank": 26,
@@ -488,6 +536,14 @@
       "word": "小学生书包全是A4纸",
       "onboard_time": 1766021959,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192536,
+      "num": 192536,
+      "word": "男子吹玻璃30年变青蛙王子",
+      "onboard_time": 1766034862,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -505,6 +561,14 @@
       "onboard_time": 1766031501,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185080,
+      "num": 185080,
+      "word": "姐狗恋和叔狗恋都差11岁",
+      "onboard_time": 1766034982,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 183700,
@@ -531,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173839,
+      "num": 173839,
+      "word": "两只小猫就已经没食吃了",
+      "onboard_time": 1766032702,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170278,
+      "num": 280273,
+      "word": "光与夜之恋",
+      "onboard_time": 1766034082,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169995,
       "num": 169995,
       "word": "剑来动画第二季定档",
@@ -544,14 +624,6 @@
       "word": "比月圆还准时的是老己的爱",
       "onboard_time": 1766023340,
       "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 169331,
-      "num": 159196,
-      "word": "两只小猫就已经没食吃了",
-      "onboard_time": 1766032702,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -587,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160597,
-      "num": 160597,
-      "word": "丝芭鞠婧祎热搜见不如法庭见",
-      "onboard_time": 1766033426,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 160243,
+      "num": 160243,
+      "word": "每天只花28一万够花一年",
+      "onboard_time": 1766034322,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 159751,
@@ -619,14 +691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157706,
-      "num": 157706,
-      "word": "庞莱臣 南京博物院",
-      "onboard_time": 1766031623,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156580,
       "num": 156580,
       "word": "情圣3定档",
@@ -635,12 +699,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156554,
+      "num": 156554,
+      "word": "许知远对话汪顺",
+      "onboard_time": 1766035402,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156371,
       "num": 156371,
       "word": "湖南卫视跨年第二波阵容",
       "onboard_time": 1766027063,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154351,
+      "num": 168470,
+      "word": "业内曝辛芷蕾唯一黑点",
+      "onboard_time": 1766034322,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 153133,
@@ -691,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143634,
+      "num": 143634,
+      "word": "工作倒贴行为",
+      "onboard_time": 1766034563,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142260,
       "num": 142260,
       "word": "男子中1750万彩票朋友跟买中35万",
@@ -705,14 +793,6 @@
       "onboard_time": 1765962623,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 141928,
-      "num": 141928,
-      "word": "董子初爆料张凯毅",
-      "onboard_time": 1766033542,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 138078,
@@ -737,6 +817,22 @@
       "onboard_time": 1766028500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133511,
+      "num": 133511,
+      "word": "知情人曝怦然心动导演夫妇惨死细节",
+      "onboard_time": 1766033903,
+      "rank": 40,
+      "category": "海外新闻,艺人"
+    },
+    {
+      "raw_hot": 133368,
+      "num": 133368,
+      "word": "高效写作业的正确打开方式",
+      "onboard_time": 1766035822,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 132703,
@@ -811,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128987,
+      "num": 128987,
+      "word": "云顶天宫工作人员下班好像小企鹅",
+      "onboard_time": 1766035581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128413,
       "num": 128413,
       "word": "冬天对于流浪猫来说有多难",
@@ -843,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123564,
+      "num": 123564,
+      "word": "Rookie谈叫Viper老公",
+      "onboard_time": 1766035101,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122486,
       "num": 122486,
       "word": "天津一医院女护士更衣被偷拍",
@@ -857,6 +969,14 @@
       "onboard_time": 1766033362,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122223,
+      "num": 122223,
+      "word": "不建议冬天穿太紧的衣服",
+      "onboard_time": 1766034801,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 122071,
@@ -875,20 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121008,
+      "num": 121008,
+      "word": "iPhone折叠屏",
+      "onboard_time": 1766032883,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 120877,
+      "num": 124663,
+      "word": "意想不到的圣诞过节思路",
+      "onboard_time": 1766034503,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "我发现男朋友背着我偷偷嗑",
       "onboard_time": 1766028440,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117581,
-      "num": 117581,
-      "word": "iPhone折叠屏",
-      "onboard_time": 1766032883,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 116815,
@@ -1227,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74085,
+      "num": 134071,
+      "word": "成毅被机场广播催登机",
+      "onboard_time": 1766035222,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73671,
       "num": 98984,
       "word": "山姆车厘子30天狂降100元",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1766024240,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72991,
+      "num": 123587,
+      "word": "领克900在贵州修音响",
+      "onboard_time": 1766035822,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 72819,
@@ -1321,6 +1465,22 @@
       "onboard_time": 1765972461,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60797,
+      "num": 270988,
+      "word": "胡歌状态好能打",
+      "onboard_time": 1766034262,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60257,
+      "num": 133592,
+      "word": "坠楼女教师被父母以死相逼催婚7年",
+      "onboard_time": 1766035462,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60131,
@@ -1465,6 +1625,14 @@
       "onboard_time": 1765987761,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38785,
+      "num": 173465,
+      "word": "张歆艺说N6真能装",
+      "onboard_time": 1766035702,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 36252,
