@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766063556239,
+  "endTime": 1766065442904,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1801608,
-      "num": 310741,
+      "num": 359260,
       "word": "海南封关",
       "onboard_time": 1766040441,
       "rank": 8,
@@ -171,12 +171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665210,
+      "num": 1106433,
+      "word": "小米",
+      "onboard_time": 1766063481,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 651425,
       "num": 260333,
       "word": "曝流量女星拍戏要求点满1000元肯德基",
       "onboard_time": 1766040681,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651149,
+      "num": 186689,
+      "word": "时隔两年Angelababy再战红毯",
+      "onboard_time": 1766062521,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 630389,
@@ -187,7 +203,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 624406,
+      "raw_hot": 624496,
       "num": 235798,
       "word": "Angelababy金粉裙",
       "onboard_time": 1766061682,
@@ -259,8 +275,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518175,
+      "num": 518175,
+      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+      "onboard_time": 1766061502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514298,
-      "num": 244727,
+      "num": 484422,
       "word": "徐璐回应不进组",
       "onboard_time": 1766060601,
       "rank": 3,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 486523,
-      "num": 270922,
+      "num": 345342,
       "word": "马嘉祺第一首OST",
       "onboard_time": 1766061863,
       "rank": 6,
@@ -392,14 +416,6 @@
       "word": "国家文物局调查博物馆藏画拍卖事件",
       "onboard_time": 1766052381,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400722,
-      "num": 196399,
-      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
-      "onboard_time": 1766061502,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -683,12 +699,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 285572,
-      "num": 185171,
-      "word": "时隔两年Angelababy再战红毯",
-      "onboard_time": 1766062521,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 285568,
+      "num": 232628,
+      "word": "智力残疾女孩遭侵犯其父讨说法被害",
+      "onboard_time": 1766060722,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280868,
@@ -723,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273658,
-      "num": 232628,
-      "word": "智力残疾女孩遭侵犯其父讨说法被害",
-      "onboard_time": 1766060722,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270823,
       "num": 270823,
       "word": "双轨直播",
@@ -752,6 +760,14 @@
       "word": "丝芭鞠婧祎热搜见不如法庭见",
       "onboard_time": 1766033426,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262663,
+      "num": 184330,
+      "word": "谭松韵状态",
+      "onboard_time": 1766064021,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -851,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224487,
+      "num": 185006,
+      "word": "金价波动",
+      "onboard_time": 1766062821,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 222609,
       "num": 191260,
       "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
@@ -875,6 +899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 219380,
+      "num": 179369,
+      "word": "人生及时止损有多重要",
+      "onboard_time": 1766064923,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217017,
       "num": 217017,
       "word": "正常人写作业vs我写作业",
@@ -897,6 +929,14 @@
       "onboard_time": 1766032102,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214161,
+      "num": 179130,
+      "word": "彭小苒大大方方 我看得战战兢兢",
+      "onboard_time": 1766063662,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213860,
@@ -961,6 +1001,14 @@
       "onboard_time": 1766015180,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206497,
+      "num": 126009,
+      "word": "因为穷染上了新疆人的化妆品",
+      "onboard_time": 1766064381,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 206370,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1766036481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199589,
+      "num": 178737,
+      "word": "0713十个勤天再见面人均徒步佬",
+      "onboard_time": 1766065283,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 199048,
@@ -1217,6 +1273,14 @@
       "onboard_time": 1766049081,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178677,
+      "num": 178677,
+      "word": "金价",
+      "onboard_time": 1766064082,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 176003,
@@ -1539,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144146,
+      "num": 144146,
+      "word": "护士更衣间偷拍视频现不雅网站",
+      "onboard_time": 1766065223,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "原神那维莱特",
@@ -1819,14 +1891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127479,
-      "num": 185006,
-      "word": "金价波动",
-      "onboard_time": 1766062821,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 126876,
       "num": 100130,
       "word": "家里不穿的毛衣不要扔了",
@@ -1979,12 +2043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120274,
+      "num": 180043,
+      "word": "车厘子等等党赢了",
+      "onboard_time": 1766059402,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119066,
       "num": 119066,
       "word": "金饰克价涨到1359元",
       "onboard_time": 1766058440,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118759,
+      "num": 118759,
+      "word": "男子公园骑车遭铁丝勒脖身亡",
+      "onboard_time": 1766062942,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118571,
@@ -2083,14 +2163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114836,
-      "num": 114836,
-      "word": "男子公园骑车遭铁丝勒脖身亡",
-      "onboard_time": 1766062942,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114651,
       "num": 114651,
       "word": "宋威龙骄阳似我克制到青筋爆起",
@@ -2107,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114388,
+      "num": 179761,
+      "word": "期待樊振东欧冠首秀",
+      "onboard_time": 1766064203,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113747,
       "num": 113747,
       "word": "周深到底欠B站什么",
@@ -2116,7 +2196,7 @@
     },
     {
       "raw_hot": 113388,
-      "num": 156071,
+      "num": 484463,
       "word": "大批车厘子坐船到中国了",
       "onboard_time": 1766045061,
       "rank": 28,
@@ -2195,6 +2275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109921,
+      "num": 109921,
+      "word": "小米辣暴涨至约70元一公斤",
+      "onboard_time": 1766065342,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109138,
       "num": 109138,
       "word": "野火不知春 编辑记录",
@@ -2233,6 +2321,14 @@
       "onboard_time": 1766045721,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105504,
+      "num": 105504,
+      "word": "日本前女市长为开房男下属申冤",
+      "onboard_time": 1766063662,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105248,
@@ -2459,14 +2555,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 94754,
-      "num": 94754,
-      "word": "小米",
-      "onboard_time": 1766063481,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93887,
       "num": 113601,
       "word": "顺灏股份涨停",
@@ -2481,14 +2569,6 @@
       "onboard_time": 1766053462,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92876,
-      "num": 139767,
-      "word": "车厘子等等党赢了",
-      "onboard_time": 1766059402,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92505,
@@ -2707,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81108,
+      "num": 81108,
+      "word": "崔丽丽说诉求207万只是我的工资",
+      "onboard_time": 1766064623,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80803,
       "num": 131264,
       "word": "一诺名梗盘点",
@@ -2721,6 +2809,14 @@
       "onboard_time": 1766038101,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80739,
+      "num": 80739,
+      "word": "陈哲远迈着一屏幕的腿就来了",
+      "onboard_time": 1766064021,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 80674,
@@ -2811,6 +2907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75618,
+      "num": 75618,
+      "word": "不二之臣",
+      "onboard_time": 1766065162,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75606,
       "num": 98885,
       "word": "Jasper和吴尊一家滑雪",
@@ -2865,6 +2969,14 @@
       "onboard_time": 1765961424,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72321,
+      "num": 72321,
+      "word": "芭莎艺术之夜",
+      "onboard_time": 1766065402,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 71949,
@@ -3025,6 +3137,14 @@
       "onboard_time": 1766055920,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55115,
+      "num": 99031,
+      "word": "父亲起诉患精神疾病女儿每月给1000",
+      "onboard_time": 1766064861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54888,
