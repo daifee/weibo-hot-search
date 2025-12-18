@@ -1,0 +1,410 @@
+{
+  "runTime": 1766029513431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946960,
+        "num": 1151513,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532677,
+        "num": 532677,
+        "word": "马年春晚吉祥物发布",
+        "onboard_time": 1766026520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21846,
+        "num": 422408,
+        "word": "海南自贸港进入开放发展新阶段",
+        "onboard_time": 1766018661,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352818,
+        "num": 352818,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333863,
+        "num": 333863,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4470634,
+        "num": 331387,
+        "word": "丝芭喊话鞠婧祎再不收手将实名举报",
+        "onboard_time": 1766025740,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253815,
+        "num": 253815,
+        "word": "泰柬冲突",
+        "onboard_time": 1766014758,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241521,
+        "num": 241521,
+        "word": "剑来",
+        "onboard_time": 1766026340,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199537,
+        "num": 199537,
+        "word": "海南自贸港正式封关",
+        "onboard_time": 1766022501,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152231,
+        "num": 197240,
+        "word": "女孩穿光腿神器进了急诊",
+        "onboard_time": 1765986021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27747,
+        "num": 194393,
+        "word": "华晨宇骐骥红",
+        "onboard_time": 1766027119,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25198,
+        "num": 189956,
+        "word": "下下周四就2026了",
+        "onboard_time": 1766029341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1322622,
+        "num": 188599,
+        "word": "丝芭指控鞠婧祎严重经济犯罪",
+        "onboard_time": 1766025979,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927754,
+        "num": 186011,
+        "word": "张凯毅 背刺",
+        "onboard_time": 1766024959,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 466257,
+        "num": 181588,
+        "word": "27岁女子患性发育异常",
+        "onboard_time": 1766027541,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 273709,
+        "num": 177032,
+        "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+        "onboard_time": 1766027180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252684,
+        "num": 173948,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236145,
+        "num": 172163,
+        "word": "虞书欣何与给内娱亲密戏上强度了",
+        "onboard_time": 1766023999,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169995,
+        "num": 169995,
+        "word": "剑来动画第二季定档",
+        "onboard_time": 1766029041,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 166701,
+        "word": "我当年要有这种语文得考满分",
+        "onboard_time": 1766029341,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48755,
+        "num": 166545,
+        "word": "我国发现新矿物金秀矿",
+        "onboard_time": 1765976722,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220932,
+        "num": 165526,
+        "word": "热恋期的生理性喜欢藏不住",
+        "onboard_time": 1766028440,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217712,
+        "num": 164783,
+        "word": "小米17Ultra发布时间定档",
+        "onboard_time": 1766026101,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211396,
+        "num": 163971,
+        "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
+        "onboard_time": 1766025382,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141367,
+        "num": 163373,
+        "word": "封关后进出海南岛受影响吗",
+        "onboard_time": 1766026759,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67537,
+        "num": 162646,
+        "word": "连锁酒店保洁员用地巾擦刷牙杯",
+        "onboard_time": 1766028021,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 210387,
+        "num": 161847,
+        "word": "陈妍希刘浩存 姐姐开门我是晓媛",
+        "onboard_time": 1766022200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208464,
+        "num": 161354,
+        "word": "每年都会复活一次的老梗",
+        "onboard_time": 1766027840,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179242,
+        "num": 160678,
+        "word": "吃人的冰血窟送命的鸽血红",
+        "onboard_time": 1766028381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160353,
+        "num": 160353,
+        "word": "张韶涵前造型师回应裁员裁到大动脉",
+        "onboard_time": 1766013438,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156580,
+        "num": 156580,
+        "word": "情圣3定档",
+        "onboard_time": 1766028981,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156424,
+        "num": 156424,
+        "word": "周杰伦报备型艺人实锤了",
+        "onboard_time": 1766028859,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134986,
+        "num": 149739,
+        "word": "香港女子疑点香薰引发火灾",
+        "onboard_time": 1766018902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147737,
+        "num": 147737,
+        "word": "湖南卫视跨年第二波阵容",
+        "onboard_time": 1766027063,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146306,
+        "num": 146306,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1766027119,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 146101,
+        "word": "日本遗孤说是吃黑龙江水长大的",
+        "onboard_time": 1766027421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40333,
+        "num": 144697,
+        "word": "少林师父说甲亢哥夸张但真诚",
+        "onboard_time": 1766029222,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123947,
+        "num": 144095,
+        "word": "他在故事开头阻挡孩子必死的结局",
+        "onboard_time": 1766029222,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79795,
+        "num": 142946,
+        "word": "贵州一断指烫伤男童牵出多残家庭",
+        "onboard_time": 1766028381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20731,
+        "num": 141374,
+        "word": "男子欲去缅甸搞电诈被识破获刑6个月",
+        "onboard_time": 1766029222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140994,
+        "num": 140994,
+        "word": "男主等了两百年等出了双女主",
+        "onboard_time": 1766026101,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "陈添祥你到底穿了多少条秋裤",
+        "onboard_time": 1766028500,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130799,
+        "num": 130799,
+        "word": "兄妹失散十五年至死没相认",
+        "onboard_time": 1766028560,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "张小泉名下浙A迈巴赫被拍卖",
+        "onboard_time": 1766025321,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129753,
+        "num": 129753,
+        "word": "郭敬明王一栩 苦命鸳鸯",
+        "onboard_time": 1766029460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36018,
+        "num": 128624,
+        "word": "吸纳村民120万扶贫资金合作社破产",
+        "onboard_time": 1766028021,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128413,
+        "num": 128413,
+        "word": "冬天对于流浪猫来说有多难",
+        "onboard_time": 1766029100,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125118,
+        "num": 125118,
+        "word": "相亲双双隐瞒未离婚男方被打",
+        "onboard_time": 1766016442,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82477,
+        "num": 118628,
+        "word": "刘宇宁务实天花板",
+        "onboard_time": 1766028021,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67953,
+        "num": 117328,
+        "word": "马克龙就欧盟对华加征关税表态",
+        "onboard_time": 1766028021,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}

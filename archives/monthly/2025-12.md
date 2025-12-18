@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 11:39:49
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 11:45:13
 </p>
 </blockquote>
 <p>
@@ -100,7 +100,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E5%96%8A%E8%AF%9D%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%86%8D%E4%B8%8D%E6%94%B6%E6%89%8B%E5%B0%86%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23" target="weibo">
-丝芭喊话鞠婧祎再不收手将实名举报（热度：4314499）
+丝芭喊话鞠婧祎再不收手将实名举报（热度：4470634）
 </a>
 </li>
 
@@ -5217,6 +5217,12 @@ iG官宣TheShy离场（热度：488363）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%82%A3%E6%80%A7%E5%8F%91%E8%82%B2%E5%BC%82%E5%B8%B8%23" target="weibo">
+27岁女子患性发育异常（热度：466257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E5%A5%B6%E8%8C%B6%23" target="weibo">
 年度奶茶（热度：466079）
 </a>
@@ -6005,12 +6011,6 @@ SK发博（热度：442774）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%BD%A8%E5%89%A7%E5%AE%A3%E5%B0%BA%E5%BA%A6%23" target="weibo">
 双轨剧宣尺度（热度：427056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%8F%88%E5%A4%B8%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%BA%86%23" target="weibo">
-颖儿又夸付辛博了（热度：426989）
 </a>
 </li>
 
