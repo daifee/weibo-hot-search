@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766058075257,
+  "endTime": 1766062656748,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739135,
+      "num": 237060,
+      "word": "何穗雪中素颜怼拍",
+      "onboard_time": 1766060601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736965,
       "num": 227069,
       "word": "陈妍希刘浩存 姐姐开门我是晓媛",
       "onboard_time": 1766022200,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726022,
+      "num": 1116163,
+      "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+      "onboard_time": 1766056461,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 709031,
@@ -235,8 +251,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514298,
+      "num": 244727,
+      "word": "徐璐回应不进组",
+      "onboard_time": 1766060601,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509552,
-      "num": 214264,
+      "num": 233482,
       "word": "广州官宣时代少年团演唱会",
       "onboard_time": 1766055201,
       "rank": 7,
@@ -419,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361709,
+      "num": 235798,
+      "word": "Angelababy金粉裙",
+      "onboard_time": 1766061682,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 359877,
       "num": 298516,
       "word": "胡先煦王安宇在欧洲待不住",
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332882,
+      "num": 235099,
+      "word": "唐诡奇谭首播断层登顶",
+      "onboard_time": 1766057480,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331483,
       "num": 331483,
       "word": "情侣住酒店把饭菜倒床上摔杯跑路",
@@ -505,6 +545,14 @@
       "onboard_time": 1766036422,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330094,
+      "num": 241398,
+      "word": "马嘉祺第一首OST",
+      "onboard_time": 1766061863,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 323839,
@@ -529,6 +577,14 @@
       "onboard_time": 1766043381,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319739,
+      "num": 234284,
+      "word": "母亲为女儿驱魔致其死亡",
+      "onboard_time": 1766060420,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312305,
@@ -580,7 +636,7 @@
     },
     {
       "raw_hot": 298481,
-      "num": 221087,
+      "num": 237929,
       "word": "济南泄漏热力管道已抢修完毕",
       "onboard_time": 1766051960,
       "rank": 10,
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 247376,
-      "num": 185175,
+      "num": 194792,
       "word": "发工资后低成本奖励自己tips",
       "onboard_time": 1766056461,
       "rank": 23,
@@ -713,6 +769,14 @@
       "onboard_time": 1766042901,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242852,
+      "num": 242852,
+      "word": "奇迹",
+      "onboard_time": 1766061863,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 241521,
@@ -747,11 +811,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 232628,
+      "num": 232628,
+      "word": "智力残疾女孩遭侵犯其父讨说法被害",
+      "onboard_time": 1766060722,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232130,
       "num": 165678,
       "word": "陈妍希回应脸颊肉像饺子一样",
       "onboard_time": 1766016682,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229274,
+      "num": 195434,
+      "word": "彭小苒把深V缝起来了",
+      "onboard_time": 1766058140,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -955,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196737,
+      "num": 196737,
+      "word": "苹果客服回应iPhone内存用完就坏了",
+      "onboard_time": 1766059281,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196716,
       "num": 238080,
       "word": "樊振东需通过资格赛获奥运参赛席位",
@@ -1075,12 +1163,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184648,
+      "num": 184648,
+      "word": "管乐妈妈认领小酒窝是Q版管乐",
+      "onboard_time": 1766060960,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183700,
       "num": 183700,
       "word": "周杰伦报备型艺人实锤了",
       "onboard_time": 1766028859,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183205,
+      "num": 196399,
+      "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+      "onboard_time": 1766061502,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181324,
@@ -1105,6 +1209,14 @@
       "onboard_time": 1766049081,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176003,
+      "num": 176003,
+      "word": "广州天河官宣明年53场演唱会",
+      "onboard_time": 1766057660,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 174416,
@@ -1203,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160352,
-      "num": 184999,
-      "word": "泰国彻夜播放鬼叫声恐吓柬村民",
-      "onboard_time": 1766056461,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160242,
       "num": 160242,
       "word": "周奇被问跟肖战合作时会不会有压力",
@@ -1299,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154902,
-      "num": 154902,
-      "word": "唐诡奇谭首播断层登顶",
-      "onboard_time": 1766057480,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154689,
       "num": 154689,
       "word": "曝童星出道女明星拍戏带8个助理",
@@ -1387,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146990,
+      "num": 146990,
+      "word": "港媒标题 65岁惠英红震撼做妈妈",
+      "onboard_time": 1766058020,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146449,
       "num": 114888,
       "word": "大孤山",
@@ -1441,14 +1545,6 @@
       "onboard_time": 1765962623,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 141637,
-      "num": 141637,
-      "word": "广州天河官宣明年53场演唱会",
-      "onboard_time": 1766057660,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 139806,
@@ -1579,6 +1675,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 131888,
+      "num": 137053,
+      "word": "日本知道台湾大熊猫叫什么吗",
+      "onboard_time": 1766057961,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131145,
       "num": 131145,
       "word": "7成超时孩子用家长信息规避防沉迷",
@@ -1657,6 +1761,14 @@
       "onboard_time": 1766028021,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128779,
+      "num": 132773,
+      "word": "韩国人上海吃火锅把小料装满满的",
+      "onboard_time": 1766057001,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 128448,
@@ -1827,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118834,
+      "num": 118834,
+      "word": "金饰克价涨到1359元",
+      "onboard_time": 1766058440,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "我发现男朋友背着我偷偷嗑",
@@ -1971,12 +2091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112693,
-      "num": 112693,
-      "word": "韩国人上海吃火锅把小料装满满的",
-      "onboard_time": 1766057001,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 112321,
+      "num": 112321,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1766062342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 112316,
@@ -2019,6 +2139,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109353,
+      "num": 109353,
+      "word": "周奇 提到肖战没有不爱的义务",
+      "onboard_time": 1766062521,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109138,
+      "num": 109138,
+      "word": "野火不知春 编辑记录",
+      "onboard_time": 1766061863,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 109003,
+      "num": 109003,
+      "word": "谢娜活力之夜主持人",
+      "onboard_time": 1766060781,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "正式确诊为杂圈人",
@@ -2043,14 +2187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106440,
-      "num": 106440,
-      "word": "港媒标题 65岁惠英红震撼做妈妈",
-      "onboard_time": 1766058020,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105248,
       "num": 105248,
       "word": "丝芭曾起诉鞠婧祎代言品牌",
@@ -2067,12 +2203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104274,
+      "num": 104274,
+      "word": "时隔两年Angelababy再战红毯",
+      "onboard_time": 1766062521,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102760,
       "num": 101106,
       "word": "刘耀文黄晓明 半大小子吃穷老子",
       "onboard_time": 1766045061,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102525,
+      "num": 102525,
+      "word": "长安二十四计来了个搞纯爱的",
+      "onboard_time": 1766062101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 102499,
@@ -2145,6 +2297,14 @@
       "onboard_time": 1766056701,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100283,
+      "num": 100283,
+      "word": "男子养异宠被咬致截肢",
+      "onboard_time": 1766059580,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100214,
@@ -2233,6 +2393,14 @@
       "onboard_time": 1766057422,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95847,
+      "num": 239061,
+      "word": "遭性侵女高管说病好了准备卖煎饼果子",
+      "onboard_time": 1766055080,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95261,
@@ -2377,6 +2545,14 @@
       "onboard_time": 1766024540,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86243,
+      "num": 133779,
+      "word": "车厘子等等党赢了",
+      "onboard_time": 1766059402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85815,
@@ -3123,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29832,
+      "num": 109182,
+      "word": "充电宝40分钟花费87元",
+      "onboard_time": 1766061260,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29390,
       "num": 97883,
       "word": "上班遇车祸公司称不是合理路线拒赔",
@@ -3339,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12490,
+      "num": 112574,
+      "word": "哀牢山荒野求生将于明年3月开赛",
+      "onboard_time": 1766062462,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11420,
       "num": 14316,
       "word": "月鳞绮纪",
@@ -3353,14 +3545,6 @@
       "onboard_time": 1766040742,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8273,
-      "num": 137053,
-      "word": "日本知道台湾大熊猫叫什么吗",
-      "onboard_time": 1766057961,
-      "rank": 38,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

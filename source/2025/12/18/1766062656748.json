@@ -1,0 +1,410 @@
+{
+  "runTime": 1766062656748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726022,
+        "num": 1116163,
+        "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+        "onboard_time": 1766056461,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279366,
+        "num": 279366,
+        "word": "女子被买3张高铁票票价过万",
+        "onboard_time": 1766055080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27771,
+        "num": 246534,
+        "word": "一组时空对比照看改革开放来时路",
+        "onboard_time": 1766052381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514298,
+        "num": 244727,
+        "word": "徐璐回应不进组",
+        "onboard_time": 1766060601,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242852,
+        "num": 242852,
+        "word": "奇迹",
+        "onboard_time": 1766061863,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714752,
+        "num": 242248,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330094,
+        "num": 241398,
+        "word": "马嘉祺第一首OST",
+        "onboard_time": 1766061863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132232,
+        "num": 240624,
+        "word": "英雄联盟",
+        "onboard_time": 1766049921,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95847,
+        "num": 239061,
+        "word": "遭性侵女高管说病好了准备卖煎饼果子",
+        "onboard_time": 1766055080,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28494,
+        "num": 237929,
+        "word": "济南泄漏热力管道已抢修完毕",
+        "onboard_time": 1766051960,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739135,
+        "num": 237060,
+        "word": "何穗雪中素颜怼拍",
+        "onboard_time": 1766060601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361709,
+        "num": 235798,
+        "word": "Angelababy金粉裙",
+        "onboard_time": 1766061682,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332882,
+        "num": 235099,
+        "word": "唐诡奇谭首播断层登顶",
+        "onboard_time": 1766057480,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319739,
+        "num": 234284,
+        "word": "母亲为女儿驱魔致其死亡",
+        "onboard_time": 1766060420,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298057,
+        "num": 233482,
+        "word": "广州官宣时代少年团演唱会",
+        "onboard_time": 1766055201,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232628,
+        "num": 232628,
+        "word": "智力残疾女孩遭侵犯其父讨说法被害",
+        "onboard_time": 1766060722,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210423,
+        "num": 210423,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196737,
+        "num": 196737,
+        "word": "苹果客服回应iPhone内存用完就坏了",
+        "onboard_time": 1766059281,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150121,
+        "num": 196477,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183205,
+        "num": 196399,
+        "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+        "onboard_time": 1766061502,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285997,
+        "num": 196031,
+        "word": "谁家女明星走红毯秀背阔肌啊",
+        "onboard_time": 1766056401,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272307,
+        "num": 195925,
+        "word": "美伢 完全没整过",
+        "onboard_time": 1766054424,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229274,
+        "num": 195434,
+        "word": "彭小苒把深V缝起来了",
+        "onboard_time": 1766058140,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195405,
+        "num": 195405,
+        "word": "霍建华问林心如我是你司机吗",
+        "onboard_time": 1766045962,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194792,
+        "num": 194792,
+        "word": "发工资后低成本奖励自己tips",
+        "onboard_time": 1766056461,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 184648,
+        "num": 184648,
+        "word": "管乐妈妈认领小酒窝是Q版管乐",
+        "onboard_time": 1766060960,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176003,
+        "num": 176003,
+        "word": "广州天河官宣明年53场演唱会",
+        "onboard_time": 1766057660,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146990,
+        "num": 146990,
+        "word": "港媒标题 65岁惠英红震撼做妈妈",
+        "onboard_time": 1766058020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "全资进组拍短剧结果赔了近千万",
+        "onboard_time": 1766049380,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86243,
+        "num": 133779,
+        "word": "车厘子等等党赢了",
+        "onboard_time": 1766059402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 132773,
+        "word": "韩国人上海吃火锅把小料装满满的",
+        "onboard_time": 1766057001,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 131888,
+        "word": "日本知道台湾大熊猫叫什么吗",
+        "onboard_time": 1766057961,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 129504,
+        "word": "曝成毅助理打粉丝",
+        "onboard_time": 1766046441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128380,
+        "num": 128380,
+        "word": "亲爱的鲁豫女士 时代跟上你了",
+        "onboard_time": 1766054239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122076,
+        "num": 122076,
+        "word": "双轨",
+        "onboard_time": 1766053042,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121029,
+        "num": 121029,
+        "word": "海南封关首日iPhone最高可减2140元",
+        "onboard_time": 1766043561,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 118834,
+        "word": "金饰克价涨到1359元",
+        "onboard_time": 1766058440,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116940,
+        "num": 116940,
+        "word": "王俊凯粉丝",
+        "onboard_time": 1766043981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112929,
+        "num": 112929,
+        "word": "双轨吻戏",
+        "onboard_time": 1766056401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12490,
+        "num": 112574,
+        "word": "哀牢山荒野求生将于明年3月开赛",
+        "onboard_time": 1766062462,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112321,
+        "num": 112321,
+        "word": "乒乓球欧冠联赛",
+        "onboard_time": 1766062342,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110284,
+        "num": 110284,
+        "word": "靳朝车祸",
+        "onboard_time": 1766055560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110051,
+        "num": 110051,
+        "word": "海南封关当地居民发声",
+        "onboard_time": 1766055560,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109353,
+        "num": 109353,
+        "word": "周奇 提到肖战没有不爱的义务",
+        "onboard_time": 1766062521,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29832,
+        "num": 109182,
+        "word": "充电宝40分钟花费87元",
+        "onboard_time": 1766061260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109138,
+        "num": 109138,
+        "word": "野火不知春 编辑记录",
+        "onboard_time": 1766061863,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 109003,
+        "num": 109003,
+        "word": "谢娜活力之夜主持人",
+        "onboard_time": 1766060781,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104274,
+        "num": 104274,
+        "word": "时隔两年Angelababy再战红毯",
+        "onboard_time": 1766062521,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102525,
+        "num": 102525,
+        "word": "长安二十四计来了个搞纯爱的",
+        "onboard_time": 1766062101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100283,
+        "num": 100283,
+        "word": "男子养异宠被咬致截肢",
+        "onboard_time": 1766059580,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}
