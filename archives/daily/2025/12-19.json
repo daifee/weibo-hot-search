@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766080064482,
+  "endTime": 1766083303018,
   "band_list": [
     {
       "raw_hot": 433191,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 29919,
-      "num": 45055,
+      "num": 46718,
       "word": "济南泄漏热力管道已抢修完毕",
       "onboard_time": 1766051960,
       "rank": 39,
@@ -491,12 +491,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15329,
+      "raw_hot": 20899,
+      "num": 29583,
+      "word": "男子养异宠被咬致截肢",
+      "onboard_time": 1766059580,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19293,
       "num": 224365,
       "word": "海南自由贸易港今起全岛封关",
       "onboard_time": 1766063603,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15318,
+      "num": 29448,
+      "word": "金价波动",
+      "onboard_time": 1766062821,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 15289,
+      "num": 29431,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766080276,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15233,
+      "num": 29417,
+      "word": "融合嘻哈盛典",
+      "onboard_time": 1766073739,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15087,
+      "num": 29390,
+      "word": "TF四代 再见朋友",
+      "onboard_time": 1766065642,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

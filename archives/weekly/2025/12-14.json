@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766080064482,
+  "endTime": 1766083303018,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -18427,6 +18427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19293,
+      "num": 224365,
+      "word": "海南自由贸易港今起全岛封关",
+      "onboard_time": 1766063603,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18952,
       "num": 193775,
       "word": "罗马许愿池要收费了",
@@ -18547,12 +18555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15329,
-      "num": 224365,
-      "word": "海南自由贸易港今起全岛封关",
-      "onboard_time": 1766063603,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 15289,
+      "num": 29431,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766080276,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 15271,
@@ -18561,6 +18569,14 @@
       "onboard_time": 1765949603,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15233,
+      "num": 29417,
+      "word": "融合嘻哈盛典",
+      "onboard_time": 1766073739,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 15096,
