@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766014926383,
+  "endTime": 1766023372205,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1632817,
-      "num": 102835,
+      "num": 133146,
       "word": "我不喝可乐",
       "onboard_time": 1765986623,
       "rank": 20,
@@ -345,6 +345,14 @@
       "onboard_time": 1765953322,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 946163,
+      "num": 1151386,
+      "word": "香港宣布取消维港跨年烟花汇演",
+      "onboard_time": 1766018781,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 931339,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 743111,
-      "num": 121352,
+      "num": 167123,
       "word": "张韶涵前造型师回应裁员裁到大动脉",
       "onboard_time": 1766013438,
       "rank": 10,
@@ -640,6 +648,14 @@
       "word": "第一眼以为Angelababy早期仿妆",
       "onboard_time": 1765891282,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 736965,
+      "num": 167460,
+      "word": "陈妍希刘浩存 姐姐开门我是晓媛",
+      "onboard_time": 1766022200,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623385,
+      "num": 413525,
+      "word": "2262年2个春节只放1次假",
+      "onboard_time": 1766021000,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 623314,
       "num": 301738,
       "word": "恋与深空",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1765705281,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 566616,
+      "num": 566616,
+      "word": "春晚",
+      "onboard_time": 1766017401,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 564550,
@@ -1867,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427180,
+      "num": 427180,
+      "word": "泰柬冲突",
+      "onboard_time": 1766014758,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 427056,
       "num": 295326,
       "word": "双轨剧宣尺度",
@@ -2419,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348017,
+      "num": 166829,
+      "word": "没认出来是张雨绮",
+      "onboard_time": 1766020639,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347758,
       "num": 156570,
       "word": "3000多人被养生骗走5亿元",
@@ -2747,6 +2795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 310549,
+      "num": 310549,
+      "word": "相亲双双隐瞒未离婚男方被打",
+      "onboard_time": 1766016442,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310497,
       "num": 1013270,
       "word": "麦当劳回应涨价",
@@ -2996,7 +3052,7 @@
     },
     {
       "raw_hot": 287764,
-      "num": 121269,
+      "num": 166263,
       "word": "再坚持一下 2262年有两个春节",
       "onboard_time": 1766011276,
       "rank": 45,
@@ -3257,6 +3313,14 @@
       "onboard_time": 1765970361,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269217,
+      "num": 144406,
+      "word": "睡觉时建议把手机放在1.5米外",
+      "onboard_time": 1766015479,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 268293,
@@ -3636,7 +3700,7 @@
     },
     {
       "raw_hot": 248952,
-      "num": 134637,
+      "num": 165294,
       "word": "27岁女子没来过例假一查竟是男儿芯",
       "onboard_time": 1765985721,
       "rank": 31,
@@ -3817,6 +3881,14 @@
       "onboard_time": 1765933161,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232130,
+      "num": 165678,
+      "word": "陈妍希回应脸颊肉像饺子一样",
+      "onboard_time": 1766016682,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231812,
@@ -4219,6 +4291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213860,
+      "num": 166195,
+      "word": "何与回复虞书欣",
+      "onboard_time": 1766019501,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213802,
       "num": 213802,
       "word": "韩网红说爱上中国是因为中国人",
@@ -4289,6 +4369,14 @@
       "onboard_time": 1765718544,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208463,
+      "num": 141578,
+      "word": "长期熬夜后身体释放的5个求救信号",
+      "onboard_time": 1766015180,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208369,
@@ -4745,6 +4833,14 @@
       "onboard_time": 1765774942,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196560,
+      "num": 196560,
+      "word": "南博",
+      "onboard_time": 1766020280,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196496,
@@ -5555,6 +5651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175943,
+      "num": 139970,
+      "word": "香港女子疑点香薰引发火灾",
+      "onboard_time": 1766018902,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175336,
       "num": 234104,
       "word": "日本太空航母野心曝光",
@@ -5648,6 +5752,14 @@
       "word": "当学生面摔死小猫宿管已被辞退",
       "onboard_time": 1765897945,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173090,
+      "num": 134537,
+      "word": "小学生书包全是A4纸",
+      "onboard_time": 1766021959,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -5761,6 +5873,14 @@
       "onboard_time": 1765802903,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169386,
+      "num": 165507,
+      "word": "比月圆还准时的是老己的爱",
+      "onboard_time": 1766023340,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 169113,
@@ -6755,6 +6875,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 145113,
+      "num": 145113,
+      "word": "海南自贸港正式封关",
+      "onboard_time": 1766022501,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145056,
       "num": 146638,
       "word": "王楚钦孙颖莎入围体坛年度最佳组合",
@@ -7587,6 +7715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131099,
+      "num": 131099,
+      "word": "英首相要求阿布将25亿切尔西售款援乌",
+      "onboard_time": 1766020102,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131027,
       "num": 131027,
       "word": "向太说易烊千玺的戏路可以到60岁",
@@ -7673,6 +7809,14 @@
       "onboard_time": 1765681222,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 129936,
+      "num": 129936,
+      "word": "我国发现亚洲最大海底金矿",
+      "onboard_time": 1766020040,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129932,
@@ -7921,6 +8065,14 @@
       "onboard_time": 1765783703,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 126140,
+      "num": 126140,
+      "word": "家庭作业A4纸化",
+      "onboard_time": 1766012837,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 126044,
@@ -8201,6 +8353,14 @@
       "onboard_time": 1765704561,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1766021360,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 121973,
@@ -8625,6 +8785,14 @@
       "onboard_time": 1765699702,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116401,
+      "num": 116401,
+      "word": "钎城后援会 跑路",
+      "onboard_time": 1766020701,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 116328,
@@ -9891,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100161,
+      "num": 100161,
+      "word": "iPhoneFold尺寸信息曝光",
+      "onboard_time": 1766023340,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100138,
       "num": 100138,
       "word": "卷到清北毕业后却给二本毕业生打工",
@@ -9961,6 +10137,14 @@
       "onboard_time": 1765982244,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99598,
+      "num": 99598,
+      "word": "不要去15号之后发工资的公司",
+      "onboard_time": 1766016141,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 99583,
@@ -10040,6 +10224,14 @@
       "word": "杨鸣连吃两T被驱逐",
       "onboard_time": 1765979662,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98638,
+      "num": 98638,
+      "word": "中国女排前队长惠若琪拟任新职",
+      "onboard_time": 1766018362,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -11011,6 +11203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89254,
+      "num": 89254,
+      "word": "彩票店老板回应男子花3元中1750万",
+      "onboard_time": 1766014399,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89081,
       "num": 132919,
       "word": "2000多年前的垃圾桶",
@@ -11049,6 +11249,14 @@
       "onboard_time": 1765636043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88421,
+      "num": 88421,
+      "word": "霍格沃茨之遗销量破4000万份",
+      "onboard_time": 1766021900,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 88158,
@@ -11347,6 +11555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82766,
+      "num": 82766,
+      "word": "王昆离世或因甲流",
+      "onboard_time": 1766020761,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82656,
       "num": 116371,
       "word": "陈妍希是狙击蝴蝶原著粉",
@@ -11419,6 +11635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82043,
+      "num": 82043,
+      "word": "深圳地铁11号线",
+      "onboard_time": 1766016442,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81887,
       "num": 302854,
       "word": "悉尼枪击事件1名枪手身份确认",
@@ -11433,6 +11657,14 @@
       "onboard_time": 1765798521,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81678,
+      "num": 81678,
+      "word": "抻完脖子长了十厘米",
+      "onboard_time": 1766023042,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 81596,
@@ -11481,6 +11713,14 @@
       "onboard_time": 1765983685,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80674,
+      "num": 80674,
+      "word": "伊朗一处海滩海水变成血红色",
+      "onboard_time": 1766018122,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80639,
@@ -11595,6 +11835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77945,
+      "num": 77945,
+      "word": "工信部部长会见AMD苏姿丰",
+      "onboard_time": 1766023340,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77924,
       "num": 104274,
       "word": "身体这些不舒服可能是炎症预警",
@@ -11648,6 +11896,14 @@
       "word": "是不是养猫的都这样",
       "onboard_time": 1765684163,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77475,
+      "num": 77475,
+      "word": "当近视的朋友第一次戴眼镜",
+      "onboard_time": 1766023221,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -11715,6 +11971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75978,
+      "num": 75978,
+      "word": "京东外卖自提",
+      "onboard_time": 1766022441,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 75945,
       "num": 75945,
       "word": "致我那菜市场的白月光",
@@ -11745,14 +12009,6 @@
       "onboard_time": 1765986921,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 75701,
-      "num": 75701,
-      "word": "家庭作业A4纸化",
-      "onboard_time": 1766012837,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 75606,
@@ -11809,6 +12065,14 @@
       "onboard_time": 1765877062,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74655,
+      "num": 489945,
+      "word": "我国发现新矿物金秀矿",
+      "onboard_time": 1765976722,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74026,
@@ -11905,6 +12169,14 @@
       "onboard_time": 1765841419,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71924,
+      "num": 71924,
+      "word": "鞠婧祎对接确认出席时尚芭莎盛典",
+      "onboard_time": 1766018480,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 71831,
@@ -12096,14 +12368,6 @@
       "word": "为何越来越多的女性开始穿男装",
       "onboard_time": 1765945643,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68196,
-      "num": 68196,
-      "word": "彩票店老板回应男子花3元中1750万",
-      "onboard_time": 1766014399,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -13235,14 +13499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44908,
-      "num": 44908,
-      "word": "泰柬冲突",
-      "onboard_time": 1766014758,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44848,
       "num": 269212,
       "word": "AI健康陪伴搭子阿福上线",
@@ -13736,14 +13992,6 @@
       "word": "12306回应旅客买到列车工作席",
       "onboard_time": 1765795221,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35794,
-      "num": 259895,
-      "word": "我国发现新矿物金秀矿",
-      "onboard_time": 1765976722,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
