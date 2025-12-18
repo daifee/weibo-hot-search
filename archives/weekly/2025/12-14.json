@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766068262486,
+  "endTime": 1766069373667,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -57,6 +57,14 @@
       "onboard_time": 1765947563,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3281220,
+      "num": 3281220,
+      "word": "双轨直播",
+      "onboard_time": 1765977921,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 2943520,
@@ -665,14 +673,6 @@
       "onboard_time": 1766052799,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797238,
-      "num": 797238,
-      "word": "双轨直播",
-      "onboard_time": 1765977921,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 774967,
@@ -3259,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320875,
+      "num": 275993,
+      "word": "27岁女孩患胃萎缩去世",
+      "onboard_time": 1766067381,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319739,
       "num": 234284,
       "word": "母亲为女儿驱魔致其死亡",
@@ -3483,14 +3491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301954,
-      "num": 275993,
-      "word": "27岁女孩患胃萎缩去世",
-      "onboard_time": 1766067381,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300902,
       "num": 135709,
       "word": "万青",
@@ -3545,6 +3545,14 @@
       "onboard_time": 1766051960,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295956,
+      "num": 295956,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1765899382,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 295322,
@@ -4451,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246308,
+      "num": 162532,
+      "word": "大鹏谈被搜狐辞退",
+      "onboard_time": 1766068401,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245389,
       "num": 461132,
       "word": "金铲铲补偿",
@@ -5155,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209215,
+      "num": 146961,
+      "word": "摆摊卖大残蟹被人砸摊日入5000",
+      "onboard_time": 1766069302,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209089,
       "num": 194488,
       "word": "丝芭传媒报警回执单",
@@ -5459,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203436,
+      "num": 183003,
+      "word": "Angelababy原图",
+      "onboard_time": 1766068941,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203296,
       "num": 112156,
       "word": "林诗栋第四局12比10张本智和",
@@ -5739,14 +5771,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 196695,
-      "num": 276953,
-      "word": "崩坏星穹铁道超话",
-      "onboard_time": 1765899382,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196580,
       "num": 196580,
       "word": "洪尧说吴谨言怎么吃都不胖",
@@ -5913,6 +5937,14 @@
       "onboard_time": 1765977576,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192141,
+      "num": 192141,
+      "word": "彭小苒拍照前要压个油",
+      "onboard_time": 1766068104,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192057,
@@ -6177,6 +6209,22 @@
       "onboard_time": 1765709363,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188052,
+      "num": 164978,
+      "word": "周杰伦在周杰伦模仿大赛获得第二名",
+      "onboard_time": 1766068762,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187660,
+      "num": 146703,
+      "word": "国盾量子董事长意外去世",
+      "onboard_time": 1766068882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187560,
@@ -6945,6 +6993,14 @@
       "onboard_time": 1765722203,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169859,
+      "num": 169859,
+      "word": "北京印度餐厅",
+      "onboard_time": 1766068282,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 169622,
@@ -8011,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148113,
+      "num": 148113,
+      "word": "吴宣仪滥俗的歌舞台",
+      "onboard_time": 1766067803,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148059,
       "num": 148059,
       "word": "水龙吟",
@@ -8025,6 +8089,22 @@
       "onboard_time": 1766066060,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147282,
+      "num": 168682,
+      "word": "飞天茅台价格暴跌黄牛损失惨重",
+      "onboard_time": 1766067982,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 147195,
+      "num": 147195,
+      "word": "再见爱人",
+      "onboard_time": 1766068401,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 147194,
@@ -8153,6 +8233,14 @@
       "onboard_time": 1765771401,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145510,
+      "num": 145510,
+      "word": "丝芭传媒近1.3亿股权遭冻结",
+      "onboard_time": 1766067625,
+      "rank": 41,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 145489,
@@ -8297,14 +8385,6 @@
       "onboard_time": 1765774225,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143473,
-      "num": 131388,
-      "word": "吴宣仪滥俗的歌舞台",
-      "onboard_time": 1766067803,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 143379,
@@ -10491,6 +10571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117228,
+      "num": 117228,
+      "word": "曝95流量花生因戏生情",
+      "onboard_time": 1766068282,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117167,
       "num": 117167,
       "word": "长安二十四计",
@@ -11547,6 +11635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107241,
+      "num": 107241,
+      "word": "梁王组合总决赛首胜",
+      "onboard_time": 1766069121,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107211,
       "num": 179871,
       "word": "母亲称女儿被害连凶手名字都不知道",
@@ -11608,6 +11704,14 @@
       "word": "官方回应老师称想让班上孩子全得甲流",
       "onboard_time": 1765934480,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105919,
+      "num": 105919,
+      "word": "合肥警方通报一46岁男子身亡",
+      "onboard_time": 1766069002,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -11713,14 +11817,6 @@
       "onboard_time": 1765968501,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104497,
-      "num": 104497,
-      "word": "丝芭传媒近1.3亿股权遭冻结",
-      "onboard_time": 1766067625,
-      "rank": 41,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 104480,
@@ -12227,6 +12323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 99982,
+      "num": 99982,
+      "word": "梁王组合2比0谢定峰苏伟译",
+      "onboard_time": 1766069121,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99969,
       "num": 286102,
       "word": "悉尼邦迪滩枪击事件12人死亡",
@@ -12539,14 +12643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96972,
-      "num": 96972,
-      "word": "飞天茅台价格暴跌黄牛损失惨重",
-      "onboard_time": 1766067982,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96874,
       "num": 125144,
       "word": "何与 薄肌才是内娱该有的审美",
@@ -12803,12 +12899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94887,
-      "num": 94887,
-      "word": "彭小苒拍照前要压个油",
-      "onboard_time": 1766068104,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 94818,
+      "num": 93146,
+      "word": "六公主在自己家看周深了",
+      "onboard_time": 1766069302,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 94758,
@@ -12905,6 +13001,14 @@
       "onboard_time": 1765679125,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93832,
+      "num": 93832,
+      "word": "韩国学生不认识在明两个汉字",
+      "onboard_time": 1766069240,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93774,
@@ -13217,6 +13321,14 @@
       "onboard_time": 1766020761,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91420,
+      "num": 248948,
+      "word": "海南首批直采榴莲价格低平时一半",
+      "onboard_time": 1766067081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91321,
@@ -14992,14 +15104,6 @@
       "word": "遭性侵女高管称每周要做心理治疗",
       "onboard_time": 1766013557,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64849,
-      "num": 248948,
-      "word": "海南首批直采榴莲价格低平时一半",
-      "onboard_time": 1766067081,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -17507,6 +17611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26468,
+      "num": 168314,
+      "word": "院方曾称庞莱臣子孙败落到卖画为生",
+      "onboard_time": 1766068222,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26450,
       "num": 331828,
       "word": "中国电影市场展现蓬勃活力",
@@ -18488,14 +18600,6 @@
       "word": "多家超10年店龄网红女装闭店",
       "onboard_time": 1765857682,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5974,
-      "num": 124553,
-      "word": "院方曾称庞莱臣子孙败落到卖画为生",
-      "onboard_time": 1766068222,
-      "rank": 34,
       "category": "民生新闻"
     },
     {

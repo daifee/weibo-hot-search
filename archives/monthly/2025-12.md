@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 22:31:02
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/18 22:49:33
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23" target="weibo">
 尖叫之夜内场（热度：3412177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%BD%A8%E7%9B%B4%E6%92%AD%23" target="weibo">
+双轨直播（热度：3281220）
 </a>
 </li>
 
@@ -2051,12 +2057,6 @@ RW战胜JDG（热度：804085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%AA%23" target="weibo">
 北京暴雪（热度：798877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%BD%A8%E7%9B%B4%E6%92%AD%23" target="weibo">
-双轨直播（热度：797238）
 </a>
 </li>
 

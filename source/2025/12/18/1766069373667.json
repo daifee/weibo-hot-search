@@ -1,0 +1,410 @@
+{
+  "runTime": 1766069373667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3281220,
+        "num": 3281220,
+        "word": "双轨直播",
+        "onboard_time": 1766068222,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745519,
+        "num": 745519,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101444,
+        "num": 478651,
+        "word": "大批车厘子坐船到中国了",
+        "onboard_time": 1766045061,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304158,
+        "num": 304158,
+        "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+        "onboard_time": 1766061502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444687,
+        "num": 301866,
+        "word": "高市早苗5秒变脸",
+        "onboard_time": 1766065883,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295956,
+        "num": 295956,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1766067863,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279562,
+        "num": 279562,
+        "word": "奇迹",
+        "onboard_time": 1766061863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257918,
+        "num": 257918,
+        "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+        "onboard_time": 1766056461,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207954,
+        "num": 207954,
+        "word": "马嘉祺第一首OST",
+        "onboard_time": 1766061863,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116620,
+        "num": 205151,
+        "word": "女子被买3张高铁票票价过万",
+        "onboard_time": 1766055080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719878,
+        "num": 203538,
+        "word": "时隔两年Angelababy再战红毯",
+        "onboard_time": 1766062521,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333303,
+        "num": 201531,
+        "word": "谭松韵状态",
+        "onboard_time": 1766064021,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320875,
+        "num": 196921,
+        "word": "27岁女孩患胃萎缩去世",
+        "onboard_time": 1766067381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213060,
+        "num": 194278,
+        "word": "杜华包场双轨",
+        "onboard_time": 1766066663,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192141,
+        "num": 192141,
+        "word": "彭小苒拍照前要压个油",
+        "onboard_time": 1766068104,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203436,
+        "num": 183003,
+        "word": "Angelababy原图",
+        "onboard_time": 1766068941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173809,
+        "num": 173809,
+        "word": "金价波动",
+        "onboard_time": 1766062821,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169859,
+        "num": 169859,
+        "word": "北京印度餐厅",
+        "onboard_time": 1766068282,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147282,
+        "num": 168682,
+        "word": "飞天茅台价格暴跌黄牛损失惨重",
+        "onboard_time": 1766067982,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26468,
+        "num": 168314,
+        "word": "院方曾称庞莱臣子孙败落到卖画为生",
+        "onboard_time": 1766068222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373601,
+        "num": 165633,
+        "word": "因为穷染上了新疆人的化妆品",
+        "onboard_time": 1766064381,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188052,
+        "num": 164978,
+        "word": "周杰伦在周杰伦模仿大赛获得第二名",
+        "onboard_time": 1766068762,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181192,
+        "num": 162976,
+        "word": "徐璐回应不进组",
+        "onboard_time": 1766060601,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162690,
+        "num": 162690,
+        "word": "护士更衣间偷拍视频现不雅网站",
+        "onboard_time": 1766065223,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246308,
+        "num": 162532,
+        "word": "大鹏谈被搜狐辞退",
+        "onboard_time": 1766068401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159985,
+        "num": 159985,
+        "word": "何穗雪中素颜怼拍",
+        "onboard_time": 1766060601,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154411,
+        "num": 154411,
+        "word": "金价",
+        "onboard_time": 1766064082,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148113,
+        "num": 148113,
+        "word": "吴宣仪滥俗的歌舞台",
+        "onboard_time": 1766067803,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147195,
+        "num": 147195,
+        "word": "再见爱人",
+        "onboard_time": 1766068401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147151,
+        "num": 147151,
+        "word": "迪丽热巴飞毛腿cha",
+        "onboard_time": 1766065642,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209215,
+        "num": 146961,
+        "word": "摆摊卖大残蟹被人砸摊日入5000",
+        "onboard_time": 1766069302,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187660,
+        "num": 146703,
+        "word": "国盾量子董事长意外去世",
+        "onboard_time": 1766068882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145510,
+        "num": 145510,
+        "word": "丝芭传媒近1.3亿股权遭冻结",
+        "onboard_time": 1766067625,
+        "rank": 32,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 135531,
+        "num": 135531,
+        "word": "孔雪儿 演更坏的坏人",
+        "onboard_time": 1766067502,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 123508,
+        "word": "广州官宣时代少年团演唱会",
+        "onboard_time": 1766055201,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122285,
+        "num": 122285,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117228,
+        "num": 117228,
+        "word": "曝95流量花生因戏生情",
+        "onboard_time": 1766068282,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91420,
+        "num": 110403,
+        "word": "海南首批直采榴莲价格低平时一半",
+        "onboard_time": 1766067081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107241,
+        "num": 107241,
+        "word": "梁王组合总决赛首胜",
+        "onboard_time": 1766069121,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106652,
+        "num": 106652,
+        "word": "男子公园骑车遭铁丝勒脖身亡",
+        "onboard_time": 1766062942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105919,
+        "num": 105919,
+        "word": "合肥警方通报一46岁男子身亡",
+        "onboard_time": 1766069002,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102957,
+        "num": 102957,
+        "word": "小米辣暴涨至约70元一公斤",
+        "onboard_time": 1766065342,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101296,
+        "num": 101296,
+        "word": "彭小苒大大方方 我看得战战兢兢",
+        "onboard_time": 1766063662,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99982,
+        "num": 99982,
+        "word": "梁王组合2比0谢定峰苏伟译",
+        "onboard_time": 1766069121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99103,
+        "num": 99103,
+        "word": "TF四代 再见朋友",
+        "onboard_time": 1766065642,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98542,
+        "num": 98542,
+        "word": "广州天河官宣明年53场演唱会",
+        "onboard_time": 1766057660,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97214,
+        "num": 97214,
+        "word": "人生及时止损有多重要",
+        "onboard_time": 1766064923,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95004,
+        "num": 95004,
+        "word": "谭松韵 锁骨亮晶晶",
+        "onboard_time": 1766066060,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93832,
+        "num": 93832,
+        "word": "韩国学生不认识在明两个汉字",
+        "onboard_time": 1766069240,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94818,
+        "num": 93146,
+        "word": "六公主在自己家看周深了",
+        "onboard_time": 1766069302,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
