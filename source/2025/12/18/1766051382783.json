@@ -1,0 +1,410 @@
+{
+  "runTime": 1766051382783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 334708,
+        "num": 1053553,
+        "word": "55岁三星长公主李富真露面",
+        "onboard_time": 1766038222,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259739,
+        "num": 259739,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46965,
+        "num": 259256,
+        "word": "这座城把新就业群体当成自己人",
+        "onboard_time": 1766044460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581225,
+        "num": 256367,
+        "word": "全资进组拍短剧结果赔了近千万",
+        "onboard_time": 1766049380,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569157,
+        "num": 255280,
+        "word": "海南封关首日iPhone最高可减2140元",
+        "onboard_time": 1766043561,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1360096,
+        "num": 253447,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546144,
+        "num": 250335,
+        "word": "珠海",
+        "onboard_time": 1766046621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297962,
+        "num": 248203,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 289356,
+        "num": 247670,
+        "word": "英雄联盟",
+        "onboard_time": 1766049921,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 245177,
+        "word": "中财办明确提高城乡居民基础养老金",
+        "onboard_time": 1766050642,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561034,
+        "num": 243332,
+        "word": "办公室轮流请奶茶真的很窒息",
+        "onboard_time": 1766047042,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407720,
+        "num": 240304,
+        "word": "多位博主爆料张凯毅",
+        "onboard_time": 1766046681,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268821,
+        "num": 239468,
+        "word": "国际航班外籍男子辱骂骚扰中国女生",
+        "onboard_time": 1766047581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265622,
+        "num": 236073,
+        "word": "王俊凯粉丝",
+        "onboard_time": 1766043981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236071,
+        "num": 236071,
+        "word": "报销 反向抹零",
+        "onboard_time": 1766042001,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212046,
+        "num": 212046,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205550,
+        "num": 205550,
+        "word": "Epic提前道歉",
+        "onboard_time": 1766046441,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204037,
+        "num": 204037,
+        "word": "坠亡女教师父母不愿退彩礼拒绝退婚",
+        "onboard_time": 1766050761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41527,
+        "num": 203452,
+        "word": "谁能拒绝白鹿用汤圆做的奶茶",
+        "onboard_time": 1766049261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30649,
+        "num": 202549,
+        "word": "陶昕然与千问讨论安小鸟命运",
+        "onboard_time": 1766050460,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877653,
+        "num": 201226,
+        "word": "霍建华问林心如我是你司机吗",
+        "onboard_time": 1766045962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544312,
+        "num": 199965,
+        "word": "曝成毅助理打粉丝",
+        "onboard_time": 1766046441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229729,
+        "num": 199100,
+        "word": "胡先煦王安宇在欧洲待不住",
+        "onboard_time": 1766040322,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198268,
+        "num": 198268,
+        "word": "黄晓明 孩子多的条件反射",
+        "onboard_time": 1766037322,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193241,
+        "num": 193241,
+        "word": "郭京飞二十岁的颜值",
+        "onboard_time": 1766050161,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185454,
+        "num": 185454,
+        "word": "满江红2原班人马",
+        "onboard_time": 1766047042,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182579,
+        "num": 182579,
+        "word": "陈晓陈妍希会共同承担家庭责任",
+        "onboard_time": 1766049800,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174118,
+        "num": 174118,
+        "word": "特朗普账户宣传存1千可涨至60万",
+        "onboard_time": 1766044222,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156733,
+        "num": 156733,
+        "word": "满脑子都是虞书欣买聊劳",
+        "onboard_time": 1766049081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96249,
+        "num": 145057,
+        "word": "大批车厘子坐船到中国了",
+        "onboard_time": 1766045061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142658,
+        "num": 142658,
+        "word": "猫咪向主人炫耀自己生了三花",
+        "onboard_time": 1766048480,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27749,
+        "num": 127227,
+        "word": "检方建议判处山上彻也无期徒刑",
+        "onboard_time": 1766051182,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126640,
+        "num": 126640,
+        "word": "曝童星出道女明星拍戏带8个助理",
+        "onboard_time": 1766045301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126425,
+        "num": 126425,
+        "word": "考研弃考率",
+        "onboard_time": 1766038881,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126170,
+        "num": 126170,
+        "word": "果郡王14年来还在追查真相",
+        "onboard_time": 1766048242,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122958,
+        "num": 122958,
+        "word": "业主疑酒后点火烧楼还提醒大家离开",
+        "onboard_time": 1766050460,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121504,
+        "num": 121504,
+        "word": "那英 最烦蹭热点的人",
+        "onboard_time": 1766048421,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117883,
+        "num": 117883,
+        "word": "王艺瑾首谈转型原因",
+        "onboard_time": 1766050580,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12960,
+        "num": 112306,
+        "word": "拟延长深港口岸除夕开放时间",
+        "onboard_time": 1766050460,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57749,
+        "num": 111802,
+        "word": "李施嬅承认对车崇健有新的心动",
+        "onboard_time": 1766051241,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111719,
+        "num": 111719,
+        "word": "广东短袖 穿回本",
+        "onboard_time": 1766046503,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103034,
+        "num": 103034,
+        "word": "曝流量女星拍戏要求点满1000元肯德基",
+        "onboard_time": 1766040681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102499,
+        "num": 102499,
+        "word": "Faker说T1成绩Gumayusi功劳很大",
+        "onboard_time": 1766051182,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102023,
+        "num": 102023,
+        "word": "刘宇宁已落地大连",
+        "onboard_time": 1766050339,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96074,
+        "num": 96074,
+        "word": "那我们魏晨咋办",
+        "onboard_time": 1766045841,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95261,
+        "num": 95261,
+        "word": "吴彦祖疑似用上小米新机",
+        "onboard_time": 1766051060,
+        "rank": 45,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 92621,
+        "num": 92621,
+        "word": "周大福再涨价",
+        "onboard_time": 1766048660,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91592,
+        "num": 91592,
+        "word": "A股结构调整或将延续",
+        "onboard_time": 1766050761,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91184,
+        "num": 91184,
+        "word": "LCK解说说低估了Kanavi",
+        "onboard_time": 1766051301,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86607,
+        "num": 86607,
+        "word": "男子吹玻璃30年变青蛙王子",
+        "onboard_time": 1766034862,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}
