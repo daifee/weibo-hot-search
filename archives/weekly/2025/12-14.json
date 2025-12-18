@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766066152920,
+  "endTime": 1766068262486,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1801608,
-      "num": 359260,
+      "num": 1134835,
       "word": "海南封关",
       "onboard_time": 1766040441,
       "rank": 8,
@@ -153,6 +153,14 @@
       "onboard_time": 1765958002,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1481883,
+      "num": 1112930,
+      "word": "小米交付中心车祸被撞者已离世",
+      "onboard_time": 1766065642,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1468725,
@@ -385,6 +393,14 @@
       "onboard_time": 1765953322,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 984054,
+      "num": 327247,
+      "word": "时隔两年Angelababy再战红毯",
+      "onboard_time": 1766062521,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 958904,
@@ -635,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 807251,
-      "num": 327247,
-      "word": "时隔两年Angelababy再战红毯",
-      "onboard_time": 1766062521,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 804085,
       "num": 479745,
       "word": "RW战胜JDG",
@@ -881,14 +889,6 @@
       "onboard_time": 1765867581,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 705818,
-      "num": 1112930,
-      "word": "小米交付中心车祸被撞者已离世",
-      "onboard_time": 1766065642,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 704257,
@@ -1732,7 +1732,7 @@
     },
     {
       "raw_hot": 509552,
-      "num": 262163,
+      "num": 277116,
       "word": "广州官宣时代少年团演唱会",
       "onboard_time": 1766055201,
       "rank": 7,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1765668796,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477932,
+      "num": 477932,
+      "word": "高市早苗5秒变脸",
+      "onboard_time": 1766065883,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 474554,
@@ -2161,6 +2169,14 @@
       "onboard_time": 1765715602,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439059,
+      "num": 323183,
+      "word": "谭松韵状态",
+      "onboard_time": 1766064021,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 437262,
@@ -2396,7 +2412,7 @@
     },
     {
       "raw_hot": 411885,
-      "num": 225596,
+      "num": 248613,
       "word": "因为穷染上了新疆人的化妆品",
       "onboard_time": 1766064381,
       "rank": 30,
@@ -2731,14 +2747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 365714,
-      "num": 323183,
-      "word": "谭松韵状态",
-      "onboard_time": 1766064021,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364761,
       "num": 308059,
       "word": "狙击蝴蝶分手复合在同一集",
@@ -2828,7 +2836,7 @@
     },
     {
       "raw_hot": 357272,
-      "num": 245723,
+      "num": 253411,
       "word": "iPhone千万不能把内存用完",
       "onboard_time": 1766050161,
       "rank": 31,
@@ -3275,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316030,
+      "num": 276199,
+      "word": "小米新车主踩错踏板撞人致死",
+      "onboard_time": 1766065702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315767,
       "num": 315767,
       "word": "考研味最重的一张照片",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1765789582,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301954,
+      "num": 275993,
+      "word": "27岁女孩患胃萎缩去世",
+      "onboard_time": 1766067381,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300902,
@@ -3884,7 +3908,7 @@
     },
     {
       "raw_hot": 272947,
-      "num": 272947,
+      "num": 276871,
       "word": "金价波动",
       "onboard_time": 1766062821,
       "rank": 19,
@@ -4385,6 +4409,14 @@
       "onboard_time": 1765942581,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246838,
+      "num": 246838,
+      "word": "杜华包场双轨",
+      "onboard_time": 1766066663,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 246805,
@@ -5707,6 +5739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196695,
+      "num": 276953,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1765899382,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196580,
       "num": 196580,
       "word": "洪尧说吴谨言怎么吃都不胖",
@@ -6217,6 +6257,14 @@
       "onboard_time": 1765691301,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185727,
+      "num": 185727,
+      "word": "迪丽热巴飞毛腿cha",
+      "onboard_time": 1766065642,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 185706,
@@ -8251,6 +8299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143473,
+      "num": 131388,
+      "word": "吴宣仪滥俗的歌舞台",
+      "onboard_time": 1766067803,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "原神那维莱特",
@@ -8753,6 +8809,14 @@
       "onboard_time": 1765783822,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135657,
+      "num": 135657,
+      "word": "孔雪儿 演更坏的坏人",
+      "onboard_time": 1766067502,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135597,
@@ -9371,6 +9435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129633,
+      "num": 129633,
+      "word": "CPI",
+      "onboard_time": 1766067803,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129550,
       "num": 129550,
       "word": "麦当劳汉堡 缩水",
@@ -9513,6 +9585,14 @@
       "onboard_time": 1765879101,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127987,
+      "num": 127987,
+      "word": "男子公园骑车遭铁丝勒脖身亡",
+      "onboard_time": 1766062942,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127938,
@@ -9745,6 +9825,14 @@
       "onboard_time": 1765948343,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124282,
+      "num": 124282,
+      "word": "是谁拽住了周深",
+      "onboard_time": 1766067263,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 124184,
@@ -10249,14 +10337,6 @@
       "onboard_time": 1765973962,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118759,
-      "num": 118759,
-      "word": "男子公园骑车遭铁丝勒脖身亡",
-      "onboard_time": 1766062942,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118648,
@@ -11635,6 +11715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104497,
+      "num": 104497,
+      "word": "丝芭传媒近1.3亿股权遭冻结",
+      "onboard_time": 1766067625,
+      "rank": 41,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 104480,
       "num": 104480,
       "word": "委内瑞拉向中方通报",
@@ -12035,6 +12123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100550,
+      "num": 100550,
+      "word": "不二之臣",
+      "onboard_time": 1765712784,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100425,
       "num": 100425,
       "word": "AG遗憾止步晋级赛",
@@ -12073,14 +12169,6 @@
       "onboard_time": 1765763660,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100209,
-      "num": 111234,
-      "word": "崩坏星穹铁道超话",
-      "onboard_time": 1765899382,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 100166,
@@ -12225,14 +12313,6 @@
       "onboard_time": 1766063302,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99438,
-      "num": 99438,
-      "word": "小米新车主踩错踏板撞人致死",
-      "onboard_time": 1766065702,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99197,
@@ -12403,6 +12483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97527,
+      "num": 97527,
+      "word": "Peanut直播回应Faker",
+      "onboard_time": 1766067021,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97290,
       "num": 97290,
       "word": "澳枪击事件黑衣人开枪瞬间曝光",
@@ -12449,6 +12537,14 @@
       "onboard_time": 1765718724,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96972,
+      "num": 96972,
+      "word": "飞天茅台价格暴跌黄牛损失惨重",
+      "onboard_time": 1766067982,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 96874,
@@ -12705,6 +12801,14 @@
       "onboard_time": 1765864341,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94887,
+      "num": 94887,
+      "word": "彭小苒拍照前要压个油",
+      "onboard_time": 1766068104,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94758,
@@ -13131,14 +13235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91267,
-      "num": 91267,
-      "word": "迪丽热巴飞毛腿cha",
-      "onboard_time": 1766065642,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91184,
       "num": 91184,
       "word": "LCK解说说低估了Kanavi",
@@ -13249,14 +13345,6 @@
       "onboard_time": 1765763001,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90126,
-      "num": 90126,
-      "word": "不二之臣",
-      "onboard_time": 1765712784,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 90117,
@@ -14907,6 +14995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64849,
+      "num": 248948,
+      "word": "海南首批直采榴莲价格低平时一半",
+      "onboard_time": 1766067081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64845,
       "num": 64845,
       "word": "小猫真的能听懂人在说什么",
@@ -14985,14 +15081,6 @@
       "onboard_time": 1765724363,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63551,
-      "num": 251995,
-      "word": "高市早苗5秒变脸",
-      "onboard_time": 1766065883,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63477,
@@ -16017,6 +16105,14 @@
       "onboard_time": 1765796661,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44639,
+      "num": 104767,
+      "word": "Viper吃饭都这么帅",
+      "onboard_time": 1766067203,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 44615,
@@ -18392,6 +18488,14 @@
       "word": "多家超10年店龄网红女装闭店",
       "onboard_time": 1765857682,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5974,
+      "num": 124553,
+      "word": "院方曾称庞莱臣子孙败落到卖画为生",
+      "onboard_time": 1766068222,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
