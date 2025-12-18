@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766048027076,
+  "endTime": 1766050570480,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -83,19 +83,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 932069,
+      "num": 313478,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911880,
       "num": 573995,
       "word": "黄晓明 孩子多的条件反射",
       "onboard_time": 1766037322,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 884501,
-      "num": 313478,
-      "word": "霍建华问林心如我是你司机吗",
-      "onboard_time": 1766045962,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -195,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522276,
+      "num": 186626,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 508988,
       "num": 216051,
       "word": "报销 反向抹零",
       "onboard_time": 1766042001,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503707,
+      "num": 247942,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466339,
@@ -259,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 433597,
+      "num": 211021,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 428511,
       "num": 428511,
       "word": "时尚芭莎盛典名单",
@@ -273,14 +297,6 @@
       "onboard_time": 1766014758,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 404982,
-      "num": 211021,
-      "word": "多位博主爆料张凯毅",
-      "onboard_time": 1766046681,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 396828,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326351,
+      "num": 185871,
+      "word": "全资进组拍短剧结果赔了近千万",
+      "onboard_time": 1766049380,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323839,
       "num": 318020,
       "word": "可我的妈妈真的是陈妍希",
@@ -491,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 280868,
+      "num": 187260,
+      "word": "国际航班外籍男子辱骂骚扰中国女生",
+      "onboard_time": 1766047581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276256,
       "num": 212632,
       "word": "家长因送孩子晚被班主任批评",
@@ -529,6 +561,14 @@
       "onboard_time": 1766028440,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255999,
+      "num": 255999,
+      "word": "英雄联盟",
+      "onboard_time": 1766049921,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 255610,
@@ -657,14 +697,6 @@
       "onboard_time": 1766019501,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210297,
-      "num": 210297,
-      "word": "珠海",
-      "onboard_time": 1766046621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209789,
@@ -851,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187143,
+      "num": 187143,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185080,
       "num": 185080,
       "word": "姐狗恋和叔狗恋都差11岁",
@@ -875,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181855,
+      "num": 181855,
+      "word": "满江红2原班人马",
+      "onboard_time": 1766047042,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181324,
       "num": 181324,
       "word": "当年轻人的圣诞树思路打开后",
@@ -889,6 +937,14 @@
       "onboard_time": 1766031201,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179166,
+      "num": 179166,
+      "word": "满脑子都是虞书欣买聊劳",
+      "onboard_time": 1766049081,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174416,
@@ -920,6 +976,14 @@
       "word": "比月圆还准时的是老己的爱",
       "onboard_time": 1766023340,
       "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169143,
+      "num": 169143,
+      "word": "猫咪向主人炫耀自己生了三花",
+      "onboard_time": 1766048480,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -961,22 +1025,6 @@
       "onboard_time": 1766034322,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161002,
-      "num": 161002,
-      "word": "办公室轮流请奶茶真的很窒息",
-      "onboard_time": 1766047042,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 160146,
-      "num": 160146,
-      "word": "Epic提前道歉",
-      "onboard_time": 1766046441,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 159751,
@@ -1355,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "业主疑酒后点火烧楼还提醒大家离开",
+      "onboard_time": 1766050460,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128413,
       "num": 128413,
       "word": "冬天对于流浪猫来说有多难",
@@ -1395,12 +1451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123993,
-      "num": 123993,
-      "word": "满江红2原班人马",
-      "onboard_time": 1766047042,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 125588,
+      "num": 125588,
+      "word": "iPhone千万不能把内存用完",
+      "onboard_time": 1766050161,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 123947,
@@ -1467,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "周大福再涨价",
+      "onboard_time": 1766048660,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121198,
       "num": 121198,
       "word": "陈妍希说最难的时候被女性救赎了",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1766028440,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117120,
+      "num": 117120,
+      "word": "陈晓陈妍希会共同承担家庭责任",
+      "onboard_time": 1766049800,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 116815,
@@ -1571,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113388,
+      "num": 156071,
+      "word": "大批车厘子坐船到中国了",
+      "onboard_time": 1766045061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113123,
       "num": 183431,
       "word": "樊振东发完球就爆冲",
@@ -1603,20 +1683,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "郭京飞二十岁的颜值",
+      "onboard_time": 1766050161,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107607,
       "num": 134071,
       "word": "成毅被机场广播催登机",
       "onboard_time": 1766035222,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107473,
-      "num": 156071,
-      "word": "大批车厘子坐船到中国了",
-      "onboard_time": 1766045061,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107211,
@@ -1643,6 +1723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104320,
+      "num": 104320,
+      "word": "那英 最烦蹭热点的人",
+      "onboard_time": 1766048421,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102760,
       "num": 101106,
       "word": "刘耀文黄晓明 半大小子吃穷老子",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1766047821,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102005,
+      "num": 102005,
+      "word": "果郡王14年来还在追查真相",
+      "onboard_time": 1766048242,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 101832,
@@ -1761,14 +1857,6 @@
       "onboard_time": 1766018362,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96920,
-      "num": 187260,
-      "word": "国际航班外籍男子辱骂骚扰中国女生",
-      "onboard_time": 1766047581,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93887,
@@ -1875,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85815,
+      "num": 85815,
+      "word": "影法师",
+      "onboard_time": 1766049800,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 85446,
       "num": 95010,
       "word": "我妈给我的备注是秀女",
@@ -1921,6 +2017,22 @@
       "onboard_time": 1766039301,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 83331,
+      "num": 83331,
+      "word": "刘宇宁已落地大连",
+      "onboard_time": 1766050339,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83310,
+      "num": 83310,
+      "word": "贾一凡谈陈清晨退役落泪",
+      "onboard_time": 1766050281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82043,
@@ -2241,6 +2353,14 @@
       "onboard_time": 1766043201,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50849,
+      "num": 183375,
+      "word": "谁能拒绝白鹿用汤圆做的奶茶",
+      "onboard_time": 1766049261,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50011,
@@ -2579,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17608,
+      "num": 109506,
+      "word": "陶昕然与千问讨论安小鸟命运",
+      "onboard_time": 1766050460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16898,
       "num": 39406,
       "word": "不被看见的勇气",
@@ -2617,6 +2745,14 @@
       "onboard_time": 1765962982,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9557,
+      "num": 102113,
+      "word": "拟延长深港口岸除夕开放时间",
+      "onboard_time": 1766050460,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8711,

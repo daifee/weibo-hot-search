@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766048027076,
+  "endTime": 1766050570480,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1963,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932069,
+      "num": 313478,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931339,
       "num": 1149014,
       "word": "日本将不再有大熊猫",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1765769242,
       "rank": 4,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 884501,
-      "num": 313478,
-      "word": "霍建华问林心如我是你司机吗",
-      "onboard_time": 1766045962,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 883597,
@@ -5859,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522276,
+      "num": 186626,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 522254,
       "num": 522254,
       "word": "朱雀三号首飞",
@@ -6169,6 +6177,14 @@
       "onboard_time": 1765008261,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503707,
+      "num": 247942,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503633,
@@ -7955,6 +7971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433597,
+      "num": 211021,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 433491,
       "num": 198488,
       "word": "乔欣南法度假",
@@ -8785,14 +8809,6 @@
       "onboard_time": 1765700123,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 404982,
-      "num": 211021,
-      "word": "多位博主爆料张凯毅",
-      "onboard_time": 1766046681,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 404806,
@@ -11563,6 +11579,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 326351,
+      "num": 185871,
+      "word": "全资进组拍短剧结果赔了近千万",
+      "onboard_time": 1766049380,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326279,
       "num": 200596,
       "word": "小明剑魔结婚",
@@ -13395,6 +13419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280868,
+      "num": 187260,
+      "word": "国际航班外籍男子辱骂骚扰中国女生",
+      "onboard_time": 1766047581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280771,
       "num": 205976,
       "word": "小米",
@@ -14689,6 +14721,14 @@
       "onboard_time": 1765445541,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 255999,
+      "num": 255999,
+      "word": "英雄联盟",
+      "onboard_time": 1766049921,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 255973,
@@ -17657,14 +17697,6 @@
       "onboard_time": 1764774922,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210297,
-      "num": 210297,
-      "word": "珠海",
-      "onboard_time": 1766046621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210106,
@@ -21155,6 +21187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187143,
+      "num": 187143,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186868,
       "num": 245700,
       "word": "WBG首轮失利",
@@ -22011,6 +22051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181855,
+      "num": 181855,
+      "word": "满江红2原班人马",
+      "onboard_time": 1766047042,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181820,
       "num": 181820,
       "word": "男子出租屋内杀害女友一审被判死缓",
@@ -22369,6 +22417,14 @@
       "onboard_time": 1764915141,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179166,
+      "num": 179166,
+      "word": "满脑子都是虞书欣买聊劳",
+      "onboard_time": 1766049081,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 179115,
@@ -23771,6 +23827,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 169143,
+      "num": 169143,
+      "word": "猫咪向主人炫耀自己生了三花",
+      "onboard_time": 1766048480,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169139,
       "num": 169139,
       "word": "哪款iPhone可以封神",
@@ -25043,14 +25107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161002,
-      "num": 161002,
-      "word": "办公室轮流请奶茶真的很窒息",
-      "onboard_time": 1766047042,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160880,
       "num": 160880,
       "word": "骄阳似我广播剧开播",
@@ -25169,14 +25225,6 @@
       "onboard_time": 1765200801,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160146,
-      "num": 160146,
-      "word": "Epic提前道歉",
-      "onboard_time": 1766046441,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 160099,
@@ -32819,6 +32867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "业主疑酒后点火烧楼还提醒大家离开",
+      "onboard_time": 1766050460,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128415,
       "num": 128415,
       "word": "两种情况不建议穿外衣上床",
@@ -33579,6 +33635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125588,
+      "num": 125588,
+      "word": "iPhone千万不能把内存用完",
+      "onboard_time": 1766050161,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125565,
       "num": 153974,
       "word": "窝囊版蹦极58元一人",
@@ -34033,14 +34097,6 @@
       "onboard_time": 1765410380,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123993,
-      "num": 123993,
-      "word": "满江红2原班人马",
-      "onboard_time": 1766047042,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 123955,
@@ -34921,6 +34977,14 @@
       "onboard_time": 1765433661,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "周大福再涨价",
+      "onboard_time": 1766048660,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 121587,
@@ -36515,6 +36579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117120,
+      "num": 117120,
+      "word": "陈晓陈妍希会共同承担家庭责任",
+      "onboard_time": 1766049800,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117081,
       "num": 117081,
       "word": "林心如状态满40减20",
@@ -37827,6 +37899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113388,
+      "num": 156071,
+      "word": "大批车厘子坐船到中国了",
+      "onboard_time": 1766045061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "叶祖新你莫不是真瘸了",
@@ -38785,6 +38865,14 @@
       "onboard_time": 1765275861,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "郭京飞二十岁的颜值",
+      "onboard_time": 1766050161,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110463,
@@ -39753,14 +39841,6 @@
       "onboard_time": 1764898340,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107473,
-      "num": 156071,
-      "word": "大批车厘子坐船到中国了",
-      "onboard_time": 1766045061,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107458,
@@ -40779,6 +40859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104320,
+      "num": 104320,
+      "word": "那英 最烦蹭热点的人",
+      "onboard_time": 1766048421,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104302,
       "num": 104302,
       "word": "高叶 比人先认出来的是狗",
@@ -41633,6 +41721,14 @@
       "onboard_time": 1765875021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102005,
+      "num": 102005,
+      "word": "果郡王14年来还在追查真相",
+      "onboard_time": 1766048242,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 101965,
@@ -43417,14 +43513,6 @@
       "onboard_time": 1765165401,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 96920,
-      "num": 187260,
-      "word": "国际航班外籍男子辱骂骚扰中国女生",
-      "onboard_time": 1766047581,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96900,
@@ -46947,6 +47035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85815,
+      "num": 85815,
+      "word": "影法师",
+      "onboard_time": 1766049800,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "收费站捡到戴电话手表的猫咪",
@@ -47513,6 +47609,22 @@
       "onboard_time": 1764574461,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83331,
+      "num": 83331,
+      "word": "刘宇宁已落地大连",
+      "onboard_time": 1766050339,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83310,
+      "num": 83310,
+      "word": "贾一凡谈陈清晨退役落泪",
+      "onboard_time": 1766050281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83285,
@@ -53689,6 +53801,14 @@
       "onboard_time": 1765236559,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50849,
+      "num": 183375,
+      "word": "谁能拒绝白鹿用汤圆做的奶茶",
+      "onboard_time": 1766049261,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50843,
@@ -61051,6 +61171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17608,
+      "num": 109506,
+      "word": "陶昕然与千问讨论安小鸟命运",
+      "onboard_time": 1766050460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17587,
       "num": 36476,
       "word": "空枪 我爱你主演合体",
@@ -62256,6 +62384,14 @@
       "word": "煎饼叔叔说恢复了请大家吃饼",
       "onboard_time": 1765857682,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9557,
+      "num": 102113,
+      "word": "拟延长深港口岸除夕开放时间",
+      "onboard_time": 1766050460,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

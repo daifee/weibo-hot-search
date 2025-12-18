@@ -1,0 +1,410 @@
+{
+  "runTime": 1766050570480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637345,
+        "num": 1101975,
+        "word": "海南封关首日iPhone最高可减2140元",
+        "onboard_time": 1766043561,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291545,
+        "num": 291545,
+        "word": "55岁三星长公主李富真露面",
+        "onboard_time": 1766038222,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48311,
+        "num": 266742,
+        "word": "这座城把新就业群体当成自己人",
+        "onboard_time": 1766044460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261331,
+        "num": 261331,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255999,
+        "num": 255999,
+        "word": "英雄联盟",
+        "onboard_time": 1766049921,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1477064,
+        "num": 251400,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503707,
+        "num": 247942,
+        "word": "珠海",
+        "onboard_time": 1766046621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221719,
+        "num": 221719,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146254,
+        "num": 192983,
+        "word": "考研弃考率",
+        "onboard_time": 1766038881,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187143,
+        "num": 187143,
+        "word": "Epic提前道歉",
+        "onboard_time": 1766046441,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 932069,
+        "num": 186921,
+        "word": "霍建华问林心如我是你司机吗",
+        "onboard_time": 1766045962,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522276,
+        "num": 186626,
+        "word": "办公室轮流请奶茶真的很窒息",
+        "onboard_time": 1766047042,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433597,
+        "num": 186251,
+        "word": "多位博主爆料张凯毅",
+        "onboard_time": 1766046681,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326351,
+        "num": 185871,
+        "word": "全资进组拍短剧结果赔了近千万",
+        "onboard_time": 1766049380,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97392,
+        "num": 185455,
+        "word": "Faker呼唤Peanut回来",
+        "onboard_time": 1766042901,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298728,
+        "num": 184829,
+        "word": "王俊凯粉丝",
+        "onboard_time": 1766043981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280868,
+        "num": 184585,
+        "word": "国际航班外籍男子辱骂骚扰中国女生",
+        "onboard_time": 1766047581,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247843,
+        "num": 184226,
+        "word": "报销 反向抹零",
+        "onboard_time": 1766042001,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221341,
+        "num": 183641,
+        "word": "胡先煦王安宇在欧洲待不住",
+        "onboard_time": 1766040322,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50849,
+        "num": 183375,
+        "word": "谁能拒绝白鹿用汤圆做的奶茶",
+        "onboard_time": 1766049261,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729713,
+        "num": 182923,
+        "word": "曝成毅助理打粉丝",
+        "onboard_time": 1766046441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262435,
+        "num": 182340,
+        "word": "黄晓明 孩子多的条件反射",
+        "onboard_time": 1766037322,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216552,
+        "num": 181861,
+        "word": "特朗普账户宣传存1千可涨至60万",
+        "onboard_time": 1766044222,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181855,
+        "num": 181855,
+        "word": "满江红2原班人马",
+        "onboard_time": 1766047042,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 179166,
+        "word": "满脑子都是虞书欣买聊劳",
+        "onboard_time": 1766049081,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169143,
+        "num": 169143,
+        "word": "猫咪向主人炫耀自己生了三花",
+        "onboard_time": 1766048480,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138423,
+        "num": 138423,
+        "word": "曝童星出道女明星拍戏带8个助理",
+        "onboard_time": 1766045301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133577,
+        "num": 133577,
+        "word": "曝流量女星拍戏要求点满1000元肯德基",
+        "onboard_time": 1766040681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128448,
+        "num": 128448,
+        "word": "业主疑酒后点火烧楼还提醒大家离开",
+        "onboard_time": 1766050460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113388,
+        "num": 126884,
+        "word": "大批车厘子坐船到中国了",
+        "onboard_time": 1766045061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65360,
+        "num": 126197,
+        "word": "美团外卖到底请了几个杰伦",
+        "onboard_time": 1766045121,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 125588,
+        "num": 125588,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121598,
+        "num": 121598,
+        "word": "周大福再涨价",
+        "onboard_time": 1766048660,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117120,
+        "num": 117120,
+        "word": "陈晓陈妍希会共同承担家庭责任",
+        "onboard_time": 1766049800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110512,
+        "num": 110512,
+        "word": "郭京飞二十岁的颜值",
+        "onboard_time": 1766050161,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17608,
+        "num": 109506,
+        "word": "陶昕然与千问讨论安小鸟命运",
+        "onboard_time": 1766050460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108639,
+        "num": 108639,
+        "word": "广东短袖 穿回本",
+        "onboard_time": 1766046503,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104320,
+        "num": 104320,
+        "word": "那英 最烦蹭热点的人",
+        "onboard_time": 1766048421,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102973,
+        "num": 102973,
+        "word": "男子吹玻璃30年变青蛙王子",
+        "onboard_time": 1766034862,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9557,
+        "num": 102113,
+        "word": "拟延长深港口岸除夕开放时间",
+        "onboard_time": 1766050460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102005,
+        "num": 102005,
+        "word": "果郡王14年来还在追查真相",
+        "onboard_time": 1766048242,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 97463,
+        "word": "河南女孩吐槽经常被南方室友催着洗澡",
+        "onboard_time": 1766031201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90866,
+        "num": 90866,
+        "word": "那我们魏晨咋办",
+        "onboard_time": 1766045841,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87705,
+        "num": 87705,
+        "word": "济公2开机",
+        "onboard_time": 1766047641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86914,
+        "num": 86914,
+        "word": "徐冬冬终于嫁给了自己的童年偶像",
+        "onboard_time": 1766041281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86012,
+        "num": 86012,
+        "word": "5岁男孩玩打火机烧了自家别墅",
+        "onboard_time": 1766042841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85815,
+        "num": 85815,
+        "word": "影法师",
+        "onboard_time": 1766049800,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 83331,
+        "num": 83331,
+        "word": "刘宇宁已落地大连",
+        "onboard_time": 1766050339,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83310,
+        "num": 83310,
+        "word": "贾一凡谈陈清晨退役落泪",
+        "onboard_time": 1766050281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81705,
+        "num": 81705,
+        "word": "陈妍希婚后一边带孩子一边照顾陈晓家人",
+        "onboard_time": 1766036001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}

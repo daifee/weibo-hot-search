@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766048027076,
+  "endTime": 1766050570480,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 932069,
+      "num": 313478,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931339,
       "num": 1149014,
       "word": "日本将不再有大熊猫",
@@ -513,14 +521,6 @@
       "onboard_time": 1765769242,
       "rank": 4,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 884501,
-      "num": 313478,
-      "word": "霍建华问林心如我是你司机吗",
-      "onboard_time": 1766045962,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 873026,
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522276,
+      "num": 186626,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521462,
       "num": 1083433,
       "word": "遭老板性侵女高管每月心理治疗费4000",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1765976902,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503707,
+      "num": 247942,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 501376,
@@ -2059,6 +2075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 433597,
+      "num": 211021,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 432924,
       "num": 424446,
       "word": "怪不得唐诡奇谭要单独播",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1765700123,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 404982,
-      "num": 211021,
-      "word": "多位博主爆料张凯毅",
-      "onboard_time": 1766046681,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 402699,
@@ -2971,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326351,
+      "num": 185871,
+      "word": "全资进组拍短剧结果赔了近千万",
+      "onboard_time": 1766049380,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324823,
       "num": 324823,
       "word": "手机充电器千万不要一直插着不拔",
@@ -3515,6 +3539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280868,
+      "num": 187260,
+      "word": "国际航班外籍男子辱骂骚扰中国女生",
+      "onboard_time": 1766047581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280771,
       "num": 205976,
       "word": "小米",
@@ -3961,6 +3993,14 @@
       "onboard_time": 1765851981,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255999,
+      "num": 255999,
+      "word": "英雄联盟",
+      "onboard_time": 1766049921,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 255973,
@@ -4801,14 +4841,6 @@
       "onboard_time": 1765696462,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210297,
-      "num": 210297,
-      "word": "珠海",
-      "onboard_time": 1766046621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209598,
@@ -5819,6 +5851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187143,
+      "num": 187143,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186457,
       "num": 186457,
       "word": "王一博T杂志",
@@ -6035,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181855,
+      "num": 181855,
+      "word": "满江红2原班人马",
+      "onboard_time": 1766047042,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181593,
       "num": 181593,
       "word": "交警确认杭州小米交付中心发生车祸",
@@ -6129,6 +6177,14 @@
       "onboard_time": 1765698982,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179166,
+      "num": 179166,
+      "word": "满脑子都是虞书欣买聊劳",
+      "onboard_time": 1766049081,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 179115,
@@ -6515,6 +6571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169143,
+      "num": 169143,
+      "word": "猫咪向主人炫耀自己生了三花",
+      "onboard_time": 1766048480,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169113,
       "num": 175958,
       "word": "王源 许愿池系爱豆",
@@ -6755,14 +6819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161002,
-      "num": 161002,
-      "word": "办公室轮流请奶茶真的很窒息",
-      "onboard_time": 1766047042,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160880,
       "num": 160880,
       "word": "骄阳似我广播剧开播",
@@ -6793,14 +6849,6 @@
       "onboard_time": 1765709782,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160146,
-      "num": 160146,
-      "word": "Epic提前道歉",
-      "onboard_time": 1766046441,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 160054,
@@ -8915,6 +8963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "业主疑酒后点火烧楼还提醒大家离开",
+      "onboard_time": 1766050460,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128413,
       "num": 128413,
       "word": "冬天对于流浪猫来说有多难",
@@ -9099,6 +9155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125588,
+      "num": 125588,
+      "word": "iPhone千万不能把内存用完",
+      "onboard_time": 1766050161,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125565,
       "num": 153974,
       "word": "窝囊版蹦极58元一人",
@@ -9201,14 +9265,6 @@
       "onboard_time": 1765812741,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123993,
-      "num": 123993,
-      "word": "满江红2原班人马",
-      "onboard_time": 1766047042,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 123947,
@@ -9473,6 +9529,14 @@
       "onboard_time": 1765768581,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "周大福再涨价",
+      "onboard_time": 1766048660,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 121591,
@@ -9809,6 +9873,14 @@
       "onboard_time": 1765784362,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117120,
+      "num": 117120,
+      "word": "陈晓陈妍希会共同承担家庭责任",
+      "onboard_time": 1766049800,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 116948,
@@ -10235,6 +10307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113388,
+      "num": 156071,
+      "word": "大批车厘子坐船到中国了",
+      "onboard_time": 1766045061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "叶祖新你莫不是真瘸了",
@@ -10473,6 +10553,14 @@
       "onboard_time": 1765704983,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "郭京飞二十岁的颜值",
+      "onboard_time": 1766050161,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110463,
@@ -10723,14 +10811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107473,
-      "num": 156071,
-      "word": "大批车厘子坐船到中国了",
-      "onboard_time": 1766045061,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107417,
       "num": 107417,
       "word": "气血不足有多可怕",
@@ -10929,6 +11009,14 @@
       "onboard_time": 1765860025,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104320,
+      "num": 104320,
+      "word": "那英 最烦蹭热点的人",
+      "onboard_time": 1766048421,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 104302,
@@ -11145,6 +11233,14 @@
       "onboard_time": 1765875021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102005,
+      "num": 102005,
+      "word": "果郡王14年来还在追查真相",
+      "onboard_time": 1766048242,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 101832,
@@ -11656,14 +11752,6 @@
       "word": "铁路清雪车有流浪地球那味了",
       "onboard_time": 1765718724,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96920,
-      "num": 187260,
-      "word": "国际航班外籍男子辱骂骚扰中国女生",
-      "onboard_time": 1766047581,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -12731,6 +12819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 85815,
+      "num": 85815,
+      "word": "影法师",
+      "onboard_time": 1766049800,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "收费站捡到戴电话手表的猫咪",
@@ -12889,6 +12985,22 @@
       "onboard_time": 1765983743,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83331,
+      "num": 83331,
+      "word": "刘宇宁已落地大连",
+      "onboard_time": 1766050339,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83310,
+      "num": 83310,
+      "word": "贾一凡谈陈清晨退役落泪",
+      "onboard_time": 1766050281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83118,
@@ -14777,6 +14889,14 @@
       "onboard_time": 1765975702,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50849,
+      "num": 183375,
+      "word": "谁能拒绝白鹿用汤圆做的奶茶",
+      "onboard_time": 1766049261,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50576,
@@ -16859,6 +16979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17608,
+      "num": 109506,
+      "word": "陶昕然与千问讨论安小鸟命运",
+      "onboard_time": 1766050460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16898,
       "num": 39406,
       "word": "不被看见的勇气",
@@ -17176,6 +17304,14 @@
       "word": "煎饼叔叔说恢复了请大家吃饼",
       "onboard_time": 1765857682,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9557,
+      "num": 102113,
+      "word": "拟延长深港口岸除夕开放时间",
+      "onboard_time": 1766050460,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
