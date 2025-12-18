@@ -1,0 +1,410 @@
+{
+  "runTime": 1766033704436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953344,
+        "num": 1152535,
+        "word": "第一次知道微信支付还有这功能",
+        "onboard_time": 1766028741,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 630389,
+        "num": 630389,
+        "word": "春晚",
+        "onboard_time": 1766017401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27109,
+        "num": 578464,
+        "word": "下下周四就2026了",
+        "onboard_time": 1766029341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556241,
+        "num": 556241,
+        "word": "2262年2个春节只放1次假",
+        "onboard_time": 1766021000,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422963,
+        "num": 422963,
+        "word": "香港宣布取消维港跨年烟花汇演",
+        "onboard_time": 1766018781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419361,
+        "num": 419361,
+        "word": "时尚芭莎盛典名单",
+        "onboard_time": 1766030000,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 596016,
+        "num": 406176,
+        "word": "郭敬明王一栩 苦命鸳鸯",
+        "onboard_time": 1766029460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530980,
+        "num": 355545,
+        "word": "陈建斌逛故宫痛失本名",
+        "onboard_time": 1766030602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219144,
+        "num": 219144,
+        "word": "光遇",
+        "onboard_time": 1766031143,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187797,
+        "num": 218857,
+        "word": "泰柬冲突",
+        "onboard_time": 1766014758,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 562304,
+        "num": 218723,
+        "word": "张凯毅 背刺",
+        "onboard_time": 1766024959,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543305,
+        "num": 218357,
+        "word": "知情人称女教师对象曾以为她想通了",
+        "onboard_time": 1766029881,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540450,
+        "num": 218117,
+        "word": "河南女孩吐槽经常被南方室友催着洗澡",
+        "onboard_time": 1766031201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351933,
+        "num": 217969,
+        "word": "徐冬冬尹子维婚纱照",
+        "onboard_time": 1766032402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340610,
+        "num": 217421,
+        "word": "27岁女子患性发育异常",
+        "onboard_time": 1766027541,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 308646,
+        "num": 217367,
+        "word": "全球收入第1女运动员不到男子第100",
+        "onboard_time": 1766031804,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54684,
+        "num": 216962,
+        "word": "经期健康从干爽透气开始",
+        "onboard_time": 1766031740,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296116,
+        "num": 216760,
+        "word": "马年春晚吉祥物发布",
+        "onboard_time": 1766026520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293295,
+        "num": 216394,
+        "word": "李煜东不敢接女同学的球",
+        "onboard_time": 1766031201,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282392,
+        "num": 216153,
+        "word": "情侣住酒店把饭菜倒床上摔杯跑路",
+        "onboard_time": 1766027180,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228942,
+        "num": 215792,
+        "word": "热恋期的生理性喜欢藏不住",
+        "onboard_time": 1766028440,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215681,
+        "num": 215681,
+        "word": "马頔 话糙理不糙但你这太糙了",
+        "onboard_time": 1766032102,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191260,
+        "num": 191260,
+        "word": "育儿嫂将褪黑素当糖多次喂给宝宝",
+        "onboard_time": 1766025382,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181025,
+        "num": 181025,
+        "word": "编舞老师曝TF三代边吃饭边哭",
+        "onboard_time": 1766031201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179563,
+        "num": 179563,
+        "word": "吃人的冰血窟送命的鸽血红",
+        "onboard_time": 1766028381,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173600,
+        "num": 173600,
+        "word": "罗永浩一整年点了557杯咖啡奶茶",
+        "onboard_time": 1766029581,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167827,
+        "num": 167827,
+        "word": "华晨宇骐骥红",
+        "onboard_time": 1766027119,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161579,
+        "num": 161579,
+        "word": "周杰伦报备型艺人实锤了",
+        "onboard_time": 1766028859,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167359,
+        "num": 161461,
+        "word": "谭松韵沈月芒果的女主回家了",
+        "onboard_time": 1766032102,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160597,
+        "num": 160597,
+        "word": "丝芭鞠婧祎热搜见不如法庭见",
+        "onboard_time": 1766033426,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305193,
+        "num": 160006,
+        "word": "怦然心动导演夫妇死因公布",
+        "onboard_time": 1766032582,
+        "rank": 30,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 169331,
+        "num": 159196,
+        "word": "两只小猫就已经没食吃了",
+        "onboard_time": 1766032702,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157950,
+        "num": 157950,
+        "word": "霸总33今日上线",
+        "onboard_time": 1766033304,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153133,
+        "num": 153133,
+        "word": "本田中国工厂将停产",
+        "onboard_time": 1766033123,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149897,
+        "num": 149897,
+        "word": "李斯丹妮袁一琦安崎签保密协议",
+        "onboard_time": 1766032582,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141928,
+        "num": 141928,
+        "word": "董子初爆料张凯毅",
+        "onboard_time": 1766033542,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133576,
+        "num": 133576,
+        "word": "刘耀文边走边掉暖宝宝",
+        "onboard_time": 1766031501,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130043,
+        "num": 130043,
+        "word": "光遇复刻",
+        "onboard_time": 1766031081,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84928,
+        "num": 129840,
+        "word": "谁给那英报名的湖南跨年",
+        "onboard_time": 1766033123,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87010,
+        "num": 129654,
+        "word": "沈月海绵宝宝大电影中国推广大使",
+        "onboard_time": 1766032822,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129652,
+        "num": 129652,
+        "word": "法国农民粪洗政府办公楼",
+        "onboard_time": 1766030842,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129473,
+        "num": 129473,
+        "word": "同一件衣服在室内穿vs室外穿",
+        "onboard_time": 1766033426,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128620,
+        "num": 128620,
+        "word": "樊振东为国争光的决心毋庸置疑",
+        "onboard_time": 1766031143,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122471,
+        "num": 122471,
+        "word": "知情人称女教师婚礼当天和父母吵架",
+        "onboard_time": 1766033362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117581,
+        "num": 117581,
+        "word": "iPhone折叠屏",
+        "onboard_time": 1766032883,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117006,
+        "num": 117006,
+        "word": "情圣3定档",
+        "onboard_time": 1766028981,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116413,
+        "num": 116413,
+        "word": "庞莱臣 南京博物院",
+        "onboard_time": 1766031623,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57461,
+        "num": 116014,
+        "word": "用AI帮安小鸟逆天改命",
+        "onboard_time": 1766033063,
+        "rank": 47,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 115861,
+        "num": 115861,
+        "word": "宋威龙谭松韵湖南跨年二搭",
+        "onboard_time": 1766032763,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109972,
+        "num": 109972,
+        "word": "剑来",
+        "onboard_time": 1766026340,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
