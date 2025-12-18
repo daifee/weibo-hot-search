@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766043793961,
+  "endTime": 1766047135368,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1555958,
+      "num": 287613,
+      "word": "海南封关",
+      "onboard_time": 1766040441,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1553169,
       "num": 264461,
       "word": "杨旭文 陈若琳",
@@ -841,14 +849,6 @@
       "onboard_time": 1765266322,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1414605,
-      "num": 286112,
-      "word": "海南封关",
-      "onboard_time": 1766040441,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1409236,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1765769242,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 883796,
+      "num": 1141407,
+      "word": "海南封关首日iPhone最高可减2140元",
+      "onboard_time": 1766043561,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 883597,
@@ -5036,7 +5044,7 @@
     },
     {
       "raw_hot": 564695,
-      "num": 291638,
+      "num": 343229,
       "word": "55岁三星长公主李富真露面",
       "onboard_time": 1766038222,
       "rank": 30,
@@ -6067,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508988,
+      "num": 216051,
+      "word": "报销 反向抹零",
+      "onboard_time": 1766042001,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 508174,
       "num": 326467,
       "word": "被性恋",
@@ -6169,6 +6185,14 @@
       "onboard_time": 1764899479,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 502201,
+      "num": 211030,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 501961,
@@ -7275,6 +7299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 457277,
+      "num": 184687,
+      "word": "曝成毅助理打粉丝",
+      "onboard_time": 1766046441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457266,
       "num": 457266,
       "word": "每天练背10分钟是回报率最高的运动",
@@ -7507,6 +7539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449992,
+      "num": 203426,
+      "word": "王俊凯粉丝",
+      "onboard_time": 1766043981,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449352,
       "num": 881542,
       "word": "成毅 求求你们再看一会吧",
@@ -7737,6 +7777,14 @@
       "onboard_time": 1764649762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 441522,
+      "num": 201823,
+      "word": "丝芭董事长成被执行人",
+      "onboard_time": 1766042901,
+      "rank": 46,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 441429,
@@ -10139,6 +10187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359877,
+      "num": 298516,
+      "word": "胡先煦王安宇在欧洲待不住",
+      "onboard_time": 1766040322,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359791,
       "num": 284260,
       "word": "国乒男单无缘5连冠",
@@ -10737,14 +10793,6 @@
       "onboard_time": 1765080201,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343598,
-      "num": 247336,
-      "word": "胡先煦王安宇在欧洲待不住",
-      "onboard_time": 1766040322,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 343488,
@@ -11689,6 +11737,14 @@
       "onboard_time": 1765099940,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321989,
+      "num": 180693,
+      "word": "曾艳芬让丝芭传票发她微信上",
+      "onboard_time": 1766043381,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 321841,
@@ -15123,6 +15179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246725,
+      "num": 246725,
+      "word": "Faker呼唤Peanut回来",
+      "onboard_time": 1766042901,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246705,
       "num": 161658,
       "word": "历年的King和Queen",
@@ -15545,14 +15609,6 @@
       "onboard_time": 1765499840,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239862,
-      "num": 181735,
-      "word": "丝芭董事长成被执行人",
-      "onboard_time": 1766042901,
-      "rank": 46,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 239450,
@@ -16009,14 +16065,6 @@
       "onboard_time": 1765105340,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232148,
-      "num": 232148,
-      "word": "Faker呼唤Peanut回来",
-      "onboard_time": 1766042901,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 232142,
@@ -16843,6 +16891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219406,
+      "num": 219406,
+      "word": "考研弃考率",
+      "onboard_time": 1766038881,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219316,
       "num": 219316,
       "word": "章若楠王安宇 你那儿几点",
@@ -17057,6 +17113,22 @@
       "onboard_time": 1765351702,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217371,
+      "num": 217371,
+      "word": "南京博物院 江南春",
+      "onboard_time": 1766046262,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217337,
+      "num": 189135,
+      "word": "特朗普账户宣传存1千可涨至60万",
+      "onboard_time": 1766044222,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217249,
@@ -17873,14 +17945,6 @@
       "onboard_time": 1765424482,
       "rank": 1,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 207853,
-      "num": 207853,
-      "word": "考研弃考率",
-      "onboard_time": 1766038881,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 207820,
@@ -25971,14 +26035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156023,
-      "num": 179629,
-      "word": "报销 反向抹零",
-      "onboard_time": 1766042001,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156004,
       "num": 156004,
       "word": "第一次get到了何蓝逗",
@@ -26521,6 +26577,14 @@
       "onboard_time": 1765695260,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153269,
+      "num": 153269,
+      "word": "曝童星出道女明星拍戏带8个助理",
+      "onboard_time": 1766045301,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 153256,
@@ -27529,6 +27593,14 @@
       "onboard_time": 1764597442,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148271,
@@ -28811,6 +28883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142370,
+      "num": 178894,
+      "word": "5岁男孩玩打火机烧了自家别墅",
+      "onboard_time": 1766042841,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142331,
       "num": 142331,
       "word": "从农村妇女到月薪3万的金牌月嫂",
@@ -29169,6 +29249,14 @@
       "onboard_time": 1764732862,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 140713,
+      "num": 140713,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 140691,
@@ -29875,6 +29963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "原来我们小时候都是吃的细糠",
+      "onboard_time": 1766046200,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 137891,
       "num": 137891,
       "word": "肠包蛋也进入瑜伽裤时代",
@@ -30329,6 +30425,14 @@
       "onboard_time": 1765338320,
       "rank": 35,
       "category": "科学科普,情感"
+    },
+    {
+      "raw_hot": 136254,
+      "num": 136254,
+      "word": "这竟然不是周柯宇",
+      "onboard_time": 1766045002,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136239,
@@ -31705,6 +31809,14 @@
       "onboard_time": 1764572842,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131773,
+      "num": 131773,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 131769,
@@ -33193,6 +33305,14 @@
       "onboard_time": 1764903919,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 101479,
+      "word": "那我们魏晨咋办",
+      "onboard_time": 1766045841,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 126495,
@@ -35411,14 +35531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119596,
-      "num": 176331,
-      "word": "曾艳芬让丝芭传票发她微信上",
-      "onboard_time": 1766043381,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119588,
       "num": 119588,
       "word": "在吃瓜这一块有的是力气和手段",
@@ -36497,6 +36609,14 @@
       "onboard_time": 1765792161,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116653,
+      "num": 101091,
+      "word": "徐志胜来再见爱人上语法课了",
+      "onboard_time": 1766046860,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 116650,
@@ -38435,14 +38555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111088,
-      "num": 178894,
-      "word": "5岁男孩玩打火机烧了自家别墅",
-      "onboard_time": 1766042841,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111086,
       "num": 111086,
       "word": "iPhone截图隐藏功能",
@@ -39611,6 +39723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107473,
+      "num": 143264,
+      "word": "大批车厘子坐船到中国了",
+      "onboard_time": 1766045061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107458,
       "num": 106624,
       "word": "田曦薇新剧",
@@ -39704,6 +39824,14 @@
       "word": "醉酒丈夫负气离家落水遭死亡缠绕",
       "onboard_time": 1765170023,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107211,
+      "num": 179871,
+      "word": "母亲称女儿被害连凶手名字都不知道",
+      "onboard_time": 1766045721,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -41179,6 +41307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102760,
+      "num": 101106,
+      "word": "刘耀文黄晓明 半大小子吃穷老子",
+      "onboard_time": 1766045061,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102691,
       "num": 102691,
       "word": "女性养肝血推荐四大宝",
@@ -41513,6 +41649,14 @@
       "onboard_time": 1766024660,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101798,
+      "num": 101798,
+      "word": "把钎城的梗盘上墙",
+      "onboard_time": 1766046922,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 101789,
@@ -41881,6 +42025,14 @@
       "onboard_time": 1765161139,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100952,
+      "num": 194938,
+      "word": "美团外卖到底请了几个杰伦",
+      "onboard_time": 1766045121,
+      "rank": 14,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 100940,
@@ -43363,6 +43515,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 96589,
+      "num": 96589,
+      "word": "广东短袖 穿回本",
+      "onboard_time": 1766046503,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96585,
       "num": 121439,
       "word": "李雾被姐姐奖励了",
@@ -43545,6 +43705,14 @@
       "onboard_time": 1765205243,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96157,
+      "num": 96157,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 96144,
@@ -45449,6 +45617,14 @@
       "onboard_time": 1765880960,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90549,
+      "num": 93350,
+      "word": "外交部回应美110亿对台军售",
+      "onboard_time": 1766044400,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90508,
@@ -48835,14 +49011,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 76507,
-      "num": 177997,
-      "word": "海南封关首日iPhone最高可减2140元",
-      "onboard_time": 1766043561,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76461,
       "num": 130383,
       "word": "张婧仪厂妹学习中",
@@ -51673,6 +51841,14 @@
       "onboard_time": 1765879281,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60386,
+      "num": 313270,
+      "word": "这座城把新就业群体当成自己人",
+      "onboard_time": 1766044460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60364,
@@ -55819,6 +55995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39363,
+      "num": 101658,
+      "word": "沈腾的好笑离不开王安宇范丞丞",
+      "onboard_time": 1766046262,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39355,
       "num": 121529,
       "word": "煎饼叔叔确诊后曾想放弃治疗",
@@ -56323,6 +56507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37541,
+      "num": 101787,
+      "word": "王艺瑾夸孟子义敬业",
+      "onboard_time": 1766045962,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37539,
       "num": 61589,
       "word": "19岁男生让6岁女孩感受到了父爱",
@@ -56353,6 +56545,14 @@
       "onboard_time": 1765581556,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37365,
+      "num": 186771,
+      "word": "李雪琴问阿福刺挠咋整",
+      "onboard_time": 1766044460,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 37360,

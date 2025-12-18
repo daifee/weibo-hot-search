@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766043793961,
+  "endTime": 1766047135368,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -19,20 +19,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1555958,
+      "num": 287613,
+      "word": "海南封关",
+      "onboard_time": 1766040441,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1431360,
       "num": 1431360,
       "word": "2262年2个春节只放1次假",
       "onboard_time": 1766021000,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1414605,
-      "num": 286112,
-      "word": "海南封关",
-      "onboard_time": 1766040441,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1405447,
@@ -73,6 +73,14 @@
       "onboard_time": 1766037322,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 883796,
+      "num": 1141407,
+      "word": "海南封关首日iPhone最高可减2140元",
+      "onboard_time": 1766043561,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 755831,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 564695,
-      "num": 291638,
+      "num": 343229,
       "word": "55岁三星长公主李富真露面",
       "onboard_time": 1766038222,
       "rank": 30,
@@ -171,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508988,
+      "num": 216051,
+      "word": "报销 反向抹零",
+      "onboard_time": 1766042001,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 502201,
+      "num": 211030,
+      "word": "霍建华问林心如我是你司机吗",
+      "onboard_time": 1766045962,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466339,
       "num": 206834,
       "word": "没认出来是张雨绮",
@@ -187,6 +211,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 457277,
+      "num": 184687,
+      "word": "曝成毅助理打粉丝",
+      "onboard_time": 1766046441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456443,
       "num": 920964,
       "word": "女孩穿光腿神器进了急诊",
@@ -195,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449992,
+      "num": 203426,
+      "word": "王俊凯粉丝",
+      "onboard_time": 1766043981,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444779,
       "num": 333031,
       "word": "工作倒贴行为",
       "onboard_time": 1766034563,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 441522,
+      "num": 201823,
+      "word": "丝芭董事长成被执行人",
+      "onboard_time": 1766042901,
+      "rank": 46,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 437262,
@@ -275,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 359877,
+      "num": 298516,
+      "word": "胡先煦王安宇在欧洲待不住",
+      "onboard_time": 1766040322,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359751,
       "num": 359751,
       "word": "光遇",
@@ -315,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343598,
-      "num": 247336,
-      "word": "胡先煦王安宇在欧洲待不住",
-      "onboard_time": 1766040322,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 342192,
       "num": 342192,
       "word": "男子吹玻璃30年变青蛙王子",
@@ -360,6 +408,14 @@
       "word": "可我的妈妈真的是陈妍希",
       "onboard_time": 1766036122,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321989,
+      "num": 180693,
+      "word": "曾艳芬让丝芭传票发她微信上",
+      "onboard_time": 1766043381,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -483,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246725,
+      "num": 246725,
+      "word": "Faker呼唤Peanut回来",
+      "onboard_time": 1766042901,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241521,
       "num": 279266,
       "word": "剑来",
@@ -497,14 +561,6 @@
       "onboard_time": 1765980624,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239862,
-      "num": 181735,
-      "word": "丝芭董事长成被执行人",
-      "onboard_time": 1766042901,
-      "rank": 46,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 236887,
@@ -523,14 +579,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 232148,
-      "num": 232148,
-      "word": "Faker呼唤Peanut回来",
-      "onboard_time": 1766042901,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 232130,
       "num": 165678,
       "word": "陈妍希回应脸颊肉像饺子一样",
@@ -545,6 +593,30 @@
       "onboard_time": 1766025382,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219406,
+      "num": 219406,
+      "word": "考研弃考率",
+      "onboard_time": 1766038881,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 217371,
+      "num": 217371,
+      "word": "南京博物院 江南春",
+      "onboard_time": 1766046262,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217337,
+      "num": 189135,
+      "word": "特朗普账户宣传存1千可涨至60万",
+      "onboard_time": 1766044222,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217017,
@@ -633,14 +705,6 @@
       "onboard_time": 1766015180,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207853,
-      "num": 207853,
-      "word": "考研弃考率",
-      "onboard_time": 1766038881,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 206370,
@@ -955,19 +1019,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156023,
-      "num": 179629,
-      "word": "报销 反向抹零",
-      "onboard_time": 1766042001,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154351,
       "num": 168470,
       "word": "业内曝辛芷蕾唯一黑点",
       "onboard_time": 1766034322,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153269,
+      "num": 153269,
+      "word": "曝童星出道女明星拍戏带8个助理",
+      "onboard_time": 1766045301,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1011,6 +1075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "珠海",
+      "onboard_time": 1766046621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147161,
       "num": 147161,
       "word": "云顶天宫工作人员下班好像小企鹅",
@@ -1051,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142370,
+      "num": 178894,
+      "word": "5岁男孩玩打火机烧了自家别墅",
+      "onboard_time": 1766042841,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142260,
       "num": 142260,
       "word": "男子中1750万彩票朋友跟买中35万",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1765962623,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140713,
+      "num": 140713,
+      "word": "Epic提前道歉",
+      "onboard_time": 1766046441,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 139806,
@@ -1091,12 +1179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "原来我们小时候都是吃的细糠",
+      "onboard_time": 1766046200,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 137599,
       "num": 137599,
       "word": "陈添祥你到底穿了多少条秋裤",
       "onboard_time": 1766028500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136254,
+      "num": 136254,
+      "word": "这竟然不是周柯宇",
+      "onboard_time": 1766045002,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 135110,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1766040142,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 131773,
+      "num": 131773,
+      "word": "多位博主爆料张凯毅",
+      "onboard_time": 1766046681,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 131120,
@@ -1241,6 +1353,14 @@
       "onboard_time": 1765975101,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 101479,
+      "word": "那我们魏晨咋办",
+      "onboard_time": 1766045841,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 126140,
@@ -1347,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119596,
-      "num": 176331,
-      "word": "曾艳芬让丝芭传票发她微信上",
-      "onboard_time": 1766043381,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "我发现男朋友背着我偷偷嗑",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1765985063,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116653,
+      "num": 101091,
+      "word": "徐志胜来再见爱人上语法课了",
+      "onboard_time": 1766046860,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 116451,
@@ -1443,14 +1563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111088,
-      "num": 178894,
-      "word": "5岁男孩玩打火机烧了自家别墅",
-      "onboard_time": 1766042841,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110697,
       "num": 107458,
       "word": "汪苏泷广州二开",
@@ -1465,6 +1577,22 @@
       "onboard_time": 1766035222,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107473,
+      "num": 143264,
+      "word": "大批车厘子坐船到中国了",
+      "onboard_time": 1766045061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107211,
+      "num": 179871,
+      "word": "母亲称女儿被害连凶手名字都不知道",
+      "onboard_time": 1766045721,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105248,
@@ -1483,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102760,
+      "num": 101106,
+      "word": "刘耀文黄晓明 半大小子吃穷老子",
+      "onboard_time": 1766045061,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102269,
       "num": 102269,
       "word": "当近视的朋友第一次戴眼镜",
@@ -1499,12 +1635,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101798,
+      "num": 101798,
+      "word": "把钎城的梗盘上墙",
+      "onboard_time": 1766046922,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101132,
       "num": 101132,
       "word": "抻完脖子长了十厘米",
       "onboard_time": 1766023042,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100952,
+      "num": 194938,
+      "word": "美团外卖到底请了几个杰伦",
+      "onboard_time": 1766045121,
+      "rank": 14,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 100214,
@@ -1571,6 +1723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96589,
+      "num": 96589,
+      "word": "广东短袖 穿回本",
+      "onboard_time": 1766046503,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96157,
+      "num": 96157,
+      "word": "办公室轮流请奶茶真的很窒息",
+      "onboard_time": 1766047042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93887,
       "num": 113601,
       "word": "顺灏股份涨停",
@@ -1601,6 +1769,14 @@
       "onboard_time": 1766020761,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90549,
+      "num": 93350,
+      "word": "外交部回应美110亿对台军售",
+      "onboard_time": 1766044400,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89968,
@@ -1795,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76507,
-      "num": 177997,
-      "word": "海南封关首日iPhone最高可减2140元",
-      "onboard_time": 1766043561,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75818,
       "num": 98950,
       "word": "网传欧美小孩在日本地铁踩踏座椅",
@@ -1945,6 +2113,14 @@
       "onboard_time": 1766034262,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60386,
+      "num": 313270,
+      "word": "这座城把新就业群体当成自己人",
+      "onboard_time": 1766044460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60131,
@@ -2107,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39363,
+      "num": 101658,
+      "word": "沈腾的好笑离不开王安宇范丞丞",
+      "onboard_time": 1766046262,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39323,
       "num": 98799,
       "word": "北京男篮战胜辽宁男篮",
@@ -2121,6 +2305,22 @@
       "onboard_time": 1766035702,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37541,
+      "num": 101787,
+      "word": "王艺瑾夸孟子义敬业",
+      "onboard_time": 1766045962,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37365,
+      "num": 186771,
+      "word": "李雪琴问阿福刺挠咋整",
+      "onboard_time": 1766044460,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 36906,
