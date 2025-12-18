@@ -1,0 +1,410 @@
+{
+  "runTime": 1766072782659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740743,
+        "num": 1118518,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258321,
+        "num": 258321,
+        "word": "高市早苗5秒变脸",
+        "onboard_time": 1766065883,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67603,
+        "num": 243789,
+        "word": "大批车厘子坐船到中国了",
+        "onboard_time": 1766045061,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370763,
+        "num": 243173,
+        "word": "北京印度餐厅",
+        "onboard_time": 1766068282,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242539,
+        "num": 242539,
+        "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+        "onboard_time": 1766056461,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234026,
+        "num": 234026,
+        "word": "再见爱人",
+        "onboard_time": 1766068401,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1827559,
+        "num": 211316,
+        "word": "双轨直播",
+        "onboard_time": 1766068222,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242898,
+        "num": 208298,
+        "word": "飞天茅台价格暴跌黄牛损失惨重",
+        "onboard_time": 1766067982,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134733,
+        "num": 192919,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1766067863,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181858,
+        "num": 181858,
+        "word": "38岁病危爸爸给孩子剪指甲温柔告别",
+        "onboard_time": 1766061502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530007,
+        "num": 179330,
+        "word": "时隔两年Angelababy再战红毯",
+        "onboard_time": 1766062521,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349127,
+        "num": 177205,
+        "word": "27岁女孩患胃萎缩去世",
+        "onboard_time": 1766067381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 174442,
+        "word": "国盾量子董事长意外去世",
+        "onboard_time": 1766068882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234214,
+        "num": 172873,
+        "word": "摆摊卖大残蟹被人砸摊日入5000",
+        "onboard_time": 1766069302,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231156,
+        "num": 170050,
+        "word": "北京印度餐厅老板 遣返",
+        "onboard_time": 1766070800,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281656,
+        "num": 165699,
+        "word": "Angelababy原图",
+        "onboard_time": 1766068941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209576,
+        "num": 163644,
+        "word": "刘晓庆 震撼全家的75岁红毯状态",
+        "onboard_time": 1766071221,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201173,
+        "num": 159982,
+        "word": "吕品",
+        "onboard_time": 1766069601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158608,
+        "num": 158608,
+        "word": "网传成毅助理打粉丝不实",
+        "onboard_time": 1766070681,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201110,
+        "num": 158270,
+        "word": "杜华包场双轨",
+        "onboard_time": 1766066663,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201304,
+        "num": 157770,
+        "word": "因为穷染上了新疆人的化妆品",
+        "onboard_time": 1766064381,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156195,
+        "num": 156195,
+        "word": "双轨直播 搞笑",
+        "onboard_time": 1766071942,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156099,
+        "num": 156099,
+        "word": "周杰伦在周杰伦模仿大赛获得第二名",
+        "onboard_time": 1766068762,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137967,
+        "num": 137967,
+        "word": "谭松韵状态",
+        "onboard_time": 1766064021,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112477,
+        "num": 131505,
+        "word": "轿车刹车失灵以时速115狂奔490公里",
+        "onboard_time": 1766071341,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128723,
+        "num": 128723,
+        "word": "何穗雪中素颜怼拍",
+        "onboard_time": 1766060601,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118457,
+        "num": 118457,
+        "word": "马嘉祺第一首OST",
+        "onboard_time": 1766061863,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 118387,
+        "word": "张艺兴孤注一掷断层领先",
+        "onboard_time": 1766069721,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115497,
+        "num": 115497,
+        "word": "合肥警方通报一46岁男子身亡",
+        "onboard_time": 1766069002,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259463,
+        "num": 115130,
+        "word": "丝芭传媒近1.3亿股权遭冻结",
+        "onboard_time": 1766067625,
+        "rank": 29,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 279276,
+        "num": 114705,
+        "word": "周大福一条金手链多收9000元",
+        "onboard_time": 1766071641,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 113895,
+        "word": "丝芭传媒有权公开鞠婧祎收入吗",
+        "onboard_time": 1766071760,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101269,
+        "num": 101269,
+        "word": "香港宏福苑业主将获每年15万港元租金补助",
+        "onboard_time": 1766072001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99690,
+        "num": 99690,
+        "word": "吴宣仪滥俗的歌舞台",
+        "onboard_time": 1766067803,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98102,
+        "num": 98102,
+        "word": "迪丽热巴飞毛腿cha",
+        "onboard_time": 1766065642,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95759,
+        "num": 95759,
+        "word": "彭小苒拍照前要压个油",
+        "onboard_time": 1766068104,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91202,
+        "num": 91202,
+        "word": "韩国学生不认识在明两个汉字",
+        "onboard_time": 1766069240,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89116,
+        "num": 89116,
+        "word": "广州天河官宣明年53场演唱会",
+        "onboard_time": 1766057660,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85107,
+        "num": 85107,
+        "word": "阿凡达3",
+        "onboard_time": 1766069781,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70244,
+        "num": 84875,
+        "word": "WTT多哈球星挑战赛",
+        "onboard_time": 1766072240,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84871,
+        "num": 84871,
+        "word": "广州官宣时代少年团演唱会",
+        "onboard_time": 1766055201,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83397,
+        "num": 83397,
+        "word": "徐璐回应不进组",
+        "onboard_time": 1766060601,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72679,
+        "num": 83392,
+        "word": "奇迹",
+        "onboard_time": 1766061863,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 83392,
+        "word": "周雨彤对谭松韵笑",
+        "onboard_time": 1766070322,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67409,
+        "num": 83384,
+        "word": "女子路边买麻花摊主切完要价160元",
+        "onboard_time": 1766069661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66615,
+        "num": 83381,
+        "word": "沈月毕雯珺合唱同桌的你",
+        "onboard_time": 1766070081,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63269,
+        "num": 83372,
+        "word": "iPhone千万不能把内存用完",
+        "onboard_time": 1766050161,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63101,
+        "num": 83369,
+        "word": "金价波动",
+        "onboard_time": 1766062821,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60381,
+        "num": 83365,
+        "word": "金价",
+        "onboard_time": 1766064082,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59959,
+        "num": 83357,
+        "word": "重庆一对7旬夫妇被邻居老人打死",
+        "onboard_time": 1766072540,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视海南自贸港建设#"
+    }
+  }
+}

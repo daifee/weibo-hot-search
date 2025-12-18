@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766071968943,
+  "endTime": 1766072782659,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -10035,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370763,
+      "num": 287706,
+      "word": "北京印度餐厅",
+      "onboard_time": 1766068282,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 370248,
       "num": 293119,
       "word": "白鹿张凌赫 过期糖",
@@ -10777,6 +10785,14 @@
       "onboard_time": 1764557720,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 349127,
+      "num": 275993,
+      "word": "27岁女孩患胃萎缩去世",
+      "onboard_time": 1766067381,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348914,
@@ -12049,14 +12065,6 @@
       "onboard_time": 1764815840,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320875,
-      "num": 275993,
-      "word": "27岁女孩患胃萎缩去世",
-      "onboard_time": 1766067381,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320654,
@@ -13355,14 +13363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287706,
-      "num": 287706,
-      "word": "北京印度餐厅",
-      "onboard_time": 1766068282,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 286982,
       "num": 260078,
       "word": "Viper上线",
@@ -13635,6 +13635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281656,
+      "num": 183003,
+      "word": "Angelababy原图",
+      "onboard_time": 1766068941,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281609,
       "num": 281609,
       "word": "关晓彤淡淡的就很好",
@@ -13761,6 +13769,14 @@
       "onboard_time": 1764933260,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279276,
+      "num": 115123,
+      "word": "周大福一条金手链多收9000元",
+      "onboard_time": 1766071641,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 279135,
@@ -14787,6 +14803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259463,
+      "num": 177821,
+      "word": "丝芭传媒近1.3亿股权遭冻结",
+      "onboard_time": 1766067625,
+      "rank": 41,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 259361,
       "num": 259361,
       "word": "卢昱晓打游戏就喜欢碰到小学生",
@@ -15763,6 +15787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242898,
+      "num": 208298,
+      "word": "飞天茅台价格暴跌黄牛损失惨重",
+      "onboard_time": 1766067982,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 242849,
       "num": 187254,
       "word": "短剧女演员都快美成AI了",
@@ -16323,6 +16355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234214,
+      "num": 188771,
+      "word": "摆摊卖大残蟹被人砸摊日入5000",
+      "onboard_time": 1766069302,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234099,
       "num": 234099,
       "word": "HLE对战T1",
@@ -16503,6 +16543,14 @@
       "num": 211623,
       "word": "全国70城房价下跌",
       "onboard_time": 1765782383,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231156,
+      "num": 170050,
+      "word": "北京印度餐厅老板 遣返",
+      "onboard_time": 1766070800,
       "rank": 17,
       "category": "民生新闻"
     },
@@ -17041,14 +17089,6 @@
       "onboard_time": 1764992300,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 223174,
-      "num": 183003,
-      "word": "Angelababy原图",
-      "onboard_time": 1766068941,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 223136,
@@ -17963,14 +18003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211590,
-      "num": 190342,
-      "word": "飞天茅台价格暴跌黄牛损失惨重",
-      "onboard_time": 1766067982,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211561,
       "num": 189910,
       "word": "一个让皮肤变好的简单方法",
@@ -18123,6 +18155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209576,
+      "num": 163644,
+      "word": "刘晓庆 震撼全家的75岁红毯状态",
+      "onboard_time": 1766071221,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209531,
       "num": 227385,
       "word": "TF家族冒泡",
@@ -18144,14 +18184,6 @@
       "word": "二婚夫妻买2套房被丈夫过户前妻",
       "onboard_time": 1765090700,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209215,
-      "num": 188771,
-      "word": "摆摊卖大残蟹被人砸摊日入5000",
-      "onboard_time": 1766069302,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -18729,14 +18761,6 @@
       "onboard_time": 1765703482,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205859,
-      "num": 115123,
-      "word": "周大福一条金手链多收9000元",
-      "onboard_time": 1766071641,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 205787,
@@ -19529,6 +19553,14 @@
       "onboard_time": 1765248442,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201173,
+      "num": 185334,
+      "word": "吕品",
+      "onboard_time": 1766069601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201141,
@@ -21947,14 +21979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185334,
-      "num": 185334,
-      "word": "吕品",
-      "onboard_time": 1766069601,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185292,
       "num": 185292,
       "word": "新疆阿合奇6级地震",
@@ -23065,14 +23089,6 @@
       "onboard_time": 1765031904,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177821,
-      "num": 177821,
-      "word": "丝芭传媒近1.3亿股权遭冻结",
-      "onboard_time": 1766067625,
-      "rank": 41,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 177738,
@@ -24947,14 +24963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165190,
-      "num": 165190,
-      "word": "北京印度餐厅老板 遣返",
-      "onboard_time": 1766070800,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165021,
       "num": 165021,
       "word": "京考",
@@ -26059,6 +26067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158608,
+      "num": 158608,
+      "word": "网传成毅助理打粉丝不实",
+      "onboard_time": 1766070681,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158606,
       "num": 158606,
       "word": "徐志胜来再见爱人上语法课了",
@@ -26281,14 +26297,6 @@
       "onboard_time": 1765437560,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157769,
-      "num": 157769,
-      "word": "刘晓庆 震撼全家的75岁红毯状态",
-      "onboard_time": 1766071221,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157747,
@@ -26625,6 +26633,14 @@
       "onboard_time": 1764985280,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156195,
+      "num": 156195,
+      "word": "双轨直播 搞笑",
+      "onboard_time": 1766071942,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 156193,
@@ -27081,14 +27097,6 @@
       "onboard_time": 1765169122,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153742,
-      "num": 153742,
-      "word": "网传成毅助理打粉丝不实",
-      "onboard_time": 1766070681,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 153735,
@@ -38515,6 +38523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "丝芭传媒有权公开鞠婧祎收入吗",
+      "onboard_time": 1766071760,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113876,
       "num": 113876,
       "word": "美方紧急要求黎巴嫩归还炸弹",
@@ -38984,6 +39000,14 @@
       "word": "小洛熙是否需要立即手术存疑",
       "onboard_time": 1765877362,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112477,
+      "num": 158399,
+      "word": "轿车刹车失灵以时速115狂奔490公里",
+      "onboard_time": 1766071341,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -40441,14 +40465,6 @@
       "onboard_time": 1766057601,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108290,
-      "num": 108290,
-      "word": "双轨直播 搞笑",
-      "onboard_time": 1766071942,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 108289,
@@ -42923,6 +42939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101269,
+      "num": 101269,
+      "word": "香港宏福苑业主将获每年15万港元租金补助",
+      "onboard_time": 1766072001,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101235,
       "num": 117016,
       "word": "杨超越 县城文学",
@@ -45385,14 +45409,6 @@
       "onboard_time": 1764903860,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94135,
-      "num": 94135,
-      "word": "丝芭传媒有权公开鞠婧祎收入吗",
-      "onboard_time": 1766071760,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 94100,
@@ -49276,7 +49292,7 @@
     },
     {
       "raw_hot": 81286,
-      "num": 81286,
+      "num": 83381,
       "word": "沈月毕雯珺合唱同桌的你",
       "onboard_time": 1766070081,
       "rank": 48,
@@ -50444,7 +50460,7 @@
     },
     {
       "raw_hot": 75521,
-      "num": 81591,
+      "num": 83384,
       "word": "女子路边买麻花摊主切完要价160元",
       "onboard_time": 1766069661,
       "rank": 47,
@@ -51425,6 +51441,14 @@
       "onboard_time": 1765123640,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70244,
+      "num": 84875,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1766072240,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 70215,
@@ -53203,6 +53227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59959,
+      "num": 83357,
+      "word": "重庆一对7旬夫妇被邻居老人打死",
+      "onboard_time": 1766072540,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59930,
       "num": 81119,
       "word": "终于有APP更新不像挤牙膏了",
@@ -54329,14 +54361,6 @@
       "onboard_time": 1764692000,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53979,
-      "num": 158399,
-      "word": "轿车刹车失灵以时速115狂奔490公里",
-      "onboard_time": 1766071341,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53965,
