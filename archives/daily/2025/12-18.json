@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766054970801,
+  "endTime": 1766057200733,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 506724,
+      "num": 214264,
+      "word": "广州官宣时代少年团演唱会",
+      "onboard_time": 1766055201,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 466339,
       "num": 206834,
       "word": "没认出来是张雨绮",
@@ -323,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 426407,
+      "num": 209172,
+      "word": "美伢 完全没整过",
+      "onboard_time": 1766054424,
+      "rank": 28,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 409381,
       "num": 245687,
       "word": "济南",
@@ -363,12 +379,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375885,
+      "num": 1060141,
+      "word": "国家文物局调查博物馆藏画拍卖事件",
+      "onboard_time": 1766052381,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364518,
       "num": 269895,
       "word": "全球收入第1女运动员不到男子第100",
       "onboard_time": 1766031804,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363897,
+      "num": 363897,
+      "word": "女子被买3张高铁票票价过万",
+      "onboard_time": 1766055080,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363237,
@@ -464,6 +496,14 @@
       "word": "孙俪一件羽绒服穿15年",
       "onboard_time": 1766036422,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329194,
+      "num": 202747,
+      "word": "亲爱的鲁豫女士 时代跟上你了",
+      "onboard_time": 1766054239,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -571,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279099,
+      "num": 203863,
+      "word": "律师称丝芭致鞠婧祎告知无法律效力",
+      "onboard_time": 1766052321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276256,
       "num": 212632,
       "word": "家长因送孩子晚被班主任批评",
@@ -579,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270987,
-      "num": 218114,
-      "word": "国家文物局调查博物馆藏画拍卖事件",
-      "onboard_time": 1766052381,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 275525,
+      "num": 193150,
+      "word": "靳朝车祸",
+      "onboard_time": 1766055560,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 270823,
@@ -747,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211912,
+      "num": 211912,
+      "word": "谁家女明星走红毯秀背阔肌啊",
+      "onboard_time": 1766056401,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209789,
       "num": 209789,
       "word": "双轨",
@@ -841,14 +897,6 @@
       "onboard_time": 1766028381,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203863,
-      "num": 203863,
-      "word": "律师称丝芭致鞠婧祎告知无法律效力",
-      "onboard_time": 1766052321,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 203127,
@@ -995,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184301,
+      "num": 175151,
+      "word": "发工资后低成本奖励自己tips",
+      "onboard_time": 1766056461,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 183700,
       "num": 183700,
       "word": "周杰伦报备型艺人实锤了",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1766031201,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179673,
+      "num": 179673,
+      "word": "揭秘孙颖莎的训练基地",
+      "onboard_time": 1766056941,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 179166,
@@ -1107,6 +1171,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163328,
+      "num": 163328,
+      "word": "他赌命换一个爱她的资格",
+      "onboard_time": 1766056280,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160242,
+      "num": 160242,
+      "word": "周奇被问跟肖战合作时会不会有压力",
+      "onboard_time": 1766054661,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159751,
       "num": 146306,
       "word": "鞠婧祎 丝芭",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1766042540,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156673,
+      "num": 156673,
+      "word": "海南封关当地居民发声",
+      "onboard_time": 1766055560,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156582,
@@ -1379,12 +1467,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "姚弛回应把父姓改为母姓",
+      "onboard_time": 1766055741,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133596,
       "num": 133596,
       "word": "因为失眠辞去了月薪8000的工作",
       "onboard_time": 1766038700,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133584,
+      "num": 133584,
+      "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+      "onboard_time": 1766056461,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133511,
@@ -1571,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125218,
-      "num": 125218,
-      "word": "美伢 完全没整过",
-      "onboard_time": 1766054424,
-      "rank": 28,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 123947,
       "num": 144095,
       "word": "他在故事开头阻挡孩子必死的结局",
@@ -1651,14 +1747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 121536,
-      "num": 121536,
-      "word": "亲爱的鲁豫女士 时代跟上你了",
-      "onboard_time": 1766054239,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121504,
       "num": 121504,
       "word": "那英 最烦蹭热点的人",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1766050580,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117862,
+      "num": 157416,
+      "word": "王一博百年老树视角",
+      "onboard_time": 1766057001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 117167,
@@ -1779,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115682,
-      "num": 115682,
-      "word": "周奇被问跟肖战合作时会不会有压力",
-      "onboard_time": 1766054661,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114953,
       "num": 139666,
       "word": "T1与GEN全员入围最佳阵容",
@@ -1827,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112830,
+      "num": 112830,
+      "word": "郑星源 不会放弃维权",
+      "onboard_time": 1766055201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112316,
       "num": 112316,
       "word": "抖音小红书等互联网平台被约谈",
@@ -1843,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111822,
+      "num": 111822,
+      "word": "上镜脸的7个特征",
+      "onboard_time": 1766055980,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 110697,
       "num": 107458,
       "word": "汪苏泷广州二开",
@@ -1851,12 +1955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110118,
+      "num": 110118,
+      "word": "韩国人上海吃火锅把小料装满满的",
+      "onboard_time": 1766057001,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107607,
       "num": 134071,
       "word": "成毅被机场广播催登机",
       "onboard_time": 1766035222,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107356,
+      "num": 107356,
+      "word": "双轨吻戏",
+      "onboard_time": 1766056401,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 107211,
@@ -1889,6 +2009,14 @@
       "onboard_time": 1766045061,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102660,
+      "num": 102660,
+      "word": "孙颖莎从小训练就刻苦",
+      "onboard_time": 1766057120,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102499,
@@ -1953,6 +2081,14 @@
       "onboard_time": 1766045121,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 100662,
+      "num": 100662,
+      "word": "周深拿出这三首ost就是王炸",
+      "onboard_time": 1766056701,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 100214,
@@ -2300,7 +2436,7 @@
     },
     {
       "raw_hot": 80574,
-      "num": 116133,
+      "num": 161488,
       "word": "文旅厅回应南博藏品现身拍卖",
       "onboard_time": 1766054781,
       "rank": 33,
@@ -2571,6 +2707,22 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 57399,
+      "num": 108042,
+      "word": "台词句句锤爆良心的剧",
+      "onboard_time": 1766055621,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55605,
+      "num": 179860,
+      "word": "网友地毯式搜索马超",
+      "onboard_time": 1766055920,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54888,
       "num": 54888,
       "word": "人大书记严选羽绒服已全部售罄",
@@ -2675,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46353,
+      "num": 179645,
+      "word": "杭州立法管理居民体重",
+      "onboard_time": 1766055980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45614,
       "num": 101658,
       "word": "沈腾的好笑离不开王安宇范丞丞",
@@ -2705,6 +2865,14 @@
       "onboard_time": 1766031623,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41694,
+      "num": 186497,
+      "word": "微博集猫猫计划启动",
+      "onboard_time": 1766055681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 40333,
@@ -2841,6 +3009,14 @@
       "onboard_time": 1766052740,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 32432,
+      "num": 160374,
+      "word": "家族群爆款文章先给阿福看一眼",
+      "onboard_time": 1766055142,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 32152,
