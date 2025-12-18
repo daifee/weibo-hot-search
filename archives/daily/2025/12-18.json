@@ -1,6 +1,6 @@
 {
   "startTime": 1765989551311,
-  "endTime": 1766057200733,
+  "endTime": 1766058075257,
   "band_list": [
     {
       "raw_hot": 4470634,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509552,
+      "num": 214264,
+      "word": "广州官宣时代少年团演唱会",
+      "onboard_time": 1766055201,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 508988,
       "num": 236071,
       "word": "报销 反向抹零",
@@ -243,12 +251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 506724,
-      "num": 214264,
-      "word": "广州官宣时代少年团演唱会",
-      "onboard_time": 1766055201,
-      "rank": 7,
-      "category": "演出"
+      "raw_hot": 479794,
+      "num": 209172,
+      "word": "美伢 完全没整过",
+      "onboard_time": 1766054424,
+      "rank": 28,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 466339,
@@ -331,19 +339,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 426407,
-      "num": 209172,
-      "word": "美伢 完全没整过",
-      "onboard_time": 1766054424,
-      "rank": 28,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 409381,
       "num": 245687,
       "word": "济南",
       "onboard_time": 1766051960,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405843,
+      "num": 1064935,
+      "word": "国家文物局调查博物馆藏画拍卖事件",
+      "onboard_time": 1766052381,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391993,
+      "num": 202747,
+      "word": "亲爱的鲁豫女士 时代跟上你了",
+      "onboard_time": 1766054239,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387918,
       "num": 770469,
       "word": "最能生娃省份排名来了",
@@ -377,14 +393,6 @@
       "onboard_time": 1766022501,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 375885,
-      "num": 1060141,
-      "word": "国家文物局调查博物馆藏画拍卖事件",
-      "onboard_time": 1766052381,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364518,
@@ -499,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329194,
-      "num": 202747,
-      "word": "亲爱的鲁豫女士 时代跟上你了",
-      "onboard_time": 1766054239,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323839,
       "num": 318020,
       "word": "可我的妈妈真的是陈妍希",
       "onboard_time": 1766036122,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323315,
+      "num": 211912,
+      "word": "谁家女明星走红毯秀背阔肌啊",
+      "onboard_time": 1766056401,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321989,
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247376,
+      "num": 185175,
+      "word": "发工资后低成本奖励自己tips",
+      "onboard_time": 1766056461,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 246725,
       "num": 246725,
       "word": "Faker呼唤Peanut回来",
@@ -793,14 +809,6 @@
       "onboard_time": 1766019501,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211912,
-      "num": 211912,
-      "word": "谁家女明星走红毯秀背阔肌啊",
-      "onboard_time": 1766056401,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209789,
@@ -1019,6 +1027,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189032,
+      "num": 183894,
+      "word": "丞磊直播",
+      "onboard_time": 1766057181,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187348,
+      "num": 187348,
+      "word": "揭秘孙颖莎的训练基地",
+      "onboard_time": 1766056941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185568,
+      "num": 185568,
+      "word": "海南封关当地居民发声",
+      "onboard_time": 1766055560,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185454,
       "num": 185454,
       "word": "满江红2原班人马",
@@ -1043,14 +1075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184301,
-      "num": 175151,
-      "word": "发工资后低成本奖励自己tips",
-      "onboard_time": 1766056461,
-      "rank": 23,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 183700,
       "num": 183700,
       "word": "周杰伦报备型艺人实锤了",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1766031201,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179673,
-      "num": 179673,
-      "word": "揭秘孙颖莎的训练基地",
-      "onboard_time": 1766056941,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 179166,
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166991,
+      "num": 166991,
+      "word": "彭小苒换造型师了",
+      "onboard_time": 1766057361,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166701,
       "num": 166701,
       "word": "我当年要有这种语文得考满分",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1766056280,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160352,
+      "num": 184999,
+      "word": "泰国彻夜播放鬼叫声恐吓柬村民",
+      "onboard_time": 1766056461,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160242,
@@ -1227,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156673,
-      "num": 156673,
-      "word": "海南封关当地居民发声",
-      "onboard_time": 1766055560,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156582,
       "num": 156582,
       "word": "花傲天年度热梗",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1766027063,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154902,
+      "num": 154902,
+      "word": "唐诡奇谭首播断层登顶",
+      "onboard_time": 1766057480,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 154689,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1766032582,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "双轨吻戏",
+      "onboard_time": 1766056401,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 148366,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1765962623,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141637,
+      "num": 141637,
+      "word": "广州天河官宣明年53场演唱会",
+      "onboard_time": 1766057660,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 139806,
@@ -1481,14 +1529,6 @@
       "onboard_time": 1766038700,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133584,
-      "num": 133584,
-      "word": "泰国彻夜播放鬼叫声恐吓柬村民",
-      "onboard_time": 1766056461,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133511,
@@ -1804,7 +1844,7 @@
     },
     {
       "raw_hot": 117862,
-      "num": 157416,
+      "num": 186526,
       "word": "王一博百年老树视角",
       "onboard_time": 1766057001,
       "rank": 31,
@@ -1907,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113237,
+      "num": 112332,
+      "word": "宋亚轩 不是每次拿笔都在画珍珠",
+      "onboard_time": 1766057961,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113123,
       "num": 183431,
       "word": "樊振东发完球就爆冲",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1766055201,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112693,
+      "num": 112693,
+      "word": "韩国人上海吃火锅把小料装满满的",
+      "onboard_time": 1766057001,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 112316,
@@ -1947,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 111220,
+      "num": 111220,
+      "word": "孙颖莎从小训练就刻苦",
+      "onboard_time": 1766057120,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110697,
       "num": 107458,
       "word": "汪苏泷广州二开",
@@ -1955,12 +2019,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110118,
-      "num": 110118,
-      "word": "韩国人上海吃火锅把小料装满满的",
-      "onboard_time": 1766057001,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 108393,
+      "num": 108393,
+      "word": "正式确诊为杂圈人",
+      "onboard_time": 1766057601,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 107607,
@@ -1971,20 +2035,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107356,
-      "num": 107356,
-      "word": "双轨吻戏",
-      "onboard_time": 1766056401,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107211,
       "num": 179871,
       "word": "母亲称女儿被害连凶手名字都不知道",
       "onboard_time": 1766045721,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106440,
+      "num": 106440,
+      "word": "港媒标题 65岁惠英红震撼做妈妈",
+      "onboard_time": 1766058020,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105248,
@@ -2009,14 +2073,6 @@
       "onboard_time": 1766045061,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102660,
-      "num": 102660,
-      "word": "孙颖莎从小训练就刻苦",
-      "onboard_time": 1766057120,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 102499,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1766052081,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96322,
+      "num": 104690,
+      "word": "唐诡奇谭 短剧",
+      "onboard_time": 1766057422,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95261,
@@ -2499,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76725,
+      "num": 179645,
+      "word": "杭州立法管理居民体重",
+      "onboard_time": 1766055980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75818,
       "num": 98950,
       "word": "网传欧美小孩在日本地铁踩踏座椅",
@@ -2716,7 +2788,7 @@
     },
     {
       "raw_hot": 55605,
-      "num": 179860,
+      "num": 187343,
       "word": "网友地毯式搜索马超",
       "onboard_time": 1766055920,
       "rank": 17,
@@ -2827,14 +2899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46353,
-      "num": 179645,
-      "word": "杭州立法管理居民体重",
-      "onboard_time": 1766055980,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45614,
       "num": 101658,
       "word": "沈腾的好笑离不开王安宇范丞丞",
@@ -2859,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43249,
+      "num": 135298,
+      "word": "男子盘了4年的文玩核桃竟是塑料",
+      "onboard_time": 1766057781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43087,
       "num": 133893,
       "word": "部分餐饮店要求外卖订单不可堂食",
@@ -2867,8 +2939,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42861,
+      "num": 169850,
+      "word": "不敢休不够休不能休的子女陪护假",
+      "onboard_time": 1766055261,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41694,
-      "num": 186497,
+      "num": 188715,
       "word": "微博集猫猫计划启动",
       "onboard_time": 1766055681,
       "rank": 14,
@@ -3012,7 +3092,7 @@
     },
     {
       "raw_hot": 32432,
-      "num": 160374,
+      "num": 167953,
       "word": "家族群爆款文章先给阿福看一眼",
       "onboard_time": 1766055142,
       "rank": 29,
@@ -3075,6 +3155,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 27795,
+      "num": 266437,
+      "word": "一组时空对比照看改革开放来时路",
+      "onboard_time": 1766052381,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27749,
       "num": 127227,
       "word": "检方建议判处山上彻也无期徒刑",
@@ -3096,14 +3184,6 @@
       "word": "下下周四就2026了",
       "onboard_time": 1766029341,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26135,
-      "num": 246397,
-      "word": "一组时空对比照看改革开放来时路",
-      "onboard_time": 1766052381,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3203,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20578,
+      "num": 139010,
+      "word": "15岁女生遭同班男生杀害案将开庭",
+      "onboard_time": 1766057660,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19777,
       "num": 70716,
       "word": "CBA",
@@ -3265,6 +3353,14 @@
       "onboard_time": 1766040742,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8273,
+      "num": 137053,
+      "word": "日本知道台湾大熊猫叫什么吗",
+      "onboard_time": 1766057961,
+      "rank": 38,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
