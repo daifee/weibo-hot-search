@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766134396899,
+  "endTime": 1766136781089,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1403363,
+      "num": 161300,
+      "word": "黄磊孙莉二女儿颜值",
+      "onboard_time": 1766134400,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1401985,
       "num": 1401985,
       "word": "台湾封锁小红书一年",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1765430839,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1082310,
+      "num": 1173169,
+      "word": "印度女演员活动中被多人包围猥亵",
+      "onboard_time": 1766133380,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1081304,
@@ -7203,14 +7219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473440,
-      "num": 298063,
-      "word": "印度女演员活动中被多人包围猥亵",
-      "onboard_time": 1766133380,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 473327,
       "num": 473327,
       "word": "小胖回应改ID",
@@ -9347,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399136,
+      "num": 306220,
+      "word": "一种很新的喝牛奶方式",
+      "onboard_time": 1766133260,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 399069,
       "num": 300721,
       "word": "你是说王俊凯穿了四层才这样吗",
@@ -10593,6 +10609,14 @@
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362901,
+      "num": 362901,
+      "word": "谢兴阳用AI复原了刘维妈妈",
+      "onboard_time": 1766132600,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 362754,
@@ -13001,14 +13025,6 @@
       "onboard_time": 1765885881,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306220,
-      "num": 306220,
-      "word": "一种很新的喝牛奶方式",
-      "onboard_time": 1766133260,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 306070,
@@ -16827,6 +16843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 235071,
+      "num": 170804,
+      "word": "狙击蝴蝶开分6.8",
+      "onboard_time": 1766136201,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234966,
       "num": 216821,
       "word": "李雾回来已经过了25了",
@@ -17523,6 +17547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224929,
+      "num": 170137,
+      "word": "玉簟秋",
+      "onboard_time": 1766135120,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224703,
       "num": 430100,
       "word": "Hero久竞战胜LGDNBW",
@@ -17633,6 +17665,14 @@
       "onboard_time": 1764992300,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 223230,
+      "num": 169300,
+      "word": "丝芭报警回执已不可见",
+      "onboard_time": 1766134761,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 223136,
@@ -19345,14 +19385,6 @@
       "onboard_time": 1765511780,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205766,
-      "num": 170800,
-      "word": "谢兴阳用AI复原了刘维妈妈",
-      "onboard_time": 1766132600,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 205747,
@@ -21321,6 +21353,14 @@
       "onboard_time": 1765509920,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193723,
+      "num": 193723,
+      "word": "罗永浩",
+      "onboard_time": 1766135781,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 193578,
@@ -26435,6 +26475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161271,
+      "num": 161271,
+      "word": "92年宝妈产后腹直肌严重分离",
+      "onboard_time": 1766136501,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161267,
       "num": 232390,
       "word": "塔斯汀90天关了907家店",
@@ -28467,6 +28515,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 151997,
+      "num": 151997,
+      "word": "原来干发帽是这样用的",
+      "onboard_time": 1766134161,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 151963,
       "num": 151963,
       "word": "50年内没人看得懂胡先煦这段",
@@ -28601,6 +28657,14 @@
       "onboard_time": 1764977298,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151319,
+      "num": 157569,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151291,
@@ -29203,6 +29267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148240,
+      "num": 148240,
+      "word": "KSG对战破军",
+      "onboard_time": 1766135781,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "对喜欢的男生祛魅最好的方式就是抄",
@@ -29297,14 +29369,6 @@
       "onboard_time": 1765547362,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147883,
-      "num": 157569,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147811,
@@ -31667,6 +31731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137926,
+      "num": 138755,
+      "word": "心理委员在哪儿33不得劲",
+      "onboard_time": 1766135361,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137925,
       "num": 137925,
       "word": "新手妈妈建议反复观看",
@@ -32947,6 +33019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133607,
+      "num": 133607,
+      "word": "内娱短剧已经发展成这样了吗",
+      "onboard_time": 1766135481,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133599,
       "num": 169581,
       "word": "成毅首部古装权谋剧",
@@ -33313,6 +33393,14 @@
       "onboard_time": 1765616660,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132491,
+      "num": 132491,
+      "word": "成毅 糯米团子吃糯米团子",
+      "onboard_time": 1766136201,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 132486,
@@ -34371,6 +34459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129531,
+      "num": 129531,
+      "word": "居然有剧把人格分裂拍得这么唯美",
+      "onboard_time": 1766136561,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129511,
       "num": 129511,
       "word": "Peyz泽丽",
@@ -34851,6 +34947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127910,
+      "num": 127910,
+      "word": "张凌赫现身重庆称自己很能吃辣",
+      "onboard_time": 1766135541,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127887,
       "num": 127887,
       "word": "双轨团综官宣定档",
@@ -35209,6 +35313,14 @@
       "onboard_time": 1765325242,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126585,
+      "num": 126585,
+      "word": "迪丽热巴真是火到非洲了",
+      "onboard_time": 1766133141,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126576,
@@ -35619,14 +35731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125110,
-      "num": 125110,
-      "word": "原来干发帽是这样用的",
-      "onboard_time": 1766134161,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 125070,
       "num": 125070,
       "word": "Peyz加入T1首秀MVP",
@@ -35841,14 +35945,6 @@
       "onboard_time": 1765972941,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124347,
-      "num": 124347,
-      "word": "迪丽热巴真是火到非洲了",
-      "onboard_time": 1766133141,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 124331,
@@ -36793,6 +36889,14 @@
       "onboard_time": 1765457602,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121852,
+      "num": 125162,
+      "word": "女子意外去世丈夫与岳父母争遗产",
+      "onboard_time": 1766134521,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121848,
@@ -39275,6 +39379,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 115239,
+      "num": 115239,
+      "word": "英雄联盟2027大规模更新",
+      "onboard_time": 1766135240,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115190,
       "num": 115190,
       "word": "TheShy和Rookie搭猫屋",
@@ -40235,6 +40347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112779,
+      "num": 161326,
+      "word": "董明珠71岁正是拼的年纪",
+      "onboard_time": 1766135541,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112737,
       "num": 120255,
       "word": "穆祉丞cha初雪了",
@@ -40417,6 +40537,14 @@
       "onboard_time": 1764583222,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 112340,
+      "num": 104484,
+      "word": "十个勤天自带吐槽役",
+      "onboard_time": 1766136080,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 112337,
@@ -42272,6 +42400,14 @@
       "word": "雅迪回应电动自行车新国标",
       "onboard_time": 1764900321,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106866,
+      "num": 121809,
+      "word": "曝光诈骗团伙内部手册",
+      "onboard_time": 1766134340,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -45659,6 +45795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97799,
+      "num": 119645,
+      "word": "王媛可走红毯摔倒",
+      "onboard_time": 1766132121,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97773,
       "num": 57988,
       "word": "美国少年散步失踪7年后发现遗骸",
@@ -45873,6 +46017,14 @@
       "onboard_time": 1765728560,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97264,
+      "num": 97264,
+      "word": "刹车失灵狂奔490公里司机发声",
+      "onboard_time": 1766135301,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97263,
@@ -46985,6 +47137,14 @@
       "onboard_time": 1765327461,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93974,
+      "num": 93974,
+      "word": "三观不太正的人说话好像在录口供",
+      "onboard_time": 1766135481,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 93956,
@@ -48337,14 +48497,6 @@
       "onboard_time": 1765094840,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 90477,
-      "num": 119645,
-      "word": "王媛可走红毯摔倒",
-      "onboard_time": 1766132121,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 90468,
@@ -57411,6 +57563,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 48082,
+      "num": 115617,
+      "word": "陈哲远这一次要夺回属于我的一切",
+      "onboard_time": 1766135721,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48058,
       "num": 86051,
       "word": "男子给同事发不雅视频被开除起诉公司",
@@ -62163,6 +62323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28466,
+      "num": 148430,
+      "word": "庞叔令要南博说明藏品划拨调剂流向",
+      "onboard_time": 1766136501,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28460,
       "num": 125223,
       "word": "三大航中日航线免费退改签延长",
@@ -62873,6 +63041,14 @@
       "onboard_time": 1764912743,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25755,
+      "num": 369021,
+      "word": "一站式打卡全球好物",
+      "onboard_time": 1766134820,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25741,
@@ -64803,6 +64979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16581,
+      "num": 116776,
+      "word": "文博机构如何守住公众信任",
+      "onboard_time": 1766136142,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 16571,
       "num": 33136,
       "word": "女博士遭外籍丈夫杀害",
@@ -65264,14 +65448,6 @@
       "word": "北方多地将迎来强雨雪",
       "onboard_time": 1765304294,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14469,
-      "num": 121809,
-      "word": "曝光诈骗团伙内部手册",
-      "onboard_time": 1766134340,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
