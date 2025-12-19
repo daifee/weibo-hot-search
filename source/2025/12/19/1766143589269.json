@@ -1,0 +1,410 @@
+{
+  "runTime": 1766143589269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 273040,
+        "num": 1043686,
+        "word": "平潭发展",
+        "onboard_time": 1766130259,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225967,
+        "num": 225967,
+        "word": "武装台湾将面临严重后果",
+        "onboard_time": 1766133319,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26268,
+        "num": 223945,
+        "word": "一站式打卡全球好物",
+        "onboard_time": 1766134820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648128,
+        "num": 220183,
+        "word": "第五人格前瞻",
+        "onboard_time": 1766137220,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344967,
+        "num": 219458,
+        "word": "阿凡达",
+        "onboard_time": 1766139260,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 671662,
+        "num": 214315,
+        "word": "日本男子与上百名女性发生关系偷拍",
+        "onboard_time": 1766138180,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284958,
+        "num": 213112,
+        "word": "谢兴阳用AI复原了刘维妈妈",
+        "onboard_time": 1766132600,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211269,
+        "num": 211269,
+        "word": "女子意外去世丈夫与岳父母争遗产",
+        "onboard_time": 1766134521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418504,
+        "num": 208220,
+        "word": "刘晓庆的骨密度居然和年轻人一样",
+        "onboard_time": 1766139080,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166727,
+        "num": 166727,
+        "word": "考研",
+        "onboard_time": 1766132421,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567270,
+        "num": 165982,
+        "word": "梁淞删何美延好友",
+        "onboard_time": 1766142022,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391917,
+        "num": 165505,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 280413,
+        "num": 164327,
+        "word": "乔任梁父母相继入院",
+        "onboard_time": 1766131820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276745,
+        "num": 162483,
+        "word": "印度女演员活动中被多人包围猥亵",
+        "onboard_time": 1766133380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218058,
+        "num": 162044,
+        "word": "姜暮下跪",
+        "onboard_time": 1766142801,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176799,
+        "num": 160051,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169458,
+        "num": 158700,
+        "word": "反人类暴行豆瓣开分8.5",
+        "onboard_time": 1766142200,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 158622,
+        "word": "青训破军战胜KSG",
+        "onboard_time": 1766138421,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46166,
+        "num": 158068,
+        "word": "贵州向全国发出冬日邀请函",
+        "onboard_time": 1766140101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10471,
+        "num": 156589,
+        "word": "一人一句为考研生加油",
+        "onboard_time": 1766143160,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1008742,
+        "num": 155263,
+        "word": "桃黑黑美团吃了20w",
+        "onboard_time": 1766139921,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 748563,
+        "num": 154570,
+        "word": "黄磊孙莉二女儿颜值",
+        "onboard_time": 1766134400,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235666,
+        "num": 153664,
+        "word": "高圆圆 出片全靠闺蜜",
+        "onboard_time": 1766142380,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164451,
+        "num": 152646,
+        "word": "这才是洗衣服的正确打开方式",
+        "onboard_time": 1766143461,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151661,
+        "num": 151661,
+        "word": "今年冬至将迎来百年一遇的天象",
+        "onboard_time": 1766141599,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145008,
+        "num": 145008,
+        "word": "考研时间",
+        "onboard_time": 1766141540,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142586,
+        "num": 142586,
+        "word": "92年宝妈产后腹直肌严重分离",
+        "onboard_time": 1766136501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134750,
+        "num": 134750,
+        "word": "狙击蝴蝶开分6.8",
+        "onboard_time": 1766136201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134069,
+        "num": 134069,
+        "word": "虞书欣哭戏",
+        "onboard_time": 1766142860,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129679,
+        "num": 133500,
+        "word": "第五人格演绎之星",
+        "onboard_time": 1766142739,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132943,
+        "num": 132943,
+        "word": "罗永浩",
+        "onboard_time": 1766135781,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131165,
+        "num": 131165,
+        "word": "张凯毅黄金凤冠被毁",
+        "onboard_time": 1766141180,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 129533,
+        "num": 129533,
+        "word": "把Mike留在内娱千万不要放过他",
+        "onboard_time": 1766140640,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129037,
+        "num": 129037,
+        "word": "丝芭维权索赔100万被驳回",
+        "onboard_time": 1766142380,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 126164,
+        "num": 126164,
+        "word": "KBS直播",
+        "onboard_time": 1766140340,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125108,
+        "num": 125108,
+        "word": "王东称21岁儿子智商停留在11岁",
+        "onboard_time": 1766139023,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116259,
+        "num": 116259,
+        "word": "全嘻嘻让命变好的10个方法",
+        "onboard_time": 1766141901,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113540,
+        "num": 113540,
+        "word": "白鹿出发参加星光大赏",
+        "onboard_time": 1766140640,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113374,
+        "num": 113374,
+        "word": "刘耀文高会",
+        "onboard_time": 1766142860,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41181,
+        "num": 113248,
+        "word": "演唱会出轨门女主首度发声",
+        "onboard_time": 1766142739,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113173,
+        "num": 113173,
+        "word": "马嘉祺送过贺峻霖累了吧手机壳",
+        "onboard_time": 1766143279,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107499,
+        "num": 107499,
+        "word": "黄轩用的是老年机吗",
+        "onboard_time": 1766143461,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104651,
+        "num": 104651,
+        "word": "唐诡奇谭",
+        "onboard_time": 1766138781,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103269,
+        "num": 103269,
+        "word": "小女孩虚妄海报公开",
+        "onboard_time": 1766142979,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103243,
+        "num": 103243,
+        "word": "一种很新的喝牛奶方式",
+        "onboard_time": 1766133260,
+        "rank": 44,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 36674,
+        "num": 101411,
+        "word": "退休倒计时阿姨气色肉眼可见变好",
+        "onboard_time": 1766142022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101100,
+        "num": 101100,
+        "word": "字节跳动加大人才投入",
+        "onboard_time": 1766140822,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101066,
+        "num": 101066,
+        "word": "徐冬冬再现经典动作",
+        "onboard_time": 1766141720,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90559,
+        "num": 90559,
+        "word": "三观不太正的人说话好像在录口供",
+        "onboard_time": 1766135481,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 89163,
+        "num": 89163,
+        "word": "第五人格五骥映春",
+        "onboard_time": 1766143520,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}

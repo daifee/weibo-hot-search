@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766141278347,
+  "endTime": 1766143589269,
   "band_list": [
     {
       "raw_hot": 1403363,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1008742,
+      "num": 174898,
+      "word": "桃黑黑美团吃了20w",
+      "onboard_time": 1766139921,
+      "rank": 34,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 904923,
       "num": 245106,
       "word": "黄一鸣直播女儿哭着求抱抱",
@@ -91,20 +99,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 671662,
+      "num": 652778,
+      "word": "日本男子与上百名女性发生关系偷拍",
+      "onboard_time": 1766138180,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 671488,
       "num": 204597,
       "word": "胡彦斌恋情曝光后被问幸福吗",
       "onboard_time": 1766114420,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 669807,
-      "num": 652778,
-      "word": "日本男子与上百名女性发生关系偷拍",
-      "onboard_time": 1766138180,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 658585,
@@ -137,6 +145,14 @@
       "onboard_time": 1766132600,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 567270,
+      "num": 165982,
+      "word": "梁淞删何美延好友",
+      "onboard_time": 1766142022,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 563231,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418504,
+      "num": 300488,
+      "word": "刘晓庆的骨密度居然和年轻人一样",
+      "onboard_time": 1766139080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415894,
       "num": 279791,
       "word": "发明肉色秋裤的人你赢了",
@@ -411,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 350702,
-      "num": 300488,
-      "word": "刘晓庆的骨密度居然和年轻人一样",
-      "onboard_time": 1766139080,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 344967,
+      "num": 1023349,
+      "word": "阿凡达",
+      "onboard_time": 1766117300,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 336723,
@@ -459,28 +483,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 318967,
-      "num": 1023349,
-      "word": "阿凡达",
-      "onboard_time": 1766117300,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 315986,
       "num": 315986,
       "word": "湖南卫视跨年演唱会第三波阵容",
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311262,
-      "num": 174898,
-      "word": "桃黑黑美团吃了20w",
-      "onboard_time": 1766139921,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 305756,
@@ -675,6 +683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235666,
+      "num": 153664,
+      "word": "高圆圆 出片全靠闺蜜",
+      "onboard_time": 1766142380,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233120,
       "num": 233120,
       "word": "国民党和民众党将提案弹劾赖清德",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225967,
+      "num": 491534,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222622,
       "num": 188014,
       "word": "71岁奶奶撸铁4年练出少女背",
@@ -737,6 +761,14 @@
       "onboard_time": 1766107579,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218058,
+      "num": 162044,
+      "word": "姜暮下跪",
+      "onboard_time": 1766142801,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 205719,
@@ -1027,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169458,
+      "num": 158700,
+      "word": "反人类暴行豆瓣开分8.5",
+      "onboard_time": 1766142200,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168666,
       "num": 168666,
       "word": "顾玉在步步惊心那老四老八都没戏了",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1766140039,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167497,
-      "num": 491534,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166253,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1766130081,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164451,
+      "num": 152646,
+      "word": "这才是洗衣服的正确打开方式",
+      "onboard_time": 1766143461,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 162529,
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151661,
+      "num": 151661,
+      "word": "今年冬至将迎来百年一遇的天象",
+      "onboard_time": 1766141599,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151528,
       "num": 151528,
       "word": "王一博需要重新找到演员的感觉",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1766118623,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145008,
+      "num": 145008,
+      "word": "考研时间",
+      "onboard_time": 1766141540,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 144081,
@@ -1395,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134069,
+      "num": 134069,
+      "word": "虞书欣哭戏",
+      "onboard_time": 1766142860,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133607,
       "num": 133607,
       "word": "内娱短剧已经发展成这样了吗",
@@ -1443,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131165,
+      "num": 131165,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 130826,
       "num": 138740,
       "word": "阿凡达3",
@@ -1459,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129679,
+      "num": 133500,
+      "word": "第五人格演绎之星",
+      "onboard_time": 1766142739,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129531,
       "num": 129531,
       "word": "居然有剧把人格分裂拍得这么唯美",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1766116040,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129037,
+      "num": 129037,
+      "word": "丝芭维权索赔100万被驳回",
+      "onboard_time": 1766142380,
+      "rank": 33,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 128970,
@@ -1683,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116259,
+      "num": 116259,
+      "word": "全嘻嘻让命变好的10个方法",
+      "onboard_time": 1766141901,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -1723,12 +1819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113374,
+      "num": 113374,
+      "word": "刘耀文高会",
+      "onboard_time": 1766142860,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113220,
       "num": 139973,
       "word": "崩坏星穹铁道超话",
       "onboard_time": 1766067863,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113173,
+      "num": 113173,
+      "word": "马嘉祺送过贺峻霖累了吧手机壳",
+      "onboard_time": 1766143279,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 112779,
@@ -1851,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107499,
+      "num": 107499,
+      "word": "黄轩用的是老年机吗",
+      "onboard_time": 1766143461,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107308,
       "num": 162058,
       "word": "KPL",
@@ -1931,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103269,
+      "num": 103269,
+      "word": "小女孩虚妄海报公开",
+      "onboard_time": 1766142979,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102690,
       "num": 102690,
       "word": "长安二十四计",
@@ -1945,14 +2073,6 @@
       "onboard_time": 1766106681,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102582,
-      "num": 102582,
-      "word": "张凯毅黄金凤冠被毁",
-      "onboard_time": 1766141180,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 102294,
@@ -1977,6 +2097,22 @@
       "onboard_time": 1766133079,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101100,
+      "num": 101100,
+      "word": "字节跳动加大人才投入",
+      "onboard_time": 1766140822,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 101066,
+      "num": 101066,
+      "word": "徐冬冬再现经典动作",
+      "onboard_time": 1766141720,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 100957,
@@ -2163,20 +2299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89376,
-      "num": 89376,
-      "word": "字节跳动加大人才投入",
-      "onboard_time": 1766140822,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 89210,
       "num": 89210,
       "word": "周雨彤本应该从从容容游刃有余",
       "onboard_time": 1766124620,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89163,
+      "num": 89163,
+      "word": "第五人格五骥映春",
+      "onboard_time": 1766143520,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 89138,
@@ -2803,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41181,
+      "num": 113248,
+      "word": "演唱会出轨门女主首度发声",
+      "onboard_time": 1766142739,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41060,
       "num": 226881,
       "word": "花钱骂醒恋爱脑 商家月入万元",
@@ -2872,6 +3016,14 @@
       "word": "郝戎曾说演戏先学做人",
       "onboard_time": 1766125222,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36674,
+      "num": 101411,
+      "word": "退休倒计时阿姨气色肉眼可见变好",
+      "onboard_time": 1766142022,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -3217,6 +3369,14 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10471,
+      "num": 156589,
+      "word": "一人一句为考研生加油",
+      "onboard_time": 1766143160,
+      "rank": 19,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
