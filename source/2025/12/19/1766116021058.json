@@ -1,0 +1,410 @@
+{
+  "runTime": 1766116021058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 543615,
+        "num": 1086978,
+        "word": "上海阿姨独吞6兄弟姐妹同属拆迁款",
+        "onboard_time": 1766105061,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731664,
+        "num": 731664,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20048,
+        "num": 486449,
+        "word": "海南封关打开了机遇之门",
+        "onboard_time": 1766073439,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315986,
+        "num": 315986,
+        "word": "湖南卫视跨年演唱会第三波阵容",
+        "onboard_time": 1766112500,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255505,
+        "num": 255505,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245980,
+        "num": 245980,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 321655,
+        "num": 224192,
+        "word": "日本加息",
+        "onboard_time": 1766104700,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199543,
+        "num": 199543,
+        "word": "中方代表要求日本立即停止挑衅越线",
+        "onboard_time": 1766105061,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185320,
+        "num": 199533,
+        "word": "德国女子舌下藏毒探监毒死男友",
+        "onboard_time": 1766100198,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53856,
+        "num": 199508,
+        "word": "国民党和民众党将提案弹劾赖清德",
+        "onboard_time": 1766115441,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 642905,
+        "num": 199493,
+        "word": "双轨啾咪图是倒放",
+        "onboard_time": 1766114361,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560466,
+        "num": 199484,
+        "word": "胡彦斌恋情曝光后被问幸福吗",
+        "onboard_time": 1766114420,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408312,
+        "num": 199447,
+        "word": "曾艳芬提醒丝芭传媒有聊天记录",
+        "onboard_time": 1766113879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407300,
+        "num": 199438,
+        "word": "日本战机又被激光照射",
+        "onboard_time": 1766109620,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403449,
+        "num": 199405,
+        "word": "建议气血不足的人都要像猫一样生活",
+        "onboard_time": 1766107640,
+        "rank": 14,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 361668,
+        "num": 199387,
+        "word": "白鹿说看不了熟人演戏",
+        "onboard_time": 1766111480,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275592,
+        "num": 199372,
+        "word": "李飞的工位让刘耀文坐爽了",
+        "onboard_time": 1766115020,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242836,
+        "num": 199347,
+        "word": "有山东客户在三亚买了上百套房",
+        "onboard_time": 1766113221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239626,
+        "num": 199343,
+        "word": "曾艳芬曝聊天记录",
+        "onboard_time": 1766115382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222640,
+        "num": 199307,
+        "word": "洗澡前面部分的冷水我从来不浪费",
+        "onboard_time": 1766114662,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 124106,
+        "num": 199303,
+        "word": "华为见非凡对话汪顺",
+        "onboard_time": 1766113520,
+        "rank": 20,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 510601,
+        "num": 199282,
+        "word": "黄一鸣直播女儿哭着求抱抱",
+        "onboard_time": 1766108000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222044,
+        "num": 199263,
+        "word": "何美延作息时间",
+        "onboard_time": 1766111780,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199246,
+        "num": 199246,
+        "word": "李晨突然抖肩吓宋雨琦一跳",
+        "onboard_time": 1766114840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198349,
+        "num": 198349,
+        "word": "逍遥",
+        "onboard_time": 1766112740,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196480,
+        "num": 196480,
+        "word": "长辈总能找到最贵的随手用",
+        "onboard_time": 1766104580,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188667,
+        "num": 188667,
+        "word": "中央戏剧学院撤下郝戎简历",
+        "onboard_time": 1766114840,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 184815,
+        "num": 184815,
+        "word": "宣璐一年6部戏演爽了",
+        "onboard_time": 1766112260,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138504,
+        "num": 182243,
+        "word": "奇迹OST阵容",
+        "onboard_time": 1766110461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181891,
+        "num": 181891,
+        "word": "曝陈晓陈妍希有一方脾气非常倔",
+        "onboard_time": 1766107040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157442,
+        "num": 157442,
+        "word": "王曼昱额外获得23500美元奖金",
+        "onboard_time": 1766112500,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157076,
+        "num": 157076,
+        "word": "明确禁止全隐藏式门把手",
+        "onboard_time": 1766115800,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155300,
+        "num": 155300,
+        "word": "彭小苒腰围只有62cm",
+        "onboard_time": 1766114901,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154775,
+        "num": 154775,
+        "word": "果然上班后看人的眼光会变",
+        "onboard_time": 1766115561,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146990,
+        "num": 146990,
+        "word": "面包蟹 爱洁蟹",
+        "onboard_time": 1766113641,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132413,
+        "num": 144467,
+        "word": "跨年演唱会",
+        "onboard_time": 1766114901,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144009,
+        "num": 144009,
+        "word": "再见爱人5",
+        "onboard_time": 1766115260,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27408,
+        "num": 142220,
+        "word": "2026看人形机器人内外兼修",
+        "onboard_time": 1766115620,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 33670,
+        "num": 141720,
+        "word": "谢娜说快本就是我的青春",
+        "onboard_time": 1766115020,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141523,
+        "num": 141523,
+        "word": "原来遗憾可以写的那么刀人",
+        "onboard_time": 1766112381,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140244,
+        "num": 140244,
+        "word": "辛芷蕾法国新闻周刊封面",
+        "onboard_time": 1766109920,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136035,
+        "num": 136035,
+        "word": "珍珠奶茶是冬天最小单位的幸福",
+        "onboard_time": 1766114840,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132764,
+        "num": 132764,
+        "word": "刘晓庆 震撼全家的75岁红毯状态",
+        "onboard_time": 1766071221,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120364,
+        "num": 120364,
+        "word": "郝戎带过中戏96级明星班",
+        "onboard_time": 1766115141,
+        "rank": 43,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "徐冬冬 香港媳妇",
+        "onboard_time": 1766113161,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110292,
+        "num": 110292,
+        "word": "费启鸣这集我在18年看过",
+        "onboard_time": 1766115320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 107823,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 47033,
+        "num": 106453,
+        "word": "女子回应买一袋麻花花费160元",
+        "onboard_time": 1766114420,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105759,
+        "num": 105759,
+        "word": "孤注一掷",
+        "onboard_time": 1766101939,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99797,
+        "num": 99797,
+        "word": "王一博伸懒腰伸到车顶",
+        "onboard_time": 1766114480,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
