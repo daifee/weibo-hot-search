@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766184264534,
+  "endTime": 1766186842960,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -17,6 +17,14 @@
       "onboard_time": 1766145201,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613693,
+      "num": 74542,
+      "word": "法医刘良",
+      "onboard_time": 1766185936,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500492,
@@ -107,6 +115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213854,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209178,
       "num": 209178,
       "word": "zwy教练",
@@ -123,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181415,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 179046,
+      "num": 72705,
+      "word": "小洛熙事件",
+      "onboard_time": 1766186537,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164815,
@@ -145,6 +161,14 @@
       "onboard_time": 1766158643,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154511,
+      "num": 154551,
+      "word": "私人影院强制要求顾客选择异性陪侍套餐",
+      "onboard_time": 1766156663,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153038,
@@ -169,14 +193,6 @@
       "onboard_time": 1766144000,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121523,
-      "num": 154551,
-      "word": "私人影院强制要求顾客选择异性陪侍套餐",
-      "onboard_time": 1766156663,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113461,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78278,
+      "num": 61749,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78041,
       "num": 151370,
       "word": "赵小童演出",
@@ -323,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66022,
+      "num": 61708,
+      "word": "澳门回归祖国26周年",
+      "onboard_time": 1766185877,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63697,
       "num": 150529,
       "word": "第五人格前瞻",
@@ -345,6 +377,14 @@
       "onboard_time": 1766148859,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61782,
+      "num": 122470,
+      "word": "男子晒妻子一次囤4000多包抽纸",
+      "onboard_time": 1766147542,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61115,
@@ -427,16 +467,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47783,
-      "num": 34647,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 47612,
+      "num": 61699,
+      "word": "今天2026考研",
+      "onboard_time": 1766186417,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 47061,
-      "num": 47061,
+      "num": 61617,
       "word": "月鳞绮纪",
       "onboard_time": 1766166257,
       "rank": 16,
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45302,
-      "num": 122470,
-      "word": "男子晒妻子一次囤4000多包抽纸",
-      "onboard_time": 1766147542,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 44931,
+      "num": 61773,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1766153420,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 43935,
@@ -475,20 +515,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42023,
+      "num": 61731,
+      "word": "哀牢山荒野求生赛事取消",
+      "onboard_time": 1766185936,
+      "rank": 25,
+      "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 36843,
+      "num": 93664,
+      "word": "考研",
+      "onboard_time": 1766132421,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 33683,
+      "num": 61680,
+      "word": "美司法部开始公布爱泼斯坦案文件",
+      "onboard_time": 1766186357,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33295,
       "num": 93211,
       "word": "汪苏泷生命力要溢出屏幕了",
       "onboard_time": 1766165298,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32274,
-      "num": 93664,
-      "word": "考研",
-      "onboard_time": 1766132421,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 31985,
@@ -507,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27796,
-      "num": 34614,
-      "word": "射雕英雄传侠之大者",
-      "onboard_time": 1766153420,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 28817,
+      "num": 61668,
+      "word": "第五人格",
+      "onboard_time": 1766186717,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 28518,
+      "num": 61662,
+      "word": "消费者称黄金一天一个价",
+      "onboard_time": 1766186056,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 27660,
@@ -531,12 +595,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26609,
+      "num": 61640,
+      "word": "陈泽抽奖",
+      "onboard_time": 1766186777,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 26557,
+      "num": 61636,
+      "word": "台北车站袭击案",
+      "onboard_time": 1766145501,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25626,
       "num": 43503,
       "word": "听sevenkids新歌很难不舞起来",
       "onboard_time": 1766168715,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25490,
+      "num": 80849,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 24387,
@@ -555,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20098,
-      "num": 40995,
-      "word": "台北车站袭击案",
-      "onboard_time": 1766145501,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 21967,
+      "num": 61613,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 47,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 19447,
@@ -577,22 +665,6 @@
       "onboard_time": 1766179815,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17213,
-      "num": 54294,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 16148,
-      "num": 34504,
-      "word": "张凯毅黄金凤冠被毁",
-      "onboard_time": 1766141180,
-      "rank": 47,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 16145,

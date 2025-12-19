@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766184264534,
+  "endTime": 1766186842960,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1766148441,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613693,
+      "num": 74542,
+      "word": "法医刘良",
+      "onboard_time": 1766185936,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 613464,
@@ -6147,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213854,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213802,
       "num": 213802,
       "word": "韩网红说爱上中国是因为中国人",
@@ -7819,14 +7835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181415,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181393,
       "num": 142699,
       "word": "芬兰小姐手拉眼睛拍照涉嫌歧视中国",
@@ -7929,6 +7937,14 @@
       "onboard_time": 1765770081,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179046,
+      "num": 72705,
+      "word": "小洛熙事件",
+      "onboard_time": 1766186537,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178790,
@@ -9296,6 +9312,14 @@
       "word": "大爷用雪堆出逼真猫咪竟引来真猫",
       "onboard_time": 1765809082,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154511,
+      "num": 154551,
+      "word": "私人影院强制要求顾客选择异性陪侍套餐",
+      "onboard_time": 1766156663,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -12336,14 +12360,6 @@
       "word": "被骗936万女子抑郁暴瘦自杀身亡",
       "onboard_time": 1765624521,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121523,
-      "num": 154551,
-      "word": "私人影院强制要求顾客选择异性陪侍套餐",
-      "onboard_time": 1766156663,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -17435,6 +17451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78278,
+      "num": 61749,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78215,
       "num": 78215,
       "word": "男生跳楼家属向物业索赔90万被驳回",
@@ -18297,6 +18321,14 @@
       "onboard_time": 1765956742,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66022,
+      "num": 61708,
+      "word": "澳门回归祖国26周年",
+      "onboard_time": 1766185877,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65997,
@@ -19523,20 +19555,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47783,
-      "num": 34647,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47642,
       "num": 139118,
       "word": "河南方城领导在担心什么",
       "onboard_time": 1765772723,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 47612,
+      "num": 61699,
+      "word": "今天2026考研",
+      "onboard_time": 1766186417,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 47608,
@@ -19897,6 +19929,14 @@
       "onboard_time": 1765743374,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42023,
+      "num": 61731,
+      "word": "哀牢山荒野求生赛事取消",
+      "onboard_time": 1766185936,
+      "rank": 25,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 41955,
@@ -20643,6 +20683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33683,
+      "num": 61680,
+      "word": "美司法部开始公布爱泼斯坦案文件",
+      "onboard_time": 1766186357,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33670,
       "num": 141720,
       "word": "谢娜说快本就是我的青春",
@@ -21219,6 +21267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28518,
+      "num": 61662,
+      "word": "消费者称黄金一天一个价",
+      "onboard_time": 1766186056,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 28506,
       "num": 47693,
       "word": "双子座流星雨",
@@ -21371,6 +21427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26609,
+      "num": 61640,
+      "word": "陈泽抽奖",
+      "onboard_time": 1766186777,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 26468,
       "num": 168314,
       "word": "院方曾称庞莱臣子孙败落到卖画为生",
@@ -21465,6 +21529,14 @@
       "onboard_time": 1765820656,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25490,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 25409,
@@ -22113,14 +22185,6 @@
       "onboard_time": 1766095755,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17213,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 16898,
