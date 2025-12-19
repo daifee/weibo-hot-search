@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766140332746,
+  "endTime": 1766141278347,
   "band_list": [
     {
       "raw_hot": 1403363,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 669807,
+      "num": 652778,
+      "word": "日本男子与上百名女性发生关系偷拍",
+      "onboard_time": 1766138180,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 658585,
       "num": 258089,
       "word": "双轨啾咪图是倒放",
       "onboard_time": 1766114361,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 652778,
-      "num": 652778,
-      "word": "日本男子与上百名女性发生关系偷拍",
-      "onboard_time": 1766138180,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 648966,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350702,
+      "num": 300488,
+      "word": "刘晓庆的骨密度居然和年轻人一样",
+      "onboard_time": 1766139080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336723,
       "num": 183389,
       "word": "乔任梁妈妈因甲流住院",
@@ -451,12 +459,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318967,
+      "num": 1023349,
+      "word": "阿凡达",
+      "onboard_time": 1766117300,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315986,
       "num": 315986,
       "word": "湖南卫视跨年演唱会第三波阵容",
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311262,
+      "num": 174898,
+      "word": "桃黑黑美团吃了20w",
+      "onboard_time": 1766139921,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 305756,
@@ -723,20 +747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201917,
+      "num": 393685,
+      "word": "孙颖莎能量人物推荐值破1000万",
+      "onboard_time": 1766128220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201496,
+      "num": 201496,
+      "word": "虞书欣说今晚轻点虐暮暮",
+      "onboard_time": 1766140640,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201336,
       "num": 199768,
       "word": "内娱有史以来最吵的癫综要来了",
       "onboard_time": 1766118920,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200609,
-      "num": 1023349,
-      "word": "阿凡达",
-      "onboard_time": 1766117300,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 200090,
@@ -787,22 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197493,
-      "num": 197493,
-      "word": "刘晓庆的骨密度居然和年轻人一样",
-      "onboard_time": 1766139080,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196319,
-      "num": 393685,
-      "word": "孙颖莎能量人物推荐值破1000万",
-      "onboard_time": 1766128220,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "张艺兴时装男士十二月刊封面",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 194670,
-      "num": 283379,
+      "num": 312377,
       "word": "考研",
       "onboard_time": 1766132421,
       "rank": 9,
@@ -1019,12 +1035,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167888,
+      "num": 167888,
+      "word": "王鹤棣刘耀文蒸桑拿",
+      "onboard_time": 1766140039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167497,
+      "num": 491534,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "明确禁止全隐藏式门把手",
       "onboard_time": 1766115800,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166089,
+      "num": 166089,
+      "word": "把Mike留在内娱千万不要放过他",
+      "onboard_time": 1766140640,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 164674,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1766133019,
       "rank": 26,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 160354,
-      "num": 491534,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159568,
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149505,
+      "num": 149505,
+      "word": "KBS直播",
+      "onboard_time": 1766140340,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148495,
       "num": 148495,
       "word": "赵本山曾帮大鹏争取收入",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1766112381,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141120,
+      "num": 141120,
+      "word": "三观不太正的人说话好像在录口供",
+      "onboard_time": 1766135481,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 140562,
@@ -1451,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127152,
-      "num": 127152,
-      "word": "王鹤棣刘耀文蒸桑拿",
-      "onboard_time": 1766140039,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126978,
       "num": 126978,
       "word": "考研的心从未如此强烈过",
@@ -1475,20 +1515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126294,
-      "num": 126294,
-      "word": "三观不太正的人说话好像在录口供",
-      "onboard_time": 1766135481,
-      "rank": 49,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "全红婵是张家齐直播间榜一",
       "onboard_time": 1766100498,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125074,
+      "num": 125074,
+      "word": "白鹿出发参加星光大赏",
+      "onboard_time": 1766140640,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 124897,
@@ -1569,14 +1609,6 @@
       "onboard_time": 1766121081,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120541,
-      "num": 120541,
-      "word": "桃黑黑美团吃了20w",
-      "onboard_time": 1766139921,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 120364,
@@ -1915,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102582,
+      "num": 102582,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 102294,
       "num": 102294,
       "word": "为什么带父母旅行的大多都是女儿",
@@ -2123,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89376,
+      "num": 89376,
+      "word": "字节跳动加大人才投入",
+      "onboard_time": 1766140822,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89210,
       "num": 89210,
       "word": "周雨彤本应该从从容容游刃有余",
@@ -2187,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86018,
+      "num": 86018,
+      "word": "敖瑞鹏Gucci活动",
+      "onboard_time": 1766141240,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85950,
       "num": 118670,
       "word": "过家家这段的查重率100%",
@@ -2209,6 +2265,14 @@
       "onboard_time": 1766123900,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84756,
+      "num": 83867,
+      "word": "身体严重缺觉的8个表现",
+      "onboard_time": 1766141060,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84644,
@@ -2251,6 +2315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84130,
+      "num": 102933,
+      "word": "12岁女孩患怪病上学发烧放学退烧",
+      "onboard_time": 1766139080,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83246,
+      "num": 168742,
+      "word": "女子被撞身亡家属质疑交警不跨区施救",
+      "onboard_time": 1766138899,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82864,
       "num": 82864,
       "word": "张凌赫身上淡淡的苏感",
@@ -2273,14 +2353,6 @@
       "onboard_time": 1766116762,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 81473,
-      "num": 102933,
-      "word": "12岁女孩患怪病上学发烧放学退烧",
-      "onboard_time": 1766139080,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81199,
@@ -2443,14 +2515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62678,
-      "num": 168742,
-      "word": "女子被撞身亡家属质疑交警不跨区施救",
-      "onboard_time": 1766138899,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61900,
       "num": 61900,
       "word": "日本前女市长为开房男下属申冤",
@@ -2529,6 +2593,14 @@
       "onboard_time": 1766129721,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56920,
+      "num": 195602,
+      "word": "贵州向全国发出冬日邀请函",
+      "onboard_time": 1766140101,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55806,
@@ -2835,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31523,
+      "num": 103338,
+      "word": "首批买老破小的人快被装修掏空了",
+      "onboard_time": 1766139979,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31457,
       "num": 190114,
       "word": "杨迪说素颜照只敢发给阿福看",
@@ -2873,14 +2953,6 @@
       "onboard_time": 1766117059,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29099,
-      "num": 135602,
-      "word": "贵州向全国发出冬日邀请函",
-      "onboard_time": 1766140101,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28982,
@@ -3051,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16688,
+      "num": 102169,
+      "word": "沙溢儿子安吉身高1米81",
+      "onboard_time": 1766140879,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16673,
       "num": 31176,
       "word": "成毅一句话推荐长安二十四计",
@@ -3137,14 +3217,6 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8944,
-      "num": 103338,
-      "word": "首批买老破小的人快被装修掏空了",
-      "onboard_time": 1766139979,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766140332746,
+  "endTime": 1766141278347,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669807,
+      "num": 652778,
+      "word": "日本男子与上百名女性发生关系偷拍",
+      "onboard_time": 1766138180,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 669414,
       "num": 473275,
       "word": "陈建斌逛故宫痛失本名",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1765899382,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 652778,
-      "num": 652778,
-      "word": "日本男子与上百名女性发生关系偷拍",
-      "onboard_time": 1766138180,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 652172,
@@ -3299,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350702,
+      "num": 300488,
+      "word": "刘晓庆的骨密度居然和年轻人一样",
+      "onboard_time": 1766139080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350431,
       "num": 271861,
       "word": "王一博杂志秒罄",
@@ -3715,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318967,
+      "num": 1023349,
+      "word": "阿凡达",
+      "onboard_time": 1765995915,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317176,
       "num": 225354,
       "word": "和美国女友网恋奔现",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1765729280,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 311262,
+      "num": 174898,
+      "word": "桃黑黑美团吃了20w",
+      "onboard_time": 1766139921,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 310889,
@@ -6291,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201917,
+      "num": 393685,
+      "word": "孙颖莎能量人物推荐值破1000万",
+      "onboard_time": 1766128220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201901,
       "num": 201901,
       "word": "周鸿祎声明",
@@ -6304,6 +6336,14 @@
       "word": "国剧盛典直播",
       "onboard_time": 1765876824,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201496,
+      "num": 201496,
+      "word": "虞书欣说今晚轻点虐暮暮",
+      "onboard_time": 1766140640,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -6337,14 +6377,6 @@
       "onboard_time": 1765978342,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200609,
-      "num": 1023349,
-      "word": "阿凡达",
-      "onboard_time": 1765995915,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 200464,
@@ -6523,14 +6555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197493,
-      "num": 197493,
-      "word": "刘晓庆的骨密度居然和年轻人一样",
-      "onboard_time": 1766139080,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197164,
       "num": 197164,
       "word": "麻省理工学院教授在家遭枪击身亡",
@@ -6593,14 +6617,6 @@
       "onboard_time": 1765862002,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 196319,
-      "num": 393685,
-      "word": "孙颖莎能量人物推荐值破1000万",
-      "onboard_time": 1766128220,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 195962,
@@ -6684,7 +6700,7 @@
     },
     {
       "raw_hot": 194670,
-      "num": 283379,
+      "num": 312377,
       "word": "考研",
       "onboard_time": 1766132421,
       "rank": 9,
@@ -8051,6 +8067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167888,
+      "num": 167888,
+      "word": "王鹤棣刘耀文蒸桑拿",
+      "onboard_time": 1766140039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167827,
       "num": 196963,
       "word": "华晨宇骐骥红",
@@ -8065,6 +8089,14 @@
       "onboard_time": 1765788862,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167497,
+      "num": 491534,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167359,
@@ -8137,6 +8169,14 @@
       "onboard_time": 1765719745,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166089,
+      "num": 166089,
+      "word": "把Mike留在内娱千万不要放过他",
+      "onboard_time": 1766140640,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 165684,
@@ -8345,14 +8385,6 @@
       "onboard_time": 1765709782,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160354,
-      "num": 491534,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160242,
@@ -9155,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149505,
+      "num": 149505,
+      "word": "KBS直播",
+      "onboard_time": 1766140340,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149337,
       "num": 149337,
       "word": "KSG挺进挑杯八强",
@@ -9713,6 +9753,14 @@
       "onboard_time": 1765859421,
       "rank": 40,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 141120,
+      "num": 141120,
+      "word": "三观不太正的人说话好像在录口供",
+      "onboard_time": 1766135481,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 141030,
@@ -11091,14 +11139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127152,
-      "num": 127152,
-      "word": "王鹤棣刘耀文蒸桑拿",
-      "onboard_time": 1766140039,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126978,
       "num": 126978,
       "word": "考研的心从未如此强烈过",
@@ -11153,14 +11193,6 @@
       "onboard_time": 1765700902,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126294,
-      "num": 126294,
-      "word": "三观不太正的人说话好像在录口供",
-      "onboard_time": 1766135481,
-      "rank": 49,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 126191,
@@ -11273,6 +11305,14 @@
       "onboard_time": 1766100498,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125074,
+      "num": 125074,
+      "word": "白鹿出发参加星光大赏",
+      "onboard_time": 1766140640,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 124998,
@@ -11801,14 +11841,6 @@
       "onboard_time": 1766042361,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120541,
-      "num": 120541,
-      "word": "桃黑黑美团吃了20w",
-      "onboard_time": 1766139921,
-      "rank": 34,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 120484,
@@ -13779,6 +13811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102582,
+      "num": 102582,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 102525,
       "num": 102525,
       "word": "长安二十四计来了个搞纯爱的",
@@ -15515,6 +15555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89376,
+      "num": 89376,
+      "word": "字节跳动加大人才投入",
+      "onboard_time": 1766140822,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89365,
       "num": 89365,
       "word": "小鹏获L3级自动驾驶道路测试牌照",
@@ -15811,6 +15859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 86018,
+      "num": 86018,
+      "word": "敖瑞鹏Gucci活动",
+      "onboard_time": 1766141240,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85950,
       "num": 118670,
       "word": "过家家这段的查重率100%",
@@ -15987,6 +16043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84130,
+      "num": 102933,
+      "word": "12岁女孩患怪病上学发烧放学退烧",
+      "onboard_time": 1766139080,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84125,
       "num": 84125,
       "word": "这个视频每一帧让我感觉到窒息",
@@ -16057,6 +16121,14 @@
       "onboard_time": 1766050281,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83246,
+      "num": 168742,
+      "word": "女子被撞身亡家属质疑交警不跨区施救",
+      "onboard_time": 1766138899,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83118,
@@ -16241,14 +16313,6 @@
       "onboard_time": 1765637962,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81473,
-      "num": 102933,
-      "word": "12岁女孩患怪病上学发烧放学退烧",
-      "onboard_time": 1766139080,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81427,
@@ -17547,14 +17611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62678,
-      "num": 168742,
-      "word": "女子被撞身亡家属质疑交警不跨区施救",
-      "onboard_time": 1766138899,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62665,
       "num": 198632,
       "word": "阿福从智能手表里读懂了我的睡眠",
@@ -17977,6 +18033,14 @@
       "onboard_time": 1766129721,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56920,
+      "num": 195602,
+      "word": "贵州向全国发出冬日邀请函",
+      "onboard_time": 1766140101,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56733,
@@ -19795,6 +19859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31523,
+      "num": 103338,
+      "word": "首批买老破小的人快被装修掏空了",
+      "onboard_time": 1766139979,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31462,
       "num": 532329,
       "word": "山东舰正式入列6周年",
@@ -20041,14 +20113,6 @@
       "onboard_time": 1765993156,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29099,
-      "num": 135602,
-      "word": "贵州向全国发出冬日邀请函",
-      "onboard_time": 1766140101,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28982,
@@ -20947,6 +21011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16688,
+      "num": 102169,
+      "word": "沙溢儿子安吉身高1米81",
+      "onboard_time": 1766140879,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16673,
       "num": 31176,
       "word": "成毅一句话推荐长安二十四计",
@@ -21353,14 +21425,6 @@
       "onboard_time": 1765860803,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8944,
-      "num": 103338,
-      "word": "首批买老破小的人快被装修掏空了",
-      "onboard_time": 1766139979,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8896,

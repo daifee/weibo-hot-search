@@ -1,0 +1,410 @@
+{
+  "runTime": 1766141278347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326432,
+        "num": 1052229,
+        "word": "平潭发展",
+        "onboard_time": 1766130259,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318967,
+        "num": 318967,
+        "word": "阿凡达",
+        "onboard_time": 1766139260,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23419,
+        "num": 318961,
+        "word": "一站式打卡全球好物",
+        "onboard_time": 1766134820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120095,
+        "num": 318467,
+        "word": "第五人格前瞻",
+        "onboard_time": 1766137220,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 486109,
+        "num": 318384,
+        "word": "谢兴阳用AI复原了刘维妈妈",
+        "onboard_time": 1766132600,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 788221,
+        "num": 317898,
+        "word": "印度女演员活动中被多人包围猥亵",
+        "onboard_time": 1766133380,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 669807,
+        "num": 317817,
+        "word": "日本男子与上百名女性发生关系偷拍",
+        "onboard_time": 1766138180,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317607,
+        "num": 317607,
+        "word": "女子意外去世丈夫与岳父母争遗产",
+        "onboard_time": 1766134521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167497,
+        "num": 314731,
+        "word": "武装台湾将面临严重后果",
+        "onboard_time": 1766133319,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141012,
+        "num": 312377,
+        "word": "考研",
+        "onboard_time": 1766132421,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367003,
+        "num": 309716,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 365402,
+        "num": 304769,
+        "word": "乔任梁父母相继入院",
+        "onboard_time": 1766131820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350702,
+        "num": 300488,
+        "word": "刘晓庆的骨密度居然和年轻人一样",
+        "onboard_time": 1766139080,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300057,
+        "num": 300057,
+        "word": "罗永浩",
+        "onboard_time": 1766135781,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270666,
+        "num": 270666,
+        "word": "青训破军战胜KSG",
+        "onboard_time": 1766138421,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230892,
+        "num": 230892,
+        "word": "狙击蝴蝶开分6.8",
+        "onboard_time": 1766136201,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201917,
+        "num": 201917,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201496,
+        "num": 201496,
+        "word": "虞书欣说今晚轻点虐暮暮",
+        "onboard_time": 1766140640,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56920,
+        "num": 195602,
+        "word": "贵州向全国发出冬日邀请函",
+        "onboard_time": 1766140101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31455,
+        "num": 189813,
+        "word": "杨迪说素颜照只敢发给阿福看",
+        "onboard_time": 1766138899,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908260,
+        "num": 179039,
+        "word": "黄磊孙莉二女儿颜值",
+        "onboard_time": 1766134400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311262,
+        "num": 174898,
+        "word": "桃黑黑美团吃了20w",
+        "onboard_time": 1766139921,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 167888,
+        "num": 167888,
+        "word": "王鹤棣刘耀文蒸桑拿",
+        "onboard_time": 1766140039,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167217,
+        "num": 167217,
+        "word": "一种很新的喝牛奶方式",
+        "onboard_time": 1766133260,
+        "rank": 23,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 166089,
+        "num": 166089,
+        "word": "把Mike留在内娱千万不要放过他",
+        "onboard_time": 1766140640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164981,
+        "num": 164981,
+        "word": "王东称21岁儿子智商停留在11岁",
+        "onboard_time": 1766139023,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157997,
+        "num": 157997,
+        "word": "KSG对战破军",
+        "onboard_time": 1766135781,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149505,
+        "num": 149505,
+        "word": "KBS直播",
+        "onboard_time": 1766140340,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149429,
+        "num": 149429,
+        "word": "92年宝妈产后腹直肌严重分离",
+        "onboard_time": 1766136501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141120,
+        "num": 141120,
+        "word": "三观不太正的人说话好像在录口供",
+        "onboard_time": 1766135481,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125074,
+        "num": 125074,
+        "word": "白鹿出发参加星光大赏",
+        "onboard_time": 1766140640,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 124832,
+        "word": "唐诡奇谭",
+        "onboard_time": 1766138781,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "日团体请求访华未获回复",
+        "onboard_time": 1766138421,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118137,
+        "num": 118137,
+        "word": "短剧男主都开始跨剧抢女主了",
+        "onboard_time": 1766131220,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114140,
+        "num": 114140,
+        "word": "Faker手机掉湖里了",
+        "onboard_time": 1766139440,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106921,
+        "num": 106921,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106779,
+        "num": 106779,
+        "word": "玉簟秋",
+        "onboard_time": 1766135120,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103056,
+        "num": 103056,
+        "word": "离别前最后一面是分手",
+        "onboard_time": 1766139859,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102582,
+        "num": 102582,
+        "word": "张凯毅黄金凤冠被毁",
+        "onboard_time": 1766141180,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 16688,
+        "num": 102169,
+        "word": "沙溢儿子安吉身高1米81",
+        "onboard_time": 1766140879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101799,
+        "num": 101799,
+        "word": "71岁奶奶撸铁4年练出少女背",
+        "onboard_time": 1766129361,
+        "rank": 40,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 31523,
+        "num": 99411,
+        "word": "首批买老破小的人快被装修掏空了",
+        "onboard_time": 1766139979,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98544,
+        "num": 98544,
+        "word": "长安二十四计",
+        "onboard_time": 1766140160,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92861,
+        "num": 92861,
+        "word": "酒店回应枕头用10年睡到干净的是幸运",
+        "onboard_time": 1766138421,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83246,
+        "num": 91002,
+        "word": "女子被撞身亡家属质疑交警不跨区施救",
+        "onboard_time": 1766138899,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89376,
+        "num": 89376,
+        "word": "字节跳动加大人才投入",
+        "onboard_time": 1766140822,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86798,
+        "num": 86798,
+        "word": "王一博需要重新找到演员的感觉",
+        "onboard_time": 1766130561,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86018,
+        "num": 86018,
+        "word": "敖瑞鹏Gucci活动",
+        "onboard_time": 1766141240,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84130,
+        "num": 84130,
+        "word": "12岁女孩患怪病上学发烧放学退烧",
+        "onboard_time": 1766139080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84756,
+        "num": 83867,
+        "word": "身体严重缺觉的8个表现",
+        "onboard_time": 1766141060,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}
