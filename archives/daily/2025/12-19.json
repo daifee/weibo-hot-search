@@ -1,10 +1,10 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766119409655,
+  "endTime": 1766120067049,
   "band_list": [
     {
-      "raw_hot": 1190544,
-      "num": 236478,
+      "raw_hot": 1230416,
+      "num": 249980,
       "word": "零负债人群",
       "onboard_time": 1766115980,
       "rank": 46,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 904923,
-      "num": 231522,
+      "num": 245106,
       "word": "黄一鸣直播女儿哭着求抱抱",
       "onboard_time": 1766108000,
       "rank": 21,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 696222,
-      "num": 233526,
+      "num": 246407,
       "word": "建议气血不足的人都要像猫一样生活",
       "onboard_time": 1766107640,
       "rank": 8,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 658585,
-      "num": 236973,
+      "num": 250605,
       "word": "双轨啾咪图是倒放",
       "onboard_time": 1766114361,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648966,
+      "num": 249950,
+      "word": "向涵之汤唯是妈妈是女儿",
+      "onboard_time": 1766117180,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 563231,
@@ -67,16 +75,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 557706,
-      "num": 235856,
-      "word": "向涵之汤唯是妈妈是女儿",
-      "onboard_time": 1766117180,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 532876,
-      "num": 234460,
+      "num": 246267,
       "word": "李飞的工位让刘耀文坐爽了",
       "onboard_time": 1766115020,
       "rank": 16,
@@ -92,19 +92,35 @@
     },
     {
       "raw_hot": 485141,
-      "num": 235489,
+      "num": 248404,
       "word": "曾艳芬曝聊天记录",
       "onboard_time": 1766115382,
       "rank": 18,
       "category": "艺人"
     },
     {
-      "raw_hot": 446502,
-      "num": 235356,
+      "raw_hot": 465912,
+      "num": 249300,
+      "word": "宁静 儿子全是赔钱货",
+      "onboard_time": 1766119221,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 452598,
+      "num": 248858,
       "word": "洗澡前面部分的冷水我从来不浪费",
       "onboard_time": 1766114662,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 450876,
+      "num": 450876,
+      "word": "骄阳似我",
+      "onboard_time": 1766102059,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 443462,
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 377547,
-      "num": 233997,
+      "num": 248250,
       "word": "果然上班后看人的眼光会变",
       "onboard_time": 1766115561,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 377087,
-      "num": 377087,
-      "word": "骄阳似我",
-      "onboard_time": 1766102059,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 361668,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 321655,
-      "num": 246084,
+      "num": 251592,
       "word": "日本加息",
       "onboard_time": 1766104700,
       "rank": 6,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270702,
+      "num": 245880,
+      "word": "男子4买4退同款手机被拒",
+      "onboard_time": 1766116101,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257357,
       "num": 213399,
       "word": "台退将称日本只能来台湾换柴犬",
@@ -313,6 +329,22 @@
       "onboard_time": 1766110521,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251705,
+      "num": 245474,
+      "word": "宋妍霏风格大变",
+      "onboard_time": 1766118261,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242462,
+      "num": 242462,
+      "word": "虞书欣不知道何与闯了什么祸",
+      "onboard_time": 1766119041,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 240034,
@@ -379,19 +411,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215393,
-      "num": 215393,
-      "word": "男子4买4退同款手机被拒",
-      "onboard_time": 1766116101,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203943,
-      "num": 203943,
-      "word": "宋妍霏风格大变",
-      "onboard_time": 1766118261,
-      "rank": 26,
+      "raw_hot": 201336,
+      "num": 199768,
+      "word": "内娱有史以来最吵的癫综要来了",
+      "onboard_time": 1766118920,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -401,6 +425,14 @@
       "onboard_time": 1766114840,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199139,
+      "num": 199139,
+      "word": "尹子维妈妈拍的徐冬冬",
+      "onboard_time": 1766119402,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198621,
@@ -427,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195331,
+      "num": 195331,
+      "word": "张艺兴时装男士十二月刊封面",
+      "onboard_time": 1766119102,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194918,
+      "num": 250892,
+      "word": "阿凡达",
+      "onboard_time": 1766117300,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191652,
       "num": 205685,
       "word": "奇迹OST阵容",
       "onboard_time": 1766110461,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190688,
+      "num": 190688,
+      "word": "柯淳说自己上次接吻是前几天",
+      "onboard_time": 1766119521,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 190672,
@@ -443,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189110,
-      "num": 236587,
-      "word": "阿凡达",
-      "onboard_time": 1766117300,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 190327,
+      "num": 170746,
+      "word": "王一博气运之子",
+      "onboard_time": 1766118861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 188893,
@@ -507,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181134,
-      "num": 181134,
-      "word": "张艺兴时装男士十二月刊封面",
-      "onboard_time": 1766119102,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "网剧星光成为第一部换脸短剧",
@@ -539,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176797,
-      "num": 176797,
-      "word": "内娱有史以来最吵的癫综要来了",
-      "onboard_time": 1766118920,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176710,
       "num": 176710,
       "word": "王一博你的跨年摩托后继有人了",
@@ -555,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166968,
-      "num": 157305,
-      "word": "王一博气运之子",
-      "onboard_time": 1766118861,
+      "raw_hot": 173091,
+      "num": 173091,
+      "word": "发明肉色秋裤的人你赢了",
+      "onboard_time": 1766116880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170243,
+      "num": 170243,
+      "word": "年度报告",
+      "onboard_time": 1766119941,
       "rank": 40,
-      "category": "综艺"
+      "category": "互联网"
     },
     {
       "raw_hot": 166253,
@@ -569,14 +617,6 @@
       "onboard_time": 1766115800,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164444,
-      "num": 153503,
-      "word": "虞书欣不知道何与闯了什么祸",
-      "onboard_time": 1766119041,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 162529,
@@ -603,6 +643,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159162,
+      "num": 159162,
+      "word": "A股行情",
+      "onboard_time": 1766119581,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 158192,
+      "num": 158192,
+      "word": "祝绪丹被顶光吓到失去表情管理",
+      "onboard_time": 1766119641,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157555,
       "num": 157555,
       "word": "杜华给王一博探索新境只包场200",
@@ -611,28 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157264,
-      "num": 153210,
-      "word": "发明肉色秋裤的人你赢了",
-      "onboard_time": 1766116880,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156465,
       "num": 124483,
       "word": "摆摊卖大残蟹被人砸摊日入5000",
       "onboard_time": 1766069302,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155488,
-      "num": 180943,
-      "word": "宁静 儿子全是赔钱货",
-      "onboard_time": 1766119221,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 155300,
@@ -681,6 +721,14 @@
       "onboard_time": 1766115260,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143849,
+      "num": 143849,
+      "word": "樊振东欧冠首秀或将迎战残奥冠军",
+      "onboard_time": 1766119821,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 142875,
@@ -1035,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90186,
+      "num": 247199,
+      "word": "黄晓明把敷在脸上的面膜吃了",
+      "onboard_time": 1766119281,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89138,
       "num": 89138,
       "word": "官方称哀牢山荒野求生实为综艺类节目",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1766108839,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84136,
-      "num": 180940,
-      "word": "黄晓明把敷在脸上的面膜吃了",
-      "onboard_time": 1766119281,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 82029,
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 69486,
-      "num": 154183,
+      "num": 158194,
       "word": "熟普还能这样喝",
       "onboard_time": 1766119221,
       "rank": 42,
@@ -1212,7 +1260,7 @@
     },
     {
       "raw_hot": 64902,
-      "num": 158203,
+      "num": 247586,
       "word": "2025年度字词揭晓",
       "onboard_time": 1766119341,
       "rank": 38,
@@ -1355,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50144,
+      "num": 171948,
+      "word": "网友新加坡偶遇戚薇李承铉一家四口",
+      "onboard_time": 1766119161,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49144,
       "num": 50706,
       "word": "CBA官方对浙江男篮和义乌赛区发警告",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1766114420,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46146,
+      "num": 170971,
+      "word": "终于有人在再见爱人打起来了",
+      "onboard_time": 1766119521,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 45833,
@@ -1483,14 +1547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35924,
-      "num": 159754,
-      "word": "网友新加坡偶遇戚薇李承铉一家四口",
-      "onboard_time": 1766119161,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33986,
       "num": 201373,
       "word": "从鉴定为伪作到销售庞家人毫不知情",
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 29543,
-      "num": 180959,
+      "num": 199815,
       "word": "温哥哥说阿福在太医院是院判级",
       "onboard_time": 1766117059,
       "rank": 28,
@@ -1611,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18562,
+      "num": 172824,
+      "word": "大学正在高中化吗",
+      "onboard_time": 1766119460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17837,
       "num": 31187,
       "word": "肖战说很多故事在画面以外",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1766080276,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15709,
+      "num": 246817,
+      "word": "杀子案派出所未出警被立案审查",
+      "onboard_time": 1766119641,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15688,

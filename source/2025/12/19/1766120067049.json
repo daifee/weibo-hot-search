@@ -1,0 +1,410 @@
+{
+  "runTime": 1766120067049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 690172,
+        "num": 1110427,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 450876,
+        "num": 450876,
+        "word": "骄阳似我",
+        "onboard_time": 1766102059,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110149,
+        "num": 341999,
+        "word": "海南封关你关心的都在这",
+        "onboard_time": 1766117059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278100,
+        "num": 278100,
+        "word": "上海阿姨独吞6兄弟姐妹同属拆迁款",
+        "onboard_time": 1766105061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432585,
+        "num": 275068,
+        "word": "有山东客户在三亚买了上百套房",
+        "onboard_time": 1766113221,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268823,
+        "num": 268823,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251592,
+        "num": 251592,
+        "word": "日本加息",
+        "onboard_time": 1766104700,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206857,
+        "num": 251269,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194918,
+        "num": 250892,
+        "word": "阿凡达",
+        "onboard_time": 1766117300,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392593,
+        "num": 250605,
+        "word": "双轨啾咪图是倒放",
+        "onboard_time": 1766114361,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1230416,
+        "num": 249980,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 648966,
+        "num": 249950,
+        "word": "向涵之汤唯是妈妈是女儿",
+        "onboard_time": 1766117180,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465912,
+        "num": 249300,
+        "word": "宁静 儿子全是赔钱货",
+        "onboard_time": 1766119221,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452598,
+        "num": 248858,
+        "word": "洗澡前面部分的冷水我从来不浪费",
+        "onboard_time": 1766114662,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 450803,
+        "num": 248404,
+        "word": "曾艳芬曝聊天记录",
+        "onboard_time": 1766115382,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339959,
+        "num": 248250,
+        "word": "果然上班后看人的眼光会变",
+        "onboard_time": 1766115561,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 32713,
+        "num": 247586,
+        "word": "2025年度字词揭晓",
+        "onboard_time": 1766119341,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90186,
+        "num": 247199,
+        "word": "黄晓明把敷在脸上的面膜吃了",
+        "onboard_time": 1766119281,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15709,
+        "num": 246817,
+        "word": "杀子案派出所未出警被立案审查",
+        "onboard_time": 1766119641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285620,
+        "num": 246407,
+        "word": "建议气血不足的人都要像猫一样生活",
+        "onboard_time": 1766107640,
+        "rank": 19,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 319718,
+        "num": 246267,
+        "word": "李飞的工位让刘耀文坐爽了",
+        "onboard_time": 1766115020,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270702,
+        "num": 245880,
+        "word": "男子4买4退同款手机被拒",
+        "onboard_time": 1766116101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251705,
+        "num": 245474,
+        "word": "宋妍霏风格大变",
+        "onboard_time": 1766118261,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245106,
+        "num": 245106,
+        "word": "黄一鸣直播女儿哭着求抱抱",
+        "onboard_time": 1766108000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242462,
+        "num": 242462,
+        "word": "虞书欣不知道何与闯了什么祸",
+        "onboard_time": 1766119041,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227898,
+        "num": 227898,
+        "word": "国民党和民众党将提案弹劾赖清德",
+        "onboard_time": 1766115441,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225732,
+        "num": 225732,
+        "word": "日本战机又被激光照射",
+        "onboard_time": 1766109620,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203875,
+        "num": 203875,
+        "word": "找到黄子韬不爱联系徐艺洋的原因了",
+        "onboard_time": 1766118019,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200565,
+        "num": 200565,
+        "word": "殉职消防员何伟豪女友花圈放在中央",
+        "onboard_time": 1766117420,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29355,
+        "num": 199815,
+        "word": "温哥哥说阿福在太医院是院判级",
+        "onboard_time": 1766117059,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201336,
+        "num": 199768,
+        "word": "内娱有史以来最吵的癫综要来了",
+        "onboard_time": 1766118920,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199139,
+        "num": 199139,
+        "word": "尹子维妈妈拍的徐冬冬",
+        "onboard_time": 1766119402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195331,
+        "num": 195331,
+        "word": "张艺兴时装男士十二月刊封面",
+        "onboard_time": 1766119102,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190688,
+        "num": 190688,
+        "word": "柯淳说自己上次接吻是前几天",
+        "onboard_time": 1766119521,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183491,
+        "num": 183491,
+        "word": "樊振东被记大功",
+        "onboard_time": 1766117480,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173091,
+        "num": 173091,
+        "word": "发明肉色秋裤的人你赢了",
+        "onboard_time": 1766116880,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18562,
+        "num": 172824,
+        "word": "大学正在高中化吗",
+        "onboard_time": 1766119460,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50144,
+        "num": 171948,
+        "word": "网友新加坡偶遇戚薇李承铉一家四口",
+        "onboard_time": 1766119161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46146,
+        "num": 170971,
+        "word": "终于有人在再见爱人打起来了",
+        "onboard_time": 1766119521,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190327,
+        "num": 170746,
+        "word": "王一博气运之子",
+        "onboard_time": 1766118861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170243,
+        "num": 170243,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159162,
+        "num": 159162,
+        "word": "A股行情",
+        "onboard_time": 1766119581,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60737,
+        "num": 158194,
+        "word": "熟普还能这样喝",
+        "onboard_time": 1766119221,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158192,
+        "num": 158192,
+        "word": "祝绪丹被顶光吓到失去表情管理",
+        "onboard_time": 1766119641,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155954,
+        "num": 155954,
+        "word": "终于知道为什么蓝盈莹是女主了",
+        "onboard_time": 1766118321,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144837,
+        "num": 144837,
+        "word": "湖南卫视跨年演唱会第三波阵容",
+        "onboard_time": 1766112500,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143849,
+        "num": 143849,
+        "word": "樊振东欧冠首秀或将迎战残奥冠军",
+        "onboard_time": 1766119821,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 143211,
+        "word": "白鹿说看不了熟人演戏",
+        "onboard_time": 1766111480,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142228,
+        "num": 142228,
+        "word": "未定事件簿",
+        "onboard_time": 1766117961,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140754,
+        "num": 140754,
+        "word": "樊振东获上海市体育事业重大贡献奖",
+        "onboard_time": 1766111000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
