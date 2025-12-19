@@ -1,0 +1,410 @@
+{
+  "runTime": 1766187615795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 270481,
+        "num": 875933,
+        "word": "到底是谁取消有线耳机的",
+        "onboard_time": 1766151502,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249289,
+        "num": 249289,
+        "word": "5月龄女婴离世问责不是终点",
+        "onboard_time": 1766187019,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29633,
+        "num": 143839,
+        "word": "全国研考工作准备就绪",
+        "onboard_time": 1766149640,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 842337,
+        "num": 142883,
+        "word": "普京承认自己正在恋爱中",
+        "onboard_time": 1766187019,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138236,
+        "num": 138236,
+        "word": "今天2026考研",
+        "onboard_time": 1766186417,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434171,
+        "num": 137534,
+        "word": "演唱会出轨门",
+        "onboard_time": 1766149460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170076,
+        "num": 137087,
+        "word": "私人影院强制要求顾客选择异性陪侍套餐",
+        "onboard_time": 1766156663,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134606,
+        "num": 134606,
+        "word": "台北伤人者跳楼身亡",
+        "onboard_time": 1766147000,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90119,
+        "num": 90119,
+        "word": "台北车站袭击案已致4死",
+        "onboard_time": 1766157804,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101291,
+        "num": 90092,
+        "word": "9岁弟弟被害33年后姐姐想接他回家",
+        "onboard_time": 1766157804,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1300438,
+        "num": 90044,
+        "word": "法医刘良",
+        "onboard_time": 1766185936,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629774,
+        "num": 90013,
+        "word": "小洛熙事件",
+        "onboard_time": 1766186537,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230213,
+        "num": 89970,
+        "word": "宁波妇儿医院",
+        "onboard_time": 1766187257,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230210,
+        "num": 89929,
+        "word": "张凯毅已掉粉超46万",
+        "onboard_time": 1766165117,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213024,
+        "num": 89912,
+        "word": "杨紫说自己穿的是假貂",
+        "onboard_time": 1766156602,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152477,
+        "num": 89873,
+        "word": "洛熙妈妈",
+        "onboard_time": 1766187498,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89851,
+        "num": 89851,
+        "word": "南博前院长回应争议文物流出",
+        "onboard_time": 1766156843,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82304,
+        "num": 82304,
+        "word": "向佐首谈弟弟向佑",
+        "onboard_time": 1766148441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79214,
+        "num": 79214,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71742,
+        "num": 71742,
+        "word": "乔任梁父母相继入院",
+        "onboard_time": 1766131820,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119588,
+        "num": 71695,
+        "word": "孙涵清回应分手",
+        "onboard_time": 1766157982,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115651,
+        "num": 71572,
+        "word": "女子舌下藏毒探监接吻后毒死男友",
+        "onboard_time": 1766187498,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111260,
+        "num": 71467,
+        "word": "吃吃子晗分手",
+        "onboard_time": 1766145201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92657,
+        "num": 71357,
+        "word": "演员王东首谈残疾儿子",
+        "onboard_time": 1766172734,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71338,
+        "num": 71338,
+        "word": "考研时间",
+        "onboard_time": 1766141540,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70736,
+        "num": 70736,
+        "word": "王橹杰 师兄",
+        "onboard_time": 1766157501,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69819,
+        "num": 69819,
+        "word": "男子晒妻子一次囤4000多包抽纸",
+        "onboard_time": 1766147542,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59573,
+        "num": 59573,
+        "word": "黑河早市人脚一双100码大鞋",
+        "onboard_time": 1766158824,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56182,
+        "num": 56182,
+        "word": "哀牢山荒野求生赛事取消",
+        "onboard_time": 1766185936,
+        "rank": 28,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 52530,
+        "num": 52530,
+        "word": "美司法部开始公布爱泼斯坦案文件",
+        "onboard_time": 1766186357,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52286,
+        "num": 52286,
+        "word": "新郎第一时间奔到摔倒的新娘身边",
+        "onboard_time": 1766159002,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48734,
+        "num": 48734,
+        "word": "微博之夜",
+        "onboard_time": 1766144780,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47024,
+        "num": 47024,
+        "word": "王一博回应近两年未进组",
+        "onboard_time": 1766150722,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45789,
+        "num": 45789,
+        "word": "骄阳似我",
+        "onboard_time": 1766146761,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45283,
+        "num": 45283,
+        "word": "600多元天津飞北京中转成都机票火了",
+        "onboard_time": 1766158582,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44617,
+        "num": 44617,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1766159300,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43616,
+        "num": 43616,
+        "word": "射雕英雄传侠之大者",
+        "onboard_time": 1766153420,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41486,
+        "num": 41486,
+        "word": "WB战胜AG",
+        "onboard_time": 1766156542,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 41036,
+        "word": "考研",
+        "onboard_time": 1766132421,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40913,
+        "num": 40913,
+        "word": "一诺",
+        "onboard_time": 1766148139,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40720,
+        "num": 40720,
+        "word": "心动的信号",
+        "onboard_time": 1766149520,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40219,
+        "num": 40219,
+        "word": "105捆2元人民币起拍价20余万元",
+        "onboard_time": 1766157862,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39574,
+        "num": 39574,
+        "word": "消费者称黄金一天一个价",
+        "onboard_time": 1766186056,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34972,
+        "num": 39573,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33195,
+        "num": 39565,
+        "word": "澳门回归祖国26周年",
+        "onboard_time": 1766185877,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31539,
+        "num": 39560,
+        "word": "黄磊孙莉二女儿颜值",
+        "onboard_time": 1766134400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29414,
+        "num": 39547,
+        "word": "鞠婧祎机场状态",
+        "onboard_time": 1766163738,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28827,
+        "num": 39544,
+        "word": "40岁C罗晒身材",
+        "onboard_time": 1766187379,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28720,
+        "num": 39532,
+        "word": "瑞龙恋爱",
+        "onboard_time": 1766159062,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28480,
+        "num": 39526,
+        "word": "iPhone自带APP居然这么好用",
+        "onboard_time": 1766155462,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

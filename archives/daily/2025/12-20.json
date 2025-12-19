@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766186842960,
+  "endTime": 1766187615795,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -11,6 +11,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1300438,
+      "num": 90044,
+      "word": "法医刘良",
+      "onboard_time": 1766185936,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 842337,
+      "num": 142883,
+      "word": "普京承认自己正在恋爱中",
+      "onboard_time": 1766187019,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 731777,
       "num": 153960,
       "word": "吃吃子晗分手",
@@ -19,11 +35,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 613693,
-      "num": 74542,
-      "word": "法医刘良",
-      "onboard_time": 1766185936,
-      "rank": 10,
+      "raw_hot": 629774,
+      "num": 90013,
+      "word": "小洛熙事件",
+      "onboard_time": 1766186537,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 440106,
-      "num": 800017,
+      "num": 875933,
       "word": "到底是谁取消有线耳机的",
       "onboard_time": 1766151502,
       "rank": 0,
@@ -99,6 +115,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249289,
+      "num": 249289,
+      "word": "5月龄女婴离世问责不是终点",
+      "onboard_time": 1766187019,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230213,
+      "num": 89970,
+      "word": "宁波妇儿医院",
+      "onboard_time": 1766187257,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230210,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218119,
       "num": 218119,
       "word": "一诺",
@@ -113,14 +153,6 @@
       "onboard_time": 1766155462,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 213854,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 209178,
@@ -139,11 +171,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179046,
-      "num": 72705,
-      "word": "小洛熙事件",
-      "onboard_time": 1766186537,
-      "rank": 13,
+      "raw_hot": 170076,
+      "num": 154551,
+      "word": "私人影院强制要求顾客选择异性陪侍套餐",
+      "onboard_time": 1766156663,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -163,20 +195,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154511,
-      "num": 154551,
-      "word": "私人影院强制要求顾客选择异性陪侍套餐",
-      "onboard_time": 1766156663,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153038,
       "num": 218089,
       "word": "骄阳似我",
       "onboard_time": 1766146761,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 89873,
+      "word": "洛熙妈妈",
+      "onboard_time": 1766187498,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141600,
@@ -193,6 +225,22 @@
       "onboard_time": 1766144000,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138236,
+      "num": 138236,
+      "word": "今天2026考研",
+      "onboard_time": 1766186417,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 115651,
+      "num": 71572,
+      "word": "女子舌下藏毒探监接吻后毒死男友",
+      "onboard_time": 1766187498,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113461,
@@ -240,6 +288,14 @@
       "word": "鞠婧祎合约纠纷",
       "onboard_time": 1766156484,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92657,
+      "num": 71357,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -299,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78278,
-      "num": 61749,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78041,
       "num": 151370,
       "word": "赵小童演出",
@@ -347,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69819,
+      "num": 122470,
+      "word": "男子晒妻子一次囤4000多包抽纸",
+      "onboard_time": 1766147542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66022,
       "num": 61708,
       "word": "澳门回归祖国26周年",
@@ -377,14 +433,6 @@
       "onboard_time": 1766148859,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61782,
-      "num": 122470,
-      "word": "男子晒妻子一次囤4000多包抽纸",
-      "onboard_time": 1766147542,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61115,
@@ -419,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56182,
+      "num": 61731,
+      "word": "哀牢山荒野求生赛事取消",
+      "onboard_time": 1766185936,
+      "rank": 25,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 55843,
       "num": 149182,
       "word": "AG剧透",
@@ -451,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52530,
+      "num": 61680,
+      "word": "美司法部开始公布爱泼斯坦案文件",
+      "onboard_time": 1766186357,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52061,
       "num": 122953,
       "word": "吃吃子晗分手原因",
@@ -465,14 +529,6 @@
       "onboard_time": 1766159781,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 47612,
-      "num": 61699,
-      "word": "今天2026考研",
-      "onboard_time": 1766186417,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 47061,
@@ -515,15 +571,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42023,
-      "num": 61731,
-      "word": "哀牢山荒野求生赛事取消",
-      "onboard_time": 1766185936,
-      "rank": 25,
-      "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 36843,
+      "raw_hot": 41036,
       "num": 93664,
       "word": "考研",
       "onboard_time": 1766132421,
@@ -531,12 +579,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 33683,
-      "num": 61680,
-      "word": "美司法部开始公布爱泼斯坦案文件",
-      "onboard_time": 1766186357,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 39574,
+      "num": 61662,
+      "word": "消费者称黄金一天一个价",
+      "onboard_time": 1766186056,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 34972,
+      "num": 61668,
+      "word": "第五人格",
+      "onboard_time": 1766186717,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 33295,
@@ -563,20 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28817,
-      "num": 61668,
-      "word": "第五人格",
-      "onboard_time": 1766186717,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 29633,
+      "num": 143839,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
-      "raw_hot": 28518,
-      "num": 61662,
-      "word": "消费者称黄金一天一个价",
-      "onboard_time": 1766186056,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 28827,
+      "num": 39544,
+      "word": "40岁C罗晒身材",
+      "onboard_time": 1766187379,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 27660,
@@ -617,14 +673,6 @@
       "onboard_time": 1766168715,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25490,
-      "num": 80849,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 24387,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766186842960,
+  "endTime": 1766187615795,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1765454121,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1300438,
+      "num": 90044,
+      "word": "法医刘良",
+      "onboard_time": 1766185936,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1286220,
@@ -2593,6 +2601,14 @@
       "onboard_time": 1764853880,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 842337,
+      "num": 142883,
+      "word": "普京承认自己正在恋爱中",
+      "onboard_time": 1766187019,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 842194,
@@ -4403,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629774,
+      "num": 90013,
+      "word": "小洛熙事件",
+      "onboard_time": 1766186537,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629442,
       "num": 629442,
       "word": "香港住宅楼起火400多住户凌晨逃生",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1764937102,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 613693,
-      "num": 74542,
-      "word": "法医刘良",
-      "onboard_time": 1766185936,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 613464,
@@ -16195,6 +16211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249289,
+      "num": 249289,
+      "word": "5月龄女婴离世问责不是终点",
+      "onboard_time": 1765801642,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249233,
       "num": 266149,
       "word": "德国总理差点哭了",
@@ -17387,14 +17411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231746,
-      "num": 231746,
-      "word": "5月龄女婴离世问责不是终点",
-      "onboard_time": 1765801642,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231703,
       "num": 216752,
       "word": "女子左耳寄养在脚背5个月成功回家",
@@ -17489,6 +17505,22 @@
       "onboard_time": 1765151659,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230213,
+      "num": 89970,
+      "word": "宁波妇儿医院",
+      "onboard_time": 1766187257,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230210,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 230094,
@@ -18793,14 +18825,6 @@
       "onboard_time": 1765537522,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 213854,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 213802,
@@ -24155,14 +24179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179046,
-      "num": 72705,
-      "word": "小洛熙事件",
-      "onboard_time": 1766186537,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178984,
       "num": 178984,
       "word": "枭起青壤口碑",
@@ -25473,6 +25489,14 @@
       "onboard_time": 1764943103,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170076,
+      "num": 154551,
+      "word": "私人影院强制要求顾客选择异性陪侍套餐",
+      "onboard_time": 1766156663,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169995,
@@ -28459,14 +28483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154511,
-      "num": 154551,
-      "word": "私人影院强制要求顾客选择异性陪侍套餐",
-      "onboard_time": 1766156663,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154502,
       "num": 154502,
       "word": "人在3个年龄会明显变老",
@@ -28961,6 +28977,14 @@
       "onboard_time": 1765950501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 89873,
+      "word": "洛熙妈妈",
+      "onboard_time": 1766187498,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152461,
@@ -32225,6 +32249,14 @@
       "onboard_time": 1765069401,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138236,
+      "num": 138236,
+      "word": "今天2026考研",
+      "onboard_time": 1766186417,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 138222,
@@ -39969,6 +40001,14 @@
       "onboard_time": 1766128820,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115651,
+      "num": 71572,
+      "word": "女子舌下藏毒探监接吻后毒死男友",
+      "onboard_time": 1766187498,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115586,
@@ -48547,6 +48587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92657,
+      "num": 71357,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92649,
       "num": 146622,
       "word": "高市早苗谬论影响正在日本各地显现",
@@ -52803,14 +52851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 78278,
-      "num": 61749,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78215,
       "num": 78215,
       "word": "男生跳楼家属向物业索赔90万被驳回",
@@ -57035,6 +57075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 56182,
+      "num": 61731,
+      "word": "哀牢山荒野求生赛事取消",
+      "onboard_time": 1766185936,
+      "rank": 25,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 56174,
       "num": 56174,
       "word": "榆林学生遭霸凌部分学生及家长已道歉",
@@ -57833,6 +57881,14 @@
       "onboard_time": 1765668856,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52530,
+      "num": 61680,
+      "word": "美司法部开始公布爱泼斯坦案文件",
+      "onboard_time": 1766186357,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52370,
@@ -58833,14 +58889,6 @@
       "onboard_time": 1765772723,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 47612,
-      "num": 61699,
-      "word": "今天2026考研",
-      "onboard_time": 1766186417,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 47608,
@@ -60155,14 +60203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42023,
-      "num": 61731,
-      "word": "哀牢山荒野求生赛事取消",
-      "onboard_time": 1766185936,
-      "rank": 25,
-      "category": "体育,电竞"
-    },
-    {
       "raw_hot": 42016,
       "num": 117475,
       "word": "Jasper问应采儿陈小春帅还是我帅",
@@ -60745,6 +60785,14 @@
       "onboard_time": 1765009822,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39574,
+      "num": 61662,
+      "word": "消费者称黄金一天一个价",
+      "onboard_time": 1766186056,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 39491,
@@ -62203,14 +62251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33683,
-      "num": 61680,
-      "word": "美司法部开始公布爱泼斯坦案文件",
-      "onboard_time": 1766186357,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33682,
       "num": 117314,
       "word": "迪丽热巴T0级别的细节控",
@@ -63355,6 +63395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29633,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 29592,
       "num": 193230,
       "word": "高市早苗内阁高官再曝丑闻",
@@ -63523,6 +63571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28827,
+      "num": 39544,
+      "word": "40岁C罗晒身材",
+      "onboard_time": 1766187379,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28816,
       "num": 152129,
       "word": "109人的炒股群108个托",
@@ -63625,14 +63681,6 @@
       "onboard_time": 1765191621,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28518,
-      "num": 61662,
-      "word": "消费者称黄金一天一个价",
-      "onboard_time": 1766186056,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 28506,
@@ -64497,14 +64545,6 @@
       "onboard_time": 1765617440,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25490,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 25409,
