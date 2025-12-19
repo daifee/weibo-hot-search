@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766158301220,
+  "endTime": 1766159160451,
   "band_list": [
     {
       "raw_hot": 3802753,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2990029,
-      "num": 285681,
+      "num": 2321078,
       "word": "小洛熙",
       "onboard_time": 1766156183,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1278255,
-      "num": 534626,
+      "num": 547465,
       "word": "演唱会出轨门",
       "onboard_time": 1766149460,
       "rank": 44,
@@ -259,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 549172,
+      "num": 549172,
+      "word": "台北车站袭击案已致4死",
+      "onboard_time": 1766157804,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536610,
       "num": 1053213,
       "word": "平潭发展",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532153,
+      "num": 532153,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 515807,
       "num": 337262,
       "word": "有山东客户在三亚买了上百套房",
@@ -315,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499287,
-      "num": 499287,
-      "word": "一诺",
-      "onboard_time": 1766148139,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 486144,
+      "num": 270179,
+      "word": "杨紫说自己穿的是假貂",
+      "onboard_time": 1766156602,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 485141,
@@ -369,14 +385,6 @@
       "onboard_time": 1766104580,
       "rank": 10,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 434463,
-      "num": 264715,
-      "word": "杨紫说自己穿的是假貂",
-      "onboard_time": 1766156602,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 433191,
@@ -587,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358534,
+      "num": 156967,
+      "word": "孙涵清回应分手",
+      "onboard_time": 1766157982,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354519,
       "num": 261244,
       "word": "柯淳被宁静查手机吓到脸都绿了",
@@ -675,14 +691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 302494,
-      "num": 302494,
-      "word": "台北车站袭击案已致4死",
-      "onboard_time": 1766157804,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301978,
       "num": 301978,
       "word": "周大福涨价",
@@ -713,6 +721,14 @@
       "onboard_time": 1766100198,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297484,
+      "num": 186784,
+      "word": "王橹杰 师兄",
+      "onboard_time": 1766157501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 295927,
@@ -841,6 +857,14 @@
       "onboard_time": 1766110521,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255635,
+      "num": 255635,
+      "word": "iPhone自带APP居然这么好用",
+      "onboard_time": 1766155462,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 251705,
@@ -1019,22 +1043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210013,
-      "num": 186784,
-      "word": "王橹杰 师兄",
-      "onboard_time": 1766157501,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206528,
-      "num": 206528,
-      "word": "iPhone自带APP居然这么好用",
-      "onboard_time": 1766155462,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 205719,
       "num": 189061,
       "word": "周五晚高疯",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1766118920,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200471,
+      "num": 200471,
+      "word": "陈丽君去看陈昊宇音乐剧了",
+      "onboard_time": 1766158643,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 200090,
@@ -1635,12 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149645,
-      "num": 149645,
-      "word": "孙涵清回应分手",
-      "onboard_time": 1766157982,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 150527,
+      "num": 186788,
+      "word": "南博前院长回应争议文物流出",
+      "onboard_time": 1766156843,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149505,
@@ -2299,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115842,
+      "num": 125303,
+      "word": "喻言好萌",
+      "onboard_time": 1766158222,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1766135240,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "黑河早市人脚一双100码大鞋",
+      "onboard_time": 1766158824,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115035,
@@ -2403,20 +2435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111441,
+      "num": 214045,
+      "word": "105捆2元人民币起拍价20余万元",
+      "onboard_time": 1766157862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111360,
       "num": 111360,
       "word": "徐冬冬 香港媳妇",
       "onboard_time": 1766113161,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111279,
-      "num": 186788,
-      "word": "南博前院长回应争议文物流出",
-      "onboard_time": 1766156843,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110960,
@@ -2555,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106300,
+      "num": 106300,
+      "word": "瑞龙恋爱",
+      "onboard_time": 1766159062,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105788,
       "num": 105788,
       "word": "唐诡奇谭吃了多少梗",
@@ -2675,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101582,
+      "num": 214800,
+      "word": "9岁弟弟被害33年后姐姐想接他回家",
+      "onboard_time": 1766157804,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101459,
       "num": 101459,
       "word": "小时候估分长大了估钱",
@@ -2761,14 +2809,6 @@
       "onboard_time": 1766157263,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98967,
-      "num": 125303,
-      "word": "喻言好萌",
-      "onboard_time": 1766158222,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 98851,
@@ -2873,6 +2913,14 @@
       "onboard_time": 1766128880,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94074,
+      "num": 94074,
+      "word": "私人影院强制要求顾客选择异性陪侍套餐",
+      "onboard_time": 1766156663,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93719,
@@ -3339,6 +3387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69099,
+      "num": 212316,
+      "word": "必胜客用芝麻小字标注调理牛排",
+      "onboard_time": 1766156962,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68891,
       "num": 79801,
       "word": "王力宏全球首个机器人舞台秀",
@@ -3459,14 +3515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57688,
-      "num": 212316,
-      "word": "必胜客用芝麻小字标注调理牛排",
-      "onboard_time": 1766156962,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56926,
       "num": 112289,
       "word": "陈哲远做西红柿炒蛋把锅点着了",
@@ -3480,14 +3528,6 @@
       "word": "贵州向全国发出冬日邀请函",
       "onboard_time": 1766140101,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56179,
-      "num": 214045,
-      "word": "105捆2元人民币起拍价20余万元",
-      "onboard_time": 1766157862,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3659,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47020,
+      "num": 169278,
+      "word": "600多元天津飞北京中转成都机票火了",
+      "onboard_time": 1766158582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45833,
       "num": 55221,
       "word": "小狗用舌头给主人刮痧治病",
@@ -3739,14 +3787,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 39535,
-      "num": 214800,
-      "word": "9岁弟弟被害33年后姐姐想接他回家",
-      "onboard_time": 1766157804,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39369,
       "num": 50698,
       "word": "樊振东持续带火欧洲乒乓球市场",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1766067021,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38054,
+      "num": 148145,
+      "word": "新郎第一时间奔到摔倒的新娘身边",
+      "onboard_time": 1766159002,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37353,
@@ -4161,6 +4209,14 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9977,
+      "num": 149699,
+      "word": "美机场坠机现场画面",
+      "onboard_time": 1766159062,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 8720,
