@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766151592367,
+  "endTime": 1766152291935,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2935158,
-      "num": 218717,
+      "num": 226547,
       "word": "吃吃子晗分手",
       "onboard_time": 1766145201,
       "rank": 20,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1403363,
-      "num": 215291,
+      "num": 225496,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1038164,
-      "num": 203341,
+      "num": 223532,
       "word": "桃黑黑美团吃了20w",
       "onboard_time": 1766139921,
       "rank": 34,
@@ -433,6 +433,14 @@
       "onboard_time": 1765877663,
       "rank": 11,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 1014603,
+      "num": 1162336,
+      "word": "台北伤人者跳楼身亡",
+      "onboard_time": 1766147000,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1003723,
@@ -625,14 +633,6 @@
       "onboard_time": 1765769242,
       "rank": 4,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 886092,
-      "num": 1141774,
-      "word": "台北伤人者跳楼身亡",
-      "onboard_time": 1766147000,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 873026,
@@ -929,6 +929,14 @@
       "onboard_time": 1765872442,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716331,
+      "num": 329163,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 715052,
@@ -2483,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434788,
-      "num": 329163,
-      "word": "演唱会出轨门",
-      "onboard_time": 1766149460,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 434254,
       "num": 434254,
       "word": "悉尼枪击事件中英勇夺枪男子留遗言",
@@ -2537,6 +2537,14 @@
       "onboard_time": 1765857801,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430660,
+      "num": 384979,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 429596,
@@ -2859,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402343,
+      "num": 316508,
+      "word": "心动的信号",
+      "onboard_time": 1766149520,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399971,
       "num": 229246,
       "word": "李诞 娱乐圈是重灾区",
@@ -3019,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390263,
-      "num": 316508,
-      "word": "心动的信号",
-      "onboard_time": 1766149520,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389398,
       "num": 389398,
       "word": "cp32",
@@ -3075,14 +3083,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 384979,
-      "num": 384979,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 384604,
       "num": 292747,
       "word": "林浩当爸爸了",
@@ -3105,6 +3105,14 @@
       "onboard_time": 1765779981,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379900,
+      "num": 312263,
+      "word": "台北车站袭击案已致3死6伤",
+      "onboard_time": 1766150542,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379373,
@@ -3252,7 +3260,7 @@
     },
     {
       "raw_hot": 361677,
-      "num": 205573,
+      "num": 224881,
       "word": "吃吃子晗分手原因",
       "onboard_time": 1766149820,
       "rank": 48,
@@ -3921,14 +3929,6 @@
       "onboard_time": 1766049921,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 312263,
-      "num": 312263,
-      "word": "台北车站袭击案已致3死6伤",
-      "onboard_time": 1766150542,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311919,
@@ -4643,6 +4643,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 271631,
+      "num": 233772,
+      "word": "陈妍希 你的礼物在十年后",
+      "onboard_time": 1766149640,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271204,
       "num": 271204,
       "word": "王传君 亚健康",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1765801224,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258896,
+      "num": 358979,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 258862,
@@ -5627,14 +5643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225797,
-      "num": 225797,
-      "word": "陈妍希 你的礼物在十年后",
-      "onboard_time": 1766149640,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225745,
       "num": 225745,
       "word": "雷淞然 比赛结束了幽默感爆发了",
@@ -5665,14 +5673,6 @@
       "onboard_time": 1765680503,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223989,
-      "num": 358979,
-      "word": "一诺",
-      "onboard_time": 1766148139,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 223518,
@@ -7859,6 +7859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178366,
+      "num": 178366,
+      "word": "微博之夜",
+      "onboard_time": 1766144780,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178229,
       "num": 178229,
       "word": "2025乒乓球国际赛事已全部结束",
@@ -8347,6 +8355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167346,
+      "num": 161319,
+      "word": "王一博回应近两年未进组",
+      "onboard_time": 1766150722,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166991,
       "num": 166991,
       "word": "彭小苒换造型师了",
@@ -8585,14 +8601,6 @@
       "onboard_time": 1765713324,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161319,
-      "num": 161319,
-      "word": "王一博回应近两年未进组",
-      "onboard_time": 1766150722,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 161302,
@@ -9435,6 +9443,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 150100,
+      "num": 150100,
+      "word": "到底是谁取消有线耳机的",
+      "onboard_time": 1766151502,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150028,
       "num": 150028,
       "word": "用邪修思路打造圣诞氛围感",
@@ -9787,6 +9803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144712,
+      "num": 144712,
+      "word": "司马光居米沉浸在艺术中了",
+      "onboard_time": 1766152100,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144675,
       "num": 144675,
       "word": "结婚14年被家暴13年女子发声",
@@ -9961,14 +9985,6 @@
       "onboard_time": 1766108300,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 142689,
-      "num": 142689,
-      "word": "到底是谁取消有线耳机的",
-      "onboard_time": 1766151502,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 142652,
@@ -10737,14 +10753,6 @@
       "onboard_time": 1765972341,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133699,
-      "num": 133699,
-      "word": "微博之夜",
-      "onboard_time": 1766144780,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 133607,
@@ -12281,6 +12289,14 @@
       "onboard_time": 1765692562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119753,
+      "num": 119753,
+      "word": "看阿凡达3身边坐着真阿凡达",
+      "onboard_time": 1766151861,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 119733,
@@ -15755,6 +15771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92050,
+      "num": 130551,
+      "word": "宋威龙林屿森顾漫最后一个男主",
+      "onboard_time": 1766151441,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92047,
       "num": 103738,
       "word": "CBA常规赛",
@@ -17875,14 +17899,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 66663,
-      "num": 130551,
-      "word": "宋威龙林屿森顾漫最后一个男主",
-      "onboard_time": 1766151441,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66654,
       "num": 191082,
       "word": "殷商文化起源在商丘",
@@ -18065,6 +18081,14 @@
       "onboard_time": 1765724363,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63759,
+      "num": 227607,
+      "word": "台北袭击事件袭击者身份曝光",
+      "onboard_time": 1766151502,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63477,
@@ -19041,6 +19065,14 @@
       "onboard_time": 1765862421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48856,
+      "num": 226160,
+      "word": "郑州6元面包摊老板回应走红",
+      "onboard_time": 1766150962,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48742,
@@ -20635,14 +20667,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 29638,
-      "num": 221329,
-      "word": "郑州6元面包摊老板回应走红",
-      "onboard_time": 1766150962,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29543,
       "num": 199815,
       "word": "温哥哥说阿福在太医院是院判级",
@@ -20688,14 +20712,6 @@
       "word": "庞叔令要南博说明藏品划拨调剂流向",
       "onboard_time": 1766136501,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28910,
-      "num": 146062,
-      "word": "台北袭击事件袭击者身份曝光",
-      "onboard_time": 1766151502,
-      "rank": 33,
       "category": "民生新闻"
     },
     {

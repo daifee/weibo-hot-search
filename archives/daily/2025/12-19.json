@@ -1,10 +1,10 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766151592367,
+  "endTime": 1766152291935,
   "band_list": [
     {
       "raw_hot": 2935158,
-      "num": 218717,
+      "num": 226547,
       "word": "吃吃子晗分手",
       "onboard_time": 1766145201,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1403363,
-      "num": 215291,
+      "num": 225496,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1038164,
-      "num": 203341,
+      "num": 223532,
       "word": "桃黑黑美团吃了20w",
       "onboard_time": 1766139921,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1014603,
+      "num": 1162336,
+      "word": "台北伤人者跳楼身亡",
+      "onboard_time": 1766147000,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 904923,
@@ -73,14 +81,6 @@
       "onboard_time": 1766108000,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 886092,
-      "num": 1141774,
-      "word": "台北伤人者跳楼身亡",
-      "onboard_time": 1766147000,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 820018,
@@ -97,6 +97,14 @@
       "onboard_time": 1766110821,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 716331,
+      "num": 329163,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 696954,
@@ -291,20 +299,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 434788,
-      "num": 329163,
-      "word": "演唱会出轨门",
-      "onboard_time": 1766149460,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 433191,
       "num": 201143,
       "word": "刘晓庆 震撼全家的75岁红毯状态",
       "onboard_time": 1766071221,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 430660,
+      "num": 384979,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 426404,
@@ -379,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 402343,
+      "num": 316508,
+      "word": "心动的信号",
+      "onboard_time": 1766149520,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399136,
       "num": 306220,
       "word": "一种很新的喝牛奶方式",
@@ -403,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390263,
-      "num": 316508,
-      "word": "心动的信号",
-      "onboard_time": 1766149520,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389398,
       "num": 389398,
       "word": "cp32",
@@ -427,19 +435,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384979,
-      "num": 384979,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 384604,
       "num": 292747,
       "word": "林浩当爸爸了",
       "onboard_time": 1766130023,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379900,
+      "num": 312263,
+      "word": "台北车站袭击案已致3死6伤",
+      "onboard_time": 1766150542,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 361677,
-      "num": 205573,
+      "num": 224881,
       "word": "吃吃子晗分手原因",
       "onboard_time": 1766149820,
       "rank": 48,
@@ -577,14 +585,6 @@
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312263,
-      "num": 312263,
-      "word": "台北车站袭击案已致3死6伤",
-      "onboard_time": 1766150542,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305756,
@@ -723,6 +723,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 271631,
+      "num": 233772,
+      "word": "陈妍希 你的礼物在十年后",
+      "onboard_time": 1766149640,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266657,
       "num": 266657,
       "word": "李莎旻子拿迪丽热巴名字举例",
@@ -737,6 +745,14 @@
       "onboard_time": 1766121201,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258896,
+      "num": 358979,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 257357,
@@ -873,22 +889,6 @@
       "onboard_time": 1766148201,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225797,
-      "num": 225797,
-      "word": "陈妍希 你的礼物在十年后",
-      "onboard_time": 1766149640,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 223989,
-      "num": 358979,
-      "word": "一诺",
-      "onboard_time": 1766148139,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 223151,
@@ -1227,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178366,
+      "num": 178366,
+      "word": "微博之夜",
+      "onboard_time": 1766144780,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176710,
       "num": 176710,
       "word": "王一博你的跨年摩托后继有人了",
@@ -1299,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167346,
+      "num": 161319,
+      "word": "王一博回应近两年未进组",
+      "onboard_time": 1766150722,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "明确禁止全隐藏式门把手",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1766118801,
       "rank": 34,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 161319,
-      "num": 161319,
-      "word": "王一博回应近两年未进组",
-      "onboard_time": 1766150722,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 161302,
@@ -1523,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150100,
+      "num": 150100,
+      "word": "到底是谁取消有线耳机的",
+      "onboard_time": 1766151502,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 149505,
       "num": 211616,
       "word": "KBS直播",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1766118623,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144712,
+      "num": 144712,
+      "word": "司马光居米沉浸在艺术中了",
+      "onboard_time": 1766152100,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 144273,
@@ -1609,14 +1633,6 @@
       "onboard_time": 1766108300,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 142689,
-      "num": 142689,
-      "word": "到底是谁取消有线耳机的",
-      "onboard_time": 1766151502,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 142169,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1766143279,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133699,
-      "num": 133699,
-      "word": "微博之夜",
-      "onboard_time": 1766144780,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 133607,
@@ -2049,6 +2057,14 @@
       "onboard_time": 1766056461,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119753,
+      "num": 119753,
+      "word": "看阿凡达3身边坐着真阿凡达",
+      "onboard_time": 1766151861,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 119733,
@@ -2667,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92050,
+      "num": 130551,
+      "word": "宋威龙林屿森顾漫最后一个男主",
+      "onboard_time": 1766151441,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "时尚芭莎官宣了鞠婧祎",
@@ -3035,14 +3059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66663,
-      "num": 130551,
-      "word": "宋威龙林屿森顾漫最后一个男主",
-      "onboard_time": 1766151441,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 64902,
       "num": 482932,
       "word": "2025年度字词揭晓",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1766127320,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63759,
+      "num": 227607,
+      "word": "台北袭击事件袭击者身份曝光",
+      "onboard_time": 1766151502,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63358,
@@ -3257,6 +3281,14 @@
       "onboard_time": 1766043981,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48856,
+      "num": 226160,
+      "word": "郑州6元面包摊老板回应走红",
+      "onboard_time": 1766150962,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48479,
@@ -3515,14 +3547,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 29638,
-      "num": 221329,
-      "word": "郑州6元面包摊老板回应走红",
-      "onboard_time": 1766150962,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29543,
       "num": 199815,
       "word": "温哥哥说阿福在太医院是院判级",
@@ -3536,14 +3560,6 @@
       "word": "庞叔令要南博说明藏品划拨调剂流向",
       "onboard_time": 1766136501,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28910,
-      "num": 146062,
-      "word": "台北袭击事件袭击者身份曝光",
-      "onboard_time": 1766151502,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
