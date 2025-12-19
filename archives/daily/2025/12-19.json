@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766133525558,
+  "endTime": 1766134396899,
   "band_list": [
     {
       "raw_hot": 1259828,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 770736,
-      "num": 1123317,
+      "raw_hot": 820018,
+      "num": 1131202,
       "word": "22岁女生大学毕业做团播被震碎三观",
       "onboard_time": 1766129361,
       "rank": 42,
@@ -49,6 +49,14 @@
       "onboard_time": 1766110821,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 696954,
+      "num": 299119,
+      "word": "乔任梁父母相继入院",
+      "onboard_time": 1766131820,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 696222,
@@ -99,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 536610,
+      "num": 536610,
+      "word": "平潭发展",
+      "onboard_time": 1766130259,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 534449,
       "num": 243100,
       "word": "袁姗姗 没被催婚但被催生",
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503618,
-      "num": 503618,
-      "word": "平潭发展",
-      "onboard_time": 1766130259,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
       "raw_hot": 500006,
       "num": 500006,
       "word": "短剧男主都开始跨剧抢女主了",
@@ -153,6 +161,14 @@
       "onboard_time": 1766129779,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473440,
+      "num": 298063,
+      "word": "印度女演员活动中被多人包围猥亵",
+      "onboard_time": 1766133380,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 452598,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425764,
+      "num": 425764,
+      "word": "星光大赏",
+      "onboard_time": 1766133622,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424744,
       "num": 792448,
       "word": "海南封关",
@@ -251,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 393856,
-      "num": 193885,
-      "word": "乔任梁父母相继入院",
-      "onboard_time": 1766131820,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391950,
       "num": 297821,
       "word": "柯淳说自己上次接吻是前几天",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 386640,
-      "num": 190120,
+      "num": 288654,
       "word": "陈伟霆邀请王安宇去家里玩",
       "onboard_time": 1766127320,
       "rank": 25,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 384604,
-      "num": 220645,
+      "num": 292747,
       "word": "林浩当爸爸了",
       "onboard_time": 1766130023,
       "rank": 45,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306220,
+      "num": 306220,
+      "word": "一种很新的喝牛奶方式",
+      "onboard_time": 1766133260,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 305756,
       "num": 305756,
       "word": "罗永浩痛批电信宽带缩水",
@@ -451,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283045,
+      "num": 283045,
+      "word": "郑恺实现了11年前的郑王号梦",
+      "onboard_time": 1766132421,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282535,
       "num": 227320,
       "word": "殉职消防员何伟豪女友花圈放在中央",
@@ -468,19 +500,11 @@
     },
     {
       "raw_hot": 276122,
-      "num": 188197,
+      "num": 245914,
       "word": "唐诡奇谭上尺度了",
       "onboard_time": 1766131279,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268645,
-      "num": 181797,
-      "word": "郑恺实现了11年前的郑王号梦",
-      "onboard_time": 1766132421,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 266657,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 222622,
-      "num": 170841,
+      "num": 188014,
       "word": "71岁奶奶撸铁4年练出少女背",
       "onboard_time": 1766129361,
       "rank": 37,
@@ -691,8 +715,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "警方通报天津一医院女护士被偷拍",
+      "onboard_time": 1766132180,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 194670,
-      "num": 194670,
+      "num": 283379,
       "word": "考研",
       "onboard_time": 1766132421,
       "rank": 9,
@@ -745,6 +777,14 @@
       "onboard_time": 1766114840,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 188339,
+      "num": 188339,
+      "word": "23岁男护士在办公室偷拍被抓",
+      "onboard_time": 1766132000,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187209,
@@ -828,19 +868,11 @@
     },
     {
       "raw_hot": 176672,
-      "num": 176672,
+      "num": 306052,
       "word": "孙颖莎能量人物推荐值破1000万",
       "onboard_time": 1766128220,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176606,
-      "num": 176606,
-      "word": "23岁男护士在办公室偷拍被抓",
-      "onboard_time": 1766132000,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175522,
@@ -873,14 +905,6 @@
       "onboard_time": 1766121020,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167632,
-      "num": 167632,
-      "word": "一种很新的喝牛奶方式",
-      "onboard_time": 1766133260,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 166253,
@@ -923,14 +947,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 160430,
-      "num": 160430,
-      "word": "印度女演员活动中被多人包围猥亵",
-      "onboard_time": 1766133380,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 159568,
       "num": 176792,
       "word": "夜色里的第二人生",
@@ -971,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157571,
+      "num": 157571,
+      "word": "曾艳芬从来没有说过陪酒俩字",
+      "onboard_time": 1766134039,
+      "rank": 28,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 157555,
       "num": 157555,
       "word": "杜华给王一博探索新境只包场200",
@@ -985,6 +1009,14 @@
       "onboard_time": 1766069302,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155600,
+      "num": 155600,
+      "word": "陈楚生获2025年度影响力歌手",
+      "onboard_time": 1766133801,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155300,
@@ -1027,12 +1059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147830,
-      "num": 170829,
-      "word": "警方通报天津一医院女护士被偷拍",
-      "onboard_time": 1766132180,
-      "rank": 21,
-      "category": "辟谣/通报"
+      "raw_hot": 148495,
+      "num": 148495,
+      "word": "赵本山曾帮大鹏争取收入",
+      "onboard_time": 1766132600,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147883,
+      "num": 157569,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146119,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1766118623,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144081,
+      "num": 144081,
+      "word": "蒋勤勤脸和年龄各长各的",
+      "onboard_time": 1766134280,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 144009,
@@ -1227,20 +1275,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 126520,
-      "num": 157569,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "全红婵是张家齐直播间榜一",
       "onboard_time": 1766100498,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125110,
+      "num": 125110,
+      "word": "原来干发帽是这样用的",
+      "onboard_time": 1766134161,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 124897,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1766069002,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124347,
+      "num": 124347,
+      "word": "迪丽热巴真是火到非洲了",
+      "onboard_time": 1766133141,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 124106,
@@ -1299,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122864,
-      "num": 122864,
-      "word": "赵本山曾帮大鹏争取收入",
-      "onboard_time": 1766132600,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122780,
       "num": 122780,
       "word": "陈平安关关难过关关关关过",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1766115141,
       "rank": 43,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 120161,
+      "num": 120161,
+      "word": "王嘉尔官宣跨年舞台",
+      "onboard_time": 1766133921,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120137,
@@ -1379,6 +1435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116652,
+      "num": 116652,
+      "word": "严浩翔 水冰月塑",
+      "onboard_time": 1766133561,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1766128820,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115104,
+      "num": 115104,
+      "word": "唐诡奇谭",
+      "onboard_time": 1766134340,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115012,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1766121081,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106238,
-      "num": 106238,
-      "word": "迪丽热巴真是火到非洲了",
-      "onboard_time": 1766133141,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 105788,
@@ -1932,7 +1996,7 @@
     },
     {
       "raw_hot": 75748,
-      "num": 170916,
+      "num": 231950,
       "word": "阿福三分钟看懂体检报告",
       "onboard_time": 1766131521,
       "rank": 18,
@@ -1969,6 +2033,14 @@
       "onboard_time": 1766060960,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70366,
+      "num": 132482,
+      "word": "陆毅女儿长腿基因",
+      "onboard_time": 1766133319,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 69631,
@@ -2011,16 +2083,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66089,
-      "num": 125950,
-      "word": "陆毅女儿长腿基因",
-      "onboard_time": 1766133319,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64902,
-      "num": 247586,
+      "num": 482932,
       "word": "2025年度字词揭晓",
       "onboard_time": 1766119341,
       "rank": 38,
@@ -2083,12 +2147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59425,
+      "num": 131704,
+      "word": "孙丞潇 运气来了挡都挡不住",
+      "onboard_time": 1766133442,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58294,
       "num": 79600,
       "word": "韩国学生不认识在明两个汉字",
       "onboard_time": 1766069240,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58183,
+      "num": 245282,
+      "word": "内娱靠周杰伦吃上饭了",
+      "onboard_time": 1766131820,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 57796,
@@ -2275,6 +2355,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45487,
+      "num": 129781,
+      "word": "偷拍女护士事件嫌犯系同院男护士",
+      "onboard_time": 1766132960,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 44319,
+      "num": 501469,
+      "word": "海南封关后6600项商品零关税",
+      "onboard_time": 1766108839,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44082,
       "num": 50702,
       "word": "刘宇宁晒与任贤齐聚餐合照",
@@ -2283,12 +2379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42729,
-      "num": 170898,
-      "word": "内娱靠周杰伦吃上饭了",
-      "onboard_time": 1766131820,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 41060,
+      "num": 226881,
+      "word": "花钱骂醒恋爱脑 商家月入万元",
+      "onboard_time": 1766133380,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40981,
@@ -2321,14 +2417,6 @@
       "onboard_time": 1766099417,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 39613,
-      "num": 501469,
-      "word": "海南封关后6600项商品零关税",
-      "onboard_time": 1766108839,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39369,
@@ -2369,14 +2457,6 @@
       "onboard_time": 1766116040,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33713,
-      "num": 126365,
-      "word": "孙丞潇 运气来了挡都挡不住",
-      "onboard_time": 1766133442,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 33670,
@@ -2443,12 +2523,12 @@
       "category": "作品衍生,电影"
     },
     {
-      "raw_hot": 28366,
-      "num": 129781,
-      "word": "偷拍女护士事件嫌犯系同院男护士",
-      "onboard_time": 1766132960,
-      "rank": 36,
-      "category": "辟谣/通报"
+      "raw_hot": 28561,
+      "num": 131703,
+      "word": "钻头遗落患者体内医院隐瞒数月",
+      "onboard_time": 1766133442,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27625,
@@ -2475,14 +2555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24942,
-      "num": 128734,
-      "word": "钻头遗落患者体内医院隐瞒数月",
-      "onboard_time": 1766133442,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24801,
       "num": 112128,
       "word": "白客的照片没法AI合照",
@@ -2496,14 +2568,6 @@
       "word": "喀纳斯景区局部雪崩一人被埋身亡",
       "onboard_time": 1766079497,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24637,
-      "num": 133197,
-      "word": "花钱骂醒恋爱脑 商家月入万元",
-      "onboard_time": 1766133380,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2641,6 +2705,14 @@
       "onboard_time": 1766062821,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14469,
+      "num": 121809,
+      "word": "曝光诈骗团伙内部手册",
+      "onboard_time": 1766134340,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13777,
