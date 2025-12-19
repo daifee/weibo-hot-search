@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766129390027,
+  "endTime": 1766130158184,
   "band_list": [
     {
       "raw_hot": 1259828,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360126,
+      "num": 257486,
+      "word": "何赛飞谈婚后遇到仰慕者",
+      "onboard_time": 1766128640,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359114,
       "num": 142304,
       "word": "时隔两年Angelababy再战红毯",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332009,
+      "num": 332009,
+      "word": "海南封关首日1.5吨榴莲1小时被抢空",
+      "onboard_time": 1766125401,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330882,
       "num": 146224,
       "word": "人的出场顺序真的很重要",
@@ -313,6 +329,14 @@
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305756,
+      "num": 305756,
+      "word": "罗永浩痛批电信宽带缩水",
+      "onboard_time": 1766127259,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 301978,
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273880,
-      "num": 189076,
-      "word": "海南封关首日1.5吨榴莲1小时被抢空",
-      "onboard_time": 1766125401,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266657,
       "num": 266657,
       "word": "李莎旻子拿迪丽热巴名字举例",
@@ -465,14 +481,6 @@
       "onboard_time": 1766118321,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228084,
-      "num": 201398,
-      "word": "罗永浩痛批电信宽带缩水",
-      "onboard_time": 1766127259,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 228006,
@@ -579,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197086,
-      "num": 188936,
-      "word": "何赛飞谈婚后遇到仰慕者",
-      "onboard_time": 1766128640,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 196564,
+      "num": 157194,
+      "word": "71岁奶奶撸铁4年练出少女背",
+      "onboard_time": 1766129361,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195331,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185595,
+      "num": 176968,
+      "word": "陈伟霆邀请王安宇去家里玩",
+      "onboard_time": 1766127320,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185340,
       "num": 185340,
       "word": "轿车刹车失灵以时速115狂奔490公里",
@@ -697,6 +713,14 @@
       "onboard_time": 1766067381,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182972,
+      "num": 148731,
+      "word": "鞠婧祎出发参加星光大赏",
+      "onboard_time": 1766129779,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 179119,
@@ -747,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169575,
+      "num": 169575,
+      "word": "美术馆称张凯毅方换了凤冠保护罩",
+      "onboard_time": 1766126600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168666,
       "num": 168666,
       "word": "顾玉在步步惊心那老四老八都没戏了",
@@ -761,22 +793,6 @@
       "onboard_time": 1766115800,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 165059,
-      "num": 176968,
-      "word": "陈伟霆邀请王安宇去家里玩",
-      "onboard_time": 1766127320,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163419,
-      "num": 163419,
-      "word": "美术馆称张凯毅方换了凤冠保护罩",
-      "onboard_time": 1766126600,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162529,
@@ -825,6 +841,14 @@
       "onboard_time": 1766119641,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157767,
+      "num": 184465,
+      "word": "蔡徐坤 纯元的杀伤力",
+      "onboard_time": 1766128761,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 157555,
@@ -963,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134635,
+      "num": 134635,
+      "word": "英雄联盟2不会推出",
+      "onboard_time": 1766129659,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134356,
       "num": 134356,
       "word": "丝芭传媒有权公开鞠婧祎收入吗",
@@ -985,6 +1017,14 @@
       "onboard_time": 1766116701,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131707,
+      "num": 131707,
+      "word": "黎耀祥夫妇内地综艺一来就煲甜汤",
+      "onboard_time": 1766129721,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 131573,
@@ -1179,6 +1219,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115732,
+      "num": 115732,
+      "word": "快乐老友记日更陪你一起跨年",
+      "onboard_time": 1766129300,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115672,
+      "num": 186292,
+      "word": "日方滋扰辽宁舰编队训练细节公布",
+      "onboard_time": 1766128820,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115012,
       "num": 115012,
       "word": "孤注一掷",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1766122100,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113829,
+      "num": 113829,
+      "word": "22岁女生大学毕业做团播被震碎三观",
+      "onboard_time": 1766129361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113220,
@@ -1217,14 +1281,6 @@
       "onboard_time": 1766104221,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111712,
-      "num": 111712,
-      "word": "71岁奶奶撸铁4年练出少女背",
-      "onboard_time": 1766129361,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111360,
@@ -1299,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107308,
+      "num": 107308,
+      "word": "KPL",
+      "onboard_time": 1766129899,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107147,
       "num": 107147,
       "word": "你这脚咋这么小呀",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1766126480,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 104576,
+      "num": 104576,
+      "word": "猫 公共场合禁止吸烟",
+      "onboard_time": 1766129181,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 104440,
@@ -1419,20 +1491,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98200,
+      "num": 98200,
+      "word": "林浩当爸爸了",
+      "onboard_time": 1766130023,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97943,
       "num": 97943,
       "word": "男子用白鹿黄金海报炼10g金豆却破防",
       "onboard_time": 1766075959,
       "rank": 43,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 97589,
-      "num": 97589,
-      "word": "猫 公共场合禁止吸烟",
-      "onboard_time": 1766129181,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 97013,
@@ -1475,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92756,
-      "num": 92756,
-      "word": "快乐老友记日更陪你一起跨年",
-      "onboard_time": 1766129300,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92555,
       "num": 115771,
       "word": "中方出面调停柬泰表示欢迎",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1766104280,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 91554,
+      "num": 91554,
+      "word": "网友偶遇徐志胜飞机上全程看书",
+      "onboard_time": 1766130081,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 91066,
@@ -1643,6 +1715,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 81199,
+      "num": 102669,
+      "word": "不给自己设限的人生是怎样的",
+      "onboard_time": 1766130023,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 80748,
       "num": 80748,
       "word": "郁可唯跟刘宇宁合作穿最高的高跟鞋",
@@ -1705,14 +1785,6 @@
       "onboard_time": 1766060960,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 71582,
-      "num": 184465,
-      "word": "蔡徐坤 纯元的杀伤力",
-      "onboard_time": 1766128761,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 69631,
@@ -1835,12 +1907,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57286,
-      "num": 186292,
-      "word": "日方滋扰辽宁舰编队训练细节公布",
-      "onboard_time": 1766128820,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 56926,
+      "num": 112289,
+      "word": "陈哲远做西红柿炒蛋把锅点着了",
+      "onboard_time": 1766129721,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 55806,
@@ -2019,14 +2091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44065,
-      "num": 105067,
-      "word": "22岁女生大学毕业做团播被震碎三观",
-      "onboard_time": 1766129361,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40981,
       "num": 55097,
       "word": "几块和几十块的盐区别大吗",
@@ -2115,6 +2179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32129,
+      "num": 188539,
+      "word": "2025中国国际旅游交易会",
+      "onboard_time": 1766127800,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30095,
       "num": 107249,
       "word": "最省钱的打工人坐绿皮火车通勤",
@@ -2155,14 +2227,6 @@
       "category": "作品衍生,电影"
     },
     {
-      "raw_hot": 28316,
-      "num": 188539,
-      "word": "2025中国国际旅游交易会",
-      "onboard_time": 1766127800,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27625,
       "num": 171494,
       "word": "跨省传唤背后难解的家校纠纷",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1766128161,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24801,
+      "num": 112128,
+      "word": "白客的照片没法AI合照",
+      "onboard_time": 1766129961,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 24695,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766130158184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 489299,
+        "num": 1078287,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332009,
+        "num": 332009,
+        "word": "海南封关首日1.5吨榴莲1小时被抢空",
+        "onboard_time": 1766125401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76340,
+        "num": 317703,
+        "word": "海南封关你关心的都在这",
+        "onboard_time": 1766117059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305756,
+        "num": 305756,
+        "word": "罗永浩痛批电信宽带缩水",
+        "onboard_time": 1766127259,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279039,
+        "num": 279039,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 517819,
+        "num": 266550,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 360126,
+        "num": 257486,
+        "word": "何赛飞谈婚后遇到仰慕者",
+        "onboard_time": 1766128640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244340,
+        "num": 244340,
+        "word": "李莎旻子拿迪丽热巴名字举例",
+        "onboard_time": 1766125461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 184759,
+        "word": "男子4买4退同款手机被拒",
+        "onboard_time": 1766116101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223409,
+        "num": 183080,
+        "word": "美术馆创始人称张凯毅老公更改展台",
+        "onboard_time": 1766120840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341364,
+        "num": 181724,
+        "word": "发明肉色秋裤的人你赢了",
+        "onboard_time": 1766116880,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228447,
+        "num": 177128,
+        "word": "殉职消防员何伟豪女友花圈放在中央",
+        "onboard_time": 1766117420,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505180,
+        "num": 176739,
+        "word": "袁姗姗 没被催婚但被催生",
+        "onboard_time": 1766126960,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185595,
+        "num": 172980,
+        "word": "陈伟霆邀请王安宇去家里玩",
+        "onboard_time": 1766127320,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171514,
+        "num": 171514,
+        "word": "周五晚高疯",
+        "onboard_time": 1766128041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170134,
+        "num": 170134,
+        "word": "洗澡前面部分的冷水我从来不浪费",
+        "onboard_time": 1766114662,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 169575,
+        "num": 169575,
+        "word": "美术馆称张凯毅方换了凤冠保护罩",
+        "onboard_time": 1766126600,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168326,
+        "num": 168326,
+        "word": "有山东客户在三亚买了上百套房",
+        "onboard_time": 1766113221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161145,
+        "num": 161145,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32129,
+        "num": 161082,
+        "word": "2025中国国际旅游交易会",
+        "onboard_time": 1766127800,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211843,
+        "num": 160088,
+        "word": "乔任梁妈妈因甲流住院",
+        "onboard_time": 1766123240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115672,
+        "num": 158723,
+        "word": "日方滋扰辽宁舰编队训练细节公布",
+        "onboard_time": 1766128820,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209587,
+        "num": 157892,
+        "word": "柯淳说自己上次接吻是前几天",
+        "onboard_time": 1766119521,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157767,
+        "num": 157767,
+        "word": "蔡徐坤 纯元的杀伤力",
+        "onboard_time": 1766128761,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196564,
+        "num": 157194,
+        "word": "71岁奶奶撸铁4年练出少女背",
+        "onboard_time": 1766129361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194151,
+        "num": 156524,
+        "word": "梁淞虚构了何美延的道歉信息",
+        "onboard_time": 1766121740,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177162,
+        "num": 156321,
+        "word": "黄豆酱放282克黄金送骗子",
+        "onboard_time": 1766127501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167235,
+        "num": 155297,
+        "word": "刘涛一条围巾戴了9年",
+        "onboard_time": 1766128220,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155041,
+        "num": 155041,
+        "word": "夜色里的第二人生",
+        "onboard_time": 1766127800,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150410,
+        "num": 150410,
+        "word": "百花杀",
+        "onboard_time": 1766123301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182972,
+        "num": 148731,
+        "word": "鞠婧祎出发参加星光大赏",
+        "onboard_time": 1766129779,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134635,
+        "num": 134635,
+        "word": "英雄联盟2不会推出",
+        "onboard_time": 1766129659,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131707,
+        "num": 131707,
+        "word": "黎耀祥夫妇内地综艺一来就煲甜汤",
+        "onboard_time": 1766129721,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129578,
+        "num": 129578,
+        "word": "香港殉职消防员灵车经过火灾大楼",
+        "onboard_time": 1766124740,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116391,
+        "num": 116391,
+        "word": "曾艳芬曝聊天记录",
+        "onboard_time": 1766115382,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115732,
+        "num": 115732,
+        "word": "快乐老友记日更陪你一起跨年",
+        "onboard_time": 1766129300,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113829,
+        "num": 113829,
+        "word": "22岁女生大学毕业做团播被震碎三观",
+        "onboard_time": 1766129361,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56926,
+        "num": 112289,
+        "word": "陈哲远做西红柿炒蛋把锅点着了",
+        "onboard_time": 1766129721,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24801,
+        "num": 112128,
+        "word": "白客的照片没法AI合照",
+        "onboard_time": 1766129961,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115698,
+        "num": 112109,
+        "word": "樊振东被记大功",
+        "onboard_time": 1766117480,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112004,
+        "num": 112004,
+        "word": "已经忍不住开始期待2026了",
+        "onboard_time": 1766128580,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107308,
+        "num": 107308,
+        "word": "KPL",
+        "onboard_time": 1766129899,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "猫 公共场合禁止吸烟",
+        "onboard_time": 1766129181,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81199,
+        "num": 102669,
+        "word": "不给自己设限的人生是怎样的",
+        "onboard_time": 1766130023,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102257,
+        "num": 102257,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98200,
+        "num": 98200,
+        "word": "林浩当爸爸了",
+        "onboard_time": 1766130023,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98012,
+        "num": 98012,
+        "word": "果然上班后看人的眼光会变",
+        "onboard_time": 1766115561,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95166,
+        "num": 95166,
+        "word": "段艺璇太瘦了",
+        "onboard_time": 1766125820,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91554,
+        "num": 91554,
+        "word": "网友偶遇徐志胜飞机上全程看书",
+        "onboard_time": 1766130081,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91225,
+        "num": 91225,
+        "word": "刘耀文脸罩",
+        "onboard_time": 1766129001,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
