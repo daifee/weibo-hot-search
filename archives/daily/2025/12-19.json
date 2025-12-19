@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766116021058,
+  "endTime": 1766116901947,
   "band_list": [
     {
       "raw_hot": 1089862,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 904923,
-      "num": 199282,
+      "num": 199896,
       "word": "黄一鸣直播女儿哭着求抱抱",
       "onboard_time": 1766108000,
       "rank": 21,
@@ -35,8 +35,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 642905,
-      "num": 199493,
+      "raw_hot": 671488,
+      "num": 204597,
+      "word": "胡彦斌恋情曝光后被问幸福吗",
+      "onboard_time": 1766114420,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 658585,
+      "num": 204439,
       "word": "双轨啾咪图是倒放",
       "onboard_time": 1766114361,
       "rank": 10,
@@ -51,12 +59,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 560466,
-      "num": 199484,
-      "word": "胡彦斌恋情曝光后被问幸福吗",
-      "onboard_time": 1766114420,
-      "rank": 11,
+      "raw_hot": 532876,
+      "num": 204061,
+      "word": "李飞的工位让刘耀文坐爽了",
+      "onboard_time": 1766115020,
+      "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465732,
+      "num": 203467,
+      "word": "有山东客户在三亚买了上百套房",
+      "onboard_time": 1766113221,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450513,
+      "num": 202853,
+      "word": "曾艳芬曝聊天记录",
+      "onboard_time": 1766115382,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 443462,
@@ -73,6 +97,14 @@
       "onboard_time": 1766071221,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 426404,
+      "num": 200281,
+      "word": "曾艳芬提醒丝芭传媒有聊天记录",
+      "onboard_time": 1766113879,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 424744,
@@ -99,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408312,
-      "num": 199447,
-      "word": "曾艳芬提醒丝芭传媒有聊天记录",
-      "onboard_time": 1766113879,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 407300,
       "num": 202752,
       "word": "日本战机又被激光照射",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 361668,
-      "num": 199387,
+      "num": 201635,
       "word": "白鹿说看不了熟人演戏",
       "onboard_time": 1766111480,
       "rank": 15,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 321655,
-      "num": 238495,
+      "num": 243642,
       "word": "日本加息",
       "onboard_time": 1766104700,
       "rank": 6,
@@ -177,6 +201,14 @@
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315620,
+      "num": 199582,
+      "word": "洗澡前面部分的冷水我从来不浪费",
+      "onboard_time": 1766114662,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 301978,
@@ -227,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275592,
-      "num": 199372,
-      "word": "李飞的工位让刘耀文坐爽了",
-      "onboard_time": 1766115020,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 274722,
+      "num": 199270,
+      "word": "果然上班后看人的眼光会变",
+      "onboard_time": 1766115561,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 257357,
@@ -251,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242836,
-      "num": 199347,
-      "word": "有山东客户在三亚买了上百套房",
-      "onboard_time": 1766113221,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240034,
       "num": 240034,
       "word": "飞天茅台价格暴跌黄牛损失惨重",
@@ -267,19 +291,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 239626,
-      "num": 199343,
-      "word": "曾艳芬曝聊天记录",
-      "onboard_time": 1766115382,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222640,
-      "num": 199307,
-      "word": "洗澡前面部分的冷水我从来不浪费",
-      "onboard_time": 1766114662,
-      "rank": 19,
+      "raw_hot": 237101,
+      "num": 198801,
+      "word": "零负债人群",
+      "onboard_time": 1766115980,
+      "rank": 46,
       "category": "情感,幽默"
     },
     {
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198621,
+      "num": 198621,
+      "word": "费鸡师这下再也不敢翘班了",
+      "onboard_time": 1766116040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198349,
       "num": 198349,
       "word": "逍遥",
@@ -331,8 +355,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195791,
+      "num": 195791,
+      "word": "男子4买4退同款手机被拒",
+      "onboard_time": 1766116101,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191652,
-      "num": 191652,
+      "num": 205685,
       "word": "奇迹OST阵容",
       "onboard_time": 1766110461,
       "rank": 18,
@@ -403,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179119,
+      "num": 179119,
+      "word": "网剧星光成为第一部换脸短剧",
+      "onboard_time": 1766116221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178513,
       "num": 133063,
       "word": "Angelababy原图",
@@ -411,28 +451,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157555,
-      "num": 157555,
-      "word": "杜华给王一博探索新境只包场200",
-      "onboard_time": 1766102299,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 176710,
+      "num": 176710,
+      "word": "王一博你的跨年摩托后继有人了",
+      "onboard_time": 1766116460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
-      "raw_hot": 157442,
-      "num": 157442,
+      "raw_hot": 166253,
+      "num": 166253,
+      "word": "明确禁止全隐藏式门把手",
+      "onboard_time": 1766115800,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 161302,
+      "num": 161302,
       "word": "王曼昱额外获得23500美元奖金",
       "onboard_time": 1766112500,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 157076,
-      "num": 157076,
-      "word": "明确禁止全隐藏式门把手",
-      "onboard_time": 1766115800,
-      "rank": 31,
-      "category": "汽车"
+      "raw_hot": 159198,
+      "num": 159198,
+      "word": "面包蟹 爱洁蟹",
+      "onboard_time": 1766113641,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157555,
+      "num": 157555,
+      "word": "杜华给王一博探索新境只包场200",
+      "onboard_time": 1766102299,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 156465,
@@ -457,22 +513,6 @@
       "onboard_time": 1766065883,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 154775,
-      "num": 154775,
-      "word": "果然上班后看人的眼光会变",
-      "onboard_time": 1766115561,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 146990,
-      "num": 146990,
-      "word": "面包蟹 爱洁蟹",
-      "onboard_time": 1766113641,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 144009,
@@ -507,6 +547,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135938,
+      "num": 203272,
+      "word": "国民党和民众党将提案弹劾赖清德",
+      "onboard_time": 1766115441,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 135184,
+      "num": 135184,
+      "word": "坠亡女教师曾对选择一楼院子表示抱歉",
+      "onboard_time": 1766116762,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134356,
       "num": 134356,
       "word": "丝芭传媒有权公开鞠婧祎收入吗",
@@ -523,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131814,
+      "num": 131814,
+      "word": "老舅",
+      "onboard_time": 1766116701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130826,
       "num": 138740,
       "word": "阿凡达3",
@@ -531,12 +595,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "考研前一天的图书馆",
+      "onboard_time": 1766116520,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 130421,
+      "num": 130421,
+      "word": "发明肉色秋裤的人你赢了",
+      "onboard_time": 1766116880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129064,
+      "num": 129064,
+      "word": "日本央行如期加息25个基点",
+      "onboard_time": 1766116040,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128563,
       "num": 193328,
       "word": "vivoS50主打一个爱你老己",
       "onboard_time": 1766109799,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126978,
+      "num": 126978,
+      "word": "考研的心从未如此强烈过",
+      "onboard_time": 1766116101,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 125121,
@@ -556,7 +652,7 @@
     },
     {
       "raw_hot": 124106,
-      "num": 199303,
+      "num": 200848,
       "word": "华为见非凡对话汪顺",
       "onboard_time": 1766113520,
       "rank": 20,
@@ -691,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107823,
-      "num": 107823,
-      "word": "零负债人群",
-      "onboard_time": 1766115980,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 102605,
       "num": 102605,
       "word": "谢娜和蓝羽也太美了吧",
@@ -737,6 +825,14 @@
       "onboard_time": 1766111000,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98440,
+      "num": 205047,
+      "word": "骄阳似我",
+      "onboard_time": 1766102059,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 97943,
@@ -811,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87001,
-      "num": 87001,
-      "word": "骄阳似我",
-      "onboard_time": 1766102059,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86910,
       "num": 86910,
       "word": "瑞幸把咖啡健康卷明白了",
@@ -857,6 +945,14 @@
       "onboard_time": 1766108839,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82029,
+      "num": 156501,
+      "word": "警方通报35岁男子持刀伤人",
+      "onboard_time": 1766116762,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 80748,
@@ -1043,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53856,
-      "num": 199508,
-      "word": "国民党和民众党将提案弹劾赖清德",
-      "onboard_time": 1766115441,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53765,
       "num": 79479,
       "word": "吴宣仪滥俗的歌舞台",
@@ -1123,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 48244,
+      "num": 156326,
+      "word": "爱泼斯坦案再披露68张新照片",
+      "onboard_time": 1766116701,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47640,
       "num": 79303,
       "word": "重庆一对7旬夫妇被邻居老人打死",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1766076378,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 45630,
+      "num": 486449,
+      "word": "海南封关打开了机遇之门",
+      "onboard_time": 1766073439,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44082,
@@ -1203,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33986,
+      "num": 201373,
+      "word": "从鉴定为伪作到销售庞家人毫不知情",
+      "onboard_time": 1766116040,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33670,
       "num": 141720,
       "word": "谢娜说快本就是我的青春",
@@ -1227,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29834,
+      "num": 153044,
+      "word": "2026看人形机器人内外兼修",
+      "onboard_time": 1766115620,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 28624,
       "num": 54947,
       "word": "微博网友年度喜爱电影",
@@ -1241,14 +1361,6 @@
       "onboard_time": 1766079136,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27408,
-      "num": 142220,
-      "word": "2026看人形机器人内外兼修",
-      "onboard_time": 1766115620,
-      "rank": 37,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 24695,
@@ -1297,14 +1409,6 @@
       "onboard_time": 1766065402,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 20048,
-      "num": 486449,
-      "word": "海南封关打开了机遇之门",
-      "onboard_time": 1766073439,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19487,
