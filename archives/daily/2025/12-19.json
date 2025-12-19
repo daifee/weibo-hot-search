@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766154589623,
+  "endTime": 1766155645806,
   "band_list": [
     {
       "raw_hot": 2935158,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1040243,
+      "num": 500719,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1038164,
       "num": 223532,
       "word": "桃黑黑美团吃了20w",
@@ -75,8 +83,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 916202,
-      "num": 916202,
+      "raw_hot": 931889,
+      "num": 931889,
       "word": "台北车站袭击案已致3死6伤",
       "onboard_time": 1766150542,
       "rank": 15,
@@ -89,14 +97,6 @@
       "onboard_time": 1766108000,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 866200,
-      "num": 395445,
-      "word": "演唱会出轨门",
-      "onboard_time": 1766149460,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 820018,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502475,
+      "num": 502475,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 500006,
       "num": 500006,
       "word": "短剧男主都开始跨剧抢女主了",
@@ -315,12 +323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 430660,
-      "num": 384979,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
+      "raw_hot": 431729,
+      "num": 239246,
+      "word": "到底是谁取消有线耳机的",
+      "onboard_time": 1766151502,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 426404,
@@ -579,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325417,
+      "num": 245505,
+      "word": "陈妍希 你的礼物在十年后",
+      "onboard_time": 1766149640,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321655,
       "num": 251592,
       "word": "日本加息",
@@ -593,14 +609,6 @@
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312468,
-      "num": 245505,
-      "word": "陈妍希 你的礼物在十年后",
-      "onboard_time": 1766149640,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 305756,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 258999,
-      "num": 358979,
+      "num": 395070,
       "word": "一诺",
       "onboard_time": 1766148139,
       "rank": 27,
@@ -817,14 +825,6 @@
       "onboard_time": 1766146400,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239246,
-      "num": 239246,
-      "word": "到底是谁取消有线耳机的",
-      "onboard_time": 1766151502,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 237241,
@@ -1259,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174700,
+      "num": 227607,
+      "word": "台北袭击事件袭击者身份曝光",
+      "onboard_time": 1766151502,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173487,
       "num": 161271,
       "word": "92年宝妈产后腹直肌严重分离",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1766145679,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172056,
+      "num": 172056,
+      "word": "王一博回应近两年未进组",
+      "onboard_time": 1766150722,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 170773,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1766140039,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167346,
-      "num": 161319,
-      "word": "王一博回应近两年未进组",
-      "onboard_time": 1766150722,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 166253,
@@ -1400,6 +1408,14 @@
       "word": "A股行情",
       "onboard_time": 1766119581,
       "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 159125,
+      "num": 159125,
+      "word": "2026年贺岁纪念币和纪念钞来了",
+      "onboard_time": 1766155222,
+      "rank": 25,
       "category": "财经"
     },
     {
@@ -1635,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142687,
+      "num": 124745,
+      "word": "iPhone自带APP居然这么好用",
+      "onboard_time": 1766155462,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 142169,
       "num": 142169,
       "word": "黄景瑜罚罪2终于开始喂饭了",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1766121622,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138668,
-      "num": 227607,
-      "word": "台北袭击事件袭击者身份曝光",
-      "onboard_time": 1766151502,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137926,
@@ -1923,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126452,
+      "num": 126452,
+      "word": "男子出差途中花4元中638万",
+      "onboard_time": 1766152460,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125259,
       "num": 125259,
       "word": "白鹿出发参加星光大赏",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1766125580,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124744,
+      "num": 124744,
+      "word": "郭京飞被减肥弹幕创飞了",
+      "onboard_time": 1766152280,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 124532,
@@ -2435,14 +2467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103660,
-      "num": 103660,
-      "word": "郭京飞被减肥弹幕创飞了",
-      "onboard_time": 1766152280,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103590,
       "num": 103590,
       "word": "李施嬅感受到被爱的感觉了",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1766140160,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102616,
-      "num": 102616,
-      "word": "男子出差途中花4元中638万",
-      "onboard_time": 1766152460,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102605,
@@ -2603,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98851,
+      "num": 98851,
+      "word": "何与靳朝苦尽甘来哭出克制隐忍自卑",
+      "onboard_time": 1766155162,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98731,
       "num": 98731,
       "word": "B站年度报告",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1766061502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95995,
+      "num": 95995,
+      "word": "方文山成毅联手打造宿命回响",
+      "onboard_time": 1766154801,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 94381,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1766068401,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90319,
+      "num": 90319,
+      "word": "绝区零2.5",
+      "onboard_time": 1766154501,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 90186,
@@ -2875,6 +2915,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85818,
+      "num": 85818,
+      "word": "王嘉尔在香港机场上班两天",
+      "onboard_time": 1766154981,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85655,
+      "num": 85655,
+      "word": "汪苏泷真的把手臂涂黑了",
+      "onboard_time": 1766154740,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85368,
       "num": 85368,
       "word": "台媒谬称山东没马桶遭台网友怒怼",
@@ -2947,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83264,
+      "num": 85713,
+      "word": "争了12年的红白玫瑰终于来了",
+      "onboard_time": 1766154261,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83246,
       "num": 168742,
       "word": "女子被撞身亡家属质疑交警不跨区施救",
@@ -2961,14 +3025,6 @@
       "onboard_time": 1766124321,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82696,
-      "num": 82696,
-      "word": "争了12年的红白玫瑰终于来了",
-      "onboard_time": 1766154261,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 82313,
@@ -3009,6 +3065,14 @@
       "onboard_time": 1766148560,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79930,
+      "num": 173654,
+      "word": "河南学校13死火灾案宣判",
+      "onboard_time": 1766154320,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79864,
@@ -3540,7 +3604,7 @@
     },
     {
       "raw_hot": 37037,
-      "num": 544213,
+      "num": 579697,
       "word": "这里有一批车轮上的盲盒",
       "onboard_time": 1766150420,
       "rank": 2,
@@ -3675,6 +3739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 27268,
+      "num": 124747,
+      "word": "香港10亿日元劫案一内地男子被捕",
+      "onboard_time": 1766155524,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26452,
       "num": 992207,
       "word": "一站式打卡全球好物",
@@ -3689,14 +3761,6 @@
       "onboard_time": 1766128161,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25491,
-      "num": 121419,
-      "word": "河南学校13死火灾案宣判",
-      "onboard_time": 1766154320,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25114,
