@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766176311163,
+  "endTime": 1766177064855,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -66707,6 +66707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14860,
+      "num": 27107,
+      "word": "和鞠婧祎一起奔向2026",
+      "onboard_time": 1766166019,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14841,
       "num": 22910,
       "word": "虞书欣台偶女主的明媚感",
@@ -66809,14 +66817,6 @@
       "onboard_time": 1765458022,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13899,
-      "num": 26568,
-      "word": "和鞠婧祎一起奔向2026",
-      "onboard_time": 1766166019,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 13892,

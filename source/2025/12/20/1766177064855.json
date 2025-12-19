@@ -1,0 +1,410 @@
+{
+  "runTime": 1766177064855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66856,
+        "num": 66856,
+        "word": "到底是谁取消有线耳机的",
+        "onboard_time": 1766151502,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38512,
+        "num": 38512,
+        "word": "一诺",
+        "onboard_time": 1766148139,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9440,
+        "num": 36230,
+        "word": "全国研考工作准备就绪",
+        "onboard_time": 1766149640,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35597,
+        "num": 35597,
+        "word": "台北伤人者跳楼身亡",
+        "onboard_time": 1766147000,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27929,
+        "num": 27929,
+        "word": "WB战胜AG",
+        "onboard_time": 1766156542,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26493,
+        "num": 27906,
+        "word": "骄阳似我",
+        "onboard_time": 1766146761,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17012,
+        "num": 27903,
+        "word": "阿凡达",
+        "onboard_time": 1766139260,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25670,
+        "num": 27877,
+        "word": "iPhone自带APP居然这么好用",
+        "onboard_time": 1766155462,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15763,
+        "num": 27849,
+        "word": "WB对战AG",
+        "onboard_time": 1766144000,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 27832,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67637,
+        "num": 27797,
+        "word": "张凯毅已掉粉超46万",
+        "onboard_time": 1766165117,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40083,
+        "num": 27781,
+        "word": "私人影院强制要求顾客选择异性陪侍套餐",
+        "onboard_time": 1766156663,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31090,
+        "num": 27751,
+        "word": "演唱会出轨门",
+        "onboard_time": 1766149460,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27740,
+        "num": 27740,
+        "word": "杨紫说自己穿的是假貂",
+        "onboard_time": 1766156602,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27591,
+        "num": 27591,
+        "word": "乔任梁父母相继入院",
+        "onboard_time": 1766131820,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27182,
+        "num": 27182,
+        "word": "台北车站袭击案已致4死",
+        "onboard_time": 1766157804,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 27181,
+        "word": "黑河早市人脚一双100码大鞋",
+        "onboard_time": 1766158824,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22935,
+        "num": 27177,
+        "word": "9岁弟弟被害33年后姐姐想接他回家",
+        "onboard_time": 1766157804,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21353,
+        "num": 27175,
+        "word": "zwy教练",
+        "onboard_time": 1766145800,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20332,
+        "num": 27170,
+        "word": "微博之夜",
+        "onboard_time": 1766144780,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52502,
+        "num": 27167,
+        "word": "吃吃子晗分手",
+        "onboard_time": 1766145201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30144,
+        "num": 27165,
+        "word": "演员王东首谈残疾儿子",
+        "onboard_time": 1766172734,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29049,
+        "num": 27162,
+        "word": "王橹杰 师兄",
+        "onboard_time": 1766157501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24406,
+        "num": 27156,
+        "word": "孙涵清回应分手",
+        "onboard_time": 1766157982,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22507,
+        "num": 27155,
+        "word": "黄磊孙莉二女儿颜值",
+        "onboard_time": 1766134400,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20756,
+        "num": 27149,
+        "word": "男子晒妻子一次囤4000多包抽纸",
+        "onboard_time": 1766147542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18440,
+        "num": 27149,
+        "word": "王一博回应近两年未进组",
+        "onboard_time": 1766150722,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18331,
+        "num": 27144,
+        "word": "向佐首谈弟弟向佑",
+        "onboard_time": 1766148441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18093,
+        "num": 27139,
+        "word": "瑞龙恋爱",
+        "onboard_time": 1766159062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 27135,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1766168776,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17778,
+        "num": 27132,
+        "word": "月鳞绮纪",
+        "onboard_time": 1766166257,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17503,
+        "num": 27129,
+        "word": "心动的信号",
+        "onboard_time": 1766149520,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16354,
+        "num": 27126,
+        "word": "南博前院长回应争议文物流出",
+        "onboard_time": 1766156843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16333,
+        "num": 27125,
+        "word": "陈丽君去看陈昊宇音乐剧了",
+        "onboard_time": 1766158643,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15967,
+        "num": 27119,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1766159300,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15955,
+        "num": 27119,
+        "word": "105捆2元人民币起拍价20余万元",
+        "onboard_time": 1766157862,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15600,
+        "num": 27115,
+        "word": "新郎第一时间奔到摔倒的新娘身边",
+        "onboard_time": 1766159002,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15189,
+        "num": 27111,
+        "word": "流苏",
+        "onboard_time": 1766145920,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14860,
+        "num": 27107,
+        "word": "和鞠婧祎一起奔向2026",
+        "onboard_time": 1766166019,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14843,
+        "num": 27102,
+        "word": "2025封面人物",
+        "onboard_time": 1766168956,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14196,
+        "num": 27102,
+        "word": "台北车站袭击案细节曝光",
+        "onboard_time": 1766166556,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14095,
+        "num": 27095,
+        "word": "600多元天津飞北京中转成都机票火了",
+        "onboard_time": 1766158582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13826,
+        "num": 27092,
+        "word": "新华社追踪南博名作现身拍卖市场",
+        "onboard_time": 1766167995,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13424,
+        "num": 27091,
+        "word": "台北车站袭击案",
+        "onboard_time": 1766145501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12683,
+        "num": 27088,
+        "word": "2025王者荣耀挑战者杯",
+        "onboard_time": 1766139260,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12167,
+        "num": 27084,
+        "word": "音乐缘计划",
+        "onboard_time": 1766144841,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12049,
+        "num": 27080,
+        "word": "鞠婧祎合约纠纷",
+        "onboard_time": 1766156484,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11837,
+        "num": 27077,
+        "word": "CBA",
+        "onboard_time": 1766157321,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11834,
+        "num": 27072,
+        "word": "AG剧透",
+        "onboard_time": 1766146400,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11520,
+        "num": 27069,
+        "word": "汪苏泷你们既要又要",
+        "onboard_time": 1766159781,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

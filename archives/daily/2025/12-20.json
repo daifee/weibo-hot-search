@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766176311163,
+  "endTime": 1766177064855,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -563,8 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13899,
-      "num": 26568,
+      "raw_hot": 14860,
+      "num": 27107,
       "word": "和鞠婧祎一起奔向2026",
       "onboard_time": 1766166019,
       "rank": 41,
@@ -572,11 +572,19 @@
     },
     {
       "raw_hot": 12719,
-      "num": 26540,
+      "num": 27088,
       "word": "2025王者荣耀挑战者杯",
       "onboard_time": 1766139260,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12167,
+      "num": 27084,
+      "word": "音乐缘计划",
+      "onboard_time": 1766144841,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 9789,
