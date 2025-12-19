@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766143589269,
+  "endTime": 1766144415561,
   "band_list": [
     {
       "raw_hot": 1403363,
@@ -51,7 +51,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1008742,
+      "raw_hot": 1038164,
       "num": 174898,
       "word": "桃黑黑美团吃了20w",
       "onboard_time": 1766139921,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 567270,
-      "num": 165982,
+      "num": 193614,
       "word": "梁淞删何美延好友",
       "onboard_time": 1766142022,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502734,
+      "num": 300488,
+      "word": "刘晓庆的骨密度居然和年轻人一样",
+      "onboard_time": 1766139080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500006,
       "num": 500006,
       "word": "短剧男主都开始跨剧抢女主了",
@@ -232,6 +240,14 @@
       "word": "骄阳似我",
       "onboard_time": 1766102059,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446531,
+      "num": 189653,
+      "word": "姜暮下跪",
+      "onboard_time": 1766142801,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -297,14 +313,6 @@
       "onboard_time": 1766107040,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 418504,
-      "num": 300488,
-      "word": "刘晓庆的骨密度居然和年轻人一样",
-      "onboard_time": 1766139080,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 415894,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 235666,
-      "num": 153664,
+      "num": 154963,
       "word": "高圆圆 出片全靠闺蜜",
       "onboard_time": 1766142380,
       "rank": 22,
@@ -696,6 +704,14 @@
       "word": "国民党和民众党将提案弹劾赖清德",
       "onboard_time": 1766115441,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 229551,
+      "num": 491534,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -721,14 +737,6 @@
       "onboard_time": 1766117480,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225967,
-      "num": 491534,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 222622,
@@ -761,14 +769,6 @@
       "onboard_time": 1766107579,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218058,
-      "num": 162044,
-      "word": "姜暮下跪",
-      "onboard_time": 1766142801,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 205719,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176007,
+      "num": 176007,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175522,
       "num": 175522,
       "word": "已经忍不住开始期待2026了",
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 169458,
-      "num": 158700,
+      "num": 159714,
       "word": "反人类暴行豆瓣开分8.5",
       "onboard_time": 1766142200,
       "rank": 16,
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153428,
+      "num": 153428,
+      "word": "考研时间",
+      "onboard_time": 1766141540,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151661,
       "num": 151661,
       "word": "今年冬至将迎来百年一遇的天象",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1766118623,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145008,
-      "num": 145008,
-      "word": "考研时间",
-      "onboard_time": 1766141540,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 144081,
@@ -1459,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134001,
+      "num": 134001,
+      "word": "马嘉祺送过贺峻霖累了吧手机壳",
+      "onboard_time": 1766143279,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133607,
       "num": 133607,
       "word": "内娱短剧已经发展成这样了吗",
       "onboard_time": 1766135481,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133605,
+      "num": 133605,
+      "word": "丝芭维权索赔100万被驳回",
+      "onboard_time": 1766142380,
+      "rank": 33,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 132491,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1766114901,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132236,
+      "num": 132236,
+      "word": "分开十年在一起七天又分开六年",
+      "onboard_time": 1766143761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 131814,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 129679,
-      "num": 133500,
+      "num": 197650,
       "word": "第五人格演绎之星",
       "onboard_time": 1766142739,
       "rank": 29,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1766116040,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129037,
-      "num": 129037,
-      "word": "丝芭维权索赔100万被驳回",
-      "onboard_time": 1766142380,
-      "rank": 33,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 128970,
@@ -1603,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125259,
+      "num": 125259,
+      "word": "白鹿出发参加星光大赏",
+      "onboard_time": 1766140640,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "全红婵是张家齐直播间榜一",
       "onboard_time": 1766100498,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125074,
-      "num": 125074,
-      "word": "白鹿出发参加星光大赏",
-      "onboard_time": 1766140640,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 124897,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1766109799,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122840,
+      "num": 122840,
+      "word": "刘耀文高会",
+      "onboard_time": 1766142860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 122780,
@@ -1747,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117759,
+      "num": 206111,
+      "word": "第五人格五骥映春",
+      "onboard_time": 1766143520,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117648,
       "num": 117648,
       "word": "汪顺教许知远游泳",
@@ -1819,28 +1859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113374,
-      "num": 113374,
-      "word": "刘耀文高会",
-      "onboard_time": 1766142860,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113220,
       "num": 139973,
       "word": "崩坏星穹铁道超话",
       "onboard_time": 1766067863,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113173,
-      "num": 113173,
-      "word": "马嘉祺送过贺峻霖累了吧手机壳",
-      "onboard_time": 1766143279,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 112779,
@@ -1947,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108899,
+      "num": 108899,
+      "word": "南京导航异常系民用GNSS受临时干扰",
+      "onboard_time": 1766142440,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "刘耀文脸罩",
@@ -1972,7 +2004,7 @@
     },
     {
       "raw_hot": 107308,
-      "num": 162058,
+      "num": 174496,
       "word": "KPL",
       "onboard_time": 1766129899,
       "rank": 41,
@@ -1995,12 +2027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106601,
+      "num": 106601,
+      "word": "上一集分手下一集就重逢",
+      "onboard_time": 1766144361,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105788,
       "num": 105788,
       "word": "唐诡奇谭吃了多少梗",
       "onboard_time": 1766123900,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105744,
+      "num": 105744,
+      "word": "天津股侠",
+      "onboard_time": 1766143822,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 105332,
@@ -2179,6 +2227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98557,
+      "num": 113248,
+      "word": "演唱会出轨门女主首度发声",
+      "onboard_time": 1766142739,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97943,
       "num": 97943,
       "word": "男子用白鹿黄金海报炼10g金豆却破防",
@@ -2209,6 +2265,14 @@
       "onboard_time": 1766105841,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96953,
+      "num": 96953,
+      "word": "2025LCK",
+      "onboard_time": 1766143939,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96429,
@@ -2305,14 +2369,6 @@
       "onboard_time": 1766124620,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89163,
-      "num": 89163,
-      "word": "第五人格五骥映春",
-      "onboard_time": 1766143520,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 89138,
@@ -2939,14 +2995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41181,
-      "num": 113248,
-      "word": "演唱会出轨门女主首度发声",
-      "onboard_time": 1766142739,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 41060,
       "num": 226881,
       "word": "花钱骂醒恋爱脑 商家月入万元",
@@ -3259,6 +3307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17605,
+      "num": 158046,
+      "word": "一人一句为考研生加油",
+      "onboard_time": 1766143160,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 17589,
       "num": 116776,
       "word": "文博机构如何守住公众信任",
@@ -3369,14 +3425,6 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10471,
-      "num": 156589,
-      "word": "一人一句为考研生加油",
-      "onboard_time": 1766143160,
-      "rank": 19,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
