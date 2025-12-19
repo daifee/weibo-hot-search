@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766172211397,
+  "endTime": 1766173084915,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -66627,6 +66627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15245,
+      "num": 32591,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15241,
       "num": 153706,
       "word": "月付开通容易关闭难",
@@ -67459,6 +67467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 9706,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9681,
       "num": 22460,
       "word": "剧查查之夜",
@@ -67473,14 +67489,6 @@
       "onboard_time": 1765364421,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9653,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 9596,
