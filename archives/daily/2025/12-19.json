@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766123149276,
+  "endTime": 1766126522634,
   "band_list": [
     {
       "raw_hot": 1259828,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631984,
+      "num": 1101117,
+      "word": "年度报告",
+      "onboard_time": 1766119941,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 563231,
       "num": 938051,
       "word": "三星长公主曾不顾反对下嫁司机",
@@ -97,14 +105,6 @@
       "onboard_time": 1766113221,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 505852,
-      "num": 505852,
-      "word": "年度报告",
-      "onboard_time": 1766119941,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 485141,
@@ -187,6 +187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415894,
+      "num": 279791,
+      "word": "发明肉色秋裤的人你赢了",
+      "onboard_time": 1766116880,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 411126,
+      "num": 261458,
+      "word": "梁淞虚构了何美延的道歉信息",
+      "onboard_time": 1766121740,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407300,
       "num": 233424,
       "word": "日本战机又被激光照射",
@@ -251,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336723,
+      "num": 176955,
+      "word": "乔任梁妈妈因甲流住院",
+      "onboard_time": 1766123240,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330882,
       "num": 146224,
       "word": "人的出场顺序真的很重要",
@@ -283,28 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308450,
-      "num": 279791,
-      "word": "发明肉色秋裤的人你赢了",
-      "onboard_time": 1766116880,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 301978,
       "num": 301978,
       "word": "周大福涨价",
       "onboard_time": 1766071641,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 301197,
-      "num": 261458,
-      "word": "梁淞虚构了何美延的道歉信息",
-      "onboard_time": 1766121740,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 300211,
@@ -353,6 +361,14 @@
       "onboard_time": 1766076258,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279250,
+      "num": 228212,
+      "word": "美术馆创始人称张凯毅老公更改展台",
+      "onboard_time": 1766120840,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261231,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196435,
+      "num": 196435,
+      "word": "百花杀",
+      "onboard_time": 1766123301,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "张艺兴时装男士十二月刊封面",
@@ -529,6 +553,14 @@
       "onboard_time": 1766110461,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191509,
+      "num": 191509,
+      "word": "李莎旻子拿迪丽热巴名字举例",
+      "onboard_time": 1766125461,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 190672,
@@ -593,6 +625,14 @@
       "onboard_time": 1766112260,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183376,
+      "num": 171198,
+      "word": "段艺璇太瘦了",
+      "onboard_time": 1766125820,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183292,
@@ -739,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148083,
-      "num": 148083,
-      "word": "美术馆创始人称张凯毅老公更改展台",
-      "onboard_time": 1766120840,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146119,
       "num": 146119,
       "word": "反人类暴行",
@@ -779,12 +811,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142169,
+      "num": 142169,
+      "word": "黄景瑜罚罪2终于开始喂饭了",
+      "onboard_time": 1766123960,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141523,
       "num": 141523,
       "word": "原来遗憾可以写的那么刀人",
       "onboard_time": 1766112381,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "香港殉职消防员灵车经过火灾大楼",
+      "onboard_time": 1766124740,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140523,
@@ -907,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124897,
+      "num": 124897,
+      "word": "今年的王炸水果居然是苹果",
+      "onboard_time": 1766125580,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124532,
       "num": 124532,
       "word": "合肥警方通报一46岁男子身亡",
@@ -971,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122101,
+      "num": 122101,
+      "word": "海南封关首日1.5吨榴莲1小时被抢空",
+      "onboard_time": 1766125401,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120364,
       "num": 120364,
       "word": "郝戎带过中戏96级明星班",
@@ -985,6 +1049,14 @@
       "onboard_time": 1766056461,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119733,
+      "num": 119733,
+      "word": "美术馆创始人回应黄金凤冠事件",
+      "onboard_time": 1766125222,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118722,
@@ -1123,6 +1195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105788,
+      "num": 105788,
+      "word": "唐诡奇谭吃了多少梗",
+      "onboard_time": 1766123900,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105332,
+      "num": 105332,
+      "word": "研究称垂死外星文明或首先接触人类",
+      "onboard_time": 1766126480,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103590,
       "num": 103590,
       "word": "李施嬅感受到被爱的感觉了",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1766106681,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102294,
+      "num": 102294,
+      "word": "为什么带父母旅行的大多都是女儿",
+      "onboard_time": 1766124200,
+      "rank": 42,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 100957,
@@ -1187,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98731,
+      "num": 98731,
+      "word": "B站年度报告",
+      "onboard_time": 1766124979,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97943,
       "num": 97943,
       "word": "男子用白鹿黄金海报炼10g金豆却破防",
@@ -1227,12 +1331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92555,
+      "num": 115771,
+      "word": "中方出面调停柬泰表示欢迎",
+      "onboard_time": 1766122221,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "时尚芭莎官宣了鞠婧祎",
       "onboard_time": 1766104280,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 91066,
+      "num": 91066,
+      "word": "央视报道陈梦参与军民交流活动",
+      "onboard_time": 1766124920,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 90321,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1766119281,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89210,
+      "num": 89210,
+      "word": "周雨彤本应该从从容容游刃有余",
+      "onboard_time": 1766124620,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 89138,
@@ -1281,6 +1409,30 @@
       "onboard_time": 1766105002,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 86185,
+      "num": 86185,
+      "word": "四川一洗浴场所涉黄14人被抓",
+      "onboard_time": 1766124200,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85950,
+      "num": 118670,
+      "word": "过家家这段的查重率100%",
+      "onboard_time": 1766124800,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 85931,
+      "num": 141353,
+      "word": "东契奇45分豪华三双",
+      "onboard_time": 1766124979,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 84644,
@@ -1707,12 +1859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38666,
+      "num": 177720,
+      "word": "每份坚守都值得被温暖守护",
+      "onboard_time": 1766124381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38403,
       "num": 65674,
       "word": "Peanut直播回应Faker",
       "onboard_time": 1766067021,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37353,
+      "num": 172694,
+      "word": "郝戎曾说演戏先学做人",
+      "onboard_time": 1766125222,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33986,
@@ -1763,20 +1931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29404,
-      "num": 115771,
-      "word": "中方出面调停柬泰表示欢迎",
-      "onboard_time": 1766122221,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28624,
       "num": 54947,
       "word": "微博网友年度喜爱电影",
       "onboard_time": 1766078895,
       "rank": 48,
       "category": "作品衍生,电影"
+    },
+    {
+      "raw_hot": 27839,
+      "num": 107249,
+      "word": "最省钱的打工人坐绿皮火车通勤",
+      "onboard_time": 1766125787,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27625,
