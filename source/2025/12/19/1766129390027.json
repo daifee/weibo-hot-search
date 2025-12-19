@@ -1,0 +1,410 @@
+{
+  "runTime": 1766129390027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519382,
+        "num": 1083101,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317120,
+        "num": 317120,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 79533,
+        "num": 291910,
+        "word": "海南封关你关心的都在这",
+        "onboard_time": 1766117059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267527,
+        "num": 267527,
+        "word": "美术馆创始人称张凯毅老公更改展台",
+        "onboard_time": 1766120840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266657,
+        "num": 266657,
+        "word": "李莎旻子拿迪丽热巴名字举例",
+        "onboard_time": 1766125461,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565562,
+        "num": 254626,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 534449,
+        "num": 243100,
+        "word": "袁姗姗 没被催婚但被催生",
+        "onboard_time": 1766126960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212858,
+        "num": 212858,
+        "word": "男子4买4退同款手机被拒",
+        "onboard_time": 1766116101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228084,
+        "num": 201398,
+        "word": "罗永浩痛批电信宽带缩水",
+        "onboard_time": 1766127259,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189360,
+        "num": 189360,
+        "word": "有山东客户在三亚买了上百套房",
+        "onboard_time": 1766113221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244878,
+        "num": 189329,
+        "word": "梁淞虚构了何美延的道歉信息",
+        "onboard_time": 1766121740,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362838,
+        "num": 189221,
+        "word": "发明肉色秋裤的人你赢了",
+        "onboard_time": 1766116880,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282535,
+        "num": 189204,
+        "word": "殉职消防员何伟豪女友花圈放在中央",
+        "onboard_time": 1766117420,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273880,
+        "num": 189076,
+        "word": "海南封关首日1.5吨榴莲1小时被抢空",
+        "onboard_time": 1766125401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205719,
+        "num": 189061,
+        "word": "周五晚高疯",
+        "onboard_time": 1766128041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197086,
+        "num": 188936,
+        "word": "何赛飞谈婚后遇到仰慕者",
+        "onboard_time": 1766128640,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188920,
+        "num": 188920,
+        "word": "洗澡前面部分的冷水我从来不浪费",
+        "onboard_time": 1766114662,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 28316,
+        "num": 188539,
+        "word": "2025中国国际旅游交易会",
+        "onboard_time": 1766127800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57286,
+        "num": 186292,
+        "word": "日方滋扰辽宁舰编队训练细节公布",
+        "onboard_time": 1766128820,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71582,
+        "num": 184465,
+        "word": "蔡徐坤 纯元的杀伤力",
+        "onboard_time": 1766128761,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292173,
+        "num": 183389,
+        "word": "乔任梁妈妈因甲流住院",
+        "onboard_time": 1766123240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229175,
+        "num": 181850,
+        "word": "柯淳说自己上次接吻是前几天",
+        "onboard_time": 1766119521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200090,
+        "num": 180854,
+        "word": "黄豆酱放282克黄金送骗子",
+        "onboard_time": 1766127501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 178767,
+        "word": "刘涛一条围巾戴了9年",
+        "onboard_time": 1766128220,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178311,
+        "num": 178311,
+        "word": "百花杀",
+        "onboard_time": 1766123301,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165059,
+        "num": 176968,
+        "word": "陈伟霆邀请王安宇去家里玩",
+        "onboard_time": 1766127320,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 176792,
+        "word": "夜色里的第二人生",
+        "onboard_time": 1766127800,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176672,
+        "num": 176672,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175522,
+        "num": 175522,
+        "word": "已经忍不住开始期待2026了",
+        "onboard_time": 1766128580,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163419,
+        "num": 163419,
+        "word": "美术馆称张凯毅方换了凤冠保护罩",
+        "onboard_time": 1766126600,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137369,
+        "num": 137369,
+        "word": "樊振东被记大功",
+        "onboard_time": 1766117480,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130950,
+        "num": 130950,
+        "word": "骄阳似我",
+        "onboard_time": 1766102059,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122795,
+        "num": 122795,
+        "word": "香港殉职消防员灵车经过火灾大楼",
+        "onboard_time": 1766124740,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40491,
+        "num": 122784,
+        "word": "福建海警位金门附近执法巡查",
+        "onboard_time": 1766127379,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122780,
+        "num": 122780,
+        "word": "陈平安关关难过关关关关过",
+        "onboard_time": 1766128820,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120111,
+        "num": 120111,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119177,
+        "num": 119177,
+        "word": "曾艳芬曝聊天记录",
+        "onboard_time": 1766115382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "71岁奶奶撸铁4年练出少女背",
+        "onboard_time": 1766129361,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108393,
+        "num": 108393,
+        "word": "刘耀文脸罩",
+        "onboard_time": 1766129001,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25741,
+        "num": 106615,
+        "word": "农民在欧盟总部外抗议向警察扔土豆",
+        "onboard_time": 1766128161,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64902,
+        "num": 106231,
+        "word": "吉克隽逸怎么把辣椒贴指甲上了",
+        "onboard_time": 1766127320,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106191,
+        "num": 106191,
+        "word": "柯淳被宁静查手机吓到脸都绿了",
+        "onboard_time": 1766121441,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44065,
+        "num": 105067,
+        "word": "22岁女生大学毕业做团播被震碎三观",
+        "onboard_time": 1766129361,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106505,
+        "num": 105041,
+        "word": "段艺璇太瘦了",
+        "onboard_time": 1766125820,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104896,
+        "num": 104896,
+        "word": "向涵之汤唯是妈妈是女儿",
+        "onboard_time": 1766117180,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 104780,
+        "word": "果然上班后看人的眼光会变",
+        "onboard_time": 1766115561,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 100533,
+        "num": 100533,
+        "word": "对独生嘴好点怎么了",
+        "onboard_time": 1766128940,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 97589,
+        "num": 97589,
+        "word": "猫 公共场合禁止吸烟",
+        "onboard_time": 1766129181,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94225,
+        "num": 94225,
+        "word": "一些考研当天的建议",
+        "onboard_time": 1766128880,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92756,
+        "num": 92756,
+        "word": "快乐老友记日更陪你一起跨年",
+        "onboard_time": 1766129300,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
