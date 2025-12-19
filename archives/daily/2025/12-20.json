@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766180450935,
+  "endTime": 1766183283399,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -467,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38648,
+      "num": 32591,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33295,
       "num": 93211,
       "word": "汪苏泷生命力要溢出屏幕了",
       "onboard_time": 1766165298,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32945,
-      "num": 32591,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 32274,
@@ -547,7 +547,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17223,
+      "raw_hot": 22301,
+      "num": 28087,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1766153420,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 19770,
       "num": 40995,
       "word": "台北车站袭击案",
       "onboard_time": 1766145501,
@@ -555,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16225,
-      "num": 27107,
+      "raw_hot": 18036,
+      "num": 28061,
       "word": "和鞠婧祎一起奔向2026",
       "onboard_time": 1766166019,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17908,
+      "num": 28053,
+      "word": "赵今麦宋威龙互拍",
+      "onboard_time": 1766179815,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 16145,
@@ -571,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13810,
-      "num": 26785,
-      "word": "赵今麦宋威龙互拍",
-      "onboard_time": 1766179815,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12719,
       "num": 27088,
       "word": "2025王者荣耀挑战者杯",
@@ -587,28 +595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 12544,
+      "num": 28005,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 47,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 12527,
+      "num": 54294,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 12167,
       "num": 27084,
       "word": "音乐缘计划",
       "onboard_time": 1766144841,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11809,
-      "num": 26687,
-      "word": "射雕英雄传侠之大者",
-      "onboard_time": 1766153420,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 9789,
-      "num": 54294,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

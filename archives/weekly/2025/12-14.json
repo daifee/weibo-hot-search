@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766180450935,
+  "endTime": 1766183283399,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -20171,6 +20171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38648,
+      "num": 32591,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38584,
       "num": 117737,
       "word": "楼下称楼上把4房2卫改为6房6卫",
@@ -20681,14 +20689,6 @@
       "onboard_time": 1765790122,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32945,
-      "num": 32591,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 32901,
@@ -22067,6 +22067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18036,
+      "num": 28061,
+      "word": "和鞠婧祎一起奔向2026",
+      "onboard_time": 1766166019,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17908,
+      "num": 28053,
+      "word": "赵今麦宋威龙互拍",
+      "onboard_time": 1766179815,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17837,
       "num": 31187,
       "word": "肖战说很多故事在画面以外",
@@ -22145,14 +22161,6 @@
       "onboard_time": 1766036481,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16225,
-      "num": 27107,
-      "word": "和鞠婧祎一起奔向2026",
-      "onboard_time": 1766166019,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 15837,
@@ -22299,14 +22307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13810,
-      "num": 26785,
-      "word": "赵今麦宋威龙互拍",
-      "onboard_time": 1766179815,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13537,
       "num": 34852,
       "word": "尹锡悦等24人被提起诉讼",
@@ -22427,6 +22427,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 12527,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 12395,
       "num": 118006,
       "word": "尹锡悦为掩盖上班迟到曾修秘密通道",
@@ -22521,14 +22529,6 @@
       "onboard_time": 1766159062,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 9789,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 9596,
