@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766166004215,
+  "endTime": 1766169598830,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -7817,6 +7817,14 @@
       "onboard_time": 1765850360,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181415,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181393,
@@ -19731,14 +19739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44253,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44191,
       "num": 133375,
       "word": "湖北一公司员工聚餐3人甲醇中毒",
@@ -19761,6 +19761,14 @@
       "onboard_time": 1765893982,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43935,
+      "num": 76191,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1766168776,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 43698,
@@ -21131,6 +21139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29089,
+      "num": 43512,
+      "word": "台北车站袭击案细节曝光",
+      "onboard_time": 1766166556,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28982,
       "num": 148430,
       "word": "庞叔令要南博说明藏品划拨调剂流向",
@@ -21243,6 +21259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27660,
+      "num": 43508,
+      "word": "2025封面人物",
+      "onboard_time": 1766168956,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27635,
       "num": 104526,
       "word": "汕头火灾幸存者称或受浓烟影响更大",
@@ -21272,6 +21296,14 @@
       "word": "下下周四就2026了",
       "onboard_time": 1766029341,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27320,
+      "num": 43507,
+      "word": "新华社追踪南博名作现身拍卖市场",
+      "onboard_time": 1766167995,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -21409,6 +21441,14 @@
       "onboard_time": 1766050642,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25626,
+      "num": 43503,
+      "word": "听sevenkids新歌很难不舞起来",
+      "onboard_time": 1766168715,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 25613,
@@ -21617,6 +21657,14 @@
       "onboard_time": 1765688662,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23894,
+      "num": 43501,
+      "word": "长春冰雪之夜",
+      "onboard_time": 1766169075,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 23799,

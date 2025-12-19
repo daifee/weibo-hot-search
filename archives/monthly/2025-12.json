@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766166004215,
+  "endTime": 1766169598830,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -23825,6 +23825,14 @@
       "onboard_time": 1764595823,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181415,
+      "num": 93489,
+      "word": "张凯毅已掉粉超46万",
+      "onboard_time": 1766165117,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181413,
@@ -59595,14 +59603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 44253,
-      "num": 93489,
-      "word": "张凯毅已掉粉超46万",
-      "onboard_time": 1766165117,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44251,
       "num": 83614,
       "word": "寒武纪发严正声明",
@@ -63427,6 +63427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29089,
+      "num": 43512,
+      "word": "台北车站袭击案细节曝光",
+      "onboard_time": 1766166556,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28990,
       "num": 137144,
       "word": "陈小纭 狙击蝴蝶最强助攻",
@@ -63819,6 +63827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27660,
+      "num": 43508,
+      "word": "2025封面人物",
+      "onboard_time": 1766168956,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27635,
       "num": 104526,
       "word": "汕头火灾幸存者称或受浓烟影响更大",
@@ -63896,6 +63912,14 @@
       "word": "冷冷冷北京雪雪雪",
       "onboard_time": 1765278201,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27320,
+      "num": 43507,
+      "word": "新华社追踪南博名作现身拍卖市场",
+      "onboard_time": 1766167995,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -64369,6 +64393,14 @@
       "onboard_time": 1764869656,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25626,
+      "num": 43503,
+      "word": "听sevenkids新歌很难不舞起来",
+      "onboard_time": 1766168715,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 25613,
@@ -64865,6 +64897,14 @@
       "onboard_time": 1765193360,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23894,
+      "num": 43501,
+      "word": "长春冰雪之夜",
+      "onboard_time": 1766169075,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 23892,
