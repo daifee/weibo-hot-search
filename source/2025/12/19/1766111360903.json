@@ -1,0 +1,410 @@
+{
+  "runTime": 1766111360903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 811260,
+        "num": 1129801,
+        "word": "上海阿姨独吞6兄弟姐妹同属拆迁款",
+        "onboard_time": 1766105061,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402943,
+        "num": 402943,
+        "word": "海南封关",
+        "onboard_time": 1766040441,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59411,
+        "num": 390750,
+        "word": "马年春晚吉祥物细节满满",
+        "onboard_time": 1766063901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389398,
+        "num": 389398,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 300211,
+        "num": 300211,
+        "word": "南京博物院",
+        "onboard_time": 1766109799,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261696,
+        "num": 261696,
+        "word": "德国女子舌下藏毒探监毒死男友",
+        "onboard_time": 1766100198,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330280,
+        "num": 252453,
+        "word": "中方代表要求日本立即停止挑衅越线",
+        "onboard_time": 1766105061,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209393,
+        "num": 209393,
+        "word": "周大福涨价",
+        "onboard_time": 1766071641,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264755,
+        "num": 209244,
+        "word": "日本加息",
+        "onboard_time": 1766104700,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355515,
+        "num": 207323,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 610233,
+        "num": 205393,
+        "word": "建议气血不足的人都要像猫一样生活",
+        "onboard_time": 1766107640,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340689,
+        "num": 204068,
+        "word": "长辈总能找到最贵的随手用",
+        "onboard_time": 1766104580,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 335751,
+        "num": 202752,
+        "word": "日本战机又被激光照射",
+        "onboard_time": 1766109620,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320071,
+        "num": 201143,
+        "word": "刘晓庆 震撼全家的75岁红毯状态",
+        "onboard_time": 1766071221,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291785,
+        "num": 200103,
+        "word": "学费太贵生父无力承担被女儿起诉",
+        "onboard_time": 1766105061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256672,
+        "num": 198651,
+        "word": "鞠婧祎风波后首现身",
+        "onboard_time": 1766110521,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197554,
+        "num": 197554,
+        "word": "马嘉祺闷声干大事",
+        "onboard_time": 1766110521,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61139,
+        "num": 193328,
+        "word": "vivoS50主打一个爱你老己",
+        "onboard_time": 1766109799,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191652,
+        "num": 191652,
+        "word": "奇迹OST阵容",
+        "onboard_time": 1766110461,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186548,
+        "num": 186548,
+        "word": "辛芷蕾法国新闻周刊封面",
+        "onboard_time": 1766109920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904923,
+        "num": 178958,
+        "word": "黄一鸣直播女儿哭着求抱抱",
+        "onboard_time": 1766108000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419796,
+        "num": 171533,
+        "word": "曝陈晓陈妍希有一方脾气非常倔",
+        "onboard_time": 1766107040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188893,
+        "num": 164408,
+        "word": "马嘉祺奇迹航线MV上线",
+        "onboard_time": 1766110879,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 156268,
+        "word": "6元面包摊爆火老板一夜不睡做面包",
+        "onboard_time": 1766107579,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142762,
+        "num": 142762,
+        "word": "飞天茅台价格暴跌黄牛损失惨重",
+        "onboard_time": 1766067982,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121126,
+        "num": 121126,
+        "word": "65万多台湾同胞惨死日军屠刀下",
+        "onboard_time": 1766108300,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118722,
+        "num": 118722,
+        "word": "曾艳芬问丝芭为什么不放鞠婧祎",
+        "onboard_time": 1766109739,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12395,
+        "num": 118006,
+        "word": "尹锡悦为掩盖上班迟到曾修秘密通道",
+        "onboard_time": 1766111180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117648,
+        "num": 117648,
+        "word": "汪顺教许知远游泳",
+        "onboard_time": 1766109799,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117543,
+        "num": 117543,
+        "word": "杜华给王一博探索新境只包场200",
+        "onboard_time": 1766102299,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104575,
+        "num": 104575,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1766067863,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104088,
+        "num": 104088,
+        "word": "孤注一掷",
+        "onboard_time": 1766101939,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100084,
+        "num": 100084,
+        "word": "高市早苗全程装傻",
+        "onboard_time": 1766109139,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99081,
+        "num": 99081,
+        "word": "全岛封关外籍主播扎堆涌入海南",
+        "onboard_time": 1766107640,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98497,
+        "num": 98497,
+        "word": "樊振东获上海市体育事业重大贡献奖",
+        "onboard_time": 1766111000,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97331,
+        "num": 97331,
+        "word": "轿车刹车失灵以时速115狂奔490公里",
+        "onboard_time": 1766071341,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 97180,
+        "word": "人的出场顺序真的很重要",
+        "onboard_time": 1766095574,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 94159,
+        "word": "彭小苒说走光了提醒我啊",
+        "onboard_time": 1766099297,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89138,
+        "num": 89138,
+        "word": "官方称哀牢山荒野求生实为综艺类节目",
+        "onboard_time": 1766108541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32699,
+        "num": 88549,
+        "word": "日民间举办731部队展喊话政府谢罪",
+        "onboard_time": 1766110821,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88426,
+        "num": 88426,
+        "word": "网友在餐厅点到有毒螃蟹",
+        "onboard_time": 1766109799,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54603,
+        "num": 88347,
+        "word": "女生团播3个月离职时遭索赔50万",
+        "onboard_time": 1766110039,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88272,
+        "num": 88272,
+        "word": "奇迹",
+        "onboard_time": 1766061863,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87001,
+        "num": 87001,
+        "word": "骄阳似我",
+        "onboard_time": 1766102059,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86910,
+        "num": 86910,
+        "word": "瑞幸把咖啡健康卷明白了",
+        "onboard_time": 1766105002,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86337,
+        "num": 86337,
+        "word": "谢娜和蓝羽也太美了吧",
+        "onboard_time": 1766106681,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84500,
+        "num": 84500,
+        "word": "朱一龙张若昀林更新 85生格局变迁",
+        "onboard_time": 1766104221,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80230,
+        "num": 80230,
+        "word": "中国代表在联合国连说三个决不允许",
+        "onboard_time": 1766109799,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75554,
+        "num": 75554,
+        "word": "手机老用户为啥被固定在高价套餐",
+        "onboard_time": 1766108600,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20558,
+        "num": 75443,
+        "word": "尹锡悦65岁生日当天再出庭",
+        "onboard_time": 1766109620,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记对海南自贸港的殷殷期待#"
+    }
+  }
+}
