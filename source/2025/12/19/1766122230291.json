@@ -1,0 +1,410 @@
+{
+  "runTime": 1766122230291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 595471,
+        "num": 1095275,
+        "word": "中戏院长郝戎被查",
+        "onboard_time": 1766110821,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 390211,
+        "num": 390211,
+        "word": "骄阳似我",
+        "onboard_time": 1766102059,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103129,
+        "num": 339202,
+        "word": "海南封关你关心的都在这",
+        "onboard_time": 1766117059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322753,
+        "num": 322753,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186501,
+        "num": 316371,
+        "word": "cp32",
+        "onboard_time": 1766107160,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1259828,
+        "num": 315575,
+        "word": "宁静 儿子全是赔钱货",
+        "onboard_time": 1766119221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180496,
+        "num": 314334,
+        "word": "上海阿姨独吞6兄弟姐妹同属拆迁款",
+        "onboard_time": 1766105061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313827,
+        "num": 313827,
+        "word": "有山东客户在三亚买了上百套房",
+        "onboard_time": 1766113221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425864,
+        "num": 311829,
+        "word": "男子4买4退同款手机被拒",
+        "onboard_time": 1766116101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102826,
+        "num": 309543,
+        "word": "阿凡达",
+        "onboard_time": 1766117300,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 949780,
+        "num": 305865,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 469415,
+        "num": 300384,
+        "word": "向涵之汤唯是妈妈是女儿",
+        "onboard_time": 1766117180,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361798,
+        "num": 297821,
+        "word": "柯淳说自己上次接吻是前几天",
+        "onboard_time": 1766119521,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296577,
+        "num": 296577,
+        "word": "洗澡前面部分的冷水我从来不浪费",
+        "onboard_time": 1766114662,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 290622,
+        "num": 290622,
+        "word": "曾艳芬曝聊天记录",
+        "onboard_time": 1766115382,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279791,
+        "num": 279791,
+        "word": "发明肉色秋裤的人你赢了",
+        "onboard_time": 1766116880,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269938,
+        "num": 269938,
+        "word": "建议气血不足的人都要像猫一样生活",
+        "onboard_time": 1766107640,
+        "rank": 16,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 21699,
+        "num": 261695,
+        "word": "仇英江南春2001年以6800元价格卖出",
+        "onboard_time": 1766121740,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103753,
+        "num": 261458,
+        "word": "梁淞虚构了何美延的道歉信息",
+        "onboard_time": 1766121740,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157855,
+        "num": 261244,
+        "word": "柯淳被宁静查手机吓到脸都绿了",
+        "onboard_time": 1766121441,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261231,
+        "num": 261231,
+        "word": "何赛飞 我们这个年龄很可怜",
+        "onboard_time": 1766121201,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258089,
+        "num": 258089,
+        "word": "双轨啾咪图是倒放",
+        "onboard_time": 1766114361,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220638,
+        "num": 220638,
+        "word": "果然上班后看人的眼光会变",
+        "onboard_time": 1766115561,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206621,
+        "num": 206621,
+        "word": "虞书欣不知道何与闯了什么祸",
+        "onboard_time": 1766119041,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182631,
+        "num": 182631,
+        "word": "宋妍霏风格大变",
+        "onboard_time": 1766118261,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121285,
+        "num": 180170,
+        "word": "日本加息",
+        "onboard_time": 1766104700,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179427,
+        "num": 179427,
+        "word": "李飞的工位让刘耀文坐爽了",
+        "onboard_time": 1766115020,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179259,
+        "num": 179259,
+        "word": "殉职消防员何伟豪女友花圈放在中央",
+        "onboard_time": 1766117420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27625,
+        "num": 171494,
+        "word": "跨省传唤背后难解的家校纠纷",
+        "onboard_time": 1766120541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168666,
+        "num": 168666,
+        "word": "顾玉在步步惊心那老四老八都没戏了",
+        "onboard_time": 1766121020,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156155,
+        "num": 156155,
+        "word": "樊振东被记大功",
+        "onboard_time": 1766117480,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148083,
+        "num": 148083,
+        "word": "美术馆创始人称张凯毅老公更改展台",
+        "onboard_time": 1766120840,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141823,
+        "num": 141823,
+        "word": "日本战机又被激光照射",
+        "onboard_time": 1766109620,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140523,
+        "num": 140523,
+        "word": "梁淞找不出三条何美延的甜蜜信息",
+        "onboard_time": 1766121680,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139586,
+        "num": 139586,
+        "word": "找到黄子韬不爱联系徐艺洋的原因了",
+        "onboard_time": 1766118019,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139262,
+        "num": 139262,
+        "word": "当妈哪有不疯的这真疯了",
+        "onboard_time": 1766121622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128970,
+        "num": 128970,
+        "word": "湖人战胜爵士",
+        "onboard_time": 1766121921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72311,
+        "num": 124663,
+        "word": "刘宇宁骄阳似我OST",
+        "onboard_time": 1766120720,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 122505,
+        "word": "三亚新房成交均价3.1万每平方米",
+        "onboard_time": 1766121081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133330,
+        "num": 122473,
+        "word": "内娱有史以来最吵的癫综要来了",
+        "onboard_time": 1766118920,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123885,
+        "num": 122473,
+        "word": "终于有人在再见爱人打起来了",
+        "onboard_time": 1766119521,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122437,
+        "num": 122437,
+        "word": "没审美的人不许开花店",
+        "onboard_time": 1766121382,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119555,
+        "num": 119555,
+        "word": "尹子维妈妈拍的徐冬冬",
+        "onboard_time": 1766119402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115694,
+        "num": 115694,
+        "word": "国民党和民众党将提案弹劾赖清德",
+        "onboard_time": 1766115441,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115040,
+        "num": 115040,
+        "word": "黄一鸣直播女儿哭着求抱抱",
+        "onboard_time": 1766108000,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114594,
+        "num": 114594,
+        "word": "彭小苒 红气养人",
+        "onboard_time": 1766122100,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113128,
+        "num": 113128,
+        "word": "祝绪丹被顶光吓到失去表情管理",
+        "onboard_time": 1766119641,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110937,
+        "num": 110937,
+        "word": "樊振东获上海市体育事业重大贡献奖",
+        "onboard_time": 1766111000,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109890,
+        "num": 109890,
+        "word": "SNH48杨冰怡花路是自己走出来的",
+        "onboard_time": 1766117900,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100957,
+        "num": 108418,
+        "word": "小狗护主结果把主人咬了",
+        "onboard_time": 1766122040,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
