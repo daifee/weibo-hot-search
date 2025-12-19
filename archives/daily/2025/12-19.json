@@ -1,10 +1,10 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766137590776,
+  "endTime": 1766140332746,
   "band_list": [
     {
       "raw_hot": 1403363,
-      "num": 161300,
+      "num": 188543,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -25,6 +25,14 @@
       "onboard_time": 1766115980,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1148152,
+      "num": 948184,
+      "word": "第五人格前瞻",
+      "onboard_time": 1766137220,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 1089862,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 696954,
-      "num": 299119,
+      "num": 355235,
       "word": "乔任梁父母相继入院",
       "onboard_time": 1766131820,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 652778,
+      "num": 652778,
+      "word": "日本男子与上百名女性发生关系偷拍",
+      "onboard_time": 1766138180,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 648966,
       "num": 300384,
       "word": "向涵之汤唯是妈妈是女儿",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 586060,
-      "num": 586060,
+      "num": 860567,
       "word": "谢兴阳用AI复原了刘维妈妈",
       "onboard_time": 1766132600,
       "rank": 22,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 396231,
-      "num": 235473,
+      "num": 552641,
       "word": "罗永浩",
       "onboard_time": 1766135781,
       "rank": 6,
@@ -345,6 +361,14 @@
       "onboard_time": 1766115561,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 371707,
+      "num": 590577,
+      "word": "女子意外去世丈夫与岳父母争遗产",
+      "onboard_time": 1766134521,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361668,
@@ -467,8 +491,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295927,
+      "num": 295927,
+      "word": "青训破军战胜KSG",
+      "onboard_time": 1766138421,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293996,
-      "num": 182822,
+      "num": 281703,
       "word": "狙击蝴蝶开分6.8",
       "onboard_time": 1766136201,
       "rank": 12,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272077,
+      "num": 272077,
+      "word": "丝芭报警回执已不可见",
+      "onboard_time": 1766134761,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 266657,
       "num": 266657,
       "word": "李莎旻子拿迪丽热巴名字举例",
@@ -579,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251064,
-      "num": 182816,
-      "word": "丝芭报警回执已不可见",
-      "onboard_time": 1766134761,
-      "rank": 14,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 250602,
       "num": 182800,
       "word": "玉簟秋",
@@ -609,6 +641,14 @@
       "onboard_time": 1766067982,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 235884,
+      "num": 235884,
+      "word": "KSG对战破军",
+      "onboard_time": 1766135781,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 233120,
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200609,
+      "num": 1023349,
+      "word": "阿凡达",
+      "onboard_time": 1766117300,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200090,
       "num": 180854,
       "word": "黄豆酱放282克黄金送骗子",
@@ -739,20 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197493,
+      "num": 197493,
+      "word": "刘晓庆的骨密度居然和年轻人一样",
+      "onboard_time": 1766139080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196319,
+      "num": 393685,
+      "word": "孙颖莎能量人物推荐值破1000万",
+      "onboard_time": 1766128220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "张艺兴时装男士十二月刊封面",
       "onboard_time": 1766119102,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 194918,
-      "num": 309543,
-      "word": "阿凡达",
-      "onboard_time": 1766117300,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 194715,
@@ -785,14 +841,6 @@
       "onboard_time": 1766110461,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190911,
-      "num": 190911,
-      "word": "KSG对战破军",
-      "onboard_time": 1766135781,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 190672,
@@ -859,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185209,
+      "num": 185209,
+      "word": "王东称21岁儿子智商停留在11岁",
+      "onboard_time": 1766139023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184815,
       "num": 184815,
       "word": "宣璐一年6部戏演爽了",
       "onboard_time": 1766112260,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183522,
+      "num": 183522,
+      "word": "日团体请求访华未获回复",
+      "onboard_time": 1766138421,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183376,
@@ -881,14 +945,6 @@
       "onboard_time": 1766067381,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182846,
-      "num": 306052,
-      "word": "孙颖莎能量人物推荐值破1000万",
-      "onboard_time": 1766128220,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 179119,
@@ -1003,6 +1059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 160354,
+      "num": 491534,
+      "word": "武装台湾将面临严重后果",
+      "onboard_time": 1766133319,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159568,
       "num": 176792,
       "word": "夜色里的第二人生",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1766102299,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156490,
+      "num": 135069,
+      "word": "Faker手机掉湖里了",
+      "onboard_time": 1766139440,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 156486,
@@ -1115,28 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151319,
-      "num": 157569,
-      "word": "武装台湾将面临严重后果",
-      "onboard_time": 1766133319,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151187,
       "num": 151187,
       "word": "樊振东获上海市体育事业重大贡献奖",
       "onboard_time": 1766111000,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149425,
-      "num": 149425,
-      "word": "女子意外去世丈夫与岳父母争遗产",
-      "onboard_time": 1766134521,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148495,
@@ -1171,12 +1227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143866,
+      "num": 143866,
+      "word": "唐诡奇谭",
+      "onboard_time": 1766134340,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143849,
       "num": 143849,
       "word": "樊振东欧冠首秀或将迎战残奥冠军",
       "onboard_time": 1766119821,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143244,
+      "num": 143244,
+      "word": "2025王者荣耀挑战者杯",
+      "onboard_time": 1766139260,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 142875,
@@ -1379,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127152,
+      "num": 127152,
+      "word": "王鹤棣刘耀文蒸桑拿",
+      "onboard_time": 1766140039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126978,
       "num": 126978,
       "word": "考研的心从未如此强烈过",
@@ -1393,6 +1473,14 @@
       "onboard_time": 1766133141,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126294,
+      "num": 126294,
+      "word": "三观不太正的人说话好像在录口供",
+      "onboard_time": 1766135481,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 125121,
@@ -1475,20 +1563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122540,
-      "num": 122540,
-      "word": "第五人格前瞻",
-      "onboard_time": 1766137220,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122505,
       "num": 122505,
       "word": "三亚新房成交均价3.1万每平方米",
       "onboard_time": 1766121081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120541,
+      "num": 120541,
+      "word": "桃黑黑美团吃了20w",
+      "onboard_time": 1766139921,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 120364,
@@ -1585,14 +1673,6 @@
       "onboard_time": 1766135240,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115104,
-      "num": 115104,
-      "word": "唐诡奇谭",
-      "onboard_time": 1766134340,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 115012,
@@ -1699,6 +1779,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 109134,
+      "num": 109134,
+      "word": "酒店回应枕头用10年睡到干净的是幸运",
+      "onboard_time": 1766138421,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109064,
+      "num": 109064,
+      "word": "离别前最后一面是分手",
+      "onboard_time": 1766139859,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108993,
       "num": 144197,
       "word": "马嘉祺第一首OST",
@@ -1803,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102690,
+      "num": 102690,
+      "word": "长安二十四计",
+      "onboard_time": 1766140160,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102605,
       "num": 102605,
       "word": "谢娜和蓝羽也太美了吧",
@@ -1817,6 +1921,14 @@
       "onboard_time": 1766124200,
       "rank": 42,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 102050,
+      "num": 102050,
+      "word": "王鹤棣直播",
+      "onboard_time": 1766138540,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 101459,
@@ -1899,6 +2011,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 97743,
+      "num": 97743,
+      "word": "千万别被巴黎世家发现了",
+      "onboard_time": 1766138000,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97264,
       "num": 97264,
       "word": "刹车失灵狂奔490公里司机发声",
@@ -1939,14 +2059,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 93974,
-      "num": 93974,
-      "word": "三观不太正的人说话好像在录口供",
-      "onboard_time": 1766135481,
-      "rank": 49,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 93719,
       "num": 87962,
       "word": "国盾量子董事长意外去世",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1766117961,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93251,
+      "num": 93251,
+      "word": "情绪惯性 重塑长相",
+      "onboard_time": 1766140220,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 92555,
@@ -2033,6 +2153,14 @@
       "onboard_time": 1766061863,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87318,
+      "num": 87318,
+      "word": "无言好C",
+      "onboard_time": 1766139620,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 86910,
@@ -2145,6 +2273,14 @@
       "onboard_time": 1766116762,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 81473,
+      "num": 102933,
+      "word": "12岁女孩患怪病上学发烧放学退烧",
+      "onboard_time": 1766139080,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81199,
@@ -2305,6 +2441,14 @@
       "onboard_time": 1766065642,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62678,
+      "num": 168742,
+      "word": "女子被撞身亡家属质疑交警不跨区施救",
+      "onboard_time": 1766138899,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61900,
@@ -2691,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31457,
+      "num": 190114,
+      "word": "杨迪说素颜照只敢发给阿福看",
+      "onboard_time": 1766138899,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30095,
       "num": 107249,
       "word": "最省钱的打工人坐绿皮火车通勤",
@@ -2721,6 +2873,14 @@
       "onboard_time": 1766117059,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29099,
+      "num": 135602,
+      "word": "贵州向全国发出冬日邀请函",
+      "onboard_time": 1766140101,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28982,
@@ -2763,8 +2923,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 25755,
-      "num": 766544,
+      "raw_hot": 26452,
+      "num": 992207,
       "word": "一站式打卡全球好物",
       "onboard_time": 1766134820,
       "rank": 2,
@@ -2977,6 +3137,14 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8944,
+      "num": 103338,
+      "word": "首批买老破小的人快被装修掏空了",
+      "onboard_time": 1766139979,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
