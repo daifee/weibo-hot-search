@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766144415561,
+  "endTime": 1766148945138,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -73,6 +73,14 @@
       "onboard_time": 1765675280,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2935158,
+      "num": 203464,
+      "word": "吃吃子晗分手",
+      "onboard_time": 1766145201,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2357925,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1403363,
-      "num": 188543,
+      "num": 195098,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1038164,
-      "num": 174898,
+      "num": 200924,
       "word": "桃黑黑美团吃了20w",
       "onboard_time": 1766139921,
       "rank": 34,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571972,
+      "num": 1091515,
+      "word": "骄阳似我",
+      "onboard_time": 1765768280,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570701,
       "num": 570701,
       "word": "生育成本社会共担来了",
@@ -2355,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 450876,
-      "num": 450876,
-      "word": "骄阳似我",
-      "onboard_time": 1765768280,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 449448,
       "num": 449448,
       "word": "狙击蝴蝶",
@@ -2380,7 +2388,7 @@
     },
     {
       "raw_hot": 446531,
-      "num": 189653,
+      "num": 237246,
       "word": "姜暮下跪",
       "onboard_time": 1766142801,
       "rank": 14,
@@ -3995,6 +4003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 301278,
+      "num": 237670,
+      "word": "东方卫视跨年阵容太拼了",
+      "onboard_time": 1766146279,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300902,
       "num": 135709,
       "word": "万青",
@@ -4033,6 +4049,14 @@
       "onboard_time": 1765702883,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299202,
+      "num": 237526,
+      "word": "绝区零",
+      "onboard_time": 1766147542,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 298799,
@@ -4899,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256076,
+      "num": 256076,
+      "word": "骄阳似我定档1222",
+      "onboard_time": 1766147120,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255973,
       "num": 255973,
       "word": "王俊凯抹眼泪",
@@ -5227,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237241,
+      "num": 237241,
+      "word": "羊了个羊 简单",
+      "onboard_time": 1766146400,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235884,
       "num": 235884,
       "word": "KSG对战破军",
@@ -5281,6 +5321,14 @@
       "onboard_time": 1765868723,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233136,
+      "num": 233136,
+      "word": "分开十年在一起七天又分开六年",
+      "onboard_time": 1766143761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 233120,
@@ -5939,6 +5987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210393,
+      "num": 210393,
+      "word": "zwy教练",
+      "onboard_time": 1766145800,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209598,
       "num": 209598,
       "word": "何美延梁淞厕所事件",
@@ -6363,6 +6419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201875,
+      "num": 166203,
+      "word": "黄朔房间",
+      "onboard_time": 1766148201,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201617,
       "num": 198565,
       "word": "国剧盛典直播",
@@ -6496,6 +6560,14 @@
       "word": "南博",
       "onboard_time": 1766020280,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198833,
+      "num": 237772,
+      "word": "台北车站袭击案已致2死7伤3危",
+      "onboard_time": 1766144960,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6915,6 +6987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191201,
+      "num": 191201,
+      "word": "天津股侠",
+      "onboard_time": 1766143822,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191042,
       "num": 132828,
       "word": "邓亚萍郭晶晶同框了",
@@ -7049,6 +7129,22 @@
       "onboard_time": 1765676480,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189070,
+      "num": 189070,
+      "word": "杨紫直播",
+      "onboard_time": 1766148859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189039,
+      "num": 237460,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 189032,
@@ -7283,6 +7379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185506,
+      "num": 197224,
+      "word": "邵子恒一句话得罪5个艺人",
+      "onboard_time": 1766146941,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185454,
       "num": 185454,
       "word": "满江红2原班人马",
@@ -7465,6 +7569,14 @@
       "onboard_time": 1766125820,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182642,
+      "num": 270178,
+      "word": "冬至",
+      "onboard_time": 1766146400,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182639,
@@ -7659,6 +7771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178240,
+      "num": 178240,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178229,
       "num": 178229,
       "word": "2025乒乓球国际赛事已全部结束",
@@ -7769,14 +7889,6 @@
       "onboard_time": 1765950560,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176007,
-      "num": 176007,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 176003,
@@ -7904,6 +8016,14 @@
       "word": "92年宝妈产后腹直肌严重分离",
       "onboard_time": 1766136501,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172842,
+      "num": 172842,
+      "word": "婚后8个月女方私自流产男方求退彩礼",
+      "onboard_time": 1766145679,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -8339,6 +8459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163162,
+      "num": 209024,
+      "word": "台北车站袭击案",
+      "onboard_time": 1766145501,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163148,
       "num": 188696,
       "word": "别让小洛熙的通报成为二次伤害",
@@ -8384,6 +8512,14 @@
       "word": "AG 团结",
       "onboard_time": 1765713324,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161726,
+      "num": 161726,
+      "word": "AG剧透",
+      "onboard_time": 1766146400,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -8953,6 +9089,14 @@
       "onboard_time": 1765948162,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154357,
+      "num": 205833,
+      "word": "台北车站袭击案嫌犯坠楼",
+      "onboard_time": 1766147000,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 154351,
@@ -9659,6 +9803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143668,
+      "num": 143668,
+      "word": "2025中国体育填空题",
+      "onboard_time": 1766148501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "原神那维莱特",
@@ -9889,6 +10041,14 @@
       "onboard_time": 1765794383,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140008,
+      "num": 140008,
+      "word": "Faker与T1队友为Gumayusi献花",
+      "onboard_time": 1766148201,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 139882,
@@ -10315,6 +10475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135289,
+      "num": 162135,
+      "word": "男子晒妻子一次囤4000多包抽纸",
+      "onboard_time": 1766147542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135271,
       "num": 135271,
       "word": "东北室内外的温度差有多大",
@@ -10473,6 +10641,14 @@
       "onboard_time": 1765972341,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "微博之夜",
+      "onboard_time": 1766144780,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133607,
@@ -10689,14 +10865,6 @@
       "onboard_time": 1766040142,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 132236,
-      "num": 132236,
-      "word": "分开十年在一起七天又分开六年",
-      "onboard_time": 1766143761,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 132223,
@@ -12315,6 +12483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116936,
+      "num": 116936,
+      "word": "第五人格有兽焉",
+      "onboard_time": 1766144780,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116815,
       "num": 122041,
       "word": "香港打击街头卖淫",
@@ -12683,6 +12859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114164,
+      "num": 114164,
+      "word": "迅猛龙获得奖学金",
+      "onboard_time": 1766148680,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114131,
       "num": 114131,
       "word": "谁在纵容4400万粉丝网红擦边直播",
@@ -12737,6 +12921,14 @@
       "onboard_time": 1765965202,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 113968,
+      "word": "高相下线",
+      "onboard_time": 1766148560,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 113911,
@@ -12881,6 +13073,14 @@
       "onboard_time": 1766122581,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112625,
+      "num": 112625,
+      "word": "小米汽车获L3级自动驾驶路测牌照",
+      "onboard_time": 1766145501,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 112554,
@@ -13121,6 +13321,14 @@
       "onboard_time": 1765780642,
       "rank": 48,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 110874,
+      "num": 167200,
+      "word": "部分文科考研要考数学了",
+      "onboard_time": 1766148020,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 110847,
@@ -13387,6 +13595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108401,
+      "num": 108401,
+      "word": "长安二十四计每个配角都虐我",
+      "onboard_time": 1766148622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "正式确诊为杂圈人",
@@ -13500,7 +13716,7 @@
     },
     {
       "raw_hot": 107308,
-      "num": 174496,
+      "num": 237890,
       "word": "KPL",
       "onboard_time": 1766129899,
       "rank": 41,
@@ -13625,14 +13841,6 @@
       "onboard_time": 1766123900,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105744,
-      "num": 105744,
-      "word": "天津股侠",
-      "onboard_time": 1766143822,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 105737,
@@ -13961,6 +14169,14 @@
       "onboard_time": 1766045061,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102721,
+      "num": 112797,
+      "word": "暮暮朝朝明明差一点就可以幸福了",
+      "onboard_time": 1766147481,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 102691,
@@ -15651,6 +15867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90377,
+      "num": 113237,
+      "word": "女子冒用闺蜜身份生了个孩子",
+      "onboard_time": 1766146700,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90218,
       "num": 90218,
       "word": "樊振东瘦了很多",
@@ -16321,6 +16545,14 @@
       "onboard_time": 1766138899,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83125,
+      "num": 133088,
+      "word": "向佐首谈弟弟向佑",
+      "onboard_time": 1766148441,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 83118,
@@ -19265,6 +19497,14 @@
       "onboard_time": 1765949541,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39812,
+      "num": 132893,
+      "word": "别人还在举杯 王安宇已经空杯了",
+      "onboard_time": 1766148560,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 39672,

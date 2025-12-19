@@ -1,10 +1,18 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766144415561,
+  "endTime": 1766148945138,
   "band_list": [
     {
+      "raw_hot": 2935158,
+      "num": 203464,
+      "word": "吃吃子晗分手",
+      "onboard_time": 1766145201,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1403363,
-      "num": 188543,
+      "num": 195098,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1038164,
-      "num": 174898,
+      "num": 200924,
       "word": "桃黑黑美团吃了20w",
       "onboard_time": 1766139921,
       "rank": 34,
@@ -147,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 571972,
+      "num": 1091515,
+      "word": "骄阳似我",
+      "onboard_time": 1766102059,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567270,
       "num": 193614,
       "word": "梁淞删何美延好友",
@@ -235,16 +251,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 450876,
-      "num": 450876,
-      "word": "骄阳似我",
-      "onboard_time": 1766102059,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 446531,
-      "num": 189653,
+      "num": 237246,
       "word": "姜暮下跪",
       "onboard_time": 1766142801,
       "rank": 14,
@@ -515,12 +523,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 301278,
+      "num": 237670,
+      "word": "东方卫视跨年阵容太拼了",
+      "onboard_time": 1766146279,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300211,
       "num": 300211,
       "word": "南京博物院",
       "onboard_time": 1766109799,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299202,
+      "num": 237526,
+      "word": "绝区零",
+      "onboard_time": 1766147542,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 298445,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256076,
+      "num": 256076,
+      "word": "骄阳似我定档1222",
+      "onboard_time": 1766147120,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251705,
       "num": 245474,
       "word": "宋妍霏风格大变",
@@ -683,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 237241,
+      "num": 237241,
+      "word": "羊了个羊 简单",
+      "onboard_time": 1766146400,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235884,
       "num": 235884,
       "word": "KSG对战破军",
@@ -697,6 +737,14 @@
       "onboard_time": 1766142380,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233136,
+      "num": 233136,
+      "word": "分开十年在一起七天又分开六年",
+      "onboard_time": 1766143761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 233120,
@@ -771,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210393,
+      "num": 210393,
+      "word": "zwy教练",
+      "onboard_time": 1766145800,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205719,
       "num": 189061,
       "word": "周五晚高疯",
@@ -785,6 +841,14 @@
       "onboard_time": 1766128220,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201875,
+      "num": 166203,
+      "word": "黄朔房间",
+      "onboard_time": 1766148201,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 201496,
@@ -825,6 +889,14 @@
       "onboard_time": 1766119402,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198833,
+      "num": 237772,
+      "word": "台北车站袭击案已致2死7伤3危",
+      "onboard_time": 1766144960,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198621,
@@ -891,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191201,
+      "num": 191201,
+      "word": "天津股侠",
+      "onboard_time": 1766143822,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190672,
       "num": 190672,
       "word": "喀纳斯景区通报一人被埋身亡",
@@ -905,6 +985,22 @@
       "onboard_time": 1766118861,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189070,
+      "num": 189070,
+      "word": "杨紫直播",
+      "onboard_time": 1766148859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189039,
+      "num": 237460,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 188893,
@@ -945,6 +1041,14 @@
       "onboard_time": 1766109920,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185506,
+      "num": 197224,
+      "word": "邵子恒一句话得罪5个艺人",
+      "onboard_time": 1766146941,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 185340,
@@ -995,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182642,
+      "num": 270178,
+      "word": "冬至",
+      "onboard_time": 1766146400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "网剧星光成为第一部换脸短剧",
@@ -1019,20 +1131,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178240,
+      "num": 178240,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176710,
       "num": 176710,
       "word": "王一博你的跨年摩托后继有人了",
       "onboard_time": 1766116460,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176007,
-      "num": 176007,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 175522,
@@ -1048,6 +1160,14 @@
       "word": "92年宝妈产后腹直肌严重分离",
       "onboard_time": 1766136501,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172842,
+      "num": 172842,
+      "word": "婚后8个月女方私自流产男方求退彩礼",
+      "onboard_time": 1766145679,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1123,12 +1243,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 163162,
+      "num": 209024,
+      "word": "台北车站袭击案",
+      "onboard_time": 1766145501,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "好神金的提示语害我莫名笑出声",
       "onboard_time": 1766118801,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 161726,
+      "num": 161726,
+      "word": "AG剧透",
+      "onboard_time": 1766146400,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 161302,
@@ -1251,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154357,
+      "num": 205833,
+      "word": "台北车站袭击案嫌犯坠楼",
+      "onboard_time": 1766147000,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 154295,
       "num": 154295,
       "word": "SNH48杨冰怡花路是自己走出来的",
@@ -1347,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143668,
+      "num": 143668,
+      "word": "2025中国体育填空题",
+      "onboard_time": 1766148501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143244,
       "num": 143244,
       "word": "2025王者荣耀挑战者杯",
@@ -1403,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140008,
+      "num": 140008,
+      "word": "Faker与T1队友为Gumayusi献花",
+      "onboard_time": 1766148201,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139262,
       "num": 139262,
       "word": "当妈哪有不疯的这真疯了",
@@ -1425,6 +1585,14 @@
       "onboard_time": 1766114840,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135289,
+      "num": 162135,
+      "word": "男子晒妻子一次囤4000多包抽纸",
+      "onboard_time": 1766147542,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135184,
@@ -1475,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "微博之夜",
+      "onboard_time": 1766144780,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133607,
       "num": 133607,
       "word": "内娱短剧已经发展成这样了吗",
@@ -1505,14 +1681,6 @@
       "onboard_time": 1766114901,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132236,
-      "num": 132236,
-      "word": "分开十年在一起七天又分开六年",
-      "onboard_time": 1766143761,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 131814,
@@ -1803,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116936,
+      "num": 116936,
+      "word": "第五人格有兽焉",
+      "onboard_time": 1766144780,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116652,
       "num": 116652,
       "word": "严浩翔 水冰月塑",
@@ -1859,6 +2035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114164,
+      "num": 114164,
+      "word": "迅猛龙获得奖学金",
+      "onboard_time": 1766148680,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 113968,
+      "word": "高相下线",
+      "onboard_time": 1766148560,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113220,
       "num": 139973,
       "word": "崩坏星穹铁道超话",
@@ -1881,6 +2073,14 @@
       "onboard_time": 1766122581,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112625,
+      "num": 112625,
+      "word": "小米汽车获L3级自动驾驶路测牌照",
+      "onboard_time": 1766145501,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 112340,
@@ -1913,6 +2113,14 @@
       "onboard_time": 1766099958,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110874,
+      "num": 167200,
+      "word": "部分文科考研要考数学了",
+      "onboard_time": 1766148020,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 110431,
@@ -1979,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108401,
+      "num": 108401,
+      "word": "长安二十四计每个配角都虐我",
+      "onboard_time": 1766148622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "刘耀文脸罩",
@@ -2004,7 +2220,7 @@
     },
     {
       "raw_hot": 107308,
-      "num": 174496,
+      "num": 237890,
       "word": "KPL",
       "onboard_time": 1766129899,
       "rank": 41,
@@ -2041,14 +2257,6 @@
       "onboard_time": 1766123900,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105744,
-      "num": 105744,
-      "word": "天津股侠",
-      "onboard_time": 1766143822,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 105332,
@@ -2105,6 +2313,14 @@
       "onboard_time": 1766142979,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102721,
+      "num": 112797,
+      "word": "暮暮朝朝明明差一点就可以幸福了",
+      "onboard_time": 1766147481,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 102690,
@@ -2347,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90377,
+      "num": 113237,
+      "word": "女子冒用闺蜜身份生了个孩子",
+      "onboard_time": 1766146700,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90321,
       "num": 126360,
       "word": "再见爱人",
@@ -2521,6 +2745,14 @@
       "onboard_time": 1766138899,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83125,
+      "num": 133088,
+      "word": "向佐首谈弟弟向佑",
+      "onboard_time": 1766148441,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 82864,
@@ -3035,6 +3267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 39812,
+      "num": 132893,
+      "word": "别人还在举杯 王安宇已经空杯了",
+      "onboard_time": 1766148560,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39369,
       "num": 50698,
       "word": "樊振东持续带火欧洲乒乓球市场",
@@ -3439,6 +3679,9 @@
     },
     {
       "word": "#总书记擘画海南自贸港建设图景#"
+    },
+    {
+      "word": "#重温总书记谈改革开放的这番话#"
     }
   ]
 }
