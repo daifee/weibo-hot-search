@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766148945138,
+  "endTime": 1766149862789,
   "band_list": [
     {
       "raw_hot": 2935158,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1403363,
-      "num": 195098,
+      "num": 196565,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -395,12 +395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379373,
+      "num": 237670,
+      "word": "东方卫视跨年阵容太拼了",
+      "onboard_time": 1766146279,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377712,
+      "num": 271952,
+      "word": "台北车站袭击案已致2死7伤3危",
+      "onboard_time": 1766144960,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377547,
       "num": 248250,
       "word": "果然上班后看人的眼光会变",
       "onboard_time": 1766115561,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 372974,
+      "num": 212403,
+      "word": "杨紫直播",
+      "onboard_time": 1766148859,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 371707,
@@ -523,14 +547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 301278,
-      "num": 237670,
-      "word": "东方卫视跨年阵容太拼了",
-      "onboard_time": 1766146279,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300211,
       "num": 300211,
       "word": "南京博物院",
@@ -593,6 +609,14 @@
       "onboard_time": 1766118019,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286153,
+      "num": 286153,
+      "word": "骄阳似我定档1222",
+      "onboard_time": 1766147120,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 283541,
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256076,
-      "num": 256076,
-      "word": "骄阳似我定档1222",
-      "onboard_time": 1766147120,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251705,
       "num": 245474,
       "word": "宋妍霏风格大变",
@@ -697,6 +713,14 @@
       "onboard_time": 1766135120,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250554,
+      "num": 204987,
+      "word": "向佐首谈弟弟向佑",
+      "onboard_time": 1766148441,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 242462,
@@ -739,7 +763,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233136,
+      "raw_hot": 234717,
       "num": 233136,
       "word": "分开十年在一起七天又分开六年",
       "onboard_time": 1766143761,
@@ -787,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223151,
+      "num": 223151,
+      "word": "台北车站袭击案",
+      "onboard_time": 1766145501,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222622,
       "num": 188014,
       "word": "71岁奶奶撸铁4年练出少女背",
@@ -827,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207133,
+      "num": 187104,
+      "word": "黄朔房间",
+      "onboard_time": 1766148201,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205719,
       "num": 189061,
       "word": "周五晚高疯",
@@ -841,14 +881,6 @@
       "onboard_time": 1766128220,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201875,
-      "num": 166203,
-      "word": "黄朔房间",
-      "onboard_time": 1766148201,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201496,
@@ -889,14 +921,6 @@
       "onboard_time": 1766119402,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198833,
-      "num": 237772,
-      "word": "台北车站袭击案已致2死7伤3危",
-      "onboard_time": 1766144960,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198621,
@@ -987,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189070,
-      "num": 189070,
-      "word": "杨紫直播",
-      "onboard_time": 1766148859,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 189598,
+      "num": 318254,
+      "word": "台北伤人者跳楼身亡",
+      "onboard_time": 1766147000,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 189039,
@@ -1243,14 +1267,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 163162,
-      "num": 209024,
-      "word": "台北车站袭击案",
-      "onboard_time": 1766145501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "好神金的提示语害我莫名笑出声",
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 149505,
-      "num": 149505,
+      "num": 211616,
       "word": "KBS直播",
       "onboard_time": 1766140340,
       "rank": 27,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1766118623,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144273,
+      "num": 144273,
+      "word": "迅猛龙获得奖学金",
+      "onboard_time": 1766148680,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 144081,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1766108300,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142597,
+      "num": 142597,
+      "word": "心动的信号",
+      "onboard_time": 1766149520,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 142169,
@@ -1588,7 +1620,7 @@
     },
     {
       "raw_hot": 135289,
-      "num": 162135,
+      "num": 171262,
       "word": "男子晒妻子一次囤4000多包抽纸",
       "onboard_time": 1766147542,
       "rank": 31,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1766114901,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131949,
+      "num": 171049,
+      "word": "部分文科考研要考数学了",
+      "onboard_time": 1766148020,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 131814,
@@ -1995,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1766122100,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114164,
-      "num": 114164,
-      "word": "迅猛龙获得奖学金",
-      "onboard_time": 1766148680,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 113968,
@@ -2115,20 +2155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110874,
-      "num": 167200,
-      "word": "部分文科考研要考数学了",
-      "onboard_time": 1766148020,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 110431,
       "num": 110431,
       "word": "因为穷染上了新疆人的化妆品",
       "onboard_time": 1766064381,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "吃吃子晗分手原因",
+      "onboard_time": 1766149820,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110292,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1766108600,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 109163,
+      "num": 109163,
+      "word": "长安二十四计每个配角都虐我",
+      "onboard_time": 1766148622,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109134,
@@ -2187,20 +2235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108401,
-      "num": 108401,
-      "word": "长安二十四计每个配角都虐我",
-      "onboard_time": 1766148622,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "刘耀文脸罩",
       "onboard_time": 1766129001,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108028,
+      "num": 136687,
+      "word": "陈妍希 你的礼物在十年后",
+      "onboard_time": 1766149640,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 107915,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1766075959,
       "rank": 43,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 97807,
+      "num": 113640,
+      "word": "得闲谨制",
+      "onboard_time": 1766148081,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 97743,
@@ -2747,14 +2803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83125,
-      "num": 133088,
-      "word": "向佐首谈弟弟向佑",
-      "onboard_time": 1766148441,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82864,
       "num": 82864,
       "word": "张凌赫身上淡淡的苏感",
@@ -2793,6 +2841,14 @@
       "onboard_time": 1766108419,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80155,
+      "num": 132893,
+      "word": "别人还在举杯 王安宇已经空杯了",
+      "onboard_time": 1766148560,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 79864,
@@ -3267,14 +3323,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 39812,
-      "num": 132893,
-      "word": "别人还在举杯 王安宇已经空杯了",
-      "onboard_time": 1766148560,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39369,
       "num": 50698,
       "word": "樊振东持续带火欧洲乒乓球市场",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1766067021,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38139,
+      "num": 138540,
+      "word": "徐冬冬尹子维婚礼饮料是椰汁",
+      "onboard_time": 1766149762,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 37353,
@@ -3449,6 +3505,14 @@
       "onboard_time": 1766128161,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25114,
+      "num": 194444,
+      "word": "多省份发布2026考研初试考前提示",
+      "onboard_time": 1766134580,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 24801,
@@ -3665,6 +3729,14 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8720,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

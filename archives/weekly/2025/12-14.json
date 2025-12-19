@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766148945138,
+  "endTime": 1766149862789,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1403363,
-      "num": 195098,
+      "num": 196565,
       "word": "黄磊孙莉二女儿颜值",
       "onboard_time": 1766134400,
       "rank": 20,
@@ -3059,12 +3059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379373,
+      "num": 237670,
+      "word": "东方卫视跨年阵容太拼了",
+      "onboard_time": 1766146279,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378556,
       "num": 231809,
       "word": "以前审美vs现在审美",
       "onboard_time": 1765758321,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377712,
+      "num": 271952,
+      "word": "台北车站袭击案已致2死7伤3危",
+      "onboard_time": 1766144960,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377547,
@@ -3105,6 +3121,14 @@
       "onboard_time": 1765675761,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372974,
+      "num": 212403,
+      "word": "杨紫直播",
+      "onboard_time": 1766148859,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 372866,
@@ -4003,14 +4027,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 301278,
-      "num": 237670,
-      "word": "东方卫视跨年阵容太拼了",
-      "onboard_time": 1766146279,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300902,
       "num": 135709,
       "word": "万青",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1765714104,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286153,
+      "num": 286153,
+      "word": "骄阳似我定档1222",
+      "onboard_time": 1766147120,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 285975,
@@ -4923,14 +4947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256076,
-      "num": 256076,
-      "word": "骄阳似我定档1222",
-      "onboard_time": 1766147120,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255973,
       "num": 255973,
       "word": "王俊凯抹眼泪",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1766135120,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250554,
+      "num": 204987,
+      "word": "向佐首谈弟弟向佑",
+      "onboard_time": 1766148441,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 250214,
@@ -5307,6 +5331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234717,
+      "num": 233136,
+      "word": "分开十年在一起七天又分开六年",
+      "onboard_time": 1766143761,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234214,
       "num": 188771,
       "word": "摆摊卖大残蟹被人砸摊日入5000",
@@ -5321,14 +5353,6 @@
       "onboard_time": 1765868723,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233136,
-      "num": 233136,
-      "word": "分开十年在一起七天又分开六年",
-      "onboard_time": 1766143761,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 233120,
@@ -5584,6 +5608,14 @@
       "word": "警务人员开警车接送孩子被停职",
       "onboard_time": 1765982062,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223151,
+      "num": 223151,
+      "word": "台北车站袭击案",
+      "onboard_time": 1766145501,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6107,6 +6139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207133,
+      "num": 187104,
+      "word": "黄朔房间",
+      "onboard_time": 1766148201,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206840,
       "num": 206840,
       "word": "周柯宇 哪来的",
@@ -6419,14 +6459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201875,
-      "num": 166203,
-      "word": "黄朔房间",
-      "onboard_time": 1766148201,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201617,
       "num": 198565,
       "word": "国剧盛典直播",
@@ -6560,14 +6592,6 @@
       "word": "南博",
       "onboard_time": 1766020280,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198833,
-      "num": 237772,
-      "word": "台北车站袭击案已致2死7伤3危",
-      "onboard_time": 1766144960,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7091,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189598,
+      "num": 318254,
+      "word": "台北伤人者跳楼身亡",
+      "onboard_time": 1766147000,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 189341,
       "num": 189341,
       "word": "光明网 李沛恩新歌",
@@ -7129,14 +7161,6 @@
       "onboard_time": 1765676480,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189070,
-      "num": 189070,
-      "word": "杨紫直播",
-      "onboard_time": 1766148859,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 189039,
@@ -8459,14 +8483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163162,
-      "num": 209024,
-      "word": "台北车站袭击案",
-      "onboard_time": 1766145501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163148,
       "num": 188696,
       "word": "别让小洛熙的通报成为二次伤害",
@@ -9396,7 +9412,7 @@
     },
     {
       "raw_hot": 149505,
-      "num": 149505,
+      "num": 211616,
       "word": "KBS直播",
       "onboard_time": 1766140340,
       "rank": 27,
@@ -9747,6 +9763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144273,
+      "num": 144273,
+      "word": "迅猛龙获得奖学金",
+      "onboard_time": 1766148680,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144228,
       "num": 144228,
       "word": "时代少年团七个男人抱一圈",
@@ -9889,6 +9913,14 @@
       "onboard_time": 1765971200,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142597,
+      "num": 142597,
+      "word": "心动的信号",
+      "onboard_time": 1766149520,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 142510,
@@ -10476,7 +10508,7 @@
     },
     {
       "raw_hot": 135289,
-      "num": 162135,
+      "num": 171262,
       "word": "男子晒妻子一次囤4000多包抽纸",
       "onboard_time": 1766147542,
       "rank": 31,
@@ -10897,6 +10929,14 @@
       "onboard_time": 1765724423,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131949,
+      "num": 171049,
+      "word": "部分文科考研要考数学了",
+      "onboard_time": 1766148020,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 131917,
@@ -12651,6 +12691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -12857,14 +12905,6 @@
       "onboard_time": 1765866501,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 114164,
-      "num": 114164,
-      "word": "迅猛龙获得奖学金",
-      "onboard_time": 1766148680,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 114131,
@@ -13323,14 +13363,6 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 110874,
-      "num": 167200,
-      "word": "部分文科考研要考数学了",
-      "onboard_time": 1766148020,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 110847,
       "num": 134712,
       "word": "自闭症男童苍山遇难父母现状",
@@ -13361,6 +13393,14 @@
       "onboard_time": 1765715724,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "吃吃子晗分手原因",
+      "onboard_time": 1766149820,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110413,
@@ -13483,6 +13523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109163,
+      "num": 109163,
+      "word": "长安二十四计每个配角都虐我",
+      "onboard_time": 1766148622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109138,
       "num": 109138,
       "word": "发现好多人都不会聊天",
@@ -13595,14 +13643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108401,
-      "num": 108401,
-      "word": "长安二十四计每个配角都虐我",
-      "onboard_time": 1766148622,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "正式确诊为杂圈人",
@@ -13625,6 +13665,14 @@
       "onboard_time": 1765866021,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 108028,
+      "num": 136687,
+      "word": "陈妍希 你的礼物在十年后",
+      "onboard_time": 1766149640,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 107915,
@@ -14881,6 +14929,14 @@
       "onboard_time": 1766054301,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97807,
+      "num": 113640,
+      "word": "得闲谨制",
+      "onboard_time": 1766148081,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 97773,
@@ -16547,14 +16603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83125,
-      "num": 133088,
-      "word": "向佐首谈弟弟向佑",
-      "onboard_time": 1766148441,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83118,
       "num": 83118,
       "word": "广西启动应急机制处置假陈皮",
@@ -16889,6 +16937,14 @@
       "onboard_time": 1765931482,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80155,
+      "num": 132893,
+      "word": "别人还在举杯 王安宇已经空杯了",
+      "onboard_time": 1766148560,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80077,
@@ -19499,14 +19555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39812,
-      "num": 132893,
-      "word": "别人还在举杯 王安宇已经空杯了",
-      "onboard_time": 1766148560,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39672,
       "num": 51106,
       "word": "小黄豆新家暖房着火",
@@ -19649,6 +19697,14 @@
       "onboard_time": 1765646896,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38139,
+      "num": 138540,
+      "word": "徐冬冬尹子维婚礼饮料是椰汁",
+      "onboard_time": 1766149762,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 37949,
@@ -20899,6 +20955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25114,
+      "num": 194444,
+      "word": "多省份发布2026考研初试考前提示",
+      "onboard_time": 1766134580,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25103,
       "num": 301739,
       "word": "残特奥赛场故事值得更多人看见",
@@ -21881,6 +21945,14 @@
       "onboard_time": 1765805244,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8720,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 8711,
