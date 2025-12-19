@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766170383251,
+  "endTime": 1766172211397,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -67475,6 +67475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9653,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9596,
       "num": 109922,
       "word": "煎饼叔叔说恢复了请大家吃饼",
@@ -67529,14 +67537,6 @@
       "onboard_time": 1765805244,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8720,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 8711,
