@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766155645806,
+  "endTime": 1766158301220,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3802753,
+      "num": 294186,
+      "word": "小洛熙真相 只有一个3mm房缺",
+      "onboard_time": 1766156242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3640782,
       "num": 261435,
       "word": "汪苏泷 孩子",
@@ -65,6 +73,14 @@
       "onboard_time": 1765977921,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2990029,
+      "num": 582717,
+      "word": "小洛熙",
+      "onboard_time": 1765714643,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2943520,
@@ -145,6 +161,14 @@
       "onboard_time": 1765891401,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1651914,
+      "num": 577740,
+      "word": "WB战胜AG",
+      "onboard_time": 1766156542,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1632817,
@@ -233,6 +257,14 @@
       "onboard_time": 1765929680,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1278255,
+      "num": 534626,
+      "word": "演唱会出轨门",
+      "onboard_time": 1766149460,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1259828,
@@ -401,14 +433,6 @@
       "onboard_time": 1765954822,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1040243,
-      "num": 500719,
-      "word": "演唱会出轨门",
-      "onboard_time": 1766149460,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1038164,
@@ -777,6 +801,22 @@
       "onboard_time": 1766052799,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 800117,
+      "num": 1128018,
+      "word": "到底是谁取消有线耳机的",
+      "onboard_time": 1766151502,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 775876,
+      "num": 546541,
+      "word": "WB对战AG",
+      "onboard_time": 1766144000,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 774967,
@@ -1531,14 +1571,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 582717,
-      "num": 582717,
-      "word": "小洛熙",
-      "onboard_time": 1765714643,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 580773,
       "num": 265697,
       "word": "鞠婧祎丝芭 20年合约",
@@ -1867,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533454,
+      "num": 278968,
+      "word": "zwy教练",
+      "onboard_time": 1766145800,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 532876,
       "num": 246267,
       "word": "李飞的工位让刘耀文坐爽了",
@@ -2027,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502475,
-      "num": 502475,
-      "word": "WB对战AG",
-      "onboard_time": 1766144000,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 501376,
       "num": 390075,
       "word": "双轨尺度",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1765800503,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499287,
+      "num": 499287,
+      "word": "一诺",
+      "onboard_time": 1766148139,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 498461,
@@ -2160,6 +2200,14 @@
       "word": "曾艳芬曝聊天记录",
       "onboard_time": 1766115382,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485002,
+      "num": 212158,
+      "word": "王橹杰高会",
+      "onboard_time": 1766156602,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -2507,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434463,
+      "num": 264715,
+      "word": "杨紫说自己穿的是假貂",
+      "onboard_time": 1766156602,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434254,
       "num": 434254,
       "word": "悉尼枪击事件中英勇夺枪男子留遗言",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1765869563,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431729,
-      "num": 239246,
-      "word": "到底是谁取消有线耳机的",
-      "onboard_time": 1766151502,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 431063,
@@ -4091,6 +4139,14 @@
       "category": "海外新闻,艺人"
     },
     {
+      "raw_hot": 302494,
+      "num": 302494,
+      "word": "台北车站袭击案已致4死",
+      "onboard_time": 1766157804,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302266,
       "num": 270841,
       "word": "秦俊杰是去体制内进修过吧",
@@ -4931,14 +4987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258999,
-      "num": 395070,
-      "word": "一诺",
-      "onboard_time": 1766148139,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 258862,
       "num": 189793,
       "word": "T1对战HLE",
@@ -5187,6 +5235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247513,
+      "num": 247513,
+      "word": "AG剧透",
+      "onboard_time": 1766146400,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247410,
       "num": 216807,
       "word": "第一批小票主理人已经上岗了",
@@ -5353,14 +5409,6 @@
       "onboard_time": 1766026340,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 239293,
-      "num": 239293,
-      "word": "AG剧透",
-      "onboard_time": 1766146400,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 238556,
@@ -5987,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215647,
+      "num": 215647,
+      "word": "流苏",
+      "onboard_time": 1766145920,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215596,
       "num": 215596,
       "word": "闪耀暖暖",
@@ -6115,12 +6171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210393,
-      "num": 210393,
-      "word": "zwy教练",
-      "onboard_time": 1766145800,
-      "rank": 17,
-      "category": "电竞"
+      "raw_hot": 210013,
+      "num": 186784,
+      "word": "王橹杰 师兄",
+      "onboard_time": 1766157501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 209598,
@@ -6265,6 +6321,14 @@
       "onboard_time": 1765701202,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206528,
+      "num": 206528,
+      "word": "iPhone自带APP居然这么好用",
+      "onboard_time": 1766155462,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 206370,
@@ -7344,6 +7408,14 @@
       "word": "周杰伦在周杰伦模仿大赛获得第二名",
       "onboard_time": 1766068762,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187931,
+      "num": 187931,
+      "word": "鞠婧祎合约纠纷",
+      "onboard_time": 1766156484,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -9507,6 +9579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149645,
+      "num": 149645,
+      "word": "孙涵清回应分手",
+      "onboard_time": 1766157982,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149505,
       "num": 211616,
       "word": "KBS直播",
@@ -10003,14 +10083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142687,
-      "num": 124745,
-      "word": "iPhone自带APP居然这么好用",
-      "onboard_time": 1766155462,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "刘奕君 咋还跟这小鲜肉过不去呢",
@@ -10097,6 +10169,14 @@
       "onboard_time": 1766055080,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141254,
+      "num": 141254,
+      "word": "薛之谦说第一首薛氏情歌是瞎写的",
+      "onboard_time": 1766157082,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 141139,
@@ -10307,6 +10387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138207,
+      "num": 138207,
+      "word": "AG掉入败者组",
+      "onboard_time": 1766157682,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138135,
       "num": 230675,
       "word": "小米SU7换代或涨价2万元",
@@ -10449,6 +10537,14 @@
       "onboard_time": 1765801400,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137099,
+      "num": 137099,
+      "word": "朱志鑫发型",
+      "onboard_time": 1766156722,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 137095,
@@ -11019,6 +11115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131979,
+      "num": 127014,
+      "word": "朱志鑫鬓角",
+      "onboard_time": 1766157263,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131965,
       "num": 187830,
       "word": "日本想中美发生战争",
@@ -11384,6 +11488,14 @@
       "word": "王俊凯一抬手全场安静",
       "onboard_time": 1765866260,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "赵小童演出",
+      "onboard_time": 1766157682,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -13435,6 +13547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111279,
+      "num": 186788,
+      "word": "南博前院长回应争议文物流出",
+      "onboard_time": 1766156843,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111220,
       "num": 111220,
       "word": "孙颖莎从小训练就刻苦",
@@ -14929,6 +15049,22 @@
       "onboard_time": 1765901481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99034,
+      "num": 125341,
+      "word": "长安二十四计谢淮安比观众先疯",
+      "onboard_time": 1766157263,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98967,
+      "num": 125303,
+      "word": "喻言好萌",
+      "onboard_time": 1766158222,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98942,
@@ -18683,6 +18819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57688,
+      "num": 212316,
+      "word": "必胜客用芝麻小字标注调理牛排",
+      "onboard_time": 1766156962,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57461,
       "num": 116014,
       "word": "用AI帮安小鸟逆天改命",
@@ -18777,6 +18921,14 @@
       "onboard_time": 1765703662,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56179,
+      "num": 214045,
+      "word": "105捆2元人民币起拍价20余万元",
+      "onboard_time": 1766157862,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56019,
@@ -19803,6 +19955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39535,
+      "num": 214800,
+      "word": "9岁弟弟被害33年后姐姐想接他回家",
+      "onboard_time": 1766157804,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39491,
       "num": 104790,
       "word": "遇害女子母亲去女儿坟前告知新进展",
@@ -20044,7 +20204,7 @@
     },
     {
       "raw_hot": 37037,
-      "num": 579697,
+      "num": 618995,
       "word": "这里有一批车轮上的盲盒",
       "onboard_time": 1766150420,
       "rank": 2,
