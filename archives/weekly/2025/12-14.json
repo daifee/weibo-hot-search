@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766177064855,
+  "endTime": 1766179588103,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -22147,6 +22147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16001,
+      "num": 27107,
+      "word": "和鞠婧祎一起奔向2026",
+      "onboard_time": 1766166019,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15837,
       "num": 29971,
       "word": "宇宙闪烁请注意",
@@ -22233,14 +22241,6 @@
       "onboard_time": 1765938020,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14860,
-      "num": 27107,
-      "word": "和鞠婧祎一起奔向2026",
-      "onboard_time": 1766166019,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 14841,
