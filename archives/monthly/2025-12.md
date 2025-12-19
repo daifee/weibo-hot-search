@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/19 17:33:01
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/19 17:46:30
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ epic 免费游戏（热度：598855）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%85%B4%E9%98%B3%E7%94%A8AI%E5%A4%8D%E5%8E%9F%E4%BA%86%E5%88%98%E7%BB%B4%E5%A6%88%E5%A6%88%23" target="weibo">
+谢兴阳用AI复原了刘维妈妈（热度：586060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%BF%80%E6%89%AC%20%E5%B0%8F%E9%83%91%E5%98%BB%E5%98%BB%23" target="weibo">
 张激扬 小郑嘻嘻（热度：584774）
 </a>
@@ -6005,12 +6011,6 @@ academic writing（热度：454560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E6%AD%BC15%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%85%A7%E5%B0%84%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%BA%23" target="weibo">
 日方称歼15用雷达照射日本战机（热度：446244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E9%A2%91%E5%AE%9E%E8%AF%81%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E6%BB%8B%E6%89%B0%E4%B8%AD%E6%96%B9%E8%AE%AD%E7%BB%83%23" target="weibo">
-音频实证日本有意滋扰中方训练（热度：445660）
 </a>
 </li>
 

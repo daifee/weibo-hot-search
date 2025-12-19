@@ -1,6 +1,6 @@
 {
   "startTime": 1766075999889,
-  "endTime": 1766136781089,
+  "endTime": 1766137590776,
   "band_list": [
     {
       "raw_hot": 1403363,
@@ -115,6 +115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 586060,
+      "num": 586060,
+      "word": "谢兴阳用AI复原了刘维妈妈",
+      "onboard_time": 1766132600,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 563231,
       "num": 938051,
       "word": "三星长公主曾不顾反对下嫁司机",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 536610,
-      "num": 536610,
+      "num": 1053213,
       "word": "平潭发展",
       "onboard_time": 1766130259,
       "rank": 1,
@@ -291,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 396231,
+      "num": 235473,
+      "word": "罗永浩",
+      "onboard_time": 1766135781,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 391950,
       "num": 297821,
       "word": "柯淳说自己上次接吻是前几天",
@@ -329,14 +345,6 @@
       "onboard_time": 1766115561,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 362901,
-      "num": 362901,
-      "word": "谢兴阳用AI复原了刘维妈妈",
-      "onboard_time": 1766132600,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 361668,
@@ -459,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 293996,
+      "num": 182822,
+      "word": "狙击蝴蝶开分6.8",
+      "onboard_time": 1766136201,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292477,
       "num": 85170,
       "word": "双轨直播 搞笑",
@@ -563,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251064,
+      "num": 182816,
+      "word": "丝芭报警回执已不可见",
+      "onboard_time": 1766134761,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 250602,
+      "num": 182800,
+      "word": "玉簟秋",
+      "onboard_time": 1766135120,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242462,
       "num": 242462,
       "word": "虞书欣不知道何与闯了什么祸",
@@ -577,14 +609,6 @@
       "onboard_time": 1766067982,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 235071,
-      "num": 170804,
-      "word": "狙击蝴蝶开分6.8",
-      "onboard_time": 1766136201,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 233120,
@@ -617,22 +641,6 @@
       "onboard_time": 1766117480,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224929,
-      "num": 170137,
-      "word": "玉簟秋",
-      "onboard_time": 1766135120,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 223230,
-      "num": 169300,
-      "word": "丝芭报警回执已不可见",
-      "onboard_time": 1766134761,
-      "rank": 14,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 222622,
@@ -763,14 +771,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193723,
-      "num": 193723,
-      "word": "罗永浩",
-      "onboard_time": 1766135781,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192396,
       "num": 178767,
       "word": "刘涛一条围巾戴了9年",
@@ -785,6 +785,14 @@
       "onboard_time": 1766110461,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190911,
+      "num": 190911,
+      "word": "KSG对战破军",
+      "onboard_time": 1766135781,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 190672,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182846,
+      "num": 306052,
+      "word": "孙颖莎能量人物推荐值破1000万",
+      "onboard_time": 1766128220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "网剧星光成为第一部换脸短剧",
@@ -907,20 +923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176672,
-      "num": 306052,
-      "word": "孙颖莎能量人物推荐值破1000万",
-      "onboard_time": 1766128220,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175522,
       "num": 175522,
       "word": "已经忍不住开始期待2026了",
       "onboard_time": 1766128580,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173487,
+      "num": 161271,
+      "word": "92年宝妈产后腹直肌严重分离",
+      "onboard_time": 1766136501,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170773,
@@ -977,14 +993,6 @@
       "onboard_time": 1766112500,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161271,
-      "num": 161271,
-      "word": "92年宝妈产后腹直肌严重分离",
-      "onboard_time": 1766136501,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161084,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156486,
+      "num": 151997,
+      "word": "原来干发帽是这样用的",
+      "onboard_time": 1766134161,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156465,
       "num": 124483,
       "word": "摆摊卖大残蟹被人砸摊日入5000",
@@ -1091,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151997,
-      "num": 151997,
-      "word": "原来干发帽是这样用的",
-      "onboard_time": 1766134161,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 151528,
       "num": 151528,
       "word": "王一博需要重新找到演员的感觉",
@@ -1123,20 +1131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149425,
+      "num": 149425,
+      "word": "女子意外去世丈夫与岳父母争遗产",
+      "onboard_time": 1766134521,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148495,
       "num": 148495,
       "word": "赵本山曾帮大鹏争取收入",
       "onboard_time": 1766132600,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148240,
-      "num": 148240,
-      "word": "KSG对战破军",
-      "onboard_time": 1766135781,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 146119,
@@ -1467,19 +1475,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122540,
+      "num": 122540,
+      "word": "第五人格前瞻",
+      "onboard_time": 1766137220,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122505,
       "num": 122505,
       "word": "三亚新房成交均价3.1万每平方米",
       "onboard_time": 1766121081,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121852,
-      "num": 125162,
-      "word": "女子意外去世丈夫与岳父母争遗产",
-      "onboard_time": 1766134521,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1521,6 +1529,14 @@
       "onboard_time": 1766109739,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118606,
+      "num": 118606,
+      "word": "美术馆称凤冠主人将保护罩换成防尘罩",
+      "onboard_time": 1766133079,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117648,
@@ -1835,6 +1851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99999,
+      "num": 119645,
+      "word": "王媛可走红毯摔倒",
+      "onboard_time": 1766132121,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99797,
       "num": 99797,
       "word": "王一博伸懒腰伸到车顶",
@@ -1875,14 +1899,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 97799,
-      "num": 119645,
-      "word": "王媛可走红毯摔倒",
-      "onboard_time": 1766132121,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97264,
       "num": 97264,
       "word": "刹车失灵狂奔490公里司机发声",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1766061502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94381,
+      "num": 94381,
+      "word": "余茵申浩男就这么水灵灵的谈上了",
+      "onboard_time": 1766137460,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 94225,
@@ -2027,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86183,
+      "num": 86183,
+      "word": "假如你能看到牙医口罩里的表情",
+      "onboard_time": 1766137160,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85950,
       "num": 118670,
       "word": "过家家这段的查重率100%",
@@ -2080,6 +2112,14 @@
       "word": "李家超现身香港殉职消防员灵堂",
       "onboard_time": 1766108839,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84147,
+      "num": 84147,
+      "word": "专家建议缩小社保城乡差异",
+      "onboard_time": 1766137280,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2169,6 +2209,14 @@
       "onboard_time": 1766100198,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 72695,
+      "num": 72695,
+      "word": "奶茶少糖比半糖更甜",
+      "onboard_time": 1766137160,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 72311,
@@ -2675,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28982,
+      "num": 148430,
+      "word": "庞叔令要南博说明藏品划拨调剂流向",
+      "onboard_time": 1766136501,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28624,
       "num": 54947,
       "word": "微博网友年度喜爱电影",
@@ -2688,14 +2744,6 @@
       "word": "钻头遗落患者体内医院隐瞒数月",
       "onboard_time": 1766133442,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28466,
-      "num": 148430,
-      "word": "庞叔令要南博说明藏品划拨调剂流向",
-      "onboard_time": 1766136501,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2716,7 +2764,7 @@
     },
     {
       "raw_hot": 25755,
-      "num": 369021,
+      "num": 766544,
       "word": "一站式打卡全球好物",
       "onboard_time": 1766134820,
       "rank": 2,
@@ -2827,6 +2875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17589,
+      "num": 116776,
+      "word": "文博机构如何守住公众信任",
+      "onboard_time": 1766136142,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17370,
       "num": 31180,
       "word": "任嘉伦眼神戏",
@@ -2841,14 +2897,6 @@
       "onboard_time": 1766089813,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16581,
-      "num": 116776,
-      "word": "文博机构如何守住公众信任",
-      "onboard_time": 1766136142,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 15837,

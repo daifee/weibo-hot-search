@@ -1,0 +1,410 @@
+{
+  "runTime": 1766137590776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 332586,
+        "num": 1053213,
+        "word": "平潭发展",
+        "onboard_time": 1766130259,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1081306,
+        "num": 990920,
+        "word": "印度女演员活动中被多人包围猥亵",
+        "onboard_time": 1766133380,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25163,
+        "num": 766544,
+        "word": "一站式打卡全球好物",
+        "onboard_time": 1766134820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586060,
+        "num": 586060,
+        "word": "谢兴阳用AI复原了刘维妈妈",
+        "onboard_time": 1766132600,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278313,
+        "num": 278313,
+        "word": "短剧男主都开始跨剧抢女主了",
+        "onboard_time": 1766131220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396231,
+        "num": 235473,
+        "word": "罗永浩",
+        "onboard_time": 1766135781,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157245,
+        "num": 199389,
+        "word": "考研",
+        "onboard_time": 1766132421,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 424563,
+        "num": 195367,
+        "word": "零负债人群",
+        "onboard_time": 1766115980,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 190911,
+        "num": 190911,
+        "word": "KSG对战破军",
+        "onboard_time": 1766135781,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182846,
+        "num": 182846,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465900,
+        "num": 182846,
+        "word": "乔任梁父母相继入院",
+        "onboard_time": 1766131820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380181,
+        "num": 182831,
+        "word": "一种很新的喝牛奶方式",
+        "onboard_time": 1766133260,
+        "rank": 11,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 293996,
+        "num": 182822,
+        "word": "狙击蝴蝶开分6.8",
+        "onboard_time": 1766136201,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251064,
+        "num": 182816,
+        "word": "丝芭报警回执已不可见",
+        "onboard_time": 1766134761,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 250602,
+        "num": 182800,
+        "word": "玉簟秋",
+        "onboard_time": 1766135120,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182798,
+        "num": 182798,
+        "word": "郑恺实现了11年前的郑王号梦",
+        "onboard_time": 1766132421,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149425,
+        "num": 149425,
+        "word": "女子意外去世丈夫与岳父母争遗产",
+        "onboard_time": 1766134521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146790,
+        "num": 146790,
+        "word": "年度报告",
+        "onboard_time": 1766119941,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91523,
+        "num": 146175,
+        "word": "董明珠71岁正是拼的年纪",
+        "onboard_time": 1766135541,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28982,
+        "num": 145740,
+        "word": "庞叔令要南博说明藏品划拨调剂流向",
+        "onboard_time": 1766136501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1341443,
+        "num": 144732,
+        "word": "黄磊孙莉二女儿颜值",
+        "onboard_time": 1766134400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173487,
+        "num": 143220,
+        "word": "92年宝妈产后腹直肌严重分离",
+        "onboard_time": 1766136501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156486,
+        "num": 142401,
+        "word": "原来干发帽是这样用的",
+        "onboard_time": 1766134161,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141863,
+        "num": 141863,
+        "word": "武装台湾将面临严重后果",
+        "onboard_time": 1766133319,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140479,
+        "num": 140479,
+        "word": "唐诡奇谭上尺度了",
+        "onboard_time": 1766131279,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132594,
+        "num": 132594,
+        "word": "71岁奶奶撸铁4年练出少女背",
+        "onboard_time": 1766129361,
+        "rank": 25,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 122540,
+        "num": 122540,
+        "word": "第五人格前瞻",
+        "onboard_time": 1766137220,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122452,
+        "num": 122452,
+        "word": "成毅 糯米团子吃糯米团子",
+        "onboard_time": 1766136201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118606,
+        "num": 118606,
+        "word": "美术馆称凤冠主人将保护罩换成防尘罩",
+        "onboard_time": 1766133079,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118522,
+        "num": 118522,
+        "word": "林浩当爸爸了",
+        "onboard_time": 1766130023,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113275,
+        "num": 113275,
+        "word": "陈伟霆邀请王安宇去家里玩",
+        "onboard_time": 1766127320,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111116,
+        "num": 111116,
+        "word": "居然有剧把人格分裂拍得这么唯美",
+        "onboard_time": 1766136561,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108952,
+        "num": 108952,
+        "word": "内娱短剧已经发展成这样了吗",
+        "onboard_time": 1766135481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108638,
+        "num": 108638,
+        "word": "王一博需要重新找到演员的感觉",
+        "onboard_time": 1766130561,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104957,
+        "num": 104957,
+        "word": "迪丽热巴真是火到非洲了",
+        "onboard_time": 1766133141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99999,
+        "num": 99999,
+        "word": "王媛可走红毯摔倒",
+        "onboard_time": 1766132121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99599,
+        "num": 99599,
+        "word": "赵本山曾帮大鹏争取收入",
+        "onboard_time": 1766132600,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98136,
+        "num": 98136,
+        "word": "蒋勤勤脸和年龄各长各的",
+        "onboard_time": 1766134280,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98016,
+        "num": 98016,
+        "word": "英雄联盟2027大规模更新",
+        "onboard_time": 1766135240,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 94381,
+        "word": "余茵申浩男就这么水灵灵的谈上了",
+        "onboard_time": 1766137460,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92638,
+        "num": 92638,
+        "word": "何赛飞谈婚后遇到仰慕者",
+        "onboard_time": 1766128640,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91173,
+        "num": 91173,
+        "word": "23岁男护士在办公室偷拍被抓",
+        "onboard_time": 1766132000,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17589,
+        "num": 88464,
+        "word": "文博机构如何守住公众信任",
+        "onboard_time": 1766136142,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 86183,
+        "num": 86183,
+        "word": "假如你能看到牙医口罩里的表情",
+        "onboard_time": 1766137160,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84147,
+        "num": 84147,
+        "word": "专家建议缩小社保城乡差异",
+        "onboard_time": 1766137280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81266,
+        "num": 81266,
+        "word": "刹车失灵狂奔490公里司机发声",
+        "onboard_time": 1766135301,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78235,
+        "num": 78235,
+        "word": "罗永浩痛批电信宽带缩水",
+        "onboard_time": 1766127259,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76683,
+        "num": 76683,
+        "word": "曾艳芬从来没有说过陪酒俩字",
+        "onboard_time": 1766134039,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 72695,
+        "num": 72695,
+        "word": "奶茶少糖比半糖更甜",
+        "onboard_time": 1766137160,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72531,
+        "num": 72531,
+        "word": "殉职消防员何伟豪女友花圈放在中央",
+        "onboard_time": 1766117420,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}
