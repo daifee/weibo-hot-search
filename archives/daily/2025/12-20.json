@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766183283399,
+  "endTime": 1766184264534,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47783,
+      "num": 34647,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47061,
       "num": 47061,
       "word": "月鳞绮纪",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38648,
-      "num": 32591,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33295,
       "num": 93211,
       "word": "汪苏泷生命力要溢出屏幕了",
@@ -505,6 +505,14 @@
       "onboard_time": 1766166556,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27796,
+      "num": 34614,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1766153420,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 27660,
@@ -547,15 +555,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22301,
-      "num": 28087,
-      "word": "射雕英雄传侠之大者",
-      "onboard_time": 1766153420,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 19770,
+      "raw_hot": 20098,
       "num": 40995,
       "word": "台北车站袭击案",
       "onboard_time": 1766145501,
@@ -563,24 +563,40 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18036,
-      "num": 28061,
+      "raw_hot": 19447,
+      "num": 34539,
       "word": "和鞠婧祎一起奔向2026",
       "onboard_time": 1766166019,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 17908,
-      "num": 28053,
+      "raw_hot": 18885,
+      "num": 34530,
       "word": "赵今麦宋威龙互拍",
       "onboard_time": 1766179815,
       "rank": 39,
       "category": "剧集"
     },
     {
+      "raw_hot": 17213,
+      "num": 54294,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 16148,
+      "num": 34504,
+      "word": "张凯毅黄金凤冠被毁",
+      "onboard_time": 1766141180,
+      "rank": 47,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 16145,
-      "num": 33350,
+      "num": 34430,
       "word": "CBA",
       "onboard_time": 1766157321,
       "rank": 44,
@@ -593,22 +609,6 @@
       "onboard_time": 1766139260,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 12544,
-      "num": 28005,
-      "word": "张凯毅黄金凤冠被毁",
-      "onboard_time": 1766141180,
-      "rank": 47,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 12527,
-      "num": 54294,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 12167,

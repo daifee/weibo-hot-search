@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766183283399,
+  "endTime": 1766184264534,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -58779,6 +58779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47783,
+      "num": 34647,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47729,
       "num": 47729,
       "word": "十个勤天自制短剧上线",
@@ -60929,14 +60937,6 @@
       "onboard_time": 1765530742,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38648,
-      "num": 32591,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 38610,
@@ -65819,6 +65819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19447,
+      "num": 34539,
+      "word": "和鞠婧祎一起奔向2026",
+      "onboard_time": 1766166019,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19398,
       "num": 162421,
       "word": "男子毒杀子女案今日开庭",
@@ -65897,6 +65905,14 @@
       "onboard_time": 1765964300,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18885,
+      "num": 34530,
+      "word": "赵今麦宋威龙互拍",
+      "onboard_time": 1766179815,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 18851,
@@ -66099,14 +66115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18036,
-      "num": 28061,
-      "word": "和鞠婧祎一起奔向2026",
-      "onboard_time": 1766166019,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17993,
       "num": 25282,
       "word": "吴磊打游戏爽到了",
@@ -66121,14 +66129,6 @@
       "onboard_time": 1765385718,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 17908,
-      "num": 28053,
-      "word": "赵今麦宋威龙互拍",
-      "onboard_time": 1766179815,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 17889,
@@ -66225,6 +66225,14 @@
       "onboard_time": 1764747563,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17213,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 17178,
@@ -67105,14 +67113,6 @@
       "onboard_time": 1765946422,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 12527,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 12487,

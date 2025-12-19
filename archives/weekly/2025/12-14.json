@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766183283399,
+  "endTime": 1766184264534,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -19523,6 +19523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47783,
+      "num": 34647,
+      "word": "演员王东首谈残疾儿子",
+      "onboard_time": 1766172734,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47642,
       "num": 139118,
       "word": "河南方城领导在担心什么",
@@ -20169,14 +20177,6 @@
       "onboard_time": 1766124381,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38648,
-      "num": 32591,
-      "word": "演员王东首谈残疾儿子",
-      "onboard_time": 1766172734,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 38584,
@@ -22003,12 +22003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19447,
+      "num": 34539,
+      "word": "和鞠婧祎一起奔向2026",
+      "onboard_time": 1766166019,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18952,
       "num": 193775,
       "word": "罗马许愿池要收费了",
       "onboard_time": 1765964300,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18885,
+      "num": 34530,
+      "word": "赵今麦宋威龙互拍",
+      "onboard_time": 1766179815,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 18838,
@@ -22067,22 +22083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18036,
-      "num": 28061,
-      "word": "和鞠婧祎一起奔向2026",
-      "onboard_time": 1766166019,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 17908,
-      "num": 28053,
-      "word": "赵今麦宋威龙互拍",
-      "onboard_time": 1766179815,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17837,
       "num": 31187,
       "word": "肖战说很多故事在画面以外",
@@ -22113,6 +22113,14 @@
       "onboard_time": 1766095755,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17213,
+      "num": 298362,
+      "word": "全国研考工作准备就绪",
+      "onboard_time": 1766149640,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 16898,
@@ -22425,14 +22433,6 @@
       "onboard_time": 1765946422,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 12527,
-      "num": 298362,
-      "word": "全国研考工作准备就绪",
-      "onboard_time": 1766149640,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 12395,
