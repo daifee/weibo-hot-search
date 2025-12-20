@@ -1,0 +1,410 @@
+{
+  "runTime": 1766201884628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620885,
+        "num": 1620885,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 710438,
+        "num": 710438,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17013,
+        "num": 489371,
+        "word": "2025中国人的仪式感",
+        "onboard_time": 1766150121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452698,
+        "num": 452698,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310707,
+        "num": 310707,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274953,
+        "num": 274953,
+        "word": "奇迹定档12月22日",
+        "onboard_time": 1766198660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193955,
+        "num": 236746,
+        "word": "普京说相信一见钟情",
+        "onboard_time": 1766196740,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234698,
+        "num": 234698,
+        "word": "海南封关40克金饰能省1万多元",
+        "onboard_time": 1766187738,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143519,
+        "num": 230670,
+        "word": "演唱会出轨门",
+        "onboard_time": 1766149460,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110361,
+        "num": 223715,
+        "word": "91岁老人欲把亡妻房子给50岁女友",
+        "onboard_time": 1766190680,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3432430,
+        "num": 221441,
+        "word": "小洛熙尸检报告",
+        "onboard_time": 1766198720,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 746178,
+        "num": 212032,
+        "word": "乔任梁母亲不让丈夫探望",
+        "onboard_time": 1766196440,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444375,
+        "num": 206544,
+        "word": "原来苗苗是这么有意思的人",
+        "onboard_time": 1766200041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010401,
+        "num": 204220,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198759,
+        "num": 198759,
+        "word": "妻子切除输卵管几天后丈夫提离婚",
+        "onboard_time": 1766194280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170119,
+        "num": 170119,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 15,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 307202,
+        "num": 169148,
+        "word": "女婴术后离世应成医疗行业警钟",
+        "onboard_time": 1766192119,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167641,
+        "num": 167641,
+        "word": "双轨 国内剧情",
+        "onboard_time": 1766198660,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56756,
+        "num": 156517,
+        "word": "银发奶奶竟开车玩起漂移",
+        "onboard_time": 1766199860,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155008,
+        "num": 155008,
+        "word": "刘耀文把黄子韬赶出时代峰峻",
+        "onboard_time": 1766201481,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177433,
+        "num": 154469,
+        "word": "曾辉韩雨彤 做生不如做熟",
+        "onboard_time": 1766199381,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151557,
+        "num": 151557,
+        "word": "内娱首档摸鱼综艺开播",
+        "onboard_time": 1766201061,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145539,
+        "num": 145539,
+        "word": "阿凡达3",
+        "onboard_time": 1766200702,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 144340,
+        "word": "日本风俗店女子分解婴儿遗体被捕",
+        "onboard_time": 1766197399,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142512,
+        "num": 142512,
+        "word": "看完之后刷手机的欲望消失了",
+        "onboard_time": 1766200940,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132038,
+        "num": 132038,
+        "word": "1岁宝宝疑因吃蜂蜜中毒致四肢瘫痪",
+        "onboard_time": 1766197220,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126203,
+        "num": 126203,
+        "word": "肖四",
+        "onboard_time": 1766201839,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125185,
+        "num": 125185,
+        "word": "许我耀眼导演回应癫剧标签",
+        "onboard_time": 1766201481,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 123828,
+        "word": "被割喉女护士父亲希望凶手杀人偿命",
+        "onboard_time": 1766199620,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120707,
+        "num": 120707,
+        "word": "徐冬冬被余罪大嫂角色影响了9年",
+        "onboard_time": 1766199200,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114704,
+        "num": 114704,
+        "word": "Angelababy仿妆 美妆圈的期末考",
+        "onboard_time": 1766191340,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112135,
+        "num": 112135,
+        "word": "双轨今晚破镜重圆",
+        "onboard_time": 1766201361,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110697,
+        "num": 110697,
+        "word": "美国大规模空袭伊斯兰国",
+        "onboard_time": 1766201601,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110134,
+        "num": 110134,
+        "word": "白鹿看完白展堂看沙溢好割裂",
+        "onboard_time": 1766198780,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107463,
+        "num": 107463,
+        "word": "一天小郑嘻嘻聊天记录",
+        "onboard_time": 1766192119,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105875,
+        "num": 105875,
+        "word": "赵今麦演活了顾漫笔下的一见钟情",
+        "onboard_time": 1766201601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103383,
+        "num": 103383,
+        "word": "今天2026考研",
+        "onboard_time": 1766186417,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95984,
+        "num": 95984,
+        "word": "谁家婚礼一拜天地二剑高堂",
+        "onboard_time": 1766201720,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 95699,
+        "word": "吃吃子晗分手",
+        "onboard_time": 1766145201,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96253,
+        "num": 95443,
+        "word": "业内评价任嘉伦转型成功",
+        "onboard_time": 1766200220,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 93791,
+        "word": "写字楼公厕设门禁",
+        "onboard_time": 1766200582,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93004,
+        "num": 93004,
+        "word": "金饰克价涨到1362元",
+        "onboard_time": 1766196921,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89705,
+        "num": 89705,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89670,
+        "num": 89670,
+        "word": "奇迹",
+        "onboard_time": 1766199022,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88968,
+        "num": 88968,
+        "word": "宇宙闪烁请注意",
+        "onboard_time": 1766200760,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88621,
+        "num": 88621,
+        "word": "马天宇回应曾被指拍戏迟到",
+        "onboard_time": 1766201781,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84739,
+        "num": 86773,
+        "word": "这么可爱的猫他居然有两只",
+        "onboard_time": 1766201181,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86618,
+        "num": 86618,
+        "word": "杨紫说自己穿的是假貂",
+        "onboard_time": 1766156602,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85507,
+        "num": 85507,
+        "word": "樊振东发球被打断后示意noproblem",
+        "onboard_time": 1766199439,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84526,
+        "num": 84526,
+        "word": "时代少年团鸿蒙星光盛典开场",
+        "onboard_time": 1766198720,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766201007562,
+  "endTime": 1766201884628,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -185,6 +185,14 @@
       "onboard_time": 1765986623,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1620885,
+      "num": 1620885,
+      "word": "考研政治",
+      "onboard_time": 1766201000,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1546117,
@@ -499,6 +507,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 1010401,
+      "num": 262450,
+      "word": "小洛熙妈妈感谢法医刘良",
+      "onboard_time": 1766199439,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1003723,
       "num": 1160595,
       "word": "元旦请3休8",
@@ -601,14 +617,6 @@
       "onboard_time": 1765771343,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 923119,
-      "num": 262450,
-      "word": "小洛熙妈妈感谢法医刘良",
-      "onboard_time": 1766199439,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 922390,
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710438,
+      "num": 1106308,
+      "word": "海南封关120多万卡宴只要60万",
+      "onboard_time": 1766198839,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 709791,
       "num": 342430,
       "word": "杨紫直播",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1765777043,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 664428,
-      "num": 1106308,
-      "word": "海南封关120多万卡宴只要60万",
-      "onboard_time": 1766198839,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 658585,
@@ -2593,6 +2601,14 @@
       "onboard_time": 1766034563,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 444375,
+      "num": 250330,
+      "word": "原来苗苗是这么有意思的人",
+      "onboard_time": 1766200041,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 443462,
@@ -5331,14 +5347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250330,
-      "num": 250330,
-      "word": "原来苗苗是这么有意思的人",
-      "onboard_time": 1766200041,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250214,
       "num": 324117,
       "word": "郭焱谈王楚钦因伤退赛",
@@ -7203,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193955,
+      "num": 281640,
+      "word": "普京说相信一见钟情",
+      "onboard_time": 1766196740,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193578,
       "num": 151796,
       "word": "小学生书包全是A4纸",
@@ -8547,6 +8563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170119,
+      "num": 170119,
+      "word": "马斯克被C罗身材卷到了",
+      "onboard_time": 1766200281,
+      "rank": 29,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 170076,
       "num": 243415,
       "word": "私人影院强制要求顾客选择异性陪侍套餐",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1766197220,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167641,
+      "num": 167641,
+      "word": "双轨 国内剧情",
+      "onboard_time": 1766198660,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 167611,
@@ -9483,6 +9515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155008,
+      "num": 155008,
+      "word": "刘耀文把黄子韬赶出时代峰峻",
+      "onboard_time": 1766201481,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154901,
       "num": 154901,
       "word": "DYG挑杯遗憾止步",
@@ -9585,14 +9625,6 @@
       "onboard_time": 1765805664,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153307,
-      "num": 153307,
-      "word": "双轨 国内剧情",
-      "onboard_time": 1766198660,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 153270,
@@ -9705,6 +9737,14 @@
       "onboard_time": 1766141599,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151557,
+      "num": 151557,
+      "word": "内娱首档摸鱼综艺开播",
+      "onboard_time": 1766201061,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 151528,
@@ -10369,6 +10409,14 @@
       "onboard_time": 1765971200,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142512,
+      "num": 142512,
+      "word": "看完之后刷手机的欲望消失了",
+      "onboard_time": 1766200940,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 142510,
@@ -12043,6 +12091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126203,
+      "num": 126203,
+      "word": "肖四",
+      "onboard_time": 1766201839,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126191,
       "num": 200664,
       "word": "车厘子火速降价",
@@ -12144,6 +12200,14 @@
       "word": "狙击蝴蝶云合首登顶",
       "onboard_time": 1765881442,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125185,
+      "num": 125185,
+      "word": "许我耀眼导演回应癫剧标签",
+      "onboard_time": 1766201481,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -12305,6 +12369,14 @@
       "onboard_time": 1766119521,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123828,
+      "num": 155717,
+      "word": "被割喉女护士父亲希望凶手杀人偿命",
+      "onboard_time": 1766199620,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123782,
@@ -13075,14 +13147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117152,
-      "num": 117152,
-      "word": "马斯克被C罗身材卷到了",
-      "onboard_time": 1766200281,
-      "rank": 29,
-      "category": "体育,互联网"
-    },
-    {
       "raw_hot": 117149,
       "num": 117149,
       "word": "王莉称长期遭受打压患上重度抑郁",
@@ -13699,14 +13763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113120,
-      "num": 281640,
-      "word": "普京说相信一见钟情",
-      "onboard_time": 1766196740,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112992,
       "num": 112992,
       "word": "时代少年团鸿蒙星光盛典开场",
@@ -13832,6 +13888,14 @@
       "word": "这一段真的有人看了不脸红吗",
       "onboard_time": 1765687101,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112135,
+      "num": 112135,
+      "word": "双轨今晚破镜重圆",
+      "onboard_time": 1766201361,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -14017,6 +14081,14 @@
       "onboard_time": 1766036422,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110697,
+      "num": 110697,
+      "word": "美国大规模空袭伊斯兰国",
+      "onboard_time": 1766201601,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110585,
@@ -14513,6 +14585,14 @@
       "onboard_time": 1765934480,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105875,
+      "num": 105875,
+      "word": "赵今麦演活了顾漫笔下的一见钟情",
+      "onboard_time": 1766201601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 105788,
@@ -15907,6 +15987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95984,
+      "num": 95984,
+      "word": "谁家婚礼一拜天地二剑高堂",
+      "onboard_time": 1766201720,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95855,
       "num": 95855,
       "word": "不内耗的最好方式",
@@ -16875,6 +16963,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 88968,
+      "num": 89321,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766080276,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88909,
       "num": 236143,
       "word": "长沙盲人老太事件拍摄者发文道歉",
@@ -16897,6 +16993,14 @@
       "onboard_time": 1765846760,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88621,
+      "num": 88621,
+      "word": "马天宇回应曾被指拍戏迟到",
+      "onboard_time": 1766201781,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 88477,
@@ -17265,6 +17369,14 @@
       "onboard_time": 1765801821,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84739,
+      "num": 86773,
+      "word": "这么可爱的猫他居然有两只",
+      "onboard_time": 1766201181,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 84724,
@@ -17955,14 +18067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77661,
-      "num": 89321,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1766080276,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77604,
       "num": 92546,
       "word": "是不是养猫的都这样",
@@ -18193,14 +18297,6 @@
       "onboard_time": 1765857862,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 75130,
-      "num": 89317,
-      "word": "看完之后刷手机的欲望消失了",
-      "onboard_time": 1766200940,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 75078,
@@ -19633,14 +19729,6 @@
       "onboard_time": 1766074281,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 55650,
-      "num": 155717,
-      "word": "被割喉女护士父亲希望凶手杀人偿命",
-      "onboard_time": 1766199620,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55605,
@@ -21363,6 +21451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32633,
+      "num": 94172,
+      "word": "写字楼公厕设门禁",
+      "onboard_time": 1766200582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32506,
       "num": 84729,
       "word": "被家暴13年女子称现在没有一点尊严",
@@ -21812,7 +21908,7 @@
     },
     {
       "raw_hot": 28727,
-      "num": 378569,
+      "num": 489371,
       "word": "2025中国人的仪式感",
       "onboard_time": 1766150121,
       "rank": 2,
@@ -22753,14 +22849,6 @@
       "onboard_time": 1766136142,
       "rank": 37,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 17417,
-      "num": 94172,
-      "word": "写字楼公厕设门禁",
-      "onboard_time": 1766200582,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17370,
