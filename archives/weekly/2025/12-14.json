@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766219687512,
+  "endTime": 1766220473826,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1109128,
+      "num": 1177460,
+      "word": "考研英语",
+      "onboard_time": 1766211020,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1104308,
       "num": 252748,
       "word": "煮了9个小时的鸡蛋",
@@ -817,6 +825,14 @@
       "onboard_time": 1765898125,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837685,
+      "num": 328029,
+      "word": "家属称不方便公布小洛熙完整尸检报告",
+      "onboard_time": 1766219121,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 830741,
@@ -1937,14 +1953,6 @@
       "onboard_time": 1766026520,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549378,
-      "num": 328029,
-      "word": "家属称不方便公布小洛熙完整尸检报告",
-      "onboard_time": 1766219121,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 549172,
@@ -3875,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340891,
+      "num": 268942,
+      "word": "陈伟霆 避雷王安宇黄景瑜",
+      "onboard_time": 1766218342,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338444,
       "num": 232050,
       "word": "4300万网红刘二狗泳池直播被指擦边",
@@ -4708,7 +4724,7 @@
     },
     {
       "raw_hot": 286472,
-      "num": 181038,
+      "num": 187876,
       "word": "朱孝天疑似内涵阿信",
       "onboard_time": 1766216900,
       "rank": 20,
@@ -5089,14 +5105,6 @@
       "onboard_time": 1766015479,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 268942,
-      "num": 268942,
-      "word": "陈伟霆 避雷王安宇黄景瑜",
-      "onboard_time": 1766218342,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 268293,
@@ -7347,6 +7355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197598,
+      "num": 197598,
+      "word": "陈妍希带儿子一起去星光大赏",
+      "onboard_time": 1766219121,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197554,
       "num": 197554,
       "word": "马嘉祺闷声干大事",
@@ -7929,6 +7945,14 @@
       "onboard_time": 1765719564,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188762,
+      "num": 198344,
+      "word": "MMA",
+      "onboard_time": 1766220201,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 188741,
@@ -9859,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155971,
+      "num": 183684,
+      "word": "优衣库部分门店被指偷拍消费者",
+      "onboard_time": 1766218880,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155921,
       "num": 155920,
       "word": "我们吃的砂糖橘可能是蜜桔",
@@ -11265,6 +11297,14 @@
       "onboard_time": 1765935620,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137744,
+      "num": 137744,
+      "word": "2025濮院电竞节",
+      "onboard_time": 1766220381,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 137599,
@@ -13635,14 +13675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118266,
-      "num": 118266,
-      "word": "陈妍希带儿子一起去星光大赏",
-      "onboard_time": 1766219121,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "樊振东腾空照片入围世界体育摄影奖",
@@ -13721,6 +13753,14 @@
       "onboard_time": 1766143520,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117696,
+      "num": 117696,
+      "word": "腾讯视频金鹅荣誉",
+      "onboard_time": 1766219661,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 117678,
@@ -14481,6 +14521,14 @@
       "onboard_time": 1766198720,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112916,
+      "num": 198272,
+      "word": "患者要求下救护车小便禁停区坠亡",
+      "onboard_time": 1766219421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112830,
@@ -17355,6 +17403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92285,
+      "num": 92285,
+      "word": "A股最大重组并购案出炉",
+      "onboard_time": 1766219360,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92265,
       "num": 92265,
       "word": "周奇演技",
@@ -17515,6 +17571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91090,
+      "num": 91090,
+      "word": "姜暮生长痛",
+      "onboard_time": 1766219480,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91066,
       "num": 91066,
       "word": "央视报道陈梦参与军民交流活动",
@@ -17600,14 +17664,6 @@
       "word": "高盛称明年股市的最大机会不在AI",
       "onboard_time": 1765880960,
       "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 90556,
-      "num": 90556,
-      "word": "A股最大重组并购案出炉",
-      "onboard_time": 1766219360,
-      "rank": 40,
       "category": "财经"
     },
     {
@@ -19059,20 +19115,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77675,
+      "num": 77675,
+      "word": "2026黄金价格展望",
+      "onboard_time": 1766217441,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77668,
       "num": 282381,
       "word": "她把男主会干的全干了",
       "onboard_time": 1765798701,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77637,
-      "num": 100216,
-      "word": "考研英语",
-      "onboard_time": 1766211020,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 77604,
@@ -19105,14 +19161,6 @@
       "onboard_time": 1766217321,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77328,
-      "num": 77328,
-      "word": "姜暮生长痛",
-      "onboard_time": 1766219480,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 77284,
@@ -19217,6 +19265,14 @@
       "onboard_time": 1766108180,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76326,
+      "num": 76326,
+      "word": "这小孩喝的孟婆汤掺水了吧",
+      "onboard_time": 1766220321,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76262,
@@ -19700,7 +19756,7 @@
     },
     {
       "raw_hot": 70247,
-      "num": 400575,
+      "num": 537868,
       "word": "大国重器又放大招了",
       "onboard_time": 1766218521,
       "rank": 2,
@@ -20631,14 +20687,6 @@
       "num": 170737,
       "word": "银发奶奶竟开车玩起漂移",
       "onboard_time": 1766199860,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58240,
-      "num": 183684,
-      "word": "优衣库部分门店被指偷拍消费者",
-      "onboard_time": 1766218880,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -24275,6 +24323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14205,
+      "num": 187902,
+      "word": "济南一对母女黄河岸边失联超40天",
+      "onboard_time": 1766220082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14045,
       "num": 172167,
       "word": "民政局担任孤独死遗产管理人",
@@ -24481,14 +24537,6 @@
       "onboard_time": 1766058262,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10757,
-      "num": 181413,
-      "word": "患者要求下救护车小便禁停区坠亡",
-      "onboard_time": 1766219421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10391,
