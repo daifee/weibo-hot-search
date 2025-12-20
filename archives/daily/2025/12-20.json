@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766206088342,
+  "endTime": 1766208535205,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -27,12 +27,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1468666,
-      "num": 1468666,
+      "raw_hot": 1592064,
+      "num": 1592064,
       "word": "原来微信长按2秒钟这么好用",
       "onboard_time": 1766204061,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1424167,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1300438,
@@ -65,14 +73,6 @@
       "onboard_time": 1766196440,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 905837,
-      "num": 248280,
-      "word": "法医刘良凌晨发视频配文星星亮了",
-      "onboard_time": 1766204840,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 849078,
@@ -155,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 450702,
+      "num": 247668,
+      "word": "小洛熙家属将继续追究相关人员责任",
+      "onboard_time": 1766204720,
+      "rank": 26,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 444375,
       "num": 273305,
       "word": "原来苗苗是这么有意思的人",
@@ -195,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399270,
+      "num": 246495,
+      "word": "郭敬明 他超爱",
+      "onboard_time": 1766204240,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388680,
       "num": 1062188,
       "word": "海南封关40克金饰能省1万多元",
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338919,
-      "num": 247668,
-      "word": "小洛熙家属将继续追究相关人员责任",
-      "onboard_time": 1766204720,
-      "rank": 26,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 335921,
       "num": 335921,
       "word": "WB战胜AG",
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310618,
+      "num": 208676,
+      "word": "陈妍希陈靖可 姐狗",
+      "onboard_time": 1766206701,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306648,
       "num": 306648,
       "word": "奇迹定档12月22日",
@@ -264,14 +280,6 @@
       "word": "杨紫说自己穿的是假貂",
       "onboard_time": 1766156602,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 292124,
-      "num": 246495,
-      "word": "郭敬明 他超爱",
-      "onboard_time": 1766204240,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179841,
+      "num": 179841,
+      "word": "国乒将选出总教练",
+      "onboard_time": 1766206160,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173248,
       "num": 377130,
       "word": "今天2026考研",
@@ -683,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140800,
+      "num": 140800,
+      "word": "胡先煦让宋亚轩快回出发",
+      "onboard_time": 1766207660,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139686,
       "num": 139686,
       "word": "考研管综答案",
@@ -729,6 +753,22 @@
       "onboard_time": 1766200220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132385,
+      "num": 131612,
+      "word": "庾澄庆状告汪苏泷要歌不要人",
+      "onboard_time": 1766206641,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131683,
+      "num": 131683,
+      "word": "张函瑞MV单人part",
+      "onboard_time": 1766207660,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 129601,
@@ -779,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123787,
+      "num": 131999,
+      "word": "博物院和博物馆的区别",
+      "onboard_time": 1766206824,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120524,
       "num": 90236,
       "word": "2026WTT总决赛改为6天",
       "onboard_time": 1766196921,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119417,
+      "num": 119417,
+      "word": "追星人的能力有多全面",
+      "onboard_time": 1766208081,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 119380,
@@ -811,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116314,
+      "num": 233279,
+      "word": "985大学推出0.985元考研早餐",
+      "onboard_time": 1766205802,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115651,
       "num": 89132,
       "word": "女子舌下藏毒探监接吻后毒死男友",
@@ -827,12 +891,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114660,
+      "num": 114660,
+      "word": "最显老的行为",
+      "onboard_time": 1766207002,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 114626,
+      "num": 114626,
+      "word": "李梦别喜欢了说名字啊",
+      "onboard_time": 1766207421,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114166,
       "num": 114166,
       "word": "美国大规模空袭伊斯兰国",
       "onboard_time": 1766201601,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114140,
+      "num": 114140,
+      "word": "父亲看到女儿生前被打照片含泪痛斥",
+      "onboard_time": 1766207061,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113646,
@@ -859,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112480,
+      "num": 128837,
+      "word": "刘浩存 幼师小孩",
+      "onboard_time": 1766205440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112135,
       "num": 112135,
       "word": "双轨今晚破镜重圆",
@@ -867,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112072,
+      "num": 114815,
+      "word": "严浩翔粉丝破2000w晒照",
+      "onboard_time": 1766206881,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109573,
       "num": 109573,
       "word": "滑雪",
       "onboard_time": 1766196681,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 107895,
+      "num": 107895,
+      "word": "克林顿与2女子大尺度照片曝光",
+      "onboard_time": 1766208440,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107069,
@@ -891,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105085,
+      "num": 105085,
+      "word": "王一博在树上睡眠质量95",
+      "onboard_time": 1766206340,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105000,
       "num": 154423,
       "word": "玉兰花开君再来",
@@ -905,6 +1025,14 @@
       "onboard_time": 1766187620,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104357,
+      "num": 109721,
+      "word": "管综逻辑",
+      "onboard_time": 1766207841,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 103281,
@@ -931,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102557,
+      "num": 102557,
+      "word": "猫出去溜达回来面相大变",
+      "onboard_time": 1766208440,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100549,
       "num": 154269,
       "word": "考研时间",
       "onboard_time": 1766141540,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99554,
+      "num": 220984,
+      "word": "国乒教练员竞聘工作方案",
+      "onboard_time": 1766207780,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 99546,
@@ -955,8 +1099,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 97537,
-      "num": 97537,
+      "raw_hot": 98305,
+      "num": 218955,
       "word": "第五人格",
       "onboard_time": 1766186717,
       "rank": 37,
@@ -1227,19 +1371,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69803,
+      "num": 116709,
+      "word": "樊振东化身德国老司机",
+      "onboard_time": 1766208501,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69778,
       "num": 89078,
       "word": "小鬼张予曦迅猛龙同框",
       "onboard_time": 1766190320,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69738,
-      "num": 128837,
-      "word": "刘浩存 幼师小孩",
-      "onboard_time": 1766205440,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1289,6 +1433,14 @@
       "onboard_time": 1766157862,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63340,
+      "num": 159680,
+      "word": "00后陆军女飞行员结婚了",
+      "onboard_time": 1766207002,
+      "rank": 26,
+      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 63034,
@@ -1515,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40481,
+      "num": 206594,
+      "word": "女子发现198元能买到陌生人婚纱照",
+      "onboard_time": 1766208021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39574,
       "num": 61662,
       "word": "消费者称黄金一天一个价",
@@ -1713,14 +1873,6 @@
       "onboard_time": 1766144841,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10162,
-      "num": 233279,
-      "word": "985大学推出0.985元考研早餐",
-      "onboard_time": 1766205802,
-      "rank": 21,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
