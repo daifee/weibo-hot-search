@@ -1,0 +1,410 @@
+{
+  "runTime": 1766219687512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 697003,
+        "num": 1111520,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474317,
+        "num": 474317,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70247,
+        "num": 400575,
+        "word": "大国重器又放大招了",
+        "onboard_time": 1766218521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374867,
+        "num": 374867,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172828,
+        "num": 371363,
+        "word": "国乒副总教练竞聘条件",
+        "onboard_time": 1766214440,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5183704,
+        "num": 5183704,
+        "word": "韩红为小洛熙宝宝发声",
+        "onboard_time": 1766210301,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 526120,
+        "num": 355198,
+        "word": "MMA红毯",
+        "onboard_time": 1766214681,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145363,
+        "num": 350677,
+        "word": "成都女子家门口遇害案被告一审死缓",
+        "onboard_time": 1766211982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188780,
+        "num": 341807,
+        "word": "MMA直播",
+        "onboard_time": 1766214021,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103322,
+        "num": 333583,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 549378,
+        "num": 328029,
+        "word": "家属称不方便公布小洛熙完整尸检报告",
+        "onboard_time": 1766219121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326241,
+        "num": 326241,
+        "word": "三年级小学生的朋友圈",
+        "onboard_time": 1766216000,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 268942,
+        "num": 268942,
+        "word": "陈伟霆 避雷王安宇黄景瑜",
+        "onboard_time": 1766218342,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548261,
+        "num": 267945,
+        "word": "法医刘良凌晨发视频配文星星亮了",
+        "onboard_time": 1766204840,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 248362,
+        "num": 248362,
+        "word": "周扬青跟罗昊在一起的原因",
+        "onboard_time": 1766211982,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223473,
+        "num": 223473,
+        "word": "虞书欣又一人生镜头",
+        "onboard_time": 1766215041,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220463,
+        "num": 220463,
+        "word": "成都中院回应梁某滢被判死缓",
+        "onboard_time": 1766214380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188686,
+        "num": 188686,
+        "word": "母亲哭着说女儿是在家里被剥夺了生命",
+        "onboard_time": 1766211982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58240,
+        "num": 183684,
+        "word": "优衣库部分门店被指偷拍消费者",
+        "onboard_time": 1766218880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10757,
+        "num": 181413,
+        "word": "患者要求下救护车小便禁停区坠亡",
+        "onboard_time": 1766219421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286472,
+        "num": 181038,
+        "word": "朱孝天疑似内涵阿信",
+        "onboard_time": 1766216900,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180556,
+        "num": 180556,
+        "word": "坚持吃苹果一个月的身体变化",
+        "onboard_time": 1766210481,
+        "rank": 21,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 158774,
+        "num": 158774,
+        "word": "梁某滢曾辩称自己是正当防卫",
+        "onboard_time": 1766215581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155652,
+        "num": 155652,
+        "word": "南方黑芝麻糊配料表黑芝麻排第4",
+        "onboard_time": 1766217681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150769,
+        "num": 150769,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150687,
+        "num": 150687,
+        "word": "彭小苒把自己的私服穿上红毯",
+        "onboard_time": 1766216361,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142037,
+        "num": 142037,
+        "word": "陈妍希陈靖可 姐狗",
+        "onboard_time": 1766206701,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96280,
+        "num": 134421,
+        "word": "国乒将选出总教练",
+        "onboard_time": 1766206160,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134093,
+        "num": 134093,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1766218160,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133538,
+        "num": 133538,
+        "word": "陈都灵美背",
+        "onboard_time": 1766218342,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128662,
+        "num": 128662,
+        "word": "王小骞11岁女儿患正食症",
+        "onboard_time": 1766218822,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118266,
+        "num": 118266,
+        "word": "陈妍希带儿子一起去星光大赏",
+        "onboard_time": 1766219121,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "年度报告 无聊",
+        "onboard_time": 1766214322,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107533,
+        "num": 107533,
+        "word": "鞠婧祎跨年小卡",
+        "onboard_time": 1766204180,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 102969,
+        "word": "00后给厂长老爸打工的一天",
+        "onboard_time": 1766218822,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102762,
+        "num": 102762,
+        "word": "沈梦辰每天喝2杯奶茶",
+        "onboard_time": 1766208560,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101697,
+        "num": 101697,
+        "word": "樊振东现役第一削球手",
+        "onboard_time": 1766218880,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98743,
+        "num": 98743,
+        "word": "外国人在中国的恩格尔系数",
+        "onboard_time": 1766217981,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95259,
+        "num": 95259,
+        "word": "陈星旭王玉雯红毯全是看点",
+        "onboard_time": 1766216600,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93740,
+        "num": 93740,
+        "word": "我的工资vs工作量",
+        "onboard_time": 1766218580,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 90556,
+        "num": 90556,
+        "word": "A股最大重组并购案出炉",
+        "onboard_time": 1766219360,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74057,
+        "num": 89669,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89317,
+        "num": 89317,
+        "word": "短剧香蜜男主变润玉",
+        "onboard_time": 1766208861,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81434,
+        "num": 81434,
+        "word": "王者新版猴哥秒变弼马温",
+        "onboard_time": 1766219121,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77336,
+        "num": 77336,
+        "word": "因为那不重要啊",
+        "onboard_time": 1766217321,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77328,
+        "num": 77328,
+        "word": "姜暮生长痛",
+        "onboard_time": 1766219480,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75465,
+        "num": 75465,
+        "word": "张彬彬深V快开到腰了",
+        "onboard_time": 1766216961,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74150,
+        "num": 74150,
+        "word": "TF三四代族综",
+        "onboard_time": 1766212342,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70986,
+        "num": 70986,
+        "word": "自己买菜做饭也不一定省钱",
+        "onboard_time": 1766217800,
+        "rank": 48,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 70099,
+        "num": 70099,
+        "word": "刘芮麟狙击蝴蝶收官宴太好笑了",
+        "onboard_time": 1766216182,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
