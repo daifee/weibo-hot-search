@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766215552616,
+  "endTime": 1766216305438,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 787422,
-      "num": 602381,
+      "num": 621410,
       "word": "克林顿与2女子大尺度照片曝光",
       "onboard_time": 1766208440,
       "rank": 47,
@@ -3107,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405046,
+      "num": 183940,
+      "word": "MMA红毯",
+      "onboard_time": 1766214681,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 405036,
       "num": 232795,
       "word": "最佳入睡时间和睡眠时长",
@@ -4403,14 +4411,6 @@
       "category": "海外新闻,艺人"
     },
     {
-      "raw_hot": 302646,
-      "num": 183940,
-      "word": "MMA红毯",
-      "onboard_time": 1766214681,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 302266,
       "num": 270841,
       "word": "秦俊杰是去体制内进修过吧",
@@ -5187,6 +5187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 264702,
+      "num": 183338,
+      "word": "虞书欣又一人生镜头",
+      "onboard_time": 1766215041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264340,
       "num": 264340,
       "word": "悉尼海滩英勇夺枪男子需接受手术",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1765869624,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253802,
+      "num": 253802,
+      "word": "国乒副总教练竞聘条件",
+      "onboard_time": 1766214440,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 253277,
@@ -6571,14 +6587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212408,
-      "num": 183338,
-      "word": "虞书欣又一人生镜头",
-      "onboard_time": 1766215041,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211863,
       "num": 157095,
       "word": "丝芭艺人收入依法纳税补充声明",
@@ -6713,14 +6721,6 @@
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 206964,
-      "num": 206964,
-      "word": "国乒副总教练竞聘条件",
-      "onboard_time": 1766214440,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 206840,
@@ -7803,7 +7803,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189723,
+      "raw_hot": 189798,
       "num": 181776,
       "word": "母亲哭着说女儿是在家里被剥夺了生命",
       "onboard_time": 1766211982,
@@ -8777,6 +8777,14 @@
       "onboard_time": 1766186417,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "恋与制作人八年与你",
+      "onboard_time": 1766215581,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 172842,
@@ -10184,6 +10192,14 @@
       "word": "南博前院长回应争议文物流出",
       "onboard_time": 1766156843,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150451,
+      "num": 150451,
+      "word": "梁某滢曾辩称自己是正当防卫",
+      "onboard_time": 1766215581,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -13171,6 +13187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121645,
+      "num": 121645,
+      "word": "克林顿发言人回应大尺度照片",
+      "onboard_time": 1766214922,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121598,
       "num": 121598,
       "word": "周大福再涨价",
@@ -13651,6 +13675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117491,
+      "num": 117491,
+      "word": "短剧香蜜沉沉烬如霜",
+      "onboard_time": 1766214859,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117479,
       "num": 117479,
       "word": "阿凡达3治好了我的大片PTSD",
@@ -14089,6 +14121,14 @@
       "onboard_time": 1766207421,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "草莓味 侮辱草莓",
+      "onboard_time": 1766215281,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 114594,
@@ -15883,6 +15923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101120,
+      "num": 101120,
+      "word": "三年级小学生的朋友圈",
+      "onboard_time": 1766216000,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 101100,
       "num": 101100,
       "word": "字节跳动加大人才投入",
@@ -15913,6 +15961,14 @@
       "onboard_time": 1766045121,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 100836,
+      "num": 100836,
+      "word": "吵的是沈腾范丞丞被攻击的是黄景瑜",
+      "onboard_time": 1766216060,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 100787,
@@ -16299,14 +16355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98724,
-      "num": 98724,
-      "word": "草莓味 侮辱草莓",
-      "onboard_time": 1766215281,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 98638,
       "num": 98638,
       "word": "中国女排前队长惠若琪拟任新职",
@@ -16369,14 +16417,6 @@
       "onboard_time": 1765963941,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 98225,
-      "num": 98225,
-      "word": "克林顿发言人回应大尺度照片",
-      "onboard_time": 1766214922,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98151,
@@ -16600,14 +16640,6 @@
       "word": "你打扮那么美是为了和我告别吗",
       "onboard_time": 1765718243,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 96621,
-      "num": 96621,
-      "word": "短剧香蜜沉沉烬如霜",
-      "onboard_time": 1766214859,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -17899,6 +17931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86729,
+      "num": 86729,
+      "word": "刘芮麟狙击蝴蝶收官宴太好笑了",
+      "onboard_time": 1766216182,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86653,
       "num": 86653,
       "word": "这活别干了太废手指头",
@@ -18113,6 +18153,14 @@
       "onboard_time": 1766043381,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84989,
+      "num": 84989,
+      "word": "这大笨猫明显在蒙题",
+      "onboard_time": 1766215940,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 84946,
@@ -18521,6 +18569,14 @@
       "onboard_time": 1766193921,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81766,
+      "num": 81766,
+      "word": "为什么说千万不要提前害怕",
+      "onboard_time": 1766216241,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81596,
@@ -22361,6 +22417,14 @@
       "onboard_time": 1765790122,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33217,
+      "num": 100878,
+      "word": "短剧香蜜旭凤是男二",
+      "onboard_time": 1766215581,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 32901,

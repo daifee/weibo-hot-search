@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766215552616,
+  "endTime": 1766216305438,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3012,7 +3012,7 @@
     },
     {
       "raw_hot": 787422,
-      "num": 602381,
+      "num": 621410,
       "word": "克林顿与2女子大尺度照片曝光",
       "onboard_time": 1766208440,
       "rank": 47,
@@ -9571,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405046,
+      "num": 183940,
+      "word": "MMA红毯",
+      "onboard_time": 1766214681,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 405036,
       "num": 232795,
       "word": "最佳入睡时间和睡眠时长",
@@ -13627,14 +13635,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 302646,
-      "num": 183940,
-      "word": "MMA红毯",
-      "onboard_time": 1766214681,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 302540,
       "num": 233807,
       "word": "已经到了不认识TFBOYS的时代了",
@@ -15571,6 +15571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 264702,
+      "num": 183338,
+      "word": "虞书欣又一人生镜头",
+      "onboard_time": 1766215041,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264666,
       "num": 192847,
       "word": "陈震回旋镖",
@@ -16305,6 +16313,14 @@
       "onboard_time": 1765235717,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253802,
+      "num": 253802,
+      "word": "国乒副总教练竞聘条件",
+      "onboard_time": 1766214440,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 253401,
@@ -19283,14 +19299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212408,
-      "num": 183338,
-      "word": "虞书欣又一人生镜头",
-      "onboard_time": 1766215041,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212320,
       "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
@@ -19856,14 +19864,6 @@
       "word": "马琳琳刷新个人自由滑最好成绩",
       "onboard_time": 1765025364,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206964,
-      "num": 206964,
-      "word": "国乒副总教练竞聘条件",
-      "onboard_time": 1766214440,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -22851,20 +22851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189798,
+      "num": 181776,
+      "word": "母亲哭着说女儿是在家里被剥夺了生命",
+      "onboard_time": 1766211982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189742,
       "num": 205052,
       "word": "高市早苗遇强震神色慌张",
       "onboard_time": 1765255705,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 189723,
-      "num": 181776,
-      "word": "母亲哭着说女儿是在家里被剥夺了生命",
-      "onboard_time": 1766211982,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189686,
@@ -25537,6 +25537,14 @@
       "onboard_time": 1765378104,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "恋与制作人八年与你",
+      "onboard_time": 1766215581,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 172908,
@@ -29928,6 +29936,14 @@
       "word": "南博前院长回应争议文物流出",
       "onboard_time": 1766156843,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150451,
+      "num": 150451,
+      "word": "梁某滢曾辩称自己是正当防卫",
+      "onboard_time": 1766215581,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -38539,6 +38555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121645,
+      "num": 121645,
+      "word": "克林顿发言人回应大尺度照片",
+      "onboard_time": 1766214922,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121643,
       "num": 121643,
       "word": "纪录片称红楼梦120回均由曹雪芹完成",
@@ -40155,6 +40179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117491,
+      "num": 117491,
+      "word": "短剧香蜜沉沉烬如霜",
+      "onboard_time": 1766214859,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117479,
       "num": 117479,
       "word": "阿凡达3治好了我的大片PTSD",
@@ -41281,6 +41313,14 @@
       "onboard_time": 1766207421,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "草莓味 侮辱草莓",
+      "onboard_time": 1766215281,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 114594,
@@ -46547,6 +46587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101120,
+      "num": 101120,
+      "word": "三年级小学生的朋友圈",
+      "onboard_time": 1766216000,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 101102,
       "num": 383634,
       "word": "奈飞回应收购华纳兄弟",
@@ -46657,6 +46705,14 @@
       "onboard_time": 1764580582,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100836,
+      "num": 100836,
+      "word": "吵的是沈腾范丞丞被攻击的是黄景瑜",
+      "onboard_time": 1766216060,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 100821,
@@ -47571,14 +47627,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98724,
-      "num": 98724,
-      "word": "草莓味 侮辱草莓",
-      "onboard_time": 1766215281,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 98669,
       "num": 98669,
       "word": "王楚钦孙颖莎超神一球",
@@ -47761,14 +47809,6 @@
       "onboard_time": 1765090041,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98225,
-      "num": 98225,
-      "word": "克林顿发言人回应大尺度照片",
-      "onboard_time": 1766214922,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98206,
@@ -48320,14 +48360,6 @@
       "word": "你打扮那么美是为了和我告别吗",
       "onboard_time": 1765718243,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 96621,
-      "num": 96621,
-      "word": "短剧香蜜沉沉烬如霜",
-      "onboard_time": 1766214859,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -51827,6 +51859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86729,
+      "num": 86729,
+      "word": "刘芮麟狙击蝴蝶收官宴太好笑了",
+      "onboard_time": 1766216182,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86673,
       "num": 86673,
       "word": "郭宇欣21年中戏毕业照",
@@ -52337,6 +52377,14 @@
       "onboard_time": 1764581601,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84989,
+      "num": 84989,
+      "word": "这大笨猫明显在蒙题",
+      "onboard_time": 1766215940,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 84978,
@@ -53401,6 +53449,14 @@
       "onboard_time": 1765103540,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81766,
+      "num": 81766,
+      "word": "为什么说千万不要提前害怕",
+      "onboard_time": 1766216241,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81758,
@@ -63961,6 +64017,14 @@
       "onboard_time": 1765790122,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33217,
+      "num": 100878,
+      "word": "短剧香蜜旭凤是男二",
+      "onboard_time": 1766215581,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 33213,
