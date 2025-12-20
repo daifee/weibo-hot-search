@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766222884367,
+  "endTime": 1766223655864,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1299,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10184556,
+      "num": 10184556,
+      "word": "考研英语",
+      "onboard_time": 1766211020,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 10158319,
       "num": 10158319,
       "word": "台湾地震",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 9717342,
-      "num": 9717342,
-      "word": "考研英语",
-      "onboard_time": 1766211020,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 9712414,

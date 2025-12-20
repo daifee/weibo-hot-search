@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766222884367,
+  "endTime": 1766223655864,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9717342,
-      "num": 9717342,
+      "raw_hot": 10184556,
+      "num": 10184556,
       "word": "考研英语",
       "onboard_time": 1766211020,
       "rank": 36,
@@ -43,8 +43,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2102101,
-      "num": 2102101,
+      "raw_hot": 2259401,
+      "num": 2259401,
       "word": "英语二 简单",
       "onboard_time": 1766221520,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 996940,
+      "num": 996940,
+      "word": "英语一",
+      "onboard_time": 1766222001,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 993601,
       "num": 259130,
       "word": "乔任梁母亲不让丈夫探望",
@@ -99,11 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 976410,
-      "num": 976410,
-      "word": "英语一",
-      "onboard_time": 1766222001,
-      "rank": 3,
+      "raw_hot": 944656,
+      "num": 944656,
+      "word": "英语一我恨你",
+      "onboard_time": 1766222061,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 849476,
+      "num": 319518,
+      "word": "考研英语答案",
+      "onboard_time": 1766222423,
+      "rank": 15,
       "category": "教育"
     },
     {
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 689351,
+      "num": 316532,
+      "word": "最猛的1是考研英语一",
+      "onboard_time": 1766221942,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 663909,
       "num": 663909,
       "word": "肖四",
@@ -187,12 +211,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 549992,
-      "num": 289132,
-      "word": "最猛的1是考研英语一",
-      "onboard_time": 1766221942,
-      "rank": 11,
-      "category": "教育"
+      "raw_hot": 557195,
+      "num": 557195,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 526120,
@@ -227,16 +251,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474627,
-      "num": 287405,
-      "word": "英语一我恨你",
-      "onboard_time": 1766222061,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 458076,
-      "num": 281934,
+      "num": 312975,
       "word": "星光大赏出发",
       "onboard_time": 1766221161,
       "rank": 14,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442175,
-      "num": 280309,
-      "word": "考研英语答案",
-      "onboard_time": 1766222423,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 440106,
       "num": 875933,
       "word": "到底是谁取消有线耳机的",
@@ -283,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 418239,
+      "num": 315232,
+      "word": "患者要求下救护车小便禁停区坠亡",
+      "onboard_time": 1766219421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404511,
       "num": 153902,
       "word": "孙涵清回应分手",
@@ -297,14 +313,6 @@
       "onboard_time": 1766187918,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 402777,
-      "num": 276207,
-      "word": "患者要求下救护车小便禁停区坠亡",
-      "onboard_time": 1766219421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399270,
@@ -331,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385504,
+      "num": 311383,
+      "word": "陈妍希带儿子一起去星光大赏",
+      "onboard_time": 1766219121,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376470,
       "num": 376470,
       "word": "91岁老人欲把亡妻房子给50岁女友",
       "onboard_time": 1766190680,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368284,
-      "num": 261098,
-      "word": "陈妍希带儿子一起去星光大赏",
-      "onboard_time": 1766219121,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 360920,
@@ -361,14 +369,6 @@
       "onboard_time": 1766220201,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351572,
-      "num": 351572,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 347067,
@@ -411,6 +411,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 323024,
+      "num": 220486,
+      "word": "毛晓彤上午官宣下午红毯",
+      "onboard_time": 1766222482,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 320843,
+      "num": 320843,
+      "word": "考研英语作文",
+      "onboard_time": 1766222120,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 309402,
       "num": 350677,
       "word": "成都女子家门口遇害案被告一审死缓",
@@ -433,14 +449,6 @@
       "onboard_time": 1766156602,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296161,
-      "num": 296161,
-      "word": "考研英语作文",
-      "onboard_time": 1766222120,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 291635,
@@ -619,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220486,
-      "num": 220486,
-      "word": "毛晓彤上午官宣下午红毯",
-      "onboard_time": 1766222482,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220463,
       "num": 220463,
       "word": "成都中院回应梁某滢被判死缓",
@@ -657,6 +657,14 @@
       "onboard_time": 1766155462,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 215433,
+      "num": 215433,
+      "word": "养老机器人",
+      "onboard_time": 1766222423,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 210321,
@@ -761,14 +769,6 @@
       "onboard_time": 1766196740,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193483,
-      "num": 193483,
-      "word": "养老机器人",
-      "onboard_time": 1766222423,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 192599,
@@ -889,6 +889,14 @@
       "onboard_time": 1766156663,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168614,
+      "num": 168614,
+      "word": "阿凡达3 厕所时间",
+      "onboard_time": 1766222301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 167697,
@@ -1041,6 +1049,22 @@
       "onboard_time": 1766200702,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142671,
+      "num": 142671,
+      "word": "狙击蝴蝶程雅昭自制番外狙击蚊子",
+      "onboard_time": 1766222902,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142581,
+      "num": 142581,
+      "word": "成都中院发布关于梁某滢量刑说明",
+      "onboard_time": 1766222722,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142512,
@@ -1211,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130245,
+      "num": 130245,
+      "word": "MMA节目单",
+      "onboard_time": 1766222902,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129601,
       "num": 129601,
       "word": "宝妈生3胎后肚皮松垮内脏下垂",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1766214922,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120805,
+      "num": 120805,
+      "word": "房间隔缺损",
+      "onboard_time": 1766223501,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120524,
@@ -1643,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101718,
-      "num": 101718,
-      "word": "成都中院发布关于梁某滢量刑说明",
-      "onboard_time": 1766222722,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101697,
       "num": 101697,
       "word": "樊振东现役第一削球手",
@@ -1675,20 +1707,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100700,
-      "num": 116181,
-      "word": "阿凡达3 厕所时间",
-      "onboard_time": 1766222301,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100549,
       "num": 154269,
       "word": "考研时间",
       "onboard_time": 1766141540,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100293,
+      "num": 100293,
+      "word": "孙颖莎横空出世的背后",
+      "onboard_time": 1766223441,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100237,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1766212762,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81922,
+      "num": 270592,
+      "word": "话梅3580元1斤 进贡级罗光梅",
+      "onboard_time": 1766222242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81858,
@@ -2491,6 +2531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53445,
+      "num": 116876,
+      "word": "上海一楼盘最贵一套房588平1.46亿元",
+      "onboard_time": 1766222423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52822,
       "num": 148940,
       "word": "AG掉入败者组",
@@ -2547,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47695,
-      "num": 270592,
-      "word": "话梅3580元1斤 进贡级罗光梅",
-      "onboard_time": 1766222242,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47061,
       "num": 61617,
       "word": "月鳞绮纪",
@@ -2579,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45160,
+      "num": 272623,
+      "word": "日本大阪府发生集体食物中毒事件",
+      "onboard_time": 1766221880,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44931,
       "num": 61773,
       "word": "射雕英雄传侠之大者",
@@ -2587,20 +2635,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44227,
-      "num": 116876,
-      "word": "上海一楼盘最贵一套房588平1.46亿元",
-      "onboard_time": 1766222423,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43640,
       "num": 93713,
       "word": "鞠婧祎机场状态",
       "onboard_time": 1766163738,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42222,
+      "num": 112029,
+      "word": "婚恋中我们要怎么谈钱",
+      "onboard_time": 1766223622,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42046,
@@ -2641,14 +2689,6 @@
       "onboard_time": 1766197281,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34748,
-      "num": 272623,
-      "word": "日本大阪府发生集体食物中毒事件",
-      "onboard_time": 1766221880,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34247,
@@ -2755,20 +2795,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27595,
+      "num": 274162,
+      "word": "鲁豫说健康问题问阿福别再扛着",
+      "onboard_time": 1766221520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27320,
       "num": 43507,
       "word": "新华社追踪南博名作现身拍卖市场",
       "onboard_time": 1766167995,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26719,
-      "num": 274162,
-      "word": "鲁豫说健康问题问阿福别再扛着",
-      "onboard_time": 1766221520,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 26609,

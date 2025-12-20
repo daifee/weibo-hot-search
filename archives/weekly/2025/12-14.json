@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766222884367,
+  "endTime": 1766223655864,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9717342,
-      "num": 9717342,
+      "raw_hot": 10184556,
+      "num": 10184556,
       "word": "考研英语",
       "onboard_time": 1766211020,
       "rank": 36,
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2102101,
-      "num": 2102101,
+      "raw_hot": 2259401,
+      "num": 2259401,
       "word": "英语二 简单",
       "onboard_time": 1766221520,
       "rank": 1,
@@ -571,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 996940,
+      "num": 996940,
+      "word": "英语一",
+      "onboard_time": 1766222001,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 993601,
       "num": 259130,
       "word": "乔任梁母亲不让丈夫探望",
@@ -603,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 976410,
-      "num": 976410,
-      "word": "英语一",
-      "onboard_time": 1766222001,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 958904,
       "num": 343529,
       "word": "张凯毅 背刺",
@@ -633,6 +633,14 @@
       "onboard_time": 1766018781,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 944656,
+      "num": 944656,
+      "word": "英语一我恨你",
+      "onboard_time": 1766222061,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 938924,
@@ -793,6 +801,14 @@
       "onboard_time": 1765943121,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 849476,
+      "num": 319518,
+      "word": "考研英语答案",
+      "onboard_time": 1766222423,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 849078,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1765772542,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 689351,
+      "num": 316532,
+      "word": "最猛的1是考研英语一",
+      "onboard_time": 1766221942,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 684279,
@@ -1939,6 +1963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 557195,
+      "num": 557195,
+      "word": "星光大赏",
+      "onboard_time": 1765677501,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557121,
       "num": 557121,
       "word": "奶茶力挺zwy",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1766026520,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549992,
-      "num": 289132,
-      "word": "最猛的1是考研英语一",
-      "onboard_time": 1766221942,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 549172,
@@ -2507,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474627,
-      "num": 287405,
-      "word": "英语一我恨你",
-      "onboard_time": 1766222061,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 474554,
       "num": 244209,
       "word": "郑恺问苗苗今天为什么要化妆",
@@ -2620,7 +2636,7 @@
     },
     {
       "raw_hot": 458076,
-      "num": 281934,
+      "num": 312975,
       "word": "星光大赏出发",
       "onboard_time": 1766221161,
       "rank": 14,
@@ -2761,14 +2777,6 @@
       "onboard_time": 1766104580,
       "rank": 10,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 442175,
-      "num": 280309,
-      "word": "考研英语答案",
-      "onboard_time": 1766222423,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 441522,
@@ -2923,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 425764,
-      "num": 425764,
-      "word": "星光大赏",
-      "onboard_time": 1765677501,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 425740,
       "num": 207908,
       "word": "A股",
@@ -3075,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418239,
+      "num": 315232,
+      "word": "患者要求下救护车小便禁停区坠亡",
+      "onboard_time": 1766219421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417454,
       "num": 319125,
       "word": "35万纯电玛莎拉蒂被一抢而空",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1766187918,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 402777,
-      "num": 276207,
-      "word": "患者要求下救护车小便禁停区坠亡",
-      "onboard_time": 1766219421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 402699,
@@ -3459,6 +3459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 385504,
+      "num": 311383,
+      "word": "陈妍希带儿子一起去星光大赏",
+      "onboard_time": 1766219121,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384604,
       "num": 292747,
       "word": "林浩当爸爸了",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1765880780,
       "rank": 42,
       "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 368284,
-      "num": 261098,
-      "word": "陈妍希带儿子一起去星光大赏",
-      "onboard_time": 1766219121,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 367418,
@@ -4195,6 +4195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323024,
+      "num": 220486,
+      "word": "毛晓彤上午官宣下午红毯",
+      "onboard_time": 1766222482,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322897,
       "num": 145942,
       "word": "倪萍在故宫听到张学良的名字震惊了",
@@ -4265,6 +4273,14 @@
       "onboard_time": 1765984163,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320843,
+      "num": 320843,
+      "word": "考研英语作文",
+      "onboard_time": 1766222120,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 319739,
@@ -4609,14 +4625,6 @@
       "onboard_time": 1766157501,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296161,
-      "num": 296161,
-      "word": "考研英语作文",
-      "onboard_time": 1766222120,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 295956,
@@ -6427,14 +6435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220486,
-      "num": 220486,
-      "word": "毛晓彤上午官宣下午红毯",
-      "onboard_time": 1766222482,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220463,
       "num": 220463,
       "word": "成都中院回应梁某滢被判死缓",
@@ -6633,6 +6633,14 @@
       "onboard_time": 1765634063,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215433,
+      "num": 215433,
+      "word": "养老机器人",
+      "onboard_time": 1766222423,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 215315,
@@ -7649,14 +7657,6 @@
       "onboard_time": 1766021959,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193483,
-      "num": 193483,
-      "word": "养老机器人",
-      "onboard_time": 1766222423,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 193457,
@@ -9153,6 +9153,14 @@
       "onboard_time": 1766121020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168614,
+      "num": 168614,
+      "word": "阿凡达3 厕所时间",
+      "onboard_time": 1766222301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 168392,
@@ -10963,6 +10971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142671,
+      "num": 142671,
+      "word": "狙击蝴蝶程雅昭自制番外狙击蚊子",
+      "onboard_time": 1766222902,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "刘奕君 咋还跟这小鲜肉过不去呢",
@@ -10977,6 +10993,14 @@
       "onboard_time": 1765971200,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142581,
+      "num": 142581,
+      "word": "成都中院发布关于梁某滢量刑说明",
+      "onboard_time": 1766222722,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142512,
@@ -12363,6 +12387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130245,
+      "num": 130245,
+      "word": "MMA节目单",
+      "onboard_time": 1766222902,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130235,
       "num": 130235,
       "word": "黑色长款羽绒服搭配思路",
@@ -13513,6 +13545,14 @@
       "onboard_time": 1766034503,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120805,
+      "num": 120805,
+      "word": "房间隔缺损",
+      "onboard_time": 1766223501,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120690,
@@ -16051,14 +16091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101718,
-      "num": 101718,
-      "word": "成都中院发布关于梁某滢量刑说明",
-      "onboard_time": 1766222722,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101697,
       "num": 101697,
       "word": "樊振东现役第一削球手",
@@ -16235,14 +16267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100700,
-      "num": 116181,
-      "word": "阿凡达3 厕所时间",
-      "onboard_time": 1766222301,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100662,
       "num": 100662,
       "word": "周深拿出这三首ost就是王炸",
@@ -16297,6 +16321,14 @@
       "onboard_time": 1765687942,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100293,
+      "num": 100293,
+      "word": "孙颖莎横空出世的背后",
+      "onboard_time": 1766223441,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100283,
@@ -18859,6 +18891,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 81922,
+      "num": 270592,
+      "word": "话梅3580元1斤 进贡级罗光梅",
+      "onboard_time": 1766222242,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81887,
       "num": 302854,
       "word": "悉尼枪击事件1名枪手身份确认",
@@ -21227,6 +21267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53445,
+      "num": 116876,
+      "word": "上海一楼盘最贵一套房588平1.46亿元",
+      "onboard_time": 1766222423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53364,
       "num": 845200,
       "word": "海南自贸港封关将带来更多机遇",
@@ -21579,14 +21627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47695,
-      "num": 270592,
-      "word": "话梅3580元1斤 进贡级罗光梅",
-      "onboard_time": 1766222242,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47642,
       "num": 139118,
       "word": "河南方城领导在担心什么",
@@ -21755,6 +21795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45160,
+      "num": 272623,
+      "word": "日本大阪府发生集体食物中毒事件",
+      "onboard_time": 1766221880,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44848,
       "num": 269212,
       "word": "AI健康陪伴搭子阿福上线",
@@ -21808,14 +21856,6 @@
       "word": "海南封关后6600项商品零关税",
       "onboard_time": 1766108839,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44227,
-      "num": 116876,
-      "word": "上海一楼盘最贵一套房588平1.46亿元",
-      "onboard_time": 1766222423,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -21952,6 +21992,14 @@
       "word": "全球航司排队来海南修飞机",
       "onboard_time": 1765867222,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42222,
+      "num": 112029,
+      "word": "婚恋中我们要怎么谈钱",
+      "onboard_time": 1766223622,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -22633,14 +22681,6 @@
       "onboard_time": 1765790001,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34748,
-      "num": 272623,
-      "word": "日本大阪府发生集体食物中毒事件",
-      "onboard_time": 1766221880,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34710,
@@ -23475,6 +23515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27595,
+      "num": 274162,
+      "word": "鲁豫说健康问题问阿福别再扛着",
+      "onboard_time": 1766221520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27494,
       "num": 44989,
       "word": "2025搜狐时尚盛典",
@@ -23545,14 +23593,6 @@
       "onboard_time": 1765708161,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26719,
-      "num": 274162,
-      "word": "鲁豫说健康问题问阿福别再扛着",
-      "onboard_time": 1766221520,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 26669,
