@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766235121503,
+  "endTime": 1766235949696,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1215601,
-      "num": 259264,
+      "num": 413410,
       "word": "宁波卫健委回应小洛熙事件最新进展",
       "onboard_time": 1766230762,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1110188,
-      "num": 940916,
+      "num": 1162780,
       "word": "星光大赏",
       "onboard_time": 1766222061,
       "rank": 6,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 950331,
-      "num": 228786,
+      "num": 273924,
       "word": "曝短剧女星与助理打架",
       "onboard_time": 1766227641,
       "rank": 22,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 859431,
-      "num": 278713,
+      "num": 405145,
       "word": "穆祉丞王橹杰同框",
       "onboard_time": 1766229983,
       "rank": 11,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 581472,
-      "num": 251065,
+      "num": 394474,
       "word": "多方回应女童发烧入院用药后夭折",
       "onboard_time": 1766232623,
       "rank": 12,
@@ -289,6 +289,14 @@
       "onboard_time": 1766204061,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 554707,
+      "num": 400702,
+      "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+      "onboard_time": 1766232440,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 526120,
@@ -332,11 +340,19 @@
     },
     {
       "raw_hot": 471097,
-      "num": 311381,
+      "num": 434169,
       "word": "台北砍人案一伤者感染艾滋病",
       "onboard_time": 1766226442,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467070,
+      "num": 467070,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1766234122,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 458076,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 435190,
-      "num": 247980,
+      "num": 352332,
       "word": "王玉雯主持",
       "onboard_time": 1766230161,
       "rank": 21,
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 412500,
-      "num": 246990,
-      "word": "虞书欣 你做的咖啡再甜我都不稀罕",
-      "onboard_time": 1766232440,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 404511,
       "num": 153902,
       "word": "孙涵清回应分手",
@@ -417,6 +425,14 @@
       "onboard_time": 1766187918,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 403946,
+      "num": 144093,
+      "word": "等你下课发的穆祉丞王橹杰",
+      "onboard_time": 1766235742,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 399270,
@@ -443,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391330,
+      "num": 391330,
+      "word": "再见爱人反转",
+      "onboard_time": 1766232623,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388680,
       "num": 1062188,
       "word": "海南封关40克金饰能省1万多元",
@@ -467,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372956,
+      "num": 431243,
+      "word": "鸿蒙星光盛典",
+      "onboard_time": 1766230461,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360920,
       "num": 153703,
       "word": "瑞龙恋爱",
@@ -489,14 +521,6 @@
       "onboard_time": 1766220201,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351261,
-      "num": 351261,
-      "word": "鸿蒙星光盛典",
-      "onboard_time": 1766230461,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 347067,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322349,
+      "num": 322349,
+      "word": "涉事医院回应小洛熙尸检报告",
+      "onboard_time": 1766235862,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320843,
       "num": 320843,
       "word": "考研英语作文",
@@ -572,11 +604,19 @@
     },
     {
       "raw_hot": 305954,
-      "num": 242185,
+      "num": 249965,
       "word": "许我耀眼获奖",
       "onboard_time": 1766232262,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303775,
+      "num": 303775,
+      "word": "你好星期六",
+      "onboard_time": 1766235802,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 299996,
@@ -641,22 +681,6 @@
       "onboard_time": 1766194280,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269511,
-      "num": 239627,
-      "word": "再见爱人反转",
-      "onboard_time": 1766232623,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 265993,
-      "num": 265993,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1766234122,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 264702,
@@ -891,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202216,
+      "num": 202216,
+      "word": "谢娜主持",
+      "onboard_time": 1766234782,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201810,
       "num": 201810,
       "word": "穆祉丞高会",
@@ -1099,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183207,
+      "num": 183207,
+      "word": "赵小童直播",
+      "onboard_time": 1766235263,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180962,
       "num": 180962,
       "word": "花海置顶SDG",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1766229742,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177711,
+      "num": 177711,
+      "word": "单依纯好听",
+      "onboard_time": 1766234841,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 175709,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1766156663,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168654,
+      "num": 168654,
+      "word": "霍思燕爱犬在国际比赛夺冠",
+      "onboard_time": 1766234002,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 167697,
@@ -1291,14 +1347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153763,
-      "num": 153763,
-      "word": "谢娜主持",
-      "onboard_time": 1766234782,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153544,
       "num": 153544,
       "word": "金晨被鸡蛋烫成哥斯拉了",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1766226742,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146498,
-      "num": 148984,
-      "word": "霍思燕爱犬在国际比赛夺冠",
-      "onboard_time": 1766234002,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 145618,
@@ -1467,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140721,
+      "num": 167151,
+      "word": "夫妻吵架上头丈夫血管当场气炸",
+      "onboard_time": 1766230161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140429,
       "num": 140429,
       "word": "苏新皓被冻到路边紧急买秋裤",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1766204540,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "长安二十四计 灯塔",
+      "onboard_time": 1766235623,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 138332,
@@ -1561,14 +1617,6 @@
       "onboard_time": 1766214380,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135712,
-      "num": 135712,
-      "word": "夫妻吵架上头丈夫血管当场气炸",
-      "onboard_time": 1766230161,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135644,
@@ -1675,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130435,
+      "num": 130435,
+      "word": "EDG对阵iG",
+      "onboard_time": 1766235022,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130245,
       "num": 130245,
       "word": "MMA节目单",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1766218822,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126495,
+      "num": 126495,
+      "word": "石宇奇晋级决赛",
+      "onboard_time": 1766235742,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125392,
@@ -1763,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123411,
+      "num": 127290,
+      "word": "姚顺雨高考数学时睡觉错失全省第一",
+      "onboard_time": 1766235263,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122519,
       "num": 122519,
       "word": "苦果亦是果前夫也是夫",
@@ -1779,12 +1851,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121387,
-      "num": 121387,
-      "word": "单依纯好听",
-      "onboard_time": 1766234841,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 120805,
+      "num": 159591,
+      "word": "以为是花其实是五颜六色的叶子",
+      "onboard_time": 1766235382,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120524,
@@ -1985,14 +2057,6 @@
       "onboard_time": 1766230342,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113086,
-      "num": 113086,
-      "word": "EDG对阵iG",
-      "onboard_time": 1766235022,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 112992,
@@ -2356,7 +2420,7 @@
     },
     {
       "raw_hot": 96710,
-      "num": 114469,
+      "num": 124044,
       "word": "湘超",
       "onboard_time": 1766234002,
       "rank": 48,
@@ -2729,6 +2793,14 @@
       "onboard_time": 1766196200,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80581,
+      "num": 284394,
+      "word": "高速狂奔490公里司机要求退车退款",
+      "onboard_time": 1766234902,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78041,
@@ -3196,7 +3268,7 @@
     },
     {
       "raw_hot": 48978,
-      "num": 134411,
+      "num": 140995,
       "word": "总台使用13台Mate80拍摄鸿蒙盛典",
       "onboard_time": 1766234362,
       "rank": 37,
@@ -3248,6 +3320,14 @@
       "word": "日本大阪府发生集体食物中毒事件",
       "onboard_time": 1766221880,
       "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45001,
+      "num": 140289,
+      "word": "印度招聘考生在机场跑道席地而坐笔试",
+      "onboard_time": 1766234722,
+      "rank": 38,
       "category": "海外新闻"
     },
     {
@@ -3321,6 +3401,14 @@
       "onboard_time": 1766228481,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37885,
+      "num": 152947,
+      "word": "华为折叠屏秒变舞台主持手卡",
+      "onboard_time": 1766235862,
+      "rank": 30,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 34247,
@@ -3451,14 +3539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26965,
-      "num": 134088,
-      "word": "印度招聘考生在机场跑道席地而坐笔试",
-      "onboard_time": 1766234722,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26609,
       "num": 61640,
       "word": "陈泽抽奖",
@@ -3497,6 +3577,14 @@
       "onboard_time": 1766169075,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22697,
+      "num": 136397,
+      "word": "辽宁一地公交拒收一角钱引争议",
+      "onboard_time": 1766235922,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21967,
@@ -3555,19 +3643,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14723,
-      "num": 168836,
-      "word": "高速狂奔490公里司机要求退车退款",
-      "onboard_time": 1766234902,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14205,
       "num": 187902,
       "word": "济南一对母女黄河岸边失联超40天",
       "onboard_time": 1766220082,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13628,
+      "num": 140613,
+      "word": "银行过度反诈不该让普通人买单",
+      "onboard_time": 1766235623,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
