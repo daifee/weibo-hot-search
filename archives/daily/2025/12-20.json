@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766241713236,
+  "endTime": 1766244409555,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 732674,
-      "num": 261993,
+      "num": 1070377,
       "word": "永州淘汰长沙",
       "onboard_time": 1766240004,
       "rank": 16,
@@ -371,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 496817,
+      "num": 217211,
+      "word": "双轨热度",
+      "onboard_time": 1766241564,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487938,
       "num": 412895,
       "word": "周扬青跟罗昊在一起的原因",
@@ -457,6 +465,14 @@
       "onboard_time": 1766203999,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 422657,
+      "num": 203712,
+      "word": "曝赵樱子追求蒋毅被拒",
+      "onboard_time": 1766242763,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 418239,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321941,
+      "num": 245548,
+      "word": "海南封关当地市民买爽了",
+      "onboard_time": 1766239523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320843,
       "num": 320843,
       "word": "考研英语作文",
@@ -689,14 +713,6 @@
       "onboard_time": 1766210481,
       "rank": 20,
       "category": "美食,运动健身"
-    },
-    {
-      "raw_hot": 291221,
-      "num": 245548,
-      "word": "海南封关当地市民买爽了",
-      "onboard_time": 1766239523,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288334,
@@ -1011,6 +1027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203371,
+      "num": 203371,
+      "word": "1cm房间隔缺损对5个月患儿影响较大",
+      "onboard_time": 1766243543,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202769,
+      "num": 202769,
+      "word": "怎么李明德又要截爆星光大赏了",
+      "onboard_time": 1766243722,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202458,
       "num": 255836,
       "word": "双轨",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1766192119,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 194768,
+      "num": 217767,
+      "word": "工商银行被罚没超4000万元",
+      "onboard_time": 1766240784,
+      "rank": 26,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 194310,
@@ -1195,6 +1235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 188339,
+      "num": 170257,
+      "word": "陈妍希周柯宇发文告别狙击蝴蝶",
+      "onboard_time": 1766244083,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187904,
       "num": 274279,
       "word": "刘宇宁大连演唱会",
@@ -1209,14 +1257,6 @@
       "onboard_time": 1766240844,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 187008,
-      "num": 217767,
-      "word": "工商银行被罚没超4000万元",
-      "onboard_time": 1766240784,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 186718,
@@ -1323,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174214,
+      "num": 174214,
+      "word": "时代少年团 七星连珠",
+      "onboard_time": 1766242943,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173248,
       "num": 377130,
       "word": "今天2026考研",
@@ -1387,6 +1435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166960,
+      "num": 216854,
+      "word": "央视办的演唱会才是天花板",
+      "onboard_time": 1766240902,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166685,
+      "num": 206446,
+      "word": "易烊千玺演讲",
+      "onboard_time": 1766243662,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166538,
       "num": 166538,
       "word": "徐冬冬被余罪大嫂角色影响了9年",
@@ -1443,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160256,
-      "num": 217211,
-      "word": "双轨热度",
-      "onboard_time": 1766241564,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158774,
       "num": 158774,
       "word": "梁某滢曾辩称自己是正当防卫",
@@ -1499,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155542,
-      "num": 216854,
-      "word": "央视办的演唱会才是天花板",
-      "onboard_time": 1766240902,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154817,
       "num": 154817,
       "word": "陈丽君去看陈昊宇音乐剧了",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1766213181,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153314,
+      "num": 166960,
+      "word": "多方回应小洛熙离世",
+      "onboard_time": 1766244083,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153038,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1766200702,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142825,
+      "num": 206108,
+      "word": "梁王晋级决赛",
+      "onboard_time": 1766241863,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 142671,
@@ -2147,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117672,
+      "num": 166957,
+      "word": "1.4万买的钻戒现回收只有200元",
+      "onboard_time": 1766242104,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117537,
       "num": 150823,
       "word": "檀健次直播",
@@ -2168,6 +2240,14 @@
       "word": "阿凡达3治好了我的大片PTSD",
       "onboard_time": 1766213601,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117465,
+      "num": 166956,
+      "word": "阿凡达3口碑",
+      "onboard_time": 1766244203,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2347,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111719,
+      "num": 166957,
+      "word": "黄霄雲居然把水晶穿在身上",
+      "onboard_time": 1766243603,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "唐诡团宠离家出走",
@@ -2395,12 +2483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109195,
+      "num": 166955,
+      "word": "王铮亮直播",
+      "onboard_time": 1766243183,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "猫出去溜达回来面相大变",
       "onboard_time": 1766208440,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108909,
+      "num": 166954,
+      "word": "成毅叶祖新说好的重逢怎么变诀别了",
+      "onboard_time": 1766243722,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 108666,
@@ -2417,6 +2521,14 @@
       "onboard_time": 1766211020,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108127,
+      "num": 166956,
+      "word": "刘宇宁大连上座率",
+      "onboard_time": 1766243002,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 107358,
@@ -2491,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104418,
+      "num": 166953,
+      "word": "湘超半决赛",
+      "onboard_time": 1766243362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104357,
       "num": 109721,
       "word": "管综逻辑",
@@ -2547,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103040,
+      "num": 166952,
+      "word": "洗澡时的冷水从不浪费",
+      "onboard_time": 1766242583,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 102969,
       "num": 102969,
       "word": "00后给厂长老爸打工的一天",
@@ -2571,6 +2699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102095,
+      "num": 166952,
+      "word": "三家银行共被罚上亿元",
+      "onboard_time": 1766242162,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101697,
       "num": 101697,
       "word": "樊振东现役第一削球手",
@@ -2593,6 +2729,14 @@
       "onboard_time": 1766222841,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101469,
+      "num": 166951,
+      "word": "詹姆斯任意球破门",
+      "onboard_time": 1766243722,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100836,
@@ -2931,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86242,
+      "num": 166960,
+      "word": "曾因作风问题停职专家被安排坐诊",
+      "onboard_time": 1766242643,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85442,
       "num": 240164,
       "word": "央视鸿蒙星光盛典节目单",
@@ -3067,6 +3219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81016,
+      "num": 204328,
+      "word": "易烊千玺说和鸿蒙见证了彼此成长",
+      "onboard_time": 1766243543,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80921,
       "num": 80921,
       "word": "张予曦迅猛龙同框",
@@ -3081,6 +3241,14 @@
       "onboard_time": 1766157682,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78002,
+      "num": 166958,
+      "word": "女友家中两人患癌小伙犹豫该不该结婚",
+      "onboard_time": 1766243362,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77675,
@@ -3547,12 +3715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52213,
+      "num": 204153,
+      "word": "致敬每一位鸿蒙追光人",
+      "onboard_time": 1766243122,
+      "rank": 19,
+      "category": "综艺,数码"
+    },
+    {
       "raw_hot": 52061,
       "num": 122953,
       "word": "吃吃子晗分手原因",
       "onboard_time": 1766149820,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51761,
+      "num": 386943,
+      "word": "冰雪大世界有大国重器区",
+      "onboard_time": 1766236762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51239,
@@ -3859,14 +4043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26940,
-      "num": 386943,
-      "word": "冰雪大世界有大国重器区",
-      "onboard_time": 1766236762,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26609,
       "num": 61640,
       "word": "陈泽抽奖",
@@ -3888,6 +4064,14 @@
       "word": "听sevenkids新歌很难不舞起来",
       "onboard_time": 1766168715,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25018,
+      "num": 204877,
+      "word": "种草时代少年团同款碰一碰",
+      "onboard_time": 1766243543,
+      "rank": 14,
       "category": "综艺"
     },
     {
