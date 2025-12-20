@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766201884628,
+  "endTime": 1766205245260,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 3520649,
-      "num": 264421,
+      "num": 287962,
       "word": "小洛熙尸检报告",
       "onboard_time": 1766198720,
       "rank": 10,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1620885,
-      "num": 1620885,
+      "raw_hot": 3354892,
+      "num": 3354892,
       "word": "考研政治",
       "onboard_time": 1766201000,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1010401,
-      "num": 262450,
+      "num": 264150,
       "word": "小洛熙妈妈感谢法医刘良",
       "onboard_time": 1766199439,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1766196440,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 849078,
+      "num": 849078,
+      "word": "考研管综",
+      "onboard_time": 1766202201,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 842337,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727218,
+      "num": 727218,
+      "word": "原来微信长按2秒钟这么好用",
+      "onboard_time": 1766204061,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 710438,
       "num": 1106308,
       "word": "海南封关120多万卡宴只要60万",
@@ -83,12 +99,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663909,
+      "num": 663909,
+      "word": "肖四",
+      "onboard_time": 1766201839,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 629774,
       "num": 90013,
       "word": "小洛熙事件",
       "onboard_time": 1766186537,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616190,
+      "num": 616190,
+      "word": "考研政治答案",
+      "onboard_time": 1766202140,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 558519,
+      "num": 558519,
+      "word": "考研政治选择题",
+      "onboard_time": 1766204061,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 501813,
@@ -108,7 +148,7 @@
     },
     {
       "raw_hot": 444375,
-      "num": 250330,
+      "num": 273305,
       "word": "原来苗苗是这么有意思的人",
       "onboard_time": 1766200041,
       "rank": 15,
@@ -121,6 +161,14 @@
       "onboard_time": 1766151502,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 423186,
+      "num": 276912,
+      "word": "肖秀荣谈26考研政治",
+      "onboard_time": 1766203999,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 404511,
@@ -137,6 +185,14 @@
       "onboard_time": 1766187918,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 392761,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388680,
@@ -177,6 +233,14 @@
       "onboard_time": 1766156542,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331726,
+      "num": 240257,
+      "word": "小洛熙没有需要做手术的理由",
+      "onboard_time": 1766201061,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306648,
@@ -227,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262256,
+      "num": 262256,
+      "word": "考研管综作文",
+      "onboard_time": 1766203999,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 257610,
+      "num": 257610,
+      "word": "刘耀文把黄子韬赶出时代峰峻",
+      "onboard_time": 1766201481,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253277,
       "num": 132201,
       "word": "什么样的子宫能生这样的孩子",
@@ -241,6 +321,14 @@
       "onboard_time": 1766187019,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248144,
+      "num": 248144,
+      "word": "马斯克被C罗身材卷到了",
+      "onboard_time": 1766200281,
+      "rank": 29,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 230213,
@@ -267,12 +355,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217433,
+      "num": 217433,
+      "word": "鞠婧祎跨年小卡",
+      "onboard_time": 1766204180,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216676,
       "num": 216676,
       "word": "iPhone自带APP居然这么好用",
       "onboard_time": 1766155462,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214355,
+      "num": 294244,
+      "word": "时代少年团在一起的含金量",
+      "onboard_time": 1766205081,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 210321,
@@ -299,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200760,
+      "num": 200760,
+      "word": "政治 反押题",
+      "onboard_time": 1766204421,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199055,
       "num": 167665,
       "word": "曾辉韩雨彤 做生不如做熟",
       "onboard_time": 1766199381,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198920,
+      "num": 198920,
+      "word": "曲艺模板",
+      "onboard_time": 1766205022,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 198135,
@@ -323,12 +443,44 @@
       "category": "网红"
     },
     {
+      "raw_hot": 194492,
+      "num": 194492,
+      "word": "小洛熙家属将继续追究相关人员责任",
+      "onboard_time": 1766204720,
+      "rank": 26,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 193955,
       "num": 281640,
       "word": "普京说相信一见钟情",
       "onboard_time": 1766196740,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193747,
+      "num": 193747,
+      "word": "郭敬明 他超爱",
+      "onboard_time": 1766204240,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192333,
+      "num": 192333,
+      "word": "穆祉丞高会",
+      "onboard_time": 1766204421,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192016,
+      "num": 192016,
+      "word": "现在就出发",
+      "onboard_time": 1766204361,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 189679,
@@ -339,6 +491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "国乒洛奥教练员竞聘",
+      "onboard_time": 1766204901,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180962,
       "num": 180962,
       "word": "花海置顶SDG",
@@ -347,20 +507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180905,
+      "num": 180905,
+      "word": "张凌赫王楚然剧还没播先喂上饭了",
+      "onboard_time": 1766202981,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173248,
       "num": 377130,
       "word": "今天2026考研",
       "onboard_time": 1766186417,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 170119,
-      "num": 170119,
-      "word": "马斯克被C罗身材卷到了",
-      "onboard_time": 1766200281,
-      "rank": 29,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 170076,
@@ -403,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155008,
-      "num": 155008,
-      "word": "刘耀文把黄子韬赶出时代峰峻",
-      "onboard_time": 1766201481,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 164277,
+      "num": 164277,
+      "word": "管综难度",
+      "onboard_time": 1766204901,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "26考研政治结束徐涛发文",
+      "onboard_time": 1766204901,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 154817,
@@ -451,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 145618,
+      "num": 145618,
+      "word": "考研政治太难了",
+      "onboard_time": 1766204480,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145539,
       "num": 145539,
       "word": "阿凡达3",
@@ -491,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139686,
+      "num": 139686,
+      "word": "考研管综答案",
+      "onboard_time": 1766204540,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138307,
       "num": 138307,
       "word": "樊振东再模仿C罗庆祝动作",
@@ -505,6 +689,14 @@
       "onboard_time": 1766198780,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134525,
+      "num": 134525,
+      "word": "赵今麦演活了顾漫笔下的一见钟情",
+      "onboard_time": 1766201601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 133663,
@@ -523,12 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126203,
-      "num": 126203,
-      "word": "肖四",
-      "onboard_time": 1766201839,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 128749,
+      "num": 128749,
+      "word": "马斯克点赞王力宏伴舞机器人",
+      "onboard_time": 1766202502,
+      "rank": 39,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 125185,
@@ -547,12 +739,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123649,
+      "num": 123649,
+      "word": "女生醉驾撞死3人逝者母亲再发声",
+      "onboard_time": 1766203041,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120524,
       "num": 90236,
       "word": "2026WTT总决赛改为6天",
       "onboard_time": 1766196921,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119380,
+      "num": 286834,
+      "word": "奇迹",
+      "onboard_time": 1766199022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118569,
+      "num": 118569,
+      "word": "谁家婚礼一拜天地二剑高堂",
+      "onboard_time": 1766201720,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118447,
+      "num": 118447,
+      "word": "苹果烤奶",
+      "onboard_time": 1766202502,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 116431,
@@ -563,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115770,
+      "num": 115770,
+      "word": "苏新皓这是我18岁的最后一支vlog",
+      "onboard_time": 1766205200,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115651,
       "num": 89132,
       "word": "女子舌下藏毒探监接吻后毒死男友",
@@ -571,12 +803,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114942,
-      "num": 286834,
-      "word": "奇迹",
-      "onboard_time": 1766199022,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 114969,
+      "num": 116826,
+      "word": "政治经济学",
+      "onboard_time": 1766203701,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 114166,
+      "num": 114166,
+      "word": "美国大规模空袭伊斯兰国",
+      "onboard_time": 1766201601,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113646,
@@ -611,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110697,
-      "num": 110697,
-      "word": "美国大规模空袭伊斯兰国",
-      "onboard_time": 1766201601,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109573,
       "num": 109573,
       "word": "滑雪",
@@ -643,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105875,
-      "num": 105875,
-      "word": "赵今麦演活了顾漫笔下的一见钟情",
-      "onboard_time": 1766201601,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105000,
       "num": 154423,
       "word": "玉兰花开君再来",
@@ -665,6 +889,14 @@
       "onboard_time": 1766187620,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103245,
+      "num": 257630,
+      "word": "霸王茶姬上新了",
+      "onboard_time": 1766203701,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 103040,
@@ -713,14 +945,6 @@
       "onboard_time": 1766198180,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95984,
-      "num": 95984,
-      "word": "谁家婚礼一拜天地二剑高堂",
-      "onboard_time": 1766201720,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 94106,
@@ -1051,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60110,
+      "num": 113768,
+      "word": "狙击蝴蝶微博收官宴",
+      "onboard_time": 1766203459,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59014,
       "num": 149679,
       "word": "第五人格有兽焉",
@@ -1064,6 +1296,14 @@
       "word": "银发奶奶竟开车玩起漂移",
       "onboard_time": 1766199860,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58173,
+      "num": 777628,
+      "word": "网警斩断脚本黄牛链条",
+      "onboard_time": 1766203882,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1089,6 +1329,14 @@
       "onboard_time": 1766188458,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56244,
+      "num": 134575,
+      "word": "宋亚轩张真源 沈腾沙溢的养成系",
+      "onboard_time": 1766204660,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 56182,
@@ -1211,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42046,
+      "num": 192155,
+      "word": "奇迹定档预告片",
+      "onboard_time": 1766204121,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40833,
       "num": 138155,
       "word": "台北车站一受伤者等吃饭时被捅一刀",
@@ -1233,6 +1489,14 @@
       "onboard_time": 1766197281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34247,
+      "num": 248569,
+      "word": "王冰冰Mate80探班鸿蒙盛典",
+      "onboard_time": 1766203701,
+      "rank": 18,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 33295,
