@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766270540669,
+  "endTime": 1766273153494,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -7003,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501151,
+      "num": 809784,
+      "word": "冬至",
+      "onboard_time": 1766146400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500890,
       "num": 1061562,
       "word": "快船裁掉保罗",
@@ -12953,14 +12961,6 @@
       "onboard_time": 1764555139,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327496,
-      "num": 272008,
-      "word": "冬至",
-      "onboard_time": 1766146400,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327468,
@@ -37043,6 +37043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129185,
+      "num": 344193,
+      "word": "女友家中两人患癌小伙犹豫该不该结婚",
+      "onboard_time": 1766243362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "王曼昱回应受伤后首场比赛",
@@ -41057,14 +41065,6 @@
       "onboard_time": 1765797381,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117986,
-      "num": 344193,
-      "word": "女友家中两人患癌小伙犹豫该不该结婚",
-      "onboard_time": 1766243362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117946,
@@ -56779,6 +56779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73781,
+      "num": 268375,
+      "word": "周润发请近百名TVB旧同事聚餐",
+      "onboard_time": 1766250918,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73654,
       "num": 150875,
       "word": "肖战对舒适区的看法",
@@ -63491,6 +63499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41860,
+      "num": 73551,
+      "word": "折腰一晚上六个奖",
+      "onboard_time": 1766271856,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41816,
       "num": 73347,
       "word": "女生每天一杯奶茶可乐尿酸值破700",
@@ -63713,14 +63729,6 @@
       "onboard_time": 1765338982,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40771,
-      "num": 268375,
-      "word": "周润发请近百名TVB旧同事聚餐",
-      "onboard_time": 1766250918,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 40709,
@@ -66763,6 +66771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29765,
+      "num": 73194,
+      "word": "坐电梯隐藏自己楼层",
+      "onboard_time": 1766262314,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 29749,
       "num": 85123,
       "word": "2025最燃音乐现场TOP30",
@@ -67188,7 +67204,7 @@
     },
     {
       "raw_hot": 28272,
-      "num": 56397,
+      "num": 72777,
       "word": "英超联赛",
       "onboard_time": 1766254815,
       "rank": 36,
@@ -68931,14 +68947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 22005,
-      "num": 40727,
-      "word": "坐电梯隐藏自己楼层",
-      "onboard_time": 1766262314,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 21955,
       "num": 110936,
       "word": "方城火灾事故快2年了仍无调查报告",
@@ -68980,7 +68988,7 @@
     },
     {
       "raw_hot": 21681,
-      "num": 55424,
+      "num": 72750,
       "word": "美食时间",
       "onboard_time": 1766252418,
       "rank": 47,
@@ -69241,6 +69249,14 @@
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20276,
+      "num": 72910,
+      "word": "于适演唱会首站上座率",
+      "onboard_time": 1766265553,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 20263,
@@ -69891,6 +69907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16726,
+      "num": 72816,
+      "word": "刘宇宁巡演",
+      "onboard_time": 1766259914,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16706,
       "num": 34926,
       "word": "汪苏泷海鳗好笑的",
@@ -70203,6 +70227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15415,
+      "num": 72665,
+      "word": "檀健次朝粉丝挥手",
+      "onboard_time": 1766268015,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15394,
       "num": 28186,
       "word": "张呈 喜剧之神降临",
@@ -70419,6 +70451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14347,
+      "num": 72606,
+      "word": "健康的恋爱关系真的会养人",
+      "onboard_time": 1766272336,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14205,
       "num": 187902,
       "word": "济南一对母女黄河岸边失联超40天",
@@ -70433,6 +70473,14 @@
       "onboard_time": 1765006522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14122,
+      "num": 72595,
+      "word": "侯明昊嘴角自动上扬",
+      "onboard_time": 1766267234,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 14045,
@@ -70585,14 +70633,6 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13379,
-      "num": 40689,
-      "word": "刘宇宁巡演",
-      "onboard_time": 1766259914,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 13342,
@@ -70785,14 +70825,6 @@
       "onboard_time": 1765425203,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12307,
-      "num": 40683,
-      "word": "侯明昊嘴角自动上扬",
-      "onboard_time": 1766267234,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 12302,
@@ -71025,14 +71057,6 @@
       "onboard_time": 1765530683,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10996,
-      "num": 40672,
-      "word": "于适演唱会首站上座率",
-      "onboard_time": 1766265553,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 10925,
