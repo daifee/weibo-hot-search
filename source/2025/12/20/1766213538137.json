@@ -1,0 +1,410 @@
+{
+  "runTime": 1766213538137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 723208,
+        "num": 1115713,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 479271,
+        "num": 479271,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 6105,
+        "num": 475885,
+        "word": "这様家乡",
+        "onboard_time": 1766213361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118077,
+        "num": 465985,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180314,
+        "num": 462503,
+        "word": "国乒将选出总教练",
+        "onboard_time": 1766206160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8246447,
+        "num": 8246447,
+        "word": "韩红为小洛熙宝宝发声",
+        "onboard_time": 1766210301,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 89024,
+        "num": 447196,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56165,
+        "num": 436523,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 699377,
+        "num": 434691,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53877,
+        "num": 425698,
+        "word": "考研管综",
+        "onboard_time": 1766202201,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 897561,
+        "num": 416510,
+        "word": "法医刘良凌晨发视频配文星星亮了",
+        "onboard_time": 1766204840,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 412895,
+        "num": 412895,
+        "word": "周扬青跟罗昊在一起的原因",
+        "onboard_time": 1766211982,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50327,
+        "num": 283223,
+        "word": "适合不适合",
+        "onboard_time": 1766213422,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275930,
+        "num": 275930,
+        "word": "成都女子家门口遇害案被告一审死缓",
+        "onboard_time": 1766211982,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272366,
+        "num": 272366,
+        "word": "陈妍希陈靖可 姐狗",
+        "onboard_time": 1766206701,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85442,
+        "num": 240164,
+        "word": "央视鸿蒙星光盛典节目单",
+        "onboard_time": 1766213181,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509022,
+        "num": 238354,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231663,
+        "num": 231663,
+        "word": "沈梦辰每天喝2杯奶茶",
+        "onboard_time": 1766208560,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27231,
+        "num": 229422,
+        "word": "祝福澳门明天会更好",
+        "onboard_time": 1766205981,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31427,
+        "num": 229154,
+        "word": "家暴13年男子当庭称自己才是受害者",
+        "onboard_time": 1766212822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282849,
+        "num": 229129,
+        "word": "坚持吃苹果一个月的身体变化",
+        "onboard_time": 1766210481,
+        "rank": 20,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 229078,
+        "num": 229078,
+        "word": "短剧香蜜男主变润玉",
+        "onboard_time": 1766208861,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227167,
+        "num": 227167,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205315,
+        "num": 205315,
+        "word": "张柏芝已经写好遗嘱",
+        "onboard_time": 1766209281,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203777,
+        "num": 203777,
+        "word": "TF三四代族综",
+        "onboard_time": 1766212342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189942,
+        "num": 189942,
+        "word": "韩红说小洛熙病例错得太离谱",
+        "onboard_time": 1766213241,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 167000,
+        "num": 167000,
+        "word": "母亲哭着说女儿是在家里被剥夺了生命",
+        "onboard_time": 1766211982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43775,
+        "num": 166799,
+        "word": "TF四代适合不适合MV上线",
+        "onboard_time": 1766208801,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 166749,
+        "word": "辅警工作近6年因有文身被辞退",
+        "onboard_time": 1766210420,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153544,
+        "num": 153544,
+        "word": "金晨被鸡蛋烫成哥斯拉了",
+        "onboard_time": 1766213181,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128094,
+        "num": 128094,
+        "word": "鞠婧祎跨年小卡",
+        "onboard_time": 1766204180,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81467,
+        "num": 119840,
+        "word": "男子车上抽烟辱骂殴打劝阻乘客",
+        "onboard_time": 1766211622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118072,
+        "num": 118072,
+        "word": "马天宇 我就当渡了一劫",
+        "onboard_time": 1766209700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115758,
+        "num": 115758,
+        "word": "时代少年团在一起的含金量",
+        "onboard_time": 1766205081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114041,
+        "num": 114041,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 34,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 112813,
+        "num": 112813,
+        "word": "华晨宇 内娱销冠",
+        "onboard_time": 1766213301,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104115,
+        "num": 104115,
+        "word": "女老板婉拒博士相亲对象",
+        "onboard_time": 1766211020,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99601,
+        "num": 99601,
+        "word": "没见过钟丽缇跳舞的建议反复观看",
+        "onboard_time": 1766213181,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24824,
+        "num": 98072,
+        "word": "男子盗170万黄金埋祖坟墓碑后面",
+        "onboard_time": 1766213121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97907,
+        "num": 97907,
+        "word": "原来当老师有这么多好处",
+        "onboard_time": 1766210420,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89281,
+        "num": 89281,
+        "word": "奇洛李维斯回信周边",
+        "onboard_time": 1766213301,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88742,
+        "num": 88742,
+        "word": "松针让山楂更好吃了",
+        "onboard_time": 1766212762,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84292,
+        "num": 84292,
+        "word": "发现很多东西都在悄悄涨价",
+        "onboard_time": 1766210900,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83848,
+        "num": 83848,
+        "word": "郭敬明 他超爱",
+        "onboard_time": 1766204240,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83288,
+        "num": 83288,
+        "word": "王力宏30周年演唱会上座率",
+        "onboard_time": 1766212762,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82342,
+        "num": 82342,
+        "word": "唐诡团宠离家出走",
+        "onboard_time": 1766209340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74846,
+        "num": 74846,
+        "word": "最显老的行为",
+        "onboard_time": 1766207002,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 72908,
+        "num": 72908,
+        "word": "狗粮一停 感情归零",
+        "onboard_time": 1766211919,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 72510,
+        "num": 72510,
+        "word": "王一博在树上睡眠质量95",
+        "onboard_time": 1766206340,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46464,
+        "num": 72315,
+        "word": "26岁小伙在伦敦卖胡辣汤130元一碗",
+        "onboard_time": 1766211681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}
