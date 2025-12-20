@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766248413770,
+  "endTime": 1766249177894,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -2323,6 +2323,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 917031,
+      "num": 275608,
+      "word": "怎么李明德又要截爆星光大赏了",
+      "onboard_time": 1766243722,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915714,
       "num": 477732,
       "word": "女子裤子内藏2斤多活虫入境",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1764841282,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 702335,
-      "num": 275608,
-      "word": "怎么李明德又要截爆星光大赏了",
-      "onboard_time": 1766243722,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 701594,
@@ -7379,6 +7379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487841,
+      "num": 274556,
+      "word": "涉事医院否认小洛熙房缺为3mm",
+      "onboard_time": 1766247022,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 487696,
       "num": 487696,
       "word": "国家发文禁止亏本卖车",
@@ -10291,6 +10299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393715,
+      "num": 275244,
+      "word": "小洛熙事件法律不能再缺席",
+      "onboard_time": 1766246722,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393503,
       "num": 735344,
       "word": "男子毒死9条宠物狗一审宣判",
@@ -11881,14 +11897,6 @@
       "onboard_time": 1764896781,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 350066,
-      "num": 275244,
-      "word": "小洛熙事件法律不能再缺席",
-      "onboard_time": 1766246722,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350040,
@@ -21595,6 +21603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200557,
+      "num": 273748,
+      "word": "睡觉把手举过头顶为什么很舒服",
+      "onboard_time": 1766245461,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200526,
       "num": 383949,
       "word": "TF四代适合不适合MV上线",
@@ -23451,14 +23467,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 189660,
-      "num": 273748,
-      "word": "睡觉把手举过头顶为什么很舒服",
-      "onboard_time": 1766245461,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 189568,
       "num": 189568,
       "word": "邓紫棋广州跨年场",
@@ -24705,14 +24713,6 @@
       "onboard_time": 1766235263,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183159,
-      "num": 274556,
-      "word": "涉事医院否认小洛熙房缺为3mm",
-      "onboard_time": 1766247022,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183100,
@@ -59617,6 +59617,14 @@
       "onboard_time": 1766039781,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58665,
+      "num": 237838,
+      "word": "michelledaniel",
+      "onboard_time": 1766248999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 58614,
