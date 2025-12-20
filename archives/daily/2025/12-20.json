@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766223655864,
+  "endTime": 1766226486340,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 849476,
-      "num": 319518,
+      "num": 594054,
       "word": "考研英语答案",
       "onboard_time": 1766222423,
       "rank": 15,
@@ -171,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704675,
+      "num": 704675,
+      "word": "英语二",
+      "onboard_time": 1766224762,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 689351,
-      "num": 316532,
+      "num": 321434,
       "word": "最猛的1是考研英语一",
       "onboard_time": 1766221942,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 685096,
+      "num": 320861,
+      "word": "小洛熙父亲发声",
+      "onboard_time": 1766224102,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663909,
@@ -185,6 +201,14 @@
       "onboard_time": 1766201839,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 650893,
+      "num": 650893,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 629774,
@@ -209,14 +233,6 @@
       "onboard_time": 1766204061,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 557195,
-      "num": 557195,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 526120,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 418239,
-      "num": 315232,
+      "num": 320408,
       "word": "患者要求下救护车小便禁停区坠亡",
       "onboard_time": 1766219421,
       "rank": 19,
@@ -329,6 +345,14 @@
       "onboard_time": 1766206701,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391863,
+      "num": 322080,
+      "word": "阿凡达3 厕所时间",
+      "onboard_time": 1766222301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 388680,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258587,
+      "num": 120805,
+      "word": "房间隔缺损",
+      "onboard_time": 1766223501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257610,
       "num": 257610,
       "word": "刘耀文把黄子韬赶出时代峰峻",
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202389,
+      "num": 202389,
+      "word": "英语一翻译",
+      "onboard_time": 1766226020,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201810,
       "num": 201810,
       "word": "穆祉丞高会",
@@ -745,6 +785,14 @@
       "onboard_time": 1766156602,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195035,
+      "num": 195035,
+      "word": "天然钻和培育钻就是CtrlC和CtrlV",
+      "onboard_time": 1766225840,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 195008,
@@ -811,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189877,
+      "num": 189877,
+      "word": "星光大赏网传获奖名单",
+      "onboard_time": 1766224522,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189798,
       "num": 188686,
       "word": "母亲哭着说女儿是在家里被剥夺了生命",
@@ -825,6 +881,14 @@
       "onboard_time": 1766200101,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 184989,
+      "num": 184989,
+      "word": "FGO",
+      "onboard_time": 1766226081,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 180962,
@@ -875,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170867,
+      "num": 142481,
+      "word": "英语一排序好难",
+      "onboard_time": 1766225421,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 170400,
       "num": 195838,
       "word": "网传2025星光大赏获奖名单",
@@ -889,14 +961,6 @@
       "onboard_time": 1766156663,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168614,
-      "num": 168614,
-      "word": "阿凡达3 厕所时间",
-      "onboard_time": 1766222301,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 167697,
@@ -923,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165168,
+      "num": 165168,
+      "word": "考研英语排序",
+      "onboard_time": 1766225300,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "乔任梁父母相继入院",
@@ -936,6 +1008,14 @@
       "word": "管综难度",
       "onboard_time": 1766204901,
       "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 164158,
+      "num": 164158,
+      "word": "英语二阅读",
+      "onboard_time": 1766224941,
+      "rank": 27,
       "category": "教育"
     },
     {
@@ -1075,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142401,
+      "num": 142401,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141705,
       "num": 141705,
       "word": "金饰克价涨到1362元",
@@ -1123,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138332,
+      "num": 138332,
+      "word": "英语一小作文 家书",
+      "onboard_time": 1766224162,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138307,
       "num": 138307,
       "word": "樊振东再模仿C罗庆祝动作",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1766214322,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136606,
+      "num": 136606,
+      "word": "新题型好难",
+      "onboard_time": 1766225902,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 136344,
@@ -1227,12 +1331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132094,
+      "num": 132094,
+      "word": "傅雷家书",
+      "onboard_time": 1766225840,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 131824,
+      "num": 131824,
+      "word": "考研英语翻译",
+      "onboard_time": 1766223681,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131683,
       "num": 131683,
       "word": "张函瑞MV单人part",
       "onboard_time": 1766207660,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130579,
+      "num": 130579,
+      "word": "辛云来瘦了好多",
+      "onboard_time": 1766225481,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 130245,
@@ -1248,6 +1376,14 @@
       "word": "宝妈生3胎后肚皮松垮内脏下垂",
       "onboard_time": 1766187860,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129285,
+      "num": 129285,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1329,14 +1465,6 @@
       "onboard_time": 1766214922,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 120805,
-      "num": 120805,
-      "word": "房间隔缺损",
-      "onboard_time": 1766223501,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120524,
@@ -1441,6 +1569,14 @@
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115528,
+      "num": 115528,
+      "word": "王力宏嘲笑84岁的自己老钱笑",
+      "onboard_time": 1766225720,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 114969,
@@ -1603,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107358,
+      "num": 107358,
+      "word": "英语一双图表",
+      "onboard_time": 1766223862,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107069,
       "num": 153358,
       "word": "黄磊孙莉二女儿颜值",
@@ -1691,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101534,
+      "num": 101534,
+      "word": "猫被关进笼子瞬间眼睛都清澈了",
+      "onboard_time": 1766225481,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101507,
       "num": 101507,
       "word": "当你忘记把外卖默认备注改了",
@@ -1729,6 +1881,14 @@
       "onboard_time": 1766211801,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99974,
+      "num": 99974,
+      "word": "唐诡奇谭",
+      "onboard_time": 1766226442,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 99554,
@@ -1787,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96801,
+      "num": 96801,
+      "word": "谁会是下一个国乒总教练",
+      "onboard_time": 1766225179,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95989,
       "num": 95989,
       "word": "中日外交局势",
@@ -1817,6 +1985,14 @@
       "onboard_time": 1766218580,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 93377,
+      "num": 93377,
+      "word": "管综",
+      "onboard_time": 1766224282,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 92845,

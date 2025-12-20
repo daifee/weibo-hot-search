@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766223655864,
+  "endTime": 1766226486340,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 849476,
-      "num": 319518,
+      "num": 594054,
       "word": "考研英语答案",
       "onboard_time": 1766222423,
       "rank": 15,
@@ -1203,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704675,
+      "num": 704675,
+      "word": "英语二",
+      "onboard_time": 1766224762,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 704257,
       "num": 704257,
       "word": "感染艾滋病老人称死也不能丢脸",
@@ -1252,11 +1260,19 @@
     },
     {
       "raw_hot": 689351,
-      "num": 316532,
+      "num": 321434,
       "word": "最猛的1是考研英语一",
       "onboard_time": 1766221942,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 685096,
+      "num": 320861,
+      "word": "小洛熙父亲发声",
+      "onboard_time": 1766224102,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684279,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1765806561,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650893,
+      "num": 650893,
+      "word": "星光大赏",
+      "onboard_time": 1765677501,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 649689,
@@ -1961,14 +1985,6 @@
       "onboard_time": 1765957882,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 557195,
-      "num": 557195,
-      "word": "星光大赏",
-      "onboard_time": 1765677501,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 557121,
@@ -3076,7 +3092,7 @@
     },
     {
       "raw_hot": 418239,
-      "num": 315232,
+      "num": 320408,
       "word": "患者要求下救护车小便禁停区坠亡",
       "onboard_time": 1766219421,
       "rank": 19,
@@ -3385,6 +3401,14 @@
       "onboard_time": 1766119521,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391863,
+      "num": 322080,
+      "word": "阿凡达3 厕所时间",
+      "onboard_time": 1766222301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 391436,
@@ -5451,6 +5475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258587,
+      "num": 120805,
+      "word": "房间隔缺损",
+      "onboard_time": 1766223501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257885,
       "num": 257885,
       "word": "独居老人百万房产赠侄女因逾期失效",
@@ -7155,6 +7187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202389,
+      "num": 202389,
+      "word": "英语一翻译",
+      "onboard_time": 1766226020,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "王源初雪cha",
@@ -7579,6 +7619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195035,
+      "num": 195035,
+      "word": "天然钻和培育钻就是CtrlC和CtrlV",
+      "onboard_time": 1766225840,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195008,
       "num": 128043,
       "word": "一天小郑嘻嘻聊天记录",
@@ -7947,6 +7995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189877,
+      "num": 189877,
+      "word": "星光大赏网传获奖名单",
+      "onboard_time": 1766224522,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189798,
       "num": 188686,
       "word": "母亲哭着说女儿是在家里被剥夺了生命",
@@ -8313,6 +8369,14 @@
       "onboard_time": 1765884682,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184989,
+      "num": 184989,
+      "word": "FGO",
+      "onboard_time": 1766226081,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 184967,
@@ -9035,6 +9099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170867,
+      "num": 142481,
+      "word": "英语一排序好难",
+      "onboard_time": 1766225421,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 170843,
       "num": 170843,
       "word": "曾舜晞还是那么喜欢香芋奶茶",
@@ -9153,14 +9225,6 @@
       "onboard_time": 1766121020,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168614,
-      "num": 168614,
-      "word": "阿凡达3 厕所时间",
-      "onboard_time": 1766222301,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 168392,
@@ -9331,6 +9395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165168,
+      "num": 165168,
+      "word": "考研英语排序",
+      "onboard_time": 1766225300,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164983,
       "num": 164983,
       "word": "虞书欣这扑通一声",
@@ -9385,6 +9457,14 @@
       "onboard_time": 1765626264,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164158,
+      "num": 164158,
+      "word": "英语二阅读",
+      "onboard_time": 1766224941,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 163538,
@@ -11035,6 +11115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142401,
+      "num": 142401,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142370,
       "num": 178894,
       "word": "5岁男孩玩打火机烧了自家别墅",
@@ -11315,6 +11403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 138332,
+      "num": 138332,
+      "word": "英语一小作文 家书",
+      "onboard_time": 1766224162,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138307,
       "num": 138307,
       "word": "樊振东再模仿C罗庆祝动作",
@@ -11545,6 +11641,14 @@
       "onboard_time": 1766214322,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136606,
+      "num": 136606,
+      "word": "新题型好难",
+      "onboard_time": 1766225902,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 136491,
@@ -12163,6 +12267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132094,
+      "num": 132094,
+      "word": "傅雷家书",
+      "onboard_time": 1766225840,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131979,
       "num": 127014,
       "word": "朱志鑫鬓角",
@@ -12201,6 +12313,14 @@
       "onboard_time": 1766057961,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131824,
+      "num": 131824,
+      "word": "考研英语翻译",
+      "onboard_time": 1766223681,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 131769,
@@ -12371,6 +12491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130579,
+      "num": 130579,
+      "word": "辛云来瘦了好多",
+      "onboard_time": 1766225481,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130490,
       "num": 185046,
       "word": "辅导作业这届家长有的是力气和手段",
@@ -12528,6 +12656,14 @@
       "word": "老人用奶粉罐装近15万寄给骗子",
       "onboard_time": 1765702883,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129285,
+      "num": 129285,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -13547,14 +13683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120805,
-      "num": 120805,
-      "word": "房间隔缺损",
-      "onboard_time": 1766223501,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120690,
       "num": 120690,
       "word": "HLE Kanavi",
@@ -14233,6 +14361,14 @@
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115528,
+      "num": 115528,
+      "word": "王力宏嘲笑84岁的自己老钱笑",
+      "onboard_time": 1766225720,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 115412,
@@ -15427,6 +15563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107358,
+      "num": 107358,
+      "word": "英语一双图表",
+      "onboard_time": 1766223862,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107308,
       "num": 237890,
       "word": "KPL",
@@ -16113,6 +16257,14 @@
       "onboard_time": 1765728021,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101534,
+      "num": 101534,
+      "word": "猫被关进笼子瞬间眼睛都清澈了",
+      "onboard_time": 1766225481,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 101523,
@@ -16907,6 +17059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96801,
+      "num": 96801,
+      "word": "谁会是下一个国乒总教练",
+      "onboard_time": 1766225179,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96772,
       "num": 96772,
       "word": "老己 考研辛苦了",
@@ -17345,6 +17505,14 @@
       "onboard_time": 1765945043,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93377,
+      "num": 93377,
+      "word": "管综",
+      "onboard_time": 1766224282,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 93318,
