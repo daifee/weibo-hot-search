@@ -1,0 +1,410 @@
+{
+  "runTime": 1766235121503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946300,
+        "num": 1151408,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 940916,
+        "num": 940916,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21851,
+        "num": 689218,
+        "word": "这是中国青年",
+        "onboard_time": 1766218160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569879,
+        "num": 569879,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 475638,
+        "num": 475638,
+        "word": "时代少年团开场",
+        "onboard_time": 1766232262,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351261,
+        "num": 351261,
+        "word": "鸿蒙星光盛典",
+        "onboard_time": 1766230461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311381,
+        "num": 311381,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265993,
+        "num": 265993,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1766234122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215767,
+        "num": 265350,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134243,
+        "num": 261578,
+        "word": "英语二",
+        "onboard_time": 1766224762,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1215601,
+        "num": 259264,
+        "word": "宁波卫健委回应小洛熙事件最新进展",
+        "onboard_time": 1766230762,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859431,
+        "num": 256322,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581472,
+        "num": 251065,
+        "word": "多方回应女童发烧入院用药后夭折",
+        "onboard_time": 1766232623,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435190,
+        "num": 247980,
+        "word": "王玉雯主持",
+        "onboard_time": 1766230161,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412500,
+        "num": 246990,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305954,
+        "num": 242185,
+        "word": "许我耀眼获奖",
+        "onboard_time": 1766232262,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269511,
+        "num": 239627,
+        "word": "再见爱人反转",
+        "onboard_time": 1766232623,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238206,
+        "num": 238206,
+        "word": "MMA",
+        "onboard_time": 1766220201,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221872,
+        "num": 221872,
+        "word": "沈梦辰风格大变",
+        "onboard_time": 1766227581,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "DRG对战Hero",
+        "onboard_time": 1766232562,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 359316,
+        "num": 183595,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249432,
+        "num": 183558,
+        "word": "左一",
+        "onboard_time": 1766228061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183460,
+        "num": 183460,
+        "word": "刘宇宁开场唱哭了",
+        "onboard_time": 1766234182,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178581,
+        "num": 178581,
+        "word": "李纯聊嫁给马頔",
+        "onboard_time": 1766229742,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148934,
+        "num": 172039,
+        "word": "英语二 简单",
+        "onboard_time": 1766221520,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 168836,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167618,
+        "num": 167618,
+        "word": "考研英语答案",
+        "onboard_time": 1766222423,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153763,
+        "num": 153763,
+        "word": "谢娜主持",
+        "onboard_time": 1766234782,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150196,
+        "num": 150196,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59313,
+        "num": 149100,
+        "word": "冬至时节如何养生",
+        "onboard_time": 1766232502,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 149067,
+        "word": "市委书记发问你都不懂你怎么去管",
+        "onboard_time": 1766234182,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146498,
+        "num": 148984,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148950,
+        "num": 148950,
+        "word": "阿凡达3 厕所时间",
+        "onboard_time": 1766222301,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143094,
+        "num": 143094,
+        "word": "C罗身材照走红全网",
+        "onboard_time": 1766224642,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84625,
+        "num": 137330,
+        "word": "星链卫星突发罕见事故",
+        "onboard_time": 1766233223,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1036790,
+        "num": 137222,
+        "word": "小洛熙6.5厘米手术创口未缝合",
+        "onboard_time": 1766231002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134975,
+        "num": 134975,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48978,
+        "num": 134411,
+        "word": "总台使用13台Mate80拍摄鸿蒙盛典",
+        "onboard_time": 1766234362,
+        "rank": 37,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 26965,
+        "num": 134088,
+        "word": "印度招聘考生在机场跑道席地而坐笔试",
+        "onboard_time": 1766234722,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117201,
+        "num": 134062,
+        "word": "白鹿没想到一个胡子都没对应上",
+        "onboard_time": 1766232922,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134056,
+        "num": 134056,
+        "word": "狙击蝴蝶的狙原来是这么用的",
+        "onboard_time": 1766231903,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126188,
+        "num": 126188,
+        "word": "刘宇宁大连演唱会",
+        "onboard_time": 1766229983,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125624,
+        "num": 125624,
+        "word": "患者要求下救护车小便禁停区坠亡",
+        "onboard_time": 1766219421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121387,
+        "num": 121387,
+        "word": "单依纯好听",
+        "onboard_time": 1766234841,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121225,
+        "num": 121225,
+        "word": "王玉雯稳得不像第一次主持",
+        "onboard_time": 1766229262,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33696,
+        "num": 119705,
+        "word": "男子举7米高杆写船号字体如打印",
+        "onboard_time": 1766233523,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118916,
+        "num": 118916,
+        "word": "星光大赏时间",
+        "onboard_time": 1766231843,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117237,
+        "num": 117237,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96710,
+        "num": 114469,
+        "word": "湘超",
+        "onboard_time": 1766234002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "EDG对阵iG",
+        "onboard_time": 1766235022,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766230675472,
+  "endTime": 1766235121503,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215601,
+      "num": 259264,
+      "word": "宁波卫健委回应小洛熙事件最新进展",
+      "onboard_time": 1766230762,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1209126,
       "num": 1209126,
       "word": "香港火灾已致151人遇难",
@@ -1532,7 +1540,7 @@
     },
     {
       "raw_hot": 1110188,
-      "num": 691035,
+      "num": 940916,
       "word": "星光大赏",
       "onboard_time": 1764589822,
       "rank": 3,
@@ -1721,6 +1729,14 @@
       "onboard_time": 1766139921,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1036790,
+      "num": 137222,
+      "word": "小洛熙6.5厘米手术创口未缝合",
+      "onboard_time": 1766231002,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1035014,
@@ -2617,6 +2633,14 @@
       "onboard_time": 1765956143,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 859431,
+      "num": 278713,
+      "word": "穆祉丞王橹杰同框",
+      "onboard_time": 1766229983,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 858848,
@@ -5075,14 +5099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 600968,
-      "num": 278713,
-      "word": "穆祉丞王橹杰同框",
-      "onboard_time": 1766229983,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 600877,
       "num": 190260,
       "word": "胡歌二胎 时间",
@@ -5321,6 +5337,14 @@
       "onboard_time": 1765077800,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 581472,
+      "num": 251065,
+      "word": "多方回应女童发烧入院用药后夭折",
+      "onboard_time": 1766232623,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580773,
@@ -7603,6 +7627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475638,
+      "num": 475638,
+      "word": "时代少年团开场",
+      "onboard_time": 1766232262,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475411,
       "num": 475411,
       "word": "鞠婧祎出发参加星光大赏",
@@ -7708,7 +7740,7 @@
     },
     {
       "raw_hot": 471097,
-      "num": 287382,
+      "num": 311381,
       "word": "台北砍人案一伤者感染艾滋病",
       "onboard_time": 1766226442,
       "rank": 37,
@@ -8731,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435190,
+      "num": 247980,
+      "word": "王玉雯主持",
+      "onboard_time": 1766230161,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434658,
       "num": 434658,
       "word": "白鹿编辑记录",
@@ -9481,6 +9521,14 @@
       "onboard_time": 1765962623,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 412500,
+      "num": 246990,
+      "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+      "onboard_time": 1766232440,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 412181,
@@ -11627,6 +11675,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 351261,
+      "num": 351261,
+      "word": "鸿蒙星光盛典",
+      "onboard_time": 1766230461,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351216,
       "num": 351216,
       "word": "国乒11战全胜夺冠军",
@@ -13715,6 +13771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305954,
+      "num": 242185,
+      "word": "许我耀眼获奖",
+      "onboard_time": 1766232262,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305756,
       "num": 305756,
       "word": "罗永浩痛批电信宽带缩水",
@@ -15480,6 +15544,14 @@
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
       "onboard_time": 1765970361,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269511,
+      "num": 239627,
+      "word": "再见爱人反转",
+      "onboard_time": 1766232623,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -20187,14 +20259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206650,
-      "num": 206650,
-      "word": "王玉雯主持",
-      "onboard_time": 1766230161,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206611,
       "num": 206611,
       "word": "0713十个勤天再见面人均徒步佬",
@@ -21249,14 +21313,6 @@
       "onboard_time": 1765109241,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201019,
-      "num": 201019,
-      "word": "鸿蒙星光盛典",
-      "onboard_time": 1766230461,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 200986,
@@ -24299,6 +24355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183667,
+      "num": 183667,
+      "word": "DRG对战Hero",
+      "onboard_time": 1766232562,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183653,
       "num": 183653,
       "word": "黄景瑜张凌赫你俩说啥呢",
@@ -24369,6 +24433,14 @@
       "onboard_time": 1764891618,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183460,
+      "num": 183460,
+      "word": "刘宇宁开场唱哭了",
+      "onboard_time": 1766234182,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 183442,
@@ -25065,6 +25137,14 @@
       "onboard_time": 1765695983,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178581,
+      "num": 178581,
+      "word": "李纯聊嫁给马頔",
+      "onboard_time": 1766229742,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178523,
@@ -28971,14 +29051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156507,
-      "num": 156507,
-      "word": "李纯聊嫁给马頔",
-      "onboard_time": 1766229742,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156490,
       "num": 135069,
       "word": "Faker手机掉湖里了",
@@ -29576,6 +29648,14 @@
       "word": "李嘉格曾在综艺上哭诉",
       "onboard_time": 1765169122,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "谢娜主持",
+      "onboard_time": 1766234782,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -30435,6 +30515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150222,
+      "num": 149067,
+      "word": "市委书记发问你都不懂你怎么去管",
+      "onboard_time": 1766234182,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150177,
       "num": 194909,
       "word": "被曝遭前国脚戴琳欠钱球迷已离世",
@@ -31217,6 +31305,14 @@
       "onboard_time": 1765338503,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146498,
+      "num": 148984,
+      "word": "霍思燕爱犬在国际比赛夺冠",
+      "onboard_time": 1766234002,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 146488,
@@ -34721,6 +34817,14 @@
       "onboard_time": 1765162820,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134056,
+      "num": 134056,
+      "word": "狙击蝴蝶的狙原来是这么用的",
+      "onboard_time": 1766231903,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 134003,
@@ -39243,6 +39347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121387,
+      "num": 121387,
+      "word": "单依纯好听",
+      "onboard_time": 1766234841,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121372,
       "num": 121372,
       "word": "莫拉娱乐",
@@ -40163,6 +40275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118916,
+      "num": 118916,
+      "word": "星光大赏时间",
+      "onboard_time": 1766231843,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118895,
       "num": 118895,
       "word": "快乐家族除了海涛共用一张脸",
@@ -40897,6 +41017,14 @@
       "onboard_time": 1764671841,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117201,
+      "num": 134062,
+      "word": "白鹿没想到一个胡子都没对应上",
+      "onboard_time": 1766232922,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 117151,
@@ -42593,6 +42721,14 @@
       "onboard_time": 1765613959,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113086,
+      "num": 113086,
+      "word": "EDG对阵iG",
+      "onboard_time": 1766235022,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113044,
@@ -49019,6 +49155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96710,
+      "num": 114469,
+      "word": "湘超",
+      "onboard_time": 1766234002,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96685,
       "num": 96685,
       "word": "get到向涵之了",
@@ -53281,6 +53425,14 @@
       "onboard_time": 1765343183,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84625,
+      "num": 137330,
+      "word": "星链卫星突发罕见事故",
+      "onboard_time": 1766233223,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84575,
@@ -58787,6 +58939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59313,
+      "num": 149100,
+      "word": "冬至时节如何养生",
+      "onboard_time": 1766232502,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59309,
       "num": 246585,
       "word": "祝福澳门祝福祖国",
@@ -61001,6 +61161,14 @@
       "onboard_time": 1764932661,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48978,
+      "num": 134411,
+      "word": "总台使用13台Mate80拍摄鸿蒙盛典",
+      "onboard_time": 1766234362,
+      "rank": 37,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 48976,
@@ -64715,6 +64883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33696,
+      "num": 119705,
+      "word": "男子举7米高杆写船号字体如打印",
+      "onboard_time": 1766233523,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33682,
       "num": 117314,
       "word": "迪丽热巴T0级别的细节控",
@@ -66619,6 +66795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26965,
+      "num": 134088,
+      "word": "印度招聘考生在机场跑道席地而坐笔试",
+      "onboard_time": 1766234722,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26926,
       "num": 197082,
       "word": "为救患病孩子父母寒风中直播跳舞",
@@ -68019,6 +68203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21851,
+      "num": 689218,
+      "word": "这是中国青年",
+      "onboard_time": 1766218160,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21846,
       "num": 422408,
       "word": "海南自贸港进入开放发展新阶段",
@@ -69392,6 +69584,14 @@
       "word": "劲酒直播间称月经期间不能喝",
       "onboard_time": 1765013422,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14723,
+      "num": 168836,
+      "word": "高速狂奔490公里司机要求退车退款",
+      "onboard_time": 1766234902,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
