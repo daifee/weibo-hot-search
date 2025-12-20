@@ -1,0 +1,410 @@
+{
+  "runTime": 1766197317883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 388680,
+        "num": 1062188,
+        "word": "海南封关40克金饰能省1万多元",
+        "onboard_time": 1766187738,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382181,
+        "num": 382181,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 257069,
+        "word": "2025中国人的仪式感",
+        "onboard_time": 1766150121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252133,
+        "num": 252133,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209837,
+        "num": 250783,
+        "word": "到底是谁取消有线耳机的",
+        "onboard_time": 1766151502,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268800,
+        "num": 248894,
+        "word": "演唱会出轨门",
+        "onboard_time": 1766149460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236706,
+        "num": 247253,
+        "word": "91岁老人欲把亡妻房子给50岁女友",
+        "onboard_time": 1766190680,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173248,
+        "num": 246255,
+        "word": "今天2026考研",
+        "onboard_time": 1766186417,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87308,
+        "num": 244871,
+        "word": "台北伤人者跳楼身亡",
+        "onboard_time": 1766147000,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145719,
+        "num": 243415,
+        "word": "私人影院强制要求顾客选择异性陪侍套餐",
+        "onboard_time": 1766156663,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1080508,
+        "num": 241363,
+        "word": "女婴术后离世应成医疗行业警钟",
+        "onboard_time": 1766192119,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 993601,
+        "num": 239538,
+        "word": "乔任梁母亲不让丈夫探望",
+        "onboard_time": 1766196440,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270284,
+        "num": 238582,
+        "word": "妻子切除输卵管几天后丈夫提离婚",
+        "onboard_time": 1766194280,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237424,
+        "num": 237424,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1766190799,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192460,
+        "num": 192460,
+        "word": "Angelababy仿妆 美妆圈的期末考",
+        "onboard_time": 1766191340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "花海置顶SDG",
+        "onboard_time": 1766192660,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156698,
+        "num": 156698,
+        "word": "杨紫说自己穿的是假貂",
+        "onboard_time": 1766156602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141705,
+        "num": 141705,
+        "word": "金饰克价涨到1362元",
+        "onboard_time": 1766196921,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138307,
+        "num": 138307,
+        "word": "樊振东再模仿C罗庆祝动作",
+        "onboard_time": 1766192960,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40833,
+        "num": 138155,
+        "word": "台北车站一受伤者等吃饭时被捅一刀",
+        "onboard_time": 1766196500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253277,
+        "num": 132201,
+        "word": "什么样的子宫能生这样的孩子",
+        "onboard_time": 1766194341,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 195008,
+        "num": 128043,
+        "word": "一天小郑嘻嘻聊天记录",
+        "onboard_time": 1766192119,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88073,
+        "num": 126058,
+        "word": "1岁宝宝疑因吃蜂蜜中毒致四肢瘫痪",
+        "onboard_time": 1766197220,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124570,
+        "num": 124570,
+        "word": "吃吃子晗分手",
+        "onboard_time": 1766145201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116468,
+        "num": 116468,
+        "word": "孙涵清回应分手",
+        "onboard_time": 1766157982,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109573,
+        "num": 109573,
+        "word": "滑雪",
+        "onboard_time": 1766196681,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99546,
+        "num": 99546,
+        "word": "谢娜听劝穿超厚在东北热出汗",
+        "onboard_time": 1766195780,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96186,
+        "num": 96186,
+        "word": "宝妈生3胎后肚皮松垮内脏下垂",
+        "onboard_time": 1766187860,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93329,
+        "num": 93329,
+        "word": "阿凡达3凭什么能让观众坐198分钟",
+        "onboard_time": 1766187620,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90691,
+        "num": 90691,
+        "word": "外嫁女补偿款被村组决议从家属中扣除",
+        "onboard_time": 1766191159,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120524,
+        "num": 90236,
+        "word": "2026WTT总决赛改为6天",
+        "onboard_time": 1766196921,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86949,
+        "num": 86949,
+        "word": "反人类暴行",
+        "onboard_time": 1766196621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84361,
+        "num": 84361,
+        "word": "奶茶删博",
+        "onboard_time": 1766192062,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82676,
+        "num": 82676,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81528,
+        "num": 81528,
+        "word": "女子舌下藏毒探监接吻后毒死男友",
+        "onboard_time": 1766187498,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80921,
+        "num": 80921,
+        "word": "张予曦迅猛龙同框",
+        "onboard_time": 1766196200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79747,
+        "num": 79747,
+        "word": "普京说相信一见钟情",
+        "onboard_time": 1766196740,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72679,
+        "num": 79737,
+        "word": "演员王东首谈残疾儿子",
+        "onboard_time": 1766172734,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16173,
+        "num": 79716,
+        "word": "日本女子和AI伴侣举行婚礼",
+        "onboard_time": 1766197220,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71472,
+        "num": 79704,
+        "word": "留学生回国 兵马未动粮草先行",
+        "onboard_time": 1766191940,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66765,
+        "num": 79689,
+        "word": "WB战胜AG",
+        "onboard_time": 1766156542,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63587,
+        "num": 79677,
+        "word": "F4演唱会",
+        "onboard_time": 1766192782,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60337,
+        "num": 79646,
+        "word": "你是怎么察觉一段关系快完了",
+        "onboard_time": 1766191041,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 58748,
+        "num": 79644,
+        "word": "考研时间",
+        "onboard_time": 1766141540,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39474,
+        "num": 79626,
+        "word": "以色列暗杀伊朗核专家细节曝光",
+        "onboard_time": 1766197281,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56840,
+        "num": 79599,
+        "word": "这8个习惯容易带走气血",
+        "onboard_time": 1766188458,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56794,
+        "num": 79589,
+        "word": "上海电信回应被罗永浩吐槽",
+        "onboard_time": 1766193921,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56187,
+        "num": 79575,
+        "word": "孙颖莎能量人物推荐值破1000万",
+        "onboard_time": 1766128220,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55803,
+        "num": 79558,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1766168776,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55201,
+        "num": 79535,
+        "word": "一车辆同一位置违停被举报9次",
+        "onboard_time": 1766195300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}
