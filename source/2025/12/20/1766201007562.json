@@ -1,0 +1,410 @@
+{
+  "runTime": 1766201007562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 664428,
+        "num": 1106308,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501813,
+        "num": 501813,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19640,
+        "num": 372706,
+        "word": "2025中国人的仪式感",
+        "onboard_time": 1766150121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365032,
+        "num": 365032,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306648,
+        "num": 306648,
+        "word": "奇迹定档12月22日",
+        "onboard_time": 1766198660,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156727,
+        "num": 303302,
+        "word": "今天2026考研",
+        "onboard_time": 1766186417,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114942,
+        "num": 286834,
+        "word": "奇迹",
+        "onboard_time": 1766199022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113120,
+        "num": 281640,
+        "word": "普京说相信一见钟情",
+        "onboard_time": 1766196740,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174497,
+        "num": 268440,
+        "word": "演唱会出轨门",
+        "onboard_time": 1766149460,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265767,
+        "num": 265767,
+        "word": "海南封关40克金饰能省1万多元",
+        "onboard_time": 1766187738,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3520649,
+        "num": 264421,
+        "word": "小洛熙尸检报告",
+        "onboard_time": 1766198720,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 923119,
+        "num": 262450,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 831128,
+        "num": 259130,
+        "word": "乔任梁母亲不让丈夫探望",
+        "onboard_time": 1766196440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490514,
+        "num": 256475,
+        "word": "女婴术后离世应成医疗行业警钟",
+        "onboard_time": 1766192119,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141630,
+        "num": 251707,
+        "word": "91岁老人欲把亡妻房子给50岁女友",
+        "onboard_time": 1766190680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250330,
+        "num": 250330,
+        "word": "原来苗苗是这么有意思的人",
+        "onboard_time": 1766200041,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245619,
+        "num": 245619,
+        "word": "妻子切除输卵管几天后丈夫提离婚",
+        "onboard_time": 1766194280,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189679,
+        "num": 189679,
+        "word": "云深不知梦首季收官",
+        "onboard_time": 1766200101,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 58313,
+        "num": 170737,
+        "word": "银发奶奶竟开车玩起漂移",
+        "onboard_time": 1766199860,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167697,
+        "num": 167697,
+        "word": "1岁宝宝疑因吃蜂蜜中毒致四肢瘫痪",
+        "onboard_time": 1766197220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199055,
+        "num": 167665,
+        "word": "曾辉韩雨彤 做生不如做熟",
+        "onboard_time": 1766199381,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166538,
+        "num": 166538,
+        "word": "徐冬冬被余罪大嫂角色影响了9年",
+        "onboard_time": 1766199200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55650,
+        "num": 155717,
+        "word": "被割喉女护士父亲希望凶手杀人偿命",
+        "onboard_time": 1766199620,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153307,
+        "num": 153307,
+        "word": "双轨 国内剧情",
+        "onboard_time": 1766198660,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149392,
+        "num": 149392,
+        "word": "日本风俗店女子分解婴儿遗体被捕",
+        "onboard_time": 1766197399,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135644,
+        "num": 135644,
+        "word": "白鹿看完白展堂看沙溢好割裂",
+        "onboard_time": 1766198780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135389,
+        "num": 135389,
+        "word": "金饰克价涨到1362元",
+        "onboard_time": 1766196921,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134992,
+        "num": 134992,
+        "word": "Angelababy仿妆 美妆圈的期末考",
+        "onboard_time": 1766191340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133663,
+        "num": 133663,
+        "word": "业内评价任嘉伦转型成功",
+        "onboard_time": 1766200220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117152,
+        "num": 117152,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 29,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "哑舍",
+        "onboard_time": 1766199680,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112992,
+        "num": 112992,
+        "word": "时代少年团鸿蒙星光盛典开场",
+        "onboard_time": 1766198720,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112893,
+        "num": 112893,
+        "word": "一天小郑嘻嘻聊天记录",
+        "onboard_time": 1766192119,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104529,
+        "num": 104529,
+        "word": "吃吃子晗分手",
+        "onboard_time": 1766145201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103040,
+        "num": 103040,
+        "word": "樊振东发球被打断后示意noproblem",
+        "onboard_time": 1766199439,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102928,
+        "num": 102928,
+        "word": "阿凡达3",
+        "onboard_time": 1766200702,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99134,
+        "num": 99134,
+        "word": "少食多餐是在反复刺激胃黏膜",
+        "onboard_time": 1766200520,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "中日外交局势",
+        "onboard_time": 1766198180,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17417,
+        "num": 94172,
+        "word": "写字楼公厕设门禁",
+        "onboard_time": 1766200582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94106,
+        "num": 94106,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93748,
+        "num": 93748,
+        "word": "杨紫说自己穿的是假貂",
+        "onboard_time": 1766156602,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 92751,
+        "word": "普京就士兵遗孀未领到抚恤金道歉",
+        "onboard_time": 1766199620,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92057,
+        "num": 92057,
+        "word": "花海置顶SDG",
+        "onboard_time": 1766192660,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91277,
+        "num": 91277,
+        "word": "到底是谁取消有线耳机的",
+        "onboard_time": 1766151502,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89820,
+        "num": 89820,
+        "word": "男子1年内买12部手机全部退货",
+        "onboard_time": 1766197819,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89599,
+        "num": 89599,
+        "word": "范丞丞在孩子们心中的地位",
+        "onboard_time": 1766199022,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89324,
+        "num": 89324,
+        "word": "谢娜听劝穿超厚在东北热出汗",
+        "onboard_time": 1766195780,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77661,
+        "num": 89321,
+        "word": "宇宙闪烁请注意",
+        "onboard_time": 1766200760,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77543,
+        "num": 89321,
+        "word": "WTT修改总决赛赛制",
+        "onboard_time": 1766199439,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75130,
+        "num": 89317,
+        "word": "看完之后刷手机的欲望消失了",
+        "onboard_time": 1766200940,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记谈改革开放的这番话#"
+    }
+  }
+}

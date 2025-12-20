@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766197317883,
+  "endTime": 1766201007562,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -9,6 +9,14 @@
       "onboard_time": 1766156183,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3520649,
+      "num": 264421,
+      "word": "小洛熙尸检报告",
+      "onboard_time": 1766198720,
+      "rank": 10,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1300438,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 993601,
-      "num": 239538,
+      "num": 259130,
       "word": "乔任梁母亲不让丈夫探望",
       "onboard_time": 1766196440,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 923119,
+      "num": 262450,
+      "word": "小洛熙妈妈感谢法医刘良",
+      "onboard_time": 1766199439,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 842337,
@@ -51,12 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664428,
+      "num": 1106308,
+      "word": "海南封关120多万卡宴只要60万",
+      "onboard_time": 1766198839,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629774,
       "num": 90013,
       "word": "小洛熙事件",
       "onboard_time": 1766186537,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501813,
+      "num": 501813,
+      "word": "考研",
+      "onboard_time": 1766132421,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 500492,
@@ -131,6 +163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306648,
+      "num": 306648,
+      "word": "奇迹定档12月22日",
+      "onboard_time": 1766198660,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299996,
       "num": 216889,
       "word": "杨紫说自己穿的是假貂",
@@ -156,7 +196,7 @@
     },
     {
       "raw_hot": 270284,
-      "num": 238582,
+      "num": 245619,
       "word": "妻子切除输卵管几天后丈夫提离婚",
       "onboard_time": 1766194280,
       "rank": 22,
@@ -179,12 +219,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 252133,
-      "num": 300935,
-      "word": "考研",
-      "onboard_time": 1766132421,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 250330,
+      "num": 250330,
+      "word": "原来苗苗是这么有意思的人",
+      "onboard_time": 1766200041,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 249289,
@@ -251,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199055,
+      "num": 167665,
+      "word": "曾辉韩雨彤 做生不如做熟",
+      "onboard_time": 1766199381,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198135,
       "num": 152600,
       "word": "王橹杰高会",
@@ -265,6 +313,14 @@
       "onboard_time": 1766192119,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189679,
+      "num": 189679,
+      "word": "云深不知梦首季收官",
+      "onboard_time": 1766200101,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 180962,
@@ -291,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167697,
+      "num": 167697,
+      "word": "1岁宝宝疑因吃蜂蜜中毒致四肢瘫痪",
+      "onboard_time": 1766197220,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166538,
+      "num": 166538,
+      "word": "徐冬冬被余罪大嫂角色影响了9年",
+      "onboard_time": 1766199200,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "乔任梁父母相继入院",
@@ -307,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153307,
+      "num": 153307,
+      "word": "双轨 国内剧情",
+      "onboard_time": 1766198660,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153038,
       "num": 218089,
       "word": "骄阳似我",
@@ -321,6 +401,14 @@
       "onboard_time": 1766187498,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149392,
+      "num": 149392,
+      "word": "日本风俗店女子分解婴儿遗体被捕",
+      "onboard_time": 1766197399,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141705,
@@ -355,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135644,
+      "num": 135644,
+      "word": "白鹿看完白展堂看沙溢好割裂",
+      "onboard_time": 1766198780,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133663,
+      "num": 133663,
+      "word": "业内评价任嘉伦转型成功",
+      "onboard_time": 1766200220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129601,
       "num": 129601,
       "word": "宝妈生3胎后肚皮松垮内脏下垂",
@@ -371,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117152,
+      "num": 117152,
+      "word": "马斯克被C罗身材卷到了",
+      "onboard_time": 1766200281,
+      "rank": 29,
+      "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 116431,
+      "num": 116431,
+      "word": "哑舍",
+      "onboard_time": 1766199680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115651,
       "num": 89132,
       "word": "女子舌下藏毒探监接吻后毒死男友",
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114942,
+      "num": 286834,
+      "word": "奇迹",
+      "onboard_time": 1766199022,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 113646,
@@ -393,6 +521,22 @@
       "onboard_time": 1766157804,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113120,
+      "num": 281640,
+      "word": "普京说相信一见钟情",
+      "onboard_time": 1766196740,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112992,
+      "num": 112992,
+      "word": "时代少年团鸿蒙星光盛典开场",
+      "onboard_time": 1766198720,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 109573,
@@ -435,6 +579,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103040,
+      "num": 103040,
+      "word": "樊振东发球被打断后示意noproblem",
+      "onboard_time": 1766199439,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102928,
+      "num": 102928,
+      "word": "阿凡达3",
+      "onboard_time": 1766200702,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100549,
       "num": 154269,
       "word": "考研时间",
@@ -451,12 +611,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99134,
+      "num": 99134,
+      "word": "少食多餐是在反复刺激胃黏膜",
+      "onboard_time": 1766200520,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97448,
       "num": 152963,
       "word": "鞠婧祎合约纠纷",
       "onboard_time": 1766156484,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95989,
+      "num": 95989,
+      "word": "中日外交局势",
+      "onboard_time": 1766198180,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94106,
+      "num": 94106,
+      "word": "第五人格",
+      "onboard_time": 1766186717,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 92657,
@@ -483,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89820,
+      "num": 89820,
+      "word": "男子1年内买12部手机全部退货",
+      "onboard_time": 1766197819,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89755,
       "num": 89755,
       "word": "奶茶删博",
       "onboard_time": 1766192062,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89599,
+      "num": 89599,
+      "word": "范丞丞在孩子们心中的地位",
+      "onboard_time": 1766199022,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 89318,
@@ -523,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88073,
-      "num": 126058,
-      "word": "1岁宝宝疑因吃蜂蜜中毒致四肢瘫痪",
-      "onboard_time": 1766197220,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86949,
       "num": 86949,
       "word": "反人类暴行",
@@ -553,14 +745,6 @@
       "onboard_time": 1766150722,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82676,
-      "num": 89090,
-      "word": "第五人格",
-      "onboard_time": 1766186717,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 81858,
@@ -587,20 +771,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79747,
-      "num": 79747,
-      "word": "普京说相信一见钟情",
-      "onboard_time": 1766196740,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78041,
       "num": 151370,
       "word": "赵小童演出",
       "onboard_time": 1766157682,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77661,
+      "num": 89321,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766200760,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77543,
+      "num": 89321,
+      "word": "WTT修改总决赛赛制",
+      "onboard_time": 1766199439,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77062,
@@ -627,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75130,
+      "num": 89317,
+      "word": "看完之后刷手机的欲望消失了",
+      "onboard_time": 1766200940,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75063,
       "num": 151067,
       "word": "新郎第一时间奔到摔倒的新娘身边",
       "onboard_time": 1766159002,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 92751,
+      "word": "普京就士兵遗孀未领到抚恤金道歉",
+      "onboard_time": 1766199620,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74773,
@@ -755,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58313,
+      "num": 170737,
+      "word": "银发奶奶竟开车玩起漂移",
+      "onboard_time": 1766199860,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57882,
       "num": 89007,
       "word": "人民币现金收付新规发布",
@@ -809,6 +1025,14 @@
       "onboard_time": 1766168776,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55650,
+      "num": 155717,
+      "word": "被割喉女护士父亲希望凶手杀人偿命",
+      "onboard_time": 1766199620,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55604,
@@ -1049,6 +1273,14 @@
       "onboard_time": 1766179815,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17417,
+      "num": 94172,
+      "word": "写字楼公厕设门禁",
+      "onboard_time": 1766200582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16173,
