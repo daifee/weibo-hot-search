@@ -1,0 +1,410 @@
+{
+  "runTime": 1766245229056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450072,
+        "num": 1072011,
+        "word": "永州淘汰长沙",
+        "onboard_time": 1766240004,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875087,
+        "num": 875087,
+        "word": "医院删除小洛熙尸检报告回应",
+        "onboard_time": 1766239523,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 47249,
+        "num": 544793,
+        "word": "冰雪大世界有大国重器区",
+        "onboard_time": 1766236762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440904,
+        "num": 440904,
+        "word": "多方回应小洛熙离世",
+        "onboard_time": 1766244083,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348691,
+        "num": 348691,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277763,
+        "num": 277763,
+        "word": "谢娜主持",
+        "onboard_time": 1766234782,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273785,
+        "num": 273785,
+        "word": "海南封关当地市民买爽了",
+        "onboard_time": 1766239523,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163061,
+        "num": 273331,
+        "word": "易烊千玺演讲",
+        "onboard_time": 1766243662,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154637,
+        "num": 270508,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152749,
+        "num": 267518,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 658965,
+        "num": 264407,
+        "word": "双轨热度",
+        "onboard_time": 1766241564,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40063,
+        "num": 263382,
+        "word": "单依纯唱出华为影像温情瞬间",
+        "onboard_time": 1766240004,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29815,
+        "num": 258833,
+        "word": "种草时代少年团同款碰一碰",
+        "onboard_time": 1766243543,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587916,
+        "num": 257696,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256325,
+        "num": 256325,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255496,
+        "num": 255496,
+        "word": "双轨",
+        "onboard_time": 1766240963,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245673,
+        "num": 245673,
+        "word": "陈妍希周柯宇发文告别狙击蝴蝶",
+        "onboard_time": 1766244083,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231073,
+        "num": 231073,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384497,
+        "num": 229460,
+        "word": "怎么李明德又要截爆星光大赏了",
+        "onboard_time": 1766243722,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44313,
+        "num": 228045,
+        "word": "致敬每一位鸿蒙追光人",
+        "onboard_time": 1766243122,
+        "rank": 19,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 97258,
+        "num": 224618,
+        "word": "易烊千玺说和鸿蒙见证了彼此成长",
+        "onboard_time": 1766243543,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476483,
+        "num": 221525,
+        "word": "曝赵樱子追求蒋毅被拒",
+        "onboard_time": 1766242763,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220770,
+        "num": 220770,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218842,
+        "num": 218842,
+        "word": "1cm房间隔缺损对5个月患儿影响较大",
+        "onboard_time": 1766243543,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 203751,
+        "num": 203751,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171890,
+        "num": 171890,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161291,
+        "num": 161291,
+        "word": "工商银行被罚没超4000万元",
+        "onboard_time": 1766240784,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 149428,
+        "num": 160060,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127410,
+        "num": 159220,
+        "word": "为什么五六百的女装也是聚酯纤维",
+        "onboard_time": 1766238504,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6996,
+        "num": 159074,
+        "word": "鸿蒙盛典黑科技大盘点",
+        "onboard_time": 1766245103,
+        "rank": 29,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 159013,
+        "num": 159013,
+        "word": "体检报告的这些字眼或是癌症信号",
+        "onboard_time": 1766244923,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156814,
+        "num": 156814,
+        "word": "院方称房缺1cm影响5个月患儿生长",
+        "onboard_time": 1766244802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116797,
+        "num": 151620,
+        "word": "梁王晋级决赛",
+        "onboard_time": 1766241863,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149107,
+        "num": 149107,
+        "word": "时代少年团 七星连珠",
+        "onboard_time": 1766242943,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149094,
+        "num": 149094,
+        "word": "阿凡达3口碑",
+        "onboard_time": 1766244203,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137772,
+        "num": 149067,
+        "word": "每天睡前5分钟骨盆回正的回报率",
+        "onboard_time": 1766239164,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129950,
+        "num": 149018,
+        "word": "央视办的演唱会才是天花板",
+        "onboard_time": 1766240902,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101338,
+        "num": 149002,
+        "word": "湘超",
+        "onboard_time": 1766234002,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119603,
+        "num": 148954,
+        "word": "1.4万买的钻戒现回收只有200元",
+        "onboard_time": 1766242104,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113690,
+        "num": 148939,
+        "word": "女友家中两人患癌小伙犹豫该不该结婚",
+        "onboard_time": 1766243362,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106918,
+        "num": 148870,
+        "word": "王楚钦孙颖莎是一个连词",
+        "onboard_time": 1766240603,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99897,
+        "num": 148837,
+        "word": "你好星期六下期宋威龙赵今麦",
+        "onboard_time": 1766244563,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85440,
+        "num": 148825,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91733,
+        "num": 148778,
+        "word": "欧豪演唱会",
+        "onboard_time": 1766237544,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88806,
+        "num": 148714,
+        "word": "成毅叶祖新说好的重逢怎么变诀别了",
+        "onboard_time": 1766243722,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62156,
+        "num": 148709,
+        "word": "黄霄雲居然把水晶穿在身上",
+        "onboard_time": 1766243603,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88709,
+        "num": 148645,
+        "word": "朱丹两个孩子都弱视",
+        "onboard_time": 1766239884,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85377,
+        "num": 148597,
+        "word": "洗澡时的冷水从不浪费",
+        "onboard_time": 1766242583,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84684,
+        "num": 148587,
+        "word": "曾因作风问题停职专家被安排坐诊",
+        "onboard_time": 1766242643,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 83254,
+        "num": 148531,
+        "word": "詹姆斯任意球破门",
+        "onboard_time": 1766243722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
