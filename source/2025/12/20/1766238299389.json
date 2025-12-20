@@ -1,0 +1,410 @@
+{
+  "runTime": 1766238299389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8079389,
+        "num": 8079389,
+        "word": "涉事医院回应小洛熙尸检报告",
+        "onboard_time": 1766235862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824224,
+        "num": 824224,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19115,
+        "num": 680886,
+        "word": "这是中国青年",
+        "onboard_time": 1766218160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629637,
+        "num": 629637,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355165,
+        "num": 355165,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 343284,
+        "num": 343284,
+        "word": "鸿蒙星光盛典",
+        "onboard_time": 1766230461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340945,
+        "num": 340945,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1766234122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123305,
+        "num": 340667,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303802,
+        "num": 332229,
+        "word": "时代少年团开场",
+        "onboard_time": 1766232262,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107542,
+        "num": 330787,
+        "word": "英语二",
+        "onboard_time": 1766224762,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 779924,
+        "num": 325236,
+        "word": "医学专家解读小洛熙房间隔缺损手术",
+        "onboard_time": 1766237064,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 475068,
+        "num": 319267,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435887,
+        "num": 317594,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314554,
+        "num": 314554,
+        "word": "谢娜主持",
+        "onboard_time": 1766234782,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298094,
+        "num": 298094,
+        "word": "多方回应女童发烧入院用药后夭折",
+        "onboard_time": 1766232623,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277220,
+        "num": 277220,
+        "word": "你好星期六",
+        "onboard_time": 1766235802,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257643,
+        "num": 257643,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257561,
+        "num": 257561,
+        "word": "再见爱人反转",
+        "onboard_time": 1766232623,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247721,
+        "num": 247721,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236952,
+        "num": 236952,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299692,
+        "num": 234808,
+        "word": "等你下课发的穆祉丞王橹杰",
+        "onboard_time": 1766235742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269959,
+        "num": 225724,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208810,
+        "num": 208810,
+        "word": "易烊千玺捏泥塑",
+        "onboard_time": 1766237183,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "MMA",
+        "onboard_time": 1766220201,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167294,
+        "num": 167294,
+        "word": "王玉雯主持",
+        "onboard_time": 1766230161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156309,
+        "num": 156309,
+        "word": "伊能静 把恩利交给李斯丹妮非常放心",
+        "onboard_time": 1766236102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55354,
+        "num": 154637,
+        "word": "华为折叠屏秒变舞台主持手卡",
+        "onboard_time": 1766235862,
+        "rank": 26,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 154145,
+        "num": 154145,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 153628,
+        "word": "男童被责备后坠亡家属最新发声",
+        "onboard_time": 1766236102,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56086,
+        "num": 153390,
+        "word": "以为是花其实是五颜六色的叶子",
+        "onboard_time": 1766235382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153372,
+        "num": 153372,
+        "word": "许我耀眼获奖",
+        "onboard_time": 1766232262,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132832,
+        "num": 132832,
+        "word": "C罗身材照走红全网",
+        "onboard_time": 1766224642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129603,
+        "num": 129603,
+        "word": "单依纯好听",
+        "onboard_time": 1766234841,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127865,
+        "num": 127865,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125265,
+        "num": 127854,
+        "word": "长安二十四计 灯塔",
+        "onboard_time": 1766235623,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120266,
+        "num": 127852,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120023,
+        "num": 127826,
+        "word": "DRG对战Hero",
+        "onboard_time": 1766232562,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54362,
+        "num": 127820,
+        "word": "总台使用13台Mate80拍摄鸿蒙盛典",
+        "onboard_time": 1766234362,
+        "rank": 37,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 72666,
+        "num": 127798,
+        "word": "汪苏泷演唱会前排没有第一次来的",
+        "onboard_time": 1766237124,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104670,
+        "num": 127796,
+        "word": "英语二 简单",
+        "onboard_time": 1766221520,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103849,
+        "num": 127775,
+        "word": "欧豪演唱会",
+        "onboard_time": 1766237544,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103096,
+        "num": 127761,
+        "word": "谢淮安是成毅史无前例的角色",
+        "onboard_time": 1766237783,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99446,
+        "num": 127747,
+        "word": "市委书记发问你都不懂你怎么去管",
+        "onboard_time": 1766234182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 127739,
+        "word": "左一",
+        "onboard_time": 1766228061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96334,
+        "num": 127726,
+        "word": "刘宇宁大连演唱会",
+        "onboard_time": 1766229983,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94645,
+        "num": 127704,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100147,
+        "num": 127700,
+        "word": "这笑声是成毅发出来的吗",
+        "onboard_time": 1766238083,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88767,
+        "num": 127687,
+        "word": "考研英语答案",
+        "onboard_time": 1766222423,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69518,
+        "num": 127673,
+        "word": "西蓝花减脂碗",
+        "onboard_time": 1766237844,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61050,
+        "num": 127656,
+        "word": "石宇奇2比0胜昆拉武特",
+        "onboard_time": 1766236102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
