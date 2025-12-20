@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766258560474,
+  "endTime": 1766259417112,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 34165,
-      "num": 55488,
+      "num": 57204,
       "word": "汪苏泷真的瘦了很多",
       "onboard_time": 1766252716,
       "rank": 27,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 28272,
-      "num": 55460,
+      "num": 56397,
       "word": "英超联赛",
       "onboard_time": 1766254815,
       "rank": 36,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 24016,
-      "num": 34957,
+      "num": 56731,
       "word": "枭起青壤",
       "onboard_time": 1766257335,
       "rank": 28,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 17738,
-      "num": 45393,
+      "num": 56209,
       "word": "狙击蝴蝶",
       "onboard_time": 1766234122,
       "rank": 49,
@@ -611,8 +611,32 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15307,
+      "num": 56289,
+      "word": "刘宇宁纯白战袍封神了",
+      "onboard_time": 1766258895,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14917,
+      "num": 56238,
+      "word": "鸿蒙星光盛典",
+      "onboard_time": 1766230461,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14711,
+      "num": 56138,
+      "word": "你好星期六",
+      "onboard_time": 1766235802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8828,
-      "num": 49937,
+      "num": 63889,
       "word": "冬至时节如何养生",
       "onboard_time": 1766232502,
       "rank": 2,
