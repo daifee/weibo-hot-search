@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766220473826,
+  "endTime": 1766222884367,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -9,6 +9,14 @@
       "onboard_time": 1766156183,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9717342,
+      "num": 9717342,
+      "word": "考研英语",
+      "onboard_time": 1766211020,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 8246447,
@@ -32,6 +40,14 @@
       "word": "考研政治",
       "onboard_time": 1766201000,
       "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2102101,
+      "num": 2102101,
+      "word": "英语二 简单",
+      "onboard_time": 1766221520,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -67,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1109128,
-      "num": 1177460,
-      "word": "考研英语",
-      "onboard_time": 1766211020,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1010401,
       "num": 264150,
       "word": "小洛熙妈妈感谢法医刘良",
@@ -89,6 +97,14 @@
       "onboard_time": 1766196440,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 976410,
+      "num": 976410,
+      "word": "英语一",
+      "onboard_time": 1766222001,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 849078,
@@ -171,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 549992,
+      "num": 289132,
+      "word": "最猛的1是考研英语一",
+      "onboard_time": 1766221942,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 526120,
       "num": 355198,
       "word": "MMA红毯",
@@ -203,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474627,
+      "num": 287405,
+      "word": "英语一我恨你",
+      "onboard_time": 1766222061,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 458076,
+      "num": 281934,
+      "word": "星光大赏出发",
+      "onboard_time": 1766221161,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450702,
       "num": 247668,
       "word": "小洛熙家属将继续追究相关人员责任",
@@ -217,6 +257,14 @@
       "onboard_time": 1766200041,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442175,
+      "num": 280309,
+      "word": "考研英语答案",
+      "onboard_time": 1766222423,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 440106,
@@ -251,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 402777,
+      "num": 276207,
+      "word": "患者要求下救护车小便禁停区坠亡",
+      "onboard_time": 1766219421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399270,
       "num": 246495,
       "word": "郭敬明 他超爱",
@@ -283,11 +339,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368284,
+      "num": 261098,
+      "word": "陈妍希带儿子一起去星光大赏",
+      "onboard_time": 1766219121,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360920,
       "num": 153703,
       "word": "瑞龙恋爱",
       "onboard_time": 1766159062,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 352653,
+      "num": 352653,
+      "word": "MMA",
+      "onboard_time": 1766220201,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 351572,
+      "num": 351572,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -355,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296161,
+      "num": 296161,
+      "word": "考研英语作文",
+      "onboard_time": 1766222120,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 291635,
       "num": 229129,
       "word": "坚持吃苹果一个月的身体变化",
@@ -364,7 +452,7 @@
     },
     {
       "raw_hot": 286472,
-      "num": 187876,
+      "num": 206575,
       "word": "朱孝天疑似内涵阿信",
       "onboard_time": 1766216900,
       "rank": 20,
@@ -531,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220486,
+      "num": 220486,
+      "word": "毛晓彤上午官宣下午红毯",
+      "onboard_time": 1766222482,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220463,
       "num": 220463,
       "word": "成都中院回应梁某滢被判死缓",
@@ -643,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197598,
-      "num": 197598,
-      "word": "陈妍希带儿子一起去星光大赏",
-      "onboard_time": 1766219121,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195008,
       "num": 128043,
       "word": "一天小郑嘻嘻聊天记录",
@@ -673,6 +761,14 @@
       "onboard_time": 1766196740,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193483,
+      "num": 193483,
+      "word": "养老机器人",
+      "onboard_time": 1766222423,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 192599,
@@ -731,14 +827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 188762,
-      "num": 198344,
-      "word": "MMA",
-      "onboard_time": 1766220201,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 180962,
       "num": 180962,
       "word": "花海置顶SDG",
@@ -784,6 +872,14 @@
       "word": "原来这是浙商能赚钱的原因",
       "onboard_time": 1766213719,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170400,
+      "num": 195838,
+      "word": "网传2025星光大赏获奖名单",
+      "onboard_time": 1766221339,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -923,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148575,
+      "num": 148575,
+      "word": "RW晋级挑杯胜者组半决赛",
+      "onboard_time": 1766222242,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145618,
       "num": 145618,
       "word": "考研政治太难了",
@@ -1009,6 +1113,14 @@
       "onboard_time": 1766220381,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136915,
+      "num": 136915,
+      "word": "31岁女子陪母体检意外查出自已患癌",
+      "onboard_time": 1766221221,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136671,
@@ -1363,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112916,
-      "num": 198272,
-      "word": "患者要求下救护车小便禁停区坠亡",
-      "onboard_time": 1766219421,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112813,
       "num": 112813,
       "word": "华晨宇 内娱销冠",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1766208440,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108666,
+      "num": 108666,
+      "word": "RW战胜TES",
+      "onboard_time": 1766222661,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 108304,
@@ -1531,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101718,
+      "num": 101718,
+      "word": "成都中院发布关于梁某滢量刑说明",
+      "onboard_time": 1766222722,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101697,
       "num": 101697,
       "word": "樊振东现役第一削球手",
@@ -1539,12 +1659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101507,
+      "num": 101507,
+      "word": "当你忘记把外卖默认备注改了",
+      "onboard_time": 1766222841,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100836,
       "num": 100836,
       "word": "吵的是沈腾范丞丞被攻击的是黄景瑜",
       "onboard_time": 1766216060,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100700,
+      "num": 116181,
+      "word": "阿凡达3 厕所时间",
+      "onboard_time": 1766222301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 100549,
@@ -1651,6 +1787,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92845,
+      "num": 117615,
+      "word": "宋威龙赵今麦新剧三观比钢筋都正",
+      "onboard_time": 1766221221,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92657,
       "num": 91332,
       "word": "演员王东首谈残疾儿子",
@@ -1668,7 +1812,7 @@
     },
     {
       "raw_hot": 92285,
-      "num": 92285,
+      "num": 97024,
       "word": "A股最大重组并购案出炉",
       "onboard_time": 1766219360,
       "rank": 40,
@@ -2092,7 +2236,7 @@
     },
     {
       "raw_hot": 70247,
-      "num": 537868,
+      "num": 1488560,
       "word": "大国重器又放大招了",
       "onboard_time": 1766218521,
       "rank": 2,
@@ -2403,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47695,
+      "num": 270592,
+      "word": "话梅3580元1斤 进贡级罗光梅",
+      "onboard_time": 1766222242,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47061,
       "num": 61617,
       "word": "月鳞绮纪",
@@ -2435,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44227,
+      "num": 116876,
+      "word": "上海一楼盘最贵一套房588平1.46亿元",
+      "onboard_time": 1766222423,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43640,
       "num": 93713,
       "word": "鞠婧祎机场状态",
@@ -2449,6 +2609,14 @@
       "onboard_time": 1766204121,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41199,
+      "num": 116478,
+      "word": "女生考研后说好好工作吧",
+      "onboard_time": 1766222242,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40833,
@@ -2473,6 +2641,14 @@
       "onboard_time": 1766197281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34748,
+      "num": 272623,
+      "word": "日本大阪府发生集体食物中毒事件",
+      "onboard_time": 1766221880,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34247,
@@ -2585,6 +2761,14 @@
       "onboard_time": 1766167995,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26719,
+      "num": 274162,
+      "word": "鲁豫说健康问题问阿福别再扛着",
+      "onboard_time": 1766221520,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 26609,
