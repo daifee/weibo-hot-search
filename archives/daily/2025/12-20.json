@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766187615795,
+  "endTime": 1766195965667,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -16,6 +16,14 @@
       "word": "法医刘良",
       "onboard_time": 1766185936,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1164215,
+      "num": 376906,
+      "word": "女婴术后离世应成医疗行业警钟",
+      "onboard_time": 1766192119,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 500492,
-      "num": 269429,
+      "num": 327874,
       "word": "演唱会出轨门",
       "onboard_time": 1766149460,
       "rank": 5,
@@ -65,6 +73,30 @@
       "onboard_time": 1766157982,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404324,
+      "num": 1064691,
+      "word": "考研初试",
+      "onboard_time": 1766187918,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 378646,
+      "num": 378646,
+      "word": "海南封关40克金饰能省1万多元",
+      "onboard_time": 1766187738,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376470,
+      "num": 376470,
+      "word": "91岁老人欲把亡妻房子给50岁女友",
+      "onboard_time": 1766190680,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360920,
@@ -97,6 +129,14 @@
       "onboard_time": 1766156602,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283934,
+      "num": 283934,
+      "word": "命真好头胎生了个月嫂",
+      "onboard_time": 1766190799,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 274369,
@@ -147,12 +187,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217143,
+      "num": 97691,
+      "word": "什么样的子宫能生这样的孩子",
+      "onboard_time": 1766194341,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 216676,
       "num": 216676,
       "word": "iPhone自带APP居然这么好用",
       "onboard_time": 1766155462,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 210321,
+      "num": 210321,
+      "word": "虞书欣哭戏哭到生理性干呕",
+      "onboard_time": 1766188818,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 209178,
@@ -163,6 +219,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205032,
+      "num": 96386,
+      "word": "妻子切除输卵管几天后丈夫提离婚",
+      "onboard_time": 1766194280,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201287,
+      "num": 201287,
+      "word": "Angelababy仿妆 美妆圈的期末考",
+      "onboard_time": 1766191340,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198135,
       "num": 152600,
       "word": "王橹杰高会",
@@ -171,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185674,
+      "num": 95272,
+      "word": "一天小郑嘻嘻聊天记录",
+      "onboard_time": 1766192119,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170076,
-      "num": 154551,
+      "num": 161434,
       "word": "私人影院强制要求顾客选择异性陪侍套餐",
       "onboard_time": 1766156663,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165464,
+      "num": 377130,
+      "word": "今天2026考研",
+      "onboard_time": 1766186417,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 164815,
@@ -185,6 +273,14 @@
       "onboard_time": 1766131820,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162321,
+      "num": 162321,
+      "word": "花海置顶SDG",
+      "onboard_time": 1766192660,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 154817,
@@ -212,7 +308,7 @@
     },
     {
       "raw_hot": 141600,
-      "num": 217653,
+      "num": 284172,
       "word": "孙颖莎能量人物推荐值破1000万",
       "onboard_time": 1766128220,
       "rank": 8,
@@ -227,20 +323,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138236,
-      "num": 138236,
-      "word": "今天2026考研",
-      "onboard_time": 1766186417,
-      "rank": 31,
+      "raw_hot": 134772,
+      "num": 300935,
+      "word": "考研",
+      "onboard_time": 1766132421,
+      "rank": 49,
       "category": "教育"
     },
     {
+      "raw_hot": 129601,
+      "num": 129601,
+      "word": "宝妈生3胎后肚皮松垮内脏下垂",
+      "onboard_time": 1766187860,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115651,
-      "num": 71572,
+      "num": 89132,
       "word": "女子舌下藏毒探监接吻后毒死男友",
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113646,
+      "num": 113646,
+      "word": "外嫁女补偿款被村组决议从家属中扣除",
+      "onboard_time": 1766191159,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113461,
@@ -249,6 +361,14 @@
       "onboard_time": 1766157804,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110441,
+      "num": 110441,
+      "word": "樊振东再模仿C罗庆祝动作",
+      "onboard_time": 1766192960,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 107069,
@@ -275,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104586,
+      "num": 91723,
+      "word": "阿凡达3凭什么能让观众坐198分钟",
+      "onboard_time": 1766187620,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100549,
       "num": 154269,
       "word": "考研时间",
@@ -292,7 +420,7 @@
     },
     {
       "raw_hot": 92657,
-      "num": 71357,
+      "num": 91332,
       "word": "演员王东首谈残疾儿子",
       "onboard_time": 1766172734,
       "rank": 46,
@@ -315,12 +443,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90791,
+      "num": 90791,
+      "word": "谢娜听劝穿超厚在东北热出汗",
+      "onboard_time": 1766195780,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89755,
+      "num": 89755,
+      "word": "奶茶删博",
+      "onboard_time": 1766192062,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89318,
       "num": 152196,
       "word": "心动的信号",
       "onboard_time": 1766149520,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89165,
+      "num": 89165,
+      "word": "冷空气来了一天降10摄氏度",
+      "onboard_time": 1766195000,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88781,
@@ -355,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81858,
+      "num": 89161,
+      "word": "上海电信回应被罗永浩吐槽",
+      "onboard_time": 1766193921,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 81184,
+      "num": 89143,
+      "word": "F4演唱会",
+      "onboard_time": 1766192782,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 78041,
       "num": 151370,
       "word": "赵小童演出",
@@ -369,6 +537,22 @@
       "onboard_time": 1766146279,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76683,
+      "num": 89131,
+      "word": "留学生回国 兵马未动粮草先行",
+      "onboard_time": 1766191940,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75213,
+      "num": 89117,
+      "word": "台北攻击事件亲历者发声",
+      "onboard_time": 1766192300,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75063,
@@ -387,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72303,
+      "num": 89098,
+      "word": "一车辆同一位置违停被举报9次",
+      "onboard_time": 1766195300,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71864,
       "num": 150620,
       "word": "阿凡达",
       "onboard_time": 1766139260,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70189,
+      "num": 89090,
+      "word": "第五人格",
+      "onboard_time": 1766186717,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 69819,
@@ -403,6 +603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69778,
+      "num": 89078,
+      "word": "小鬼张予曦迅猛龙同框",
+      "onboard_time": 1766190320,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69142,
+      "num": 89062,
+      "word": "杨紫谈与董竹君女士结缘",
+      "onboard_time": 1766188038,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66022,
       "num": 61708,
       "word": "澳门回归祖国26周年",
@@ -411,12 +627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65267,
+      "num": 89050,
+      "word": "你是怎么察觉一段关系快完了",
+      "onboard_time": 1766191041,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 63697,
       "num": 150529,
       "word": "第五人格前瞻",
       "onboard_time": 1766137220,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63499,
+      "num": 89039,
+      "word": "樊振东15分钟速胜",
+      "onboard_time": 1766194581,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 63467,
@@ -459,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57882,
+      "num": 89007,
+      "word": "人民币现金收付新规发布",
+      "onboard_time": 1766188458,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57526,
       "num": 149385,
       "word": "普京举行2025年度记者会",
@@ -475,6 +715,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 55879,
+      "num": 88984,
+      "word": "海贼王要是这么搞经费怕是不够",
+      "onboard_time": 1766193020,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 55843,
       "num": 149182,
       "word": "AG剧透",
@@ -483,12 +731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55805,
+      "num": 88974,
+      "word": "这8个习惯容易带走气血",
+      "onboard_time": 1766188458,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55604,
       "num": 93769,
       "word": "穆祉丞随手录了点日常",
       "onboard_time": 1766164098,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55014,
+      "num": 88966,
+      "word": "白色小狗在雪地被当成雪人",
+      "onboard_time": 1766195720,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 54159,
@@ -571,28 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41036,
-      "num": 93664,
-      "word": "考研",
-      "onboard_time": 1766132421,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 39574,
       "num": 61662,
       "word": "消费者称黄金一天一个价",
       "onboard_time": 1766186056,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 34972,
-      "num": 61668,
-      "word": "第五人格",
-      "onboard_time": 1766186717,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 33295,
@@ -633,6 +881,14 @@
       "onboard_time": 1766187379,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28727,
+      "num": 378569,
+      "word": "2025中国人的仪式感",
+      "onboard_time": 1766150121,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27660,
