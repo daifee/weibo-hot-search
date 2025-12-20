@@ -1,0 +1,410 @@
+{
+  "runTime": 1766215552616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 723721,
+        "num": 1115795,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 602381,
+        "num": 602381,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23518,
+        "num": 470312,
+        "word": "祝福澳门明天会更好",
+        "onboard_time": 1766205981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428658,
+        "num": 428658,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206964,
+        "num": 206964,
+        "word": "国乒副总教练竞聘条件",
+        "onboard_time": 1766214440,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6162490,
+        "num": 6162490,
+        "word": "韩红为小洛熙宝宝发声",
+        "onboard_time": 1766210301,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 309402,
+        "num": 202896,
+        "word": "成都女子家门口遇害案被告一审死缓",
+        "onboard_time": 1766211982,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185418,
+        "num": 185418,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135184,
+        "num": 185313,
+        "word": "国乒将选出总教练",
+        "onboard_time": 1766206160,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131047,
+        "num": 184743,
+        "word": "成都中院回应梁某滢被判死缓",
+        "onboard_time": 1766214380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789510,
+        "num": 184599,
+        "word": "法医刘良凌晨发视频配文星星亮了",
+        "onboard_time": 1766204840,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 487938,
+        "num": 184221,
+        "word": "周扬青跟罗昊在一起的原因",
+        "onboard_time": 1766211982,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302646,
+        "num": 183940,
+        "word": "MMA红毯",
+        "onboard_time": 1766214681,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212408,
+        "num": 183338,
+        "word": "虞书欣又一人生镜头",
+        "onboard_time": 1766215041,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239167,
+        "num": 182956,
+        "word": "MMA直播",
+        "onboard_time": 1766214021,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442490,
+        "num": 182606,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189933,
+        "num": 182433,
+        "word": "白鹿跳了overdrive手势舞",
+        "onboard_time": 1766214562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187328,
+        "num": 182108,
+        "word": "沈梦辰每天喝2杯奶茶",
+        "onboard_time": 1766208560,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181776,
+        "num": 181776,
+        "word": "母亲哭着说女儿是在家里被剥夺了生命",
+        "onboard_time": 1766211982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30933,
+        "num": 177207,
+        "word": "新年第一站暖在彭城间",
+        "onboard_time": 1766214259,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 278627,
+        "num": 177185,
+        "word": "坚持吃苹果一个月的身体变化",
+        "onboard_time": 1766210481,
+        "rank": 20,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 174620,
+        "word": "陈妍希陈靖可 姐狗",
+        "onboard_time": 1766206701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113797,
+        "num": 171369,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170921,
+        "num": 170921,
+        "word": "原来这是浙商能赚钱的原因",
+        "onboard_time": 1766213719,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152837,
+        "num": 152837,
+        "word": "短剧香蜜男主变润玉",
+        "onboard_time": 1766208861,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150409,
+        "num": 150409,
+        "word": "TF三四代族综",
+        "onboard_time": 1766212342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140429,
+        "num": 140429,
+        "word": "苏新皓被冻到路边紧急买秋裤",
+        "onboard_time": 1766214681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136671,
+        "num": 136671,
+        "word": "年度报告 无聊",
+        "onboard_time": 1766214322,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "张杰歌迷有自己的五三真题",
+        "onboard_time": 1766214380,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135054,
+        "num": 135054,
+        "word": "张柏芝已经写好遗嘱",
+        "onboard_time": 1766209281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132042,
+        "num": 132042,
+        "word": "辅警工作近6年因有文身被辞退",
+        "onboard_time": 1766210420,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119309,
+        "num": 119309,
+        "word": "鞠婧祎跨年小卡",
+        "onboard_time": 1766204180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118407,
+        "num": 118407,
+        "word": "没见过钟丽缇跳舞的建议反复观看",
+        "onboard_time": 1766213181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117479,
+        "num": 117479,
+        "word": "阿凡达3治好了我的大片PTSD",
+        "onboard_time": 1766213601,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115684,
+        "num": 115684,
+        "word": "小米给汽车经销商发超一亿元红包",
+        "onboard_time": 1766214621,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84044,
+        "num": 113388,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112533,
+        "num": 112533,
+        "word": "TES对战RW",
+        "onboard_time": 1766214980,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104410,
+        "num": 104410,
+        "word": "金晨被鸡蛋烫成哥斯拉了",
+        "onboard_time": 1766213181,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98724,
+        "num": 98724,
+        "word": "草莓味 侮辱草莓",
+        "onboard_time": 1766215281,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98523,
+        "num": 98523,
+        "word": "原来当老师有这么多好处",
+        "onboard_time": 1766210420,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 98225,
+        "num": 98225,
+        "word": "克林顿发言人回应大尺度照片",
+        "onboard_time": 1766214922,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96621,
+        "num": 96621,
+        "word": "短剧香蜜沉沉烬如霜",
+        "onboard_time": 1766214859,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90635,
+        "num": 90635,
+        "word": "男子盗170万黄金埋祖坟墓碑后面",
+        "onboard_time": 1766213121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88996,
+        "num": 88996,
+        "word": "马天宇 我就当渡了一劫",
+        "onboard_time": 1766209700,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84344,
+        "num": 84344,
+        "word": "韩国泡菜碾压大部分益生菌补充剂",
+        "onboard_time": 1766214440,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84276,
+        "num": 84276,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 45,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 51239,
+        "num": 84146,
+        "word": "刘涛在哪过年也得问妈",
+        "onboard_time": 1766213902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84105,
+        "num": 84105,
+        "word": "考古证实阿房宫既没建好也没被火烧",
+        "onboard_time": 1766214621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79330,
+        "num": 79330,
+        "word": "时代少年团在一起的含金量",
+        "onboard_time": 1766205081,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75144,
+        "num": 75144,
+        "word": "咒术回战第三季好帅的虎杖",
+        "onboard_time": 1766215521,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}
