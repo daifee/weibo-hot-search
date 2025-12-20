@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766205245260,
+  "endTime": 1766206088342,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -25,6 +25,14 @@
       "onboard_time": 1766201000,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1468666,
+      "num": 1468666,
+      "word": "原来微信长按2秒钟这么好用",
+      "onboard_time": 1766204061,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1300438,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905837,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 849078,
       "num": 849078,
       "word": "考研管综",
@@ -81,14 +97,6 @@
       "onboard_time": 1766145201,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 727218,
-      "num": 727218,
-      "word": "原来微信长按2秒钟这么好用",
-      "onboard_time": 1766204061,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 710438,
@@ -187,14 +195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 392761,
-      "num": 248280,
-      "word": "法医刘良凌晨发视频配文星星亮了",
-      "onboard_time": 1766204840,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388680,
       "num": 1062188,
       "word": "海南封关40克金饰能省1万多元",
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338919,
+      "num": 247668,
+      "word": "小洛熙家属将继续追究相关人员责任",
+      "onboard_time": 1766204720,
+      "rank": 26,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 335921,
       "num": 335921,
       "word": "WB战胜AG",
@@ -256,6 +264,14 @@
       "word": "杨紫说自己穿的是假貂",
       "onboard_time": 1766156602,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 292124,
+      "num": 246495,
+      "word": "郭敬明 他超爱",
+      "onboard_time": 1766204240,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -323,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248439,
+      "num": 294244,
+      "word": "时代少年团在一起的含金量",
+      "onboard_time": 1766205081,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248144,
       "num": 248144,
       "word": "马斯克被C罗身材卷到了",
       "onboard_time": 1766200281,
       "rank": 29,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 232340,
+      "num": 232340,
+      "word": "政治 反押题",
+      "onboard_time": 1766204421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 230213,
@@ -371,14 +403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 214355,
-      "num": 294244,
-      "word": "时代少年团在一起的含金量",
-      "onboard_time": 1766205081,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210321,
       "num": 210321,
       "word": "虞书欣哭戏哭到生理性干呕",
@@ -395,20 +419,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201810,
+      "num": 201810,
+      "word": "穆祉丞高会",
+      "onboard_time": 1766204421,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201287,
       "num": 201287,
       "word": "Angelababy仿妆 美妆圈的期末考",
       "onboard_time": 1766191340,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200760,
-      "num": 200760,
-      "word": "政治 反押题",
-      "onboard_time": 1766204421,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 199055,
@@ -427,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198547,
+      "num": 198547,
+      "word": "中国乒协首次增设副总教练",
+      "onboard_time": 1766205500,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198135,
       "num": 152600,
       "word": "王橹杰高会",
@@ -443,12 +475,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 194492,
-      "num": 194492,
-      "word": "小洛熙家属将继续追究相关人员责任",
-      "onboard_time": 1766204720,
-      "rank": 26,
-      "category": "艺人,民生新闻"
+      "raw_hot": 194310,
+      "num": 194310,
+      "word": "周柯宇 姐前人夫娃前人父",
+      "onboard_time": 1766205862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193955,
@@ -459,22 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 193747,
-      "num": 193747,
-      "word": "郭敬明 他超爱",
-      "onboard_time": 1766204240,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192333,
-      "num": 192333,
-      "word": "穆祉丞高会",
-      "onboard_time": 1766204421,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192016,
       "num": 192016,
       "word": "现在就出发",
@@ -483,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "国乒洛奥教练员竞聘",
+      "onboard_time": 1766204901,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189679,
       "num": 189679,
       "word": "云深不知梦首季收官",
       "onboard_time": 1766200101,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 185075,
-      "num": 185075,
-      "word": "国乒洛奥教练员竞聘",
-      "onboard_time": 1766204901,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 180962,
@@ -683,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136344,
+      "num": 136344,
+      "word": "女生醉驾撞死3人逝者母亲再发声",
+      "onboard_time": 1766203041,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135644,
       "num": 135644,
       "word": "白鹿看完白展堂看沙溢好割裂",
@@ -731,19 +755,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "苹果烤奶",
+      "onboard_time": 1766202502,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 124423,
+      "num": 124423,
+      "word": "苏新皓这是我18岁的最后一支vlog",
+      "onboard_time": 1766205200,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123828,
       "num": 155717,
       "word": "被割喉女护士父亲希望凶手杀人偿命",
       "onboard_time": 1766199620,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123649,
-      "num": 123649,
-      "word": "女生醉驾撞死3人逝者母亲再发声",
-      "onboard_time": 1766203041,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -771,28 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118447,
-      "num": 118447,
-      "word": "苹果烤奶",
-      "onboard_time": 1766202502,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 116431,
       "num": 116431,
       "word": "哑舍",
       "onboard_time": 1766199680,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115770,
-      "num": 115770,
-      "word": "苏新皓这是我18岁的最后一支vlog",
-      "onboard_time": 1766205200,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115651,
@@ -891,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103281,
+      "num": 103281,
+      "word": "高伟光 筷子腿不是这么用的",
+      "onboard_time": 1766205681,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103245,
       "num": 257630,
       "word": "霸王茶姬上新了",
@@ -931,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97537,
+      "num": 97537,
+      "word": "第五人格",
+      "onboard_time": 1766186717,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97448,
       "num": 152963,
       "word": "鞠婧祎合约纠纷",
@@ -945,14 +977,6 @@
       "onboard_time": 1766198180,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94106,
-      "num": 94106,
-      "word": "第五人格",
-      "onboard_time": 1766186717,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 92657,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1766158824,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88775,
+      "num": 134575,
+      "word": "宋亚轩张真源 沈腾沙溢的养成系",
+      "onboard_time": 1766204660,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 88621,
@@ -1203,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69738,
+      "num": 128837,
+      "word": "刘浩存 幼师小孩",
+      "onboard_time": 1766205440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69142,
       "num": 89062,
       "word": "杨紫谈与董竹君女士结缘",
@@ -1283,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59309,
+      "num": 246585,
+      "word": "祝福澳门祝福祖国",
+      "onboard_time": 1766205561,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59014,
       "num": 149679,
       "word": "第五人格有兽焉",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1766188458,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 56244,
-      "num": 134575,
-      "word": "宋亚轩张真源 沈腾沙溢的养成系",
-      "onboard_time": 1766204660,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 56182,
@@ -1515,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32558,
+      "num": 696068,
+      "word": "祝福澳门明天会更好",
+      "onboard_time": 1766205981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31985,
       "num": 93091,
       "word": "肖战说作为演员的意义",
@@ -1665,11 +1713,22 @@
       "onboard_time": 1766144841,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10162,
+      "num": 233279,
+      "word": "985大学推出0.985元考研早餐",
+      "onboard_time": 1766205802,
+      "rank": 21,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#重温总书记谈改革开放的这番话#"
+    },
+    {
+      "word": "#总书记擘画海南自贸港建设图景#"
     }
   ]
 }

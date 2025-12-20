@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766205245260,
+  "endTime": 1766206088342,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -225,6 +225,14 @@
       "onboard_time": 1765865601,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1468666,
+      "num": 1468666,
+      "word": "原来微信长按2秒钟这么好用",
+      "onboard_time": 1766204061,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1459327,
@@ -675,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 905837,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 904923,
       "num": 245106,
       "word": "黄一鸣直播女儿哭着求抱抱",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1766022200,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 727218,
-      "num": 727218,
-      "word": "原来微信长按2秒钟这么好用",
-      "onboard_time": 1766204061,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 726022,
@@ -3227,14 +3235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392761,
-      "num": 248280,
-      "word": "法医刘良凌晨发视频配文星星亮了",
-      "onboard_time": 1766204840,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392501,
       "num": 392501,
       "word": "福建舰 台湾海峡",
@@ -3809,6 +3809,14 @@
       "onboard_time": 1765876342,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338919,
+      "num": 247668,
+      "word": "小洛熙家属将继续追究相关人员责任",
+      "onboard_time": 1766204720,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 338444,
@@ -4529,6 +4537,14 @@
       "onboard_time": 1766071942,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292124,
+      "num": 246495,
+      "word": "郭敬明 他超爱",
+      "onboard_time": 1766204240,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 291785,
@@ -5483,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248439,
+      "num": 294244,
+      "word": "时代少年团在一起的含金量",
+      "onboard_time": 1766205081,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248144,
       "num": 248144,
       "word": "马斯克被C罗身材卷到了",
@@ -5801,6 +5825,14 @@
       "onboard_time": 1765933161,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232340,
+      "num": 232340,
+      "word": "政治 反押题",
+      "onboard_time": 1766204421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 232130,
@@ -6387,14 +6419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214355,
-      "num": 294244,
-      "word": "时代少年团在一起的含金量",
-      "onboard_time": 1766205081,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214161,
       "num": 184633,
       "word": "彭小苒大大方方 我看得战战兢兢",
@@ -6899,6 +6923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201810,
+      "num": 201810,
+      "word": "穆祉丞高会",
+      "onboard_time": 1766204421,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201617,
       "num": 198565,
       "word": "国剧盛典直播",
@@ -6953,14 +6985,6 @@
       "onboard_time": 1765978342,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200760,
-      "num": 200760,
-      "word": "政治 反押题",
-      "onboard_time": 1766204421,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 200471,
@@ -7081,6 +7105,14 @@
       "onboard_time": 1766116040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198547,
+      "num": 198547,
+      "word": "中国乒协首次增设副总教练",
+      "onboard_time": 1766205500,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 198529,
@@ -7323,12 +7355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194492,
-      "num": 194492,
-      "word": "小洛熙家属将继续追究相关人员责任",
-      "onboard_time": 1766204720,
-      "rank": 26,
-      "category": "艺人,民生新闻"
+      "raw_hot": 194310,
+      "num": 194310,
+      "word": "周柯宇 姐前人夫娃前人父",
+      "onboard_time": 1766205862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194184,
@@ -7345,14 +7377,6 @@
       "onboard_time": 1766196740,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193747,
-      "num": 193747,
-      "word": "郭敬明 他超爱",
-      "onboard_time": 1766204240,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 193578,
@@ -7425,14 +7449,6 @@
       "onboard_time": 1766128220,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192333,
-      "num": 192333,
-      "word": "穆祉丞高会",
-      "onboard_time": 1766204421,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 192141,
@@ -7633,6 +7649,14 @@
       "onboard_time": 1765943602,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "国乒洛奥教练员竞聘",
+      "onboard_time": 1766204901,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 189679,
@@ -7977,14 +8001,6 @@
       "onboard_time": 1766034982,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185075,
-      "num": 185075,
-      "word": "国乒洛奥教练员竞聘",
-      "onboard_time": 1766204901,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 185023,
@@ -11115,6 +11131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136344,
+      "num": 136344,
+      "word": "女生醉驾撞死3人逝者母亲再发声",
+      "onboard_time": 1766203041,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136290,
       "num": 757626,
       "word": "剑来动画",
@@ -12451,6 +12475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "苹果烤奶",
+      "onboard_time": 1766202502,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124532,
       "num": 124532,
       "word": "合肥警方通报一46岁男子身亡",
@@ -12465,6 +12497,14 @@
       "onboard_time": 1765892844,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124423,
+      "num": 124423,
+      "word": "苏新皓这是我18岁的最后一支vlog",
+      "onboard_time": 1766205200,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124355,
@@ -12585,14 +12625,6 @@
       "onboard_time": 1765723043,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 123649,
-      "num": 123649,
-      "word": "女生醉驾撞死3人逝者母亲再发声",
-      "onboard_time": 1766203041,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123568,
@@ -13211,14 +13243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118447,
-      "num": 118447,
-      "word": "苹果烤奶",
-      "onboard_time": 1766202502,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118332,
       "num": 118332,
       "word": "AI健康应用阿福",
@@ -13561,14 +13585,6 @@
       "onboard_time": 1765711822,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115770,
-      "num": 115770,
-      "word": "苏新皓这是我18岁的最后一支vlog",
-      "onboard_time": 1766205200,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115732,
@@ -15105,6 +15121,14 @@
       "onboard_time": 1765761740,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103281,
+      "num": 103281,
+      "word": "高伟光 筷子腿不是这么用的",
+      "onboard_time": 1766205681,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103269,
@@ -17203,6 +17227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88775,
+      "num": 134575,
+      "word": "宋亚轩张真源 沈腾沙溢的养成系",
+      "onboard_time": 1766204660,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88661,
       "num": 220922,
       "word": "自提外卖也是一种爱你老己",
@@ -18883,6 +18915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69738,
+      "num": 128837,
+      "word": "刘浩存 幼师小孩",
+      "onboard_time": 1766205440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69536,
       "num": 124467,
       "word": "疯狂动物城2导演画马年贺图",
@@ -19651,6 +19691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59309,
+      "num": 246585,
+      "word": "祝福澳门祝福祖国",
+      "onboard_time": 1766205561,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59229,
       "num": 109557,
       "word": "李雾关于岑矜的19710篇日记",
@@ -19905,14 +19953,6 @@
       "onboard_time": 1765703662,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56244,
-      "num": 134575,
-      "word": "宋亚轩张真源 沈腾沙溢的养成系",
-      "onboard_time": 1766204660,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 56182,
@@ -21723,6 +21763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32558,
+      "num": 696068,
+      "word": "祝福澳门明天会更好",
+      "onboard_time": 1766205981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32506,
       "num": 84729,
       "word": "被家暴13年女子称现在没有一点尊严",
@@ -23521,6 +23569,14 @@
       "onboard_time": 1765777402,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10162,
+      "num": 233279,
+      "word": "985大学推出0.985元考研早餐",
+      "onboard_time": 1766205802,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9977,

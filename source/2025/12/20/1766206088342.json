@@ -1,0 +1,410 @@
+{
+  "runTime": 1766206088342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2788403,
+        "num": 2788403,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1468666,
+        "num": 1468666,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32558,
+        "num": 696068,
+        "word": "祝福澳门明天会更好",
+        "onboard_time": 1766205981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599788,
+        "num": 599788,
+        "word": "考研管综",
+        "onboard_time": 1766202201,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432090,
+        "num": 432090,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396330,
+        "num": 396330,
+        "word": "肖四",
+        "onboard_time": 1766201839,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380922,
+        "num": 380922,
+        "word": "考研政治选择题",
+        "onboard_time": 1766204061,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 520354,
+        "num": 324988,
+        "word": "考研政治答案",
+        "onboard_time": 1766202140,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264133,
+        "num": 264133,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248439,
+        "num": 248439,
+        "word": "时代少年团在一起的含金量",
+        "onboard_time": 1766205081,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2252918,
+        "num": 248358,
+        "word": "小洛熙尸检报告",
+        "onboard_time": 1766198720,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 416547,
+        "num": 248101,
+        "word": "肖秀荣谈26考研政治",
+        "onboard_time": 1766203999,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338919,
+        "num": 247668,
+        "word": "小洛熙家属将继续追究相关人员责任",
+        "onboard_time": 1766204720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905837,
+        "num": 247335,
+        "word": "法医刘良凌晨发视频配文星星亮了",
+        "onboard_time": 1766204840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320366,
+        "num": 247035,
+        "word": "原来苗苗是这么有意思的人",
+        "onboard_time": 1766200041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59309,
+        "num": 246585,
+        "word": "祝福澳门祝福祖国",
+        "onboard_time": 1766205561,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292124,
+        "num": 246495,
+        "word": "郭敬明 他超爱",
+        "onboard_time": 1766204240,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96810,
+        "num": 246077,
+        "word": "霸王茶姬上新了",
+        "onboard_time": 1766203701,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31029,
+        "num": 245858,
+        "word": "王冰冰Mate80探班鸿蒙盛典",
+        "onboard_time": 1766203701,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 848744,
+        "num": 245406,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 245218,
+        "num": 245218,
+        "word": "刘耀文把黄子韬赶出时代峰峻",
+        "onboard_time": 1766201481,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10162,
+        "num": 233279,
+        "word": "985大学推出0.985元考研早餐",
+        "onboard_time": 1766205802,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232340,
+        "num": 232340,
+        "word": "政治 反押题",
+        "onboard_time": 1766204421,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227776,
+        "num": 227776,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 23,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 210683,
+        "num": 210683,
+        "word": "鞠婧祎跨年小卡",
+        "onboard_time": 1766204180,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201810,
+        "num": 201810,
+        "word": "穆祉丞高会",
+        "onboard_time": 1766204421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198547,
+        "num": 198547,
+        "word": "中国乒协首次增设副总教练",
+        "onboard_time": 1766205500,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194310,
+        "num": 194310,
+        "word": "周柯宇 姐前人夫娃前人父",
+        "onboard_time": 1766205862,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189900,
+        "num": 189900,
+        "word": "国乒洛奥教练员竞聘",
+        "onboard_time": 1766204901,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141147,
+        "num": 182816,
+        "word": "奇迹定档12月22日",
+        "onboard_time": 1766198660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178995,
+        "num": 178995,
+        "word": "考研管综作文",
+        "onboard_time": 1766203999,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176193,
+        "num": 176193,
+        "word": "曲艺模板",
+        "onboard_time": 1766205022,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162546,
+        "num": 162546,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153662,
+        "num": 153662,
+        "word": "张凌赫王楚然剧还没播先喂上饭了",
+        "onboard_time": 1766202981,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 138166,
+        "word": "考研管综答案",
+        "onboard_time": 1766204540,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136344,
+        "num": 136344,
+        "word": "女生醉驾撞死3人逝者母亲再发声",
+        "onboard_time": 1766203041,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135465,
+        "num": 135465,
+        "word": "26考研政治结束徐涛发文",
+        "onboard_time": 1766204901,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69738,
+        "num": 128837,
+        "word": "刘浩存 幼师小孩",
+        "onboard_time": 1766205440,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128539,
+        "num": 128539,
+        "word": "考研政治太难了",
+        "onboard_time": 1766204480,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125110,
+        "num": 125110,
+        "word": "赵今麦演活了顾漫笔下的一见钟情",
+        "onboard_time": 1766201601,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124729,
+        "num": 124729,
+        "word": "苹果烤奶",
+        "onboard_time": 1766202502,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124423,
+        "num": 124423,
+        "word": "苏新皓这是我18岁的最后一支vlog",
+        "onboard_time": 1766205200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88775,
+        "num": 123614,
+        "word": "宋亚轩张真源 沈腾沙溢的养成系",
+        "onboard_time": 1766204660,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 123481,
+        "word": "马斯克点赞王力宏伴舞机器人",
+        "onboard_time": 1766202502,
+        "rank": 43,
+        "category": "互联网,演出"
+      },
+      {
+        "raw_hot": 117107,
+        "num": 117107,
+        "word": "现在就出发",
+        "onboard_time": 1766204361,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116417,
+        "num": 116417,
+        "word": "管综难度",
+        "onboard_time": 1766204901,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113103,
+        "num": 113103,
+        "word": "谁家婚礼一拜天地二剑高堂",
+        "onboard_time": 1766201720,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112192,
+        "num": 112192,
+        "word": "看完之后刷手机的欲望消失了",
+        "onboard_time": 1766200940,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103281,
+        "num": 103281,
+        "word": "高伟光 筷子腿不是这么用的",
+        "onboard_time": 1766205681,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97537,
+        "num": 97537,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}

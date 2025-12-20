@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766205245260,
+  "endTime": 1766206088342,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -841,6 +841,14 @@
       "onboard_time": 1765865601,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1468666,
+      "num": 1468666,
+      "word": "原来微信长按2秒钟这么好用",
+      "onboard_time": 1766204061,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1465455,
@@ -2307,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 905837,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 905513,
       "num": 311454,
       "word": "朱亚文 反清",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1765599742,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 727218,
-      "num": 727218,
-      "word": "原来微信长按2秒钟这么好用",
-      "onboard_time": 1766204061,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 726496,
@@ -9987,14 +9995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392761,
-      "num": 248280,
-      "word": "法医刘良凌晨发视频配文星星亮了",
-      "onboard_time": 1766204840,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392552,
       "num": 558141,
       "word": "新国标电动车引民生痛点",
@@ -11945,6 +11945,14 @@
       "onboard_time": 1765456342,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338919,
+      "num": 247668,
+      "word": "小洛熙家属将继续追究相关人员责任",
+      "onboard_time": 1766204720,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 338444,
@@ -14065,6 +14073,14 @@
       "onboard_time": 1765255164,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 292124,
+      "num": 246495,
+      "word": "郭敬明 他超爱",
+      "onboard_time": 1766204240,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 291892,
@@ -16451,6 +16467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248439,
+      "num": 294244,
+      "word": "时代少年团在一起的含金量",
+      "onboard_time": 1766205081,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248160,
       "num": 236602,
       "word": "肖战莫得闲的故事会被所有人看到",
@@ -17569,6 +17593,14 @@
       "onboard_time": 1765933161,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232340,
+      "num": 232340,
+      "word": "政治 反押题",
+      "onboard_time": 1766204421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 232318,
@@ -18969,14 +19001,6 @@
       "onboard_time": 1764905600,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214355,
-      "num": 294244,
-      "word": "时代少年团在一起的含金量",
-      "onboard_time": 1766205081,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 214197,
@@ -20707,6 +20731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201810,
+      "num": 201810,
+      "word": "穆祉丞高会",
+      "onboard_time": 1766204421,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201809,
       "num": 179889,
       "word": "我驻日大使提出严正交涉",
@@ -20865,14 +20897,6 @@
       "onboard_time": 1765081760,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200760,
-      "num": 200760,
-      "word": "政治 反押题",
-      "onboard_time": 1766204421,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 200689,
@@ -21241,6 +21265,14 @@
       "onboard_time": 1764753142,
       "rank": 24,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 198547,
+      "num": 198547,
+      "word": "中国乒协首次增设副总教练",
+      "onboard_time": 1766205500,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 198529,
@@ -21931,14 +21963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194492,
-      "num": 194492,
-      "word": "小洛熙家属将继续追究相关人员责任",
-      "onboard_time": 1766204720,
-      "rank": 26,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 194485,
       "num": 194485,
       "word": "刘耀文时代峰峻录制",
@@ -21977,6 +22001,14 @@
       "onboard_time": 1765368802,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194310,
+      "num": 194310,
+      "word": "周柯宇 姐前人夫娃前人父",
+      "onboard_time": 1766205862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194208,
@@ -22025,14 +22057,6 @@
       "onboard_time": 1765509920,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193747,
-      "num": 193747,
-      "word": "郭敬明 他超爱",
-      "onboard_time": 1766204240,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 193578,
@@ -22217,14 +22241,6 @@
       "onboard_time": 1766128220,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192333,
-      "num": 192333,
-      "word": "穆祉丞高会",
-      "onboard_time": 1766204421,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 192304,
@@ -22641,6 +22657,14 @@
       "onboard_time": 1765324400,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "国乒洛奥教练员竞聘",
+      "onboard_time": 1766204901,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 189899,
@@ -23545,14 +23569,6 @@
       "onboard_time": 1765175421,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185075,
-      "num": 185075,
-      "word": "国乒洛奥教练员竞聘",
-      "onboard_time": 1766204901,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 185023,
@@ -33259,6 +33275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136344,
+      "num": 136344,
+      "word": "女生醉驾撞死3人逝者母亲再发声",
+      "onboard_time": 1766203041,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136325,
       "num": 136325,
       "word": "陈晓孙千最喜欢的那场戏播了",
@@ -37027,6 +37051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "苹果烤奶",
+      "onboard_time": 1766202502,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124709,
       "num": 124709,
       "word": "想换手机的心这一刻释怀了",
@@ -37121,6 +37153,14 @@
       "onboard_time": 1765544783,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124423,
+      "num": 124423,
+      "word": "苏新皓这是我18岁的最后一支vlog",
+      "onboard_time": 1766205200,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124416,
@@ -37433,14 +37473,6 @@
       "onboard_time": 1765551984,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123649,
-      "num": 123649,
-      "word": "女生醉驾撞死3人逝者母亲再发声",
-      "onboard_time": 1766203041,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123584,
@@ -39475,14 +39507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118447,
-      "num": 118447,
-      "word": "苹果烤奶",
-      "onboard_time": 1766202502,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118413,
       "num": 118413,
       "word": "法国总统马克龙与孙颖莎等互动",
@@ -40473,14 +40497,6 @@
       "onboard_time": 1764746902,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115770,
-      "num": 115770,
-      "word": "苏新皓这是我18岁的最后一支vlog",
-      "onboard_time": 1766205200,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115732,
@@ -45129,6 +45145,14 @@
       "onboard_time": 1765278921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103281,
+      "num": 103281,
+      "word": "高伟光 筷子腿不是这么用的",
+      "onboard_time": 1766205681,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103269,
@@ -50747,6 +50771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88775,
+      "num": 134575,
+      "word": "宋亚轩张真源 沈腾沙溢的养成系",
+      "onboard_time": 1766204660,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88750,
       "num": 175368,
       "word": "王楚钦入选年度最佳运动员提名",
@@ -55355,6 +55387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69738,
+      "num": 128837,
+      "word": "刘浩存 幼师小孩",
+      "onboard_time": 1766205440,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69718,
       "num": 70516,
       "word": "冬天洗澡劝你少做这3件事",
@@ -57251,6 +57291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59309,
+      "num": 246585,
+      "word": "祝福澳门祝福祖国",
+      "onboard_time": 1766205561,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59254,
       "num": 91547,
       "word": "iG纪录片",
@@ -57857,14 +57905,6 @@
       "onboard_time": 1764846442,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56244,
-      "num": 134575,
-      "word": "宋亚轩张真源 沈腾沙溢的养成系",
-      "onboard_time": 1766204660,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 56196,
@@ -63451,6 +63491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32558,
+      "num": 696068,
+      "word": "祝福澳门明天会更好",
+      "onboard_time": 1766205981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32512,
       "num": 125335,
       "word": "冲绳集会要求高市早苗谢罪",
@@ -68448,6 +68496,14 @@
       "word": "看三星堆象牙难度有多大",
       "onboard_time": 1765201762,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10162,
+      "num": 233279,
+      "word": "985大学推出0.985元考研早餐",
+      "onboard_time": 1766205802,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
