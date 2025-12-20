@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766255757322,
+  "endTime": 1766256468741,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -267,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79083,
+      "num": 79083,
+      "word": "拒绝侯明昊击掌第一人",
+      "onboard_time": 1766254157,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77705,
       "num": 272211,
       "word": "为什么五六百的女装也是聚酯纤维",
@@ -337,14 +345,6 @@
       "onboard_time": 1766231362,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 57970,
-      "num": 57970,
-      "word": "拒绝侯明昊击掌第一人",
-      "onboard_time": 1766254157,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 55451,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33821,
+      "raw_hot": 34165,
       "num": 55488,
       "word": "汪苏泷真的瘦了很多",
       "onboard_time": 1766252716,
@@ -539,7 +539,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23956,
+      "raw_hot": 26323,
       "num": 55444,
       "word": "别给汪苏泷的嘴留档期",
       "onboard_time": 1766255596,
@@ -563,12 +563,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 19036,
+      "num": 45400,
+      "word": "遇到难回答的问题又不说话了",
+      "onboard_time": 1766256076,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 18879,
       "num": 55419,
       "word": "刘宇宁大连演唱会",
       "onboard_time": 1766229983,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17738,
+      "num": 45393,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1766234122,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

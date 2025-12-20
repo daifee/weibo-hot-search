@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766255757322,
+  "endTime": 1766256468741,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -55539,6 +55539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79083,
+      "num": 79083,
+      "word": "拒绝侯明昊击掌第一人",
+      "onboard_time": 1766254157,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79054,
       "num": 79054,
       "word": "终于有人能治杜海涛了",
@@ -59785,14 +59793,6 @@
       "onboard_time": 1764991820,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57970,
-      "num": 57970,
-      "word": "拒绝侯明昊击掌第一人",
-      "onboard_time": 1766254157,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 57891,
@@ -65451,6 +65451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34165,
+      "num": 55488,
+      "word": "汪苏泷真的瘦了很多",
+      "onboard_time": 1766252716,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34052,
       "num": 102240,
       "word": "王楚钦纠正自己的采访发言",
@@ -65529,14 +65537,6 @@
       "onboard_time": 1764751462,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33821,
-      "num": 55488,
-      "word": "汪苏泷真的瘦了很多",
-      "onboard_time": 1766252716,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 33818,
@@ -67731,6 +67731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26323,
+      "num": 55444,
+      "word": "别给汪苏泷的嘴留档期",
+      "onboard_time": 1766255596,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26311,
       "num": 259212,
       "word": "加油站请女模搞促销引热议",
@@ -68425,14 +68433,6 @@
       "onboard_time": 1765250662,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23956,
-      "num": 55444,
-      "word": "别给汪苏泷的嘴留档期",
-      "onboard_time": 1766255596,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 23946,
@@ -69457,6 +69457,14 @@
       "onboard_time": 1765614440,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19036,
+      "num": 45400,
+      "word": "遇到难回答的问题又不说话了",
+      "onboard_time": 1766256076,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 18959,
