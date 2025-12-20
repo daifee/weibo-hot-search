@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766227450327,
+  "endTime": 1766229792941,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1110188,
+      "num": 675013,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1010401,
       "num": 264150,
       "word": "小洛熙妈妈感谢法医刘良",
@@ -104,6 +112,14 @@
       "word": "乔任梁母亲不让丈夫探望",
       "onboard_time": 1766196440,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 950331,
+      "num": 228786,
+      "word": "曝短剧女星与助理打架",
+      "onboard_time": 1766227641,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1766221942,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 675013,
-      "num": 675013,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 663909,
@@ -299,6 +307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 435302,
+      "num": 287382,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423186,
       "num": 276912,
       "word": "肖秀荣谈26考研政治",
@@ -313,6 +329,14 @@
       "onboard_time": 1766219421,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416310,
+      "num": 226402,
+      "word": "左一",
+      "onboard_time": 1766228061,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 404511,
@@ -379,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374543,
+      "num": 283490,
+      "word": "沈梦辰风格大变",
+      "onboard_time": 1766227581,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360920,
       "num": 153703,
       "word": "瑞龙恋爱",
       "onboard_time": 1766159062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353627,
+      "num": 230307,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 352653,
@@ -523,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270027,
-      "num": 270027,
-      "word": "台北砍人案一伤者感染艾滋病",
-      "onboard_time": 1766226442,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264702,
       "num": 223473,
       "word": "虞书欣又一人生镜头",
@@ -627,6 +659,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 241050,
+      "num": 241050,
+      "word": "许我耀眼年度最佳造型",
+      "onboard_time": 1766229681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240370,
       "num": 553611,
       "word": "国乒将选出总教练",
@@ -649,14 +689,6 @@
       "onboard_time": 1766204421,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 230307,
-      "num": 230307,
-      "word": "C罗身材照走红全网",
-      "onboard_time": 1766224642,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 230213,
@@ -785,6 +817,14 @@
       "onboard_time": 1766199381,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198951,
+      "num": 198951,
+      "word": "王玉雯稳得不像第一次主持",
+      "onboard_time": 1766229262,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198920,
@@ -923,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186412,
+      "num": 186412,
+      "word": "许我耀眼",
+      "onboard_time": 1766228901,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184989,
       "num": 184989,
       "word": "FGO",
       "onboard_time": 1766226081,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181583,
+      "num": 181583,
+      "word": "腾讯年度爆剧",
+      "onboard_time": 1766228481,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 180962,
@@ -953,6 +1009,14 @@
       "onboard_time": 1766210420,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175544,
+      "num": 175544,
+      "word": "周思成考了英语一",
+      "onboard_time": 1766228181,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 173248,
@@ -1283,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138141,
+      "num": 138141,
+      "word": "竞浪大会",
+      "onboard_time": 1766229201,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137744,
       "num": 137744,
       "word": "2025濮院电竞节",
@@ -1403,6 +1475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131847,
+      "num": 131847,
+      "word": "英语阅读原来第一篇是驴",
+      "onboard_time": 1766228121,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131824,
       "num": 131824,
       "word": "考研英语翻译",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1766187860,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128808,
+      "num": 128808,
+      "word": "WBG对战OMG",
+      "onboard_time": 1766228780,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 128749,
@@ -1755,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110712,
+      "num": 110712,
+      "word": "蒋振邦魏雅欣进决赛",
+      "onboard_time": 1766228901,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109573,
       "num": 109573,
       "word": "滑雪",
@@ -1769,6 +1865,14 @@
       "onboard_time": 1766208322,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109329,
+      "num": 109329,
+      "word": "苏新皓 我一直都在想你们",
+      "onboard_time": 1766228901,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 108909,
@@ -1817,6 +1921,14 @@
       "onboard_time": 1766156722,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106169,
+      "num": 106169,
+      "word": "顾玉血流干了我眼泪也流干了",
+      "onboard_time": 1766229262,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 105085,
@@ -2875,6 +2987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44072,
+      "num": 123366,
+      "word": "李纯聊嫁给马頔",
+      "onboard_time": 1766229742,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43640,
       "num": 93713,
       "word": "鞠婧祎机场状态",
@@ -2929,6 +3049,22 @@
       "onboard_time": 1766197281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37952,
+      "num": 233279,
+      "word": "王嘉尔回香港全是尖叫",
+      "onboard_time": 1766228481,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35453,
+      "num": 234124,
+      "word": "没有人不爱周杰伦",
+      "onboard_time": 1766228662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 34247,

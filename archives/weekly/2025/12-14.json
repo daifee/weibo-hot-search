@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766227450327,
+  "endTime": 1766229792941,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1110188,
+      "num": 675013,
+      "word": "星光大赏",
+      "onboard_time": 1765677501,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1104308,
       "num": 252748,
       "word": "煮了9个小时的鸡蛋",
@@ -625,6 +633,14 @@
       "onboard_time": 1766028741,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 950331,
+      "num": 228786,
+      "word": "曝短剧女星与助理打架",
+      "onboard_time": 1766227641,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 946163,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1765634964,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 675013,
-      "num": 675013,
-      "word": "星光大赏",
-      "onboard_time": 1765677501,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 671662,
@@ -2835,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435302,
+      "num": 287382,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434254,
       "num": 434254,
       "word": "悉尼枪击事件中英勇夺枪男子留遗言",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1765770022,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416310,
+      "num": 226402,
+      "word": "左一",
+      "onboard_time": 1766228061,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 415894,
@@ -3587,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374543,
+      "num": 283490,
+      "word": "沈梦辰风格大变",
+      "onboard_time": 1766227581,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372866,
       "num": 256996,
       "word": "肖战直播",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1766018902,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353627,
+      "num": 230307,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 352653,
@@ -5203,14 +5243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270027,
-      "num": 270027,
-      "word": "台北砍人案一伤者感染艾滋病",
-      "onboard_time": 1766226442,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
@@ -5971,6 +6003,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 241050,
+      "num": 241050,
+      "word": "许我耀眼年度最佳造型",
+      "onboard_time": 1766229681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240370,
       "num": 553611,
       "word": "国乒将选出总教练",
@@ -6153,14 +6193,6 @@
       "onboard_time": 1765709842,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230307,
-      "num": 230307,
-      "word": "C罗身材照走红全网",
-      "onboard_time": 1766224642,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 230213,
@@ -7427,6 +7459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198951,
+      "num": 198951,
+      "word": "王玉雯稳得不像第一次主持",
+      "onboard_time": 1766229262,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198920,
       "num": 198920,
       "word": "曲艺模板",
@@ -8267,6 +8307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186412,
+      "num": 186412,
+      "word": "许我耀眼",
+      "onboard_time": 1766228901,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186294,
       "num": 168586,
       "word": "炎症高的人一定少做3件事",
@@ -8579,6 +8627,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 181583,
+      "num": 181583,
+      "word": "腾讯年度爆剧",
+      "onboard_time": 1766228481,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181542,
       "num": 181542,
       "word": "日本民众告别大熊猫只能看1分钟",
@@ -8889,6 +8945,14 @@
       "onboard_time": 1766210420,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175544,
+      "num": 175544,
+      "word": "周思成考了英语一",
+      "onboard_time": 1766228181,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 175522,
@@ -11491,6 +11555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138141,
+      "num": 138141,
+      "word": "竞浪大会",
+      "onboard_time": 1765647256,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138135,
       "num": 230675,
       "word": "小米SU7换代或涨价2万元",
@@ -12371,6 +12443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131847,
+      "num": 131847,
+      "word": "英语阅读原来第一篇是驴",
+      "onboard_time": 1766228121,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131824,
       "num": 131824,
       "word": "考研英语翻译",
@@ -12769,6 +12849,14 @@
       "onboard_time": 1766121921,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128808,
+      "num": 128808,
+      "word": "WBG对战OMG",
+      "onboard_time": 1766228780,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 128749,
@@ -14315,14 +14403,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 115973,
-      "num": 115973,
-      "word": "竞浪大会",
-      "onboard_time": 1765647256,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115861,
       "num": 115861,
       "word": "金饰克价涨到1353元",
@@ -15187,6 +15267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110712,
+      "num": 110712,
+      "word": "蒋振邦魏雅欣进决赛",
+      "onboard_time": 1766228901,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110697,
       "num": 107458,
       "word": "汪苏泷广州二开",
@@ -15329,6 +15417,14 @@
       "onboard_time": 1766208322,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109329,
+      "num": 109329,
+      "word": "苏新皓 我一直都在想你们",
+      "onboard_time": 1766228901,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 109233,
@@ -15721,6 +15817,14 @@
       "onboard_time": 1765881142,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106169,
+      "num": 106169,
+      "word": "顾玉血流干了我眼泪也流干了",
+      "onboard_time": 1766229262,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106113,
@@ -22099,6 +22203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44072,
+      "num": 123366,
+      "word": "李纯聊嫁给马頔",
+      "onboard_time": 1766229742,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44034,
       "num": 195999,
       "word": "迪桑特中国国家队雪服首秀",
@@ -22595,6 +22707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37952,
+      "num": 233279,
+      "word": "王嘉尔回香港全是尖叫",
+      "onboard_time": 1766228481,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37949,
       "num": 358504,
       "word": "2025中国经济新突破",
@@ -22825,6 +22945,14 @@
       "onboard_time": 1765941203,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35453,
+      "num": 234124,
+      "word": "没有人不爱周杰伦",
+      "onboard_time": 1766228662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 35374,
