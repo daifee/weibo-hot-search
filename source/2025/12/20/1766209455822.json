@@ -1,0 +1,410 @@
+{
+  "runTime": 1766209455822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544654,
+        "num": 1544654,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 890127,
+        "num": 890127,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32511,
+        "num": 766903,
+        "word": "祝福澳门明天会更好",
+        "onboard_time": 1766205981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217842,
+        "num": 566630,
+        "word": "时代少年团在一起的含金量",
+        "onboard_time": 1766205081,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176912,
+        "num": 431389,
+        "word": "考研管综",
+        "onboard_time": 1766202201,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200526,
+        "num": 383949,
+        "word": "TF四代适合不适合MV上线",
+        "onboard_time": 1766208801,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240370,
+        "num": 240370,
+        "word": "国乒将选出总教练",
+        "onboard_time": 1766206160,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166122,
+        "num": 238287,
+        "word": "考研",
+        "onboard_time": 1766195839,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125285,
+        "num": 234824,
+        "word": "考研初试",
+        "onboard_time": 1766187918,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79698,
+        "num": 232724,
+        "word": "第五人格",
+        "onboard_time": 1766186717,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1646952,
+        "num": 228211,
+        "word": "法医刘良凌晨发视频配文星星亮了",
+        "onboard_time": 1766204840,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 422130,
+        "num": 225332,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 397858,
+        "num": 223205,
+        "word": "陈妍希陈靖可 姐狗",
+        "onboard_time": 1766206701,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448458,
+        "num": 221263,
+        "word": "小洛熙家属将继续追究相关人员责任",
+        "onboard_time": 1766204720,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 367701,
+        "num": 217739,
+        "word": "海南封关120多万卡宴只要60万",
+        "onboard_time": 1766198839,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352174,
+        "num": 213060,
+        "word": "郭敬明 他超爱",
+        "onboard_time": 1766204240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626841,
+        "num": 210247,
+        "word": "小洛熙妈妈感谢法医刘良",
+        "onboard_time": 1766199439,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209293,
+        "num": 209293,
+        "word": "肖秀荣谈26考研政治",
+        "onboard_time": 1766203999,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15904,
+        "num": 171529,
+        "word": "不明人士威胁下个目标是高雄车站",
+        "onboard_time": 1766209041,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97186,
+        "num": 166007,
+        "word": "沈梦辰每天喝2杯奶茶",
+        "onboard_time": 1766208560,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165780,
+        "num": 165780,
+        "word": "短剧香蜜男主变润玉",
+        "onboard_time": 1766208861,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139667,
+        "num": 139667,
+        "word": "周柯宇 姐前人夫娃前人父",
+        "onboard_time": 1766205862,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138947,
+        "num": 138947,
+        "word": "考研政治答案",
+        "onboard_time": 1766202140,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91842,
+        "num": 134682,
+        "word": "女子发现198元能买到陌生人婚纱照",
+        "onboard_time": 1766208021,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133042,
+        "num": 133042,
+        "word": "原来苗苗是这么有意思的人",
+        "onboard_time": 1766200041,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133021,
+        "num": 133021,
+        "word": "鞠婧祎跨年小卡",
+        "onboard_time": 1766204180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63315,
+        "num": 132425,
+        "word": "肖四",
+        "onboard_time": 1766201839,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132210,
+        "num": 132210,
+        "word": "刘晓庆在繁花2裤子越穿越短",
+        "onboard_time": 1766208620,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 127437,
+        "word": "庾澄庆状告汪苏泷要歌不要人",
+        "onboard_time": 1766206641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84141,
+        "num": 125884,
+        "word": "00后陆军女飞行员结婚了",
+        "onboard_time": 1766207002,
+        "rank": 29,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 125392,
+        "num": 125392,
+        "word": "黄晓明咬黄子韬脖子",
+        "onboard_time": 1766208141,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123073,
+        "num": 123073,
+        "word": "张柏芝已经写好遗嘱",
+        "onboard_time": 1766209281,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122519,
+        "num": 122519,
+        "word": "苦果亦是果前夫也是夫",
+        "onboard_time": 1766208920,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119509,
+        "num": 119509,
+        "word": "追星人的能力有多全面",
+        "onboard_time": 1766208081,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119287,
+        "num": 119287,
+        "word": "政治 反押题",
+        "onboard_time": 1766204421,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118649,
+        "num": 118649,
+        "word": "穆祉丞高会",
+        "onboard_time": 1766204421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261898,
+        "num": 117414,
+        "word": "小洛熙没有需要做手术的理由",
+        "onboard_time": 1766201061,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 48096,
+        "num": 115897,
+        "word": "00后女生醉驾致3死逝者母亲再发声",
+        "onboard_time": 1766209041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56790,
+        "num": 115788,
+        "word": "樊振东化身德国老司机",
+        "onboard_time": 1766208501,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115783,
+        "num": 115783,
+        "word": "女生醉驾撞死3人逝者母亲再发声",
+        "onboard_time": 1766203041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115524,
+        "num": 115524,
+        "word": "胡先煦让宋亚轩快回出发",
+        "onboard_time": 1766207660,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111056,
+        "num": 111056,
+        "word": "唐诡团宠离家出走",
+        "onboard_time": 1766209340,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57555,
+        "num": 110581,
+        "word": "国乒教练员竞聘工作方案",
+        "onboard_time": 1766207780,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110325,
+        "num": 110325,
+        "word": "马斯克被C罗身材卷到了",
+        "onboard_time": 1766200281,
+        "rank": 43,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 109333,
+        "num": 109333,
+        "word": "看出来沈梦辰是真喜欢吃蝴蝶酥",
+        "onboard_time": 1766208322,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109152,
+        "num": 109152,
+        "word": "刘浩存 幼师小孩",
+        "onboard_time": 1766205440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108909,
+        "num": 108909,
+        "word": "猫出去溜达回来面相大变",
+        "onboard_time": 1766208440,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98102,
+        "num": 98102,
+        "word": "985大学推出0.985元考研早餐",
+        "onboard_time": 1766205802,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95154,
+        "num": 95154,
+        "word": "父亲看到女儿生前被打照片含泪痛斥",
+        "onboard_time": 1766207061,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94847,
+        "num": 94847,
+        "word": "刘耀文把黄子韬赶出时代峰峻",
+        "onboard_time": 1766201481,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画海南自贸港建设图景#"
+    }
+  }
+}

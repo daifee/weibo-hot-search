@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766208535205,
+  "endTime": 1766209455822,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -27,20 +27,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1646952,
+      "num": 248280,
+      "word": "法医刘良凌晨发视频配文星星亮了",
+      "onboard_time": 1766204840,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1592064,
       "num": 1592064,
       "word": "原来微信长按2秒钟这么好用",
       "onboard_time": 1766204061,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1424167,
-      "num": 248280,
-      "word": "法医刘良凌晨发视频配文星星亮了",
-      "onboard_time": 1766204840,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1300438,
@@ -187,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 422130,
+      "num": 225332,
+      "word": "克林顿与2女子大尺度照片曝光",
+      "onboard_time": 1766208440,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 404511,
       "num": 153902,
       "word": "孙涵清回应分手",
@@ -209,6 +217,14 @@
       "onboard_time": 1766204240,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397858,
+      "num": 223205,
+      "word": "陈妍希陈靖可 姐狗",
+      "onboard_time": 1766206701,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 388680,
@@ -257,14 +273,6 @@
       "onboard_time": 1766201061,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310618,
-      "num": 208676,
-      "word": "陈妍希陈靖可 姐狗",
-      "onboard_time": 1766206701,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 306648,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 248439,
-      "num": 294244,
+      "num": 566630,
       "word": "时代少年团在一起的含金量",
       "onboard_time": 1766205081,
       "rank": 9,
@@ -361,6 +369,14 @@
       "onboard_time": 1766200281,
       "rank": 29,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 240370,
+      "num": 240370,
+      "word": "国乒将选出总教练",
+      "onboard_time": 1766206160,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 232340,
@@ -441,6 +457,14 @@
       "onboard_time": 1766191340,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200526,
+      "num": 383949,
+      "word": "TF四代适合不适合MV上线",
+      "onboard_time": 1766208801,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 199055,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179841,
-      "num": 179841,
-      "word": "国乒将选出总教练",
-      "onboard_time": 1766206160,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173248,
       "num": 377130,
       "word": "今天2026考研",
@@ -585,6 +601,14 @@
       "onboard_time": 1766199200,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165780,
+      "num": 165780,
+      "word": "短剧香蜜男主变润玉",
+      "onboard_time": 1766208861,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 164815,
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132210,
+      "num": 132210,
+      "word": "刘晓庆在繁花2裤子越穿越短",
+      "onboard_time": 1766208620,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131683,
       "num": 131683,
       "word": "张函瑞MV单人part",
@@ -785,6 +817,14 @@
       "onboard_time": 1766202502,
       "rank": 39,
       "category": "互联网,演出"
+    },
+    {
+      "raw_hot": 125392,
+      "num": 125392,
+      "word": "黄晓明咬黄子韬脖子",
+      "onboard_time": 1766208141,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 125185,
@@ -827,6 +867,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123073,
+      "num": 123073,
+      "word": "张柏芝已经写好遗嘱",
+      "onboard_time": 1766209281,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122519,
+      "num": 122519,
+      "word": "苦果亦是果前夫也是夫",
+      "onboard_time": 1766208920,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120524,
       "num": 90236,
       "word": "2026WTT总决赛改为6天",
@@ -835,8 +891,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119417,
-      "num": 119417,
+      "raw_hot": 119509,
+      "num": 119509,
       "word": "追星人的能力有多全面",
       "onboard_time": 1766208081,
       "rank": 37,
@@ -971,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111056,
+      "num": 111056,
+      "word": "唐诡团宠离家出走",
+      "onboard_time": 1766209340,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109573,
       "num": 109573,
       "word": "滑雪",
@@ -979,12 +1043,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 107895,
-      "num": 107895,
-      "word": "克林顿与2女子大尺度照片曝光",
+      "raw_hot": 109333,
+      "num": 109333,
+      "word": "看出来沈梦辰是真喜欢吃蝴蝶酥",
+      "onboard_time": 1766208322,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108909,
+      "num": 108909,
+      "word": "猫出去溜达回来面相大变",
       "onboard_time": 1766208440,
-      "rank": 47,
-      "category": "海外新闻"
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107069,
@@ -1059,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102557,
-      "num": 102557,
-      "word": "猫出去溜达回来面相大变",
-      "onboard_time": 1766208440,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100549,
       "num": 154269,
       "word": "考研时间",
@@ -1100,7 +1164,7 @@
     },
     {
       "raw_hot": 98305,
-      "num": 218955,
+      "num": 232724,
       "word": "第五人格",
       "onboard_time": 1766186717,
       "rank": 37,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1766156484,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97186,
+      "num": 166007,
+      "word": "沈梦辰每天喝2杯奶茶",
+      "onboard_time": 1766208560,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 95989,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1766145920,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91842,
+      "num": 206594,
+      "word": "女子发现198元能买到陌生人婚纱照",
+      "onboard_time": 1766208021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91531,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1766148441,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84141,
+      "num": 159680,
+      "word": "00后陆军女飞行员结婚了",
+      "onboard_time": 1766207002,
+      "rank": 26,
+      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 83933,
@@ -1435,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63340,
-      "num": 159680,
-      "word": "00后陆军女飞行员结婚了",
-      "onboard_time": 1766207002,
-      "rank": 26,
-      "category": "民生新闻,军事"
-    },
-    {
       "raw_hot": 63034,
       "num": 150050,
       "word": "杨紫直播",
@@ -1619,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48096,
+      "num": 115897,
+      "word": "00后女生醉驾致3死逝者母亲再发声",
+      "onboard_time": 1766209041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47061,
       "num": 61617,
       "word": "月鳞绮纪",
@@ -1667,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40481,
-      "num": 206594,
-      "word": "女子发现198元能买到陌生人婚纱照",
-      "onboard_time": 1766208021,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39574,
       "num": 61662,
       "word": "消费者称黄金一天一个价",
@@ -1716,7 +1796,7 @@
     },
     {
       "raw_hot": 32558,
-      "num": 696068,
+      "num": 766903,
       "word": "祝福澳门明天会更好",
       "onboard_time": 1766205981,
       "rank": 2,
@@ -1857,6 +1937,14 @@
       "onboard_time": 1766157321,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15904,
+      "num": 171529,
+      "word": "不明人士威胁下个目标是高雄车站",
+      "onboard_time": 1766209041,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12719,
