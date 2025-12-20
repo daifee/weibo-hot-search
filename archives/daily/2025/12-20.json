@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766209455822,
+  "endTime": 1766212806138,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -9,6 +9,14 @@
       "onboard_time": 1766156183,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8068395,
+      "num": 8068395,
+      "word": "韩红为小洛熙宝宝发声",
+      "onboard_time": 1766210301,
+      "rank": 0,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 3520649,
@@ -89,6 +97,14 @@
       "onboard_time": 1766187019,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 787422,
+      "num": 267464,
+      "word": "克林顿与2女子大尺度照片曝光",
+      "onboard_time": 1766208440,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 731777,
@@ -187,14 +203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 422130,
-      "num": 225332,
-      "word": "克林顿与2女子大尺度照片曝光",
-      "onboard_time": 1766208440,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 404511,
       "num": 153902,
       "word": "孙涵清回应分手",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 397858,
-      "num": 223205,
+      "num": 232960,
       "word": "陈妍希陈靖可 姐狗",
       "onboard_time": 1766206701,
       "rank": 17,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291635,
+      "num": 177315,
+      "word": "坚持吃苹果一个月的身体变化",
+      "onboard_time": 1766210481,
+      "rank": 20,
+      "category": "美食,运动健身"
+    },
+    {
       "raw_hot": 283934,
       "num": 283934,
       "word": "命真好头胎生了个月嫂",
@@ -305,6 +321,14 @@
       "onboard_time": 1766147000,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 273422,
+      "num": 232807,
+      "word": "沈梦辰每天喝2杯奶茶",
+      "onboard_time": 1766208560,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 270284,
@@ -331,11 +355,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261205,
+      "num": 232662,
+      "word": "短剧香蜜男主变润玉",
+      "onboard_time": 1766208861,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257610,
       "num": 257610,
       "word": "刘耀文把黄子韬赶出时代峰峻",
       "onboard_time": 1766201481,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 232399,
+      "word": "张柏芝已经写好遗嘱",
+      "onboard_time": 1766209281,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 240370,
-      "num": 240370,
+      "num": 553611,
       "word": "国乒将选出总教练",
       "onboard_time": 1766206160,
       "rank": 24,
@@ -385,6 +425,14 @@
       "onboard_time": 1766204421,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 232265,
+      "num": 232265,
+      "word": "周扬青跟罗昊在一起的原因",
+      "onboard_time": 1766211982,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 230213,
@@ -539,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189723,
+      "num": 100237,
+      "word": "母亲哭着说女儿是在家里被剥夺了生命",
+      "onboard_time": 1766211982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189679,
       "num": 189679,
       "word": "云深不知梦首季收官",
@@ -561,6 +617,14 @@
       "onboard_time": 1766202981,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175709,
+      "num": 175709,
+      "word": "辅警工作近6年因有文身被辞退",
+      "onboard_time": 1766210420,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173248,
@@ -603,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165780,
-      "num": 165780,
-      "word": "短剧香蜜男主变润玉",
-      "onboard_time": 1766208861,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "乔任梁父母相继入院",
@@ -625,6 +681,14 @@
       "onboard_time": 1766204901,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157541,
+      "num": 157541,
+      "word": "TF三四代族综",
+      "onboard_time": 1766212342,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 156310,
@@ -867,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123073,
-      "num": 123073,
-      "word": "张柏芝已经写好遗嘱",
-      "onboard_time": 1766209281,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122519,
       "num": 122519,
       "word": "苦果亦是果前夫也是夫",
@@ -937,6 +993,14 @@
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115131,
+      "num": 115131,
+      "word": "马天宇 我就当渡了一劫",
+      "onboard_time": 1766209700,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 114969,
@@ -1059,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108304,
+      "num": 108304,
+      "word": "女老板婉拒博士相亲对象",
+      "onboard_time": 1766211020,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107069,
       "num": 153358,
       "word": "黄磊孙莉二女儿颜值",
@@ -1139,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100237,
+      "num": 100237,
+      "word": "王玉雯女神扑面而来的仙气",
+      "onboard_time": 1766211801,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99554,
       "num": 220984,
       "word": "国乒教练员竞聘工作方案",
@@ -1164,7 +1244,7 @@
     },
     {
       "raw_hot": 98305,
-      "num": 232724,
+      "num": 233097,
       "word": "第五人格",
       "onboard_time": 1766186717,
       "rank": 37,
@@ -1179,20 +1259,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97186,
-      "num": 166007,
-      "word": "沈梦辰每天喝2杯奶茶",
-      "onboard_time": 1766208560,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95989,
       "num": 95989,
       "word": "中日外交局势",
       "onboard_time": 1766198180,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94398,
+      "num": 100233,
+      "word": "公司回应左航坐经济舱",
+      "onboard_time": 1766211982,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93497,
+      "num": 100226,
+      "word": "原来当老师有这么多好处",
+      "onboard_time": 1766210420,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 92657,
@@ -1216,6 +1304,14 @@
       "word": "女子发现198元能买到陌生人婚纱照",
       "onboard_time": 1766208021,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91702,
+      "num": 233377,
+      "word": "成都女子家门口遇害案被告一审死缓",
+      "onboard_time": 1766211982,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84815,
+      "num": 100217,
+      "word": "发现很多东西都在悄悄涨价",
+      "onboard_time": 1766210900,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84739,
       "num": 86773,
       "word": "这么可爱的猫他居然有两只",
@@ -1379,11 +1483,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77637,
+      "num": 100216,
+      "word": "考研英语",
+      "onboard_time": 1766211020,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77543,
       "num": 89321,
       "word": "WTT修改总决赛赛制",
       "onboard_time": 1766199439,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77475,
+      "num": 100211,
+      "word": "凤凰组合进决赛",
+      "onboard_time": 1766212582,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1427,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74982,
+      "num": 100205,
+      "word": "饺子比冬至先来一步",
+      "onboard_time": 1766210781,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74773,
       "num": 150865,
       "word": "600多元天津飞北京中转成都机票火了",
@@ -1449,6 +1577,14 @@
       "onboard_time": 1766139260,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71385,
+      "num": 100200,
+      "word": "狗粮一停 感情归零",
+      "onboard_time": 1766211919,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 69819,
@@ -1483,12 +1619,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67951,
+      "num": 100191,
+      "word": "松针让山楂更好吃了",
+      "onboard_time": 1766212762,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67395,
+      "num": 100188,
+      "word": "王力宏30周年演唱会上座率",
+      "onboard_time": 1766212762,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 66712,
+      "num": 100172,
+      "word": "雷霆vs森林狼",
+      "onboard_time": 1766210900,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66022,
       "num": 61708,
       "word": "澳门回归祖国26周年",
       "onboard_time": 1766185877,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65960,
+      "num": 100175,
+      "word": "胡连馨首个常驻综艺",
+      "onboard_time": 1766211020,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65430,
+      "num": 100169,
+      "word": "驻日美军士兵街头全裸徘徊被捕",
+      "onboard_time": 1766212522,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65267,
@@ -1520,6 +1696,14 @@
       "word": "105捆2元人民币起拍价20余万元",
       "onboard_time": 1766157862,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63200,
+      "num": 100183,
+      "word": "穷人专属是对聚酯纤维的误解",
+      "onboard_time": 1766210420,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1609,6 +1793,14 @@
       "onboard_time": 1766188458,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56194,
+      "num": 178197,
+      "word": "男子车上抽烟辱骂殴打劝阻乘客",
+      "onboard_time": 1766211622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56182,
@@ -1769,6 +1961,14 @@
       "onboard_time": 1766197281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36916,
+      "num": 100206,
+      "word": "26岁小伙在伦敦卖胡辣汤130元一碗",
+      "onboard_time": 1766211681,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34247,

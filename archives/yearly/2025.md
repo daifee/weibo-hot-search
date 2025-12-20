@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/20 13:44:15
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/20 14:40:06
 </p>
 </blockquote>
 <p>
@@ -1503,6 +1503,12 @@ T1三连冠（热度：8192449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E4%B8%BA%E5%B0%8F%E6%B4%9B%E7%86%99%E5%AE%9D%E5%AE%9D%E5%8F%91%E5%A3%B0%23" target="weibo">
+韩红为小洛熙宝宝发声（热度：8068395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B%23" target="weibo">
 王楚钦因伤退赛（热度：8061205）
 </a>
@@ -1805,12 +1811,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E9%A6%96%E6%88%98%E8%BE%93%E4%BA%86%23" target="weibo">
 宗馥莉首战输了（热度：6756623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
-樊振东vs林诗栋（热度：6748763）
 </a>
 </li>
 
