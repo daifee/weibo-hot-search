@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766273153494,
+  "endTime": 1766273989658,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -27,8 +27,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501151,
-      "num": 809784,
+      "raw_hot": 531998,
+      "num": 917776,
       "word": "冬至",
       "onboard_time": 1766250438,
       "rank": 20,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210337,
+      "num": 273167,
+      "word": "霍思燕爱犬在国际比赛夺冠",
+      "onboard_time": 1766234002,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203270,
       "num": 274269,
       "word": "易烊千玺说和鸿蒙见证了彼此成长",
@@ -99,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195888,
+      "num": 462356,
+      "word": "工商银行被罚没超4000万元",
+      "onboard_time": 1766240784,
+      "rank": 6,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 195283,
       "num": 273956,
       "word": "刘宇宁耳返炸到耳朵啦",
@@ -113,14 +129,6 @@
       "onboard_time": 1766219900,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 189357,
-      "num": 462356,
-      "word": "工商银行被罚没超4000万元",
-      "onboard_time": 1766240784,
-      "rank": 6,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 186499,
@@ -171,12 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151294,
-      "num": 273167,
-      "word": "霍思燕爱犬在国际比赛夺冠",
-      "onboard_time": 1766234002,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 156128,
+      "num": 344193,
+      "word": "女友家中两人患癌小伙犹豫该不该结婚",
+      "onboard_time": 1766243362,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146032,
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129185,
-      "num": 344193,
-      "word": "女友家中两人患癌小伙犹豫该不该结婚",
-      "onboard_time": 1766243362,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119369,
       "num": 273467,
       "word": "体检报告的这些字眼或是癌症信号",
@@ -243,12 +243,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85776,
+      "raw_hot": 100392,
+      "num": 47637,
+      "word": "女装还在改良男装已经进化了",
+      "onboard_time": 1766273476,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 97943,
       "num": 272211,
       "word": "为什么五六百的女装也是聚酯纤维",
       "onboard_time": 1766238504,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97236,
+      "num": 271802,
+      "word": "高速狂奔490公里司机要求退车退款",
+      "onboard_time": 1766234902,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89209,
+      "num": 268375,
+      "word": "周润发请近百名TVB旧同事聚餐",
+      "onboard_time": 1766250918,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 84062,
@@ -267,14 +291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 82102,
-      "num": 271802,
-      "word": "高速狂奔490公里司机要求退车退款",
-      "onboard_time": 1766234902,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79368,
       "num": 276207,
       "word": "欧豪演唱会",
@@ -291,12 +307,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73781,
-      "num": 268375,
-      "word": "周润发请近百名TVB旧同事聚餐",
-      "onboard_time": 1766250918,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 79000,
+      "num": 79000,
+      "word": "折腰一晚上六个奖",
+      "onboard_time": 1766271856,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74730,
+      "num": 271621,
+      "word": "三家银行共被罚上亿元",
+      "onboard_time": 1766242162,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 74609,
+      "num": 74609,
+      "word": "张彬彬帮毛晓彤提裙子被打手",
+      "onboard_time": 1766273537,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 73699,
@@ -339,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60849,
-      "num": 271621,
-      "word": "三家银行共被罚上亿元",
-      "onboard_time": 1766242162,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 60728,
       "num": 271419,
       "word": "考研",
@@ -355,7 +379,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 56036,
+      "raw_hot": 56743,
       "num": 270259,
       "word": "夫妻吵架上头丈夫血管当场气炸",
       "onboard_time": 1766230161,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49414,
+      "num": 49414,
+      "word": "一年最冷的日子要来了",
+      "onboard_time": 1766273777,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49290,
       "num": 270919,
       "word": "朱丹两个孩子都弱视",
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46626,
+      "num": 47648,
+      "word": "王玉雯稳得不像第一次主持",
+      "onboard_time": 1766229262,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45892,
       "num": 270610,
       "word": "湘超",
@@ -443,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45210,
+      "num": 170791,
+      "word": "男子直播影响游客煽动人肉保安被拘",
+      "onboard_time": 1766273297,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42075,
       "num": 270394,
       "word": "MMA",
@@ -451,12 +499,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41860,
-      "num": 73551,
-      "word": "折腰一晚上六个奖",
-      "onboard_time": 1766271856,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 41832,
+      "num": 72606,
+      "word": "健康的恋爱关系真的会养人",
+      "onboard_time": 1766272336,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 37979,
@@ -507,12 +555,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33592,
+      "num": 47627,
+      "word": "刘宇宁演唱会结束出发海口",
+      "onboard_time": 1766273956,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33077,
       "num": 267095,
       "word": "易烊千玺谈演员的可塑性",
       "onboard_time": 1766251158,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 73194,
+      "word": "坐电梯隐藏自己楼层",
+      "onboard_time": 1766262314,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 31155,
@@ -547,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29765,
-      "num": 73194,
-      "word": "坐电梯隐藏自己楼层",
-      "onboard_time": 1766262314,
+      "raw_hot": 29238,
+      "num": 73017,
+      "word": "你好星期六",
+      "onboard_time": 1766235802,
       "rank": 47,
-      "category": "幽默,情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 28272,
@@ -571,20 +635,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24731,
-      "num": 73017,
-      "word": "你好星期六",
-      "onboard_time": 1766235802,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24016,
       "num": 56731,
       "word": "枭起青壤",
       "onboard_time": 1766257335,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23479,
+      "num": 72910,
+      "word": "于适演唱会首站上座率",
+      "onboard_time": 1766265553,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23391,
+      "num": 47595,
+      "word": "长安二十四计热度",
+      "onboard_time": 1766273657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22468,
+      "num": 47590,
+      "word": "第5次考研女生吐槽题太难了",
+      "onboard_time": 1766273657,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 22398,
@@ -601,14 +681,6 @@
       "onboard_time": 1766252418,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 20276,
-      "num": 72910,
-      "word": "于适演唱会首站上座率",
-      "onboard_time": 1766265553,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 19980,
@@ -681,14 +753,6 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14347,
-      "num": 72606,
-      "word": "健康的恋爱关系真的会养人",
-      "onboard_time": 1766272336,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14122,

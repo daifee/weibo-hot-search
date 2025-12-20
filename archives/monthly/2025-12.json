@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766273153494,
+  "endTime": 1766273989658,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -6435,6 +6435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 531998,
+      "num": 917776,
+      "word": "冬至",
+      "onboard_time": 1766146400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531066,
       "num": 364418,
       "word": "怪不得麦当劳是减肥餐",
@@ -7001,14 +7009,6 @@
       "onboard_time": 1765972581,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 501151,
-      "num": 809784,
-      "word": "冬至",
-      "onboard_time": 1766146400,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 500890,
@@ -22347,6 +22347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195888,
+      "num": 462356,
+      "word": "工商银行被罚没超4000万元",
+      "onboard_time": 1766240784,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 195884,
       "num": 195884,
       "word": "华策影视严正声明",
@@ -22609,14 +22617,6 @@
       "onboard_time": 1764574162,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194768,
-      "num": 462356,
-      "word": "工商银行被罚没超4000万元",
-      "onboard_time": 1766240784,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 194734,
@@ -29473,6 +29473,14 @@
       "onboard_time": 1765535901,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156128,
+      "num": 344193,
+      "word": "女友家中两人患癌小伙犹豫该不该结婚",
+      "onboard_time": 1766243362,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156102,
@@ -37041,14 +37049,6 @@
       "onboard_time": 1765792222,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129185,
-      "num": 344193,
-      "word": "女友家中两人患癌小伙犹豫该不该结婚",
-      "onboard_time": 1766243362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129164,
@@ -48203,6 +48203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100392,
+      "num": 47637,
+      "word": "女装还在改良男装已经进化了",
+      "onboard_time": 1766273476,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 100362,
       "num": 100362,
       "word": "火锅丸子浮起来别马上夹",
@@ -52571,6 +52579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89209,
+      "num": 268375,
+      "word": "周润发请近百名TVB旧同事聚餐",
+      "onboard_time": 1766250918,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89184,
       "num": 226339,
       "word": "我买的车到底能应对多少极端危险",
@@ -55563,6 +55579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79000,
+      "num": 79000,
+      "word": "折腰一晚上六个奖",
+      "onboard_time": 1766271856,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78980,
       "num": 87504,
       "word": "旧国标电动自行车变零公里二手车",
@@ -56635,6 +56659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74609,
+      "num": 74609,
+      "word": "张彬彬帮毛晓彤提裙子被打手",
+      "onboard_time": 1766273537,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74606,
       "num": 88777,
       "word": "中国队今晚将再次对阵日本队",
@@ -56777,14 +56809,6 @@
       "onboard_time": 1764889217,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73781,
-      "num": 268375,
-      "word": "周润发请近百名TVB旧同事聚餐",
-      "onboard_time": 1766250918,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 73654,
@@ -61715,6 +61739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49414,
+      "num": 49414,
+      "word": "一年最冷的日子要来了",
+      "onboard_time": 1766273777,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49352,
       "num": 216812,
       "word": "李某春有自首情节且获谅解",
@@ -62683,6 +62715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45210,
+      "num": 170791,
+      "word": "男子直播影响游客煽动人肉保安被拘",
+      "onboard_time": 1766273297,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45165,
       "num": 45165,
       "word": "网红教授张河清悼念室友文字看哭全网",
@@ -63499,12 +63539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41860,
-      "num": 73551,
-      "word": "折腰一晚上六个奖",
-      "onboard_time": 1766271856,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 41832,
+      "num": 72606,
+      "word": "健康的恋爱关系真的会养人",
+      "onboard_time": 1766272336,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 41816,
@@ -65643,6 +65683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33592,
+      "num": 47627,
+      "word": "刘宇宁演唱会结束出发海口",
+      "onboard_time": 1766273956,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -65809,6 +65857,14 @@
       "onboard_time": 1764999261,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 73194,
+      "word": "坐电梯隐藏自己楼层",
+      "onboard_time": 1766262314,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 33011,
@@ -66769,14 +66825,6 @@
       "onboard_time": 1766243543,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29765,
-      "num": 73194,
-      "word": "坐电梯隐藏自己楼层",
-      "onboard_time": 1766262314,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 29749,
@@ -68579,6 +68627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23479,
+      "num": 72910,
+      "word": "于适演唱会首站上座率",
+      "onboard_time": 1766265553,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23451,
       "num": 131641,
       "word": "声鸣远扬选手误闯天家",
@@ -68833,6 +68889,14 @@
       "onboard_time": 1765998615,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 22468,
+      "num": 47590,
+      "word": "第5次考研女生吐槽题太难了",
+      "onboard_time": 1766273657,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 22428,
@@ -69249,14 +69313,6 @@
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20276,
-      "num": 72910,
-      "word": "于适演唱会首站上座率",
-      "onboard_time": 1766265553,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 20263,
@@ -70449,14 +70505,6 @@
       "onboard_time": 1765687462,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14347,
-      "num": 72606,
-      "word": "健康的恋爱关系真的会养人",
-      "onboard_time": 1766272336,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14205,

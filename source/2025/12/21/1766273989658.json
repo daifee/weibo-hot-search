@@ -1,0 +1,410 @@
+{
+  "runTime": 1766273989658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 531998,
+        "num": 917776,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195888,
+        "num": 195888,
+        "word": "工商银行被罚没超4000万元",
+        "onboard_time": 1766240784,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 45210,
+        "num": 170791,
+        "word": "男子直播影响游客煽动人肉保安被拘",
+        "onboard_time": 1766273297,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156128,
+        "num": 156128,
+        "word": "女友家中两人患癌小伙犹豫该不该结婚",
+        "onboard_time": 1766243362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114408,
+        "num": 114408,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105396,
+        "num": 105396,
+        "word": "海南封关当地市民买爽了",
+        "onboard_time": 1766239523,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97943,
+        "num": 97943,
+        "word": "为什么五六百的女装也是聚酯纤维",
+        "onboard_time": 1766238504,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97236,
+        "num": 97236,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85184,
+        "num": 85184,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79000,
+        "num": 79000,
+        "word": "折腰一晚上六个奖",
+        "onboard_time": 1766271856,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351552,
+        "num": 78352,
+        "word": "怎么李明德又要截爆星光大赏了",
+        "onboard_time": 1766243722,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286388,
+        "num": 77287,
+        "word": "涉事医院否认小洛熙房缺为3mm",
+        "onboard_time": 1766247022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89209,
+        "num": 76251,
+        "word": "周润发请近百名TVB旧同事聚餐",
+        "onboard_time": 1766250918,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74730,
+        "num": 74730,
+        "word": "三家银行共被罚上亿元",
+        "onboard_time": 1766242162,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141713,
+        "num": 74702,
+        "word": "小洛熙事件法律不能再缺席",
+        "onboard_time": 1766246722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116605,
+        "num": 74682,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74609,
+        "num": 74609,
+        "word": "张彬彬帮毛晓彤提裙子被打手",
+        "onboard_time": 1766273537,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58372,
+        "num": 58372,
+        "word": "双轨热度",
+        "onboard_time": 1766241564,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56743,
+        "num": 56743,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48476,
+        "num": 55353,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210337,
+        "num": 55092,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174816,
+        "num": 53201,
+        "word": "曝赵樱子追求蒋毅被拒",
+        "onboard_time": 1766242763,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 51950,
+        "word": "睡觉把手举过头顶为什么很舒服",
+        "onboard_time": 1766245461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50421,
+        "num": 50421,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49414,
+        "num": 49414,
+        "word": "一年最冷的日子要来了",
+        "onboard_time": 1766273777,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47649,
+        "num": 47649,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46626,
+        "num": 47648,
+        "word": "王玉雯稳得不像第一次主持",
+        "onboard_time": 1766229262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46559,
+        "num": 47644,
+        "word": "陈妍希周柯宇发文告别狙击蝴蝶",
+        "onboard_time": 1766244083,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41832,
+        "num": 47642,
+        "word": "健康的恋爱关系真的会养人",
+        "onboard_time": 1766272336,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39658,
+        "num": 47641,
+        "word": "体检报告的这些字眼或是癌症信号",
+        "onboard_time": 1766244923,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100392,
+        "num": 47637,
+        "word": "女装还在改良男装已经进化了",
+        "onboard_time": 1766273476,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 47633,
+        "word": "每天睡前5分钟骨盆回正的回报率",
+        "onboard_time": 1766239164,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35420,
+        "num": 47631,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35106,
+        "num": 47628,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33592,
+        "num": 47627,
+        "word": "刘宇宁演唱会结束出发海口",
+        "onboard_time": 1766273956,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33059,
+        "num": 47624,
+        "word": "坐电梯隐藏自己楼层",
+        "onboard_time": 1766262314,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 31873,
+        "num": 47621,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29995,
+        "num": 47619,
+        "word": "王玉雯主持",
+        "onboard_time": 1766230161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29566,
+        "num": 47616,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29414,
+        "num": 47614,
+        "word": "阿凡达3口碑",
+        "onboard_time": 1766244203,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29238,
+        "num": 47611,
+        "word": "你好星期六",
+        "onboard_time": 1766235802,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27052,
+        "num": 47608,
+        "word": "永州淘汰长沙",
+        "onboard_time": 1766240004,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26468,
+        "num": 47605,
+        "word": "欧豪演唱会",
+        "onboard_time": 1766237544,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26367,
+        "num": 47604,
+        "word": "侯明昊努力半天白努力",
+        "onboard_time": 1766251697,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24930,
+        "num": 47601,
+        "word": "冬至时节如何养生",
+        "onboard_time": 1766232502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23479,
+        "num": 47599,
+        "word": "于适演唱会首站上座率",
+        "onboard_time": 1766265553,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23391,
+        "num": 47595,
+        "word": "长安二十四计热度",
+        "onboard_time": 1766273657,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23354,
+        "num": 47593,
+        "word": "michelledaniel",
+        "onboard_time": 1766248999,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22468,
+        "num": 47590,
+        "word": "第5次考研女生吐槽题太难了",
+        "onboard_time": 1766273657,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20606,
+        "num": 47588,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
