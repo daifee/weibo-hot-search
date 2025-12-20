@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766238299389,
+  "endTime": 1766240735804,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1280328,
+      "num": 231652,
+      "word": "医院删除小洛熙尸检报告回应",
+      "onboard_time": 1766239523,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1278255,
       "num": 547465,
       "word": "演唱会出轨门",
@@ -417,6 +425,14 @@
       "onboard_time": 1766137220,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1144888,
+      "num": 230214,
+      "word": "马天宇回应李明德大闹三人行风波",
+      "onboard_time": 1766238863,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1133606,
@@ -1347,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 673026,
+      "num": 314554,
+      "word": "谢娜主持",
+      "onboard_time": 1766234782,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 671662,
       "num": 652778,
       "word": "日本男子与上百名女性发生关系偷拍",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1766029881,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542283,
+      "num": 224843,
+      "word": "永州淘汰长沙",
+      "onboard_time": 1766240004,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 540450,
@@ -3059,6 +3091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "刘宇宁耳返炸到耳朵啦",
+      "onboard_time": 1766236402,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424546,
       "num": 662541,
       "word": "周大福一条金手链多收9000元",
@@ -3731,20 +3771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370854,
-      "num": 314554,
-      "word": "谢娜主持",
-      "onboard_time": 1766234782,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370763,
       "num": 287706,
       "word": "北京印度餐厅",
       "onboard_time": 1766068282,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 370060,
+      "num": 233823,
+      "word": "湘超",
+      "onboard_time": 1766234002,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 368989,
@@ -4315,6 +4355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 328390,
+      "num": 328390,
+      "word": "你好星期六",
+      "onboard_time": 1765630164,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327743,
       "num": 258951,
       "word": "幂级恐惧犯了",
@@ -4707,14 +4755,6 @@
       "category": "海外新闻,艺人"
     },
     {
-      "raw_hot": 303775,
-      "num": 303775,
-      "word": "你好星期六",
-      "onboard_time": 1765630164,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302266,
       "num": 270841,
       "word": "秦俊杰是去体制内进修过吧",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1766011276,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286723,
+      "num": 225724,
+      "word": "霍思燕爱犬在国际比赛夺冠",
+      "onboard_time": 1766234002,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 286472,
@@ -5371,14 +5419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269959,
-      "num": 225724,
-      "word": "霍思燕爱犬在国际比赛夺冠",
-      "onboard_time": 1766234002,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
@@ -5657,6 +5697,14 @@
       "onboard_time": 1766223501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258188,
+      "num": 217432,
+      "word": "每天睡前5分钟骨盆回正的回报率",
+      "onboard_time": 1766239164,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 257885,
@@ -6091,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243566,
+      "num": 216051,
+      "word": "海南封关当地市民买爽了",
+      "onboard_time": 1766239523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242947,
       "num": 186869,
       "word": "迪丽热巴演了爱你老己",
@@ -6185,14 +6241,6 @@
       "onboard_time": 1766146400,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 236952,
-      "num": 236952,
-      "word": "刘宇宁耳返炸到耳朵啦",
-      "onboard_time": 1766236402,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 235884,
@@ -7105,6 +7153,14 @@
       "onboard_time": 1765863501,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "小米17Ultra涨价",
+      "onboard_time": 1766239703,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 207340,
@@ -8185,6 +8241,14 @@
       "onboard_time": 1765715602,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "短剧女主的野心已经到强成这了吗",
+      "onboard_time": 1766239164,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 190114,
@@ -10283,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1766240004,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156594,
       "num": 156594,
       "word": "虞书欣姜暮头盔戴反了",
@@ -11459,6 +11531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142305,
+      "num": 163209,
+      "word": "为什么五六百的女装也是聚酯纤维",
+      "onboard_time": 1766238504,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142169,
       "num": 142169,
       "word": "黄景瑜罚罪2终于开始喂饭了",
@@ -11721,6 +11801,14 @@
       "onboard_time": 1766121622,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139155,
+      "num": 139155,
+      "word": "响应式爱情",
+      "onboard_time": 1766239884,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 139072,
@@ -12257,6 +12345,14 @@
       "onboard_time": 1766129659,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134556,
+      "num": 227293,
+      "word": "3.8℃把尔滨冰雕暖化了",
+      "onboard_time": 1766239225,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134525,
@@ -13363,6 +13459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126316,
+      "num": 126316,
+      "word": "新疆暗号给范丞丞接爽了",
+      "onboard_time": 1766240304,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126191,
       "num": 200664,
       "word": "车厘子火速降价",
@@ -14131,6 +14235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120513,
+      "num": 125625,
+      "word": "朱丹两个孩子都弱视",
+      "onboard_time": 1766239884,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120484,
       "num": 121131,
       "word": "北京雪地惊现蚊子爬行",
@@ -14153,6 +14265,14 @@
       "onboard_time": 1766133921,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119986,
+      "num": 125611,
+      "word": "Hero战胜DRG",
+      "onboard_time": 1766238923,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 119813,
@@ -14217,6 +14337,14 @@
       "onboard_time": 1766208081,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119362,
+      "num": 119362,
+      "word": "谢淮安踩着刘宇宁音响出场了",
+      "onboard_time": 1766239583,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 119288,
@@ -14976,6 +15104,14 @@
       "word": "乒乓球欧冠联赛",
       "onboard_time": 1766062342,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114477,
+      "num": 114477,
+      "word": "王楚钦孙颖莎是一个连词",
+      "onboard_time": 1766240603,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -17608,14 +17744,6 @@
       "word": "张本智和夺冠后致敬樊振东",
       "onboard_time": 1765725262,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96710,
-      "num": 124044,
-      "word": "湘超",
-      "onboard_time": 1766234002,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -20763,6 +20891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69053,
+      "num": 219996,
+      "word": "黄渤没有退路就是胜利之路",
+      "onboard_time": 1766239943,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68891,
       "num": 79801,
       "word": "王力宏全球首个机器人舞台秀",
@@ -22995,6 +23131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39607,
+      "num": 125488,
+      "word": "15岁学员舞蹈室住宿期间坠亡",
+      "onboard_time": 1766239403,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39574,
       "num": 61662,
       "word": "消费者称黄金一天一个价",
@@ -23529,6 +23673,14 @@
       "onboard_time": 1766203701,
       "rank": 18,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 34111,
+      "num": 223555,
+      "word": "单依纯唱出华为影像温情瞬间",
+      "onboard_time": 1766240004,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 33986,
@@ -24707,6 +24859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23841,
+      "num": 734823,
+      "word": "这是中国青年",
+      "onboard_time": 1766218160,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23799,
       "num": 44952,
       "word": "探索新境2",
@@ -24880,14 +25040,6 @@
       "word": "盘点2025触动人心的声音",
       "onboard_time": 1765891703,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21851,
-      "num": 734823,
-      "word": "这是中国青年",
-      "onboard_time": 1766218160,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -25585,6 +25737,14 @@
       "onboard_time": 1765777402,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10087,
+      "num": 127410,
+      "word": "台北艾滋病伤者在长期服药稳定控制",
+      "onboard_time": 1766240543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9977,

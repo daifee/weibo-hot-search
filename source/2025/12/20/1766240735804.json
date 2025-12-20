@@ -1,0 +1,410 @@
+{
+  "runTime": 1766240735804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8226971,
+        "num": 8226971,
+        "word": "涉事医院回应小洛熙尸检报告",
+        "onboard_time": 1766235862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717956,
+        "num": 717956,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23841,
+        "num": 555386,
+        "word": "这是中国青年",
+        "onboard_time": 1766218160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502843,
+        "num": 502843,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 424752,
+        "num": 424752,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328390,
+        "num": 328390,
+        "word": "你好星期六",
+        "onboard_time": 1766235802,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117081,
+        "num": 297045,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286002,
+        "num": 286002,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1766234122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233890,
+        "num": 233890,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370060,
+        "num": 233823,
+        "word": "湘超",
+        "onboard_time": 1766234002,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1280328,
+        "num": 231652,
+        "word": "医院删除小洛熙尸检报告回应",
+        "onboard_time": 1766239523,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66104,
+        "num": 231094,
+        "word": "英语一",
+        "onboard_time": 1766222001,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1144888,
+        "num": 230214,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673026,
+        "num": 228574,
+        "word": "谢娜主持",
+        "onboard_time": 1766234782,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134556,
+        "num": 227293,
+        "word": "3.8℃把尔滨冰雕暖化了",
+        "onboard_time": 1766239225,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612263,
+        "num": 226293,
+        "word": "医学专家解读小洛熙房间隔缺损手术",
+        "onboard_time": 1766237064,
+        "rank": 15,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 542283,
+        "num": 224843,
+        "word": "永州淘汰长沙",
+        "onboard_time": 1766240004,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34111,
+        "num": 223555,
+        "word": "单依纯唱出华为影像温情瞬间",
+        "onboard_time": 1766240004,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359203,
+        "num": 222924,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320531,
+        "num": 220938,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69053,
+        "num": 219996,
+        "word": "黄渤没有退路就是胜利之路",
+        "onboard_time": 1766239943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286723,
+        "num": 218609,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258188,
+        "num": 217432,
+        "word": "每天睡前5分钟骨盆回正的回报率",
+        "onboard_time": 1766239164,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243566,
+        "num": 216051,
+        "word": "海南封关当地市民买爽了",
+        "onboard_time": 1766239523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215638,
+        "num": 215638,
+        "word": "鸿蒙星光盛典",
+        "onboard_time": 1766230461,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211989,
+        "num": 211989,
+        "word": "时代少年团开场",
+        "onboard_time": 1766232262,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207441,
+        "num": 207441,
+        "word": "小米17Ultra涨价",
+        "onboard_time": 1766239703,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205444,
+        "num": 205444,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190177,
+        "num": 190177,
+        "word": "短剧女主的野心已经到强成这了吗",
+        "onboard_time": 1766239164,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142305,
+        "num": 163209,
+        "word": "为什么五六百的女装也是聚酯纤维",
+        "onboard_time": 1766238504,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156787,
+        "num": 156787,
+        "word": "陈楚生演唱会",
+        "onboard_time": 1766240004,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "响应式爱情",
+        "onboard_time": 1766239884,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "等你下课发的穆祉丞王橹杰",
+        "onboard_time": 1766235742,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137329,
+        "num": 137329,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130870,
+        "num": 130870,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10087,
+        "num": 127410,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126316,
+        "num": 126316,
+        "word": "新疆暗号给范丞丞接爽了",
+        "onboard_time": 1766240304,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126267,
+        "num": 126267,
+        "word": "C罗身材照走红全网",
+        "onboard_time": 1766224642,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120513,
+        "num": 125625,
+        "word": "朱丹两个孩子都弱视",
+        "onboard_time": 1766239884,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119986,
+        "num": 125611,
+        "word": "Hero战胜DRG",
+        "onboard_time": 1766238923,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125605,
+        "num": 125605,
+        "word": "伊能静 把恩利交给李斯丹妮非常放心",
+        "onboard_time": 1766236102,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39607,
+        "num": 125488,
+        "word": "15岁学员舞蹈室住宿期间坠亡",
+        "onboard_time": 1766239403,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43262,
+        "num": 125434,
+        "word": "华为折叠屏秒变舞台主持手卡",
+        "onboard_time": 1766235862,
+        "rank": 42,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 125429,
+        "num": 125429,
+        "word": "多方回应女童发烧入院用药后夭折",
+        "onboard_time": 1766232623,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120313,
+        "num": 120313,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119362,
+        "num": 119362,
+        "word": "谢淮安踩着刘宇宁音响出场了",
+        "onboard_time": 1766239583,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117560,
+        "num": 117560,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114477,
+        "num": 114477,
+        "word": "王楚钦孙颖莎是一个连词",
+        "onboard_time": 1766240603,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 114293,
+        "word": "易烊千玺捏泥塑",
+        "onboard_time": 1766237183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112350,
+        "num": 112350,
+        "word": "再见爱人反转",
+        "onboard_time": 1766232623,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}

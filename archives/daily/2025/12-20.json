@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766238299389,
+  "endTime": 1766240735804,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1280328,
+      "num": 231652,
+      "word": "医院删除小洛熙尸检报告回应",
+      "onboard_time": 1766239523,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1215601,
       "num": 413410,
       "word": "宁波卫健委回应小洛熙事件最新进展",
@@ -97,6 +105,14 @@
       "onboard_time": 1766192119,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1144888,
+      "num": 230214,
+      "word": "马天宇回应李明德大闹三人行风波",
+      "onboard_time": 1766238863,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1110188,
@@ -251,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 673026,
+      "num": 314554,
+      "word": "谢娜主持",
+      "onboard_time": 1766234782,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663909,
       "num": 663909,
       "word": "肖四",
@@ -313,6 +337,14 @@
       "onboard_time": 1766232440,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542283,
+      "num": 224843,
+      "word": "永州淘汰长沙",
+      "onboard_time": 1766240004,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 526120,
@@ -409,6 +441,14 @@
       "onboard_time": 1766230161,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "刘宇宁耳返炸到耳朵啦",
+      "onboard_time": 1766236402,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 423186,
@@ -515,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370854,
-      "num": 314554,
-      "word": "谢娜主持",
-      "onboard_time": 1766234782,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 370060,
+      "num": 233823,
+      "word": "湘超",
+      "onboard_time": 1766234002,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 360920,
@@ -579,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328390,
+      "num": 328390,
+      "word": "你好星期六",
+      "onboard_time": 1766235802,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326241,
       "num": 326241,
       "word": "三年级小学生的朋友圈",
@@ -627,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303775,
-      "num": 303775,
-      "word": "你好星期六",
-      "onboard_time": 1766235802,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299996,
       "num": 216889,
       "word": "杨紫说自己穿的是假貂",
@@ -656,6 +696,14 @@
       "word": "王玉雯稳得不像第一次主持",
       "onboard_time": 1766229262,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286723,
+      "num": 225724,
+      "word": "霍思燕爱犬在国际比赛夺冠",
+      "onboard_time": 1766234002,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -699,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269959,
-      "num": 225724,
-      "word": "霍思燕爱犬在国际比赛夺冠",
-      "onboard_time": 1766234002,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264702,
       "num": 223473,
       "word": "虞书欣又一人生镜头",
@@ -745,6 +785,14 @@
       "onboard_time": 1766223501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258188,
+      "num": 217432,
+      "word": "每天睡前5分钟骨盆回正的回报率",
+      "onboard_time": 1766239164,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 257610,
@@ -811,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243566,
+      "num": 216051,
+      "word": "海南封关当地市民买爽了",
+      "onboard_time": 1766239523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241050,
       "num": 241050,
       "word": "许我耀眼年度最佳造型",
@@ -832,14 +888,6 @@
       "word": "MMA直播",
       "onboard_time": 1766214021,
       "rank": 14,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 236952,
-      "num": 236952,
-      "word": "刘宇宁耳返炸到耳朵啦",
-      "onboard_time": 1766236402,
-      "rank": 20,
       "category": "演出"
     },
     {
@@ -937,6 +985,14 @@
       "onboard_time": 1766237183,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "小米17Ultra涨价",
+      "onboard_time": 1766239703,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 206214,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1766225720,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "短剧女主的野心已经到强成这了吗",
+      "onboard_time": 1766239164,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189942,
@@ -1347,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1766240004,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "26考研政治结束徐涛发文",
@@ -1507,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142305,
+      "num": 163209,
+      "word": "为什么五六百的女装也是聚酯纤维",
+      "onboard_time": 1766238504,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141705,
       "num": 141705,
       "word": "金饰克价涨到1362元",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1766235623,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139155,
+      "num": 139155,
+      "word": "响应式爱情",
+      "onboard_time": 1766239884,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 138332,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1766198780,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134556,
+      "num": 227293,
+      "word": "3.8℃把尔滨冰雕暖化了",
+      "onboard_time": 1766239225,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134525,
@@ -1827,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126316,
+      "num": 126316,
+      "word": "新疆暗号给范丞丞接爽了",
+      "onboard_time": 1766240304,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125392,
       "num": 125392,
       "word": "黄晓明咬黄子韬脖子",
@@ -1915,6 +2019,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120513,
+      "num": 125625,
+      "word": "朱丹两个孩子都弱视",
+      "onboard_time": 1766239884,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119986,
+      "num": 125611,
+      "word": "Hero战胜DRG",
+      "onboard_time": 1766238923,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119509,
       "num": 119509,
       "word": "追星人的能力有多全面",
@@ -1928,6 +2048,14 @@
       "word": "奇迹",
       "onboard_time": 1766199022,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119362,
+      "num": 119362,
+      "word": "谢淮安踩着刘宇宁音响出场了",
+      "onboard_time": 1766239583,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2073,6 +2201,14 @@
       "onboard_time": 1766215281,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114477,
+      "num": 114477,
+      "word": "王楚钦孙颖莎是一个连词",
+      "onboard_time": 1766240603,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114166,
@@ -2496,14 +2632,6 @@
       "word": "谁会是下一个国乒总教练",
       "onboard_time": 1766225179,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96710,
-      "num": 124044,
-      "word": "湘超",
-      "onboard_time": 1766234002,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -3083,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69053,
+      "num": 219996,
+      "word": "黄渤没有退路就是胜利之路",
+      "onboard_time": 1766239943,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66712,
       "num": 100172,
       "word": "雷霆vs森林狼",
@@ -3483,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39607,
+      "num": 125488,
+      "word": "15岁学员舞蹈室住宿期间坠亡",
+      "onboard_time": 1766239403,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39574,
       "num": 61662,
       "word": "消费者称黄金一天一个价",
@@ -3513,6 +3657,14 @@
       "onboard_time": 1766203701,
       "rank": 18,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 34111,
+      "num": 223555,
+      "word": "单依纯唱出华为影像温情瞬间",
+      "onboard_time": 1766240004,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 33696,
@@ -3683,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23841,
+      "num": 734823,
+      "word": "这是中国青年",
+      "onboard_time": 1766218160,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22697,
       "num": 136397,
       "word": "辽宁一地公交拒收一角钱引争议",
@@ -3697,14 +3857,6 @@
       "onboard_time": 1766141180,
       "rank": 47,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 21851,
-      "num": 734823,
-      "word": "这是中国青年",
-      "onboard_time": 1766218160,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19447,
@@ -3777,6 +3929,14 @@
       "onboard_time": 1766144841,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10087,
+      "num": 127410,
+      "word": "台北艾滋病伤者在长期服药稳定控制",
+      "onboard_time": 1766240543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6105,
