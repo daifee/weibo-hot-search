@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766249177894,
+  "endTime": 1766251385789,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -12955,6 +12955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327496,
+      "num": 270178,
+      "word": "冬至",
+      "onboard_time": 1766146400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327468,
       "num": 194556,
       "word": "外卖员最不建议点的外卖",
@@ -24755,14 +24763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 182642,
-      "num": 270178,
-      "word": "冬至",
-      "onboard_time": 1766146400,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182639,
       "num": 182639,
       "word": "侯明昊谭松韵演上强制爱了",
@@ -32361,6 +32361,14 @@
       "onboard_time": 1766148501,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143469,
+      "num": 237838,
+      "word": "michelledaniel",
+      "onboard_time": 1766248999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 143421,
@@ -58955,6 +58963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62596,
+      "num": 144771,
+      "word": "时代少年团新歌央视首唱",
+      "onboard_time": 1766249181,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62482,
       "num": 102576,
       "word": "女子被丈夫灌面汤呛死案一审将宣判",
@@ -59617,14 +59633,6 @@
       "onboard_time": 1766039781,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58665,
-      "num": 237838,
-      "word": "michelledaniel",
-      "onboard_time": 1766248999,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 58614,
@@ -61345,6 +61353,14 @@
       "onboard_time": 1765953680,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51003,
+      "num": 142370,
+      "word": "谢娜王冰冰时代少年团合照",
+      "onboard_time": 1766249181,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 51002,
@@ -64875,6 +64891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36512,
+      "num": 140820,
+      "word": "龚俊出发参加星光大赏",
+      "onboard_time": 1766251099,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36457,
       "num": 150393,
       "word": "保罗训练不停歇",
@@ -65201,6 +65225,14 @@
       "onboard_time": 1764585082,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34905,
+      "num": 140314,
+      "word": "曝檀健次星光大赏要拿三个奖",
+      "onboard_time": 1766250379,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 34866,
@@ -66267,6 +66299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31155,
+      "num": 139755,
+      "word": "丁禹兮出发参加星光大赏",
+      "onboard_time": 1766250797,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31135,
       "num": 151854,
       "word": "王一博素颜出镜杂志封面拍摄",
@@ -66553,6 +66593,14 @@
       "onboard_time": 1765860803,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30157,
+      "num": 139391,
+      "word": "周润发请近百名TVB旧同事聚餐",
+      "onboard_time": 1766250918,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 30156,

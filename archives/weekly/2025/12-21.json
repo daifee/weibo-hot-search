@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766249177894,
+  "endTime": 1766251385789,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -56,6 +56,14 @@
       "word": "小洛熙事件法律不能再缺席",
       "onboard_time": 1766246722,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327496,
+      "num": 144715,
+      "word": "冬至",
+      "onboard_time": 1766250438,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143469,
+      "num": 237838,
+      "word": "michelledaniel",
+      "onboard_time": 1766248999,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135590,
       "num": 274933,
       "word": "星光大赏出发",
@@ -299,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62596,
+      "num": 144771,
+      "word": "时代少年团新歌央视首唱",
+      "onboard_time": 1766249181,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60849,
       "num": 271621,
       "word": "三家银行共被罚上亿元",
@@ -313,14 +337,6 @@
       "onboard_time": 1766231362,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 58665,
-      "num": 237838,
-      "word": "michelledaniel",
-      "onboard_time": 1766248999,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 55451,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51003,
+      "num": 142370,
+      "word": "谢娜王冰冰时代少年团合照",
+      "onboard_time": 1766249181,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50874,
       "num": 271074,
       "word": "杨旭文上央视学会了种花",
@@ -353,6 +377,14 @@
       "onboard_time": 1766239884,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49143,
+      "num": 237088,
+      "word": "王玉雯主持",
+      "onboard_time": 1766230161,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 46899,
@@ -379,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43939,
-      "num": 237088,
-      "word": "王玉雯主持",
-      "onboard_time": 1766230161,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42075,
       "num": 270394,
       "word": "MMA",
@@ -411,12 +435,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36512,
+      "num": 140820,
+      "word": "龚俊出发参加星光大赏",
+      "onboard_time": 1766251099,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35773,
+      "num": 140592,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34905,
+      "num": 140314,
+      "word": "曝檀健次星光大赏要拿三个奖",
+      "onboard_time": 1766250379,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34446,
       "num": 276729,
       "word": "冰雪大世界有大国重器区",
       "onboard_time": 1766236762,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31155,
+      "num": 139755,
+      "word": "丁禹兮出发参加星光大赏",
+      "onboard_time": 1766250797,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30157,
+      "num": 139391,
+      "word": "周润发请近百名TVB旧同事聚餐",
+      "onboard_time": 1766250918,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 22398,
