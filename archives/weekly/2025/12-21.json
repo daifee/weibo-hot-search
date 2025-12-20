@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766266749880,
+  "endTime": 1766269578760,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 189357,
-      "num": 367679,
+      "num": 374864,
       "word": "工商银行被罚没超4000万元",
       "onboard_time": 1766240784,
       "rank": 6,
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16997,
+      "num": 56238,
+      "word": "鸿蒙星光盛典",
+      "onboard_time": 1766230461,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16757,
       "num": 34927,
       "word": "刘宇宁换开场曲了",
@@ -627,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15457,
-      "num": 56238,
-      "word": "鸿蒙星光盛典",
-      "onboard_time": 1766230461,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 15973,
+      "num": 63889,
+      "word": "冬至时节如何养生",
+      "onboard_time": 1766232502,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15307,
@@ -643,20 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13365,
-      "num": 63889,
-      "word": "冬至时节如何养生",
-      "onboard_time": 1766232502,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12720,
       "num": 35367,
       "word": "刘宇宁巡演",
       "onboard_time": 1766259914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12307,
+      "num": 30837,
+      "word": "侯明昊嘴角自动上扬",
+      "onboard_time": 1766267234,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 10925,
@@ -667,8 +675,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9597,
-      "num": 30422,
+      "raw_hot": 10869,
+      "num": 30815,
       "word": "于适演唱会首站上座率",
       "onboard_time": 1766265553,
       "rank": 49,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766269578760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 61544,
+        "num": 374864,
+        "word": "工商银行被罚没超4000万元",
+        "onboard_time": 1766240784,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 55558,
+        "num": 55558,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15973,
+        "num": 49692,
+        "word": "冬至时节如何养生",
+        "onboard_time": 1766232502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49025,
+        "num": 49025,
+        "word": "女友家中两人患癌小伙犹豫该不该结婚",
+        "onboard_time": 1766243362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39840,
+        "num": 39840,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38778,
+        "num": 38778,
+        "word": "海南封关当地市民买爽了",
+        "onboard_time": 1766239523,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36009,
+        "num": 36009,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35442,
+        "num": 35442,
+        "word": "为什么五六百的女装也是聚酯纤维",
+        "onboard_time": 1766238504,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34813,
+        "num": 34813,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28825,
+        "num": 31843,
+        "word": "三家银行共被罚上亿元",
+        "onboard_time": 1766242162,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116825,
+        "num": 31727,
+        "word": "怎么李明德又要截爆星光大赏了",
+        "onboard_time": 1766243722,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106825,
+        "num": 31675,
+        "word": "涉事医院否认小洛熙房缺为3mm",
+        "onboard_time": 1766247022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30951,
+        "num": 30951,
+        "word": "周润发请近百名TVB旧同事聚餐",
+        "onboard_time": 1766250918,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25803,
+        "num": 30949,
+        "word": "侯明昊努力半天白努力",
+        "onboard_time": 1766251697,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69276,
+        "num": 30946,
+        "word": "小洛熙事件法律不能再缺席",
+        "onboard_time": 1766246722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42405,
+        "num": 30942,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24544,
+        "num": 30939,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20792,
+        "num": 30932,
+        "word": "陈妍希周柯宇发文告别狙击蝴蝶",
+        "onboard_time": 1766244083,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20322,
+        "num": 30927,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19874,
+        "num": 30925,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161232,
+        "num": 30921,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63011,
+        "num": 30919,
+        "word": "曝赵樱子追求蒋毅被拒",
+        "onboard_time": 1766242763,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45872,
+        "num": 30913,
+        "word": "睡觉把手举过头顶为什么很舒服",
+        "onboard_time": 1766245461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28303,
+        "num": 30911,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26715,
+        "num": 30904,
+        "word": "体检报告的这些字眼或是癌症信号",
+        "onboard_time": 1766244923,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22089,
+        "num": 30900,
+        "word": "每天睡前5分钟骨盆回正的回报率",
+        "onboard_time": 1766239164,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20447,
+        "num": 30897,
+        "word": "michelledaniel",
+        "onboard_time": 1766248999,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19586,
+        "num": 30891,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18325,
+        "num": 30890,
+        "word": "双轨热度",
+        "onboard_time": 1766241564,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17333,
+        "num": 30886,
+        "word": "欧豪演唱会",
+        "onboard_time": 1766237544,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18434,
+        "num": 30879,
+        "word": "坐电梯隐藏自己楼层",
+        "onboard_time": 1766262314,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16997,
+        "num": 30879,
+        "word": "鸿蒙星光盛典",
+        "onboard_time": 1766230461,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16607,
+        "num": 30872,
+        "word": "阿凡达3口碑",
+        "onboard_time": 1766244203,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15904,
+        "num": 30870,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15710,
+        "num": 30864,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14822,
+        "num": 30860,
+        "word": "你好星期六",
+        "onboard_time": 1766235802,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14395,
+        "num": 30859,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14071,
+        "num": 30852,
+        "word": "英超联赛",
+        "onboard_time": 1766254815,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13679,
+        "num": 30848,
+        "word": "王玉雯主持",
+        "onboard_time": 1766230161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13178,
+        "num": 30843,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1766234122,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12700,
+        "num": 30839,
+        "word": "刘宇宁巡演",
+        "onboard_time": 1766259914,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12307,
+        "num": 30837,
+        "word": "侯明昊嘴角自动上扬",
+        "onboard_time": 1766267234,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11621,
+        "num": 30833,
+        "word": "美食时间",
+        "onboard_time": 1766252418,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11583,
+        "num": 30827,
+        "word": "永州淘汰长沙",
+        "onboard_time": 1766240004,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11439,
+        "num": 30825,
+        "word": "双轨",
+        "onboard_time": 1766240963,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11051,
+        "num": 30819,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10869,
+        "num": 30815,
+        "word": "于适演唱会首站上座率",
+        "onboard_time": 1766265553,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10364,
+        "num": 30813,
+        "word": "恋与制作人八周年",
+        "onboard_time": 1766252057,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10337,
+        "num": 30807,
+        "word": "湘超",
+        "onboard_time": 1766234002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10031,
+        "num": 30803,
+        "word": "鸿蒙盛典黑科技大盘点",
+        "onboard_time": 1766245103,
+        "rank": 49,
+        "category": "综艺,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
