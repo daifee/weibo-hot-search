@@ -1,6 +1,6 @@
 {
   "startTime": 1765643566216,
-  "endTime": 1766226486340,
+  "endTime": 1766227450327,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1203,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704937,
+      "num": 320861,
+      "word": "小洛熙父亲发声",
+      "onboard_time": 1766224102,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704675,
       "num": 704675,
       "word": "英语二",
@@ -1267,14 +1275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 685096,
-      "num": 320861,
-      "word": "小洛熙父亲发声",
-      "onboard_time": 1766224102,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 684279,
       "num": 278763,
       "word": "车厘子你爱吃吗 超市有卖的",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1765634964,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675013,
+      "num": 675013,
+      "word": "星光大赏",
+      "onboard_time": 1765677501,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 671662,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1765806561,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650893,
-      "num": 650893,
-      "word": "星光大赏",
-      "onboard_time": 1765677501,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 649689,
@@ -4220,7 +4220,7 @@
     },
     {
       "raw_hot": 323024,
-      "num": 220486,
+      "num": 226799,
       "word": "毛晓彤上午官宣下午红毯",
       "onboard_time": 1766222482,
       "rank": 24,
@@ -5203,6 +5203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270027,
+      "num": 270027,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "刘宇宁让欧阳娣娣爱哭回家哭",
@@ -6147,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230307,
+      "num": 230307,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230213,
       "num": 89970,
       "word": "宁波妇儿医院",
@@ -6945,6 +6961,14 @@
       "onboard_time": 1766042121,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206214,
+      "num": 206214,
+      "word": "AG",
+      "onboard_time": 1766226860,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 206202,
@@ -7907,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190722,
+      "num": 190722,
+      "word": "王力宏嘲笑84岁的自己老钱笑",
+      "onboard_time": 1766225720,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190672,
       "num": 190672,
       "word": "喀纳斯景区通报一人被埋身亡",
@@ -8209,6 +8241,14 @@
       "onboard_time": 1766072960,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186718,
+      "num": 186718,
+      "word": "1岁不吃盐2岁不吃糖3岁不吃蜜",
+      "onboard_time": 1766226621,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186548,
@@ -10651,6 +10691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147420,
+      "num": 147420,
+      "word": "成毅这集你演吧我演不了",
+      "onboard_time": 1766226742,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147194,
       "num": 134123,
       "word": "丝芭 伪造补充协议",
@@ -11115,20 +11163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142401,
-      "num": 142401,
-      "word": "C罗身材照走红全网",
-      "onboard_time": 1766224642,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142370,
       "num": 178894,
       "word": "5岁男孩玩打火机烧了自家别墅",
       "onboard_time": 1766042841,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "张极 给你们拍的",
+      "onboard_time": 1766227102,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 142169,
@@ -12139,6 +12187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132675,
+      "num": 132675,
+      "word": "长安二十四计",
+      "onboard_time": 1765623860,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132670,
       "num": 132670,
       "word": "和许光汉林俊杰一起跨年只有一次",
@@ -12656,14 +12712,6 @@
       "word": "老人用奶粉罐装近15万寄给骗子",
       "onboard_time": 1765702883,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129285,
-      "num": 129285,
-      "word": "台北砍人案一伤者感染艾滋病",
-      "onboard_time": 1766226442,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -14099,14 +14147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117167,
-      "num": 117167,
-      "word": "长安二十四计",
-      "onboard_time": 1765623860,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117149,
       "num": 117149,
       "word": "王莉称长期遭受打压患上重度抑郁",
@@ -14361,14 +14401,6 @@
       "onboard_time": 1766187498,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115528,
-      "num": 115528,
-      "word": "王力宏嘲笑84岁的自己老钱笑",
-      "onboard_time": 1766225720,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 115412,
@@ -14825,6 +14857,14 @@
       "onboard_time": 1766213301,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112811,
+      "num": 112811,
+      "word": "IJL",
+      "onboard_time": 1766227040,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 112779,
@@ -15811,6 +15851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104896,
+      "num": 104896,
+      "word": "根本不存在所谓禁止水域一说",
+      "onboard_time": 1766227400,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104682,
       "num": 104682,
       "word": "没名分的醋吃起来最香",
@@ -15961,6 +16009,14 @@
       "onboard_time": 1766122880,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103573,
+      "num": 103573,
+      "word": "周思成说今年是上岸的好机会",
+      "onboard_time": 1766227341,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 103571,

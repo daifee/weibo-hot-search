@@ -1,6 +1,6 @@
 {
   "startTime": 1766162183066,
-  "endTime": 1766226486340,
+  "endTime": 1766227450327,
   "band_list": [
     {
       "raw_hot": 12814839,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704937,
+      "num": 320861,
+      "word": "小洛熙父亲发声",
+      "onboard_time": 1766224102,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704675,
       "num": 704675,
       "word": "英语二",
@@ -187,12 +195,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 685096,
-      "num": 320861,
-      "word": "小洛熙父亲发声",
-      "onboard_time": 1766224102,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 675013,
+      "num": 675013,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 663909,
@@ -201,14 +209,6 @@
       "onboard_time": 1766201839,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 650893,
-      "num": 650893,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 629774,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 323024,
-      "num": 220486,
+      "num": 226799,
       "word": "毛晓彤上午官宣下午红毯",
       "onboard_time": 1766222482,
       "rank": 24,
@@ -520,6 +520,14 @@
       "word": "妻子切除输卵管几天后丈夫提离婚",
       "onboard_time": 1766194280,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270027,
+      "num": 270027,
+      "word": "台北砍人案一伤者感染艾滋病",
+      "onboard_time": 1766226442,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -643,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 230307,
+      "num": 230307,
+      "word": "C罗身材照走红全网",
+      "onboard_time": 1766224642,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230213,
       "num": 89970,
       "word": "宁波妇儿医院",
@@ -712,6 +728,14 @@
       "word": "zwy教练",
       "onboard_time": 1766145800,
       "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 206214,
+      "num": 206214,
+      "word": "AG",
+      "onboard_time": 1766226860,
+      "rank": 22,
       "category": "电竞"
     },
     {
@@ -835,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190722,
+      "num": 190722,
+      "word": "王力宏嘲笑84岁的自己老钱笑",
+      "onboard_time": 1766225720,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189942,
       "num": 189942,
       "word": "韩红说小洛熙病例错得太离谱",
@@ -881,6 +913,14 @@
       "onboard_time": 1766200101,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186718,
+      "num": 186718,
+      "word": "1岁不吃盐2岁不吃糖3岁不吃蜜",
+      "onboard_time": 1766226621,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184989,
@@ -1019,6 +1059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162961,
+      "num": 162961,
+      "word": "唐诡奇谭",
+      "onboard_time": 1766226442,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158774,
       "num": 158774,
       "word": "梁某滢曾辩称自己是正当防卫",
@@ -1115,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147420,
+      "num": 147420,
+      "word": "成毅这集你演吧我演不了",
+      "onboard_time": 1766226742,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145618,
       "num": 145618,
       "word": "考研政治太难了",
@@ -1155,12 +1211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142401,
-      "num": 142401,
-      "word": "C罗身材照走红全网",
-      "onboard_time": 1766224642,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "张极 给你们拍的",
+      "onboard_time": 1766227102,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 141705,
@@ -1315,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132675,
+      "num": 132675,
+      "word": "长安二十四计",
+      "onboard_time": 1766226680,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132385,
       "num": 131612,
       "word": "庾澄庆状告汪苏泷要歌不要人",
@@ -1376,14 +1440,6 @@
       "word": "宝妈生3胎后肚皮松垮内脏下垂",
       "onboard_time": 1766187860,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129285,
-      "num": 129285,
-      "word": "台北砍人案一伤者感染艾滋病",
-      "onboard_time": 1766226442,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1571,14 +1627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 115528,
-      "num": 115528,
-      "word": "王力宏嘲笑84岁的自己老钱笑",
-      "onboard_time": 1766225720,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114969,
       "num": 116826,
       "word": "政治经济学",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1766213301,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112811,
+      "num": 112811,
+      "word": "IJL",
+      "onboard_time": 1766227040,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 112533,
@@ -1779,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104896,
+      "num": 104896,
+      "word": "根本不存在所谓禁止水域一说",
+      "onboard_time": 1766227400,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104586,
       "num": 93329,
       "word": "阿凡达3凭什么能让观众坐198分钟",
@@ -1792,6 +1856,14 @@
       "word": "管综逻辑",
       "onboard_time": 1766207841,
       "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 103573,
+      "num": 103573,
+      "word": "周思成说今年是上岸的好机会",
+      "onboard_time": 1766227341,
+      "rank": 44,
       "category": "教育"
     },
     {
@@ -1881,14 +1953,6 @@
       "onboard_time": 1766211801,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99974,
-      "num": 99974,
-      "word": "唐诡奇谭",
-      "onboard_time": 1766226442,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 99554,

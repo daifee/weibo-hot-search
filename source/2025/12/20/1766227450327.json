@@ -1,0 +1,410 @@
+{
+  "runTime": 1766227450327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4794314,
+        "num": 4794314,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 778673,
+        "num": 778673,
+        "word": "英语二 简单",
+        "onboard_time": 1766221520,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60530,
+        "num": 702874,
+        "word": "大国重器又放大招了",
+        "onboard_time": 1766218521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675013,
+        "num": 675013,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544021,
+        "num": 544021,
+        "word": "英语二",
+        "onboard_time": 1766224762,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 511737,
+        "num": 511737,
+        "word": "考研英语答案",
+        "onboard_time": 1766222423,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335104,
+        "num": 335104,
+        "word": "克林顿与2女子大尺度照片曝光",
+        "onboard_time": 1766208440,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316582,
+        "num": 316582,
+        "word": "英语一我恨你",
+        "onboard_time": 1766222061,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260401,
+        "num": 316213,
+        "word": "MMA",
+        "onboard_time": 1766220201,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270530,
+        "num": 312181,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1587150,
+        "num": 310643,
+        "word": "韩红为小洛熙宝宝发声",
+        "onboard_time": 1766210301,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 388763,
+        "num": 305760,
+        "word": "阿凡达3 厕所时间",
+        "onboard_time": 1766222301,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323922,
+        "num": 305004,
+        "word": "最猛的1是考研英语一",
+        "onboard_time": 1766221942,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 704937,
+        "num": 301784,
+        "word": "小洛熙父亲发声",
+        "onboard_time": 1766224102,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299949,
+        "num": 299949,
+        "word": "患者要求下救护车小便禁停区坠亡",
+        "onboard_time": 1766219421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209805,
+        "num": 277277,
+        "word": "英语一",
+        "onboard_time": 1766222001,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359692,
+        "num": 274109,
+        "word": "家属称不方便公布小洛熙完整尸检报告",
+        "onboard_time": 1766219121,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270027,
+        "num": 270027,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244312,
+        "num": 244312,
+        "word": "原来微信长按2秒钟这么好用",
+        "onboard_time": 1766204061,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241552,
+        "num": 241552,
+        "word": "陈妍希带儿子一起去星光大赏",
+        "onboard_time": 1766219121,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230307,
+        "num": 230307,
+        "word": "C罗身材照走红全网",
+        "onboard_time": 1766224642,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226799,
+        "num": 226799,
+        "word": "毛晓彤上午官宣下午红毯",
+        "onboard_time": 1766222482,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206214,
+        "num": 206214,
+        "word": "AG",
+        "onboard_time": 1766226860,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190722,
+        "num": 190722,
+        "word": "王力宏嘲笑84岁的自己老钱笑",
+        "onboard_time": 1766225720,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "1岁不吃盐2岁不吃糖3岁不吃蜜",
+        "onboard_time": 1766226621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177591,
+        "num": 177591,
+        "word": "养老机器人",
+        "onboard_time": 1766222423,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164411,
+        "num": 164411,
+        "word": "考研政治",
+        "onboard_time": 1766201000,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162961,
+        "num": 162961,
+        "word": "唐诡奇谭",
+        "onboard_time": 1766226442,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151121,
+        "num": 151121,
+        "word": "MMA直播",
+        "onboard_time": 1766214021,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 150898,
+        "word": "坚持吃苹果一个月的身体变化",
+        "onboard_time": 1766210481,
+        "rank": 29,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 150795,
+        "num": 150795,
+        "word": "星光大赏网传获奖名单",
+        "onboard_time": 1766224522,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147420,
+        "num": 147420,
+        "word": "成毅这集你演吧我演不了",
+        "onboard_time": 1766226742,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "英语二阅读",
+        "onboard_time": 1766224941,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142321,
+        "num": 142321,
+        "word": "张极 给你们拍的",
+        "onboard_time": 1766227102,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125542,
+        "num": 135619,
+        "word": "天然钻和培育钻就是CtrlC和CtrlV",
+        "onboard_time": 1766225840,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132675,
+        "num": 132675,
+        "word": "长安二十四计",
+        "onboard_time": 1766226680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125845,
+        "num": 125845,
+        "word": "FGO",
+        "onboard_time": 1766226081,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123304,
+        "num": 123304,
+        "word": "考研英语排序",
+        "onboard_time": 1766225300,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120143,
+        "num": 120143,
+        "word": "朱孝天疑似内涵阿信",
+        "onboard_time": 1766216900,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "IJL",
+        "onboard_time": 1766227040,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108513,
+        "num": 108513,
+        "word": "英语一翻译",
+        "onboard_time": 1766226020,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107955,
+        "num": 107955,
+        "word": "傅雷家书",
+        "onboard_time": 1766225840,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104896,
+        "num": 104896,
+        "word": "根本不存在所谓禁止水域一说",
+        "onboard_time": 1766227400,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104384,
+        "num": 104384,
+        "word": "考研政治答案",
+        "onboard_time": 1766202140,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103573,
+        "num": 103573,
+        "word": "周思成说今年是上岸的好机会",
+        "onboard_time": 1766227341,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102829,
+        "num": 102829,
+        "word": "英语一双图表",
+        "onboard_time": 1766223862,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99313,
+        "num": 99313,
+        "word": "周扬青跟罗昊在一起的原因",
+        "onboard_time": 1766211982,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97406,
+        "num": 97406,
+        "word": "陈伟霆 避雷王安宇黄景瑜",
+        "onboard_time": 1766218342,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93970,
+        "num": 93970,
+        "word": "辛云来瘦了好多",
+        "onboard_time": 1766225481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91430,
+        "num": 91430,
+        "word": "三年级小学生的朋友圈",
+        "onboard_time": 1766216000,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
