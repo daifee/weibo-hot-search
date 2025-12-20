@@ -1,0 +1,410 @@
+{
+  "runTime": 1766258560474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77442,
+        "num": 77442,
+        "word": "双轨热度",
+        "onboard_time": 1766241564,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56450,
+        "num": 56450,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8828,
+        "num": 49937,
+        "word": "冬至时节如何养生",
+        "onboard_time": 1766232502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48344,
+        "num": 48344,
+        "word": "考研英语",
+        "onboard_time": 1766219900,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44442,
+        "num": 44442,
+        "word": "工商银行被罚没超4000万元",
+        "onboard_time": 1766240784,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 42532,
+        "num": 42532,
+        "word": "陈妍希周柯宇发文告别狙击蝴蝶",
+        "onboard_time": 1766244083,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36066,
+        "num": 36066,
+        "word": "女友家中两人患癌小伙犹豫该不该结婚",
+        "onboard_time": 1766243362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34088,
+        "num": 35979,
+        "word": "海南封关当地市民买爽了",
+        "onboard_time": 1766239523,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31385,
+        "num": 35944,
+        "word": "欧豪演唱会",
+        "onboard_time": 1766237544,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30168,
+        "num": 35761,
+        "word": "阿凡达3口碑",
+        "onboard_time": 1766244203,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185441,
+        "num": 35604,
+        "word": "怎么李明德又要截爆星光大赏了",
+        "onboard_time": 1766243722,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115879,
+        "num": 35527,
+        "word": "涉事医院否认小洛熙房缺为3mm",
+        "onboard_time": 1766247022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78742,
+        "num": 35421,
+        "word": "拒绝侯明昊击掌第一人",
+        "onboard_time": 1766254157,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42460,
+        "num": 35302,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62136,
+        "num": 35141,
+        "word": "小洛熙事件法律不能再缺席",
+        "onboard_time": 1766246722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82501,
+        "num": 35025,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34980,
+        "num": 34980,
+        "word": "穆祉丞王橹杰同框",
+        "onboard_time": 1766229983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30175,
+        "num": 34980,
+        "word": "虞书欣 你做的咖啡再甜我都不稀罕",
+        "onboard_time": 1766232440,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27674,
+        "num": 34977,
+        "word": "汪苏泷真的瘦了很多",
+        "onboard_time": 1766252716,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27091,
+        "num": 34974,
+        "word": "双轨",
+        "onboard_time": 1766240963,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81784,
+        "num": 34974,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59371,
+        "num": 34971,
+        "word": "曝赵樱子追求蒋毅被拒",
+        "onboard_time": 1766242763,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41689,
+        "num": 34969,
+        "word": "睡觉把手举过头顶为什么很舒服",
+        "onboard_time": 1766245461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38831,
+        "num": 34966,
+        "word": "michelledaniel",
+        "onboard_time": 1766248999,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26685,
+        "num": 34965,
+        "word": "考研",
+        "onboard_time": 1766231362,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26575,
+        "num": 34964,
+        "word": "星光大赏出发",
+        "onboard_time": 1766221161,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24750,
+        "num": 34962,
+        "word": "高速狂奔490公里司机要求退车退款",
+        "onboard_time": 1766234902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24056,
+        "num": 34958,
+        "word": "霍思燕爱犬在国际比赛夺冠",
+        "onboard_time": 1766234002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24016,
+        "num": 34957,
+        "word": "枭起青壤",
+        "onboard_time": 1766257335,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23678,
+        "num": 34956,
+        "word": "为什么五六百的女装也是聚酯纤维",
+        "onboard_time": 1766238504,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23676,
+        "num": 34953,
+        "word": "体检报告的这些字眼或是癌症信号",
+        "onboard_time": 1766244923,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22779,
+        "num": 34950,
+        "word": "曝短剧女星与助理打架",
+        "onboard_time": 1766227641,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20801,
+        "num": 34950,
+        "word": "侯明昊努力半天白努力",
+        "onboard_time": 1766251697,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19841,
+        "num": 34946,
+        "word": "刘宇宁耳返炸到耳朵啦",
+        "onboard_time": 1766236402,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19808,
+        "num": 34945,
+        "word": "永州淘汰长沙",
+        "onboard_time": 1766240004,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19752,
+        "num": 34944,
+        "word": "三家银行共被罚上亿元",
+        "onboard_time": 1766242162,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19236,
+        "num": 34942,
+        "word": "夫妻吵架上头丈夫血管当场气炸",
+        "onboard_time": 1766230161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19082,
+        "num": 34940,
+        "word": "奔跑吧",
+        "onboard_time": 1766232862,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18820,
+        "num": 34937,
+        "word": "每天睡前5分钟骨盆回正的回报率",
+        "onboard_time": 1766239164,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18757,
+        "num": 34934,
+        "word": "长安二十四计",
+        "onboard_time": 1766226680,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18218,
+        "num": 34933,
+        "word": "周润发请近百名TVB旧同事聚餐",
+        "onboard_time": 1766250918,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16999,
+        "num": 34931,
+        "word": "湘超",
+        "onboard_time": 1766234002,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16961,
+        "num": 34929,
+        "word": "台北砍人案一伤者感染艾滋病",
+        "onboard_time": 1766226442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16757,
+        "num": 34927,
+        "word": "刘宇宁换开场曲了",
+        "onboard_time": 1766257215,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16706,
+        "num": 34926,
+        "word": "汪苏泷海鳗好笑的",
+        "onboard_time": 1766257756,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16600,
+        "num": 34923,
+        "word": "王玉雯主持",
+        "onboard_time": 1766230161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16474,
+        "num": 34921,
+        "word": "遇到难回答的问题又不说话了",
+        "onboard_time": 1766256076,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15878,
+        "num": 34920,
+        "word": "英超联赛",
+        "onboard_time": 1766254815,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16448,
+        "num": 34916,
+        "word": "恋与制作人八周年",
+        "onboard_time": 1766252057,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16220,
+        "num": 34915,
+        "word": "美食时间",
+        "onboard_time": 1766252418,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}

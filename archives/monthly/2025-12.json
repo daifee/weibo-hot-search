@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766256468741,
+  "endTime": 1766258560474,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -69873,6 +69873,22 @@
       "onboard_time": 1765617440,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16757,
+      "num": 34927,
+      "word": "刘宇宁换开场曲了",
+      "onboard_time": 1766257215,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16706,
+      "num": 34926,
+      "word": "汪苏泷海鳗好笑的",
+      "onboard_time": 1766257756,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 16690,
