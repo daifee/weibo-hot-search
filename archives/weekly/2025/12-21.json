@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766259417112,
+  "endTime": 1766262531491,
   "band_list": [
     {
       "raw_hot": 917031,
@@ -611,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16503,
+      "num": 56138,
+      "word": "你好星期六",
+      "onboard_time": 1766235802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15307,
       "num": 56289,
       "word": "刘宇宁纯白战袍封神了",
@@ -619,7 +627,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14917,
+      "raw_hot": 15129,
       "num": 56238,
       "word": "鸿蒙星光盛典",
       "onboard_time": 1766230461,
@@ -627,20 +635,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14711,
-      "num": 56138,
-      "word": "你好星期六",
-      "onboard_time": 1766235802,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 11791,
+      "num": 35367,
+      "word": "刘宇宁巡演",
+      "onboard_time": 1766259914,
+      "rank": 48,
+      "category": "演出"
     },
     {
-      "raw_hot": 8828,
+      "raw_hot": 11298,
+      "num": 35377,
+      "word": "坐电梯隐藏自己楼层",
+      "onboard_time": 1766262314,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 11269,
       "num": 63889,
       "word": "冬至时节如何养生",
       "onboard_time": 1766232502,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10925,
+      "num": 35352,
+      "word": "汪苏泷第一次在南宁开演唱会",
+      "onboard_time": 1766254516,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
