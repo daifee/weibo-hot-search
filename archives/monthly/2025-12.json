@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766312931378,
+  "endTime": 1766313888795,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1764656841,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1335262,
+      "num": 433905,
+      "word": "星光大赏座位",
+      "onboard_time": 1766312303,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1322847,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1765953981,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619647,
-      "num": 433905,
-      "word": "星光大赏座位",
-      "onboard_time": 1766312303,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 619393,
@@ -9963,6 +9963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416132,
+      "num": 361564,
+      "word": "孙乐言把鞠婧祎说感动了",
+      "onboard_time": 1766313743,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415894,
       "num": 279791,
       "word": "发明肉色秋裤的人你赢了",
@@ -11017,6 +11025,14 @@
       "onboard_time": 1766022501,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 387336,
+      "num": 387336,
+      "word": "彭珮云同志逝世",
+      "onboard_time": 1766312483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387314,
@@ -18499,6 +18515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 238130,
       "num": 238130,
       "word": "余宇涵 第一次觉得楼上的菜好吃",
@@ -23044,7 +23068,7 @@
     },
     {
       "raw_hot": 197090,
-      "num": 190935,
+      "num": 196433,
       "word": "王橹杰pk",
       "onboard_time": 1766312782,
       "rank": 31,
@@ -23561,14 +23585,6 @@
       "onboard_time": 1766308343,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194386,
-      "num": 194386,
-      "word": "彭珮云同志逝世",
-      "onboard_time": 1766312483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194359,
@@ -24672,14 +24688,6 @@
       "word": "龙族第二季大结局",
       "onboard_time": 1765510760,
       "rank": 27,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 188162,
-      "num": 203309,
-      "word": "仙逆",
-      "onboard_time": 1764500120,
-      "rank": 48,
       "category": "动漫"
     },
     {
@@ -28523,6 +28531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165906,
+      "num": 165906,
+      "word": "严浩翔 尖头皮鞋",
+      "onboard_time": 1766310565,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165868,
       "num": 932092,
       "word": "快看啊下雪了",
@@ -29955,6 +29971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 158387,
+      "num": 176481,
+      "word": "小洛熙妈妈讲述最新进展",
+      "onboard_time": 1766313621,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158330,
       "num": 282127,
       "word": "当地体育局回应运动员被索要奖金",
@@ -30832,14 +30856,6 @@
       "word": "彭小苒腰围只有62cm",
       "onboard_time": 1766114901,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155274,
-      "num": 155274,
-      "word": "严浩翔 尖头皮鞋",
-      "onboard_time": 1766310565,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -34131,6 +34147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141659,
+      "num": 174046,
+      "word": "羽毛球",
+      "onboard_time": 1766313443,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141587,
       "num": 141587,
       "word": "被收养的小猫看见妈妈还在流浪",
@@ -34305,6 +34329,14 @@
       "onboard_time": 1765522701,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140972,
+      "num": 140972,
+      "word": "今年星光大赏主持人还是吴昕",
+      "onboard_time": 1766313263,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 140949,
@@ -36201,6 +36233,14 @@
       "onboard_time": 1765014983,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135008,
+      "num": 135008,
+      "word": "宋祖儿顶级骨相",
+      "onboard_time": 1766313683,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135007,
@@ -39715,6 +39755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124761,
+      "num": 136898,
+      "word": "倪妮的礼服正式进入3D时代",
+      "onboard_time": 1766313082,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124744,
       "num": 124744,
       "word": "郭京飞被减肥弹幕创飞了",
@@ -39929,6 +39977,14 @@
       "onboard_time": 1764857662,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 124296,
+      "num": 124296,
+      "word": "李昀锐高珠",
+      "onboard_time": 1766313802,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124282,
@@ -62491,6 +62547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54558,
+      "num": 137135,
+      "word": "丞磊这是真热到了",
+      "onboard_time": 1766313323,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54531,
       "num": 265049,
       "word": "阿福治好了我的疑病症",
@@ -69027,6 +69091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28816,
+      "num": 137663,
+      "word": "遭外国人投石视频实为日本人先挑衅",
+      "onboard_time": 1766313743,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28801,
       "num": 140300,
       "word": "益禾堂外卖包装被烟头烫破该谁赔",
@@ -71139,6 +71211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21267,
+      "num": 172402,
+      "word": "滑雪场传送带骤停有人直接摔出去",
+      "onboard_time": 1766312422,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21194,
       "num": 181846,
       "word": "中央明确明年优化药品集中采购",
@@ -72497,14 +72577,6 @@
       "onboard_time": 1764968413,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14866,
-      "num": 172402,
-      "word": "滑雪场传送带骤停有人直接摔出去",
-      "onboard_time": 1766312422,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14841,

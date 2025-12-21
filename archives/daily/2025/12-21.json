@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766312931378,
+  "endTime": 1766313888795,
   "band_list": [
     {
       "raw_hot": 9567666,
@@ -49,6 +49,14 @@
       "onboard_time": 1766250438,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1335262,
+      "num": 433905,
+      "word": "星光大赏座位",
+      "onboard_time": 1766312303,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1317194,
@@ -215,14 +223,6 @@
       "num": 513958,
       "word": "鞠婧祎珍珠名伶",
       "onboard_time": 1766292440,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 619647,
-      "num": 433905,
-      "word": "星光大赏座位",
-      "onboard_time": 1766312303,
       "rank": 5,
       "category": "综艺"
     },
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416132,
+      "num": 361564,
+      "word": "孙乐言把鞠婧祎说感动了",
+      "onboard_time": 1766313743,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410498,
       "num": 246991,
       "word": "孙乐言控场能力好强",
@@ -521,6 +529,14 @@
       "onboard_time": 1766294601,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387336,
+      "num": 387336,
+      "word": "彭珮云同志逝世",
+      "onboard_time": 1766312483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386574,
@@ -835,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "仙逆",
+      "onboard_time": 1766313383,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226685,
       "num": 226685,
       "word": "童瑶风格大变",
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 197090,
-      "num": 190935,
+      "num": 196433,
       "word": "王橹杰pk",
       "onboard_time": 1766312782,
       "rank": 31,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1766308343,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194386,
-      "num": 194386,
-      "word": "彭珮云同志逝世",
-      "onboard_time": 1766312483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194223,
@@ -1227,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165906,
+      "num": 165906,
+      "word": "严浩翔 尖头皮鞋",
+      "onboard_time": 1766310565,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165831,
       "num": 280795,
       "word": "永州淘汰长沙",
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158387,
+      "num": 176481,
+      "word": "小洛熙妈妈讲述最新进展",
+      "onboard_time": 1766313621,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157987,
       "num": 157987,
       "word": "星光大赏红毯 简陋",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1766298681,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155274,
-      "num": 155274,
-      "word": "严浩翔 尖头皮鞋",
-      "onboard_time": 1766310565,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 154416,
@@ -1507,6 +1531,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141659,
+      "num": 174046,
+      "word": "羽毛球",
+      "onboard_time": 1766313443,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140972,
+      "num": 140972,
+      "word": "今年星光大赏主持人还是吴昕",
+      "onboard_time": 1766313263,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140827,
       "num": 140827,
       "word": "怪不得医生有时候会反复套话",
@@ -1571,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135008,
+      "num": 135008,
+      "word": "宋祖儿顶级骨相",
+      "onboard_time": 1766313683,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131578,
       "num": 131578,
       "word": "苹果炖奶",
@@ -1619,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124761,
+      "num": 136898,
+      "word": "倪妮的礼服正式进入3D时代",
+      "onboard_time": 1766313082,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124439,
       "num": 161441,
       "word": "李盈莹回国康复治疗",
       "onboard_time": 1766308762,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124296,
+      "num": 124296,
+      "word": "李昀锐高珠",
+      "onboard_time": 1766313802,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122125,
@@ -2339,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54558,
+      "num": 137135,
+      "word": "丞磊这是真热到了",
+      "onboard_time": 1766313323,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53465,
       "num": 118920,
       "word": "开局全是人结局全是坟",
@@ -2667,6 +2739,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 28816,
+      "num": 137663,
+      "word": "遭外国人投石视频实为日本人先挑衅",
+      "onboard_time": 1766313743,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28731,
       "num": 227783,
       "word": "多地政府出钱为老房子强制体检",
@@ -2779,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21267,
+      "num": 172402,
+      "word": "滑雪场传送带骤停有人直接摔出去",
+      "onboard_time": 1766312422,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20849,
       "num": 156882,
       "word": "安排被停职专家坐诊别怪网友敏感",
@@ -2888,14 +2976,6 @@
       "word": "官方通报贵州一小区居民家自来水变蓝",
       "onboard_time": 1766302583,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14866,
-      "num": 172402,
-      "word": "滑雪场传送带骤停有人直接摔出去",
-      "onboard_time": 1766312422,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
