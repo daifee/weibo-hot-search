@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766330817135,
+  "endTime": 1766331614759,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 995526,
+      "num": 327023,
+      "word": "禹宙中欣",
+      "onboard_time": 1766329225,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 957948,
       "num": 361899,
       "word": "宋祖儿 红衣小乔",
@@ -188,19 +196,11 @@
     },
     {
       "raw_hot": 875036,
-      "num": 284830,
+      "num": 327018,
       "word": "检察官为儿子强奸未成年做无罪辩护",
       "onboard_time": 1766326105,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 870446,
-      "num": 279105,
-      "word": "禹宙中欣",
-      "onboard_time": 1766329225,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 851965,
@@ -449,6 +449,14 @@
       "onboard_time": 1766318182,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528658,
+      "num": 327008,
+      "word": "田曦薇美得不知天地为何物了",
+      "onboard_time": 1766325686,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 526573,
@@ -811,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352530,
-      "num": 273956,
-      "word": "田曦薇美得不知天地为何物了",
-      "onboard_time": 1766325686,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352286,
       "num": 352286,
       "word": "昀牵孟绕后台",
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 295661,
-      "num": 295661,
+      "num": 327061,
       "word": "疯狂动物城3",
       "onboard_time": 1766325085,
       "rank": 30,
@@ -1091,20 +1091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265142,
+      "num": 265142,
+      "word": "朱美吉好美",
+      "onboard_time": 1766328147,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263831,
       "num": 270744,
       "word": "长安二十四计",
       "onboard_time": 1766226680,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262035,
-      "num": 262035,
-      "word": "朱美吉好美",
-      "onboard_time": 1766328147,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 261026,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1766308823,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246863,
+      "num": 327069,
+      "word": "黄雅琼郑思维退役",
+      "onboard_time": 1766329884,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 243236,
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 221387,
-      "num": 292783,
+      "num": 327044,
       "word": "早点 退役",
       "onboard_time": 1766327606,
       "rank": 41,
@@ -1336,6 +1344,14 @@
       "word": "贺峻霖 主持首秀",
       "onboard_time": 1766296224,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211608,
+      "num": 211608,
+      "word": "星光大赏奖项",
+      "onboard_time": 1766329825,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1484,7 +1500,7 @@
     },
     {
       "raw_hot": 197870,
-      "num": 197870,
+      "num": 326991,
       "word": "开始推理吧",
       "onboard_time": 1766327485,
       "rank": 34,
@@ -1579,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193413,
-      "num": 193413,
-      "word": "星光大赏奖项",
-      "onboard_time": 1766329825,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192567,
       "num": 192567,
       "word": "一家5口人有4口查出甲状腺癌",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1766292260,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189525,
-      "num": 189525,
-      "word": "黄雅琼郑思维退役",
-      "onboard_time": 1766329884,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 189437,
@@ -1963,6 +1963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154945,
+      "num": 154945,
+      "word": "丁禹兮坐轮椅",
+      "onboard_time": 1766331024,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "成毅王子璇新剧好浓的哥妹味儿",
@@ -2008,6 +2016,14 @@
       "word": "一年最冷的日子要来了",
       "onboard_time": 1766273777,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151623,
+      "num": 327039,
+      "word": "央视曝光旧衣回收产业",
+      "onboard_time": 1766330965,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2307,6 +2323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136248,
+      "num": 136248,
+      "word": "鞠婧祎双手捂头表情",
+      "onboard_time": 1766331503,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136057,
       "num": 136057,
       "word": "吴昕星光大赏怎么美成这样了",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1766322444,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129112,
+      "num": 173777,
+      "word": "小洛熙事件调查惩前更要毖后",
+      "onboard_time": 1766329585,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 127944,
@@ -2473,6 +2505,14 @@
       "onboard_time": 1766299822,
       "rank": 34,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 122107,
+      "num": 186373,
+      "word": "官方通报独居女子离世遗产归公",
+      "onboard_time": 1766328926,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 120977,
@@ -2611,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111383,
+      "num": 122026,
+      "word": "张凌赫陈都灵同框",
+      "onboard_time": 1766330845,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110696,
       "num": 110696,
       "word": "王者荣耀挑战者杯",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1766294661,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109325,
-      "num": 186373,
-      "word": "官方通报独居女子离世遗产归公",
-      "onboard_time": 1766328926,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 108920,
@@ -2705,6 +2745,14 @@
       "onboard_time": 1766314282,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103015,
+      "num": 238345,
+      "word": "小洛熙事件三大疑问",
+      "onboard_time": 1766330125,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102627,
@@ -3067,20 +3115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76113,
-      "num": 173777,
-      "word": "小洛熙事件调查惩前更要毖后",
-      "onboard_time": 1766329585,
-      "rank": 37,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 74730,
       "num": 271621,
       "word": "三家银行共被罚上亿元",
       "onboard_time": 1766242162,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74351,
+      "num": 166698,
+      "word": "华西医生分享治疗房缺患儿",
+      "onboard_time": 1766330426,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73850,
@@ -3179,14 +3227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64440,
-      "num": 238345,
-      "word": "小洛熙事件三大疑问",
-      "onboard_time": 1766330125,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63964,
       "num": 228387,
       "word": "刘宇宁 死腿快跑",
@@ -3241,14 +3281,6 @@
       "onboard_time": 1766297722,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61771,
-      "num": 166698,
-      "word": "华西医生分享治疗房缺患儿",
-      "onboard_time": 1766330426,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61445,
@@ -3507,6 +3539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41077,
+      "num": 183805,
+      "word": "老年公寓护工被曝手戳老人头部",
+      "onboard_time": 1766330064,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40921,
       "num": 185963,
       "word": "哥哥为房产过户起诉4个妹妹胜诉",
@@ -3569,6 +3609,14 @@
       "onboard_time": 1766297482,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35353,
+      "num": 135021,
+      "word": "金婧你就是周柯宇新姐姐",
+      "onboard_time": 1766331144,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 34905,
@@ -3947,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16956,
+      "num": 242416,
+      "word": "公司正以隐蔽方式蒸发你的假期",
+      "onboard_time": 1766331324,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 16757,
       "num": 34927,
       "word": "刘宇宁换开场曲了",
@@ -4009,14 +4065,6 @@
       "onboard_time": 1766267234,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13190,
-      "num": 183805,
-      "word": "老年公寓护工被曝手戳老人头部",
-      "onboard_time": 1766330064,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12665,
