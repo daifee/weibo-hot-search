@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766324086896,
+  "endTime": 1766324737135,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1883,6 +1883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1031517,
+      "num": 1031517,
+      "word": "能考上二本其实已经很厉害了",
+      "onboard_time": 1766321363,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1031488,
       "num": 1165038,
       "word": "空枪",
@@ -3059,14 +3067,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 824206,
-      "num": 824206,
-      "word": "能考上二本其实已经很厉害了",
-      "onboard_time": 1766321363,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 823692,
       "num": 431030,
       "word": "李现 我不叫李现",
@@ -3371,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 771915,
+      "num": 771915,
+      "word": "李兰迪张新成同框",
+      "onboard_time": 1766321903,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 771061,
       "num": 569916,
       "word": "张凌赫自己都生不出这么像的",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1764921200,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 740868,
-      "num": 740868,
-      "word": "李兰迪张新成同框",
-      "onboard_time": 1766321903,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 740843,
@@ -4283,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677367,
+      "num": 328162,
+      "word": "陈奕恒 来吧",
+      "onboard_time": 1766322623,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677351,
       "num": 315343,
       "word": "宋茜婚纱高定",
@@ -4320,14 +4328,6 @@
       "word": "郭碧婷 向太有给很多钱",
       "onboard_time": 1765359561,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 673091,
-      "num": 328162,
-      "word": "陈奕恒 来吧",
-      "onboard_time": 1766322623,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -6779,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532864,
+      "num": 325187,
+      "word": "一上午11人确诊癌症晚期医生痛心",
+      "onboard_time": 1766318182,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532623,
       "num": 1085219,
       "word": "您有一笔退款12月1日开始确认",
@@ -7217,14 +7225,6 @@
       "onboard_time": 1764849682,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 511271,
-      "num": 325187,
-      "word": "一上午11人确诊癌症晚期医生痛心",
-      "onboard_time": 1766318182,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 509901,
@@ -8611,6 +8611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 458647,
+      "num": 320303,
+      "word": "陈靖可扶了陈妍希",
+      "onboard_time": 1766323103,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458448,
       "num": 183038,
       "word": "村支书卖小米被投诉",
@@ -9019,14 +9027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446979,
-      "num": 320303,
-      "word": "陈靖可扶了陈妍希",
-      "onboard_time": 1766323103,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446911,
       "num": 299956,
       "word": "你的婚纱照可能被卖了",
@@ -9233,6 +9233,14 @@
       "onboard_time": 1766244083,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440064,
+      "num": 279392,
+      "word": "鞠婧祎内场生频",
+      "onboard_time": 1766323463,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 439799,
@@ -9641,6 +9649,14 @@
       "onboard_time": 1765381281,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 427142,
+      "num": 322596,
+      "word": "宋亚轩你以为你很隐蔽吗",
+      "onboard_time": 1766320823,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 427056,
@@ -10257,6 +10273,14 @@
       "onboard_time": 1765953861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409731,
+      "num": 321335,
+      "word": "周也王玉雯把陈星旭聊走了",
+      "onboard_time": 1766322503,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 409381,
@@ -11291,14 +11315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384053,
-      "num": 322596,
-      "word": "宋亚轩你以为你很隐蔽吗",
-      "onboard_time": 1766320823,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383521,
       "num": 815056,
       "word": "香奈儿大秀",
@@ -12017,14 +12033,6 @@
       "onboard_time": 1764753142,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363554,
-      "num": 321335,
-      "word": "周也王玉雯把陈星旭聊走了",
-      "onboard_time": 1766322503,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 363335,
@@ -12875,6 +12883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342579,
+      "num": 342579,
+      "word": "樊振东vs豪格",
+      "onboard_time": 1766324426,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342518,
       "num": 310165,
       "word": "杨幂 于和伟我罩的",
@@ -13081,6 +13097,14 @@
       "onboard_time": 1765006522,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338396,
+      "num": 317807,
+      "word": "宋茜造型师",
+      "onboard_time": 1766321063,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 338070,
@@ -13995,6 +14019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 321582,
+      "num": 277513,
+      "word": "吴磊座位",
+      "onboard_time": 1766323524,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321504,
       "num": 321504,
       "word": "母亲去世20年孝子请数万人看3天戏",
@@ -14155,14 +14187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317807,
-      "num": 317807,
-      "word": "宋茜造型师",
-      "onboard_time": 1766321063,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317209,
       "num": 330048,
       "word": "梁王状态",
@@ -14305,14 +14329,6 @@
       "onboard_time": 1764636381,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 314676,
-      "num": 216597,
-      "word": "鞠婧祎内场生频",
-      "onboard_time": 1766323463,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 313997,
@@ -14584,6 +14600,14 @@
       "word": "白鹿星光大赏有3套造型",
       "onboard_time": 1766314341,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 309042,
+      "num": 277164,
+      "word": "张真源哄娃 丁程鑫喂水",
+      "onboard_time": 1766323403,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -16169,6 +16193,14 @@
       "onboard_time": 1765862002,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277109,
+      "num": 277109,
+      "word": "孟子义李昀锐 让女儿听听好吗",
+      "onboard_time": 1766323764,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 277027,
@@ -20491,14 +20523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216585,
-      "num": 216585,
-      "word": "孟子义李昀锐 让女儿听听好吗",
-      "onboard_time": 1766323764,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216576,
       "num": 216576,
       "word": "下半年来最冷的一天来了",
@@ -21547,6 +21571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206855,
+      "num": 206855,
+      "word": "丁禹兮内场",
+      "onboard_time": 1766324543,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206840,
       "num": 206840,
       "word": "周柯宇 哪来的",
@@ -21697,14 +21729,6 @@
       "onboard_time": 1765716684,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206194,
-      "num": 216844,
-      "word": "张真源哄娃 丁程鑫喂水",
-      "onboard_time": 1766323403,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 206123,
@@ -23601,6 +23625,14 @@
       "onboard_time": 1765190482,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195848,
+      "num": 195848,
+      "word": "龚俊亲吻鲨鱼",
+      "onboard_time": 1766323884,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 195841,
@@ -29275,14 +29307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163642,
-      "num": 163642,
-      "word": "吴磊座位",
-      "onboard_time": 1766323524,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163615,
       "num": 163615,
       "word": "时代少年团不去新音第二天",
@@ -31947,6 +31971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152215,
+      "num": 167053,
+      "word": "章莹颖去世8年母亲每日以泪洗面",
+      "onboard_time": 1766322024,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152177,
       "num": 254190,
       "word": "原来情绪稳定的孩子是这样来的",
@@ -33777,14 +33809,6 @@
       "onboard_time": 1765986800,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144359,
-      "num": 144359,
-      "word": "龚俊亲吻鲨鱼",
-      "onboard_time": 1766323884,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 144330,
@@ -36953,6 +36977,14 @@
       "onboard_time": 1766231903,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134035,
+      "num": 134035,
+      "word": "豆瓣崩了",
+      "onboard_time": 1766324004,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 134003,
@@ -40649,14 +40681,6 @@
       "onboard_time": 1765082600,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123729,
-      "num": 123729,
-      "word": "豆瓣崩了",
-      "onboard_time": 1766324004,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 123727,
@@ -51219,6 +51243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98480,
+      "num": 152461,
+      "word": "颖儿状态好能打",
+      "onboard_time": 1766324244,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98475,
       "num": 98475,
       "word": "尖叫之夜 没有一个不漂亮",
@@ -58251,6 +58283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77349,
+      "num": 155914,
+      "word": "糟了这波是冲着刘宇宁来的",
+      "onboard_time": 1766324244,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77336,
       "num": 77336,
       "word": "因为那不重要啊",
@@ -61401,6 +61441,14 @@
       "onboard_time": 1765466362,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62471,
+      "num": 159074,
+      "word": "泰国甘蔗地惊现无头男尸",
+      "onboard_time": 1766323223,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62465,
@@ -65569,14 +65617,6 @@
       "onboard_time": 1765893982,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44006,
-      "num": 159074,
-      "word": "泰国甘蔗地惊现无头男尸",
-      "onboard_time": 1766323223,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 43886,
@@ -72315,6 +72355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18831,
+      "num": 280557,
+      "word": "沙漠的阳光变成万家灯火",
+      "onboard_time": 1766324062,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18807,
       "num": 102225,
       "word": "手术遗留偏瘫村主任因代签字被诉",
@@ -72361,14 +72409,6 @@
       "onboard_time": 1765596500,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18655,
-      "num": 167053,
-      "word": "章莹颖去世8年母亲每日以泪洗面",
-      "onboard_time": 1766322024,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18650,
@@ -72593,6 +72633,14 @@
       "onboard_time": 1765306036,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17547,
+      "num": 802208,
+      "word": "冬至是春节的预告片",
+      "onboard_time": 1766324604,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17405,
