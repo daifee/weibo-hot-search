@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766342248314,
+  "endTime": 1766343010716,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -459,6 +459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 36349,
+      "num": 51957,
+      "word": "年度短剧之星",
+      "onboard_time": 1766340975,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35036,
       "num": 88630,
       "word": "iPhone设置演唱会模式",
@@ -489,14 +497,6 @@
       "onboard_time": 1766336478,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30606,
-      "num": 51957,
-      "word": "年度短剧之星",
-      "onboard_time": 1766340975,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 30278,

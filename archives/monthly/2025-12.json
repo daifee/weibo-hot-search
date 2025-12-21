@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766342248314,
+  "endTime": 1766343010716,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -68083,6 +68083,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 36349,
+      "num": 51957,
+      "word": "年度短剧之星",
+      "onboard_time": 1766340975,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36252,
       "num": 42815,
       "word": "肖战练台词练到忘记说的是方言",
@@ -69769,14 +69777,6 @@
       "onboard_time": 1766050460,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30606,
-      "num": 51957,
-      "word": "年度短剧之星",
-      "onboard_time": 1766340975,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 30584,
