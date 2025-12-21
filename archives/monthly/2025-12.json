@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766338882614,
+  "endTime": 1766342248314,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -61843,6 +61843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62765,
+      "num": 132440,
+      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
+      "onboard_time": 1766336419,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62736,
       "num": 181429,
       "word": "九尾愿不负每一份信任与期待",
@@ -63065,14 +63073,6 @@
       "onboard_time": 1765285225,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56676,
-      "num": 132440,
-      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
-      "onboard_time": 1766336419,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56615,
@@ -69769,6 +69769,14 @@
       "onboard_time": 1766050460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30606,
+      "num": 51957,
+      "word": "年度短剧之星",
+      "onboard_time": 1766340975,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 30584,
