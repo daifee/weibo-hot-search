@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766322389340,
+  "endTime": 1766324086896,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 924008,
-      "num": 293918,
+      "num": 326151,
       "word": "陈妍希提周柯宇 镜头切陈鑫海",
       "onboard_time": 1766317822,
       "rank": 8,
@@ -168,6 +168,14 @@
       "word": "考研结束",
       "onboard_time": 1766308583,
       "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 824206,
+      "num": 824206,
+      "word": "能考上二本其实已经很厉害了",
+      "onboard_time": 1766321363,
+      "rank": 4,
       "category": "教育"
     },
     {
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740868,
+      "num": 740868,
+      "word": "李兰迪张新成同框",
+      "onboard_time": 1766321903,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699559,
       "num": 270633,
       "word": "时代少年团 座位",
@@ -241,6 +257,14 @@
       "onboard_time": 1766301023,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673091,
+      "num": 328162,
+      "word": "陈奕恒 来吧",
+      "onboard_time": 1766322623,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 655789,
@@ -379,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 531901,
-      "num": 531901,
-      "word": "能考上二本其实已经很厉害了",
-      "onboard_time": 1766321363,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 526573,
       "num": 287997,
       "word": "闵塔鲨给白鹿准备的裙子",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 511271,
-      "num": 274386,
+      "num": 325187,
       "word": "一上午11人确诊癌症晚期医生痛心",
       "onboard_time": 1766318182,
       "rank": 14,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446979,
+      "num": 320303,
+      "word": "陈靖可扶了陈妍希",
+      "onboard_time": 1766323103,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430607,
       "num": 240426,
       "word": "宋祖儿顶级骨相",
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 412456,
-      "num": 271725,
+      "num": 323784,
       "word": "白鹿内场",
       "onboard_time": 1766318423,
       "rank": 13,
@@ -651,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 384053,
+      "num": 322596,
+      "word": "宋亚轩你以为你很隐蔽吗",
+      "onboard_time": 1766320823,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378296,
       "num": 265293,
       "word": "王影璐 鞋跟",
@@ -676,9 +708,17 @@
     },
     {
       "raw_hot": 367675,
-      "num": 265612,
+      "num": 274791,
       "word": "王安宇田曦薇坐一起",
       "onboard_time": 1766319262,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363554,
+      "num": 321335,
+      "word": "周也王玉雯把陈星旭聊走了",
+      "onboard_time": 1766322503,
       "rank": 16,
       "category": "综艺"
     },
@@ -771,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "宋茜造型师",
+      "onboard_time": 1766321063,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317408,
       "num": 317408,
       "word": "考研",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 317209,
-      "num": 317209,
+      "num": 330048,
       "word": "梁王状态",
       "onboard_time": 1766320164,
       "rank": 6,
@@ -791,6 +839,14 @@
       "num": 292208,
       "word": "周也丞磊 新娘新郎",
       "onboard_time": 1766305342,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314676,
+      "num": 216597,
+      "word": "鞠婧祎内场生频",
+      "onboard_time": 1766323463,
       "rank": 31,
       "category": "综艺"
     },
@@ -836,7 +892,7 @@
     },
     {
       "raw_hot": 294031,
-      "num": 294031,
+      "num": 332842,
       "word": "16岁烤鸡少年爆火后不敢接父母电话",
       "onboard_time": 1766316742,
       "rank": 37,
@@ -923,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264953,
-      "num": 264953,
-      "word": "宋亚轩你以为你很隐蔽吗",
-      "onboard_time": 1766320823,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263831,
       "num": 270744,
       "word": "长安二十四计",
@@ -947,12 +995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258154,
-      "num": 258154,
-      "word": "李兰迪张新成同框",
-      "onboard_time": 1766321903,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 260945,
+      "num": 260945,
+      "word": "时代峰峻否认陈奕恒骂人",
+      "onboard_time": 1766322144,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 256890,
@@ -1059,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230910,
-      "num": 230910,
-      "word": "宋茜造型师",
-      "onboard_time": 1766321063,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229725,
       "num": 229725,
       "word": "丁禹兮何与叼火柴",
@@ -1112,6 +1152,22 @@
       "word": "成毅 破万福利",
       "onboard_time": 1766303002,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216585,
+      "num": 216585,
+      "word": "孟子义李昀锐 让女儿听听好吗",
+      "onboard_time": 1766323764,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216090,
+      "num": 216090,
+      "word": "成毅 夸人也要可汗大点兵",
+      "onboard_time": 1766322864,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1163,11 +1219,27 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 207090,
+      "num": 331359,
+      "word": "TES对战DRG",
+      "onboard_time": 1766318364,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206656,
       "num": 206656,
       "word": "杜海涛居然有下颌线了",
       "onboard_time": 1766298082,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206194,
+      "num": 216844,
+      "word": "张真源哄娃 丁程鑫喂水",
+      "onboard_time": 1766323403,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1241,14 +1313,6 @@
       "onboard_time": 1766245461,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 199322,
-      "num": 199322,
-      "word": "时代峰峻否认陈奕恒骂人",
-      "onboard_time": 1766322144,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 198976,
@@ -1555,12 +1619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163022,
-      "num": 243055,
-      "word": "TES对战DRG",
-      "onboard_time": 1766318364,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 163642,
+      "num": 163642,
+      "word": "吴磊座位",
+      "onboard_time": 1766323524,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 162607,
@@ -1795,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144359,
+      "num": 144359,
+      "word": "龚俊亲吻鲨鱼",
+      "onboard_time": 1766323884,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144179,
       "num": 144179,
       "word": "陈妍希台湾腔告别视频",
@@ -1883,12 +1955,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139832,
+      "num": 216730,
+      "word": "夫妻遇东北虎下山第一眼看成大黄狗",
+      "onboard_time": 1766321183,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139003,
       "num": 139003,
       "word": "汪顺哭了",
       "onboard_time": 1766295623,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138961,
+      "num": 138961,
+      "word": "王一博赛车新涂装是攀岩墙",
+      "onboard_time": 1766323165,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138420,
@@ -1963,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130496,
+      "num": 130496,
+      "word": "萨尔布吕肯vs杜塞尔多夫",
+      "onboard_time": 1766322684,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130467,
       "num": 130467,
       "word": "李昀锐allblack西装",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1766316803,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129774,
+      "num": 129774,
+      "word": "云旗郝熠然来哄大家了",
+      "onboard_time": 1766322444,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 127944,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1766277499,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125613,
+      "num": 125613,
+      "word": "璎珞 AI",
+      "onboard_time": 1766323824,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 125226,
@@ -2043,12 +2155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123221,
-      "num": 195840,
-      "word": "夫妻遇东北虎下山第一眼看成大黄狗",
-      "onboard_time": 1766321183,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 123729,
+      "num": 123729,
+      "word": "豆瓣崩了",
+      "onboard_time": 1766324004,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 122125,
@@ -2105,6 +2217,14 @@
       "onboard_time": 1766314341,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119463,
+      "num": 216678,
+      "word": "广东绿豆沙为啥加臭草",
+      "onboard_time": 1766323704,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119369,
@@ -2468,7 +2588,7 @@
     },
     {
       "raw_hot": 85347,
-      "num": 199479,
+      "num": 216755,
       "word": "后半夜睡不着让名医专家哄睡",
       "onboard_time": 1766320524,
       "rank": 28,
@@ -2787,20 +2907,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57538,
+      "num": 317849,
+      "word": "更豪华的电动车",
+      "onboard_time": 1766322324,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57524,
       "num": 384543,
       "word": "范德彪成了饭得飙",
       "onboard_time": 1766286621,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56749,
-      "num": 167975,
-      "word": "更豪华的电动车",
-      "onboard_time": 1766322324,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 56743,
@@ -2977,6 +3097,14 @@
       "onboard_time": 1766289681,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44006,
+      "num": 159074,
+      "word": "泰国甘蔗地惊现无头男尸",
+      "onboard_time": 1766323223,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42075,
@@ -3203,6 +3331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28752,
+      "num": 1664120,
+      "word": "文化中国行冬至节气",
+      "onboard_time": 1766304922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28731,
       "num": 227783,
       "word": "多地政府出钱为老房子强制体检",
@@ -3241,14 +3377,6 @@
       "onboard_time": 1766293822,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24347,
-      "num": 1664120,
-      "word": "文化中国行冬至节气",
-      "onboard_time": 1766304922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24016,
@@ -3467,6 +3595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 11488,
+      "num": 742109,
+      "word": "我国数字消费用户规模超9.5亿人",
+      "onboard_time": 1766323644,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11314,
       "num": 194176,
       "word": "女子醉驾找人摆平被骗7万跳楼身亡",
@@ -3513,6 +3649,9 @@
     },
     {
       "word": "#绘就共同富裕新画卷#"
+    },
+    {
+      "word": "#一起学习四大全球倡议核心要义#"
     }
   ]
 }

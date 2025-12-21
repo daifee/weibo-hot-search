@@ -1,0 +1,410 @@
+{
+  "runTime": 1766324086896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7837998,
+        "num": 7837998,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824206,
+        "num": 824206,
+        "word": "能考上二本其实已经很厉害了",
+        "onboard_time": 1766321363,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11488,
+        "num": 742109,
+        "word": "我国数字消费用户规模超9.5亿人",
+        "onboard_time": 1766323644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740868,
+        "num": 740868,
+        "word": "李兰迪张新成同框",
+        "onboard_time": 1766321903,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382486,
+        "num": 382486,
+        "word": "终于有人吐槽巴厘岛旅游了",
+        "onboard_time": 1766318725,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 735253,
+        "num": 380713,
+        "word": "星光大赏 替身文学",
+        "onboard_time": 1766319563,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333155,
+        "num": 333155,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215121,
+        "num": 332842,
+        "word": "16岁烤鸡少年爆火后不敢接父母电话",
+        "onboard_time": 1766316742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207090,
+        "num": 331359,
+        "word": "TES对战DRG",
+        "onboard_time": 1766318364,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190413,
+        "num": 330048,
+        "word": "梁王状态",
+        "onboard_time": 1766320164,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673091,
+        "num": 328162,
+        "word": "陈奕恒 来吧",
+        "onboard_time": 1766322623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640209,
+        "num": 326893,
+        "word": "星光大赏",
+        "onboard_time": 1766311162,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522380,
+        "num": 326151,
+        "word": "陈妍希提周柯宇 镜头切陈鑫海",
+        "onboard_time": 1766317822,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504457,
+        "num": 325187,
+        "word": "一上午11人确诊癌症晚期医生痛心",
+        "onboard_time": 1766318182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404357,
+        "num": 323784,
+        "word": "白鹿内场",
+        "onboard_time": 1766318423,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384053,
+        "num": 322596,
+        "word": "宋亚轩你以为你很隐蔽吗",
+        "onboard_time": 1766320823,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363554,
+        "num": 321335,
+        "word": "周也王玉雯把陈星旭聊走了",
+        "onboard_time": 1766322503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446979,
+        "num": 320303,
+        "word": "陈靖可扶了陈妍希",
+        "onboard_time": 1766323103,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57538,
+        "num": 317849,
+        "word": "更豪华的电动车",
+        "onboard_time": 1766322324,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317807,
+        "num": 317807,
+        "word": "宋茜造型师",
+        "onboard_time": 1766321063,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274791,
+        "num": 274791,
+        "word": "王安宇田曦薇坐一起",
+        "onboard_time": 1766319262,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260945,
+        "num": 260945,
+        "word": "时代峰峻否认陈奕恒骂人",
+        "onboard_time": 1766322144,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260795,
+        "num": 260795,
+        "word": "孟子义李昀锐连续三年坐一起",
+        "onboard_time": 1766317043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256904,
+        "num": 256904,
+        "word": "时代少年团 座位",
+        "onboard_time": 1766315061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216867,
+        "num": 216867,
+        "word": "成毅直播",
+        "onboard_time": 1766321363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206194,
+        "num": 216844,
+        "word": "张真源哄娃 丁程鑫喂水",
+        "onboard_time": 1766323403,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146419,
+        "num": 216789,
+        "word": "梁伟铿王昶男双亚军",
+        "onboard_time": 1766321603,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48296,
+        "num": 216755,
+        "word": "后半夜睡不着让名医专家哄睡",
+        "onboard_time": 1766320524,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139832,
+        "num": 216730,
+        "word": "夫妻遇东北虎下山第一眼看成大黄狗",
+        "onboard_time": 1766321183,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119463,
+        "num": 216678,
+        "word": "广东绿豆沙为啥加臭草",
+        "onboard_time": 1766323704,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28752,
+        "num": 216643,
+        "word": "文化中国行冬至节气",
+        "onboard_time": 1766304922,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314676,
+        "num": 216597,
+        "word": "鞠婧祎内场生频",
+        "onboard_time": 1766323463,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216585,
+        "num": 216585,
+        "word": "孟子义李昀锐 让女儿听听好吗",
+        "onboard_time": 1766323764,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216090,
+        "num": 216090,
+        "word": "成毅 夸人也要可汗大点兵",
+        "onboard_time": 1766322864,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201599,
+        "num": 201599,
+        "word": "曹骏大闹星光大赏",
+        "onboard_time": 1766304922,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187724,
+        "num": 187724,
+        "word": "星光大赏主持人",
+        "onboard_time": 1766317763,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163642,
+        "num": 163642,
+        "word": "吴磊座位",
+        "onboard_time": 1766323524,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44006,
+        "num": 159074,
+        "word": "泰国甘蔗地惊现无头男尸",
+        "onboard_time": 1766323223,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158932,
+        "num": 158932,
+        "word": "星光大赏座位",
+        "onboard_time": 1766312303,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 149547,
+        "word": "海口医院偶遇丁禹兮",
+        "onboard_time": 1766320403,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144359,
+        "num": 144359,
+        "word": "龚俊亲吻鲨鱼",
+        "onboard_time": 1766323884,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143600,
+        "num": 143600,
+        "word": "昀牵孟绕",
+        "onboard_time": 1766305162,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138961,
+        "num": 138961,
+        "word": "王一博赛车新涂装是攀岩墙",
+        "onboard_time": 1766323165,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138075,
+        "num": 138075,
+        "word": "星光大赏导播能处",
+        "onboard_time": 1766318003,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130496,
+        "num": 130496,
+        "word": "萨尔布吕肯vs杜塞尔多夫",
+        "onboard_time": 1766322684,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130396,
+        "num": 130396,
+        "word": "双轨",
+        "onboard_time": 1766314943,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129774,
+        "num": 129774,
+        "word": "云旗郝熠然来哄大家了",
+        "onboard_time": 1766322444,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128926,
+        "num": 128926,
+        "word": "考研结束",
+        "onboard_time": 1766308583,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125613,
+        "num": 125613,
+        "word": "璎珞 AI",
+        "onboard_time": 1766323824,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123729,
+        "num": 123729,
+        "word": "豆瓣崩了",
+        "onboard_time": 1766324004,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}
