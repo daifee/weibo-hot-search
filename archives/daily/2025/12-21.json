@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766317076534,
+  "endTime": 1766321554149,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1060640,
+      "num": 355256,
+      "word": "星光大赏 替身文学",
+      "onboard_time": 1766319563,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1028028,
       "num": 1028028,
       "word": "央视曝光旧手机回收猫腻",
@@ -112,6 +120,14 @@
       "word": "星光大赏",
       "onboard_time": 1766222061,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 924008,
+      "num": 293918,
+      "word": "陈妍希提周柯宇 镜头切陈鑫海",
+      "onboard_time": 1766317822,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 699559,
-      "num": 242866,
+      "num": 270633,
       "word": "时代少年团 座位",
       "onboard_time": 1766315061,
       "rank": 11,
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567238,
+      "num": 235773,
+      "word": "鞠婧祎 蓝色妖姬",
+      "onboard_time": 1766316684,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561461,
       "num": 360672,
       "word": "田曦薇咏梅撞衫",
@@ -352,6 +376,14 @@
       "word": "闵塔鲨给白鹿准备的裙子",
       "onboard_time": 1766289440,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 522645,
+      "num": 274651,
+      "word": "陈都灵鞠婧祎宋祖儿 偷偷加微信",
+      "onboard_time": 1766320164,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -499,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412456,
+      "num": 267381,
+      "word": "白鹿内场",
+      "onboard_time": 1766318423,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410498,
       "num": 246991,
       "word": "孙乐言控场能力好强",
@@ -515,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401138,
+      "num": 258923,
+      "word": "一上午11人确诊癌症晚期医生痛心",
+      "onboard_time": 1766318182,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401123,
       "num": 401123,
       "word": "考研408",
@@ -528,6 +576,14 @@
       "word": "田曦薇金色流苏裙",
       "onboard_time": 1766293580,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 398396,
+      "num": 255161,
+      "word": "孟子义李昀锐连续三年坐一起",
+      "onboard_time": 1766317043,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -603,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367675,
+      "num": 252157,
+      "word": "王安宇田曦薇坐一起",
+      "onboard_time": 1766319262,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359186,
       "num": 359186,
       "word": "外企集体加入中国内卷",
@@ -617,6 +681,14 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354224,
+      "num": 354224,
+      "word": "能考上二本其实已经很厉害了",
+      "onboard_time": 1766321363,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 353094,
@@ -675,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321127,
+      "num": 321127,
+      "word": "终于有人吐槽巴厘岛旅游了",
+      "onboard_time": 1766318725,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 318577,
       "num": 318577,
       "word": "毛晓彤星光大赏没约到摄影师",
@@ -691,20 +771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317716,
-      "num": 235773,
-      "word": "鞠婧祎 蓝色妖姬",
-      "onboard_time": 1766316684,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317408,
       "num": 317408,
       "word": "考研",
       "onboard_time": 1766231362,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 317209,
+      "num": 317209,
+      "word": "梁王状态",
+      "onboard_time": 1766320164,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 316853,
@@ -755,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294031,
+      "num": 294031,
+      "word": "16岁烤鸡少年爆火后不敢接父母电话",
+      "onboard_time": 1766316742,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293537,
       "num": 252987,
       "word": "曹骏大闹星光大赏",
@@ -768,6 +856,14 @@
       "word": "白鹿丞磊比心",
       "onboard_time": 1766306363,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289074,
+      "num": 228675,
+      "word": "白鹿谢谢孟子义的投喂",
+      "onboard_time": 1766319923,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -907,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238946,
+      "num": 228072,
+      "word": "海口医院偶遇丁禹兮",
+      "onboard_time": 1766320403,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "数三",
@@ -937,6 +1041,22 @@
       "onboard_time": 1766311581,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228146,
+      "num": 228146,
+      "word": "星光大赏导播能处",
+      "onboard_time": 1766318003,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227660,
+      "num": 227660,
+      "word": "星光大赏主持人",
+      "onboard_time": 1766317763,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 226685,
@@ -1008,6 +1128,14 @@
       "word": "杜海涛居然有下颌线了",
       "onboard_time": 1766298082,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205634,
+      "num": 205634,
+      "word": "宋亚轩你以为你很隐蔽吗",
+      "onboard_time": 1766320823,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1160,6 +1288,14 @@
       "word": "吴磊瘦了好多",
       "onboard_time": 1766308883,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193717,
+      "num": 193717,
+      "word": "丁程鑫看见谁了",
+      "onboard_time": 1766319743,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1371,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163022,
+      "num": 243055,
+      "word": "TES对战DRG",
+      "onboard_time": 1766318364,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162607,
       "num": 242913,
       "word": "KPL",
@@ -1403,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159081,
+      "num": 159081,
+      "word": "时代少年团专属机位呢",
+      "onboard_time": 1766319143,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157987,
       "num": 157987,
       "word": "星光大赏红毯 简陋",
@@ -1417,6 +1569,14 @@
       "onboard_time": 1766317043,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157243,
+      "num": 157243,
+      "word": "成毅直播",
+      "onboard_time": 1766321363,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 156849,
@@ -1515,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149123,
+      "num": 157309,
+      "word": "石宇奇总决赛获亚军",
+      "onboard_time": 1766320584,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148144,
       "num": 180929,
       "word": "这种花竟和茄子是一家",
@@ -1531,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147223,
+      "num": 144069,
+      "word": "檀健次内场完全贵公子",
+      "onboard_time": 1766319803,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146954,
       "num": 263504,
       "word": "女子被赌徒前夫当着11岁儿子面杀害",
@@ -1545,6 +1721,14 @@
       "onboard_time": 1766294180,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146478,
+      "num": 144045,
+      "word": "宋茜造型师",
+      "onboard_time": 1766321063,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146281,
@@ -1683,6 +1867,14 @@
       "category": "议题讨论,情感"
     },
     {
+      "raw_hot": 136473,
+      "num": 144226,
+      "word": "林孝埈问吃饺子了吗",
+      "onboard_time": 1766321303,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136278,
       "num": 136278,
       "word": "一代人有一代人的饺子馅",
@@ -1713,14 +1905,6 @@
       "onboard_time": 1766221161,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134792,
-      "num": 134792,
-      "word": "16岁烤鸡少年爆火后不敢接父母电话",
-      "onboard_time": 1766316742,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131578,
@@ -1816,14 +2000,6 @@
       "word": "李昀锐高珠",
       "onboard_time": 1766313802,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122600,
-      "num": 122600,
-      "word": "孟子义李昀锐连续三年坐一起",
-      "onboard_time": 1766317043,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2243,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85347,
+      "num": 198851,
+      "word": "后半夜睡不着让名医专家哄睡",
+      "onboard_time": 1766320524,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84848,
       "num": 84848,
       "word": "杜兰特与布鲁斯布朗互喷",
@@ -2355,6 +2539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75677,
+      "num": 195840,
+      "word": "夫妻遇东北虎下山第一眼看成大黄狗",
+      "onboard_time": 1766321183,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74730,
       "num": 271621,
       "word": "三家银行共被罚上亿元",
@@ -2433,6 +2625,14 @@
       "onboard_time": 1766283439,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68238,
+      "num": 158289,
+      "word": "双轨有效播放破3亿",
+      "onboard_time": 1766321422,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 65628,
@@ -2939,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28347,
+      "num": 228883,
+      "word": "以色列拟向特朗普汇报再袭伊朗方案",
+      "onboard_time": 1766320223,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28272,
       "num": 72777,
       "word": "英超联赛",
@@ -2953,6 +3161,14 @@
       "onboard_time": 1766255596,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24697,
+      "num": 158030,
+      "word": "零关税进口车个人不能买",
+      "onboard_time": 1766321422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24571,
@@ -3009,6 +3225,14 @@
       "onboard_time": 1766243543,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22145,
+      "num": 158564,
+      "word": "爱泼斯坦案新文件公布克林顿怒了",
+      "onboard_time": 1766321422,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21981,
@@ -3097,6 +3321,14 @@
       "onboard_time": 1766229983,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18821,
+      "num": 159044,
+      "word": "台北伤人案嫌犯烟雾弹为网购美军品",
+      "onboard_time": 1766320823,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17738,

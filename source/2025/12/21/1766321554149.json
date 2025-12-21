@@ -1,0 +1,410 @@
+{
+  "runTime": 1766321554149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8086609,
+        "num": 8086609,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383561,
+        "num": 383561,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22876,
+        "num": 355536,
+        "word": "文化中国行冬至节气",
+        "onboard_time": 1766304922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060640,
+        "num": 355256,
+        "word": "星光大赏 替身文学",
+        "onboard_time": 1766319563,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354224,
+        "num": 354224,
+        "word": "能考上二本其实已经很厉害了",
+        "onboard_time": 1766321363,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321127,
+        "num": 321127,
+        "word": "终于有人吐槽巴厘岛旅游了",
+        "onboard_time": 1766318725,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 317209,
+        "num": 317209,
+        "word": "梁王状态",
+        "onboard_time": 1766320164,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294031,
+        "num": 294031,
+        "word": "16岁烤鸡少年爆火后不敢接父母电话",
+        "onboard_time": 1766316742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924008,
+        "num": 293918,
+        "word": "陈妍希提周柯宇 镜头切陈鑫海",
+        "onboard_time": 1766317822,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203413,
+        "num": 286228,
+        "word": "原来结婚居然要有三枚戒指",
+        "onboard_time": 1766301441,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 676069,
+        "num": 279930,
+        "word": "星光大赏",
+        "onboard_time": 1766311162,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522645,
+        "num": 274651,
+        "word": "陈都灵鞠婧祎宋祖儿 偷偷加微信",
+        "onboard_time": 1766320164,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449930,
+        "num": 270633,
+        "word": "时代少年团 座位",
+        "onboard_time": 1766315061,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412456,
+        "num": 267381,
+        "word": "白鹿内场",
+        "onboard_time": 1766318423,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401138,
+        "num": 258923,
+        "word": "一上午11人确诊癌症晚期医生痛心",
+        "onboard_time": 1766318182,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398396,
+        "num": 255161,
+        "word": "孟子义李昀锐连续三年坐一起",
+        "onboard_time": 1766317043,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367675,
+        "num": 252157,
+        "word": "王安宇田曦薇坐一起",
+        "onboard_time": 1766319262,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248457,
+        "num": 248457,
+        "word": "星光大赏座位",
+        "onboard_time": 1766312303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163022,
+        "num": 243055,
+        "word": "TES对战DRG",
+        "onboard_time": 1766318364,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243032,
+        "num": 243032,
+        "word": "曹骏大闹星光大赏",
+        "onboard_time": 1766304922,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755736,
+        "num": 237426,
+        "word": "星光大赏红毯",
+        "onboard_time": 1766294121,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 228883,
+        "word": "以色列拟向特朗普汇报再袭伊朗方案",
+        "onboard_time": 1766320223,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289074,
+        "num": 228675,
+        "word": "白鹿谢谢孟子义的投喂",
+        "onboard_time": 1766319923,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228146,
+        "num": 228146,
+        "word": "星光大赏导播能处",
+        "onboard_time": 1766318003,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238946,
+        "num": 228072,
+        "word": "海口医院偶遇丁禹兮",
+        "onboard_time": 1766320403,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227660,
+        "num": 227660,
+        "word": "星光大赏主持人",
+        "onboard_time": 1766317763,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154287,
+        "num": 205639,
+        "word": "彭珮云同志逝世",
+        "onboard_time": 1766312483,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 205634,
+        "word": "宋亚轩你以为你很隐蔽吗",
+        "onboard_time": 1766320823,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85347,
+        "num": 198851,
+        "word": "后半夜睡不着让名医专家哄睡",
+        "onboard_time": 1766320524,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75677,
+        "num": 195840,
+        "word": "夫妻遇东北虎下山第一眼看成大黄狗",
+        "onboard_time": 1766321183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193990,
+        "num": 193990,
+        "word": "昀牵孟绕",
+        "onboard_time": 1766305162,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193717,
+        "num": 193717,
+        "word": "丁程鑫看见谁了",
+        "onboard_time": 1766319743,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182955,
+        "num": 182955,
+        "word": "丁禹兮何与叼火柴",
+        "onboard_time": 1766311581,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159081,
+        "num": 159081,
+        "word": "时代少年团专属机位呢",
+        "onboard_time": 1766319143,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18821,
+        "num": 159044,
+        "word": "台北伤人案嫌犯烟雾弹为网购美军品",
+        "onboard_time": 1766320823,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22145,
+        "num": 158564,
+        "word": "爱泼斯坦案新文件公布克林顿怒了",
+        "onboard_time": 1766321422,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68238,
+        "num": 158289,
+        "word": "双轨有效播放破3亿",
+        "onboard_time": 1766321422,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 158030,
+        "word": "零关税进口车个人不能买",
+        "onboard_time": 1766321422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567238,
+        "num": 157658,
+        "word": "鞠婧祎 蓝色妖姬",
+        "onboard_time": 1766316684,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149123,
+        "num": 157309,
+        "word": "石宇奇总决赛获亚军",
+        "onboard_time": 1766320584,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157243,
+        "num": 157243,
+        "word": "成毅直播",
+        "onboard_time": 1766321363,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1766311103,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 144489,
+        "word": "双轨",
+        "onboard_time": 1766314943,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136473,
+        "num": 144226,
+        "word": "林孝埈问吃饺子了吗",
+        "onboard_time": 1766321303,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 144077,
+        "word": "考研结束",
+        "onboard_time": 1766308583,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147223,
+        "num": 144069,
+        "word": "檀健次内场完全贵公子",
+        "onboard_time": 1766319803,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144060,
+        "num": 144060,
+        "word": "95花压轴",
+        "onboard_time": 1766305643,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 144045,
+        "word": "宋茜造型师",
+        "onboard_time": 1766321063,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139761,
+        "num": 139761,
+        "word": "陈妍希带着小狗来了",
+        "onboard_time": 1766306782,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136355,
+        "num": 139753,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
