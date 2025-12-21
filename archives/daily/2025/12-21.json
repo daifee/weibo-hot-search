@@ -1,7 +1,31 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766273989658,
+  "endTime": 1766283165876,
   "band_list": [
+    {
+      "raw_hot": 1599713,
+      "num": 1599713,
+      "word": "冬至",
+      "onboard_time": 1766250438,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1028028,
+      "num": 1028028,
+      "word": "央视曝光旧手机回收猫腻",
+      "onboard_time": 1766278759,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 948303,
+      "num": 148676,
+      "word": "张韶涵回应裁员裁到大动脉",
+      "onboard_time": 1766281399,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 917031,
       "num": 335132,
@@ -25,14 +49,6 @@
       "onboard_time": 1766241564,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531998,
-      "num": 917776,
-      "word": "冬至",
-      "onboard_time": 1766250438,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 492269,
@@ -59,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464727,
+      "num": 129975,
+      "word": "张彬彬帮毛晓彤提裙子被打手",
+      "onboard_time": 1766273537,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 427696,
+      "num": 145717,
+      "word": "左一为打助理道歉",
+      "onboard_time": 1766278161,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393715,
       "num": 315584,
       "word": "小洛熙事件法律不能再缺席",
@@ -67,12 +99,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276741,
+      "raw_hot": 353094,
+      "num": 139987,
+      "word": "胡锡进为小洛熙发声",
+      "onboard_time": 1766279478,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340326,
       "num": 382141,
       "word": "台北艾滋病伤者在长期服药稳定控制",
       "onboard_time": 1766240543,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268271,
+      "num": 268271,
+      "word": "今日23时03分冬至",
+      "onboard_time": 1766277739,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256890,
+      "num": 256890,
+      "word": "女装还在改良男装已经进化了",
+      "onboard_time": 1766273476,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 253868,
@@ -83,12 +139,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214543,
+      "num": 214543,
+      "word": "62岁大爷预警滑坡全村0伤亡",
+      "onboard_time": 1766277679,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210337,
       "num": 273167,
       "word": "霍思燕爱犬在国际比赛夺冠",
       "onboard_time": 1766234002,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204132,
+      "num": 129069,
+      "word": "广东把冬至过成夏至",
+      "onboard_time": 1766281459,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203270,
@@ -105,6 +177,14 @@
       "onboard_time": 1766245461,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197851,
+      "num": 139973,
+      "word": "冬至踩小人",
+      "onboard_time": 1766282540,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 195888,
@@ -147,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177990,
+      "num": 177990,
+      "word": "饺子",
+      "onboard_time": 1766282840,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176679,
       "num": 329452,
       "word": "星光大赏",
       "onboard_time": 1766222061,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171771,
+      "num": 171771,
+      "word": "甜心格格影视化",
+      "onboard_time": 1766274317,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 169773,
@@ -187,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152757,
+      "num": 152757,
+      "word": "一年最冷的日子要来了",
+      "onboard_time": 1766273777,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146032,
       "num": 275665,
       "word": "易烊千玺演讲",
@@ -211,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138390,
+      "num": 138390,
+      "word": "王一博身心疲惫正调整状态",
+      "onboard_time": 1766282659,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135590,
       "num": 349958,
       "word": "星光大赏出发",
@@ -219,12 +331,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133935,
+      "num": 133935,
+      "word": "卢昱晓cos朱迪警官",
+      "onboard_time": 1766282298,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125928,
+      "num": 125928,
+      "word": "女生做上门私厨一天做4家月入2万",
+      "onboard_time": 1766277499,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119369,
       "num": 273467,
       "word": "体检报告的这些字眼或是癌症信号",
       "onboard_time": 1766244923,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118898,
+      "num": 118898,
+      "word": "陈妍希岑矜爱李雾岑想一生一世",
+      "onboard_time": 1766278218,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103713,
+      "num": 103713,
+      "word": "苹果炖奶",
+      "onboard_time": 1766281640,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 100850,
@@ -243,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100392,
-      "num": 47637,
-      "word": "女装还在改良男装已经进化了",
-      "onboard_time": 1766273476,
-      "rank": 30,
-      "category": "情感,休闲"
+      "raw_hot": 99095,
+      "num": 99095,
+      "word": "女子结婚14年被丈夫打13年",
+      "onboard_time": 1766280739,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98487,
+      "num": 98487,
+      "word": "肖战藏海传可以确定云合年冠吗",
+      "onboard_time": 1766281279,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 97943,
@@ -259,11 +411,51 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97414,
+      "num": 97414,
+      "word": "中国网球选手操纵比赛被禁赛12年",
+      "onboard_time": 1766277679,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97236,
       "num": 271802,
       "word": "高速狂奔490公里司机要求退车退款",
       "onboard_time": 1766234902,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94794,
+      "num": 94794,
+      "word": "老舅",
+      "onboard_time": 1766280080,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 93384,
+      "word": "长安二十四计热度",
+      "onboard_time": 1766273657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90713,
+      "num": 90713,
+      "word": "王橹杰扑通的心跳不禁泄漏半分",
+      "onboard_time": 1766280621,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 90099,
+      "num": 90099,
+      "word": "哈尔滨下雨是真的大雪人穿雨衣是假的",
+      "onboard_time": 1766281340,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -273,6 +465,14 @@
       "onboard_time": 1766250918,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87298,
+      "num": 87298,
+      "word": "冬至文案",
+      "onboard_time": 1766274977,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84062,
@@ -315,20 +515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75191,
+      "num": 75191,
+      "word": "张萌早八就发了星光大赏造型图",
+      "onboard_time": 1766283020,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75029,
+      "num": 75029,
+      "word": "考研数学",
+      "onboard_time": 1766282479,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 74730,
       "num": 271621,
       "word": "三家银行共被罚上亿元",
       "onboard_time": 1766242162,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74609,
-      "num": 74609,
-      "word": "张彬彬帮毛晓彤提裙子被打手",
-      "onboard_time": 1766273537,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 73699,
@@ -347,12 +555,36 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 72405,
+      "num": 72606,
+      "word": "健康的恋爱关系真的会养人",
+      "onboard_time": 1766272336,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72329,
+      "num": 599539,
+      "word": "男子直播影响游客煽动人肉保安被拘",
+      "onboard_time": 1766273297,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71959,
       "num": 273325,
       "word": "鸿蒙盛典黑科技大盘点",
       "onboard_time": 1766245103,
       "rank": 26,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 65628,
+      "num": 65628,
+      "word": "每天练背3分钟真的会瘦脸",
+      "onboard_time": 1766274379,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 63329,
@@ -371,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61846,
+      "num": 61846,
+      "word": "王源在联合国三分钟全英文演讲",
+      "onboard_time": 1766274257,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60728,
       "num": 271419,
       "word": "考研",
@@ -379,10 +619,42 @@
       "category": "教育"
     },
     {
+      "raw_hot": 60718,
+      "num": 60718,
+      "word": "卢伟冰称小米新手机一定会涨价",
+      "onboard_time": 1766280439,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58385,
+      "num": 58385,
+      "word": "冬至进补宜温补",
+      "onboard_time": 1766282719,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 58150,
+      "num": 58150,
+      "word": "今天这个朋友是一定要出卖的",
+      "onboard_time": 1766283140,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56743,
       "num": 270259,
       "word": "夫妻吵架上头丈夫血管当场气炸",
       "onboard_time": 1766230161,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56158,
+      "num": 56158,
+      "word": "哈尔滨冰雪大世界冰雕滴水",
+      "onboard_time": 1766277979,
       "rank": 49,
       "category": "民生新闻"
     },
@@ -417,14 +689,6 @@
       "onboard_time": 1766246303,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49414,
-      "num": 49414,
-      "word": "一年最冷的日子要来了",
-      "onboard_time": 1766273777,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49290,
@@ -483,28 +747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45210,
-      "num": 170791,
-      "word": "男子直播影响游客煽动人肉保安被拘",
-      "onboard_time": 1766273297,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42075,
       "num": 270394,
       "word": "MMA",
       "onboard_time": 1766220201,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41832,
-      "num": 72606,
-      "word": "健康的恋爱关系真的会养人",
-      "onboard_time": 1766272336,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 37979,
@@ -579,6 +827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 32191,
+      "num": 72407,
+      "word": "丈夫全程喊刹车妻子仍撞上路人",
+      "onboard_time": 1766282961,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31155,
       "num": 139755,
       "word": "丁禹兮出发参加星光大赏",
@@ -649,14 +905,6 @@
       "onboard_time": 1766265553,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23391,
-      "num": 47595,
-      "word": "长安二十四计热度",
-      "onboard_time": 1766273657,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 22468,
