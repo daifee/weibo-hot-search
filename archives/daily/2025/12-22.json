@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766334796407,
+  "endTime": 1766335622849,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846663,
+      "num": 846663,
+      "word": "星光大赏VIP之星",
+      "onboard_time": 1766334802,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 780807,
+      "num": 250072,
+      "word": "别人感谢粉丝 李昀锐感谢孟子义",
+      "onboard_time": 1766334921,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698470,
       "num": 256349,
       "word": "禹宙中欣",
@@ -59,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431124,
+      "num": 278823,
+      "word": "干物妹小埋原型去世",
+      "onboard_time": 1766332462,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 412248,
       "num": 242720,
       "word": "田曦薇美得不知天地为何物了",
       "onboard_time": 1766325686,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400503,
-      "num": 278823,
-      "word": "干物妹小埋原型去世",
-      "onboard_time": 1766332462,
-      "rank": 3,
-      "category": "动漫"
     },
     {
       "raw_hot": 341114,
@@ -139,8 +155,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190864,
+      "num": 226266,
+      "word": "丁禹兮坐轮椅",
+      "onboard_time": 1766331024,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187953,
-      "num": 187953,
+      "num": 190595,
       "word": "周也王玉雯把陈星旭聊走了",
       "onboard_time": 1766322503,
       "rank": 23,
@@ -148,19 +172,11 @@
     },
     {
       "raw_hot": 185843,
-      "num": 185843,
+      "num": 190454,
       "word": "星光大赏奖项",
       "onboard_time": 1766329825,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180520,
-      "num": 226266,
-      "word": "丁禹兮坐轮椅",
-      "onboard_time": 1766331024,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 172387,
@@ -187,31 +203,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150338,
-      "num": 185831,
-      "word": "张真源哄娃 丁程鑫喂水",
-      "onboard_time": 1766323403,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140096,
-      "num": 185683,
-      "word": "宋亚轩你以为你很隐蔽吗",
-      "onboard_time": 1766320823,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138331,
-      "num": 185518,
-      "word": "陈奕恒 来吧",
-      "onboard_time": 1766322623,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128219,
+      "raw_hot": 152840,
       "num": 266987,
       "word": "樊振东3比0豪格",
       "onboard_time": 1766327726,
@@ -219,7 +211,39 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110088,
+      "raw_hot": 150338,
+      "num": 190766,
+      "word": "张真源哄娃 丁程鑫喂水",
+      "onboard_time": 1766323403,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146237,
+      "num": 189069,
+      "word": "丁禹兮内场",
+      "onboard_time": 1766324543,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140096,
+      "num": 190395,
+      "word": "宋亚轩你以为你很隐蔽吗",
+      "onboard_time": 1766320823,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138331,
+      "num": 190308,
+      "word": "陈奕恒 来吧",
+      "onboard_time": 1766322623,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133229,
       "num": 261649,
       "word": "樊振东vs豪格",
       "onboard_time": 1766324426,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 109750,
-      "num": 185464,
+      "num": 190065,
       "word": "李兰迪张新成同框",
       "onboard_time": 1766321903,
       "rank": 28,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 109507,
-      "num": 185257,
+      "num": 189824,
       "word": "星光大赏 替身文学",
       "onboard_time": 1766319563,
       "rank": 30,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 109448,
-      "num": 185125,
+      "num": 190147,
       "word": "莫离",
       "onboard_time": 1766332702,
       "rank": 31,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 108903,
-      "num": 184663,
+      "num": 190165,
       "word": "陈妍希提周柯宇 镜头切陈鑫海",
       "onboard_time": 1766317822,
       "rank": 35,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 104683,
-      "num": 185052,
+      "num": 189718,
       "word": "疯狂动物城3",
       "onboard_time": 1766325085,
       "rank": 32,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 102544,
-      "num": 184851,
+      "num": 189967,
       "word": "官方通报独居女子离世遗产归公",
       "onboard_time": 1766328926,
       "rank": 34,
@@ -276,15 +300,15 @@
     },
     {
       "raw_hot": 96652,
-      "num": 184600,
+      "num": 189599,
       "word": "贺峻霖台下也在默默努力",
       "onboard_time": 1766330125,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 85343,
-      "num": 184511,
+      "raw_hot": 85487,
+      "num": 189894,
       "word": "内场的檀健次daddy级别",
       "onboard_time": 1766326644,
       "rank": 37,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 80457,
-      "num": 184397,
+      "num": 189572,
       "word": "张凌赫陈都灵同框",
       "onboard_time": 1766330845,
       "rank": 38,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 80202,
-      "num": 184266,
+      "num": 189319,
       "word": "宋茜造型师",
       "onboard_time": 1766321063,
       "rank": 39,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 77222,
-      "num": 184151,
+      "num": 189416,
       "word": "吴磊座位",
       "onboard_time": 1766323524,
       "rank": 40,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 76398,
-      "num": 184078,
+      "num": 189734,
       "word": "龚俊亲吻鲨鱼",
       "onboard_time": 1766323884,
       "rank": 41,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 66160,
-      "num": 183805,
+      "num": 188979,
       "word": "开始推理吧",
       "onboard_time": 1766327485,
       "rank": 43,
@@ -339,32 +363,40 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64745,
-      "num": 183664,
-      "word": "私人影院异性陪侍4人被刑拘",
-      "onboard_time": 1766326404,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 62322,
-      "num": 183547,
-      "word": "双轨",
-      "onboard_time": 1766314943,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60974,
-      "num": 183396,
+      "raw_hot": 64867,
+      "num": 189448,
       "word": "时代峰峻否认陈奕恒骂人",
       "onboard_time": 1766322144,
       "rank": 47,
       "category": "艺人"
     },
     {
+      "raw_hot": 64745,
+      "num": 189239,
+      "word": "私人影院异性陪侍4人被刑拘",
+      "onboard_time": 1766326404,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 62915,
+      "num": 189192,
+      "word": "刘宇宁张凌赫金靖一起走红毯",
+      "onboard_time": 1766334741,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62322,
+      "num": 189145,
+      "word": "双轨",
+      "onboard_time": 1766314943,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56163,
-      "num": 185397,
+      "num": 190255,
       "word": "玫瑰盐在我国仅限工业用途",
       "onboard_time": 1766325504,
       "rank": 29,
@@ -372,18 +404,18 @@
     },
     {
       "raw_hot": 55313,
-      "num": 183349,
+      "num": 188812,
       "word": "成毅直播",
       "onboard_time": 1766321363,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 53322,
-      "num": 183219,
-      "word": "刘宇宁张凌赫金靖一起走红毯",
-      "onboard_time": 1766334741,
-      "rank": 49,
+      "raw_hot": 52093,
+      "num": 188924,
+      "word": "技能五子棋",
+      "onboard_time": 1766325504,
+      "rank": 48,
       "category": "综艺"
     },
     {

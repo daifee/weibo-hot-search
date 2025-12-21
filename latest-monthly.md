@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/22 00:33:16
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/22 00:47:02
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ AG超玩会vs上海RNG.M（热度：964267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8FVIP%E4%B9%8B%E6%98%9F%23" target="weibo">
+星光大赏VIP之星（热度：846663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%A9%BF%E5%8D%95%E8%A3%A4%20%E8%A1%80%E7%AE%A1%E5%86%BB%E8%A3%82%23" target="weibo">
 哈尔滨穿单裤 血管冻裂（热度：846635）
 </a>
@@ -2537,6 +2543,12 @@ RW战胜JDG（热度：804085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A3%94%E5%A5%B3%E5%AD%90%E7%97%94%E7%96%AE%E6%89%8B%E6%9C%AF%E5%90%8E%E4%B8%8D%E5%A0%AA%E5%89%A7%E7%97%9B%E8%87%AA%E6%9D%80%23" target="weibo">
 华裔女子痔疮手术后不堪剧痛自杀（热度：783164）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%20%E6%9D%8E%E6%98%80%E9%94%90%E6%84%9F%E8%B0%A2%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
+别人感谢粉丝 李昀锐感谢孟子义（热度：780807）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iG官宣TheShy离场（热度：488363）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9B%9E%E5%BA%94%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A6%81%E5%B0%8F%E5%AD%A9%23" target="weibo">
 沈梦辰回应什么时候要小孩（热度：485092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
-王橹杰高会（热度：485002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张杰跨年演唱会（热度：484560）
 </a>
 </li>
 
