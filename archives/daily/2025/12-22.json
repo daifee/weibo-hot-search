@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766344948727,
+  "endTime": 1766345847063,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -611,12 +611,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 10718,
+      "raw_hot": 11165,
       "num": 32077,
       "word": "46岁独居女子离世遗产归公进展",
       "onboard_time": 1766336899,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10288,
+      "num": 30500,
+      "word": "爱泼斯坦案性贩运价目曝光",
+      "onboard_time": 1766345654,
+      "rank": 48,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
