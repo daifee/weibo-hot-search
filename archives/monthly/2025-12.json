@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766306868634,
+  "endTime": 1766309318866,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1723412,
-      "num": 389232,
+      "num": 603345,
       "word": "昀牵孟绕",
       "onboard_time": 1765497318,
       "rank": 44,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1765002561,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1317194,
+      "num": 659011,
+      "word": "鞠婧祎田曦薇牵手",
+      "onboard_time": 1766307803,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1314495,
@@ -2188,7 +2196,7 @@
     },
     {
       "raw_hot": 957948,
-      "num": 349396,
+      "num": 361899,
       "word": "宋祖儿 红衣小乔",
       "onboard_time": 1766303602,
       "rank": 5,
@@ -2497,6 +2505,14 @@
       "onboard_time": 1764983660,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 907046,
+      "num": 453452,
+      "word": "陈妍希带着小狗来了",
+      "onboard_time": 1766306782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 906534,
@@ -2809,6 +2825,14 @@
       "onboard_time": 1764671661,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 851965,
+      "num": 851965,
+      "word": "考研结束",
+      "onboard_time": 1766308583,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 850737,
@@ -3124,7 +3148,7 @@
     },
     {
       "raw_hot": 803762,
-      "num": 338076,
+      "num": 356417,
       "word": "于正我恨你",
       "onboard_time": 1766304502,
       "rank": 10,
@@ -4131,6 +4155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 683834,
+      "num": 366040,
+      "word": "95花压轴",
+      "onboard_time": 1766305643,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683665,
       "num": 355324,
       "word": "杨旭文新恋情",
@@ -4489,6 +4521,14 @@
       "onboard_time": 1765859003,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655789,
+      "num": 655789,
+      "word": "KSG对战AG",
+      "onboard_time": 1766299641,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 655319,
@@ -5851,14 +5891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567678,
-      "num": 296710,
-      "word": "陈妍希带着小狗来了",
-      "onboard_time": 1766306782,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 567270,
       "num": 193614,
       "word": "梁淞删何美延好友",
@@ -5985,6 +6017,14 @@
       "onboard_time": 1766036001,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561461,
+      "num": 360672,
+      "word": "田曦薇咏梅撞衫",
+      "onboard_time": 1766307503,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 561273,
@@ -6337,14 +6377,6 @@
       "onboard_time": 1764994579,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546509,
-      "num": 499273,
-      "word": "KSG对战AG",
-      "onboard_time": 1766299641,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 546478,
@@ -6851,14 +6883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522255,
-      "num": 298344,
-      "word": "95花压轴",
-      "onboard_time": 1766305643,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 522254,
       "num": 522254,
       "word": "朱雀三号首飞",
@@ -7129,6 +7153,14 @@
       "onboard_time": 1766042001,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508984,
+      "num": 508984,
+      "word": "毛主席纪念堂重要公告",
+      "onboard_time": 1766305102,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 508834,
@@ -7875,6 +7907,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 481344,
+      "num": 353665,
+      "word": "时代少年团红毯炸了炸了",
+      "onboard_time": 1766306782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481298,
       "num": 809883,
       "word": "雅迪毛豆车型",
@@ -8273,14 +8313,6 @@
       "onboard_time": 1765876581,
       "rank": 32,
       "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 465677,
-      "num": 465677,
-      "word": "毛主席纪念堂重要公告",
-      "onboard_time": 1766305102,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 465224,
@@ -11675,6 +11707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366760,
+      "num": 366760,
+      "word": "考研408",
+      "onboard_time": 1766308703,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 366709,
       "num": 239751,
       "word": "月薪15000一年存10w的真实生活",
@@ -12233,6 +12273,14 @@
       "onboard_time": 1766220201,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352286,
+      "num": 352286,
+      "word": "昀牵孟绕后台",
+      "onboard_time": 1766307024,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 352205,
@@ -15107,6 +15155,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 290948,
+      "num": 290948,
+      "word": "白鹿丞磊比心",
+      "onboard_time": 1766306363,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290877,
       "num": 290877,
       "word": "李施嬅 你弄脏了就擦干净",
@@ -15473,14 +15529,6 @@
       "onboard_time": 1764662481,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283784,
-      "num": 283784,
-      "word": "时代少年团红毯炸了炸了",
-      "onboard_time": 1766306782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 283699,
@@ -19283,6 +19331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226685,
+      "num": 226685,
+      "word": "童瑶风格大变",
+      "onboard_time": 1766307084,
+      "rank": 28,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 226609,
       "num": 226609,
       "word": "虞书欣何与给所有情侣合照打个样",
@@ -19505,14 +19561,6 @@
       "onboard_time": 1764992300,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 223255,
-      "num": 223255,
-      "word": "白鹿丞磊比心",
-      "onboard_time": 1766306363,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 223151,
@@ -22875,6 +22923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197478,
+      "num": 197478,
+      "word": "法综",
+      "onboard_time": 1766309062,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197403,
       "num": 197403,
       "word": "谁把我上班这死样拍成剧了",
@@ -23416,6 +23472,14 @@
       "word": "papi坦言20多岁时没工作全靠老公养",
       "onboard_time": 1765602442,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "宋祖儿刘宇宁一起走红毯",
+      "onboard_time": 1766308343,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -25211,6 +25275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "生育压力不该只放女性身上",
+      "onboard_time": 1766305223,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184524,
       "num": 393903,
       "word": "三星堆一青铜造型雕塑被游客掰断",
@@ -26011,6 +26083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179730,
+      "num": 179730,
+      "word": "AG状态",
+      "onboard_time": 1766304502,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179617,
       "num": 179617,
       "word": "杨旭文说唐诡4快来了",
@@ -26297,6 +26377,14 @@
       "onboard_time": 1766295201,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177907,
+      "num": 177907,
+      "word": "孟子义李昀锐下台也牵着手",
+      "onboard_time": 1766308823,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 177888,
@@ -29107,6 +29195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161362,
+      "num": 161362,
+      "word": "吴磊瘦了好多",
+      "onboard_time": 1766308883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161340,
       "num": 161340,
       "word": "李乃文一个坏消息一个好消息",
@@ -30147,6 +30243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "张呈硬把话筒塞给雷淞然",
+      "onboard_time": 1766307562,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156814,
       "num": 156814,
       "word": "院方称房缺1cm影响5个月患儿生长",
@@ -30353,14 +30457,6 @@
       "onboard_time": 1765535901,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156150,
-      "num": 170770,
-      "word": "生育压力不该只放女性身上",
-      "onboard_time": 1766305223,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156128,
@@ -37859,14 +37955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130070,
-      "num": 130070,
-      "word": "AG状态",
-      "onboard_time": 1766304502,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129974,
       "num": 129974,
       "word": "留学生遭美国男友杀害",
@@ -39624,6 +39712,14 @@
       "word": "蒯曼4比2大藤沙月",
       "onboard_time": 1765544783,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124439,
+      "num": 148694,
+      "word": "李盈莹回国康复治疗",
+      "onboard_time": 1766308762,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -57115,6 +57211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78541,
+      "num": 148451,
+      "word": "微博年度汽车大选",
+      "onboard_time": 1766308221,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78516,
       "num": 78516,
       "word": "韦雪前男友自曝喜欢的明星",
@@ -65043,6 +65147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42345,
+      "num": 195372,
+      "word": "时代少年团七缺一",
+      "onboard_time": 1766309182,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42313,
       "num": 262471,
       "word": "鸿蒙3D影像定格精彩",
@@ -68547,6 +68659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29600,
+      "num": 226896,
+      "word": "育儿补贴何时能到家长手里",
+      "onboard_time": 1766307623,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29592,
       "num": 193230,
       "word": "高市早苗内阁高官再曝丑闻",
@@ -68761,6 +68881,14 @@
       "onboard_time": 1764999619,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28731,
+      "num": 227783,
+      "word": "多地政府出钱为老房子强制体检",
+      "onboard_time": 1766307683,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28727,
@@ -70132,7 +70260,7 @@
     },
     {
       "raw_hot": 24183,
-      "num": 390167,
+      "num": 661241,
       "word": "文化中国行冬至节气",
       "onboard_time": 1766304922,
       "rank": 2,
@@ -70897,6 +71025,14 @@
       "onboard_time": 1765460752,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20849,
+      "num": 156882,
+      "word": "安排被停职专家坐诊别怪网友敏感",
+      "onboard_time": 1766307862,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20846,

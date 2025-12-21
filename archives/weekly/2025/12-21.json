@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766306868634,
+  "endTime": 1766309318866,
   "band_list": [
     {
       "raw_hot": 9567666,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1723412,
-      "num": 389232,
+      "num": 603345,
       "word": "昀牵孟绕",
       "onboard_time": 1766305162,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1317194,
+      "num": 659011,
+      "word": "鞠婧祎田曦薇牵手",
+      "onboard_time": 1766307803,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1303004,
       "num": 324785,
       "word": "周柯宇p掉了陈妍希眼线",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 957948,
-      "num": 349396,
+      "num": 361899,
       "word": "宋祖儿 红衣小乔",
       "onboard_time": 1766303602,
       "rank": 5,
@@ -99,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 907046,
+      "num": 453452,
+      "word": "陈妍希带着小狗来了",
+      "onboard_time": 1766306782,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 906003,
       "num": 906003,
       "word": "考研数学二",
@@ -107,8 +123,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 851965,
+      "num": 851965,
+      "word": "考研结束",
+      "onboard_time": 1766308583,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 803762,
-      "num": 338076,
+      "num": 356417,
       "word": "于正我恨你",
       "onboard_time": 1766304502,
       "rank": 10,
@@ -147,12 +171,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 683834,
+      "num": 366040,
+      "word": "95花压轴",
+      "onboard_time": 1766305643,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677351,
       "num": 315343,
       "word": "宋茜婚纱高定",
       "onboard_time": 1766301023,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655789,
+      "num": 655789,
+      "word": "KSG对战AG",
+      "onboard_time": 1766299641,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 650711,
@@ -219,10 +259,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567678,
-      "num": 296710,
-      "word": "陈妍希带着小狗来了",
-      "onboard_time": 1766306782,
+      "raw_hot": 561461,
+      "num": 360672,
+      "word": "田曦薇咏梅撞衫",
+      "onboard_time": 1766307503,
       "rank": 12,
       "category": "综艺"
     },
@@ -241,14 +281,6 @@
       "onboard_time": 1766242763,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546509,
-      "num": 499273,
-      "word": "KSG对战AG",
-      "onboard_time": 1766299641,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 544635,
@@ -275,20 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 522255,
-      "num": 298344,
-      "word": "95花压轴",
-      "onboard_time": 1766305643,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 515379,
       "num": 262483,
       "word": "田曦薇造型师审美",
       "onboard_time": 1766297962,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508984,
+      "num": 508984,
+      "word": "毛主席纪念堂重要公告",
+      "onboard_time": 1766305102,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 508834,
@@ -321,6 +353,14 @@
       "onboard_time": 1766299702,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 481344,
+      "num": 353665,
+      "word": "时代少年团红毯炸了炸了",
+      "onboard_time": 1766306782,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 480528,
@@ -361,14 +401,6 @@
       "onboard_time": 1766244083,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465677,
-      "num": 465677,
-      "word": "毛主席纪念堂重要公告",
-      "onboard_time": 1766305102,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 464727,
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366760,
+      "num": 366760,
+      "word": "考研408",
+      "onboard_time": 1766308703,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 359186,
       "num": 359186,
       "word": "外企集体加入中国内卷",
@@ -513,6 +553,14 @@
       "onboard_time": 1766279478,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352286,
+      "num": 352286,
+      "word": "昀牵孟绕后台",
+      "onboard_time": 1766307024,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 340326,
@@ -555,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317408,
+      "num": 317408,
+      "word": "考研",
+      "onboard_time": 1766231362,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 316853,
       "num": 292208,
       "word": "周也丞磊 新娘新郎",
@@ -595,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290948,
+      "num": 290948,
+      "word": "白鹿丞磊比心",
+      "onboard_time": 1766306363,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284560,
       "num": 203469,
       "word": "周也 武神",
@@ -616,14 +680,6 @@
       "word": "檀健次李兰迪牵手",
       "onboard_time": 1766305162,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 283784,
-      "num": 283784,
-      "word": "时代少年团红毯炸了炸了",
-      "onboard_time": 1766306782,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -715,19 +771,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 226685,
+      "num": 226685,
+      "word": "童瑶风格大变",
+      "onboard_time": 1766307084,
+      "rank": 28,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 224315,
       "num": 221199,
       "word": "王一博身心疲惫正调整状态",
       "onboard_time": 1766282659,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223255,
-      "num": 223255,
-      "word": "白鹿丞磊比心",
-      "onboard_time": 1766306363,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -859,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197478,
+      "num": 197478,
+      "word": "法综",
+      "onboard_time": 1766309062,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195888,
       "num": 462356,
       "word": "工商银行被罚没超4000万元",
@@ -873,6 +937,14 @@
       "onboard_time": 1766236402,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "宋祖儿刘宇宁一起走红毯",
+      "onboard_time": 1766308343,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 192567,
@@ -915,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "生育压力不该只放女性身上",
+      "onboard_time": 1766305223,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184160,
       "num": 184160,
       "word": "三甲医生五问小洛熙主刀医生",
@@ -947,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179730,
+      "num": 179730,
+      "word": "AG状态",
+      "onboard_time": 1766304502,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178810,
       "num": 178810,
       "word": "张宇押题",
@@ -969,6 +1057,14 @@
       "onboard_time": 1766295201,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177907,
+      "num": 177907,
+      "word": "孟子义李昀锐下台也牵着手",
+      "onboard_time": 1766308823,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 177488,
@@ -1059,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161362,
+      "num": 161362,
+      "word": "吴磊瘦了好多",
+      "onboard_time": 1766308883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160595,
       "num": 160595,
       "word": "双轨加更礼",
@@ -1083,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156150,
-      "num": 170770,
-      "word": "生育压力不该只放女性身上",
-      "onboard_time": 1766305223,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "张呈硬把话筒塞给雷淞然",
+      "onboard_time": 1766307562,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 156128,
@@ -1363,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130070,
-      "num": 130070,
-      "word": "AG状态",
-      "onboard_time": 1766304502,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126845,
       "num": 126845,
       "word": "高敏讨好型人格老时候",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1766292623,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124439,
+      "num": 148694,
+      "word": "李盈莹回国康复治疗",
+      "onboard_time": 1766308762,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 122125,
@@ -1659,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99445,
-      "num": 271419,
-      "word": "考研",
-      "onboard_time": 1766231362,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99095,
       "num": 99095,
       "word": "女子结婚14年被丈夫打13年",
@@ -1873,6 +1969,14 @@
       "onboard_time": 1766271856,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78541,
+      "num": 148451,
+      "word": "微博年度汽车大选",
+      "onboard_time": 1766308221,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 74730,
@@ -2211,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42345,
+      "num": 195372,
+      "word": "时代少年团七缺一",
+      "onboard_time": 1766309182,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42075,
       "num": 270394,
       "word": "MMA",
@@ -2363,12 +2475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29600,
+      "num": 226896,
+      "word": "育儿补贴何时能到家长手里",
+      "onboard_time": 1766307623,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29238,
       "num": 73017,
       "word": "你好星期六",
       "onboard_time": 1766235802,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28731,
+      "num": 227783,
+      "word": "多地政府出钱为老房子强制体检",
+      "onboard_time": 1766307683,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28272,
@@ -2396,7 +2524,7 @@
     },
     {
       "raw_hot": 24183,
-      "num": 390167,
+      "num": 661241,
       "word": "文化中国行冬至节气",
       "onboard_time": 1766304922,
       "rank": 2,
@@ -2465,6 +2593,14 @@
       "onboard_time": 1766287640,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20849,
+      "num": 156882,
+      "word": "安排被停职专家坐诊别怪网友敏感",
+      "onboard_time": 1766307862,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19980,
