@@ -1,0 +1,410 @@
+{
+  "runTime": 1766301993962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7522178,
+        "num": 7522178,
+        "word": "星光大赏红毯",
+        "onboard_time": 1766294121,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436072,
+        "num": 436072,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25908,
+        "num": 395003,
+        "word": "通信技术试验卫星二十三号发射成功",
+        "onboard_time": 1766287280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534728,
+        "num": 392664,
+        "word": "星光大赏主持人 双高胎",
+        "onboard_time": 1766295922,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383547,
+        "num": 383547,
+        "word": "KSG对战AG",
+        "onboard_time": 1766299641,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 751038,
+        "num": 381771,
+        "word": "白鹿 林间花仙子",
+        "onboard_time": 1766299340,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393410,
+        "num": 379771,
+        "word": "长安二十四计破万",
+        "onboard_time": 1766300361,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371391,
+        "num": 371391,
+        "word": "大学生不要再玩月薪3000的梗了",
+        "onboard_time": 1766299702,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250933,
+        "num": 250933,
+        "word": "考研数学",
+        "onboard_time": 1766282479,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55115,
+        "num": 250276,
+        "word": "央视曝光私域直播骗人模式",
+        "onboard_time": 1766301561,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911262,
+        "num": 243938,
+        "word": "周柯宇p掉了陈妍希眼线",
+        "onboard_time": 1766295080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694421,
+        "num": 241387,
+        "word": "涉黄私人影院3名00后女员工被罚",
+        "onboard_time": 1766299281,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 677351,
+        "num": 239040,
+        "word": "宋茜婚纱高定",
+        "onboard_time": 1766301023,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297344,
+        "num": 232137,
+        "word": "丁禹兮因病缺席红毯",
+        "onboard_time": 1766298142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429044,
+        "num": 229527,
+        "word": "鞠婧祎珍珠名伶",
+        "onboard_time": 1766292440,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189581,
+        "num": 226022,
+        "word": "原来结婚居然要有三枚戒指",
+        "onboard_time": 1766301441,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397223,
+        "num": 222844,
+        "word": "孙乐言控场能力好强",
+        "onboard_time": 1766299941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280089,
+        "num": 218810,
+        "word": "星光大赏赞助商的数量",
+        "onboard_time": 1766298802,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321661,
+        "num": 213412,
+        "word": "田曦薇造型师审美",
+        "onboard_time": 1766297962,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105848,
+        "num": 212881,
+        "word": "35岁就不配相亲了吗",
+        "onboard_time": 1766300961,
+        "rank": 19,
+        "category": "议题讨论,情感"
+      },
+      {
+        "raw_hot": 694887,
+        "num": 205843,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274446,
+        "num": 205196,
+        "word": "星光大赏变星光小赏",
+        "onboard_time": 1766300780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263831,
+        "num": 199507,
+        "word": "长安二十四计",
+        "onboard_time": 1766300901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197745,
+        "num": 197745,
+        "word": "鞠婧祎9年女王归来",
+        "onboard_time": 1766301023,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191993,
+        "num": 191993,
+        "word": "星光大赏爆灯",
+        "onboard_time": 1766296824,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164562,
+        "num": 164562,
+        "word": "星光大赏直播",
+        "onboard_time": 1766294601,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160606,
+        "num": 160606,
+        "word": "杨幂冬至plog",
+        "onboard_time": 1766298381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145636,
+        "num": 145636,
+        "word": "AG剧透",
+        "onboard_time": 1766300361,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144114,
+        "num": 144114,
+        "word": "贺峻霖 主持首秀",
+        "onboard_time": 1766296224,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140274,
+        "num": 143939,
+        "word": "一家5口人有4口查出甲状腺癌",
+        "onboard_time": 1766295562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143836,
+        "num": 143836,
+        "word": "星光村赏",
+        "onboard_time": 1766301381,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26626,
+        "num": 137065,
+        "word": "黑龙江一煤矿透水事故5人被困",
+        "onboard_time": 1766299702,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135806,
+        "num": 135806,
+        "word": "王安宇瘦了",
+        "onboard_time": 1766298981,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133462,
+        "num": 133462,
+        "word": "周也头纱被踩",
+        "onboard_time": 1766301741,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132578,
+        "num": 132578,
+        "word": "女子被赌徒前夫当着11岁儿子面杀害",
+        "onboard_time": 1766300121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129613,
+        "num": 129613,
+        "word": "星光大赏节目单",
+        "onboard_time": 1766287700,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128842,
+        "num": 128842,
+        "word": "金价又涨了",
+        "onboard_time": 1766295562,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127085,
+        "num": 127085,
+        "word": "广东把冬至过成夏至",
+        "onboard_time": 1766281459,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122954,
+        "num": 122954,
+        "word": "杜海涛居然有下颌线了",
+        "onboard_time": 1766298082,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121548,
+        "num": 121548,
+        "word": "交警要求网友删视频并爆粗口",
+        "onboard_time": 1766291179,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114832,
+        "num": 114832,
+        "word": "吴昕绿野仙踪",
+        "onboard_time": 1766301561,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114766,
+        "num": 114766,
+        "word": "二战日本集中营女性遭遇曝光",
+        "onboard_time": 1766292140,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110696,
+        "num": 110696,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1766300841,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106102,
+        "num": 106102,
+        "word": "饺子",
+        "onboard_time": 1766282840,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102838,
+        "num": 102838,
+        "word": "星光大赏红毯 简陋",
+        "onboard_time": 1766297301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102494,
+        "num": 102494,
+        "word": "短剧圈的半壁江山都来星光大赏了",
+        "onboard_time": 1766300661,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100926,
+        "num": 100926,
+        "word": "李兰迪公主盘发小黑裙",
+        "onboard_time": 1766291360,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96856,
+        "num": 96856,
+        "word": "喜人走红毯也全是活",
+        "onboard_time": 1766301920,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92864,
+        "num": 92864,
+        "word": "Doinb被醉酒粉丝骚扰",
+        "onboard_time": 1766298681,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73850,
+        "num": 92803,
+        "word": "为啥冬天容易胖",
+        "onboard_time": 1766301621,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}

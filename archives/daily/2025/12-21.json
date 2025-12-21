@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766300021757,
+  "endTime": 1766301993962,
   "band_list": [
     {
       "raw_hot": 9567666,
@@ -96,6 +96,30 @@
       "word": "星光大赏节目单",
       "onboard_time": 1766287700,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 751038,
+      "num": 495642,
+      "word": "白鹿 林间花仙子",
+      "onboard_time": 1766299340,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 694421,
+      "num": 430556,
+      "word": "涉黄私人影院3名00后女员工被罚",
+      "onboard_time": 1766299281,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 677351,
+      "num": 239040,
+      "word": "宋茜婚纱高定",
+      "onboard_time": 1766301023,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -211,14 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 495642,
-      "num": 495642,
-      "word": "白鹿 林间花仙子",
-      "onboard_time": 1766299340,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492269,
       "num": 307950,
       "word": "马天宇回应李明德大闹三人行风波",
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430556,
-      "num": 430556,
-      "word": "涉黄私人影院3名00后女员工被罚",
-      "onboard_time": 1766299281,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 427696,
       "num": 198998,
       "word": "左一为打助理道歉",
@@ -312,6 +320,14 @@
       "word": "田曦薇金色流苏裙",
       "onboard_time": 1766293580,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 397223,
+      "num": 222844,
+      "word": "孙乐言控场能力好强",
+      "onboard_time": 1766299941,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1766246722,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393410,
+      "num": 379771,
+      "word": "长安二十四计破万",
+      "onboard_time": 1766300361,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 391274,
@@ -360,6 +384,14 @@
       "word": "考研数学答案",
       "onboard_time": 1766289499,
       "rank": 21,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 371391,
+      "num": 371391,
+      "word": "大学生不要再玩月薪3000的梗了",
+      "onboard_time": 1766299702,
+      "rank": 30,
       "category": "教育"
     },
     {
@@ -481,6 +513,22 @@
       "onboard_time": 1766297123,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274446,
+      "num": 205196,
+      "word": "星光大赏变星光小赏",
+      "onboard_time": 1766300780,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263831,
+      "num": 270744,
+      "word": "长安二十四计",
+      "onboard_time": 1766226680,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 256890,
@@ -627,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197745,
+      "num": 197745,
+      "word": "鞠婧祎9年女王归来",
+      "onboard_time": 1766301023,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197603,
       "num": 197603,
       "word": "现在就出发3",
@@ -651,14 +707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194195,
-      "num": 142681,
-      "word": "大学生不要再玩月薪3000的梗了",
-      "onboard_time": 1766299702,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 192567,
       "num": 192567,
       "word": "一家5口人有4口查出甲状腺癌",
@@ -673,6 +721,14 @@
       "onboard_time": 1766292260,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189581,
+      "num": 226022,
+      "word": "原来结婚居然要有三枚戒指",
+      "onboard_time": 1766301441,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 189437,
@@ -939,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145636,
+      "num": 145636,
+      "word": "AG剧透",
+      "onboard_time": 1766300361,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145345,
       "num": 299519,
       "word": "穆祉丞王橹杰同框",
@@ -953,6 +1017,14 @@
       "onboard_time": 1766285119,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143836,
+      "num": 143836,
+      "word": "星光村赏",
+      "onboard_time": 1766301381,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 143469,
@@ -995,12 +1067,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135806,
+      "num": 135806,
+      "word": "王安宇瘦了",
+      "onboard_time": 1766298981,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135590,
       "num": 349958,
       "word": "星光大赏出发",
       "onboard_time": 1766221161,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133462,
+      "num": 133462,
+      "word": "周也头纱被踩",
+      "onboard_time": 1766301741,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132578,
+      "num": 132578,
+      "word": "女子被赌徒前夫当着11岁儿子面杀害",
+      "onboard_time": 1766300121,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131578,
@@ -1016,14 +1112,6 @@
       "word": "李昀锐allblack西装",
       "onboard_time": 1766286860,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127693,
-      "num": 127693,
-      "word": "王安宇瘦了",
-      "onboard_time": 1766298981,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1115,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118890,
-      "num": 118890,
-      "word": "孙乐言控场能力好强",
-      "onboard_time": 1766299941,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117950,
       "num": 117950,
       "word": "印度一只个股暴涨55000%",
@@ -1163,12 +1243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114832,
+      "num": 114832,
+      "word": "吴昕绿野仙踪",
+      "onboard_time": 1766301561,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113491,
       "num": 113491,
       "word": "秦岚星光大赏cos双生花",
       "onboard_time": 1766298501,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110696,
+      "num": 110696,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1766300841,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 109468,
@@ -1211,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105848,
+      "num": 212881,
+      "word": "35岁就不配相亲了吗",
+      "onboard_time": 1766300961,
+      "rank": 19,
+      "category": "议题讨论,情感"
+    },
+    {
       "raw_hot": 102627,
       "num": 116929,
       "word": "剑来阿良猛是一种感觉",
       "onboard_time": 1766291300,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 102494,
+      "num": 102494,
+      "word": "短剧圈的半壁江山都来星光大赏了",
+      "onboard_time": 1766300661,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 101434,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1766234902,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96856,
+      "num": 96856,
+      "word": "喜人走红毯也全是活",
+      "onboard_time": 1766301920,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 96071,
@@ -1449,6 +1569,14 @@
       "onboard_time": 1766242162,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73850,
+      "num": 92803,
+      "word": "为啥冬天容易胖",
+      "onboard_time": 1766301621,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 73699,
@@ -1659,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55115,
+      "num": 250276,
+      "word": "央视曝光私域直播骗人模式",
+      "onboard_time": 1766301561,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52970,
       "num": 271145,
       "word": "央视办的演唱会才是天花板",
@@ -1729,14 +1865,6 @@
       "onboard_time": 1766299702,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46899,
-      "num": 270744,
-      "word": "长安二十四计",
-      "onboard_time": 1766226680,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 46626,
