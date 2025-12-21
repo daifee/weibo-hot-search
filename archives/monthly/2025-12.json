@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766349011615,
+  "endTime": 1766349808349,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -72915,6 +72915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18891,
+      "num": 30500,
+      "word": "爱泼斯坦案性贩运价目曝光",
+      "onboard_time": 1766345654,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18885,
       "num": 34530,
       "word": "赵今麦宋威龙互拍",
@@ -73281,14 +73289,6 @@
       "onboard_time": 1764966554,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17053,
-      "num": 30500,
-      "word": "爱泼斯坦案性贩运价目曝光",
-      "onboard_time": 1766345654,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16997,
