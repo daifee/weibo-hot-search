@@ -1,0 +1,410 @@
+{
+  "runTime": 1766284551225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346061,
+        "num": 1346061,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937460,
+        "num": 937460,
+        "word": "央视曝光旧手机回收猫腻",
+        "onboard_time": 1766278759,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65581,
+        "num": 900973,
+        "word": "男子直播影响游客煽动人肉保安被拘",
+        "onboard_time": 1766273297,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884025,
+        "num": 884025,
+        "word": "张韶涵回应裁员裁到大动脉",
+        "onboard_time": 1766281399,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294285,
+        "num": 294285,
+        "word": "今日23时03分冬至",
+        "onboard_time": 1766277739,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255442,
+        "num": 255442,
+        "word": "张萌早八就发了星光大赏造型图",
+        "onboard_time": 1766283020,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332720,
+        "num": 255044,
+        "word": "冬至踩小人",
+        "onboard_time": 1766282540,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226184,
+        "num": 226184,
+        "word": "台北艾滋病伤者在长期服药稳定控制",
+        "onboard_time": 1766240543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276869,
+        "num": 220181,
+        "word": "饺子",
+        "onboard_time": 1766282840,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205537,
+        "num": 205537,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528346,
+        "num": 205284,
+        "word": "怎么李明德又要截爆星光大赏了",
+        "onboard_time": 1766243722,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366046,
+        "num": 198998,
+        "word": "左一为打助理道歉",
+        "onboard_time": 1766278161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301205,
+        "num": 198300,
+        "word": "胡锡进为小洛熙发声",
+        "onboard_time": 1766279478,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243236,
+        "num": 194535,
+        "word": "卢昱晓cos朱迪警官",
+        "onboard_time": 1766282298,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 190510,
+        "word": "王一博身心疲惫正调整状态",
+        "onboard_time": 1766282659,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206278,
+        "num": 185681,
+        "word": "女装还在改良男装已经进化了",
+        "onboard_time": 1766273476,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 184529,
+        "num": 184529,
+        "word": "丈夫全程喊刹车妻子仍撞上路人",
+        "onboard_time": 1766282961,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184160,
+        "num": 184160,
+        "word": "三甲医生五问小洛熙主刀医生",
+        "onboard_time": 1766283800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162172,
+        "num": 162172,
+        "word": "马天宇回应李明德大闹三人行风波",
+        "onboard_time": 1766238863,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147136,
+        "num": 147136,
+        "word": "毛晓彤星光大赏没约到摄影师",
+        "onboard_time": 1766284160,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256723,
+        "num": 146855,
+        "word": "广东把冬至过成夏至",
+        "onboard_time": 1766281459,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145720,
+        "num": 145720,
+        "word": "甜心格格影视化",
+        "onboard_time": 1766274317,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143397,
+        "num": 143397,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142710,
+        "num": 142710,
+        "word": "62岁大爷预警滑坡全村0伤亡",
+        "onboard_time": 1766277679,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442146,
+        "num": 142571,
+        "word": "张彬彬帮毛晓彤提裙子被打手",
+        "onboard_time": 1766273537,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118550,
+        "num": 118550,
+        "word": "女友家中两人患癌小伙犹豫该不该结婚",
+        "onboard_time": 1766243362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117950,
+        "num": 117950,
+        "word": "印度一只个股暴涨55000%",
+        "onboard_time": 1766283859,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108476,
+        "num": 108476,
+        "word": "女生做上门私厨一天做4家月入2万",
+        "onboard_time": 1766277499,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106984,
+        "num": 106984,
+        "word": "一年最冷的日子要来了",
+        "onboard_time": 1766273777,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101082,
+        "num": 101082,
+        "word": "冬至文案",
+        "onboard_time": 1766274977,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95050,
+        "num": 95050,
+        "word": "苹果炖奶",
+        "onboard_time": 1766281640,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94141,
+        "num": 94141,
+        "word": "长安二十四计热度",
+        "onboard_time": 1766273657,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93742,
+        "num": 93742,
+        "word": "睡觉把手举过头顶为什么很舒服",
+        "onboard_time": 1766245461,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90220,
+        "num": 90220,
+        "word": "肖战藏海传可以确定云合年冠吗",
+        "onboard_time": 1766281279,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87526,
+        "num": 87526,
+        "word": "台湾宁愿赔钱提前退伍人数暴增",
+        "onboard_time": 1766284099,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86482,
+        "num": 86482,
+        "word": "女子结婚14年被丈夫打13年",
+        "onboard_time": 1766280739,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84848,
+        "num": 84848,
+        "word": "杜兰特与布鲁斯布朗互喷",
+        "onboard_time": 1766283859,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83690,
+        "num": 83690,
+        "word": "陈妍希岑矜爱李雾岑想一生一世",
+        "onboard_time": 1766278218,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83617,
+        "num": 83617,
+        "word": "双轨热度",
+        "onboard_time": 1766241564,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81745,
+        "num": 81745,
+        "word": "樊振东当选欧冠本场最佳球员",
+        "onboard_time": 1766283800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80330,
+        "num": 80330,
+        "word": "离世女子在同院做过2次痔疮手术",
+        "onboard_time": 1766283859,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72843,
+        "num": 72843,
+        "word": "哈尔滨下雨是真的大雪人穿雨衣是假的",
+        "onboard_time": 1766281340,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72433,
+        "num": 72433,
+        "word": "工商银行被罚没超4000万元",
+        "onboard_time": 1766240784,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 70566,
+        "num": 70566,
+        "word": "东北嫡长孙的直播实力",
+        "onboard_time": 1766283439,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69734,
+        "num": 69734,
+        "word": "老舅",
+        "onboard_time": 1766280080,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65496,
+        "num": 65496,
+        "word": "考研数学",
+        "onboard_time": 1766282479,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65344,
+        "num": 65344,
+        "word": "今天这个朋友是一定要出卖的",
+        "onboard_time": 1766283140,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65210,
+        "num": 65210,
+        "word": "中国网球选手操纵比赛被禁赛12年",
+        "onboard_time": 1766277679,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64501,
+        "num": 64501,
+        "word": "意大利语好吵",
+        "onboard_time": 1766284339,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63215,
+        "num": 63215,
+        "word": "王橹杰扑通的心跳不禁泄漏半分",
+        "onboard_time": 1766280621,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系澳门#"
+    }
+  }
+}
