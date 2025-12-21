@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766295901464,
+  "endTime": 1766299240591,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -41,6 +41,14 @@
       "onboard_time": 1764910701,
       "rank": 0,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 9567666,
+      "num": 9567666,
+      "word": "星光大赏红毯",
+      "onboard_time": 1766294121,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 9194123,
@@ -137,14 +145,6 @@
       "onboard_time": 1765597462,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 5488933,
-      "num": 5488933,
-      "word": "星光大赏红毯",
-      "onboard_time": 1766294121,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 4647608,
@@ -1176,6 +1176,14 @@
       "word": "陈伟霆首谈官宣生子原因",
       "onboard_time": 1765518081,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1303004,
+      "num": 270120,
+      "word": "周柯宇p掉了陈妍希眼线",
+      "onboard_time": 1766295080,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -4635,14 +4643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 640830,
-      "num": 270120,
-      "word": "周柯宇p掉了陈妍希眼线",
-      "onboard_time": 1766295080,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 640303,
       "num": 248389,
       "word": "使馆人员带蓝战非到安全屋",
@@ -5531,6 +5531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 581573,
+      "num": 242587,
+      "word": "丁禹兮因病缺席红毯",
+      "onboard_time": 1766298142,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581472,
       "num": 394474,
       "word": "多方回应女童发烧入院用药后夭折",
@@ -5737,6 +5745,14 @@
       "onboard_time": 1765020562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569825,
+      "num": 317048,
+      "word": "星光大赏主持人 双高胎",
+      "onboard_time": 1766295922,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 569177,
@@ -6873,6 +6889,14 @@
       "onboard_time": 1766113221,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515379,
+      "num": 242312,
+      "word": "田曦薇造型师审美",
+      "onboard_time": 1766297962,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 514818,
@@ -10435,6 +10459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395921,
+      "num": 290089,
+      "word": "星光大赏爆灯",
+      "onboard_time": 1766296824,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395896,
       "num": 185681,
       "word": "转念花开 贾玲张小斐杨紫",
@@ -13875,6 +13907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313348,
+      "num": 242175,
+      "word": "星光大赏赞助商的数量",
+      "onboard_time": 1766298802,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313313,
       "num": 191137,
       "word": "疯狂动物城 邦邦硬DQ冰激凌",
@@ -15657,6 +15697,14 @@
       "onboard_time": 1765110800,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276595,
+      "num": 241988,
+      "word": "孟子义穿ES",
+      "onboard_time": 1766297123,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 276501,
@@ -20195,6 +20243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212586,
+      "num": 212586,
+      "word": "贺峻霖 主持首秀",
+      "onboard_time": 1766296224,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212320,
       "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
@@ -20849,6 +20905,14 @@
       "onboard_time": 1765293921,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206656,
+      "num": 206656,
+      "word": "杜海涛居然有下颌线了",
+      "onboard_time": 1766298082,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 206611,
@@ -23323,6 +23387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192567,
+      "num": 192567,
+      "word": "一家5口人有4口查出甲状腺癌",
+      "onboard_time": 1766295562,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192546,
       "num": 309796,
       "word": "吴敬平说樊振东的技术永远多一板",
@@ -25187,6 +25259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182738,
+      "num": 182738,
+      "word": "金价又涨了",
+      "onboard_time": 1765857083,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182716,
       "num": 182716,
       "word": "下雪后人体7成的热量从头部散发",
@@ -26553,6 +26633,14 @@
       "onboard_time": 1765869083,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173705,
+      "num": 173705,
+      "word": "杨幂冬至plog",
+      "onboard_time": 1766298381,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 173684,
@@ -29115,6 +29203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159540,
+      "num": 159540,
+      "word": "星光大赏偶遇檀健次遛弯",
+      "onboard_time": 1766298202,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159497,
       "num": 206527,
       "word": "王楚然丞磊拍了love",
@@ -29497,6 +29593,14 @@
       "onboard_time": 1764750801,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157987,
+      "num": 157987,
+      "word": "星光大赏红毯 简陋",
+      "onboard_time": 1766297301,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 157978,
@@ -30001,6 +30105,14 @@
       "onboard_time": 1765159160,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 122218,
+      "word": "Doinb被醉酒粉丝骚扰",
+      "onboard_time": 1766298681,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 156004,
@@ -30771,6 +30883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152972,
+      "num": 106069,
+      "word": "白鹿黑色亮片高定",
+      "onboard_time": 1766297962,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152969,
       "num": 152969,
       "word": "朱志鑫头像还没有换回来",
@@ -31313,14 +31433,6 @@
       "onboard_time": 1764567023,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 150389,
-      "num": 150389,
-      "word": "一家5口人有4口查出甲状腺癌",
-      "onboard_time": 1766295562,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150371,
@@ -39763,14 +39875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122841,
-      "num": 155900,
-      "word": "金价又涨了",
-      "onboard_time": 1765857083,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 122840,
       "num": 122840,
       "word": "刘耀文高会",
@@ -40561,6 +40665,14 @@
       "onboard_time": 1764568882,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120977,
+      "num": 120977,
+      "word": "张艺凡红毯暂停我先吃个饭",
+      "onboard_time": 1766297602,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 120973,
@@ -43699,6 +43811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113491,
+      "num": 113491,
+      "word": "秦岚星光大赏cos双生花",
+      "onboard_time": 1766298501,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113489,
       "num": 113489,
       "word": "杨幂上次嫌弃别人拍照还是赵又廷",
@@ -46011,6 +46131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107560,
+      "num": 107560,
+      "word": "王赫野你也没放过何老师",
+      "onboard_time": 1766298802,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107529,
       "num": 107529,
       "word": "山姆回应超市金柑里吃出蠕动活虫",
@@ -46033,6 +46161,14 @@
       "onboard_time": 1764898340,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107496,
+      "num": 107496,
+      "word": "姜暮困在了泰兰德的二十岁",
+      "onboard_time": 1766297362,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107458,
@@ -46465,6 +46601,14 @@
       "onboard_time": 1765881142,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106248,
+      "num": 106248,
+      "word": "邓恩熙好明媚的生命力",
+      "onboard_time": 1766298442,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 106181,
@@ -47033,6 +47177,14 @@
       "onboard_time": 1764898999,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104841,
+      "num": 104841,
+      "word": "王安宇瘦了",
+      "onboard_time": 1766298981,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 104792,
@@ -48513,6 +48665,14 @@
       "onboard_time": 1765079600,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101434,
+      "num": 101434,
+      "word": "最爆现偶第一是谁",
+      "onboard_time": 1766295922,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101432,
@@ -50753,6 +50913,14 @@
       "onboard_time": 1764582023,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96071,
+      "num": 96071,
+      "word": "这居然是55岁的鲁豫",
+      "onboard_time": 1766296521,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 96067,
@@ -55587,6 +55755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82074,
+      "num": 106421,
+      "word": "中国留学生正在卷日本顶尖高校",
+      "onboard_time": 1766298202,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 82073,
       "num": 82073,
       "word": "肖战第二部预售破亿的电影",
@@ -58212,7 +58388,7 @@
     },
     {
       "raw_hot": 70673,
-      "num": 103668,
+      "num": 105057,
       "word": "海信世界杯定制产品亮相",
       "onboard_time": 1766293521,
       "rank": 48,
@@ -60009,6 +60185,14 @@
       "onboard_time": 1765294882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61784,
+      "num": 104916,
+      "word": "华晨宇说自己早期说话不过脑子",
+      "onboard_time": 1766297722,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 61762,
@@ -66049,6 +66233,14 @@
       "onboard_time": 1765797562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35735,
+      "num": 95633,
+      "word": "快船西部垫底",
+      "onboard_time": 1766297482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 35691,
