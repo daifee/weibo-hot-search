@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766328149970,
+  "endTime": 1766330817135,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -2763,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 875036,
+      "num": 284830,
+      "word": "检察官为儿子强奸未成年做无罪辩护",
+      "onboard_time": 1766326105,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873026,
       "num": 845072,
       "word": "何炅 已经在努力劝架了",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1764733764,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 870446,
+      "num": 279105,
+      "word": "禹宙中欣",
+      "onboard_time": 1766329225,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 868374,
@@ -3433,14 +3449,6 @@
       "onboard_time": 1765244781,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 765823,
-      "num": 284830,
-      "word": "检察官为儿子强奸未成年做无罪辩护",
-      "onboard_time": 1766326105,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 762179,
@@ -12515,6 +12523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352530,
+      "num": 273956,
+      "word": "田曦薇美得不知天地为何物了",
+      "onboard_time": 1766325686,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352286,
       "num": 352286,
       "word": "昀牵孟绕后台",
@@ -12961,6 +12977,14 @@
       "onboard_time": 1765714044,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 342340,
+      "num": 347721,
+      "word": "央视曝光旧衣回收产业链内幕",
+      "onboard_time": 1766326945,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 342192,
@@ -15235,6 +15259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 295661,
+      "num": 295661,
+      "word": "疯狂动物城3",
+      "onboard_time": 1766325085,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295541,
       "num": 475393,
       "word": "被白嫖家教的清华小伙已收到课时费",
@@ -15604,7 +15636,7 @@
     },
     {
       "raw_hot": 288431,
-      "num": 288431,
+      "num": 289503,
       "word": "樊振东3比0豪格",
       "onboard_time": 1766327726,
       "rank": 4,
@@ -16499,14 +16531,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 273956,
-      "num": 273956,
-      "word": "田曦薇美得不知天地为何物了",
-      "onboard_time": 1766325686,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273732,
       "num": 4022064,
       "word": "大湾区大学正式成立",
@@ -17153,6 +17177,14 @@
       "onboard_time": 1765848621,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262035,
+      "num": 262035,
+      "word": "朱美吉好美",
+      "onboard_time": 1766328147,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 261881,
@@ -18033,14 +18065,6 @@
       "onboard_time": 1766023999,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249697,
-      "num": 249697,
-      "word": "疯狂动物城3",
-      "onboard_time": 1766325085,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 249289,
@@ -20145,6 +20169,14 @@
       "onboard_time": 1765303216,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221387,
+      "num": 292783,
+      "word": "早点 退役",
+      "onboard_time": 1766327606,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 221225,
@@ -22899,6 +22931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200609,
+      "num": 200609,
+      "word": "时代少年团领奖",
+      "onboard_time": 1766329884,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200578,
       "num": 199085,
       "word": "张凌赫已连续11个月换自动回复",
@@ -23955,6 +23995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 194901,
+      "num": 194901,
+      "word": "贺峻霖台下也在默默努力",
+      "onboard_time": 1766330125,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194792,
       "num": 194792,
       "word": "桃黑黑中奖名单",
@@ -24177,6 +24225,14 @@
       "onboard_time": 1766042661,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193413,
+      "num": 193413,
+      "word": "星光大赏奖项",
+      "onboard_time": 1766329825,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 193371,
@@ -24889,6 +24945,14 @@
       "onboard_time": 1764649702,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "黄雅琼郑思维退役",
+      "onboard_time": 1766329884,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189414,
@@ -28347,14 +28411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 169501,
-      "num": 169501,
-      "word": "早点 退役",
-      "onboard_time": 1766327606,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169469,
       "num": 800074,
       "word": "A股行情",
@@ -28961,6 +29017,14 @@
       "onboard_time": 1765517423,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166362,
+      "num": 286603,
+      "word": "王林问鼎新皮肤",
+      "onboard_time": 1766330185,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 166301,
@@ -29593,6 +29657,14 @@
       "onboard_time": 1765003221,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162836,
+      "num": 162836,
+      "word": "田曦薇单马尾好御",
+      "onboard_time": 1766328505,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 162739,
@@ -31608,6 +31680,14 @@
       "word": "SNH48杨冰怡花路是自己走出来的",
       "onboard_time": 1766117900,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154191,
+      "num": 154191,
+      "word": "余宇涵突袭直播",
+      "onboard_time": 1766329884,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -35249,14 +35329,6 @@
       "onboard_time": 1766148201,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139994,
-      "num": 347721,
-      "word": "央视曝光旧衣回收产业链内幕",
-      "onboard_time": 1766326945,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 139920,
@@ -40425,6 +40497,14 @@
       "onboard_time": 1765016063,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124917,
+      "num": 127415,
+      "word": "苗梦初淘汰",
+      "onboard_time": 1766328566,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 124913,
@@ -46785,6 +46865,14 @@
       "onboard_time": 1766228901,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109325,
+      "num": 186373,
+      "word": "官方通报独居女子离世遗产归公",
+      "onboard_time": 1766328926,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109316,
@@ -57667,6 +57755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80998,
+      "num": 178444,
+      "word": "音综迪丽热巴 偏偏你最争气",
+      "onboard_time": 1766329585,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80921,
       "num": 80921,
       "word": "张予曦迅猛龙同框",
@@ -58745,6 +58841,14 @@
       "onboard_time": 1766076437,
       "rank": 48,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 76113,
+      "num": 173777,
+      "word": "小洛熙事件调查惩前更要毖后",
+      "onboard_time": 1766329585,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 76112,
@@ -61251,6 +61355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64440,
+      "num": 238345,
+      "word": "小洛熙事件三大疑问",
+      "onboard_time": 1766330125,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64387,
       "num": 110973,
       "word": "00后男子冒充公务员骗多位女性百万",
@@ -61769,6 +61881,14 @@
       "onboard_time": 1766297722,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61771,
+      "num": 166698,
+      "word": "华西医生分享治疗房缺患儿",
+      "onboard_time": 1766330426,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61762,
@@ -64857,6 +64977,14 @@
       "onboard_time": 1765604363,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47798,
+      "num": 229677,
+      "word": "长安二十四计纯享加一计",
+      "onboard_time": 1766327785,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 47729,
@@ -70019,6 +70147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28661,
+      "num": 152625,
+      "word": "被人情绑架莫名背了23万贷款",
+      "onboard_time": 1766329225,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28644,
       "num": 195321,
       "word": "威神V和V头鞋有多智酷",
@@ -72883,14 +73019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17366,
-      "num": 229677,
-      "word": "长安二十四计纯享加一计",
-      "onboard_time": 1766327785,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17230,
       "num": 133781,
       "word": "新国标电动自行车能否搭载儿童",
@@ -73729,6 +73857,14 @@
       "onboard_time": 1766087414,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13190,
+      "num": 183805,
+      "word": "老年公寓护工被曝手戳老人头部",
+      "onboard_time": 1766330064,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13162,
