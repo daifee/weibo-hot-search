@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766359586677,
+  "endTime": 1766360418280,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1246664,
+      "num": 327018,
+      "word": "检察官为儿子强奸未成年做无罪辩护",
+      "onboard_time": 1766326105,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1060640,
       "num": 497952,
       "word": "星光大赏 替身文学",
@@ -112,14 +120,6 @@
       "word": "央视曝光旧手机回收猫腻",
       "onboard_time": 1766278759,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1000202,
-      "num": 327018,
-      "word": "检察官为儿子强奸未成年做无罪辩护",
-      "onboard_time": 1766326105,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673781,
+      "num": 309722,
+      "word": "孟子义摔倒李昀锐的反应",
+      "onboard_time": 1766336239,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655789,
       "num": 655789,
       "word": "KSG对战AG",
@@ -369,14 +377,6 @@
       "onboard_time": 1766302041,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 611217,
-      "num": 289657,
-      "word": "孟子义摔倒李昀锐的反应",
-      "onboard_time": 1766336239,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 603717,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449993,
+      "num": 904655,
+      "word": "央视曝光旧衣回收产业",
+      "onboard_time": 1766330965,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448426,
       "num": 308172,
       "word": "张凌赫刘宇宁 鬼怪",
@@ -881,14 +889,6 @@
       "onboard_time": 1766307024,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347241,
-      "num": 347241,
-      "word": "央视曝光旧衣回收产业",
-      "onboard_time": 1766330965,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345557,
@@ -1155,7 +1155,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268607,
+      "raw_hot": 269365,
       "num": 561013,
       "word": "私人影院异性陪侍4人被刑拘",
       "onboard_time": 1766326404,
@@ -1651,6 +1651,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 195522,
+      "num": 195522,
+      "word": "腾讯视频 狠狠惩罚不来的人",
+      "onboard_time": 1766353215,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195283,
       "num": 273956,
       "word": "刘宇宁耳返炸到耳朵啦",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1766306002,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182018,
-      "num": 182018,
-      "word": "腾讯视频 狠狠惩罚不来的人",
-      "onboard_time": 1766353215,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 180582,
@@ -2451,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135476,
+      "num": 189967,
+      "word": "官方通报独居女子离世遗产归公",
+      "onboard_time": 1766328926,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 134035,
       "num": 134035,
       "word": "豆瓣崩了",
@@ -2488,6 +2496,14 @@
       "word": "李昀锐allblack西装",
       "onboard_time": 1766286860,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130345,
+      "num": 101602,
+      "word": "曹骏回应大闹星光大赏",
+      "onboard_time": 1766349974,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -2609,14 +2625,6 @@
       "onboard_time": 1766299822,
       "rank": 34,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 122107,
-      "num": 189967,
-      "word": "官方通报独居女子离世遗产归公",
-      "onboard_time": 1766328926,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 120977,
@@ -2747,14 +2755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114300,
-      "num": 97511,
-      "word": "曹骏回应大闹星光大赏",
-      "onboard_time": 1766349974,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113491,
       "num": 113491,
       "word": "秦岚星光大赏cos双生花",
@@ -2780,11 +2780,19 @@
     },
     {
       "raw_hot": 110346,
-      "num": 86296,
+      "num": 99545,
       "word": "萨尔布吕肯3比2杜塞尔多夫",
       "onboard_time": 1766358437,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110157,
+      "num": 97815,
+      "word": "每次星光大赏19年都要出来营业",
+      "onboard_time": 1766356516,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 109468,
@@ -2995,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97557,
+      "num": 97557,
+      "word": "每天吃猪油可控制体重和慢性炎症",
+      "onboard_time": 1766359699,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97414,
       "num": 97414,
       "word": "中国网球选手操纵比赛被禁赛12年",
@@ -3067,12 +3083,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90111,
+      "num": 132440,
+      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
+      "onboard_time": 1766336419,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90099,
       "num": 90099,
       "word": "哈尔滨下雨是真的大雪人穿雨衣是假的",
       "onboard_time": 1766281340,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89980,
+      "num": 89980,
+      "word": "孟子义摔倒丁禹兮把鞠婧祎吓了一跳",
+      "onboard_time": 1766359940,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 89209,
@@ -3097,14 +3129,6 @@
       "onboard_time": 1766305823,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86432,
-      "num": 86432,
-      "word": "每次星光大赏19年都要出来营业",
-      "onboard_time": 1766356516,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 85347,
@@ -3251,11 +3275,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78081,
+      "num": 78081,
+      "word": "00后女孩常熬夜压力大确诊乳腺癌",
+      "onboard_time": 1766359879,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77349,
       "num": 155914,
       "word": "糟了这波是冲着刘宇宁来的",
       "onboard_time": 1766324244,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76129,
+      "num": 76129,
+      "word": "徐志胜你拿什么和张凌赫刘宇宁争",
+      "onboard_time": 1766359879,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -3347,11 +3387,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68927,
-      "num": 132440,
-      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
-      "onboard_time": 1766336419,
-      "rank": 18,
+      "raw_hot": 70105,
+      "num": 86281,
+      "word": "爱泼斯坦案性贩运价目曝光",
+      "onboard_time": 1766345654,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68986,
+      "num": 86329,
+      "word": "杀害一家三口案嫌疑人父亲很气愤",
+      "onboard_time": 1766356396,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3507,14 +3555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57166,
-      "num": 86281,
-      "word": "爱泼斯坦案性贩运价目曝光",
-      "onboard_time": 1766345654,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56743,
       "num": 270259,
       "word": "夫妻吵架上头丈夫血管当场气炸",
@@ -3563,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53006,
+      "num": 86261,
+      "word": "杨紫冰雪女王造型",
+      "onboard_time": 1766350214,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52970,
       "num": 271145,
       "word": "央视办的演唱会才是天花板",
@@ -3587,12 +3635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52074,
-      "num": 86261,
-      "word": "杨紫冰雪女王造型",
-      "onboard_time": 1766350214,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 52405,
+      "num": 52405,
+      "word": "星光大赏第一排的含金量",
+      "onboard_time": 1766359940,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51599,
+      "num": 49374,
+      "word": "现在就出发",
+      "onboard_time": 1766359879,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 51003,
@@ -3659,20 +3715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48039,
-      "num": 86329,
-      "word": "杀害一家三口案嫌疑人父亲很气愤",
-      "onboard_time": 1766356396,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47798,
       "num": 229677,
       "word": "长安二十四计纯享加一计",
       "onboard_time": 1766327785,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47652,
+      "num": 86193,
+      "word": "年度短剧之星",
+      "onboard_time": 1766340975,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 46985,
@@ -3689,6 +3745,14 @@
       "onboard_time": 1766229262,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46196,
+      "num": 46196,
+      "word": "冬日来信",
+      "onboard_time": 1766359758,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 46169,
@@ -3721,14 +3785,6 @@
       "onboard_time": 1766289681,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42103,
-      "num": 86193,
-      "word": "年度短剧之星",
-      "onboard_time": 1766340975,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 42075,

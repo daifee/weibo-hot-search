@@ -1,0 +1,410 @@
+{
+  "runTime": 1766360418280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 449993,
+        "num": 904655,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433933,
+        "num": 433933,
+        "word": "星光大赏VIP之星",
+        "onboard_time": 1766334802,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24150,
+        "num": 339555,
+        "word": "冬至是春节的预告片",
+        "onboard_time": 1766324604,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673781,
+        "num": 309722,
+        "word": "孟子义摔倒李昀锐的反应",
+        "onboard_time": 1766336239,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269365,
+        "num": 269365,
+        "word": "私人影院异性陪侍4人被刑拘",
+        "onboard_time": 1766326404,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 195522,
+        "num": 195522,
+        "word": "腾讯视频 狠狠惩罚不来的人",
+        "onboard_time": 1766353215,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190991,
+        "num": 190991,
+        "word": "能考上二本其实已经很厉害了",
+        "onboard_time": 1766321363,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151523,
+        "num": 151523,
+        "word": "干物妹小埋原型去世",
+        "onboard_time": 1766332462,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135476,
+        "num": 135476,
+        "word": "官方通报独居女子离世遗产归公",
+        "onboard_time": 1766328926,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106244,
+        "num": 106244,
+        "word": "终于有人吐槽巴厘岛旅游了",
+        "onboard_time": 1766318725,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1246664,
+        "num": 106070,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184221,
+        "num": 104877,
+        "word": "周也王玉雯把陈星旭聊走了",
+        "onboard_time": 1766322503,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162232,
+        "num": 104045,
+        "word": "一上午11人确诊癌症晚期医生痛心",
+        "onboard_time": 1766318182,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 103672,
+        "word": "禹宙中欣",
+        "onboard_time": 1766329225,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137771,
+        "num": 102949,
+        "word": "别人感谢粉丝 李昀锐感谢孟子义",
+        "onboard_time": 1766334921,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130345,
+        "num": 101602,
+        "word": "曹骏回应大闹星光大赏",
+        "onboard_time": 1766349974,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111617,
+        "num": 100791,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90111,
+        "num": 100654,
+        "word": "章莹颖母亲含泪拥抱神似女儿的记者",
+        "onboard_time": 1766336419,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84772,
+        "num": 99545,
+        "word": "萨尔布吕肯3比2杜塞尔多夫",
+        "onboard_time": 1766358437,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75262,
+        "num": 98679,
+        "word": "黄雅琼郑思维退役",
+        "onboard_time": 1766329884,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110157,
+        "num": 97815,
+        "word": "每次星光大赏19年都要出来营业",
+        "onboard_time": 1766356516,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97557,
+        "num": 97557,
+        "word": "每天吃猪油可控制体重和慢性炎症",
+        "onboard_time": 1766359699,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93103,
+        "num": 93103,
+        "word": "田曦薇美得不知天地为何物了",
+        "onboard_time": 1766325686,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89980,
+        "num": 89980,
+        "word": "孟子义摔倒丁禹兮把鞠婧祎吓了一跳",
+        "onboard_time": 1766359940,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74051,
+        "num": 81697,
+        "word": "玫瑰盐在我国仅限工业用途",
+        "onboard_time": 1766325504,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78081,
+        "num": 78081,
+        "word": "00后女孩常熬夜压力大确诊乳腺癌",
+        "onboard_time": 1766359879,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76129,
+        "num": 76129,
+        "word": "徐志胜你拿什么和张凌赫刘宇宁争",
+        "onboard_time": 1766359879,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75060,
+        "num": 75060,
+        "word": "星光大赏 玩手机大赏",
+        "onboard_time": 1766325023,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85189,
+        "num": 74909,
+        "word": "丁禹兮爆灯第一",
+        "onboard_time": 1766333423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68986,
+        "num": 68986,
+        "word": "杀害一家三口案嫌疑人父亲很气愤",
+        "onboard_time": 1766356396,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70105,
+        "num": 68477,
+        "word": "爱泼斯坦案性贩运价目曝光",
+        "onboard_time": 1766345654,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67881,
+        "num": 67881,
+        "word": "鞠婧祎领奖",
+        "onboard_time": 1766336599,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53006,
+        "num": 53006,
+        "word": "杨紫冰雪女王造型",
+        "onboard_time": 1766350214,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52405,
+        "num": 52405,
+        "word": "星光大赏第一排的含金量",
+        "onboard_time": 1766359940,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52302,
+        "num": 52302,
+        "word": "樊振东3比0豪格",
+        "onboard_time": 1766327726,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52275,
+        "num": 52275,
+        "word": "星光大赏",
+        "onboard_time": 1766311162,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52193,
+        "num": 52193,
+        "word": "丞磊下意识的反应最动人",
+        "onboard_time": 1766332643,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50524,
+        "num": 50524,
+        "word": "金婧你就是周柯宇新姐姐",
+        "onboard_time": 1766331144,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49879,
+        "num": 49879,
+        "word": "直播间6元尾货实为二手旧衣",
+        "onboard_time": 1766327726,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46912,
+        "num": 49382,
+        "word": "樊振东vs豪格",
+        "onboard_time": 1766324426,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51599,
+        "num": 49374,
+        "word": "现在就出发",
+        "onboard_time": 1766359879,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49330,
+        "num": 49330,
+        "word": "逐玉",
+        "onboard_time": 1766336239,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47652,
+        "num": 47652,
+        "word": "年度短剧之星",
+        "onboard_time": 1766340975,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46196,
+        "num": 46196,
+        "word": "冬日来信",
+        "onboard_time": 1766359758,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45049,
+        "num": 45049,
+        "word": "李兰迪张新成同框",
+        "onboard_time": 1766321903,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38017,
+        "num": 45036,
+        "word": "早点 退役",
+        "onboard_time": 1766327606,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37560,
+        "num": 44950,
+        "word": "华西医生分享治疗房缺患儿",
+        "onboard_time": 1766330426,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34029,
+        "num": 44940,
+        "word": "中国羽毛球队运动员退役仪式",
+        "onboard_time": 1766324963,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28578,
+        "num": 44893,
+        "word": "尔滨中央大街冰雪氛围已拉满",
+        "onboard_time": 1766345833,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 44841,
+        "num": 44841,
+        "word": "陈妍希提周柯宇 镜头切陈鑫海",
+        "onboard_time": 1766317822,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}
