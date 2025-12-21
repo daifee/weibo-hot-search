@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766302822058,
+  "endTime": 1766306116245,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -625,6 +625,14 @@
       "onboard_time": 1765633102,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1723412,
+      "num": 355829,
+      "word": "昀牵孟绕",
+      "onboard_time": 1765497318,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1720832,
@@ -2179,6 +2187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 957948,
+      "num": 349396,
+      "word": "宋祖儿 红衣小乔",
+      "onboard_time": 1766303602,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 957721,
       "num": 957721,
       "word": "王一博徒手攀手滑掉海里了",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1765725563,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 803762,
+      "num": 338076,
+      "word": "于正我恨你",
+      "onboard_time": 1766304502,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 801838,
@@ -4137,6 +4161,14 @@
       "onboard_time": 1765414821,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 679113,
+      "num": 357708,
+      "word": "周也头纱被踩",
+      "onboard_time": 1766301741,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 678141,
@@ -5219,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607415,
+      "num": 335213,
+      "word": "法医刘良团队的尸检报告是关键铁证",
+      "onboard_time": 1766302041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606654,
       "num": 335759,
       "word": "10人聚餐9人开溜男子看完账单傻眼",
@@ -5313,14 +5353,6 @@
       "onboard_time": 1764733583,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599938,
-      "num": 357708,
-      "word": "周也头纱被踩",
-      "onboard_time": 1766301741,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 598855,
@@ -6145,6 +6177,14 @@
       "onboard_time": 1765280181,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554146,
+      "num": 327191,
+      "word": "陈妍希好甜好仙",
+      "onboard_time": 1766304742,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 554129,
@@ -7699,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485119,
+      "num": 371391,
+      "word": "大学生不要再玩月薪3000的梗了",
+      "onboard_time": 1766299702,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 485092,
       "num": 485092,
       "word": "沈梦辰回应什么时候要小孩",
@@ -8073,6 +8121,14 @@
       "onboard_time": 1766298802,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470690,
+      "num": 354346,
+      "word": "原来结婚居然要有三枚戒指",
+      "onboard_time": 1766301441,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 469546,
@@ -10539,14 +10595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395032,
-      "num": 371391,
-      "word": "大学生不要再玩月薪3000的梗了",
-      "onboard_time": 1766299702,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 394762,
       "num": 209012,
       "word": "宁静发火了",
@@ -12059,14 +12107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354346,
-      "num": 354346,
-      "word": "原来结婚居然要有三枚戒指",
-      "onboard_time": 1766301441,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 354271,
       "num": 298102,
       "word": "儿子睡亡母生前床上感染同种病毒",
@@ -12617,6 +12657,14 @@
       "onboard_time": 1765456641,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 341857,
+      "num": 341857,
+      "word": "毛主席纪念堂重要公告",
+      "onboard_time": 1766305102,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 341634,
@@ -13577,6 +13625,14 @@
       "onboard_time": 1764553161,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322625,
+      "num": 322625,
+      "word": "鞠婧祎爆灯第一",
+      "onboard_time": 1766304502,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 322616,
@@ -17491,6 +17547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249405,
+      "num": 249405,
+      "word": "95花压轴",
+      "onboard_time": 1766305643,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249289,
       "num": 249289,
       "word": "5月龄女婴离世问责不是终点",
@@ -17825,6 +17889,14 @@
       "onboard_time": 1764731901,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "檀健次李兰迪牵手",
+      "onboard_time": 1766305162,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 244916,
@@ -18256,6 +18328,14 @@
       "word": "沈腾在意大利吃冰淇淋吃伤了",
       "onboard_time": 1765843340,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238444,
+      "num": 238444,
+      "word": "曹骏大闹星光大赏",
+      "onboard_time": 1766304922,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -19667,6 +19747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219466,
+      "num": 219466,
+      "word": "成毅 破万福利",
+      "onboard_time": 1766303002,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "周柯宇现偶最穷的男主",
@@ -20849,6 +20937,14 @@
       "onboard_time": 1765552583,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207562,
+      "num": 207562,
+      "word": "周也丞磊 新娘新郎",
+      "onboard_time": 1766305342,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 207492,
@@ -29531,6 +29627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158659,
+      "num": 158658,
+      "word": "陈都灵温峥嵘 公主与王后",
+      "onboard_time": 1766304201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158608,
       "num": 158608,
       "word": "网传成毅助理打粉丝不实",
@@ -30513,6 +30617,14 @@
       "onboard_time": 1766147542,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155041,
+      "num": 195302,
+      "word": "全网第一个知道考研成绩的人",
+      "onboard_time": 1766305582,
+      "rank": 33,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 155023,
@@ -32083,6 +32195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148144,
+      "num": 180929,
+      "word": "这种花竟和茄子是一家",
+      "onboard_time": 1766305162,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 148139,
       "num": 148139,
       "word": "周杰伦瘦下来后嘴角压不住",
@@ -32345,6 +32465,14 @@
       "onboard_time": 1766058020,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146954,
+      "num": 263504,
+      "word": "女子被赌徒前夫当着11岁儿子面杀害",
+      "onboard_time": 1766300121,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146930,
@@ -33193,6 +33321,14 @@
       "onboard_time": 1766148501,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143519,
+      "num": 143519,
+      "word": "星光大赏红毯顺序",
+      "onboard_time": 1766303961,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 143469,
@@ -36611,14 +36747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132578,
-      "num": 203161,
-      "word": "女子被赌徒前夫当着11岁儿子面杀害",
-      "onboard_time": 1766300121,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132564,
       "num": 132564,
       "word": "何炅认证撒贝宁和结界兽撞脸",
@@ -37651,6 +37779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130070,
+      "num": 130070,
+      "word": "AG状态",
+      "onboard_time": 1766304502,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129974,
       "num": 129974,
       "word": "留学生遭美国男友杀害",
@@ -38427,6 +38563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127585,
+      "num": 127585,
+      "word": "腾讯视频 爱你老己",
+      "onboard_time": 1766304683,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127555,
       "num": 228567,
       "word": "vivo发布会",
@@ -38649,6 +38793,14 @@
       "onboard_time": 1765457781,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126845,
+      "num": 126845,
+      "word": "高敏讨好型人格老时候",
+      "onboard_time": 1766305943,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 126829,
@@ -39435,6 +39587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124339,
+      "num": 124339,
+      "word": "折腰",
+      "onboard_time": 1766306002,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124332,
       "num": 124332,
       "word": "如此肥美的肉遇到了吃商极低的人",
@@ -39937,6 +40097,14 @@
       "onboard_time": 1765459523,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123114,
+      "num": 158659,
+      "word": "生育压力不该只放女性身上",
+      "onboard_time": 1766305223,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123085,
@@ -53187,6 +53355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90695,
+      "num": 158748,
+      "word": "宋茜曹骏是被绑架了吗",
+      "onboard_time": 1766306063,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90684,
       "num": 101790,
       "word": "罗永浩回应骂俞敏洪是忘恩负义",
@@ -58003,14 +58179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73955,
-      "num": 253219,
-      "word": "法医刘良团队的尸检报告是关键铁证",
-      "onboard_time": 1766302041,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73881,
       "num": 264724,
       "word": "问界56789产品矩阵将补齐",
@@ -58227,6 +58395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72587,
+      "num": 264781,
+      "word": "特朗普称身处政坛看美女是死路一条",
+      "onboard_time": 1766305223,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72578,
       "num": 91817,
       "word": "长期没穿的衣服藏健康隐患",
@@ -58393,14 +58569,6 @@
       "onboard_time": 1765338861,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71996,
-      "num": 71996,
-      "word": "昀牵孟绕",
-      "onboard_time": 1765497318,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 71959,
@@ -60899,6 +61067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59363,
+      "num": 259457,
+      "word": "酒店都有一个不对外预订的房间",
+      "onboard_time": 1766305823,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59313,
       "num": 149100,
       "word": "冬至时节如何养生",
@@ -62889,6 +63065,14 @@
       "onboard_time": 1764920002,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50676,
+      "num": 266321,
+      "word": "女子称高铁提醒小孩太吵被家长扇头",
+      "onboard_time": 1766305162,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50639,
@@ -69889,6 +70073,14 @@
       "onboard_time": 1765682243,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24183,
+      "num": 360623,
+      "word": "文化中国行冬至节气",
+      "onboard_time": 1766304922,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24170,

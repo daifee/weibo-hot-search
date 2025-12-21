@@ -1,0 +1,410 @@
+{
+  "runTime": 1766306116245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7685597,
+        "num": 7685597,
+        "word": "星光大赏红毯",
+        "onboard_time": 1766294121,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361809,
+        "num": 361809,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24183,
+        "num": 360623,
+        "word": "文化中国行冬至节气",
+        "onboard_time": 1766304922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1723412,
+        "num": 355829,
+        "word": "昀牵孟绕",
+        "onboard_time": 1766305162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363047,
+        "num": 354367,
+        "word": "KSG对战AG",
+        "onboard_time": 1766299641,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 957948,
+        "num": 349396,
+        "word": "宋祖儿 红衣小乔",
+        "onboard_time": 1766303602,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679113,
+        "num": 347524,
+        "word": "周也头纱被踩",
+        "onboard_time": 1766301741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470690,
+        "num": 344918,
+        "word": "原来结婚居然要有三枚戒指",
+        "onboard_time": 1766301441,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341857,
+        "num": 341857,
+        "word": "毛主席纪念堂重要公告",
+        "onboard_time": 1766305102,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241934,
+        "num": 338904,
+        "word": "考研数学",
+        "onboard_time": 1766282479,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 803762,
+        "num": 338076,
+        "word": "于正我恨你",
+        "onboard_time": 1766304502,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 607415,
+        "num": 335213,
+        "word": "法医刘良团队的尸检报告是关键铁证",
+        "onboard_time": 1766302041,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577376,
+        "num": 332236,
+        "word": "白鹿 林间花仙子",
+        "onboard_time": 1766299340,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554146,
+        "num": 327191,
+        "word": "陈妍希好甜好仙",
+        "onboard_time": 1766304742,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485119,
+        "num": 324353,
+        "word": "大学生不要再玩月薪3000的梗了",
+        "onboard_time": 1766299702,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322625,
+        "num": 322625,
+        "word": "鞠婧祎爆灯第一",
+        "onboard_time": 1766304502,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300403,
+        "num": 300403,
+        "word": "涉黄私人影院3名00后女员工被罚",
+        "onboard_time": 1766299281,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 267377,
+        "num": 267377,
+        "word": "张凌赫刘宇宁 鬼怪",
+        "onboard_time": 1766302161,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50676,
+        "num": 266321,
+        "word": "女子称高铁提醒小孩太吵被家长扇头",
+        "onboard_time": 1766305162,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72587,
+        "num": 264781,
+        "word": "特朗普称身处政坛看美女是死路一条",
+        "onboard_time": 1766305223,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146954,
+        "num": 263504,
+        "word": "女子被赌徒前夫当着11岁儿子面杀害",
+        "onboard_time": 1766300121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611570,
+        "num": 261843,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507493,
+        "num": 261201,
+        "word": "周柯宇p掉了陈妍希眼线",
+        "onboard_time": 1766295080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59363,
+        "num": 259457,
+        "word": "酒店都有一个不对外预订的房间",
+        "onboard_time": 1766305823,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418254,
+        "num": 258460,
+        "word": "鞠婧祎珍珠名伶",
+        "onboard_time": 1766292440,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394618,
+        "num": 255943,
+        "word": "星光大赏主持人 双高胎",
+        "onboard_time": 1766295922,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255823,
+        "num": 255823,
+        "word": "宋茜婚纱高定",
+        "onboard_time": 1766301023,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249405,
+        "num": 249405,
+        "word": "95花压轴",
+        "onboard_time": 1766305643,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244976,
+        "num": 244976,
+        "word": "檀健次李兰迪牵手",
+        "onboard_time": 1766305162,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238444,
+        "num": 238444,
+        "word": "曹骏大闹星光大赏",
+        "onboard_time": 1766304922,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219466,
+        "num": 219466,
+        "word": "成毅 破万福利",
+        "onboard_time": 1766303002,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207562,
+        "num": 207562,
+        "word": "周也丞磊 新娘新郎",
+        "onboard_time": 1766305342,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107201,
+        "num": 195404,
+        "word": "35岁就不配相亲了吗",
+        "onboard_time": 1766300961,
+        "rank": 32,
+        "category": "议题讨论,情感"
+      },
+      {
+        "raw_hot": 155041,
+        "num": 195302,
+        "word": "全网第一个知道考研成绩的人",
+        "onboard_time": 1766305582,
+        "rank": 33,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 195244,
+        "num": 195244,
+        "word": "丁禹兮因病缺席红毯",
+        "onboard_time": 1766298142,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148144,
+        "num": 180929,
+        "word": "这种花竟和茄子是一家",
+        "onboard_time": 1766305162,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171112,
+        "num": 171112,
+        "word": "星光村赏",
+        "onboard_time": 1766301381,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94127,
+        "num": 159336,
+        "word": "考研",
+        "onboard_time": 1766303902,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90695,
+        "num": 158748,
+        "word": "宋茜曹骏是被绑架了吗",
+        "onboard_time": 1766306063,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123114,
+        "num": 158659,
+        "word": "生育压力不该只放女性身上",
+        "onboard_time": 1766305223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158659,
+        "num": 158658,
+        "word": "陈都灵温峥嵘 公主与王后",
+        "onboard_time": 1766304201,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156423,
+        "num": 156423,
+        "word": "星光大赏直播",
+        "onboard_time": 1766294601,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143519,
+        "num": 143519,
+        "word": "星光大赏红毯顺序",
+        "onboard_time": 1766303961,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130070,
+        "num": 130070,
+        "word": "AG状态",
+        "onboard_time": 1766304502,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127585,
+        "num": 127585,
+        "word": "腾讯视频 爱你老己",
+        "onboard_time": 1766304683,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "高敏讨好型人格老时候",
+        "onboard_time": 1766305943,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125703,
+        "num": 125703,
+        "word": "星光大赏变星光小赏",
+        "onboard_time": 1766300780,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124339,
+        "num": 124339,
+        "word": "折腰",
+        "onboard_time": 1766306002,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85929,
+        "num": 123197,
+        "word": "金价又涨了",
+        "onboard_time": 1766295562,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71804,
+        "num": 120876,
+        "word": "饺子",
+        "onboard_time": 1766282840,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
