@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766309318866,
+  "endTime": 1766310113020,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3659,6 +3659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 728264,
+      "num": 366040,
+      "word": "95花压轴",
+      "onboard_time": 1766305643,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726496,
       "num": 327292,
       "word": "六级翻译好难",
@@ -4153,14 +4161,6 @@
       "onboard_time": 1764547281,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 683834,
-      "num": 366040,
-      "word": "95花压轴",
-      "onboard_time": 1766305643,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 683665,
@@ -5817,6 +5817,14 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571958,
+      "num": 353665,
+      "word": "时代少年团红毯炸了炸了",
+      "onboard_time": 1766306782,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 571514,
@@ -7905,14 +7913,6 @@
       "onboard_time": 1765838836,
       "rank": 3,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 481344,
-      "num": 353665,
-      "word": "时代少年团红毯炸了炸了",
-      "onboard_time": 1766306782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 481298,
@@ -10387,6 +10387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401123,
+      "num": 401123,
+      "word": "考研408",
+      "onboard_time": 1766308703,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 400217,
       "num": 247411,
       "word": "高市早苗搂肩熊抱滑椅子",
@@ -11705,14 +11713,6 @@
       "onboard_time": 1764630977,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366760,
-      "num": 366760,
-      "word": "考研408",
-      "onboard_time": 1766308703,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 366709,
@@ -13449,6 +13449,14 @@
       "onboard_time": 1765512321,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327968,
+      "num": 327968,
+      "word": "AG战胜KSG",
+      "onboard_time": 1766309843,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 327892,
@@ -17483,6 +17491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252799,
+      "num": 252799,
+      "word": "AG晋级挑杯六强",
+      "onboard_time": 1766309783,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252716,
       "num": 252716,
       "word": "陈妍希粉丝 这样的日子盼了10年",
@@ -17627,6 +17643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250101,
+      "num": 250101,
+      "word": "法综",
+      "onboard_time": 1766309062,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250094,
       "num": 250094,
       "word": "孙颖莎2场比赛间隔不到2小时",
@@ -17665,6 +17689,14 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249009,
+      "num": 249009,
+      "word": "孟子义李昀锐下台也牵着手",
+      "onboard_time": 1766308823,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 248952,
@@ -22923,14 +22955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197478,
-      "num": 197478,
-      "word": "法综",
-      "onboard_time": 1766309062,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 197403,
       "num": 197403,
       "word": "谁把我上班这死样拍成剧了",
@@ -23507,6 +23531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194223,
+      "num": 194223,
+      "word": "吴磊瘦了好多",
+      "onboard_time": 1766308883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194208,
       "num": 194208,
       "word": "酒店天价考研房7796元",
@@ -23857,6 +23889,14 @@
       "onboard_time": 1765598781,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "龚俊王玉雯红毯笑场",
+      "onboard_time": 1766309362,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 191687,
@@ -26377,14 +26417,6 @@
       "onboard_time": 1766295201,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177907,
-      "num": 177907,
-      "word": "孟子义李昀锐下台也牵着手",
-      "onboard_time": 1766308823,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 177888,
@@ -29192,14 +29224,6 @@
       "word": "李雪琴 要不人家是迪丽热巴呢",
       "onboard_time": 1764841103,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161362,
-      "num": 161362,
-      "word": "吴磊瘦了好多",
-      "onboard_time": 1766308883,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -39716,7 +39740,7 @@
     },
     {
       "raw_hot": 124439,
-      "num": 148694,
+      "num": 161441,
       "word": "李盈莹回国康复治疗",
       "onboard_time": 1766308762,
       "rank": 47,
@@ -50051,6 +50075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99578,
+      "num": 161466,
+      "word": "罗永浩反映的电信网速问题已解决",
+      "onboard_time": 1766309661,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99566,
       "num": 133860,
       "word": "陈晓孙千新剧一集结两次婚",
@@ -57065,6 +57097,14 @@
       "onboard_time": 1765322118,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79450,
+      "num": 272717,
+      "word": "时代少年团七缺一",
+      "onboard_time": 1766309182,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 79435,
@@ -65147,14 +65187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42345,
-      "num": 195372,
-      "word": "时代少年团七缺一",
-      "onboard_time": 1766309182,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42313,
       "num": 262471,
       "word": "鸿蒙3D影像定格精彩",
@@ -65497,6 +65529,14 @@
       "onboard_time": 1765253904,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40921,
+      "num": 185963,
+      "word": "哥哥为房产过户起诉4个妹妹胜诉",
+      "onboard_time": 1766310083,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40843,
@@ -68803,6 +68843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29102,
+      "num": 192722,
+      "word": "2G退网致部分电动车功能无法使用",
+      "onboard_time": 1766309724,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 28990,
       "num": 137144,
       "word": "陈小纭 狙击蝴蝶最强助攻",
@@ -71275,6 +71323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19702,
+      "num": 193087,
+      "word": "金靖 周柯宇有别的姐姐了",
+      "onboard_time": 1766310083,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19689,
       "num": 75578,
       "word": "写生至少得写吧",
@@ -72707,6 +72763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 12665,
+      "num": 272805,
+      "word": "官方通报宿舍施工事故致1死2伤",
+      "onboard_time": 1766309843,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 12580,
       "num": 176200,
       "word": "悬赏5万刑案嫌疑人已投案",
@@ -72905,6 +72969,14 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11314,
+      "num": 194176,
+      "word": "女子醉驾找人摆平被骗7万跳楼身亡",
+      "onboard_time": 1766309963,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11244,
