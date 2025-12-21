@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766313888795,
+  "endTime": 1766316200779,
   "band_list": [
     {
       "raw_hot": 9567666,
@@ -8,6 +8,14 @@
       "word": "星光大赏红毯",
       "onboard_time": 1766294121,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7814348,
+      "num": 7814348,
+      "word": "星光大赏内场",
+      "onboard_time": 1766314102,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -139,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 826848,
+      "num": 447041,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803762,
       "num": 356417,
       "word": "于正我恨你",
@@ -179,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 744933,
-      "num": 447041,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 739146,
+      "num": 1872544,
+      "word": "小洛熙妈妈讲述最新进展",
+      "onboard_time": 1766313621,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 694421,
@@ -451,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430607,
+      "num": 233813,
+      "word": "宋祖儿顶级骨相",
+      "onboard_time": 1766313683,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427696,
       "num": 198998,
       "word": "左一为打助理道歉",
       "onboard_time": 1766278161,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427334,
+      "num": 233270,
+      "word": "时代少年团 座位",
+      "onboard_time": 1766315061,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 416132,
@@ -683,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309241,
+      "num": 231608,
+      "word": "白鹿星光大赏有3套造型",
+      "onboard_time": 1766314341,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306954,
       "num": 306954,
       "word": "星光村赏",
@@ -705,6 +745,14 @@
       "onboard_time": 1766277739,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293537,
+      "num": 252987,
+      "word": "曹骏大闹星光大赏",
+      "onboard_time": 1766304922,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 290948,
@@ -763,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272909,
+      "num": 216102,
+      "word": "有存款和没存款的区别",
+      "onboard_time": 1766311103,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263831,
       "num": 270744,
       "word": "长安二十四计",
@@ -801,14 +857,6 @@
       "onboard_time": 1766244203,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252987,
-      "num": 252987,
-      "word": "曹骏大闹星光大赏",
-      "onboard_time": 1766304922,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 252799,
@@ -859,6 +907,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 234707,
+      "num": 234707,
+      "word": "庞铮主持",
+      "onboard_time": 1766313982,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229725,
+      "num": 229725,
+      "word": "丁禹兮何与叼火柴",
+      "onboard_time": 1766311581,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226685,
       "num": 226685,
       "word": "童瑶风格大变",
@@ -873,14 +937,6 @@
       "onboard_time": 1766282659,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220952,
-      "num": 191026,
-      "word": "有存款和没存款的区别",
-      "onboard_time": 1766311103,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 220896,
@@ -913,6 +969,14 @@
       "onboard_time": 1766234002,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209828,
+      "num": 209828,
+      "word": "安洗莹夺冠",
+      "onboard_time": 1766314403,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 207364,
@@ -1032,6 +1096,14 @@
       "word": "王橹杰pk",
       "onboard_time": 1766312782,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196297,
+      "num": 196297,
+      "word": "黄星回复邱鼎杰",
+      "onboard_time": 1766315002,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1203,12 +1275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173705,
-      "num": 173705,
-      "word": "丁禹兮何与叼火柴",
-      "onboard_time": 1766311581,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "小洛熙父母称家属隐私遭泄露",
+      "onboard_time": 1766314703,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171771,
@@ -1267,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165475,
+      "num": 165475,
+      "word": "陈飞宇穿的衣服是自己设计的",
+      "onboard_time": 1766315182,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164085,
       "num": 291956,
       "word": "双轨",
@@ -1305,14 +1385,6 @@
       "onboard_time": 1766298202,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158387,
-      "num": 176481,
-      "word": "小洛熙妈妈讲述最新进展",
-      "onboard_time": 1766313621,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157987,
@@ -1611,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135008,
-      "num": 135008,
-      "word": "宋祖儿顶级骨相",
-      "onboard_time": 1766313683,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131578,
       "num": 131578,
       "word": "苹果炖奶",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1766286860,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127944,
+      "num": 127944,
+      "word": "王曼昱说晚上别忘了吃饺子",
+      "onboard_time": 1766314522,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 126845,
@@ -1739,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "宋佳黑长直",
+      "onboard_time": 1766314341,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119369,
       "num": 273467,
       "word": "体检报告的这些字眼或是癌症信号",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1766283859,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117417,
+      "num": 117417,
+      "word": "龚俊工作室",
+      "onboard_time": 1766316142,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117199,
@@ -1800,6 +1888,14 @@
       "word": "华晨宇 互联网都是记忆",
       "onboard_time": 1766292382,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114319,
+      "num": 114319,
+      "word": "鞠婧祎听到相信她陪着她的反应",
+      "onboard_time": 1766314883,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1881,6 +1977,14 @@
       "onboard_time": 1766301920,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103221,
+      "num": 103221,
+      "word": "樊振东的冬至选择",
+      "onboard_time": 1766314282,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 102627,
@@ -2491,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47289,
+      "num": 139323,
+      "word": "原配侮辱第三者案事发8年后将开庭",
+      "onboard_time": 1766315603,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46985,
       "num": 189735,
       "word": "黑龙江一煤矿透水事故5人被困",
@@ -2553,6 +2665,14 @@
       "onboard_time": 1766310083,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40174,
+      "num": 228387,
+      "word": "刘宇宁 死腿快跑",
+      "onboard_time": 1766315243,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 37979,
@@ -2969,6 +3089,14 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15225,
+      "num": 139564,
+      "word": "因家庭矛盾男子当女儿面砸妻子车",
+      "onboard_time": 1766315543,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14990,

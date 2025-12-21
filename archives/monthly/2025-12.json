@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766313888795,
+  "endTime": 1766316200779,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -129,6 +129,14 @@
       "onboard_time": 1765714044,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7814348,
+      "num": 7814348,
+      "word": "星光大赏内场",
+      "onboard_time": 1766314102,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 7294726,
@@ -3593,6 +3601,14 @@
       "onboard_time": 1765965982,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 739146,
+      "num": 1872544,
+      "word": "小洛熙妈妈讲述最新进展",
+      "onboard_time": 1766313621,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 739135,
@@ -9419,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430607,
+      "num": 233813,
+      "word": "宋祖儿顶级骨相",
+      "onboard_time": 1766313683,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430563,
       "num": 561650,
       "word": "丈夫帮剖宫产妻子换药看到伤口泪崩",
@@ -9521,6 +9545,14 @@
       "onboard_time": 1765443083,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 427334,
+      "num": 233270,
+      "word": "时代少年团 座位",
+      "onboard_time": 1766315061,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 427180,
@@ -14403,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309241,
+      "num": 231608,
+      "word": "白鹿星光大赏有3套造型",
+      "onboard_time": 1766314341,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308679,
       "num": 256785,
       "word": "王鹤棣沈月现实版尼克朱迪",
@@ -15065,6 +15105,14 @@
       "onboard_time": 1766061863,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293537,
+      "num": 252987,
+      "word": "曹骏大闹星光大赏",
+      "onboard_time": 1766304922,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 293497,
@@ -16265,6 +16313,14 @@
       "onboard_time": 1765424361,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272909,
+      "num": 216102,
+      "word": "有存款和没存款的区别",
+      "onboard_time": 1766311103,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 272431,
@@ -17513,14 +17569,6 @@
       "onboard_time": 1764932661,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 252987,
-      "num": 252987,
-      "word": "曹骏大闹星光大赏",
-      "onboard_time": 1766304922,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 252883,
@@ -18803,6 +18851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234707,
+      "num": 234707,
+      "word": "庞铮主持",
+      "onboard_time": 1766313982,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "方圆拍短剧花钱找配音",
@@ -19137,6 +19193,14 @@
       "onboard_time": 1764651021,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229725,
+      "num": 229725,
+      "word": "丁禹兮何与叼火柴",
+      "onboard_time": 1766311581,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229551,
@@ -19809,14 +19873,6 @@
       "onboard_time": 1766044222,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 220952,
-      "num": 191026,
-      "word": "有存款和没存款的区别",
-      "onboard_time": 1766311103,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 220896,
@@ -20793,6 +20849,14 @@
       "onboard_time": 1764933981,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209828,
+      "num": 209828,
+      "word": "安洗莹夺冠",
+      "onboard_time": 1766314403,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 209772,
@@ -23201,6 +23265,14 @@
       "onboard_time": 1764853341,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196297,
+      "num": 196297,
+      "word": "黄星回复邱鼎杰",
+      "onboard_time": 1766315002,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196291,
@@ -27099,14 +27171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173705,
-      "num": 173705,
-      "word": "丁禹兮何与叼火柴",
-      "onboard_time": 1766311581,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 173684,
       "num": 194840,
       "word": "47岁刘烨减重17斤新剧状态",
@@ -27241,6 +27305,14 @@
       "onboard_time": 1764678203,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "小洛熙父母称家属隐私遭泄露",
+      "onboard_time": 1766314703,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172956,
@@ -28593,6 +28665,14 @@
       "onboard_time": 1764915742,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 165475,
+      "num": 165475,
+      "word": "陈飞宇穿的衣服是自己设计的",
+      "onboard_time": 1766315182,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 165446,
@@ -29969,14 +30049,6 @@
       "onboard_time": 1765534461,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 158387,
-      "num": 176481,
-      "word": "小洛熙妈妈讲述最新进展",
-      "onboard_time": 1766313621,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158330,
@@ -36235,14 +36307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135008,
-      "num": 135008,
-      "word": "宋祖儿顶级骨相",
-      "onboard_time": 1766313683,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135007,
       "num": 135007,
       "word": "官俊臣参加艺考",
@@ -38793,6 +38857,14 @@
       "onboard_time": 1766062942,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127944,
+      "num": 127944,
+      "word": "王曼昱说晚上别忘了吃饺子",
+      "onboard_time": 1766314522,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 127938,
@@ -41811,6 +41883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "宋佳黑长直",
+      "onboard_time": 1766314341,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119689,
       "num": 322384,
       "word": "vivoS50痛店不基础店长更不基础",
@@ -42825,6 +42905,14 @@
       "onboard_time": 1764686904,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117417,
+      "num": 117417,
+      "word": "龚俊工作室",
+      "onboard_time": 1766316142,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117407,
@@ -44081,6 +44169,14 @@
       "onboard_time": 1764656541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114319,
+      "num": 114319,
+      "word": "鞠婧祎听到相信她陪着她的反应",
+      "onboard_time": 1766314883,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114306,
@@ -48473,6 +48569,14 @@
       "onboard_time": 1765198461,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103221,
+      "num": 103221,
+      "word": "樊振东的冬至选择",
+      "onboard_time": 1766314282,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103209,
@@ -64139,6 +64243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47289,
+      "num": 139323,
+      "word": "原配侮辱第三者案事发8年后将开庭",
+      "onboard_time": 1766315603,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47236,
       "num": 253703,
       "word": "海南自由贸易港今起全岛封关",
@@ -65913,6 +66025,14 @@
       "onboard_time": 1766099417,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 40174,
+      "num": 228387,
+      "word": "刘宇宁 死腿快跑",
+      "onboard_time": 1766315243,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 40155,
@@ -72503,6 +72623,14 @@
       "num": 153706,
       "word": "月付开通容易关闭难",
       "onboard_time": 1765333520,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15225,
+      "num": 139564,
+      "word": "因家庭矛盾男子当女儿面砸妻子车",
+      "onboard_time": 1766315543,
       "rank": 37,
       "category": "民生新闻"
     },

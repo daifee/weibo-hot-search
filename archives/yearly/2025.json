@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766313888795,
+  "endTime": 1766316200779,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2123,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7814348,
+      "num": 7814348,
+      "word": "星光大赏内场",
+      "onboard_time": 1735989203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7793574,
       "num": 8688273,
       "word": "王楚钦无缘澳门世界杯决赛",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1762425621,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6805837,
-      "num": 6805837,
-      "word": "王曼昱冠军",
-      "onboard_time": 1759659203,
-      "rank": 5,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
