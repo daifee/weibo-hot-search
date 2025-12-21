@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766343010716,
+  "endTime": 1766344948727,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -69355,6 +69355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32129,
+      "num": 32129,
+      "word": "丁禹兮爆灯第一",
+      "onboard_time": 1766333423,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32025,
       "num": 118446,
       "word": "工人高空坠落14mm钢筋贯穿胸部",
@@ -71243,6 +71251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25639,
+      "num": 32110,
+      "word": "时代少年团星光大赏内场画面",
+      "onboard_time": 1766343854,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25626,
       "num": 43503,
       "word": "听sevenkids新歌很难不舞起来",
@@ -72305,6 +72321,14 @@
       "onboard_time": 1765685063,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21710,
+      "num": 32124,
+      "word": "得闲谨制戏里戏外谨制如一",
+      "onboard_time": 1766343795,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 21681,
@@ -74536,6 +74560,14 @@
       "word": "美好生活宪给你",
       "onboard_time": 1764943522,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10718,
+      "num": 32077,
+      "word": "46岁独居女子离世遗产归公进展",
+      "onboard_time": 1766336899,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
