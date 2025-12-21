@@ -1,21 +1,21 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766316200779,
+  "endTime": 1766317076534,
   "band_list": [
+    {
+      "raw_hot": 10242971,
+      "num": 10242971,
+      "word": "星光大赏内场",
+      "onboard_time": 1766314102,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 9567666,
       "num": 9567666,
       "word": "星光大赏红毯",
       "onboard_time": 1766294121,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 7814348,
-      "num": 7814348,
-      "word": "星光大赏内场",
-      "onboard_time": 1766314102,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1599713,
-      "num": 1599713,
+      "num": 2261016,
       "word": "冬至",
       "onboard_time": 1766250438,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1335262,
-      "num": 433905,
+      "num": 865990,
       "word": "星光大赏座位",
       "onboard_time": 1766312303,
       "rank": 5,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934407,
+      "num": 934407,
+      "word": "星光大赏",
+      "onboard_time": 1766222061,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 917031,
       "num": 335132,
       "word": "怎么李明德又要截爆星光大赏了",
@@ -147,14 +155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 826848,
-      "num": 447041,
-      "word": "星光大赏",
-      "onboard_time": 1766222061,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 803762,
       "num": 356417,
       "word": "于正我恨你",
@@ -169,6 +169,14 @@
       "onboard_time": 1766305643,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769484,
+      "num": 1872544,
+      "word": "小洛熙妈妈讲述最新进展",
+      "onboard_time": 1766313621,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 758329,
@@ -195,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 739146,
-      "num": 1872544,
-      "word": "小洛熙妈妈讲述最新进展",
-      "onboard_time": 1766313621,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 699559,
+      "num": 242866,
+      "word": "时代少年团 座位",
+      "onboard_time": 1766315061,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 694421,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 430607,
-      "num": 233813,
+      "num": 240426,
       "word": "宋祖儿顶级骨相",
       "onboard_time": 1766313683,
       "rank": 41,
@@ -481,14 +489,6 @@
       "onboard_time": 1766278161,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427334,
-      "num": 233270,
-      "word": "时代少年团 座位",
-      "onboard_time": 1766315061,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 416132,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 387336,
-      "num": 387336,
+      "num": 2173858,
       "word": "彭珮云同志逝世",
       "onboard_time": 1766312483,
       "rank": 19,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317716,
+      "num": 235773,
+      "word": "鞠婧祎 蓝色妖姬",
+      "onboard_time": 1766316684,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317408,
       "num": 317408,
       "word": "考研",
@@ -787,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278706,
+      "num": 216102,
+      "word": "有存款和没存款的区别",
+      "onboard_time": 1766311103,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276869,
       "num": 220181,
       "word": "饺子",
@@ -811,20 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272909,
-      "num": 216102,
-      "word": "有存款和没存款的区别",
-      "onboard_time": 1766311103,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263831,
       "num": 270744,
       "word": "长安二十四计",
       "onboard_time": 1766226680,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261026,
+      "num": 226785,
+      "word": "小洛熙父母称家属隐私遭泄露",
+      "onboard_time": 1766314703,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256890,
@@ -993,6 +1009,14 @@
       "onboard_time": 1766298082,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204143,
+      "num": 1131832,
+      "word": "石宇奇vs小波波夫",
+      "onboard_time": 1766316383,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 203836,
@@ -1275,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172958,
-      "num": 172958,
-      "word": "小洛熙父母称家属隐私遭泄露",
-      "onboard_time": 1766314703,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171771,
       "num": 171771,
       "word": "甜心格格影视化",
@@ -1395,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157480,
+      "num": 157480,
+      "word": "白鹿高定女王一天两套",
+      "onboard_time": 1766317043,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156849,
       "num": 156849,
       "word": "张呈硬把话筒塞给雷淞然",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1766273777,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151410,
+      "num": 151410,
+      "word": "龚俊工作室",
+      "onboard_time": 1766316142,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 150925,
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134792,
+      "num": 134792,
+      "word": "16岁烤鸡少年爆火后不敢接父母电话",
+      "onboard_time": 1766316742,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131578,
       "num": 131578,
       "word": "苹果炖奶",
@@ -1691,12 +1731,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131067,
+      "num": 131067,
+      "word": "谢淮安剖尸顾玉",
+      "onboard_time": 1766316562,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130467,
       "num": 130467,
       "word": "李昀锐allblack西装",
       "onboard_time": 1766286860,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130020,
+      "num": 130020,
+      "word": "KSG长文道歉",
+      "onboard_time": 1766316803,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 127944,
@@ -1760,6 +1816,14 @@
       "word": "李昀锐高珠",
       "onboard_time": 1766313802,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122600,
+      "num": 122600,
+      "word": "孟子义李昀锐连续三年坐一起",
+      "onboard_time": 1766317043,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1841,14 +1905,6 @@
       "onboard_time": 1766283859,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117417,
-      "num": 117417,
-      "word": "龚俊工作室",
-      "onboard_time": 1766316142,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 117199,
@@ -1969,6 +2025,14 @@
       "onboard_time": 1766302101,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104883,
+      "num": 139323,
+      "word": "原配侮辱第三者案事发8年后将开庭",
+      "onboard_time": 1766315603,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104814,
@@ -2395,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63964,
+      "num": 228387,
+      "word": "刘宇宁 死腿快跑",
+      "onboard_time": 1766315243,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63329,
       "num": 271714,
       "word": "王楚钦孙颖莎是一个连词",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1766297722,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61445,
+      "num": 139564,
+      "word": "因家庭矛盾男子当女儿面砸妻子车",
+      "onboard_time": 1766315543,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61108,
@@ -2595,14 +2675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47289,
-      "num": 139323,
-      "word": "原配侮辱第三者案事发8年后将开庭",
-      "onboard_time": 1766315603,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46985,
       "num": 189735,
       "word": "黑龙江一煤矿透水事故5人被困",
@@ -2665,14 +2737,6 @@
       "onboard_time": 1766310083,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40174,
-      "num": 228387,
-      "word": "刘宇宁 死腿快跑",
-      "onboard_time": 1766315243,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 37979,
@@ -2908,7 +2972,7 @@
     },
     {
       "raw_hot": 24183,
-      "num": 661241,
+      "num": 1664120,
       "word": "文化中国行冬至节气",
       "onboard_time": 1766304922,
       "rank": 2,
@@ -3089,14 +3153,6 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15225,
-      "num": 139564,
-      "word": "因家庭矛盾男子当女儿面砸妻子车",
-      "onboard_time": 1766315543,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14990,

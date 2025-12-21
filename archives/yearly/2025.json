@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766316200779,
+  "endTime": 1766317076534,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 10242971,
+      "num": 10242971,
+      "word": "星光大赏内场",
+      "onboard_time": 1735989203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10222055,
       "num": 10222055,
       "word": "小米王腾因泄密被辞退",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1737205280,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7814348,
-      "num": 7814348,
-      "word": "星光大赏内场",
-      "onboard_time": 1735989203,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 7793574,

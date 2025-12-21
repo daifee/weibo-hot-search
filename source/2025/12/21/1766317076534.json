@@ -1,0 +1,410 @@
+{
+  "runTime": 1766317076534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 498421,
+        "num": 2261016,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339597,
+        "num": 2173858,
+        "word": "彭珮云同志逝世",
+        "onboard_time": 1766312483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19946,
+        "num": 1664120,
+        "word": "文化中国行冬至节气",
+        "onboard_time": 1766304922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10242971,
+        "num": 10242971,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204143,
+        "num": 1131832,
+        "word": "石宇奇vs小波波夫",
+        "onboard_time": 1766316383,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 934407,
+        "num": 934407,
+        "word": "星光大赏",
+        "onboard_time": 1766311162,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865990,
+        "num": 865990,
+        "word": "星光大赏座位",
+        "onboard_time": 1766312303,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769484,
+        "num": 769484,
+        "word": "小洛熙妈妈讲述最新进展",
+        "onboard_time": 1766313621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246479,
+        "num": 246479,
+        "word": "原来结婚居然要有三枚戒指",
+        "onboard_time": 1766301441,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192892,
+        "num": 244882,
+        "word": "考研结束",
+        "onboard_time": 1766308583,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 699559,
+        "num": 242866,
+        "word": "时代少年团 座位",
+        "onboard_time": 1766315061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412446,
+        "num": 240426,
+        "word": "宋祖儿顶级骨相",
+        "onboard_time": 1766313683,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317716,
+        "num": 235773,
+        "word": "鞠婧祎 蓝色妖姬",
+        "onboard_time": 1766316684,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276077,
+        "num": 232633,
+        "word": "95花压轴",
+        "onboard_time": 1766305643,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273086,
+        "num": 230968,
+        "word": "曹骏大闹星光大赏",
+        "onboard_time": 1766304922,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261026,
+        "num": 226785,
+        "word": "小洛熙父母称家属隐私遭泄露",
+        "onboard_time": 1766314703,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 226399,
+        "word": "白鹿星光大赏有3套造型",
+        "onboard_time": 1766314341,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220292,
+        "num": 220292,
+        "word": "孙乐言把鞠婧祎说感动了",
+        "onboard_time": 1766313743,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201711,
+        "num": 201711,
+        "word": "丁禹兮何与叼火柴",
+        "onboard_time": 1766311581,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201969,
+        "num": 197988,
+        "word": "庞铮主持",
+        "onboard_time": 1766313982,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192088,
+        "num": 192088,
+        "word": "仙逆",
+        "onboard_time": 1766313383,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 6138253,
+        "num": 6138253,
+        "word": "星光大赏红毯",
+        "onboard_time": 1766294121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318322,
+        "num": 188232,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481390,
+        "num": 185705,
+        "word": "昀牵孟绕",
+        "onboard_time": 1766305162,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278706,
+        "num": 184692,
+        "word": "有存款和没存款的区别",
+        "onboard_time": 1766311103,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337471,
+        "num": 182624,
+        "word": "陈妍希带着小狗来了",
+        "onboard_time": 1766306782,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181426,
+        "num": 181426,
+        "word": "时代少年团红毯炸了炸了",
+        "onboard_time": 1766306782,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167509,
+        "num": 167509,
+        "word": "星光大赏直播",
+        "onboard_time": 1766294601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158940,
+        "num": 158940,
+        "word": "毛主席纪念堂重要公告",
+        "onboard_time": 1766305102,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81248,
+        "num": 158153,
+        "word": "酒店都有一个不对外预订的房间",
+        "onboard_time": 1766305823,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193689,
+        "num": 157849,
+        "word": "周柯宇p掉了陈妍希眼线",
+        "onboard_time": 1766295080,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157480,
+        "num": 157480,
+        "word": "白鹿高定女王一天两套",
+        "onboard_time": 1766317043,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63964,
+        "num": 151511,
+        "word": "刘宇宁 死腿快跑",
+        "onboard_time": 1766315243,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "龚俊工作室",
+        "onboard_time": 1766316142,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 150843,
+        "word": "安洗莹夺冠",
+        "onboard_time": 1766314403,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143752,
+        "num": 143752,
+        "word": "星光大赏主持人 双高胎",
+        "onboard_time": 1766295922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142260,
+        "num": 142260,
+        "word": "黄星回复邱鼎杰",
+        "onboard_time": 1766315002,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134792,
+        "num": 134792,
+        "word": "16岁烤鸡少年爆火后不敢接父母电话",
+        "onboard_time": 1766316742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131356,
+        "num": 131356,
+        "word": "考研408",
+        "onboard_time": 1766308703,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131067,
+        "num": 131067,
+        "word": "谢淮安剖尸顾玉",
+        "onboard_time": 1766316562,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130020,
+        "num": 130020,
+        "word": "KSG长文道歉",
+        "onboard_time": 1766316803,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126987,
+        "num": 126987,
+        "word": "涉黄私人影院3名00后女员工被罚",
+        "onboard_time": 1766299281,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123836,
+        "num": 123836,
+        "word": "大学生不要再玩月薪3000的梗了",
+        "onboard_time": 1766299702,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104883,
+        "num": 123004,
+        "word": "原配侮辱第三者案事发8年后将开庭",
+        "onboard_time": 1766315603,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61445,
+        "num": 122789,
+        "word": "因家庭矛盾男子当女儿面砸妻子车",
+        "onboard_time": 1766315543,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122600,
+        "num": 122600,
+        "word": "孟子义李昀锐连续三年坐一起",
+        "onboard_time": 1766317043,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121476,
+        "num": 121476,
+        "word": "严浩翔 尖头皮鞋",
+        "onboard_time": 1766310565,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121010,
+        "num": 121010,
+        "word": "双轨",
+        "onboard_time": 1766314943,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120704,
+        "num": 120704,
+        "word": "成毅 破万福利",
+        "onboard_time": 1766303002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112642,
+        "num": 112642,
+        "word": "宋佳黑长直",
+        "onboard_time": 1766314341,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
