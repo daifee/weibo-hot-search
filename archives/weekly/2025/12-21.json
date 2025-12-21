@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766349808349,
+  "endTime": 1766352339614,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -3691,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37744,
+      "num": 37744,
+      "word": "曹骏回应大闹星光大赏",
+      "onboard_time": 1766349974,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37552,
       "num": 881125,
       "word": "冬至是春节的预告片",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1766307623,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29590,
+      "num": 16035,
+      "word": "孟子义摔倒后再上台可小心了",
+      "onboard_time": 1766351714,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 29238,
@@ -4235,6 +4251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16274,
+      "num": 16274,
+      "word": "杨紫冰雪女王造型",
+      "onboard_time": 1766350214,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15529,
+      "num": 15529,
+      "word": "鞠婧祎9年后再出席星光大赏",
+      "onboard_time": 1766350994,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15415,
       "num": 72665,
       "word": "檀健次朝粉丝挥手",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1766302583,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14658,
+      "num": 15171,
+      "word": "声鸣远扬",
+      "onboard_time": 1766328147,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 14122,
