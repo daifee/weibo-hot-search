@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766352339614,
+  "endTime": 1766353182954,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -3539,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51577,
+      "num": 45344,
+      "word": "曹骏回应大闹星光大赏",
+      "onboard_time": 1766349974,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51003,
       "num": 269268,
       "word": "谢娜王冰冰时代少年团合照",
@@ -3688,14 +3696,6 @@
       "word": "龚俊出发参加星光大赏",
       "onboard_time": 1766251099,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37744,
-      "num": 37744,
-      "word": "曹骏回应大闹星光大赏",
-      "onboard_time": 1766349974,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -4123,6 +4123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20302,
+      "num": 23581,
+      "word": "杨紫冰雪女王造型",
+      "onboard_time": 1766350214,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19980,
       "num": 72862,
       "word": "鸿蒙星光盛典",
@@ -4227,6 +4235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16750,
+      "num": 23552,
+      "word": "鞠婧祎9年后再出席星光大赏",
+      "onboard_time": 1766350994,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16726,
       "num": 72816,
       "word": "刘宇宁巡演",
@@ -4244,26 +4260,10 @@
     },
     {
       "raw_hot": 16564,
-      "num": 22927,
+      "num": 23503,
       "word": "探索新境2",
       "onboard_time": 1766348894,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 16274,
-      "num": 16274,
-      "word": "杨紫冰雪女王造型",
-      "onboard_time": 1766350214,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 15529,
-      "num": 15529,
-      "word": "鞠婧祎9年后再出席星光大赏",
-      "onboard_time": 1766350994,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -4273,6 +4273,14 @@
       "onboard_time": 1766268015,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15401,
+      "num": 23507,
+      "word": "鞠婧祎幽蓝幻雾",
+      "onboard_time": 1766353034,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 15378,
@@ -4299,6 +4307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14882,
+      "num": 32077,
+      "word": "46岁独居女子离世遗产归公进展",
+      "onboard_time": 1766336899,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14658,
       "num": 15171,
       "word": "声鸣远扬",
@@ -4315,16 +4331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14027,
-      "num": 32077,
-      "word": "46岁独居女子离世遗产归公进展",
-      "onboard_time": 1766336899,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13616,
-      "num": 23022,
+      "num": 23493,
       "word": "尔滨中央大街冰雪氛围已拉满",
       "onboard_time": 1766345833,
       "rank": 29,
@@ -4360,6 +4368,14 @@
       "word": "女子醉驾找人摆平被骗7万跳楼身亡",
       "onboard_time": 1766309963,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11146,
+      "num": 23484,
+      "word": "私人影院3名陪侍人员被行政处罚",
+      "onboard_time": 1766353153,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
