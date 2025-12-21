@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766337890915,
+  "endTime": 1766338882614,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204266,
+      "num": 146299,
+      "word": "逐玉",
+      "onboard_time": 1766336239,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198806,
       "num": 198806,
       "word": "金婧你就是周柯宇新姐姐",
@@ -209,14 +217,6 @@
       "onboard_time": 1766318182,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163734,
-      "num": 146299,
-      "word": "逐玉",
-      "onboard_time": 1766336239,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 152840,
@@ -419,7 +419,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56282,
+      "raw_hot": 56676,
       "num": 132440,
       "word": "章莹颖母亲含泪拥抱神似女儿的记者",
       "onboard_time": 1766336419,
@@ -553,6 +553,22 @@
       "onboard_time": 1766330185,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17657,
+      "num": 75118,
+      "word": "电量耗尽的小团子是啥样",
+      "onboard_time": 1766337917,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16279,
+      "num": 75043,
+      "word": "中国羽毛球队运动员退役仪式",
+      "onboard_time": 1766324963,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

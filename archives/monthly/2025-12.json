@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766337890915,
+  "endTime": 1766338882614,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -22323,6 +22323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204266,
+      "num": 146299,
+      "word": "逐玉",
+      "onboard_time": 1766336239,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204251,
       "num": 187807,
       "word": "长安二十四计定档",
@@ -29577,14 +29585,6 @@
       "onboard_time": 1764916041,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163734,
-      "num": 146299,
-      "word": "逐玉",
-      "onboard_time": 1766336239,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 163686,
@@ -63067,6 +63067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56676,
+      "num": 132440,
+      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
+      "onboard_time": 1766336419,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56615,
       "num": 231329,
       "word": "华为MateX7开售氛围火爆",
@@ -63137,14 +63145,6 @@
       "onboard_time": 1765703662,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56282,
-      "num": 132440,
-      "word": "章莹颖母亲含泪拥抱神似女儿的记者",
-      "onboard_time": 1766336419,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56261,
@@ -73160,6 +73160,14 @@
       "word": "护士给孩子输液时被殴打系捏造",
       "onboard_time": 1764684623,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17657,
+      "num": 75118,
+      "word": "电量耗尽的小团子是啥样",
+      "onboard_time": 1766337917,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
