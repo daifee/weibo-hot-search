@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766294957410,
+  "endTime": 1766295901464,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 5488933,
+      "num": 5488933,
+      "word": "星光大赏红毯",
+      "onboard_time": 1766294121,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4647608,
       "num": 4647608,
       "word": "尖叫之夜红毯",
@@ -241,14 +249,6 @@
       "onboard_time": 1765977921,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3270385,
-      "num": 3270385,
-      "word": "星光大赏红毯",
-      "onboard_time": 1766294121,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3249130,
@@ -4633,6 +4633,14 @@
       "onboard_time": 1765610419,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640830,
+      "num": 270120,
+      "word": "周柯宇p掉了陈妍希眼线",
+      "onboard_time": 1766295080,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 640303,
@@ -10259,6 +10267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398556,
+      "num": 266449,
+      "word": "田曦薇金色流苏裙",
+      "onboard_time": 1766293580,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398489,
       "num": 247796,
       "word": "王楚钦代言JBL",
@@ -10608,6 +10624,14 @@
       "word": "再见爱人反转",
       "onboard_time": 1766232623,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391274,
+      "num": 391274,
+      "word": "星光大赏直播",
+      "onboard_time": 1766294601,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -11095,6 +11119,14 @@
       "num": 415007,
       "word": "七个偶像练习生在综艺里吵起来了",
       "onboard_time": 1765345221,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378296,
+      "num": 265293,
+      "word": "王影璐 鞋跟",
+      "onboard_time": 1766294121,
       "rank": 19,
       "category": "综艺"
     },
@@ -11627,14 +11659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362006,
-      "num": 258238,
-      "word": "田曦薇金色流苏裙",
-      "onboard_time": 1766293580,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 361714,
       "num": 361714,
       "word": "三十年前的奢侈品零食有多好吃",
@@ -11796,7 +11820,7 @@
     },
     {
       "raw_hot": 358131,
-      "num": 231540,
+      "num": 258653,
       "word": "孟子义星光大赏第二套出图",
       "onboard_time": 1766293342,
       "rank": 14,
@@ -14088,14 +14112,6 @@
       "word": "王鹤棣沈月现实版尼克朱迪",
       "onboard_time": 1764816621,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 308646,
-      "num": 249391,
-      "word": "星光大赏直播",
-      "onboard_time": 1766294601,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -25627,6 +25643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "范丞丞拍的星空",
+      "onboard_time": 1766294601,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "银价",
@@ -25921,6 +25945,14 @@
       "onboard_time": 1765861762,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177930,
+      "num": 177930,
+      "word": "儿子阻止车祸也没救回父母",
+      "onboard_time": 1766295201,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 177888,
@@ -28683,6 +28715,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 161406,
+      "num": 161406,
+      "word": "左一助理回应",
+      "onboard_time": 1766294362,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161402,
       "num": 282848,
       "word": "王楚钦回应3比0松岛辉空张本美和",
@@ -28977,14 +29017,6 @@
       "onboard_time": 1765888161,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159908,
-      "num": 159908,
-      "word": "左一助理回应",
-      "onboard_time": 1766294362,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 159898,
@@ -31281,6 +31313,14 @@
       "onboard_time": 1764567023,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150389,
+      "num": 150389,
+      "word": "一家5口人有4口查出甲状腺癌",
+      "onboard_time": 1766295562,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150371,
@@ -34203,6 +34243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139003,
+      "num": 139003,
+      "word": "汪顺哭了",
+      "onboard_time": 1766295623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138944,
       "num": 138944,
       "word": "周柯宇回应读狙击蝴蝶剧本读到害羞",
@@ -34377,14 +34425,6 @@
       "onboard_time": 1765069401,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 138238,
-      "num": 138238,
-      "word": "范丞丞拍的星空",
-      "onboard_time": 1766294601,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 138222,
@@ -35057,6 +35097,14 @@
       "onboard_time": 1764779179,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136278,
+      "num": 136278,
+      "word": "一代人有一代人的饺子馅",
+      "onboard_time": 1766290701,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 136274,
@@ -38451,14 +38499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126441,
-      "num": 126441,
-      "word": "一代人有一代人的饺子馅",
-      "onboard_time": 1766290701,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126377,
       "num": 126377,
       "word": "王力宏被歌迷讽刺到了",
@@ -39723,6 +39763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122841,
+      "num": 155900,
+      "word": "金价又涨了",
+      "onboard_time": 1765857083,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122840,
       "num": 122840,
       "word": "刘耀文高会",
@@ -40857,6 +40905,14 @@
       "onboard_time": 1764836481,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120025,
+      "num": 120025,
+      "word": "李兰迪 比巴掌先来的是姐姐的香气",
+      "onboard_time": 1766295500,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120004,
@@ -42257,6 +42313,14 @@
       "onboard_time": 1765972821,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116672,
+      "num": 116672,
+      "word": "孔雪儿 古堡公主",
+      "onboard_time": 1766294902,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116669,
@@ -44675,14 +44739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110949,
-      "num": 155900,
-      "word": "金价又涨了",
-      "onboard_time": 1765857083,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110931,
       "num": 110931,
       "word": "王楚钦撤回一个下班卡",
@@ -45425,6 +45481,14 @@
       "onboard_time": 1765002680,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108920,
+      "num": 108920,
+      "word": "李莎旻子以为去非洲采访是节目组骗她",
+      "onboard_time": 1766295442,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 108909,
@@ -47273,14 +47337,6 @@
       "onboard_time": 1765971081,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103855,
-      "num": 103855,
-      "word": "孔雪儿 古堡公主",
-      "onboard_time": 1766294902,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 103849,
@@ -49161,14 +49217,6 @@
       "onboard_time": 1764814700,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99904,
-      "num": 196481,
-      "word": "王影璐 鞋跟",
-      "onboard_time": 1766294121,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 99897,
@@ -58163,6 +58211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70673,
+      "num": 103668,
+      "word": "海信世界杯定制产品亮相",
+      "onboard_time": 1766293521,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70640,
       "num": 121127,
       "word": "王一博脸和手反差感",
@@ -60475,6 +60531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59061,
+      "num": 192115,
+      "word": "印度这事儿做得太不地道",
+      "onboard_time": 1766293642,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59006,
       "num": 162249,
       "word": "日本撒谎被锤",
@@ -60681,14 +60745,6 @@
       "onboard_time": 1764991820,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57954,
-      "num": 103668,
-      "word": "海信世界杯定制产品亮相",
-      "onboard_time": 1766293521,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 57891,
@@ -60985,14 +61041,6 @@
       "onboard_time": 1765124240,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56455,
-      "num": 192115,
-      "word": "印度这事儿做得太不地道",
-      "onboard_time": 1766293642,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56453,
@@ -62633,6 +62681,14 @@
       "onboard_time": 1764849501,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49455,
+      "num": 119115,
+      "word": "48岁郭品超回应皮肤松弛",
+      "onboard_time": 1766295321,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 49419,
@@ -72360,6 +72416,14 @@
       "word": "多家超10年店龄网红女装闭店",
       "onboard_time": 1765857682,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6171,
+      "num": 119514,
+      "word": "蒋万安驳斥台北袭击案凶手不实谣言",
+      "onboard_time": 1766295741,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

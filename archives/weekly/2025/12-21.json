@@ -1,10 +1,10 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766294957410,
+  "endTime": 1766295901464,
   "band_list": [
     {
-      "raw_hot": 3270385,
-      "num": 3270385,
+      "raw_hot": 5488933,
+      "num": 5488933,
       "word": "星光大赏红毯",
       "onboard_time": 1766294121,
       "rank": 0,
@@ -105,6 +105,14 @@
       "onboard_time": 1766292440,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640830,
+      "num": 270120,
+      "word": "周柯宇p掉了陈妍希眼线",
+      "onboard_time": 1766295080,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 617676,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398556,
+      "num": 266449,
+      "word": "田曦薇金色流苏裙",
+      "onboard_time": 1766293580,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393715,
       "num": 315584,
       "word": "小洛熙事件法律不能再缺席",
@@ -251,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391274,
+      "num": 391274,
+      "word": "星光大赏直播",
+      "onboard_time": 1766294601,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386574,
       "num": 386574,
       "word": "396",
       "onboard_time": 1766289561,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 378296,
+      "num": 265293,
+      "word": "王影璐 鞋跟",
+      "onboard_time": 1766294121,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 372552,
@@ -275,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362006,
-      "num": 258238,
-      "word": "田曦薇金色流苏裙",
-      "onboard_time": 1766293580,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359186,
       "num": 359186,
       "word": "外企集体加入中国内卷",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 358131,
-      "num": 231540,
+      "num": 258653,
       "word": "孟子义星光大赏第二套出图",
       "onboard_time": 1766293342,
       "rank": 14,
@@ -345,14 +369,6 @@
       "onboard_time": 1766281459,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308646,
-      "num": 249391,
-      "word": "星光大赏直播",
-      "onboard_time": 1766294601,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 299612,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197603,
+      "num": 197603,
+      "word": "现在就出发3",
+      "onboard_time": 1766295260,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195888,
       "num": 462356,
       "word": "工商银行被罚没超4000万元",
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "范丞丞拍的星空",
+      "onboard_time": 1766294601,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179828,
       "num": 179828,
       "word": "普通人变幸运最直接的方式",
@@ -576,6 +608,14 @@
       "word": "虞书欣 你做的咖啡再甜我都不稀罕",
       "onboard_time": 1766232440,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177930,
+      "num": 177930,
+      "word": "儿子阻止车祸也没救回父母",
+      "onboard_time": 1766295201,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -635,20 +675,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161406,
+      "num": 161406,
+      "word": "左一助理回应",
+      "onboard_time": 1766294362,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160595,
       "num": 160595,
       "word": "双轨加更礼",
       "onboard_time": 1766291539,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159908,
-      "num": 159908,
-      "word": "左一助理回应",
-      "onboard_time": 1766294362,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 156128,
@@ -689,6 +729,14 @@
       "onboard_time": 1766287700,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150389,
+      "num": 150389,
+      "word": "一家5口人有4口查出甲状腺癌",
+      "onboard_time": 1766295562,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150143,
@@ -763,12 +811,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 138238,
-      "num": 138238,
-      "word": "范丞丞拍的星空",
-      "onboard_time": 1766294601,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 139003,
+      "num": 139003,
+      "word": "汪顺哭了",
+      "onboard_time": 1766295623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136278,
+      "num": 136278,
+      "word": "一代人有一代人的饺子馅",
+      "onboard_time": 1766290701,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 136057,
@@ -803,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126441,
-      "num": 126441,
-      "word": "一代人有一代人的饺子馅",
-      "onboard_time": 1766290701,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125928,
       "num": 125928,
       "word": "女生做上门私厨一天做4家月入2万",
@@ -835,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122841,
+      "num": 122841,
+      "word": "金价又涨了",
+      "onboard_time": 1766295562,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120900,
       "num": 120900,
       "word": "陈哲远找到了最适合自己的综艺",
@@ -857,6 +913,14 @@
       "onboard_time": 1766284099,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120025,
+      "num": 120025,
+      "word": "李兰迪 比巴掌先来的是姐姐的香气",
+      "onboard_time": 1766295500,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 119369,
@@ -899,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116672,
+      "num": 116672,
+      "word": "孔雪儿 古堡公主",
+      "onboard_time": 1766294902,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115207,
       "num": 226833,
       "word": "华晨宇 互联网都是记忆",
@@ -915,11 +987,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103855,
-      "num": 103855,
-      "word": "孔雪儿 古堡公主",
-      "onboard_time": 1766294902,
-      "rank": 47,
+      "raw_hot": 108920,
+      "num": 108920,
+      "word": "李莎旻子以为去非洲采访是节目组骗她",
+      "onboard_time": 1766295442,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -952,14 +1024,6 @@
       "word": "时代少年团 七星连珠",
       "onboard_time": 1766242943,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99904,
-      "num": 196481,
-      "word": "王影璐 鞋跟",
-      "onboard_time": 1766294121,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1163,6 +1227,14 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 70673,
+      "num": 103668,
+      "word": "海信世界杯定制产品亮相",
+      "onboard_time": 1766293521,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70566,
       "num": 70566,
       "word": "东北嫡长孙的直播实力",
@@ -1251,20 +1323,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59061,
+      "num": 192115,
+      "word": "印度这事儿做得太不地道",
+      "onboard_time": 1766293642,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58385,
       "num": 58385,
       "word": "冬至进补宜温补",
       "onboard_time": 1766282719,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57954,
-      "num": 103668,
-      "word": "海信世界杯定制产品亮相",
-      "onboard_time": 1766293521,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 57524,
@@ -1281,14 +1353,6 @@
       "onboard_time": 1766230161,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56455,
-      "num": 192115,
-      "word": "印度这事儿做得太不地道",
-      "onboard_time": 1766293642,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56166,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1766246303,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49455,
+      "num": 119115,
+      "word": "48岁郭品超回应皮肤松弛",
+      "onboard_time": 1766295321,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 49290,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1766254516,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6171,
+      "num": 119514,
+      "word": "蒋万安驳斥台北袭击案凶手不实谣言",
+      "onboard_time": 1766295741,
+      "rank": 36,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
