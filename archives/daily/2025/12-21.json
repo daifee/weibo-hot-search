@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766301993962,
+  "endTime": 1766302822058,
   "band_list": [
     {
       "raw_hot": 9567666,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1303004,
-      "num": 279976,
+      "num": 324785,
       "word": "周柯宇p掉了陈妍希眼线",
       "onboard_time": 1766295080,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 677351,
-      "num": 239040,
+      "num": 315343,
       "word": "宋茜婚纱高定",
       "onboard_time": 1766301023,
       "rank": 12,
@@ -153,6 +153,14 @@
       "onboard_time": 1766282961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599938,
+      "num": 357708,
+      "word": "周也头纱被踩",
+      "onboard_time": 1766301741,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 585059,
@@ -307,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448426,
+      "num": 308172,
+      "word": "张凌赫刘宇宁 鬼怪",
+      "onboard_time": 1766302161,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427696,
       "num": 198998,
       "word": "左一为打助理道歉",
       "onboard_time": 1766278161,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410498,
+      "num": 246991,
+      "word": "孙乐言控场能力好强",
+      "onboard_time": 1766299941,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 398556,
@@ -323,20 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397223,
-      "num": 222844,
-      "word": "孙乐言控场能力好强",
-      "onboard_time": 1766299941,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395921,
       "num": 290089,
       "word": "星光大赏爆灯",
       "onboard_time": 1766296824,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395032,
+      "num": 371391,
+      "word": "大学生不要再玩月薪3000的梗了",
+      "onboard_time": 1766299702,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 393715,
@@ -387,14 +411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 371391,
-      "num": 371391,
-      "word": "大学生不要再玩月薪3000的梗了",
-      "onboard_time": 1766299702,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 367893,
       "num": 367893,
       "word": "白鹿星光大赏妆",
@@ -417,6 +433,14 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354346,
+      "num": 354346,
+      "word": "原来结婚居然要有三枚戒指",
+      "onboard_time": 1766301441,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 353094,
@@ -465,6 +489,14 @@
       "onboard_time": 1766281459,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306954,
+      "num": 306954,
+      "word": "星光村赏",
+      "onboard_time": 1766301381,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 299612,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189581,
-      "num": 226022,
-      "word": "原来结婚居然要有三枚戒指",
-      "onboard_time": 1766301441,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189437,
       "num": 354827,
       "word": "考研英语",
@@ -825,6 +849,14 @@
       "onboard_time": 1766274317,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 169895,
+      "num": 152169,
+      "word": "冯彦哲黄东萍混双冠军",
+      "onboard_time": 1766302642,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 169773,
@@ -955,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150553,
+      "num": 150553,
+      "word": "吴昕绿野仙踪",
+      "onboard_time": 1766301561,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150143,
       "num": 150143,
       "word": "老外刚来中国时vs来中国一年后",
@@ -1019,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143836,
-      "num": 143836,
-      "word": "星光村赏",
-      "onboard_time": 1766301381,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143469,
       "num": 271735,
       "word": "michelledaniel",
@@ -1049,6 +1081,22 @@
       "onboard_time": 1766295623,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138420,
+      "num": 105341,
+      "word": "刘宇宁在红毯上狂奔",
+      "onboard_time": 1766302701,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137546,
+      "num": 260871,
+      "word": "35岁就不配相亲了吗",
+      "onboard_time": 1766300961,
+      "rank": 19,
+      "category": "议题讨论,情感"
     },
     {
       "raw_hot": 136278,
@@ -1083,16 +1131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133462,
-      "num": 133462,
-      "word": "周也头纱被踩",
-      "onboard_time": 1766301741,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132578,
-      "num": 132578,
+      "num": 203161,
       "word": "女子被赌徒前夫当着11岁儿子面杀害",
       "onboard_time": 1766300121,
       "rank": 34,
@@ -1243,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114832,
-      "num": 114832,
-      "word": "吴昕绿野仙踪",
-      "onboard_time": 1766301561,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113491,
       "num": 113491,
       "word": "秦岚星光大赏cos双生花",
@@ -1283,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108739,
+      "num": 108739,
+      "word": "长安二十四计格局打开",
+      "onboard_time": 1766302101,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107560,
       "num": 107560,
       "word": "王赫野你也没放过何老师",
@@ -1307,12 +1347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105848,
-      "num": 212881,
-      "word": "35岁就不配相亲了吗",
-      "onboard_time": 1766300961,
-      "rank": 19,
-      "category": "议题讨论,情感"
+      "raw_hot": 106056,
+      "num": 106056,
+      "word": "顾玉怎么站起来了",
+      "onboard_time": 1766302101,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104814,
+      "num": 104814,
+      "word": "喜人走红毯也全是活",
+      "onboard_time": 1766301920,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102627,
@@ -1411,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96856,
-      "num": 96856,
-      "word": "喜人走红毯也全是活",
-      "onboard_time": 1766301920,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96071,
       "num": 96071,
       "word": "这居然是55岁的鲁豫",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1766283859,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84708,
+      "num": 332675,
+      "word": "央视曝光私域直播骗人模式",
+      "onboard_time": 1766301561,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84062,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1766242162,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73955,
+      "num": 253219,
+      "word": "法医刘良团队的尸检报告是关键铁证",
+      "onboard_time": 1766302041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73850,
@@ -1787,12 +1843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55115,
-      "num": 250276,
-      "word": "央视曝光私域直播骗人模式",
-      "onboard_time": 1766301561,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 53465,
+      "num": 118920,
+      "word": "开局全是人结局全是坟",
+      "onboard_time": 1766302341,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 52970,
@@ -1931,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37084,
+      "num": 122864,
+      "word": "小洛熙事件追问手术室应该有监控吗",
+      "onboard_time": 1766301980,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35795,
       "num": 1001728,
       "word": "通信技术试验卫星二十三号发射成功",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1766232502,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30462,
+      "num": 105574,
+      "word": "杨紫说自己穿的是假貂",
+      "onboard_time": 1766302760,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 29900,
@@ -2219,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14990,
+      "num": 116854,
+      "word": "官方通报贵州一小区居民家自来水变蓝",
+      "onboard_time": 1766302583,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14122,
       "num": 72595,
       "word": "侯明昊嘴角自动上扬",
@@ -2249,6 +2329,14 @@
       "onboard_time": 1766295741,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1872,
+      "num": 121292,
+      "word": "费启鸣 凌妙妙弄错了我们没弄错",
+      "onboard_time": 1766302341,
+      "rank": 36,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
