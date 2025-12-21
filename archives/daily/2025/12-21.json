@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766327142748,
+  "endTime": 1766328149970,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7129867,
+      "num": 7129867,
+      "word": "孟子义摔了",
+      "onboard_time": 1766327065,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2919658,
       "num": 2919658,
       "word": "考研数学",
       "onboard_time": 1766282479,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2711854,
-      "num": 879692,
-      "word": "孟子义摔了",
-      "onboard_time": 1766327065,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2306820,
@@ -224,6 +224,14 @@
       "word": "小洛熙妈妈讲述最新进展",
       "onboard_time": 1766313621,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765823,
+      "num": 284830,
+      "word": "检察官为儿子强奸未成年做无罪辩护",
+      "onboard_time": 1766326105,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421596,
+      "num": 355893,
+      "word": "丁禹兮内场",
+      "onboard_time": 1766324543,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416132,
       "num": 361564,
       "word": "孙乐言把鞠婧祎说感动了",
@@ -776,14 +792,6 @@
       "word": "孟子义星光大赏第二套出图",
       "onboard_time": 1766293342,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355893,
-      "num": 355893,
-      "word": "丁禹兮内场",
-      "onboard_time": 1766324543,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -979,6 +987,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288431,
+      "num": 288431,
+      "word": "樊振东3比0豪格",
+      "onboard_time": 1766327726,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287116,
+      "num": 715135,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1766326764,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284560,
       "num": 203469,
       "word": "周也 武神",
@@ -1032,6 +1056,14 @@
       "word": "星光大赏变星光小赏",
       "onboard_time": 1766300780,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273956,
+      "num": 273956,
+      "word": "田曦薇美得不知天地为何物了",
+      "onboard_time": 1766325686,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1163,14 +1195,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 237531,
-      "num": 237531,
-      "word": "田曦薇美得不知天地为何物了",
-      "onboard_time": 1766325686,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236979,
       "num": 863182,
       "word": "中国羽毛球队运动员退役仪式",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1766303002,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220775,
-      "num": 715135,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1766326764,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 219584,
@@ -1427,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197870,
+      "num": 197870,
+      "word": "开始推理吧",
+      "onboard_time": 1766327485,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197745,
       "num": 197745,
       "word": "鞠婧祎9年女王归来",
@@ -1587,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184114,
-      "num": 189707,
-      "word": "检察官为儿子强奸未成年做无罪辩护",
-      "onboard_time": 1766326105,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183435,
       "num": 183435,
       "word": "折腰",
@@ -1675,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174008,
+      "num": 561013,
+      "word": "私人影院异性陪侍4人被刑拘",
+      "onboard_time": 1766326404,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 171771,
       "num": 171771,
       "word": "甜心格格影视化",
@@ -1699,12 +1723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167676,
-      "num": 561013,
-      "word": "私人影院异性陪侍4人被刑拘",
-      "onboard_time": 1766326404,
-      "rank": 12,
-      "category": "辟谣/通报"
+      "raw_hot": 169501,
+      "num": 169501,
+      "word": "早点 退役",
+      "onboard_time": 1766327606,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 167360,
@@ -2059,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143293,
+      "num": 143293,
+      "word": "iPhone设置演唱会模式",
+      "onboard_time": 1766327185,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142688,
       "num": 142688,
       "word": "腾讯视频 爱你老己",
@@ -2091,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141832,
+      "num": 141832,
+      "word": "卓沅直播",
+      "onboard_time": 1766327844,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141659,
       "num": 174046,
       "word": "羽毛球",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1766306723,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139994,
+      "num": 347721,
+      "word": "央视曝光旧衣回收产业链内幕",
+      "onboard_time": 1766326945,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 139832,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1766325504,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137876,
+      "num": 136618,
+      "word": "霍思燕养了20多只狗狗",
+      "onboard_time": 1766327907,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137546,
@@ -2859,6 +2915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 79529,
+      "num": 560868,
+      "word": "滥竽充数的竽失传了",
+      "onboard_time": 1766325744,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79450,
       "num": 272717,
       "word": "时代少年团七缺一",
@@ -2987,14 +3051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70228,
-      "num": 560868,
-      "word": "滥竽充数的竽失传了",
-      "onboard_time": 1766325744,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65628,
       "num": 65628,
       "word": "每天练背3分钟真的会瘦脸",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1766293642,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58967,
+      "num": 277507,
+      "word": "直播间6元尾货实为二手旧衣",
+      "onboard_time": 1766327726,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 58385,
@@ -3443,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32312,
+      "num": 458443,
+      "word": "为弟追凶27年案一审将宣判",
+      "onboard_time": 1766326526,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32152,
       "num": 162469,
       "word": "零关税进口车个人不能买",
@@ -3561,22 +3633,6 @@
       "onboard_time": 1766254815,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27294,
-      "num": 458443,
-      "word": "为弟追凶27年案一审将宣判",
-      "onboard_time": 1766326526,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26923,
-      "num": 347721,
-      "word": "央视曝光旧衣回收产业链内幕",
-      "onboard_time": 1766326945,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26323,
@@ -3739,11 +3795,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17746,
+      "num": 175387,
+      "word": "直播间神药低进高出利润可达5倍",
+      "onboard_time": 1766327305,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17738,
       "num": 72658,
       "word": "狙击蝴蝶",
       "onboard_time": 1766234122,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17366,
+      "num": 229677,
+      "word": "长安二十四计纯享加一计",
+      "onboard_time": 1766327785,
+      "rank": 28,
       "category": "剧集"
     },
     {

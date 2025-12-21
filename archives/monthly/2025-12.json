@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766327142748,
+  "endTime": 1766328149970,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -145,6 +145,14 @@
       "onboard_time": 1765708042,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7129867,
+      "num": 7129867,
+      "word": "孟子义摔了",
+      "onboard_time": 1766327065,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 6156148,
@@ -305,14 +313,6 @@
       "onboard_time": 1765268121,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2711854,
-      "num": 879692,
-      "word": "孟子义摔了",
-      "onboard_time": 1766327065,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2552923,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1765244781,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 765823,
+      "num": 284830,
+      "word": "检察官为儿子强奸未成年做无罪辩护",
+      "onboard_time": 1766326105,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 762179,
@@ -9939,6 +9947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421596,
+      "num": 355893,
+      "word": "丁禹兮内场",
+      "onboard_time": 1766324543,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421539,
       "num": 1039453,
       "word": "男子肺炎住院2天突发狂躁后死亡",
@@ -12329,14 +12345,6 @@
       "onboard_time": 1765286783,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355893,
-      "num": 355893,
-      "word": "丁禹兮内场",
-      "onboard_time": 1766324543,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 355773,
@@ -15595,6 +15603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 288431,
+      "num": 288431,
+      "word": "樊振东3比0豪格",
+      "onboard_time": 1766327726,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288334,
       "num": 200646,
       "word": "王玉雯稳得不像第一次主持",
@@ -15649,6 +15665,14 @@
       "onboard_time": 1766011276,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287116,
+      "num": 715135,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1766326764,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 286982,
@@ -16473,6 +16497,14 @@
       "onboard_time": 1765333520,
       "rank": 26,
       "category": "军事"
+    },
+    {
+      "raw_hot": 273956,
+      "num": 273956,
+      "word": "田曦薇美得不知天地为何物了",
+      "onboard_time": 1766325686,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 273732,
@@ -18867,14 +18899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237531,
-      "num": 237531,
-      "word": "田曦薇美得不知天地为何物了",
-      "onboard_time": 1766325686,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237495,
       "num": 237495,
       "word": "R1SE浙江跨晚 结没结婚都来了",
@@ -20177,14 +20201,6 @@
       "onboard_time": 1766303002,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220775,
-      "num": 715135,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1766326764,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 220641,
@@ -23339,6 +23355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197870,
+      "num": 197870,
+      "word": "开始推理吧",
+      "onboard_time": 1766327485,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197783,
       "num": 197783,
       "word": "汪苏泷广州",
@@ -25947,14 +25971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184114,
-      "num": 189707,
-      "word": "检察官为儿子强奸未成年做无罪辩护",
-      "onboard_time": 1766326105,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184032,
       "num": 184032,
       "word": "苏新皓送给穆祉丞的礼物",
@@ -27523,6 +27539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174008,
+      "num": 561013,
+      "word": "私人影院异性陪侍4人被刑拘",
+      "onboard_time": 1766326404,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 173984,
       "num": 173984,
       "word": "云南调查运动员被索要奖金事件",
@@ -28323,6 +28347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169501,
+      "num": 169501,
+      "word": "早点 退役",
+      "onboard_time": 1766327606,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169469,
       "num": 800074,
       "word": "A股行情",
@@ -28617,14 +28649,6 @@
       "onboard_time": 1766197220,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167676,
-      "num": 561013,
-      "word": "私人影院异性陪侍4人被刑拘",
-      "onboard_time": 1766326404,
-      "rank": 12,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167641,
@@ -34227,6 +34251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143293,
+      "num": 143293,
+      "word": "iPhone设置演唱会模式",
+      "onboard_time": 1766327185,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143244,
       "num": 143244,
       "word": "2025王者荣耀挑战者杯",
@@ -34657,6 +34689,14 @@
       "onboard_time": 1765428923,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141832,
+      "num": 141832,
+      "word": "卓沅直播",
+      "onboard_time": 1765113802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 141752,
@@ -35209,6 +35249,14 @@
       "onboard_time": 1766148201,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139994,
+      "num": 347721,
+      "word": "央视曝光旧衣回收产业链内幕",
+      "onboard_time": 1766326945,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 139920,
@@ -35889,6 +35937,14 @@
       "onboard_time": 1765717884,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137876,
+      "num": 136618,
+      "word": "霍思燕养了20多只狗狗",
+      "onboard_time": 1766327907,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137859,
@@ -46417,14 +46473,6 @@
       "onboard_time": 1765304655,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110146,
-      "num": 110146,
-      "word": "卓沅直播",
-      "onboard_time": 1765113802,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 110122,
@@ -57947,6 +57995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79529,
+      "num": 560868,
+      "word": "滥竽充数的竽失传了",
+      "onboard_time": 1766325744,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79524,
       "num": 79524,
       "word": "陈妍希 有妹感的姐姐",
@@ -60033,14 +60089,6 @@
       "onboard_time": 1766072240,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70228,
-      "num": 560868,
-      "word": "滥竽充数的竽失传了",
-      "onboard_time": 1766325744,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70215,
@@ -62265,6 +62313,14 @@
       "onboard_time": 1765419080,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58967,
+      "num": 277507,
+      "word": "直播间6元尾货实为二手旧衣",
+      "onboard_time": 1766327726,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 58955,
@@ -68923,6 +68979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32312,
+      "num": 458443,
+      "word": "为弟追凶27年案一审将宣判",
+      "onboard_time": 1766326526,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32308,
       "num": 146403,
       "word": "村内告示称外省结婚交1500元",
@@ -70387,14 +70451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27294,
-      "num": 458443,
-      "word": "为弟追凶27年案一审将宣判",
-      "onboard_time": 1766326526,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27268,
       "num": 124747,
       "word": "香港10亿日元劫案一内地男子被捕",
@@ -70457,14 +70513,6 @@
       "onboard_time": 1765227433,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 26923,
-      "num": 347721,
-      "word": "央视曝光旧衣回收产业链内幕",
-      "onboard_time": 1766326945,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26900,
@@ -72763,6 +72811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17746,
+      "num": 175387,
+      "word": "直播间神药低进高出利润可达5倍",
+      "onboard_time": 1766327305,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17739,
       "num": 109817,
       "word": "孙颖莎绝妙回球变线",
@@ -72824,6 +72880,14 @@
       "word": "任嘉伦眼神戏",
       "onboard_time": 1766095755,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17366,
+      "num": 229677,
+      "word": "长安二十四计纯享加一计",
+      "onboard_time": 1766327785,
+      "rank": 28,
       "category": "剧集"
     },
     {

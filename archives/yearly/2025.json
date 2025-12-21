@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766327142748,
+  "endTime": 1766328149970,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2291,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7129867,
+      "num": 7129867,
+      "word": "孟子义摔了",
+      "onboard_time": 1766327065,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7112313,
       "num": 7112313,
       "word": "黄杨钿甜爸爸发文",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1756219584,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6863614,
-      "num": 6863614,
-      "word": "白百何回应东京电影节未获奖",
-      "onboard_time": 1762425621,
-      "rank": 8,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
