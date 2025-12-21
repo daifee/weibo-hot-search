@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766324737135,
+  "endTime": 1766327142748,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -25,6 +25,14 @@
       "onboard_time": 1766282479,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2711854,
+      "num": 879692,
+      "word": "孟子义摔了",
+      "onboard_time": 1766327065,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2306820,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1060640,
-      "num": 474487,
+      "num": 497952,
       "word": "星光大赏 替身文学",
       "onboard_time": 1766319563,
       "rank": 3,
@@ -171,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 877632,
+      "num": 877632,
+      "word": "星光大赏 玩手机大赏",
+      "onboard_time": 1766325023,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851965,
       "num": 851965,
       "word": "考研结束",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 677367,
-      "num": 328162,
+      "num": 474468,
       "word": "陈奕恒 来吧",
       "onboard_time": 1766322623,
       "rank": 10,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561197,
+      "num": 561197,
+      "word": "孟子义李昀锐 让女儿听听好吗",
+      "onboard_time": 1766323764,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554146,
       "num": 327191,
       "word": "陈妍希好甜好仙",
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 532864,
-      "num": 325187,
+      "num": 451791,
       "word": "一上午11人确诊癌症晚期医生痛心",
       "onboard_time": 1766318182,
       "rank": 14,
@@ -449,6 +473,14 @@
       "onboard_time": 1766238863,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487982,
+      "num": 487982,
+      "word": "鞠婧祎内场生频",
+      "onboard_time": 1766323463,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 487841,
@@ -547,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440064,
-      "num": 279392,
-      "word": "鞠婧祎内场生频",
-      "onboard_time": 1766323463,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 430607,
       "num": 240426,
       "word": "宋祖儿顶级骨相",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 430577,
-      "num": 430577,
+      "num": 782333,
       "word": "终于有人吐槽巴厘岛旅游了",
       "onboard_time": 1766318725,
       "rank": 5,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414076,
+      "num": 414076,
+      "word": "张真源哄娃 丁程鑫喂水",
+      "onboard_time": 1766323403,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412456,
       "num": 323784,
       "word": "白鹿内场",
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 409731,
-      "num": 321335,
+      "num": 406913,
       "word": "周也王玉雯把陈星旭聊走了",
       "onboard_time": 1766322503,
       "rank": 16,
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355893,
+      "num": 355893,
+      "word": "丁禹兮内场",
+      "onboard_time": 1766324543,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353094,
       "num": 198300,
       "word": "胡锡进为小洛熙发声",
@@ -763,8 +803,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345557,
+      "num": 345557,
+      "word": "吴磊座位",
+      "onboard_time": 1766323524,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342579,
-      "num": 342579,
+      "num": 878549,
       "word": "樊振东vs豪格",
       "onboard_time": 1766324426,
       "rank": 6,
@@ -817,14 +865,6 @@
       "onboard_time": 1766309843,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 321582,
-      "num": 277513,
-      "word": "吴磊座位",
-      "onboard_time": 1766323524,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 318577,
@@ -880,14 +920,6 @@
       "word": "白鹿星光大赏有3套造型",
       "onboard_time": 1766314341,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 309042,
-      "num": 277164,
-      "word": "张真源哄娃 丁程鑫喂水",
-      "onboard_time": 1766323403,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -977,14 +1009,6 @@
       "onboard_time": 1766311103,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277109,
-      "num": 277109,
-      "word": "孟子义李昀锐 让女儿听听好吗",
-      "onboard_time": 1766323764,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 276869,
@@ -1099,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249697,
+      "num": 249697,
+      "word": "疯狂动物城3",
+      "onboard_time": 1766325085,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249009,
       "num": 249009,
       "word": "孟子义李昀锐下台也牵着手",
@@ -1131,11 +1163,35 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 237531,
+      "num": 237531,
+      "word": "田曦薇美得不知天地为何物了",
+      "onboard_time": 1766325686,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236979,
+      "num": 863182,
+      "word": "中国羽毛球队运动员退役仪式",
+      "onboard_time": 1766324963,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234707,
       "num": 234707,
       "word": "庞铮主持",
       "onboard_time": 1766313982,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230052,
+      "num": 230052,
+      "word": "龚俊亲吻鲨鱼",
+      "onboard_time": 1766323884,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1187,6 +1243,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220775,
+      "num": 715135,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1766326764,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219584,
+      "num": 219584,
+      "word": "于适直播",
+      "onboard_time": 1766326404,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "技能五子棋",
+      "onboard_time": 1766325504,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216090,
       "num": 216090,
       "word": "成毅 夸人也要可汗大点兵",
@@ -1235,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208020,
+      "num": 646666,
+      "word": "章莹颖去世8年母亲每日以泪洗面",
+      "onboard_time": 1766322024,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207364,
       "num": 239429,
       "word": "全网第一个知道考研成绩的人",
@@ -1249,14 +1337,6 @@
       "onboard_time": 1766318364,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206855,
-      "num": 206855,
-      "word": "丁禹兮内场",
-      "onboard_time": 1766324543,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 206656,
@@ -1395,14 +1475,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 195848,
-      "num": 195848,
-      "word": "龚俊亲吻鲨鱼",
-      "onboard_time": 1766323884,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195283,
       "num": 273956,
       "word": "刘宇宁耳返炸到耳朵啦",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1766309362,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190989,
+      "num": 190989,
+      "word": "陈清晨退役感言",
+      "onboard_time": 1766326225,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 190113,
@@ -1507,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184114,
+      "num": 189707,
+      "word": "检察官为儿子强奸未成年做无罪辩护",
+      "onboard_time": 1766326105,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183435,
       "num": 183435,
       "word": "折腰",
@@ -1520,6 +1608,14 @@
       "word": "林允穿这么美来扎针",
       "onboard_time": 1766310923,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180147,
+      "num": 180147,
+      "word": "内场的檀健次daddy级别",
+      "onboard_time": 1766326644,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1603,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167676,
+      "num": 561013,
+      "word": "私人影院异性陪侍4人被刑拘",
+      "onboard_time": 1766326404,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 167360,
       "num": 167359,
       "word": "陈都灵温峥嵘 公主与王后",
@@ -1651,12 +1755,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163822,
+      "num": 163822,
+      "word": "常德淘汰株洲",
+      "onboard_time": 1766326824,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163110,
+      "num": 163110,
+      "word": "LGD发文期望在更高的舞台再见",
+      "onboard_time": 1766326644,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162607,
       "num": 242913,
       "word": "KPL",
       "onboard_time": 1766298202,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162326,
+      "num": 163204,
+      "word": "喜人",
+      "onboard_time": 1766325804,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 161406,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1766291539,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160139,
+      "num": 160139,
+      "word": "我的年度赛场记忆",
+      "onboard_time": 1766326644,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 159540,
@@ -1755,19 +1891,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152851,
+      "num": 152851,
+      "word": "Q9夺冠",
+      "onboard_time": 1766326585,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152757,
       "num": 152757,
       "word": "一年最冷的日子要来了",
       "onboard_time": 1766273777,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152215,
-      "num": 167053,
-      "word": "章莹颖去世8年母亲每日以泪洗面",
-      "onboard_time": 1766322024,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2009,6 +2145,14 @@
       "onboard_time": 1766302701,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137964,
+      "num": 478482,
+      "word": "玫瑰盐在我国仅限工业用途",
+      "onboard_time": 1766325504,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137546,
@@ -2475,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100293,
+      "num": 163323,
+      "word": "华晨宇卷毛小羊",
+      "onboard_time": 1766325686,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99889,
       "num": 99889,
       "word": "成毅王劲松叶祖新这段我不敢呼吸",
@@ -2835,6 +2987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70228,
+      "num": 560868,
+      "word": "滥竽充数的竽失传了",
+      "onboard_time": 1766325744,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65628,
       "num": 65628,
       "word": "每天练背3分钟真的会瘦脸",
@@ -3179,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37552,
+      "num": 881125,
+      "word": "冬至是春节的预告片",
+      "onboard_time": 1766324604,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37084,
       "num": 122864,
       "word": "小洛熙事件追问手术室应该有监控吗",
@@ -3395,6 +3563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27294,
+      "num": 458443,
+      "word": "为弟追凶27年案一审将宣判",
+      "onboard_time": 1766326526,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26923,
+      "num": 347721,
+      "word": "央视曝光旧衣回收产业链内幕",
+      "onboard_time": 1766326945,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26323,
       "num": 55444,
       "word": "别给汪苏泷的嘴留档期",
@@ -3561,14 +3745,6 @@
       "onboard_time": 1766234122,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17547,
-      "num": 802208,
-      "word": "冬至是春节的预告片",
-      "onboard_time": 1766324604,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16757,
