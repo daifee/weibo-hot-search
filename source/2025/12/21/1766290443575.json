@@ -1,0 +1,410 @@
+{
+  "runTime": 1766290443575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2919658,
+        "num": 2919658,
+        "word": "考研数学",
+        "onboard_time": 1766282479,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1162359,
+        "num": 1162359,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28223,
+        "num": 1000969,
+        "word": "通信技术试验卫星二十三号发射成功",
+        "onboard_time": 1766287280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 957505,
+        "num": 957505,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901193,
+        "num": 901193,
+        "word": "考研数学一",
+        "onboard_time": 1766288900,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 782996,
+        "num": 782996,
+        "word": "考研数学二",
+        "onboard_time": 1766288900,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 758329,
+        "num": 758329,
+        "word": "星光大赏节目单",
+        "onboard_time": 1766287700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643882,
+        "num": 643882,
+        "word": "法硕",
+        "onboard_time": 1766288661,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 585059,
+        "num": 585059,
+        "word": "考研数学二 简单",
+        "onboard_time": 1766289200,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21888,
+        "num": 557604,
+        "word": "2025年商务部使用贸易工具次数翻倍",
+        "onboard_time": 1766289499,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1722929,
+        "num": 554748,
+        "word": "小洛熙爸爸发解剖台画面被禁止播放",
+        "onboard_time": 1766289320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548068,
+        "num": 548068,
+        "word": "丈夫全程喊刹车妻子仍撞上路人",
+        "onboard_time": 1766282961,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487978,
+        "num": 487978,
+        "word": "考研333",
+        "onboard_time": 1766288779,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 462573,
+        "num": 462573,
+        "word": "考研数学三",
+        "onboard_time": 1766288900,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451602,
+        "num": 451602,
+        "word": "王玉雯 今天是厉害女人",
+        "onboard_time": 1766289320,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386574,
+        "num": 386574,
+        "word": "396",
+        "onboard_time": 1766289561,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57524,
+        "num": 384543,
+        "word": "范德彪成了饭得飙",
+        "onboard_time": 1766286621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45061,
+        "num": 382260,
+        "word": "高市早苗着急早点见特朗普",
+        "onboard_time": 1766289681,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29041,
+        "num": 378441,
+        "word": "冬至养生智慧藏在非遗里",
+        "onboard_time": 1766286559,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20360,
+        "num": 377918,
+        "word": "邓亚萍的心选好味",
+        "onboard_time": 1766287640,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558218,
+        "num": 373962,
+        "word": "张韶涵回应裁员裁到大动脉",
+        "onboard_time": 1766281399,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372552,
+        "num": 372552,
+        "word": "考研数学答案",
+        "onboard_time": 1766289499,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338687,
+        "num": 338687,
+        "word": "白鹿星光大赏妆",
+        "onboard_time": 1766285299,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 291544,
+        "word": "广东把冬至过成夏至",
+        "onboard_time": 1766281459,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283375,
+        "num": 283375,
+        "word": "外企集体加入中国内卷",
+        "onboard_time": 1766285359,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267036,
+        "num": 267036,
+        "word": "央视曝光旧手机回收猫腻",
+        "onboard_time": 1766278759,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266926,
+        "num": 266926,
+        "word": "考研西综",
+        "onboard_time": 1766288360,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289068,
+        "num": 266143,
+        "word": "闵塔鲨给白鹿准备的裙子",
+        "onboard_time": 1766289440,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50200,
+        "num": 263800,
+        "word": "撒贝宁一句话概括鸿蒙的时代意义",
+        "onboard_time": 1766289981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262913,
+        "num": 262913,
+        "word": "毛晓彤星光大赏没约到摄影师",
+        "onboard_time": 1766284160,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253113,
+        "num": 253113,
+        "word": "卫健委应解释小洛熙尸检报告",
+        "onboard_time": 1766289800,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232370,
+        "num": 232370,
+        "word": "数三",
+        "onboard_time": 1766289380,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149700,
+        "num": 220677,
+        "word": "美国公布550页黑纸",
+        "onboard_time": 1766288479,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213161,
+        "num": 213161,
+        "word": "王一博身心疲惫正调整状态",
+        "onboard_time": 1766282659,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203262,
+        "num": 203262,
+        "word": "饺子",
+        "onboard_time": 1766282840,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201541,
+        "num": 201541,
+        "word": "数学三",
+        "onboard_time": 1766289621,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198976,
+        "num": 198976,
+        "word": "不看价格吃喝的一天有多爽",
+        "onboard_time": 1766289740,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191954,
+        "num": 191954,
+        "word": "今日23时03分冬至",
+        "onboard_time": 1766277739,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15378,
+        "num": 172704,
+        "word": "举报者回应烧伤超人阿宝税收问题",
+        "onboard_time": 1766289260,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "左一为打助理道歉",
+        "onboard_time": 1766278161,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165749,
+        "num": 165749,
+        "word": "星光大赏节目单没有时代少年团",
+        "onboard_time": 1766288179,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140708,
+        "num": 140708,
+        "word": "冬至三件套",
+        "onboard_time": 1766290160,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133148,
+        "num": 133148,
+        "word": "陈妍希台湾腔告别视频",
+        "onboard_time": 1766285119,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130148,
+        "num": 130148,
+        "word": "陈都灵银色流苏裙",
+        "onboard_time": 1766288841,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120645,
+        "num": 120645,
+        "word": "卢昱晓cos朱迪警官",
+        "onboard_time": 1766282298,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127072,
+        "num": 120483,
+        "word": "星光大赏",
+        "onboard_time": 1766222061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 120139,
+        "word": "吴昕星光大赏怎么美成这样了",
+        "onboard_time": 1766287040,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123097,
+        "num": 117261,
+        "word": "孟子义鎏金女神",
+        "onboard_time": 1766287700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112266,
+        "num": 112266,
+        "word": "李昀锐allblack西装",
+        "onboard_time": 1766286860,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97298,
+        "num": 111634,
+        "word": "苹果炖奶",
+        "onboard_time": 1766281640,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}

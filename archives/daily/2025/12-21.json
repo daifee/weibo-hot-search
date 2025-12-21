@@ -1,14 +1,22 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766289917819,
+  "endTime": 1766290443575,
   "band_list": [
     {
-      "raw_hot": 1808484,
-      "num": 1808484,
+      "raw_hot": 2919658,
+      "num": 2919658,
       "word": "考研数学",
       "onboard_time": 1766282479,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1722929,
+      "num": 554748,
+      "word": "小洛熙爸爸发解剖台画面被禁止播放",
+      "onboard_time": 1766289320,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1599713,
@@ -19,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1150244,
-      "num": 1150244,
+      "raw_hot": 1162359,
+      "num": 1162359,
       "word": "星光大赏出图",
       "onboard_time": 1766283800,
       "rank": 9,
@@ -67,20 +75,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 721129,
-      "num": 721129,
+      "raw_hot": 758329,
+      "num": 758329,
       "word": "星光大赏节目单",
       "onboard_time": 1766287700,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 665195,
-      "num": 540891,
-      "word": "小洛熙爸爸发解剖台画面被禁止播放",
-      "onboard_time": 1766289320,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 650711,
@@ -97,6 +97,14 @@
       "onboard_time": 1766282961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585059,
+      "num": 585059,
+      "word": "考研数学二 简单",
+      "onboard_time": 1766289200,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 547644,
@@ -171,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434770,
-      "num": 434770,
-      "word": "考研数学二 简单",
-      "onboard_time": 1766289200,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 451602,
+      "num": 451602,
+      "word": "王玉雯 今天是厉害女人",
+      "onboard_time": 1766289320,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 427696,
@@ -195,12 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383960,
-      "num": 383960,
-      "word": "王玉雯 今天是厉害女人",
-      "onboard_time": 1766289320,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 386574,
+      "num": 386574,
+      "word": "396",
+      "onboard_time": 1766289561,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 372552,
+      "num": 372552,
+      "word": "考研数学答案",
+      "onboard_time": 1766289499,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 367893,
@@ -225,22 +241,6 @@
       "onboard_time": 1766279478,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343167,
-      "num": 343167,
-      "word": "考研数学答案",
-      "onboard_time": 1766289499,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 341275,
-      "num": 341275,
-      "word": "396",
-      "onboard_time": 1766289561,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 340326,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289068,
+      "num": 266143,
+      "word": "闵塔鲨给白鹿准备的裙子",
+      "onboard_time": 1766289440,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284134,
       "num": 284134,
       "word": "考研西综",
@@ -321,6 +329,14 @@
       "onboard_time": 1766244203,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253113,
+      "num": 253113,
+      "word": "卫健委应解释小洛熙尸检报告",
+      "onboard_time": 1766289800,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243236,
@@ -395,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198976,
+      "num": 198976,
+      "word": "不看价格吃喝的一天有多爽",
+      "onboard_time": 1766289740,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195888,
       "num": 462356,
       "word": "工商银行被罚没超4000万元",
@@ -451,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171996,
-      "num": 171996,
-      "word": "卫健委应解释小洛熙尸检报告",
-      "onboard_time": 1766289800,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171771,
       "num": 171771,
       "word": "甜心格格影视化",
@@ -475,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168969,
-      "num": 168969,
-      "word": "闵塔鲨给白鹿准备的裙子",
-      "onboard_time": 1766289440,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165831,
       "num": 280795,
       "word": "永州淘汰长沙",
       "onboard_time": 1766240004,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165749,
+      "num": 165749,
+      "word": "星光大赏节目单没有时代少年团",
+      "onboard_time": 1766288179,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 164085,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149700,
+      "num": 328248,
+      "word": "美国公布550页黑纸",
+      "onboard_time": 1766288479,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146032,
       "num": 275665,
       "word": "易烊千玺演讲",
@@ -555,20 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142697,
-      "num": 142697,
-      "word": "不看价格吃喝的一天有多爽",
-      "onboard_time": 1766289740,
-      "rank": 43,
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "冬至三件套",
+      "onboard_time": 1766290160,
+      "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141567,
-      "num": 141567,
-      "word": "星光大赏节目单没有时代少年团",
-      "onboard_time": 1766288179,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 136057,
@@ -601,14 +617,6 @@
       "onboard_time": 1766286860,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129457,
-      "num": 328248,
-      "word": "美国公布550页黑纸",
-      "onboard_time": 1766288479,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125928,
@@ -947,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57524,
+      "num": 384543,
+      "word": "范德彪成了饭得飙",
+      "onboard_time": 1766286621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56743,
       "num": 270259,
       "word": "夫妻吵架上头丈夫血管当场气炸",
@@ -992,6 +1008,14 @@
       "word": "杨旭文上央视学会了种花",
       "onboard_time": 1766246303,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50200,
+      "num": 263800,
+      "word": "撒贝宁一句话概括鸿蒙的时代意义",
+      "onboard_time": 1766289981,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1051,12 +1075,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45574,
-      "num": 350469,
-      "word": "范德彪成了饭得飙",
-      "onboard_time": 1766286621,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 45061,
+      "num": 382260,
+      "word": "高市早苗着急早点见特朗普",
+      "onboard_time": 1766289681,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42075,
@@ -1147,16 +1171,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 31735,
-      "num": 243834,
-      "word": "高市早苗着急早点见特朗普",
-      "onboard_time": 1766289681,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31548,
-      "num": 353392,
+      "num": 378441,
       "word": "冬至养生智慧藏在非遗里",
       "onboard_time": 1766286559,
       "rank": 18,
@@ -1251,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21888,
+      "num": 557604,
+      "word": "2025年商务部使用贸易工具次数翻倍",
+      "onboard_time": 1766289499,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21681,
       "num": 72750,
       "word": "美食时间",
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 21608,
-      "num": 357444,
+      "num": 377918,
       "word": "邓亚萍的心选好味",
       "onboard_time": 1766287640,
       "rank": 17,
@@ -1331,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15378,
+      "num": 172704,
+      "word": "举报者回应烧伤超人阿宝税收问题",
+      "onboard_time": 1766289260,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15307,
       "num": 56289,
       "word": "刘宇宁纯白战袍封神了",
@@ -1339,28 +1371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14838,
-      "num": 151092,
-      "word": "举报者回应烧伤超人阿宝税收问题",
-      "onboard_time": 1766289260,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14122,
       "num": 72595,
       "word": "侯明昊嘴角自动上扬",
       "onboard_time": 1766267234,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11990,
-      "num": 551221,
-      "word": "2025年商务部使用贸易工具次数翻倍",
-      "onboard_time": 1766289499,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10925,
