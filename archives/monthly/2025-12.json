@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766292910440,
+  "endTime": 1766294957410,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -241,6 +241,14 @@
       "onboard_time": 1765977921,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3270385,
+      "num": 3270385,
+      "word": "星光大赏红毯",
+      "onboard_time": 1766294121,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3249130,
@@ -713,6 +721,14 @@
       "onboard_time": 1766204840,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1639528,
+      "num": 1162359,
+      "word": "星光大赏出图",
+      "onboard_time": 1766283800,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1632817,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1765334360,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1233772,
-      "num": 1162359,
-      "word": "星光大赏出图",
-      "onboard_time": 1766283800,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 1230701,
@@ -4611,6 +4619,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 641560,
+      "num": 513958,
+      "word": "鞠婧祎珍珠名伶",
+      "onboard_time": 1766292440,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641104,
       "num": 1102576,
       "word": "明年力争实现全国生娃基本不花钱",
@@ -6323,6 +6339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 541267,
+      "num": 541267,
+      "word": "交警要求网友删视频并爆粗口",
+      "onboard_time": 1766291179,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540715,
       "num": 540715,
       "word": "神隐",
@@ -6393,14 +6417,6 @@
       "onboard_time": 1765963402,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536914,
-      "num": 308534,
-      "word": "鞠婧祎珍珠名伶",
-      "onboard_time": 1766292440,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 536675,
@@ -6644,7 +6660,7 @@
     },
     {
       "raw_hot": 526573,
-      "num": 274951,
+      "num": 287997,
       "word": "闵塔鲨给白鹿准备的裙子",
       "onboard_time": 1766289440,
       "rank": 37,
@@ -7745,6 +7761,14 @@
       "onboard_time": 1765204401,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480528,
+      "num": 480528,
+      "word": "冬至三件套",
+      "onboard_time": 1766290160,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 480183,
@@ -11603,6 +11627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362006,
+      "num": 258238,
+      "word": "田曦薇金色流苏裙",
+      "onboard_time": 1766293580,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361714,
       "num": 361714,
       "word": "三十年前的奢侈品零食有多好吃",
@@ -11665,14 +11697,6 @@
       "onboard_time": 1765341562,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360333,
-      "num": 300875,
-      "word": "冬至三件套",
-      "onboard_time": 1766290160,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 360185,
@@ -11769,6 +11793,14 @@
       "onboard_time": 1765513101,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358131,
+      "num": 231540,
+      "word": "孟子义星光大赏第二套出图",
+      "onboard_time": 1766293342,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 357905,
@@ -12577,6 +12609,14 @@
       "onboard_time": 1765456342,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340039,
+      "num": 281186,
+      "word": "杨幂黄子韬 这叫智取宝贝",
+      "onboard_time": 1766291420,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 338444,
@@ -14051,6 +14091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308646,
+      "num": 249391,
+      "word": "星光大赏直播",
+      "onboard_time": 1766294601,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308634,
       "num": 274027,
       "word": "刘亦菲珠宝消失术",
@@ -14457,6 +14505,14 @@
       "onboard_time": 1765702883,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299612,
+      "num": 299612,
+      "word": "二战日本集中营女性遭遇曝光",
+      "onboard_time": 1766292140,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 299519,
@@ -18035,14 +18091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238482,
-      "num": 238482,
-      "word": "交警要求网友删视频并爆粗口",
-      "onboard_time": 1766291179,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "尖叫之夜红毯主持人",
@@ -20176,14 +20224,6 @@
       "word": "朱孝天看新闻才知道被退出F4",
       "onboard_time": 1765185681,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 211718,
-      "num": 211718,
-      "word": "杨幂黄子韬 这叫智取宝贝",
-      "onboard_time": 1766291420,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -24177,6 +24217,14 @@
       "onboard_time": 1765425802,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187742,
+      "num": 187742,
+      "word": "女明星星光大赏妆造",
+      "onboard_time": 1766294362,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 187673,
@@ -28931,6 +28979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159908,
+      "num": 159908,
+      "word": "左一助理回应",
+      "onboard_time": 1766294362,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159898,
       "num": 159898,
       "word": "许昕直播全红婵是榜一",
@@ -32115,6 +32171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146499,
+      "num": 146499,
+      "word": "分开六年的爱人请别再走丢",
+      "onboard_time": 1766294180,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146488,
       "num": 261627,
       "word": "小米澎湃OS微信聊天能发实况图",
@@ -33291,6 +33355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141906,
+      "num": 141906,
+      "word": "这个减肥搭子我是真的想要",
+      "onboard_time": 1766293580,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141850,
       "num": 141850,
       "word": "谁教王一博这样撒娇的",
@@ -34003,14 +34075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139334,
-      "num": 285415,
-      "word": "二战日本集中营女性遭遇曝光",
-      "onboard_time": 1766292140,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139326,
       "num": 139326,
       "word": "张凯毅黄金凤冠遭毁紧急在线求助",
@@ -34313,6 +34377,14 @@
       "onboard_time": 1765069401,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138238,
+      "num": 138238,
+      "word": "范丞丞拍的星空",
+      "onboard_time": 1766294601,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 138222,
@@ -38379,6 +38451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126441,
+      "num": 126441,
+      "word": "一代人有一代人的饺子馅",
+      "onboard_time": 1766290701,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126377,
       "num": 126377,
       "word": "王力宏被歌迷讽刺到了",
@@ -38721,6 +38801,14 @@
       "onboard_time": 1765448960,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125226,
+      "num": 125226,
+      "word": "张淼怡星光大赏出图",
+      "onboard_time": 1766293160,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 125215,
@@ -40473,6 +40561,14 @@
       "onboard_time": 1765963941,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120900,
+      "num": 120900,
+      "word": "陈哲远找到了最适合自己的综艺",
+      "onboard_time": 1766294301,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120877,
@@ -45035,6 +45131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109468,
+      "num": 109468,
+      "word": "那年今日孙颖莎祝大家冬至快乐",
+      "onboard_time": 1766294661,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109445,
       "num": 196560,
       "word": "孙颖莎智搜指数殿堂级第一",
@@ -47171,6 +47275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103855,
+      "num": 103855,
+      "word": "孔雪儿 古堡公主",
+      "onboard_time": 1766294902,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103849,
       "num": 276207,
       "word": "欧豪演唱会",
@@ -49049,6 +49161,14 @@
       "onboard_time": 1764814700,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99904,
+      "num": 196481,
+      "word": "王影璐 鞋跟",
+      "onboard_time": 1766294121,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 99897,
@@ -55171,6 +55291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82917,
+      "num": 117819,
+      "word": "很少看到一部剧三位帝皇完",
+      "onboard_time": 1766293701,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82911,
       "num": 82911,
       "word": "莫雷加德发文分享与王楚钦拥抱照",
@@ -59947,6 +60075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61108,
+      "num": 116632,
+      "word": "您的育儿补贴已到账",
+      "onboard_time": 1766292920,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61077,
       "num": 61077,
       "word": "低质量社交的4个表现",
@@ -60547,6 +60683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57954,
+      "num": 103668,
+      "word": "海信世界杯定制产品亮相",
+      "onboard_time": 1766293521,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57891,
       "num": 103927,
       "word": "李在明明确反驳自主核武装论",
@@ -60841,6 +60985,14 @@
       "onboard_time": 1765124240,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56455,
+      "num": 192115,
+      "word": "印度这事儿做得太不地道",
+      "onboard_time": 1766293642,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56453,
@@ -63144,6 +63296,14 @@
       "word": "工信部回应个别电动车不够人性化",
       "onboard_time": 1764891317,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46169,
+      "num": 117523,
+      "word": "女子开车遇天降活鸡落在引擎盖",
+      "onboard_time": 1766293642,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -69073,6 +69233,14 @@
       "onboard_time": 1765151000,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24569,
+      "num": 118926,
+      "word": "剧还没播先看上HE结局",
+      "onboard_time": 1766293822,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 24545,

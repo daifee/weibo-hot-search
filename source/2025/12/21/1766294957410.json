@@ -1,0 +1,410 @@
+{
+  "runTime": 1766294957410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3270385,
+        "num": 3270385,
+        "word": "星光大赏红毯",
+        "onboard_time": 1766294121,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1104667,
+        "num": 1104667,
+        "word": "考研数学",
+        "onboard_time": 1766282479,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 875251,
+        "word": "通信技术试验卫星二十三号发射成功",
+        "onboard_time": 1766287280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 747196,
+        "num": 747196,
+        "word": "冬至",
+        "onboard_time": 1766250438,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541267,
+        "num": 541267,
+        "word": "交警要求网友删视频并爆粗口",
+        "onboard_time": 1766291179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641560,
+        "num": 513958,
+        "word": "鞠婧祎珍珠名伶",
+        "onboard_time": 1766292440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480528,
+        "num": 480528,
+        "word": "冬至三件套",
+        "onboard_time": 1766290160,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484487,
+        "num": 469581,
+        "word": "星光大赏节目单",
+        "onboard_time": 1766287700,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339601,
+        "num": 339601,
+        "word": "王玉雯 今天是厉害女人",
+        "onboard_time": 1766289320,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299612,
+        "num": 299612,
+        "word": "二战日本集中营女性遭遇曝光",
+        "onboard_time": 1766292140,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409676,
+        "num": 287997,
+        "word": "闵塔鲨给白鹿准备的裙子",
+        "onboard_time": 1766289440,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340039,
+        "num": 281186,
+        "word": "杨幂黄子韬 这叫智取宝贝",
+        "onboard_time": 1766291420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362006,
+        "num": 258238,
+        "word": "田曦薇金色流苏裙",
+        "onboard_time": 1766293580,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308646,
+        "num": 249391,
+        "word": "星光大赏直播",
+        "onboard_time": 1766294601,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358131,
+        "num": 231540,
+        "word": "孟子义星光大赏第二套出图",
+        "onboard_time": 1766293342,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225936,
+        "num": 225936,
+        "word": "丈夫全程喊刹车妻子仍撞上路人",
+        "onboard_time": 1766282961,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206383,
+        "num": 206383,
+        "word": "李兰迪公主盘发小黑裙",
+        "onboard_time": 1766291360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203895,
+        "num": 203895,
+        "word": "广东把冬至过成夏至",
+        "onboard_time": 1766281459,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199263,
+        "num": 199263,
+        "word": "饺子",
+        "onboard_time": 1766282840,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99904,
+        "num": 196481,
+        "word": "王影璐 鞋跟",
+        "onboard_time": 1766294121,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1639528,
+        "num": 194220,
+        "word": "星光大赏出图",
+        "onboard_time": 1766283800,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56455,
+        "num": 192115,
+        "word": "印度这事儿做得太不地道",
+        "onboard_time": 1766293642,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370444,
+        "num": 189191,
+        "word": "张韶涵回应裁员裁到大动脉",
+        "onboard_time": 1766281399,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187742,
+        "num": 187742,
+        "word": "女明星星光大赏妆造",
+        "onboard_time": 1766294362,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160735,
+        "num": 160735,
+        "word": "张宇押题",
+        "onboard_time": 1766291720,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159908,
+        "num": 159908,
+        "word": "左一助理回应",
+        "onboard_time": 1766294362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146499,
+        "num": 146499,
+        "word": "分开六年的爱人请别再走丢",
+        "onboard_time": 1766294180,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146270,
+        "num": 146270,
+        "word": "三亚警方通报一私人影院涉黄",
+        "onboard_time": 1766291179,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 141906,
+        "word": "这个减肥搭子我是真的想要",
+        "onboard_time": 1766293580,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138238,
+        "num": 138238,
+        "word": "范丞丞拍的星空",
+        "onboard_time": 1766294601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146187,
+        "num": 137818,
+        "word": "左一为打助理道歉",
+        "onboard_time": 1766278161,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126441,
+        "num": 126441,
+        "word": "一代人有一代人的饺子馅",
+        "onboard_time": 1766290701,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 125226,
+        "word": "张淼怡星光大赏出图",
+        "onboard_time": 1766293160,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123521,
+        "num": 123521,
+        "word": "法硕",
+        "onboard_time": 1766288661,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122249,
+        "num": 122249,
+        "word": "考研333",
+        "onboard_time": 1766288779,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120900,
+        "num": 120900,
+        "word": "陈哲远找到了最适合自己的综艺",
+        "onboard_time": 1766294301,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118996,
+        "num": 118996,
+        "word": "今日23时03分冬至",
+        "onboard_time": 1766277739,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118976,
+        "num": 118976,
+        "word": "央视曝光旧手机回收猫腻",
+        "onboard_time": 1766278759,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24569,
+        "num": 118926,
+        "word": "剧还没播先看上HE结局",
+        "onboard_time": 1766293822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82917,
+        "num": 117819,
+        "word": "很少看到一部剧三位帝皇完",
+        "onboard_time": 1766293701,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46169,
+        "num": 117523,
+        "word": "女子开车遇天降活鸡落在引擎盖",
+        "onboard_time": 1766293642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61108,
+        "num": 116632,
+        "word": "您的育儿补贴已到账",
+        "onboard_time": 1766292920,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116092,
+        "num": 116092,
+        "word": "星光大赏节目单没有时代少年团",
+        "onboard_time": 1766288179,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113125,
+        "num": 113125,
+        "word": "考研数学二 简单",
+        "onboard_time": 1766289200,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "老外刚来中国时vs来中国一年后",
+        "onboard_time": 1766291599,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109468,
+        "num": 109468,
+        "word": "那年今日孙颖莎祝大家冬至快乐",
+        "onboard_time": 1766294661,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41714,
+        "num": 104698,
+        "word": "撒贝宁一句话概括鸿蒙的时代意义",
+        "onboard_time": 1766289981,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103855,
+        "num": 103855,
+        "word": "孔雪儿 古堡公主",
+        "onboard_time": 1766294902,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57954,
+        "num": 103668,
+        "word": "海信世界杯定制产品亮相",
+        "onboard_time": 1766293521,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66885,
+        "num": 103598,
+        "word": "丞磊出发图 倒过来站立的沙发",
+        "onboard_time": 1766292499,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就共同富裕新画卷#"
+    }
+  }
+}
