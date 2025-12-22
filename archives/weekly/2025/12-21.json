@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766389507537,
+  "endTime": 1766392843585,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -105,6 +105,14 @@
       "onboard_time": 1766295080,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1260620,
+      "num": 186325,
+      "word": "福原爱向再婚丈夫家人致歉",
+      "onboard_time": 1766390060,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1246664,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 813035,
-      "num": 176421,
+      "num": 184938,
       "word": "贝克汉姆大儿子拉黑全家",
       "onboard_time": 1766386640,
       "rank": 30,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577408,
+      "num": 1092385,
+      "word": "优衣库店长下达偷拍顾客指标",
+      "onboard_time": 1766383220,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571958,
       "num": 353665,
       "word": "时代少年团红毯炸了炸了",
@@ -691,12 +707,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 504586,
-      "num": 1080733,
-      "word": "优衣库店长下达偷拍顾客指标",
-      "onboard_time": 1766383220,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 507842,
+      "num": 185257,
+      "word": "一哥爆料杜克",
+      "onboard_time": 1766387181,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 492269,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409107,
+      "num": 409107,
+      "word": "抗癌药平替有效成分为0",
+      "onboard_time": 1766387540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407279,
       "num": 1065164,
       "word": "骄阳似我开播",
@@ -1116,7 +1140,7 @@
     },
     {
       "raw_hot": 356240,
-      "num": 175228,
+      "num": 179331,
       "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
       "onboard_time": 1766386399,
       "rank": 33,
@@ -1283,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313102,
-      "num": 176085,
-      "word": "一哥爆料杜克",
-      "onboard_time": 1766387181,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 311830,
       "num": 311830,
       "word": "广东把冬至过成夏至",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1766375542,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302592,
+      "num": 179813,
+      "word": "俞灏明王晓晨牵手出行",
+      "onboard_time": 1766388620,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 300620,
@@ -1515,12 +1539,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266366,
+      "num": 223030,
+      "word": "有这3个睡眠习惯的人更易患癌",
+      "onboard_time": 1766391081,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 265142,
       "num": 265142,
       "word": "朱美吉好美",
       "onboard_time": 1766328147,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264564,
+      "num": 264564,
+      "word": "男子35岁当老总53岁升本科55岁考研",
+      "onboard_time": 1766387300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263831,
@@ -1643,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241976,
-      "num": 241976,
-      "word": "抗癌药平替有效成分为0",
-      "onboard_time": 1766387540,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "数三",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1766324963,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235185,
+      "num": 235185,
+      "word": "nova15价格",
+      "onboard_time": 1766389521,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 234707,
@@ -1777,14 +1817,6 @@
       "onboard_time": 1766303002,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219608,
-      "num": 223972,
-      "word": "男子35岁当老总53岁升本科55岁考研",
-      "onboard_time": 1766387300,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219584,
@@ -2012,7 +2044,7 @@
     },
     {
       "raw_hot": 202263,
-      "num": 287725,
+      "num": 325950,
       "word": "支持个人信用重塑",
       "onboard_time": 1766365462,
       "rank": 9,
@@ -2203,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193413,
+      "num": 181018,
+      "word": "易烊千玺绿色叠加西装",
+      "onboard_time": 1766392701,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192567,
       "num": 192567,
       "word": "一家5口人有4口查出甲状腺癌",
@@ -2355,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180676,
+      "num": 180676,
+      "word": "向太曝刘德华买理发店让老同事做店长",
+      "onboard_time": 1766391020,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "林允穿这么美来扎针",
@@ -2403,6 +2451,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179567,
+      "num": 186887,
+      "word": "范丞丞把沈腾的阴招搬来跑男了",
+      "onboard_time": 1766391624,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178881,
+      "num": 182978,
+      "word": "中方对日本高官言论感到震惊",
+      "onboard_time": 1766391624,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178810,
       "num": 178810,
       "word": "张宇押题",
@@ -2435,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177790,
+      "num": 177790,
+      "word": "电影匿杀 尺度",
+      "onboard_time": 1766392221,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177571,
       "num": 177571,
       "word": "龚俊王玉雯有点秘密全说出去了",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1766291179,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175721,
+      "num": 175721,
+      "word": "谭松韵年底忙成啥了",
+      "onboard_time": 1766389461,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174591,
@@ -2489,6 +2569,14 @@
       "onboard_time": 1766239523,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "曝左一女主被换",
+      "onboard_time": 1766388920,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167979,
@@ -2601,6 +2689,14 @@
       "onboard_time": 1766298202,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162520,
+      "num": 162520,
+      "word": "梁王组合丢下奖金头也不回走了",
+      "onboard_time": 1766392041,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 162326,
@@ -2859,6 +2955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148901,
+      "num": 148901,
+      "word": "歇口气明年再战吧",
+      "onboard_time": 1766392581,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148144,
       "num": 180929,
       "word": "这种花竟和茄子是一家",
@@ -2945,14 +3049,6 @@
       "onboard_time": 1766243662,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145711,
-      "num": 145711,
-      "word": "俞灏明王晓晨牵手出行",
-      "onboard_time": 1766388620,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 145636,
@@ -3235,6 +3331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 134945,
+      "num": 134945,
+      "word": "海警查获大量严重变质腐坏走私僵尸肉",
+      "onboard_time": 1766390780,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134035,
       "num": 134035,
       "word": "豆瓣崩了",
@@ -3347,6 +3451,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 128698,
+      "num": 128698,
+      "word": "22天圣诞假",
+      "onboard_time": 1766388081,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128327,
       "num": 128327,
       "word": "一次性信用修复个人无需申请",
@@ -3369,6 +3481,14 @@
       "onboard_time": 1766336599,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126859,
+      "num": 126859,
+      "word": "今年辛苦了明年请关照",
+      "onboard_time": 1766392641,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 126845,
@@ -3731,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109575,
+      "num": 109575,
+      "word": "23岁硕士川西徒步因高反去世",
+      "onboard_time": 1766390840,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109468,
       "num": 109468,
       "word": "那年今日孙颖莎祝大家冬至快乐",
@@ -3787,14 +3915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108422,
-      "num": 108422,
-      "word": "22天圣诞假",
-      "onboard_time": 1766388081,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108179,
       "num": 108179,
       "word": "金婧把周柯宇大头的衣服给了陈妍希",
@@ -3833,6 +3953,22 @@
       "onboard_time": 1766297362,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107131,
+      "num": 106716,
+      "word": "长安二十四计云合",
+      "onboard_time": 1766392701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106737,
+      "num": 106737,
+      "word": "再见爱人梁淞这表情不像装的",
+      "onboard_time": 1766390780,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 106248,
@@ -3955,6 +4091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102536,
+      "num": 102536,
+      "word": "少年的爱情是不可再生之物",
+      "onboard_time": 1766392641,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102535,
       "num": 125923,
       "word": "今年怎么都去阿勒泰看雪了",
@@ -4065,6 +4209,14 @@
       "onboard_time": 1766309661,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99282,
+      "num": 99282,
+      "word": "华为nova15正式发布",
+      "onboard_time": 1766391801,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 99095,
@@ -4193,14 +4345,6 @@
       "onboard_time": 1766389040,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 92771,
-      "num": 92771,
-      "word": "谭松韵年底忙成啥了",
-      "onboard_time": 1766389461,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92693,
@@ -4547,6 +4691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74357,
+      "num": 137450,
+      "word": "nova15搭载行业唯一前后双红枫",
+      "onboard_time": 1766392461,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74351,
       "num": 166698,
       "word": "华西医生分享治疗房缺患儿",
@@ -4785,14 +4937,6 @@
       "onboard_time": 1766291300,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63062,
-      "num": 108506,
-      "word": "曝左一女主被换",
-      "onboard_time": 1766388920,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 62915,
@@ -5196,7 +5340,7 @@
     },
     {
       "raw_hot": 43827,
-      "num": 175657,
+      "num": 176862,
       "word": "极地科考同款羽绒服黑科技",
       "onboard_time": 1766388320,
       "rank": 17,
@@ -5281,6 +5425,14 @@
       "onboard_time": 1766324604,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37277,
+      "num": 178497,
+      "word": "星光大赏乐事太会整活了",
+      "onboard_time": 1766390901,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 37120,
@@ -5624,6 +5776,22 @@
       "word": "波司登尔滨极地大秀冰封开场",
       "onboard_time": 1766372840,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25250,
+      "num": 134264,
+      "word": "12岁女孩被虐致死案生母再发声",
+      "onboard_time": 1766391680,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25073,
+      "num": 180577,
+      "word": "车厘子降价为啥我没感受到",
+      "onboard_time": 1766391981,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
