@@ -1,0 +1,410 @@
+{
+  "runTime": 1766369503610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415246,
+        "num": 1066439,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235791,
+        "num": 235791,
+        "word": "中国女子在欧洲邮轮上人间蒸发",
+        "onboard_time": 1766364860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21101,
+        "num": 230549,
+        "word": "北京范儿",
+        "onboard_time": 1766363660,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597681,
+        "num": 230191,
+        "word": "宋祖儿发现站昀孟中间的反应",
+        "onboard_time": 1766365881,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373026,
+        "num": 230057,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1766366299,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229536,
+        "num": 229536,
+        "word": "私人影院异性陪侍4人被刑拘",
+        "onboard_time": 1766326404,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 434158,
+        "num": 225620,
+        "word": "孟子义摔倒李昀锐的反应",
+        "onboard_time": 1766336239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208738,
+        "num": 208738,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1766369178,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205759,
+        "num": 205759,
+        "word": "小米17Ultra12月25日发布",
+        "onboard_time": 1766369420,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202263,
+        "num": 202263,
+        "word": "支持个人信用重塑",
+        "onboard_time": 1766365462,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1390785,
+        "num": 202259,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 853805,
+        "num": 202138,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787574,
+        "num": 202010,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390368,
+        "num": 201922,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300620,
+        "num": 201815,
+        "word": "徐志胜穿450元旧衣走红毯",
+        "onboard_time": 1766363361,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201796,
+        "num": 201796,
+        "word": "福原爱 江宏杰",
+        "onboard_time": 1766369060,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190551,
+        "num": 190551,
+        "word": "福原爱回应再婚并怀孕",
+        "onboard_time": 1766369060,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185572,
+        "num": 185572,
+        "word": "树那条虫子已经不重要了",
+        "onboard_time": 1766363900,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230673,
+        "num": 185548,
+        "word": "李昀锐连说两遍慢点儿",
+        "onboard_time": 1766363423,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42018,
+        "num": 185377,
+        "word": "成都通报私人影院违规经营情况",
+        "onboard_time": 1766368820,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185325,
+        "num": 185325,
+        "word": "能考上二本其实已经很厉害了",
+        "onboard_time": 1766321363,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160649,
+        "num": 160649,
+        "word": "禹宙中欣",
+        "onboard_time": 1766329225,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159896,
+        "num": 159896,
+        "word": "嘟嘟一直在帮忙给小鞠挡毯子",
+        "onboard_time": 1766366121,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137719,
+        "num": 137719,
+        "word": "星光大赏VIP之星",
+        "onboard_time": 1766334802,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128327,
+        "num": 128327,
+        "word": "一次性信用修复个人无需申请",
+        "onboard_time": 1766365581,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119040,
+        "num": 119040,
+        "word": "王安宇瞳孔地震",
+        "onboard_time": 1766361680,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116101,
+        "num": 116101,
+        "word": "干物妹小埋原型去世",
+        "onboard_time": 1766332462,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108179,
+        "num": 108179,
+        "word": "金婧把周柯宇大头的衣服给了陈妍希",
+        "onboard_time": 1766367199,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107895,
+        "num": 107895,
+        "word": "周也骨相",
+        "onboard_time": 1766365760,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107695,
+        "num": 107695,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103231,
+        "num": 103231,
+        "word": "徐志胜你拿什么和张凌赫刘宇宁争",
+        "onboard_time": 1766359879,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93274,
+        "num": 93274,
+        "word": "樊振东率队2025完美收官",
+        "onboard_time": 1766362159,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93165,
+        "num": 93165,
+        "word": "吃商极高的人开始续火锅了",
+        "onboard_time": 1766369001,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 92854,
+        "word": "周也王玉雯把陈星旭聊走了",
+        "onboard_time": 1766322503,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91838,
+        "num": 91838,
+        "word": "00后女孩常熬夜压力大确诊乳腺癌",
+        "onboard_time": 1766359879,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86883,
+        "num": 86883,
+        "word": "天鹅被误认为大蛤蟆",
+        "onboard_time": 1766361982,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77035,
+        "num": 77035,
+        "word": "那些旺自己的生活习惯",
+        "onboard_time": 1766363841,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74872,
+        "num": 74872,
+        "word": "年度最受欢迎节目组合",
+        "onboard_time": 1766364202,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33905,
+        "num": 74045,
+        "word": "81岁老太借56岁男子钱扯出情感债",
+        "onboard_time": 1766369420,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73527,
+        "num": 73527,
+        "word": "历年的星光大赏vip之星",
+        "onboard_time": 1766367620,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72128,
+        "num": 72128,
+        "word": "一上午11人确诊癌症晚期医生痛心",
+        "onboard_time": 1766318182,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70510,
+        "num": 70510,
+        "word": "王安宇带了出发家族老鼠干",
+        "onboard_time": 1766366661,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69048,
+        "num": 69048,
+        "word": "新买的衣服有刺鼻味一定要警惕",
+        "onboard_time": 1766360899,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67388,
+        "num": 67388,
+        "word": "撞脸的民警扮演儿子12年",
+        "onboard_time": 1766362941,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 65430,
+        "num": 67101,
+        "word": "官方通报独居女子离世遗产归公",
+        "onboard_time": 1766328926,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 66945,
+        "num": 66945,
+        "word": "曝哈登或将被卷入交易谈判",
+        "onboard_time": 1766369060,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66024,
+        "num": 66024,
+        "word": "樊振东3比0豪格",
+        "onboard_time": 1766327726,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65731,
+        "num": 65731,
+        "word": "每天吃猪油可控制体重和慢性炎症",
+        "onboard_time": 1766359699,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64596,
+        "num": 64596,
+        "word": "星光大赏第一排的含金量",
+        "onboard_time": 1766359940,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60824,
+        "num": 60824,
+        "word": "一次性信用修复政策不收费",
+        "onboard_time": 1766369480,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}
