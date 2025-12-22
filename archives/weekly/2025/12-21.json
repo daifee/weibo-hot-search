@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766402810484,
+  "endTime": 1766403611549,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1109337,
-      "num": 228389,
+      "num": 246458,
       "word": "骄阳似我 男二",
       "onboard_time": 1766400981,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1766374639,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1001987,
+      "num": 184734,
+      "word": "曝杨洋和顶流95花谈过恋爱",
+      "onboard_time": 1766401520,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 995526,
@@ -409,14 +417,6 @@
       "onboard_time": 1766315061,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 696063,
-      "num": 184734,
-      "word": "曝杨洋和顶流95花谈过恋爱",
-      "onboard_time": 1766401520,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 694421,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 472192,
-      "num": 202899,
+      "num": 218507,
       "word": "骄阳似我 何以笙箫默",
       "onboard_time": 1766399301,
       "rank": 30,
@@ -905,6 +905,14 @@
       "onboard_time": 1766273537,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459091,
+      "num": 203403,
+      "word": "国家文物局介入调查南京博物院事件",
+      "onboard_time": 1766400920,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458647,
@@ -1099,20 +1107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402220,
+      "num": 1064355,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1766400021,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 401123,
       "num": 401123,
       "word": "考研408",
       "onboard_time": 1766308703,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 399859,
-      "num": 1063977,
-      "word": "中央军委举行晋升上将军衔仪式",
-      "onboard_time": 1766400021,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 398556,
@@ -1467,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310186,
+      "num": 188661,
+      "word": "易烊千玺把影帝奖杯放在公司展柜",
+      "onboard_time": 1766401581,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309241,
       "num": 231608,
       "word": "白鹿星光大赏有3套造型",
@@ -1763,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261050,
+      "num": 261050,
+      "word": "微信转发淫秽信息给好友也违法",
+      "onboard_time": 1766401881,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261026,
       "num": 226785,
       "word": "小洛熙父母称家属隐私遭泄露",
@@ -1995,14 +2019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 225343,
-      "num": 188661,
-      "word": "易烊千玺把影帝奖杯放在公司展柜",
-      "onboard_time": 1766401581,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224315,
       "num": 221199,
       "word": "王一博身心疲惫正调整状态",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1766376860,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212972,
+      "num": 169781,
+      "word": "宋威龙好帅",
+      "onboard_time": 1766402481,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 212849,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1766289621,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203403,
-      "num": 203403,
-      "word": "国家文物局介入调查南京博物院事件",
-      "onboard_time": 1766400920,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203302,
@@ -2504,14 +2520,6 @@
       "word": "一家5口人有4口查出甲状腺癌",
       "onboard_time": 1766295562,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192561,
-      "num": 192561,
-      "word": "微信转发淫秽信息给好友也违法",
-      "onboard_time": 1766401881,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2827,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172348,
+      "num": 160185,
+      "word": "奇迹",
+      "onboard_time": 1766402721,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172030,
       "num": 172030,
       "word": "唐诡奇谭",
@@ -3051,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159417,
+      "num": 159417,
+      "word": "双轨海边婚礼呢",
+      "onboard_time": 1766403022,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159081,
       "num": 159081,
       "word": "时代少年团专属机位呢",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1766273777,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152533,
-      "num": 152533,
-      "word": "宋威龙好帅",
-      "onboard_time": 1766402481,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 151451,
@@ -3408,6 +3424,14 @@
       "word": "陈都灵发言 毕业答辩模板",
       "onboard_time": 1766393181,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144288,
+      "num": 133439,
+      "word": "李乃文 谁是老大不用我说吧",
+      "onboard_time": 1766402300,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -3739,14 +3763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131949,
-      "num": 131949,
-      "word": "李乃文 谁是老大不用我说吧",
-      "onboard_time": 1766402300,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "等我小了我也要黄景瑜",
@@ -3835,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129134,
+      "num": 124052,
+      "word": "白鹿听到自己颁奖嘉宾的反应萌萌的",
+      "onboard_time": 1766402481,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129112,
       "num": 173777,
       "word": "小洛熙事件调查惩前更要毖后",
@@ -3859,20 +3883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127887,
-      "num": 127887,
-      "word": "奇迹",
-      "onboard_time": 1766402721,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127435,
       "num": 127435,
       "word": "鞠婧祎领奖",
       "onboard_time": 1766336599,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127398,
+      "num": 127398,
+      "word": "金价上涨新人称快被三金愁哭了",
+      "onboard_time": 1766403140,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 127258,
@@ -3955,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124972,
+      "num": 124972,
+      "word": "网红面馆被立案调查多位明星曾打卡",
+      "onboard_time": 1766400861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124917,
       "num": 127415,
       "word": "苗梦初淘汰",
@@ -4011,12 +4043,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 122147,
-      "num": 122147,
-      "word": "白鹿听到自己颁奖嘉宾的反应萌萌的",
-      "onboard_time": 1766402481,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 122876,
+      "num": 117289,
+      "word": "BLG对战LNG",
+      "onboard_time": 1766403321,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 122125,
@@ -4299,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110849,
+      "num": 177498,
+      "word": "明年起向好友发淫秽信息违法",
+      "onboard_time": 1766402962,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110734,
       "num": 110734,
       "word": "刘轩丞直播",
@@ -4569,6 +4609,14 @@
       "onboard_time": 1766359879,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103226,
+      "num": 103226,
+      "word": "杜克公司申请杜克一哥商标",
+      "onboard_time": 1766400741,
+      "rank": 49,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 103221,
@@ -5427,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65742,
+      "num": 185731,
+      "word": "未来两周46条中日航线取消全部航班",
+      "onboard_time": 1766401701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65628,
       "num": 65628,
       "word": "每天练背3分钟真的会瘦脸",
@@ -5569,6 +5625,14 @@
       "onboard_time": 1766379442,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61276,
+      "num": 186685,
+      "word": "个人信用报告查询方式",
+      "onboard_time": 1766401701,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61108,
@@ -5819,6 +5883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48395,
+      "num": 191955,
+      "word": "充电宝CCC将可扫码追溯",
+      "onboard_time": 1766401760,
+      "rank": 9,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 48250,
       "num": 129112,
       "word": "女子被网恋男友5万元卖到缅甸",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1766340975,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47099,
+      "num": 201993,
+      "word": "华为nova15全系大大大大升级",
+      "onboard_time": 1766399781,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 47095,
@@ -5947,14 +6027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43980,
-      "num": 201993,
-      "word": "华为nova15全系大大大大升级",
-      "onboard_time": 1766399781,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43827,
       "num": 176862,
       "word": "极地科考同款羽绒服黑科技",
@@ -6003,14 +6075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41059,
-      "num": 191955,
-      "word": "充电宝CCC将可扫码追溯",
-      "onboard_time": 1766401760,
-      "rank": 9,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 40921,
       "num": 185963,
       "word": "哥哥为房产过户起诉4个妹妹胜诉",
@@ -6035,12 +6099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40129,
-      "num": 185731,
-      "word": "未来两周46条中日航线取消全部航班",
-      "onboard_time": 1766401701,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 39941,
+      "num": 187440,
+      "word": "Prada李现封面高智感拉满",
+      "onboard_time": 1766401520,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38547,
@@ -6091,6 +6155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37337,
+      "num": 130822,
+      "word": "看完阿凡达3才知道这张图含金量",
+      "onboard_time": 1766402481,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37277,
       "num": 178497,
       "word": "星光大赏乐事太会整活了",
@@ -6112,14 +6184,6 @@
       "word": "小洛熙事件追问手术室应该有监控吗",
       "onboard_time": 1766301980,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36801,
-      "num": 186685,
-      "word": "个人信用报告查询方式",
-      "onboard_time": 1766401701,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6161,14 +6225,6 @@
       "onboard_time": 1766382201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34956,
-      "num": 130822,
-      "word": "看完阿凡达3才知道这张图含金量",
-      "onboard_time": 1766402481,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 34905,
@@ -6219,12 +6275,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33700,
-      "num": 187440,
-      "word": "Prada李现封面高智感拉满",
-      "onboard_time": 1766401520,
-      "rank": 16,
-      "category": "作品衍生,时尚"
+      "raw_hot": 33886,
+      "num": 131552,
+      "word": "俄军高官死于汽车炸弹爆炸",
+      "onboard_time": 1766402601,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33592,
@@ -6457,14 +6513,6 @@
       "onboard_time": 1766254815,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27490,
-      "num": 131552,
-      "word": "俄军高官死于汽车炸弹爆炸",
-      "onboard_time": 1766402601,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26509,
