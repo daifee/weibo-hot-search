@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766443532536,
+  "endTime": 1766446058195,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -35,6 +35,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 502057,
+      "num": 138674,
+      "word": "李艺彤官宣离开丝芭",
+      "onboard_time": 1766444777,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469273,
+      "num": 469273,
+      "word": "23岁硕士徒步去世前已主动返程",
+      "onboard_time": 1766414063,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406191,
       "num": 406191,
       "word": "骄阳似我 男二",
@@ -43,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397315,
-      "num": 397315,
-      "word": "23岁硕士徒步去世前已主动返程",
-      "onboard_time": 1766414063,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 355111,
+      "num": 355111,
+      "word": "微博之夜",
+      "onboard_time": 1766406321,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317340,
@@ -83,12 +99,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258076,
-      "num": 247805,
-      "word": "微博之夜",
-      "onboard_time": 1766406321,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 278379,
+      "num": 170967,
+      "word": "福原爱向再婚丈夫家人致歉",
+      "onboard_time": 1766390060,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265513,
+      "num": 265513,
+      "word": "网红面馆被立案调查多位明星曾打卡",
+      "onboard_time": 1766400861,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253410,
+      "num": 253410,
+      "word": "女孩要水后炫耀被一旁女孩打翻",
+      "onboard_time": 1766411362,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242729,
@@ -115,14 +147,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 205385,
-      "num": 170967,
-      "word": "福原爱向再婚丈夫家人致歉",
-      "onboard_time": 1766390060,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184770,
       "num": 161991,
       "word": "斩杀线",
@@ -131,28 +155,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 182019,
-      "num": 182019,
-      "word": "女孩要水后炫耀被一旁女孩打翻",
-      "onboard_time": 1766411362,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175543,
       "num": 175543,
       "word": "韩四大企业集团掌门人拟访华",
       "onboard_time": 1766418801,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174552,
-      "num": 174552,
-      "word": "网红面馆被立案调查多位明星曾打卡",
-      "onboard_time": 1766400861,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170482,
@@ -171,20 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163268,
+      "num": 163268,
+      "word": "网约车臭车问题为何年年说年年有",
+      "onboard_time": 1766422578,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118624,
       "num": 161322,
       "word": "赵雅芝 香奈儿老了还是香奈儿",
       "onboard_time": 1766415562,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 112422,
-      "num": 112422,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 108362,
@@ -291,7 +307,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70976,
+      "raw_hot": 72078,
       "num": 160299,
       "word": "优衣库前员工展示可疑顾客相册",
       "onboard_time": 1766419642,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56543,
+      "num": 158963,
+      "word": "韩国人也用液体勺",
+      "onboard_time": 1766404760,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55158,
       "num": 159340,
       "word": "骄阳似我全糖啵啵预告",
@@ -347,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53061,
-      "num": 90233,
-      "word": "网约车臭车问题为何年年说年年有",
-      "onboard_time": 1766422578,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52999,
       "num": 160193,
       "word": "北京震感",
       "onboard_time": 1766407222,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 51312,
+      "num": 51312,
+      "word": "成毅王劲松长达3分钟的对峙戏",
+      "onboard_time": 1766440455,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 50358,
@@ -387,12 +411,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48603,
+      "num": 48223,
+      "word": "孟子义白鹿这一幕像极了电影",
+      "onboard_time": 1766442195,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48546,
       "num": 160068,
       "word": "她一生比别人多说好多句对不起",
       "onboard_time": 1766414362,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44533,
+      "num": 48219,
+      "word": "李艺彤签约海西传媒",
+      "onboard_time": 1766445438,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42655,
+      "num": 159200,
+      "word": "俞敏洪再谈董宇辉离职",
+      "onboard_time": 1766415802,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 42397,
@@ -411,20 +459,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40722,
-      "num": 159200,
-      "word": "俞敏洪再谈董宇辉离职",
-      "onboard_time": 1766415802,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 40054,
-      "num": 40204,
+      "num": 48125,
       "word": "得闲谨制",
       "onboard_time": 1766425695,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39151,
+      "num": 48157,
+      "word": "地球超新鲜",
+      "onboard_time": 1766398221,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 38941,
@@ -433,6 +481,14 @@
       "onboard_time": 1766409262,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37761,
+      "num": 48169,
+      "word": "吃车厘子每天不建议超过15颗",
+      "onboard_time": 1766443817,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36529,
@@ -451,20 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35712,
-      "num": 158963,
-      "word": "韩国人也用液体勺",
-      "onboard_time": 1766404760,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 34909,
       "num": 89096,
       "word": "改变从学会情绪刹车开始",
       "onboard_time": 1766423418,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34348,
+      "num": 48165,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1766400021,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31609,
@@ -483,28 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31360,
-      "num": 31360,
-      "word": "成毅王劲松长达3分钟的对峙戏",
-      "onboard_time": 1766440455,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30344,
       "num": 40172,
       "word": "庄序人设",
       "onboard_time": 1766427554,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30137,
-      "num": 30137,
-      "word": "孟子义白鹿这一幕像极了电影",
-      "onboard_time": 1766442195,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 28776,
@@ -515,20 +555,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27642,
-      "num": 30121,
-      "word": "地球超新鲜",
-      "onboard_time": 1766398221,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26530,
       "num": 55710,
       "word": "鞠婧祎这个背影",
       "onboard_time": 1766424917,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26467,
+      "num": 48102,
+      "word": "F4恒星之城演唱会",
+      "onboard_time": 1766417841,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24178,
+      "num": 48086,
+      "word": "信用修复",
+      "onboard_time": 1766444717,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20986,
@@ -545,14 +593,6 @@
       "onboard_time": 1766429174,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19160,
-      "num": 33536,
-      "word": "中央军委举行晋升上将军衔仪式",
-      "onboard_time": 1766400021,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19057,
