@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766379528101,
+  "endTime": 1766381566047,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 833394,
+      "num": 192518,
+      "word": "福原爱再婚对象正是出轨风波男主",
+      "onboard_time": 1766378603,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803762,
       "num": 356417,
       "word": "于正我恨你",
@@ -387,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661269,
+      "num": 192603,
+      "word": "山城小栗旬官宣恋情",
+      "onboard_time": 1766378302,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 655789,
       "num": 655789,
       "word": "KSG对战AG",
       "onboard_time": 1766299641,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 655533,
+      "num": 655533,
+      "word": "美国斩杀线",
+      "onboard_time": 1766378901,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 650711,
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 564845,
-      "num": 192603,
-      "word": "山城小栗旬官宣恋情",
-      "onboard_time": 1766378302,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 561461,
       "num": 360672,
       "word": "田曦薇咏梅撞衫",
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 534192,
-      "num": 303958,
+      "num": 371328,
       "word": "这个撤回就能看出他有多绝望了",
       "onboard_time": 1766375422,
       "rank": 38,
@@ -971,14 +987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 380824,
-      "num": 192518,
-      "word": "福原爱再婚对象正是出轨风波男主",
-      "onboard_time": 1766378603,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 378296,
       "num": 265293,
       "word": "王影璐 鞋跟",
@@ -1200,6 +1208,14 @@
       "word": "白鹿星光大赏有3套造型",
       "onboard_time": 1766314341,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308403,
+      "num": 141680,
+      "word": "闵塔鲨辟谣",
+      "onboard_time": 1766380700,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203794,
+      "num": 136486,
+      "word": "金莎孙丞潇都有夫妻相了",
+      "onboard_time": 1766380522,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203657,
       "num": 203657,
       "word": "数学三",
@@ -2244,7 +2268,7 @@
     },
     {
       "raw_hot": 172990,
-      "num": 172990,
+      "num": 719474,
       "word": "星光大赏数据",
       "onboard_time": 1766378482,
       "rank": 41,
@@ -2339,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165701,
+      "num": 794780,
+      "word": "星光大赏别虐待老人了",
+      "onboard_time": 1766380400,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165475,
       "num": 165475,
       "word": "陈飞宇穿的衣服是自己设计的",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1766294362,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160719,
-      "num": 192965,
-      "word": "美国斩杀线",
-      "onboard_time": 1766378901,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 160595,
@@ -2529,6 +2553,14 @@
       "onboard_time": 1766376741,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153462,
+      "num": 135647,
+      "word": "TF四代新音彩排",
+      "onboard_time": 1766381541,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 152972,
@@ -2971,12 +3003,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "男生应邀住女友家被控强奸获刑",
+      "onboard_time": 1766379981,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134035,
       "num": 134035,
       "word": "豆瓣崩了",
       "onboard_time": 1766324004,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133637,
+      "num": 133637,
+      "word": "刘宇宁遭受彩带魔法攻击",
+      "onboard_time": 1766380522,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 133381,
@@ -3041,6 +3089,14 @@
       "onboard_time": 1766322444,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129296,
+      "num": 151750,
+      "word": "恋与制作人 p5",
+      "onboard_time": 1766380222,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 129112,
@@ -3339,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110989,
+      "num": 110989,
+      "word": "陈星旭像奶了两个孩子",
+      "onboard_time": 1766381301,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110696,
       "num": 110696,
       "word": "王者荣耀挑战者杯",
@@ -3491,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104658,
+      "num": 104658,
+      "word": "马龙全红婵入选中国品牌青年500强",
+      "onboard_time": 1766381361,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103655,
       "num": 103655,
       "word": "陈都灵花粉天堂",
@@ -3539,12 +3611,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102517,
+      "num": 102517,
+      "word": "国企的微信礼仪",
+      "onboard_time": 1766380760,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102494,
       "num": 102494,
       "word": "短剧圈的半壁江山都来星光大赏了",
       "onboard_time": 1766300661,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102405,
+      "num": 143924,
+      "word": "高市早苗应援帽是中国制造",
+      "onboard_time": 1766380641,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101549,
+      "num": 101549,
+      "word": "代入经纪人视角看Angelababy",
+      "onboard_time": 1766380341,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101434,
@@ -4155,6 +4251,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67211,
+      "num": 123087,
+      "word": "陈靖可陈妍希 药味是与生俱来的",
+      "onboard_time": 1766380821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66945,
       "num": 66945,
       "word": "曝哈登或将被卷入交易谈判",
@@ -4177,6 +4281,14 @@
       "onboard_time": 1766283140,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65004,
+      "num": 123579,
+      "word": "烤鸡少年承认用肉宝王调味",
+      "onboard_time": 1766381181,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64596,
@@ -4283,6 +4395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61388,
+      "num": 183460,
+      "word": "柬方感谢中方推动柬泰局势降温",
+      "onboard_time": 1766379442,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61108,
       "num": 116632,
       "word": "您的育儿补贴已到账",
@@ -4329,6 +4449,14 @@
       "onboard_time": 1766282719,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57923,
+      "num": 146715,
+      "word": "孟子义和她的显眼包保镖",
+      "onboard_time": 1766380102,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 57538,
@@ -4675,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36004,
+      "num": 143316,
+      "word": "空中技巧国家队比赛服有多少黑科技",
+      "onboard_time": 1766380102,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35795,
       "num": 1001728,
       "word": "通信技术试验卫星二十三号发射成功",
@@ -4955,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26948,
+      "num": 139994,
+      "word": "连续七年第一广东为什么最能生",
+      "onboard_time": 1766381421,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26323,
       "num": 55444,
       "word": "别给汪苏泷的嘴留档期",
@@ -5020,7 +5164,7 @@
     },
     {
       "raw_hot": 23154,
-      "num": 742109,
+      "num": 938730,
       "word": "我国数字消费用户规模超9.5亿人",
       "onboard_time": 1766323644,
       "rank": 2,
@@ -5321,14 +5465,6 @@
       "onboard_time": 1766267234,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13698,
-      "num": 183460,
-      "word": "柬方感谢中方推动柬泰局势降温",
-      "onboard_time": 1766379442,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13538,
