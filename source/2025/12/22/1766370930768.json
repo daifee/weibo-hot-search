@@ -1,0 +1,410 @@
+{
+  "runTime": 1766370930768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 367989,
+        "num": 1058878,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258319,
+        "num": 258319,
+        "word": "中国女子在欧洲邮轮上人间蒸发",
+        "onboard_time": 1766364860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9278,
+        "num": 256625,
+        "word": "我国数字消费用户规模超9.5亿人",
+        "onboard_time": 1766323644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2142602,
+        "num": 256620,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426262,
+        "num": 256489,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1766366299,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256125,
+        "num": 256125,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1766369178,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226484,
+        "num": 226484,
+        "word": "徐志胜穿450元旧衣走红毯",
+        "onboard_time": 1766363361,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166568,
+        "num": 166568,
+        "word": "私人影院异性陪侍4人被刑拘",
+        "onboard_time": 1766326404,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154135,
+        "num": 154135,
+        "word": "支持个人信用重塑",
+        "onboard_time": 1766365462,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 28654,
+        "num": 153467,
+        "word": "国有资产法草案",
+        "onboard_time": 1766370381,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1259495,
+        "num": 152812,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20583,
+        "num": 151289,
+        "word": "北京范儿",
+        "onboard_time": 1766363660,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638139,
+        "num": 149153,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611191,
+        "num": 148335,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551167,
+        "num": 146817,
+        "word": "宋祖儿发现站昀孟中间的反应",
+        "onboard_time": 1766365881,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420632,
+        "num": 146387,
+        "word": "福原爱 江宏杰",
+        "onboard_time": 1766369060,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293706,
+        "num": 144529,
+        "word": "福原爱回应再婚并怀孕",
+        "onboard_time": 1766369060,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144152,
+        "num": 144152,
+        "word": "小米17Ultra12月25日发布",
+        "onboard_time": 1766369420,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283351,
+        "num": 143944,
+        "word": "孟子义摔倒李昀锐的反应",
+        "onboard_time": 1766336239,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43230,
+        "num": 138694,
+        "word": "你吃的驴肉可能是马肉",
+        "onboard_time": 1766370381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205338,
+        "num": 135543,
+        "word": "鞠婧祎山顶视角神图",
+        "onboard_time": 1766370260,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190738,
+        "num": 133469,
+        "word": "福原爱说与丈夫原本不执着结婚",
+        "onboard_time": 1766369720,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167692,
+        "num": 130343,
+        "word": "树那条虫子已经不重要了",
+        "onboard_time": 1766363900,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181805,
+        "num": 127366,
+        "word": "李昀锐连说两遍慢点儿",
+        "onboard_time": 1766363423,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125350,
+        "num": 125350,
+        "word": "禹宙中欣",
+        "onboard_time": 1766329225,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120286,
+        "num": 120286,
+        "word": "什么是正食症",
+        "onboard_time": 1766369899,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117848,
+        "num": 117848,
+        "word": "嘟嘟一直在帮忙给小鞠挡毯子",
+        "onboard_time": 1766366121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "女子收费站遇前车插队蹭ETC",
+        "onboard_time": 1766369780,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109910,
+        "num": 109910,
+        "word": "能考上二本其实已经很厉害了",
+        "onboard_time": 1766321363,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105848,
+        "num": 105848,
+        "word": "星光大赏VIP之星",
+        "onboard_time": 1766334802,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163556,
+        "num": 104421,
+        "word": "周也王玉雯让陈星旭一起走",
+        "onboard_time": 1766369899,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102849,
+        "num": 102849,
+        "word": "LPR",
+        "onboard_time": 1766370199,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100398,
+        "num": 100398,
+        "word": "金婧把周柯宇大头的衣服给了陈妍希",
+        "onboard_time": 1766367199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95507,
+        "num": 95507,
+        "word": "金价",
+        "onboard_time": 1766370561,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83272,
+        "num": 83272,
+        "word": "法国将新建一艘航母",
+        "onboard_time": 1766369420,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47095,
+        "num": 83097,
+        "word": "成都通报私人影院违规经营情况",
+        "onboard_time": 1766368820,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83021,
+        "num": 83021,
+        "word": "王安宇瞳孔地震",
+        "onboard_time": 1766361680,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35616,
+        "num": 81727,
+        "word": "美对叙利亚持续5小时猛烈轰炸",
+        "onboard_time": 1766370619,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80741,
+        "num": 81514,
+        "word": "女子恋爱中被要求攒够4万再结婚",
+        "onboard_time": 1766370260,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81327,
+        "num": 81327,
+        "word": "周也骨相",
+        "onboard_time": 1766365760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80952,
+        "num": 80952,
+        "word": "一次性信用修复个人无需申请",
+        "onboard_time": 1766365581,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80625,
+        "num": 80625,
+        "word": "星光大赏内场",
+        "onboard_time": 1766314102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80441,
+        "num": 80441,
+        "word": "檀健次获得年度星光演员",
+        "onboard_time": 1766369780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64371,
+        "num": 80225,
+        "word": "81岁老太借56岁男子钱扯出情感债",
+        "onboard_time": 1766369420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80193,
+        "num": 80193,
+        "word": "徐志胜你拿什么和张凌赫刘宇宁争",
+        "onboard_time": 1766359879,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80082,
+        "num": 80082,
+        "word": "天鹅被误认为大蛤蟆",
+        "onboard_time": 1766361982,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79728,
+        "num": 79728,
+        "word": "陈妍希和金靖合照",
+        "onboard_time": 1766368760,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77537,
+        "num": 77537,
+        "word": "干物妹小埋原型去世",
+        "onboard_time": 1766332462,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75220,
+        "num": 75220,
+        "word": "吃商极高的人开始续火锅了",
+        "onboard_time": 1766369001,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74875,
+        "num": 74875,
+        "word": "00后女孩常熬夜压力大确诊乳腺癌",
+        "onboard_time": 1766359879,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}

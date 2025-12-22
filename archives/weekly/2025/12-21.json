@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766369503610,
+  "endTime": 1766370930768,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -41,6 +41,14 @@
       "onboard_time": 1766289320,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2142602,
+      "num": 256620,
+      "word": "孟子义摔出了神图",
+      "onboard_time": 1766369480,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1723412,
@@ -723,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426262,
+      "num": 256489,
+      "word": "职工医保和居民医保的区别",
+      "onboard_time": 1766366299,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 421596,
       "num": 355893,
       "word": "丁禹兮内场",
       "onboard_time": 1766324543,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420632,
+      "num": 201796,
+      "word": "福原爱 江宏杰",
+      "onboard_time": 1766369060,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 416132,
@@ -835,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390368,
-      "num": 201922,
-      "word": "孟子义摔出了神图",
-      "onboard_time": 1766369480,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387336,
       "num": 2173858,
       "word": "彭珮云同志逝世",
@@ -865,14 +881,6 @@
       "onboard_time": 1766294121,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373026,
-      "num": 230057,
-      "word": "职工医保和居民医保的区别",
-      "onboard_time": 1766366299,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 372552,
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 300620,
-      "num": 201815,
+      "num": 226484,
       "word": "徐志胜穿450元旧衣走红毯",
       "onboard_time": 1766363361,
       "rank": 14,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1766316742,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293706,
+      "num": 190551,
+      "word": "福原爱回应再婚并怀孕",
+      "onboard_time": 1766369060,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 293537,
@@ -1243,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258319,
+      "num": 258319,
+      "word": "中国女子在欧洲邮轮上人间蒸发",
+      "onboard_time": 1766364860,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256890,
       "num": 256890,
       "word": "女装还在改良男装已经进化了",
       "onboard_time": 1766273476,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 256125,
+      "num": 256125,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1766369178,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 255445,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1766324963,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235791,
-      "num": 235791,
-      "word": "中国女子在欧洲邮轮上人间蒸发",
-      "onboard_time": 1766364860,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234707,
@@ -1515,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208738,
-      "num": 208738,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1766369178,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208020,
       "num": 646666,
       "word": "章莹颖去世8年母亲每日以泪洗面",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1766369420,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205338,
+      "num": 135543,
+      "word": "鞠婧祎山顶视角神图",
+      "onboard_time": 1766370260,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 204266,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1766288841,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201796,
-      "num": 201796,
-      "word": "福原爱 江宏杰",
-      "onboard_time": 1766369060,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 201369,
@@ -1835,11 +1851,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190551,
-      "num": 190551,
-      "word": "福原爱回应再婚并怀孕",
-      "onboard_time": 1766369060,
-      "rank": 16,
+      "raw_hot": 190738,
+      "num": 133469,
+      "word": "福原爱说与丈夫原本不执着结婚",
+      "onboard_time": 1766369720,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -2073,6 +2089,14 @@
       "onboard_time": 1766326824,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163556,
+      "num": 104421,
+      "word": "周也王玉雯让陈星旭一起走",
+      "onboard_time": 1766369899,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 163110,
@@ -2779,6 +2803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 120286,
+      "num": 120286,
+      "word": "什么是正食症",
+      "onboard_time": 1766369899,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120225,
       "num": 120225,
       "word": "台湾宁愿赔钱提前退伍人数暴增",
@@ -2931,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109920,
+      "num": 109920,
+      "word": "女子收费站遇前车插队蹭ETC",
+      "onboard_time": 1766369780,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109468,
       "num": 109468,
       "word": "那年今日孙颖莎祝大家冬至快乐",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1766330125,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102849,
+      "num": 102849,
+      "word": "LPR",
+      "onboard_time": 1766370199,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 102627,
@@ -3193,6 +3241,14 @@
       "onboard_time": 1766296521,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95507,
+      "num": 95507,
+      "word": "金价",
+      "onboard_time": 1766370561,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 94794,
@@ -3355,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83272,
+      "num": 83272,
+      "word": "法国将新建一艘航母",
+      "onboard_time": 1766369420,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82917,
       "num": 117819,
       "word": "很少看到一部剧三位帝皇完",
@@ -3411,12 +3475,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80741,
+      "num": 81514,
+      "word": "女子恋爱中被要求攒够4万再结婚",
+      "onboard_time": 1766370260,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80441,
+      "num": 80441,
+      "word": "檀健次获得年度星光演员",
+      "onboard_time": 1766369780,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80330,
       "num": 80330,
       "word": "离世女子在同院做过2次痔疮手术",
       "onboard_time": 1766283859,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 79728,
+      "num": 79728,
+      "word": "陈妍希和金靖合照",
+      "onboard_time": 1766368760,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 79529,
@@ -3665,6 +3753,14 @@
       "onboard_time": 1766284339,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64371,
+      "num": 80225,
+      "word": "81岁老太借56岁男子钱扯出情感债",
+      "onboard_time": 1766369420,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63964,
@@ -3971,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47095,
+      "num": 185377,
+      "word": "成都通报私人影院违规经营情况",
+      "onboard_time": 1766368820,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 46985,
       "num": 189735,
       "word": "黑龙江一煤矿透水事故5人被困",
@@ -4027,20 +4131,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43230,
+      "num": 138694,
+      "word": "你吃的驴肉可能是马肉",
+      "onboard_time": 1766370381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42075,
       "num": 270394,
       "word": "MMA",
       "onboard_time": 1766220201,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42018,
-      "num": 185377,
-      "word": "成都通报私人影院违规经营情况",
-      "onboard_time": 1766368820,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 41077,
@@ -4115,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35616,
+      "num": 81727,
+      "word": "美对叙利亚持续5小时猛烈轰炸",
+      "onboard_time": 1766370619,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34905,
       "num": 140314,
       "word": "曝檀健次星光大赏要拿三个奖",
@@ -4153,14 +4265,6 @@
       "onboard_time": 1766252716,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33905,
-      "num": 74045,
-      "word": "81岁老太借56岁男子钱扯出情感债",
-      "onboard_time": 1766369420,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33592,
@@ -4353,6 +4457,14 @@
       "onboard_time": 1766329225,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28654,
+      "num": 153467,
+      "word": "国有资产法草案",
+      "onboard_time": 1766370381,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28272,
