@@ -1,0 +1,410 @@
+{
+  "runTime": 1766389507537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 504586,
+        "num": 1080733,
+        "word": "优衣库店长下达偷拍顾客指标",
+        "onboard_time": 1766383220,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378716,
+        "num": 378716,
+        "word": "烤鸡少年承认用肉宝王调味",
+        "onboard_time": 1766381181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35149,
+        "num": 274546,
+        "word": "支持个人信用重塑",
+        "onboard_time": 1766365462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241976,
+        "num": 241976,
+        "word": "抗癌药平替有效成分为0",
+        "onboard_time": 1766387540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232155,
+        "num": 232155,
+        "word": "王宝强和段奕宏眼里没光了",
+        "onboard_time": 1766385740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219608,
+        "num": 223972,
+        "word": "男子35岁当老总53岁升本科55岁考研",
+        "onboard_time": 1766387300,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374542,
+        "num": 223346,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319378,
+        "num": 222879,
+        "word": "普通女生化妆2小时的变化",
+        "onboard_time": 1766383041,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 221458,
+        "num": 221458,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176478,
+        "num": 176478,
+        "word": "丁程鑫看到陈妍希发言切陈鑫海的反应",
+        "onboard_time": 1766385140,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749011,
+        "num": 176421,
+        "word": "贝克汉姆大儿子拉黑全家",
+        "onboard_time": 1766386640,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530538,
+        "num": 176343,
+        "word": "王影璐位置",
+        "onboard_time": 1766385020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449263,
+        "num": 176197,
+        "word": "福原爱再婚对象正是出轨风波男主",
+        "onboard_time": 1766378603,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313102,
+        "num": 176085,
+        "word": "一哥爆料杜克",
+        "onboard_time": 1766387181,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 300504,
+        "num": 176011,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281596,
+        "num": 175948,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232659,
+        "num": 175775,
+        "word": "丁禹兮给鞠婧祎整理围巾",
+        "onboard_time": 1766388501,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33273,
+        "num": 175657,
+        "word": "极地科考同款羽绒服黑科技",
+        "onboard_time": 1766388320,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 408118,
+        "num": 175587,
+        "word": "李昀锐笑着哄孟子义",
+        "onboard_time": 1766385381,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24231,
+        "num": 175425,
+        "word": "今年已有62名中管干部被查",
+        "onboard_time": 1766388380,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 502281,
+        "num": 175402,
+        "word": "星光大赏别虐待老人了",
+        "onboard_time": 1766380400,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356240,
+        "num": 175228,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244501,
+        "num": 175134,
+        "word": "山城小栗旬官宣恋情",
+        "onboard_time": 1766378302,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 606526,
+        "num": 175099,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237508,
+        "num": 174917,
+        "word": "陈星旭像奶了两个孩子",
+        "onboard_time": 1766381301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198765,
+        "num": 174824,
+        "word": "男生应邀住女友家被控强奸获刑",
+        "onboard_time": 1766379981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174783,
+        "num": 174783,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145711,
+        "num": 145711,
+        "word": "俞灏明王晓晨牵手出行",
+        "onboard_time": 1766388620,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138543,
+        "num": 138543,
+        "word": "胡先煦天天发消息夸酷滕",
+        "onboard_time": 1766386101,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19639,
+        "num": 126481,
+        "word": "雪龙2号真的开到了尔滨",
+        "onboard_time": 1766388380,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102535,
+        "num": 125923,
+        "word": "今年怎么都去阿勒泰看雪了",
+        "onboard_time": 1766389160,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125835,
+        "num": 125835,
+        "word": "日网民拍日本人吸烟视频栽赃华人",
+        "onboard_time": 1766386399,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125547,
+        "num": 125547,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120154,
+        "num": 120154,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399920,
+        "num": 117946,
+        "word": "洛熙妈妈发布多个小洛熙生前视频",
+        "onboard_time": 1766387060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112853,
+        "num": 112853,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110281,
+        "num": 110281,
+        "word": "纪委回应退休职工举报南博前院长",
+        "onboard_time": 1766389281,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26509,
+        "num": 108805,
+        "word": "防盗不是优衣库偷拍顾客的借口",
+        "onboard_time": 1766388380,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108655,
+        "num": 108655,
+        "word": "1xn挑战Viper",
+        "onboard_time": 1766389400,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63062,
+        "num": 108506,
+        "word": "曝左一女主被换",
+        "onboard_time": 1766388920,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108422,
+        "num": 108422,
+        "word": "22天圣诞假",
+        "onboard_time": 1766388081,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105863,
+        "num": 105863,
+        "word": "唐诡4不能吃的东西又增加了",
+        "onboard_time": 1766385800,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106713,
+        "num": 105383,
+        "word": "闵塔鲨辟谣",
+        "onboard_time": 1766380700,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104467,
+        "num": 104467,
+        "word": "25岁的叔33岁的侄子",
+        "onboard_time": 1766383520,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97517,
+        "num": 97517,
+        "word": "谁懂刘宇宁点头笑那一下",
+        "onboard_time": 1766388201,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96739,
+        "num": 96739,
+        "word": "刘轩丞直播",
+        "onboard_time": 1766386399,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92999,
+        "num": 92999,
+        "word": "原来考研也会有戒断反应",
+        "onboard_time": 1766389040,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92771,
+        "num": 92771,
+        "word": "谭松韵年底忙成啥了",
+        "onboard_time": 1766389461,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91500,
+        "num": 91500,
+        "word": "真的建议大家不要放自己的鸽子",
+        "onboard_time": 1766386399,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90772,
+        "num": 90772,
+        "word": "华为发布会",
+        "onboard_time": 1766386040,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#为百年变局注入稳定性和确定性#"
+    }
+  }
+}

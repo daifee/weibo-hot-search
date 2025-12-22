@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766388739123,
+  "endTime": 1766389507537,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 813035,
-      "num": 160997,
+      "num": 176421,
       "word": "贝克汉姆大儿子拉黑全家",
       "onboard_time": 1766386640,
       "rank": 30,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530538,
+      "num": 186168,
+      "word": "王影璐位置",
+      "onboard_time": 1766385020,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528658,
       "num": 327008,
       "word": "田曦薇美得不知天地为何物了",
@@ -633,14 +641,6 @@
       "onboard_time": 1766289440,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525407,
-      "num": 186168,
-      "word": "王影璐位置",
-      "onboard_time": 1766385020,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 522230,
@@ -689,6 +689,14 @@
       "onboard_time": 1766288779,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 504586,
+      "num": 1080733,
+      "word": "优衣库店长下达偷拍顾客指标",
+      "onboard_time": 1766383220,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492269,
@@ -1067,14 +1075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 371076,
-      "num": 371076,
-      "word": "优衣库店长下达偷拍顾客指标",
-      "onboard_time": 1766383220,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367893,
       "num": 367893,
       "word": "白鹿星光大赏妆",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356240,
+      "num": 175228,
+      "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+      "onboard_time": 1766386399,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353094,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1766326945,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 341344,
-      "num": 142259,
-      "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
-      "onboard_time": 1766386399,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340326,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1766305342,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313102,
+      "num": 176085,
+      "word": "一哥爆料杜克",
+      "onboard_time": 1766387181,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 311830,
@@ -1491,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269589,
-      "num": 142458,
-      "word": "一哥爆料杜克",
-      "onboard_time": 1766387181,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 269365,
       "num": 561013,
       "word": "私人影院异性陪侍4人被刑拘",
@@ -1643,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241976,
+      "num": 241976,
+      "word": "抗癌药平替有效成分为0",
+      "onboard_time": 1766387540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "数三",
@@ -1672,6 +1680,22 @@
       "word": "庞铮主持",
       "onboard_time": 1766313982,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232659,
+      "num": 175775,
+      "word": "丁禹兮给鞠婧祎整理围巾",
+      "onboard_time": 1766388501,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232155,
+      "num": 232155,
+      "word": "王宝强和段奕宏眼里没光了",
+      "onboard_time": 1766385740,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1753,6 +1777,14 @@
       "onboard_time": 1766303002,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219608,
+      "num": 223972,
+      "word": "男子35岁当老总53岁升本科55岁考研",
+      "onboard_time": 1766387300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219584,
@@ -2033,14 +2065,6 @@
       "onboard_time": 1766376560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199597,
-      "num": 199597,
-      "word": "王宝强和段奕宏眼里没光了",
-      "onboard_time": 1766385740,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 198976,
@@ -2723,14 +2747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153697,
-      "num": 153697,
-      "word": "抗癌药平替有效成分为0",
-      "onboard_time": 1766387540,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152972,
       "num": 106069,
       "word": "白鹿黑色亮片高定",
@@ -2867,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147774,
-      "num": 147774,
-      "word": "男子35岁当老总53岁升本科55岁考研",
-      "onboard_time": 1766387300,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147340,
       "num": 184212,
       "word": "时团的小卡已经进化成这样了吗",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1766243662,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145711,
+      "num": 145711,
+      "word": "俞灏明王晓晨牵手出行",
+      "onboard_time": 1766388620,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 145636,
@@ -3635,14 +3651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112047,
-      "num": 112047,
-      "word": "丁禹兮给鞠婧祎整理围巾",
-      "onboard_time": 1766388501,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111670,
       "num": 111670,
       "word": "王霏霏子弹胸甲",
@@ -3681,6 +3689,14 @@
       "onboard_time": 1766358437,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110281,
+      "num": 110281,
+      "word": "纪委回应退休职工举报南博前院长",
+      "onboard_time": 1766389281,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110157,
@@ -3761,6 +3777,22 @@
       "onboard_time": 1766376441,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108655,
+      "num": 108655,
+      "word": "1xn挑战Viper",
+      "onboard_time": 1766389400,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108422,
+      "num": 108422,
+      "word": "22天圣诞假",
+      "onboard_time": 1766388081,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 108179,
@@ -3923,6 +3955,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102535,
+      "num": 125923,
+      "word": "今年怎么都去阿勒泰看雪了",
+      "onboard_time": 1766389160,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102494,
       "num": 102494,
       "word": "短剧圈的半壁江山都来星光大赏了",
@@ -4075,14 +4115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97312,
-      "num": 97312,
-      "word": "22天圣诞假",
-      "onboard_time": 1766388081,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97236,
       "num": 271802,
       "word": "高速狂奔490公里司机要求退车退款",
@@ -4153,6 +4185,22 @@
       "onboard_time": 1766386160,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92999,
+      "num": 92999,
+      "word": "原来考研也会有戒断反应",
+      "onboard_time": 1766389040,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 92771,
+      "num": 92771,
+      "word": "谭松韵年底忙成啥了",
+      "onboard_time": 1766389461,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92693,
@@ -4739,6 +4787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63062,
+      "num": 108506,
+      "word": "曝左一女主被换",
+      "onboard_time": 1766388920,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62915,
       "num": 189192,
       "word": "刘宇宁张凌赫金靖一起走红毯",
@@ -5140,7 +5196,7 @@
     },
     {
       "raw_hot": 43827,
-      "num": 143221,
+      "num": 175657,
       "word": "极地科考同款羽绒服黑科技",
       "onboard_time": 1766388320,
       "rank": 17,
@@ -5241,14 +5297,6 @@
       "onboard_time": 1766301980,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36657,
-      "num": 109080,
-      "word": "俞灏明王晓晨牵手出行",
-      "onboard_time": 1766388620,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 35795,
@@ -5547,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26509,
+      "num": 109224,
+      "word": "防盗不是优衣库偷拍顾客的借口",
+      "onboard_time": 1766388380,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26323,
       "num": 55444,
       "word": "别给汪苏泷的嘴留档期",
@@ -5593,6 +5649,14 @@
       "onboard_time": 1766293822,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24231,
+      "num": 175425,
+      "word": "今年已有62名中管干部被查",
+      "onboard_time": 1766388380,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24016,
@@ -5763,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19639,
+      "num": 141250,
+      "word": "雪龙2号真的开到了尔滨",
+      "onboard_time": 1766388380,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19036,
       "num": 45400,
       "word": "遇到难回答的问题又不说话了",
@@ -5931,14 +6003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13040,
-      "num": 141250,
-      "word": "雪龙2号真的开到了尔滨",
-      "onboard_time": 1766388380,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12665,
       "num": 272805,
       "word": "官方通报宿舍施工事故致1死2伤",
@@ -5955,28 +6019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11280,
-      "num": 142803,
-      "word": "今年已有62名中管干部被查",
-      "onboard_time": 1766388380,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10925,
       "num": 35352,
       "word": "汪苏泷第一次在南宁开演唱会",
       "onboard_time": 1766254516,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10655,
-      "num": 109224,
-      "word": "防盗不是优衣库偷拍顾客的借口",
-      "onboard_time": 1766388380,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8682,
