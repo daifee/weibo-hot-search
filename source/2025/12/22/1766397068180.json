@@ -1,0 +1,410 @@
+{
+  "runTime": 1766397068180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 566038,
+        "num": 1090566,
+        "word": "梁王组合丢下奖金头也不回走了",
+        "onboard_time": 1766392041,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368450,
+        "num": 368450,
+        "word": "优衣库店长下达偷拍顾客指标",
+        "onboard_time": 1766383220,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10857,
+        "num": 363765,
+        "word": "北京范儿",
+        "onboard_time": 1766363660,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361399,
+        "num": 361399,
+        "word": "双轨直播",
+        "onboard_time": 1766394979,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301885,
+        "num": 301885,
+        "word": "丁禹兮一晚上干了多少事",
+        "onboard_time": 1766393361,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1867588,
+        "num": 301633,
+        "word": "海底捞小便事件家长赔偿220万元",
+        "onboard_time": 1766395043,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784330,
+        "num": 301602,
+        "word": "女教师坠亡一楼业主新房花了上百万",
+        "onboard_time": 1766395161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319638,
+        "num": 301095,
+        "word": "双轨",
+        "onboard_time": 1766395101,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300035,
+        "num": 300035,
+        "word": "被举报南博前院长发声",
+        "onboard_time": 1766394140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266116,
+        "num": 266116,
+        "word": "中方对日本高官言论感到震惊",
+        "onboard_time": 1766391624,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752256,
+        "num": 263353,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592806,
+        "num": 260565,
+        "word": "演员王劲松为小洛熙发声",
+        "onboard_time": 1766394561,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 529721,
+        "num": 257240,
+        "word": "秦岚走路姿势",
+        "onboard_time": 1766393422,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275728,
+        "num": 254535,
+        "word": "有这3个睡眠习惯的人更易患癌",
+        "onboard_time": 1766391081,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250744,
+        "num": 250744,
+        "word": "22天圣诞假",
+        "onboard_time": 1766388081,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233402,
+        "num": 233402,
+        "word": "向太曝刘德华买理发店让老同事做店长",
+        "onboard_time": 1766391020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45796,
+        "num": 222721,
+        "word": "天天好睡眠的秘诀是什么",
+        "onboard_time": 1766394319,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220891,
+        "num": 220891,
+        "word": "一哥爆料杜克",
+        "onboard_time": 1766387181,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211103,
+        "num": 211103,
+        "word": "华为推出全屋智能套餐最低9999元起",
+        "onboard_time": 1766396541,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207001,
+        "num": 207001,
+        "word": "贝克汉姆大儿子拉黑全家",
+        "onboard_time": 1766386640,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441135,
+        "num": 202637,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94821,
+        "num": 197258,
+        "word": "超级nova超级香",
+        "onboard_time": 1766394319,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256178,
+        "num": 196157,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194739,
+        "num": 194739,
+        "word": "婚礼当天坠亡28岁女教师已火化安葬",
+        "onboard_time": 1766394620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191464,
+        "num": 191464,
+        "word": "周也陈星旭回复王玉雯",
+        "onboard_time": 1766394740,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "黄鱼面塌房",
+        "onboard_time": 1766394681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176330,
+        "num": 176330,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162689,
+        "num": 162689,
+        "word": "时尚芭莎珠宝年度盛典",
+        "onboard_time": 1766396842,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 157374,
+        "num": 157374,
+        "word": "星光大赏唇语解读",
+        "onboard_time": 1766394800,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141723,
+        "num": 141723,
+        "word": "俞灏明王晓晨牵手出行",
+        "onboard_time": 1766388620,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137372,
+        "num": 137372,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135765,
+        "num": 135765,
+        "word": "读研3年vs工作3年",
+        "onboard_time": 1766395521,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 134677,
+        "word": "A股又诞生一只10倍股",
+        "onboard_time": 1766396120,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133273,
+        "num": 133273,
+        "word": "抗癌药平替有效成分为0",
+        "onboard_time": 1766387540,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 97061,
+        "num": 132474,
+        "word": "nova15支持华为最强通信能力",
+        "onboard_time": 1766394319,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 132445,
+        "word": "陈都灵发言 毕业答辩模板",
+        "onboard_time": 1766393181,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131306,
+        "num": 131306,
+        "word": "黄杨钿甜与父亲成立合伙企业",
+        "onboard_time": 1766396901,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120690,
+        "num": 120690,
+        "word": "易烊千玺是我的人生导师",
+        "onboard_time": 1766395820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21971,
+        "num": 118291,
+        "word": "王安宇胡先煦北斗七行售后",
+        "onboard_time": 1766396541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73803,
+        "num": 117997,
+        "word": "向涵之 大花气质",
+        "onboard_time": 1766395820,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117864,
+        "num": 117864,
+        "word": "宋祖儿帮刘宇宁整理头发",
+        "onboard_time": 1766396599,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112076,
+        "num": 112076,
+        "word": "徐冬冬回应是不是爱尹子维的钱",
+        "onboard_time": 1766396421,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110495,
+        "num": 110495,
+        "word": "孟子义觉得比痛先来的是尴尬",
+        "onboard_time": 1766395581,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109195,
+        "num": 109195,
+        "word": "2025年看到be版何以笙箫默",
+        "onboard_time": 1766395941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 108829,
+        "word": "nova15搭载行业唯一前后双红枫",
+        "onboard_time": 1766392461,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108797,
+        "num": 108797,
+        "word": "以为小猫很凶其实是毛挡住了",
+        "onboard_time": 1766395881,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107095,
+        "num": 107095,
+        "word": "23岁硕士川西徒步因高反去世",
+        "onboard_time": 1766390840,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105188,
+        "num": 105188,
+        "word": "20岁得到70岁才能得到的",
+        "onboard_time": 1766396780,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102324,
+        "num": 102324,
+        "word": "独居快饿晕了才去做饭belike",
+        "onboard_time": 1766395581,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25906,
+        "num": 98834,
+        "word": "旧金山停电致自动驾驶汽车集体趴窝",
+        "onboard_time": 1766395341,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为百年变局注入稳定性和确定性#"
+    }
+  }
+}

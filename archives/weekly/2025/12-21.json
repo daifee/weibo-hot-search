@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766396231827,
+  "endTime": 1766397068180,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -49,6 +49,14 @@
       "onboard_time": 1766369480,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1867588,
+      "num": 324852,
+      "word": "海底捞小便事件家长赔偿220万元",
+      "onboard_time": 1766395043,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1723412,
@@ -120,14 +128,6 @@
       "word": "检察官为儿子强奸未成年做无罪辩护",
       "onboard_time": 1766326105,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1122167,
-      "num": 324852,
-      "word": "海底捞小便事件家长赔偿220万元",
-      "onboard_time": 1766395043,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 813035,
-      "num": 204810,
+      "num": 207001,
       "word": "贝克汉姆大儿子拉黑全家",
       "onboard_time": 1766386640,
       "rank": 30,
@@ -321,6 +321,14 @@
       "onboard_time": 1766305643,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784330,
+      "num": 321423,
+      "word": "女教师坠亡一楼业主新房花了上百万",
+      "onboard_time": 1766395161,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 780807,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592806,
+      "num": 282369,
+      "word": "演员王劲松为小洛熙发声",
+      "onboard_time": 1766394561,
+      "rank": 11,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 585059,
       "num": 585059,
       "word": "考研数学二 简单",
@@ -555,8 +571,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 563674,
-      "num": 1090187,
+      "raw_hot": 566038,
+      "num": 1090566,
       "word": "梁王组合丢下奖金头也不回走了",
       "onboard_time": 1766392041,
       "rank": 32,
@@ -659,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529721,
+      "num": 274584,
+      "word": "秦岚走路姿势",
+      "onboard_time": 1766393422,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528658,
       "num": 327008,
       "word": "田曦薇美得不知天地为何物了",
@@ -699,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514592,
-      "num": 282369,
-      "word": "演员王劲松为小洛熙发声",
-      "onboard_time": 1766394561,
-      "rank": 11,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 512549,
       "num": 245662,
       "word": "丞磊下意识的反应最动人",
@@ -737,14 +753,6 @@
       "onboard_time": 1766387181,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 503276,
-      "num": 274584,
-      "word": "秦岚走路姿势",
-      "onboard_time": 1766393422,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 492269,
@@ -1163,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 361399,
+      "num": 361399,
+      "word": "双轨直播",
+      "onboard_time": 1766394979,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359186,
       "num": 359186,
       "word": "外企集体加入中国内卷",
@@ -1192,14 +1208,6 @@
       "word": "被举报南博前院长发声",
       "onboard_time": 1766394140,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353307,
-      "num": 321423,
-      "word": "女教师坠亡一楼业主新房花了上百万",
-      "onboard_time": 1766395161,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1331,11 +1339,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 325154,
-      "num": 325154,
-      "word": "双轨直播",
-      "onboard_time": 1766394979,
-      "rank": 4,
+      "raw_hot": 319638,
+      "num": 301095,
+      "word": "双轨",
+      "onboard_time": 1766240963,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1537,14 +1545,6 @@
       "onboard_time": 1766327726,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288180,
-      "num": 291956,
-      "word": "双轨",
-      "onboard_time": 1766240963,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 287378,
@@ -1995,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211103,
+      "num": 211103,
+      "word": "华为推出全屋智能套餐最低9999元起",
+      "onboard_time": 1766396541,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210337,
       "num": 273167,
       "word": "霍思燕爱犬在国际比赛夺冠",
@@ -2299,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194739,
+      "num": 194739,
+      "word": "婚礼当天坠亡28岁女教师已火化安葬",
+      "onboard_time": 1766394620,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194417,
       "num": 194417,
       "word": "宋祖儿刘宇宁一起走红毯",
@@ -2369,6 +2385,22 @@
       "onboard_time": 1766369899,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191464,
+      "num": 191464,
+      "word": "周也陈星旭回复王玉雯",
+      "onboard_time": 1766394740,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "黄鱼面塌房",
+      "onboard_time": 1766394681,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190989,
@@ -2635,14 +2667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173392,
-      "num": 173392,
-      "word": "周也陈星旭回复王玉雯",
-      "onboard_time": 1766394740,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171885,
       "num": 171885,
       "word": "网红刘晓艳接儿子放学被叫爷爷",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1766304201,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167145,
-      "num": 167145,
-      "word": "婚礼当天坠亡28岁女教师已火化安葬",
-      "onboard_time": 1766394620,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166397,
@@ -2795,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162689,
+      "num": 162689,
+      "word": "时尚芭莎珠宝年度盛典",
+      "onboard_time": 1766396842,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162607,
       "num": 242913,
       "word": "KPL",
@@ -2841,14 +2865,6 @@
       "onboard_time": 1766291539,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160585,
-      "num": 160585,
-      "word": "黄鱼面塌房",
-      "onboard_time": 1766394681,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160139,
@@ -3443,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135765,
+      "num": 135765,
+      "word": "读研3年vs工作3年",
+      "onboard_time": 1766395521,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135590,
       "num": 349958,
       "word": "星光大赏出发",
@@ -3465,6 +3489,14 @@
       "onboard_time": 1766390780,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134677,
+      "num": 134677,
+      "word": "A股又诞生一只10倍股",
+      "onboard_time": 1766396120,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 134035,
@@ -3505,6 +3537,14 @@
       "onboard_time": 1766281640,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131306,
+      "num": 131306,
+      "word": "黄杨钿甜与父亲成立合伙企业",
+      "onboard_time": 1766396901,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 131067,
@@ -3636,7 +3676,7 @@
     },
     {
       "raw_hot": 125979,
-      "num": 125979,
+      "num": 132474,
       "word": "nova15支持华为最强通信能力",
       "onboard_time": 1766394319,
       "rank": 35,
@@ -3649,14 +3689,6 @@
       "onboard_time": 1766277499,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125746,
-      "num": 122970,
-      "word": "读研3年vs工作3年",
-      "onboard_time": 1766395521,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 125703,
@@ -3843,6 +3875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117864,
+      "num": 117864,
+      "word": "宋祖儿帮刘宇宁整理头发",
+      "onboard_time": 1766396599,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117828,
       "num": 117828,
       "word": "23岁硕士川西徒步因高反去世",
@@ -3963,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112076,
+      "num": 112076,
+      "word": "徐冬冬回应是不是爱尹子维的钱",
+      "onboard_time": 1766396421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111670,
       "num": 111670,
       "word": "王霏霏子弹胸甲",
@@ -4057,14 +4105,6 @@
       "onboard_time": 1766332702,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109432,
-      "num": 109432,
-      "word": "A股又诞生一只10倍股",
-      "onboard_time": 1766396120,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 109207,
@@ -4192,6 +4232,14 @@
       "word": "待富人群",
       "onboard_time": 1766383821,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105188,
+      "num": 105188,
+      "word": "20岁得到70岁才能得到的",
+      "onboard_time": 1766396780,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -4420,7 +4468,7 @@
     },
     {
       "raw_hot": 99030,
-      "num": 188558,
+      "num": 197258,
       "word": "超级nova超级香",
       "onboard_time": 1766394319,
       "rank": 23,
@@ -4913,6 +4961,14 @@
       "onboard_time": 1766301621,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 73803,
+      "num": 125735,
+      "word": "向涵之 大花气质",
+      "onboard_time": 1766395820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 73699,
@@ -5931,14 +5987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29013,
-      "num": 125735,
-      "word": "向涵之 大花气质",
-      "onboard_time": 1766395820,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28816,
       "num": 137663,
       "word": "遭外国人投石视频实为日本人先挑衅",
@@ -6001,6 +6049,14 @@
       "onboard_time": 1766255596,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25906,
+      "num": 125705,
+      "word": "旧金山停电致自动驾驶汽车集体趴窝",
+      "onboard_time": 1766395341,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25639,
@@ -6091,14 +6147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22755,
-      "num": 125705,
-      "word": "旧金山停电致自动驾驶汽车集体趴窝",
-      "onboard_time": 1766395341,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 22468,
       "num": 47590,
       "word": "第5次考研女生吐槽题太难了",
@@ -6121,6 +6169,14 @@
       "onboard_time": 1766291420,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 118291,
+      "word": "王安宇胡先煦北斗七行售后",
+      "onboard_time": 1766396541,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 21888,
