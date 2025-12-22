@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766425428982,
+  "endTime": 1766428870505,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67631,
+      "num": 67631,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66536,
       "num": 160336,
       "word": "原来人真的是被命运推着走的",
@@ -467,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30344,
+      "num": 37628,
+      "word": "庄序人设",
+      "onboard_time": 1766427554,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26530,
       "num": 55710,
       "word": "鞠婧祎这个背影",
@@ -475,12 +491,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22141,
+      "num": 37418,
+      "word": "得闲谨制",
+      "onboard_time": 1766425695,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20986,
       "num": 55633,
       "word": "魏建军赌上姓氏造车后悔了吗",
       "onboard_time": 1766408780,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 18117,
+      "num": 37116,
+      "word": "骄阳似我第5集",
+      "onboard_time": 1766425157,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17279,
+      "num": 37106,
+      "word": "奇迹",
+      "onboard_time": 1766402721,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

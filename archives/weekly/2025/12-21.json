@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766425428982,
+  "endTime": 1766428870505,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -6171,6 +6171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67631,
+      "num": 67631,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67388,
       "num": 67388,
       "word": "撞脸的民警扮演儿子12年",
@@ -7283,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30344,
+      "num": 37628,
+      "word": "庄序人设",
+      "onboard_time": 1766427554,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29900,
       "num": 266002,
       "word": "奔跑吧",
@@ -7539,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22141,
+      "num": 37418,
+      "word": "得闲谨制",
+      "onboard_time": 1766425695,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21981,
       "num": 123218,
       "word": "台北马拉松警方增加一倍警力",
@@ -7713,6 +7737,14 @@
       "onboard_time": 1766324062,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18117,
+      "num": 37116,
+      "word": "骄阳似我第5集",
+      "onboard_time": 1766425157,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 17763,
