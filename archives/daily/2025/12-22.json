@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766397068180,
+  "endTime": 1766399521949,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -121,6 +121,14 @@
       "onboard_time": 1766386640,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 787620,
+      "num": 1126019,
+      "word": "双轨大结局",
+      "onboard_time": 1766397981,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 784330,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528469,
+      "num": 197080,
+      "word": "黄杨钿甜与父亲成立合伙企业",
+      "onboard_time": 1766396901,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522230,
       "num": 224054,
       "word": "丞磊星光大赏疑似被换座位",
@@ -297,6 +313,14 @@
       "onboard_time": 1766387181,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495590,
+      "num": 293977,
+      "word": "黄鱼面塌房",
+      "onboard_time": 1766394681,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490251,
@@ -361,6 +385,14 @@
       "onboard_time": 1766369060,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420584,
+      "num": 346270,
+      "word": "骄阳似我",
+      "onboard_time": 1766397501,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 412248,
@@ -500,7 +532,7 @@
     },
     {
       "raw_hot": 313502,
-      "num": 313502,
+      "num": 334569,
       "word": "中方对日本高官言论感到震惊",
       "onboard_time": 1766391624,
       "rank": 14,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294590,
+      "num": 251890,
+      "word": "22天圣诞假",
+      "onboard_time": 1766388081,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293706,
       "num": 190551,
       "word": "福原爱回应再婚并怀孕",
@@ -577,6 +617,14 @@
       "onboard_time": 1766383520,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285184,
+      "num": 285184,
+      "word": "时尚芭莎珠宝年度盛典",
+      "onboard_time": 1766396842,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 283373,
@@ -633,14 +681,6 @@
       "onboard_time": 1766364860,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251890,
-      "num": 251890,
-      "word": "22天圣诞假",
-      "onboard_time": 1766388081,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 239028,
@@ -731,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210183,
+      "num": 187474,
+      "word": "丞磊王影璐你俩拍一部吧",
+      "onboard_time": 1766398580,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207771,
       "num": 192153,
       "word": "丁禹兮获评三级演员职称",
@@ -793,6 +841,14 @@
       "onboard_time": 1766365462,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 200421,
+      "num": 200421,
+      "word": "当你吃外卖必须找到电子榨菜",
+      "onboard_time": 1766398461,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 199685,
@@ -875,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191248,
-      "num": 191248,
-      "word": "黄鱼面塌房",
-      "onboard_time": 1766394681,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190864,
       "num": 226266,
       "word": "丁禹兮坐轮椅",
@@ -923,6 +971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186182,
+      "num": 186182,
+      "word": "张函瑞黄昏晓彩排",
+      "onboard_time": 1766398461,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185843,
       "num": 190454,
       "word": "星光大赏奖项",
@@ -960,6 +1016,14 @@
       "word": "范丞丞把沈腾的阴招搬来跑男了",
       "onboard_time": 1766391624,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179054,
+      "num": 179054,
+      "word": "地球超新鲜",
+      "onboard_time": 1766398221,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1027,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 170368,
+      "num": 170368,
+      "word": "唐诡奇谭",
+      "onboard_time": 1766398820,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "曝左一女主被换",
@@ -1083,14 +1155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162689,
-      "num": 162689,
-      "word": "时尚芭莎珠宝年度盛典",
-      "onboard_time": 1766396842,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 162214,
       "num": 162214,
       "word": "王安宇把胡先煦当感叹号用",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1766394800,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161243,
+      "num": 161243,
+      "word": "骄阳似我 何以笙箫默",
+      "onboard_time": 1766399301,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 159896,
@@ -1127,6 +1199,14 @@
       "num": 158231,
       "word": "唐诡4不能吃的东西又增加了",
       "onboard_time": 1766385800,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158069,
+      "num": 158069,
+      "word": "一部短剧集齐十个视帝视后",
+      "onboard_time": 1766398762,
       "rank": 32,
       "category": "剧集"
     },
@@ -1169,6 +1249,14 @@
       "onboard_time": 1766323403,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149976,
+      "num": 149976,
+      "word": "张淼怡看毛晓慧星星眼出来了",
+      "onboard_time": 1766398882,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 149581,
@@ -1251,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142577,
+      "num": 181820,
+      "word": "小米17Ultra新一代夜神",
+      "onboard_time": 1766397981,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140734,
       "num": 140734,
       "word": "经济学家说现在进入了小生意时代",
@@ -1265,6 +1361,14 @@
       "onboard_time": 1766320823,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138410,
+      "num": 175737,
+      "word": "宁波小洛熙医疗事件责任应如何认定",
+      "onboard_time": 1766398100,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 138331,
@@ -1363,19 +1467,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132359,
+      "num": 132359,
+      "word": "W中文版光影初心大片",
+      "onboard_time": 1766399361,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "等我小了我也要黄景瑜",
       "onboard_time": 1766385980,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131306,
-      "num": 131306,
-      "word": "黄杨钿甜与父亲成立合伙企业",
-      "onboard_time": 1766396901,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1444,7 +1548,7 @@
     },
     {
       "raw_hot": 125979,
-      "num": 132474,
+      "num": 142273,
       "word": "nova15支持华为最强通信能力",
       "onboard_time": 1766394319,
       "rank": 35,
@@ -1499,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117833,
+      "num": 117833,
+      "word": "内娱迎来首个免签题材综艺",
+      "onboard_time": 1766399421,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117828,
       "num": 117828,
       "word": "23岁硕士川西徒步因高反去世",
@@ -1515,12 +1627,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117542,
+      "num": 115539,
+      "word": "长安二十四计",
+      "onboard_time": 1766399240,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "王一博入选中国品牌青年500强",
       "onboard_time": 1766395640,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117287,
+      "num": 117287,
+      "word": "金靖包场虞书欣新剧",
+      "onboard_time": 1766397620,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116863,
@@ -1883,6 +2011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98073,
+      "num": 183154,
+      "word": "25万求复婚才知儿子非亲生且已改姓",
+      "onboard_time": 1766398400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97557,
       "num": 97557,
       "word": "每天吃猪油可控制体重和慢性炎症",
@@ -2091,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76440,
+      "num": 151547,
+      "word": "长安二十四计地狱笑话",
+      "onboard_time": 1766398939,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76398,
       "num": 189734,
       "word": "龚俊亲吻鲨鱼",
@@ -2275,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63110,
+      "num": 179741,
+      "word": "成毅直播把我看哭了",
+      "onboard_time": 1766397920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63041,
       "num": 262637,
       "word": "天天好睡眠的秘诀是什么",
@@ -2395,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47394,
+      "num": 164214,
+      "word": "京东跨晚大奖怎么领",
+      "onboard_time": 1766397920,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47095,
       "num": 185377,
       "word": "成都通报私人影院违规经营情况",
@@ -2465,6 +2625,14 @@
       "onboard_time": 1766385980,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38547,
+      "num": 156677,
+      "word": "鸿蒙5和鸿蒙6终端设备数超3200万",
+      "onboard_time": 1766397981,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 38123,
@@ -2545,6 +2713,14 @@
       "onboard_time": 1766324963,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33722,
+      "num": 183604,
+      "word": "鸿星尔克于适中国红",
+      "onboard_time": 1766397981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 33267,
@@ -2691,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22614,
+      "num": 161357,
+      "word": "车厘子1至2月才是价格谷底",
+      "onboard_time": 1766399301,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21971,
       "num": 118291,
       "word": "王安宇胡先煦北斗七行售后",
@@ -2832,6 +3016,14 @@
       "word": "外国记者说看到外媒抹黑中国难受",
       "onboard_time": 1766377581,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6458,
+      "num": 152805,
+      "word": "专访马库斯与友人捐照片背后的故事",
+      "onboard_time": 1766399000,
+      "rank": 36,
       "category": "民生新闻"
     }
   ],
