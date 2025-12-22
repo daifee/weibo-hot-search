@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766431498943,
+  "endTime": 1766432318552,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -7369,6 +7369,14 @@
       "onboard_time": 1766313743,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28776,
+      "num": 28776,
+      "word": "刘宇宁说没来的都在心里",
+      "onboard_time": 1766431814,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 28752,
