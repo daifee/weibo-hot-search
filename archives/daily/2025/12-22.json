@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766414761118,
+  "endTime": 1766417472422,
   "band_list": [
     {
       "raw_hot": 3284925,
@@ -73,6 +73,14 @@
       "onboard_time": 1766362222,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1366363,
+      "num": 235102,
+      "word": "庞铮对贺峻霖道歉",
+      "onboard_time": 1766415442,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1286234,
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530831,
+      "num": 530831,
+      "word": "23岁硕士徒步去世前已主动返程",
+      "onboard_time": 1766414063,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530538,
       "num": 186168,
       "word": "王影璐位置",
@@ -499,6 +515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 426337,
+      "num": 426337,
+      "word": "女孩要水后炫耀被一旁女孩打翻",
+      "onboard_time": 1766411362,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426262,
       "num": 256853,
       "word": "职工医保和居民医保的区别",
@@ -539,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406050,
+      "num": 406050,
+      "word": "中国新增70位亿万富豪",
+      "onboard_time": 1766412685,
+      "rank": 24,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 405478,
       "num": 143538,
       "word": "洛熙妈妈发布多个小洛熙生前视频",
@@ -555,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 400208,
+      "num": 231963,
+      "word": "阿信感谢朱孝天",
+      "onboard_time": 1766415263,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 392062,
       "num": 313624,
       "word": "陈都灵鼓起勇气追星成功",
@@ -569,6 +609,14 @@
       "onboard_time": 1766406321,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 381630,
+      "num": 230472,
+      "word": "骄阳似我破纪录",
+      "onboard_time": 1766412263,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 376722,
@@ -683,14 +731,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 325102,
-      "num": 325102,
-      "word": "女孩要水后炫耀被一旁女孩打翻",
-      "onboard_time": 1766411362,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319638,
       "num": 301095,
       "word": "双轨",
@@ -731,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304327,
-      "num": 230472,
-      "word": "骄阳似我破纪录",
-      "onboard_time": 1766412263,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303557,
       "num": 303557,
       "word": "韩国人也用液体勺",
@@ -769,6 +801,14 @@
       "onboard_time": 1766388620,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300632,
+      "num": 197080,
+      "word": "王弘毅没领奖",
+      "onboard_time": 1766416401,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 300620,
@@ -905,14 +945,6 @@
       "onboard_time": 1766387300,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263498,
-      "num": 263498,
-      "word": "中国新增70位亿万富豪",
-      "onboard_time": 1766412685,
-      "rank": 24,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 261050,
@@ -1315,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185860,
+      "num": 185860,
+      "word": "赵雅芝 香奈儿老了还是香奈儿",
+      "onboard_time": 1766415562,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185843,
       "num": 190454,
       "word": "星光大赏奖项",
@@ -1340,7 +1380,7 @@
     },
     {
       "raw_hot": 184736,
-      "num": 184736,
+      "num": 218454,
       "word": "知情人称女教师弟弟哭得死去活来",
       "onboard_time": 1766412983,
       "rank": 28,
@@ -1785,14 +1825,6 @@
       "onboard_time": 1766399361,
       "rank": 41,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 145853,
-      "num": 145853,
-      "word": "23岁硕士徒步去世前已主动返程",
-      "onboard_time": 1766414063,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144992,
@@ -2563,6 +2595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105600,
+      "num": 105600,
+      "word": "王鹤润瘦了好多",
+      "onboard_time": 1766415382,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105434,
       "num": 105434,
       "word": "待富人群",
@@ -2609,6 +2649,14 @@
       "onboard_time": 1766382322,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104313,
+      "num": 104313,
+      "word": "赵今麦穿着西瓜色毛衣吃西瓜",
+      "onboard_time": 1766415923,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 103655,
@@ -2675,6 +2723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 101827,
+      "num": 209917,
+      "word": "女教师新婚当天坠亡",
+      "onboard_time": 1766412564,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101549,
       "num": 101549,
       "word": "代入经纪人视角看Angelababy",
@@ -2739,6 +2795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98869,
+      "num": 98869,
+      "word": "朱孝天 F4",
+      "onboard_time": 1766414783,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98825,
       "num": 98825,
       "word": "Letme说Viper来后BLG打法变了",
@@ -2795,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95409,
+      "num": 95409,
+      "word": "宋祖儿安慰摔了一跤的孟子义",
+      "onboard_time": 1766417361,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95399,
       "num": 95399,
       "word": "她一生比别人多说好多句对不起",
@@ -2833,14 +2905,6 @@
       "onboard_time": 1766389040,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 92872,
-      "num": 111086,
-      "word": "女教师新婚当天坠亡",
-      "onboard_time": 1766412564,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92693,
@@ -2987,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80197,
+      "num": 95392,
+      "word": "男子服装店连扇女子数十个耳光",
+      "onboard_time": 1766415741,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79728,
       "num": 79728,
       "word": "陈妍希和金靖合照",
@@ -3041,6 +3113,14 @@
       "onboard_time": 1766377762,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74408,
+      "num": 115403,
+      "word": "父母越松弛孩子越自信",
+      "onboard_time": 1766417300,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 74357,
@@ -3195,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65352,
+      "num": 250293,
+      "word": "美国务卿就近期中日关系表态",
+      "onboard_time": 1766414423,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65014,
       "num": 183777,
       "word": "黄子弘凡直播",
@@ -3249,6 +3337,14 @@
       "onboard_time": 1766334741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62569,
+      "num": 95322,
+      "word": "俞敏洪再谈董宇辉离职",
+      "onboard_time": 1766415802,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 61930,
@@ -3443,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44377,
+      "num": 162482,
+      "word": "商务部用中国古话回应安世半导体问题",
+      "onboard_time": 1766415263,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44198,
       "num": 123977,
       "word": "闫妮中女的可塑性",
@@ -3560,6 +3664,14 @@
       "word": "华西医生分享治疗房缺患儿",
       "onboard_time": 1766330426,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37362,
+      "num": 208290,
+      "word": "中菲合作抓获遣返涉绑架杀人嫌疑人",
+      "onboard_time": 1766416702,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3961,14 +4073,6 @@
       "onboard_time": 1766353034,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15019,
-      "num": 250293,
-      "word": "美国务卿就近期中日关系表态",
-      "onboard_time": 1766414423,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14658,
