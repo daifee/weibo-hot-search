@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/23 00:36:25 ~ 2025/12/23 03:38:38
+本榜单时间：2025/12/23 00:36:25 ~ 2025/12/23 04:31:56
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,18 @@ cp32（热度：31540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%BF%B9%23" target="weibo">
 奇迹（热度：17279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23deepseek%E5%B4%A9%E4%BA%86%23" target="weibo">
+deepseek崩了（热度：15228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%23" target="weibo">
+地球超新鲜（热度：12895）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766432318552,
+  "endTime": 1766435516339,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -77289,6 +77289,14 @@
       "onboard_time": 1765333520,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15228,
+      "num": 18233,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 15118,
