@@ -1,0 +1,410 @@
+{
+  "runTime": 1766379528101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622236,
+        "num": 1099557,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245772,
+        "num": 245772,
+        "word": "骄阳似我开播",
+        "onboard_time": 1766373020,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19369,
+        "num": 234214,
+        "word": "我国数字消费用户规模超9.5亿人",
+        "onboard_time": 1766323644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552489,
+        "num": 233951,
+        "word": "孟子义一晚上拿了五个奖",
+        "onboard_time": 1766379082,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227120,
+        "num": 227120,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534192,
+        "num": 215873,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342883,
+        "num": 210985,
+        "word": "短剧拍了嫂子开门我是我哥",
+        "onboard_time": 1766372420,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264407,
+        "num": 210229,
+        "word": "什么是正食症",
+        "onboard_time": 1766369899,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194028,
+        "num": 194028,
+        "word": "国漫年底是有什么人设KPI吗",
+        "onboard_time": 1766379261,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187787,
+        "num": 193941,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1766366299,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1027698,
+        "num": 193853,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 876266,
+        "num": 193710,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670392,
+        "num": 193628,
+        "word": "宁波妇儿医院儿胸心外科已处关闭状态",
+        "onboard_time": 1766375722,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527559,
+        "num": 193490,
+        "word": "南博退休员工举报原院长盗窃走私文物",
+        "onboard_time": 1766374160,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522230,
+        "num": 193410,
+        "word": "丞磊星光大赏疑似被换座位",
+        "onboard_time": 1766375900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518904,
+        "num": 193305,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457023,
+        "num": 193199,
+        "word": "福原爱再婚丈夫",
+        "onboard_time": 1766378363,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167979,
+        "num": 193078,
+        "word": "边牧幼犬托运被狐狸吃掉爪子遭弃养",
+        "onboard_time": 1766377341,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160719,
+        "num": 192965,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43189,
+        "num": 192846,
+        "word": "睡着的成毅软乎乎",
+        "onboard_time": 1766378363,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1390526,
+        "num": 192673,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564845,
+        "num": 192603,
+        "word": "山城小栗旬官宣恋情",
+        "onboard_time": 1766378302,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 380824,
+        "num": 192518,
+        "word": "福原爱再婚对象正是出轨风波男主",
+        "onboard_time": 1766378603,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328731,
+        "num": 192350,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228542,
+        "num": 192273,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 192153,
+        "word": "丁禹兮获评三级演员职称",
+        "onboard_time": 1766378603,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124901,
+        "num": 192000,
+        "word": "直播间便宜货不敢再买了",
+        "onboard_time": 1766376741,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102962,
+        "num": 191873,
+        "word": "为什么熬夜的人更容易患癌",
+        "onboard_time": 1766376441,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67388,
+        "num": 191811,
+        "word": "让AI成为你的情绪垃圾桶",
+        "onboard_time": 1766376560,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93822,
+        "num": 191645,
+        "word": "个税专项附加扣除将截止",
+        "onboard_time": 1766374701,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "周也王玉雯让陈星旭一起走",
+        "onboard_time": 1766369899,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "潘展乐晒军训标兵证书",
+        "onboard_time": 1766379442,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188013,
+        "num": 188013,
+        "word": "虞书欣姜暮角色热度",
+        "onboard_time": 1766378843,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106221,
+        "num": 186073,
+        "word": "中国已准备三大招应对墨西哥小动作",
+        "onboard_time": 1766377041,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185047,
+        "num": 185047,
+        "word": "江宏杰方回应福原爱再婚怀孕",
+        "onboard_time": 1766375542,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21432,
+        "num": 184796,
+        "word": "鸿蒙盛典导演说被鸿蒙速度触动了",
+        "onboard_time": 1766375601,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23139,
+        "num": 184574,
+        "word": "台男子穿坏人字样上衣夜市持刀徘徊",
+        "onboard_time": 1766378783,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147340,
+        "num": 184212,
+        "word": "时团的小卡已经进化成这样了吗",
+        "onboard_time": 1766379323,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104719,
+        "num": 183949,
+        "word": "女子恋爱中被要求攒够4万再结婚",
+        "onboard_time": 1766370260,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13698,
+        "num": 183460,
+        "word": "柬方感谢中方推动柬泰局势降温",
+        "onboard_time": 1766379442,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183343,
+        "num": 183343,
+        "word": "吓坏的李昀锐心疼的白鹿着急的丞磊",
+        "onboard_time": 1766375061,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172990,
+        "num": 172990,
+        "word": "星光大赏数据",
+        "onboard_time": 1766378482,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166397,
+        "num": 166397,
+        "word": "何与 单眼皮183长大衣韩剧味溢出了",
+        "onboard_time": 1766378182,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69234,
+        "num": 156244,
+        "word": "活体宠物与普通快递混运",
+        "onboard_time": 1766377642,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 149581,
+        "word": "2025年度时尚封面人物TOP10",
+        "onboard_time": 1766379323,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175811,
+        "num": 146269,
+        "word": "丞磊座位",
+        "onboard_time": 1766376261,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61930,
+        "num": 139702,
+        "word": "教育局回应孩子遭幼儿园师生踢打",
+        "onboard_time": 1766377942,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138901,
+        "num": 138901,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1766369178,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137490,
+        "num": 137490,
+        "word": "小米17Ultra星空绿",
+        "onboard_time": 1766377461,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74854,
+        "num": 135253,
+        "word": "李煜东跟余宇涵说吃鸡翅长不高",
+        "onboard_time": 1766377762,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}
