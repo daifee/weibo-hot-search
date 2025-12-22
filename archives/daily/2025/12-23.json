@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766428870505,
+  "endTime": 1766429670610,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94931,
+      "num": 94931,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91232,
       "num": 160616,
       "word": "敖瑞鹏 老来得红",
@@ -289,14 +297,6 @@
       "onboard_time": 1766419642,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67631,
-      "num": 67631,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 66536,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 30344,
-      "num": 37628,
+      "num": 40172,
       "word": "庄序人设",
       "onboard_time": 1766427554,
       "rank": 26,
@@ -491,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22141,
-      "num": 37418,
+      "raw_hot": 22327,
+      "num": 40204,
       "word": "得闲谨制",
       "onboard_time": 1766425695,
       "rank": 34,
@@ -507,8 +507,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19382,
+      "num": 40129,
+      "word": "暮暮朝朝新婚",
+      "onboard_time": 1766429174,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18117,
-      "num": 37116,
+      "num": 40106,
       "word": "骄阳似我第5集",
       "onboard_time": 1766425157,
       "rank": 45,
