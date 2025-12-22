@@ -1,0 +1,410 @@
+{
+  "runTime": 1766400441018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773446,
+        "num": 1123751,
+        "word": "双轨大结局",
+        "onboard_time": 1766397981,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334868,
+        "num": 334868,
+        "word": "梁王组合丢下奖金头也不回走了",
+        "onboard_time": 1766392041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5951,
+        "num": 204051,
+        "word": "北京范儿",
+        "onboard_time": 1766363660,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419893,
+        "num": 203971,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203062,
+        "num": 203062,
+        "word": "中方对日本高官言论感到震惊",
+        "onboard_time": 1766391624,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1196736,
+        "num": 203042,
+        "word": "海底捞小便事件家长赔偿220万元",
+        "onboard_time": 1766395043,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496503,
+        "num": 202999,
+        "word": "黄鱼面塌房",
+        "onboard_time": 1766394681,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305341,
+        "num": 202899,
+        "word": "骄阳似我 何以笙箫默",
+        "onboard_time": 1766399301,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243262,
+        "num": 202852,
+        "word": "时尚芭莎珠宝年度盛典",
+        "onboard_time": 1766396842,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 231503,
+        "num": 202838,
+        "word": "当你吃外卖必须找到电子榨菜",
+        "onboard_time": 1766398461,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61802,
+        "num": 202780,
+        "word": "成毅直播把我看哭了",
+        "onboard_time": 1766397920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633298,
+        "num": 202724,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522035,
+        "num": 202658,
+        "word": "黄杨钿甜与父亲成立合伙企业",
+        "onboard_time": 1766396901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356184,
+        "num": 202588,
+        "word": "秦岚走路姿势",
+        "onboard_time": 1766393422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296347,
+        "num": 202556,
+        "word": "丞磊王影璐你俩拍一部吧",
+        "onboard_time": 1766398580,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295454,
+        "num": 202506,
+        "word": "22天圣诞假",
+        "onboard_time": 1766388081,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291221,
+        "num": 202402,
+        "word": "多名艺人为小洛熙发声",
+        "onboard_time": 1766399541,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 45373,
+        "num": 202390,
+        "word": "车厘子1至2月才是价格谷底",
+        "onboard_time": 1766399301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56525,
+        "num": 202305,
+        "word": "业主称得知女教师坠楼新郎伤心哭泣",
+        "onboard_time": 1766399781,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34295,
+        "num": 202234,
+        "word": "鸿星尔克于适中国红",
+        "onboard_time": 1766397981,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392881,
+        "num": 202176,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215431,
+        "num": 202171,
+        "word": "丁禹兮一晚上干了多少事",
+        "onboard_time": 1766393361,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213569,
+        "num": 202081,
+        "word": "宁波小洛熙医疗事件责任应如何认定",
+        "onboard_time": 1766398100,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92847,
+        "num": 202034,
+        "word": "小米17Ultra新一代夜神",
+        "onboard_time": 1766397981,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38980,
+        "num": 201993,
+        "word": "华为nova15全系大大大大升级",
+        "onboard_time": 1766399781,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201950,
+        "num": 201950,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194640,
+        "num": 194640,
+        "word": "展轩看刘轩丞直播",
+        "onboard_time": 1766399839,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190827,
+        "num": 190827,
+        "word": "优衣库店长下达偷拍顾客指标",
+        "onboard_time": 1766383220,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189151,
+        "num": 189151,
+        "word": "内娱迎来首个免签题材综艺",
+        "onboard_time": 1766399421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184861,
+        "num": 184861,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25547,
+        "num": 177733,
+        "word": "华为发布会秒变潮流派对",
+        "onboard_time": 1766399781,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73279,
+        "num": 175345,
+        "word": "京东跨晚大奖怎么领",
+        "onboard_time": 1766397920,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149252,
+        "num": 173599,
+        "word": "有这3个睡眠习惯的人更易患癌",
+        "onboard_time": 1766391081,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173391,
+        "num": 173391,
+        "word": "贝克汉姆大儿子拉黑全家",
+        "onboard_time": 1766386640,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150255,
+        "num": 173238,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1766400021,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30655,
+        "num": 173004,
+        "word": "鸿蒙5和鸿蒙6终端设备数超3200万",
+        "onboard_time": 1766397981,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17763,
+        "num": 172752,
+        "word": "优衣库门店要求偷拍或因被偷太多",
+        "onboard_time": 1766400201,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45381,
+        "num": 172600,
+        "word": "姜滨为虞书欣双轨包场",
+        "onboard_time": 1766400080,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42909,
+        "num": 172370,
+        "word": "村干部证实坠亡女教师只有1个弟弟",
+        "onboard_time": 1766400322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171946,
+        "num": 172152,
+        "word": "地球超新鲜",
+        "onboard_time": 1766398221,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172030,
+        "num": 172030,
+        "word": "唐诡奇谭",
+        "onboard_time": 1766398820,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "W中文版光影初心大片",
+        "onboard_time": 1766399361,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 138634,
+        "num": 138634,
+        "word": "一部短剧集齐十个视帝视后",
+        "onboard_time": 1766398762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86187,
+        "num": 138384,
+        "word": "25万求复婚才知儿子非亲生且已改姓",
+        "onboard_time": 1766398400,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85120,
+        "num": 138142,
+        "word": "张淼怡看毛晓慧星星眼出来了",
+        "onboard_time": 1766398882,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7853,
+        "num": 137895,
+        "word": "专访马库斯与友人捐照片背后的故事",
+        "onboard_time": 1766399000,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42636,
+        "num": 137781,
+        "word": "长安二十四计地狱笑话",
+        "onboard_time": 1766398939,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137549,
+        "num": 137549,
+        "word": "一哥爆料杜克",
+        "onboard_time": 1766387181,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123946,
+        "num": 123946,
+        "word": "MEI成员退团",
+        "onboard_time": 1766400141,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114542,
+        "num": 114542,
+        "word": "读研3年vs工作3年",
+        "onboard_time": 1766395521,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#四大全球倡议#"
+    }
+  }
+}
