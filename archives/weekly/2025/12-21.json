@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766411605086,
+  "endTime": 1766413800371,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2272310,
+      "num": 2272310,
+      "word": "明年起发淫秽信息违法",
+      "onboard_time": 1766405900,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2142602,
       "num": 256620,
       "word": "孟子义摔出了神图",
@@ -71,14 +79,6 @@
       "num": 324852,
       "word": "海底捞小便事件家长赔偿220万元",
       "onboard_time": 1766395043,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1724671,
-      "num": 1724671,
-      "word": "明年起发淫秽信息违法",
-      "onboard_time": 1766405900,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -176,6 +176,14 @@
       "word": "检察官为儿子强奸未成年做无罪辩护",
       "onboard_time": 1766326105,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1193831,
+      "num": 226494,
+      "word": "宁波妇儿医院现状",
+      "onboard_time": 1766409982,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752225,
+      "num": 189203,
+      "word": "韩美娟官宣恋情",
+      "onboard_time": 1766412323,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 751038,
       "num": 495642,
       "word": "白鹿 林间花仙子",
@@ -568,14 +584,6 @@
       "word": "卫健委应解释小洛熙尸检报告",
       "onboard_time": 1766289800,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 615608,
-      "num": 226494,
-      "word": "宁波妇儿医院现状",
-      "onboard_time": 1766409982,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -697,6 +705,14 @@
       "onboard_time": 1766381181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557775,
+      "num": 557775,
+      "word": "骄阳似我",
+      "onboard_time": 1766397501,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 554146,
@@ -907,12 +923,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 483192,
-      "num": 483192,
-      "word": "骄阳似我",
-      "onboard_time": 1766397501,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 484750,
+      "num": 484750,
+      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+      "onboard_time": 1766407762,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 480528,
@@ -1739,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290691,
+      "num": 208245,
+      "word": "攒了两年的钱在这一刻全花掉了",
+      "onboard_time": 1766407582,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289627,
       "num": 289627,
       "word": "孟子义顺手就把奖杯给李昀锐了",
@@ -2027,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240362,
+      "num": 190954,
+      "word": "女孩要水后炫耀被一旁女孩打翻",
+      "onboard_time": 1766411362,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "数三",
@@ -2147,14 +2179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 224738,
-      "num": 253496,
-      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
-      "onboard_time": 1766407762,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224315,
       "num": 221199,
       "word": "王一博身心疲惫正调整状态",
@@ -2211,12 +2235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214754,
+      "num": 187997,
+      "word": "敖瑞鹏 老来得红",
+      "onboard_time": 1766411544,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214543,
       "num": 214543,
       "word": "62岁大爷预警滑坡全村0伤亡",
       "onboard_time": 1766277679,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213885,
+      "num": 187749,
+      "word": "骄阳似我破纪录",
+      "onboard_time": 1766412263,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 213829,
@@ -2305,14 +2345,6 @@
       "onboard_time": 1766314403,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208245,
-      "num": 208245,
-      "word": "攒了两年的钱在这一刻全花掉了",
-      "onboard_time": 1766407582,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 208020,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1766312782,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197045,
+      "num": 187314,
+      "word": "中国新增70位亿万富豪",
+      "onboard_time": 1766412685,
+      "rank": 24,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 196297,
@@ -3059,6 +3099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "虞书欣说感谢大家参加暮暮朝朝婚礼",
+      "onboard_time": 1766413162,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169895,
       "num": 152169,
       "word": "冯彦哲黄东萍混双冠军",
@@ -3235,14 +3283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161888,
-      "num": 161888,
-      "word": "女孩要水后炫耀被一旁女孩打翻",
-      "onboard_time": 1766411362,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161406,
       "num": 161406,
       "word": "左一助理回应",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1766319143,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "知情人称女教师弟弟哭得死去活来",
+      "onboard_time": 1766412983,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158317,
@@ -3401,6 +3449,14 @@
       "onboard_time": 1766376741,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153846,
+      "num": 153846,
+      "word": "费振翔导演安利肖战主演电影非常好看",
+      "onboard_time": 1766410402,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 152972,
@@ -3851,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139369,
+      "num": 139369,
+      "word": "李相夷的红绸传给了谢淮安",
+      "onboard_time": 1766412685,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139003,
       "num": 139003,
       "word": "汪顺哭了",
@@ -4083,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130867,
+      "num": 130867,
+      "word": "胡歌短剧首吻献给牛粪了",
+      "onboard_time": 1766412802,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130808,
       "num": 130808,
       "word": "胡兵薛佳凝粉红女郎后再同框",
@@ -4145,14 +4217,6 @@
       "onboard_time": 1766322444,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129680,
-      "num": 129680,
-      "word": "费振翔导演安利肖战主演电影非常好看",
-      "onboard_time": 1766410402,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129596,
@@ -4443,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119713,
+      "num": 109763,
+      "word": "宋威龙飞机上陪看骄阳似我",
+      "onboard_time": 1766413643,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119711,
       "num": 119711,
       "word": "宋佳黑长直",
@@ -4731,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109733,
+      "num": 109733,
+      "word": "晚宴内场的鞠婧祎",
+      "onboard_time": 1766413104,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109683,
       "num": 109683,
       "word": "福原爱新丈夫是出轨风波男主",
@@ -4995,6 +5075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102594,
+      "num": 102594,
+      "word": "骄阳似我全糖啵啵预告",
+      "onboard_time": 1766411662,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102536,
       "num": 102536,
       "word": "少年的爱情是不可再生之物",
@@ -5105,6 +5193,14 @@
       "onboard_time": 1766382381,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100100,
+      "num": 111329,
+      "word": "BLG全对",
+      "onboard_time": 1766413284,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 99926,
@@ -5291,20 +5387,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92872,
+      "num": 111086,
+      "word": "女教师新婚当天坠亡",
+      "onboard_time": 1766412564,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92693,
       "num": 92693,
       "word": "丁禹兮爆灯第一",
       "onboard_time": 1766333423,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92406,
-      "num": 92406,
-      "word": "敖瑞鹏 老来得红",
-      "onboard_time": 1766411544,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 91992,
@@ -5555,6 +5651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 80285,
+      "num": 146750,
+      "word": "发小劫杀男子妻儿手撕孩子出生证明",
+      "onboard_time": 1766411422,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79728,
       "num": 79728,
       "word": "陈妍希和金靖合照",
@@ -5731,6 +5835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72841,
+      "num": 971459,
+      "word": "手把手教你个税专项附加扣除",
+      "onboard_time": 1766409262,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72405,
       "num": 72606,
       "word": "健康的恋爱关系真的会养人",
@@ -5857,6 +5969,14 @@
       "onboard_time": 1766380102,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65768,
+      "num": 189772,
+      "word": "海底捞小便案起因玩真心话大冒险",
+      "onboard_time": 1766412622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65742,
@@ -6129,14 +6249,6 @@
       "onboard_time": 1766244563,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54952,
-      "num": 971459,
-      "word": "手把手教你个税专项附加扣除",
-      "onboard_time": 1766409262,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54558,
@@ -6547,6 +6659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37685,
+      "num": 192884,
+      "word": "王嘉尔对于击剑没有左右之分",
+      "onboard_time": 1766412323,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37552,
       "num": 881125,
       "word": "冬至是春节的预告片",
@@ -6585,6 +6705,14 @@
       "onboard_time": 1766301980,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36223,
+      "num": 193830,
+      "word": "Prada冬日松弛美学",
+      "onboard_time": 1766412323,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 35795,
@@ -6929,6 +7057,14 @@
       "onboard_time": 1766254815,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26979,
+      "num": 90365,
+      "word": "自来水变蓝小区有业主检出肺结节",
+      "onboard_time": 1766412144,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26509,
@@ -7329,14 +7465,6 @@
       "onboard_time": 1766356035,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15443,
-      "num": 146750,
-      "word": "发小劫杀男子妻儿手撕孩子出生证明",
-      "onboard_time": 1766411422,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15415,
