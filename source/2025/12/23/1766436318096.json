@@ -1,0 +1,410 @@
+{
+  "runTime": 1766436318096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119018,
+        "num": 119018,
+        "word": "明年起发淫秽信息违法",
+        "onboard_time": 1766405900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75521,
+        "num": 75521,
+        "word": "微博之夜",
+        "onboard_time": 1766406321,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9578,
+        "num": 49206,
+        "word": "手把手教你个税专项附加扣除",
+        "onboard_time": 1766409262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48091,
+        "num": 48091,
+        "word": "网红面馆被立案调查多位明星曾打卡",
+        "onboard_time": 1766400861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48036,
+        "num": 48036,
+        "word": "23岁硕士徒步去世前已主动返程",
+        "onboard_time": 1766414063,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42793,
+        "num": 42793,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39555,
+        "num": 39555,
+        "word": "阿信摔下舞台",
+        "onboard_time": 1766407943,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36586,
+        "num": 36586,
+        "word": "原来微信长按好用一万倍",
+        "onboard_time": 1766425755,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34730,
+        "num": 34730,
+        "word": "女孩要水后炫耀被一旁女孩打翻",
+        "onboard_time": 1766411362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26748,
+        "num": 26748,
+        "word": "骄阳似我 男二",
+        "onboard_time": 1766400981,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59699,
+        "num": 26719,
+        "word": "庞铮对贺峻霖道歉",
+        "onboard_time": 1766415442,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38600,
+        "num": 26696,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31371,
+        "num": 26503,
+        "word": "孟子义早期硬照",
+        "onboard_time": 1766420420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25931,
+        "num": 25931,
+        "word": "中国新增70位亿万富豪",
+        "onboard_time": 1766412685,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 25196,
+        "num": 25196,
+        "word": "阿信感谢朱孝天",
+        "onboard_time": 1766415263,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24996,
+        "num": 24996,
+        "word": "斩杀线",
+        "onboard_time": 1766407823,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22595,
+        "num": 22595,
+        "word": "网约车臭车问题为何年年说年年有",
+        "onboard_time": 1766422578,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20766,
+        "num": 20766,
+        "word": "优衣库前员工展示可疑顾客相册",
+        "onboard_time": 1766419642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18997,
+        "num": 18997,
+        "word": "韩四大企业集团掌门人拟访华",
+        "onboard_time": 1766418801,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18751,
+        "num": 18751,
+        "word": "攒了两年的钱在这一刻全花掉了",
+        "onboard_time": 1766407582,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71901,
+        "num": 18749,
+        "word": "韩美娟官宣恋情",
+        "onboard_time": 1766412323,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44880,
+        "num": 18748,
+        "word": "一份致癌的精子生下200个孩子",
+        "onboard_time": 1766408422,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 18746,
+        "word": "王影璐 没抢座位",
+        "onboard_time": 1766405541,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19573,
+        "num": 18746,
+        "word": "曝杨洋和顶流95花谈过恋爱",
+        "onboard_time": 1766401520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18795,
+        "num": 18744,
+        "word": "得闲谨制",
+        "onboard_time": 1766425695,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17015,
+        "num": 18743,
+        "word": "陈都灵鼓起勇气追星成功",
+        "onboard_time": 1766407521,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16297,
+        "num": 18741,
+        "word": "deepseek崩了",
+        "onboard_time": 1766432174,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15354,
+        "num": 18740,
+        "word": "男子服装店连扇女子数十个耳光",
+        "onboard_time": 1766415741,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15153,
+        "num": 18738,
+        "word": "韩国人也用液体勺",
+        "onboard_time": 1766404760,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14886,
+        "num": 18736,
+        "word": "王弘毅没领奖",
+        "onboard_time": 1766416401,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14779,
+        "num": 18735,
+        "word": "庄序人设",
+        "onboard_time": 1766427554,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14708,
+        "num": 18734,
+        "word": "奇迹",
+        "onboard_time": 1766402721,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14093,
+        "num": 18731,
+        "word": "改变从学会情绪刹车开始",
+        "onboard_time": 1766423418,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13740,
+        "num": 18731,
+        "word": "敖瑞鹏 老来得红",
+        "onboard_time": 1766411544,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13310,
+        "num": 18729,
+        "word": "费振翔导演安利肖战主演电影非常好看",
+        "onboard_time": 1766410402,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13290,
+        "num": 18728,
+        "word": "原来人真的是被命运推着走的",
+        "onboard_time": 1766413884,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13072,
+        "num": 18724,
+        "word": "星光大赏最佳神图",
+        "onboard_time": 1766422458,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12985,
+        "num": 18724,
+        "word": "赵雅芝 香奈儿老了还是香奈儿",
+        "onboard_time": 1766415562,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12980,
+        "num": 18723,
+        "word": "省委书记密集会见民营企业家",
+        "onboard_time": 1766417601,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12393,
+        "num": 18721,
+        "word": "大同地震",
+        "onboard_time": 1766407341,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 12595,
+        "num": 18719,
+        "word": "地球超新鲜",
+        "onboard_time": 1766398221,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12150,
+        "num": 18717,
+        "word": "纯饮食减重50斤",
+        "onboard_time": 1766403861,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 11987,
+        "num": 18717,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11551,
+        "num": 18715,
+        "word": "俞敏洪再谈董宇辉离职",
+        "onboard_time": 1766415802,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11176,
+        "num": 18713,
+        "word": "朱孝天 F4",
+        "onboard_time": 1766414783,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11059,
+        "num": 18710,
+        "word": "王霏霏表情管理精确到眨眼频率",
+        "onboard_time": 1766419762,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10993,
+        "num": 18709,
+        "word": "北京震感",
+        "onboard_time": 1766407222,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 10313,
+        "num": 18708,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1766400021,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10150,
+        "num": 18707,
+        "word": "一诺获得虎扑年度最具话题选手",
+        "onboard_time": 1766423958,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9983,
+        "num": 18704,
+        "word": "虞书欣说朝朝暮暮永不分离",
+        "onboard_time": 1766423537,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766435516339,
+  "endTime": 1766436318096,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -7843,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16297,
+      "num": 18741,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16271,
       "num": 110560,
       "word": "挂驴头卖马肉老板称一点驴肉不用放",
@@ -7889,14 +7897,6 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15228,
-      "num": 18233,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 14990,

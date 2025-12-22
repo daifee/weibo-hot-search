@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766435516339,
+  "endTime": 1766436318096,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -76987,6 +76987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16297,
+      "num": 18741,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16294,
       "num": 128550,
       "word": "大连暖气管爆裂事故致1死1伤",
@@ -77289,14 +77297,6 @@
       "onboard_time": 1765333520,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15228,
-      "num": 18233,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 15118,

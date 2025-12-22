@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766435516339,
+  "endTime": 1766436318096,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -539,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15228,
-      "num": 18233,
+      "raw_hot": 16297,
+      "num": 18741,
       "word": "deepseek崩了",
       "onboard_time": 1766432174,
       "rank": 29,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 12895,
-      "num": 18229,
+      "num": 18719,
       "word": "地球超新鲜",
       "onboard_time": 1766398221,
       "rank": 40,
