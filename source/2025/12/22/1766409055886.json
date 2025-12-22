@@ -1,0 +1,410 @@
+{
+  "runTime": 1766409055886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3048046,
+        "num": 3048046,
+        "word": "大同地震",
+        "onboard_time": 1766407341,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1338814,
+        "num": 1338814,
+        "word": "北京震感",
+        "onboard_time": 1766407222,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16620,
+        "num": 1311627,
+        "word": "又一条穿山越海的高铁开通",
+        "onboard_time": 1766408843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1310374,
+        "num": 1310374,
+        "word": "阿信摔下舞台",
+        "onboard_time": 1766407943,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1045580,
+        "num": 1045580,
+        "word": "明年起向好友发淫秽信息违法",
+        "onboard_time": 1766402962,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022681,
+        "num": 1022681,
+        "word": "骄阳似我 男二",
+        "onboard_time": 1766400981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 991444,
+        "num": 991444,
+        "word": "明年起发淫秽信息违法",
+        "onboard_time": 1766405900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575306,
+        "num": 575306,
+        "word": "石家庄震感",
+        "onboard_time": 1766407462,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 483192,
+        "num": 483192,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315838,
+        "num": 315838,
+        "word": "纯饮食减重50斤",
+        "onboard_time": 1766403861,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1129300,
+        "num": 313306,
+        "word": "王影璐 没抢座位",
+        "onboard_time": 1766405541,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439811,
+        "num": 312116,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337850,
+        "num": 308510,
+        "word": "微博之夜",
+        "onboard_time": 1766406321,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2449,
+        "num": 303966,
+        "word": "北京范儿",
+        "onboard_time": 1766363660,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303557,
+        "num": 303557,
+        "word": "韩国人也用液体勺",
+        "onboard_time": 1766404760,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300538,
+        "num": 300538,
+        "word": "陈都灵鼓起勇气追星成功",
+        "onboard_time": 1766407521,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288861,
+        "num": 288861,
+        "word": "一份致癌的精子生下200个孩子",
+        "onboard_time": 1766408422,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269659,
+        "num": 269659,
+        "word": "你可以考央丑了",
+        "onboard_time": 1766404401,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12658,
+        "num": 258600,
+        "word": "想到一个办法去见王鹤棣",
+        "onboard_time": 1766408780,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174935,
+        "num": 254144,
+        "word": "魏建军赌上姓氏造车后悔了吗",
+        "onboard_time": 1766408780,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90170,
+        "num": 253496,
+        "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+        "onboard_time": 1766407762,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253240,
+        "num": 253240,
+        "word": "易烊千玺把影帝奖杯放在公司展柜",
+        "onboard_time": 1766401581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602446,
+        "num": 240327,
+        "word": "曝杨洋和顶流95花谈过恋爱",
+        "onboard_time": 1766401520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202090,
+        "num": 202090,
+        "word": "骄阳似我热度",
+        "onboard_time": 1766404342,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 193139,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189704,
+        "num": 189704,
+        "word": "内娱有新舅舅了",
+        "onboard_time": 1766404881,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187147,
+        "num": 187147,
+        "word": "骄阳似我 自己选滤镜",
+        "onboard_time": 1766407102,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171951,
+        "num": 171951,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 170008,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1766400021,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55566,
+        "num": 168243,
+        "word": "阿福秒懂脑阔掂起疼是怎么回事",
+        "onboard_time": 1766405061,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151379,
+        "num": 166372,
+        "word": "山西大同4.2级地震",
+        "onboard_time": 1766407642,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 163640,
+        "word": "AG司马光走心读信",
+        "onboard_time": 1766408422,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162823,
+        "num": 162823,
+        "word": "内娱又要有好剧本了",
+        "onboard_time": 1766407943,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161311,
+        "num": 161311,
+        "word": "斩杀线",
+        "onboard_time": 1766407823,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155489,
+        "num": 155489,
+        "word": "攒了两年的钱在这一刻全花掉了",
+        "onboard_time": 1766407582,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "现偶 医生",
+        "onboard_time": 1766401760,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21642,
+        "num": 147519,
+        "word": "外交部回应美国随意扣押他国船只",
+        "onboard_time": 1766408902,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30519,
+        "num": 145420,
+        "word": "方媛晒古装照",
+        "onboard_time": 1766408482,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59644,
+        "num": 144764,
+        "word": "骄阳似我抠图",
+        "onboard_time": 1766408482,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "果然娶到心爱的女孩就像打了胜仗",
+        "onboard_time": 1766405841,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141691,
+        "num": 141691,
+        "word": "黄鱼面塌房",
+        "onboard_time": 1766394681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138026,
+        "num": 138026,
+        "word": "鞠婧祎被王安宇吓一跳好可爱",
+        "onboard_time": 1766406802,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137239,
+        "num": 137239,
+        "word": "老舅",
+        "onboard_time": 1766407401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136825,
+        "num": 136825,
+        "word": "奇迹",
+        "onboard_time": 1766402721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134874,
+        "num": 134874,
+        "word": "13省归还挪用养老基金130.83亿元",
+        "onboard_time": 1766406142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130715,
+        "num": 130715,
+        "word": "等一个丞磊张云龙官宣",
+        "onboard_time": 1766408062,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120670,
+        "num": 120670,
+        "word": "高圆圆生图比精修还稳定",
+        "onboard_time": 1766406142,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 119881,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114781,
+        "num": 114781,
+        "word": "有这3个睡眠习惯的人更易患癌",
+        "onboard_time": 1766391081,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99348,
+        "num": 99348,
+        "word": "微信转发淫秽信息给好友也违法",
+        "onboard_time": 1766401881,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

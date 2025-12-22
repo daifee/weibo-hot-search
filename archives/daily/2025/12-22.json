@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766408206755,
+  "endTime": 1766409055886,
   "band_list": [
     {
       "raw_hot": 3284925,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1310374,
+      "num": 1310374,
+      "word": "阿信摔下舞台",
+      "onboard_time": 1766407943,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1286234,
       "num": 324580,
       "word": "福原爱向再婚丈夫家人致歉",
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 1001987,
-      "num": 193848,
+      "num": 240327,
       "word": "曝杨洋和顶流95花谈过恋爱",
       "onboard_time": 1766401520,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 991444,
+      "num": 991444,
+      "word": "明年起发淫秽信息违法",
+      "onboard_time": 1766405900,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 921827,
@@ -275,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567458,
-      "num": 567458,
-      "word": "明年起发淫秽信息违法",
-      "onboard_time": 1766405900,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 575306,
+      "num": 575306,
+      "word": "石家庄震感",
+      "onboard_time": 1766407462,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 566038,
@@ -305,14 +321,6 @@
       "onboard_time": 1766379082,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546660,
-      "num": 546660,
-      "word": "石家庄震感",
-      "onboard_time": 1766407462,
-      "rank": 6,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 534192,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483192,
+      "num": 483192,
+      "word": "骄阳似我",
+      "onboard_time": 1766397501,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472192,
       "num": 218507,
       "word": "骄阳似我 何以笙箫默",
@@ -425,14 +441,6 @@
       "onboard_time": 1766400920,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458685,
-      "num": 458685,
-      "word": "骄阳似我",
-      "onboard_time": 1766397501,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 457023,
@@ -667,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303557,
+      "num": 303557,
+      "word": "韩国人也用液体勺",
+      "onboard_time": 1766404760,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303128,
       "num": 242588,
       "word": "陈星旭像奶了两个孩子",
@@ -696,6 +712,14 @@
       "word": "徐志胜穿450元旧衣走红毯",
       "onboard_time": 1766363361,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300538,
+      "num": 300538,
+      "word": "陈都灵鼓起勇气追星成功",
+      "onboard_time": 1766407521,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -737,6 +761,14 @@
       "onboard_time": 1766371641,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288861,
+      "num": 288861,
+      "word": "一份致癌的精子生下200个孩子",
+      "onboard_time": 1766408422,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 287378,
@@ -787,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269659,
+      "num": 269659,
+      "word": "你可以考央丑了",
+      "onboard_time": 1766404401,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269365,
       "num": 269365,
       "word": "私人影院异性陪侍4人被刑拘",
@@ -825,22 +865,6 @@
       "onboard_time": 1766364860,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252307,
-      "num": 252307,
-      "word": "韩国人也用液体勺",
-      "onboard_time": 1766404760,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 245044,
-      "num": 245044,
-      "word": "你可以考央丑了",
-      "onboard_time": 1766404401,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 243255,
@@ -1219,12 +1243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184218,
-      "num": 184218,
-      "word": "陈都灵鼓起勇气追星成功",
-      "onboard_time": 1766407521,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 183024,
+      "num": 163640,
+      "word": "AG司马光走心读信",
+      "onboard_time": 1766408422,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 180477,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1766395161,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174935,
+      "num": 254144,
+      "word": "魏建军赌上姓氏造车后悔了吗",
+      "onboard_time": 1766408780,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 174591,
@@ -1372,7 +1404,7 @@
     },
     {
       "raw_hot": 164253,
-      "num": 151190,
+      "num": 155489,
       "word": "攒了两年的钱在这一刻全花掉了",
       "onboard_time": 1766407582,
       "rank": 30,
@@ -1395,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162823,
+      "num": 162823,
+      "word": "内娱又要有好剧本了",
+      "onboard_time": 1766407943,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162214,
       "num": 162214,
       "word": "王安宇把胡先煦当感叹号用",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1766394800,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161311,
+      "num": 161311,
+      "word": "斩杀线",
+      "onboard_time": 1766407823,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159896,
@@ -1489,14 +1537,6 @@
       "onboard_time": 1766376441,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151104,
-      "num": 151104,
-      "word": "阿信摔下舞台",
-      "onboard_time": 1766407943,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 150385,
@@ -1625,14 +1665,6 @@
       "onboard_time": 1766402300,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143551,
-      "num": 143551,
-      "word": "斩杀线",
-      "onboard_time": 1766407823,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142986,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1766381841,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130715,
+      "num": 130715,
+      "word": "等一个丞磊张云龙官宣",
+      "onboard_time": 1766408062,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 130345,
@@ -2035,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116626,
-      "num": 116626,
-      "word": "内娱又要有好剧本了",
-      "onboard_time": 1766407943,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115503,
       "num": 221939,
       "word": "个税专项附加扣除将截止",
@@ -2249,14 +2281,6 @@
       "onboard_time": 1766407283,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107277,
-      "num": 107277,
-      "word": "等一个丞磊张云龙官宣",
-      "onboard_time": 1766408062,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 106737,
@@ -2563,6 +2587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 90170,
+      "num": 253496,
+      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+      "onboard_time": 1766407762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90111,
       "num": 132440,
       "word": "章莹颖母亲含泪拥抱神似女儿的记者",
@@ -2612,7 +2644,7 @@
     },
     {
       "raw_hot": 82496,
-      "num": 151228,
+      "num": 168243,
       "word": "阿福秒懂脑阔掂起疼是怎么回事",
       "onboard_time": 1766405061,
       "rank": 29,
@@ -2955,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59644,
+      "num": 144764,
+      "word": "骄阳似我抠图",
+      "onboard_time": 1766408482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56525,
       "num": 202305,
       "word": "业主称得知女教师坠楼新郎伤心哭泣",
@@ -3243,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35082,
-      "num": 193908,
-      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
-      "onboard_time": 1766407762,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35036,
       "num": 88630,
       "word": "iPhone设置演唱会模式",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1766336478,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30519,
+      "num": 145420,
+      "word": "方媛晒古装照",
+      "onboard_time": 1766408482,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 30278,
@@ -3459,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21642,
+      "num": 147519,
+      "word": "外交部回应美国随意扣押他国船只",
+      "onboard_time": 1766408902,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21395,
       "num": 88412,
       "word": "汪顺微博里的日出和日落",
@@ -3520,6 +3568,14 @@
       "word": "电量耗尽的小团子是啥样",
       "onboard_time": 1766337917,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16620,
+      "num": 1311627,
+      "word": "又一条穿山越海的高铁开通",
+      "onboard_time": 1766408843,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3587,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12658,
+      "num": 258600,
+      "word": "想到一个办法去见王鹤棣",
+      "onboard_time": 1766408780,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7947,
       "num": 162502,
       "word": "外国记者说看到外媒抹黑中国难受",
@@ -3612,6 +3676,9 @@
     },
     {
       "word": "#四大全球倡议#"
+    },
+    {
+      "word": "#中央军委举行晋升上将军衔仪式#"
     }
   ]
 }
