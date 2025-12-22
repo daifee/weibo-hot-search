@@ -1,0 +1,410 @@
+{
+  "runTime": 1766382493738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451590,
+        "num": 1072254,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420198,
+        "num": 420198,
+        "word": "星光大赏别虐待老人了",
+        "onboard_time": 1766380400,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 229277,
+        "word": "我国数字消费用户规模超9.5亿人",
+        "onboard_time": 1766323644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209658,
+        "num": 209658,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178352,
+        "num": 209460,
+        "word": "TF四代新音彩排",
+        "onboard_time": 1766381541,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 767740,
+        "num": 209236,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298849,
+        "num": 209013,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174591,
+        "num": 208571,
+        "word": "星光大赏数据",
+        "onboard_time": 1766378482,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154705,
+        "num": 208398,
+        "word": "烤鸡少年承认用肉宝王调味",
+        "onboard_time": 1766381181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 207978,
+        "word": "恋与制作人 p5",
+        "onboard_time": 1766380222,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 836955,
+        "num": 207814,
+        "word": "福原爱再婚对象正是出轨风波男主",
+        "onboard_time": 1766378603,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590078,
+        "num": 207579,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 522296,
+        "num": 207300,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343995,
+        "num": 207005,
+        "word": "闵塔鲨辟谣",
+        "onboard_time": 1766380700,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66598,
+        "num": 206695,
+        "word": "孟子义和她的显眼包保镖",
+        "onboard_time": 1766380102,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173076,
+        "num": 206332,
+        "word": "陈星旭像奶了两个孩子",
+        "onboard_time": 1766381301,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31147,
+        "num": 206095,
+        "word": "睡着的成毅软乎乎",
+        "onboard_time": 1766378363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33267,
+        "num": 205924,
+        "word": "欧洲邮轮失联中国女子亲友发声",
+        "onboard_time": 1766381841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43995,
+        "num": 205452,
+        "word": "连续七年第一广东为什么最能生",
+        "onboard_time": 1766381421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38123,
+        "num": 205134,
+        "word": "空中技巧国家队比赛服有多少黑科技",
+        "onboard_time": 1766380102,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 933563,
+        "num": 204888,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576421,
+        "num": 204698,
+        "word": "山城小栗旬官宣恋情",
+        "onboard_time": 1766378302,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326160,
+        "num": 204530,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306508,
+        "num": 204029,
+        "word": "丞磊星光大赏疑似被换座位",
+        "onboard_time": 1766375900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247600,
+        "num": 203942,
+        "word": "福原爱再婚丈夫",
+        "onboard_time": 1766378363,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203705,
+        "num": 203705,
+        "word": "金莎孙丞潇都有夫妻相了",
+        "onboard_time": 1766380522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 193975,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180477,
+        "num": 180477,
+        "word": "高市早苗应援帽是中国制造",
+        "onboard_time": 1766380641,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175213,
+        "num": 175213,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85116,
+        "num": 159605,
+        "word": "为什么熬夜的人更容易患癌",
+        "onboard_time": 1766376441,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153392,
+        "num": 153392,
+        "word": "什么是正食症",
+        "onboard_time": 1766369899,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148521,
+        "num": 148521,
+        "word": "男生应邀住女友家被控强奸获刑",
+        "onboard_time": 1766379981,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 136950,
+        "word": "国企的微信礼仪",
+        "onboard_time": 1766380760,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133592,
+        "num": 133592,
+        "word": "边牧幼犬托运被狐狸吃掉爪子遭弃养",
+        "onboard_time": 1766377341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71854,
+        "num": 131483,
+        "word": "中国人造太阳燃料取自海水",
+        "onboard_time": 1766382322,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130808,
+        "num": 130808,
+        "word": "胡兵薛佳凝粉红女郎后再同框",
+        "onboard_time": 1766381841,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108120,
+        "num": 125182,
+        "word": "许玮甯李靓蕾与好友过圣诞",
+        "onboard_time": 1766381720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44198,
+        "num": 123977,
+        "word": "闫妮中女的可塑性",
+        "onboard_time": 1766382022,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35508,
+        "num": 123671,
+        "word": "内地生看上香港考公金饭碗",
+        "onboard_time": 1766382201,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123626,
+        "num": 123626,
+        "word": "江宏杰方回应福原爱再婚怀孕",
+        "onboard_time": 1766375542,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114088,
+        "num": 114088,
+        "word": "丁禹兮获评三级演员职称",
+        "onboard_time": 1766378603,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "恋与制作人",
+        "onboard_time": 1766375542,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111670,
+        "num": 111670,
+        "word": "王霏霏子弹胸甲",
+        "onboard_time": 1766382080,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107187,
+        "num": 107187,
+        "word": "短剧拍了嫂子开门我是我哥",
+        "onboard_time": 1766372420,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99637,
+        "num": 105448,
+        "word": "陈靖可陈妍希 药味是与生俱来的",
+        "onboard_time": 1766380821,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104363,
+        "num": 104363,
+        "word": "厂二代被父亲骂到闭麦",
+        "onboard_time": 1766382322,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101285,
+        "num": 101285,
+        "word": "骄阳似我开播",
+        "onboard_time": 1766373020,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100194,
+        "num": 100194,
+        "word": "高超 这是一条只有哥哥的微博",
+        "onboard_time": 1766382381,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99926,
+        "num": 99926,
+        "word": "杨瀚森林葳赛后合影",
+        "onboard_time": 1766382381,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97110,
+        "num": 97110,
+        "word": "火箭vs国王",
+        "onboard_time": 1766381601,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为百年变局注入稳定性和确定性#"
+    }
+  }
+}
