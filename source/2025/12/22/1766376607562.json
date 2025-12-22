@@ -1,0 +1,410 @@
+{
+  "runTime": 1766376607562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 407279,
+        "num": 1065164,
+        "word": "骄阳似我开播",
+        "onboard_time": 1766373020,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288449,
+        "num": 288449,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23154,
+        "num": 284183,
+        "word": "我国数字消费用户规模超9.5亿人",
+        "onboard_time": 1766323644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521279,
+        "num": 283011,
+        "word": "短剧拍了嫂子开门我是我哥",
+        "onboard_time": 1766372420,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293406,
+        "num": 279125,
+        "word": "恋与制作人",
+        "onboard_time": 1766375542,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376722,
+        "num": 273054,
+        "word": "什么是正食症",
+        "onboard_time": 1766369899,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332536,
+        "num": 270090,
+        "word": "吓坏的李昀锐心疼的白鹿着急的丞磊",
+        "onboard_time": 1766375061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266972,
+        "num": 266972,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1766369178,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256853,
+        "num": 256853,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1766366299,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207430,
+        "num": 256337,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917974,
+        "num": 250580,
+        "word": "南博退休员工举报原院长盗窃走私文物",
+        "onboard_time": 1766374160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 862972,
+        "num": 248244,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 851926,
+        "num": 241088,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541257,
+        "num": 236457,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360575,
+        "num": 232818,
+        "word": "丞磊座位",
+        "onboard_time": 1766376261,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286529,
+        "num": 228199,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 227601,
+        "word": "女子恋爱中被要求攒够4万再结婚",
+        "onboard_time": 1766370260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224054,
+        "num": 224054,
+        "word": "丞磊星光大赏疑似被换座位",
+        "onboard_time": 1766375900,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25309,
+        "num": 224023,
+        "word": "波司登尔滨极地大秀冰封开场",
+        "onboard_time": 1766372840,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45086,
+        "num": 224003,
+        "word": "今年工作里的爽感瞬间",
+        "onboard_time": 1766374520,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1603009,
+        "num": 223965,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325988,
+        "num": 223946,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223923,
+        "num": 223923,
+        "word": "宁波妇儿医院儿胸心外科已处关闭状态",
+        "onboard_time": 1766375722,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198607,
+        "num": 198607,
+        "word": "福原爱 江宏杰",
+        "onboard_time": 1766369060,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183588,
+        "num": 183588,
+        "word": "周也王玉雯让陈星旭一起走",
+        "onboard_time": 1766369899,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175911,
+        "num": 175911,
+        "word": "江宏杰方回应福原爱再婚怀孕",
+        "onboard_time": 1766375542,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490251,
+        "num": 175351,
+        "word": "明年李昀锐给孟子义抱上去得了",
+        "onboard_time": 1766375061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146761,
+        "num": 174639,
+        "word": "中国女子在欧洲邮轮上人间蒸发",
+        "onboard_time": 1766364860,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121241,
+        "num": 173290,
+        "word": "杨瀚森观战林葳",
+        "onboard_time": 1766375301,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115503,
+        "num": 172083,
+        "word": "个税专项附加扣除将截止",
+        "onboard_time": 1766374701,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 171885,
+        "num": 171885,
+        "word": "网红刘晓艳接儿子放学被叫爷爷",
+        "onboard_time": 1766372599,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163180,
+        "num": 163180,
+        "word": "新狂蟒之灾定档",
+        "onboard_time": 1766375361,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150883,
+        "num": 150883,
+        "word": "龚俊王玉雯有点秘密全说出去了",
+        "onboard_time": 1766375542,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "食管被烫第一时间做这件事",
+        "onboard_time": 1766372962,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148927,
+        "num": 148927,
+        "word": "属于当代年轻人的送礼方式",
+        "onboard_time": 1766376201,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148316,
+        "num": 148316,
+        "word": "最适合我的学知识方式",
+        "onboard_time": 1766376441,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50483,
+        "num": 147710,
+        "word": "鸿蒙盛典导演说被鸿蒙速度触动了",
+        "onboard_time": 1766375601,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123540,
+        "num": 147653,
+        "word": "谭松韵侯明昊新剧上星央八",
+        "onboard_time": 1766376560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147648,
+        "num": 147648,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "福原爱说与丈夫原本不执着结婚",
+        "onboard_time": 1766369720,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142789,
+        "num": 142789,
+        "word": "用更少的钱过更体面的生活",
+        "onboard_time": 1766373859,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55530,
+        "num": 138117,
+        "word": "让AI成为你的情绪垃圾桶",
+        "onboard_time": 1766376560,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "金价",
+        "onboard_time": 1766370561,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136635,
+        "num": 136635,
+        "word": "曾舜晞西瓜香菜饺子螺蛳粉汤圆",
+        "onboard_time": 1766375601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133381,
+        "num": 133381,
+        "word": "那英是我错怪你了",
+        "onboard_time": 1766375960,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "成都涉黄私人影院已被关停",
+        "onboard_time": 1766371580,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "为什么熬夜的人更容易患癌",
+        "onboard_time": 1766376441,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108119,
+        "num": 108119,
+        "word": "星光大赏VIP之星",
+        "onboard_time": 1766334802,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107905,
+        "num": 107905,
+        "word": "徐志胜穿450元旧衣走红毯",
+        "onboard_time": 1766363361,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103655,
+        "num": 103655,
+        "word": "陈都灵花粉天堂",
+        "onboard_time": 1766374882,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起学习四大全球倡议核心要义#"
+    }
+  }
+}
