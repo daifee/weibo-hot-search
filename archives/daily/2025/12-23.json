@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766429670610,
+  "endTime": 1766431498943,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -211,8 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94931,
-      "num": 94931,
+      "raw_hot": 95754,
+      "num": 95754,
       "word": "原来微信长按好用一万倍",
       "onboard_time": 1766425755,
       "rank": 8,
@@ -529,6 +529,14 @@
       "onboard_time": 1766402721,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12030,
+      "num": 33536,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1766400021,
+      "rank": 47,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

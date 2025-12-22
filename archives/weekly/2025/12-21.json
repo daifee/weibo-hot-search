@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766429670610,
+  "endTime": 1766431498943,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -5507,20 +5507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95754,
+      "num": 95754,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95399,
       "num": 160068,
       "word": "她一生比别人多说好多句对不起",
       "onboard_time": 1766414362,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94931,
-      "num": 94931,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 94141,

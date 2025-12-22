@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766429670610,
+  "endTime": 1766431498943,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -55195,6 +55195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95754,
+      "num": 95754,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95692,
       "num": 157418,
       "word": "小狗以为鬼压床了",
@@ -55425,14 +55433,6 @@
       "onboard_time": 1765463721,
       "rank": 47,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 94931,
-      "num": 94931,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 94923,

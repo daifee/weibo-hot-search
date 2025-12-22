@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/23 00:36:25 ~ 2025/12/23 02:54:30
+本榜单时间：2025/12/23 00:36:25 ~ 2025/12/23 03:24:58
 </p>
 </blockquote>
 <p>
@@ -172,7 +172,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E9%95%BF%E6%8C%89%E5%A5%BD%E7%94%A8%E4%B8%80%E4%B8%87%E5%80%8D%23" target="weibo">
-原来微信长按好用一万倍（热度：94931）
+原来微信长按好用一万倍（热度：95754）
 </a>
 </li>
 
@@ -407,6 +407,12 @@ cp32（热度：31540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%BF%B9%23" target="weibo">
 奇迹（热度：17279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F%23" target="weibo">
+中央军委举行晋升上将军衔仪式（热度：12030）
 </a>
 </li>
 
