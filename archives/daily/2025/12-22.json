@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766376607562,
+  "endTime": 1766377679164,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -33,6 +33,14 @@
       "onboard_time": 1766326105,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1008612,
+      "num": 241088,
+      "word": "一哥曝杜克视频是剧本摆拍",
+      "onboard_time": 1766374639,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1007604,
@@ -73,14 +81,6 @@
       "onboard_time": 1766365281,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 851926,
-      "num": 241088,
-      "word": "一哥曝杜克视频是剧本摆拍",
-      "onboard_time": 1766374639,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 846663,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 521279,
-      "num": 283011,
+      "num": 338785,
       "word": "短剧拍了嫂子开门我是我哥",
       "onboard_time": 1766372420,
       "rank": 3,
@@ -137,6 +137,22 @@
       "onboard_time": 1766332643,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500212,
+      "num": 224054,
+      "word": "丞磊星光大赏疑似被换座位",
+      "onboard_time": 1766375900,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 498887,
+      "num": 1079821,
+      "word": "车厘子价格大跳水了",
+      "onboard_time": 1766375601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490251,
@@ -152,6 +168,14 @@
       "word": "央视曝光旧衣回收产业",
       "onboard_time": 1766330965,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434680,
+      "num": 223923,
+      "word": "宁波妇儿医院儿胸心外科已处关闭状态",
+      "onboard_time": 1766375722,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -196,14 +220,14 @@
     },
     {
       "raw_hot": 376722,
-      "num": 273054,
+      "num": 287793,
       "word": "什么是正食症",
       "onboard_time": 1766369899,
       "rank": 25,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 360575,
+      "raw_hot": 367882,
       "num": 232818,
       "word": "丞磊座位",
       "onboard_time": 1766376261,
@@ -235,6 +259,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303958,
+      "num": 303958,
+      "word": "这个撤回就能看出他有多绝望了",
+      "onboard_time": 1766375422,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 302940,
+      "num": 302940,
+      "word": "恋与制作人",
+      "onboard_time": 1766375542,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300620,
       "num": 226484,
       "word": "徐志胜穿450元旧衣走红毯",
@@ -251,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293406,
-      "num": 279125,
-      "word": "恋与制作人",
-      "onboard_time": 1766375542,
-      "rank": 4,
-      "category": "游戏"
+      "raw_hot": 289627,
+      "num": 289627,
+      "word": "孟子义顺手就把奖杯给李昀锐了",
+      "onboard_time": 1766371641,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 283373,
@@ -323,20 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224054,
-      "num": 224054,
-      "word": "丞磊星光大赏疑似被换座位",
-      "onboard_time": 1766375900,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223923,
-      "num": 223923,
-      "word": "宁波妇儿医院儿胸心外科已处关闭状态",
-      "onboard_time": 1766375722,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 225446,
+      "num": 225446,
+      "word": "小米17Ultra星空绿",
+      "onboard_time": 1766377461,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 223521,
@@ -347,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207430,
-      "num": 256337,
-      "word": "车厘子价格大跳水了",
-      "onboard_time": 1766375601,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 213426,
+      "num": 213426,
+      "word": "恋与制作人偷走你的心",
+      "onboard_time": 1766376860,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 205893,
@@ -387,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203302,
+      "num": 203302,
+      "word": "江宏杰方回应福原爱再婚怀孕",
+      "onboard_time": 1766375542,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202263,
       "num": 202263,
       "word": "支持个人信用重塑",
       "onboard_time": 1766365462,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 199685,
+      "num": 199685,
+      "word": "谭松韵侯明昊新剧上星央八",
+      "onboard_time": 1766376560,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 198806,
@@ -467,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175911,
-      "num": 175911,
-      "word": "江宏杰方回应福原爱再婚怀孕",
+      "raw_hot": 177571,
+      "num": 177571,
+      "word": "龚俊王玉雯有点秘密全说出去了",
       "onboard_time": 1766375542,
-      "rank": 25,
-      "category": "体育"
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 172387,
@@ -515,12 +563,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162214,
+      "num": 162214,
+      "word": "王安宇把胡先煦当感叹号用",
+      "onboard_time": 1766376622,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159896,
       "num": 159896,
       "word": "嘟嘟一直在帮忙给小鞠挡毯子",
       "onboard_time": 1766366121,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153964,
+      "num": 221940,
+      "word": "直播间便宜货不敢再买了",
+      "onboard_time": 1766376741,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152840,
@@ -531,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150883,
-      "num": 150883,
-      "word": "龚俊王玉雯有点秘密全说出去了",
-      "onboard_time": 1766375542,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 151451,
+      "num": 151451,
+      "word": "最适合我的学知识方式",
+      "onboard_time": 1766376441,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 150385,
@@ -560,22 +624,6 @@
       "word": "属于当代年轻人的送礼方式",
       "onboard_time": 1766376201,
       "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 148316,
-      "num": 148316,
-      "word": "最适合我的学知识方式",
-      "onboard_time": 1766376441,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 147648,
-      "num": 147648,
-      "word": "这个撤回就能看出他有多绝望了",
-      "onboard_time": 1766375422,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -617,6 +665,14 @@
       "onboard_time": 1766370561,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137387,
+      "num": 137387,
+      "word": "刘宇宁檀健次宋祖儿跟唱回春丹",
+      "onboard_time": 1766377041,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 136635,
@@ -667,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127605,
+      "num": 222592,
+      "word": "边牧幼犬托运被狐狸吃掉爪子遭弃养",
+      "onboard_time": 1766377341,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127435,
       "num": 127435,
       "word": "鞠婧祎领奖",
@@ -675,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123540,
-      "num": 147653,
-      "word": "谭松韵侯明昊新剧上星央八",
-      "onboard_time": 1766376560,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 124493,
+      "num": 124493,
+      "word": "龚俊一个盛典拿4个奖",
+      "onboard_time": 1766376981,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121241,
@@ -700,11 +764,19 @@
     },
     {
       "raw_hot": 115503,
-      "num": 172083,
+      "num": 221939,
       "word": "个税专项附加扣除将截止",
       "onboard_time": 1766374701,
       "rank": 29,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112778,
+      "num": 112778,
+      "word": "爱你的人会一片片捡起你",
+      "onboard_time": 1766377401,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110346,
@@ -724,7 +796,7 @@
     },
     {
       "raw_hot": 110063,
-      "num": 110063,
+      "num": 221940,
       "word": "成都涉黄私人影院已被关停",
       "onboard_time": 1766371580,
       "rank": 45,
@@ -923,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81461,
+      "num": 221939,
+      "word": "让AI成为你的情绪垃圾桶",
+      "onboard_time": 1766376560,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80457,
       "num": 189572,
       "word": "张凌赫陈都灵同框",
@@ -1115,14 +1195,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 55530,
-      "num": 138117,
-      "word": "让AI成为你的情绪垃圾桶",
-      "onboard_time": 1766376560,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55313,
       "num": 188812,
       "word": "成毅直播",
@@ -1147,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51925,
+      "num": 143858,
+      "word": "肖战的电影路竟给自己上难度了",
+      "onboard_time": 1766377642,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51599,
       "num": 49374,
       "word": "现在就出发",
@@ -1156,7 +1236,7 @@
     },
     {
       "raw_hot": 50483,
-      "num": 147710,
+      "num": 163776,
       "word": "鸿蒙盛典导演说被鸿蒙速度触动了",
       "onboard_time": 1766375601,
       "rank": 36,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1766350994,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48107,
+      "num": 224003,
+      "word": "今年工作里的爽感瞬间",
+      "onboard_time": 1766374520,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 47652,
@@ -1201,14 +1289,6 @@
       "onboard_time": 1766359758,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 45086,
-      "num": 224003,
-      "word": "今年工作里的爽感瞬间",
-      "onboard_time": 1766374520,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 43230,
@@ -1340,7 +1420,7 @@
     },
     {
       "raw_hot": 23154,
-      "num": 284183,
+      "num": 339060,
       "word": "我国数字消费用户规模超9.5亿人",
       "onboard_time": 1766323644,
       "rank": 2,
@@ -1449,6 +1529,22 @@
       "onboard_time": 1766348774,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13181,
+      "num": 137861,
+      "word": "活体宠物与普通快递混运",
+      "onboard_time": 1766377642,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 7947,
+      "num": 162502,
+      "word": "外国记者说看到外媒抹黑中国难受",
+      "onboard_time": 1766377581,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
