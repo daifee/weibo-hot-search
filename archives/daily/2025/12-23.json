@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766436318096,
+  "endTime": 1766438783516,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -539,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16297,
-      "num": 18741,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 12895,
-      "num": 18719,
+      "raw_hot": 16850,
+      "num": 18810,
       "word": "地球超新鲜",
       "onboard_time": 1766398221,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16297,
+      "num": 18813,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 12030,
@@ -561,6 +561,14 @@
       "onboard_time": 1766400021,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11128,
+      "num": 18778,
+      "word": "刘宇宁每分每秒都在散发魅力",
+      "onboard_time": 1766435173,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
