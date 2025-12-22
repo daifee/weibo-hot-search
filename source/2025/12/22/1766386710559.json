@@ -1,0 +1,410 @@
+{
+  "runTime": 1766386710559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560215,
+        "num": 1089634,
+        "word": "烤鸡少年承认用肉宝王调味",
+        "onboard_time": 1766381181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303220,
+        "num": 303220,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39563,
+        "num": 258396,
+        "word": "支持个人信用重塑",
+        "onboard_time": 1766365462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403133,
+        "num": 254187,
+        "word": "李昀锐笑着哄孟子义",
+        "onboard_time": 1766385381,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243236,
+        "num": 243236,
+        "word": "25岁的叔33岁的侄子",
+        "onboard_time": 1766383520,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469925,
+        "num": 243225,
+        "word": "普通女生化妆2小时的变化",
+        "onboard_time": 1766383041,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 446045,
+        "num": 242699,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295716,
+        "num": 242588,
+        "word": "陈星旭像奶了两个孩子",
+        "onboard_time": 1766381301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241663,
+        "num": 241663,
+        "word": "优衣库店长下达偷拍顾客指标",
+        "onboard_time": 1766383220,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188491,
+        "num": 188491,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540367,
+        "num": 187968,
+        "word": "福原爱再婚对象正是出轨风波男主",
+        "onboard_time": 1766378603,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646908,
+        "num": 187707,
+        "word": "星光大赏别虐待老人了",
+        "onboard_time": 1766380400,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186378,
+        "num": 186378,
+        "word": "华为发布会",
+        "onboard_time": 1766386040,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383583,
+        "num": 186168,
+        "word": "王影璐位置",
+        "onboard_time": 1766385020,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300664,
+        "num": 185858,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299779,
+        "num": 185642,
+        "word": "男生应邀住女友家被控强奸获刑",
+        "onboard_time": 1766379981,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264921,
+        "num": 185366,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40272,
+        "num": 184925,
+        "word": "男子楼顶种树碰下树桩砸死17岁少年",
+        "onboard_time": 1766385980,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86277,
+        "num": 184588,
+        "word": "王宝强和段奕宏眼里没光了",
+        "onboard_time": 1766385740,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37120,
+        "num": 184461,
+        "word": "16岁烤鸡少年两年来1天仅睡4小时",
+        "onboard_time": 1766385920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247441,
+        "num": 183917,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 628906,
+        "num": 183885,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375679,
+        "num": 183496,
+        "word": "山城小栗旬官宣恋情",
+        "onboard_time": 1766378302,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236483,
+        "num": 183096,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229742,
+        "num": 182960,
+        "word": "闵塔鲨辟谣",
+        "onboard_time": 1766380700,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202790,
+        "num": 182587,
+        "word": "胡先煦天天发消息夸酷滕",
+        "onboard_time": 1766386101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200990,
+        "num": 182081,
+        "word": "丁程鑫看到陈妍希发言切陈鑫海的反应",
+        "onboard_time": 1766385140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182058,
+        "num": 182058,
+        "word": "金莎孙丞潇都有夫妻相了",
+        "onboard_time": 1766380522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173311,
+        "num": 173311,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77015,
+        "num": 162752,
+        "word": "中国游客锐减日本住宿价格暴跌",
+        "onboard_time": 1766382500,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249716,
+        "num": 160997,
+        "word": "贝克汉姆大儿子拉黑全家",
+        "onboard_time": 1766386640,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158317,
+        "num": 158317,
+        "word": "施罗德绝杀火箭",
+        "onboard_time": 1766384901,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158231,
+        "num": 158231,
+        "word": "唐诡4不能吃的东西又增加了",
+        "onboard_time": 1766385800,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139838,
+        "num": 139838,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131855,
+        "num": 131855,
+        "word": "等我小了我也要黄景瑜",
+        "onboard_time": 1766385980,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117544,
+        "num": 117544,
+        "word": "真的建议大家不要放自己的鸽子",
+        "onboard_time": 1766386399,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116794,
+        "num": 116794,
+        "word": "国企的微信礼仪",
+        "onboard_time": 1766380760,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 116053,
+        "word": "08年起南博多名职工就曾数次联名举报",
+        "onboard_time": 1766385740,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115538,
+        "num": 115538,
+        "word": "日网民拍日本人吸烟视频栽赃华人",
+        "onboard_time": 1766386399,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87149,
+        "num": 114823,
+        "word": "丞磊星光大赏疑似被换座位",
+        "onboard_time": 1766375900,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114754,
+        "num": 114754,
+        "word": "颖儿今年在央视第三部剧了",
+        "onboard_time": 1766383340,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115350,
+        "num": 112878,
+        "word": "男子碾压妻子致死还有两个多月出狱",
+        "onboard_time": 1766382921,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57693,
+        "num": 111451,
+        "word": "暮暮朝朝是最好的爱情教科书",
+        "onboard_time": 1766384540,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110734,
+        "num": 110734,
+        "word": "刘轩丞直播",
+        "onboard_time": 1766386399,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109683,
+        "num": 109683,
+        "word": "福原爱新丈夫是出轨风波男主",
+        "onboard_time": 1766385440,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108719,
+        "num": 108719,
+        "word": "婧妹为虞书欣双轨打call",
+        "onboard_time": 1766384901,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96980,
+        "num": 96980,
+        "word": "陈靖可陈妍希 药味是与生俱来的",
+        "onboard_time": 1766380821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95305,
+        "num": 95305,
+        "word": "许玮甯李靓蕾与好友过圣诞",
+        "onboard_time": 1766381720,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93063,
+        "num": 93063,
+        "word": "猫 谁给饭吃我还是很清楚的",
+        "onboard_time": 1766386160,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91205,
+        "num": 91205,
+        "word": "iPhoneFold视觉无折痕",
+        "onboard_time": 1766386581,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#为百年变局注入稳定性和确定性#"
+    }
+  }
+}

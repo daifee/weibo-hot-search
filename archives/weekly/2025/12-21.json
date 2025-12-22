@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766385913111,
+  "endTime": 1766386710559,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -427,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 646908,
+      "num": 794780,
+      "word": "星光大赏别虐待老人了",
+      "onboard_time": 1766380400,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641560,
       "num": 513958,
       "word": "鞠婧祎珍珠名伶",
@@ -471,14 +479,6 @@
       "num": 230191,
       "word": "宋祖儿发现站昀孟中间的反应",
       "onboard_time": 1766365881,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 596752,
-      "num": 794780,
-      "word": "星光大赏别虐待老人了",
-      "onboard_time": 1766380400,
       "rank": 3,
       "category": "综艺"
     },
@@ -537,6 +537,14 @@
       "onboard_time": 1766323764,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560215,
+      "num": 1089634,
+      "word": "烤鸡少年承认用肉宝王调味",
+      "onboard_time": 1766381181,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554146,
@@ -617,14 +625,6 @@
       "onboard_time": 1766289440,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522768,
-      "num": 1083642,
-      "word": "烤鸡少年承认用肉宝王调味",
-      "onboard_time": 1766381181,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 522230,
@@ -747,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 469925,
+      "num": 243225,
+      "word": "普通女生化妆2小时的变化",
+      "onboard_time": 1766383041,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 467233,
       "num": 371325,
       "word": "陈妍希周柯宇发文告别狙击蝴蝶",
@@ -761,14 +769,6 @@
       "onboard_time": 1766273537,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463316,
-      "num": 236586,
-      "word": "普通女生化妆2小时的变化",
-      "onboard_time": 1766383041,
-      "rank": 6,
-      "category": "美妆"
     },
     {
       "raw_hot": 458647,
@@ -939,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403133,
+      "num": 287683,
+      "word": "李昀锐笑着哄孟子义",
+      "onboard_time": 1766385381,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401123,
       "num": 401123,
       "word": "考研408",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1766289561,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 383583,
+      "num": 186168,
+      "word": "王影璐位置",
+      "onboard_time": 1766385020,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 378296,
@@ -1187,14 +1203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 327672,
-      "num": 287683,
-      "word": "李昀锐笑着哄孟子义",
-      "onboard_time": 1766385381,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325988,
       "num": 223946,
       "word": "黄金",
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 303128,
-      "num": 234563,
+      "num": 242588,
       "word": "陈星旭像奶了两个孩子",
       "onboard_time": 1766381301,
       "rank": 44,
@@ -1563,12 +1571,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249716,
+      "num": 160997,
+      "word": "贝克汉姆大儿子拉黑全家",
+      "onboard_time": 1766386640,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249009,
       "num": 249009,
       "word": "孟子义李昀锐下台也牵着手",
       "onboard_time": 1766308823,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247441,
+      "num": 183917,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1766385020,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246863,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1766282298,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241663,
+      "num": 241663,
+      "word": "优衣库店长下达偷拍顾客指标",
+      "onboard_time": 1766383220,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238330,
@@ -1795,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208667,
-      "num": 208667,
-      "word": "优衣库店长下达偷拍顾客指标",
-      "onboard_time": 1766383220,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208020,
       "num": 646666,
       "word": "章莹颖去世8年母亲每日以泪洗面",
@@ -1912,6 +1936,14 @@
       "word": "易烊千玺说和鸿蒙见证了彼此成长",
       "onboard_time": 1766243543,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202790,
+      "num": 182587,
+      "word": "胡先煦天天发消息夸酷滕",
+      "onboard_time": 1766386101,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -2219,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186378,
+      "num": 186378,
+      "word": "华为发布会",
+      "onboard_time": 1766386040,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185572,
       "num": 185572,
       "word": "树那条虫子已经不重要了",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1766304502,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179572,
-      "num": 179572,
-      "word": "王影璐位置",
-      "onboard_time": 1766385020,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 178810,
@@ -2483,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163413,
-      "num": 163413,
-      "word": "微博之夜年度推荐",
-      "onboard_time": 1766385020,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163180,
       "num": 163180,
       "word": "新狂蟒之灾定档",
@@ -2585,6 +2609,22 @@
       "onboard_time": 1766319143,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158317,
+      "num": 185628,
+      "word": "施罗德绝杀火箭",
+      "onboard_time": 1766384901,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158231,
+      "num": 158231,
+      "word": "唐诡4不能吃的东西又增加了",
+      "onboard_time": 1766385800,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 157987,
@@ -2867,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144898,
-      "num": 185628,
-      "word": "施罗德绝杀火箭",
-      "onboard_time": 1766384901,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144179,
       "num": 144179,
       "word": "陈妍希台湾腔告别视频",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1766306723,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139838,
+      "num": 139838,
+      "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+      "onboard_time": 1766386399,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139832,
@@ -3153,6 +3193,14 @@
       "onboard_time": 1766375960,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131855,
+      "num": 131855,
+      "word": "等我小了我也要黄景瑜",
+      "onboard_time": 1766385980,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 131578,
@@ -3443,6 +3491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117544,
+      "num": 117544,
+      "word": "真的建议大家不要放自己的鸽子",
+      "onboard_time": 1766386399,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117199,
       "num": 117199,
       "word": "逍遥",
@@ -3467,12 +3523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116317,
-      "num": 116317,
-      "word": "唐诡4不能吃的东西又增加了",
-      "onboard_time": 1766385800,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 115538,
+      "num": 115538,
+      "word": "日网民拍日本人吸烟视频栽赃华人",
+      "onboard_time": 1766386399,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115503,
@@ -3489,6 +3545,14 @@
       "onboard_time": 1766306063,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115350,
+      "num": 119341,
+      "word": "男子碾压妻子致死还有两个多月出狱",
+      "onboard_time": 1766382921,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115207,
@@ -3539,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110734,
+      "num": 110734,
+      "word": "刘轩丞直播",
+      "onboard_time": 1766386399,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110696,
       "num": 110696,
       "word": "王者荣耀挑战者杯",
@@ -3577,6 +3649,14 @@
       "onboard_time": 1766369780,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109683,
+      "num": 109683,
+      "word": "福原爱新丈夫是出轨风波男主",
+      "onboard_time": 1766385440,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109468,
@@ -3649,14 +3729,6 @@
       "onboard_time": 1766298802,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107499,
-      "num": 119341,
-      "word": "男子碾压妻子致死还有两个多月出狱",
-      "onboard_time": 1766382921,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107496,
@@ -3987,6 +4059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93063,
+      "num": 93063,
+      "word": "猫 谁给饭吃我还是很清楚的",
+      "onboard_time": 1766386160,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92693,
       "num": 92693,
       "word": "丁禹兮爆灯第一",
@@ -4001,6 +4081,14 @@
       "onboard_time": 1766359879,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91205,
+      "num": 91205,
+      "word": "iPhoneFold视觉无折痕",
+      "onboard_time": 1766386581,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 91086,
@@ -4051,14 +4139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89216,
-      "num": 89216,
-      "word": "福原爱新丈夫是出轨风波男主",
-      "onboard_time": 1766385440,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89209,
       "num": 268375,
       "word": "周润发请近百名TVB旧同事聚餐",
@@ -4089,6 +4169,14 @@
       "onboard_time": 1766361982,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86277,
+      "num": 184588,
+      "word": "王宝强和段奕宏眼里没光了",
+      "onboard_time": 1766385740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 85368,
@@ -4204,7 +4292,7 @@
     },
     {
       "raw_hot": 80913,
-      "num": 119030,
+      "num": 162752,
       "word": "中国游客锐减日本住宿价格暴跌",
       "onboard_time": 1766382500,
       "rank": 29,
@@ -4531,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64010,
+      "num": 116053,
+      "word": "08年起南博多名职工就曾数次联名举报",
+      "onboard_time": 1766385740,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63964,
       "num": 228387,
       "word": "刘宇宁 死腿快跑",
@@ -4624,14 +4720,6 @@
       "word": "您的育儿补贴已到账",
       "onboard_time": 1766292920,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61078,
-      "num": 96427,
-      "word": "08年起南博多名职工就曾数次联名举报",
-      "onboard_time": 1766385740,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5003,20 +5091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40272,
+      "num": 184925,
+      "word": "男子楼顶种树碰下树桩砸死17岁少年",
+      "onboard_time": 1766385980,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38123,
       "num": 205134,
       "word": "空中技巧国家队比赛服有多少黑科技",
       "onboard_time": 1766380102,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38090,
-      "num": 101223,
-      "word": "王宝强和段奕宏眼里没光了",
-      "onboard_time": 1766385740,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 37979,
@@ -5040,6 +5128,14 @@
       "word": "冬至是春节的预告片",
       "onboard_time": 1766324604,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37120,
+      "num": 184461,
+      "word": "16岁烤鸡少年两年来1天仅睡4小时",
+      "onboard_time": 1766385920,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
