@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766410856907,
+  "endTime": 1766411605086,
   "band_list": [
     {
       "raw_hot": 3284925,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2624089,
+      "raw_hot": 2830037,
       "num": 1310374,
       "word": "阿信摔下舞台",
       "onboard_time": 1766407943,
@@ -39,6 +39,14 @@
       "num": 324852,
       "word": "海底捞小便事件家长赔偿220万元",
       "onboard_time": 1766395043,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1724671,
+      "num": 1724671,
+      "word": "明年起发淫秽信息违法",
+      "onboard_time": 1766405900,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -65,14 +73,6 @@
       "onboard_time": 1766362222,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1341731,
-      "num": 1341731,
-      "word": "明年起发淫秽信息违法",
-      "onboard_time": 1766405900,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1286234,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 806968,
+      "num": 806968,
+      "word": "一份致癌的精子生下200个孩子",
+      "onboard_time": 1766408422,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 787620,
       "num": 1126019,
       "word": "双轨大结局",
@@ -243,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 669627,
-      "num": 669627,
-      "word": "一份致癌的精子生下200个孩子",
-      "onboard_time": 1766408422,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 661269,
       "num": 204698,
       "word": "山城小栗旬官宣恋情",
@@ -272,6 +272,14 @@
       "word": "车厘子价格大跳水了",
       "onboard_time": 1766375601,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615608,
+      "num": 226494,
+      "word": "宁波妇儿医院现状",
+      "onboard_time": 1766409982,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 392062,
+      "num": 300538,
+      "word": "陈都灵鼓起勇气追星成功",
+      "onboard_time": 1766407521,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389863,
       "num": 389863,
       "word": "微博之夜",
@@ -545,6 +561,14 @@
       "onboard_time": 1766369899,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 372439,
+      "num": 225161,
+      "word": "阿信方报平安",
+      "onboard_time": 1766410822,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 367882,
@@ -617,14 +641,6 @@
       "onboard_time": 1766403861,
       "rank": 9,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 334894,
-      "num": 300538,
-      "word": "陈都灵鼓起勇气追星成功",
-      "onboard_time": 1766407521,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 332536,
@@ -915,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232019,
-      "num": 139586,
-      "word": "宁波妇儿医院现状",
-      "onboard_time": 1766409982,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230673,
       "num": 185548,
       "word": "李昀锐连说两遍慢点儿",
@@ -937,6 +945,14 @@
       "onboard_time": 1766377461,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224738,
+      "num": 253496,
+      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+      "onboard_time": 1766407762,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223521,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1766396541,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 208245,
+      "num": 208245,
+      "word": "攒了两年的钱在这一刻全花掉了",
+      "onboard_time": 1766407582,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 207771,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1766392701,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192241,
+      "num": 180583,
+      "word": "骄阳似我抠图",
+      "onboard_time": 1766408482,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191640,
@@ -1315,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175760,
-      "num": 165536,
-      "word": "骄阳似我抠图",
-      "onboard_time": 1766408482,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175721,
       "num": 175721,
       "word": "谭松韵年底忙成啥了",
@@ -1387,20 +1411,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169190,
+      "num": 169190,
+      "word": "老舅",
+      "onboard_time": 1766407401,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "曝左一女主被换",
       "onboard_time": 1766388920,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168185,
-      "num": 168185,
-      "word": "攒了两年的钱在这一刻全花掉了",
-      "onboard_time": 1766407582,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 168111,
@@ -1451,14 +1475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163012,
-      "num": 253496,
-      "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
-      "onboard_time": 1766407762,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162823,
       "num": 162823,
       "word": "内娱又要有好剧本了",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1766376622,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161888,
+      "num": 161888,
+      "word": "女孩要水后炫耀被一旁女孩打翻",
+      "onboard_time": 1766411362,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161352,
@@ -1659,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146506,
+      "num": 146506,
+      "word": "鞠婧祎 我的矜贵大小姐",
+      "onboard_time": 1766410283,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146237,
       "num": 189069,
       "word": "丁禹兮内场",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1766402300,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142986,
-      "num": 142986,
-      "word": "老舅",
-      "onboard_time": 1766407401,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 142789,
@@ -1803,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136404,
+      "num": 162329,
+      "word": "法院认为海底捞小便视频有强烈侮辱性",
+      "onboard_time": 1766409382,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135765,
       "num": 135765,
       "word": "读研3年vs工作3年",
@@ -1907,6 +1939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129680,
+      "num": 129680,
+      "word": "费振翔导演安利肖战主演电影非常好看",
+      "onboard_time": 1766410402,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129596,
       "num": 129596,
       "word": "孟子义觉得比痛先来的是尴尬",
@@ -1928,6 +1968,14 @@
       "word": "一次性信用修复个人无需申请",
       "onboard_time": 1766365581,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127608,
+      "num": 128465,
+      "word": "QQ群主放任成员传播色情也获刑",
+      "onboard_time": 1766411362,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1961,6 +2009,14 @@
       "onboard_time": 1766392641,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "张曼玉 我担都在追的星",
+      "onboard_time": 1766410042,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 126404,
@@ -2035,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121527,
-      "num": 121527,
-      "word": "鞠婧祎 我的矜贵大小姐",
-      "onboard_time": 1766410283,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121241,
       "num": 173290,
       "word": "杨瀚森观战林葳",
@@ -2059,20 +2107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120179,
-      "num": 162329,
-      "word": "法院认为海底捞小便视频有强烈侮辱性",
-      "onboard_time": 1766409382,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119040,
       "num": 119040,
       "word": "王安宇瞳孔地震",
       "onboard_time": 1766361680,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118377,
+      "num": 112319,
+      "word": "王霏霏38岁状态",
+      "onboard_time": 1766410522,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 117864,
@@ -2131,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116690,
-      "num": 116690,
-      "word": "张曼玉 我担都在追的星",
-      "onboard_time": 1766410042,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115503,
       "num": 221939,
       "word": "个税专项附加扣除将截止",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1766401281,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114482,
+      "num": 114482,
+      "word": "cp32",
+      "onboard_time": 1766411362,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 112778,
@@ -2355,14 +2403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106589,
-      "num": 106589,
-      "word": "费振翔导演安利肖战主演电影非常好看",
-      "onboard_time": 1766410402,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106244,
       "num": 116937,
       "word": "终于有人吐槽巴厘岛旅游了",
@@ -2499,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100958,
-      "num": 100958,
-      "word": "王霏霏38岁状态",
-      "onboard_time": 1766410522,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100542,
       "num": 123087,
       "word": "陈靖可陈妍希 药味是与生俱来的",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1766333423,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92406,
+      "num": 92406,
+      "word": "敖瑞鹏 老来得红",
+      "onboard_time": 1766411544,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 91992,
@@ -3075,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54952,
+      "num": 971459,
+      "word": "手把手教你个税专项附加扣除",
+      "onboard_time": 1766409262,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53006,
       "num": 86261,
       "word": "杨紫冰雪女王造型",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1766377642,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51663,
+      "num": 122082,
+      "word": "被虐死女孩生母称自己也该被判刑",
+      "onboard_time": 1766410283,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51599,
@@ -3275,14 +3331,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 39545,
-      "num": 971459,
-      "word": "手把手教你个税专项附加扣除",
-      "onboard_time": 1766409262,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38547,
       "num": 173004,
       "word": "鸿蒙5和鸿蒙6终端设备数超3200万",
@@ -3417,14 +3465,6 @@
       "onboard_time": 1766345833,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32402,
-      "num": 122082,
-      "word": "被虐死女孩生母称自己也该被判刑",
-      "onboard_time": 1766410283,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31805,
@@ -3697,6 +3737,14 @@
       "onboard_time": 1766356035,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15443,
+      "num": 146750,
+      "word": "发小劫杀男子妻儿手撕孩子出生证明",
+      "onboard_time": 1766411422,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15401,

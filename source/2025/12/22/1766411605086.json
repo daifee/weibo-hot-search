@@ -1,0 +1,410 @@
+{
+  "runTime": 1766411605086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724671,
+        "num": 1724671,
+        "word": "明年起发淫秽信息违法",
+        "onboard_time": 1766405900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1342739,
+        "num": 1342739,
+        "word": "大同地震",
+        "onboard_time": 1766407341,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54952,
+        "num": 830720,
+        "word": "手把手教你个税专项附加扣除",
+        "onboard_time": 1766409262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2830037,
+        "num": 820031,
+        "word": "阿信摔下舞台",
+        "onboard_time": 1766407943,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 806968,
+        "num": 806968,
+        "word": "一份致癌的精子生下200个孩子",
+        "onboard_time": 1766408422,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 779116,
+        "num": 779116,
+        "word": "骄阳似我 男二",
+        "onboard_time": 1766400981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662010,
+        "num": 662010,
+        "word": "北京震感",
+        "onboard_time": 1766407222,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 478237,
+        "num": 478237,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324693,
+        "num": 324693,
+        "word": "石家庄震感",
+        "onboard_time": 1766407462,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 227317,
+        "num": 227317,
+        "word": "纯饮食减重50斤",
+        "onboard_time": 1766403861,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 923169,
+        "num": 227088,
+        "word": "王影璐 没抢座位",
+        "onboard_time": 1766405541,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615608,
+        "num": 226494,
+        "word": "宁波妇儿医院现状",
+        "onboard_time": 1766409982,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439650,
+        "num": 225963,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392062,
+        "num": 225466,
+        "word": "陈都灵鼓起勇气追星成功",
+        "onboard_time": 1766407521,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372439,
+        "num": 225161,
+        "word": "阿信方报平安",
+        "onboard_time": 1766410822,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224738,
+        "num": 224738,
+        "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+        "onboard_time": 1766407762,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208245,
+        "num": 208245,
+        "word": "攒了两年的钱在这一刻全花掉了",
+        "onboard_time": 1766407582,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26504,
+        "num": 198565,
+        "word": "想到一个办法去见王鹤棣",
+        "onboard_time": 1766408780,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105720,
+        "num": 190674,
+        "word": "魏建军赌上姓氏造车后悔了吗",
+        "onboard_time": 1766408780,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189329,
+        "num": 189329,
+        "word": "韩国人也用液体勺",
+        "onboard_time": 1766404760,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 481031,
+        "num": 188334,
+        "word": "曝杨洋和顶流95花谈过恋爱",
+        "onboard_time": 1766401520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192241,
+        "num": 180583,
+        "word": "骄阳似我抠图",
+        "onboard_time": 1766408482,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190762,
+        "num": 176790,
+        "word": "微博之夜",
+        "onboard_time": 1766406321,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169190,
+        "num": 169190,
+        "word": "老舅",
+        "onboard_time": 1766407401,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 163944,
+        "word": "易烊千玺把影帝奖杯放在公司展柜",
+        "onboard_time": 1766401581,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161888,
+        "num": 161888,
+        "word": "女孩要水后炫耀被一旁女孩打翻",
+        "onboard_time": 1766411362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157184,
+        "num": 157184,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152707,
+        "num": 152707,
+        "word": "斩杀线",
+        "onboard_time": 1766407823,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118169,
+        "num": 147067,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1766400021,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15443,
+        "num": 146750,
+        "word": "发小劫杀男子妻儿手撕孩子出生证明",
+        "onboard_time": 1766411422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146506,
+        "num": 146506,
+        "word": "鞠婧祎 我的矜贵大小姐",
+        "onboard_time": 1766410283,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141330,
+        "num": 141330,
+        "word": "内娱又要有好剧本了",
+        "onboard_time": 1766407943,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 136404,
+        "word": "法院认为海底捞小便视频有强烈侮辱性",
+        "onboard_time": 1766409382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130635,
+        "num": 130635,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129680,
+        "num": 129680,
+        "word": "费振翔导演安利肖战主演电影非常好看",
+        "onboard_time": 1766410402,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "你可以考央丑了",
+        "onboard_time": 1766404401,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127608,
+        "num": 128465,
+        "word": "QQ群主放任成员传播色情也获刑",
+        "onboard_time": 1766411362,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128323,
+        "num": 128323,
+        "word": "骄阳似我 自己选滤镜",
+        "onboard_time": 1766407102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126552,
+        "num": 126552,
+        "word": "张曼玉 我担都在追的星",
+        "onboard_time": 1766410042,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "cp32",
+        "onboard_time": 1766411362,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 113762,
+        "word": "骄阳似我热度",
+        "onboard_time": 1766404342,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51663,
+        "num": 112661,
+        "word": "被虐死女孩生母称自己也该被判刑",
+        "onboard_time": 1766410283,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118377,
+        "num": 112319,
+        "word": "王霏霏38岁状态",
+        "onboard_time": 1766410522,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 111900,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109984,
+        "num": 109984,
+        "word": "奇迹",
+        "onboard_time": 1766402721,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109686,
+        "num": 109686,
+        "word": "果然娶到心爱的女孩就像打了胜仗",
+        "onboard_time": 1766405841,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97430,
+        "num": 97430,
+        "word": "网红面馆被立案调查多位明星曾打卡",
+        "onboard_time": 1766400861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95809,
+        "num": 95809,
+        "word": "13省归还挪用养老基金130.83亿元",
+        "onboard_time": 1766406142,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95109,
+        "num": 95109,
+        "word": "赵今麦看个监视器美成这样了",
+        "onboard_time": 1766409683,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92406,
+        "num": 92406,
+        "word": "敖瑞鹏 老来得红",
+        "onboard_time": 1766411544,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
