@@ -1,0 +1,410 @@
+{
+  "runTime": 1766410856907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1813078,
+        "num": 1813078,
+        "word": "大同地震",
+        "onboard_time": 1766407341,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1341731,
+        "num": 1341731,
+        "word": "明年起发淫秽信息违法",
+        "onboard_time": 1766405900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39545,
+        "num": 971459,
+        "word": "手把手教你个税专项附加扣除",
+        "onboard_time": 1766409262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2624089,
+        "num": 918459,
+        "word": "阿信摔下舞台",
+        "onboard_time": 1766407943,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 850255,
+        "num": 850255,
+        "word": "北京震感",
+        "onboard_time": 1766407222,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 772498,
+        "num": 772498,
+        "word": "骄阳似我 男二",
+        "onboard_time": 1766400981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669627,
+        "num": 669627,
+        "word": "一份致癌的精子生下200个孩子",
+        "onboard_time": 1766408422,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 457021,
+        "num": 457021,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295097,
+        "num": 295097,
+        "word": "明年起向好友发淫秽信息违法",
+        "onboard_time": 1766402962,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227336,
+        "num": 227336,
+        "word": "纯饮食减重50斤",
+        "onboard_time": 1766403861,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 966974,
+        "num": 222477,
+        "word": "王影璐 没抢座位",
+        "onboard_time": 1766405541,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381765,
+        "num": 220156,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334894,
+        "num": 215177,
+        "word": "陈都灵鼓起勇气追星成功",
+        "onboard_time": 1766407521,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287355,
+        "num": 209658,
+        "word": "石家庄震感",
+        "onboard_time": 1766407462,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 204234,
+        "num": 204234,
+        "word": "韩国人也用液体勺",
+        "onboard_time": 1766404760,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199789,
+        "num": 199789,
+        "word": "微博之夜",
+        "onboard_time": 1766406321,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169471,
+        "num": 169471,
+        "word": "斩杀线",
+        "onboard_time": 1766407823,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33861,
+        "num": 168673,
+        "word": "想到一个办法去见王鹤棣",
+        "onboard_time": 1766408780,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96698,
+        "num": 168352,
+        "word": "魏建军赌上姓氏造车后悔了吗",
+        "onboard_time": 1766408780,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168185,
+        "num": 168185,
+        "word": "攒了两年的钱在这一刻全花掉了",
+        "onboard_time": 1766407582,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469672,
+        "num": 166375,
+        "word": "曝杨洋和顶流95花谈过恋爱",
+        "onboard_time": 1766401520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175760,
+        "num": 165536,
+        "word": "骄阳似我抠图",
+        "onboard_time": 1766408482,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "妻儿三人被发小杀害丈夫半年瘦26斤",
+        "onboard_time": 1766407762,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169292,
+        "num": 162962,
+        "word": "易烊千玺把影帝奖杯放在公司展柜",
+        "onboard_time": 1766401581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120179,
+        "num": 162329,
+        "word": "法院认为海底捞小便视频有强烈侮辱性",
+        "onboard_time": 1766409382,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162034,
+        "num": 162034,
+        "word": "你可以考央丑了",
+        "onboard_time": 1766404401,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160546,
+        "num": 160546,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141990,
+        "num": 141990,
+        "word": "老舅",
+        "onboard_time": 1766407401,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140177,
+        "num": 140177,
+        "word": "骄阳似我热度",
+        "onboard_time": 1766404342,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117748,
+        "num": 139946,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1766400021,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139931,
+        "num": 139931,
+        "word": "赵今麦看个监视器美成这样了",
+        "onboard_time": 1766409683,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232019,
+        "num": 139586,
+        "word": "宁波妇儿医院现状",
+        "onboard_time": 1766409982,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138574,
+        "num": 138574,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137601,
+        "num": 137601,
+        "word": "内娱又要有好剧本了",
+        "onboard_time": 1766407943,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136091,
+        "num": 136091,
+        "word": "骄阳似我 自己选滤镜",
+        "onboard_time": 1766407102,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130954,
+        "num": 130954,
+        "word": "邱鼎杰喜欢综合格斗",
+        "onboard_time": 1766409742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126905,
+        "num": 126905,
+        "word": "果然娶到心爱的女孩就像打了胜仗",
+        "onboard_time": 1766405841,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106531,
+        "num": 123774,
+        "word": "13省归还挪用养老基金130.83亿元",
+        "onboard_time": 1766406142,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32402,
+        "num": 122082,
+        "word": "被虐死女孩生母称自己也该被判刑",
+        "onboard_time": 1766410283,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105466,
+        "num": 121777,
+        "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
+        "onboard_time": 1766386399,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121527,
+        "num": 121527,
+        "word": "鞠婧祎 我的矜贵大小姐",
+        "onboard_time": 1766410283,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "张曼玉 我担都在追的星",
+        "onboard_time": 1766410042,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21445,
+        "num": 107230,
+        "word": "为弟追凶案姐姐开庭前带上父母遗像",
+        "onboard_time": 1766409442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106589,
+        "num": 106589,
+        "word": "费振翔导演安利肖战主演电影非常好看",
+        "onboard_time": 1766410402,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105231,
+        "num": 105231,
+        "word": "奇迹",
+        "onboard_time": 1766402721,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100958,
+        "num": 100958,
+        "word": "王霏霏38岁状态",
+        "onboard_time": 1766410522,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86891,
+        "num": 86891,
+        "word": "地球超新鲜",
+        "onboard_time": 1766398221,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86182,
+        "num": 86182,
+        "word": "网红面馆被立案调查多位明星曾打卡",
+        "onboard_time": 1766400861,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86051,
+        "num": 86051,
+        "word": "黄鱼面塌房",
+        "onboard_time": 1766394681,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83682,
+        "num": 85516,
+        "word": "Letme说Viper来后BLG打法变了",
+        "onboard_time": 1766408062,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
