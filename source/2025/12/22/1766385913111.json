@@ -1,0 +1,410 @@
+{
+  "runTime": 1766385913111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522768,
+        "num": 1083642,
+        "word": "烤鸡少年承认用肉宝王调味",
+        "onboard_time": 1766381181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288980,
+        "num": 288980,
+        "word": "车厘子价格大跳水了",
+        "onboard_time": 1766375601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37772,
+        "num": 287725,
+        "word": "支持个人信用重塑",
+        "onboard_time": 1766365462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327672,
+        "num": 287683,
+        "word": "李昀锐笑着哄孟子义",
+        "onboard_time": 1766385381,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287378,
+        "num": 287378,
+        "word": "25岁的叔33岁的侄子",
+        "onboard_time": 1766383520,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510067,
+        "num": 263860,
+        "word": "美国斩杀线",
+        "onboard_time": 1766378901,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463316,
+        "num": 236586,
+        "word": "普通女生化妆2小时的变化",
+        "onboard_time": 1766383041,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 303128,
+        "num": 234563,
+        "word": "陈星旭像奶了两个孩子",
+        "onboard_time": 1766381301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208667,
+        "num": 208667,
+        "word": "优衣库店长下达偷拍顾客指标",
+        "onboard_time": 1766383220,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206569,
+        "num": 206569,
+        "word": "这个撤回就能看出他有多绝望了",
+        "onboard_time": 1766375422,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596752,
+        "num": 205845,
+        "word": "星光大赏别虐待老人了",
+        "onboard_time": 1766380400,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589263,
+        "num": 203191,
+        "word": "福原爱再婚对象正是出轨风波男主",
+        "onboard_time": 1766378603,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351567,
+        "num": 201874,
+        "word": "男生应邀住女友家被控强奸获刑",
+        "onboard_time": 1766379981,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316201,
+        "num": 197795,
+        "word": "一哥曝杜克视频是剧本摆拍",
+        "onboard_time": 1766374639,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303157,
+        "num": 196073,
+        "word": "福原爱再婚怀孕",
+        "onboard_time": 1766362222,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262416,
+        "num": 194437,
+        "word": "闵塔鲨辟谣",
+        "onboard_time": 1766380700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249338,
+        "num": 192871,
+        "word": "检察官为儿子强奸未成年做无罪辩护",
+        "onboard_time": 1766326105,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213829,
+        "num": 190502,
+        "word": "丁程鑫看到陈妍希发言切陈鑫海的反应",
+        "onboard_time": 1766385140,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212849,
+        "num": 187474,
+        "word": "金莎孙丞潇都有夫妻相了",
+        "onboard_time": 1766380522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144898,
+        "num": 185628,
+        "word": "施罗德绝杀火箭",
+        "onboard_time": 1766384901,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692557,
+        "num": 182341,
+        "word": "孟子义摔出了神图",
+        "onboard_time": 1766369480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380712,
+        "num": 180520,
+        "word": "山城小栗旬官宣恋情",
+        "onboard_time": 1766378302,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179572,
+        "num": 179572,
+        "word": "王影璐位置",
+        "onboard_time": 1766385020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163413,
+        "num": 163413,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766385020,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146719,
+        "num": 156577,
+        "word": "暮暮朝朝是最好的爱情教科书",
+        "onboard_time": 1766384540,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152459,
+        "num": 152459,
+        "word": "黄金",
+        "onboard_time": 1766371940,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147996,
+        "num": 147996,
+        "word": "颖儿今年在央视第三部剧了",
+        "onboard_time": 1766383340,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121041,
+        "num": 121041,
+        "word": "婧妹为虞书欣双轨打call",
+        "onboard_time": 1766384901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107499,
+        "num": 119341,
+        "word": "男子碾压妻子致死还有两个多月出狱",
+        "onboard_time": 1766382921,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80913,
+        "num": 119030,
+        "word": "中国游客锐减日本住宿价格暴跌",
+        "onboard_time": 1766382500,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "丞磊星光大赏疑似被换座位",
+        "onboard_time": 1766375900,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117575,
+        "num": 117575,
+        "word": "国企的微信礼仪",
+        "onboard_time": 1766380760,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 116317,
+        "word": "唐诡4不能吃的东西又增加了",
+        "onboard_time": 1766385800,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105434,
+        "num": 105434,
+        "word": "待富人群",
+        "onboard_time": 1766383821,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38090,
+        "num": 101223,
+        "word": "王宝强和段奕宏眼里没光了",
+        "onboard_time": 1766385740,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97664,
+        "num": 97664,
+        "word": "福原爱再婚丈夫",
+        "onboard_time": 1766378363,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70168,
+        "num": 97574,
+        "word": "央视曝光旧衣回收产业",
+        "onboard_time": 1766330965,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61078,
+        "num": 96427,
+        "word": "08年起南博多名职工就曾数次联名举报",
+        "onboard_time": 1766385740,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89644,
+        "num": 95979,
+        "word": "恋与制作人",
+        "onboard_time": 1766375542,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 94935,
+        "word": "陈靖可陈妍希 药味是与生俱来的",
+        "onboard_time": 1766380821,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20676,
+        "num": 94587,
+        "word": "杀害妻儿三人的发小曾想结娃娃亲",
+        "onboard_time": 1766384600,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94043,
+        "num": 94043,
+        "word": "厂二代被父亲骂到闭麦",
+        "onboard_time": 1766382322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93901,
+        "num": 93901,
+        "word": "许玮甯李靓蕾与好友过圣诞",
+        "onboard_time": 1766381720,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89216,
+        "num": 89216,
+        "word": "福原爱新丈夫是出轨风波男主",
+        "onboard_time": 1766385440,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87844,
+        "num": 87844,
+        "word": "王霏霏子弹胸甲",
+        "onboard_time": 1766382080,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87211,
+        "num": 87211,
+        "word": "许妍回来了",
+        "onboard_time": 1766365281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86418,
+        "num": 86418,
+        "word": "江宏杰方回应福原爱再婚怀孕",
+        "onboard_time": 1766375542,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85368,
+        "num": 85368,
+        "word": "她不想复习也想及格",
+        "onboard_time": 1766385381,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84773,
+        "num": 84773,
+        "word": "高市早苗应援帽是中国制造",
+        "onboard_time": 1766380641,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69242,
+        "num": 82020,
+        "word": "为什么建议挂专家号就挂副主任医师",
+        "onboard_time": 1766384600,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#为百年变局注入稳定性和确定性#"
+    }
+  }
+}
