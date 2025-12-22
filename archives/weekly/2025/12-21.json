@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766393646805,
+  "endTime": 1766396231827,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1286234,
-      "num": 190643,
+      "num": 286155,
       "word": "福原爱向再婚丈夫家人致歉",
       "onboard_time": 1766390060,
       "rank": 10,
@@ -120,6 +120,14 @@
       "word": "检察官为儿子强奸未成年做无罪辩护",
       "onboard_time": 1766326105,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1122167,
+      "num": 324852,
+      "word": "海底捞小便事件家长赔偿220万元",
+      "onboard_time": 1766395043,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 813035,
-      "num": 188173,
+      "num": 204810,
       "word": "贝克汉姆大儿子拉黑全家",
       "onboard_time": 1766386640,
       "rank": 30,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563674,
+      "num": 1090187,
+      "word": "梁王组合丢下奖金头也不回走了",
+      "onboard_time": 1766392041,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 561461,
       "num": 360672,
       "word": "田曦薇咏梅撞衫",
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514592,
+      "num": 282369,
+      "word": "演员王劲松为小洛熙发声",
+      "onboard_time": 1766394561,
+      "rank": 11,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 512549,
       "num": 245662,
       "word": "丞磊下意识的反应最动人",
@@ -708,11 +732,19 @@
     },
     {
       "raw_hot": 507842,
-      "num": 189864,
+      "num": 258527,
       "word": "一哥爆料杜克",
       "onboard_time": 1766387181,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 503276,
+      "num": 274584,
+      "word": "秦岚走路姿势",
+      "onboard_time": 1766393422,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 492269,
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367012,
+      "num": 268123,
+      "word": "有这3个睡眠习惯的人更易患癌",
+      "onboard_time": 1766391081,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 359186,
       "num": 359186,
       "word": "外企集体加入中国内卷",
@@ -1140,10 +1180,26 @@
     },
     {
       "raw_hot": 356240,
-      "num": 179331,
+      "num": 198750,
       "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
       "onboard_time": 1766386399,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355519,
+      "num": 355519,
+      "word": "被举报南博前院长发声",
+      "onboard_time": 1766394140,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353307,
+      "num": 321423,
+      "word": "女教师坠亡一楼业主新房花了上百万",
+      "onboard_time": 1766395161,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1169,14 +1225,6 @@
       "onboard_time": 1766379981,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346180,
-      "num": 235461,
-      "word": "有这3个睡眠习惯的人更易患癌",
-      "onboard_time": 1766391081,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 345557,
@@ -1267,12 +1315,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327313,
+      "num": 265565,
+      "word": "向太曝刘德华买理发店让老同事做店长",
+      "onboard_time": 1766391020,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325988,
       "num": 223946,
       "word": "黄金",
       "onboard_time": 1766371940,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 325154,
+      "num": 325154,
+      "word": "双轨直播",
+      "onboard_time": 1766394979,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 318577,
@@ -1315,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313181,
-      "num": 186269,
-      "word": "向太曝刘德华买理发店让老同事做店长",
-      "onboard_time": 1766391020,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 313502,
+      "num": 313502,
+      "word": "中方对日本高官言论感到震惊",
+      "onboard_time": 1766391624,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 311830,
@@ -1339,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307437,
+      "num": 307437,
+      "word": "丁禹兮一晚上干了多少事",
+      "onboard_time": 1766393361,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306954,
       "num": 306954,
       "word": "星光村赏",
@@ -1348,19 +1420,11 @@
     },
     {
       "raw_hot": 306087,
-      "num": 183917,
+      "num": 185749,
       "word": "微博之夜年度推荐",
       "onboard_time": 1766385020,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304296,
-      "num": 304296,
-      "word": "梁王组合丢下奖金头也不回走了",
-      "onboard_time": 1766392041,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 303128,
@@ -1380,7 +1444,7 @@
     },
     {
       "raw_hot": 302592,
-      "num": 179813,
+      "num": 192637,
       "word": "俞灏明王晓晨牵手出行",
       "onboard_time": 1766388620,
       "rank": 39,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1766327726,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288180,
+      "num": 291956,
+      "word": "双轨",
+      "onboard_time": 1766240963,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 287378,
@@ -1659,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251890,
+      "num": 251890,
+      "word": "22天圣诞假",
+      "onboard_time": 1766388081,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250684,
       "num": 250684,
       "word": "成毅直播",
@@ -1681,14 +1761,6 @@
       "onboard_time": 1766308823,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248859,
-      "num": 248859,
-      "word": "中方对日本高官言论感到震惊",
-      "onboard_time": 1766391624,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 246863,
@@ -2547,12 +2619,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175470,
+      "num": 175470,
+      "word": "王赫野唱指纹只得了四十分",
+      "onboard_time": 1766395161,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174591,
       "num": 719474,
       "word": "星光大赏数据",
       "onboard_time": 1766378482,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173392,
+      "num": 173392,
+      "word": "周也陈星旭回复王玉雯",
+      "onboard_time": 1766394740,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 171885,
@@ -2595,14 +2683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168107,
-      "num": 168107,
-      "word": "22天圣诞假",
-      "onboard_time": 1766388081,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167979,
       "num": 222592,
       "word": "边牧幼犬托运被狐狸吃掉爪子遭弃养",
@@ -2617,6 +2697,14 @@
       "onboard_time": 1766304201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "婚礼当天坠亡28岁女教师已火化安葬",
+      "onboard_time": 1766394620,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166397,
@@ -2673,14 +2761,6 @@
       "onboard_time": 1766393242,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164085,
-      "num": 291956,
-      "word": "双轨",
-      "onboard_time": 1766240963,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 163822,
@@ -2747,12 +2827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161352,
+      "num": 161352,
+      "word": "星光大赏唇语解读",
+      "onboard_time": 1766394800,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160595,
       "num": 160595,
       "word": "双轨加更礼",
       "onboard_time": 1766291539,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160585,
+      "num": 160585,
+      "word": "黄鱼面塌房",
+      "onboard_time": 1766394681,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160139,
@@ -3091,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144992,
+      "num": 144992,
+      "word": "陈都灵发言 毕业答辩模板",
+      "onboard_time": 1766393181,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144179,
       "num": 144179,
       "word": "陈妍希台湾腔告别视频",
@@ -3387,14 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133302,
-      "num": 133302,
-      "word": "陈都灵发言 毕业答辩模板",
-      "onboard_time": 1766393181,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "等我小了我也要黄景瑜",
@@ -3475,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129596,
+      "num": 129596,
+      "word": "孟子义觉得比痛先来的是尴尬",
+      "onboard_time": 1766395581,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129112,
       "num": 173777,
       "word": "小洛熙事件调查惩前更要毖后",
@@ -3523,12 +3627,44 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 126404,
+      "num": 126404,
+      "word": "易烊千玺是我的人生导师",
+      "onboard_time": 1766395820,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125979,
+      "num": 125979,
+      "word": "nova15支持华为最强通信能力",
+      "onboard_time": 1766394319,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125928,
       "num": 125928,
       "word": "女生做上门私厨一天做4家月入2万",
       "onboard_time": 1766277499,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125746,
+      "num": 122970,
+      "word": "读研3年vs工作3年",
+      "onboard_time": 1766395521,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125703,
+      "num": 125703,
+      "word": "独居快饿晕了才去做饭belike",
+      "onboard_time": 1766395581,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 125613,
@@ -3699,14 +3835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118248,
-      "num": 118248,
-      "word": "丁禹兮一晚上干了多少事",
-      "onboard_time": 1766393361,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117950,
       "num": 117950,
       "word": "印度一只个股暴涨55000%",
@@ -3729,6 +3857,14 @@
       "onboard_time": 1766386399,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117364,
+      "num": 117364,
+      "word": "王一博入选中国品牌青年500强",
+      "onboard_time": 1766395640,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 117199,
@@ -3793,6 +3929,14 @@
       "onboard_time": 1766292382,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115149,
+      "num": 115149,
+      "word": "以为小猫很凶其实是毛挡住了",
+      "onboard_time": 1766395881,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 114319,
@@ -3913,6 +4057,22 @@
       "onboard_time": 1766332702,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109432,
+      "num": 109432,
+      "word": "A股又诞生一只10倍股",
+      "onboard_time": 1766396120,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109207,
+      "num": 109207,
+      "word": "2025年看到be版何以笙箫默",
+      "onboard_time": 1766395941,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 109070,
@@ -4257,6 +4417,14 @@
       "onboard_time": 1766280739,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99030,
+      "num": 188558,
+      "word": "超级nova超级香",
+      "onboard_time": 1766394319,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 98487,
@@ -4971,6 +5139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63041,
+      "num": 262637,
+      "word": "天天好睡眠的秘诀是什么",
+      "onboard_time": 1766394319,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62915,
       "num": 189192,
       "word": "刘宇宁张凌赫金靖一起走红毯",
@@ -5193,14 +5369,6 @@
       "onboard_time": 1766359879,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51381,
-      "num": 134225,
-      "word": "秦岚走路姿势",
-      "onboard_time": 1766393422,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 51003,
@@ -5763,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29013,
+      "num": 125735,
+      "word": "向涵之 大花气质",
+      "onboard_time": 1766395820,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28816,
       "num": 137663,
       "word": "遭外国人投石视频实为日本人先挑衅",
@@ -5915,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22755,
+      "num": 125705,
+      "word": "旧金山停电致自动驾驶汽车集体趴窝",
+      "onboard_time": 1766395341,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22468,
       "num": 47590,
       "word": "第5次考研女生吐槽题太难了",
@@ -5988,7 +6172,7 @@
     },
     {
       "raw_hot": 21101,
-      "num": 314731,
+      "num": 379353,
       "word": "北京范儿",
       "onboard_time": 1766363660,
       "rank": 2,
@@ -6145,6 +6329,14 @@
       "onboard_time": 1766348894,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16271,
+      "num": 110560,
+      "word": "挂驴头卖马肉老板称一点驴肉不用放",
+      "onboard_time": 1766394620,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15905,
