@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766439651219,
+  "endTime": 1766442536244,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -6563,6 +6563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51515,
+      "num": 90233,
+      "word": "网约车臭车问题为何年年说年年有",
+      "onboard_time": 1766422578,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51003,
       "num": 269268,
       "word": "谢娜王冰冰时代少年团合照",
@@ -6625,14 +6633,6 @@
       "onboard_time": 1766350994,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49391,
-      "num": 90233,
-      "word": "网约车臭车问题为何年年说年年有",
-      "onboard_time": 1766422578,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49290,
@@ -7259,6 +7259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31024,
+      "num": 40204,
+      "word": "得闲谨制",
+      "onboard_time": 1766425695,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30799,
       "num": 131831,
       "word": "冬至时节如何养生",
@@ -7547,6 +7555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22746,
+      "num": 29287,
+      "word": "成毅王劲松长达3分钟的对峙戏",
+      "onboard_time": 1766440455,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22468,
       "num": 47590,
       "word": "第5次考研女生吐槽题太难了",
@@ -7561,14 +7577,6 @@
       "onboard_time": 1766243543,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22327,
-      "num": 40204,
-      "word": "得闲谨制",
-      "onboard_time": 1766425695,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 21981,
@@ -7843,12 +7851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16297,
-      "num": 18813,
+      "raw_hot": 16505,
+      "num": 29284,
       "word": "deepseek崩了",
       "onboard_time": 1766432174,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 16438,
+      "num": 29283,
+      "word": "孟子义白鹿这一幕像极了电影",
+      "onboard_time": 1766442195,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 16271,
@@ -7897,6 +7913,14 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15087,
+      "num": 29283,
+      "word": "刘宇宁每分每秒都在散发魅力",
+      "onboard_time": 1766435173,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14990,
@@ -7953,14 +7977,6 @@
       "onboard_time": 1766309963,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11128,
-      "num": 18778,
-      "word": "刘宇宁每分每秒都在散发魅力",
-      "onboard_time": 1766435173,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 10925,
