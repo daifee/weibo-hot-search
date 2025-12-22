@@ -1,6 +1,6 @@
 {
   "startTime": 1766334796407,
-  "endTime": 1766400441018,
+  "endTime": 1766402810484,
   "band_list": [
     {
       "raw_hot": 3082032,
@@ -49,6 +49,14 @@
       "onboard_time": 1766326105,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1109337,
+      "num": 228389,
+      "word": "骄阳似我 男二",
+      "onboard_time": 1766400981,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1027698,
@@ -160,6 +168,14 @@
       "word": "禹宙中欣",
       "onboard_time": 1766329225,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 696063,
+      "num": 184734,
+      "word": "曝杨洋和顶流95花谈过恋爱",
+      "onboard_time": 1766401520,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472192,
+      "num": 202899,
+      "word": "骄阳似我 何以笙箫默",
+      "onboard_time": 1766399301,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469925,
       "num": 243225,
       "word": "普通女生化妆2小时的变化",
@@ -425,6 +449,14 @@
       "onboard_time": 1766387060,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399859,
+      "num": 1063977,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1766400021,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 376722,
@@ -555,14 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305341,
-      "num": 202899,
-      "word": "骄阳似我 何以笙箫默",
-      "onboard_time": 1766399301,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303128,
       "num": 242588,
       "word": "陈星旭像奶了两个孩子",
@@ -675,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 273032,
+      "num": 189193,
+      "word": "现偶 医生",
+      "onboard_time": 1766401760,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269365,
       "num": 269365,
       "word": "私人影院异性陪侍4人被刑拘",
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235860,
+      "num": 202838,
+      "word": "当你吃外卖必须找到电子榨菜",
+      "onboard_time": 1766398461,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235185,
       "num": 235185,
       "word": "nova15价格",
@@ -739,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231503,
-      "num": 202838,
-      "word": "当你吃外卖必须找到电子榨菜",
-      "onboard_time": 1766398461,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230673,
       "num": 185548,
       "word": "李昀锐连说两遍慢点儿",
@@ -761,6 +793,14 @@
       "onboard_time": 1766377461,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 225343,
+      "num": 188661,
+      "word": "易烊千玺把影帝奖杯放在公司展柜",
+      "onboard_time": 1766401581,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 223521,
@@ -849,6 +889,14 @@
       "onboard_time": 1766336239,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203403,
+      "num": 203403,
+      "word": "国家文物局介入调查南京博物院事件",
+      "onboard_time": 1766400920,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203302,
@@ -945,6 +993,14 @@
       "onboard_time": 1766392701,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192561,
+      "num": 192561,
+      "word": "微信转发淫秽信息给好友也违法",
+      "onboard_time": 1766401881,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191640,
@@ -1243,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156801,
+      "num": 161155,
+      "word": "华晨宇蜉蝣7分钟震撼开场",
+      "onboard_time": 1766401520,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153964,
       "num": 221940,
       "word": "直播间便宜货不敢再买了",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1766327726,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152533,
+      "num": 152533,
+      "word": "宋威龙好帅",
+      "onboard_time": 1766402481,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 151451,
@@ -1281,14 +1353,6 @@
       "onboard_time": 1766323403,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150255,
-      "num": 173238,
-      "word": "中央军委举行晋升上将军衔仪式",
-      "onboard_time": 1766400021,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149976,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1766397981,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141930,
+      "num": 163717,
+      "word": "村干部称女教师父母因遗言非常伤心",
+      "onboard_time": 1766400500,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140734,
@@ -1507,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131949,
+      "num": 131949,
+      "word": "李乃文 谁是老大不用我说吧",
+      "onboard_time": 1766402300,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "等我小了我也要黄景瑜",
@@ -1555,12 +1635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127887,
+      "num": 127887,
+      "word": "奇迹",
+      "onboard_time": 1766402721,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127435,
       "num": 127435,
       "word": "鞠婧祎领奖",
       "onboard_time": 1766336599,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127258,
+      "num": 127258,
+      "word": "黄星如果没有进入这一行",
+      "onboard_time": 1766401581,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 126859,
@@ -1609,6 +1705,30 @@
       "onboard_time": 1766400141,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123413,
+      "num": 123413,
+      "word": "当妈妈问我吃谷花了多少钱时",
+      "onboard_time": 1766401640,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 122698,
+      "num": 122698,
+      "word": "双轨热度",
+      "onboard_time": 1766402481,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122147,
+      "num": 122147,
+      "word": "白鹿听到自己颁奖嘉宾的反应萌萌的",
+      "onboard_time": 1766402481,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 121241,
@@ -1713,6 +1833,14 @@
       "onboard_time": 1766395881,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114768,
+      "num": 123429,
+      "word": "顾漫 骄阳似我",
+      "onboard_time": 1766401281,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 112778,
@@ -2387,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68867,
+      "num": 202780,
+      "word": "成毅直播把我看哭了",
+      "onboard_time": 1766397920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67388,
       "num": 67388,
       "word": "撞脸的民警扮演儿子12年",
@@ -2459,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63110,
-      "num": 202780,
-      "word": "成毅直播把我看哭了",
-      "onboard_time": 1766397920,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63041,
       "num": 262637,
       "word": "天天好睡眠的秘诀是什么",
@@ -2505,6 +2633,14 @@
       "onboard_time": 1766369480,
       "rank": 49,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 60369,
+      "num": 123642,
+      "word": "王楚钦送小队员签名球板",
+      "onboard_time": 1766401281,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 56525,
@@ -2579,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48250,
+      "num": 129112,
+      "word": "女子被网恋男友5万元卖到缅甸",
+      "onboard_time": 1766401398,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48107,
       "num": 224003,
       "word": "今年工作里的爽感瞬间",
@@ -2643,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43980,
+      "num": 201993,
+      "word": "华为nova15全系大大大大升级",
+      "onboard_time": 1766399781,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43827,
       "num": 176862,
       "word": "极地科考同款羽绒服黑科技",
@@ -2675,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41059,
+      "num": 191955,
+      "word": "充电宝CCC将可扫码追溯",
+      "onboard_time": 1766401760,
+      "rank": 9,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 40875,
       "num": 134047,
       "word": "丞磊 扶完你的扶你的",
@@ -2691,12 +2851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38980,
-      "num": 201993,
-      "word": "华为nova15全系大大大大升级",
-      "onboard_time": 1766399781,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 40129,
+      "num": 185731,
+      "word": "未来两周46条中日航线取消全部航班",
+      "onboard_time": 1766401701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38547,
@@ -2747,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36801,
+      "num": 186685,
+      "word": "个人信用报告查询方式",
+      "onboard_time": 1766401701,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35616,
       "num": 81727,
       "word": "美对叙利亚持续5小时猛烈轰炸",
@@ -2771,6 +2939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34956,
+      "num": 130822,
+      "word": "看完阿凡达3才知道这张图含金量",
+      "onboard_time": 1766402481,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34669,
       "num": 183895,
       "word": "日本防卫支出超3成不是为了防卫",
@@ -2793,6 +2969,14 @@
       "onboard_time": 1766324963,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33700,
+      "num": 187440,
+      "word": "Prada李现封面高智感拉满",
+      "onboard_time": 1766401520,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33267,
@@ -2835,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29180,
+      "num": 177733,
+      "word": "华为发布会秒变潮流派对",
+      "onboard_time": 1766399781,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29110,
       "num": 88527,
       "word": "长安人怎么过冬至",
@@ -2859,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27490,
+      "num": 131552,
+      "word": "俄军高官死于汽车炸弹爆炸",
+      "onboard_time": 1766402601,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26509,
       "num": 109224,
       "word": "防盗不是优衣库偷拍顾客的借口",
@@ -2881,14 +3081,6 @@
       "onboard_time": 1766343854,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25547,
-      "num": 177733,
-      "word": "华为发布会秒变潮流派对",
-      "onboard_time": 1766399781,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 25309,
