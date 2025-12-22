@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766424391768,
+  "endTime": 1766425428982,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -74305,6 +74305,14 @@
       "onboard_time": 1765070961,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26530,
+      "num": 55710,
+      "word": "鞠婧祎这个背影",
+      "onboard_time": 1766424917,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 26509,

@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766424391768,
+  "endTime": 1766425428982,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -465,6 +465,22 @@
       "onboard_time": 1766411362,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26530,
+      "num": 55710,
+      "word": "鞠婧祎这个背影",
+      "onboard_time": 1766424917,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20986,
+      "num": 55633,
+      "word": "魏建军赌上姓氏造车后悔了吗",
+      "onboard_time": 1766408780,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
