@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766442536244,
+  "endTime": 1766443532536,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -4843,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112422,
+      "num": 112422,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "徐冬冬回应是不是爱尹子维的钱",
@@ -5505,14 +5513,6 @@
       "onboard_time": 1766386880,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95754,
-      "num": 95754,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 95399,
@@ -6507,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53061,
+      "num": 90233,
+      "word": "网约车臭车问题为何年年说年年有",
+      "onboard_time": 1766422578,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53006,
       "num": 86261,
       "word": "杨紫冰雪女王造型",
@@ -6561,14 +6569,6 @@
       "onboard_time": 1766359879,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 90233,
-      "word": "网约车臭车问题为何年年说年年有",
-      "onboard_time": 1766422578,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51003,
@@ -6915,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40054,
+      "num": 40204,
+      "word": "得闲谨制",
+      "onboard_time": 1766425695,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39941,
       "num": 187440,
       "word": "Prada李现封面高智感拉满",
@@ -7243,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31360,
+      "num": 31360,
+      "word": "成毅王劲松长达3分钟的对峙戏",
+      "onboard_time": 1766440455,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31155,
       "num": 139755,
       "word": "丁禹兮出发参加星光大赏",
@@ -7257,14 +7273,6 @@
       "onboard_time": 1766252057,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31024,
-      "num": 40204,
-      "word": "得闲谨制",
-      "onboard_time": 1766425695,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 30799,
@@ -7305,6 +7313,14 @@
       "onboard_time": 1766427554,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30137,
+      "num": 30137,
+      "word": "孟子义白鹿这一幕像极了电影",
+      "onboard_time": 1766442195,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 29900,
@@ -7555,14 +7571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22746,
-      "num": 29287,
-      "word": "成毅王劲松长达3分钟的对峙戏",
-      "onboard_time": 1766440455,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22468,
       "num": 47590,
       "word": "第5次考研女生吐槽题太难了",
@@ -7739,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19057,
+      "num": 30056,
+      "word": "刘宇宁每分每秒都在散发魅力",
+      "onboard_time": 1766435173,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19036,
       "num": 45400,
       "word": "遇到难回答的问题又不说话了",
@@ -7761,6 +7777,14 @@
       "onboard_time": 1766324062,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18326,
+      "num": 30049,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 18117,
@@ -7851,22 +7875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16505,
-      "num": 29284,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 16438,
-      "num": 29283,
-      "word": "孟子义白鹿这一幕像极了电影",
-      "onboard_time": 1766442195,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16271,
       "num": 110560,
       "word": "挂驴头卖马肉老板称一点驴肉不用放",
@@ -7913,14 +7921,6 @@
       "onboard_time": 1766258895,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15087,
-      "num": 29283,
-      "word": "刘宇宁每分每秒都在散发魅力",
-      "onboard_time": 1766435173,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14990,

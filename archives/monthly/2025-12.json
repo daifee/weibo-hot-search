@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766442536244,
+  "endTime": 1766443532536,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -47899,6 +47899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 112422,
+      "num": 112422,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112409,
       "num": 112409,
       "word": "张雪峰抖音账号30天掉粉近13万",
@@ -55193,14 +55201,6 @@
       "onboard_time": 1765762281,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95754,
-      "num": 95754,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 95692,
@@ -66835,6 +66835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53061,
+      "num": 90233,
+      "word": "网约车臭车问题为何年年说年年有",
+      "onboard_time": 1766422578,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53032,
       "num": 114347,
       "word": "GALA无愧于ADC之名",
@@ -67225,14 +67233,6 @@
       "onboard_time": 1765122801,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 90233,
-      "word": "网约车臭车问题为何年年说年年有",
-      "onboard_time": 1766422578,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51481,
@@ -72843,6 +72843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31360,
+      "num": 31360,
+      "word": "成毅王劲松长达3分钟的对峙戏",
+      "onboard_time": 1766440455,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31287,
       "num": 112255,
       "word": "女子露营饮酒溺亡同行好友赔偿45万",
@@ -73201,6 +73209,14 @@
       "onboard_time": 1765789821,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30137,
+      "num": 30137,
+      "word": "孟子义白鹿这一幕像极了电影",
+      "onboard_time": 1766442195,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 30113,
@@ -75475,14 +75491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22746,
-      "num": 29287,
-      "word": "成毅王劲松长达3分钟的对峙戏",
-      "onboard_time": 1766440455,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22742,
       "num": 853664,
       "word": "国台办说台独意味着战争",
@@ -76371,6 +76379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19057,
+      "num": 30056,
+      "word": "刘宇宁每分每秒都在散发魅力",
+      "onboard_time": 1766435173,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19039,
       "num": 99220,
       "word": "成都女子家门口被害案将再开庭",
@@ -76593,6 +76609,14 @@
       "onboard_time": 1765649175,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18326,
+      "num": 30049,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 18248,
@@ -76947,14 +76971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16505,
-      "num": 29284,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 16467,
       "num": 33546,
       "word": "秦彻银翼恶魔",
@@ -76969,14 +76985,6 @@
       "onboard_time": 1765142293,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16438,
-      "num": 29283,
-      "word": "孟子义白鹿这一幕像极了电影",
-      "onboard_time": 1766442195,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 16422,
@@ -77329,14 +77337,6 @@
       "onboard_time": 1765652236,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15087,
-      "num": 29283,
-      "word": "刘宇宁每分每秒都在散发魅力",
-      "onboard_time": 1766435173,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14990,

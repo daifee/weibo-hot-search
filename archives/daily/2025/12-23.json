@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766442536244,
+  "endTime": 1766443532536,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 258076,
-      "num": 247698,
+      "num": 247805,
       "word": "微博之夜",
       "onboard_time": 1766406321,
       "rank": 12,
@@ -179,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112422,
+      "num": 112422,
+      "word": "原来微信长按好用一万倍",
+      "onboard_time": 1766425755,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108362,
       "num": 161287,
       "word": "骄阳似我破纪录",
@@ -209,14 +217,6 @@
       "onboard_time": 1766422458,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95754,
-      "num": 95754,
-      "word": "原来微信长按好用一万倍",
-      "onboard_time": 1766425755,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 91232,
@@ -347,20 +347,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53061,
+      "num": 90233,
+      "word": "网约车臭车问题为何年年说年年有",
+      "onboard_time": 1766422578,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52999,
       "num": 160193,
       "word": "北京震感",
       "onboard_time": 1766407222,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 90233,
-      "word": "网约车臭车问题为何年年说年年有",
-      "onboard_time": 1766422578,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50358,
@@ -419,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40054,
+      "num": 40204,
+      "word": "得闲谨制",
+      "onboard_time": 1766425695,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38941,
       "num": 401475,
       "word": "手把手教你个税专项附加扣除",
@@ -475,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31024,
-      "num": 40204,
-      "word": "得闲谨制",
-      "onboard_time": 1766425695,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 31360,
+      "num": 31360,
+      "word": "成毅王劲松长达3分钟的对峙戏",
+      "onboard_time": 1766440455,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 30344,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30137,
+      "num": 30137,
+      "word": "孟子义白鹿这一幕像极了电影",
+      "onboard_time": 1766442195,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28776,
       "num": 28776,
       "word": "刘宇宁说没来的都在心里",
@@ -499,27 +515,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27642,
+      "num": 30121,
+      "word": "地球超新鲜",
+      "onboard_time": 1766398221,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26530,
       "num": 55710,
       "word": "鞠婧祎这个背影",
       "onboard_time": 1766424917,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22746,
-      "num": 29287,
-      "word": "成毅王劲松长达3分钟的对峙戏",
-      "onboard_time": 1766440455,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21701,
-      "num": 29286,
-      "word": "地球超新鲜",
-      "onboard_time": 1766398221,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -539,6 +547,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19160,
+      "num": 33536,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1766400021,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19057,
+      "num": 30056,
+      "word": "刘宇宁每分每秒都在散发魅力",
+      "onboard_time": 1766435173,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18326,
+      "num": 30049,
+      "word": "deepseek崩了",
+      "onboard_time": 1766432174,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 18117,
       "num": 40106,
       "word": "骄阳似我第5集",
@@ -553,38 +585,6 @@
       "onboard_time": 1766402721,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16505,
-      "num": 29284,
-      "word": "deepseek崩了",
-      "onboard_time": 1766432174,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 16438,
-      "num": 29283,
-      "word": "孟子义白鹿这一幕像极了电影",
-      "onboard_time": 1766442195,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15087,
-      "num": 29283,
-      "word": "刘宇宁每分每秒都在散发魅力",
-      "onboard_time": 1766435173,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15034,
-      "num": 33536,
-      "word": "中央军委举行晋升上将军衔仪式",
-      "onboard_time": 1766400021,
-      "rank": 47,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
