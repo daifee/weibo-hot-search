@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766482428913,
+  "endTime": 1766483244517,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838713,
+      "num": 838713,
+      "word": "宁波女婴术后离世医疗事故鉴定启动",
+      "onboard_time": 1766482041,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802813,
       "num": 471690,
       "word": "女生开电热毯睡太沉醒来屁股淤青",
@@ -179,6 +187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 677951,
+      "num": 373208,
+      "word": "iPhone烟花模式",
+      "onboard_time": 1766481560,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 672562,
       "num": 197582,
       "word": "韩美娟官宣恋情",
@@ -192,6 +208,14 @@
       "word": "李艺彤官宣离开丝芭",
       "onboard_time": 1766444777,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 646399,
+      "num": 279543,
+      "word": "汪东城收藏了一堆王玉雯视频",
+      "onboard_time": 1766479101,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -209,14 +233,6 @@
       "onboard_time": 1766479161,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620995,
-      "num": 279543,
-      "word": "汪东城收藏了一堆王玉雯视频",
-      "onboard_time": 1766479101,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 606790,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389936,
+      "num": 389936,
+      "word": "中方回应乌克兰或将制裁中国公民",
+      "onboard_time": 1766480902,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 378525,
       "num": 219264,
       "word": "杨紫工作室",
@@ -425,6 +449,14 @@
       "onboard_time": 1766454081,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376024,
+      "num": 376024,
+      "word": "泰国感谢中方",
+      "onboard_time": 1766481501,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 371021,
@@ -507,7 +539,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317187,
+      "raw_hot": 317967,
       "num": 276291,
       "word": "孟子义腿还在疼",
       "onboard_time": 1766480000,
@@ -521,14 +553,6 @@
       "onboard_time": 1766465542,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 314819,
-      "num": 314819,
-      "word": "中方回应乌克兰或将制裁中国公民",
-      "onboard_time": 1766480902,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 314778,
@@ -571,36 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290995,
-      "num": 290995,
-      "word": "宁波女婴术后离世医疗事故鉴定启动",
-      "onboard_time": 1766482041,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287834,
       "num": 287834,
       "word": "原来火锅店腌制肉这么多危害",
       "onboard_time": 1766464160,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 286224,
-      "num": 286224,
-      "word": "iPhone烟花模式",
-      "onboard_time": 1766481560,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 286110,
-      "num": 286110,
-      "word": "泰国感谢中方",
-      "onboard_time": 1766481501,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 284843,
@@ -696,6 +696,14 @@
       "word": "骄阳似我追剧团",
       "onboard_time": 1766474061,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220192,
+      "num": 220192,
+      "word": "唐朝诡事录官宣第五季",
+      "onboard_time": 1766482821,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -803,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194354,
+      "num": 194354,
+      "word": "Faker成都见面会",
+      "onboard_time": 1766482400,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190327,
       "num": 347682,
       "word": "樊振东退出世界排名一年整",
@@ -907,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182330,
+      "num": 182330,
+      "word": "自称考北大睡过头女生回应选择北大",
+      "onboard_time": 1766482761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182126,
       "num": 182126,
       "word": "竞浪大会推荐",
@@ -923,20 +947,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 178984,
+      "num": 178984,
+      "word": "宋茜下月可能是光头",
+      "onboard_time": 1766481260,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175926,
       "num": 175926,
       "word": "智能手机没出现前的卫生间",
       "onboard_time": 1766447540,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 175655,
-      "num": 175655,
-      "word": "宋茜下月可能是光头",
-      "onboard_time": 1766481260,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 175543,
@@ -1035,6 +1059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 158972,
+      "num": 158972,
+      "word": "阿信 朱孝天",
+      "onboard_time": 1766480902,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158618,
       "num": 158618,
       "word": "快速保暖邪修",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1766451981,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155381,
+      "num": 155381,
+      "word": "2026年幼儿园收费新规",
+      "onboard_time": 1766482282,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 155363,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1766474422,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142551,
+      "num": 142551,
+      "word": "看费鸡师支支吾吾的我以为多大事呢",
+      "onboard_time": 1766482941,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142405,
@@ -1233,14 +1281,6 @@
       "onboard_time": 1766465003,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132449,
-      "num": 132449,
-      "word": "2026年幼儿园收费新规",
-      "onboard_time": 1766482282,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 130959,
@@ -1459,14 +1499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 118590,
-      "num": 118590,
-      "word": "阿信 朱孝天",
-      "onboard_time": 1766480902,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "李莎旻子 不是身体病了才能看医生",
@@ -1595,14 +1627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108432,
-      "num": 108432,
-      "word": "Faker成都见面会",
-      "onboard_time": 1766482400,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 108362,
       "num": 161287,
       "word": "骄阳似我破纪录",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1766475624,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107009,
+      "num": 277911,
+      "word": "浙江派出工作组督导",
+      "onboard_time": 1766482041,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106095,
@@ -1689,6 +1721,14 @@
       "onboard_time": 1766403861,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 103189,
+      "num": 134421,
+      "word": "樊振东或不参加乒超总决赛",
+      "onboard_time": 1766482761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102829,
@@ -2067,14 +2107,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 82375,
-      "num": 277911,
-      "word": "浙江派出工作组督导",
-      "onboard_time": 1766482041,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "我国又有一个全球首艘",
@@ -2172,7 +2204,7 @@
     },
     {
       "raw_hot": 66806,
-      "num": 150392,
+      "num": 152088,
       "word": "樊振东所在俱乐部排名升至第二",
       "onboard_time": 1766481981,
       "rank": 38,
@@ -2249,6 +2281,14 @@
       "onboard_time": 1766414963,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56814,
+      "num": 277691,
+      "word": "女子称在豪华酒店泡温泉后尿血",
+      "onboard_time": 1766481441,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55758,
@@ -2363,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47552,
+      "num": 554025,
+      "word": "包银高铁全线开通",
+      "onboard_time": 1766480541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47139,
       "num": 118555,
       "word": "女孩被虐待致死案生父法庭崩溃",
@@ -2395,14 +2443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45569,
-      "num": 347186,
-      "word": "包银高铁全线开通",
-      "onboard_time": 1766480541,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45062,
       "num": 137670,
       "word": "林俊杰一开嗓段奕宏王宝强更好嗑了",
@@ -2432,14 +2472,6 @@
       "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
       "onboard_time": 1766461279,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42965,
-      "num": 277691,
-      "word": "女子称在豪华酒店泡温泉后尿血",
-      "onboard_time": 1766481441,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2481,6 +2513,14 @@
       "onboard_time": 1766446639,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40506,
+      "num": 152777,
+      "word": "被虐死女童生父称绑孩子是当地风俗",
+      "onboard_time": 1766482701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40054,
@@ -2587,6 +2627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34063,
+      "num": 153783,
+      "word": "白宇王玉雯新剧演情侣",
+      "onboard_time": 1766483180,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33813,
+      "num": 258857,
+      "word": "男子醉驾撞死支教女教师获刑2年半",
+      "onboard_time": 1766482640,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31687,
       "num": 117703,
       "word": "这一幕不亚于肖奈接贝微微",
@@ -2619,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30886,
+      "num": 150894,
+      "word": "双臂缺失男子被弟弟冒名结婚34年",
+      "onboard_time": 1766481622,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30796,
       "num": 138291,
       "word": "日本宣扬拥核窜访台湾不是孤立事件",
@@ -2640,14 +2704,6 @@
       "word": "男子杀害7个月大侄女案一审将宣判",
       "onboard_time": 1766474960,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29145,
-      "num": 150894,
-      "word": "双臂缺失男子被弟弟冒名结婚34年",
-      "onboard_time": 1766481622,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2723,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20111,
+      "num": 155125,
+      "word": "刹车失灵狂奔490公里当事司机发声",
+      "onboard_time": 1766482821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19382,
       "num": 40129,
       "word": "暮暮朝朝新婚",
@@ -2777,6 +2841,9 @@
     },
     {
       "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    },
+    {
+      "word": "#习近平对中央企业工作作出重要指示#"
     }
   ]
 }
