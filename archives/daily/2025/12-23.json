@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766461810881,
+  "endTime": 1766462647247,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -27,11 +27,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1107385,
+      "num": 658273,
+      "word": "杨紫欧豪官宣开机海报",
+      "onboard_time": 1766459479,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1094316,
       "num": 1175090,
       "word": "长征十二号甲火箭回收失败",
       "onboard_time": 1766458040,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1072459,
+      "num": 567616,
+      "word": "妻子被砍杀8岁儿子扑上挡刀",
+      "onboard_time": 1766456061,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -51,22 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1007543,
-      "num": 658273,
-      "word": "杨紫欧豪官宣开机海报",
-      "onboard_time": 1766459479,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 904441,
-      "num": 567616,
-      "word": "妻子被砍杀8岁儿子扑上挡刀",
-      "onboard_time": 1766456061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 802813,
       "num": 471690,
       "word": "女生开电热毯睡太沉醒来屁股淤青",
@@ -75,19 +75,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 801044,
+      "num": 801044,
+      "word": "母亲回应儿子公务员遴选成绩第一落选",
+      "onboard_time": 1766460199,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 698972,
       "num": 514646,
       "word": "发淫秽信息将违法并不侵犯个人隐私",
       "onboard_time": 1766450602,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 698525,
-      "num": 698525,
-      "word": "母亲回应儿子公务员遴选成绩第一落选",
-      "onboard_time": 1766460199,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550632,
+      "num": 256801,
+      "word": "多个医生账号发手术室视频声援小洛熙",
+      "onboard_time": 1766458819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541089,
       "num": 438493,
       "word": "鞠婧祎全球首戴",
@@ -155,7 +163,31 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444364,
+      "raw_hot": 477528,
+      "num": 446642,
+      "word": "我妈眼里我的月薪三千",
+      "onboard_time": 1766459780,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 472961,
+      "num": 186419,
+      "word": "这是胡彦斌选易梦玲的原因吗",
+      "onboard_time": 1766460379,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 472533,
+      "num": 472533,
+      "word": "官方回应公务员遴选第一名却落选",
+      "onboard_time": 1766457620,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459758,
       "num": 256946,
       "word": "肖战ELLE杂志",
       "onboard_time": 1766457139,
@@ -163,20 +195,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443992,
-      "num": 443992,
-      "word": "官方回应公务员遴选第一名却落选",
-      "onboard_time": 1766457620,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425618,
-      "num": 256801,
-      "word": "多个医生账号发手术室视频声援小洛熙",
-      "onboard_time": 1766458819,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 455311,
+      "num": 179305,
+      "word": "狗狗临终前被允许尝巧克力",
+      "onboard_time": 1766461341,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 406191,
@@ -219,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326759,
+      "num": 326759,
+      "word": "疯狂动物城2近一半票房来自中国",
+      "onboard_time": 1766460560,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 307511,
       "num": 173698,
       "word": "王影璐 没抢座位",
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296006,
-      "num": 186419,
-      "word": "这是胡彦斌选易梦玲的原因吗",
-      "onboard_time": 1766460379,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
@@ -275,20 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257912,
-      "num": 257912,
-      "word": "我妈眼里我的月薪三千",
-      "onboard_time": 1766459780,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 249807,
-      "num": 249807,
-      "word": "疯狂动物城2近一半票房来自中国",
-      "onboard_time": 1766460560,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 247254,
+      "num": 257899,
+      "word": "黄金大涨原因",
+      "onboard_time": 1766448020,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 242729,
@@ -307,12 +323,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 221726,
-      "num": 257899,
-      "word": "黄金大涨原因",
-      "onboard_time": 1766448020,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 215430,
+      "num": 174927,
+      "word": "母子三人被害娘仨没有一具完整身体",
+      "onboard_time": 1766462423,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212538,
@@ -321,6 +337,14 @@
       "onboard_time": 1766416401,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206323,
+      "num": 190156,
+      "word": "华为何刚晒与易烊千玺合照",
+      "onboard_time": 1766460982,
+      "rank": 17,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 205483,
@@ -355,14 +379,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 190156,
-      "num": 190156,
-      "word": "华为何刚晒与易烊千玺合照",
-      "onboard_time": 1766460982,
-      "rank": 17,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 189014,
       "num": 189014,
       "word": "成毅包揽云包场前三",
@@ -395,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183732,
+      "num": 183732,
+      "word": "妻儿三人被发小杀害案今日开庭",
+      "onboard_time": 1766459660,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182126,
+      "num": 182126,
+      "word": "竞浪大会推荐",
+      "onboard_time": 1766447719,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175926,
       "num": 175926,
       "word": "智能手机没出现前的卫生间",
@@ -419,28 +451,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 167344,
+      "num": 120217,
+      "word": "考北大睡过头了",
+      "onboard_time": 1766462121,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166793,
       "num": 161471,
       "word": "曝杨洋和顶流95花谈过恋爱",
       "onboard_time": 1766401520,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166175,
-      "num": 166175,
-      "word": "狗狗临终前被允许尝巧克力",
-      "onboard_time": 1766461341,
-      "rank": 24,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164425,
-      "num": 164425,
-      "word": "竞浪大会推荐",
-      "onboard_time": 1766447719,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 163268,
@@ -459,14 +483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 158844,
-      "num": 158844,
-      "word": "妻儿三人被发小杀害案今日开庭",
-      "onboard_time": 1766459660,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155569,
       "num": 155569,
       "word": "98%中国亿万富豪都是白手起家",
@@ -481,6 +497,14 @@
       "onboard_time": 1766460619,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137936,
+      "num": 119854,
+      "word": "官方通报公务员遴选第一落选",
+      "onboard_time": 1766462423,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 130392,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119778,
+      "num": 189404,
+      "word": "追凶27年后凶手被判死缓",
+      "onboard_time": 1766460080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119139,
       "num": 119139,
       "word": "何以笙箫默全集限免了",
@@ -577,6 +609,14 @@
       "onboard_time": 1766453361,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110250,
+      "num": 110250,
+      "word": "罗云熙首部悬疑剧剥茧动了",
+      "onboard_time": 1766462181,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 108967,
@@ -635,6 +675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 102079,
+      "num": 102079,
+      "word": "盘点孙颖莎2025逆转名场面",
+      "onboard_time": 1766448500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100890,
       "num": 161967,
       "word": "攒了两年的钱在这一刻全花掉了",
@@ -681,6 +729,14 @@
       "onboard_time": 1766453902,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94651,
+      "num": 110186,
+      "word": "刘宇宁害羞到大喊住口",
+      "onboard_time": 1766460920,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 92481,
@@ -739,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90032,
+      "num": 90032,
+      "word": "航天机电跌超7%",
+      "onboard_time": 1766461822,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89471,
       "num": 159387,
       "word": "小米17Ultra首发徕卡2亿真光变镜头",
@@ -753,6 +817,14 @@
       "onboard_time": 1766451442,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88011,
+      "num": 88011,
+      "word": "小狗拼了命地想醒过来",
+      "onboard_time": 1766462601,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86731,
@@ -811,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81645,
-      "num": 81645,
-      "word": "盘点孙颖莎2025逆转名场面",
-      "onboard_time": 1766448500,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "我国又有一个全球首艘",
@@ -851,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75707,
+      "num": 110112,
+      "word": "何穗女骑士芭莎封面大片",
+      "onboard_time": 1766462121,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 75501,
       "num": 160895,
       "word": "男子服装店连扇女子数十个耳光",
@@ -867,19 +939,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74256,
+      "num": 257348,
+      "word": "明年起向好友发淫秽信息将被拘留",
+      "onboard_time": 1766461279,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73624,
       "num": 160299,
       "word": "优衣库前员工展示可疑顾客相册",
       "onboard_time": 1766419642,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71282,
-      "num": 189404,
-      "word": "追凶27年后凶手被判死缓",
-      "onboard_time": 1766460080,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -889,6 +961,14 @@
       "onboard_time": 1766455221,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68562,
+      "num": 120424,
+      "word": "才发现余额宝还可以攒黄金攒定期",
+      "onboard_time": 1766462481,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 66536,
@@ -945,14 +1025,6 @@
       "onboard_time": 1766414963,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57760,
-      "num": 110186,
-      "word": "刘宇宁害羞到大喊住口",
-      "onboard_time": 1766460920,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 55158,
@@ -1075,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44268,
+      "num": 111020,
+      "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
+      "onboard_time": 1766461279,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42397,
       "num": 89252,
       "word": "虞书欣说朝朝暮暮永不分离",
@@ -1139,22 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36775,
-      "num": 257348,
-      "word": "明年起向好友发淫秽信息将被拘留",
-      "onboard_time": 1766461279,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36613,
-      "num": 111020,
-      "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
-      "onboard_time": 1766461279,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36529,
       "num": 159036,
       "word": "2025LOL德玛西亚杯",
@@ -1211,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30998,
+      "num": 110158,
+      "word": "宋威龙找腾讯报销svip",
+      "onboard_time": 1766461760,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30344,
       "num": 40172,
       "word": "庄序人设",
@@ -1251,7 +1323,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22851,
+      "raw_hot": 23029,
       "num": 188110,
       "word": "1名中国公民因泰柬冲突受轻微伤",
       "onboard_time": 1766460860,
@@ -1307,12 +1379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12215,
-      "num": 103744,
-      "word": "宋威龙找腾讯报销svip",
-      "onboard_time": 1766461760,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 11566,
+      "num": 758449,
+      "word": "国内首部经侦题材短剧隐秘的ID开播",
+      "onboard_time": 1766462481,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
