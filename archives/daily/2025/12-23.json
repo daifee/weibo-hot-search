@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766486913270,
+  "endTime": 1766489229876,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 865909,
+      "num": 302099,
+      "word": "医院称小洛熙家属公布的报告不完整",
+      "onboard_time": 1766483780,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802813,
       "num": 471690,
       "word": "女生开电热毯睡太沉醒来屁股淤青",
@@ -160,14 +168,6 @@
       "word": "江苏省委省政府对南博开展全面调查",
       "onboard_time": 1766466801,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783523,
-      "num": 302099,
-      "word": "医院称小洛熙家属公布的报告不完整",
-      "onboard_time": 1766483780,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 670914,
+      "num": 237879,
+      "word": "韦雪前夫自曝19岁当爸",
+      "onboard_time": 1766485823,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 650342,
       "num": 458384,
       "word": "李艺彤官宣离开丝芭",
@@ -265,6 +273,14 @@
       "onboard_time": 1766461341,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 591512,
+      "num": 378180,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 566121,
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 493928,
+      "num": 265347,
+      "word": "400万煮鸡蛋大神开公司了",
+      "onboard_time": 1766487201,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491291,
       "num": 1048435,
       "word": "唐诡奇谭之九重楼定档",
@@ -369,6 +393,14 @@
       "onboard_time": 1766471360,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485229,
+      "num": 447716,
+      "word": "第一次吃生鱼片悄悄用油炸熟了",
+      "onboard_time": 1766484321,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 481184,
@@ -409,14 +441,6 @@
       "onboard_time": 1766457139,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 452915,
-      "num": 447716,
-      "word": "第一次吃生鱼片悄悄用油炸熟了",
-      "onboard_time": 1766484321,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 447276,
@@ -481,14 +505,6 @@
       "onboard_time": 1766463201,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378180,
-      "num": 378180,
-      "word": "仙逆 影视化",
-      "onboard_time": 1766484681,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 376926,
@@ -659,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280938,
+      "num": 258848,
+      "word": "时代少年团在高会直播",
+      "onboard_time": 1766487081,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
       "onboard_time": 1766400861,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280407,
+      "num": 280407,
+      "word": "日本发生含放射性水泄漏事件",
+      "onboard_time": 1766485161,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 279508,
@@ -713,14 +745,6 @@
       "onboard_time": 1766415263,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237879,
-      "num": 237879,
-      "word": "韦雪前夫自曝19岁当爸",
-      "onboard_time": 1766485823,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 232333,
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209275,
+      "num": 209275,
+      "word": "原神",
+      "onboard_time": 1766487441,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207930,
       "num": 207930,
       "word": "孟子义一摔 摔出五个热心肠",
@@ -843,20 +875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199722,
+      "num": 194664,
+      "word": "张子墨身上痒就去洗澡",
+      "onboard_time": 1766487680,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198838,
       "num": 198838,
       "word": "iPhone实况图的选取机制",
       "onboard_time": 1766452520,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 197802,
-      "num": 197802,
-      "word": "日本发生含放射性水泄漏事件",
-      "onboard_time": 1766485161,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196699,
@@ -1027,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181353,
+      "num": 181353,
+      "word": "曝Bin向Kakao道歉",
+      "onboard_time": 1766487022,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180853,
       "num": 136888,
       "word": "鸿蒙智行首款MPV智界V9曝光",
@@ -1112,6 +1152,14 @@
       "word": "谁家好剧一女钓四男啊",
       "onboard_time": 1766474781,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 163860,
+      "word": "爱过的人突然比我大了几十岁",
+      "onboard_time": 1766487621,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1235,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148481,
+      "num": 148481,
+      "word": "OMG零封BLG",
+      "onboard_time": 1766486900,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147103,
       "num": 147103,
       "word": "Ella 好险差点自己唱完了",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1766478920,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140772,
+      "num": 151669,
+      "word": "私聊发不雅内容不再只是社死",
+      "onboard_time": 1766487380,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139525,
@@ -1563,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122732,
+      "num": 125814,
+      "word": "一代人有一代人的烟花",
+      "onboard_time": 1766487801,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "离职最划算的月份",
@@ -1691,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112601,
+      "num": 112601,
+      "word": "这就是我不坐大摆锤的原因",
+      "onboard_time": 1766488881,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112316,
       "num": 112316,
       "word": "血糖高的人非常适合吃车厘子",
@@ -1779,6 +1859,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108131,
+      "num": 132401,
+      "word": "美司法部火速删除爱泼斯坦自杀视频",
+      "onboard_time": 1766488461,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107331,
       "num": 107331,
       "word": "6800元买走江南春图卷的顾客是谁",
@@ -1835,6 +1923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 104669,
+      "num": 104669,
+      "word": "这4类人喝咖啡会格外受益",
+      "onboard_time": 1766486541,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104637,
       "num": 104637,
       "word": "陈妍希陈靖可 允许一切发生",
@@ -1859,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103643,
+      "num": 103643,
+      "word": "明日方舟",
+      "onboard_time": 1766488221,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103461,
       "num": 175335,
       "word": "纯饮食减重50斤",
@@ -1881,14 +1985,6 @@
       "onboard_time": 1766462481,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "这4类人喝咖啡会格外受益",
-      "onboard_time": 1766486541,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102565,
@@ -1921,6 +2017,14 @@
       "onboard_time": 1766477120,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 101533,
+      "num": 120079,
+      "word": "老人要求从养老院回家遭拒后自杀",
+      "onboard_time": 1766487801,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101247,
@@ -2193,6 +2297,14 @@
       "onboard_time": 1766466261,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87220,
+      "num": 151017,
+      "word": "黄金巨头金雅福70亿理财爆雷",
+      "onboard_time": 1766488941,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 86731,
@@ -2547,6 +2659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49963,
+      "num": 136310,
+      "word": "陌生人入室打伤女孩警方认定互殴",
+      "onboard_time": 1766488280,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49664,
       "num": 90400,
       "word": "易烊千玺想一个人出去旅行",
@@ -2665,6 +2785,14 @@
       "onboard_time": 1766423958,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41678,
+      "num": 131019,
+      "word": "查出乙肝是不是这辈子就完了",
+      "onboard_time": 1766488280,
+      "rank": 38,
+      "category": "综艺,健康医疗"
     },
     {
       "raw_hot": 41268,
@@ -2953,6 +3081,14 @@
       "onboard_time": 1766408780,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 20981,
+      "num": 181630,
+      "word": "外交部亚洲事务特使赴泰柬穿梭调停",
+      "onboard_time": 1766487801,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20598,

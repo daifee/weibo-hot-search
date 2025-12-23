@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766486913270,
+  "endTime": 1766489229876,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 865909,
+      "num": 302099,
+      "word": "医院称小洛熙家属公布的报告不完整",
+      "onboard_time": 1766483780,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 853805,
       "num": 228199,
       "word": "许妍回来了",
@@ -576,14 +584,6 @@
       "word": "江苏省委省政府对南博开展全面调查",
       "onboard_time": 1766466801,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783523,
-      "num": 302099,
-      "word": "医院称小洛熙家属公布的报告不完整",
-      "onboard_time": 1766483780,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670914,
+      "num": 237879,
+      "word": "韦雪前夫自曝19岁当爸",
+      "onboard_time": 1766485823,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 670392,
       "num": 223923,
       "word": "宁波妇儿医院儿胸心外科已处关闭状态",
@@ -857,6 +865,14 @@
       "onboard_time": 1766394561,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 591512,
+      "num": 378180,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 585059,
@@ -1203,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493928,
+      "num": 265347,
+      "word": "400万煮鸡蛋大神开公司了",
+      "onboard_time": 1766487201,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 492269,
       "num": 307950,
       "word": "马天宇回应李明德大闹三人行风波",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1766471360,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485229,
+      "num": 447716,
+      "word": "第一次吃生鱼片悄悄用油炸熟了",
+      "onboard_time": 1766484321,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 485119,
@@ -1401,14 +1433,6 @@
       "onboard_time": 1766378363,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452915,
-      "num": 447716,
-      "word": "第一次吃生鱼片悄悄用油炸熟了",
-      "onboard_time": 1766484321,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 452143,
@@ -1769,14 +1793,6 @@
       "onboard_time": 1766294121,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378180,
-      "num": 378180,
-      "word": "仙逆 影视化",
-      "onboard_time": 1766484681,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 376926,
@@ -2451,12 +2467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280938,
+      "num": 258848,
+      "word": "时代少年团在高会直播",
+      "onboard_time": 1766487081,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
       "onboard_time": 1766400861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280407,
+      "num": 280407,
+      "word": "日本发生含放射性水泄漏事件",
+      "onboard_time": 1766485161,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 279508,
@@ -2729,14 +2761,6 @@
       "onboard_time": 1766313383,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 237879,
-      "num": 237879,
-      "word": "韦雪前夫自曝19岁当爸",
-      "onboard_time": 1766485823,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 236979,
@@ -3075,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209275,
+      "num": 209275,
+      "word": "原神",
+      "onboard_time": 1766487441,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208020,
       "num": 646666,
       "word": "章莹颖去世8年母亲每日以泪洗面",
@@ -3315,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199722,
+      "num": 194664,
+      "word": "张子墨身上痒就去洗澡",
+      "onboard_time": 1766487680,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199685,
       "num": 199685,
       "word": "谭松韵侯明昊新剧上星央八",
@@ -3353,14 +3393,6 @@
       "onboard_time": 1766327485,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197802,
-      "num": 197802,
-      "word": "日本发生含放射性水泄漏事件",
-      "onboard_time": 1766485161,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197745,
@@ -3875,6 +3907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181353,
+      "num": 181353,
+      "word": "曝Bin向Kakao道歉",
+      "onboard_time": 1766487022,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180853,
       "num": 136888,
       "word": "鸿蒙智行首款MPV智界V9曝光",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1766393242,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 163860,
+      "word": "爱过的人突然比我大了几十岁",
+      "onboard_time": 1766487621,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 163822,
@@ -4763,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148481,
+      "num": 148481,
+      "word": "OMG零封BLG",
+      "onboard_time": 1766486900,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148144,
       "num": 180929,
       "word": "这种花竟和茄子是一家",
@@ -5129,6 +5185,14 @@
       "onboard_time": 1766478920,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140772,
+      "num": 151669,
+      "word": "私聊发不雅内容不再只是社死",
+      "onboard_time": 1766487380,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140734,
@@ -5931,6 +5995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122732,
+      "num": 125814,
+      "word": "一代人有一代人的烟花",
+      "onboard_time": 1766487801,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "离职最划算的月份",
@@ -6331,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112601,
+      "num": 112601,
+      "word": "这就是我不坐大摆锤的原因",
+      "onboard_time": 1766488881,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112316,
       "num": 112316,
       "word": "血糖高的人非常适合吃车厘子",
@@ -6595,6 +6675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108131,
+      "num": 132401,
+      "word": "美司法部火速删除爱泼斯坦自杀视频",
+      "onboard_time": 1766488461,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108120,
       "num": 125182,
       "word": "许玮甯李靓蕾与好友过圣诞",
@@ -6771,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104669,
+      "num": 104669,
+      "word": "这4类人喝咖啡会格外受益",
+      "onboard_time": 1766486541,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104658,
       "num": 104658,
       "word": "马龙全红婵入选中国品牌青年500强",
@@ -6825,6 +6921,14 @@
       "onboard_time": 1766374882,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103643,
+      "num": 103643,
+      "word": "明日方舟",
+      "onboard_time": 1766488221,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 103515,
@@ -6889,14 +6993,6 @@
       "onboard_time": 1766462481,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "这4类人喝咖啡会格外受益",
-      "onboard_time": 1766486541,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102627,
@@ -6977,6 +7073,14 @@
       "onboard_time": 1766380341,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101533,
+      "num": 120079,
+      "word": "老人要求从养老院回家遭拒后自杀",
+      "onboard_time": 1766487801,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101479,
@@ -7601,6 +7705,14 @@
       "onboard_time": 1766305823,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87220,
+      "num": 151017,
+      "word": "黄金巨头金雅福70亿理财爆雷",
+      "onboard_time": 1766488941,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 86883,
@@ -8755,6 +8867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49963,
+      "num": 136310,
+      "word": "陌生人入室打伤女孩警方认定互殴",
+      "onboard_time": 1766488280,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49664,
       "num": 90400,
       "word": "易烊千玺想一个人出去旅行",
@@ -9081,6 +9201,14 @@
       "onboard_time": 1766423958,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41678,
+      "num": 131019,
+      "word": "查出乙肝是不是这辈子就完了",
+      "onboard_time": 1766488280,
+      "rank": 38,
+      "category": "综艺,健康医疗"
     },
     {
       "raw_hot": 41634,
@@ -10049,6 +10177,14 @@
       "onboard_time": 1766363660,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20981,
+      "num": 181630,
+      "word": "外交部亚洲事务特使赴泰柬穿梭调停",
+      "onboard_time": 1766487801,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20849,

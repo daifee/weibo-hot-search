@@ -1,0 +1,410 @@
+{
+  "runTime": 1766489229876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 483386,
+        "num": 1077341,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 364995,
+        "num": 364995,
+        "word": "泰国感谢中方",
+        "onboard_time": 1766481501,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48020,
+        "num": 363718,
+        "word": "包银高铁全线开通",
+        "onboard_time": 1766480541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591512,
+        "num": 350094,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 3,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 438282,
+        "num": 336088,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633831,
+        "num": 322261,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485229,
+        "num": 313441,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420465,
+        "num": 303551,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297630,
+        "num": 297630,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280407,
+        "num": 280407,
+        "word": "日本发生含放射性水泄漏事件",
+        "onboard_time": 1766485161,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 493928,
+        "num": 265347,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333106,
+        "num": 262130,
+        "word": "汪东城收藏了一堆王玉雯视频",
+        "onboard_time": 1766479101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280938,
+        "num": 258848,
+        "word": "时代少年团在高会直播",
+        "onboard_time": 1766487081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247173,
+        "num": 247173,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245393,
+        "num": 245393,
+        "word": "鞠婧祎迅猛龙合照",
+        "onboard_time": 1766480000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236324,
+        "num": 236324,
+        "word": "小洛熙后又一家长举报宁波妇儿医院",
+        "onboard_time": 1766479161,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219544,
+        "num": 219544,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209275,
+        "num": 209275,
+        "word": "原神",
+        "onboard_time": 1766487441,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197363,
+        "num": 197363,
+        "word": "高铁B座宽一些",
+        "onboard_time": 1766470521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100011,
+        "num": 195178,
+        "word": "男子醉驾撞死支教女教师获刑2年半",
+        "onboard_time": 1766482640,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670914,
+        "num": 194845,
+        "word": "韦雪前夫自曝19岁当爸",
+        "onboard_time": 1766485823,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199722,
+        "num": 194664,
+        "word": "张子墨身上痒就去洗澡",
+        "onboard_time": 1766487680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194234,
+        "num": 194234,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20981,
+        "num": 181630,
+        "word": "外交部亚洲事务特使赴泰柬穿梭调停",
+        "onboard_time": 1766487801,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181353,
+        "num": 181353,
+        "word": "曝Bin向Kakao道歉",
+        "onboard_time": 1766487022,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "爱过的人突然比我大了几十岁",
+        "onboard_time": 1766487621,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163310,
+        "num": 163310,
+        "word": "非诚勿扰2025年最快灭灯记录",
+        "onboard_time": 1766480482,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "骄阳似我追剧团直播",
+        "onboard_time": 1766476282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140772,
+        "num": 151669,
+        "word": "私聊发不雅内容不再只是社死",
+        "onboard_time": 1766487380,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87220,
+        "num": 151017,
+        "word": "黄金巨头金雅福70亿理财爆雷",
+        "onboard_time": 1766488941,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150914,
+        "num": 150914,
+        "word": "朱孝天 场面话听听就算了吧",
+        "onboard_time": 1766475801,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "OMG零封BLG",
+        "onboard_time": 1766486900,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142408,
+        "num": 142408,
+        "word": "实探小洛熙事件涉事医院",
+        "onboard_time": 1766485222,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140665,
+        "num": 140665,
+        "word": "今屿 久酷",
+        "onboard_time": 1766486120,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140384,
+        "num": 140384,
+        "word": "中方回应乌克兰或将制裁中国公民",
+        "onboard_time": 1766480902,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31285,
+        "num": 138371,
+        "word": "吴彦祖不愧是彦祖",
+        "onboard_time": 1766484261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49963,
+        "num": 136310,
+        "word": "陌生人入室打伤女孩警方认定互殴",
+        "onboard_time": 1766488280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108131,
+        "num": 132401,
+        "word": "美司法部火速删除爱泼斯坦自杀视频",
+        "onboard_time": 1766488461,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41678,
+        "num": 131019,
+        "word": "查出乙肝是不是这辈子就完了",
+        "onboard_time": 1766488280,
+        "rank": 38,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 82266,
+        "num": 128590,
+        "word": "金价突破1400元",
+        "onboard_time": 1766468480,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122732,
+        "num": 125814,
+        "word": "一代人有一代人的烟花",
+        "onboard_time": 1766487801,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123635,
+        "num": 123635,
+        "word": "现在就出发3",
+        "onboard_time": 1766484081,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 121491,
+        "word": "虞书欣姜暮外网评论",
+        "onboard_time": 1766481081,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101533,
+        "num": 120079,
+        "word": "老人要求从养老院回家遭拒后自杀",
+        "onboard_time": 1766487801,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118693,
+        "num": 118693,
+        "word": "双轨偏偏你最争气",
+        "onboard_time": 1766477361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114152,
+        "num": 114152,
+        "word": "网友质疑河南小学火灾班主任被判刑",
+        "onboard_time": 1766480781,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112601,
+        "num": 112601,
+        "word": "这就是我不坐大摆锤的原因",
+        "onboard_time": 1766488881,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 865909,
+        "num": 110985,
+        "word": "医院称小洛熙家属公布的报告不完整",
+        "onboard_time": 1766483780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104669,
+        "num": 104669,
+        "word": "这4类人喝咖啡会格外受益",
+        "onboard_time": 1766486541,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103643,
+        "num": 103643,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对中央企业工作作出重要指示#"
+    }
+  }
+}
