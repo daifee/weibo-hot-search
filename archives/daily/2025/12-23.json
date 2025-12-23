@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766495556834,
+  "endTime": 1766497354431,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -9,6 +9,14 @@
       "onboard_time": 1766405900,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1796152,
+      "num": 554527,
+      "word": "王橹杰穆祉丞同台",
+      "onboard_time": 1766494701,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1720639,
@@ -25,14 +33,6 @@
       "onboard_time": 1766453541,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1611365,
-      "num": 554527,
-      "word": "王橹杰穆祉丞同台",
-      "onboard_time": 1766494701,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1440457,
@@ -187,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 795221,
+      "num": 288698,
+      "word": "吴千语直播带货卖了1.5亿",
+      "onboard_time": 1766494041,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784215,
       "num": 1125474,
       "word": "江苏省委省政府对南博开展全面调查",
       "onboard_time": 1766466801,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 769721,
-      "num": 288698,
-      "word": "吴千语直播带货卖了1.5亿",
-      "onboard_time": 1766494041,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 736003,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523621,
+      "num": 233861,
+      "word": "时代少年团直播",
+      "onboard_time": 1766495362,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519740,
       "num": 510048,
       "word": "骄阳似我",
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468779,
+      "num": 468779,
+      "word": "小洛熙事件涉事科室住院服务正常进行",
+      "onboard_time": 1766494582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467570,
       "num": 392831,
       "word": "金价突破1400元",
@@ -481,6 +497,14 @@
       "onboard_time": 1766457139,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 453727,
+      "num": 232839,
+      "word": "薛佳凝回应出家传闻",
+      "onboard_time": 1766495182,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 447276,
@@ -883,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218833,
-      "num": 218833,
-      "word": "小洛熙事件涉事科室住院服务正常进行",
-      "onboard_time": 1766494582,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217805,
       "num": 217805,
       "word": "爱奇艺真把黄景瑜的话当个事办了",
@@ -913,6 +929,14 @@
       "onboard_time": 1766416401,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209787,
+      "num": 209787,
+      "word": "仙逆 杨洋",
+      "onboard_time": 1766496201,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 209275,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202494,
+      "num": 202494,
+      "word": "穆祉丞今日下班照",
+      "onboard_time": 1766496561,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201525,
       "num": 201525,
       "word": "邮轮失联中国女子在德当护士",
@@ -961,14 +993,6 @@
       "onboard_time": 1766466861,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200488,
-      "num": 200488,
-      "word": "时代少年团直播",
-      "onboard_time": 1766495362,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 199952,
@@ -1099,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185072,
+      "num": 134444,
+      "word": "美国最神秘连环杀手多年前已去世",
+      "onboard_time": 1766496742,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184770,
       "num": 161991,
       "word": "斩杀线",
@@ -1179,6 +1211,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181750,
+      "num": 181750,
+      "word": "她坠楼了他接住了我尖叫了",
+      "onboard_time": 1766496922,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181548,
+      "num": 172361,
+      "word": "顾漫 骄阳似我男二",
+      "onboard_time": 1766496802,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181353,
       "num": 181353,
       "word": "曝Bin向Kakao道歉",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1766481260,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178665,
+      "num": 210229,
+      "word": "微博年度报告终于要来了",
+      "onboard_time": 1766496861,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 176371,
@@ -1379,6 +1435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152299,
+      "num": 152299,
+      "word": "演了7集男女主颗粒度一点没对齐",
+      "onboard_time": 1766494162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151721,
       "num": 151721,
       "word": "庞铮1分钟视频报价3.5万",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1766467942,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146535,
-      "num": 146535,
-      "word": "薛佳凝回应出家传闻",
-      "onboard_time": 1766495182,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 146259,
@@ -1667,16 +1723,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128985,
-      "num": 128985,
-      "word": "演了7集男女主颗粒度一点没对齐",
-      "onboard_time": 1766494162,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128885,
-      "num": 128885,
+      "num": 135296,
       "word": "买一墙泡泡玛特帮老婆戒网购瘾",
       "onboard_time": 1766492002,
       "rank": 36,
@@ -1779,6 +1827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 123862,
+      "num": 123862,
+      "word": "朋友说开车接我但没说是什么车",
+      "onboard_time": 1766496502,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123846,
       "num": 123846,
       "word": "男子杀发小妻儿一审被判死刑",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1766449642,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118647,
+      "num": 118647,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1766497282,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 118624,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1766453361,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111445,
+      "num": 111445,
+      "word": "澳门国际电影节",
+      "onboard_time": 1766496922,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 111198,
@@ -2243,6 +2315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100659,
+      "num": 100659,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1766496861,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100091,
       "num": 100091,
       "word": "欧豪 顶流花御用男主",
@@ -2313,6 +2393,14 @@
       "onboard_time": 1766448020,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96954,
+      "num": 135163,
+      "word": "常德一学校家长群建议捐款1000",
+      "onboard_time": 1766496142,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96924,
@@ -2579,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84498,
+      "num": 112353,
+      "word": "情侣分手后因为一个还字打起官司",
+      "onboard_time": 1766494942,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84469,
       "num": 84469,
       "word": "揭秘李艺彤新公司海西传媒",
@@ -2723,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71325,
+      "num": 111307,
+      "word": "小学生因丢作业被老师打至轻微伤",
+      "onboard_time": 1766496502,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69899,
       "num": 131772,
       "word": "广东私家车可入境香港市区",
@@ -2769,6 +2873,14 @@
       "onboard_time": 1766401581,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63727,
+      "num": 100779,
+      "word": "南博退休员工已接到协助调查通知",
+      "onboard_time": 1766495961,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63498,
@@ -2907,6 +3019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50935,
+      "num": 557430,
+      "word": "2026在高速服务区建超1万个充电枪",
+      "onboard_time": 1766495002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50358,
       "num": 159227,
       "word": "王霏霏表情管理精确到眨眼频率",
@@ -2929,6 +3049,14 @@
       "onboard_time": 1766423297,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49171,
+      "num": 111232,
+      "word": "男子杀害7月龄侄女被判死刑",
+      "onboard_time": 1766497221,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49041,
@@ -3105,14 +3233,6 @@
       "onboard_time": 1766467521,
       "rank": 18,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 38197,
-      "num": 105694,
-      "word": "情侣分手后因为一个还字打起官司",
-      "onboard_time": 1766494942,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37596,
@@ -3449,14 +3569,6 @@
       "onboard_time": 1766402721,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16084,
-      "num": 557430,
-      "word": "2026在高速服务区建超1万个充电枪",
-      "onboard_time": 1766495002,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14552,
