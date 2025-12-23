@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766504697613,
+  "endTime": 1766507842419,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1766290160,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475427,
+      "num": 196106,
+      "word": "杜克 一哥",
+      "onboard_time": 1766502685,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 473167,
@@ -2899,6 +2907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249072,
+      "num": 249072,
+      "word": "车厘子价格大跳水批发商却笑不出",
+      "onboard_time": 1766505323,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249009,
       "num": 249009,
       "word": "孟子义李昀锐下台也牵着手",
@@ -3107,6 +3123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "私聊不是淫秽信息的避风港",
+      "onboard_time": 1766504005,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224315,
       "num": 221199,
       "word": "王一博身心疲惫正调整状态",
@@ -3137,14 +3161,6 @@
       "onboard_time": 1766474061,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220348,
-      "num": 196106,
-      "word": "杜克 一哥",
-      "onboard_time": 1766502685,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 219584,
@@ -6363,14 +6379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124621,
-      "num": 124621,
-      "word": "私聊不是淫秽信息的避风港",
-      "onboard_time": 1766504005,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124495,
       "num": 124495,
       "word": "什么是双硫仑反应",
@@ -8307,6 +8315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89138,
+      "num": 89138,
+      "word": "云旗郝熠然直播",
+      "onboard_time": 1766505862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89067,
       "num": 89067,
       "word": "日本成全球最老龄化国家",
@@ -8571,6 +8587,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 82062,
+      "num": 111198,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81911,
       "num": 163321,
       "word": "双轨有效播放破3亿",
@@ -8737,6 +8761,14 @@
       "onboard_time": 1766324244,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77309,
+      "num": 88040,
+      "word": "7月大女婴被大伯杀害遗体仍未火化",
+      "onboard_time": 1766505683,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77035,
@@ -9043,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68695,
+      "num": 87955,
+      "word": "刘若英给阿信做猪脚面线",
+      "onboard_time": 1766506402,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68462,
       "num": 250293,
       "word": "美国务卿就近期中日关系表态",
@@ -9089,6 +9129,14 @@
       "onboard_time": 1766380102,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66308,
+      "num": 87975,
+      "word": "中方敦促美方立即撤销有关措施",
+      "onboard_time": 1766504903,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65742,
@@ -9257,6 +9305,14 @@
       "onboard_time": 1766297722,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61587,
+      "num": 87889,
+      "word": "看着像汉字但一个也不认识",
+      "onboard_time": 1766507000,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 61561,
@@ -9449,6 +9505,14 @@
       "onboard_time": 1766480541,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55168,
+      "num": 87749,
+      "word": "美国斩杀线现象",
+      "onboard_time": 1766507300,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54951,
@@ -9945,6 +10009,14 @@
       "onboard_time": 1766220201,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42057,
+      "num": 87720,
+      "word": "黄金巨头金雅福爆雷有人投超700万",
+      "onboard_time": 1766506164,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41953,
