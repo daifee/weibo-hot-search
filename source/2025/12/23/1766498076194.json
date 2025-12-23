@@ -1,0 +1,410 @@
+{
+  "runTime": 1766498076194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912994,
+        "num": 1146079,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 576927,
+        "num": 576927,
+        "word": "小洛熙事件涉事科室住院服务正常进行",
+        "onboard_time": 1766494582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58316,
+        "num": 445107,
+        "word": "2026在高速服务区建超1万个充电枪",
+        "onboard_time": 1766495002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1403528,
+        "num": 440725,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426439,
+        "num": 426439,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 4,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 1115401,
+        "num": 426344,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402578,
+        "num": 402578,
+        "word": "央视曝光免费装宽带骗局",
+        "onboard_time": 1766490680,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 393044,
+        "num": 393044,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323660,
+        "num": 323660,
+        "word": "仙逆 杨洋",
+        "onboard_time": 1766496201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269223,
+        "num": 323584,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793788,
+        "num": 323466,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504826,
+        "num": 323213,
+        "word": "薛佳凝回应出家传闻",
+        "onboard_time": 1766495182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404717,
+        "num": 323030,
+        "word": "时代少年团直播",
+        "onboard_time": 1766495362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347686,
+        "num": 322876,
+        "word": "她坠楼了他接住了我尖叫了",
+        "onboard_time": 1766496922,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322814,
+        "num": 322814,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255167,
+        "num": 255167,
+        "word": "男子4年强奸继女六七十次判24年半",
+        "onboard_time": 1766497943,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251215,
+        "num": 251215,
+        "word": "私聊发不雅内容不再只是社死",
+        "onboard_time": 1766487380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216357,
+        "num": 216357,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176915,
+        "num": 176915,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159221,
+        "num": 159221,
+        "word": "微博年度报告终于要来了",
+        "onboard_time": 1766496861,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508662,
+        "num": 158646,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 281283,
+        "num": 156839,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205914,
+        "num": 156285,
+        "word": "顾漫 骄阳似我男二",
+        "onboard_time": 1766496802,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189704,
+        "num": 154641,
+        "word": "穆祉丞今日下班照",
+        "onboard_time": 1766496561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191358,
+        "num": 153902,
+        "word": "庄序 何以琛",
+        "onboard_time": 1766490741,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122767,
+        "num": 152121,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173765,
+        "num": 150864,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1766497282,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 150585,
+        "word": "老舅",
+        "onboard_time": 1766498001,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149471,
+        "num": 149471,
+        "word": "澳门国际电影节",
+        "onboard_time": 1766496922,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111120,
+        "num": 146150,
+        "word": "买一墙泡泡玛特帮老婆戒网购瘾",
+        "onboard_time": 1766492002,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145377,
+        "num": 145377,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146482,
+        "num": 145185,
+        "word": "演了7集男女主颗粒度一点没对齐",
+        "onboard_time": 1766494162,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99571,
+        "num": 144319,
+        "word": "常德一学校家长群建议捐款1000",
+        "onboard_time": 1766496142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168581,
+        "num": 143566,
+        "word": "美国最神秘连环杀手多年前已去世",
+        "onboard_time": 1766496742,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151929,
+        "num": 142520,
+        "word": "朋友说开车接我但没说是什么车",
+        "onboard_time": 1766496502,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142328,
+        "num": 142328,
+        "word": "冉莹颖二儿子一年长了8厘米",
+        "onboard_time": 1766490982,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "郑恺被魔丸工作室卖掉了",
+        "onboard_time": 1766497341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110262,
+        "num": 129736,
+        "word": "宁波女婴术后离世调查进展",
+        "onboard_time": 1766485761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54678,
+        "num": 129673,
+        "word": "赵今麦最喜欢拾级而上名场面",
+        "onboard_time": 1766497701,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71992,
+        "num": 129649,
+        "word": "男子杀害7月龄侄女被判死刑",
+        "onboard_time": 1766497221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129648,
+        "num": 129648,
+        "word": "骄阳似我追剧团直播",
+        "onboard_time": 1766476282,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115789,
+        "num": 115789,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1766496861,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97262,
+        "num": 97262,
+        "word": "泰国感谢中方",
+        "onboard_time": 1766481501,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95991,
+        "num": 95991,
+        "word": "仙逆 选角",
+        "onboard_time": 1766490021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93510,
+        "num": 93510,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73774,
+        "num": 92905,
+        "word": "小学生因丢作业被老师打至轻微伤",
+        "onboard_time": 1766496502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92870,
+        "num": 92870,
+        "word": "丽江公开发函喊话小红书",
+        "onboard_time": 1766498001,
+        "rank": 46,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 90840,
+        "num": 90840,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766494640,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89294,
+        "num": 90176,
+        "word": "短剧王后 长剧气质大花气场",
+        "onboard_time": 1766491941,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89649,
+        "num": 89649,
+        "word": "阿信 朱孝天",
+        "onboard_time": 1766480902,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央企业要充分认识肩负的职责使命#"
+    }
+  }
+}
