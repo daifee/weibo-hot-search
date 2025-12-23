@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766455630314,
+  "endTime": 1766457041277,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -19,12 +19,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1137552,
-      "num": 623541,
+      "raw_hot": 1293255,
+      "num": 1293255,
       "word": "俄乌杀红了眼",
       "onboard_time": 1766453001,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1050562,
+      "num": 1050562,
+      "word": "长征十二号甲火箭",
+      "onboard_time": 1766454980,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1015206,
@@ -33,6 +41,22 @@
       "onboard_time": 1766415442,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 802813,
+      "num": 471690,
+      "word": "女生开电热毯睡太沉醒来屁股淤青",
+      "onboard_time": 1766453902,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698972,
+      "num": 514646,
+      "word": "发淫秽信息将违法并不侵犯个人隐私",
+      "onboard_time": 1766450602,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 672562,
@@ -83,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 514646,
-      "num": 514646,
-      "word": "发淫秽信息将违法并不侵犯个人隐私",
-      "onboard_time": 1766450602,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 541089,
+      "num": 438493,
+      "word": "鞠婧祎全球首戴",
+      "onboard_time": 1766452461,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500134,
@@ -99,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438493,
-      "num": 438493,
-      "word": "鞠婧祎全球首戴",
-      "onboard_time": 1766452461,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 406191,
       "num": 406191,
       "word": "骄阳似我 男二",
@@ -115,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377350,
-      "num": 471690,
-      "word": "女生开电热毯睡太沉醒来屁股淤青",
-      "onboard_time": 1766453902,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 376926,
+      "num": 458848,
+      "word": "金饰价一夜涨36元",
+      "onboard_time": 1766454081,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 371021,
@@ -129,6 +145,14 @@
       "onboard_time": 1766406321,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347301,
+      "num": 347301,
+      "word": "玉兰花开君再来",
+      "onboard_time": 1766456420,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 334723,
@@ -171,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295432,
-      "num": 295432,
-      "word": "长征十二号甲火箭",
-      "onboard_time": 1766454980,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
@@ -201,6 +217,14 @@
       "onboard_time": 1766415263,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225916,
+      "num": 225916,
+      "word": "女孩打翻水杯背后是家庭教育缺位",
+      "onboard_time": 1766452700,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 212538,
@@ -235,12 +259,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 194817,
-      "num": 458848,
-      "word": "金饰价一夜涨36元",
-      "onboard_time": 1766454081,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 198838,
+      "num": 198838,
+      "word": "iPhone实况图的选取机制",
+      "onboard_time": 1766452520,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 189014,
@@ -257,6 +281,14 @@
       "onboard_time": 1766407823,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184306,
+      "num": 184306,
+      "word": "南京博物院",
+      "onboard_time": 1766456601,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175926,
@@ -291,14 +323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167380,
-      "num": 167380,
-      "word": "女孩打翻水杯背后是家庭教育缺位",
-      "onboard_time": 1766452700,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 166793,
       "num": 161471,
       "word": "曝杨洋和顶流95花谈过恋爱",
@@ -323,20 +347,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 143812,
-      "num": 143812,
+      "raw_hot": 155569,
+      "num": 155569,
       "word": "98%中国亿万富豪都是白手起家",
       "onboard_time": 1766451981,
       "rank": 24,
       "category": "财经"
     },
     {
-      "raw_hot": 140749,
-      "num": 140749,
-      "word": "iPhone实况图的选取机制",
-      "onboard_time": 1766452520,
-      "rank": 25,
-      "category": "数码"
+      "raw_hot": 130392,
+      "num": 130392,
+      "word": "玉兰花开君再来开机预热",
+      "onboard_time": 1766413943,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124623,
+      "num": 124623,
+      "word": "熬夜后多吃3类食物补救",
+      "onboard_time": 1766450721,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124495,
+      "num": 124495,
+      "word": "什么是双硫仑反应",
+      "onboard_time": 1766456779,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123334,
@@ -345,14 +385,6 @@
       "onboard_time": 1766451322,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123215,
-      "num": 123215,
-      "word": "熬夜后多吃3类食物补救",
-      "onboard_time": 1766450721,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 119794,
@@ -411,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108787,
+      "num": 169035,
+      "word": "日本第17次核污染水排海结束",
+      "onboard_time": 1766455460,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108362,
       "num": 161287,
       "word": "骄阳似我破纪录",
       "onboard_time": 1766412263,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103905,
+      "num": 103905,
+      "word": "竞浪大会推荐",
+      "onboard_time": 1766447719,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 103461,
@@ -507,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86731,
+      "num": 86731,
+      "word": "有了这个椅子还有请保姆的必要性吗",
+      "onboard_time": 1766456959,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85567,
       "num": 161039,
       "word": "老舅",
@@ -555,12 +611,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78922,
-      "num": 78922,
-      "word": "竞浪大会推荐",
-      "onboard_time": 1766447719,
+      "raw_hot": 81645,
+      "num": 81645,
+      "word": "盘点孙颖莎2025逆转名场面",
+      "onboard_time": 1766448500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81383,
+      "num": 81383,
+      "word": "桃黑黑有一个很爱他的妈妈",
+      "onboard_time": 1766455881,
+      "rank": 47,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 81312,
+      "num": 81312,
+      "word": "我国又有一个全球首艘",
+      "onboard_time": 1766456540,
       "rank": 48,
-      "category": "电竞"
+      "category": "国内时政"
     },
     {
       "raw_hot": 78195,
@@ -611,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68934,
+      "num": 86911,
+      "word": "妻子被砍杀8岁儿子扑上挡刀",
+      "onboard_time": 1766456061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66536,
       "num": 160336,
       "word": "原来人真的是被命运推着走的",
@@ -633,6 +713,14 @@
       "onboard_time": 1766401581,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63498,
+      "num": 126018,
+      "word": "苹果公司被罚约9860万欧元",
+      "onboard_time": 1766456119,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 61561,
@@ -668,7 +756,7 @@
     },
     {
       "raw_hot": 54651,
-      "num": 655503,
+      "num": 706133,
       "word": "利用AI造谣中国女篮两男子刑拘",
       "onboard_time": 1766449100,
       "rank": 2,
@@ -732,7 +820,7 @@
     },
     {
       "raw_hot": 46434,
-      "num": 119251,
+      "num": 156396,
       "word": "阿福绑定智能手表有摔倒急救服务",
       "onboard_time": 1766455460,
       "rank": 32,
@@ -819,14 +907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37737,
-      "num": 126605,
-      "word": "日本第17次核污染水排海结束",
-      "onboard_time": 1766455460,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36959,
       "num": 48165,
       "word": "中央军委举行晋升上将军衔仪式",
@@ -865,6 +945,14 @@
       "onboard_time": 1766423418,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34608,
+      "num": 154595,
+      "word": "4.99元连衣裙盲盒产业",
+      "onboard_time": 1766456061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31609,
