@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766503903857,
+  "endTime": 1766504697613,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1187,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10765150,
+      "num": 10765150,
+      "word": "阚清子",
+      "onboard_time": 1766501422,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10742821,
       "num": 10742821,
       "word": "张碧晨告别年轮",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1744769062,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10447562,
-      "num": 10447562,
-      "word": "阚清子",
-      "onboard_time": 1766501422,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 10433504,
