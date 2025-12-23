@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766483244517,
+  "endTime": 1766486003077,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 987950,
+      "num": 481367,
+      "word": "自称考北大睡过头女生回应选择北大",
+      "onboard_time": 1766482761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 987564,
       "num": 239645,
       "word": "王彦霖投票肖战King",
@@ -123,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 838713,
-      "num": 838713,
+      "raw_hot": 869255,
+      "num": 869255,
       "word": "宁波女婴术后离世医疗事故鉴定启动",
       "onboard_time": 1766482041,
       "rank": 5,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 677951,
-      "num": 373208,
+      "num": 473072,
       "word": "iPhone烟花模式",
       "onboard_time": 1766481560,
       "rank": 6,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 646399,
-      "num": 279543,
+      "num": 302586,
       "word": "汪东城收藏了一堆王玉雯视频",
       "onboard_time": 1766479101,
       "rank": 49,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 631207,
-      "num": 279838,
+      "num": 301309,
       "word": "小洛熙后又一家长举报宁波妇儿医院",
       "onboard_time": 1766479161,
       "rank": 16,
@@ -249,6 +257,14 @@
       "onboard_time": 1766461341,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 566121,
+      "num": 566121,
+      "word": "唐朝诡事录官宣第五季",
+      "onboard_time": 1766482821,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 555496,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 530505,
-      "num": 279316,
+      "num": 301748,
       "word": "鞠婧祎迅猛龙合照",
       "onboard_time": 1766480000,
       "rank": 13,
@@ -323,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 497499,
+      "num": 302099,
+      "word": "医院称小洛熙家属公布的报告不完整",
+      "onboard_time": 1766483780,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491291,
       "num": 1048435,
       "word": "唐诡奇谭之九重楼定档",
@@ -337,6 +361,14 @@
       "onboard_time": 1766471360,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484204,
+      "num": 484204,
+      "word": "泰国感谢中方",
+      "onboard_time": 1766481501,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 481184,
@@ -377,6 +409,14 @@
       "onboard_time": 1766457139,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447716,
+      "num": 447716,
+      "word": "第一次吃生鱼片悄悄用油炸熟了",
+      "onboard_time": 1766484321,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 447276,
@@ -449,14 +489,6 @@
       "onboard_time": 1766454081,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 376024,
-      "num": 376024,
-      "word": "泰国感谢中方",
-      "onboard_time": 1766481501,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 371021,
@@ -643,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263610,
+      "num": 263610,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 261423,
       "num": 198994,
       "word": "华为何刚晒与易烊千玺合照",
@@ -696,14 +736,6 @@
       "word": "骄阳似我追剧团",
       "onboard_time": 1766474061,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 220192,
-      "num": 220192,
-      "word": "唐朝诡事录官宣第五季",
-      "onboard_time": 1766482821,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -787,6 +819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 199822,
+      "num": 181647,
+      "word": "阿信 朱孝天",
+      "onboard_time": 1766480902,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198838,
       "num": 198838,
       "word": "iPhone实况图的选取机制",
@@ -832,6 +872,14 @@
       "word": "顾漫现偶唯一真神",
       "onboard_time": 1766471541,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 189785,
+      "word": "对不起李雾",
+      "onboard_time": 1766485281,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -923,20 +971,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182330,
-      "num": 182330,
-      "word": "自称考北大睡过头女生回应选择北大",
-      "onboard_time": 1766482761,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182126,
       "num": 182126,
       "word": "竞浪大会推荐",
       "onboard_time": 1766447719,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182111,
+      "num": 182111,
+      "word": "网友质疑河南小学火灾班主任被判刑",
+      "onboard_time": 1766480781,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181935,
+      "num": 181935,
+      "word": "王一博熟悉的感觉回来了",
+      "onboard_time": 1766484981,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180853,
@@ -953,6 +1009,14 @@
       "onboard_time": 1766481260,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176371,
+      "num": 258857,
+      "word": "男子醉驾撞死支教女教师获刑2年半",
+      "onboard_time": 1766482640,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175926,
@@ -979,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171971,
+      "num": 171971,
+      "word": "现在就出发3",
+      "onboard_time": 1766484081,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170544,
       "num": 170544,
       "word": "成龙彭昱畅别刀了我自己哭",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1766463141,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168494,
-      "num": 168494,
-      "word": "网友质疑河南小学火灾班主任被判刑",
-      "onboard_time": 1766480781,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166793,
@@ -1059,20 +1123,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 158972,
-      "num": 158972,
-      "word": "阿信 朱孝天",
-      "onboard_time": 1766480902,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158618,
       "num": 158618,
       "word": "快速保暖邪修",
       "onboard_time": 1766472320,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "日本发生含放射性水泄漏事件",
+      "onboard_time": 1766485161,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156608,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 155381,
-      "num": 155381,
+      "num": 157350,
       "word": "2026年幼儿园收费新规",
       "onboard_time": 1766482282,
       "rank": 40,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1766474422,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143812,
+      "num": 148930,
+      "word": "宁波女婴术后离世调查进展",
+      "onboard_time": 1766485761,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142551,
@@ -1281,6 +1353,22 @@
       "onboard_time": 1766465003,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132024,
+      "num": 132024,
+      "word": "韦雪前夫自曝19岁当爸",
+      "onboard_time": 1766485823,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 131438,
+      "num": 131438,
+      "word": "BLG对战OMG",
+      "onboard_time": 1766485041,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 130959,
@@ -1435,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123155,
+      "num": 123155,
+      "word": "谍报上不封顶",
+      "onboard_time": 1766484020,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122661,
       "num": 122661,
       "word": "离职最划算的月份",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1766467040,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119855,
+      "num": 268175,
+      "word": "实探小洛熙事件涉事医院",
+      "onboard_time": 1766485222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119794,
@@ -1483,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119499,
+      "num": 119499,
+      "word": "高知女主脸具象化",
+      "onboard_time": 1766482640,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 119139,
       "num": 119139,
       "word": "何以笙箫默全集限免了",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1766455881,
       "rank": 47,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 116665,
+      "num": 116665,
+      "word": "长安二十四计",
+      "onboard_time": 1766485641,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 114381,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1766477120,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 101247,
+      "num": 106936,
+      "word": "曝字节跳动拟1600亿元投资人工智能",
+      "onboard_time": 1766483301,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 100890,
@@ -2299,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55360,
+      "num": 661838,
+      "word": "包银高铁全线开通",
+      "onboard_time": 1766480541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55158,
       "num": 159340,
       "word": "骄阳似我全糖啵啵预告",
@@ -2401,14 +2537,6 @@
       "onboard_time": 1766414362,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47552,
-      "num": 554025,
-      "word": "包银高铁全线开通",
-      "onboard_time": 1766480541,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47139,
@@ -2635,11 +2763,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33813,
-      "num": 258857,
-      "word": "男子醉驾撞死支教女教师获刑2年半",
-      "onboard_time": 1766482640,
-      "rank": 18,
+      "raw_hot": 32108,
+      "num": 137938,
+      "word": "上海一水泥搅拌车撞塌围墙致2死",
+      "onboard_time": 1766485161,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2681,6 +2809,14 @@
       "onboard_time": 1766481622,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30849,
+      "num": 204862,
+      "word": "吴彦祖不愧是彦祖",
+      "onboard_time": 1766484261,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 30796,

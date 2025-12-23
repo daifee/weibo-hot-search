@@ -1,0 +1,410 @@
+{
+  "runTime": 1766486003077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027665,
+        "num": 1164426,
+        "word": "夫妻或情侣互发私密照违法吗",
+        "onboard_time": 1766478022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869255,
+        "num": 869255,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 55360,
+        "num": 661838,
+        "word": "包银高铁全线开通",
+        "onboard_time": 1766480541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566121,
+        "num": 566121,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484204,
+        "num": 484204,
+        "word": "泰国感谢中方",
+        "onboard_time": 1766481501,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 987950,
+        "num": 481367,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579374,
+        "num": 473072,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 447716,
+        "num": 447716,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306481,
+        "num": 306481,
+        "word": "非诚勿扰2025年最快灭灯记录",
+        "onboard_time": 1766480482,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302775,
+        "num": 302775,
+        "word": "中方回应乌克兰或将制裁中国公民",
+        "onboard_time": 1766480902,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 524918,
+        "num": 302586,
+        "word": "汪东城收藏了一堆王玉雯视频",
+        "onboard_time": 1766479101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497499,
+        "num": 302099,
+        "word": "医院称小洛熙家属公布的报告不完整",
+        "onboard_time": 1766483780,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406868,
+        "num": 301748,
+        "word": "鞠婧祎迅猛龙合照",
+        "onboard_time": 1766480000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394222,
+        "num": 301309,
+        "word": "小洛熙后又一家长举报宁波妇儿医院",
+        "onboard_time": 1766479161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307580,
+        "num": 300978,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300577,
+        "num": 300577,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293033,
+        "num": 293033,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286566,
+        "num": 286566,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199276,
+        "num": 273852,
+        "word": "高铁B座宽一些",
+        "onboard_time": 1766470521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119855,
+        "num": 268175,
+        "word": "实探小洛熙事件涉事医院",
+        "onboard_time": 1766485222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263610,
+        "num": 263610,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 258678,
+        "num": 258678,
+        "word": "31岁才知道8块钱有多难挣",
+        "onboard_time": 1766462061,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232671,
+        "num": 232671,
+        "word": "朱孝天 场面话听听就算了吧",
+        "onboard_time": 1766475801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30849,
+        "num": 204862,
+        "word": "吴彦祖不愧是彦祖",
+        "onboard_time": 1766484261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189785,
+        "num": 189785,
+        "word": "对不起李雾",
+        "onboard_time": 1766485281,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182111,
+        "num": 182111,
+        "word": "网友质疑河南小学火灾班主任被判刑",
+        "onboard_time": 1766480781,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181935,
+        "num": 181935,
+        "word": "王一博熟悉的感觉回来了",
+        "onboard_time": 1766484981,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199822,
+        "num": 181647,
+        "word": "阿信 朱孝天",
+        "onboard_time": 1766480902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176371,
+        "num": 176371,
+        "word": "男子醉驾撞死支教女教师获刑2年半",
+        "onboard_time": 1766482640,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171971,
+        "num": 171971,
+        "word": "现在就出发3",
+        "onboard_time": 1766484081,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167891,
+        "num": 167891,
+        "word": "骄阳似我追剧团直播",
+        "onboard_time": 1766476282,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160097,
+        "num": 160097,
+        "word": "虞书欣姜暮外网评论",
+        "onboard_time": 1766481081,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137963,
+        "num": 157350,
+        "word": "2026年幼儿园收费新规",
+        "onboard_time": 1766482282,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156890,
+        "num": 156890,
+        "word": "日本发生含放射性水泄漏事件",
+        "onboard_time": 1766485161,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143812,
+        "num": 148930,
+        "word": "宁波女婴术后离世调查进展",
+        "onboard_time": 1766485761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145650,
+        "num": 145650,
+        "word": "孟子义腿还在疼",
+        "onboard_time": 1766480000,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144252,
+        "num": 144252,
+        "word": "肖战在剧组把王彦霖迷成啥了",
+        "onboard_time": 1766471240,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32108,
+        "num": 137938,
+        "word": "上海一水泥搅拌车撞塌围墙致2死",
+        "onboard_time": 1766485161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133093,
+        "num": 133093,
+        "word": "家属已申请重新鉴定小洛熙病历",
+        "onboard_time": 1766480420,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 132024,
+        "num": 132024,
+        "word": "韦雪前夫自曝19岁当爸",
+        "onboard_time": 1766485823,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131771,
+        "num": 131771,
+        "word": "杨紫一步一步一部一部",
+        "onboard_time": 1766481382,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131438,
+        "num": 131438,
+        "word": "BLG对战OMG",
+        "onboard_time": 1766485041,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128917,
+        "num": 128917,
+        "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+        "onboard_time": 1766466623,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123155,
+        "num": 123155,
+        "word": "谍报上不封顶",
+        "onboard_time": 1766484020,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119499,
+        "num": 119499,
+        "word": "高知女主脸具象化",
+        "onboard_time": 1766482640,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 116665,
+        "num": 116665,
+        "word": "长安二十四计",
+        "onboard_time": 1766485641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107806,
+        "num": 107806,
+        "word": "Faker成都见面会",
+        "onboard_time": 1766482400,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "双轨偏偏你最争气",
+        "onboard_time": 1766477361,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107321,
+        "num": 107321,
+        "word": "金价突破1400元",
+        "onboard_time": 1766468480,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101247,
+        "num": 106936,
+        "word": "曝字节跳动拟1600亿元投资人工智能",
+        "onboard_time": 1766483301,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对中央企业工作作出重要指示#"
+    }
+  }
+}
