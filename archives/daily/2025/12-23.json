@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766479997338,
+  "endTime": 1766482428913,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -11,19 +11,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1720639,
+      "num": 1720639,
+      "word": "夫妻或情侣互发私密照违法吗",
+      "onboard_time": 1766478022,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1656686,
       "num": 1022725,
       "word": "官方通报南京博物院事件",
       "onboard_time": 1766453541,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1413363,
-      "num": 1413363,
-      "word": "夫妻或情侣互发私密照违法吗",
-      "onboard_time": 1766478022,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -203,6 +203,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 631207,
+      "num": 279838,
+      "word": "小洛熙后又一家长举报宁波妇儿医院",
+      "onboard_time": 1766479161,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620995,
+      "num": 279543,
+      "word": "汪东城收藏了一堆王玉雯视频",
+      "onboard_time": 1766479101,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606790,
       "num": 401454,
       "word": "阿信摔下舞台",
@@ -249,6 +265,14 @@
       "onboard_time": 1766452461,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 530505,
+      "num": 279316,
+      "word": "鞠婧祎迅猛龙合照",
+      "onboard_time": 1766480000,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 510048,
@@ -459,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326803,
+      "num": 326803,
+      "word": "非诚勿扰2025年最快灭灯记录",
+      "onboard_time": 1766480482,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326759,
       "num": 326759,
       "word": "疯狂动物城2近一半票房来自中国",
@@ -475,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317187,
+      "num": 276291,
+      "word": "孟子义腿还在疼",
+      "onboard_time": 1766480000,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316093,
       "num": 241127,
       "word": "周末双休工资到手5000",
       "onboard_time": 1766465542,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314819,
+      "num": 314819,
+      "word": "中方回应乌克兰或将制裁中国公民",
+      "onboard_time": 1766480902,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 314778,
@@ -523,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289694,
-      "num": 183085,
-      "word": "汪东城收藏了一堆王玉雯视频",
-      "onboard_time": 1766479101,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 290995,
+      "num": 290995,
+      "word": "宁波女婴术后离世医疗事故鉴定启动",
+      "onboard_time": 1766482041,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287834,
@@ -537,6 +585,22 @@
       "onboard_time": 1766464160,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 286224,
+      "num": 286224,
+      "word": "iPhone烟花模式",
+      "onboard_time": 1766481560,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 286110,
+      "num": 286110,
+      "word": "泰国感谢中方",
+      "onboard_time": 1766481501,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 284843,
@@ -571,11 +635,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269932,
-      "num": 182326,
-      "word": "小洛熙后又一家长举报宁波妇儿医院",
-      "onboard_time": 1766479161,
-      "rank": 16,
+      "raw_hot": 264742,
+      "num": 276490,
+      "word": "家属已申请重新鉴定小洛熙病历",
+      "onboard_time": 1766480420,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -635,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219547,
+      "num": 219547,
+      "word": "唐朝诡事录",
+      "onboard_time": 1766481260,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217805,
       "num": 217805,
       "word": "爱奇艺真把黄景瑜的话当个事办了",
@@ -673,6 +745,14 @@
       "onboard_time": 1766412685,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 203580,
+      "num": 203580,
+      "word": "虞书欣姜暮外网评论",
+      "onboard_time": 1766481081,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 201525,
@@ -763,6 +843,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 187622,
+      "num": 187622,
+      "word": "杨紫一步一步一部一部",
+      "onboard_time": 1766481382,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187395,
       "num": 187395,
       "word": "时代峰峻新公司经营异常",
@@ -843,6 +931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175655,
+      "num": 175655,
+      "word": "宋茜下月可能是光头",
+      "onboard_time": 1766481260,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175543,
       "num": 175543,
       "word": "韩四大企业集团掌门人拟访华",
@@ -881,6 +977,14 @@
       "onboard_time": 1766463141,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168494,
+      "num": 168494,
+      "word": "网友质疑河南小学火灾班主任被判刑",
+      "onboard_time": 1766480781,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166793,
@@ -961,6 +1065,14 @@
       "onboard_time": 1766465602,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154701,
+      "num": 154701,
+      "word": "三部门要求完善幼儿园收费政策",
+      "onboard_time": 1766481321,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 151721,
@@ -1123,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132449,
+      "num": 132449,
+      "word": "2026年幼儿园收费新规",
+      "onboard_time": 1766482282,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "冬天降温后的邪修取暖大法",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1766477600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125852,
+      "num": 125852,
+      "word": "第一批自制羽绒服的后悔了",
+      "onboard_time": 1766480781,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125596,
@@ -1331,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118590,
+      "num": 118590,
+      "word": "阿信 朱孝天",
+      "onboard_time": 1766480902,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "李莎旻子 不是身体病了才能看医生",
@@ -1457,6 +1593,14 @@
       "onboard_time": 1766455460,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108432,
+      "num": 108432,
+      "word": "Faker成都见面会",
+      "onboard_time": 1766482400,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 108362,
@@ -1716,7 +1860,7 @@
     },
     {
       "raw_hot": 93689,
-      "num": 178763,
+      "num": 277383,
       "word": "唐国强用荣耀WIN再借东风",
       "onboard_time": 1766479101,
       "rank": 34,
@@ -1923,6 +2067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82375,
+      "num": 277911,
+      "word": "浙江派出工作组督导",
+      "onboard_time": 1766482041,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "我国又有一个全球首艘",
@@ -2003,12 +2155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71959,
+      "num": 150449,
+      "word": "奥运冠军樊振东陈梦的另一种选择",
+      "onboard_time": 1766481801,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69899,
       "num": 131772,
       "word": "广东私家车可入境香港市区",
       "onboard_time": 1766455221,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66806,
+      "num": 150392,
+      "word": "樊振东所在俱乐部排名升至第二",
+      "onboard_time": 1766481981,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 66536,
@@ -2227,6 +2395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45569,
+      "num": 347186,
+      "word": "包银高铁全线开通",
+      "onboard_time": 1766480541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45062,
       "num": 137670,
       "word": "林俊杰一开嗓段奕宏王宝强更好嗑了",
@@ -2256,6 +2432,14 @@
       "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
       "onboard_time": 1766461279,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42965,
+      "num": 277691,
+      "word": "女子称在豪华酒店泡温泉后尿血",
+      "onboard_time": 1766481441,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2456,6 +2640,14 @@
       "word": "男子杀害7个月大侄女案一审将宣判",
       "onboard_time": 1766474960,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29145,
+      "num": 150894,
+      "word": "双臂缺失男子被弟弟冒名结婚34年",
+      "onboard_time": 1766481622,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

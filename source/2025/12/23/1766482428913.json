@@ -1,0 +1,410 @@
+{
+  "runTime": 1766482428913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720639,
+        "num": 1720639,
+        "word": "夫妻或情侣互发私密照违法吗",
+        "onboard_time": 1766478022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378731,
+        "num": 378731,
+        "word": "大疆对美方决定表示遗憾",
+        "onboard_time": 1766476761,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45569,
+        "num": 347186,
+        "word": "包银高铁全线开通",
+        "onboard_time": 1766480541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326803,
+        "num": 326803,
+        "word": "非诚勿扰2025年最快灭灯记录",
+        "onboard_time": 1766480482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314819,
+        "num": 314819,
+        "word": "中方回应乌克兰或将制裁中国公民",
+        "onboard_time": 1766480902,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290995,
+        "num": 290995,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286224,
+        "num": 286224,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286110,
+        "num": 286110,
+        "word": "泰国感谢中方",
+        "onboard_time": 1766481501,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280492,
+        "num": 280492,
+        "word": "高铁B座宽一些",
+        "onboard_time": 1766470521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274260,
+        "num": 280425,
+        "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+        "onboard_time": 1766466623,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405272,
+        "num": 280134,
+        "word": "31岁才知道8块钱有多难挣",
+        "onboard_time": 1766462061,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 631207,
+        "num": 279838,
+        "word": "小洛熙后又一家长举报宁波妇儿医院",
+        "onboard_time": 1766479161,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620995,
+        "num": 279543,
+        "word": "汪东城收藏了一堆王玉雯视频",
+        "onboard_time": 1766479101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530505,
+        "num": 279316,
+        "word": "鞠婧祎迅猛龙合照",
+        "onboard_time": 1766480000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266540,
+        "num": 279037,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509633,
+        "num": 278700,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502378,
+        "num": 278303,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82375,
+        "num": 277911,
+        "word": "浙江派出工作组督导",
+        "onboard_time": 1766482041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42965,
+        "num": 277691,
+        "word": "女子称在豪华酒店泡温泉后尿血",
+        "onboard_time": 1766481441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28295,
+        "num": 277383,
+        "word": "唐国强用荣耀WIN再借东风",
+        "onboard_time": 1766479101,
+        "rank": 19,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 373452,
+        "num": 277215,
+        "word": "朱孝天 场面话听听就算了吧",
+        "onboard_time": 1766475801,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359017,
+        "num": 276955,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264742,
+        "num": 276490,
+        "word": "家属已申请重新鉴定小洛熙病历",
+        "onboard_time": 1766480420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317187,
+        "num": 276291,
+        "word": "孟子义腿还在疼",
+        "onboard_time": 1766480000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276157,
+        "num": 276157,
+        "word": "肖战在剧组把王彦霖迷成啥了",
+        "onboard_time": 1766471240,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219547,
+        "num": 219547,
+        "word": "唐朝诡事录",
+        "onboard_time": 1766481260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203580,
+        "num": 203580,
+        "word": "虞书欣姜暮外网评论",
+        "onboard_time": 1766481081,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191554,
+        "num": 191554,
+        "word": "金价突破1400元",
+        "onboard_time": 1766468480,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187622,
+        "num": 187622,
+        "word": "杨紫一步一步一部一部",
+        "onboard_time": 1766481382,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185848,
+        "num": 185848,
+        "word": "性侵5名学生案维持死刑判决",
+        "onboard_time": 1766475624,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185003,
+        "num": 185003,
+        "word": "骄阳似我追剧团直播",
+        "onboard_time": 1766476282,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180278,
+        "num": 180278,
+        "word": "周末双休工资到手5000",
+        "onboard_time": 1766465542,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175655,
+        "num": 175655,
+        "word": "宋茜下月可能是光头",
+        "onboard_time": 1766481260,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168494,
+        "num": 168494,
+        "word": "网友质疑河南小学火灾班主任被判刑",
+        "onboard_time": 1766480781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158830,
+        "num": 158830,
+        "word": "樊振东退出世界排名一年整",
+        "onboard_time": 1766477541,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "三部门要求完善幼儿园收费政策",
+        "onboard_time": 1766481321,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29145,
+        "num": 150894,
+        "word": "双臂缺失男子被弟弟冒名结婚34年",
+        "onboard_time": 1766481622,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71959,
+        "num": 150449,
+        "word": "奥运冠军樊振东陈梦的另一种选择",
+        "onboard_time": 1766481801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66806,
+        "num": 150392,
+        "word": "樊振东所在俱乐部排名升至第二",
+        "onboard_time": 1766481981,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150359,
+        "num": 150359,
+        "word": "男孩挨个舔食超市散装糕点",
+        "onboard_time": 1766477302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132449,
+        "num": 132449,
+        "word": "2026年幼儿园收费新规",
+        "onboard_time": 1766482282,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129801,
+        "num": 129801,
+        "word": "张远三个月不谈恋爱可以吗",
+        "onboard_time": 1766472921,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125919,
+        "num": 125919,
+        "word": "成都23岁男生失联9天后遗体被发现",
+        "onboard_time": 1766474422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125852,
+        "num": 125852,
+        "word": "第一批自制羽绒服的后悔了",
+        "onboard_time": 1766480781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125275,
+        "num": 125275,
+        "word": "双轨偏偏你最争气",
+        "onboard_time": 1766477361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122392,
+        "num": 122392,
+        "word": "宁静 这小男朋友交上了",
+        "onboard_time": 1766473401,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118590,
+        "num": 118590,
+        "word": "阿信 朱孝天",
+        "onboard_time": 1766480902,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "肖战ELLE杂志",
+        "onboard_time": 1766457139,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108432,
+        "num": 108432,
+        "word": "Faker成都见面会",
+        "onboard_time": 1766482400,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107580,
+        "num": 107580,
+        "word": "刘诗诗高马尾青春女大",
+        "onboard_time": 1766478022,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    }
+  }
+}
