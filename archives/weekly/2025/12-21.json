@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766489229876,
+  "endTime": 1766494683375,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -137,6 +137,14 @@
       "onboard_time": 1766407222,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1426509,
+      "num": 394732,
+      "word": "00后订婚喜糖",
+      "onboard_time": 1766489421,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1390785,
@@ -449,6 +457,14 @@
       "onboard_time": 1766288900,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 892050,
+      "num": 1142728,
+      "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+      "onboard_time": 1766490382,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 889259,
@@ -827,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 615106,
+      "num": 443726,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 613000,
       "num": 335213,
       "word": "法医刘良团队的尸检报告是关键铁证",
@@ -865,14 +889,6 @@
       "onboard_time": 1766394561,
       "rank": 11,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 591512,
-      "num": 378180,
-      "word": "仙逆 影视化",
-      "onboard_time": 1766484681,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 585059,
@@ -969,6 +985,14 @@
       "onboard_time": 1766381181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558991,
+      "num": 273212,
+      "word": "400万煮鸡蛋大神开公司了",
+      "onboard_time": 1766487201,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 557775,
@@ -1219,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 493928,
-      "num": 265347,
-      "word": "400万煮鸡蛋大神开公司了",
-      "onboard_time": 1766487201,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 492269,
       "num": 307950,
       "word": "马天宇回应李明德大闹三人行风波",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1766407762,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482840,
+      "num": 482840,
+      "word": "央视曝光免费装宽带骗局",
+      "onboard_time": 1766490680,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 481184,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1766330965,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448988,
+      "num": 271333,
+      "word": "吴千语直播带货卖了1.5亿",
+      "onboard_time": 1766494041,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 448426,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1766412263,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379477,
+      "num": 379477,
+      "word": "明日方舟",
+      "onboard_time": 1766488221,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 378525,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1766240963,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319581,
+      "num": 319581,
+      "word": "私聊发不雅内容不再只是社死",
+      "onboard_time": 1766487380,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318577,
@@ -2468,7 +2516,7 @@
     },
     {
       "raw_hot": 280938,
-      "num": 258848,
+      "num": 264922,
       "word": "时代少年团在高会直播",
       "onboard_time": 1766487081,
       "rank": 12,
@@ -2523,6 +2571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276799,
+      "num": 276799,
+      "word": "左乐",
+      "onboard_time": 1766493441,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276595,
       "num": 241988,
       "word": "孟子义穿ES",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1766401760,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272917,
+      "num": 149600,
+      "word": "冉莹颖二儿子一年长了8厘米",
+      "onboard_time": 1766490982,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 269659,
@@ -2635,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260542,
+      "num": 260542,
+      "word": "仙逆 选角",
+      "onboard_time": 1766490021,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258319,
       "num": 258319,
       "word": "中国女子在欧洲邮轮上人间蒸发",
@@ -2689,6 +2761,14 @@
       "onboard_time": 1766309783,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252187,
+      "num": 252187,
+      "word": "庄序 何以琛",
+      "onboard_time": 1766490741,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 250684,
@@ -3089,6 +3169,14 @@
       "onboard_time": 1766234002,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210004,
+      "num": 149037,
+      "word": "阿米娅",
+      "onboard_time": 1766494281,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 209828,
@@ -4915,6 +5003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "短剧王后 长剧气质大花气场",
+      "onboard_time": 1766491941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146124,
       "num": 146124,
       "word": "W中文版光影初心大片",
@@ -5187,14 +5283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 140772,
-      "num": 151669,
-      "word": "私聊发不雅内容不再只是社死",
-      "onboard_time": 1766487380,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140734,
       "num": 140734,
       "word": "经济学家说现在进入了小生意时代",
@@ -5355,6 +5443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136682,
+      "num": 136682,
+      "word": "何穗会为了儿子不想出差",
+      "onboard_time": 1766488821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136635,
       "num": 136635,
       "word": "曾舜晞西瓜香菜饺子螺蛳粉汤圆",
@@ -5513,6 +5609,14 @@
       "onboard_time": 1766281640,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131181,
+      "num": 131181,
+      "word": "人要在幸福的时候多买香水",
+      "onboard_time": 1766493923,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 131067,
@@ -5851,6 +5955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125408,
+      "num": 125408,
+      "word": "庄序 聂曦光辱追",
+      "onboard_time": 1766492300,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125352,
       "num": 125352,
       "word": "月薪3万意味着日薪1379",
@@ -6131,6 +6243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119614,
+      "num": 119614,
+      "word": "cp32抢票",
+      "onboard_time": 1766492480,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119463,
       "num": 216678,
       "word": "广东绿豆沙为啥加臭草",
@@ -6145,6 +6265,14 @@
       "onboard_time": 1766244923,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119301,
+      "num": 119301,
+      "word": "苏新皓本月最后一条框框跳",
+      "onboard_time": 1766494640,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119139,
@@ -6209,6 +6337,14 @@
       "onboard_time": 1766390840,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "演了7集男女主颗粒度一点没对齐",
+      "onboard_time": 1766494162,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 117544,
@@ -6307,6 +6443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115230,
+      "num": 115230,
+      "word": "买一墙泡泡玛特帮老婆戒网购瘾",
+      "onboard_time": 1766492002,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115207,
       "num": 226833,
       "word": "华晨宇 互联网都是记忆",
@@ -6371,6 +6515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113056,
+      "num": 113056,
+      "word": "博主晒今年黄金收益挣了100万",
+      "onboard_time": 1766494281,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112970,
       "num": 112970,
       "word": "爱你老己从支付成功开始",
@@ -6409,6 +6561,14 @@
       "onboard_time": 1766488881,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112417,
+      "num": 112417,
+      "word": "赵今麦法式缎带低盘发",
+      "onboard_time": 1766492181,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 112316,
@@ -6851,6 +7011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104816,
+      "num": 104816,
+      "word": "刘诗诗剪彩后紧握剪刀尖头",
+      "onboard_time": 1766491042,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104814,
       "num": 104814,
       "word": "喜人走红毯也全是活",
@@ -6921,14 +7089,6 @@
       "onboard_time": 1766374882,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103643,
-      "num": 103643,
-      "word": "明日方舟",
-      "onboard_time": 1766488221,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 103515,
@@ -7203,6 +7363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99691,
+      "num": 113095,
+      "word": "国产剧终于给反派上高度了",
+      "onboard_time": 1766493563,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99578,
       "num": 161466,
       "word": "罗永浩反映的电信网速问题已解决",
@@ -7217,6 +7385,14 @@
       "onboard_time": 1766391801,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99104,
+      "num": 99104,
+      "word": "cpp",
+      "onboard_time": 1766493501,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 99095,
@@ -7353,6 +7529,14 @@
       "onboard_time": 1766479880,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 96592,
+      "num": 102187,
+      "word": "宠物都会认萝卜了",
+      "onboard_time": 1766494101,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96389,
@@ -7507,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92512,
+      "num": 113649,
+      "word": "小洛熙事件涉事科室住院服务正常进行",
+      "onboard_time": 1766494582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92481,
       "num": 92481,
       "word": "为弟追凶28年姐姐拍下嫌犯正面照",
@@ -7585,6 +7777,14 @@
       "onboard_time": 1766299882,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90260,
+      "num": 136946,
+      "word": "第一次见到一棵完整的荸荠",
+      "onboard_time": 1766492002,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90214,
@@ -7729,6 +7929,14 @@
       "onboard_time": 1766456959,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86692,
+      "num": 136718,
+      "word": "传播淫秽信息涉未成年人从重处罚",
+      "onboard_time": 1766493202,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85368,
@@ -8025,6 +8233,14 @@
       "onboard_time": 1766454321,
       "rank": 49,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 78041,
+      "num": 99052,
+      "word": "外国夫妻贵阳出游将双胞胎托付保安",
+      "onboard_time": 1766493202,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77349,
@@ -8352,6 +8568,14 @@
       "word": "樊振东所在俱乐部排名升至第二",
       "onboard_time": 1766481981,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66602,
+      "num": 98726,
+      "word": "杨瀚森连续第5场被DNP",
+      "onboard_time": 1766492721,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -9689,6 +9913,14 @@
       "onboard_time": 1766421978,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31596,
+      "num": 481224,
+      "word": "第3届中国播音主持金声奖",
+      "onboard_time": 1766491101,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 31548,
