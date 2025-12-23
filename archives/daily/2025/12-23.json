@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766475096420,
+  "endTime": 1766475919260,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -107,7 +107,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 962628,
+      "raw_hot": 967383,
       "num": 382330,
       "word": "赵丽颖 合照的同学成了大明星",
       "onboard_time": 1766472201,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486704,
+      "num": 486704,
+      "word": "杀害发小妻儿三人凶手表示不上诉",
+      "onboard_time": 1766471360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472961,
       "num": 197752,
       "word": "这是胡彦斌选易梦玲的原因吗",
@@ -299,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 447276,
+      "num": 447276,
+      "word": "高铁B座宽一些",
+      "onboard_time": 1766470521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415655,
       "num": 406424,
       "word": "松韵我有点不认识你了",
       "onboard_time": 1766466321,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413232,
+      "num": 756194,
+      "word": "张远三个月不谈恋爱可以吗",
+      "onboard_time": 1766472921,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 406191,
@@ -316,11 +340,19 @@
     },
     {
       "raw_hot": 397251,
-      "num": 540815,
+      "num": 641670,
       "word": "江苏成立调查组彻查南博文物管理问题",
       "onboard_time": 1766466801,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394237,
+      "num": 366814,
+      "word": "宁静 这小男朋友交上了",
+      "onboard_time": 1766473401,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 378525,
@@ -345,14 +377,6 @@
       "onboard_time": 1766406321,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 366814,
-      "num": 366814,
-      "word": "宁静 这小男朋友交上了",
-      "onboard_time": 1766473401,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 361114,
@@ -403,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325260,
-      "num": 388366,
-      "word": "杀害发小妻儿三人凶手表示不上诉",
-      "onboard_time": 1766471360,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316093,
       "num": 241127,
       "word": "周末双休工资到手5000",
@@ -449,14 +465,6 @@
       "onboard_time": 1766390060,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296408,
-      "num": 756194,
-      "word": "张远三个月不谈恋爱可以吗",
-      "onboard_time": 1766472921,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 296060,
@@ -555,12 +563,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 225196,
-      "num": 385206,
-      "word": "高铁B座宽一些",
-      "onboard_time": 1766470521,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 220733,
+      "num": 1071610,
+      "word": "骄阳似我追剧团",
+      "onboard_time": 1766474061,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 217805,
@@ -739,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180853,
+      "num": 136888,
+      "word": "鸿蒙智行首款MPV智界V9曝光",
+      "onboard_time": 1766475320,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175926,
       "num": 175926,
       "word": "智能手机没出现前的卫生间",
@@ -795,11 +811,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164574,
+      "num": 136366,
+      "word": "谁家好剧一女钓四男啊",
+      "onboard_time": 1766474781,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163268,
       "num": 163268,
       "word": "网约车臭车问题为何年年说年年有",
       "onboard_time": 1766422578,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162959,
+      "num": 285618,
+      "word": "成都23岁男生失联9天后遗体被发现",
+      "onboard_time": 1766474422,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -849,14 +881,6 @@
       "onboard_time": 1766465602,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154135,
-      "num": 154135,
-      "word": "骄阳似我追剧团",
-      "onboard_time": 1766474061,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 151721,
@@ -945,6 +969,14 @@
       "onboard_time": 1766462423,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 137052,
+      "num": 137052,
+      "word": "12306回应网传高铁B座更宽",
+      "onboard_time": 1766474601,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135724,
@@ -1115,22 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121058,
-      "num": 121058,
-      "word": "12306回应网传高铁B座更宽",
-      "onboard_time": 1766474601,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120811,
-      "num": 120811,
-      "word": "谁家好剧一女钓四男啊",
-      "onboard_time": 1766474781,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119794,
       "num": 99810,
       "word": "丝芭回应李艺彤",
@@ -1195,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112649,
+      "num": 119786,
+      "word": "陈楚生 冠军玄学",
+      "onboard_time": 1766473580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112622,
       "num": 112622,
       "word": "宋祖儿换了两次位置",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1766469921,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 111015,
+      "num": 114304,
+      "word": "双轨海外影响力",
+      "onboard_time": 1766475741,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 110250,
@@ -1267,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107178,
+      "num": 107178,
+      "word": "这下终于知道特长该怎么写了",
+      "onboard_time": 1766475624,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106095,
       "num": 140234,
       "word": "网剧胭脂泪开播",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1766460920,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 105254,
+      "num": 105254,
+      "word": "朱孝天 场面话听听就算了吧",
+      "onboard_time": 1766475801,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 104637,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1766407582,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100038,
+      "num": 114352,
+      "word": "都说二胎照猪养我却得了产后抑郁",
+      "onboard_time": 1766475741,
+      "rank": 37,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 98589,
@@ -1467,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91288,
-      "num": 119786,
-      "word": "陈楚生 冠军玄学",
-      "onboard_time": 1766473580,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91232,
       "num": 160616,
       "word": "敖瑞鹏 老来得红",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1766451442,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88517,
+      "num": 122249,
+      "word": "车祸获赔6万员工发现保单被隐瞒",
+      "onboard_time": 1766474180,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88011,
@@ -1728,6 +1784,14 @@
       "word": "广东私家车可入境香港市区",
       "onboard_time": 1766455221,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69365,
+      "num": 144817,
+      "word": "性侵5名学生案维持死刑判决",
+      "onboard_time": 1766475624,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2051,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36735,
-      "num": 285618,
-      "word": "成都23岁男生失联9天后遗体被发现",
-      "onboard_time": 1766474422,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36529,
       "num": 159036,
       "word": "2025LOL德玛西亚杯",
@@ -2147,14 +2203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30594,
-      "num": 122249,
-      "word": "车祸获赔6万员工发现保单被隐瞒",
-      "onboard_time": 1766474180,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30344,
       "num": 40172,
       "word": "庄序人设",
@@ -2204,7 +2252,7 @@
     },
     {
       "raw_hot": 24009,
-      "num": 809397,
+      "num": 883055,
       "word": "智能且低排放的超大型油轮来了",
       "onboard_time": 1766459360,
       "rank": 2,
