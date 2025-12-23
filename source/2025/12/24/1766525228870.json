@@ -1,0 +1,410 @@
+{
+  "runTime": 1766525228870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 63672,
+        "num": 138590,
+        "word": "小洛熙事件涉事科室手术暂停不实",
+        "onboard_time": 1766508798,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53163,
+        "num": 53163,
+        "word": "私聊不是淫秽信息的避风港",
+        "onboard_time": 1766504005,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8675,
+        "num": 45311,
+        "word": "预计2025我国交通出行超660亿人次",
+        "onboard_time": 1766494762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44658,
+        "num": 44658,
+        "word": "车厘子价格大跳水批发商却笑不出",
+        "onboard_time": 1766505323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38754,
+        "num": 38754,
+        "word": "日本遗孤说不信我是日本孩子",
+        "onboard_time": 1766505683,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49705,
+        "num": 37665,
+        "word": "安徽27天新生儿住院治疗时去世",
+        "onboard_time": 1766499862,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32921,
+        "num": 32921,
+        "word": "环保少女伦敦被捕",
+        "onboard_time": 1766504545,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32415,
+        "num": 32415,
+        "word": "美国最神秘连环杀手多年前已去世",
+        "onboard_time": 1766496742,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28116,
+        "num": 28116,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27454,
+        "num": 27454,
+        "word": "生父始终不认罪把记者都气结巴了",
+        "onboard_time": 1766502866,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42202,
+        "num": 27419,
+        "word": "朝九晚九单休2500",
+        "onboard_time": 1766520914,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 39783,
+        "num": 26908,
+        "word": "美国斩杀线现象",
+        "onboard_time": 1766507300,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35551,
+        "num": 26415,
+        "word": "马龙妻子夏露跳舞太专业",
+        "onboard_time": 1766503046,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29845,
+        "num": 26408,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28410,
+        "num": 26029,
+        "word": "7月大女婴被大伯杀害遗体仍未火化",
+        "onboard_time": 1766505683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25719,
+        "num": 25719,
+        "word": "王阳变成二胖了 你舅妈还是你舅妈",
+        "onboard_time": 1766501723,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22629,
+        "num": 22629,
+        "word": "年度报告",
+        "onboard_time": 1766499502,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20932,
+        "num": 20932,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19226,
+        "num": 19226,
+        "word": "丽江公开发函喊话小红书",
+        "onboard_time": 1766498001,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 18553,
+        "num": 18553,
+        "word": "章子怡四封金莲花影后",
+        "onboard_time": 1766502625,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58925,
+        "num": 18366,
+        "word": "杜克 一哥",
+        "onboard_time": 1766502685,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17987,
+        "num": 17987,
+        "word": "中方敦促美方立即撤销有关措施",
+        "onboard_time": 1766504903,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16948,
+        "num": 16948,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 16653,
+        "num": 16653,
+        "word": "外国游客逛景区将婴儿寄存给保安",
+        "onboard_time": 1766499862,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16456,
+        "num": 16456,
+        "word": "金价",
+        "onboard_time": 1766499981,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16000,
+        "num": 16455,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15936,
+        "num": 16453,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15729,
+        "num": 16453,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15400,
+        "num": 16452,
+        "word": "她坠楼了他接住了我尖叫了",
+        "onboard_time": 1766496922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15191,
+        "num": 16451,
+        "word": "慕胥辞",
+        "onboard_time": 1766502985,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14998,
+        "num": 16448,
+        "word": "京东巴黎仓库被盗",
+        "onboard_time": 1766518634,
+        "rank": 30,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 14539,
+        "num": 16448,
+        "word": "在北方的南方人肖战",
+        "onboard_time": 1766512037,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13675,
+        "num": 16447,
+        "word": "中方回应美称中部署百余枚洲际导弹",
+        "onboard_time": 1766517914,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13578,
+        "num": 16444,
+        "word": "看着像汉字但一个也不认识",
+        "onboard_time": 1766507000,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13543,
+        "num": 16444,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 34,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 13471,
+        "num": 16442,
+        "word": "2025歌词巅峰对决",
+        "onboard_time": 1766521933,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13430,
+        "num": 16442,
+        "word": "黄金巨头金雅福爆雷有人投超700万",
+        "onboard_time": 1766506164,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13256,
+        "num": 16440,
+        "word": "仙逆 杨洋",
+        "onboard_time": 1766496201,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12943,
+        "num": 16438,
+        "word": "传播淫秽信息加大处罚专治擦边",
+        "onboard_time": 1766518035,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12609,
+        "num": 16437,
+        "word": "鞠婧祎用震撼来形容的美貌",
+        "onboard_time": 1766515995,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12452,
+        "num": 16436,
+        "word": "顾漫 骄阳似我男二",
+        "onboard_time": 1766496802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12134,
+        "num": 16435,
+        "word": "律师称夫妻间发不雅视频非打击重点",
+        "onboard_time": 1766516776,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12100,
+        "num": 16434,
+        "word": "黄金又坐过山车",
+        "onboard_time": 1766508319,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12073,
+        "num": 16431,
+        "word": "云旗郝熠然直播",
+        "onboard_time": 1766505862,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11738,
+        "num": 16430,
+        "word": "阿乐星愿跨年云盛典",
+        "onboard_time": 1766512218,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11674,
+        "num": 16430,
+        "word": "微博网友年度喜爱作品",
+        "onboard_time": 1766512696,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11592,
+        "num": 16429,
+        "word": "金莲花",
+        "onboard_time": 1766498842,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11406,
+        "num": 16426,
+        "word": "双北",
+        "onboard_time": 1766501244,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 16426,
+        "word": "加油老己明年见",
+        "onboard_time": 1766511617,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11008,
+        "num": 16425,
+        "word": "肖战ELLE四季预告",
+        "onboard_time": 1766513836,
+        "rank": 49,
+        "category": "作品衍生,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对中央企业工作作出重要指示#"
+    }
+  }
+}
