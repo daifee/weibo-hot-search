@@ -1,0 +1,410 @@
+{
+  "runTime": 1766500176716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649736,
+        "num": 1103957,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 576647,
+        "num": 576647,
+        "word": "她坠楼了他接住了我尖叫了",
+        "onboard_time": 1766496922,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55506,
+        "num": 555910,
+        "word": "2026在高速服务区建超1万个充电枪",
+        "onboard_time": 1766495002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1053106,
+        "num": 554535,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 545694,
+        "num": 545694,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 4,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 1868315,
+        "num": 543839,
+        "word": "男子4年强奸继女六七十次判24年半",
+        "onboard_time": 1766497943,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878588,
+        "num": 543272,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 539402,
+        "num": 539402,
+        "word": "仙逆 杨洋",
+        "onboard_time": 1766496201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281819,
+        "num": 281819,
+        "word": "央视曝光免费装宽带骗局",
+        "onboard_time": 1766490680,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 622158,
+        "num": 281083,
+        "word": "小洛熙事件涉事科室住院服务正常进行",
+        "onboard_time": 1766494582,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647298,
+        "num": 276824,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371127,
+        "num": 273581,
+        "word": "薛佳凝回应出家传闻",
+        "onboard_time": 1766495182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309227,
+        "num": 266597,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300156,
+        "num": 265031,
+        "word": "穆祉丞搭王橹杰的肩",
+        "onboard_time": 1766499563,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290766,
+        "num": 259031,
+        "word": "时代少年团直播",
+        "onboard_time": 1766495362,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258754,
+        "num": 258754,
+        "word": "丽江公开发函喊话小红书",
+        "onboard_time": 1766498001,
+        "rank": 15,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 199510,
+        "num": 199510,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196911,
+        "num": 196911,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "年度报告",
+        "onboard_time": 1766499502,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184879,
+        "num": 184879,
+        "word": "私聊发不雅内容不再只是社死",
+        "onboard_time": 1766487380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518714,
+        "num": 184126,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 270978,
+        "num": 182506,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254240,
+        "num": 180601,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193245,
+        "num": 179509,
+        "word": "仙逆版权在欢瑞",
+        "onboard_time": 1766499981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178481,
+        "num": 178481,
+        "word": "金莲花",
+        "onboard_time": 1766498842,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177412,
+        "num": 177412,
+        "word": "双北的事情就让双北自己解决",
+        "onboard_time": 1766499502,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170906,
+        "num": 170906,
+        "word": "老舅",
+        "onboard_time": 1766498001,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "金价",
+        "onboard_time": 1766499981,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "剑来2最快repo唯有一爽",
+        "onboard_time": 1766499023,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146365,
+        "num": 146365,
+        "word": "顾漫 骄阳似我男二",
+        "onboard_time": 1766496802,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234174,
+        "num": 145501,
+        "word": "美国最神秘连环杀手多年前已去世",
+        "onboard_time": 1766496742,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139594,
+        "num": 139594,
+        "word": "唐诡的产量速度太惊人了",
+        "onboard_time": 1766498722,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130784,
+        "num": 138637,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138039,
+        "num": 138039,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1766497282,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126297,
+        "num": 126297,
+        "word": "朋友说开车接我但没说是什么车",
+        "onboard_time": 1766496502,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122226,
+        "num": 122226,
+        "word": "朝陇山",
+        "onboard_time": 1766498542,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120622,
+        "num": 120622,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119684,
+        "num": 119684,
+        "word": "慕胥辞预约",
+        "onboard_time": 1766498542,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66550,
+        "num": 118650,
+        "word": "外国游客逛景区将婴儿寄存给保安",
+        "onboard_time": 1766499862,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93395,
+        "num": 118435,
+        "word": "动画还原发小入室杀害妻儿3人案",
+        "onboard_time": 1766499803,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118408,
+        "num": 118408,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118027,
+        "num": 118027,
+        "word": "安徽27天新生儿住院治疗时去世",
+        "onboard_time": 1766499862,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115120,
+        "num": 115120,
+        "word": "1个奶油苹果糖相当于3碗米饭",
+        "onboard_time": 1766499443,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112080,
+        "num": 112080,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766494640,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112069,
+        "num": 112069,
+        "word": "TEC刺激杯满编吃鸡",
+        "onboard_time": 1766498902,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107313,
+        "num": 107313,
+        "word": "男子杀害7月龄侄女被判死刑",
+        "onboard_time": 1766497221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 104029,
+        "word": "阿信 朱孝天",
+        "onboard_time": 1766480902,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101955,
+        "num": 101955,
+        "word": "演了7集男女主颗粒度一点没对齐",
+        "onboard_time": 1766494162,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101076,
+        "num": 101076,
+        "word": "时代少年团团子",
+        "onboard_time": 1766500102,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100039,
+        "num": 100039,
+        "word": "10种降低患癌风险的食物",
+        "onboard_time": 1766500102,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对中央企业工作作出重要指示#"
+    }
+  }
+}
