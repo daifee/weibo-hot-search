@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766467949521,
+  "endTime": 1766468915484,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 835746,
+      "num": 519858,
+      "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+      "onboard_time": 1766466623,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 802813,
       "num": 471690,
       "word": "女生开电热毯睡太沉醒来屁股淤青",
@@ -91,12 +99,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 751887,
-      "num": 519858,
-      "word": "英国将禁止将活龙虾直接投入沸水烹煮",
-      "onboard_time": 1766466623,
-      "rank": 3,
-      "category": "海外新闻"
+      "raw_hot": 784215,
+      "num": 1125474,
+      "word": "江苏省委省政府对南博开展全面调查",
+      "onboard_time": 1766466801,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 698972,
@@ -105,6 +113,14 @@
       "onboard_time": 1766450602,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698204,
+      "num": 244769,
+      "word": "何穗产后复出首封",
+      "onboard_time": 1766466381,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 672562,
@@ -131,14 +147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 624651,
-      "num": 1099944,
-      "word": "江苏省委省政府对南博开展全面调查",
-      "onboard_time": 1766466801,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 606790,
       "num": 401454,
       "word": "阿信摔下舞台",
@@ -155,12 +163,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 564726,
-      "num": 244769,
-      "word": "何穗产后复出首封",
-      "onboard_time": 1766466381,
-      "rank": 10,
-      "category": "艺人,时尚"
+      "raw_hot": 566219,
+      "num": 206934,
+      "word": "何穗回应因怀孕暂停工作",
+      "onboard_time": 1766468601,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 555496,
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 406424,
+      "num": 406424,
+      "word": "松韵我有点不认识你了",
+      "onboard_time": 1766466321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406191,
       "num": 406191,
       "word": "骄阳似我 男二",
@@ -315,12 +331,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325578,
-      "num": 325578,
-      "word": "松韵我有点不认识你了",
-      "onboard_time": 1766466321,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 316093,
+      "num": 198812,
+      "word": "周末双休工资到手5000",
+      "onboard_time": 1766465542,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 314778,
@@ -329,14 +345,6 @@
       "onboard_time": 1766464581,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312438,
-      "num": 198812,
-      "word": "周末双休工资到手5000",
-      "onboard_time": 1766465542,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 307511,
@@ -427,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239490,
+      "num": 239490,
+      "word": "金价突破1400元",
+      "onboard_time": 1766468480,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "女孩打翻水杯背后是家庭教育缺位",
@@ -475,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200594,
+      "num": 200594,
+      "word": "爱奇艺真把黄景瑜的话当个事办了",
+      "onboard_time": 1766466861,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199952,
       "num": 199952,
       "word": "杜克发布和一哥告别视频后涨粉48万",
@@ -491,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196699,
+      "num": 190065,
+      "word": "长安二十四计只有28集的原因找到了",
+      "onboard_time": 1766468541,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196427,
       "num": 196427,
       "word": "恋与深空二周年直播",
@@ -499,12 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191429,
-      "num": 191429,
-      "word": "爱奇艺真把黄景瑜的话当个事办了",
-      "onboard_time": 1766466861,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 190646,
+      "num": 195996,
+      "word": "县城体制内女性找对象越来越难",
+      "onboard_time": 1766465003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189586,
+      "num": 189586,
+      "word": "男孩下车方便躲过灭门车祸",
+      "onboard_time": 1766464943,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 189014,
@@ -515,28 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188625,
-      "num": 182144,
-      "word": "男孩下车方便躲过灭门车祸",
-      "onboard_time": 1766464943,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 184770,
       "num": 161991,
       "word": "斩杀线",
       "onboard_time": 1766407823,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 184767,
-      "num": 195996,
-      "word": "县城体制内女性找对象越来越难",
-      "onboard_time": 1766465003,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184364,
@@ -587,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170544,
+      "num": 170544,
+      "word": "成龙彭昱畅别刀了我自己哭",
+      "onboard_time": 1766467641,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170482,
       "num": 170482,
       "word": "大同地震",
@@ -601,6 +633,14 @@
       "onboard_time": 1766463141,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169116,
+      "num": 169116,
+      "word": "其实很多癌症都是省出来的",
+      "onboard_time": 1766467161,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166793,
@@ -643,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 152173,
-      "num": 152173,
-      "word": "其实很多癌症都是省出来的",
-      "onboard_time": 1766467161,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 151721,
       "num": 151721,
       "word": "庞铮1分钟视频报价3.5万",
@@ -665,6 +697,14 @@
       "onboard_time": 1766466021,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147103,
+      "num": 147103,
+      "word": "Ella 好险差点自己唱完了",
+      "onboard_time": 1766467942,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 145095,
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 124191,
-      "num": 119508,
+      "num": 123381,
       "word": "网红智博做完医美还是妈生脸",
       "onboard_time": 1766467461,
       "rank": 41,
@@ -849,14 +889,6 @@
       "onboard_time": 1766455881,
       "rank": 47,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 113105,
-      "num": 113105,
-      "word": "成龙彭昱畅别刀了我自己哭",
-      "onboard_time": 1766467641,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 112622,
@@ -929,6 +961,14 @@
       "onboard_time": 1766465182,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105565,
+      "num": 105565,
+      "word": "彭小苒登纽约时代广场大屏",
+      "onboard_time": 1766468120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105281,
@@ -1123,6 +1163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88776,
+      "num": 98157,
+      "word": "韩国军官让刚入伍练习生找歌手",
+      "onboard_time": 1766468721,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88011,
       "num": 88011,
       "word": "小狗拼了命地想醒过来",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1766407401,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85314,
+      "num": 190623,
+      "word": "你不知道的车手魏建军",
+      "onboard_time": 1766468541,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 85206,
@@ -1563,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38487,
+      "num": 200944,
+      "word": "爆火八个月后卤鹅哥现状",
+      "onboard_time": 1766467521,
+      "rank": 18,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 36959,
       "num": 48165,
       "word": "中央军委举行晋升上将军衔仪式",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1766463622,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30409,
-      "num": 200944,
-      "word": "爆火八个月后卤鹅哥现状",
-      "onboard_time": 1766467521,
-      "rank": 18,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 30344,

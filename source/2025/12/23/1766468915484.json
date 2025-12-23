@@ -1,0 +1,410 @@
+{
+  "runTime": 1766468915484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 784215,
+        "num": 1125474,
+        "word": "江苏省委省政府对南博开展全面调查",
+        "onboard_time": 1766466801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484381,
+        "num": 484381,
+        "word": "俄乌杀红了眼",
+        "onboard_time": 1766453001,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44373,
+        "num": 411362,
+        "word": "我国冰雪产业规模将破万亿元",
+        "onboard_time": 1766460020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835746,
+        "num": 409327,
+        "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+        "onboard_time": 1766466623,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406424,
+        "num": 406424,
+        "word": "松韵我有点不认识你了",
+        "onboard_time": 1766466321,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683305,
+        "num": 392451,
+        "word": "考北大睡过头了",
+        "onboard_time": 1766462121,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335755,
+        "num": 335755,
+        "word": "唐诡奇谭之九重楼定档",
+        "onboard_time": 1766466082,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239490,
+        "num": 239490,
+        "word": "金价突破1400元",
+        "onboard_time": 1766468480,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229641,
+        "num": 229641,
+        "word": "重庆财政局发布情况通报",
+        "onboard_time": 1766463682,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 226522,
+        "num": 226522,
+        "word": "丁禹兮给刘宇宁鞋底摘纸片",
+        "onboard_time": 1766464581,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698204,
+        "num": 224540,
+        "word": "何穗产后复出首封",
+        "onboard_time": 1766466381,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 369201,
+        "num": 219411,
+        "word": "母亲回应儿子公务员遴选成绩第一落选",
+        "onboard_time": 1766460199,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351188,
+        "num": 218472,
+        "word": "31岁才知道8块钱有多难挣",
+        "onboard_time": 1766462061,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341091,
+        "num": 214070,
+        "word": "肖战ELLE杂志",
+        "onboard_time": 1766457139,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271172,
+        "num": 210925,
+        "word": "杨紫工作室",
+        "onboard_time": 1766463201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566219,
+        "num": 206934,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 203718,
+        "word": "狗狗临终前被允许尝巧克力",
+        "onboard_time": 1766461341,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200594,
+        "num": 200594,
+        "word": "爱奇艺真把黄景瑜的话当个事办了",
+        "onboard_time": 1766466861,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198169,
+        "num": 198169,
+        "word": "原来火锅店腌制肉这么多危害",
+        "onboard_time": 1766464160,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190646,
+        "num": 190646,
+        "word": "县城体制内女性找对象越来越难",
+        "onboard_time": 1766465003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85314,
+        "num": 190623,
+        "word": "你不知道的车手魏建军",
+        "onboard_time": 1766468541,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69204,
+        "num": 190547,
+        "word": "一眼看出陈小春应采儿攒钱谁P谁J",
+        "onboard_time": 1766466261,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38487,
+        "num": 190416,
+        "word": "爆火八个月后卤鹅哥现状",
+        "onboard_time": 1766467521,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 316093,
+        "num": 190313,
+        "word": "周末双休工资到手5000",
+        "onboard_time": 1766465542,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302458,
+        "num": 190235,
+        "word": "肖战花裤子",
+        "onboard_time": 1766464641,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248386,
+        "num": 190133,
+        "word": "韩美娟官宣恋情",
+        "onboard_time": 1766412323,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196699,
+        "num": 190065,
+        "word": "长安二十四计只有28集的原因找到了",
+        "onboard_time": 1766468541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133280,
+        "num": 189958,
+        "word": "长征十二号甲火箭回收失败",
+        "onboard_time": 1766458040,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112592,
+        "num": 189932,
+        "word": "疯狂动物城2近一半票房来自中国",
+        "onboard_time": 1766460560,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93933,
+        "num": 189793,
+        "word": "普京收到俄中将遇害消息",
+        "onboard_time": 1766463141,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45152,
+        "num": 189736,
+        "word": "华为将发布非凡大师品牌主题曲",
+        "onboard_time": 1766464522,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26364,
+        "num": 189613,
+        "word": "晒过太阳的被子让人安睡",
+        "onboard_time": 1766464581,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189586,
+        "num": 189586,
+        "word": "男孩下车方便躲过灭门车祸",
+        "onboard_time": 1766464943,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187323,
+        "num": 187323,
+        "word": "单依纯纯妹妹MV",
+        "onboard_time": 1766466861,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170544,
+        "num": 170544,
+        "word": "成龙彭昱畅别刀了我自己哭",
+        "onboard_time": 1766467641,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169116,
+        "num": 169116,
+        "word": "其实很多癌症都是省出来的",
+        "onboard_time": 1766467161,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147103,
+        "num": 147103,
+        "word": "Ella 好险差点自己唱完了",
+        "onboard_time": 1766467942,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135570,
+        "num": 135570,
+        "word": "这是胡彦斌选易梦玲的原因吗",
+        "onboard_time": 1766460379,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125005,
+        "num": 125005,
+        "word": "我妈眼里我的月薪三千",
+        "onboard_time": 1766459780,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123381,
+        "num": 123381,
+        "word": "网红智博做完医美还是妈生脸",
+        "onboard_time": 1766467461,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116682,
+        "num": 116682,
+        "word": "华为何刚晒与易烊千玺合照",
+        "onboard_time": 1766460982,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 111543,
+        "num": 111543,
+        "word": "陈妍希录制央视跨年晚会",
+        "onboard_time": 1766466021,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20448,
+        "num": 108114,
+        "word": "2026年第一杯敬老己",
+        "onboard_time": 1766464522,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107313,
+        "num": 107313,
+        "word": "热咖啡和冰咖啡区别居然这么大",
+        "onboard_time": 1766463682,
+        "rank": 43,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 105565,
+        "num": 105565,
+        "word": "彭小苒登纽约时代广场大屏",
+        "onboard_time": 1766468120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102145,
+        "num": 102145,
+        "word": "庞铮1分钟视频报价3.5万",
+        "onboard_time": 1766463201,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94932,
+        "num": 98649,
+        "word": "校园火灾班主任兼宿管被判刑六年",
+        "onboard_time": 1766464943,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88776,
+        "num": 98157,
+        "word": "韩国军官让刚入伍练习生找歌手",
+        "onboard_time": 1766468721,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71302,
+        "num": 98106,
+        "word": "成毅新剧真的实现了做一休四",
+        "onboard_time": 1766467040,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98083,
+        "num": 98083,
+        "word": "离职最划算的月份",
+        "onboard_time": 1766465363,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    }
+  }
+}
