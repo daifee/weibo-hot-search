@@ -1,0 +1,410 @@
+{
+  "runTime": 1766495556834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 983895,
+        "num": 1157423,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 574212,
+        "num": 574212,
+        "word": "央视曝光免费装宽带骗局",
+        "onboard_time": 1766490680,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16084,
+        "num": 557430,
+        "word": "2026在高速服务区建超1万个充电枪",
+        "onboard_time": 1766495002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1611365,
+        "num": 554527,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551146,
+        "num": 551146,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 4,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 1440457,
+        "num": 528146,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484005,
+        "num": 484005,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446418,
+        "num": 446418,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 320469,
+        "num": 320469,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292204,
+        "num": 292204,
+        "word": "庄序 何以琛",
+        "onboard_time": 1766490741,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769721,
+        "num": 288698,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482629,
+        "num": 282176,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262754,
+        "num": 262754,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255848,
+        "num": 255848,
+        "word": "仙逆 选角",
+        "onboard_time": 1766490021,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248103,
+        "num": 248103,
+        "word": "私聊发不雅内容不再只是社死",
+        "onboard_time": 1766487380,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247341,
+        "num": 247341,
+        "word": "左乐",
+        "onboard_time": 1766493441,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240152,
+        "num": 240152,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218833,
+        "num": 218833,
+        "word": "小洛熙事件涉事科室住院服务正常进行",
+        "onboard_time": 1766494582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200488,
+        "num": 200488,
+        "word": "时代少年团直播",
+        "onboard_time": 1766495362,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184906,
+        "num": 184906,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262881,
+        "num": 184156,
+        "word": "阿米娅",
+        "onboard_time": 1766494281,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246900,
+        "num": 184087,
+        "word": "冉莹颖二儿子一年长了8厘米",
+        "onboard_time": 1766490982,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181865,
+        "num": 181865,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1766494640,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169891,
+        "num": 169891,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162594,
+        "num": 162594,
+        "word": "苏新皓本月最后一条框框跳",
+        "onboard_time": 1766494640,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154073,
+        "num": 154073,
+        "word": "骄阳似我追剧团直播",
+        "onboard_time": 1766476282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146535,
+        "num": 146535,
+        "word": "薛佳凝回应出家传闻",
+        "onboard_time": 1766495182,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145071,
+        "num": 145071,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132026,
+        "num": 132026,
+        "word": "泰国感谢中方",
+        "onboard_time": 1766481501,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 130910,
+        "word": "时代少年团在高会直播",
+        "onboard_time": 1766487081,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134600,
+        "num": 130527,
+        "word": "短剧王后 长剧气质大花气场",
+        "onboard_time": 1766491941,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128985,
+        "num": 128985,
+        "word": "演了7集男女主颗粒度一点没对齐",
+        "onboard_time": 1766494162,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128885,
+        "num": 128885,
+        "word": "买一墙泡泡玛特帮老婆戒网购瘾",
+        "onboard_time": 1766492002,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31240,
+        "num": 117419,
+        "word": "镜头下的家国记忆永不褪色",
+        "onboard_time": 1766470521,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108182,
+        "num": 108182,
+        "word": "日本发生含放射性水泄漏事件",
+        "onboard_time": 1766485161,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107543,
+        "num": 107543,
+        "word": "韦雪前夫自曝19岁当爸",
+        "onboard_time": 1766485823,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27457,
+        "num": 106108,
+        "word": "高铁一等座是没有B座的",
+        "onboard_time": 1766495301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36821,
+        "num": 105817,
+        "word": "温州一小区用手机微信当对讲门铃",
+        "onboard_time": 1766494762,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38197,
+        "num": 105694,
+        "word": "情侣分手后因为一个还字打起官司",
+        "onboard_time": 1766494942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105582,
+        "num": 105582,
+        "word": "庄序 聂曦光辱追",
+        "onboard_time": 1766492300,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105083,
+        "num": 105083,
+        "word": "博主晒今年黄金收益挣了100万",
+        "onboard_time": 1766494281,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103208,
+        "num": 103208,
+        "word": "赵今麦法式缎带低盘发",
+        "onboard_time": 1766492181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102602,
+        "num": 102602,
+        "word": "何穗会为了儿子不想出差",
+        "onboard_time": 1766488821,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101911,
+        "num": 101911,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100084,
+        "num": 100084,
+        "word": "人要在幸福的时候多买香水",
+        "onboard_time": 1766493923,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98778,
+        "num": 98778,
+        "word": "黄金白银彻底涨疯了",
+        "onboard_time": 1766492961,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88968,
+        "num": 88968,
+        "word": "OMG零封BLG",
+        "onboard_time": 1766486900,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14552,
+        "num": 87954,
+        "word": "预计2025我国交通出行超660亿人次",
+        "onboard_time": 1766494762,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87482,
+        "num": 87482,
+        "word": "汪东城收藏了一堆王玉雯视频",
+        "onboard_time": 1766479101,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央企业要充分认识肩负的职责使命#"
+    }
+  }
+}
