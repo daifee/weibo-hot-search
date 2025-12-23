@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766529861628,
+  "endTime": 1766532449122,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -9,6 +9,14 @@
       "onboard_time": 1766501422,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589402,
+      "num": 162177,
+      "word": "法医刘良团队提供小洛熙尸检报告",
+      "onboard_time": 1766531117,
+      "rank": 10,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 475427,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 402924,
-      "num": 138384,
+      "num": 155945,
       "word": "马龙妻子夏露跳舞太专业",
       "onboard_time": 1766503046,
       "rank": 10,
@@ -32,6 +40,14 @@
       "word": "车厘子价格大跳水批发商却笑不出",
       "onboard_time": 1766505323,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321095,
+      "num": 215044,
+      "word": "安徽27天新生儿住院治疗时去世",
+      "onboard_time": 1766499862,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -51,8 +67,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239224,
+      "num": 775012,
+      "word": "小洛熙事件涉事科室手术暂停不实",
+      "onboard_time": 1766508798,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236849,
-      "num": 87749,
+      "num": 143416,
       "word": "美国斩杀线现象",
       "onboard_time": 1766507300,
       "rank": 47,
@@ -67,12 +91,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216090,
-      "num": 215044,
-      "word": "安徽27天新生儿住院治疗时去世",
-      "onboard_time": 1766499862,
-      "rank": 5,
+      "raw_hot": 222601,
+      "num": 222601,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221039,
+      "num": 221039,
+      "word": "王阳变成二胖了 你舅妈还是你舅妈",
+      "onboard_time": 1766501723,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212533,
+      "num": 146200,
+      "word": "朝九晚九单休2500",
+      "onboard_time": 1766520914,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 205520,
@@ -83,8 +123,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176874,
+      "num": 176874,
+      "word": "生父始终不认罪把记者都气结巴了",
+      "onboard_time": 1766502866,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168347,
-      "num": 136928,
+      "num": 144856,
       "word": "吴千语直播带货卖了1.5亿",
       "onboard_time": 1766494041,
       "rank": 12,
@@ -107,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157621,
-      "num": 157621,
-      "word": "日本遗孤说不信我是日本孩子",
-      "onboard_time": 1766505683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142860,
       "num": 142860,
       "word": "美国最神秘连环杀手多年前已去世",
@@ -131,12 +171,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 139552,
-      "num": 483595,
-      "word": "小洛熙事件涉事科室手术暂停不实",
-      "onboard_time": 1766508798,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 138251,
+      "num": 170664,
+      "word": "中方敦促美方立即撤销有关措施",
+      "onboard_time": 1766504903,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137457,
@@ -203,28 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104630,
-      "num": 60521,
-      "word": "朝九晚九单休2500",
-      "onboard_time": 1766520914,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 104035,
       "num": 88040,
       "word": "7月大女婴被大伯杀害遗体仍未火化",
       "onboard_time": 1766505683,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100839,
-      "num": 100839,
-      "word": "中方敦促美方立即撤销有关措施",
-      "onboard_time": 1766504903,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97658,
@@ -235,20 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97213,
-      "num": 111533,
-      "word": "生父始终不认罪把记者都气结巴了",
-      "onboard_time": 1766502866,
-      "rank": 18,
+      "raw_hot": 91076,
+      "num": 91076,
+      "word": "外国游客逛景区将婴儿寄存给保安",
+      "onboard_time": 1766499862,
+      "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93071,
-      "num": 93071,
-      "word": "王阳变成二胖了 你舅妈还是你舅妈",
-      "onboard_time": 1766501723,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 89138,
@@ -323,12 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64511,
-      "num": 87945,
-      "word": "外国游客逛景区将婴儿寄存给保安",
-      "onboard_time": 1766499862,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 64472,
+      "num": 64472,
+      "word": "鞠婧祎用震撼来形容的美貌",
+      "onboard_time": 1766515995,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64000,
@@ -361,6 +377,22 @@
       "onboard_time": 1766504545,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61999,
+      "num": 61999,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1766494640,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59329,
+      "num": 59329,
+      "word": "薛佳凝回应出家传闻",
+      "onboard_time": 1766495182,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 58688,
@@ -403,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55171,
+      "num": 55171,
+      "word": "冰箱里永远不会断的东西",
+      "onboard_time": 1766531058,
+      "rank": 27,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
@@ -417,6 +457,14 @@
       "onboard_time": 1766498722,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50631,
+      "num": 167602,
+      "word": "T1再与oner续约两年",
+      "onboard_time": 1766531058,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 49947,
@@ -435,12 +483,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46309,
+      "num": 55142,
+      "word": "闫妮首获金莲花最佳女主",
+      "onboard_time": 1766532017,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 45064,
+      "num": 55119,
+      "word": "oner回应续约",
+      "onboard_time": 1766531658,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44560,
       "num": 60812,
       "word": "小猫错把松鼠当老鼠",
       "onboard_time": 1766505803,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43557,
+      "num": 55102,
+      "word": "杨紫玉兰花开君再来造型",
+      "onboard_time": 1766532017,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 42057,
@@ -451,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41366,
+      "num": 55093,
+      "word": "成毅新剧的伤从来没白受",
+      "onboard_time": 1766528895,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40566,
       "num": 59528,
       "word": "艾热回应新歌争议",
@@ -459,12 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35701,
-      "num": 35701,
-      "word": "鞠婧祎用震撼来形容的美貌",
-      "onboard_time": 1766515995,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 36443,
+      "num": 55077,
+      "word": "澳门国际电影节",
+      "onboard_time": 1766496922,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35528,
+      "num": 55063,
+      "word": "律师称夫妻间发不雅视频非打击重点",
+      "onboard_time": 1766516776,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32362,
@@ -515,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25501,
-      "num": 33745,
-      "word": "律师称夫妻间发不雅视频非打击重点",
-      "onboard_time": 1766516776,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23831,
       "num": 33740,
       "word": "法学界来了个狙击手",
@@ -547,12 +627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20709,
-      "num": 33738,
-      "word": "成毅新剧的伤从来没白受",
-      "onboard_time": 1766528895,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 21173,
+      "num": 221320,
+      "word": "预计2025我国交通出行超660亿人次",
+      "onboard_time": 1766494762,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20291,
@@ -587,14 +667,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 16272,
-      "num": 33726,
-      "word": "澳门国际电影节",
-      "onboard_time": 1766496922,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 14539,
       "num": 16448,
       "word": "在北方的南方人肖战",
@@ -617,14 +689,6 @@
       "onboard_time": 1766512218,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10996,
-      "num": 114923,
-      "word": "预计2025我国交通出行超660亿人次",
-      "onboard_time": 1766494762,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8002,
