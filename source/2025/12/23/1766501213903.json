@@ -1,0 +1,410 @@
+{
+  "runTime": 1766501213903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419069,
+        "num": 1067051,
+        "word": "丽江公开发函喊话小红书",
+        "onboard_time": 1766498001,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 345760,
+        "num": 345760,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52148,
+        "num": 344683,
+        "word": "2026在高速服务区建超1万个充电枪",
+        "onboard_time": 1766495002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 877094,
+        "num": 335945,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437201,
+        "num": 326008,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 4,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 1875773,
+        "num": 309327,
+        "word": "男子4年强奸继女六七十次判24年半",
+        "onboard_time": 1766497943,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859106,
+        "num": 302753,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 560906,
+        "num": 292072,
+        "word": "她坠楼了他接住了我尖叫了",
+        "onboard_time": 1766496922,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513165,
+        "num": 284662,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280248,
+        "num": 280248,
+        "word": "安徽27天新生儿住院治疗时去世",
+        "onboard_time": 1766499862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661870,
+        "num": 280202,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496300,
+        "num": 280038,
+        "word": "仙逆 杨洋",
+        "onboard_time": 1766496201,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471033,
+        "num": 280002,
+        "word": "穆祉丞搭王橹杰的肩",
+        "onboard_time": 1766499563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278485,
+        "num": 278485,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277307,
+        "num": 277307,
+        "word": "薛佳凝回应出家传闻",
+        "onboard_time": 1766495182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265624,
+        "num": 265624,
+        "word": "央视曝光免费装宽带骗局",
+        "onboard_time": 1766490680,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260187,
+        "num": 260187,
+        "word": "第一次吃生鱼片悄悄用油炸熟了",
+        "onboard_time": 1766484321,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197960,
+        "num": 258385,
+        "word": "自称考北大睡过头女生回应选择北大",
+        "onboard_time": 1766482761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 256458,
+        "word": "CP32Pre",
+        "onboard_time": 1766501002,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138432,
+        "num": 255097,
+        "word": "年度报告",
+        "onboard_time": 1766499502,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311964,
+        "num": 252426,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 252403,
+        "num": 252403,
+        "word": "金莲花",
+        "onboard_time": 1766498842,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246467,
+        "num": 246467,
+        "word": "美国最神秘连环杀手多年前已去世",
+        "onboard_time": 1766496742,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 215538,
+        "word": "时代少年团直播",
+        "onboard_time": 1766495362,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215093,
+        "num": 215093,
+        "word": "张子墨后台直播",
+        "onboard_time": 1766500402,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179667,
+        "num": 179667,
+        "word": "金价",
+        "onboard_time": 1766499981,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115923,
+        "num": 176388,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176068,
+        "num": 176068,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188592,
+        "num": 171426,
+        "word": "时代少年团团子",
+        "onboard_time": 1766500102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160554,
+        "num": 160554,
+        "word": "老舅",
+        "onboard_time": 1766498001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157685,
+        "num": 157685,
+        "word": "双北的事情就让双北自己解决",
+        "onboard_time": 1766499502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141250,
+        "num": 141250,
+        "word": "仙逆版权在欢瑞",
+        "onboard_time": 1766499981,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126075,
+        "num": 126075,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1766497282,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125133,
+        "num": 125133,
+        "word": "慕胥辞预约",
+        "onboard_time": 1766498542,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 117244,
+        "word": "丽江古城文旅局回应公开喊话小红书",
+        "onboard_time": 1766500762,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 124965,
+        "num": 116107,
+        "word": "顾漫 骄阳似我男二",
+        "onboard_time": 1766496802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112301,
+        "num": 112301,
+        "word": "PEL全明星刺激杯",
+        "onboard_time": 1766500883,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106904,
+        "num": 106904,
+        "word": "1个奶油苹果糖相当于3碗米饭",
+        "onboard_time": 1766499443,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104748,
+        "num": 104748,
+        "word": "朋友说开车接我但没说是什么车",
+        "onboard_time": 1766496502,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90785,
+        "num": 102772,
+        "word": "复联5首支预告正式发布",
+        "onboard_time": 1766501182,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117079,
+        "num": 102345,
+        "word": "唐诡的产量速度太惊人了",
+        "onboard_time": 1766498722,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648924,
+        "num": 101661,
+        "word": "小洛熙事件涉事科室住院服务正常进行",
+        "onboard_time": 1766494582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100881,
+        "num": 100881,
+        "word": "外国游客逛景区将婴儿寄存给保安",
+        "onboard_time": 1766499862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104041,
+        "num": 100783,
+        "word": "唐诡4原来大唐人均焦虑症",
+        "onboard_time": 1766500883,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89770,
+        "num": 97128,
+        "word": "动画还原发小入室杀害妻儿3人案",
+        "onboard_time": 1766499803,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96831,
+        "num": 96831,
+        "word": "唐朝诡事录官宣第五季",
+        "onboard_time": 1766482821,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94446,
+        "num": 94446,
+        "word": "A股公司在美遭电信诈骗",
+        "onboard_time": 1766501002,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86326,
+        "num": 92200,
+        "word": "朝陇山",
+        "onboard_time": 1766498542,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90501,
+        "num": 90501,
+        "word": "iPhone烟花模式",
+        "onboard_time": 1766481560,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88186,
+        "num": 88186,
+        "word": "现货白银突破70美元",
+        "onboard_time": 1766500343,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央企业要充分认识肩负的职责使命#"
+    }
+  }
+}

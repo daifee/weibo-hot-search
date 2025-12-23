@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766500176716,
+  "endTime": 1766501213903,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1868315,
+      "raw_hot": 1875773,
       "num": 543839,
       "word": "男子4年强奸继女六七十次判24年半",
       "onboard_time": 1766497943,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648924,
+      "num": 576927,
+      "word": "小洛熙事件涉事科室住院服务正常进行",
+      "onboard_time": 1766494582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646399,
       "num": 302586,
       "word": "汪东城收藏了一堆王玉雯视频",
@@ -296,14 +304,6 @@
       "word": "小洛熙后又一家长举报宁波妇儿医院",
       "onboard_time": 1766479161,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622158,
-      "num": 576927,
-      "word": "小洛熙事件涉事科室住院服务正常进行",
-      "onboard_time": 1766494582,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471033,
+      "num": 280002,
+      "word": "穆祉丞搭王橹杰的肩",
+      "onboard_time": 1766499563,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467570,
       "num": 392831,
       "word": "金价突破1400元",
@@ -537,6 +545,14 @@
       "onboard_time": 1766470521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419069,
+      "num": 1067051,
+      "word": "丽江公开发函喊话小红书",
+      "onboard_time": 1766498001,
+      "rank": 46,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 415655,
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300156,
-      "num": 265031,
-      "word": "穆祉丞搭王橹杰的肩",
-      "onboard_time": 1766499563,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300140,
       "num": 462639,
       "word": "女孩要水后炫耀被一旁女孩打翻",
@@ -819,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280248,
+      "num": 280248,
+      "word": "安徽27天新生儿住院治疗时去世",
+      "onboard_time": 1766499862,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279508,
       "num": 279508,
       "word": "重庆财政局发布情况通报",
@@ -883,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258754,
-      "num": 258754,
-      "word": "丽江公开发函喊话小红书",
-      "onboard_time": 1766498001,
-      "rank": 46,
-      "category": "民生新闻,互联网"
+      "raw_hot": 252403,
+      "num": 252403,
+      "word": "金莲花",
+      "onboard_time": 1766498842,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 247254,
@@ -899,20 +915,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 246467,
+      "num": 246467,
+      "word": "美国最神秘连环杀手多年前已去世",
+      "onboard_time": 1766496742,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 242729,
       "num": 171513,
       "word": "阿信感谢朱孝天",
       "onboard_time": 1766415263,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 234174,
-      "num": 145501,
-      "word": "美国最神秘连环杀手多年前已去世",
-      "onboard_time": 1766496742,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 232333,
@@ -969,6 +985,14 @@
       "onboard_time": 1766462423,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215093,
+      "num": 215093,
+      "word": "张子墨后台直播",
+      "onboard_time": 1766500402,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 212538,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 196391,
-      "num": 196391,
+      "num": 255097,
       "word": "年度报告",
       "onboard_time": 1766499502,
       "rank": 18,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1766472921,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 188592,
+      "num": 171426,
+      "word": "时代少年团团子",
+      "onboard_time": 1766500102,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 187622,
@@ -1283,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179667,
+      "num": 179667,
+      "word": "金价",
+      "onboard_time": 1766499981,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178984,
       "num": 178984,
       "word": "宋茜下月可能是光头",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1766496861,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 178481,
-      "num": 178481,
-      "word": "金莲花",
-      "onboard_time": 1766498842,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 177412,
@@ -1507,14 +1539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 153337,
-      "num": 153337,
-      "word": "金价",
-      "onboard_time": 1766499981,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 152299,
       "num": 152299,
       "word": "演了7集男女主颗粒度一点没对齐",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1766486900,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147545,
+      "num": 256458,
+      "word": "CP32Pre",
+      "onboard_time": 1766501002,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 147103,
@@ -1915,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125133,
+      "num": 125133,
+      "word": "慕胥辞预约",
+      "onboard_time": 1766498542,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124657,
       "num": 124657,
       "word": "宣萱否认恋情",
@@ -2027,14 +2067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119684,
-      "num": 119684,
-      "word": "慕胥辞预约",
-      "onboard_time": 1766498542,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119647,
       "num": 119647,
       "word": "失眠了骄阳似我能不能全责",
@@ -2075,12 +2107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118027,
-      "num": 118027,
-      "word": "安徽27天新生儿住院治疗时去世",
-      "onboard_time": 1766499862,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 117244,
+      "num": 117244,
+      "word": "丽江古城文旅局回应公开喊话小红书",
+      "onboard_time": 1766500762,
+      "rank": 34,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 116940,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1766449642,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112301,
+      "num": 112301,
+      "word": "PEL全明星刺激杯",
+      "onboard_time": 1766500883,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 112069,
@@ -2379,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104041,
+      "num": 100783,
+      "word": "唐诡4原来大唐人均焦虑症",
+      "onboard_time": 1766500883,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103727,
       "num": 103727,
       "word": "被虐死女孩生父对继母说打死她",
@@ -2459,20 +2507,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101076,
-      "num": 101076,
-      "word": "时代少年团团子",
-      "onboard_time": 1766500102,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100890,
       "num": 161967,
       "word": "攒了两年的钱在这一刻全花掉了",
       "onboard_time": 1766407582,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100881,
+      "num": 118650,
+      "word": "外国游客逛景区将婴儿寄存给保安",
+      "onboard_time": 1766499862,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100091,
@@ -2643,6 +2691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94446,
+      "num": 94446,
+      "word": "A股公司在美遭电信诈骗",
+      "onboard_time": 1766501002,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94142,
       "num": 94142,
       "word": "已收到PEL集结夜邀请函",
@@ -2715,6 +2771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90785,
+      "num": 102772,
+      "word": "复联5首支预告正式发布",
+      "onboard_time": 1766501182,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90260,
       "num": 136946,
       "word": "第一次见到一棵完整的荸荠",
@@ -2769,6 +2833,14 @@
       "onboard_time": 1766474180,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88186,
+      "num": 88186,
+      "word": "现货白银突破70美元",
+      "onboard_time": 1766500343,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 88011,
@@ -3009,14 +3081,6 @@
       "onboard_time": 1766492721,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66550,
-      "num": 118650,
-      "word": "外国游客逛景区将婴儿寄存给保安",
-      "onboard_time": 1766499862,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66536,
