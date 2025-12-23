@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766446879786,
+  "endTime": 1766455630314,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -771,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1656686,
+      "num": 1022725,
+      "word": "官方通报南京博物院事件",
+      "onboard_time": 1766453541,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1651914,
       "num": 577740,
       "word": "WB战胜AG",
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 1366363,
-      "num": 235102,
+      "num": 288443,
       "word": "庞铮对贺峻霖道歉",
       "onboard_time": 1766415442,
       "rank": 10,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1765094239,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1137552,
+      "num": 623541,
+      "word": "俄乌杀红了眼",
+      "onboard_time": 1766453001,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1133606,
@@ -4972,7 +4988,7 @@
     },
     {
       "raw_hot": 650342,
-      "num": 149671,
+      "num": 458384,
       "word": "李艺彤官宣离开丝芭",
       "onboard_time": 1766444777,
       "rank": 10,
@@ -5105,6 +5121,14 @@
       "onboard_time": 1765610419,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640368,
+      "num": 1102459,
+      "word": "俄罗斯中将被炸身亡传递危险信号",
+      "onboard_time": 1766450241,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 640303,
@@ -6699,6 +6723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553617,
+      "num": 553617,
+      "word": "男子头孢停药72小时喝酒后休克",
+      "onboard_time": 1766450001,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553598,
       "num": 791304,
       "word": "团播 美颜拉腿",
@@ -7563,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514646,
+      "num": 514646,
+      "word": "发淫秽信息将违法并不侵犯个人隐私",
+      "onboard_time": 1766450602,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514580,
       "num": 514580,
       "word": "柬埔寨公主大婚",
@@ -7897,6 +7937,14 @@
       "onboard_time": 1765526722,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500134,
+      "num": 500134,
+      "word": "宋小宝谢娜在后台都没认出李维嘉",
+      "onboard_time": 1766450482,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 500006,
@@ -9811,6 +9859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 438493,
+      "num": 438493,
+      "word": "鞠婧祎全球首戴",
+      "onboard_time": 1766452461,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 437648,
       "num": 437648,
       "word": "十个勤天整整齐齐穿西装",
@@ -10244,7 +10300,7 @@
     },
     {
       "raw_hot": 426337,
-      "num": 426337,
+      "num": 462639,
       "word": "女孩要水后炫耀被一旁女孩打翻",
       "onboard_time": 1766411362,
       "rank": 25,
@@ -12209,6 +12265,14 @@
       "onboard_time": 1766115561,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 377350,
+      "num": 471690,
+      "word": "女生开电热毯睡太沉醒来屁股淤青",
+      "onboard_time": 1766453902,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377317,
@@ -16025,6 +16089,14 @@
       "onboard_time": 1766388081,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295432,
+      "num": 295432,
+      "word": "长征十二号甲火箭",
+      "onboard_time": 1766454980,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295322,
@@ -23867,6 +23939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201525,
+      "num": 201525,
+      "word": "邮轮失联中国女子在德当护士",
+      "onboard_time": 1766450241,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201496,
       "num": 201496,
       "word": "虞书欣说今晚轻点虐暮暮",
@@ -24153,6 +24233,14 @@
       "onboard_time": 1765355662,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199952,
+      "num": 199952,
+      "word": "杜克发布和一哥告别视频后涨粉48万",
+      "onboard_time": 1766447420,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 199831,
@@ -25137,6 +25225,14 @@
       "onboard_time": 1766330125,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 458848,
+      "word": "金饰价一夜涨36元",
+      "onboard_time": 1766454081,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 194792,
@@ -26273,6 +26369,14 @@
       "onboard_time": 1766057181,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189014,
+      "num": 189014,
+      "word": "成毅包揽云包场前三",
+      "onboard_time": 1766454680,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188965,
@@ -28635,6 +28739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175926,
+      "num": 175926,
+      "word": "智能手机没出现前的卫生间",
+      "onboard_time": 1766447540,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175786,
       "num": 266002,
       "word": "奔跑吧",
@@ -29691,6 +29803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170069,
+      "num": 162594,
+      "word": "黄金大涨原因",
+      "onboard_time": 1766448020,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169995,
       "num": 169995,
       "word": "剑来动画第二季定档",
@@ -30153,6 +30273,14 @@
       "onboard_time": 1765545505,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "女孩打翻水杯背后是家庭教育缺位",
+      "onboard_time": 1766452700,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 167378,
@@ -35867,6 +35995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143812,
+      "num": 143812,
+      "word": "98%中国亿万富豪都是白手起家",
+      "onboard_time": 1766451981,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143786,
       "num": 143786,
       "word": "任嘉伦给蓝盈莹夸不会了",
@@ -36817,6 +36953,14 @@
       "onboard_time": 1765028964,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140749,
+      "num": 140749,
+      "word": "iPhone实况图的选取机制",
+      "onboard_time": 1766452520,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 140738,
@@ -43163,6 +43307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123334,
+      "num": 123334,
+      "word": "骄阳似我其实是千山暮雪吧",
+      "onboard_time": 1766451322,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123324,
       "num": 759151,
       "word": "电影得闲谨制",
@@ -43177,6 +43329,14 @@
       "onboard_time": 1765949361,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123215,
+      "num": 123215,
+      "word": "熬夜后多吃3类食物补救",
+      "onboard_time": 1766450721,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123208,
@@ -44928,6 +45088,14 @@
       "word": "迪士尼发了迪丽热巴陈飞宇慕胥辞",
       "onboard_time": 1765950201,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119139,
+      "num": 119139,
+      "word": "何以笙箫默全集限免了",
+      "onboard_time": 1766449642,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -47827,6 +47995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112622,
+      "num": 112622,
+      "word": "宋祖儿换了两次位置",
+      "onboard_time": 1766454380,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112554,
       "num": 112554,
       "word": "文班亚马22分",
@@ -48017,6 +48193,14 @@
       "onboard_time": 1766025680,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112316,
+      "num": 112316,
+      "word": "血糖高的人非常适合吃车厘子",
+      "onboard_time": 1766449642,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112263,
@@ -48249,6 +48433,14 @@
       "onboard_time": 1766243603,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "杭师大回应考研试卷上研究方向不符",
+      "onboard_time": 1766453361,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 111670,
@@ -54651,6 +54843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96998,
+      "num": 96998,
+      "word": "原来读书真的会有命运的回响",
+      "onboard_time": 1766448020,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96989,
       "num": 110541,
       "word": "税务部门2次约谈陈震",
@@ -55353,6 +55553,14 @@
       "onboard_time": 1764836722,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95302,
+      "num": 95302,
+      "word": "冬天主打一点冷也不想受",
+      "onboard_time": 1766453902,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 95301,
@@ -56401,6 +56609,14 @@
       "onboard_time": 1765199603,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92481,
+      "num": 92481,
+      "word": "为弟追凶28年姐姐拍下嫌犯正面照",
+      "onboard_time": 1766454859,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92437,
@@ -57851,6 +58067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89067,
+      "num": 89067,
+      "word": "日本成全球最老龄化国家",
+      "onboard_time": 1766451442,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89063,
       "num": 89063,
       "word": "爱马仕继承人起诉LVMH集团",
@@ -59299,6 +59523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84469,
+      "num": 84469,
+      "word": "揭秘李艺彤新公司海西传媒",
+      "onboard_time": 1766455341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84433,
       "num": 84433,
       "word": "王楚钦记不清水是谁的",
@@ -59473,6 +59705,14 @@
       "onboard_time": 1765759220,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83973,
+      "num": 83973,
+      "word": "网传创造营女生季名单",
+      "onboard_time": 1766449402,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 83909,
@@ -61035,6 +61275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78922,
+      "num": 78922,
+      "word": "竞浪大会推荐",
+      "onboard_time": 1766447719,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78917,
       "num": 203500,
       "word": "王楚钦4比1A勒布伦",
@@ -61145,6 +61393,14 @@
       "onboard_time": 1764509782,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78195,
+      "num": 78195,
+      "word": "发明邪修卷发的人简直就是天才",
+      "onboard_time": 1766454321,
+      "rank": 49,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 78157,
@@ -63161,6 +63417,14 @@
       "onboard_time": 1764986060,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69899,
+      "num": 131772,
+      "word": "广东私家车可入境香港市区",
+      "onboard_time": 1766455221,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69853,
@@ -66547,6 +66811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54651,
+      "num": 655503,
+      "word": "利用AI造谣中国女篮两男子刑拘",
+      "onboard_time": 1766449100,
+      "rank": 2,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 54606,
       "num": 190169,
       "word": "李在明正式开始搬回青瓦台",
@@ -68481,6 +68753,14 @@
       "onboard_time": 1766211681,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46434,
+      "num": 119251,
+      "word": "阿福绑定智能手表有摔倒急救服务",
+      "onboard_time": 1766455460,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 46412,
@@ -70969,6 +71249,14 @@
       "onboard_time": 1764755542,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37737,
+      "num": 126605,
+      "word": "日本第17次核污染水排海结束",
+      "onboard_time": 1766455460,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37698,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766455630314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640368,
+        "num": 1102459,
+        "word": "俄罗斯中将被炸身亡传递危险信号",
+        "onboard_time": 1766450241,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1656686,
+        "num": 1022725,
+        "word": "官方通报南京博物院事件",
+        "onboard_time": 1766453541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54651,
+        "num": 655503,
+        "word": "利用AI造谣中国女篮两男子刑拘",
+        "onboard_time": 1766449100,
+        "rank": 2,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 1137552,
+        "num": 623541,
+        "word": "俄乌杀红了眼",
+        "onboard_time": 1766453001,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553617,
+        "num": 553617,
+        "word": "男子头孢停药72小时喝酒后休克",
+        "onboard_time": 1766450001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514646,
+        "num": 514646,
+        "word": "发淫秽信息将违法并不侵犯个人隐私",
+        "onboard_time": 1766450602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500134,
+        "num": 500134,
+        "word": "宋小宝谢娜在后台都没认出李维嘉",
+        "onboard_time": 1766450482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377350,
+        "num": 471690,
+        "word": "女生开电热毯睡太沉醒来屁股淤青",
+        "onboard_time": 1766453902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300140,
+        "num": 462639,
+        "word": "女孩要水后炫耀被一旁女孩打翻",
+        "onboard_time": 1766411362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194817,
+        "num": 458848,
+        "word": "金饰价一夜涨36元",
+        "onboard_time": 1766454081,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 458384,
+        "num": 458384,
+        "word": "李艺彤官宣离开丝芭",
+        "onboard_time": 1766444777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438493,
+        "num": 438493,
+        "word": "鞠婧祎全球首戴",
+        "onboard_time": 1766452461,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295432,
+        "num": 295432,
+        "word": "长征十二号甲火箭",
+        "onboard_time": 1766454980,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288443,
+        "num": 288443,
+        "word": "庞铮对贺峻霖道歉",
+        "onboard_time": 1766415442,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218214,
+        "num": 218214,
+        "word": "23岁硕士徒步去世前已主动返程",
+        "onboard_time": 1766414063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201525,
+        "num": 201525,
+        "word": "邮轮失联中国女子在德当护士",
+        "onboard_time": 1766450241,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199952,
+        "num": 199952,
+        "word": "杜克发布和一哥告别视频后涨粉48万",
+        "onboard_time": 1766447420,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189014,
+        "num": 189014,
+        "word": "成毅包揽云包场前三",
+        "onboard_time": 1766454680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175926,
+        "num": 175926,
+        "word": "智能手机没出现前的卫生间",
+        "onboard_time": 1766447540,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167380,
+        "num": 167380,
+        "word": "女孩打翻水杯背后是家庭教育缺位",
+        "onboard_time": 1766452700,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 353739,
+        "num": 167070,
+        "word": "韩美娟官宣恋情",
+        "onboard_time": 1766412323,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276877,
+        "num": 163783,
+        "word": "一份致癌的精子生下200个孩子",
+        "onboard_time": 1766408422,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170069,
+        "num": 162594,
+        "word": "黄金大涨原因",
+        "onboard_time": 1766448020,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160137,
+        "num": 160137,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143812,
+        "num": 143812,
+        "word": "98%中国亿万富豪都是白手起家",
+        "onboard_time": 1766451981,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140749,
+        "num": 140749,
+        "word": "iPhone实况图的选取机制",
+        "onboard_time": 1766452520,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135060,
+        "num": 135060,
+        "word": "中国新增70位亿万富豪",
+        "onboard_time": 1766412685,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 69899,
+        "num": 131772,
+        "word": "广东私家车可入境香港市区",
+        "onboard_time": 1766455221,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "阿信摔下舞台",
+        "onboard_time": 1766407943,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37737,
+        "num": 126605,
+        "word": "日本第17次核污染水排海结束",
+        "onboard_time": 1766455460,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123334,
+        "num": 123334,
+        "word": "骄阳似我其实是千山暮雪吧",
+        "onboard_time": 1766451322,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123215,
+        "num": 123215,
+        "word": "熬夜后多吃3类食物补救",
+        "onboard_time": 1766450721,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46434,
+        "num": 119251,
+        "word": "阿福绑定智能手表有摔倒急救服务",
+        "onboard_time": 1766455460,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119139,
+        "num": 119139,
+        "word": "何以笙箫默全集限免了",
+        "onboard_time": 1766449642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112622,
+        "num": 112622,
+        "word": "宋祖儿换了两次位置",
+        "onboard_time": 1766454380,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112316,
+        "num": 112316,
+        "word": "血糖高的人非常适合吃车厘子",
+        "onboard_time": 1766449642,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111705,
+        "num": 111705,
+        "word": "杭师大回应考研试卷上研究方向不符",
+        "onboard_time": 1766453361,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110612,
+        "num": 110612,
+        "word": "福原爱向再婚丈夫家人致歉",
+        "onboard_time": 1766390060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108967,
+        "num": 108967,
+        "word": "北京下雪",
+        "onboard_time": 1766447960,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107208,
+        "num": 107208,
+        "word": "阿信感谢朱孝天",
+        "onboard_time": 1766415263,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97390,
+        "num": 97390,
+        "word": "王者荣耀",
+        "onboard_time": 1766447960,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96998,
+        "num": 96998,
+        "word": "原来读书真的会有命运的回响",
+        "onboard_time": 1766448020,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95302,
+        "num": 95302,
+        "word": "冬天主打一点冷也不想受",
+        "onboard_time": 1766453902,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92481,
+        "num": 92481,
+        "word": "为弟追凶28年姐姐拍下嫌犯正面照",
+        "onboard_time": 1766454859,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89067,
+        "num": 89067,
+        "word": "日本成全球最老龄化国家",
+        "onboard_time": 1766451442,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88017,
+        "num": 88017,
+        "word": "星光大赏最佳神图",
+        "onboard_time": 1766422458,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84469,
+        "num": 84469,
+        "word": "揭秘李艺彤新公司海西传媒",
+        "onboard_time": 1766455341,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83973,
+        "num": 83973,
+        "word": "网传创造营女生季名单",
+        "onboard_time": 1766449402,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78922,
+        "num": 78922,
+        "word": "竞浪大会推荐",
+        "onboard_time": 1766447719,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78195,
+        "num": 78195,
+        "word": "发明邪修卷发的人简直就是天才",
+        "onboard_time": 1766454321,
+        "rank": 49,
+        "category": "幽默,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

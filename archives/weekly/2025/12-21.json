@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766446879786,
+  "endTime": 1766455630314,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1656686,
+      "num": 1022725,
+      "word": "官方通报南京博物院事件",
+      "onboard_time": 1766453541,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1639528,
       "num": 1162359,
       "word": "星光大赏出图",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1366363,
-      "num": 235102,
+      "num": 288443,
       "word": "庞铮对贺峻霖道歉",
       "onboard_time": 1766415442,
       "rank": 10,
@@ -201,6 +209,14 @@
       "onboard_time": 1766412323,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1137552,
+      "num": 623541,
+      "word": "俄乌杀红了眼",
+      "onboard_time": 1766453001,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1124819,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 650342,
-      "num": 149671,
+      "num": 458384,
       "word": "李艺彤官宣离开丝芭",
       "onboard_time": 1766444777,
       "rank": 10,
@@ -585,6 +601,14 @@
       "onboard_time": 1766292440,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640368,
+      "num": 1102459,
+      "word": "俄罗斯中将被炸身亡传递危险信号",
+      "onboard_time": 1766450241,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 622236,
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553617,
+      "num": 553617,
+      "word": "男子头孢停药72小时喝酒后休克",
+      "onboard_time": 1766450001,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553081,
       "num": 276928,
       "word": "陈都灵鞠婧祎宋祖儿 偷偷加微信",
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514646,
+      "num": 514646,
+      "word": "发淫秽信息将违法并不侵犯个人隐私",
+      "onboard_time": 1766450602,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512549,
       "num": 245662,
       "word": "丞磊下意识的反应最动人",
@@ -897,6 +937,14 @@
       "onboard_time": 1766387181,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 500134,
+      "num": 500134,
+      "word": "宋小宝谢娜在后台都没认出李维嘉",
+      "onboard_time": 1766450482,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 496503,
@@ -1083,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438493,
+      "num": 438493,
+      "word": "鞠婧祎全球首戴",
+      "onboard_time": 1766452461,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431124,
       "num": 295499,
       "word": "干物妹小埋原型去世",
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 426337,
-      "num": 426337,
+      "num": 462639,
       "word": "女孩要水后炫耀被一旁女孩打翻",
       "onboard_time": 1766411362,
       "rank": 25,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1766294121,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377350,
+      "num": 471690,
+      "word": "女生开电热毯睡太沉醒来屁股淤青",
+      "onboard_time": 1766453902,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376722,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1766388081,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295432,
+      "num": 295432,
+      "word": "长征十二号甲火箭",
+      "onboard_time": 1766454980,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294285,
@@ -2587,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201525,
+      "num": 201525,
+      "word": "邮轮失联中国女子在德当护士",
+      "onboard_time": 1766450241,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201369,
       "num": 189654,
       "word": "金价又涨了",
@@ -2617,6 +2697,14 @@
       "onboard_time": 1766245461,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199952,
+      "num": 199952,
+      "word": "杜克发布和一哥告别视频后涨粉48万",
+      "onboard_time": 1766447420,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 199685,
@@ -2729,6 +2817,14 @@
       "onboard_time": 1766330125,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 458848,
+      "word": "金饰价一夜涨36元",
+      "onboard_time": 1766454081,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 194739,
@@ -2897,6 +2993,14 @@
       "onboard_time": 1766399421,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189014,
+      "num": 189014,
+      "word": "成毅包揽云包场前三",
+      "onboard_time": 1766454680,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188630,
@@ -3139,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175926,
+      "num": 175926,
+      "word": "智能手机没出现前的卫生间",
+      "onboard_time": 1766447540,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175721,
       "num": 175721,
       "word": "谭松韵年底忙成啥了",
@@ -3219,6 +3331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170069,
+      "num": 162594,
+      "word": "黄金大涨原因",
+      "onboard_time": 1766448020,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169895,
       "num": 152169,
       "word": "冯彦哲黄东萍混双冠军",
@@ -3257,6 +3377,14 @@
       "onboard_time": 1766377341,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "女孩打翻水杯背后是家庭教育缺位",
+      "onboard_time": 1766452700,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 167360,
@@ -3875,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143812,
+      "num": 143812,
+      "word": "98%中国亿万富豪都是白手起家",
+      "onboard_time": 1766451981,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143543,
       "num": 142629,
       "word": "鞠婧祎美貌纯享",
@@ -4017,6 +4153,14 @@
       "onboard_time": 1766306723,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140749,
+      "num": 140749,
+      "word": "iPhone实况图的选取机制",
+      "onboard_time": 1766452520,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 140734,
@@ -4571,6 +4715,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123334,
+      "num": 123334,
+      "word": "骄阳似我其实是千山暮雪吧",
+      "onboard_time": 1766451322,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123215,
+      "num": 123215,
+      "word": "熬夜后多吃3类食物补救",
+      "onboard_time": 1766450721,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122876,
       "num": 117289,
       "word": "BLG对战LNG",
@@ -4681,6 +4841,14 @@
       "onboard_time": 1766244923,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119139,
+      "num": 119139,
+      "word": "何以笙箫默全集限免了",
+      "onboard_time": 1766449642,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 119040,
@@ -4875,12 +5043,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112622,
+      "num": 112622,
+      "word": "宋祖儿换了两次位置",
+      "onboard_time": 1766454380,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112316,
+      "num": 112316,
+      "word": "血糖高的人非常适合吃车厘子",
+      "onboard_time": 1766449642,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "徐冬冬回应是不是爱尹子维的钱",
       "onboard_time": 1766396421,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "杭师大回应考研试卷上研究方向不符",
+      "onboard_time": 1766453361,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 111670,
@@ -5017,6 +5209,14 @@
       "onboard_time": 1766387540,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "北京下雪",
+      "onboard_time": 1766447960,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108920,
@@ -5491,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97390,
+      "num": 97390,
+      "word": "王者荣耀",
+      "onboard_time": 1766447960,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97236,
       "num": 271802,
       "word": "高速狂奔490公里司机要求退车退款",
@@ -5505,6 +5713,14 @@
       "onboard_time": 1766381601,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96998,
+      "num": 96998,
+      "word": "原来读书真的会有命运的回响",
+      "onboard_time": 1766448020,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 96071,
@@ -5545,6 +5761,14 @@
       "onboard_time": 1766414362,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95302,
+      "num": 95302,
+      "word": "冬天主打一点冷也不想受",
+      "onboard_time": 1766453902,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 94141,
@@ -5593,6 +5817,14 @@
       "onboard_time": 1766333423,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92481,
+      "num": 92481,
+      "word": "为弟追凶28年姐姐拍下嫌犯正面照",
+      "onboard_time": 1766454859,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91992,
@@ -5675,6 +5907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89067,
+      "num": 89067,
+      "word": "日本成全球最老龄化国家",
+      "onboard_time": 1766451442,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88412,
       "num": 88412,
       "word": "一个恋爱玄学",
@@ -5739,12 +5979,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84469,
+      "num": 84469,
+      "word": "揭秘李艺彤新公司海西传媒",
+      "onboard_time": 1766455341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84062,
       "num": 272742,
       "word": "1.4万买的钻戒现回收只有200元",
       "onboard_time": 1766242104,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83973,
+      "num": 83973,
+      "word": "网传创造营女生季名单",
+      "onboard_time": 1766449402,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 83807,
@@ -5939,12 +6195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78922,
+      "num": 78922,
+      "word": "竞浪大会推荐",
+      "onboard_time": 1766447719,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78541,
       "num": 148451,
       "word": "微博年度汽车大选",
       "onboard_time": 1766308221,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78195,
+      "num": 78195,
+      "word": "发明邪修卷发的人简直就是天才",
+      "onboard_time": 1766454321,
+      "rank": 49,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 77349,
@@ -6153,6 +6425,14 @@
       "onboard_time": 1766345654,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69899,
+      "num": 131772,
+      "word": "广东私家车可入境香港市区",
+      "onboard_time": 1766455221,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69242,
@@ -6523,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54651,
+      "num": 655503,
+      "word": "利用AI造谣中国女篮两男子刑拘",
+      "onboard_time": 1766449100,
+      "rank": 2,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 54558,
       "num": 137135,
       "word": "丞磊这是真热到了",
@@ -6777,6 +7065,14 @@
       "onboard_time": 1766229262,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46434,
+      "num": 119251,
+      "word": "阿福绑定智能手表有摔倒急救服务",
+      "onboard_time": 1766455460,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 46412,
@@ -7057,6 +7353,14 @@
       "onboard_time": 1766251099,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37737,
+      "num": 126605,
+      "word": "日本第17次核污染水排海结束",
+      "onboard_time": 1766455460,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37552,
