@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766507842419,
+  "endTime": 1766508727403,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351647,
+      "num": 676419,
+      "word": "车厘子价格大跳水批发商却笑不出",
+      "onboard_time": 1766505323,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319733,
       "num": 773657,
       "word": "丽江公开发函喊话小红书",
@@ -43,14 +51,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249072,
-      "num": 249072,
-      "word": "车厘子价格大跳水批发商却笑不出",
-      "onboard_time": 1766505323,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225211,
       "num": 225211,
       "word": "私聊不是淫秽信息的避风港",
@@ -59,7 +59,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215044,
+      "raw_hot": 216090,
       "num": 215044,
       "word": "安徽27天新生儿住院治疗时去世",
       "onboard_time": 1766499862,
@@ -99,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142852,
-      "num": 142852,
+      "raw_hot": 142860,
+      "num": 142860,
       "word": "美国最神秘连环杀手多年前已去世",
       "onboard_time": 1766496742,
       "rank": 8,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103863,
+      "num": 111198,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97658,
       "num": 97658,
       "word": "她坠楼了他接住了我尖叫了",
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82062,
-      "num": 111198,
-      "word": "日本遗孤说不信我是日本孩子",
-      "onboard_time": 1766505683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77309,
       "num": 88040,
       "word": "7月大女婴被大伯杀害遗体仍未火化",
@@ -249,6 +249,14 @@
       "onboard_time": 1766487201,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 73142,
+      "num": 87749,
+      "word": "美国斩杀线现象",
+      "onboard_time": 1766507300,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72099,
@@ -283,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64768,
+      "num": 87889,
+      "word": "看着像汉字但一个也不认识",
+      "onboard_time": 1766507000,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64511,
       "num": 87945,
       "word": "外国游客逛景区将婴儿寄存给保安",
@@ -299,15 +315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63093,
-      "num": 87867,
-      "word": "老舅",
-      "onboard_time": 1766498001,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 62631,
+      "raw_hot": 63139,
       "num": 87902,
       "word": "明日方舟",
       "onboard_time": 1766488221,
@@ -315,12 +323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61587,
-      "num": 87889,
-      "word": "看着像汉字但一个也不认识",
-      "onboard_time": 1766507000,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 63093,
+      "num": 87867,
+      "word": "老舅",
+      "onboard_time": 1766498001,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 58688,
@@ -371,20 +379,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55168,
-      "num": 87749,
-      "word": "美国斩杀线现象",
-      "onboard_time": 1766507300,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
       "onboard_time": 1766500102,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53943,
+      "num": 60829,
+      "word": "环保少女伦敦被捕",
+      "onboard_time": 1766504545,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50700,
+      "num": 60829,
+      "word": "唐诡的产量速度太惊人了",
+      "onboard_time": 1766498722,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49947,
+      "num": 60826,
+      "word": "黄金又坐过山车",
+      "onboard_time": 1766508319,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 47198,
+      "num": 60819,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1766497282,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44560,
+      "num": 60812,
+      "word": "小猫错把松鼠当老鼠",
+      "onboard_time": 1766505803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 42057,

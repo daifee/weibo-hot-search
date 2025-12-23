@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766507842419,
+  "endTime": 1766508727403,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -2075,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351647,
+      "num": 676419,
+      "word": "车厘子价格大跳水批发商却笑不出",
+      "onboard_time": 1766505323,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351567,
       "num": 201874,
       "word": "男生应邀住女友家被控强奸获刑",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1766309062,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 249072,
-      "num": 249072,
-      "word": "车厘子价格大跳水批发商却笑不出",
-      "onboard_time": 1766505323,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249009,
@@ -7491,6 +7491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103863,
+      "num": 111198,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103727,
       "num": 103727,
       "word": "被虐死女孩生父对继母说打死她",
@@ -8587,14 +8595,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 82062,
-      "num": 111198,
-      "word": "日本遗孤说不信我是日本孩子",
-      "onboard_time": 1766505683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81911,
       "num": 163321,
       "word": "双轨有效播放破3亿",
@@ -8931,6 +8931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73142,
+      "num": 87749,
+      "word": "美国斩杀线现象",
+      "onboard_time": 1766507300,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72848,
       "num": 96485,
       "word": "以前的冬至vs现在的冬至",
@@ -9163,6 +9171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64768,
+      "num": 87889,
+      "word": "看着像汉字但一个也不认识",
+      "onboard_time": 1766507000,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64596,
       "num": 64596,
       "word": "星光大赏第一排的含金量",
@@ -9305,14 +9321,6 @@
       "onboard_time": 1766297722,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61587,
-      "num": 87889,
-      "word": "看着像汉字但一个也不认识",
-      "onboard_time": 1766507000,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 61561,
@@ -9507,14 +9515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55168,
-      "num": 87749,
-      "word": "美国斩杀线现象",
-      "onboard_time": 1766507300,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 54951,
       "num": 197986,
       "word": "向好友发不雅照违法并非修法新增",
@@ -9553,6 +9553,14 @@
       "onboard_time": 1766313323,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53943,
+      "num": 99295,
+      "word": "环保少女伦敦被捕",
+      "onboard_time": 1766504545,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53485,
@@ -9689,6 +9697,14 @@
       "onboard_time": 1766488280,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49947,
+      "num": 60826,
+      "word": "黄金又坐过山车",
+      "onboard_time": 1766508319,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 49664,
@@ -9913,6 +9929,14 @@
       "onboard_time": 1766289681,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44560,
+      "num": 60812,
+      "word": "小猫错把松鼠当老鼠",
+      "onboard_time": 1766505803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 44533,
@@ -11193,14 +11217,6 @@
       "onboard_time": 1766432174,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 18293,
-      "num": 99295,
-      "word": "环保少女伦敦被捕",
-      "onboard_time": 1766504545,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18117,

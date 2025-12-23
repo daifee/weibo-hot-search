@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766507842419,
+  "endTime": 1766508727403,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -13787,6 +13787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351647,
+      "num": 676419,
+      "word": "车厘子价格大跳水批发商却笑不出",
+      "onboard_time": 1766505323,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351567,
       "num": 201874,
       "word": "男生应邀住女友家被控强奸获刑",
@@ -19769,14 +19777,6 @@
       "onboard_time": 1765850781,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249072,
-      "num": 249072,
-      "word": "车厘子价格大跳水批发商却笑不出",
-      "onboard_time": 1766505323,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249009,
@@ -53595,6 +53595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103863,
+      "num": 111198,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103849,
       "num": 276207,
       "word": "欧豪演唱会",
@@ -62803,14 +62811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82062,
-      "num": 111198,
-      "word": "日本遗孤说不信我是日本孩子",
-      "onboard_time": 1766505683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82043,
       "num": 82043,
       "word": "深圳地铁11号线",
@@ -65163,6 +65163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73142,
+      "num": 87749,
+      "word": "美国斩杀线现象",
+      "onboard_time": 1766507300,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73117,
       "num": 216567,
       "word": "1178名缅甸涉电诈嫌犯被分批押解回国",
@@ -67099,6 +67107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64768,
+      "num": 87889,
+      "word": "看着像汉字但一个也不认识",
+      "onboard_time": 1766507000,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64748,
       "num": 192178,
       "word": "iRobot爆雷欠中国代工厂超25亿元",
@@ -67777,14 +67793,6 @@
       "onboard_time": 1764750022,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61587,
-      "num": 87889,
-      "word": "看着像汉字但一个也不认识",
-      "onboard_time": 1766507000,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 61562,
@@ -69323,14 +69331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55168,
-      "num": 87749,
-      "word": "美国斩杀线现象",
-      "onboard_time": 1766507300,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 55106,
       "num": 55106,
       "word": "陈星旭 炎拓的孤勇打动着我",
@@ -69649,6 +69649,14 @@
       "onboard_time": 1765508481,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53943,
+      "num": 99295,
+      "word": "环保少女伦敦被捕",
+      "onboard_time": 1766504545,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53891,
@@ -70617,6 +70625,14 @@
       "onboard_time": 1765148057,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49947,
+      "num": 60826,
+      "word": "黄金又坐过山车",
+      "onboard_time": 1766508319,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 49930,
@@ -72009,6 +72025,14 @@
       "onboard_time": 1764594383,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44560,
+      "num": 60812,
+      "word": "小猫错把松鼠当老鼠",
+      "onboard_time": 1766505803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 44548,
@@ -79921,14 +79945,6 @@
       "onboard_time": 1766432174,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 18293,
-      "num": 99295,
-      "word": "环保少女伦敦被捕",
-      "onboard_time": 1766504545,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18248,
