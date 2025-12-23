@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766510890676,
+  "endTime": 1766511903338,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104035,
+      "num": 88040,
+      "word": "7月大女婴被大伯杀害遗体仍未火化",
+      "onboard_time": 1766505683,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97658,
       "num": 97658,
       "word": "她坠楼了他接住了我尖叫了",
@@ -233,14 +241,6 @@
       "onboard_time": 1766502685,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78940,
-      "num": 88040,
-      "word": "7月大女婴被大伯杀害遗体仍未火化",
-      "onboard_time": 1766505683,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76875,
@@ -331,8 +331,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59640,
-      "num": 59640,
+      "raw_hot": 62353,
+      "num": 62353,
       "word": "小洛熙事件涉事科室手术暂停不实",
       "onboard_time": 1766508798,
       "rank": 24,
@@ -451,7 +451,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30338,
+      "raw_hot": 32362,
       "num": 59432,
       "word": "秦岚 多大点事儿别哭",
       "onboard_time": 1766509938,
@@ -467,6 +467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28933,
+      "num": 46736,
+      "word": "加油老己明年见",
+      "onboard_time": 1766511617,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28121,
+      "num": 46710,
+      "word": "成毅分享长安二十四计幕后故事",
+      "onboard_time": 1766511556,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27557,
       "num": 59406,
       "word": "时代少年团直播",
@@ -475,7 +491,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7895,
+      "raw_hot": 27186,
+      "num": 46694,
+      "word": "章子怡喜提第五座金莲花奖",
+      "onboard_time": 1766509098,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 8002,
       "num": 151639,
       "word": "镜头下的家国记忆永不褪色",
       "onboard_time": 1766470521,
