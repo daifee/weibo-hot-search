@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766486003077,
+  "endTime": 1766486913270,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 869255,
-      "num": 869255,
+      "num": 1104691,
       "word": "宁波女婴术后离世医疗事故鉴定启动",
       "onboard_time": 1766482041,
       "rank": 5,
@@ -576,6 +576,14 @@
       "word": "江苏省委省政府对南博开展全面调查",
       "onboard_time": 1766466801,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783523,
+      "num": 302099,
+      "word": "医院称小洛熙家属公布的报告不完整",
+      "onboard_time": 1766483780,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511206,
+      "num": 511206,
+      "word": "泰国感谢中方",
+      "onboard_time": 1766481501,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 508984,
       "num": 508984,
       "word": "毛主席纪念堂重要公告",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1766459780,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 497499,
-      "num": 302099,
-      "word": "医院称小洛熙家属公布的报告不完整",
-      "onboard_time": 1766483780,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 496503,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1766407762,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484204,
-      "num": 484204,
-      "word": "泰国感谢中方",
-      "onboard_time": 1766481501,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 481184,
@@ -1403,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452915,
+      "num": 447716,
+      "word": "第一次吃生鱼片悄悄用油炸熟了",
+      "onboard_time": 1766484321,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 452143,
       "num": 150735,
       "word": "小洛熙手术记录与尸检报告不符",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1766302161,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447716,
-      "num": 447716,
-      "word": "第一次吃生鱼片悄悄用油炸熟了",
-      "onboard_time": 1766484321,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 447276,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1766294121,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378180,
+      "num": 378180,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 376926,
@@ -2203,6 +2211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303963,
+      "num": 189785,
+      "word": "对不起李雾",
+      "onboard_time": 1766485281,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303557,
       "num": 303557,
       "word": "韩国人也用液体勺",
@@ -2555,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263610,
-      "num": 263610,
-      "word": "仙逆 影视化",
-      "onboard_time": 1766484681,
-      "rank": 20,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 261423,
       "num": 198994,
       "word": "华为何刚晒与易烊千玺合照",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1766313383,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 237879,
+      "num": 237879,
+      "word": "韦雪前夫自曝19岁当爸",
+      "onboard_time": 1766485823,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 236979,
@@ -3339,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197802,
+      "num": 197802,
+      "word": "日本发生含放射性水泄漏事件",
+      "onboard_time": 1766485161,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197745,
       "num": 197745,
       "word": "鞠婧祎9年女王归来",
@@ -3603,14 +3627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189785,
-      "num": 189785,
-      "word": "对不起李雾",
-      "onboard_time": 1766485281,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189586,
       "num": 189586,
       "word": "男孩下车方便躲过灭门车祸",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1766408422,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182755,
+      "num": 268175,
+      "word": "实探小洛熙事件涉事医院",
+      "onboard_time": 1766485222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182126,
@@ -4435,14 +4459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156890,
-      "num": 156890,
-      "word": "日本发生含放射性水泄漏事件",
-      "onboard_time": 1766485161,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156849,
       "num": 156849,
       "word": "张呈硬把话筒塞给雷淞然",
@@ -4464,6 +4480,14 @@
       "word": "国家文物局工作组赴南京",
       "onboard_time": 1766470761,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156594,
+      "num": 167767,
+      "word": "宁波女婴术后离世调查进展",
+      "onboard_time": 1766485761,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4915,14 +4939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143812,
-      "num": 148930,
-      "word": "宁波女婴术后离世调查进展",
-      "onboard_time": 1766485761,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143543,
       "num": 142629,
       "word": "鞠婧祎美貌纯享",
@@ -5001,6 +5017,14 @@
       "onboard_time": 1766414423,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142422,
+      "num": 142422,
+      "word": "今屿 久酷",
+      "onboard_time": 1766486120,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 142405,
@@ -5259,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "BLG对战OMG",
+      "onboard_time": 1766485041,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136635,
       "num": 136635,
       "word": "曾舜晞西瓜香菜饺子螺蛳粉汤圆",
@@ -5403,14 +5435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132024,
-      "num": 132024,
-      "word": "韦雪前夫自曝19岁当爸",
-      "onboard_time": 1766485823,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "等我小了我也要黄景瑜",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1766281640,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 131438,
-      "num": 131438,
-      "word": "BLG对战OMG",
-      "onboard_time": 1766485041,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 131067,
@@ -5483,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130588,
+      "num": 130588,
+      "word": "日本核反应堆水泄漏或有数人遭辐射",
+      "onboard_time": 1766486661,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130496,
       "num": 130496,
       "word": "萨尔布吕肯vs杜塞尔多夫",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1766349974,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130263,
+      "num": 130263,
+      "word": "高知女主脸具象化",
+      "onboard_time": 1766482640,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 130020,
@@ -5979,14 +6011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119855,
-      "num": 268175,
-      "word": "实探小洛熙事件涉事医院",
-      "onboard_time": 1766485222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119794,
       "num": 99810,
       "word": "丝芭回应李艺彤",
@@ -6033,14 +6057,6 @@
       "onboard_time": 1766474840,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119499,
-      "num": 119499,
-      "word": "高知女主脸具象化",
-      "onboard_time": 1766482640,
-      "rank": 44,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 119463,
@@ -6627,6 +6643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107274,
+      "num": 107274,
+      "word": "宝宝抱完你的抱你的",
+      "onboard_time": 1766486602,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 107178,
       "num": 107178,
       "word": "这下终于知道特长该怎么写了",
@@ -6867,6 +6891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102696,
+      "num": 102696,
+      "word": "这4类人喝咖啡会格外受益",
+      "onboard_time": 1766486541,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102627,
       "num": 116929,
       "word": "剑来阿良猛是一种感觉",
@@ -6921,6 +6953,14 @@
       "onboard_time": 1766448500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102021,
+      "num": 102020,
+      "word": "东方卫视跨年上新了",
+      "onboard_time": 1766486721,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 101827,
@@ -9131,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39193,
+      "num": 137938,
+      "word": "上海一水泥搅拌车撞塌围墙致2死",
+      "onboard_time": 1766485161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38547,
       "num": 173004,
       "word": "鸿蒙5和鸿蒙6终端设备数超3200万",
@@ -9483,12 +9531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32108,
-      "num": 137938,
-      "word": "上海一水泥搅拌车撞塌围墙致2死",
-      "onboard_time": 1766485161,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 31997,
+      "num": 204862,
+      "word": "吴彦祖不愧是彦祖",
+      "onboard_time": 1766484261,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 31805,
@@ -9553,14 +9601,6 @@
       "onboard_time": 1766481622,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30849,
-      "num": 204862,
-      "word": "吴彦祖不愧是彦祖",
-      "onboard_time": 1766484261,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 30799,
@@ -9785,6 +9825,14 @@
       "onboard_time": 1766343854,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25485,
+      "num": 237968,
+      "word": "男子杀小侄女绑架父亲被判死刑",
+      "onboard_time": 1766486301,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25309,
@@ -10025,6 +10073,14 @@
       "onboard_time": 1766478141,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20482,
+      "num": 108036,
+      "word": "孟子义星光大赏这一跤摔的不轻",
+      "onboard_time": 1766486842,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20359,

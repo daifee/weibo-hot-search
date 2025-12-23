@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766486003077,
+  "endTime": 1766486913270,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 869255,
-      "num": 869255,
+      "num": 1104691,
       "word": "宁波女婴术后离世医疗事故鉴定启动",
       "onboard_time": 1766482041,
       "rank": 5,
@@ -160,6 +160,14 @@
       "word": "江苏省委省政府对南博开展全面调查",
       "onboard_time": 1766466801,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783523,
+      "num": 302099,
+      "word": "医院称小洛熙家属公布的报告不完整",
+      "onboard_time": 1766483780,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511206,
+      "num": 511206,
+      "word": "泰国感谢中方",
+      "onboard_time": 1766481501,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 510048,
       "num": 510048,
       "word": "骄阳似我",
@@ -339,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 497499,
-      "num": 302099,
-      "word": "医院称小洛熙家属公布的报告不完整",
-      "onboard_time": 1766483780,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 491291,
       "num": 1048435,
       "word": "唐诡奇谭之九重楼定档",
@@ -361,14 +369,6 @@
       "onboard_time": 1766471360,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484204,
-      "num": 484204,
-      "word": "泰国感谢中方",
-      "onboard_time": 1766481501,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 481184,
@@ -411,7 +411,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 447716,
+      "raw_hot": 452915,
       "num": 447716,
       "word": "第一次吃生鱼片悄悄用油炸熟了",
       "onboard_time": 1766484321,
@@ -481,6 +481,14 @@
       "onboard_time": 1766463201,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378180,
+      "num": 378180,
+      "word": "仙逆 影视化",
+      "onboard_time": 1766484681,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 376926,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303963,
+      "num": 189785,
+      "word": "对不起李雾",
+      "onboard_time": 1766485281,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300140,
       "num": 462639,
       "word": "女孩要水后炫耀被一旁女孩打翻",
@@ -675,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263610,
-      "num": 263610,
-      "word": "仙逆 影视化",
-      "onboard_time": 1766484681,
-      "rank": 20,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 261423,
       "num": 198994,
       "word": "华为何刚晒与易烊千玺合照",
@@ -705,6 +713,14 @@
       "onboard_time": 1766415263,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237879,
+      "num": 237879,
+      "word": "韦雪前夫自曝19岁当爸",
+      "onboard_time": 1766485823,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 232333,
@@ -835,6 +851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197802,
+      "num": 197802,
+      "word": "日本发生含放射性水泄漏事件",
+      "onboard_time": 1766485161,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196699,
       "num": 190065,
       "word": "长安二十四计只有28集的原因找到了",
@@ -872,14 +896,6 @@
       "word": "顾漫现偶唯一真神",
       "onboard_time": 1766471541,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189785,
-      "num": 189785,
-      "word": "对不起李雾",
-      "onboard_time": 1766485281,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -971,6 +987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182755,
+      "num": 268175,
+      "word": "实探小洛熙事件涉事医院",
+      "onboard_time": 1766485222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182687,
+      "num": 182687,
+      "word": "现在就出发3",
+      "onboard_time": 1766484081,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182126,
       "num": 182126,
       "word": "竞浪大会推荐",
@@ -1040,14 +1072,6 @@
       "word": "杜海涛说有三十个沈梦辰会很幸福",
       "onboard_time": 1766472261,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171971,
-      "num": 171971,
-      "word": "现在就出发3",
-      "onboard_time": 1766484081,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1131,19 +1155,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156890,
-      "num": 156890,
-      "word": "日本发生含放射性水泄漏事件",
-      "onboard_time": 1766485161,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156608,
       "num": 156608,
       "word": "国家文物局工作组赴南京",
       "onboard_time": 1766470761,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156594,
+      "num": 167767,
+      "word": "宁波女婴术后离世调查进展",
+      "onboard_time": 1766485761,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1243,20 +1267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143812,
-      "num": 148930,
-      "word": "宁波女婴术后离世调查进展",
-      "onboard_time": 1766485761,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142551,
       "num": 142551,
       "word": "看费鸡师支支吾吾的我以为多大事呢",
       "onboard_time": 1766482941,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142422,
+      "num": 142422,
+      "word": "今屿 久酷",
+      "onboard_time": 1766486120,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 142405,
@@ -1331,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "BLG对战OMG",
+      "onboard_time": 1766485041,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135724,
       "num": 193308,
       "word": "普京收到俄中将遇害消息",
@@ -1355,28 +1387,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132024,
-      "num": 132024,
-      "word": "韦雪前夫自曝19岁当爸",
-      "onboard_time": 1766485823,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 131438,
-      "num": 131438,
-      "word": "BLG对战OMG",
-      "onboard_time": 1766485041,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "冬天降温后的邪修取暖大法",
       "onboard_time": 1766464881,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130588,
+      "num": 130588,
+      "word": "日本核反应堆水泄漏或有数人遭辐射",
+      "onboard_time": 1766486661,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130452,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1766413943,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130263,
+      "num": 130263,
+      "word": "高知女主脸具象化",
+      "onboard_time": 1766482640,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 129922,
@@ -1547,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119855,
-      "num": 268175,
-      "word": "实探小洛熙事件涉事医院",
-      "onboard_time": 1766485222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119794,
       "num": 99810,
       "word": "丝芭回应李艺彤",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1766474840,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119499,
-      "num": 119499,
-      "word": "高知女主脸具象化",
-      "onboard_time": 1766482640,
-      "rank": 44,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 119139,
@@ -1771,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107274,
+      "num": 107274,
+      "word": "宝宝抱完你的抱你的",
+      "onboard_time": 1766486602,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 107178,
       "num": 107178,
       "word": "这下终于知道特长该怎么写了",
@@ -1859,6 +1883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102696,
+      "num": 102696,
+      "word": "这4类人喝咖啡会格外受益",
+      "onboard_time": 1766486541,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102565,
       "num": 102565,
       "word": "女孩被虐致死案生父改判十三年半",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1766448500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102021,
+      "num": 102020,
+      "word": "东方卫视跨年上新了",
+      "onboard_time": 1766486721,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 101827,
@@ -2667,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39193,
+      "num": 137938,
+      "word": "上海一水泥搅拌车撞塌围墙致2死",
+      "onboard_time": 1766485161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38487,
       "num": 200944,
       "word": "爆火八个月后卤鹅哥现状",
@@ -2763,12 +2811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32108,
-      "num": 137938,
-      "word": "上海一水泥搅拌车撞塌围墙致2死",
-      "onboard_time": 1766485161,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 31997,
+      "num": 204862,
+      "word": "吴彦祖不愧是彦祖",
+      "onboard_time": 1766484261,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 31687,
@@ -2809,14 +2857,6 @@
       "onboard_time": 1766481622,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30849,
-      "num": 204862,
-      "word": "吴彦祖不愧是彦祖",
-      "onboard_time": 1766484261,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 30796,
@@ -2867,6 +2907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25485,
+      "num": 237968,
+      "word": "男子杀小侄女绑架父亲被判死刑",
+      "onboard_time": 1766486301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24178,
       "num": 48086,
       "word": "信用修复",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1766478141,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20482,
+      "num": 108036,
+      "word": "孟子义星光大赏这一跤摔的不轻",
+      "onboard_time": 1766486842,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20111,
