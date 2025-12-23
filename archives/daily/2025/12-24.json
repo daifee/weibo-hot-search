@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766532449122,
+  "endTime": 1766533258539,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 589402,
-      "num": 162177,
+      "raw_hot": 789368,
+      "num": 172686,
       "word": "法医刘良团队提供小洛熙尸检报告",
       "onboard_time": 1766531117,
       "rank": 10,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 402924,
-      "num": 155945,
+      "num": 168333,
       "word": "马龙妻子夏露跳舞太专业",
       "onboard_time": 1766503046,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371777,
+      "num": 215044,
+      "word": "安徽27天新生儿住院治疗时去世",
+      "onboard_time": 1766499862,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351647,
@@ -43,20 +51,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321095,
-      "num": 215044,
-      "word": "安徽27天新生儿住院治疗时去世",
-      "onboard_time": 1766499862,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319733,
       "num": 773657,
       "word": "丽江公开发函喊话小红书",
       "onboard_time": 1766498001,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 263157,
+      "num": 221039,
+      "word": "王阳变成二胖了 你舅妈还是你舅妈",
+      "onboard_time": 1766501723,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261860,
+      "num": 160034,
+      "word": "朝九晚九单休2500",
+      "onboard_time": 1766520914,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 254068,
+      "num": 880928,
+      "word": "生父始终不认罪把记者都气结巴了",
+      "onboard_time": 1766502866,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250926,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 236849,
-      "num": 143416,
+      "num": 149724,
       "word": "美国斩杀线现象",
       "onboard_time": 1766507300,
       "rank": 47,
@@ -99,22 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221039,
-      "num": 221039,
-      "word": "王阳变成二胖了 你舅妈还是你舅妈",
-      "onboard_time": 1766501723,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212533,
-      "num": 146200,
-      "word": "朝九晚九单休2500",
-      "onboard_time": 1766520914,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 205520,
       "num": 205520,
       "word": "00后订婚喜糖",
@@ -123,16 +131,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176874,
-      "num": 176874,
-      "word": "生父始终不认罪把记者都气结巴了",
-      "onboard_time": 1766502866,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168347,
-      "num": 144856,
+      "num": 160010,
       "word": "吴千语直播带货卖了1.5亿",
       "onboard_time": 1766494041,
       "rank": 12,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151028,
+      "num": 180055,
+      "word": "中方敦促美方立即撤销有关措施",
+      "onboard_time": 1766504903,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142860,
       "num": 142860,
       "word": "美国最神秘连环杀手多年前已去世",
@@ -169,14 +177,6 @@
       "onboard_time": 1766482041,
       "rank": 22,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 138251,
-      "num": 170664,
-      "word": "中方敦促美方立即撤销有关措施",
-      "onboard_time": 1766504903,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137457,
@@ -209,6 +209,14 @@
       "onboard_time": 1766499502,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113245,
+      "num": 113245,
+      "word": "外国游客逛景区将婴儿寄存给保安",
+      "onboard_time": 1766499862,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112749,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 104035,
-      "num": 88040,
+      "num": 98432,
       "word": "7月大女婴被大伯杀害遗体仍未火化",
       "onboard_time": 1766505683,
       "rank": 30,
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91076,
-      "num": 91076,
-      "word": "外国游客逛景区将婴儿寄存给保安",
-      "onboard_time": 1766499862,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 92511,
+      "num": 177823,
+      "word": "L3级自动驾驶专用正式号牌来了",
+      "onboard_time": 1766532439,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 89138,
@@ -283,11 +291,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87150,
+      "num": 87150,
+      "word": "闫妮首获金莲花最佳女主",
+      "onboard_time": 1766532017,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83957,
       "num": 88050,
       "word": "单依纯一口气发了54张图",
       "onboard_time": 1766502685,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81808,
+      "num": 81808,
+      "word": "薛佳凝回应出家传闻",
+      "onboard_time": 1766495182,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -307,7 +331,31 @@
       "category": "网红"
     },
     {
-      "raw_hot": 72099,
+      "raw_hot": 75693,
+      "num": 75693,
+      "word": "王铮亮新家是所有男孩子的梦",
+      "onboard_time": 1766533220,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75690,
+      "num": 75690,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1766494640,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72806,
+      "num": 72806,
+      "word": "冰箱里永远不会断的东西",
+      "onboard_time": 1766531058,
+      "rank": 27,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 72430,
       "num": 87991,
       "word": "顾漫 骄阳似我男二",
       "onboard_time": 1766496802,
@@ -331,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66456,
+      "num": 66456,
+      "word": "鞠婧祎用震撼来形容的美貌",
+      "onboard_time": 1766515995,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64768,
       "num": 87889,
       "word": "看着像汉字但一个也不认识",
       "onboard_time": 1766507000,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64472,
-      "num": 64472,
-      "word": "鞠婧祎用震撼来形容的美貌",
-      "onboard_time": 1766515995,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 64000,
@@ -379,20 +427,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 61999,
-      "num": 61999,
-      "word": "微博之夜年度推荐",
-      "onboard_time": 1766494640,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 60490,
+      "num": 87756,
+      "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+      "onboard_time": 1766490382,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 59329,
-      "num": 59329,
-      "word": "薛佳凝回应出家传闻",
-      "onboard_time": 1766495182,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 59608,
+      "num": 167602,
+      "word": "T1再与oner续约两年",
+      "onboard_time": 1766531058,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 58688,
@@ -427,28 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55988,
-      "num": 87756,
-      "word": "爱泼斯坦狱中自杀视频被证实是伪造",
-      "onboard_time": 1766490382,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55171,
-      "num": 55171,
-      "word": "冰箱里永远不会断的东西",
-      "onboard_time": 1766531058,
-      "rank": 27,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
       "onboard_time": 1766500102,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53998,
+      "num": 55102,
+      "word": "杨紫玉兰花开君再来造型",
+      "onboard_time": 1766532017,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 50700,
@@ -459,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50631,
-      "num": 167602,
-      "word": "T1再与oner续约两年",
-      "onboard_time": 1766531058,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 49947,
       "num": 60826,
       "word": "黄金又坐过山车",
       "onboard_time": 1766508319,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47455,
+      "num": 53214,
+      "word": "仙逆",
+      "onboard_time": 1766532979,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 47198,
@@ -483,20 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46309,
-      "num": 55142,
-      "word": "闫妮首获金莲花最佳女主",
-      "onboard_time": 1766532017,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 45064,
       "num": 55119,
       "word": "oner回应续约",
       "onboard_time": 1766531658,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44902,
+      "num": 55063,
+      "word": "律师称夫妻间发不雅视频非打击重点",
+      "onboard_time": 1766516776,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44560,
@@ -507,11 +547,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43557,
-      "num": 55102,
-      "word": "杨紫玉兰花开君再来造型",
-      "onboard_time": 1766532017,
-      "rank": 38,
+      "raw_hot": 42838,
+      "num": 55093,
+      "word": "成毅新剧的伤从来没白受",
+      "onboard_time": 1766528895,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -523,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41366,
-      "num": 55093,
-      "word": "成毅新剧的伤从来没白受",
-      "onboard_time": 1766528895,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40566,
       "num": 59528,
       "word": "艾热回应新歌争议",
@@ -539,20 +571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37825,
+      "num": 53201,
+      "word": "法学界来了个狙击手",
+      "onboard_time": 1766528115,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36443,
       "num": 55077,
       "word": "澳门国际电影节",
       "onboard_time": 1766496922,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 35528,
-      "num": 55063,
-      "word": "律师称夫妻间发不雅视频非打击重点",
-      "onboard_time": 1766516776,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32362,
@@ -603,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23831,
-      "num": 33740,
-      "word": "法学界来了个狙击手",
-      "onboard_time": 1766528115,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22707,
       "num": 33738,
       "word": "中方回应美称中部署百余枚洲际导弹",
@@ -619,20 +643,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22259,
+      "num": 221320,
+      "word": "预计2025我国交通出行超660亿人次",
+      "onboard_time": 1766494762,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22102,
       "num": 34068,
       "word": "刘宇宁25年音乐战绩可查",
       "onboard_time": 1766514617,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 21173,
-      "num": 221320,
-      "word": "预计2025我国交通出行超660亿人次",
-      "onboard_time": 1766494762,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20291,
