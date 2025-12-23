@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766468915484,
+  "endTime": 1766472270360,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046442,
+      "num": 251379,
+      "word": "何穗回应因怀孕暂停工作",
+      "onboard_time": 1766468601,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1031517,
       "num": 1031517,
       "word": "能考上二本其实已经很厉害了",
@@ -299,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1003231,
+      "num": 1160516,
+      "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+      "onboard_time": 1766466623,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1001987,
       "num": 240327,
       "word": "曝杨洋和顶流95花谈过恋爱",
@@ -313,6 +329,22 @@
       "onboard_time": 1766329225,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 987564,
+      "num": 239645,
+      "word": "王彦霖投票肖战King",
+      "onboard_time": 1766470822,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 984092,
+      "num": 246272,
+      "word": "牢A",
+      "onboard_time": 1766469741,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 957948,
@@ -443,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 835746,
-      "num": 519858,
-      "word": "英国将禁止将活龙虾直接投入沸水烹煮",
-      "onboard_time": 1766466623,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 813035,
       "num": 207001,
       "word": "贝克汉姆大儿子拉黑全家",
@@ -577,6 +601,14 @@
       "onboard_time": 1766301741,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736003,
+      "num": 217570,
+      "word": "肖战在剧组把王彦霖迷成啥了",
+      "onboard_time": 1766471240,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 699559,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 599179,
-      "num": 223626,
+      "num": 231498,
       "word": "狗狗临终前被允许尝巧克力",
       "onboard_time": 1766461341,
       "rank": 24,
@@ -809,14 +841,6 @@
       "onboard_time": 1766316684,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566219,
-      "num": 206934,
-      "word": "何穗回应因怀孕暂停工作",
-      "onboard_time": 1766468601,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 566038,
@@ -1195,6 +1219,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 467570,
+      "num": 323661,
+      "word": "金价突破1400元",
+      "onboard_time": 1766468480,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 467233,
       "num": 371325,
       "word": "陈妍希周柯宇发文告别狙击蝴蝶",
@@ -1283,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441552,
+      "num": 234977,
+      "word": "31岁才知道8块钱有多难挣",
+      "onboard_time": 1766462061,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431124,
       "num": 295499,
       "word": "干物妹小埋原型去世",
@@ -1363,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415655,
+      "num": 406424,
+      "word": "松韵我有点不认识你了",
+      "onboard_time": 1766466321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414076,
       "num": 414076,
       "word": "张真源哄娃 丁程鑫喂水",
@@ -1408,14 +1456,6 @@
       "word": "骄阳似我开播",
       "onboard_time": 1766373020,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 406424,
-      "num": 406424,
-      "word": "松韵我有点不认识你了",
-      "onboard_time": 1766466321,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1483,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397251,
+      "num": 397251,
+      "word": "江苏成立调查组彻查南博文物管理问题",
+      "onboard_time": 1766466801,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395921,
       "num": 290089,
       "word": "星光大赏爆灯",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1766406321,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387927,
-      "num": 230717,
-      "word": "31岁才知道8块钱有多难挣",
-      "onboard_time": 1766462061,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 387336,
@@ -1892,7 +1932,7 @@
     },
     {
       "raw_hot": 316093,
-      "num": 198812,
+      "num": 213343,
       "word": "周末双休工资到手5000",
       "onboard_time": 1766465542,
       "rank": 30,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1766375542,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302672,
+      "num": 302672,
+      "word": "县城体制内女性找对象越来越难",
+      "onboard_time": 1766465003,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302592,
@@ -2339,6 +2387,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 256869,
+      "num": 256869,
+      "word": "杨紫青衣饼一个接一个拿",
+      "onboard_time": 1766469860,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255445,
       "num": 255445,
       "word": "海口医院偶遇丁禹兮",
@@ -2435,14 +2491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239490,
-      "num": 239490,
-      "word": "金价突破1400元",
-      "onboard_time": 1766468480,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "数三",
@@ -2497,6 +2545,14 @@
       "onboard_time": 1766388501,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232333,
+      "num": 212402,
+      "word": "其实很多癌症都是省出来的",
+      "onboard_time": 1766467161,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232155,
@@ -2624,6 +2680,14 @@
       "word": "骄阳似我热度",
       "onboard_time": 1766404342,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217805,
+      "num": 217805,
+      "word": "爱奇艺真把黄景瑜的话当个事办了",
+      "onboard_time": 1766466861,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2761,6 +2825,14 @@
       "onboard_time": 1766322024,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207930,
+      "num": 207930,
+      "word": "孟子义一摔 摔出五个热心肠",
+      "onboard_time": 1766471121,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 207771,
@@ -2953,14 +3025,6 @@
       "onboard_time": 1766329884,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200594,
-      "num": 200594,
-      "word": "爱奇艺真把黄景瑜的话当个事办了",
-      "onboard_time": 1766466861,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 200557,
@@ -3251,20 +3315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190646,
-      "num": 195996,
-      "word": "县城体制内女性找对象越来越难",
-      "onboard_time": 1766465003,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "龚俊星光大赏唱世界超有趣",
       "onboard_time": 1766292260,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189933,
+      "num": 189933,
+      "word": "顾漫现偶唯一真神",
+      "onboard_time": 1766471541,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 189586,
@@ -3329,6 +3393,14 @@
       "onboard_time": 1766294362,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "时代峰峻新公司经营异常",
+      "onboard_time": 1766471001,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 186499,
@@ -3707,14 +3779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169116,
-      "num": 169116,
-      "word": "其实很多癌症都是省出来的",
-      "onboard_time": 1766467161,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "曝左一女主被换",
@@ -3993,6 +4057,14 @@
       "onboard_time": 1766401520,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156608,
+      "num": 156608,
+      "word": "国家文物局工作组赴南京",
+      "onboard_time": 1766470761,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156128,
@@ -4475,6 +4547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "17岁女孩报警被强奸实为仙人跳",
+      "onboard_time": 1766469860,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142075,
       "num": 167361,
       "word": "龚俊紧急撤回一个李乃文摆拍",
@@ -4531,6 +4611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141411,
+      "num": 141411,
+      "word": "杀害发小妻儿三人凶手表示不上诉",
+      "onboard_time": 1766471360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140972,
       "num": 140972,
       "word": "今年星光大赏主持人还是吴昕",
@@ -4545,6 +4633,14 @@
       "onboard_time": 1766306723,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140803,
+      "num": 140803,
+      "word": "热咖啡和冰咖啡区别居然这么大",
+      "onboard_time": 1766463682,
+      "rank": 43,
+      "category": "美食,休闲"
     },
     {
       "raw_hot": 140734,
@@ -4641,14 +4737,6 @@
       "onboard_time": 1766327907,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137581,
-      "num": 137581,
-      "word": "热咖啡和冰咖啡区别居然这么大",
-      "onboard_time": 1766463682,
-      "rank": 43,
-      "category": "美食,休闲"
     },
     {
       "raw_hot": 137546,
@@ -4779,6 +4867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134294,
+      "num": 134294,
+      "word": "高铁B座宽一些",
+      "onboard_time": 1766470521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "发现一个找对象的好地方",
@@ -4825,6 +4921,14 @@
       "onboard_time": 1766281640,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131286,
+      "num": 131286,
+      "word": "刘若英演唱会100场",
+      "onboard_time": 1766471902,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 131067,
@@ -4939,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129382,
+      "num": 129382,
+      "word": "赵丽颖2025票房号召力女演员TOP",
+      "onboard_time": 1766471601,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129134,
       "num": 124052,
       "word": "白鹿听到自己颁奖嘉宾的反应萌萌的",
@@ -4961,6 +5073,14 @@
       "onboard_time": 1766458640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128766,
+      "num": 128766,
+      "word": "SBS合作舞台",
+      "onboard_time": 1766471661,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128610,
@@ -5091,6 +5211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125352,
+      "num": 125352,
+      "word": "月薪3万意味着日薪1379",
+      "onboard_time": 1766470221,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125226,
       "num": 125226,
       "word": "张淼怡星光大赏出图",
@@ -5185,6 +5313,14 @@
       "onboard_time": 1766400141,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123846,
+      "num": 123846,
+      "word": "男子杀发小妻儿一审被判死刑",
+      "onboard_time": 1766469140,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 123413,
@@ -5593,6 +5729,14 @@
       "onboard_time": 1766330845,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111198,
+      "num": 111198,
+      "word": "为什么不熬夜后身体反而变虚了",
+      "onboard_time": 1766469921,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110734,
@@ -6043,6 +6187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102565,
+      "num": 102565,
+      "word": "女孩被虐致死案生父改判十三年半",
+      "onboard_time": 1766469621,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102536,
       "num": 102536,
       "word": "少年的爱情是不可再生之物",
@@ -6227,6 +6379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98589,
+      "num": 98589,
+      "word": "骄阳似我镜头",
+      "onboard_time": 1766472201,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "肖战藏海传可以确定云合年冠吗",
@@ -6307,12 +6467,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96953,
+      "num": 96953,
+      "word": "赵丽颖 合照的同学成了大明星",
+      "onboard_time": 1766472201,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96924,
       "num": 96924,
       "word": "人之初",
       "onboard_time": 1766457800,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96626,
+      "num": 96626,
+      "word": "韩国人的婚礼让我眼前一惊又一惊",
+      "onboard_time": 1766472201,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96389,
+      "num": 98157,
+      "word": "韩国军官让刚入伍练习生找歌手",
+      "onboard_time": 1766468721,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96080,
@@ -6353,6 +6537,14 @@
       "onboard_time": 1766386880,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95647,
+      "num": 95647,
+      "word": "胖东来新店正式试营业",
+      "onboard_time": 1766469501,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95399,
@@ -6432,6 +6624,14 @@
       "word": "为弟追凶28年姐姐拍下嫌犯正面照",
       "onboard_time": 1766454859,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92100,
+      "num": 214462,
+      "word": "一村公示未缴医保人员名单住址",
+      "onboard_time": 1766471001,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -6563,14 +6763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88776,
-      "num": 98157,
-      "word": "韩国军官让刚入伍练习生找歌手",
-      "onboard_time": 1766468721,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88412,
       "num": 88412,
       "word": "一个恋爱玄学",
@@ -6644,7 +6836,7 @@
     },
     {
       "raw_hot": 85314,
-      "num": 190623,
+      "num": 216629,
       "word": "你不知道的车手魏建军",
       "onboard_time": 1766468541,
       "rank": 20,
@@ -7131,6 +7323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71400,
+      "num": 214702,
+      "word": "男子遴选双第一因原单位未打满分落选",
+      "onboard_time": 1766471121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70673,
       "num": 105057,
       "word": "海信世界杯定制产品亮相",
@@ -7545,6 +7745,14 @@
       "onboard_time": 1766277979,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55758,
+      "num": 125661,
+      "word": "张予曦要美成AI了",
+      "onboard_time": 1766471061,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 55451,
@@ -8801,6 +9009,14 @@
       "onboard_time": 1766243543,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22258,
+      "num": 350901,
+      "word": "智能且低排放的超大型油轮来了",
+      "onboard_time": 1766459360,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21981,
