@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766472270360,
+  "endTime": 1766473081886,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1046442,
-      "num": 251379,
+      "num": 270339,
       "word": "何穗回应因怀孕暂停工作",
       "onboard_time": 1766468601,
       "rank": 15,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 984092,
-      "num": 246272,
+      "num": 266983,
       "word": "牢A",
       "onboard_time": 1766469741,
       "rank": 11,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 736003,
-      "num": 217570,
+      "num": 263206,
       "word": "肖战在剧组把王彦霖迷成啥了",
       "onboard_time": 1766471240,
       "rank": 17,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 698204,
-      "num": 244769,
+      "num": 251989,
       "word": "何穗产后复出首封",
       "onboard_time": 1766466381,
       "rank": 10,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 441552,
-      "num": 234977,
+      "num": 257863,
       "word": "31岁才知道8块钱有多难挣",
       "onboard_time": 1766462061,
       "rank": 16,
@@ -337,6 +337,14 @@
       "onboard_time": 1766406321,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370245,
+      "num": 253532,
+      "word": "赵丽颖 合照的同学成了大明星",
+      "onboard_time": 1766472201,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 356758,
@@ -435,6 +443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 284843,
+      "num": 284843,
+      "word": "杨紫青衣饼一个接一个拿",
+      "onboard_time": 1766469860,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
@@ -467,14 +483,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 256869,
-      "num": 256869,
-      "word": "杨紫青衣饼一个接一个拿",
-      "onboard_time": 1766469860,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247254,
       "num": 257899,
       "word": "黄金大涨原因",
@@ -499,12 +507,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227800,
+      "num": 227800,
+      "word": "男子遴选双第一因原单位未打满分落选",
+      "onboard_time": 1766471121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "女孩打翻水杯背后是家庭教育缺位",
       "onboard_time": 1766452700,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 218308,
+      "num": 182203,
+      "word": "孙俪一餐就吃六个饺子",
+      "onboard_time": 1766472320,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 217805,
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188674,
+      "num": 188674,
+      "word": "冬天坚持跑步一个月的真实变化",
+      "onboard_time": 1766472921,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 187395,
       "num": 187395,
       "word": "时代峰峻新公司经营异常",
@@ -683,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172218,
+      "num": 172218,
+      "word": "杜海涛说有三十个沈梦辰会很幸福",
+      "onboard_time": 1766472261,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170544,
       "num": 170544,
       "word": "成龙彭昱畅别刀了我自己哭",
@@ -715,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166499,
+      "num": 150450,
+      "word": "杀害发小妻儿三人凶手表示不上诉",
+      "onboard_time": 1766471360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163268,
       "num": 163268,
       "word": "网约车臭车问题为何年年说年年有",
@@ -729,6 +777,14 @@
       "onboard_time": 1766425755,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158618,
+      "num": 158618,
+      "word": "快速保暖邪修",
+      "onboard_time": 1766472320,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 156608,
@@ -755,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153265,
+      "num": 153265,
+      "word": "高铁B座宽一些",
+      "onboard_time": 1766470521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151721,
       "num": 151721,
       "word": "庞铮1分钟视频报价3.5万",
@@ -769,6 +833,14 @@
       "onboard_time": 1766466021,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149618,
+      "num": 149618,
+      "word": "17岁女孩报警被强奸实为仙人跳",
+      "onboard_time": 1766469860,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147103,
@@ -787,27 +859,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143934,
+      "num": 143934,
+      "word": "刘若英演唱会100场",
+      "onboard_time": 1766471902,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142405,
       "num": 142405,
       "word": "校园火灾班主任兼宿管被判刑六年",
       "onboard_time": 1766464943,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142265,
-      "num": 142265,
-      "word": "17岁女孩报警被强奸实为仙人跳",
-      "onboard_time": 1766469860,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141411,
-      "num": 141411,
-      "word": "杀害发小妻儿三人凶手表示不上诉",
-      "onboard_time": 1766471360,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -817,6 +881,14 @@
       "onboard_time": 1766463682,
       "rank": 43,
       "category": "美食,休闲"
+    },
+    {
+      "raw_hot": 139525,
+      "num": 139525,
+      "word": "韩国人的婚礼让我眼前一惊又一惊",
+      "onboard_time": 1766472201,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 137936,
@@ -835,28 +907,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134294,
-      "num": 134294,
-      "word": "高铁B座宽一些",
-      "onboard_time": 1766470521,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "发现一个找对象的好地方",
       "onboard_time": 1766465003,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131286,
-      "num": 131286,
-      "word": "刘若英演唱会100场",
-      "onboard_time": 1766471902,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 130959,
@@ -881,6 +937,14 @@
       "onboard_time": 1766413943,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129922,
+      "num": 129922,
+      "word": "优衣库 偷拍顾客",
+      "onboard_time": 1766472440,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129382,
@@ -1123,6 +1187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 104637,
+      "num": 104637,
+      "word": "陈妍希陈靖可 允许一切发生",
+      "onboard_time": 1766472741,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104464,
       "num": 104464,
       "word": "湖人vs太阳",
@@ -1203,14 +1275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96953,
-      "num": 96953,
-      "word": "赵丽颖 合照的同学成了大明星",
-      "onboard_time": 1766472201,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96924,
       "num": 96924,
       "word": "人之初",
@@ -1219,20 +1283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96626,
-      "num": 96626,
-      "word": "韩国人的婚礼让我眼前一惊又一惊",
-      "onboard_time": 1766472201,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96389,
       "num": 98157,
       "word": "韩国军官让刚入伍练习生找歌手",
       "onboard_time": 1766468721,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96102,
+      "num": 96102,
+      "word": "第一次听到这个月工资这个月发",
+      "onboard_time": 1766469682,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96080,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1766457502,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89384,
+      "num": 89384,
+      "word": "纯妹妹",
+      "onboard_time": 1766470282,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 89067,
@@ -1539,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71400,
-      "num": 214702,
-      "word": "男子遴选双第一因原单位未打满分落选",
-      "onboard_time": 1766471121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69899,
       "num": 131772,
       "word": "广东私家车可入境香港市区",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1766464522,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61812,
+      "num": 150487,
+      "word": "张远三个月不谈恋爱可以吗",
+      "onboard_time": 1766472921,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 61561,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1766415802,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45062,
+      "num": 137670,
+      "word": "林俊杰一开嗓段奕宏王宝强更好嗑了",
+      "onboard_time": 1766472380,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 44533,
@@ -1971,20 +2051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24009,
+      "num": 350901,
+      "word": "智能且低排放的超大型油轮来了",
+      "onboard_time": 1766459360,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23029,
       "num": 188110,
       "word": "1名中国公民因泰柬冲突受轻微伤",
       "onboard_time": 1766460860,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22258,
-      "num": 350901,
-      "word": "智能且低排放的超大型油轮来了",
-      "onboard_time": 1766459360,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20986,
