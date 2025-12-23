@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766526068904,
+  "endTime": 1766528878780,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102882,
+      "num": 391617,
+      "word": "小洛熙事件涉事科室手术暂停不实",
+      "onboard_time": 1766508798,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97658,
       "num": 97658,
       "word": "她坠楼了他接住了我尖叫了",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81384,
-      "num": 184633,
-      "word": "小洛熙事件涉事科室手术暂停不实",
-      "onboard_time": 1766508798,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76875,
       "num": 88015,
       "word": "复联5首支预告正式发布",
@@ -289,6 +289,14 @@
       "onboard_time": 1766506402,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67113,
+      "num": 50627,
+      "word": "朝九晚九单休2500",
+      "onboard_time": 1766520914,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 66308,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59349,
+      "num": 87787,
+      "word": "王阳变成二胖了 你舅妈还是你舅妈",
+      "onboard_time": 1766501723,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58688,
       "num": 87851,
       "word": "自称考北大睡过头女生回应选择北大",
@@ -363,6 +379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57052,
+      "num": 60829,
+      "word": "环保少女伦敦被捕",
+      "onboard_time": 1766504545,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56449,
       "num": 87787,
       "word": "台北车站袭击案凶手父母下跪道歉",
@@ -379,36 +403,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 55206,
-      "num": 87787,
-      "word": "王阳变成二胖了 你舅妈还是你舅妈",
-      "onboard_time": 1766501723,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
       "onboard_time": 1766500102,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53943,
-      "num": 60829,
-      "word": "环保少女伦敦被捕",
-      "onboard_time": 1766504545,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51806,
-      "num": 28954,
-      "word": "朝九晚九单休2500",
-      "onboard_time": 1766520914,
-      "rank": 31,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 50700,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27600,
+      "num": 30297,
+      "word": "鞠婧祎用震撼来形容的美貌",
+      "onboard_time": 1766515995,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27557,
       "num": 59406,
       "word": "时代少年团直播",
@@ -516,19 +524,11 @@
     },
     {
       "raw_hot": 20291,
-      "num": 18502,
+      "num": 23075,
       "word": "2025歌词巅峰对决",
       "onboard_time": 1766521933,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18277,
-      "num": 30297,
-      "word": "鞠婧祎用震撼来形容的美貌",
-      "onboard_time": 1766515995,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18147,
@@ -539,7 +539,15 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 16319,
+      "raw_hot": 17924,
+      "num": 23103,
+      "word": "中方回应美称中部署百余枚洲际导弹",
+      "onboard_time": 1766517914,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17069,
       "num": 24896,
       "word": "律师称夫妻间发不雅视频非打击重点",
       "onboard_time": 1766516776,
@@ -547,20 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15224,
-      "num": 16448,
+      "raw_hot": 16546,
+      "num": 23094,
+      "word": "传播淫秽信息加大处罚专治擦边",
+      "onboard_time": 1766518035,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15423,
+      "num": 23090,
       "word": "京东巴黎仓库被盗",
       "onboard_time": 1766518634,
       "rank": 40,
       "category": "海外新闻,互联网"
     },
     {
-      "raw_hot": 14778,
-      "num": 19431,
-      "word": "中方回应美称中部署百余枚洲际导弹",
-      "onboard_time": 1766517914,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 15123,
+      "num": 23087,
+      "word": "法学界来了个狙击手",
+      "onboard_time": 1766528115,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 14539,
@@ -571,16 +587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13708,
-      "num": 19431,
-      "word": "传播淫秽信息加大处罚专治擦边",
-      "onboard_time": 1766518035,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12270,
-      "num": 16430,
+      "raw_hot": 13762,
+      "num": 23076,
       "word": "微博网友年度喜爱作品",
       "onboard_time": 1766512696,
       "rank": 46,
@@ -595,8 +603,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8675,
-      "num": 48653,
+      "raw_hot": 9749,
+      "num": 82094,
       "word": "预计2025我国交通出行超660亿人次",
       "onboard_time": 1766494762,
       "rank": 2,
