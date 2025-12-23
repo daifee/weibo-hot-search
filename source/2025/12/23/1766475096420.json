@@ -1,0 +1,410 @@
+{
+  "runTime": 1766475096420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 798874,
+        "num": 1127819,
+        "word": "英国将禁止将活龙虾直接投入沸水烹煮",
+        "onboard_time": 1766466623,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203069,
+        "num": 1048435,
+        "word": "唐诡奇谭之九重楼定档",
+        "onboard_time": 1766466082,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20259,
+        "num": 809397,
+        "word": "智能且低排放的超大型油轮来了",
+        "onboard_time": 1766459360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296408,
+        "num": 756194,
+        "word": "张远三个月不谈恋爱可以吗",
+        "onboard_time": 1766472921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197060,
+        "num": 540815,
+        "word": "江苏成立调查组彻查南博文物管理问题",
+        "onboard_time": 1766466801,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451808,
+        "num": 451808,
+        "word": "31岁才知道8块钱有多难挣",
+        "onboard_time": 1766462061,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392831,
+        "num": 392831,
+        "word": "金价突破1400元",
+        "onboard_time": 1766468480,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283065,
+        "num": 390640,
+        "word": "杨紫青衣饼一个接一个拿",
+        "onboard_time": 1766469860,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325260,
+        "num": 388366,
+        "word": "杀害发小妻儿三人凶手表示不上诉",
+        "onboard_time": 1766471360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225196,
+        "num": 385206,
+        "word": "高铁B座宽一些",
+        "onboard_time": 1766470521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962628,
+        "num": 382330,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893001,
+        "num": 379720,
+        "word": "牢A",
+        "onboard_time": 1766469741,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 757123,
+        "num": 374605,
+        "word": "何穗回应因怀孕暂停工作",
+        "onboard_time": 1766468601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448448,
+        "num": 371644,
+        "word": "考北大睡过头了",
+        "onboard_time": 1766462121,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496768,
+        "num": 367860,
+        "word": "肖战在剧组把王彦霖迷成啥了",
+        "onboard_time": 1766471240,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366814,
+        "num": 366814,
+        "word": "宁静 这小男朋友交上了",
+        "onboard_time": 1766473401,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339704,
+        "num": 339704,
+        "word": "县城体制内女性找对象越来越难",
+        "onboard_time": 1766465003,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186551,
+        "num": 321540,
+        "word": "野心家",
+        "onboard_time": 1766473820,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34882,
+        "num": 306613,
+        "word": "于适孙艺洲学企鹅走路",
+        "onboard_time": 1766473879,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36735,
+        "num": 285618,
+        "word": "成都23岁男生失联9天后遗体被发现",
+        "onboard_time": 1766474422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361114,
+        "num": 278790,
+        "word": "孙俪一餐就吃六个饺子",
+        "onboard_time": 1766472320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195768,
+        "num": 246185,
+        "word": "狗狗临终前被允许尝巧克力",
+        "onboard_time": 1766461341,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 245578,
+        "num": 245578,
+        "word": "肖战ELLE杂志",
+        "onboard_time": 1766457139,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241127,
+        "num": 241127,
+        "word": "周末双休工资到手5000",
+        "onboard_time": 1766465542,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205022,
+        "num": 205022,
+        "word": "松韵我有点不认识你了",
+        "onboard_time": 1766466321,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164789,
+        "num": 164789,
+        "word": "其实很多癌症都是省出来的",
+        "onboard_time": 1766467161,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164558,
+        "num": 164558,
+        "word": "俄乌杀红了眼",
+        "onboard_time": 1766453001,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159948,
+        "num": 159948,
+        "word": "最适合懒人的家",
+        "onboard_time": 1766473820,
+        "rank": 27,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 156064,
+        "num": 156064,
+        "word": "孟子义一摔 摔出五个热心肠",
+        "onboard_time": 1766471121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156024,
+        "num": 156024,
+        "word": "冬天坚持跑步一个月的真实变化",
+        "onboard_time": 1766472921,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61558,
+        "num": 154954,
+        "word": "2岁录成8岁幼童打疫苗后出现不适",
+        "onboard_time": 1766473221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154135,
+        "num": 154135,
+        "word": "骄阳似我追剧团",
+        "onboard_time": 1766474061,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143848,
+        "num": 143848,
+        "word": "虞书欣和mike太好笑了",
+        "onboard_time": 1766474422,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141973,
+        "num": 141973,
+        "word": "17岁女孩报警被强奸实为仙人跳",
+        "onboard_time": 1766469860,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129208,
+        "num": 129208,
+        "word": "何穗产后复出首封",
+        "onboard_time": 1766466381,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 128557,
+        "num": 128557,
+        "word": "卢昱晓 最爱公主的永远是国王",
+        "onboard_time": 1766473521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125596,
+        "num": 125596,
+        "word": "中国人的买金血脉迟早要觉醒",
+        "onboard_time": 1766473401,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29731,
+        "num": 123465,
+        "word": "男子杀害7个月大侄女案一审将宣判",
+        "onboard_time": 1766474960,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30594,
+        "num": 122249,
+        "word": "车祸获赔6万员工发现保单被隐瞒",
+        "onboard_time": 1766474180,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122142,
+        "num": 122142,
+        "word": "月薪3万意味着日薪1379",
+        "onboard_time": 1766470221,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39499,
+        "num": 121405,
+        "word": "男子戳穿猪肉当牛肉卖被群殴致伤",
+        "onboard_time": 1766473761,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121058,
+        "num": 121058,
+        "word": "12306回应网传高铁B座更宽",
+        "onboard_time": 1766474601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120811,
+        "num": 120811,
+        "word": "谁家好剧一女钓四男啊",
+        "onboard_time": 1766474781,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91288,
+        "num": 119786,
+        "word": "陈楚生 冠军玄学",
+        "onboard_time": 1766473580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119647,
+        "num": 119647,
+        "word": "失眠了骄阳似我能不能全责",
+        "onboard_time": 1766474840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118447,
+        "num": 118447,
+        "word": "母亲回应儿子公务员遴选成绩第一落选",
+        "onboard_time": 1766460199,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 118387,
+        "word": "李莎旻子 不是身体病了才能看医生",
+        "onboard_time": 1766473221,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114381,
+        "num": 114381,
+        "word": "王者荣耀胜率最低辅助",
+        "onboard_time": 1766474902,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 113178,
+        "word": "杜海涛说有三十个沈梦辰会很幸福",
+        "onboard_time": 1766472261,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109435,
+        "num": 109435,
+        "word": "热咖啡和冰咖啡区别居然这么大",
+        "onboard_time": 1766463682,
+        "rank": 49,
+        "category": "美食,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    }
+  }
+}
