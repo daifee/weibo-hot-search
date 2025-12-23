@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766462647247,
+  "endTime": 1766465796344,
   "band_list": [
     {
       "raw_hot": 10242971,
@@ -145,6 +145,14 @@
       "onboard_time": 1766415442,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1365711,
+      "num": 314348,
+      "word": "考北大睡过头了",
+      "onboard_time": 1766462121,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1335262,
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599179,
+      "num": 200224,
+      "word": "狗狗临终前被允许尝巧克力",
+      "onboard_time": 1766461341,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 597681,
       "num": 230191,
       "word": "宋祖儿发现站昀孟中间的反应",
@@ -1011,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499247,
+      "num": 446642,
+      "word": "我妈眼里我的月薪三千",
+      "onboard_time": 1766459780,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 496503,
       "num": 293977,
       "word": "黄鱼面塌房",
@@ -1075,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 477528,
-      "num": 446642,
-      "word": "我妈眼里我的月薪三千",
-      "onboard_time": 1766459780,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 473167,
       "num": 473167,
       "word": "考研数学三",
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 472961,
-      "num": 186419,
+      "num": 197752,
       "word": "这是胡彦斌选易梦玲的原因吗",
       "onboard_time": 1766460379,
       "rank": 21,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1766378363,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 455311,
-      "num": 179305,
-      "word": "狗狗临终前被允许尝巧克力",
-      "onboard_time": 1766461341,
-      "rank": 24,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 452143,
@@ -1499,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378525,
+      "num": 199521,
+      "word": "杨紫工作室",
+      "onboard_time": 1766463201,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378296,
       "num": 265293,
       "word": "王影璐 鞋跟",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356758,
+      "num": 197596,
+      "word": "肖战花裤子",
+      "onboard_time": 1766464641,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 356240,
@@ -1808,6 +1832,14 @@
       "word": "周也丞磊 新娘新郎",
       "onboard_time": 1766305342,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314778,
+      "num": 314778,
+      "word": "丁禹兮给刘宇宁鞋底摘纸片",
+      "onboard_time": 1766464581,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -2179,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261423,
+      "num": 198994,
+      "word": "华为何刚晒与易烊千玺合照",
+      "onboard_time": 1766460982,
+      "rank": 17,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 261050,
       "num": 261050,
       "word": "微信转发淫秽信息给好友也违法",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1766322144,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259086,
+      "num": 174140,
+      "word": "周末双休工资到手5000",
+      "onboard_time": 1766465542,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 258319,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1766282298,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240705,
+      "num": 198825,
+      "word": "31岁才知道8块钱有多难挣",
+      "onboard_time": 1766462061,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 238330,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1766282659,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222668,
+      "num": 222668,
+      "word": "原来火锅店腌制肉这么多危害",
+      "onboard_time": 1766464160,
+      "rank": 8,
+      "category": "科学科普"
     },
     {
       "raw_hot": 221387,
@@ -2667,14 +2731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206323,
-      "num": 190156,
-      "word": "华为何刚晒与易烊千玺合照",
-      "onboard_time": 1766460982,
-      "rank": 17,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 205893,
       "num": 205893,
       "word": "陈都灵获奖感言",
@@ -2835,6 +2891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200271,
+      "num": 200271,
+      "word": "重庆财政局发布情况通报",
+      "onboard_time": 1766463682,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 199952,
       "num": 199952,
       "word": "杜克发布和一哥告别视频后涨粉48万",
@@ -2913,6 +2977,14 @@
       "onboard_time": 1766312782,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196427,
+      "num": 196427,
+      "word": "恋与深空二周年直播",
+      "onboard_time": 1766464581,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 196297,
@@ -3145,6 +3217,14 @@
       "onboard_time": 1766321603,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188625,
+      "num": 173184,
+      "word": "男孩下车方便躲过灭门车祸",
+      "onboard_time": 1766464943,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 188013,
@@ -3515,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169409,
+      "num": 196830,
+      "word": "光遇",
+      "onboard_time": 1766463141,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169190,
       "num": 169190,
       "word": "老舅",
@@ -3545,14 +3633,6 @@
       "onboard_time": 1766304201,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167344,
-      "num": 120217,
-      "word": "考北大睡过头了",
-      "onboard_time": 1766462121,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 166397,
@@ -3835,6 +3915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155363,
+      "num": 155363,
+      "word": "奥司他韦的含金量还在上升",
+      "onboard_time": 1766465602,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "成毅王子璇新剧好浓的哥妹味儿",
@@ -3905,6 +3993,14 @@
       "onboard_time": 1766273777,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151721,
+      "num": 151721,
+      "word": "庞铮1分钟视频报价3.5万",
+      "onboard_time": 1766463201,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151451,
@@ -4251,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142405,
+      "num": 142405,
+      "word": "校园火灾班主任兼宿管被判刑六年",
+      "onboard_time": 1766464943,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142075,
       "num": 167361,
       "word": "龚俊紧急撤回一个李乃文摆拍",
@@ -4419,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137581,
+      "num": 137581,
+      "word": "热咖啡和冰咖啡区别居然这么大",
+      "onboard_time": 1766463682,
+      "rank": 43,
+      "category": "美食,休闲"
+    },
+    {
       "raw_hot": 137546,
       "num": 260871,
       "word": "35岁就不配相亲了吗",
@@ -4507,6 +4619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135724,
+      "num": 175059,
+      "word": "普京收到俄中将遇害消息",
+      "onboard_time": 1766463141,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135590,
       "num": 349958,
       "word": "星光大赏出发",
@@ -4537,6 +4657,14 @@
       "onboard_time": 1766396120,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134086,
+      "num": 134086,
+      "word": "发现一个找对象的好地方",
+      "onboard_time": 1766465003,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 134035,
@@ -4587,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130959,
+      "num": 130959,
+      "word": "冬天降温后的邪修取暖大法",
+      "onboard_time": 1766464881,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130954,
       "num": 130954,
       "word": "邱鼎杰喜欢综合格斗",
@@ -4633,6 +4769,14 @@
       "onboard_time": 1766286860,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130452,
+      "num": 124313,
+      "word": "唐诡播完中剧播短剧",
+      "onboard_time": 1766465602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130345,
@@ -4851,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124657,
+      "num": 124657,
+      "word": "宣萱否认恋情",
+      "onboard_time": 1766463442,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124623,
       "num": 124623,
       "word": "熬夜后多吃3类食物补救",
@@ -4921,6 +5073,14 @@
       "onboard_time": 1766403321,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122661,
+      "num": 122661,
+      "word": "离职最划算的月份",
+      "onboard_time": 1766465363,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122125,
@@ -5259,6 +5419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112159,
+      "num": 140034,
+      "word": "县城体制内女性找对象越来越难",
+      "onboard_time": 1766465003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "徐冬冬回应是不是爱尹子维的钱",
@@ -5539,6 +5707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106095,
+      "num": 140234,
+      "word": "网剧胭脂泪开播",
+      "onboard_time": 1766465182,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106056,
       "num": 106056,
       "word": "顾玉怎么站起来了",
@@ -5696,6 +5872,14 @@
       "word": "LPR",
       "onboard_time": 1766370199,
       "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 102829,
+      "num": 199182,
+      "word": "才发现余额宝还可以攒黄金攒定期",
+      "onboard_time": 1766462481,
+      "rank": 30,
       "category": "财经"
     },
     {
@@ -5977,6 +6161,14 @@
       "onboard_time": 1766457800,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96080,
+      "num": 198396,
+      "word": "范丞丞演我E人攒钱",
+      "onboard_time": 1766463442,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 96071,
@@ -6283,6 +6475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85206,
+      "num": 141041,
+      "word": "妻儿被发小杀害丈夫一度精神失常",
+      "onboard_time": 1766465602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84848,
       "num": 84848,
       "word": "杜兰特与布鲁斯布朗互喷",
@@ -6361,6 +6561,14 @@
       "onboard_time": 1766305162,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82648,
+      "num": 196614,
+      "word": "华为将发布非凡大师品牌主题曲",
+      "onboard_time": 1766464522,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 82553,
@@ -6723,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72187,
+      "num": 137828,
+      "word": "陈昌雨坚持判父亲死刑被骂白眼狼",
+      "onboard_time": 1766464402,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71959,
       "num": 273325,
       "word": "鸿蒙盛典黑科技大盘点",
@@ -6817,14 +7033,6 @@
       "onboard_time": 1766397920,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68562,
-      "num": 120424,
-      "word": "才发现余额宝还可以攒黄金攒定期",
-      "onboard_time": 1766462481,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 68462,
@@ -6977,6 +7185,14 @@
       "onboard_time": 1766415802,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62529,
+      "num": 176454,
+      "word": "2026年第一杯敬老己",
+      "onboard_time": 1766464522,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 62471,
@@ -7163,6 +7379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54951,
+      "num": 197986,
+      "word": "向好友发不雅照违法并非修法新增",
+      "onboard_time": 1766464581,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54883,
       "num": 661112,
       "word": "我国冰雪产业规模将破万亿元",
@@ -7201,6 +7425,14 @@
       "onboard_time": 1766302341,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53032,
+      "num": 198242,
+      "word": "晒过太阳的被子让人安睡",
+      "onboard_time": 1766464581,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 53006,
@@ -7257,6 +7489,14 @@
       "onboard_time": 1766359879,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51225,
+      "num": 197029,
+      "word": "为弟追凶28年姐姐假装打工接近嫌犯",
+      "onboard_time": 1766464342,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51003,
@@ -8049,6 +8289,14 @@
       "onboard_time": 1766232502,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30796,
+      "num": 138291,
+      "word": "日本宣扬拥核窜访台湾不是孤立事件",
+      "onboard_time": 1766463622,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30761,

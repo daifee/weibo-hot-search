@@ -1,0 +1,410 @@
+{
+  "runTime": 1766465796344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 789395,
+        "num": 1126303,
+        "word": "俄乌杀红了眼",
+        "onboard_time": 1766453001,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357161,
+        "num": 357161,
+        "word": "长征十二号甲火箭回收失败",
+        "onboard_time": 1766458040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51431,
+        "num": 335034,
+        "word": "我国冰雪产业规模将破万亿元",
+        "onboard_time": 1766460020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318325,
+        "num": 318325,
+        "word": "疯狂动物城2近一半票房来自中国",
+        "onboard_time": 1766460560,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314778,
+        "num": 314778,
+        "word": "丁禹兮给刘宇宁鞋底摘纸片",
+        "onboard_time": 1766464581,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1365711,
+        "num": 314348,
+        "word": "考北大睡过头了",
+        "onboard_time": 1766462121,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 738301,
+        "num": 312444,
+        "word": "母亲回应儿子公务员遴选成绩第一落选",
+        "onboard_time": 1766460199,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272518,
+        "num": 272518,
+        "word": "官方回应公务员遴选第一名却落选",
+        "onboard_time": 1766457620,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222668,
+        "num": 222668,
+        "word": "原来火锅店腌制肉这么多危害",
+        "onboard_time": 1766464160,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200271,
+        "num": 200271,
+        "word": "重庆财政局发布情况通报",
+        "onboard_time": 1766463682,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 599179,
+        "num": 200224,
+        "word": "狗狗临终前被允许尝巧克力",
+        "onboard_time": 1766461341,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 499247,
+        "num": 199932,
+        "word": "我妈眼里我的月薪三千",
+        "onboard_time": 1766459780,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454459,
+        "num": 199741,
+        "word": "肖战ELLE杂志",
+        "onboard_time": 1766457139,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378525,
+        "num": 199521,
+        "word": "杨紫工作室",
+        "onboard_time": 1766463201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102829,
+        "num": 199182,
+        "word": "才发现余额宝还可以攒黄金攒定期",
+        "onboard_time": 1766462481,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261423,
+        "num": 198994,
+        "word": "华为何刚晒与易烊千玺合照",
+        "onboard_time": 1766460982,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 240705,
+        "num": 198825,
+        "word": "31岁才知道8块钱有多难挣",
+        "onboard_time": 1766462061,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96080,
+        "num": 198396,
+        "word": "范丞丞演我E人攒钱",
+        "onboard_time": 1766463442,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53032,
+        "num": 198242,
+        "word": "晒过太阳的被子让人安睡",
+        "onboard_time": 1766464581,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 54951,
+        "num": 197986,
+        "word": "向好友发不雅照违法并非修法新增",
+        "onboard_time": 1766464581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379067,
+        "num": 197752,
+        "word": "这是胡彦斌选易梦玲的原因吗",
+        "onboard_time": 1766460379,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356758,
+        "num": 197596,
+        "word": "肖战花裤子",
+        "onboard_time": 1766464641,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346913,
+        "num": 197280,
+        "word": "韩美娟官宣恋情",
+        "onboard_time": 1766412323,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51225,
+        "num": 197029,
+        "word": "为弟追凶28年姐姐假装打工接近嫌犯",
+        "onboard_time": 1766464342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169409,
+        "num": 196830,
+        "word": "光遇",
+        "onboard_time": 1766463141,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82648,
+        "num": 196614,
+        "word": "华为将发布非凡大师品牌主题曲",
+        "onboard_time": 1766464522,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196427,
+        "num": 196427,
+        "word": "恋与深空二周年直播",
+        "onboard_time": 1766464581,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176822,
+        "num": 176822,
+        "word": "黄金大涨原因",
+        "onboard_time": 1766448020,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62529,
+        "num": 176454,
+        "word": "2026年第一杯敬老己",
+        "onboard_time": 1766464522,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135724,
+        "num": 175059,
+        "word": "普京收到俄中将遇害消息",
+        "onboard_time": 1766463141,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259086,
+        "num": 174140,
+        "word": "周末双休工资到手5000",
+        "onboard_time": 1766465542,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 173184,
+        "word": "男孩下车方便躲过灭门车祸",
+        "onboard_time": 1766464943,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173119,
+        "num": 173119,
+        "word": "庞铮对贺峻霖道歉",
+        "onboard_time": 1766415442,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 156132,
+        "word": "李艺彤官宣离开丝芭",
+        "onboard_time": 1766444777,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155363,
+        "num": 155363,
+        "word": "奥司他韦的含金量还在上升",
+        "onboard_time": 1766465602,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151721,
+        "num": 151721,
+        "word": "庞铮1分钟视频报价3.5万",
+        "onboard_time": 1766463201,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142405,
+        "num": 142405,
+        "word": "校园火灾班主任兼宿管被判刑六年",
+        "onboard_time": 1766464943,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85206,
+        "num": 141041,
+        "word": "妻儿被发小杀害丈夫一度精神失常",
+        "onboard_time": 1766465602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106095,
+        "num": 140234,
+        "word": "网剧胭脂泪开播",
+        "onboard_time": 1766465182,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112159,
+        "num": 140034,
+        "word": "县城体制内女性找对象越来越难",
+        "onboard_time": 1766465003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139859,
+        "num": 139859,
+        "word": "竞浪大会推荐",
+        "onboard_time": 1766447719,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30796,
+        "num": 138291,
+        "word": "日本宣扬拥核窜访台湾不是孤立事件",
+        "onboard_time": 1766463622,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72187,
+        "num": 137828,
+        "word": "陈昌雨坚持判父亲死刑被骂白眼狼",
+        "onboard_time": 1766464402,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137581,
+        "num": 137581,
+        "word": "热咖啡和冰咖啡区别居然这么大",
+        "onboard_time": 1766463682,
+        "rank": 43,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 134086,
+        "num": 134086,
+        "word": "发现一个找对象的好地方",
+        "onboard_time": 1766465003,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "冬天降温后的邪修取暖大法",
+        "onboard_time": 1766464881,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124657,
+        "num": 124657,
+        "word": "宣萱否认恋情",
+        "onboard_time": 1766463442,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130452,
+        "num": 124313,
+        "word": "唐诡播完中剧播短剧",
+        "onboard_time": 1766465602,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122661,
+        "num": 122661,
+        "word": "离职最划算的月份",
+        "onboard_time": 1766465363,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118781,
+        "num": 118781,
+        "word": "金饰价一夜涨36元",
+        "onboard_time": 1766454081,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    }
+  }
+}
