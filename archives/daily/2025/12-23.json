@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766479159587,
+  "endTime": 1766479997338,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -16,6 +16,14 @@
       "word": "官方通报南京博物院事件",
       "onboard_time": 1766453541,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1413363,
+      "num": 1413363,
+      "word": "夫妻或情侣互发私密照违法吗",
+      "onboard_time": 1766478022,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -243,6 +251,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 510048,
+      "num": 510048,
+      "word": "骄阳似我",
+      "onboard_time": 1766397501,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 507054,
+      "num": 344914,
+      "word": "朱孝天 场面话听听就算了吧",
+      "onboard_time": 1766475801,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 500134,
       "num": 500134,
       "word": "宋小宝谢娜在后台都没认出李维嘉",
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481184,
+      "num": 451808,
+      "word": "31岁才知道8块钱有多难挣",
+      "onboard_time": 1766462061,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 472961,
       "num": 197752,
       "word": "这是胡彦斌选易梦玲的原因吗",
@@ -299,28 +331,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 467096,
-      "num": 344914,
-      "word": "朱孝天 场面话听听就算了吧",
-      "onboard_time": 1766475801,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 459758,
       "num": 256946,
       "word": "肖战ELLE杂志",
       "onboard_time": 1766457139,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 451808,
-      "num": 451808,
-      "word": "31岁才知道8块钱有多难挣",
-      "onboard_time": 1766462061,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 447276,
@@ -393,14 +409,6 @@
       "onboard_time": 1766406321,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 365064,
-      "num": 365064,
-      "word": "夫妻或情侣互发私密照违法吗",
-      "onboard_time": 1766478022,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 361114,
@@ -507,20 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296060,
-      "num": 296060,
-      "word": "骄阳似我",
-      "onboard_time": 1766397501,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294502,
       "num": 348923,
       "word": "性侵5名学生案维持死刑判决",
       "onboard_time": 1766475624,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289694,
+      "num": 183085,
+      "word": "汪东城收藏了一堆王玉雯视频",
+      "onboard_time": 1766479101,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 287834,
@@ -561,6 +569,14 @@
       "onboard_time": 1766420420,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269932,
+      "num": 182326,
+      "word": "小洛熙后又一家长举报宁波妇儿医院",
+      "onboard_time": 1766479161,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261423,
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190327,
+      "num": 347682,
+      "word": "樊振东退出世界排名一年整",
+      "onboard_time": 1766477541,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189933,
       "num": 189933,
       "word": "顾漫现偶唯一真神",
@@ -793,14 +817,6 @@
       "onboard_time": 1766459660,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183214,
-      "num": 347682,
-      "word": "樊振东退出世界排名一年整",
-      "onboard_time": 1766477541,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 182126,
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151492,
+      "num": 151492,
+      "word": "男孩挨个舔食超市散装糕点",
+      "onboard_time": 1766477302,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150367,
       "num": 150367,
       "word": "陈妍希录制央视跨年晚会",
@@ -1059,6 +1083,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 137346,
+      "num": 142525,
+      "word": "豆瓣年度榜单",
+      "onboard_time": 1766478739,
+      "rank": 42,
+      "category": "作品衍生,互联网"
+    },
+    {
       "raw_hot": 137052,
       "num": 137052,
       "word": "12306回应网传高铁B座更宽",
@@ -1075,6 +1107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135236,
+      "num": 135236,
+      "word": "单依纯 试试又能怎",
+      "onboard_time": 1766478980,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "发现一个找对象的好地方",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1766464881,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130610,
-      "num": 130610,
-      "word": "男孩挨个舔食超市散装糕点",
-      "onboard_time": 1766477302,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130452,
@@ -1387,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110674,
-      "num": 110674,
-      "word": "豆瓣年度榜单",
-      "onboard_time": 1766478739,
-      "rank": 42,
-      "category": "作品衍生,互联网"
+      "raw_hot": 110302,
+      "num": 110302,
+      "word": "明年手机会大幅度涨价吗",
+      "onboard_time": 1766479880,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 110250,
@@ -1555,12 +1587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100826,
-      "num": 100826,
-      "word": "单依纯 试试又能怎",
-      "onboard_time": 1766478980,
-      "rank": 46,
-      "category": "音乐"
+      "raw_hot": 100091,
+      "num": 100091,
+      "word": "欧豪 顶流花御用男主",
+      "onboard_time": 1766479761,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 100038,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1766472201,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98413,
+      "num": 98413,
+      "word": "苹果你真的别太浪漫",
+      "onboard_time": 1766479940,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 97390,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1766457800,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96900,
+      "num": 96900,
+      "word": "买了一件香奈儿的遇水变色外套",
+      "onboard_time": 1766479880,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 96389,
@@ -1659,8 +1707,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94142,
+      "num": 94142,
+      "word": "已收到PEL集结夜邀请函",
+      "onboard_time": 1766479641,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93689,
-      "num": 120168,
+      "num": 178763,
       "word": "唐国强用荣耀WIN再借东风",
       "onboard_time": 1766479101,
       "rank": 34,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1766451442,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88983,
-      "num": 88983,
-      "word": "汪东城收藏了一堆王玉雯视频",
-      "onboard_time": 1766479101,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 88517,
@@ -2147,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47139,
+      "num": 118555,
+      "word": "女孩被虐待致死案生父法庭崩溃",
+      "onboard_time": 1766478200,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46434,
       "num": 156396,
       "word": "阿福绑定智能手表有摔倒急救服务",
@@ -2199,14 +2255,6 @@
       "num": 111020,
       "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
       "onboard_time": 1766461279,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43441,
-      "num": 118555,
-      "word": "女孩被虐待致死案生父法庭崩溃",
-      "onboard_time": 1766478200,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -2276,7 +2324,7 @@
     },
     {
       "raw_hot": 37596,
-      "num": 130622,
+      "num": 151653,
       "word": "AI拍照能识别管理家庭药箱了",
       "onboard_time": 1766477060,
       "rank": 31,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1766456061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31687,
+      "num": 117703,
+      "word": "这一幕不亚于肖奈接贝微微",
+      "onboard_time": 1766479341,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 31609,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1766459360,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23622,
+      "num": 118202,
+      "word": "谁家女主追男朋友还被老公发现",
+      "onboard_time": 1766479401,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 23029,
