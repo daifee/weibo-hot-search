@@ -1,7 +1,15 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766501213903,
+  "endTime": 1766503903857,
   "band_list": [
+    {
+      "raw_hot": 10447562,
+      "num": 10447562,
+      "word": "阚清子",
+      "onboard_time": 1766501422,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1910388,
       "num": 1910388,
@@ -249,6 +257,14 @@
       "onboard_time": 1766481560,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 674793,
+      "num": 1107966,
+      "word": "丽江公开发函喊话小红书",
+      "onboard_time": 1766498001,
+      "rank": 46,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 672562,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 471033,
-      "num": 280002,
+      "num": 295912,
       "word": "穆祉丞搭王橹杰的肩",
       "onboard_time": 1766499563,
       "rank": 13,
@@ -545,14 +561,6 @@
       "onboard_time": 1766470521,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419069,
-      "num": 1067051,
-      "word": "丽江公开发函喊话小红书",
-      "onboard_time": 1766498001,
-      "rank": 46,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 415655,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322255,
+      "num": 295739,
+      "word": "马龙妻子夏露跳舞太专业",
+      "onboard_time": 1766503046,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319581,
       "num": 319581,
       "word": "私聊发不雅内容不再只是社死",
@@ -760,6 +776,14 @@
       "word": "女孩要水后炫耀被一旁女孩打翻",
       "onboard_time": 1766411362,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299212,
+      "num": 296440,
+      "word": "安徽27天新生儿住院治疗时去世",
+      "onboard_time": 1766499862,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -825,14 +849,6 @@
       "onboard_time": 1766485161,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 280248,
-      "num": 280248,
-      "word": "安徽27天新生儿住院治疗时去世",
-      "onboard_time": 1766499862,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279508,
@@ -939,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229368,
+      "num": 229368,
+      "word": "双北",
+      "onboard_time": 1766501244,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227800,
       "num": 227800,
       "word": "男子遴选双第一因原单位未打满分落选",
@@ -1017,6 +1041,22 @@
       "onboard_time": 1766471121,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207195,
+      "num": 207195,
+      "word": "章子怡四封金莲花影后",
+      "onboard_time": 1766502625,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206876,
+      "num": 206876,
+      "word": "虞书欣她拍的含金量还在上升",
+      "onboard_time": 1766502746,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 205914,
@@ -1123,6 +1163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "杜克 一哥",
+      "onboard_time": 1766502685,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 194354,
       "num": 194354,
       "word": "Faker成都见面会",
@@ -1203,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187379,
+      "num": 178135,
+      "word": "单依纯一口气发了54张图",
+      "onboard_time": 1766502685,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186802,
       "num": 186802,
       "word": "刘诗诗高马尾青春女大",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1766473820,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185600,
+      "num": 185600,
+      "word": "慕胥辞",
+      "onboard_time": 1766502985,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 184770,
@@ -1643,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144093,
+      "num": 144093,
+      "word": "复联5首支预告正式发布",
+      "onboard_time": 1766501182,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143934,
       "num": 143934,
       "word": "刘若英演唱会100场",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1766478920,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140010,
+      "num": 140010,
+      "word": "王阳变成二胖了 你舅妈还是你舅妈",
+      "onboard_time": 1766501723,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 139594,
@@ -1865,6 +1945,14 @@
       "onboard_time": 1766471601,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129074,
+      "num": 224086,
+      "word": "外国游客逛景区将婴儿寄存给保安",
+      "onboard_time": 1766499862,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129040,
@@ -2395,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104696,
+      "num": 129805,
+      "word": "AG歼灭胜利晋级",
+      "onboard_time": 1766503167,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104669,
       "num": 104669,
       "word": "这4类人喝咖啡会格外受益",
@@ -2467,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "陈辰这也是你想对贺峻霖说的话吧",
+      "onboard_time": 1766503705,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102079,
       "num": 102079,
       "word": "盘点孙颖莎2025逆转名场面",
@@ -2513,14 +2617,6 @@
       "onboard_time": 1766407582,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100881,
-      "num": 118650,
-      "word": "外国游客逛景区将婴儿寄存给保安",
-      "onboard_time": 1766499862,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100091,
@@ -2699,6 +2795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94199,
+      "num": 98043,
+      "word": "台北车站袭击案凶手父母下跪道歉",
+      "onboard_time": 1766503347,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94142,
       "num": 94142,
       "word": "已收到PEL集结夜邀请函",
@@ -2769,14 +2873,6 @@
       "onboard_time": 1766461161,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 90785,
-      "num": 102772,
-      "word": "复联5首支预告正式发布",
-      "onboard_time": 1766501182,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 90260,
@@ -2947,6 +3043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82999,
+      "num": 108620,
+      "word": "生父始终不认罪把记者都气结巴了",
+      "onboard_time": 1766502866,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82648,
       "num": 196614,
       "word": "华为将发布非凡大师品牌主题曲",
@@ -2971,6 +3075,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 78195,
+      "num": 97996,
+      "word": "油茶榨干成了洗头神器",
+      "onboard_time": 1766502746,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78041,
       "num": 99052,
       "word": "外国夫妻贵阳出游将双胞胎托付保安",
@@ -2985,6 +3097,14 @@
       "onboard_time": 1766414423,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77435,
+      "num": 97900,
+      "word": "丽江称因小红书不实帖损失超500万",
+      "onboard_time": 1766503525,
+      "rank": 47,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 76801,
@@ -3057,6 +3177,14 @@
       "onboard_time": 1766481801,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71318,
+      "num": 97884,
+      "word": "考研前vs考研后",
+      "onboard_time": 1766503705,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 69899,
@@ -3507,12 +3635,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36341,
+      "num": 108944,
+      "word": "台北袭击案凶手父母跪地道歉",
+      "onboard_time": 1766502866,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35818,
       "num": 145716,
       "word": "发现圆脸自带亲和力buff",
       "onboard_time": 1766416461,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35414,
+      "num": 112633,
+      "word": "美国大叔发夜游视频感慨中国自由",
+      "onboard_time": 1766503404,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34909,
