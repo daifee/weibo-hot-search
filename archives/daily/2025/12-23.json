@@ -1,6 +1,6 @@
 {
   "startTime": 1766421385507,
-  "endTime": 1766457041277,
+  "endTime": 1766461810881,
   "band_list": [
     {
       "raw_hot": 1910388,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1094316,
+      "num": 1175090,
+      "word": "长征十二号甲火箭回收失败",
+      "onboard_time": 1766458040,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1050562,
       "num": 1050562,
       "word": "长征十二号甲火箭",
@@ -41,6 +49,22 @@
       "onboard_time": 1766415442,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1007543,
+      "num": 658273,
+      "word": "杨紫欧豪官宣开机海报",
+      "onboard_time": 1766459479,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 904441,
+      "num": 567616,
+      "word": "妻子被砍杀8岁儿子扑上挡刀",
+      "onboard_time": 1766456061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 802813,
@@ -59,8 +83,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698525,
+      "num": 698525,
+      "word": "母亲回应儿子公务员遴选成绩第一落选",
+      "onboard_time": 1766460199,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672562,
-      "num": 167070,
+      "num": 186987,
       "word": "韩美娟官宣恋情",
       "onboard_time": 1766412323,
       "rank": 20,
@@ -121,6 +153,30 @@
       "onboard_time": 1766450482,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444364,
+      "num": 256946,
+      "word": "肖战ELLE杂志",
+      "onboard_time": 1766457139,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443992,
+      "num": 443992,
+      "word": "官方回应公务员遴选第一名却落选",
+      "onboard_time": 1766457620,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425618,
+      "num": 256801,
+      "word": "多个医生账号发手术室视频声援小洛熙",
+      "onboard_time": 1766458819,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406191,
@@ -195,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296006,
+      "num": 186419,
+      "word": "这是胡彦斌选易梦玲的原因吗",
+      "onboard_time": 1766460379,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280640,
       "num": 280640,
       "word": "网红面馆被立案调查多位明星曾打卡",
@@ -211,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257912,
+      "num": 257912,
+      "word": "我妈眼里我的月薪三千",
+      "onboard_time": 1766459780,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 249807,
+      "num": 249807,
+      "word": "疯狂动物城2近一半票房来自中国",
+      "onboard_time": 1766460560,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242729,
       "num": 171513,
       "word": "阿信感谢朱孝天",
@@ -225,6 +305,14 @@
       "onboard_time": 1766452700,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 221726,
+      "num": 257899,
+      "word": "黄金大涨原因",
+      "onboard_time": 1766448020,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 212538,
@@ -267,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190156,
+      "num": 190156,
+      "word": "华为何刚晒与易烊千玺合照",
+      "onboard_time": 1766460982,
+      "rank": 17,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 189014,
       "num": 189014,
       "word": "成毅包揽云包场前三",
@@ -281,6 +377,14 @@
       "onboard_time": 1766407823,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184364,
+      "num": 184364,
+      "word": "浙江卫视跨年晚会全阵容官宣",
+      "onboard_time": 1766457919,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 184306,
@@ -315,20 +419,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 170069,
-      "num": 162594,
-      "word": "黄金大涨原因",
-      "onboard_time": 1766448020,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166793,
       "num": 161471,
       "word": "曝杨洋和顶流95花谈过恋爱",
       "onboard_time": 1766401520,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166175,
+      "num": 166175,
+      "word": "狗狗临终前被允许尝巧克力",
+      "onboard_time": 1766461341,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 164425,
+      "num": 164425,
+      "word": "竞浪大会推荐",
+      "onboard_time": 1766447719,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 163268,
@@ -347,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "妻儿三人被发小杀害案今日开庭",
+      "onboard_time": 1766459660,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155569,
       "num": 155569,
       "word": "98%中国亿万富豪都是白手起家",
@@ -355,11 +475,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "玉兰花开君再来导演杨阳",
+      "onboard_time": 1766460619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130392,
       "num": 130392,
       "word": "玉兰花开君再来开机预热",
       "onboard_time": 1766413943,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129040,
+      "num": 129040,
+      "word": "罚罪",
+      "onboard_time": 1766458640,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -411,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 116940,
+      "num": 116940,
+      "word": "桃黑黑有一个很爱他的妈妈",
+      "onboard_time": 1766455881,
+      "rank": 47,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 112622,
       "num": 112622,
       "word": "宋祖儿换了两次位置",
@@ -459,12 +603,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103905,
-      "num": 103905,
-      "word": "竞浪大会推荐",
-      "onboard_time": 1766447719,
-      "rank": 48,
-      "category": "电竞"
+      "raw_hot": 105281,
+      "num": 105281,
+      "word": "练背真的防垮脸",
+      "onboard_time": 1766460920,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 104464,
+      "num": 104464,
+      "word": "湖人vs太阳",
+      "onboard_time": 1766461580,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103727,
+      "num": 103727,
+      "word": "被虐死女孩生父对继母说打死她",
+      "onboard_time": 1766459959,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103461,
@@ -497,6 +657,14 @@
       "onboard_time": 1766448020,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96924,
+      "num": 96924,
+      "word": "人之初",
+      "onboard_time": 1766457800,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 96044,
@@ -539,12 +707,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90889,
+      "num": 90889,
+      "word": "日本扩武",
+      "onboard_time": 1766459060,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90828,
+      "num": 90828,
+      "word": "尚雯婕英文应答 现成的应试模板",
+      "onboard_time": 1766461161,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90280,
       "num": 161096,
       "word": "微博之夜年度推荐",
       "onboard_time": 1766385020,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90214,
+      "num": 90214,
+      "word": "樊振东能量人物推荐值破2000万",
+      "onboard_time": 1766461161,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89471,
+      "num": 159387,
+      "word": "小米17Ultra首发徕卡2亿真光变镜头",
+      "onboard_time": 1766457502,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 89067,
@@ -619,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81383,
-      "num": 81383,
-      "word": "桃黑黑有一个很爱他的妈妈",
-      "onboard_time": 1766455881,
-      "rank": 47,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "我国又有一个全球首艘",
@@ -649,6 +841,14 @@
       "onboard_time": 1766414423,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 158746,
+      "word": "为什么冬天要吃点柑橘类水果",
+      "onboard_time": 1766461461,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75501,
@@ -675,19 +875,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71282,
+      "num": 189404,
+      "word": "追凶27年后凶手被判死缓",
+      "onboard_time": 1766460080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69899,
       "num": 131772,
       "word": "广东私家车可入境香港市区",
       "onboard_time": 1766455221,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68934,
-      "num": 86911,
-      "word": "妻子被砍杀8岁儿子扑上挡刀",
-      "onboard_time": 1766456061,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -747,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57760,
+      "num": 110186,
+      "word": "刘宇宁害羞到大喊住口",
+      "onboard_time": 1766460920,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55158,
       "num": 159340,
       "word": "骄阳似我全糖啵啵预告",
       "onboard_time": 1766411662,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54883,
+      "num": 661112,
+      "word": "我国冰雪产业规模将破万亿元",
+      "onboard_time": 1766460020,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54651,
@@ -923,6 +1139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36775,
+      "num": 257348,
+      "word": "明年起向好友发淫秽信息将被拘留",
+      "onboard_time": 1766461279,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36613,
+      "num": 111020,
+      "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
+      "onboard_time": 1766461279,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36529,
       "num": 159036,
       "word": "2025LOL德玛西亚杯",
@@ -945,6 +1177,14 @@
       "onboard_time": 1766423418,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34744,
+      "num": 90233,
+      "word": "村民称多处村落大量垃圾堆积3年",
+      "onboard_time": 1766460080,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34608,
@@ -1011,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22851,
+      "num": 188110,
+      "word": "1名中国公民因泰柬冲突受轻微伤",
+      "onboard_time": 1766460860,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20986,
       "num": 55633,
       "word": "魏建军赌上姓氏造车后悔了吗",
@@ -1057,11 +1305,22 @@
       "onboard_time": 1766402721,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12215,
+      "num": 103744,
+      "word": "宋威龙找腾讯报销svip",
+      "onboard_time": 1766461760,
+      "rank": 42,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中央军委举行晋升上将军衔仪式#"
+    },
+    {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
     }
   ]
 }

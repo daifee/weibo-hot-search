@@ -1,0 +1,410 @@
+{
+  "runTime": 1766461810881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1094316,
+        "num": 1175090,
+        "word": "长征十二号甲火箭回收失败",
+        "onboard_time": 1766458040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698525,
+        "num": 698525,
+        "word": "母亲回应儿子公务员遴选成绩第一落选",
+        "onboard_time": 1766460199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54883,
+        "num": 661112,
+        "word": "我国冰雪产业规模将破万亿元",
+        "onboard_time": 1766460020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1007543,
+        "num": 658273,
+        "word": "杨紫欧豪官宣开机海报",
+        "onboard_time": 1766459479,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647924,
+        "num": 647924,
+        "word": "俄乌杀红了眼",
+        "onboard_time": 1766453001,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 904441,
+        "num": 567616,
+        "word": "妻子被砍杀8岁儿子扑上挡刀",
+        "onboard_time": 1766456061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443992,
+        "num": 443992,
+        "word": "官方回应公务员遴选第一名却落选",
+        "onboard_time": 1766457620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257912,
+        "num": 257912,
+        "word": "我妈眼里我的月薪三千",
+        "onboard_time": 1766459780,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221726,
+        "num": 257899,
+        "word": "黄金大涨原因",
+        "onboard_time": 1766448020,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36775,
+        "num": 257348,
+        "word": "明年起向好友发淫秽信息将被拘留",
+        "onboard_time": 1766461279,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444364,
+        "num": 256946,
+        "word": "肖战ELLE杂志",
+        "onboard_time": 1766457139,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425618,
+        "num": 256801,
+        "word": "多个医生账号发手术室视频声援小洛熙",
+        "onboard_time": 1766458819,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256613,
+        "num": 256613,
+        "word": "李艺彤官宣离开丝芭",
+        "onboard_time": 1766444777,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249807,
+        "num": 249807,
+        "word": "疯狂动物城2近一半票房来自中国",
+        "onboard_time": 1766460560,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240694,
+        "num": 240694,
+        "word": "女生开电热毯睡太沉醒来屁股淤青",
+        "onboard_time": 1766453902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209481,
+        "num": 209481,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1766456420,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208957,
+        "num": 208957,
+        "word": "庞铮对贺峻霖道歉",
+        "onboard_time": 1766415442,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 190156,
+        "word": "华为何刚晒与易烊千玺合照",
+        "onboard_time": 1766460982,
+        "rank": 17,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 71282,
+        "num": 189404,
+        "word": "追凶27年后凶手被判死缓",
+        "onboard_time": 1766460080,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22851,
+        "num": 188110,
+        "word": "1名中国公民因泰柬冲突受轻微伤",
+        "onboard_time": 1766460860,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312598,
+        "num": 186987,
+        "word": "韩美娟官宣恋情",
+        "onboard_time": 1766412323,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296006,
+        "num": 186419,
+        "word": "这是胡彦斌选易梦玲的原因吗",
+        "onboard_time": 1766460379,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251166,
+        "num": 184717,
+        "word": "金饰价一夜涨36元",
+        "onboard_time": 1766454081,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184364,
+        "num": 184364,
+        "word": "浙江卫视跨年晚会全阵容官宣",
+        "onboard_time": 1766457919,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "狗狗临终前被允许尝巧克力",
+        "onboard_time": 1766461341,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165158,
+        "num": 165158,
+        "word": "长征十二号甲火箭",
+        "onboard_time": 1766454980,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164425,
+        "num": 164425,
+        "word": "竞浪大会推荐",
+        "onboard_time": 1766447719,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89471,
+        "num": 159387,
+        "word": "小米17Ultra首发徕卡2亿真光变镜头",
+        "onboard_time": 1766457502,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158844,
+        "num": 158844,
+        "word": "妻儿三人被发小杀害案今日开庭",
+        "onboard_time": 1766459660,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76801,
+        "num": 158746,
+        "word": "为什么冬天要吃点柑橘类水果",
+        "onboard_time": 1766461461,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158694,
+        "num": 158694,
+        "word": "骄阳似我",
+        "onboard_time": 1766397501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145095,
+        "num": 145095,
+        "word": "玉兰花开君再来导演杨阳",
+        "onboard_time": 1766460619,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140126,
+        "num": 140126,
+        "word": "宋小宝谢娜在后台都没认出李维嘉",
+        "onboard_time": 1766450482,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134505,
+        "num": 134505,
+        "word": "男子头孢停药72小时喝酒后休克",
+        "onboard_time": 1766450001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129040,
+        "num": 129040,
+        "word": "罚罪",
+        "onboard_time": 1766458640,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128239,
+        "num": 128239,
+        "word": "女孩打翻水杯背后是家庭教育缺位",
+        "onboard_time": 1766452700,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 116940,
+        "num": 116940,
+        "word": "桃黑黑有一个很爱他的妈妈",
+        "onboard_time": 1766455881,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 36613,
+        "num": 111020,
+        "word": "被虐死女孩母亲称孩子嘴巴被缝8针",
+        "onboard_time": 1766461279,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57760,
+        "num": 110186,
+        "word": "刘宇宁害羞到大喊住口",
+        "onboard_time": 1766460920,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110078,
+        "num": 110078,
+        "word": "俄罗斯中将被炸身亡传递危险信号",
+        "onboard_time": 1766450241,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105281,
+        "num": 105281,
+        "word": "练背真的防垮脸",
+        "onboard_time": 1766460920,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104464,
+        "num": 104464,
+        "word": "湖人vs太阳",
+        "onboard_time": 1766461580,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12215,
+        "num": 103744,
+        "word": "宋威龙找腾讯报销svip",
+        "onboard_time": 1766461760,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103727,
+        "num": 103727,
+        "word": "被虐死女孩生父对继母说打死她",
+        "onboard_time": 1766459959,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96924,
+        "num": 96924,
+        "word": "人之初",
+        "onboard_time": 1766457800,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93919,
+        "num": 93919,
+        "word": "iPhone实况图的选取机制",
+        "onboard_time": 1766452520,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90889,
+        "num": 90889,
+        "word": "日本扩武",
+        "onboard_time": 1766459060,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90828,
+        "num": 90828,
+        "word": "尚雯婕英文应答 现成的应试模板",
+        "onboard_time": 1766461161,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34744,
+        "num": 90233,
+        "word": "村民称多处村落大量垃圾堆积3年",
+        "onboard_time": 1766460080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90214,
+        "num": 90214,
+        "word": "樊振东能量人物推荐值破2000万",
+        "onboard_time": 1766461161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卡斯特当选智利总统#"
+    }
+  }
+}
