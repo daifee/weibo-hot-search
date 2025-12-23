@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766516070453,
+  "endTime": 1766517879522,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -11275,20 +11275,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 18277,
+      "num": 30297,
+      "word": "鞠婧祎用震撼来形容的美貌",
+      "onboard_time": 1766515995,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18147,
       "num": 34037,
       "word": "肖战ELLE四季预告",
       "onboard_time": 1766513836,
       "rank": 45,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 18134,
-      "num": 30297,
-      "word": "鞠婧祎用震撼来形容的美貌",
-      "onboard_time": 1766515995,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18117,
@@ -11377,6 +11377,14 @@
       "onboard_time": 1766348894,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16319,
+      "num": 24896,
+      "word": "律师称夫妻间发不雅视频非打击重点",
+      "onboard_time": 1766516776,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16271,
