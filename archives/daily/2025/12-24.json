@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766528878780,
+  "endTime": 1766529861628,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -131,6 +131,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 139552,
+      "num": 483595,
+      "word": "小洛熙事件涉事科室手术暂停不实",
+      "onboard_time": 1766508798,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137457,
       "num": 137457,
       "word": "章子怡四封金莲花影后",
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104630,
+      "num": 60521,
+      "word": "朝九晚九单休2500",
+      "onboard_time": 1766520914,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 104035,
       "num": 88040,
       "word": "7月大女婴被大伯杀害遗体仍未火化",
@@ -203,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102882,
-      "num": 391617,
-      "word": "小洛熙事件涉事科室手术暂停不实",
-      "onboard_time": 1766508798,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 100839,
+      "num": 100839,
+      "word": "中方敦促美方立即撤销有关措施",
+      "onboard_time": 1766504903,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97658,
@@ -225,6 +241,14 @@
       "onboard_time": 1766502866,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93071,
+      "num": 93071,
+      "word": "王阳变成二胖了 你舅妈还是你舅妈",
+      "onboard_time": 1766501723,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 89138,
@@ -291,22 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67113,
-      "num": 50627,
-      "word": "朝九晚九单休2500",
-      "onboard_time": 1766520914,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 66308,
-      "num": 87975,
-      "word": "中方敦促美方立即撤销有关措施",
-      "onboard_time": 1766504903,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64768,
       "num": 87889,
       "word": "看着像汉字但一个也不认识",
@@ -347,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59349,
-      "num": 87787,
-      "word": "王阳变成二胖了 你舅妈还是你舅妈",
-      "onboard_time": 1766501723,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 62539,
+      "num": 62539,
+      "word": "环保少女伦敦被捕",
+      "onboard_time": 1766504545,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58688,
@@ -377,14 +385,6 @@
       "onboard_time": 1766490680,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 57052,
-      "num": 60829,
-      "word": "环保少女伦敦被捕",
-      "onboard_time": 1766504545,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56449,
@@ -459,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35701,
+      "num": 35701,
+      "word": "鞠婧祎用震撼来形容的美貌",
+      "onboard_time": 1766515995,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32362,
       "num": 59432,
       "word": "秦岚 多大点事儿别哭",
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27600,
-      "num": 30297,
-      "word": "鞠婧祎用震撼来形容的美貌",
-      "onboard_time": 1766515995,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 27557,
       "num": 59406,
       "word": "时代少年团直播",
@@ -515,12 +515,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25501,
+      "num": 33745,
+      "word": "律师称夫妻间发不雅视频非打击重点",
+      "onboard_time": 1766516776,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23831,
+      "num": 33740,
+      "word": "法学界来了个狙击手",
+      "onboard_time": 1766528115,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22707,
+      "num": 33738,
+      "word": "中方回应美称中部署百余枚洲际导弹",
+      "onboard_time": 1766517914,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22102,
       "num": 34068,
       "word": "刘宇宁25年音乐战绩可查",
       "onboard_time": 1766514617,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20709,
+      "num": 33738,
+      "word": "成毅新剧的伤从来没白受",
+      "onboard_time": 1766528895,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 20291,
@@ -531,6 +563,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19472,
+      "num": 33732,
+      "word": "传播淫秽信息加大处罚专治擦边",
+      "onboard_time": 1766518035,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18741,
+      "num": 33730,
+      "word": "京东巴黎仓库被盗",
+      "onboard_time": 1766518634,
+      "rank": 40,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 18147,
       "num": 34037,
       "word": "肖战ELLE四季预告",
@@ -539,44 +587,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 17924,
-      "num": 23103,
-      "word": "中方回应美称中部署百余枚洲际导弹",
-      "onboard_time": 1766517914,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17069,
-      "num": 24896,
-      "word": "律师称夫妻间发不雅视频非打击重点",
-      "onboard_time": 1766516776,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16546,
-      "num": 23094,
-      "word": "传播淫秽信息加大处罚专治擦边",
-      "onboard_time": 1766518035,
+      "raw_hot": 16272,
+      "num": 33726,
+      "word": "澳门国际电影节",
+      "onboard_time": 1766496922,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15423,
-      "num": 23090,
-      "word": "京东巴黎仓库被盗",
-      "onboard_time": 1766518634,
-      "rank": 40,
-      "category": "海外新闻,互联网"
-    },
-    {
-      "raw_hot": 15123,
-      "num": 23087,
-      "word": "法学界来了个狙击手",
-      "onboard_time": 1766528115,
-      "rank": 45,
-      "category": "幽默"
+      "category": "电影"
     },
     {
       "raw_hot": 14539,
@@ -603,8 +619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9749,
-      "num": 82094,
+      "raw_hot": 10996,
+      "num": 114923,
       "word": "预计2025我国交通出行超660亿人次",
       "onboard_time": 1766494762,
       "rank": 2,
