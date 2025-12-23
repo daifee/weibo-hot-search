@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766508727403,
+  "endTime": 1766510890676,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236849,
+      "num": 87749,
+      "word": "美国斩杀线现象",
+      "onboard_time": 1766507300,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225211,
       "num": 225211,
       "word": "私聊不是淫秽信息的避风港",
@@ -97,6 +105,14 @@
       "onboard_time": 1766479341,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157621,
+      "num": 157621,
+      "word": "日本遗孤说不信我是日本孩子",
+      "onboard_time": 1766505683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142860,
@@ -179,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103863,
-      "num": 111198,
-      "word": "日本遗孤说不信我是日本孩子",
-      "onboard_time": 1766505683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97658,
       "num": 97658,
       "word": "她坠楼了他接住了我尖叫了",
@@ -227,7 +235,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77309,
+      "raw_hot": 78940,
       "num": 88040,
       "word": "7月大女婴被大伯杀害遗体仍未火化",
       "onboard_time": 1766505683,
@@ -249,14 +257,6 @@
       "onboard_time": 1766487201,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 73142,
-      "num": 87749,
-      "word": "美国斩杀线现象",
-      "onboard_time": 1766507300,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 72099,
@@ -329,6 +329,14 @@
       "onboard_time": 1766498001,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59640,
+      "num": 59640,
+      "word": "小洛熙事件涉事科室手术暂停不实",
+      "onboard_time": 1766508798,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58688,
@@ -435,10 +443,42 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40566,
+      "num": 59528,
+      "word": "艾热回应新歌争议",
+      "onboard_time": 1766509878,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 30338,
+      "num": 59432,
+      "word": "秦岚 多大点事儿别哭",
+      "onboard_time": 1766509938,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29597,
       "num": 228961,
       "word": "2026在高速服务区建超1万个充电枪",
       "onboard_time": 1766495002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27557,
+      "num": 59406,
+      "word": "时代少年团直播",
+      "onboard_time": 1766495362,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7895,
+      "num": 151639,
+      "word": "镜头下的家国记忆永不褪色",
+      "onboard_time": 1766470521,
       "rank": 2,
       "category": "国内时政"
     }
@@ -446,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对中央企业工作作出重要指示#"
+    },
+    {
+      "word": "#中央企业要充分认识肩负的职责使命#"
     }
   ]
 }

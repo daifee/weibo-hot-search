@@ -1,0 +1,410 @@
+{
+  "runTime": 1766510890676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 316080,
+        "num": 456979,
+        "word": "车厘子价格大跳水批发商却笑不出",
+        "onboard_time": 1766505323,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157621,
+        "num": 157621,
+        "word": "日本遗孤说不信我是日本孩子",
+        "onboard_time": 1766505683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7895,
+        "num": 151639,
+        "word": "镜头下的家国记忆永不褪色",
+        "onboard_time": 1766470521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148508,
+        "num": 148508,
+        "word": "丽江公开发函喊话小红书",
+        "onboard_time": 1766498001,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 135132,
+        "num": 135132,
+        "word": "王橹杰穆祉丞同台",
+        "onboard_time": 1766494701,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145156,
+        "num": 130985,
+        "word": "安徽27天新生儿住院治疗时去世",
+        "onboard_time": 1766499862,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118016,
+        "num": 118016,
+        "word": "年度报告",
+        "onboard_time": 1766499502,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108335,
+        "num": 108335,
+        "word": "私聊不是淫秽信息的避风港",
+        "onboard_time": 1766504005,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95730,
+        "num": 95730,
+        "word": "骄阳似我",
+        "onboard_time": 1766479341,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86162,
+        "num": 86162,
+        "word": "00后订婚喜糖",
+        "onboard_time": 1766489421,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236849,
+        "num": 85721,
+        "word": "美国斩杀线现象",
+        "onboard_time": 1766507300,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230294,
+        "num": 84845,
+        "word": "马龙妻子夏露跳舞太专业",
+        "onboard_time": 1766503046,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118091,
+        "num": 84076,
+        "word": "吴千语直播带货卖了1.5亿",
+        "onboard_time": 1766494041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81254,
+        "num": 81254,
+        "word": "美国最神秘连环杀手多年前已去世",
+        "onboard_time": 1766496742,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78940,
+        "num": 78940,
+        "word": "7月大女婴被大伯杀害遗体仍未火化",
+        "onboard_time": 1766505683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77581,
+        "num": 77581,
+        "word": "赵丽颖 合照的同学成了大明星",
+        "onboard_time": 1766472201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75782,
+        "num": 75782,
+        "word": "仙逆 影视化",
+        "onboard_time": 1766484681,
+        "rank": 16,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 72006,
+        "num": 72006,
+        "word": "虞书欣她拍的含金量还在上升",
+        "onboard_time": 1766502746,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71909,
+        "num": 71909,
+        "word": "穆祉丞搭王橹杰的肩",
+        "onboard_time": 1766499563,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64290,
+        "num": 64290,
+        "word": "400万煮鸡蛋大神开公司了",
+        "onboard_time": 1766487201,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323485,
+        "num": 63878,
+        "word": "杜克 一哥",
+        "onboard_time": 1766502685,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84376,
+        "num": 63557,
+        "word": "宁波女婴术后离世医疗事故鉴定启动",
+        "onboard_time": 1766482041,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 61265,
+        "num": 61265,
+        "word": "慕胥辞",
+        "onboard_time": 1766502985,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61166,
+        "num": 61166,
+        "word": "章子怡四封金莲花影后",
+        "onboard_time": 1766502625,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59640,
+        "num": 59640,
+        "word": "小洛熙事件涉事科室手术暂停不实",
+        "onboard_time": 1766508798,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54010,
+        "num": 59635,
+        "word": "云旗郝熠然直播",
+        "onboard_time": 1766505862,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53720,
+        "num": 59622,
+        "word": "环保少女伦敦被捕",
+        "onboard_time": 1766504545,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52131,
+        "num": 59612,
+        "word": "仙逆 杨洋",
+        "onboard_time": 1766496201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51530,
+        "num": 59602,
+        "word": "她坠楼了他接住了我尖叫了",
+        "onboard_time": 1766496922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50196,
+        "num": 59599,
+        "word": "双北",
+        "onboard_time": 1766501244,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49130,
+        "num": 59586,
+        "word": "生父始终不认罪把记者都气结巴了",
+        "onboard_time": 1766502866,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46683,
+        "num": 59579,
+        "word": "复联5首支预告正式发布",
+        "onboard_time": 1766501182,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43630,
+        "num": 59574,
+        "word": "单依纯一口气发了54张图",
+        "onboard_time": 1766502685,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43331,
+        "num": 59562,
+        "word": "金莲花",
+        "onboard_time": 1766498842,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43118,
+        "num": 59549,
+        "word": "顾漫 骄阳似我男二",
+        "onboard_time": 1766496802,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42781,
+        "num": 59538,
+        "word": "爱泼斯坦狱中自杀视频被证实是伪造",
+        "onboard_time": 1766490382,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40566,
+        "num": 59528,
+        "word": "艾热回应新歌争议",
+        "onboard_time": 1766509878,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40395,
+        "num": 59524,
+        "word": "看着像汉字但一个也不认识",
+        "onboard_time": 1766507000,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39452,
+        "num": 59517,
+        "word": "明日方舟",
+        "onboard_time": 1766488221,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38563,
+        "num": 59503,
+        "word": "刘若英给阿信做猪脚面线",
+        "onboard_time": 1766506402,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37622,
+        "num": 59489,
+        "word": "老舅",
+        "onboard_time": 1766498001,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37494,
+        "num": 59488,
+        "word": "中方敦促美方立即撤销有关措施",
+        "onboard_time": 1766504903,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36823,
+        "num": 59479,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1766497282,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35631,
+        "num": 59463,
+        "word": "唐诡的产量速度太惊人了",
+        "onboard_time": 1766498722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 59456,
+        "word": "丽江称因小红书不实帖损失超500万",
+        "onboard_time": 1766503525,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 32316,
+        "num": 59452,
+        "word": "金价",
+        "onboard_time": 1766499981,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30623,
+        "num": 59436,
+        "word": "黄金又坐过山车",
+        "onboard_time": 1766508319,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30338,
+        "num": 59432,
+        "word": "秦岚 多大点事儿别哭",
+        "onboard_time": 1766509938,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27637,
+        "num": 59422,
+        "word": "小猫错把松鼠当老鼠",
+        "onboard_time": 1766505803,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27557,
+        "num": 59406,
+        "word": "时代少年团直播",
+        "onboard_time": 1766495362,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央企业要充分认识肩负的职责使命#"
+    }
+  }
+}
