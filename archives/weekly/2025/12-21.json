@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766511903338,
+  "endTime": 1766515290582,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -8635,6 +8635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81384,
+      "num": 81384,
+      "word": "小洛熙事件涉事科室手术暂停不实",
+      "onboard_time": 1766508798,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81312,
       "num": 81312,
       "word": "我国又有一个全球首艘",
@@ -9297,14 +9305,6 @@
       "onboard_time": 1766323223,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 62353,
-      "num": 62353,
-      "word": "小洛熙事件涉事科室手术暂停不实",
-      "onboard_time": 1766508798,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61930,
@@ -11035,6 +11035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22102,
+      "num": 34068,
+      "word": "刘宇宁25年音乐战绩可查",
+      "onboard_time": 1766514617,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 21981,
       "num": 123218,
       "word": "台北马拉松警方增加一倍警力",
@@ -11265,6 +11273,14 @@
       "onboard_time": 1766432174,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 18147,
+      "num": 34037,
+      "word": "肖战ELLE四季预告",
+      "onboard_time": 1766513836,
+      "rank": 45,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 18117,
