@@ -1,0 +1,410 @@
+{
+  "runTime": 1766568757183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933955,
+        "num": 1149432,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358873,
+        "num": 358873,
+        "word": "北京放宽非京籍家庭购房条件",
+        "onboard_time": 1766566401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26145,
+        "num": 354836,
+        "word": "数读2025年中国经济活力",
+        "onboard_time": 1766567662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773367,
+        "num": 343950,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 628895,
+        "num": 337109,
+        "word": "男子向女友发淫秽视频被行拘",
+        "onboard_time": 1766563282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867648,
+        "num": 325010,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413443,
+        "num": 316227,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315255,
+        "num": 315255,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244682,
+        "num": 313073,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 309124,
+        "word": "马嘉祺夜访吸血鬼彩排高音",
+        "onboard_time": 1766566762,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 831252,
+        "num": 306327,
+        "word": "杨天真被诈骗",
+        "onboard_time": 1766560940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674373,
+        "num": 299142,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 11,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 507781,
+        "num": 295520,
+        "word": "张子枫手臂上好大一个疤",
+        "onboard_time": 1766560881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315803,
+        "num": 293786,
+        "word": "迅猛龙一年点了459次奶茶",
+        "onboard_time": 1766560761,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290119,
+        "num": 290119,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232639,
+        "num": 232639,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159460,
+        "num": 230867,
+        "word": "平安夜文案",
+        "onboard_time": 1766564182,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133631,
+        "num": 214376,
+        "word": "日网红夫妇在70度桑拿房中身亡",
+        "onboard_time": 1766565741,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44043,
+        "num": 207825,
+        "word": "起猛了大家都在晒余额宝全明星小卡",
+        "onboard_time": 1766564722,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71460,
+        "num": 199081,
+        "word": "北京支持多子女家庭住房需求",
+        "onboard_time": 1766568201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438971,
+        "num": 193877,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186924,
+        "num": 186924,
+        "word": "年轻人备婚越来越新奇了",
+        "onboard_time": 1766565803,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163347,
+        "num": 163347,
+        "word": "十个勤天 桃厂质子",
+        "onboard_time": 1766567421,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132464,
+        "num": 158833,
+        "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
+        "onboard_time": 1766567301,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155593,
+        "num": 155593,
+        "word": "去世新生儿异常44分钟无人察觉",
+        "onboard_time": 1766567902,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141532,
+        "num": 141532,
+        "word": "谁说内娱没有真亲签",
+        "onboard_time": 1766567902,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132145,
+        "num": 132145,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127729,
+        "num": 127729,
+        "word": "杨紫开机花絮",
+        "onboard_time": 1766566882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124729,
+        "num": 124729,
+        "word": "李施嬅已经接受车崇健经常不在家",
+        "onboard_time": 1766567662,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122391,
+        "num": 122391,
+        "word": "孙颖莎说想打到40岁",
+        "onboard_time": 1766567182,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114436,
+        "num": 119680,
+        "word": "非京籍购房社保个税缴纳年限减1年",
+        "onboard_time": 1766567001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119189,
+        "num": 119189,
+        "word": "萝卜纸巾 认知丰容",
+        "onboard_time": 1766568201,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115595,
+        "num": 115595,
+        "word": "燕云十六声",
+        "onboard_time": 1766555482,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79768,
+        "num": 113982,
+        "word": "从9校招44名学生有偿陪侍多人获刑",
+        "onboard_time": 1766566762,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113716,
+        "num": 113716,
+        "word": "普通人其实不用花太多钱在穿搭上",
+        "onboard_time": 1766562623,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111238,
+        "num": 111238,
+        "word": "内娱化妆师红榜",
+        "onboard_time": 1766564842,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108728,
+        "num": 108728,
+        "word": "景区5万月薪招185帅哥陪滑官",
+        "onboard_time": 1766565382,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502269,
+        "num": 108721,
+        "word": "俄富豪捐精百子共享千亿遗产",
+        "onboard_time": 1766562623,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108310,
+        "num": 108310,
+        "word": "张远在韩人脉",
+        "onboard_time": 1766561300,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107962,
+        "num": 107962,
+        "word": "81万赞就是81万份子钱",
+        "onboard_time": 1766563162,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 107917,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105377,
+        "num": 105377,
+        "word": "真的看到了桂花雨",
+        "onboard_time": 1766568320,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103323,
+        "num": 103323,
+        "word": "爱吃蛋",
+        "onboard_time": 1766555781,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102719,
+        "num": 102719,
+        "word": "圣诞节头像",
+        "onboard_time": 1766568382,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 100639,
+        "num": 100639,
+        "word": "赵丽颖客串谭松韵新剧",
+        "onboard_time": 1766558122,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98947,
+        "num": 98947,
+        "word": "备考人有自己的萝卜纸巾",
+        "onboard_time": 1766567662,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63142,
+        "num": 95671,
+        "word": "北京房贷利率不再区分首套和二套",
+        "onboard_time": 1766567062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94384,
+        "num": 94384,
+        "word": "实际多少岁看上去就是多少岁",
+        "onboard_time": 1766565201,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93442,
+        "num": 93442,
+        "word": "低丸子头才是穿羽绒服最好看的发型",
+        "onboard_time": 1766556802,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91830,
+        "num": 91830,
+        "word": "老来得己",
+        "onboard_time": 1766568681,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上中央企业怎么干#"
+    }
+  }
+}

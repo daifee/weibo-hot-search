@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766566389546,
+  "endTime": 1766568757183,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -611,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867648,
+      "num": 409339,
+      "word": "月薪3500双休要不要离职",
+      "onboard_time": 1766562920,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 865909,
       "num": 302099,
       "word": "医院称小洛熙家属公布的报告不完整",
       "onboard_time": 1766483780,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 861183,
-      "num": 409339,
-      "word": "月薪3500双休要不要离职",
-      "onboard_time": 1766562920,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 853805,
@@ -1019,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628895,
+      "num": 405572,
+      "word": "男子向女友发淫秽视频被行拘",
+      "onboard_time": 1766563282,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628512,
       "num": 551835,
       "word": "年轻人把钱都穿在身上了",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1766295922,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568254,
-      "num": 405572,
-      "word": "男子向女友发淫秽视频被行拘",
-      "onboard_time": 1766563282,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567238,
@@ -1971,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413443,
+      "num": 489354,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 413441,
       "num": 413441,
       "word": "哑舍为啥播成这样",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1766554945,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400287,
-      "num": 489354,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 400208,
@@ -2369,6 +2369,14 @@
       "onboard_time": 1766285359,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 358873,
+      "num": 358873,
+      "word": "北京放宽非京籍家庭购房条件",
+      "onboard_time": 1766566401,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358131,
@@ -2971,6 +2979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290119,
+      "num": 290119,
+      "word": "翟俊杰去世",
+      "onboard_time": 1766567001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289627,
       "num": 289627,
       "word": "孟子义顺手就把奖杯给李昀锐了",
@@ -3544,6 +3560,14 @@
       "word": "丁禹兮给鞠婧祎整理围巾",
       "onboard_time": 1766388501,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232639,
+      "num": 232639,
+      "word": "肖战 娘家台给的底气",
+      "onboard_time": 1766568441,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -4739,6 +4763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "年轻人备婚越来越新奇了",
+      "onboard_time": 1766565803,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186802,
       "num": 186802,
       "word": "刘诗诗高马尾青春女大",
@@ -5475,12 +5507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163284,
-      "num": 163284,
-      "word": "年轻人备婚越来越新奇了",
-      "onboard_time": 1766565803,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "十个勤天 桃厂质子",
+      "onboard_time": 1766567421,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 163268,
@@ -5651,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159460,
+      "num": 230867,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "双轨海边婚礼呢",
@@ -5769,6 +5809,14 @@
       "onboard_time": 1766298681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155593,
+      "num": 155593,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155569,
@@ -6571,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141532,
+      "num": 141532,
+      "word": "谁说内娱没有真亲签",
+      "onboard_time": 1766567902,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141445,
       "num": 141445,
       "word": "宋祖儿安慰摔了一跤的孟子义",
@@ -6633,6 +6689,14 @@
       "onboard_time": 1766387481,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140457,
+      "num": 309124,
+      "word": "马嘉祺夜访吸血鬼彩排高音",
+      "onboard_time": 1766566762,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 139931,
@@ -6769,14 +6833,6 @@
       "onboard_time": 1766548223,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137495,
-      "num": 137495,
-      "word": "平安夜文案",
-      "onboard_time": 1766564182,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 137387,
@@ -7043,12 +7099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133631,
+      "num": 214376,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133381,
       "num": 133381,
       "word": "那英是我错怪你了",
       "onboard_time": 1766375960,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132464,
+      "num": 158833,
+      "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
+      "onboard_time": 1766567301,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 132117,
@@ -7347,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127729,
+      "num": 127729,
+      "word": "杨紫开机花絮",
+      "onboard_time": 1766566882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127610,
       "num": 127610,
       "word": "常华森还是没去治耳朵吗",
@@ -7475,14 +7555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126060,
-      "num": 126060,
-      "word": "日网红夫妇在70度桑拿房中身亡",
-      "onboard_time": 1766565741,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125979,
       "num": 142273,
       "word": "nova15支持华为最强通信能力",
@@ -7592,6 +7664,14 @@
       "word": "倪妮的礼服正式进入3D时代",
       "onboard_time": 1766313082,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "李施嬅已经接受车崇健经常不在家",
+      "onboard_time": 1766567662,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -7721,6 +7801,14 @@
       "onboard_time": 1766465363,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122391,
+      "num": 122391,
+      "word": "孙颖莎说想打到40岁",
+      "onboard_time": 1766567182,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 122226,
@@ -7897,6 +7985,14 @@
       "onboard_time": 1766561300,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119189,
+      "num": 119189,
+      "word": "萝卜纸巾 认知丰容",
+      "onboard_time": 1766568201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 119139,
@@ -8161,6 +8257,14 @@
       "onboard_time": 1766411362,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 119680,
+      "word": "非京籍购房社保个税缴纳年限减1年",
+      "onboard_time": 1766567001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114381,
@@ -8547,6 +8651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108728,
+      "num": 173661,
+      "word": "景区5万月薪招185帅哥陪滑官",
+      "onboard_time": 1766565382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108659,
       "num": 191873,
       "word": "为什么熬夜的人更容易患癌",
@@ -8737,6 +8849,14 @@
       "onboard_time": 1766383821,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105377,
+      "num": 105377,
+      "word": "真的看到了桂花雨",
+      "onboard_time": 1766568320,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 105281,
@@ -9017,6 +9137,14 @@
       "onboard_time": 1766462481,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102719,
+      "num": 102719,
+      "word": "圣诞节头像",
+      "onboard_time": 1766568382,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 102627,
@@ -9345,6 +9473,14 @@
       "onboard_time": 1766504244,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "备考人有自己的萝卜纸巾",
+      "onboard_time": 1766567662,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 98825,
@@ -9729,6 +9865,14 @@
       "onboard_time": 1766359879,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91830,
+      "num": 91830,
+      "word": "老来得己",
+      "onboard_time": 1766568681,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91676,
@@ -10275,6 +10419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79768,
+      "num": 113982,
+      "word": "从9校招44名学生有偿陪侍多人获刑",
+      "onboard_time": 1766566762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79728,
       "num": 79728,
       "word": "陈妍希和金靖合照",
@@ -10459,14 +10611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74055,
-      "num": 173661,
-      "word": "景区5万月薪招185帅哥陪滑官",
-      "onboard_time": 1766565382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74040,
       "num": 971459,
       "word": "手把手教你个税专项附加扣除",
@@ -10616,6 +10760,14 @@
       "word": "中国人造太阳燃料取自海水",
       "onboard_time": 1766382322,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71460,
+      "num": 199081,
+      "word": "北京支持多子女家庭住房需求",
+      "onboard_time": 1766568201,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10889,6 +11041,14 @@
       "onboard_time": 1766240603,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63142,
+      "num": 95671,
+      "word": "北京房贷利率不再区分首套和二套",
+      "onboard_time": 1766567062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63091,
@@ -11716,7 +11876,7 @@
     },
     {
       "raw_hot": 44397,
-      "num": 197220,
+      "num": 207825,
       "word": "起猛了大家都在晒余额宝全明星小卡",
       "onboard_time": 1766564722,
       "rank": 19,
@@ -12795,6 +12955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26145,
+      "num": 354836,
+      "word": "数读2025年中国经济活力",
+      "onboard_time": 1766567662,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25906,
       "num": 125705,
       "word": "旧金山停电致自动驾驶汽车集体趴窝",
@@ -13577,6 +13745,9 @@
     },
     {
       "word": "#大国外交2025年度回眸#"
+    },
+    {
+      "word": "#新征程上中央企业怎么干#"
     }
   ]
 }

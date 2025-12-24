@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766566389546,
+  "endTime": 1766568757183,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -107,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 861183,
+      "raw_hot": 867648,
       "num": 409339,
       "word": "月薪3500双休要不要离职",
       "onboard_time": 1766562920,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628895,
+      "num": 405572,
+      "word": "男子向女友发淫秽视频被行拘",
+      "onboard_time": 1766563282,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628512,
       "num": 551835,
       "word": "年轻人把钱都穿在身上了",
@@ -177,14 +185,6 @@
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 568254,
-      "num": 405572,
-      "word": "男子向女友发淫秽视频被行拘",
-      "onboard_time": 1766563282,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 551339,
@@ -299,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413443,
+      "num": 489354,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 413441,
       "num": 413441,
       "word": "哑舍为啥播成这样",
@@ -321,14 +329,6 @@
       "onboard_time": 1766554945,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400287,
-      "num": 489354,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 389414,
@@ -385,6 +385,14 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358873,
+      "num": 358873,
+      "word": "北京放宽非京籍家庭购房条件",
+      "onboard_time": 1766566401,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351647,
@@ -481,6 +489,14 @@
       "onboard_time": 1766548343,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290119,
+      "num": 290119,
+      "word": "翟俊杰去世",
+      "onboard_time": 1766567001,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 285016,
@@ -593,6 +609,14 @@
       "onboard_time": 1766507300,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 232639,
+      "num": 232639,
+      "word": "肖战 娘家台给的底气",
+      "onboard_time": 1766568441,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 232293,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "年轻人备婚越来越新奇了",
+      "onboard_time": 1766565803,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186704,
       "num": 186704,
       "word": "唐嫣明媚暗黑反差感",
@@ -939,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163284,
-      "num": 163284,
-      "word": "年轻人备婚越来越新奇了",
-      "onboard_time": 1766565803,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "十个勤天 桃厂质子",
+      "onboard_time": 1766567421,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 161844,
@@ -971,12 +1003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159460,
+      "num": 230867,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156180,
       "num": 156180,
       "word": "林丹让蔡赟删掉视频",
       "onboard_time": 1766544981,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155593,
+      "num": 155593,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155456,
@@ -1147,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141532,
+      "num": 141532,
+      "word": "谁说内娱没有真亲签",
+      "onboard_time": 1766567902,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141428,
       "num": 109350,
       "word": "宁波女婴术后离世医疗事故鉴定启动",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1766542820,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140457,
+      "num": 309124,
+      "word": "马嘉祺夜访吸血鬼彩排高音",
+      "onboard_time": 1766566762,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 139056,
@@ -1185,14 +1249,6 @@
       "onboard_time": 1766548223,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137495,
-      "num": 137495,
-      "word": "平安夜文案",
-      "onboard_time": 1766564182,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 137457,
@@ -1291,6 +1347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133631,
+      "num": 214376,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132464,
+      "num": 158833,
+      "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
+      "onboard_time": 1766567301,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132117,
       "num": 132117,
       "word": "为什么说年轻人要有判断力",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1766499502,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127729,
+      "num": 127729,
+      "word": "杨紫开机花絮",
+      "onboard_time": 1766566882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 127610,
@@ -1387,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126060,
-      "num": 126060,
-      "word": "日网红夫妇在70度桑拿房中身亡",
-      "onboard_time": 1766565741,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125017,
       "num": 125017,
       "word": "吸毒人员至少半年不得进娱乐场所",
@@ -1403,12 +1475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "李施嬅已经接受车崇健经常不在家",
+      "onboard_time": 1766567662,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124587,
       "num": 124587,
       "word": "对不同年终奖的态度",
       "onboard_time": 1766555064,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122391,
+      "num": 122391,
+      "word": "孙颖莎说想打到40岁",
+      "onboard_time": 1766567182,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121331,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1766561300,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119189,
+      "num": 119189,
+      "word": "萝卜纸巾 认知丰容",
+      "onboard_time": 1766568201,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 118304,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1766548162,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 119680,
+      "word": "非京籍购房社保个税缴纳年限减1年",
+      "onboard_time": 1766567001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114326,
@@ -1571,12 +1675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108728,
+      "num": 173661,
+      "word": "景区5万月薪招185帅哥陪滑官",
+      "onboard_time": 1766565382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108245,
       "num": 108245,
       "word": "复联5",
       "onboard_time": 1766538561,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105377,
+      "num": 105377,
+      "word": "真的看到了桂花雨",
+      "onboard_time": 1766568320,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 105166,
@@ -1667,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102719,
+      "num": 102719,
+      "word": "圣诞节头像",
+      "onboard_time": 1766568382,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 102539,
       "num": 119555,
       "word": "女演员自曝被粉丝跟踪6年",
@@ -1715,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "备考人有自己的萝卜纸巾",
+      "onboard_time": 1766567662,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98793,
       "num": 104198,
       "word": "是否是亲生儿子已不重要",
@@ -1761,6 +1897,14 @@
       "onboard_time": 1766559921,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91830,
+      "num": 91830,
+      "word": "老来得己",
+      "onboard_time": 1766568681,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91676,
@@ -1875,6 +2019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79768,
+      "num": 113982,
+      "word": "从9校招44名学生有偿陪侍多人获刑",
+      "onboard_time": 1766566762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76875,
       "num": 88015,
       "word": "复联5首支预告正式发布",
@@ -1905,14 +2057,6 @@
       "onboard_time": 1766494640,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 74055,
-      "num": 173661,
-      "word": "景区5万月薪招185帅哥陪滑官",
-      "onboard_time": 1766565382,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73699,
@@ -1953,6 +2097,14 @@
       "onboard_time": 1766503525,
       "rank": 28,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 71460,
+      "num": 199081,
+      "word": "北京支持多子女家庭住房需求",
+      "onboard_time": 1766568201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68797,
@@ -2009,6 +2161,14 @@
       "onboard_time": 1766498842,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63142,
+      "num": 95671,
+      "word": "北京房贷利率不再区分首套和二套",
+      "onboard_time": 1766567062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63139,
@@ -2236,7 +2396,7 @@
     },
     {
       "raw_hot": 44397,
-      "num": 197220,
+      "num": 207825,
       "word": "起猛了大家都在晒余额宝全明星小卡",
       "onboard_time": 1766564722,
       "rank": 19,
@@ -2459,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26145,
+      "num": 354836,
+      "word": "数读2025年中国经济活力",
+      "onboard_time": 1766567662,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24342,
       "num": 703550,
       "word": "预计2025我国交通出行超660亿人次",
@@ -2588,6 +2756,9 @@
     },
     {
       "word": "#大国外交2025年度回眸#"
+    },
+    {
+      "word": "#新征程上中央企业怎么干#"
     }
   ]
 }
