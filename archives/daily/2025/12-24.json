@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766586492204,
+  "endTime": 1766587517774,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1738127,
-      "num": 288730,
+      "num": 341902,
       "word": "纪凌尘经纪人辟谣",
       "onboard_time": 1766570600,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1766570122,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1239445,
+      "num": 343188,
+      "word": "橹穆双人舞台",
+      "onboard_time": 1766586682,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1225897,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 897274,
-      "num": 218528,
+      "num": 342796,
       "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
       "onboard_time": 1766581762,
       "rank": 17,
@@ -188,11 +196,19 @@
     },
     {
       "raw_hot": 818359,
-      "num": 245827,
+      "num": 293208,
       "word": "贾乃亮被曝售假事件反转",
       "onboard_time": 1766575282,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 802991,
+      "num": 1128478,
+      "word": "我们的明天",
+      "onboard_time": 1766582602,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 789368,
@@ -217,14 +233,6 @@
       "onboard_time": 1766537423,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 760240,
-      "num": 1121638,
-      "word": "我们的明天",
-      "onboard_time": 1766582602,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 740515,
@@ -371,6 +379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 478672,
+      "num": 316710,
+      "word": "河南小学火灾案58岁宿管被判刑遭质疑",
+      "onboard_time": 1766584941,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477601,
       "num": 186838,
       "word": "平安夜玩一整晚苹果手机",
@@ -483,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400115,
+      "num": 400115,
+      "word": "第八集吻上宋威龙了",
+      "onboard_time": 1766584702,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389414,
       "num": 389414,
       "word": "老公还没准备好迎接第七个孩子",
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345598,
+      "num": 345598,
+      "word": "高市早苗又放话了",
+      "onboard_time": 1766585483,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 345017,
       "num": 199817,
       "word": "李嘉格儿子和妈妈男友牵手逛街",
@@ -593,14 +625,6 @@
       "onboard_time": 1766536401,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339874,
-      "num": 205702,
-      "word": "河南小学火灾案58岁宿管被判刑遭质疑",
-      "onboard_time": 1766584941,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339101,
@@ -641,14 +665,6 @@
       "onboard_time": 1766498001,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 317505,
-      "num": 317505,
-      "word": "第八集吻上宋威龙了",
-      "onboard_time": 1766584702,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 315228,
@@ -897,6 +913,14 @@
       "onboard_time": 1766561300,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226103,
+      "num": 226103,
+      "word": "苹果",
+      "onboard_time": 1766586503,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 225600,
@@ -1323,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167264,
+      "num": 133002,
+      "word": "一斤油一斤半面粉",
+      "onboard_time": 1766587044,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167183,
       "num": 167183,
       "word": "大学生有自己的年终奖",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1766546840,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165619,
+      "num": 165619,
+      "word": "美国网红称他在旧金山快活不下去了",
+      "onboard_time": 1766583263,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165380,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1766550862,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157874,
+      "num": 157874,
+      "word": "被肖战那滴泪砸得好痛",
+      "onboard_time": 1766586563,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 156180,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1766535080,
       "rank": 15,
       "category": "海外新闻,互联网"
+    },
+    {
+      "raw_hot": 151824,
+      "num": 151824,
+      "word": "BLG连续被零封",
+      "onboard_time": 1766587162,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 151644,
@@ -1577,22 +1633,6 @@
       "onboard_time": 1766561300,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142134,
-      "num": 180395,
-      "word": "高市早苗又放话了",
-      "onboard_time": 1766585483,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 141976,
-      "num": 141976,
-      "word": "美国网红称他在旧金山快活不下去了",
-      "onboard_time": 1766583263,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141532,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1766558301,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135381,
+      "num": 135381,
+      "word": "网传将门毒后明天官宣",
+      "onboard_time": 1766587102,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 135078,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1766566882,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127630,
+      "num": 127630,
+      "word": "朱孝天说自己跑调也坚持全开麦",
+      "onboard_time": 1766586923,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127610,
@@ -2192,6 +2248,14 @@
       "word": "私发淫秽信息违法已实施20年",
       "onboard_time": 1766549364,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109077,
+      "num": 109077,
+      "word": "啥时候买车厘子最划算",
+      "onboard_time": 1766587223,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2571,6 +2635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90000,
+      "num": 123121,
+      "word": "杨紫首次挑战超40岁年龄跨度角色",
+      "onboard_time": 1766577322,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89812,
+      "num": 89812,
+      "word": "清华大学招生办郑重声明",
+      "onboard_time": 1766586744,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 89764,
       "num": 89764,
       "word": "A股大金融板块异动",
@@ -2601,6 +2681,14 @@
       "onboard_time": 1766580262,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89172,
+      "num": 296047,
+      "word": "李子柒致敬非遗传承人",
+      "onboard_time": 1766583322,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 89138,
@@ -2747,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84788,
+      "num": 84788,
+      "word": "小猫回家太晚被妈妈逮到了",
+      "onboard_time": 1766586803,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84210,
       "num": 84210,
       "word": "宋威龙新剧 一个人的恨海情天",
@@ -2851,14 +2947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76534,
-      "num": 123121,
-      "word": "杨紫首次挑战超40岁年龄跨度角色",
-      "onboard_time": 1766577322,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76363,
       "num": 188466,
       "word": "何小鹏冰雪试驾X9超级增程直呼太稳了",
@@ -2889,14 +2977,6 @@
       "onboard_time": 1766494640,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75448,
-      "num": 201296,
-      "word": "李子柒致敬非遗传承人",
-      "onboard_time": 1766583322,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 75148,
@@ -3555,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31310,
+      "num": 450221,
+      "word": "三亚免税店连续5日销售额破亿",
+      "onboard_time": 1766583924,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31054,
       "num": 190127,
       "word": "馆方回应学生网淘日军家书无偿捐赠",
@@ -3769,14 +3857,6 @@
       "onboard_time": 1766512037,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14239,
-      "num": 450221,
-      "word": "三亚免税店连续5日销售额破亿",
-      "onboard_time": 1766583924,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13762,
