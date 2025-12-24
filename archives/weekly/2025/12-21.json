@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766572230505,
+  "endTime": 1766573241029,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1738127,
+      "num": 288730,
+      "word": "纪凌尘经纪人辟谣",
+      "onboard_time": 1766570600,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1723412,
       "num": 603345,
       "word": "昀牵孟绕",
@@ -161,14 +169,6 @@
       "onboard_time": 1766453541,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1646356,
-      "num": 215766,
-      "word": "纪凌尘经纪人辟谣",
-      "onboard_time": 1766570600,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1639528,
@@ -369,6 +369,14 @@
       "onboard_time": 1766458040,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1087028,
+      "num": 192283,
+      "word": "孙丞潇冰岛求婚金莎",
+      "onboard_time": 1766572402,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1072459,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1766241564,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 544207,
+      "num": 281169,
+      "word": "平安夜",
+      "onboard_time": 1766573062,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541267,
@@ -2411,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357655,
+      "num": 357655,
+      "word": "男子月薪3850给领导发5000红包",
+      "onboard_time": 1766569222,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356758,
       "num": 199285,
       "word": "肖战花裤子",
@@ -2497,6 +2521,14 @@
       "onboard_time": 1766323524,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345017,
+      "num": 199817,
+      "word": "李嘉格儿子和妈妈男友牵手逛街",
+      "onboard_time": 1766571321,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 343995,
@@ -2907,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298438,
+      "num": 298438,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296347,
       "num": 202556,
       "word": "丞磊王影璐你俩拍一部吧",
@@ -3116,7 +3156,7 @@
     },
     {
       "raw_hot": 283316,
-      "num": 283316,
+      "num": 295338,
       "word": "日网红夫妇在70度桑拿房中身亡",
       "onboard_time": 1766565741,
       "rank": 30,
@@ -3273,14 +3313,6 @@
       "onboard_time": 1766369178,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265267,
-      "num": 199817,
-      "word": "李嘉格儿子和妈妈男友牵手逛街",
-      "onboard_time": 1766571321,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 265142,
@@ -3979,14 +4011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212499,
-      "num": 212499,
-      "word": "男子月薪3850给领导发5000红包",
-      "onboard_time": 1766569222,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211690,
       "num": 423974,
       "word": "靖国神社被起诉",
@@ -4355,20 +4379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199617,
+      "num": 199617,
+      "word": "失去饭搭子跟断崖式分手有什么区别",
+      "onboard_time": 1766572040,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198976,
       "num": 198976,
       "word": "不看价格吃喝的一天有多爽",
       "onboard_time": 1766289740,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198869,
-      "num": 198869,
-      "word": "去世新生儿异常44分钟无人察觉",
-      "onboard_time": 1766567902,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198838,
@@ -4481,6 +4505,14 @@
       "onboard_time": 1766240784,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 195725,
+      "num": 195725,
+      "word": "强生爽身粉致癌案判赔女子约110亿元",
+      "onboard_time": 1766572821,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195522,
@@ -5465,6 +5497,14 @@
       "onboard_time": 1766463141,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168787,
+      "num": 168787,
+      "word": "这是烤冷面那我以前吃的算什么",
+      "onboard_time": 1766573062,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 168250,
@@ -6971,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136542,
+      "num": 136542,
+      "word": "人在公交车上被带鱼咬的概率不是0",
+      "onboard_time": 1766571501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136508,
       "num": 136508,
       "word": "TFBOYS没见过系列",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1766555123,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134962,
+      "num": 134962,
+      "word": "95后患癌女孩丈夫称这辈子不再结婚",
+      "onboard_time": 1766570781,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134945,
@@ -7568,6 +7624,14 @@
       "word": "黄星如果没有进入这一行",
       "onboard_time": 1766401581,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127203,
+      "num": 127203,
+      "word": "何猷君奚梦瑶韩国旅行",
+      "onboard_time": 1766571501,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -8211,14 +8275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116683,
-      "num": 116683,
-      "word": "人在公交车上被带鱼咬的概率不是0",
-      "onboard_time": 1766571501,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116672,
       "num": 116672,
       "word": "孔雪儿 古堡公主",
@@ -8771,12 +8827,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108445,
-      "num": 108445,
-      "word": "失去饭搭子跟断崖式分手有什么区别",
-      "onboard_time": 1766572040,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 108357,
+      "num": 108357,
+      "word": "虞书欣这段酸涩不舍的演技",
+      "onboard_time": 1766572641,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 108323,
@@ -8801,14 +8857,6 @@
       "onboard_time": 1766538561,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108217,
-      "num": 108217,
-      "word": "95后患癌女孩丈夫称这辈子不再结婚",
-      "onboard_time": 1766570781,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108179,
@@ -9041,6 +9089,14 @@
       "onboard_time": 1766301920,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104786,
+      "num": 104786,
+      "word": "杨超越千禧年辣姐",
+      "onboard_time": 1766572341,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 104700,
@@ -10211,6 +10267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88093,
+      "num": 88093,
+      "word": "我的全勤奖呢",
+      "onboard_time": 1766572402,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88011,
       "num": 88011,
       "word": "小狗拼了命地想醒过来",
@@ -10513,6 +10577,14 @@
       "onboard_time": 1766298202,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 82026,
+      "num": 82026,
+      "word": "霍启刚感谢国家让他和郭晶晶相识",
+      "onboard_time": 1766570361,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 81911,
@@ -11555,6 +11627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56109,
+      "num": 108424,
+      "word": "男子超市买猪肉称检出非洲猪瘟",
+      "onboard_time": 1766571620,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56057,
       "num": 83691,
       "word": "杀害9岁男孩凶手听到判决面无表情",
@@ -12323,14 +12403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 39896,
-      "num": 108424,
-      "word": "男子超市买猪肉称检出非洲猪瘟",
-      "onboard_time": 1766571620,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39644,
       "num": 142744,
       "word": "弃家30年父亲欠40万医疗费儿子拒还",
@@ -12545,14 +12617,6 @@
       "onboard_time": 1766564182,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35950,
-      "num": 108405,
-      "word": "何猷君奚梦瑶韩国旅行",
-      "onboard_time": 1766571501,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 35818,
@@ -12976,6 +13040,14 @@
       "word": "男子杀害7个月大侄女案一审将宣判",
       "onboard_time": 1766474960,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29685,
+      "num": 195352,
+      "word": "恶势力团伙引诱未成年学生卖淫",
+      "onboard_time": 1766572582,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
