@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766583508553,
+  "endTime": 1766584241087,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -171,20 +171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848838,
+      "num": 210092,
+      "word": "河南火灾班主任儿子发文",
+      "onboard_time": 1766582003,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819258,
+      "num": 214510,
+      "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+      "onboard_time": 1766581762,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818359,
       "num": 245827,
       "word": "贾乃亮被曝售假事件反转",
       "onboard_time": 1766575282,
       "rank": 14,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 794180,
-      "num": 214510,
-      "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
-      "onboard_time": 1766581762,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 789368,
@@ -227,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 699120,
-      "num": 1111859,
+      "raw_hot": 700486,
+      "num": 1112077,
       "word": "明年起私生粉滋扰纠缠明星明确违法",
       "onboard_time": 1766580262,
       "rank": 17,
@@ -353,14 +361,6 @@
       "onboard_time": 1766560761,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 490140,
-      "num": 198635,
-      "word": "河南火灾班主任儿子发文",
-      "onboard_time": 1766582003,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477601,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344694,
+      "num": 344694,
+      "word": "我们的明天",
+      "onboard_time": 1766582602,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339955,
       "num": 218749,
       "word": "学信网的含金量还在上升",
@@ -627,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311130,
+      "num": 193168,
+      "word": "TVB女演员钟丽淇女儿患罕见病",
+      "onboard_time": 1766582542,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302568,
       "num": 298466,
       "word": "迪丽热巴时尚芭莎开年刊",
@@ -680,14 +696,6 @@
       "word": "翟俊杰去世",
       "onboard_time": 1766567001,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 289917,
-      "num": 193168,
-      "word": "TVB女演员钟丽淇女儿患罕见病",
-      "onboard_time": 1766582542,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -971,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207407,
-      "num": 199752,
-      "word": "我们的明天",
-      "onboard_time": 1766582602,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205520,
       "num": 205520,
       "word": "00后订婚喜糖",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1766575041,
       "rank": 9,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 197668,
+      "num": 197668,
+      "word": "长津湖",
+      "onboard_time": 1766583322,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195904,
@@ -1147,6 +1155,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 182061,
+      "num": 168247,
+      "word": "王源直播",
+      "onboard_time": 1766582962,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181351,
       "num": 181351,
       "word": "QQ羞辱方式又多了一个抽象的",
@@ -1243,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173354,
-      "num": 173354,
-      "word": "长津湖",
-      "onboard_time": 1766583322,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171512,
       "num": 171512,
       "word": "谭松韵哭戏",
@@ -1331,20 +1339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162291,
+      "num": 162291,
+      "word": "山东录用公务员前将核查网络言论",
+      "onboard_time": 1766581043,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161844,
       "num": 161844,
       "word": "成毅360度运镜镜头",
       "onboard_time": 1766554342,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160286,
-      "num": 160286,
-      "word": "王源直播",
-      "onboard_time": 1766582962,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 159700,
@@ -1691,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135415,
-      "num": 150274,
-      "word": "山东录用公务员前将核查网络言论",
-      "onboard_time": 1766581043,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135078,
       "num": 135078,
       "word": "展轩后援会分票",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1766551943,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 133933,
+      "word": "不开火的家宴原来是在吃冷面",
+      "onboard_time": 1766583503,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 133834,
@@ -1811,6 +1819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129597,
+      "num": 129597,
+      "word": "Capper回应新恋情",
+      "onboard_time": 1766582362,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127937,
       "num": 127937,
       "word": "福建震感",
@@ -1883,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125866,
+      "num": 125866,
+      "word": "马頔嘴里没一个字在调上",
+      "onboard_time": 1766581522,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125199,
       "num": 119189,
       "word": "萝卜纸巾 认知丰容",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1766555064,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124534,
+      "num": 124534,
+      "word": "美国网红称他在旧金山快活不下去了",
+      "onboard_time": 1766583263,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124365,
@@ -1947,6 +1979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120613,
+      "num": 120613,
+      "word": "陈奕恒新音彩排",
+      "onboard_time": 1766583442,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120546,
       "num": 120546,
       "word": "黄金",
@@ -1955,20 +1995,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119360,
+      "num": 119360,
+      "word": "日本遗孤自取日本名纪念中国养父母",
+      "onboard_time": 1766580625,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119201,
       "num": 119201,
       "word": "iPhone18Pro配色预测",
       "onboard_time": 1766561300,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 118682,
-      "num": 118682,
-      "word": "美国网红称他在旧金山快活不下去了",
-      "onboard_time": 1766583263,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118304,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1766546781,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116311,
-      "num": 116311,
-      "word": "日本遗孤自取日本名纪念中国养父母",
-      "onboard_time": 1766580625,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115891,
@@ -2089,14 +2121,6 @@
       "onboard_time": 1766540900,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112535,
-      "num": 112535,
-      "word": "马頔嘴里没一个字在调上",
-      "onboard_time": 1766581522,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 112131,
@@ -2243,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104609,
-      "num": 104609,
-      "word": "Capper回应新恋情",
-      "onboard_time": 1766582362,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104552,
       "num": 113660,
       "word": "公务员遴选分数第1落选信息含量大",
@@ -2272,6 +2288,14 @@
       "word": "马思纯演大小姐可太有说服力了",
       "onboard_time": 1766575942,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104119,
+      "num": 104119,
+      "word": "萧武阳萧文敬 皇上杀了皇上",
+      "onboard_time": 1766583383,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2345,6 +2369,22 @@
       "onboard_time": 1766562141,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102265,
+      "num": 102265,
+      "word": "河南火灾携带打火机学生有责吗",
+      "onboard_time": 1766582362,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102209,
+      "num": 102209,
+      "word": "狙击蝴蝶 李雾自白动画",
+      "onboard_time": 1766583503,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 101628,
@@ -2433,22 +2473,6 @@
       "onboard_time": 1766541921,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94500,
-      "num": 94500,
-      "word": "萧武阳萧文敬 皇上杀了皇上",
-      "onboard_time": 1766583383,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 93866,
-      "num": 93866,
-      "word": "陈奕恒新音彩排",
-      "onboard_time": 1766583442,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 93697,
@@ -2963,6 +2987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60963,
+      "num": 198429,
+      "word": "李子柒致敬非遗传承人",
+      "onboard_time": 1766583322,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60490,
       "num": 87756,
       "word": "爱泼斯坦狱中自杀视频被证实是伪造",
@@ -3100,7 +3132,7 @@
     },
     {
       "raw_hot": 53422,
-      "num": 200814,
+      "num": 202394,
       "word": "王嘉尔852六年回忆",
       "onboard_time": 1766581402,
       "rank": 14,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1766559921,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52920,
+      "num": 169987,
+      "word": "2025年还要上2休2再上3",
+      "onboard_time": 1766583683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52557,
@@ -3299,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38127,
+      "num": 196878,
+      "word": "北京楼市新政落地现在该入手吗",
+      "onboard_time": 1766582482,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 38004,
       "num": 156313,
       "word": "波司登的内娱覆盖率",
@@ -3427,6 +3475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29069,
+      "num": 505328,
+      "word": "冰雪大世界打卡玩法又升级了",
+      "onboard_time": 1766583442,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28933,
       "num": 46736,
       "word": "加油老己明年见",
@@ -3539,14 +3595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21191,
-      "num": 196878,
-      "word": "北京楼市新政落地现在该入手吗",
-      "onboard_time": 1766582482,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 21094,
       "num": 121081,
       "word": "寻子21年的汪雨雷妈妈找到孩子",
@@ -3611,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14239,
+      "num": 450221,
+      "word": "三亚免税店连续5日销售额破亿",
+      "onboard_time": 1766583924,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13762,
       "num": 23076,
       "word": "微博网友年度喜爱作品",
@@ -3635,28 +3691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8763,
-      "num": 505328,
-      "word": "冰雪大世界打卡玩法又升级了",
-      "onboard_time": 1766583442,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8572,
       "num": 119928,
       "word": "我国19岁以下癌症5年生存率超七成",
       "onboard_time": 1766562141,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8174,
-      "num": 140528,
-      "word": "李子柒致敬非遗传承人",
-      "onboard_time": 1766583322,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 8002,

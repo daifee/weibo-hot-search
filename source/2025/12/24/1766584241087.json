@@ -1,0 +1,410 @@
+{
+  "runTime": 1766584241087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700486,
+        "num": 1112077,
+        "word": "明年起私生粉滋扰纠缠明星明确违法",
+        "onboard_time": 1766580262,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 533464,
+        "num": 533464,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14239,
+        "num": 450221,
+        "word": "三亚免税店连续5日销售额破亿",
+        "onboard_time": 1766583924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447562,
+        "num": 447562,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 436995,
+        "num": 436995,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 469115,
+        "num": 413004,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 344694,
+        "num": 344694,
+        "word": "我们的明天",
+        "onboard_time": 1766582602,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325374,
+        "num": 325374,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242724,
+        "num": 242724,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210339,
+        "num": 210339,
+        "word": "JDG对战BLG",
+        "onboard_time": 1766582003,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 848838,
+        "num": 210092,
+        "word": "河南火灾班主任儿子发文",
+        "onboard_time": 1766582003,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819258,
+        "num": 207313,
+        "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+        "onboard_time": 1766581762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718745,
+        "num": 205085,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614140,
+        "num": 203211,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 31331,
+        "num": 202394,
+        "word": "王嘉尔852六年回忆",
+        "onboard_time": 1766581402,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320221,
+        "num": 199656,
+        "word": "黄子佼获刑",
+        "onboard_time": 1766580561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60963,
+        "num": 198429,
+        "word": "李子柒致敬非遗传承人",
+        "onboard_time": 1766583322,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197668,
+        "num": 197668,
+        "word": "长津湖",
+        "onboard_time": 1766583322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170330,
+        "num": 170330,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52920,
+        "num": 169987,
+        "word": "2025年还要上2休2再上3",
+        "onboard_time": 1766583683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883715,
+        "num": 169608,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29069,
+        "num": 169405,
+        "word": "冰雪大世界打卡玩法又升级了",
+        "onboard_time": 1766583442,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311130,
+        "num": 169072,
+        "word": "TVB女演员钟丽淇女儿患罕见病",
+        "onboard_time": 1766582542,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188320,
+        "num": 168564,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182061,
+        "num": 168247,
+        "word": "王源直播",
+        "onboard_time": 1766582962,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167987,
+        "num": 167987,
+        "word": "非洲网红预言12月25日是世界末日",
+        "onboard_time": 1766574922,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162291,
+        "num": 162291,
+        "word": "山东录用公务员前将核查网络言论",
+        "onboard_time": 1766581043,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154782,
+        "num": 154782,
+        "word": "言凤山没死",
+        "onboard_time": 1766577141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38127,
+        "num": 147017,
+        "word": "北京楼市新政落地现在该入手吗",
+        "onboard_time": 1766582482,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "金莎孙丞潇狙击蝴蝶照进现实",
+        "onboard_time": 1766577502,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137528,
+        "num": 137528,
+        "word": "贾霞儿子706天没见到妈妈了",
+        "onboard_time": 1766581822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 133933,
+        "word": "不开火的家宴原来是在吃冷面",
+        "onboard_time": 1766583503,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129597,
+        "num": 129597,
+        "word": "Capper回应新恋情",
+        "onboard_time": 1766582362,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126117,
+        "num": 126117,
+        "word": "骄阳似我 求加更",
+        "onboard_time": 1766582003,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125866,
+        "num": 125866,
+        "word": "马頔嘴里没一个字在调上",
+        "onboard_time": 1766581522,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124534,
+        "num": 124534,
+        "word": "美国网红称他在旧金山快活不下去了",
+        "onboard_time": 1766583263,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120787,
+        "num": 120787,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "陈奕恒新音彩排",
+        "onboard_time": 1766583442,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119360,
+        "num": 119360,
+        "word": "日本遗孤自取日本名纪念中国养父母",
+        "onboard_time": 1766580625,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116897,
+        "num": 116897,
+        "word": "顾漫女主运",
+        "onboard_time": 1766574742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116826,
+        "num": 116826,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113703,
+        "num": 113703,
+        "word": "深圳地铁通报女子在隧道内拍照",
+        "onboard_time": 1766575521,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104119,
+        "num": 104119,
+        "word": "萧武阳萧文敬 皇上杀了皇上",
+        "onboard_time": 1766583383,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103418,
+        "num": 103418,
+        "word": "陈都灵现代装也拍出了神性",
+        "onboard_time": 1766575521,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102265,
+        "num": 102265,
+        "word": "河南火灾携带打火机学生有责吗",
+        "onboard_time": 1766582362,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102209,
+        "num": 102209,
+        "word": "狙击蝴蝶 李雾自白动画",
+        "onboard_time": 1766583503,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102154,
+        "num": 102154,
+        "word": "宁静自曝生完孩子体质变差",
+        "onboard_time": 1766573601,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98158,
+        "num": 98158,
+        "word": "这是烤冷面那我以前吃的算什么",
+        "onboard_time": 1766573062,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84770,
+        "num": 98157,
+        "word": "日本下月将在太平洋海底试挖稀土",
+        "onboard_time": 1766577921,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}
