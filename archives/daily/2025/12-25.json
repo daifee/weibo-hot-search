@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766594104103,
+  "endTime": 1766594946086,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -35,7 +35,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 402205,
+      "raw_hot": 428984,
       "num": 152629,
       "word": "黄多多和狗狗拍照",
       "onboard_time": 1766591660,
@@ -147,12 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133228,
+      "raw_hot": 141575,
       "num": 145928,
       "word": "朱志鑫苏新皓跳了卡点舞",
       "onboard_time": 1766589682,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128922,
+      "num": 150448,
+      "word": "情侣间发送亲密照片没有社会危害性",
+      "onboard_time": 1766590701,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 128654,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93891,
+      "num": 145653,
+      "word": "周杰伦昆凌情侣装合照",
+      "onboard_time": 1766593099,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90207,
       "num": 145750,
       "word": "建议别在东北cos尼克狐尼克",
@@ -219,20 +235,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88178,
+      "num": 140222,
+      "word": "阚清子",
+      "onboard_time": 1766501422,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85724,
       "num": 145807,
       "word": "骄阳似我预告",
       "onboard_time": 1766590281,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79476,
-      "num": 150448,
-      "word": "情侣间发送亲密照片没有社会危害性",
-      "onboard_time": 1766590701,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 76125,
@@ -267,15 +283,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 67612,
-      "num": 145653,
-      "word": "周杰伦昆凌情侣装合照",
-      "onboard_time": 1766593099,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 66805,
+      "raw_hot": 67529,
       "num": 145618,
       "word": "宋威龙现偶",
       "onboard_time": 1766576362,
@@ -299,11 +307,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60890,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58306,
       "num": 145594,
       "word": "BLG连续被零封",
       "onboard_time": 1766587162,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 57176,
+      "num": 145471,
+      "word": "落空直播",
+      "onboard_time": 1766592260,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -323,28 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52082,
-      "num": 145471,
-      "word": "落空直播",
-      "onboard_time": 1766592260,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 51593,
       "num": 145438,
       "word": "金莎孙丞潇狙击蝴蝶照进现实",
       "onboard_time": 1766577502,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51250,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50205,
@@ -371,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47262,
+      "num": 140141,
+      "word": "何与海外是真的火了",
+      "onboard_time": 1766578522,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47025,
       "num": 145300,
       "word": "有网友晒白银LOF套利500赚350",
@@ -393,6 +409,14 @@
       "onboard_time": 1766592080,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45479,
+      "num": 140135,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27304,

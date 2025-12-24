@@ -1,0 +1,410 @@
+{
+  "runTime": 1766594946086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 395875,
+        "num": 703340,
+        "word": "高市早苗又放话了",
+        "onboard_time": 1766585483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288699,
+        "num": 288699,
+        "word": "日本一无人岛密密麻麻都是北海狮",
+        "onboard_time": 1766588601,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21890,
+        "num": 283006,
+        "word": "粤港澳大湾区再添海上新通道",
+        "onboard_time": 1766584222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280030,
+        "num": 280030,
+        "word": "橹穆来自天堂的魔鬼舞台彩排",
+        "onboard_time": 1766591001,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 191142,
+        "word": "胖东来售卖梅西签名球衣",
+        "onboard_time": 1766588783,
+        "rank": 4,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 196267,
+        "num": 190762,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 144032,
+        "num": 144032,
+        "word": "美国网红称他在旧金山快活不下去了",
+        "onboard_time": 1766583263,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140315,
+        "num": 140315,
+        "word": "第八集吻上宋威龙了",
+        "onboard_time": 1766584702,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128659,
+        "num": 140312,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99470,
+        "num": 140308,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 580895,
+        "num": 140305,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766586682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428984,
+        "num": 140296,
+        "word": "黄多多和狗狗拍照",
+        "onboard_time": 1766591660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375672,
+        "num": 140291,
+        "word": "朱孝天疑似明涵阿信",
+        "onboard_time": 1766588003,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285977,
+        "num": 140286,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281076,
+        "num": 140284,
+        "word": "苹果",
+        "onboard_time": 1766586503,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225312,
+        "num": 140278,
+        "word": "黄朔直播",
+        "onboard_time": 1766588182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 140272,
+        "word": "情侣间发送亲密照片没有社会危害性",
+        "onboard_time": 1766590701,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 140268,
+        "word": "山东录用公务员前将核查网络言论",
+        "onboard_time": 1766581043,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85200,
+        "num": 140265,
+        "word": "马面裙才是马年的本命战袍",
+        "onboard_time": 1766588601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83670,
+        "num": 140261,
+        "word": "建议别在东北cos尼克狐尼克",
+        "onboard_time": 1766591781,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 570260,
+        "num": 140256,
+        "word": "曝男顶流拍戏受伤",
+        "onboard_time": 1766589562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177755,
+        "num": 140247,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141575,
+        "num": 140242,
+        "word": "朱志鑫苏新皓跳了卡点舞",
+        "onboard_time": 1766589682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104372,
+        "num": 140237,
+        "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+        "onboard_time": 1766581762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93891,
+        "num": 140235,
+        "word": "周杰伦昆凌情侣装合照",
+        "onboard_time": 1766593099,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92717,
+        "num": 140228,
+        "word": "跨年演唱会",
+        "onboard_time": 1766590342,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88178,
+        "num": 140222,
+        "word": "阚清子",
+        "onboard_time": 1766501422,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88161,
+        "num": 140219,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 72872,
+        "num": 140217,
+        "word": "高端餐厅要价12000的辣椒炒牛",
+        "onboard_time": 1766587883,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67305,
+        "num": 140212,
+        "word": "贾霞老师58岁了",
+        "onboard_time": 1766587883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72813,
+        "num": 140203,
+        "word": "骄阳似我预告",
+        "onboard_time": 1766590281,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72446,
+        "num": 140197,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69250,
+        "num": 140193,
+        "word": "我们的明天",
+        "onboard_time": 1766582602,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60890,
+        "num": 140191,
+        "word": "女子早高峰占电梯被推出去后厮打",
+        "onboard_time": 1766591422,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59720,
+        "num": 140187,
+        "word": "一斤油一斤半面粉",
+        "onboard_time": 1766587044,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67529,
+        "num": 140179,
+        "word": "宋威龙现偶",
+        "onboard_time": 1766576362,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62241,
+        "num": 140176,
+        "word": "朱一龙工作室更新",
+        "onboard_time": 1766587584,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57176,
+        "num": 140169,
+        "word": "落空直播",
+        "onboard_time": 1766592260,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52209,
+        "num": 140166,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52106,
+        "num": 140157,
+        "word": "BLG连续被零封",
+        "onboard_time": 1766587162,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60059,
+        "num": 140154,
+        "word": "TVB女演员钟丽淇女儿患罕见病",
+        "onboard_time": 1766582542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51401,
+        "num": 140151,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47509,
+        "num": 140148,
+        "word": "徐冬冬辟谣尹子维逼婚",
+        "onboard_time": 1766591422,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47262,
+        "num": 140141,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45479,
+        "num": 140135,
+        "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+        "onboard_time": 1766574020,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45431,
+        "num": 140130,
+        "word": "白鹿让我研究研究这个阶梯",
+        "onboard_time": 1766592080,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45387,
+        "num": 140127,
+        "word": "虐死继女案再审生父加刑八年",
+        "onboard_time": 1766591901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44538,
+        "num": 140120,
+        "word": "福建舰内部画面",
+        "onboard_time": 1766589920,
+        "rank": 47,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 41855,
+        "num": 140115,
+        "word": "BLG无缘德杯淘汰赛",
+        "onboard_time": 1766588661,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37686,
+        "num": 140110,
+        "word": "有网友晒白银LOF套利500赚350",
+        "onboard_time": 1766591240,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}
