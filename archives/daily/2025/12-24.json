@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766548933461,
+  "endTime": 1766551546317,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -11,11 +11,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3083810,
+      "num": 533015,
+      "word": "王安宇意外公布陈伟霆孩子名字",
+      "onboard_time": 1766549244,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2831195,
       "num": 3162391,
       "word": "法工委回应吸毒记录封存相关问题",
       "onboard_time": 1766546962,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2808650,
+      "num": 189789,
+      "word": "官方回应哪位少爷吸了",
+      "onboard_time": 1766548942,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -25,6 +41,14 @@
       "onboard_time": 1766542401,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1011359,
+      "num": 661066,
+      "word": "肖战压轴官宣东方卫视跨年",
+      "onboard_time": 1766549844,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 995792,
@@ -43,20 +67,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 977019,
+      "num": 977019,
+      "word": "关于吸毒记录封存的3点说明",
+      "onboard_time": 1766547202,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 789368,
       "num": 172686,
       "word": "法医刘良团队提供小洛熙尸检报告",
       "onboard_time": 1766531117,
       "rank": 10,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 787732,
-      "num": 787732,
-      "word": "关于吸毒记录封存的3点说明",
-      "onboard_time": 1766547202,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 767049,
@@ -81,6 +105,14 @@
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548587,
+      "num": 548587,
+      "word": "老人一儿一女已故全村人选择瞒着",
+      "onboard_time": 1766549782,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545901,
@@ -115,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500390,
+      "num": 500390,
+      "word": "我不是药神原型现在怎么样了",
+      "onboard_time": 1766548403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494408,
       "num": 298532,
       "word": "陈星旭周也王玉雯名场面外网火了",
@@ -129,6 +169,14 @@
       "onboard_time": 1766502685,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 447584,
+      "num": 447584,
+      "word": "拍蛇片把蛇搞丢的后果",
+      "onboard_time": 1766548704,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 402924,
@@ -211,6 +259,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 315228,
+      "num": 286585,
+      "word": "东方卫视跨年阵容",
+      "onboard_time": 1766545941,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302568,
+      "num": 229923,
+      "word": "迪丽热巴时尚芭莎开年刊",
+      "onboard_time": 1766548824,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 300569,
       "num": 300569,
       "word": "哑舍编剧致歉",
@@ -227,12 +291,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 286585,
-      "num": 286585,
-      "word": "东方卫视跨年阵容",
-      "onboard_time": 1766545941,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 285016,
+      "num": 229005,
+      "word": "黄荷娜被警方逮捕",
+      "onboard_time": 1766549302,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 273336,
@@ -331,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233240,
+      "num": 227989,
+      "word": "新生儿医院去世涉事人员停职",
+      "onboard_time": 1766548343,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232293,
       "num": 232293,
       "word": "肖战堆的雪人倒了",
@@ -345,6 +417,14 @@
       "onboard_time": 1766543119,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227685,
+      "num": 227685,
+      "word": "河南火灾班主任",
+      "onboard_time": 1766550024,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225600,
@@ -387,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213931,
+      "num": 213931,
+      "word": "上海家长吐槽学校要求冬至包饺子",
+      "onboard_time": 1766550084,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212842,
       "num": 212842,
       "word": "迪丽热巴扑倒陈飞宇剧照",
@@ -403,20 +491,52 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202521,
-      "num": 202521,
-      "word": "迪丽热巴时尚芭莎开年刊",
-      "onboard_time": 1766548824,
-      "rank": 17,
-      "category": "作品衍生,时尚"
+      "raw_hot": 203723,
+      "num": 203723,
+      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+      "onboard_time": 1766550142,
+      "rank": 18,
+      "category": "艺人"
     },
     {
-      "raw_hot": 187665,
-      "num": 187665,
-      "word": "我不是药神原型现在怎么样了",
-      "onboard_time": 1766548403,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 189850,
+      "num": 189850,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184845,
+      "num": 184845,
+      "word": "王彦霖 爱上肖战是人之常情",
+      "onboard_time": 1766550684,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181351,
+      "num": 181351,
+      "word": "QQ羞辱方式又多了一个抽象的",
+      "onboard_time": 1766551042,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178625,
+      "num": 178625,
+      "word": "长期吃减肥药的副作用出现了",
+      "onboard_time": 1766549844,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176732,
+      "num": 176732,
+      "word": "杨瀚森替补登场",
+      "onboard_time": 1766549604,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 176710,
@@ -425,6 +545,14 @@
       "onboard_time": 1766544441,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175845,
+      "num": 175845,
+      "word": "马刺战胜雷霆",
+      "onboard_time": 1766550684,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 175192,
@@ -443,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171512,
+      "num": 171512,
+      "word": "谭松韵哭戏",
+      "onboard_time": 1766550384,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170565,
       "num": 170565,
       "word": "3种炎症拖着不管会致癌",
       "onboard_time": 1766545341,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168533,
-      "num": 168533,
-      "word": "拍蛇片把蛇搞丢的后果",
-      "onboard_time": 1766548704,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 168347,
@@ -499,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159497,
+      "num": 171874,
+      "word": "窦靖童那英我和我大姨一起跨年",
+      "onboard_time": 1766550862,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156180,
       "num": 156180,
       "word": "林丹让蔡赟删掉视频",
       "onboard_time": 1766544981,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155456,
+      "num": 155456,
+      "word": "泡泡玛特躺平式Labubu",
+      "onboard_time": 1766551042,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 152110,
@@ -539,6 +683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 150818,
+      "num": 168362,
+      "word": "宋威龙赵今麦婚后沙发吻",
+      "onboard_time": 1766548824,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148413,
       "num": 148413,
       "word": "J人震惊P人认可",
@@ -547,11 +699,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146280,
-      "num": 146280,
-      "word": "新生儿医院去世涉事人员停职",
-      "onboard_time": 1766548343,
+      "raw_hot": 145731,
+      "num": 145731,
+      "word": "苏醒新家假马尔代夫真春晚现场",
+      "onboard_time": 1766549903,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "国家禁毒态度措施制度没有任何改变",
+      "onboard_time": 1766550624,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -641,6 +801,22 @@
       "onboard_time": 1766542760,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132117,
+      "num": 132117,
+      "word": "为什么说年轻人要有判断力",
+      "onboard_time": 1766550084,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131501,
+      "num": 131501,
+      "word": "NBA",
+      "onboard_time": 1766551465,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131486,
@@ -771,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110910,
+      "num": 187205,
+      "word": "私发淫秽信息违法已实施20年",
+      "onboard_time": 1766549364,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108987,
       "num": 108987,
       "word": "双北",
@@ -857,14 +1041,6 @@
       "onboard_time": 1766541921,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94240,
-      "num": 168362,
-      "word": "宋威龙赵今麦婚后沙发吻",
-      "onboard_time": 1766548824,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 91676,
@@ -1083,6 +1259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 59762,
+      "num": 186520,
+      "word": "江寻千雪雕大作落地哈尔滨",
+      "onboard_time": 1766549122,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59608,
       "num": 167602,
       "word": "T1再与oner续约两年",
@@ -1147,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53526,
+      "num": 189255,
+      "word": "威海公安悬赏追捕2台湾嫌犯",
+      "onboard_time": 1766551104,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52557,
       "num": 221157,
       "word": "节日送礼拖延症有救了",
@@ -1169,6 +1361,14 @@
       "onboard_time": 1766508319,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 49468,
+      "num": 185062,
+      "word": "冬季总咳嗽别硬扛",
+      "onboard_time": 1766551406,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47533,
@@ -1227,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44106,
+      "num": 171625,
+      "word": "特朗普称爱泼斯坦案会毁掉无辜的人",
+      "onboard_time": 1766550263,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42838,
       "num": 55093,
       "word": "成毅新剧的伤从来没白受",
@@ -1249,6 +1457,14 @@
       "onboard_time": 1766509878,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38394,
+      "num": 185752,
+      "word": "断骨增高术宣介在多平台重现",
+      "onboard_time": 1766549903,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37825,
@@ -1281,6 +1497,14 @@
       "onboard_time": 1766540540,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33781,
+      "num": 186356,
+      "word": "刘德华为非凡大师献唱",
+      "onboard_time": 1766549244,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 32480,
@@ -1356,7 +1580,7 @@
     },
     {
       "raw_hot": 24342,
-      "num": 560425,
+      "num": 703550,
       "word": "预计2025我国交通出行超660亿人次",
       "onboard_time": 1766494762,
       "rank": 2,
