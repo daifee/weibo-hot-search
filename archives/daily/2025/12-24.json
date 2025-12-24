@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766551546317,
+  "endTime": 1766552187027,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3083810,
-      "num": 533015,
+      "num": 573798,
       "word": "王安宇意外公布陈伟霆孩子名字",
       "onboard_time": 1766549244,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2808650,
-      "num": 189789,
+      "num": 210649,
       "word": "官方回应哪位少爷吸了",
       "onboard_time": 1766548942,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 985119,
-      "num": 189504,
+      "num": 209692,
       "word": "张百乔老婆整容",
       "onboard_time": 1766547622,
       "rank": 38,
@@ -99,20 +99,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 616297,
+      "num": 616297,
+      "word": "老人一儿一女已故全村人选择瞒着",
+      "onboard_time": 1766549782,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579623,
       "num": 579623,
       "word": "NBA球员李凯尔国籍已改为美国",
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 548587,
-      "num": 548587,
-      "word": "老人一儿一女已故全村人选择瞒着",
-      "onboard_time": 1766549782,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 545901,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 322682,
-      "num": 188299,
+      "num": 200250,
       "word": "程晓玥自曝二胎胎儿偏大",
       "onboard_time": 1766547681,
       "rank": 39,
@@ -267,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309278,
+      "num": 300428,
+      "word": "河南火灾班主任",
+      "onboard_time": 1766550024,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302568,
-      "num": 229923,
+      "num": 298466,
       "word": "迪丽热巴时尚芭莎开年刊",
       "onboard_time": 1766548824,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301135,
+      "num": 301135,
+      "word": "循环酸奶",
+      "onboard_time": 1766547443,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 300569,
@@ -283,20 +299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287798,
-      "num": 287798,
-      "word": "循环酸奶",
-      "onboard_time": 1766547443,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 285016,
-      "num": 229005,
+      "num": 276453,
       "word": "黄荷娜被警方逮捕",
       "onboard_time": 1766549302,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283897,
+      "num": 283897,
+      "word": "新生儿医院去世涉事人员停职",
+      "onboard_time": 1766548343,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273336,
@@ -395,12 +411,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 233240,
-      "num": 227989,
-      "word": "新生儿医院去世涉事人员停职",
-      "onboard_time": 1766548343,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 232384,
+      "num": 232384,
+      "word": "上海家长吐槽学校要求冬至包饺子",
+      "onboard_time": 1766550084,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 232293,
@@ -417,14 +433,6 @@
       "onboard_time": 1766543119,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 227685,
-      "num": 227685,
-      "word": "河南火灾班主任",
-      "onboard_time": 1766550024,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225600,
@@ -451,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222839,
+      "num": 222839,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222601,
       "num": 222601,
       "word": "日本遗孤说不信我是日本孩子",
@@ -467,20 +483,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213931,
-      "num": 213931,
-      "word": "上海家长吐槽学校要求冬至包饺子",
-      "onboard_time": 1766550084,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212842,
       "num": 212842,
       "word": "迪丽热巴扑倒陈飞宇剧照",
       "onboard_time": 1766546901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211395,
+      "num": 198527,
+      "word": "很多人都低估了1万元的威力",
+      "onboard_time": 1766551585,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209942,
+      "num": 209942,
+      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+      "onboard_time": 1766550142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209193,
+      "num": 209193,
+      "word": "对戒毒吸毒人员信息一直实行管控",
+      "onboard_time": 1766551406,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205520,
@@ -491,20 +523,44 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203723,
-      "num": 203723,
-      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
-      "onboard_time": 1766550142,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 203260,
+      "num": 203260,
+      "word": "湖人不敌太阳",
+      "onboard_time": 1766551585,
+      "rank": 25,
+      "category": "体育"
     },
     {
-      "raw_hot": 189850,
-      "num": 189850,
-      "word": "美国斩杀线",
-      "onboard_time": 1766550742,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 195068,
+      "num": 195068,
+      "word": "孙颖莎连续四年女单年终世界第一",
+      "onboard_time": 1766551765,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192673,
+      "num": 192673,
+      "word": "鹿晗新歌预告",
+      "onboard_time": 1766551943,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 192598,
+      "num": 192598,
+      "word": "广东从石头山榨出了液体黄金",
+      "onboard_time": 1766551824,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185325,
+      "num": 185325,
+      "word": "清华计算机专业博士7年的薪资",
+      "onboard_time": 1766551943,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 184845,
@@ -619,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165329,
+      "num": 165329,
+      "word": "王楚钦蝉联男子单打年终世界第一",
+      "onboard_time": 1766552062,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160111,
       "num": 160111,
       "word": "骄阳似我",
@@ -649,6 +713,22 @@
       "onboard_time": 1766551042,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 153528,
+      "num": 153528,
+      "word": "谭松韵新剧三人分饰一角",
+      "onboard_time": 1766551883,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152770,
+      "num": 152770,
+      "word": "优酷是内娱青年演员的获奖福地吧",
+      "onboard_time": 1766552004,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152110,
@@ -793,6 +873,14 @@
       "onboard_time": 1766484681,
       "rank": 9,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 133942,
+      "num": 133942,
+      "word": "怪不得明明很困但就是睡不着",
+      "onboard_time": 1766551943,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 133834,
@@ -1260,7 +1348,7 @@
     },
     {
       "raw_hot": 59762,
-      "num": 186520,
+      "num": 200362,
       "word": "江寻千雪雕大作落地哈尔滨",
       "onboard_time": 1766549122,
       "rank": 27,
@@ -1315,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54620,
+      "num": 212435,
+      "word": "冬季总咳嗽别硬扛",
+      "onboard_time": 1766551406,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
@@ -1332,7 +1428,7 @@
     },
     {
       "raw_hot": 53526,
-      "num": 189255,
+      "num": 210829,
       "word": "威海公安悬赏追捕2台湾嫌犯",
       "onboard_time": 1766551104,
       "rank": 21,
@@ -1361,14 +1457,6 @@
       "onboard_time": 1766508319,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 49468,
-      "num": 185062,
-      "word": "冬季总咳嗽别硬扛",
-      "onboard_time": 1766551406,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 47533,
@@ -1500,7 +1588,7 @@
     },
     {
       "raw_hot": 33781,
-      "num": 186356,
+      "num": 200729,
       "word": "刘德华为非凡大师献唱",
       "onboard_time": 1766549244,
       "rank": 28,
