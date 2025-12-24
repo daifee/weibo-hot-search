@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766597117304,
+  "endTime": 1766598144439,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -62747,6 +62747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89566,
+      "num": 145471,
+      "word": "落空直播",
+      "onboard_time": 1766592260,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89538,
       "num": 92606,
       "word": "双轨昏头吻来了我也昏头了",
@@ -66779,14 +66787,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 77712,
-      "num": 145471,
-      "word": "落空直播",
-      "onboard_time": 1766592260,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77706,
       "num": 77706,
       "word": "宋威龙赵今麦骄阳似我婚纱照",
@@ -68091,6 +68091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 72983,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72908,
       "num": 72908,
       "word": "巧克力红茶烤奶",
@@ -68657,14 +68665,6 @@
       "onboard_time": 1766283439,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70535,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70510,
@@ -80555,6 +80555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28236,
+      "num": 62996,
+      "word": "丁禹兮赣饭vlog",
+      "onboard_time": 1766597777,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28219,
       "num": 40353,
       "word": "2025最下饭综艺TOP50",
@@ -81305,6 +81313,14 @@
       "onboard_time": 1765166181,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25788,
+      "num": 62963,
+      "word": "CMG国内十大体育新闻",
+      "onboard_time": 1766597777,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 25781,

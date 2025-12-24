@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766597117304,
+  "endTime": 1766598144439,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89566,
+      "num": 145471,
+      "word": "落空直播",
+      "onboard_time": 1766592260,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88178,
       "num": 140222,
       "word": "阚清子",
@@ -251,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77712,
-      "num": 145471,
-      "word": "落空直播",
-      "onboard_time": 1766592260,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 76125,
       "num": 145739,
       "word": "王俊凯上班主理人",
@@ -267,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72983,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71167,
       "num": 145696,
       "word": "朱一龙工作室更新",
       "onboard_time": 1766587584,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70535,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67922,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28236,
+      "num": 62996,
+      "word": "丁禹兮赣饭vlog",
+      "onboard_time": 1766597777,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27304,
       "num": 297345,
       "word": "粤港澳大湾区再添海上新通道",
@@ -449,6 +457,30 @@
       "onboard_time": 1766596696,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26926,
+      "num": 62985,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25788,
+      "num": 62963,
+      "word": "CMG国内十大体育新闻",
+      "onboard_time": 1766597777,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23540,
+      "num": 62933,
+      "word": "长津湖",
+      "onboard_time": 1766583322,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
