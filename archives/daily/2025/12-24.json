@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766569532539,
+  "endTime": 1766572230505,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1646356,
+      "num": 215766,
+      "word": "纪凌尘经纪人辟谣",
+      "onboard_time": 1766570600,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1453903,
       "num": 474862,
       "word": "致癌精子生197个孩子部分已离世",
@@ -51,8 +59,24 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1298729,
+      "num": 1298729,
+      "word": "台湾地震",
+      "onboard_time": 1766570122,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1225897,
+      "num": 1225897,
+      "word": "台湾台东5.8级地震",
+      "onboard_time": 1766570781,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1195722,
-      "num": 539824,
+      "num": 571207,
       "word": "爱吃酱香饼的人天塌了",
       "onboard_time": 1766554823,
       "rank": 9,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 940004,
-      "num": 527734,
+      "num": 579498,
       "word": "美国斩杀线",
       "onboard_time": 1766550742,
       "rank": 19,
@@ -395,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355827,
+      "num": 355827,
+      "word": "肖战 娘家台给的底气",
+      "onboard_time": 1766568441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351647,
       "num": 676419,
       "word": "车厘子价格大跳水批发商却笑不出",
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283316,
+      "num": 283316,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273336,
       "num": 273336,
       "word": "利用率最高的蛋糕出现了",
@@ -539,6 +579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 265267,
+      "num": 199817,
+      "word": "李嘉格儿子和妈妈男友牵手逛街",
+      "onboard_time": 1766571321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263157,
       "num": 221039,
       "word": "王阳变成二胖了 你舅妈还是你舅妈",
@@ -553,14 +601,6 @@
       "onboard_time": 1766520914,
       "rank": 31,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 261415,
-      "num": 261415,
-      "word": "肖战 娘家台给的底气",
-      "onboard_time": 1766568441,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 257296,
@@ -617,14 +657,6 @@
       "onboard_time": 1766507300,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235654,
-      "num": 235654,
-      "word": "日网红夫妇在70度桑拿房中身亡",
-      "onboard_time": 1766565741,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232293,
@@ -715,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212499,
+      "num": 212499,
+      "word": "男子月薪3850给领导发5000红包",
+      "onboard_time": 1766569222,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211690,
       "num": 423974,
       "word": "靖国神社被起诉",
@@ -761,6 +801,14 @@
       "onboard_time": 1766560400,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198869,
+      "num": 198869,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198181,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189476,
+      "num": 189476,
+      "word": "胡兵薛佳凝20多年了还有售后",
+      "onboard_time": 1766570241,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "年轻人备婚越来越新奇了",
@@ -841,14 +897,6 @@
       "onboard_time": 1766553023,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186385,
-      "num": 186385,
-      "word": "去世新生儿异常44分钟无人察觉",
-      "onboard_time": 1766567902,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185325,
@@ -897,6 +945,14 @@
       "onboard_time": 1766544441,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176217,
+      "num": 176217,
+      "word": "1万元真的能买好多东西",
+      "onboard_time": 1766572101,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 175845,
@@ -1419,6 +1475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127937,
+      "num": 127937,
+      "word": "福建震感",
+      "onboard_time": 1766571620,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 127729,
       "num": 127729,
       "word": "杨紫开机花絮",
@@ -1563,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116683,
+      "num": 116683,
+      "word": "人在公交车上被带鱼咬的概率不是0",
+      "onboard_time": 1766571501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116346,
       "num": 116346,
       "word": "原来语言真的能改变长相",
@@ -1667,6 +1739,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 111245,
+      "num": 111245,
+      "word": "疤痕体质",
+      "onboard_time": 1766571023,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 110910,
       "num": 187205,
       "word": "私发淫秽信息违法已实施20年",
@@ -1683,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108948,
+      "num": 108948,
+      "word": "拉伸对直腿细腿的杀伤力",
+      "onboard_time": 1766571561,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 108728,
       "num": 173661,
       "word": "景区5万月薪招185帅哥陪滑官",
@@ -1691,12 +1779,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108445,
+      "num": 108445,
+      "word": "失去饭搭子跟断崖式分手有什么区别",
+      "onboard_time": 1766572040,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108323,
+      "num": 108323,
+      "word": "俞敏洪已敲定东方甄选接班人",
+      "onboard_time": 1766570720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108245,
       "num": 108245,
       "word": "复联5",
       "onboard_time": 1766538561,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108217,
+      "num": 108217,
+      "word": "95后患癌女孩丈夫称这辈子不再结婚",
+      "onboard_time": 1766570781,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107975,
+      "num": 108324,
+      "word": "长安二十四计",
+      "onboard_time": 1766571442,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 105377,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1766505683,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103662,
+      "num": 103662,
+      "word": "周峻纬怎么还追着杀呀",
+      "onboard_time": 1766571922,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 103502,
@@ -1979,12 +2107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87686,
+      "num": 87686,
+      "word": "尹锡悦透露宣布戒严原因",
+      "onboard_time": 1766571023,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87511,
       "num": 87511,
       "word": "钎城红布蒙眼照",
       "onboard_time": 1766569402,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86966,
+      "num": 86966,
+      "word": "人类飞天的秘密武器竟然是这",
+      "onboard_time": 1766572101,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 86805,
@@ -2024,6 +2168,14 @@
       "word": "老舅",
       "onboard_time": 1766498001,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84210,
+      "num": 84210,
+      "word": "宋威龙新剧 一个人的恨海情天",
+      "onboard_time": 1766569943,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2249,6 +2401,14 @@
       "onboard_time": 1766490382,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60235,
+      "num": 205033,
+      "word": "为什么头发说走就走",
+      "onboard_time": 1766570720,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 59762,
@@ -2507,6 +2667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39896,
+      "num": 108424,
+      "word": "男子超市买猪肉称检出非洲猪瘟",
+      "onboard_time": 1766571620,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39644,
       "num": 142744,
       "word": "弃家30年父亲欠40万医疗费儿子拒还",
@@ -2561,6 +2729,14 @@
       "onboard_time": 1766564182,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35950,
+      "num": 108405,
+      "word": "何猷君奚梦瑶韩国旅行",
+      "onboard_time": 1766571501,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 34304,
@@ -2668,7 +2844,7 @@
     },
     {
       "raw_hot": 26145,
-      "num": 358168,
+      "num": 691073,
       "word": "数读2025年中国经济活力",
       "onboard_time": 1766567662,
       "rank": 2,
@@ -2681,6 +2857,14 @@
       "onboard_time": 1766494762,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23735,
+      "num": 213409,
+      "word": "台湾5.5级左右地震",
+      "onboard_time": 1766570600,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 22707,
@@ -2785,14 +2969,6 @@
       "onboard_time": 1766512218,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10819,
-      "num": 92879,
-      "word": "男子月薪3850给领导发5000红包",
-      "onboard_time": 1766569222,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8572,
