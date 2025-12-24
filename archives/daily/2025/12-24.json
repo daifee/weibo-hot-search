@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766573241029,
+  "endTime": 1766575605503,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1829989,
+      "num": 192283,
+      "word": "孙丞潇冰岛求婚金莎",
+      "onboard_time": 1766572402,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1738127,
       "num": 288730,
       "word": "纪凌尘经纪人辟谣",
@@ -57,6 +65,14 @@
       "onboard_time": 1766542401,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1328310,
+      "num": 281169,
+      "word": "平安夜",
+      "onboard_time": 1766573062,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1298729,
@@ -88,14 +104,6 @@
       "word": "杨天真被诈骗",
       "onboard_time": 1766560940,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1087028,
-      "num": 192283,
-      "word": "孙丞潇冰岛求婚金莎",
-      "onboard_time": 1766572402,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -136,6 +144,14 @@
       "word": "美国斩杀线",
       "onboard_time": 1766550742,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 936716,
+      "num": 1149874,
+      "word": "强生爽身粉致癌案判赔女子约110亿元",
+      "onboard_time": 1766572821,
+      "rank": 18,
       "category": "海外新闻"
     },
     {
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 544207,
-      "num": 281169,
-      "word": "平安夜",
-      "onboard_time": 1766573062,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 528339,
       "num": 528339,
       "word": "阿信 跌倒了还被大家知道50岁",
@@ -289,6 +297,14 @@
       "onboard_time": 1766560761,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 477601,
+      "num": 186838,
+      "word": "平安夜玩一整晚苹果手机",
+      "onboard_time": 1766573541,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 475427,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383145,
+      "num": 383145,
+      "word": "男子月薪3850给领导发5000红包",
+      "onboard_time": 1766569222,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381100,
       "num": 381100,
       "word": "金饰价格涨到1411元",
@@ -433,14 +457,6 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357655,
-      "num": 357655,
-      "word": "男子月薪3850给领导发5000红包",
-      "onboard_time": 1766569222,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355827,
@@ -569,6 +585,14 @@
       "onboard_time": 1766567001,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289730,
+      "num": 191252,
+      "word": "宁静自曝生完孩子体质变差",
+      "onboard_time": 1766573601,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 285016,
@@ -763,6 +787,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221176,
+      "num": 193964,
+      "word": "贾乃亮被曝售假事件反转",
+      "onboard_time": 1766575282,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 216529,
+      "num": 216529,
+      "word": "骄阳似我",
+      "onboard_time": 1766479341,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216175,
       "num": 230867,
       "word": "平安夜文案",
@@ -777,6 +817,14 @@
       "onboard_time": 1766546901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212134,
+      "num": 212134,
+      "word": "这是烤冷面那我以前吃的算什么",
+      "onboard_time": 1766573062,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 211690,
@@ -843,20 +891,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198049,
+      "num": 198049,
+      "word": "圣诞礼物",
+      "onboard_time": 1766575041,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 195904,
       "num": 174199,
       "word": "低丸子头才是穿羽绒服最好看的发型",
       "onboard_time": 1766556802,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 195725,
-      "num": 195725,
-      "word": "强生爽身粉致癌案判赔女子约110亿元",
-      "onboard_time": 1766572821,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195068,
@@ -899,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191275,
-      "num": 191275,
-      "word": "骄阳似我",
-      "onboard_time": 1766479341,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189476,
       "num": 189476,
       "word": "胡兵薛佳凝20多年了还有售后",
@@ -945,6 +985,14 @@
       "onboard_time": 1766550684,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183619,
+      "num": 183619,
+      "word": "不知道怎么请假的可以看桃黑黑微博",
+      "onboard_time": 1766574261,
+      "rank": 25,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 181351,
@@ -1051,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168787,
-      "num": 168787,
-      "word": "这是烤冷面那我以前吃的算什么",
-      "onboard_time": 1766573062,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 168347,
       "num": 160010,
       "word": "吴千语直播带货卖了1.5亿",
@@ -1104,6 +1144,14 @@
       "word": "十个勤天 桃厂质子",
       "onboard_time": 1766567421,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161964,
+      "num": 161964,
+      "word": "通知李飞时代峰峻改名了",
+      "onboard_time": 1766574321,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99415,
+      "num": 99415,
+      "word": "深圳地铁通报女子在隧道内拍照",
+      "onboard_time": 1766575521,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98947,
       "num": 98947,
       "word": "备考人有自己的萝卜纸巾",
@@ -2291,6 +2347,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 80487,
+      "num": 80487,
+      "word": "一代人有一代人的龙凤胎",
+      "onboard_time": 1766575402,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80481,
+      "num": 80480,
+      "word": "北京公积金贷款买二套房首付最低25%",
+      "onboard_time": 1766570003,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79768,
       "num": 113982,
       "word": "从9校招44名学生有偿陪侍多人获刑",
@@ -2305,6 +2377,14 @@
       "onboard_time": 1766501182,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76558,
+      "num": 76558,
+      "word": "陈都灵现代装也拍出了神性",
+      "onboard_time": 1766575521,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 76363,
@@ -2331,6 +2411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 73795,
+      "num": 98511,
+      "word": "顾漫女主运",
+      "onboard_time": 1766574742,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73699,
       "num": 86780,
       "word": "庞铮的专业素养",
@@ -2353,6 +2441,14 @@
       "onboard_time": 1766531058,
       "rank": 27,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 72440,
+      "num": 189332,
+      "word": "非洲网红预言12月25日是世界末日",
+      "onboard_time": 1766574922,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72430,
@@ -2473,6 +2569,14 @@
       "onboard_time": 1766490382,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60379,
+      "num": 125224,
+      "word": "美乌20点和平计划全文公布",
+      "onboard_time": 1766573781,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60235,
@@ -2625,6 +2729,14 @@
       "onboard_time": 1766508319,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47922,
+      "num": 80483,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47533,
@@ -2875,6 +2987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28214,
+      "num": 190127,
+      "word": "馆方回应学生网淘日军家书无偿捐赠",
+      "onboard_time": 1766574982,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28121,
       "num": 46710,
       "word": "成毅分享长安二十四计幕后故事",
@@ -2912,6 +3032,14 @@
       "word": "多方回应男子不拴绳遛20多条狗",
       "onboard_time": 1766555064,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26374,
+      "num": 192055,
+      "word": "青海小球员逐梦上海的托举之手",
+      "onboard_time": 1766574261,
+      "rank": 16,
       "category": "民生新闻"
     },
     {

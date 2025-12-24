@@ -1,0 +1,410 @@
+{
+  "runTime": 1766575605503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936716,
+        "num": 1149874,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425704,
+        "num": 425704,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23877,
+        "num": 413141,
+        "word": "数读2025年中国经济活力",
+        "onboard_time": 1766567662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693799,
+        "num": 409412,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 403483,
+        "num": 403483,
+        "word": "台湾地震",
+        "onboard_time": 1766570122,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 541890,
+        "num": 401364,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 383145,
+        "num": 383145,
+        "word": "男子月薪3850给领导发5000红包",
+        "onboard_time": 1766569222,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216529,
+        "num": 216529,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212134,
+        "num": 212134,
+        "word": "这是烤冷面那我以前吃的算什么",
+        "onboard_time": 1766573062,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198049,
+        "num": 198049,
+        "word": "圣诞礼物",
+        "onboard_time": 1766575041,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1428150,
+        "num": 197274,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283460,
+        "num": 196843,
+        "word": "去世新生儿异常44分钟无人察觉",
+        "onboard_time": 1766567902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274323,
+        "num": 195994,
+        "word": "杨天真被诈骗",
+        "onboard_time": 1766560940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264565,
+        "num": 194444,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221176,
+        "num": 193964,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 14,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1328310,
+        "num": 192383,
+        "word": "平安夜",
+        "onboard_time": 1766573062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26374,
+        "num": 192055,
+        "word": "青海小球员逐梦上海的托举之手",
+        "onboard_time": 1766574261,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289730,
+        "num": 191252,
+        "word": "宁静自曝生完孩子体质变差",
+        "onboard_time": 1766573601,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28214,
+        "num": 190127,
+        "word": "馆方回应学生网淘日军家书无偿捐赠",
+        "onboard_time": 1766574982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72440,
+        "num": 189332,
+        "word": "非洲网红预言12月25日是世界末日",
+        "onboard_time": 1766574922,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1829989,
+        "num": 188118,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477601,
+        "num": 186838,
+        "word": "平安夜玩一整晚苹果手机",
+        "onboard_time": 1766573541,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344245,
+        "num": 186007,
+        "word": "李嘉格儿子和妈妈男友牵手逛街",
+        "onboard_time": 1766571321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300658,
+        "num": 184698,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262873,
+        "num": 184507,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183619,
+        "num": 183619,
+        "word": "不知道怎么请假的可以看桃黑黑微博",
+        "onboard_time": 1766574261,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 178317,
+        "num": 178317,
+        "word": "张子枫手臂上好大一个疤",
+        "onboard_time": 1766560881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161964,
+        "num": 161964,
+        "word": "通知李飞时代峰峻改名了",
+        "onboard_time": 1766574321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "迅猛龙一年点了459次奶茶",
+        "onboard_time": 1766560761,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119758,
+        "num": 131069,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1766570781,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150071,
+        "num": 130624,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130177,
+        "num": 130177,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60379,
+        "num": 125224,
+        "word": "美乌20点和平计划全文公布",
+        "onboard_time": 1766573781,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121528,
+        "num": 121528,
+        "word": "胡兵薛佳凝20多年了还有售后",
+        "onboard_time": 1766570241,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116233,
+        "num": 116233,
+        "word": "95后患癌女孩丈夫称这辈子不再结婚",
+        "onboard_time": 1766570781,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110327,
+        "num": 110327,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99415,
+        "num": 99415,
+        "word": "深圳地铁通报女子在隧道内拍照",
+        "onboard_time": 1766575521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99160,
+        "num": 99160,
+        "word": "人在公交车上被带鱼咬的概率不是0",
+        "onboard_time": 1766571501,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73795,
+        "num": 98511,
+        "word": "顾漫女主运",
+        "onboard_time": 1766574742,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98021,
+        "num": 98021,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92961,
+        "num": 92961,
+        "word": "日网红夫妇在70度桑拿房中身亡",
+        "onboard_time": 1766565741,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91960,
+        "num": 91960,
+        "word": "北京放宽非京籍家庭购房条件",
+        "onboard_time": 1766566401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86800,
+        "num": 86800,
+        "word": "何猷君奚梦瑶韩国旅行",
+        "onboard_time": 1766571501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80487,
+        "num": 80487,
+        "word": "一代人有一代人的龙凤胎",
+        "onboard_time": 1766575402,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47922,
+        "num": 80483,
+        "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+        "onboard_time": 1766574020,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31591,
+        "num": 80481,
+        "word": "为什么头发说走就走",
+        "onboard_time": 1766570720,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80481,
+        "num": 80480,
+        "word": "北京公积金贷款买二套房首付最低25%",
+        "onboard_time": 1766570003,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80119,
+        "num": 80119,
+        "word": "福建震感",
+        "onboard_time": 1766571620,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 76558,
+        "num": 76558,
+        "word": "陈都灵现代装也拍出了神性",
+        "onboard_time": 1766575521,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76148,
+        "num": 76148,
+        "word": "燕云十六声",
+        "onboard_time": 1766555482,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上中央企业怎么干#"
+    }
+  }
+}
