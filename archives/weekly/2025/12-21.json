@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766562274538,
+  "endTime": 1766565528327,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -313,6 +313,14 @@
       "onboard_time": 1766412323,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1168090,
+      "num": 460142,
+      "word": "杨天真被诈骗",
+      "onboard_time": 1766560940,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124819,
@@ -739,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 782794,
-      "num": 460142,
-      "word": "杨天真被诈骗",
-      "onboard_time": 1766560940,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 780807,
       "num": 250072,
       "word": "别人感谢粉丝 李昀锐感谢孟子义",
@@ -801,6 +801,14 @@
       "onboard_time": 1766301741,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 740515,
+      "num": 424438,
+      "word": "俄富豪捐精百子共享千亿遗产",
+      "onboard_time": 1766562623,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 736003,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1766302041,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604790,
+      "num": 212708,
+      "word": "月薪3500双休要不要离职",
+      "onboard_time": 1766562920,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 603717,
@@ -1435,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511883,
+      "num": 365093,
+      "word": "男子向女友发淫秽视频被行拘",
+      "onboard_time": 1766563282,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511206,
       "num": 511206,
       "word": "泰国感谢中方",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1766238863,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491856,
+      "num": 410582,
+      "word": "迅猛龙一年点了459次奶茶",
+      "onboard_time": 1766560761,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 491291,
@@ -1963,14 +1995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410582,
-      "num": 410582,
-      "word": "迅猛龙一年点了459次奶茶",
-      "onboard_time": 1766560761,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 410498,
       "num": 246991,
       "word": "孙乐言控场能力好强",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1766536522,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388019,
+      "num": 211915,
+      "word": "网友估算河南火灾班主任工作近15小时",
+      "onboard_time": 1766561600,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387336,
@@ -2347,6 +2379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356627,
+      "num": 489354,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 356240,
       "num": 201950,
       "word": "4岁女童因奶奶用嘴喂饭感染梅毒",
@@ -2417,14 +2457,6 @@
       "onboard_time": 1766323524,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344448,
-      "num": 489354,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 343995,
@@ -3627,6 +3659,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 226539,
+      "num": 199092,
+      "word": "张远在韩人脉",
+      "onboard_time": 1766561300,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "女孩打翻水杯背后是家庭教育缺位",
@@ -3865,6 +3905,14 @@
       "onboard_time": 1766296224,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211690,
+      "num": 423974,
+      "word": "靖国神社被起诉",
+      "onboard_time": 1766560822,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211608,
@@ -4225,14 +4273,6 @@
       "onboard_time": 1766376560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199092,
-      "num": 199092,
-      "word": "张远在韩人脉",
-      "onboard_time": 1766561300,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 198976,
@@ -5137,6 +5177,14 @@
       "onboard_time": 1766395161,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175427,
+      "num": 175427,
+      "word": "81万赞就是81万份子钱",
+      "onboard_time": 1766563162,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 175192,
@@ -7275,6 +7323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128176,
+      "num": 128176,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127944,
       "num": 127944,
       "word": "王曼昱说晚上别忘了吃饺子",
@@ -7377,6 +7433,14 @@
       "onboard_time": 1766305943,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 126827,
+      "num": 126827,
+      "word": "普通人其实不用花太多钱在穿搭上",
+      "onboard_time": 1766562623,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 126552,
@@ -7851,12 +7915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118304,
+      "num": 118304,
+      "word": "李凯尔回应国籍变更",
+      "onboard_time": 1766565142,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118298,
       "num": 133969,
       "word": "谁家cp粉是自己老公啊",
       "onboard_time": 1766546541,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118001,
+      "num": 118001,
+      "word": "内娱化妆师红榜",
+      "onboard_time": 1766564842,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 117950,
@@ -8067,6 +8147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114326,
+      "num": 114326,
+      "word": "赵丽颖逍遥饰演碎梦仙君",
+      "onboard_time": 1766563222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114319,
       "num": 114319,
       "word": "鞠婧祎听到相信她陪着她的反应",
@@ -8089,6 +8177,14 @@
       "onboard_time": 1766298501,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113377,
+      "num": 113377,
+      "word": "张若昀马思纯新剧宿命羁绊",
+      "onboard_time": 1766565321,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 113056,
@@ -8257,6 +8353,14 @@
       "onboard_time": 1766300841,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110627,
+      "num": 110627,
+      "word": "周深 先让刘宇宁身高降下来",
+      "onboard_time": 1766564002,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110346,
@@ -8643,6 +8747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104927,
+      "num": 104927,
+      "word": "25年才是赵雅芝的当打之年",
+      "onboard_time": 1766564002,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104883,
       "num": 139323,
       "word": "原配侮辱第三者案事发8年后将开庭",
@@ -8737,6 +8849,14 @@
       "onboard_time": 1766415923,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104094,
+      "num": 104094,
+      "word": "删了吧有个上班的破防了",
+      "onboard_time": 1766564902,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 104041,
@@ -8835,6 +8955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102936,
+      "num": 102936,
+      "word": "实际多少岁看上去就是多少岁",
+      "onboard_time": 1766565201,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102893,
       "num": 102893,
       "word": "迪丽热巴慕胥辞预约破300万跳舞",
@@ -8873,6 +9001,14 @@
       "onboard_time": 1766469621,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102539,
+      "num": 119555,
+      "word": "女演员自曝被粉丝跟踪6年",
+      "onboard_time": 1766562141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 102536,
@@ -9323,14 +9459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96545,
-      "num": 423974,
-      "word": "靖国神社被起诉",
-      "onboard_time": 1766560822,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96389,
       "num": 98157,
       "word": "韩国军官让刚入伍练习生找歌手",
@@ -9675,14 +9803,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 89400,
-      "num": 120465,
-      "word": "网友估算河南火灾班主任工作近15小时",
-      "onboard_time": 1766561600,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89384,
       "num": 89384,
       "word": "纯妹妹",
@@ -9825,6 +9945,14 @@
       "onboard_time": 1766539701,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85557,
+      "num": 201068,
+      "word": "不同价位羽绒服到底差别在哪",
+      "onboard_time": 1766563701,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 85368,
@@ -10049,6 +10177,14 @@
       "onboard_time": 1766382500,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80699,
+      "num": 208564,
+      "word": "鸿蒙给开发者铺好了高速路",
+      "onboard_time": 1766563761,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 80441,
@@ -10537,6 +10673,14 @@
       "onboard_time": 1766414423,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67655,
+      "num": 113660,
+      "word": "公务员遴选分数第1落选信息含量大",
+      "onboard_time": 1766564422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67388,
@@ -11291,6 +11435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48459,
+      "num": 127256,
+      "word": "景区5万月薪招185帅哥陪滑官",
+      "onboard_time": 1766565382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48395,
       "num": 191955,
       "word": "充电宝CCC将可扫码追溯",
@@ -11763,6 +11915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39205,
+      "num": 197220,
+      "word": "起猛了大家都在晒余额宝全明星小卡",
+      "onboard_time": 1766564722,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39193,
       "num": 137938,
       "word": "上海一水泥搅拌车撞塌围墙致2死",
@@ -11939,12 +12099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36259,
+      "num": 205674,
+      "word": "1.78米弟弟说从小把1.2米哥哥当榜样",
+      "onboard_time": 1766564422,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36223,
       "num": 308552,
       "word": "Prada冬日松弛美学",
       "onboard_time": 1766412323,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 36200,
+      "num": 110234,
+      "word": "遭性侵女高管发文总结维权经历",
+      "onboard_time": 1766564182,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35818,
@@ -12057,6 +12233,14 @@
       "onboard_time": 1766456061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34492,
+      "num": 113509,
+      "word": "孙悟空到底有几个女朋友",
+      "onboard_time": 1766565201,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 34446,
@@ -13257,14 +13441,6 @@
       "onboard_time": 1766309963,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11084,
-      "num": 119555,
-      "word": "女演员自曝被粉丝跟踪6年",
-      "onboard_time": 1766562141,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 10925,
