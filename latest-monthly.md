@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/24 23:43:59
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/25 00:35:04
 </p>
 </blockquote>
 <p>
@@ -4353,6 +4353,12 @@ KSG对战AG（热度：655789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%94%B7%E9%A1%B6%E6%B5%81%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23" target="weibo">
+曝男顶流拍戏受伤（热度：631670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E5%90%8E%E5%8F%88%E4%B8%80%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E5%AE%81%E6%B3%A2%E5%A6%87%E5%84%BF%E5%8C%BB%E9%99%A2%23" target="weibo">
 小洛熙后又一家长举报宁波妇儿医院（热度：631207）
 </a>
@@ -6005,12 +6011,6 @@ zwy教练（热度：533454）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E6%9B%BF%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AE%98%E5%AE%A3%E4%BA%86%23" target="weibo">
 VOGUE替刘雯井柏然官宣了（热度：528106）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%90%83%E5%BD%92%E5%B1%9E%E9%97%AE%E9%A2%98%E8%A2%AB%E8%BF%AB%E6%97%A0%E9%99%90%E6%9C%9F%E6%90%81%E7%BD%AE%23" target="weibo">
-琉球归属问题被迫无限期搁置（热度：527889）
 </a>
 </li>
 
