@@ -1,0 +1,410 @@
+{
+  "runTime": 1766586492204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 760240,
+        "num": 1121638,
+        "word": "我们的明天",
+        "onboard_time": 1766582602,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501287,
+        "num": 501287,
+        "word": "明年起私生粉滋扰纠缠明星明确违法",
+        "onboard_time": 1766580262,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 44267,
+        "num": 445720,
+        "word": "粤港澳大湾区再添海上新通道",
+        "onboard_time": 1766584222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431588,
+        "num": 431588,
+        "word": "山东录用公务员前将核查网络言论",
+        "onboard_time": 1766581043,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397603,
+        "num": 397603,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 577642,
+        "num": 391279,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 368354,
+        "num": 368354,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354078,
+        "num": 354078,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317505,
+        "num": 317505,
+        "word": "第八集吻上宋威龙了",
+        "onboard_time": 1766584702,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224420,
+        "num": 224420,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1060030,
+        "num": 221007,
+        "word": "河南火灾班主任儿子发文",
+        "onboard_time": 1766582003,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897274,
+        "num": 218528,
+        "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+        "onboard_time": 1766581762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625470,
+        "num": 214663,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480483,
+        "num": 210118,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 339874,
+        "num": 205702,
+        "word": "河南小学火灾案58岁宿管被判刑遭质疑",
+        "onboard_time": 1766584941,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75448,
+        "num": 201296,
+        "word": "李子柒致敬非遗传承人",
+        "onboard_time": 1766583322,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200369,
+        "num": 200369,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "黄子佼获刑",
+        "onboard_time": 1766580561,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158155,
+        "num": 188313,
+        "word": "JDG对战BLG",
+        "onboard_time": 1766582003,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142134,
+        "num": 180395,
+        "word": "高市早苗又放话了",
+        "onboard_time": 1766585483,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 714317,
+        "num": 176854,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287722,
+        "num": 173008,
+        "word": "TVB女演员钟丽淇女儿患罕见病",
+        "onboard_time": 1766582542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169903,
+        "num": 169903,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169284,
+        "num": 169284,
+        "word": "金莎孙丞潇 姐夫弟",
+        "onboard_time": 1766585062,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147364,
+        "num": 147364,
+        "word": "长津湖",
+        "onboard_time": 1766583322,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141976,
+        "num": 141976,
+        "word": "美国网红称他在旧金山快活不下去了",
+        "onboard_time": 1766583263,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138763,
+        "num": 138763,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138046,
+        "num": 138046,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129695,
+        "num": 129695,
+        "word": "日本遗孤自取日本名纪念中国养父母",
+        "onboard_time": 1766580625,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127823,
+        "num": 127823,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126139,
+        "num": 126139,
+        "word": "Capper回应新恋情",
+        "onboard_time": 1766582362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124066,
+        "num": 124066,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1766584582,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100627,
+        "num": 124058,
+        "word": "金莎孙丞潇狙击蝴蝶照进现实",
+        "onboard_time": 1766577502,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100496,
+        "num": 123957,
+        "word": "杨瀚森NBA生涯总得分超河村永辉",
+        "onboard_time": 1766584342,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99687,
+        "num": 123902,
+        "word": "陈平安欢迎回来",
+        "onboard_time": 1766586443,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40045,
+        "num": 123848,
+        "word": "强生上诉",
+        "onboard_time": 1766584342,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94401,
+        "num": 123744,
+        "word": "言凤山没死",
+        "onboard_time": 1766577141,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90409,
+        "num": 123637,
+        "word": "狙击蝴蝶 李雾自白动画",
+        "onboard_time": 1766583503,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87232,
+        "num": 123560,
+        "word": "2025现偶女主",
+        "onboard_time": 1766585241,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 123496,
+        "word": "非洲网红预言12月25日是世界末日",
+        "onboard_time": 1766574922,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82925,
+        "num": 123450,
+        "word": "不开火的家宴原来是在吃冷面",
+        "onboard_time": 1766583503,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79428,
+        "num": 123354,
+        "word": "宋威龙现偶",
+        "onboard_time": 1766576362,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77296,
+        "num": 123298,
+        "word": "2025年还要上2休2再上3",
+        "onboard_time": 1766583683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78978,
+        "num": 123195,
+        "word": "骄阳似我 求加更",
+        "onboard_time": 1766582003,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76699,
+        "num": 123155,
+        "word": "马頔嘴里没一个字在调上",
+        "onboard_time": 1766581522,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76534,
+        "num": 123121,
+        "word": "杨紫首次挑战超40岁年龄跨度角色",
+        "onboard_time": 1766577322,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75148,
+        "num": 123006,
+        "word": "Bin力挺Viper",
+        "onboard_time": 1766585062,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74657,
+        "num": 122954,
+        "word": "以为会被删减的画面全保留了",
+        "onboard_time": 1766585962,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72534,
+        "num": 122859,
+        "word": "酷女孩灰原哀",
+        "onboard_time": 1766586382,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86957,
+        "num": 122825,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}
