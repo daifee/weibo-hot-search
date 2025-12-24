@@ -1,0 +1,410 @@
+{
+  "runTime": 1766576438606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903731,
+        "num": 1144596,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 401730,
+        "num": 401730,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25383,
+        "num": 309446,
+        "word": "数读2025年中国经济活力",
+        "onboard_time": 1766567662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660221,
+        "num": 305948,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296214,
+        "num": 296214,
+        "word": "台湾地震",
+        "onboard_time": 1766570122,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 510805,
+        "num": 293856,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 335976,
+        "num": 282621,
+        "word": "男子月薪3850给领导发5000红包",
+        "onboard_time": 1766569222,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230428,
+        "num": 230428,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221452,
+        "num": 221452,
+        "word": "这是烤冷面那我以前吃的算什么",
+        "onboard_time": 1766573062,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208191,
+        "num": 208191,
+        "word": "通知李飞时代峰峻改名了",
+        "onboard_time": 1766574321,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216422,
+        "num": 204302,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818359,
+        "num": 201390,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 261620,
+        "num": 193886,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222248,
+        "num": 193294,
+        "word": "杨天真被诈骗",
+        "onboard_time": 1766560940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188803,
+        "num": 188803,
+        "word": "圣诞礼物",
+        "onboard_time": 1766575041,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 183337,
+        "num": 183337,
+        "word": "不知道怎么请假的可以看桃黑黑微博",
+        "onboard_time": 1766574261,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 153609,
+        "num": 153609,
+        "word": "张子枫手臂上好大一个疤",
+        "onboard_time": 1766560881,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150109,
+        "num": 150109,
+        "word": "深圳地铁通报女子在隧道内拍照",
+        "onboard_time": 1766575521,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31554,
+        "num": 148457,
+        "word": "青海小球员逐梦上海的托举之手",
+        "onboard_time": 1766574261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147263,
+        "num": 147263,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1697700,
+        "num": 144942,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330195,
+        "num": 142975,
+        "word": "宁静自曝生完孩子体质变差",
+        "onboard_time": 1766573601,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260253,
+        "num": 140255,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239186,
+        "num": 138670,
+        "word": "李嘉格儿子和妈妈男友牵手逛街",
+        "onboard_time": 1766571321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137557,
+        "num": 137557,
+        "word": "非洲网红预言12月25日是世界末日",
+        "onboard_time": 1766574922,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143863,
+        "num": 136971,
+        "word": "江西8人坠塘幼儿园长老公已被警方控制",
+        "onboard_time": 1766575642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31054,
+        "num": 133507,
+        "word": "馆方回应学生网淘日军家书无偿捐赠",
+        "onboard_time": 1766574982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244496,
+        "num": 131502,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62906,
+        "num": 130593,
+        "word": "全球极寒地10件有7件波司登",
+        "onboard_time": 1766576243,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 102581,
+        "num": 128566,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1766570781,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 126885,
+        "num": 126885,
+        "word": "迅猛龙一年点了459次奶茶",
+        "onboard_time": 1766560761,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123410,
+        "num": 123410,
+        "word": "陈都灵现代装也拍出了神性",
+        "onboard_time": 1766575521,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115891,
+        "num": 115891,
+        "word": "2025年一点都没浪费",
+        "onboard_time": 1766575582,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114800,
+        "num": 114800,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87991,
+        "num": 111862,
+        "word": "福建震感",
+        "onboard_time": 1766571620,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111430,
+        "num": 111430,
+        "word": "何猷君奚梦瑶韩国旅行",
+        "onboard_time": 1766571501,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32860,
+        "num": 108011,
+        "word": "为什么头发说走就走",
+        "onboard_time": 1766570720,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107183,
+        "num": 107979,
+        "word": "顾漫女主运",
+        "onboard_time": 1766574742,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107976,
+        "num": 107976,
+        "word": "胡兵薛佳凝20多年了还有售后",
+        "onboard_time": 1766570241,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104346,
+        "num": 107962,
+        "word": "马思纯演大小姐可太有说服力了",
+        "onboard_time": 1766575942,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94646,
+        "num": 107947,
+        "word": "人在公交车上被带鱼咬的概率不是0",
+        "onboard_time": 1766571501,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86607,
+        "num": 107934,
+        "word": "宋威龙现偶",
+        "onboard_time": 1766576362,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85216,
+        "num": 107916,
+        "word": "陈哲远回归明星大侦探录制",
+        "onboard_time": 1766576183,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84356,
+        "num": 107897,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83667,
+        "num": 107882,
+        "word": "95后患癌女孩丈夫称这辈子不再结婚",
+        "onboard_time": 1766570781,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79507,
+        "num": 107861,
+        "word": "北京放宽非京籍家庭购房条件",
+        "onboard_time": 1766566401,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75729,
+        "num": 107834,
+        "word": "日网红夫妇在70度桑拿房中身亡",
+        "onboard_time": 1766565741,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75121,
+        "num": 107824,
+        "word": "平安夜送王者圣诞树",
+        "onboard_time": 1766576183,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74317,
+        "num": 107805,
+        "word": "婚礼最不后悔的花费",
+        "onboard_time": 1766576121,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上中央企业怎么干#"
+    }
+  }
+}

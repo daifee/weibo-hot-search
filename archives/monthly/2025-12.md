@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/24 19:26:45
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/24 19:40:38
 </p>
 </blockquote>
 <p>
@@ -2741,6 +2741,12 @@ TFBOYS 帝国姐（热度：831035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%88%9B%E4%B8%9A%E5%8D%8A%E5%B9%B4%E5%80%92%E9%97%AD%23" target="weibo">
 沈梦辰创业半年倒闭（热度：819912）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E8%A2%AB%E6%9B%9D%E5%94%AE%E5%81%87%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23" target="weibo">
+贾乃亮被曝售假事件反转（热度：818359）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ MMA红毯（热度：526120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E5%92%96%E5%95%A1%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
 韩国的咖啡已经进化到这种程度了吗（热度：524398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%96%B0%E5%9B%BD%E6%A0%87%23" target="weibo">
-电动车新国标（热度：523673）
 </a>
 </li>
 

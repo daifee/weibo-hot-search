@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766575605503,
+  "endTime": 1766576438606,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -169,6 +169,14 @@
       "onboard_time": 1766562920,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 818359,
+      "num": 201390,
+      "word": "贾乃亮被曝售假事件反转",
+      "onboard_time": 1766575282,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 789368,
@@ -507,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 330195,
+      "num": 191252,
+      "word": "宁静自曝生完孩子体质变差",
+      "onboard_time": 1766573601,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322682,
       "num": 200250,
       "word": "程晓玥自曝二胎胎儿偏大",
@@ -585,14 +601,6 @@
       "onboard_time": 1766567001,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289730,
-      "num": 191252,
-      "word": "宁静自曝生完孩子体质变差",
-      "onboard_time": 1766573601,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 285016,
@@ -731,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230428,
+      "num": 230428,
+      "word": "骄阳似我",
+      "onboard_time": 1766479341,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227838,
       "num": 227838,
       "word": "陈伟霆给王安宇找台阶",
@@ -779,28 +795,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221452,
+      "num": 221452,
+      "word": "这是烤冷面那我以前吃的算什么",
+      "onboard_time": 1766573062,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221233,
       "num": 221233,
       "word": "中方回应将允许韩流音乐等入华传言",
       "onboard_time": 1766538202,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221176,
-      "num": 193964,
-      "word": "贾乃亮被曝售假事件反转",
-      "onboard_time": 1766575282,
-      "rank": 14,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 216529,
-      "num": 216529,
-      "word": "骄阳似我",
-      "onboard_time": 1766479341,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 216175,
@@ -819,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212134,
-      "num": 212134,
-      "word": "这是烤冷面那我以前吃的算什么",
-      "onboard_time": 1766573062,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 211690,
       "num": 423974,
       "word": "靖国神社被起诉",
@@ -841,6 +841,14 @@
       "onboard_time": 1766551406,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208191,
+      "num": 208191,
+      "word": "通知李飞时代峰峻改名了",
+      "onboard_time": 1766574321,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205520,
@@ -1147,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161964,
-      "num": 161964,
-      "word": "通知李飞时代峰峻改名了",
-      "onboard_time": 1766574321,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161844,
       "num": 161844,
       "word": "成毅360度运镜镜头",
@@ -1275,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150109,
+      "num": 150109,
+      "word": "深圳地铁通报女子在隧道内拍照",
+      "onboard_time": 1766575521,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148413,
       "num": 148413,
       "word": "J人震惊P人认可",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1766556202,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143863,
+      "num": 136971,
+      "word": "江西8人坠塘幼儿园长老公已被警方控制",
+      "onboard_time": 1766575642,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143804,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1766542521,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137557,
+      "num": 189332,
+      "word": "非洲网红预言12月25日是世界末日",
+      "onboard_time": 1766574922,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137523,
@@ -1683,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123410,
+      "num": 123410,
+      "word": "陈都灵现代装也拍出了神性",
+      "onboard_time": 1766575521,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122391,
       "num": 122391,
       "word": "孙颖莎说想打到40岁",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1766546781,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 115891,
+      "word": "2025年一点都没浪费",
+      "onboard_time": 1766575582,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 114563,
@@ -1915,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107183,
+      "num": 107979,
+      "word": "顾漫女主运",
+      "onboard_time": 1766574742,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105377,
       "num": 105377,
       "word": "真的看到了桂花雨",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1766535201,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104346,
+      "num": 107962,
+      "word": "马思纯演大小姐可太有说服力了",
+      "onboard_time": 1766575942,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 104094,
@@ -2080,14 +2136,6 @@
       "word": "夫妻情侣互发私密照不会轻易被追责",
       "onboard_time": 1766555064,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99415,
-      "num": 99415,
-      "word": "深圳地铁通报女子在隧道内拍照",
-      "onboard_time": 1766575521,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2259,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86607,
+      "num": 107934,
+      "word": "宋威龙现偶",
+      "onboard_time": 1766576362,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86539,
       "num": 116982,
       "word": "何以笙箫默的修罗场",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1766563701,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 85216,
+      "num": 107916,
+      "word": "陈哲远回归明星大侦探录制",
+      "onboard_time": 1766576183,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 84849,
@@ -2379,14 +2443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76558,
-      "num": 76558,
-      "word": "陈都灵现代装也拍出了神性",
-      "onboard_time": 1766575521,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76363,
       "num": 188466,
       "word": "何小鹏冰雪试驾X9超级增程直呼太稳了",
@@ -2411,12 +2467,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73795,
-      "num": 98511,
-      "word": "顾漫女主运",
-      "onboard_time": 1766574742,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 75121,
+      "num": 107824,
+      "word": "平安夜送王者圣诞树",
+      "onboard_time": 1766576183,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 74317,
+      "num": 107805,
+      "word": "婚礼最不后悔的花费",
+      "onboard_time": 1766576121,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 73699,
@@ -2441,14 +2505,6 @@
       "onboard_time": 1766531058,
       "rank": 27,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 72440,
-      "num": 189332,
-      "word": "非洲网红预言12月25日是世界末日",
-      "onboard_time": 1766574922,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 72430,
@@ -2545,6 +2601,14 @@
       "onboard_time": 1766488221,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62906,
+      "num": 130593,
+      "word": "全球极寒地10件有7件波司登",
+      "onboard_time": 1766576243,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 62539,
@@ -2955,6 +3019,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31554,
+      "num": 192055,
+      "word": "青海小球员逐梦上海的托举之手",
+      "onboard_time": 1766574261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31054,
+      "num": 190127,
+      "word": "馆方回应学生网淘日军家书无偿捐赠",
+      "onboard_time": 1766574982,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30097,
       "num": 189192,
       "word": "餐饮行业使用肉宝王已有二十多年",
@@ -2984,14 +3064,6 @@
       "word": "加油老己明年见",
       "onboard_time": 1766511617,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28214,
-      "num": 190127,
-      "word": "馆方回应学生网淘日军家书无偿捐赠",
-      "onboard_time": 1766574982,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3032,14 +3104,6 @@
       "word": "多方回应男子不拴绳遛20多条狗",
       "onboard_time": 1766555064,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26374,
-      "num": 192055,
-      "word": "青海小球员逐梦上海的托举之手",
-      "onboard_time": 1766574261,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
