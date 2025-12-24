@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766618879343,
+  "endTime": 1766619680572,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 529132,
-      "num": 828567,
+      "raw_hot": 577895,
+      "num": 932741,
       "word": "高市早苗又放话了",
       "onboard_time": 1766585483,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 486100,
+      "num": 486100,
+      "word": "日本一无人岛密密麻麻都是北海狮",
+      "onboard_time": 1766588601,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 474307,
@@ -33,14 +41,6 @@
       "onboard_time": 1766588003,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457923,
-      "num": 457923,
-      "word": "日本一无人岛密密麻麻都是北海狮",
-      "onboard_time": 1766588601,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 428984,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 329643,
-      "num": 145416,
+      "num": 175992,
       "word": "女子早高峰占电梯被推出去后厮打",
       "onboard_time": 1766591422,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307726,
+      "num": 307726,
+      "word": "郑州通报学生意外坠楼",
+      "onboard_time": 1766618236,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 306582,
@@ -115,12 +123,20 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 197426,
-      "num": 197426,
+      "raw_hot": 205543,
+      "num": 205543,
       "word": "美国网红称他在旧金山快活不下去了",
       "onboard_time": 1766583263,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167271,
+      "num": 145862,
+      "word": "贾乃亮被曝售假事件反转",
+      "onboard_time": 1766575282,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 158415,
@@ -137,14 +153,6 @@
       "onboard_time": 1766572821,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151763,
-      "num": 145862,
-      "word": "贾乃亮被曝售假事件反转",
-      "onboard_time": 1766575282,
-      "rank": 26,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 149832,
@@ -171,12 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132354,
-      "num": 132354,
-      "word": "郑州通报学生意外坠楼",
-      "onboard_time": 1766618236,
-      "rank": 4,
-      "category": "辟谣/通报"
+      "raw_hot": 130135,
+      "num": 151291,
+      "word": "马面裙才是马年的本命战袍",
+      "onboard_time": 1766588601,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129946,
+      "num": 129946,
+      "word": "吸毒记录封存不是消除删除记录",
+      "onboard_time": 1766595257,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128922,
@@ -203,12 +219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116972,
-      "num": 151291,
-      "word": "马面裙才是马年的本命战袍",
-      "onboard_time": 1766588601,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 115588,
+      "num": 84859,
+      "word": "黄荷娜吸毒史长达十余年",
+      "onboard_time": 1766619378,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111072,
@@ -217,14 +233,6 @@
       "onboard_time": 1766558601,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 110713,
-      "num": 110713,
-      "word": "吸毒记录封存不是消除删除记录",
-      "onboard_time": 1766595257,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102899,
@@ -259,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89849,
+      "num": 145685,
+      "word": "土耳其出现近700个巨大天坑",
+      "onboard_time": 1766579781,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89566,
       "num": 145471,
       "word": "落空直播",
@@ -291,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72192,
-      "num": 145685,
-      "word": "土耳其出现近700个巨大天坑",
-      "onboard_time": 1766579781,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 75462,
+      "num": 145789,
+      "word": "一斤油一斤半面粉",
+      "onboard_time": 1766587044,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 71167,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67922,
-      "num": 145789,
-      "word": "一斤油一斤半面粉",
-      "onboard_time": 1766587044,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 67529,
       "num": 145618,
       "word": "宋威龙现偶",
@@ -323,12 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65424,
+      "raw_hot": 67314,
       "num": 145532,
       "word": "TVB女演员钟丽淇女儿患罕见病",
       "onboard_time": 1766582542,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63883,
+      "num": 140135,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63109,
@@ -347,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54640,
-      "num": 140135,
-      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
-      "onboard_time": 1766574020,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 54208,
       "num": 145485,
       "word": "徐冬冬辟谣尹子维逼婚",
@@ -368,6 +376,14 @@
       "word": "虐死继女案再审生父加刑八年",
       "onboard_time": 1766591901,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52175,
+      "num": 357773,
+      "word": "三亚免税店连续5日销售额破亿",
+      "onboard_time": 1766583924,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -393,14 +409,6 @@
       "onboard_time": 1766592080,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48936,
-      "num": 225367,
-      "word": "三亚免税店连续5日销售额破亿",
-      "onboard_time": 1766583924,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48752,
@@ -443,24 +451,40 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36988,
-      "num": 83553,
+      "raw_hot": 45991,
+      "num": 84894,
+      "word": "骄阳似我热度",
+      "onboard_time": 1766619017,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41241,
+      "num": 84784,
       "word": "央视播出福建舰弹射超近画面",
       "onboard_time": 1766590041,
       "rank": 47,
       "category": "国内时政"
     },
     {
-      "raw_hot": 35927,
-      "num": 83498,
+      "raw_hot": 36683,
+      "num": 84739,
       "word": "长津湖",
       "onboard_time": 1766583322,
       "rank": 49,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31725,
-      "num": 83362,
+      "raw_hot": 32875,
+      "num": 84682,
+      "word": "穆祉丞空降黄朔直播间",
+      "onboard_time": 1766619257,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32092,
+      "num": 84657,
       "word": "黄子佼获刑",
       "onboard_time": 1766580561,
       "rank": 46,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 30793,
-      "num": 83217,
+      "num": 84581,
       "word": "肖战我们不见不散",
       "onboard_time": 1766599155,
       "rank": 42,
@@ -484,11 +508,19 @@
     },
     {
       "raw_hot": 29188,
-      "num": 83131,
+      "num": 84491,
       "word": "破镜重圆只有三种可能",
       "onboard_time": 1766610615,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28694,
+      "num": 84588,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28236,
@@ -497,6 +529,14 @@
       "onboard_time": 1766597777,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28195,
+      "num": 84527,
+      "word": "王一博赛车持续调试磨合",
+      "onboard_time": 1766616496,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 27304,
@@ -529,22 +569,6 @@
       "onboard_time": 1766597777,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24810,
-      "num": 82982,
-      "word": "王一博赛车持续调试磨合",
-      "onboard_time": 1766616496,
-      "rank": 44,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 23465,
-      "num": 82899,
-      "word": "美国斩杀线的另一个名字叫资本主义",
-      "onboard_time": 1766607013,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20547,
