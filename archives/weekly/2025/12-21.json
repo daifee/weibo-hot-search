@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766609065614,
+  "endTime": 1766611589694,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -15083,6 +15083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14096,
+      "num": 21976,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13762,
       "num": 23076,
       "word": "微博网友年度喜爱作品",
@@ -15113,14 +15121,6 @@
       "onboard_time": 1766582242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13022,
-      "num": 21976,
-      "word": "美国斩杀线的另一个名字叫资本主义",
-      "onboard_time": 1766607013,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12665,
@@ -15161,6 +15161,14 @@
       "onboard_time": 1766254516,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10346,
+      "num": 18688,
+      "word": "破镜重圆只有三种可能",
+      "onboard_time": 1766610615,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 8682,

@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766609065614,
+  "endTime": 1766611589694,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -523,7 +523,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13022,
+      "raw_hot": 14096,
       "num": 21976,
       "word": "美国斩杀线的另一个名字叫资本主义",
       "onboard_time": 1766607013,
@@ -545,6 +545,14 @@
       "onboard_time": 1766580561,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10346,
+      "num": 18688,
+      "word": "破镜重圆只有三种可能",
+      "onboard_time": 1766610615,
+      "rank": 44,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

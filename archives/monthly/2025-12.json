@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766609065614,
+  "endTime": 1766611589694,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -84451,6 +84451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14096,
+      "num": 21976,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14045,
       "num": 172167,
       "word": "民政局担任孤独死遗产管理人",
@@ -84705,14 +84713,6 @@
       "onboard_time": 1766004375,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13022,
-      "num": 21976,
-      "word": "美国斩杀线的另一个名字叫资本主义",
-      "onboard_time": 1766607013,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13016,
@@ -85169,6 +85169,14 @@
       "onboard_time": 1765389736,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10346,
+      "num": 18688,
+      "word": "破镜重圆只有三种可能",
+      "onboard_time": 1766610615,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 10266,
