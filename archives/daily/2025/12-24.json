@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766558663757,
+  "endTime": 1766559472505,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -9,6 +9,14 @@
       "onboard_time": 1766501422,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3290090,
+      "num": 3290090,
+      "word": "微博年度报告",
+      "onboard_time": 1766558601,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 3083810,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1195722,
-      "num": 408463,
+      "num": 539824,
       "word": "爱吃酱香饼的人天塌了",
       "onboard_time": 1766554823,
       "rank": 9,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 828417,
-      "num": 510810,
+      "num": 527734,
       "word": "美国斩杀线",
       "onboard_time": 1766550742,
       "rank": 19,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508244,
+      "num": 508244,
+      "word": "赵丽颖客串谭松韵新剧",
+      "onboard_time": 1766558122,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502394,
       "num": 502394,
       "word": "李凯尔改回原名凯尔安德森",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 455977,
-      "num": 370573,
+      "num": 409039,
       "word": "短剧一姐的含金量",
       "onboard_time": 1766552183,
       "rank": 25,
@@ -243,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400961,
+      "num": 400961,
+      "word": "自闭症儿子遇难父母靠工作麻痹自己",
+      "onboard_time": 1766554945,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389414,
       "num": 389414,
       "word": "老公还没准备好迎接第七个孩子",
@@ -257,6 +281,14 @@
       "onboard_time": 1766542760,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 377193,
+      "num": 280351,
+      "word": "爱吃蛋",
+      "onboard_time": 1766555781,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 373055,
@@ -281,22 +313,6 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 362460,
-      "num": 272628,
-      "word": "爱吃蛋",
-      "onboard_time": 1766555781,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 354855,
-      "num": 272512,
-      "word": "赵丽颖客串谭松韵新剧",
-      "onboard_time": 1766558122,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 351647,
@@ -337,14 +353,6 @@
       "onboard_time": 1766547681,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320934,
-      "num": 320934,
-      "word": "自闭症儿子遇难父母靠工作麻痹自己",
-      "onboard_time": 1766554945,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319733,
@@ -459,14 +467,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 261726,
-      "num": 261726,
-      "word": "微博年度报告",
-      "onboard_time": 1766558601,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 257296,
       "num": 234934,
       "word": "白鹿回应自驾开车",
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227838,
+      "num": 227838,
+      "word": "陈伟霆给王安宇找台阶",
+      "onboard_time": 1766556802,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225600,
       "num": 225600,
       "word": "何超莲金莲花最佳新人",
@@ -585,14 +593,6 @@
       "onboard_time": 1766546901,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209460,
-      "num": 209460,
-      "word": "陈伟霆给王安宇找台阶",
-      "onboard_time": 1766556802,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209193,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 185265,
-      "num": 149971,
+      "num": 170512,
       "word": "低丸子头才是穿羽绒服最好看的发型",
       "onboard_time": 1766556802,
       "rank": 30,
@@ -697,6 +697,14 @@
       "onboard_time": 1766550684,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182937,
+      "num": 182937,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 181351,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159700,
+      "num": 159700,
+      "word": "女生考研北大熬夜复习错过考试",
+      "onboard_time": 1766558002,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159497,
       "num": 171874,
       "word": "窦靖童那英我和我大姨一起跨年",
@@ -899,6 +915,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 151644,
+      "num": 151644,
+      "word": "影石十万元悬赏黑公关",
+      "onboard_time": 1766558242,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151028,
       "num": 180055,
       "word": "中方敦促美方立即撤销有关措施",
@@ -937,6 +961,14 @@
       "onboard_time": 1766557522,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146814,
+      "num": 146814,
+      "word": "李凯尔依然是中国国籍",
+      "onboard_time": 1766559201,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 145731,
@@ -1035,12 +1067,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136605,
-      "num": 136605,
-      "word": "影石十万元悬赏黑公关",
-      "onboard_time": 1766558242,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 137197,
+      "num": 171321,
+      "word": "短国男主居然出击跨年了",
+      "onboard_time": 1766558059,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 136444,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1766555123,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134487,
+      "num": 134487,
+      "word": "班主任疑协助百名师生逃生后仍被判刑",
+      "onboard_time": 1766558902,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134395,
@@ -1171,14 +1211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127541,
-      "num": 127541,
-      "word": "女生考研北大熬夜复习错过考试",
-      "onboard_time": 1766558002,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127266,
       "num": 127266,
       "word": "闫妮首获金莲花最佳女主",
@@ -1195,14 +1227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126108,
-      "num": 126108,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125017,
       "num": 125017,
       "word": "吸毒人员至少半年不得进娱乐场所",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1766555064,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123882,
-      "num": 126284,
-      "word": "短国男主居然出击跨年了",
-      "onboard_time": 1766558059,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 121331,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1766535201,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99743,
+      "num": 99743,
+      "word": "年轻人在送一种很新的伴手礼",
+      "onboard_time": 1766559201,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 99430,
@@ -1851,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43199,
+      "num": 123906,
+      "word": "肖战藏海传售后和跨年一起来",
+      "onboard_time": 1766558720,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42838,
       "num": 55093,
       "word": "成毅新剧的伤从来没白受",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1766514617,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21262,
+      "num": 122608,
+      "word": "河南火灾宿舍里住了30多位学生",
+      "onboard_time": 1766559261,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20670,
