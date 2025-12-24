@@ -1,0 +1,410 @@
+{
+  "runTime": 1766554343112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888050,
+        "num": 1142088,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632687,
+        "num": 632687,
+        "word": "老人一儿一女已故全村人选择瞒着",
+        "onboard_time": 1766549782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44330,
+        "num": 609566,
+        "word": "我国渤海发现第七个亿吨级油田",
+        "onboard_time": 1766553204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598495,
+        "num": 598495,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551339,
+        "num": 551339,
+        "word": "我不是药神原型现在怎么样了",
+        "onboard_time": 1766548403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510810,
+        "num": 510810,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 428257,
+        "num": 428257,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1766552365,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1918175,
+        "num": 425121,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420045,
+        "num": 420045,
+        "word": "关于吸毒记录封存的3点说明",
+        "onboard_time": 1766547202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169234,
+        "num": 393673,
+        "word": "孙颖莎连续四年女单年终世界第一",
+        "onboard_time": 1766551765,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774474,
+        "num": 392963,
+        "word": "河南火灾班主任",
+        "onboard_time": 1766550024,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391498,
+        "num": 391498,
+        "word": "上海家长吐槽学校要求冬至包饺子",
+        "onboard_time": 1766550084,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373055,
+        "num": 373055,
+        "word": "虞书欣双轨开分",
+        "onboard_time": 1766552964,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163478,
+        "num": 341224,
+        "word": "循环酸奶",
+        "onboard_time": 1766547443,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321844,
+        "num": 321844,
+        "word": "拍蛇片把蛇搞丢的后果",
+        "onboard_time": 1766548704,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294835,
+        "num": 294835,
+        "word": "新生儿医院去世涉事人员停职",
+        "onboard_time": 1766548343,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257384,
+        "num": 257384,
+        "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+        "onboard_time": 1766550142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247571,
+        "num": 247571,
+        "word": "这个病会走得很痛苦",
+        "onboard_time": 1766552365,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43897,
+        "num": 231166,
+        "word": "鲁豫说鸿蒙的可贵在于开放包容",
+        "onboard_time": 1766552843,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68797,
+        "num": 229024,
+        "word": "冬季总咳嗽别硬扛",
+        "onboard_time": 1766551406,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1809603,
+        "num": 228966,
+        "word": "官方回应哪位少爷吸了",
+        "onboard_time": 1766548942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228781,
+        "num": 228781,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766548824,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89523,
+        "num": 227110,
+        "word": "新生儿离世监控视频已封存",
+        "onboard_time": 1766553023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710290,
+        "num": 225083,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 409463,
+        "num": 220344,
+        "word": "致癌精子生197个孩子部分已离世",
+        "onboard_time": 1766542401,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330536,
+        "num": 218788,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216232,
+        "num": 216232,
+        "word": "很多人都低估了1万元的威力",
+        "onboard_time": 1766551585,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215302,
+        "num": 215302,
+        "word": "黄荷娜被警方逮捕",
+        "onboard_time": 1766549302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189208,
+        "num": 189208,
+        "word": "专家建议尽量少用或不用肉宝王",
+        "onboard_time": 1766535802,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186704,
+        "num": 186704,
+        "word": "唐嫣明媚暗黑反差感",
+        "onboard_time": 1766553023,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174493,
+        "num": 174493,
+        "word": "夏之光说自己不是男团是演员",
+        "onboard_time": 1766553502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170046,
+        "num": 170046,
+        "word": "东方卫视官宣肖战的排面",
+        "onboard_time": 1766552663,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32448,
+        "num": 164788,
+        "word": "警方称江西落水车辆并非幼儿园校车",
+        "onboard_time": 1766552301,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163270,
+        "num": 163270,
+        "word": "清华计算机专业博士7年的薪资",
+        "onboard_time": 1766551943,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159970,
+        "num": 159970,
+        "word": "哑舍为啥播成这样",
+        "onboard_time": 1766552423,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153705,
+        "num": 153705,
+        "word": "河南火灾班主任大儿子疑因病去世",
+        "onboard_time": 1766553922,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143804,
+        "num": 143804,
+        "word": "那些会开车以后才懂的事",
+        "onboard_time": 1766553383,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141808,
+        "num": 141808,
+        "word": "王楚钦蝉联男子单打年终世界第一",
+        "onboard_time": 1766552062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134717,
+        "num": 139841,
+        "word": "印度护士敲错门被拖进房间灌酒侵害",
+        "onboard_time": 1766553502,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139799,
+        "num": 139799,
+        "word": "谭松韵新剧三人分饰一角",
+        "onboard_time": 1766551883,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136444,
+        "num": 136444,
+        "word": "法律面前一律平等",
+        "onboard_time": 1766553743,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133623,
+        "num": 133623,
+        "word": "东方卫视跨年阵容",
+        "onboard_time": 1766545941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 130388,
+        "word": "孙子肚上蹦跳致爷爷动脉破裂",
+        "onboard_time": 1766552604,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128706,
+        "num": 128706,
+        "word": "鹿晗新歌预告",
+        "onboard_time": 1766551943,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126013,
+        "num": 126013,
+        "word": "QQ羞辱方式又多了一个抽象的",
+        "onboard_time": 1766551042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122868,
+        "num": 122868,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119525,
+        "num": 119525,
+        "word": "为什么海外华人感受不到斩杀线",
+        "onboard_time": 1766547202,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40157,
+        "num": 117532,
+        "word": "日本杀虫剂公司为昆虫举行追悼会",
+        "onboard_time": 1766552663,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 117491,
+        "word": "汪苏泷十万伏特收官庆典",
+        "onboard_time": 1766554282,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112029,
+        "num": 117226,
+        "word": "滑雪出片照",
+        "onboard_time": 1766552903,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交2025年度回眸#"
+    }
+  }
+}

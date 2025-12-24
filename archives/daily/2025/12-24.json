@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766552187027,
+  "endTime": 1766554343112,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2808650,
-      "num": 210649,
+      "num": 228966,
       "word": "官方回应哪位少爷吸了",
       "onboard_time": 1766548942,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 985119,
-      "num": 209692,
+      "num": 225083,
       "word": "张百乔老婆整容",
       "onboard_time": 1766547622,
       "rank": 38,
@@ -83,11 +83,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 774474,
+      "num": 392963,
+      "word": "河南火灾班主任",
+      "onboard_time": 1766550024,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 767049,
       "num": 283065,
       "word": "多方回应女婴尸检报告推翻医院诊断",
       "onboard_time": 1766537423,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632687,
+      "num": 632687,
+      "word": "老人一儿一女已故全村人选择瞒着",
+      "onboard_time": 1766549782,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -99,20 +115,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 616297,
-      "num": 616297,
-      "word": "老人一儿一女已故全村人选择瞒着",
-      "onboard_time": 1766549782,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 579623,
       "num": 579623,
       "word": "NBA球员李凯尔国籍已改为美国",
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 551339,
+      "num": 551339,
+      "word": "我不是药神原型现在怎么样了",
+      "onboard_time": 1766548403,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545901,
@@ -139,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510810,
+      "num": 510810,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 502394,
       "num": 502394,
       "word": "李凯尔改回原名凯尔安德森",
       "onboard_time": 1766544202,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 500390,
-      "num": 500390,
-      "word": "我不是药神原型现在怎么样了",
-      "onboard_time": 1766548403,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494408,
@@ -179,12 +195,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428257,
+      "num": 428257,
+      "word": "湖南卫视跨年全阵容",
+      "onboard_time": 1766552365,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402924,
       "num": 168333,
       "word": "马龙妻子夏露跳舞太专业",
       "onboard_time": 1766503046,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391498,
+      "num": 391498,
+      "word": "上海家长吐槽学校要求冬至包饺子",
+      "onboard_time": 1766550084,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 389414,
@@ -201,6 +233,14 @@
       "onboard_time": 1766542760,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 373055,
+      "num": 373055,
+      "word": "虞书欣双轨开分",
+      "onboard_time": 1766552964,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 371777,
@@ -243,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 330536,
+      "num": 218788,
+      "word": "短剧一姐的含金量",
+      "onboard_time": 1766552183,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322682,
       "num": 200250,
       "word": "程晓玥自曝二胎胎儿偏大",
@@ -267,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309278,
-      "num": 300428,
-      "word": "河南火灾班主任",
-      "onboard_time": 1766550024,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302568,
       "num": 298466,
       "word": "迪丽热巴时尚芭莎开年刊",
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 301135,
-      "num": 301135,
+      "num": 341224,
       "word": "循环酸奶",
       "onboard_time": 1766547443,
       "rank": 23,
@@ -299,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294835,
+      "num": 294835,
+      "word": "新生儿医院去世涉事人员停职",
+      "onboard_time": 1766548343,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285016,
       "num": 276453,
       "word": "黄荷娜被警方逮捕",
       "onboard_time": 1766549302,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283897,
-      "num": 283897,
-      "word": "新生儿医院去世涉事人员停职",
-      "onboard_time": 1766548343,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273336,
@@ -355,6 +395,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 257384,
+      "num": 257384,
+      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+      "onboard_time": 1766550142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257296,
       "num": 234934,
       "word": "白鹿回应自驾开车",
@@ -387,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247571,
+      "num": 247571,
+      "word": "这个病会走得很痛苦",
+      "onboard_time": 1766552365,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240423,
       "num": 240423,
       "word": "庞铮只艾特贺峻霖是转移矛盾吗",
@@ -409,14 +465,6 @@
       "onboard_time": 1766507300,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 232384,
-      "num": 232384,
-      "word": "上海家长吐槽学校要求冬至包饺子",
-      "onboard_time": 1766550084,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 232293,
@@ -459,14 +507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 222839,
-      "num": 222839,
-      "word": "美国斩杀线",
-      "onboard_time": 1766550742,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 222601,
       "num": 222601,
       "word": "日本遗孤说不信我是日本孩子",
@@ -483,28 +523,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 212842,
-      "num": 212842,
-      "word": "迪丽热巴扑倒陈飞宇剧照",
-      "onboard_time": 1766546901,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211395,
-      "num": 198527,
+      "raw_hot": 216232,
+      "num": 216232,
       "word": "很多人都低估了1万元的威力",
       "onboard_time": 1766551585,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 209942,
-      "num": 209942,
-      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
-      "onboard_time": 1766550142,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 212842,
+      "num": 212842,
+      "word": "迪丽热巴扑倒陈飞宇剧照",
+      "onboard_time": 1766546901,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 209193,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 195068,
-      "num": 195068,
+      "num": 393673,
       "word": "孙颖莎连续四年女单年终世界第一",
       "onboard_time": 1766551765,
       "rank": 31,
@@ -553,6 +585,14 @@
       "onboard_time": 1766551824,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186704,
+      "num": 186704,
+      "word": "唐嫣明媚暗黑反差感",
+      "onboard_time": 1766553023,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 185325,
@@ -619,6 +659,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 174493,
+      "num": 174493,
+      "word": "夏之光说自己不是男团是演员",
+      "onboard_time": 1766553502,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173454,
       "num": 173454,
       "word": "玉茗茶骨",
@@ -641,6 +689,14 @@
       "onboard_time": 1766545341,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170046,
+      "num": 170046,
+      "word": "东方卫视官宣肖战的排面",
+      "onboard_time": 1766552663,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 168347,
@@ -691,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159970,
+      "num": 159970,
+      "word": "哑舍为啥播成这样",
+      "onboard_time": 1766552423,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159497,
       "num": 171874,
       "word": "窦靖童那英我和我大姨一起跨年",
@@ -713,6 +777,14 @@
       "onboard_time": 1766551042,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 153705,
+      "num": 153705,
+      "word": "河南火灾班主任大儿子疑因病去世",
+      "onboard_time": 1766553922,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153528,
@@ -795,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143804,
+      "num": 143804,
+      "word": "那些会开车以后才懂的事",
+      "onboard_time": 1766553383,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143003,
       "num": 143003,
       "word": "藏海传最佳电视剧奖",
@@ -859,12 +939,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136444,
+      "num": 136444,
+      "word": "法律面前一律平等",
+      "onboard_time": 1766553743,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136326,
       "num": 136326,
       "word": "穆祉丞搭王橹杰的肩",
       "onboard_time": 1766499563,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134717,
+      "num": 139841,
+      "word": "印度护士敲错门被拖进房间灌酒侵害",
+      "onboard_time": 1766553502,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134395,
@@ -921,6 +1017,14 @@
       "onboard_time": 1766540900,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130388,
+      "num": 130388,
+      "word": "孙子肚上蹦跳致爷爷动脉破裂",
+      "onboard_time": 1766552604,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129692,
@@ -987,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117491,
+      "num": 117491,
+      "word": "汪苏泷十万伏特收官庆典",
+      "onboard_time": 1766554282,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116312,
       "num": 116312,
       "word": "张子墨夸李煜东很热心",
@@ -1033,6 +1145,14 @@
       "onboard_time": 1766496201,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112029,
+      "num": 117226,
+      "word": "滑雪出片照",
+      "onboard_time": 1766552903,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 110910,
@@ -1137,6 +1257,14 @@
       "onboard_time": 1766539102,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89523,
+      "num": 227110,
+      "word": "新生儿离世监控视频已封存",
+      "onboard_time": 1766553023,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89138,
@@ -1283,6 +1411,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 68797,
+      "num": 229024,
+      "word": "冬季总咳嗽别硬扛",
+      "onboard_time": 1766551406,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68695,
       "num": 87955,
       "word": "刘若英给阿信做猪脚面线",
@@ -1403,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54620,
-      "num": 212435,
-      "word": "冬季总咳嗽别硬扛",
-      "onboard_time": 1766551406,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 54535,
       "num": 87705,
       "word": "时代少年团团子",
@@ -1515,12 +1643,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44330,
+      "num": 609566,
+      "word": "我国渤海发现第七个亿吨级油田",
+      "onboard_time": 1766553204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44106,
       "num": 171625,
       "word": "特朗普称爱泼斯坦案会毁掉无辜的人",
       "onboard_time": 1766550263,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43897,
+      "num": 231166,
+      "word": "鲁豫说鸿蒙的可贵在于开放包容",
+      "onboard_time": 1766552843,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 42838,
@@ -1545,6 +1689,14 @@
       "onboard_time": 1766509878,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40157,
+      "num": 117532,
+      "word": "日本杀虫剂公司为昆虫举行追悼会",
+      "onboard_time": 1766552663,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38394,
@@ -1601,6 +1753,14 @@
       "onboard_time": 1766540961,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32448,
+      "num": 164788,
+      "word": "警方称江西落水车辆并非幼儿园校车",
+      "onboard_time": 1766552301,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32362,
@@ -1769,6 +1929,9 @@
     },
     {
       "word": "#中央企业要充分认识肩负的职责使命#"
+    },
+    {
+      "word": "#大国外交2025年度回眸#"
     }
   ]
 }
