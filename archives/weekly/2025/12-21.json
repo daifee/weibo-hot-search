@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766587517774,
+  "endTime": 1766590202314,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1492269,
+      "num": 343188,
+      "word": "橹穆双人舞台",
+      "onboard_time": 1766586682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1464903,
       "num": 1464903,
       "word": "明年起向好友发淫秽信息违法",
@@ -321,14 +329,6 @@
       "onboard_time": 1766326105,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1239445,
-      "num": 343188,
-      "word": "橹穆双人舞台",
-      "onboard_time": 1766586682,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1225897,
@@ -721,6 +721,14 @@
       "onboard_time": 1766308583,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 849725,
+      "num": 226103,
+      "word": "苹果",
+      "onboard_time": 1766586503,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 846663,
@@ -1187,6 +1195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 598242,
+      "num": 191964,
+      "word": "黄朔直播",
+      "onboard_time": 1766588182,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597681,
       "num": 230191,
       "word": "宋祖儿发现站昀孟中间的反应",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1766394561,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 587670,
+      "num": 1094027,
+      "word": "高市早苗又放话了",
+      "onboard_time": 1766585483,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 585059,
@@ -2019,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439046,
+      "num": 182613,
+      "word": "朱孝天疑似明涵阿信",
+      "onboard_time": 1766588003,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435387,
       "num": 435387,
       "word": "湖南卫视跨年全阵容",
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 400115,
-      "num": 400115,
+      "num": 452161,
       "word": "第八集吻上宋威龙了",
       "onboard_time": 1766584702,
       "rank": 8,
@@ -2659,14 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345598,
-      "num": 345598,
-      "word": "高市早苗又放话了",
-      "onboard_time": 1766585483,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 345557,
       "num": 345557,
       "word": "吴磊座位",
@@ -2851,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324783,
+      "num": 448897,
+      "word": "美国网红称他在旧金山快活不下去了",
+      "onboard_time": 1766583263,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 322682,
       "num": 200250,
       "word": "程晓玥自曝二胎胎儿偏大",
@@ -2945,6 +2977,14 @@
       "onboard_time": 1766464581,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313867,
+      "num": 174665,
+      "word": "曝男顶流拍戏受伤",
+      "onboard_time": 1766589562,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 313502,
@@ -3603,6 +3643,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 256534,
+      "num": 180072,
+      "word": "贾霞老师58岁了",
+      "onboard_time": 1766587883,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255445,
       "num": 255445,
       "word": "海口医院偶遇丁禹兮",
@@ -3945,14 +3993,6 @@
       "onboard_time": 1766561300,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226103,
-      "num": 226103,
-      "word": "苹果",
-      "onboard_time": 1766586503,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 225916,
@@ -4419,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204054,
+      "num": 174293,
+      "word": "朱志鑫苏新皓跳了卡点舞",
+      "onboard_time": 1766589682,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203836,
       "num": 203836,
       "word": "杨幂冬至plog",
@@ -4601,6 +4649,14 @@
       "onboard_time": 1766487680,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "马面裙才是马年的本命战袍",
+      "onboard_time": 1766588601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199685,
@@ -5659,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173976,
+      "num": 173976,
+      "word": "金莎孙丞潇 姐夫弟",
+      "onboard_time": 1766585062,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173765,
       "num": 150864,
       "word": "TF家族新年音乐会",
@@ -5779,14 +5843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169284,
-      "num": 169284,
-      "word": "金莎孙丞潇 姐夫弟",
-      "onboard_time": 1766585062,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "曝左一女主被换",
@@ -5812,7 +5868,7 @@
     },
     {
       "raw_hot": 167264,
-      "num": 133002,
+      "num": 165816,
       "word": "一斤油一斤半面粉",
       "onboard_time": 1766587044,
       "rank": 30,
@@ -5873,14 +5929,6 @@
       "onboard_time": 1766288179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165619,
-      "num": 165619,
-      "word": "美国网红称他在旧金山快活不下去了",
-      "onboard_time": 1766583263,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165475,
@@ -6243,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155773,
+      "num": 155773,
+      "word": "许嵩超话空降",
+      "onboard_time": 1766589022,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155569,
       "num": 155569,
       "word": "98%中国亿万富豪都是白手起家",
@@ -6273,6 +6329,14 @@
       "onboard_time": 1766465602,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155155,
+      "num": 178020,
+      "word": "日本一无人岛密密麻麻都是北海狮",
+      "onboard_time": 1766588601,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154701,
@@ -7123,6 +7187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140745,
+      "num": 140745,
+      "word": "福建舰内部画面",
+      "onboard_time": 1766589920,
+      "rank": 29,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 140734,
       "num": 140734,
       "word": "经济学家说现在进入了小生意时代",
@@ -7233,6 +7305,14 @@
       "onboard_time": 1766302701,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138184,
+      "num": 176265,
+      "word": "胖东来售卖梅西签名球衣",
+      "onboard_time": 1766588783,
+      "rank": 21,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 137999,
@@ -8347,6 +8427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123063,
+      "num": 123063,
+      "word": "高端餐厅要价12000的辣椒炒牛",
+      "onboard_time": 1766587883,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122876,
       "num": 117289,
       "word": "BLG对战LNG",
@@ -8616,6 +8704,14 @@
       "word": "谁家cp粉是自己老公啊",
       "onboard_time": 1766546541,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118126,
+      "num": 123354,
+      "word": "宋威龙现偶",
+      "onboard_time": 1766576362,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -9075,6 +9171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110576,
+      "num": 110576,
+      "word": "朱一龙工作室更新",
+      "onboard_time": 1766587584,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110346,
       "num": 99545,
       "word": "萨尔布吕肯3比2杜塞尔多夫",
@@ -9339,6 +9443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107801,
+      "num": 116688,
+      "word": "央视播出福建舰弹射超近画面",
+      "onboard_time": 1766590041,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107692,
       "num": 107692,
       "word": "国足年终世界排名第93",
@@ -9569,14 +9681,6 @@
       "onboard_time": 1766503167,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104694,
-      "num": 123354,
-      "word": "宋威龙现偶",
-      "onboard_time": 1766576362,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 104669,
@@ -10547,6 +10651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92193,
+      "num": 92193,
+      "word": "小猫回家太晚被妈妈逮到了",
+      "onboard_time": 1766586803,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92100,
       "num": 214462,
       "word": "一村公示未缴医保人员名单住址",
@@ -10641,6 +10753,14 @@
       "onboard_time": 1766299882,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90623,
+      "num": 90623,
+      "word": "BLG无缘德杯淘汰赛",
+      "onboard_time": 1766588661,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90260,
@@ -10761,6 +10881,14 @@
       "onboard_time": 1766580262,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89187,
+      "num": 90679,
+      "word": "福建舰电磁弹射系统爆发力有多强",
+      "onboard_time": 1766588903,
+      "rank": 47,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 89172,
@@ -11035,14 +11163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84788,
-      "num": 84788,
-      "word": "小猫回家太晚被妈妈逮到了",
-      "onboard_time": 1766586803,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84787,
       "num": 97900,
       "word": "丽江称因小红书不实帖损失超500万",
@@ -11233,6 +11353,14 @@
       "onboard_time": 1766456540,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81103,
+      "num": 90026,
+      "word": "原来这就是走路送髋的技巧",
+      "onboard_time": 1766587823,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80998,
@@ -12427,6 +12555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54086,
+      "num": 110873,
+      "word": "原产中国的麋鹿终于改回中国名",
+      "onboard_time": 1766589262,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53998,
       "num": 55102,
       "word": "杨紫玉兰花开君再来造型",
@@ -12579,6 +12715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50962,
+      "num": 166401,
+      "word": "蛋神最新视频已有鸡蛋品牌露出",
+      "onboard_time": 1766588601,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50874,
       "num": 271074,
       "word": "杨旭文上央视学会了种花",
@@ -12625,6 +12769,14 @@
       "onboard_time": 1766423297,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49490,
+      "num": 90842,
+      "word": "多国2025年度汉字出炉",
+      "onboard_time": 1766588601,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49455,
@@ -12769,6 +12921,14 @@
       "onboard_time": 1766299702,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46645,
+      "num": 114456,
+      "word": "强生面临相关诉讼超6.7万起",
+      "onboard_time": 1766589920,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46626,
@@ -12932,7 +13092,7 @@
     },
     {
       "raw_hot": 44267,
-      "num": 445720,
+      "num": 483193,
       "word": "粤港澳大湾区再添海上新通道",
       "onboard_time": 1766584222,
       "rank": 2,
@@ -13289,6 +13449,14 @@
       "onboard_time": 1766528115,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37682,
+      "num": 113314,
+      "word": "16岁职校女生遭多名同学殴打侮辱",
+      "onboard_time": 1766589982,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37596,
@@ -14593,6 +14761,14 @@
       "onboard_time": 1766234122,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17711,
+      "num": 177387,
+      "word": "美国网友发现解密文件被涂黑内容方法",
+      "onboard_time": 1766589262,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17657,
