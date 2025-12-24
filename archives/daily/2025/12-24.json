@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766565528327,
+  "endTime": 1766566389546,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 861183,
+      "num": 409339,
+      "word": "月薪3500双休要不要离职",
+      "onboard_time": 1766562920,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 828417,
       "num": 527734,
       "word": "美国斩杀线",
@@ -163,20 +171,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 604790,
-      "num": 212708,
-      "word": "月薪3500双休要不要离职",
-      "onboard_time": 1766562920,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 579623,
       "num": 579623,
       "word": "NBA球员李凯尔国籍已改为美国",
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 568254,
+      "num": 405572,
+      "word": "男子向女友发淫秽视频被行拘",
+      "onboard_time": 1766563282,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551339,
@@ -208,14 +216,6 @@
       "word": "小洛熙尸检未见冠状窦型房间隔缺损",
       "onboard_time": 1766538741,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511883,
-      "num": 365093,
-      "word": "男子向女友发淫秽视频被行拘",
-      "onboard_time": 1766563282,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400287,
+      "num": 489354,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 389414,
       "num": 389414,
       "word": "老公还没准备好迎接第七个孩子",
@@ -377,14 +385,6 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356627,
-      "num": 489354,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 351647,
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163284,
+      "num": 163284,
+      "word": "年轻人备婚越来越新奇了",
+      "onboard_time": 1766565803,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161844,
       "num": 161844,
       "word": "成毅360度运镜镜头",
@@ -1179,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137495,
+      "num": 137495,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137457,
       "num": 137457,
       "word": "章子怡四封金莲花影后",
@@ -1323,19 +1339,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 128176,
-      "num": 128176,
-      "word": "平安夜文案",
-      "onboard_time": 1766564182,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127610,
       "num": 127610,
       "word": "常华森还是没去治耳朵吗",
       "onboard_time": 1766546541,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127602,
+      "num": 127602,
+      "word": "内娱化妆师红榜",
+      "onboard_time": 1766564842,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1369,6 +1385,14 @@
       "onboard_time": 1766562623,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126060,
+      "num": 126060,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125017,
@@ -1435,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118001,
-      "num": 118001,
-      "word": "内娱化妆师红榜",
-      "onboard_time": 1766564842,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116346,
       "num": 116346,
       "word": "原来语言真的能改变长相",
@@ -1459,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114563,
+      "num": 114563,
+      "word": "周深 先让刘宇宁身高降下来",
+      "onboard_time": 1766564002,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114484,
       "num": 286956,
       "word": "国台办回应日本盯上在台湾的熊猫",
@@ -1472,6 +1496,14 @@
       "word": "赵丽颖逍遥饰演碎梦仙君",
       "onboard_time": 1766563222,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113861,
+      "num": 113861,
+      "word": "谁懂这几张脸同时出现在一部剧",
+      "onboard_time": 1766565923,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1531,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110627,
-      "num": 110627,
-      "word": "周深 先让刘宇宁身高降下来",
-      "onboard_time": 1766564002,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108987,
       "num": 108987,
       "word": "双北",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1766561541,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104552,
+      "num": 113660,
+      "word": "公务员遴选分数第1落选信息含量大",
+      "onboard_time": 1766564422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104457,
@@ -1643,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101628,
+      "num": 101628,
+      "word": "梁淞 我们上下三代拧成一股绳",
+      "onboard_time": 1766566220,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101266,
       "num": 101266,
       "word": "特朗普级战列舰",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1766537842,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98529,
+      "num": 98529,
+      "word": "智商税都被买回家了",
+      "onboard_time": 1766566220,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 98407,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1766499981,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87977,
+      "num": 111725,
+      "word": "张钧甯别演了我害怕",
+      "onboard_time": 1766565621,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 86805,
@@ -1851,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74055,
+      "num": 173661,
+      "word": "景区5万月薪招185帅哥陪滑官",
+      "onboard_time": 1766565382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73699,
       "num": 86780,
       "word": "庞铮的专业素养",
@@ -1915,14 +1979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67655,
-      "num": 113660,
-      "word": "公务员遴选分数第1落选信息含量大",
-      "onboard_time": 1766564422,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66456,
       "num": 66456,
       "word": "鞠婧祎用震撼来形容的美貌",
@@ -1971,6 +2027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61851,
+      "num": 113509,
+      "word": "孙悟空到底有几个女朋友",
+      "onboard_time": 1766565201,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60490,
       "num": 87756,
       "word": "爱泼斯坦狱中自杀视频被证实是伪造",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1766531058,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58918,
+      "num": 205674,
+      "word": "1.78米弟弟说从小把1.2米哥哥当榜样",
+      "onboard_time": 1766564422,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58688,
@@ -2107,14 +2179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48459,
-      "num": 127256,
-      "word": "景区5万月薪招185帅哥陪滑官",
-      "onboard_time": 1766565382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47533,
       "num": 220849,
       "word": "一小区4栋楼门前有超百个井盖",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1766505803,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44397,
+      "num": 197220,
+      "word": "起猛了大家都在晒余额宝全明星小卡",
+      "onboard_time": 1766564722,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 44106,
@@ -2235,14 +2307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39205,
-      "num": 197220,
-      "word": "起猛了大家都在晒余额宝全明星小卡",
-      "onboard_time": 1766564722,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38394,
       "num": 185752,
       "word": "断骨增高术宣介在多平台重现",
@@ -2283,28 +2347,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36259,
-      "num": 205674,
-      "word": "1.78米弟弟说从小把1.2米哥哥当榜样",
-      "onboard_time": 1766564422,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36200,
       "num": 110234,
       "word": "遭性侵女高管发文总结维权经历",
       "onboard_time": 1766564182,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34492,
-      "num": 113509,
-      "word": "孙悟空到底有几个女朋友",
-      "onboard_time": 1766565201,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 34304,

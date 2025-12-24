@@ -1,0 +1,410 @@
+{
+  "runTime": 1766566389546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1111608,
+        "num": 1177857,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 427830,
+        "num": 427830,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53995,
+        "num": 422745,
+        "word": "我国渤海发现第七个亿吨级油田",
+        "onboard_time": 1766553204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728235,
+        "num": 421314,
+        "word": "俄富豪捐精百子共享千亿遗产",
+        "onboard_time": 1766562623,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 627542,
+        "num": 411478,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 861183,
+        "num": 409339,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568254,
+        "num": 405572,
+        "word": "男子向女友发淫秽视频被行拘",
+        "onboard_time": 1766563282,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400287,
+        "num": 400287,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271682,
+        "num": 271682,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182585,
+        "num": 182585,
+        "word": "靖国神社被起诉",
+        "onboard_time": 1766560822,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1049360,
+        "num": 182083,
+        "word": "杨天真被诈骗",
+        "onboard_time": 1766560940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679251,
+        "num": 180791,
+        "word": "张子枫手臂上好大一个疤",
+        "onboard_time": 1766560881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618344,
+        "num": 178352,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 12,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 418763,
+        "num": 177296,
+        "word": "迅猛龙一年点了459次奶茶",
+        "onboard_time": 1766560761,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370845,
+        "num": 176068,
+        "word": "网友估算河南火灾班主任工作近15小时",
+        "onboard_time": 1766561600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198489,
+        "num": 174514,
+        "word": "张远在韩人脉",
+        "onboard_time": 1766561300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74055,
+        "num": 173661,
+        "word": "景区5万月薪招185帅哥陪滑官",
+        "onboard_time": 1766565382,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58808,
+        "num": 172116,
+        "word": "鸿蒙给开发者铺好了高速路",
+        "onboard_time": 1766563761,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77365,
+        "num": 170294,
+        "word": "不同价位羽绒服到底差别在哪",
+        "onboard_time": 1766563701,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 44397,
+        "num": 168216,
+        "word": "起猛了大家都在晒余额宝全明星小卡",
+        "onboard_time": 1766564722,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466127,
+        "num": 166828,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423126,
+        "num": 165527,
+        "word": "官方回应哪位少爷吸了",
+        "onboard_time": 1766548942,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165040,
+        "num": 165040,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163284,
+        "num": 163284,
+        "word": "年轻人备婚越来越新奇了",
+        "onboard_time": 1766565803,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161006,
+        "num": 161006,
+        "word": "赵丽颖客串谭松韵新剧",
+        "onboard_time": 1766558122,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154880,
+        "num": 154880,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149996,
+        "num": 149996,
+        "word": "81万赞就是81万份子钱",
+        "onboard_time": 1766563162,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137495,
+        "num": 137495,
+        "word": "平安夜文案",
+        "onboard_time": 1766564182,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128964,
+        "num": 128964,
+        "word": "关于吸毒记录封存的3点说明",
+        "onboard_time": 1766547202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127602,
+        "num": 127602,
+        "word": "内娱化妆师红榜",
+        "onboard_time": 1766564842,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126060,
+        "num": 126060,
+        "word": "日网红夫妇在70度桑拿房中身亡",
+        "onboard_time": 1766565741,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122959,
+        "num": 122959,
+        "word": "低丸子头才是穿羽绒服最好看的发型",
+        "onboard_time": 1766556802,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 58918,
+        "num": 118441,
+        "word": "1.78米弟弟说从小把1.2米哥哥当榜样",
+        "onboard_time": 1766564422,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116668,
+        "num": 116668,
+        "word": "很多人都低估了1万元的威力",
+        "onboard_time": 1766551585,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "周深 先让刘宇宁身高降下来",
+        "onboard_time": 1766564002,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113861,
+        "num": 113861,
+        "word": "谁懂这几张脸同时出现在一部剧",
+        "onboard_time": 1766565923,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112701,
+        "num": 112701,
+        "word": "燕云十六声",
+        "onboard_time": 1766555482,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87977,
+        "num": 111725,
+        "word": "张钧甯别演了我害怕",
+        "onboard_time": 1766565621,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61851,
+        "num": 111427,
+        "word": "孙悟空到底有几个女朋友",
+        "onboard_time": 1766565201,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111425,
+        "num": 111425,
+        "word": "普通人其实不用花太多钱在穿搭上",
+        "onboard_time": 1766562623,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104552,
+        "num": 109313,
+        "word": "公务员遴选分数第1落选信息含量大",
+        "onboard_time": 1766564422,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107524,
+        "num": 107524,
+        "word": "李凯尔回应国籍变更",
+        "onboard_time": 1766565142,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106929,
+        "num": 106929,
+        "word": "赵丽颖逍遥饰演碎梦仙君",
+        "onboard_time": 1766563222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105101,
+        "num": 105101,
+        "word": "致癌精子生197个孩子部分已离世",
+        "onboard_time": 1766542401,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102819,
+        "num": 102819,
+        "word": "孙颖莎连续四年女单年终世界第一",
+        "onboard_time": 1766551765,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101628,
+        "num": 101628,
+        "word": "梁淞 我们上下三代拧成一股绳",
+        "onboard_time": 1766566220,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101486,
+        "num": 101486,
+        "word": "爱吃蛋",
+        "onboard_time": 1766555781,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98529,
+        "num": 98529,
+        "word": "智商税都被买回家了",
+        "onboard_time": 1766566220,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 97051,
+        "num": 97051,
+        "word": "张若昀马思纯新剧宿命羁绊",
+        "onboard_time": 1766565321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95243,
+        "num": 95243,
+        "word": "实际多少岁看上去就是多少岁",
+        "onboard_time": 1766565201,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交2025年度回眸#"
+    }
+  }
+}
