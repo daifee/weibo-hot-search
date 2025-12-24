@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766612435765,
+  "endTime": 1766615293503,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -8859,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116392,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116364,
       "num": 116364,
       "word": "2026PEL春季转会期挂牌公告",
@@ -11867,14 +11875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 72983,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72848,
       "num": 96485,
       "word": "以前的冬至vs现在的冬至",
@@ -12795,6 +12795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51870,
+      "num": 140135,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51799,
       "num": 136099,
       "word": "男子头部被踹打两年后去世不予抗诉",
@@ -12977,14 +12985,6 @@
       "onboard_time": 1766374520,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47922,
-      "num": 140135,
-      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
-      "onboard_time": 1766574020,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 47798,
@@ -14883,6 +14883,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 18535,
+      "num": 28507,
+      "word": "成毅解读角色谢淮安",
+      "onboard_time": 1766614695,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18326,
       "num": 30049,
       "word": "deepseek崩了",
@@ -14905,6 +14913,14 @@
       "onboard_time": 1766425157,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17928,
+      "num": 28490,
+      "word": "肖战我们不见不散",
+      "onboard_time": 1766599155,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 17763,
@@ -14995,6 +15011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15965,
+      "num": 28439,
+      "word": "2025美好中国新歌会",
+      "onboard_time": 1766614394,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15905,
       "num": 27100,
       "word": "鞠婧祎转圈飞吻",
@@ -15043,14 +15067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14694,
-      "num": 25123,
-      "word": "肖战我们不见不散",
-      "onboard_time": 1766599155,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 14658,
       "num": 15171,
       "word": "声鸣远扬",
@@ -15067,8 +15083,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14445,
+      "num": 28335,
+      "word": "周深献唱人之初主题曲",
+      "onboard_time": 1766604314,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14249,
-      "num": 21976,
+      "num": 28281,
       "word": "美国斩杀线的另一个名字叫资本主义",
       "onboard_time": 1766607013,
       "rank": 37,
@@ -15169,14 +15193,6 @@
       "onboard_time": 1766610615,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 9738,
-      "num": 19060,
-      "word": "周深献唱人之初主题曲",
-      "onboard_time": 1766604314,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 8682,

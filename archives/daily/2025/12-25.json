@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766612435765,
+  "endTime": 1766615293503,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116392,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111072,
       "num": 153382,
       "word": "微博年度报告",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72983,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71167,
       "num": 145696,
       "word": "朱一龙工作室更新",
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51870,
+      "num": 140135,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51593,
       "num": 145438,
       "word": "金莎孙丞潇狙击蝴蝶照进现实",
@@ -417,14 +425,6 @@
       "onboard_time": 1766592080,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45479,
-      "num": 140135,
-      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
-      "onboard_time": 1766574020,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 30851,
@@ -499,12 +499,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18535,
+      "num": 28507,
+      "word": "成毅解读角色谢淮安",
+      "onboard_time": 1766614695,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18382,
+      "num": 96573,
+      "word": "三亚免税店连续5日销售额破亿",
+      "onboard_time": 1766583924,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17928,
+      "num": 28490,
+      "word": "肖战我们不见不散",
+      "onboard_time": 1766599155,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16055,
       "num": 29692,
       "word": "强生上诉",
       "onboard_time": 1766584342,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15965,
+      "num": 28439,
+      "word": "2025美好中国新歌会",
+      "onboard_time": 1766614394,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 15813,
@@ -515,16 +547,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14694,
-      "num": 25123,
-      "word": "肖战我们不见不散",
-      "onboard_time": 1766599155,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 15120,
+      "num": 28405,
+      "word": "黄子佼获刑",
+      "onboard_time": 1766580561,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14445,
+      "num": 28335,
+      "word": "周深献唱人之初主题曲",
+      "onboard_time": 1766604314,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 14249,
-      "num": 21976,
+      "num": 28281,
       "word": "美国斩杀线的另一个名字叫资本主义",
       "onboard_time": 1766607013,
       "rank": 37,
@@ -539,28 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11106,
-      "num": 21921,
-      "word": "黄子佼获刑",
-      "onboard_time": 1766580561,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 10679,
       "num": 19113,
       "word": "破镜重圆只有三种可能",
       "onboard_time": 1766610615,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 9738,
-      "num": 19060,
-      "word": "周深献唱人之初主题曲",
-      "onboard_time": 1766604314,
-      "rank": 48,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
