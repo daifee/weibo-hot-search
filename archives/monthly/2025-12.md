@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/24 17:32:37
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/24 17:45:32
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ AG超玩会vs上海RNG.M（热度：964267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23" target="weibo">
+美国斩杀线（热度：940004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E8%AE%AD%E7%B2%89%23" target="weibo">
 吴宣仪 训粉（热度：939406）
 </a>
@@ -2645,12 +2651,6 @@ TFBOYS 帝国姐（热度：831035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E9%80%8F%E9%9C%B2%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%80%80%E8%B5%9B%E7%BB%86%E8%8A%82%23" target="weibo">
 莫雷加德透露王楚钦退赛细节（热度：829616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23" target="weibo">
-美国斩杀线（热度：828417）
 </a>
 </li>
 

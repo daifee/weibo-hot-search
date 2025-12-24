@@ -1,0 +1,410 @@
+{
+  "runTime": 1766569532539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814099,
+        "num": 1130255,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379064,
+        "num": 379064,
+        "word": "北京放宽非京籍家庭购房条件",
+        "onboard_time": 1766566401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23204,
+        "num": 358168,
+        "word": "数读2025年中国经济活力",
+        "onboard_time": 1766567662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940004,
+        "num": 341417,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571311,
+        "num": 316255,
+        "word": "男子向女友发淫秽视频被行拘",
+        "onboard_time": 1766563282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782808,
+        "num": 295398,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392161,
+        "num": 272106,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 261415,
+        "num": 261415,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240662,
+        "num": 240662,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235654,
+        "num": 235654,
+        "word": "日网红夫妇在70度桑拿房中身亡",
+        "onboard_time": 1766565741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746217,
+        "num": 235636,
+        "word": "杨天真被诈骗",
+        "onboard_time": 1766560940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621762,
+        "num": 235310,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 11,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 474765,
+        "num": 234823,
+        "word": "张子枫手臂上好大一个疤",
+        "onboard_time": 1766560881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293513,
+        "num": 234562,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278387,
+        "num": 234220,
+        "word": "迅猛龙一年点了459次奶茶",
+        "onboard_time": 1766560761,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234018,
+        "num": 234018,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216175,
+        "num": 216175,
+        "word": "平安夜文案",
+        "onboard_time": 1766564182,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191984,
+        "num": 191984,
+        "word": "刘耀文哄五个哥哥容易还是六个哥哥容易",
+        "onboard_time": 1766569100,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121101,
+        "num": 190990,
+        "word": "马嘉祺夜访吸血鬼彩排高音",
+        "onboard_time": 1766566762,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110179,
+        "num": 189604,
+        "word": "燕云十六声",
+        "onboard_time": 1766555482,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460526,
+        "num": 188556,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67116,
+        "num": 187096,
+        "word": "北京支持多子女家庭住房需求",
+        "onboard_time": 1766568201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186385,
+        "num": 186385,
+        "word": "去世新生儿异常44分钟无人察觉",
+        "onboard_time": 1766567902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158169,
+        "num": 158169,
+        "word": "年轻人备婚越来越新奇了",
+        "onboard_time": 1766565803,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "十个勤天 桃厂质子",
+        "onboard_time": 1766567421,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135203,
+        "num": 135203,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115437,
+        "num": 115437,
+        "word": "普通人其实不用花太多钱在穿搭上",
+        "onboard_time": 1766562623,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112651,
+        "num": 112651,
+        "word": "81万赞就是81万份子钱",
+        "onboard_time": 1766563162,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109493,
+        "num": 109493,
+        "word": "谁说内娱没有真亲签",
+        "onboard_time": 1766567902,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107643,
+        "num": 107643,
+        "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
+        "onboard_time": 1766567301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125199,
+        "num": 107584,
+        "word": "萝卜纸巾 认知丰容",
+        "onboard_time": 1766568201,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106098,
+        "num": 106098,
+        "word": "孙颖莎说想打到40岁",
+        "onboard_time": 1766567182,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 102847,
+        "word": "真的看到了桂花雨",
+        "onboard_time": 1766568320,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100175,
+        "num": 100175,
+        "word": "赵丽颖客串谭松韵新剧",
+        "onboard_time": 1766558122,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96837,
+        "num": 96837,
+        "word": "内娱化妆师红榜",
+        "onboard_time": 1766564842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94119,
+        "num": 94119,
+        "word": "爱吃蛋",
+        "onboard_time": 1766555781,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93697,
+        "num": 93697,
+        "word": "樊振东心跳BoomBoom",
+        "onboard_time": 1766568320,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10819,
+        "num": 92879,
+        "word": "男子月薪3850给领导发5000红包",
+        "onboard_time": 1766569222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19564,
+        "num": 92315,
+        "word": "谁敢信任达华70岁了",
+        "onboard_time": 1766569281,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92266,
+        "num": 92266,
+        "word": "景区5万月薪招185帅哥陪滑官",
+        "onboard_time": 1766565382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90883,
+        "num": 90883,
+        "word": "李施嬅已经接受车崇健经常不在家",
+        "onboard_time": 1766567662,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90384,
+        "num": 90384,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89764,
+        "num": 89764,
+        "word": "A股大金融板块异动",
+        "onboard_time": 1766569040,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89548,
+        "num": 89548,
+        "word": "杨紫开机花絮",
+        "onboard_time": 1766566882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88913,
+        "num": 88913,
+        "word": "张远在韩人脉",
+        "onboard_time": 1766561300,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88628,
+        "num": 88628,
+        "word": "00年出生的唯一红利",
+        "onboard_time": 1766569402,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87511,
+        "num": 87511,
+        "word": "钎城红布蒙眼照",
+        "onboard_time": 1766569402,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83618,
+        "num": 83618,
+        "word": "老来得己",
+        "onboard_time": 1766568681,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81390,
+        "num": 81390,
+        "word": "妈妈的爱可以抵御千难万险",
+        "onboard_time": 1766568980,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81324,
+        "num": 81324,
+        "word": "备考人有自己的萝卜纸巾",
+        "onboard_time": 1766567662,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上中央企业怎么干#"
+    }
+  }
+}

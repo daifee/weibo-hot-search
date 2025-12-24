@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766568757183,
+  "endTime": 1766569532539,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -2723,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 940004,
+      "num": 655533,
+      "word": "美国斩杀线",
+      "onboard_time": 1766378901,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 939406,
       "num": 515814,
       "word": "吴宣仪 训粉",
@@ -3513,14 +3521,6 @@
       "onboard_time": 1765721724,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 828417,
-      "num": 655533,
-      "word": "美国斩杀线",
-      "onboard_time": 1766378901,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 827979,
@@ -13027,6 +13027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 379064,
+      "num": 379064,
+      "word": "北京放宽非京籍家庭购房条件",
+      "onboard_time": 1766566401,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378556,
       "num": 231809,
       "word": "以前审美vs现在审美",
@@ -13824,14 +13832,6 @@
       "word": "精神病男子射杀邻居改判死刑",
       "onboard_time": 1765947622,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358873,
-      "num": 358873,
-      "word": "北京放宽非京籍家庭购房条件",
-      "onboard_time": 1766566401,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -17259,6 +17259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293513,
+      "num": 290119,
+      "word": "翟俊杰去世",
+      "onboard_time": 1766567001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293497,
       "num": 287128,
       "word": "唐毓文被判18年",
@@ -17449,14 +17457,6 @@
       "onboard_time": 1765445361,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290119,
-      "num": 290119,
-      "word": "翟俊杰去世",
-      "onboard_time": 1766567001,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 290008,
@@ -19353,6 +19353,14 @@
       "onboard_time": 1766460982,
       "rank": 17,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 261415,
+      "num": 261415,
+      "word": "肖战 娘家台给的底气",
+      "onboard_time": 1766568441,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 261231,
@@ -21347,6 +21355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235654,
+      "num": 235654,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235607,
       "num": 230053,
       "word": "林峯你能不能体面的老去",
@@ -21568,14 +21584,6 @@
       "word": "丁禹兮给鞠婧祎整理围巾",
       "onboard_time": 1766388501,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 232639,
-      "num": 232639,
-      "word": "肖战 娘家台给的底气",
-      "onboard_time": 1766568441,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -23129,6 +23137,14 @@
       "onboard_time": 1766412983,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216175,
+      "num": 230867,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 216171,
@@ -27347,6 +27363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191984,
+      "num": 191984,
+      "word": "刘耀文哄五个哥哥容易还是六个哥哥容易",
+      "onboard_time": 1766569100,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191961,
       "num": 191961,
       "word": "长安二十四计节奏",
@@ -28577,6 +28601,14 @@
       "onboard_time": 1765582098,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186385,
+      "num": 186385,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186378,
@@ -33923,14 +33955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159460,
-      "num": 230867,
-      "word": "平安夜文案",
-      "onboard_time": 1766564182,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159435,
       "num": 159435,
       "word": "这是什么i人地狱呀",
@@ -35049,14 +35073,6 @@
       "onboard_time": 1765804223,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155593,
-      "num": 155593,
-      "word": "去世新生儿异常44分钟无人察觉",
-      "onboard_time": 1766567902,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155569,
@@ -42019,14 +42035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133631,
-      "num": 214376,
-      "word": "日网红夫妇在70度桑拿房中身亡",
-      "onboard_time": 1766565741,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133608,
       "num": 150506,
       "word": "企业因薪资过高被限发招聘信息",
@@ -45427,6 +45435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125199,
+      "num": 119189,
+      "word": "萝卜纸巾 认知丰容",
+      "onboard_time": 1766568201,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125198,
       "num": 125198,
       "word": "iPhone17Pro移除关键相机功能",
@@ -48113,14 +48129,6 @@
       "onboard_time": 1766561300,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119189,
-      "num": 119189,
-      "word": "萝卜纸巾 认知丰容",
-      "onboard_time": 1766568201,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 119185,
@@ -59987,6 +59995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93697,
+      "num": 93697,
+      "word": "樊振东心跳BoomBoom",
+      "onboard_time": 1766568320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93689,
       "num": 277383,
       "word": "唐国强用荣耀WIN再借东风",
@@ -61779,6 +61795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89764,
+      "num": 89764,
+      "word": "A股大金融板块异动",
+      "onboard_time": 1766569040,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89755,
       "num": 89755,
       "word": "奶茶删博",
@@ -62593,6 +62617,14 @@
       "onboard_time": 1764726080,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87511,
+      "num": 87511,
+      "word": "钎城红布蒙眼照",
+      "onboard_time": 1766569402,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 87455,
@@ -64793,6 +64825,14 @@
       "onboard_time": 1764513623,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81390,
+      "num": 81390,
+      "word": "妈妈的爱可以抵御千难万险",
+      "onboard_time": 1766568980,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 81374,
@@ -79812,7 +79852,7 @@
     },
     {
       "raw_hot": 26145,
-      "num": 354836,
+      "num": 358168,
       "word": "数读2025年中国经济活力",
       "onboard_time": 1766567662,
       "rank": 2,
@@ -81771,6 +81811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19564,
+      "num": 92315,
+      "word": "谁敢信任达华70岁了",
+      "onboard_time": 1766569281,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19487,
       "num": 31173,
       "word": "冬奥会冰壶落选赛",
@@ -83657,6 +83705,14 @@
       "onboard_time": 1765568775,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10819,
+      "num": 92879,
+      "word": "男子月薪3850给领导发5000红包",
+      "onboard_time": 1766569222,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10816,

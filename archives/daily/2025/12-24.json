@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766568757183,
+  "endTime": 1766569532539,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 940004,
+      "num": 527734,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 878378,
       "num": 392963,
       "word": "河南火灾班主任",
@@ -113,14 +121,6 @@
       "onboard_time": 1766562920,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 828417,
-      "num": 527734,
-      "word": "美国斩杀线",
-      "onboard_time": 1766550742,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 789368,
@@ -355,6 +355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 379064,
+      "num": 379064,
+      "word": "北京放宽非京籍家庭购房条件",
+      "onboard_time": 1766566401,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377193,
       "num": 301450,
       "word": "爱吃蛋",
@@ -385,14 +393,6 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358873,
-      "num": 358873,
-      "word": "北京放宽非京籍家庭购房条件",
-      "onboard_time": 1766566401,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351647,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290119,
+      "raw_hot": 293513,
       "num": 290119,
       "word": "翟俊杰去世",
       "onboard_time": 1766567001,
@@ -555,6 +555,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 261415,
+      "num": 261415,
+      "word": "肖战 娘家台给的底气",
+      "onboard_time": 1766568441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257296,
       "num": 234934,
       "word": "白鹿回应自驾开车",
@@ -611,12 +619,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232639,
-      "num": 232639,
-      "word": "肖战 娘家台给的底气",
-      "onboard_time": 1766568441,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 235654,
+      "num": 235654,
+      "word": "日网红夫妇在70度桑拿房中身亡",
+      "onboard_time": 1766565741,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232293,
@@ -689,6 +697,14 @@
       "onboard_time": 1766538202,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216175,
+      "num": 230867,
+      "word": "平安夜文案",
+      "onboard_time": 1766564182,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 212842,
@@ -795,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191984,
+      "num": 191984,
+      "word": "刘耀文哄五个哥哥容易还是六个哥哥容易",
+      "onboard_time": 1766569100,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191275,
       "num": 191275,
       "word": "骄阳似我",
@@ -817,6 +841,14 @@
       "onboard_time": 1766553023,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186385,
+      "num": 186385,
+      "word": "去世新生儿异常44分钟无人察觉",
+      "onboard_time": 1766567902,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185325,
@@ -1003,28 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159460,
-      "num": 230867,
-      "word": "平安夜文案",
-      "onboard_time": 1766564182,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156180,
       "num": 156180,
       "word": "林丹让蔡赟删掉视频",
       "onboard_time": 1766544981,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155593,
-      "num": 155593,
-      "word": "去世新生儿异常44分钟无人察觉",
-      "onboard_time": 1766567902,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155456,
@@ -1347,14 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133631,
-      "num": 214376,
-      "word": "日网红夫妇在70度桑拿房中身亡",
-      "onboard_time": 1766565741,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132464,
       "num": 158833,
       "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
@@ -1467,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125199,
+      "num": 119189,
+      "word": "萝卜纸巾 认知丰容",
+      "onboard_time": 1766568201,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125017,
       "num": 125017,
       "word": "吸毒人员至少半年不得进娱乐场所",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1766561300,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119189,
-      "num": 119189,
-      "word": "萝卜纸巾 认知丰容",
-      "onboard_time": 1766568201,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 118304,
@@ -1891,6 +1899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93697,
+      "num": 93697,
+      "word": "樊振东心跳BoomBoom",
+      "onboard_time": 1766568320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92032,
       "num": 105359,
       "word": "玉茗茶骨10秒扇了3巴掌",
@@ -1915,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89764,
+      "num": 89764,
+      "word": "A股大金融板块异动",
+      "onboard_time": 1766569040,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89523,
       "num": 227110,
       "word": "新生儿离世监控视频已封存",
@@ -1931,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88628,
+      "num": 88628,
+      "word": "00年出生的唯一红利",
+      "onboard_time": 1766569402,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88085,
       "num": 88085,
       "word": "金价",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1766565621,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87511,
+      "num": 87511,
+      "word": "钎城红布蒙眼照",
+      "onboard_time": 1766569402,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 86805,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1766495182,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81390,
+      "num": 81390,
+      "word": "妈妈的爱可以抵御千难万险",
+      "onboard_time": 1766568980,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 80699,
@@ -2620,7 +2668,7 @@
     },
     {
       "raw_hot": 26145,
-      "num": 354836,
+      "num": 358168,
       "word": "数读2025年中国经济活力",
       "onboard_time": 1766567662,
       "rank": 2,
@@ -2683,6 +2731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19564,
+      "num": 92315,
+      "word": "谁敢信任达华70岁了",
+      "onboard_time": 1766569281,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19472,
       "num": 33732,
       "word": "传播淫秽信息加大处罚专治擦边",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1766512218,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10819,
+      "num": 92879,
+      "word": "男子月薪3850给领导发5000红包",
+      "onboard_time": 1766569222,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8572,
