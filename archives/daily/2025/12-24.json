@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766548044424,
+  "endTime": 1766548933461,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1858575,
-      "num": 1858575,
+      "raw_hot": 2831195,
+      "num": 3162391,
       "word": "法工委回应吸毒记录封存相关问题",
       "onboard_time": 1766546962,
       "rank": 0,
@@ -35,12 +35,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 985119,
+      "num": 189504,
+      "word": "张百乔老婆整容",
+      "onboard_time": 1766547622,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 789368,
       "num": 172686,
       "word": "法医刘良团队提供小洛熙尸检报告",
       "onboard_time": 1766531117,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 787732,
+      "num": 787732,
+      "word": "关于吸毒记录封存的3点说明",
+      "onboard_time": 1766547202,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 767049,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 520008,
-      "num": 279160,
+      "num": 286939,
       "word": "小洛熙尸检未见冠状窦型房间隔缺损",
       "onboard_time": 1766538741,
       "rank": 32,
@@ -179,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 322682,
+      "num": 188299,
+      "word": "程晓玥自曝二胎胎儿偏大",
+      "onboard_time": 1766547681,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319733,
       "num": 773657,
       "word": "丽江公开发函喊话小红书",
@@ -195,8 +219,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281858,
-      "num": 281858,
+      "raw_hot": 287798,
+      "num": 287798,
+      "word": "循环酸奶",
+      "onboard_time": 1766547443,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 286585,
+      "num": 286585,
       "word": "东方卫视跨年阵容",
       "onboard_time": 1766545941,
       "rank": 8,
@@ -217,6 +249,14 @@
       "onboard_time": 1766534181,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 269357,
+      "num": 269357,
+      "word": "为什么海外华人感受不到斩杀线",
+      "onboard_time": 1766547202,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 263157,
@@ -347,22 +387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 219879,
-      "num": 219879,
-      "word": "关于吸毒记录封存的3点说明",
-      "onboard_time": 1766547202,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216775,
-      "num": 216775,
-      "word": "循环酸奶",
-      "onboard_time": 1766547443,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 212842,
       "num": 212842,
       "word": "迪丽热巴扑倒陈飞宇剧照",
@@ -379,12 +403,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205323,
-      "num": 205323,
-      "word": "为什么海外华人感受不到斩杀线",
-      "onboard_time": 1766547202,
-      "rank": 25,
-      "category": "海外新闻"
+      "raw_hot": 202521,
+      "num": 202521,
+      "word": "迪丽热巴时尚芭莎开年刊",
+      "onboard_time": 1766548824,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187665,
+      "num": 187665,
+      "word": "我不是药神原型现在怎么样了",
+      "onboard_time": 1766548403,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176710,
@@ -419,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168533,
+      "num": 168533,
+      "word": "拍蛇片把蛇搞丢的后果",
+      "onboard_time": 1766548704,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168347,
       "num": 160010,
       "word": "吴千语直播带货卖了1.5亿",
@@ -451,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165225,
-      "num": 165225,
-      "word": "程晓玥自曝二胎胎儿偏大",
-      "onboard_time": 1766547681,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160111,
       "num": 160111,
       "word": "骄阳似我",
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 152110,
-      "num": 152110,
+      "num": 163331,
       "word": "展轩抢票",
       "onboard_time": 1766547502,
       "rank": 41,
@@ -505,6 +537,22 @@
       "onboard_time": 1766537303,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 148413,
+      "num": 148413,
+      "word": "J人震惊P人认可",
+      "onboard_time": 1766548104,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146280,
+      "num": 146280,
+      "word": "新生儿医院去世涉事人员停职",
+      "onboard_time": 1766548343,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143003,
@@ -539,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139485,
-      "num": 165458,
-      "word": "张百乔老婆整容",
-      "onboard_time": 1766547622,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 139056,
+      "num": 139056,
+      "word": "黄轩同时包揽影帝视帝",
+      "onboard_time": 1766548643,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 137696,
@@ -553,6 +601,14 @@
       "onboard_time": 1766542521,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137523,
+      "num": 137523,
+      "word": "李承铉的爱太拿得出手了",
+      "onboard_time": 1766548223,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137457,
@@ -585,6 +641,14 @@
       "onboard_time": 1766542760,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131486,
+      "num": 168348,
+      "word": "赵今麦演我称体重",
+      "onboard_time": 1766547743,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 130470,
@@ -635,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120935,
+      "num": 120935,
+      "word": "苹果煮肉居然非常好吃",
+      "onboard_time": 1766546602,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120546,
       "num": 120546,
       "word": "黄金",
@@ -657,6 +729,14 @@
       "onboard_time": 1766546781,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114484,
+      "num": 286956,
+      "word": "国台办回应日本盯上在台湾的熊猫",
+      "onboard_time": 1766548162,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113245,
@@ -779,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94240,
+      "num": 168362,
+      "word": "宋威龙赵今麦婚后沙发吻",
+      "onboard_time": 1766548824,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91676,
       "num": 91676,
       "word": "仙逆呼声最高的男主",
@@ -868,7 +956,7 @@
     },
     {
       "raw_hot": 76363,
-      "num": 178189,
+      "num": 188466,
       "word": "何小鹏冰雪试驾X9超级增程直呼太稳了",
       "onboard_time": 1766545583,
       "rank": 27,
@@ -961,14 +1049,6 @@
       "onboard_time": 1766507000,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64042,
-      "num": 165600,
-      "word": "赵今麦演我称体重",
-      "onboard_time": 1766547743,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 64000,
@@ -1091,6 +1171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47533,
+      "num": 220849,
+      "word": "一小区4栋楼门前有超百个井盖",
+      "onboard_time": 1766547502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47455,
       "num": 53214,
       "word": "仙逆",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1766497282,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45794,
+      "num": 220244,
+      "word": "中国代表在安理会连说5个反对",
+      "onboard_time": 1766547141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45064,
@@ -1203,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30097,
+      "num": 189192,
+      "word": "餐饮行业使用肉宝王已有二十多年",
+      "onboard_time": 1766548704,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29597,
       "num": 228961,
       "word": "2026在高速服务区建超1万个充电枪",
@@ -1259,14 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22767,
-      "num": 220244,
-      "word": "中国代表在安理会连说5个反对",
-      "onboard_time": 1766547141,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22707,
       "num": 33738,
       "word": "中方回应美称中部署百余枚洲际导弹",
@@ -1283,11 +1379,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21699,
-      "num": 220849,
-      "word": "一小区4栋楼门前有超百个井盖",
-      "onboard_time": 1766547502,
-      "rank": 18,
+      "raw_hot": 20670,
+      "num": 168492,
+      "word": "杀害侄女男子2次精神鉴定均处发病期",
+      "onboard_time": 1766547862,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1353,14 +1449,6 @@
       "onboard_time": 1766470521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7223,
-      "num": 166131,
-      "word": "杀害侄女男子2次精神鉴定均处发病期",
-      "onboard_time": 1766547862,
-      "rank": 36,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
