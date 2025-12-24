@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766605099772,
+  "endTime": 1766608277238,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -84737,6 +84737,14 @@
       "onboard_time": 1766050460,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12923,
+      "num": 21976,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12908,

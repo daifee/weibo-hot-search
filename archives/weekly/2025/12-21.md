@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 03:38:19
+本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 04:31:17
 </p>
 </blockquote>
 <p>
@@ -11345,6 +11345,12 @@ deepseek崩了（热度：18326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E9%87%8D%E4%BC%A4%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A7%E5%B9%B4%E6%9C%AA%E5%85%AC%E5%B8%83%23" target="weibo">
 致学生坠楼重伤调查报告7年未公布（热度：13114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23" target="weibo">
+美国斩杀线的另一个名字叫资本主义（热度：12923）
 </a>
 </li>
 

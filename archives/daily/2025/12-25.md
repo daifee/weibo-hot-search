@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/25 00:35:04 ~ 2025/12/25 03:38:19
+本榜单时间：2025/12/25 00:35:04 ~ 2025/12/25 04:31:17
 </p>
 </blockquote>
 <p>
@@ -405,8 +405,20 @@ CMG国内十大体育新闻（热度：25788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23" target="weibo">
+美国斩杀线的另一个名字叫资本主义（热度：12923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%93%E5%8D%A1%E7%8E%A9%E6%B3%95%E5%8F%88%E5%8D%87%E7%BA%A7%E4%BA%86%23" target="weibo">
 冰雪大世界打卡玩法又升级了（热度：11158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%8E%B7%E5%88%91%23" target="weibo">
+黄子佼获刑（热度：11106）
 </a>
 </li>
 

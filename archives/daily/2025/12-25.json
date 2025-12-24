@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766605099772,
+  "endTime": 1766608277238,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -523,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12923,
+      "num": 21976,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11158,
       "num": 78568,
       "word": "冰雪大世界打卡玩法又升级了",
       "onboard_time": 1766583442,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11106,
+      "num": 21921,
+      "word": "黄子佼获刑",
+      "onboard_time": 1766580561,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
