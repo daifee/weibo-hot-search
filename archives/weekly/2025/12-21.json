@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766615293503,
+  "endTime": 1766616272060,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -5827,6 +5827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170613,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170565,
       "num": 170565,
       "word": "3种炎症拖着不管会致癌",
@@ -8857,14 +8865,6 @@
       "onboard_time": 1766294902,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116392,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116364,
@@ -12651,6 +12651,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 54640,
+      "num": 140135,
+      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+      "onboard_time": 1766574020,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 54558,
       "num": 137135,
       "word": "丞磊这是真热到了",
@@ -12793,14 +12801,6 @@
       "onboard_time": 1766377642,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51870,
-      "num": 140135,
-      "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
-      "onboard_time": 1766574020,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 51799,
@@ -14779,6 +14779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19893,
+      "num": 41325,
+      "word": "肖战我们不见不散",
+      "onboard_time": 1766599155,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19892,
       "num": 88404,
       "word": "雾凇",
@@ -14884,7 +14892,7 @@
     },
     {
       "raw_hot": 18535,
-      "num": 28507,
+      "num": 41228,
       "word": "成毅解读角色谢淮安",
       "onboard_time": 1766614695,
       "rank": 33,
@@ -14913,14 +14921,6 @@
       "onboard_time": 1766425157,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17928,
-      "num": 28490,
-      "word": "肖战我们不见不散",
-      "onboard_time": 1766599155,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 17763,
@@ -14953,6 +14953,14 @@
       "onboard_time": 1766337917,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17049,
+      "num": 41280,
+      "word": "破镜重圆只有三种可能",
+      "onboard_time": 1766610615,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 16956,
@@ -15067,6 +15075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14732,
+      "num": 41238,
+      "word": "美国斩杀线的另一个名字叫资本主义",
+      "onboard_time": 1766607013,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14658,
       "num": 15171,
       "word": "声鸣远扬",
@@ -15089,14 +15105,6 @@
       "onboard_time": 1766604314,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14249,
-      "num": 28281,
-      "word": "美国斩杀线的另一个名字叫资本主义",
-      "onboard_time": 1766607013,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14210,
@@ -15185,14 +15193,6 @@
       "onboard_time": 1766254516,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10679,
-      "num": 19113,
-      "word": "破镜重圆只有三种可能",
-      "onboard_time": 1766610615,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 8682,
