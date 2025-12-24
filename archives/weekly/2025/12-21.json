@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766533258539,
+  "endTime": 1766541899361,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -361,6 +361,14 @@
       "onboard_time": 1766401520,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 995792,
+      "num": 1159326,
+      "word": "专家建议尽量少用或不用肉宝王",
+      "onboard_time": 1766535802,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 995526,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579623,
+      "num": 579623,
+      "word": "NBA球员李凯尔国籍已改为美国",
+      "onboard_time": 1766537544,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577408,
       "num": 1092385,
       "word": "优衣库店长下达偷拍顾客指标",
@@ -1115,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551835,
+      "num": 551835,
+      "word": "年轻人把钱都穿在身上了",
+      "onboard_time": 1766539760,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 550632,
       "num": 256801,
       "word": "多个医生账号发手术室视频声援小洛熙",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1766396901,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528339,
+      "num": 528339,
+      "word": "阿信 跌倒了还被大家知道50岁",
+      "onboard_time": 1766537423,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 526573,
@@ -1739,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409418,
+      "num": 244147,
+      "word": "多方回应女婴尸检报告推翻医院诊断",
+      "onboard_time": 1766537423,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409107,
       "num": 409107,
       "word": "抗癌药平替有效成分为0",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1766406321,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389414,
+      "num": 389414,
+      "word": "老公还没准备好迎接第七个孩子",
+      "onboard_time": 1766536522,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 387336,
@@ -2163,12 +2211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339955,
+      "num": 121899,
+      "word": "学信网的含金量还在上升",
+      "onboard_time": 1766536401,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339704,
       "num": 339704,
       "word": "县城体制内女性找对象越来越难",
       "onboard_time": 1766465003,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338673,
+      "num": 240836,
+      "word": "爱吃蛋1分钟视频报价21万",
+      "onboard_time": 1766535502,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 338396,
@@ -2739,6 +2803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272749,
+      "num": 121051,
+      "word": "金价癫了",
+      "onboard_time": 1766534181,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 270563,
+      "num": 270563,
+      "word": "江西落水事故多名儿童遇难",
+      "onboard_time": 1766540421,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269659,
       "num": 269659,
       "word": "你可以考央丑了",
@@ -2812,7 +2892,7 @@
     },
     {
       "raw_hot": 261860,
-      "num": 160034,
+      "num": 171982,
       "word": "朝九晚九单休2500",
       "onboard_time": 1766520914,
       "rank": 31,
@@ -2955,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248048,
+      "num": 248048,
+      "word": "陈星旭周也王玉雯名场面外网火了",
+      "onboard_time": 1766534902,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247254,
       "num": 257899,
       "word": "黄金大涨原因",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1766282298,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240423,
+      "num": 240423,
+      "word": "庞铮只艾特贺峻霖是转移矛盾吗",
+      "onboard_time": 1766541202,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 239224,
@@ -3073,6 +3169,14 @@
       "onboard_time": 1766467161,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232293,
+      "num": 232293,
+      "word": "肖战堆的雪人倒了",
+      "onboard_time": 1766535680,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 232155,
@@ -3177,6 +3281,14 @@
       "onboard_time": 1766504005,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224868,
+      "num": 245812,
+      "word": "银价已暴涨近140%",
+      "onboard_time": 1766535921,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 224315,
@@ -5083,6 +5195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151923,
+      "num": 151923,
+      "word": "京东回应法国仓库失窃",
+      "onboard_time": 1766535080,
+      "rank": 15,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 151721,
       "num": 151721,
       "word": "庞铮1分钟视频报价3.5万",
@@ -5179,6 +5299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150090,
+      "num": 104183,
+      "word": "中方回应将允许韩流音乐等入华传言",
+      "onboard_time": 1766538202,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149976,
       "num": 149976,
       "word": "张淼怡看毛晓慧星星眼出来了",
@@ -5265,6 +5393,14 @@
       "onboard_time": 1766486900,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148412,
+      "num": 120110,
+      "word": "这届年轻人太懂快速保暖了",
+      "onboard_time": 1766537303,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 148144,
@@ -5915,6 +6051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135586,
+      "num": 135586,
+      "word": "利用率最高的蛋糕出现了",
+      "onboard_time": 1766538202,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135476,
       "num": 189967,
       "word": "官方通报独居女子离世遗产归公",
@@ -6267,6 +6411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127266,
+      "num": 127266,
+      "word": "闫妮首获金莲花最佳女主",
+      "onboard_time": 1766532017,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127258,
       "num": 127258,
       "word": "黄星如果没有进入这一行",
@@ -6539,6 +6691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122554,
+      "num": 122554,
+      "word": "复仇者联盟5",
+      "onboard_time": 1766540900,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122226,
       "num": 122226,
       "word": "朝陇山",
@@ -6713,6 +6873,14 @@
       "onboard_time": 1766278218,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118579,
+      "num": 104178,
+      "word": "车辆落水事故驾驶人为幼儿园园长",
+      "onboard_time": 1766541681,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118387,
@@ -6961,6 +7129,14 @@
       "onboard_time": 1766377401,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112657,
+      "num": 112657,
+      "word": "摸着鱼就把钱挣了",
+      "onboard_time": 1766540900,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 112649,
@@ -7267,6 +7443,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108245,
+      "num": 108245,
+      "word": "复联5",
+      "onboard_time": 1766538561,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108179,
       "num": 108179,
       "word": "金婧把周柯宇大头的衣服给了陈妍希",
@@ -7515,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104457,
+      "num": 104457,
+      "word": "多方回应27天婴儿治疗黄疸时死亡",
+      "onboard_time": 1766535201,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104363,
       "num": 104363,
       "word": "厂二代被父亲骂到闭麦",
@@ -7529,6 +7721,14 @@
       "onboard_time": 1766415923,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104070,
+      "num": 104070,
+      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
+      "onboard_time": 1766538741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104041,
@@ -7593,6 +7793,14 @@
       "onboard_time": 1766314282,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103205,
+      "num": 177823,
+      "word": "L3级自动驾驶专用正式号牌来了",
+      "onboard_time": 1766532439,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 103189,
@@ -7825,6 +8033,14 @@
       "onboard_time": 1766475741,
       "rank": 37,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 99927,
+      "num": 99927,
+      "word": "燕云十六声新外观",
+      "onboard_time": 1766535201,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 99926,
@@ -8219,14 +8435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92511,
-      "num": 177823,
-      "word": "L3级自动驾驶专用正式号牌来了",
-      "onboard_time": 1766532439,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 92481,
       "num": 92481,
       "word": "为弟追凶28年姐姐拍下嫌犯正面照",
@@ -8257,6 +8465,14 @@
       "onboard_time": 1766359879,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91635,
+      "num": 104198,
+      "word": "是否是亲生儿子已不重要",
+      "onboard_time": 1766537842,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91205,
@@ -8451,20 +8667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87663,
+      "num": 87663,
+      "word": "仙逆呼声最高的男主",
+      "onboard_time": 1766539102,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87220,
       "num": 151017,
       "word": "黄金巨头金雅福70亿理财爆雷",
       "onboard_time": 1766488941,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87150,
-      "num": 87150,
-      "word": "闫妮首获金莲花最佳女主",
-      "onboard_time": 1766532017,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 86883,
@@ -8489,6 +8705,14 @@
       "onboard_time": 1766493202,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85800,
+      "num": 85800,
+      "word": "何炅见海霞秒变迷弟",
+      "onboard_time": 1766539701,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 85368,
@@ -8571,6 +8795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84005,
+      "num": 84005,
+      "word": "王铮亮新家是所有男孩子的梦",
+      "onboard_time": 1766533220,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83973,
       "num": 83973,
       "word": "网传创造营女生季名单",
@@ -8585,6 +8817,14 @@
       "onboard_time": 1766419161,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 83763,
+      "num": 83763,
+      "word": "特朗普级战列舰",
+      "onboard_time": 1766541681,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83565,
@@ -8859,14 +9099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 75693,
-      "num": 75693,
-      "word": "王铮亮新家是所有男孩子的梦",
-      "onboard_time": 1766533220,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74872,
       "num": 74872,
       "word": "年度最受欢迎节目组合",
@@ -8963,6 +9195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 73699,
+      "num": 73699,
+      "word": "庞铮的专业素养",
+      "onboard_time": 1766540241,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73652,
       "num": 271954,
       "word": "曾因作风问题停职专家被安排坐诊",
@@ -8993,6 +9233,14 @@
       "onboard_time": 1766397920,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73068,
+      "num": 73068,
+      "word": "山东舞蹈统考第一名288",
+      "onboard_time": 1766539401,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 72848,
@@ -9568,6 +9816,14 @@
       "word": "哈尔滨冰雪大世界冰雕滴水",
       "onboard_time": 1766277979,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56057,
+      "num": 83691,
+      "word": "杀害9岁男孩凶手听到判决面无表情",
+      "onboard_time": 1766540360,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -10387,6 +10643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36928,
+      "num": 83771,
+      "word": "新疆活体帝王蟹进口破亿元",
+      "onboard_time": 1766540540,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36821,
       "num": 105817,
       "word": "温州一小区用手机微信当对讲门铃",
@@ -10545,6 +10809,14 @@
       "onboard_time": 1766236762,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34304,
+      "num": 83765,
+      "word": "美国飞手吐槽大疆无替代品",
+      "onboard_time": 1766540540,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34295,
@@ -10939,12 +11211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27530,
+      "num": 84009,
+      "word": "判决书详解女子家门口遇害案",
+      "onboard_time": 1766540540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27457,
       "num": 106108,
       "word": "高铁一等座是没有B座的",
       "onboard_time": 1766495301,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27188,
+      "num": 122253,
+      "word": "高市早苗掩耳盗铃",
+      "onboard_time": 1766540961,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27186,
@@ -11131,6 +11419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22637,
+      "num": 560425,
+      "word": "预计2025我国交通出行超660亿人次",
+      "onboard_time": 1766494762,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22468,
       "num": 47590,
       "word": "第5次考研女生吐槽题太难了",
@@ -11145,14 +11441,6 @@
       "onboard_time": 1766243543,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22259,
-      "num": 221320,
-      "word": "预计2025我国交通出行超660亿人次",
-      "onboard_time": 1766494762,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22102,
