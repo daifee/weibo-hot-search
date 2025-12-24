@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766541899361,
+  "endTime": 1766543316311,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -27,20 +27,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 767049,
+      "num": 283065,
+      "word": "多方回应女婴尸检报告推翻医院诊断",
+      "onboard_time": 1766537423,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628512,
+      "num": 551835,
+      "word": "年轻人把钱都穿在身上了",
+      "onboard_time": 1766539760,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 579623,
       "num": 579623,
       "word": "NBA球员李凯尔国籍已改为美国",
       "onboard_time": 1766537544,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551835,
-      "num": 551835,
-      "word": "年轻人把钱都穿在身上了",
-      "onboard_time": 1766539760,
-      "rank": 3,
-      "category": "时尚"
     },
     {
       "raw_hot": 528339,
@@ -52,18 +60,26 @@
     },
     {
       "raw_hot": 475427,
-      "num": 120315,
+      "num": 155126,
       "word": "杜克 一哥",
       "onboard_time": 1766502685,
       "rank": 21,
       "category": "网红"
     },
     {
-      "raw_hot": 409418,
-      "num": 244147,
-      "word": "多方回应女婴尸检报告推翻医院诊断",
-      "onboard_time": 1766537423,
-      "rank": 10,
+      "raw_hot": 474862,
+      "num": 474862,
+      "word": "致癌精子生197个孩子部分已离世",
+      "onboard_time": 1766542401,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 423273,
+      "num": 279160,
+      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
+      "onboard_time": 1766538741,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -100,15 +116,23 @@
     },
     {
       "raw_hot": 339955,
-      "num": 121899,
+      "num": 166926,
       "word": "学信网的含金量还在上升",
       "onboard_time": 1766536401,
       "rank": 20,
       "category": "幽默"
     },
     {
+      "raw_hot": 339101,
+      "num": 284157,
+      "word": "江西落水事故多名儿童遇难",
+      "onboard_time": 1766540421,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338673,
-      "num": 240836,
+      "num": 274421,
       "word": "爱吃蛋1分钟视频报价21万",
       "onboard_time": 1766535502,
       "rank": 11,
@@ -123,20 +147,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 298532,
+      "num": 298532,
+      "word": "陈星旭周也王玉雯名场面外网火了",
+      "onboard_time": 1766534902,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273336,
+      "num": 273336,
+      "word": "利用率最高的蛋糕出现了",
+      "onboard_time": 1766538202,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272749,
-      "num": 121051,
+      "num": 162680,
       "word": "金价癫了",
       "onboard_time": 1766534181,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 270563,
-      "num": 270563,
-      "word": "江西落水事故多名儿童遇难",
-      "onboard_time": 1766540421,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263157,
@@ -171,14 +203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 248048,
-      "num": 248048,
-      "word": "陈星旭周也王玉雯名场面外网火了",
-      "onboard_time": 1766534902,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240423,
       "num": 240423,
       "word": "庞铮只艾特贺峻霖是转移矛盾吗",
@@ -209,6 +233,14 @@
       "onboard_time": 1766535680,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230678,
+      "num": 230678,
+      "word": "橹穆彩排单膝下跪",
+      "onboard_time": 1766543119,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 225211,
@@ -243,6 +275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198907,
+      "num": 290717,
+      "word": "慕胥辞",
+      "onboard_time": 1766502985,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177004,
+      "num": 177004,
+      "word": "中方回应将允许韩流音乐等入华传言",
+      "onboard_time": 1766538202,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168347,
       "num": 160010,
       "word": "吴千语直播带货卖了1.5亿",
@@ -267,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153348,
+      "num": 153348,
+      "word": "哑舍编剧致歉",
+      "onboard_time": 1766542880,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151923,
       "num": 151923,
       "word": "京东回应法国仓库失窃",
@@ -283,16 +339,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150090,
-      "num": 104183,
-      "word": "中方回应将允许韩流音乐等入华传言",
-      "onboard_time": 1766538202,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 148412,
-      "num": 120110,
+      "raw_hot": 150860,
+      "num": 150860,
       "word": "这届年轻人太懂快速保暖了",
       "onboard_time": 1766537303,
       "rank": 23,
@@ -307,12 +355,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141974,
+      "num": 141974,
+      "word": "金饰价格涨到1411元",
+      "onboard_time": 1766542760,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141428,
       "num": 109350,
       "word": "宁波女婴术后离世医疗事故鉴定启动",
       "onboard_time": 1766482041,
       "rank": 22,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 140996,
+      "num": 140996,
+      "word": "肉宝王",
+      "onboard_time": 1766542820,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137696,
+      "num": 137696,
+      "word": "爸妈听不懂的词越来越多了",
+      "onboard_time": 1766542521,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 137457,
@@ -331,20 +403,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135586,
-      "num": 135586,
-      "word": "利用率最高的蛋糕出现了",
-      "onboard_time": 1766538202,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134395,
       "num": 139130,
       "word": "仙逆 影视化",
       "onboard_time": 1766484681,
       "rank": 9,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 133834,
+      "word": "外国博主来中国8年变懒了",
+      "onboard_time": 1766542760,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "复仇者联盟5",
+      "onboard_time": 1766540900,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 129692,
@@ -363,28 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122554,
-      "num": 122554,
-      "word": "复仇者联盟5",
-      "onboard_time": 1766540900,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 118579,
-      "num": 104178,
-      "word": "车辆落水事故驾驶人为幼儿园园长",
-      "onboard_time": 1766541681,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113391,
-      "num": 113391,
+      "raw_hot": 120546,
+      "num": 120546,
       "word": "黄金",
       "onboard_time": 1766540121,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118579,
+      "num": 112852,
+      "word": "车辆落水事故驾驶人为幼儿园园长",
+      "onboard_time": 1766541681,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113245,
@@ -435,27 +507,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108203,
-      "num": 108203,
-      "word": "慕胥辞",
-      "onboard_time": 1766502985,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104457,
       "num": 104457,
       "word": "多方回应27天婴儿治疗黄疸时死亡",
       "onboard_time": 1766535201,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104070,
-      "num": 104070,
-      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
-      "onboard_time": 1766538741,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -475,12 +531,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 102893,
+      "num": 102893,
+      "word": "迪丽热巴慕胥辞预约破300万跳舞",
+      "onboard_time": 1766542459,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101266,
+      "num": 101266,
+      "word": "特朗普级战列舰",
+      "onboard_time": 1766541681,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99927,
       "num": 99927,
       "word": "燕云十六声新外观",
       "onboard_time": 1766535201,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98793,
+      "num": 104198,
+      "word": "是否是亲生儿子已不重要",
+      "onboard_time": 1766537842,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97658,
@@ -491,12 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91635,
-      "num": 104198,
-      "word": "是否是亲生儿子已不重要",
-      "onboard_time": 1766537842,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 94954,
+      "num": 171713,
+      "word": "小米17Ultra红标徕卡版",
+      "onboard_time": 1766541921,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 91676,
+      "num": 91676,
+      "word": "仙逆呼声最高的男主",
+      "onboard_time": 1766539102,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 89138,
@@ -515,16 +603,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 87663,
-      "num": 87663,
-      "word": "仙逆呼声最高的男主",
-      "onboard_time": 1766539102,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 86805,
+      "num": 86805,
+      "word": "27天新生儿就医去世的最后44分钟",
+      "onboard_time": 1766536642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85800,
-      "num": 85800,
+      "num": 86802,
       "word": "何炅见海霞秒变迷弟",
       "onboard_time": 1766539701,
       "rank": 37,
@@ -553,14 +641,6 @@
       "onboard_time": 1766502685,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83763,
-      "num": 83763,
-      "word": "特朗普级战列舰",
-      "onboard_time": 1766541681,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81808,
@@ -596,7 +676,7 @@
     },
     {
       "raw_hot": 73699,
-      "num": 73699,
+      "num": 86780,
       "word": "庞铮的专业素养",
       "onboard_time": 1766540241,
       "rank": 47,
@@ -641,6 +721,14 @@
       "onboard_time": 1766506402,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68630,
+      "num": 86766,
+      "word": "35岁以后应该叫夹缝之年",
+      "onboard_time": 1766536943,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 66456,
@@ -867,6 +955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32480,
+      "num": 122253,
+      "word": "高市早苗掩耳盗铃",
+      "onboard_time": 1766540961,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32362,
       "num": 59432,
       "word": "秦岚 多大点事儿别哭",
@@ -913,14 +1009,6 @@
       "onboard_time": 1766540540,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27188,
-      "num": 122253,
-      "word": "高市早苗掩耳盗铃",
-      "onboard_time": 1766540961,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27186,

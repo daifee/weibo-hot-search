@@ -1,0 +1,410 @@
+{
+  "runTime": 1766543316311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 748612,
+        "num": 1119778,
+        "word": "专家建议尽量少用或不用肉宝王",
+        "onboard_time": 1766535802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515924,
+        "num": 515924,
+        "word": "NBA球员李凯尔国籍已改为美国",
+        "onboard_time": 1766537544,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20532,
+        "num": 486736,
+        "word": "预计2025我国交通出行超660亿人次",
+        "onboard_time": 1766494762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628512,
+        "num": 481267,
+        "word": "年轻人把钱都穿在身上了",
+        "onboard_time": 1766539760,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 474862,
+        "num": 474862,
+        "word": "致癌精子生197个孩子部分已离世",
+        "onboard_time": 1766542401,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386818,
+        "num": 386818,
+        "word": "阿信 跌倒了还被大家知道50岁",
+        "onboard_time": 1766537423,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298532,
+        "num": 298532,
+        "word": "陈星旭周也王玉雯名场面外网火了",
+        "onboard_time": 1766534902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293676,
+        "num": 293676,
+        "word": "老公还没准备好迎接第七个孩子",
+        "onboard_time": 1766536522,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198907,
+        "num": 290717,
+        "word": "慕胥辞",
+        "onboard_time": 1766502985,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339101,
+        "num": 284157,
+        "word": "江西落水事故多名儿童遇难",
+        "onboard_time": 1766540421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767049,
+        "num": 283065,
+        "word": "多方回应女婴尸检报告推翻医院诊断",
+        "onboard_time": 1766537423,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423273,
+        "num": 279160,
+        "word": "小洛熙尸检未见冠状窦型房间隔缺损",
+        "onboard_time": 1766538741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274421,
+        "num": 274421,
+        "word": "爱吃蛋1分钟视频报价21万",
+        "onboard_time": 1766535502,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273336,
+        "num": 273336,
+        "word": "利用率最高的蛋糕出现了",
+        "onboard_time": 1766538202,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230678,
+        "num": 230678,
+        "word": "橹穆彩排单膝下跪",
+        "onboard_time": 1766543119,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228219,
+        "num": 228219,
+        "word": "庞铮只艾特贺峻霖是转移矛盾吗",
+        "onboard_time": 1766541202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202127,
+        "num": 202127,
+        "word": "肖战堆的雪人倒了",
+        "onboard_time": 1766535680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193008,
+        "num": 193008,
+        "word": "银价已暴涨近140%",
+        "onboard_time": 1766535921,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177004,
+        "num": 177004,
+        "word": "中方回应将允许韩流音乐等入华传言",
+        "onboard_time": 1766538202,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94954,
+        "num": 171713,
+        "word": "小米17Ultra红标徕卡版",
+        "onboard_time": 1766541921,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253510,
+        "num": 166926,
+        "word": "学信网的含金量还在上升",
+        "onboard_time": 1766536401,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251017,
+        "num": 162680,
+        "word": "金价癫了",
+        "onboard_time": 1766534181,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190578,
+        "num": 155126,
+        "word": "杜克 一哥",
+        "onboard_time": 1766502685,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153348,
+        "num": 153348,
+        "word": "哑舍编剧致歉",
+        "onboard_time": 1766542880,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150860,
+        "num": 150860,
+        "word": "这届年轻人太懂快速保暖了",
+        "onboard_time": 1766537303,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150542,
+        "num": 150542,
+        "word": "朝九晚九单休2500",
+        "onboard_time": 1766520914,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 141974,
+        "num": 141974,
+        "word": "金饰价格涨到1411元",
+        "onboard_time": 1766542760,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140996,
+        "num": 140996,
+        "word": "肉宝王",
+        "onboard_time": 1766542820,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151179,
+        "num": 139800,
+        "word": "安徽27天新生儿住院治疗时去世",
+        "onboard_time": 1766499862,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "爸妈听不懂的词越来越多了",
+        "onboard_time": 1766542521,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133834,
+        "num": 133834,
+        "word": "外国博主来中国8年变懒了",
+        "onboard_time": 1766542760,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "复仇者联盟5",
+        "onboard_time": 1766540900,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120546,
+        "num": 120546,
+        "word": "黄金",
+        "onboard_time": 1766540121,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112852,
+        "num": 112852,
+        "word": "车辆落水事故驾驶人为幼儿园园长",
+        "onboard_time": 1766541681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106006,
+        "num": 106006,
+        "word": "京东回应法国仓库失窃",
+        "onboard_time": 1766535080,
+        "rank": 34,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 102893,
+        "num": 102893,
+        "word": "迪丽热巴慕胥辞预约破300万跳舞",
+        "onboard_time": 1766542459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101266,
+        "num": 101266,
+        "word": "特朗普级战列舰",
+        "onboard_time": 1766541681,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98793,
+        "num": 98793,
+        "word": "是否是亲生儿子已不重要",
+        "onboard_time": 1766537842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32480,
+        "num": 95188,
+        "word": "高市早苗掩耳盗铃",
+        "onboard_time": 1766540961,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91676,
+        "num": 91676,
+        "word": "仙逆呼声最高的男主",
+        "onboard_time": 1766539102,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89504,
+        "num": 89504,
+        "word": "燕云十六声新外观",
+        "onboard_time": 1766535201,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89138,
+        "num": 89138,
+        "word": "摸着鱼就把钱挣了",
+        "onboard_time": 1766540900,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89091,
+        "num": 89091,
+        "word": "闫妮首获金莲花最佳女主",
+        "onboard_time": 1766532017,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88321,
+        "num": 88321,
+        "word": "马龙妻子夏露跳舞太专业",
+        "onboard_time": 1766503046,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86805,
+        "num": 86805,
+        "word": "27天新生儿就医去世的最后44分钟",
+        "onboard_time": 1766536642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79780,
+        "num": 86802,
+        "word": "何炅见海霞秒变迷弟",
+        "onboard_time": 1766539701,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76583,
+        "num": 86791,
+        "word": "年度报告",
+        "onboard_time": 1766499502,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73286,
+        "num": 86780,
+        "word": "庞铮的专业素养",
+        "onboard_time": 1766540241,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70112,
+        "num": 86769,
+        "word": "王阳变成二胖了 你舅妈还是你舅妈",
+        "onboard_time": 1766501723,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68630,
+        "num": 86766,
+        "word": "35岁以后应该叫夹缝之年",
+        "onboard_time": 1766536943,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央企业要充分认识肩负的职责使命#"
+    }
+  }
+}
