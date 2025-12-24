@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766576438606,
+  "endTime": 1766580980867,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 818359,
-      "num": 201390,
+      "num": 245827,
       "word": "贾乃亮被曝售假事件反转",
       "onboard_time": 1766575282,
       "rank": 14,
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 575868,
+      "num": 260420,
+      "word": "贾霞老师救了100多名学生",
+      "onboard_time": 1766577921,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575306,
       "num": 575306,
       "word": "石家庄震感",
@@ -1571,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503023,
+      "num": 287763,
+      "word": "何与海外是真的火了",
+      "onboard_time": 1766578522,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502394,
       "num": 502394,
       "word": "李凯尔改回原名凯尔安德森",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1766301441,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 470606,
+      "num": 255636,
+      "word": "江西8人坠塘幼儿园长老公已被警方控制",
+      "onboard_time": 1766575642,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469925,
@@ -2441,6 +2465,14 @@
       "onboard_time": 1766472320,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359409,
+      "num": 270673,
+      "word": "非洲网红预言12月25日是世界末日",
+      "onboard_time": 1766574922,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 359186,
@@ -3547,6 +3579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249391,
+      "num": 249391,
+      "word": "言凤山没死",
+      "onboard_time": 1766577141,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249009,
       "num": 249009,
       "word": "孟子义李昀锐下台也牵着手",
@@ -3608,6 +3648,14 @@
       "word": "小洛熙事件涉事科室手术暂停不实",
       "onboard_time": 1766508798,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239111,
+      "num": 239111,
+      "word": "深圳地铁通报女子在隧道内拍照",
+      "onboard_time": 1766575521,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3851,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "顾漫女主运",
+      "onboard_time": 1766574742,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221452,
       "num": 221452,
       "word": "这是烤冷面那我以前吃的算什么",
@@ -4049,6 +4105,14 @@
       "onboard_time": 1766296224,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212401,
+      "num": 212401,
+      "word": "黄子佼获刑",
+      "onboard_time": 1766580561,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 211690,
@@ -4345,6 +4409,14 @@
       "onboard_time": 1766450241,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201503,
+      "num": 201503,
+      "word": "王俊凯上班主理人",
+      "onboard_time": 1766579781,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 201384,
@@ -4723,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192502,
+      "num": 192502,
+      "word": "明年起私生粉滋扰纠缠明星明确违法",
+      "onboard_time": 1766580262,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 192241,
       "num": 180583,
       "word": "骄阳似我抠图",
@@ -4977,6 +5057,14 @@
       "onboard_time": 1766398461,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186179,
+      "num": 186179,
+      "word": "长安二十四计 好大一个局",
+      "onboard_time": 1766579901,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 185860,
@@ -5347,6 +5435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176180,
+      "num": 176180,
+      "word": "金莎孙丞潇狙击蝴蝶照进现实",
+      "onboard_time": 1766577502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175926,
       "num": 175926,
       "word": "智能手机没出现前的卫生间",
@@ -5641,6 +5737,14 @@
       "onboard_time": 1766315182,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165380,
+      "num": 165380,
+      "word": "张曼玉牵狗上班",
+      "onboard_time": 1766580081,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 165329,
@@ -6059,6 +6163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "王俊凯开会照",
+      "onboard_time": 1766576961,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153528,
       "num": 153528,
       "word": "谭松韵新剧三人分饰一角",
@@ -6273,14 +6385,6 @@
       "onboard_time": 1766291599,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150109,
-      "num": 150109,
-      "word": "深圳地铁通报女子在隧道内拍照",
-      "onboard_time": 1766575521,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149976,
@@ -6609,14 +6713,6 @@
       "onboard_time": 1766471902,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143863,
-      "num": 136971,
-      "word": "江西8人坠塘幼儿园长老公已被警方控制",
-      "onboard_time": 1766575642,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143848,
@@ -6995,14 +7091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137557,
-      "num": 189332,
-      "word": "非洲网红预言12月25日是世界末日",
-      "onboard_time": 1766574922,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137546,
       "num": 260871,
       "word": "35岁就不配相亲了吗",
@@ -7041,6 +7129,14 @@
       "onboard_time": 1766558059,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137125,
+      "num": 125864,
+      "word": "on彩排",
+      "onboard_time": 1766580501,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 137052,
@@ -7305,6 +7401,14 @@
       "onboard_time": 1766375960,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133342,
+      "num": 123410,
+      "word": "陈都灵现代装也拍出了神性",
+      "onboard_time": 1766575521,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 132464,
@@ -7601,6 +7705,14 @@
       "onboard_time": 1766365581,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128162,
+      "num": 128162,
+      "word": "土耳其出现近700个巨大天坑",
+      "onboard_time": 1766579781,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127944,
@@ -7939,6 +8051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124365,
+      "num": 106951,
+      "word": "任达华女儿颜值",
+      "onboard_time": 1766576782,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124296,
       "num": 124296,
       "word": "李昀锐高珠",
@@ -7977,14 +8097,6 @@
       "onboard_time": 1766401640,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 123410,
-      "num": 123410,
-      "word": "陈都灵现代装也拍出了神性",
-      "onboard_time": 1766575521,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 123334,
@@ -9003,6 +9115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "不让我参赛我就帮中国夺冠",
+      "onboard_time": 1766576483,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107331,
       "num": 107331,
       "word": "6800元买走江南春图卷的顾客是谁",
@@ -9025,14 +9145,6 @@
       "onboard_time": 1766486602,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 107183,
-      "num": 107979,
-      "word": "顾漫女主运",
-      "onboard_time": 1766574742,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 107178,
@@ -9209,6 +9321,14 @@
       "onboard_time": 1766503167,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104694,
+      "num": 107934,
+      "word": "宋威龙现偶",
+      "onboard_time": 1766576362,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104669,
@@ -10115,6 +10235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92918,
+      "num": 92918,
+      "word": "赵今麦给宋威龙气坏了",
+      "onboard_time": 1766578761,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92693,
       "num": 92693,
       "word": "丁禹兮爆灯第一",
@@ -10315,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89208,
+      "num": 89208,
+      "word": "反人类暴行",
+      "onboard_time": 1766580262,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89138,
       "num": 89138,
       "word": "云旗郝熠然直播",
@@ -10435,6 +10571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87160,
+      "num": 87160,
+      "word": "李飞将勇闯kpop圈",
+      "onboard_time": 1766578281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86966,
       "num": 86966,
       "word": "人类飞天的秘密武器竟然是这",
@@ -10475,14 +10619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86607,
-      "num": 107934,
-      "word": "宋威龙现偶",
-      "onboard_time": 1766576362,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86539,
       "num": 116982,
       "word": "何以笙箫默的修罗场",
@@ -10497,6 +10633,14 @@
       "onboard_time": 1766539701,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85563,
+      "num": 106113,
+      "word": "国乒教练竞聘已有29人报名",
+      "onboard_time": 1766577381,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 85557,
@@ -10545,6 +10689,14 @@
       "onboard_time": 1766465602,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84897,
+      "num": 105968,
+      "word": "最想收到的苹果",
+      "onboard_time": 1766578642,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 84848,
@@ -10715,6 +10867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81773,
+      "num": 105518,
+      "word": "日本遗孤自取日本名纪念中国养父母",
+      "onboard_time": 1766580625,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81745,
       "num": 81745,
       "word": "樊振东当选欧冠本场最佳球员",
@@ -10883,6 +11043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78276,
+      "num": 101685,
+      "word": "仙剑三动画OST阵容",
+      "onboard_time": 1766580022,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 78195,
       "num": 78195,
       "word": "发明邪修卷发的人简直就是天才",
@@ -11025,6 +11193,14 @@
       "onboard_time": 1766461279,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74182,
+      "num": 100309,
+      "word": "27天婴儿治疗黄疸死亡三大疑问待解",
+      "onboard_time": 1766578642,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74040,
@@ -11971,6 +12147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51799,
+      "num": 136099,
+      "word": "男子头部被踹打两年后去世不予抗诉",
+      "onboard_time": 1766579242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51663,
       "num": 122082,
       "word": "被虐死女孩生母称自己也该被判刑",
@@ -12632,6 +12816,14 @@
       "word": "断骨增高术宣介在多平台重现",
       "onboard_time": 1766549903,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38364,
+      "num": 99618,
+      "word": "在零下10度的雪山看双子座流星雨",
+      "onboard_time": 1766579122,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -13521,6 +13713,14 @@
       "onboard_time": 1766388380,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24199,
+      "num": 190412,
+      "word": "垫资数百万承包高校餐厅被强制停业",
+      "onboard_time": 1766579842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24178,

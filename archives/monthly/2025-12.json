@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766576438606,
+  "endTime": 1766580980867,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3644,7 +3644,7 @@
     },
     {
       "raw_hot": 818359,
-      "num": 201390,
+      "num": 245827,
       "word": "贾乃亮被曝售假事件反转",
       "onboard_time": 1766575282,
       "rank": 14,
@@ -6675,6 +6675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 575868,
+      "num": 260420,
+      "word": "贾霞老师救了100多名学生",
+      "onboard_time": 1766577921,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575795,
       "num": 188819,
       "word": "锤娜丽莎体重反弹",
@@ -8491,6 +8499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503023,
+      "num": 287763,
+      "word": "何与海外是真的火了",
+      "onboard_time": 1766578522,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502734,
       "num": 300488,
       "word": "刘晓庆的骨密度居然和年轻人一样",
@@ -9553,6 +9569,14 @@
       "onboard_time": 1766301441,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 470606,
+      "num": 255636,
+      "word": "江西8人坠塘幼儿园长老公已被警方控制",
+      "onboard_time": 1766575642,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469925,
@@ -13889,6 +13913,14 @@
       "onboard_time": 1766036903,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359409,
+      "num": 270673,
+      "word": "非洲网红预言12月25日是世界末日",
+      "onboard_time": 1766574922,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 359186,
@@ -20371,6 +20403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249391,
+      "num": 249391,
+      "word": "言凤山没死",
+      "onboard_time": 1766577141,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249289,
       "num": 249289,
       "word": "5月龄女婴离世问责不是终点",
@@ -21153,6 +21193,14 @@
       "onboard_time": 1766214021,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239111,
+      "num": 239111,
+      "word": "深圳地铁通报女子在隧道内拍照",
+      "onboard_time": 1766575521,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238865,
@@ -22675,6 +22723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "顾漫女主运",
+      "onboard_time": 1766574742,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221565,
       "num": 136654,
       "word": "短剧可以不要虐待老人吗",
@@ -23697,6 +23753,14 @@
       "onboard_time": 1766296224,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212401,
+      "num": 212401,
+      "word": "黄子佼获刑",
+      "onboard_time": 1766580561,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 212320,
@@ -25603,6 +25667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201503,
+      "num": 201503,
+      "word": "王俊凯上班主理人",
+      "onboard_time": 1766579781,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201496,
       "num": 201496,
       "word": "虞书欣说今晚轻点虐暮暮",
@@ -27419,6 +27491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192502,
+      "num": 192502,
+      "word": "明年起私生粉滋扰纠缠明星明确违法",
+      "onboard_time": 1766580262,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 192396,
       "num": 178767,
       "word": "刘涛一条围巾戴了9年",
@@ -28793,6 +28873,14 @@
       "onboard_time": 1766398461,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186179,
+      "num": 186179,
+      "word": "长安二十四计 好大一个局",
+      "onboard_time": 1766579901,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 186159,
@@ -30753,6 +30841,14 @@
       "onboard_time": 1765701561,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176180,
+      "num": 176180,
+      "word": "金莎孙丞潇狙击蝴蝶照进现实",
+      "onboard_time": 1766577502,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 176087,
@@ -32841,6 +32937,14 @@
       "onboard_time": 1765361721,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165380,
+      "num": 165380,
+      "word": "张曼玉牵狗上班",
+      "onboard_time": 1766580081,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 165364,
@@ -35707,6 +35811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "王俊凯开会照",
+      "onboard_time": 1766576961,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153534,
       "num": 153534,
       "word": "向佐同时穿了男装和女装",
@@ -36753,14 +36865,6 @@
       "onboard_time": 1765023984,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150109,
-      "num": 150109,
-      "word": "深圳地铁通报女子在隧道内拍照",
-      "onboard_time": 1766575521,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150028,
@@ -38489,14 +38593,6 @@
       "onboard_time": 1765178359,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143863,
-      "num": 136971,
-      "word": "江西8人坠塘幼儿园长老公已被警方控制",
-      "onboard_time": 1766575642,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143849,
@@ -40659,14 +40755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137557,
-      "num": 189332,
-      "word": "非洲网红预言12月25日是世界末日",
-      "onboard_time": 1766574922,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137555,
       "num": 137555,
       "word": "怪不得以前管结婚叫找婆家",
@@ -40857,6 +40945,14 @@
       "onboard_time": 1765516521,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137125,
+      "num": 125864,
+      "word": "on彩排",
+      "onboard_time": 1766580501,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 137119,
@@ -42337,6 +42433,14 @@
       "onboard_time": 1765726223,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133342,
+      "num": 123410,
+      "word": "陈都灵现代装也拍出了神性",
+      "onboard_time": 1766575521,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133340,
@@ -44547,6 +44651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128162,
+      "num": 128162,
+      "word": "土耳其出现近700个巨大天坑",
+      "onboard_time": 1766579781,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128144,
       "num": 128144,
       "word": "广东一住宅火灾致8死",
@@ -45995,6 +46107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124365,
+      "num": 106951,
+      "word": "任达华女儿颜值",
+      "onboard_time": 1766576782,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124355,
       "num": 124355,
       "word": "喜欢拍照是高生命力的一种表现",
@@ -46449,14 +46569,6 @@
       "onboard_time": 1766235263,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123410,
-      "num": 123410,
-      "word": "陈都灵现代装也拍出了神性",
-      "onboard_time": 1766575521,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 123409,
@@ -53787,6 +53899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "不让我参赛我就帮中国夺冠",
+      "onboard_time": 1766576483,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107421,
       "num": 107421,
       "word": "芭莎艺术之夜",
@@ -53913,14 +54033,6 @@
       "onboard_time": 1766045721,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107183,
-      "num": 107979,
-      "word": "顾漫女主运",
-      "onboard_time": 1766574742,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 107178,
@@ -54993,6 +55105,14 @@
       "onboard_time": 1766503167,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104694,
+      "num": 107934,
+      "word": "宋威龙现偶",
+      "onboard_time": 1766576362,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104682,
@@ -60563,6 +60683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92918,
+      "num": 92918,
+      "word": "赵今麦给宋威龙气坏了",
+      "onboard_time": 1766578761,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92911,
       "num": 92911,
       "word": "永远在别人合照里找霍建华林心如",
@@ -63011,6 +63139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87160,
+      "num": 87160,
+      "word": "李飞将勇闯kpop圈",
+      "onboard_time": 1766578281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87100,
       "num": 87100,
       "word": "谁能先取消暂停广告放大",
@@ -63241,14 +63377,6 @@
       "onboard_time": 1764900920,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86607,
-      "num": 107934,
-      "word": "宋威龙现偶",
-      "onboard_time": 1766576362,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 86604,
@@ -63571,6 +63699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85563,
+      "num": 106113,
+      "word": "国乒教练竞聘已有29人报名",
+      "onboard_time": 1766577381,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85557,
       "num": 201068,
       "word": "不同价位羽绒服到底差别在哪",
@@ -63849,6 +63985,14 @@
       "onboard_time": 1764729321,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84897,
+      "num": 105968,
+      "word": "最想收到的苹果",
+      "onboard_time": 1766578642,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 84894,
@@ -65011,6 +65155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81773,
+      "num": 105518,
+      "word": "日本遗孤自取日本名纪念中国养父母",
+      "onboard_time": 1766580625,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81771,
       "num": 81771,
       "word": "三门峡一项目工程发生安全事故5人遇难",
@@ -65913,6 +66065,14 @@
       "onboard_time": 1764777380,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78276,
+      "num": 101685,
+      "word": "仙剑三动画OST阵容",
+      "onboard_time": 1766580022,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 78215,
@@ -67121,6 +67281,14 @@
       "onboard_time": 1764829220,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74182,
+      "num": 100309,
+      "word": "27天婴儿治疗黄疸死亡三大疑问待解",
+      "onboard_time": 1766578642,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74164,
@@ -72403,6 +72571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51799,
+      "num": 136099,
+      "word": "男子头部被踹打两年后去世不予抗诉",
+      "onboard_time": 1766579242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51762,
       "num": 134505,
       "word": "王俊凯粉丝给董子健发观演须知",
@@ -76185,6 +76361,14 @@
       "onboard_time": 1765791022,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38364,
+      "num": 99618,
+      "word": "在零下10度的雪山看双子座流星雨",
+      "onboard_time": 1766579122,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38360,
@@ -80961,6 +81145,14 @@
       "onboard_time": 1765682243,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24199,
+      "num": 190412,
+      "word": "垫资数百万承包高校餐厅被强制停业",
+      "onboard_time": 1766579842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24178,

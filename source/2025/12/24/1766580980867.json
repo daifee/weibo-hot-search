@@ -1,0 +1,410 @@
+{
+  "runTime": 1766580980867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627494,
+        "num": 1100399,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302065,
+        "num": 302065,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20421,
+        "num": 298437,
+        "word": "数读2025年中国经济活力",
+        "onboard_time": 1766567662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503023,
+        "num": 287763,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481410,
+        "num": 284876,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 433178,
+        "num": 275236,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 5,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 359409,
+        "num": 270673,
+        "word": "非洲网红预言12月25日是世界末日",
+        "onboard_time": 1766574922,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 575868,
+        "num": 260420,
+        "word": "贾霞老师救了100多名学生",
+        "onboard_time": 1766577921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470606,
+        "num": 255636,
+        "word": "江西8人坠塘幼儿园长老公已被警方控制",
+        "onboard_time": 1766575642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249391,
+        "num": 249391,
+        "word": "言凤山没死",
+        "onboard_time": 1766577141,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 797535,
+        "num": 245827,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 721299,
+        "num": 244909,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253974,
+        "num": 242167,
+        "word": "月薪3500双休要不要离职",
+        "onboard_time": 1766562920,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239111,
+        "num": 239111,
+        "word": "深圳地铁通报女子在隧道内拍照",
+        "onboard_time": 1766575521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221673,
+        "num": 221673,
+        "word": "顾漫女主运",
+        "onboard_time": 1766574742,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212401,
+        "num": 212401,
+        "word": "黄子佼获刑",
+        "onboard_time": 1766580561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201503,
+        "num": 201503,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192502,
+        "num": 192502,
+        "word": "明年起私生粉滋扰纠缠明星明确违法",
+        "onboard_time": 1766580262,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 191822,
+        "word": "这是烤冷面那我以前吃的算什么",
+        "onboard_time": 1766573062,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24199,
+        "num": 190412,
+        "word": "垫资数百万承包高校餐厅被强制停业",
+        "onboard_time": 1766579842,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905702,
+        "num": 190309,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330794,
+        "num": 189089,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244360,
+        "num": 188112,
+        "word": "宁静自曝生完孩子体质变差",
+        "onboard_time": 1766573601,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193143,
+        "num": 186890,
+        "word": "通知李飞时代峰峻改名了",
+        "onboard_time": 1766574321,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186179,
+        "num": 186179,
+        "word": "长安二十四计 好大一个局",
+        "onboard_time": 1766579901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176180,
+        "num": 176180,
+        "word": "金莎孙丞潇狙击蝴蝶照进现实",
+        "onboard_time": 1766577502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165380,
+        "num": 165380,
+        "word": "张曼玉牵狗上班",
+        "onboard_time": 1766580081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153543,
+        "num": 153543,
+        "word": "王俊凯开会照",
+        "onboard_time": 1766576961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51799,
+        "num": 136099,
+        "word": "男子头部被踹打两年后去世不予抗诉",
+        "onboard_time": 1766579242,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128162,
+        "num": 128162,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138143,
+        "num": 127051,
+        "word": "肖战 娘家台给的底气",
+        "onboard_time": 1766568441,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137125,
+        "num": 125864,
+        "word": "on彩排",
+        "onboard_time": 1766580501,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133342,
+        "num": 120009,
+        "word": "陈都灵现代装也拍出了神性",
+        "onboard_time": 1766575521,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107423,
+        "num": 107423,
+        "word": "不让我参赛我就帮中国夺冠",
+        "onboard_time": 1766576483,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88035,
+        "num": 107398,
+        "word": "台湾地震",
+        "onboard_time": 1766570122,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124365,
+        "num": 106951,
+        "word": "任达华女儿颜值",
+        "onboard_time": 1766576782,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85563,
+        "num": 106113,
+        "word": "国乒教练竞聘已有29人报名",
+        "onboard_time": 1766577381,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84897,
+        "num": 105968,
+        "word": "最想收到的苹果",
+        "onboard_time": 1766578642,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81773,
+        "num": 105518,
+        "word": "日本遗孤自取日本名纪念中国养父母",
+        "onboard_time": 1766580625,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115721,
+        "num": 105015,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104694,
+        "num": 104694,
+        "word": "宋威龙现偶",
+        "onboard_time": 1766576362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78276,
+        "num": 101685,
+        "word": "仙剑三动画OST阵容",
+        "onboard_time": 1766580022,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 74182,
+        "num": 100309,
+        "word": "27天婴儿治疗黄疸死亡三大疑问待解",
+        "onboard_time": 1766578642,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38364,
+        "num": 99618,
+        "word": "在零下10度的雪山看双子座流星雨",
+        "onboard_time": 1766579122,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99533,
+        "num": 99533,
+        "word": "翟俊杰去世",
+        "onboard_time": 1766567001,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92918,
+        "num": 92918,
+        "word": "赵今麦给宋威龙气坏了",
+        "onboard_time": 1766578761,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89208,
+        "num": 89208,
+        "word": "反人类暴行",
+        "onboard_time": 1766580262,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41124,
+        "num": 88439,
+        "word": "全球极寒地10件有7件波司登",
+        "onboard_time": 1766576243,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 87848,
+        "num": 87848,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87160,
+        "num": 87160,
+        "word": "李飞将勇闯kpop圈",
+        "onboard_time": 1766578281,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上中央企业怎么干#"
+    }
+  }
+}

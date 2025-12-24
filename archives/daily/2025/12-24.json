@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766576438606,
+  "endTime": 1766580980867,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 818359,
-      "num": 201390,
+      "num": 245827,
       "word": "贾乃亮被曝售假事件反转",
       "onboard_time": 1766575282,
       "rank": 14,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 575868,
+      "num": 260420,
+      "word": "贾霞老师救了100多名学生",
+      "onboard_time": 1766577921,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551339,
       "num": 551339,
       "word": "我不是药神原型现在怎么样了",
@@ -280,6 +288,14 @@
       "word": "赵丽颖客串谭松韵新剧",
       "onboard_time": 1766558122,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 503023,
+      "num": 287763,
+      "word": "何与海外是真的火了",
+      "onboard_time": 1766578522,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -321,6 +337,14 @@
       "onboard_time": 1766502685,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 470606,
+      "num": 255636,
+      "word": "江西8人坠塘幼儿园长老公已被警方控制",
+      "onboard_time": 1766575642,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455977,
@@ -465,6 +489,14 @@
       "onboard_time": 1766552365,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359409,
+      "num": 270673,
+      "word": "非洲网红预言12月25日是世界末日",
+      "onboard_time": 1766574922,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 355827,
@@ -699,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249391,
+      "num": 249391,
+      "word": "言凤山没死",
+      "onboard_time": 1766577141,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240423,
       "num": 240423,
       "word": "庞铮只艾特贺峻霖是转移矛盾吗",
@@ -712,6 +752,14 @@
       "word": "小洛熙事件涉事科室手术暂停不实",
       "onboard_time": 1766508798,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239111,
+      "num": 239111,
+      "word": "深圳地铁通报女子在隧道内拍照",
+      "onboard_time": 1766575521,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -795,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "顾漫女主运",
+      "onboard_time": 1766574742,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221452,
       "num": 221452,
       "word": "这是烤冷面那我以前吃的算什么",
@@ -825,6 +881,14 @@
       "onboard_time": 1766546901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212401,
+      "num": 212401,
+      "word": "黄子佼获刑",
+      "onboard_time": 1766580561,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 211690,
@@ -873,6 +937,14 @@
       "onboard_time": 1766560520,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201503,
+      "num": 201503,
+      "word": "王俊凯上班主理人",
+      "onboard_time": 1766579781,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 201194,
@@ -947,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192502,
+      "num": 192502,
+      "word": "明年起私生粉滋扰纠缠明星明确违法",
+      "onboard_time": 1766580262,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 191984,
       "num": 191984,
       "word": "刘耀文哄五个哥哥容易还是六个哥哥容易",
@@ -976,6 +1056,14 @@
       "word": "唐嫣明媚暗黑反差感",
       "onboard_time": 1766553023,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186179,
+      "num": 186179,
+      "word": "长安二十四计 好大一个局",
+      "onboard_time": 1766579901,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1041,6 +1129,14 @@
       "onboard_time": 1766572101,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176180,
+      "num": 176180,
+      "word": "金莎孙丞潇狙击蝴蝶照进现实",
+      "onboard_time": 1766577502,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 175845,
@@ -1139,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165380,
+      "num": 165380,
+      "word": "张曼玉牵狗上班",
+      "onboard_time": 1766580081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165329,
       "num": 165329,
       "word": "王楚钦蝉联男子单打年终世界第一",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1766553922,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "王俊凯开会照",
+      "onboard_time": 1766576961,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 153528,
@@ -1275,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150109,
-      "num": 150109,
-      "word": "深圳地铁通报女子在隧道内拍照",
-      "onboard_time": 1766575521,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148413,
       "num": 148413,
       "word": "J人震惊P人认可",
@@ -1329,14 +1433,6 @@
       "onboard_time": 1766556202,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143863,
-      "num": 136971,
-      "word": "江西8人坠塘幼儿园长老公已被警方控制",
-      "onboard_time": 1766575642,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143804,
@@ -1419,14 +1515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137557,
-      "num": 189332,
-      "word": "非洲网红预言12月25日是世界末日",
-      "onboard_time": 1766574922,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137523,
       "num": 137523,
       "word": "李承铉的爱太拿得出手了",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1766558059,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137125,
+      "num": 125864,
+      "word": "on彩排",
+      "onboard_time": 1766580501,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 136542,
@@ -1547,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133342,
+      "num": 123410,
+      "word": "陈都灵现代装也拍出了神性",
+      "onboard_time": 1766575521,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132464,
       "num": 158833,
       "word": "费启鸣新剧海市蜃楼豆瓣开分8.1",
@@ -1601,6 +1705,14 @@
       "onboard_time": 1766499502,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128162,
+      "num": 128162,
+      "word": "土耳其出现近700个巨大天坑",
+      "onboard_time": 1766579781,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127937,
@@ -1707,11 +1819,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123410,
-      "num": 123410,
-      "word": "陈都灵现代装也拍出了神性",
-      "onboard_time": 1766575521,
-      "rank": 48,
+      "raw_hot": 124365,
+      "num": 106951,
+      "word": "任达华女儿颜值",
+      "onboard_time": 1766576782,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1955,12 +2067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107183,
-      "num": 107979,
-      "word": "顾漫女主运",
-      "onboard_time": 1766574742,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "不让我参赛我就帮中国夺冠",
+      "onboard_time": 1766576483,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 105377,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1766561541,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104694,
+      "num": 107934,
+      "word": "宋威龙现偶",
+      "onboard_time": 1766576362,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104552,
@@ -2195,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92918,
+      "num": 92918,
+      "word": "赵今麦给宋威龙气坏了",
+      "onboard_time": 1766578761,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92032,
       "num": 105359,
       "word": "玉茗茶骨10秒扇了3巴掌",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1766553023,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89208,
+      "num": 89208,
+      "word": "反人类暴行",
+      "onboard_time": 1766580262,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 89138,
@@ -2291,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87160,
+      "num": 87160,
+      "word": "李飞将勇闯kpop圈",
+      "onboard_time": 1766578281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86966,
       "num": 86966,
       "word": "人类飞天的秘密武器竟然是这",
@@ -2305,14 +2449,6 @@
       "onboard_time": 1766536642,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86607,
-      "num": 107934,
-      "word": "宋威龙现偶",
-      "onboard_time": 1766576362,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 86539,
@@ -2331,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85563,
+      "num": 106113,
+      "word": "国乒教练竞聘已有29人报名",
+      "onboard_time": 1766577381,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85557,
       "num": 201068,
       "word": "不同价位羽绒服到底差别在哪",
@@ -2345,6 +2489,14 @@
       "onboard_time": 1766576183,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84897,
+      "num": 105968,
+      "word": "最想收到的苹果",
+      "onboard_time": 1766578642,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 84849,
@@ -2395,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81773,
+      "num": 105518,
+      "word": "日本遗孤自取日本名纪念中国养父母",
+      "onboard_time": 1766580625,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81390,
       "num": 81390,
       "word": "妈妈的爱可以抵御千难万险",
@@ -2433,6 +2593,14 @@
       "onboard_time": 1766566762,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78276,
+      "num": 101685,
+      "word": "仙剑三动画OST阵容",
+      "onboard_time": 1766580022,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 76875,
@@ -2481,6 +2649,14 @@
       "onboard_time": 1766576121,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74182,
+      "num": 100309,
+      "word": "27天婴儿治疗黄疸死亡三大疑问待解",
+      "onboard_time": 1766578642,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 73699,
@@ -2779,6 +2955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51799,
+      "num": 136099,
+      "word": "男子头部被踹打两年后去世不予抗诉",
+      "onboard_time": 1766579242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50700,
       "num": 60829,
       "word": "唐诡的产量速度太惊人了",
@@ -2936,6 +3120,14 @@
       "word": "断骨增高术宣介在多平台重现",
       "onboard_time": 1766549903,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38364,
+      "num": 99618,
+      "word": "在零下10度的雪山看双子座流星雨",
+      "onboard_time": 1766579122,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3121,6 +3313,14 @@
       "onboard_time": 1766494762,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24199,
+      "num": 190412,
+      "word": "垫资数百万承包高校餐厅被强制停业",
+      "onboard_time": 1766579842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23735,
