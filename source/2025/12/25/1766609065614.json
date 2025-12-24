@@ -1,0 +1,410 @@
+{
+  "runTime": 1766609065614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67048,
+        "num": 67048,
+        "word": "高市早苗又放话了",
+        "onboard_time": 1766585483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48682,
+        "num": 48682,
+        "word": "日本一无人岛密密麻麻都是北海狮",
+        "onboard_time": 1766588601,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8115,
+        "num": 37695,
+        "word": "冰雪大世界打卡玩法又升级了",
+        "onboard_time": 1766583442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37235,
+        "num": 37235,
+        "word": "美国网红称他在旧金山快活不下去了",
+        "onboard_time": 1766583263,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33153,
+        "num": 33153,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 4,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 45394,
+        "num": 32536,
+        "word": "女子早高峰占电梯被推出去后厮打",
+        "onboard_time": 1766591422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28023,
+        "num": 28023,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22249,
+        "num": 22249,
+        "word": "山东录用公务员前将核查网络言论",
+        "onboard_time": 1766581043,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21923,
+        "num": 21923,
+        "word": "胖东来售卖梅西签名球衣",
+        "onboard_time": 1766588783,
+        "rank": 8,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 18302,
+        "num": 21920,
+        "word": "吸毒记录封存不是消除删除记录",
+        "onboard_time": 1766595257,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41377,
+        "num": 21909,
+        "word": "黄多多和狗狗拍照",
+        "onboard_time": 1766591660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39018,
+        "num": 21893,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766586682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29444,
+        "num": 21883,
+        "word": "朱孝天疑似明涵阿信",
+        "onboard_time": 1766588003,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27596,
+        "num": 21882,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 25858,
+        "num": 21863,
+        "word": "建议别在东北cos尼克狐尼克",
+        "onboard_time": 1766591781,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24839,
+        "num": 21862,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22406,
+        "num": 21852,
+        "word": "周杰伦昆凌情侣装合照",
+        "onboard_time": 1766593099,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 21833,
+        "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+        "onboard_time": 1766581762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16231,
+        "num": 21829,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16132,
+        "num": 21820,
+        "word": "长津湖",
+        "onboard_time": 1766583322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56321,
+        "num": 21810,
+        "word": "曝男顶流拍戏受伤",
+        "onboard_time": 1766589562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22921,
+        "num": 21792,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17667,
+        "num": 21790,
+        "word": "一斤油一斤半面粉",
+        "onboard_time": 1766587044,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16510,
+        "num": 21779,
+        "word": "第八集吻上宋威龙了",
+        "onboard_time": 1766584702,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16025,
+        "num": 21767,
+        "word": "黄朔直播",
+        "onboard_time": 1766588182,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15777,
+        "num": 21754,
+        "word": "落空直播",
+        "onboard_time": 1766592260,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15683,
+        "num": 21744,
+        "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+        "onboard_time": 1766574020,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14819,
+        "num": 21734,
+        "word": "橹穆来自天堂的魔鬼舞台彩排",
+        "onboard_time": 1766591001,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14548,
+        "num": 21725,
+        "word": "情侣间发送亲密照片没有社会危害性",
+        "onboard_time": 1766590701,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14478,
+        "num": 21716,
+        "word": "TVB女演员钟丽淇女儿患罕见病",
+        "onboard_time": 1766582542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14407,
+        "num": 21702,
+        "word": "马面裙才是马年的本命战袍",
+        "onboard_time": 1766588601,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14255,
+        "num": 21693,
+        "word": "我们的明天",
+        "onboard_time": 1766582602,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13696,
+        "num": 21689,
+        "word": "高端餐厅要价12000的辣椒炒牛",
+        "onboard_time": 1766587883,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 21676,
+        "word": "肖战我们不见不散",
+        "onboard_time": 1766599155,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13469,
+        "num": 21666,
+        "word": "明年起私生粉滋扰纠缠明星明确违法",
+        "onboard_time": 1766580262,
+        "rank": 34,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 13454,
+        "num": 21654,
+        "word": "白鹿让我研究研究这个阶梯",
+        "onboard_time": 1766592080,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13447,
+        "num": 21648,
+        "word": "贾霞老师58岁了",
+        "onboard_time": 1766587883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13022,
+        "num": 21637,
+        "word": "美国斩杀线的另一个名字叫资本主义",
+        "onboard_time": 1766607013,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12663,
+        "num": 21621,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12522,
+        "num": 21611,
+        "word": "人之初",
+        "onboard_time": 1766588482,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12277,
+        "num": 21605,
+        "word": "骄阳似我预告",
+        "onboard_time": 1766590281,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11855,
+        "num": 21592,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11724,
+        "num": 21586,
+        "word": "BLG连续被零封",
+        "onboard_time": 1766587162,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11581,
+        "num": 21572,
+        "word": "强生上诉",
+        "onboard_time": 1766584342,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11083,
+        "num": 21564,
+        "word": "有网友晒白银LOF套利500赚350",
+        "onboard_time": 1766591240,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 10958,
+        "num": 21553,
+        "word": "黄子佼获刑",
+        "onboard_time": 1766580561,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10592,
+        "num": 21540,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10325,
+        "num": 21530,
+        "word": "金莎孙丞潇狙击蝴蝶照进现实",
+        "onboard_time": 1766577502,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9890,
+        "num": 21526,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9652,
+        "num": 21511,
+        "word": "福建舰内部画面",
+        "onboard_time": 1766589920,
+        "rank": 49,
+        "category": "军事,国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}
