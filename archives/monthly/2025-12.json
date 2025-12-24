@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766561470345,
+  "endTime": 1766562274538,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3867,6 +3867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 782794,
+      "num": 460142,
+      "word": "杨天真被诈骗",
+      "onboard_time": 1766560940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 780807,
       "num": 250072,
       "word": "别人感谢粉丝 李昀锐感谢孟子义",
@@ -4345,6 +4353,14 @@
       "onboard_time": 1765872442,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722468,
+      "num": 452571,
+      "word": "张子枫手臂上好大一个疤",
+      "onboard_time": 1766560881,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 720375,
@@ -9932,7 +9948,7 @@
     },
     {
       "raw_hot": 455977,
-      "num": 409039,
+      "num": 471181,
       "word": "短剧一姐的含金量",
       "onboard_time": 1766552183,
       "rank": 25,
@@ -10291,6 +10307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446583,
+      "num": 446583,
+      "word": "班主任疑协助百名师生逃生后仍被判刑",
+      "onboard_time": 1766558902,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446531,
       "num": 237246,
       "word": "姜暮下跪",
@@ -10513,14 +10537,6 @@
       "onboard_time": 1766064021,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 438850,
-      "num": 304491,
-      "word": "班主任疑协助百名师生逃生后仍被判刑",
-      "onboard_time": 1766558902,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438654,
@@ -11569,6 +11585,14 @@
       "onboard_time": 1765085001,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410582,
+      "num": 410582,
+      "word": "迅猛龙一年点了459次奶茶",
+      "onboard_time": 1766560761,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 410498,
@@ -13043,14 +13067,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 377425,
-      "num": 301509,
-      "word": "张子枫手臂上好大一个疤",
-      "onboard_time": 1766560881,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377317,
       "num": 315858,
       "word": "为什么我们停止不了视奸",
@@ -14473,6 +14489,14 @@
       "onboard_time": 1765088900,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344448,
+      "num": 489354,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 344022,
@@ -16299,14 +16323,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 310280,
-      "num": 310280,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 310222,
       "num": 310222,
       "word": "小洛熙事件手术监控摄像配置合规",
@@ -16985,14 +17001,6 @@
       "onboard_time": 1765007842,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297672,
-      "num": 297672,
-      "word": "杨天真被诈骗",
-      "onboard_time": 1766560940,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 297530,
@@ -21723,14 +21731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230455,
-      "num": 230455,
-      "word": "迅猛龙一年点了459次奶茶",
-      "onboard_time": 1766560761,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 230213,
       "num": 89970,
       "word": "宁波妇儿医院",
@@ -25865,6 +25865,14 @@
       "onboard_time": 1764761781,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199092,
+      "num": 199092,
+      "word": "张远在韩人脉",
+      "onboard_time": 1766561300,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199063,
@@ -35771,6 +35779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152749,
+      "num": 152749,
+      "word": "年轻人攒黄金真的会上瘾",
+      "onboard_time": 1766561661,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152743,
       "num": 152743,
       "word": "王一博吃个海鲜斧子都用上了",
@@ -38819,6 +38835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142147,
+      "num": 142147,
+      "word": "外面的世界已经进化成这样了",
+      "onboard_time": 1766561300,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142075,
       "num": 167361,
       "word": "龚俊紧急撤回一个李乃文摆拍",
@@ -40739,6 +40763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136508,
+      "num": 136508,
+      "word": "TFBOYS没见过系列",
+      "onboard_time": 1766559860,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136495,
       "num": 136495,
       "word": "TGA2025最佳独立游戏",
@@ -41473,6 +41505,14 @@
       "onboard_time": 1765408278,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134611,
+      "num": 134611,
+      "word": "网红辛巴退网后首次出镜",
+      "onboard_time": 1766561720,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 134539,
@@ -43899,14 +43939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128775,
-      "num": 128775,
-      "word": "TFBOYS没见过系列",
-      "onboard_time": 1766559860,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128772,
       "num": 139268,
       "word": "高薪岗位TOP20平均月薪超6万",
@@ -44449,14 +44481,6 @@
       "onboard_time": 1765521021,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127298,
-      "num": 127298,
-      "word": "张远在韩人脉",
-      "onboard_time": 1766561300,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 127288,
@@ -47683,14 +47707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119602,
-      "num": 119602,
-      "word": "外面的世界已经进化成这样了",
-      "onboard_time": 1766561300,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119588,
       "num": 119588,
       "word": "在吃瓜这一块有的是力气和手段",
@@ -47913,6 +47929,14 @@
       "onboard_time": 1765081820,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119201,
+      "num": 119201,
+      "word": "iPhone18Pro配色预测",
+      "onboard_time": 1766561300,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 119185,
@@ -49585,14 +49609,6 @@
       "onboard_time": 1764993261,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115430,
-      "num": 115430,
-      "word": "iPhone18Pro配色预测",
-      "onboard_time": 1766561300,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 115412,
@@ -54451,6 +54467,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104700,
+      "num": 104700,
+      "word": "我只是帮她买了个奶瓶",
+      "onboard_time": 1766561541,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104696,
       "num": 129805,
       "word": "AG歼灭胜利晋级",
@@ -58531,6 +58555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96545,
+      "num": 423974,
+      "word": "靖国神社被起诉",
+      "onboard_time": 1766560822,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96518,
       "num": 96518,
       "word": "年龄算什么啊永远不会太晚",
@@ -61577,6 +61609,14 @@
       "onboard_time": 1765602560,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89400,
+      "num": 120465,
+      "word": "网友估算河南火灾班主任工作近15小时",
+      "onboard_time": 1766561600,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89389,
@@ -70019,6 +70059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57879,
+      "num": 182336,
+      "word": "央视起底外国山海经",
+      "onboard_time": 1766560881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57860,
       "num": 204360,
       "word": "大厂员工们正在帮AI取代自己",
@@ -77131,14 +77179,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 32762,
-      "num": 306016,
-      "word": "靖国神社被起诉",
-      "onboard_time": 1766560822,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32756,
       "num": 169983,
       "word": "湖南怀化贩婴案18名嫌疑人被抓",
@@ -79363,14 +79403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26194,
-      "num": 182336,
-      "word": "央视起底外国山海经",
-      "onboard_time": 1766560881,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26164,
       "num": 146800,
       "word": "成都小伙为一棵树拨打12345",
@@ -80928,6 +80960,14 @@
       "word": "北京范儿",
       "onboard_time": 1766363660,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21094,
+      "num": 121081,
+      "word": "寻子21年的汪雨雷妈妈找到孩子",
+      "onboard_time": 1766561781,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -83179,6 +83219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11084,
+      "num": 119555,
+      "word": "女演员自曝被粉丝跟踪6年",
+      "onboard_time": 1766562141,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11043,
       "num": 19672,
       "word": "熊黑 永远怀疑永远被骗",
@@ -83408,6 +83456,14 @@
       "word": "网约公寓柜橱里惊现前住客情趣用品",
       "onboard_time": 1766299762,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8572,
+      "num": 119928,
+      "word": "我国19岁以下癌症5年生存率超七成",
+      "onboard_time": 1766562141,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
