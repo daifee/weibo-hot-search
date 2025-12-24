@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766559472505,
+  "endTime": 1766561470345,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1803,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438850,
+      "num": 304491,
+      "word": "班主任疑协助百名师生逃生后仍被判刑",
+      "onboard_time": 1766558902,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435387,
       "num": 435387,
       "word": "湖南卫视跨年全阵容",
@@ -2179,8 +2187,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377425,
+      "num": 301509,
+      "word": "张子枫手臂上好大一个疤",
+      "onboard_time": 1766560881,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377193,
-      "num": 280351,
+      "num": 301450,
       "word": "爱吃蛋",
       "onboard_time": 1766555781,
       "rank": 11,
@@ -2659,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310280,
+      "num": 310280,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310186,
       "num": 290549,
       "word": "易烊千玺把影帝奖杯放在公司展柜",
@@ -2792,6 +2816,14 @@
       "word": "程晓玥挺孕肚见证吴千语销售额破亿",
       "onboard_time": 1766550142,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297672,
+      "num": 297672,
+      "word": "杨天真被诈骗",
+      "onboard_time": 1766560940,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3515,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230455,
+      "num": 230455,
+      "word": "迅猛龙一年点了459次奶茶",
+      "onboard_time": 1766560761,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 230052,
       "num": 230052,
       "word": "龚俊亲吻鲨鱼",
@@ -4091,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201571,
+      "num": 174879,
+      "word": "肖战东方跨年有三首歌",
+      "onboard_time": 1766560520,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201525,
       "num": 201525,
       "word": "邮轮失联中国女子在德当护士",
@@ -4113,6 +4161,14 @@
       "onboard_time": 1766295562,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 201194,
+      "num": 149710,
+      "word": "难怪以前打入冷宫就听不见消息了",
+      "onboard_time": 1766560400,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 201076,
@@ -4273,6 +4329,14 @@
       "onboard_time": 1766315002,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195904,
+      "num": 174199,
+      "word": "低丸子头才是穿羽绒服最好看的发型",
+      "onboard_time": 1766556802,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 195888,
@@ -4699,14 +4763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185265,
-      "num": 170512,
-      "word": "低丸子头才是穿羽绒服最好看的发型",
-      "onboard_time": 1766556802,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 185014,
       "num": 227601,
       "word": "女子恋爱中被要求攒够4万再结婚",
@@ -4785,14 +4841,6 @@
       "onboard_time": 1766408422,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 182937,
-      "num": 182937,
-      "word": "iPhone18Pro最新前瞻",
-      "onboard_time": 1766558180,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 182755,
@@ -6851,14 +6899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134487,
-      "num": 134487,
-      "word": "班主任疑协助百名师生逃生后仍被判刑",
-      "onboard_time": 1766558902,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134086,
       "num": 134086,
       "word": "发现一个找对象的好地方",
@@ -7163,6 +7203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "TFBOYS没见过系列",
+      "onboard_time": 1766559860,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128766,
       "num": 128766,
       "word": "SBS合作舞台",
@@ -7249,6 +7297,14 @@
       "onboard_time": 1766413884,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127298,
+      "num": 127298,
+      "word": "张远在韩人脉",
+      "onboard_time": 1766561300,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127266,
@@ -7707,6 +7763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119602,
+      "num": 119602,
+      "word": "外面的世界已经进化成这样了",
+      "onboard_time": 1766561300,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119463,
       "num": 216678,
       "word": "广东绿豆沙为啥加臭草",
@@ -7913,6 +7977,14 @@
       "onboard_time": 1766306063,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115430,
+      "num": 115430,
+      "word": "iPhone18Pro配色预测",
+      "onboard_time": 1766561300,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 115350,
@@ -8539,6 +8611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105166,
+      "num": 105166,
+      "word": "尹浩宇不声不响拿下第一",
+      "onboard_time": 1766560222,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105134,
       "num": 132724,
       "word": "双轨婚礼跳舞这段呢",
@@ -9123,6 +9203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98407,
+      "num": 105673,
+      "word": "陈楚生抢票",
+      "onboard_time": 1766559981,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98073,
       "num": 183154,
       "word": "25万求复婚才知儿子非亲生且已改姓",
@@ -9409,6 +9497,14 @@
       "onboard_time": 1766471001,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92032,
+      "num": 105359,
+      "word": "玉茗茶骨10秒扇了3巴掌",
+      "onboard_time": 1766559921,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 91992,
@@ -10787,6 +10883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57412,
+      "num": 115417,
+      "word": "12月24日长津湖战役胜利的日子",
+      "onboard_time": 1766560580,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56814,
       "num": 277691,
       "word": "女子称在豪华酒店泡温泉后尿血",
@@ -10929,6 +11033,14 @@
       "onboard_time": 1766302341,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53384,
+      "num": 149789,
+      "word": "颜如晶的24小时AI私教有多香",
+      "onboard_time": 1766559921,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 53032,
@@ -11995,6 +12107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 32762,
+      "num": 306016,
+      "word": "靖国神社被起诉",
+      "onboard_time": 1766560822,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32734,
       "num": 167917,
       "word": "尾号7777777座机号第三次竞拍",
@@ -12401,6 +12521,14 @@
       "onboard_time": 1766255596,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26194,
+      "num": 182336,
+      "word": "央视起底外国山海经",
+      "onboard_time": 1766560881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25906,
