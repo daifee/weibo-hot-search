@@ -1,0 +1,410 @@
+{
+  "runTime": 1766555316224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901490,
+        "num": 1144238,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673242,
+        "num": 673242,
+        "word": "老人一儿一女已故全村人选择瞒着",
+        "onboard_time": 1766549782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59340,
+        "num": 551326,
+        "word": "我国渤海发现第七个亿吨级油田",
+        "onboard_time": 1766553204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534947,
+        "num": 534947,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435387,
+        "num": 435387,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1766552365,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516927,
+        "num": 435362,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 434461,
+        "num": 434461,
+        "word": "上海家长吐槽学校要求冬至包饺子",
+        "onboard_time": 1766550084,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430088,
+        "num": 430088,
+        "word": "我不是药神原型现在怎么样了",
+        "onboard_time": 1766548403,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424636,
+        "num": 424636,
+        "word": "关于吸毒记录封存的3点说明",
+        "onboard_time": 1766547202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291115,
+        "num": 385204,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1730149,
+        "num": 382146,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 878378,
+        "num": 379473,
+        "word": "河南火灾班主任",
+        "onboard_time": 1766550024,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362696,
+        "num": 362696,
+        "word": "这个病会走得很痛苦",
+        "onboard_time": 1766552365,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360489,
+        "num": 360489,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298899,
+        "num": 298899,
+        "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+        "onboard_time": 1766550142,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293616,
+        "num": 293616,
+        "word": "虞书欣双轨开分",
+        "onboard_time": 1766552964,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292618,
+        "num": 292618,
+        "word": "拍蛇片把蛇搞丢的后果",
+        "onboard_time": 1766548704,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37916,
+        "num": 287027,
+        "word": "自闭症儿子遇难父母靠工作麻痹自己",
+        "onboard_time": 1766554945,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40657,
+        "num": 277113,
+        "word": "鲁豫说鸿蒙的可贵在于开放包容",
+        "onboard_time": 1766552843,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61776,
+        "num": 267751,
+        "word": "冬季总咳嗽别硬扛",
+        "onboard_time": 1766551406,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1469723,
+        "num": 265271,
+        "word": "官方回应哪位少爷吸了",
+        "onboard_time": 1766548942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143849,
+        "num": 250766,
+        "word": "循环酸奶",
+        "onboard_time": 1766547443,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 663869,
+        "num": 240345,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353274,
+        "num": 238383,
+        "word": "致癌精子生197个孩子部分已离世",
+        "onboard_time": 1766542401,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231243,
+        "num": 231243,
+        "word": "很多人都低估了1万元的威力",
+        "onboard_time": 1766551585,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228556,
+        "num": 228556,
+        "word": "新生儿医院去世涉事人员停职",
+        "onboard_time": 1766548343,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202413,
+        "num": 202413,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766548824,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194715,
+        "num": 194715,
+        "word": "印度护士敲错门被拖进房间灌酒侵害",
+        "onboard_time": 1766553502,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191275,
+        "num": 191275,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16341,
+        "num": 189148,
+        "word": "刘德华为非凡大师献唱",
+        "onboard_time": 1766549244,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69000,
+        "num": 188231,
+        "word": "夫妻情侣互发私密照不会轻易被追责",
+        "onboard_time": 1766555064,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188163,
+        "num": 188163,
+        "word": "黄荷娜被警方逮捕",
+        "onboard_time": 1766549302,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 183244,
+        "word": "孙颖莎连续四年女单年终世界第一",
+        "onboard_time": 1766551765,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178347,
+        "num": 178347,
+        "word": "哑舍为啥播成这样",
+        "onboard_time": 1766552423,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161844,
+        "num": 161844,
+        "word": "成毅360度运镜镜头",
+        "onboard_time": 1766554342,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157412,
+        "num": 157412,
+        "word": "清华计算机专业博士7年的薪资",
+        "onboard_time": 1766551943,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39644,
+        "num": 142744,
+        "word": "弃家30年父亲欠40万医疗费儿子拒还",
+        "onboard_time": 1766554945,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26561,
+        "num": 141217,
+        "word": "多方回应男子不拴绳遛20多条狗",
+        "onboard_time": 1766555064,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 141019,
+        "word": "河南火灾班主任大儿子疑因病去世",
+        "onboard_time": 1766553922,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75608,
+        "num": 135674,
+        "word": "新生儿离世监控视频已封存",
+        "onboard_time": 1766553023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135078,
+        "num": 135078,
+        "word": "展轩后援会分票",
+        "onboard_time": 1766555123,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128893,
+        "num": 128893,
+        "word": "谭松韵新剧三人分饰一角",
+        "onboard_time": 1766551883,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127595,
+        "num": 127595,
+        "word": "汪苏泷十万伏特收官庆典",
+        "onboard_time": 1766554282,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127188,
+        "num": 127188,
+        "word": "QQ羞辱方式又多了一个抽象的",
+        "onboard_time": 1766551042,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125115,
+        "num": 125115,
+        "word": "法律面前一律平等",
+        "onboard_time": 1766553743,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124587,
+        "num": 124587,
+        "word": "对不同年终奖的态度",
+        "onboard_time": 1766555064,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123073,
+        "num": 123073,
+        "word": "专家建议尽量少用或不用肉宝王",
+        "onboard_time": 1766535802,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120713,
+        "num": 120713,
+        "word": "东方卫视官宣肖战的排面",
+        "onboard_time": 1766552663,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120110,
+        "num": 120110,
+        "word": "鹿晗新歌预告",
+        "onboard_time": 1766551943,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118948,
+        "num": 118948,
+        "word": "孙子肚上蹦跳致爷爷动脉破裂",
+        "onboard_time": 1766552604,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交2025年度回眸#"
+    }
+  }
+}

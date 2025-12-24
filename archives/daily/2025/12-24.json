@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766554343112,
+  "endTime": 1766555316224,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2808650,
-      "num": 228966,
+      "num": 265271,
       "word": "官方回应哪位少爷吸了",
       "onboard_time": 1766548942,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 985119,
-      "num": 225083,
+      "num": 240345,
       "word": "张百乔老婆整容",
       "onboard_time": 1766547622,
       "rank": 38,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 878378,
+      "num": 392963,
+      "word": "河南火灾班主任",
+      "onboard_time": 1766550024,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 789368,
       "num": 172686,
       "word": "法医刘良团队提供小洛熙尸检报告",
       "onboard_time": 1766531117,
       "rank": 10,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 774474,
-      "num": 392963,
-      "word": "河南火灾班主任",
-      "onboard_time": 1766550024,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 767049,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632687,
-      "num": 632687,
+      "raw_hot": 673242,
+      "num": 673242,
       "word": "老人一儿一女已故全村人选择瞒着",
       "onboard_time": 1766549782,
       "rank": 4,
@@ -155,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 510810,
+      "raw_hot": 516927,
       "num": 510810,
       "word": "美国斩杀线",
       "onboard_time": 1766550742,
@@ -195,12 +195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 428257,
-      "num": 428257,
+      "raw_hot": 435387,
+      "num": 435387,
       "word": "湖南卫视跨年全阵容",
       "onboard_time": 1766552365,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434461,
+      "num": 434461,
+      "word": "上海家长吐槽学校要求冬至包饺子",
+      "onboard_time": 1766550084,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 402924,
@@ -209,14 +217,6 @@
       "onboard_time": 1766503046,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391498,
-      "num": 391498,
-      "word": "上海家长吐槽学校要求冬至包饺子",
-      "onboard_time": 1766550084,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 389414,
@@ -251,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362696,
+      "num": 362696,
+      "word": "这个病会走得很痛苦",
+      "onboard_time": 1766552365,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 360489,
+      "num": 360489,
+      "word": "短剧一姐的含金量",
+      "onboard_time": 1766552183,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351647,
       "num": 676419,
       "word": "车厘子价格大跳水批发商却笑不出",
@@ -281,14 +297,6 @@
       "onboard_time": 1766535502,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 330536,
-      "num": 218788,
-      "word": "短剧一姐的含金量",
-      "onboard_time": 1766552183,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 322682,
@@ -339,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298899,
+      "num": 298899,
+      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+      "onboard_time": 1766550142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294835,
       "num": 294835,
       "word": "新生儿医院去世涉事人员停职",
       "onboard_time": 1766548343,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291115,
+      "num": 385204,
+      "word": "爱吃酱香饼的人天塌了",
+      "onboard_time": 1766554823,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 285016,
@@ -395,14 +419,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 257384,
-      "num": 257384,
-      "word": "程晓玥挺孕肚见证吴千语销售额破亿",
-      "onboard_time": 1766550142,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257296,
       "num": 234934,
       "word": "白鹿回应自驾开车",
@@ -435,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247571,
-      "num": 247571,
-      "word": "这个病会走得很痛苦",
-      "onboard_time": 1766552365,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240423,
       "num": 240423,
       "word": "庞铮只艾特贺峻霖是转移矛盾吗",
@@ -473,6 +481,14 @@
       "onboard_time": 1766535680,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231243,
+      "num": 231243,
+      "word": "很多人都低估了1万元的威力",
+      "onboard_time": 1766551585,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 230678,
@@ -523,14 +539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216232,
-      "num": 216232,
-      "word": "很多人都低估了1万元的威力",
-      "onboard_time": 1766551585,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212842,
       "num": 212842,
       "word": "迪丽热巴扑倒陈飞宇剧照",
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "印度护士敲错门被拖进房间灌酒侵害",
+      "onboard_time": 1766553502,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192673,
       "num": 192673,
       "word": "鹿晗新歌预告",
@@ -585,6 +601,14 @@
       "onboard_time": 1766551824,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191275,
+      "num": 191275,
+      "word": "骄阳似我",
+      "onboard_time": 1766479341,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 186704,
@@ -625,6 +649,14 @@
       "onboard_time": 1766549844,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178347,
+      "num": 178347,
+      "word": "哑舍为啥播成这样",
+      "onboard_time": 1766552423,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176732,
@@ -739,18 +771,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160111,
-      "num": 160111,
-      "word": "骄阳似我",
-      "onboard_time": 1766479341,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 159970,
-      "num": 159970,
-      "word": "哑舍为啥播成这样",
-      "onboard_time": 1766552423,
+      "raw_hot": 161844,
+      "num": 161844,
+      "word": "成毅360度运镜镜头",
+      "onboard_time": 1766554342,
       "rank": 34,
       "category": "剧集"
     },
@@ -955,12 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134717,
-      "num": 139841,
-      "word": "印度护士敲错门被拖进房间灌酒侵害",
-      "onboard_time": 1766553502,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 135078,
+      "num": 135078,
+      "word": "展轩后援会分票",
+      "onboard_time": 1766555123,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 134395,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127595,
+      "num": 127595,
+      "word": "汪苏泷十万伏特收官庆典",
+      "onboard_time": 1766554282,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127266,
       "num": 127266,
       "word": "闫妮首获金莲花最佳女主",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1766541681,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124587,
+      "num": 124587,
+      "word": "对不同年终奖的态度",
+      "onboard_time": 1766555064,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 121331,
@@ -1089,14 +1129,6 @@
       "onboard_time": 1766546541,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117491,
-      "num": 117491,
-      "word": "汪苏泷十万伏特收官庆典",
-      "onboard_time": 1766554282,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 116312,
@@ -1411,8 +1443,16 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 69000,
+      "num": 188231,
+      "word": "夫妻情侣互发私密照不会轻易被追责",
+      "onboard_time": 1766555064,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68797,
-      "num": 229024,
+      "num": 267751,
       "word": "冬季总咳嗽别硬扛",
       "onboard_time": 1766551406,
       "rank": 31,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1766531058,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59340,
+      "num": 609566,
+      "word": "我国渤海发现第七个亿吨级油田",
+      "onboard_time": 1766553204,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58688,
@@ -1643,14 +1691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44330,
-      "num": 609566,
-      "word": "我国渤海发现第七个亿吨级油田",
-      "onboard_time": 1766553204,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44106,
       "num": 171625,
       "word": "特朗普称爱泼斯坦案会毁掉无辜的人",
@@ -1660,7 +1700,7 @@
     },
     {
       "raw_hot": 43897,
-      "num": 231166,
+      "num": 277113,
       "word": "鲁豫说鸿蒙的可贵在于开放包容",
       "onboard_time": 1766552843,
       "rank": 18,
@@ -1699,11 +1739,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39644,
+      "num": 142744,
+      "word": "弃家30年父亲欠40万医疗费儿子拒还",
+      "onboard_time": 1766554945,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38394,
       "num": 185752,
       "word": "断骨增高术宣介在多平台重现",
       "onboard_time": 1766549903,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37916,
+      "num": 287027,
+      "word": "自闭症儿子遇难父母靠工作麻痹自己",
+      "onboard_time": 1766554945,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1825,6 +1881,14 @@
       "onboard_time": 1766509098,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26561,
+      "num": 141217,
+      "word": "多方回应男子不拴绳遛20多条狗",
+      "onboard_time": 1766555064,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24342,
