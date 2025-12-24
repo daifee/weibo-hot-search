@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766602377210,
+  "endTime": 1766604176818,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -84361,6 +84361,14 @@
       "onboard_time": 1765013422,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14694,
+      "num": 25123,
+      "word": "肖战我们不见不散",
+      "onboard_time": 1766599155,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 14588,
