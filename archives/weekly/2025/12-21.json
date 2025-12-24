@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766543316311,
+  "endTime": 1766548044424,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1858575,
+      "num": 1858575,
+      "word": "法工委回应吸毒记录封存相关问题",
+      "onboard_time": 1766546962,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1796152,
       "num": 554535,
       "word": "王橹杰穆祉丞同台",
@@ -153,6 +161,14 @@
       "onboard_time": 1766402962,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1453903,
+      "num": 474862,
+      "word": "致癌精子生197个孩子部分已离世",
+      "onboard_time": 1766542401,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1440457,
@@ -1163,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545901,
+      "num": 545901,
+      "word": "慕胥辞",
+      "onboard_time": 1766502985,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544635,
       "num": 838252,
       "word": "双轨热度",
@@ -1291,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520008,
+      "num": 279160,
+      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
+      "onboard_time": 1766538741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515379,
       "num": 262483,
       "word": "田曦薇造型师审美",
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502394,
+      "num": 502394,
+      "word": "李凯尔改回原名凯尔安德森",
+      "onboard_time": 1766544202,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500134,
       "num": 500134,
       "word": "宋小宝谢娜在后台都没认出李维嘉",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1766394681,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494408,
+      "num": 298532,
+      "word": "陈星旭周也王玉雯名场面外网火了",
+      "onboard_time": 1766534902,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 492269,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1766502685,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 474862,
-      "num": 474862,
-      "word": "致癌精子生197个孩子部分已离世",
-      "onboard_time": 1766542401,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 473167,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1766366299,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 423273,
-      "num": 279160,
-      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
-      "onboard_time": 1766538741,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 421596,
@@ -1979,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381100,
+      "num": 381100,
+      "word": "金饰价格涨到1411元",
+      "onboard_time": 1766542760,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 379477,
       "num": 379477,
       "word": "明日方舟",
@@ -2228,7 +2268,7 @@
     },
     {
       "raw_hot": 339955,
-      "num": 166926,
+      "num": 218749,
       "word": "学信网的含金量还在上升",
       "onboard_time": 1766536401,
       "rank": 20,
@@ -2539,20 +2579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300569,
+      "num": 300569,
+      "word": "哑舍编剧致歉",
+      "onboard_time": 1766542880,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299612,
       "num": 299612,
       "word": "二战日本集中营女性遭遇曝光",
       "onboard_time": 1766292140,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 298532,
-      "num": 298532,
-      "word": "陈星旭周也王玉雯名场面外网火了",
-      "onboard_time": 1766534902,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 296347,
@@ -2739,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281858,
+      "num": 281858,
+      "word": "东方卫视跨年阵容",
+      "onboard_time": 1766545941,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280938,
       "num": 264922,
       "word": "时代少年团在高会直播",
@@ -2844,7 +2892,7 @@
     },
     {
       "raw_hot": 272749,
-      "num": 162680,
+      "num": 184410,
       "word": "金价癫了",
       "onboard_time": 1766534181,
       "rank": 21,
@@ -2979,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257296,
+      "num": 234934,
+      "word": "白鹿回应自驾开车",
+      "onboard_time": 1766544441,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256890,
       "num": 256890,
       "word": "女装还在改良男装已经进化了",
@@ -3041,6 +3097,14 @@
       "onboard_time": 1766498842,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251778,
+      "num": 251778,
+      "word": "杀害发小妻儿凶手庭审画面曝光",
+      "onboard_time": 1766543542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250684,
@@ -3299,6 +3363,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 225600,
+      "num": 225600,
+      "word": "何超莲金莲花最佳新人",
+      "onboard_time": 1766544680,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225446,
       "num": 225446,
       "word": "小米17Ultra星空绿",
@@ -3347,6 +3419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221233,
+      "num": 221233,
+      "word": "中方回应将允许韩流音乐等入华传言",
+      "onboard_time": 1766538202,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220896,
       "num": 220896,
       "word": "成毅 破万福利",
@@ -3361,6 +3441,14 @@
       "onboard_time": 1766474061,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219879,
+      "num": 219879,
+      "word": "关于吸毒记录封存的3点说明",
+      "onboard_time": 1766547202,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219584,
@@ -3401,6 +3489,14 @@
       "onboard_time": 1766466861,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216775,
+      "num": 216775,
+      "word": "循环酸奶",
+      "onboard_time": 1766547443,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 216275,
@@ -3497,6 +3593,14 @@
       "onboard_time": 1766380522,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212842,
+      "num": 212842,
+      "word": "迪丽热巴扑倒陈飞宇剧照",
+      "onboard_time": 1766546901,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 212586,
@@ -3649,6 +3753,14 @@
       "onboard_time": 1766370260,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205323,
+      "num": 205323,
+      "word": "为什么海外华人感受不到斩杀线",
+      "onboard_time": 1766547202,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 204755,
@@ -3841,14 +3953,6 @@
       "onboard_time": 1766289740,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198907,
-      "num": 290717,
-      "word": "慕胥辞",
-      "onboard_time": 1766502985,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 198838,
@@ -4595,12 +4699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177004,
-      "num": 177004,
-      "word": "中方回应将允许韩流音乐等入华传言",
-      "onboard_time": 1766538202,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 176710,
+      "num": 176710,
+      "word": "朱孝天的情商",
+      "onboard_time": 1766544441,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 176371,
@@ -4643,6 +4747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175192,
+      "num": 175192,
+      "word": "官方通报27天新生儿去世",
+      "onboard_time": 1766547023,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 175072,
       "num": 209917,
       "word": "女教师新婚当天坠亡",
@@ -4673,6 +4785,14 @@
       "onboard_time": 1766497282,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173454,
+      "num": 173454,
+      "word": "玉茗茶骨",
+      "onboard_time": 1766546301,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 172218,
@@ -4721,6 +4841,14 @@
       "onboard_time": 1766280080,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170565,
+      "num": 170565,
+      "word": "3种炎症拖着不管会致癌",
+      "onboard_time": 1766545341,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170544,
@@ -4779,6 +4907,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167183,
+      "num": 167183,
+      "word": "大学生有自己的年终奖",
+      "onboard_time": 1766547141,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166632,
+      "num": 166632,
+      "word": "第一次看这么废皇帝的剧",
+      "onboard_time": 1766546840,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166397,
       "num": 166397,
       "word": "何与 单眼皮183长大衣韩剧味溢出了",
@@ -4825,6 +4969,14 @@
       "onboard_time": 1766315182,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "程晓玥自曝二胎胎儿偏大",
+      "onboard_time": 1766547681,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 164574,
@@ -5099,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156180,
+      "num": 156180,
+      "word": "林丹让蔡赟删掉视频",
+      "onboard_time": 1766544981,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156128,
       "num": 344193,
       "word": "女友家中两人患癌小伙犹豫该不该结婚",
@@ -5179,14 +5339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153348,
-      "num": 153348,
-      "word": "哑舍编剧致歉",
-      "onboard_time": 1766542880,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152972,
       "num": 106069,
       "word": "白鹿黑色亮片高定",
@@ -5233,6 +5385,14 @@
       "onboard_time": 1766494162,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152110,
+      "num": 152110,
+      "word": "展轩抢票",
+      "onboard_time": 1766547502,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 151929,
@@ -5675,6 +5835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 143003,
+      "num": 143003,
+      "word": "藏海传最佳电视剧奖",
+      "onboard_time": 1766547381,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142789,
       "num": 142789,
       "word": "用更少的钱过更体面的生活",
@@ -5753,14 +5921,6 @@
       "onboard_time": 1766310023,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141974,
-      "num": 141974,
-      "word": "金饰价格涨到1411元",
-      "onboard_time": 1766542760,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 141930,
@@ -5889,6 +6049,14 @@
       "onboard_time": 1766472201,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139485,
+      "num": 165458,
+      "word": "张百乔老婆整容",
+      "onboard_time": 1766547622,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 139369,
@@ -6451,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127610,
+      "num": 127610,
+      "word": "常华森还是没去治耳朵吗",
+      "onboard_time": 1766546541,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127608,
       "num": 128465,
       "word": "QQ群主放任成员传播色情也获刑",
@@ -6497,6 +6673,14 @@
       "onboard_time": 1766401581,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127085,
+      "num": 127085,
+      "word": "车辆落水事故驾驶人为幼儿园园长",
+      "onboard_time": 1766541681,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126959,
@@ -6787,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "人民币现金收付新规明年2月起施行",
+      "onboard_time": 1766543359,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121241,
       "num": 173290,
       "word": "杨瀚森观战林葳",
@@ -6939,14 +7131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118579,
-      "num": 112852,
-      "word": "车辆落水事故驾驶人为幼儿园园长",
-      "onboard_time": 1766541681,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "李莎旻子 不是身体病了才能看医生",
@@ -6961,6 +7145,14 @@
       "onboard_time": 1766410522,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118298,
+      "num": 133969,
+      "word": "谁家cp粉是自己老公啊",
+      "onboard_time": 1766546541,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 117950,
@@ -7065,6 +7257,14 @@
       "onboard_time": 1766414362,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116312,
+      "num": 116312,
+      "word": "张子墨夸李煜东很热心",
+      "onboard_time": 1766546781,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115789,
@@ -8795,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86539,
+      "num": 116982,
+      "word": "何以笙箫默的修罗场",
+      "onboard_time": 1766546301,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85800,
       "num": 86802,
       "word": "何炅见海霞秒变迷弟",
@@ -9169,6 +9377,14 @@
       "onboard_time": 1766398939,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76363,
+      "num": 178189,
+      "word": "何小鹏冰雪试驾X9超级增程直呼太稳了",
+      "onboard_time": 1766545583,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 75707,
@@ -9603,6 +9819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64042,
+      "num": 165600,
+      "word": "赵今麦演我称体重",
+      "onboard_time": 1766547743,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64010,
       "num": 116053,
       "word": "08年起南博多名职工就曾数次联名举报",
@@ -10033,6 +10257,14 @@
       "onboard_time": 1766291720,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52557,
+      "num": 221157,
+      "word": "节日送礼拖延症有救了",
+      "onboard_time": 1766545583,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 52458,
@@ -11427,6 +11659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24342,
+      "num": 560425,
+      "word": "预计2025我国交通出行超660亿人次",
+      "onboard_time": 1766494762,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24231,
       "num": 175425,
       "word": "今年已有62名中管干部被查",
@@ -11499,20 +11739,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22767,
+      "num": 220244,
+      "word": "中国代表在安理会连说5个反对",
+      "onboard_time": 1766547141,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22707,
       "num": 33738,
       "word": "中方回应美称中部署百余枚洲际导弹",
       "onboard_time": 1766517914,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22637,
-      "num": 560425,
-      "word": "预计2025我国交通出行超660亿人次",
-      "onboard_time": 1766494762,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22468,
@@ -11569,6 +11809,14 @@
       "onboard_time": 1766343795,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21699,
+      "num": 220849,
+      "word": "一小区4栋楼门前有超百个井盖",
+      "onboard_time": 1766547502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21681,
@@ -12063,6 +12311,14 @@
       "num": 152805,
       "word": "专访马库斯与友人捐照片背后的故事",
       "onboard_time": 1766399000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7223,
+      "num": 166131,
+      "word": "杀害侄女男子2次精神鉴定均处发病期",
+      "onboard_time": 1766547862,
       "rank": 36,
       "category": "民生新闻"
     },

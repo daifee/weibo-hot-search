@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766543316311,
+  "endTime": 1766548044424,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -9,6 +9,22 @@
       "onboard_time": 1766501422,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1858575,
+      "num": 1858575,
+      "word": "法工委回应吸毒记录封存相关问题",
+      "onboard_time": 1766546962,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1453903,
+      "num": 474862,
+      "word": "致癌精子生197个孩子部分已离世",
+      "onboard_time": 1766542401,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 995792,
@@ -51,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 545901,
+      "num": 545901,
+      "word": "慕胥辞",
+      "onboard_time": 1766502985,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528339,
       "num": 528339,
       "word": "阿信 跌倒了还被大家知道50岁",
@@ -59,28 +83,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 520008,
+      "num": 279160,
+      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
+      "onboard_time": 1766538741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502394,
+      "num": 502394,
+      "word": "李凯尔改回原名凯尔安德森",
+      "onboard_time": 1766544202,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 494408,
+      "num": 298532,
+      "word": "陈星旭周也王玉雯名场面外网火了",
+      "onboard_time": 1766534902,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475427,
       "num": 155126,
       "word": "杜克 一哥",
       "onboard_time": 1766502685,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 474862,
-      "num": 474862,
-      "word": "致癌精子生197个孩子部分已离世",
-      "onboard_time": 1766542401,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 423273,
-      "num": 279160,
-      "word": "小洛熙尸检未见冠状窦型房间隔缺损",
-      "onboard_time": 1766538741,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 402924,
@@ -97,6 +129,14 @@
       "onboard_time": 1766536522,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381100,
+      "num": 381100,
+      "word": "金饰价格涨到1411元",
+      "onboard_time": 1766542760,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 371777,
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 339955,
-      "num": 166926,
+      "num": 218749,
       "word": "学信网的含金量还在上升",
       "onboard_time": 1766536401,
       "rank": 20,
@@ -147,11 +187,19 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 298532,
-      "num": 298532,
-      "word": "陈星旭周也王玉雯名场面外网火了",
-      "onboard_time": 1766534902,
-      "rank": 7,
+      "raw_hot": 300569,
+      "num": 300569,
+      "word": "哑舍编剧致歉",
+      "onboard_time": 1766542880,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281858,
+      "num": 281858,
+      "word": "东方卫视跨年阵容",
+      "onboard_time": 1766545941,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -164,7 +212,7 @@
     },
     {
       "raw_hot": 272749,
-      "num": 162680,
+      "num": 184410,
       "word": "金价癫了",
       "onboard_time": 1766534181,
       "rank": 21,
@@ -187,11 +235,27 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 257296,
+      "num": 234934,
+      "word": "白鹿回应自驾开车",
+      "onboard_time": 1766544441,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254068,
       "num": 880928,
       "word": "生父始终不认罪把记者都气结巴了",
       "onboard_time": 1766502866,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251778,
+      "num": 251778,
+      "word": "杀害发小妻儿凶手庭审画面曝光",
+      "onboard_time": 1766543542,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -243,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225600,
+      "num": 225600,
+      "word": "何超莲金莲花最佳新人",
+      "onboard_time": 1766544680,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225211,
       "num": 225211,
       "word": "私聊不是淫秽信息的避风港",
@@ -267,6 +339,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221233,
+      "num": 221233,
+      "word": "中方回应将允许韩流音乐等入华传言",
+      "onboard_time": 1766538202,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 219879,
+      "num": 219879,
+      "word": "关于吸毒记录封存的3点说明",
+      "onboard_time": 1766547202,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216775,
+      "num": 216775,
+      "word": "循环酸奶",
+      "onboard_time": 1766547443,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 212842,
+      "num": 212842,
+      "word": "迪丽热巴扑倒陈飞宇剧照",
+      "onboard_time": 1766546901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205520,
       "num": 205520,
       "word": "00后订婚喜糖",
@@ -275,20 +379,44 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198907,
-      "num": 290717,
-      "word": "慕胥辞",
-      "onboard_time": 1766502985,
-      "rank": 24,
+      "raw_hot": 205323,
+      "num": 205323,
+      "word": "为什么海外华人感受不到斩杀线",
+      "onboard_time": 1766547202,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176710,
+      "num": 176710,
+      "word": "朱孝天的情商",
+      "onboard_time": 1766544441,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175192,
+      "num": 175192,
+      "word": "官方通报27天新生儿去世",
+      "onboard_time": 1766547023,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 173454,
+      "num": 173454,
+      "word": "玉茗茶骨",
+      "onboard_time": 1766546301,
+      "rank": 31,
       "category": "剧集"
     },
     {
-      "raw_hot": 177004,
-      "num": 177004,
-      "word": "中方回应将允许韩流音乐等入华传言",
-      "onboard_time": 1766538202,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 170565,
+      "num": 170565,
+      "word": "3种炎症拖着不管会致癌",
+      "onboard_time": 1766545341,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168347,
@@ -299,11 +427,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167183,
+      "num": 167183,
+      "word": "大学生有自己的年终奖",
+      "onboard_time": 1766547141,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166972,
       "num": 136783,
       "word": "赵丽颖 合照的同学成了大明星",
       "onboard_time": 1766472201,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166632,
+      "num": 166632,
+      "word": "第一次看这么废皇帝的剧",
+      "onboard_time": 1766546840,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "程晓玥自曝二胎胎儿偏大",
+      "onboard_time": 1766547681,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -315,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153348,
-      "num": 153348,
-      "word": "哑舍编剧致歉",
-      "onboard_time": 1766542880,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 156180,
+      "num": 156180,
+      "word": "林丹让蔡赟删掉视频",
+      "onboard_time": 1766544981,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152110,
+      "num": 152110,
+      "word": "展轩抢票",
+      "onboard_time": 1766547502,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 151923,
@@ -347,20 +507,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 143003,
+      "num": 143003,
+      "word": "藏海传最佳电视剧奖",
+      "onboard_time": 1766547381,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142860,
       "num": 142860,
       "word": "美国最神秘连环杀手多年前已去世",
       "onboard_time": 1766496742,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 141974,
-      "num": 141974,
-      "word": "金饰价格涨到1411元",
-      "onboard_time": 1766542760,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 141428,
@@ -377,6 +537,14 @@
       "onboard_time": 1766542820,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139485,
+      "num": 165458,
+      "word": "张百乔老婆整容",
+      "onboard_time": 1766547622,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 137696,
@@ -435,12 +603,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127610,
+      "num": 127610,
+      "word": "常华森还是没去治耳朵吗",
+      "onboard_time": 1766546541,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127266,
       "num": 127266,
       "word": "闫妮首获金莲花最佳女主",
       "onboard_time": 1766532017,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127085,
+      "num": 127085,
+      "word": "车辆落水事故驾驶人为幼儿园园长",
+      "onboard_time": 1766541681,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "人民币现金收付新规明年2月起施行",
+      "onboard_time": 1766543359,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 120546,
@@ -451,12 +643,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118579,
-      "num": 112852,
-      "word": "车辆落水事故驾驶人为幼儿园园长",
-      "onboard_time": 1766541681,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 118298,
+      "num": 133969,
+      "word": "谁家cp粉是自己老公啊",
+      "onboard_time": 1766546541,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116312,
+      "num": 116312,
+      "word": "张子墨夸李煜东很热心",
+      "onboard_time": 1766546781,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 113245,
@@ -611,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86539,
+      "num": 116982,
+      "word": "何以笙箫默的修罗场",
+      "onboard_time": 1766546301,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85800,
       "num": 86802,
       "word": "何炅见海霞秒变迷弟",
@@ -657,6 +865,14 @@
       "onboard_time": 1766501182,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76363,
+      "num": 178189,
+      "word": "何小鹏冰雪试驾X9超级增程直呼太稳了",
+      "onboard_time": 1766545583,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 76301,
@@ -745,6 +961,14 @@
       "onboard_time": 1766507000,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64042,
+      "num": 165600,
+      "word": "赵今麦演我称体重",
+      "onboard_time": 1766547743,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 64000,
@@ -841,6 +1065,14 @@
       "onboard_time": 1766532017,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52557,
+      "num": 221157,
+      "word": "节日送礼拖延症有救了",
+      "onboard_time": 1766545583,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 50700,
@@ -1019,6 +1251,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24342,
+      "num": 560425,
+      "word": "预计2025我国交通出行超660亿人次",
+      "onboard_time": 1766494762,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22767,
+      "num": 220244,
+      "word": "中国代表在安理会连说5个反对",
+      "onboard_time": 1766547141,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22707,
       "num": 33738,
       "word": "中方回应美称中部署百余枚洲际导弹",
@@ -1027,20 +1275,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22637,
-      "num": 560425,
-      "word": "预计2025我国交通出行超660亿人次",
-      "onboard_time": 1766494762,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22102,
       "num": 34068,
       "word": "刘宇宁25年音乐战绩可查",
       "onboard_time": 1766514617,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21699,
+      "num": 220849,
+      "word": "一小区4栋楼门前有超百个井盖",
+      "onboard_time": 1766547502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20291,
@@ -1105,6 +1353,14 @@
       "onboard_time": 1766470521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7223,
+      "num": 166131,
+      "word": "杀害侄女男子2次精神鉴定均处发病期",
+      "onboard_time": 1766547862,
+      "rank": 36,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
