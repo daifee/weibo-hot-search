@@ -1,0 +1,410 @@
+{
+  "runTime": 1766597117304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 256520,
+        "num": 463543,
+        "word": "高市早苗又放话了",
+        "onboard_time": 1766585483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191343,
+        "num": 191343,
+        "word": "日本一无人岛密密麻麻都是北海狮",
+        "onboard_time": 1766588601,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14682,
+        "num": 132783,
+        "word": "粤港澳大湾区再添海上新通道",
+        "onboard_time": 1766584222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131958,
+        "num": 131958,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 3,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 129522,
+        "num": 129522,
+        "word": "橹穆来自天堂的魔鬼舞台彩排",
+        "onboard_time": 1766591001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99428,
+        "num": 99428,
+        "word": "美国网红称他在旧金山快活不下去了",
+        "onboard_time": 1766583263,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98020,
+        "num": 98020,
+        "word": "强生爽身粉致癌案判赔女子约110亿元",
+        "onboard_time": 1766572821,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87811,
+        "num": 87811,
+        "word": "胖东来售卖梅西签名球衣",
+        "onboard_time": 1766588783,
+        "rank": 7,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 85655,
+        "num": 85655,
+        "word": "第八集吻上宋威龙了",
+        "onboard_time": 1766584702,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77712,
+        "num": 77712,
+        "word": "落空直播",
+        "onboard_time": 1766592260,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 316952,
+        "num": 77661,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766586682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305472,
+        "num": 77621,
+        "word": "黄多多和狗狗拍照",
+        "onboard_time": 1766591660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189128,
+        "num": 77497,
+        "word": "朱孝天疑似明涵阿信",
+        "onboard_time": 1766588003,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161569,
+        "num": 77413,
+        "word": "纪凌尘经纪人辟谣",
+        "onboard_time": 1766570600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140202,
+        "num": 77346,
+        "word": "黄朔直播",
+        "onboard_time": 1766588182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77310,
+        "num": 77310,
+        "word": "山东录用公务员前将核查网络言论",
+        "onboard_time": 1766581043,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120349,
+        "num": 76445,
+        "word": "建议别在东北cos尼克狐尼克",
+        "onboard_time": 1766591781,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70535,
+        "num": 70535,
+        "word": "女子早高峰占电梯被推出去后厮打",
+        "onboard_time": 1766591422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67351,
+        "num": 67351,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65814,
+        "num": 65814,
+        "word": "情侣间发送亲密照片没有社会危害性",
+        "onboard_time": 1766590701,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368888,
+        "num": 65809,
+        "word": "曝男顶流拍戏受伤",
+        "onboard_time": 1766589562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102899,
+        "num": 65795,
+        "word": "周杰伦昆凌情侣装合照",
+        "onboard_time": 1766593099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90719,
+        "num": 65795,
+        "word": "孙丞潇冰岛求婚金莎",
+        "onboard_time": 1766572402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75547,
+        "num": 65781,
+        "word": "朱志鑫苏新皓跳了卡点舞",
+        "onboard_time": 1766589682,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60038,
+        "num": 65769,
+        "word": "吸毒记录封存不是消除删除记录",
+        "onboard_time": 1766595257,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58622,
+        "num": 65763,
+        "word": "贾乃亮被曝售假事件反转",
+        "onboard_time": 1766575282,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 58192,
+        "num": 65755,
+        "word": "王俊凯上班主理人",
+        "onboard_time": 1766579781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57915,
+        "num": 65743,
+        "word": "阚清子",
+        "onboard_time": 1766501422,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56595,
+        "num": 65731,
+        "word": "黄子韬 鹿晗王鹤棣比我帅我认了",
+        "onboard_time": 1766581762,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41774,
+        "num": 65719,
+        "word": "马面裙才是马年的本命战袍",
+        "onboard_time": 1766588601,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45181,
+        "num": 65715,
+        "word": "骄阳似我预告",
+        "onboard_time": 1766590281,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40905,
+        "num": 65707,
+        "word": "朱一龙工作室更新",
+        "onboard_time": 1766587584,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39302,
+        "num": 65698,
+        "word": "跨年演唱会",
+        "onboard_time": 1766590342,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38556,
+        "num": 65687,
+        "word": "高端餐厅要价12000的辣椒炒牛",
+        "onboard_time": 1766587883,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35258,
+        "num": 65679,
+        "word": "土耳其出现近700个巨大天坑",
+        "onboard_time": 1766579781,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44437,
+        "num": 65661,
+        "word": "宋威龙现偶",
+        "onboard_time": 1766576362,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38966,
+        "num": 65656,
+        "word": "何与海外是真的火了",
+        "onboard_time": 1766578522,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33938,
+        "num": 65646,
+        "word": "BLG连续被零封",
+        "onboard_time": 1766587162,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33165,
+        "num": 65637,
+        "word": "贾霞老师58岁了",
+        "onboard_time": 1766587883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32189,
+        "num": 65628,
+        "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
+        "onboard_time": 1766574020,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37890,
+        "num": 65621,
+        "word": "TVB女演员钟丽淇女儿患罕见病",
+        "onboard_time": 1766582542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35474,
+        "num": 65603,
+        "word": "我们的明天",
+        "onboard_time": 1766582602,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33522,
+        "num": 65597,
+        "word": "白鹿让我研究研究这个阶梯",
+        "onboard_time": 1766592080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30851,
+        "num": 65587,
+        "word": "人之初",
+        "onboard_time": 1766588482,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30496,
+        "num": 65577,
+        "word": "虐死继女案再审生父加刑八年",
+        "onboard_time": 1766591901,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 65568,
+        "word": "一斤油一斤半面粉",
+        "onboard_time": 1766587044,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 65556,
+        "word": "福建舰内部画面",
+        "onboard_time": 1766589920,
+        "rank": 46,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 27205,
+        "num": 65550,
+        "word": "日本高官拥核言论绝非孤立事件",
+        "onboard_time": 1766596696,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26881,
+        "num": 65543,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26380,
+        "num": 65533,
+        "word": "有网友晒白银LOF套利500赚350",
+        "onboard_time": 1766591240,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}

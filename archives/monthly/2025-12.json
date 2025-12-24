@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766594946086,
+  "endTime": 1766597117304,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -48211,6 +48211,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 120349,
+      "num": 145750,
+      "word": "建议别在东北cos尼克狐尼克",
+      "onboard_time": 1766591781,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120341,
       "num": 120341,
       "word": "孙颖莎王楚钦今日轮休",
@@ -56427,6 +56435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102899,
+      "num": 145653,
+      "word": "周杰伦昆凌情侣装合照",
+      "onboard_time": 1766593099,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102893,
       "num": 102893,
       "word": "迪丽热巴慕胥辞预约破300万跳舞",
@@ -60731,14 +60747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93891,
-      "num": 145653,
-      "word": "周杰伦昆凌情侣装合照",
-      "onboard_time": 1766593099,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93887,
       "num": 113601,
       "word": "顺灏股份涨停",
@@ -62441,14 +62449,6 @@
       "onboard_time": 1766461161,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90207,
-      "num": 145750,
-      "word": "建议别在东北cos尼克狐尼克",
-      "onboard_time": 1766591781,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 90188,
@@ -66779,6 +66779,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 77712,
+      "num": 145471,
+      "word": "落空直播",
+      "onboard_time": 1766592260,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77706,
       "num": 77706,
       "word": "宋威龙赵今麦骄阳似我婚纱照",
@@ -68649,6 +68657,14 @@
       "onboard_time": 1766283439,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70535,
+      "num": 145416,
+      "word": "女子早高峰占电梯被推出去后厮打",
+      "onboard_time": 1766591422,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70510,
@@ -70915,14 +70931,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 60890,
-      "num": 145416,
-      "word": "女子早高峰占电梯被推出去后厮打",
-      "onboard_time": 1766591422,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60827,
       "num": 60827,
       "word": "青岛下雪",
@@ -71121,6 +71129,14 @@
       "onboard_time": 1765794982,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60038,
+      "num": 65769,
+      "word": "吸毒记录封存不是消除删除记录",
+      "onboard_time": 1766595257,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60002,
@@ -71745,14 +71761,6 @@
       "onboard_time": 1765342821,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 57176,
-      "num": 145471,
-      "word": "落空直播",
-      "onboard_time": 1766592260,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 57155,
@@ -80849,6 +80857,14 @@
       "onboard_time": 1765777222,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27205,
+      "num": 65550,
+      "word": "日本高官拥核言论绝非孤立事件",
+      "onboard_time": 1766596696,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27186,
