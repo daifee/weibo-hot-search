@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 05:26:29
+本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 05:40:35
 </p>
 </blockquote>
 <p>
@@ -11313,6 +11313,12 @@ deepseek崩了（热度：18326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23" target="weibo">
+美国斩杀线的另一个名字叫资本主义（热度：14249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A23%E5%90%8D%E9%99%AA%E4%BE%8D%E4%BA%BA%E5%91%98%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23" target="weibo">
 私人影院3名陪侍人员被行政处罚（热度：14210）
 </a>
@@ -11321,12 +11327,6 @@ deepseek崩了（热度：18326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%98%B4%E8%A7%92%E8%87%AA%E5%8A%A8%E4%B8%8A%E6%89%AC%23" target="weibo">
 侯明昊嘴角自动上扬（热度：14122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23" target="weibo">
-美国斩杀线的另一个名字叫资本主义（热度：14096）
 </a>
 </li>
 
@@ -11386,7 +11386,13 @@ deepseek崩了（热度：18326）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD%23" target="weibo">
-破镜重圆只有三种可能（热度：10346）
+破镜重圆只有三种可能（热度：10679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%8C%AE%E5%94%B1%E4%BA%BA%E4%B9%8B%E5%88%9D%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
+周深献唱人之初主题曲（热度：9738）
 </a>
 </li>
 
