@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 01:42:24
+本榜单时间：2025/12/21 00:33:33 ~ 2025/12/25 02:40:19
 </p>
 </blockquote>
 <p>
@@ -7935,6 +7935,12 @@ BLG战胜LNG（热度：95785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E6%B6%88%E9%99%A4%E5%88%A0%E9%99%A4%E8%AE%B0%E5%BD%95%23" target="weibo">
+吸毒记录封存不是消除删除记录（热度：95569）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%80%E7%94%9F%E6%AF%94%E5%88%AB%E4%BA%BA%E5%A4%9A%E8%AF%B4%E5%A5%BD%E5%A4%9A%E5%8F%A5%E5%AF%B9%E4%B8%8D%E8%B5%B7%23" target="weibo">
 她一生比别人多说好多句对不起（热度：95399）
 </a>
@@ -9329,12 +9335,6 @@ nova15搭载行业唯一前后双红枫（热度：74357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%B4%E5%8F%91%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0%23" target="weibo">
 为什么头发说走就走（热度：60235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E6%B6%88%E9%99%A4%E5%88%A0%E9%99%A4%E8%AE%B0%E5%BD%95%23" target="weibo">
-吸毒记录封存不是消除删除记录（热度：60038）
 </a>
 </li>
 
@@ -11061,6 +11061,12 @@ CMG国内十大体育新闻（热度：25788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E6%96%B0%E9%9F%B3%E5%BD%A9%E6%8E%92%23" target="weibo">
+杨博文新音彩排（热度：20547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E8%BF%99%E4%B8%80%E8%B7%A4%E6%91%94%E7%9A%84%E4%B8%8D%E8%BD%BB%23" target="weibo">
 孟子义星光大赏这一跤摔的不轻（热度：20482）
 </a>
@@ -11147,6 +11153,12 @@ CMG国内十大体育新闻（热度：25788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A4%A7%E8%BF%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 刘宇宁大连演唱会（热度：18879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%9B%9B%E5%BC%80%23" target="weibo">
+新音四开（热度：18875）
 </a>
 </li>
 

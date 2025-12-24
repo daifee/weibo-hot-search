@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766598144439,
+  "endTime": 1766601619926,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -60155,6 +60155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95569,
+      "num": 95569,
+      "word": "吸毒记录封存不是消除删除记录",
+      "onboard_time": 1766595257,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95532,
       "num": 95532,
       "word": "蒯曼描述孙颖莎受伤经过",
@@ -71129,14 +71137,6 @@
       "onboard_time": 1765794982,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60038,
-      "num": 65769,
-      "word": "吸毒记录封存不是消除删除记录",
-      "onboard_time": 1766595257,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60002,
@@ -82931,6 +82931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20547,
+      "num": 36880,
+      "word": "杨博文新音彩排",
+      "onboard_time": 1766601435,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20503,
       "num": 101069,
       "word": "天然气项目投资上亿被告知无权经营",
@@ -83337,6 +83345,14 @@
       "onboard_time": 1766179815,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18875,
+      "num": 36802,
+      "word": "新音四开",
+      "onboard_time": 1766597357,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 18851,

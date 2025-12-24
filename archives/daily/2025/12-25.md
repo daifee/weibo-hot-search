@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/25 00:35:04 ~ 2025/12/25 01:42:24
+本榜单时间：2025/12/25 00:35:04 ~ 2025/12/25 02:40:19
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E6%B6%88%E9%99%A4%E5%88%A0%E9%99%A4%E8%AE%B0%E5%BD%95%23" target="weibo">
+吸毒记录封存不是消除删除记录（热度：95569）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%BD%E7%A9%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
 落空直播（热度：89566）
 </a>
@@ -251,12 +257,6 @@ TVB女演员钟丽淇女儿患罕见病（热度：65424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%8B%E8%BD%B4%E5%AE%98%E5%AE%A3%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%23" target="weibo">
 肖战压轴官宣东方卫视跨年（热度：63109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E6%B6%88%E9%99%A4%E5%88%A0%E9%99%A4%E8%AE%B0%E5%BD%95%23" target="weibo">
-吸毒记录封存不是消除删除记录（热度：60038）
 </a>
 </li>
 
@@ -371,6 +371,24 @@ CMG国内十大体育新闻（热度：25788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%23" target="weibo">
 长津湖（热度：23540）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E6%96%B0%E9%9F%B3%E5%BD%A9%E6%8E%92%23" target="weibo">
+杨博文新音彩排（热度：20547）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%9B%9B%E5%BC%80%23" target="weibo">
+新音四开（热度：18875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%93%E5%8D%A1%E7%8E%A9%E6%B3%95%E5%8F%88%E5%8D%87%E7%BA%A7%E4%BA%86%23" target="weibo">
+冰雪大世界打卡玩法又升级了（热度：11158）
 </a>
 </li>
 

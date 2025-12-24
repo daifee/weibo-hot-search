@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766598144439,
+  "endTime": 1766601619926,
   "band_list": [
     {
       "raw_hot": 683228,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95569,
+      "num": 95569,
+      "word": "吸毒记录封存不是消除删除记录",
+      "onboard_time": 1766595257,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89566,
       "num": 145471,
       "word": "落空直播",
@@ -321,14 +329,6 @@
       "onboard_time": 1766549844,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60038,
-      "num": 65769,
-      "word": "吸毒记录封存不是消除删除记录",
-      "onboard_time": 1766595257,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58306,
@@ -480,6 +480,30 @@
       "word": "长津湖",
       "onboard_time": 1766583322,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20547,
+      "num": 36880,
+      "word": "杨博文新音彩排",
+      "onboard_time": 1766601435,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18875,
+      "num": 36802,
+      "word": "新音四开",
+      "onboard_time": 1766597357,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11158,
+      "num": 78568,
+      "word": "冰雪大世界打卡玩法又升级了",
+      "onboard_time": 1766583442,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
