@@ -1,0 +1,410 @@
+{
+  "runTime": 1766558663757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 735738,
+        "num": 1117718,
+        "word": "法工委回应吸毒记录封存相关问题",
+        "onboard_time": 1766546962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413441,
+        "num": 413441,
+        "word": "哑舍为啥播成这样",
+        "onboard_time": 1766552423,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65786,
+        "num": 409233,
+        "word": "我国渤海发现第七个亿吨级油田",
+        "onboard_time": 1766553204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1195722,
+        "num": 408463,
+        "word": "爱吃酱香饼的人天塌了",
+        "onboard_time": 1766554823,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 407035,
+        "num": 407035,
+        "word": "肖战压轴官宣东方卫视跨年",
+        "onboard_time": 1766549844,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828417,
+        "num": 405429,
+        "word": "美国斩杀线",
+        "onboard_time": 1766550742,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455977,
+        "num": 370573,
+        "word": "短剧一姐的含金量",
+        "onboard_time": 1766552183,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334554,
+        "num": 334554,
+        "word": "老人一儿一女已故全村人选择瞒着",
+        "onboard_time": 1766549782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320934,
+        "num": 320934,
+        "word": "自闭症儿子遇难父母靠工作麻痹自己",
+        "onboard_time": 1766554945,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273183,
+        "num": 273183,
+        "word": "很多人都低估了1万元的威力",
+        "onboard_time": 1766551585,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387054,
+        "num": 272900,
+        "word": "河南火灾班主任",
+        "onboard_time": 1766550024,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362460,
+        "num": 272628,
+        "word": "爱吃蛋",
+        "onboard_time": 1766555781,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354855,
+        "num": 272512,
+        "word": "赵丽颖客串谭松韵新剧",
+        "onboard_time": 1766558122,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271692,
+        "num": 271692,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1766552365,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261726,
+        "num": 261726,
+        "word": "微博年度报告",
+        "onboard_time": 1766558601,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221898,
+        "num": 221898,
+        "word": "关于吸毒记录封存的3点说明",
+        "onboard_time": 1766547202,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215471,
+        "num": 215471,
+        "word": "上海家长吐槽学校要求冬至包饺子",
+        "onboard_time": 1766550084,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 209460,
+        "word": "陈伟霆给王安宇找台阶",
+        "onboard_time": 1766556802,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198181,
+        "num": 198181,
+        "word": "燕云十六声",
+        "onboard_time": 1766555482,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184225,
+        "num": 184225,
+        "word": "虞书欣双轨开分",
+        "onboard_time": 1766552964,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 912430,
+        "num": 182610,
+        "word": "官方回应哪位少爷吸了",
+        "onboard_time": 1766548942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625144,
+        "num": 181589,
+        "word": "张百乔老婆整容",
+        "onboard_time": 1766547622,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 947213,
+        "num": 178354,
+        "word": "王安宇意外公布陈伟霆孩子名字",
+        "onboard_time": 1766549244,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220768,
+        "num": 176059,
+        "word": "致癌精子生197个孩子部分已离世",
+        "onboard_time": 1766542401,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175847,
+        "num": 175847,
+        "word": "我不是药神原型现在怎么样了",
+        "onboard_time": 1766548403,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197206,
+        "num": 175691,
+        "word": "这个病会走得很痛苦",
+        "onboard_time": 1766552365,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170423,
+        "num": 170423,
+        "word": "程晓玥挺孕肚见证吴千语销售额破亿",
+        "onboard_time": 1766550142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166086,
+        "num": 166086,
+        "word": "印度护士敲错门被拖进房间灌酒侵害",
+        "onboard_time": 1766553502,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38004,
+        "num": 156313,
+        "word": "波司登的内娱覆盖率",
+        "onboard_time": 1766557103,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 151738,
+        "num": 151738,
+        "word": "拍蛇片把蛇搞丢的后果",
+        "onboard_time": 1766548704,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185265,
+        "num": 149971,
+        "word": "低丸子头才是穿羽绒服最好看的发型",
+        "onboard_time": 1766556802,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147746,
+        "num": 147746,
+        "word": "综艺界一下来了两个倒霉蛋",
+        "onboard_time": 1766557522,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144206,
+        "num": 144206,
+        "word": "杨瀚森4分2篮板2助攻",
+        "onboard_time": 1766556202,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 136605,
+        "word": "影石十万元悬赏黑公关",
+        "onboard_time": 1766558242,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136207,
+        "num": 136207,
+        "word": "偶练选手上综艺说考虑结婚了",
+        "onboard_time": 1766556323,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135476,
+        "num": 135476,
+        "word": "经纪公司称李凯尔仍是中国籍",
+        "onboard_time": 1766558301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127541,
+        "num": 127541,
+        "word": "女生考研北大熬夜复习错过考试",
+        "onboard_time": 1766558002,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123882,
+        "num": 126284,
+        "word": "短国男主居然出击跨年了",
+        "onboard_time": 1766558059,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126108,
+        "num": 126108,
+        "word": "iPhone18Pro最新前瞻",
+        "onboard_time": 1766558180,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125017,
+        "num": 125017,
+        "word": "吸毒人员至少半年不得进娱乐场所",
+        "onboard_time": 1766556021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116346,
+        "num": 116346,
+        "word": "原来语言真的能改变长相",
+        "onboard_time": 1766556502,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112120,
+        "num": 112120,
+        "word": "孙子肚上蹦跳致爷爷动脉破裂",
+        "onboard_time": 1766552604,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111070,
+        "num": 111070,
+        "word": "孙颖莎连续四年女单年终世界第一",
+        "onboard_time": 1766551765,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103502,
+        "num": 103502,
+        "word": "网传与Faker共进晚餐价格",
+        "onboard_time": 1766555722,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99430,
+        "num": 99430,
+        "word": "夫妻情侣互发私密照不会轻易被追责",
+        "onboard_time": 1766555064,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93235,
+        "num": 93235,
+        "word": "展轩后援会分票",
+        "onboard_time": 1766555123,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93196,
+        "num": 93196,
+        "word": "王楚钦蝉联男子单打年终世界第一",
+        "onboard_time": 1766552062,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92628,
+        "num": 92628,
+        "word": "骄阳似我",
+        "onboard_time": 1766554282,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92512,
+        "num": 92512,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766548824,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89517,
+        "num": 89517,
+        "word": "新生儿医院去世涉事人员停职",
+        "onboard_time": 1766548343,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交2025年度回眸#"
+    }
+  }
+}

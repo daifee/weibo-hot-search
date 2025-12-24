@@ -1,6 +1,6 @@
 {
   "startTime": 1766507842419,
-  "endTime": 1766555316224,
+  "endTime": 1766558663757,
   "band_list": [
     {
       "raw_hot": 6896105,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1195722,
+      "num": 408463,
+      "word": "爱吃酱香饼的人天塌了",
+      "onboard_time": 1766554823,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1011359,
       "num": 661066,
       "word": "肖战压轴官宣东方卫视跨年",
@@ -81,6 +89,14 @@
       "onboard_time": 1766550024,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 828417,
+      "num": 510810,
+      "word": "美国斩杀线",
+      "onboard_time": 1766550742,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 789368,
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516927,
-      "num": 510810,
-      "word": "美国斩杀线",
-      "onboard_time": 1766550742,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 502394,
       "num": 502394,
       "word": "李凯尔改回原名凯尔安德森",
@@ -187,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 455977,
+      "num": 370573,
+      "word": "短剧一姐的含金量",
+      "onboard_time": 1766552183,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447584,
       "num": 447584,
       "word": "拍蛇片把蛇搞丢的后果",
@@ -209,6 +225,14 @@
       "onboard_time": 1766550084,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 413441,
+      "num": 413441,
+      "word": "哑舍为啥播成这样",
+      "onboard_time": 1766552423,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 402924,
@@ -259,11 +283,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 360489,
-      "num": 360489,
-      "word": "短剧一姐的含金量",
-      "onboard_time": 1766552183,
-      "rank": 25,
+      "raw_hot": 362460,
+      "num": 272628,
+      "word": "爱吃蛋",
+      "onboard_time": 1766555781,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 354855,
+      "num": 272512,
+      "word": "赵丽颖客串谭松韵新剧",
+      "onboard_time": 1766558122,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -305,6 +337,14 @@
       "onboard_time": 1766547681,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320934,
+      "num": 320934,
+      "word": "自闭症儿子遇难父母靠工作麻痹自己",
+      "onboard_time": 1766554945,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319733,
@@ -363,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291115,
-      "num": 385204,
-      "word": "爱吃酱香饼的人天塌了",
-      "onboard_time": 1766554823,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 285016,
       "num": 276453,
       "word": "黄荷娜被警方逮捕",
@@ -385,6 +417,14 @@
       "onboard_time": 1766538202,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273183,
+      "num": 273183,
+      "word": "很多人都低估了1万元的威力",
+      "onboard_time": 1766551585,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 272749,
@@ -417,6 +457,14 @@
       "onboard_time": 1766520914,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 261726,
+      "num": 261726,
+      "word": "微博年度报告",
+      "onboard_time": 1766558601,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 257296,
@@ -483,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231243,
-      "num": 231243,
-      "word": "很多人都低估了1万元的威力",
-      "onboard_time": 1766551585,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230678,
       "num": 230678,
       "word": "橹穆彩排单膝下跪",
@@ -547,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "陈伟霆给王安宇找台阶",
+      "onboard_time": 1766556802,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209193,
       "num": 209193,
       "word": "对戒毒吸毒人员信息一直实行管控",
@@ -569,6 +617,14 @@
       "onboard_time": 1766551585,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198181,
+      "num": 198181,
+      "word": "燕云十六声",
+      "onboard_time": 1766555482,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 195068,
@@ -627,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185265,
+      "num": 149971,
+      "word": "低丸子头才是穿羽绒服最好看的发型",
+      "onboard_time": 1766556802,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "王彦霖 爱上肖战是人之常情",
@@ -649,14 +713,6 @@
       "onboard_time": 1766549844,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 178347,
-      "num": 178347,
-      "word": "哑舍为啥播成这样",
-      "onboard_time": 1766552423,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 176732,
@@ -875,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147746,
+      "num": 147746,
+      "word": "综艺界一下来了两个倒霉蛋",
+      "onboard_time": 1766557522,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145731,
       "num": 145731,
       "word": "苏醒新家假马尔代夫真春晚现场",
@@ -889,6 +953,14 @@
       "onboard_time": 1766550624,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144206,
+      "num": 144206,
+      "word": "杨瀚森4分2篮板2助攻",
+      "onboard_time": 1766556202,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 143804,
@@ -963,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136605,
+      "num": 136605,
+      "word": "影石十万元悬赏黑公关",
+      "onboard_time": 1766558242,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136444,
       "num": 136444,
       "word": "法律面前一律平等",
@@ -977,6 +1057,22 @@
       "onboard_time": 1766499563,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136207,
+      "num": 136207,
+      "word": "偶练选手上综艺说考虑结婚了",
+      "onboard_time": 1766556323,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135476,
+      "num": 135476,
+      "word": "经纪公司称李凯尔仍是中国籍",
+      "onboard_time": 1766558301,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 135078,
@@ -1075,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127541,
+      "num": 127541,
+      "word": "女生考研北大熬夜复习错过考试",
+      "onboard_time": 1766558002,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127266,
       "num": 127266,
       "word": "闫妮首获金莲花最佳女主",
@@ -1091,12 +1195,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126108,
+      "num": 126108,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 125017,
+      "num": 125017,
+      "word": "吸毒人员至少半年不得进娱乐场所",
+      "onboard_time": 1766556021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124587,
       "num": 124587,
       "word": "对不同年终奖的态度",
       "onboard_time": 1766555064,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123882,
+      "num": 126284,
+      "word": "短国男主居然出击跨年了",
+      "onboard_time": 1766558059,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 121331,
@@ -1129,6 +1257,14 @@
       "onboard_time": 1766546541,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116346,
+      "num": 116346,
+      "word": "原来语言真的能改变长相",
+      "onboard_time": 1766556502,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 116312,
@@ -1227,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103502,
+      "num": 103502,
+      "word": "网传与Faker共进晚餐价格",
+      "onboard_time": 1766555722,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103205,
       "num": 177823,
       "word": "L3级自动驾驶专用正式号牌来了",
@@ -1257,6 +1401,14 @@
       "onboard_time": 1766535201,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99430,
+      "num": 188231,
+      "word": "夫妻情侣互发私密照不会轻易被追责",
+      "onboard_time": 1766555064,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98793,
@@ -1443,14 +1595,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 69000,
-      "num": 188231,
-      "word": "夫妻情侣互发私密照不会轻易被追责",
-      "onboard_time": 1766555064,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68797,
       "num": 267751,
       "word": "冬季总咳嗽别硬扛",
@@ -1481,6 +1625,14 @@
       "onboard_time": 1766515995,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65786,
+      "num": 609566,
+      "word": "我国渤海发现第七个亿吨级油田",
+      "onboard_time": 1766553204,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64768,
@@ -1537,14 +1689,6 @@
       "onboard_time": 1766531058,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59340,
-      "num": 609566,
-      "word": "我国渤海发现第七个亿吨级油田",
-      "onboard_time": 1766553204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58688,
@@ -1755,12 +1899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37916,
-      "num": 287027,
-      "word": "自闭症儿子遇难父母靠工作麻痹自己",
-      "onboard_time": 1766554945,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 38004,
+      "num": 156313,
+      "word": "波司登的内娱覆盖率",
+      "onboard_time": 1766557103,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 37825,

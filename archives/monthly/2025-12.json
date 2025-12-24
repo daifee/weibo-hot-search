@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766555316224,
+  "endTime": 1766558663757,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1765901061,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1195722,
+      "num": 408463,
+      "word": "爱吃酱香饼的人天塌了",
+      "onboard_time": 1766554823,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 1193831,
@@ -3483,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 828417,
+      "num": 655533,
+      "word": "美国斩杀线",
+      "onboard_time": 1766378901,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 827979,
       "num": 827979,
       "word": "王楚钦4比3松岛辉空",
@@ -3945,14 +3961,6 @@
       "onboard_time": 1765244781,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 767740,
-      "num": 655533,
-      "word": "美国斩杀线",
-      "onboard_time": 1766378901,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 767049,
@@ -9907,6 +9915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 455977,
+      "num": 370573,
+      "word": "短剧一姐的含金量",
+      "onboard_time": 1766552183,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455740,
       "num": 263093,
       "word": "吉林警方通报恶性案件嫌犯被抓获",
@@ -11425,6 +11441,14 @@
       "onboard_time": 1764751703,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413441,
+      "num": 413441,
+      "word": "哑舍为啥播成这样",
+      "onboard_time": 1766552423,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 413232,
@@ -13547,6 +13571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362460,
+      "num": 272628,
+      "word": "爱吃蛋",
+      "onboard_time": 1766555781,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 361714,
       "num": 361714,
       "word": "三十年前的奢侈品零食有多好吃",
@@ -13617,14 +13649,6 @@
       "onboard_time": 1765341562,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360489,
-      "num": 360489,
-      "word": "短剧一姐的含金量",
-      "onboard_time": 1766552183,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 360185,
@@ -13841,6 +13865,14 @@
       "onboard_time": 1765603642,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354855,
+      "num": 272512,
+      "word": "赵丽颖客串谭松韵新剧",
+      "onboard_time": 1766558122,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 354808,
@@ -15731,6 +15763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320934,
+      "num": 320934,
+      "word": "自闭症儿子遇难父母靠工作麻痹自己",
+      "onboard_time": 1766554945,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320843,
       "num": 320843,
       "word": "考研英语作文",
@@ -17283,14 +17323,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 291115,
-      "num": 385204,
-      "word": "爱吃酱香饼的人天塌了",
-      "onboard_time": 1766554823,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 290948,
       "num": 290948,
       "word": "白鹿丞磊比心",
@@ -18467,6 +18499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273183,
+      "num": 273183,
+      "word": "很多人都低估了1万元的威力",
+      "onboard_time": 1766551585,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273097,
       "num": 1178149,
       "word": "工行存100万存20万利率相同",
@@ -19193,6 +19233,14 @@
       "onboard_time": 1765157060,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261726,
+      "num": 261726,
+      "word": "微博年度报告",
+      "onboard_time": 1766558601,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 261673,
@@ -21563,14 +21611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231243,
-      "num": 231243,
-      "word": "很多人都低估了1万元的威力",
-      "onboard_time": 1766551585,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231156,
       "num": 170050,
       "word": "北京印度餐厅老板 遣返",
@@ -23681,6 +23721,14 @@
       "onboard_time": 1764591802,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "陈伟霆给王安宇找台阶",
+      "onboard_time": 1766556802,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209424,
@@ -25985,6 +26033,14 @@
       "onboard_time": 1765517721,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198181,
+      "num": 448998,
+      "word": "燕云十六声",
+      "onboard_time": 1765236499,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 197924,
@@ -28667,6 +28723,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 185265,
+      "num": 149971,
+      "word": "低丸子头才是穿羽绒服最好看的发型",
+      "onboard_time": 1766556802,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185246,
       "num": 147015,
       "word": "王楚钦孙颖莎提前小组出线",
@@ -30033,14 +30097,6 @@
       "onboard_time": 1766381541,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178347,
-      "num": 178347,
-      "word": "哑舍为啥播成这样",
-      "onboard_time": 1766552423,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 178263,
@@ -36979,6 +37035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147746,
+      "num": 147746,
+      "word": "综艺界一下来了两个倒霉蛋",
+      "onboard_time": 1766557522,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147739,
       "num": 147739,
       "word": "大爷配的药完美解决了全菌操作",
@@ -37969,6 +38033,14 @@
       "onboard_time": 1765269323,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144206,
+      "num": 144206,
+      "word": "杨瀚森4分2篮板2助攻",
+      "onboard_time": 1766556202,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 144179,
@@ -40547,6 +40619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136605,
+      "num": 136605,
+      "word": "影石十万元悬赏黑公关",
+      "onboard_time": 1766558242,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136574,
       "num": 136574,
       "word": "小狗不知道演戏只知道成毅很难过",
@@ -40745,6 +40825,14 @@
       "onboard_time": 1765422081,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136207,
+      "num": 136207,
+      "word": "偶练选手上综艺说考虑结婚了",
+      "onboard_time": 1766556323,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 136160,
@@ -40993,6 +41081,14 @@
       "onboard_time": 1766328926,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 135476,
+      "num": 135476,
+      "word": "经纪公司称李凯尔仍是中国籍",
+      "onboard_time": 1766558301,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 135473,
@@ -44195,6 +44291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127541,
+      "num": 127541,
+      "word": "女生考研北大熬夜复习错过考试",
+      "onboard_time": 1766558002,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127456,
       "num": 127456,
       "word": "张雪峰说已经深刻反省",
@@ -44699,6 +44803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126108,
+      "num": 126108,
+      "word": "iPhone18Pro最新前瞻",
+      "onboard_time": 1766558180,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126099,
       "num": 126099,
       "word": "尹正想演军人但是被调剂了",
@@ -45137,6 +45249,14 @@
       "onboard_time": 1765635263,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125017,
+      "num": 125017,
+      "word": "吸毒人员至少半年不得进娱乐场所",
+      "onboard_time": 1766556021,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124998,
@@ -45641,6 +45761,14 @@
       "onboard_time": 1765531823,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123882,
+      "num": 126284,
+      "word": "短国男主居然出击跨年了",
+      "onboard_time": 1766558059,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 123846,
@@ -49009,6 +49137,14 @@
       "onboard_time": 1764680723,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116346,
+      "num": 116346,
+      "word": "原来语言真的能改变长相",
+      "onboard_time": 1766556502,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 116328,
@@ -54763,6 +54899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103502,
+      "num": 103502,
+      "word": "网传与Faker共进晚餐价格",
+      "onboard_time": 1766555722,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103491,
       "num": 103491,
       "word": "何婧婧自曝是孤儿",
@@ -57017,6 +57161,14 @@
       "onboard_time": 1766063302,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99430,
+      "num": 188231,
+      "word": "夫妻情侣互发私密照不会轻易被追责",
+      "onboard_time": 1766555064,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99408,
@@ -67291,14 +67443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69000,
-      "num": 188231,
-      "word": "夫妻情侣互发私密照不会轻易被追责",
-      "onboard_time": 1766555064,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68988,
       "num": 120810,
       "word": "冲绳向高市政府提交请愿书",
@@ -68003,6 +68147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65786,
+      "num": 609566,
+      "word": "我国渤海发现第七个亿吨级油田",
+      "onboard_time": 1766553204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65774,
       "num": 181335,
       "word": "刘宇宁六个舞台哭六次",
@@ -68097,14 +68249,6 @@
       "onboard_time": 1765900760,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65210,
-      "num": 448998,
-      "word": "燕云十六声",
-      "onboard_time": 1765236499,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 65209,
@@ -69425,14 +69569,6 @@
       "onboard_time": 1766133442,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59340,
-      "num": 609566,
-      "word": "我国渤海发现第七个亿吨级油田",
-      "onboard_time": 1766553204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59313,
@@ -75219,6 +75355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38004,
+      "num": 156313,
+      "word": "波司登的内娱覆盖率",
+      "onboard_time": 1766557103,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 37971,
       "num": 215557,
       "word": "韩国戒严事件一周年",
@@ -75233,14 +75377,6 @@
       "onboard_time": 1765777222,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37916,
-      "num": 287027,
-      "word": "自闭症儿子遇难父母靠工作麻痹自己",
-      "onboard_time": 1766554945,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37899,
