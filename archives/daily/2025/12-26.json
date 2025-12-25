@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766697988725,
+  "endTime": 1766698859272,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -507,24 +507,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11007,
-      "num": 17801,
+      "raw_hot": 11749,
+      "num": 19236,
       "word": "老人被城管队员推倒后离世",
       "onboard_time": 1766663360,
       "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10776,
-      "num": 16320,
+      "raw_hot": 10947,
+      "num": 19227,
       "word": "乒超",
       "onboard_time": 1766655141,
       "rank": 47,
       "category": "体育"
     },
     {
-      "raw_hot": 10281,
-      "num": 17787,
+      "raw_hot": 10399,
+      "num": 19219,
       "word": "952名缅甸涉电诈嫌犯被押解回国",
       "onboard_time": 1766667201,
       "rank": 49,
