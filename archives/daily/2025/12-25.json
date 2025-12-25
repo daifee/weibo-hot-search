@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766644999019,
+  "endTime": 1766645820802,
   "band_list": [
     {
       "raw_hot": 1025676,
@@ -75,27 +75,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 631670,
-      "num": 150216,
-      "word": "曝男顶流拍戏受伤",
-      "onboard_time": 1766589562,
-      "rank": 20,
+      "raw_hot": 680576,
+      "num": 221395,
+      "word": "朱孝天举报五月天所属公司",
+      "onboard_time": 1766641643,
+      "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 627322,
-      "num": 1100371,
+      "raw_hot": 668769,
+      "num": 1107003,
       "word": "夫妻俩虚假报名758次公务员考试获刑",
       "onboard_time": 1766642062,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 616280,
-      "num": 221395,
-      "word": "朱孝天举报五月天所属公司",
-      "onboard_time": 1766641643,
-      "rank": 48,
+      "raw_hot": 631670,
+      "num": 150216,
+      "word": "曝男顶流拍戏受伤",
+      "onboard_time": 1766589562,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -163,6 +163,14 @@
       "category": "旅游,作品衍生"
     },
     {
+      "raw_hot": 480653,
+      "num": 276261,
+      "word": "iPhone18Pro左上角挖孔设计",
+      "onboard_time": 1766644702,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 474307,
       "num": 152759,
       "word": "朱孝天疑似明涵阿信",
@@ -184,6 +192,14 @@
       "word": "紫燕百味鸡店员偷减牛肉被抓现行",
       "onboard_time": 1766637021,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435877,
+      "num": 272972,
+      "word": "西贝预制菜风波100天后贾国龙现状",
+      "onboard_time": 1766644101,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -227,7 +243,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411096,
+      "raw_hot": 412904,
       "num": 218702,
       "word": "曝杜克恋情",
       "onboard_time": 1766642362,
@@ -267,20 +283,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350542,
-      "num": 268010,
-      "word": "林心如一开始没想过和霍建华在一起",
-      "onboard_time": 1766639723,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 355818,
+      "num": 218131,
+      "word": "方圆为copy杨颖定制造型道歉",
+      "onboard_time": 1766642421,
+      "rank": 24,
+      "category": "网红"
     },
     {
-      "raw_hot": 348802,
-      "num": 348802,
+      "raw_hot": 351983,
+      "num": 351983,
       "word": "南博镇馆之宝金兽被指脱皮掉色",
       "onboard_time": 1766641222,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350542,
+      "num": 270570,
+      "word": "林心如一开始没想过和霍建华在一起",
+      "onboard_time": 1766639723,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 346005,
@@ -403,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266840,
+      "num": 202604,
+      "word": "梁淞 你的钱还不是我付的",
+      "onboard_time": 1766644702,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259851,
       "num": 135487,
       "word": "只要保持一个月十点之前睡觉",
@@ -443,14 +475,6 @@
       "category": "情感,美食"
     },
     {
-      "raw_hot": 239663,
-      "num": 239663,
-      "word": "iPhone18Pro左上角挖孔设计",
-      "onboard_time": 1766644702,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 238922,
       "num": 238922,
       "word": "王一博 一生要出片的中国男人",
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218131,
-      "num": 218131,
-      "word": "方圆为copy杨颖定制造型道歉",
-      "onboard_time": 1766642421,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 213249,
       "num": 213249,
       "word": "重庆姐弟坠亡案妈妈近况",
@@ -513,6 +529,14 @@
       "onboard_time": 1766588783,
       "rank": 4,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 206945,
+      "num": 206945,
+      "word": "有这么萌的小鼻嘎进入国漫",
+      "onboard_time": 1766645360,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 205543,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201528,
+      "num": 201528,
+      "word": "关晓彤 有着最勇敢的19岁",
+      "onboard_time": 1766645420,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194523,
       "num": 292928,
       "word": "男子3年隔空猥亵40余名未成年人",
@@ -577,6 +609,14 @@
       "onboard_time": 1766635220,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 183064,
+      "num": 183064,
+      "word": "宁艺卓露腰礼服",
+      "onboard_time": 1766644642,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 179851,
@@ -633,14 +673,6 @@
       "onboard_time": 1766620940,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 174541,
-      "num": 219944,
-      "word": "西贝预制菜风波100天后贾国龙现状",
-      "onboard_time": 1766644101,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173399,
@@ -899,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140398,
+      "num": 203410,
+      "word": "钎城红衣节日氛围感",
+      "onboard_time": 1766645001,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140267,
       "num": 151673,
       "word": "河南火灾事故贾霞亲人发文",
@@ -913,14 +953,6 @@
       "onboard_time": 1766636602,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136950,
-      "num": 136950,
-      "word": "宁艺卓露腰礼服",
-      "onboard_time": 1766644642,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 134592,
@@ -969,6 +1001,14 @@
       "onboard_time": 1766631258,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131251,
+      "num": 131251,
+      "word": "死去的爸撒谎的妈怀疑全世界的他",
+      "onboard_time": 1766644460,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130135,
@@ -1027,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126527,
-      "num": 126527,
-      "word": "梁淞 你的钱还不是我付的",
-      "onboard_time": 1766644702,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125279,
       "num": 125279,
       "word": "王楚钦出发南京乒超",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1766634740,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 122096,
-      "num": 122096,
-      "word": "死去的爸撒谎的妈怀疑全世界的他",
-      "onboard_time": 1766644460,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 121214,
@@ -1099,6 +1123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119017,
+      "num": 119017,
+      "word": "杨迪的迪是迪丽热巴的迪",
+      "onboard_time": 1766644823,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117896,
+      "num": 117896,
+      "word": "2026年12星座年运",
+      "onboard_time": 1766645001,
+      "rank": 35,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 115639,
       "num": 115639,
       "word": "骄阳似我热度",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1766634501,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114651,
+      "num": 114651,
+      "word": "一诺抽到了自己的视频卡",
+      "onboard_time": 1766645661,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 113516,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1766627299,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111925,
+      "num": 111925,
+      "word": "贾国龙首次回应西贝预制菜风波",
+      "onboard_time": 1766644880,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111072,
@@ -1171,12 +1227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108185,
+      "num": 161468,
+      "word": "2人带30000多粒含冰毒减肥药入境",
+      "onboard_time": 1766642842,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105989,
       "num": 105989,
       "word": "女子嫌等待时间过长扇医生耳光被拘",
       "onboard_time": 1766624001,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105365,
+      "num": 105365,
+      "word": "美国人称仅在医院停留就花费41297",
+      "onboard_time": 1766645601,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 104576,
@@ -1203,10 +1275,10 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 101765,
-      "num": 101765,
-      "word": "贾国龙首次回应西贝预制菜风波",
-      "onboard_time": 1766644880,
+      "raw_hot": 101749,
+      "num": 101749,
+      "word": "夫妻虚假报名公考758次获缓刑",
+      "onboard_time": 1766645782,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -1241,14 +1313,6 @@
       "onboard_time": 1766642662,
       "rank": 48,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 98554,
-      "num": 98554,
-      "word": "杨迪的迪是迪丽热巴的迪",
-      "onboard_time": 1766644823,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 98483,
@@ -1579,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58706,
+      "num": 111101,
+      "word": "周杰伦昆凌合照中画作被曝近百万",
+      "onboard_time": 1766645420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58306,
       "num": 145594,
       "word": "BLG连续被零封",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1766580561,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30864,
+      "num": 110622,
+      "word": "聂曦光毕业后发现外面根本没下雨",
+      "onboard_time": 1766645241,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 30793,
