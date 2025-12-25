@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766701673315,
+  "endTime": 1766702667930,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224138,
+      "num": 112592,
+      "word": "朱孝天称因情绪失控发表失当言论",
+      "onboard_time": 1766679199,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219183,
       "num": 219183,
       "word": "估值2亿别墅6673万元起拍没人要",
@@ -89,14 +97,6 @@
       "onboard_time": 1766674282,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155026,
-      "num": 112592,
-      "word": "朱孝天称因情绪失控发表失当言论",
-      "onboard_time": 1766679199,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 154023,
@@ -195,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97359,
+      "num": 97359,
+      "word": "老舅",
+      "onboard_time": 1766699294,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95327,
       "num": 95326,
       "word": "李宏毅限高涉案金额1118万",
@@ -289,14 +297,6 @@
       "onboard_time": 1766672783,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61049,
-      "num": 61049,
-      "word": "老舅",
-      "onboard_time": 1766699294,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 60723,
@@ -451,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20413,
+      "raw_hot": 24225,
       "num": 33027,
       "word": "中方就TikTok将在美成立合资公司表态",
       "onboard_time": 1766660001,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19783,
+      "num": 29791,
+      "word": "老人被城管队员推倒后离世",
+      "onboard_time": 1766663360,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16271,
+      "num": 29723,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16256,
@@ -483,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14986,
-      "num": 29791,
-      "word": "老人被城管队员推倒后离世",
-      "onboard_time": 1766663360,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 14976,
+      "num": 32842,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1766660601,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 14824,
@@ -499,23 +515,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14473,
-      "num": 32842,
-      "word": "王者荣耀挑战者杯",
-      "onboard_time": 1766660601,
-      "rank": 49,
-      "category": "电竞"
+      "raw_hot": 14420,
+      "num": 113939,
+      "word": "150秒感受2025一路向前",
+      "onboard_time": 1766667801,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 14439,
-      "num": 29723,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12966,
+      "raw_hot": 13473,
       "num": 29674,
       "word": "乒超",
       "onboard_time": 1766655141,
@@ -529,14 +537,6 @@
       "onboard_time": 1766690474,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12047,
-      "num": 79641,
-      "word": "150秒感受2025一路向前",
-      "onboard_time": 1766667801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11926,
