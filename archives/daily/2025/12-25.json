@@ -1,7 +1,15 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766647776915,
+  "endTime": 1766648592082,
   "band_list": [
+    {
+      "raw_hot": 1309103,
+      "num": 218124,
+      "word": "李宏毅 限高",
+      "onboard_time": 1766646621,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1025676,
       "num": 315131,
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 564404,
-      "num": 218124,
-      "word": "李宏毅 限高",
-      "onboard_time": 1766646621,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 536416,
       "num": 253639,
       "word": "金莎回应被求婚",
@@ -161,6 +161,14 @@
       "onboard_time": 1766635041,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519977,
+      "num": 1083196,
+      "word": "2026年春节将放假九天",
+      "onboard_time": 1766646442,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486100,
@@ -203,7 +211,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 448861,
+      "raw_hot": 465586,
       "num": 218131,
       "word": "方圆为copy杨颖定制造型道歉",
       "onboard_time": 1766642421,
@@ -275,12 +283,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 378704,
+      "num": 378704,
+      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+      "onboard_time": 1766646561,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372988,
       "num": 321906,
       "word": "SBS",
       "onboard_time": 1766636301,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 371402,
+      "num": 206119,
+      "word": "关晓彤 有着最勇敢的19岁",
+      "onboard_time": 1766645420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 360557,
@@ -363,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314715,
-      "num": 201528,
-      "word": "关晓彤 有着最勇敢的19岁",
-      "onboard_time": 1766645420,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 318598,
+      "num": 205579,
+      "word": "第一次吃生腌虾悄悄用热水烫熟了",
+      "onboard_time": 1766646981,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 313741,
@@ -449,22 +473,6 @@
       "onboard_time": 1766619738,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267558,
-      "num": 267558,
-      "word": "2026年春节将放假九天",
-      "onboard_time": 1766646442,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262692,
-      "num": 262692,
-      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
-      "onboard_time": 1766646561,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 259851,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 211680,
-      "num": 163367,
+      "num": 166728,
       "word": "蓝盈莹夸卢昱晓畲族写真好看",
       "onboard_time": 1766646021,
       "rank": 27,
@@ -611,20 +619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202828,
+      "num": 172431,
+      "word": "这就是理想的婚姻生活吧",
+      "onboard_time": 1766647522,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194523,
       "num": 292928,
       "word": "男子3年隔空猥亵40余名未成年人",
       "onboard_time": 1766629821,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192735,
-      "num": 192735,
-      "word": "第一次吃生腌虾悄悄用热水烫熟了",
-      "onboard_time": 1766646981,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 189892,
@@ -641,6 +649,14 @@
       "onboard_time": 1766631801,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184609,
+      "num": 184609,
+      "word": "这部国漫让我猛猛摘抄金句",
+      "onboard_time": 1766647880,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 184366,
@@ -795,14 +811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 162661,
-      "num": 162661,
-      "word": "这就是理想的婚姻生活吧",
-      "onboard_time": 1766647522,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162594,
       "num": 162594,
       "word": "日本人开始吃熊肉",
@@ -891,12 +899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154343,
+      "num": 154343,
+      "word": "骨头汤不如牛奶补钙",
+      "onboard_time": 1766647403,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153634,
       "num": 153634,
       "word": "强生爽身粉致癌案判赔女子约110亿元",
       "onboard_time": 1766572821,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153319,
+      "num": 153319,
+      "word": "周杰伦昆凌合照中画作被曝近百万",
+      "onboard_time": 1766645420,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 152691,
@@ -939,20 +963,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148983,
-      "num": 148983,
-      "word": "周杰伦昆凌合照中画作被曝近百万",
-      "onboard_time": 1766645420,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148929,
-      "num": 148929,
-      "word": "骨头汤不如牛奶补钙",
-      "onboard_time": 1766647403,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 145975,
+      "num": 162947,
+      "word": "花599买羽绒服出店剪开全是飞丝",
+      "onboard_time": 1766647762,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145930,
@@ -961,6 +977,14 @@
       "onboard_time": 1766581762,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144894,
+      "num": 144894,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1766647220,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 144642,
@@ -1155,14 +1179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123996,
-      "num": 115352,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1766647220,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 123681,
       "num": 123681,
       "word": "陈思诚发了唐探新物料",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1766639001,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120684,
+      "num": 182734,
+      "word": "小米17Ultra徕卡版价格",
+      "onboard_time": 1766647942,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 120349,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1766645661,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113955,
+      "num": 161670,
+      "word": "母亲给1岁男童催吐不当住进ICU",
+      "onboard_time": 1766647880,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113516,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1766626880,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103734,
+      "num": 112793,
+      "word": "林心如的前男友是林志颖",
+      "onboard_time": 1766647821,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 102899,
@@ -1539,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91040,
+      "num": 91040,
+      "word": "长安二十四计 文臣拔刀武将死战",
+      "onboard_time": 1766648540,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90148,
       "num": 90148,
       "word": "今年车厘子价格大跳水",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1766628440,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68536,
+      "num": 114242,
+      "word": "狙击蝴蝶最大的受益人",
+      "onboard_time": 1766647642,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 67701,
@@ -1979,14 +2035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40222,
-      "num": 114242,
-      "word": "狙击蝴蝶最大的受益人",
-      "onboard_time": 1766647642,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39240,
       "num": 117276,
       "word": "日本为了拥核开始碰瓷",
@@ -2171,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24680,
+      "num": 184272,
+      "word": "孙颖莎的2025数据流报告",
+      "onboard_time": 1766646921,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23077,
       "num": 110919,
       "word": "69岁大妈12层扔垃圾砸坏车被判刑",
@@ -2233,14 +2289,6 @@
       "onboard_time": 1766604314,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12804,
-      "num": 184272,
-      "word": "孙颖莎的2025数据流报告",
-      "onboard_time": 1766646921,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 12226,

@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766647776915,
+  "endTime": 1766648592082,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -281,6 +281,14 @@
       "onboard_time": 1766307803,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1309103,
+      "num": 218124,
+      "word": "李宏毅 限高",
+      "onboard_time": 1766646621,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1303004,
@@ -1435,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564404,
-      "num": 218124,
-      "word": "李宏毅 限高",
-      "onboard_time": 1766646621,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 561461,
       "num": 360672,
       "word": "田曦薇咏梅撞衫",
@@ -1728,6 +1728,14 @@
       "word": "小洛熙尸检未见冠状窦型房间隔缺损",
       "onboard_time": 1766538741,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519977,
+      "num": 1083196,
+      "word": "2026年春节将放假九天",
+      "onboard_time": 1766646442,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2115,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465586,
+      "num": 218131,
+      "word": "方圆为copy杨颖定制造型道歉",
+      "onboard_time": 1766642421,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 464727,
       "num": 142571,
       "word": "张彬彬帮毛晓彤提裙子被打手",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1766330965,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 448861,
-      "num": 218131,
-      "word": "方圆为copy杨颖定制造型道歉",
-      "onboard_time": 1766642421,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 448426,
@@ -2707,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378704,
+      "num": 378704,
+      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+      "onboard_time": 1766646561,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378525,
       "num": 219264,
       "word": "杨紫工作室",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1766499862,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371402,
+      "num": 206119,
+      "word": "关晓彤 有着最勇敢的19岁",
+      "onboard_time": 1766645420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 367893,
@@ -3235,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318598,
+      "num": 205579,
+      "word": "第一次吃生腌虾悄悄用热水烫熟了",
+      "onboard_time": 1766646981,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318577,
       "num": 318577,
       "word": "毛晓彤星光大赏没约到摄影师",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1766464581,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314715,
-      "num": 201528,
-      "word": "关晓彤 有着最勇敢的19岁",
-      "onboard_time": 1766645420,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 313741,
@@ -3915,14 +3939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 267558,
-      "num": 267558,
-      "word": "2026年春节将放假九天",
-      "onboard_time": 1766646442,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266972,
       "num": 266972,
       "word": "本周做什么都顺的星座",
@@ -3977,14 +3993,6 @@
       "onboard_time": 1766494281,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262692,
-      "num": 262692,
-      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
-      "onboard_time": 1766646561,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 261860,
@@ -4748,7 +4756,7 @@
     },
     {
       "raw_hot": 211680,
-      "num": 163367,
+      "num": 166728,
       "word": "蓝盈莹夸卢昱晓畲族写真好看",
       "onboard_time": 1766646021,
       "rank": 27,
@@ -5033,6 +5041,14 @@
       "onboard_time": 1766551585,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202828,
+      "num": 172431,
+      "word": "这就是理想的婚姻生活吧",
+      "onboard_time": 1766647522,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 202790,
@@ -5475,14 +5491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192735,
-      "num": 192735,
-      "word": "第一次吃生腌虾悄悄用热水烫熟了",
-      "onboard_time": 1766646981,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192673,
       "num": 192673,
       "word": "鹿晗新歌预告",
@@ -5825,6 +5833,14 @@
       "onboard_time": 1766631801,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184609,
+      "num": 184609,
+      "word": "这部国漫让我猛猛摘抄金句",
+      "onboard_time": 1766647880,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 184605,
@@ -6723,14 +6739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162661,
-      "num": 162661,
-      "word": "这就是理想的婚姻生活吧",
-      "onboard_time": 1766647522,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162607,
       "num": 242913,
       "word": "KPL",
@@ -7123,6 +7131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154343,
+      "num": 154343,
+      "word": "骨头汤不如牛奶补钙",
+      "onboard_time": 1766647403,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154191,
       "num": 154191,
       "word": "余宇涵突袭直播",
@@ -7169,6 +7185,14 @@
       "onboard_time": 1766551883,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153319,
+      "num": 153319,
+      "word": "周杰伦昆凌合照中画作被曝近百万",
+      "onboard_time": 1766645420,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 152972,
@@ -7483,22 +7507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148983,
-      "num": 148983,
-      "word": "周杰伦昆凌合照中画作被曝近百万",
-      "onboard_time": 1766645420,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148929,
-      "num": 148929,
-      "word": "骨头汤不如牛奶补钙",
-      "onboard_time": 1766647403,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "属于当代年轻人的送礼方式",
@@ -7683,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145975,
+      "num": 162947,
+      "word": "花599买羽绒服出店剪开全是飞丝",
+      "onboard_time": 1766647762,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145731,
       "num": 145731,
       "word": "苏醒新家假马尔代夫真春晚现场",
@@ -7729,6 +7745,14 @@
       "onboard_time": 1766393181,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144894,
+      "num": 144894,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1766647220,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 144642,
@@ -9379,14 +9403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123996,
-      "num": 115352,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1766647220,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "MEI成员退团",
@@ -9561,6 +9577,14 @@
       "onboard_time": 1766291779,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120684,
+      "num": 182734,
+      "word": "小米17Ultra徕卡版价格",
+      "onboard_time": 1766647942,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 120613,
@@ -10049,6 +10073,14 @@
       "onboard_time": 1766314883,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113955,
+      "num": 161670,
+      "word": "母亲给1岁男童催吐不当住进ICU",
+      "onboard_time": 1766647880,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113861,
@@ -10977,6 +11009,14 @@
       "onboard_time": 1766505683,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103734,
+      "num": 112793,
+      "word": "林心如的前男友是林志颖",
+      "onboard_time": 1766647821,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 103727,
@@ -12057,6 +12097,14 @@
       "onboard_time": 1766312303,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91040,
+      "num": 91040,
+      "word": "长安二十四计 文臣拔刀武将死战",
+      "onboard_time": 1766648540,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 90889,
@@ -13409,6 +13457,14 @@
       "onboard_time": 1766536943,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68536,
+      "num": 114242,
+      "word": "狙击蝴蝶最大的受益人",
+      "onboard_time": 1766647642,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 68462,
@@ -14923,14 +14979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40222,
-      "num": 114242,
-      "word": "狙击蝴蝶最大的受益人",
-      "onboard_time": 1766647642,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40157,
       "num": 117532,
       "word": "日本杀虫剂公司为昆虫举行追悼会",
@@ -16067,6 +16115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24680,
+      "num": 184272,
+      "word": "孙颖莎的2025数据流报告",
+      "onboard_time": 1766646921,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24571,
       "num": 137486,
       "word": "女子家门口遇害案被告人将上诉",
@@ -16769,14 +16825,6 @@
       "onboard_time": 1766582242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12804,
-      "num": 184272,
-      "word": "孙颖莎的2025数据流报告",
-      "onboard_time": 1766646921,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 12665,

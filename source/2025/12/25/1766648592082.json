@@ -1,0 +1,410 @@
+{
+  "runTime": 1766648592082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519977,
+        "num": 1083196,
+        "word": "2026年春节将放假九天",
+        "onboard_time": 1766646442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449514,
+        "num": 449514,
+        "word": "夫妻俩虚假报名758次公务员考试获刑",
+        "onboard_time": 1766642062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25455,
+        "num": 387595,
+        "word": "2025打破纪录的高光时刻",
+        "onboard_time": 1766636901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378704,
+        "num": 378704,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215597,
+        "num": 215597,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553689,
+        "num": 214284,
+        "word": "iPhone18Pro左上角挖孔设计",
+        "onboard_time": 1766644702,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 409381,
+        "num": 213747,
+        "word": "西贝预制菜风波100天后贾国龙现状",
+        "onboard_time": 1766644101,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333289,
+        "num": 210243,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 7,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 295376,
+        "num": 209230,
+        "word": "梁淞 你的钱还不是我付的",
+        "onboard_time": 1766644702,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208306,
+        "num": 208306,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1309103,
+        "num": 208289,
+        "word": "李宏毅 限高",
+        "onboard_time": 1766646621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523433,
+        "num": 207514,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465586,
+        "num": 206813,
+        "word": "方圆为copy杨颖定制造型道歉",
+        "onboard_time": 1766642421,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 371402,
+        "num": 206119,
+        "word": "关晓彤 有着最勇敢的19岁",
+        "onboard_time": 1766645420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318598,
+        "num": 205579,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286655,
+        "num": 204673,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204267,
+        "num": 204267,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184609,
+        "num": 184609,
+        "word": "这部国漫让我猛猛摘抄金句",
+        "onboard_time": 1766647880,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120684,
+        "num": 182734,
+        "word": "小米17Ultra徕卡版价格",
+        "onboard_time": 1766647942,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120282,
+        "num": 181968,
+        "word": "PEL集结夜路透",
+        "onboard_time": 1766647461,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265684,
+        "num": 178509,
+        "word": "陈晓的腰",
+        "onboard_time": 1766641340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247562,
+        "num": 175813,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238581,
+        "num": 172951,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 172431,
+        "word": "这就是理想的婚姻生活吧",
+        "onboard_time": 1766647522,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193803,
+        "num": 168922,
+        "word": "曝杜克恋情",
+        "onboard_time": 1766642362,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1766640981,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 176220,
+        "num": 166728,
+        "word": "蓝盈莹夸卢昱晓畲族写真好看",
+        "onboard_time": 1766646021,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145975,
+        "num": 162947,
+        "word": "花599买羽绒服出店剪开全是飞丝",
+        "onboard_time": 1766647762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113955,
+        "num": 161670,
+        "word": "母亲给1岁男童催吐不当住进ICU",
+        "onboard_time": 1766647880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85572,
+        "num": 159524,
+        "word": "2人带30000多粒含冰毒减肥药入境",
+        "onboard_time": 1766642842,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24680,
+        "num": 154524,
+        "word": "孙颖莎的2025数据流报告",
+        "onboard_time": 1766646921,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 154343,
+        "word": "骨头汤不如牛奶补钙",
+        "onboard_time": 1766647403,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153319,
+        "num": 153319,
+        "word": "周杰伦昆凌合照中画作被曝近百万",
+        "onboard_time": 1766645420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1766647220,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125424,
+        "num": 125424,
+        "word": "林心如一开始没想过和霍建华在一起",
+        "onboard_time": 1766639723,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118492,
+        "num": 118492,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113830,
+        "num": 113830,
+        "word": "宁艺卓露腰礼服",
+        "onboard_time": 1766644642,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88650,
+        "num": 113058,
+        "word": "法院判决自媒体赔偿比亚迪200万元",
+        "onboard_time": 1766646262,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68536,
+        "num": 112874,
+        "word": "狙击蝴蝶最大的受益人",
+        "onboard_time": 1766647642,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103734,
+        "num": 112793,
+        "word": "林心如的前男友是林志颖",
+        "onboard_time": 1766647821,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112760,
+        "num": 112760,
+        "word": "紫燕百味鸡店员偷减牛肉被抓现行",
+        "onboard_time": 1766637021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107011,
+        "num": 107011,
+        "word": "SBS",
+        "onboard_time": 1766636301,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101481,
+        "num": 101481,
+        "word": "开拓者球迷因杨瀚森不上场退季票",
+        "onboard_time": 1766646262,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "大学生投票一天到晚有使不完的牛劲",
+        "onboard_time": 1766647642,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93702,
+        "num": 93702,
+        "word": "迅猛龙自曝患过轻度脑萎缩",
+        "onboard_time": 1766646621,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92867,
+        "num": 92867,
+        "word": "上班心态就得这样",
+        "onboard_time": 1766647042,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 91040,
+        "word": "长安二十四计 文臣拔刀武将死战",
+        "onboard_time": 1766648540,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90083,
+        "num": 90083,
+        "word": "2026年12星座年运",
+        "onboard_time": 1766645001,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 86336,
+        "num": 86336,
+        "word": "林一把爱你老己听进去了",
+        "onboard_time": 1766647642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85578,
+        "num": 85578,
+        "word": "医生说洋葱是能吃的心脏支架",
+        "onboard_time": 1766642781,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}
