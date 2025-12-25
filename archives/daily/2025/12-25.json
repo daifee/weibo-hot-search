@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766667342222,
+  "endTime": 1766668193814,
   "band_list": [
     {
       "raw_hot": 1411577,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474678,
+      "num": 474678,
+      "word": "骄阳似我 光污染",
+      "onboard_time": 1766665701,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474307,
       "num": 152759,
       "word": "朱孝天疑似明涵阿信",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 461994,
-      "num": 355778,
+      "num": 368803,
       "word": "女子宫外孕被当流产治疗",
       "onboard_time": 1766661200,
       "rank": 18,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 418531,
-      "num": 162389,
+      "num": 181318,
       "word": "工作室称李宏毅目前经济能力不足",
       "onboard_time": 1766665040,
       "rank": 22,
@@ -467,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 363606,
-      "num": 363606,
-      "word": "骄阳似我 光污染",
-      "onboard_time": 1766665701,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360557,
       "num": 152202,
       "word": "纪凌尘经纪人辟谣",
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344529,
+      "num": 344529,
+      "word": "罚罪1",
+      "onboard_time": 1766664141,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341478,
       "num": 341478,
       "word": "斩杀线",
@@ -545,6 +553,14 @@
       "onboard_time": 1766620159,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 332328,
+      "num": 232237,
+      "word": "李菲儿美成啥了",
+      "onboard_time": 1766665701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 329643,
@@ -643,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288627,
+      "num": 249465,
+      "word": "新音妆造",
+      "onboard_time": 1766665521,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288475,
       "num": 288475,
       "word": "骄阳似我",
@@ -657,6 +681,14 @@
       "onboard_time": 1766633840,
       "rank": 30,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 283356,
+      "num": 216441,
+      "word": "这还是我认识的王传君吗",
+      "onboard_time": 1766666359,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 283050,
@@ -681,22 +713,6 @@
       "onboard_time": 1766638822,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280033,
-      "num": 280033,
-      "word": "罚罪1",
-      "onboard_time": 1766664141,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274118,
-      "num": 249465,
-      "word": "新音妆造",
-      "onboard_time": 1766665521,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 273037,
@@ -793,14 +809,6 @@
       "onboard_time": 1766628200,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 232237,
-      "num": 232237,
-      "word": "李菲儿美成啥了",
-      "onboard_time": 1766665701,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 222574,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 202662,
-      "num": 154319,
+      "num": 177351,
       "word": "长安二十四计大结局",
       "onboard_time": 1766665823,
       "rank": 23,
@@ -977,14 +985,6 @@
       "onboard_time": 1766637681,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 189878,
-      "num": 143731,
-      "word": "这还是我认识的王传君吗",
-      "onboard_time": 1766666359,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 189338,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1766653761,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171266,
+      "num": 171266,
+      "word": "小米17Ultra徕卡版售罄",
+      "onboard_time": 1766667022,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 170632,
@@ -1531,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144122,
+      "num": 144122,
+      "word": "再拍下去黄景瑜去景点该免票了",
+      "onboard_time": 1766666003,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141575,
       "num": 145928,
       "word": "朱志鑫苏新皓跳了卡点舞",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1766638822,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140164,
-      "num": 140164,
-      "word": "再拍下去黄景瑜去景点该免票了",
-      "onboard_time": 1766666003,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 137300,
@@ -1619,12 +1627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133488,
+      "num": 133488,
+      "word": "原来真的有人能一直爱一个人啊",
+      "onboard_time": 1766667680,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133075,
       "num": 133075,
       "word": "破军对战WB",
       "onboard_time": 1766664560,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133021,
+      "num": 133021,
+      "word": "李现到处拍吴磊到处骑王一博到处爬",
+      "onboard_time": 1766665461,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132576,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1766634740,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121700,
+      "num": 121700,
+      "word": "演员王星女友说结婚需要物质准备",
+      "onboard_time": 1766667201,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 121214,
@@ -2075,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107962,
-      "num": 107962,
-      "word": "李现到处拍吴磊到处骑王一博到处爬",
-      "onboard_time": 1766665461,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107600,
       "num": 107600,
       "word": "刘德华 我妈的爱豆终于发新歌了",
@@ -2100,7 +2124,7 @@
     },
     {
       "raw_hot": 106367,
-      "num": 133663,
+      "num": 147713,
       "word": "日本丰臣秀吉雕像被斩首后续",
       "onboard_time": 1766664020,
       "rank": 28,
@@ -2155,20 +2179,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103779,
+      "num": 103779,
+      "word": "下班奖励老己三集剑来2",
+      "onboard_time": 1766667022,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 103539,
       "num": 155031,
       "word": "解放军全时待战随时能战战之必胜",
       "onboard_time": 1766655201,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102915,
-      "num": 102915,
-      "word": "小米17Ultra徕卡版售罄",
-      "onboard_time": 1766667022,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 102899,
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 101916,
-      "num": 134985,
+      "num": 173826,
       "word": "影视飓风Tim追极光",
       "onboard_time": 1766664261,
       "rank": 27,
@@ -2379,6 +2403,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 97477,
+      "num": 97477,
+      "word": "林屿森 又怎么了我的大小姐",
+      "onboard_time": 1766667680,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97396,
       "num": 97396,
       "word": "咪的真皮鞋子不能沾水啊",
@@ -2436,7 +2468,7 @@
     },
     {
       "raw_hot": 94339,
-      "num": 94339,
+      "num": 97470,
       "word": "BLG对战WBG",
       "onboard_time": 1766664621,
       "rank": 43,
@@ -2449,14 +2481,6 @@
       "onboard_time": 1766643981,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94160,
-      "num": 94160,
-      "word": "下班奖励老己三集剑来2",
-      "onboard_time": 1766667022,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 93548,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1766663360,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92999,
+      "num": 97469,
+      "word": "在县城开4家店一周赚了15元",
+      "onboard_time": 1766664980,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92945,
@@ -2651,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77707,
+      "num": 185398,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77464,
       "num": 90144,
       "word": "14国联合声明谴责以色列",
@@ -2715,14 +2755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72028,
-      "num": 119238,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71702,
       "num": 90144,
       "word": "人之初",
@@ -2761,6 +2793,14 @@
       "onboard_time": 1766641402,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69413,
+      "num": 125597,
+      "word": "丁程鑫打卡七朵金花",
+      "onboard_time": 1766667441,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 69329,
@@ -2915,14 +2955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60740,
-      "num": 108185,
-      "word": "演员王星女友说结婚需要物质准备",
-      "onboard_time": 1766667201,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60552,
       "num": 113676,
       "word": "外国人拿走留学生行李拒不归还",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1766628620,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59656,
+      "num": 121740,
+      "word": "1200元一盆的年宵花卖疯了",
+      "onboard_time": 1766667921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58306,
@@ -3025,6 +3065,14 @@
       "onboard_time": 1766644042,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51791,
+      "num": 187152,
+      "word": "小米17Ultra与徕卡版怎么选",
+      "onboard_time": 1766667862,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 51593,
@@ -3275,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33654,
+      "num": 421407,
+      "word": "150秒感受2025一路向前",
+      "onboard_time": 1766667801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32875,
       "num": 84682,
       "word": "穆祉丞空降黄朔直播间",
@@ -3443,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24997,
+      "num": 149301,
+      "word": "你担喊你抢红包啦",
+      "onboard_time": 1766667921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24680,
       "num": 184272,
       "word": "孙颖莎的2025数据流报告",
@@ -3539,6 +3603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12368,
+      "num": 172438,
+      "word": "明星集体发红包是过节吗",
+      "onboard_time": 1766667980,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12226,
       "num": 121358,
       "word": "苗苗亮相郑恺新电影首映礼",
@@ -3575,6 +3647,9 @@
     },
     {
       "word": "#反腐败斗争一步不停歇半步不退让#"
+    },
+    {
+      "word": "#2025世界见证中国担当#"
     }
   ]
 }
