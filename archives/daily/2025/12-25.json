@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766668193814,
+  "endTime": 1766669930359,
   "band_list": [
     {
       "raw_hot": 1411577,
@@ -65,6 +65,14 @@
       "onboard_time": 1766625021,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 795592,
+      "num": 795592,
+      "word": "骄阳似我 光污染",
+      "onboard_time": 1766665701,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 794003,
@@ -211,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 556103,
+      "num": 556103,
+      "word": "这还是我认识的王传君吗",
+      "onboard_time": 1766666359,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537303,
       "num": 1085024,
       "word": "孟鲁司特 抑郁",
@@ -280,14 +296,6 @@
       "word": "骄阳似我10集封神",
       "onboard_time": 1766659763,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 474678,
-      "num": 474678,
-      "word": "骄阳似我 光污染",
-      "onboard_time": 1766665701,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -435,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 405461,
+      "num": 232237,
+      "word": "李菲儿美成啥了",
+      "onboard_time": 1766665701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399837,
       "num": 315719,
       "word": "关晓彤 有着最勇敢的19岁",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356966,
+      "num": 344529,
+      "word": "罚罪1",
+      "onboard_time": 1766664141,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353589,
       "num": 316938,
       "word": "罚罪2开播",
@@ -531,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344529,
-      "num": 344529,
-      "word": "罚罪1",
-      "onboard_time": 1766664141,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341478,
       "num": 341478,
       "word": "斩杀线",
@@ -553,14 +569,6 @@
       "onboard_time": 1766620159,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 332328,
-      "num": 232237,
-      "word": "李菲儿美成啥了",
-      "onboard_time": 1766665701,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 329643,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299772,
+      "num": 299772,
+      "word": "一家五口驾车误入施工通道遇难",
+      "onboard_time": 1766668400,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299650,
       "num": 299650,
       "word": "肖战感谢1000万观众",
@@ -651,19 +667,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 296857,
+      "num": 249465,
+      "word": "新音妆造",
+      "onboard_time": 1766665521,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296032,
       "num": 296032,
       "word": "橹穆来自天堂的魔鬼舞台彩排",
       "onboard_time": 1766591001,
       "rank": 3,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 288627,
-      "num": 249465,
-      "word": "新音妆造",
-      "onboard_time": 1766665521,
-      "rank": 12,
       "category": "演出"
     },
     {
@@ -681,14 +697,6 @@
       "onboard_time": 1766633840,
       "rank": 30,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 283356,
-      "num": 216441,
-      "word": "这还是我认识的王传君吗",
-      "onboard_time": 1766666359,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 283050,
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203295,
+      "num": 177351,
+      "word": "长安二十四计大结局",
+      "onboard_time": 1766665823,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202828,
       "num": 172431,
       "word": "这就是理想的婚姻生活吧",
@@ -931,12 +947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202662,
-      "num": 177351,
-      "word": "长安二十四计大结局",
-      "onboard_time": 1766665823,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 197111,
+      "num": 154433,
+      "word": "演员王星女友说结婚需要物质准备",
+      "onboard_time": 1766667201,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 196372,
@@ -1403,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154684,
+      "num": 154684,
+      "word": "每天力量训练15分钟真的能抗衰",
+      "onboard_time": 1766668400,
+      "rank": 16,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154555,
       "num": 154555,
       "word": "油腻感的正确打开方式",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1766647403,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154330,
+      "num": 154330,
+      "word": "李现到处拍吴磊到处骑王一博到处爬",
+      "onboard_time": 1766665461,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153634,
@@ -1643,14 +1675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133021,
-      "num": 133021,
-      "word": "李现到处拍吴磊到处骑王一博到处爬",
-      "onboard_time": 1766665461,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "医生说洋葱是能吃的心脏支架",
@@ -1819,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125142,
+      "num": 154476,
+      "word": "米家中央空调Pro双风轮",
+      "onboard_time": 1766669662,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124647,
       "num": 155665,
       "word": "陈哲远问范丞丞这豆角能吃吗",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1766634740,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121700,
-      "num": 121700,
-      "word": "演员王星女友说结婚需要物质准备",
-      "onboard_time": 1766667201,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 121214,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1766656461,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "林屿森 又怎么了我的大小姐",
+      "onboard_time": 1766667680,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119017,
@@ -2123,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106482,
+      "num": 106482,
+      "word": "护手霜使用规则怪谈",
+      "onboard_time": 1766668881,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106367,
       "num": 147713,
       "word": "日本丰臣秀吉雕像被斩首后续",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1766624001,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105921,
+      "num": 185398,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105597,
@@ -2299,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100127,
+      "num": 121740,
+      "word": "1200元一盆的年宵花卖疯了",
+      "onboard_time": 1766667921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99874,
       "num": 99874,
       "word": "AG司马光精灵王子造型",
@@ -2379,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98104,
+      "num": 98104,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1766669541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97812,
       "num": 97812,
       "word": "上微博比上班还勤",
@@ -2401,14 +2465,6 @@
       "onboard_time": 1766659342,
       "rank": 41,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 97477,
-      "num": 97477,
-      "word": "林屿森 又怎么了我的大小姐",
-      "onboard_time": 1766667680,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 97396,
@@ -2480,6 +2536,14 @@
       "word": "宋威龙赵今麦 早熟先生和养成小姐",
       "onboard_time": 1766643981,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93979,
+      "num": 93979,
+      "word": "九门",
+      "onboard_time": 1766669062,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2683,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77707,
-      "num": 185398,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 77464,
       "num": 90144,
       "word": "14国联合声明谴责以色列",
@@ -2787,6 +2843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70139,
+      "num": 100053,
+      "word": "9天一篇SCI远超生理极限",
+      "onboard_time": 1766668400,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69889,
       "num": 141140,
       "word": "河南火灾班主任晚报火警是因救人",
@@ -2875,6 +2939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65123,
+      "num": 154512,
+      "word": "小米17Ultra烟花模式",
+      "onboard_time": 1766669662,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64928,
       "num": 182263,
       "word": "日本餐厅以烧烤火锅形式提供熊肉",
@@ -2940,7 +3012,7 @@
     },
     {
       "raw_hot": 61628,
-      "num": 144311,
+      "num": 616154,
       "word": "我国又创造一个世界纪录",
       "onboard_time": 1766651541,
       "rank": 27,
@@ -2971,14 +3043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59656,
-      "num": 121740,
-      "word": "1200元一盆的年宵花卖疯了",
-      "onboard_time": 1766667921,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58306,
       "num": 145594,
       "word": "BLG连续被零封",
@@ -3001,6 +3065,14 @@
       "onboard_time": 1766637622,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 56240,
+      "num": 187152,
+      "word": "小米17Ultra与徕卡版怎么选",
+      "onboard_time": 1766667862,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 56092,
@@ -3065,14 +3137,6 @@
       "onboard_time": 1766644042,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51791,
-      "num": 187152,
-      "word": "小米17Ultra与徕卡版怎么选",
-      "onboard_time": 1766667862,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 51593,
@@ -3259,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36142,
+      "num": 154367,
+      "word": "你担喊你抢红包啦",
+      "onboard_time": 1766667921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36089,
       "num": 215523,
       "word": "AI救我狗命",
@@ -3273,6 +3345,14 @@
       "onboard_time": 1766653280,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35556,
+      "num": 172438,
+      "word": "明星集体发红包是过节吗",
+      "onboard_time": 1766667980,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 35490,
@@ -3384,6 +3464,14 @@
       "word": "2025打破纪录的高光时刻",
       "onboard_time": 1766636901,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30267,
+      "num": 117676,
+      "word": "货车事故货物被哄抢司机嘶吼别抢了",
+      "onboard_time": 1766669181,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3499,12 +3587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24997,
-      "num": 149301,
-      "word": "你担喊你抢红包啦",
-      "onboard_time": 1766667921,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 25338,
+      "num": 116560,
+      "word": "美国热炒AI泡沫",
+      "onboard_time": 1766669181,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24680,
@@ -3601,14 +3689,6 @@
       "onboard_time": 1766666003,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12368,
-      "num": 172438,
-      "word": "明星集体发红包是过节吗",
-      "onboard_time": 1766667980,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 12226,

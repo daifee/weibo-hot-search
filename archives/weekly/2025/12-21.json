@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766668193814,
+  "endTime": 1766669930359,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 795592,
+      "num": 795592,
+      "word": "骄阳似我 光污染",
+      "onboard_time": 1766665701,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 795221,
       "num": 323466,
       "word": "吴千语直播带货卖了1.5亿",
@@ -1555,6 +1563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 556103,
+      "num": 556103,
+      "word": "这还是我认识的王传君吗",
+      "onboard_time": 1766666359,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555496,
       "num": 555496,
       "word": "23岁硕士徒步去世前已主动返程",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1766502685,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 474678,
-      "num": 474678,
-      "word": "骄阳似我 光污染",
-      "onboard_time": 1766665701,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 473692,
@@ -2667,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405461,
+      "num": 232237,
+      "word": "李菲儿美成啥了",
+      "onboard_time": 1766665701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402220,
       "num": 1064355,
       "word": "中央军委举行晋升上将军衔仪式",
@@ -3067,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356966,
+      "num": 344529,
+      "word": "罚罪1",
+      "onboard_time": 1766664141,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356758,
       "num": 199285,
       "word": "肖战花裤子",
@@ -3203,14 +3227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344529,
-      "num": 344529,
-      "word": "罚罪1",
-      "onboard_time": 1766664141,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343995,
       "num": 207005,
       "word": "闵塔鲨辟谣",
@@ -3329,14 +3345,6 @@
       "onboard_time": 1766375061,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332328,
-      "num": 232237,
-      "word": "李菲儿美成啥了",
-      "onboard_time": 1766665701,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 330195,
@@ -3723,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299772,
+      "num": 299772,
+      "word": "一家五口驾车误入施工通道遇难",
+      "onboard_time": 1766668400,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299650,
       "num": 299650,
       "word": "肖战感谢1000万观众",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1766567902,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296857,
+      "num": 249465,
+      "word": "新音妆造",
+      "onboard_time": 1766665521,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 296347,
@@ -3891,14 +3915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288627,
-      "num": 249465,
-      "word": "新音妆造",
-      "onboard_time": 1766665521,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 288431,
       "num": 289503,
       "word": "樊振东3比0豪格",
@@ -3985,14 +4001,6 @@
       "onboard_time": 1766305162,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283356,
-      "num": 216441,
-      "word": "这还是我认识的王传君吗",
-      "onboard_time": 1766666359,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 283316,
@@ -5323,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203295,
+      "num": 177351,
+      "word": "长安二十四计大结局",
+      "onboard_time": 1766665823,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203270,
       "num": 274269,
       "word": "易烊千玺说和鸿蒙见证了彼此成长",
@@ -5361,14 +5377,6 @@
       "onboard_time": 1766306122,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202662,
-      "num": 177351,
-      "word": "长安二十四计大结局",
-      "onboard_time": 1766665823,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 202494,
@@ -5593,6 +5601,14 @@
       "onboard_time": 1766312123,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197111,
+      "num": 154433,
+      "word": "演员王星女友说结婚需要物质准备",
+      "onboard_time": 1766667201,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 197090,
@@ -7603,6 +7619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154684,
+      "num": 154684,
+      "word": "每天力量训练15分钟真的能抗衰",
+      "onboard_time": 1766668400,
+      "rank": 16,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154555,
       "num": 154555,
       "word": "油腻感的正确打开方式",
@@ -7625,6 +7649,14 @@
       "onboard_time": 1766647403,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154330,
+      "num": 154330,
+      "word": "李现到处拍吴磊到处骑王一博到处爬",
+      "onboard_time": 1766665461,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 154191,
@@ -9155,14 +9187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133021,
-      "num": 133021,
-      "word": "李现到处拍吴磊到处骑王一博到处爬",
-      "onboard_time": 1766665461,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "医生说洋葱是能吃的心脏支架",
@@ -9891,6 +9915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125142,
+      "num": 154476,
+      "word": "米家中央空调Pro双风轮",
+      "onboard_time": 1766669662,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125133,
       "num": 125133,
       "word": "慕胥辞预约",
@@ -10131,14 +10163,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 121700,
-      "num": 121700,
-      "word": "演员王星女友说结婚需要物质准备",
-      "onboard_time": 1766667201,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121487,
       "num": 121487,
       "word": "成毅新剧真的实现了做一休四",
@@ -10337,6 +10361,14 @@
       "onboard_time": 1766244923,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "林屿森 又怎么了我的大小姐",
+      "onboard_time": 1766667680,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119201,
@@ -11435,6 +11467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106482,
+      "num": 106482,
+      "word": "护手霜使用规则怪谈",
+      "onboard_time": 1766668881,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106367,
       "num": 147713,
       "word": "日本丰臣秀吉雕像被斩首后续",
@@ -11481,6 +11521,14 @@
       "onboard_time": 1766624001,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105921,
+      "num": 185398,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105600,
@@ -12203,6 +12251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100127,
+      "num": 121740,
+      "word": "1200元一盆的年宵花卖疯了",
+      "onboard_time": 1766667921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100100,
       "num": 111329,
       "word": "BLG全对",
@@ -12491,6 +12547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98104,
+      "num": 98104,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1766669541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98073,
       "num": 183154,
       "word": "25万求复婚才知儿子非亲生且已改姓",
@@ -12529,14 +12593,6 @@
       "onboard_time": 1766359699,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 97477,
-      "num": 97477,
-      "word": "林屿森 又怎么了我的大小姐",
-      "onboard_time": 1766667680,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 97414,
@@ -12808,6 +12864,14 @@
       "word": "长安二十四计热度",
       "onboard_time": 1766273657,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93979,
+      "num": 93979,
+      "word": "九门",
+      "onboard_time": 1766669062,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -13947,14 +14011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77707,
-      "num": 185398,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 77464,
       "num": 90144,
       "word": "14国联合声明谴责以色列",
@@ -14387,6 +14443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70139,
+      "num": 100053,
+      "word": "9天一篇SCI远超生理极限",
+      "onboard_time": 1766668400,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70105,
       "num": 86281,
       "word": "爱泼斯坦案性贩运价目曝光",
@@ -14617,6 +14681,14 @@
       "onboard_time": 1766283140,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65123,
+      "num": 154512,
+      "word": "小米17Ultra烟花模式",
+      "onboard_time": 1766669662,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 64928,
@@ -14868,7 +14940,7 @@
     },
     {
       "raw_hot": 61628,
-      "num": 144311,
+      "num": 616154,
       "word": "我国又创造一个世界纪录",
       "onboard_time": 1766651541,
       "rank": 27,
@@ -14993,14 +15065,6 @@
       "onboard_time": 1766549122,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 59656,
-      "num": 121740,
-      "word": "1200元一盆的年宵花卖疯了",
-      "onboard_time": 1766667921,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59608,
@@ -15137,6 +15201,14 @@
       "onboard_time": 1766588601,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56240,
+      "num": 187152,
+      "word": "小米17Ultra与徕卡版怎么选",
+      "onboard_time": 1766667862,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 56166,
@@ -15425,14 +15497,6 @@
       "onboard_time": 1766579242,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51791,
-      "num": 187152,
-      "word": "小米17Ultra与徕卡版怎么选",
-      "onboard_time": 1766667862,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 51663,
@@ -16419,6 +16483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36142,
+      "num": 154367,
+      "word": "你担喊你抢红包啦",
+      "onboard_time": 1766667921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36089,
       "num": 215523,
       "word": "AI救我狗命",
@@ -16473,6 +16545,14 @@
       "onboard_time": 1766370619,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35556,
+      "num": 172438,
+      "word": "明星集体发红包是过节吗",
+      "onboard_time": 1766667980,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 35508,
@@ -16963,6 +17043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30267,
+      "num": 117676,
+      "word": "货车事故货物被哄抢司机嘶吼别抢了",
+      "onboard_time": 1766669181,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30097,
       "num": 189192,
       "word": "餐饮行业使用肉宝王已有二十多年",
@@ -17331,6 +17419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25338,
+      "num": 116560,
+      "word": "美国热炒AI泡沫",
+      "onboard_time": 1766669181,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25309,
       "num": 224023,
       "word": "波司登尔滨极地大秀冰封开场",
@@ -17345,14 +17441,6 @@
       "onboard_time": 1766391680,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24997,
-      "num": 149301,
-      "word": "你担喊你抢红包啦",
-      "onboard_time": 1766667921,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 24959,
@@ -18105,14 +18193,6 @@
       "onboard_time": 1766309843,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 12368,
-      "num": 172438,
-      "word": "明星集体发红包是过节吗",
-      "onboard_time": 1766667980,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 12226,
