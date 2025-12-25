@@ -1,7 +1,23 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766619680572,
+  "endTime": 1766628463442,
   "band_list": [
+    {
+      "raw_hot": 1025676,
+      "num": 315131,
+      "word": "黄荷娜吸毒史长达十余年",
+      "onboard_time": 1766619378,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 827112,
+      "num": 1132337,
+      "word": "年薪45万美元程序员半年变流浪汉",
+      "onboard_time": 1766625021,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 683228,
       "num": 153073,
@@ -27,6 +43,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 536416,
+      "num": 170696,
+      "word": "金莎回应被求婚",
+      "onboard_time": 1766620460,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 496426,
+      "num": 496426,
+      "word": "医学本科生被曝一年发40多篇论文",
+      "onboard_time": 1766621540,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486100,
       "num": 486100,
       "word": "日本一无人岛密密麻麻都是北海狮",
@@ -43,12 +75,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444833,
+      "num": 165548,
+      "word": "网友偶遇被求婚后的金莎",
+      "onboard_time": 1766627601,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428984,
       "num": 152629,
       "word": "黄多多和狗狗拍照",
       "onboard_time": 1766591660,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420688,
+      "num": 137664,
+      "word": "男子性侵醉酒女子并发文炫耀获刑",
+      "onboard_time": 1766624302,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397262,
+      "num": 397262,
+      "word": "山东录用公务员将考察报考动机",
+      "onboard_time": 1766624240,
+      "rank": 3,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 360557,
@@ -59,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341478,
+      "num": 341478,
+      "word": "斩杀线",
+      "onboard_time": 1766621721,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 329643,
       "num": 175992,
       "word": "女子早高峰占电梯被推出去后厮打",
       "onboard_time": 1766591422,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315494,
+      "num": 170684,
+      "word": "黄荷娜被曝为电诈园区洗钱贩毒",
+      "onboard_time": 1766620159,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 307726,
@@ -91,6 +163,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 273037,
+      "num": 170664,
+      "word": "退圈十年顶流歌手再回归原因",
+      "onboard_time": 1766619738,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259851,
+      "num": 135487,
+      "word": "只要保持一个月十点之前睡觉",
+      "onboard_time": 1766620280,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259125,
       "num": 151621,
       "word": "黄朔直播",
@@ -99,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252099,
+      "num": 252099,
+      "word": "张若昀被路人误会失恋了",
+      "onboard_time": 1766619800,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239742,
       "num": 196711,
       "word": "爱吃酱香饼的人天塌了",
       "onboard_time": 1766554823,
       "rank": 5,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 222329,
+      "num": 132687,
+      "word": "曝男顶流拍戏鼻骨折",
+      "onboard_time": 1766619919,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 218174,
@@ -131,6 +235,38 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178678,
+      "num": 178678,
+      "word": "云南镇雄煤矿事故4人遇难",
+      "onboard_time": 1766625801,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171248,
+      "num": 171248,
+      "word": "iPhone的背面有隐藏按键",
+      "onboard_time": 1766620940,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 170067,
+      "num": 170067,
+      "word": "卢昱晓畲族造型",
+      "onboard_time": 1766622500,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168179,
+      "num": 168179,
+      "word": "南方人去一趟北方后对暖气祛魅了",
+      "onboard_time": 1766619738,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167271,
       "num": 145862,
       "word": "贾乃亮被曝售假事件反转",
@@ -139,12 +275,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 165957,
+      "num": 132461,
+      "word": "这就是心脏支架",
+      "onboard_time": 1766619800,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158415,
       "num": 158415,
       "word": "第八集吻上宋威龙了",
       "onboard_time": 1766584702,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157251,
+      "num": 157251,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1766628260,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 153634,
@@ -171,12 +323,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144640,
+      "num": 144640,
+      "word": "老师上课打电话被认定为教学事故",
+      "onboard_time": 1766619738,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141575,
       "num": 145928,
       "word": "朱志鑫苏新皓跳了卡点舞",
       "onboard_time": 1766589682,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137743,
+      "num": 137743,
+      "word": "法医解剖吸毒者心脏比普通人大一倍",
+      "onboard_time": 1766626459,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134592,
+      "num": 134592,
+      "word": "高校回应本科生被曝1年发40多篇论文",
+      "onboard_time": 1766621600,
+      "rank": 23,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 132089,
+      "num": 132089,
+      "word": "商丘一空地冒出大量手机壳",
+      "onboard_time": 1766624602,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130135,
@@ -219,12 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115588,
-      "num": 84859,
-      "word": "黄荷娜吸毒史长达十余年",
-      "onboard_time": 1766619378,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 115639,
+      "num": 115639,
+      "word": "骄阳似我热度",
+      "onboard_time": 1766619017,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 111072,
@@ -235,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105989,
+      "num": 105989,
+      "word": "女子嫌等待时间过长扇医生耳光被拘",
+      "onboard_time": 1766624001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102899,
       "num": 145653,
       "word": "周杰伦昆凌情侣装合照",
@@ -243,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102783,
+      "num": 102783,
+      "word": "剑来",
+      "onboard_time": 1766628200,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101096,
       "num": 145880,
       "word": "我们的明天",
       "onboard_time": 1766582602,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98318,
+      "num": 98318,
+      "word": "成毅演爽了观众哭崩了",
+      "onboard_time": 1766624780,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 97772,
@@ -265,6 +473,14 @@
       "onboard_time": 1766587883,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91855,
+      "num": 91855,
+      "word": "为什么少跟孩子生气",
+      "onboard_time": 1766620280,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 89849,
@@ -291,12 +507,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87065,
+      "num": 87065,
+      "word": "王橹杰穆祉丞摸头",
+      "onboard_time": 1766627299,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85724,
       "num": 145807,
       "word": "骄阳似我预告",
       "onboard_time": 1766590281,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85331,
+      "num": 85331,
+      "word": "今年车厘子价格大跳水",
+      "onboard_time": 1766626940,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 77464,
+      "num": 77464,
+      "word": "14国联合声明谴责以色列",
+      "onboard_time": 1766623642,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76714,
+      "num": 76714,
+      "word": "樊振东波尔合照",
+      "onboard_time": 1766622023,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 76125,
@@ -315,12 +563,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72133,
+      "num": 72133,
+      "word": "福建舰上唯一能用明火的地方",
+      "onboard_time": 1766627840,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 71702,
+      "num": 82959,
+      "word": "人之初",
+      "onboard_time": 1766588482,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71167,
       "num": 145696,
       "word": "朱一龙工作室更新",
       "onboard_time": 1766587584,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67701,
+      "num": 67701,
+      "word": "下周四就2026了",
+      "onboard_time": 1766628440,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 67647,
+      "num": 67647,
+      "word": "被虐死女孩仅40斤律师说不忍心看",
+      "onboard_time": 1766620460,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67529,
@@ -339,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64404,
+      "num": 64404,
+      "word": "老己老自都来约我跨年了",
+      "onboard_time": 1766625441,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 64009,
+      "num": 64009,
+      "word": "逐玉",
+      "onboard_time": 1766628381,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63883,
       "num": 140135,
       "word": "泰军在柬赌场发现瘦脱相狮子黑熊",
@@ -347,12 +643,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63777,
+      "num": 63777,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1766628440,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63109,
       "num": 145540,
       "word": "肖战压轴官宣东方卫视跨年",
       "onboard_time": 1766549844,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62017,
+      "num": 62017,
+      "word": "NBA常规赛",
+      "onboard_time": 1766627539,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61864,
+      "num": 61864,
+      "word": "经纪人回应辛龙与岳父母翻脸",
+      "onboard_time": 1766627958,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 58306,
@@ -379,12 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52175,
-      "num": 357773,
+      "raw_hot": 53300,
+      "num": 417317,
       "word": "三亚免税店连续5日销售额破亿",
       "onboard_time": 1766583924,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53288,
+      "num": 135696,
+      "word": "云南镇雄煤矿事故致4人遇难",
+      "onboard_time": 1766627179,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 51593,
@@ -451,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45991,
-      "num": 84894,
-      "word": "骄阳似我热度",
-      "onboard_time": 1766619017,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41241,
       "num": 84784,
       "word": "央视播出福建舰弹射超近画面",
@@ -489,14 +809,6 @@
       "onboard_time": 1766580561,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30851,
-      "num": 82959,
-      "word": "人之初",
-      "onboard_time": 1766588482,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 30793,
@@ -569,6 +881,14 @@
       "onboard_time": 1766597777,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23413,
+      "num": 132754,
+      "word": "一包薯片的含金量",
+      "onboard_time": 1766628320,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 20547,
