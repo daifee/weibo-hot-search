@@ -1,0 +1,410 @@
+{
+  "runTime": 1766661937558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139307,
+        "num": 1182289,
+        "word": "鸡排哥一夜爆火后现状",
+        "onboard_time": 1766659342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730374,
+        "num": 730374,
+        "word": "刘强东发奖金有员工多拿1年工资",
+        "onboard_time": 1766658381,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24498,
+        "num": 461841,
+        "word": "冬天的快乐是冰雪给的",
+        "onboard_time": 1766654242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393887,
+        "num": 393887,
+        "word": "男子发现女儿非亲生多部门介入调解",
+        "onboard_time": 1766655920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389376,
+        "num": 389376,
+        "word": "罚罪2",
+        "onboard_time": 1766659280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396209,
+        "num": 380504,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353588,
+        "num": 353588,
+        "word": "骄阳似我10集封神",
+        "onboard_time": 1766659763,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316938,
+        "num": 316938,
+        "word": "罚罪2开播",
+        "onboard_time": 1766660901,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246265,
+        "num": 246265,
+        "word": "这个节美国人过得不太舒心",
+        "onboard_time": 1766659701,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143454,
+        "num": 245770,
+        "word": "孟鲁司特 抑郁",
+        "onboard_time": 1766648901,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 585147,
+        "num": 243102,
+        "word": "李宏毅限高涉案金额1118万",
+        "onboard_time": 1766652143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449036,
+        "num": 241005,
+        "word": "陈伟霆说被任达华点醒才来到内地",
+        "onboard_time": 1766660001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353708,
+        "num": 239441,
+        "word": "大金确诊抑郁症",
+        "onboard_time": 1766655260,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239166,
+        "num": 239166,
+        "word": "骄阳似我",
+        "onboard_time": 1766656762,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199241,
+        "num": 199241,
+        "word": "宿管员老师贾某承认存在疏忽大意",
+        "onboard_time": 1766654422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240730,
+        "num": 198327,
+        "word": "男子一次性植入6个心脏支架后去世",
+        "onboard_time": 1766653102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161269,
+        "num": 197342,
+        "word": "中方就TikTok将在美成立合资公司表态",
+        "onboard_time": 1766660001,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134237,
+        "num": 194736,
+        "word": "2025年只上了9天班",
+        "onboard_time": 1766650701,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100617,
+        "num": 192574,
+        "word": "女子宫外孕被当流产治疗",
+        "onboard_time": 1766661200,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50877,
+        "num": 191831,
+        "word": "当希林娜依高遇见AI",
+        "onboard_time": 1766660662,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607010,
+        "num": 189302,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424216,
+        "num": 187963,
+        "word": "李宏毅工作室发说明",
+        "onboard_time": 1766660181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203126,
+        "num": 185934,
+        "word": "白鹿 小舅妈变小妹妹",
+        "onboard_time": 1766655741,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185297,
+        "num": 185297,
+        "word": "谢淮安和铁秣王同归于尽",
+        "onboard_time": 1766661021,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184184,
+        "num": 184184,
+        "word": "赵今麦新剧心软的神来了",
+        "onboard_time": 1766660662,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172809,
+        "num": 172809,
+        "word": "时代少年团爱你爱我爱我们",
+        "onboard_time": 1766661680,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167476,
+        "num": 167476,
+        "word": "大麦否认与黄牛挂钩",
+        "onboard_time": 1766660721,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129676,
+        "num": 159142,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 158045,
+        "word": "在京东面试了四个半月45场最终被留用",
+        "onboard_time": 1766656762,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100598,
+        "num": 157990,
+        "word": "紫燕百味鸡回应员工鬼手偷肉",
+        "onboard_time": 1766650581,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157964,
+        "num": 157964,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155947,
+        "num": 155947,
+        "word": "大唐双姝也是吴磊的青梅竹马",
+        "onboard_time": 1766661021,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143874,
+        "num": 155942,
+        "word": "原来短剧的观众偷偷吃这么好",
+        "onboard_time": 1766657781,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98789,
+        "num": 155845,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1766660601,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95970,
+        "num": 155777,
+        "word": "美国流浪女孩12岁吸毒被赶出家门",
+        "onboard_time": 1766655620,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124647,
+        "num": 155665,
+        "word": "陈哲远问范丞丞这豆角能吃吗",
+        "onboard_time": 1766661260,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 155628,
+        "word": "TF家族彩排照",
+        "onboard_time": 1766656461,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81743,
+        "num": 155547,
+        "word": "医生称多1个心脏支架多活10年",
+        "onboard_time": 1766659342,
+        "rank": 37,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 81018,
+        "num": 155482,
+        "word": "美国人承认斩杀线存在",
+        "onboard_time": 1766659941,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79218,
+        "num": 155396,
+        "word": "王楚钦走路姿势",
+        "onboard_time": 1766652381,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104639,
+        "num": 155313,
+        "word": "向佐和外卖小哥撞衫了",
+        "onboard_time": 1766660601,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91343,
+        "num": 155276,
+        "word": "没空闹洞房因为你是新娘",
+        "onboard_time": 1766661802,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90624,
+        "num": 155146,
+        "word": "迪士尼偶遇金晨",
+        "onboard_time": 1766658981,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31288,
+        "num": 155112,
+        "word": "男子理发耳朵被剪裂店方称概率问题",
+        "onboard_time": 1766660422,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73357,
+        "num": 155031,
+        "word": "解放军全时待战随时能战战之必胜",
+        "onboard_time": 1766655201,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83907,
+        "num": 154962,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 154918,
+        "word": "林心如的前男友是林志颖",
+        "onboard_time": 1766647821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68885,
+        "num": 154828,
+        "word": "美国中产家庭倒在斩杀线上",
+        "onboard_time": 1766660782,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61910,
+        "num": 154705,
+        "word": "京东采销2025年平均25薪",
+        "onboard_time": 1766658440,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55334,
+        "num": 154637,
+        "word": "王楚钦乒超总决赛训练",
+        "onboard_time": 1766658262,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
