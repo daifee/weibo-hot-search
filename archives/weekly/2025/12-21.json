@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766695499948,
+  "endTime": 1766697988725,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -17291,6 +17291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32293,
+      "num": 32293,
+      "word": "爸爸一怒之下怒了一下",
+      "onboard_time": 1766692154,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32152,
       "num": 162469,
       "word": "零关税进口车个人不能买",
@@ -18489,14 +18497,6 @@
       "onboard_time": 1766348894,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16563,
-      "num": 16563,
-      "word": "爸爸一怒之下怒了一下",
-      "onboard_time": 1766692154,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 16271,

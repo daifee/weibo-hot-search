@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766695499948,
+  "endTime": 1766697988725,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32293,
+      "num": 32293,
+      "word": "爸爸一怒之下怒了一下",
+      "onboard_time": 1766692154,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26707,
       "num": 47892,
       "word": "江苏卫视跨年第四波阵容官宣",
@@ -441,14 +449,6 @@
       "onboard_time": 1766660001,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16563,
-      "num": 16563,
-      "word": "爸爸一怒之下怒了一下",
-      "onboard_time": 1766692154,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 16256,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11007,
+      "num": 17801,
+      "word": "老人被城管队员推倒后离世",
+      "onboard_time": 1766663360,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10776,
       "num": 16320,
       "word": "乒超",
@@ -515,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10281,
+      "num": 17787,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10038,
       "num": 45843,
       "word": "150秒感受2025一路向前",
       "onboard_time": 1766667801,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9967,
-      "num": 15908,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 49,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
