@@ -1,0 +1,410 @@
+{
+  "runTime": 1766670641163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901800,
+        "num": 1144288,
+        "word": "骄阳似我 光污染",
+        "onboard_time": 1766665701,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803751,
+        "num": 803751,
+        "word": "鸡排哥一夜爆火后现状",
+        "onboard_time": 1766659342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12809,
+        "num": 601713,
+        "word": "相聚澳门解锁中华佳节好物",
+        "onboard_time": 1766670082,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534686,
+        "num": 534686,
+        "word": "这还是我认识的王传君吗",
+        "onboard_time": 1766666359,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277928,
+        "num": 277928,
+        "word": "小米17Ultra",
+        "onboard_time": 1766663721,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 571735,
+        "num": 263064,
+        "word": "一家五口驾车误入施工通道遇难",
+        "onboard_time": 1766668400,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294948,
+        "num": 257043,
+        "word": "罚罪1",
+        "onboard_time": 1766664141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231666,
+        "num": 231666,
+        "word": "女子宫外孕被当流产治疗",
+        "onboard_time": 1766661200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203032,
+        "num": 203032,
+        "word": "这个节美国人过得不太舒心",
+        "onboard_time": 1766659701,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186943,
+        "num": 186943,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382253,
+        "num": 186937,
+        "word": "李宏毅限高涉案金额1118万",
+        "onboard_time": 1766652143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343622,
+        "num": 186919,
+        "word": "李菲儿美成啥了",
+        "onboard_time": 1766665701,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286404,
+        "num": 186888,
+        "word": "新音妆造",
+        "onboard_time": 1766665521,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254356,
+        "num": 186873,
+        "word": "演员王星女友说结婚需要物质准备",
+        "onboard_time": 1766667201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186865,
+        "num": 186865,
+        "word": "刘强东发奖金有员工多拿1年工资",
+        "onboard_time": 1766658381,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183311,
+        "num": 183311,
+        "word": "每天力量训练15分钟真的能抗衰",
+        "onboard_time": 1766668400,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36002,
+        "num": 173495,
+        "word": "米家中央空调Pro双风轮",
+        "onboard_time": 1766669662,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171128,
+        "num": 171128,
+        "word": "剑来",
+        "onboard_time": 1766670500,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 35135,
+        "num": 170091,
+        "word": "明星集体发红包是过节吗",
+        "onboard_time": 1766667980,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48218,
+        "num": 164934,
+        "word": "小米17Ultra与徕卡版怎么选",
+        "onboard_time": 1766667862,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 432271,
+        "num": 157379,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240187,
+        "num": 150011,
+        "word": "工作室称李宏毅目前经济能力不足",
+        "onboard_time": 1766665040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149892,
+        "num": 149892,
+        "word": "中方就TikTok将在美成立合资公司表态",
+        "onboard_time": 1766660001,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50628,
+        "num": 149751,
+        "word": "小米17Ultra烟花模式",
+        "onboard_time": 1766669662,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193728,
+        "num": 147835,
+        "word": "骄阳似我",
+        "onboard_time": 1766656762,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173526,
+        "num": 147113,
+        "word": "长安二十四计大结局",
+        "onboard_time": 1766665823,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176153,
+        "num": 146078,
+        "word": "骄阳似我10集封神",
+        "onboard_time": 1766659763,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162022,
+        "num": 144095,
+        "word": "罚罪2开播",
+        "onboard_time": 1766660901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22449,
+        "num": 143123,
+        "word": "你担喊你抢红包啦",
+        "onboard_time": 1766667921,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 141320,
+        "word": "三门峡一教师职称评审公示引质疑",
+        "onboard_time": 1766663601,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "宿管员老师贾某承认存在疏忽大意",
+        "onboard_time": 1766654422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57981,
+        "num": 137246,
+        "word": "影视飓风Tim追极光",
+        "onboard_time": 1766664261,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136240,
+        "num": 136240,
+        "word": "破军对战WB",
+        "onboard_time": 1766664560,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130526,
+        "num": 130526,
+        "word": "原来真的有人能一直爱一个人啊",
+        "onboard_time": 1766667680,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99254,
+        "num": 128579,
+        "word": "9天一篇SCI远超生理极限",
+        "onboard_time": 1766668400,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99171,
+        "num": 128110,
+        "word": "河南一大货车出事故多人哄抢货物",
+        "onboard_time": 1766670322,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128041,
+        "num": 128041,
+        "word": "李现到处拍吴磊到处骑王一博到处爬",
+        "onboard_time": 1766665461,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127997,
+        "num": 127997,
+        "word": "陈伟霆说被任达华点醒才来到内地",
+        "onboard_time": 1766660001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111221,
+        "num": 127558,
+        "word": "陈妍希9岁儿子正脸照",
+        "onboard_time": 1766670381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127360,
+        "num": 127360,
+        "word": "小米发布会",
+        "onboard_time": 1766662341,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120287,
+        "num": 120287,
+        "word": "林屿森 又怎么了我的大小姐",
+        "onboard_time": 1766667680,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119950,
+        "num": 119950,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1766670500,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107956,
+        "num": 107956,
+        "word": "再拍下去黄景瑜去景点该免票了",
+        "onboard_time": 1766666003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 107223,
+        "word": "货车事故货物被哄抢司机嘶吼别抢了",
+        "onboard_time": 1766669181,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107053,
+        "num": 107053,
+        "word": "内娱二十一年跨晚压轴的含金量",
+        "onboard_time": 1766669963,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47878,
+        "num": 98841,
+        "word": "我国又创造一个世界纪录",
+        "onboard_time": 1766651541,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23876,
+        "num": 98828,
+        "word": "美国热炒AI泡沫",
+        "onboard_time": 1766669181,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98819,
+        "num": 98819,
+        "word": "白鹿 小舅妈变小妹妹",
+        "onboard_time": 1766655741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89957,
+        "num": 96676,
+        "word": "广厦男篮vs辽宁男篮",
+        "onboard_time": 1766669541,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87734,
+        "num": 95124,
+        "word": "952名缅甸涉电诈嫌犯被押解回国",
+        "onboard_time": 1766667201,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025世界见证中国担当#"
+    }
+  }
+}

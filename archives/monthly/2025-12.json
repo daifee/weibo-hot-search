@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766669930359,
+  "endTime": 1766670641163,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -3115,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901800,
+      "num": 1144288,
+      "word": "骄阳似我 光污染",
+      "onboard_time": 1766665701,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 901340,
       "num": 798654,
       "word": "白鹿 张凌赫",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1765527322,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 795592,
-      "num": 795592,
-      "word": "骄阳似我 光污染",
-      "onboard_time": 1766665701,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 795578,
@@ -7041,6 +7041,14 @@
       "onboard_time": 1766306782,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571735,
+      "num": 299772,
+      "word": "一家五口驾车误入施工通道遇难",
+      "onboard_time": 1766668400,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 571514,
@@ -17803,14 +17811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299772,
-      "num": 299772,
-      "word": "一家五口驾车误入施工通道遇难",
-      "onboard_time": 1766668400,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299766,
       "num": 299766,
       "word": "枭起青壤",
@@ -20928,6 +20928,14 @@
       "word": "李嘉格直播男友出镜",
       "onboard_time": 1764898942,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254356,
+      "num": 186873,
+      "word": "演员王星女友说结婚需要物质准备",
+      "onboard_time": 1766667201,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -27563,14 +27571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197111,
-      "num": 154433,
-      "word": "演员王星女友说结婚需要物质准备",
-      "onboard_time": 1766667201,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197090,
       "num": 196433,
       "word": "王橹杰pk",
@@ -30721,6 +30721,14 @@
       "onboard_time": 1764994520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183311,
+      "num": 183311,
+      "word": "每天力量训练15分钟真的能抗衰",
+      "onboard_time": 1766668400,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 183262,
@@ -37011,14 +37019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154684,
-      "num": 154684,
-      "word": "每天力量训练15分钟真的能抗衰",
-      "onboard_time": 1766668400,
-      "rank": 16,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 154668,
       "num": 159637,
       "word": "许光汉张轩睿被曝兄弟反目",
@@ -43011,6 +43011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136240,
+      "num": 136240,
+      "word": "破军对战WB",
+      "onboard_time": 1766664560,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136239,
       "num": 136239,
       "word": "中兴通讯",
@@ -44305,14 +44313,6 @@
       "onboard_time": 1765015583,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133075,
-      "num": 133075,
-      "word": "破军对战WB",
-      "onboard_time": 1766664560,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 133029,
@@ -47708,7 +47708,7 @@
     },
     {
       "raw_hot": 125142,
-      "num": 154476,
+      "num": 173495,
       "word": "米家中央空调Pro双风轮",
       "onboard_time": 1766669662,
       "rank": 25,
@@ -49891,6 +49891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120287,
+      "num": 120287,
+      "word": "林屿森 又怎么了我的大小姐",
+      "onboard_time": 1766667680,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120263,
       "num": 120263,
       "word": "徐艺洋黄子韬 川渝暴龙和耙耳朵",
@@ -50032,6 +50040,14 @@
       "word": "Hero战胜DRG",
       "onboard_time": 1766238923,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119950,
+      "num": 119950,
+      "word": "WBG战胜BLG",
+      "onboard_time": 1766670500,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -50345,14 +50361,6 @@
       "onboard_time": 1765424842,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119338,
-      "num": 119338,
-      "word": "林屿森 又怎么了我的大小姐",
-      "onboard_time": 1766667680,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 119303,
@@ -54387,6 +54395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111221,
+      "num": 127558,
+      "word": "陈妍希9岁儿子正脸照",
+      "onboard_time": 1766670381,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111220,
       "num": 111220,
       "word": "孙颖莎从小训练就刻苦",
@@ -56353,6 +56369,14 @@
       "onboard_time": 1765079721,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107053,
+      "num": 107053,
+      "word": "内娱二十一年跨晚压轴的含金量",
+      "onboard_time": 1766669963,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 107009,
@@ -60571,6 +60595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99254,
+      "num": 128579,
+      "word": "9天一篇SCI远超生理极限",
+      "onboard_time": 1766668400,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99245,
       "num": 99245,
       "word": "解码国产GPU第一股资本图谱",
@@ -60593,6 +60625,14 @@
       "onboard_time": 1765802543,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99171,
+      "num": 128110,
+      "word": "河南一大货车出事故多人哄抢货物",
+      "onboard_time": 1766670322,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99163,
@@ -71227,14 +71267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70139,
-      "num": 100053,
-      "word": "9天一篇SCI远超生理极限",
-      "onboard_time": 1766668400,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70131,
       "num": 127632,
       "word": "日本觊觎中国130年没断根",
@@ -79075,6 +79107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40562,
+      "num": 117676,
+      "word": "货车事故货物被哄抢司机嘶吼别抢了",
+      "onboard_time": 1766669181,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40559,
       "num": 184792,
       "word": "美国防部发文永远不会忘记",
@@ -82696,14 +82736,6 @@
       "word": "12306回应高铁无障碍厕所哺乳不便",
       "onboard_time": 1765363223,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30267,
-      "num": 117676,
-      "word": "货车事故货物被哄抢司机嘶吼别抢了",
-      "onboard_time": 1766669181,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -87801,6 +87833,14 @@
       "onboard_time": 1766080755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12809,
+      "num": 601713,
+      "word": "相聚澳门解锁中华佳节好物",
+      "onboard_time": 1766670082,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12753,
