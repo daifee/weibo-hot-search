@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766661937558,
+  "endTime": 1766662785976,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 557315,
-      "num": 239441,
+      "num": 242175,
       "word": "大金确诊抑郁症",
       "onboard_time": 1766655260,
       "rank": 22,
@@ -2099,6 +2099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 473692,
+      "num": 243930,
+      "word": "陈伟霆说被任达华点醒才来到内地",
+      "onboard_time": 1766660001,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473167,
       "num": 473167,
       "word": "考研数学三",
@@ -2243,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458408,
+      "num": 458408,
+      "word": "骄阳似我10集封神",
+      "onboard_time": 1766659763,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457023,
       "num": 203942,
       "word": "福原爱再婚丈夫",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1766330965,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449036,
-      "num": 241005,
-      "word": "陈伟霆说被任达华点醒才来到内地",
-      "onboard_time": 1766660001,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 448426,
@@ -2465,6 +2473,14 @@
       "onboard_time": 1766324543,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421506,
+      "num": 306385,
+      "word": "女子宫外孕被当流产治疗",
+      "onboard_time": 1766661200,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420688,
@@ -3059,11 +3075,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353588,
-      "num": 353588,
-      "word": "骄阳似我10集封神",
-      "onboard_time": 1766659763,
-      "rank": 6,
+      "raw_hot": 353589,
+      "num": 316938,
+      "word": "罚罪2开播",
+      "onboard_time": 1766660901,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -3449,14 +3465,6 @@
       "onboard_time": 1766320164,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316938,
-      "num": 316938,
-      "word": "罚罪2开播",
-      "onboard_time": 1766660901,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 316853,
@@ -4404,7 +4412,7 @@
     },
     {
       "raw_hot": 243451,
-      "num": 199241,
+      "num": 203340,
       "word": "宿管员老师贾某承认存在疏忽大意",
       "onboard_time": 1766654422,
       "rank": 43,
@@ -4425,6 +4433,14 @@
       "onboard_time": 1766282298,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241324,
+      "num": 241324,
+      "word": "中方就TikTok将在美成立合资公司表态",
+      "onboard_time": 1766660001,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240423,
@@ -5497,6 +5513,14 @@
       "onboard_time": 1766312123,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197186,
+      "num": 156494,
+      "word": "小米发布会",
+      "onboard_time": 1766662341,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 197090,
@@ -7187,14 +7211,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 161269,
-      "num": 197342,
-      "word": "中方就TikTok将在美成立合资公司表态",
-      "onboard_time": 1766660001,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 160595,
       "num": 160595,
       "word": "双轨加更礼",
@@ -7377,6 +7393,14 @@
       "onboard_time": 1766401520,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156782,
+      "num": 156782,
+      "word": "男子杀害发小妻儿洗尸体剪指甲",
+      "onboard_time": 1766661981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156608,
@@ -9633,6 +9657,14 @@
       "onboard_time": 1766395820,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126361,
+      "num": 155276,
+      "word": "没空闹洞房因为你是新娘",
+      "onboard_time": 1766661802,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 125979,
@@ -11915,20 +11947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101073,
+      "num": 101073,
+      "word": "彭昱畅年底忙成啥了",
+      "onboard_time": 1766662401,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100850,
       "num": 272966,
       "word": "洗澡时的冷水从不浪费",
       "onboard_time": 1766242583,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 100617,
-      "num": 192574,
-      "word": "女子宫外孕被当流产治疗",
-      "onboard_time": 1766661200,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100571,
@@ -12739,14 +12771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91343,
-      "num": 155276,
-      "word": "没空闹洞房因为你是新娘",
-      "onboard_time": 1766661802,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91205,
       "num": 91205,
       "word": "iPhoneFold视觉无折痕",
@@ -13171,6 +13195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86046,
+      "num": 155482,
+      "word": "美国人承认斩杀线存在",
+      "onboard_time": 1766659941,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85947,
       "num": 146644,
       "word": "侯明昊新剧后天开播",
@@ -13491,14 +13523,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 81018,
-      "num": 155482,
-      "word": "美国人承认斩杀线存在",
-      "onboard_time": 1766659941,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80998,
       "num": 178444,
       "word": "音综迪丽热巴 偏偏你最争气",
@@ -13705,6 +13729,14 @@
       "onboard_time": 1766363841,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76920,
+      "num": 76920,
+      "word": "考公老师教学生注水吓退对手",
+      "onboard_time": 1766662462,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76801,
@@ -14075,6 +14107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70700,
+      "num": 154828,
+      "word": "美国中产家庭倒在斩杀线上",
+      "onboard_time": 1766660782,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70673,
       "num": 105057,
       "word": "海信世界杯定制产品亮相",
@@ -14161,14 +14201,6 @@
       "onboard_time": 1766356396,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68885,
-      "num": 154828,
-      "word": "美国中产家庭倒在斩杀线上",
-      "onboard_time": 1766660782,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68867,
@@ -14289,6 +14321,14 @@
       "onboard_time": 1766515995,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66201,
+      "num": 66201,
+      "word": "遛狗把狗溜累是种什么体验",
+      "onboard_time": 1766662222,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 65786,
@@ -14856,6 +14896,14 @@
       "word": "男子超市买猪肉称检出非洲猪瘟",
       "onboard_time": 1766571620,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56092,
+      "num": 162131,
+      "word": "外籍猩猩到中国半年被喂到360斤",
+      "onboard_time": 1766661981,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -15556,7 +15604,7 @@
     },
     {
       "raw_hot": 44509,
-      "num": 461841,
+      "num": 492302,
       "word": "冬天的快乐是冰雪给的",
       "onboard_time": 1766654242,
       "rank": 2,
@@ -17145,6 +17193,14 @@
       "onboard_time": 1766460860,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23018,
+      "num": 168894,
+      "word": "警方介入保时捷门店跑路",
+      "onboard_time": 1766662401,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22707,

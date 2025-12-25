@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766661937558,
+  "endTime": 1766662785976,
   "band_list": [
     {
       "raw_hot": 1411577,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 557315,
-      "num": 239441,
+      "num": 242175,
       "word": "大金确诊抑郁症",
       "onboard_time": 1766655260,
       "rank": 22,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473692,
+      "num": 243930,
+      "word": "陈伟霆说被任达华点醒才来到内地",
+      "onboard_time": 1766660001,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470191,
       "num": 220355,
       "word": "原来小孩的喜欢在大人眼里这么明显",
@@ -299,12 +307,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 449036,
-      "num": 241005,
-      "word": "陈伟霆说被任达华点醒才来到内地",
-      "onboard_time": 1766660001,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 458408,
+      "num": 458408,
+      "word": "骄阳似我10集封神",
+      "onboard_time": 1766659763,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 446025,
@@ -353,6 +361,14 @@
       "onboard_time": 1766660181,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421506,
+      "num": 306385,
+      "word": "女子宫外孕被当流产治疗",
+      "onboard_time": 1766661200,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420688,
@@ -451,11 +467,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353588,
-      "num": 353588,
-      "word": "骄阳似我10集封神",
-      "onboard_time": 1766659763,
-      "rank": 6,
+      "raw_hot": 353589,
+      "num": 316938,
+      "word": "罚罪2开播",
+      "onboard_time": 1766660901,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1766655741,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316938,
-      "num": 316938,
-      "word": "罚罪2开播",
-      "onboard_time": 1766660901,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 316805,
@@ -700,11 +708,19 @@
     },
     {
       "raw_hot": 243451,
-      "num": 199241,
+      "num": 203340,
       "word": "宿管员老师贾某承认存在疏忽大意",
       "onboard_time": 1766654422,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241324,
+      "num": 241324,
+      "word": "中方就TikTok将在美成立合资公司表态",
+      "onboard_time": 1766660001,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239742,
@@ -841,6 +857,14 @@
       "onboard_time": 1766647522,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197186,
+      "num": 156494,
+      "word": "小米发布会",
+      "onboard_time": 1766662341,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 196372,
@@ -1211,14 +1235,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 161269,
-      "num": 197342,
-      "word": "中方就TikTok将在美成立合资公司表态",
-      "onboard_time": 1766660001,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 160526,
       "num": 160526,
       "word": "周深 蒸蚌",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1766633359,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156782,
+      "num": 156782,
+      "word": "男子杀害发小妻儿洗尸体剪指甲",
+      "onboard_time": 1766661981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155959,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1766643261,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126361,
+      "num": 155276,
+      "word": "没空闹洞房因为你是新娘",
+      "onboard_time": 1766661802,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 125279,
@@ -2059,12 +2091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100617,
-      "num": 192574,
-      "word": "女子宫外孕被当流产治疗",
-      "onboard_time": 1766661200,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 101073,
+      "num": 101073,
+      "word": "彭昱畅年底忙成啥了",
+      "onboard_time": 1766662401,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 100551,
@@ -2275,14 +2307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91343,
-      "num": 155276,
-      "word": "没空闹洞房因为你是新娘",
-      "onboard_time": 1766661802,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91040,
       "num": 91040,
       "word": "长安二十四计 文臣拔刀武将死战",
@@ -2347,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86046,
+      "num": 155482,
+      "word": "美国人承认斩杀线存在",
+      "onboard_time": 1766659941,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85947,
       "num": 146644,
       "word": "侯明昊新剧后天开播",
@@ -2395,14 +2427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81018,
-      "num": 155482,
-      "word": "美国人承认斩杀线存在",
-      "onboard_time": 1766659941,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80520,
       "num": 283388,
       "word": "詹杜第44次对决",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1766623642,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76920,
+      "num": 76920,
+      "word": "考公老师教学生注水吓退对手",
+      "onboard_time": 1766662462,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76714,
@@ -2499,6 +2531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70700,
+      "num": 154828,
+      "word": "美国中产家庭倒在斩杀线上",
+      "onboard_time": 1766660782,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69889,
       "num": 141140,
       "word": "河南火灾班主任晚报火警是因救人",
@@ -2521,14 +2561,6 @@
       "onboard_time": 1766655260,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68885,
-      "num": 154828,
-      "word": "美国中产家庭倒在斩杀线上",
-      "onboard_time": 1766660782,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68536,
@@ -2577,6 +2609,14 @@
       "onboard_time": 1766653879,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 66201,
+      "num": 66201,
+      "word": "遛狗把狗溜累是种什么体验",
+      "onboard_time": 1766662222,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 64928,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1766637622,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 56092,
+      "num": 162131,
+      "word": "外籍猩猩到中国半年被喂到360斤",
+      "onboard_time": 1766661981,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54456,
@@ -2884,7 +2932,7 @@
     },
     {
       "raw_hot": 44509,
-      "num": 461841,
+      "num": 492302,
       "word": "冬天的快乐是冰雪给的",
       "onboard_time": 1766654242,
       "rank": 2,
@@ -3176,6 +3224,14 @@
       "word": "69岁大妈12层扔垃圾砸坏车被判刑",
       "onboard_time": 1766633239,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23018,
+      "num": 168894,
+      "word": "警方介入保时捷门店跑路",
+      "onboard_time": 1766662401,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
