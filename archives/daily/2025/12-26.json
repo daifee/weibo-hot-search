@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766698859272,
+  "endTime": 1766701673315,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -91,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155026,
+      "num": 112592,
+      "word": "朱孝天称因情绪失控发表失当言论",
+      "onboard_time": 1766679199,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154023,
       "num": 154023,
       "word": "山东一服装店允许骑车进入成打卡点",
       "onboard_time": 1766679439,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146999,
-      "num": 112592,
-      "word": "朱孝天称因情绪失控发表失当言论",
-      "onboard_time": 1766679199,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 142051,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61049,
+      "num": 61049,
+      "word": "老舅",
+      "onboard_time": 1766699294,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60723,
       "num": 95188,
       "word": "29岁女儿非亲生还被妻子起诉离婚",
@@ -443,7 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20406,
+      "raw_hot": 20413,
       "num": 33027,
       "word": "中方就TikTok将在美成立合资公司表态",
       "onboard_time": 1766660001,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14986,
+      "num": 29791,
+      "word": "老人被城管队员推倒后离世",
+      "onboard_time": 1766663360,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14824,
       "num": 32855,
       "word": "严浩翔镜头里的粉丝",
@@ -491,6 +507,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14439,
+      "num": 29723,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12966,
+      "num": 29674,
+      "word": "乒超",
+      "onboard_time": 1766655141,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12863,
       "num": 24663,
       "word": "骄阳似我名场面",
@@ -499,44 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12047,
+      "num": 79641,
+      "word": "150秒感受2025一路向前",
+      "onboard_time": 1766667801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11926,
       "num": 24659,
       "word": "刘耀文彩排路透",
       "onboard_time": 1766685855,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11749,
-      "num": 19236,
-      "word": "老人被城管队员推倒后离世",
-      "onboard_time": 1766663360,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10947,
-      "num": 19227,
-      "word": "乒超",
-      "onboard_time": 1766655141,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10399,
-      "num": 19219,
-      "word": "952名缅甸涉电诈嫌犯被押解回国",
-      "onboard_time": 1766667201,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 10038,
-      "num": 45843,
-      "word": "150秒感受2025一路向前",
-      "onboard_time": 1766667801,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

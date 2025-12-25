@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/21 00:33:33 ~ 2025/12/26 05:40:59
+本榜单时间：2025/12/21 00:33:33 ~ 2025/12/26 06:27:53
 </p>
 </blockquote>
 <p>
@@ -5829,6 +5829,12 @@ SBS红毯（热度：155959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E7%A7%B0%E5%9B%A0%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%8F%91%E8%A1%A8%E5%A4%B1%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
+朱孝天称因情绪失控发表失当言论（热度：155026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E8%A6%81%E6%B1%82%E5%AE%8C%E5%96%84%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6%E8%B4%B9%E6%94%BF%E7%AD%96%23" target="weibo">
 三部门要求完善幼儿园收费政策（热度：154701）
 </a>
@@ -6239,12 +6245,6 @@ CP32Pre（热度：147545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ella%20%E5%A5%BD%E9%99%A9%E5%B7%AE%E7%82%B9%E8%87%AA%E5%B7%B1%E5%94%B1%E5%AE%8C%E4%BA%86%23" target="weibo">
 Ella 好险差点自己唱完了（热度：147103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E7%A7%B0%E5%9B%A0%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E5%8F%91%E8%A1%A8%E5%A4%B1%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
-朱孝天称因情绪失控发表失当言论（热度：146999）
 </a>
 </li>
 
