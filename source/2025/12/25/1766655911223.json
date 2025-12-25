@@ -1,0 +1,410 @@
+{
+  "runTime": 1766655911223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451964,
+        "num": 1072314,
+        "word": "孟鲁司特 抑郁",
+        "onboard_time": 1766648901,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 373520,
+        "num": 373520,
+        "word": "紫燕百味鸡回应员工鬼手偷肉",
+        "onboard_time": 1766650581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33215,
+        "num": 364258,
+        "word": "冬天的快乐是冰雪给的",
+        "onboard_time": 1766654242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355604,
+        "num": 355604,
+        "word": "男子一次性植入6个心脏支架后去世",
+        "onboard_time": 1766653102,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297473,
+        "num": 297473,
+        "word": "年销10亿元止咳药或引发自杀倾向",
+        "onboard_time": 1766651779,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488583,
+        "num": 260174,
+        "word": "2025年只上了9天班",
+        "onboard_time": 1766650701,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320143,
+        "num": 230125,
+        "word": "王楚钦走路姿势",
+        "onboard_time": 1766652381,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191923,
+        "num": 191923,
+        "word": "王俊凯的跨年老家",
+        "onboard_time": 1766654722,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184721,
+        "num": 184721,
+        "word": "没想过是宋佳高伟光但意外合适",
+        "onboard_time": 1766654722,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173103,
+        "num": 183729,
+        "word": "乒超",
+        "onboard_time": 1766655141,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659646,
+        "num": 183550,
+        "word": "李宏毅限高涉案金额1118万",
+        "onboard_time": 1766652143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439886,
+        "num": 182513,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282008,
+        "num": 180552,
+        "word": "关晓彤 有着最勇敢的19岁",
+        "onboard_time": 1766645420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218234,
+        "num": 180280,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205471,
+        "num": 178604,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178113,
+        "num": 178113,
+        "word": "李宏毅 限高",
+        "onboard_time": 1766646621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21195,
+        "num": 178028,
+        "word": "鲁豫对话刘旸松天硕",
+        "onboard_time": 1766653403,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42637,
+        "num": 176086,
+        "word": "小学火灾事故宿舍平面图公布",
+        "onboard_time": 1766655381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69019,
+        "num": 174979,
+        "word": "中方不认同美方301调查的所谓结论",
+        "onboard_time": 1766655260,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65136,
+        "num": 174643,
+        "word": "京东买药骑手给同行送温水圈粉",
+        "onboard_time": 1766653879,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1189635,
+        "num": 173460,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321746,
+        "num": 172399,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171529,
+        "num": 171529,
+        "word": "大金确诊抑郁症",
+        "onboard_time": 1766655260,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99479,
+        "num": 167335,
+        "word": "普通人就该这么活吗",
+        "onboard_time": 1766654360,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166933,
+        "num": 166933,
+        "word": "再见爱人5",
+        "onboard_time": 1766651000,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30942,
+        "num": 163480,
+        "word": "刘德华为一件事过万重山",
+        "onboard_time": 1766653461,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162438,
+        "num": 162438,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 26,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "南博称金兽短期内不会再次展出",
+        "onboard_time": 1766652981,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130942,
+        "num": 141230,
+        "word": "陈建斌第一次进真的养心殿",
+        "onboard_time": 1766655560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139598,
+        "num": 139598,
+        "word": "2026年春节将放假九天",
+        "onboard_time": 1766646442,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177298,
+        "num": 139539,
+        "word": "美国流浪女孩12岁吸毒被赶出家门",
+        "onboard_time": 1766655620,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32443,
+        "num": 138802,
+        "word": "巴西拟对中国游客实施免签",
+        "onboard_time": 1766654181,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138761,
+        "num": 138761,
+        "word": "AG出发濮院团建",
+        "onboard_time": 1766653761,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133602,
+        "num": 133602,
+        "word": "看骄阳似我垂直入坑了赵今麦",
+        "onboard_time": 1766654900,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132853,
+        "num": 132853,
+        "word": "白鹿 小舅妈变小妹妹",
+        "onboard_time": 1766655741,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124248,
+        "num": 124248,
+        "word": "方圆为copy杨颖定制造型道歉",
+        "onboard_time": 1766642421,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119950,
+        "num": 119950,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113483,
+        "num": 113483,
+        "word": "小雪回应整容",
+        "onboard_time": 1766654242,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112942,
+        "num": 112942,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1766640981,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112329,
+        "num": 112329,
+        "word": "宿管员老师贾某承认存在疏忽大意",
+        "onboard_time": 1766654422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107185,
+        "num": 107185,
+        "word": "KPL",
+        "onboard_time": 1766650281,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106769,
+        "num": 106769,
+        "word": "林心如的前男友是林志颖",
+        "onboard_time": 1766647821,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104945,
+        "num": 104945,
+        "word": "王俊凯加盟2026江苏跨年演唱会",
+        "onboard_time": 1766654722,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104495,
+        "num": 104495,
+        "word": "A股商业航天爆发",
+        "onboard_time": 1766655141,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61488,
+        "num": 103989,
+        "word": "肖战相爱后动物感伤舞台",
+        "onboard_time": 1766654422,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103539,
+        "num": 103539,
+        "word": "解放军全时待战随时能战战之必胜",
+        "onboard_time": 1766655201,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102116,
+        "num": 102116,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99874,
+        "num": 99874,
+        "word": "AG司马光精灵王子造型",
+        "onboard_time": 1766655081,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97284,
+        "num": 97284,
+        "word": "小米17Ultra配置",
+        "onboard_time": 1766655801,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97061,
+        "num": 97061,
+        "word": "椰子鸡 深圳菜",
+        "onboard_time": 1766653821,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
