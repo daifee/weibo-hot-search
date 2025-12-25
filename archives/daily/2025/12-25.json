@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766641668836,
+  "endTime": 1766644999019,
   "band_list": [
     {
       "raw_hot": 1025676,
@@ -83,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627322,
+      "num": 1100371,
+      "word": "夫妻俩虚假报名758次公务员考试获刑",
+      "onboard_time": 1766642062,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616280,
+      "num": 221395,
+      "word": "朱孝天举报五月天所属公司",
+      "onboard_time": 1766641643,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604805,
       "num": 309412,
       "word": "支付宝有人转三千到我的账号",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 600079,
-      "num": 219308,
+      "num": 220891,
       "word": "卢昱晓给朋友当伴娘",
       "onboard_time": 1766639001,
       "rank": 12,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 470191,
-      "num": 216101,
+      "num": 220355,
       "word": "原来小孩的喜欢在大人眼里这么明显",
       "onboard_time": 1766638044,
       "rank": 31,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 426763,
-      "num": 207579,
+      "num": 218262,
       "word": "张柏芝捏小儿子脚",
       "onboard_time": 1766638341,
       "rank": 38,
@@ -195,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413828,
+      "num": 219086,
+      "word": "陈晓的腰",
+      "onboard_time": 1766641340,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413491,
       "num": 294663,
       "word": "2025年度升咖艺人",
       "onboard_time": 1766636182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411096,
+      "num": 218702,
+      "word": "曝杜克恋情",
+      "onboard_time": 1766642362,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 397262,
@@ -236,11 +268,19 @@
     },
     {
       "raw_hot": 350542,
-      "num": 241999,
+      "num": 268010,
       "word": "林心如一开始没想过和霍建华在一起",
       "onboard_time": 1766639723,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348802,
+      "num": 348802,
+      "word": "南博镇馆之宝金兽被指脱皮掉色",
+      "onboard_time": 1766641222,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346005,
@@ -281,6 +321,14 @@
       "onboard_time": 1766633840,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313741,
+      "num": 218418,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1766640981,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 307726,
@@ -395,6 +443,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 239663,
+      "num": 239663,
+      "word": "iPhone18Pro左上角挖孔设计",
+      "onboard_time": 1766644702,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238922,
       "num": 238922,
       "word": "王一博 一生要出片的中国男人",
@@ -425,6 +481,14 @@
       "onboard_time": 1766572402,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218131,
+      "num": 218131,
+      "word": "方圆为copy杨颖定制造型道歉",
+      "onboard_time": 1766642421,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 213249,
@@ -571,6 +635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174541,
+      "num": 219944,
+      "word": "西贝预制菜风波100天后贾国龙现状",
+      "onboard_time": 1766644101,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173399,
       "num": 168008,
       "word": "孙燕姿就在日落以后巡回演唱会",
@@ -627,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166430,
-      "num": 166430,
-      "word": "陈晓的腰",
-      "onboard_time": 1766641340,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165957,
       "num": 132461,
       "word": "这就是心脏支架",
@@ -652,7 +716,7 @@
     },
     {
       "raw_hot": 164075,
-      "num": 170594,
+      "num": 206343,
       "word": "nova15系列开售人人我人人",
       "onboard_time": 1766640860,
       "rank": 26,
@@ -763,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151926,
+      "num": 151926,
+      "word": "梁淞不顾何美延任性飙车",
+      "onboard_time": 1766643801,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151265,
       "num": 151265,
       "word": "DeepSeek居然会点赞了",
@@ -793,14 +865,6 @@
       "onboard_time": 1766581762,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145230,
-      "num": 145230,
-      "word": "建议大家千万不要一边做一边怀疑",
-      "onboard_time": 1766640981,
-      "rank": 35,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 144642,
@@ -851,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136950,
+      "num": 136950,
+      "word": "宁艺卓露腰礼服",
+      "onboard_time": 1766644642,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "高校回应本科生被曝1年发40多篇论文",
@@ -873,6 +945,14 @@
       "onboard_time": 1766640021,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "医生说洋葱是能吃的心脏支架",
+      "onboard_time": 1766642781,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132089,
@@ -931,6 +1011,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127196,
+      "num": 219311,
+      "word": "预制菜风波后贾国龙靠吃安眠药入睡",
+      "onboard_time": 1766644281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126781,
+      "num": 136977,
+      "word": "南博回应镇馆之宝金兽被指脱皮掉色",
+      "onboard_time": 1766643261,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "梁淞 你的钱还不是我付的",
+      "onboard_time": 1766644702,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125279,
       "num": 125279,
       "word": "王楚钦出发南京乒超",
@@ -939,12 +1043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124062,
+      "num": 124062,
+      "word": "扛过十大酷刑一声不吭",
+      "onboard_time": 1766644101,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123681,
       "num": 123681,
       "word": "陈思诚发了唐探新物料",
       "onboard_time": 1766634740,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122096,
+      "num": 122096,
+      "word": "死去的爸撒谎的妈怀疑全世界的他",
+      "onboard_time": 1766644460,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121214,
@@ -977,14 +1097,6 @@
       "onboard_time": 1766639062,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116787,
-      "num": 116787,
-      "word": "朱孝天举报五月天所属公司",
-      "onboard_time": 1766641643,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 115639,
@@ -1035,6 +1147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 110679,
+      "num": 110679,
+      "word": "朱孝天批评F4歌曲难听消费情怀",
+      "onboard_time": 1766642903,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109265,
       "num": 109265,
       "word": "肖战敬此刻敬未来",
@@ -1083,6 +1203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 101765,
+      "num": 101765,
+      "word": "贾国龙首次回应西贝预制菜风波",
+      "onboard_time": 1766644880,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101096,
       "num": 145880,
       "word": "我们的明天",
@@ -1105,6 +1233,22 @@
       "onboard_time": 1766634980,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98999,
+      "num": 98999,
+      "word": "她这一套下来我要缓一天",
+      "onboard_time": 1766642662,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 98554,
+      "num": 98554,
+      "word": "杨迪的迪是迪丽热巴的迪",
+      "onboard_time": 1766644823,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98483,
@@ -1161,6 +1305,14 @@
       "onboard_time": 1766587883,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94320,
+      "num": 122560,
+      "word": "宋威龙赵今麦 早熟先生和养成小姐",
+      "onboard_time": 1766643981,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 91855,
@@ -1483,6 +1635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 52791,
+      "num": 122305,
+      "word": "张百乔妻子整容后照片撞脸金晨",
+      "onboard_time": 1766644042,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51593,
       "num": 145438,
       "word": "金莎孙丞潇狙击蝴蝶照进现实",
@@ -1497,6 +1657,14 @@
       "onboard_time": 1766634440,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50915,
+      "num": 219452,
+      "word": "今天发红包的明星名单搞到了",
+      "onboard_time": 1766642720,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 50205,
@@ -1571,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44153,
-      "num": 210357,
-      "word": "南博镇馆之宝金兽被指脱皮掉色",
-      "onboard_time": 1766641222,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43676,
       "num": 209830,
       "word": "奥迪E5你的全能搭子",
@@ -1641,6 +1801,14 @@
       "onboard_time": 1766636241,
       "rank": 25,
       "category": "动漫,数码"
+    },
+    {
+      "raw_hot": 33870,
+      "num": 220503,
+      "word": "不敢想中奖的我多快乐",
+      "onboard_time": 1766642481,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 32875,
