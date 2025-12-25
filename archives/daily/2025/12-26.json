@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766694721458,
+  "endTime": 1766695499948,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -521,6 +521,14 @@
       "onboard_time": 1766667801,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9967,
+      "num": 15908,
+      "word": "952名缅甸涉电诈嫌犯被押解回国",
+      "onboard_time": 1766667201,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
