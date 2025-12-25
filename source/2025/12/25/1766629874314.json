@@ -1,0 +1,410 @@
+{
+  "runTime": 1766629874314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804406,
+        "num": 1128705,
+        "word": "年薪45万美元程序员半年变流浪汉",
+        "onboard_time": 1766625021,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 531532,
+        "num": 531532,
+        "word": "医学本科生被曝一年发40多篇论文",
+        "onboard_time": 1766621540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46440,
+        "num": 395029,
+        "word": "三亚免税店连续5日销售额破亿",
+        "onboard_time": 1766583924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370409,
+        "num": 370409,
+        "word": "山东录用公务员将考察报考动机",
+        "onboard_time": 1766624240,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 266952,
+        "num": 266952,
+        "word": "斩杀线",
+        "onboard_time": 1766621721,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237782,
+        "num": 237782,
+        "word": "剑来",
+        "onboard_time": 1766628200,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207950,
+        "num": 207950,
+        "word": "谷围动画啥家庭啊吃这么好",
+        "onboard_time": 1766629339,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194742,
+        "num": 194742,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174543,
+        "num": 174543,
+        "word": "iPhone的背面有隐藏按键",
+        "onboard_time": 1766620940,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 141529,
+        "word": "法医解剖吸毒者心脏比普通人大一倍",
+        "onboard_time": 1766626459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682897,
+        "num": 141451,
+        "word": "网友偶遇被求婚后的金莎",
+        "onboard_time": 1766627601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257338,
+        "num": 140965,
+        "word": "张若昀被路人误会失恋了",
+        "onboard_time": 1766619800,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244391,
+        "num": 140833,
+        "word": "退圈十年顶流歌手再回归原因",
+        "onboard_time": 1766619738,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 140379,
+        "word": "南方人去一趟北方后对暖气祛魅了",
+        "onboard_time": 1766619738,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140309,
+        "num": 140309,
+        "word": "日本一无人岛密密麻麻都是北海狮",
+        "onboard_time": 1766588601,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419394,
+        "num": 139325,
+        "word": "金莎回应被求婚",
+        "onboard_time": 1766620460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138314,
+        "num": 138314,
+        "word": "卢昱晓畲族造型",
+        "onboard_time": 1766622500,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128263,
+        "num": 128263,
+        "word": "老师上课打电话被认定为教学事故",
+        "onboard_time": 1766619738,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128178,
+        "num": 128178,
+        "word": "云南镇雄煤矿事故4人遇难",
+        "onboard_time": 1766625801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62607,
+        "num": 127539,
+        "word": "一包薯片的含金量",
+        "onboard_time": 1766628320,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 988323,
+        "num": 125639,
+        "word": "黄荷娜吸毒史长达十余年",
+        "onboard_time": 1766619378,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396951,
+        "num": 123551,
+        "word": "男子性侵醉酒女子并发文炫耀获刑",
+        "onboard_time": 1766624302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340769,
+        "num": 120789,
+        "word": "黄荷娜被曝为电诈园区洗钱贩毒",
+        "onboard_time": 1766620159,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120722,
+        "num": 120722,
+        "word": "宇宙闪烁请注意",
+        "onboard_time": 1766628260,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241888,
+        "num": 120181,
+        "word": "只要保持一个月十点之前睡觉",
+        "onboard_time": 1766620280,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222574,
+        "num": 117907,
+        "word": "曝男顶流拍戏鼻骨折",
+        "onboard_time": 1766619919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160753,
+        "num": 116135,
+        "word": "重庆姐弟坠亡案妈妈近况",
+        "onboard_time": 1766628499,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138180,
+        "num": 115254,
+        "word": "这就是心脏支架",
+        "onboard_time": 1766619800,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123825,
+        "num": 112981,
+        "word": "商丘一空地冒出大量手机壳",
+        "onboard_time": 1766624602,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112696,
+        "num": 112696,
+        "word": "王橹杰穆祉丞摸头",
+        "onboard_time": 1766627299,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "骄阳似我热度",
+        "onboard_time": 1766619017,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105443,
+        "num": 105443,
+        "word": "女子嫌等待时间过长扇医生耳光被拘",
+        "onboard_time": 1766624001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "警惕碎纸机成为泄密源头",
+        "onboard_time": 1766626880,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96022,
+        "num": 96022,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766586682,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94305,
+        "num": 94305,
+        "word": "高校回应本科生被曝1年发40多篇论文",
+        "onboard_time": 1766621600,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 90488,
+        "num": 90488,
+        "word": "王一博 一生要出片的中国男人",
+        "onboard_time": 1766629280,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90148,
+        "num": 90148,
+        "word": "今年车厘子价格大跳水",
+        "onboard_time": 1766626940,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 90148,
+        "word": "法官回应女子躺百万拆迁款上睡觉",
+        "onboard_time": 1766629459,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57637,
+        "num": 90147,
+        "word": "男子3年隔空猥亵40余名未成年人",
+        "onboard_time": 1766629821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86530,
+        "num": 90147,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81955,
+        "num": 90147,
+        "word": "强大肠胃和好睡眠简直就是人生财富",
+        "onboard_time": 1766624481,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80632,
+        "num": 90146,
+        "word": "为什么少跟孩子生气",
+        "onboard_time": 1766620280,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77801,
+        "num": 90145,
+        "word": "成毅演爽了观众哭崩了",
+        "onboard_time": 1766624780,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76831,
+        "num": 90144,
+        "word": "14国联合声明谴责以色列",
+        "onboard_time": 1766623642,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71145,
+        "num": 90144,
+        "word": "胖东来售卖梅西签名球衣",
+        "onboard_time": 1766588783,
+        "rank": 44,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 70010,
+        "num": 90144,
+        "word": "人之初",
+        "onboard_time": 1766588482,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69329,
+        "num": 90143,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1766628440,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68574,
+        "num": 90143,
+        "word": "女子早高峰占电梯被推出去后厮打",
+        "onboard_time": 1766591422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67547,
+        "num": 90142,
+        "word": "福建舰上唯一能用明火的地方",
+        "onboard_time": 1766627840,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60325,
+        "num": 90142,
+        "word": "未来是被樊振东稳稳接住的苹果",
+        "onboard_time": 1766628620,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持做强国内大循环#"
+    }
+  }
+}
