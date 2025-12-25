@@ -1,0 +1,410 @@
+{
+  "runTime": 1766651867087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 586996,
+        "num": 1093919,
+        "word": "2026年春节将放假九天",
+        "onboard_time": 1766646442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537303,
+        "num": 537303,
+        "word": "孟鲁司特 抑郁",
+        "onboard_time": 1766648901,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 13077,
+        "num": 339448,
+        "word": "2025年终盘点向新力十足",
+        "onboard_time": 1766636782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208827,
+        "num": 208827,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157377,
+        "num": 208315,
+        "word": "夫妻俩虚假报名758次公务员考试获刑",
+        "onboard_time": 1766642062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511106,
+        "num": 206924,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279934,
+        "num": 206024,
+        "word": "西贝预制菜风波100天后贾国龙现状",
+        "onboard_time": 1766644101,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186566,
+        "num": 205749,
+        "word": "SBS直播",
+        "onboard_time": 1766639001,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156348,
+        "num": 204182,
+        "word": "KPL",
+        "onboard_time": 1766650281,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174863,
+        "num": 203636,
+        "word": "SBS节目单",
+        "onboard_time": 1766651061,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 772173,
+        "num": 202121,
+        "word": "李宏毅 限高",
+        "onboard_time": 1766646621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432572,
+        "num": 201492,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417895,
+        "num": 200444,
+        "word": "iPhone18Pro左上角挖孔设计",
+        "onboard_time": 1766644702,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399837,
+        "num": 199882,
+        "word": "关晓彤 有着最勇敢的19岁",
+        "onboard_time": 1766645420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278060,
+        "num": 198448,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249044,
+        "num": 197393,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 15,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 221018,
+        "num": 196857,
+        "word": "2025年只上了9天班",
+        "onboard_time": 1766650701,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196372,
+        "num": 196372,
+        "word": "长生给大家下了一场雪",
+        "onboard_time": 1766650761,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195317,
+        "num": 195317,
+        "word": "李宏毅芒果娱乐合同纠纷",
+        "onboard_time": 1766650941,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764897,
+        "num": 195051,
+        "word": "小学火灾案班主任量刑依据披露",
+        "onboard_time": 1766649622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627468,
+        "num": 192031,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131744,
+        "num": 189766,
+        "word": "紫燕百味鸡回应员工鬼手偷肉",
+        "onboard_time": 1766650581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393223,
+        "num": 188454,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264706,
+        "num": 185632,
+        "word": "梁淞 你的钱还不是我付的",
+        "onboard_time": 1766644702,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184777,
+        "num": 184777,
+        "word": "方圆为copy杨颖定制造型道歉",
+        "onboard_time": 1766642421,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147128,
+        "num": 147128,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117291,
+        "num": 145267,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33994,
+        "num": 144311,
+        "word": "我国又创造一个世界纪录",
+        "onboard_time": 1766651541,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57062,
+        "num": 141141,
+        "word": "微博抢红包上头了",
+        "onboard_time": 1766650640,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43343,
+        "num": 137426,
+        "word": "爱你老己今天领红包",
+        "onboard_time": 1766649861,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 135924,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131694,
+        "num": 131694,
+        "word": "孟鲁司特被要求增加抑郁警示语",
+        "onboard_time": 1766650761,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 131217,
+        "word": "年销10亿元止咳药或引发自杀倾向",
+        "onboard_time": 1766651779,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 131191,
+        "word": "骨头汤不如牛奶补钙",
+        "onboard_time": 1766647403,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131171,
+        "num": 131171,
+        "word": "林心如的前男友是林志颖",
+        "onboard_time": 1766647821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130899,
+        "num": 130899,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123082,
+        "num": 123082,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34743,
+        "num": 119404,
+        "word": "南昌人的心头好原来是这一口",
+        "onboard_time": 1766650701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45456,
+        "num": 118722,
+        "word": "中国的防斩杀线",
+        "onboard_time": 1766650881,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27904,
+        "num": 118661,
+        "word": "丁程鑫这是真正的一寸照正反面",
+        "onboard_time": 1766651241,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "车崇健再见爱人高光时刻",
+        "onboard_time": 1766651422,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "年度报告",
+        "onboard_time": 1766649082,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "再见爱人5",
+        "onboard_time": 1766651000,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103542,
+        "num": 103542,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1766640981,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 101703,
+        "num": 101703,
+        "word": "贾国龙说如果能重来坚决不硬刚",
+        "onboard_time": 1766649380,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96614,
+        "num": 96614,
+        "word": "母亲给1岁男童催吐不当住进ICU",
+        "onboard_time": 1766647880,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93804,
+        "num": 93804,
+        "word": "陈晓的腰",
+        "onboard_time": 1766641340,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46607,
+        "num": 92077,
+        "word": "就算何猷君本人来了也得输吧",
+        "onboard_time": 1766650222,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91876,
+        "num": 91876,
+        "word": "彭昱畅张钧甯 两个胆小鬼一起不害怕",
+        "onboard_time": 1766651480,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88035,
+        "num": 88035,
+        "word": "中国对欧盟进行了精准反击",
+        "onboard_time": 1766649801,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}
