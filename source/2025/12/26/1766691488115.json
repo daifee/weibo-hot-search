@@ -1,0 +1,410 @@
+{
+  "runTime": 1766691488115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 72933,
+        "num": 72933,
+        "word": "鸡排哥一夜爆火后现状",
+        "onboard_time": 1766659342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46480,
+        "num": 46480,
+        "word": "估值2亿别墅6673万元起拍没人要",
+        "onboard_time": 1766678181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8496,
+        "num": 40116,
+        "word": "150秒感受2025一路向前",
+        "onboard_time": 1766667801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38668,
+        "num": 38668,
+        "word": "日本前所未有的熊尸危机",
+        "onboard_time": 1766672902,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35308,
+        "num": 35308,
+        "word": "骄阳似我 光污染",
+        "onboard_time": 1766665701,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34832,
+        "num": 34832,
+        "word": "比瑶妹更适合马可的辅助",
+        "onboard_time": 1766687115,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34425,
+        "num": 34425,
+        "word": "美国一人彩票中奖超127亿元",
+        "onboard_time": 1766674824,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31491,
+        "num": 31491,
+        "word": "2个月宝宝被奶奶碘伏擦进ICU",
+        "onboard_time": 1766672902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30445,
+        "num": 30445,
+        "word": "山东一服装店允许骑车进入成打卡点",
+        "onboard_time": 1766679439,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25541,
+        "num": 25541,
+        "word": "骄阳似我 甜",
+        "onboard_time": 1766674282,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81373,
+        "num": 25538,
+        "word": "朱孝天澄清声明",
+        "onboard_time": 1766674282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25479,
+        "num": 25479,
+        "word": "骄阳似我",
+        "onboard_time": 1766656762,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25164,
+        "num": 25164,
+        "word": "宋威龙张凌赫 一个给老自一个给老己",
+        "onboard_time": 1766675301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24724,
+        "num": 24724,
+        "word": "字节120名员工因触犯红线被辞",
+        "onboard_time": 1766670622,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22769,
+        "num": 24722,
+        "word": "凯乐石牌羽绒服被曝新旧款差900元",
+        "onboard_time": 1766678841,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60002,
+        "num": 24720,
+        "word": "朱孝天称因情绪失控发表失当言论",
+        "onboard_time": 1766679199,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21884,
+        "num": 24720,
+        "word": "小米17Ultra",
+        "onboard_time": 1766663721,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21243,
+        "num": 24717,
+        "word": "央视曝光美妆背后的消费陷阱",
+        "onboard_time": 1766677399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20620,
+        "num": 24717,
+        "word": "这个节美国人过得不太舒心",
+        "onboard_time": 1766659701,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 24715,
+        "word": "剑来",
+        "onboard_time": 1766670500,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137291,
+        "num": 24713,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67679,
+        "num": 24711,
+        "word": "陈妍希9岁儿子正脸照",
+        "onboard_time": 1766670381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45466,
+        "num": 24709,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17876,
+        "num": 24708,
+        "word": "原来真的有人能一直爱一个人啊",
+        "onboard_time": 1766667680,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17666,
+        "num": 24705,
+        "word": "这还是我认识的王传君吗",
+        "onboard_time": 1766666359,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17212,
+        "num": 24703,
+        "word": "那英肖战合唱跟着感觉走",
+        "onboard_time": 1766675721,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16978,
+        "num": 24701,
+        "word": "长安二十四计 第二季",
+        "onboard_time": 1766672601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16777,
+        "num": 24700,
+        "word": "分享一个变强的顶级心态",
+        "onboard_time": 1766676680,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16954,
+        "num": 24699,
+        "word": "长安二十四计大结局",
+        "onboard_time": 1766665823,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16729,
+        "num": 24696,
+        "word": "演员王星女友说结婚需要物质准备",
+        "onboard_time": 1766667201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16672,
+        "num": 24694,
+        "word": "黄荷娜曾和朴有天吸毒被拘留",
+        "onboard_time": 1766673322,
+        "rank": 30,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 15667,
+        "num": 24691,
+        "word": "中方就TikTok将在美成立合资公司表态",
+        "onboard_time": 1766660001,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15653,
+        "num": 24690,
+        "word": "欧洲没有美国那样的斩杀线",
+        "onboard_time": 1766674042,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15539,
+        "num": 24688,
+        "word": "时代少年团纪录片",
+        "onboard_time": 1766674462,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15316,
+        "num": 24686,
+        "word": "河南一大货车出事故多人哄抢货物",
+        "onboard_time": 1766670322,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14976,
+        "num": 24686,
+        "word": "就算脸盲也能一眼认出花花",
+        "onboard_time": 1766679679,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14886,
+        "num": 24684,
+        "word": "李宏毅声明",
+        "onboard_time": 1766673622,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14526,
+        "num": 24682,
+        "word": "罚罪2",
+        "onboard_time": 1766659280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14404,
+        "num": 24680,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1766660601,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14354,
+        "num": 24677,
+        "word": "贾霞老师",
+        "onboard_time": 1766670863,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13987,
+        "num": 24677,
+        "word": "何炅的年度总结谁敢看",
+        "onboard_time": 1766672783,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14423,
+        "num": 24675,
+        "word": "李宏毅限高涉案金额1118万",
+        "onboard_time": 1766652143,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13774,
+        "num": 24673,
+        "word": "俩人醉酒抢着买单结果一人被刑拘",
+        "onboard_time": 1766674582,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13667,
+        "num": 24671,
+        "word": "长安二十四计",
+        "onboard_time": 1766657480,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13418,
+        "num": 24668,
+        "word": "29岁女儿非亲生还被妻子起诉离婚",
+        "onboard_time": 1766675301,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13404,
+        "num": 24666,
+        "word": "罚罪2开播",
+        "onboard_time": 1766660901,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12473,
+        "num": 24665,
+        "word": "刘宇宁没带串儿就盘自己",
+        "onboard_time": 1766675301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12332,
+        "num": 24663,
+        "word": "骄阳似我名场面",
+        "onboard_time": 1766690474,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12291,
+        "num": 24663,
+        "word": "严浩翔镜头里的粉丝",
+        "onboard_time": 1766685316,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11926,
+        "num": 24659,
+        "word": "刘耀文彩排路透",
+        "onboard_time": 1766685855,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025世界见证中国担当#"
+    }
+  }
+}
