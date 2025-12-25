@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766691488115,
+  "endTime": 1766694721458,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -18489,6 +18489,14 @@
       "onboard_time": 1766348894,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16563,
+      "num": 16563,
+      "word": "爸爸一怒之下怒了一下",
+      "onboard_time": 1766692154,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 16271,
