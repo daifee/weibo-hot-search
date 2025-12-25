@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766683552735,
+  "endTime": 1766684543967,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146999,
+      "num": 112592,
+      "word": "朱孝天称因情绪失控发表失当言论",
+      "onboard_time": 1766679199,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142051,
       "num": 112893,
       "word": "宋威龙张凌赫 一个给老自一个给老己",
@@ -121,14 +129,6 @@
       "onboard_time": 1766656762,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118394,
-      "num": 112592,
-      "word": "朱孝天称因情绪失控发表失当言论",
-      "onboard_time": 1766679199,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 115823,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73419,
+      "num": 94704,
+      "word": "凯乐石牌羽绒服被曝新旧款差900元",
+      "onboard_time": 1766678841,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72131,
       "num": 96009,
       "word": "每天穿破羽绒服超12小时确诊羽绒肺",
@@ -281,14 +289,6 @@
       "onboard_time": 1766672783,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61942,
-      "num": 94704,
-      "word": "凯乐石牌羽绒服被曝新旧款差900元",
-      "onboard_time": 1766678841,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60723,
@@ -409,6 +409,14 @@
       "onboard_time": 1766679679,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26707,
+      "num": 47892,
+      "word": "江苏卫视跨年第四波阵容官宣",
+      "onboard_time": 1766684235,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 26501,
