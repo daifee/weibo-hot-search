@@ -1,0 +1,410 @@
+{
+  "runTime": 1766638586997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794003,
+        "num": 1127040,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769938,
+        "num": 769938,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26357,
+        "num": 596884,
+        "word": "2025打破纪录的高光时刻",
+        "onboard_time": 1766636901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520564,
+        "num": 520564,
+        "word": "哥哥只是比我先认识嫂子",
+        "onboard_time": 1766635041,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443864,
+        "num": 443864,
+        "word": "紫燕百味鸡店员偷减牛肉被抓现行",
+        "onboard_time": 1766637021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670967,
+        "num": 442903,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411385,
+        "num": 411385,
+        "word": "原来是黄晓明给杨幂黄子韬牵的线",
+        "onboard_time": 1766632100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364211,
+        "num": 364211,
+        "word": "年薪45万美元程序员半年变流浪汉",
+        "onboard_time": 1766625021,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332144,
+        "num": 332144,
+        "word": "汪家人 云顶天宫",
+        "onboard_time": 1766630480,
+        "rank": 8,
+        "category": "旅游,作品衍生"
+      },
+      {
+        "raw_hot": 35490,
+        "num": 331490,
+        "word": "二十届中央纪委五次全会",
+        "onboard_time": 1766637381,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704598,
+        "num": 325424,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 372988,
+        "num": 321906,
+        "word": "SBS",
+        "onboard_time": 1766636301,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33734,
+        "num": 318042,
+        "word": "让张晚意心动的搭档终于出现",
+        "onboard_time": 1766635459,
+        "rank": 12,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 24725,
+        "num": 310184,
+        "word": "晒出我的新年送礼好物清单",
+        "onboard_time": 1766637141,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358671,
+        "num": 306211,
+        "word": "孟子义能抱起李昀锐了",
+        "onboard_time": 1766635639,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332577,
+        "num": 301248,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 15,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 300750,
+        "num": 300750,
+        "word": "王者新皮肤",
+        "onboard_time": 1766633301,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294663,
+        "num": 294663,
+        "word": "2025年度升咖艺人",
+        "onboard_time": 1766636182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34498,
+        "num": 284252,
+        "word": "幼儿园虐童案一审宣判家长最新回应",
+        "onboard_time": 1766637622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80520,
+        "num": 283388,
+        "word": "詹杜第44次对决",
+        "onboard_time": 1766638222,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282975,
+        "num": 282975,
+        "word": "恋与深空",
+        "onboard_time": 1766636901,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 591731,
+        "num": 279625,
+        "word": "黄荷娜吸毒史长达十余年",
+        "onboard_time": 1766619378,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271776,
+        "num": 271776,
+        "word": "春节前后离职对比",
+        "onboard_time": 1766633840,
+        "rank": 22,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 85770,
+        "num": 259364,
+        "word": "韩国军演日本抗议",
+        "onboard_time": 1766637141,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253639,
+        "num": 253639,
+        "word": "金莎回应被求婚",
+        "onboard_time": 1766620460,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33889,
+        "num": 231178,
+        "word": "剑来2携nova15本命机缘高燃回归",
+        "onboard_time": 1766636241,
+        "rank": 25,
+        "category": "动漫,数码"
+      },
+      {
+        "raw_hot": 229233,
+        "num": 229233,
+        "word": "男子性侵醉酒女子并发文炫耀获刑",
+        "onboard_time": 1766624302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216697,
+        "num": 216697,
+        "word": "谭松韵别演了我害怕",
+        "onboard_time": 1766633840,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213249,
+        "num": 213249,
+        "word": "重庆姐弟坠亡案妈妈近况",
+        "onboard_time": 1766628499,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211326,
+        "num": 211326,
+        "word": "斩杀线",
+        "onboard_time": 1766621721,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205390,
+        "num": 205390,
+        "word": "杨采钰私信网友要求删帖",
+        "onboard_time": 1766638521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199996,
+        "num": 199996,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193754,
+        "num": 193754,
+        "word": "医学本科生被曝一年发40多篇论文",
+        "onboard_time": 1766621540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189892,
+        "num": 189892,
+        "word": "2025知乎年度高分榜",
+        "onboard_time": 1766637681,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184366,
+        "num": 184366,
+        "word": "年终奖和十三薪的区别",
+        "onboard_time": 1766635220,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 64928,
+        "num": 182263,
+        "word": "日本餐厅以烧烤火锅形式提供熊肉",
+        "onboard_time": 1766636422,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56886,
+        "num": 180704,
+        "word": "本科年发40多篇论文是奇才还是少爷",
+        "onboard_time": 1766637622,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48153,
+        "num": 178164,
+        "word": "杨采钰否认未婚生子",
+        "onboard_time": 1766638222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69446,
+        "num": 176680,
+        "word": "张柏芝捏小儿子脚",
+        "onboard_time": 1766638341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20853,
+        "num": 172405,
+        "word": "杨仕泽 萝卜纸巾猫",
+        "onboard_time": 1766637681,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171931,
+        "num": 171931,
+        "word": "90后不显老是因为老过",
+        "onboard_time": 1766636121,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166857,
+        "num": 166857,
+        "word": "王子奇就窗外丢烟头道歉",
+        "onboard_time": 1766636182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165750,
+        "num": 165750,
+        "word": "推开教室门以为到了南天门",
+        "onboard_time": 1766636422,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162594,
+        "num": 162594,
+        "word": "日本人开始吃熊肉",
+        "onboard_time": 1766634260,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47393,
+        "num": 162213,
+        "word": "女子坐666路公交车被带鱼咬了",
+        "onboard_time": 1766637141,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29744,
+        "num": 162207,
+        "word": "98岁爸爸被女儿养得年轻30岁",
+        "onboard_time": 1766637021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162206,
+        "num": 162206,
+        "word": "肖战得闲谨制登2025年终暖心短片",
+        "onboard_time": 1766638282,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "日本开始碰瓷中国和美国了",
+        "onboard_time": 1766638402,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 147368,
+        "word": "怪奇物语",
+        "onboard_time": 1766630120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 137300,
+        "word": "孙丞潇支持金莎做婚前财产公证",
+        "onboard_time": 1766636602,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}
