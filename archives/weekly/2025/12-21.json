@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766640730476,
+  "endTime": 1766641668836,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1251,12 +1251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604805,
+      "num": 309412,
+      "word": "支付宝有人转三千到我的账号",
+      "onboard_time": 1766636362,
+      "rank": 15,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 603717,
       "num": 603717,
       "word": "丈夫全程喊刹车妻子仍撞上路人",
       "onboard_time": 1766282961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 600079,
+      "num": 219308,
+      "word": "卢昱晓给朋友当伴娘",
+      "onboard_time": 1766639001,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 599179,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1766365881,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 596464,
-      "num": 309412,
-      "word": "支付宝有人转三千到我的账号",
-      "onboard_time": 1766636362,
-      "rank": 15,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 592806,
@@ -2027,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470191,
+      "num": 216101,
+      "word": "原来小孩的喜欢在大人眼里这么明显",
+      "onboard_time": 1766638044,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 469925,
       "num": 243225,
       "word": "普通女生化妆2小时的变化",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1766378363,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456384,
-      "num": 197069,
-      "word": "卢昱晓给朋友当伴娘",
-      "onboard_time": 1766639001,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 455977,
@@ -2259,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426763,
+      "num": 207579,
+      "word": "张柏芝捏小儿子脚",
+      "onboard_time": 1766638341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426337,
       "num": 462639,
       "word": "女孩要水后炫耀被一旁女孩打翻",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1766366299,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 423261,
-      "num": 199996,
-      "word": "原来小孩的喜欢在大人眼里这么明显",
-      "onboard_time": 1766638044,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 421596,
@@ -2329,6 +2337,14 @@
       "onboard_time": 1766323403,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413491,
+      "num": 294663,
+      "word": "2025年度升咖艺人",
+      "onboard_time": 1766636182,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 413443,
@@ -2497,14 +2513,6 @@
       "onboard_time": 1766296824,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395726,
-      "num": 294663,
-      "word": "2025年度升咖艺人",
-      "onboard_time": 1766636182,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 394237,
@@ -2835,14 +2843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353879,
-      "num": 188648,
-      "word": "张柏芝捏小儿子脚",
-      "onboard_time": 1766638341,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353094,
       "num": 198300,
       "word": "胡锡进为小洛熙发声",
@@ -2881,6 +2881,14 @@
       "onboard_time": 1766379981,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350542,
+      "num": 241999,
+      "word": "林心如一开始没想过和霍建华在一起",
+      "onboard_time": 1766639723,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 347301,
@@ -3652,7 +3660,7 @@
     },
     {
       "raw_hot": 281273,
-      "num": 187523,
+      "num": 205584,
       "word": "王子奇道歉",
       "onboard_time": 1766638822,
       "rank": 22,
@@ -4339,14 +4347,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 225672,
-      "num": 190620,
-      "word": "林心如一开始没想过和霍建华在一起",
-      "onboard_time": 1766639723,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225600,
       "num": 225600,
       "word": "何超莲金莲花最佳新人",
@@ -4857,6 +4857,14 @@
       "onboard_time": 1766639961,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203741,
+      "num": 203741,
+      "word": "王赫野签约理由居然是离机场近",
+      "onboard_time": 1766640741,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 203657,
@@ -5867,6 +5875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179851,
+      "num": 179851,
+      "word": "日本开始碰瓷中国和美国了",
+      "onboard_time": 1766638402,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179828,
       "num": 179828,
       "word": "普通人变幸运最直接的方式",
@@ -6027,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176967,
+      "num": 222528,
+      "word": "TapTap年度游戏投票",
+      "onboard_time": 1766640860,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176812,
       "num": 169073,
       "word": "侯明昊你怎么瞒着大家伙偷偷做人啊",
@@ -6073,14 +6097,6 @@
       "onboard_time": 1766577502,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175955,
-      "num": 175955,
-      "word": "日本开始碰瓷中国和美国了",
-      "onboard_time": 1766638402,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175926,
@@ -6323,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169176,
+      "num": 169176,
+      "word": "迪丽热巴星光人物唯一高位女性",
+      "onboard_time": 1766640921,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "曝左一女主被换",
@@ -6385,6 +6409,14 @@
       "onboard_time": 1766546840,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166430,
+      "num": 166430,
+      "word": "陈晓的腰",
+      "onboard_time": 1766641340,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 166397,
@@ -6481,6 +6513,14 @@
       "onboard_time": 1766393242,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164075,
+      "num": 170594,
+      "word": "nova15系列开售人人我人人",
+      "onboard_time": 1766640860,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 163860,
@@ -6873,6 +6913,14 @@
       "onboard_time": 1766589022,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155733,
+      "num": 155733,
+      "word": "2025TapTap年度游戏大赏",
+      "onboard_time": 1766641163,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 155569,
@@ -7275,6 +7323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149024,
+      "num": 149024,
+      "word": "恋与深空家园",
+      "onboard_time": 1766639782,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "属于当代年轻人的送礼方式",
@@ -7427,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146413,
-      "num": 146413,
-      "word": "恋与深空家园",
-      "onboard_time": 1766639782,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146281,
       "num": 146281,
       "word": "QQ音乐 展轩",
@@ -7497,6 +7545,14 @@
       "onboard_time": 1766229983,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145230,
+      "num": 145230,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1766640981,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 145095,
@@ -8273,6 +8329,22 @@
       "onboard_time": 1766621600,
       "rank": 23,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 134586,
+      "num": 141364,
+      "word": "陈美霖癌症术后被朋友骗走几十万",
+      "onboard_time": 1766641101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134154,
+      "num": 191742,
+      "word": "一地解聘9名无故旷工在编人员",
+      "onboard_time": 1766640021,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134086,
@@ -9211,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121214,
+      "num": 121214,
+      "word": "恋与深空二周年送房",
+      "onboard_time": 1766641340,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121041,
       "num": 121041,
       "word": "婧妹为虞书欣双轨打call",
@@ -9536,6 +9616,14 @@
       "word": "刘轩丞直播唱有我呢",
       "onboard_time": 1766392941,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116787,
+      "num": 116787,
+      "word": "朱孝天举报五月天所属公司",
+      "onboard_time": 1766641643,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -12267,6 +12355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81285,
+      "num": 141219,
+      "word": "谁懂沈月旅游逛便利店的幸福感",
+      "onboard_time": 1766640741,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81103,
       "num": 343533,
       "word": "原来这就是走路送髋的技巧",
@@ -12872,6 +12968,14 @@
       "word": "广东私家车可入境香港市区",
       "onboard_time": 1766455221,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69889,
+      "num": 141140,
+      "word": "河南火灾班主任晚报火警是因救人",
+      "onboard_time": 1766641402,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -13611,6 +13715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54456,
+      "num": 204365,
+      "word": "美国暂缓对华芯片加征额外关税",
+      "onboard_time": 1766639782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54208,
       "num": 145485,
       "word": "徐冬冬辟谣尹子维逼婚",
@@ -14219,6 +14331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44153,
+      "num": 210357,
+      "word": "南博镇馆之宝金兽被指脱皮掉色",
+      "onboard_time": 1766641222,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44106,
       "num": 171625,
       "word": "特朗普称爱泼斯坦案会毁掉无辜的人",
@@ -14251,12 +14371,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 43250,
-      "num": 191742,
-      "word": "一地解聘9名无故旷工在编人员",
-      "onboard_time": 1766640021,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 43676,
+      "num": 209830,
+      "word": "奥迪E5你的全能搭子",
+      "onboard_time": 1766639121,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 43230,
@@ -14875,14 +14995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34035,
-      "num": 192660,
-      "word": "奥迪E5你的全能搭子",
-      "onboard_time": 1766639121,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 33889,
       "num": 231178,
       "word": "剑来2携nova15本命机缘高燃回归",
@@ -15155,20 +15267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30482,
-      "num": 200286,
-      "word": "美国暂缓对华芯片加征额外关税",
-      "onboard_time": 1766639782,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30462,
       "num": 105574,
       "word": "杨紫说自己穿的是假貂",
       "onboard_time": 1766302760,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30398,
+      "num": 596884,
+      "word": "2025打破纪录的高光时刻",
+      "onboard_time": 1766636901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30344,
@@ -15208,14 +15320,6 @@
       "word": "男子杀害7个月大侄女案一审将宣判",
       "onboard_time": 1766474960,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29727,
-      "num": 596884,
-      "word": "2025打破纪录的高光时刻",
-      "onboard_time": 1766636901,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

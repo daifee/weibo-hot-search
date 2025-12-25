@@ -1,0 +1,410 @@
+{
+  "runTime": 1766641668836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 544340,
+        "num": 1087094,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496197,
+        "num": 496197,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30398,
+        "num": 359455,
+        "word": "2025打破纪录的高光时刻",
+        "onboard_time": 1766636901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355748,
+        "num": 355748,
+        "word": "紫燕百味鸡店员偷减牛肉被抓现行",
+        "onboard_time": 1766637021,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260785,
+        "num": 260785,
+        "word": "哥哥只是比我先认识嫂子",
+        "onboard_time": 1766635041,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604805,
+        "num": 246173,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 5,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 350542,
+        "num": 241999,
+        "word": "林心如一开始没想过和霍建华在一起",
+        "onboard_time": 1766639723,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223297,
+        "num": 223297,
+        "word": "年薪45万美元程序员半年变流浪汉",
+        "onboard_time": 1766625021,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176967,
+        "num": 222528,
+        "word": "TapTap年度游戏投票",
+        "onboard_time": 1766640860,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160488,
+        "num": 221915,
+        "word": "汪家人 云顶天宫",
+        "onboard_time": 1766630480,
+        "rank": 9,
+        "category": "旅游,作品衍生"
+      },
+      {
+        "raw_hot": 767598,
+        "num": 219949,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 600079,
+        "num": 219308,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25015,
+        "num": 217402,
+        "word": "晒出我的新年送礼好物清单",
+        "onboard_time": 1766637141,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 470191,
+        "num": 216101,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 429507,
+        "num": 214884,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413491,
+        "num": 214089,
+        "word": "2025年度升咖艺人",
+        "onboard_time": 1766636182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323377,
+        "num": 213482,
+        "word": "SBS",
+        "onboard_time": 1766636301,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293941,
+        "num": 211969,
+        "word": "孟子义能抱起李昀锐了",
+        "onboard_time": 1766635639,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44153,
+        "num": 210357,
+        "word": "南博镇馆之宝金兽被指脱皮掉色",
+        "onboard_time": 1766641222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43676,
+        "num": 209830,
+        "word": "奥迪E5你的全能搭子",
+        "onboard_time": 1766639121,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 426763,
+        "num": 207579,
+        "word": "张柏芝捏小儿子脚",
+        "onboard_time": 1766638341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369427,
+        "num": 207166,
+        "word": "黄荷娜吸毒史长达十余年",
+        "onboard_time": 1766619378,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257858,
+        "num": 205584,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54456,
+        "num": 204365,
+        "word": "美国暂缓对华芯片加征额外关税",
+        "onboard_time": 1766639782,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203741,
+        "num": 203741,
+        "word": "王赫野签约理由居然是离机场近",
+        "onboard_time": 1766640741,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179851,
+        "num": 179851,
+        "word": "日本开始碰瓷中国和美国了",
+        "onboard_time": 1766638402,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164075,
+        "num": 170594,
+        "word": "nova15系列开售人人我人人",
+        "onboard_time": 1766640860,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "迪丽热巴星光人物唯一高位女性",
+        "onboard_time": 1766640921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134154,
+        "num": 167496,
+        "word": "一地解聘9名无故旷工在编人员",
+        "onboard_time": 1766640021,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151261,
+        "num": 166450,
+        "word": "男子性侵醉酒女子并发文炫耀获刑",
+        "onboard_time": 1766624302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166430,
+        "num": 166430,
+        "word": "陈晓的腰",
+        "onboard_time": 1766641340,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163114,
+        "num": 163114,
+        "word": "90后不显老是因为老过",
+        "onboard_time": 1766636121,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155733,
+        "num": 155733,
+        "word": "2025TapTap年度游戏大赏",
+        "onboard_time": 1766641163,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152002,
+        "num": 152002,
+        "word": "向太说宁静可惜了恋爱脑嫁给老外",
+        "onboard_time": 1766640260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149024,
+        "num": 149024,
+        "word": "恋与深空家园",
+        "onboard_time": 1766639782,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145230,
+        "num": 145230,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1766640981,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 143225,
+        "num": 143225,
+        "word": "孙燕姿就在日落以后巡回演唱会",
+        "onboard_time": 1766640202,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134586,
+        "num": 141364,
+        "word": "陈美霖癌症术后被朋友骗走几十万",
+        "onboard_time": 1766641101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81285,
+        "num": 141219,
+        "word": "谁懂沈月旅游逛便利店的幸福感",
+        "onboard_time": 1766640741,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69889,
+        "num": 141140,
+        "word": "河南火灾班主任晚报火警是因救人",
+        "onboard_time": 1766641402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141130,
+        "num": 141130,
+        "word": "杨采钰私信网友要求删帖",
+        "onboard_time": 1766638521,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135926,
+        "num": 135926,
+        "word": "王者新皮肤",
+        "onboard_time": 1766633301,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134250,
+        "num": 134250,
+        "word": "原来是黄晓明给杨幂黄子韬牵的线",
+        "onboard_time": 1766632100,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 132744,
+        "word": "肖战黑粉视频道歉",
+        "onboard_time": 1766638822,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128137,
+        "num": 128137,
+        "word": "张杰成都演唱会官宣9场",
+        "onboard_time": 1766639961,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123646,
+        "num": 123646,
+        "word": "斩杀线",
+        "onboard_time": 1766621721,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121319,
+        "num": 121319,
+        "word": "DeepSeek居然会点赞了",
+        "onboard_time": 1766640442,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121214,
+        "num": 121214,
+        "word": "恋与深空二周年送房",
+        "onboard_time": 1766641340,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116787,
+        "num": 116787,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "亲子鉴定遭拒男子将妻子踢成轻伤",
+        "onboard_time": 1766639062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}

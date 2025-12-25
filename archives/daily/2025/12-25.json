@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766640730476,
+  "endTime": 1766641668836,
   "band_list": [
     {
       "raw_hot": 1025676,
@@ -83,12 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596464,
+      "raw_hot": 604805,
       "num": 309412,
       "word": "支付宝有人转三千到我的账号",
       "onboard_time": 1766636362,
       "rank": 15,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 600079,
+      "num": 219308,
+      "word": "卢昱晓给朋友当伴娘",
+      "onboard_time": 1766639001,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 577895,
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456384,
-      "num": 197069,
-      "word": "卢昱晓给朋友当伴娘",
-      "onboard_time": 1766639001,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 470191,
+      "num": 216101,
+      "word": "原来小孩的喜欢在大人眼里这么明显",
+      "onboard_time": 1766638044,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 443864,
@@ -171,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423261,
-      "num": 199996,
-      "word": "原来小孩的喜欢在大人眼里这么明显",
-      "onboard_time": 1766638044,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 426763,
+      "num": 207579,
+      "word": "张柏芝捏小儿子脚",
+      "onboard_time": 1766638341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 420688,
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413491,
+      "num": 294663,
+      "word": "2025年度升咖艺人",
+      "onboard_time": 1766636182,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397262,
       "num": 397262,
       "word": "山东录用公务员将考察报考动机",
       "onboard_time": 1766624240,
       "rank": 3,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 395726,
-      "num": 294663,
-      "word": "2025年度升咖艺人",
-      "onboard_time": 1766636182,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 372988,
@@ -227,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353879,
-      "num": 188648,
-      "word": "张柏芝捏小儿子脚",
-      "onboard_time": 1766638341,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 350542,
+      "num": 241999,
+      "word": "林心如一开始没想过和霍建华在一起",
+      "onboard_time": 1766639723,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 346005,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 281273,
-      "num": 187523,
+      "num": 205584,
       "word": "王子奇道歉",
       "onboard_time": 1766638822,
       "rank": 22,
@@ -403,14 +411,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 225672,
-      "num": 190620,
-      "word": "林心如一开始没想过和霍建华在一起",
-      "onboard_time": 1766639723,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222574,
       "num": 132687,
       "word": "曝男顶流拍戏鼻骨折",
@@ -475,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203741,
+      "num": 203741,
+      "word": "王赫野签约理由居然是离机场近",
+      "onboard_time": 1766640741,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194523,
       "num": 292928,
       "word": "男子3年隔空猥亵40余名未成年人",
@@ -507,6 +515,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 179851,
+      "num": 179851,
+      "word": "日本开始碰瓷中国和美国了",
+      "onboard_time": 1766638402,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179763,
       "num": 179763,
       "word": "李昀锐有四部待播剧",
@@ -531,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176967,
+      "num": 222528,
+      "word": "TapTap年度游戏投票",
+      "onboard_time": 1766640860,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176812,
       "num": 169073,
       "word": "侯明昊你怎么瞒着大家伙偷偷做人啊",
       "onboard_time": 1766639541,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175955,
-      "num": 175955,
-      "word": "日本开始碰瓷中国和美国了",
-      "onboard_time": 1766638402,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174543,
@@ -579,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169176,
+      "num": 169176,
+      "word": "迪丽热巴星光人物唯一高位女性",
+      "onboard_time": 1766640921,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168179,
       "num": 168179,
       "word": "南方人去一趟北方后对暖气祛魅了",
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166430,
+      "num": 166430,
+      "word": "陈晓的腰",
+      "onboard_time": 1766641340,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165957,
       "num": 132461,
       "word": "这就是心脏支架",
@@ -617,6 +649,14 @@
       "onboard_time": 1766636422,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164075,
+      "num": 170594,
+      "word": "nova15系列开售人人我人人",
+      "onboard_time": 1766640860,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 162594,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155733,
+      "num": 155733,
+      "word": "2025TapTap年度游戏大赏",
+      "onboard_time": 1766641163,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154555,
       "num": 154555,
       "word": "油腻感的正确打开方式",
@@ -731,8 +779,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146413,
-      "num": 146413,
+      "raw_hot": 149024,
+      "num": 149024,
       "word": "恋与深空家园",
       "onboard_time": 1766639782,
       "rank": 43,
@@ -745,6 +793,14 @@
       "onboard_time": 1766581762,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145230,
+      "num": 145230,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1766640981,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 144642,
@@ -801,6 +857,22 @@
       "onboard_time": 1766621600,
       "rank": 23,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 134586,
+      "num": 141364,
+      "word": "陈美霖癌症术后被朋友骗走几十万",
+      "onboard_time": 1766641101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134154,
+      "num": 191742,
+      "word": "一地解聘9名无故旷工在编人员",
+      "onboard_time": 1766640021,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132089,
@@ -875,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121214,
+      "num": 121214,
+      "word": "恋与深空二周年送房",
+      "onboard_time": 1766641340,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121016,
       "num": 119668,
       "word": "SBS直播",
@@ -897,6 +977,14 @@
       "onboard_time": 1766639062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116787,
+      "num": 116787,
+      "word": "朱孝天举报五月天所属公司",
+      "onboard_time": 1766641643,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 115639,
@@ -1139,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81285,
+      "num": 141219,
+      "word": "谁懂沈月旅游逛便利店的幸福感",
+      "onboard_time": 1766640741,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80520,
       "num": 283388,
       "word": "詹杜第44次对决",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1766587584,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69889,
+      "num": 141140,
+      "word": "河南火灾班主任晚报火警是因救人",
+      "onboard_time": 1766641402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69329,
@@ -1339,6 +1443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 54456,
+      "num": 204365,
+      "word": "美国暂缓对华芯片加征额外关税",
+      "onboard_time": 1766639782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54208,
       "num": 145485,
       "word": "徐冬冬辟谣尹子维逼婚",
@@ -1459,12 +1571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43250,
-      "num": 191742,
-      "word": "一地解聘9名无故旷工在编人员",
-      "onboard_time": 1766640021,
+      "raw_hot": 44153,
+      "num": 210357,
+      "word": "南博镇馆之宝金兽被指脱皮掉色",
+      "onboard_time": 1766641222,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43676,
+      "num": 209830,
+      "word": "奥迪E5你的全能搭子",
+      "onboard_time": 1766639121,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 41241,
@@ -1515,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34035,
-      "num": 192660,
-      "word": "奥迪E5你的全能搭子",
-      "onboard_time": 1766639121,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 33889,
       "num": 231178,
       "word": "剑来2携nova15本命机缘高燃回归",
@@ -1555,12 +1667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30482,
-      "num": 200286,
-      "word": "美国暂缓对华芯片加征额外关税",
-      "onboard_time": 1766639782,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 30398,
+      "num": 596884,
+      "word": "2025打破纪录的高光时刻",
+      "onboard_time": 1766636901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29744,
@@ -1568,14 +1680,6 @@
       "word": "98岁爸爸被女儿养得年轻30岁",
       "onboard_time": 1766637021,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29727,
-      "num": 596884,
-      "word": "2025打破纪录的高光时刻",
-      "onboard_time": 1766636901,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
