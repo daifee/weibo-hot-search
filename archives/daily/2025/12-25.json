@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766638586997,
+  "endTime": 1766640730476,
   "band_list": [
     {
       "raw_hot": 1025676,
@@ -17,6 +17,14 @@
       "onboard_time": 1766629520,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 872988,
+      "num": 325424,
+      "word": "对不起周柯宇 是陈靖可先来的",
+      "onboard_time": 1766637202,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 869539,
@@ -51,14 +59,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 704598,
-      "num": 325424,
-      "word": "对不起周柯宇 是陈靖可先来的",
-      "onboard_time": 1766637202,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 683228,
       "num": 153073,
       "word": "橹穆双人舞台",
@@ -81,6 +81,14 @@
       "onboard_time": 1766589562,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596464,
+      "num": 309412,
+      "word": "支付宝有人转三千到我的账号",
+      "onboard_time": 1766636362,
+      "rank": 15,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 577895,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456384,
+      "num": 197069,
+      "word": "卢昱晓给朋友当伴娘",
+      "onboard_time": 1766639001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443864,
       "num": 443864,
       "word": "紫燕百味鸡店员偷减牛肉被抓现行",
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423261,
+      "num": 199996,
+      "word": "原来小孩的喜欢在大人眼里这么明显",
+      "onboard_time": 1766638044,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 420688,
       "num": 229233,
       "word": "男子性侵醉酒女子并发文炫耀获刑",
@@ -169,6 +193,14 @@
       "onboard_time": 1766624240,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 395726,
+      "num": 294663,
+      "word": "2025年度升咖艺人",
+      "onboard_time": 1766636182,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 372988,
@@ -195,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353879,
+      "num": 188648,
+      "word": "张柏芝捏小儿子脚",
+      "onboard_time": 1766638341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346005,
       "num": 346005,
       "word": "辽宁虐童幼儿园永久关停",
@@ -217,14 +257,6 @@
       "onboard_time": 1766620159,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 332577,
-      "num": 301248,
-      "word": "支付宝有人转三千到我的账号",
-      "onboard_time": 1766636362,
-      "rank": 15,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 329643,
@@ -283,14 +315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294663,
-      "num": 294663,
-      "word": "2025年度升咖艺人",
-      "onboard_time": 1766636182,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287929,
       "num": 271776,
       "word": "春节前后离职对比",
@@ -305,6 +329,14 @@
       "onboard_time": 1766636901,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281273,
+      "num": 187523,
+      "word": "王子奇道歉",
+      "onboard_time": 1766638822,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 273037,
@@ -371,6 +403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 225672,
+      "num": 190620,
+      "word": "林心如一开始没想过和霍建华在一起",
+      "onboard_time": 1766639723,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222574,
       "num": 132687,
       "word": "曝男顶流拍戏鼻骨折",
@@ -427,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199996,
-      "num": 199996,
-      "word": "原来小孩的喜欢在大人眼里这么明显",
-      "onboard_time": 1766638044,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 203821,
+      "num": 185565,
+      "word": "张杰成都演唱会官宣9场",
+      "onboard_time": 1766639961,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 194523,
@@ -483,12 +523,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177252,
+      "num": 177252,
+      "word": "肖战黑粉视频道歉",
+      "onboard_time": 1766638822,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176812,
+      "num": 169073,
+      "word": "侯明昊你怎么瞒着大家伙偷偷做人啊",
+      "onboard_time": 1766639541,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175955,
+      "num": 175955,
+      "word": "日本开始碰瓷中国和美国了",
+      "onboard_time": 1766638402,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174543,
       "num": 174543,
       "word": "iPhone的背面有隐藏按键",
       "onboard_time": 1766620940,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173399,
+      "num": 168008,
+      "word": "孙燕姿就在日落以后巡回演唱会",
+      "onboard_time": 1766640202,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 171931,
@@ -611,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155959,
+      "num": 155959,
+      "word": "SBS红毯",
+      "onboard_time": 1766640021,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154555,
       "num": 154555,
       "word": "油腻感的正确打开方式",
@@ -627,6 +707,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152691,
+      "num": 152691,
+      "word": "向太说宁静可惜了恋爱脑嫁给老外",
+      "onboard_time": 1766640260,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151265,
+      "num": 151265,
+      "word": "DeepSeek居然会点赞了",
+      "onboard_time": 1766640442,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149832,
       "num": 149832,
       "word": "跨年演唱会",
@@ -635,12 +731,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149143,
-      "num": 149143,
-      "word": "日本开始碰瓷中国和美国了",
-      "onboard_time": 1766638402,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 146413,
+      "num": 146413,
+      "word": "恋与深空家园",
+      "onboard_time": 1766639782,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 145930,
@@ -680,6 +776,14 @@
       "word": "法医解剖吸毒者心脏比普通人大一倍",
       "onboard_time": 1766626459,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140267,
+      "num": 151673,
+      "word": "河南火灾事故贾霞亲人发文",
+      "onboard_time": 1766638822,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -731,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129635,
+      "num": 129635,
+      "word": "球迷为孙颖莎点亮祈福灯",
+      "onboard_time": 1766640623,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128922,
       "num": 150448,
       "word": "情侣间发送亲密照片没有社会危害性",
@@ -763,12 +875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121016,
+      "num": 119668,
+      "word": "SBS直播",
+      "onboard_time": 1766639001,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120349,
       "num": 145750,
       "word": "建议别在东北cos尼克狐尼克",
       "onboard_time": 1766591781,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120323,
+      "num": 120323,
+      "word": "亲子鉴定遭拒男子将妻子踢成轻伤",
+      "onboard_time": 1766639062,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115639,
@@ -875,12 +1003,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100551,
+      "num": 318042,
+      "word": "让张晚意心动的搭档终于出现",
+      "onboard_time": 1766635459,
+      "rank": 12,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 99612,
       "num": 99612,
       "word": "逍遥",
       "onboard_time": 1766634980,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98483,
+      "num": 152714,
+      "word": "黄轩 伸出圆脚",
+      "onboard_time": 1766639541,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 98422,
@@ -1027,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75801,
+      "num": 160722,
+      "word": "盘锦虐童案24人被处理",
+      "onboard_time": 1766638582,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 75462,
       "num": 145789,
       "word": "一斤油一斤半面粉",
@@ -1064,14 +1216,6 @@
       "word": "朱一龙工作室更新",
       "onboard_time": 1766587584,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69446,
-      "num": 176680,
-      "word": "张柏芝捏小儿子脚",
-      "onboard_time": 1766638341,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1315,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43250,
+      "num": 191742,
+      "word": "一地解聘9名无故旷工在编人员",
+      "onboard_time": 1766640021,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41241,
       "num": 84784,
       "word": "央视播出福建舰弹射超近画面",
@@ -1363,20 +1515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34035,
+      "num": 192660,
+      "word": "奥迪E5你的全能搭子",
+      "onboard_time": 1766639121,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33889,
       "num": 231178,
       "word": "剑来2携nova15本命机缘高燃回归",
       "onboard_time": 1766636241,
       "rank": 25,
       "category": "动漫,数码"
-    },
-    {
-      "raw_hot": 33734,
-      "num": 318042,
-      "word": "让张晚意心动的搭档终于出现",
-      "onboard_time": 1766635459,
-      "rank": 12,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 32875,
@@ -1403,11 +1555,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30482,
+      "num": 200286,
+      "word": "美国暂缓对华芯片加征额外关税",
+      "onboard_time": 1766639782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29744,
       "num": 162207,
       "word": "98岁爸爸被女儿养得年轻30岁",
       "onboard_time": 1766637021,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29727,
+      "num": 596884,
+      "word": "2025打破纪录的高光时刻",
+      "onboard_time": 1766636901,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1475,12 +1643,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 26357,
-      "num": 596884,
-      "word": "2025打破纪录的高光时刻",
-      "onboard_time": 1766636901,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 25889,
+      "num": 310184,
+      "word": "晒出我的新年送礼好物清单",
+      "onboard_time": 1766637141,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 25788,
@@ -1489,14 +1657,6 @@
       "onboard_time": 1766597777,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24725,
-      "num": 310184,
-      "word": "晒出我的新年送礼好物清单",
-      "onboard_time": 1766637141,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 23077,

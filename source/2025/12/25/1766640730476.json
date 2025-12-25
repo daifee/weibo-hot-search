@@ -1,0 +1,410 @@
+{
+  "runTime": 1766640730476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593359,
+        "num": 1094937,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551502,
+        "num": 551502,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29727,
+        "num": 469582,
+        "word": "2025打破纪录的高光时刻",
+        "onboard_time": 1766636901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417786,
+        "num": 417786,
+        "word": "紫燕百味鸡店员偷减牛肉被抓现行",
+        "onboard_time": 1766637021,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336430,
+        "num": 336430,
+        "word": "哥哥只是比我先认识嫂子",
+        "onboard_time": 1766635041,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596464,
+        "num": 309412,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 5,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 342535,
+        "num": 291103,
+        "word": "孟子义能抱起李昀锐了",
+        "onboard_time": 1766635639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259540,
+        "num": 259540,
+        "word": "年薪45万美元程序员半年变流浪汉",
+        "onboard_time": 1766625021,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200532,
+        "num": 200532,
+        "word": "汪家人 云顶天宫",
+        "onboard_time": 1766630480,
+        "rank": 8,
+        "category": "旅游,作品衍生"
+      },
+      {
+        "raw_hot": 30482,
+        "num": 200286,
+        "word": "美国暂缓对华芯片加征额外关税",
+        "onboard_time": 1766639782,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 872988,
+        "num": 199161,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 498178,
+        "num": 197712,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456384,
+        "num": 197069,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423261,
+        "num": 196021,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 395726,
+        "num": 194943,
+        "word": "2025年度升咖艺人",
+        "onboard_time": 1766636182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25889,
+        "num": 194267,
+        "word": "晒出我的新年送礼好物清单",
+        "onboard_time": 1766637141,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 314679,
+        "num": 193864,
+        "word": "SBS",
+        "onboard_time": 1766636301,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34035,
+        "num": 192660,
+        "word": "奥迪E5你的全能搭子",
+        "onboard_time": 1766639121,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43250,
+        "num": 191742,
+        "word": "一地解聘9名无故旷工在编人员",
+        "onboard_time": 1766640021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225672,
+        "num": 190620,
+        "word": "林心如一开始没想过和霍建华在一起",
+        "onboard_time": 1766639723,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448890,
+        "num": 189124,
+        "word": "黄荷娜吸毒史长达十余年",
+        "onboard_time": 1766619378,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 353879,
+        "num": 188648,
+        "word": "张柏芝捏小儿子脚",
+        "onboard_time": 1766638341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281273,
+        "num": 187523,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211697,
+        "num": 186399,
+        "word": "原来是黄晓明给杨幂黄子韬牵的线",
+        "onboard_time": 1766632100,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203821,
+        "num": 185565,
+        "word": "张杰成都演唱会官宣9场",
+        "onboard_time": 1766639961,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185318,
+        "num": 185318,
+        "word": "杨采钰私信网友要求删帖",
+        "onboard_time": 1766638521,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 177252,
+        "word": "肖战黑粉视频道歉",
+        "onboard_time": 1766638822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22046,
+        "num": 176549,
+        "word": "剑来2携nova15本命机缘高燃回归",
+        "onboard_time": 1766636241,
+        "rank": 27,
+        "category": "动漫,数码"
+      },
+      {
+        "raw_hot": 175955,
+        "num": 175955,
+        "word": "日本开始碰瓷中国和美国了",
+        "onboard_time": 1766638402,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171015,
+        "num": 171015,
+        "word": "男子性侵醉酒女子并发文炫耀获刑",
+        "onboard_time": 1766624302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176812,
+        "num": 169073,
+        "word": "侯明昊你怎么瞒着大家伙偷偷做人啊",
+        "onboard_time": 1766639541,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173399,
+        "num": 168008,
+        "word": "孙燕姿就在日落以后巡回演唱会",
+        "onboard_time": 1766640202,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100551,
+        "num": 166966,
+        "word": "让张晚意心动的搭档终于出现",
+        "onboard_time": 1766635459,
+        "rank": 32,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 166312,
+        "num": 166312,
+        "word": "王者新皮肤",
+        "onboard_time": 1766633301,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75801,
+        "num": 160722,
+        "word": "盘锦虐童案24人被处理",
+        "onboard_time": 1766638582,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 156670,
+        "num": 156670,
+        "word": "斩杀线",
+        "onboard_time": 1766621721,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155959,
+        "num": 155959,
+        "word": "SBS红毯",
+        "onboard_time": 1766640021,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152740,
+        "num": 152740,
+        "word": "90后不显老是因为老过",
+        "onboard_time": 1766636121,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98483,
+        "num": 152714,
+        "word": "黄轩 伸出圆脚",
+        "onboard_time": 1766639541,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152691,
+        "num": 152691,
+        "word": "向太说宁静可惜了恋爱脑嫁给老外",
+        "onboard_time": 1766640260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140267,
+        "num": 151673,
+        "word": "河南火灾事故贾霞亲人发文",
+        "onboard_time": 1766638822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151265,
+        "num": 151265,
+        "word": "DeepSeek居然会点赞了",
+        "onboard_time": 1766640442,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148154,
+        "num": 148154,
+        "word": "金莎回应被求婚",
+        "onboard_time": 1766620460,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146413,
+        "num": 146413,
+        "word": "恋与深空家园",
+        "onboard_time": 1766639782,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133621,
+        "num": 133621,
+        "word": "重庆姐弟坠亡案妈妈近况",
+        "onboard_time": 1766628499,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130894,
+        "num": 130894,
+        "word": "谭松韵别演了我害怕",
+        "onboard_time": 1766633840,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129635,
+        "num": 129635,
+        "word": "球迷为孙颖莎点亮祈福灯",
+        "onboard_time": 1766640623,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121476,
+        "num": 121476,
+        "word": "春节前后离职对比",
+        "onboard_time": 1766633840,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 120323,
+        "num": 120323,
+        "word": "亲子鉴定遭拒男子将妻子踢成轻伤",
+        "onboard_time": 1766639062,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121016,
+        "num": 119668,
+        "word": "SBS直播",
+        "onboard_time": 1766639001,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}
