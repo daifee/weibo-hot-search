@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766672902225,
+  "endTime": 1766673895653,
   "band_list": [
     {
       "raw_hot": 1411577,
@@ -25,6 +25,14 @@
       "onboard_time": 1766659342,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1093144,
+      "num": 185409,
+      "word": "陈妍希9岁儿子正脸照",
+      "onboard_time": 1766670381,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025676,
@@ -163,14 +171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 645297,
-      "num": 185409,
-      "word": "陈妍希9岁儿子正脸照",
-      "onboard_time": 1766670381,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 631670,
       "num": 150216,
       "word": "曝男顶流拍戏受伤",
@@ -193,6 +193,14 @@
       "onboard_time": 1766655920,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617897,
+      "num": 228836,
+      "word": "穆祉丞还直播吗",
+      "onboard_time": 1766672121,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 604805,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444201,
+      "num": 305441,
+      "word": "南博已故原院长曾释疑金兽颈部绿斑",
+      "onboard_time": 1766671342,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443864,
       "num": 443864,
       "word": "紫燕百味鸡店员偷减牛肉被抓现行",
@@ -473,6 +489,14 @@
       "onboard_time": 1766665701,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401187,
+      "num": 239278,
+      "word": "2个月宝宝被奶奶碘伏擦进ICU",
+      "onboard_time": 1766672902,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399837,
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345256,
+      "num": 240533,
+      "word": "河南一大货车出事故多人哄抢货物",
+      "onboard_time": 1766670322,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341478,
       "num": 341478,
       "word": "斩杀线",
@@ -667,14 +699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 305441,
-      "num": 305441,
-      "word": "南博已故原院长曾释疑金兽颈部绿斑",
-      "onboard_time": 1766671342,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300750,
       "num": 300750,
       "word": "王者新皮肤",
@@ -739,6 +763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 282980,
+      "num": 230607,
+      "word": "贾霞老师",
+      "onboard_time": 1766670863,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282975,
       "num": 282975,
       "word": "恋与深空",
@@ -761,14 +793,6 @@
       "onboard_time": 1766619738,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260741,
-      "num": 230607,
-      "word": "贾霞老师",
-      "onboard_time": 1766670863,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259851,
@@ -857,22 +881,6 @@
       "onboard_time": 1766628200,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 228836,
-      "num": 228836,
-      "word": "穆祉丞还直播吗",
-      "onboard_time": 1766672121,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 225330,
-      "num": 240533,
-      "word": "河南一大货车出事故多人哄抢货物",
-      "onboard_time": 1766670322,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222574,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1766650281,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175616,
+      "num": 186919,
+      "word": "长安二十四计 第二季",
+      "onboard_time": 1766672601,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 174543,
@@ -1675,7 +1691,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136240,
+      "raw_hot": 137275,
       "num": 184199,
       "word": "破军对战WB",
       "onboard_time": 1766664560,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1766647461,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135736,
+      "num": 135736,
+      "word": "李宏毅声明",
+      "onboard_time": 1766673622,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 134592,
@@ -1779,6 +1803,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 131624,
+      "num": 131624,
+      "word": "陈伟霆首谈自己的育儿观",
+      "onboard_time": 1766673263,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131251,
       "num": 131251,
       "word": "死去的爸撒谎的妈怀疑全世界的他",
@@ -1857,6 +1889,22 @@
       "onboard_time": 1766581043,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128046,
+      "num": 128046,
+      "word": "车厘子的J是啥意思",
+      "onboard_time": 1766673082,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127350,
+      "num": 124930,
+      "word": "黄荷娜曾和朴有天吸毒被拘留",
+      "onboard_time": 1766673322,
+      "rank": 30,
+      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 127196,
@@ -1979,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120083,
+      "num": 120083,
+      "word": "黄景瑜真连上网了",
+      "onboard_time": 1766673442,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119689,
       "num": 155628,
       "word": "TF家族彩排照",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1766663542,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118416,
-      "num": 184083,
-      "word": "长安二十四计 第二季",
-      "onboard_time": 1766672601,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 117896,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1766652323,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102398,
+      "num": 183335,
+      "word": "字节28名员工因违规被实名通报",
+      "onboard_time": 1766670201,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 102253,
@@ -2763,6 +2819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87604,
+      "num": 102328,
+      "word": "成毅谢淮安笑着关上了赴死那扇门",
+      "onboard_time": 1766672902,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86756,
       "num": 154637,
       "word": "王楚钦乒超总决赛训练",
@@ -2833,14 +2897,6 @@
       "onboard_time": 1766665640,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83553,
-      "num": 183335,
-      "word": "字节28名员工因违规被实名通报",
-      "onboard_time": 1766670201,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 81955,
@@ -3635,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28827,
+      "num": 112272,
+      "word": "日本前所未有的熊尸危机",
+      "onboard_time": 1766672902,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28824,
       "num": 97140,
       "word": "内娱真神阵容都在这里了",
@@ -3779,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17135,
+      "num": 169144,
+      "word": "冲撞老人倒地城管被刑拘",
+      "onboard_time": 1766673202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16055,
       "num": 29692,
       "word": "强生上诉",
@@ -3800,6 +3872,14 @@
       "word": "2025年终盘点向新力十足",
       "onboard_time": 1766636782,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14712,
+      "num": 112890,
+      "word": "堆满76万现金的出租车被紧急拦下",
+      "onboard_time": 1766673322,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
