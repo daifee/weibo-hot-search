@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766680518226,
+  "endTime": 1766681386574,
   "band_list": [
     {
       "raw_hot": 1106970,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 399264,
-      "num": 399264,
+      "num": 687800,
       "word": "鸡排哥一夜爆火后现状",
       "onboard_time": 1766659342,
       "rank": 1,
@@ -59,16 +59,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172226,
-      "num": 172226,
+      "raw_hot": 224146,
+      "num": 224146,
       "word": "央视曝光美妆背后的消费陷阱",
       "onboard_time": 1766677399,
       "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170592,
-      "num": 170592,
+      "raw_hot": 219183,
+      "num": 219183,
       "word": "估值2亿别墅6673万元起拍没人要",
       "onboard_time": 1766678181,
       "rank": 5,
@@ -89,6 +89,14 @@
       "onboard_time": 1766674282,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142051,
+      "num": 112893,
+      "word": "宋威龙张凌赫 一个给老自一个给老己",
+      "onboard_time": 1766675301,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 131174,
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115062,
+      "num": 110136,
+      "word": "字节120名员工因触犯红线被辞",
+      "onboard_time": 1766670622,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113371,
       "num": 113371,
       "word": "日本前所未有的熊尸危机",
       "onboard_time": 1766672902,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112893,
-      "num": 112893,
-      "word": "宋威龙张凌赫 一个给老自一个给老己",
-      "onboard_time": 1766675301,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 112102,
@@ -155,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109125,
-      "num": 109125,
-      "word": "字节120名员工因触犯红线被辞",
-      "onboard_time": 1766670622,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 101500,
+      "num": 101500,
+      "word": "山东一服装店允许骑车进入成打卡点",
+      "onboard_time": 1766679439,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100604,
@@ -203,6 +211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89978,
+      "num": 95728,
+      "word": "罚罪2开播",
+      "onboard_time": 1766660901,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79186,
       "num": 96221,
       "word": "那英肖战合唱跟着感觉走",
@@ -211,28 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77464,
-      "num": 96518,
-      "word": "山东一服装店允许骑车进入成打卡点",
-      "onboard_time": 1766679439,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72131,
       "num": 96009,
       "word": "每天穿破羽绒服超12小时确诊羽绒肺",
       "onboard_time": 1766676081,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71603,
-      "num": 95728,
-      "word": "罚罪2开播",
-      "onboard_time": 1766660901,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 70618,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53971,
+      "num": 94704,
+      "word": "凯乐石牌羽绒服被曝新旧款差900元",
+      "onboard_time": 1766678841,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53796,
       "num": 95007,
       "word": "原来真的有人能一直爱一个人啊",
@@ -387,11 +395,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41842,
-      "num": 94704,
-      "word": "凯乐石牌羽绒服被曝新旧款差900元",
-      "onboard_time": 1766678841,
-      "rank": 46,
+      "raw_hot": 40103,
+      "num": 84721,
+      "word": "骄阳似我OST",
+      "onboard_time": 1766681058,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35459,
+      "num": 84705,
+      "word": "就算脸盲也能一眼认出花花",
+      "onboard_time": 1766679679,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
