@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766645820802,
+  "endTime": 1766647776915,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -5044,7 +5044,7 @@
     },
     {
       "raw_hot": 680576,
-      "num": 221395,
+      "num": 222817,
       "word": "朱孝天举报五月天所属公司",
       "onboard_time": 1766641643,
       "rank": 48,
@@ -5481,6 +5481,14 @@
       "onboard_time": 1765899382,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655185,
+      "num": 276261,
+      "word": "iPhone18Pro左上角挖孔设计",
+      "onboard_time": 1766644702,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 654750,
@@ -7121,6 +7129,14 @@
       "onboard_time": 1765958721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 564404,
+      "num": 218124,
+      "word": "李宏毅 限高",
+      "onboard_time": 1766646621,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 564154,
@@ -9283,6 +9299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 485945,
+      "num": 272972,
+      "word": "西贝预制菜风波100天后贾国龙现状",
+      "onboard_time": 1766644101,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485699,
       "num": 242796,
       "word": "双轨 精华速看版",
@@ -9497,14 +9521,6 @@
       "onboard_time": 1765784723,
       "rank": 12,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 480653,
-      "num": 276261,
-      "word": "iPhone18Pro左上角挖孔设计",
-      "onboard_time": 1766644702,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 480633,
@@ -10571,6 +10587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448861,
+      "num": 218131,
+      "word": "方圆为copy杨颖定制造型道歉",
+      "onboard_time": 1766642421,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448479,
       "num": 229517,
       "word": "张天爱送了全团队CHANEL",
@@ -11009,14 +11033,6 @@
       "onboard_time": 1765177400,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435877,
-      "num": 272972,
-      "word": "西贝预制菜风波100天后贾国龙现状",
-      "onboard_time": 1766644101,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 435804,
@@ -14411,14 +14427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355818,
-      "num": 218131,
-      "word": "方圆为copy杨颖定制造型道歉",
-      "onboard_time": 1766642421,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 355773,
       "num": 379723,
       "word": "马克龙说此行只有一个遗憾",
@@ -14833,6 +14841,14 @@
       "onboard_time": 1765507099,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348676,
+      "num": 230137,
+      "word": "梁淞 你的钱还不是我付的",
+      "onboard_time": 1766644702,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 348644,
@@ -16713,6 +16729,14 @@
       "onboard_time": 1766464581,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314715,
+      "num": 201528,
+      "word": "关晓彤 有着最勇敢的19岁",
+      "onboard_time": 1766645420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 313997,
@@ -19555,6 +19579,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 267558,
+      "num": 267558,
+      "word": "2026年春节将放假九天",
+      "onboard_time": 1766646442,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267550,
       "num": 246450,
       "word": "刘诗诗小时候用这张脸捅马蜂窝",
@@ -19617,14 +19649,6 @@
       "onboard_time": 1764601344,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266840,
-      "num": 202604,
-      "word": "梁淞 你的钱还不是我付的",
-      "onboard_time": 1766644702,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 266795,
@@ -19921,6 +19945,14 @@
       "onboard_time": 1766494281,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262692,
+      "num": 262692,
+      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+      "onboard_time": 1766646561,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 262630,
@@ -24395,6 +24427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211680,
+      "num": 163367,
+      "word": "蓝盈莹夸卢昱晓畲族写真好看",
+      "onboard_time": 1766646021,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211673,
       "num": 237001,
       "word": "莫雷加德拥抱王楚钦",
@@ -26283,14 +26323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201528,
-      "num": 201528,
-      "word": "关晓彤 有着最勇敢的19岁",
-      "onboard_time": 1766645420,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201525,
       "num": 201525,
       "word": "邮轮失联中国女子在德当护士",
@@ -28073,6 +28105,14 @@
       "onboard_time": 1765027764,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 192735,
+      "word": "第一次吃生腌虾悄悄用热水烫熟了",
+      "onboard_time": 1766646981,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 192714,
@@ -34339,6 +34379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162661,
+      "num": 162661,
+      "word": "这就是理想的婚姻生活吧",
+      "onboard_time": 1766647522,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162594,
       "num": 162594,
       "word": "苏新皓本月最后一条框框跳",
@@ -38131,6 +38179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148983,
+      "num": 148983,
+      "word": "周杰伦昆凌合照中画作被曝近百万",
+      "onboard_time": 1766645420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148963,
       "num": 148963,
       "word": "何晴 我想战胜病魔走回舞台",
@@ -38153,6 +38209,14 @@
       "onboard_time": 1764762442,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148929,
+      "num": 148929,
+      "word": "骨头汤不如牛奶补钙",
+      "onboard_time": 1766647403,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148927,
@@ -42393,6 +42457,14 @@
       "onboard_time": 1766556323,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 184878,
+      "word": "PEL集结夜路透",
+      "onboard_time": 1766647461,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 136160,
@@ -47523,6 +47595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123996,
+      "num": 115352,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1766647220,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123955,
       "num": 123955,
       "word": "有人穿带吊牌衣服上街网友称可帮剪",
@@ -51283,6 +51363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115761,
+      "num": 184690,
+      "word": "开拓者球迷因杨瀚森不上场退季票",
+      "onboard_time": 1766646262,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115732,
       "num": 115732,
       "word": "快乐老友记日更陪你一起跨年",
@@ -51345,6 +51433,14 @@
       "onboard_time": 1765290863,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115556,
+      "num": 115556,
+      "word": "法院判决自媒体赔偿比亚迪200万元",
+      "onboard_time": 1766646262,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 115547,
@@ -53611,6 +53707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111067,
+      "num": 182583,
+      "word": "无畏写真",
+      "onboard_time": 1766646381,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "唐诡团宠离家出走",
@@ -54145,6 +54249,14 @@
       "onboard_time": 1765930522,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109608,
+      "num": 109608,
+      "word": "大学生投票一天到晚有使不完的牛劲",
+      "onboard_time": 1766647642,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109600,
@@ -54956,7 +55068,7 @@
     },
     {
       "raw_hot": 108185,
-      "num": 161468,
+      "num": 162759,
       "word": "2人带30000多粒含冰毒减肥药入境",
       "onboard_time": 1766642842,
       "rank": 29,
@@ -56033,6 +56145,14 @@
       "onboard_time": 1766415382,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105597,
+      "num": 105597,
+      "word": "上班心态就得这样",
+      "onboard_time": 1766647042,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 105581,
@@ -57883,6 +58003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102253,
+      "num": 114628,
+      "word": "迅猛龙自曝患过轻度脑萎缩",
+      "onboard_time": 1766646621,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 102252,
       "num": 102252,
       "word": "白鹿张凌赫参加星光大赏",
@@ -58873,6 +59001,14 @@
       "onboard_time": 1765687942,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100337,
+      "num": 114013,
+      "word": "华为nova15",
+      "onboard_time": 1766646381,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 100306,
@@ -61987,6 +62123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93548,
+      "num": 93548,
+      "word": "林一把爱你老己听进去了",
+      "onboard_time": 1766647642,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93518,
       "num": 93518,
       "word": "双休和单休真的是两种人生吗",
@@ -62225,6 +62369,14 @@
       "onboard_time": 1764984919,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92945,
+      "num": 92945,
+      "word": "李施嬅问自己是不是爱错了人",
+      "onboard_time": 1766647282,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92918,
@@ -72211,6 +72363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60552,
+      "num": 113676,
+      "word": "外国人拿走留学生行李拒不归还",
+      "onboard_time": 1766646442,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60545,
       "num": 52289,
       "word": "原来真的有脏的立起来这个概念",
@@ -72649,14 +72809,6 @@
       "onboard_time": 1765688722,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 58706,
-      "num": 111101,
-      "word": "周杰伦昆凌合照中画作被曝近百万",
-      "onboard_time": 1766645420,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 58699,
@@ -77793,6 +77945,14 @@
       "onboard_time": 1766385980,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40222,
+      "num": 114242,
+      "word": "狙击蝴蝶最大的受益人",
+      "onboard_time": 1766647642,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 40202,
@@ -86233,6 +86393,14 @@
       "onboard_time": 1766080755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12804,
+      "num": 184272,
+      "word": "孙颖莎的2025数据流报告",
+      "onboard_time": 1766646921,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12753,

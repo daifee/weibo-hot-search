@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766645820802,
+  "endTime": 1766647776915,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 680576,
-      "num": 221395,
+      "num": 222817,
       "word": "朱孝天举报五月天所属公司",
       "onboard_time": 1766641643,
       "rank": 48,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1766299641,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 655185,
+      "num": 276261,
+      "word": "iPhone18Pro左上角挖孔设计",
+      "onboard_time": 1766644702,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 650711,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1766392041,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 564404,
+      "num": 218124,
+      "word": "李宏毅 限高",
+      "onboard_time": 1766646621,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 561461,
@@ -1907,6 +1923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 485945,
+      "num": 272972,
+      "word": "西贝预制菜风波100天后贾国龙现状",
+      "onboard_time": 1766644101,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485229,
       "num": 447716,
       "word": "第一次吃生鱼片悄悄用油炸熟了",
@@ -1945,14 +1969,6 @@
       "onboard_time": 1766462061,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 480653,
-      "num": 276261,
-      "word": "iPhone18Pro左上角挖孔设计",
-      "onboard_time": 1766644702,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 480528,
@@ -2171,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448861,
+      "num": 218131,
+      "word": "方圆为copy杨颖定制造型道歉",
+      "onboard_time": 1766642421,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448426,
       "num": 308172,
       "word": "张凌赫刘宇宁 鬼怪",
@@ -2216,14 +2240,6 @@
       "word": "紫燕百味鸡店员偷减牛肉被抓现行",
       "onboard_time": 1766637021,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 435877,
-      "num": 272972,
-      "word": "西贝预制菜风波100天后贾国龙现状",
-      "onboard_time": 1766644101,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2883,14 +2899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355818,
-      "num": 218131,
-      "word": "方圆为copy杨颖定制造型道歉",
-      "onboard_time": 1766642421,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 355519,
       "num": 355519,
       "word": "被举报南博前院长发声",
@@ -2952,6 +2960,14 @@
       "word": "林心如一开始没想过和霍建华在一起",
       "onboard_time": 1766639723,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 348676,
+      "num": 230137,
+      "word": "梁淞 你的钱还不是我付的",
+      "onboard_time": 1766644702,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -3289,6 +3305,14 @@
       "onboard_time": 1766464581,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314715,
+      "num": 201528,
+      "word": "关晓彤 有着最勇敢的19岁",
+      "onboard_time": 1766645420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 313741,
@@ -3891,20 +3915,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267558,
+      "num": 267558,
+      "word": "2026年春节将放假九天",
+      "onboard_time": 1766646442,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266972,
       "num": 266972,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1766369178,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266840,
-      "num": 202604,
-      "word": "梁淞 你的钱还不是我付的",
-      "onboard_time": 1766644702,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 265142,
@@ -3953,6 +3977,14 @@
       "onboard_time": 1766494281,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262692,
+      "num": 262692,
+      "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+      "onboard_time": 1766646561,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 261860,
@@ -4715,6 +4747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211680,
+      "num": 163367,
+      "word": "蓝盈莹夸卢昱晓畲族写真好看",
+      "onboard_time": 1766646021,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211608,
       "num": 211608,
       "word": "星光大赏奖项",
@@ -5041,14 +5081,6 @@
       "onboard_time": 1766560520,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201528,
-      "num": 201528,
-      "word": "关晓彤 有着最勇敢的19岁",
-      "onboard_time": 1766645420,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 201525,
@@ -5441,6 +5473,14 @@
       "onboard_time": 1766499981,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192735,
+      "num": 192735,
+      "word": "第一次吃生腌虾悄悄用热水烫熟了",
+      "onboard_time": 1766646981,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 192673,
@@ -6683,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162661,
+      "num": 162661,
+      "word": "这就是理想的婚姻生活吧",
+      "onboard_time": 1766647522,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162607,
       "num": 242913,
       "word": "KPL",
@@ -7433,6 +7481,22 @@
       "onboard_time": 1766639782,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148983,
+      "num": 148983,
+      "word": "周杰伦昆凌合照中画作被曝近百万",
+      "onboard_time": 1766645420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148929,
+      "num": 148929,
+      "word": "骨头汤不如牛奶补钙",
+      "onboard_time": 1766647403,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148927,
@@ -8313,6 +8377,14 @@
       "onboard_time": 1766556323,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 184878,
+      "word": "PEL集结夜路透",
+      "onboard_time": 1766647461,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 136057,
@@ -9307,6 +9379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123996,
+      "num": 115352,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1766647220,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "MEI成员退团",
@@ -9827,12 +9907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115761,
+      "num": 184690,
+      "word": "开拓者球迷因杨瀚森不上场退季票",
+      "onboard_time": 1766646262,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115635,
       "num": 115635,
       "word": "成毅这次打破了自己的好人形象",
       "onboard_time": 1766634501,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115556,
+      "num": 115556,
+      "word": "法院判决自媒体赔偿比亚迪200万元",
+      "onboard_time": 1766646262,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 115503,
@@ -10163,6 +10259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111067,
+      "num": 182583,
+      "word": "无畏写真",
+      "onboard_time": 1766646381,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111015,
       "num": 114304,
       "word": "双轨海外影响力",
@@ -10289,6 +10393,14 @@
       "onboard_time": 1766385440,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109608,
+      "num": 109608,
+      "word": "大学生投票一天到晚有使不完的牛劲",
+      "onboard_time": 1766647642,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109468,
@@ -10452,7 +10564,7 @@
     },
     {
       "raw_hot": 108185,
-      "num": 161468,
+      "num": 162759,
       "word": "2人带30000多粒含冰毒减肥药入境",
       "onboard_time": 1766642842,
       "rank": 29,
@@ -10625,6 +10737,14 @@
       "onboard_time": 1766415382,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105597,
+      "num": 105597,
+      "word": "上班心态就得这样",
+      "onboard_time": 1766647042,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 105565,
@@ -11051,6 +11171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102253,
+      "num": 114628,
+      "word": "迅猛龙自曝患过轻度脑萎缩",
+      "onboard_time": 1766646621,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 102209,
       "num": 123637,
       "word": "狙击蝴蝶 李雾自白动画",
@@ -11217,6 +11345,14 @@
       "onboard_time": 1766584342,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100337,
+      "num": 114013,
+      "word": "华为nova15",
+      "onboard_time": 1766646381,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 100293,
@@ -11763,6 +11899,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 93548,
+      "num": 93548,
+      "word": "林一把爱你老己听进去了",
+      "onboard_time": 1766647642,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93395,
       "num": 118435,
       "word": "动画还原发小入室杀害妻儿3人案",
@@ -11801,6 +11945,14 @@
       "onboard_time": 1766389040,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 92945,
+      "num": 92945,
+      "word": "李施嬅问自己是不是爱错了人",
+      "onboard_time": 1766647282,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92918,
@@ -13667,6 +13819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 60552,
+      "num": 113676,
+      "word": "外国人拿走留学生行李拒不归还",
+      "onboard_time": 1766646442,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60379,
       "num": 125224,
       "word": "美乌20点和平计划全文公布",
@@ -13744,14 +13904,6 @@
       "word": "赵丽颖2025中国品牌青年500强TOP4",
       "onboard_time": 1766414963,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 58706,
-      "num": 111101,
-      "word": "周杰伦昆凌合照中画作被曝近百万",
-      "onboard_time": 1766645420,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -14769,6 +14921,14 @@
       "onboard_time": 1766385980,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40222,
+      "num": 114242,
+      "word": "狙击蝴蝶最大的受益人",
+      "onboard_time": 1766647642,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 40157,
@@ -16609,6 +16769,14 @@
       "onboard_time": 1766582242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12804,
+      "num": 184272,
+      "word": "孙颖莎的2025数据流报告",
+      "onboard_time": 1766646921,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12665,

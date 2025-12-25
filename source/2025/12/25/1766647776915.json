@@ -1,0 +1,410 @@
+{
+  "runTime": 1766647776915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 538072,
+        "num": 1086091,
+        "word": "夫妻俩虚假报名758次公务员考试获刑",
+        "onboard_time": 1766642062,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267558,
+        "num": 267558,
+        "word": "2026年春节将放假九天",
+        "onboard_time": 1766646442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23920,
+        "num": 262982,
+        "word": "2025打破纪录的高光时刻",
+        "onboard_time": 1766636901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262692,
+        "num": 262692,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253617,
+        "num": 253617,
+        "word": "老板监视员工微信只需300元",
+        "onboard_time": 1766633660,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655185,
+        "num": 247604,
+        "word": "iPhone18Pro左上角挖孔设计",
+        "onboard_time": 1766644702,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 485945,
+        "num": 246763,
+        "word": "西贝预制菜风波100天后贾国龙现状",
+        "onboard_time": 1766644101,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363395,
+        "num": 238570,
+        "word": "支付宝有人转三千到我的账号",
+        "onboard_time": 1766636362,
+        "rank": 7,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 348676,
+        "num": 230137,
+        "word": "梁淞 你的钱还不是我付的",
+        "onboard_time": 1766644702,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227441,
+        "num": 227441,
+        "word": "逐玉",
+        "onboard_time": 1766628381,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616762,
+        "num": 222817,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564404,
+        "num": 218124,
+        "word": "李宏毅 限高",
+        "onboard_time": 1766646621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448861,
+        "num": 211748,
+        "word": "方圆为copy杨颖定制造型道歉",
+        "onboard_time": 1766642421,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318304,
+        "num": 200226,
+        "word": "对不起周柯宇 是陈靖可先来的",
+        "onboard_time": 1766637202,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317404,
+        "num": 195040,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192735,
+        "num": 192735,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185280,
+        "num": 185280,
+        "word": "原来小孩的喜欢在大人眼里这么明显",
+        "onboard_time": 1766638044,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 136198,
+        "num": 184878,
+        "word": "PEL集结夜路透",
+        "onboard_time": 1766647461,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115761,
+        "num": 184690,
+        "word": "开拓者球迷因杨瀚森不上场退季票",
+        "onboard_time": 1766646262,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12804,
+        "num": 184272,
+        "word": "孙颖莎的2025数据流报告",
+        "onboard_time": 1766646921,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339445,
+        "num": 183963,
+        "word": "陈晓的腰",
+        "onboard_time": 1766641340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314715,
+        "num": 183423,
+        "word": "关晓彤 有着最勇敢的19岁",
+        "onboard_time": 1766645420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310685,
+        "num": 182913,
+        "word": "卢昱晓给朋友当伴娘",
+        "onboard_time": 1766639001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111067,
+        "num": 182583,
+        "word": "无畏写真",
+        "onboard_time": 1766646381,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215640,
+        "num": 182206,
+        "word": "曝杜克恋情",
+        "onboard_time": 1766642362,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182020,
+        "num": 182020,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1766640981,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 163594,
+        "num": 163594,
+        "word": "林心如一开始没想过和霍建华在一起",
+        "onboard_time": 1766639723,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211680,
+        "num": 163367,
+        "word": "蓝盈莹夸卢昱晓畲族写真好看",
+        "onboard_time": 1766646021,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140387,
+        "num": 162875,
+        "word": "SBS",
+        "onboard_time": 1766636301,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91130,
+        "num": 162759,
+        "word": "2人带30000多粒含冰毒减肥药入境",
+        "onboard_time": 1766642842,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162661,
+        "num": 162661,
+        "word": "这就是理想的婚姻生活吧",
+        "onboard_time": 1766647522,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148983,
+        "num": 148983,
+        "word": "周杰伦昆凌合照中画作被曝近百万",
+        "onboard_time": 1766645420,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148929,
+        "num": 148929,
+        "word": "骨头汤不如牛奶补钙",
+        "onboard_time": 1766647403,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125419,
+        "num": 125419,
+        "word": "宁艺卓露腰礼服",
+        "onboard_time": 1766644642,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115556,
+        "num": 115556,
+        "word": "法院判决自媒体赔偿比亚迪200万元",
+        "onboard_time": 1766646262,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123996,
+        "num": 115352,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1766647220,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115089,
+        "num": 115089,
+        "word": "紫燕百味鸡店员偷减牛肉被抓现行",
+        "onboard_time": 1766637021,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253215,
+        "num": 114980,
+        "word": "南博镇馆之宝金兽被指脱皮掉色",
+        "onboard_time": 1766641222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102253,
+        "num": 114628,
+        "word": "迅猛龙自曝患过轻度脑萎缩",
+        "onboard_time": 1766646621,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40222,
+        "num": 114242,
+        "word": "狙击蝴蝶最大的受益人",
+        "onboard_time": 1766647642,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 114013,
+        "word": "华为nova15",
+        "onboard_time": 1766646381,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60552,
+        "num": 113676,
+        "word": "外国人拿走留学生行李拒不归还",
+        "onboard_time": 1766646442,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113382,
+        "num": 113382,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109608,
+        "num": 109608,
+        "word": "大学生投票一天到晚有使不完的牛劲",
+        "onboard_time": 1766647642,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105597,
+        "num": 105597,
+        "word": "上班心态就得这样",
+        "onboard_time": 1766647042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97173,
+        "num": 97173,
+        "word": "2026年12星座年运",
+        "onboard_time": 1766645001,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96653,
+        "num": 96653,
+        "word": "朱孝天批评F4歌曲难听消费情怀",
+        "onboard_time": 1766642903,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93830,
+        "num": 93830,
+        "word": "黄荷娜吸毒史长达十余年",
+        "onboard_time": 1766619378,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93548,
+        "num": 93548,
+        "word": "林一把爱你老己听进去了",
+        "onboard_time": 1766647642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92945,
+        "num": 92945,
+        "word": "李施嬅问自己是不是爱错了人",
+        "onboard_time": 1766647282,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#展望十五五#"
+    }
+  }
+}
