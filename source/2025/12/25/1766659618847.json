@@ -1,0 +1,410 @@
+{
+  "runTime": 1766659618847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 621440,
+        "num": 1099430,
+        "word": "男子发现女儿非亲生多部门介入调解",
+        "onboard_time": 1766655920,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600663,
+        "num": 600663,
+        "word": "刘强东发奖金有员工多拿1年工资",
+        "onboard_time": 1766658381,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25349,
+        "num": 427537,
+        "word": "冬天的快乐是冰雪给的",
+        "onboard_time": 1766654242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396757,
+        "num": 396757,
+        "word": "男子一次性植入6个心脏支架后去世",
+        "onboard_time": 1766653102,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306359,
+        "num": 306359,
+        "word": "白鹿 小舅妈变小妹妹",
+        "onboard_time": 1766655741,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438406,
+        "num": 298354,
+        "word": "每天存82块一年就有三万块",
+        "onboard_time": 1766629520,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288475,
+        "num": 288475,
+        "word": "骄阳似我",
+        "onboard_time": 1766656762,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216293,
+        "num": 216293,
+        "word": "孟鲁司特 抑郁",
+        "onboard_time": 1766648901,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 189832,
+        "num": 189832,
+        "word": "紫燕百味鸡回应员工鬼手偷肉",
+        "onboard_time": 1766650581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162595,
+        "num": 162595,
+        "word": "京东采销2025年平均25薪",
+        "onboard_time": 1766658440,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 774923,
+        "num": 162360,
+        "word": "李宏毅限高涉案金额1118万",
+        "onboard_time": 1766652143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557315,
+        "num": 162205,
+        "word": "大金确诊抑郁症",
+        "onboard_time": 1766655260,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62426,
+        "num": 161883,
+        "word": "为什么会有体检报告焦虑",
+        "onboard_time": 1766658262,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413863,
+        "num": 161596,
+        "word": "疑遇难学生家长称班主任该被判六年",
+        "onboard_time": 1766656161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311886,
+        "num": 161371,
+        "word": "高市早苗明日或参拜靖国神社",
+        "onboard_time": 1766656461,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243451,
+        "num": 161278,
+        "word": "宿管员老师贾某承认存在疏忽大意",
+        "onboard_time": 1766654422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233144,
+        "num": 160902,
+        "word": "2025年只上了9天班",
+        "onboard_time": 1766650701,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206536,
+        "num": 160744,
+        "word": "朱孝天举报五月天所属公司",
+        "onboard_time": 1766641643,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160526,
+        "num": 160526,
+        "word": "周深 蒸蚌",
+        "onboard_time": 1766658741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52999,
+        "num": 159635,
+        "word": "紫燕道歉",
+        "onboard_time": 1766658681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742135,
+        "num": 159552,
+        "word": "曝内娱大咖弃养私生子",
+        "onboard_time": 1766651000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 159274,
+        "word": "王楚钦走路姿势",
+        "onboard_time": 1766652381,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "第一次吃生腌虾悄悄用热水烫熟了",
+        "onboard_time": 1766646981,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "美国流浪女孩12岁吸毒被赶出家门",
+        "onboard_time": 1766655620,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136343,
+        "num": 136343,
+        "word": "李宏毅 限高",
+        "onboard_time": 1766646621,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126812,
+        "num": 126812,
+        "word": "原来短剧的观众偷偷吃这么好",
+        "onboard_time": 1766657781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125690,
+        "num": 125690,
+        "word": "成毅说方文山写的就是谢淮安",
+        "onboard_time": 1766656222,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125227,
+        "num": 125227,
+        "word": "辛苦了老己奖励你吃顿小夜宵",
+        "onboard_time": 1766658622,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108179,
+        "num": 121854,
+        "word": "58岁贾国龙第一次知道什么叫老登",
+        "onboard_time": 1766657720,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97963,
+        "num": 121296,
+        "word": "绍兴地铁深夜撞人事件调查报告",
+        "onboard_time": 1766656521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121246,
+        "num": 121246,
+        "word": "罚罪2",
+        "onboard_time": 1766659280,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121082,
+        "num": 121082,
+        "word": "短剧女演员拍戏间隙被男演员甩巴掌",
+        "onboard_time": 1766646561,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119010,
+        "num": 119010,
+        "word": "在京东面试了四个半月45场最终被留用",
+        "onboard_time": 1766656762,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114616,
+        "num": 114616,
+        "word": "王玉雯白宇看得我提心吊胆的",
+        "onboard_time": 1766658501,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105966,
+        "num": 105966,
+        "word": "关晓彤 有着最勇敢的19岁",
+        "onboard_time": 1766645420,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101943,
+        "num": 101943,
+        "word": "长安二十四计",
+        "onboard_time": 1766657480,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101151,
+        "num": 101151,
+        "word": "TF家族彩排照",
+        "onboard_time": 1766656461,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101123,
+        "num": 101123,
+        "word": "九门预约破200万",
+        "onboard_time": 1766658501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48478,
+        "num": 99944,
+        "word": "迪士尼偶遇金晨",
+        "onboard_time": 1766658981,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87572,
+        "num": 99394,
+        "word": "鸡排哥一夜爆火后现状",
+        "onboard_time": 1766659342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99065,
+        "num": 99065,
+        "word": "紫燕百味鸡发布致歉声明",
+        "onboard_time": 1766658861,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97746,
+        "num": 97746,
+        "word": "医生称多1个心脏支架多活10年",
+        "onboard_time": 1766659342,
+        "rank": 41,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 95104,
+        "num": 95104,
+        "word": "RW战胜Hero",
+        "onboard_time": 1766659041,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27446,
+        "num": 92515,
+        "word": "内娱真神阵容都在这里了",
+        "onboard_time": 1766658200,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90944,
+        "num": 90944,
+        "word": "王子奇道歉",
+        "onboard_time": 1766638822,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88677,
+        "num": 88677,
+        "word": "年销10亿元止咳药或引发自杀倾向",
+        "onboard_time": 1766651779,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86756,
+        "num": 88466,
+        "word": "王楚钦乒超总决赛训练",
+        "onboard_time": 1766658262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88324,
+        "num": 88324,
+        "word": "郭俊辰红包",
+        "onboard_time": 1766657661,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88605,
+        "num": 87935,
+        "word": "方圆为copy杨颖定制造型道歉",
+        "onboard_time": 1766642421,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86892,
+        "num": 86892,
+        "word": "解放军全时待战随时能战战之必胜",
+        "onboard_time": 1766655201,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败斗争一步不停歇半步不退让#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1766594104103,
-  "endTime": 1766658650070,
+  "endTime": 1766659618847,
   "band_list": [
     {
       "raw_hot": 1411577,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774923,
+      "num": 284928,
+      "word": "李宏毅限高涉案金额1118万",
+      "onboard_time": 1766652143,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769938,
       "num": 1114374,
       "word": "逐玉",
@@ -115,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 659646,
-      "num": 284928,
-      "word": "李宏毅限高涉案金额1118万",
-      "onboard_time": 1766652143,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655185,
       "num": 314208,
       "word": "iPhone18Pro左上角挖孔设计",
@@ -147,12 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621440,
+      "num": 1099430,
+      "word": "男子发现女儿非亲生多部门介入调解",
+      "onboard_time": 1766655920,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604805,
       "num": 309412,
       "word": "支付宝有人转三千到我的账号",
       "onboard_time": 1766636362,
       "rank": 15,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 600663,
+      "num": 600663,
+      "word": "刘强东发奖金有员工多拿1年工资",
+      "onboard_time": 1766658381,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 600079,
@@ -179,12 +195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 570334,
-      "num": 1091253,
-      "word": "男子发现女儿非亲生多部门介入调解",
-      "onboard_time": 1766655920,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 557315,
+      "num": 207834,
+      "word": "大金确诊抑郁症",
+      "onboard_time": 1766655260,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 537303,
@@ -217,14 +233,6 @@
       "onboard_time": 1766635041,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 513266,
-      "num": 207834,
-      "word": "大金确诊抑郁症",
-      "onboard_time": 1766655260,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 502265,
@@ -328,6 +336,14 @@
       "word": "男子性侵醉酒女子并发文炫耀获刑",
       "onboard_time": 1766624302,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413863,
+      "num": 205967,
+      "word": "疑遇难学生家长称班主任该被判六年",
+      "onboard_time": 1766656161,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -547,20 +563,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288475,
+      "num": 288475,
+      "word": "骄阳似我",
+      "onboard_time": 1766656762,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287929,
       "num": 271776,
       "word": "春节前后离职对比",
       "onboard_time": 1766633840,
       "rank": 30,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 286765,
-      "num": 286765,
-      "word": "骄阳似我",
-      "onboard_time": 1766656762,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 282975,
@@ -627,11 +643,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240730,
-      "num": 205967,
-      "word": "疑遇难学生家长称班主任该被判六年",
-      "onboard_time": 1766656161,
-      "rank": 13,
+      "raw_hot": 243451,
+      "num": 175003,
+      "word": "宿管员老师贾某承认存在疏忽大意",
+      "onboard_time": 1766654422,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -697,14 +713,6 @@
       "onboard_time": 1766646021,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208979,
-      "num": 208979,
-      "word": "刘强东发奖金有员工多拿1年工资",
-      "onboard_time": 1766658381,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 207950,
@@ -835,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186869,
-      "num": 175003,
-      "word": "宿管员老师贾某承认存在疏忽大意",
-      "onboard_time": 1766654422,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185340,
       "num": 185340,
       "word": "九尾这算初雪吗",
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 177298,
-      "num": 142718,
+      "num": 145586,
       "word": "美国流浪女孩12岁吸毒被赶出家门",
       "onboard_time": 1766655620,
       "rank": 30,
@@ -1091,6 +1091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 162595,
+      "num": 162595,
+      "word": "京东采销2025年平均25薪",
+      "onboard_time": 1766658440,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162594,
       "num": 162594,
       "word": "日本人开始吃熊肉",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1766634141,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 160526,
+      "num": 160526,
+      "word": "周深 蒸蚌",
+      "onboard_time": 1766658741,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 158975,
@@ -1539,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125227,
+      "num": 125227,
+      "word": "辛苦了老己奖励你吃顿小夜宵",
+      "onboard_time": 1766658622,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124062,
       "num": 124062,
       "word": "扛过十大酷刑一声不吭",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1766634740,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121246,
+      "num": 121246,
+      "word": "罚罪2",
+      "onboard_time": 1766659280,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 121214,
@@ -1595,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119010,
+      "num": 119010,
+      "word": "在京东面试了四个半月45场最终被留用",
+      "onboard_time": 1766656762,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117896,
       "num": 117896,
       "word": "2026年12星座年运",
       "onboard_time": 1766645001,
       "rank": 35,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 117451,
-      "num": 117451,
-      "word": "在京东面试了四个半月45场最终被留用",
-      "onboard_time": 1766656762,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 115900,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1766645661,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114616,
+      "num": 114616,
+      "word": "王玉雯白宇看得我提心吊胆的",
+      "onboard_time": 1766658501,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 113955,
@@ -1760,6 +1800,14 @@
       "word": "2人带30000多粒含冰毒减肥药入境",
       "onboard_time": 1766642842,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108179,
+      "num": 185403,
+      "word": "58岁贾国龙第一次知道什么叫老登",
+      "onboard_time": 1766657720,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1883,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101123,
+      "num": 101123,
+      "word": "九门预约破200万",
+      "onboard_time": 1766658501,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101096,
       "num": 145880,
       "word": "我们的明天",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1766634980,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99065,
+      "num": 99065,
+      "word": "紫燕百味鸡发布致歉声明",
+      "onboard_time": 1766658861,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98999,
@@ -1987,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97746,
+      "num": 97746,
+      "word": "医生称多1个心脏支架多活10年",
+      "onboard_time": 1766659342,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 97396,
       "num": 97396,
       "word": "咪的真皮鞋子不能沾水啊",
@@ -2027,12 +2099,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94764,
-      "num": 94764,
-      "word": "九门预约破200万",
-      "onboard_time": 1766658501,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 95104,
+      "num": 95104,
+      "word": "RW战胜Hero",
+      "onboard_time": 1766659041,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 94320,
@@ -2057,14 +2129,6 @@
       "onboard_time": 1766647282,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92030,
-      "num": 92030,
-      "word": "王玉雯白宇看得我提心吊胆的",
-      "onboard_time": 1766658501,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 91876,
@@ -2131,12 +2195,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87027,
-      "num": 87027,
-      "word": "京东采销2025年平均25薪",
-      "onboard_time": 1766658440,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 87572,
+      "num": 99394,
+      "word": "鸡排哥一夜爆火后现状",
+      "onboard_time": 1766659342,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86756,
+      "num": 88466,
+      "word": "王楚钦乒超总决赛训练",
+      "onboard_time": 1766658262,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85947,
@@ -2395,6 +2467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62426,
+      "num": 185486,
+      "word": "为什么会有体检报告焦虑",
+      "onboard_time": 1766658262,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62017,
       "num": 62017,
       "word": "NBA常规赛",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1766628620,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59179,
-      "num": 185403,
-      "word": "58岁贾国龙第一次知道什么叫老登",
-      "onboard_time": 1766657720,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58306,
@@ -2515,6 +2587,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 52999,
+      "num": 159635,
+      "word": "紫燕道歉",
+      "onboard_time": 1766658681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52791,
       "num": 122305,
       "word": "张百乔妻子整容后照片撞脸金晨",
@@ -2577,6 +2657,14 @@
       "onboard_time": 1766580262,
       "rank": 45,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 48478,
+      "num": 99944,
+      "word": "迪士尼偶遇金晨",
+      "onboard_time": 1766658981,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48153,
@@ -2644,7 +2732,7 @@
     },
     {
       "raw_hot": 44509,
-      "num": 367999,
+      "num": 427537,
       "word": "冬天的快乐是冰雪给的",
       "onboard_time": 1766654242,
       "rank": 2,
@@ -2865,14 +2953,6 @@
       "onboard_time": 1766616496,
       "rank": 44,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 27306,
-      "num": 185486,
-      "word": "为什么会有体检报告焦虑",
-      "onboard_time": 1766658262,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27304,
