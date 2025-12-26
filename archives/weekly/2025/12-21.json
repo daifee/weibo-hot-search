@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766739069725,
+  "endTime": 1766741481639,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1949187,
+      "num": 1949187,
+      "word": "和睦家医院回应女明星生产信息疑被泄露",
+      "onboard_time": 1766740581,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1875773,
       "num": 543839,
       "word": "男子4年强奸继女六七十次判24年半",
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1736409,
+      "num": 603985,
+      "word": "燕云情趣内衣外国人都看不下去了",
+      "onboard_time": 1766737641,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1723412,
       "num": 603345,
       "word": "昀牵孟绕",
@@ -201,14 +217,6 @@
       "onboard_time": 1766250438,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1590984,
-      "num": 241274,
-      "word": "燕云情趣内衣外国人都看不下去了",
-      "onboard_time": 1766737641,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 1525384,
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 887963,
+      "num": 697179,
+      "word": "TF家族新音",
+      "onboard_time": 1766737279,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 887001,
       "num": 1141920,
       "word": "少调休多放假让国人从容过春节",
@@ -920,6 +936,14 @@
       "word": "星光大赏VIP之星",
       "onboard_time": 1766334802,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 842286,
+      "num": 542601,
+      "word": "张柏芝剖腹产回家身边没有人在",
+      "onboard_time": 1766738720,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1251,14 +1275,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 697179,
-      "num": 697179,
-      "word": "TF家族新音",
-      "onboard_time": 1766737279,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 695424,
       "num": 496698,
       "word": "A股跳水",
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 687397,
-      "num": 262910,
+      "num": 276158,
       "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
       "onboard_time": 1766734520,
       "rank": 15,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1766732540,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541620,
+      "num": 212064,
+      "word": "曝陈宥维拼多多给女友买穿戴甲",
+      "onboard_time": 1766740699,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 541313,
@@ -3011,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409217,
+      "num": 276794,
+      "word": "王橹杰 请保持苹果肌扁平",
+      "onboard_time": 1766738901,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 409107,
       "num": 409107,
       "word": "抗癌药平替有效成分为0",
@@ -3152,6 +3184,14 @@
       "word": "星光大赏爆灯",
       "onboard_time": 1766296824,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395115,
+      "num": 276601,
+      "word": "2026央视跨年晚会官宣",
+      "onboard_time": 1766738481,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -4619,6 +4659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277020,
+      "num": 277020,
+      "word": "超级实用的美甲出现了",
+      "onboard_time": 1766739501,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 276869,
       "num": 220181,
       "word": "饺子",
@@ -4644,11 +4692,19 @@
     },
     {
       "raw_hot": 275937,
-      "num": 168934,
+      "num": 214143,
       "word": "美人口占全球4%却供应了70%血浆",
       "onboard_time": 1766738181,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 275848,
+      "num": 275848,
+      "word": "女子被丈夫闺蜜双重背叛一夜白头",
+      "onboard_time": 1766736020,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275246,
@@ -5211,27 +5267,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233746,
-      "num": 207118,
-      "word": "女子被丈夫闺蜜双重背叛一夜白头",
-      "onboard_time": 1766736020,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232659,
       "num": 175775,
       "word": "丁禹兮给鞠婧祎整理围巾",
       "onboard_time": 1766388501,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 232584,
-      "num": 203985,
-      "word": "张柏芝剖腹产回家身边没有人在",
-      "onboard_time": 1766738720,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -6129,6 +6169,14 @@
       "onboard_time": 1766496561,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202469,
+      "num": 202469,
+      "word": "剑来2的4K在考验我的设备",
+      "onboard_time": 1766740699,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 202347,
@@ -7587,6 +7635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175814,
+      "num": 211311,
+      "word": "安徽小伙辍学卖馒头今年已赚13亿",
+      "onboard_time": 1766738121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175785,
+      "num": 175785,
+      "word": "向佐线下长这样",
+      "onboard_time": 1766740699,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175721,
       "num": 175721,
       "word": "谭松韵年底忙成啥了",
@@ -7697,14 +7761,6 @@
       "onboard_time": 1766738541,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173885,
-      "num": 173885,
-      "word": "王橹杰 请保持苹果肌扁平",
-      "onboard_time": 1766738901,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 173765,
@@ -8963,6 +9019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151661,
+      "num": 151661,
+      "word": "李煜东 大家期待一下舞台吧",
+      "onboard_time": 1766740461,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151644,
       "num": 151644,
       "word": "影石十万元悬赏黑公关",
@@ -9201,6 +9265,14 @@
       "onboard_time": 1766639782,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148994,
+      "num": 148994,
+      "word": "陈浚铭新音妆造",
+      "onboard_time": 1766740821,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 148977,
@@ -11299,6 +11371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125864,
+      "num": 125864,
+      "word": "左奇函新音妆造",
+      "onboard_time": 1766740040,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125852,
       "num": 125852,
       "word": "第一批自制羽绒服的后悔了",
@@ -11755,14 +11835,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120665,
-      "num": 209057,
-      "word": "2026央视跨年晚会官宣",
-      "onboard_time": 1766738481,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120660,
       "num": 199517,
       "word": "WB战胜破军",
@@ -12147,6 +12219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 117226,
+      "num": 117226,
+      "word": "严浩翔 爱的最高境界是心疼",
+      "onboard_time": 1766741241,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117193,
       "num": 117193,
       "word": "2025最后几天冷暖大反转",
@@ -12193,6 +12273,14 @@
       "onboard_time": 1766414362,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116358,
+      "num": 116358,
+      "word": "把手机电池容量用到了0",
+      "onboard_time": 1766741061,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 116346,
@@ -12244,7 +12332,7 @@
     },
     {
       "raw_hot": 115614,
-      "num": 219037,
+      "num": 219998,
       "word": "年度夯机荣耀WIN价格真香",
       "onboard_time": 1766738062,
       "rank": 31,
@@ -13803,11 +13891,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102340,
+      "num": 101964,
+      "word": "奶奶风穿搭被00后盘活了",
+      "onboard_time": 1766739261,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102265,
       "num": 102265,
       "word": "河南火灾携带打火机学生有责吗",
       "onboard_time": 1766582362,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102263,
+      "num": 102263,
+      "word": "男子隐瞒母亲去世冒领16万养老金",
+      "onboard_time": 1766739981,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -13939,14 +14043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101475,
-      "num": 211311,
-      "word": "安徽小伙辍学卖馒头今年已赚13亿",
-      "onboard_time": 1766738121,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101434,
       "num": 101434,
       "word": "最爆现偶第一是谁",
@@ -13992,6 +14088,14 @@
       "word": "深圳大学1比1上海龙腾",
       "onboard_time": 1766726001,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101140,
+      "num": 101140,
+      "word": "蒯曼回应孙颖莎不参加乒超总决赛",
+      "onboard_time": 1766740283,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -14873,6 +14977,14 @@
       "onboard_time": 1766333423,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92645,
+      "num": 100366,
+      "word": "安琪拉变身为冬日精灵",
+      "onboard_time": 1766739440,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92481,
@@ -16201,6 +16313,14 @@
       "onboard_time": 1766576183,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75081,
+      "num": 125868,
+      "word": "印尼天空呈血红色",
+      "onboard_time": 1766741181,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74888,
@@ -17611,6 +17731,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 53610,
+      "num": 125899,
+      "word": "双相患者一次性用药从6片增至20片",
+      "onboard_time": 1766740283,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 53536,
+      "num": 213047,
+      "word": "荣耀官宣签约三角洲职业联赛",
+      "onboard_time": 1766740219,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53527,
       "num": 353363,
       "word": "强生面临相关诉讼超6.7万起",
@@ -18001,6 +18137,14 @@
       "onboard_time": 1766442195,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48517,
+      "num": 144043,
+      "word": "周大福称牛马吊坠为线上专供",
+      "onboard_time": 1766739621,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48395,
@@ -18657,6 +18801,14 @@
       "onboard_time": 1766485161,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39193,
+      "num": 235944,
+      "word": "荣耀WIN年度电竞最夯机",
+      "onboard_time": 1766736200,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 38547,
@@ -19507,6 +19659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29868,
+      "num": 149294,
+      "word": "节气里的大美中国",
+      "onboard_time": 1766739440,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29808,
       "num": 211291,
       "word": "以你的名义捐一件冬衣",
@@ -19921,14 +20081,6 @@
       "onboard_time": 1766293822,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24495,
-      "num": 235944,
-      "word": "荣耀WIN年度电竞最夯机",
-      "onboard_time": 1766736200,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 24342,
@@ -20800,6 +20952,14 @@
       "word": "国内首部经侦题材短剧隐秘的ID开播",
       "onboard_time": 1766462481,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11464,
+      "num": 212095,
+      "word": "LV客服称新鞋可先穿袜子磨合",
+      "onboard_time": 1766741121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
