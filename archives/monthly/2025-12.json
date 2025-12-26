@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766767694277,
+  "endTime": 1766769921829,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -20908,7 +20908,7 @@
     },
     {
       "raw_hot": 266284,
-      "num": 266284,
+      "num": 450280,
       "word": "指导老师回应本科生连发40多篇SCI",
       "onboard_time": 1766762901,
       "rank": 34,
@@ -67283,6 +67283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91605,
+      "num": 109338,
+      "word": "海男爆料张凯毅",
+      "onboard_time": 1766765780,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 91592,
       "num": 91592,
       "word": "A股结构调整或将延续",
@@ -67977,14 +67985,6 @@
       "onboard_time": 1766461161,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90197,
-      "num": 109338,
-      "word": "海男爆料张凯毅",
-      "onboard_time": 1766765780,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 90188,
@@ -69865,6 +69865,14 @@
       "onboard_time": 1765550124,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 85570,
+      "num": 90076,
+      "word": "做美甲前vs做美甲后",
+      "onboard_time": 1766766678,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 85563,
@@ -76459,6 +76467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63286,
+      "num": 109208,
+      "word": "货车出事故后被哄抢货物全部追回",
+      "onboard_time": 1766766021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63262,
       "num": 140806,
       "word": "侯明昊 我自己的吻戏比较好",
@@ -76921,14 +76937,6 @@
       "onboard_time": 1766651541,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61567,
-      "num": 90076,
-      "word": "做美甲前vs做美甲后",
-      "onboard_time": 1766766678,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 61562,
@@ -83027,6 +83035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40323,
+      "num": 85197,
+      "word": "白鹿2025年终总结",
+      "onboard_time": 1766769018,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40321,
       "num": 302577,
       "word": "没人比杨幂更懂眸略",
@@ -84216,14 +84232,6 @@
       "word": "小洛熙事件追问手术室应该有监控吗",
       "onboard_time": 1766301980,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37048,
-      "num": 109208,
-      "word": "货车出事故后被哄抢货物全部追回",
-      "onboard_time": 1766766021,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
