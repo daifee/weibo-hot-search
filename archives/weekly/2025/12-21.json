@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766788100774,
+  "endTime": 1766789075115,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -14451,6 +14451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106229,
+      "num": 483941,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106221,
       "num": 186073,
       "word": "中国已准备三大招应对墨西哥小动作",
@@ -16891,14 +16899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85718,
-      "num": 388871,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85563,
       "num": 110248,
       "word": "国乒教练竞聘已有29人报名",
@@ -17376,6 +17376,14 @@
       "word": "男子服装店连扇女子数十个耳光",
       "onboard_time": 1766415741,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80060,
+      "num": 74441,
+      "word": "保时捷车主发声",
+      "onboard_time": 1766772076,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -18419,14 +18427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63599,
-      "num": 74441,
-      "word": "保时捷车主发声",
-      "onboard_time": 1766772076,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63498,
       "num": 126018,
       "word": "苹果公司被罚约9860万欧元",
@@ -19441,6 +19441,14 @@
       "onboard_time": 1766423297,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49532,
+      "num": 49532,
+      "word": "赵丽颖出演逍遥源于10年前的约定",
+      "onboard_time": 1766787493,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 49516,
@@ -20963,6 +20971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31625,
+      "num": 28721,
+      "word": "羽绒服和棉服到底哪个更值得买",
+      "onboard_time": 1766788395,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31609,
       "num": 145482,
       "word": "朋友梳理女子邮轮失联时间线",
@@ -21129,6 +21145,14 @@
       "onboard_time": 1766427554,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30227,
+      "num": 30227,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30097,
@@ -21529,14 +21553,6 @@
       "onboard_time": 1766343854,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25569,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25544,
@@ -22043,20 +22059,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20527,
-      "num": 20527,
-      "word": "赵丽颖出演逍遥源于10年前的约定",
-      "onboard_time": 1766787493,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20482,
       "num": 108036,
       "word": "孟子义星光大赏这一跤摔的不轻",
       "onboard_time": 1766486842,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20430,
+      "num": 55050,
+      "word": "骄阳似我我让你挑",
+      "onboard_time": 1766771295,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 20376,
@@ -22147,14 +22163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19578,
-      "num": 55050,
-      "word": "骄阳似我我让你挑",
-      "onboard_time": 1766771295,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19564,
       "num": 92315,
       "word": "谁敢信任达华70岁了",
@@ -22169,6 +22177,14 @@
       "onboard_time": 1766518035,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19412,
+      "num": 27151,
+      "word": "王一博的幕后花絮",
+      "onboard_time": 1766784914,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 19382,
@@ -22291,8 +22307,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17799,
-      "num": 23866,
+      "raw_hot": 17874,
+      "num": 27141,
       "word": "黄星到达澳门",
       "onboard_time": 1766781853,
       "rank": 48,
@@ -22403,20 +22419,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16273,
-      "num": 23989,
-      "word": "王一博的幕后花絮",
-      "onboard_time": 1766784914,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16271,
       "num": 110560,
       "word": "挂驴头卖马肉老板称一点驴肉不用放",
       "onboard_time": 1766394620,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16259,
+      "num": 27136,
+      "word": "从何以琛到林屿森",
+      "onboard_time": 1766788215,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 16117,
@@ -22499,6 +22515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14973,
+      "num": 27128,
+      "word": "雷军回应小米YU7冬测成绩",
+      "onboard_time": 1766784254,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14824,
       "num": 32855,
       "word": "严浩翔镜头里的粉丝",
@@ -22529,6 +22553,14 @@
       "onboard_time": 1766328147,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14628,
+      "num": 27127,
+      "word": "速接肖战新年祝福",
+      "onboard_time": 1766787914,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 14539,
@@ -22587,6 +22619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13643,
+      "num": 27116,
+      "word": "苏新皓少年漫大男主",
+      "onboard_time": 1766777834,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 13568,
       "num": 206967,
       "word": "被举报猪肉当牛肉卖打人者被刑拘",
@@ -22603,12 +22643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13208,
-      "num": 17728,
-      "word": "雷军回应小米YU7冬测成绩",
-      "onboard_time": 1766784254,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 13307,
+      "num": 27113,
+      "word": "檀健次第三张音乐专辑",
+      "onboard_time": 1766782816,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13181,
+      "num": 27246,
+      "word": "剥茧",
+      "onboard_time": 1766771715,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 13114,
@@ -22635,14 +22683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12801,
-      "num": 23569,
-      "word": "檀健次第三张音乐专辑",
-      "onboard_time": 1766782816,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 12665,
       "num": 272805,
       "word": "官方通报宿舍施工事故致1死2伤",
@@ -22651,28 +22691,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 12645,
-      "num": 23674,
-      "word": "苏新皓少年漫大男主",
-      "onboard_time": 1766777834,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 12379,
       "num": 198660,
       "word": "员工与领导互殴劝架同事被告上法庭",
       "onboard_time": 1766676502,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12230,
-      "num": 27246,
-      "word": "剥茧",
-      "onboard_time": 1766771715,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 12226,
@@ -22715,19 +22739,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11519,
-      "num": 17724,
-      "word": "速接肖战新年祝福",
-      "onboard_time": 1766787914,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11314,
       "num": 194176,
       "word": "女子醉驾找人摆平被骗7万跳楼身亡",
       "onboard_time": 1766309963,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11198,
+      "num": 27101,
+      "word": "天山胜利隧道今日通车",
+      "onboard_time": 1766786294,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
