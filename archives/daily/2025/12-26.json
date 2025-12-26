@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766746020558,
+  "endTime": 1766748378951,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 706364,
-      "num": 220475,
+      "num": 278793,
       "word": "曝陈宥维拼多多给女友买穿戴甲",
       "onboard_time": 1766740699,
       "rank": 20,
@@ -225,6 +225,14 @@
       "onboard_time": 1766711361,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 617691,
+      "num": 353298,
+      "word": "小泡芙 女大十八变",
+      "onboard_time": 1766746039,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 607379,
@@ -339,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 480361,
+      "num": 333654,
+      "word": "张继科说当年队医拿葡萄糖当封闭",
+      "onboard_time": 1766747239,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475770,
       "num": 329067,
       "word": "方圆说箍牙是最好的医美",
       "onboard_time": 1766727141,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 464146,
+      "num": 359915,
+      "word": "王橹杰新音舞台状态",
+      "onboard_time": 1766747000,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 432761,
@@ -379,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423605,
+      "num": 324444,
+      "word": "王安宇竟然有160斤",
+      "onboard_time": 1766747541,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418533,
       "num": 371435,
       "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
@@ -409,6 +441,14 @@
       "onboard_time": 1766659342,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398057,
+      "num": 398057,
+      "word": "马嘉祺夜访吸血鬼新音舞台",
+      "onboard_time": 1766747000,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 395115,
@@ -555,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289933,
+      "num": 289933,
+      "word": "新音节目单",
+      "onboard_time": 1766745320,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286115,
       "num": 286115,
       "word": "孙颖莎缺席乒超半决赛",
@@ -571,12 +619,28 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 280146,
+      "num": 280146,
+      "word": "苏新皓好韩",
+      "onboard_time": 1766745920,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 279407,
       "num": 249091,
       "word": "李施嬅想到分开就觉得很痛",
       "onboard_time": 1766723242,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278697,
+      "num": 278697,
+      "word": "沈佳润高耳位",
+      "onboard_time": 1766747481,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 277020,
@@ -619,20 +683,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274470,
-      "num": 234509,
-      "word": "新音节目单",
-      "onboard_time": 1766745320,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 270801,
       "num": 225203,
       "word": "今年上班出勤率99%",
       "onboard_time": 1766705058,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270618,
+      "num": 278901,
+      "word": "老公被判6个月闺蜜无罪原配上诉",
+      "onboard_time": 1766742801,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263678,
@@ -657,6 +721,14 @@
       "onboard_time": 1766715801,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251009,
+      "num": 251009,
+      "word": "严浩翔金发生图",
+      "onboard_time": 1766747061,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 249549,
@@ -723,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222509,
-      "num": 232524,
-      "word": "老公被判6个月闺蜜无罪原配上诉",
-      "onboard_time": 1766742801,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222422,
       "num": 222422,
       "word": "王橹杰 皮裤",
@@ -745,14 +809,6 @@
       "onboard_time": 1766717421,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220388,
-      "num": 220388,
-      "word": "苏新皓好韩",
-      "onboard_time": 1766745920,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 219183,
@@ -971,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187726,
+      "num": 187726,
+      "word": "从你看金莎到你看看人家金莎",
+      "onboard_time": 1766747601,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187688,
       "num": 187688,
       "word": "藏海传大雪名场面是肖战想要拍的",
@@ -995,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186473,
+      "num": 186473,
+      "word": "野心家跨代舞台",
+      "onboard_time": 1766747481,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185627,
       "num": 185627,
       "word": "柯淳没拿到白玉兰拿到了红玉兰",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1766743582,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183850,
+      "num": 392495,
+      "word": "游戏擦边设计是舍本逐末",
+      "onboard_time": 1766746759,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 183445,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1766740699,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175661,
+      "num": 175661,
+      "word": "刘耀文无袖造型",
+      "onboard_time": 1766747119,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 175331,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1766726241,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168857,
+      "num": 335328,
+      "word": "王者孙悟空新皮肤1月1日上线",
+      "onboard_time": 1766744901,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 168827,
@@ -1299,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154645,
+      "num": 1024743,
+      "word": "毛新宇说网友称爷爷为教员贴切",
+      "onboard_time": 1766747541,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154128,
       "num": 154128,
       "word": "黄圣依初代白月光的含金量",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1766715741,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151141,
+      "num": 151141,
+      "word": "丁程鑫红发男神",
+      "onboard_time": 1766748081,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 150556,
@@ -1403,12 +1515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146268,
-      "num": 184823,
-      "word": "王者孙悟空新皮肤1月1日上线",
-      "onboard_time": 1766744901,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 147341,
+      "num": 147341,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 145750,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1766715621,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145145,
+      "num": 145145,
+      "word": "贺峻霖银发狼尾",
+      "onboard_time": 1766748320,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 144540,
@@ -1497,6 +1617,22 @@
       "onboard_time": 1766725462,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140021,
+      "num": 140021,
+      "word": "朱志鑫张桂源双A舞台",
+      "onboard_time": 1766748320,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139948,
+      "num": 163490,
+      "word": "央视曝光韩束面膜添加违禁成分",
+      "onboard_time": 1766748020,
+      "rank": 36,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 138279,
@@ -1787,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119818,
+      "num": 275636,
+      "word": "一汽奥迪全面迎来智能化",
+      "onboard_time": 1766747000,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119224,
       "num": 119224,
       "word": "准时下班太重要了",
@@ -1995,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109779,
+      "num": 163203,
+      "word": "国外用蛋糕揭晓孕妇孩子性别时",
+      "onboard_time": 1766745979,
+      "rank": 49,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 109672,
       "num": 109672,
       "word": "爱德华兹被驱逐",
@@ -2025,6 +2177,14 @@
       "onboard_time": 1766732121,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107710,
+      "num": 160637,
+      "word": "旅行的小七仔俄罗斯篇",
+      "onboard_time": 1766747000,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 107150,
@@ -2107,12 +2267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104330,
-      "num": 104330,
-      "word": "国外用蛋糕揭晓孕妇孩子性别时",
-      "onboard_time": 1766745979,
-      "rank": 49,
-      "category": "母婴育儿"
+      "raw_hot": 104526,
+      "num": 149536,
+      "word": "suk评论区泪目了",
+      "onboard_time": 1766747840,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 103878,
@@ -2355,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88502,
+      "num": 161108,
+      "word": "一条vlog回顾2025",
+      "onboard_time": 1766748261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88042,
       "num": 88042,
       "word": "勇士战胜独行侠",
@@ -2376,6 +2544,14 @@
       "word": "温医大删除高产论文本科生科研公示",
       "onboard_time": 1766709861,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87884,
+      "num": 165758,
+      "word": "女子补办他人身份证转走600多万",
+      "onboard_time": 1766745621,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2683,6 +2859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58732,
+      "num": 186545,
+      "word": "中方决定反制美方军工相关企业及高管",
+      "onboard_time": 1766742200,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58298,
       "num": 94967,
       "word": "时代少年团纪录片",
@@ -2913,14 +3097,6 @@
       "onboard_time": 1766660001,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42051,
-      "num": 165758,
-      "word": "女子补办他人身份证转走600多万",
-      "onboard_time": 1766745621,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40827,
@@ -3192,14 +3368,6 @@
       "word": "2025大国重器持续上分",
       "onboard_time": 1766668282,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13703,
-      "num": 117013,
-      "word": "中方决定反制美方军工相关企业及高管",
-      "onboard_time": 1766742200,
-      "rank": 35,
       "category": "国内时政"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766748378951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 154645,
+        "num": 1024743,
+        "word": "毛新宇说网友称爷爷为教员贴切",
+        "onboard_time": 1766747541,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144963,
+        "num": 497865,
+        "word": "下周上四休三",
+        "onboard_time": 1766733380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20613,
+        "num": 411335,
+        "word": "今年人工智能核心产业规模超万亿元",
+        "onboard_time": 1766742622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398057,
+        "num": 398057,
+        "word": "马嘉祺夜访吸血鬼新音舞台",
+        "onboard_time": 1766747000,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183850,
+        "num": 392495,
+        "word": "游戏擦边设计是舍本逐末",
+        "onboard_time": 1766746759,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1231218,
+        "num": 387134,
+        "word": "和睦家医院回应女明星生产信息疑被泄露",
+        "onboard_time": 1766740581,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 969132,
+        "num": 382696,
+        "word": "TF家族新音",
+        "onboard_time": 1766737279,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487303,
+        "num": 377252,
+        "word": "淫秽的认定尺度",
+        "onboard_time": 1766735180,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 371183,
+        "word": "王者荣耀",
+        "onboard_time": 1766736799,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464146,
+        "num": 359915,
+        "word": "王橹杰新音舞台状态",
+        "onboard_time": 1766747000,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 617691,
+        "num": 353298,
+        "word": "小泡芙 女大十八变",
+        "onboard_time": 1766746039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508509,
+        "num": 347317,
+        "word": "女子彻夜充电致全身70%烧伤",
+        "onboard_time": 1766741599,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481335,
+        "num": 344347,
+        "word": "早餐店汤里死老鼠脚已熬得发白",
+        "onboard_time": 1766743220,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168857,
+        "num": 335328,
+        "word": "王者孙悟空新皮肤1月1日上线",
+        "onboard_time": 1766744901,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480361,
+        "num": 333654,
+        "word": "张继科说当年队医拿葡萄糖当封闭",
+        "onboard_time": 1766747239,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423605,
+        "num": 324444,
+        "word": "王安宇竟然有160斤",
+        "onboard_time": 1766747541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321017,
+        "num": 321017,
+        "word": "张柏芝剖腹产回家身边没有人在",
+        "onboard_time": 1766738720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289933,
+        "num": 289933,
+        "word": "新音节目单",
+        "onboard_time": 1766745320,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280146,
+        "num": 280146,
+        "word": "苏新皓好韩",
+        "onboard_time": 1766745920,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270618,
+        "num": 278901,
+        "word": "老公被判6个月闺蜜无罪原配上诉",
+        "onboard_time": 1766742801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1174197,
+        "num": 278845,
+        "word": "燕云情趣内衣外国人都看不下去了",
+        "onboard_time": 1766737641,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345213,
+        "num": 278793,
+        "word": "曝陈宥维拼多多给女友买穿戴甲",
+        "onboard_time": 1766740699,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278697,
+        "num": 278697,
+        "word": "沈佳润高耳位",
+        "onboard_time": 1766747481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119818,
+        "num": 275636,
+        "word": "一汽奥迪全面迎来智能化",
+        "onboard_time": 1766747000,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 274345,
+        "num": 274345,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251009,
+        "num": 251009,
+        "word": "严浩翔金发生图",
+        "onboard_time": 1766747061,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215180,
+        "num": 215180,
+        "word": "王橹杰 请保持苹果肌扁平",
+        "onboard_time": 1766738901,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187726,
+        "num": 187726,
+        "word": "从你看金莎到你看看人家金莎",
+        "onboard_time": 1766747601,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111806,
+        "num": 186632,
+        "word": "霸王茶姬回应咖啡因",
+        "onboard_time": 1766732540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58732,
+        "num": 186545,
+        "word": "中方决定反制美方军工相关企业及高管",
+        "onboard_time": 1766742200,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186473,
+        "num": 186473,
+        "word": "野心家跨代舞台",
+        "onboard_time": 1766747481,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179476,
+        "num": 179476,
+        "word": "苏新皓直拍",
+        "onboard_time": 1766744360,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177575,
+        "num": 177575,
+        "word": "时代少年团新音舞台",
+        "onboard_time": 1766743461,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175661,
+        "num": 175661,
+        "word": "刘耀文无袖造型",
+        "onboard_time": 1766747119,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166018,
+        "num": 166018,
+        "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
+        "onboard_time": 1766734520,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167681,
+        "num": 165896,
+        "word": "骄阳似我",
+        "onboard_time": 1766742622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139948,
+        "num": 163490,
+        "word": "央视曝光韩束面膜添加违禁成分",
+        "onboard_time": 1766748020,
+        "rank": 36,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 109779,
+        "num": 163203,
+        "word": "国外用蛋糕揭晓孕妇孩子性别时",
+        "onboard_time": 1766745979,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 88502,
+        "num": 161108,
+        "word": "一条vlog回顾2025",
+        "onboard_time": 1766748261,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107710,
+        "num": 160637,
+        "word": "旅行的小七仔俄罗斯篇",
+        "onboard_time": 1766747000,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159388,
+        "num": 159388,
+        "word": "赵丽颖小骨长成师尊了",
+        "onboard_time": 1766741599,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151141,
+        "num": 151141,
+        "word": "丁程鑫红发男神",
+        "onboard_time": 1766748081,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104526,
+        "num": 149536,
+        "word": "suk评论区泪目了",
+        "onboard_time": 1766747840,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87884,
+        "num": 149346,
+        "word": "女子补办他人身份证转走600多万",
+        "onboard_time": 1766745621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13636,
+        "num": 149341,
+        "word": "成都国际非遗博览园焕新季",
+        "onboard_time": 1766743400,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149340,
+        "num": 149340,
+        "word": "陈妍希直播",
+        "onboard_time": 1766745741,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147341,
+        "num": 147341,
+        "word": "刘耀文满分薄肌男",
+        "onboard_time": 1766748141,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 145145,
+        "word": "贺峻霖银发狼尾",
+        "onboard_time": 1766748320,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140021,
+        "num": 140021,
+        "word": "朱志鑫张桂源双A舞台",
+        "onboard_time": 1766748320,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139262,
+        "num": 139262,
+        "word": "怪奇物语",
+        "onboard_time": 1766745320,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#150秒感受2025一路向前#"
+    }
+  }
+}
