@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/27 00:33:45 ~ 2025/12/27 04:43:09
+本榜单时间：2025/12/27 00:33:45 ~ 2025/12/27 05:26:04
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ TF家族新音（热度：78957）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B12025%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90%E6%A6%9C%E5%B9%B4%E5%BA%A6%E6%AD%8C%E6%89%8B%23" target="weibo">
+周深2025腾讯音乐榜年度歌手（热度：27228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%BA%94%E5%B9%B4%E5%89%8D%E7%9A%84%E6%84%BF%E6%9C%9B%E5%AE%9E%E7%8E%B0%E4%BA%86%23" target="weibo">
 贺峻霖五年前的愿望实现了（热度：26424）
 </a>
@@ -453,26 +459,26 @@ TF四代新音饭拍（热度：22616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%92%E7%BB%9D14%E5%9B%BD%E8%A6%81%E6%B1%82%23" target="weibo">
+以色列拒绝14国要求（热度：22465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8E%8B%E6%9D%AF%23" target="weibo">
 天王杯（热度：21303）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%92%E7%BB%9D14%E5%9B%BD%E8%A6%81%E6%B1%82%23" target="weibo">
-以色列拒绝14国要求（热度：20040）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BE%AE%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93%E5%AD%A9%E5%AD%90%E6%88%96%E9%81%AD%E6%AE%83%23" target="weibo">
+父亲被微塑料污染孩子或遭殃（热度：20506）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E6%88%91%E8%AE%A9%E4%BD%A0%E6%8C%91%23" target="weibo">
 骄阳似我我让你挑（热度：19482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BE%AE%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93%E5%AD%A9%E5%AD%90%E6%88%96%E9%81%AD%E6%AE%83%23" target="weibo">
-父亲被微塑料污染孩子或遭殃（热度：18349）
 </a>
 </li>
 
@@ -501,8 +507,20 @@ TF四代新音饭拍（热度：22616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E5%B0%91%E5%B9%B4%E6%BC%AB%E5%A4%A7%E7%94%B7%E4%B8%BB%23" target="weibo">
+苏新皓少年漫大男主（热度：12505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A5%E8%8C%A7%23" target="weibo">
 剥茧（热度：12230）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%9F%E5%88%B0%E8%BE%BE%E6%BE%B3%E9%97%A8%23" target="weibo">
+黄星到达澳门（热度：12006）
 </a>
 </li>
 
