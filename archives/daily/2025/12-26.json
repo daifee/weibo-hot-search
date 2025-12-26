@@ -1,29 +1,29 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766738253273,
+  "endTime": 1766739069725,
   "band_list": [
     {
-      "raw_hot": 1455752,
-      "num": 364916,
-      "word": "燕云十六声被指低俗情趣内衣",
-      "onboard_time": 1766725400,
-      "rank": 10,
+      "raw_hot": 1590984,
+      "num": 241274,
+      "word": "燕云情趣内衣外国人都看不下去了",
+      "onboard_time": 1766737641,
+      "rank": 11,
       "category": "游戏"
     },
     {
-      "raw_hot": 1397499,
-      "num": 241466,
+      "raw_hot": 1525384,
+      "num": 585272,
       "word": "淫秽的认定尺度",
       "onboard_time": 1766735180,
       "rank": 10,
       "category": "议题讨论"
     },
     {
-      "raw_hot": 1170792,
-      "num": 241274,
-      "word": "燕云情趣内衣外国人都看不下去了",
-      "onboard_time": 1766737641,
-      "rank": 11,
+      "raw_hot": 1455752,
+      "num": 364916,
+      "word": "燕云十六声被指低俗情趣内衣",
+      "onboard_time": 1766725400,
+      "rank": 10,
       "category": "游戏"
     },
     {
@@ -123,12 +123,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 769555,
+      "num": 1123128,
+      "word": "下周上四休三",
+      "onboard_time": 1766733380,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 712745,
       "num": 334549,
       "word": "陈伟霆回应很大方官宣生子",
       "onboard_time": 1766706380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703269,
+      "num": 1107727,
+      "word": "逍遥",
+      "onboard_time": 1766730560,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 697179,
+      "num": 697179,
+      "word": "TF家族新音",
+      "onboard_time": 1766737279,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 695424,
@@ -155,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 682806,
-      "num": 1107727,
-      "word": "逍遥",
-      "onboard_time": 1766730560,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 635561,
       "num": 391426,
       "word": "燕云十六声 抹胸",
@@ -180,19 +196,19 @@
     },
     {
       "raw_hot": 603845,
-      "num": 448975,
+      "num": 544456,
       "word": "赵丽颖回应出演逍遥",
       "onboard_time": 1766735900,
       "rank": 3,
       "category": "剧集"
     },
     {
-      "raw_hot": 557106,
-      "num": 1089137,
-      "word": "下周上四休三",
-      "onboard_time": 1766733380,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 588777,
+      "num": 588777,
+      "word": "王者荣耀",
+      "onboard_time": 1766736799,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 553296,
@@ -281,22 +297,6 @@
       "onboard_time": 1766727141,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 447366,
-      "num": 426847,
-      "word": "TF家族新音",
-      "onboard_time": 1766737279,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 437261,
-      "num": 437261,
-      "word": "王者荣耀",
-      "onboard_time": 1766736799,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 432761,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275937,
+      "num": 168934,
+      "word": "美人口占全球4%却供应了70%血浆",
+      "onboard_time": 1766738181,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 275246,
       "num": 275246,
       "word": "孟婆汤掺水好像越来越严重了",
@@ -513,14 +521,6 @@
       "onboard_time": 1766709140,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271217,
-      "num": 168934,
-      "word": "美人口占全球4%却供应了70%血浆",
-      "onboard_time": 1766738181,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 270801,
@@ -579,6 +579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233746,
+      "num": 207118,
+      "word": "女子被丈夫闺蜜双重背叛一夜白头",
+      "onboard_time": 1766736020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232584,
+      "num": 203985,
+      "word": "张柏芝剖腹产回家身边没有人在",
+      "onboard_time": 1766738720,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232480,
       "num": 232480,
       "word": "周大福争议吊坠标注牛马专属",
@@ -601,6 +617,14 @@
       "onboard_time": 1766716582,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 226905,
+      "num": 243647,
+      "word": "沙特空袭也门",
+      "onboard_time": 1766737822,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224146,
@@ -665,14 +689,6 @@
       "onboard_time": 1766719941,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206926,
-      "num": 206926,
-      "word": "女子被丈夫闺蜜双重背叛一夜白头",
-      "onboard_time": 1766736020,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206131,
@@ -865,6 +881,22 @@
       "onboard_time": 1766723121,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174180,
+      "num": 174180,
+      "word": "燕云十六声曾表示不搞女性擦边",
+      "onboard_time": 1766738541,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 173885,
+      "num": 173885,
+      "word": "王橹杰 请保持苹果肌扁平",
+      "onboard_time": 1766738901,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 171921,
@@ -1139,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145750,
+      "num": 145750,
+      "word": "你好星期六",
+      "onboard_time": 1766738600,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145687,
       "num": 145687,
       "word": "奶茶中的咖啡因含量比咖啡更高",
@@ -1307,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130630,
+      "num": 130630,
+      "word": "唐嫣新剧复古妈咪级别",
+      "onboard_time": 1766738841,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129582,
       "num": 129582,
       "word": "燕云十六声已调整争议外观服装",
@@ -1435,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120665,
+      "num": 209057,
+      "word": "2026央视跨年晚会官宣",
+      "onboard_time": 1766738481,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120369,
       "num": 120369,
       "word": "一诺24岁了",
@@ -1516,7 +1572,7 @@
     },
     {
       "raw_hot": 115614,
-      "num": 168844,
+      "num": 219037,
       "word": "年度夯机荣耀WIN价格真香",
       "onboard_time": 1766738062,
       "rank": 31,
@@ -1611,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110716,
+      "num": 156553,
+      "word": "一家五口遇难包括7岁小孩六旬老人",
+      "onboard_time": 1766737220,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109672,
       "num": 109672,
       "word": "爱德华兹被驱逐",
@@ -1675,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104540,
+      "num": 104540,
+      "word": "约基奇56分16篮板15助攻",
+      "onboard_time": 1766735120,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103878,
       "num": 124054,
       "word": "当一个快乐的普通人",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1766732121,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101475,
+      "num": 211311,
+      "word": "安徽小伙辍学卖馒头今年已赚13亿",
+      "onboard_time": 1766738121,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101323,
@@ -1771,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97100,
+      "num": 154869,
+      "word": "五月天这事真得你们自己来看下",
+      "onboard_time": 1766737761,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95441,
       "num": 95441,
       "word": "老人用手机哄娃5岁女童变斗鸡眼",
@@ -1811,14 +1899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 90826,
-      "num": 154869,
-      "word": "五月天这事真得你们自己来看下",
-      "onboard_time": 1766737761,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 90641,
       "num": 126421,
       "word": "小米17Ultra",
@@ -1828,7 +1908,7 @@
     },
     {
       "raw_hot": 90486,
-      "num": 457632,
+      "num": 698079,
       "word": "世界最长高速公路隧道通车",
       "onboard_time": 1766720960,
       "rank": 8,
@@ -2155,14 +2235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60201,
-      "num": 243647,
-      "word": "沙特空袭也门",
-      "onboard_time": 1766737822,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59134,
       "num": 153747,
       "word": "被黄子弘凡夸夸啦",
@@ -2251,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52713,
+      "num": 233368,
+      "word": "有精神健康风险的药不止孟鲁司特钠",
+      "onboard_time": 1766737400,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 52422,
       "num": 106183,
       "word": "罗永浩曾因女友智商更高感到自卑",
@@ -2289,14 +2369,6 @@
       "onboard_time": 1766727621,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 49353,
-      "num": 156553,
-      "word": "一家五口遇难包括7岁小孩六旬老人",
-      "onboard_time": 1766737220,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47939,
@@ -2344,14 +2416,6 @@
       "word": "女子被婚介收20万相亲失败退款被拒",
       "onboard_time": 1766725400,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45145,
-      "num": 144033,
-      "word": "安徽小伙辍学卖馒头今年已赚13亿",
-      "onboard_time": 1766738121,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2467,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30396,
-      "num": 233368,
-      "word": "有精神健康风险的药不止孟鲁司特钠",
-      "onboard_time": 1766737400,
-      "rank": 18,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 29808,
       "num": 211291,
       "word": "以你的名义捐一件冬衣",
@@ -2499,7 +2555,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23994,
+      "raw_hot": 24495,
       "num": 235944,
       "word": "荣耀WIN年度电竞最夯机",
       "onboard_time": 1766736200,
@@ -2527,6 +2583,14 @@
       "num": 91836,
       "word": "男生骑车撞上马路中间电线杆致重伤",
       "onboard_time": 1766714062,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18500,
+      "num": 131225,
+      "word": "毒杀子女案判决时两人仍未离婚",
+      "onboard_time": 1766738421,
       "rank": 38,
       "category": "民生新闻"
     },
