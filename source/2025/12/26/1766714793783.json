@@ -1,0 +1,410 @@
+{
+  "runTime": 1766714793783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 526744,
+        "num": 1084279,
+        "word": "19岁男子强奸女子赔10万一审获刑",
+        "onboard_time": 1766709743,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489692,
+        "num": 489692,
+        "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+        "onboard_time": 1766712022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54417,
+        "num": 449042,
+        "word": "这种转卖行为正在侵犯公民个人信息",
+        "onboard_time": 1766708960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885014,
+        "num": 447294,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425205,
+        "num": 425205,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499685,
+        "num": 417161,
+        "word": "男子在大理苍山疑自缢身亡",
+        "onboard_time": 1766712921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282050,
+        "num": 282050,
+        "word": "网红曾因贩毒获刑还被强制戒毒",
+        "onboard_time": 1766710102,
+        "rank": 6,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 275246,
+        "num": 275246,
+        "word": "孟婆汤掺水好像越来越严重了",
+        "onboard_time": 1766708901,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271314,
+        "num": 271314,
+        "word": "孙颖莎缺席乒超半决赛",
+        "onboard_time": 1766714181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251014,
+        "num": 251014,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712745,
+        "num": 250803,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612091,
+        "num": 239936,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314068,
+        "num": 236730,
+        "word": "陶晶莹建议朱孝天回应能冷静一点",
+        "onboard_time": 1766711901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274866,
+        "num": 228226,
+        "word": "何炅全年满档",
+        "onboard_time": 1766709140,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270801,
+        "num": 225203,
+        "word": "今年上班出勤率99%",
+        "onboard_time": 1766705058,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222422,
+        "num": 222422,
+        "word": "王橹杰 皮裤",
+        "onboard_time": 1766705598,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221544,
+        "num": 221544,
+        "word": "日本前所未有的熊尸危机",
+        "onboard_time": 1766672902,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304485,
+        "num": 219800,
+        "word": "朱孝天澄清声明",
+        "onboard_time": 1766674282,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208801,
+        "num": 208801,
+        "word": "字节跳动通报120名员工被辞",
+        "onboard_time": 1766714421,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206131,
+        "num": 206131,
+        "word": "公务员网上网下别想两张面孔",
+        "onboard_time": 1766708360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514886,
+        "num": 205062,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226733,
+        "num": 195062,
+        "word": "吉林62岁女子怀孕",
+        "onboard_time": 1766704757,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175331,
+        "num": 175331,
+        "word": "江宏杰福原爱女儿儿子近照",
+        "onboard_time": 1766705177,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "1人用身体撞人致其受伤死亡",
+        "onboard_time": 1766707040,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162051,
+        "num": 162051,
+        "word": "罗永浩提前剧透科技春晚猛料",
+        "onboard_time": 1766714421,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "金莎曾说女大19天长地久",
+        "onboard_time": 1766711542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147951,
+        "num": 147951,
+        "word": "陈妍希9岁儿子正脸照",
+        "onboard_time": 1766670381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146472,
+        "num": 146472,
+        "word": "深大发博感谢孙颖莎",
+        "onboard_time": 1766714601,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125086,
+        "num": 125086,
+        "word": "上海走路违章",
+        "onboard_time": 1766712022,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103198,
+        "num": 118316,
+        "word": "医生眼里最喜欢的动作",
+        "onboard_time": 1766711482,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471719,
+        "num": 117232,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112616,
+        "num": 112616,
+        "word": "人民币汇率",
+        "onboard_time": 1766707040,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 110768,
+        "word": "罚罪2反馈",
+        "onboard_time": 1766711181,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105448,
+        "num": 105448,
+        "word": "胖东来已售出1件球星签名球衣",
+        "onboard_time": 1766710341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103731,
+        "num": 103731,
+        "word": "美国一人彩票中奖超127亿元",
+        "onboard_time": 1766674824,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97354,
+        "num": 97354,
+        "word": "宋威龙演技",
+        "onboard_time": 1766711242,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95441,
+        "num": 95441,
+        "word": "老人用手机哄娃5岁女童变斗鸡眼",
+        "onboard_time": 1766712321,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92039,
+        "num": 92039,
+        "word": "浓眉受伤",
+        "onboard_time": 1766714300,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20376,
+        "num": 91836,
+        "word": "男生骑车撞上马路中间电线杆致重伤",
+        "onboard_time": 1766714062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91753,
+        "num": 91753,
+        "word": "人民币大涨原因",
+        "onboard_time": 1766712980,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89203,
+        "num": 89203,
+        "word": "成毅谢淮安一夜白头",
+        "onboard_time": 1766713641,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88456,
+        "num": 88456,
+        "word": "2个月宝宝被奶奶碘伏擦进ICU",
+        "onboard_time": 1766672902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88042,
+        "num": 88042,
+        "word": "勇士战胜独行侠",
+        "onboard_time": 1766713341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87992,
+        "num": 87992,
+        "word": "温医大删除高产论文本科生科研公示",
+        "onboard_time": 1766709861,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83842,
+        "num": 85457,
+        "word": "陈伟霆有儿子后开始重新审视自己",
+        "onboard_time": 1766713100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85151,
+        "num": 85151,
+        "word": "白银大涨原因",
+        "onboard_time": 1766711843,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85077,
+        "num": 85077,
+        "word": "李宏毅声明",
+        "onboard_time": 1766673622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82619,
+        "num": 82619,
+        "word": "蒋毅 赵樱子",
+        "onboard_time": 1766705539,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79050,
+        "num": 79050,
+        "word": "张继科说在国家队得偷着练",
+        "onboard_time": 1766704937,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76324,
+        "num": 76324,
+        "word": "卫星互联网低轨17组卫星发射成功",
+        "onboard_time": 1766714181,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025世界见证中国担当#"
+    }
+  }
+}
