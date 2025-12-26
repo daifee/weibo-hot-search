@@ -1,0 +1,410 @@
+{
+  "runTime": 1766720875114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 482245,
+        "num": 1077159,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424263,
+        "num": 756456,
+        "word": "电影飞驰人生3定档春节",
+        "onboard_time": 1766715981,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48236,
+        "num": 657274,
+        "word": "这种转卖行为正在侵犯公民个人信息",
+        "onboard_time": 1766708960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607379,
+        "num": 607379,
+        "word": "男生艺考减重65斤统考后吃甜食痛哭",
+        "onboard_time": 1766717121,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507877,
+        "num": 507877,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 4,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 930447,
+        "num": 506385,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 5,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 533644,
+        "num": 501861,
+        "word": "A股",
+        "onboard_time": 1766719881,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 496698,
+        "num": 496698,
+        "word": "A股跳水",
+        "onboard_time": 1766720300,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485208,
+        "num": 485208,
+        "word": "赵丽颖害羞捂脸镜头",
+        "onboard_time": 1766719041,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386950,
+        "num": 386950,
+        "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+        "onboard_time": 1766712022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623943,
+        "num": 380750,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575395,
+        "num": 358402,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 541313,
+        "num": 347082,
+        "word": "高市早苗",
+        "onboard_time": 1766717480,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392498,
+        "num": 332961,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318475,
+        "num": 318475,
+        "word": "玉茗茶骨定档",
+        "onboard_time": 1766715621,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267883,
+        "num": 267883,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248228,
+        "num": 248228,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227253,
+        "num": 227253,
+        "word": "千万粉丝网红重访打工旧地爆哭",
+        "onboard_time": 1766716582,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62148,
+        "num": 227228,
+        "word": "LV回应女子穿10分钟新鞋双脚受伤",
+        "onboard_time": 1766720061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75731,
+        "num": 226199,
+        "word": "便利店调酒怎么又火了",
+        "onboard_time": 1766720061,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136490,
+        "num": 225061,
+        "word": "第一次当王一博有点紧张",
+        "onboard_time": 1766720540,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212465,
+        "num": 223685,
+        "word": "唐诡2025年最后一案来了",
+        "onboard_time": 1766719701,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465862,
+        "num": 222632,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222069,
+        "num": 222069,
+        "word": "电影四渡官宣",
+        "onboard_time": 1766717421,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216409,
+        "num": 216409,
+        "word": "王安宇参演飞驰人生3",
+        "onboard_time": 1766718861,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213086,
+        "num": 213086,
+        "word": "林依轮 林屿森我第一集就帮你了",
+        "onboard_time": 1766718921,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207024,
+        "num": 207024,
+        "word": "王楚钦开幕式宣誓",
+        "onboard_time": 1766719941,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192909,
+        "num": 192909,
+        "word": "字节跳动通报120名员工被辞",
+        "onboard_time": 1766714421,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96168,
+        "num": 191703,
+        "word": "一年制硕士成中产家庭标配",
+        "onboard_time": 1766715320,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 63051,
+        "num": 191592,
+        "word": "享界让豪华轿车市场四分天下",
+        "onboard_time": 1766718200,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191516,
+        "num": 191516,
+        "word": "红舞鞋杀青",
+        "onboard_time": 1766720781,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190424,
+        "num": 190424,
+        "word": "赵丽颖小城大事妆造",
+        "onboard_time": 1766719760,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178047,
+        "num": 178047,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177422,
+        "num": 177422,
+        "word": "飞驰人生3",
+        "onboard_time": 1766717360,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172604,
+        "num": 172604,
+        "word": "吉林62岁女子怀孕",
+        "onboard_time": 1766704757,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161564,
+        "num": 161564,
+        "word": "黄景瑜大聪明变聪明",
+        "onboard_time": 1766720360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160398,
+        "num": 160398,
+        "word": "湖人状态",
+        "onboard_time": 1766718680,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16696,
+        "num": 159392,
+        "word": "名校校友回校枪杀了学生",
+        "onboard_time": 1766720001,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "王楚钦乒超总决赛运动员代表",
+        "onboard_time": 1766719401,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158246,
+        "num": 158246,
+        "word": "白鹿理解郑恺成为郑恺",
+        "onboard_time": 1766719221,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156920,
+        "num": 156920,
+        "word": "深大发博感谢孙颖莎",
+        "onboard_time": 1766714601,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153872,
+        "num": 153872,
+        "word": "红舞鞋",
+        "onboard_time": 1766720179,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150231,
+        "num": 150231,
+        "word": "朱孝天澄清声明",
+        "onboard_time": 1766674282,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109404,
+        "num": 149665,
+        "word": "彭昱畅播完你的播你的",
+        "onboard_time": 1766719401,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149397,
+        "num": 149397,
+        "word": "卢伟冰将7999元小米新机口误成799",
+        "onboard_time": 1766715621,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129099,
+        "num": 129099,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 127774,
+        "word": "钟南山妻子入选中国篮球名人堂",
+        "onboard_time": 1766720421,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 126182,
+        "word": "韶山",
+        "onboard_time": 1766718740,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120369,
+        "num": 120369,
+        "word": "一诺24岁了",
+        "onboard_time": 1766715081,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119293,
+        "num": 119293,
+        "word": "春节档",
+        "onboard_time": 1766720720,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025世界见证中国担当#"
+    }
+  }
+}
