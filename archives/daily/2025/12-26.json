@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766760338299,
+  "endTime": 1766762991072,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -265,6 +265,14 @@
       "onboard_time": 1766746039,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677373,
+      "num": 239063,
+      "word": "同事为了请假已经不择手段了",
+      "onboard_time": 1766759842,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 642513,
@@ -579,6 +587,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 384109,
+      "num": 318991,
+      "word": "蔡徐坤去看邓紫棋演唱会了",
+      "onboard_time": 1766758882,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 366009,
       "num": 366009,
       "word": "日本前所未有的熊尸危机",
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328002,
+      "num": 315117,
+      "word": "原来肖战思考得这么细",
+      "onboard_time": 1766758281,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325098,
       "num": 325098,
       "word": "严浩翔金发生图",
@@ -651,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318991,
-      "num": 318991,
-      "word": "蔡徐坤去看邓紫棋演唱会了",
-      "onboard_time": 1766758882,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 318475,
       "num": 318475,
       "word": "玉茗茶骨定档",
@@ -673,14 +689,6 @@
       "onboard_time": 1766731880,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315117,
-      "num": 315117,
-      "word": "原来肖战思考得这么细",
-      "onboard_time": 1766758281,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 314068,
@@ -731,12 +739,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297796,
+      "num": 224331,
+      "word": "陈妍希老了还是沈佳宜",
+      "onboard_time": 1766760861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294187,
       "num": 294187,
       "word": "燕云十六声回应被指低俗",
       "onboard_time": 1766729061,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293399,
+      "num": 220461,
+      "word": "王橹杰新音舞台",
+      "onboard_time": 1766761282,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 290583,
@@ -891,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255385,
+      "num": 255385,
+      "word": "骄阳似我",
+      "onboard_time": 1766656762,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255177,
       "num": 210663,
       "word": "肖战ELLE开年刊",
@@ -1019,19 +1051,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210043,
-      "num": 210043,
-      "word": "骄阳似我",
-      "onboard_time": 1766656762,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207965,
       "num": 207965,
       "word": "李锐谈离开湖南卫视做飞行汽车原因",
       "onboard_time": 1766727262,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207866,
+      "num": 207866,
+      "word": "刘宇宁直播",
+      "onboard_time": 1766762301,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1315,14 +1347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185871,
-      "num": 151756,
-      "word": "同事为了请假已经不择手段了",
-      "onboard_time": 1766759842,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 185627,
       "num": 185627,
       "word": "柯淳没拿到白玉兰拿到了红玉兰",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1766758343,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169763,
+      "num": 169763,
+      "word": "菲律宾在我南海造假摆拍被抓包",
+      "onboard_time": 1766760502,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169231,
@@ -1939,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144300,
+      "num": 144300,
+      "word": "左奇函daddy级别",
+      "onboard_time": 1766762721,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143894,
       "num": 143894,
       "word": "时代少年团新音定妆",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1766741481,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142375,
+      "num": 142375,
+      "word": "周深跨年主理人",
+      "onboard_time": 1766762181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 142127,
@@ -2267,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125739,
+      "num": 125739,
+      "word": "宋亚轩帽子又飞了",
+      "onboard_time": 1766762181,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125651,
       "num": 125651,
       "word": "山东鲁能2比0华东理工大学",
@@ -2331,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "内娱少有的文艺美人",
+      "onboard_time": 1766760982,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123239,
       "num": 123239,
       "word": "赵小童 十个勤天一线站哥",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1766711242,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119960,
+      "num": 119960,
+      "word": "赵今麦剪刀手",
+      "onboard_time": 1766762361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119818,
@@ -2963,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99928,
+      "num": 99928,
+      "word": "张函瑞直拍",
+      "onboard_time": 1766760801,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99475,
       "num": 176580,
       "word": "现在漠河比南北极都冷了吗",
@@ -3105,6 +3185,14 @@
       "onboard_time": 1766712980,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91380,
+      "num": 91380,
+      "word": "查理苏",
+      "onboard_time": 1766762961,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 90641,
@@ -3419,6 +3507,14 @@
       "category": "海外新闻,艺人"
     },
     {
+      "raw_hot": 64569,
+      "num": 100551,
+      "word": "男子发现女儿非亲生仍独自抚养五年",
+      "onboard_time": 1766761522,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64215,
       "num": 63243,
       "word": "小金毛犯错被关在房间反省结果睡着了",
@@ -3457,6 +3553,14 @@
       "onboard_time": 1766672783,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62296,
+      "num": 120068,
+      "word": "11岁留守女童遭亲戚猥亵老人不追究",
+      "onboard_time": 1766762781,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61907,
@@ -3883,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31910,
+      "num": 921087,
+      "word": "故事里的2025",
+      "onboard_time": 1766756422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31851,
       "num": 627311,
       "word": "今年人工智能核心产业规模超万亿元",
@@ -3899,12 +4011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31330,
-      "num": 921087,
-      "word": "故事里的2025",
-      "onboard_time": 1766756422,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 31021,
+      "num": 178607,
+      "word": "金正恩近来密集视察军工企业",
+      "onboard_time": 1766761701,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30513,
@@ -3960,6 +4072,14 @@
       "word": "湖北一地三孩家庭购房奖补50平米",
       "onboard_time": 1766744421,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24727,
+      "num": 122917,
+      "word": "指导老师回应本科生连发40多篇SCI",
+      "onboard_time": 1766762901,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4024,6 +4144,14 @@
       "word": "成都国际非遗博览园焕新季",
       "onboard_time": 1766743400,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19379,
+      "num": 120876,
+      "word": "保时捷门店总经理带头搬空展厅",
+      "onboard_time": 1766762301,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
