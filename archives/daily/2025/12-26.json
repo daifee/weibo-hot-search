@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766749211098,
+  "endTime": 1766753774180,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -9,6 +9,14 @@
       "onboard_time": 1766740581,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2309247,
+      "num": 397879,
+      "word": "橹穆美杜莎",
+      "onboard_time": 1766752881,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1813966,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741920,
+      "num": 1118707,
+      "word": "美杜莎舞台",
+      "onboard_time": 1766752701,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 712745,
       "num": 334549,
       "word": "陈伟霆回应很大方官宣生子",
@@ -211,6 +227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 681828,
+      "num": 390627,
+      "word": "小泡芙 女大十八变",
+      "onboard_time": 1766746039,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 657079,
+      "num": 216325,
+      "word": "韦雪和秦奋的儿子这么大了",
+      "onboard_time": 1766751561,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 642513,
       "num": 478670,
       "word": "王橹杰 请保持苹果肌扁平",
@@ -227,12 +259,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 617691,
-      "num": 353298,
-      "word": "小泡芙 女大十八变",
-      "onboard_time": 1766746039,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 630763,
+      "num": 394926,
+      "word": "张继科说当年队医拿葡萄糖当封闭",
+      "onboard_time": 1766747239,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 607379,
@@ -339,8 +371,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494281,
+      "num": 393643,
+      "word": "严浩翔SHAKE舞台",
+      "onboard_time": 1766752761,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 493635,
-      "num": 324444,
+      "num": 389526,
       "word": "王安宇竟然有160斤",
       "onboard_time": 1766747541,
       "rank": 15,
@@ -355,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480361,
-      "num": 333654,
-      "word": "张继科说当年队医拿葡萄糖当封闭",
-      "onboard_time": 1766747239,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 477904,
+      "num": 397092,
+      "word": "恋与深空直播",
+      "onboard_time": 1766749223,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 475770,
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400032,
+      "num": 400032,
+      "word": "全国多家博物馆闭馆",
+      "onboard_time": 1766751561,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399264,
       "num": 900783,
       "word": "鸡排哥一夜爆火后现状",
@@ -467,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 388676,
+      "num": 388676,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1766751741,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388085,
       "num": 388085,
       "word": "王一博超级不喜欢被人看的感觉",
@@ -481,6 +537,14 @@
       "onboard_time": 1766672902,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 345838,
+      "num": 1033288,
+      "word": "毛新宇说网友称爷爷为教员贴切",
+      "onboard_time": 1766747541,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 342926,
@@ -513,6 +577,14 @@
       "onboard_time": 1766704757,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325098,
+      "num": 325098,
+      "word": "严浩翔金发生图",
+      "onboard_time": 1766747061,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 324992,
@@ -699,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268312,
+      "num": 268312,
+      "word": "央视曝光韩束面膜添加违禁成分",
+      "onboard_time": 1766748020,
+      "rank": 36,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 263678,
       "num": 263678,
       "word": "毛泽东同志诞辰132周年",
@@ -715,20 +795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260929,
+      "num": 260929,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255177,
       "num": 210663,
       "word": "肖战ELLE开年刊",
       "onboard_time": 1766715801,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251009,
-      "num": 251009,
-      "word": "严浩翔金发生图",
-      "onboard_time": 1766747061,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 249549,
@@ -819,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216176,
+      "num": 216176,
+      "word": "宋亚轩新音whoknows舞台",
+      "onboard_time": 1766751981,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213086,
       "num": 213086,
       "word": "林依轮 林屿森我第一集就帮你了",
@@ -841,22 +929,6 @@
       "onboard_time": 1766656762,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209362,
-      "num": 209362,
-      "word": "刘耀文满分薄肌男",
-      "onboard_time": 1766748141,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 208050,
-      "num": 1033288,
-      "word": "毛新宇说网友称爷爷为教员贴切",
-      "onboard_time": 1766747541,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207965,
@@ -1171,20 +1243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179726,
-      "num": 179726,
-      "word": "央视曝光韩束面膜添加违禁成分",
-      "onboard_time": 1766748020,
-      "rank": 36,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 177567,
       "num": 177567,
       "word": "贺峻霖银发狼尾",
       "onboard_time": 1766748320,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176461,
+      "num": 176461,
+      "word": "霍启刚郭晶晶一家逛街买奶茶",
+      "onboard_time": 1766753241,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 175814,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1766738541,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172520,
+      "num": 154483,
+      "word": "孙颖莎幼年小海胆",
+      "onboard_time": 1766753241,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 172236,
@@ -1595,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145523,
+      "num": 145523,
+      "word": "陈哲远老吃家低语",
+      "onboard_time": 1766752341,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144540,
       "num": 144540,
       "word": "随手一拍就是雪场时尚大片",
@@ -1707,6 +1795,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "张真源新音造型",
+      "onboard_time": 1766750241,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133428,
       "num": 129917,
       "word": "张柏芝 那么漂亮那么真诚",
@@ -1745,6 +1841,14 @@
       "onboard_time": 1766723541,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131938,
+      "num": 155304,
+      "word": "12人向微信好友转发淫秽视频获刑",
+      "onboard_time": 1766753421,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131842,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1766711482,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129266,
+      "num": 129266,
+      "word": "肖战特别喜欢看观众解读",
+      "onboard_time": 1766752461,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 128807,
@@ -1905,6 +2017,14 @@
       "onboard_time": 1766745440,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123239,
+      "num": 123239,
+      "word": "赵小童 十个勤天一线站哥",
+      "onboard_time": 1766752461,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122842,
@@ -2035,6 +2155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115421,
+      "num": 115421,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1766751503,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115320,
       "num": 164950,
       "word": "许光汉回应吻到翘脚",
@@ -2049,6 +2177,14 @@
       "onboard_time": 1766730739,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114868,
+      "num": 114868,
+      "word": "建议做美甲都按这个标准来",
+      "onboard_time": 1766751981,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 114423,
@@ -2091,6 +2227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113377,
+      "num": 113377,
+      "word": "TF家族新音太热闹了",
+      "onboard_time": 1766753601,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113273,
       "num": 113273,
       "word": "新音没直播",
@@ -2123,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112185,
+      "num": 112185,
+      "word": "刘宇宁新歌首唱全场大合唱",
+      "onboard_time": 1766751381,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112102,
       "num": 112102,
       "word": "女子自制减肥药成本20卖510",
@@ -2147,12 +2299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111518,
+      "num": 111518,
+      "word": "张函瑞猫咪塑",
+      "onboard_time": 1766751440,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111344,
       "num": 111344,
       "word": "国乒队员体验南京文化",
       "onboard_time": 1766744001,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111175,
+      "num": 115000,
+      "word": "自查身份证是否被他人绑定",
+      "onboard_time": 1766751201,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111011,
@@ -2201,6 +2369,14 @@
       "onboard_time": 1766719401,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108840,
+      "num": 108840,
+      "word": "燕云十六声被指污名化",
+      "onboard_time": 1766753181,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108314,
@@ -2537,6 +2713,14 @@
       "onboard_time": 1766712980,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91328,
+      "num": 391757,
+      "word": "抓紧去个税App确认这个信息",
+      "onboard_time": 1766752640,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90641,
@@ -3171,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40588,
+      "num": 216425,
+      "word": "智己五周年实现单月盈利",
+      "onboard_time": 1766750662,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40103,
       "num": 84721,
       "word": "骄阳似我OST",
@@ -3267,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31851,
+      "num": 627311,
+      "word": "今年人工智能核心产业规模超万亿元",
+      "onboard_time": 1766742622,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30513,
       "num": 213749,
       "word": "期待多放假少调休成为节假日常态",
@@ -3307,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25159,
+      "num": 130814,
+      "word": "多省份烟花爆竹由禁到限",
+      "onboard_time": 1766752821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25114,
       "num": 128310,
       "word": "湖北一地三孩家庭购房奖补50平米",
@@ -3320,14 +3528,6 @@
       "word": "养心殿第一批游客凌晨12点排队",
       "onboard_time": 1766748981,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23714,
-      "num": 627311,
-      "word": "今年人工智能核心产业规模超万亿元",
-      "onboard_time": 1766742622,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

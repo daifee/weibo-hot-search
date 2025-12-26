@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766749211098,
+  "endTime": 1766753774180,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -449,6 +449,14 @@
       "onboard_time": 1764823103,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2309247,
+      "num": 397879,
+      "word": "橹穆美杜莎",
+      "onboard_time": 1766752881,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2309103,
@@ -4587,6 +4595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 741920,
+      "num": 1118707,
+      "word": "美杜莎舞台",
+      "onboard_time": 1766752701,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 740843,
       "num": 740843,
       "word": "四级答案",
@@ -5323,6 +5339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 681828,
+      "num": 390627,
+      "word": "小泡芙 女大十八变",
+      "onboard_time": 1766746039,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680576,
       "num": 249010,
       "word": "朱孝天举报五月天所属公司",
@@ -5713,6 +5737,14 @@
       "onboard_time": 1765116684,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 657079,
+      "num": 216325,
+      "word": "韦雪和秦奋的儿子这么大了",
+      "onboard_time": 1766751561,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 657025,
@@ -6187,6 +6219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630763,
+      "num": 394926,
+      "word": "张继科说当年队医拿葡萄糖当封闭",
+      "onboard_time": 1766747239,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630389,
       "num": 1078813,
       "word": "春晚",
@@ -6481,14 +6521,6 @@
       "onboard_time": 1765008502,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617691,
-      "num": 353298,
-      "word": "小泡芙 女大十八变",
-      "onboard_time": 1766746039,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 617676,
@@ -9483,8 +9515,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494281,
+      "num": 393643,
+      "word": "严浩翔SHAKE舞台",
+      "onboard_time": 1766752761,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 493635,
-      "num": 324444,
+      "num": 389526,
       "word": "王安宇竟然有160斤",
       "onboard_time": 1766747541,
       "rank": 15,
@@ -10027,14 +10067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 480361,
-      "num": 333654,
-      "word": "张继科说当年队医拿葡萄糖当封闭",
-      "onboard_time": 1766747239,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 480183,
       "num": 480183,
       "word": "超绝羊副市长",
@@ -10121,6 +10153,14 @@
       "onboard_time": 1766065883,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 477904,
+      "num": 397092,
+      "word": "恋与深空直播",
+      "onboard_time": 1766749223,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 477601,
@@ -13115,6 +13155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400032,
+      "num": 400032,
+      "word": "全国多家博物馆闭馆",
+      "onboard_time": 1766751561,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399971,
       "num": 229246,
       "word": "李诞 娱乐圈是重灾区",
@@ -13769,6 +13817,14 @@
       "onboard_time": 1766187738,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388676,
+      "num": 388676,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1766751741,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 388581,
@@ -15731,6 +15787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345838,
+      "num": 1033288,
+      "word": "毛新宇说网友称爷爷为教员贴切",
+      "onboard_time": 1766747541,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 345688,
       "num": 345688,
       "word": "郎平置换了髋关节和颈椎",
@@ -16897,6 +16961,14 @@
       "onboard_time": 1766149640,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325098,
+      "num": 325098,
+      "word": "严浩翔金发生图",
+      "onboard_time": 1766747061,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 325092,
@@ -20507,6 +20579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268312,
+      "num": 268312,
+      "word": "央视曝光韩束面膜添加违禁成分",
+      "onboard_time": 1766748020,
+      "rank": 36,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 268293,
       "num": 191661,
       "word": "陈飞宇哥哥侧脸被认成陈飞宇",
@@ -21097,6 +21177,14 @@
       "onboard_time": 1766322144,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260929,
+      "num": 260929,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 260918,
@@ -21881,14 +21969,6 @@
       "onboard_time": 1765615340,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251009,
-      "num": 251009,
-      "word": "严浩翔金发生图",
-      "onboard_time": 1766747061,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 250909,
@@ -25035,6 +25115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216176,
+      "num": 216176,
+      "word": "宋亚轩新音whoknows舞台",
+      "onboard_time": 1766751981,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216175,
       "num": 230867,
       "word": "平安夜文案",
@@ -25811,14 +25899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209362,
-      "num": 209362,
-      "word": "刘耀文满分薄肌男",
-      "onboard_time": 1766748141,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 209193,
       "num": 209193,
       "word": "对戒毒吸毒人员信息一直实行管控",
@@ -26001,14 +26081,6 @@
       "onboard_time": 1765946242,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 208050,
-      "num": 1033288,
-      "word": "毛新宇说网友称爷爷为教员贴切",
-      "onboard_time": 1766747541,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208046,
@@ -32555,14 +32627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179726,
-      "num": 179726,
-      "word": "央视曝光韩束面膜添加违禁成分",
-      "onboard_time": 1766748020,
-      "rank": 36,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 179617,
       "num": 179617,
       "word": "杨旭文说唐诡4快来了",
@@ -33176,6 +33240,14 @@
       "word": "王曼昱11比9陈熠",
       "onboard_time": 1765632085,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176461,
+      "num": 176461,
+      "word": "霍启刚郭晶晶一家逛街买奶茶",
+      "onboard_time": 1766753241,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -34033,6 +34105,14 @@
       "onboard_time": 1765781481,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172520,
+      "num": 154483,
+      "word": "孙颖莎幼年小海胆",
+      "onboard_time": 1766753241,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 172269,
@@ -41267,6 +41347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145523,
+      "num": 145523,
+      "word": "陈哲远老吃家低语",
+      "onboard_time": 1766752341,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145510,
       "num": 145510,
       "word": "敖瑞鹏借王楚然的眼药水",
@@ -45459,6 +45547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "张真源新音造型",
+      "onboard_time": 1766750241,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134154,
       "num": 191742,
       "word": "一地解聘9名无故旷工在编人员",
@@ -46537,6 +46633,14 @@
       "onboard_time": 1766148020,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131938,
+      "num": 155304,
+      "word": "12人向微信好友转发淫秽视频获刑",
+      "onboard_time": 1766753421,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131931,
@@ -47857,6 +47961,14 @@
       "onboard_time": 1765085781,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129266,
+      "num": 129266,
+      "word": "肖战特别喜欢看观众解读",
+      "onboard_time": 1766752461,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 129237,
@@ -50497,6 +50609,14 @@
       "onboard_time": 1765949361,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123239,
+      "num": 123239,
+      "word": "赵小童 十个勤天一线站哥",
+      "onboard_time": 1766752461,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 123208,
@@ -54275,6 +54395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115421,
+      "num": 115421,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1766751503,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115412,
       "num": 115412,
       "word": "难怪长辈觉得读书了就应该啥都懂",
@@ -54577,6 +54705,14 @@
       "onboard_time": 1765354882,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114868,
+      "num": 114868,
+      "word": "建议做美甲都按这个标准来",
+      "onboard_time": 1766751981,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 114797,
@@ -55411,6 +55547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113377,
+      "num": 113377,
+      "word": "TF家族新音太热闹了",
+      "onboard_time": 1766753601,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "叶祖新你莫不是真瘸了",
@@ -56075,6 +56219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112185,
+      "num": 112185,
+      "word": "刘宇宁新歌首唱全场大合唱",
+      "onboard_time": 1766751381,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112175,
       "num": 112175,
       "word": "他错了题但做对了人生",
@@ -56355,6 +56507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111518,
+      "num": 111518,
+      "word": "张函瑞猫咪塑",
+      "onboard_time": 1766751440,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111508,
       "num": 111508,
       "word": "王迅院士弟弟是两院院士王选",
@@ -56561,6 +56721,14 @@
       "onboard_time": 1766469921,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 111175,
+      "num": 115000,
+      "word": "自查身份证是否被他人绑定",
+      "onboard_time": 1766751201,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111086,
@@ -57649,6 +57817,14 @@
       "onboard_time": 1765088961,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108840,
+      "num": 108840,
+      "word": "燕云十六声被指污名化",
+      "onboard_time": 1766753181,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108834,
@@ -66705,6 +66881,14 @@
       "onboard_time": 1765073720,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91328,
+      "num": 391757,
+      "word": "抓紧去个税App确认这个信息",
+      "onboard_time": 1766752640,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91325,
@@ -82131,6 +82315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40588,
+      "num": 216425,
+      "word": "智己五周年实现单月盈利",
+      "onboard_time": 1766750662,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40566,
       "num": 59528,
       "word": "艾热回应新歌争议",
@@ -85331,6 +85523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31851,
+      "num": 627311,
+      "word": "今年人工智能核心产业规模超万亿元",
+      "onboard_time": 1766742622,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31824,
       "num": 46773,
       "word": "打扮历史附会现实的流量生意当止",
@@ -87699,6 +87899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25159,
+      "num": 130814,
+      "word": "多省份烟花爆竹由禁到限",
+      "onboard_time": 1766752821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25149,
       "num": 234630,
       "word": "在建大桥垮塌致2死3伤整改通报",
@@ -88209,14 +88417,6 @@
       "onboard_time": 1766570600,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 23714,
-      "num": 627311,
-      "word": "今年人工智能核心产业规模超万亿元",
-      "onboard_time": 1766742622,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23707,
