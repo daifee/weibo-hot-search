@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766732194241,
+  "endTime": 1766734161084,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -9379,6 +9379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492133,
+      "num": 492133,
+      "word": "霸王茶姬回应咖啡因",
+      "onboard_time": 1766732540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492091,
       "num": 492091,
       "word": "美联储宣布降息25个基点",
@@ -11547,6 +11555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432761,
+      "num": 620541,
+      "word": "香港大埔火灾受灾居民有新家了",
+      "onboard_time": 1766728880,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432593,
       "num": 331223,
       "word": "四级翻译民营经济",
@@ -11825,6 +11841,14 @@
       "onboard_time": 1766638341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426675,
+      "num": 277347,
+      "word": "跑票",
+      "onboard_time": 1766733620,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 426652,
@@ -15899,6 +15923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339530,
+      "num": 339530,
+      "word": "王一博超级不喜欢被人看的感觉",
+      "onboard_time": 1766731759,
+      "rank": 35,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 339101,
       "num": 284157,
       "word": "江西落水事故多名儿童遇难",
@@ -17235,6 +17267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316269,
+      "num": 243608,
+      "word": "赵丽颖反派碎梦仙君造型",
+      "onboard_time": 1766731880,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316096,
       "num": 278084,
       "word": "肖战哭了",
@@ -17265,14 +17305,6 @@
       "onboard_time": 1766112500,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315792,
-      "num": 620541,
-      "word": "香港大埔火灾受灾居民有新家了",
-      "onboard_time": 1766728880,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315767,
@@ -18297,6 +18329,14 @@
       "onboard_time": 1766567902,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298053,
+      "num": 448998,
+      "word": "燕云十六声",
+      "onboard_time": 1765236499,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 298033,
@@ -22675,6 +22715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237521,
+      "num": 237521,
+      "word": "老人看孙女写作业睡着狂扇巴掌",
+      "onboard_time": 1766727980,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237495,
       "num": 237495,
       "word": "R1SE浙江跨晚 结没结婚都来了",
@@ -23857,14 +23905,6 @@
       "onboard_time": 1765171281,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224871,
-      "num": 224871,
-      "word": "老人看孙女写作业睡着狂扇巴掌",
-      "onboard_time": 1766727980,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224868,
@@ -27275,6 +27315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201448,
+      "num": 176882,
+      "word": "娜扎新剧三巴掌教耀祖做事",
+      "onboard_time": 1766733201,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201432,
       "num": 181115,
       "word": "周鸿祎回应被举报财务造假",
@@ -27969,14 +28017,6 @@
       "onboard_time": 1765517721,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198181,
-      "num": 448998,
-      "word": "燕云十六声",
-      "onboard_time": 1765236499,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 198096,
@@ -31251,14 +31291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183757,
-      "num": 183757,
-      "word": "赵丽颖反派碎梦仙君造型",
-      "onboard_time": 1766731880,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183732,
       "num": 183732,
       "word": "妻儿三人被发小杀害案今日开庭",
@@ -33787,6 +33819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171348,
+      "num": 171348,
+      "word": "钟意居然才21岁",
+      "onboard_time": 1766732720,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171317,
       "num": 171317,
       "word": "朱志鑫张桂源新音跨代双人舞台",
@@ -33937,6 +33977,14 @@
       "onboard_time": 1765001601,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170633,
+      "num": 170633,
+      "word": "荣耀发布会",
+      "onboard_time": 1766732781,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 170632,
@@ -35729,6 +35777,14 @@
       "onboard_time": 1764933082,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162286,
+      "num": 162286,
+      "word": "下周上四休三",
+      "onboard_time": 1766733380,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162226,
@@ -40035,14 +40091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147573,
-      "num": 147573,
-      "word": "王一博超级不喜欢被人看的感觉",
-      "onboard_time": 1766731759,
-      "rank": 35,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 147545,
       "num": 256458,
       "word": "CP32Pre",
@@ -41177,6 +41225,14 @@
       "onboard_time": 1765178359,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143894,
+      "num": 143894,
+      "word": "时代少年团新音定妆",
+      "onboard_time": 1766732421,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 143849,
@@ -44144,6 +44200,14 @@
       "word": "王楚钦采访逗乐孙颖莎蒯曼",
       "onboard_time": 1764583343,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "约基奇超豪华三双",
+      "onboard_time": 1766733440,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -51195,12 +51259,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120137,
+      "num": 120137,
+      "word": "刘嘉玲 门当户不对会产生很多悲剧",
+      "onboard_time": 1766733919,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120125,
       "num": 120125,
       "word": "男女涉卖淫嫖娼被罚",
       "onboard_time": 1765095320,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 120121,
+      "num": 196073,
+      "word": "首档全员50岁的恋综来了",
+      "onboard_time": 1766731880,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 120086,
@@ -52289,6 +52369,14 @@
       "onboard_time": 1766283859,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117950,
+      "num": 117950,
+      "word": "爱德华兹绝平三分",
+      "onboard_time": 1766732901,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 117946,
@@ -55859,6 +55947,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 110887,
+      "num": 110887,
+      "word": "骄阳似我 曦光怒动画",
+      "onboard_time": 1766733919,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110861,
       "num": 110861,
       "word": "王楚钦直言1比3时都想拎包回去了",
@@ -56288,6 +56384,14 @@
       "word": "福原爱新丈夫是出轨风波男主",
       "onboard_time": 1766385440,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109672,
+      "num": 109672,
+      "word": "爱德华兹被驱逐",
+      "onboard_time": 1766733800,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -57819,6 +57923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106721,
+      "num": 106721,
+      "word": "电竞百灵鸟年末汇报演出",
+      "onboard_time": 1766732839,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106695,
       "num": 106695,
       "word": "第一次看到这么小的海豚宝宝",
@@ -58112,6 +58224,14 @@
       "word": "欧冠联赛",
       "onboard_time": 1765320076,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106061,
+      "num": 106061,
+      "word": "王楚钦一身正气",
+      "onboard_time": 1766733981,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -75323,6 +75443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60586,
+      "num": 118218,
+      "word": "你是黄景瑜那他是谁",
+      "onboard_time": 1766733560,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60552,
       "num": 113676,
       "word": "外国人拿走留学生行李拒不归还",
@@ -75683,6 +75811,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59134,
+      "num": 153747,
+      "word": "被黄子弘凡夸夸啦",
+      "onboard_time": 1766732720,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59115,
       "num": 44140,
       "word": "这下知道皇帝为啥喜欢奸臣了",
@@ -75993,6 +76129,14 @@
       "onboard_time": 1765797321,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57825,
+      "num": 117998,
+      "word": "沈梦辰一生要出片的中国女人",
+      "onboard_time": 1766733740,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 57818,
@@ -77537,6 +77681,14 @@
       "onboard_time": 1766311882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52422,
+      "num": 106183,
+      "word": "罗永浩曾因女友智商更高感到自卑",
+      "onboard_time": 1766732540,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 52370,
@@ -83307,6 +83459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33738,
+      "num": 681681,
+      "word": "2025微盘点",
+      "onboard_time": 1766721680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33737,
       "num": 197971,
       "word": "鸿蒙智行享界12月交付目标过万",
@@ -83441,14 +83601,6 @@
       "onboard_time": 1765787541,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33364,
-      "num": 196073,
-      "word": "首档全员50岁的恋综来了",
-      "onboard_time": 1766731880,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 33357,
@@ -85849,14 +86001,6 @@
       "onboard_time": 1765227433,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 26914,
-      "num": 681681,
-      "word": "2025微盘点",
-      "onboard_time": 1766721680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26900,

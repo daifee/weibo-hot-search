@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766732194241,
+  "endTime": 1766734161084,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -2203,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492133,
+      "num": 492133,
+      "word": "霸王茶姬回应咖啡因",
+      "onboard_time": 1766732540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491856,
       "num": 410582,
       "word": "迅猛龙一年点了459次奶茶",
@@ -2659,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432761,
+      "num": 620541,
+      "word": "香港大埔火灾受灾居民有新家了",
+      "onboard_time": 1766728880,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432572,
       "num": 313490,
       "word": "第一次吃生腌虾悄悄用热水烫熟了",
@@ -2737,6 +2753,14 @@
       "onboard_time": 1766638341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426675,
+      "num": 277347,
+      "word": "跑票",
+      "onboard_time": 1766733620,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 426337,
@@ -3651,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339530,
+      "num": 339530,
+      "word": "王一博超级不喜欢被人看的感觉",
+      "onboard_time": 1766731759,
+      "rank": 35,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 339101,
       "num": 284157,
       "word": "江西落水事故多名儿童遇难",
@@ -3907,20 +3939,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316269,
+      "num": 243608,
+      "word": "赵丽颖反派碎梦仙君造型",
+      "onboard_time": 1766731880,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316093,
       "num": 241127,
       "word": "周末双休工资到手5000",
       "onboard_time": 1766465542,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315792,
-      "num": 620541,
-      "word": "香港大埔火灾受灾居民有新家了",
-      "onboard_time": 1766728880,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315228,
@@ -4153,6 +4185,14 @@
       "onboard_time": 1766567902,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298053,
+      "num": 298053,
+      "word": "燕云十六声",
+      "onboard_time": 1766555482,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 296857,
@@ -5051,6 +5091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 237521,
+      "num": 237521,
+      "word": "老人看孙女写作业睡着狂扇巴掌",
+      "onboard_time": 1766727980,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237159,
       "num": 237159,
       "word": "山东一服装店允许骑车进入成打卡点",
@@ -5280,14 +5328,6 @@
       "word": "私聊不是淫秽信息的避风港",
       "onboard_time": 1766504005,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224871,
-      "num": 224871,
-      "word": "老人看孙女写作业睡着狂扇巴掌",
-      "onboard_time": 1766727980,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6035,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201448,
+      "num": 176882,
+      "word": "娜扎新剧三巴掌教耀祖做事",
+      "onboard_time": 1766733201,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201384,
       "num": 201384,
       "word": "单依纯纯妹妹MV",
@@ -6161,14 +6209,6 @@
       "onboard_time": 1766331144,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198181,
-      "num": 202512,
-      "word": "燕云十六声",
-      "onboard_time": 1766555482,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 198096,
@@ -6979,14 +7019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183757,
-      "num": 183757,
-      "word": "赵丽颖反派碎梦仙君造型",
-      "onboard_time": 1766731880,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183732,
       "num": 183732,
       "word": "妻儿三人被发小杀害案今日开庭",
@@ -7643,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171348,
+      "num": 171348,
+      "word": "钟意居然才21岁",
+      "onboard_time": 1766732720,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171266,
       "num": 171266,
       "word": "小米17Ultra徕卡版售罄",
@@ -7665,6 +7705,14 @@
       "onboard_time": 1766731519,
       "rank": 30,
       "category": "电竞,数码"
+    },
+    {
+      "raw_hot": 170633,
+      "num": 170633,
+      "word": "荣耀发布会",
+      "onboard_time": 1766732781,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 170632,
@@ -8049,6 +8097,14 @@
       "onboard_time": 1766325804,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162286,
+      "num": 162286,
+      "word": "下周上四休三",
+      "onboard_time": 1766733380,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162214,
@@ -9059,14 +9115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147573,
-      "num": 147573,
-      "word": "王一博超级不喜欢被人看的感觉",
-      "onboard_time": 1766731759,
-      "rank": 35,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 147545,
       "num": 256458,
       "word": "CP32Pre",
@@ -9336,6 +9384,14 @@
       "word": "刘若英演唱会100场",
       "onboard_time": 1766471902,
       "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 143894,
+      "num": 143894,
+      "word": "时代少年团新音定妆",
+      "onboard_time": 1766732421,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -10009,6 +10065,14 @@
       "onboard_time": 1766287040,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "约基奇超豪华三双",
+      "onboard_time": 1766733440,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 135806,
@@ -11507,6 +11571,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120137,
+      "num": 120137,
+      "word": "刘嘉玲 门当户不对会产生很多悲剧",
+      "onboard_time": 1766733919,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120121,
+      "num": 196073,
+      "word": "首档全员50岁的恋综来了",
+      "onboard_time": 1766731880,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120071,
       "num": 120071,
       "word": "宋威龙演技",
@@ -11737,6 +11817,14 @@
       "onboard_time": 1766283859,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117950,
+      "num": 117950,
+      "word": "爱德华兹绝平三分",
+      "onboard_time": 1766732901,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 117896,
@@ -12347,6 +12435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110887,
+      "num": 110887,
+      "word": "骄阳似我 曦光怒动画",
+      "onboard_time": 1766733919,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110734,
       "num": 110734,
       "word": "刘轩丞直播",
@@ -12472,6 +12568,14 @@
       "word": "福原爱新丈夫是出轨风波男主",
       "onboard_time": 1766385440,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109672,
+      "num": 109672,
+      "word": "爱德华兹被驱逐",
+      "onboard_time": 1766733800,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -12835,6 +12939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106721,
+      "num": 106721,
+      "word": "电竞百灵鸟年末汇报演出",
+      "onboard_time": 1766732839,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106603,
       "num": 106603,
       "word": "余承恩给人又想谈又想养的感觉",
@@ -12881,6 +12993,14 @@
       "onboard_time": 1766465182,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106061,
+      "num": 106061,
+      "word": "王楚钦一身正气",
+      "onboard_time": 1766733981,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106056,
@@ -16803,6 +16923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 60586,
+      "num": 118218,
+      "word": "你是黄景瑜那他是谁",
+      "onboard_time": 1766733560,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60552,
       "num": 113676,
       "word": "外国人拿走留学生行李拒不归还",
@@ -16859,6 +16987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59134,
+      "num": 153747,
+      "word": "被黄子弘凡夸夸啦",
+      "onboard_time": 1766732720,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59061,
       "num": 192115,
       "word": "印度这事儿做得太不地道",
@@ -16913,6 +17049,14 @@
       "onboard_time": 1766560881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57825,
+      "num": 117998,
+      "word": "沈梦辰一生要出片的中国女人",
+      "onboard_time": 1766733740,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 57538,
@@ -17297,6 +17441,14 @@
       "onboard_time": 1766311882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52422,
+      "num": 106183,
+      "word": "罗永浩曾因女友智商更高感到自卑",
+      "onboard_time": 1766732540,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 51925,
@@ -18683,6 +18835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33738,
+      "num": 681681,
+      "word": "2025微盘点",
+      "onboard_time": 1766721680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33654,
       "num": 421407,
       "word": "150秒感受2025一路向前",
@@ -18697,14 +18857,6 @@
       "onboard_time": 1766273956,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33364,
-      "num": 196073,
-      "word": "首档全员50岁的恋综来了",
-      "onboard_time": 1766731880,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 33267,
@@ -19304,14 +19456,6 @@
       "word": "自来水变蓝小区有业主检出肺结节",
       "onboard_time": 1766412144,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26914,
-      "num": 681681,
-      "word": "2025微盘点",
-      "onboard_time": 1766721680,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
