@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766753774180,
+  "endTime": 1766754605719,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2309247,
-      "num": 397879,
+      "num": 461503,
       "word": "橹穆美杜莎",
       "onboard_time": 1766752881,
       "rank": 3,
@@ -473,6 +473,14 @@
       "onboard_time": 1766400981,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1121593,
+      "num": 1179455,
+      "word": "美杜莎舞台",
+      "onboard_time": 1766752701,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1107385,
@@ -939,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 848208,
+      "num": 848208,
+      "word": "全国多家博物馆闭馆",
+      "onboard_time": 1766751561,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 846663,
       "num": 846663,
       "word": "星光大赏VIP之星",
@@ -1131,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771407,
+      "num": 216325,
+      "word": "韦雪和秦奋的儿子这么大了",
+      "onboard_time": 1766751561,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 769938,
       "num": 1114374,
       "word": "逐玉",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1766301741,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 741920,
-      "num": 1118707,
-      "word": "美杜莎舞台",
-      "onboard_time": 1766752701,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 740515,
@@ -1440,14 +1456,6 @@
       "word": "山城小栗旬官宣恋情",
       "onboard_time": 1766378302,
       "rank": 21,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 657079,
-      "num": 216325,
-      "word": "韦雪和秦奋的儿子这么大了",
-      "onboard_time": 1766751561,
-      "rank": 20,
       "category": "网红"
     },
     {
@@ -2516,7 +2524,7 @@
     },
     {
       "raw_hot": 477904,
-      "num": 397092,
+      "num": 399267,
       "word": "恋与深空直播",
       "onboard_time": 1766749223,
       "rank": 4,
@@ -3225,14 +3233,6 @@
       "onboard_time": 1766584702,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400032,
-      "num": 400032,
-      "word": "全国多家博物馆闭馆",
-      "onboard_time": 1766751561,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399837,
@@ -5819,6 +5819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217926,
+      "num": 391757,
+      "word": "抓紧去个税App确认这个信息",
+      "onboard_time": 1766752640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217830,
       "num": 217830,
       "word": "骄阳似我热度",
@@ -6616,6 +6624,14 @@
       "word": "深圳大学2比2上海龙腾",
       "onboard_time": 1766730739,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198058,
+      "num": 198058,
+      "word": "霍启刚郭晶晶一家逛街买奶茶",
+      "onboard_time": 1766753241,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -7913,14 +7929,6 @@
       "onboard_time": 1766544441,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176461,
-      "num": 176461,
-      "word": "霍启刚郭晶晶一家逛街买奶茶",
-      "onboard_time": 1766753241,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 176371,
@@ -9995,6 +10003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144787,
+      "num": 157556,
+      "word": "12人向微信好友转发淫秽视频获刑",
+      "onboard_time": 1766753421,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144642,
       "num": 144642,
       "word": "本科生一年发40多篇论文是否有猫腻",
@@ -10939,6 +10955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134016,
+      "num": 134016,
+      "word": "其实我根本不喜欢玩燕云十六声",
+      "onboard_time": 1766753781,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133942,
       "num": 133942,
       "word": "怪不得明明很困但就是睡不着",
@@ -11089,14 +11113,6 @@
       "onboard_time": 1766631258,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131938,
-      "num": 155304,
-      "word": "12人向微信好友转发淫秽视频获刑",
-      "onboard_time": 1766753421,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131931,
@@ -12659,6 +12675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117710,
+      "num": 117710,
+      "word": "TF家族新音太热闹了",
+      "onboard_time": 1766753601,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117553,
       "num": 117553,
       "word": "骄阳似我 曦光怒动画",
@@ -12729,6 +12753,14 @@
       "onboard_time": 1766291058,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116946,
+      "num": 116946,
+      "word": "燕云玩家希望谭晶慎重考虑合作",
+      "onboard_time": 1766754441,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 116940,
@@ -13075,14 +13107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113377,
-      "num": 113377,
-      "word": "TF家族新音太热闹了",
-      "onboard_time": 1766753601,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113273,
       "num": 113273,
       "word": "新音没直播",
@@ -13401,6 +13425,14 @@
       "onboard_time": 1766642903,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110446,
+      "num": 110446,
+      "word": "智恩涵直拍",
+      "onboard_time": 1766754142,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 110346,
@@ -13817,6 +13849,14 @@
       "onboard_time": 1766297362,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107477,
+      "num": 107477,
+      "word": "第一次这么不想打扑克",
+      "onboard_time": 1766754441,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107423,
@@ -15793,14 +15833,6 @@
       "onboard_time": 1766539102,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91328,
-      "num": 391757,
-      "word": "抓紧去个税App确认这个信息",
-      "onboard_time": 1766752640,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91205,
@@ -18155,6 +18187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59337,
+      "num": 217791,
+      "word": "韩国想挖稀土抗衡中国",
+      "onboard_time": 1766753902,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59134,
       "num": 153747,
       "word": "被黄子弘凡夸夸啦",
@@ -19460,7 +19500,7 @@
     },
     {
       "raw_hot": 40588,
-      "num": 216425,
+      "num": 220326,
       "word": "智己五周年实现单月盈利",
       "onboard_time": 1766750662,
       "rank": 19,
@@ -20017,6 +20057,14 @@
       "onboard_time": 1766397981,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34271,
+      "num": 130806,
+      "word": "官方通报食堂承包方举报校领导",
+      "onboard_time": 1766754262,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 34165,
@@ -21057,6 +21105,14 @@
       "onboard_time": 1766514617,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22082,
+      "num": 214659,
+      "word": "女子为取证告重婚罪蹲守第三者家门外",
+      "onboard_time": 1766754082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21981,
