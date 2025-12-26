@@ -1,0 +1,410 @@
+{
+  "runTime": 1766727962547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 615450,
+        "num": 1098472,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408236,
+        "num": 408236,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24063,
+        "num": 407431,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479488,
+        "num": 385181,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 3,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 418533,
+        "num": 371435,
+        "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
+        "onboard_time": 1766726001,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667534,
+        "num": 359999,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345586,
+        "num": 345586,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318191,
+        "num": 318191,
+        "word": "王俊凯刘耀文都在厕所被时代峰峻发现",
+        "onboard_time": 1766724862,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287607,
+        "num": 287607,
+        "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+        "onboard_time": 1766726662,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273093,
+        "num": 273093,
+        "word": "鸡排哥变了吗",
+        "onboard_time": 1766721201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1455752,
+        "num": 267535,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 937629,
+        "num": 258269,
+        "word": "女明星发微博求职",
+        "onboard_time": 1766723782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323590,
+        "num": 254969,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306811,
+        "num": 244337,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293848,
+        "num": 236178,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 14,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 31294,
+        "num": 224837,
+        "word": "王星越跨晚穿搭骐骥红",
+        "onboard_time": 1766727081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222805,
+        "num": 222805,
+        "word": "王安宇参演飞驰人生3",
+        "onboard_time": 1766718861,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213494,
+        "num": 213494,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290583,
+        "num": 212444,
+        "word": "肖战ELLE销量",
+        "onboard_time": 1766725462,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26946,
+        "num": 211291,
+        "word": "以你的名义捐一件冬衣",
+        "onboard_time": 1766727621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553296,
+        "num": 210909,
+        "word": "小英胖了10斤",
+        "onboard_time": 1766725222,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297231,
+        "num": 209542,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208584,
+        "num": 208584,
+        "word": "A股跳水",
+        "onboard_time": 1766720300,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198882,
+        "num": 198882,
+        "word": "李施嬅想到分开就觉得很痛",
+        "onboard_time": 1766723242,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197065,
+        "num": 197065,
+        "word": "红舞鞋单独官宣王子奇",
+        "onboard_time": 1766727081,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191239,
+        "num": 191239,
+        "word": "LV回应女子穿10分钟新鞋双脚受伤",
+        "onboard_time": 1766720061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186895,
+        "num": 186895,
+        "word": "石凯答题",
+        "onboard_time": 1766726721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185627,
+        "num": 185627,
+        "word": "柯淳没拿到白玉兰拿到了红玉兰",
+        "onboard_time": 1766726781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164306,
+        "num": 164306,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 156590,
+        "word": "谭维维40种乐器重新演绎向山野",
+        "onboard_time": 1766725522,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182514,
+        "num": 156554,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154251,
+        "num": 154251,
+        "word": "玉茗茶骨定档",
+        "onboard_time": 1766715621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153716,
+        "num": 153716,
+        "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+        "onboard_time": 1766712022,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141465,
+        "num": 141465,
+        "word": "年度报告",
+        "onboard_time": 1766726841,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132530,
+        "num": 132530,
+        "word": "Bin表情包火出国",
+        "onboard_time": 1766727200,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8940,
+        "num": 126014,
+        "word": "长期口臭腹痛警惕幽门螺杆菌",
+        "onboard_time": 1766727621,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124255,
+        "num": 124255,
+        "word": "上海龙腾2比1深圳大学",
+        "onboard_time": 1766727440,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114305,
+        "num": 124193,
+        "word": "白鹿沈羽洁一个敢教一个敢学",
+        "onboard_time": 1766727740,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140903,
+        "num": 124134,
+        "word": "柯淳说一路繁花最舍不得刘嘉玲",
+        "onboard_time": 1766727740,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103878,
+        "num": 124054,
+        "word": "当一个快乐的普通人",
+        "onboard_time": 1766727801,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 36523,
+        "num": 123926,
+        "word": "周大福马年新吊坠正面牛马背面jia",
+        "onboard_time": 1766727861,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 123792,
+        "word": "方圆说箍牙是最好的医美",
+        "onboard_time": 1766727141,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138268,
+        "num": 123737,
+        "word": "李锐谈离开湖南卫视做飞行汽车原因",
+        "onboard_time": 1766727262,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123684,
+        "num": 123684,
+        "word": "刘炜珊3比2蒯曼",
+        "onboard_time": 1766726241,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58132,
+        "num": 122521,
+        "word": "张真源 心地善良眼力不详",
+        "onboard_time": 1766726539,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42449,
+        "num": 121958,
+        "word": "八旬老人为躲儿子家暴两换养老院",
+        "onboard_time": 1766726539,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129833,
+        "num": 121941,
+        "word": "飞驰人生3",
+        "onboard_time": 1766717360,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121791,
+        "num": 121791,
+        "word": "赵丽颖害羞捂脸镜头",
+        "onboard_time": 1766719041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109577,
+        "num": 109577,
+        "word": "孙颖莎回应不参加乒超总决赛",
+        "onboard_time": 1766722942,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107210,
+        "num": 107210,
+        "word": "是你生的吗你就逗",
+        "onboard_time": 1766725462,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}

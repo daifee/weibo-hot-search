@@ -1,10 +1,10 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766727050750,
+  "endTime": 1766727962547,
   "band_list": [
     {
-      "raw_hot": 1296158,
-      "num": 210343,
+      "raw_hot": 1455752,
+      "num": 267535,
       "word": "燕云十六声被指低俗情趣内衣",
       "onboard_time": 1766725400,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 937629,
+      "num": 258269,
+      "word": "女明星发微博求职",
+      "onboard_time": 1766723782,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 887001,
       "num": 1141920,
       "word": "少调休多放假让国人从容过春节",
@@ -72,14 +80,6 @@
       "word": "朱孝天澄清声明",
       "onboard_time": 1766674282,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 811337,
-      "num": 243565,
-      "word": "女明星发微博求职",
-      "onboard_time": 1766723782,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1766717121,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553296,
+      "num": 210909,
+      "word": "小英胖了10斤",
+      "onboard_time": 1766725222,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 541313,
@@ -203,11 +211,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418533,
+      "num": 371435,
+      "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
+      "onboard_time": 1766726001,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416928,
       "num": 416928,
       "word": "鸡排哥变了吗",
       "onboard_time": 1766721201,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408236,
+      "num": 408236,
+      "word": "周大福牛马吊坠被指阴阳打工人",
+      "onboard_time": 1766725522,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341997,
-      "num": 169181,
-      "word": "小英胖了10斤",
-      "onboard_time": 1766725222,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 328308,
       "num": 201842,
       "word": "吉林62岁女子怀孕",
@@ -307,12 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312494,
-      "num": 312494,
-      "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
-      "onboard_time": 1766726001,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 290583,
+      "num": 212444,
+      "word": "肖战ELLE销量",
+      "onboard_time": 1766725462,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287607,
+      "num": 287607,
+      "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+      "onboard_time": 1766726662,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286115,
@@ -393,22 +417,6 @@
       "onboard_time": 1766651000,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249171,
-      "num": 249171,
-      "word": "周大福牛马吊坠被指阴阳打工人",
-      "onboard_time": 1766725522,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238027,
-      "num": 168513,
-      "word": "肖战ELLE销量",
-      "onboard_time": 1766725462,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237159,
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197065,
+      "num": 197065,
+      "word": "红舞鞋单独官宣王子奇",
+      "onboard_time": 1766727081,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190424,
       "num": 190424,
       "word": "赵丽颖小城大事妆造",
@@ -553,6 +569,22 @@
       "onboard_time": 1766721680,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186895,
+      "num": 186895,
+      "word": "石凯答题",
+      "onboard_time": 1766726721,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185627,
+      "num": 185627,
+      "word": "柯淳没拿到白玉兰拿到了红玉兰",
+      "onboard_time": 1766726781,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 181880,
@@ -707,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152289,
+      "num": 123792,
+      "word": "方圆说箍牙是最好的医美",
+      "onboard_time": 1766727141,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151938,
       "num": 151938,
       "word": "春节档",
@@ -795,12 +835,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141465,
+      "num": 141465,
+      "word": "年度报告",
+      "onboard_time": 1766726841,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 140903,
+      "num": 124134,
+      "word": "柯淳说一路繁花最舍不得刘嘉玲",
+      "onboard_time": 1766727740,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140635,
       "num": 140635,
       "word": "是你生的吗你就逗",
       "onboard_time": 1766725462,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138268,
+      "num": 123737,
+      "word": "李锐谈离开湖南卫视做飞行汽车原因",
+      "onboard_time": 1766727262,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 137360,
@@ -819,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135548,
-      "num": 135548,
-      "word": "石凯答题",
-      "onboard_time": 1766726721,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135113,
       "num": 135113,
       "word": "NBA圣诞大战",
@@ -841,6 +897,14 @@
       "onboard_time": 1766724202,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 132530,
+      "num": 132530,
+      "word": "Bin表情包火出国",
+      "onboard_time": 1766727200,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 132311,
@@ -883,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127507,
-      "num": 127507,
-      "word": "年度报告",
-      "onboard_time": 1766726841,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 127240,
       "num": 121135,
       "word": "在罚罪2看到了李云龙魏和尚售后",
@@ -921,6 +977,14 @@
       "onboard_time": 1766712022,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124255,
+      "num": 124255,
+      "word": "上海龙腾2比1深圳大学",
+      "onboard_time": 1766727440,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 122957,
@@ -995,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114305,
+      "num": 124193,
+      "word": "白鹿沈羽洁一个敢教一个敢学",
+      "onboard_time": 1766727740,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114131,
       "num": 138737,
       "word": "河南一大货车出事故多人哄抢货物",
@@ -1067,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107968,
-      "num": 107968,
-      "word": "柯淳没拿到白玉兰拿到了红玉兰",
-      "onboard_time": 1766726781,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107150,
       "num": 107150,
       "word": "谈恋爱要跟有少年气的人谈",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1766710341,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103878,
+      "num": 124054,
+      "word": "当一个快乐的普通人",
+      "onboard_time": 1766727801,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 102186,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1766714181,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 74987,
-      "num": 123020,
-      "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
-      "onboard_time": 1766726662,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74368,
@@ -1627,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42449,
+      "num": 122779,
+      "word": "八旬老人为躲儿子家暴两换养老院",
+      "onboard_time": 1766726539,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42283,
       "num": 54843,
       "word": "中方就TikTok将在美成立合资公司表态",
@@ -1643,11 +1715,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36708,
-      "num": 122779,
-      "word": "八旬老人为躲儿子家暴两换养老院",
-      "onboard_time": 1766726539,
-      "rank": 38,
+      "raw_hot": 36523,
+      "num": 123926,
+      "word": "周大福马年新吊坠正面牛马背面jia",
+      "onboard_time": 1766727861,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1676,7 +1748,7 @@
     },
     {
       "raw_hot": 32551,
-      "num": 149467,
+      "num": 156590,
       "word": "谭维维40种乐器重新演绎向山野",
       "onboard_time": 1766725522,
       "rank": 28,
@@ -1689,6 +1761,22 @@
       "onboard_time": 1766692154,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31294,
+      "num": 224837,
+      "word": "王星越跨晚穿搭骐骥红",
+      "onboard_time": 1766727081,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26946,
+      "num": 211291,
+      "word": "以你的名义捐一件冬衣",
+      "onboard_time": 1766727621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26707,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1766685855,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8940,
+      "num": 126014,
+      "word": "长期口臭腹痛警惕幽门螺杆菌",
+      "onboard_time": 1766727621,
+      "rank": 35,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
