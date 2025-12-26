@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766721726009,
+  "endTime": 1766724221603,
   "band_list": [
     {
       "raw_hot": 1143556,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1063761,
+      "num": 394934,
+      "word": "长期乱买衣服 隐形贫穷",
+      "onboard_time": 1766720481,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1038615,
       "num": 384311,
       "word": "肖战杂志",
@@ -33,6 +41,14 @@
       "onboard_time": 1766714181,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 887001,
+      "num": 1141920,
+      "word": "少调休多放假让国人从容过春节",
+      "onboard_time": 1766720602,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 885014,
@@ -123,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500655,
-      "num": 375428,
-      "word": "长期乱买衣服 隐形贫穷",
-      "onboard_time": 1766720481,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 499685,
       "num": 417161,
       "word": "男子在大理苍山疑自缢身亡",
@@ -147,12 +155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468754,
+      "num": 468754,
+      "word": "LV回应女子穿10分钟新鞋双脚受伤",
+      "onboard_time": 1766720061,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425205,
       "num": 425205,
       "word": "怪奇物语",
       "onboard_time": 1766710460,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424518,
+      "num": 424518,
+      "word": "王安宇参演飞驰人生3",
+      "onboard_time": 1766718861,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 424263,
@@ -195,11 +219,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 365987,
-      "num": 365987,
-      "word": "LV回应女子穿10分钟新鞋双脚受伤",
-      "onboard_time": 1766720061,
-      "rank": 18,
+      "raw_hot": 361431,
+      "num": 361431,
+      "word": "鸡排哥变了吗",
+      "onboard_time": 1766721201,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -251,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305690,
-      "num": 305690,
-      "word": "王安宇参演飞驰人生3",
-      "onboard_time": 1766718861,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 286115,
       "num": 286115,
       "word": "孙颖莎缺席乒超半决赛",
@@ -299,28 +315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263678,
+      "num": 263678,
+      "word": "毛泽东同志诞辰132周年",
+      "onboard_time": 1766706138,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 261881,
+      "num": 201771,
+      "word": "赵默笙你怎么跟路远风跑了",
+      "onboard_time": 1766722820,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255177,
       "num": 210663,
       "word": "肖战ELLE开年刊",
       "onboard_time": 1766715801,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252130,
-      "num": 252130,
-      "word": "少调休多放假让国人从容过春节",
-      "onboard_time": 1766720602,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251014,
-      "num": 251014,
-      "word": "毛泽东同志诞辰132周年",
-      "onboard_time": 1766706138,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 249549,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197269,
+      "num": 149170,
+      "word": "周也王子奇杀青照",
+      "onboard_time": 1766723961,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190424,
       "num": 190424,
       "word": "赵丽颖小城大事妆造",
@@ -467,12 +491,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178325,
+      "num": 178325,
+      "word": "孙颖莎回应不参加乒超总决赛",
+      "onboard_time": 1766722942,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175331,
       "num": 175331,
       "word": "江宏杰福原爱女儿儿子近照",
       "onboard_time": 1766705177,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174204,
+      "num": 174204,
+      "word": "30岁是男爱豆无法跨越的坎吗",
+      "onboard_time": 1766723121,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174186,
+      "num": 210187,
+      "word": "李施嬅想到分开就觉得很痛",
+      "onboard_time": 1766723242,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171101,
+      "num": 171101,
+      "word": "陈都灵张凌赫cp感",
+      "onboard_time": 1766722159,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 168794,
@@ -563,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154128,
+      "num": 154128,
+      "word": "黄圣依初代白月光的含金量",
+      "onboard_time": 1766723360,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153872,
       "num": 153872,
       "word": "红舞鞋",
@@ -603,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147742,
+      "num": 147742,
+      "word": "人之初",
+      "onboard_time": 1766724142,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145687,
       "num": 145687,
       "word": "奶茶中的咖啡因含量比咖啡更高",
@@ -635,12 +707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137878,
-      "num": 137878,
+      "raw_hot": 141161,
+      "num": 141161,
       "word": "40万元黄金到期无人认领将上缴国库",
       "onboard_time": 1766721081,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137089,
+      "num": 124130,
+      "word": "蒋毅 赵樱子",
+      "onboard_time": 1766705539,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 135113,
@@ -649,6 +729,14 @@
       "onboard_time": 1766704577,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132311,
+      "num": 120474,
+      "word": "刘芸 油画里跑出来的公主",
+      "onboard_time": 1766723541,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 131391,
@@ -675,12 +763,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128216,
+      "num": 128216,
+      "word": "女明星发微博求职",
+      "onboard_time": 1766723782,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127774,
       "num": 127774,
       "word": "钟南山妻子入选中国篮球名人堂",
       "onboard_time": 1766720421,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127240,
+      "num": 121135,
+      "word": "在罚罪2看到了李云龙魏和尚售后",
+      "onboard_time": 1766722761,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126182,
@@ -697,14 +801,6 @@
       "onboard_time": 1766712022,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124130,
-      "num": 124130,
-      "word": "蒋毅 赵樱子",
-      "onboard_time": 1766705539,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 122957,
@@ -819,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109700,
+      "num": 109700,
+      "word": "眉毛下面关上就会很舒服",
+      "onboard_time": 1766724202,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 109404,
       "num": 149665,
       "word": "彭昱畅播完你的播你的",
       "onboard_time": 1766719401,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107150,
+      "num": 107150,
+      "word": "谈恋爱要跟有少年气的人谈",
+      "onboard_time": 1766723662,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 106744,
@@ -1011,6 +1123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81037,
+      "num": 149618,
+      "word": "火锅店多数食材都经过预加工",
+      "onboard_time": 1766722460,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80883,
       "num": 80883,
       "word": "卢伟冰发布会口误",
@@ -1048,14 +1168,6 @@
       "word": "每天穿破羽绒服超12小时确诊羽绒肺",
       "onboard_time": 1766676081,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70937,
-      "num": 152216,
-      "word": "鸡排哥变了吗",
-      "onboard_time": 1766721201,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1219,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54542,
+      "num": 123543,
+      "word": "女生偷拿同楼住户全部外卖",
+      "onboard_time": 1766724142,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54417,
       "num": 657274,
       "word": "这种转卖行为正在侵犯公民个人信息",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1766667680,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53737,
+      "num": 119864,
+      "word": "跨省排队抢购胖东来黄金",
+      "onboard_time": 1766721862,
+      "rank": 46,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 51496,
@@ -1355,6 +1483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22657,
+      "num": 485157,
+      "word": "2025微盘点",
+      "onboard_time": 1766721680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20376,
       "num": 91836,
       "word": "男生骑车撞上马路中间电线杆致重伤",
@@ -1449,14 +1585,6 @@
       "onboard_time": 1766685855,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 5832,
-      "num": 485157,
-      "word": "2025微盘点",
-      "onboard_time": 1766721680,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
