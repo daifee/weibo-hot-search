@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766781046846,
+  "endTime": 1766781789176,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -18011,6 +18011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70274,
+      "num": 70274,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70151,
       "num": 198426,
       "word": "原神超话签到",
@@ -18657,14 +18665,6 @@
       "onboard_time": 1766315543,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61404,
-      "num": 61404,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 61388,
@@ -22059,6 +22059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20040,
+      "num": 27256,
+      "word": "以色列拒绝14国要求",
+      "onboard_time": 1766778134,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20012,
       "num": 172499,
       "word": "我使馆提醒切勿盲信到尼泊尔娶妻",
@@ -22187,14 +22195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18775,
-      "num": 27256,
-      "word": "以色列拒绝14国要求",
-      "onboard_time": 1766778134,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18741,
       "num": 33730,
       "word": "京东巴黎仓库被盗",
@@ -22225,6 +22225,14 @@
       "onboard_time": 1766676261,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18349,
+      "num": 27253,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18326,
@@ -22363,6 +22371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16338,
+      "num": 25713,
+      "word": "张极帮张泽禹捡外套",
+      "onboard_time": 1766781434,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16271,
       "num": 110560,
       "word": "挂驴头卖马肉老板称一点驴肉不用放",
@@ -22377,14 +22393,6 @@
       "onboard_time": 1766758343,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16104,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15965,
@@ -22464,6 +22472,14 @@
       "word": "严浩翔镜头里的粉丝",
       "onboard_time": 1766685316,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14759,
+      "num": 25698,
+      "word": "新音好运来开场",
+      "onboard_time": 1766781494,
+      "rank": 35,
       "category": "演出"
     },
     {

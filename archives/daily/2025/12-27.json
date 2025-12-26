@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766781046846,
+  "endTime": 1766781789176,
   "band_list": [
     {
       "raw_hot": 683341,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70274,
+      "num": 70274,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68330,
       "num": 109038,
       "word": "张桂源一直在勾引",
@@ -417,14 +425,6 @@
       "onboard_time": 1766766021,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61404,
-      "num": 61404,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 60773,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20040,
+      "num": 27256,
+      "word": "以色列拒绝14国要求",
+      "onboard_time": 1766778134,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19482,
       "num": 55050,
       "word": "骄阳似我我让你挑",
@@ -603,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18775,
-      "num": 27256,
-      "word": "以色列拒绝14国要求",
-      "onboard_time": 1766778134,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 18349,
+      "num": 27253,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16571,
@@ -627,12 +635,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16104,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 16338,
+      "num": 25713,
+      "word": "张极帮张泽禹捡外套",
+      "onboard_time": 1766781434,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14759,
+      "num": 25698,
+      "word": "新音好运来开场",
+      "onboard_time": 1766781494,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 12230,
