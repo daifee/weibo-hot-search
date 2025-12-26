@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766745064574,
+  "endTime": 1766746020558,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -35,7 +35,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1235791,
+      "raw_hot": 1376524,
       "num": 697179,
       "word": "TF家族新音",
       "onboard_time": 1766737279,
@@ -147,19 +147,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 798712,
+      "num": 798712,
+      "word": "女子彻夜充电致全身70%烧伤",
+      "onboard_time": 1766741599,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769555,
       "num": 1123128,
       "word": "下周上四休三",
       "onboard_time": 1766733380,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 739816,
-      "num": 739816,
-      "word": "女子彻夜充电致全身70%烧伤",
-      "onboard_time": 1766741599,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 706364,
-      "num": 212064,
+      "num": 220475,
       "word": "曝陈宥维拼多多给女友买穿戴甲",
       "onboard_time": 1766740699,
       "rank": 20,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642513,
+      "num": 478670,
+      "word": "王橹杰 请保持苹果肌扁平",
+      "onboard_time": 1766738901,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 635561,
       "num": 391426,
       "word": "燕云十六声 抹胸",
@@ -243,14 +251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 563236,
-      "num": 478670,
-      "word": "王橹杰 请保持苹果肌扁平",
-      "onboard_time": 1766738901,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 553296,
       "num": 210909,
       "word": "小英胖了10斤",
@@ -273,6 +273,14 @@
       "onboard_time": 1766717480,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 536927,
+      "num": 399193,
+      "word": "早餐店汤里死老鼠脚已熬得发白",
+      "onboard_time": 1766743220,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533644,
@@ -400,14 +408,6 @@
       "word": "鸡排哥一夜爆火后现状",
       "onboard_time": 1766659342,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399193,
-      "num": 399193,
-      "word": "早餐店汤里死老鼠脚已熬得发白",
-      "onboard_time": 1766743220,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -619,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274470,
+      "num": 234509,
+      "word": "新音节目单",
+      "onboard_time": 1766745320,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270801,
       "num": 225203,
       "word": "今年上班出勤率99%",
@@ -715,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222509,
+      "num": 232524,
+      "word": "老公被判6个月闺蜜无罪原配上诉",
+      "onboard_time": 1766742801,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222422,
       "num": 222422,
       "word": "王橹杰 皮裤",
@@ -729,6 +745,14 @@
       "onboard_time": 1766717421,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220388,
+      "num": 220388,
+      "word": "苏新皓好韩",
+      "onboard_time": 1766745920,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 219183,
@@ -752,6 +776,14 @@
       "word": "唐诡2025年最后一案来了",
       "onboard_time": 1766719701,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210043,
+      "num": 210043,
+      "word": "骄阳似我",
+      "onboard_time": 1766656762,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -891,6 +923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192680,
+      "num": 192680,
+      "word": "左航好帅",
+      "onboard_time": 1766744960,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192528,
+      "num": 192528,
+      "word": "陈哲远突袭吃播",
+      "onboard_time": 1766745680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190424,
       "num": 190424,
       "word": "赵丽颖小城大事妆造",
@@ -931,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187559,
-      "num": 232524,
-      "word": "老公被判6个月闺蜜无罪原配上诉",
-      "onboard_time": 1766742801,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186895,
       "num": 186895,
       "word": "石凯答题",
@@ -969,6 +1009,14 @@
       "onboard_time": 1766743582,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183445,
+      "num": 183445,
+      "word": "贺峻霖偏偏你最争气",
+      "onboard_time": 1766744720,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 183185,
@@ -1083,6 +1131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170454,
+      "num": 170454,
+      "word": "TF四代新音定妆",
+      "onboard_time": 1766745680,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169231,
       "num": 169231,
       "word": "刘炜珊3比2蒯曼",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1766670622,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167084,
+      "num": 167084,
+      "word": "陈妍希直播",
+      "onboard_time": 1766745741,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 165037,
@@ -1267,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150556,
+      "num": 186461,
+      "word": "62岁女子回应失独后再次怀孕",
+      "onboard_time": 1766744782,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150494,
       "num": 150494,
       "word": "人之初",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1766733440,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146268,
+      "num": 184823,
+      "word": "王者孙悟空新皮肤1月1日上线",
+      "onboard_time": 1766744901,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 145750,
@@ -1443,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136951,
-      "num": 136951,
-      "word": "骄阳似我",
-      "onboard_time": 1766656762,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135113,
       "num": 135113,
       "word": "NBA圣诞大战",
@@ -1505,14 +1577,6 @@
       "onboard_time": 1766723541,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132038,
-      "num": 132038,
-      "word": "王者孙悟空新皮肤1月1日上线",
-      "onboard_time": 1766744901,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 131842,
@@ -1595,14 +1659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127196,
-      "num": 127196,
-      "word": "左航好帅",
-      "onboard_time": 1766744960,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126988,
       "num": 126988,
       "word": "第一次见没有感情全是案情的国产剧",
@@ -1675,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123874,
+      "num": 123874,
+      "word": "黄景瑜刑侦剧口碑这一块",
+      "onboard_time": 1766745440,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122842,
       "num": 122842,
       "word": "肖战新杂志露胸肌了",
@@ -1723,22 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119990,
-      "num": 119990,
-      "word": "62岁女子回应失独后再次怀孕",
-      "onboard_time": 1766744782,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119436,
-      "num": 119436,
-      "word": "贺峻霖偏偏你最争气",
-      "onboard_time": 1766744720,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119224,
       "num": 119224,
       "word": "准时下班太重要了",
@@ -1779,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117081,
+      "num": 117081,
+      "word": "王源跨年坐在半空中唱是吗",
+      "onboard_time": 1766745801,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116652,
       "num": 116652,
       "word": "演员王星女友说结婚需要物质准备",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1766738062,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115320,
+      "num": 164950,
+      "word": "许光汉回应吻到翘脚",
+      "onboard_time": 1766745861,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 114926,
@@ -2027,12 +2091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104751,
+      "num": 221004,
+      "word": "楼上老人挂被褥逼烧烤店转行闭店",
+      "onboard_time": 1766744839,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104540,
       "num": 104540,
       "word": "约基奇56分16篮板15助攻",
       "onboard_time": 1766735120,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104330,
+      "num": 104330,
+      "word": "国外用蛋糕揭晓孕妇孩子性别时",
+      "onboard_time": 1766745979,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 103878,
@@ -2156,7 +2236,7 @@
     },
     {
       "raw_hot": 98140,
-      "num": 145188,
+      "num": 154754,
       "word": "天禧AI从助手到队友",
       "onboard_time": 1766741720,
       "rank": 29,
@@ -2257,6 +2337,14 @@
       "onboard_time": 1766660901,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89224,
+      "num": 221839,
+      "word": "孙正义藏了44年的长女自曝身份",
+      "onboard_time": 1766744839,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89203,
@@ -2387,14 +2475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75999,
-      "num": 199873,
-      "word": "孙正义藏了44年的长女自曝身份",
-      "onboard_time": 1766744839,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 74888,
       "num": 118218,
       "word": "你是黄景瑜那他是谁",
@@ -2409,6 +2489,14 @@
       "onboard_time": 1766725341,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72562,
+      "num": 222248,
+      "word": "周大福回应牛马吊坠阴阳打工人",
+      "onboard_time": 1766745262,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72374,
@@ -2755,14 +2843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47867,
-      "num": 133078,
-      "word": "楼上老人挂被褥逼烧烤店转行闭店",
-      "onboard_time": 1766744839,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47795,
       "num": 94682,
       "word": "小米发布会",
@@ -2803,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45325,
+      "num": 164840,
+      "word": "重庆男子殴打投喂流浪猫女子",
+      "onboard_time": 1766744839,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44882,
       "num": 103988,
       "word": "鸡蛋都快配不上番茄了",
@@ -2825,6 +2913,14 @@
       "onboard_time": 1766660001,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42051,
+      "num": 165758,
+      "word": "女子补办他人身份证转走600多万",
+      "onboard_time": 1766745621,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40827,
@@ -2855,14 +2951,6 @@
       "num": 141104,
       "word": "母亲哽咽被毒杀子女还没享受过人生",
       "onboard_time": 1766731160,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37350,
-      "num": 127842,
-      "word": "重庆男子殴打投喂流浪猫女子",
-      "onboard_time": 1766744839,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -2939,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30513,
+      "num": 213749,
+      "word": "期待多放假少调休成为节假日常态",
+      "onboard_time": 1766744061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29868,
       "num": 149294,
       "word": "节气里的大美中国",
@@ -2971,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25114,
+      "num": 128310,
+      "word": "湖北一地三孩家庭购房奖补50平米",
+      "onboard_time": 1766744421,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23714,
       "num": 627311,
       "word": "今年人工智能核心产业规模超万亿元",
@@ -2995,19 +3099,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 21256,
-      "num": 213749,
-      "word": "期待多放假少调休成为节假日常态",
-      "onboard_time": 1766744061,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20376,
       "num": 91836,
       "word": "男生骑车撞上马路中间电线杆致重伤",
       "onboard_time": 1766714062,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19926,
+      "num": 166113,
+      "word": "成都国际非遗博览园焕新季",
+      "onboard_time": 1766743400,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3025,22 +3129,6 @@
       "onboard_time": 1766724321,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17564,
-      "num": 128310,
-      "word": "湖北一地三孩家庭购房奖补50平米",
-      "onboard_time": 1766744421,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16391,
-      "num": 128699,
-      "word": "成都国际非遗博览园焕新季",
-      "onboard_time": 1766743400,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16271,
