@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766784364844,
+  "endTime": 1766785213155,
   "band_list": [
     {
       "raw_hot": 683341,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 70274,
-      "num": 135473,
+      "num": 179472,
       "word": "顾漫还是牛",
       "onboard_time": 1766776394,
       "rank": 40,
@@ -435,7 +435,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50516,
+      "raw_hot": 51003,
       "num": 75929,
       "word": "韦雪和秦奋的儿子这么大了",
       "onboard_time": 1766751561,
@@ -491,8 +491,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27228,
-      "num": 27228,
+      "raw_hot": 27847,
+      "num": 27847,
       "word": "周深2025腾讯音乐榜年度歌手",
       "onboard_time": 1766784133,
       "rank": 8,
@@ -611,7 +611,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20506,
+      "raw_hot": 21261,
       "num": 27253,
       "word": "父亲被微塑料污染孩子或遭殃",
       "onboard_time": 1766780173,
@@ -651,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14895,
+      "num": 23989,
+      "word": "王一博的幕后花絮",
+      "onboard_time": 1766784914,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14759,
       "num": 25698,
       "word": "新音好运来开场",
@@ -659,8 +667,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12505,
-      "num": 20218,
+      "raw_hot": 14106,
+      "num": 23866,
+      "word": "黄星到达澳门",
+      "onboard_time": 1766781853,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12645,
+      "num": 23674,
       "word": "苏新皓少年漫大男主",
       "onboard_time": 1766777834,
       "rank": 44,
@@ -675,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12006,
-      "num": 20212,
-      "word": "黄星到达澳门",
-      "onboard_time": 1766781853,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 11885,
+      "num": 23569,
+      "word": "檀健次第三张音乐专辑",
+      "onboard_time": 1766782816,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 9620,

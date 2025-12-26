@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766784364844,
+  "endTime": 1766785213155,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -74716,7 +74716,7 @@
     },
     {
       "raw_hot": 70274,
-      "num": 135473,
+      "num": 179472,
       "word": "顾漫还是牛",
       "onboard_time": 1766776394,
       "rank": 40,
@@ -87659,6 +87659,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 27847,
+      "num": 27847,
+      "word": "周深2025腾讯音乐榜年度歌手",
+      "onboard_time": 1766784133,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27823,
       "num": 152541,
       "word": "安徽霍邱召开全县吐槽大会",
@@ -87881,14 +87889,6 @@
       "onboard_time": 1766155524,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27228,
-      "num": 27228,
-      "word": "周深2025腾讯音乐榜年度歌手",
-      "onboard_time": 1766784133,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 27209,
@@ -89939,6 +89939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21261,
+      "num": 27253,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21194,
       "num": 181846,
       "word": "中央明确明年优化药品集中采购",
@@ -90169,14 +90177,6 @@
       "onboard_time": 1766601435,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20506,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20503,
@@ -91675,6 +91675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14895,
+      "num": 23989,
+      "word": "王一博的幕后花絮",
+      "onboard_time": 1766784914,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14883,
       "num": 267816,
       "word": "光伏板一边发电一边治沙",
@@ -91856,6 +91864,14 @@
       "word": "侯明昊嘴角自动上扬",
       "onboard_time": 1766267234,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14106,
+      "num": 23866,
+      "word": "黄星到达澳门",
+      "onboard_time": 1766781853,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -92211,20 +92227,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 12645,
+      "num": 23674,
+      "word": "苏新皓少年漫大男主",
+      "onboard_time": 1766777834,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 12580,
       "num": 176200,
       "word": "悬赏5万刑案嫌疑人已投案",
       "onboard_time": 1765946422,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 12505,
-      "num": 20218,
-      "word": "苏新皓少年漫大男主",
-      "onboard_time": 1766777834,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 12487,
@@ -92331,14 +92347,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 12006,
-      "num": 20212,
-      "word": "黄星到达澳门",
-      "onboard_time": 1766781853,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11960,
       "num": 41214,
       "word": "朱志鑫纯欧巴",
@@ -92369,6 +92377,14 @@
       "onboard_time": 1764704353,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11885,
+      "num": 23569,
+      "word": "檀健次第三张音乐专辑",
+      "onboard_time": 1766782816,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 11876,

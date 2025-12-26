@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766784364844,
+  "endTime": 1766785213155,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -18012,7 +18012,7 @@
     },
     {
       "raw_hot": 70274,
-      "num": 135473,
+      "num": 179472,
       "word": "顾漫还是牛",
       "onboard_time": 1766776394,
       "rank": 40,
@@ -21387,6 +21387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27847,
+      "num": 27847,
+      "word": "周深2025腾讯音乐榜年度歌手",
+      "onboard_time": 1766784133,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27530,
       "num": 84009,
       "word": "判决书详解女子家门口遇害案",
@@ -21401,14 +21409,6 @@
       "onboard_time": 1766495301,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27228,
-      "num": 27228,
-      "word": "周深2025腾讯音乐榜年度歌手",
-      "onboard_time": 1766784133,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 27205,
@@ -21955,6 +21955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21261,
+      "num": 27253,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21101,
       "num": 1447198,
       "word": "北京范儿",
@@ -22033,14 +22041,6 @@
       "onboard_time": 1766601435,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20506,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20482,
@@ -22475,6 +22475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14895,
+      "num": 23989,
+      "word": "王一博的幕后花絮",
+      "onboard_time": 1766784914,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14824,
       "num": 32855,
       "word": "严浩翔镜头里的粉丝",
@@ -22555,6 +22563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14106,
+      "num": 23866,
+      "word": "黄星到达澳门",
+      "onboard_time": 1766781853,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13762,
       "num": 23076,
       "word": "微博网友年度喜爱作品",
@@ -22611,8 +22627,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 12505,
-      "num": 20218,
+      "raw_hot": 12645,
+      "num": 23674,
       "word": "苏新皓少年漫大男主",
       "onboard_time": 1766777834,
       "rank": 44,
@@ -22643,20 +22659,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12006,
-      "num": 20212,
-      "word": "黄星到达澳门",
-      "onboard_time": 1766781853,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11926,
       "num": 24659,
       "word": "刘耀文彩排路透",
       "onboard_time": 1766685855,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11885,
+      "num": 23569,
+      "word": "檀健次第三张音乐专辑",
+      "onboard_time": 1766782816,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 11738,
