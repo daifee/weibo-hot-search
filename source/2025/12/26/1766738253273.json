@@ -1,0 +1,410 @@
+{
+  "runTime": 1766738253273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 557106,
+        "num": 1089137,
+        "word": "下周上四休三",
+        "onboard_time": 1766733380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478498,
+        "num": 478498,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36521,
+        "num": 457632,
+        "word": "世界最长高速公路隧道通车",
+        "onboard_time": 1766720960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603845,
+        "num": 448975,
+        "word": "赵丽颖回应出演逍遥",
+        "onboard_time": 1766735900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437261,
+        "num": 437261,
+        "word": "王者荣耀",
+        "onboard_time": 1766736799,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447366,
+        "num": 426847,
+        "word": "TF家族新音",
+        "onboard_time": 1766737279,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397064,
+        "num": 397064,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366036,
+        "num": 366036,
+        "word": "霸王茶姬回应咖啡因",
+        "onboard_time": 1766732540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244889,
+        "num": 244889,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60201,
+        "num": 243647,
+        "word": "沙特空袭也门",
+        "onboard_time": 1766737822,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1397499,
+        "num": 241466,
+        "word": "淫秽的认定尺度",
+        "onboard_time": 1766735180,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1170792,
+        "num": 241274,
+        "word": "燕云情趣内衣外国人都看不下去了",
+        "onboard_time": 1766737641,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 704744,
+        "num": 238887,
+        "word": "跑票",
+        "onboard_time": 1766733620,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687397,
+        "num": 236978,
+        "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
+        "onboard_time": 1766734520,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23994,
+        "num": 235944,
+        "word": "荣耀WIN年度电竞最夯机",
+        "onboard_time": 1766736200,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234466,
+        "num": 234466,
+        "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+        "onboard_time": 1766726662,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482443,
+        "num": 234209,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33000,
+        "num": 233919,
+        "word": "问界M9上市两周年交付超26万台",
+        "onboard_time": 1766734460,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30396,
+        "num": 233368,
+        "word": "有精神健康风险的药不止孟鲁司特钠",
+        "onboard_time": 1766737400,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 316241,
+        "num": 232996,
+        "word": "赵丽颖逍遥海报",
+        "onboard_time": 1766730380,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240733,
+        "num": 232693,
+        "word": "王一博超级不喜欢被人看的感觉",
+        "onboard_time": 1766731759,
+        "rank": 20,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 232480,
+        "num": 232480,
+        "word": "周大福争议吊坠标注牛马专属",
+        "onboard_time": 1766736200,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206926,
+        "num": 206926,
+        "word": "女子被丈夫闺蜜双重背叛一夜白头",
+        "onboard_time": 1766736020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202553,
+        "num": 202553,
+        "word": "张桂源在休息室碰见了一只壁虎",
+        "onboard_time": 1766737941,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197369,
+        "num": 197369,
+        "word": "女明星发微博求职",
+        "onboard_time": 1766723782,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197028,
+        "num": 197028,
+        "word": "雪豹心脏停跳40分钟无人停止抢救",
+        "onboard_time": 1766736799,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188941,
+        "num": 188941,
+        "word": "连跨年朋友圈素材都能预制了",
+        "onboard_time": 1766737400,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182650,
+        "num": 182650,
+        "word": "王赫野抱着徐志胜内裤睡觉",
+        "onboard_time": 1766737520,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "方圆说箍牙是最好的医美",
+        "onboard_time": 1766727141,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168940,
+        "num": 168940,
+        "word": "香港大埔火灾受灾居民有新家了",
+        "onboard_time": 1766728880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271217,
+        "num": 168934,
+        "word": "美人口占全球4%却供应了70%血浆",
+        "onboard_time": 1766738181,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115614,
+        "num": 168844,
+        "word": "年度夯机荣耀WIN价格真香",
+        "onboard_time": 1766738062,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168827,
+        "num": 168827,
+        "word": "好久没见这么有气血的剧了",
+        "onboard_time": 1766736863,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47433,
+        "num": 166969,
+        "word": "镇政府回应一家五口坠江遇难",
+        "onboard_time": 1766736261,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164587,
+        "num": 165778,
+        "word": "没耐心的人吃螃蟹belike",
+        "onboard_time": 1766736920,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165735,
+        "num": 165735,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165231,
+        "num": 165231,
+        "word": "燕云十六声",
+        "onboard_time": 1766731820,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49353,
+        "num": 156553,
+        "word": "一家五口遇难包括7岁小孩六旬老人",
+        "onboard_time": 1766737220,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90826,
+        "num": 154869,
+        "word": "五月天这事真得你们自己来看下",
+        "onboard_time": 1766737761,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154760,
+        "num": 154760,
+        "word": "why my这个词我这辈子都想不出来",
+        "onboard_time": 1766735601,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45145,
+        "num": 144033,
+        "word": "安徽小伙辍学卖馒头今年已赚13亿",
+        "onboard_time": 1766738121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134819,
+        "num": 134819,
+        "word": "花海唱出了对汪苏泷的沉迷",
+        "onboard_time": 1766737579,
+        "rank": 41,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 130515,
+        "num": 130515,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126988,
+        "num": 126988,
+        "word": "第一次见没有感情全是案情的国产剧",
+        "onboard_time": 1766737702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126744,
+        "num": 126744,
+        "word": "赵今麦抽中时代少年团的鲜花兑换券",
+        "onboard_time": 1766735180,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124376,
+        "num": 124376,
+        "word": "朱孝天举报内容若不实或被行拘",
+        "onboard_time": 1766736799,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122842,
+        "num": 122842,
+        "word": "肖战新杂志露胸肌了",
+        "onboard_time": 1766729961,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 119879,
+        "num": 119879,
+        "word": "新音直播吗",
+        "onboard_time": 1766734581,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118560,
+        "num": 118560,
+        "word": "工位上有个256g的苹果",
+        "onboard_time": 1766733020,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117538,
+        "num": 117538,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 49,
+        "category": "情感,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}
