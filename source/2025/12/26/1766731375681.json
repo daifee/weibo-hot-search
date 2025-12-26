@@ -1,0 +1,410 @@
+{
+  "runTime": 1766731375681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 799275,
+        "num": 1127884,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682806,
+        "num": 682806,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23028,
+        "num": 681681,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681400,
+        "num": 681400,
+        "word": "赵丽颖逍遥海报",
+        "onboard_time": 1766730380,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474405,
+        "num": 474405,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 4,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 692646,
+        "num": 451055,
+        "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+        "onboard_time": 1766726662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481669,
+        "num": 382496,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308255,
+        "num": 308255,
+        "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
+        "onboard_time": 1766726001,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301746,
+        "num": 301746,
+        "word": "香港大埔火灾受灾居民有新家了",
+        "onboard_time": 1766728880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294187,
+        "num": 294187,
+        "word": "燕云十六声回应被指低俗",
+        "onboard_time": 1766729061,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1030580,
+        "num": 294154,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 710669,
+        "num": 293980,
+        "word": "女明星发微博求职",
+        "onboard_time": 1766723782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475770,
+        "num": 293751,
+        "word": "方圆说箍牙是最好的医美",
+        "onboard_time": 1766727141,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23256,
+        "num": 293496,
+        "word": "王星越跨晚穿搭骐骥红",
+        "onboard_time": 1766727081,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293483,
+        "num": 293483,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288035,
+        "num": 288035,
+        "word": "肖战ELLE销量",
+        "onboard_time": 1766725462,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230948,
+        "num": 230948,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228273,
+        "num": 228273,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 17,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 224871,
+        "num": 224871,
+        "word": "老人看孙女写作业睡着狂扇巴掌",
+        "onboard_time": 1766727980,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29808,
+        "num": 209881,
+        "word": "以你的名义捐一件冬衣",
+        "onboard_time": 1766727621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408268,
+        "num": 209185,
+        "word": "小英胖了10斤",
+        "onboard_time": 1766725222,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303949,
+        "num": 208865,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207965,
+        "num": 207965,
+        "word": "李锐谈离开湖南卫视做飞行汽车原因",
+        "onboard_time": 1766727262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198096,
+        "num": 198096,
+        "word": "深圳大学2比2上海龙腾",
+        "onboard_time": 1766730739,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187894,
+        "num": 187894,
+        "word": "一诺庆生照",
+        "onboard_time": 1766731040,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181254,
+        "num": 181254,
+        "word": "张予曦裸背",
+        "onboard_time": 1766729961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177938,
+        "num": 177938,
+        "word": "张柏芝在3分钟里对7个人做了告别",
+        "onboard_time": 1766730860,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164567,
+        "num": 164567,
+        "word": "飞驰人生3没有于适",
+        "onboard_time": 1766728462,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158057,
+        "num": 158057,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144464,
+        "num": 144464,
+        "word": "录综艺意外发现存活1亿年的物种",
+        "onboard_time": 1766729600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133290,
+        "num": 133290,
+        "word": "住院5天点了48顿VIP餐被拒保",
+        "onboard_time": 1766729720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133428,
+        "num": 129917,
+        "word": "张柏芝 那么漂亮那么真诚",
+        "onboard_time": 1766729899,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126497,
+        "num": 126497,
+        "word": "燕云十六声已调整争议外观服装",
+        "onboard_time": 1766730680,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124166,
+        "num": 124166,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122729,
+        "num": 122729,
+        "word": "王俊凯刘耀文都在厕所被时代峰峻发现",
+        "onboard_time": 1766724862,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49516,
+        "num": 120729,
+        "word": "长期口臭腹痛警惕幽门螺杆菌",
+        "onboard_time": 1766727621,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119169,
+        "num": 119169,
+        "word": "长白山云顶天宫今日对外开放",
+        "onboard_time": 1766731040,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 31052,
+        "num": 118999,
+        "word": "美国遗体中介",
+        "onboard_time": 1766731340,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30330,
+        "num": 118829,
+        "word": "母亲哽咽被毒杀子女还没享受过人生",
+        "onboard_time": 1766731160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98844,
+        "num": 118450,
+        "word": "玉茗茶骨定档",
+        "onboard_time": 1766715621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53636,
+        "num": 118039,
+        "word": "方圆不建议大家整容",
+        "onboard_time": 1766730140,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32151,
+        "num": 117771,
+        "word": "陈妍希周扬青合照",
+        "onboard_time": 1766730140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117487,
+        "num": 117487,
+        "word": "燕云十六声新外观被指低俗",
+        "onboard_time": 1766729240,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 116675,
+        "word": "王安宇参演飞驰人生3",
+        "onboard_time": 1766718861,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114926,
+        "num": 114926,
+        "word": "蒯曼3比2何卓佳",
+        "onboard_time": 1766730739,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111188,
+        "num": 111188,
+        "word": "A股跳水",
+        "onboard_time": 1766720300,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105295,
+        "num": 105295,
+        "word": "LV回应女子穿10分钟新鞋双脚受伤",
+        "onboard_time": 1766720061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103383,
+        "num": 103383,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96916,
+        "num": 96916,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95427,
+        "num": 95427,
+        "word": "娜扎拉侯明昊这下把我going住了",
+        "onboard_time": 1766729660,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}
