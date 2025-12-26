@@ -1,0 +1,410 @@
+{
+  "runTime": 1766756346528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 708067,
+        "num": 1113290,
+        "word": "美杜莎舞台",
+        "onboard_time": 1766752701,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 511332,
+        "num": 511332,
+        "word": "抓紧去个税App确认这个信息",
+        "onboard_time": 1766752640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5976,
+        "num": 498498,
+        "word": "西延高铁正式开通运营",
+        "onboard_time": 1766756242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1783231,
+        "num": 451742,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766752881,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220589,
+        "num": 396939,
+        "word": "恋与深空直播",
+        "onboard_time": 1766749223,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1059278,
+        "num": 360925,
+        "word": "和睦家医院回应女明星生产信息疑被泄露",
+        "onboard_time": 1766740581,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 347131,
+        "num": 347131,
+        "word": "张继科说当年队医拿葡萄糖当封闭",
+        "onboard_time": 1766747239,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342917,
+        "num": 342917,
+        "word": "严浩翔SHAKE舞台",
+        "onboard_time": 1766752761,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204462,
+        "num": 342514,
+        "word": "恋与深空兑换码",
+        "onboard_time": 1766751741,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 335900,
+        "word": "毛新宇说网友称爷爷为教员贴切",
+        "onboard_time": 1766747541,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529650,
+        "num": 331970,
+        "word": "小泡芙 女大十八变",
+        "onboard_time": 1766746039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524314,
+        "num": 329322,
+        "word": "霍启刚郭晶晶一家逛街买奶茶",
+        "onboard_time": 1766753241,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23473,
+        "num": 323742,
+        "word": "这些大国工程见证中国之变",
+        "onboard_time": 1766756063,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475044,
+        "num": 320107,
+        "word": "王橹杰滑跪",
+        "onboard_time": 1766754921,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195044,
+        "num": 312772,
+        "word": "人之初定档",
+        "onboard_time": 1766755162,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343555,
+        "num": 308251,
+        "word": "王安宇竟然有160斤",
+        "onboard_time": 1766747541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307039,
+        "num": 307039,
+        "word": "朱志鑫苏新皓ON双人舞",
+        "onboard_time": 1766754921,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265574,
+        "num": 265574,
+        "word": "老公被判6个月闺蜜无罪原配上诉",
+        "onboard_time": 1766742801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259164,
+        "num": 259164,
+        "word": "宋威龙赵今麦杀死了现偶比赛",
+        "onboard_time": 1766756001,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250383,
+        "num": 250383,
+        "word": "女子彻夜充电致全身70%烧伤",
+        "onboard_time": 1766741599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120762,
+        "num": 250328,
+        "word": "8旬老人与保姆发生性关系感染HIV",
+        "onboard_time": 1766756063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20551,
+        "num": 248890,
+        "word": "今年人工智能核心产业规模超万亿元",
+        "onboard_time": 1766742622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471119,
+        "num": 247105,
+        "word": "韦雪和秦奋的儿子这么大了",
+        "onboard_time": 1766751561,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263442,
+        "num": 246144,
+        "word": "早餐店汤里死老鼠脚已熬得发白",
+        "onboard_time": 1766743220,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244928,
+        "num": 244928,
+        "word": "李宏毅直播",
+        "onboard_time": 1766755641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1158112,
+        "num": 232130,
+        "word": "全国多家博物馆闭馆",
+        "onboard_time": 1766751561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212549,
+        "num": 212549,
+        "word": "TF家族新音",
+        "onboard_time": 1766737279,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196821,
+        "num": 196821,
+        "word": "刘耀文满分薄肌男",
+        "onboard_time": 1766748141,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 192407,
+        "word": "12人向微信好友转发淫秽视频获刑",
+        "onboard_time": 1766753421,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192283,
+        "num": 192283,
+        "word": "宋威龙 我让你挑",
+        "onboard_time": 1766755942,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190155,
+        "num": 190155,
+        "word": "丁程鑫红发皮衣杀疯了",
+        "onboard_time": 1766755881,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175708,
+        "num": 175708,
+        "word": "王橹杰新音舞台状态",
+        "onboard_time": 1766747000,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165854,
+        "num": 165854,
+        "word": "马嘉祺被摸喉结这一下",
+        "onboard_time": 1766755641,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158347,
+        "num": 158347,
+        "word": "曝陈宥维拼多多给女友买穿戴甲",
+        "onboard_time": 1766740699,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 157749,
+        "word": "怪奇物语",
+        "onboard_time": 1766745320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "严浩翔金发生图",
+        "onboard_time": 1766747061,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56072,
+        "num": 153355,
+        "word": "现在漠河比南北极都冷了吗",
+        "onboard_time": 1766749101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 153279,
+        "word": "苏新皓好韩",
+        "onboard_time": 1766745920,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151984,
+        "num": 151984,
+        "word": "冯建宇直播",
+        "onboard_time": 1766755942,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143077,
+        "num": 143077,
+        "word": "被周深演唱山灵震撼心灵",
+        "onboard_time": 1766756242,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137254,
+        "num": 137254,
+        "word": "央视曝光韩束面膜添加违禁成分",
+        "onboard_time": 1766748020,
+        "rank": 40,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 136382,
+        "num": 136382,
+        "word": "诚C无声咖啡学徒上线",
+        "onboard_time": 1766755702,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130471,
+        "num": 130471,
+        "word": "马嘉祺夜访吸血鬼新音舞台",
+        "onboard_time": 1766747000,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96535,
+        "num": 125758,
+        "word": "马斯克最新身家7519亿美元",
+        "onboard_time": 1766755881,
+        "rank": 43,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 125404,
+        "num": 125404,
+        "word": "宋亚轩新音whoknows舞台",
+        "onboard_time": 1766751981,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123978,
+        "num": 123978,
+        "word": "建议做美甲都按这个标准来",
+        "onboard_time": 1766751981,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118713,
+        "num": 118713,
+        "word": "女子为取证告重婚罪蹲守第三者家门外",
+        "onboard_time": 1766754082,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114839,
+        "num": 114839,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114161,
+        "num": 114161,
+        "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
+        "onboard_time": 1766734520,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113762,
+        "num": 113762,
+        "word": "AG对战破军",
+        "onboard_time": 1766749700,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开民主生活会#"
+    }
+  }
+}

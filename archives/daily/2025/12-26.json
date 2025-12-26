@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766754605719,
+  "endTime": 1766756346528,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -49,6 +49,14 @@
       "onboard_time": 1766737279,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1158112,
+      "num": 848208,
+      "word": "全国多家博物馆闭馆",
+      "onboard_time": 1766751561,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1143556,
@@ -139,14 +147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 848208,
-      "num": 848208,
-      "word": "全国多家博物馆闭馆",
-      "onboard_time": 1766751561,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 842286,
       "num": 542601,
       "word": "张柏芝剖腹产回家身边没有人在",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 771407,
-      "num": 216325,
+      "num": 247105,
       "word": "韦雪和秦奋的儿子这么大了",
       "onboard_time": 1766751561,
       "rank": 20,
@@ -347,11 +347,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524314,
+      "num": 329322,
+      "word": "霍启刚郭晶晶一家逛街买奶茶",
+      "onboard_time": 1766753241,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523739,
       "num": 1083798,
       "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
       "onboard_time": 1766712022,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511332,
+      "num": 511332,
+      "word": "抓紧去个税App确认这个信息",
+      "onboard_time": 1766752640,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -417,6 +433,14 @@
       "onboard_time": 1766727141,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 475044,
+      "num": 320107,
+      "word": "王橹杰滑跪",
+      "onboard_time": 1766754921,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 464146,
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307039,
+      "num": 307039,
+      "word": "朱志鑫苏新皓ON双人舞",
+      "onboard_time": 1766754921,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 307000,
       "num": 307000,
       "word": "苏新皓直拍",
@@ -803,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 259164,
+      "num": 259164,
+      "word": "宋威龙赵今麦杀死了现偶比赛",
+      "onboard_time": 1766756001,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255177,
       "num": 210663,
       "word": "肖战ELLE开年刊",
@@ -816,6 +856,14 @@
       "word": "曝内娱大咖弃养私生子",
       "onboard_time": 1766651000,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244928,
+      "num": 244928,
+      "word": "李宏毅直播",
+      "onboard_time": 1766755641,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -896,14 +944,6 @@
       "word": "估值2亿别墅6673万元起拍没人要",
       "onboard_time": 1766678181,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217926,
-      "num": 391757,
-      "word": "抓紧去个税App确认这个信息",
-      "onboard_time": 1766752640,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1059,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198058,
-      "num": 198058,
-      "word": "霍启刚郭晶晶一家逛街买奶茶",
-      "onboard_time": 1766753241,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197947,
       "num": 197947,
       "word": "孙颖莎回应不参加乒超总决赛",
@@ -1107,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195044,
+      "num": 312772,
+      "word": "人之初定档",
+      "onboard_time": 1766755162,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192709,
       "num": 192709,
       "word": "张柏芝在3分钟里对7个人做了告别",
@@ -1131,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192283,
+      "num": 192283,
+      "word": "宋威龙 我让你挑",
+      "onboard_time": 1766755942,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190424,
       "num": 190424,
       "word": "赵丽颖小城大事妆造",
       "onboard_time": 1766719760,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190155,
+      "num": 190155,
+      "word": "丁程鑫红发皮衣杀疯了",
+      "onboard_time": 1766755881,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 188941,
@@ -1435,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "马嘉祺被摸喉结这一下",
+      "onboard_time": 1766755641,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165037,
       "num": 165037,
       "word": "陈哲远只有110多斤",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1766720179,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151984,
+      "num": 151984,
+      "word": "冯建宇直播",
+      "onboard_time": 1766755942,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 151938,
@@ -1692,7 +1764,7 @@
     },
     {
       "raw_hot": 144787,
-      "num": 157556,
+      "num": 192407,
       "word": "12人向微信好友转发淫秽视频获刑",
       "onboard_time": 1766753421,
       "rank": 29,
@@ -1729,6 +1801,14 @@
       "onboard_time": 1766704699,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143077,
+      "num": 143077,
+      "word": "被周深演唱山灵震撼心灵",
+      "onboard_time": 1766756242,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 142953,
@@ -1793,6 +1873,14 @@
       "onboard_time": 1766705539,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136382,
+      "num": 136382,
+      "word": "诚C无声咖啡学徒上线",
+      "onboard_time": 1766755702,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 135113,
@@ -2027,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123978,
+      "num": 123978,
+      "word": "建议做美甲都按这个标准来",
+      "onboard_time": 1766751981,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123874,
       "num": 123874,
       "word": "黄景瑜刑侦剧口碑这一块",
@@ -2057,6 +2153,14 @@
       "onboard_time": 1766726481,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120762,
+      "num": 250328,
+      "word": "8旬老人与保姆发生性关系感染HIV",
+      "onboard_time": 1766756063,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120369,
@@ -2105,6 +2209,14 @@
       "onboard_time": 1766724682,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118713,
+      "num": 214659,
+      "word": "女子为取证告重婚罪蹲守第三者家门外",
+      "onboard_time": 1766754082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117950,
@@ -2211,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114868,
-      "num": 114868,
-      "word": "建议做美甲都按这个标准来",
-      "onboard_time": 1766751981,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 114423,
       "num": 114423,
       "word": "凯乐石牌羽绒服被曝新旧款差900元",
@@ -2249,6 +2353,14 @@
       "onboard_time": 1766721260,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113762,
+      "num": 113762,
+      "word": "AG对战破军",
+      "onboard_time": 1766749700,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113410,
@@ -2689,6 +2801,14 @@
       "onboard_time": 1766737761,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96535,
+      "num": 125758,
+      "word": "马斯克最新身家7519亿美元",
+      "onboard_time": 1766755881,
+      "rank": 43,
+      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 95865,
@@ -3587,20 +3707,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23473,
+      "num": 323742,
+      "word": "这些大国工程见证中国之变",
+      "onboard_time": 1766756063,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23007,
       "num": 98869,
       "word": "苹果过敏少见但不是没有",
       "onboard_time": 1766734460,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22082,
-      "num": 214659,
-      "word": "女子为取证告重婚罪蹲守第三者家门外",
-      "onboard_time": 1766754082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20376,
@@ -3731,6 +3851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 5976,
+      "num": 498498,
+      "word": "西延高铁正式开通运营",
+      "onboard_time": 1766756242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5804,
       "num": 515815,
       "word": "中国高铁运营里程破5万公里",
@@ -3748,6 +3876,9 @@
     },
     {
       "word": "#150秒感受2025一路向前#"
+    },
+    {
+      "word": "#中共中央政治局召开民主生活会#"
     }
   ]
 }
