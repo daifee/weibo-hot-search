@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766757090021,
+  "endTime": 1766759332442,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2309247,
-      "num": 513380,
+      "num": 906294,
       "word": "橹穆美杜莎",
       "onboard_time": 1766752881,
       "rank": 3,
@@ -931,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 862809,
+      "num": 862809,
+      "word": "宋威龙赵今麦杀死了现偶比赛",
+      "onboard_time": 1766756001,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 853805,
       "num": 228199,
       "word": "许妍回来了",
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 681828,
-      "num": 489872,
+      "num": 516756,
       "word": "小泡芙 女大十八变",
       "onboard_time": 1766746039,
       "rank": 10,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 630763,
-      "num": 498507,
+      "num": 566266,
       "word": "张继科说当年队医拿葡萄糖当封闭",
       "onboard_time": 1766747239,
       "rank": 14,
@@ -1608,6 +1616,22 @@
       "word": "男子发现女儿非亲生多部门介入调解",
       "onboard_time": 1766655920,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619623,
+      "num": 619623,
+      "word": "8旬老人与保姆发生性关系感染HIV",
+      "onboard_time": 1766756063,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618686,
+      "num": 1098989,
+      "word": "抓紧去个税App确认这个信息",
+      "onboard_time": 1766752640,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2017,14 +2041,6 @@
       "onboard_time": 1766452461,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 539931,
-      "num": 1086389,
-      "word": "抓紧去个税App确认这个信息",
-      "onboard_time": 1766752640,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 539484,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1766661200,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461082,
-      "num": 506014,
-      "word": "宋威龙赵今麦杀死了现偶比赛",
-      "onboard_time": 1766756001,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 460375,
@@ -4372,7 +4380,7 @@
     },
     {
       "raw_hot": 303150,
-      "num": 496497,
+      "num": 521451,
       "word": "人之初定档",
       "onboard_time": 1766755162,
       "rank": 14,
@@ -4385,6 +4393,14 @@
       "onboard_time": 1766381301,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302947,
+      "num": 302947,
+      "word": "原来肖战思考得这么细",
+      "onboard_time": 1766758281,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 302940,
@@ -4665,6 +4681,14 @@
       "onboard_time": 1766371641,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289601,
+      "num": 289601,
+      "word": "宋威龙 我让你挑",
+      "onboard_time": 1766755942,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 289074,
@@ -5699,6 +5723,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 225671,
+      "num": 874397,
+      "word": "AG确定挑杯四强",
+      "onboard_time": 1766758882,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225600,
       "num": 225600,
       "word": "何超莲金莲花最佳新人",
@@ -5864,6 +5896,14 @@
       "word": "SBS直播",
       "onboard_time": 1766639001,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 218142,
+      "num": 218142,
+      "word": "蔡徐坤去看邓紫棋演唱会了",
+      "onboard_time": 1766758882,
+      "rank": 22,
       "category": "演出"
     },
     {
@@ -6779,14 +6819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196643,
-      "num": 196643,
-      "word": "宋威龙 我让你挑",
-      "onboard_time": 1766755942,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196427,
       "num": 196427,
       "word": "恋与深空二周年直播",
@@ -7483,6 +7515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184994,
+      "num": 248283,
+      "word": "孙颖莎希望加油的力量能传到赛场",
+      "onboard_time": 1766758461,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184948,
+      "num": 184948,
+      "word": "吴磊 饭在嘴里又炒了一遍",
+      "onboard_time": 1766757082,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "王彦霖 爱上肖战是人之常情",
@@ -7619,6 +7667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183195,
+      "num": 183195,
+      "word": "朱志鑫扭胯领域绝对的统治区",
+      "onboard_time": 1766758941,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183185,
       "num": 183185,
       "word": "新音直播吗",
@@ -7657,14 +7713,6 @@
       "onboard_time": 1766737520,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182554,
-      "num": 250328,
-      "word": "8旬老人与保姆发生性关系感染HIV",
-      "onboard_time": 1766756063,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182386,
@@ -7969,6 +8017,14 @@
       "onboard_time": 1766638822,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177231,
+      "num": 177231,
+      "word": "咖啡因在体内多久能代谢完",
+      "onboard_time": 1766758642,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176967,
@@ -10251,6 +10307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 143141,
+      "num": 143141,
+      "word": "郭晓婷美成啥了",
+      "onboard_time": 1766757262,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143077,
       "num": 143077,
       "word": "被周深演唱山灵震撼心灵",
@@ -10347,6 +10411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142127,
+      "num": 142127,
+      "word": "新音大舌头舞台",
+      "onboard_time": 1766758162,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142075,
       "num": 167361,
       "word": "龚俊紧急撤回一个李乃文摆拍",
@@ -10433,6 +10505,14 @@
       "onboard_time": 1766478562,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141189,
+      "num": 141189,
+      "word": "陈幸同2比3王晓彤",
+      "onboard_time": 1766758461,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140996,
@@ -11113,6 +11193,14 @@
       "onboard_time": 1766654900,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133589,
+      "num": 133589,
+      "word": "燕云玩家希望谭晶慎重考虑合作",
+      "onboard_time": 1766754441,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 133488,
@@ -11995,6 +12083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "山东鲁能2比0华东理工大学",
+      "onboard_time": 1766758343,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125613,
       "num": 125613,
       "word": "璎珞 AI",
@@ -12009,6 +12105,14 @@
       "onboard_time": 1766473401,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125451,
+      "num": 125451,
+      "word": "长安二十四计第28集封神了",
+      "onboard_time": 1766758702,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 125408,
@@ -12635,6 +12739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119454,
+      "num": 119454,
+      "word": "山东鲁能女团晋级决赛",
+      "onboard_time": 1766759182,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119369,
       "num": 273467,
       "word": "体检报告的这些字眼或是癌症信号",
@@ -12697,6 +12809,14 @@
       "onboard_time": 1766278218,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118814,
+      "num": 127397,
+      "word": "张桂源一直在勾引",
+      "onboard_time": 1766757622,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 118765,
@@ -12889,14 +13009,6 @@
       "onboard_time": 1766291058,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116946,
-      "num": 116946,
-      "word": "燕云玩家希望谭晶慎重考虑合作",
-      "onboard_time": 1766754441,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 116940,
@@ -18563,6 +18675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55931,
+      "num": 173873,
+      "word": "浙江发钱抢专科生",
+      "onboard_time": 1766757622,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55758,
       "num": 125661,
       "word": "张予曦要美成AI了",
@@ -19931,6 +20051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37146,
+      "num": 255701,
+      "word": "近1年关了87658家面包店",
+      "onboard_time": 1766758343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37120,
       "num": 184461,
       "word": "16岁烤鸡少年两年来1天仅睡4小时",
@@ -20121,6 +20249,14 @@
       "onboard_time": 1766650701,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34992,
+      "num": 141405,
+      "word": "陈妍希说不排斥双女主",
+      "onboard_time": 1766758281,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 34909,
@@ -20924,7 +21060,7 @@
     },
     {
       "raw_hot": 27191,
-      "num": 515914,
+      "num": 921087,
       "word": "故事里的2025",
       "onboard_time": 1766756422,
       "rank": 2,
@@ -21777,6 +21913,14 @@
       "onboard_time": 1766394620,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16117,
+      "num": 141281,
+      "word": "曾辉韩雨彤很大方聊吻戏",
+      "onboard_time": 1766758343,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 15965,
