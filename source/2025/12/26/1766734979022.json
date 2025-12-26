@@ -1,0 +1,410 @@
+{
+  "runTime": 1766734979022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612286,
+        "num": 1097965,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542459,
+        "num": 542459,
+        "word": "霸王茶姬回应咖啡因",
+        "onboard_time": 1766732540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20853,
+        "num": 455995,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733019,
+        "num": 427489,
+        "word": "赵丽颖逍遥海报",
+        "onboard_time": 1766730380,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396557,
+        "num": 396557,
+        "word": "香港大埔火灾受灾居民有新家了",
+        "onboard_time": 1766728880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531321,
+        "num": 395587,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424790,
+        "num": 392623,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401734,
+        "num": 391754,
+        "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+        "onboard_time": 1766726662,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388085,
+        "num": 388085,
+        "word": "王一博超级不喜欢被人看的感觉",
+        "onboard_time": 1766731759,
+        "rank": 8,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 233669,
+        "num": 371757,
+        "word": "燕云十六声",
+        "onboard_time": 1766731820,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1006822,
+        "num": 366520,
+        "word": "跑票",
+        "onboard_time": 1766733620,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 853302,
+        "num": 364916,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 360805,
+        "num": 360805,
+        "word": "女明星发微博求职",
+        "onboard_time": 1766723782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329067,
+        "num": 329067,
+        "word": "方圆说箍牙是最好的医美",
+        "onboard_time": 1766727141,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263695,
+        "num": 263695,
+        "word": "赵丽颖反派碎梦仙君造型",
+        "onboard_time": 1766731880,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262910,
+        "num": 262910,
+        "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
+        "onboard_time": 1766734520,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236833,
+        "num": 236833,
+        "word": "下周上四休三",
+        "onboard_time": 1766733380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214705,
+        "num": 214705,
+        "word": "老人看孙女写作业睡着狂扇巴掌",
+        "onboard_time": 1766727980,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65972,
+        "num": 209300,
+        "word": "问界M9上市两周年交付超26万台",
+        "onboard_time": 1766734460,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204554,
+        "num": 204554,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254692,
+        "num": 203241,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201333,
+        "num": 201333,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 21,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 180750,
+        "num": 180750,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "燕云十六声回应被指低俗",
+        "onboard_time": 1766729061,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161161,
+        "num": 161161,
+        "word": "新音直播吗",
+        "onboard_time": 1766734581,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155778,
+        "num": 155778,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154686,
+        "num": 154686,
+        "word": "掘金战胜森林狼",
+        "onboard_time": 1766734520,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148297,
+        "num": 148297,
+        "word": "刘嘉玲 门当户不对会产生很多悲剧",
+        "onboard_time": 1766733919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46592,
+        "num": 147772,
+        "word": "被黄子弘凡夸夸啦",
+        "onboard_time": 1766732720,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77144,
+        "num": 147736,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "约基奇超豪华三双",
+        "onboard_time": 1766733440,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142573,
+        "num": 142573,
+        "word": "时代少年团新音定妆",
+        "onboard_time": 1766732421,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136572,
+        "num": 136572,
+        "word": "小英胖了10斤",
+        "onboard_time": 1766725222,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134856,
+        "num": 134856,
+        "word": "钟意居然才21岁",
+        "onboard_time": 1766732720,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134254,
+        "num": 134254,
+        "word": "肖战ELLE销量",
+        "onboard_time": 1766725462,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127615,
+        "num": 127615,
+        "word": "工位上有个256g的苹果",
+        "onboard_time": 1766733020,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127385,
+        "num": 127385,
+        "word": "人之初",
+        "onboard_time": 1766724142,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117553,
+        "num": 117553,
+        "word": "骄阳似我 曦光怒动画",
+        "onboard_time": 1766733919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117418,
+        "num": 117418,
+        "word": "李锐谈离开湖南卫视做飞行汽车原因",
+        "onboard_time": 1766727262,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116850,
+        "num": 116850,
+        "word": "飞驰人生3",
+        "onboard_time": 1766717360,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51238,
+        "num": 116751,
+        "word": "沈梦辰一生要出片的中国女人",
+        "onboard_time": 1766733740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116714,
+        "num": 116714,
+        "word": "荣耀发布会",
+        "onboard_time": 1766732781,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116275,
+        "num": 116275,
+        "word": "娜扎新剧三巴掌教耀祖做事",
+        "onboard_time": 1766733201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 107340,
+        "word": "你是黄景瑜那他是谁",
+        "onboard_time": 1766733560,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103850,
+        "num": 103850,
+        "word": "住院5天点了48顿VIP餐被拒保",
+        "onboard_time": 1766729720,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344199,
+        "num": 103461,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 45,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 102953,
+        "num": 102953,
+        "word": "刘昊然只需略微出手白月光就回来了",
+        "onboard_time": 1766734880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101323,
+        "num": 101323,
+        "word": "樊振东2025笑容合集",
+        "onboard_time": 1766734280,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100293,
+        "num": 100293,
+        "word": "荣耀WIN",
+        "onboard_time": 1766731519,
+        "rank": 48,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 23007,
+        "num": 98869,
+        "word": "苹果过敏少见但不是没有",
+        "onboard_time": 1766734460,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}

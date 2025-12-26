@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/26 15:29:21
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/26 15:42:59
 </p>
 </blockquote>
 <p>
@@ -1871,6 +1871,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%E5%A5%B3%E5%AD%90%E6%89%93%E9%80%A0%E5%AF%8C%E5%A9%86%E4%BA%BA%E8%AE%BE%23" target="weibo">
 仅退款225个快递女子打造富婆人设（热度：1009961）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%A5%A8%23" target="weibo">
+跑票（热度：1006822）
 </a>
 </li>
 
@@ -5997,20 +6003,14 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%9B%A0%23" target="weibo">
+霸王茶姬回应咖啡因（热度：542459）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%93%B6%E4%BD%93%E6%B8%A9%E8%AE%A1%E7%BA%BF%E4%B8%8A99%E5%85%83%E4%B8%80%E6%94%AF%23" target="weibo">
 水银体温计线上99元一支（热度：542428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E4%B8%80%E6%AC%A1%E5%87%BB%E6%8E%8C%23" target="weibo">
-王楚钦紧急撤回一次击掌（热度：541783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%A2%E4%BD%93%E8%AF%B7%E6%B1%82%E8%AE%BF%E5%8D%8E%23" target="weibo">
-中方回应日本团体请求访华（热度：541522）
 </a>
 </li>
 
