@@ -1,0 +1,410 @@
+{
+  "runTime": 1766721726009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473288,
+        "num": 1075726,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386195,
+        "num": 487760,
+        "word": "电影飞驰人生3定档春节",
+        "onboard_time": 1766715981,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5832,
+        "num": 485157,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483305,
+        "num": 483305,
+        "word": "男生艺考减重65斤统考后吃甜食痛哭",
+        "onboard_time": 1766717121,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480445,
+        "num": 480445,
+        "word": "赵丽颖害羞捂脸镜头",
+        "onboard_time": 1766719041,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1143556,
+        "num": 466625,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 5,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 695424,
+        "num": 461414,
+        "word": "A股跳水",
+        "onboard_time": 1766720300,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 445068,
+        "num": 445068,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 7,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 90486,
+        "num": 415948,
+        "word": "世界最长高速公路隧道通车",
+        "onboard_time": 1766720960,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392201,
+        "num": 392201,
+        "word": "487因手伤休息",
+        "onboard_time": 1766721381,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 553702,
+        "num": 391426,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 532045,
+        "num": 384311,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500655,
+        "num": 375428,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440920,
+        "num": 369705,
+        "word": "高市早苗",
+        "onboard_time": 1766717480,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365987,
+        "num": 365987,
+        "word": "LV回应女子穿10分钟新鞋双脚受伤",
+        "onboard_time": 1766720061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360638,
+        "num": 360638,
+        "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+        "onboard_time": 1766712022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334549,
+        "num": 334549,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114111,
+        "num": 330176,
+        "word": "离婚冷静期毒杀儿女案男子获死刑",
+        "onboard_time": 1766721260,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204925,
+        "num": 325034,
+        "word": "第一次当王一博有点紧张",
+        "onboard_time": 1766720540,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82989,
+        "num": 315397,
+        "word": "便利店调酒怎么又火了",
+        "onboard_time": 1766720061,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454847,
+        "num": 312085,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305690,
+        "num": 305690,
+        "word": "王安宇参演飞驰人生3",
+        "onboard_time": 1766718861,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281790,
+        "num": 281790,
+        "word": "玉茗茶骨定档",
+        "onboard_time": 1766715621,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271532,
+        "num": 271532,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258509,
+        "num": 258509,
+        "word": "A股",
+        "onboard_time": 1766719881,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252130,
+        "num": 252130,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239542,
+        "num": 239542,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199105,
+        "num": 199105,
+        "word": "红舞鞋杀青",
+        "onboard_time": 1766720781,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49820,
+        "num": 197287,
+        "word": "享界让豪华轿车市场四分天下",
+        "onboard_time": 1766718200,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196793,
+        "num": 196793,
+        "word": "千万粉丝网红重访打工旧地爆哭",
+        "onboard_time": 1766716582,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187688,
+        "num": 187688,
+        "word": "藏海传大雪名场面是肖战想要拍的",
+        "onboard_time": 1766721680,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151961,
+        "num": 184358,
+        "word": "黄景瑜大聪明变聪明",
+        "onboard_time": 1766720360,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181880,
+        "num": 181880,
+        "word": "飞驰人生3",
+        "onboard_time": 1766717360,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168991,
+        "num": 168991,
+        "word": "唐诡2025年最后一案来了",
+        "onboard_time": 1766719701,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168627,
+        "num": 168627,
+        "word": "电影四渡官宣",
+        "onboard_time": 1766717421,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161260,
+        "num": 161260,
+        "word": "a股江西铜业涨停",
+        "onboard_time": 1766721201,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155410,
+        "num": 155410,
+        "word": "林依轮 林屿森我第一集就帮你了",
+        "onboard_time": 1766718921,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70937,
+        "num": 152216,
+        "word": "鸡排哥变了吗",
+        "onboard_time": 1766721201,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99416,
+        "num": 152047,
+        "word": "侯明昊我这事业线拐的有点陡",
+        "onboard_time": 1766721621,
+        "rank": 38,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 151938,
+        "num": 151938,
+        "word": "春节档",
+        "onboard_time": 1766720720,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148242,
+        "num": 148242,
+        "word": "吉林62岁女子怀孕",
+        "onboard_time": 1766704757,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "深大发博感谢孙颖莎",
+        "onboard_time": 1766714601,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144540,
+        "num": 144540,
+        "word": "随手一拍就是雪场时尚大片",
+        "onboard_time": 1766721562,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138200,
+        "num": 138200,
+        "word": "字节跳动通报120名员工被辞",
+        "onboard_time": 1766714421,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137878,
+        "num": 137878,
+        "word": "40万元黄金到期无人认领将上缴国库",
+        "onboard_time": 1766721081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 133762,
+        "word": "朱孝天澄清声明",
+        "onboard_time": 1766674282,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23581,
+        "num": 133622,
+        "word": "名校校友回校枪杀了学生",
+        "onboard_time": 1766720001,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133566,
+        "num": 133566,
+        "word": "卢伟冰将7999元小米新机口误成799",
+        "onboard_time": 1766715621,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132076,
+        "num": 132076,
+        "word": "王楚钦开幕式宣誓",
+        "onboard_time": 1766719941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126965,
+        "num": 126965,
+        "word": "钟南山妻子入选中国篮球名人堂",
+        "onboard_time": 1766720421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}

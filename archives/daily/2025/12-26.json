@@ -1,10 +1,18 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766720875114,
+  "endTime": 1766721726009,
   "band_list": [
     {
+      "raw_hot": 1143556,
+      "num": 506385,
+      "word": "一万块钱让你元旦加班",
+      "onboard_time": 1766719580,
+      "rank": 5,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 1106970,
-      "num": 222632,
+      "num": 312085,
       "word": "蒋毅向赵樱子求婚",
       "onboard_time": 1766675121,
       "rank": 20,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1038615,
-      "num": 380750,
+      "num": 384311,
       "word": "肖战杂志",
       "onboard_time": 1766714901,
       "rank": 10,
@@ -25,14 +33,6 @@
       "onboard_time": 1766714181,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 930447,
-      "num": 506385,
-      "word": "一万块钱让你元旦加班",
-      "onboard_time": 1766719580,
-      "rank": 5,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 885014,
@@ -52,15 +52,23 @@
     },
     {
       "raw_hot": 712745,
-      "num": 332961,
+      "num": 334549,
       "word": "陈伟霆回应很大方官宣生子",
       "onboard_time": 1766706380,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 695424,
+      "num": 496698,
+      "word": "A股跳水",
+      "onboard_time": 1766720300,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 635561,
-      "num": 358402,
+      "num": 391426,
       "word": "燕云十六声 抹胸",
       "onboard_time": 1766711361,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 541313,
-      "num": 347082,
+      "num": 369705,
       "word": "高市早苗",
       "onboard_time": 1766717480,
       "rank": 12,
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500655,
+      "num": 375428,
+      "word": "长期乱买衣服 隐形贫穷",
+      "onboard_time": 1766720481,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499685,
       "num": 417161,
       "word": "男子在大理苍山疑自缢身亡",
       "onboard_time": 1766712921,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 496698,
-      "num": 496698,
-      "word": "A股跳水",
-      "onboard_time": 1766720300,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 485208,
@@ -171,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392201,
+      "num": 392201,
+      "word": "487因手伤休息",
+      "onboard_time": 1766721381,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366009,
       "num": 366009,
       "word": "日本前所未有的熊尸危机",
       "onboard_time": 1766672902,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 365987,
+      "num": 365987,
+      "word": "LV回应女子穿10分钟新鞋双脚受伤",
+      "onboard_time": 1766720061,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342926,
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305690,
+      "num": 305690,
+      "word": "王安宇参演飞驰人生3",
+      "onboard_time": 1766718861,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286115,
       "num": 286115,
       "word": "孙颖莎缺席乒超半决赛",
@@ -273,6 +305,14 @@
       "onboard_time": 1766715801,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252130,
+      "num": 252130,
+      "word": "少调休多放假让国人从容过春节",
+      "onboard_time": 1766720602,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251014,
@@ -347,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216409,
-      "num": 216409,
-      "word": "王安宇参演飞驰人生3",
-      "onboard_time": 1766718861,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 213086,
       "num": 213086,
       "word": "林依轮 林屿森我第一集就帮你了",
@@ -387,8 +419,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191516,
-      "num": 191516,
+      "raw_hot": 204925,
+      "num": 325034,
+      "word": "第一次当王一博有点紧张",
+      "onboard_time": 1766720540,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199105,
+      "num": 199105,
       "word": "红舞鞋杀青",
       "onboard_time": 1766720781,
       "rank": 30,
@@ -411,16 +451,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178047,
-      "num": 178047,
-      "word": "长期乱买衣服 隐形贫穷",
-      "onboard_time": 1766720481,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 187688,
+      "num": 187688,
+      "word": "藏海传大雪名场面是肖战想要拍的",
+      "onboard_time": 1766721680,
+      "rank": 30,
+      "category": "剧集"
     },
     {
-      "raw_hot": 177422,
-      "num": 177422,
+      "raw_hot": 181880,
+      "num": 181880,
       "word": "飞驰人生3",
       "onboard_time": 1766717360,
       "rank": 33,
@@ -468,11 +508,19 @@
     },
     {
       "raw_hot": 161564,
-      "num": 161564,
+      "num": 184358,
       "word": "黄景瑜大聪明变聪明",
       "onboard_time": 1766720360,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161260,
+      "num": 161260,
+      "word": "a股江西铜业涨停",
+      "onboard_time": 1766721201,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 160398,
@@ -523,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151938,
+      "num": 151938,
+      "word": "春节档",
+      "onboard_time": 1766720720,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151524,
       "num": 151524,
       "word": "玉茗茶骨",
@@ -555,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144540,
+      "num": 144540,
+      "word": "随手一拍就是雪场时尚大片",
+      "onboard_time": 1766721562,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143305,
       "num": 143305,
       "word": "马刺三杀雷霆",
@@ -571,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136490,
-      "num": 225061,
-      "word": "第一次当王一博有点紧张",
-      "onboard_time": 1766720540,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 137878,
+      "num": 137878,
+      "word": "40万元黄金到期无人认领将上缴国库",
+      "onboard_time": 1766721081,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135113,
@@ -609,14 +673,6 @@
       "onboard_time": 1766711482,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 129099,
-      "num": 129099,
-      "word": "少调休多放假让国人从容过春节",
-      "onboard_time": 1766720602,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127774,
@@ -675,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119293,
-      "num": 119293,
-      "word": "春节档",
-      "onboard_time": 1766720720,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117193,
       "num": 117193,
       "word": "2025最后几天冷暖大反转",
@@ -712,6 +760,14 @@
       "word": "河南一大货车出事故多人哄抢货物",
       "onboard_time": 1766670322,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114111,
+      "num": 330176,
+      "word": "离婚冷静期毒杀儿女案男子获死刑",
+      "onboard_time": 1766721260,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -795,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99416,
+      "num": 152047,
+      "word": "侯明昊我这事业线拐的有点陡",
+      "onboard_time": 1766721621,
+      "rank": 38,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 98493,
       "num": 96406,
       "word": "李宏毅声明",
@@ -857,6 +921,14 @@
       "onboard_time": 1766663721,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90486,
+      "num": 415948,
+      "word": "世界最长高速公路隧道通车",
+      "onboard_time": 1766720960,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89978,
@@ -931,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82989,
+      "num": 315397,
+      "word": "便利店调酒怎么又火了",
+      "onboard_time": 1766720061,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80883,
       "num": 80883,
       "word": "卢伟冰发布会口误",
@@ -963,19 +1043,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75731,
-      "num": 226199,
-      "word": "便利店调酒怎么又火了",
-      "onboard_time": 1766720061,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 72131,
       "num": 96009,
       "word": "每天穿破羽绒服超12小时确诊羽绒肺",
       "onboard_time": 1766676081,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70937,
+      "num": 152216,
+      "word": "鸡排哥变了吗",
+      "onboard_time": 1766721201,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1076,7 +1156,7 @@
     },
     {
       "raw_hot": 63051,
-      "num": 191592,
+      "num": 197287,
       "word": "享界让豪华轿车市场四分天下",
       "onboard_time": 1766718200,
       "rank": 29,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1766672783,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62148,
-      "num": 227228,
-      "word": "LV回应女子穿10分钟新鞋双脚受伤",
-      "onboard_time": 1766720061,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61907,
@@ -1275,20 +1347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23581,
+      "num": 159392,
+      "word": "名校校友回校枪杀了学生",
+      "onboard_time": 1766720001,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20376,
       "num": 91836,
       "word": "男生骑车撞上马路中间电线杆致重伤",
       "onboard_time": 1766714062,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16696,
-      "num": 159392,
-      "word": "名校校友回校枪杀了学生",
-      "onboard_time": 1766720001,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16271,
@@ -1377,11 +1449,22 @@
       "onboard_time": 1766685855,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 5832,
+      "num": 485157,
+      "word": "2025微盘点",
+      "onboard_time": 1766721680,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#2025世界见证中国担当#"
+    },
+    {
+      "word": "#难忘2025向前2026#"
     }
   ]
 }
