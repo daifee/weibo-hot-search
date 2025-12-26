@@ -1,0 +1,410 @@
+{
+  "runTime": 1766766825069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329056,
+        "num": 803760,
+        "word": "骄阳似我",
+        "onboard_time": 1766742622,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234946,
+        "num": 234946,
+        "word": "指导老师回应本科生连发40多篇SCI",
+        "onboard_time": 1766762901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15361,
+        "num": 234918,
+        "word": "故事里的2025",
+        "onboard_time": 1766756422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470173,
+        "num": 233860,
+        "word": "宋威龙赵今麦杀死了现偶比赛",
+        "onboard_time": 1766756001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164393,
+        "num": 233490,
+        "word": "抓紧去个税App确认这个信息",
+        "onboard_time": 1766752640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683341,
+        "num": 232671,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1766759842,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 354769,
+        "num": 232290,
+        "word": "8旬老人与保姆发生性关系感染HIV",
+        "onboard_time": 1766756063,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286260,
+        "num": 231781,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766752881,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137480,
+        "num": 231179,
+        "word": "张继科说当年队医拿葡萄糖当封闭",
+        "onboard_time": 1766747239,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116850,
+        "num": 230509,
+        "word": "保时捷门店总经理带头搬空展厅",
+        "onboard_time": 1766762301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608429,
+        "num": 229889,
+        "word": "赵丽颖杀青照嫩成这样",
+        "onboard_time": 1766764040,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 490954,
+        "num": 229525,
+        "word": "和睦家医院回应女明星生产信息疑被泄露",
+        "onboard_time": 1766740581,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 373788,
+        "num": 228768,
+        "word": "小泡芙 女大十八变",
+        "onboard_time": 1766746039,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228572,
+        "num": 228572,
+        "word": "王橹杰新音舞台",
+        "onboard_time": 1766761282,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202600,
+        "num": 202600,
+        "word": "陈妍希老了还是沈佳宜",
+        "onboard_time": 1766760861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182805,
+        "num": 182805,
+        "word": "陈奕恒大屏怼脸生图",
+        "onboard_time": 1766766081,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181131,
+        "num": 181131,
+        "word": "11岁留守女童遭亲戚猥亵老人不追究",
+        "onboard_time": 1766762781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179354,
+        "num": 179354,
+        "word": "蔡徐坤去看邓紫棋演唱会了",
+        "onboard_time": 1766758882,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 163946,
+        "word": "王安宇竟然有160斤",
+        "onboard_time": 1766747541,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149087,
+        "num": 149087,
+        "word": "朱志鑫苏新皓ON双人舞",
+        "onboard_time": 1766754921,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 131186,
+        "word": "宋威龙 我让你挑",
+        "onboard_time": 1766755942,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125824,
+        "num": 125824,
+        "word": "王橹杰滑跪",
+        "onboard_time": 1766754921,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122816,
+        "num": 122816,
+        "word": "李宏毅直播",
+        "onboard_time": 1766755641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117648,
+        "num": 117648,
+        "word": "原来肖战思考得这么细",
+        "onboard_time": 1766758281,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115245,
+        "num": 115245,
+        "word": "燕云玩家希望谭晶慎重考虑合作",
+        "onboard_time": 1766754441,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114954,
+        "num": 114954,
+        "word": "刘宇宁直播",
+        "onboard_time": 1766762301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114481,
+        "num": 114481,
+        "word": "内娱少有的文艺美人",
+        "onboard_time": 1766760982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111764,
+        "num": 111764,
+        "word": "朱志鑫扭胯领域绝对的统治区",
+        "onboard_time": 1766758941,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "骄阳似我 上头",
+        "onboard_time": 1766764100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74053,
+        "num": 109644,
+        "word": "毛新宇说网友称爷爷为教员贴切",
+        "onboard_time": 1766747541,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102182,
+        "num": 109578,
+        "word": "怪奇物语",
+        "onboard_time": 1766745320,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89987,
+        "num": 109553,
+        "word": "女子彻夜充电致全身70%烧伤",
+        "onboard_time": 1766741599,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87827,
+        "num": 109474,
+        "word": "苏新皓好韩",
+        "onboard_time": 1766745920,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81803,
+        "num": 109460,
+        "word": "查理苏",
+        "onboard_time": 1766762961,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80109,
+        "num": 109406,
+        "word": "早餐店汤里死老鼠脚已熬得发白",
+        "onboard_time": 1766743220,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78999,
+        "num": 109338,
+        "word": "海男爆料张凯毅",
+        "onboard_time": 1766765780,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75078,
+        "num": 109275,
+        "word": "TF家族新音",
+        "onboard_time": 1766737279,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75010,
+        "num": 109242,
+        "word": "杨博文幻梦都破碎返场",
+        "onboard_time": 1766759782,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19108,
+        "num": 109208,
+        "word": "货车出事故后被哄抢货物全部追回",
+        "onboard_time": 1766766021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74851,
+        "num": 109163,
+        "word": "严浩翔SHAKE舞台",
+        "onboard_time": 1766752761,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71176,
+        "num": 109104,
+        "word": "赵今麦剪刀手",
+        "onboard_time": 1766762361,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68330,
+        "num": 109038,
+        "word": "张桂源一直在勾引",
+        "onboard_time": 1766757622,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67673,
+        "num": 108995,
+        "word": "恋与深空直播",
+        "onboard_time": 1766749223,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67608,
+        "num": 108942,
+        "word": "肖战特别喜欢看观众解读",
+        "onboard_time": 1766752461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66575,
+        "num": 108911,
+        "word": "恋与深空兑换码",
+        "onboard_time": 1766751741,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 108833,
+        "word": "霍启刚郭晶晶一家逛街买奶茶",
+        "onboard_time": 1766753241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64264,
+        "num": 108822,
+        "word": "严浩翔金发生图",
+        "onboard_time": 1766747061,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63655,
+        "num": 108752,
+        "word": "恋与深空银河卡",
+        "onboard_time": 1766765180,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60773,
+        "num": 108727,
+        "word": "左奇函daddy级别",
+        "onboard_time": 1766762721,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39656,
+        "num": 108669,
+        "word": "徐杰22分",
+        "onboard_time": 1766763499,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开民主生活会#"
+    }
+  }
+}

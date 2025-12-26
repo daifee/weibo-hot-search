@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/26 23:43:24
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 00:33:45
 </p>
 </blockquote>
 <p>
@@ -5061,6 +5061,12 @@ Angelababy金粉裙（热度：624496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9D%80%E9%9D%92%E7%85%A7%E5%AB%A9%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+赵丽颖杀青照嫩成这样（热度：608429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%B3%E5%97%BD%E4%B8%8D%E6%AD%A2%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C%23" target="weibo">
 24岁女生咳嗽不止查出肺癌（热度：607906）
 </a>
@@ -6005,12 +6011,6 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E5%81%B7%E8%B5%B0%E5%A9%86%E5%A9%8643%E4%B8%87%E5%85%83KTV%E5%86%85%E6%8C%A5%E9%9C%8D%E4%B8%80%E7%A9%BA%23" target="weibo">
 儿媳偷走婆婆43万元KTV内挥霍一空（热度：550955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%8C%BB%E7%94%9F%E8%B4%A6%E5%8F%B7%E5%8F%91%E6%89%8B%E6%9C%AF%E5%AE%A4%E8%A7%86%E9%A2%91%E5%A3%B0%E6%8F%B4%E5%B0%8F%E6%B4%9B%E7%86%99%23" target="weibo">
-多个医生账号发手术室视频声援小洛熙（热度：550632）
 </a>
 </li>
 
