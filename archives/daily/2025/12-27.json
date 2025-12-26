@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766776983628,
+  "endTime": 1766777851352,
   "band_list": [
     {
       "raw_hot": 683341,
@@ -483,12 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26424,
+      "num": 55209,
+      "word": "贺峻霖五年前的愿望实现了",
+      "onboard_time": 1766776575,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25973,
       "num": 61540,
       "word": "TF家族新年音乐会",
       "onboard_time": 1766774714,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25972,
+      "num": 55113,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 25946,
@@ -563,12 +579,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22519,
-      "num": 55209,
-      "word": "贺峻霖五年前的愿望实现了",
-      "onboard_time": 1766776575,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 22616,
+      "num": 33932,
+      "word": "TF四代新音饭拍",
+      "onboard_time": 1766777474,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 21303,
@@ -577,14 +593,6 @@
       "onboard_time": 1766756721,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20016,
-      "num": 55113,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 19482,

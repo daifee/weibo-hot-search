@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766776983628,
+  "endTime": 1766777851352,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -21451,6 +21451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26424,
+      "num": 55209,
+      "word": "贺峻霖五年前的愿望实现了",
+      "onboard_time": 1766776575,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26323,
       "num": 55444,
       "word": "别给汪苏泷的嘴留档期",
@@ -21465,6 +21473,14 @@
       "onboard_time": 1766567662,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25972,
+      "num": 55113,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 25906,
@@ -21795,12 +21811,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22519,
-      "num": 55209,
-      "word": "贺峻霖五年前的愿望实现了",
-      "onboard_time": 1766776575,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 22616,
+      "num": 33932,
+      "word": "TF四代新音饭拍",
+      "onboard_time": 1766777474,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 22468,
@@ -22041,14 +22057,6 @@
       "onboard_time": 1766482821,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20016,
-      "num": 55113,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 20012,
