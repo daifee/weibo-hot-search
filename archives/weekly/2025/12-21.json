@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766766825069,
+  "endTime": 1766767694277,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -5139,6 +5139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266284,
+      "num": 266284,
+      "word": "指导老师回应本科生连发40多篇SCI",
+      "onboard_time": 1766762901,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265142,
       "num": 265142,
       "word": "朱美吉好美",
@@ -5585,14 +5593,6 @@
       "onboard_time": 1766389521,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 234946,
-      "num": 234946,
-      "word": "指导老师回应本科生连发40多篇SCI",
-      "onboard_time": 1766762901,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234707,
@@ -7011,6 +7011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "11岁留守女童遭亲戚猥亵老人不追究",
+      "onboard_time": 1766762781,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194417,
       "num": 194417,
       "word": "宋祖儿刘宇宁一起走红毯",
@@ -7857,14 +7865,6 @@
       "onboard_time": 1766729961,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181131,
-      "num": 181131,
-      "word": "11岁留守女童遭亲戚猥亵老人不追究",
-      "onboard_time": 1766762781,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180853,
@@ -10435,6 +10435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143358,
+      "num": 250048,
+      "word": "燕云玩家希望谭晶慎重考虑合作",
+      "onboard_time": 1766754441,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143305,
       "num": 143305,
       "word": "马刺三杀雷霆",
@@ -10659,6 +10667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141022,
+      "num": 230509,
+      "word": "保时捷门店总经理带头搬空展厅",
+      "onboard_time": 1766762301,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140996,
       "num": 140996,
       "word": "肉宝王",
@@ -10859,6 +10875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 138028,
+      "num": 138028,
+      "word": "宋威龙演技",
+      "onboard_time": 1766711242,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137999,
       "num": 144637,
       "word": "骄阳似我 求加更",
@@ -11057,14 +11081,6 @@
       "onboard_time": 1766553743,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136407,
-      "num": 136407,
-      "word": "燕云玩家希望谭晶慎重考虑合作",
-      "onboard_time": 1766754441,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 136404,
@@ -12811,14 +12827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120071,
-      "num": 120071,
-      "word": "宋威龙演技",
-      "onboard_time": 1766711242,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120025,
       "num": 120025,
       "word": "李兰迪 比巴掌先来的是姐姐的香气",
@@ -13209,14 +13217,6 @@
       "onboard_time": 1766392941,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116850,
-      "num": 230509,
-      "word": "保时捷门店总经理带头搬空展厅",
-      "onboard_time": 1766762301,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116672,
@@ -16427,6 +16427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90197,
+      "num": 109338,
+      "word": "海男爆料张凯毅",
+      "onboard_time": 1766765780,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 90148,
       "num": 90148,
       "word": "今年车厘子价格大跳水",
@@ -17411,14 +17419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78999,
-      "num": 109338,
-      "word": "海男爆料张凯毅",
-      "onboard_time": 1766765780,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 78541,
       "num": 148451,
       "word": "微博年度汽车大选",
@@ -17433,6 +17433,14 @@
       "onboard_time": 1766580022,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 78253,
+      "num": 90172,
+      "word": "侯明昊新歌撤退舞台妙哉妙哉",
+      "onboard_time": 1766767399,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 78195,
@@ -18577,6 +18585,14 @@
       "onboard_time": 1766651541,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61567,
+      "num": 90076,
+      "word": "做美甲前vs做美甲后",
+      "onboard_time": 1766766678,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 61561,
@@ -20331,6 +20347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37048,
+      "num": 109208,
+      "word": "货车出事故后被哄抢货物全部追回",
+      "onboard_time": 1766766021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36928,
       "num": 83771,
       "word": "新疆活体帝王蟹进口破亿元",
@@ -20761,6 +20785,14 @@
       "onboard_time": 1766311703,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32716,
+      "num": 90042,
+      "word": "石宇奇晋级天王杯四强",
+      "onboard_time": 1766764639,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 32635,
@@ -21985,14 +22017,6 @@
       "onboard_time": 1766429174,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19108,
-      "num": 109208,
-      "word": "货车出事故后被哄抢货物全部追回",
-      "onboard_time": 1766766021,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19057,

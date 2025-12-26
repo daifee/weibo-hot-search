@@ -1,10 +1,10 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766766825069,
+  "endTime": 1766767694277,
   "band_list": [
     {
       "raw_hot": 683341,
-      "num": 232671,
+      "num": 236947,
       "word": "同事为了请假已经不择手段了",
       "onboard_time": 1766759842,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 470173,
-      "num": 233860,
+      "num": 254533,
       "word": "宋威龙赵今麦杀死了现偶比赛",
       "onboard_time": 1766756001,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 354769,
-      "num": 232290,
+      "num": 233810,
       "word": "8旬老人与保姆发生性关系感染HIV",
       "onboard_time": 1766756063,
       "rank": 6,
@@ -67,8 +67,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 234946,
-      "num": 234946,
+      "raw_hot": 266284,
+      "num": 266284,
       "word": "指导老师回应本科生连发40多篇SCI",
       "onboard_time": 1766762901,
       "rank": 1,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "11岁留守女童遭亲戚猥亵老人不追究",
+      "onboard_time": 1766762781,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182805,
       "num": 182805,
       "word": "陈奕恒大屏怼脸生图",
       "onboard_time": 1766766081,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181131,
-      "num": 181131,
-      "word": "11岁留守女童遭亲戚猥亵老人不追究",
-      "onboard_time": 1766762781,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179354,
@@ -137,6 +137,30 @@
       "onboard_time": 1766754921,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143358,
+      "num": 250048,
+      "word": "燕云玩家希望谭晶慎重考虑合作",
+      "onboard_time": 1766754441,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141022,
+      "num": 230509,
+      "word": "保时捷门店总经理带头搬空展厅",
+      "onboard_time": 1766762301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138028,
+      "num": 138028,
+      "word": "宋威龙演技",
+      "onboard_time": 1766767038,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 137480,
@@ -179,22 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116850,
-      "num": 230509,
-      "word": "保时捷门店总经理带头搬空展厅",
-      "onboard_time": 1766762301,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115245,
-      "num": 115245,
-      "word": "燕云玩家希望谭晶慎重考虑合作",
-      "onboard_time": 1766754441,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114954,
       "num": 114954,
       "word": "刘宇宁直播",
@@ -227,12 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102182,
+      "raw_hot": 106489,
       "num": 109578,
       "word": "怪奇物语",
       "onboard_time": 1766745320,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90197,
+      "num": 109338,
+      "word": "海男爆料张凯毅",
+      "onboard_time": 1766765780,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 89987,
@@ -267,20 +283,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78999,
-      "num": 109338,
-      "word": "海男爆料张凯毅",
-      "onboard_time": 1766765780,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 75078,
+      "raw_hot": 78957,
       "num": 109275,
       "word": "TF家族新音",
       "onboard_time": 1766737279,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78253,
+      "num": 90172,
+      "word": "侯明昊新歌撤退舞台妙哉妙哉",
+      "onboard_time": 1766767399,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76457,
+      "num": 108911,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1766751741,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 75010,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70440,
+      "num": 108995,
+      "word": "恋与深空直播",
+      "onboard_time": 1766749223,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68330,
       "num": 109038,
       "word": "张桂源一直在勾引",
@@ -323,28 +355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 67673,
-      "num": 108995,
-      "word": "恋与深空直播",
-      "onboard_time": 1766749223,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 67608,
       "num": 108942,
       "word": "肖战特别喜欢看观众解读",
       "onboard_time": 1766752461,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66575,
-      "num": 108911,
-      "word": "恋与深空兑换码",
-      "onboard_time": 1766751741,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 64755,
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61567,
+      "num": 90076,
+      "word": "做美甲前vs做美甲后",
+      "onboard_time": 1766766678,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60773,
       "num": 108727,
       "word": "左奇函daddy级别",
@@ -387,7 +411,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19108,
+      "raw_hot": 37048,
       "num": 109208,
       "word": "货车出事故后被哄抢货物全部追回",
       "onboard_time": 1766766021,
@@ -395,8 +419,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32716,
+      "num": 90042,
+      "word": "石宇奇晋级天王杯四强",
+      "onboard_time": 1766764639,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15361,
-      "num": 234918,
+      "num": 259095,
       "word": "故事里的2025",
       "onboard_time": 1766756422,
       "rank": 2,
