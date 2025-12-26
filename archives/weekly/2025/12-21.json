@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766791666309,
+  "endTime": 1766792516068,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -3619,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370661,
+      "num": 907239,
+      "word": "台湾网友听到台湾终于被点激动哭了",
+      "onboard_time": 1766791637,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367893,
       "num": 367893,
       "word": "白鹿星光大赏妆",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1766320164,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316872,
+      "num": 172556,
+      "word": "波司登取消了李宏毅的活动",
+      "onboard_time": 1766791637,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 316853,
@@ -5875,14 +5891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221660,
-      "num": 779371,
-      "word": "台湾网友听到台湾终于被点激动哭了",
-      "onboard_time": 1766791637,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221452,
       "num": 221452,
       "word": "这是烤冷面那我以前吃的算什么",
@@ -6219,6 +6227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208417,
+      "num": 483941,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208191,
       "num": 208191,
       "word": "通知李飞时代峰峻改名了",
@@ -6523,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "韩束",
+      "onboard_time": 1766791397,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 202828,
       "num": 172431,
       "word": "这就是理想的婚姻生活吧",
@@ -6609,14 +6633,6 @@
       "onboard_time": 1766288841,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201860,
-      "num": 483941,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 201571,
@@ -8379,20 +8395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172993,
+      "num": 205545,
+      "word": "保时捷车主发声",
+      "onboard_time": 1766772076,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172809,
       "num": 172809,
       "word": "时代少年团爱你爱我爱我们",
       "onboard_time": 1766661680,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172556,
-      "num": 172556,
-      "word": "波司登取消了李宏毅的活动",
-      "onboard_time": 1766791637,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 172520,
@@ -10251,14 +10267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145661,
-      "num": 193333,
-      "word": "保时捷车主发声",
-      "onboard_time": 1766772076,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145636,
       "num": 145636,
       "word": "AG剧透",
@@ -11059,6 +11067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136815,
+      "num": 177369,
+      "word": "赵丽颖出演逍遥源于10年前的约定",
+      "onboard_time": 1766787493,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136682,
       "num": 136682,
       "word": "何穗会为了儿子不想出差",
@@ -11089,6 +11105,14 @@
       "onboard_time": 1766559860,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136481,
+      "num": 65306,
+      "word": "周大福牛马吊坠为何被批",
+      "onboard_time": 1766791577,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136473,
@@ -11129,14 +11153,6 @@
       "onboard_time": 1766755702,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136348,
-      "num": 177369,
-      "word": "赵丽颖出演逍遥源于10年前的约定",
-      "onboard_time": 1766787493,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 136278,
@@ -11689,6 +11705,14 @@
       "onboard_time": 1766486661,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130519,
+      "num": 64896,
+      "word": "羽绒服和棉服到底哪个更值得买",
+      "onboard_time": 1766788395,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 130496,
@@ -13571,14 +13595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113661,
-      "num": 57728,
-      "word": "羽绒服和棉服到底哪个更值得买",
-      "onboard_time": 1766788395,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 113516,
       "num": 113516,
       "word": "离岸人民币一度升穿7.0关口",
@@ -14545,6 +14561,14 @@
       "onboard_time": 1766667201,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105855,
+      "num": 105855,
+      "word": "从何以琛到林屿森",
+      "onboard_time": 1766788215,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 105719,
@@ -15947,14 +15971,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96140,
-      "num": 57696,
-      "word": "周大福牛马吊坠为何被批",
-      "onboard_time": 1766791577,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96102,
       "num": 96102,
       "word": "第一次听到这个月工资这个月发",
@@ -16963,6 +16979,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 85537,
+      "num": 43037,
+      "word": "狗狗拉练高速跑时突然原地石化",
+      "onboard_time": 1766791998,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85368,
       "num": 85368,
       "word": "她不想复习也想及格",
@@ -17393,6 +17417,14 @@
       "onboard_time": 1766570003,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80456,
+      "num": 80456,
+      "word": "鹿晗新歌",
+      "onboard_time": 1766792357,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 80441,
@@ -17875,6 +17907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73407,
+      "num": 73407,
+      "word": "网红面包卖不动了",
+      "onboard_time": 1766791998,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73317,
       "num": 110159,
       "word": "男子发现女儿非亲生仍独自抚养五年",
@@ -18113,14 +18153,6 @@
       "onboard_time": 1766641402,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69653,
-      "num": 69653,
-      "word": "从何以琛到林屿森",
-      "onboard_time": 1766788215,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 69413,
@@ -18675,6 +18707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61594,
+      "num": 61594,
+      "word": "看完才发现以前白浪费好多钱",
+      "onboard_time": 1766792058,
+      "rank": 25,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 61561,
       "num": 61561,
       "word": "吃车厘子每天不建议超过15颗",
@@ -18795,6 +18835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 59903,
+      "num": 42723,
+      "word": "慕尼黑至北京航班上一乘客病亡",
+      "onboard_time": 1766791998,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59762,
       "num": 200362,
       "word": "江寻千雪雕大作落地哈尔滨",
@@ -18897,14 +18945,6 @@
       "onboard_time": 1766733740,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57745,
-      "num": 57745,
-      "word": "韩束",
-      "onboard_time": 1766791397,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 57538,
@@ -19113,6 +19153,14 @@
       "onboard_time": 1766708960,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54279,
+      "num": 42522,
+      "word": "去狗咖把小狗全都哄睡着了",
+      "onboard_time": 1766792417,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 54208,
@@ -19331,6 +19379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52323,
+      "num": 42399,
+      "word": "美国流浪童星被资助后打砸房间",
+      "onboard_time": 1766792477,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51925,
       "num": 143858,
       "word": "肖战的电影路竟给自己上难度了",
@@ -19457,6 +19513,14 @@
       "onboard_time": 1766728280,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50296,
+      "num": 42105,
+      "word": "俄男子喝液氮鸡尾酒胃瞬间撑爆倒地",
+      "onboard_time": 1766792477,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50211,
@@ -20067,6 +20131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42021,
+      "num": 42021,
+      "word": "刘宇宁 气胸早都好了",
+      "onboard_time": 1766791998,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41953,
       "num": 112633,
       "word": "美国大叔发夜游视频感慨中国自由",
@@ -20097,6 +20169,22 @@
       "onboard_time": 1766416702,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41361,
+      "num": 41361,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41317,
+      "num": 39937,
+      "word": "白鹿跨年彩排清唱临江仙",
+      "onboard_time": 1766791696,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 41077,
@@ -20267,14 +20355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39324,
-      "num": 39324,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 39240,
       "num": 117276,
       "word": "日本为了拥核开始碰瓷",
@@ -20384,6 +20464,14 @@
       "word": "龚俊出发参加星光大赏",
       "onboard_time": 1766251099,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37885,
+      "num": 37885,
+      "word": "美好中国新歌会",
+      "onboard_time": 1766792297,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -20523,6 +20611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36130,
+      "num": 36130,
+      "word": "小猫会辨别喜欢的妈妈和讨厌的爸爸",
+      "onboard_time": 1766790017,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36089,
       "num": 215523,
       "word": "AI救我狗命",
@@ -20569,6 +20665,14 @@
       "onboard_time": 1766297482,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35724,
+      "num": 36808,
+      "word": "江苏卫视跨年演唱会",
+      "onboard_time": 1766791816,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 35616,
@@ -20769,6 +20873,14 @@
       "onboard_time": 1766483180,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34055,
+      "num": 36129,
+      "word": "以色列拒绝14国要求",
+      "onboard_time": 1766778134,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33889,
@@ -20987,14 +21099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31960,
-      "num": 33862,
-      "word": "以色列拒绝14国要求",
-      "onboard_time": 1766778134,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31910,
       "num": 921087,
       "word": "故事里的2025",
@@ -21201,14 +21305,6 @@
       "onboard_time": 1766427554,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30207,
-      "num": 33857,
-      "word": "小猫会辨别喜欢的妈妈和讨厌的爸爸",
-      "onboard_time": 1766790017,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 30097,

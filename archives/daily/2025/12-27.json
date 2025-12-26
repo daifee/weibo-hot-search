@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766791666309,
+  "endTime": 1766792516068,
   "band_list": [
     {
       "raw_hot": 683341,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370661,
+      "num": 907239,
+      "word": "台湾网友听到台湾终于被点激动哭了",
+      "onboard_time": 1766791637,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354769,
       "num": 233810,
       "word": "8旬老人与保姆发生性关系感染HIV",
@@ -57,6 +65,14 @@
       "onboard_time": 1766742622,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316872,
+      "num": 172556,
+      "word": "波司登取消了李宏毅的活动",
+      "onboard_time": 1766791637,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 286260,
@@ -83,12 +99,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221660,
-      "num": 779371,
-      "word": "台湾网友听到台湾终于被点激动哭了",
-      "onboard_time": 1766791637,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 208417,
+      "num": 483941,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "韩束",
+      "onboard_time": 1766791397,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 202600,
@@ -97,14 +121,6 @@
       "onboard_time": 1766760861,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201860,
-      "num": 483941,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 194476,
@@ -131,12 +147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172556,
-      "num": 172556,
-      "word": "波司登取消了李宏毅的活动",
-      "onboard_time": 1766791637,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 172993,
+      "num": 205545,
+      "word": "保时捷车主发声",
+      "onboard_time": 1766772076,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164393,
@@ -161,14 +177,6 @@
       "onboard_time": 1766754921,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145661,
-      "num": 193333,
-      "word": "保时捷车主发声",
-      "onboard_time": 1766772076,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143358,
@@ -203,12 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136348,
+      "raw_hot": 136815,
       "num": 177369,
       "word": "赵丽颖出演逍遥源于10年前的约定",
       "onboard_time": 1766787493,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136481,
+      "num": 65306,
+      "word": "周大福牛马吊坠为何被批",
+      "onboard_time": 1766791577,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131186,
@@ -217,6 +233,14 @@
       "onboard_time": 1766755942,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130519,
+      "num": 64896,
+      "word": "羽绒服和棉服到底哪个更值得买",
+      "onboard_time": 1766788395,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125824,
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113661,
-      "num": 57728,
-      "word": "羽绒服和棉服到底哪个更值得买",
-      "onboard_time": 1766788395,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 111764,
       "num": 111764,
       "word": "朱志鑫扭胯领域绝对的统治区",
@@ -299,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96140,
-      "num": 57696,
-      "word": "周大福牛马吊坠为何被批",
-      "onboard_time": 1766791577,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 105855,
+      "num": 105855,
+      "word": "从何以琛到林屿森",
+      "onboard_time": 1766788215,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 91605,
@@ -339,12 +355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85537,
+      "num": 43037,
+      "word": "狗狗拉练高速跑时突然原地石化",
+      "onboard_time": 1766791998,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81803,
       "num": 109460,
       "word": "查理苏",
       "onboard_time": 1766762961,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80456,
+      "num": 80456,
+      "word": "鹿晗新歌",
+      "onboard_time": 1766792357,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 80109,
@@ -411,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73407,
+      "num": 73407,
+      "word": "网红面包卖不动了",
+      "onboard_time": 1766791998,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71176,
       "num": 109104,
       "word": "赵今麦剪刀手",
@@ -425,14 +465,6 @@
       "onboard_time": 1766749223,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69653,
-      "num": 69653,
-      "word": "从何以琛到林屿森",
-      "onboard_time": 1766788215,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 68330,
@@ -475,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61594,
+      "num": 61594,
+      "word": "看完才发现以前白浪费好多钱",
+      "onboard_time": 1766792058,
+      "rank": 25,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 60773,
       "num": 108727,
       "word": "左奇函daddy级别",
@@ -483,12 +523,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57745,
-      "num": 57745,
-      "word": "韩束",
-      "onboard_time": 1766791397,
-      "rank": 19,
-      "category": "美妆"
+      "raw_hot": 59903,
+      "num": 42723,
+      "word": "慕尼黑至北京航班上一乘客病亡",
+      "onboard_time": 1766791998,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54279,
+      "num": 42522,
+      "word": "去狗咖把小狗全都哄睡着了",
+      "onboard_time": 1766792417,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52323,
+      "num": 42399,
+      "word": "美国流浪童星被资助后打砸房间",
+      "onboard_time": 1766792477,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51003,
@@ -497,6 +553,38 @@
       "onboard_time": 1766751561,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 50296,
+      "num": 42105,
+      "word": "俄男子喝液氮鸡尾酒胃瞬间撑爆倒地",
+      "onboard_time": 1766792477,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42021,
+      "num": 42021,
+      "word": "刘宇宁 气胸早都好了",
+      "onboard_time": 1766791998,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41361,
+      "num": 41361,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41317,
+      "num": 39937,
+      "word": "白鹿跨年彩排清唱临江仙",
+      "onboard_time": 1766791696,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 40323,
@@ -515,12 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39324,
-      "num": 39324,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 37885,
+      "num": 37885,
+      "word": "美好中国新歌会",
+      "onboard_time": 1766792297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37490,
+      "num": 36534,
+      "word": "骄阳似我热度",
+      "onboard_time": 1766791756,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 37292,
@@ -531,6 +627,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36130,
+      "num": 36130,
+      "word": "小猫会辨别喜欢的妈妈和讨厌的爸爸",
+      "onboard_time": 1766790017,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35724,
+      "num": 36808,
+      "word": "江苏卫视跨年演唱会",
+      "onboard_time": 1766791816,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35010,
       "num": 74116,
       "word": "浙江卫视跨年晚会",
@@ -539,28 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32716,
-      "num": 90042,
-      "word": "石宇奇晋级天王杯四强",
-      "onboard_time": 1766764639,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31960,
-      "num": 33862,
+      "raw_hot": 34055,
+      "num": 36129,
       "word": "以色列拒绝14国要求",
       "onboard_time": 1766778134,
       "rank": 23,
       "category": "国际时政"
     },
     {
-      "raw_hot": 30207,
-      "num": 33857,
-      "word": "小猫会辨别喜欢的妈妈和讨厌的爸爸",
-      "onboard_time": 1766790017,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 32716,
+      "num": 90042,
+      "word": "石宇奇晋级天王杯四强",
+      "onboard_time": 1766764639,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 29383,
@@ -739,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16531,
+      "num": 208372,
+      "word": "这些大国工程见证中国之变",
+      "onboard_time": 1766756063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16397,
       "num": 27254,
       "word": "贺峻霖终于唱了燕窝",
@@ -761,14 +873,6 @@
       "onboard_time": 1766781494,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14037,
-      "num": 201272,
-      "word": "这些大国工程见证中国之变",
-      "onboard_time": 1766756063,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13643,
