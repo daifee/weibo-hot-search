@@ -1,0 +1,410 @@
+{
+  "runTime": 1766742291595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2477289,
+        "num": 2477289,
+        "word": "和睦家医院回应女明星生产信息疑被泄露",
+        "onboard_time": 1766740581,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 518930,
+        "num": 518930,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5804,
+        "num": 515815,
+        "word": "中国高铁运营里程破5万公里",
+        "onboard_time": 1766742200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1813966,
+        "num": 497670,
+        "word": "燕云情趣内衣外国人都看不下去了",
+        "onboard_time": 1766737641,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1235791,
+        "num": 471398,
+        "word": "TF家族新音",
+        "onboard_time": 1766737279,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 898325,
+        "num": 457521,
+        "word": "淫秽的认定尺度",
+        "onboard_time": 1766735180,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 779881,
+        "num": 450462,
+        "word": "张柏芝剖腹产回家身边没有人在",
+        "onboard_time": 1766738720,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434873,
+        "num": 434873,
+        "word": "下周上四休三",
+        "onboard_time": 1766733380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382135,
+        "num": 382135,
+        "word": "王者荣耀",
+        "onboard_time": 1766736799,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216302,
+        "num": 216302,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322501,
+        "num": 214051,
+        "word": "2026央视跨年晚会官宣",
+        "onboard_time": 1766738481,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302710,
+        "num": 211653,
+        "word": "王橹杰 请保持苹果肌扁平",
+        "onboard_time": 1766738901,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296985,
+        "num": 210166,
+        "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
+        "onboard_time": 1766734520,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24988,
+        "num": 207759,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241431,
+        "num": 203994,
+        "word": "女子被丈夫闺蜜双重背叛一夜白头",
+        "onboard_time": 1766736020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241052,
+        "num": 202088,
+        "word": "赵丽颖回应出演逍遥",
+        "onboard_time": 1766735900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199595,
+        "num": 199595,
+        "word": "美人口占全球4%却供应了70%血浆",
+        "onboard_time": 1766738181,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30924,
+        "num": 199347,
+        "word": "年度夯机荣耀WIN价格真香",
+        "onboard_time": 1766738062,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41673,
+        "num": 198498,
+        "word": "荣耀官宣签约三角洲职业联赛",
+        "onboard_time": 1766740219,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40827,
+        "num": 196727,
+        "word": "LV客服称新鞋可先穿袜子磨合",
+        "onboard_time": 1766741121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531685,
+        "num": 195723,
+        "word": "曝陈宥维拼多多给女友买穿戴甲",
+        "onboard_time": 1766740699,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225344,
+        "num": 195348,
+        "word": "赵丽颖小骨长成师尊了",
+        "onboard_time": 1766741599,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194513,
+        "num": 194513,
+        "word": "超级实用的美甲出现了",
+        "onboard_time": 1766739501,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186547,
+        "num": 186547,
+        "word": "中方反制20家美军工相关企业",
+        "onboard_time": 1766742081,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183185,
+        "num": 183185,
+        "word": "新音直播吗",
+        "onboard_time": 1766734581,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168621,
+        "num": 168621,
+        "word": "沙特空袭也门",
+        "onboard_time": 1766737822,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157592,
+        "num": 157592,
+        "word": "严浩翔 爱的最高境界是心疼",
+        "onboard_time": 1766741241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152480,
+        "num": 152480,
+        "word": "安徽小伙辍学卖馒头今年已赚13亿",
+        "onboard_time": 1766738121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151712,
+        "num": 151712,
+        "word": "向佐线下长这样",
+        "onboard_time": 1766740699,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98140,
+        "num": 145188,
+        "word": "天禧AI从助手到队友",
+        "onboard_time": 1766741720,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143830,
+        "num": 143830,
+        "word": "王一博超级不喜欢被人看的感觉",
+        "onboard_time": 1766731759,
+        "rank": 30,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 142953,
+        "num": 142953,
+        "word": "陈奕恒期待跟大家见面",
+        "onboard_time": 1766741481,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139150,
+        "num": 139150,
+        "word": "霸王茶姬回应咖啡因",
+        "onboard_time": 1766732540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131842,
+        "num": 131842,
+        "word": "哈尔滨一定要体验零下20度吃雪糕",
+        "onboard_time": 1766741000,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 13703,
+        "num": 117013,
+        "word": "中方决定反制美方军工相关企业及高管",
+        "onboard_time": 1766742200,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112769,
+        "num": 112769,
+        "word": "印尼天空呈血红色",
+        "onboard_time": 1766741181,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77057,
+        "num": 112116,
+        "word": "韩网夸中文浪漫",
+        "onboard_time": 1766741481,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121971,
+        "num": 112105,
+        "word": "女子彻夜充电致全身70%烧伤",
+        "onboard_time": 1766741599,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126315,
+        "num": 112070,
+        "word": "燕云十六声",
+        "onboard_time": 1766731820,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112014,
+        "num": 112014,
+        "word": "把手机电池容量用到了0",
+        "onboard_time": 1766741061,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111689,
+        "num": 111689,
+        "word": "剑来2的4K在考验我的设备",
+        "onboard_time": 1766740699,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110853,
+        "num": 110853,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106298,
+        "num": 106298,
+        "word": "陈浚铭新音妆造",
+        "onboard_time": 1766740821,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105719,
+        "num": 105719,
+        "word": "善良遇上善良在此刻具象化了",
+        "onboard_time": 1766741662,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105089,
+        "num": 105089,
+        "word": "王楚钦祝大家马到成功",
+        "onboard_time": 1766741720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101717,
+        "num": 101717,
+        "word": "李煜东 大家期待一下舞台吧",
+        "onboard_time": 1766740461,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 101131,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100172,
+        "num": 100172,
+        "word": "连跨年朋友圈素材都能预制了",
+        "onboard_time": 1766737400,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99005,
+        "num": 99005,
+        "word": "Letme说LPL整体水平在提升",
+        "onboard_time": 1766741662,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}
