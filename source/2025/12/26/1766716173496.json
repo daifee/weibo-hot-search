@@ -1,0 +1,410 @@
+{
+  "runTime": 1766716173496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523739,
+        "num": 1083798,
+        "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+        "onboard_time": 1766712022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495243,
+        "num": 495243,
+        "word": "19岁男子强奸女子赔10万一审获刑",
+        "onboard_time": 1766709743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43022,
+        "num": 424387,
+        "word": "这种转卖行为正在侵犯公民个人信息",
+        "onboard_time": 1766708960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1011598,
+        "num": 424209,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 875322,
+        "num": 423172,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 402181,
+        "num": 402181,
+        "word": "男子在大理苍山疑自缢身亡",
+        "onboard_time": 1766712921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337962,
+        "num": 337962,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324992,
+        "num": 324992,
+        "word": "深大发博感谢孙颖莎",
+        "onboard_time": 1766714601,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286115,
+        "num": 286115,
+        "word": "孙颖莎缺席乒超半决赛",
+        "onboard_time": 1766714181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227252,
+        "num": 227252,
+        "word": "网红曾因贩毒获刑还被强制戒毒",
+        "onboard_time": 1766710102,
+        "rank": 9,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 1038615,
+        "num": 225164,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635561,
+        "num": 223010,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 592316,
+        "num": 220474,
+        "word": "陈伟霆回应很大方官宣生子",
+        "onboard_time": 1766706380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314120,
+        "num": 215744,
+        "word": "朱孝天澄清声明",
+        "onboard_time": 1766674282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231410,
+        "num": 212352,
+        "word": "字节跳动通报120名员工被辞",
+        "onboard_time": 1766714421,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255177,
+        "num": 210663,
+        "word": "肖战ELLE开年刊",
+        "onboard_time": 1766715801,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209052,
+        "num": 209052,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208595,
+        "num": 208595,
+        "word": "玉茗茶骨定档",
+        "onboard_time": 1766715621,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262514,
+        "num": 205526,
+        "word": "陶晶莹建议朱孝天回应能冷静一点",
+        "onboard_time": 1766711901,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202273,
+        "num": 202273,
+        "word": "孟婆汤掺水好像越来越严重了",
+        "onboard_time": 1766708901,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496343,
+        "num": 202007,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215251,
+        "num": 201842,
+        "word": "吉林62岁女子怀孕",
+        "onboard_time": 1766704757,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201287,
+        "num": 201287,
+        "word": "何炅全年满档",
+        "onboard_time": 1766709140,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194905,
+        "num": 194905,
+        "word": "今年上班出勤率99%",
+        "onboard_time": 1766705058,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176879,
+        "num": 176879,
+        "word": "王橹杰 皮裤",
+        "onboard_time": 1766705598,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151600,
+        "num": 151600,
+        "word": "金莎曾说女大19天长地久",
+        "onboard_time": 1766711542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151524,
+        "num": 151524,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766715741,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148977,
+        "num": 148977,
+        "word": "泽连斯基碰瓷中国",
+        "onboard_time": 1766714841,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145687,
+        "num": 145687,
+        "word": "奶茶中的咖啡因含量比咖啡更高",
+        "onboard_time": 1766715621,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129427,
+        "num": 145372,
+        "word": "医生眼里最喜欢的动作",
+        "onboard_time": 1766711482,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "电影飞驰人生3定档春节",
+        "onboard_time": 1766715981,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137143,
+        "num": 137143,
+        "word": "陈妍希9岁儿子正脸照",
+        "onboard_time": 1766670381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136265,
+        "num": 136265,
+        "word": "卢伟冰将7999元小米新机口误成799",
+        "onboard_time": 1766715621,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128992,
+        "num": 128992,
+        "word": "江宏杰福原爱女儿儿子近照",
+        "onboard_time": 1766705177,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126847,
+        "num": 126847,
+        "word": "公务员网上网下别想两张面孔",
+        "onboard_time": 1766708360,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125175,
+        "num": 125175,
+        "word": "日本前所未有的熊尸危机",
+        "onboard_time": 1766672902,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120538,
+        "num": 120538,
+        "word": "上海走路违章",
+        "onboard_time": 1766712022,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84127,
+        "num": 120089,
+        "word": "精神病夫妻持斧砍邻居门窗十年",
+        "onboard_time": 1766715381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 120078,
+        "word": "一年制硕士成中产家庭标配",
+        "onboard_time": 1766715320,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 120071,
+        "num": 120071,
+        "word": "宋威龙演技",
+        "onboard_time": 1766711242,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117193,
+        "num": 117193,
+        "word": "2025最后几天冷暖大反转",
+        "onboard_time": 1766715801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113410,
+        "num": 113410,
+        "word": "燕云十六声飞白成诗优化",
+        "onboard_time": 1766715621,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112535,
+        "num": 112535,
+        "word": "罚罪2反馈",
+        "onboard_time": 1766711181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107238,
+        "num": 107238,
+        "word": "1人用身体撞人致其受伤死亡",
+        "onboard_time": 1766707040,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105009,
+        "num": 105009,
+        "word": "一诺24岁了",
+        "onboard_time": 1766715081,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100416,
+        "num": 100416,
+        "word": "黄金白银狂飙",
+        "onboard_time": 1766715801,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94918,
+        "num": 94918,
+        "word": "老舅",
+        "onboard_time": 1766699294,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85406,
+        "num": 85406,
+        "word": "蒋毅 赵樱子",
+        "onboard_time": 1766705539,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82925,
+        "num": 82925,
+        "word": "美国一人彩票中奖超127亿元",
+        "onboard_time": 1766674824,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78232,
+        "num": 78232,
+        "word": "人民币大涨原因",
+        "onboard_time": 1766712980,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025世界见证中国担当#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766714793783,
+  "endTime": 1766716173496,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -2227,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1038615,
+      "num": 225164,
+      "word": "肖战杂志",
+      "onboard_time": 1766714901,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1038164,
       "num": 223532,
       "word": "桃黑黑美团吃了20w",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1765587860,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1011598,
+      "num": 424209,
+      "word": "毛泽东号司机每天擦拭主席像",
+      "onboard_time": 1766714181,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1011359,
@@ -5923,6 +5939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 635561,
+      "num": 239936,
+      "word": "燕云十六声 抹胸",
+      "onboard_time": 1766711361,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 635558,
       "num": 387591,
       "word": "哈尔滨一男子冻到血管破裂",
@@ -6393,14 +6417,6 @@
       "onboard_time": 1764851061,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 612091,
-      "num": 239936,
-      "word": "燕云十六声 抹胸",
-      "onboard_time": 1766711361,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 612019,
@@ -8403,6 +8419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 523739,
+      "num": 1083798,
+      "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
+      "onboard_time": 1766712022,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523673,
       "num": 612266,
       "word": "电动车新国标",
@@ -9323,14 +9347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 489692,
-      "num": 489692,
-      "word": "女子穿LV鞋10分钟致脚伤退款遭拒",
-      "onboard_time": 1766712022,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489345,
       "num": 275451,
       "word": "被害女孩临终遗言我被捅刀了",
@@ -10017,14 +10033,6 @@
       "onboard_time": 1766399301,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471719,
-      "num": 117232,
-      "word": "毛泽东号司机每天擦拭主席像",
-      "onboard_time": 1766714181,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 471291,
@@ -16332,7 +16340,7 @@
     },
     {
       "raw_hot": 328308,
-      "num": 195062,
+      "num": 201842,
       "word": "吉林62岁女子怀孕",
       "onboard_time": 1766704757,
       "rank": 21,
@@ -16536,6 +16544,14 @@
       "word": "王楚钦孙颖莎3比0林诗栋蒯曼",
       "onboard_time": 1765441883,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 324992,
+      "num": 324992,
+      "word": "深大发博感谢孙颖莎",
+      "onboard_time": 1766714601,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -18795,6 +18811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286115,
+      "num": 286115,
+      "word": "孙颖莎缺席乒超半决赛",
+      "onboard_time": 1766714181,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285882,
       "num": 285882,
       "word": "乒乓球",
@@ -19857,14 +19881,6 @@
       "onboard_time": 1764768023,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271314,
-      "num": 271314,
-      "word": "孙颖莎缺席乒超半决赛",
-      "onboard_time": 1766714181,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 271204,
@@ -21097,6 +21113,14 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255177,
+      "num": 210663,
+      "word": "肖战ELLE开年刊",
+      "onboard_time": 1766715801,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255153,
@@ -22953,6 +22977,14 @@
       "onboard_time": 1764985400,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231410,
+      "num": 212352,
+      "word": "字节跳动通报120名员工被辞",
+      "onboard_time": 1766714421,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 231382,
@@ -25283,14 +25315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208801,
-      "num": 208801,
-      "word": "字节跳动通报120名员工被辞",
-      "onboard_time": 1766714421,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 208707,
       "num": 208707,
       "word": "王曼昱说希望我们健康涨球",
@@ -25305,6 +25329,14 @@
       "onboard_time": 1765203263,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208595,
+      "num": 208595,
+      "word": "玉茗茶骨定档",
+      "onboard_time": 1766715621,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 208587,
@@ -39075,6 +39107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148977,
+      "num": 148977,
+      "word": "泽连斯基碰瓷中国",
+      "onboard_time": 1766714841,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148963,
       "num": 148963,
       "word": "何晴 我想战胜病魔走回舞台",
@@ -39779,14 +39819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 146472,
-      "num": 146472,
-      "word": "深大发博感谢孙颖莎",
-      "onboard_time": 1766714601,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146464,
       "num": 146464,
       "word": "影之刃",
@@ -40003,6 +40035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145687,
+      "num": 145687,
+      "word": "奶茶中的咖啡因含量比咖啡更高",
+      "onboard_time": 1766715621,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145668,
       "num": 145668,
       "word": "张韶涵圈内人脉",
@@ -40121,6 +40161,14 @@
       "onboard_time": 1765981523,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145340,
+      "num": 145340,
+      "word": "电影飞驰人生3定档春节",
+      "onboard_time": 1766715981,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 145329,
@@ -43379,6 +43427,14 @@
       "category": "科学科普,情感"
     },
     {
+      "raw_hot": 136265,
+      "num": 136265,
+      "word": "卢伟冰将7999元小米新机口误成799",
+      "onboard_time": 1766715621,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136254,
       "num": 136254,
       "word": "这竟然不是周柯宇",
@@ -46441,6 +46497,14 @@
       "onboard_time": 1765365022,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129427,
+      "num": 145372,
+      "word": "医生眼里最喜欢的动作",
+      "onboard_time": 1766711482,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129418,
@@ -50451,6 +50515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120071,
+      "num": 120071,
+      "word": "宋威龙演技",
+      "onboard_time": 1766711242,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120061,
       "num": 120061,
       "word": "难怪有弟之姿原来是弟没死",
@@ -51953,6 +52025,14 @@
       "onboard_time": 1766232922,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117193,
+      "num": 117193,
+      "word": "2025最后几天冷暖大反转",
+      "onboard_time": 1766715801,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117151,
@@ -53763,6 +53843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113410,
+      "num": 113410,
+      "word": "燕云十六声飞白成诗优化",
+      "onboard_time": 1766715621,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113404,
       "num": 264265,
       "word": "梅西印度活动只待10分钟球迷怒砸场",
@@ -54201,6 +54289,14 @@
       "onboard_time": 1765582277,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112535,
+      "num": 112535,
+      "word": "罚罪2反馈",
+      "onboard_time": 1766711181,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 112533,
@@ -55057,14 +55153,6 @@
       "onboard_time": 1765528281,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110768,
-      "num": 110768,
-      "word": "罚罪2反馈",
-      "onboard_time": 1766711181,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 110757,
@@ -56947,6 +57035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106744,
+      "num": 120078,
+      "word": "一年制硕士成中产家庭标配",
+      "onboard_time": 1766715320,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 106737,
       "num": 106737,
       "word": "再见爱人梁淞这表情不像装的",
@@ -57785,6 +57881,14 @@
       "onboard_time": 1765112302,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105009,
+      "num": 105009,
+      "word": "一诺24岁了",
+      "onboard_time": 1766715081,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 104997,
@@ -58745,14 +58849,6 @@
       "onboard_time": 1766532439,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103198,
-      "num": 118316,
-      "word": "医生眼里最喜欢的动作",
-      "onboard_time": 1766711482,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103189,
@@ -60361,6 +60457,14 @@
       "onboard_time": 1765872863,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100416,
+      "num": 100416,
+      "word": "黄金白银狂飙",
+      "onboard_time": 1766715801,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 100404,
@@ -62009,14 +62113,6 @@
       "onboard_time": 1766634380,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97354,
-      "num": 97354,
-      "word": "宋威龙演技",
-      "onboard_time": 1766711242,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 97342,
@@ -67824,6 +67920,14 @@
       "word": "12岁女孩患怪病上学发烧放学退烧",
       "onboard_time": 1766139080,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84127,
+      "num": 120089,
+      "word": "精神病夫妻持斧砍邻居门窗十年",
+      "onboard_time": 1766715381,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
