@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766731375681,
+  "endTime": 1766732194241,
   "band_list": [
     {
       "raw_hot": 1455752,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1081130,
+      "num": 681400,
+      "word": "赵丽颖逍遥海报",
+      "onboard_time": 1766730380,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1063761,
-      "num": 416589,
+      "num": 433209,
       "word": "长期乱买衣服 隐形贫穷",
       "onboard_time": 1766720481,
       "rank": 32,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 692646,
-      "num": 451055,
+      "num": 614771,
       "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
       "onboard_time": 1766726662,
       "rank": 36,
@@ -116,18 +124,10 @@
     },
     {
       "raw_hot": 682806,
-      "num": 682806,
+      "num": 1107727,
       "word": "逍遥",
       "onboard_time": 1766730560,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 681400,
-      "num": 681400,
-      "word": "赵丽颖逍遥海报",
-      "onboard_time": 1766730380,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -347,20 +347,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315792,
+      "num": 620541,
+      "word": "香港大埔火灾受灾居民有新家了",
+      "onboard_time": 1766728880,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314068,
       "num": 236730,
       "word": "陶晶莹建议朱孝天回应能冷静一点",
       "onboard_time": 1766711901,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301746,
-      "num": 301746,
-      "word": "香港大埔火灾受灾居民有新家了",
-      "onboard_time": 1766728880,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294187,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202347,
+      "num": 202347,
+      "word": "一诺庆生照",
+      "onboard_time": 1766731040,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199105,
       "num": 199105,
       "word": "红舞鞋杀青",
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192709,
+      "num": 192709,
+      "word": "张柏芝在3分钟里对7个人做了告别",
+      "onboard_time": 1766730860,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190424,
       "num": 190424,
       "word": "赵丽颖小城大事妆造",
@@ -619,20 +635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188883,
+      "num": 188883,
+      "word": "疑似汪苏泷音综尺度最大的一集",
+      "onboard_time": 1766731460,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188180,
       "num": 188180,
       "word": "老舅",
       "onboard_time": 1766699294,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187894,
-      "num": 187894,
-      "word": "一诺庆生照",
-      "onboard_time": 1766731040,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 187688,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183757,
+      "num": 183757,
+      "word": "赵丽颖反派碎梦仙君造型",
+      "onboard_time": 1766731880,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181880,
       "num": 181880,
       "word": "飞驰人生3",
@@ -675,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177938,
-      "num": 177938,
-      "word": "张柏芝在3分钟里对7个人做了告别",
-      "onboard_time": 1766730860,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 179218,
+      "num": 202512,
+      "word": "燕云十六声",
+      "onboard_time": 1766731820,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 175331,
@@ -713,6 +737,14 @@
       "onboard_time": 1766722159,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170771,
+      "num": 170771,
+      "word": "荣耀WIN",
+      "onboard_time": 1766731519,
+      "rank": 30,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 169231,
@@ -851,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "人之初",
+      "onboard_time": 1766724142,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149899,
       "num": 149899,
       "word": "40万元黄金到期无人认领将上缴国库",
@@ -883,12 +923,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148908,
-      "num": 148908,
-      "word": "人之初",
-      "onboard_time": 1766724142,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 147573,
+      "num": 147573,
+      "word": "王一博超级不喜欢被人看的感觉",
+      "onboard_time": 1766731759,
+      "rank": 35,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 145687,
@@ -955,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138279,
+      "num": 173553,
+      "word": "长白山云顶天宫今日对外开放",
+      "onboard_time": 1766731040,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137360,
       "num": 137360,
       "word": "国乒教练员竞聘共43人报名",
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 133290,
-      "num": 133290,
+      "num": 147626,
       "word": "住院5天点了48顿VIP餐被拒保",
       "onboard_time": 1766729720,
       "rank": 30,
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129582,
+      "num": 129582,
+      "word": "燕云十六声已调整争议外观服装",
+      "onboard_time": 1766730680,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129427,
       "num": 145372,
       "word": "医生眼里最喜欢的动作",
@@ -1067,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126497,
-      "num": 126497,
-      "word": "燕云十六声已调整争议外观服装",
-      "onboard_time": 1766730680,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 126182,
       "num": 126182,
       "word": "韶山",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1766712022,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124807,
+      "num": 124807,
+      "word": "小米手表5评测",
+      "onboard_time": 1766731640,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 124255,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1766724682,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119169,
-      "num": 119169,
-      "word": "长白山云顶天宫今日对外开放",
-      "onboard_time": 1766731040,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 117487,
@@ -1275,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107917,
+      "num": 107917,
+      "word": "深圳大学3比2上海龙腾",
+      "onboard_time": 1766732121,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107150,
       "num": 107150,
       "word": "谈恋爱要跟有少年气的人谈",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1766726601,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101702,
+      "num": 101702,
+      "word": "多版本黄蓉她是唯一演出邪气的",
+      "onboard_time": 1766732121,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101180,
@@ -1595,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67886,
+      "num": 125381,
+      "word": "台湾民意机构通过了赖清德弹劾提案",
+      "onboard_time": 1766732121,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67781,
       "num": 95318,
       "word": "穆祉丞还直播吗",
@@ -1779,6 +1851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 53034,
+      "num": 293496,
+      "word": "王星越跨晚穿搭骐骥红",
+      "onboard_time": 1766727081,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51496,
       "num": 94832,
       "word": "蔡徐坤 alone",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1766704937,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50315,
+      "num": 112608,
+      "word": "黄荷娜曾和李善均聚众吸毒",
+      "onboard_time": 1766728280,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 49516,
@@ -1875,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37752,
+      "num": 141104,
+      "word": "母亲哽咽被毒杀子女还没享受过人生",
+      "onboard_time": 1766731160,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36523,
       "num": 123926,
       "word": "周大福马年新吊坠正面牛马背面jia",
@@ -1907,6 +2003,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33364,
+      "num": 196073,
+      "word": "首档全员50岁的恋综来了",
+      "onboard_time": 1766731880,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32895,
+      "num": 141036,
+      "word": "美国遗体中介",
+      "onboard_time": 1766731340,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32551,
       "num": 156590,
       "word": "谭维维40种乐器重新演绎向山野",
@@ -1931,35 +2043,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31294,
-      "num": 293496,
-      "word": "王星越跨晚穿搭骐骥红",
-      "onboard_time": 1766727081,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 31052,
-      "num": 118999,
-      "word": "美国遗体中介",
-      "onboard_time": 1766731340,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30330,
-      "num": 118829,
-      "word": "母亲哽咽被毒杀子女还没享受过人生",
-      "onboard_time": 1766731160,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29808,
       "num": 211291,
       "word": "以你的名义捐一件冬衣",
       "onboard_time": 1766727621,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26914,
+      "num": 681681,
+      "word": "2025微盘点",
+      "onboard_time": 1766721680,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1975,14 +2071,6 @@
       "num": 369292,
       "word": "我国又创造一个世界纪录",
       "onboard_time": 1766651541,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24691,
-      "num": 681681,
-      "word": "2025微盘点",
-      "onboard_time": 1766721680,
       "rank": 2,
       "category": "民生新闻"
     },

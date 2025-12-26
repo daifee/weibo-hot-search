@@ -1,0 +1,410 @@
+{
+  "runTime": 1766732194241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673299,
+        "num": 1107727,
+        "word": "逍遥",
+        "onboard_time": 1766730560,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668518,
+        "num": 668518,
+        "word": "周大福牛马吊坠被指阴阳打工人",
+        "onboard_time": 1766725522,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26914,
+        "num": 634059,
+        "word": "2025微盘点",
+        "onboard_time": 1766721680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081130,
+        "num": 626324,
+        "word": "赵丽颖逍遥海报",
+        "onboard_time": 1766730380,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315792,
+        "num": 620541,
+        "word": "香港大埔火灾受灾居民有新家了",
+        "onboard_time": 1766728880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614771,
+        "num": 614771,
+        "word": "男子挂爷爷遗照劝退邻居乱放鞋架",
+        "onboard_time": 1766726662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437695,
+        "num": 437695,
+        "word": "霸王茶姬 咖啡因",
+        "onboard_time": 1766711482,
+        "rank": 6,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 433209,
+        "num": 433209,
+        "word": "长期乱买衣服 隐形贫穷",
+        "onboard_time": 1766720481,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281105,
+        "num": 281105,
+        "word": "毛泽东号司机每天擦拭主席像",
+        "onboard_time": 1766714181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277912,
+        "num": 277912,
+        "word": "燕云十六声回应被指低俗",
+        "onboard_time": 1766729061,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 864075,
+        "num": 269916,
+        "word": "燕云十六声被指低俗情趣内衣",
+        "onboard_time": 1766725400,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593636,
+        "num": 266261,
+        "word": "女明星发微博求职",
+        "onboard_time": 1766723782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463204,
+        "num": 254871,
+        "word": "方圆说箍牙是最好的医美",
+        "onboard_time": 1766727141,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241154,
+        "num": 241154,
+        "word": "宁静吐槽刘晓庆刘嘉玲太虚伪",
+        "onboard_time": 1766726001,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239675,
+        "num": 239675,
+        "word": "一万块钱让你元旦加班",
+        "onboard_time": 1766719580,
+        "rank": 14,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 236431,
+        "num": 236431,
+        "word": "肖战ELLE销量",
+        "onboard_time": 1766725462,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236307,
+        "num": 236307,
+        "word": "少调休多放假让国人从容过春节",
+        "onboard_time": 1766720602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216538,
+        "num": 216538,
+        "word": "老人看孙女写作业睡着狂扇巴掌",
+        "onboard_time": 1766727980,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205046,
+        "num": 205046,
+        "word": "李锐谈离开湖南卫视做飞行汽车原因",
+        "onboard_time": 1766727262,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179218,
+        "num": 202512,
+        "word": "燕云十六声",
+        "onboard_time": 1766731820,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335814,
+        "num": 202436,
+        "word": "小英胖了10斤",
+        "onboard_time": 1766725222,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272901,
+        "num": 202415,
+        "word": "蒋毅向赵樱子求婚",
+        "onboard_time": 1766675121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202347,
+        "num": 202347,
+        "word": "一诺庆生照",
+        "onboard_time": 1766731040,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33364,
+        "num": 196073,
+        "word": "首档全员50岁的恋综来了",
+        "onboard_time": 1766731880,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53034,
+        "num": 192896,
+        "word": "王星越跨晚穿搭骐骥红",
+        "onboard_time": 1766727081,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192709,
+        "num": 192709,
+        "word": "张柏芝在3分钟里对7个人做了告别",
+        "onboard_time": 1766730860,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188883,
+        "num": 188883,
+        "word": "疑似汪苏泷音综尺度最大的一集",
+        "onboard_time": 1766731460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183757,
+        "num": 183757,
+        "word": "赵丽颖反派碎梦仙君造型",
+        "onboard_time": 1766731880,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177231,
+        "num": 177231,
+        "word": "肖战杂志",
+        "onboard_time": 1766714901,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138279,
+        "num": 173553,
+        "word": "长白山云顶天宫今日对外开放",
+        "onboard_time": 1766731040,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170771,
+        "num": 170771,
+        "word": "荣耀WIN",
+        "onboard_time": 1766731519,
+        "rank": 30,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 152539,
+        "num": 152539,
+        "word": "深圳大学2比2上海龙腾",
+        "onboard_time": 1766730739,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157053,
+        "num": 152285,
+        "word": "张予曦裸背",
+        "onboard_time": 1766729961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "人之初",
+        "onboard_time": 1766724142,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124642,
+        "num": 147626,
+        "word": "住院5天点了48顿VIP餐被拒保",
+        "onboard_time": 1766729720,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147573,
+        "num": 147573,
+        "word": "王一博超级不喜欢被人看的感觉",
+        "onboard_time": 1766731759,
+        "rank": 35,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 141482,
+        "num": 141482,
+        "word": "燕云十六声 抹胸",
+        "onboard_time": 1766711361,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37752,
+        "num": 141104,
+        "word": "母亲哽咽被毒杀子女还没享受过人生",
+        "onboard_time": 1766731160,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32895,
+        "num": 141036,
+        "word": "美国遗体中介",
+        "onboard_time": 1766731340,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141024,
+        "num": 141024,
+        "word": "飞驰人生3没有于适",
+        "onboard_time": 1766728462,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129582,
+        "num": 129582,
+        "word": "燕云十六声已调整争议外观服装",
+        "onboard_time": 1766730680,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67886,
+        "num": 125381,
+        "word": "台湾民意机构通过了赖清德弹劾提案",
+        "onboard_time": 1766732121,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124807,
+        "num": 124807,
+        "word": "小米手表5评测",
+        "onboard_time": 1766731640,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122163,
+        "num": 122163,
+        "word": "怪奇物语",
+        "onboard_time": 1766710460,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113276,
+        "num": 113276,
+        "word": "王安宇参演飞驰人生3",
+        "onboard_time": 1766718861,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50315,
+        "num": 112608,
+        "word": "黄荷娜曾和李善均聚众吸毒",
+        "onboard_time": 1766728280,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112405,
+        "num": 112405,
+        "word": "录综艺意外发现存活1亿年的物种",
+        "onboard_time": 1766729600,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 107917,
+        "word": "深圳大学3比2上海龙腾",
+        "onboard_time": 1766732121,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 102017,
+        "word": "毛泽东同志诞辰132周年",
+        "onboard_time": 1766706138,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101702,
+        "num": 101702,
+        "word": "多版本黄蓉她是唯一演出邪气的",
+        "onboard_time": 1766732121,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#难忘2025向前2026#"
+    }
+  }
+}
