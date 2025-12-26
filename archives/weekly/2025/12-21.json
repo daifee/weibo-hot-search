@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766774366572,
+  "endTime": 1766775150762,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -18411,6 +18411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63599,
+      "num": 74441,
+      "word": "保时捷车主发声",
+      "onboard_time": 1766772076,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63498,
       "num": 126018,
       "word": "苹果公司被罚约9860万欧元",
@@ -18793,14 +18801,6 @@
       "onboard_time": 1766414963,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58785,
-      "num": 74441,
-      "word": "保时捷车主发声",
-      "onboard_time": 1766772076,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58732,
@@ -20555,6 +20555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35010,
+      "num": 74116,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1766773935,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34992,
       "num": 141405,
       "word": "陈妍希说不排斥双女主",
@@ -21195,14 +21203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29189,
-      "num": 74116,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1766773935,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 29188,
       "num": 84491,
       "word": "破镜重圆只有三种可能",
@@ -21587,12 +21587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24547,
+      "num": 61529,
+      "word": "丁程鑫新音solo舞台",
+      "onboard_time": 1766774415,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24342,
       "num": 703550,
       "word": "预计2025我国交通出行超660亿人次",
       "onboard_time": 1766494762,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24309,
+      "num": 61520,
+      "word": "人之初全员自画像",
+      "onboard_time": 1766774954,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 24231,
@@ -21681,6 +21697,14 @@
       "onboard_time": 1766756063,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23408,
+      "num": 61506,
+      "word": "2025腾讯音乐榜样荣誉之夜",
+      "onboard_time": 1766774595,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 23154,
