@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766748378951,
+  "endTime": 1766749211098,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1683,6 +1683,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 588915,
+      "num": 399193,
+      "word": "早餐店汤里死老鼠脚已熬得发白",
+      "onboard_time": 1766743220,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588777,
       "num": 588777,
       "word": "王者荣耀",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1766648901,
       "rank": 1,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 536927,
-      "num": 399193,
-      "word": "早餐店汤里死老鼠脚已熬得发白",
-      "onboard_time": 1766743220,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 536416,
@@ -2320,6 +2320,14 @@
       "word": "陈星旭周也王玉雯名场面外网火了",
       "onboard_time": 1766534902,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 493635,
+      "num": 324444,
+      "word": "王安宇竟然有160斤",
+      "onboard_time": 1766747541,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2929,14 +2937,6 @@
       "onboard_time": 1766660181,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423605,
-      "num": 324444,
-      "word": "王安宇竟然有160斤",
-      "onboard_time": 1766747541,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 421596,
@@ -4587,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286906,
+      "num": 278697,
+      "word": "沈佳润高耳位",
+      "onboard_time": 1766747481,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286115,
       "num": 286115,
       "word": "孙颖莎缺席乒超半决赛",
@@ -4753,14 +4761,6 @@
       "onboard_time": 1766311103,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278697,
-      "num": 278697,
-      "word": "沈佳润高耳位",
-      "onboard_time": 1766747481,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 277020,
@@ -5963,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209362,
+      "num": 209362,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209275,
       "num": 209275,
       "word": "原神",
@@ -5985,6 +5993,14 @@
       "onboard_time": 1766574321,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208050,
+      "num": 1033288,
+      "word": "毛新宇说网友称爷爷为教员贴切",
+      "onboard_time": 1766747541,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208020,
@@ -6147,12 +6163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204768,
+      "num": 204768,
+      "word": "朱志鑫张桂源双A舞台",
+      "onboard_time": 1766748320,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204755,
       "num": 204755,
       "word": "山西大同4.2级地震",
       "onboard_time": 1766407642,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 204470,
+      "num": 204470,
+      "word": "丁程鑫红发男神",
+      "onboard_time": 1766748081,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 204143,
@@ -6321,6 +6353,14 @@
       "onboard_time": 1766365462,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 202057,
+      "num": 392495,
+      "word": "游戏擦边设计是舍本逐末",
+      "onboard_time": 1766746759,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 202053,
@@ -6649,6 +6689,14 @@
       "onboard_time": 1766240784,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 195655,
+      "num": 195655,
+      "word": "王橹杰野心家镜头",
+      "onboard_time": 1766749101,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 195522,
@@ -7371,14 +7419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183850,
-      "num": 392495,
-      "word": "游戏擦边设计是舍本逐末",
-      "onboard_time": 1766746759,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183732,
       "num": 183732,
       "word": "妻儿三人被发小杀害案今日开庭",
@@ -7619,6 +7659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179726,
+      "num": 179726,
+      "word": "央视曝光韩束面膜添加违禁成分",
+      "onboard_time": 1766748020,
+      "rank": 36,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "金价",
@@ -7729,6 +7777,14 @@
       "onboard_time": 1766375542,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177567,
+      "num": 177567,
+      "word": "贺峻霖银发狼尾",
+      "onboard_time": 1766748320,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 177488,
@@ -8016,6 +8072,14 @@
       "word": "时代少年团爱你爱我爱我们",
       "onboard_time": 1766661680,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172236,
+      "num": 172236,
+      "word": "TFBOYS没来四叶草来了",
+      "onboard_time": 1766748500,
+      "rank": 39,
       "category": "演出"
     },
     {
@@ -9027,14 +9091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154645,
-      "num": 1024743,
-      "word": "毛新宇说网友称爷爷为教员贴切",
-      "onboard_time": 1766747541,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154555,
       "num": 154555,
       "word": "油腻感的正确打开方式",
@@ -9313,14 +9369,6 @@
       "onboard_time": 1766640442,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 151141,
-      "num": 151141,
-      "word": "丁程鑫红发男神",
-      "onboard_time": 1766748081,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 151028,
@@ -9651,14 +9699,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 147341,
-      "num": 147341,
-      "word": "刘耀文满分薄肌男",
-      "onboard_time": 1766748141,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147340,
       "num": 184212,
       "word": "时团的小卡已经进化成这样了吗",
@@ -9779,6 +9819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145748,
+      "num": 145748,
+      "word": "五代新音舞台",
+      "onboard_time": 1766748621,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145731,
       "num": 145731,
       "word": "苏醒新家假马尔代夫真春晚现场",
@@ -9803,6 +9851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "周深上次露出这表情是对孟子义",
+      "onboard_time": 1766748981,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145552,
       "num": 145552,
       "word": "国家禁毒态度措施制度没有任何改变",
@@ -9825,14 +9881,6 @@
       "onboard_time": 1766229983,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145145,
-      "num": 145145,
-      "word": "贺峻霖银发狼尾",
-      "onboard_time": 1766748320,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 145095,
@@ -10281,22 +10329,6 @@
       "onboard_time": 1766638822,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140021,
-      "num": 140021,
-      "word": "朱志鑫张桂源双A舞台",
-      "onboard_time": 1766748320,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 139948,
-      "num": 163490,
-      "word": "央视曝光韩束面膜添加违禁成分",
-      "onboard_time": 1766748020,
-      "rank": 36,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 139931,
@@ -13155,6 +13187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110915,
+      "num": 110915,
+      "word": "iG对战TES",
+      "onboard_time": 1766748680,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110910,
       "num": 187205,
       "word": "私发淫秽信息违法已实施20年",
@@ -14771,6 +14811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99475,
+      "num": 176580,
+      "word": "现在漠河比南北极都冷了吗",
+      "onboard_time": 1766749101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99430,
       "num": 188231,
       "word": "夫妻情侣互发私密照不会轻易被追责",
@@ -15179,6 +15227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95865,
+      "num": 196664,
+      "word": "女子补办他人身份证转走600多万",
+      "onboard_time": 1766745621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95785,
       "num": 95785,
       "word": "BLG战胜LNG",
@@ -15415,6 +15471,14 @@
       "num": 97469,
       "word": "在县城开4家店一周赚了15元",
       "onboard_time": 1766664980,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92989,
+      "num": 110850,
+      "word": "当妈妈的饭以外卖形式出现",
+      "onboard_time": 1766748261,
       "rank": 49,
       "category": "情感"
     },
@@ -15921,14 +15985,6 @@
       "onboard_time": 1766565621,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87884,
-      "num": 165758,
-      "word": "女子补办他人身份证转走600多万",
-      "onboard_time": 1766745621,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87845,
@@ -16768,6 +16824,14 @@
       "word": "卫星互联网低轨17组卫星发射成功",
       "onboard_time": 1766714181,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 75951,
+      "num": 296338,
+      "word": "规范网络名人账号行为",
+      "onboard_time": 1766748680,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -20659,6 +20723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23966,
+      "num": 201952,
+      "word": "养心殿第一批游客凌晨12点排队",
+      "onboard_time": 1766748981,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23735,
       "num": 213409,
       "word": "台湾5.5级左右地震",
@@ -20984,6 +21056,14 @@
       "word": "刹车失灵狂奔490公里当事司机发声",
       "onboard_time": 1766482821,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20012,
+      "num": 172499,
+      "word": "我使馆提醒切勿盲信到尼泊尔娶妻",
+      "onboard_time": 1766748680,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

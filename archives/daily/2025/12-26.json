@@ -1,6 +1,6 @@
 {
   "startTime": 1766680518226,
-  "endTime": 1766748378951,
+  "endTime": 1766749211098,
   "band_list": [
     {
       "raw_hot": 2477289,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588915,
+      "num": 399193,
+      "word": "早餐店汤里死老鼠脚已熬得发白",
+      "onboard_time": 1766743220,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588777,
       "num": 588777,
       "word": "王者荣耀",
@@ -281,14 +289,6 @@
       "onboard_time": 1766717480,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 536927,
-      "num": 399193,
-      "word": "早餐店汤里死老鼠脚已熬得发白",
-      "onboard_time": 1766743220,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 533644,
@@ -337,6 +337,14 @@
       "onboard_time": 1766712921,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493635,
+      "num": 324444,
+      "word": "王安宇竟然有160斤",
+      "onboard_time": 1766747541,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 485208,
@@ -401,14 +409,6 @@
       "onboard_time": 1766715981,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 423605,
-      "num": 324444,
-      "word": "王安宇竟然有160斤",
-      "onboard_time": 1766747541,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 418533,
@@ -603,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286906,
+      "num": 278697,
+      "word": "沈佳润高耳位",
+      "onboard_time": 1766747481,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286115,
       "num": 286115,
       "word": "孙颖莎缺席乒超半决赛",
@@ -633,14 +641,6 @@
       "onboard_time": 1766723242,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278697,
-      "num": 278697,
-      "word": "沈佳润高耳位",
-      "onboard_time": 1766747481,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 277020,
@@ -843,6 +843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209362,
+      "num": 209362,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 208050,
+      "num": 1033288,
+      "word": "毛新宇说网友称爷爷为教员贴切",
+      "onboard_time": 1766747541,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207965,
       "num": 207965,
       "word": "李锐谈离开湖南卫视做飞行汽车原因",
@@ -875,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204768,
+      "num": 204768,
+      "word": "朱志鑫张桂源双A舞台",
+      "onboard_time": 1766748320,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204470,
+      "num": 204470,
+      "word": "丁程鑫红发男神",
+      "onboard_time": 1766748081,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203266,
       "num": 203266,
       "word": "李煜东 大家期待一下舞台吧",
@@ -905,6 +937,14 @@
       "onboard_time": 1766731040,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202057,
+      "num": 392495,
+      "word": "游戏擦边设计是舍本逐末",
+      "onboard_time": 1766746759,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 201448,
@@ -969,6 +1009,14 @@
       "onboard_time": 1766736799,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195655,
+      "num": 195655,
+      "word": "王橹杰野心家镜头",
+      "onboard_time": 1766749101,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 192709,
@@ -1083,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183850,
-      "num": 392495,
-      "word": "游戏擦边设计是舍本逐末",
-      "onboard_time": 1766746759,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183445,
       "num": 183445,
       "word": "贺峻霖偏偏你最争气",
@@ -1129,6 +1169,22 @@
       "onboard_time": 1766729961,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179726,
+      "num": 179726,
+      "word": "央视曝光韩束面膜添加违禁成分",
+      "onboard_time": 1766748020,
+      "rank": 36,
+      "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 177567,
+      "num": 177567,
+      "word": "贺峻霖银发狼尾",
+      "onboard_time": 1766748320,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 175814,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1766738541,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172236,
+      "num": 172236,
+      "word": "TFBOYS没来四叶草来了",
+      "onboard_time": 1766748500,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 171921,
@@ -1395,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154645,
-      "num": 1024743,
-      "word": "毛新宇说网友称爷爷为教员贴切",
-      "onboard_time": 1766747541,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154128,
       "num": 154128,
       "word": "黄圣依初代白月光的含金量",
@@ -1433,14 +1489,6 @@
       "onboard_time": 1766715741,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151141,
-      "num": 151141,
-      "word": "丁程鑫红发男神",
-      "onboard_time": 1766748081,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 150556,
@@ -1515,20 +1563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147341,
-      "num": 147341,
-      "word": "刘耀文满分薄肌男",
-      "onboard_time": 1766748141,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145750,
       "num": 145750,
       "word": "你好星期六",
       "onboard_time": 1766738600,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145748,
+      "num": 145748,
+      "word": "五代新音舞台",
+      "onboard_time": 1766748621,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 145687,
@@ -1539,12 +1587,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145145,
-      "num": 145145,
-      "word": "贺峻霖银发狼尾",
-      "onboard_time": 1766748320,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "周深上次露出这表情是对孟子义",
+      "onboard_time": 1766748981,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 144540,
@@ -1617,22 +1665,6 @@
       "onboard_time": 1766725462,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140021,
-      "num": 140021,
-      "word": "朱志鑫张桂源双A舞台",
-      "onboard_time": 1766748320,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 139948,
-      "num": 163490,
-      "word": "央视曝光韩束面膜添加违禁成分",
-      "onboard_time": 1766748020,
-      "rank": 36,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 138279,
@@ -2131,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110915,
+      "num": 110915,
+      "word": "iG对战TES",
+      "onboard_time": 1766748680,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110716,
       "num": 156553,
       "word": "一家五口遇难包括7岁小孩六旬老人",
@@ -2371,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99475,
+      "num": 176580,
+      "word": "现在漠河比南北极都冷了吗",
+      "onboard_time": 1766749101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99416,
       "num": 152047,
       "word": "侯明昊我这事业线拐的有点陡",
@@ -2427,6 +2475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95865,
+      "num": 196664,
+      "word": "女子补办他人身份证转走600多万",
+      "onboard_time": 1766745621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95441,
       "num": 95441,
       "word": "老人用手机哄娃5岁女童变斗鸡眼",
@@ -2449,6 +2505,14 @@
       "onboard_time": 1766652143,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92989,
+      "num": 110850,
+      "word": "当妈妈的饭以外卖形式出现",
+      "onboard_time": 1766748261,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92645,
@@ -2547,14 +2611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87884,
-      "num": 165758,
-      "word": "女子补办他人身份证转走600多万",
-      "onboard_time": 1766745621,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85151,
       "num": 85151,
       "word": "白银大涨原因",
@@ -2648,6 +2704,14 @@
       "word": "卫星互联网低轨17组卫星发射成功",
       "onboard_time": 1766714181,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 75951,
+      "num": 296338,
+      "word": "规范网络名人账号行为",
+      "onboard_time": 1766748680,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -3251,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23966,
+      "num": 201952,
+      "word": "养心殿第一批游客凌晨12点排队",
+      "onboard_time": 1766748981,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23714,
       "num": 627311,
       "word": "今年人工智能核心产业规模超万亿元",
@@ -3279,6 +3351,14 @@
       "num": 91836,
       "word": "男生骑车撞上马路中间电线杆致重伤",
       "onboard_time": 1766714062,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20012,
+      "num": 172499,
+      "word": "我使馆提醒切勿盲信到尼泊尔娶妻",
+      "onboard_time": 1766748680,
       "rank": 38,
       "category": "民生新闻"
     },
