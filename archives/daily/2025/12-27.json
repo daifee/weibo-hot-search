@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766770938837,
+  "endTime": 1766774366572,
   "band_list": [
     {
       "raw_hot": 683341,
@@ -419,6 +419,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58785,
+      "num": 74441,
+      "word": "保时捷车主发声",
+      "onboard_time": 1766772076,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50516,
+      "num": 75929,
+      "word": "韦雪和秦奋的儿子这么大了",
+      "onboard_time": 1766751561,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 40323,
       "num": 85197,
       "word": "白鹿2025年终总结",
@@ -451,12 +467,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30151,
-      "num": 75929,
-      "word": "韦雪和秦奋的儿子这么大了",
-      "onboard_time": 1766751561,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 29189,
+      "num": 74116,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1766773935,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25946,
+      "num": 73913,
+      "word": "宋亚轩新音whoknows舞台",
+      "onboard_time": 1766751981,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25544,
+      "num": 73861,
+      "word": "左航少年意气溢出屏幕了",
+      "onboard_time": 1766773156,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24462,
+      "num": 73777,
+      "word": "刘耀文满分薄肌男",
+      "onboard_time": 1766748141,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 21303,
@@ -475,7 +515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7128,
+      "raw_hot": 9620,
       "num": 107042,
       "word": "这些大国工程见证中国之变",
       "onboard_time": 1766756063,
