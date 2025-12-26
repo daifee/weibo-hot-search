@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766785213155,
+  "endTime": 1766788100774,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -16891,6 +16891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85718,
+      "num": 388871,
+      "word": "顾漫还是牛",
+      "onboard_time": 1766776394,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85563,
       "num": 110248,
       "word": "国乒教练竞聘已有29人报名",
@@ -18009,14 +18017,6 @@
       "onboard_time": 1766366661,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70274,
-      "num": 179472,
-      "word": "顾漫还是牛",
-      "onboard_time": 1766776394,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 70151,
@@ -21531,6 +21531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25569,
+      "num": 27253,
+      "word": "父亲被微塑料污染孩子或遭殃",
+      "onboard_time": 1766780173,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25544,
       "num": 73861,
       "word": "左航少年意气溢出屏幕了",
@@ -21955,14 +21963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21261,
-      "num": 27253,
-      "word": "父亲被微塑料污染孩子或遭殃",
-      "onboard_time": 1766780173,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21101,
       "num": 1447198,
       "word": "北京范儿",
@@ -22041,6 +22041,14 @@
       "onboard_time": 1766601435,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20527,
+      "num": 20527,
+      "word": "赵丽颖出演逍遥源于10年前的约定",
+      "onboard_time": 1766787493,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 20482,
@@ -22139,20 +22147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19578,
+      "num": 55050,
+      "word": "骄阳似我我让你挑",
+      "onboard_time": 1766771295,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19564,
       "num": 92315,
       "word": "谁敢信任达华70岁了",
       "onboard_time": 1766569281,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19482,
-      "num": 55050,
-      "word": "骄阳似我我让你挑",
-      "onboard_time": 1766771295,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 19472,
@@ -22283,6 +22291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17799,
+      "num": 23866,
+      "word": "黄星到达澳门",
+      "onboard_time": 1766781853,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17763,
       "num": 172752,
       "word": "优衣库门店要求偷拍或因被偷太多",
@@ -22387,6 +22403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16273,
+      "num": 23989,
+      "word": "王一博的幕后花絮",
+      "onboard_time": 1766784914,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16271,
       "num": 110560,
       "word": "挂驴头卖马肉老板称一点驴肉不用放",
@@ -22475,14 +22499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14895,
-      "num": 23989,
-      "word": "王一博的幕后花絮",
-      "onboard_time": 1766784914,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 14824,
       "num": 32855,
       "word": "严浩翔镜头里的粉丝",
@@ -22563,14 +22579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14106,
-      "num": 23866,
-      "word": "黄星到达澳门",
-      "onboard_time": 1766781853,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13762,
       "num": 23076,
       "word": "微博网友年度喜爱作品",
@@ -22595,6 +22603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13208,
+      "num": 17728,
+      "word": "雷军回应小米YU7冬测成绩",
+      "onboard_time": 1766784254,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 13114,
       "num": 111137,
       "word": "致学生坠楼重伤调查报告7年未公布",
@@ -22617,6 +22633,14 @@
       "onboard_time": 1766670082,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12801,
+      "num": 23569,
+      "word": "檀健次第三张音乐专辑",
+      "onboard_time": 1766782816,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 12665,
@@ -22667,14 +22691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11885,
-      "num": 23569,
-      "word": "檀健次第三张音乐专辑",
-      "onboard_time": 1766782816,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 11738,
       "num": 16430,
       "word": "阿乐星愿跨年云盛典",
@@ -22697,6 +22713,14 @@
       "onboard_time": 1766462481,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11519,
+      "num": 17724,
+      "word": "速接肖战新年祝福",
+      "onboard_time": 1766787914,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 11314,
