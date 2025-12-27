@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766825363006,
+  "endTime": 1766827768280,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 692637,
+      "num": 1110822,
+      "word": "人之初",
+      "onboard_time": 1766457800,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 687397,
       "num": 276158,
       "word": "父亲回应奶奶看孙女睡着狂扇巴掌",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1766241564,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 544182,
+      "num": 235312,
+      "word": "十二月工资才是打工人的存款",
+      "onboard_time": 1766821639,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 542459,
@@ -3795,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372993,
+      "num": 237155,
+      "word": "我拍到了锤娜丽莎减肥的证据",
+      "onboard_time": 1766824822,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372988,
       "num": 321906,
       "word": "SBS",
@@ -4259,14 +4283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332634,
-      "num": 235312,
-      "word": "十二月工资才是打工人的存款",
-      "onboard_time": 1766821639,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 332536,
       "num": 270090,
       "word": "吓坏的李昀锐心疼的白鹿着急的丞磊",
@@ -4593,14 +4609,6 @@
       "onboard_time": 1766281459,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311219,
-      "num": 311219,
-      "word": "人之初",
-      "onboard_time": 1766457800,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 311130,
@@ -6171,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226069,
+      "num": 112094,
+      "word": "挣着2W工资冒着10W风险",
+      "onboard_time": 1766825479,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "女孩打翻水杯背后是家庭教育缺位",
@@ -6361,6 +6377,14 @@
       "onboard_time": 1766639001,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218101,
+      "num": 141925,
+      "word": "女子发现接触两根手指能调整呼吸",
+      "onboard_time": 1766826742,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 217991,
@@ -6945,6 +6969,14 @@
       "onboard_time": 1766551585,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203175,
+      "num": 136129,
+      "word": "原来红薯是一窝一窝的",
+      "onboard_time": 1766826921,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202932,
@@ -8899,6 +8931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172571,
+      "num": 172571,
+      "word": "去封关后的海南被自己穷笑了",
+      "onboard_time": 1766826620,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172520,
       "num": 154483,
       "word": "孙颖莎幼年小海胆",
@@ -9217,14 +9257,6 @@
       "onboard_time": 1766377341,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167948,
-      "num": 167948,
-      "word": "我拍到了锤娜丽莎减肥的证据",
-      "onboard_time": 1766824822,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 167706,
@@ -10152,6 +10184,14 @@
       "word": "直播间便宜货不敢再买了",
       "onboard_time": 1766376741,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153892,
+      "num": 167849,
+      "word": "人人人人济南地铁人人人人",
+      "onboard_time": 1766824459,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -11587,6 +11627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138340,
+      "num": 138340,
+      "word": "在美国不穿西装有多严重",
+      "onboard_time": 1766826019,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138279,
       "num": 173553,
       "word": "长白山云顶天宫今日对外开放",
@@ -12665,6 +12713,14 @@
       "onboard_time": 1766458640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 128984,
+      "word": "张昊唯回应胜诉",
+      "onboard_time": 1766825780,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 128922,
@@ -14795,6 +14851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111300,
+      "num": 111300,
+      "word": "WB一年两入KPL决赛",
+      "onboard_time": 1766827459,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111245,
       "num": 111245,
       "word": "疤痕体质",
@@ -14960,6 +15024,14 @@
       "word": "成都涉黄私人影院已被关停",
       "onboard_time": 1766371580,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110008,
+      "num": 167781,
+      "word": "游客低头看手机被骡子货袋撞下山坡",
+      "onboard_time": 1766823920,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -16499,6 +16571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100958,
+      "num": 100958,
+      "word": "现偶白月光男主再添一人",
+      "onboard_time": 1766826620,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100850,
       "num": 272966,
       "word": "洗澡时的冷水从不浪费",
@@ -17187,6 +17267,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 96514,
+      "num": 96514,
+      "word": "霸王茶姬声明",
+      "onboard_time": 1766826199,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96513,
       "num": 96513,
       "word": "起猛了看到年度热梗上天了",
@@ -17217,6 +17305,14 @@
       "onboard_time": 1766791998,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96327,
+      "num": 96327,
+      "word": "369说Kanavi世界赛没帮过我",
+      "onboard_time": 1766827579,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 96102,
@@ -17331,6 +17427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95359,
+      "num": 95359,
+      "word": "黄子韬回复王鹤棣",
+      "onboard_time": 1766823680,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95302,
       "num": 95302,
       "word": "冬天主打一点冷也不想受",
@@ -17425,6 +17529,14 @@
       "onboard_time": 1766808019,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 94425,
+      "num": 94425,
+      "word": "抗炎食物和促炎食物",
+      "onboard_time": 1766826080,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94339,
@@ -17721,6 +17833,14 @@
       "onboard_time": 1766568681,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91817,
+      "num": 91817,
+      "word": "杨瀚森垃圾时间未得出场机会",
+      "onboard_time": 1766827699,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 91753,
@@ -18403,6 +18523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85888,
+      "num": 85888,
+      "word": "全网都在复刻橘子皮正缘",
+      "onboard_time": 1766826260,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85800,
       "num": 86802,
       "word": "何炅见海霞秒变迷弟",
@@ -18697,6 +18825,14 @@
       "onboard_time": 1766794219,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83273,
+      "num": 83273,
+      "word": "孙悟空新皮肤无相官宣",
+      "onboard_time": 1766827459,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 83272,
@@ -19161,6 +19297,14 @@
       "onboard_time": 1766623642,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77464,
+      "num": 96594,
+      "word": "黄晓明 这么多年抹黑不差这点",
+      "onboard_time": 1766825600,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 77349,
@@ -20883,19 +21027,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54189,
+      "num": 96782,
+      "word": "有人兼职秒回师月入过万元",
+      "onboard_time": 1766826742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54181,
       "num": 145575,
       "word": "虐死继女案再审生父加刑八年",
       "onboard_time": 1766591901,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54173,
-      "num": 167781,
-      "word": "游客低头看手机被骡子货袋撞下山坡",
-      "onboard_time": 1766823920,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -22299,6 +22443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36587,
+      "num": 137858,
+      "word": "孟鲁司特临床上存过度使用问题",
+      "onboard_time": 1766826679,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36529,
       "num": 159036,
       "word": "2025LOL德玛西亚杯",
@@ -22912,14 +23064,6 @@
       "word": "冬至养生智慧藏在非遗里",
       "onboard_time": 1766286559,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31456,
-      "num": 167849,
-      "word": "人人人人济南地铁人人人人",
-      "onboard_time": 1766824459,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -24528,6 +24672,14 @@
       "word": "堆满76万现金的出租车被紧急拦下",
       "onboard_time": 1766673322,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14687,
+      "num": 97201,
+      "word": "詹某某涉诈骗案一审宣判",
+      "onboard_time": 1766826679,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
