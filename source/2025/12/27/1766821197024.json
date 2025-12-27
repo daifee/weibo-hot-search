@@ -1,0 +1,410 @@
+{
+  "runTime": 1766821197024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 263019,
+        "num": 1042083,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223084,
+        "num": 223084,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13635,
+        "num": 222520,
+        "word": "全网刷屏的2025",
+        "onboard_time": 1766805320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372482,
+        "num": 215635,
+        "word": "曹建国已从院士名单中撤下",
+        "onboard_time": 1766817259,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258020,
+        "num": 212106,
+        "word": "赵丽颖逍遥演技",
+        "onboard_time": 1766818759,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754551,
+        "num": 207879,
+        "word": "银行女经理自杀储户千万存款被转走",
+        "onboard_time": 1766813960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384553,
+        "num": 203026,
+        "word": "36岁银行女经理和丈夫先后自杀",
+        "onboard_time": 1766810299,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383604,
+        "num": 199235,
+        "word": "对不起巨型吊牌影响您穿上飞机",
+        "onboard_time": 1766813720,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322953,
+        "num": 197086,
+        "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+        "onboard_time": 1766816839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112924,
+        "num": 193117,
+        "word": "微博年度报告",
+        "onboard_time": 1766818639,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 724454,
+        "num": 186973,
+        "word": "何老师一年的工作光是听着就累了",
+        "onboard_time": 1766816299,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585333,
+        "num": 181401,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316544,
+        "num": 177870,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304078,
+        "num": 173126,
+        "word": "曝赵樱子蒋毅求婚是剧本",
+        "onboard_time": 1766812700,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264355,
+        "num": 172757,
+        "word": "早点发律师函",
+        "onboard_time": 1766816839,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244723,
+        "num": 167076,
+        "word": "金晨预定飞驰人生4女一号",
+        "onboard_time": 1766812940,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164648,
+        "num": 164648,
+        "word": "谭松韵撞档谭松韵",
+        "onboard_time": 1766807300,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150445,
+        "num": 150445,
+        "word": "刘宇宁称不进组与番位无关",
+        "onboard_time": 1766813660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144232,
+        "num": 144232,
+        "word": "逍遥开播反响",
+        "onboard_time": 1766815159,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123566,
+        "num": 143769,
+        "word": "宋威龙 硬帅",
+        "onboard_time": 1766811258,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318922,
+        "num": 139449,
+        "word": "黄一鸣分手了",
+        "onboard_time": 1766814860,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291389,
+        "num": 138515,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188360,
+        "num": 135778,
+        "word": "明年起公积金贷款利率正式下调",
+        "onboard_time": 1766819719,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 133529,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "王鹤棣问黄子韬结了婚真的会幸福肥吗",
+        "onboard_time": 1766810900,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128714,
+        "num": 128714,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37108,
+        "num": 121808,
+        "word": "吴艳妮回应比赛化妆",
+        "onboard_time": 1766821040,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120921,
+        "num": 120921,
+        "word": "沈梦辰主持功力一直在被低估",
+        "onboard_time": 1766820438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120049,
+        "num": 120049,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104838,
+        "num": 104838,
+        "word": "制作人鹿晗又上新了",
+        "onboard_time": 1766820680,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92496,
+        "num": 104140,
+        "word": "孟子义的钝感力是顶级自洽",
+        "onboard_time": 1766819299,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151568,
+        "num": 104121,
+        "word": "终于理解了孩子拴住妈的感觉",
+        "onboard_time": 1766820258,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 105715,
+        "num": 104041,
+        "word": "人之初惊喜加座",
+        "onboard_time": 1766821040,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103846,
+        "num": 103846,
+        "word": "侯明昊时隔73天说了同样的台词",
+        "onboard_time": 1766820859,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95133,
+        "num": 95133,
+        "word": "张昊唯被曝逃税涉黄最新进展",
+        "onboard_time": 1766804422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94816,
+        "num": 94816,
+        "word": "这张迪丽热巴说是科幻片我都信",
+        "onboard_time": 1766809040,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94756,
+        "num": 94756,
+        "word": "知名女星前夫詹某某道歉",
+        "onboard_time": 1766820438,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92956,
+        "num": 92956,
+        "word": "周扬青芒果综艺里cue罗成",
+        "onboard_time": 1766818520,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99209,
+        "num": 92763,
+        "word": "侯明昊逍遥演技",
+        "onboard_time": 1766820680,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91219,
+        "num": 91219,
+        "word": "张柏芝香奈儿老了还是香奈儿",
+        "onboard_time": 1766807839,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87788,
+        "num": 90473,
+        "word": "石宇奇孙颖莎等2025中国十佳运动员",
+        "onboard_time": 1766806999,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90208,
+        "num": 90208,
+        "word": "爱你老己 消费陷阱",
+        "onboard_time": 1766820859,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89025,
+        "num": 89025,
+        "word": "山楂是结节克星",
+        "onboard_time": 1766816779,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87352,
+        "num": 87352,
+        "word": "丁程鑫李雪琴演我一问三不知",
+        "onboard_time": 1766820560,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85326,
+        "num": 85326,
+        "word": "Creme后台怒怼Homme",
+        "onboard_time": 1766811380,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84700,
+        "num": 84700,
+        "word": "金饰价格突破1400元黄金回收遇冷",
+        "onboard_time": 1766807359,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83939,
+        "num": 83939,
+        "word": "有什么书读完了像过了一生",
+        "onboard_time": 1766818939,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74971,
+        "num": 82385,
+        "word": "救命钱藏沙发下被妻子交给嗜赌儿子",
+        "onboard_time": 1766819659,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82150,
+        "num": 82150,
+        "word": "熬夜熬出了最佳作息",
+        "onboard_time": 1766821159,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81890,
+        "num": 81890,
+        "word": "上班后的最大开销是上班",
+        "onboard_time": 1766821159,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2025#"
+    }
+  }
+}

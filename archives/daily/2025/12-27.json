@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766820392783,
+  "endTime": 1766821197024,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -75,20 +75,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 724454,
+      "num": 199851,
+      "word": "何老师一年的工作光是听着就累了",
+      "onboard_time": 1766816299,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683341,
       "num": 332850,
       "word": "同事为了请假已经不择手段了",
       "onboard_time": 1766759842,
       "rank": 5,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 651488,
-      "num": 199851,
-      "word": "何老师一年的工作光是听着就累了",
-      "onboard_time": 1766816299,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 626971,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 419129,
-      "num": 419129,
+      "num": 1042083,
       "word": "逍遥",
       "onboard_time": 1766809460,
       "rank": 1,
@@ -249,6 +249,14 @@
       "onboard_time": 1766746039,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372482,
+      "num": 215635,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370661,
@@ -307,20 +315,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 322953,
+      "num": 203155,
+      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+      "onboard_time": 1766816839,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316872,
       "num": 172556,
       "word": "波司登取消了李宏毅的活动",
       "onboard_time": 1766791637,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303654,
-      "num": 203155,
-      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
-      "onboard_time": 1766816839,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 297572,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275894,
-      "num": 209355,
-      "word": "曹建国已从院士名单中撤下",
-      "onboard_time": 1766817259,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "樊振东说自己不会退役",
@@ -401,6 +401,14 @@
       "onboard_time": 1766803520,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258020,
+      "num": 212106,
+      "word": "赵丽颖逍遥演技",
+      "onboard_time": 1766818759,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 258000,
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214509,
-      "num": 193877,
-      "word": "赵丽颖逍遥演技",
-      "onboard_time": 1766818759,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208417,
       "num": 483941,
       "word": "顾漫还是牛",
@@ -521,6 +521,14 @@
       "onboard_time": 1766796199,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188360,
+      "num": 135778,
+      "word": "明年起公积金贷款利率正式下调",
+      "onboard_time": 1766819719,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 185275,
@@ -747,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151568,
+      "num": 104121,
+      "word": "终于理解了孩子拴住妈的感觉",
+      "onboard_time": 1766820258,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "孙颖莎获评新华社年度十佳",
@@ -833,14 +849,6 @@
       "onboard_time": 1766808140,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 137697,
-      "num": 122379,
-      "word": "明年起公积金贷款利率正式下调",
-      "onboard_time": 1766819719,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 137480,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 123612,
-      "num": 123612,
+      "num": 143769,
       "word": "宋威龙 硬帅",
       "onboard_time": 1766811258,
       "rank": 34,
@@ -1031,6 +1039,14 @@
       "num": 121084,
       "word": "王安宇还是太爱老己了",
       "onboard_time": 1766805500,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120921,
+      "num": 120921,
+      "word": "沈梦辰主持功力一直在被低估",
+      "onboard_time": 1766820438,
       "rank": 27,
       "category": "综艺"
     },
@@ -1275,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105715,
+      "num": 104041,
+      "word": "人之初惊喜加座",
+      "onboard_time": 1766821040,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105292,
       "num": 105292,
       "word": "如何判断一个人是滋养你还是消耗你",
@@ -1291,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104838,
+      "num": 104838,
+      "word": "制作人鹿晗又上新了",
+      "onboard_time": 1766820680,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104271,
       "num": 104271,
       "word": "女子产后复工72岁公公主动帮带娃",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1766813300,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103846,
+      "num": 103846,
+      "word": "侯明昊时隔73天说了同样的台词",
+      "onboard_time": 1766820859,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 103204,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1766807480,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99209,
+      "num": 92763,
+      "word": "侯明昊逍遥演技",
+      "onboard_time": 1766820680,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 99068,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1766803399,
       "rank": 43,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 94756,
+      "num": 94756,
+      "word": "知名女星前夫詹某某道歉",
+      "onboard_time": 1766820438,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94662,
@@ -1539,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90208,
+      "num": 90208,
+      "word": "爱你老己 消费陷阱",
+      "onboard_time": 1766820859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89987,
       "num": 109553,
       "word": "女子彻夜充电致全身70%烧伤",
@@ -1595,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87352,
+      "num": 87352,
+      "word": "丁程鑫李雪琴演我一问三不知",
+      "onboard_time": 1766820560,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86234,
       "num": 90076,
       "word": "做美甲前vs做美甲后",
@@ -1643,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82150,
+      "num": 82150,
+      "word": "熬夜熬出了最佳作息",
+      "onboard_time": 1766821159,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82084,
       "num": 82084,
       "word": "妈妈因孩子作业呼吸性碱中毒",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1766794099,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81890,
+      "num": 81890,
+      "word": "上班后的最大开销是上班",
+      "onboard_time": 1766821159,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 81803,
@@ -1785,6 +1873,14 @@
       "onboard_time": 1766759782,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74971,
+      "num": 96352,
+      "word": "救命钱藏沙发下被妻子交给嗜赌儿子",
+      "onboard_time": 1766819659,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74851,
@@ -1995,14 +2091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59552,
-      "num": 96352,
-      "word": "救命钱藏沙发下被妻子交给嗜赌儿子",
-      "onboard_time": 1766819659,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57563,
       "num": 108260,
       "word": "还好霍建华不上网",
@@ -2121,6 +2209,14 @@
       "onboard_time": 1766760801,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37108,
+      "num": 121808,
+      "word": "吴艳妮回应比赛化妆",
+      "onboard_time": 1766821040,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 36130,
@@ -2433,6 +2529,14 @@
       "onboard_time": 1766777834,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13635,
+      "num": 222520,
+      "word": "全网刷屏的2025",
+      "onboard_time": 1766805320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13307,

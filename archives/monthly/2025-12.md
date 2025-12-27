@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 15:26:32
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 15:39:57
 </p>
 </blockquote>
 <p>
@@ -3663,6 +3663,12 @@ WB对战AG（热度：775876）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E4%B8%80%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%85%89%E6%98%AF%E5%90%AC%E7%9D%80%E5%B0%B1%E7%B4%AF%E4%BA%86%23" target="weibo">
+何老师一年的工作光是听着就累了（热度：724454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E9%A3%99%E6%B6%A8%23" target="weibo">
 银价飙涨（热度：724004）
 </a>
@@ -4481,12 +4487,6 @@ iPhone18Pro左上角挖孔设计（热度：655185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%9C%A8%E5%90%91%E8%A5%BF%E5%8D%97%E8%BD%AC%E7%A7%BB%23" target="weibo">
 日本自卫队被曝正在向西南转移（热度：651982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E4%B8%80%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%85%89%E6%98%AF%E5%90%AC%E7%9D%80%E5%B0%B1%E7%B4%AF%E4%BA%86%23" target="weibo">
-何老师一年的工作光是听着就累了（热度：651488）
 </a>
 </li>
 
