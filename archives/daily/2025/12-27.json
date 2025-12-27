@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766840029547,
+  "endTime": 1766840831502,
   "band_list": [
     {
       "raw_hot": 9567193,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1142642,
-      "num": 226421,
+      "num": 230069,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 15,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 777694,
-      "num": 233968,
+      "num": 237490,
       "word": "橹穆 来自天堂的魔鬼",
       "onboard_time": 1766836103,
       "rank": 8,
@@ -147,20 +147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 699743,
+      "num": 304857,
+      "word": "中华人民共和国主席令",
+      "onboard_time": 1766833341,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 692637,
       "num": 1110822,
       "word": "人之初",
       "onboard_time": 1766813238,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 691538,
-      "num": 304857,
-      "word": "中华人民共和国主席令",
-      "onboard_time": 1766833341,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 683341,
@@ -379,6 +379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 389512,
+      "num": 261688,
+      "word": "老人感染艾滋病多与商业性行为有关",
+      "onboard_time": 1766834600,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 386927,
       "num": 1061908,
       "word": "曹建国已从院士名单中撤下",
@@ -393,14 +401,6 @@
       "onboard_time": 1766808560,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374996,
-      "num": 244206,
-      "word": "老人感染艾滋病多与商业性行为有关",
-      "onboard_time": 1766834600,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 373788,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310718,
+      "num": 221934,
+      "word": "宋威龙见面会",
+      "onboard_time": 1766837482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305661,
       "num": 305661,
       "word": "明年起公积金贷款利率正式下调",
@@ -563,14 +571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 279794,
-      "num": 221424,
-      "word": "宋威龙见面会",
-      "onboard_time": 1766837482,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279306,
       "num": 184633,
       "word": "刘宇宁称不进组与番位无关",
@@ -585,6 +585,14 @@
       "onboard_time": 1766828239,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273559,
+      "num": 216021,
+      "word": "穆橹好伟大的ending",
+      "onboard_time": 1766839283,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 273211,
@@ -683,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230648,
+      "num": 230648,
+      "word": "AG对战Hero",
+      "onboard_time": 1766840003,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228634,
       "num": 228634,
       "word": "燕云十六声相关补偿",
@@ -707,8 +723,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223224,
-      "num": 223224,
+      "raw_hot": 226773,
+      "num": 226773,
       "word": "AG超玩会 BP",
       "onboard_time": 1766839042,
       "rank": 9,
@@ -755,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212407,
-      "num": 212407,
-      "word": "穆橹好伟大的ending",
-      "onboard_time": 1766839283,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211189,
       "num": 167934,
       "word": "肖战说爱你老己就是对自己好",
@@ -793,6 +801,14 @@
       "onboard_time": 1766834241,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205201,
+      "num": 205201,
+      "word": "上海地产0比3山东魏桥",
+      "onboard_time": 1766839882,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 203175,
@@ -841,14 +857,6 @@
       "onboard_time": 1766839583,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198258,
-      "num": 198258,
-      "word": "上海地产0比3山东魏桥",
-      "onboard_time": 1766839882,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 194476,
@@ -979,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177945,
+      "num": 177945,
+      "word": "香港桥底命案被捕人数增至27人",
+      "onboard_time": 1766839401,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177717,
       "num": 177717,
       "word": "人人人人济南地铁人人人人",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1766801479,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173477,
+      "num": 142377,
+      "word": "谈了几年的男朋友第一次见家长",
+      "onboard_time": 1766840063,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 172993,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1766833520,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168558,
+      "num": 168558,
+      "word": "王者荣耀挑战者杯",
+      "onboard_time": 1766840181,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 168289,
@@ -1131,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163743,
-      "num": 163743,
-      "word": "AG对战Hero",
-      "onboard_time": 1766840003,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163198,
       "num": 163198,
       "word": "白敬亭回归现在就出发了",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1766810000,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161820,
+      "num": 161820,
+      "word": "AG剧透",
+      "onboard_time": 1766840543,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 161642,
@@ -1243,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149496,
-      "num": 139421,
-      "word": "香港桥底命案被捕人数增至27人",
-      "onboard_time": 1766839401,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149087,
       "num": 149087,
       "word": "朱志鑫苏新皓ON双人舞",
@@ -1275,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148309,
+      "num": 140086,
+      "word": "巴基斯坦怒了",
+      "onboard_time": 1766838442,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148172,
       "num": 148172,
       "word": "司美格鲁肽等减重神药降价",
@@ -1291,20 +1323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147208,
-      "num": 137053,
-      "word": "巴基斯坦怒了",
-      "onboard_time": 1766838442,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143912,
       "num": 122615,
       "word": "张真源牙钻这次够清晰了",
       "onboard_time": 1766800699,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143741,
+      "num": 143741,
+      "word": "原来这才是冷帽正确戴法",
+      "onboard_time": 1766838803,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 143358,
@@ -1419,12 +1451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132774,
-      "num": 132774,
-      "word": "原来这才是冷帽正确戴法",
-      "onboard_time": 1766838803,
-      "rank": 32,
-      "category": "情感,休闲"
+      "raw_hot": 133599,
+      "num": 133599,
+      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+      "onboard_time": 1766839042,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133343,
+      "num": 133343,
+      "word": "谁家女主每天都在刀吗刀吗",
+      "onboard_time": 1766840362,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 131975,
@@ -1483,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "梁靖崑林昀儒王楚钦进决赛",
+      "onboard_time": 1766839763,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129117,
       "num": 129117,
       "word": "单依纯全专试听",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1766834961,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127063,
+      "num": 127063,
+      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+      "onboard_time": 1766840181,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127005,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1766821400,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125600,
+      "num": 125600,
+      "word": "想把我唱给你听",
+      "onboard_time": 1766840063,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 125070,
@@ -1667,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119497,
+      "num": 119497,
+      "word": "逍遥爱奇艺热度破6000",
+      "onboard_time": 1766839401,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119291,
       "num": 76844,
       "word": "恋与深空云游戏公测",
@@ -1715,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115615,
-      "num": 115615,
-      "word": "逍遥爱奇艺热度破6000",
-      "onboard_time": 1766839401,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115304,
       "num": 115304,
       "word": "恋与深空等身雕塑",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1766760982,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114335,
-      "num": 114335,
-      "word": "梁靖崑林昀儒王楚钦进决赛",
-      "onboard_time": 1766839763,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 114333,
@@ -1825,6 +1881,14 @@
       "onboard_time": 1766758941,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "26岁终于拥有属于自己的房子",
+      "onboard_time": 1766840543,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 111565,
@@ -2129,6 +2193,14 @@
       "onboard_time": 1766802139,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104103,
+      "num": 104103,
+      "word": "减肥半个月最明显的就是你的嘴",
+      "onboard_time": 1766837482,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 104056,
@@ -3179,14 +3251,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 61161,
-      "num": 116448,
-      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
-      "onboard_time": 1766839042,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60773,
       "num": 108727,
       "word": "左奇函daddy级别",
@@ -3427,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31943,
+      "num": 121393,
+      "word": "黑钻会员的含金量还在上升",
+      "onboard_time": 1766840482,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30759,
       "num": 107353,
       "word": "陈妍希开门 我是妹妹",
@@ -3497,6 +3569,14 @@
       "onboard_time": 1766776575,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26248,
+      "num": 247034,
+      "word": "2025热搜里的中国",
+      "onboard_time": 1766840421,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25973,
@@ -3659,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19277,
+      "num": 126109,
+      "word": "唐嫣人之初造型梦回汪小姐",
+      "onboard_time": 1766840722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19274,
       "num": 442486,
       "word": "这些大国工程见证中国之变",
@@ -3793,6 +3881,14 @@
       "onboard_time": 1766831901,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7342,
+      "num": 325116,
+      "word": "中国低温火箭年度发射新纪录",
+      "onboard_time": 1766840782,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3807,6 +3903,9 @@
     },
     {
       "word": "#共产党人必须真抓实干#"
+    },
+    {
+      "word": "#习近平这样要求共产党人#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766840831502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 411961,
+        "num": 1980079,
+        "word": "恋人",
+        "onboard_time": 1766831180,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326487,
+        "num": 326487,
+        "word": "去封关后的海南被自己穷笑了",
+        "onboard_time": 1766826620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7342,
+        "num": 325116,
+        "word": "中国低温火箭年度发射新纪录",
+        "onboard_time": 1766840782,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8454860,
+        "num": 8454860,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 699743,
+        "num": 287985,
+        "word": "中华人民共和国主席令",
+        "onboard_time": 1766833341,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504741,
+        "num": 279417,
+        "word": "长期如厕刷手机20岁女生盆底已60岁",
+        "onboard_time": 1766835321,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389512,
+        "num": 261688,
+        "word": "老人感染艾滋病多与商业性行为有关",
+        "onboard_time": 1766834600,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 26248,
+        "num": 247034,
+        "word": "2025热搜里的中国",
+        "onboard_time": 1766840421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573448,
+        "num": 237490,
+        "word": "橹穆 来自天堂的魔鬼",
+        "onboard_time": 1766836103,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "AG对战Hero",
+        "onboard_time": 1766840003,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1005251,
+        "num": 230069,
+        "word": "王星自曝在缅甸手机被人拿走刷网贷",
+        "onboard_time": 1766835259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676192,
+        "num": 228983,
+        "word": "王晶说肖战戏路很窄",
+        "onboard_time": 1766833401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344427,
+        "num": 228135,
+        "word": "林屿森微博 私密转公开",
+        "onboard_time": 1766835802,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331344,
+        "num": 227645,
+        "word": "王橹杰发博",
+        "onboard_time": 1766829559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226773,
+        "num": 226773,
+        "word": "AG超玩会 BP",
+        "onboard_time": 1766839042,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 310718,
+        "num": 221934,
+        "word": "宋威龙见面会",
+        "onboard_time": 1766837482,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273559,
+        "num": 216021,
+        "word": "穆橹好伟大的ending",
+        "onboard_time": 1766839283,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205201,
+        "num": 205201,
+        "word": "上海地产0比3山东魏桥",
+        "onboard_time": 1766839882,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194606,
+        "num": 194606,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192236,
+        "num": 192236,
+        "word": "杨博文这句yeah唱爽了",
+        "onboard_time": 1766839583,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191427,
+        "num": 191427,
+        "word": "王晶认为肖战经纪人要会挑剧本",
+        "onboard_time": 1766838200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178409,
+        "num": 178409,
+        "word": "湘超",
+        "onboard_time": 1766835561,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 177945,
+        "word": "香港桥底命案被捕人数增至27人",
+        "onboard_time": 1766839401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 168558,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1766840181,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161820,
+        "num": 161820,
+        "word": "AG剧透",
+        "onboard_time": 1766840543,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157248,
+        "num": 157248,
+        "word": "身体炎症水平高不高看4点",
+        "onboard_time": 1766834541,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148080,
+        "num": 148080,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143741,
+        "num": 143741,
+        "word": "原来这才是冷帽正确戴法",
+        "onboard_time": 1766838803,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 20101,
+        "num": 143295,
+        "word": "走过2025我们都是主角",
+        "onboard_time": 1766823499,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142971,
+        "num": 142971,
+        "word": "女子发现接触两根手指能调整呼吸",
+        "onboard_time": 1766826742,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173477,
+        "num": 142377,
+        "word": "谈了几年的男朋友第一次见家长",
+        "onboard_time": 1766840063,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 148309,
+        "num": 140086,
+        "word": "巴基斯坦怒了",
+        "onboard_time": 1766838442,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134276,
+        "num": 134276,
+        "word": "王橹杰manta神级导入",
+        "onboard_time": 1766838683,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+        "onboard_time": 1766839042,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133343,
+        "num": 133343,
+        "word": "谁家女主每天都在刀吗刀吗",
+        "onboard_time": 1766840362,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129414,
+        "num": 129414,
+        "word": "梁靖崑林昀儒王楚钦进决赛",
+        "onboard_time": 1766839763,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127063,
+        "num": 127063,
+        "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+        "onboard_time": 1766840181,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19277,
+        "num": 126109,
+        "word": "唐嫣人之初造型梦回汪小姐",
+        "onboard_time": 1766840722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125600,
+        "num": 125600,
+        "word": "想把我唱给你听",
+        "onboard_time": 1766840063,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31943,
+        "num": 121393,
+        "word": "黑钻会员的含金量还在上升",
+        "onboard_time": 1766840482,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42298,
+        "num": 121042,
+        "word": "李逗逗黑脸百灵鸟",
+        "onboard_time": 1766836881,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120791,
+        "num": 120791,
+        "word": "骄阳似我 又土又好看",
+        "onboard_time": 1766837725,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 119887,
+        "word": "林昀儒3比0孙正",
+        "onboard_time": 1766839642,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119497,
+        "num": 119497,
+        "word": "逍遥爱奇艺热度破6000",
+        "onboard_time": 1766839401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364058,
+        "num": 119236,
+        "word": "燕云十六声情趣内衣",
+        "onboard_time": 1766827940,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118675,
+        "num": 118675,
+        "word": "樊振东陈梦王曼昱虎扑十大运动员",
+        "onboard_time": 1766830939,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111722,
+        "num": 111722,
+        "word": "26岁终于拥有属于自己的房子",
+        "onboard_time": 1766840543,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111605,
+        "num": 111605,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110236,
+        "num": 110236,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104103,
+        "num": 104103,
+        "word": "减肥半个月最明显的就是你的嘴",
+        "onboard_time": 1766837482,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样要求共产党人#"
+    }
+  }
+}
