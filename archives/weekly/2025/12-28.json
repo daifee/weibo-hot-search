@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766867499964,
+  "endTime": 1766868212972,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 30315,
-      "num": 40572,
+      "num": 40644,
       "word": "张函瑞神的孩子在唱歌",
       "onboard_time": 1766862254,
       "rank": 36,
@@ -547,7 +547,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16355,
+      "raw_hot": 23609,
+      "num": 45970,
+      "word": "微博网友年度喜爱作品",
+      "onboard_time": 1766867293,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16710,
       "num": 45992,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
@@ -569,14 +577,6 @@
       "onboard_time": 1766840181,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14459,
-      "num": 45970,
-      "word": "微博网友年度喜爱作品",
-      "onboard_time": 1766867293,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14359,

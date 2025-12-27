@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 04:31:39
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 04:43:32
 </p>
 </blockquote>
 <p>
@@ -423,8 +423,14 @@ FGO 完结（热度：52912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BD%91%E5%8F%8B%E5%B9%B4%E5%BA%A6%E5%96%9C%E7%88%B1%E4%BD%9C%E5%93%81%23" target="weibo">
+微博网友年度喜爱作品（热度：23609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E6%97%A9%E5%B0%B1%E8%A7%81%E9%9D%A2%E4%BA%86%23" target="weibo">
-宋威龙原来我们早就见面了（热度：16355）
+宋威龙原来我们早就见面了（热度：16710）
 </a>
 </li>
 
@@ -437,12 +443,6 @@ FGO 完结（热度：52912）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%23" target="weibo">
 王者荣耀挑战者杯（热度：15436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BD%91%E5%8F%8B%E5%B9%B4%E5%BA%A6%E5%96%9C%E7%88%B1%E4%BD%9C%E5%93%81%23" target="weibo">
-微博网友年度喜爱作品（热度：14459）
 </a>
 </li>
 
