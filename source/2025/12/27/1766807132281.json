@@ -1,0 +1,410 @@
+{
+  "runTime": 1766807132281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472845,
+        "num": 1472845,
+        "word": "6名大学生坠落事故调查结果",
+        "onboard_time": 1766801720,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 513592,
+        "num": 513592,
+        "word": "第一个官宣春晚的省级卫视",
+        "onboard_time": 1766803520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16454,
+        "num": 463060,
+        "word": "2025这些同框瞬间你还记得吗",
+        "onboard_time": 1766806099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1398309,
+        "num": 454240,
+        "word": "6名坠落大学生呼吸道窒息死亡",
+        "onboard_time": 1766803399,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 432248,
+        "num": 432248,
+        "word": "白宫发言人与60岁丈夫宣布怀孕",
+        "onboard_time": 1766802501,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266134,
+        "num": 266134,
+        "word": "逍遥全阵容开播",
+        "onboard_time": 1766798839,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264716,
+        "num": 264716,
+        "word": "樊振东说自己不会退役",
+        "onboard_time": 1766802920,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251956,
+        "num": 251956,
+        "word": "8旬老人与保姆发生性关系感染HIV",
+        "onboard_time": 1766756063,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224719,
+        "num": 224719,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1766759842,
+        "rank": 8,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 35841,
+        "num": 223484,
+        "word": "731部队细菌战每月产10公斤跳蚤",
+        "onboard_time": 1766806579,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626971,
+        "num": 222244,
+        "word": "张昊唯被曝逃税涉黄最新进展",
+        "onboard_time": 1766804422,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507218,
+        "num": 221122,
+        "word": "黄景瑜这辈子别想坐我车了",
+        "onboard_time": 1766796622,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253858,
+        "num": 218442,
+        "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
+        "onboard_time": 1766798539,
+        "rank": 12,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 245376,
+        "num": 218000,
+        "word": "花少摄影师发了99张北斗七行",
+        "onboard_time": 1766794219,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241315,
+        "num": 215089,
+        "word": "28岁确诊结肠癌晚期的真实感受",
+        "onboard_time": 1766795058,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215033,
+        "num": 215033,
+        "word": "爱奇艺腾讯优酷都发了赵丽颖",
+        "onboard_time": 1766798539,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228153,
+        "num": 212504,
+        "word": "千万粉丝网红谈被父母PUA",
+        "onboard_time": 1766803520,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 194369,
+        "word": "国漫角色代言五年高考三年模拟",
+        "onboard_time": 1766806520,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65555,
+        "num": 186539,
+        "word": "6名大学生坠落4人被刑事强制",
+        "onboard_time": 1766805379,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 185436,
+        "word": "柬首相夫人哽咽称只愿国家重回和平",
+        "onboard_time": 1766806579,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200726,
+        "num": 185118,
+        "word": "石宇奇孙颖莎等2025中国十佳运动员",
+        "onboard_time": 1766806999,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184636,
+        "num": 184636,
+        "word": "顾漫五部小说改编五部影视爆款",
+        "onboard_time": 1766805379,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172837,
+        "num": 172837,
+        "word": "宝马销冠一口价营销8天卖11台",
+        "onboard_time": 1766796079,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167831,
+        "num": 167831,
+        "word": "结婚的好处只有幸福的人说得出来",
+        "onboard_time": 1766805080,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149081,
+        "num": 149081,
+        "word": "白鹿希望大家多多关注作品",
+        "onboard_time": 1766806159,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "曝印度男子夜举火把给太阳能板充电",
+        "onboard_time": 1766801658,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "人之初好看的是人",
+        "onboard_time": 1766806279,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "王安宇还是太爱老己了",
+        "onboard_time": 1766805500,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69101,
+        "num": 119069,
+        "word": "6名大学生坠落中金被罚149.9万元",
+        "onboard_time": 1766805379,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 118296,
+        "num": 118296,
+        "word": "台湾网友听到台湾终于被点激动哭了",
+        "onboard_time": 1766791637,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137088,
+        "num": 117644,
+        "word": "前额叶都快死了你还在怪自己",
+        "onboard_time": 1766805858,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116648,
+        "num": 116648,
+        "word": "王一博在岩壁上金鸡独立",
+        "onboard_time": 1766806339,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114333,
+        "num": 114333,
+        "word": "不听劝买了别人不要的顶楼",
+        "onboard_time": 1766806220,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111565,
+        "num": 111565,
+        "word": "周深以15首歌战绩结束录制",
+        "onboard_time": 1766805980,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109481,
+        "num": 109481,
+        "word": "专家称老年人的性需求长期被忽视",
+        "onboard_time": 1766799500,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107980,
+        "num": 107980,
+        "word": "50万黄金无人领民警电话被打爆",
+        "onboard_time": 1766803340,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104820,
+        "num": 104820,
+        "word": "现在就出发3",
+        "onboard_time": 1766799198,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20561,
+        "num": 104405,
+        "word": "吉林34年前杀人案再审维持原判",
+        "onboard_time": 1766805919,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104271,
+        "num": 104271,
+        "word": "女子产后复工72岁公公主动帮带娃",
+        "onboard_time": 1766802139,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103204,
+        "num": 103204,
+        "word": "王橹杰穆祉丞美杜莎双人cut",
+        "onboard_time": 1766794099,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102423,
+        "num": 102423,
+        "word": "你的人生不该被零成本的人左右",
+        "onboard_time": 1766804899,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100157,
+        "num": 100157,
+        "word": "逍遥首播五集",
+        "onboard_time": 1766803399,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98981,
+        "num": 98981,
+        "word": "赵丽颖惊鸿一瞥画中仙",
+        "onboard_time": 1766803879,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95071,
+        "num": 95071,
+        "word": "朱棣兔朱棣你被捕了",
+        "onboard_time": 1766803399,
+        "rank": 43,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 92734,
+        "num": 92734,
+        "word": "广电认证四大年冠",
+        "onboard_time": 1766801479,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90032,
+        "num": 90032,
+        "word": "银价升升升",
+        "onboard_time": 1766806940,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89888,
+        "num": 89888,
+        "word": "国际银价暴涨",
+        "onboard_time": 1766802859,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89664,
+        "num": 89664,
+        "word": "肖战的回答永远真诚又清醒",
+        "onboard_time": 1766797459,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88842,
+        "num": 88842,
+        "word": "华为悬赏300万元求解AI难题",
+        "onboard_time": 1766799259,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83873,
+        "num": 83873,
+        "word": "燕云十六声 衣服",
+        "onboard_time": 1766794219,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2025#"
+    }
+  }
+}
