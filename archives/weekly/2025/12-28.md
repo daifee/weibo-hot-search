@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 02:37:55
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 02:51:12
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ FGO 完结（热度：52912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%20%E5%93%A5%E7%A9%BF%E7%A0%B4%E5%B8%83%E9%83%BD%E6%98%AF%E5%B8%85%E5%93%A5%23" target="weibo">
+张泽禹 哥穿破布都是帅哥（热度：37577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F2025%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%23" target="weibo">
 人民军队2025年终大片（热度：36010）
 </a>
@@ -389,6 +395,12 @@ FGO 完结（热度：52912）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%B1%80%23" target="weibo">
 入局（热度：32375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E8%BF%99%E5%BC%A0%E8%84%B8%E6%88%91%E8%AE%B0%E4%BD%8F%E4%BA%86%23" target="weibo">
+侯明昊这张脸我记住了（热度：30633）
 </a>
 </li>
 

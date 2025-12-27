@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766860675857,
+  "endTime": 1766861472470,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37577,
+      "num": 60942,
+      "word": "张泽禹 哥穿破布都是帅哥",
+      "onboard_time": 1766861056,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36010,
       "num": 1681119,
       "word": "人民军队2025年终大片",
@@ -503,6 +511,14 @@
       "num": 65548,
       "word": "入局",
       "onboard_time": 1766859735,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30633,
+      "num": 60844,
+      "word": "侯明昊这张脸我记住了",
+      "onboard_time": 1766861234,
       "rank": 46,
       "category": "剧集"
     },
