@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 00:47:36
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/28 01:25:20
 </p>
 </blockquote>
 <p>
@@ -88,7 +88,7 @@ Hero战胜AG（热度：554660）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%85%AC%E5%BC%80%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%9C%89%E8%A1%A8%E8%BE%BE%E9%9A%9C%E7%A2%8D%23" target="weibo">
-单依纯公开承认自己有表达障碍（热度：467019）
+单依纯公开承认自己有表达障碍（热度：471556）
 </a>
 </li>
 
@@ -123,8 +123,20 @@ Hero战胜AG（热度：554660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%BC%85%E7%94%B8%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%BA%BA%E6%8B%BF%E8%B5%B0%E5%88%B7%E7%BD%91%E8%B4%B7%23" target="weibo">
+王星自曝在缅甸手机被人拿走刷网贷（热度：295978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Cat%E6%95%99%E7%BB%83%23" target="weibo">
 Cat教练（热度：280884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
+台湾海域6.6级地震现场画面（热度：275075）
 </a>
 </li>
 
@@ -135,14 +147,14 @@ Cat教练（热度：280884）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%91%87%E6%99%83%E8%BF%911%E5%88%86%E9%92%9F%23" target="weibo">
-台北摇晃近1分钟（热度：219152）
+<a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0%E5%A4%9A%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%9C%AA%E5%B9%B3%E6%81%AF%E4%BA%89%E8%AE%AE%23" target="weibo">
+燕云十六声多次回应未平息争议（热度：227942）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%BC%85%E7%94%B8%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%BA%BA%E6%8B%BF%E8%B5%B0%E5%88%B7%E7%BD%91%E8%B4%B7%23" target="weibo">
-王星自曝在缅甸手机被人拿走刷网贷（热度：211613）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%91%87%E6%99%83%E8%BF%911%E5%88%86%E9%92%9F%23" target="weibo">
+台北摇晃近1分钟（热度：219152）
 </a>
 </li>
 
@@ -191,12 +203,6 @@ AG无缘挑杯决赛（热度：159509）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E8%B6%85%E7%8E%A9%E4%BC%9A%20BP%23" target="weibo">
 AG超玩会 BP（热度：136191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
-台湾海域6.6级地震现场画面（热度：132978）
 </a>
 </li>
 
@@ -321,8 +327,20 @@ AG剧透（热度：83862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%A5%87%E5%87%BDrap%E8%83%BD%E5%8A%9B%23" target="weibo">
+左奇函rap能力（热度：73675）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E4%BB%A52%E4%B8%AA%E9%80%80%E8%B5%9B%E7%BB%93%E6%9D%9F2025%23" target="weibo">
 王楚钦说不想以2个退赛结束2025（热度：66055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%9E%E6%B4%B2%E6%B4%8B%E6%B4%8B%E6%B6%89%E5%AB%8C%E7%BB%91%E6%9E%B6%E5%90%8C%E8%83%9E%E8%A2%AB%E6%8A%93%23" target="weibo">
+网红非洲洋洋涉嫌绑架同胞被抓（热度：64599）
 </a>
 </li>
 
@@ -333,8 +351,20 @@ FGO 完结（热度：52912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8C%A5%E6%89%8B%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%23" target="weibo">
+王楚钦挥手回应球迷新年祝福（热度：49960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F2025%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%23" target="weibo">
 人民军队2025年终大片（热度：36010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E7%83%AD%E6%90%9C%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
+2025热搜里的中国（热度：9451）
 </a>
 </li>
 
