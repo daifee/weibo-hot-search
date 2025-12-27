@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766863355881,
+  "endTime": 1766864243439,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -532,15 +532,15 @@
     },
     {
       "raw_hot": 26967,
-      "num": 40540,
+      "num": 47010,
       "word": "苏新皓抓周抓的是镜头",
       "onboard_time": 1766862975,
       "rank": 41,
       "category": "演出"
     },
     {
-      "raw_hot": 24886,
-      "num": 40522,
+      "raw_hot": 25662,
+      "num": 47008,
       "word": "张极绷带造型富有且大方",
       "onboard_time": 1766863215,
       "rank": 45,
