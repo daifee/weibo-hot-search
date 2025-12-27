@@ -1,0 +1,410 @@
+{
+  "runTime": 1766834610049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 427937,
+        "num": 1068470,
+        "word": "去封关后的海南被自己穷笑了",
+        "onboard_time": 1766826620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265096,
+        "num": 265096,
+        "word": "老人存167万消失突发脑梗后离世",
+        "onboard_time": 1766829920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 250241,
+        "word": "十四五我国健儿获665个世界冠军",
+        "onboard_time": 1766824040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474939,
+        "num": 250151,
+        "word": "新音节目单",
+        "onboard_time": 1766829621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249873,
+        "num": 249873,
+        "word": "明年起公积金贷款利率正式下调",
+        "onboard_time": 1766819719,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 521234,
+        "num": 247534,
+        "word": "女子发现接触两根手指能调整呼吸",
+        "onboard_time": 1766826742,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501760,
+        "num": 243147,
+        "word": "王橹杰黄昏晓",
+        "onboard_time": 1766833161,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345094,
+        "num": 238456,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320125,
+        "num": 231656,
+        "word": "樊振东陈梦王曼昱虎扑十大运动员",
+        "onboard_time": 1766830939,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228349,
+        "num": 228349,
+        "word": "爱错",
+        "onboard_time": 1766831901,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 795554,
+        "num": 228205,
+        "word": "王晶说肖战戏路很窄",
+        "onboard_time": 1766833401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645910,
+        "num": 228200,
+        "word": "燕云十六声情趣内衣",
+        "onboard_time": 1766827940,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228059,
+        "num": 228059,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471797,
+        "num": 226804,
+        "word": "王橹杰发博",
+        "onboard_time": 1766829559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11598,
+        "num": 224210,
+        "word": "徐浩伦谭湘文掌管塑普的神",
+        "onboard_time": 1766833279,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289257,
+        "num": 221912,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236642,
+        "num": 220478,
+        "word": "十二月工资才是打工人的存款",
+        "onboard_time": 1766821639,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219851,
+        "num": 219851,
+        "word": "恋人",
+        "onboard_time": 1766831180,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202754,
+        "num": 202754,
+        "word": "张函瑞黄昏晓",
+        "onboard_time": 1766833701,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55774,
+        "num": 197175,
+        "word": "星巴克回应顾客喝竞品饮品被提醒",
+        "onboard_time": 1766833880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294978,
+        "num": 196699,
+        "word": "邵子恒走光了",
+        "onboard_time": 1766831480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196128,
+        "num": 196128,
+        "word": "新音直播",
+        "onboard_time": 1766831601,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206318,
+        "num": 194506,
+        "word": "左航亮片狼尾",
+        "onboard_time": 1766834241,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184403,
+        "num": 184403,
+        "word": "燕云十六声相关补偿",
+        "onboard_time": 1766828180,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169119,
+        "num": 169119,
+        "word": "骄阳似我追剧日历",
+        "onboard_time": 1766833520,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162364,
+        "num": 162364,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129241,
+        "num": 129241,
+        "word": "肖战喜欢爱你老己这个梗",
+        "onboard_time": 1766821879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129117,
+        "num": 129117,
+        "word": "单依纯全专试听",
+        "onboard_time": 1766832500,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111868,
+        "num": 126177,
+        "word": "周恺vs王楚钦",
+        "onboard_time": 1766832862,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91471,
+        "num": 125598,
+        "word": "4种脂肪含量很高的面包",
+        "onboard_time": 1766834241,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 463059,
+        "num": 125335,
+        "word": "中华人民共和国主席令",
+        "onboard_time": 1766833341,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125070,
+        "num": 125070,
+        "word": "伞兵集结夜权威舞台",
+        "onboard_time": 1766834120,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123655,
+        "num": 123655,
+        "word": "被拐演员王星和女友首次合体访问",
+        "onboard_time": 1766829621,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56453,
+        "num": 120088,
+        "word": "求职者未参加面试被人事骂没教养",
+        "onboard_time": 1766832680,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119096,
+        "num": 119096,
+        "word": "苹果烤奶",
+        "onboard_time": 1766830820,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110620,
+        "num": 110620,
+        "word": "新音",
+        "onboard_time": 1766829621,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109746,
+        "num": 109746,
+        "word": "入住21年还能这么干净的家",
+        "onboard_time": 1766833580,
+        "rank": 36,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 108642,
+        "num": 108642,
+        "word": "第一次见男主追妻失忆卖惨炫腹肌",
+        "onboard_time": 1766833819,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16383,
+        "num": 107609,
+        "word": "50岁女子偷外卖被刑拘",
+        "onboard_time": 1766834179,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1384720,
+        "num": 107593,
+        "word": "自杀银行女经理生前月薪五六万",
+        "onboard_time": 1766830460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39943,
+        "num": 107567,
+        "word": "这笔门诊预交金记得去退",
+        "onboard_time": 1766832559,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104077,
+        "num": 104077,
+        "word": "朱志鑫直拍",
+        "onboard_time": 1766829859,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42225,
+        "num": 103968,
+        "word": "621万大奖无人认领急寻彩民",
+        "onboard_time": 1766833100,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103894,
+        "num": 103894,
+        "word": "他才1岁8个月就懂这么多英语",
+        "onboard_time": 1766831361,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102201,
+        "num": 102201,
+        "word": "终于理解了孩子拴住妈的感觉",
+        "onboard_time": 1766820258,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 102158,
+        "num": 102158,
+        "word": "身体炎症水平高不高看4点",
+        "onboard_time": 1766834541,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101371,
+        "num": 101371,
+        "word": "人之初惊喜加座",
+        "onboard_time": 1766821040,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90880,
+        "num": 90880,
+        "word": "Cryin在GEN首秀",
+        "onboard_time": 1766829080,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85986,
+        "num": 85986,
+        "word": "网剧双轨",
+        "onboard_time": 1766828660,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共产党人必须真抓实干#"
+    }
+  }
+}
