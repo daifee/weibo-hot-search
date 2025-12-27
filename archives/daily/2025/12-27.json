@@ -1,10 +1,10 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766801045003,
+  "endTime": 1766802454103,
   "band_list": [
     {
-      "raw_hot": 864000,
-      "num": 179283,
+      "raw_hot": 906216,
+      "num": 227123,
       "word": "黄景瑜这辈子别想坐我车了",
       "onboard_time": 1766796622,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 683341,
-      "num": 327628,
+      "num": 332850,
       "word": "同事为了请假已经不择手段了",
       "onboard_time": 1766759842,
       "rank": 5,
@@ -35,8 +35,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547004,
+      "num": 214782,
+      "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
+      "onboard_time": 1766798539,
+      "rank": 12,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 507005,
-      "num": 178919,
+      "num": 202565,
       "word": "28岁确诊结肠癌晚期的真实感受",
       "onboard_time": 1766795058,
       "rank": 11,
@@ -51,28 +59,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 470173,
-      "num": 254533,
-      "word": "宋威龙赵今麦杀死了现偶比赛",
-      "onboard_time": 1766756001,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 461706,
-      "num": 461706,
+      "raw_hot": 478859,
+      "num": 478859,
       "word": "逍遥全阵容开播",
       "onboard_time": 1766798839,
       "rank": 1,
       "category": "剧集"
     },
     {
-      "raw_hot": 453887,
-      "num": 178635,
-      "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
-      "onboard_time": 1766798539,
-      "rank": 12,
-      "category": "艺人,民生新闻"
+      "raw_hot": 470173,
+      "num": 254533,
+      "word": "宋威龙赵今麦杀死了现偶比赛",
+      "onboard_time": 1766756001,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 436254,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 406311,
-      "num": 178231,
+      "num": 188632,
       "word": "花少摄影师发了99张北斗七行",
       "onboard_time": 1766794219,
       "rank": 13,
@@ -107,8 +107,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356253,
+      "num": 356253,
+      "word": "爱奇艺腾讯优酷都发了赵丽颖",
+      "onboard_time": 1766798539,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354769,
-      "num": 310793,
+      "num": 320188,
       "word": "8旬老人与保姆发生性关系感染HIV",
       "onboard_time": 1766756063,
       "rank": 6,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293080,
-      "num": 293080,
-      "word": "爱奇艺腾讯优酷都发了赵丽颖",
-      "onboard_time": 1766798539,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286260,
       "num": 231781,
       "word": "橹穆美杜莎",
@@ -153,6 +153,14 @@
       "onboard_time": 1766762901,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238611,
+      "num": 238611,
+      "word": "燕云十六声不只是情趣",
+      "onboard_time": 1766792538,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 228572,
@@ -227,12 +235,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177756,
-      "num": 177756,
-      "word": "燕云十六声不只是情趣",
-      "onboard_time": 1766792538,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 178638,
+      "num": 178638,
+      "word": "网红面包卖不动了",
+      "onboard_time": 1766791998,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174175,
+      "num": 120631,
+      "word": "广电认证四大年冠",
+      "onboard_time": 1766801479,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 172993,
@@ -240,14 +256,6 @@
       "word": "保时捷车主发声",
       "onboard_time": 1766772076,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172973,
-      "num": 172973,
-      "word": "网红面包卖不动了",
-      "onboard_time": 1766791998,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -280,6 +288,22 @@
       "word": "朱志鑫苏新皓ON双人舞",
       "onboard_time": 1766754921,
       "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148503,
+      "num": 148503,
+      "word": "现在就出发3",
+      "onboard_time": 1766799198,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143912,
+      "num": 122615,
+      "word": "张真源牙钻这次够清晰了",
+      "onboard_time": 1766800699,
+      "rank": 21,
       "category": "演出"
     },
     {
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 130519,
-      "num": 117158,
+      "num": 120407,
       "word": "羽绒服和棉服到底哪个更值得买",
       "onboard_time": 1766788395,
       "rank": 21,
@@ -355,7 +379,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123900,
+      "raw_hot": 124739,
       "num": 123900,
       "word": "华为悬赏300万元求解AI难题",
       "onboard_time": 1766799259,
@@ -369,22 +393,6 @@
       "onboard_time": 1766755641,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122615,
-      "num": 122615,
-      "word": "张真源牙钻这次够清晰了",
-      "onboard_time": 1766800699,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 120521,
-      "num": 120521,
-      "word": "现在就出发3",
-      "onboard_time": 1766799198,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 119291,
@@ -411,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114949,
+      "num": 114949,
+      "word": "王橹杰滑跪穆祉丞摸喉结",
+      "onboard_time": 1766796858,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114481,
       "num": 114481,
       "word": "内娱少有的文艺美人",
       "onboard_time": 1766760982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111980,
+      "num": 111980,
+      "word": "北京地铁颜色快不够用了",
+      "onboard_time": 1766800278,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111764,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105983,
+      "num": 105983,
+      "word": "红果果绿泡泡发文引发网友回忆杀",
+      "onboard_time": 1766797520,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105855,
       "num": 105855,
       "word": "从何以琛到林屿森",
@@ -467,20 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105563,
-      "num": 105563,
-      "word": "红果果绿泡泡发文引发网友回忆杀",
-      "onboard_time": 1766797520,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 100987,
-      "num": 100987,
-      "word": "王橹杰滑跪穆祉丞摸喉结",
-      "onboard_time": 1766796858,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 102698,
+      "num": 102698,
+      "word": "专家称老年人的性需求长期被忽视",
+      "onboard_time": 1766799500,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100692,
@@ -491,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98120,
-      "num": 98120,
-      "word": "北京地铁颜色快不够用了",
-      "onboard_time": 1766800278,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96363,
       "num": 96363,
       "word": "慕尼黑至北京航班上一乘客病亡",
@@ -507,12 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93370,
-      "num": 93370,
-      "word": "专家称老年人的性需求长期被忽视",
-      "onboard_time": 1766799500,
+      "raw_hot": 95871,
+      "num": 95871,
+      "word": "曝印度男子夜举火把给太阳能板充电",
+      "onboard_time": 1766801658,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94017,
+      "num": 94017,
+      "word": "燕云十六声新外观",
+      "onboard_time": 1766802079,
       "rank": 31,
-      "category": "民生新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 92235,
@@ -529,6 +553,14 @@
       "onboard_time": 1766765780,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 91547,
+      "num": 91547,
+      "word": "肖战的回答永远真诚又清醒",
+      "onboard_time": 1766797459,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89987,
@@ -555,6 +587,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84910,
+      "num": 230746,
+      "word": "6名大学生坠落事故调查结果",
+      "onboard_time": 1766801720,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84123,
+      "num": 84123,
+      "word": "金饰价格涨到1407元",
+      "onboard_time": 1766797878,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83407,
       "num": 83407,
       "word": "300多人骗贷全国多家银行上千万",
@@ -563,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82532,
-      "num": 82532,
-      "word": "肖战的回答永远真诚又清醒",
-      "onboard_time": 1766797459,
+      "raw_hot": 82645,
+      "num": 82645,
+      "word": "女子产后复工72岁公公主动帮带娃",
+      "onboard_time": 1766802139,
       "rank": 38,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82072,
@@ -595,14 +643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80629,
-      "num": 80629,
-      "word": "金饰价格涨到1407元",
-      "onboard_time": 1766797878,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80456,
       "num": 80456,
       "word": "鹿晗新歌",
@@ -617,6 +657,14 @@
       "onboard_time": 1766743220,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79409,
+      "num": 79409,
+      "word": "一直以为保温毯是披在身上的",
+      "onboard_time": 1766802379,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 78957,
@@ -643,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77521,
+      "num": 77521,
+      "word": "王赫野吃了十天地瓜吃吐了",
+      "onboard_time": 1766802200,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76629,
       "num": 109208,
       "word": "货车出事故后被哄抢货物全部追回",
@@ -657,6 +713,14 @@
       "onboard_time": 1766751741,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76302,
+      "num": 76302,
+      "word": "果然有的人一辈子都在做阅读理解",
+      "onboard_time": 1766802258,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 75010,
@@ -691,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73211,
+      "num": 73211,
+      "word": "美国两个州进入紧急状态",
+      "onboard_time": 1766801959,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71176,
       "num": 109104,
       "word": "赵今麦剪刀手",
@@ -699,12 +771,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70899,
+      "num": 70899,
+      "word": "严浩翔 请大家仔细品味",
+      "onboard_time": 1766802379,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 70440,
       "num": 108995,
       "word": "恋与深空直播",
       "onboard_time": 1766749223,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69275,
+      "num": 69275,
+      "word": "陈浚铭好治愈的小福娃",
+      "onboard_time": 1766802139,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 68852,
+      "num": 68852,
+      "word": "日本群马县超50辆车相撞",
+      "onboard_time": 1766801119,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68330,
