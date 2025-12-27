@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766853214443,
+  "endTime": 1766854056199,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -4564,7 +4564,7 @@
     },
     {
       "raw_hot": 779670,
-      "num": 378046,
+      "num": 405258,
       "word": "王橹杰",
       "onboard_time": 1766851401,
       "rank": 10,
@@ -5804,7 +5804,7 @@
     },
     {
       "raw_hot": 677152,
-      "num": 368020,
+      "num": 404264,
       "word": "南京震感",
       "onboard_time": 1766849966,
       "rank": 32,
@@ -13499,6 +13499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406540,
+      "num": 406540,
+      "word": "戴佩妮北京广州取消",
+      "onboard_time": 1766849308,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 406382,
       "num": 406382,
       "word": "星光大赏后台",
@@ -14777,14 +14785,6 @@
       "onboard_time": 1766412263,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381434,
-      "num": 381434,
-      "word": "戴佩妮北京广州取消",
-      "onboard_time": 1766849308,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 381309,
@@ -19379,6 +19379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299122,
+      "num": 299122,
+      "word": "南昌震感",
+      "onboard_time": 1766850923,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 299094,
       "num": 197611,
       "word": "CP感 玄学",
@@ -20675,6 +20683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280884,
+      "num": 280884,
+      "word": "Cat教练",
+      "onboard_time": 1766851162,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280868,
       "num": 246403,
       "word": "国际航班外籍男子辱骂骚扰中国女生",
@@ -20993,14 +21009,6 @@
       "onboard_time": 1765904717,
       "rank": 12,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 276471,
-      "num": 276471,
-      "word": "Cat教练",
-      "onboard_time": 1766851162,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 276398,
@@ -23539,14 +23547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244647,
-      "num": 244647,
-      "word": "南昌震感",
-      "onboard_time": 1766850923,
-      "rank": 18,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 244273,
       "num": 1014884,
       "word": "库迪咖啡被指禁带其他品牌咖啡入座",
@@ -25953,6 +25953,14 @@
       "onboard_time": 1766678181,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219152,
+      "num": 206402,
+      "word": "台北摇晃近1分钟",
+      "onboard_time": 1766852601,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 219050,
@@ -29001,14 +29009,6 @@
       "onboard_time": 1765857083,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201363,
-      "num": 201363,
-      "word": "台北摇晃近1分钟",
-      "onboard_time": 1766852601,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 201336,
@@ -48241,6 +48241,14 @@
       "onboard_time": 1765957761,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "台湾海域6.6级地震现场画面",
+      "onboard_time": 1766853381,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 132937,
@@ -75459,6 +75467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78422,
+      "num": 121364,
+      "word": "奔跑吧天路篇",
+      "onboard_time": 1765493176,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78405,
       "num": 78405,
       "word": "高市早苗希望尽早会面特朗普",
@@ -93065,14 +93081,6 @@
       "onboard_time": 1764736522,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22782,
-      "num": 39109,
-      "word": "奔跑吧天路篇",
-      "onboard_time": 1765493176,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 22742,

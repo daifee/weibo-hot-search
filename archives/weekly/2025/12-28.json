@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766853214443,
+  "endTime": 1766854056199,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 779670,
-      "num": 378046,
+      "num": 405258,
       "word": "王橹杰",
       "onboard_time": 1766851401,
       "rank": 10,
@@ -52,15 +52,23 @@
     },
     {
       "raw_hot": 742333,
-      "num": 377203,
+      "num": 402394,
       "word": "福州震感",
       "onboard_time": 1766849966,
       "rank": 11,
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 737637,
+      "num": 737637,
+      "word": "中华人民共和国主席令",
+      "onboard_time": 1766833341,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 677152,
-      "num": 368020,
+      "num": 404264,
       "word": "南京震感",
       "onboard_time": 1766849966,
       "rank": 13,
@@ -83,23 +91,23 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 488660,
-      "num": 488660,
-      "word": "中华人民共和国主席令",
-      "onboard_time": 1766833341,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 471995,
-      "num": 370247,
+      "num": 402128,
       "word": "一诺 希望拿大满贯",
       "onboard_time": 1766844144,
       "rank": 12,
       "category": "电竞"
     },
     {
-      "raw_hot": 414486,
+      "raw_hot": 467019,
+      "num": 403722,
+      "word": "单依纯公开承认自己有表达障碍",
+      "onboard_time": 1766841082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429489,
       "num": 226765,
       "word": "487 潇潇",
       "onboard_time": 1766842462,
@@ -107,20 +115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 381434,
-      "num": 381434,
+      "raw_hot": 406540,
+      "num": 406540,
       "word": "戴佩妮北京广州取消",
       "onboard_time": 1766849308,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 365778,
-      "num": 365778,
-      "word": "单依纯公开承认自己有表达障碍",
-      "onboard_time": 1766841082,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 347809,
@@ -139,20 +139,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 276471,
-      "num": 276471,
-      "word": "Cat教练",
-      "onboard_time": 1766851162,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 244647,
-      "num": 244647,
+      "raw_hot": 299122,
+      "num": 299122,
       "word": "南昌震感",
       "onboard_time": 1766850923,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 280884,
+      "num": 280884,
+      "word": "Cat教练",
+      "onboard_time": 1766851162,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 231684,
@@ -161,6 +161,14 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219152,
+      "num": 206402,
+      "word": "台北摇晃近1分钟",
+      "onboard_time": 1766852601,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 211613,
@@ -179,20 +187,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201363,
-      "num": 201363,
-      "word": "台北摇晃近1分钟",
-      "onboard_time": 1766852601,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 182245,
       "num": 182245,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "第五瓜格",
+      "onboard_time": 1766848530,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 166929,
@@ -227,20 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140471,
-      "num": 158452,
-      "word": "第五瓜格",
-      "onboard_time": 1766848530,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136191,
       "num": 158349,
       "word": "AG超玩会 BP",
       "onboard_time": 1766839042,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "台湾海域6.6级地震现场画面",
+      "onboard_time": 1766853381,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 131448,
@@ -323,7 +331,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 94835,
+      "raw_hot": 100473,
       "num": 157434,
       "word": "老人感染艾滋病多与商业性行为有关",
       "onboard_time": 1766834600,
@@ -331,7 +339,7 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 94470,
+      "raw_hot": 99686,
       "num": 157372,
       "word": "荣耀之战2026官宣澳门",
       "onboard_time": 1766841442,
@@ -369,6 +377,30 @@
       "onboard_time": 1766840543,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79801,
+      "num": 121475,
+      "word": "杨博文这句yeah唱爽了",
+      "onboard_time": 1766839583,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 78422,
+      "num": 121364,
+      "word": "奔跑吧天路篇",
+      "onboard_time": 1766853620,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75444,
+      "num": 121152,
+      "word": "王橹杰发博",
+      "onboard_time": 1766829559,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 74807,
