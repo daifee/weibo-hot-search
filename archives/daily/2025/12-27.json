@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766842518246,
+  "endTime": 1766843194444,
   "band_list": [
     {
       "raw_hot": 9567193,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1142642,
-      "num": 319113,
+      "num": 325714,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 15,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 997286,
-      "num": 313681,
+      "num": 320950,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 10,
@@ -140,15 +140,15 @@
     },
     {
       "raw_hot": 777694,
-      "num": 299525,
+      "num": 306534,
       "word": "橹穆 来自天堂的魔鬼",
       "onboard_time": 1766836103,
       "rank": 8,
       "category": "演出"
     },
     {
-      "raw_hot": 747290,
-      "num": 747290,
+      "raw_hot": 764408,
+      "num": 764408,
       "word": "中华人民共和国主席令",
       "onboard_time": 1766833341,
       "rank": 30,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 431157,
-      "num": 304348,
+      "num": 315759,
       "word": "单依纯公开承认自己有表达障碍",
       "onboard_time": 1766841082,
       "rank": 14,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 389512,
-      "num": 319800,
+      "num": 328887,
       "word": "老人感染艾滋病多与商业性行为有关",
       "onboard_time": 1766834600,
       "rank": 19,
@@ -433,6 +433,14 @@
       "onboard_time": 1766817259,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380871,
+      "num": 372611,
+      "word": "网传恋人明天空降",
+      "onboard_time": 1766841983,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 377910,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368742,
+      "num": 368742,
+      "word": "AG超玩会 BP",
+      "onboard_time": 1766839042,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366624,
       "num": 197312,
       "word": "肖战喜欢爱你老己这个梗",
@@ -499,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342285,
-      "num": 342285,
-      "word": "网传恋人明天空降",
-      "onboard_time": 1766841983,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 333373,
       "num": 260298,
       "word": "张柏芝香奈儿老了还是香奈儿",
@@ -521,14 +529,6 @@
       "onboard_time": 1766742622,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325846,
-      "num": 325846,
-      "word": "AG超玩会 BP",
-      "onboard_time": 1766839042,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 323955,
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245320,
+      "num": 245320,
+      "word": "穆祉丞王橹杰剑客琴师",
+      "onboard_time": 1766842522,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245283,
       "num": 403322,
       "word": "Creme后台怒怼Homme",
@@ -779,8 +787,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222291,
+      "num": 222291,
+      "word": "谈了几年的男朋友第一次见家长",
+      "onboard_time": 1766840063,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 221349,
-      "num": 221349,
+      "num": 261039,
       "word": "湘超",
       "onboard_time": 1766835561,
       "rank": 16,
@@ -947,6 +963,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192062,
+      "num": 192062,
+      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+      "onboard_time": 1766839042,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 191897,
+      "num": 268670,
+      "word": "女生熬夜加班血糖飙升进ICU抢救",
+      "onboard_time": 1766841563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190308,
       "num": 190308,
       "word": "林昀儒3比0孙正",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1766766081,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182723,
-      "num": 182723,
-      "word": "谈了几年的男朋友第一次见家长",
-      "onboard_time": 1766840063,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 182202,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1766801479,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174002,
+      "num": 174002,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 172993,
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 167595,
-      "num": 155120,
+      "num": 155792,
       "word": "王楚钦休息期间积极康复治疗",
       "onboard_time": 1766842282,
       "rank": 30,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1766812340,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161146,
-      "num": 161146,
-      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
-      "onboard_time": 1766839042,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 161125,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1766840362,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132841,
-      "num": 268670,
-      "word": "女生熬夜加班血糖飙升进ICU抢救",
-      "onboard_time": 1766841563,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131975,
@@ -1899,6 +1915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114830,
+      "num": 114830,
+      "word": "适合跨年的朋友圈配图",
+      "onboard_time": 1766842823,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 114481,
       "num": 114481,
       "word": "内娱少有的文艺美人",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1766809580,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113011,
-      "num": 113011,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 112308,
@@ -2315,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104005,
+      "num": 104005,
+      "word": "张奕然提前祝大家新年快乐",
+      "onboard_time": 1766841983,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103965,
       "num": 103965,
       "word": "沈腾不来宇宙闪烁请注意是在备战春晚",
@@ -2337,14 +2361,6 @@
       "onboard_time": 1766820859,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103245,
-      "num": 103245,
-      "word": "张奕然提前祝大家新年快乐",
-      "onboard_time": 1766841983,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 103204,
@@ -3107,6 +3123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75856,
+      "num": 134729,
+      "word": "白鹿是想演武林外传吗",
+      "onboard_time": 1766843122,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75755,
       "num": 235068,
       "word": "731部队细菌战每月产10公斤跳蚤",
@@ -3412,7 +3436,7 @@
     },
     {
       "raw_hot": 51008,
-      "num": 121393,
+      "num": 132206,
       "word": "黑钻会员的含金量还在上升",
       "onboard_time": 1766840482,
       "rank": 39,
@@ -3499,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40892,
+      "num": 567998,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40822,
       "num": 237441,
       "word": "吴彦祖开箱小米17Ultra徕卡版",
@@ -3563,14 +3595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36066,
-      "num": 567998,
-      "word": "人民军队2025年终大片",
-      "onboard_time": 1766841142,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35724,
       "num": 36808,
       "word": "江苏卫视跨年演唱会",
@@ -3579,12 +3603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35311,
+      "num": 137800,
+      "word": "男子被小区电梯口硬隔离绊成重伤",
+      "onboard_time": 1766843122,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35010,
       "num": 74116,
       "word": "浙江卫视跨年晚会",
       "onboard_time": 1766773935,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34856,
+      "num": 133406,
+      "word": "女子被领导刁难工位装监控",
+      "onboard_time": 1766842823,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34055,
