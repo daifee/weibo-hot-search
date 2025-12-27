@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766834610049,
+  "endTime": 1766835493789,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 997286,
+      "num": 236367,
+      "word": "王晶说肖战戏路很窄",
+      "onboard_time": 1766833401,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943787,
       "num": 267045,
       "word": "燕云十六声情趣内衣",
@@ -89,14 +97,6 @@
       "onboard_time": 1766807300,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 795554,
-      "num": 228205,
-      "word": "王晶说肖战戏路很窄",
-      "onboard_time": 1766833401,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 785147,
@@ -187,6 +187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 563866,
+      "num": 161155,
+      "word": "中华人民共和国主席令",
+      "onboard_time": 1766833341,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 547004,
       "num": 218442,
       "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
@@ -228,11 +236,19 @@
     },
     {
       "raw_hot": 501760,
-      "num": 243147,
+      "num": 244773,
       "word": "王橹杰黄昏晓",
       "onboard_time": 1766833161,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 496031,
+      "num": 1079365,
+      "word": "老人存167万消失突发脑梗后离世",
+      "onboard_time": 1766829920,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490954,
@@ -257,14 +273,6 @@
       "onboard_time": 1766756001,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 463059,
-      "num": 125335,
-      "word": "中华人民共和国主席令",
-      "onboard_time": 1766833341,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 437314,
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272108,
+      "num": 240199,
+      "word": "恋人",
+      "onboard_time": 1766831180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "樊振东说自己不会退役",
@@ -555,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265096,
-      "num": 265096,
-      "word": "老人存167万消失突发脑梗后离世",
-      "onboard_time": 1766829920,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263887,
       "num": 239171,
       "word": "千万粉丝网红谈被父母PUA",
       "onboard_time": 1766803520,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 260304,
+      "num": 226421,
+      "word": "王星自曝在缅甸手机被人拿走刷网贷",
+      "onboard_time": 1766835259,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 258020,
@@ -651,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219851,
-      "num": 219851,
-      "word": "恋人",
-      "onboard_time": 1766831180,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219411,
       "num": 135494,
       "word": "AG期待下次再聚",
@@ -689,6 +697,14 @@
       "onboard_time": 1766776394,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206799,
+      "num": 206799,
+      "word": "新音直播",
+      "onboard_time": 1766831601,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 206318,
@@ -739,14 +755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196128,
-      "num": 196128,
-      "word": "新音直播",
-      "onboard_time": 1766831601,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "11岁留守女童遭亲戚猥亵老人不追究",
@@ -763,6 +771,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "杨博文好元气",
+      "onboard_time": 1766834600,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193832,
+      "num": 193832,
+      "word": "孟子义回眸callback九重紫",
+      "onboard_time": 1766834660,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189300,
       "num": 189300,
       "word": "广东汽车坠江致5死事件情况通报",
@@ -777,6 +801,14 @@
       "onboard_time": 1766818639,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188365,
+      "num": 193915,
+      "word": "老人感染艾滋病多与商业性行为有关",
+      "onboard_time": 1766834600,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 188244,
@@ -1043,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155129,
+      "num": 155129,
+      "word": "金价上涨的受益者这里有一屋",
+      "onboard_time": 1766834901,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154347,
       "num": 154347,
       "word": "前额叶都快死了你还在怪自己",
@@ -1299,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127854,
+      "num": 127854,
+      "word": "苏新皓今天做了红色美甲",
+      "onboard_time": 1766834961,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127005,
       "num": 127005,
       "word": "沈月谭松韵王楚然在芒果首搭",
@@ -1403,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121975,
+      "num": 161785,
+      "word": "霸王茶姬顾客称喝完睡不着就玩手机",
+      "onboard_time": 1766834660,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121723,
       "num": 121723,
       "word": "王赫野颜安爬山走成了T台",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1766769916,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119185,
+      "num": 197175,
+      "word": "星巴克回应顾客喝竞品饮品被提醒",
+      "onboard_time": 1766833880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118673,
@@ -1723,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107994,
+      "num": 107994,
+      "word": "刘嘉玲邵子恒忘年交",
+      "onboard_time": 1766835081,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107980,
       "num": 107980,
       "word": "50万黄金无人领民警电话被打爆",
@@ -1987,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98113,
+      "num": 98113,
+      "word": "斗破苍穹179",
+      "onboard_time": 1766835321,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97996,
       "num": 97996,
       "word": "杨瀚森垃圾时间未得出场机会",
@@ -2057,6 +2137,14 @@
       "onboard_time": 1766808200,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95446,
+      "num": 95446,
+      "word": "化妆就要越大胆越好看",
+      "onboard_time": 1766835321,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 95359,
@@ -2155,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92508,
+      "num": 92508,
+      "word": "王楚钦半决赛出任一单",
+      "onboard_time": 1766835081,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92235,
       "num": 92235,
       "word": "警方回应村民120只羊被好友毒死",
@@ -2204,7 +2300,7 @@
     },
     {
       "raw_hot": 91471,
-      "num": 125598,
+      "num": 161244,
       "word": "4种脂肪含量很高的面包",
       "onboard_time": 1766834241,
       "rank": 29,
@@ -2291,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89264,
+      "num": 89264,
+      "word": "上海地产vs山东魏桥",
+      "onboard_time": 1766834480,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89244,
       "num": 134645,
       "word": "2男子打架先动手罚100还手却拘3天",
@@ -2313,6 +2417,14 @@
       "onboard_time": 1766820200,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88720,
+      "num": 103541,
+      "word": "长期如厕刷手机20岁女生盆底已60岁",
+      "onboard_time": 1766835321,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88682,
@@ -2875,14 +2987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55774,
-      "num": 197175,
-      "word": "星巴克回应顾客喝竞品饮品被提醒",
-      "onboard_time": 1766833880,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54279,
       "num": 42522,
       "word": "去狗咖把小狗全都哄睡着了",
@@ -3105,6 +3209,14 @@
       "onboard_time": 1766787914,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29348,
+      "num": 107609,
+      "word": "50岁女子偷外卖被刑拘",
+      "onboard_time": 1766834179,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29241,
@@ -3331,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16579,
+      "num": 229095,
+      "word": "徐浩伦谭湘文掌管塑普的神",
+      "onboard_time": 1766833279,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16571,
       "num": 259095,
       "word": "故事里的2025",
@@ -3353,14 +3473,6 @@
       "onboard_time": 1766779514,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16383,
-      "num": 107609,
-      "word": "50岁女子偷外卖被刑拘",
-      "onboard_time": 1766834179,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16338,
@@ -3417,14 +3529,6 @@
       "onboard_time": 1766771715,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11598,
-      "num": 224210,
-      "word": "徐浩伦谭湘文掌管塑普的神",
-      "onboard_time": 1766833279,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 11198,
