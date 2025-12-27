@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 11:45:32
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 11:59:56
 </p>
 </blockquote>
 <p>
@@ -519,6 +519,12 @@ TF家族新音官宣（热度：1910823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%9D%A0%E8%90%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%91%BC%E5%90%B8%E9%81%93%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
+6名坠落大学生呼吸道窒息死亡（热度：1864723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8F%8C%E9%A1%B6%E6%B5%81%E6%81%8B%E6%83%85%23" target="weibo">
 曝双顶流恋情（热度：1845234）
 </a>
@@ -1001,12 +1007,6 @@ Lululemon卫衣 囚服（热度：1551235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%23" target="weibo">
 一念江南（热度：1398422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%9D%A0%E8%90%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%91%BC%E5%90%B8%E9%81%93%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
-6名坠落大学生呼吸道窒息死亡（热度：1398309）
 </a>
 </li>
 

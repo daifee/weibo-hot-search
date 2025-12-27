@@ -1,7 +1,15 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766807132281,
+  "endTime": 1766807996020,
   "band_list": [
+    {
+      "raw_hot": 1864723,
+      "num": 1864723,
+      "word": "6名坠落大学生呼吸道窒息死亡",
+      "onboard_time": 1766803399,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 1472845,
       "num": 1472845,
@@ -11,16 +19,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1398309,
-      "num": 454240,
-      "word": "6名坠落大学生呼吸道窒息死亡",
-      "onboard_time": 1766803399,
-      "rank": 3,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 906216,
-      "num": 227123,
+      "num": 246257,
       "word": "黄景瑜这辈子别想坐我车了",
       "onboard_time": 1766796622,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 626971,
-      "num": 222244,
+      "num": 253903,
       "word": "张昊唯被曝逃税涉黄最新进展",
       "onboard_time": 1766804422,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 507005,
-      "num": 215089,
+      "num": 230016,
       "word": "28岁确诊结肠癌晚期的真实感受",
       "onboard_time": 1766795058,
       "rank": 11,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 406311,
-      "num": 218000,
+      "num": 221577,
       "word": "花少摄影师发了99张北斗七行",
       "onboard_time": 1766794219,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378649,
+      "num": 378649,
+      "word": "谭松韵撞档谭松韵",
+      "onboard_time": 1766807300,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 373788,
@@ -187,6 +195,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285255,
+      "num": 285255,
+      "word": "顾漫五部小说改编五部影视爆款",
+      "onboard_time": 1766805379,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 271554,
+      "num": 271554,
+      "word": "樊振东说自己不会退役",
+      "onboard_time": 1766802920,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266284,
       "num": 450280,
       "word": "指导老师回应本科生连发40多篇SCI",
@@ -195,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264716,
-      "num": 264716,
-      "word": "樊振东说自己不会退役",
-      "onboard_time": 1766802920,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 263887,
+      "num": 239171,
+      "word": "千万粉丝网红谈被父母PUA",
+      "onboard_time": 1766803520,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 238611,
@@ -219,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228153,
-      "num": 212504,
-      "word": "千万粉丝网红谈被父母PUA",
-      "onboard_time": 1766803520,
-      "rank": 16,
-      "category": "网红"
+      "raw_hot": 225738,
+      "num": 225738,
+      "word": "石宇奇孙颖莎等2025中国十佳运动员",
+      "onboard_time": 1766806999,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 208417,
@@ -251,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200726,
-      "num": 185118,
-      "word": "石宇奇孙颖莎等2025中国十佳运动员",
-      "onboard_time": 1766806999,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 197426,
+      "num": 184742,
+      "word": "结婚的好处只有幸福的人说得出来",
+      "onboard_time": 1766805080,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 194476,
@@ -275,20 +299,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191986,
+      "num": 191986,
+      "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+      "onboard_time": 1766807179,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189300,
       "num": 189300,
       "word": "广东汽车坠江致5死事件情况通报",
       "onboard_time": 1766796199,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184636,
-      "num": 184636,
-      "word": "顾漫五部小说改编五部影视爆款",
-      "onboard_time": 1766805379,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 182805,
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167831,
-      "num": 167831,
-      "word": "结婚的好处只有幸福的人说得出来",
-      "onboard_time": 1766805080,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164393,
       "num": 233490,
       "word": "抓紧去个税App确认这个信息",
@@ -369,6 +385,22 @@
       "onboard_time": 1766794278,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158138,
+      "num": 158138,
+      "word": "身体有慢性炎症时多吃这些水果",
+      "onboard_time": 1766807960,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154347,
+      "num": 154347,
+      "word": "前额叶都快死了你还在怪自己",
+      "onboard_time": 1766805858,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 149087,
@@ -435,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137088,
-      "num": 117644,
-      "word": "前额叶都快死了你还在怪自己",
-      "onboard_time": 1766805858,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136815,
       "num": 177369,
       "word": "赵丽颖出演逍遥源于10年前的约定",
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131975,
+      "num": 131975,
+      "word": "费启鸣你让我感到陌生",
+      "onboard_time": 1766807300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131186,
       "num": 131186,
       "word": "宋威龙 我让你挑",
@@ -467,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131134,
+      "num": 131134,
+      "word": "曝印度男子夜举火把给太阳能板充电",
+      "onboard_time": 1766801658,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130519,
       "num": 120407,
       "word": "羽绒服和棉服到底哪个更值得买",
       "onboard_time": 1766788395,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 128060,
-      "num": 128060,
-      "word": "曝印度男子夜举火把给太阳能板充电",
-      "onboard_time": 1766801658,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 126814,
@@ -579,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112075,
+      "num": 112075,
+      "word": "金饰价格突破1400元黄金回收遇冷",
+      "onboard_time": 1766807359,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111980,
       "num": 111980,
       "word": "北京地铁颜色快不够用了",
@@ -601,6 +641,14 @@
       "onboard_time": 1766805980,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 114348,
+      "word": "国际银价暴涨",
+      "onboard_time": 1766802859,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 109667,
@@ -691,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101119,
+      "num": 101119,
+      "word": "肖战的回答永远真诚又清醒",
+      "onboard_time": 1766797459,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100692,
       "num": 100692,
       "word": "陈浚铭完全小手办",
@@ -705,6 +761,14 @@
       "onboard_time": 1766803399,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100060,
+      "num": 100060,
+      "word": "中国智造同行者雷军",
+      "onboard_time": 1766807480,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 98981,
@@ -747,20 +811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91732,
+      "num": 91732,
+      "word": "张柏芝香奈儿老了还是香奈儿",
+      "onboard_time": 1766807839,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91605,
       "num": 109338,
       "word": "海男爆料张凯毅",
       "onboard_time": 1766765780,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 91547,
-      "num": 91547,
-      "word": "肖战的回答永远真诚又清醒",
-      "onboard_time": 1766797459,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 90032,
@@ -779,20 +843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89888,
-      "num": 89888,
-      "word": "国际银价暴涨",
-      "onboard_time": 1766802859,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 87827,
       "num": 109474,
       "word": "苏新皓好韩",
       "onboard_time": 1766745920,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87420,
+      "num": 87420,
+      "word": "恋与深空",
+      "onboard_time": 1766793858,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 86234,
@@ -819,12 +883,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83733,
+      "num": 83733,
+      "word": "刘耀文宇宙闪烁请注意开播ID",
+      "onboard_time": 1766807960,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83407,
       "num": 83407,
       "word": "300多人骗贷全国多家银行上千万",
       "onboard_time": 1766794219,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82203,
+      "num": 82203,
+      "word": "王丽坤现状",
+      "onboard_time": 1766807960,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82072,
@@ -929,6 +1009,14 @@
       "onboard_time": 1766802258,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75755,
+      "num": 235068,
+      "word": "731部队细菌战每月产10公斤跳蚤",
+      "onboard_time": 1766806579,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75010,
@@ -1043,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66785,
+      "num": 185436,
+      "word": "柬首相夫人哽咽称只愿国家重回和平",
+      "onboard_time": 1766806579,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65555,
       "num": 186539,
       "word": "6名大学生坠落4人被刑事强制",
@@ -1131,6 +1227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 42664,
+      "num": 93066,
+      "word": "把副省长拉下马的环保案件赔偿50亿",
+      "onboard_time": 1766807120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41361,
       "num": 41361,
       "word": "父亲被微塑料污染孩子或遭殃",
@@ -1195,14 +1299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35841,
-      "num": 223484,
-      "word": "731部队细菌战每月产10公斤跳蚤",
-      "onboard_time": 1766806579,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35724,
       "num": 36808,
       "word": "江苏卫视跨年演唱会",
@@ -1241,14 +1337,6 @@
       "onboard_time": 1766787914,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29358,
-      "num": 185436,
-      "word": "柬首相夫人哽咽称只愿国家重回和平",
-      "onboard_time": 1766806579,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29241,
