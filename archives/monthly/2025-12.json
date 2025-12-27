@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766850057950,
+  "endTime": 1766853214443,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 4854084,
-      "num": 433406,
+      "num": 1398265,
       "word": "杭州震感",
       "onboard_time": 1766849366,
       "rank": 10,
@@ -2499,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1041426,
+      "num": 1041426,
+      "word": "上海震感",
+      "onboard_time": 1766850084,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1038615,
       "num": 384311,
       "word": "肖战杂志",
@@ -4555,6 +4563,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 779670,
+      "num": 378046,
+      "word": "王橹杰",
+      "onboard_time": 1766851401,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777964,
       "num": 777964,
       "word": "胡歌自曝母亲看不上他拍的古偶戏",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1766301023,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677152,
+      "num": 368020,
+      "word": "南京震感",
+      "onboard_time": 1766849966,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 676320,
@@ -14755,6 +14779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381434,
+      "num": 381434,
+      "word": "戴佩妮北京广州取消",
+      "onboard_time": 1766849308,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 381309,
       "num": 246821,
       "word": "小郑 一天",
@@ -20963,6 +20995,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 276471,
+      "num": 276471,
+      "word": "Cat教练",
+      "onboard_time": 1766851162,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276398,
       "num": 196027,
       "word": "身体有炎症时要少吃的4种食物",
@@ -21201,14 +21241,6 @@
       "onboard_time": 1765006221,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 273683,
-      "num": 273683,
-      "word": "南京震感",
-      "onboard_time": 1766849966,
-      "rank": 32,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 273593,
@@ -23505,6 +23537,14 @@
       "onboard_time": 1764570382,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244647,
+      "num": 244647,
+      "word": "南昌震感",
+      "onboard_time": 1766850923,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 244273,
@@ -28483,14 +28523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203272,
-      "num": 203272,
-      "word": "戴佩妮北京广州取消",
-      "onboard_time": 1766849308,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203270,
       "num": 274269,
       "word": "易烊千玺说和鸿蒙见证了彼此成长",
@@ -28969,6 +29001,14 @@
       "onboard_time": 1765857083,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 201363,
+      "num": 201363,
+      "word": "台北摇晃近1分钟",
+      "onboard_time": 1766852601,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 201336,
@@ -37811,6 +37851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163345,
+      "num": 163345,
+      "word": "不惑 潇潇",
+      "onboard_time": 1766850923,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163328,
       "num": 163328,
       "word": "他赌命换一个爱她的资格",
@@ -39049,6 +39097,14 @@
       "onboard_time": 1765091720,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158491,
+      "num": 158491,
+      "word": "骄阳似我 伟大的暧昧期",
+      "onboard_time": 1766850684,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158480,
@@ -60467,6 +60523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108892,
+      "num": 157750,
+      "word": "Hero晋级挑杯败者组决赛",
+      "onboard_time": 1766852001,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108861,
       "num": 108861,
       "word": "杨幂 为俺嫂子打call",
@@ -60793,6 +60857,14 @@
       "onboard_time": 1766129001,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108362,
+      "num": 158029,
+      "word": "58%的面包店活不过2年",
+      "onboard_time": 1766851223,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108357,
@@ -64649,6 +64721,14 @@
       "onboard_time": 1764931460,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101643,
+      "num": 157745,
+      "word": "焰火中跳舞的朱志鑫",
+      "onboard_time": 1766850326,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 101628,
@@ -70235,6 +70315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91127,
+      "num": 157306,
+      "word": "大学室友是一个很尴尬的身份",
+      "onboard_time": 1766849366,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91096,
       "num": 133716,
       "word": "G7试图拉中国上贼船",
@@ -71113,6 +71201,14 @@
       "onboard_time": 1766553023,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89515,
+      "num": 157203,
+      "word": "万物不及妖刀",
+      "onboard_time": 1766850623,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 89471,
