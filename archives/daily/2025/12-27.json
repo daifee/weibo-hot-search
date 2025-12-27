@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766840831502,
+  "endTime": 1766842518246,
   "band_list": [
     {
       "raw_hot": 9567193,
@@ -8,6 +8,14 @@
       "word": "橹穆双人舞台",
       "onboard_time": 1766836103,
       "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2185189,
+      "num": 2185189,
+      "word": "荣耀之战",
+      "onboard_time": 1766841442,
+      "rank": 0,
       "category": "演出"
     },
     {
@@ -35,8 +43,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1178987,
+      "num": 445313,
+      "word": "荣耀之战2026官宣澳门",
+      "onboard_time": 1766841442,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1142642,
-      "num": 230069,
+      "num": 319113,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 15,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 997286,
-      "num": 236367,
+      "num": 313681,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 10,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 849024,
-      "num": 252717,
+      "num": 277165,
       "word": "王橹杰发博",
       "onboard_time": 1766829559,
       "rank": 12,
@@ -124,11 +140,19 @@
     },
     {
       "raw_hot": 777694,
-      "num": 237490,
+      "num": 299525,
       "word": "橹穆 来自天堂的魔鬼",
       "onboard_time": 1766836103,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 747290,
+      "num": 747290,
+      "word": "中华人民共和国主席令",
+      "onboard_time": 1766833341,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 724454,
@@ -145,14 +169,6 @@
       "onboard_time": 1766826742,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 699743,
-      "num": 304857,
-      "word": "中华人民共和国主席令",
-      "onboard_time": 1766833341,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 692637,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 505526,
-      "num": 285495,
+      "num": 430748,
       "word": "长期如厕刷手机20岁女生盆底已60岁",
       "onboard_time": 1766835321,
       "rank": 38,
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459674,
+      "num": 311533,
+      "word": "AG剧透",
+      "onboard_time": 1766840543,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 455406,
       "num": 2214703,
       "word": "恋人",
       "onboard_time": 1766831180,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451240,
+      "num": 451240,
+      "word": "AG对战Hero",
+      "onboard_time": 1766840003,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 437314,
@@ -339,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 431157,
+      "num": 304348,
+      "word": "单依纯公开承认自己有表达障碍",
+      "onboard_time": 1766841082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419129,
       "num": 1060287,
       "word": "逍遥",
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 404497,
-      "num": 271337,
+      "num": 294837,
       "word": "林屿森微博 私密转公开",
       "onboard_time": 1766835802,
       "rank": 6,
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 389512,
-      "num": 261688,
+      "num": 319800,
       "word": "老人感染艾滋病多与商业性行为有关",
       "onboard_time": 1766834600,
       "rank": 19,
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342285,
+      "num": 342285,
+      "word": "网传恋人明天空降",
+      "onboard_time": 1766841983,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333373,
       "num": 260298,
       "word": "张柏芝香奈儿老了还是香奈儿",
@@ -473,6 +521,14 @@
       "onboard_time": 1766742622,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325846,
+      "num": 325846,
+      "word": "AG超玩会 BP",
+      "onboard_time": 1766839042,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 323955,
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 310718,
-      "num": 221934,
+      "num": 297220,
       "word": "宋威龙见面会",
       "onboard_time": 1766837482,
       "rank": 15,
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 273559,
-      "num": 216021,
+      "num": 228658,
       "word": "穆橹好伟大的ending",
       "onboard_time": 1766839283,
       "rank": 17,
@@ -691,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230648,
-      "num": 230648,
-      "word": "AG对战Hero",
-      "onboard_time": 1766840003,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 228634,
       "num": 228634,
       "word": "燕云十六声相关补偿",
@@ -721,14 +769,6 @@
       "onboard_time": 1766831901,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226773,
-      "num": 226773,
-      "word": "AG超玩会 BP",
-      "onboard_time": 1766839042,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 222726,
@@ -851,12 +891,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198991,
+      "num": 198991,
+      "word": "谁来教教宋威龙怎么戴脸链",
+      "onboard_time": 1766841501,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198943,
       "num": 198943,
       "word": "杨博文这句yeah唱爽了",
       "onboard_time": 1766839583,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "王楚钦说不想以2个退赛结束2025",
+      "onboard_time": 1766842282,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 194476,
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185855,
+      "num": 185855,
+      "word": "王楚钦说身体有所缓解",
+      "onboard_time": 1766841922,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185275,
       "num": 185275,
       "word": "南有张凌赫 北有宋威龙",
@@ -937,6 +1001,14 @@
       "onboard_time": 1766766081,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182723,
+      "num": 182723,
+      "word": "谈了几年的男朋友第一次见家长",
+      "onboard_time": 1766840063,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 182202,
@@ -1017,14 +1089,6 @@
       "onboard_time": 1766801479,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173477,
-      "num": 142377,
-      "word": "谈了几年的男朋友第一次见家长",
-      "onboard_time": 1766840063,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 172993,
@@ -1115,6 +1179,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 167595,
+      "num": 155120,
+      "word": "王楚钦休息期间积极康复治疗",
+      "onboard_time": 1766842282,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165740,
       "num": 165740,
       "word": "2025谭松韵韵光同行见面会",
@@ -1187,20 +1259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161820,
-      "num": 161820,
-      "word": "AG剧透",
-      "onboard_time": 1766840543,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161642,
       "num": 150782,
       "word": "人之初唐嫣哭戏的杀伤力",
       "onboard_time": 1766812340,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161146,
+      "num": 161146,
+      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+      "onboard_time": 1766839042,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161125,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1766810479,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155639,
+      "num": 155639,
+      "word": "原来这才是冷帽正确戴法",
+      "onboard_time": 1766838803,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 155129,
@@ -1299,8 +1379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148309,
-      "num": 140086,
+      "raw_hot": 148492,
+      "num": 148492,
       "word": "巴基斯坦怒了",
       "onboard_time": 1766838442,
       "rank": 31,
@@ -1331,14 +1411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143741,
-      "num": 143741,
-      "word": "原来这才是冷帽正确戴法",
-      "onboard_time": 1766838803,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 143358,
       "num": 250048,
       "word": "燕云玩家希望谭晶慎重考虑合作",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1766837725,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142047,
+      "num": 142047,
+      "word": "橘子全身都是散结节的宝",
+      "onboard_time": 1766840902,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141022,
@@ -1419,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137208,
+      "num": 137208,
+      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+      "onboard_time": 1766840181,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136815,
       "num": 177369,
       "word": "赵丽颖出演逍遥源于10年前的约定",
@@ -1451,20 +1539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133599,
-      "num": 133599,
-      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
-      "onboard_time": 1766839042,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133343,
       "num": 133343,
       "word": "谁家女主每天都在刀吗刀吗",
       "onboard_time": 1766840362,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132841,
+      "num": 268670,
+      "word": "女生熬夜加班血糖飙升进ICU抢救",
+      "onboard_time": 1766841563,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131975,
@@ -1553,14 +1641,6 @@
       "onboard_time": 1766834961,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127063,
-      "num": 127063,
-      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
-      "onboard_time": 1766840181,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127005,
@@ -1779,6 +1859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117552,
+      "num": 117552,
+      "word": "坦然太c了",
+      "onboard_time": 1766842222,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116648,
       "num": 116648,
       "word": "王一博在岩壁上金鸡独立",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1766809580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113011,
+      "num": 113011,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 112308,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1766823920,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109862,
+      "num": 109862,
+      "word": "坦然夏洛特残血切C",
+      "onboard_time": 1766842282,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 109746,
@@ -2233,6 +2337,14 @@
       "onboard_time": 1766820859,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103245,
+      "num": 103245,
+      "word": "张奕然提前祝大家新年快乐",
+      "onboard_time": 1766841983,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 103204,
@@ -3299,6 +3411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51008,
+      "num": 121393,
+      "word": "黑钻会员的含金量还在上升",
+      "onboard_time": 1766840482,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51003,
       "num": 75929,
       "word": "韦雪和秦奋的儿子这么大了",
@@ -3443,6 +3563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36066,
+      "num": 567998,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35724,
       "num": 36808,
       "word": "江苏卫视跨年演唱会",
@@ -3489,14 +3617,6 @@
       "onboard_time": 1766764639,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31943,
-      "num": 121393,
-      "word": "黑钻会员的含金量还在上升",
-      "onboard_time": 1766840482,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 30759,

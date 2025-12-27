@@ -1,0 +1,410 @@
+{
+  "runTime": 1766842518246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2185189,
+        "num": 2185189,
+        "word": "荣耀之战",
+        "onboard_time": 1766841442,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 747290,
+        "num": 747290,
+        "word": "中华人民共和国主席令",
+        "onboard_time": 1766833341,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36066,
+        "num": 567998,
+        "word": "人民军队2025年终大片",
+        "onboard_time": 1766841142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7225969,
+        "num": 7225969,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 451240,
+        "num": 451240,
+        "word": "AG对战Hero",
+        "onboard_time": 1766840003,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1178987,
+        "num": 445313,
+        "word": "荣耀之战2026官宣澳门",
+        "onboard_time": 1766841442,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430748,
+        "num": 430748,
+        "word": "长期如厕刷手机20岁女生盆底已60岁",
+        "onboard_time": 1766835321,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342285,
+        "num": 342285,
+        "word": "网传恋人明天空降",
+        "onboard_time": 1766841983,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325846,
+        "num": 325846,
+        "word": "AG超玩会 BP",
+        "onboard_time": 1766839042,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319800,
+        "num": 319800,
+        "word": "老人感染艾滋病多与商业性行为有关",
+        "onboard_time": 1766834600,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 785403,
+        "num": 319113,
+        "word": "王星自曝在缅甸手机被人拿走刷网贷",
+        "onboard_time": 1766835259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684937,
+        "num": 313681,
+        "word": "王晶说肖战戏路很窄",
+        "onboard_time": 1766833401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459674,
+        "num": 311533,
+        "word": "AG剧透",
+        "onboard_time": 1766840543,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320242,
+        "num": 307751,
+        "word": "恋人",
+        "onboard_time": 1766831180,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431157,
+        "num": 304348,
+        "word": "单依纯公开承认自己有表达障碍",
+        "onboard_time": 1766841082,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387858,
+        "num": 299525,
+        "word": "橹穆 来自天堂的魔鬼",
+        "onboard_time": 1766836103,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297220,
+        "num": 297220,
+        "word": "宋威龙见面会",
+        "onboard_time": 1766837482,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294837,
+        "num": 294837,
+        "word": "林屿森微博 私密转公开",
+        "onboard_time": 1766835802,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277165,
+        "num": 277165,
+        "word": "王橹杰发博",
+        "onboard_time": 1766829559,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132841,
+        "num": 268670,
+        "word": "女生熬夜加班血糖飙升进ICU抢救",
+        "onboard_time": 1766841563,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264805,
+        "num": 264805,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246067,
+        "num": 246067,
+        "word": "去封关后的海南被自己穷笑了",
+        "onboard_time": 1766826620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228658,
+        "num": 228658,
+        "word": "穆橹好伟大的ending",
+        "onboard_time": 1766839283,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198991,
+        "num": 198991,
+        "word": "谁来教教宋威龙怎么戴脸链",
+        "onboard_time": 1766841501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196081,
+        "num": 196081,
+        "word": "湘超",
+        "onboard_time": 1766835561,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195042,
+        "num": 195042,
+        "word": "王楚钦说不想以2个退赛结束2025",
+        "onboard_time": 1766842282,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185855,
+        "num": 185855,
+        "word": "王楚钦说身体有所缓解",
+        "onboard_time": 1766841922,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182723,
+        "num": 182723,
+        "word": "谈了几年的男朋友第一次见家长",
+        "onboard_time": 1766840063,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 161146,
+        "num": 161146,
+        "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+        "onboard_time": 1766839042,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155639,
+        "num": 155639,
+        "word": "原来这才是冷帽正确戴法",
+        "onboard_time": 1766838803,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 155120,
+        "word": "王楚钦休息期间积极康复治疗",
+        "onboard_time": 1766842282,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152415,
+        "num": 152415,
+        "word": "香港桥底命案被捕人数增至27人",
+        "onboard_time": 1766839401,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148492,
+        "num": 148492,
+        "word": "巴基斯坦怒了",
+        "onboard_time": 1766838442,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142047,
+        "num": 142047,
+        "word": "橘子全身都是散结节的宝",
+        "onboard_time": 1766840902,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137208,
+        "num": 137208,
+        "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+        "onboard_time": 1766840181,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130088,
+        "num": 130088,
+        "word": "杨博文这句yeah唱爽了",
+        "onboard_time": 1766839583,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126543,
+        "num": 126543,
+        "word": "王晶认为肖战经纪人要会挑剧本",
+        "onboard_time": 1766838200,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119882,
+        "num": 119882,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118803,
+        "num": 118803,
+        "word": "身体炎症水平高不高看4点",
+        "onboard_time": 1766834541,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51008,
+        "num": 117810,
+        "word": "黑钻会员的含金量还在上升",
+        "onboard_time": 1766840482,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117552,
+        "num": 117552,
+        "word": "坦然太c了",
+        "onboard_time": 1766842222,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113396,
+        "num": 113396,
+        "word": "女子发现接触两根手指能调整呼吸",
+        "onboard_time": 1766826742,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113011,
+        "num": 113011,
+        "word": "487 潇潇",
+        "onboard_time": 1766842462,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112945,
+        "num": 112945,
+        "word": "樊振东陈梦王曼昱虎扑十大运动员",
+        "onboard_time": 1766830939,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109862,
+        "num": 109862,
+        "word": "坦然夏洛特残血切C",
+        "onboard_time": 1766842282,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105302,
+        "num": 105302,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103245,
+        "num": 103245,
+        "word": "张奕然提前祝大家新年快乐",
+        "onboard_time": 1766841983,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 103196,
+        "word": "逍遥爱奇艺热度破6000",
+        "onboard_time": 1766839401,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100289,
+        "num": 100289,
+        "word": "司美格鲁肽等减重神药降价",
+        "onboard_time": 1766838982,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95907,
+        "num": 95907,
+        "word": "谁家女主每天都在刀吗刀吗",
+        "onboard_time": 1766840362,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样要求共产党人#"
+    }
+  }
+}
