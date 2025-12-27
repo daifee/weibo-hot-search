@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766835493789,
+  "endTime": 1766840029547,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -65,6 +65,14 @@
       "onboard_time": 1766294121,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9567193,
+      "num": 9567193,
+      "word": "橹穆双人舞台",
+      "onboard_time": 1766586682,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 9194123,
@@ -1083,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1492269,
-      "num": 411655,
-      "word": "橹穆双人舞台",
-      "onboard_time": 1766586682,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1485412,
       "num": 383938,
       "word": "工资到账以为是退款",
@@ -1961,6 +1961,14 @@
       "onboard_time": 1766719580,
       "rank": 5,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 1142642,
+      "num": 226421,
+      "word": "王星自曝在缅甸手机被人拿走刷网贷",
+      "onboard_time": 1766835259,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1141186,
@@ -4403,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777694,
+      "num": 233968,
+      "word": "橹穆 来自天堂的魔鬼",
+      "onboard_time": 1766836103,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 777167,
       "num": 1124346,
       "word": "中方回应没有接听日方热线电话",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1765795582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691538,
+      "num": 304857,
+      "word": "中华人民共和国主席令",
+      "onboard_time": 1766833341,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 690698,
@@ -7755,14 +7779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 563866,
-      "num": 161155,
-      "word": "中华人民共和国主席令",
-      "onboard_time": 1766833341,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 563231,
       "num": 938051,
       "word": "三星长公主曾不顾反对下嫁司机",
@@ -9408,6 +9424,14 @@
       "word": "脑瘫女孩3年帮家里还债40余万",
       "onboard_time": 1765929260,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505526,
+      "num": 285495,
+      "word": "长期如厕刷手机20岁女生盆底已60岁",
+      "onboard_time": 1766835321,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -11257,6 +11281,14 @@
       "onboard_time": 1765464622,
       "rank": 13,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 455406,
+      "num": 2214703,
+      "word": "恋人",
+      "onboard_time": 1766831180,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 454692,
@@ -13323,6 +13355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404497,
+      "num": 271337,
+      "word": "林屿森微博 私密转公开",
+      "onboard_time": 1766835802,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404494,
       "num": 277977,
       "word": "甲状腺癌是名副其实的懒癌",
@@ -14817,6 +14857,14 @@
       "onboard_time": 1765117041,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374996,
+      "num": 244206,
+      "word": "老人感染艾滋病多与商业性行为有关",
+      "onboard_time": 1766834600,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 374940,
@@ -20379,6 +20427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279794,
+      "num": 221424,
+      "word": "宋威龙见面会",
+      "onboard_time": 1766837482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279508,
       "num": 279508,
       "word": "重庆财政局发布情况通报",
@@ -20977,14 +21033,6 @@
       "onboard_time": 1765024223,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272108,
-      "num": 240199,
-      "word": "恋人",
-      "onboard_time": 1766831180,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 272077,
@@ -21864,14 +21912,6 @@
       "word": "萧敬腾岳父林光宁去世",
       "onboard_time": 1765772783,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 260304,
-      "num": 226421,
-      "word": "王星自曝在缅甸手机被人拿走刷网贷",
-      "onboard_time": 1766835259,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -25075,6 +25115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 223224,
+      "num": 223224,
+      "word": "AG超玩会 BP",
+      "onboard_time": 1766839042,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223151,
       "num": 347407,
       "word": "台北车站袭击案",
@@ -25257,6 +25305,14 @@
       "onboard_time": 1766327606,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221319,
+      "num": 198806,
+      "word": "王晶认为肖战经纪人要会挑剧本",
+      "onboard_time": 1766838200,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 221233,
@@ -26337,6 +26393,14 @@
       "onboard_time": 1766719701,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212407,
+      "num": 212407,
+      "word": "穆橹好伟大的ending",
+      "onboard_time": 1766839283,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 212320,
@@ -29051,6 +29115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "杨博文这句yeah唱爽了",
+      "onboard_time": 1766839583,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198920,
       "num": 198920,
       "word": "曲艺模板",
@@ -29208,6 +29280,14 @@
       "word": "陈熠4比1陈幸同",
       "onboard_time": 1765517721,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198258,
+      "num": 198258,
+      "word": "上海地产0比3山东魏桥",
+      "onboard_time": 1766839882,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -30891,6 +30971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190308,
+      "num": 190308,
+      "word": "林昀儒3比0孙正",
+      "onboard_time": 1766839642,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "新音 三亚",
@@ -31473,14 +31561,6 @@
       "onboard_time": 1765720943,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188365,
-      "num": 193915,
-      "word": "老人感染艾滋病多与商业性行为有关",
-      "onboard_time": 1766834600,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 188339,
@@ -35115,6 +35195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172158,
+      "num": 172158,
+      "word": "身体炎症水平高不高看4点",
+      "onboard_time": 1766834541,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172133,
       "num": 172133,
       "word": "嫁金钗男主",
@@ -35657,6 +35745,14 @@
       "onboard_time": 1766758343,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170087,
+      "num": 170087,
+      "word": "王橹杰manta神级导入",
+      "onboard_time": 1766838683,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 170076,
@@ -37161,6 +37257,14 @@
       "onboard_time": 1764916041,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163743,
+      "num": 163743,
+      "word": "AG对战Hero",
+      "onboard_time": 1766840003,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 163686,
@@ -41387,6 +41491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149496,
+      "num": 139421,
+      "word": "香港桥底命案被捕人数增至27人",
+      "onboard_time": 1766839401,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149484,
       "num": 149484,
       "word": "中国科学家证明爱因斯坦这次错了",
@@ -41795,6 +41907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148172,
+      "num": 148172,
+      "word": "司美格鲁肽等减重神药降价",
+      "onboard_time": 1766838982,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148171,
       "num": 145122,
       "word": "香港火灾已致146人遇难",
@@ -42057,6 +42177,14 @@
       "onboard_time": 1766319803,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147208,
+      "num": 137053,
+      "word": "巴基斯坦怒了",
+      "onboard_time": 1766838442,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147207,
@@ -43585,6 +43713,14 @@
       "onboard_time": 1766222722,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142580,
+      "num": 142580,
+      "word": "骄阳似我 又土又好看",
+      "onboard_time": 1766837725,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 142577,
@@ -47601,6 +47737,14 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132774,
+      "num": 132774,
+      "word": "原来这才是冷帽正确戴法",
+      "onboard_time": 1766838803,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 132769,
@@ -55107,6 +55251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117621,
+      "num": 117621,
+      "word": "又甜又咸的汉堡竟然是好吃的",
+      "onboard_time": 1766838263,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117620,
       "num": 350130,
       "word": "海南封关你关心的都在这",
@@ -56027,6 +56179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115615,
+      "num": 115615,
+      "word": "逍遥爱奇艺热度破6000",
+      "onboard_time": 1766839401,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115614,
       "num": 219998,
       "word": "年度夯机荣耀WIN价格真香",
@@ -56761,6 +56921,14 @@
       "onboard_time": 1764656541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114335,
+      "num": 114335,
+      "word": "梁靖崑林昀儒王楚钦进决赛",
+      "onboard_time": 1766839763,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 114333,
@@ -58603,6 +58771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111038,
+      "num": 111038,
+      "word": "上海地产0比2山东魏桥",
+      "onboard_time": 1766838924,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111015,
       "num": 114304,
       "word": "双轨海外影响力",
@@ -58817,6 +58993,14 @@
       "onboard_time": 1765605621,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110588,
+      "num": 110588,
+      "word": "化妆就要越大胆越好看",
+      "onboard_time": 1766835321,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 110586,
@@ -59049,6 +59233,14 @@
       "onboard_time": 1765463603,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110024,
+      "num": 110024,
+      "word": "王楚钦3比0战胜赵子豪",
+      "onboard_time": 1766837783,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 110008,
@@ -60617,6 +60809,14 @@
       "onboard_time": 1764945502,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107328,
+      "num": 107328,
+      "word": "新年红色系美甲",
+      "onboard_time": 1766836463,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 107318,
@@ -62339,6 +62539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104056,
+      "num": 104056,
+      "word": "孙颖莎王楚钦夺冠入选新华社热搜瞬间",
+      "onboard_time": 1766837064,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104041,
       "num": 100783,
       "word": "唐诡4原来大唐人均焦虑症",
@@ -63569,14 +63777,6 @@
       "onboard_time": 1766726601,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102158,
-      "num": 102158,
-      "word": "身体炎症水平高不高看4点",
-      "onboard_time": 1766834541,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102121,
@@ -67227,6 +67427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95787,
+      "num": 99242,
+      "word": "一诺戈娅伪五杀",
+      "onboard_time": 1766838082,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95785,
       "num": 107315,
       "word": "啥样的短剧能把周深请过来",
@@ -67377,14 +67585,6 @@
       "onboard_time": 1764738142,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95446,
-      "num": 95446,
-      "word": "化妆就要越大胆越好看",
-      "onboard_time": 1766835321,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 95441,
@@ -70777,14 +70977,6 @@
       "onboard_time": 1765448479,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88720,
-      "num": 103541,
-      "word": "长期如厕刷手机20岁女生盆底已60岁",
-      "onboard_time": 1766835321,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88682,
@@ -77323,6 +77515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69373,
+      "num": 114343,
+      "word": "建华妹妹半只脚踏进音乐圈",
+      "onboard_time": 1766838381,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69350,
       "num": 140993,
       "word": "英首相炒作中国威胁又称生意得做",
@@ -79523,6 +79723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61161,
+      "num": 116448,
+      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+      "onboard_time": 1766839042,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61154,
       "num": 1593813,
       "word": "网警查处一起AI生成虚假低俗视频案",
@@ -81713,6 +81921,14 @@
       "onboard_time": 1765582036,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 53181,
+      "num": 110268,
+      "word": "蔡磊称推出的渐冻症药领先全世界",
+      "onboard_time": 1766838502,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 53121,
@@ -84217,6 +84433,14 @@
       "onboard_time": 1765150220,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44632,
+      "num": 221768,
+      "word": "李逗逗黑脸百灵鸟",
+      "onboard_time": 1766836881,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 44615,
@@ -92489,6 +92713,14 @@
       "onboard_time": 1766252418,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 21669,
+      "num": 328612,
+      "word": "走过2025我们都是主角",
+      "onboard_time": 1766823499,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21647,

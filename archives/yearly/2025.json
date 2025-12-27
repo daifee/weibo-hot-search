@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766835493789,
+  "endTime": 1766840029547,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9567193,
+      "num": 9567193,
+      "word": "橹穆双人舞台",
+      "onboard_time": 1766586682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9551582,
       "num": 9551582,
       "word": "王楚钦vs樊振东",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1750767502,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6912060,
-      "num": 6912060,
-      "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
-      "onboard_time": 1748090783,
-      "rank": 14,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
