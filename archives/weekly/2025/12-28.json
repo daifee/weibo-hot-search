@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766875411154,
+  "endTime": 1766878027829,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -211,6 +211,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+      "onboard_time": 1766840181,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182245,
       "num": 182245,
       "word": "王晶说肖战戏路很窄",
@@ -299,20 +307,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111373,
+      "num": 157434,
+      "word": "老人感染艾滋病多与商业性行为有关",
+      "onboard_time": 1766834600,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 108892,
       "num": 157750,
       "word": "Hero晋级挑杯败者组决赛",
       "onboard_time": 1766852001,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108450,
-      "num": 114291,
-      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
-      "onboard_time": 1766840181,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108362,
@@ -353,14 +361,6 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 100473,
-      "num": 157434,
-      "word": "老人感染艾滋病多与商业性行为有关",
-      "onboard_time": 1766834600,
-      "rank": 41,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 99686,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50133,
+      "num": 48199,
+      "word": "肖战一步步走进莫得闲的故事里",
+      "onboard_time": 1766875515,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49960,
       "num": 112631,
       "word": "王楚钦挥手回应球迷新年祝福",
@@ -483,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46828,
+      "num": 46828,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46598,
       "num": 65593,
       "word": "穆祉丞王橹杰剑客琴师",
       "onboard_time": 1766842522,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38433,
+      "num": 42137,
+      "word": "女子向法庭出示带豆包AI生成伪证",
+      "onboard_time": 1766877376,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37577,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33559,
+      "num": 45992,
+      "word": "宋威龙原来我们早就见面了",
+      "onboard_time": 1766866454,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32375,
       "num": 65548,
       "word": "入局",
@@ -529,6 +561,14 @@
       "onboard_time": 1766861234,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30571,
+      "num": 42127,
+      "word": "刘宇宁哥是一种感觉",
+      "onboard_time": 1766864534,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 30315,
@@ -547,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25814,
-      "num": 32906,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25662,
       "num": 47008,
       "word": "张极绷带造型富有且大方",
@@ -571,31 +603,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19265,
-      "num": 29671,
-      "word": "刘宇宁哥是一种感觉",
-      "onboard_time": 1766864534,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18854,
-      "num": 45992,
-      "word": "宋威龙原来我们早就见面了",
-      "onboard_time": 1766866454,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18267,
-      "num": 29667,
+      "raw_hot": 23259,
+      "num": 42086,
       "word": "王一博探索新境",
       "onboard_time": 1766874015,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 16060,
+      "raw_hot": 17728,
       "num": 45959,
       "word": "湘超",
       "onboard_time": 1766835561,
@@ -611,20 +627,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15122,
+      "num": 218756,
+      "word": "中国低温火箭年度发射新纪录",
+      "onboard_time": 1766840782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14359,
       "num": 624126,
       "word": "2025热搜里的中国",
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11470,
-      "num": 173030,
-      "word": "中国低温火箭年度发射新纪录",
-      "onboard_time": 1766840782,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
