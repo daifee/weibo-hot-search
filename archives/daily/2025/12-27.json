@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766814357714,
+  "endTime": 1766817665464,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -32,6 +32,14 @@
       "word": "36岁银行女经理和丈夫先后自杀",
       "onboard_time": 1766810299,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1030509,
+      "num": 270468,
+      "word": "银行女经理自杀储户千万存款被转走",
+      "onboard_time": 1766813960,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 519191,
+      "num": 202312,
+      "word": "对不起巨型吊牌影响您穿上飞机",
+      "onboard_time": 1766813720,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 513592,
       "num": 513592,
       "word": "第一个官宣春晚的省级卫视",
@@ -163,20 +179,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 421859,
+      "num": 312576,
+      "word": "曝赵樱子蒋毅求婚是剧本",
+      "onboard_time": 1766812700,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 419129,
       "num": 419129,
       "word": "逍遥",
       "onboard_time": 1766809460,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413245,
-      "num": 312576,
-      "word": "曝赵樱子蒋毅求婚是剧本",
-      "onboard_time": 1766812700,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 406311,
@@ -193,6 +209,14 @@
       "onboard_time": 1766810900,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395142,
+      "num": 146034,
+      "word": "黄一鸣分手了",
+      "onboard_time": 1766814860,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 377910,
@@ -217,6 +241,14 @@
       "onboard_time": 1766791637,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370530,
+      "num": 144214,
+      "word": "黄子韬居然胖到180斤了",
+      "onboard_time": 1766816299,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 356253,
@@ -259,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313488,
+      "num": 313488,
+      "word": "攀枝花发生刑案致1死3伤",
+      "onboard_time": 1766816421,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 297572,
+      "num": 297572,
+      "word": "金晨预定飞驰人生4女一号",
+      "onboard_time": 1766812940,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290146,
       "num": 285255,
       "word": "顾漫五部小说改编五部影视爆款",
@@ -281,14 +329,6 @@
       "onboard_time": 1766752881,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 276648,
-      "num": 171064,
-      "word": "金晨预定飞驰人生4女一号",
-      "onboard_time": 1766812940,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 271554,
@@ -371,11 +411,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222826,
+      "num": 160319,
+      "word": "何老师一年的工作光是听着就累了",
+      "onboard_time": 1766816299,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222726,
       "num": 193768,
       "word": "刘嘉玲一说女朋友6个男人沉默了",
       "onboard_time": 1766810840,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221927,
+      "num": 152322,
+      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+      "onboard_time": 1766816839,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -385,6 +441,14 @@
       "onboard_time": 1766805080,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208948,
+      "num": 154832,
+      "word": "刘宇宁称不进组与番位无关",
+      "onboard_time": 1766813660,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 208417,
@@ -409,6 +473,14 @@
       "onboard_time": 1766760861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200524,
+      "num": 117252,
+      "word": "早点发律师函",
+      "onboard_time": 1766816839,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 194476,
@@ -489,14 +561,6 @@
       "onboard_time": 1766791998,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175588,
-      "num": 131757,
-      "word": "对不起巨型吊牌影响您穿上飞机",
-      "onboard_time": 1766813720,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 174920,
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132760,
+      "num": 132760,
+      "word": "逍遥开播反响",
+      "onboard_time": 1766815159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131975,
       "num": 131975,
       "word": "费启鸣你让我感到陌生",
@@ -793,6 +865,14 @@
       "onboard_time": 1766810179,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127735,
+      "num": 116279,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127005,
@@ -857,6 +937,22 @@
       "onboard_time": 1766755641,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122315,
+      "num": 122315,
+      "word": "山楂是结节克星",
+      "onboard_time": 1766816779,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122187,
+      "num": 122187,
+      "word": "被银行女经理转走78万当事人发声",
+      "onboard_time": 1766816719,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121685,
@@ -1019,6 +1115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109271,
+      "num": 109271,
+      "word": "程潇新剧姐味女老板",
+      "onboard_time": 1766817259,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108669,
+      "num": 108669,
+      "word": "出现这5个症状就要警惕肠癌了",
+      "onboard_time": 1766816899,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108458,
       "num": 108458,
       "word": "快船vs开拓者",
@@ -1089,6 +1201,22 @@
       "onboard_time": 1766814079,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105292,
+      "num": 105292,
+      "word": "如何判断一个人是滋养你还是消耗你",
+      "onboard_time": 1766817199,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105120,
+      "num": 109619,
+      "word": "樊振东退排名不退役",
+      "onboard_time": 1766816060,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 104271,
@@ -1171,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98516,
+      "num": 98516,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1766817440,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96579,
       "num": 265140,
       "word": "中方奉劝纳瓦罗之流认真反思",
@@ -1235,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92725,
+      "num": 92725,
+      "word": "刘耀文被问结婚时的反应",
+      "onboard_time": 1766816179,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92235,
       "num": 92235,
       "word": "警方回应村民120只羊被好友毒死",
@@ -1265,6 +1409,22 @@
       "onboard_time": 1766765780,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 91543,
+      "num": 110166,
+      "word": "33层高楼业主砸穿七套房",
+      "onboard_time": 1766814020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91337,
+      "num": 91337,
+      "word": "文科生从未见过如此上等贡品",
+      "onboard_time": 1766817499,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 90977,
@@ -1539,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70835,
+      "num": 91348,
+      "word": "日本推出人扮大熊猫游客体验活动",
+      "onboard_time": 1766815220,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70440,
       "num": 108995,
       "word": "恋与深空直播",
@@ -1643,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63827,
+      "num": 172030,
+      "word": "柬埔寨泰国正式停火",
+      "onboard_time": 1766816361,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63655,
       "num": 108752,
       "word": "恋与深空银河卡",
@@ -1672,6 +1848,14 @@
       "word": "左奇函daddy级别",
       "onboard_time": 1766762721,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 54951,
+      "num": 108286,
+      "word": "潘玮柏在演唱会现场点外卖",
+      "onboard_time": 1766816238,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -1827,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32710,
+      "num": 108244,
+      "word": "人之初开播热度",
+      "onboard_time": 1766816899,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29383,
       "num": 33851,
       "word": "速接肖战新年祝福",
@@ -1851,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27323,
+      "num": 106029,
+      "word": "特朗普称有望与泽连斯基达成协议",
+      "onboard_time": 1766816421,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27195,
       "num": 80895,
       "word": "2026全国两会召开时间",
@@ -1865,6 +2065,14 @@
       "onboard_time": 1766776575,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26169,
+      "num": 108260,
+      "word": "还好霍建华不上网",
+      "onboard_time": 1766817499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 25973,
@@ -1979,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20966,
-      "num": 171093,
-      "word": "银行女经理自杀储户千万存款被转走",
-      "onboard_time": 1766813960,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20561,
       "num": 104405,
       "word": "吉林34年前杀人案再审维持原判",
@@ -2073,14 +2273,6 @@
       "onboard_time": 1766781494,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13959,
-      "num": 110166,
-      "word": "33层高楼业主砸穿七套房",
-      "onboard_time": 1766814020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13643,
