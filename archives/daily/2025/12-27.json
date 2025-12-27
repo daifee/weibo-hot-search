@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766821197024,
+  "endTime": 1766824563771,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -235,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 386927,
+      "num": 1061908,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377910,
       "num": 310736,
       "word": "刘旸从月薪150干到年薪百万",
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372482,
-      "num": 215635,
-      "word": "曹建国已从院士名单中撤下",
-      "onboard_time": 1766817259,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 370661,
       "num": 907239,
       "word": "台湾网友听到台湾终于被点激动哭了",
@@ -273,6 +273,14 @@
       "onboard_time": 1766816299,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366624,
+      "num": 162704,
+      "word": "肖战喜欢爱你老己这个梗",
+      "onboard_time": 1766821879,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 356253,
@@ -329,6 +337,22 @@
       "onboard_time": 1766791637,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303049,
+      "num": 217162,
+      "word": "十二月工资才是打工人的存款",
+      "onboard_time": 1766821639,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300362,
+      "num": 160968,
+      "word": "终于理解了孩子拴住妈的感觉",
+      "onboard_time": 1766820258,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 297572,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 258020,
-      "num": 212106,
+      "num": 221358,
       "word": "赵丽颖逍遥演技",
       "onboard_time": 1766818759,
       "rank": 16,
@@ -467,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222572,
+      "num": 222572,
+      "word": "吴艳妮回应比赛化妆",
+      "onboard_time": 1766821040,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217482,
       "num": 217482,
       "word": "结婚的好处只有幸福的人说得出来",
       "onboard_time": 1766805080,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211189,
+      "num": 153691,
+      "word": "肖战说爱你老己就是对自己好",
+      "onboard_time": 1766821520,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 208417,
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198708,
+      "num": 145121,
+      "word": "明年起公积金贷款利率正式下调",
+      "onboard_time": 1766819719,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "11岁留守女童遭亲戚猥亵老人不追究",
@@ -523,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188360,
-      "num": 135778,
-      "word": "明年起公积金贷款利率正式下调",
-      "onboard_time": 1766819719,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 188687,
+      "num": 201906,
+      "word": "微博年度报告",
+      "onboard_time": 1766818639,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 185275,
@@ -643,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168252,
+      "num": 151697,
+      "word": "熬夜老外被中医折服的一天",
+      "onboard_time": 1766823200,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164436,
       "num": 164436,
       "word": "吴磊听到粉丝说外卖被偷了的反应",
@@ -755,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151568,
-      "num": 104121,
-      "word": "终于理解了孩子拴住妈的感觉",
-      "onboard_time": 1766820258,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "孙颖莎获评新华社年度十佳",
@@ -803,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144615,
+      "num": 144615,
+      "word": "突然就理解了漂亮饭的意义",
+      "onboard_time": 1766824520,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 143912,
       "num": 122615,
       "word": "张真源牙钻这次够清晰了",
@@ -833,6 +889,14 @@
       "onboard_time": 1766819060,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138230,
+      "num": 138230,
+      "word": "余茵被陌生男性当面辱骂",
+      "onboard_time": 1766821820,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 138028,
@@ -907,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130557,
+      "num": 130557,
+      "word": "华晨宇时团我要你管舞台好炸裂",
+      "onboard_time": 1766823140,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130519,
       "num": 120407,
       "word": "羽绒服和棉服到底哪个更值得买",
@@ -923,12 +995,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 128628,
-      "num": 201906,
-      "word": "微博年度报告",
-      "onboard_time": 1766818639,
-      "rank": 9,
-      "category": "互联网"
+      "raw_hot": 127514,
+      "num": 127514,
+      "word": "KPL",
+      "onboard_time": 1766824160,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 127005,
@@ -1091,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115304,
+      "num": 115304,
+      "word": "恋与深空等身雕塑",
+      "onboard_time": 1766822659,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114954,
       "num": 114954,
       "word": "刘宇宁直播",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1766806220,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114139,
+      "num": 114139,
+      "word": "张昊唯被朋友背刺退圈",
+      "onboard_time": 1766821400,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 114093,
@@ -1187,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110284,
+      "num": 110284,
+      "word": "警方通报蒙面男子挨家挨户撬门",
+      "onboard_time": 1766823860,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109667,
       "num": 109667,
       "word": "骄阳似我 上头",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1766803340,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107942,
+      "num": 107942,
+      "word": "张钧甯一年比一年狠",
+      "onboard_time": 1766823619,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 107648,
@@ -1403,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99129,
+      "num": 99129,
+      "word": "减肥成功后没敢正常吃饭",
+      "onboard_time": 1766823320,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99068,
       "num": 99068,
       "word": "2025中国十佳运动员海报",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1766803879,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97368,
+      "num": 97368,
+      "word": "白敬亭王安宇宇过天亭又对手指了",
+      "onboard_time": 1766821340,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 96579,
@@ -1457,6 +1577,14 @@
       "onboard_time": 1766803399,
       "rank": 43,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 94837,
+      "num": 94837,
+      "word": "WB对战RW",
+      "onboard_time": 1766821879,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 94756,
@@ -1579,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90889,
+      "num": 90889,
+      "word": "樊振东退排名后现状",
+      "onboard_time": 1766824339,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90542,
       "num": 90542,
       "word": "王橹杰三机位4K爆燃混剪",
@@ -1601,6 +1737,14 @@
       "onboard_time": 1766820859,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90034,
+      "num": 90034,
+      "word": "你潜意识里没那么看得上对方",
+      "onboard_time": 1766824399,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 89987,
@@ -1667,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87035,
+      "num": 87035,
+      "word": "郑恺别挥手了我自己哭",
+      "onboard_time": 1766824399,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86234,
       "num": 90076,
       "word": "做美甲前vs做美甲后",
@@ -1681,6 +1833,14 @@
       "onboard_time": 1766819180,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84648,
+      "num": 84648,
+      "word": "林高远无缘男团决赛",
+      "onboard_time": 1766823979,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 84123,
@@ -1713,6 +1873,14 @@
       "onboard_time": 1766794219,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83185,
+      "num": 83185,
+      "word": "彭昱畅评论区细思极恐粗思更恐",
+      "onboard_time": 1766824279,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 82150,
@@ -2091,6 +2259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57690,
+      "num": 99557,
+      "word": "李雪琴秒答孟子义九重紫",
+      "onboard_time": 1766823619,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57563,
       "num": 108260,
       "word": "还好霍建华不上网",
@@ -2211,14 +2387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37108,
-      "num": 121808,
-      "word": "吴艳妮回应比赛化妆",
-      "onboard_time": 1766821040,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36130,
       "num": 36130,
       "word": "小猫会辨别喜欢的妈妈和讨厌的爸爸",
@@ -2273,6 +2441,14 @@
       "onboard_time": 1766818100,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30458,
+      "num": 90147,
+      "word": "热雪新疆e起来",
+      "onboard_time": 1766823799,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29383,
@@ -2339,6 +2515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25657,
+      "num": 156353,
+      "word": "商家回应母乳融化宝妈索赔奶粉钱",
+      "onboard_time": 1766824040,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25544,
       "num": 73861,
       "word": "左航少年意气溢出屏幕了",
@@ -2369,6 +2553,14 @@
       "onboard_time": 1766774954,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24181,
+      "num": 151209,
+      "word": "游客低头看手机被骡子货袋撞下山坡",
+      "onboard_time": 1766823920,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23408,
@@ -2459,12 +2651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19269,
+      "num": 100173,
+      "word": "人人人人济南地铁人人人人",
+      "onboard_time": 1766824459,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19011,
       "num": 108874,
       "word": "跨不过的坎就来夸年岛夸过去",
       "onboard_time": 1766811920,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18973,
+      "num": 225533,
+      "word": "十四五我国健儿获665个世界冠军",
+      "onboard_time": 1766824040,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 18808,
@@ -2561,6 +2769,14 @@
       "onboard_time": 1766786294,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8429,
+      "num": 101690,
+      "word": "校领导2年抽成330万须查清钱去哪了",
+      "onboard_time": 1766824279,
+      "rank": 35,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
@@ -2569,6 +2785,9 @@
     },
     {
       "word": "#总书记的2025#"
+    },
+    {
+      "word": "#领导干部要在其位谋其政尽其责#"
     }
   ]
 }
