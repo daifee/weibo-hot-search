@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766817665464,
+  "endTime": 1766818455641,
   "band_list": [
     {
       "raw_hot": 10765150,
@@ -2171,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539083,
+      "num": 211085,
+      "word": "对不起巨型吊牌影响您穿上飞机",
+      "onboard_time": 1766813720,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 537303,
       "num": 1085024,
       "word": "孟鲁司特 抑郁",
@@ -2353,14 +2361,6 @@
       "onboard_time": 1766538741,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 519191,
-      "num": 202312,
-      "word": "对不起巨型吊牌影响您穿上飞机",
-      "onboard_time": 1766813720,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 515379,
@@ -2931,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456584,
+      "num": 456584,
+      "word": "攀枝花发生刑案致1死3伤",
+      "onboard_time": 1766816421,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 455977,
       "num": 471181,
       "word": "短剧一姐的含金量",
@@ -3025,6 +3033,14 @@
       "onboard_time": 1766637021,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437314,
+      "num": 312576,
+      "word": "曝赵樱子蒋毅求婚是剧本",
+      "onboard_time": 1766812700,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 436254,
@@ -3185,14 +3201,6 @@
       "onboard_time": 1766660181,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421859,
-      "num": 312576,
-      "word": "曝赵樱子蒋毅求婚是剧本",
-      "onboard_time": 1766812700,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 421596,
@@ -3907,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358555,
+      "num": 160319,
+      "word": "何老师一年的工作光是听着就累了",
+      "onboard_time": 1766816299,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358131,
       "num": 258653,
       "word": "孟子义星光大赏第二套出图",
@@ -4529,14 +4545,6 @@
       "onboard_time": 1766391624,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 313488,
-      "num": 313488,
-      "word": "攀枝花发生刑案致1死3伤",
-      "onboard_time": 1766816421,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 311830,
@@ -5211,6 +5219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279306,
+      "num": 154832,
+      "word": "刘宇宁称不进组与番位无关",
+      "onboard_time": 1766813660,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278706,
       "num": 216102,
       "word": "有存款和没存款的区别",
@@ -5465,6 +5481,14 @@
       "onboard_time": 1766706138,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263658,
+      "num": 172248,
+      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+      "onboard_time": 1766816839,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 263157,
@@ -6155,14 +6179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222826,
-      "num": 160319,
-      "word": "何老师一年的工作光是听着就累了",
-      "onboard_time": 1766816299,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222726,
       "num": 193768,
       "word": "刘嘉玲一说女朋友6个男人沉默了",
@@ -6201,14 +6217,6 @@
       "onboard_time": 1766717421,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221927,
-      "num": 152322,
-      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
-      "onboard_time": 1766816839,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 221673,
@@ -6563,14 +6571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208948,
-      "num": 154832,
-      "word": "刘宇宁称不进组与番位无关",
-      "onboard_time": 1766813660,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208417,
       "num": 483941,
       "word": "顾漫还是牛",
@@ -6843,6 +6843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203541,
+      "num": 150176,
+      "word": "早点发律师函",
+      "onboard_time": 1766816839,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203302,
       "num": 203302,
       "word": "江宏杰方回应福原爱再婚怀孕",
@@ -7057,14 +7065,6 @@
       "onboard_time": 1766245461,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 200524,
-      "num": 117252,
-      "word": "早点发律师函",
-      "onboard_time": 1766816839,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 199952,
@@ -10275,6 +10275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151598,
+      "num": 141331,
+      "word": "白鹿顶级过肺",
+      "onboard_time": 1766817920,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151523,
       "num": 151523,
       "word": "严浩翔完全是洋娃娃",
@@ -10441,6 +10449,14 @@
       "onboard_time": 1766721081,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149852,
+      "num": 149852,
+      "word": "逍遥开播反响",
+      "onboard_time": 1766815159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 149832,
@@ -11387,6 +11403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139674,
+      "num": 125160,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139594,
       "num": 139594,
       "word": "唐诡的产量速度太惊人了",
@@ -12035,14 +12059,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 132760,
-      "num": 132760,
-      "word": "逍遥开播反响",
-      "onboard_time": 1766815159,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "医生说洋葱是能吃的心脏支架",
@@ -12625,14 +12641,6 @@
       "onboard_time": 1766571620,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 127735,
-      "num": 116279,
-      "word": "曹建国已从院士名单中撤下",
-      "onboard_time": 1766817259,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127729,
@@ -13323,6 +13331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1766817440,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122876,
       "num": 117289,
       "word": "BLG对战LNG",
@@ -13388,7 +13404,7 @@
     },
     {
       "raw_hot": 122187,
-      "num": 122187,
+      "num": 137637,
       "word": "被银行女经理转走78万当事人发声",
       "onboard_time": 1766816719,
       "rank": 29,
@@ -14611,6 +14627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111378,
+      "num": 111378,
+      "word": "程潇新剧姐味女老板",
+      "onboard_time": 1766817259,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111344,
       "num": 111344,
       "word": "国乒队员体验南京文化",
@@ -14897,14 +14921,6 @@
       "onboard_time": 1766798599,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109271,
-      "num": 109271,
-      "word": "程潇新剧姐味女老板",
-      "onboard_time": 1766817259,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 109265,
@@ -16683,14 +16699,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 98516,
-      "num": 98516,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1766817440,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "肖战藏海传可以确定云合年冠吗",
@@ -17435,6 +17443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91752,
+      "num": 91752,
+      "word": "黄景瑜罚罪2的人脉是黄景瑜",
+      "onboard_time": 1766818281,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91676,
       "num": 91676,
       "word": "仙逆呼声最高的男主",
@@ -17881,6 +17897,14 @@
       "onboard_time": 1766565621,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87918,
+      "num": 87918,
+      "word": "蔡徐坤由你榜2025年度歌手",
+      "onboard_time": 1766818038,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 87845,
@@ -19251,6 +19275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71208,
+      "num": 172030,
+      "word": "柬埔寨泰国正式停火",
+      "onboard_time": 1766816361,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70910,
       "num": 115448,
       "word": "台独挑衅一次解放军加压进逼一步",
@@ -19465,6 +19497,14 @@
       "onboard_time": 1766647642,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68468,
+      "num": 127188,
+      "word": "潘玮柏在演唱会现场点外卖",
+      "onboard_time": 1766816238,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 68462,
@@ -19753,14 +19793,6 @@
       "onboard_time": 1766574020,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63827,
-      "num": 172030,
-      "word": "柬埔寨泰国正式停火",
-      "onboard_time": 1766816361,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63727,
@@ -20219,6 +20251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57563,
+      "num": 108260,
+      "word": "还好霍建华不上网",
+      "onboard_time": 1766817499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57538,
       "num": 317849,
       "word": "更豪华的电动车",
@@ -20377,14 +20417,6 @@
       "onboard_time": 1766464581,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54951,
-      "num": 108286,
-      "word": "潘玮柏在演唱会现场点外卖",
-      "onboard_time": 1766816238,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 54883,
@@ -20753,6 +20785,14 @@
       "onboard_time": 1766246303,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50782,
+      "num": 108244,
+      "word": "人之初开播热度",
+      "onboard_time": 1766816899,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 50749,
@@ -22299,14 +22339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32710,
-      "num": 108244,
-      "word": "人之初开播热度",
-      "onboard_time": 1766816899,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32635,
       "num": 86163,
       "word": "尔滨中央大街冰雪氛围已拉满",
@@ -22561,6 +22593,14 @@
       "onboard_time": 1766311882,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30759,
+      "num": 107353,
+      "word": "陈妍希开门 我是妹妹",
+      "onboard_time": 1766818100,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 30519,
@@ -22977,14 +23017,6 @@
       "onboard_time": 1766255596,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26169,
-      "num": 108260,
-      "word": "还好霍建华不上网",
-      "onboard_time": 1766817499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 26145,

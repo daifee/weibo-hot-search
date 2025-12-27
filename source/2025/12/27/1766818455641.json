@@ -1,0 +1,410 @@
+{
+  "runTime": 1766818455641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679844,
+        "num": 1108775,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456584,
+        "num": 456584,
+        "word": "攀枝花发生刑案致1死3伤",
+        "onboard_time": 1766816421,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 3051,
+        "num": 289164,
+        "word": "2025这些同框瞬间你还记得吗",
+        "onboard_time": 1766806099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280183,
+        "num": 280183,
+        "word": "金晨预定飞驰人生4女一号",
+        "onboard_time": 1766812940,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244363,
+        "num": 244363,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 942933,
+        "num": 233452,
+        "word": "银行女经理自杀储户千万存款被转走",
+        "onboard_time": 1766813960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539083,
+        "num": 211085,
+        "word": "对不起巨型吊牌影响您穿上飞机",
+        "onboard_time": 1766813720,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476560,
+        "num": 180555,
+        "word": "36岁银行女经理和丈夫先后自杀",
+        "onboard_time": 1766810299,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263658,
+        "num": 172248,
+        "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+        "onboard_time": 1766816839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153393,
+        "num": 153393,
+        "word": "Creme后台怒怼Homme",
+        "onboard_time": 1766811380,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437314,
+        "num": 153194,
+        "word": "曝赵樱子蒋毅求婚是剧本",
+        "onboard_time": 1766812700,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400636,
+        "num": 152562,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358555,
+        "num": 152137,
+        "word": "何老师一年的工作光是听着就累了",
+        "onboard_time": 1766816299,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279306,
+        "num": 151655,
+        "word": "刘宇宁称不进组与番位无关",
+        "onboard_time": 1766813660,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255986,
+        "num": 151208,
+        "word": "谭松韵撞档谭松韵",
+        "onboard_time": 1766807300,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213553,
+        "num": 151123,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212513,
+        "num": 150623,
+        "word": "王鹤棣问黄子韬结了婚真的会幸福肥吗",
+        "onboard_time": 1766810900,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203541,
+        "num": 150176,
+        "word": "早点发律师函",
+        "onboard_time": 1766816839,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149852,
+        "num": 149852,
+        "word": "逍遥开播反响",
+        "onboard_time": 1766815159,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143736,
+        "num": 143736,
+        "word": "张柏芝香奈儿老了还是香奈儿",
+        "onboard_time": 1766807839,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394988,
+        "num": 143711,
+        "word": "黄一鸣分手了",
+        "onboard_time": 1766814860,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367016,
+        "num": 142895,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151598,
+        "num": 141331,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149752,
+        "num": 141275,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71208,
+        "num": 139743,
+        "word": "柬埔寨泰国正式停火",
+        "onboard_time": 1766816361,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139666,
+        "num": 139666,
+        "word": "燕云十六声现状我鸟都不鸟你",
+        "onboard_time": 1766812401,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138324,
+        "num": 138324,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120640,
+        "num": 137637,
+        "word": "被银行女经理转走78万当事人发声",
+        "onboard_time": 1766816719,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105568,
+        "num": 130843,
+        "word": "石宇奇孙颖莎等2025中国十佳运动员",
+        "onboard_time": 1766806999,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68468,
+        "num": 127188,
+        "word": "潘玮柏在演唱会现场点外卖",
+        "onboard_time": 1766816238,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139674,
+        "num": 125160,
+        "word": "曹建国已从院士名单中撤下",
+        "onboard_time": 1766817259,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122906,
+        "num": 122906,
+        "word": "湖南卫视跨年演唱会",
+        "onboard_time": 1766817440,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121511,
+        "num": 121511,
+        "word": "这张迪丽热巴说是科幻片我都信",
+        "onboard_time": 1766809040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112875,
+        "num": 112875,
+        "word": "骄阳似我",
+        "onboard_time": 1766808200,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 112359,
+        "word": "刘旸从月薪150干到年薪百万",
+        "onboard_time": 1766808560,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111378,
+        "num": 111378,
+        "word": "程潇新剧姐味女老板",
+        "onboard_time": 1766817259,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111012,
+        "num": 111012,
+        "word": "宋威龙 硬帅",
+        "onboard_time": 1766811258,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30759,
+        "num": 107353,
+        "word": "陈妍希开门 我是妹妹",
+        "onboard_time": 1766818100,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57563,
+        "num": 106806,
+        "word": "还好霍建华不上网",
+        "onboard_time": 1766817499,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106728,
+        "num": 106728,
+        "word": "山楂是结节克星",
+        "onboard_time": 1766816779,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97494,
+        "num": 97494,
+        "word": "出现这5个症状就要警惕肠癌了",
+        "onboard_time": 1766816899,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100314,
+        "num": 96509,
+        "word": "南有张凌赫 北有宋威龙",
+        "onboard_time": 1766812279,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92927,
+        "num": 92927,
+        "word": "金饰价格突破1400元黄金回收遇冷",
+        "onboard_time": 1766807359,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92674,
+        "num": 92674,
+        "word": "如何判断一个人是滋养你还是消耗你",
+        "onboard_time": 1766817199,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50782,
+        "num": 92155,
+        "word": "人之初开播热度",
+        "onboard_time": 1766816899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91752,
+        "num": 91752,
+        "word": "黄景瑜罚罪2的人脉是黄景瑜",
+        "onboard_time": 1766818281,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87918,
+        "num": 87918,
+        "word": "蔡徐坤由你榜2025年度歌手",
+        "onboard_time": 1766818038,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84160,
+        "num": 84160,
+        "word": "逍遥全阵容开播",
+        "onboard_time": 1766798839,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77241,
+        "num": 77241,
+        "word": "周也早期穿搭",
+        "onboard_time": 1766812879,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74989,
+        "num": 76653,
+        "word": "33层高楼业主砸穿七套房",
+        "onboard_time": 1766814020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2025#"
+    }
+  }
+}

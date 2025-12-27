@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766817665464,
+  "endTime": 1766818455641,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -115,8 +115,8 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 519191,
-      "num": 202312,
+      "raw_hot": 539083,
+      "num": 211085,
       "word": "对不起巨型吊牌影响您穿上飞机",
       "onboard_time": 1766813720,
       "rank": 30,
@@ -163,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456584,
+      "num": 456584,
+      "word": "攀枝花发生刑案致1死3伤",
+      "onboard_time": 1766816421,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 437314,
+      "num": 312576,
+      "word": "曝赵樱子蒋毅求婚是剧本",
+      "onboard_time": 1766812700,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 436254,
       "num": 436254,
       "word": "宝马销冠一口价营销8天卖11台",
@@ -177,14 +193,6 @@
       "onboard_time": 1766802501,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 421859,
-      "num": 312576,
-      "word": "曝赵樱子蒋毅求婚是剧本",
-      "onboard_time": 1766812700,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 419129,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358555,
+      "num": 160319,
+      "word": "何老师一年的工作光是听着就累了",
+      "onboard_time": 1766816299,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356253,
       "num": 356253,
       "word": "爱奇艺腾讯优酷都发了赵丽颖",
@@ -291,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313488,
-      "num": 313488,
-      "word": "攀枝花发生刑案致1死3伤",
-      "onboard_time": 1766816421,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 297572,
       "num": 297572,
       "word": "金晨预定飞驰人生4女一号",
@@ -331,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279306,
+      "num": 154832,
+      "word": "刘宇宁称不进组与番位无关",
+      "onboard_time": 1766813660,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "樊振东说自己不会退役",
@@ -361,6 +377,14 @@
       "onboard_time": 1766803520,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 263658,
+      "num": 172248,
+      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+      "onboard_time": 1766816839,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 258000,
@@ -411,27 +435,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222826,
-      "num": 160319,
-      "word": "何老师一年的工作光是听着就累了",
-      "onboard_time": 1766816299,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222726,
       "num": 193768,
       "word": "刘嘉玲一说女朋友6个男人沉默了",
       "onboard_time": 1766810840,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221927,
-      "num": 152322,
-      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
-      "onboard_time": 1766816839,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -443,20 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208948,
-      "num": 154832,
-      "word": "刘宇宁称不进组与番位无关",
-      "onboard_time": 1766813660,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208417,
       "num": 483941,
       "word": "顾漫还是牛",
       "onboard_time": 1766776394,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203541,
+      "num": 150176,
+      "word": "早点发律师函",
+      "onboard_time": 1766816839,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 202932,
@@ -473,14 +481,6 @@
       "onboard_time": 1766760861,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200524,
-      "num": 117252,
-      "word": "早点发律师函",
-      "onboard_time": 1766816839,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 194476,
@@ -715,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151598,
+      "num": 141331,
+      "word": "白鹿顶级过肺",
+      "onboard_time": 1766817920,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "孙颖莎获评新华社年度十佳",
       "onboard_time": 1766809519,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149852,
+      "num": 149852,
+      "word": "逍遥开播反响",
+      "onboard_time": 1766815159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 149087,
@@ -768,6 +784,14 @@
       "word": "保时捷门店总经理带头搬空展厅",
       "onboard_time": 1766762301,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139674,
+      "num": 125160,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -819,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132760,
-      "num": 132760,
-      "word": "逍遥开播反响",
-      "onboard_time": 1766815159,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131975,
       "num": 131975,
       "word": "费启鸣你让我感到陌生",
@@ -865,14 +881,6 @@
       "onboard_time": 1766810179,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127735,
-      "num": 116279,
-      "word": "曹建国已从院士名单中撤下",
-      "onboard_time": 1766817259,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127005,
@@ -931,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1766817440,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122816,
       "num": 122816,
       "word": "李宏毅直播",
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 122187,
-      "num": 122187,
+      "num": 137637,
       "word": "被银行女经理转走78万当事人发声",
       "onboard_time": 1766816719,
       "rank": 29,
@@ -1083,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111378,
+      "num": 111378,
+      "word": "程潇新剧姐味女老板",
+      "onboard_time": 1766817259,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110378,
       "num": 114348,
       "word": "国际银价暴涨",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1766798599,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109271,
-      "num": 109271,
-      "word": "程潇新剧姐味女老板",
-      "onboard_time": 1766817259,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 108669,
@@ -1299,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98516,
-      "num": 98516,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1766817440,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96579,
       "num": 265140,
       "word": "中方奉劝纳瓦罗之流认真反思",
@@ -1395,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91752,
+      "num": 91752,
+      "word": "黄景瑜罚罪2的人脉是黄景瑜",
+      "onboard_time": 1766818281,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91663,
       "num": 91663,
       "word": "银价升升升",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1766811620,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87918,
+      "num": 87918,
+      "word": "蔡徐坤由你榜2025年度歌手",
+      "onboard_time": 1766818038,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 87827,
@@ -1683,6 +1707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71208,
+      "num": 172030,
+      "word": "柬埔寨泰国正式停火",
+      "onboard_time": 1766816361,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71176,
       "num": 109104,
       "word": "赵今麦剪刀手",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1766801119,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68468,
+      "num": 127188,
+      "word": "潘玮柏在演唱会现场点外卖",
+      "onboard_time": 1766816238,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 68330,
@@ -1811,14 +1851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63827,
-      "num": 172030,
-      "word": "柬埔寨泰国正式停火",
-      "onboard_time": 1766816361,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63655,
       "num": 108752,
       "word": "恋与深空银河卡",
@@ -1851,12 +1883,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54951,
-      "num": 108286,
-      "word": "潘玮柏在演唱会现场点外卖",
-      "onboard_time": 1766816238,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 57563,
+      "num": 108260,
+      "word": "还好霍建华不上网",
+      "onboard_time": 1766817499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 54279,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1766751561,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 50782,
+      "num": 108244,
+      "word": "人之初开播热度",
+      "onboard_time": 1766816899,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 47558,
@@ -2011,12 +2051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32710,
-      "num": 108244,
-      "word": "人之初开播热度",
-      "onboard_time": 1766816899,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 30759,
+      "num": 107353,
+      "word": "陈妍希开门 我是妹妹",
+      "onboard_time": 1766818100,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 29383,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1766776575,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26169,
-      "num": 108260,
-      "word": "还好霍建华不上网",
-      "onboard_time": 1766817499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 25973,
