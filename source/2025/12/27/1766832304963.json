@@ -1,0 +1,410 @@
+{
+  "runTime": 1766832304963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1070876,
+        "num": 1171340,
+        "word": "自杀银行女经理生前月薪五六万",
+        "onboard_time": 1766830460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600870,
+        "num": 600870,
+        "word": "去封关后的海南被自己穷笑了",
+        "onboard_time": 1766826620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21046,
+        "num": 583320,
+        "word": "十四五我国健儿获665个世界冠军",
+        "onboard_time": 1766824040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579032,
+        "num": 579032,
+        "word": "新音节目单",
+        "onboard_time": 1766829621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327693,
+        "num": 327693,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641478,
+        "num": 325865,
+        "word": "女子发现接触两根手指能调整呼吸",
+        "onboard_time": 1766826742,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322212,
+        "num": 322212,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306711,
+        "num": 306711,
+        "word": "樊振东陈梦王曼昱虎扑十大运动员",
+        "onboard_time": 1766830939,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277528,
+        "num": 277528,
+        "word": "明年起公积金贷款利率正式下调",
+        "onboard_time": 1766819719,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260537,
+        "num": 260537,
+        "word": "新能源车高速没电2人推车被撞身亡",
+        "onboard_time": 1766828239,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23344,
+        "num": 256562,
+        "word": "非遗市集艺探究竟",
+        "onboard_time": 1766828120,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865479,
+        "num": 246234,
+        "word": "燕云十六声情趣内衣",
+        "onboard_time": 1766827940,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 749647,
+        "num": 240085,
+        "word": "王橹杰发博",
+        "onboard_time": 1766829559,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393335,
+        "num": 229960,
+        "word": "十二月工资才是打工人的存款",
+        "onboard_time": 1766821639,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346644,
+        "num": 218547,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211584,
+        "num": 211584,
+        "word": "新音",
+        "onboard_time": 1766829621,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204549,
+        "num": 204549,
+        "word": "爱错",
+        "onboard_time": 1766831901,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194568,
+        "num": 194568,
+        "word": "燕云十六声相关补偿",
+        "onboard_time": 1766828180,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185865,
+        "num": 185865,
+        "word": "肖战喜欢爱你老己这个梗",
+        "onboard_time": 1766821879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177529,
+        "num": 177529,
+        "word": "朱志鑫直拍",
+        "onboard_time": 1766829859,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224298,
+        "num": 176582,
+        "word": "邵子恒走光了",
+        "onboard_time": 1766831480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173726,
+        "num": 173726,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165740,
+        "num": 165740,
+        "word": "2025谭松韵韵光同行见面会",
+        "onboard_time": 1766831420,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "苹果烤奶",
+        "onboard_time": 1766830820,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163352,
+        "num": 163352,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 161463,
+        "word": "我拍到了锤娜丽莎减肥的证据",
+        "onboard_time": 1766824822,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155595,
+        "num": 155595,
+        "word": "恋人",
+        "onboard_time": 1766831180,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152663,
+        "num": 152663,
+        "word": "老人存167万消失突发脑梗后离世",
+        "onboard_time": 1766829920,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138774,
+        "num": 138774,
+        "word": "被拐演员王星和女友首次合体访问",
+        "onboard_time": 1766829621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80768,
+        "num": 134645,
+        "word": "2男子打架先动手罚100还手却拘3天",
+        "onboard_time": 1766829859,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133734,
+        "num": 133734,
+        "word": "宋威龙 奶奶粉也为你而来",
+        "onboard_time": 1766831420,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132334,
+        "num": 132334,
+        "word": "新音直播",
+        "onboard_time": 1766831601,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127315,
+        "num": 127315,
+        "word": "肖战说爱你老己就是对自己好",
+        "onboard_time": 1766821520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121998,
+        "num": 121998,
+        "word": "终于理解了孩子拴住妈的感觉",
+        "onboard_time": 1766820258,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 111119,
+        "num": 111119,
+        "word": "网剧双轨",
+        "onboard_time": 1766828660,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106680,
+        "num": 106680,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109344,
+        "num": 106527,
+        "word": "Mike 扎根式闯中",
+        "onboard_time": 1766831840,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104884,
+        "num": 104884,
+        "word": "Cryin在GEN首秀",
+        "onboard_time": 1766829080,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8287,
+        "num": 103597,
+        "word": "假期福利有人请客无人买单怎么办",
+        "onboard_time": 1766831901,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46195,
+        "num": 103250,
+        "word": "22岁女孩6年无法正常吃饭确诊罕见病",
+        "onboard_time": 1766831061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103248,
+        "num": 103248,
+        "word": "莎头捧起冠军奖杯",
+        "onboard_time": 1766830220,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98229,
+        "num": 98229,
+        "word": "张昊唯被朋友背刺退圈",
+        "onboard_time": 1766821400,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97502,
+        "num": 97502,
+        "word": "一个中年家庭多少钱是安全资产",
+        "onboard_time": 1766828419,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97206,
+        "num": 97206,
+        "word": "何老师一年的工作光是听着就累了",
+        "onboard_time": 1766816299,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94942,
+        "num": 94942,
+        "word": "曹建国已从院士名单中撤下",
+        "onboard_time": 1766817259,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92905,
+        "num": 92905,
+        "word": "人之初惊喜加座",
+        "onboard_time": 1766821040,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92478,
+        "num": 92478,
+        "word": "骄阳似我",
+        "onboard_time": 1766808200,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91342,
+        "num": 91342,
+        "word": "霸王茶姬声明",
+        "onboard_time": 1766826199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90842,
+        "num": 90842,
+        "word": "他才1岁8个月就懂这么多英语",
+        "onboard_time": 1766831361,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90723,
+        "num": 90723,
+        "word": "张柏芝不愧是上天赏吃的漂亮饭",
+        "onboard_time": 1766828958,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领导干部要在其位谋其政尽其责#"
+    }
+  }
+}
