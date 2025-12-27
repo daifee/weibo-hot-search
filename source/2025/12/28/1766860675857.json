@@ -1,0 +1,410 @@
+{
+  "runTime": 1766860675857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 569487,
+        "num": 569487,
+        "word": "一诺暂时告别赛场",
+        "onboard_time": 1766845885,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282579,
+        "num": 282579,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14359,
+        "num": 257819,
+        "word": "2025热搜里的中国",
+        "onboard_time": 1766840421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477432,
+        "num": 257247,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245472,
+        "num": 245472,
+        "word": "中华人民共和国主席令",
+        "onboard_time": 1766833341,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223192,
+        "num": 223192,
+        "word": "上海震感",
+        "onboard_time": 1766850084,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 196555,
+        "num": 196555,
+        "word": "Hero战胜AG",
+        "onboard_time": 1766844562,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201542,
+        "num": 196177,
+        "word": "深圳震感",
+        "onboard_time": 1766856378,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 164017,
+        "num": 164017,
+        "word": "长生",
+        "onboard_time": 1766846302,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111700,
+        "num": 111700,
+        "word": "橹穆 来自天堂的魔鬼",
+        "onboard_time": 1766836103,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252164,
+        "num": 109061,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210775,
+        "num": 108868,
+        "word": "单依纯公开承认自己有表达障碍",
+        "onboard_time": 1766841082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173795,
+        "num": 104844,
+        "word": "台湾海域6.6级地震现场画面",
+        "onboard_time": 1766853381,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 173665,
+        "num": 102156,
+        "word": "王星自曝在缅甸手机被人拿走刷网贷",
+        "onboard_time": 1766835259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137655,
+        "num": 99817,
+        "word": "一诺 希望拿大满贯",
+        "onboard_time": 1766844144,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98177,
+        "num": 98177,
+        "word": "杭州震感",
+        "onboard_time": 1766849366,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107785,
+        "num": 88436,
+        "word": "虐泉",
+        "onboard_time": 1766845463,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73839,
+        "num": 73839,
+        "word": "南京震感",
+        "onboard_time": 1766849966,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 99623,
+        "num": 73616,
+        "word": "大帅",
+        "onboard_time": 1766846064,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70387,
+        "num": 70387,
+        "word": "宋威龙见面会",
+        "onboard_time": 1766837482,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191827,
+        "num": 70187,
+        "word": "487 潇潇",
+        "onboard_time": 1766842462,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83191,
+        "num": 69639,
+        "word": "燕云十六声多次回应未平息争议",
+        "onboard_time": 1766854879,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67728,
+        "num": 67728,
+        "word": "第五瓜格",
+        "onboard_time": 1766848530,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 65622,
+        "word": "戴佩妮北京广州取消",
+        "onboard_time": 1766849308,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57779,
+        "num": 65622,
+        "word": "不惑 潇潇",
+        "onboard_time": 1766850923,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55551,
+        "num": 65619,
+        "word": "南昌震感",
+        "onboard_time": 1766850923,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54152,
+        "num": 65613,
+        "word": "荣耀之战",
+        "onboard_time": 1766841442,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52789,
+        "num": 65610,
+        "word": "Cat教练",
+        "onboard_time": 1766851162,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50994,
+        "num": 65609,
+        "word": "老人感染艾滋病多与商业性行为有关",
+        "onboard_time": 1766834600,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 50743,
+        "num": 65603,
+        "word": "AG超玩会 BP",
+        "onboard_time": 1766839042,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48516,
+        "num": 65601,
+        "word": "王晶说肖战戏路很窄",
+        "onboard_time": 1766833401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50644,
+        "num": 65599,
+        "word": "AG无缘挑杯决赛",
+        "onboard_time": 1766844502,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46598,
+        "num": 65593,
+        "word": "穆祉丞王橹杰剑客琴师",
+        "onboard_time": 1766842522,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42156,
+        "num": 65591,
+        "word": "焰火中跳舞的朱志鑫",
+        "onboard_time": 1766850326,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41907,
+        "num": 65587,
+        "word": "Hero晋级挑杯败者组决赛",
+        "onboard_time": 1766852001,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41485,
+        "num": 65583,
+        "word": "左奇函rap能力",
+        "onboard_time": 1766854819,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40969,
+        "num": 65581,
+        "word": "心疼轩染",
+        "onboard_time": 1766847504,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40044,
+        "num": 65576,
+        "word": "骄阳似我 伟大的暧昧期",
+        "onboard_time": 1766850684,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40634,
+        "num": 65574,
+        "word": "zwyns教练",
+        "onboard_time": 1766845163,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39064,
+        "num": 65570,
+        "word": "福州震感",
+        "onboard_time": 1766849966,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 38508,
+        "num": 65566,
+        "word": "长期如厕刷手机20岁女生盆底已60岁",
+        "onboard_time": 1766835321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38320,
+        "num": 65565,
+        "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+        "onboard_time": 1766840181,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37080,
+        "num": 65562,
+        "word": "台北摇晃近1分钟",
+        "onboard_time": 1766852601,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35744,
+        "num": 65557,
+        "word": "禾呵呵 487",
+        "onboard_time": 1766847922,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34947,
+        "num": 65553,
+        "word": "荣耀之战2026官宣澳门",
+        "onboard_time": 1766841442,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34196,
+        "num": 65550,
+        "word": "双轨团综泰甜啦",
+        "onboard_time": 1766859856,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32375,
+        "num": 65548,
+        "word": "入局",
+        "onboard_time": 1766859735,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32012,
+        "num": 65545,
+        "word": "AG剧透",
+        "onboard_time": 1766840543,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27249,
+        "num": 65539,
+        "word": "回顾樊振东跨年夜和球迷告别",
+        "onboard_time": 1766856737,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24260,
+        "num": 65538,
+        "word": "王楚钦挥手回应球迷新年祝福",
+        "onboard_time": 1766855719,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样要求共产党人#"
+    }
+  }
+}
