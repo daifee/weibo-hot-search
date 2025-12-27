@@ -1,0 +1,410 @@
+{
+  "runTime": 1766811215087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602451,
+        "num": 1096392,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419129,
+        "num": 419129,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3944,
+        "num": 302591,
+        "word": "2025这些同框瞬间你还记得吗",
+        "onboard_time": 1766806099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664769,
+        "num": 282550,
+        "word": "谭松韵撞档谭松韵",
+        "onboard_time": 1766807300,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258397,
+        "num": 258397,
+        "word": "石宇奇孙颖莎等2025中国十佳运动员",
+        "onboard_time": 1766806999,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1097850,
+        "num": 258027,
+        "word": "6名坠落大学生呼吸道窒息死亡",
+        "onboard_time": 1766803399,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 435668,
+        "num": 256983,
+        "word": "36岁银行女经理和丈夫先后自杀",
+        "onboard_time": 1766810299,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253881,
+        "num": 253881,
+        "word": "第一个官宣春晚的省级卫视",
+        "onboard_time": 1766803520,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240449,
+        "num": 240449,
+        "word": "逍遥全阵容开播",
+        "onboard_time": 1766798839,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212767,
+        "num": 212767,
+        "word": "白宫发言人与60岁丈夫宣布怀孕",
+        "onboard_time": 1766802501,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1029204,
+        "num": 212485,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377910,
+        "num": 210938,
+        "word": "刘旸从月薪150干到年薪百万",
+        "onboard_time": 1766808560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313740,
+        "num": 209340,
+        "word": "张柏芝香奈儿老了还是香奈儿",
+        "onboard_time": 1766807839,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234675,
+        "num": 207963,
+        "word": "顾漫五部小说改编五部影视爆款",
+        "onboard_time": 1766805379,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96579,
+        "num": 207067,
+        "word": "中方奉劝纳瓦罗之流认真反思",
+        "onboard_time": 1766809759,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260570,
+        "num": 206081,
+        "word": "张昊唯被曝逃税涉黄最新进展",
+        "onboard_time": 1766804422,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246709,
+        "num": 204262,
+        "word": "这张迪丽热巴说是科幻片我都信",
+        "onboard_time": 1766809040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203936,
+        "num": 203936,
+        "word": "黄景瑜这辈子别想坐我车了",
+        "onboard_time": 1766796622,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40822,
+        "num": 178294,
+        "word": "吴彦祖开箱小米17Ultra徕卡版",
+        "onboard_time": 1766808200,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "王一博做客礼数这一块",
+        "onboard_time": 1766810601,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161125,
+        "num": 161125,
+        "word": "河南69岁奶奶活成大女主年入200万",
+        "onboard_time": 1766809700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237992,
+        "num": 159313,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195264,
+        "num": 156832,
+        "word": "结婚的好处只有幸福的人说得出来",
+        "onboard_time": 1766805080,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182202,
+        "num": 155000,
+        "word": "金饰价格突破1400元黄金回收遇冷",
+        "onboard_time": 1766807359,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162426,
+        "num": 151844,
+        "word": "白鹿解锁拖鞋手机壳的另一种用法",
+        "onboard_time": 1766810000,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151684,
+        "num": 151684,
+        "word": "宋威龙打完暑假工又来打寒假工",
+        "onboard_time": 1766810479,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146770,
+        "num": 146770,
+        "word": "人之初云包场",
+        "onboard_time": 1766809700,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133807,
+        "num": 133807,
+        "word": "谁在黄景瑜面前也演不了老公",
+        "onboard_time": 1766810179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132108,
+        "num": 132108,
+        "word": "吴磊听到粉丝说外卖被偷了的反应",
+        "onboard_time": 1766808979,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132066,
+        "num": 132066,
+        "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
+        "onboard_time": 1766798539,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 130283,
+        "num": 130283,
+        "word": "美国人承认斩杀线存在",
+        "onboard_time": 1766810179,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126958,
+        "num": 126958,
+        "word": "刘嘉玲一说女朋友6个男人沉默了",
+        "onboard_time": 1766810840,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125314,
+        "num": 125314,
+        "word": "王鹤棣问黄子韬结了婚真的会幸福肥吗",
+        "onboard_time": 1766810900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122267,
+        "num": 122267,
+        "word": "银行回应取300元少5元",
+        "onboard_time": 1766810479,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119828,
+        "num": 119828,
+        "word": "顾漫 告白词",
+        "onboard_time": 1766810900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116012,
+        "num": 116012,
+        "word": "6名大学生坠落事故调查结果",
+        "onboard_time": 1766801720,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113167,
+        "num": 113167,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1766759842,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 115771,
+        "num": 111650,
+        "word": "日本卖汉堡的老人",
+        "onboard_time": 1766808140,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105745,
+        "num": 105745,
+        "word": "前额叶都快死了你还在怪自己",
+        "onboard_time": 1766805858,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104629,
+        "num": 104629,
+        "word": "千万粉丝网红谈被父母PUA",
+        "onboard_time": 1766803520,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102662,
+        "num": 102662,
+        "word": "樊振东说自己不会退役",
+        "onboard_time": 1766802920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 99595,
+        "word": "曝印度男子夜举火把给太阳能板充电",
+        "onboard_time": 1766801658,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98141,
+        "num": 98141,
+        "word": "燕云官方两次整改敷衍加剧矛盾",
+        "onboard_time": 1766808500,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95182,
+        "num": 95182,
+        "word": "鹿晗亮相十四周年",
+        "onboard_time": 1766808200,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94662,
+        "num": 94662,
+        "word": "老己撑过期末周",
+        "onboard_time": 1766811080,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94427,
+        "num": 94427,
+        "word": "你的猫长得跟个烂抹布一样",
+        "onboard_time": 1766808019,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 90542,
+        "num": 90542,
+        "word": "王橹杰三机位4K爆燃混剪",
+        "onboard_time": 1766811139,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89418,
+        "num": 89418,
+        "word": "苏无名被丢进鳄鱼池",
+        "onboard_time": 1766809221,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88682,
+        "num": 88682,
+        "word": "白银史诗级暴涨",
+        "onboard_time": 1766810659,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88326,
+        "num": 88326,
+        "word": "花少摄影师发了99张北斗七行",
+        "onboard_time": 1766794219,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2025#"
+    }
+  }
+}
