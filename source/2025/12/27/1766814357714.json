@@ -1,0 +1,410 @@
+{
+  "runTime": 1766814357714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120983,
+        "num": 1179357,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395069,
+        "num": 395069,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3294,
+        "num": 388701,
+        "word": "2025这些同框瞬间你还记得吗",
+        "onboard_time": 1766806099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426529,
+        "num": 383318,
+        "word": "谭松韵撞档谭松韵",
+        "onboard_time": 1766807300,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236485,
+        "num": 375835,
+        "word": "Creme后台怒怼Homme",
+        "onboard_time": 1766811380,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1076008,
+        "num": 361891,
+        "word": "36岁银行女经理和丈夫先后自杀",
+        "onboard_time": 1766810299,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400609,
+        "num": 359468,
+        "word": "王鹤棣问黄子韬结了婚真的会幸福肥吗",
+        "onboard_time": 1766810900,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301864,
+        "num": 346023,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47558,
+        "num": 341202,
+        "word": "6名大学生坠落事故原因",
+        "onboard_time": 1766813840,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 62304,
+        "num": 329720,
+        "word": "泰国与柬埔寨就停火问题签署联合声明",
+        "onboard_time": 1766813840,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 695334,
+        "num": 323110,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413245,
+        "num": 312576,
+        "word": "曝赵樱子蒋毅求婚是剧本",
+        "onboard_time": 1766812700,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310736,
+        "num": 310736,
+        "word": "刘旸从月薪150干到年薪百万",
+        "onboard_time": 1766808560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245454,
+        "num": 245454,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236406,
+        "num": 236406,
+        "word": "张柏芝香奈儿老了还是香奈儿",
+        "onboard_time": 1766807839,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234546,
+        "num": 234546,
+        "word": "燕云十六声现状我鸟都不鸟你",
+        "onboard_time": 1766812401,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199846,
+        "num": 199846,
+        "word": "这张迪丽热巴说是科幻片我都信",
+        "onboard_time": 1766809040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193768,
+        "num": 193768,
+        "word": "刘嘉玲一说女朋友6个男人沉默了",
+        "onboard_time": 1766810840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172538,
+        "num": 172538,
+        "word": "石宇奇孙颖莎等2025中国十佳运动员",
+        "onboard_time": 1766806999,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20966,
+        "num": 171093,
+        "word": "银行女经理自杀储户千万存款被转走",
+        "onboard_time": 1766813960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276648,
+        "num": 171064,
+        "word": "金晨预定飞驰人生4女一号",
+        "onboard_time": 1766812940,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247719,
+        "num": 170989,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170758,
+        "num": 170758,
+        "word": "黄晓明 我再也不做烂好人了",
+        "onboard_time": 1766813660,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "周也早期穿搭",
+        "onboard_time": 1766812879,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166464,
+        "num": 166464,
+        "word": "白宫发言人与60岁丈夫宣布怀孕",
+        "onboard_time": 1766802501,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156582,
+        "num": 156582,
+        "word": "银行回应取300元少5元",
+        "onboard_time": 1766810479,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153650,
+        "num": 153650,
+        "word": "赵丽颖古装",
+        "onboard_time": 1766813180,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136462,
+        "num": 136462,
+        "word": "南有张凌赫 北有宋威龙",
+        "onboard_time": 1766812279,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134210,
+        "num": 134210,
+        "word": "顾漫五部小说改编五部影视爆款",
+        "onboard_time": 1766805379,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132723,
+        "num": 132723,
+        "word": "金饰价格突破1400元黄金回收遇冷",
+        "onboard_time": 1766807359,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175588,
+        "num": 131757,
+        "word": "对不起巨型吊牌影响您穿上飞机",
+        "onboard_time": 1766813720,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127005,
+        "num": 127005,
+        "word": "沈月谭松韵王楚然在芒果首搭",
+        "onboard_time": 1766813660,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124513,
+        "num": 124513,
+        "word": "逍遥全阵容开播",
+        "onboard_time": 1766798839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123612,
+        "num": 123612,
+        "word": "宋威龙 硬帅",
+        "onboard_time": 1766811258,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "周扬青girlslikegirls",
+        "onboard_time": 1766813780,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113492,
+        "num": 113492,
+        "word": "赵今麦宇宙",
+        "onboard_time": 1766811620,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13959,
+        "num": 110166,
+        "word": "33层高楼业主砸穿七套房",
+        "onboard_time": 1766814020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33379,
+        "num": 109401,
+        "word": "张婧仪 一直拥有新人美",
+        "onboard_time": 1766813900,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109326,
+        "num": 109326,
+        "word": "河南69岁奶奶活成大女主年入200万",
+        "onboard_time": 1766809700,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19011,
+        "num": 108874,
+        "word": "跨不过的坎就来夸年岛夸过去",
+        "onboard_time": 1766811920,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108458,
+        "num": 108458,
+        "word": "快船vs开拓者",
+        "onboard_time": 1766814200,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107648,
+        "num": 107648,
+        "word": "一场雪后新疆出现大地指纹",
+        "onboard_time": 1766814079,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106350,
+        "num": 106350,
+        "word": "骄阳似我",
+        "onboard_time": 1766808200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "33奖杯拿到手软",
+        "onboard_time": 1766814079,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105455,
+        "num": 105455,
+        "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
+        "onboard_time": 1766798539,
+        "rank": 44,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 103965,
+        "num": 103965,
+        "word": "沈腾不来宇宙闪烁请注意是在备战春晚",
+        "onboard_time": 1766813300,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103636,
+        "num": 103636,
+        "word": "美国人承认斩杀线存在",
+        "onboard_time": 1766810179,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98969,
+        "num": 98969,
+        "word": "王一博做客礼数这一块",
+        "onboard_time": 1766810601,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98435,
+        "num": 98435,
+        "word": "日本卖汉堡的老人",
+        "onboard_time": 1766808140,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91948,
+        "num": 91948,
+        "word": "一部悬疑剧集齐了我所有理想型",
+        "onboard_time": 1766814320,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2025#"
+    }
+  }
+}

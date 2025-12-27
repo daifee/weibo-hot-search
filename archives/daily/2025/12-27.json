@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766813356319,
+  "endTime": 1766814357714,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -27,20 +27,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1029204,
-      "num": 264012,
-      "word": "王丽坤现状",
-      "onboard_time": 1766807960,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 976113,
+      "raw_hot": 1076008,
       "num": 390406,
       "word": "36岁银行女经理和丈夫先后自杀",
       "onboard_time": 1766810299,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029204,
+      "num": 323110,
+      "word": "王丽坤现状",
+      "onboard_time": 1766807960,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 906216,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413245,
+      "num": 312576,
+      "word": "曝赵樱子蒋毅求婚是剧本",
+      "onboard_time": 1766812700,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 406311,
       "num": 221577,
       "word": "花少摄影师发了99张北斗七行",
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377910,
-      "num": 258215,
-      "word": "刘旸从月薪150干到年薪百万",
-      "onboard_time": 1766808560,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 374964,
+      "raw_hot": 400609,
       "num": 374964,
       "word": "王鹤棣问黄子韬结了婚真的会幸福肥吗",
       "onboard_time": 1766810900,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377910,
+      "num": 310736,
+      "word": "刘旸从月薪150干到年薪百万",
+      "onboard_time": 1766808560,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 373788,
@@ -275,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276648,
+      "num": 171064,
+      "word": "金晨预定飞驰人生4女一号",
+      "onboard_time": 1766812940,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "樊振东说自己不会退役",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245454,
+      "num": 245454,
+      "word": "人之初",
+      "onboard_time": 1766813238,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245283,
       "num": 403322,
       "word": "Creme后台怒怼Homme",
@@ -331,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234546,
+      "num": 234546,
+      "word": "燕云十六声现状我鸟都不鸟你",
+      "onboard_time": 1766812401,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228572,
       "num": 228572,
       "word": "王橹杰新音舞台",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 222726,
-      "num": 187491,
+      "num": 193768,
       "word": "刘嘉玲一说女朋友6个男人沉默了",
       "onboard_time": 1766810840,
       "rank": 31,
@@ -443,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178770,
-      "num": 150843,
-      "word": "金晨预定飞驰人生4女一号",
-      "onboard_time": 1766812940,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178731,
       "num": 236434,
       "word": "人之初云包场",
@@ -465,6 +489,14 @@
       "onboard_time": 1766791998,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175588,
+      "num": 131757,
+      "word": "对不起巨型吊牌影响您穿上飞机",
+      "onboard_time": 1766813720,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 174920,
@@ -489,6 +521,22 @@
       "onboard_time": 1766772076,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170758,
+      "num": 170758,
+      "word": "黄晓明 我再也不做烂好人了",
+      "onboard_time": 1766813660,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168289,
+      "num": 168289,
+      "word": "周也早期穿搭",
+      "onboard_time": 1766812879,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 164436,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156582,
+      "num": 156582,
+      "word": "银行回应取300元少5元",
+      "onboard_time": 1766810479,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154347,
       "num": 154347,
       "word": "前额叶都快死了你还在怪自己",
@@ -579,12 +635,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154007,
-      "num": 154007,
-      "word": "周也早期穿搭",
-      "onboard_time": 1766812879,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 153650,
+      "num": 153650,
+      "word": "赵丽颖古装",
+      "onboard_time": 1766813180,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 151684,
@@ -593,22 +649,6 @@
       "onboard_time": 1766810479,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151049,
-      "num": 151049,
-      "word": "燕云十六声现状我鸟都不鸟你",
-      "onboard_time": 1766812401,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 150703,
-      "num": 150703,
-      "word": "银行回应取300元少5元",
-      "onboard_time": 1766810479,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150400,
@@ -755,12 +795,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129570,
-      "num": 129570,
-      "word": "人之初",
-      "onboard_time": 1766813238,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 127005,
+      "num": 127005,
+      "word": "沈月谭松韵王楚然在芒果首搭",
+      "onboard_time": 1766813660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 126814,
@@ -787,20 +827,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124966,
-      "num": 124966,
-      "word": "曝赵樱子蒋毅求婚是剧本",
-      "onboard_time": 1766812700,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124739,
       "num": 123900,
       "word": "华为悬赏300万元求解AI难题",
       "onboard_time": 1766799259,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123612,
+      "num": 123612,
+      "word": "宋威龙 硬帅",
+      "onboard_time": 1766811258,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 122912,
@@ -843,20 +883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119653,
-      "num": 119653,
-      "word": "宋威龙 硬帅",
-      "onboard_time": 1766811258,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119291,
       "num": 76844,
       "word": "恋与深空云游戏公测",
       "onboard_time": 1766769916,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118673,
+      "num": 118673,
+      "word": "周扬青girlslikegirls",
+      "onboard_time": 1766813780,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 117648,
@@ -979,11 +1019,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108458,
+      "num": 108458,
+      "word": "快船vs开拓者",
+      "onboard_time": 1766814200,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107980,
       "num": 107980,
       "word": "50万黄金无人领民警电话被打爆",
       "onboard_time": 1766803340,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107648,
+      "num": 107648,
+      "word": "一场雪后新疆出现大地指纹",
+      "onboard_time": 1766814079,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1027,12 +1083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "33奖杯拿到手软",
+      "onboard_time": 1766814079,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104271,
       "num": 104271,
       "word": "女子产后复工72岁公公主动帮带娃",
       "onboard_time": 1766802139,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103965,
+      "num": 103965,
+      "word": "沈腾不来宇宙闪烁请注意是在备战春晚",
+      "onboard_time": 1766813300,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103204,
@@ -1123,14 +1195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95442,
-      "num": 95442,
-      "word": "赵丽颖古装",
-      "onboard_time": 1766813180,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95071,
       "num": 95071,
       "word": "朱棣兔朱棣你被捕了",
@@ -1171,20 +1235,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93014,
-      "num": 93014,
-      "word": "沈腾不来宇宙闪烁请注意是在备战春晚",
-      "onboard_time": 1766813300,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92235,
       "num": 92235,
       "word": "警方回应村民120只羊被好友毒死",
       "onboard_time": 1766798120,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91948,
+      "num": 91948,
+      "word": "一部悬疑剧集齐了我所有理想型",
+      "onboard_time": 1766814320,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91663,
@@ -1587,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62304,
+      "num": 329720,
+      "word": "泰国与柬埔寨就停火问题签署联合声明",
+      "onboard_time": 1766813840,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61594,
       "num": 61594,
       "word": "看完才发现以前白浪费好多钱",
@@ -1625,6 +1697,14 @@
       "onboard_time": 1766751561,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 47558,
+      "num": 341202,
+      "word": "6名大学生坠落事故原因",
+      "onboard_time": 1766813840,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 42664,
@@ -1729,6 +1809,14 @@
       "onboard_time": 1766778134,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33379,
+      "num": 109401,
+      "word": "张婧仪 一直拥有新人美",
+      "onboard_time": 1766813900,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 32716,
@@ -1891,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20966,
+      "num": 171093,
+      "word": "银行女经理自杀储户千万存款被转走",
+      "onboard_time": 1766813960,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20561,
       "num": 104405,
       "word": "吉林34年前杀人案再审维持原判",
@@ -1915,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19011,
+      "num": 108874,
+      "word": "跨不过的坎就来夸年岛夸过去",
+      "onboard_time": 1766811920,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18808,
       "num": 33830,
       "word": "张真源月之浮想",
@@ -1929,14 +2033,6 @@
       "onboard_time": 1766781853,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16787,
-      "num": 108302,
-      "word": "跨不过的坎就来夸年岛夸过去",
-      "onboard_time": 1766811920,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 16571,
@@ -1977,6 +2073,14 @@
       "onboard_time": 1766781494,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13959,
+      "num": 110166,
+      "word": "33层高楼业主砸穿七套房",
+      "onboard_time": 1766814020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13643,
