@@ -1,7 +1,23 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766846569941,
+  "endTime": 1766849232997,
   "band_list": [
+    {
+      "raw_hot": 49405342,
+      "num": 49405342,
+      "word": "台湾海域6.6级地震",
+      "onboard_time": 1766848649,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13539569,
+      "num": 13539569,
+      "word": "福建震感",
+      "onboard_time": 1766571620,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 10765150,
       "num": 10765150,
@@ -35,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9089031,
+      "num": 699992,
+      "word": "新疆震感",
+      "onboard_time": 1766848165,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 8704342,
       "num": 8704342,
       "word": "一诺暂时告别赛场",
@@ -59,8 +83,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 5184100,
+      "num": 5184100,
+      "word": "厦门地震",
+      "onboard_time": 1766848891,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 4168629,
-      "num": 592082,
+      "num": 1559946,
       "word": "Hero战胜AG",
       "onboard_time": 1766844562,
       "rank": 6,
@@ -177,6 +209,14 @@
       "onboard_time": 1766369480,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2135746,
+      "num": 2135746,
+      "word": "泉州震感",
+      "onboard_time": 1766848891,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1875773,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 1347897,
-      "num": 453481,
+      "num": 690916,
       "word": "长生",
       "onboard_time": 1766846302,
       "rank": 12,
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 968129,
-      "num": 393468,
+      "num": 516945,
       "word": "大帅",
       "onboard_time": 1766846064,
       "rank": 14,
@@ -2027,6 +2067,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 589587,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 588915,
       "num": 399193,
       "word": "早餐店汤里死老鼠脚已熬得发白",
@@ -2755,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497372,
+      "num": 395231,
+      "word": "花海退役也是1227",
+      "onboard_time": 1766847082,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 496503,
       "num": 293977,
       "word": "黄鱼面塌房",
@@ -3283,14 +3339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441480,
-      "num": 388159,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 437314,
       "num": 312576,
       "word": "曝赵樱子蒋毅求婚是剧本",
@@ -3377,6 +3425,14 @@
       "onboard_time": 1766318725,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 429837,
+      "num": 360245,
+      "word": "第五瓜格",
+      "onboard_time": 1766848530,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 428984,
@@ -3795,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395821,
+      "num": 395821,
+      "word": "宋威龙见面会",
+      "onboard_time": 1766837482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395142,
       "num": 171885,
       "word": "黄一鸣分手了",
@@ -3905,6 +3969,14 @@
       "onboard_time": 1766751741,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 388366,
+      "num": 388366,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 388085,
@@ -4899,14 +4971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310718,
-      "num": 297220,
-      "word": "宋威龙见面会",
-      "onboard_time": 1766837482,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310186,
       "num": 290549,
       "word": "易烊千玺把影帝奖杯放在公司展柜",
@@ -5619,6 +5683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277628,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277020,
       "num": 277020,
       "word": "超级实用的美甲出现了",
@@ -6091,14 +6163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253690,
-      "num": 253690,
-      "word": "虐泉",
-      "onboard_time": 1766845463,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 252799,
       "num": 252799,
       "word": "AG晋级挑杯六强",
@@ -6419,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231761,
+      "num": 231761,
+      "word": "谭松韵清唱逍遥OST",
+      "onboard_time": 1766848041,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231410,
       "num": 212352,
       "word": "字节跳动通报120名员工被辞",
@@ -6595,6 +6667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225361,
+      "num": 225361,
+      "word": "钟意状态",
+      "onboard_time": 1766844022,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225211,
       "num": 225211,
       "word": "私聊不是淫秽信息的避风港",
@@ -6627,11 +6707,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222738,
-      "num": 222738,
-      "word": "钟意状态",
-      "onboard_time": 1766844022,
-      "rank": 34,
+      "raw_hot": 223070,
+      "num": 223070,
+      "word": "心疼轩染",
+      "onboard_time": 1766847504,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -7257,6 +7337,14 @@
       "onboard_time": 1766839882,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205066,
+      "num": 205066,
+      "word": "台湾附近6.5级左右地震",
+      "onboard_time": 1766848891,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 204925,
@@ -7908,7 +7996,7 @@
     },
     {
       "raw_hot": 195042,
-      "num": 195042,
+      "num": 200054,
       "word": "王楚钦说不想以2个退赛结束2025",
       "onboard_time": 1766842282,
       "rank": 25,
@@ -8827,14 +8915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182683,
-      "num": 420677,
-      "word": "男子为赚8000元帮人骗保身亡",
-      "onboard_time": 1766844623,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182650,
       "num": 182650,
       "word": "王赫野抱着徐志胜内裤睡觉",
@@ -9675,6 +9755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170537,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170454,
       "num": 170454,
       "word": "TF四代新音定妆",
@@ -10403,6 +10491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159835,
+      "num": 200228,
+      "word": "禾呵呵 487",
+      "onboard_time": 1766847922,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159700,
       "num": 159700,
       "word": "女生考研北大熬夜复习错过考试",
@@ -10465,6 +10561,14 @@
       "onboard_time": 1766634680,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158962,
+      "num": 200135,
+      "word": "FGO 完结",
+      "onboard_time": 1766846962,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 158833,
@@ -11203,14 +11307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150239,
-      "num": 464400,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150143,
       "num": 150143,
       "word": "老外刚来中国时vs来中国一年后",
@@ -11817,6 +11913,14 @@
       "onboard_time": 1766553383,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143679,
+      "num": 199675,
+      "word": "爱思采访",
+      "onboard_time": 1766847742,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 143543,
@@ -12923,6 +13027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 133097,
+      "num": 266002,
+      "word": "奔跑吧",
+      "onboard_time": 1766232862,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "医生说洋葱是能吃的心脏支架",
@@ -13537,14 +13649,6 @@
       "onboard_time": 1766314522,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127937,
-      "num": 127937,
-      "word": "福建震感",
-      "onboard_time": 1766571620,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 127854,
@@ -22412,7 +22516,7 @@
     },
     {
       "raw_hot": 51392,
-      "num": 597109,
+      "num": 4432264,
       "word": "人民军队2025年终大片",
       "onboard_time": 1766841142,
       "rank": 2,
@@ -24433,14 +24537,6 @@
       "onboard_time": 1766548704,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29900,
-      "num": 266002,
-      "word": "奔跑吧",
-      "onboard_time": 1766232862,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 29868,

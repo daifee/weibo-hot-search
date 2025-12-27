@@ -1,7 +1,15 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766846569941,
+  "endTime": 1766849232997,
   "band_list": [
+    {
+      "raw_hot": 49405342,
+      "num": 49405342,
+      "word": "台湾海域6.6级地震",
+      "onboard_time": 1766848649,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 41862887,
       "num": 41862887,
@@ -713,6 +721,14 @@
       "onboard_time": 1764215484,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13539569,
+      "num": 13539569,
+      "word": "福建震感",
+      "onboard_time": 1737391397,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13526426,
@@ -1691,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9089031,
+      "num": 699992,
+      "word": "新疆震感",
+      "onboard_time": 1739585719,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 9076991,
       "num": 9076991,
       "word": "山西临汾地震",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1760693962,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6995860,
-      "num": 6995860,
-      "word": "汪小菲评论大S老婆我好想你",
-      "onboard_time": 1738663943,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6990507,
-      "num": 6990507,
-      "word": "樊振东4比2王楚钦",
-      "onboard_time": 1763186006,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6975199,
-      "num": 6975199,
-      "word": "王菲嗓子无敌了",
-      "onboard_time": 1738072539,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

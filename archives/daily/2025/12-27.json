@@ -1,7 +1,23 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766846569941,
+  "endTime": 1766849232997,
   "band_list": [
+    {
+      "raw_hot": 49405342,
+      "num": 49405342,
+      "word": "台湾海域6.6级地震",
+      "onboard_time": 1766848649,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13539569,
+      "num": 13539569,
+      "word": "福建震感",
+      "onboard_time": 1766848951,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 9567193,
       "num": 9567193,
@@ -9,6 +25,14 @@
       "onboard_time": 1766836103,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9089031,
+      "num": 699992,
+      "word": "新疆震感",
+      "onboard_time": 1766848165,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 8704342,
@@ -27,8 +51,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 5184100,
+      "num": 5184100,
+      "word": "厦门地震",
+      "onboard_time": 1766848891,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 4168629,
-      "num": 592082,
+      "num": 1559946,
       "word": "Hero战胜AG",
       "onboard_time": 1766844562,
       "rank": 6,
@@ -41,6 +73,14 @@
       "onboard_time": 1766841442,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2135746,
+      "num": 2135746,
+      "word": "泉州震感",
+      "onboard_time": 1766848891,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1864723,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 1347897,
-      "num": 453481,
+      "num": 690916,
       "word": "长生",
       "onboard_time": 1766846302,
       "rank": 12,
@@ -148,7 +188,7 @@
     },
     {
       "raw_hot": 968129,
-      "num": 393468,
+      "num": 516945,
       "word": "大帅",
       "onboard_time": 1766846064,
       "rank": 14,
@@ -291,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589587,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 583084,
       "num": 570171,
       "word": "zwyns教练",
@@ -387,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 497372,
+      "num": 395231,
+      "word": "花海退役也是1227",
+      "onboard_time": 1766847082,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 496031,
       "num": 1079365,
       "word": "老人存167万消失突发脑梗后离世",
@@ -427,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 441480,
-      "num": 388159,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 437314,
       "num": 312576,
       "word": "曝赵樱子蒋毅求婚是剧本",
@@ -457,6 +505,14 @@
       "onboard_time": 1766802501,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 429837,
+      "num": 360245,
+      "word": "第五瓜格",
+      "onboard_time": 1766848530,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 419129,
@@ -491,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395821,
+      "num": 395821,
+      "word": "宋威龙见面会",
+      "onboard_time": 1766837482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395142,
       "num": 171885,
       "word": "黄一鸣分手了",
@@ -505,6 +569,14 @@
       "onboard_time": 1766834600,
       "rank": 19,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 388366,
+      "num": 388366,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 386927,
@@ -651,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310718,
-      "num": 297220,
-      "word": "宋威龙见面会",
-      "onboard_time": 1766837482,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305661,
       "num": 305661,
       "word": "明年起公积金贷款利率正式下调",
@@ -747,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277628,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273559,
       "num": 228658,
       "word": "穆橹好伟大的ending",
@@ -827,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253690,
-      "num": 253690,
-      "word": "虐泉",
-      "onboard_time": 1766845463,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 245690,
       "num": 245690,
       "word": "吴艳妮回应比赛化妆",
@@ -875,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231761,
+      "num": 231761,
+      "word": "谭松韵清唱逍遥OST",
+      "onboard_time": 1766848041,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228634,
       "num": 228634,
       "word": "燕云十六声相关补偿",
@@ -899,11 +971,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222738,
-      "num": 222738,
+      "raw_hot": 225361,
+      "num": 225361,
       "word": "钟意状态",
       "onboard_time": 1766844022,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 223070,
+      "num": 223070,
+      "word": "心疼轩染",
+      "onboard_time": 1766847504,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -995,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205066,
+      "num": 205066,
+      "word": "台湾附近6.5级左右地震",
+      "onboard_time": 1766848891,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 203175,
       "num": 136129,
       "word": "原来红薯是一窝一窝的",
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 195042,
-      "num": 195042,
+      "num": 200054,
       "word": "王楚钦说不想以2个退赛结束2025",
       "onboard_time": 1766842282,
       "rank": 25,
@@ -1187,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182683,
-      "num": 420677,
-      "word": "男子为赚8000元帮人骗保身亡",
-      "onboard_time": 1766844623,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182202,
       "num": 179359,
       "word": "金饰价格突破1400元黄金回收遇冷",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1766813660,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170537,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170087,
@@ -1475,6 +1563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159835,
+      "num": 200228,
+      "word": "禾呵呵 487",
+      "onboard_time": 1766847922,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158962,
+      "num": 200135,
+      "word": "FGO 完结",
+      "onboard_time": 1766846962,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158833,
       "num": 158833,
       "word": "陈哲远问王安宇为什么叫大将军",
@@ -1547,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150239,
-      "num": 464400,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149982,
       "num": 149982,
       "word": "张若昀新剧快进键被人抠掉了",
@@ -1617,6 +1713,14 @@
       "onboard_time": 1766800699,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143679,
+      "num": 199675,
+      "word": "爱思采访",
+      "onboard_time": 1766847742,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 143358,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1766840362,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133097,
+      "num": 199400,
+      "word": "奔跑吧",
+      "onboard_time": 1766838381,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 131975,
@@ -3644,7 +3756,7 @@
     },
     {
       "raw_hot": 51392,
-      "num": 597109,
+      "num": 4432264,
       "word": "人民军队2025年终大片",
       "onboard_time": 1766841142,
       "rank": 2,
