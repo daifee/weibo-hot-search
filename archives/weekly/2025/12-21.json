@@ -1,6 +1,6 @@
 {
   "startTime": 1766248413770,
-  "endTime": 1766849232997,
+  "endTime": 1766850057950,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -83,11 +83,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 5236090,
+      "num": 5236090,
+      "word": "厦门震感",
+      "onboard_time": 1766848891,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 5184100,
       "num": 5184100,
       "word": "厦门地震",
       "onboard_time": 1766848891,
       "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 4854084,
+      "num": 433406,
+      "word": "杭州震感",
+      "onboard_time": 1766849366,
+      "rank": 10,
       "category": "突发/灾害"
     },
     {
@@ -123,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2954523,
+      "num": 417740,
+      "word": "福州震感",
+      "onboard_time": 1766849966,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 2919658,
       "num": 2919658,
       "word": "考研数学",
       "onboard_time": 1766282479,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2856512,
+      "num": 428663,
+      "word": "新疆地震",
+      "onboard_time": 1766848165,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 2831195,
@@ -441,6 +473,14 @@
       "onboard_time": 1766846302,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1343831,
+      "num": 407893,
+      "word": "台湾",
+      "onboard_time": 1766849549,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1335262,
@@ -1371,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 781504,
+      "num": 390279,
+      "word": "汕头震感",
+      "onboard_time": 1766849247,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 780807,
       "num": 250072,
       "word": "别人感谢粉丝 李昀锐感谢孟子义",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1766560881,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716187,
+      "num": 375279,
+      "word": "福建",
+      "onboard_time": 1766849549,
+      "rank": 20,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 716071,
@@ -2099,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585986,
+      "num": 355853,
+      "word": "福州",
+      "onboard_time": 1766849549,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 585059,
       "num": 585059,
       "word": "考研数学二 简单",
@@ -2627,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516596,
+      "num": 336934,
+      "word": "厦门",
+      "onboard_time": 1766849549,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 515379,
       "num": 262483,
       "word": "田曦薇造型师审美",
@@ -2804,7 +2876,7 @@
     },
     {
       "raw_hot": 497372,
-      "num": 395231,
+      "num": 402201,
       "word": "花海退役也是1227",
       "onboard_time": 1766847082,
       "rank": 17,
@@ -4611,6 +4683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 333626,
+      "num": 318679,
+      "word": "江西震感",
+      "onboard_time": 1766849904,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 333373,
       "num": 260298,
       "word": "张柏芝香奈儿老了还是香奈儿",
@@ -5683,6 +5763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278299,
+      "num": 278299,
+      "word": "禾呵呵 487",
+      "onboard_time": 1766847922,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 277628,
       "num": 420677,
       "word": "男子为赚8000元帮人骗保身亡",
@@ -5761,6 +5849,14 @@
       "onboard_time": 1766300780,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273683,
+      "num": 273683,
+      "word": "南京震感",
+      "onboard_time": 1766849966,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 273559,
@@ -7465,6 +7561,14 @@
       "onboard_time": 1766665823,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203272,
+      "num": 203272,
+      "word": "戴佩妮北京广州取消",
+      "onboard_time": 1766849308,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 203270,
@@ -10489,14 +10593,6 @@
       "onboard_time": 1766366121,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159835,
-      "num": 200228,
-      "word": "禾呵呵 487",
-      "onboard_time": 1766847922,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 159700,
