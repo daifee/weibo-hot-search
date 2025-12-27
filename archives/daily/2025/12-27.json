@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766843194444,
+  "endTime": 1766845576558,
   "band_list": [
     {
       "raw_hot": 9567193,
@@ -11,8 +11,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 4936027,
+      "num": 594786,
+      "word": "一诺 希望拿大满贯",
+      "onboard_time": 1766844144,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 4168629,
+      "num": 592082,
+      "word": "Hero战胜AG",
+      "onboard_time": 1766844562,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2185189,
-      "num": 2185189,
+      "num": 2612180,
       "word": "荣耀之战",
       "onboard_time": 1766841442,
       "rank": 0,
@@ -25,6 +41,14 @@
       "onboard_time": 1766803399,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1830419,
+      "num": 553504,
+      "word": "AG无缘挑杯决赛",
+      "onboard_time": 1766844502,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1472845,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 1142642,
-      "num": 325714,
+      "num": 385758,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 15,
@@ -65,6 +89,14 @@
       "onboard_time": 1766811258,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1089552,
+      "num": 520222,
+      "word": "AG超玩会 BP",
+      "onboard_time": 1766839042,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 1076008,
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 997286,
-      "num": 320950,
+      "num": 388924,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 10,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 777694,
-      "num": 306534,
+      "num": 534695,
       "word": "橹穆 来自天堂的魔鬼",
       "onboard_time": 1766836103,
       "rank": 8,
@@ -169,6 +201,22 @@
       "onboard_time": 1766826742,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 696523,
+      "num": 483913,
+      "word": "AG剧透",
+      "onboard_time": 1766840543,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 695488,
+      "num": 695488,
+      "word": "永州夺冠",
+      "onboard_time": 1766843541,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 692637,
@@ -235,6 +283,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 570234,
+      "num": 451240,
+      "word": "AG对战Hero",
+      "onboard_time": 1766840003,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 547004,
       "num": 218442,
       "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
@@ -265,6 +321,14 @@
       "onboard_time": 1766803520,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510706,
+      "num": 510706,
+      "word": "单依纯公开承认自己有表达障碍",
+      "onboard_time": 1766841082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 507005,
@@ -323,28 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459674,
-      "num": 311533,
-      "word": "AG剧透",
-      "onboard_time": 1766840543,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 455406,
       "num": 2214703,
       "word": "恋人",
       "onboard_time": 1766831180,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451240,
-      "num": 451240,
-      "word": "AG对战Hero",
-      "onboard_time": 1766840003,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 437314,
@@ -371,14 +419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 431157,
-      "num": 315759,
-      "word": "单依纯公开承认自己有表达障碍",
-      "onboard_time": 1766841082,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419129,
       "num": 1060287,
       "word": "逍遥",
@@ -393,6 +433,14 @@
       "onboard_time": 1766794219,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404541,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 404497,
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 380871,
-      "num": 372611,
+      "num": 495154,
       "word": "网传恋人明天空降",
       "onboard_time": 1766841983,
       "rank": 7,
@@ -457,6 +505,14 @@
       "onboard_time": 1766746039,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372996,
+      "num": 372996,
+      "word": "zwy 庄周",
+      "onboard_time": 1766844083,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 372993,
@@ -483,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368742,
-      "num": 368742,
-      "word": "AG超玩会 BP",
-      "onboard_time": 1766839042,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 366624,
       "num": 197312,
       "word": "肖战喜欢爱你老己这个梗",
       "onboard_time": 1766821879,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358097,
+      "num": 570171,
+      "word": "zwyns教练",
+      "onboard_time": 1766845163,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 356253,
@@ -513,6 +569,14 @@
       "onboard_time": 1766756063,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341671,
+      "num": 341671,
+      "word": "湘超",
+      "onboard_time": 1766835561,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 333373,
@@ -593,6 +657,14 @@
       "onboard_time": 1766812940,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295553,
+      "num": 295553,
+      "word": "穆祉丞王橹杰剑客琴师",
+      "onboard_time": 1766842522,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 294978,
@@ -715,20 +787,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "杨博文这句yeah唱爽了",
+      "onboard_time": 1766839583,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245690,
       "num": 245690,
       "word": "吴艳妮回应比赛化妆",
       "onboard_time": 1766821040,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245320,
-      "num": 245320,
-      "word": "穆祉丞王橹杰剑客琴师",
-      "onboard_time": 1766842522,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 245283,
@@ -779,6 +851,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226757,
+      "num": 226757,
+      "word": "玖熙 五杀",
+      "onboard_time": 1766844923,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 222738,
+      "num": 222738,
+      "word": "钟意状态",
+      "onboard_time": 1766844022,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222726,
       "num": 193768,
       "word": "刘嘉玲一说女朋友6个男人沉默了",
@@ -793,14 +881,6 @@
       "onboard_time": 1766840063,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 221349,
-      "num": 261039,
-      "word": "湘超",
-      "onboard_time": 1766835561,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 221319,
@@ -867,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203274,
+      "num": 203274,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203175,
       "num": 136129,
       "word": "原来红薯是一窝一窝的",
@@ -907,20 +995,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200724,
+      "num": 200724,
+      "word": "KPL",
+      "onboard_time": 1766824160,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198991,
       "num": 198991,
       "word": "谁来教教宋威龙怎么戴脸链",
       "onboard_time": 1766841501,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198943,
-      "num": 198943,
-      "word": "杨博文这句yeah唱爽了",
-      "onboard_time": 1766839583,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 195042,
@@ -979,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "坦然太c了",
+      "onboard_time": 1766842222,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190308,
       "num": 190308,
       "word": "林昀儒3比0孙正",
@@ -1019,12 +1115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "年度体育榜样力量",
+      "onboard_time": 1766845341,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185275,
       "num": 185275,
       "word": "南有张凌赫 北有宋威龙",
       "onboard_time": 1766812279,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184456,
+      "num": 190105,
+      "word": "一人之下6首映repo",
+      "onboard_time": 1766844263,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 182805,
@@ -1043,11 +1155,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 181445,
-      "num": 181445,
-      "word": "KPL",
-      "onboard_time": 1766824160,
-      "rank": 28,
+      "raw_hot": 180899,
+      "num": 180899,
+      "word": "AG时隔两年首次无缘总决赛",
+      "onboard_time": 1766845403,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -1113,14 +1225,6 @@
       "onboard_time": 1766801479,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174002,
-      "num": 174002,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 172993,
@@ -1203,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168191,
+      "num": 168191,
+      "word": "2025这体育梗你懂吗",
+      "onboard_time": 1766845341,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167706,
       "num": 167706,
       "word": "突然就理解了漂亮饭的意义",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1766831420,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164650,
+      "num": 164650,
+      "word": "湘超决赛永州1比0常德",
+      "onboard_time": 1766845523,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 164436,
@@ -1449,6 +1569,14 @@
       "onboard_time": 1766837725,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142535,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142047,
@@ -1875,14 +2003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 117552,
-      "num": 117552,
-      "word": "坦然太c了",
-      "onboard_time": 1766842222,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116648,
       "num": 116648,
       "word": "王一博在岩壁上金鸡独立",
@@ -1953,6 +2073,14 @@
       "onboard_time": 1766809580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113117,
+      "num": 233580,
+      "word": "麦当劳粉丝大会",
+      "onboard_time": 1766843483,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 112308,
@@ -2675,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92142,
+      "num": 181114,
+      "word": "范丞丞超绝豹纹跳Queencard",
+      "onboard_time": 1766844022,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "一部悬疑剧集齐了我所有理想型",
@@ -2985,6 +3121,14 @@
       "onboard_time": 1766821159,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82132,
+      "num": 189301,
+      "word": "史上最严养犬新规来了",
+      "onboard_time": 1766843240,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82084,
@@ -3379,6 +3523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61883,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61594,
       "num": 61594,
       "word": "看完才发现以前白浪费好多钱",
@@ -3459,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48162,
+      "num": 597109,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47558,
       "num": 341202,
       "word": "6名大学生坠落事故原因",
@@ -3523,20 +3683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40892,
-      "num": 567998,
-      "word": "人民军队2025年终大片",
-      "onboard_time": 1766841142,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40822,
       "num": 237441,
       "word": "吴彦祖开箱小米17Ultra徕卡版",
       "onboard_time": 1766808200,
       "rank": 17,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 40623,
+      "num": 444902,
+      "word": "Gucci贵公子宋威龙",
+      "onboard_time": 1766843663,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 40323,
@@ -3561,6 +3721,22 @@
       "onboard_time": 1766763499,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39369,
+      "num": 391381,
+      "word": "基辅遭俄军大规模空袭",
+      "onboard_time": 1766845042,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38539,
+      "num": 188859,
+      "word": "上海民警猥亵继女案二审维持原判",
+      "onboard_time": 1766844263,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37885,

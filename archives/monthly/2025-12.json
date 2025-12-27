@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766843194444,
+  "endTime": 1766845576558,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4936027,
+      "num": 594786,
+      "word": "一诺 希望拿大满贯",
+      "onboard_time": 1766844144,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 4647608,
       "num": 4647608,
       "word": "尖叫之夜红毯",
@@ -193,6 +201,14 @@
       "onboard_time": 1766025740,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4168629,
+      "num": 592082,
+      "word": "Hero战胜AG",
+      "onboard_time": 1766844562,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 4049212,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 2185189,
-      "num": 2185189,
+      "num": 2612180,
       "word": "荣耀之战",
       "onboard_time": 1766841442,
       "rank": 0,
@@ -713,6 +729,14 @@
       "onboard_time": 1765938320,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1830419,
+      "num": 553504,
+      "word": "AG无缘挑杯决赛",
+      "onboard_time": 1766844502,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1829989,
@@ -1980,7 +2004,7 @@
     },
     {
       "raw_hot": 1142642,
-      "num": 325714,
+      "num": 385758,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 15,
@@ -2185,6 +2209,14 @@
       "onboard_time": 1766105061,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1089552,
+      "num": 520222,
+      "word": "AG超玩会 BP",
+      "onboard_time": 1766839042,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 1084740,
@@ -2668,7 +2700,7 @@
     },
     {
       "raw_hot": 997286,
-      "num": 320950,
+      "num": 388924,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 10,
@@ -4428,7 +4460,7 @@
     },
     {
       "raw_hot": 777694,
-      "num": 306534,
+      "num": 534695,
       "word": "橹穆 来自天堂的魔鬼",
       "onboard_time": 1766836103,
       "rank": 8,
@@ -5363,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696523,
+      "num": 483913,
+      "word": "AG剧透",
+      "onboard_time": 1766146400,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 696222,
       "num": 269938,
       "word": "建议气血不足的人都要像猫一样生活",
@@ -5377,6 +5417,14 @@
       "onboard_time": 1765511780,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 695488,
+      "num": 695488,
+      "word": "永州夺冠",
+      "onboard_time": 1766843541,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 695424,
@@ -7643,6 +7691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570234,
+      "num": 451240,
+      "word": "AG对战Hero",
+      "onboard_time": 1766840003,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 570034,
       "num": 439603,
       "word": "水库冰面下发现13匹冰冻马",
@@ -9313,6 +9369,14 @@
       "onboard_time": 1766481501,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 510706,
+      "num": 510706,
+      "word": "单依纯公开承认自己有表达障碍",
+      "onboard_time": 1766841082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 509901,
@@ -11115,14 +11179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 459674,
-      "num": 311533,
-      "word": "AG剧透",
-      "onboard_time": 1766146400,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 459442,
       "num": 459442,
       "word": "豆包手机 微信",
@@ -11473,14 +11529,6 @@
       "onboard_time": 1765164800,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451240,
-      "num": 451240,
-      "word": "AG对战Hero",
-      "onboard_time": 1766840003,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 451226,
@@ -12193,14 +12241,6 @@
       "onboard_time": 1766581043,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431157,
-      "num": 315759,
-      "word": "单依纯公开承认自己有表达障碍",
-      "onboard_time": 1766841082,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 431124,
@@ -13377,6 +13417,14 @@
       "onboard_time": 1765535180,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 404541,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 404518,
@@ -14580,7 +14628,7 @@
     },
     {
       "raw_hot": 380871,
-      "num": 372611,
+      "num": 495154,
       "word": "网传恋人明天空降",
       "onboard_time": 1766841983,
       "rank": 7,
@@ -14963,6 +15011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372996,
+      "num": 372996,
+      "word": "zwy 庄周",
+      "onboard_time": 1766844083,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 372993,
       "num": 237155,
       "word": "我拍到了锤娜丽莎减肥的证据",
@@ -15084,7 +15140,7 @@
     },
     {
       "raw_hot": 370060,
-      "num": 279191,
+      "num": 341671,
       "word": "湘超",
       "onboard_time": 1766234002,
       "rank": 48,
@@ -15121,14 +15177,6 @@
       "onboard_time": 1764504381,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368742,
-      "num": 368742,
-      "word": "AG超玩会 BP",
-      "onboard_time": 1766839042,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 368733,
@@ -15617,6 +15665,14 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358097,
+      "num": 570171,
+      "word": "zwyns教练",
+      "onboard_time": 1766845163,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 357905,
@@ -19331,6 +19387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295553,
+      "num": 295553,
+      "word": "穆祉丞王橹杰剑客琴师",
+      "onboard_time": 1766842522,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295541,
       "num": 475393,
       "word": "被白嫖家教的清华小伙已收到课时费",
@@ -22451,6 +22515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "杨博文这句yeah唱爽了",
+      "onboard_time": 1766839583,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255177,
       "num": 210663,
       "word": "肖战ELLE开年刊",
@@ -23193,14 +23265,6 @@
       "onboard_time": 1766821040,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245320,
-      "num": 245320,
-      "word": "穆祉丞王橹杰剑客琴师",
-      "onboard_time": 1766842522,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 245283,
@@ -24875,6 +24939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226757,
+      "num": 226757,
+      "word": "玖熙 五杀",
+      "onboard_time": 1766844923,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226718,
       "num": 226718,
       "word": "苏有朋怕过气所以转型演员",
@@ -25233,6 +25305,14 @@
       "onboard_time": 1764599124,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222738,
+      "num": 222738,
+      "word": "钟意状态",
+      "onboard_time": 1766844022,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 222726,
@@ -28179,6 +28259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203274,
+      "num": 203274,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203270,
       "num": 274269,
       "word": "易烊千玺说和鸿蒙见证了彼此成长",
@@ -29185,14 +29273,6 @@
       "onboard_time": 1766289740,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198943,
-      "num": 198943,
-      "word": "杨博文这句yeah唱爽了",
-      "onboard_time": 1766839583,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 198920,
@@ -30867,6 +30947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "坦然太c了",
+      "onboard_time": 1766842222,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191362,
       "num": 191362,
       "word": "成龙回应龙叔老了",
@@ -32323,6 +32411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "年度体育榜样力量",
+      "onboard_time": 1765904358,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185532,
       "num": 105973,
       "word": "孙颖莎一句话让全场尖叫",
@@ -32673,6 +32769,14 @@
       "onboard_time": 1765432523,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184456,
+      "num": 190105,
+      "word": "一人之下6首映repo",
+      "onboard_time": 1766844263,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 184434,
@@ -33537,6 +33641,14 @@
       "onboard_time": 1766202981,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180899,
+      "num": 180899,
+      "word": "AG时隔两年首次无缘总决赛",
+      "onboard_time": 1766845403,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 180853,
@@ -34939,14 +35051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174002,
-      "num": 174002,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173984,
       "num": 173984,
       "word": "云南调查运动员被索要奖金事件",
@@ -36275,6 +36379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168191,
+      "num": 168191,
+      "word": "2025这体育梗你懂吗",
+      "onboard_time": 1766845341,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168179,
       "num": 168179,
       "word": "南方人去一趟北方后对暖气祛魅了",
@@ -37145,6 +37257,14 @@
       "onboard_time": 1766130081,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164650,
+      "num": 164650,
+      "word": "湘超决赛永州1比0常德",
+      "onboard_time": 1766845523,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 164639,
@@ -43849,6 +43969,14 @@
       "onboard_time": 1766482941,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142535,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142512,
@@ -55427,14 +55555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117552,
-      "num": 117552,
-      "word": "坦然太c了",
-      "onboard_time": 1766842222,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117544,
       "num": 117544,
       "word": "真的建议大家不要放自己的鸽子",
@@ -57785,6 +57905,14 @@
       "onboard_time": 1766041461,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113117,
+      "num": 233580,
+      "word": "麦当劳粉丝大会",
+      "onboard_time": 1766843483,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 113115,
@@ -69283,6 +69411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92142,
+      "num": 181114,
+      "word": "范丞丞超绝豹纹跳Queencard",
+      "onboard_time": 1766844022,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92111,
       "num": 92111,
       "word": "日本15岁初中生街头持刀狂刺上班族",
@@ -73809,6 +73945,14 @@
       "onboard_time": 1766821159,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82132,
+      "num": 189301,
+      "word": "史上最严养犬新规来了",
+      "onboard_time": 1766843240,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82103,
@@ -79683,6 +79827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61883,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61882,
       "num": 611323,
       "word": "40年前她发现中国首例艾滋病",
@@ -83571,6 +83723,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 48162,
+      "num": 597109,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48153,
       "num": 178164,
       "word": "杨采钰否认未婚生子",
@@ -85811,14 +85971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40892,
-      "num": 567998,
-      "word": "人民军队2025年终大片",
-      "onboard_time": 1766841142,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40875,
       "num": 134047,
       "word": "丞磊 扶完你的扶你的",
@@ -85881,6 +86033,14 @@
       "onboard_time": 1765873643,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40623,
+      "num": 444902,
+      "word": "Gucci贵公子宋威龙",
+      "onboard_time": 1766843663,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 40594,
@@ -86379,6 +86539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39369,
+      "num": 391381,
+      "word": "基辅遭俄军大规模空袭",
+      "onboard_time": 1766845042,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39355,
       "num": 121529,
       "word": "煎饼叔叔确诊后曾想放弃治疗",
@@ -86649,6 +86817,14 @@
       "onboard_time": 1766397981,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38539,
+      "num": 188859,
+      "word": "上海民警猥亵继女案二审维持原判",
+      "onboard_time": 1766844263,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38510,
@@ -87169,14 +87345,6 @@
       "onboard_time": 1766390901,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37274,
-      "num": 76931,
-      "word": "年度体育榜样力量",
-      "onboard_time": 1765904358,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 37249,
