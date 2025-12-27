@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766807996020,
+  "endTime": 1766810455537,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -19,12 +19,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1013546,
+      "num": 264012,
+      "word": "王丽坤现状",
+      "onboard_time": 1766807960,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906216,
-      "num": 246257,
+      "num": 257376,
       "word": "黄景瑜这辈子别想坐我车了",
       "onboard_time": 1766796622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817098,
+      "num": 378649,
+      "word": "谭松韵撞档谭松韵",
+      "onboard_time": 1766807300,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 785147,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 626971,
-      "num": 253903,
+      "num": 262602,
       "word": "张昊唯被曝逃税涉黄最新进展",
       "onboard_time": 1766804422,
       "rank": 10,
@@ -57,6 +73,14 @@
       "onboard_time": 1766764040,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556712,
+      "num": 1089074,
+      "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+      "onboard_time": 1766807179,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547004,
@@ -131,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378649,
-      "num": 378649,
-      "word": "谭松韵撞档谭松韵",
-      "onboard_time": 1766807300,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373788,
       "num": 228768,
       "word": "小泡芙 女大十八变",
@@ -171,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336570,
+      "num": 336570,
+      "word": "逍遥",
+      "onboard_time": 1766809460,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333373,
+      "num": 260298,
+      "word": "张柏芝香奈儿老了还是香奈儿",
+      "onboard_time": 1766807839,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329056,
       "num": 803760,
       "word": "骄阳似我",
@@ -187,20 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290146,
+      "num": 285255,
+      "word": "顾漫五部小说改编五部影视爆款",
+      "onboard_time": 1766805379,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286492,
+      "num": 258215,
+      "word": "刘旸从月薪150干到年薪百万",
+      "onboard_time": 1766808560,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286260,
       "num": 231781,
       "word": "橹穆美杜莎",
       "onboard_time": 1766752881,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 285255,
-      "num": 285255,
-      "word": "顾漫五部小说改编五部影视爆款",
-      "onboard_time": 1766805379,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 271554,
@@ -219,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265966,
+      "num": 265966,
+      "word": "石宇奇孙颖莎等2025中国十佳运动员",
+      "onboard_time": 1766806999,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263887,
       "num": 239171,
       "word": "千万粉丝网红谈被父母PUA",
       "onboard_time": 1766803520,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258000,
+      "num": 258000,
+      "word": "这张迪丽热巴说是科幻片我都信",
+      "onboard_time": 1766809040,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 238611,
@@ -243,12 +299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 225738,
-      "num": 225738,
-      "word": "石宇奇孙颖莎等2025中国十佳运动员",
-      "onboard_time": 1766806999,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 217482,
+      "num": 217482,
+      "word": "结婚的好处只有幸福的人说得出来",
+      "onboard_time": 1766805080,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216419,
+      "num": 216419,
+      "word": "身体有慢性炎症时多吃这些水果",
+      "onboard_time": 1766807960,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208417,
@@ -275,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197426,
-      "num": 184742,
-      "word": "结婚的好处只有幸福的人说得出来",
-      "onboard_time": 1766805080,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "11岁留守女童遭亲戚猥亵老人不追究",
@@ -297,14 +353,6 @@
       "onboard_time": 1766806520,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191986,
-      "num": 191986,
-      "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
-      "onboard_time": 1766807179,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189300,
@@ -331,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179359,
+      "num": 179359,
+      "word": "金饰价格突破1400元黄金回收遇冷",
+      "onboard_time": 1766807359,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179354,
       "num": 179354,
       "word": "蔡徐坤去看邓紫棋演唱会了",
@@ -339,12 +395,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178731,
+      "num": 236434,
+      "word": "人之初云包场",
+      "onboard_time": 1766809700,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178638,
       "num": 178638,
       "word": "网红面包卖不动了",
       "onboard_time": 1766791998,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174920,
+      "num": 174920,
+      "word": "苏无名被丢进鳄鱼池",
+      "onboard_time": 1766809221,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174175,
@@ -363,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164436,
+      "num": 164436,
+      "word": "吴磊听到粉丝说外卖被偷了的反应",
+      "onboard_time": 1766808979,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164393,
       "num": 233490,
       "word": "抓紧去个税App确认这个信息",
@@ -379,6 +459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163198,
+      "num": 163198,
+      "word": "白敬亭回归现在就出发了",
+      "onboard_time": 1766809340,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162937,
+      "num": 162937,
+      "word": "燕云官方两次整改敷衍加剧矛盾",
+      "onboard_time": 1766808500,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158833,
       "num": 158833,
       "word": "陈哲远问王安宇为什么叫大将军",
@@ -387,20 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158138,
-      "num": 158138,
-      "word": "身体有慢性炎症时多吃这些水果",
-      "onboard_time": 1766807960,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154347,
       "num": 154347,
       "word": "前额叶都快死了你还在怪自己",
       "onboard_time": 1766805858,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150400,
+      "num": 150400,
+      "word": "孙颖莎获评新华社年度十佳",
+      "onboard_time": 1766809519,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 149087,
@@ -459,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137794,
+      "num": 137794,
+      "word": "日本卖汉堡的老人",
+      "onboard_time": 1766808140,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137480,
       "num": 231179,
       "word": "张继科说当年队医拿葡萄糖当封闭",
@@ -480,6 +584,22 @@
       "word": "周大福牛马吊坠为何被批",
       "onboard_time": 1766791577,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135732,
+      "num": 220903,
+      "word": "河南69岁奶奶活成大女主年入200万",
+      "onboard_time": 1766809700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134619,
+      "num": 134619,
+      "word": "36岁银行女经理和丈夫先后自杀",
+      "onboard_time": 1766810299,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -539,12 +659,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123713,
+      "num": 123713,
+      "word": "白鹿解锁拖鞋手机壳的另一种用法",
+      "onboard_time": 1766810000,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122816,
       "num": 122816,
       "word": "李宏毅直播",
       "onboard_time": 1766755641,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121685,
+      "num": 121685,
+      "word": "现在就出发",
+      "onboard_time": 1766808859,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 121084,
@@ -611,12 +747,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112075,
-      "num": 112075,
-      "word": "金饰价格突破1400元黄金回收遇冷",
-      "onboard_time": 1766807359,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 113886,
+      "num": 113886,
+      "word": "佟丽娅新疆限定皮肤美成啥了",
+      "onboard_time": 1766809580,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113685,
+      "num": 113685,
+      "word": "美国人承认斩杀线存在",
+      "onboard_time": 1766810179,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111980,
@@ -787,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96062,
+      "num": 96062,
+      "word": "鹿晗亮相十四周年",
+      "onboard_time": 1766808200,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95071,
       "num": 95071,
       "word": "朱棣兔朱棣你被捕了",
@@ -811,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91732,
-      "num": 91732,
-      "word": "张柏芝香奈儿老了还是香奈儿",
-      "onboard_time": 1766807839,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 91663,
+      "num": 91663,
+      "word": "银价升升升",
+      "onboard_time": 1766806940,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 91605,
@@ -827,12 +979,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 90032,
-      "num": 90032,
-      "word": "银价升升升",
-      "onboard_time": 1766806940,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 90977,
+      "num": 90977,
+      "word": "吴艳妮说想把自己打碎了重组",
+      "onboard_time": 1766809580,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89987,
@@ -857,6 +1009,14 @@
       "onboard_time": 1766793858,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86826,
+      "num": 120599,
+      "word": "谁在黄景瑜面前也演不了老公",
+      "onboard_time": 1766810179,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 86234,
@@ -897,14 +1057,6 @@
       "onboard_time": 1766794219,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82203,
-      "num": 82203,
-      "word": "王丽坤现状",
-      "onboard_time": 1766807960,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 82072,
@@ -1017,6 +1169,14 @@
       "onboard_time": 1766806579,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75488,
+      "num": 114481,
+      "word": "越来越多不会德语的中国学生留学德国",
+      "onboard_time": 1766808079,
+      "rank": 40,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 75010,
@@ -1203,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56641,
+      "num": 265140,
+      "word": "中方奉劝纳瓦罗之流认真反思",
+      "onboard_time": 1766809759,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54279,
       "num": 42522,
       "word": "去狗咖把小狗全都哄睡着了",
@@ -1321,6 +1489,14 @@
       "onboard_time": 1766778134,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33718,
+      "num": 237441,
+      "word": "吴彦祖开箱小米17Ultra徕卡版",
+      "onboard_time": 1766808200,
+      "rank": 17,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 32716,
