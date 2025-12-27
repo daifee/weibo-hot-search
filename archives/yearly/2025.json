@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1766845576558,
+  "endTime": 1766846569941,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1787,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8704342,
+      "num": 8704342,
+      "word": "一诺暂时告别赛场",
+      "onboard_time": 1766845885,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8693435,
       "num": 8693435,
       "word": "欧盟对美加征25%关税",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738072539,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6958294,
-      "num": 6958294,
-      "word": "姜涛坠海",
-      "onboard_time": 1750767502,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

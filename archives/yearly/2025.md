@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/27 22:26:16
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/27 22:42:49
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA%23" target="weibo">
+一诺暂时告别赛场（热度：8704342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 欧盟对美加征25%关税（热度：8693435）
 </a>
@@ -1805,12 +1811,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%97%93%E5%AD%90%E6%97%A0%E6%95%8C%E4%BA%86%23" target="weibo">
 王菲嗓子无敌了（热度：6975199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%9B%E5%9D%A0%E6%B5%B7%23" target="weibo">
-姜涛坠海（热度：6958294）
 </a>
 </li>
 

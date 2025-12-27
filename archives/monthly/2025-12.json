@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766845576558,
+  "endTime": 1766846569941,
   "band_list": [
     {
       "raw_hot": 14068624,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8704342,
+      "num": 8704342,
+      "word": "一诺暂时告别赛场",
+      "onboard_time": 1766845885,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8386691,
       "num": 8386691,
       "word": "涉事医院回应小洛熙尸检报告",
@@ -179,8 +187,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 4936027,
-      "num": 594786,
+      "raw_hot": 5447561,
+      "num": 5447561,
       "word": "一诺 希望拿大满贯",
       "onboard_time": 1766844144,
       "rank": 4,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1764905480,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1347897,
+      "num": 453481,
+      "word": "长生",
+      "onboard_time": 1765977576,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 1347268,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1765258102,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 968129,
+      "num": 393468,
+      "word": "大帅",
+      "onboard_time": 1766846064,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 967383,
@@ -7409,6 +7433,14 @@
       "onboard_time": 1764815840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583084,
+      "num": 570171,
+      "word": "zwyns教练",
+      "onboard_time": 1766845163,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 582111,
@@ -11907,6 +11939,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 441480,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 441429,
       "num": 801054,
       "word": "商家半年内被同一人仅退款225个快递",
@@ -13417,14 +13457,6 @@
       "onboard_time": 1765535180,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 404541,
-      "num": 388159,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 404518,
@@ -15140,7 +15172,7 @@
     },
     {
       "raw_hot": 370060,
-      "num": 341671,
+      "num": 350772,
       "word": "湘超",
       "onboard_time": 1766234002,
       "rank": 48,
@@ -15665,14 +15697,6 @@
       "onboard_time": 1766293342,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358097,
-      "num": 570171,
-      "word": "zwyns教练",
-      "onboard_time": 1766845163,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 357905,
@@ -19388,7 +19412,7 @@
     },
     {
       "raw_hot": 295553,
-      "num": 295553,
+      "num": 399362,
       "word": "穆祉丞王橹杰剑客琴师",
       "onboard_time": 1766842522,
       "rank": 21,
@@ -20153,6 +20177,14 @@
       "onboard_time": 1766299641,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284531,
+      "num": 284531,
+      "word": "AG辛苦了",
+      "onboard_time": 1766846184,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 284389,
@@ -22651,6 +22683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253690,
+      "num": 253690,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253401,
       "num": 253401,
       "word": "星光大赏投票",
@@ -23729,6 +23769,14 @@
       "onboard_time": 1766575521,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238932,
+      "num": 238932,
+      "word": "玖熙 五杀",
+      "onboard_time": 1766844923,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 238922,
@@ -24937,14 +24985,6 @@
       "onboard_time": 1765164140,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226757,
-      "num": 226757,
-      "word": "玖熙 五杀",
-      "onboard_time": 1766844923,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 226718,
@@ -27755,6 +27795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205314,
+      "num": 205314,
+      "word": "杨博文好元气",
+      "onboard_time": 1766834600,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205201,
       "num": 205201,
       "word": "上海地产0比3山东魏桥",
@@ -28257,14 +28305,6 @@
       "onboard_time": 1764592882,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203274,
-      "num": 203274,
-      "word": "虐泉",
-      "onboard_time": 1766845463,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 203270,
@@ -30379,14 +30419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194091,
-      "num": 194091,
-      "word": "杨博文好元气",
-      "onboard_time": 1766834600,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194056,
       "num": 194056,
       "word": "杨博文幻梦都破碎返场",
@@ -31169,6 +31201,14 @@
       "onboard_time": 1765975221,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190273,
+      "num": 224475,
+      "word": "湘超总决赛想看人数超百万",
+      "onboard_time": 1766846302,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 190212,
@@ -33201,6 +33241,14 @@
       "onboard_time": 1765523302,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182683,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182650,
@@ -38675,14 +38723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159024,
-      "num": 159024,
-      "word": "长生",
-      "onboard_time": 1765977576,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 159013,
       "num": 273467,
       "word": "体检报告的这些字眼或是癌症信号",
@@ -41523,6 +41563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150239,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150222,
       "num": 964295,
       "word": "王曼昱WTT单打第100胜",
@@ -41585,6 +41633,14 @@
       "onboard_time": 1765266983,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149982,
+      "num": 149982,
+      "word": "张若昀新剧快进键被人抠掉了",
+      "onboard_time": 1766846544,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149976,
@@ -43969,14 +44025,6 @@
       "onboard_time": 1766482941,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142535,
-      "num": 464400,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142512,
@@ -78923,6 +78971,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 65245,
+      "num": 391381,
+      "word": "基辅遭俄军大规模空袭",
+      "onboard_time": 1766845042,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65243,
       "num": 91476,
       "word": "范丞丞工伤",
@@ -79824,14 +79880,6 @@
       "word": "2025最后一个周五",
       "onboard_time": 1766705177,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61883,
-      "num": 420677,
-      "word": "男子为赚8000元帮人骗保身亡",
-      "onboard_time": 1766844623,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -82779,6 +82827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51392,
+      "num": 597109,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51350,
       "num": 118230,
       "word": "45岁霍建华素颜状态",
@@ -83721,14 +83777,6 @@
       "onboard_time": 1765182980,
       "rank": 17,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 48162,
-      "num": 597109,
-      "word": "人民军队2025年终大片",
-      "onboard_time": 1766841142,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48153,
@@ -86539,14 +86587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39369,
-      "num": 391381,
-      "word": "基辅遭俄军大规模空袭",
-      "onboard_time": 1766845042,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39355,
       "num": 121529,
       "word": "煎饼叔叔确诊后曾想放弃治疗",
@@ -87009,6 +87049,14 @@
       "onboard_time": 1766582482,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 38126,
+      "num": 353188,
+      "word": "深博一件我一件",
+      "onboard_time": 1766845823,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38123,
@@ -94457,6 +94505,14 @@
       "onboard_time": 1766259914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16724,
+      "num": 224432,
+      "word": "每100日元税收超10日元流向军事领域",
+      "onboard_time": 1766846243,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16706,

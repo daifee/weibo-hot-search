@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766845576558,
+  "endTime": 1766846569941,
   "band_list": [
     {
       "raw_hot": 9567193,
@@ -11,8 +11,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 4936027,
-      "num": 594786,
+      "raw_hot": 8704342,
+      "num": 8704342,
+      "word": "一诺暂时告别赛场",
+      "onboard_time": 1766845885,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 5447561,
+      "num": 5447561,
       "word": "一诺 希望拿大满贯",
       "onboard_time": 1766844144,
       "rank": 4,
@@ -65,6 +73,14 @@
       "onboard_time": 1766830460,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1347897,
+      "num": 453481,
+      "word": "长生",
+      "onboard_time": 1766846302,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 1178987,
@@ -129,6 +145,14 @@
       "onboard_time": 1766833401,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 968129,
+      "num": 393468,
+      "word": "大帅",
+      "onboard_time": 1766846064,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 943787,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583084,
+      "num": 570171,
+      "word": "zwyns教练",
+      "onboard_time": 1766845163,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 579032,
       "num": 579032,
       "word": "新音节目单",
@@ -395,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441480,
+      "num": 388159,
+      "word": "487 潇潇",
+      "onboard_time": 1766842462,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 437314,
       "num": 312576,
       "word": "曝赵樱子蒋毅求婚是剧本",
@@ -433,14 +473,6 @@
       "onboard_time": 1766794219,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404541,
-      "num": 388159,
-      "word": "487 潇潇",
-      "onboard_time": 1766842462,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 404497,
@@ -547,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358097,
-      "num": 570171,
-      "word": "zwyns教练",
-      "onboard_time": 1766845163,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 356253,
       "num": 356253,
       "word": "爱奇艺腾讯优酷都发了赵丽颖",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 341671,
-      "num": 341671,
+      "num": 350772,
       "word": "湘超",
       "onboard_time": 1766835561,
       "rank": 16,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 295553,
-      "num": 295553,
+      "num": 399362,
       "word": "穆祉丞王橹杰剑客琴师",
       "onboard_time": 1766842522,
       "rank": 21,
@@ -697,6 +721,14 @@
       "onboard_time": 1766752881,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284531,
+      "num": 284531,
+      "word": "AG辛苦了",
+      "onboard_time": 1766846184,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 279306,
@@ -795,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253690,
+      "num": 253690,
+      "word": "虐泉",
+      "onboard_time": 1766845463,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245690,
       "num": 245690,
       "word": "吴艳妮回应比赛化妆",
@@ -808,6 +848,14 @@
       "word": "Creme后台怒怼Homme",
       "onboard_time": 1766811380,
       "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 238932,
+      "num": 238932,
+      "word": "玖熙 五杀",
+      "onboard_time": 1766844923,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -849,14 +897,6 @@
       "onboard_time": 1766831901,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226757,
-      "num": 226757,
-      "word": "玖熙 五杀",
-      "onboard_time": 1766844923,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 222738,
@@ -939,20 +979,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205314,
+      "num": 205314,
+      "word": "杨博文好元气",
+      "onboard_time": 1766834600,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205201,
       "num": 205201,
       "word": "上海地产0比3山东魏桥",
       "onboard_time": 1766839882,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203274,
-      "num": 203274,
-      "word": "虐泉",
-      "onboard_time": 1766845463,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 203175,
@@ -1035,14 +1075,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 194091,
-      "num": 194091,
-      "word": "杨博文好元气",
-      "onboard_time": 1766834600,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193832,
       "num": 193832,
       "word": "孟子义回眸callback九重紫",
@@ -1080,6 +1112,14 @@
       "word": "林昀儒3比0孙正",
       "onboard_time": 1766839642,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190273,
+      "num": 224475,
+      "word": "湘超总决赛想看人数超百万",
+      "onboard_time": 1766846302,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1145,6 +1185,14 @@
       "onboard_time": 1766766081,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182683,
+      "num": 420677,
+      "word": "男子为赚8000元帮人骗保身亡",
+      "onboard_time": 1766844623,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182202,
@@ -1499,6 +1547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150239,
+      "num": 464400,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149982,
+      "num": 149982,
+      "word": "张若昀新剧快进键被人抠掉了",
+      "onboard_time": 1766846544,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149087,
       "num": 149087,
       "word": "朱志鑫苏新皓ON双人舞",
@@ -1569,14 +1633,6 @@
       "onboard_time": 1766837725,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142535,
-      "num": 464400,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142047,
@@ -3475,6 +3531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 65245,
+      "num": 391381,
+      "word": "基辅遭俄军大规模空袭",
+      "onboard_time": 1766845042,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65071,
       "num": 65071,
       "word": "刘宇宁 气胸早都好了",
@@ -3521,14 +3585,6 @@
       "onboard_time": 1766813840,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61883,
-      "num": 420677,
-      "word": "男子为赚8000元帮人骗保身亡",
-      "onboard_time": 1766844623,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61594,
@@ -3587,6 +3643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51392,
+      "num": 597109,
+      "word": "人民军队2025年终大片",
+      "onboard_time": 1766841142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51008,
       "num": 132206,
       "word": "黑钻会员的含金量还在上升",
@@ -3609,14 +3673,6 @@
       "onboard_time": 1766816899,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48162,
-      "num": 597109,
-      "word": "人民军队2025年终大片",
-      "onboard_time": 1766841142,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47558,
@@ -3723,19 +3779,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39369,
-      "num": 391381,
-      "word": "基辅遭俄军大规模空袭",
-      "onboard_time": 1766845042,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38539,
       "num": 188859,
       "word": "上海民警猥亵继女案二审维持原判",
       "onboard_time": 1766844263,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38126,
+      "num": 353188,
+      "word": "深博一件我一件",
+      "onboard_time": 1766845823,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4113,6 +4169,14 @@
       "onboard_time": 1766781853,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16724,
+      "num": 224432,
+      "word": "每100日元税收超10日元流向军事领域",
+      "onboard_time": 1766846243,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16579,
