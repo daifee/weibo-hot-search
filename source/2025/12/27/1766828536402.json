@@ -1,0 +1,410 @@
+{
+  "runTime": 1766828536402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 548749,
+        "num": 1087799,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297306,
+        "num": 297306,
+        "word": "去封关后的海南被自己穷笑了",
+        "onboard_time": 1766826620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20888,
+        "num": 284051,
+        "word": "十四五我国健儿获665个世界冠军",
+        "onboard_time": 1766824040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321805,
+        "num": 283361,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279553,
+        "num": 279553,
+        "word": "曹建国已从院士名单中撤下",
+        "onboard_time": 1766817259,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502501,
+        "num": 238739,
+        "word": "十二月工资才是打工人的存款",
+        "onboard_time": 1766821639,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320243,
+        "num": 214699,
+        "word": "我拍到了锤娜丽莎减肥的证据",
+        "onboard_time": 1766824822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177717,
+        "num": 177717,
+        "word": "人人人人济南地铁人人人人",
+        "onboard_time": 1766824459,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 162204,
+        "word": "吴艳妮回应比赛化妆",
+        "onboard_time": 1766821040,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152772,
+        "num": 152772,
+        "word": "王一博连吃饭都有小节目",
+        "onboard_time": 1766827760,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496620,
+        "num": 151943,
+        "word": "女子发现接触两根手指能调整呼吸",
+        "onboard_time": 1766826742,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88803,
+        "num": 149951,
+        "word": "非遗市集艺探究竟",
+        "onboard_time": 1766828120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406988,
+        "num": 149407,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252608,
+        "num": 147092,
+        "word": "肖战喜欢爱你老己这个梗",
+        "onboard_time": 1766821879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 146093,
+        "word": "燕云十六声情趣内衣",
+        "onboard_time": 1766827940,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188244,
+        "num": 144818,
+        "word": "双轨",
+        "onboard_time": 1766825120,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185688,
+        "num": 143135,
+        "word": "何老师一年的工作光是听着就累了",
+        "onboard_time": 1766816299,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185319,
+        "num": 141917,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33490,
+        "num": 140704,
+        "word": "云南严肃追责问责16名厅级干部",
+        "onboard_time": 1766827881,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61600,
+        "num": 139626,
+        "word": "新能源车高速没电2人推车被撞身亡",
+        "onboard_time": 1766828239,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273211,
+        "num": 137529,
+        "word": "挣着2W工资冒着10W风险",
+        "onboard_time": 1766825479,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160957,
+        "num": 136836,
+        "word": "终于理解了孩子拴住妈的感觉",
+        "onboard_time": 1766820258,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 219411,
+        "num": 135494,
+        "word": "AG期待下次再聚",
+        "onboard_time": 1766828239,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212387,
+        "num": 132912,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "明年起公积金贷款利率正式下调",
+        "onboard_time": 1766819719,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132720,
+        "num": 132720,
+        "word": "肖战说爱你老己就是对自己好",
+        "onboard_time": 1766821520,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124418,
+        "num": 124418,
+        "word": "原来红薯是一窝一窝的",
+        "onboard_time": 1766826921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122175,
+        "num": 122175,
+        "word": "在美国不穿西装有多严重",
+        "onboard_time": 1766826019,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120789,
+        "num": 120789,
+        "word": "张昊唯回应胜诉",
+        "onboard_time": 1766825780,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118053,
+        "num": 118053,
+        "word": "黄一鸣分手了",
+        "onboard_time": 1766814860,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 115911,
+        "word": "孟鲁司特临床上存过度使用问题",
+        "onboard_time": 1766826679,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156375,
+        "num": 115261,
+        "word": "燕云十六声相关补偿",
+        "onboard_time": 1766828180,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120044,
+        "num": 115091,
+        "word": "一个中年家庭多少钱是安全资产",
+        "onboard_time": 1766828419,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113781,
+        "num": 113781,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113724,
+        "num": 113724,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109480,
+        "num": 109480,
+        "word": "KSG 无言",
+        "onboard_time": 1766828361,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103939,
+        "num": 103939,
+        "word": "对不起巨型吊牌影响您穿上飞机",
+        "onboard_time": 1766813720,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102190,
+        "num": 102190,
+        "word": "宋威龙 硬帅",
+        "onboard_time": 1766811258,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99773,
+        "num": 99773,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97996,
+        "num": 97996,
+        "word": "杨瀚森垃圾时间未得出场机会",
+        "onboard_time": 1766827699,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97543,
+        "num": 97543,
+        "word": "赵丽颖逍遥演技",
+        "onboard_time": 1766818759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97401,
+        "num": 97401,
+        "word": "谭松韵逍遥人设",
+        "onboard_time": 1766824822,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94676,
+        "num": 94676,
+        "word": "黄子韬回复王鹤棣",
+        "onboard_time": 1766823680,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91895,
+        "num": 91895,
+        "word": "余茵被陌生男性当面辱骂",
+        "onboard_time": 1766821820,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90905,
+        "num": 90905,
+        "word": "369说Kanavi世界赛没帮过我",
+        "onboard_time": 1766827579,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88308,
+        "num": 88308,
+        "word": "WB一年两入KPL决赛",
+        "onboard_time": 1766827459,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87746,
+        "num": 87746,
+        "word": "张昊唯被朋友背刺退圈",
+        "onboard_time": 1766821400,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86835,
+        "num": 86835,
+        "word": "霸王茶姬声明",
+        "onboard_time": 1766826199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85079,
+        "num": 85079,
+        "word": "抗炎食物和促炎食物",
+        "onboard_time": 1766826080,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69383,
+        "num": 84327,
+        "word": "有人兼职秒回师月入过万元",
+        "onboard_time": 1766826742,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共产党人必须真抓实干#"
+    }
+  }
+}
