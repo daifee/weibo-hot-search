@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766878027829,
+  "endTime": 1766878836068,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -179,6 +179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248013,
+      "num": 248013,
+      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+      "onboard_time": 1766840181,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231684,
       "num": 231684,
       "word": "宋威龙见面会",
@@ -209,14 +217,6 @@
       "onboard_time": 1766856378,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 194585,
-      "num": 194585,
-      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
-      "onboard_time": 1766840181,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 182245,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147225,
+      "num": 157434,
+      "word": "老人感染艾滋病多与商业性行为有关",
+      "onboard_time": 1766834600,
+      "rank": 41,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 136191,
       "num": 158349,
       "word": "AG超玩会 BP",
@@ -305,14 +313,6 @@
       "onboard_time": 1766847922,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111373,
-      "num": 157434,
-      "word": "老人感染艾滋病多与商业性行为有关",
-      "onboard_time": 1766834600,
-      "rank": 41,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 108892,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99223,
+      "num": 99223,
+      "word": "钟意",
+      "onboard_time": 1766871674,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91127,
       "num": 157306,
       "word": "大学室友是一个很尴尬的身份",
@@ -384,14 +392,6 @@
       "word": "万物不及妖刀",
       "onboard_time": 1766850623,
       "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 86515,
-      "num": 86515,
-      "word": "钟意",
-      "onboard_time": 1766871674,
-      "rank": 8,
       "category": "电竞"
     },
     {
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77645,
+      "num": 77645,
+      "word": "福建人被台湾地震吓麻了",
+      "onboard_time": 1766878396,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 75444,
       "num": 121152,
       "word": "王橹杰发博",
@@ -451,12 +459,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69282,
+      "num": 69282,
+      "word": "马斯克评论宇树机器人测试视频",
+      "onboard_time": 1766878396,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 67349,
+      "num": 67349,
+      "word": "男子爱奇艺会员充了25年遇退费难",
+      "onboard_time": 1766878517,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66055,
       "num": 156897,
       "word": "王楚钦说不想以2个退赛结束2025",
       "onboard_time": 1766842282,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60986,
+      "num": 60986,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57826,
+      "num": 57826,
+      "word": "女子向法庭出示带豆包AI生成伪证",
+      "onboard_time": 1766877376,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56067,
+      "num": 56067,
+      "word": "肖战一步步走进莫得闲的故事里",
+      "onboard_time": 1766875515,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 52912,
@@ -467,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50133,
-      "num": 48199,
-      "word": "肖战一步步走进莫得闲的故事里",
-      "onboard_time": 1766875515,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 51952,
+      "num": 51952,
+      "word": "整治国企招聘近亲繁殖为何刻不容缓",
+      "onboard_time": 1766878457,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49960,
@@ -491,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46828,
-      "num": 46828,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46598,
       "num": 65593,
       "word": "穆祉丞王橹杰剑客琴师",
@@ -507,12 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38433,
-      "num": 42137,
-      "word": "女子向法庭出示带豆包AI生成伪证",
-      "onboard_time": 1766877376,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 44747,
+      "num": 51940,
+      "word": "泰国孕妇杀害与丈夫开房女子赔19万",
+      "onboard_time": 1766839042,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40401,
+      "num": 51916,
+      "word": "宋威龙原来我们早就见面了",
+      "onboard_time": 1766866454,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 37577,
@@ -521,6 +569,14 @@
       "onboard_time": 1766861056,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37218,
+      "num": 51896,
+      "word": "刘宇宁哥是一种感觉",
+      "onboard_time": 1766864534,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 36010,
@@ -539,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33559,
-      "num": 45992,
-      "word": "宋威龙原来我们早就见面了",
-      "onboard_time": 1766866454,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32375,
       "num": 65548,
       "word": "入局",
@@ -561,14 +609,6 @@
       "onboard_time": 1766861234,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30571,
-      "num": 42127,
-      "word": "刘宇宁哥是一种感觉",
-      "onboard_time": 1766864534,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 30315,
@@ -604,19 +644,27 @@
     },
     {
       "raw_hot": 23259,
-      "num": 42086,
+      "num": 51746,
       "word": "王一博探索新境",
       "onboard_time": 1766874015,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 17728,
-      "num": 45959,
+      "raw_hot": 23228,
+      "num": 51778,
       "word": "湘超",
       "onboard_time": 1766835561,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17286,
+      "num": 314773,
+      "word": "中国低温火箭年度发射新纪录",
+      "onboard_time": 1766840782,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15436,
@@ -625,14 +673,6 @@
       "onboard_time": 1766840181,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15122,
-      "num": 218756,
-      "word": "中国低温火箭年度发射新纪录",
-      "onboard_time": 1766840782,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14359,
