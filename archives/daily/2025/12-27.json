@@ -1,10 +1,26 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766792516068,
+  "endTime": 1766801045003,
   "band_list": [
     {
+      "raw_hot": 864000,
+      "num": 179283,
+      "word": "黄景瑜这辈子别想坐我车了",
+      "onboard_time": 1766796622,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 785147,
+      "num": 1125623,
+      "word": "霸王茶姬大跌",
+      "onboard_time": 1766795481,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 683341,
-      "num": 236947,
+      "num": 327628,
       "word": "同事为了请假已经不择手段了",
       "onboard_time": 1766759842,
       "rank": 5,
@@ -17,6 +33,14 @@
       "onboard_time": 1766764040,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507005,
+      "num": 178919,
+      "word": "28岁确诊结肠癌晚期的真实感受",
+      "onboard_time": 1766795058,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 490954,
@@ -33,6 +57,38 @@
       "onboard_time": 1766756001,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461706,
+      "num": 461706,
+      "word": "逍遥全阵容开播",
+      "onboard_time": 1766798839,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453887,
+      "num": 178635,
+      "word": "曝王丽坤前夫詹浩礼被判无期徒刑",
+      "onboard_time": 1766798539,
+      "rank": 12,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 436254,
+      "num": 436254,
+      "word": "宝马销冠一口价营销8天卖11台",
+      "onboard_time": 1766796079,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406311,
+      "num": 178231,
+      "word": "花少摄影师发了99张北斗七行",
+      "onboard_time": 1766794219,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 373788,
@@ -52,7 +108,7 @@
     },
     {
       "raw_hot": 354769,
-      "num": 233810,
+      "num": 310793,
       "word": "8旬老人与保姆发生性关系感染HIV",
       "onboard_time": 1766756063,
       "rank": 6,
@@ -73,6 +129,14 @@
       "onboard_time": 1766791637,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293080,
+      "num": 293080,
+      "word": "爱奇艺腾讯优酷都发了赵丽颖",
+      "onboard_time": 1766798539,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 286260,
@@ -131,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189300,
+      "num": 189300,
+      "word": "广东汽车坠江致5死事件情况通报",
+      "onboard_time": 1766796199,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182805,
       "num": 182805,
       "word": "陈奕恒大屏怼脸生图",
       "onboard_time": 1766766081,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "2026两会时间表",
+      "onboard_time": 1766798899,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179354,
@@ -147,11 +227,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177756,
+      "num": 177756,
+      "word": "燕云十六声不只是情趣",
+      "onboard_time": 1766792538,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172993,
       "num": 205545,
       "word": "保时捷车主发声",
       "onboard_time": 1766772076,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172973,
+      "num": 172973,
+      "word": "网红面包卖不动了",
+      "onboard_time": 1766791998,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -168,6 +264,14 @@
       "word": "王安宇竟然有160斤",
       "onboard_time": 1766747541,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158833,
+      "num": 158833,
+      "word": "陈哲远问王安宇为什么叫大将军",
+      "onboard_time": 1766794278,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -220,7 +324,7 @@
     },
     {
       "raw_hot": 136481,
-      "num": 65306,
+      "num": 82789,
       "word": "周大福牛马吊坠为何被批",
       "onboard_time": 1766791577,
       "rank": 21,
@@ -236,7 +340,7 @@
     },
     {
       "raw_hot": 130519,
-      "num": 64896,
+      "num": 117158,
       "word": "羽绒服和棉服到底哪个更值得买",
       "onboard_time": 1766788395,
       "rank": 21,
@@ -251,12 +355,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123900,
+      "num": 123900,
+      "word": "华为悬赏300万元求解AI难题",
+      "onboard_time": 1766799259,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122816,
       "num": 122816,
       "word": "李宏毅直播",
       "onboard_time": 1766755641,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "张真源牙钻这次够清晰了",
+      "onboard_time": 1766800699,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120521,
+      "num": 120521,
+      "word": "现在就出发3",
+      "onboard_time": 1766799198,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 119291,
@@ -307,6 +435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109383,
+      "num": 109383,
+      "word": "邓恩熙也去新音了",
+      "onboard_time": 1766798599,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106818,
+      "num": 106818,
+      "word": "狗狗拉练高速跑时突然原地石化",
+      "onboard_time": 1766791998,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106489,
       "num": 119544,
       "word": "怪奇物语",
@@ -321,6 +465,62 @@
       "onboard_time": 1766788215,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105563,
+      "num": 105563,
+      "word": "红果果绿泡泡发文引发网友回忆杀",
+      "onboard_time": 1766797520,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100987,
+      "num": 100987,
+      "word": "王橹杰滑跪穆祉丞摸喉结",
+      "onboard_time": 1766796858,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 100692,
+      "num": 100692,
+      "word": "陈浚铭完全小手办",
+      "onboard_time": 1766800099,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98120,
+      "num": 98120,
+      "word": "北京地铁颜色快不够用了",
+      "onboard_time": 1766800278,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96363,
+      "num": 96363,
+      "word": "慕尼黑至北京航班上一乘客病亡",
+      "onboard_time": 1766791998,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93370,
+      "num": 93370,
+      "word": "专家称老年人的性需求长期被忽视",
+      "onboard_time": 1766799500,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92235,
+      "num": 92235,
+      "word": "警方回应村民120只羊被好友毒死",
+      "onboard_time": 1766798120,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91605,
@@ -355,12 +555,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85537,
-      "num": 43037,
-      "word": "狗狗拉练高速跑时突然原地石化",
-      "onboard_time": 1766791998,
-      "rank": 30,
+      "raw_hot": 83407,
+      "num": 83407,
+      "word": "300多人骗贷全国多家银行上千万",
+      "onboard_time": 1766794219,
+      "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82532,
+      "num": 82532,
+      "word": "肖战的回答永远真诚又清醒",
+      "onboard_time": 1766797459,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82072,
+      "num": 82072,
+      "word": "一直对微信文件助手一无所知",
+      "onboard_time": 1766794099,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 81803,
@@ -369,6 +585,22 @@
       "onboard_time": 1766762961,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80673,
+      "num": 80673,
+      "word": "给孩子吓到但身体先跳起舞来",
+      "onboard_time": 1766798120,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80629,
+      "num": 80629,
+      "word": "金饰价格涨到1407元",
+      "onboard_time": 1766797878,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 80456,
@@ -403,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77549,
+      "num": 77549,
+      "word": "俄男子喝液氮鸡尾酒胃瞬间撑爆倒地",
+      "onboard_time": 1766792477,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76629,
       "num": 109208,
       "word": "货车出事故后被哄抢货物全部追回",
@@ -435,20 +675,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74598,
+      "num": 74598,
+      "word": "美网友意识到美国才是用童工的国家",
+      "onboard_time": 1766794159,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74053,
       "num": 109644,
       "word": "毛新宇说网友称爷爷为教员贴切",
       "onboard_time": 1766747541,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 73407,
-      "num": 73407,
-      "word": "网红面包卖不动了",
-      "onboard_time": 1766791998,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71176,
@@ -475,11 +715,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67743,
+      "num": 67743,
+      "word": "燕云十六声抹胸裁剪方案",
+      "onboard_time": 1766799380,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67608,
       "num": 108942,
       "word": "肖战特别喜欢看观众解读",
       "onboard_time": 1766752461,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65071,
+      "num": 65071,
+      "word": "刘宇宁 气胸早都好了",
+      "onboard_time": 1766791998,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -489,6 +745,14 @@
       "onboard_time": 1766753241,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64627,
+      "num": 64627,
+      "word": "医生说这7种病不用太担心",
+      "onboard_time": 1766800999,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64264,
@@ -523,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59903,
-      "num": 42723,
-      "word": "慕尼黑至北京航班上一乘客病亡",
-      "onboard_time": 1766791998,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54279,
       "num": 42522,
       "word": "去狗咖把小狗全都哄睡着了",
@@ -553,22 +809,6 @@
       "onboard_time": 1766751561,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 50296,
-      "num": 42105,
-      "word": "俄男子喝液氮鸡尾酒胃瞬间撑爆倒地",
-      "onboard_time": 1766792477,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42021,
-      "num": 42021,
-      "word": "刘宇宁 气胸早都好了",
-      "onboard_time": 1766791998,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 41361,
@@ -689,6 +929,14 @@
       "onboard_time": 1766784133,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27195,
+      "num": 80895,
+      "word": "2026全国两会召开时间",
+      "onboard_time": 1766798539,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26424,
@@ -819,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19274,
+      "num": 442486,
+      "word": "这些大国工程见证中国之变",
+      "onboard_time": 1766756063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18808,
       "num": 33830,
       "word": "张真源月之浮想",
@@ -839,14 +1095,6 @@
       "num": 259095,
       "word": "故事里的2025",
       "onboard_time": 1766756422,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16531,
-      "num": 208372,
-      "word": "这些大国工程见证中国之变",
-      "onboard_time": 1766756063,
       "rank": 2,
       "category": "民生新闻"
     },
