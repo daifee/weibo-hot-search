@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766861472470,
+  "endTime": 1766863355881,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -521,6 +521,38 @@
       "onboard_time": 1766861234,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30315,
+      "num": 40572,
+      "word": "张函瑞神的孩子在唱歌",
+      "onboard_time": 1766862254,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26967,
+      "num": 40540,
+      "word": "苏新皓抓周抓的是镜头",
+      "onboard_time": 1766862975,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24886,
+      "num": 40522,
+      "word": "张极绷带造型富有且大方",
+      "onboard_time": 1766863215,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16060,
+      "num": 40498,
+      "word": "湘超",
+      "onboard_time": 1766835561,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14359,
