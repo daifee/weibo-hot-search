@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766868212972,
+  "endTime": 1766870712502,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -555,7 +555,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16710,
+      "raw_hot": 17725,
       "num": 45992,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
@@ -579,12 +579,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14997,
+      "num": 32906,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14359,
       "num": 624126,
       "word": "2025热搜里的中国",
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7209,
+      "num": 98153,
+      "word": "中国低温火箭年度发射新纪录",
+      "onboard_time": 1766840782,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
