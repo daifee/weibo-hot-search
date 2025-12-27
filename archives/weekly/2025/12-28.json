@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766874418469,
+  "endTime": 1766875411154,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -307,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108450,
+      "num": 114291,
+      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
+      "onboard_time": 1766840181,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108362,
       "num": 158029,
       "word": "58%的面包店活不过2年",
@@ -369,14 +377,6 @@
       "onboard_time": 1766849366,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90822,
-      "num": 114291,
-      "word": "网红非洲洋洋涉嫌绑架同胞被抓",
-      "onboard_time": 1766840181,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89515,
@@ -547,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25814,
+      "num": 32906,
+      "word": "公积金贷款利率调整表",
+      "onboard_time": 1766844623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25662,
       "num": 47008,
       "word": "张极绷带造型富有且大方",
@@ -563,15 +571,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22594,
-      "num": 32906,
-      "word": "公积金贷款利率调整表",
-      "onboard_time": 1766844623,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 19265,
+      "num": 29671,
+      "word": "刘宇宁哥是一种感觉",
+      "onboard_time": 1766864534,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 17911,
+      "raw_hot": 18854,
       "num": 45992,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
@@ -579,11 +587,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17528,
-      "num": 25542,
-      "word": "刘宇宁哥是一种感觉",
-      "onboard_time": 1766864534,
-      "rank": 35,
+      "raw_hot": 18267,
+      "num": 29667,
+      "word": "王一博探索新境",
+      "onboard_time": 1766874015,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -593,14 +601,6 @@
       "onboard_time": 1766835561,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15669,
-      "num": 25518,
-      "word": "王一博探索新境",
-      "onboard_time": 1766874015,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 15436,
@@ -619,8 +619,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9773,
-      "num": 131630,
+      "raw_hot": 11470,
+      "num": 173030,
       "word": "中国低温火箭年度发射新纪录",
       "onboard_time": 1766840782,
       "rank": 2,
