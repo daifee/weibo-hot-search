@@ -1,6 +1,6 @@
 {
   "startTime": 1766766825069,
-  "endTime": 1766818455641,
+  "endTime": 1766820392783,
   "band_list": [
     {
       "raw_hot": 1864723,
@@ -83,6 +83,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 651488,
+      "num": 199851,
+      "word": "何老师一年的工作光是听着就累了",
+      "onboard_time": 1766816299,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626971,
       "num": 262602,
       "word": "张昊唯被曝逃税涉黄最新进展",
@@ -105,6 +113,14 @@
       "onboard_time": 1766807179,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575250,
+      "num": 456584,
+      "word": "攀枝花发生刑案致1死3伤",
+      "onboard_time": 1766816421,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 547004,
@@ -163,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 456584,
-      "num": 456584,
-      "word": "攀枝花发生刑案致1死3伤",
-      "onboard_time": 1766816421,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 437314,
       "num": 312576,
       "word": "曝赵樱子蒋毅求婚是剧本",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 395142,
-      "num": 146034,
+      "num": 171885,
       "word": "黄一鸣分手了",
       "onboard_time": 1766814860,
       "rank": 20,
@@ -252,19 +260,11 @@
     },
     {
       "raw_hot": 370530,
-      "num": 144214,
+      "num": 171783,
       "word": "黄子韬居然胖到180斤了",
       "onboard_time": 1766816299,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358555,
-      "num": 160319,
-      "word": "何老师一年的工作光是听着就累了",
-      "onboard_time": 1766816299,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 356253,
@@ -299,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323955,
+      "num": 195785,
+      "word": "早点发律师函",
+      "onboard_time": 1766816839,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316872,
       "num": 172556,
       "word": "波司登取消了李宏毅的活动",
       "onboard_time": 1766791637,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303654,
+      "num": 203155,
+      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+      "onboard_time": 1766816839,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 297572,
@@ -340,11 +356,19 @@
     },
     {
       "raw_hot": 279306,
-      "num": 154832,
+      "num": 184633,
       "word": "刘宇宁称不进组与番位无关",
       "onboard_time": 1766813660,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275894,
+      "num": 209355,
+      "word": "曹建国已从院士名单中撤下",
+      "onboard_time": 1766817259,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271554,
@@ -377,14 +401,6 @@
       "onboard_time": 1766803520,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 263658,
-      "num": 172248,
-      "word": "王鹤棣睡醒没穿裤子是我能看的吗",
-      "onboard_time": 1766816839,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 258000,
@@ -451,20 +467,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214509,
+      "num": 193877,
+      "word": "赵丽颖逍遥演技",
+      "onboard_time": 1766818759,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208417,
       "num": 483941,
       "word": "顾漫还是牛",
       "onboard_time": 1766776394,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203541,
-      "num": 150176,
-      "word": "早点发律师函",
-      "onboard_time": 1766816839,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 202932,
@@ -585,6 +601,22 @@
       "onboard_time": 1766772076,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172028,
+      "num": 172028,
+      "word": "逍遥开播反响",
+      "onboard_time": 1766815159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171127,
+      "num": 171127,
+      "word": "白鹿顶级过肺",
+      "onboard_time": 1766817920,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 170758,
@@ -715,28 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151598,
-      "num": 141331,
-      "word": "白鹿顶级过肺",
-      "onboard_time": 1766817920,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "孙颖莎获评新华社年度十佳",
       "onboard_time": 1766809519,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149852,
-      "num": 149852,
-      "word": "逍遥开播反响",
-      "onboard_time": 1766815159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 149087,
@@ -760,6 +776,14 @@
       "word": "现在就出发3",
       "onboard_time": 1766799198,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "孟子义的钝感力是顶级自洽",
+      "onboard_time": 1766819299,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -787,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139674,
-      "num": 125160,
-      "word": "曹建国已从院士名单中撤下",
-      "onboard_time": 1766817259,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 138680,
+      "num": 138680,
+      "word": "一些不经意但用了很久的东西",
+      "onboard_time": 1766819060,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 138028,
@@ -809,6 +833,14 @@
       "onboard_time": 1766808140,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 122379,
+      "word": "明年起公积金贷款利率正式下调",
+      "onboard_time": 1766819719,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 137480,
@@ -881,6 +913,14 @@
       "onboard_time": 1766810179,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128628,
+      "num": 201906,
+      "word": "微博年度报告",
+      "onboard_time": 1766818639,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 127005,
@@ -969,6 +1009,14 @@
       "onboard_time": 1766816719,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121723,
+      "num": 121723,
+      "word": "王赫野颜安爬山走成了T台",
+      "onboard_time": 1766820200,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 121685,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1766817259,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110558,
+      "num": 110558,
+      "word": "周扬青芒果综艺里cue罗成",
+      "onboard_time": 1766818520,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 110378,
@@ -1323,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96513,
+      "num": 96513,
+      "word": "起猛了看到年度热梗上天了",
+      "onboard_time": 1766819719,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96363,
       "num": 96363,
       "word": "慕尼黑至北京航班上一乘客病亡",
@@ -1451,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90967,
+      "num": 90967,
+      "word": "猫 你居然模仿我的穿搭",
+      "onboard_time": 1766819419,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90542,
       "num": 90542,
       "word": "王橹杰三机位4K爆燃混剪",
@@ -1459,12 +1531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90365,
+      "num": 90365,
+      "word": "有什么书读完了像过了一生",
+      "onboard_time": 1766818939,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89987,
       "num": 109553,
       "word": "女子彻夜充电致全身70%烧伤",
       "onboard_time": 1766741599,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88762,
+      "num": 96571,
+      "word": "王欣瑜2比0斯瓦泰克",
+      "onboard_time": 1766820200,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 88682,
@@ -1515,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86048,
+      "num": 86048,
+      "word": "杀猪盘见多了杀乳猪第一次见",
+      "onboard_time": 1766819180,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84123,
       "num": 84123,
       "word": "金饰价格涨到1407元",
@@ -1544,6 +1640,14 @@
       "word": "300多人骗贷全国多家银行上千万",
       "onboard_time": 1766794219,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82084,
+      "num": 82084,
+      "word": "妈妈因孩子作业呼吸性碱中毒",
+      "onboard_time": 1766820139,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1609,6 +1713,14 @@
       "onboard_time": 1766767399,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77777,
+      "num": 87792,
+      "word": "攀枝花警方通报一路段发生刑案",
+      "onboard_time": 1766818819,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 77549,
@@ -1772,7 +1884,7 @@
     },
     {
       "raw_hot": 68468,
-      "num": 127188,
+      "num": 156577,
       "word": "潘玮柏在演唱会现场点外卖",
       "onboard_time": 1766816238,
       "rank": 36,
@@ -1881,6 +1993,14 @@
       "onboard_time": 1766762721,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59552,
+      "num": 96352,
+      "word": "救命钱藏沙发下被妻子交给嗜赌儿子",
+      "onboard_time": 1766819659,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57563,

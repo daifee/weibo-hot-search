@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 14:54:15
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 15:26:32
 </p>
 </blockquote>
 <p>
@@ -4485,6 +4485,12 @@ iPhone18Pro左上角挖孔设计（热度：655185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E4%B8%80%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%85%89%E6%98%AF%E5%90%AC%E7%9D%80%E5%B0%B1%E7%B4%AF%E4%BA%86%23" target="weibo">
+何老师一年的工作光是听着就累了（热度：651488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B5%81%E9%87%8F%E5%A5%B3%E6%98%9F%E6%8B%8D%E6%88%8F%E8%A6%81%E6%B1%82%E7%82%B9%E6%BB%A11000%E5%85%83%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
 曝流量女星拍戏要求点满1000元肯德基（热度：651425）
 </a>
@@ -5583,6 +5589,12 @@ NBA球员李凯尔国籍已改为美国（热度：579623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%80%E6%9E%9D%E8%8A%B1%E5%8F%91%E7%94%9F%E5%88%91%E6%A1%88%E8%87%B41%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+攀枝花发生刑案致1死3伤（热度：575250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%90%8E45%E5%A4%A9%E7%A1%AE%E8%AF%8AHIV%E9%98%B3%E6%80%A7%23" target="weibo">
 17岁男生高考后45天确诊HIV阳性（热度：575001）
 </a>
@@ -5999,18 +6011,6 @@ NBA球员李凯尔国籍已改为美国（热度：579623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A5%BD%E7%94%9C%E5%A5%BD%E4%BB%99%23" target="weibo">
 陈妍希好甜好仙（热度：554146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E7%9C%9F%E5%BF%83%23" target="weibo">
-王俊凯的真心（热度：554129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B4%E5%AD%A2%E5%81%9C%E8%8D%AF72%E5%B0%8F%E6%97%B6%E5%96%9D%E9%85%92%E5%90%8E%E4%BC%91%E5%85%8B%23" target="weibo">
-男子头孢停药72小时喝酒后休克（热度：553617）
 </a>
 </li>
 
