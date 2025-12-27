@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 16:36:03
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/27 16:49:23
 </p>
 </blockquote>
 <p>
@@ -6443,6 +6443,12 @@ NBA球员李凯尔国籍已改为美国（热度：579623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%A6%81%E5%9C%A8%E5%85%B6%E4%BD%8D%E8%B0%8B%E5%85%B6%E6%94%BF%E5%B0%BD%E5%85%B6%E8%B4%A3%23%23" target="weibo">
 #领导干部要在其位谋其政尽其责#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%BF%85%E9%A1%BB%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2%23%23" target="weibo">
+#共产党人必须真抓实干#
 </a>
 </li>
 

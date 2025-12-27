@@ -1,0 +1,410 @@
+{
+  "runTime": 1766825363006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376794,
+        "num": 1060287,
+        "word": "逍遥",
+        "onboard_time": 1766809460,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374146,
+        "num": 374146,
+        "word": "曹建国已从院士名单中撤下",
+        "onboard_time": 1766817259,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25551,
+        "num": 341045,
+        "word": "十四五我国健儿获665个世界冠军",
+        "onboard_time": 1766824040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311219,
+        "num": 311219,
+        "word": "人之初",
+        "onboard_time": 1766813238,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245690,
+        "num": 245690,
+        "word": "吴艳妮回应比赛化妆",
+        "onboard_time": 1766821040,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332634,
+        "num": 235312,
+        "word": "十二月工资才是打工人的存款",
+        "onboard_time": 1766821639,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182467,
+        "num": 182467,
+        "word": "赵丽颖逍遥演技",
+        "onboard_time": 1766818759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181445,
+        "num": 181445,
+        "word": "KPL",
+        "onboard_time": 1766824160,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178190,
+        "num": 178190,
+        "word": "王鹤棣睡醒没穿裤子是我能看的吗",
+        "onboard_time": 1766816839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155114,
+        "num": 177524,
+        "word": "双胞胎宝妈冻母乳全化了索赔冰柜方",
+        "onboard_time": 1766807179,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429386,
+        "num": 175362,
+        "word": "庆余年3不用换人了",
+        "onboard_time": 1766811258,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413503,
+        "num": 174741,
+        "word": "何老师一年的工作光是听着就累了",
+        "onboard_time": 1766816299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361089,
+        "num": 173297,
+        "word": "肖战喜欢爱你老己这个梗",
+        "onboard_time": 1766821879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293441,
+        "num": 171674,
+        "word": "王丽坤现状",
+        "onboard_time": 1766807960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293333,
+        "num": 170014,
+        "word": "终于理解了孩子拴住妈的感觉",
+        "onboard_time": 1766820258,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 213352,
+        "num": 169073,
+        "word": "对不起巨型吊牌影响您穿上飞机",
+        "onboard_time": 1766813720,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167948,
+        "num": 167948,
+        "word": "我拍到了锤娜丽莎减肥的证据",
+        "onboard_time": 1766824822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195258,
+        "num": 167934,
+        "word": "肖战说爱你老己就是对自己好",
+        "onboard_time": 1766821520,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44033,
+        "num": 167910,
+        "word": "商家回应母乳融化宝妈索赔奶粉钱",
+        "onboard_time": 1766824040,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31456,
+        "num": 167849,
+        "word": "人人人人济南地铁人人人人",
+        "onboard_time": 1766824459,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229238,
+        "num": 167844,
+        "word": "黄子韬居然胖到180斤了",
+        "onboard_time": 1766816299,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54173,
+        "num": 167781,
+        "word": "游客低头看手机被骡子货袋撞下山坡",
+        "onboard_time": 1766823920,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226326,
+        "num": 167771,
+        "word": "黄一鸣分手了",
+        "onboard_time": 1766814860,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182937,
+        "num": 167709,
+        "word": "明年起公积金贷款利率正式下调",
+        "onboard_time": 1766819719,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167706,
+        "num": 167706,
+        "word": "突然就理解了漂亮饭的意义",
+        "onboard_time": 1766824520,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 149909,
+        "num": 149909,
+        "word": "微博年度报告",
+        "onboard_time": 1766818639,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139247,
+        "num": 139247,
+        "word": "余茵被陌生男性当面辱骂",
+        "onboard_time": 1766821820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134182,
+        "num": 134182,
+        "word": "双轨",
+        "onboard_time": 1766825120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131957,
+        "num": 131957,
+        "word": "身体有慢性炎症时多吃这些水果",
+        "onboard_time": 1766807960,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125781,
+        "num": 125781,
+        "word": "张昊唯被朋友背刺退圈",
+        "onboard_time": 1766821400,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112308,
+        "num": 112308,
+        "word": "彭昱畅评论区细思极恐粗思更恐",
+        "onboard_time": 1766824279,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112186,
+        "num": 112186,
+        "word": "熬夜老外被中医折服的一天",
+        "onboard_time": 1766823200,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "金晨预定飞驰人生4女一号",
+        "onboard_time": 1766812940,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106363,
+        "num": 106363,
+        "word": "早点发律师函",
+        "onboard_time": 1766816839,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101423,
+        "num": 105674,
+        "word": "警方通报蒙面男子挨家挨户撬门",
+        "onboard_time": 1766823860,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 105131,
+        "word": "谭松韵逍遥人设",
+        "onboard_time": 1766824822,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103426,
+        "num": 103426,
+        "word": "白鹿顶级过肺",
+        "onboard_time": 1766817920,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21751,
+        "num": 101243,
+        "word": "校领导2年抽成330万须查清钱去哪了",
+        "onboard_time": 1766824279,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 100254,
+        "num": 100254,
+        "word": "樊振东退排名后现状",
+        "onboard_time": 1766824339,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20360,
+        "num": 100251,
+        "word": "四川网友反映20天婚假难请",
+        "onboard_time": 1766825241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100249,
+        "num": 100249,
+        "word": "郑恺别挥手了我自己哭",
+        "onboard_time": 1766824399,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97389,
+        "num": 97389,
+        "word": "宋威龙 硬帅",
+        "onboard_time": 1766811258,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96438,
+        "num": 96438,
+        "word": "林高远无缘男团决赛",
+        "onboard_time": 1766823979,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52995,
+        "num": 95008,
+        "word": "张钧甯一年比一年狠",
+        "onboard_time": 1766823619,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94189,
+        "num": 94189,
+        "word": "薛之谦腾讯音乐榜年度歌手",
+        "onboard_time": 1766824822,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88043,
+        "num": 88043,
+        "word": "WB对战RW",
+        "onboard_time": 1766821879,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86390,
+        "num": 86390,
+        "word": "李雪琴秒答孟子义九重紫",
+        "onboard_time": 1766823619,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 85877,
+        "word": "减肥成功后没敢正常吃饭",
+        "onboard_time": 1766823320,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84603,
+        "num": 84603,
+        "word": "吃了十年都没腻的东西",
+        "onboard_time": 1766824940,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84340,
+        "num": 84340,
+        "word": "人之初惊喜加座",
+        "onboard_time": 1766821040,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共产党人必须真抓实干#"
+    }
+  }
+}
