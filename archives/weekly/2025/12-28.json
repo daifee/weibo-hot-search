@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766942755424,
+  "endTime": 1766943763823,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -3651,12 +3651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52706,
+      "num": 73918,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49960,
       "num": 112631,
       "word": "王楚钦挥手回应球迷新年祝福",
       "onboard_time": 1766855719,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49512,
+      "num": 55392,
+      "word": "张函瑞小恶魔飞吻",
+      "onboard_time": 1766943375,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 49500,
@@ -3755,20 +3771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40607,
-      "num": 68710,
-      "word": "小猫四条腿各跑各的",
-      "onboard_time": 1766941217,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 40401,
       "num": 51916,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38488,
+      "num": 62743,
+      "word": "给孩子买了一件会变色的衣服",
+      "onboard_time": 1766941456,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 38430,
@@ -3795,12 +3811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36992,
-      "num": 62743,
-      "word": "给孩子买了一件会变色的衣服",
-      "onboard_time": 1766941456,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 37192,
+      "num": 55292,
+      "word": "宋亚轩卷毛混血感",
+      "onboard_time": 1766943557,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 36628,
@@ -3907,7 +3923,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30141,
+      "raw_hot": 30220,
       "num": 62558,
       "word": "中国足球年度瞬间",
       "onboard_time": 1766941876,
@@ -4009,6 +4025,14 @@
       "onboard_time": 1766899880,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23688,
+      "num": 55209,
+      "word": "王者荣耀最没用的法师",
+      "onboard_time": 1766943255,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 23609,
