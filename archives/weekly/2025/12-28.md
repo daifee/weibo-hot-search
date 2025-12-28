@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/29 02:38:54
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/29 02:51:39
 </p>
 </blockquote>
 <p>
@@ -2775,6 +2775,12 @@ FGO 完结（热度：52912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E6%88%91%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%83%B3%E4%BD%A0%E4%BB%AC%E4%BA%86%23" target="weibo">
+苏新皓我已经开始想你们了（热度：49393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E7%A7%B0%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%89%AA%E5%8F%91%E5%8D%95%E6%AC%A16688%E5%85%83%23" target="weibo">
 理发店称创始人剪发单次6688元（热度：49390）
 </a>
@@ -3077,6 +3083,12 @@ RW与WB会师三亚（热度：29456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E8%B6%85%23" target="weibo">
 湘超（热度：23228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%AE%E7%9B%98%E6%89%8B%E5%BC%A0%E5%87%BD%E7%91%9E%E4%B8%8A%E7%BA%BF%23" target="weibo">
+键盘手张函瑞上线（热度：23124）
 </a>
 </li>
 

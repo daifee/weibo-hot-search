@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766947134709,
+  "endTime": 1766947899122,
   "band_list": [
     {
       "raw_hot": 686683,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49393,
+      "num": 49393,
+      "word": "苏新皓我已经开始想你们了",
+      "onboard_time": 1766947514,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49308,
       "num": 52390,
       "word": "单依纯直播",
@@ -555,16 +563,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23124,
+      "num": 29848,
+      "word": "键盘手张函瑞上线",
+      "onboard_time": 1766947575,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22481,
-      "num": 28640,
+      "num": 29832,
       "word": "年度总结文案",
       "onboard_time": 1766945596,
       "rank": 37,
       "category": "情感"
     },
     {
-      "raw_hot": 17058,
-      "num": 28620,
+      "raw_hot": 17817,
+      "num": 29837,
       "word": "乒超联赛总决赛",
       "onboard_time": 1766932342,
       "rank": 49,
