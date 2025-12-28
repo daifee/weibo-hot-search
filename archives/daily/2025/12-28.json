@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766910994413,
+  "endTime": 1766911743034,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306063,
+      "num": 218343,
+      "word": "难怪认识的一个男生老说要嫁人了",
+      "onboard_time": 1766908581,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299122,
       "num": 299122,
       "word": "南昌震感",
@@ -467,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269086,
+      "num": 269086,
+      "word": "胡萝卜蛋糕",
+      "onboard_time": 1766907321,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264345,
       "num": 264345,
       "word": "黄晓明 老鼠干是扎小人用的吗",
@@ -497,14 +513,6 @@
       "onboard_time": 1766896460,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256587,
-      "num": 218343,
-      "word": "难怪认识的一个男生老说要嫁人了",
-      "onboard_time": 1766908581,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 254927,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233918,
+      "num": 211251,
+      "word": "黑色小猫果然耐脏",
+      "onboard_time": 1766909720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231684,
       "num": 231684,
       "word": "宋威龙见面会",
@@ -659,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209203,
-      "num": 209203,
-      "word": "胡萝卜蛋糕",
-      "onboard_time": 1766907321,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 206350,
       "num": 206350,
       "word": "谭松韵穿耿耿校服跟振华道歉",
@@ -689,6 +697,14 @@
       "onboard_time": 1766905638,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201562,
+      "num": 209096,
+      "word": "32岁女老师突发脑梗去世",
+      "onboard_time": 1766910501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201542,
@@ -763,12 +779,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180052,
+      "num": 180052,
+      "word": "2026春晚分会场之一合肥",
+      "onboard_time": 1766910501,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179893,
       "num": 179893,
       "word": "台湾6.6级地震亲历者发声",
       "onboard_time": 1766886380,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 179643,
+      "num": 179643,
+      "word": "印度游客乘坐中国高铁",
+      "onboard_time": 1766909961,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179321,
+      "num": 179321,
+      "word": "范丞丞重新认识了出发的意义",
+      "onboard_time": 1766911399,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 177063,
@@ -801,14 +841,6 @@
       "onboard_time": 1766881578,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170121,
-      "num": 128902,
-      "word": "黑色小猫果然耐脏",
-      "onboard_time": 1766909720,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 169864,
@@ -931,12 +963,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150713,
-      "num": 150713,
-      "word": "印度游客乘坐中国高铁",
-      "onboard_time": 1766909961,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 149869,
+      "num": 149869,
+      "word": "王菊一步一步一部一部",
+      "onboard_time": 1766911461,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 148789,
@@ -1035,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134667,
+      "num": 134667,
+      "word": "万元LV鞋发黄销售说踩了水",
+      "onboard_time": 1766909901,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 131826,
       "num": 131826,
       "word": "檀健次从天而降的出场方式",
@@ -1107,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128498,
-      "num": 128498,
-      "word": "2026春晚分会场之一合肥",
-      "onboard_time": 1766910501,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127747,
       "num": 118953,
       "word": "亏了7千但是省了2万",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1766901620,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126621,
+      "num": 126621,
+      "word": "白银价格已暴涨170%",
+      "onboard_time": 1766909541,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 126506,
@@ -1169,14 +1209,6 @@
       "onboard_time": 1766899999,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125271,
-      "num": 125271,
-      "word": "白银价格已暴涨170%",
-      "onboard_time": 1766909541,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 124960,
@@ -1291,19 +1323,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116728,
-      "num": 116728,
-      "word": "万元LV鞋发黄销售说踩了水",
-      "onboard_time": 1766909901,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 116247,
       "num": 116247,
       "word": "李飞快把TFing舞台玩出花了",
       "onboard_time": 1766894240,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115669,
+      "num": 115669,
+      "word": "春晚分会场官宣宜宾",
+      "onboard_time": 1766911220,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1443,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105279,
+      "num": 105279,
+      "word": "2025年度最热cp盘点",
+      "onboard_time": 1766911339,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 105144,
       "num": 105144,
       "word": "我是不会放弃去阿勒泰的",
@@ -1481,6 +1521,22 @@
       "onboard_time": 1766845163,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104436,
+      "num": 104436,
+      "word": "偶遇何美延带三娃做手工",
+      "onboard_time": 1766910620,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103986,
+      "num": 103986,
+      "word": "新音最后一天",
+      "onboard_time": 1766911279,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 103597,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 101017,
-      "num": 101017,
-      "word": "偶遇何美延带三娃做手工",
-      "onboard_time": 1766910620,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 100697,
@@ -1611,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97830,
+      "num": 97830,
+      "word": "樊振东王楚钦孙颖莎被授予运动健将",
+      "onboard_time": 1766908041,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97755,
       "num": 97755,
       "word": "2026年大力提振消费",
@@ -1659,6 +1715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "新加坡街头堪比印度本土集市",
+      "onboard_time": 1766911520,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95206,
       "num": 112619,
       "word": "东方卫视跨年年终报告信息量好大",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1766901620,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94465,
+      "num": 94465,
+      "word": "肖战连包5场支持匿杀",
+      "onboard_time": 1766907920,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 94240,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1766889500,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87239,
+      "num": 87239,
+      "word": "这狗狗大孙比那个大孙懂事",
+      "onboard_time": 1766911700,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86006,
@@ -2027,11 +2107,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58842,
+      "num": 526872,
+      "word": "故事里的2025",
+      "onboard_time": 1766910801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57826,
       "num": 57826,
       "word": "女子向法庭出示带豆包AI生成伪证",
       "onboard_time": 1766877376,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57797,
+      "num": 118326,
+      "word": "洛阳白马寺千年石马频繁被游客踩踏",
+      "onboard_time": 1766910020,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2097,14 +2193,6 @@
       "onboard_time": 1766866454,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38453,
-      "num": 209096,
-      "word": "32岁女老师突发脑梗去世",
-      "onboard_time": 1766910501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38430,
@@ -2203,11 +2291,11 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 27419,
-      "num": 118326,
-      "word": "洛阳白马寺千年石马频繁被游客踩踏",
-      "onboard_time": 1766910020,
-      "rank": 37,
+      "raw_hot": 29852,
+      "num": 104463,
+      "word": "男子猥亵继女案受害人母亲发声",
+      "onboard_time": 1766911220,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2329,14 +2417,6 @@
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7345,
-      "num": 526872,
-      "word": "故事里的2025",
-      "onboard_time": 1766910801,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

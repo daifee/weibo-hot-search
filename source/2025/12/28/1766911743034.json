@@ -1,0 +1,410 @@
+{
+  "runTime": 1766911743034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335368,
+        "num": 1335368,
+        "word": "2026春晚分会场发布",
+        "onboard_time": 1766906960,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585913,
+        "num": 585913,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58842,
+        "num": 357900,
+        "word": "故事里的2025",
+        "onboard_time": 1766910801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 915224,
+        "num": 329896,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288073,
+        "num": 288073,
+        "word": "孙颖莎当时第一时间汇报伤情",
+        "onboard_time": 1766908820,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451210,
+        "num": 286762,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333960,
+        "num": 278068,
+        "word": "动物奶油 断句陷阱",
+        "onboard_time": 1766900180,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269086,
+        "num": 269086,
+        "word": "胡萝卜蛋糕",
+        "onboard_time": 1766907321,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236789,
+        "num": 236789,
+        "word": "财政部明年将促进居民就业增收",
+        "onboard_time": 1766905760,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222135,
+        "num": 222135,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 357030,
+        "num": 220530,
+        "word": "炎亚纶发文感谢飞轮海",
+        "onboard_time": 1766906480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335551,
+        "num": 219601,
+        "word": "虞书欣华语艺人国际排行榜第一",
+        "onboard_time": 1766905821,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324398,
+        "num": 217201,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306063,
+        "num": 216193,
+        "word": "难怪认识的一个男生老说要嫁人了",
+        "onboard_time": 1766908581,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268960,
+        "num": 214383,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246956,
+        "num": 211947,
+        "word": "空腹爬楼梯瘦了30斤",
+        "onboard_time": 1766904981,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233918,
+        "num": 211251,
+        "word": "黑色小猫果然耐脏",
+        "onboard_time": 1766909720,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209819,
+        "num": 209819,
+        "word": "再见爱人 难哄",
+        "onboard_time": 1766905340,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201562,
+        "num": 201562,
+        "word": "32岁女老师突发脑梗去世",
+        "onboard_time": 1766910501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189583,
+        "num": 189583,
+        "word": "炎亚纶发的图有汪东城水印",
+        "onboard_time": 1766907920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191795,
+        "num": 188955,
+        "word": "章子怡女儿醒醒十岁了",
+        "onboard_time": 1766901681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180052,
+        "num": 180052,
+        "word": "2026春晚分会场之一合肥",
+        "onboard_time": 1766910501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179643,
+        "num": 179643,
+        "word": "印度游客乘坐中国高铁",
+        "onboard_time": 1766909961,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179321,
+        "num": 179321,
+        "word": "范丞丞重新认识了出发的意义",
+        "onboard_time": 1766911399,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163706,
+        "num": 163706,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161296,
+        "num": 161296,
+        "word": "张小婉变化好大",
+        "onboard_time": 1766906840,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149869,
+        "num": 149869,
+        "word": "王菊一步一步一部一部",
+        "onboard_time": 1766911461,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148998,
+        "num": 148998,
+        "word": "女子花上万元跟主播养胃暴瘦30斤",
+        "onboard_time": 1766908100,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 134667,
+        "num": 134667,
+        "word": "万元LV鞋发黄销售说踩了水",
+        "onboard_time": 1766909901,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126621,
+        "num": 126621,
+        "word": "白银价格已暴涨170%",
+        "onboard_time": 1766909541,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122446,
+        "num": 122446,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119304,
+        "num": 119304,
+        "word": "谁在说宋威龙赵今麦不熟啊",
+        "onboard_time": 1766905638,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115669,
+        "num": 115669,
+        "word": "春晚分会场官宣宜宾",
+        "onboard_time": 1766911220,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113161,
+        "num": 113161,
+        "word": "800块的苹果全家桶",
+        "onboard_time": 1766908640,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110098,
+        "num": 110098,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105279,
+        "num": 105279,
+        "word": "2025年度最热cp盘点",
+        "onboard_time": 1766911339,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104688,
+        "num": 104688,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 104610,
+        "word": "逍遥",
+        "onboard_time": 1766897721,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29852,
+        "num": 104463,
+        "word": "男子猥亵继女案受害人母亲发声",
+        "onboard_time": 1766911220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104436,
+        "num": 104436,
+        "word": "偶遇何美延带三娃做手工",
+        "onboard_time": 1766910620,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103986,
+        "num": 103986,
+        "word": "新音最后一天",
+        "onboard_time": 1766911279,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101099,
+        "num": 101099,
+        "word": "陈幸同3比0平野美宇",
+        "onboard_time": 1766910680,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87581,
+        "num": 100245,
+        "word": "台湾游客在东北被抢着买单",
+        "onboard_time": 1766910079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 99763,
+        "word": "金晨长文告别现在就出发",
+        "onboard_time": 1766909779,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97830,
+        "num": 97830,
+        "word": "樊振东王楚钦孙颖莎被授予运动健将",
+        "onboard_time": 1766908041,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 96208,
+        "word": "新加坡街头堪比印度本土集市",
+        "onboard_time": 1766911520,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94465,
+        "num": 94465,
+        "word": "肖战连包5场支持匿杀",
+        "onboard_time": 1766907920,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57797,
+        "num": 93992,
+        "word": "洛阳白马寺千年石马频繁被游客踩踏",
+        "onboard_time": 1766910020,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93860,
+        "num": 93860,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87239,
+        "num": 87239,
+        "word": "这狗狗大孙比那个大孙懂事",
+        "onboard_time": 1766911700,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的足迹#"
+    }
+  }
+}
