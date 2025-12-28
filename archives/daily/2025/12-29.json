@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766958038948,
+  "endTime": 1766960867045,
   "band_list": [
     {
       "raw_hot": 686683,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 187427,
-      "num": 187427,
+      "num": 399018,
       "word": "被非洲洋洋绑架受害人至今无法走路",
       "onboard_time": 1766936480,
       "rank": 13,
@@ -563,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24161,
+      "num": 29030,
+      "word": "辽阳火灾40名公职人员被问责",
+      "onboard_time": 1766926162,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 23752,
       "num": 28631,
       "word": "电影过家家",
@@ -595,11 +603,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17720,
+      "num": 65146,
+      "word": "我国首个6车道改12车道高速通车",
+      "onboard_time": 1766927723,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16912,
       "num": 29036,
       "word": "林屿森发了提线小瓜",
       "onboard_time": 1766948714,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16358,
+      "num": 26149,
+      "word": "聂曦光今天比林屿森高",
+      "onboard_time": 1766955973,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -611,16 +635,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15578,
-      "num": 29030,
-      "word": "辽阳火灾40名公职人员被问责",
-      "onboard_time": 1766926162,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 15213,
-      "num": 16258,
+      "num": 26139,
       "word": "建议苏新皓直拍纳入防沉迷",
       "onboard_time": 1766955133,
       "rank": 27,
@@ -635,12 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13001,
-      "num": 65146,
-      "word": "我国首个6车道改12车道高速通车",
-      "onboard_time": 1766927723,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 13613,
+      "num": 26141,
+      "word": "中国援柬埔寨物资运抵金边",
+      "onboard_time": 1766959454,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13244,
+      "num": 26134,
+      "word": "零跑汽车十周年",
+      "onboard_time": 1766931022,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 11938,
@@ -649,22 +673,6 @@
       "onboard_time": 1766954053,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10365,
-      "num": 16242,
-      "word": "零跑汽车十周年",
-      "onboard_time": 1766931022,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 9798,
-      "num": 16234,
-      "word": "聂曦光今天比林屿森高",
-      "onboard_time": 1766955973,
-      "rank": 47,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
