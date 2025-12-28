@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766914172602,
+  "endTime": 1766914963433,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720497,
+      "num": 454064,
+      "word": "32岁女老师突发脑梗去世",
+      "onboard_time": 1766910501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692568,
       "num": 529248,
       "word": "黄晓明自曝曾救过刘亦菲的命",
@@ -137,14 +145,6 @@
       "onboard_time": 1766886201,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 657575,
-      "num": 454064,
-      "word": "32岁女老师突发脑梗去世",
-      "onboard_time": 1766910501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 620694,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499245,
+      "num": 432110,
+      "word": "谭松韵台词",
+      "onboard_time": 1766911760,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494465,
       "num": 373297,
       "word": "尹正被731馆长误认为是日本人",
@@ -299,14 +307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 432110,
-      "num": 432110,
-      "word": "谭松韵台词",
-      "onboard_time": 1766911760,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 429489,
       "num": 226765,
       "word": "487 潇潇",
@@ -339,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 395523,
+      "num": 212010,
+      "word": "日本老年人称已经没希望了",
+      "onboard_time": 1766912180,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 393198,
       "num": 344011,
       "word": "大盘鸡店嘲讽差评学生学历低",
@@ -369,6 +377,14 @@
       "onboard_time": 1766906480,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362767,
+      "num": 362767,
+      "word": "兔子警官回应作秀质疑",
+      "onboard_time": 1766913440,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360353,
@@ -515,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263217,
-      "num": 140658,
-      "word": "日本老年人称已经没希望了",
-      "onboard_time": 1766912180,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 262772,
       "num": 262772,
       "word": "剑桥硕士面试小学英语教培被刷",
@@ -627,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239833,
+      "num": 215914,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235564,
       "num": 235564,
       "word": "江苏卫视跨年全阵容",
@@ -659,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228239,
+      "num": 228239,
+      "word": "万元LV鞋发黄销售说踩了水",
+      "onboard_time": 1766909901,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 223660,
       "num": 223660,
       "word": "一诺回归后会在二队打一段时间",
       "onboard_time": 1766882178,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223373,
-      "num": 223373,
-      "word": "万元LV鞋发黄销售说踩了水",
-      "onboard_time": 1766909901,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 221134,
@@ -705,14 +721,6 @@
       "onboard_time": 1766885000,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215914,
-      "num": 215914,
-      "word": "半个娱乐圈都来董璇评论区团建了",
-      "onboard_time": 1766913381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 214013,
@@ -867,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175134,
+      "num": 175134,
+      "word": "赵小童吃席都在看骄阳似我",
+      "onboard_time": 1766913740,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174004,
       "num": 174004,
       "word": "马思纯34秒视频换了18套造型",
@@ -961,6 +977,14 @@
       "onboard_time": 1766850923,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161206,
+      "num": 161206,
+      "word": "期末周",
+      "onboard_time": 1766914400,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 159509,
@@ -1075,14 +1099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142453,
-      "num": 142453,
-      "word": "兔子警官回应作秀质疑",
-      "onboard_time": 1766913440,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142182,
       "num": 142182,
       "word": "身高两米女生穿明制汉服去故宫引围观",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1766906421,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141710,
+      "num": 141710,
+      "word": "张小婉 千禧年辣姐",
+      "onboard_time": 1766913562,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 140826,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126798,
+      "num": 126798,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126506,
       "num": 126506,
       "word": "爱莲说的莲是什么花",
@@ -1339,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122085,
-      "num": 122085,
-      "word": "苹果煮水喝好处太多了",
-      "onboard_time": 1766913562,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 121755,
       "num": 121755,
       "word": "何与 天选靳朝诚不我欺",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1766884879,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 119117,
-      "num": 119117,
-      "word": "赵小童吃席都在看骄阳似我",
-      "onboard_time": 1766913740,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 118294,
@@ -1619,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104325,
-      "num": 104325,
-      "word": "张小婉 千禧年辣姐",
-      "onboard_time": 1766913562,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103986,
       "num": 103986,
       "word": "新音最后一天",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1766900780,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98837,
+      "num": 98837,
+      "word": "感觉坐这十分钟能把生死都看淡",
+      "onboard_time": 1766914520,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 98345,
@@ -1987,6 +2003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88067,
+      "num": 88067,
+      "word": "不挂科",
+      "onboard_time": 1766914701,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87982,
       "num": 87982,
       "word": "管泽元赛后安慰Shanks",
@@ -2027,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85458,
+      "num": 85458,
+      "word": "蒯曼总结2025不忘孙颖莎",
+      "onboard_time": 1766914640,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84974,
       "num": 84974,
       "word": "檀健次废土战士风",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1766904622,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84444,
+      "num": 84444,
+      "word": "俄前副国防部长突然去世",
+      "onboard_time": 1766914760,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84357,
@@ -2067,12 +2107,44 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 83502,
+      "num": 83502,
+      "word": "冬天午睡一定要谨慎",
+      "onboard_time": 1766914880,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83451,
+      "num": 83451,
+      "word": "周洁琼绿眸配红唇",
+      "onboard_time": 1766914701,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83281,
+      "num": 83281,
+      "word": "已经到了分开就结婚的年纪",
+      "onboard_time": 1766913800,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82915,
       "num": 82915,
       "word": "章子怡女儿醒醒写书了",
       "onboard_time": 1766904860,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82710,
+      "num": 82710,
+      "word": "范丞丞开团王安宇秒跟",
+      "onboard_time": 1766914880,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 82691,
@@ -2435,6 +2507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27950,
+      "num": 221623,
+      "word": "千玺陪你和更好的自己say嗨",
+      "onboard_time": 1766912720,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27694,
+      "num": 215927,
+      "word": "内存通胀内存条价格一年涨4倍",
+      "onboard_time": 1766913622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26967,
       "num": 47010,
       "word": "苏新皓抓周抓的是镜头",
@@ -2449,14 +2537,6 @@
       "onboard_time": 1766863215,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24769,
-      "num": 221623,
-      "word": "千玺陪你和更好的自己say嗨",
-      "onboard_time": 1766912720,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 24471,
@@ -2529,14 +2609,6 @@
       "onboard_time": 1766840782,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15791,
-      "num": 215927,
-      "word": "内存通胀内存条价格一年涨4倍",
-      "onboard_time": 1766913622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15436,

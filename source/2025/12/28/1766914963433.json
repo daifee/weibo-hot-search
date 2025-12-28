@@ -1,0 +1,410 @@
+{
+  "runTime": 1766914963433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810061,
+        "num": 1129609,
+        "word": "2026春晚分会场发布",
+        "onboard_time": 1766906960,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559293,
+        "num": 559293,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23503,
+        "num": 396677,
+        "word": "故事里的2025",
+        "onboard_time": 1766910801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817620,
+        "num": 385895,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362767,
+        "num": 362767,
+        "word": "兔子警官回应作秀质疑",
+        "onboard_time": 1766913440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499245,
+        "num": 336385,
+        "word": "谭松韵台词",
+        "onboard_time": 1766911760,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309755,
+        "num": 309755,
+        "word": "难怪认识的一个男生老说要嫁人了",
+        "onboard_time": 1766908581,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228239,
+        "num": 228239,
+        "word": "万元LV鞋发黄销售说踩了水",
+        "onboard_time": 1766909901,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213162,
+        "num": 213162,
+        "word": "胡萝卜蛋糕",
+        "onboard_time": 1766907321,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 720497,
+        "num": 213114,
+        "word": "32岁女老师突发脑梗去世",
+        "onboard_time": 1766910501,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418278,
+        "num": 212493,
+        "word": "印度游客乘坐中国高铁",
+        "onboard_time": 1766909961,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395523,
+        "num": 212010,
+        "word": "日本老年人称已经没希望了",
+        "onboard_time": 1766912180,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334082,
+        "num": 210955,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27950,
+        "num": 210525,
+        "word": "千玺陪你和更好的自己say嗨",
+        "onboard_time": 1766912720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246742,
+        "num": 210239,
+        "word": "动物奶油 断句陷阱",
+        "onboard_time": 1766900180,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243409,
+        "num": 209735,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217311,
+        "num": 208686,
+        "word": "炎亚纶发文感谢飞轮海",
+        "onboard_time": 1766906480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208633,
+        "num": 208633,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199628,
+        "num": 199628,
+        "word": "虞书欣华语艺人国际排行榜第一",
+        "onboard_time": 1766905821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196263,
+        "num": 197273,
+        "word": "孙颖莎当时第一时间汇报伤情",
+        "onboard_time": 1766908820,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239833,
+        "num": 197267,
+        "word": "半个娱乐圈都来董璇评论区团建了",
+        "onboard_time": 1766913381,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27694,
+        "num": 197255,
+        "word": "内存通胀内存条价格一年涨4倍",
+        "onboard_time": 1766913622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197246,
+        "num": 197246,
+        "word": "黑色小猫果然耐脏",
+        "onboard_time": 1766909720,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175134,
+        "num": 175134,
+        "word": "赵小童吃席都在看骄阳似我",
+        "onboard_time": 1766913740,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164273,
+        "num": 164273,
+        "word": "逍遥第8集封神",
+        "onboard_time": 1766913200,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161370,
+        "num": 161370,
+        "word": "章子怡女儿醒醒十岁了",
+        "onboard_time": 1766901681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161206,
+        "num": 161206,
+        "word": "期末周",
+        "onboard_time": 1766914400,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154648,
+        "num": 154648,
+        "word": "男子内裤裆部藏70.8克毒品进境",
+        "onboard_time": 1766912480,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154436,
+        "num": 154436,
+        "word": "沈腾画的出发团",
+        "onboard_time": 1766912480,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141710,
+        "num": 141710,
+        "word": "张小婉 千禧年辣姐",
+        "onboard_time": 1766913562,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131518,
+        "num": 131518,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126798,
+        "num": 126798,
+        "word": "苹果煮水喝好处太多了",
+        "onboard_time": 1766913562,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122444,
+        "num": 122444,
+        "word": "逍遥",
+        "onboard_time": 1766897721,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120772,
+        "num": 120772,
+        "word": "空腹爬楼梯瘦了30斤",
+        "onboard_time": 1766904981,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114505,
+        "num": 114505,
+        "word": "王俊凯出发澳门跨年",
+        "onboard_time": 1766911940,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111265,
+        "num": 111265,
+        "word": "王菊一步一步一部一部",
+        "onboard_time": 1766911461,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106308,
+        "num": 106308,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "白银价格已暴涨170%",
+        "onboard_time": 1766909541,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98837,
+        "num": 98837,
+        "word": "感觉坐这十分钟能把生死都看淡",
+        "onboard_time": 1766914520,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32104,
+        "num": 95632,
+        "word": "培育郎朗的钢琴家去世",
+        "onboard_time": 1766909779,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94132,
+        "num": 94132,
+        "word": "李莎旻子历届跨年零点拥抱对象",
+        "onboard_time": 1766913021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88067,
+        "num": 88067,
+        "word": "不挂科",
+        "onboard_time": 1766914701,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86562,
+        "num": 86562,
+        "word": "酒店瓶装水被指发现针孔",
+        "onboard_time": 1766912420,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85458,
+        "num": 85458,
+        "word": "蒯曼总结2025不忘孙颖莎",
+        "onboard_time": 1766914640,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84911,
+        "num": 84911,
+        "word": "范丞丞重新认识了出发的意义",
+        "onboard_time": 1766911399,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84444,
+        "num": 84444,
+        "word": "俄前副国防部长突然去世",
+        "onboard_time": 1766914760,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83502,
+        "num": 83502,
+        "word": "冬天午睡一定要谨慎",
+        "onboard_time": 1766914880,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83451,
+        "num": 83451,
+        "word": "周洁琼绿眸配红唇",
+        "onboard_time": 1766914701,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83281,
+        "num": 83281,
+        "word": "已经到了分开就结婚的年纪",
+        "onboard_time": 1766913800,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82710,
+        "num": 82710,
+        "word": "范丞丞开团王安宇秒跟",
+        "onboard_time": 1766914880,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的足迹#"
+    }
+  }
+}
