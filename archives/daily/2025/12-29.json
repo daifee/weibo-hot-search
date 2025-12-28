@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766940506696,
+  "endTime": 1766942755424,
   "band_list": [
     {
       "raw_hot": 686683,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 53029,
-      "num": 53029,
+      "num": 62795,
       "word": "海南疯狂引进985名校",
       "onboard_time": 1766935222,
       "rank": 46,
@@ -409,6 +409,86 @@
       "onboard_time": 1766931383,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44326,
+      "num": 62627,
+      "word": "过家家",
+      "onboard_time": 1766942536,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 40607,
+      "num": 68710,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36992,
+      "num": 62743,
+      "word": "给孩子买了一件会变色的衣服",
+      "onboard_time": 1766941456,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36318,
+      "num": 62726,
+      "word": "王楚钦连说好几个NO",
+      "onboard_time": 1766927422,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34446,
+      "num": 62696,
+      "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
+      "onboard_time": 1766941217,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34097,
+      "num": 62675,
+      "word": "Karsa宣布退役",
+      "onboard_time": 1766922981,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30141,
+      "num": 62558,
+      "word": "中国足球年度瞬间",
+      "onboard_time": 1766941876,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29456,
+      "num": 62546,
+      "word": "RW与WB会师三亚",
+      "onboard_time": 1766937140,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 28636,
+      "num": 62538,
+      "word": "年度爱用表情",
+      "onboard_time": 1766941337,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 26896,
+      "num": 62525,
+      "word": "无畏问有谁想下来游的",
+      "onboard_time": 1766941217,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 25758,

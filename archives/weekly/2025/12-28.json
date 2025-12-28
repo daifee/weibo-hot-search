@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766940506696,
+  "endTime": 1766942755424,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -3723,6 +3723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44326,
+      "num": 62627,
+      "word": "过家家",
+      "onboard_time": 1766942536,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43032,
       "num": 212777,
       "word": "拟放开放宽除个别超大城市外落户限制",
@@ -3745,6 +3753,14 @@
       "onboard_time": 1766935101,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40607,
+      "num": 68710,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 40401,
@@ -3777,6 +3793,14 @@
       "onboard_time": 1766864534,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36992,
+      "num": 62743,
+      "word": "给孩子买了一件会变色的衣服",
+      "onboard_time": 1766941456,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 36628,
@@ -3816,6 +3840,14 @@
       "word": "视频平台不能因为监督才退费",
       "onboard_time": 1766929702,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34446,
+      "num": 62696,
+      "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
+      "onboard_time": 1766941217,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3875,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30141,
+      "num": 62558,
+      "word": "中国足球年度瞬间",
+      "onboard_time": 1766941876,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30026,
       "num": 115287,
       "word": "一口价卖车销冠称10天定出15台",
@@ -3891,6 +3931,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29456,
+      "num": 62546,
+      "word": "RW与WB会师三亚",
+      "onboard_time": 1766937140,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 28636,
+      "num": 62538,
+      "word": "年度爱用表情",
+      "onboard_time": 1766941337,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27694,
       "num": 215927,
       "word": "内存通胀内存条价格一年涨4倍",
@@ -3905,6 +3961,14 @@
       "onboard_time": 1766862975,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26896,
+      "num": 62525,
+      "word": "无畏问有谁想下来游的",
+      "onboard_time": 1766941217,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 25662,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766942755424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235114,
+        "num": 454718,
+        "word": "王楚钦想远离一下乒乓球",
+        "onboard_time": 1766932823,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142896,
+        "num": 142896,
+        "word": "马年春晚期待住了",
+        "onboard_time": 1766936662,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20650,
+        "num": 140689,
+        "word": "50天后是除夕",
+        "onboard_time": 1766931743,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192260,
+        "num": 140343,
+        "word": "唐嫣好会演",
+        "onboard_time": 1766936900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150774,
+        "num": 140094,
+        "word": "网购羽绒服半个月退回口袋装着机票",
+        "onboard_time": 1766934561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139134,
+        "num": 139134,
+        "word": "妈妈不打麻将早就上清华了",
+        "onboard_time": 1766930782,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119687,
+        "num": 119687,
+        "word": "被非洲洋洋绑架受害人至今无法走路",
+        "onboard_time": 1766936480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113139,
+        "num": 113139,
+        "word": "苏新皓杨博文双人舞台",
+        "onboard_time": 1766921782,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89841,
+        "num": 89841,
+        "word": "17岁少女1年打赏主播40多万元",
+        "onboard_time": 1766932823,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83586,
+        "num": 83586,
+        "word": "橹瑞比心",
+        "onboard_time": 1766937439,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336865,
+        "num": 81015,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165168,
+        "num": 80840,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97621,
+        "num": 79754,
+        "word": "王安宇翻牌",
+        "onboard_time": 1766934682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78062,
+        "num": 78062,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74365,
+        "num": 74365,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 68798,
+        "num": 68798,
+        "word": "26岁女子驾车落水身亡",
+        "onboard_time": 1766931022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51667,
+        "num": 68794,
+        "word": "这两种水果太适合加热吃了",
+        "onboard_time": 1766927301,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50048,
+        "num": 68742,
+        "word": "美国蜜雪冰城店员中文流利",
+        "onboard_time": 1766934502,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42961,
+        "num": 68731,
+        "word": "点外卖备注只要一点点饭时",
+        "onboard_time": 1766920342,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40607,
+        "num": 68710,
+        "word": "小猫四条腿各跑各的",
+        "onboard_time": 1766941217,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96080,
+        "num": 68662,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766926462,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75958,
+        "num": 68646,
+        "word": "得闲谨制4次票房逆跌",
+        "onboard_time": 1766934443,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71921,
+        "num": 68620,
+        "word": "今年女明星最出圈的四组图",
+        "onboard_time": 1766934502,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71682,
+        "num": 68585,
+        "word": "苏新皓哭了",
+        "onboard_time": 1766929341,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68565,
+        "num": 68565,
+        "word": "侯明昊好帅",
+        "onboard_time": 1766936122,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66312,
+        "num": 66312,
+        "word": "何与 靳朝是最接近自己的",
+        "onboard_time": 1766923401,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63920,
+        "num": 63920,
+        "word": "刘耀文 撕漫男",
+        "onboard_time": 1766917522,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63901,
+        "num": 63901,
+        "word": "宋威龙林屿森新中式男友",
+        "onboard_time": 1766939120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49831,
+        "num": 62873,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 37265,
+        "num": 62795,
+        "word": "海南疯狂引进985名校",
+        "onboard_time": 1766935222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62782,
+        "num": 62782,
+        "word": "骄阳似我男二戏份",
+        "onboard_time": 1766928742,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60195,
+        "num": 62769,
+        "word": "现在就出发3",
+        "onboard_time": 1766937981,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63442,
+        "num": 62764,
+        "word": "宋威龙 这次换我来拍",
+        "onboard_time": 1766932403,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36992,
+        "num": 62743,
+        "word": "给孩子买了一件会变色的衣服",
+        "onboard_time": 1766941456,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36318,
+        "num": 62726,
+        "word": "王楚钦连说好几个NO",
+        "onboard_time": 1766927422,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59114,
+        "num": 62721,
+        "word": "虞书欣特别感谢小石榴们",
+        "onboard_time": 1766922562,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55930,
+        "num": 62708,
+        "word": "朱志鑫宽肩窄腰daddy级别",
+        "onboard_time": 1766933783,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34446,
+        "num": 62696,
+        "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
+        "onboard_time": 1766941217,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34097,
+        "num": 62675,
+        "word": "Karsa宣布退役",
+        "onboard_time": 1766922981,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30607,
+        "num": 62661,
+        "word": "王楚钦不太在乎仪式感",
+        "onboard_time": 1766936782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53733,
+        "num": 62644,
+        "word": "杨博文跳舞",
+        "onboard_time": 1766932643,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49000,
+        "num": 62641,
+        "word": "穆祉丞带王橹杰进拍子",
+        "onboard_time": 1766932762,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44326,
+        "num": 62627,
+        "word": "过家家",
+        "onboard_time": 1766942536,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41039,
+        "num": 62608,
+        "word": "微博之夜",
+        "onboard_time": 1766922382,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40549,
+        "num": 62586,
+        "word": "寻秦记",
+        "onboard_time": 1766935701,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30432,
+        "num": 62583,
+        "word": "70岁大爷买13克金戒1年半少0.23克",
+        "onboard_time": 1766928502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30141,
+        "num": 62558,
+        "word": "中国足球年度瞬间",
+        "onboard_time": 1766941876,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29456,
+        "num": 62546,
+        "word": "RW与WB会师三亚",
+        "onboard_time": 1766937140,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28636,
+        "num": 62538,
+        "word": "年度爱用表情",
+        "onboard_time": 1766941337,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26896,
+        "num": 62525,
+        "word": "无畏问有谁想下来游的",
+        "onboard_time": 1766941217,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}

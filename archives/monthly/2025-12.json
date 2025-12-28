@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766940506696,
+  "endTime": 1766942755424,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -88403,6 +88403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44326,
+      "num": 62627,
+      "word": "过家家",
+      "onboard_time": 1766942536,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44320,
       "num": 113817,
       "word": "国外女子产下不同父亲的双胞胎",
@@ -89569,6 +89577,14 @@
       "onboard_time": 1766843663,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40607,
+      "num": 68710,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 40594,
@@ -90963,6 +90979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36992,
+      "num": 62743,
+      "word": "给孩子买了一件会变色的衣服",
+      "onboard_time": 1766941456,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36985,
       "num": 137124,
       "word": "深圳望郎归80天内3人徒步遇难",
@@ -91865,6 +91889,14 @@
       "onboard_time": 1765302675,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 34446,
+      "num": 62696,
+      "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
+      "onboard_time": 1766941217,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34363,
@@ -93635,6 +93667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30141,
+      "num": 62558,
+      "word": "中国足球年度瞬间",
+      "onboard_time": 1766941876,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30113,
       "num": 110011,
       "word": "杨千嬅儿子长这么高了",
@@ -93913,6 +93953,14 @@
       "onboard_time": 1765800260,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 29456,
+      "num": 62546,
+      "word": "RW与WB会师三亚",
+      "onboard_time": 1766937140,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 29444,
@@ -94289,6 +94337,14 @@
       "onboard_time": 1765632865,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28636,
+      "num": 62538,
+      "word": "年度爱用表情",
+      "onboard_time": 1766941337,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 28624,
@@ -94889,6 +94945,14 @@
       "onboard_time": 1765617801,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26896,
+      "num": 62525,
+      "word": "无畏问有谁想下来游的",
+      "onboard_time": 1766941217,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 26889,
