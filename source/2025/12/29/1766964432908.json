@@ -1,0 +1,410 @@
+{
+  "runTime": 1766964432908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372620,
+        "num": 796355,
+        "word": "被非洲洋洋绑架受害人至今无法走路",
+        "onboard_time": 1766936480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221004,
+        "num": 221004,
+        "word": "王楚钦想远离一下乒乓球",
+        "onboard_time": 1766932823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43893,
+        "num": 162889,
+        "word": "我国首个6车道改12车道高速通车",
+        "onboard_time": 1766927723,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319071,
+        "num": 162203,
+        "word": "网购羽绒服半个月退回口袋装着机票",
+        "onboard_time": 1766934561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154160,
+        "num": 154160,
+        "word": "17岁少女1年打赏主播40多万元",
+        "onboard_time": 1766932823,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 183442,
+        "num": 154150,
+        "word": "妈妈不打麻将早就上清华了",
+        "onboard_time": 1766930782,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152772,
+        "num": 152772,
+        "word": "70岁大爷买13克金戒1年半少0.23克",
+        "onboard_time": 1766928502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138544,
+        "num": 138544,
+        "word": "26岁女子驾车落水身亡",
+        "onboard_time": 1766931022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 136183,
+        "word": "马年春晚期待住了",
+        "onboard_time": 1766936662,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135540,
+        "num": 135540,
+        "word": "特朗普见泽连斯基前后均与普京通话",
+        "onboard_time": 1766962095,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321911,
+        "num": 124352,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277120,
+        "num": 122926,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167374,
+        "num": 121309,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 109233,
+        "word": "唐嫣好会演",
+        "onboard_time": 1766936900,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "赵樱子说降不住彭冠英",
+        "onboard_time": 1766929042,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95798,
+        "num": 95798,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90128,
+        "num": 90128,
+        "word": "特朗普与泽连斯基开始会晤",
+        "onboard_time": 1766962155,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87019,
+        "num": 87019,
+        "word": "锤娜丽莎我有点不认识你了",
+        "onboard_time": 1766931743,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83223,
+        "num": 83223,
+        "word": "得闲谨制4次票房逆跌",
+        "onboard_time": 1766934443,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73522,
+        "num": 73522,
+        "word": "这两种水果太适合加热吃了",
+        "onboard_time": 1766927301,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72445,
+        "num": 72445,
+        "word": "今年女明星最出圈的四组图",
+        "onboard_time": 1766934502,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72169,
+        "num": 72169,
+        "word": "骄阳似我男二戏份",
+        "onboard_time": 1766928742,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69636,
+        "num": 69636,
+        "word": "现在就出发",
+        "onboard_time": 1766964138,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63276,
+        "num": 63276,
+        "word": "美国蜜雪冰城店员中文流利",
+        "onboard_time": 1766934502,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57017,
+        "num": 57017,
+        "word": "菜放的位置都离女子很远",
+        "onboard_time": 1766963778,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56402,
+        "num": 56402,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 54333,
+        "num": 54333,
+        "word": "人之初",
+        "onboard_time": 1766963477,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50787,
+        "num": 50787,
+        "word": "韩国总统重回青瓦台",
+        "onboard_time": 1766964197,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48410,
+        "num": 48410,
+        "word": "17岁少年在家种出冠军睡莲",
+        "onboard_time": 1766933723,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46493,
+        "num": 46493,
+        "word": "大湾鸡已到哈尔滨",
+        "onboard_time": 1766964197,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60690,
+        "num": 46491,
+        "word": "原来这就是走路送髋的技巧",
+        "onboard_time": 1766964077,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 46195,
+        "num": 46195,
+        "word": "中国援柬埔寨物资运抵金边",
+        "onboard_time": 1766959454,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51843,
+        "num": 45708,
+        "word": "当小狗看到主人穿得毛绒绒",
+        "onboard_time": 1766964019,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44269,
+        "num": 44269,
+        "word": "辽阳火灾40名公职人员被问责",
+        "onboard_time": 1766926162,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 41796,
+        "num": 41796,
+        "word": "王安宇翻牌",
+        "onboard_time": 1766934682,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39238,
+        "num": 39238,
+        "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
+        "onboard_time": 1766941217,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37554,
+        "num": 37554,
+        "word": "今日说法主持人被骗买茶叶后续",
+        "onboard_time": 1766963596,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36363,
+        "num": 36363,
+        "word": "侯明昊好帅",
+        "onboard_time": 1766936122,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35958,
+        "num": 35958,
+        "word": "老板说这狗长大会很帅",
+        "onboard_time": 1766963837,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35729,
+        "num": 35729,
+        "word": "王楚钦连说好几个NO",
+        "onboard_time": 1766927422,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35337,
+        "num": 35337,
+        "word": "小猫四条腿各跑各的",
+        "onboard_time": 1766941217,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34992,
+        "num": 34992,
+        "word": "双轨",
+        "onboard_time": 1766964316,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34545,
+        "num": 34545,
+        "word": "网红小英回应变化大",
+        "onboard_time": 1766927962,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33824,
+        "num": 33824,
+        "word": "Knight直播回应BLG德杯12强",
+        "onboard_time": 1766964316,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33647,
+        "num": 33647,
+        "word": "穆祉丞带王橹杰进拍子",
+        "onboard_time": 1766932762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31116,
+        "num": 33633,
+        "word": "长安二十四计",
+        "onboard_time": 1766964378,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31006,
+        "num": 33628,
+        "word": "年度报告",
+        "onboard_time": 1766946374,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 30689,
+        "num": 33614,
+        "word": "Bin直播标题",
+        "onboard_time": 1766964257,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29980,
+        "num": 33599,
+        "word": "Karsa宣布退役",
+        "onboard_time": 1766922981,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29537,
+        "num": 33583,
+        "word": "聂曦光今天比林屿森高",
+        "onboard_time": 1766955973,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
