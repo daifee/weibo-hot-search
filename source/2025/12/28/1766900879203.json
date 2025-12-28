@@ -1,0 +1,410 @@
+{
+  "runTime": 1766900879203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944597,
+        "num": 1151135,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642959,
+        "num": 642959,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 43288,
+        "num": 614052,
+        "word": "中国军事年终大片太硬核了",
+        "onboard_time": 1766893160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1716974,
+        "num": 589629,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398891,
+        "num": 569835,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 692568,
+        "num": 529248,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524683,
+        "num": 524683,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316764,
+        "num": 316764,
+        "word": "日本发生57车连撞事故",
+        "onboard_time": 1766896160,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245393,
+        "num": 245393,
+        "word": "逍遥",
+        "onboard_time": 1766897721,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228465,
+        "num": 228465,
+        "word": "深圳博物馆火了",
+        "onboard_time": 1766898260,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600401,
+        "num": 226427,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548014,
+        "num": 225188,
+        "word": "艾米艺考",
+        "onboard_time": 1766898440,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489346,
+        "num": 222539,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256529,
+        "num": 218498,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253548,
+        "num": 216090,
+        "word": "迪丽热巴感谢观众喜欢邓妍",
+        "onboard_time": 1766897540,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215254,
+        "num": 215254,
+        "word": "王星说恋爱4年没结婚是因为结不起",
+        "onboard_time": 1766894600,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214723,
+        "num": 214723,
+        "word": "深圳大学女团夺冠",
+        "onboard_time": 1766900300,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207978,
+        "num": 207978,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199992,
+        "num": 199992,
+        "word": "尚雯婕胃里割了六个息肉",
+        "onboard_time": 1766893459,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 199909,
+        "word": "陷入简历焦虑的职场人",
+        "onboard_time": 1766899880,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209780,
+        "num": 199906,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199904,
+        "num": 199904,
+        "word": "深圳大学3比1山东鲁能",
+        "onboard_time": 1766900420,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197356,
+        "num": 197356,
+        "word": "陈哲远 下半身还是能用的",
+        "onboard_time": 1766898740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187660,
+        "num": 187660,
+        "word": "经常熬夜身体会悄悄变硬",
+        "onboard_time": 1766893580,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169670,
+        "num": 169670,
+        "word": "江奇霖不回避给孩子看反人类暴行",
+        "onboard_time": 1766900480,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166768,
+        "num": 166768,
+        "word": "殷世航曝网红情侣很多都是假的",
+        "onboard_time": 1766899821,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153515,
+        "num": 153515,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147956,
+        "num": 147956,
+        "word": "山东鲁能女团亚军",
+        "onboard_time": 1766900601,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142770,
+        "num": 142770,
+        "word": "骄阳似我",
+        "onboard_time": 1766893099,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142570,
+        "num": 142570,
+        "word": "专家科普原叶茶或茶饮料不足以成瘾",
+        "onboard_time": 1766898561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140623,
+        "num": 140623,
+        "word": "一诺暂时告别赛场",
+        "onboard_time": 1766845885,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137702,
+        "num": 137702,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 136836,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125833,
+        "num": 125833,
+        "word": "疑似内娱跳的最齐的一回",
+        "onboard_time": 1766897421,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125805,
+        "num": 125805,
+        "word": "檀健次科目一更新了",
+        "onboard_time": 1766899999,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121339,
+        "num": 121339,
+        "word": "张本智和难忘青奥会不敌王楚钦",
+        "onboard_time": 1766899821,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120760,
+        "num": 120760,
+        "word": "泰国女子把女儿骗到日本卖淫",
+        "onboard_time": 1766886201,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24471,
+        "num": 119840,
+        "word": "老人花14万网购癌症特效药",
+        "onboard_time": 1766899880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54410,
+        "num": 119815,
+        "word": "虞书欣何与双轨收官剧照",
+        "onboard_time": 1766899701,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63780,
+        "num": 119812,
+        "word": "特朗普称爱泼斯坦案是政治迫害",
+        "onboard_time": 1766898680,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119809,
+        "num": 119809,
+        "word": "爱奇艺回应充25年会员退费难",
+        "onboard_time": 1766887820,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111811,
+        "num": 111811,
+        "word": "于正说娜扎美到后无来者",
+        "onboard_time": 1766899279,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108530,
+        "num": 108530,
+        "word": "阳台上突然出现六个小狗头",
+        "onboard_time": 1766900241,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108513,
+        "num": 108513,
+        "word": "叶寒冰任副省长时长期出入私人会所",
+        "onboard_time": 1766898141,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104686,
+        "num": 104686,
+        "word": "59%美国人无法承担1000美元意外支出",
+        "onboard_time": 1766898861,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103060,
+        "num": 103060,
+        "word": "单依纯公开承认自己有表达障碍",
+        "onboard_time": 1766841082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98913,
+        "num": 98913,
+        "word": "Cryin谈和GEN选手打比赛",
+        "onboard_time": 1766900780,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97755,
+        "num": 97755,
+        "word": "2026年大力提振消费",
+        "onboard_time": 1766900720,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96526,
+        "num": 96526,
+        "word": "金晨被白敬亭怀疑的抬不起头",
+        "onboard_time": 1766900840,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95914,
+        "num": 95914,
+        "word": "张柏芝耳骨夹",
+        "onboard_time": 1766896341,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#务实是必备品格#"
+    }
+  }
+}

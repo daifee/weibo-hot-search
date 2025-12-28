@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766899992141,
+  "endTime": 1766900879203,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1889716,
-      "num": 513533,
+      "num": 589629,
       "word": "黄子韬因脑淤血手术缝了43针",
       "onboard_time": 1766896460,
       "rank": 3,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692568,
+      "num": 529248,
+      "word": "黄晓明自曝曾救过刘亦菲的命",
+      "onboard_time": 1766896640,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677152,
       "num": 404264,
       "word": "南京震感",
@@ -121,14 +129,6 @@
       "onboard_time": 1766886201,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 664956,
-      "num": 401673,
-      "word": "黄晓明自曝曾救过刘亦菲的命",
-      "onboard_time": 1766896640,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 619933,
@@ -147,12 +147,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600401,
+      "num": 248982,
+      "word": "王橹杰 懂得都懂",
+      "onboard_time": 1766898800,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554660,
       "num": 554660,
       "word": "Hero战胜AG",
       "onboard_time": 1766844562,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 548014,
+      "num": 249071,
+      "word": "艾米艺考",
+      "onboard_time": 1766898440,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524683,
+      "num": 524683,
+      "word": "原来这就是软孤立",
+      "onboard_time": 1766897600,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 523648,
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449351,
-      "num": 249071,
-      "word": "艾米艺考",
-      "onboard_time": 1766898440,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447115,
       "num": 258374,
       "word": "姚晨发文纪念高崎机场即将关闭",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 410241,
-      "num": 410241,
+      "num": 569835,
       "word": "美媒关注中国网友讨论美国斩杀线",
       "onboard_time": 1766895381,
       "rank": 17,
@@ -249,22 +265,6 @@
       "onboard_time": 1766882959,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388634,
-      "num": 388634,
-      "word": "原来这就是软孤立",
-      "onboard_time": 1766897600,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 387631,
-      "num": 248982,
-      "word": "王橹杰 懂得都懂",
-      "onboard_time": 1766898800,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 379355,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 244163,
-      "num": 181119,
+      "num": 187660,
       "word": "经常熬夜身体会悄悄变硬",
       "onboard_time": 1766893580,
       "rank": 30,
@@ -441,6 +441,14 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228465,
+      "num": 228465,
+      "word": "深圳博物馆火了",
+      "onboard_time": 1766898260,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223660,
@@ -475,16 +483,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209749,
-      "num": 209749,
-      "word": "深圳博物馆火了",
-      "onboard_time": 1766898260,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 214723,
+      "num": 214723,
+      "word": "深圳大学女团夺冠",
+      "onboard_time": 1766900300,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209780,
+      "num": 199906,
+      "word": "尹正被731馆长误认为是日本人",
+      "onboard_time": 1766900360,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 207907,
-      "num": 169661,
+      "num": 197356,
       "word": "陈哲远 下半身还是能用的",
       "onboard_time": 1766898740,
       "rank": 22,
@@ -513,6 +529,14 @@
       "onboard_time": 1766856378,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 199904,
+      "num": 199904,
+      "word": "深圳大学3比1山东鲁能",
+      "onboard_time": 1766900420,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 198370,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169670,
+      "num": 169670,
+      "word": "江奇霖不回避给孩子看反人类暴行",
+      "onboard_time": 1766900480,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168985,
       "num": 168985,
       "word": "罚罪2没有把女性友好当口号",
@@ -633,6 +665,14 @@
       "onboard_time": 1766896099,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166768,
+      "num": 166768,
+      "word": "殷世航曝网红情侣很多都是假的",
+      "onboard_time": 1766899821,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 163345,
@@ -681,6 +721,14 @@
       "onboard_time": 1766883319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147956,
+      "num": 147956,
+      "word": "山东鲁能女团亚军",
+      "onboard_time": 1766900601,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 147225,
@@ -827,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125805,
+      "num": 125805,
+      "word": "檀健次科目一更新了",
+      "onboard_time": 1766899999,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124960,
       "num": 124960,
       "word": "59%美国人无法承担1000美元意外支出",
@@ -883,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121339,
+      "num": 121339,
+      "word": "张本智和难忘青奥会不敌王楚钦",
+      "onboard_time": 1766899821,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120343,
       "num": 120343,
       "word": "睡莲不是莲",
@@ -897,14 +961,6 @@
       "onboard_time": 1766884879,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 119311,
-      "num": 119311,
-      "word": "殷世航曝网红情侣很多都是假的",
-      "onboard_time": 1766899821,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 118294,
@@ -928,14 +984,6 @@
       "word": "蒯曼平野美宇3比0陈幸同钱天一",
       "onboard_time": 1766895859,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114664,
-      "num": 114664,
-      "word": "张本智和难忘青奥会不敌王楚钦",
-      "onboard_time": 1766899821,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -979,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111811,
+      "num": 120413,
+      "word": "于正说娜扎美到后无来者",
+      "onboard_time": 1766899279,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108892,
       "num": 157750,
       "word": "Hero晋级挑杯败者组决赛",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1766894961,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 108530,
+      "num": 108530,
+      "word": "阳台上突然出现六个小狗头",
+      "onboard_time": 1766900241,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 108362,
@@ -1147,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98913,
+      "num": 98913,
+      "word": "Cryin谈和GEN选手打比赛",
+      "onboard_time": 1766900780,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98345,
       "num": 98345,
       "word": "深圳大学1比0山东鲁能",
@@ -1171,11 +1243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97755,
+      "num": 97755,
+      "word": "2026年大力提振消费",
+      "onboard_time": 1766900720,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97149,
       "num": 114340,
       "word": "白鹿互联网是没你在乎的人了吗",
       "onboard_time": 1766898500,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96526,
+      "num": 96526,
+      "word": "金晨被白敬亭怀疑的抬不起头",
+      "onboard_time": 1766900840,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1371,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63780,
+      "num": 171788,
+      "word": "特朗普称爱泼斯坦案是政治迫害",
+      "onboard_time": 1766898680,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60986,
       "num": 60986,
       "word": "公积金贷款利率调整表",
@@ -1388,7 +1484,7 @@
     },
     {
       "raw_hot": 58868,
-      "num": 554051,
+      "num": 614052,
       "word": "中国军事年终大片太硬核了",
       "onboard_time": 1766893160,
       "rank": 2,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1766877376,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54410,
+      "num": 120439,
+      "word": "虞书欣何与双轨收官剧照",
+      "onboard_time": 1766899701,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 52912,
@@ -1443,28 +1547,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42072,
-      "num": 120413,
-      "word": "于正说娜扎美到后无来者",
-      "onboard_time": 1766899279,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40401,
       "num": 51916,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39970,
-      "num": 171788,
-      "word": "特朗普称爱泼斯坦案是政治迫害",
-      "onboard_time": 1766898680,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38430,
@@ -1563,12 +1651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23900,
-      "num": 120439,
-      "word": "虞书欣何与双轨收官剧照",
-      "onboard_time": 1766899701,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 24471,
+      "num": 120512,
+      "word": "老人花14万网购癌症特效药",
+      "onboard_time": 1766899880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24078,
+      "num": 199909,
+      "word": "陷入简历焦虑的职场人",
+      "onboard_time": 1766899880,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 23609,
@@ -1635,28 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8488,
-      "num": 120512,
-      "word": "老人花14万网购癌症特效药",
-      "onboard_time": 1766899880,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8171,
       "num": 103843,
       "word": "特朗普关税政策翻车",
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7349,
-      "num": 123242,
-      "word": "陷入简历焦虑的职场人",
-      "onboard_time": 1766899880,
-      "rank": 35,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
