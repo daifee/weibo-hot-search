@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766949791654,
+  "endTime": 1766950664206,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -98713,6 +98713,14 @@
       "onboard_time": 1765135094,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15825,
+      "num": 26311,
+      "word": "陈浚铭元气小蛋糕",
+      "onboard_time": 1766949794,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 15802,
