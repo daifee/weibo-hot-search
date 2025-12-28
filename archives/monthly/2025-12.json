@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766917759767,
+  "endTime": 1766918745445,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -3835,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 864803,
+      "num": 1138368,
+      "word": "兔子警官回应作秀质疑",
+      "onboard_time": 1766913440,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 863841,
       "num": 515383,
       "word": "医生禁止把玩患者",
@@ -4161,14 +4169,6 @@
       "onboard_time": 1764749963,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 827583,
-      "num": 827583,
-      "word": "兔子警官回应作秀质疑",
-      "onboard_time": 1766913440,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 827112,
@@ -6363,6 +6363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649882,
+      "num": 285663,
+      "word": "王梓莼称没有霸凌任何人",
+      "onboard_time": 1766915662,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 649689,
       "num": 1103950,
       "word": "肝癌晚期父亲让女儿陪着买寿衣",
@@ -7852,7 +7860,7 @@
     },
     {
       "raw_hot": 575463,
-      "num": 191123,
+      "num": 276179,
       "word": "严浩翔美式前刺",
       "onboard_time": 1766916021,
       "rank": 11,
@@ -8369,14 +8377,6 @@
       "onboard_time": 1764550222,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 556184,
-      "num": 189983,
-      "word": "王梓莼称没有霸凌任何人",
-      "onboard_time": 1766915662,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 556103,
@@ -9523,6 +9523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517924,
+      "num": 517924,
+      "word": "张杰谢娜 同台",
+      "onboard_time": 1766915181,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 517707,
       "num": 517707,
       "word": "27岁瞒着所有人买了一套房",
@@ -10531,6 +10539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487443,
+      "num": 487443,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486925,
       "num": 486925,
       "word": "浙江卫视跨年晚会官宣",
@@ -10961,14 +10977,6 @@
       "onboard_time": 1766579781,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 476500,
-      "num": 476500,
-      "word": "张杰谢娜 同台",
-      "onboard_time": 1766915181,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 475770,
@@ -12185,6 +12193,14 @@
       "onboard_time": 1765324160,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444971,
+      "num": 283677,
+      "word": "严浩翔 马丁",
+      "onboard_time": 1766917220,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 444779,
@@ -13596,7 +13612,7 @@
     },
     {
       "raw_hot": 411083,
-      "num": 212010,
+      "num": 281850,
       "word": "日本老年人称已经没希望了",
       "onboard_time": 1766912180,
       "rank": 30,
@@ -14033,14 +14049,6 @@
       "onboard_time": 1766308703,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 401115,
-      "num": 312246,
-      "word": "半个娱乐圈都来董璇评论区团建了",
-      "onboard_time": 1766913381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 400961,
@@ -18731,6 +18739,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 315355,
+      "num": 281264,
+      "word": "刘耀文 撕漫男",
+      "onboard_time": 1766917522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 315269,
       "num": 238337,
       "word": "台当局扬言报复韩国",
@@ -20523,6 +20539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287711,
+      "num": 287711,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 287621,
       "num": 289800,
       "word": "深圳大学女团夺冠",
@@ -21105,6 +21129,14 @@
       "onboard_time": 1765202362,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280573,
+      "num": 202719,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280407,
@@ -23819,14 +23851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 246925,
-      "num": 178433,
-      "word": "苹果煮水喝好处太多了",
-      "onboard_time": 1766913562,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246906,
       "num": 185362,
       "word": "马国明父亲葬礼",
@@ -24569,14 +24593,6 @@
       "onboard_time": 1765603040,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 238212,
-      "num": 238212,
-      "word": "仙逆",
-      "onboard_time": 1764500120,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 238130,
@@ -25556,7 +25572,7 @@
     },
     {
       "raw_hot": 228239,
-      "num": 228239,
+      "num": 286723,
       "word": "万元LV鞋发黄销售说踩了水",
       "onboard_time": 1766909901,
       "rank": 43,
@@ -27929,14 +27945,6 @@
       "onboard_time": 1766471121,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207918,
-      "num": 182860,
-      "word": "严浩翔 马丁",
-      "onboard_time": 1766917220,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 207900,
@@ -31945,6 +31953,14 @@
       "onboard_time": 1765880842,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190926,
+      "num": 124979,
+      "word": "干了一辈子拿了二三十万的裁员费",
+      "onboard_time": 1766918061,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 190914,
@@ -37571,6 +37587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167551,
+      "num": 167551,
+      "word": "单依纯二专首首都是主打",
+      "onboard_time": 1766917880,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167529,
       "num": 172962,
       "word": "姐弟7万买相邻墓位下葬发现不相邻",
@@ -39203,14 +39227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161244,
-      "num": 117893,
-      "word": "刘耀文 撕漫男",
-      "onboard_time": 1766917522,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 161238,
       "num": 161238,
       "word": "流感病毒有效药物",
@@ -39795,6 +39811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158861,
+      "num": 158861,
+      "word": "商场展车被小孩误触撞入手机店",
+      "onboard_time": 1766916381,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158859,
       "num": 158859,
       "word": "马来西亚重启MH370深海搜寻",
@@ -39857,14 +39881,6 @@
       "onboard_time": 1765615402,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158661,
-      "num": 158661,
-      "word": "商场展车被小孩误触撞入手机店",
-      "onboard_time": 1766916381,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158618,
@@ -47059,6 +47075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137813,
+      "num": 137813,
+      "word": "黄石华新vs山东魏桥",
+      "onboard_time": 1766918300,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "特朗普说不点名又点名",
@@ -47729,6 +47753,14 @@
       "onboard_time": 1766203041,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136334,
+      "num": 136334,
+      "word": "王林问鼎",
+      "onboard_time": 1766918061,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 136325,
@@ -57011,6 +57043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117590,
+      "num": 117590,
+      "word": "王源巨型斜开舞台仅使用三天",
+      "onboard_time": 1766918481,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117553,
       "num": 117553,
       "word": "骄阳似我 曦光怒动画",
@@ -59049,6 +59089,14 @@
       "onboard_time": 1764754823,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113802,
+      "num": 113802,
+      "word": "家长花钱拍照宝宝没一张笑的",
+      "onboard_time": 1766917162,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 113800,
@@ -61777,6 +61825,14 @@
       "onboard_time": 1765088961,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108848,
+      "num": 108848,
+      "word": "已经到了分开就结婚的年纪",
+      "onboard_time": 1766913800,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108840,
@@ -64979,6 +65035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103244,
+      "num": 103244,
+      "word": "鹿晗工作室回应还在运营QQ空间",
+      "onboard_time": 1766917283,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103234,
       "num": 103234,
       "word": "得闲谨制票房是排片的两倍",
@@ -66457,6 +66521,14 @@
       "onboard_time": 1766023042,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101128,
+      "num": 101128,
+      "word": "范丞丞舞帝教科书回归",
+      "onboard_time": 1766918360,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 101123,
@@ -68211,14 +68283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98330,
-      "num": 98330,
-      "word": "鹿晗工作室回应还在运营QQ空间",
-      "onboard_time": 1766917283,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98322,
       "num": 106495,
       "word": "N1听力",
@@ -68953,14 +69017,6 @@
       "onboard_time": 1765194261,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96827,
-      "num": 96827,
-      "word": "家长花钱拍照宝宝没一张笑的",
-      "onboard_time": 1766917162,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 96818,
@@ -75459,6 +75515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83673,
+      "num": 100731,
+      "word": "贵州茅台董事长谈茅台价格",
+      "onboard_time": 1766916801,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83632,
       "num": 83632,
       "word": "官方通报男子住院后突发狂躁死亡",
@@ -75601,14 +75665,6 @@
       "onboard_time": 1764852202,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83281,
-      "num": 83281,
-      "word": "已经到了分开就结婚的年纪",
-      "onboard_time": 1766913800,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 83273,
@@ -75881,6 +75937,14 @@
       "onboard_time": 1766830160,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82821,
+      "num": 82821,
+      "word": "Faker的增高刘海",
+      "onboard_time": 1766917760,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 82792,
@@ -76385,6 +76449,14 @@
       "onboard_time": 1764544578,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81706,
+      "num": 110952,
+      "word": "王楚钦决赛热身",
+      "onboard_time": 1766917401,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 81672,
@@ -77145,14 +77217,6 @@
       "onboard_time": 1764764001,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 79264,
-      "num": 110952,
-      "word": "王楚钦决赛热身",
-      "onboard_time": 1766917401,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 79217,
@@ -78883,14 +78947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73977,
-      "num": 89437,
-      "word": "贵州茅台董事长谈茅台价格",
-      "onboard_time": 1766916801,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73881,
       "num": 264724,
       "word": "问界56789产品矩阵将补齐",
@@ -79449,6 +79505,14 @@
       "onboard_time": 1764679162,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71863,
+      "num": 81432,
+      "word": "薛飞刘冠成vs梁靖崑林昀儒",
+      "onboard_time": 1766918481,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71854,

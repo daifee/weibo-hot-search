@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766917759767,
+  "endTime": 1766918745445,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -83,8 +83,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 827583,
-      "num": 827583,
+      "raw_hot": 864803,
+      "num": 1138368,
       "word": "兔子警官回应作秀质疑",
       "onboard_time": 1766913440,
       "rank": 29,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 649882,
+      "num": 285663,
+      "word": "王梓莼称没有霸凌任何人",
+      "onboard_time": 1766915662,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620694,
       "num": 277642,
       "word": "王橹杰 懂得都懂",
@@ -204,19 +212,11 @@
     },
     {
       "raw_hot": 575463,
-      "num": 191123,
+      "num": 276179,
       "word": "严浩翔美式前刺",
       "onboard_time": 1766916021,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 556184,
-      "num": 189983,
-      "word": "王梓莼称没有霸凌任何人",
-      "onboard_time": 1766915662,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 554660,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517924,
+      "num": 517924,
+      "word": "张杰谢娜 同台",
+      "onboard_time": 1766915181,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 517394,
       "num": 517394,
       "word": "男子内裤裆部藏70.8克毒品进境",
@@ -291,12 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 476500,
-      "num": 476500,
-      "word": "张杰谢娜 同台",
-      "onboard_time": 1766915181,
-      "rank": 4,
-      "category": "演出"
+      "raw_hot": 487443,
+      "num": 487443,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 471995,
@@ -339,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 444971,
+      "num": 283677,
+      "word": "严浩翔 马丁",
+      "onboard_time": 1766917220,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 443648,
       "num": 220627,
       "word": "印度游客乘坐中国高铁",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 411083,
-      "num": 212010,
+      "num": 281850,
       "word": "日本老年人称已经没希望了",
       "onboard_time": 1766912180,
       "rank": 30,
@@ -393,14 +409,6 @@
       "onboard_time": 1766849308,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 401115,
-      "num": 312246,
-      "word": "半个娱乐圈都来董璇评论区团建了",
-      "onboard_time": 1766913381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 393198,
@@ -491,6 +499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 315355,
+      "num": 281264,
+      "word": "刘耀文 撕漫男",
+      "onboard_time": 1766917522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 312724,
       "num": 482619,
       "word": "孙颖莎当时第一时间汇报伤情",
@@ -513,6 +529,14 @@
       "onboard_time": 1766835259,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287711,
+      "num": 287711,
+      "word": "仙逆",
+      "onboard_time": 1766916442,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 287621,
@@ -545,6 +569,14 @@
       "onboard_time": 1766851162,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 280573,
+      "num": 202719,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279598,
@@ -667,14 +699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 246925,
-      "num": 178433,
-      "word": "苹果煮水喝好处太多了",
-      "onboard_time": 1766913562,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 244163,
       "num": 187660,
       "word": "经常熬夜身体会悄悄变硬",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 228239,
-      "num": 228239,
+      "num": 286723,
       "word": "万元LV鞋发黄销售说踩了水",
       "onboard_time": 1766909901,
       "rank": 43,
@@ -777,14 +801,6 @@
       "onboard_time": 1766899279,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207918,
-      "num": 182860,
-      "word": "严浩翔 马丁",
-      "onboard_time": 1766917220,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 206350,
@@ -859,20 +875,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192901,
-      "num": 192901,
-      "word": "仙逆",
-      "onboard_time": 1766916442,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 191324,
       "num": 164216,
       "word": "深圳大学2比1山东鲁能",
       "onboard_time": 1766898980,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190926,
+      "num": 124979,
+      "word": "干了一辈子拿了二三十万的裁员费",
+      "onboard_time": 1766918061,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 187128,
@@ -1003,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167551,
+      "num": 167551,
+      "word": "单依纯二专首首都是主打",
+      "onboard_time": 1766917880,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166929,
       "num": 166929,
       "word": "花海退役也是1227",
@@ -1043,14 +1067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161244,
-      "num": 117893,
-      "word": "刘耀文 撕漫男",
-      "onboard_time": 1766917522,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 161206,
       "num": 161206,
       "word": "期末周",
@@ -1067,8 +1083,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158661,
-      "num": 158661,
+      "raw_hot": 158861,
+      "num": 158861,
       "word": "商场展车被小孩误触撞入手机店",
       "onboard_time": 1766916381,
       "rank": 25,
@@ -1233,6 +1249,22 @@
       "onboard_time": 1766898800,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137813,
+      "num": 137813,
+      "word": "黄石华新vs山东魏桥",
+      "onboard_time": 1766918300,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136334,
+      "num": 136334,
+      "word": "王林问鼎",
+      "onboard_time": 1766918061,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 136191,
@@ -1507,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117590,
+      "num": 117590,
+      "word": "王源巨型斜开舞台仅使用三天",
+      "onboard_time": 1766918481,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116247,
       "num": 116247,
       "word": "李飞快把TFing舞台玩出花了",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1766898141,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113802,
+      "num": 113802,
+      "word": "家长花钱拍照宝宝没一张笑的",
+      "onboard_time": 1766917162,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 113529,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1766852001,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108848,
+      "num": 108848,
+      "word": "已经到了分开就结婚的年纪",
+      "onboard_time": 1766913800,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108636,
@@ -1739,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103244,
+      "num": 103244,
+      "word": "鹿晗工作室回应还在运营QQ空间",
+      "onboard_time": 1766917283,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102088,
       "num": 117594,
       "word": "日本妄图战略围堵中国",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101128,
+      "num": 101128,
+      "word": "范丞丞舞帝教科书回归",
+      "onboard_time": 1766918360,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 100735,
@@ -1835,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98330,
-      "num": 98330,
-      "word": "鹿晗工作室回应还在运营QQ空间",
-      "onboard_time": 1766917283,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98245,
       "num": 98245,
       "word": "整治国企招聘近亲繁殖为何刻不容缓",
@@ -1897,14 +1961,6 @@
       "onboard_time": 1766905280,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96827,
-      "num": 96827,
-      "word": "家长花钱拍照宝宝没一张笑的",
-      "onboard_time": 1766917162,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 96773,
@@ -2219,6 +2275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 83673,
+      "num": 100731,
+      "word": "贵州茅台董事长谈茅台价格",
+      "onboard_time": 1766916801,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83451,
       "num": 83451,
       "word": "周洁琼绿眸配红唇",
@@ -2227,20 +2291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83281,
-      "num": 83281,
-      "word": "已经到了分开就结婚的年纪",
-      "onboard_time": 1766913800,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82915,
       "num": 82915,
       "word": "章子怡女儿醒醒写书了",
       "onboard_time": 1766904860,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82821,
+      "num": 82821,
+      "word": "Faker的增高刘海",
+      "onboard_time": 1766917760,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 82710,
@@ -2267,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81706,
+      "num": 110952,
+      "word": "王楚钦决赛热身",
+      "onboard_time": 1766917401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79887,
       "num": 79887,
       "word": "苹果应用商店被曝有APP放高利贷",
@@ -2281,14 +2353,6 @@
       "onboard_time": 1766839583,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79264,
-      "num": 110952,
-      "word": "王楚钦决赛热身",
-      "onboard_time": 1766917401,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 78776,
@@ -2371,20 +2435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73977,
-      "num": 89437,
-      "word": "贵州茅台董事长谈茅台价格",
-      "onboard_time": 1766916801,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73675,
       "num": 114442,
       "word": "左奇函rap能力",
       "onboard_time": 1766854819,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71863,
+      "num": 81432,
+      "word": "薛飞刘冠成vs梁靖崑林昀儒",
+      "onboard_time": 1766918481,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69282,
