@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766964432908,
+  "endTime": 1766965283888,
   "band_list": [
     {
       "raw_hot": 686683,
@@ -19,28 +19,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377095,
-      "num": 205158,
-      "word": "唐嫣好会演",
-      "onboard_time": 1766936900,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 372620,
-      "num": 796355,
+      "raw_hot": 422389,
+      "num": 907860,
       "word": "被非洲洋洋绑架受害人至今无法走路",
       "onboard_time": 1766936480,
       "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369601,
+      "raw_hot": 404082,
       "num": 204355,
       "word": "网购羽绒服半个月退回口袋装着机票",
       "onboard_time": 1766934561,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377095,
+      "num": 205158,
+      "word": "唐嫣好会演",
+      "onboard_time": 1766936900,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 300862,
@@ -51,7 +51,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277120,
+      "raw_hot": 292458,
       "num": 189376,
       "word": "成龙自曝和儿子一年只打一次电话",
       "onboard_time": 1766924121,
@@ -115,12 +115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179989,
+      "num": 143236,
+      "word": "六旬男子性侵智力障碍女子致怀孕",
+      "onboard_time": 1766924181,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179538,
       "num": 179538,
       "word": "宋威龙 这次换我来拍",
       "onboard_time": 1766932403,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175670,
+      "num": 175670,
+      "word": "特朗普见泽连斯基前后均与普京通话",
+      "onboard_time": 1766962095,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173915,
@@ -137,14 +153,6 @@
       "onboard_time": 1766925321,
       "rank": 16,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 167374,
-      "num": 143236,
-      "word": "六旬男子性侵智力障碍女子致怀孕",
-      "onboard_time": 1766924181,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157260,
@@ -171,12 +179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135540,
-      "num": 135540,
-      "word": "特朗普见泽连斯基前后均与普京通话",
-      "onboard_time": 1766962095,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 124618,
+      "num": 124618,
+      "word": "赵樱子说降不住彭冠英",
+      "onboard_time": 1766929042,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 123996,
@@ -211,12 +219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111913,
+      "num": 111913,
+      "word": "现在就出发",
+      "onboard_time": 1766964138,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110326,
       "num": 110326,
       "word": "橹瑞比心",
       "onboard_time": 1766937439,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100793,
+      "num": 88887,
+      "word": "女孩们别再节食减肥了",
+      "onboard_time": 1766965038,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99892,
@@ -227,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97049,
-      "num": 97049,
-      "word": "赵樱子说降不住彭冠英",
-      "onboard_time": 1766929042,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 98123,
+      "num": 98123,
+      "word": "这两种水果太适合加热吃了",
+      "onboard_time": 1766927301,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 96060,
@@ -323,12 +347,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 79840,
-      "num": 79840,
-      "word": "这两种水果太适合加热吃了",
-      "onboard_time": 1766927301,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 79059,
+      "num": 60082,
+      "word": "原来这就是走路送髋的技巧",
+      "onboard_time": 1766964077,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 78975,
+      "num": 78975,
+      "word": "美网友承认美国斩杀线是事实",
+      "onboard_time": 1766964618,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77784,
+      "num": 77784,
+      "word": "韩国总统重回青瓦台",
+      "onboard_time": 1766964197,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75892,
@@ -371,20 +411,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69636,
-      "num": 69636,
-      "word": "现在就出发",
-      "onboard_time": 1766964138,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69327,
       "num": 69327,
       "word": "骄阳似我",
       "onboard_time": 1766917461,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68269,
+      "num": 60012,
+      "word": "当小狗看到主人穿得毛绒绒",
+      "onboard_time": 1766964019,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 68086,
+      "num": 68086,
+      "word": "大湾鸡已到哈尔滨",
+      "onboard_time": 1766964197,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 67381,
@@ -403,12 +451,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66625,
+      "num": 66625,
+      "word": "今日说法主持人被骗买茶叶后续",
+      "onboard_time": 1766963596,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65923,
       "num": 65923,
       "word": "TF家族",
       "onboard_time": 1766932762,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65714,
+      "num": 65714,
+      "word": "17岁少年在家种出冠军睡莲",
+      "onboard_time": 1766933723,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65665,
+      "num": 59830,
+      "word": "一些大学老师开始坐班了",
+      "onboard_time": 1766964978,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63187,
@@ -427,20 +499,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60690,
-      "num": 46491,
-      "word": "原来这就是走路送髋的技巧",
-      "onboard_time": 1766964077,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 60560,
       "num": 73918,
       "word": "小猫四条腿各跑各的",
       "onboard_time": 1766941217,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60092,
+      "num": 60092,
+      "word": "摄影大赛一等奖作品被指AI生成",
+      "onboard_time": 1766964738,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59536,
+      "num": 59536,
+      "word": "现在很多实体商场生意差",
+      "onboard_time": 1766964618,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57017,
@@ -451,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56006,
+      "num": 62743,
+      "word": "给孩子买了一件会变色的衣服",
+      "onboard_time": 1766941456,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54333,
       "num": 54333,
       "word": "人之初",
       "onboard_time": 1766963477,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53840,
+      "num": 196894,
+      "word": "我国首个6车道改12车道高速通车",
+      "onboard_time": 1766927723,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53029,
@@ -467,20 +563,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51843,
-      "num": 45708,
-      "word": "当小狗看到主人穿得毛绒绒",
-      "onboard_time": 1766964019,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 52974,
+      "num": 52974,
+      "word": "长安二十四计",
+      "onboard_time": 1766964378,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 50787,
-      "num": 50787,
-      "word": "韩国总统重回青瓦台",
-      "onboard_time": 1766964197,
-      "rank": 27,
+      "raw_hot": 51344,
+      "num": 51344,
+      "word": "中国援柬埔寨物资运抵金边",
+      "onboard_time": 1766959454,
+      "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50826,
+      "num": 50826,
+      "word": "苏新皓 滚筒洗衣机",
+      "onboard_time": 1766964019,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 50401,
+      "num": 50401,
+      "word": "老板说这狗长大会很帅",
+      "onboard_time": 1766963837,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 49512,
@@ -507,28 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48410,
-      "num": 48410,
-      "word": "17岁少年在家种出冠军睡莲",
-      "onboard_time": 1766933723,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46493,
-      "num": 46493,
-      "word": "大湾鸡已到哈尔滨",
-      "onboard_time": 1766964197,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46195,
-      "num": 46195,
-      "word": "中国援柬埔寨物资运抵金边",
-      "onboard_time": 1766959454,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 44786,
+      "num": 44786,
+      "word": "双轨",
+      "onboard_time": 1766964316,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 44764,
@@ -555,20 +651,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 43893,
-      "num": 162889,
-      "word": "我国首个6车道改12车道高速通车",
-      "onboard_time": 1766927723,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 39238,
+      "raw_hot": 42051,
       "num": 62696,
       "word": "主持人李晓东买茶叶被骗嫌犯已抓获",
       "onboard_time": 1766941217,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41836,
+      "num": 41836,
+      "word": "Knight直播回应BLG德杯12强",
+      "onboard_time": 1766964316,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 39843,
+      "num": 39843,
+      "word": "王楚钦和球迷告别",
+      "onboard_time": 1766965098,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 39201,
@@ -579,22 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38488,
-      "num": 62743,
-      "word": "给孩子买了一件会变色的衣服",
-      "onboard_time": 1766941456,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 37554,
-      "num": 37554,
-      "word": "今日说法主持人被骗买茶叶后续",
-      "onboard_time": 1766963596,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37192,
       "num": 55292,
       "word": "宋亚轩卷毛混血感",
@@ -603,28 +691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35958,
-      "num": 35958,
-      "word": "老板说这狗长大会很帅",
-      "onboard_time": 1766963837,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 35156,
       "num": 55209,
       "word": "王者荣耀最没用的法师",
       "onboard_time": 1766943255,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34992,
-      "num": 34992,
-      "word": "双轨",
-      "onboard_time": 1766964316,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 34545,
@@ -641,22 +713,6 @@
       "onboard_time": 1766922981,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33824,
-      "num": 33824,
-      "word": "Knight直播回应BLG德杯12强",
-      "onboard_time": 1766964316,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 31116,
-      "num": 33633,
-      "word": "长安二十四计",
-      "onboard_time": 1766964378,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 30689,
@@ -729,6 +785,14 @@
       "onboard_time": 1766931743,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24361,
+      "num": 154858,
+      "word": "特朗普与泽连斯基未谈妥领土问题",
+      "onboard_time": 1766964618,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24279,
