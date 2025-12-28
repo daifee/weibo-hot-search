@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766939663289,
+  "endTime": 1766940506696,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -79187,6 +79187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75892,
+      "num": 75892,
+      "word": "宋威龙林屿森新中式男友",
+      "onboard_time": 1766939120,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75880,
       "num": 92513,
       "word": "暴躁东北太奶一箭射鬼子",
@@ -79353,14 +79361,6 @@
       "onboard_time": 1764767242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75523,
-      "num": 75523,
-      "word": "宋威龙林屿森新中式男友",
-      "onboard_time": 1766939120,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 75521,

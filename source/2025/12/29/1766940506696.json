@@ -1,0 +1,410 @@
+{
+  "runTime": 1766940506696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 416523,
+        "num": 713327,
+        "word": "王楚钦想远离一下乒乓球",
+        "onboard_time": 1766932823,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185135,
+        "num": 185135,
+        "word": "马年春晚期待住了",
+        "onboard_time": 1766936662,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23578,
+        "num": 185055,
+        "word": "50天后是除夕",
+        "onboard_time": 1766931743,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350647,
+        "num": 182651,
+        "word": "唐嫣好会演",
+        "onboard_time": 1766936900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277220,
+        "num": 178375,
+        "word": "网购羽绒服半个月退回口袋装着机票",
+        "onboard_time": 1766934561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226976,
+        "num": 176584,
+        "word": "妈妈不打麻将早就上清华了",
+        "onboard_time": 1766930782,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175968,
+        "num": 175968,
+        "word": "得闲谨制4次票房逆跌",
+        "onboard_time": 1766934443,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173856,
+        "num": 173856,
+        "word": "被非洲洋洋绑架受害人至今无法走路",
+        "onboard_time": 1766936480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173096,
+        "num": 173096,
+        "word": "苏新皓杨博文双人舞台",
+        "onboard_time": 1766921782,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154753,
+        "num": 154753,
+        "word": "17岁少女1年打赏主播40多万元",
+        "onboard_time": 1766932823,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 570142,
+        "num": 154447,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215535,
+        "num": 151852,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173915,
+        "num": 150549,
+        "word": "王安宇翻牌",
+        "onboard_time": 1766934682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "骄阳似我男二戏份",
+        "onboard_time": 1766928742,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144241,
+        "num": 144241,
+        "word": "穆祉丞带王橹杰进拍子",
+        "onboard_time": 1766932762,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142222,
+        "num": 142222,
+        "word": "26岁女子驾车落水身亡",
+        "onboard_time": 1766931022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136772,
+        "num": 136772,
+        "word": "宋威龙 这次换我来拍",
+        "onboard_time": 1766932403,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136734,
+        "num": 136734,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124568,
+        "num": 124568,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126361,
+        "num": 123931,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766926462,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "苏新皓哭了",
+        "onboard_time": 1766929341,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114450,
+        "num": 114450,
+        "word": "今年女明星最出圈的四组图",
+        "onboard_time": 1766934502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109785,
+        "num": 109785,
+        "word": "虞书欣特别感谢小石榴们",
+        "onboard_time": 1766922562,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105345,
+        "num": 105345,
+        "word": "侯明昊好帅",
+        "onboard_time": 1766936122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102717,
+        "num": 102717,
+        "word": "橹瑞比心",
+        "onboard_time": 1766937439,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98648,
+        "num": 98648,
+        "word": "刘耀文 撕漫男",
+        "onboard_time": 1766917522,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89795,
+        "num": 89795,
+        "word": "何与 靳朝是最接近自己的",
+        "onboard_time": 1766923401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88602,
+        "num": 88602,
+        "word": "杨博文跳舞",
+        "onboard_time": 1766932643,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82250,
+        "num": 82250,
+        "word": "王橹杰羽毛眼链",
+        "onboard_time": 1766919501,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80748,
+        "num": 80748,
+        "word": "美国蜜雪冰城店员中文流利",
+        "onboard_time": 1766934502,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79367,
+        "num": 79367,
+        "word": "朱志鑫宽肩窄腰daddy级别",
+        "onboard_time": 1766933783,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78450,
+        "num": 78450,
+        "word": "这两种水果太适合加热吃了",
+        "onboard_time": 1766927301,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76031,
+        "num": 76031,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 75892,
+        "num": 75892,
+        "word": "宋威龙林屿森新中式男友",
+        "onboard_time": 1766939120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70787,
+        "num": 70787,
+        "word": "微博之夜",
+        "onboard_time": 1766922382,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73442,
+        "num": 69952,
+        "word": "赵今麦演的江浙沪甜妹",
+        "onboard_time": 1766935823,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68296,
+        "num": 68296,
+        "word": "寻秦记",
+        "onboard_time": 1766935701,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64002,
+        "num": 64002,
+        "word": "现在就出发3",
+        "onboard_time": 1766937981,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61902,
+        "num": 61902,
+        "word": "点外卖备注只要一点点饭时",
+        "onboard_time": 1766920342,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 61267,
+        "word": "非洲洋洋绑架男子称2条腿骨被打断",
+        "onboard_time": 1766939120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60774,
+        "num": 60774,
+        "word": "王楚钦不太在乎仪式感",
+        "onboard_time": 1766936782,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60019,
+        "num": 60019,
+        "word": "贺峻霖大屏的神",
+        "onboard_time": 1766927842,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56373,
+        "num": 56373,
+        "word": "周深 2025你快结束吧",
+        "onboard_time": 1766934322,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55030,
+        "num": 55030,
+        "word": "那英华晨宇又吵起来了",
+        "onboard_time": 1766933602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54158,
+        "num": 54158,
+        "word": "TF家族",
+        "onboard_time": 1766932762,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53425,
+        "num": 53425,
+        "word": "严浩翔美式前刺",
+        "onboard_time": 1766916021,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53029,
+        "num": 53029,
+        "word": "海南疯狂引进985名校",
+        "onboard_time": 1766935222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52821,
+        "num": 52821,
+        "word": "骄阳似我",
+        "onboard_time": 1766917461,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52390,
+        "num": 52390,
+        "word": "70岁大爷买13克金戒1年半少0.23克",
+        "onboard_time": 1766928502,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49308,
+        "num": 52390,
+        "word": "单依纯直播",
+        "onboard_time": 1766931383,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
