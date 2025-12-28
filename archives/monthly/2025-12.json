@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766936500539,
+  "endTime": 1766939663289,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -15515,6 +15515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 377095,
+      "num": 205158,
+      "word": "唐嫣好会演",
+      "onboard_time": 1766936900,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377026,
       "num": 507859,
       "word": "高市早苗老家奈良凉了",
@@ -15817,6 +15825,14 @@
       "onboard_time": 1766234002,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369601,
+      "num": 247211,
+      "word": "网购羽绒服半个月退回口袋装着机票",
+      "onboard_time": 1766934561,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369249,
@@ -26323,14 +26339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 223875,
-      "num": 247211,
-      "word": "网购羽绒服半个月退回口袋装着机票",
-      "onboard_time": 1766934561,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223848,
       "num": 184935,
       "word": "KatyPerry官宣恋情",
@@ -28617,6 +28625,14 @@
       "onboard_time": 1764931222,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206384,
+      "num": 206384,
+      "word": "马年春晚期待住了",
+      "onboard_time": 1766936662,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 206374,
@@ -33321,6 +33337,14 @@
       "onboard_time": 1765180041,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "被非洲洋洋绑架受害人至今无法走路",
+      "onboard_time": 1766936480,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187395,
@@ -61867,6 +61891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110326,
+      "num": 110326,
+      "word": "橹瑞比心",
+      "onboard_time": 1766937439,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110302,
       "num": 110302,
       "word": "明年手机会大幅度涨价吗",
@@ -77771,6 +77803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80643,
+      "num": 80643,
+      "word": "寻秦记",
+      "onboard_time": 1766935701,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80639,
       "num": 80639,
       "word": "纽约发生枪击事件致6人受伤",
@@ -79315,6 +79355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75523,
+      "num": 75523,
+      "word": "宋威龙林屿森新中式男友",
+      "onboard_time": 1766939120,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75521,
       "num": 83384,
       "word": "女子路边买麻花摊主切完要价160元",
@@ -80489,6 +80537,14 @@
       "onboard_time": 1765581857,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71784,
+      "num": 71784,
+      "word": "非洲洋洋绑架男子称2条腿骨被打断",
+      "onboard_time": 1766939120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71762,
@@ -81753,6 +81809,14 @@
       "onboard_time": 1766362941,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 67381,
+      "num": 67381,
+      "word": "王楚钦不太在乎仪式感",
+      "onboard_time": 1766936782,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 67380,
