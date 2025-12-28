@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766898149257,
+  "endTime": 1766899992141,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -19,20 +19,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1889716,
+      "num": 513533,
+      "word": "黄子韬因脑淤血手术缝了43针",
+      "onboard_time": 1766896460,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1398265,
       "num": 1398265,
       "word": "杭州震感",
       "onboard_time": 1766849366,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1365977,
-      "num": 513533,
-      "word": "黄子韬因脑淤血手术缝了43针",
-      "onboard_time": 1766896460,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1297295,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1002585,
-      "num": 1002585,
+      "num": 1158087,
       "word": "奶奶喜丧女子因朋友少求助网友",
       "onboard_time": 1766894179,
       "rank": 33,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 722676,
-      "num": 236854,
+      "num": 247788,
       "word": "尚雯婕胃里割了六个息肉",
       "onboard_time": 1766893459,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1766886201,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 664956,
+      "num": 401673,
+      "word": "黄晓明自曝曾救过刘亦菲的命",
+      "onboard_time": 1766896640,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 619933,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449351,
+      "num": 249071,
+      "word": "艾米艺考",
+      "onboard_time": 1766898440,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447115,
       "num": 258374,
       "word": "姚晨发文纪念高崎机场即将关闭",
@@ -211,20 +227,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 410241,
+      "num": 410241,
+      "word": "美媒关注中国网友讨论美国斩杀线",
+      "onboard_time": 1766895381,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 406540,
       "num": 406540,
       "word": "戴佩妮北京广州取消",
       "onboard_time": 1766849308,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 394724,
-      "num": 232739,
-      "word": "黄晓明自曝曾救过刘亦菲的命",
-      "onboard_time": 1766896640,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 393198,
@@ -235,12 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386364,
-      "num": 386364,
-      "word": "美媒关注中国网友讨论美国斩杀线",
-      "onboard_time": 1766895381,
-      "rank": 17,
-      "category": "海外新闻"
+      "raw_hot": 388634,
+      "num": 388634,
+      "word": "原来这就是软孤立",
+      "onboard_time": 1766897600,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 387631,
+      "num": 248982,
+      "word": "王橹杰 懂得都懂",
+      "onboard_time": 1766898800,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 379355,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 335345,
-      "num": 231536,
+      "num": 247282,
       "word": "王星说恋爱4年没结婚是因为结不起",
       "onboard_time": 1766894600,
       "rank": 16,
@@ -289,6 +313,14 @@
       "onboard_time": 1766835259,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286460,
+      "num": 248334,
+      "word": "迪丽热巴感谢观众喜欢邓妍",
+      "onboard_time": 1766897540,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 280884,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250348,
+      "num": 250348,
+      "word": "逍遥",
+      "onboard_time": 1766809460,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248457,
       "num": 160138,
       "word": "燕云十六声多次回应未平息争议",
@@ -385,14 +425,6 @@
       "onboard_time": 1766891180,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239677,
-      "num": 239677,
-      "word": "逍遥",
-      "onboard_time": 1766809460,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 235564,
@@ -443,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209749,
+      "num": 209749,
+      "word": "深圳博物馆火了",
+      "onboard_time": 1766898260,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207907,
+      "num": 169661,
+      "word": "陈哲远 下半身还是能用的",
+      "onboard_time": 1766898740,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206350,
       "num": 206350,
       "word": "谭松韵穿耿耿校服跟振华道歉",
@@ -457,14 +505,6 @@
       "onboard_time": 1766841442,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202311,
-      "num": 149487,
-      "word": "迪丽热巴感谢观众喜欢邓妍",
-      "onboard_time": 1766897540,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 201542,
@@ -497,6 +537,14 @@
       "onboard_time": 1766896040,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191324,
+      "num": 164216,
+      "word": "深圳大学2比1山东鲁能",
+      "onboard_time": 1766898980,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 187128,
@@ -643,12 +691,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 144209,
-      "num": 124896,
-      "word": "原来这就是软孤立",
-      "onboard_time": 1766897600,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 145133,
+      "num": 151025,
+      "word": "专家科普原叶茶或茶饮料不足以成瘾",
+      "onboard_time": 1766898561,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143884,
@@ -681,6 +729,14 @@
       "onboard_time": 1766893939,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137827,
+      "num": 137827,
+      "word": "覃予萱3比0徐奕",
+      "onboard_time": 1766898800,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 136191,
@@ -747,6 +803,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 127401,
+      "num": 127401,
+      "word": "单依纯发新歌",
+      "onboard_time": 1766899341,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126506,
       "num": 126506,
       "word": "爱莲说的莲是什么花",
@@ -761,6 +825,14 @@
       "onboard_time": 1766890459,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124960,
+      "num": 124960,
+      "word": "59%美国人无法承担1000美元意外支出",
+      "onboard_time": 1766898861,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124556,
@@ -827,6 +899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119311,
+      "num": 119311,
+      "word": "殷世航曝网红情侣很多都是假的",
+      "onboard_time": 1766899821,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 118294,
       "num": 118294,
       "word": "王丽坤曾回应出演短剧",
@@ -849,6 +929,22 @@
       "onboard_time": 1766895859,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114664,
+      "num": 114664,
+      "word": "张本智和难忘青奥会不敌王楚钦",
+      "onboard_time": 1766899821,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114226,
+      "num": 114226,
+      "word": "叶寒冰任副省长时长期出入私人会所",
+      "onboard_time": 1766898141,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113529,
@@ -995,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102050,
+      "num": 102050,
+      "word": "马斯克谈白银暴涨",
+      "onboard_time": 1766899761,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102032,
       "num": 102032,
       "word": "韩国人真的在比喻方面蛮有天赋的",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 100697,
+      "num": 100697,
+      "word": "第一批回村过年的猫已经烤上火了",
+      "onboard_time": 1766899461,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 100123,
@@ -1056,6 +1168,14 @@
       "word": "白鹿抽象拿捏",
       "onboard_time": 1766888300,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97149,
+      "num": 114340,
+      "word": "白鹿互联网是没你在乎的人了吗",
+      "onboard_time": 1766898500,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1323,12 +1443,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 42072,
+      "num": 120413,
+      "word": "于正说娜扎美到后无来者",
+      "onboard_time": 1766899279,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40401,
       "num": 51916,
       "word": "宋威龙原来我们早就见面了",
       "onboard_time": 1766866454,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39970,
+      "num": 171788,
+      "word": "特朗普称爱泼斯坦案是政治迫害",
+      "onboard_time": 1766898680,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38430,
@@ -1403,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30026,
+      "num": 115287,
+      "word": "一口价卖车销冠称10天定出15台",
+      "onboard_time": 1766898680,
+      "rank": 42,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 26967,
       "num": 47010,
       "word": "苏新皓抓周抓的是镜头",
@@ -1417,6 +1561,14 @@
       "onboard_time": 1766863215,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23900,
+      "num": 120439,
+      "word": "虞书欣何与双轨收官剧照",
+      "onboard_time": 1766899701,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 23609,
@@ -1483,12 +1635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8488,
+      "num": 120512,
+      "word": "老人花14万网购癌症特效药",
+      "onboard_time": 1766899880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8171,
       "num": 103843,
       "word": "特朗普关税政策翻车",
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7349,
+      "num": 123242,
+      "word": "陷入简历焦虑的职场人",
+      "onboard_time": 1766899880,
+      "rank": 35,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
