@@ -1,0 +1,410 @@
+{
+  "runTime": 1766907726727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714037,
+        "num": 1114245,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366007,
+        "num": 366007,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42147,
+        "num": 282230,
+        "word": "中国军事年终大片太硬核了",
+        "onboard_time": 1766893160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1052517,
+        "num": 269359,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249588,
+        "num": 249588,
+        "word": "再见爱人 难哄",
+        "onboard_time": 1766905340,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378804,
+        "num": 245261,
+        "word": "动物奶油 断句陷阱",
+        "onboard_time": 1766900180,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 571308,
+        "num": 241090,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235892,
+        "num": 235892,
+        "word": "2026春晚分会场发布",
+        "onboard_time": 1766906960,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176468,
+        "num": 235710,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130328,
+        "num": 233448,
+        "word": "深圳大学女团夺冠",
+        "onboard_time": 1766900300,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494465,
+        "num": 230896,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444818,
+        "num": 229395,
+        "word": "空腹爬楼梯瘦了30斤",
+        "onboard_time": 1766904981,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 432380,
+        "num": 227052,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336601,
+        "num": 224737,
+        "word": "炎亚纶发文感谢飞轮海",
+        "onboard_time": 1766906480,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25795,
+        "num": 223828,
+        "word": "滑雪脸僵了试试美团医美",
+        "onboard_time": 1766905580,
+        "rank": 14,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 220868,
+        "word": "财政部明年将促进居民就业增收",
+        "onboard_time": 1766905760,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321915,
+        "num": 218828,
+        "word": "深圳博物馆火了",
+        "onboard_time": 1766898260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321071,
+        "num": 218187,
+        "word": "虞书欣华语艺人国际排行榜第一",
+        "onboard_time": 1766905821,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286646,
+        "num": 215791,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214298,
+        "num": 214298,
+        "word": "谭松韵 黄蓉",
+        "onboard_time": 1766901140,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416760,
+        "num": 209706,
+        "word": "章子怡女儿醒醒十岁了",
+        "onboard_time": 1766901681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284897,
+        "num": 208428,
+        "word": "张小婉变化好大",
+        "onboard_time": 1766906840,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204505,
+        "num": 204505,
+        "word": "谁在说宋威龙赵今麦不熟啊",
+        "onboard_time": 1766905638,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197865,
+        "num": 197865,
+        "word": "安崎在浪姐制片人面前求职",
+        "onboard_time": 1766902700,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193727,
+        "num": 193727,
+        "word": "黄景瑜现在就出发收官vlog",
+        "onboard_time": 1766907201,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179512,
+        "num": 179512,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177760,
+        "num": 177760,
+        "word": "现在就出发第三季收官",
+        "onboard_time": 1766902581,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163343,
+        "num": 163343,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103264,
+        "num": 144402,
+        "word": "教练透露孙颖莎一直在关注乒超",
+        "onboard_time": 1766907380,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86841,
+        "num": 142228,
+        "word": "个税APP确认信息将截止",
+        "onboard_time": 1766905280,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142156,
+        "num": 142156,
+        "word": "金晨黄景瑜这下亡荡了",
+        "onboard_time": 1766906421,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132232,
+        "num": 132232,
+        "word": "马思纯34秒视频换了18套造型",
+        "onboard_time": 1766906421,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127351,
+        "num": 127351,
+        "word": "艾米艺考",
+        "onboard_time": 1766898440,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126847,
+        "num": 126847,
+        "word": "殷世航曝网红情侣很多都是假的",
+        "onboard_time": 1766899821,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123459,
+        "num": 123459,
+        "word": "李煜东直拍",
+        "onboard_time": 1766906601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119419,
+        "num": 119419,
+        "word": "燕云道歉",
+        "onboard_time": 1766904500,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 113377,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76283,
+        "num": 110431,
+        "word": "美媒一定程度上承认了斩杀线存在",
+        "onboard_time": 1766906780,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57079,
+        "num": 109175,
+        "word": "阿凡达3幻视封神",
+        "onboard_time": 1766906541,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109094,
+        "num": 109094,
+        "word": "时代少年团少年正稳步走来",
+        "onboard_time": 1766904860,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107030,
+        "num": 107030,
+        "word": "于正说娜扎美到后无来者",
+        "onboard_time": 1766899279,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105144,
+        "num": 105144,
+        "word": "我是不会放弃去阿勒泰的",
+        "onboard_time": 1766906541,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103923,
+        "num": 103923,
+        "word": "胡萝卜蛋糕",
+        "onboard_time": 1766907321,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100916,
+        "num": 100916,
+        "word": "陈哲远 下半身还是能用的",
+        "onboard_time": 1766898740,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98491,
+        "num": 98491,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98163,
+        "num": 98163,
+        "word": "经常熬夜身体会悄悄变硬",
+        "onboard_time": 1766893580,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92961,
+        "num": 92961,
+        "word": "终于懂了去别的城市散散心是啥概念",
+        "onboard_time": 1766907201,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 90383,
+        "word": "王星说恋爱4年没结婚是因为结不起",
+        "onboard_time": 1766894600,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69499,
+        "num": 89630,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 66057,
+        "num": 88729,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#务实是必备品格#"
+    }
+  }
+}
