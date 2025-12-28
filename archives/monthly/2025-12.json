@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766900879203,
+  "endTime": 1766904077530,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -6891,6 +6891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620694,
+      "num": 248982,
+      "word": "王橹杰 懂得都懂",
+      "onboard_time": 1766898800,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620223,
       "num": 227724,
       "word": "张萌夫妇路边亲吻",
@@ -7315,14 +7323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 600401,
-      "num": 248982,
-      "word": "王橹杰 懂得都懂",
-      "onboard_time": 1766898800,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 600079,
       "num": 220891,
       "word": "卢昱晓给朋友当伴娘",
@@ -7416,6 +7416,14 @@
       "word": "高圆圆 替身",
       "onboard_time": 1765871843,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595798,
+      "num": 156556,
+      "word": "章子怡女儿醒醒十岁了",
+      "onboard_time": 1766901681,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -14523,6 +14531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390343,
+      "num": 390343,
+      "word": "深圳博物馆火了",
+      "onboard_time": 1766898260,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390299,
       "num": 516891,
       "word": "男子飞无人机时在崖洞中发现干尸",
@@ -14865,6 +14881,14 @@
       "onboard_time": 1764725961,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 383419,
+      "num": 239206,
+      "word": "谭松韵 黄蓉",
+      "onboard_time": 1766901140,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 383284,
@@ -17787,6 +17811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327723,
+      "num": 327723,
+      "word": "现在就出发第三季收官",
+      "onboard_time": 1766902581,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327715,
       "num": 810400,
       "word": "神舟二十二号航天员乘组永远空缺",
@@ -18345,6 +18377,14 @@
       "onboard_time": 1765159400,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318630,
+      "num": 166768,
+      "word": "殷世航曝网红情侣很多都是假的",
+      "onboard_time": 1766899821,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 318577,
@@ -20331,6 +20371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287621,
+      "num": 287621,
+      "word": "深圳大学女团夺冠",
+      "onboard_time": 1766900300,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287378,
       "num": 287378,
       "word": "25岁的叔33岁的侄子",
@@ -21793,6 +21841,14 @@
       "onboard_time": 1765688423,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 268140,
+      "num": 220392,
+      "word": "尹正被731馆长误认为是日本人",
+      "onboard_time": 1766900360,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 268084,
@@ -24707,6 +24763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234109,
+      "num": 197356,
+      "word": "陈哲远 下半身还是能用的",
+      "onboard_time": 1766898740,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234099,
       "num": 234099,
       "word": "HLE对战T1",
@@ -25249,14 +25313,6 @@
       "onboard_time": 1765082061,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228465,
-      "num": 228465,
-      "word": "深圳博物馆火了",
-      "onboard_time": 1766898260,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228419,
@@ -26171,6 +26227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219538,
+      "num": 176046,
+      "word": "王安宇 何老师往事不要再提",
+      "onboard_time": 1766903539,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219537,
       "num": 776392,
       "word": "疯狂动物城2中国票房惊呆外媒",
@@ -26737,14 +26801,6 @@
       "onboard_time": 1765019302,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214723,
-      "num": 214723,
-      "word": "深圳大学女团夺冠",
-      "onboard_time": 1766900300,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 214698,
@@ -27339,14 +27395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209780,
-      "num": 199906,
-      "word": "尹正被731馆长误认为是日本人",
-      "onboard_time": 1766900360,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209772,
       "num": 209772,
       "word": "苏新皓到底送了朱志鑫什么礼物",
@@ -27657,14 +27705,6 @@
       "onboard_time": 1766471121,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207907,
-      "num": 197356,
-      "word": "陈哲远 下半身还是能用的",
-      "onboard_time": 1766898740,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 207900,
@@ -33451,6 +33491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184313,
+      "num": 184313,
+      "word": "安崎在浪姐制片人面前求职",
+      "onboard_time": 1766902700,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184229,
       "num": 162958,
       "word": "莫雷加德亚军",
@@ -37443,14 +37491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166768,
-      "num": 166768,
-      "word": "殷世航曝网红情侣很多都是假的",
-      "onboard_time": 1766899821,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 166762,
       "num": 166762,
       "word": "老公卧室里最让她满意的角落",
@@ -40179,6 +40219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 156565,
+      "num": 156565,
+      "word": "动物奶油 断句陷阱",
+      "onboard_time": 1766900180,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156554,
       "num": 156554,
       "word": "许知远对话汪顺",
@@ -40417,6 +40465,14 @@
       "onboard_time": 1765775602,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155858,
+      "num": 155858,
+      "word": "于正说娜扎美到后无来者",
+      "onboard_time": 1766899279,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 155855,
@@ -41081,6 +41137,14 @@
       "onboard_time": 1766553922,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153703,
+      "num": 153703,
+      "word": "古剑奇谭三 奇迹暖暖",
+      "onboard_time": 1766903601,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 153650,
@@ -51947,6 +52011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126307,
+      "num": 126307,
+      "word": "李晋晔这是真上过班",
+      "onboard_time": 1766903182,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126302,
       "num": 136970,
       "word": "李沁包场得闲谨制",
@@ -59691,14 +59763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111811,
-      "num": 120413,
-      "word": "于正说娜扎美到后无来者",
-      "onboard_time": 1766899279,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111807,
       "num": 122831,
       "word": "个头更大的草莓真是无辜的",
@@ -64121,6 +64185,14 @@
       "onboard_time": 1764588143,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103700,
+      "num": 103700,
+      "word": "堂本光一官宣结婚",
+      "onboard_time": 1766901620,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 103672,
@@ -69267,6 +69339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95077,
+      "num": 95077,
+      "word": "普京称已无兴趣等乌方从占领区撤出",
+      "onboard_time": 1766901620,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95071,
       "num": 95071,
       "word": "朱棣兔朱棣你被捕了",
@@ -71659,6 +71739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90494,
+      "num": 90494,
+      "word": "12月31号可以发的文案",
+      "onboard_time": 1766901922,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90486,
       "num": 698079,
       "word": "世界最长高速公路隧道通车",
@@ -72275,6 +72363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89314,
+      "num": 89314,
+      "word": "白银为啥涨这么猛",
+      "onboard_time": 1766903060,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89281,
       "num": 89281,
       "word": "奇洛李维斯回信周边",
@@ -72849,6 +72945,14 @@
       "onboard_time": 1765440982,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 88019,
+      "num": 88019,
+      "word": "这部长剧把我妈从短国拉出来了",
+      "onboard_time": 1766903900,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 88011,
@@ -73659,6 +73763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86006,
+      "num": 120439,
+      "word": "虞书欣何与双轨收官剧照",
+      "onboard_time": 1766899701,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86003,
       "num": 120642,
       "word": "美防长说忽视中国军力愚蠢且失敬",
@@ -73963,6 +74075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85169,
+      "num": 85169,
+      "word": "黄子弘凡 emoji",
+      "onboard_time": 1766903960,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85151,
       "num": 85151,
       "word": "白银大涨原因",
@@ -74219,6 +74339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84673,
+      "num": 84673,
+      "word": "在家脸上不能有一根刘海",
+      "onboard_time": 1766903300,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84644,
       "num": 84644,
       "word": "第一次看到有直角肩的小猫咪",
@@ -74345,6 +74473,14 @@
       "onboard_time": 1765387516,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84357,
+      "num": 84357,
+      "word": "张钧甯打服老外",
+      "onboard_time": 1766904022,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 84344,
@@ -75193,6 +75329,14 @@
       "onboard_time": 1765012823,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 82339,
+      "num": 82339,
+      "word": "深圳已经这么先进了吗",
+      "onboard_time": 1766902220,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82313,
@@ -76417,6 +76561,14 @@
       "onboard_time": 1765201762,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 78584,
+      "num": 86027,
+      "word": "白敬亭才是真正的难哄",
+      "onboard_time": 1766901681,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 78541,
@@ -78889,6 +79041,14 @@
       "onboard_time": 1764844161,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70445,
+      "num": 153815,
+      "word": "外卖平台抢骑手开出3000元转会费",
+      "onboard_time": 1766902639,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70439,
@@ -83281,14 +83441,6 @@
       "onboard_time": 1766708960,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54410,
-      "num": 120439,
-      "word": "虞书欣何与双轨收官剧照",
-      "onboard_time": 1766899701,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 54362,
@@ -95289,6 +95441,14 @@
       "onboard_time": 1765599501,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19600,
+      "num": 222827,
+      "word": "夸年岛含喜量要爆啦",
+      "onboard_time": 1766901681,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 19564,

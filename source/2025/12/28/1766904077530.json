@@ -1,0 +1,410 @@
+{
+  "runTime": 1766904077530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 934259,
+        "num": 1149481,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413074,
+        "num": 413074,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 44486,
+        "num": 394466,
+        "word": "中国军事年终大片太硬核了",
+        "onboard_time": 1766893160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1287042,
+        "num": 393122,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390343,
+        "num": 390343,
+        "word": "深圳博物馆火了",
+        "onboard_time": 1766898260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454940,
+        "num": 361796,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441509,
+        "num": 350371,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327723,
+        "num": 327723,
+        "word": "现在就出发第三季收官",
+        "onboard_time": 1766902581,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287621,
+        "num": 287621,
+        "word": "深圳大学女团夺冠",
+        "onboard_time": 1766900300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247978,
+        "num": 247978,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620694,
+        "num": 245417,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383419,
+        "num": 239206,
+        "word": "谭松韵 黄蓉",
+        "onboard_time": 1766901140,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349136,
+        "num": 232622,
+        "word": "艾米艺考",
+        "onboard_time": 1766898440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297790,
+        "num": 229921,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19600,
+        "num": 222827,
+        "word": "夸年岛含喜量要爆啦",
+        "onboard_time": 1766901681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268140,
+        "num": 220392,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215635,
+        "num": 215635,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184313,
+        "num": 184313,
+        "word": "安崎在浪姐制片人面前求职",
+        "onboard_time": 1766902700,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219538,
+        "num": 176046,
+        "word": "王安宇 何老师往事不要再提",
+        "onboard_time": 1766903539,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 156565,
+        "word": "动物奶油 断句陷阱",
+        "onboard_time": 1766900180,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 595798,
+        "num": 156556,
+        "word": "章子怡女儿醒醒十岁了",
+        "onboard_time": 1766901681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318630,
+        "num": 156403,
+        "word": "殷世航曝网红情侣很多都是假的",
+        "onboard_time": 1766899821,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234109,
+        "num": 156298,
+        "word": "陈哲远 下半身还是能用的",
+        "onboard_time": 1766898740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155858,
+        "num": 155858,
+        "word": "于正说娜扎美到后无来者",
+        "onboard_time": 1766899279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70445,
+        "num": 153815,
+        "word": "外卖平台抢骑手开出3000元转会费",
+        "onboard_time": 1766902639,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153703,
+        "num": 153703,
+        "word": "古剑奇谭三 奇迹暖暖",
+        "onboard_time": 1766903601,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149744,
+        "num": 149744,
+        "word": "迪丽热巴感谢观众喜欢邓妍",
+        "onboard_time": 1766897540,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148687,
+        "num": 148687,
+        "word": "骄阳似我",
+        "onboard_time": 1766893099,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128050,
+        "num": 128050,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108086,
+        "num": 126610,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136125,
+        "num": 126591,
+        "word": "经常熬夜身体会悄悄变硬",
+        "onboard_time": 1766893580,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126307,
+        "num": 126307,
+        "word": "李晋晔这是真上过班",
+        "onboard_time": 1766903182,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64528,
+        "num": 125925,
+        "word": "专家科普原叶茶或茶饮料不足以成瘾",
+        "onboard_time": 1766898561,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125822,
+        "num": 125822,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109811,
+        "num": 109811,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103700,
+        "num": 103700,
+        "word": "堂本光一官宣结婚",
+        "onboard_time": 1766901620,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101216,
+        "num": 101216,
+        "word": "一诺暂时告别赛场",
+        "onboard_time": 1766845885,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98484,
+        "num": 98484,
+        "word": "泰国女子把女儿骗到日本卖淫",
+        "onboard_time": 1766886201,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95077,
+        "num": 95077,
+        "word": "普京称已无兴趣等乌方从占领区撤出",
+        "onboard_time": 1766901620,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90494,
+        "num": 90494,
+        "word": "12月31号可以发的文案",
+        "onboard_time": 1766901922,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89314,
+        "num": 89314,
+        "word": "白银为啥涨这么猛",
+        "onboard_time": 1766903060,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88182,
+        "num": 88182,
+        "word": "59%美国人无法承担1000美元意外支出",
+        "onboard_time": 1766898861,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88019,
+        "num": 88019,
+        "word": "这部长剧把我妈从短国拉出来了",
+        "onboard_time": 1766903900,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78584,
+        "num": 86027,
+        "word": "白敬亭才是真正的难哄",
+        "onboard_time": 1766901681,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86006,
+        "num": 86006,
+        "word": "虞书欣何与双轨收官剧照",
+        "onboard_time": 1766899701,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85169,
+        "num": 85169,
+        "word": "黄子弘凡 emoji",
+        "onboard_time": 1766903960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81254,
+        "num": 84767,
+        "word": "阳台上突然出现六个小狗头",
+        "onboard_time": 1766900241,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84673,
+        "num": 84673,
+        "word": "在家脸上不能有一根刘海",
+        "onboard_time": 1766903300,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84357,
+        "num": 84357,
+        "word": "张钧甯打服老外",
+        "onboard_time": 1766904022,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82339,
+        "num": 82339,
+        "word": "深圳已经这么先进了吗",
+        "onboard_time": 1766902220,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#务实是必备品格#"
+    }
+  }
+}
