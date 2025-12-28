@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766895218070,
+  "endTime": 1766896335920,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -33,6 +33,14 @@
       "onboard_time": 1766836103,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1065018,
+      "num": 1170402,
+      "word": "不要在车里放小玩偶了",
+      "onboard_time": 1766893700,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1041426,
@@ -75,6 +83,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 722676,
+      "num": 231453,
+      "word": "尚雯婕胃里割了六个息肉",
+      "onboard_time": 1766893459,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 697339,
+      "num": 697339,
+      "word": "奶奶喜丧女子因朋友少求助网友",
+      "onboard_time": 1766894179,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677152,
       "num": 404264,
       "word": "南京震感",
@@ -99,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 595519,
-      "num": 360356,
-      "word": "不要在车里放小玩偶了",
-      "onboard_time": 1766893700,
-      "rank": 3,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 554660,
       "num": 554660,
       "word": "Hero战胜AG",
@@ -129,14 +145,6 @@
       "onboard_time": 1766878517,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 517104,
-      "num": 231453,
-      "word": "尚雯婕胃里割了六个息肉",
-      "onboard_time": 1766893459,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 510823,
@@ -209,6 +217,14 @@
       "onboard_time": 1766846064,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 335345,
+      "num": 219450,
+      "word": "王星说恋爱4年没结婚是因为结不起",
+      "onboard_time": 1766894600,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 324026,
@@ -339,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221134,
+      "num": 221134,
+      "word": "艾滋病为何盯上老年人",
+      "onboard_time": 1766893759,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219152,
       "num": 206402,
       "word": "台北摇晃近1分钟",
@@ -353,6 +377,14 @@
       "onboard_time": 1766885000,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216664,
+      "num": 216664,
+      "word": "沈腾学王安宇自责到凌晨4点",
+      "onboard_time": 1766895622,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 206350,
@@ -371,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202941,
+      "num": 202941,
+      "word": "美媒关注中国网友讨论美国斩杀线",
+      "onboard_time": 1766895381,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 201542,
       "num": 196177,
       "word": "深圳震感",
@@ -387,20 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197223,
-      "num": 197223,
-      "word": "王星说恋爱4年没结婚是因为结不起",
-      "onboard_time": 1766894600,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195922,
       "num": 195922,
       "word": "骄阳似我",
       "onboard_time": 1766893099,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192901,
+      "num": 192901,
+      "word": "张艺兴2025腾讯音乐榜年度歌手",
+      "onboard_time": 1766896040,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 187128,
@@ -411,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185104,
-      "num": 185104,
-      "word": "艾滋病为何盯上老年人",
-      "onboard_time": 1766893759,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182245,
       "num": 182245,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181119,
+      "num": 181119,
+      "word": "经常熬夜身体会悄悄变硬",
+      "onboard_time": 1766893580,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179893,
@@ -459,12 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168985,
+      "num": 168985,
+      "word": "罚罪2没有把女性友好当口号",
+      "onboard_time": 1766895260,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166929,
       "num": 166929,
       "word": "花海退役也是1227",
       "onboard_time": 1766847082,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166860,
+      "num": 166860,
+      "word": "可把刘宇宁给忙坏了",
+      "onboard_time": 1766896099,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 163345,
@@ -488,6 +544,14 @@
       "word": "骄阳似我 伟大的暧昧期",
       "onboard_time": 1766850684,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157946,
+      "num": 157946,
+      "word": "玉茗茶骨",
+      "onboard_time": 1766895679,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -537,14 +601,6 @@
       "onboard_time": 1766893939,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 136554,
-      "num": 136554,
-      "word": "经常熬夜身体会悄悄变硬",
-      "onboard_time": 1766893580,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136191,
@@ -635,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123042,
+      "num": 123042,
+      "word": "突然对身边的一些人祛魅了",
+      "onboard_time": 1766895319,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122233,
       "num": 122233,
       "word": "今年我是歌手最出圈的梗",
@@ -643,20 +707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121755,
+      "num": 121755,
+      "word": "何与 天选靳朝诚不我欺",
+      "onboard_time": 1766895560,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119917,
       "num": 119917,
       "word": "胡萝卜通脾胃有多厉害",
       "onboard_time": 1766884879,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 118932,
-      "num": 118932,
-      "word": "奶奶喜丧女子因朋友少求助网友",
-      "onboard_time": 1766894179,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118294,
@@ -673,6 +737,14 @@
       "onboard_time": 1766894240,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115066,
+      "num": 115066,
+      "word": "蒯曼平野美宇3比0陈幸同钱天一",
+      "onboard_time": 1766895859,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112499,
@@ -720,6 +792,14 @@
       "word": "王曼昱不参赛",
       "onboard_time": 1766893160,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107220,
+      "num": 107220,
+      "word": "太阳鹈鹕爆发冲突",
+      "onboard_time": 1766895741,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -777,6 +857,14 @@
       "onboard_time": 1766845163,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103597,
+      "num": 103597,
+      "word": "杨博文看似没招实则也没招了",
+      "onboard_time": 1766896099,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 102032,
@@ -1027,8 +1115,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60635,
+      "num": 150589,
+      "word": "日本发生57车连撞事故",
+      "onboard_time": 1766896160,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58868,
-      "num": 371878,
+      "num": 441889,
       "word": "中国军事年终大片太硬核了",
       "onboard_time": 1766893160,
       "rank": 2,
@@ -1091,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38430,
+      "num": 116569,
+      "word": "男子裤裆藏毒70.8克进境被查",
+      "onboard_time": 1766895381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37577,
       "num": 60942,
       "word": "张泽禹 哥穿破布都是帅哥",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1766864534,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36217,
+      "num": 185599,
+      "word": "现在餐饮品牌只能火半年了吗",
+      "onboard_time": 1766894961,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36010,
@@ -1132,7 +1244,7 @@
     },
     {
       "raw_hot": 31313,
-      "num": 210650,
+      "num": 220527,
       "word": "查收易烊千玺的新年问候",
       "onboard_time": 1766892318,
       "rank": 14,
@@ -1161,14 +1273,6 @@
       "onboard_time": 1766862975,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25743,
-      "num": 185599,
-      "word": "现在餐饮品牌只能火半年了吗",
-      "onboard_time": 1766894961,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25662,
@@ -1219,20 +1323,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14894,
+      "num": 116339,
+      "word": "喜剧人的嘴都抹了蜜吧",
+      "onboard_time": 1766894480,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14359,
       "num": 624126,
       "word": "2025热搜里的中国",
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11411,
-      "num": 107447,
-      "word": "喜剧人的嘴都抹了蜜吧",
-      "onboard_time": 1766894480,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 8171,
