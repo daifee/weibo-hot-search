@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766904077530,
+  "endTime": 1766904895779,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 620694,
-      "num": 248982,
+      "num": 277642,
       "word": "王橹杰 懂得都懂",
       "onboard_time": 1766898800,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 595798,
-      "num": 156556,
+      "num": 187637,
       "word": "章子怡女儿醒醒十岁了",
       "onboard_time": 1766901681,
       "rank": 20,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 548014,
-      "num": 249071,
+      "num": 265428,
       "word": "艾米艺考",
       "onboard_time": 1766898440,
       "rank": 11,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456137,
+      "num": 373297,
+      "word": "尹正被731馆长误认为是日本人",
+      "onboard_time": 1766900360,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 447115,
       "num": 258374,
       "word": "姚晨发文纪念高崎机场即将关闭",
@@ -249,6 +257,14 @@
       "onboard_time": 1766842462,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 428838,
+      "num": 428838,
+      "word": "深圳博物馆火了",
+      "onboard_time": 1766898260,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410241,
@@ -275,16 +291,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390343,
-      "num": 390343,
-      "word": "深圳博物馆火了",
-      "onboard_time": 1766898260,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 383419,
-      "num": 239206,
+      "num": 266895,
       "word": "谭松韵 黄蓉",
       "onboard_time": 1766901140,
       "rank": 11,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 318630,
-      "num": 166768,
+      "num": 177913,
       "word": "殷世航曝网红情侣很多都是假的",
       "onboard_time": 1766899821,
       "rank": 41,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 287621,
-      "num": 287621,
+      "num": 289800,
       "word": "深圳大学女团夺冠",
       "onboard_time": 1766900300,
       "rank": 16,
@@ -393,14 +401,6 @@
       "onboard_time": 1766884940,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 268140,
-      "num": 220392,
-      "word": "尹正被731馆长误认为是日本人",
-      "onboard_time": 1766900360,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 264345,
@@ -483,6 +483,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 240994,
+      "num": 240994,
+      "word": "动物奶油 断句陷阱",
+      "onboard_time": 1766900180,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 239997,
+      "num": 239997,
+      "word": "安崎在浪姐制片人面前求职",
+      "onboard_time": 1766902700,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235564,
       "num": 235564,
       "word": "江苏卫视跨年全阵容",
@@ -545,6 +561,14 @@
       "onboard_time": 1766885000,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214013,
+      "num": 214013,
+      "word": "于正说娜扎美到后无来者",
+      "onboard_time": 1766899279,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 206350,
@@ -617,14 +641,6 @@
       "onboard_time": 1766892020,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184313,
-      "num": 184313,
-      "word": "安崎在浪姐制片人面前求职",
-      "onboard_time": 1766902700,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 182245,
@@ -747,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156565,
-      "num": 156565,
-      "word": "动物奶油 断句陷阱",
-      "onboard_time": 1766900180,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156132,
       "num": 156132,
       "word": "钟意",
@@ -763,12 +771,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155858,
-      "num": 155858,
-      "word": "于正说娜扎美到后无来者",
-      "onboard_time": 1766899279,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 155984,
+      "num": 155984,
+      "word": "燕云道歉",
+      "onboard_time": 1766904500,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 154460,
@@ -899,12 +907,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129702,
+      "num": 129702,
+      "word": "黄子弘凡 emoji",
+      "onboard_time": 1766903960,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129122,
       "num": 129122,
       "word": "她选择了在老板最脆弱的时候报复他",
       "onboard_time": 1766892619,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128718,
+      "num": 128718,
+      "word": "这部长剧把我妈从短国拉出来了",
+      "onboard_time": 1766903900,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127747,
@@ -921,6 +945,14 @@
       "onboard_time": 1766899341,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127288,
+      "num": 127288,
+      "word": "堂本光一官宣结婚",
+      "onboard_time": 1766901620,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 126506,
@@ -1123,6 +1155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 108552,
+      "num": 108552,
+      "word": "反人类暴行",
+      "onboard_time": 1766904800,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108530,
       "num": 108530,
       "word": "阳台上突然出现六个小狗头",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1766845163,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103700,
-      "num": 103700,
-      "word": "堂本光一官宣结婚",
-      "onboard_time": 1766901620,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 103597,
@@ -1403,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90904,
+      "num": 90904,
+      "word": "在家脸上不能有一根刘海",
+      "onboard_time": 1766903300,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90494,
       "num": 90494,
       "word": "12月31号可以发的文案",
@@ -1443,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88019,
-      "num": 88019,
-      "word": "这部长剧把我妈从短国拉出来了",
-      "onboard_time": 1766903900,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87856,
       "num": 87856,
       "word": "2025国际十佳运动员",
@@ -1475,20 +1507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85169,
-      "num": 85169,
-      "word": "黄子弘凡 emoji",
-      "onboard_time": 1766903960,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 84974,
+      "num": 84974,
+      "word": "檀健次废土战士风",
+      "onboard_time": 1766904681,
+      "rank": 44,
+      "category": "音乐"
     },
     {
-      "raw_hot": 84673,
-      "num": 84673,
-      "word": "在家脸上不能有一根刘海",
-      "onboard_time": 1766903300,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 84822,
+      "num": 84822,
+      "word": "单依纯连续2年新歌收听破亿",
+      "onboard_time": 1766904622,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 84357,
@@ -1515,12 +1547,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 82915,
+      "num": 82915,
+      "word": "章子怡女儿醒醒写书了",
+      "onboard_time": 1766904860,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82691,
+      "num": 82691,
+      "word": "如果把发朋友圈习惯改掉",
+      "onboard_time": 1766903900,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82339,
       "num": 82339,
       "word": "深圳已经这么先进了吗",
       "onboard_time": 1766902220,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81167,
+      "num": 81167,
+      "word": "时代少年团少年正稳步走来",
+      "onboard_time": 1766904860,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 79887,
@@ -1579,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74908,
+      "num": 153815,
+      "word": "外卖平台抢骑手开出3000元转会费",
+      "onboard_time": 1766902639,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74807,
       "num": 156936,
       "word": "永州夺冠",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1766854819,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 70445,
-      "num": 153815,
-      "word": "外卖平台抢骑手开出3000元转会费",
-      "onboard_time": 1766902639,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69282,
@@ -1852,7 +1908,7 @@
     },
     {
       "raw_hot": 19600,
-      "num": 222827,
+      "num": 257119,
       "word": "夸年岛含喜量要爆啦",
       "onboard_time": 1766901681,
       "rank": 14,
