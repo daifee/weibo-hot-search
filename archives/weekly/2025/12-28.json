@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766896335920,
+  "endTime": 1766898149257,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -27,6 +27,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1365977,
+      "num": 513533,
+      "word": "黄子韬因脑淤血手术缝了43针",
+      "onboard_time": 1766896460,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1297295,
       "num": 1297295,
       "word": "橹穆双人舞台",
@@ -35,8 +43,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1065018,
-      "num": 1170402,
+      "raw_hot": 1106868,
+      "num": 1177099,
       "word": "不要在车里放小玩偶了",
       "onboard_time": 1766893700,
       "rank": 3,
@@ -49,6 +57,14 @@
       "onboard_time": 1766850084,
       "rank": 5,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1002585,
+      "num": 1002585,
+      "word": "奶奶喜丧女子因朋友少求助网友",
+      "onboard_time": 1766894179,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 779670,
@@ -84,19 +100,11 @@
     },
     {
       "raw_hot": 722676,
-      "num": 231453,
+      "num": 236854,
       "word": "尚雯婕胃里割了六个息肉",
       "onboard_time": 1766893459,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 697339,
-      "num": 697339,
-      "word": "奶奶喜丧女子因朋友少求助网友",
-      "onboard_time": 1766894179,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 677152,
@@ -121,6 +129,14 @@
       "onboard_time": 1766887820,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607132,
+      "num": 438713,
+      "word": "沈腾学王安宇自责到凌晨4点",
+      "onboard_time": 1766895622,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 554660,
@@ -179,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445640,
+      "num": 445640,
+      "word": "日本发生57车连撞事故",
+      "onboard_time": 1766896160,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 429489,
       "num": 226765,
       "word": "487 潇潇",
@@ -195,12 +219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394724,
+      "num": 232739,
+      "word": "黄晓明自曝曾救过刘亦菲的命",
+      "onboard_time": 1766896640,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393198,
       "num": 344011,
       "word": "大盘鸡店嘲讽差评学生学历低",
       "onboard_time": 1766882959,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386364,
+      "num": 386364,
+      "word": "美媒关注中国网友讨论美国斩杀线",
+      "onboard_time": 1766895381,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 379355,
@@ -220,7 +260,7 @@
     },
     {
       "raw_hot": 335345,
-      "num": 219450,
+      "num": 231536,
       "word": "王星说恋爱4年没结婚是因为结不起",
       "onboard_time": 1766894600,
       "rank": 16,
@@ -299,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261636,
+      "num": 153774,
+      "word": "恋与深空联名",
+      "onboard_time": 1766896460,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252251,
       "num": 252251,
       "word": "鹿晗工作室居然还在运营QQ空间",
@@ -323,12 +371,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 244163,
+      "num": 181119,
+      "word": "经常熬夜身体会悄悄变硬",
+      "onboard_time": 1766893580,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 242472,
       "num": 185356,
       "word": "上厕所玩手机一次伤害7个器官",
       "onboard_time": 1766891180,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239677,
+      "num": 239677,
+      "word": "逍遥",
+      "onboard_time": 1766809460,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 235564,
@@ -379,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216664,
-      "num": 216664,
-      "word": "沈腾学王安宇自责到凌晨4点",
-      "onboard_time": 1766895622,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206350,
       "num": 206350,
       "word": "谭松韵穿耿耿校服跟振华道歉",
@@ -403,12 +459,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202941,
-      "num": 202941,
-      "word": "美媒关注中国网友讨论美国斩杀线",
-      "onboard_time": 1766895381,
-      "rank": 17,
-      "category": "海外新闻"
+      "raw_hot": 202311,
+      "num": 149487,
+      "word": "迪丽热巴感谢观众喜欢邓妍",
+      "onboard_time": 1766897540,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 201542,
@@ -459,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181119,
-      "num": 181119,
-      "word": "经常熬夜身体会悄悄变硬",
-      "onboard_time": 1766893580,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 179893,
       "num": 179893,
       "word": "台湾6.6级地震亲历者发声",
@@ -499,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169864,
+      "num": 147855,
+      "word": "张柏芝耳骨夹",
+      "onboard_time": 1766896341,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168985,
       "num": 168985,
       "word": "罚罪2没有把女性友好当口号",
       "onboard_time": 1766895260,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168369,
+      "num": 146599,
+      "word": "疑似内娱跳的最齐的一回",
+      "onboard_time": 1766897421,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 166929,
@@ -579,6 +643,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 144209,
+      "num": 124896,
+      "word": "原来这就是软孤立",
+      "onboard_time": 1766897600,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143884,
       "num": 143884,
       "word": "她可能还没意识到自己多牛",
@@ -593,6 +665,14 @@
       "onboard_time": 1766882059,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140826,
+      "num": 140826,
+      "word": "老舅后劲",
+      "onboard_time": 1766897121,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 140274,
@@ -617,6 +697,14 @@
       "onboard_time": 1766894360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131505,
+      "num": 131505,
+      "word": "赵丽颖逍遥mommy小城大事daddy",
+      "onboard_time": 1766897600,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 131448,
@@ -657,6 +745,14 @@
       "onboard_time": 1766887999,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "爱莲说的莲是什么花",
+      "onboard_time": 1766898022,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126173,
@@ -715,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120343,
+      "num": 120343,
+      "word": "睡莲不是莲",
+      "onboard_time": 1766897421,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 119917,
       "num": 119917,
       "word": "胡萝卜通脾胃有多厉害",
@@ -745,6 +849,30 @@
       "onboard_time": 1766895859,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113529,
+      "num": 113529,
+      "word": "郑恺回应被叫西红柿首父",
+      "onboard_time": 1766897961,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112811,
+      "num": 112811,
+      "word": "檀健次打破第四面墙",
+      "onboard_time": 1766898022,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 112615,
+      "num": 112615,
+      "word": "人不能做长期紧张感工作",
+      "onboard_time": 1766897661,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 112499,
@@ -891,6 +1019,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 100123,
+      "num": 112616,
+      "word": "奶奶也追张凌赫",
+      "onboard_time": 1766898022,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99686,
       "num": 157372,
       "word": "荣耀之战2026官宣澳门",
@@ -939,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95206,
+      "num": 112619,
+      "word": "东方卫视跨年年终报告信息量好大",
+      "onboard_time": 1766897302,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94240,
       "num": 94240,
       "word": "肖战一步步走进莫得闲的故事里",
@@ -971,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89855,
+      "num": 115824,
+      "word": "于洋被黄子韬气得说自己是徐艺洋",
+      "onboard_time": 1766896400,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89515,
       "num": 157203,
       "word": "万物不及妖刀",
@@ -1001,14 +1153,6 @@
       "onboard_time": 1766893580,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85232,
-      "num": 157169,
-      "word": "逍遥",
-      "onboard_time": 1766809460,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 83862,
@@ -1115,16 +1259,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60635,
-      "num": 150589,
-      "word": "日本发生57车连撞事故",
-      "onboard_time": 1766896160,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 60673,
+      "num": 220527,
+      "word": "查收易烊千玺的新年问候",
+      "onboard_time": 1766892318,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 58868,
-      "num": 441889,
+      "num": 554051,
       "word": "中国军事年终大片太硬核了",
       "onboard_time": 1766893160,
       "rank": 2,
@@ -1243,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31313,
-      "num": 220527,
-      "word": "查收易烊千玺的新年问候",
-      "onboard_time": 1766892318,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30633,
       "num": 60844,
       "word": "侯明昊这张脸我记住了",
@@ -1307,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21860,
+      "num": 107204,
+      "word": "地震时台北捷运列车车厢灯狂闪",
+      "onboard_time": 1766896579,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 17613,
       "num": 392916,
       "word": "中国低温火箭年度发射新纪录",
@@ -1323,7 +1467,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14894,
+      "raw_hot": 14946,
       "num": 116339,
       "word": "喜剧人的嘴都抹了蜜吧",
       "onboard_time": 1766894480,

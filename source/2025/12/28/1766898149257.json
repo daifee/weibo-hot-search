@@ -1,0 +1,410 @@
+{
+  "runTime": 1766898149257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106868,
+        "num": 1177099,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1002585,
+        "num": 1002585,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56942,
+        "num": 554051,
+        "word": "中国军事年终大片太硬核了",
+        "onboard_time": 1766893160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1365977,
+        "num": 513533,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445640,
+        "num": 445640,
+        "word": "日本发生57车连撞事故",
+        "onboard_time": 1766896160,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 607132,
+        "num": 438713,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386364,
+        "num": 386364,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325860,
+        "num": 325860,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240608,
+        "num": 240608,
+        "word": "一诺暂时告别赛场",
+        "onboard_time": 1766845885,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239677,
+        "num": 239677,
+        "word": "逍遥",
+        "onboard_time": 1766897721,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584735,
+        "num": 236854,
+        "word": "尚雯婕胃里割了六个息肉",
+        "onboard_time": 1766893459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394724,
+        "num": 232739,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328921,
+        "num": 231536,
+        "word": "王星说恋爱4年没结婚是因为结不起",
+        "onboard_time": 1766894600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300754,
+        "num": 226591,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 224663,
+        "word": "爱奇艺回应充25年会员退费难",
+        "onboard_time": 1766887820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259496,
+        "num": 223937,
+        "word": "单依纯公开承认自己有表达障碍",
+        "onboard_time": 1766841082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220118,
+        "num": 220118,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 195319,
+        "num": 195319,
+        "word": "王丽坤拍短剧的原因找到了",
+        "onboard_time": 1766887759,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195213,
+        "num": 195213,
+        "word": "鹿晗工作室居然还在运营QQ空间",
+        "onboard_time": 1766880558,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 154901,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261636,
+        "num": 153774,
+        "word": "恋与深空联名",
+        "onboard_time": 1766896460,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244163,
+        "num": 151449,
+        "word": "经常熬夜身体会悄悄变硬",
+        "onboard_time": 1766893580,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202311,
+        "num": 149487,
+        "word": "迪丽热巴感谢观众喜欢邓妍",
+        "onboard_time": 1766897540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169864,
+        "num": 147855,
+        "word": "张柏芝耳骨夹",
+        "onboard_time": 1766896341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168369,
+        "num": 146599,
+        "word": "疑似内娱跳的最齐的一回",
+        "onboard_time": 1766897421,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161129,
+        "num": 144439,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158937,
+        "num": 141009,
+        "word": "泰国女子把女儿骗到日本卖淫",
+        "onboard_time": 1766886201,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140826,
+        "num": 140826,
+        "word": "老舅后劲",
+        "onboard_time": 1766897121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131505,
+        "num": 131505,
+        "word": "赵丽颖逍遥mommy小城大事daddy",
+        "onboard_time": 1766897600,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126506,
+        "num": 126506,
+        "word": "爱莲说的莲是什么花",
+        "onboard_time": 1766898022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144209,
+        "num": 124896,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122103,
+        "num": 122103,
+        "word": "男子爱奇艺会员充了25年遇退费难",
+        "onboard_time": 1766878517,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120343,
+        "num": 120343,
+        "word": "睡莲不是莲",
+        "onboard_time": 1766897421,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119464,
+        "num": 119464,
+        "word": "普京突然穿上军装",
+        "onboard_time": 1766884940,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89855,
+        "num": 115824,
+        "word": "于洋被黄子韬气得说自己是徐艺洋",
+        "onboard_time": 1766896400,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113529,
+        "num": 113529,
+        "word": "郑恺回应被叫西红柿首父",
+        "onboard_time": 1766897961,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60673,
+        "num": 113014,
+        "word": "查收易烊千玺的新年问候",
+        "onboard_time": 1766892318,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "檀健次打破第四面墙",
+        "onboard_time": 1766898022,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95206,
+        "num": 112619,
+        "word": "东方卫视跨年年终报告信息量好大",
+        "onboard_time": 1766897302,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100123,
+        "num": 112616,
+        "word": "奶奶也追张凌赫",
+        "onboard_time": 1766898022,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112615,
+        "num": 112615,
+        "word": "人不能做长期紧张感工作",
+        "onboard_time": 1766897661,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110778,
+        "num": 110778,
+        "word": "罚罪2没有把女性友好当口号",
+        "onboard_time": 1766895260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109761,
+        "num": 109761,
+        "word": "突然对身边的一些人祛魅了",
+        "onboard_time": 1766895319,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108900,
+        "num": 108900,
+        "word": "女子4万余元隆胸睡觉翻身假体塌陷",
+        "onboard_time": 1766887579,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94565,
+        "num": 108264,
+        "word": "骄阳似我",
+        "onboard_time": 1766893099,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108227,
+        "num": 108227,
+        "word": "房贷才还30年爱奇艺会员充了25年",
+        "onboard_time": 1766884879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21860,
+        "num": 107204,
+        "word": "地震时台北捷运列车车厢灯狂闪",
+        "onboard_time": 1766896579,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107193,
+        "num": 107193,
+        "word": "何炅通告还没给到本人",
+        "onboard_time": 1766891840,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105672,
+        "num": 105672,
+        "word": "一诺回归后会在二队打一段时间",
+        "onboard_time": 1766882178,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14946,
+        "num": 103806,
+        "word": "喜剧人的嘴都抹了蜜吧",
+        "onboard_time": 1766894480,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#务实是必备品格#"
+    }
+  }
+}
