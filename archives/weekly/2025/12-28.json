@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766907726727,
+  "endTime": 1766910994413,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -24,6 +24,14 @@
       "word": "黄子韬因脑淤血手术缝了43针",
       "onboard_time": 1766896460,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1554826,
+      "num": 1554826,
+      "word": "2026春晚分会场发布",
+      "onboard_time": 1766906960,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 605352,
-      "num": 241090,
+      "num": 467185,
       "word": "王安宇告别现在就出发",
       "onboard_time": 1766904440,
       "rank": 6,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 460079,
-      "num": 229395,
+      "num": 247678,
       "word": "空腹爬楼梯瘦了30斤",
       "onboard_time": 1766904981,
       "rank": 12,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 440500,
-      "num": 245261,
+      "num": 351132,
       "word": "动物奶油 断句陷阱",
       "onboard_time": 1766900180,
       "rank": 19,
@@ -331,20 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371004,
+      "num": 247002,
+      "word": "炎亚纶发文感谢飞轮海",
+      "onboard_time": 1766906480,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360353,
+      "num": 236599,
+      "word": "虞书欣华语艺人国际排行榜第一",
+      "onboard_time": 1766905821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347809,
       "num": 347809,
       "word": "大帅",
       "onboard_time": 1766846064,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 336601,
-      "num": 224737,
-      "word": "炎亚纶发文感谢飞轮海",
-      "onboard_time": 1766906480,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 335345,
@@ -371,20 +387,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 321071,
-      "num": 218187,
-      "word": "虞书欣华语艺人国际排行榜第一",
-      "onboard_time": 1766905821,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 318630,
       "num": 177913,
       "word": "殷世航曝网红情侣很多都是假的",
       "onboard_time": 1766899821,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 312724,
+      "num": 482619,
+      "word": "孙颖莎当时第一时间汇报伤情",
+      "onboard_time": 1766908820,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 299122,
@@ -483,12 +499,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256587,
+      "num": 218343,
+      "word": "难怪认识的一个男生老说要嫁人了",
+      "onboard_time": 1766908581,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 254927,
+      "num": 212590,
+      "word": "炎亚纶发的图有汪东城水印",
+      "onboard_time": 1766907920,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254341,
+      "num": 254341,
+      "word": "再见爱人 难哄",
+      "onboard_time": 1766905340,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254184,
       "num": 239997,
       "word": "安崎在浪姐制片人面前求职",
       "onboard_time": 1766902700,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253753,
+      "num": 253753,
+      "word": "财政部明年将促进居民就业增收",
+      "onboard_time": 1766905760,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 252251,
@@ -505,14 +553,6 @@
       "onboard_time": 1766809460,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249588,
-      "num": 249588,
-      "word": "再见爱人 难哄",
-      "onboard_time": 1766905340,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 248457,
@@ -545,14 +585,6 @@
       "onboard_time": 1766891180,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 235892,
-      "num": 235892,
-      "word": "2026春晚分会场发布",
-      "onboard_time": 1766906960,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 235564,
@@ -625,6 +657,14 @@
       "onboard_time": 1766899279,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209203,
+      "num": 209203,
+      "word": "胡萝卜蛋糕",
+      "onboard_time": 1766907321,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 206350,
@@ -763,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170121,
+      "num": 128902,
+      "word": "黑色小猫果然耐脏",
+      "onboard_time": 1766909720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169864,
       "num": 147855,
       "word": "张柏芝耳骨夹",
@@ -809,6 +857,14 @@
       "onboard_time": 1766896099,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163843,
+      "num": 163843,
+      "word": "女子花上万元跟主播养胃暴瘦30斤",
+      "onboard_time": 1766908100,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 163718,
@@ -875,6 +931,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150713,
+      "num": 150713,
+      "word": "印度游客乘坐中国高铁",
+      "onboard_time": 1766909961,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148789,
+      "num": 148789,
+      "word": "王俊凯话剧幕后纪录片",
+      "onboard_time": 1766909599,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147956,
       "num": 147956,
       "word": "山东鲁能女团亚军",
@@ -939,6 +1011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137982,
+      "num": 137982,
+      "word": "金晨长文告别现在就出发",
+      "onboard_time": 1766909779,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137827,
       "num": 137827,
       "word": "覃予萱3比0徐奕",
@@ -961,6 +1041,14 @@
       "onboard_time": 1766894360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "陈幸同3比0平野美宇",
+      "onboard_time": 1766910680,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 131505,
@@ -1011,20 +1099,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128928,
-      "num": 220868,
-      "word": "财政部明年将促进居民就业增收",
-      "onboard_time": 1766905760,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 128718,
       "num": 128718,
       "word": "这部长剧把我妈从短国拉出来了",
       "onboard_time": 1766903900,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128498,
+      "num": 128498,
+      "word": "2026春晚分会场之一合肥",
+      "onboard_time": 1766910501,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 127747,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1766899999,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125271,
+      "num": 125271,
+      "word": "白银价格已暴涨170%",
+      "onboard_time": 1766909541,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 124960,
@@ -1155,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121152,
+      "num": 121152,
+      "word": "800块的苹果全家桶",
+      "onboard_time": 1766908640,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120343,
       "num": 120343,
       "word": "睡莲不是莲",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1766904860,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "万元LV鞋发黄销售说踩了水",
+      "onboard_time": 1766909901,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 116247,
@@ -1371,14 +1483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103923,
-      "num": 103923,
-      "word": "胡萝卜蛋糕",
-      "onboard_time": 1766907321,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 103597,
       "num": 103597,
       "word": "杨博文看似没招实则也没招了",
@@ -1393,6 +1497,14 @@
       "onboard_time": 1766907380,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102088,
+      "num": 117594,
+      "word": "日本妄图战略围堵中国",
+      "onboard_time": 1766908881,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102050,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101017,
+      "num": 101017,
+      "word": "偶遇何美延带三娃做手工",
+      "onboard_time": 1766910620,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 100697,
@@ -1472,6 +1592,14 @@
       "word": "整治国企招聘近亲繁殖为何刻不容缓",
       "onboard_time": 1766878457,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98219,
+      "num": 98219,
+      "word": "培育郎朗的钢琴家去世",
+      "onboard_time": 1766909779,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93886,
+      "num": 93886,
+      "word": "陈鑫海新剧杀死菩萨文学比赛",
+      "onboard_time": 1766908581,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93694,
       "num": 93694,
       "word": "有歌第二季定档",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1766905520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91962,
+      "num": 117825,
+      "word": "台湾游客在东北被抢着买单",
+      "onboard_time": 1766910079,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91789,
@@ -1915,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49500,
+      "num": 129242,
+      "word": "湖北严肃追责问责185人",
+      "onboard_time": 1766909300,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 48307,
       "num": 112788,
       "word": "回顾樊振东跨年夜和球迷告别",
@@ -1947,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38453,
+      "num": 209096,
+      "word": "32岁女老师突发脑梗去世",
+      "onboard_time": 1766910501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38430,
       "num": 116569,
       "word": "男子裤裆藏毒70.8克进境被查",
@@ -1969,6 +2129,14 @@
       "onboard_time": 1766864534,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36628,
+      "num": 209116,
+      "word": "明年继续安排资金支持消费品以旧换新",
+      "onboard_time": 1766910739,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36217,
@@ -2035,6 +2203,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 27419,
+      "num": 118326,
+      "word": "洛阳白马寺千年石马频繁被游客踩踏",
+      "onboard_time": 1766910020,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26967,
       "num": 47010,
       "word": "苏新皓抓周抓的是镜头",
@@ -2099,6 +2275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 20250,
+      "num": 174134,
+      "word": "天宫课堂助教小南再次亮相",
+      "onboard_time": 1766910561,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19600,
       "num": 257119,
       "word": "夸年岛含喜量要爆啦",
@@ -2145,6 +2329,14 @@
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7345,
+      "num": 526872,
+      "word": "故事里的2025",
+      "onboard_time": 1766910801,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2153,6 +2345,9 @@
     },
     {
       "word": "#务实是必备品格#"
+    },
+    {
+      "word": "#总书记的足迹#"
     }
   ]
 }
