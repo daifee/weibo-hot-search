@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766914963433,
+  "endTime": 1766917759767,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -72,6 +72,22 @@
       "word": "奶奶喜丧女子因朋友少求助网友",
       "onboard_time": 1766894179,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 874436,
+      "num": 1139909,
+      "word": "新音节目单",
+      "onboard_time": 1766915721,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 827583,
+      "num": 827583,
+      "word": "兔子警官回应作秀质疑",
+      "onboard_time": 1766913440,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575463,
+      "num": 191123,
+      "word": "严浩翔美式前刺",
+      "onboard_time": 1766916021,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 556184,
+      "num": 189983,
+      "word": "王梓莼称没有霸凌任何人",
+      "onboard_time": 1766915662,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554660,
       "num": 554660,
       "word": "Hero战胜AG",
@@ -227,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517394,
+      "num": 517394,
+      "word": "男子内裤裆部藏70.8克毒品进境",
+      "onboard_time": 1766912480,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510823,
       "num": 241411,
       "word": "王丽坤拍短剧的原因找到了",
@@ -249,6 +289,14 @@
       "onboard_time": 1766900360,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476500,
+      "num": 476500,
+      "word": "张杰谢娜 同台",
+      "onboard_time": 1766915181,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 471995,
@@ -323,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411083,
+      "num": 212010,
+      "word": "日本老年人称已经没希望了",
+      "onboard_time": 1766912180,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 410241,
       "num": 569835,
       "word": "美媒关注中国网友讨论美国斩杀线",
@@ -339,12 +395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 395523,
-      "num": 212010,
-      "word": "日本老年人称已经没希望了",
-      "onboard_time": 1766912180,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 401115,
+      "num": 312246,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 393198,
@@ -377,14 +433,6 @@
       "onboard_time": 1766906480,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362767,
-      "num": 362767,
-      "word": "兔子警官回应作秀质疑",
-      "onboard_time": 1766913440,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360353,
@@ -619,6 +667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 246925,
+      "num": 178433,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244163,
       "num": 187660,
       "word": "经常熬夜身体会悄悄变硬",
@@ -633,14 +689,6 @@
       "onboard_time": 1766891180,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239833,
-      "num": 215914,
-      "word": "半个娱乐圈都来董璇评论区团建了",
-      "onboard_time": 1766913381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 235564,
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207918,
+      "num": 182860,
+      "word": "严浩翔 马丁",
+      "onboard_time": 1766917220,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206350,
       "num": 206350,
       "word": "谭松韵穿耿耿校服跟振华道歉",
@@ -803,12 +859,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192553,
-      "num": 192553,
-      "word": "男子内裤裆部藏70.8克毒品进境",
-      "onboard_time": 1766912480,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 192901,
+      "num": 192901,
+      "word": "仙逆",
+      "onboard_time": 1766916442,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 191324,
@@ -899,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171791,
+      "num": 171791,
+      "word": "王鹤棣发破8000热度福利",
+      "onboard_time": 1766916500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170190,
       "num": 95355,
       "word": "女主播每天要私信引诱120个大哥",
@@ -979,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161244,
+      "num": 117893,
+      "word": "刘耀文 撕漫男",
+      "onboard_time": 1766917522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161206,
       "num": 161206,
       "word": "期末周",
@@ -993,6 +1065,14 @@
       "onboard_time": 1766844502,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158661,
+      "num": 158661,
+      "word": "商场展车被小孩误触撞入手机店",
+      "onboard_time": 1766916381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158491,
@@ -1267,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126798,
-      "num": 126798,
-      "word": "苹果煮水喝好处太多了",
-      "onboard_time": 1766913562,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126506,
       "num": 126506,
       "word": "爱莲说的莲是什么花",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1766888600,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118128,
+      "num": 118128,
+      "word": "冬天午睡一定要谨慎",
+      "onboard_time": 1766914880,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117845,
@@ -1755,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98330,
+      "num": 98330,
+      "word": "鹿晗工作室回应还在运营QQ空间",
+      "onboard_time": 1766917283,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98245,
       "num": 98245,
       "word": "整治国企招聘近亲繁殖为何刻不容缓",
@@ -1811,12 +1899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96827,
+      "num": 96827,
+      "word": "家长花钱拍照宝宝没一张笑的",
+      "onboard_time": 1766917162,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96773,
       "num": 96773,
       "word": "永州市委书记与球员拥抱被举高高",
       "onboard_time": 1766912540,
       "rank": 41,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 96682,
+      "num": 96682,
+      "word": "骄阳似我是江浙沪现偶剧吧",
+      "onboard_time": 1766915542,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96526,
@@ -2027,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87778,
+      "num": 92457,
+      "word": "刺激杯总决赛终局之战",
+      "onboard_time": 1766917042,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87239,
       "num": 87239,
       "word": "这狗狗大孙比那个大孙懂事",
@@ -2107,14 +2219,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 83502,
-      "num": 83502,
-      "word": "冬天午睡一定要谨慎",
-      "onboard_time": 1766914880,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83451,
       "num": 83451,
       "word": "周洁琼绿眸配红唇",
@@ -2179,6 +2283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79264,
+      "num": 110952,
+      "word": "王楚钦决赛热身",
+      "onboard_time": 1766917401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78776,
       "num": 89048,
       "word": "熬夜一时爽息肉找上门",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1766853620,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78283,
+      "num": 110990,
+      "word": "90后姑娘用幼师所学当辅警",
+      "onboard_time": 1766916320,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77645,
@@ -2241,6 +2361,22 @@
       "onboard_time": 1766843541,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74572,
+      "num": 89879,
+      "word": "特斯拉回应女子30多万买到老款车",
+      "onboard_time": 1766915721,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73977,
+      "num": 89437,
+      "word": "贵州茅台董事长谈茅台价格",
+      "onboard_time": 1766916801,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 73675,
@@ -2308,7 +2444,7 @@
     },
     {
       "raw_hot": 58842,
-      "num": 526872,
+      "num": 668173,
       "word": "故事里的2025",
       "onboard_time": 1766910801,
       "rank": 2,
@@ -2467,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32031,
+      "num": 221623,
+      "word": "千玺陪你和更好的自己say嗨",
+      "onboard_time": 1766912720,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31491,
       "num": 223828,
       "word": "滑雪脸僵了试试美团医美",
@@ -2505,14 +2649,6 @@
       "onboard_time": 1766911220,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27950,
-      "num": 221623,
-      "word": "千玺陪你和更好的自己say嗨",
-      "onboard_time": 1766912720,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 27694,
@@ -2603,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18374,
+      "num": 103253,
+      "word": "美国旧舰修不完新舰造不出",
+      "onboard_time": 1766916500,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17613,
       "num": 392916,
       "word": "中国低温火箭年度发射新纪录",
@@ -2633,6 +2777,14 @@
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10237,
+      "num": 100964,
+      "word": "李梓溪海边甜酷辣妹",
+      "onboard_time": 1766916080,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 8171,

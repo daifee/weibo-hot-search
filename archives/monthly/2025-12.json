@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766914963433,
+  "endTime": 1766917759767,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -3747,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 874436,
+      "num": 1139909,
+      "word": "新音节目单",
+      "onboard_time": 1766745320,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 873026,
       "num": 845072,
       "word": "何炅 已经在努力劝架了",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1764749963,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827583,
+      "num": 827583,
+      "word": "兔子警官回应作秀质疑",
+      "onboard_time": 1766913440,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 827112,
@@ -7763,14 +7779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 579032,
-      "num": 579032,
-      "word": "新音节目单",
-      "onboard_time": 1766745320,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 578066,
       "num": 418025,
       "word": "灌面汤杀妻案",
@@ -7841,6 +7849,14 @@
       "onboard_time": 1764998662,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 575463,
+      "num": 191123,
+      "word": "严浩翔美式前刺",
+      "onboard_time": 1766916021,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 575367,
@@ -8353,6 +8369,14 @@
       "onboard_time": 1764550222,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 556184,
+      "num": 189983,
+      "word": "王梓莼称没有霸凌任何人",
+      "onboard_time": 1766915662,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 556103,
@@ -9505,6 +9529,14 @@
       "onboard_time": 1764750801,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 517394,
+      "num": 517394,
+      "word": "男子内裤裆部藏70.8克毒品进境",
+      "onboard_time": 1766912480,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516596,
@@ -10929,6 +10961,14 @@
       "onboard_time": 1766579781,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 476500,
+      "num": 476500,
+      "word": "张杰谢娜 同台",
+      "onboard_time": 1766915181,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 475770,
@@ -13555,6 +13595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411083,
+      "num": 212010,
+      "word": "日本老年人称已经没希望了",
+      "onboard_time": 1766912180,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 410933,
       "num": 264734,
       "word": "李昀锐告了132人",
@@ -13987,6 +14035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 401115,
+      "num": 312246,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400961,
       "num": 400961,
       "word": "自闭症儿子遇难父母靠工作麻痹自己",
@@ -14329,14 +14385,6 @@
       "onboard_time": 1766837482,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395523,
-      "num": 212010,
-      "word": "日本老年人称已经没希望了",
-      "onboard_time": 1766912180,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 395142,
@@ -15897,14 +15945,6 @@
       "onboard_time": 1766013677,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 362767,
-      "num": 362767,
-      "word": "兔子警官回应作秀质疑",
-      "onboard_time": 1766913440,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362754,
@@ -23779,6 +23819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 246925,
+      "num": 178433,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246906,
       "num": 185362,
       "word": "马国明父亲葬礼",
@@ -24385,14 +24433,6 @@
       "onboard_time": 1765499840,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239833,
-      "num": 215914,
-      "word": "半个娱乐圈都来董璇评论区团建了",
-      "onboard_time": 1766913381,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 239450,
@@ -27889,6 +27929,14 @@
       "onboard_time": 1766471121,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207918,
+      "num": 182860,
+      "word": "严浩翔 马丁",
+      "onboard_time": 1766917220,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 207900,
@@ -31528,14 +31576,6 @@
       "word": "一家5口人有4口查出甲状腺癌",
       "onboard_time": 1766295562,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192553,
-      "num": 192553,
-      "word": "男子内裤裆部藏70.8克毒品进境",
-      "onboard_time": 1766912480,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -36499,6 +36539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171791,
+      "num": 171791,
+      "word": "王鹤棣发破8000热度福利",
+      "onboard_time": 1766916500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171771,
       "num": 171771,
       "word": "甜心格格影视化",
@@ -39155,6 +39203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161244,
+      "num": 117893,
+      "word": "刘耀文 撕漫男",
+      "onboard_time": 1766917522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161238,
       "num": 161238,
       "word": "流感病毒有效药物",
@@ -39801,6 +39857,14 @@
       "onboard_time": 1765615402,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158661,
+      "num": 158661,
+      "word": "商场展车被小孩误触撞入手机店",
+      "onboard_time": 1766916381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158618,
@@ -52179,14 +52243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126798,
-      "num": 126798,
-      "word": "苹果煮水喝好处太多了",
-      "onboard_time": 1766913562,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126784,
       "num": 239664,
       "word": "献血年龄拟延长至65岁",
@@ -56601,6 +56657,14 @@
       "onboard_time": 1765089861,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118128,
+      "num": 118128,
+      "word": "冬天午睡一定要谨慎",
+      "onboard_time": 1766914880,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 118126,
@@ -68147,6 +68211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98330,
+      "num": 98330,
+      "word": "鹿晗工作室回应还在运营QQ空间",
+      "onboard_time": 1766917283,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98322,
       "num": 106495,
       "word": "N1听力",
@@ -68883,6 +68955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96827,
+      "num": 96827,
+      "word": "家长花钱拍照宝宝没一张笑的",
+      "onboard_time": 1766917162,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96818,
       "num": 96818,
       "word": "男子回应在老君山拍到灵气护罩奇观",
@@ -68961,6 +69041,14 @@
       "onboard_time": 1764516981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96682,
+      "num": 96682,
+      "word": "骄阳似我是江浙沪现偶剧吧",
+      "onboard_time": 1766915542,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96643,
@@ -73659,6 +73747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87778,
+      "num": 92457,
+      "word": "刺激杯总决赛终局之战",
+      "onboard_time": 1766917042,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87720,
       "num": 87720,
       "word": "万茜好明媚的一张脸",
@@ -75411,14 +75507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83502,
-      "num": 83502,
-      "word": "冬天午睡一定要谨慎",
-      "onboard_time": 1766914880,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83499,
       "num": 235454,
       "word": "孙颖莎超绝二次反应",
@@ -77059,6 +77147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79264,
+      "num": 110952,
+      "word": "王楚钦决赛热身",
+      "onboard_time": 1766917401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79217,
       "num": 79217,
       "word": "中国援助1亿美元推动加沙重建",
@@ -77265,6 +77361,14 @@
       "onboard_time": 1764777380,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78283,
+      "num": 110990,
+      "word": "90后姑娘用幼师所学当辅警",
+      "onboard_time": 1766916320,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78276,
@@ -78595,6 +78699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74572,
+      "num": 89879,
+      "word": "特斯拉回应女子30多万买到老款车",
+      "onboard_time": 1766915721,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74502,
       "num": 74502,
       "word": "冬天早晨的养狗人与养猫人",
@@ -78769,6 +78881,14 @@
       "onboard_time": 1766578281,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73977,
+      "num": 89437,
+      "word": "贵州茅台董事长谈茅台价格",
+      "onboard_time": 1766916801,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 73881,
@@ -91611,6 +91731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32031,
+      "num": 221623,
+      "word": "千玺陪你和更好的自己say嗨",
+      "onboard_time": 1766912720,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32025,
       "num": 118446,
       "word": "工人高空坠落14mm钢筋贯穿胸部",
@@ -93209,14 +93337,6 @@
       "onboard_time": 1764718698,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27950,
-      "num": 221623,
-      "word": "千玺陪你和更好的自己say嗨",
-      "onboard_time": 1766912720,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 27901,
@@ -96571,6 +96691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18374,
+      "num": 103253,
+      "word": "美国旧舰修不完新舰造不出",
+      "onboard_time": 1766916500,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18341,
       "num": 31144,
       "word": "星光墙",
@@ -98457,6 +98585,14 @@
       "onboard_time": 1764932421,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10237,
+      "num": 100964,
+      "word": "李梓溪海边甜酷辣妹",
+      "onboard_time": 1766916080,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 10213,
