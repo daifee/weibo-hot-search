@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766953901352,
+  "endTime": 1766954694235,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -99697,6 +99697,14 @@
       "onboard_time": 1765138034,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11938,
+      "num": 14599,
+      "word": "朱志鑫无框眼镜造型",
+      "onboard_time": 1766954053,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 11936,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/29 04:31:41
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/29 04:44:54
 </p>
 </blockquote>
 <p>
@@ -3215,6 +3215,12 @@ RW与WB会师三亚（热度：29456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8A%B1%E5%85%AB%E4%BB%AC%E4%B8%89%E4%BA%9A%E5%86%8D%E7%8E%B0%E7%82%AB%E8%88%9E%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 五花八们三亚再现炫舞名场面（热度：13473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%97%A0%E6%A1%86%E7%9C%BC%E9%95%9C%E9%80%A0%E5%9E%8B%23" target="weibo">
+朱志鑫无框眼镜造型（热度：11938）
 </a>
 </li>
 
