@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766926446550,
+  "endTime": 1766927317469,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1079067,
-      "num": 286638,
+      "num": 317375,
       "word": "成龙自曝和儿子一年只打一次电话",
       "onboard_time": 1766924121,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1766913440,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791057,
+      "num": 1126569,
+      "word": "江西省博确认米芾展品为原件",
+      "onboard_time": 1766923222,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 779670,
@@ -171,14 +179,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 653836,
-      "num": 1104613,
-      "word": "江西省博确认米芾展品为原件",
-      "onboard_time": 1766923222,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 649882,
       "num": 285663,
       "word": "王梓莼称没有霸凌任何人",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 620860,
-      "num": 284785,
+      "num": 316851,
       "word": "点外卖备注只要一点点饭时",
       "onboard_time": 1766920342,
       "rank": 30,
@@ -209,6 +209,14 @@
       "onboard_time": 1766887820,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615545,
+      "num": 415991,
+      "word": "橹穆美杜莎",
+      "onboard_time": 1766926462,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 609543,
@@ -241,6 +249,14 @@
       "onboard_time": 1766901681,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581882,
+      "num": 581882,
+      "word": "辽阳22死重大火灾事故调查报告",
+      "onboard_time": 1766925562,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 575463,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450631,
+      "num": 316627,
+      "word": "六旬男子性侵智力障碍女子致怀孕",
+      "onboard_time": 1766924181,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447115,
       "num": 258374,
       "word": "姚晨发文纪念高崎机场即将关闭",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 446732,
-      "num": 282084,
+      "num": 316155,
       "word": "虞书欣特别感谢小石榴们",
       "onboard_time": 1766922562,
       "rank": 12,
@@ -425,14 +449,6 @@
       "onboard_time": 1766900180,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 439898,
-      "num": 439898,
-      "word": "辽阳22死重大火灾事故调查报告",
-      "onboard_time": 1766925562,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 429489,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371337,
+      "num": 371337,
+      "word": "骄阳似我 单更",
+      "onboard_time": 1766923401,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371004,
       "num": 247002,
       "word": "炎亚纶发文感谢飞轮海",
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 364089,
-      "num": 281266,
+      "num": 315500,
       "word": "刘耀文 撕漫男",
       "onboard_time": 1766917522,
       "rank": 30,
@@ -545,14 +569,6 @@
       "onboard_time": 1766894600,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331502,
-      "num": 331502,
-      "word": "骄阳似我 单更",
-      "onboard_time": 1766923401,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 327723,
@@ -595,6 +611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 317786,
+      "num": 317786,
+      "word": "王楚钦vs向鹏",
+      "onboard_time": 1766922739,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312724,
       "num": 482619,
       "word": "孙颖莎当时第一时间汇报伤情",
@@ -627,14 +651,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 297844,
-      "num": 278578,
-      "word": "六旬男子性侵智力障碍女子致怀孕",
-      "onboard_time": 1766924181,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295978,
       "num": 229129,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
@@ -643,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289916,
-      "num": 289916,
-      "word": "王楚钦vs向鹏",
-      "onboard_time": 1766922739,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 292645,
+      "num": 292645,
+      "word": "陈晓顶级东方骨相",
+      "onboard_time": 1766925862,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 287621,
@@ -699,6 +715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 278148,
+      "num": 278148,
+      "word": "原来洗澡时不能开抽烟机不然会中毒",
+      "onboard_time": 1766925321,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 277683,
       "num": 277683,
       "word": "Karsa宣布退役",
@@ -713,6 +737,14 @@
       "onboard_time": 1766853381,
       "rank": 29,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 273544,
+      "num": 252516,
+      "word": "天王杯",
+      "onboard_time": 1766919501,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 269284,
@@ -811,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249988,
-      "num": 249988,
-      "word": "天王杯",
-      "onboard_time": 1766919501,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248457,
       "num": 160138,
       "word": "燕云十六声多次回应未平息争议",
@@ -915,14 +939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 224933,
-      "num": 224933,
-      "word": "原来洗澡时不能开抽烟机不然会中毒",
-      "onboard_time": 1766925321,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 223660,
       "num": 223660,
       "word": "一诺回归后会在二队打一段时间",
@@ -945,6 +961,14 @@
       "onboard_time": 1766893759,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220594,
+      "num": 220594,
+      "word": "山东魏桥乒超夺冠",
+      "onboard_time": 1766925621,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 219538,
@@ -1051,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197545,
+      "num": 197545,
+      "word": "张真源好狂野的帅",
+      "onboard_time": 1766926402,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196731,
       "num": 196731,
       "word": "宋亚轩免检生图",
@@ -1083,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190976,
-      "num": 190976,
-      "word": "陈晓顶级东方骨相",
-      "onboard_time": 1766925862,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190926,
       "num": 124979,
       "word": "干了一辈子拿了二三十万的裁员费",
@@ -1099,12 +1123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190347,
-      "num": 190347,
-      "word": "山东魏桥乒超夺冠",
-      "onboard_time": 1766925621,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 190536,
+      "num": 190536,
+      "word": "王橹杰 漫画脸",
+      "onboard_time": 1766926222,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 188569,
@@ -1155,14 +1179,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 179542,
-      "num": 179542,
-      "word": "张真源好狂野的帅",
-      "onboard_time": 1766926402,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 179321,
       "num": 179321,
       "word": "范丞丞重新认识了出发的意义",
@@ -1187,12 +1203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174573,
+      "num": 174573,
+      "word": "王楚钦2025年收获15冠",
+      "onboard_time": 1766927002,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174004,
       "num": 174004,
       "word": "马思纯34秒视频换了18套造型",
       "onboard_time": 1766906421,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173866,
+      "num": 173866,
+      "word": "梁靖崑林昀儒王楚钦男团冠军",
+      "onboard_time": 1766926462,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 173846,
@@ -1499,12 +1531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142750,
-      "num": 142750,
-      "word": "王橹杰 漫画脸",
-      "onboard_time": 1766926222,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 142493,
+      "num": 142493,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1766926942,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142182,
@@ -1811,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123719,
+      "num": 123719,
+      "word": "老式面包",
+      "onboard_time": 1766925802,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123459,
       "num": 123459,
       "word": "李煜东直拍",
@@ -2001,6 +2041,22 @@
       "onboard_time": 1766881999,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111552,
+      "num": 160859,
+      "word": "沈梦辰 看得出她是公主",
+      "onboard_time": 1766926102,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109657,
+      "num": 160545,
+      "word": "安崎回应上浪姐",
+      "onboard_time": 1766925683,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 108892,
@@ -2483,14 +2539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91145,
-      "num": 160545,
-      "word": "安崎回应上浪姐",
-      "onboard_time": 1766925683,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91127,
       "num": 157306,
       "word": "大学室友是一个很尴尬的身份",
@@ -2788,7 +2836,7 @@
     },
     {
       "raw_hot": 76687,
-      "num": 256630,
+      "num": 258525,
       "word": "更好的2026在向你招手",
       "onboard_time": 1766923761,
       "rank": 20,
@@ -2843,20 +2891,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72324,
-      "num": 160859,
-      "word": "沈梦辰 看得出她是公主",
-      "onboard_time": 1766926102,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71863,
       "num": 81432,
       "word": "薛飞刘冠成vs梁靖崑林昀儒",
       "onboard_time": 1766918481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70246,
+      "num": 317672,
+      "word": "辽阳火灾40名公职人员被问责",
+      "onboard_time": 1766926162,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70147,
+      "num": 151276,
+      "word": "那英黑长直看得我想把脉了",
+      "onboard_time": 1766927062,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 69282,
@@ -2979,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47632,
-      "num": 260778,
-      "word": "辽阳火灾40名公职人员被问责",
-      "onboard_time": 1766926162,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 46598,
       "num": 65593,
       "word": "穆祉丞王橹杰剑客琴师",
@@ -3089,6 +3137,14 @@
       "onboard_time": 1766859856,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33673,
+      "num": 266359,
+      "word": "93%台网友投票支持弹劾赖清德",
+      "onboard_time": 1766926042,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32375,
@@ -3211,20 +3267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22663,
+      "num": 161569,
+      "word": "市监局回应独罚合规医疗器械",
+      "onboard_time": 1766925442,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 21860,
       "num": 107204,
       "word": "地震时台北捷运列车车厢灯狂闪",
       "onboard_time": 1766896579,
       "rank": 46,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 21519,
-      "num": 161569,
-      "word": "市监局回应独罚合规医疗器械",
-      "onboard_time": 1766925442,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 20250,
@@ -3264,14 +3320,6 @@
       "word": "中国低温火箭年度发射新纪录",
       "onboard_time": 1766840782,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16554,
-      "num": 258297,
-      "word": "93%台网友投票支持弹劾赖清德",
-      "onboard_time": 1766926042,
-      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -3329,6 +3377,14 @@
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11320,
+      "num": 315728,
+      "word": "酷滕眼里的天放长得五花八们",
+      "onboard_time": 1766926881,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 10283,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1766927317469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 791057,
+        "num": 1126569,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 581882,
+        "num": 581882,
+        "word": "辽阳22死重大火灾事故调查报告",
+        "onboard_time": 1766925562,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27870,
+        "num": 417742,
+        "word": "故事里的2025",
+        "onboard_time": 1766910801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 615545,
+        "num": 415991,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766926462,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 411561,
+        "num": 411561,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500105,
+        "num": 391925,
+        "word": "苏新皓杨博文双人舞台",
+        "onboard_time": 1766921782,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371337,
+        "num": 371337,
+        "word": "骄阳似我 单更",
+        "onboard_time": 1766923401,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325276,
+        "num": 325276,
+        "word": "兔子警官回应作秀质疑",
+        "onboard_time": 1766913440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317786,
+        "num": 317786,
+        "word": "王楚钦vs向鹏",
+        "onboard_time": 1766922739,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70246,
+        "num": 317672,
+        "word": "辽阳火灾40名公职人员被问责",
+        "onboard_time": 1766926162,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1069468,
+        "num": 317375,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 611364,
+        "num": 316851,
+        "word": "点外卖备注只要一点点饭时",
+        "onboard_time": 1766920342,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450631,
+        "num": 316627,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373491,
+        "num": 316155,
+        "word": "虞书欣特别感谢小石榴们",
+        "onboard_time": 1766922562,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11320,
+        "num": 315728,
+        "word": "酷滕眼里的天放长得五花八们",
+        "onboard_time": 1766926881,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349035,
+        "num": 315500,
+        "word": "刘耀文 撕漫男",
+        "onboard_time": 1766917522,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315332,
+        "num": 315332,
+        "word": "何与 靳朝是最接近自己的",
+        "onboard_time": 1766923401,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292645,
+        "num": 292645,
+        "word": "陈晓顶级东方骨相",
+        "onboard_time": 1766925862,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278148,
+        "num": 278148,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269283,
+        "num": 269283,
+        "word": "骄阳似我这集演到真假千金",
+        "onboard_time": 1766921421,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33673,
+        "num": 266359,
+        "word": "93%台网友投票支持弹劾赖清德",
+        "onboard_time": 1766926042,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 541657,
+        "num": 263641,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283115,
+        "num": 259664,
+        "word": "张杰谢娜 同台",
+        "onboard_time": 1766915181,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54689,
+        "num": 258525,
+        "word": "更好的2026在向你招手",
+        "onboard_time": 1766923761,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255498,
+        "num": 255498,
+        "word": "双轨婚礼呢",
+        "onboard_time": 1766920280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273544,
+        "num": 252516,
+        "word": "天王杯",
+        "onboard_time": 1766919501,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241942,
+        "num": 241942,
+        "word": "Karsa宣布退役",
+        "onboard_time": 1766922981,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223607,
+        "num": 223607,
+        "word": "骄阳似我",
+        "onboard_time": 1766917461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220644,
+        "num": 220644,
+        "word": "穆祉丞的肚子露出来了",
+        "onboard_time": 1766925081,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220594,
+        "num": 220594,
+        "word": "山东魏桥乒超夺冠",
+        "onboard_time": 1766925621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219881,
+        "num": 219881,
+        "word": "严浩翔美式前刺",
+        "onboard_time": 1766916021,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197545,
+        "num": 197545,
+        "word": "张真源好狂野的帅",
+        "onboard_time": 1766926402,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190536,
+        "num": 190536,
+        "word": "王橹杰 漫画脸",
+        "onboard_time": 1766926222,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185247,
+        "num": 185247,
+        "word": "只要有你",
+        "onboard_time": 1766926282,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174573,
+        "num": 174573,
+        "word": "王楚钦2025年收获15冠",
+        "onboard_time": 1766927002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173866,
+        "num": 173866,
+        "word": "梁靖崑林昀儒王楚钦男团冠军",
+        "onboard_time": 1766926462,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152784,
+        "num": 152784,
+        "word": "王梓莼称没有霸凌任何人",
+        "onboard_time": 1766915662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111552,
+        "num": 151322,
+        "word": "沈梦辰 看得出她是公主",
+        "onboard_time": 1766926102,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70147,
+        "num": 151276,
+        "word": "那英黑长直看得我想把脉了",
+        "onboard_time": 1766927062,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151248,
+        "num": 151248,
+        "word": "王橹杰羽毛眼链",
+        "onboard_time": 1766919501,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145349,
+        "num": 145349,
+        "word": "微博之夜",
+        "onboard_time": 1766922382,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142659,
+        "num": 142659,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142493,
+        "num": 142493,
+        "word": "广东男篮vs山西男篮",
+        "onboard_time": 1766926942,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130806,
+        "num": 130806,
+        "word": "苏新皓前滚翻",
+        "onboard_time": 1766925981,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128412,
+        "num": 128412,
+        "word": "王楚钦3比1胜向鹏",
+        "onboard_time": 1766924542,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109657,
+        "num": 124345,
+        "word": "安崎回应上浪姐",
+        "onboard_time": 1766925683,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123719,
+        "num": 123719,
+        "word": "老式面包",
+        "onboard_time": 1766925802,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122063,
+        "num": 122063,
+        "word": "艾克里里不愧是杨紫的嫡长闺",
+        "onboard_time": 1766919921,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121902,
+        "num": 121902,
+        "word": "山东魏桥3比0黄石华新",
+        "onboard_time": 1766926042,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22663,
+        "num": 121732,
+        "word": "市监局回应独罚合规医疗器械",
+        "onboard_time": 1766925442,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的足迹#"
+    }
+  }
+}
