@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/28 10:24:25
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/28 10:42:53
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ WB对战AG（热度：775876）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%9B%98%E9%B8%A1%E5%BA%97%E4%BE%AE%E8%BE%B1%E6%80%A7%E5%9B%9E%E5%A4%8D%E5%AD%A6%E7%94%9F%E5%B7%AE%E8%AF%84%E8%A2%AB%E6%91%98%E7%89%8C%23" target="weibo">
+大盘鸡店侮辱性回复学生差评被摘牌（热度：741574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88%23" target="weibo">
 四级答案（热度：740843）
 </a>
@@ -6005,12 +6011,6 @@ AG对战Hero（热度：570234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E6%96%B0%E7%94%B7%E5%8F%8B%E6%89%8D26%E5%B2%81%23" target="weibo">
 李嘉格新男友才26岁（热度：564845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2355%E5%B2%81%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9D%8E%E5%AF%8C%E7%9C%9F%E9%9C%B2%E9%9D%A2%23" target="weibo">
-55岁三星长公主李富真露面（热度：564695）
 </a>
 </li>
 

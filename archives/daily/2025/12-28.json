@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766888665529,
+  "endTime": 1766889773233,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -59,6 +59,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 741574,
+      "num": 345297,
+      "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+      "onboard_time": 1766886622,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 737637,
       "num": 737637,
       "word": "中华人民共和国主席令",
@@ -99,11 +107,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 476166,
-      "num": 345297,
-      "word": "大盘鸡店侮辱性回复学生差评被摘牌",
-      "onboard_time": 1766886622,
-      "rank": 6,
+      "raw_hot": 521005,
+      "num": 1083360,
+      "word": "男子爱奇艺会员充了25年遇退费难",
+      "onboard_time": 1766878517,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464825,
-      "num": 464825,
-      "word": "男子爱奇艺会员充了25年遇退费难",
-      "onboard_time": 1766878517,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 448366,
+      "num": 241411,
+      "word": "王丽坤拍短剧的原因找到了",
+      "onboard_time": 1766887759,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 447115,
@@ -163,8 +171,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374690,
-      "num": 374690,
+      "raw_hot": 379355,
+      "num": 379355,
       "word": "房贷才还30年爱奇艺会员充了25年",
       "onboard_time": 1766884879,
       "rank": 3,
@@ -219,12 +227,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 269284,
+      "num": 269284,
+      "word": "普京突然穿上军装",
+      "onboard_time": 1766884940,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264345,
       "num": 264345,
       "word": "黄晓明 老鼠干是扎小人用的吗",
       "onboard_time": 1766884639,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262772,
+      "num": 262772,
+      "word": "剑桥硕士面试小学英语教培被刷",
+      "onboard_time": 1766885240,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252251,
@@ -251,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 241411,
-      "num": 241411,
-      "word": "王丽坤拍短剧的原因找到了",
-      "onboard_time": 1766887759,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231684,
       "num": 231684,
       "word": "宋威龙见面会",
@@ -283,16 +299,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 215197,
-      "num": 215197,
-      "word": "剑桥硕士面试小学英语教培被刷",
-      "onboard_time": 1766885240,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213596,
-      "num": 213596,
+      "raw_hot": 219081,
+      "num": 219081,
       "word": "刑释人员被指任国有控股企业高管",
       "onboard_time": 1766885000,
       "rank": 16,
@@ -323,20 +331,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 198370,
+      "num": 198370,
+      "word": "张奕然将参加荣耀之战",
+      "onboard_time": 1766888541,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182245,
       "num": 182245,
       "word": "王晶说肖战戏路很窄",
       "onboard_time": 1766833401,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181893,
-      "num": 168628,
-      "word": "普京突然穿上军装",
-      "onboard_time": 1766884940,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179893,
@@ -353,6 +361,14 @@
       "onboard_time": 1766848530,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171285,
+      "num": 171285,
+      "word": "爱奇艺回应充25年会员退费难",
+      "onboard_time": 1766887820,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170190,
@@ -393,14 +409,6 @@
       "onboard_time": 1766850684,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156850,
-      "num": 156850,
-      "word": "张奕然将参加荣耀之战",
-      "onboard_time": 1766888541,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 156132,
@@ -475,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125465,
-      "num": 119832,
-      "word": "爱奇艺回应充25年会员退费难",
-      "onboard_time": 1766887820,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 127747,
+      "num": 118953,
+      "word": "亏了7千但是省了2万",
+      "onboard_time": 1766887999,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 124556,
@@ -499,12 +507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123737,
+      "num": 123737,
+      "word": "侯明昊演技",
+      "onboard_time": 1766884339,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122233,
       "num": 122233,
       "word": "今年我是歌手最出圈的梗",
       "onboard_time": 1766884760,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121357,
+      "num": 121357,
+      "word": "女子4万余元隆胸睡觉翻身假体塌陷",
+      "onboard_time": 1766887579,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119917,
@@ -515,12 +539,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 118953,
-      "num": 118953,
-      "word": "亏了7千但是省了2万",
-      "onboard_time": 1766887999,
-      "rank": 31,
-      "category": "情感,休闲"
+      "raw_hot": 118294,
+      "num": 118294,
+      "word": "王丽坤曾回应出演短剧",
+      "onboard_time": 1766888600,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112499,
@@ -555,12 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105691,
-      "num": 105691,
-      "word": "侯明昊演技",
-      "onboard_time": 1766884339,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 106450,
+      "num": 106450,
+      "word": "找不到工作的朋友们先不要焦虑",
+      "onboard_time": 1766889259,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106085,
+      "num": 106085,
+      "word": "西安一小区电梯故障男子疑踩空坠亡",
+      "onboard_time": 1766889200,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104775,
@@ -635,20 +667,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94240,
+      "num": 94240,
+      "word": "肖战一步步走进莫得闲的故事里",
+      "onboard_time": 1766875515,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94051,
       "num": 94051,
       "word": "白敬亭去冰雪大世界了",
       "onboard_time": 1766879537,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92252,
-      "num": 92252,
-      "word": "肖战一步步走进莫得闲的故事里",
-      "onboard_time": 1766875515,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 91789,
@@ -667,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90982,
-      "num": 90982,
-      "word": "王丽坤曾回应出演短剧",
-      "onboard_time": 1766888600,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89515,
       "num": 157203,
       "word": "万物不及妖刀",
@@ -691,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87856,
+      "num": 87856,
+      "word": "2025国际十佳运动员",
+      "onboard_time": 1766889500,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85232,
       "num": 157169,
       "word": "逍遥",
@@ -705,6 +737,22 @@
       "onboard_time": 1766840543,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83859,
+      "num": 83859,
+      "word": "震后台北街头",
+      "onboard_time": 1766886022,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 79887,
+      "num": 79887,
+      "word": "苹果应用商店被曝有APP放高利贷",
+      "onboard_time": 1766889679,
+      "rank": 49,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 79801,
@@ -809,14 +857,6 @@
       "onboard_time": 1766855719,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49556,
-      "num": 98211,
-      "word": "女子4万余元隆胸睡觉翻身假体塌陷",
-      "onboard_time": 1766887579,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48307,
@@ -947,8 +987,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17286,
-      "num": 392352,
+      "raw_hot": 17613,
+      "num": 392916,
       "word": "中国低温火箭年度发射新纪录",
       "onboard_time": 1766840782,
       "rank": 2,
@@ -969,6 +1009,14 @@
       "onboard_time": 1766840421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8171,
+      "num": 103843,
+      "word": "特朗普关税政策翻车",
+      "onboard_time": 1766889679,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

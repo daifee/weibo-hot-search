@@ -1,0 +1,410 @@
+{
+  "runTime": 1766889773233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521005,
+        "num": 1083360,
+        "word": "男子爱奇艺会员充了25年遇退费难",
+        "onboard_time": 1766878517,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509502,
+        "num": 509502,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 17613,
+        "num": 392916,
+        "word": "中国低温火箭年度发射新纪录",
+        "onboard_time": 1766840782,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379355,
+        "num": 379355,
+        "word": "房贷才还30年爱奇艺会员充了25年",
+        "onboard_time": 1766884879,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354149,
+        "num": 354149,
+        "word": "橹穆双人舞台",
+        "onboard_time": 1766836103,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 741574,
+        "num": 344793,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309409,
+        "num": 309409,
+        "word": "一诺暂时告别赛场",
+        "onboard_time": 1766845885,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269284,
+        "num": 269284,
+        "word": "普京突然穿上军装",
+        "onboard_time": 1766884940,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262772,
+        "num": 262772,
+        "word": "剑桥硕士面试小学英语教培被刷",
+        "onboard_time": 1766885240,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227435,
+        "num": 227435,
+        "word": "大盘鸡店嘲讽差评学生学历低",
+        "onboard_time": 1766882959,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448366,
+        "num": 225249,
+        "word": "王丽坤拍短剧的原因找到了",
+        "onboard_time": 1766887759,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419468,
+        "num": 224816,
+        "word": "单依纯公开承认自己有表达障碍",
+        "onboard_time": 1766841082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330241,
+        "num": 223734,
+        "word": "姚晨发文纪念高崎机场即将关闭",
+        "onboard_time": 1766880378,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220191,
+        "num": 220191,
+        "word": "黄晓明 老鼠干是扎小人用的吗",
+        "onboard_time": 1766884639,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 219081,
+        "word": "刑释人员被指任国有控股企业高管",
+        "onboard_time": 1766885000,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209062,
+        "num": 209062,
+        "word": "鹿晗工作室居然还在运营QQ空间",
+        "onboard_time": 1766880558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198370,
+        "num": 198370,
+        "word": "张奕然将参加荣耀之战",
+        "onboard_time": 1766888541,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187266,
+        "num": 187266,
+        "word": "一诺回归后会在二队打一段时间",
+        "onboard_time": 1766882178,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171285,
+        "num": 171285,
+        "word": "爱奇艺回应充25年会员退费难",
+        "onboard_time": 1766887820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153046,
+        "num": 153046,
+        "word": "长生",
+        "onboard_time": 1766846302,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 533442,
+        "num": 152503,
+        "word": "泰国女子把女儿骗到日本卖淫",
+        "onboard_time": 1766886201,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144689,
+        "num": 144689,
+        "word": "钟意",
+        "onboard_time": 1766871674,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135177,
+        "num": 135177,
+        "word": "台湾6.6级地震亲历者发声",
+        "onboard_time": 1766886380,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135068,
+        "num": 135068,
+        "word": "她可能还没意识到自己多牛",
+        "onboard_time": 1766885421,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 127459,
+        "word": "谭松韵穿耿耿校服跟振华道歉",
+        "onboard_time": 1766880558,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123737,
+        "num": 123737,
+        "word": "侯明昊演技",
+        "onboard_time": 1766884339,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121357,
+        "num": 121357,
+        "word": "女子4万余元隆胸睡觉翻身假体塌陷",
+        "onboard_time": 1766887579,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120288,
+        "num": 120288,
+        "word": "身高两米女生穿明制汉服去故宫引围观",
+        "onboard_time": 1766882059,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118401,
+        "num": 118401,
+        "word": "今年我是歌手最出圈的梗",
+        "onboard_time": 1766884760,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "王丽坤曾回应出演短剧",
+        "onboard_time": 1766888600,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127747,
+        "num": 118149,
+        "word": "亏了7千但是省了2万",
+        "onboard_time": 1766887999,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 113386,
+        "num": 117353,
+        "word": "李梦说衣服不丑只是美得很小众",
+        "onboard_time": 1766883319,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117053,
+        "num": 117053,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110876,
+        "num": 110876,
+        "word": "51岁林志玲穿啦啦队服跳女团舞",
+        "onboard_time": 1766880558,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107335,
+        "num": 107335,
+        "word": "487 潇潇",
+        "onboard_time": 1766842462,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106450,
+        "num": 106450,
+        "word": "找不到工作的朋友们先不要焦虑",
+        "onboard_time": 1766889259,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106085,
+        "num": 106085,
+        "word": "西安一小区电梯故障男子疑踩空坠亡",
+        "onboard_time": 1766889200,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "Hero战胜AG",
+        "onboard_time": 1766844562,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104486,
+        "num": 104486,
+        "word": "睡觉时把同伴当成枕头的小狗",
+        "onboard_time": 1766886319,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8171,
+        "num": 103843,
+        "word": "特朗普关税政策翻车",
+        "onboard_time": 1766889679,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103744,
+        "num": 103744,
+        "word": "AG一诺长生钟意春季赛休息",
+        "onboard_time": 1766881999,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102676,
+        "num": 102676,
+        "word": "胡萝卜通脾胃有多厉害",
+        "onboard_time": 1766884879,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94240,
+        "num": 94240,
+        "word": "肖战一步步走进莫得闲的故事里",
+        "onboard_time": 1766875515,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94054,
+        "num": 94054,
+        "word": "韩国人真的在比喻方面蛮有天赋的",
+        "onboard_time": 1766886859,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87856,
+        "num": 87856,
+        "word": "2025国际十佳运动员",
+        "onboard_time": 1766889500,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87340,
+        "num": 87813,
+        "word": "白鹿抽象拿捏",
+        "onboard_time": 1766888300,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87805,
+        "num": 87805,
+        "word": "台湾海域6.6级地震现场画面",
+        "onboard_time": 1766853381,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 83859,
+        "num": 83859,
+        "word": "震后台北街头",
+        "onboard_time": 1766886022,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 86646,
+        "num": 83543,
+        "word": "燕云十六声多次回应未平息争议",
+        "onboard_time": 1766854879,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79887,
+        "num": 79887,
+        "word": "苹果应用商店被曝有APP放高利贷",
+        "onboard_time": 1766889679,
+        "rank": 49,
+        "category": "民生新闻,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样要求共产党人#"
+    }
+  }
+}
