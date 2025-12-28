@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766947899122,
+  "endTime": 1766949791654,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -98321,6 +98321,14 @@
       "onboard_time": 1766331324,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16912,
+      "num": 29036,
+      "word": "林屿森发了提线小瓜",
+      "onboard_time": 1766948714,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 16898,
