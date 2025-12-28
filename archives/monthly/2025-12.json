@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766918745445,
+  "endTime": 1766921073518,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -8019,6 +8019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 569150,
+      "num": 254178,
+      "word": "王橹杰羽毛眼链",
+      "onboard_time": 1766919501,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 568469,
       "num": 485181,
       "word": "葛夕 恋综",
@@ -11881,6 +11889,14 @@
       "onboard_time": 1765593261,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 451880,
+      "num": 451880,
+      "word": "商场展车被小孩误触撞入手机店",
+      "onboard_time": 1766916381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451614,
@@ -19299,6 +19315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305845,
+      "num": 305845,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 305756,
       "num": 305756,
       "word": "罗永浩痛批电信宽带缩水",
@@ -20537,14 +20561,6 @@
       "onboard_time": 1766011276,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287711,
-      "num": 287711,
-      "word": "仙逆",
-      "onboard_time": 1764500120,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 287621,
@@ -23523,6 +23539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251337,
+      "num": 168665,
+      "word": "点外卖备注只要一点点饭时",
+      "onboard_time": 1766920342,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251236,
       "num": 217608,
       "word": "云合",
@@ -23920,6 +23944,14 @@
       "word": "李治廷老婆疑怀孕",
       "onboard_time": 1764823463,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246470,
+      "num": 246470,
+      "word": "艾克里里不愧是杨紫的嫡长闺",
+      "onboard_time": 1766919921,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -27577,6 +27609,14 @@
       "onboard_time": 1766188818,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210132,
+      "num": 321540,
+      "word": "野心家",
+      "onboard_time": 1766473820,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 210106,
@@ -32659,6 +32699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188569,
+      "num": 188569,
+      "word": "薛飞vs王楚钦",
+      "onboard_time": 1766920162,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188499,
       "num": 188499,
       "word": "双轨 处处吻",
@@ -33025,14 +33073,6 @@
       "onboard_time": 1764932721,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186551,
-      "num": 321540,
-      "word": "野心家",
-      "onboard_time": 1766473820,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 186548,
@@ -34088,6 +34128,14 @@
       "word": "邓紫棋到底在给谁作词",
       "onboard_time": 1765121062,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 183070,
+      "num": 183070,
+      "word": "宋亚轩免检生图",
+      "onboard_time": 1766920580,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -36691,6 +36739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171230,
+      "num": 171230,
+      "word": "双轨婚礼呢",
+      "onboard_time": 1766920280,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
@@ -37331,6 +37387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168711,
+      "num": 168711,
+      "word": "朱志鑫和蝴蝶共舞这段",
+      "onboard_time": 1766919260,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168666,
       "num": 168666,
       "word": "顾玉在步步惊心那老四老八都没戏了",
@@ -37449,6 +37513,14 @@
       "onboard_time": 1766619738,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168160,
+      "num": 162153,
+      "word": "左航戴了眼镜",
+      "onboard_time": 1766920461,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 168089,
@@ -37859,6 +37931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166642,
+      "num": 166642,
+      "word": "李连杰回应出演吴京武侠片原因",
+      "onboard_time": 1766919740,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166632,
       "num": 166632,
       "word": "第一次看这么废皇帝的剧",
@@ -37929,6 +38009,14 @@
       "onboard_time": 1765697242,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166498,
+      "num": 168668,
+      "word": "成都警方通报燃爆事件致1死4伤",
+      "onboard_time": 1766919682,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 166467,
@@ -39809,14 +39897,6 @@
       "onboard_time": 1766846962,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158861,
-      "num": 158861,
-      "word": "商场展车被小孩误触撞入手机店",
-      "onboard_time": 1766916381,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158859,
@@ -43987,6 +44067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146034,
+      "num": 146034,
+      "word": "田曦薇演戏归来三年农龄",
+      "onboard_time": 1766920280,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "黄慧颐回应遭保剑锋妻子辱骂",
@@ -47505,6 +47593,14 @@
       "onboard_time": 1766221221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136894,
+      "num": 136894,
+      "word": "宋威龙这个链接打开还真是文档",
+      "onboard_time": 1766919320,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 136891,
@@ -57835,6 +57931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115958,
+      "num": 115958,
+      "word": "王楚钦放高球就会听取哇声一片",
+      "onboard_time": 1766919622,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115912,
       "num": 115912,
       "word": "炎亚纶的单接不接",
@@ -58113,6 +58217,14 @@
       "onboard_time": 1765539381,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115404,
+      "num": 115404,
+      "word": "张桂源皱眉",
+      "onboard_time": 1766919021,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 115402,
@@ -59377,6 +59489,14 @@
       "onboard_time": 1765424121,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113255,
+      "num": 113255,
+      "word": "已经到了分开就结婚的年纪",
+      "onboard_time": 1766913800,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113241,
@@ -61825,14 +61945,6 @@
       "onboard_time": 1765088961,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108848,
-      "num": 108848,
-      "word": "已经到了分开就结婚的年纪",
-      "onboard_time": 1766913800,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 108840,
@@ -64739,6 +64851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103672,
+      "num": 103672,
+      "word": "外科医生拿手术刀折千纸鹤",
+      "onboard_time": 1766920761,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 103665,
       "num": 103665,
       "word": "虞书欣何与的眼神戏",
@@ -66511,6 +66631,14 @@
       "num": 101140,
       "word": "蒯曼回应孙颖莎不参加乒超总决赛",
       "onboard_time": 1766740283,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "王楚钦决赛出任一单",
+      "onboard_time": 1766919201,
       "rank": 48,
       "category": "体育"
     },
@@ -88763,6 +88891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40056,
+      "num": 201514,
+      "word": "中国摄影地图上的郑州坐标",
+      "onboard_time": 1766920761,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 40045,
       "num": 123848,
       "word": "强生上诉",
@@ -97595,6 +97731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15229,
+      "num": 250399,
+      "word": "高超高越心有不灵犀",
+      "onboard_time": 1766919682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15127,
       "num": 32978,
       "word": "长安二十四计 镜头语言",
@@ -98643,6 +98787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 10283,
+      "num": 117144,
+      "word": "郝龚箭蜈支洲岛魔术首秀",
+      "onboard_time": 1766920521,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10266,
       "num": 116211,
       "word": "神秘无人机试图干扰泽连斯基专机",
@@ -98864,6 +99016,14 @@
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7176,
+      "num": 129331,
+      "word": "老年艾滋病人数男性约是女性3倍",
+      "onboard_time": 1766920761,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

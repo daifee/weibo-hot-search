@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766918745445,
+  "endTime": 1766921073518,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -219,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 569150,
+      "num": 254178,
+      "word": "王橹杰羽毛眼链",
+      "onboard_time": 1766919501,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 554660,
       "num": 554660,
       "word": "Hero战胜AG",
@@ -329,6 +337,14 @@
       "onboard_time": 1766904981,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 451880,
+      "num": 451880,
+      "word": "商场展车被小孩误触撞入手机店",
+      "onboard_time": 1766916381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447115,
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305845,
+      "num": 305845,
+      "word": "仙逆",
+      "onboard_time": 1766916442,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 299122,
       "num": 299122,
       "word": "南昌震感",
@@ -529,14 +553,6 @@
       "onboard_time": 1766835259,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287711,
-      "num": 287711,
-      "word": "仙逆",
-      "onboard_time": 1766916442,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 287621,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251337,
+      "num": 168665,
+      "word": "点外卖备注只要一点点饭时",
+      "onboard_time": 1766920342,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250348,
       "num": 250348,
       "word": "逍遥",
@@ -697,6 +721,14 @@
       "onboard_time": 1766840181,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 246470,
+      "num": 246470,
+      "word": "艾克里里不愧是杨紫的嫡长闺",
+      "onboard_time": 1766919921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 244163,
@@ -803,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210132,
+      "num": 210132,
+      "word": "野心家",
+      "onboard_time": 1766919561,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206350,
       "num": 206350,
       "word": "谭松韵穿耿耿校服跟振华道歉",
@@ -891,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188569,
+      "num": 188569,
+      "word": "薛飞vs王楚钦",
+      "onboard_time": 1766920162,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187128,
       "num": 187128,
       "word": "好特卖临期瓜子比超市还贵",
@@ -905,6 +953,14 @@
       "onboard_time": 1766913200,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183070,
+      "num": 183070,
+      "word": "宋亚轩免检生图",
+      "onboard_time": 1766920580,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 182245,
@@ -979,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171230,
+      "num": 171230,
+      "word": "双轨婚礼呢",
+      "onboard_time": 1766920280,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170190,
       "num": 95355,
       "word": "女主播每天要私信引诱120个大哥",
@@ -1011,12 +1075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168711,
+      "num": 168711,
+      "word": "朱志鑫和蝴蝶共舞这段",
+      "onboard_time": 1766919260,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168369,
       "num": 146599,
       "word": "疑似内娱跳的最齐的一回",
       "onboard_time": 1766897421,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168160,
+      "num": 162153,
+      "word": "左航戴了眼镜",
+      "onboard_time": 1766920461,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 167551,
@@ -1041,6 +1121,22 @@
       "onboard_time": 1766896099,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166642,
+      "num": 166642,
+      "word": "李连杰回应出演吴京武侠片原因",
+      "onboard_time": 1766919740,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166498,
+      "num": 168668,
+      "word": "成都警方通报燃爆事件致1死4伤",
+      "onboard_time": 1766919682,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 163843,
@@ -1081,14 +1177,6 @@
       "onboard_time": 1766844502,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158861,
-      "num": 158861,
-      "word": "商场展车被小孩误触撞入手机店",
-      "onboard_time": 1766916381,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158491,
@@ -1179,6 +1267,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 146034,
+      "num": 146034,
+      "word": "田曦薇演戏归来三年农龄",
+      "onboard_time": 1766920280,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145133,
       "num": 151025,
       "word": "专家科普原叶茶或茶饮料不足以成瘾",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1766918300,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136894,
+      "num": 136894,
+      "word": "宋威龙这个链接打开还真是文档",
+      "onboard_time": 1766919320,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 136334,
@@ -1555,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115958,
+      "num": 115958,
+      "word": "王楚钦放高球就会听取哇声一片",
+      "onboard_time": 1766919622,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115669,
       "num": 115669,
       "word": "春晚分会场官宣宜宾",
       "onboard_time": 1766911220,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115404,
+      "num": 115404,
+      "word": "张桂源皱眉",
+      "onboard_time": 1766919021,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 115066,
@@ -1595,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113255,
+      "num": 113255,
+      "word": "已经到了分开就结婚的年纪",
+      "onboard_time": 1766913800,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112811,
       "num": 112811,
       "word": "檀健次打破第四面墙",
@@ -1625,14 +1753,6 @@
       "onboard_time": 1766852001,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108848,
-      "num": 108848,
-      "word": "已经到了分开就结婚的年纪",
-      "onboard_time": 1766913800,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 108636,
@@ -1779,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103672,
+      "num": 103672,
+      "word": "外科医生拿手术刀折千纸鹤",
+      "onboard_time": 1766920761,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 103597,
       "num": 103597,
       "word": "杨博文看似没招实则也没招了",
@@ -1841,6 +1969,14 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "王楚钦决赛出任一单",
+      "onboard_time": 1766919201,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101128,
@@ -2595,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40056,
+      "num": 201514,
+      "word": "中国摄影地图上的郑州坐标",
+      "onboard_time": 1766920761,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 38430,
       "num": 116569,
       "word": "男子裤裆藏毒70.8克进境被查",
@@ -2827,6 +2971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15229,
+      "num": 250399,
+      "word": "高超高越心有不灵犀",
+      "onboard_time": 1766919682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14946,
       "num": 116339,
       "word": "喜剧人的嘴都抹了蜜吧",
@@ -2843,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10283,
+      "num": 117144,
+      "word": "郝龚箭蜈支洲岛魔术首秀",
+      "onboard_time": 1766920521,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10237,
       "num": 100964,
       "word": "李梓溪海边甜酷辣妹",
@@ -2857,6 +3017,14 @@
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7176,
+      "num": 129331,
+      "word": "老年艾滋病人数男性约是女性3倍",
+      "onboard_time": 1766920761,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
