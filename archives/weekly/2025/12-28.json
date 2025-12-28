@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766911743034,
+  "endTime": 1766914172602,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -139,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 657575,
+      "num": 454064,
+      "word": "32岁女老师突发脑梗去世",
+      "onboard_time": 1766910501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 620694,
       "num": 277642,
       "word": "王橹杰 懂得都懂",
@@ -275,12 +283,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 443648,
+      "num": 220627,
+      "word": "印度游客乘坐中国高铁",
+      "onboard_time": 1766909961,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440500,
       "num": 351132,
       "word": "动物奶油 断句陷阱",
       "onboard_time": 1766900180,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 432110,
+      "num": 432110,
+      "word": "谭松韵台词",
+      "onboard_time": 1766911760,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 429489,
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356235,
+      "num": 356235,
+      "word": "难怪认识的一个男生老说要嫁人了",
+      "onboard_time": 1766908581,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347809,
       "num": 347809,
       "word": "大帅",
@@ -401,14 +433,6 @@
       "onboard_time": 1766908820,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306063,
-      "num": 218343,
-      "word": "难怪认识的一个男生老说要嫁人了",
-      "onboard_time": 1766908581,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 299122,
@@ -459,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279598,
+      "num": 279598,
+      "word": "胡萝卜蛋糕",
+      "onboard_time": 1766907321,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275075,
       "num": 270559,
       "word": "台湾海域6.6级地震现场画面",
@@ -475,20 +507,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 269086,
-      "num": 269086,
-      "word": "胡萝卜蛋糕",
-      "onboard_time": 1766907321,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 264345,
       "num": 264345,
       "word": "黄晓明 老鼠干是扎小人用的吗",
       "onboard_time": 1766884639,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263217,
+      "num": 140658,
+      "word": "日本老年人称已经没希望了",
+      "onboard_time": 1766912180,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 262772,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 233918,
-      "num": 211251,
+      "num": 215952,
       "word": "黑色小猫果然耐脏",
       "onboard_time": 1766909720,
       "rank": 31,
@@ -633,6 +665,14 @@
       "onboard_time": 1766882178,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223373,
+      "num": 223373,
+      "word": "万元LV鞋发黄销售说踩了水",
+      "onboard_time": 1766909901,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 221134,
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215914,
+      "num": 215914,
+      "word": "半个娱乐圈都来董璇评论区团建了",
+      "onboard_time": 1766913381,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214013,
       "num": 214013,
       "word": "于正说娜扎美到后无来者",
@@ -697,14 +745,6 @@
       "onboard_time": 1766905638,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201562,
-      "num": 209096,
-      "word": "32岁女老师突发脑梗去世",
-      "onboard_time": 1766910501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201542,
@@ -755,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192553,
+      "num": 192553,
+      "word": "男子内裤裆部藏70.8克毒品进境",
+      "onboard_time": 1766912480,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191324,
       "num": 164216,
       "word": "深圳大学2比1山东鲁能",
@@ -769,6 +817,14 @@
       "onboard_time": 1766892020,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "逍遥第8集封神",
+      "onboard_time": 1766913200,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 182245,
@@ -793,14 +849,6 @@
       "onboard_time": 1766886380,
       "rank": 18,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 179643,
-      "num": 179643,
-      "word": "印度游客乘坐中国高铁",
-      "onboard_time": 1766909961,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179321,
@@ -939,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157434,
+      "num": 157434,
+      "word": "沈腾画的出发团",
+      "onboard_time": 1766912480,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156132,
       "num": 156132,
       "word": "钟意",
@@ -953,6 +1009,14 @@
       "onboard_time": 1766883319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154238,
+      "num": 154238,
+      "word": "王俊凯出发澳门跨年",
+      "onboard_time": 1766911940,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 153703,
@@ -1011,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142453,
+      "num": 142453,
+      "word": "兔子警官回应作秀质疑",
+      "onboard_time": 1766913440,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142182,
       "num": 142182,
       "word": "身高两米女生穿明制汉服去故宫引围观",
@@ -1067,12 +1139,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134667,
-      "num": 134667,
-      "word": "万元LV鞋发黄销售说踩了水",
-      "onboard_time": 1766909901,
-      "rank": 43,
-      "category": "舆论监督"
+      "raw_hot": 135641,
+      "num": 135641,
+      "word": "白银价格已暴涨170%",
+      "onboard_time": 1766909541,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 131826,
@@ -1171,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126621,
-      "num": 126621,
-      "word": "白银价格已暴涨170%",
-      "onboard_time": 1766909541,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 126506,
       "num": 126506,
       "word": "爱莲说的莲是什么花",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1766899999,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124985,
+      "num": 124985,
+      "word": "李莎旻子历届跨年零点拥抱对象",
+      "onboard_time": 1766913021,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124960,
@@ -1267,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122085,
+      "num": 122085,
+      "word": "苹果煮水喝好处太多了",
+      "onboard_time": 1766913562,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121755,
       "num": 121755,
       "word": "何与 天选靳朝诚不我欺",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1766884879,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 119117,
+      "num": 119117,
+      "word": "赵小童吃席都在看骄阳似我",
+      "onboard_time": 1766913740,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 118294,
@@ -1531,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104325,
+      "num": 104325,
+      "word": "张小婉 千禧年辣姐",
+      "onboard_time": 1766913562,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103986,
       "num": 103986,
       "word": "新音最后一天",
@@ -1593,6 +1689,14 @@
       "onboard_time": 1766849904,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 100735,
+      "num": 142478,
+      "word": "酒店瓶装水被指发现针孔",
+      "onboard_time": 1766912420,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 100697,
@@ -1689,6 +1793,14 @@
       "onboard_time": 1766905280,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96773,
+      "num": 96773,
+      "word": "永州市委书记与球员拥抱被举高高",
+      "onboard_time": 1766912540,
+      "rank": 41,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 96526,
@@ -1865,6 +1977,22 @@
       "onboard_time": 1766887759,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89150,
+      "num": 89150,
+      "word": "带自己家的猫去喂流浪猫",
+      "onboard_time": 1766914040,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87982,
+      "num": 87982,
+      "word": "管泽元赛后安慰Shanks",
+      "onboard_time": 1766914040,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 87856,
@@ -2243,6 +2371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35292,
+      "num": 81778,
+      "word": "男子花20万帮朋友赎回黄金竟是假货",
+      "onboard_time": 1766912420,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34196,
       "num": 65550,
       "word": "双轨团综泰甜啦",
@@ -2315,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24769,
+      "num": 221623,
+      "word": "千玺陪你和更好的自己say嗨",
+      "onboard_time": 1766912720,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24471,
       "num": 120512,
       "word": "老人花14万网购癌症特效药",
@@ -2385,6 +2529,14 @@
       "onboard_time": 1766840782,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15791,
+      "num": 215927,
+      "word": "内存通胀内存条价格一年涨4倍",
+      "onboard_time": 1766913622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15436,
