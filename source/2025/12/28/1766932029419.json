@@ -1,0 +1,410 @@
+{
+  "runTime": 1766932029419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 468012,
+        "num": 1074882,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 462497,
+        "num": 462497,
+        "word": "骄阳似我男二戏份",
+        "onboard_time": 1766928742,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28146,
+        "num": 343852,
+        "word": "50天后是除夕",
+        "onboard_time": 1766931743,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734538,
+        "num": 342442,
+        "word": "苏新皓哭了",
+        "onboard_time": 1766929341,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339556,
+        "num": 339556,
+        "word": "王楚钦连说好几个NO",
+        "onboard_time": 1766927422,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471084,
+        "num": 339322,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766926462,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190642,
+        "num": 335172,
+        "word": "今屿 金色雨",
+        "onboard_time": 1766930721,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189245,
+        "num": 334158,
+        "word": "兔子警官回应作秀质疑",
+        "onboard_time": 1766913440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 332530,
+        "word": "RW战胜Hero",
+        "onboard_time": 1766928381,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158923,
+        "num": 329197,
+        "word": "孙颖莎祝身体健康万事如意",
+        "onboard_time": 1766930481,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1412949,
+        "num": 326286,
+        "word": "辽阳22死重大火灾事故调查报告",
+        "onboard_time": 1766925562,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 665667,
+        "num": 324047,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441805,
+        "num": 322123,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379031,
+        "num": 320656,
+        "word": "点外卖备注只要一点点饭时",
+        "onboard_time": 1766920342,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318766,
+        "num": 318766,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 302572,
+        "num": 302572,
+        "word": "苏新皓杨博文双人舞台",
+        "onboard_time": 1766921782,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 297987,
+        "word": "骄阳似我",
+        "onboard_time": 1766917461,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295649,
+        "num": 295649,
+        "word": "单依纯直播",
+        "onboard_time": 1766931383,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45654,
+        "num": 261977,
+        "word": "零跑9系豪华双旗舰同台首秀",
+        "onboard_time": 1766929162,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 259795,
+        "num": 259795,
+        "word": "陈晓顶级东方骨相",
+        "onboard_time": 1766925862,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336558,
+        "num": 259466,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222323,
+        "num": 222323,
+        "word": "虞书欣特别感谢小石榴们",
+        "onboard_time": 1766922562,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106709,
+        "num": 212917,
+        "word": "强冷空气又又又来了",
+        "onboard_time": 1766930841,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210887,
+        "num": 210887,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91398,
+        "num": 203730,
+        "word": "华晨宇说独立音乐首先要会原创",
+        "onboard_time": 1766930602,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203592,
+        "num": 203592,
+        "word": "这两种水果太适合加热吃了",
+        "onboard_time": 1766927301,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201974,
+        "num": 201974,
+        "word": "贺峻霖大屏的神",
+        "onboard_time": 1766927842,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190149,
+        "num": 190149,
+        "word": "赵樱子说降不住彭冠英",
+        "onboard_time": 1766929042,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183692,
+        "num": 183692,
+        "word": "双轨婚礼呢",
+        "onboard_time": 1766920280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150555,
+        "num": 183684,
+        "word": "70岁大爷买13克金戒1年半少0.23克",
+        "onboard_time": 1766928502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233581,
+        "num": 183545,
+        "word": "26岁女子驾车落水身亡",
+        "onboard_time": 1766931022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218867,
+        "num": 183313,
+        "word": "妈妈不打麻将早就上清华了",
+        "onboard_time": 1766930782,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124118,
+        "num": 183173,
+        "word": "2025年乒乓球赛事全部结束",
+        "onboard_time": 1766931383,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183156,
+        "num": 183156,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174790,
+        "num": 174790,
+        "word": "何与 靳朝是最接近自己的",
+        "onboard_time": 1766923401,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174392,
+        "num": 174392,
+        "word": "网红小英回应变化大",
+        "onboard_time": 1766927962,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82316,
+        "num": 173948,
+        "word": "我国首个6车道改12车道高速通车",
+        "onboard_time": 1766927723,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173714,
+        "num": 173714,
+        "word": "锤娜丽莎我有点不认识你了",
+        "onboard_time": 1766931743,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164246,
+        "num": 164246,
+        "word": "杨博文一字马",
+        "onboard_time": 1766930721,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5856,
+        "num": 160728,
+        "word": "张柏芝请粉丝吃黑珍珠晚宴",
+        "onboard_time": 1766931743,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160647,
+        "num": 160647,
+        "word": "华晨宇声鸣远扬首席评审",
+        "onboard_time": 1766931143,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154183,
+        "num": 154183,
+        "word": "张真源饭拍月神下凡",
+        "onboard_time": 1766930363,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152915,
+        "num": 152915,
+        "word": "刘耀文 撕漫男",
+        "onboard_time": 1766917522,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152052,
+        "num": 152052,
+        "word": "骄阳似我 单更",
+        "onboard_time": 1766923401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34498,
+        "num": 151823,
+        "word": "视频平台不能因为监督才退费",
+        "onboard_time": 1766929702,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151689,
+        "num": 151689,
+        "word": "严浩翔摸镜头是何意味",
+        "onboard_time": 1766931925,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127920,
+        "num": 149306,
+        "word": "A股迎多项利好",
+        "onboard_time": 1766931981,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148693,
+        "num": 148693,
+        "word": "玩家要求下架飞白",
+        "onboard_time": 1766928624,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124055,
+        "num": 147364,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147337,
+        "num": 147337,
+        "word": "王橹杰羽毛眼链",
+        "onboard_time": 1766919501,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
