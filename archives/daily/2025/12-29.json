@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766960867045,
+  "endTime": 1766961883261,
   "band_list": [
     {
       "raw_hot": 686683,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218209,
+      "num": 501857,
+      "word": "被非洲洋洋绑架受害人至今无法走路",
+      "onboard_time": 1766936480,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206384,
       "num": 206384,
       "word": "马年春晚期待住了",
@@ -97,14 +105,6 @@
       "onboard_time": 1766928742,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187427,
-      "num": 399018,
-      "word": "被非洲洋洋绑架受害人至今无法走路",
-      "onboard_time": 1766936480,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185538,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70421,
+      "num": 70421,
+      "word": "70岁大爷买13克金戒1年半少0.23克",
+      "onboard_time": 1766928502,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69952,
       "num": 69952,
       "word": "现在就出发3",
@@ -361,14 +369,6 @@
       "onboard_time": 1766932762,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 65377,
-      "num": 65377,
-      "word": "70岁大爷买13克金戒1年半少0.23克",
-      "onboard_time": 1766928502,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64869,
@@ -449,6 +449,14 @@
       "onboard_time": 1766942536,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41336,
+      "num": 41336,
+      "word": "辽阳火灾40名公职人员被问责",
+      "onboard_time": 1766926162,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 39201,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 26806,
-      "num": 28642,
+      "num": 32770,
       "word": "电影过家家首映礼",
       "onboard_time": 1766946195,
       "rank": 36,
@@ -555,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24656,
+      "num": 32799,
+      "word": "中国援柬埔寨物资运抵金边",
+      "onboard_time": 1766959454,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24279,
       "num": 24279,
       "word": "苏新皓heymama完全炫技",
@@ -563,16 +579,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24161,
-      "num": 29030,
-      "word": "辽阳火灾40名公职人员被问责",
-      "onboard_time": 1766926162,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 23752,
-      "num": 28631,
+      "num": 32782,
       "word": "电影过家家",
       "onboard_time": 1766945894,
       "rank": 43,
@@ -595,20 +603,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17817,
-      "num": 29837,
-      "word": "乒超联赛总决赛",
-      "onboard_time": 1766932342,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17720,
-      "num": 65146,
+      "raw_hot": 22043,
+      "num": 82407,
       "word": "我国首个6车道改12车道高速通车",
       "onboard_time": 1766927723,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21703,
+      "num": 32791,
+      "word": "聂曦光今天比林屿森高",
+      "onboard_time": 1766955973,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19517,
+      "num": 32785,
+      "word": "乒超联赛总决赛",
+      "onboard_time": 1766932342,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 16912,
@@ -616,14 +632,6 @@
       "word": "林屿森发了提线小瓜",
       "onboard_time": 1766948714,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16358,
-      "num": 26149,
-      "word": "聂曦光今天比林屿森高",
-      "onboard_time": 1766955973,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 15213,
-      "num": 26139,
+      "num": 32765,
       "word": "建议苏新皓直拍纳入防沉迷",
       "onboard_time": 1766955133,
       "rank": 27,
@@ -651,16 +659,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13613,
-      "num": 26141,
-      "word": "中国援柬埔寨物资运抵金边",
-      "onboard_time": 1766959454,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13244,
-      "num": 26134,
+      "raw_hot": 14324,
+      "num": 32769,
       "word": "零跑汽车十周年",
       "onboard_time": 1766931022,
       "rank": 41,
