@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/29 00:34:23 ~ 2025/12/29 03:37:44
+本榜单时间：2025/12/29 00:34:23 ~ 2025/12/29 04:31:41
 </p>
 </blockquote>
 <p>
@@ -467,6 +467,12 @@ RW与WB会师三亚（热度：29456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E7%81%AB%E7%81%BE40%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E9%97%AE%E8%B4%A3%23" target="weibo">
 辽阳火灾40名公职人员被问责（热度：15578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E8%B7%B3%E8%88%9E%E7%9C%8B%E5%BE%97%E5%A5%BD%E7%88%BD%23" target="weibo">
+杨博文跳舞看得好爽（热度：14947）
 </a>
 </li>
 
