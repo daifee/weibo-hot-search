@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766928983723,
+  "endTime": 1766929663945,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1673948,
+      "num": 904582,
+      "word": "辽阳22死重大火灾事故调查报告",
+      "onboard_time": 1766925562,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1554826,
       "num": 1554826,
       "word": "2026春晚分会场发布",
       "onboard_time": 1766906960,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1406355,
-      "num": 904582,
-      "word": "辽阳22死重大火灾事故调查报告",
-      "onboard_time": 1766925562,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1398265,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 731323,
+      "num": 697348,
+      "word": "橹穆美杜莎",
+      "onboard_time": 1766926462,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 722676,
       "num": 247788,
       "word": "尚雯婕胃里割了六个息肉",
@@ -161,14 +169,6 @@
       "onboard_time": 1766910501,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697348,
-      "num": 697348,
-      "word": "橹穆美杜莎",
-      "onboard_time": 1766926462,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 692568,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577567,
+      "num": 316627,
+      "word": "六旬男子性侵智力障碍女子致怀孕",
+      "onboard_time": 1766924181,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575463,
       "num": 276179,
       "word": "严浩翔美式前刺",
@@ -273,14 +281,6 @@
       "onboard_time": 1766919501,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 559656,
-      "num": 316627,
-      "word": "六旬男子性侵智力障碍女子致怀孕",
-      "onboard_time": 1766924181,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 554660,
@@ -499,7 +499,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 397334,
+      "raw_hot": 398111,
       "num": 397334,
       "word": "RW战胜Hero",
       "onboard_time": 1766928381,
@@ -537,6 +537,14 @@
       "onboard_time": 1766884879,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376049,
+      "num": 279957,
+      "word": "原来洗澡时不能开抽烟机不然会中毒",
+      "onboard_time": 1766925321,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 371337,
@@ -577,14 +585,6 @@
       "onboard_time": 1766908581,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356119,
-      "num": 279957,
-      "word": "原来洗澡时不能开抽烟机不然会中毒",
-      "onboard_time": 1766925321,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 347809,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305276,
+      "num": 305276,
+      "word": "王楚钦连说好几个NO",
+      "onboard_time": 1766927422,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301941,
       "num": 288374,
       "word": "骄阳似我这集演到真假千金",
@@ -715,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282123,
+      "num": 263975,
+      "word": "贺峻霖大屏的神",
+      "onboard_time": 1766927842,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 280884,
       "num": 280884,
       "word": "Cat教练",
@@ -763,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272066,
+      "num": 272066,
+      "word": "玩家要求下架飞白",
+      "onboard_time": 1766928624,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269284,
       "num": 269284,
       "word": "普京突然穿上军装",
@@ -777,14 +801,6 @@
       "onboard_time": 1766884639,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263975,
-      "num": 263975,
-      "word": "贺峻霖大屏的神",
-      "onboard_time": 1766927842,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 263610,
@@ -817,14 +833,6 @@
       "onboard_time": 1766896460,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256807,
-      "num": 302612,
-      "word": "王楚钦连说好几个NO",
-      "onboard_time": 1766927422,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 254927,
@@ -865,6 +873,14 @@
       "onboard_time": 1766880558,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250720,
+      "num": 238929,
+      "word": "苏新皓哭了",
+      "onboard_time": 1766929341,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 250348,
@@ -939,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234103,
+      "num": 234103,
+      "word": "骄阳似我男二戏份",
+      "onboard_time": 1766928742,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233918,
       "num": 215952,
       "word": "黑色小猫果然耐脏",
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220304,
+      "num": 220304,
+      "word": "TOP合唱我们的明天",
+      "onboard_time": 1766927903,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219538,
       "num": 176046,
       "word": "王安宇 何老师往事不要再提",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1766899279,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211603,
-      "num": 211603,
-      "word": "TOP合唱我们的明天",
-      "onboard_time": 1766927903,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 210132,
@@ -1091,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202460,
+      "num": 202460,
+      "word": "这两种水果太适合加热吃了",
+      "onboard_time": 1766927301,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201542,
       "num": 196177,
       "word": "深圳震感",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1766900420,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199632,
-      "num": 199632,
-      "word": "这两种水果太适合加热吃了",
-      "onboard_time": 1766927301,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 198370,
@@ -1131,12 +1155,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197203,
+      "num": 197203,
+      "word": "RW首次晋级挑杯决赛",
+      "onboard_time": 1766929402,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196731,
       "num": 196731,
       "word": "宋亚轩免检生图",
       "onboard_time": 1766920580,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196222,
+      "num": 196222,
+      "word": "赵樱子说降不住彭冠英",
+      "onboard_time": 1766929042,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 193727,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1766886380,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 179407,
+      "num": 179407,
+      "word": "网红小英回应变化大",
+      "onboard_time": 1766927962,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 179321,
@@ -1411,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165865,
-      "num": 165865,
-      "word": "玩家要求下架飞白",
-      "onboard_time": 1766928624,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163843,
       "num": 163843,
       "word": "女子花上万元跟主播养胃暴瘦30斤",
@@ -1507,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155664,
+      "num": 155664,
+      "word": "微博之夜",
+      "onboard_time": 1766922382,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154460,
       "num": 154460,
       "word": "李梦说衣服不丑只是美得很小众",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1766903601,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150727,
-      "num": 150727,
-      "word": "微博之夜",
-      "onboard_time": 1766922382,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149869,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1766898561,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144035,
-      "num": 144035,
-      "word": "网红小英回应变化大",
-      "onboard_time": 1766927962,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 143884,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1766839042,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135921,
-      "num": 135921,
-      "word": "骄阳似我男二戏份",
-      "onboard_time": 1766928742,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 135641,
@@ -2755,6 +2779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86172,
+      "num": 241344,
+      "word": "零跑9系豪华双旗舰同台首秀",
+      "onboard_time": 1766929162,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86006,
       "num": 120439,
       "word": "虞书欣何与双轨收官剧照",
@@ -2939,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78098,
+      "num": 741309,
+      "word": "我国首个6车道改12车道高速通车",
+      "onboard_time": 1766927723,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77645,
       "num": 77645,
       "word": "福建人被台湾地震吓麻了",
@@ -2952,6 +2992,14 @@
       "word": "更好的2026在向你招手",
       "onboard_time": 1766923761,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76441,
+      "num": 164773,
+      "word": "70岁大爷买13克金戒1年半少0.23克",
+      "onboard_time": 1766928502,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3059,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60059,
+      "num": 246228,
+      "word": "给麦当劳种土豆的人找到了",
+      "onboard_time": 1766927361,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58868,
       "num": 614052,
       "word": "中国军事年终大片太硬核了",
@@ -3099,12 +3155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56356,
-      "num": 246228,
-      "word": "给麦当劳种土豆的人找到了",
-      "onboard_time": 1766927361,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 53657,
+      "num": 164738,
+      "word": "古天乐 宣萱说什么都是对的",
+      "onboard_time": 1766929222,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 52912,
@@ -3113,14 +3169,6 @@
       "onboard_time": 1766846962,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51987,
-      "num": 741309,
-      "word": "我国首个6车道改12车道高速通车",
-      "onboard_time": 1766927723,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49960,
@@ -3155,12 +3203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45468,
-      "num": 158466,
-      "word": "70岁大爷买13克金戒1年半少0.23克",
-      "onboard_time": 1766928502,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 45935,
+      "num": 158910,
+      "word": "袜子买三送三到手仅3双",
+      "onboard_time": 1766928442,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 44768,
@@ -3339,20 +3387,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26746,
-      "num": 158910,
-      "word": "袜子买三送三到手仅3双",
-      "onboard_time": 1766928442,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 25662,
       "num": 47008,
       "word": "张极绷带造型富有且大方",
       "onboard_time": 1766863215,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24697,
+      "num": 315728,
+      "word": "酷滕眼里的天放长得五花八们",
+      "onboard_time": 1766926881,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 24471,
@@ -3401,14 +3449,6 @@
       "onboard_time": 1766925442,
       "rank": 35,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 21870,
-      "num": 315728,
-      "word": "酷滕眼里的天放长得五花八们",
-      "onboard_time": 1766926881,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 21860,
@@ -3515,8 +3555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10802,
-      "num": 151214,
+      "raw_hot": 13473,
+      "num": 158413,
       "word": "五花八们三亚再现炫舞名场面",
       "onboard_time": 1766928381,
       "rank": 39,

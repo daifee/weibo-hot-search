@@ -1,0 +1,410 @@
+{
+  "runTime": 1766929663945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592589,
+        "num": 1094814,
+        "word": "江西省博确认米芾展品为原件",
+        "onboard_time": 1766923222,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 305276,
+        "num": 305276,
+        "word": "王楚钦连说好几个NO",
+        "onboard_time": 1766927422,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78098,
+        "num": 304890,
+        "word": "我国首个6车道改12车道高速通车",
+        "onboard_time": 1766927723,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 731323,
+        "num": 304280,
+        "word": "橹穆美杜莎",
+        "onboard_time": 1766926462,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398111,
+        "num": 303765,
+        "word": "RW战胜Hero",
+        "onboard_time": 1766928381,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1673948,
+        "num": 303080,
+        "word": "辽阳22死重大火灾事故调查报告",
+        "onboard_time": 1766925562,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 369968,
+        "num": 302646,
+        "word": "苏新皓杨博文双人舞台",
+        "onboard_time": 1766921782,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302254,
+        "num": 302254,
+        "word": "骄阳似我 单更",
+        "onboard_time": 1766923401,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272066,
+        "num": 272066,
+        "word": "玩家要求下架飞白",
+        "onboard_time": 1766928624,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250038,
+        "num": 250038,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755684,
+        "num": 249848,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 577567,
+        "num": 247736,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367320,
+        "num": 246748,
+        "word": "陈晓顶级东方骨相",
+        "onboard_time": 1766925862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438096,
+        "num": 245488,
+        "word": "点外卖备注只要一点点饭时",
+        "onboard_time": 1766920342,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 244182,
+        "word": "酷滕眼里的天放长得五花八们",
+        "onboard_time": 1766926881,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376049,
+        "num": 243040,
+        "word": "原来洗澡时不能开抽烟机不然会中毒",
+        "onboard_time": 1766925321,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282123,
+        "num": 241769,
+        "word": "贺峻霖大屏的神",
+        "onboard_time": 1766927842,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86172,
+        "num": 241344,
+        "word": "零跑9系豪华双旗舰同台首秀",
+        "onboard_time": 1766929162,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60059,
+        "num": 240359,
+        "word": "给麦当劳种土豆的人找到了",
+        "onboard_time": 1766927361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250720,
+        "num": 238929,
+        "word": "苏新皓哭了",
+        "onboard_time": 1766929341,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 422656,
+        "num": 237921,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236815,
+        "num": 236815,
+        "word": "虞书欣特别感谢小石榴们",
+        "onboard_time": 1766922562,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234737,
+        "num": 234737,
+        "word": "刘耀文 撕漫男",
+        "onboard_time": 1766917522,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234103,
+        "num": 234103,
+        "word": "骄阳似我男二戏份",
+        "onboard_time": 1766928742,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222704,
+        "num": 222704,
+        "word": "何与 靳朝是最接近自己的",
+        "onboard_time": 1766923401,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220304,
+        "num": 220304,
+        "word": "TOP合唱我们的明天",
+        "onboard_time": 1766927903,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208579,
+        "num": 208579,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203693,
+        "num": 203693,
+        "word": "兔子警官回应作秀质疑",
+        "onboard_time": 1766913440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202460,
+        "num": 202460,
+        "word": "这两种水果太适合加热吃了",
+        "onboard_time": 1766927301,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197203,
+        "num": 197203,
+        "word": "RW首次晋级挑杯决赛",
+        "onboard_time": 1766929402,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 196222,
+        "word": "赵樱子说降不住彭冠英",
+        "onboard_time": 1766929042,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190695,
+        "num": 190695,
+        "word": "骄阳似我",
+        "onboard_time": 1766917461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187170,
+        "num": 187170,
+        "word": "严浩翔美式前刺",
+        "onboard_time": 1766916021,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179589,
+        "num": 179589,
+        "word": "双轨婚礼呢",
+        "onboard_time": 1766920280,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179407,
+        "num": 179407,
+        "word": "网红小英回应变化大",
+        "onboard_time": 1766927962,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165732,
+        "num": 165732,
+        "word": "王橹杰羽毛眼链",
+        "onboard_time": 1766919501,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76441,
+        "num": 164773,
+        "word": "70岁大爷买13克金戒1年半少0.23克",
+        "onboard_time": 1766928502,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53657,
+        "num": 164738,
+        "word": "古天乐 宣萱说什么都是对的",
+        "onboard_time": 1766929222,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164713,
+        "num": 164713,
+        "word": "张杰谢娜 同台",
+        "onboard_time": 1766915181,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13473,
+        "num": 158413,
+        "word": "五花八们三亚再现炫舞名场面",
+        "onboard_time": 1766928381,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45935,
+        "num": 156594,
+        "word": "袜子买三送三到手仅3双",
+        "onboard_time": 1766928442,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155664,
+        "num": 155664,
+        "word": "微博之夜",
+        "onboard_time": 1766922382,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153447,
+        "num": 153447,
+        "word": "那英黑长直看得我想把脉了",
+        "onboard_time": 1766927062,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148488,
+        "num": 148488,
+        "word": "穆祉丞的肚子露出来了",
+        "onboard_time": 1766925081,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144813,
+        "num": 144813,
+        "word": "王楚钦vs向鹏",
+        "onboard_time": 1766922739,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138181,
+        "num": 138181,
+        "word": "骄阳似我这集演到真假千金",
+        "onboard_time": 1766921421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 136837,
+        "word": "RW对战Hero",
+        "onboard_time": 1766927602,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33715,
+        "num": 136375,
+        "word": "更好的2026在向你招手",
+        "onboard_time": 1766923761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136312,
+        "num": 136312,
+        "word": "Karsa宣布退役",
+        "onboard_time": 1766922981,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131924,
+        "num": 131924,
+        "word": "张桂源黑色耳夹",
+        "onboard_time": 1766928262,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的足迹#"
+    }
+  }
+}
