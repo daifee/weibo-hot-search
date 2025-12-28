@@ -1,0 +1,410 @@
+{
+  "runTime": 1766906899731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714103,
+        "num": 1114256,
+        "word": "奶奶喜丧女子因朋友少求助网友",
+        "onboard_time": 1766894179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339038,
+        "num": 339038,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1766893700,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41284,
+        "num": 236664,
+        "word": "中国军事年终大片太硬核了",
+        "onboard_time": 1766893160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1085396,
+        "num": 223740,
+        "word": "黄子韬因脑淤血手术缝了43针",
+        "onboard_time": 1766896460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209625,
+        "num": 209625,
+        "word": "再见爱人 难哄",
+        "onboard_time": 1766905340,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440500,
+        "num": 209048,
+        "word": "动物奶油 断句陷阱",
+        "onboard_time": 1766900180,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605352,
+        "num": 207047,
+        "word": "王安宇告别现在就出发",
+        "onboard_time": 1766904440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203985,
+        "num": 203985,
+        "word": "现在就出发第三季收官",
+        "onboard_time": 1766902581,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183689,
+        "num": 203837,
+        "word": "美媒关注中国网友讨论美国斩杀线",
+        "onboard_time": 1766895381,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145401,
+        "num": 203552,
+        "word": "深圳大学女团夺冠",
+        "onboard_time": 1766900300,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486797,
+        "num": 203424,
+        "word": "尹正被731馆长误认为是日本人",
+        "onboard_time": 1766900360,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465599,
+        "num": 203202,
+        "word": "王橹杰 懂得都懂",
+        "onboard_time": 1766898800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460079,
+        "num": 202751,
+        "word": "空腹爬楼梯瘦了30斤",
+        "onboard_time": 1766904981,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 427464,
+        "num": 202629,
+        "word": "深圳博物馆火了",
+        "onboard_time": 1766898260,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31491,
+        "num": 202255,
+        "word": "滑雪脸僵了试试美团医美",
+        "onboard_time": 1766905580,
+        "rank": 14,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 309898,
+        "num": 201940,
+        "word": "黄晓明自曝曾救过刘亦菲的命",
+        "onboard_time": 1766896640,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273706,
+        "num": 201848,
+        "word": "谭松韵 黄蓉",
+        "onboard_time": 1766901140,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254184,
+        "num": 201450,
+        "word": "安崎在浪姐制片人面前求职",
+        "onboard_time": 1766902700,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220607,
+        "num": 201326,
+        "word": "虞书欣华语艺人国际排行榜第一",
+        "onboard_time": 1766905821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201138,
+        "num": 201138,
+        "word": "原来这就是软孤立",
+        "onboard_time": 1766897600,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480245,
+        "num": 197666,
+        "word": "章子怡女儿醒醒十岁了",
+        "onboard_time": 1766901681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193998,
+        "num": 193998,
+        "word": "沈腾学王安宇自责到凌晨4点",
+        "onboard_time": 1766895622,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188537,
+        "num": 188537,
+        "word": "谁在说宋威龙赵今麦不熟啊",
+        "onboard_time": 1766905638,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180617,
+        "num": 180617,
+        "word": "炎亚纶发文感谢飞轮海",
+        "onboard_time": 1766906480,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97146,
+        "num": 177755,
+        "word": "个税APP确认信息将截止",
+        "onboard_time": 1766905280,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96947,
+        "num": 176529,
+        "word": "财政部明年将促进居民就业增收",
+        "onboard_time": 1766905760,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175822,
+        "num": 175822,
+        "word": "殷世航曝网红情侣很多都是假的",
+        "onboard_time": 1766899821,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174004,
+        "num": 174004,
+        "word": "马思纯34秒视频换了18套造型",
+        "onboard_time": 1766906421,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163718,
+        "num": 163718,
+        "word": "燕云道歉",
+        "onboard_time": 1766904500,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78088,
+        "num": 158269,
+        "word": "大盘鸡店侮辱性回复学生差评被摘牌",
+        "onboard_time": 1766886622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157596,
+        "num": 157596,
+        "word": "艾米艺考",
+        "onboard_time": 1766898440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141324,
+        "num": 141324,
+        "word": "陈哲远 下半身还是能用的",
+        "onboard_time": 1766898740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128386,
+        "num": 128386,
+        "word": "于正说娜扎美到后无来者",
+        "onboard_time": 1766899279,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119236,
+        "num": 119236,
+        "word": "上厕所玩手机一次伤害7个器官",
+        "onboard_time": 1766891180,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117845,
+        "num": 117845,
+        "word": "时代少年团少年正稳步走来",
+        "onboard_time": 1766904860,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107728,
+        "num": 107728,
+        "word": "经常熬夜身体会悄悄变硬",
+        "onboard_time": 1766893580,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105117,
+        "num": 105117,
+        "word": "李煜东直拍",
+        "onboard_time": 1766906601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72999,
+        "num": 104949,
+        "word": "台湾海域6.6级地震",
+        "onboard_time": 1766848649,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48265,
+        "num": 104861,
+        "word": "阿凡达3幻视封神",
+        "onboard_time": 1766906541,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104854,
+        "num": 104854,
+        "word": "金晨黄景瑜这下亡荡了",
+        "onboard_time": 1766906421,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102774,
+        "num": 102774,
+        "word": "王橹杰",
+        "onboard_time": 1766851401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98256,
+        "num": 98256,
+        "word": "我是不会放弃去阿勒泰的",
+        "onboard_time": 1766906541,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98016,
+        "num": 98016,
+        "word": "王星说恋爱4年没结婚是因为结不起",
+        "onboard_time": 1766894600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97505,
+        "num": 97505,
+        "word": "张小婉变化好大",
+        "onboard_time": 1766906840,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94449,
+        "num": 94449,
+        "word": "迪丽热巴感谢观众喜欢邓妍",
+        "onboard_time": 1766897540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92866,
+        "num": 93851,
+        "word": "黄晓明回应曾救过刘亦菲的命",
+        "onboard_time": 1766905520,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93694,
+        "num": 93694,
+        "word": "有歌第二季定档",
+        "onboard_time": 1766906119,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60316,
+        "num": 93533,
+        "word": "罚罪2 李云龙和他的三个意大利炮",
+        "onboard_time": 1766905219,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68186,
+        "num": 93379,
+        "word": "泰国女子把女儿骗到日本卖淫",
+        "onboard_time": 1766886201,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66493,
+        "num": 93275,
+        "word": "美媒一定程度上承认了斩杀线存在",
+        "onboard_time": 1766906780,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#务实是必备品格#"
+    }
+  }
+}
