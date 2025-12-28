@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766943763823,
+  "endTime": 1766947134709,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -3571,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60560,
+      "num": 73918,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60316,
       "num": 93533,
       "word": "罚罪2 李云龙和他的三个意大利炮",
@@ -3651,14 +3659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52706,
-      "num": 73918,
-      "word": "小猫四条腿各跑各的",
-      "onboard_time": 1766941217,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49960,
       "num": 112631,
       "word": "王楚钦挥手回应球迷新年祝福",
@@ -3729,6 +3729,14 @@
       "onboard_time": 1766920761,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44764,
+      "num": 44764,
+      "word": "年度报告",
+      "onboard_time": 1766946374,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 44747,
@@ -3851,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35156,
+      "num": 55209,
+      "word": "王者荣耀最没用的法师",
+      "onboard_time": 1766943255,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34498,
       "num": 151823,
       "word": "视频平台不能因为监督才退费",
@@ -3971,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27652,
+      "num": 28644,
+      "word": "张函瑞大屏帅成这样",
+      "onboard_time": 1766946314,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26967,
       "num": 47010,
       "word": "苏新皓抓周抓的是镜头",
@@ -3985,6 +4009,14 @@
       "onboard_time": 1766941217,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26806,
+      "num": 28642,
+      "word": "电影过家家首映礼",
+      "onboard_time": 1766946195,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 25662,
@@ -4027,12 +4059,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 23688,
-      "num": 55209,
-      "word": "王者荣耀最没用的法师",
-      "onboard_time": 1766943255,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 23752,
+      "num": 28631,
+      "word": "电影过家家",
+      "onboard_time": 1766945894,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 23609,
@@ -4065,6 +4097,14 @@
       "onboard_time": 1766925442,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22481,
+      "num": 28640,
+      "word": "年度总结文案",
+      "onboard_time": 1766945596,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 21860,

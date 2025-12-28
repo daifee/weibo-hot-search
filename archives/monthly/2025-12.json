@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1766943763823,
+  "endTime": 1766947134709,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -83555,6 +83555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60560,
+      "num": 73918,
+      "word": "小猫四条腿各跑各的",
+      "onboard_time": 1766941217,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60552,
       "num": 113676,
       "word": "外国人拿走留学生行李拒不归还",
@@ -85873,14 +85881,6 @@
       "onboard_time": 1766737400,
       "rank": 18,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 52706,
-      "num": 73918,
-      "word": "小猫四条腿各跑各的",
-      "onboard_time": 1766941217,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 52691,
@@ -91579,6 +91579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35156,
+      "num": 55209,
+      "word": "王者荣耀最没用的法师",
+      "onboard_time": 1766943255,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35154,
       "num": 67484,
       "word": "安徽红杉雾凇一秒进入古偶剧",
@@ -94715,6 +94723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27652,
+      "num": 28644,
+      "word": "张函瑞大屏帅成这样",
+      "onboard_time": 1766946314,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27635,
       "num": 104526,
       "word": "汕头火灾幸存者称或受浓烟影响更大",
@@ -95001,6 +95017,14 @@
       "onboard_time": 1765708161,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26806,
+      "num": 28642,
+      "word": "电影过家家首映礼",
+      "onboard_time": 1766946195,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 26803,
@@ -96195,6 +96219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23752,
+      "num": 28631,
+      "word": "电影过家家",
+      "onboard_time": 1766945894,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23735,
       "num": 213409,
       "word": "台湾5.5级左右地震",
@@ -96209,14 +96241,6 @@
       "onboard_time": 1764745221,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23688,
-      "num": 55209,
-      "word": "王者荣耀最没用的法师",
-      "onboard_time": 1766943255,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 23674,
@@ -96689,6 +96713,14 @@
       "onboard_time": 1765998615,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 22481,
+      "num": 28640,
+      "word": "年度总结文案",
+      "onboard_time": 1766945596,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 22468,
