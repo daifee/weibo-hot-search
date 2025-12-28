@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766932029419,
+  "endTime": 1766933023211,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1079067,
-      "num": 324047,
+      "num": 419854,
       "word": "成龙自曝和儿子一年只打一次电话",
       "onboard_time": 1766924121,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1766894179,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 998478,
+      "num": 420126,
+      "word": "杨幂吃固体杨枝甘露沉默了",
+      "onboard_time": 1766931743,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 874436,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 734538,
-      "num": 342442,
+      "num": 420918,
       "word": "苏新皓哭了",
       "onboard_time": 1766929341,
       "rank": 19,
@@ -211,8 +219,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645231,
+      "num": 1103237,
+      "word": "骄阳似我男二戏份",
+      "onboard_time": 1766928742,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 620860,
-      "num": 320656,
+      "num": 407392,
       "word": "点外卖备注只要一点点饭时",
       "onboard_time": 1766920342,
       "rank": 30,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 577567,
-      "num": 322123,
+      "num": 419824,
       "word": "六旬男子性侵智力障碍女子致怀孕",
       "onboard_time": 1766924181,
       "rank": 14,
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462497,
-      "num": 462497,
-      "word": "骄阳似我男二戏份",
-      "onboard_time": 1766928742,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460079,
       "num": 247678,
       "word": "空腹爬楼梯瘦了30斤",
@@ -489,6 +497,14 @@
       "onboard_time": 1766898260,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421053,
+      "num": 421053,
+      "word": "王楚钦连说好几个NO",
+      "onboard_time": 1766927422,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 411083,
@@ -611,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 339556,
-      "num": 339556,
-      "word": "王楚钦连说好几个NO",
-      "onboard_time": 1766927422,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335345,
       "num": 247282,
       "word": "王星说恋爱4年没结婚是因为结不起",
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299338,
+      "num": 299338,
+      "word": "单依纯直播",
+      "onboard_time": 1766931383,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299122,
       "num": 299122,
       "word": "南昌震感",
@@ -712,14 +728,6 @@
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
       "onboard_time": 1766835259,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 295649,
-      "num": 295649,
-      "word": "单依纯直播",
-      "onboard_time": 1766931383,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -745,6 +753,14 @@
       "onboard_time": 1766906840,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282580,
+      "num": 420584,
+      "word": "妈妈不打麻将早就上清华了",
+      "onboard_time": 1766930782,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282123,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 263610,
-      "num": 297987,
+      "num": 420261,
       "word": "骄阳似我",
       "onboard_time": 1766893099,
       "rank": 17,
@@ -947,12 +963,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244020,
+      "num": 420767,
+      "word": "26岁女子驾车落水身亡",
+      "onboard_time": 1766931022,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242472,
       "num": 185356,
       "word": "上厕所玩手机一次伤害7个器官",
       "onboard_time": 1766891180,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238273,
+      "num": 238273,
+      "word": "锤娜丽莎我有点不认识你了",
+      "onboard_time": 1766931743,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 235564,
@@ -977,14 +1009,6 @@
       "onboard_time": 1766909720,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233581,
-      "num": 183545,
-      "word": "26岁女子驾车落水身亡",
-      "onboard_time": 1766931022,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231684,
@@ -1075,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218867,
-      "num": 183313,
-      "word": "妈妈不打麻将早就上清华了",
-      "onboard_time": 1766930782,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214013,
       "num": 214013,
       "word": "于正说娜扎美到后无来者",
@@ -1091,19 +1107,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210887,
-      "num": 210887,
-      "word": "杨幂吃固体杨枝甘露沉默了",
-      "onboard_time": 1766931743,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210132,
       "num": 210132,
       "word": "野心家",
       "onboard_time": 1766919561,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 207409,
+      "num": 188897,
+      "word": "宋威龙 这次换我来拍",
+      "onboard_time": 1766932403,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -1120,6 +1136,14 @@
       "word": "荣耀之战",
       "onboard_time": 1766841442,
       "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 205931,
+      "num": 205931,
+      "word": "严浩翔摸镜头是何意味",
+      "onboard_time": 1766931925,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -1153,6 +1177,22 @@
       "onboard_time": 1766921721,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202652,
+      "num": 202652,
+      "word": "TF家族",
+      "onboard_time": 1766932762,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201847,
+      "num": 420396,
+      "word": "今屿 金色雨",
+      "onboard_time": 1766930721,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 201542,
@@ -1195,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197131,
+      "num": 197131,
+      "word": "刘耀文没有保持口腔干燥的义务",
+      "onboard_time": 1766932884,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196731,
       "num": 196731,
       "word": "宋亚轩免检生图",
@@ -1227,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192031,
+      "num": 420323,
+      "word": "王楚钦想远离一下乒乓球",
+      "onboard_time": 1766932823,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191324,
       "num": 164216,
       "word": "深圳大学2比1山东鲁能",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1766918061,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190642,
-      "num": 335172,
-      "word": "今屿 金色雨",
-      "onboard_time": 1766930721,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 190536,
@@ -1339,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175156,
+      "num": 199022,
+      "word": "70岁大爷买13克金戒1年半少0.23克",
+      "onboard_time": 1766928502,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175134,
       "num": 175134,
       "word": "赵小童吃席都在看骄阳似我",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1766891840,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173714,
-      "num": 173714,
-      "word": "锤娜丽莎我有点不认识你了",
-      "onboard_time": 1766931743,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 172640,
@@ -1483,6 +1531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167147,
+      "num": 167147,
+      "word": "邓紫棋自嘲又穿了皮裤",
+      "onboard_time": 1766932222,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166929,
       "num": 166929,
       "word": "花海退役也是1227",
@@ -1571,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159899,
+      "num": 159899,
+      "word": "小俞感谢AG和RW",
+      "onboard_time": 1766932403,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159509,
       "num": 159509,
       "word": "AG无缘挑杯决赛",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1766895679,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157796,
+      "num": 157796,
+      "word": "穆祉丞带王橹杰进拍子",
+      "onboard_time": 1766932762,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 157434,
@@ -1635,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154344,
+      "num": 168194,
+      "word": "乒超联赛总决赛",
+      "onboard_time": 1766932342,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154238,
       "num": 154238,
       "word": "王俊凯出发澳门跨年",
@@ -1657,22 +1737,6 @@
       "onboard_time": 1766903601,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151689,
-      "num": 151689,
-      "word": "严浩翔摸镜头是何意味",
-      "onboard_time": 1766931925,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 150555,
-      "num": 183684,
-      "word": "70岁大爷买13克金戒1年半少0.23克",
-      "onboard_time": 1766928502,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149869,
@@ -1715,6 +1779,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 145692,
+      "num": 145692,
+      "word": "午睡其实不用非得睡着",
+      "onboard_time": 1766930061,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145396,
       "num": 145396,
       "word": "苏新皓前滚翻",
@@ -1731,12 +1803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144411,
+      "num": 149306,
+      "word": "A股迎多项利好",
+      "onboard_time": 1766931981,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143884,
       "num": 143884,
       "word": "她可能还没意识到自己多牛",
       "onboard_time": 1766885421,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142716,
+      "num": 142716,
+      "word": "王楚钦说奖杯太沉了给梁靖崑抬",
+      "onboard_time": 1766931502,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 142493,
@@ -1961,14 +2049,6 @@
       "onboard_time": 1766924542,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127920,
-      "num": 149306,
-      "word": "A股迎多项利好",
-      "onboard_time": 1766931981,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 127747,
@@ -2907,8 +2987,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86289,
+      "num": 421053,
+      "word": "50天后是除夕",
+      "onboard_time": 1766931743,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86172,
-      "num": 261977,
+      "num": 409985,
       "word": "零跑9系豪华双旗舰同台首秀",
       "onboard_time": 1766929162,
       "rank": 17,
@@ -3065,6 +3153,14 @@
       "onboard_time": 1766889679,
       "rank": 49,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 79837,
+      "num": 177112,
+      "word": "17岁少女1年打赏主播40多万元",
+      "onboard_time": 1766932823,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 79801,
@@ -3315,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46820,
+      "num": 171117,
+      "word": "宋威龙扛住了格莱美运镜",
+      "onboard_time": 1766932884,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46598,
       "num": 65593,
       "word": "穆祉丞王橹杰剑客琴师",
@@ -3353,6 +3457,14 @@
       "onboard_time": 1766924842,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42933,
+      "num": 189379,
+      "word": "米芾展品真假质疑者发声",
+      "onboard_time": 1766932762,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40401,
@@ -3499,14 +3611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28146,
-      "num": 343852,
-      "word": "50天后是除夕",
-      "onboard_time": 1766931743,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27694,
       "num": 215927,
       "word": "内存通胀内存条价格一年涨4倍",
@@ -3635,6 +3739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16243,
+      "num": 162783,
+      "word": "博主下架疑江西博物馆展品调包视频",
+      "onboard_time": 1766932703,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15436,
       "num": 45987,
       "word": "王者荣耀挑战者杯",
@@ -3649,6 +3761,14 @@
       "onboard_time": 1766919682,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15079,
+      "num": 160728,
+      "word": "张柏芝请粉丝吃黑珍珠晚宴",
+      "onboard_time": 1766931743,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 15031,
@@ -3721,14 +3841,6 @@
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 5856,
-      "num": 160728,
-      "word": "张柏芝请粉丝吃黑珍珠晚宴",
-      "onboard_time": 1766931743,
-      "rank": 39,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

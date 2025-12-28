@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/28 22:27:09
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/28 22:43:43
 </p>
 </blockquote>
 <p>
@@ -2141,6 +2141,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E5%86%9B%E4%BA%8B%E4%BB%8B%E5%85%A5%E5%8D%97%E6%B5%B7%23" target="weibo">
 日本开始军事介入南海（热度：999419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%90%83%E5%9B%BA%E4%BD%93%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+杨幂吃固体杨枝甘露沉默了（热度：998478）
 </a>
 </li>
 
@@ -4875,6 +4881,12 @@ iPhone18Pro左上角挖孔设计（热度：655185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%94%B7%E4%BA%8C%E6%88%8F%E4%BB%BD%23" target="weibo">
+骄阳似我男二戏份（热度：645231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%9C%89%E6%BB%9E%E5%90%8E%E6%80%A7%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来爱有滞后性是真的（热度：644921）
 </a>
@@ -5999,18 +6011,6 @@ NBA球员李凯尔国籍已改为美国（热度：579623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E8%A3%85%E5%AE%BD%E5%B8%A6%E9%AA%97%E5%B1%80%23" target="weibo">
 央视曝光免费装宽带骗局（热度：574212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6%23" target="weibo">
-红楼梦（热度：573892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%80%80%E5%AD%95%E4%B8%BA%E7%94%B1%E6%95%B2%E8%AF%88%E5%AD%99%E5%85%B4%E6%85%9C%E8%8E%B7%E5%88%91%23" target="weibo">
-韩国女子以怀孕为由敲诈孙兴慜获刑（热度：573230）
 </a>
 </li>
 
