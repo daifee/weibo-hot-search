@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767016540420,
+  "endTime": 1767018620405,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -56,6 +56,14 @@
       "word": "关晓彤",
       "onboard_time": 1740674355,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30003324,
+      "num": 30003324,
+      "word": "林俊杰官宣恋情",
+      "onboard_time": 1767016887,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -752,6 +760,14 @@
       "word": "黄景瑜 女朋友",
       "onboard_time": 1740064343,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13456686,
+      "num": 13456686,
+      "word": "林俊杰 七七",
+      "onboard_time": 1764142821,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738076070,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7007661,
-      "num": 7007661,
-      "word": "叶珂官宣生了",
-      "onboard_time": 1754543423,
-      "rank": 0,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 6997623,
-      "num": 8038150,
-      "word": "何卫东等9人被开除党籍军籍",
-      "onboard_time": 1760693962,
-      "rank": 7,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

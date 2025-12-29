@@ -1,0 +1,410 @@
+{
+  "runTime": 1767018620405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 759588,
+        "num": 1121534,
+        "word": "东部战区随时到台北",
+        "onboard_time": 1767012981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358918,
+        "num": 358918,
+        "word": "逍遥剧情 老套",
+        "onboard_time": 1767009260,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20187,
+        "num": 337221,
+        "word": "S21一路开新",
+        "onboard_time": 1767013821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2132567,
+        "num": 333317,
+        "word": "张杰演唱会回应争议",
+        "onboard_time": 1767016521,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 537486,
+        "num": 295721,
+        "word": "新闻联播出现台北101大楼画面",
+        "onboard_time": 1767014301,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534075,
+        "num": 277979,
+        "word": "男孩偷吃变态辣外卖住院家长索赔",
+        "onboard_time": 1767012802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517260,
+        "num": 266396,
+        "word": "霍建华 年纪大了终于能演喜欢的角色了",
+        "onboard_time": 1767016402,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243814,
+        "num": 243814,
+        "word": "解放军无人机俯瞰台北101大厦",
+        "onboard_time": 1767009919,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213433,
+        "num": 213433,
+        "word": "大鹅已找到主人决定继续抽水追凶",
+        "onboard_time": 1767009800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86044,
+        "num": 211655,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30003324,
+        "num": 30003324,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551034,
+        "num": 206330,
+        "word": "林俊杰七七相差21岁",
+        "onboard_time": 1767018149,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507695,
+        "num": 204015,
+        "word": "强奸女友获刑男子复合后致女方身亡",
+        "onboard_time": 1767011660,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411208,
+        "num": 200918,
+        "word": "Labubu二手价格崩了",
+        "onboard_time": 1766997981,
+        "rank": 13,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 374218,
+        "num": 199745,
+        "word": "迅猛龙假哭",
+        "onboard_time": 1767009980,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13456686,
+        "num": 13456686,
+        "word": "林俊杰 七七",
+        "onboard_time": 1767017366,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254535,
+        "num": 194540,
+        "word": "信阳巨响",
+        "onboard_time": 1767014781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192206,
+        "num": 192206,
+        "word": "杨幂 你看又一个拍婚纱的",
+        "onboard_time": 1767002901,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188584,
+        "num": 188584,
+        "word": "牛肉干焯水后变豆腐干",
+        "onboard_time": 1767012741,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163474,
+        "num": 176768,
+        "word": "日本夫妇惨死桑拿房",
+        "onboard_time": 1767005541,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 449121,
+        "num": 175832,
+        "word": "白鹿剪短了头发",
+        "onboard_time": 1767015803,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189346,
+        "num": 175178,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173376,
+        "num": 173376,
+        "word": "宋亚轩 一家四口",
+        "onboard_time": 1767017431,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167963,
+        "num": 167963,
+        "word": "央视跨年晚会",
+        "onboard_time": 1767003740,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152165,
+        "num": 152165,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158657,
+        "num": 151308,
+        "word": "黄景瑜给爱奇艺道歉",
+        "onboard_time": 1767003321,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149770,
+        "num": 149770,
+        "word": "李锐回应在迪拜签下12亿订单",
+        "onboard_time": 1767017970,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144975,
+        "num": 144975,
+        "word": "女子回应网购羽绒服退货口袋装机票",
+        "onboard_time": 1767015381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143955,
+        "num": 143955,
+        "word": "张子墨晒与张函瑞合照",
+        "onboard_time": 1767008842,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125488,
+        "num": 143213,
+        "word": "钎九",
+        "onboard_time": 1767014420,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152984,
+        "num": 143210,
+        "word": "我也要在微博上找帅哥教练",
+        "onboard_time": 1767018508,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142928,
+        "num": 142928,
+        "word": "张凌赫洗澡只要20分钟",
+        "onboard_time": 1767005900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124500,
+        "num": 142928,
+        "word": "骄阳似我 长白山到底有谁在啊",
+        "onboard_time": 1767014060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114000,
+        "num": 142918,
+        "word": "重庆机场严正声明",
+        "onboard_time": 1767015321,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112136,
+        "num": 142918,
+        "word": "女子1周健身6次致停经",
+        "onboard_time": 1767010759,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112527,
+        "num": 142910,
+        "word": "罚罪2一集演了别人一整部剧",
+        "onboard_time": 1767016826,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106483,
+        "num": 142903,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105757,
+        "num": 142898,
+        "word": "深圳地铁",
+        "onboard_time": 1767015921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21076,
+        "num": 142894,
+        "word": "百余人购房15年无着落土地却被出让",
+        "onboard_time": 1767017489,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 142891,
+        "word": "相差108岁的2个龙宝宝同框了",
+        "onboard_time": 1767014721,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82228,
+        "num": 142888,
+        "word": "KPL春季赛",
+        "onboard_time": 1767016521,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101411,
+        "num": 142881,
+        "word": "魏大勋 富公哦滑雪照这么帅",
+        "onboard_time": 1767016887,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100573,
+        "num": 142878,
+        "word": "杨幂回应40岁了依然有很多困惑",
+        "onboard_time": 1767001039,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 142868,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89591,
+        "num": 142865,
+        "word": "逍遥",
+        "onboard_time": 1767003141,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84931,
+        "num": 142861,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 45,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 84036,
+        "num": 142858,
+        "word": "肖战飞上海跨年",
+        "onboard_time": 1767014541,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83373,
+        "num": 142849,
+        "word": "娜扎给赵嘉敏投票",
+        "onboard_time": 1767017850,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60865,
+        "num": 142846,
+        "word": "王者可以单杀射手的辅助",
+        "onboard_time": 1767015500,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55169,
+        "num": 142839,
+        "word": "蒯曼说被带飞",
+        "onboard_time": 1767018389,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
