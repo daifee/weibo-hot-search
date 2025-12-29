@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766993630862,
+  "endTime": 1766994458040,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -731,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407956,
+      "num": 289036,
+      "word": "iPhone最经典的四款机型",
+      "onboard_time": 1766990900,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 406540,
       "num": 406540,
       "word": "戴佩妮北京广州取消",
@@ -819,6 +827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 374875,
+      "num": 299087,
+      "word": "娜扎演技",
+      "onboard_time": 1766990900,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371337,
       "num": 371337,
       "word": "骄阳似我 单更",
@@ -899,14 +915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 346667,
-      "num": 237959,
-      "word": "iPhone最经典的四款机型",
-      "onboard_time": 1766990900,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 346098,
       "num": 346098,
       "word": "唐嫣找准了自己赛道",
@@ -929,14 +937,6 @@
       "onboard_time": 1766894600,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329194,
-      "num": 259770,
-      "word": "娜扎演技",
-      "onboard_time": 1766990900,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 329052,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 316858,
-      "num": 234994,
+      "num": 271214,
       "word": "以后去猫咖穿勃肯鞋",
       "onboard_time": 1766990001,
       "rank": 30,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1766973021,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307904,
+      "num": 307904,
+      "word": "独居离世女子遗产预计近300万",
+      "onboard_time": 1766990361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301941,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269776,
+      "num": 134652,
+      "word": "对loft公寓彻底祛魅了",
+      "onboard_time": 1766993600,
+      "rank": 43,
+      "category": "休闲,情感"
     },
     {
       "raw_hot": 269284,
@@ -1403,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236002,
+      "num": 236002,
+      "word": "郑丽文回应东部战区演习",
+      "onboard_time": 1766991860,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235914,
       "num": 163687,
       "word": "程潇回应首演恶女",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229388,
-      "num": 229388,
-      "word": "郑丽文回应东部战区演习",
-      "onboard_time": 1766991860,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 228239,
@@ -1555,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214780,
+      "num": 214780,
+      "word": "玉茗茶骨摇来了短国半壁江山",
+      "onboard_time": 1766991980,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214013,
       "num": 214013,
       "word": "于正说娜扎美到后无来者",
@@ -1579,28 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211454,
-      "num": 211454,
-      "word": "独居离世女子遗产预计近300万",
-      "onboard_time": 1766990361,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210132,
       "num": 210132,
       "word": "野心家",
       "onboard_time": 1766919561,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209436,
-      "num": 209436,
-      "word": "玉茗茶骨摇来了短国半壁江山",
-      "onboard_time": 1766991980,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 209379,
@@ -1699,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201722,
+      "num": 201722,
+      "word": "原来半个娱乐圈都唱过他的歌",
+      "onboard_time": 1766992700,
+      "rank": 25,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 201542,
       "num": 196177,
       "word": "深圳震感",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1766982503,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198890,
+      "num": 176688,
+      "word": "何与 双轨前一天收官新剧第二天开机",
+      "onboard_time": 1766993840,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 198370,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1766981902,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183474,
+      "num": 213133,
+      "word": "网红烤鱼进店前先花16元排队",
+      "onboard_time": 1766993239,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182981,
@@ -2209,6 +2241,14 @@
       "onboard_time": 1766920461,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168128,
+      "num": 168128,
+      "word": "黄家婧看到赵丽颖演我看到爱豆",
+      "onboard_time": 1766993840,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 167551,
@@ -2515,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149811,
-      "num": 144182,
-      "word": "原来半个娱乐圈都唱过他的歌",
-      "onboard_time": 1766992700,
-      "rank": 25,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 149657,
       "num": 149657,
       "word": "不仅是年度歌手还是断层第一",
@@ -2611,6 +2643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145470,
+      "num": 145470,
+      "word": "梁洁美成洋娃娃了",
+      "onboard_time": 1766993901,
+      "rank": 26,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 145396,
       "num": 145396,
       "word": "苏新皓前滚翻",
@@ -2673,14 +2713,6 @@
       "onboard_time": 1766926942,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142346,
-      "num": 143797,
-      "word": "网红烤鱼进店前先花16元排队",
-      "onboard_time": 1766993239,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142182,
@@ -2977,6 +3009,14 @@
       "onboard_time": 1766978601,
       "rank": 46,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 130506,
+      "num": 130506,
+      "word": "原来35岁那么刀人",
+      "onboard_time": 1766994019,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 130015,
@@ -3307,12 +3347,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121052,
+      "num": 115998,
+      "word": "杨幂VOGUE开年刊封面",
+      "onboard_time": 1766993541,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120343,
       "num": 120343,
       "word": "睡莲不是莲",
       "onboard_time": 1766897421,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 120251,
+      "num": 120251,
+      "word": "丁程鑫仰头这一下",
+      "onboard_time": 1766994081,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 120077,
@@ -3451,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113948,
+      "num": 113948,
+      "word": "黄景瑜从左肩到右肩得打车",
+      "onboard_time": 1766994319,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113802,
       "num": 113802,
       "word": "家长花钱拍照宝宝没一张笑的",
@@ -3481,22 +3545,6 @@
       "onboard_time": 1766913800,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112930,
-      "num": 112930,
-      "word": "对loft公寓彻底祛魅了",
-      "onboard_time": 1766993600,
-      "rank": 43,
-      "category": "休闲,情感"
-    },
-    {
-      "raw_hot": 112929,
-      "num": 112929,
-      "word": "杨幂VOGUE开年刊封面",
-      "onboard_time": 1766993541,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112811,
@@ -3843,7 +3891,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 102417,
+      "raw_hot": 102493,
       "num": 102417,
       "word": "白银升为全球第三大资产",
       "onboard_time": 1766992881,
@@ -3969,6 +4017,14 @@
       "onboard_time": 1766898022,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100059,
+      "num": 113233,
+      "word": "尾号88888手机号三度流拍",
+      "onboard_time": 1766992219,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99972,
@@ -4643,6 +4699,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 78796,
+      "num": 142861,
+      "word": "尊界S800高尔夫圈社交新名片",
+      "onboard_time": 1766991980,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78776,
       "num": 89048,
       "word": "熬夜一时爽息肉找上门",
@@ -4689,14 +4753,6 @@
       "onboard_time": 1766964197,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 77681,
-      "num": 113233,
-      "word": "尾号88888手机号三度流拍",
-      "onboard_time": 1766992219,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77645,
@@ -4817,14 +4873,6 @@
       "onboard_time": 1766939120,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71068,
-      "num": 142861,
-      "word": "尊界S800高尔夫圈社交新名片",
-      "onboard_time": 1766991980,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 70694,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1766975839,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64959,
+      "num": 185759,
+      "word": "解放军正义使命2025演习关键词斩首",
+      "onboard_time": 1766993779,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 63780,
@@ -5243,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47683,
+      "num": 124245,
+      "word": "台北将向上海赠送一对黑脚企鹅",
+      "onboard_time": 1766993181,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46820,
       "num": 171117,
       "word": "宋威龙扛住了格莱美运镜",
@@ -5257,14 +5321,6 @@
       "onboard_time": 1766842522,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46045,
-      "num": 124245,
-      "word": "台北将向上海赠送一对黑脚企鹅",
-      "onboard_time": 1766993181,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45935,
@@ -5372,7 +5428,7 @@
     },
     {
       "raw_hot": 41123,
-      "num": 145183,
+      "num": 179691,
       "word": "AUDI开启30城任意门",
       "onboard_time": 1766991980,
       "rank": 20,
@@ -5401,6 +5457,14 @@
       "onboard_time": 1766974039,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38949,
+      "num": 124549,
+      "word": "砍死45岁邻居嫌犯曾因精神问题就医",
+      "onboard_time": 1766993420,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38430,
@@ -5448,14 +5512,6 @@
       "word": "现在餐饮品牌只能火半年了吗",
       "onboard_time": 1766894961,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36096,
-      "num": 124549,
-      "word": "砍死45岁邻居嫌犯曾因精神问题就医",
-      "onboard_time": 1766993420,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5628,7 +5684,7 @@
     },
     {
       "raw_hot": 28416,
-      "num": 145375,
+      "num": 206528,
       "word": "刘德华非凡大师主题曲好听",
       "onboard_time": 1766991980,
       "rank": 19,
