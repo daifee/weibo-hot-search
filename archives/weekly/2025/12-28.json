@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767047271792,
+  "endTime": 1767048255287,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -6723,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54217,
+      "num": 54217,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53888,
       "num": 157758,
       "word": "王者最还原的联动皮肤",
@@ -6761,14 +6769,6 @@
       "onboard_time": 1766846962,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52808,
-      "num": 52808,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 51344,
@@ -7468,7 +7468,7 @@
     },
     {
       "raw_hot": 27940,
-      "num": 33360,
+      "num": 36847,
       "word": "王俊凯热爱以时间淬炼",
       "onboard_time": 1767036314,
       "rank": 25,
@@ -7723,6 +7723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20878,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20763,
       "num": 214465,
       "word": "收紧锁链三面围岛关门打狗",
@@ -7779,14 +7787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18169,
-      "num": 37662,
-      "word": "小狗喝药苦得直摇头",
-      "onboard_time": 1767034995,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 17812,
       "num": 89234,
       "word": "TFING想开专场李飞听到了吗",
@@ -7817,6 +7817,14 @@
       "onboard_time": 1766932703,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16224,
+      "num": 36881,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 15825,
@@ -7923,20 +7931,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 13955,
-      "num": 33375,
+      "raw_hot": 14286,
+      "num": 36853,
       "word": "檀健次骑马出场",
       "onboard_time": 1767039314,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13636,
-      "num": 33346,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 13547,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767047271792,
+  "endTime": 1767048255287,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -187,6 +187,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 97126,
+      "num": 156744,
+      "word": "女子回应网购羽绒服退货口袋装机票",
+      "onboard_time": 1767015381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90643,
       "num": 157276,
       "word": "陈昊宇开机",
@@ -283,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67838,
-      "num": 156744,
-      "word": "女子回应网购羽绒服退货口袋装机票",
-      "onboard_time": 1767015381,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66198,
       "num": 156523,
       "word": "苏新皓前滚翻练习室",
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54217,
+      "num": 54217,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53315,
       "num": 156361,
       "word": "崔丽丽称伤残十级鉴定结论生效",
@@ -353,14 +361,6 @@
       "onboard_time": 1767017970,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52808,
-      "num": 52808,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 52510,
@@ -499,15 +499,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27940,
-      "num": 33360,
-      "word": "王俊凯热爱以时间淬炼",
-      "onboard_time": 1767036314,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25047,
+      "raw_hot": 29222,
       "num": 86697,
       "word": "白银狂飙后跳水 交易所出手",
       "onboard_time": 1767018747,
@@ -515,12 +507,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 24355,
+      "raw_hot": 29073,
       "num": 86678,
       "word": "亚洲周刊",
       "onboard_time": 1767017187,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27940,
+      "num": 36847,
+      "word": "王俊凯热爱以时间淬炼",
+      "onboard_time": 1767036314,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 23698,
@@ -571,7 +571,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18169,
+      "raw_hot": 21097,
+      "num": 36918,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20878,
       "num": 37662,
       "word": "小狗喝药苦得直摇头",
       "onboard_time": 1767034995,
@@ -579,12 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16398,
-      "num": 33448,
-      "word": "央视跨年晚会",
-      "onboard_time": 1767003740,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 16224,
+      "num": 36881,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 16072,
@@ -595,28 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14056,
-      "num": 33392,
+      "raw_hot": 16005,
+      "num": 36877,
       "word": "信阳巨响",
       "onboard_time": 1767014781,
       "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13955,
-      "num": 33375,
+      "raw_hot": 14286,
+      "num": 36853,
       "word": "檀健次骑马出场",
       "onboard_time": 1767039314,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13636,
-      "num": 33346,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 11620,
@@ -627,8 +627,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10452,
-      "num": 81797,
+      "raw_hot": 10927,
+      "num": 113715,
       "word": "2025年中国军力硬核跃升",
       "onboard_time": 1767013581,
       "rank": 2,
