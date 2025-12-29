@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767041154916,
+  "endTime": 1767043634721,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19847,
+      "num": 19847,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 18169,
       "num": 37662,
       "word": "小狗喝药苦得直摇头",
@@ -579,15 +587,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14063,
-      "num": 19354,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 13038,
+      "raw_hot": 13316,
       "num": 21915,
       "word": "檀健次骑马出场",
       "onboard_time": 1767039314,
@@ -603,11 +603,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11756,
+      "num": 14484,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11620,
       "num": 21891,
       "word": "张若昀新剧台词",
       "onboard_time": 1767038414,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11395,
+      "num": 14481,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -617,6 +633,14 @@
       "onboard_time": 1767013399,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7938,
+      "num": 41209,
+      "word": "2025年中国军力硬核跃升",
+      "onboard_time": 1767013581,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
