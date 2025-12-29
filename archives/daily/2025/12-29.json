@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766974938772,
+  "endTime": 1766976057636,
   "band_list": [
     {
       "raw_hot": 833713,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 686683,
-      "num": 195012,
+      "num": 231451,
       "word": "杨幂吃固体杨枝甘露沉默了",
       "onboard_time": 1766931743,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562079,
+      "num": 562079,
+      "word": "上海禁毒回应霸王茶姬咖啡因争议",
+      "onboard_time": 1766972060,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483916,
@@ -27,16 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 465912,
-      "num": 465912,
-      "word": "上海禁毒回应霸王茶姬咖啡因争议",
-      "onboard_time": 1766972060,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 461749,
-      "num": 206252,
+      "num": 232704,
       "word": "2025全球百大最帅面孔",
       "onboard_time": 1766965458,
       "rank": 10,
@@ -75,16 +75,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346098,
+      "num": 346098,
+      "word": "唐嫣找准了自己赛道",
+      "onboard_time": 1766973498,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345660,
-      "num": 185575,
+      "num": 228571,
       "word": "追星娄艺潇一年见63次",
       "onboard_time": 1766969660,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 326226,
-      "num": 326226,
+      "raw_hot": 328517,
+      "num": 328517,
       "word": "英国将禁止活煮龙虾",
       "onboard_time": 1766971280,
       "rank": 4,
@@ -107,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300830,
+      "num": 300830,
+      "word": "解放军为何此时开展对台演习",
+      "onboard_time": 1766971519,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 292458,
       "num": 189376,
       "word": "成龙自曝和儿子一年只打一次电话",
@@ -115,24 +131,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278595,
-      "num": 278595,
-      "word": "解放军为何此时开展对台演习",
-      "onboard_time": 1766971519,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 272047,
-      "num": 272047,
-      "word": "唐嫣找准了自己赛道",
-      "onboard_time": 1766973498,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 249557,
+      "num": 249557,
+      "word": "当事人回应大鹅河沟突然消失",
+      "onboard_time": 1766973440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216967,
-      "num": 118483,
+      "num": 175825,
       "word": "为什么午睡30分钟是个坎",
       "onboard_time": 1766967619,
       "rank": 20,
@@ -171,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 193081,
+      "num": 193081,
+      "word": "2026放假安排日历",
+      "onboard_time": 1766971579,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192244,
       "num": 192244,
       "word": "26岁女子驾车落水身亡",
@@ -195,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190487,
+      "num": 236822,
+      "word": "白银",
+      "onboard_time": 1766975178,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187855,
-      "num": 117785,
+      "num": 122679,
       "word": "18斤重大鹅在家门口河沟中突然消失",
       "onboard_time": 1766971519,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186763,
+      "num": 186763,
+      "word": "我们生活在南京阵容官宣",
+      "onboard_time": 1766975120,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 185538,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 182578,
-      "num": 117384,
+      "num": 147272,
       "word": "男子长期饮料当水喝血糖高到测不出",
       "onboard_time": 1766971638,
       "rank": 22,
@@ -227,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179586,
+      "num": 179586,
+      "word": "藏海传2025全网播放冠军",
+      "onboard_time": 1766975358,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179538,
       "num": 179538,
       "word": "宋威龙 这次换我来拍",
       "onboard_time": 1766932403,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175711,
-      "num": 175711,
-      "word": "当事人回应大鹅河沟突然消失",
-      "onboard_time": 1766973440,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175670,
@@ -257,6 +289,14 @@
       "onboard_time": 1766934682,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169623,
+      "num": 169623,
+      "word": "爸爸冲奶粉9个月宝宝急到开口说话",
+      "onboard_time": 1766974219,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167506,
@@ -299,20 +339,28 @@
       "category": "军事"
     },
     {
-      "raw_hot": 147156,
-      "num": 147156,
-      "word": "2026放假安排日历",
-      "onboard_time": 1766971579,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144035,
       "num": 144035,
       "word": "苏新皓哭了",
       "onboard_time": 1766929341,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126433,
+      "num": 126433,
+      "word": "贵金属巨震",
+      "onboard_time": 1766975239,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 126224,
+      "num": 126224,
+      "word": "窈窈有期",
+      "onboard_time": 1766975299,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 124618,
@@ -371,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115049,
+      "num": 115049,
+      "word": "因争吵杀害女友男子母亲回应",
+      "onboard_time": 1766972780,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114633,
       "num": 114633,
       "word": "刘耀文 撕漫男",
       "onboard_time": 1766917522,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113352,
+      "num": 113352,
+      "word": "借钱人与还钱人双向奔赴了",
+      "onboard_time": 1766973138,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 111913,
@@ -419,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98220,
-      "num": 98220,
-      "word": "因争吵杀害女友男子母亲回应",
-      "onboard_time": 1766972780,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98123,
       "num": 98123,
       "word": "这两种水果太适合加热吃了",
@@ -435,11 +491,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97513,
-      "num": 97513,
-      "word": "借钱人与还钱人双向奔赴了",
-      "onboard_time": 1766973138,
-      "rank": 30,
+      "raw_hot": 97245,
+      "num": 97245,
+      "word": "现货黄金跌破4500美元",
+      "onboard_time": 1766973498,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97172,
+      "num": 97172,
+      "word": "这房子我住得惯你走吧",
+      "onboard_time": 1766973800,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -475,22 +539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93674,
-      "num": 93674,
-      "word": "爸爸冲奶粉9个月宝宝急到开口说话",
-      "onboard_time": 1766974219,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91591,
-      "num": 91591,
-      "word": "现货黄金跌破4500美元",
-      "onboard_time": 1766973498,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90128,
       "num": 90128,
       "word": "特朗普与泽连斯基开始会晤",
@@ -513,6 +561,14 @@
       "onboard_time": 1766931743,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86892,
+      "num": 86892,
+      "word": "外地人在重庆开车有多汗流浃背",
+      "onboard_time": 1766975059,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86870,
@@ -563,12 +619,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 79355,
+      "num": 79355,
+      "word": "声鸣远扬",
+      "onboard_time": 1766975358,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79059,
       "num": 60082,
       "word": "原来这就是走路送髋的技巧",
       "onboard_time": 1766964077,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 77802,
+      "num": 77802,
+      "word": "中国军号发布军事演习主题海报",
+      "onboard_time": 1766975120,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 77784,
@@ -579,19 +651,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77087,
-      "num": 77087,
-      "word": "这房子我住得惯你走吧",
-      "onboard_time": 1766973800,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 75892,
       "num": 75892,
       "word": "宋威龙林屿森新中式男友",
       "onboard_time": 1766939120,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74254,
+      "num": 74254,
+      "word": "人之初",
+      "onboard_time": 1766963477,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -627,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71287,
-      "num": 71287,
-      "word": "人之初",
-      "onboard_time": 1766963477,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 70694,
+      "num": 70694,
+      "word": "军演主题海报单向透明",
+      "onboard_time": 1766975120,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 70687,
@@ -657,6 +729,22 @@
       "onboard_time": 1766937981,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69933,
+      "num": 69933,
+      "word": "灯塔2025年度剧集榜单",
+      "onboard_time": 1766975780,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69852,
+      "num": 69852,
+      "word": "金价",
+      "onboard_time": 1766975959,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 69327,
@@ -689,6 +777,14 @@
       "onboard_time": 1766936782,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67141,
+      "num": 67141,
+      "word": "解放军围岛链条越勒越紧",
+      "onboard_time": 1766971519,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 66877,
@@ -737,6 +833,14 @@
       "onboard_time": 1766964978,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65188,
+      "num": 65188,
+      "word": "王楚钦放空一个月为了2026更充实",
+      "onboard_time": 1766975839,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 63187,
@@ -947,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39474,
+      "num": 179626,
+      "word": "央媒评论版刊登魏建军署名文章",
+      "onboard_time": 1766974039,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39201,
       "num": 72768,
       "word": "王楚钦连说好几个NO",
@@ -985,14 +1097,6 @@
       "onboard_time": 1766922981,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32683,
-      "num": 119253,
-      "word": "央媒评论版刊登魏建军署名文章",
-      "onboard_time": 1766974039,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 30689,
