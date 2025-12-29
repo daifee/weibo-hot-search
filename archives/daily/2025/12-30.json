@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767026999782,
+  "endTime": 1767029173521,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122860,
+      "num": 155900,
+      "word": "殷世航不建议大家做断骨增高",
+      "onboard_time": 1767025400,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 122426,
       "num": 157993,
       "word": "龙麦cp",
@@ -163,7 +171,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99222,
+      "raw_hot": 100507,
       "num": 157952,
       "word": "娜扎回应赵嘉敏",
       "onboard_time": 1767024440,
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86852,
-      "num": 155900,
-      "word": "殷世航不建议大家做断骨增高",
-      "onboard_time": 1767025400,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 81690,
       "num": 156965,
       "word": "王俊凯工作室发彩排照",
       "onboard_time": 1767020127,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80784,
+      "num": 157417,
+      "word": "官方通报信阳巨响",
+      "onboard_time": 1767023721,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 79833,
@@ -249,14 +257,6 @@
       "onboard_time": 1767025400,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69834,
-      "num": 157417,
-      "word": "官方通报信阳巨响",
-      "onboard_time": 1767023721,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 69318,
@@ -395,12 +395,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42385,
+      "num": 86926,
+      "word": "逍遥",
+      "onboard_time": 1767003141,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41303,
       "num": 155649,
       "word": "你的鼻炎属于什么等级",
       "onboard_time": 1767025041,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40932,
+      "num": 86913,
+      "word": "迅猛龙假哭",
+      "onboard_time": 1767009980,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 39876,
+      "num": 87193,
+      "word": "张真源轻熟男look",
+      "onboard_time": 1767027317,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38860,
+      "num": 86857,
+      "word": "离了何与还有谁冬天把外套脱掉",
+      "onboard_time": 1767027439,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 38539,
@@ -411,10 +443,42 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31623,
+      "num": 86941,
+      "word": "日本夫妇惨死桑拿房",
+      "onboard_time": 1767005541,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24225,
+      "num": 86697,
+      "word": "白银狂飙后跳水 交易所出手",
+      "onboard_time": 1767018747,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 24222,
+      "num": 86678,
+      "word": "亚洲周刊",
+      "onboard_time": 1767017187,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16072,
       "num": 245518,
       "word": "S21一路开新",
       "onboard_time": 1767013821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8828,
+      "num": 134310,
+      "word": "9图速览2025世界眼中的中国",
+      "onboard_time": 1767013399,
       "rank": 2,
       "category": "民生新闻"
     }
