@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767026125296,
+  "endTime": 1767026999782,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -27,7 +27,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 371603,
+      "raw_hot": 424087,
       "num": 796192,
       "word": "台中突然大规模停电",
       "onboard_time": 1767023542,
@@ -67,7 +67,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237555,
+      "raw_hot": 238525,
       "num": 237555,
       "word": "于正 玉茗茶骨",
       "onboard_time": 1767023842,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86852,
+      "num": 155900,
+      "word": "殷世航不建议大家做断骨增高",
+      "onboard_time": 1767025400,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 81690,
       "num": 156965,
       "word": "王俊凯工作室发彩排照",
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71743,
+      "num": 156255,
+      "word": "周震南打开评论区天塌了",
+      "onboard_time": 1767025400,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69834,
       "num": 157417,
       "word": "官方通报信阳巨响",
@@ -272,14 +288,6 @@
       "word": "苏新皓前滚翻练习室",
       "onboard_time": 1767021684,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 66082,
-      "num": 156255,
-      "word": "周震南打开评论区天塌了",
-      "onboard_time": 1767025400,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -323,7 +331,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54164,
+      "raw_hot": 55919,
       "num": 156391,
       "word": "王楚钦梁靖崑现身魏桥新年晚会",
       "onboard_time": 1767025639,
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51889,
-      "num": 155900,
-      "word": "殷世航不建议大家做断骨增高",
-      "onboard_time": 1767025400,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 48817,
       "num": 155837,
       "word": "钎九",
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43491,
+      "num": 101203,
+      "word": "张子墨晒与张函瑞合照",
+      "onboard_time": 1767008842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41303,
       "num": 155649,
       "word": "你的鼻炎属于什么等级",
@@ -395,7 +403,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13218,
+      "raw_hot": 38539,
+      "num": 101140,
+      "word": "深圳地铁",
+      "onboard_time": 1767015921,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16072,
       "num": 245518,
       "word": "S21一路开新",
       "onboard_time": 1767013821,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767026125296,
+  "endTime": 1767026999782,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -13571,6 +13571,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 424087,
+      "num": 796192,
+      "word": "台中突然大规模停电",
+      "onboard_time": 1767023542,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424013,
       "num": 1060546,
       "word": "王楚钦vsA勒布伦",
@@ -16257,14 +16265,6 @@
       "onboard_time": 1765164021,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371603,
-      "num": 796192,
-      "word": "台中突然大规模停电",
-      "onboard_time": 1767023542,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 371337,
@@ -25635,6 +25635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238525,
+      "num": 237555,
+      "word": "于正 玉茗茶骨",
+      "onboard_time": 1767023842,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238330,
       "num": 238330,
       "word": "尖叫之夜红毯主持人",
@@ -25713,14 +25721,6 @@
       "onboard_time": 1765240944,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237555,
-      "num": 237555,
-      "word": "于正 玉茗茶骨",
-      "onboard_time": 1767023842,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 237521,
@@ -77499,6 +77499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86852,
+      "num": 155900,
+      "word": "殷世航不建议大家做断骨增高",
+      "onboard_time": 1767025400,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 86805,
       "num": 86805,
       "word": "27天新生儿就医去世的最后44分钟",
@@ -83211,6 +83219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71743,
+      "num": 156255,
+      "word": "周震南打开评论区天塌了",
+      "onboard_time": 1767025400,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71738,
       "num": 182929,
       "word": "宋威龙 纯going",
@@ -84896,14 +84912,6 @@
       "word": "胡一天 不要相信男人",
       "onboard_time": 1765452861,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 66082,
-      "num": 156255,
-      "word": "周震南打开评论区天塌了",
-      "onboard_time": 1767025400,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -87779,6 +87787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55919,
+      "num": 156391,
+      "word": "王楚钦梁靖崑现身魏桥新年晚会",
+      "onboard_time": 1767025639,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55902,
       "num": 55902,
       "word": "杨乐乐带儿子参加马术比赛",
@@ -88329,14 +88345,6 @@
       "onboard_time": 1766591901,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54164,
-      "num": 156391,
-      "word": "王楚钦梁靖崑现身魏桥新年晚会",
-      "onboard_time": 1767025639,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 54159,
@@ -89033,14 +89041,6 @@
       "onboard_time": 1765419320,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51889,
-      "num": 155900,
-      "word": "殷世航不建议大家做断骨增高",
-      "onboard_time": 1767025400,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 51850,
