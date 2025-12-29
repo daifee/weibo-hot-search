@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/30 00:35:25 ~ 2025/12/30 04:32:53
+本榜单时间：2025/12/30 00:35:25 ~ 2025/12/30 04:45:54
 </p>
 </blockquote>
 <p>
@@ -436,7 +436,7 @@ KPL春季赛（热度：23366）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%96%9D%E8%8D%AF%E8%8B%A6%E5%BE%97%E7%9B%B4%E6%91%87%E5%A4%B4%23" target="weibo">
-小狗喝药苦得直摇头（热度：17833）
+小狗喝药苦得直摇头（热度：18169）
 </a>
 </li>
 
@@ -447,20 +447,26 @@ S21一路开新（热度：16072）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%88%B1%E4%BA%BA%E5%95%8A%E6%9C%89%E6%88%91%E5%9C%A8%E4%BD%A0%E5%88%AB%E6%80%95%23" target="weibo">
+张杰爱人啊有我在你别怕（热度：14063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%AA%91%E9%A9%AC%E5%87%BA%E5%9C%BA%23" target="weibo">
+檀健次骑马出场（热度：13038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%A1%E9%98%B3%E5%B7%A8%E5%93%8D%23" target="weibo">
 信阳巨响（热度：12998）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%AA%91%E9%A9%AC%E5%87%BA%E5%9C%BA%23" target="weibo">
-檀健次骑马出场（热度：12091）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%96%B0%E5%89%A7%E5%8F%B0%E8%AF%8D%23" target="weibo">
-张若昀新剧台词（热度：11275）
+张若昀新剧台词（热度：11620）
 </a>
 </li>
 
