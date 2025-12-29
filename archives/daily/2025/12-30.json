@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767029173521,
+  "endTime": 1767030239669,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -99,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170652,
+      "num": 155900,
+      "word": "殷世航不建议大家做断骨增高",
+      "onboard_time": 1767025400,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 158486,
       "num": 158486,
       "word": "解放军无人机俯瞰台北101大厦",
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122860,
-      "num": 155900,
-      "word": "殷世航不建议大家做断骨增高",
-      "onboard_time": 1767025400,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122426,
       "num": 157993,
       "word": "龙麦cp",
@@ -163,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107793,
+      "num": 157952,
+      "word": "娜扎回应赵嘉敏",
+      "onboard_time": 1767024440,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101512,
       "num": 158353,
       "word": "女子跑3家银行网点没办成1张卡",
       "onboard_time": 1767020067,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100507,
-      "num": 157952,
-      "word": "娜扎回应赵嘉敏",
-      "onboard_time": 1767024440,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 98397,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84475,
+      "num": 157417,
+      "word": "官方通报信阳巨响",
+      "onboard_time": 1767023721,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 81690,
       "num": 156965,
       "word": "王俊凯工作室发彩排照",
       "onboard_time": 1767020127,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80784,
-      "num": 157417,
-      "word": "官方通报信阳巨响",
-      "onboard_time": 1767023721,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 79833,
@@ -379,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44029,
+      "num": 86857,
+      "word": "离了何与还有谁冬天把外套脱掉",
+      "onboard_time": 1767027439,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44003,
       "num": 155726,
       "word": "2025值得铭记的体坛瞬间",
@@ -395,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42405,
+      "num": 65936,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1767029775,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42385,
       "num": 86926,
       "word": "逍遥",
       "onboard_time": 1767003141,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41527,
+      "num": 86913,
+      "word": "迅猛龙假哭",
+      "onboard_time": 1767009980,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 41303,
@@ -411,27 +435,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40932,
-      "num": 86913,
-      "word": "迅猛龙假哭",
-      "onboard_time": 1767009980,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 39876,
       "num": 87193,
       "word": "张真源轻熟男look",
       "onboard_time": 1767027317,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38860,
-      "num": 86857,
-      "word": "离了何与还有谁冬天把外套脱掉",
-      "onboard_time": 1767027439,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -441,6 +449,22 @@
       "onboard_time": 1767015921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36998,
+      "num": 65318,
+      "word": "朱志鑫扭胯领域绝对的统治区",
+      "onboard_time": 1767029297,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 36929,
+      "num": 65317,
+      "word": "苏新皓hiahia第一次成功",
+      "onboard_time": 1767029956,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 31623,
@@ -465,6 +489,22 @@
       "onboard_time": 1767017187,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23366,
+      "num": 65312,
+      "word": "KPL春季赛",
+      "onboard_time": 1767016521,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 22219,
+      "num": 65310,
+      "word": "新闻联播播出演习细节",
+      "onboard_time": 1767029657,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16072,
