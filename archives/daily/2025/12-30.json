@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767048255287,
+  "endTime": 1767050865566,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -27,8 +27,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 608769,
+      "num": 54068,
+      "word": "林俊杰 田馥甄",
+      "onboard_time": 1767023183,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424087,
-      "num": 796192,
+      "num": 798510,
       "word": "台中突然大规模停电",
       "onboard_time": 1767023542,
       "rank": 0,
@@ -49,6 +57,14 @@
       "onboard_time": 1767020187,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272778,
+      "num": 272778,
+      "word": "解放军海报中3艘美军核潜艇被拦截",
+      "onboard_time": 1767049939,
+      "rank": 1,
+      "category": "军事"
     },
     {
       "raw_hot": 261860,
@@ -75,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232698,
+      "num": 232698,
+      "word": "新闻联播出现台北101大楼画面",
+      "onboard_time": 1767014301,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 226810,
       "num": 174449,
       "word": "陈梦 黄晓明还是我认识30多年的哥吗",
@@ -83,12 +107,20 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 188162,
-      "num": 188162,
-      "word": "新闻联播出现台北101大楼画面",
-      "onboard_time": 1767014301,
+      "raw_hot": 203444,
+      "num": 203444,
+      "word": "邪教内部文件32次提及高市早苗",
+      "onboard_time": 1767049818,
       "rank": 4,
-      "category": "国内时政"
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 186087,
+      "num": 186087,
+      "word": "女子回应网购羽绒服退货口袋装机票",
+      "onboard_time": 1767015381,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180148,
@@ -123,15 +155,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142731,
-      "num": 157449,
-      "word": "白鹿剪短了头发",
-      "onboard_time": 1767015803,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 153831,
+      "num": 158459,
+      "word": "男孩偷吃变态辣外卖住院家长索赔",
+      "onboard_time": 1767012802,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 131229,
+      "raw_hot": 148693,
       "num": 158066,
       "word": "强奸女友获刑男子复合后致女方身亡",
       "onboard_time": 1767011660,
@@ -139,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130055,
-      "num": 158459,
-      "word": "男孩偷吃变态辣外卖住院家长索赔",
-      "onboard_time": 1767012802,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 142731,
+      "num": 157449,
+      "word": "白鹿剪短了头发",
+      "onboard_time": 1767015803,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 124242,
@@ -155,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122702,
+      "num": 157047,
+      "word": "大鹅已找到主人决定继续抽水追凶",
+      "onboard_time": 1767009800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122426,
       "num": 157993,
       "word": "龙麦cp",
       "onboard_time": 1767023243,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110693,
+      "num": 110693,
+      "word": "东部战区问明天看什么",
+      "onboard_time": 1767049757,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107793,
@@ -185,14 +233,6 @@
       "onboard_time": 1766997981,
       "rank": 17,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 97126,
-      "num": 156744,
-      "word": "女子回应网购羽绒服退货口袋装机票",
-      "onboard_time": 1767015381,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90643,
@@ -225,6 +265,14 @@
       "onboard_time": 1767020127,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81575,
+      "num": 156492,
+      "word": "女子住桔子水晶酒店3遭陌生人开门",
+      "onboard_time": 1767010521,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79833,
@@ -283,20 +331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68095,
-      "num": 157047,
-      "word": "大鹅已找到主人决定继续抽水追凶",
-      "onboard_time": 1767009800,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66198,
       "num": 156523,
       "word": "苏新皓前滚翻练习室",
       "onboard_time": 1767021684,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64505,
+      "num": 64505,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 63514,
@@ -315,12 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58726,
-      "num": 156492,
-      "word": "女子住桔子水晶酒店3遭陌生人开门",
-      "onboard_time": 1767010521,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 57870,
+      "num": 86697,
+      "word": "白银狂飙后跳水 交易所出手",
+      "onboard_time": 1767018747,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 56922,
@@ -339,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54217,
-      "num": 54217,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 55676,
+      "num": 114524,
+      "word": "数字人民币重大调整",
+      "onboard_time": 1767050658,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 53315,
@@ -379,6 +427,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45645,
+      "num": 53990,
+      "word": "你好星期六",
+      "onboard_time": 1767050417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45528,
+      "num": 53983,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45503,
+      "num": 86678,
+      "word": "亚洲周刊",
+      "onboard_time": 1767017187,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44563,
+      "num": 53980,
+      "word": "刘宇宁遇梗秒接这一块",
+      "onboard_time": 1767050478,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44192,
       "num": 155753,
       "word": "2025最难忘的一件事",
@@ -401,6 +481,14 @@
       "onboard_time": 1767025759,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43684,
+      "num": 86913,
+      "word": "迅猛龙假哭",
+      "onboard_time": 1767009980,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 43491,
@@ -427,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41527,
-      "num": 86913,
-      "word": "迅猛龙假哭",
-      "onboard_time": 1767009980,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 41303,
       "num": 155649,
       "word": "你的鼻炎属于什么等级",
       "onboard_time": 1767025041,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40446,
+      "num": 53967,
+      "word": "匿杀",
+      "onboard_time": 1767050658,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 39876,
@@ -451,20 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39830,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38539,
       "num": 101140,
       "word": "深圳地铁",
       "onboard_time": 1767015921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37827,
+      "num": 53966,
+      "word": "张艺兴在干嘛",
+      "onboard_time": 1767050658,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36998,
@@ -483,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34916,
+      "num": 53986,
+      "word": "中科院称三手烟危害更持久更严重",
+      "onboard_time": 1767050478,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 32510,
       "num": 42791,
       "word": "流浪地球短片集之100%",
@@ -499,19 +595,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29222,
-      "num": 86697,
-      "word": "白银狂飙后跳水 交易所出手",
-      "onboard_time": 1767018747,
-      "rank": 47,
+      "raw_hot": 31425,
+      "num": 53958,
+      "word": "白银急涨急跌原因",
+      "onboard_time": 1767050777,
+      "rank": 42,
       "category": "财经"
     },
     {
-      "raw_hot": 29073,
-      "num": 86678,
-      "word": "亚洲周刊",
-      "onboard_time": 1767017187,
-      "rank": 48,
+      "raw_hot": 29753,
+      "num": 53953,
+      "word": "信阳巨响",
+      "onboard_time": 1767014781,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -521,6 +617,22 @@
       "onboard_time": 1767036314,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27168,
+      "num": 53944,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 26164,
+      "num": 53939,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 23698,
@@ -579,20 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20878,
-      "num": 37662,
-      "word": "小狗喝药苦得直摇头",
-      "onboard_time": 1767034995,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 16224,
-      "num": 36881,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 19915,
+      "num": 245397,
+      "word": "2025年中国军力硬核跃升",
+      "onboard_time": 1767013581,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16072,
@@ -600,14 +704,6 @@
       "word": "S21一路开新",
       "onboard_time": 1767013821,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16005,
-      "num": 36877,
-      "word": "信阳巨响",
-      "onboard_time": 1767014781,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -625,14 +721,6 @@
       "onboard_time": 1767038414,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10927,
-      "num": 113715,
-      "word": "2025年中国军力硬核跃升",
-      "onboard_time": 1767013581,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8828,

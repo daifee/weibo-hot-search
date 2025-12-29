@@ -1,0 +1,410 @@
+{
+  "runTime": 1767050865566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 341278,
+        "num": 798510,
+        "word": "台中突然大规模停电",
+        "onboard_time": 1767023542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272778,
+        "num": 272778,
+        "word": "解放军海报中3艘美军核潜艇被拦截",
+        "onboard_time": 1767049939,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19915,
+        "num": 245397,
+        "word": "2025年中国军力硬核跃升",
+        "onboard_time": 1767013581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232698,
+        "num": 232698,
+        "word": "新闻联播出现台北101大楼画面",
+        "onboard_time": 1767014301,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203444,
+        "num": 203444,
+        "word": "邪教内部文件32次提及高市早苗",
+        "onboard_time": 1767049818,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186087,
+        "num": 186087,
+        "word": "女子回应网购羽绒服退货口袋装机票",
+        "onboard_time": 1767015381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153831,
+        "num": 153831,
+        "word": "男孩偷吃变态辣外卖住院家长索赔",
+        "onboard_time": 1767012802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122702,
+        "num": 122702,
+        "word": "大鹅已找到主人决定继续抽水追凶",
+        "onboard_time": 1767009800,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121053,
+        "num": 121053,
+        "word": "于正 玉茗茶骨",
+        "onboard_time": 1767023842,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55676,
+        "num": 114524,
+        "word": "数字人民币重大调整",
+        "onboard_time": 1767050658,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148693,
+        "num": 113405,
+        "word": "强奸女友获刑男子复合后致女方身亡",
+        "onboard_time": 1767011660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110693,
+        "num": 110693,
+        "word": "东部战区问明天看什么",
+        "onboard_time": 1767049757,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107393,
+        "num": 107393,
+        "word": "解放军无人机俯瞰台北101大厦",
+        "onboard_time": 1767009919,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104641,
+        "num": 104641,
+        "word": "东部战区随时到台北",
+        "onboard_time": 1767012981,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100585,
+        "num": 100585,
+        "word": "女子跑3家银行网点没办成1张卡",
+        "onboard_time": 1767020067,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82646,
+        "num": 82646,
+        "word": "殷世航不建议大家做断骨增高",
+        "onboard_time": 1767025400,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81575,
+        "num": 81575,
+        "word": "女子住桔子水晶酒店3遭陌生人开门",
+        "onboard_time": 1767010521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64505,
+        "num": 64505,
+        "word": "张杰爱人啊有我在你别怕",
+        "onboard_time": 1767040034,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59700,
+        "num": 59700,
+        "word": "娜扎回应赵嘉敏",
+        "onboard_time": 1767024440,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55601,
+        "num": 55601,
+        "word": "Labubu二手价格崩了",
+        "onboard_time": 1766997981,
+        "rank": 19,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 1892074,
+        "num": 55379,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142278,
+        "num": 55307,
+        "word": "陈梦 黄晓明还是我认识30多年的哥吗",
+        "onboard_time": 1767019767,
+        "rank": 21,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 309020,
+        "num": 55064,
+        "word": "张杰演唱会回应争议",
+        "onboard_time": 1767016521,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136511,
+        "num": 54790,
+        "word": "白鹿剪短了头发",
+        "onboard_time": 1767015803,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69292,
+        "num": 54587,
+        "word": "黄金",
+        "onboard_time": 1767021505,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57870,
+        "num": 54426,
+        "word": "白银狂飙后跳水 交易所出手",
+        "onboard_time": 1767018747,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 608769,
+        "num": 54068,
+        "word": "林俊杰 田馥甄",
+        "onboard_time": 1767023183,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53996,
+        "num": 53996,
+        "word": "霍建华 年纪大了终于能演喜欢的角色了",
+        "onboard_time": 1767016402,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48907,
+        "num": 53996,
+        "word": "民警猥亵继女案女孩母亲发声",
+        "onboard_time": 1767024203,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46169,
+        "num": 53992,
+        "word": "官方通报信阳巨响",
+        "onboard_time": 1767023721,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 45645,
+        "num": 53990,
+        "word": "你好星期六",
+        "onboard_time": 1767050417,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34916,
+        "num": 53986,
+        "word": "中科院称三手烟危害更持久更严重",
+        "onboard_time": 1767050478,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45528,
+        "num": 53983,
+        "word": "胡彦斌和易梦玲差16岁",
+        "onboard_time": 1767033375,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45503,
+        "num": 53980,
+        "word": "亚洲周刊",
+        "onboard_time": 1767017187,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44563,
+        "num": 53980,
+        "word": "刘宇宁遇梗秒接这一块",
+        "onboard_time": 1767050478,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43684,
+        "num": 53977,
+        "word": "迅猛龙假哭",
+        "onboard_time": 1767009980,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40709,
+        "num": 53973,
+        "word": "警方通报45岁女子遭邻居砍死",
+        "onboard_time": 1767020007,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40561,
+        "num": 53971,
+        "word": "孟子义 输给李雪琴是我的福气",
+        "onboard_time": 1767021264,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40446,
+        "num": 53967,
+        "word": "匿杀",
+        "onboard_time": 1767050658,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37827,
+        "num": 53966,
+        "word": "张艺兴在干嘛",
+        "onboard_time": 1767050658,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36051,
+        "num": 53962,
+        "word": "我也要在微博上找帅哥教练",
+        "onboard_time": 1767018508,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34074,
+        "num": 53962,
+        "word": "李兰迪泳装",
+        "onboard_time": 1767020187,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31425,
+        "num": 53958,
+        "word": "白银急涨急跌原因",
+        "onboard_time": 1767050777,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30850,
+        "num": 53955,
+        "word": "王楚钦梁靖崑现身魏桥新年晚会",
+        "onboard_time": 1767025639,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29753,
+        "num": 53953,
+        "word": "信阳巨响",
+        "onboard_time": 1767014781,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22892,
+        "num": 53952,
+        "word": "KPL春季赛",
+        "onboard_time": 1767016521,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28584,
+        "num": 53948,
+        "word": "日本夫妇惨死桑拿房",
+        "onboard_time": 1767005541,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27430,
+        "num": 53945,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1767025460,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27168,
+        "num": 53944,
+        "word": "小狗喝药苦得直摇头",
+        "onboard_time": 1767034995,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26164,
+        "num": 53939,
+        "word": "玉茗茶骨女三是张南演的",
+        "onboard_time": 1767039974,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
