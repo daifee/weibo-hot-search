@@ -1,0 +1,410 @@
+{
+  "runTime": 1766974938772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833713,
+        "num": 1133394,
+        "word": "东部战区",
+        "onboard_time": 1766967019,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 465912,
+        "num": 465912,
+        "word": "上海禁毒回应霸王茶姬咖啡因争议",
+        "onboard_time": 1766972060,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39247,
+        "num": 456664,
+        "word": "我国首个6车道改12车道高速通车",
+        "onboard_time": 1766927723,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455174,
+        "num": 455174,
+        "word": "摄影大赛一等奖作品被指AI生成",
+        "onboard_time": 1766964738,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326226,
+        "num": 326226,
+        "word": "英国将禁止活煮龙虾",
+        "onboard_time": 1766971280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 312638,
+        "num": 312638,
+        "word": "窈窈有期开机",
+        "onboard_time": 1766973021,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278595,
+        "num": 278595,
+        "word": "解放军为何此时开展对台演习",
+        "onboard_time": 1766971519,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272047,
+        "num": 272047,
+        "word": "唐嫣找准了自己赛道",
+        "onboard_time": 1766973498,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223653,
+        "num": 223653,
+        "word": "网购羽绒服半个月退回口袋装着机票",
+        "onboard_time": 1766934561,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213313,
+        "num": 213313,
+        "word": "杨瀚森接锅三分",
+        "onboard_time": 1766970619,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461749,
+        "num": 206252,
+        "word": "2025全球百大最帅面孔",
+        "onboard_time": 1766965458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385565,
+        "num": 195012,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345660,
+        "num": 185575,
+        "word": "追星娄艺潇一年见63次",
+        "onboard_time": 1766969660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218493,
+        "num": 180941,
+        "word": "妈妈不打麻将早就上清华了",
+        "onboard_time": 1766930782,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175711,
+        "num": 175711,
+        "word": "当事人回应大鹅河沟突然消失",
+        "onboard_time": 1766973440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154940,
+        "num": 154940,
+        "word": "周洁琼跳了veryveryvery",
+        "onboard_time": 1766972358,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151169,
+        "num": 151169,
+        "word": "解放军演习离台岛越来越近",
+        "onboard_time": 1766972239,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 147156,
+        "num": 147156,
+        "word": "2026放假安排日历",
+        "onboard_time": 1766971579,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32683,
+        "num": 119253,
+        "word": "央媒评论版刊登魏建军署名文章",
+        "onboard_time": 1766974039,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118489,
+        "num": 118489,
+        "word": "美网友承认美国斩杀线是事实",
+        "onboard_time": 1766964618,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216967,
+        "num": 118483,
+        "word": "为什么午睡30分钟是个坎",
+        "onboard_time": 1766967619,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187855,
+        "num": 117785,
+        "word": "18斤重大鹅在家门口河沟中突然消失",
+        "onboard_time": 1766971519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182578,
+        "num": 117384,
+        "word": "男子长期饮料当水喝血糖高到测不出",
+        "onboard_time": 1766971638,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116887,
+        "word": "东部战区发布联合演训区示意图",
+        "onboard_time": 1766965998,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116842,
+        "num": 116842,
+        "word": "玉茗茶骨今日开播",
+        "onboard_time": 1766974398,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108878,
+        "num": 108878,
+        "word": "现在就出发",
+        "onboard_time": 1766964138,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107458,
+        "num": 107458,
+        "word": "成龙自曝和儿子一年只打一次电话",
+        "onboard_time": 1766924121,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106100,
+        "num": 106100,
+        "word": "唐嫣好会演",
+        "onboard_time": 1766936900,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103083,
+        "num": 103083,
+        "word": "单向透明何以谋独",
+        "onboard_time": 1766974339,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 98220,
+        "num": 98220,
+        "word": "因争吵杀害女友男子母亲回应",
+        "onboard_time": 1766972780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97513,
+        "num": 97513,
+        "word": "借钱人与还钱人双向奔赴了",
+        "onboard_time": 1766973138,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96147,
+        "num": 96147,
+        "word": "女孩们别再节食减肥了",
+        "onboard_time": 1766965038,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95945,
+        "num": 95945,
+        "word": "时代峰峻新音结束开年会",
+        "onboard_time": 1766972839,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93674,
+        "num": 93674,
+        "word": "爸爸冲奶粉9个月宝宝急到开口说话",
+        "onboard_time": 1766974219,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91591,
+        "num": 91591,
+        "word": "现货黄金跌破4500美元",
+        "onboard_time": 1766973498,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81205,
+        "num": 81205,
+        "word": "东部战区正义之箭海报",
+        "onboard_time": 1766974580,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 77087,
+        "num": 77087,
+        "word": "这房子我住得惯你走吧",
+        "onboard_time": 1766973800,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74094,
+        "num": 74094,
+        "word": "茅台明年不再使用分销方式",
+        "onboard_time": 1766966359,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 72622,
+        "num": 72622,
+        "word": "国际银价跳水",
+        "onboard_time": 1766971699,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71701,
+        "num": 71701,
+        "word": "26岁女子驾车落水身亡",
+        "onboard_time": 1766931022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71452,
+        "num": 71452,
+        "word": "六旬男子性侵智力障碍女子致怀孕",
+        "onboard_time": 1766924181,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71287,
+        "num": 71287,
+        "word": "人之初",
+        "onboard_time": 1766963477,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70586,
+        "num": 70586,
+        "word": "朝朝穆穆",
+        "onboard_time": 1766966118,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66034,
+        "num": 66034,
+        "word": "硬生生被哄成韩系帅哥了",
+        "onboard_time": 1766974519,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62764,
+        "num": 62764,
+        "word": "年底有种兴奋之感",
+        "onboard_time": 1766974459,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60844,
+        "num": 60844,
+        "word": "赵樱子说降不住彭冠英",
+        "onboard_time": 1766929042,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60552,
+        "num": 60552,
+        "word": "马年春晚期待住了",
+        "onboard_time": 1766936662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59339,
+        "num": 59339,
+        "word": "杨瀚森出战凯尔特人",
+        "onboard_time": 1766973919,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58491,
+        "num": 58491,
+        "word": "苹果酱油鸡",
+        "onboard_time": 1766974819,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57701,
+        "num": 57701,
+        "word": "解放军台岛周边演习对比",
+        "onboard_time": 1766969599,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
