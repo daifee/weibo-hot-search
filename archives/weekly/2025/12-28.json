@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766991618028,
+  "endTime": 1766993630862,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 643482,
-      "num": 185291,
+      "num": 210504,
       "word": "张杰谢娜 双人舞",
       "onboard_time": 1766989700,
       "rank": 12,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 494283,
+      "num": 210816,
+      "word": "为什么不结婚父母会被别人看不起",
+      "onboard_time": 1766989220,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487443,
       "num": 487443,
       "word": "半个娱乐圈都来董璇评论区团建了",
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442953,
+      "num": 293070,
+      "word": "母亲穿上16岁已故女儿装扮",
+      "onboard_time": 1766988141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442532,
       "num": 442532,
       "word": "RW对战Hero",
@@ -665,14 +681,6 @@
       "onboard_time": 1766936480,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421507,
-      "num": 183883,
-      "word": "为什么不结婚父母会被别人看不起",
-      "onboard_time": 1766989220,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 421053,
@@ -891,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 346667,
+      "num": 237959,
+      "word": "iPhone最经典的四款机型",
+      "onboard_time": 1766990900,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 346098,
       "num": 346098,
       "word": "唐嫣找准了自己赛道",
@@ -913,6 +929,14 @@
       "onboard_time": 1766894600,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329194,
+      "num": 259770,
+      "word": "娜扎演技",
+      "onboard_time": 1766990900,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 329052,
@@ -985,6 +1009,22 @@
       "onboard_time": 1766922739,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316858,
+      "num": 234994,
+      "word": "以后去猫咖穿勃肯鞋",
+      "onboard_time": 1766990001,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 315422,
+      "num": 315422,
+      "word": "玉茗茶骨首播反响",
+      "onboard_time": 1766990600,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 312724,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1766980340,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293070,
-      "num": 293070,
-      "word": "母亲穿上16岁已故女儿装扮",
-      "onboard_time": 1766988141,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 287621,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1766884940,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265006,
-      "num": 210856,
-      "word": "玉茗茶骨首播反响",
-      "onboard_time": 1766990600,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 264345,
@@ -1419,20 +1443,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 232343,
-      "num": 171451,
-      "word": "以后去猫咖穿勃肯鞋",
-      "onboard_time": 1766990001,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231684,
       "num": 231684,
       "word": "宋威龙见面会",
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229388,
+      "num": 229388,
+      "word": "郑丽文回应东部战区演习",
+      "onboard_time": 1766991860,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 228239,
@@ -1555,12 +1579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211454,
+      "num": 211454,
+      "word": "独居离世女子遗产预计近300万",
+      "onboard_time": 1766990361,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210132,
       "num": 210132,
       "word": "野心家",
       "onboard_time": 1766919561,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209436,
+      "num": 209436,
+      "word": "玉茗茶骨摇来了短国半壁江山",
+      "onboard_time": 1766991980,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 209379,
@@ -1808,6 +1848,14 @@
       "word": "干了一辈子拿了二三十万的裁员费",
       "onboard_time": 1766918061,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190601,
+      "num": 190601,
+      "word": "钱要花在能接住疲惫的地方",
+      "onboard_time": 1766992700,
+      "rank": 14,
       "category": "情感"
     },
     {
@@ -2395,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154881,
-      "num": 154881,
-      "word": "娜扎演技",
-      "onboard_time": 1766990900,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154460,
       "num": 154460,
       "word": "李梦说衣服不丑只是美得很小众",
@@ -2443,12 +2483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152642,
-      "num": 180311,
-      "word": "iPhone最经典的四款机型",
-      "onboard_time": 1766990900,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 152971,
+      "num": 152971,
+      "word": "鲁豫的全英文采访实在权威",
+      "onboard_time": 1766993121,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 152177,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1766911461,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149811,
+      "num": 144182,
+      "word": "原来半个娱乐圈都唱过他的歌",
+      "onboard_time": 1766992700,
+      "rank": 25,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 149657,
@@ -2571,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "曝GEN曾想签下TheShy",
+      "onboard_time": 1766991140,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145133,
       "num": 151025,
       "word": "专家科普原叶茶或茶饮料不足以成瘾",
@@ -2617,6 +2673,14 @@
       "onboard_time": 1766926942,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142346,
+      "num": 143797,
+      "word": "网红烤鱼进店前先花16元排队",
+      "onboard_time": 1766993239,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142182,
@@ -2707,14 +2771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138750,
-      "num": 138750,
-      "word": "曝GEN曾想签下TheShy",
-      "onboard_time": 1766991140,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138410,
       "num": 138410,
       "word": "今年女明星最出圈的四组图",
@@ -2771,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136773,
+      "num": 136773,
+      "word": "罚罪2直播",
+      "onboard_time": 1766992580,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136334,
       "num": 136334,
       "word": "王林问鼎",
@@ -2817,6 +2881,22 @@
       "onboard_time": 1766934502,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132974,
+      "num": 132974,
+      "word": "时代峰峻的新音完了秀人的盛典又来了",
+      "onboard_time": 1766992219,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132913,
+      "num": 132913,
+      "word": "GEN老板说RNG已不复存在",
+      "onboard_time": 1766992520,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 131826,
@@ -2937,6 +3017,14 @@
       "onboard_time": 1766892619,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128979,
+      "num": 128979,
+      "word": "两部剧同时开播是谁爽了我不说",
+      "onboard_time": 1766992219,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 128718,
@@ -3395,6 +3483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112930,
+      "num": 112930,
+      "word": "对loft公寓彻底祛魅了",
+      "onboard_time": 1766993600,
+      "rank": 43,
+      "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 112929,
+      "num": 112929,
+      "word": "杨幂VOGUE开年刊封面",
+      "onboard_time": 1766993541,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 112811,
       "num": 112811,
       "word": "檀健次打破第四面墙",
@@ -3451,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111383,
+      "num": 111383,
+      "word": "罚罪",
+      "onboard_time": 1766992999,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111360,
       "num": 111360,
       "word": "驻巴拿马使馆严正声明",
@@ -3497,6 +3609,14 @@
       "onboard_time": 1766852001,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108838,
+      "num": 108838,
+      "word": "白鹿遇上这样的范丞丞表情管理全废",
+      "onboard_time": 1766993541,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 108636,
@@ -3555,6 +3675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107570,
+      "num": 107570,
+      "word": "王者顶级天幕皮肤",
+      "onboard_time": 1766992881,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107269,
       "num": 107269,
       "word": "王曼昱不参赛",
@@ -3569,6 +3697,14 @@
       "onboard_time": 1766895741,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107117,
+      "num": 107117,
+      "word": "梁洁追剧团最想删掉的一段",
+      "onboard_time": 1766992881,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 106933,
@@ -3705,6 +3841,14 @@
       "onboard_time": 1766974339,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 102417,
+      "num": 102417,
+      "word": "白银升为全球第三大资产",
+      "onboard_time": 1766992881,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 102088,
@@ -4219,14 +4363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88174,
-      "num": 108736,
-      "word": "独居离世女子遗产预计近300万",
-      "onboard_time": 1766990361,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88164,
       "num": 185095,
       "word": "新款小鹏P7+即将全球36国发布",
@@ -4555,6 +4691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77681,
+      "num": 113233,
+      "word": "尾号88888手机号三度流拍",
+      "onboard_time": 1766992219,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77645,
       "num": 77645,
       "word": "福建人被台湾地震吓麻了",
@@ -4673,6 +4817,14 @@
       "onboard_time": 1766939120,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71068,
+      "num": 142861,
+      "word": "尊界S800高尔夫圈社交新名片",
+      "onboard_time": 1766991980,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 70694,
@@ -5107,6 +5259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46045,
+      "num": 124245,
+      "word": "台北将向上海赠送一对黑脚企鹅",
+      "onboard_time": 1766993181,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45935,
       "num": 158910,
       "word": "袜子买三送三到手仅3双",
@@ -5211,6 +5371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41123,
+      "num": 145183,
+      "word": "AUDI开启30城任意门",
+      "onboard_time": 1766991980,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40401,
       "num": 51916,
       "word": "宋威龙原来我们早就见面了",
@@ -5280,6 +5448,14 @@
       "word": "现在餐饮品牌只能火半年了吗",
       "onboard_time": 1766894961,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36096,
+      "num": 124549,
+      "word": "砍死45岁邻居嫌犯曾因精神问题就医",
+      "onboard_time": 1766993420,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5451,6 +5627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28416,
+      "num": 145375,
+      "word": "刘德华非凡大师主题曲好听",
+      "onboard_time": 1766991980,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27694,
       "num": 215927,
       "word": "内存通胀内存条价格一年涨4倍",
@@ -5523,6 +5707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24434,
+      "num": 188413,
+      "word": "黄子弘凡的温暖AB面",
+      "onboard_time": 1766988381,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24361,
       "num": 154858,
       "word": "特朗普与泽连斯基未谈妥领土问题",
@@ -5545,14 +5737,6 @@
       "onboard_time": 1766935160,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24247,
-      "num": 188413,
-      "word": "黄子弘凡的温暖AB面",
-      "onboard_time": 1766988381,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 24078,
