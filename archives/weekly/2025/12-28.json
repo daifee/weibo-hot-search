@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767013138481,
+  "endTime": 1767014051680,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -99,6 +99,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1094127,
+      "num": 1175060,
+      "word": "解放军无人机俯瞰台北101大厦",
+      "onboard_time": 1767009919,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1084375,
       "num": 1173500,
       "word": "泡泡玛特开始五折甩卖了",
@@ -131,14 +139,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1018513,
-      "num": 1162962,
-      "word": "解放军无人机俯瞰台北101大厦",
-      "onboard_time": 1767009919,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1002585,
       "num": 1158087,
       "word": "奶奶喜丧女子因朋友少求助网友",
@@ -169,6 +169,14 @@
       "onboard_time": 1766967019,
       "rank": 0,
       "category": "军事"
+    },
+    {
+      "raw_hot": 798477,
+      "num": 272378,
+      "word": "强奸女友获刑男子复合后致女方身亡",
+      "onboard_time": 1767011660,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 791057,
@@ -355,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 625191,
+      "num": 267698,
+      "word": "迅猛龙假哭",
+      "onboard_time": 1767009980,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 620860,
       "num": 407392,
       "word": "点外卖备注只要一点点饭时",
@@ -376,14 +392,6 @@
       "word": "爱奇艺回应充25年会员退费难",
       "onboard_time": 1766887820,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 609858,
-      "num": 272378,
-      "word": "强奸女友获刑男子复合后致女方身亡",
-      "onboard_time": 1767011660,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -425,14 +433,6 @@
       "onboard_time": 1766901681,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582759,
-      "num": 267698,
-      "word": "迅猛龙假哭",
-      "onboard_time": 1767009980,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 577567,
@@ -931,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 398008,
+      "num": 398008,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393198,
       "num": 344011,
       "word": "大盘鸡店嘲讽差评学生学历低",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1766994019,
       "rank": 32,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 356277,
-      "num": 356277,
-      "word": "央视跨年晚会",
-      "onboard_time": 1767003740,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 356235,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1767002901,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304681,
+      "num": 236660,
+      "word": "Labubu二手价格崩了",
+      "onboard_time": 1766997981,
+      "rank": 14,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 302491,
@@ -1739,6 +1747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233796,
+      "num": 233796,
+      "word": "玉簟秋",
+      "onboard_time": 1767011120,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231684,
       "num": 231684,
       "word": "宋威龙见面会",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1766921721,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 225061,
-      "num": 225061,
-      "word": "Labubu二手价格崩了",
-      "onboard_time": 1766997981,
-      "rank": 14,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 223660,
@@ -2235,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187747,
+      "num": 187747,
+      "word": "东部战区随时到台北",
+      "onboard_time": 1767012981,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187128,
       "num": 187128,
       "word": "好特卖临期瓜子比超市还贵",
@@ -2257,14 +2273,6 @@
       "onboard_time": 1766989641,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186347,
-      "num": 186347,
-      "word": "玉簟秋",
-      "onboard_time": 1767011120,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 185402,
@@ -2675,6 +2683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164091,
+      "num": 164091,
+      "word": "芒果把三十位新人打包送去学做饭",
+      "onboard_time": 1767012981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163843,
       "num": 163843,
       "word": "女子花上万元跟主播养胃暴瘦30斤",
@@ -2795,12 +2811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158693,
+      "num": 258678,
+      "word": "牛肉干焯水后变豆腐干",
+      "onboard_time": 1767012741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158491,
       "num": 158491,
       "word": "骄阳似我 伟大的暧昧期",
       "onboard_time": 1766850684,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158129,
+      "num": 158129,
+      "word": "2026KPL春季赛抽签结果",
+      "onboard_time": 1767013821,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 157894,
@@ -2867,14 +2899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155107,
-      "num": 146782,
-      "word": "东部战区随时到台北",
-      "onboard_time": 1767012981,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154940,
       "num": 154940,
       "word": "周洁琼跳了veryveryvery",
@@ -2923,6 +2947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153603,
+      "num": 189796,
+      "word": "男孩偷吃变态辣外卖住院家长索赔",
+      "onboard_time": 1767012802,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152971,
       "num": 152971,
       "word": "鲁豫的全英文采访实在权威",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1766987120,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151635,
+      "num": 151635,
+      "word": "女子1周健身6次致停经",
+      "onboard_time": 1767010759,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151169,
@@ -3011,14 +3051,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 148032,
-      "num": 148032,
-      "word": "女子1周健身6次致停经",
-      "onboard_time": 1767010759,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147956,
       "num": 147956,
       "word": "山东鲁能女团亚军",
@@ -3091,20 +3123,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145366,
+      "num": 145366,
+      "word": "骄阳似我单更",
+      "onboard_time": 1767010101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145133,
       "num": 151025,
       "word": "专家科普原叶茶或茶饮料不足以成瘾",
       "onboard_time": 1766898561,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144699,
-      "num": 144699,
-      "word": "骄阳似我单更",
-      "onboard_time": 1767010101,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 144411,
@@ -3859,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121282,
+      "num": 121282,
+      "word": "by2重跳康熙舞腿全是淤青",
+      "onboard_time": 1767013162,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121152,
       "num": 121152,
       "word": "800块的苹果全家桶",
@@ -3929,6 +3969,14 @@
       "onboard_time": 1766983522,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118742,
+      "num": 118742,
+      "word": "女子住桔子水晶酒店3遭陌生人开门",
+      "onboard_time": 1767010521,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118489,
@@ -4947,14 +4995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94679,
-      "num": 94679,
-      "word": "芒果把三十位新人打包送去学做饭",
-      "onboard_time": 1767012981,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94465,
       "num": 94465,
       "word": "肖战连包5场支持匿杀",
@@ -4993,14 +5033,6 @@
       "onboard_time": 1766879537,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94037,
-      "num": 94037,
-      "word": "女子住桔子水晶酒店3遭陌生人开门",
-      "onboard_time": 1767010521,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93886,
@@ -5771,14 +5803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71969,
-      "num": 172535,
-      "word": "牛肉干焯水后变豆腐干",
-      "onboard_time": 1767012741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71863,
       "num": 81432,
       "word": "薛飞刘冠成vs梁靖崑林昀儒",
@@ -6211,6 +6235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49829,
+      "num": 484189,
+      "word": "S21一路开新",
+      "onboard_time": 1767013821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49512,
       "num": 55392,
       "word": "张函瑞小恶魔飞吻",
@@ -6243,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48327,
+      "num": 111233,
+      "word": "爱奇艺回应黄景瑜道歉",
+      "onboard_time": 1767014001,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48307,
       "num": 112788,
       "word": "回顾樊振东跨年夜和球迷告别",
@@ -6264,14 +6304,6 @@
       "word": "台北将向上海赠送一对黑脚企鹅",
       "onboard_time": 1766993181,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47321,
-      "num": 158166,
-      "word": "男孩偷吃变态辣外卖住院家长索赔",
-      "onboard_time": 1767012802,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -6611,6 +6643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31691,
+      "num": 111963,
+      "word": "彭昱畅 阿如那你心乱了",
+      "onboard_time": 1767013281,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31491,
       "num": 223828,
       "word": "滑雪脸僵了试试美团医美",
@@ -6796,7 +6836,7 @@
     },
     {
       "raw_hot": 24469,
-      "num": 174667,
+      "num": 192108,
       "word": "萧敬腾在千问下红包雨",
       "onboard_time": 1767009919,
       "rank": 18,
@@ -6947,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19278,
+      "num": 191097,
+      "word": "张远王栎鑫隔空干杯",
+      "onboard_time": 1767013642,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19155,
       "num": 163402,
       "word": "老年艾滋病人数男性约是女性3倍",
@@ -7017,6 +7065,22 @@
       "onboard_time": 1766949794,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15558,
+      "num": 104298,
+      "word": "9图速览2025世界眼中的中国",
+      "onboard_time": 1767013399,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15234,
+      "num": 189171,
+      "word": "2025年中国军力硬核跃升",
+      "onboard_time": 1767013581,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15229,
