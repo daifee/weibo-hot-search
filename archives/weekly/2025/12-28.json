@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767044459260,
+  "endTime": 1767047271792,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -6763,6 +6763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52808,
+      "num": 52808,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51344,
       "num": 51344,
       "word": "中国援柬埔寨物资运抵金边",
@@ -7460,7 +7468,7 @@
     },
     {
       "raw_hot": 27940,
-      "num": 27940,
+      "num": 33360,
       "word": "王俊凯热爱以时间淬炼",
       "onboard_time": 1767036314,
       "rank": 25,
@@ -7520,14 +7528,6 @@
       "word": "张极绷带造型富有且大方",
       "onboard_time": 1766863215,
       "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24984,
-      "num": 24984,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
       "category": "演出"
     },
     {
@@ -7923,12 +7923,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 13861,
-      "num": 21915,
+      "raw_hot": 13955,
+      "num": 33375,
       "word": "檀健次骑马出场",
       "onboard_time": 1767039314,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13636,
+      "num": 33346,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 13547,
@@ -7945,14 +7953,6 @@
       "onboard_time": 1766928381,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11961,
-      "num": 14661,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 11938,

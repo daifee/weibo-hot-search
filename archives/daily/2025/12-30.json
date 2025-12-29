@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767044459260,
+  "endTime": 1767047271792,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -283,20 +283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67838,
+      "num": 156744,
+      "word": "女子回应网购羽绒服退货口袋装机票",
+      "onboard_time": 1767015381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66198,
       "num": 156523,
       "word": "苏新皓前滚翻练习室",
       "onboard_time": 1767021684,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65479,
-      "num": 156744,
-      "word": "女子回应网购羽绒服退货口袋装机票",
-      "onboard_time": 1767015381,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63514,
@@ -353,6 +353,14 @@
       "onboard_time": 1767017970,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52808,
+      "num": 52808,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 52510,
@@ -492,22 +500,14 @@
     },
     {
       "raw_hot": 27940,
-      "num": 27940,
+      "num": 33360,
       "word": "王俊凯热爱以时间淬炼",
       "onboard_time": 1767036314,
       "rank": 25,
       "category": "艺人"
     },
     {
-      "raw_hot": 24984,
-      "num": 24984,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24225,
+      "raw_hot": 25047,
       "num": 86697,
       "word": "白银狂飙后跳水 交易所出手",
       "onboard_time": 1767018747,
@@ -515,7 +515,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 24222,
+      "raw_hot": 24355,
       "num": 86678,
       "word": "亚洲周刊",
       "onboard_time": 1767017187,
@@ -579,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16398,
+      "num": 33448,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16072,
       "num": 245518,
       "word": "S21一路开新",
@@ -587,32 +595,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13861,
-      "num": 21915,
-      "word": "檀健次骑马出场",
-      "onboard_time": 1767039314,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 12998,
-      "num": 21995,
+      "raw_hot": 14056,
+      "num": 33392,
       "word": "信阳巨响",
       "onboard_time": 1767014781,
       "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12776,
-      "num": 14662,
-      "word": "央视跨年晚会",
-      "onboard_time": 1767003740,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 13955,
+      "num": 33375,
+      "word": "檀健次骑马出场",
+      "onboard_time": 1767039314,
+      "rank": 46,
+      "category": "艺人"
     },
     {
-      "raw_hot": 11961,
-      "num": 14661,
+      "raw_hot": 13636,
+      "num": 33346,
       "word": "玉茗茶骨女三是张南演的",
       "onboard_time": 1767039974,
       "rank": 45,
@@ -627,20 +627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 10452,
+      "num": 81797,
+      "word": "2025年中国军力硬核跃升",
+      "onboard_time": 1767013581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8828,
       "num": 134310,
       "word": "9图速览2025世界眼中的中国",
       "onboard_time": 1767013399,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8570,
-      "num": 41209,
-      "word": "2025年中国军力硬核跃升",
-      "onboard_time": 1767013581,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

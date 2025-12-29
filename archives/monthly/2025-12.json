@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767044459260,
+  "endTime": 1767047271792,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -88811,6 +88811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52808,
+      "num": 52808,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52791,
       "num": 122305,
       "word": "张百乔妻子整容后照片撞脸金晨",
@@ -97900,7 +97908,7 @@
     },
     {
       "raw_hot": 27940,
-      "num": 27940,
+      "num": 33360,
       "word": "王俊凯热爱以时间淬炼",
       "onboard_time": 1767036314,
       "rank": 25,
@@ -99057,14 +99065,6 @@
       "onboard_time": 1764917542,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24984,
-      "num": 24984,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 24959,
@@ -102707,6 +102707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13955,
+      "num": 33375,
+      "word": "檀健次骑马出场",
+      "onboard_time": 1767039314,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13914,
       "num": 126774,
       "word": "女装吊牌越做越大尺码越做越小",
@@ -102721,14 +102729,6 @@
       "onboard_time": 1765982182,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13861,
-      "num": 21915,
-      "word": "檀健次骑马出场",
-      "onboard_time": 1767039314,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 13837,
@@ -102785,6 +102785,14 @@
       "onboard_time": 1766777834,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13636,
+      "num": 33346,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 13635,
@@ -103193,14 +103201,6 @@
       "onboard_time": 1764878594,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 11961,
-      "num": 14661,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 11960,
