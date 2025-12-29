@@ -1,0 +1,410 @@
+{
+  "runTime": 1767004342883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813218,
+        "num": 1130115,
+        "word": "泡泡玛特开始五折甩卖了",
+        "onboard_time": 1766997981,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 357134,
+        "num": 357134,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22681,
+        "num": 312636,
+        "word": "2025我们的家国记忆",
+        "onboard_time": 1766998881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268203,
+        "num": 268203,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264113,
+        "num": 264113,
+        "word": "庄序 装",
+        "onboard_time": 1767000260,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262058,
+        "num": 262058,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239338,
+        "num": 239338,
+        "word": "你好星期六全员团建路透",
+        "onboard_time": 1766999061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227555,
+        "num": 227555,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207161,
+        "num": 207161,
+        "word": "央视跨年晚会",
+        "onboard_time": 1767003740,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189932,
+        "num": 189932,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 9,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 34861,
+        "num": 187047,
+        "word": "台武器装备不值一提",
+        "onboard_time": 1767003080,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555948,
+        "num": 184766,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 505262,
+        "num": 179000,
+        "word": "杨幂回应40岁了依然有很多困惑",
+        "onboard_time": 1767001039,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261160,
+        "num": 178234,
+        "word": "宋威龙女主运",
+        "onboard_time": 1766999000,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241340,
+        "num": 173105,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199482,
+        "num": 167605,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198973,
+        "num": 163331,
+        "word": "杨紫迪丽热巴90花双TOP登五大开年",
+        "onboard_time": 1766994980,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197746,
+        "num": 161702,
+        "word": "杨幂 你看又一个拍婚纱的",
+        "onboard_time": 1767002901,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159417,
+        "num": 159417,
+        "word": "海警给台湾打了个中国结",
+        "onboard_time": 1766994920,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 16562,
+        "num": 158786,
+        "word": "店铺回应退货羽绒服口袋现机票",
+        "onboard_time": 1767003861,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246620,
+        "num": 158344,
+        "word": "福原爱首谈和江宏杰离婚原因",
+        "onboard_time": 1766995820,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189535,
+        "num": 157559,
+        "word": "成龙因戏中不能死错过霸王别姬",
+        "onboard_time": 1766986101,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168958,
+        "num": 156267,
+        "word": "相机才是iPhone里最贵的APP",
+        "onboard_time": 1766999300,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168592,
+        "num": 155560,
+        "word": "张杰跨年演唱会点歌",
+        "onboard_time": 1767002359,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155405,
+        "num": 155405,
+        "word": "在家里跨年vs在外面跨年",
+        "onboard_time": 1767002721,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165509,
+        "num": 149405,
+        "word": "黄景瑜给爱奇艺道歉",
+        "onboard_time": 1767003321,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162783,
+        "num": 145494,
+        "word": "赵一博杀回古装了",
+        "onboard_time": 1767004041,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138789,
+        "num": 138789,
+        "word": "逍遥",
+        "onboard_time": 1767003141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763443,
+        "num": 138120,
+        "word": "演员闫学晶哭穷引争议",
+        "onboard_time": 1766998341,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130893,
+        "num": 130893,
+        "word": "原来35岁那么刀人",
+        "onboard_time": 1766994019,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31828,
+        "num": 126727,
+        "word": "京东跨晚走秀彩排机器人猛整活",
+        "onboard_time": 1767002301,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148243,
+        "num": 126329,
+        "word": "怪不得古代皇上受不了有人功高盖主",
+        "onboard_time": 1767002721,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 124497,
+        "word": "她不是销冠没人能是销冠了",
+        "onboard_time": 1766995761,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 123170,
+        "num": 123170,
+        "word": "独居离世女子遗产预计近300万",
+        "onboard_time": 1766990361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 123054,
+        "word": "回顾2025年展望2026年",
+        "onboard_time": 1767003981,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 115605,
+        "word": "人之初",
+        "onboard_time": 1767003380,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115592,
+        "num": 115592,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31414,
+        "num": 113138,
+        "word": "贺龙体育场女厕外墙为玻璃",
+        "onboard_time": 1767003501,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112187,
+        "num": 112187,
+        "word": "期末到底考不考骄阳似我",
+        "onboard_time": 1767002840,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109553,
+        "num": 109553,
+        "word": "王者冰雪奇缘联动皮肤返场",
+        "onboard_time": 1767002481,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 108877,
+        "word": "骄阳似我",
+        "onboard_time": 1766981721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107544,
+        "num": 107544,
+        "word": "原来这个表情包是陈妍希的手",
+        "onboard_time": 1767003619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96392,
+        "num": 96392,
+        "word": "玉茗茶骨 配音",
+        "onboard_time": 1767001339,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93631,
+        "num": 93631,
+        "word": "iPhone最经典的四款机型",
+        "onboard_time": 1766990900,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93244,
+        "num": 93244,
+        "word": "孙悟空无双皮夯爆了",
+        "onboard_time": 1767002421,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91181,
+        "num": 91181,
+        "word": "男子带母亲打包酒店自助早餐",
+        "onboard_time": 1767004161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89300,
+        "num": 89300,
+        "word": "原来这是新型年终奖啊",
+        "onboard_time": 1767002359,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88437,
+        "num": 88437,
+        "word": "娜扎演技",
+        "onboard_time": 1766990900,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87053,
+        "num": 87053,
+        "word": "金价银价转跌",
+        "onboard_time": 1767001880,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85808,
+        "num": 85808,
+        "word": "潮人老了就这样",
+        "onboard_time": 1767004161,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#回眸2025年大国外交#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1767001981132,
+  "endTime": 1767004342883,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -129,6 +129,14 @@
       "onboard_time": 1766994920,
       "rank": 0,
       "category": "军事"
+    },
+    {
+      "raw_hot": 505262,
+      "num": 220337,
+      "word": "杨幂回应40岁了依然有很多困惑",
+      "onboard_time": 1767001039,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 500146,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357134,
+      "num": 357134,
+      "word": "演习宣布2小时后台当局做出反应",
+      "onboard_time": 1766994920,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 356880,
       "num": 268338,
       "word": "原来35岁那么刀人",
@@ -499,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280743,
-      "num": 280743,
-      "word": "演习宣布2小时后台当局做出反应",
-      "onboard_time": 1766994920,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 276742,
       "num": 276742,
       "word": "你好星期六全员团建路透",
@@ -595,14 +603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 220337,
-      "num": 220337,
-      "word": "杨幂回应40岁了依然有很多困惑",
-      "onboard_time": 1767001039,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216967,
       "num": 200120,
       "word": "为什么午睡30分钟是个坎",
@@ -641,6 +641,14 @@
       "onboard_time": 1766989881,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207161,
+      "num": 207161,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 206966,
@@ -697,6 +705,14 @@
       "onboard_time": 1767001222,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197746,
+      "num": 161702,
+      "word": "杨幂 你看又一个拍婚纱的",
+      "onboard_time": 1767002901,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 196289,
@@ -971,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168592,
+      "num": 155560,
+      "word": "张杰跨年演唱会点歌",
+      "onboard_time": 1767002359,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168128,
       "num": 168128,
       "word": "黄家婧看到赵丽颖演我看到爱豆",
@@ -987,11 +1011,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 165509,
+      "num": 149405,
+      "word": "黄景瑜给爱奇艺道歉",
+      "onboard_time": 1767003321,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "罚罪2一集一个坟",
       "onboard_time": 1766980701,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162783,
+      "num": 145494,
+      "word": "赵一博杀回古装了",
+      "onboard_time": 1767004041,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1057,6 +1097,14 @@
       "onboard_time": 1766979620,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155405,
+      "num": 155405,
+      "word": "在家里跨年vs在外面跨年",
+      "onboard_time": 1767002721,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 154940,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1766980280,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148243,
+      "num": 126329,
+      "word": "怪不得古代皇上受不了有人功高盖主",
+      "onboard_time": 1767002721,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 148087,
@@ -1208,6 +1264,14 @@
       "word": "包上恩首演宅斗剧",
       "onboard_time": 1766991019,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138789,
+      "num": 138789,
+      "word": "逍遥",
+      "onboard_time": 1767003141,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1345,6 +1409,14 @@
       "onboard_time": 1766978899,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123054,
+      "num": 123054,
+      "word": "回顾2025年展望2026年",
+      "onboard_time": 1767003981,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 122210,
@@ -1499,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112187,
+      "num": 112187,
+      "word": "期末到底考不考骄阳似我",
+      "onboard_time": 1767002840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111913,
       "num": 111913,
       "word": "现在就出发",
@@ -1547,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109553,
+      "num": 109553,
+      "word": "王者冰雪奇缘联动皮肤返场",
+      "onboard_time": 1767002481,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108838,
       "num": 108838,
       "word": "白鹿遇上这样的范丞丞表情管理全废",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1766992881,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107544,
+      "num": 107544,
+      "word": "原来这个表情包是陈妍希的手",
+      "onboard_time": 1767003619,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 107117,
@@ -1771,6 +1867,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 96392,
+      "num": 96392,
+      "word": "玉茗茶骨 配音",
+      "onboard_time": 1767001339,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96060,
       "num": 96060,
       "word": "朱志鑫宽肩窄腰daddy级别",
@@ -1785,14 +1889,6 @@
       "onboard_time": 1766972839,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95773,
-      "num": 95773,
-      "word": "玉茗茶骨 配音",
-      "onboard_time": 1767001339,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 94965,
@@ -1819,6 +1915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93244,
+      "num": 93244,
+      "word": "孙悟空无双皮夯爆了",
+      "onboard_time": 1767002421,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92380,
       "num": 92380,
       "word": "中柬泰外长会晤成功举行",
@@ -1833,6 +1937,14 @@
       "onboard_time": 1767000320,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91181,
+      "num": 91181,
+      "word": "男子带母亲打包酒店自助早餐",
+      "onboard_time": 1767004161,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90910,
@@ -1875,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89300,
+      "num": 89300,
+      "word": "原来这是新型年终奖啊",
+      "onboard_time": 1767002359,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88770,
       "num": 88770,
       "word": "孙颖莎王楚钦新年壁纸",
@@ -1889,6 +2009,14 @@
       "onboard_time": 1766978480,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87053,
+      "num": 87053,
+      "word": "金价银价转跌",
+      "onboard_time": 1767001880,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 87019,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1766934502,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85808,
+      "num": 85808,
+      "word": "潮人老了就这样",
+      "onboard_time": 1767004161,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85705,
@@ -1953,14 +2089,6 @@
       "onboard_time": 1766920342,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 82067,
-      "num": 82067,
-      "word": "金价银价转跌",
-      "onboard_time": 1767001880,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 81205,
@@ -2627,6 +2755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34861,
+      "num": 187047,
+      "word": "台武器装备不值一提",
+      "onboard_time": 1767003080,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34545,
       "num": 34545,
       "word": "网红小英回应变化大",
@@ -2648,6 +2784,22 @@
       "word": "祖孙3人被邻居杀害案二审维持原判",
       "onboard_time": 1766981782,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31828,
+      "num": 126727,
+      "word": "京东跨晚走秀彩排机器人猛整活",
+      "onboard_time": 1767002301,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 31414,
+      "num": 113138,
+      "word": "贺龙体育场女厕外墙为玻璃",
+      "onboard_time": 1767003501,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2873,6 +3025,14 @@
       "onboard_time": 1766948714,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16562,
+      "num": 158786,
+      "word": "店铺回应退货羽绒服口袋现机票",
+      "onboard_time": 1767003861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15825,
