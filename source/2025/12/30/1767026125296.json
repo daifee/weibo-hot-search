@@ -1,0 +1,410 @@
+{
+  "runTime": 1767026125296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 371603,
+        "num": 796192,
+        "word": "台中突然大规模停电",
+        "onboard_time": 1767023542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261717,
+        "num": 261717,
+        "word": "东部战区随时到台北",
+        "onboard_time": 1767012981,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13218,
+        "num": 245518,
+        "word": "S21一路开新",
+        "onboard_time": 1767013821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237555,
+        "num": 237555,
+        "word": "于正 玉茗茶骨",
+        "onboard_time": 1767023842,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "新闻联播出现台北101大楼画面",
+        "onboard_time": 1767014301,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366216,
+        "num": 176601,
+        "word": "黄金",
+        "onboard_time": 1767021505,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226810,
+        "num": 174449,
+        "word": "陈梦 黄晓明还是我认识30多年的哥吗",
+        "onboard_time": 1767019767,
+        "rank": 6,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 158486,
+        "num": 158486,
+        "word": "解放军无人机俯瞰台北101大厦",
+        "onboard_time": 1767009919,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130055,
+        "num": 158459,
+        "word": "男孩偷吃变态辣外卖住院家长索赔",
+        "onboard_time": 1767012802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101512,
+        "num": 158353,
+        "word": "女子跑3家银行网点没办成1张卡",
+        "onboard_time": 1767020067,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3245961,
+        "num": 158340,
+        "word": "林俊杰七七恋情梳理",
+        "onboard_time": 1767022164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275897,
+        "num": 158249,
+        "word": "李兰迪泳装",
+        "onboard_time": 1767020187,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180148,
+        "num": 158144,
+        "word": "张杰 做歌手之前要做个好男人",
+        "onboard_time": 1767019647,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 158124,
+        "word": "孟子义 输给李雪琴是我的福气",
+        "onboard_time": 1767021264,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131229,
+        "num": 158066,
+        "word": "强奸女友获刑男子复合后致女方身亡",
+        "onboard_time": 1767011660,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122426,
+        "num": 157993,
+        "word": "龙麦cp",
+        "onboard_time": 1767023243,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99222,
+        "num": 157952,
+        "word": "娜扎回应赵嘉敏",
+        "onboard_time": 1767024440,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98397,
+        "num": 157906,
+        "word": "Labubu二手价格崩了",
+        "onboard_time": 1766997981,
+        "rank": 17,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 79833,
+        "num": 157805,
+        "word": "警方通报45岁女子遭邻居砍死",
+        "onboard_time": 1767020007,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72680,
+        "num": 157729,
+        "word": "民警猥亵继女案女孩母亲发声",
+        "onboard_time": 1767024203,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5458976,
+        "num": 5458976,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668365,
+        "num": 157603,
+        "word": "张杰演唱会回应争议",
+        "onboard_time": 1767016521,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261860,
+        "num": 157509,
+        "word": "霍建华 年纪大了终于能演喜欢的角色了",
+        "onboard_time": 1767016402,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 157449,
+        "word": "白鹿剪短了头发",
+        "onboard_time": 1767015803,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69834,
+        "num": 157417,
+        "word": "官方通报信阳巨响",
+        "onboard_time": 1767023721,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124242,
+        "num": 157354,
+        "word": "歌手找的对象都好年轻",
+        "onboard_time": 1767021025,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90643,
+        "num": 157276,
+        "word": "陈昊宇开机",
+        "onboard_time": 1767021444,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89270,
+        "num": 157174,
+        "word": "魏子宸 四叶草",
+        "onboard_time": 1767019226,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68972,
+        "num": 157122,
+        "word": "孕妇坠崖案当事人称男方先提出离婚",
+        "onboard_time": 1767020725,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68095,
+        "num": 157047,
+        "word": "大鹅已找到主人决定继续抽水追凶",
+        "onboard_time": 1767009800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81690,
+        "num": 156965,
+        "word": "王俊凯工作室发彩排照",
+        "onboard_time": 1767020127,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75096,
+        "num": 156924,
+        "word": "我也要在微博上找帅哥教练",
+        "onboard_time": 1767018508,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73444,
+        "num": 156829,
+        "word": "张凌赫洗澡只要20分钟",
+        "onboard_time": 1767005900,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65479,
+        "num": 156744,
+        "word": "女子回应网购羽绒服退货口袋装机票",
+        "onboard_time": 1767015381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63514,
+        "num": 156726,
+        "word": "追在身后的续命水5小时就要喝",
+        "onboard_time": 1767020187,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69318,
+        "num": 156592,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1767025460,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66198,
+        "num": 156523,
+        "word": "苏新皓前滚翻练习室",
+        "onboard_time": 1767021684,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58726,
+        "num": 156492,
+        "word": "女子住桔子水晶酒店3遭陌生人开门",
+        "onboard_time": 1767010521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54164,
+        "num": 156391,
+        "word": "王楚钦梁靖崑现身魏桥新年晚会",
+        "onboard_time": 1767025639,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53315,
+        "num": 156361,
+        "word": "崔丽丽称伤残十级鉴定结论生效",
+        "onboard_time": 1767022403,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66082,
+        "num": 156255,
+        "word": "周震南打开评论区天塌了",
+        "onboard_time": 1767025400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60198,
+        "num": 156196,
+        "word": "张子枫又来支持彭昱畅了",
+        "onboard_time": 1767020427,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56922,
+        "num": 156108,
+        "word": "檀健次服了",
+        "onboard_time": 1767020485,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53310,
+        "num": 156042,
+        "word": "李锐回应在迪拜签下12亿订单",
+        "onboard_time": 1767017970,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52510,
+        "num": 156015,
+        "word": "男子结婚3年发现妻子另有老公",
+        "onboard_time": 1767019226,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51889,
+        "num": 155900,
+        "word": "殷世航不建议大家做断骨增高",
+        "onboard_time": 1767025400,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48817,
+        "num": 155837,
+        "word": "钎九",
+        "onboard_time": 1767014420,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44192,
+        "num": 155753,
+        "word": "2025最难忘的一件事",
+        "onboard_time": 1767023782,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44003,
+        "num": 155726,
+        "word": "2025值得铭记的体坛瞬间",
+        "onboard_time": 1767025759,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41303,
+        "num": 155649,
+        "word": "你的鼻炎属于什么等级",
+        "onboard_time": 1767025041,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
