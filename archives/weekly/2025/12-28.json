@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767008477303,
+  "endTime": 1767013138481,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -131,6 +131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1018513,
+      "num": 1162962,
+      "word": "解放军无人机俯瞰台北101大厦",
+      "onboard_time": 1767009919,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1002585,
       "num": 1158087,
       "word": "奶奶喜丧女子因朋友少求助网友",
@@ -185,6 +193,14 @@
       "onboard_time": 1766851401,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759498,
+      "num": 759498,
+      "word": "逍遥剧情 老套",
+      "onboard_time": 1767009260,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 742333,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609858,
+      "num": 272378,
+      "word": "强奸女友获刑男子复合后致女方身亡",
+      "onboard_time": 1767011660,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609543,
       "num": 450670,
       "word": "苏新皓杨博文双人舞台",
@@ -401,6 +425,14 @@
       "onboard_time": 1766901681,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582759,
+      "num": 267698,
+      "word": "迅猛龙假哭",
+      "onboard_time": 1767009980,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 577567,
@@ -569,6 +601,14 @@
       "onboard_time": 1766913381,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480217,
+      "num": 480217,
+      "word": "大鹅已找到主人决定继续抽水追凶",
+      "onboard_time": 1767009800,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471995,
@@ -756,10 +796,18 @@
     },
     {
       "raw_hot": 428040,
-      "num": 210185,
+      "num": 262975,
       "word": "张凌赫洗澡只要20分钟",
       "onboard_time": 1767005900,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426232,
+      "num": 266505,
+      "word": "张子墨晒与张函瑞合照",
+      "onboard_time": 1767008842,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1027,6 +1075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 356277,
+      "num": 356277,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356235,
       "num": 356235,
       "word": "难怪认识的一个男生老说要嫁人了",
@@ -1203,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307080,
+      "num": 307080,
+      "word": "日本夫妇惨死桑拿房",
+      "onboard_time": 1767005541,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 306341,
       "num": 211141,
       "word": "杨幂 你看又一个拍婚纱的",
@@ -1288,6 +1352,14 @@
       "word": "庄序 装",
       "onboard_time": 1767000260,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288136,
+      "num": 288136,
+      "word": "逍遥 犬夜叉",
+      "onboard_time": 1767008181,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1409,14 +1481,6 @@
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270216,
-      "num": 270216,
-      "word": "央视跨年晚会",
-      "onboard_time": 1767003740,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 269284,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1766921721,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225061,
+      "num": 225061,
+      "word": "Labubu二手价格崩了",
+      "onboard_time": 1766997981,
+      "rank": 14,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 223660,
@@ -2187,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186347,
+      "num": 186347,
+      "word": "玉簟秋",
+      "onboard_time": 1767011120,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185402,
       "num": 248927,
       "word": "70岁大爷买13克金戒1年半少0.23克",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1766990480,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180369,
+      "num": 287356,
+      "word": "中方反驳泽连斯基涉华言论",
+      "onboard_time": 1767008481,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180052,
@@ -2611,6 +2699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "居然真有人在买年度报告",
+      "onboard_time": 1767012320,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162783,
       "num": 157551,
       "word": "赵一博杀回古装了",
@@ -2771,6 +2867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155107,
+      "num": 146782,
+      "word": "东部战区随时到台北",
+      "onboard_time": 1767012981,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154940,
       "num": 154940,
       "word": "周洁琼跳了veryveryvery",
@@ -2851,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150259,
-      "num": 150259,
-      "word": "日本夫妇惨死桑拿房",
-      "onboard_time": 1767005541,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 149869,
       "num": 149869,
       "word": "王菊一步一步一部一部",
@@ -2915,6 +3011,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 148032,
+      "num": 148032,
+      "word": "女子1周健身6次致停经",
+      "onboard_time": 1767010759,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147956,
       "num": 147956,
       "word": "山东鲁能女团亚军",
@@ -2955,6 +3059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145827,
+      "num": 145827,
+      "word": "句号接状元学弟无言回家",
+      "onboard_time": 1767011180,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145692,
       "num": 145692,
       "word": "午睡其实不用非得睡着",
@@ -2987,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "骄阳似我单更",
+      "onboard_time": 1767010101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144411,
       "num": 149306,
       "word": "A股迎多项利好",
@@ -3017,6 +3137,14 @@
       "onboard_time": 1766995461,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143105,
+      "num": 143105,
+      "word": "痞幼林渝植 性转版的彼此",
+      "onboard_time": 1767010881,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 142959,
@@ -3129,6 +3257,14 @@
       "onboard_time": 1766936122,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138496,
+      "num": 138496,
+      "word": "广州停车费 贵",
+      "onboard_time": 1767009680,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138410,
@@ -3459,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126712,
+      "num": 145237,
+      "word": "谁家好人往鸡屁股里塞金条",
+      "onboard_time": 1767010759,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126642,
       "num": 126642,
       "word": "骄阳似我预告",
@@ -3523,6 +3667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125848,
+      "num": 125848,
+      "word": "张若昀一句话感动哭马思纯",
+      "onboard_time": 1767012320,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125805,
       "num": 125805,
       "word": "檀健次科目一更新了",
@@ -3545,6 +3697,14 @@
       "onboard_time": 1766898861,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124769,
+      "num": 124769,
+      "word": "染详AG自留签",
+      "onboard_time": 1767013041,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 124556,
@@ -3873,6 +4033,14 @@
       "onboard_time": 1766972780,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114336,
+      "num": 99627,
+      "word": "张若昀新剧妈妈真是她",
+      "onboard_time": 1767008661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 114226,
@@ -4531,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99953,
+      "num": 99953,
+      "word": "王橹杰张函瑞怎么还有节目",
+      "onboard_time": 1767012141,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99686,
       "num": 157372,
       "word": "荣耀之战2026官宣澳门",
@@ -4577,14 +4753,6 @@
       "onboard_time": 1766914520,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98731,
-      "num": 98731,
-      "word": "逍遥 犬夜叉",
-      "onboard_time": 1767008181,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 98345,
@@ -4683,6 +4851,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 96688,
+      "num": 96688,
+      "word": "王者新赛季段位继承",
+      "onboard_time": 1767012861,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96682,
       "num": 96682,
       "word": "骄阳似我是江浙沪现偶剧吧",
@@ -4747,6 +4923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95318,
+      "num": 95318,
+      "word": "侯明昊这个发带简直神来之笔",
+      "onboard_time": 1767012441,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95206,
       "num": 112619,
       "word": "东方卫视跨年年终报告信息量好大",
@@ -4761,6 +4945,14 @@
       "onboard_time": 1766901620,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94679,
+      "num": 94679,
+      "word": "芒果把三十位新人打包送去学做饭",
+      "onboard_time": 1767012981,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 94465,
@@ -4801,6 +4993,14 @@
       "onboard_time": 1766879537,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94037,
+      "num": 94037,
+      "word": "女子住桔子水晶酒店3遭陌生人开门",
+      "onboard_time": 1767010521,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93886,
@@ -5113,6 +5313,14 @@
       "onboard_time": 1766899701,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85881,
+      "num": 85881,
+      "word": "张钧甯为了拍戏体脂降到13",
+      "onboard_time": 1767010759,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 85808,
@@ -5561,6 +5769,14 @@
       "onboard_time": 1767003080,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71969,
+      "num": 172535,
+      "word": "牛肉干焯水后变豆腐干",
+      "onboard_time": 1767012741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71863,
@@ -6051,6 +6267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47321,
+      "num": 158166,
+      "word": "男孩偷吃变态辣外卖住院家长索赔",
+      "onboard_time": 1767012802,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46820,
       "num": 171117,
       "word": "宋威龙扛住了格莱美运镜",
@@ -6452,7 +6676,7 @@
     },
     {
       "raw_hot": 29680,
-      "num": 378749,
+      "num": 548927,
       "word": "2025我们的家国记忆",
       "onboard_time": 1766998881,
       "rank": 2,
@@ -6569,6 +6793,14 @@
       "onboard_time": 1766899880,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24469,
+      "num": 174667,
+      "word": "萧敬腾在千问下红包雨",
+      "onboard_time": 1767009919,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 24434,
