@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1767001133510,
+  "endTime": 1767001981132,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084375,
+      "num": 1173500,
+      "word": "泡泡玛特开始五折甩卖了",
+      "onboard_time": 1766997981,
+      "rank": 31,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 1072268,
       "num": 306104,
       "word": "成龙因戏中不能死错过霸王别姬",
       "onboard_time": 1766986101,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 998676,
-      "num": 1159788,
-      "word": "泡泡玛特开始五折甩卖了",
-      "onboard_time": 1766997981,
-      "rank": 31,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 833713,
@@ -73,6 +73,14 @@
       "onboard_time": 1766931743,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684239,
+      "num": 269495,
+      "word": "领证和不领证的区别",
+      "onboard_time": 1766997199,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 650250,
@@ -121,14 +129,6 @@
       "onboard_time": 1766994920,
       "rank": 0,
       "category": "军事"
-    },
-    {
-      "raw_hot": 502940,
-      "num": 269495,
-      "word": "领证和不领证的区别",
-      "onboard_time": 1766997199,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 500146,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339814,
+      "num": 235481,
+      "word": "宋威龙女主运",
+      "onboard_time": 1766999000,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329052,
       "num": 281593,
       "word": "小孩饭 大人饭",
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294899,
+      "num": 294899,
+      "word": "庄序 装",
+      "onboard_time": 1767000260,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292458,
       "num": 189376,
       "word": "成龙自曝和儿子一年只打一次电话",
@@ -483,8 +499,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278833,
-      "num": 278833,
+      "raw_hot": 280743,
+      "num": 280743,
       "word": "演习宣布2小时后台当局做出反应",
       "onboard_time": 1766994920,
       "rank": 35,
@@ -505,14 +521,6 @@
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259397,
-      "num": 259397,
-      "word": "庄序 装",
-      "onboard_time": 1767000260,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 258390,
@@ -579,20 +587,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 228909,
-      "num": 228909,
-      "word": "宋威龙女主运",
-      "onboard_time": 1766999000,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223348,
       "num": 200279,
       "word": "迪丽热巴时尚芭莎开年刊",
       "onboard_time": 1766979919,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220337,
+      "num": 220337,
+      "word": "杨幂回应40岁了依然有很多困惑",
+      "onboard_time": 1767001039,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 216967,
@@ -681,6 +689,14 @@
       "onboard_time": 1766982503,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197945,
+      "num": 157021,
+      "word": "东北火锅逆袭成全国第二",
+      "onboard_time": 1767001222,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 196289,
@@ -985,6 +1001,22 @@
       "onboard_time": 1766981600,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162068,
+      "num": 152764,
+      "word": "孔雪儿就是这个女团味",
+      "onboard_time": 1767000801,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160502,
+      "num": 179282,
+      "word": "100个诈骗电话中20至30人会信",
+      "onboard_time": 1767000141,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157260,
@@ -1507,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110157,
+      "num": 110157,
+      "word": "施纯芳被押解回国",
+      "onboard_time": 1767001039,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108838,
       "num": 108838,
       "word": "白鹿遇上这样的范丞丞表情管理全废",
@@ -1627,6 +1667,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 100340,
+      "num": 100340,
+      "word": "银价大跳水原因找到了",
+      "onboard_time": 1767001701,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100251,
       "num": 100251,
       "word": "实探46岁独居离世女子生前小区",
@@ -1715,14 +1763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97156,
-      "num": 97156,
-      "word": "杨幂回应40岁了依然有很多困惑",
-      "onboard_time": 1767001039,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96444,
       "num": 96444,
       "word": "钟意孙悟空无相皮肤签名",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1766972839,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95773,
+      "num": 95773,
+      "word": "玉茗茶骨 配音",
+      "onboard_time": 1767001339,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 94965,
@@ -1787,12 +1835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90420,
-      "num": 90420,
-      "word": "孔雪儿就是这个女团味",
-      "onboard_time": 1767000801,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 90910,
+      "num": 89087,
+      "word": "罚罪2",
+      "onboard_time": 1767001161,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 90175,
@@ -1867,14 +1915,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 85779,
-      "num": 85779,
-      "word": "施纯芳被押解回国",
-      "onboard_time": 1767001039,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85705,
       "num": 96721,
       "word": "白鹿天选古偶女主",
@@ -1899,12 +1939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82503,
+      "num": 82503,
+      "word": "维修手机是一场巨大的八卦现场",
+      "onboard_time": 1767001940,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82303,
       "num": 82303,
       "word": "点外卖备注只要一点点饭时",
       "onboard_time": 1766920342,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82067,
+      "num": 82067,
+      "word": "金价银价转跌",
+      "onboard_time": 1767001880,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 81205,
@@ -2243,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61555,
+      "num": 178140,
+      "word": "被迪丽热巴这一个眼神看哭了",
+      "onboard_time": 1767000141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60560,
       "num": 73918,
       "word": "小猫四条腿各跑各的",
@@ -2252,7 +2316,7 @@
     },
     {
       "raw_hot": 60209,
-      "num": 103974,
+      "num": 236535,
       "word": "王楚钦孙颖莎2025年度最佳运动员",
       "onboard_time": 1767001039,
       "rank": 33,
@@ -2299,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56714,
-      "num": 179282,
-      "word": "100个诈骗电话中20至30人会信",
-      "onboard_time": 1767000141,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56006,
       "num": 62743,
       "word": "给孩子买了一件会变色的衣服",
@@ -2320,14 +2376,6 @@
       "word": "内娱剧宣卷到没开播先开展",
       "onboard_time": 1766986819,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54215,
-      "num": 178140,
-      "word": "被迪丽热巴这一个眼神看哭了",
-      "onboard_time": 1767000141,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2411,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48078,
+      "num": 213143,
+      "word": "试驾开出了神仙盲盒",
+      "onboard_time": 1766995521,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47683,
       "num": 124245,
       "word": "台北将向上海赠送一对黑脚企鹅",
@@ -2467,16 +2523,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42858,
-      "num": 213143,
-      "word": "试驾开出了神仙盲盒",
-      "onboard_time": 1766995521,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 42583,
-      "num": 175919,
+      "num": 191125,
       "word": "安踏助力十支中国国家队征战米兰",
       "onboard_time": 1766999120,
       "rank": 19,
@@ -2708,7 +2756,7 @@
     },
     {
       "raw_hot": 25381,
-      "num": 360600,
+      "num": 378749,
       "word": "2025我们的家国记忆",
       "onboard_time": 1766998881,
       "rank": 2,
@@ -2771,6 +2819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20889,
+      "num": 96530,
+      "word": "台退役少将问台军能否来得及反应",
+      "onboard_time": 1767001100,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20763,
       "num": 214465,
       "word": "收紧锁链三面围岛关门打狗",
@@ -2801,6 +2857,14 @@
       "onboard_time": 1767000022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17812,
+      "num": 89234,
+      "word": "TFING想开专场李飞听到了吗",
+      "onboard_time": 1767001822,
+      "rank": 39,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 16912,
@@ -2873,14 +2937,6 @@
       "onboard_time": 1766982561,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10286,
-      "num": 96530,
-      "word": "台退役少将问台军能否来得及反应",
-      "onboard_time": 1767001100,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7131,
