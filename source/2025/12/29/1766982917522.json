@@ -1,0 +1,410 @@
+{
+  "runTime": 1766982917522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476170,
+        "num": 1476170,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644640,
+        "num": 644640,
+        "word": "骄阳似我 苏州没有机场",
+        "onboard_time": 1766977220,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62831,
+        "num": 588571,
+        "word": "2026跨年大范围雨雪登场",
+        "onboard_time": 1766979981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650250,
+        "num": 576903,
+        "word": "医生称薯片是垃圾食品中的垃圾食品",
+        "onboard_time": 1766977400,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560240,
+        "num": 560240,
+        "word": "东部战区",
+        "onboard_time": 1766967019,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 431615,
+        "num": 431615,
+        "word": "健康度用到0的电池",
+        "onboard_time": 1766978961,
+        "rank": 5,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 410530,
+        "num": 410530,
+        "word": "青你成团选手在livehouse当保洁",
+        "onboard_time": 1766981301,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353602,
+        "num": 353602,
+        "word": "张子枫马嘉祺新剧官宣海报",
+        "onboard_time": 1766979620,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320270,
+        "num": 320270,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294988,
+        "num": 294988,
+        "word": "女子开浴霸洗澡突然起火",
+        "onboard_time": 1766977760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627696,
+        "num": 290502,
+        "word": "杨紫VOGUE首张封面",
+        "onboard_time": 1766980340,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 454108,
+        "num": 285828,
+        "word": "45岁女子被女邻居砍伤身亡",
+        "onboard_time": 1766978360,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407878,
+        "num": 277100,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260853,
+        "num": 260853,
+        "word": "上海禁毒回应霸王茶姬咖啡因争议",
+        "onboard_time": 1766972060,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233864,
+        "num": 233864,
+        "word": "中国外交年底干了一件大好事",
+        "onboard_time": 1766981422,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201146,
+        "num": 201146,
+        "word": "第五人格",
+        "onboard_time": 1766980340,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131368,
+        "num": 201093,
+        "word": "和月经周期同步生活",
+        "onboard_time": 1766981182,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27525,
+        "num": 200963,
+        "word": "我的年度听歌报告以非凡收尾",
+        "onboard_time": 1766981122,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 7131,
+        "num": 200848,
+        "word": "高超高越三亚海边神图有了",
+        "onboard_time": 1766982561,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 336594,
+        "num": 200660,
+        "word": "时代少年团第三张实体专预约",
+        "onboard_time": 1766979981,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370094,
+        "num": 200598,
+        "word": "杨幂 VOGUE",
+        "onboard_time": 1766981001,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 359132,
+        "num": 200499,
+        "word": "年度歌手 方大同",
+        "onboard_time": 1766977460,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223348,
+        "num": 200279,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766979919,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74791,
+        "num": 200217,
+        "word": "东部战区正义使命2025演习现场画面",
+        "onboard_time": 1766981542,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 214742,
+        "num": 200120,
+        "word": "为什么午睡30分钟是个坎",
+        "onboard_time": 1766967619,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206380,
+        "num": 199881,
+        "word": "2025全球百大最帅面孔",
+        "onboard_time": 1766965458,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199869,
+        "num": 199869,
+        "word": "冯绍峰领衔主演我们生活在南京",
+        "onboard_time": 1766981060,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198805,
+        "num": 198805,
+        "word": "白鹿田曦薇入围全球百大最美面孔",
+        "onboard_time": 1766976200,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191554,
+        "num": 191554,
+        "word": "骄阳似我",
+        "onboard_time": 1766981721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171623,
+        "num": 187554,
+        "word": "2025鸿蒙伙伴生态突围年度报告",
+        "onboard_time": 1766981661,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458528,
+        "num": 186896,
+        "word": "多爱做饭的人才能把灶台装成这样",
+        "onboard_time": 1766982622,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62094,
+        "num": 185095,
+        "word": "新款小鹏P7+即将全球36国发布",
+        "onboard_time": 1766978480,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184864,
+        "num": 184864,
+        "word": "王嘉尔时代少年团终于要合作上了",
+        "onboard_time": 1766981902,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179493,
+        "num": 179493,
+        "word": "19张剧抛脸能在一部剧里飙戏",
+        "onboard_time": 1766982020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176840,
+        "num": 176840,
+        "word": "班主任看起来都没这俩小学生成熟",
+        "onboard_time": 1766982622,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161194,
+        "num": 161194,
+        "word": "朱易出现失误无缘米兰冬奥会",
+        "onboard_time": 1766982802,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32879,
+        "num": 159137,
+        "word": "祖孙3人被邻居杀害案二审维持原判",
+        "onboard_time": 1766981782,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178846,
+        "num": 159119,
+        "word": "庾澄庆说王菲很难搞",
+        "onboard_time": 1766978180,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158934,
+        "num": 158934,
+        "word": "英国将禁止活煮龙虾",
+        "onboard_time": 1766971280,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10371,
+        "num": 158073,
+        "word": "谁还没看过夸年岛喜剧冬晚啊",
+        "onboard_time": 1766982561,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173064,
+        "num": 158001,
+        "word": "李连杰再回应换心脏传言",
+        "onboard_time": 1766981842,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167088,
+        "num": 156814,
+        "word": "宋威龙赵今麦飘雪转场",
+        "onboard_time": 1766979141,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162714,
+        "num": 155853,
+        "word": "短国最权威的一段吻戏来了",
+        "onboard_time": 1766981600,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155200,
+        "num": 155200,
+        "word": "台媒用突袭式描述解放军对台演习",
+        "onboard_time": 1766979620,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149528,
+        "num": 149528,
+        "word": "减肥成功的真正标志",
+        "onboard_time": 1766981902,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 40715,
+        "num": 148404,
+        "word": "问界M8有爱就有家",
+        "onboard_time": 1766977640,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148381,
+        "num": 148381,
+        "word": "QQ你有这功能怎么不早说",
+        "onboard_time": 1766980280,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146081,
+        "num": 146081,
+        "word": "猫走丢后自己到派出所报案",
+        "onboard_time": 1766982082,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141613,
+        "num": 141613,
+        "word": "人之初",
+        "onboard_time": 1766963477,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59749,
+        "num": 140012,
+        "word": "蒋胜男主张女性要实现财务自由",
+        "onboard_time": 1766981060,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系三农#"
+    }
+  }
+}
