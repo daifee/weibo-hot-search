@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766994458040,
+  "endTime": 1766997681296,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694810,
+      "num": 187323,
+      "word": "福原爱首谈和江宏杰离婚原因",
+      "onboard_time": 1766995820,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692568,
       "num": 529248,
       "word": "黄晓明自曝曾救过刘亦菲的命",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500146,
+      "num": 237394,
+      "word": "对loft公寓彻底祛魅了",
+      "onboard_time": 1766993600,
+      "rank": 43,
+      "category": "休闲,情感"
+    },
+    {
       "raw_hot": 499245,
       "num": 432110,
       "word": "谭松韵台词",
@@ -513,6 +529,14 @@
       "onboard_time": 1766841082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469096,
+      "num": 1075055,
+      "word": "海警给台湾打了个中国结",
+      "onboard_time": 1766994920,
+      "rank": 0,
+      "category": "军事"
     },
     {
       "raw_hot": 461749,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336841,
+      "num": 232246,
+      "word": "原来35岁那么刀人",
+      "onboard_time": 1766994019,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 335345,
       "num": 247282,
       "word": "王星说恋爱4年没结婚是因为结不起",
@@ -1043,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312583,
+      "num": 143136,
+      "word": "她不是销冠没人能是销冠了",
+      "onboard_time": 1766995761,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 307904,
       "num": 307904,
       "word": "独居离世女子遗产预计近300万",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1766900300,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286963,
+      "num": 205755,
+      "word": "杨紫迪丽热巴90花双TOP登五大开年",
+      "onboard_time": 1766994980,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 286460,
@@ -1211,20 +1259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271820,
+      "num": 143076,
+      "word": "福原爱泡温泉时发现怀孕",
+      "onboard_time": 1766996720,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271220,
       "num": 198805,
       "word": "白鹿田曦薇入围全球百大最美面孔",
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269776,
-      "num": 134652,
-      "word": "对loft公寓彻底祛魅了",
-      "onboard_time": 1766993600,
-      "rank": 43,
-      "category": "休闲,情感"
     },
     {
       "raw_hot": 269284,
@@ -1307,6 +1355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253183,
+      "num": 200141,
+      "word": "梁洁美成洋娃娃了",
+      "onboard_time": 1766993901,
+      "rank": 26,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 253020,
       "num": 253020,
       "word": "得闲谨制4次票房逆跌",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1766840181,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 247423,
+      "num": 247423,
+      "word": "何与 双轨前一天收官新剧第二天开机",
+      "onboard_time": 1766993840,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 246470,
@@ -1571,6 +1635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 215928,
+      "num": 215928,
+      "word": "孙颖莎退出多哈冠军赛",
+      "onboard_time": 1766996541,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214780,
       "num": 214780,
       "word": "玉茗茶骨摇来了短国半壁江山",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1766970619,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211981,
+      "num": 211981,
+      "word": "优酷2025夯爆了",
+      "onboard_time": 1766994560,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 211896,
@@ -1745,14 +1825,6 @@
       "onboard_time": 1766982503,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198890,
-      "num": 176688,
-      "word": "何与 双轨前一天收官新剧第二天开机",
-      "onboard_time": 1766993840,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 198370,
@@ -2163,6 +2235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170493,
+      "num": 143038,
+      "word": "国际乒联2026年第1周世界排名出炉",
+      "onboard_time": 1766997261,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170301,
       "num": 218151,
       "word": "零跑发布会",
@@ -2475,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155306,
+      "num": 155306,
+      "word": "宋威龙 女装大佬竟是我的上司",
+      "onboard_time": 1766995761,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154940,
       "num": 154940,
       "word": "周洁琼跳了veryveryvery",
@@ -2643,14 +2731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145470,
-      "num": 145470,
-      "word": "梁洁美成洋娃娃了",
-      "onboard_time": 1766993901,
-      "rank": 26,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 145396,
       "num": 145396,
       "word": "苏新皓前滚翻",
@@ -2691,12 +2771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143153,
+      "num": 143153,
+      "word": "徐冬冬谈与尹子维9年分分合合",
+      "onboard_time": 1766995461,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142959,
       "num": 142959,
       "word": "中国奇谭2终极预告信息量",
       "onboard_time": 1766980520,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142926,
+      "num": 142926,
+      "word": "领证和不领证的区别",
+      "onboard_time": 1766997199,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 142716,
@@ -3011,14 +3107,6 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 130506,
-      "num": 130506,
-      "word": "原来35岁那么刀人",
-      "onboard_time": 1766994019,
-      "rank": 32,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 130015,
       "num": 182437,
       "word": "刑释人员是怎么当上国企高管的",
@@ -3049,6 +3137,14 @@
       "onboard_time": 1766932643,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "演习宣布2小时后台当局做出反应",
+      "onboard_time": 1766994920,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129122,
@@ -3587,6 +3683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112214,
+      "num": 112214,
+      "word": "汪顺发文澄清体能师征调争议",
+      "onboard_time": 1766996121,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111913,
       "num": 111913,
       "word": "现在就出发",
@@ -3867,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103334,
+      "num": 103334,
+      "word": "谭松韵一哭我鼻子一酸",
+      "onboard_time": 1766997021,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103264,
       "num": 144402,
       "word": "教练透露孙颖莎一直在关注乒超",
@@ -3889,6 +4001,14 @@
       "onboard_time": 1766974339,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 102637,
+      "num": 102637,
+      "word": "热量低但一吃就饱的东西",
+      "onboard_time": 1766995641,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 102493,
@@ -4155,6 +4275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97026,
+      "num": 97026,
+      "word": "青你1选手上恋综不谈恋爱当木工",
+      "onboard_time": 1766997562,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96773,
       "num": 96773,
       "word": "永州市委书记与球员拥抱被举高高",
@@ -4217,6 +4345,14 @@
       "onboard_time": 1766897302,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95080,
+      "num": 95080,
+      "word": "实探46岁独居离世女子生前小区",
+      "onboard_time": 1766997620,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95077,
@@ -4496,6 +4632,14 @@
       "word": "虞书欣何与双轨收官剧照",
       "onboard_time": 1766899701,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85705,
+      "num": 96721,
+      "word": "白鹿天选古偶女主",
+      "onboard_time": 1766996002,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -4843,6 +4987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72828,
+      "num": 206528,
+      "word": "刘德华非凡大师主题曲好听",
+      "onboard_time": 1766991980,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 72629,
       "num": 165573,
       "word": "蒋胜男主张女性要实现财务自由",
@@ -4985,6 +5137,14 @@
       "onboard_time": 1766974519,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65907,
+      "num": 190017,
+      "word": "中柬泰三国外长挽手臂合影",
+      "onboard_time": 1766996781,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65714,
@@ -5427,6 +5587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41369,
+      "num": 188546,
+      "word": "2025跨年影像存放指南",
+      "onboard_time": 1766995939,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41123,
       "num": 179691,
       "word": "AUDI开启30城任意门",
@@ -5459,6 +5627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39154,
+      "num": 189017,
+      "word": "洗钱人员车里1本刑法1本民法典",
+      "onboard_time": 1766997199,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38949,
       "num": 124549,
       "word": "砍死45岁邻居嫌犯曾因精神问题就医",
@@ -5481,6 +5657,14 @@
       "onboard_time": 1766861056,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37255,
+      "num": 103844,
+      "word": "专家反对把奶茶比作准毒品",
+      "onboard_time": 1766997620,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37218,
@@ -5544,6 +5728,14 @@
       "word": "视频平台不能因为监督才退费",
       "onboard_time": 1766929702,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34280,
+      "num": 253730,
+      "word": "2025十大新闻",
+      "onboard_time": 1766979080,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -5681,14 +5873,6 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28416,
-      "num": 206528,
-      "word": "刘德华非凡大师主题曲好听",
-      "onboard_time": 1766991980,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 27694,
@@ -5857,6 +6041,14 @@
       "onboard_time": 1766925442,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22629,
+      "num": 191393,
+      "word": "试驾开出了神仙盲盒",
+      "onboard_time": 1766995521,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 22481,
