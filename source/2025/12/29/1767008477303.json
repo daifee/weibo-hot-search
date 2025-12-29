@@ -1,0 +1,410 @@
+{
+  "runTime": 1767008477303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 544429,
+        "num": 1087108,
+        "word": "泡泡玛特开始五折甩卖了",
+        "onboard_time": 1766997981,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 430440,
+        "num": 430440,
+        "word": "店铺回应退货羽绒服口袋现机票",
+        "onboard_time": 1767003861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29680,
+        "num": 243894,
+        "word": "2025我们的家国记忆",
+        "onboard_time": 1766998881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208253,
+        "num": 208253,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206971,
+        "num": 206971,
+        "word": "央视跨年晚会",
+        "onboard_time": 1767003740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723473,
+        "num": 200393,
+        "word": "男子出狱砍死出轨妻子前曾想杀女儿",
+        "onboard_time": 1767005600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600562,
+        "num": 196837,
+        "word": "黄景瑜给爱奇艺道歉",
+        "onboard_time": 1767003321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275971,
+        "num": 195573,
+        "word": "在家里跨年vs在外面跨年",
+        "onboard_time": 1767002721,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192773,
+        "num": 192773,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 8,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 233938,
+        "num": 188561,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428040,
+        "num": 187729,
+        "word": "张凌赫洗澡只要20分钟",
+        "onboard_time": 1767005900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415847,
+        "num": 182624,
+        "word": "肖战直播",
+        "onboard_time": 1767007520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301466,
+        "num": 176125,
+        "word": "杨幂 你看又一个拍婚纱的",
+        "onboard_time": 1767002901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226654,
+        "num": 171368,
+        "word": "宁艺卓不出席红白歌会",
+        "onboard_time": 1767007461,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222059,
+        "num": 167649,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195340,
+        "num": 164245,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159552,
+        "num": 159552,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220121,
+        "num": 159302,
+        "word": "杨幂回应40岁了依然有很多困惑",
+        "onboard_time": 1767001039,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158209,
+        "num": 158209,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157894,
+        "num": 157894,
+        "word": "一副局长被前妻举报与异性共处一室",
+        "onboard_time": 1767006859,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70908,
+        "num": 155406,
+        "word": "卫健局回应生娃购房最高奖补75平",
+        "onboard_time": 1767007221,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 155228,
+        "word": "杨紫迪丽热巴90花双TOP登五大开年",
+        "onboard_time": 1766994980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154772,
+        "num": 154772,
+        "word": "福原爱首谈和江宏杰离婚原因",
+        "onboard_time": 1766995820,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150259,
+        "num": 150259,
+        "word": "日本夫妇惨死桑拿房",
+        "onboard_time": 1767005541,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "李二牛爆改霸总当卧底",
+        "onboard_time": 1767005419,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130737,
+        "num": 130737,
+        "word": "张杰跨年演唱会点歌",
+        "onboard_time": 1767002359,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "她不是销冠没人能是销冠了",
+        "onboard_time": 1766995761,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 115389,
+        "num": 115389,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108198,
+        "num": 108198,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 107702,
+        "word": "海警给台湾打了个中国结",
+        "onboard_time": 1766994920,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 107571,
+        "num": 107571,
+        "word": "游客将狐猴摔下地后抽烟离去",
+        "onboard_time": 1767006020,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104829,
+        "num": 104829,
+        "word": "相机才是iPhone里最贵的APP",
+        "onboard_time": 1766999300,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104642,
+        "num": 104642,
+        "word": "林屿森梦男 庄序辱追",
+        "onboard_time": 1767004400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100470,
+        "num": 100470,
+        "word": "原来业内是这么看张若昀的",
+        "onboard_time": 1767007642,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 100203,
+        "word": "中方坚决反对以色列承认索马里兰",
+        "onboard_time": 1767004339,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98731,
+        "num": 98731,
+        "word": "逍遥 犬夜叉",
+        "onboard_time": 1767008181,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97136,
+        "num": 97136,
+        "word": "原来35岁那么刀人",
+        "onboard_time": 1766994019,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 96719,
+        "num": 96719,
+        "word": "宋威龙女主运",
+        "onboard_time": 1766999000,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94779,
+        "num": 94779,
+        "word": "2026KPL选秀大会",
+        "onboard_time": 1767005719,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92742,
+        "num": 92742,
+        "word": "怪不得古代皇上受不了有人功高盖主",
+        "onboard_time": 1767002721,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92455,
+        "num": 92455,
+        "word": "人之初",
+        "onboard_time": 1767003380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91559,
+        "num": 91559,
+        "word": "王鹤棣孟子义同框骑马",
+        "onboard_time": 1767006440,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92095,
+        "num": 90268,
+        "word": "原来这个表情包是陈妍希的手",
+        "onboard_time": 1767003619,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85420,
+        "num": 89229,
+        "word": "心有林曦见家长",
+        "onboard_time": 1767006981,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88930,
+        "num": 88930,
+        "word": "博士加硕士双学位项目试点",
+        "onboard_time": 1767005301,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88088,
+        "num": 88088,
+        "word": "庄序 装",
+        "onboard_time": 1767000260,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84432,
+        "num": 84432,
+        "word": "娜扎演技",
+        "onboard_time": 1766990900,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84359,
+        "num": 84359,
+        "word": "逍遥",
+        "onboard_time": 1767003141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87655,
+        "num": 84299,
+        "word": "期末到底考不考骄阳似我",
+        "onboard_time": 1767002840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84428,
+        "num": 84165,
+        "word": "英国岳父参观中国后彻底改变看法",
+        "onboard_time": 1767006259,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#回眸2025年大国外交#"
+    }
+  }
+}

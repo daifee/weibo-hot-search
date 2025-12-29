@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767007616686,
+  "endTime": 1767008477303,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723473,
+      "num": 228612,
+      "word": "男子出狱砍死出轨妻子前曾想杀女儿",
+      "onboard_time": 1767005600,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 722676,
       "num": 247788,
       "word": "尚雯婕胃里割了六个息肉",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600562,
+      "num": 316158,
+      "word": "黄景瑜给爱奇艺道歉",
+      "onboard_time": 1767003321,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595798,
       "num": 209706,
       "word": "章子怡女儿醒醒十岁了",
@@ -417,14 +433,6 @@
       "onboard_time": 1766919501,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 568965,
-      "num": 316158,
-      "word": "黄景瑜给爱奇艺道歉",
-      "onboard_time": 1767003321,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 562079,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428040,
+      "num": 210185,
+      "word": "张凌赫洗澡只要20分钟",
+      "onboard_time": 1767005900,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422389,
       "num": 907860,
       "word": "被非洲洋洋绑架受害人至今无法走路",
@@ -769,6 +785,14 @@
       "onboard_time": 1766978719,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 415847,
+      "num": 182624,
+      "word": "肖战直播",
+      "onboard_time": 1767007520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 412103,
@@ -896,14 +920,6 @@
       "word": "女子开浴霸洗澡突然起火",
       "onboard_time": 1766977760,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378951,
-      "num": 228612,
-      "word": "男子出狱砍死出轨妻子前曾想杀女儿",
-      "onboard_time": 1767005600,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1355,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275971,
+      "num": 254103,
+      "word": "在家里跨年vs在外面跨年",
+      "onboard_time": 1767002721,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275075,
       "num": 270559,
       "word": "台湾海域6.6级地震现场画面",
@@ -1379,14 +1403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271822,
-      "num": 254103,
-      "word": "在家里跨年vs在外面跨年",
-      "onboard_time": 1767002721,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271220,
       "num": 198805,
       "word": "白鹿田曦薇入围全球百大最美面孔",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1767003740,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269443,
-      "num": 210185,
-      "word": "张凌赫洗澡只要20分钟",
-      "onboard_time": 1767005900,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 269284,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1766909901,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 226654,
+      "num": 171368,
+      "word": "宁艺卓不出席红白歌会",
+      "onboard_time": 1767007461,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 225161,
@@ -2291,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177211,
-      "num": 177211,
-      "word": "肖战直播",
-      "onboard_time": 1767007520,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177063,
       "num": 177063,
       "word": "第五瓜格",
@@ -2539,14 +2547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 166777,
-      "num": 166777,
-      "word": "宁艺卓不出席红白歌会",
-      "onboard_time": 1767007461,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166642,
       "num": 166642,
       "word": "李连杰回应出演吴京武侠片原因",
@@ -2707,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157894,
+      "num": 165696,
+      "word": "一副局长被前妻举报与异性共处一室",
+      "onboard_time": 1767006859,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157434,
       "num": 157434,
       "word": "沈腾画的出发团",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1767000260,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "日本夫妇惨死桑拿房",
+      "onboard_time": 1767005541,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149869,
@@ -2979,6 +2995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144021,
+      "num": 144021,
+      "word": "李二牛爆改霸总当卧底",
+      "onboard_time": 1767005419,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143884,
       "num": 143884,
       "word": "她可能还没意识到自己多牛",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1766933783,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139618,
-      "num": 139618,
-      "word": "日本夫妇惨死桑拿房",
-      "onboard_time": 1767005541,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 139076,
@@ -3737,14 +3753,6 @@
       "onboard_time": 1766984662,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119974,
-      "num": 119974,
-      "word": "李二牛爆改霸总当卧底",
-      "onboard_time": 1767005419,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 119917,
@@ -4467,6 +4475,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 100470,
+      "num": 100470,
+      "word": "原来业内是这么看张若昀的",
+      "onboard_time": 1767007642,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100340,
       "num": 100340,
       "word": "银价大跳水原因找到了",
@@ -4561,6 +4577,14 @@
       "onboard_time": 1766914520,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98731,
+      "num": 98731,
+      "word": "逍遥 犬夜叉",
+      "onboard_time": 1767008181,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 98345,
@@ -4987,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88930,
+      "num": 88930,
+      "word": "博士加硕士双学位项目试点",
+      "onboard_time": 1767005301,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88770,
       "num": 88770,
       "word": "孙颖莎王楚钦新年壁纸",
@@ -5155,20 +5187,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84428,
+      "num": 84165,
+      "word": "英国岳父参观中国后彻底改变看法",
+      "onboard_time": 1767006259,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84357,
       "num": 84357,
       "word": "张钧甯打服老外",
       "onboard_time": 1766904022,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84343,
-      "num": 84343,
-      "word": "博士加硕士双学位项目试点",
-      "onboard_time": 1767005301,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 83917,
@@ -5555,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70908,
+      "num": 164946,
+      "word": "卫健局回应生娃购房最高奖补75平",
+      "onboard_time": 1767007221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70694,
       "num": 70694,
       "word": "军演主题海报单向透明",
@@ -5792,14 +5832,6 @@
       "word": "现在很多实体商场生意差",
       "onboard_time": 1766964618,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59340,
-      "num": 165696,
-      "word": "一副局长被前妻举报与异性共处一室",
-      "onboard_time": 1767006859,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6139,14 +6171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41775,
-      "num": 164946,
-      "word": "卫健局回应生娃购房最高奖补75平",
-      "onboard_time": 1767007221,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41663,
       "num": 139245,
       "word": "湖北一企业给员工发年终奖最高160万",
@@ -6427,6 +6451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29680,
+      "num": 378749,
+      "word": "2025我们的家国记忆",
+      "onboard_time": 1766998881,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29537,
       "num": 33583,
       "word": "聂曦光今天比林屿森高",
@@ -6465,14 +6497,6 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28313,
-      "num": 378749,
-      "word": "2025我们的家国记忆",
-      "onboard_time": 1766998881,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27694,

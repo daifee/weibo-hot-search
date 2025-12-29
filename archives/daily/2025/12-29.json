@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1767007616686,
+  "endTime": 1767008477303,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723473,
+      "num": 228612,
+      "word": "男子出狱砍死出轨妻子前曾想杀女儿",
+      "onboard_time": 1767005600,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 694810,
       "num": 201922,
       "word": "福原爱首谈和江宏杰离婚原因",
@@ -107,20 +115,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 600562,
+      "num": 316158,
+      "word": "黄景瑜给爱奇艺道歉",
+      "onboard_time": 1767003321,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576690,
       "num": 358693,
       "word": "白银黄金直线暴跌",
       "onboard_time": 1766984662,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 568965,
-      "num": 316158,
-      "word": "黄景瑜给爱奇艺道歉",
-      "onboard_time": 1767003321,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 562079,
@@ -251,6 +259,14 @@
       "category": "幽默,数码"
     },
     {
+      "raw_hot": 428040,
+      "num": 210185,
+      "word": "张凌赫洗澡只要20分钟",
+      "onboard_time": 1767005900,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422389,
       "num": 907860,
       "word": "被非洲洋洋绑架受害人至今无法走路",
@@ -265,6 +281,14 @@
       "onboard_time": 1766978719,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 415847,
+      "num": 182624,
+      "word": "肖战直播",
+      "onboard_time": 1767007520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 412103,
@@ -328,14 +352,6 @@
       "word": "女子开浴霸洗澡突然起火",
       "onboard_time": 1766977760,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378951,
-      "num": 228612,
-      "word": "男子出狱砍死出轨妻子前曾想杀女儿",
-      "onboard_time": 1767005600,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -555,7 +571,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271822,
+      "raw_hot": 275971,
       "num": 254103,
       "word": "在家里跨年vs在外面跨年",
       "onboard_time": 1767002721,
@@ -577,14 +593,6 @@
       "onboard_time": 1767003740,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269443,
-      "num": 210185,
-      "word": "张凌赫洗澡只要20分钟",
-      "onboard_time": 1767005900,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 258390,
@@ -649,6 +657,14 @@
       "onboard_time": 1766981422,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226654,
+      "num": 171368,
+      "word": "宁艺卓不出席红白歌会",
+      "onboard_time": 1767007461,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 223348,
@@ -971,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177211,
-      "num": 177211,
-      "word": "肖战直播",
-      "onboard_time": 1767007520,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176840,
       "num": 176840,
       "word": "班主任看起来都没这俩小学生成熟",
@@ -1059,14 +1067,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 166777,
-      "num": 166777,
-      "word": "宁艺卓不出席红白歌会",
-      "onboard_time": 1767007461,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "罚罪2一集一个坟",
@@ -1104,6 +1104,14 @@
       "word": "100个诈骗电话中20至30人会信",
       "onboard_time": 1767000141,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157894,
+      "num": 165696,
+      "word": "一副局长被前妻举报与异性共处一室",
+      "onboard_time": 1767006859,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "日本夫妇惨死桑拿房",
+      "onboard_time": 1767005541,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149657,
       "num": 149657,
       "word": "不仅是年度歌手还是断层第一",
@@ -1259,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144021,
+      "num": 144021,
+      "word": "李二牛爆改霸总当卧底",
+      "onboard_time": 1767005419,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143153,
       "num": 143153,
       "word": "徐冬冬谈与尹子维9年分分合合",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1766991019,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139618,
-      "num": 139618,
-      "word": "日本夫妇惨死桑拿房",
-      "onboard_time": 1767005541,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138789,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1766984662,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119974,
-      "num": 119974,
-      "word": "李二牛爆改霸总当卧底",
-      "onboard_time": 1767005419,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 119666,
@@ -1867,6 +1875,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 100470,
+      "num": 100470,
+      "word": "原来业内是这么看张若昀的",
+      "onboard_time": 1767007642,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100340,
       "num": 100340,
       "word": "银价大跳水原因找到了",
@@ -1936,6 +1952,14 @@
       "word": "心有林曦见家长",
       "onboard_time": 1767006981,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98731,
+      "num": 98731,
+      "word": "逍遥 犬夜叉",
+      "onboard_time": 1767008181,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2123,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88930,
+      "num": 88930,
+      "word": "博士加硕士双学位项目试点",
+      "onboard_time": 1767005301,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88770,
       "num": 88770,
       "word": "孙颖莎王楚钦新年壁纸",
@@ -2203,12 +2235,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84343,
-      "num": 84343,
-      "word": "博士加硕士双学位项目试点",
-      "onboard_time": 1767005301,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 84428,
+      "num": 84165,
+      "word": "英国岳父参观中国后彻底改变看法",
+      "onboard_time": 1767006259,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 83388,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1767000441,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70908,
+      "num": 164946,
+      "word": "卫健局回应生娃购房最高奖补75平",
+      "onboard_time": 1767007221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70694,
@@ -2624,14 +2664,6 @@
       "word": "现在很多实体商场生意差",
       "onboard_time": 1766964618,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59340,
-      "num": 165696,
-      "word": "一副局长被前妻举报与异性共处一室",
-      "onboard_time": 1767006859,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2851,14 +2883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41775,
-      "num": 164946,
-      "word": "卫健局回应生娃购房最高奖补75平",
-      "onboard_time": 1767007221,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41369,
       "num": 205341,
       "word": "2025跨年影像存放指南",
@@ -3011,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29680,
+      "num": 378749,
+      "word": "2025我们的家国记忆",
+      "onboard_time": 1766998881,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29537,
       "num": 33583,
       "word": "聂曦光今天比林屿森高",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28313,
-      "num": 378749,
-      "word": "2025我们的家国记忆",
-      "onboard_time": 1766998881,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27652,
