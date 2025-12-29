@@ -1,0 +1,410 @@
+{
+  "runTime": 1766981744385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458106,
+        "num": 1458106,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 730125,
+        "num": 730125,
+        "word": "骄阳似我 苏州没有机场",
+        "onboard_time": 1766977220,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63045,
+        "num": 646496,
+        "word": "2026跨年大范围雨雪登场",
+        "onboard_time": 1766979981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637992,
+        "num": 637992,
+        "word": "东部战区",
+        "onboard_time": 1766967019,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 612233,
+        "num": 612233,
+        "word": "医生称薯片是垃圾食品中的垃圾食品",
+        "onboard_time": 1766977400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418034,
+        "num": 418034,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409000,
+        "num": 409000,
+        "word": "时代少年团第三张实体专预约",
+        "onboard_time": 1766979981,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401729,
+        "num": 401729,
+        "word": "张子枫马嘉祺新剧官宣海报",
+        "onboard_time": 1766979620,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397962,
+        "num": 397962,
+        "word": "45岁女子被女邻居砍伤身亡",
+        "onboard_time": 1766978360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379035,
+        "num": 379035,
+        "word": "女子开浴霸洗澡突然起火",
+        "onboard_time": 1766977760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513102,
+        "num": 368261,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475421,
+        "num": 366678,
+        "word": "杨紫VOGUE首张封面",
+        "onboard_time": 1766980340,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 343866,
+        "num": 343866,
+        "word": "年度歌手 方大同",
+        "onboard_time": 1766977460,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339919,
+        "num": 339919,
+        "word": "健康度用到0的电池",
+        "onboard_time": 1766978961,
+        "rank": 13,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 305309,
+        "num": 305309,
+        "word": "上海禁毒回应霸王茶姬咖啡因争议",
+        "onboard_time": 1766972060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294908,
+        "num": 294908,
+        "word": "第五人格",
+        "onboard_time": 1766980340,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 199556,
+        "word": "我的年度听歌报告以非凡收尾",
+        "onboard_time": 1766981122,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76206,
+        "num": 186918,
+        "word": "和月经周期同步生活",
+        "onboard_time": 1766981182,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184076,
+        "num": 184076,
+        "word": "英国将禁止活煮龙虾",
+        "onboard_time": 1766971280,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44742,
+        "num": 183838,
+        "word": "中国外交年底干了一件大好事",
+        "onboard_time": 1766981422,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274601,
+        "num": 183834,
+        "word": "杨幂 VOGUE",
+        "onboard_time": 1766981001,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 183824,
+        "num": 183824,
+        "word": "2026放假安排日历",
+        "onboard_time": 1766971579,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271220,
+        "num": 183650,
+        "word": "白鹿田曦薇入围全球百大最美面孔",
+        "onboard_time": 1766976200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53403,
+        "num": 181776,
+        "word": "东部战区正义使命2025演习现场画面",
+        "onboard_time": 1766981542,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 231571,
+        "num": 181579,
+        "word": "青你成团选手在livehouse当保洁",
+        "onboard_time": 1766981301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88164,
+        "num": 180020,
+        "word": "新款小鹏P7+即将全球36国发布",
+        "onboard_time": 1766978480,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70288,
+        "num": 179023,
+        "word": "问界M8有爱就有家",
+        "onboard_time": 1766977640,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265672,
+        "num": 178302,
+        "word": "2025全球百大最帅面孔",
+        "onboard_time": 1766965458,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211896,
+        "num": 176598,
+        "word": "庾澄庆说王菲很难搞",
+        "onboard_time": 1766978180,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211172,
+        "num": 176256,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766979919,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206966,
+        "num": 174936,
+        "word": "宋威龙赵今麦飘雪转场",
+        "onboard_time": 1766979141,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205114,
+        "num": 173337,
+        "word": "为什么午睡30分钟是个坎",
+        "onboard_time": 1766967619,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200519,
+        "num": 172665,
+        "word": "冯绍峰领衔主演我们生活在南京",
+        "onboard_time": 1766981060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185339,
+        "num": 171843,
+        "word": "骄阳似我",
+        "onboard_time": 1766981721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184431,
+        "num": 170298,
+        "word": "唐嫣找准了自己赛道",
+        "onboard_time": 1766973498,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155705,
+        "num": 169326,
+        "word": "台媒用突袭式描述解放军对台演习",
+        "onboard_time": 1766979620,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119255,
+        "num": 168097,
+        "word": "2025鸿蒙伙伴生态突围年度报告",
+        "onboard_time": 1766981661,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29257,
+        "num": 167060,
+        "word": "南京最贵成交法拍房欠30万物业费",
+        "onboard_time": 1766980822,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72629,
+        "num": 165573,
+        "word": "蒋胜男主张女性要实现财务自由",
+        "onboard_time": 1766981060,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165478,
+        "num": 165478,
+        "word": "罚罪2一集一个坟",
+        "onboard_time": 1766980701,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155919,
+        "num": 155919,
+        "word": "丁程鑫刘耀文严浩翔 今天你们卖",
+        "onboard_time": 1766979141,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144355,
+        "num": 144355,
+        "word": "QQ你有这功能怎么不早说",
+        "onboard_time": 1766980280,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142959,
+        "num": 142959,
+        "word": "中国奇谭2终极预告信息量",
+        "onboard_time": 1766980520,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140080,
+        "num": 140080,
+        "word": "这居然是费启鸣写的",
+        "onboard_time": 1766977880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135652,
+        "num": 135652,
+        "word": "唐嫣很有大花那股劲了",
+        "onboard_time": 1766979861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130976,
+        "num": 130976,
+        "word": "爸爸冲奶粉9个月宝宝急到开口说话",
+        "onboard_time": 1766974219,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "李昀锐合作的荧幕cp到底是谁",
+        "onboard_time": 1766978601,
+        "rank": 46,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 124281,
+        "num": 124281,
+        "word": "国王vs湖人",
+        "onboard_time": 1766980761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123468,
+        "num": 123468,
+        "word": "徐冬冬尹子维婚礼物料曝光",
+        "onboard_time": 1766978899,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122992,
+        "num": 122992,
+        "word": "窈窈有期开机",
+        "onboard_time": 1766973021,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系三农#"
+    }
+  }
+}
