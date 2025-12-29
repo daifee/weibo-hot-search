@@ -1,0 +1,410 @@
+{
+  "runTime": 1766998532998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532305,
+        "num": 1085168,
+        "word": "海警给台湾打了个中国结",
+        "onboard_time": 1766994920,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 374901,
+        "num": 374901,
+        "word": "优酷2025夯爆了",
+        "onboard_time": 1766994560,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30962,
+        "num": 371082,
+        "word": "全国学前儿童学籍管理办法发布",
+        "onboard_time": 1766977160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369341,
+        "num": 369341,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295512,
+        "num": 295512,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442005,
+        "num": 280030,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 5,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 356880,
+        "num": 268338,
+        "word": "原来35岁那么刀人",
+        "onboard_time": 1766994019,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 237785,
+        "num": 237785,
+        "word": "独居离世女子遗产预计近300万",
+        "onboard_time": 1766990361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214520,
+        "num": 214520,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20763,
+        "num": 214465,
+        "word": "收紧锁链三面围岛关门打狗",
+        "onboard_time": 1766998039,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401232,
+        "num": 213834,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21265,
+        "num": 213143,
+        "word": "试驾开出了神仙盲盒",
+        "onboard_time": 1766995521,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 302491,
+        "num": 212850,
+        "word": "杨紫迪丽热巴90花双TOP登五大开年",
+        "onboard_time": 1766994980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265479,
+        "num": 212099,
+        "word": "演员闫学晶哭穷引争议",
+        "onboard_time": 1766998341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258390,
+        "num": 211444,
+        "word": "梁洁美成洋娃娃了",
+        "onboard_time": 1766993901,
+        "rank": 14,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 232790,
+        "num": 210740,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218043,
+        "num": 210313,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210142,
+        "num": 210142,
+        "word": "iPhone最经典的四款机型",
+        "onboard_time": 1766990900,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37191,
+        "num": 208854,
+        "word": "2025十大新闻",
+        "onboard_time": 1766979080,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32419,
+        "num": 205341,
+        "word": "2025跨年影像存放指南",
+        "onboard_time": 1766995939,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 597358,
+        "num": 201922,
+        "word": "福原爱首谈和江宏杰离婚原因",
+        "onboard_time": 1766995820,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539432,
+        "num": 196869,
+        "word": "成龙因戏中不能死错过霸王别姬",
+        "onboard_time": 1766986101,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79009,
+        "num": 194836,
+        "word": "洗钱人员车里1本刑法1本民法典",
+        "onboard_time": 1766997199,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285177,
+        "num": 188677,
+        "word": "娜扎演技",
+        "onboard_time": 1766990900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262215,
+        "num": 187310,
+        "word": "她不是销冠没人能是销冠了",
+        "onboard_time": 1766995761,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 184309,
+        "num": 184309,
+        "word": "孙颖莎退赛杜凯琹递补",
+        "onboard_time": 1766997861,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180867,
+        "num": 180867,
+        "word": "何与 双轨前一天收官新剧第二天开机",
+        "onboard_time": 1766993840,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173008,
+        "num": 173008,
+        "word": "钱要花在能接住疲惫的地方",
+        "onboard_time": 1766992700,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171767,
+        "num": 171767,
+        "word": "中柬泰三国外长挽手臂合影",
+        "onboard_time": 1766996781,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167716,
+        "num": 167716,
+        "word": "白银黄金直线暴跌",
+        "onboard_time": 1766984662,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166128,
+        "num": 166128,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157535,
+        "num": 157535,
+        "word": "泡泡玛特开始五折甩卖了",
+        "onboard_time": 1766997981,
+        "rank": 31,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 156972,
+        "num": 156972,
+        "word": "宋威龙 女装大佬竟是我的上司",
+        "onboard_time": 1766995761,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152881,
+        "num": 152881,
+        "word": "国际乒联2026年第1周世界排名出炉",
+        "onboard_time": 1766997261,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141652,
+        "num": 141652,
+        "word": "张杰演唱会嘉宾",
+        "onboard_time": 1766986700,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139925,
+        "num": 139925,
+        "word": "一哥再爆料杜克",
+        "onboard_time": 1766985201,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135149,
+        "num": 135149,
+        "word": "为什么不结婚父母会被别人看不起",
+        "onboard_time": 1766989220,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127462,
+        "num": 127462,
+        "word": "谁来管管娜扎这无死角的美貌",
+        "onboard_time": 1766997920,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31172,
+        "num": 125405,
+        "word": "专家反对把奶茶比作准毒品",
+        "onboard_time": 1766997620,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123784,
+        "num": 123784,
+        "word": "Desire4国风音乐会录制现场",
+        "onboard_time": 1766997861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120900,
+        "num": 120900,
+        "word": "母亲穿上16岁已故女儿装扮",
+        "onboard_time": 1766988141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120109,
+        "num": 120109,
+        "word": "青你1选手上恋综不谈恋爱当木工",
+        "onboard_time": 1766997562,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115816,
+        "num": 115816,
+        "word": "玉茗茶骨首播反响",
+        "onboard_time": 1766990600,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109004,
+        "num": 109004,
+        "word": "徐冬冬谈与尹子维9年分分合合",
+        "onboard_time": 1766995461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108225,
+        "num": 108225,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102443,
+        "num": 102443,
+        "word": "热量低但一吃就饱的东西",
+        "onboard_time": 1766995641,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100251,
+        "num": 100251,
+        "word": "实探46岁独居离世女子生前小区",
+        "onboard_time": 1766997620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99398,
+        "num": 99398,
+        "word": "被冬天确诊为保暖型人格",
+        "onboard_time": 1766998460,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97071,
+        "num": 97071,
+        "word": "以后去猫咖穿勃肯鞋",
+        "onboard_time": 1766990001,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90175,
+        "num": 96802,
+        "word": "陈少熙直播",
+        "onboard_time": 1766998341,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#回眸2025年大国外交#"
+    }
+  }
+}
