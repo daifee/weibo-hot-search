@@ -1,0 +1,410 @@
+{
+  "runTime": 1766986608276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831009,
+        "num": 1132961,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362219,
+        "num": 362219,
+        "word": "骄阳似我 苏州没有机场",
+        "onboard_time": 1766977220,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42327,
+        "num": 359792,
+        "word": "2026跨年大范围雨雪登场",
+        "onboard_time": 1766979981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414341,
+        "num": 358693,
+        "word": "白银黄金直线暴跌",
+        "onboard_time": 1766984662,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 357493,
+        "num": 357493,
+        "word": "青你成团选手在livehouse当保洁",
+        "onboard_time": 1766981301,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321224,
+        "num": 321224,
+        "word": "朱易出现失误无缘米兰冬奥会",
+        "onboard_time": 1766982802,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252071,
+        "num": 252071,
+        "word": "健康度用到0的电池",
+        "onboard_time": 1766978961,
+        "rank": 6,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 249411,
+        "num": 249411,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239547,
+        "num": 239547,
+        "word": "医生称薯片是垃圾食品中的垃圾食品",
+        "onboard_time": 1766977400,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185068,
+        "num": 185068,
+        "word": "女子开浴霸洗澡突然起火",
+        "onboard_time": 1766977760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238235,
+        "num": 179799,
+        "word": "时代少年团第三张实体专预约",
+        "onboard_time": 1766979981,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 433548,
+        "num": 178388,
+        "word": "李连杰再回应换心脏传言",
+        "onboard_time": 1766981842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398688,
+        "num": 174317,
+        "word": "杨紫VOGUE首张封面",
+        "onboard_time": 1766980340,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168748,
+        "num": 168748,
+        "word": "上海禁毒回应霸王茶姬咖啡因争议",
+        "onboard_time": 1766972060,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164919,
+        "num": 164919,
+        "word": "小孩饭 大人饭",
+        "onboard_time": 1766983941,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160001,
+        "num": 160001,
+        "word": "中国外交年底干了一件大好事",
+        "onboard_time": 1766981422,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366939,
+        "num": 158713,
+        "word": "杨幂 VOGUE",
+        "onboard_time": 1766981001,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 156167,
+        "num": 156167,
+        "word": "东部战区",
+        "onboard_time": 1766967019,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 155801,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104186,
+        "num": 155006,
+        "word": "周深 心理委员我不得劲",
+        "onboard_time": 1766985860,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1176658,
+        "num": 154768,
+        "word": "炎亚纶自曝交往过150个对象",
+        "onboard_time": 1766983462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254744,
+        "num": 154237,
+        "word": "杨幂吃固体杨枝甘露沉默了",
+        "onboard_time": 1766931743,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240313,
+        "num": 153657,
+        "word": "一哥再爆料杜克",
+        "onboard_time": 1766985201,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235914,
+        "num": 152669,
+        "word": "程潇回应首演恶女",
+        "onboard_time": 1766985022,
+        "rank": 23,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 199275,
+        "num": 152333,
+        "word": "女子塑料袋洗衣服效果惊人",
+        "onboard_time": 1766982503,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 151873,
+        "word": "苏州梅友机场",
+        "onboard_time": 1766984542,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165869,
+        "num": 151335,
+        "word": "多爱做饭的人才能把灶台装成这样",
+        "onboard_time": 1766982622,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161633,
+        "num": 150327,
+        "word": "成龙因戏中不能死错过霸王别姬",
+        "onboard_time": 1766986101,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 150130,
+        "word": "为什么午睡30分钟是个坎",
+        "onboard_time": 1766967619,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149657,
+        "num": 149657,
+        "word": "不仅是年度歌手还是断层第一",
+        "onboard_time": 1766985081,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148087,
+        "num": 148087,
+        "word": "贺峻霖主持挑杯决赛",
+        "onboard_time": 1766984001,
+        "rank": 30,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 140272,
+        "num": 140272,
+        "word": "猴哥说车前妻自曝与一男生在接触中",
+        "onboard_time": 1766984242,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136818,
+        "num": 136818,
+        "word": "QQ你有这功能怎么不早说",
+        "onboard_time": 1766980280,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120077,
+        "num": 120077,
+        "word": "KPL嘉宾天团挑杯决赛已就位",
+        "onboard_time": 1766984662,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121978,
+        "num": 120058,
+        "word": "一个绝佳的跨年旅游方式",
+        "onboard_time": 1766985321,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88103,
+        "num": 119691,
+        "word": "2025鸿蒙伙伴生态突围年度报告",
+        "onboard_time": 1766981661,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119666,
+        "num": 119666,
+        "word": "只要你谈过几次恋爱就会发现",
+        "onboard_time": 1766983522,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99972,
+        "num": 115363,
+        "word": "玉茗茶骨第一章弼马温进女儿国",
+        "onboard_time": 1766985620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134857,
+        "num": 115265,
+        "word": "冯绍峰领衔主演我们生活在南京",
+        "onboard_time": 1766981060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112664,
+        "num": 112664,
+        "word": "伦纳德51分",
+        "onboard_time": 1766983462,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130779,
+        "num": 112523,
+        "word": "陈牧驰此前与吴楚一有六年情感纠葛",
+        "onboard_time": 1766986400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128459,
+        "num": 112076,
+        "word": "2025全球百大最帅面孔",
+        "onboard_time": 1766965458,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128414,
+        "num": 111719,
+        "word": "娜扎当真国色天香",
+        "onboard_time": 1766984183,
+        "rank": 42,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 126984,
+        "num": 111591,
+        "word": "迪丽热巴时尚芭莎开年刊",
+        "onboard_time": 1766979919,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "驻巴拿马使馆严正声明",
+        "onboard_time": 1766985980,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110694,
+        "num": 110694,
+        "word": "白鹿田曦薇入围全球百大最美面孔",
+        "onboard_time": 1766976200,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109980,
+        "num": 109980,
+        "word": "年度歌手 方大同",
+        "onboard_time": 1766977460,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66342,
+        "num": 108695,
+        "word": "那英 你们叫妈妈的先闭嘴",
+        "onboard_time": 1766984901,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108413,
+        "num": 108413,
+        "word": "韩昊霖应援骄阳似我梦回小范闲",
+        "onboard_time": 1766985022,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101627,
+        "num": 106793,
+        "word": "美国男子曾身在斩杀线不自知",
+        "onboard_time": 1766982922,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系三农#"
+    }
+  }
+}

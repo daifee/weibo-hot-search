@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1766982917522,
+  "endTime": 1766986608276,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -9,6 +9,14 @@
       "onboard_time": 1766979559,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1176658,
+      "num": 154768,
+      "word": "炎亚纶自曝交往过150个对象",
+      "onboard_time": 1766983462,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 833713,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433548,
+      "num": 178388,
+      "word": "李连杰再回应换心脏传言",
+      "onboard_time": 1766981842,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431615,
       "num": 431615,
       "word": "健康度用到0的电池",
@@ -121,6 +137,14 @@
       "onboard_time": 1766978719,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 414341,
+      "num": 358693,
+      "word": "白银黄金直线暴跌",
+      "onboard_time": 1766984662,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 410530,
@@ -211,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 321224,
+      "num": 321224,
+      "word": "朱易出现失误无缘米兰冬奥会",
+      "onboard_time": 1766982802,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312638,
       "num": 312638,
       "word": "窈窈有期开机",
@@ -265,6 +297,30 @@
       "onboard_time": 1766973440,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249411,
+      "num": 249411,
+      "word": "玉茗茶骨",
+      "onboard_time": 1766984602,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240313,
+      "num": 153657,
+      "word": "一哥再爆料杜克",
+      "onboard_time": 1766985201,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 235914,
+      "num": 152669,
+      "word": "程潇回应首演恶女",
+      "onboard_time": 1766985022,
+      "rank": 23,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 233864,
@@ -339,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199275,
+      "num": 152333,
+      "word": "女子塑料袋洗衣服效果惊人",
+      "onboard_time": 1766982503,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196289,
       "num": 196289,
       "word": "17岁少女1年打赏主播40多万元",
       "onboard_time": 1766932823,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193887,
+      "num": 151873,
+      "word": "苏州梅友机场",
+      "onboard_time": 1766984542,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193081,
@@ -491,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173064,
-      "num": 158001,
-      "word": "李连杰再回应换心脏传言",
-      "onboard_time": 1766981842,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171623,
       "num": 187554,
       "word": "2025鸿蒙伙伴生态突围年度报告",
@@ -531,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164919,
+      "num": 164919,
+      "word": "小孩饭 大人饭",
+      "onboard_time": 1766983941,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162714,
       "num": 155853,
       "word": "短国最权威的一段吻戏来了",
@@ -539,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161194,
-      "num": 161194,
-      "word": "朱易出现失误无缘米兰冬奥会",
-      "onboard_time": 1766982802,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 161633,
+      "num": 150327,
+      "word": "成龙因戏中不能死错过霸王别姬",
+      "onboard_time": 1766986101,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 157260,
@@ -595,6 +667,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 149657,
+      "num": 149657,
+      "word": "不仅是年度歌手还是断层第一",
+      "onboard_time": 1766985081,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149528,
       "num": 149528,
       "word": "减肥成功的真正标志",
@@ -609,6 +689,14 @@
       "onboard_time": 1766980280,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148087,
+      "num": 148087,
+      "word": "贺峻霖主持挑杯决赛",
+      "onboard_time": 1766984001,
+      "rank": 30,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 146081,
@@ -643,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140272,
+      "num": 140272,
+      "word": "猴哥说车前妻自曝与一男生在接触中",
+      "onboard_time": 1766984242,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 140080,
       "num": 140080,
       "word": "这居然是费启鸣写的",
@@ -667,12 +763,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130779,
+      "num": 112523,
+      "word": "陈牧驰此前与吴楚一有六年情感纠葛",
+      "onboard_time": 1766986400,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130550,
       "num": 130550,
       "word": "李昀锐合作的荧幕cp到底是谁",
       "onboard_time": 1766978601,
       "rank": 46,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 128414,
+      "num": 111719,
+      "word": "娜扎当真国色天香",
+      "onboard_time": 1766984183,
+      "rank": 42,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 126433,
@@ -723,12 +835,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121978,
+      "num": 120058,
+      "word": "一个绝佳的跨年旅游方式",
+      "onboard_time": 1766985321,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "虞书欣特别感谢小石榴们",
       "onboard_time": 1766922562,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120077,
+      "num": 120077,
+      "word": "KPL嘉宾天团挑杯决赛已就位",
+      "onboard_time": 1766984662,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119666,
+      "num": 119666,
+      "word": "只要你谈过几次恋爱就会发现",
+      "onboard_time": 1766983522,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 118489,
@@ -787,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112664,
+      "num": 112664,
+      "word": "伦纳德51分",
+      "onboard_time": 1766983462,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111913,
       "num": 111913,
       "word": "现在就出发",
@@ -795,11 +939,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111360,
+      "num": 111360,
+      "word": "驻巴拿马使馆严正声明",
+      "onboard_time": 1766985980,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110326,
       "num": 110326,
       "word": "橹瑞比心",
       "onboard_time": 1766937439,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108413,
+      "num": 108413,
+      "word": "韩昊霖应援骄阳似我梦回小范闲",
+      "onboard_time": 1766985022,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104186,
+      "num": 155006,
+      "word": "周深 心理委员我不得劲",
+      "onboard_time": 1766985860,
+      "rank": 19,
       "category": "演出"
     },
     {
@@ -811,12 +979,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 101627,
+      "num": 106793,
+      "word": "美国男子曾身在斩杀线不自知",
+      "onboard_time": 1766982922,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100793,
       "num": 96147,
       "word": "女孩们别再节食减肥了",
       "onboard_time": 1766965038,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 99972,
+      "num": 115363,
+      "word": "玉茗茶骨第一章弼马温进女儿国",
+      "onboard_time": 1766985620,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 99892,
@@ -1161,6 +1345,14 @@
       "onboard_time": 1766963596,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66342,
+      "num": 108695,
+      "word": "那英 你们叫妈妈的先闭嘴",
+      "onboard_time": 1766984901,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 66034,
