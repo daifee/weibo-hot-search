@@ -1,0 +1,410 @@
+{
+  "runTime": 1767005359127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 646759,
+        "num": 1103481,
+        "word": "泡泡玛特开始五折甩卖了",
+        "onboard_time": 1766997981,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 350383,
+        "num": 350383,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26731,
+        "num": 332460,
+        "word": "2025我们的家国记忆",
+        "onboard_time": 1766998881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316158,
+        "num": 316158,
+        "word": "黄景瑜给爱奇艺道歉",
+        "onboard_time": 1767003321,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270216,
+        "num": 270216,
+        "word": "央视跨年晚会",
+        "onboard_time": 1767003740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258941,
+        "num": 258941,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255574,
+        "num": 255574,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254103,
+        "num": 254103,
+        "word": "在家里跨年vs在外面跨年",
+        "onboard_time": 1767002721,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238305,
+        "num": 238305,
+        "word": "庄序 装",
+        "onboard_time": 1767000260,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237029,
+        "num": 237029,
+        "word": "店铺回应退货羽绒服口袋现机票",
+        "onboard_time": 1767003861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475130,
+        "num": 227978,
+        "word": "杨幂回应40岁了依然有很多困惑",
+        "onboard_time": 1767001039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434260,
+        "num": 226186,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240819,
+        "num": 224428,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203959,
+        "num": 203959,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 13,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 201957,
+        "num": 201957,
+        "word": "宋威龙女主运",
+        "onboard_time": 1766999000,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242907,
+        "num": 200563,
+        "word": "杨幂 你看又一个拍婚纱的",
+        "onboard_time": 1767002901,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182867,
+        "num": 182867,
+        "word": "你好星期六全员团建路透",
+        "onboard_time": 1766999061,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180088,
+        "num": 180088,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177518,
+        "num": 177518,
+        "word": "杨紫迪丽热巴90花双TOP登五大开年",
+        "onboard_time": 1766994980,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 171017,
+        "word": "海警给台湾打了个中国结",
+        "onboard_time": 1766994920,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 194860,
+        "num": 171000,
+        "word": "福原爱首谈和江宏杰离婚原因",
+        "onboard_time": 1766995820,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170891,
+        "num": 170891,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157551,
+        "num": 157551,
+        "word": "赵一博杀回古装了",
+        "onboard_time": 1767004041,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148378,
+        "num": 148378,
+        "word": "相机才是iPhone里最贵的APP",
+        "onboard_time": 1766999300,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140681,
+        "num": 140681,
+        "word": "成龙因戏中不能死错过霸王别姬",
+        "onboard_time": 1766986101,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138256,
+        "num": 138256,
+        "word": "张维伊别笑你也过不了第二关",
+        "onboard_time": 1767004640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137396,
+        "num": 137396,
+        "word": "骄阳似我",
+        "onboard_time": 1766981721,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132018,
+        "num": 132018,
+        "word": "张杰跨年演唱会点歌",
+        "onboard_time": 1767002359,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131835,
+        "num": 131835,
+        "word": "她不是销冠没人能是销冠了",
+        "onboard_time": 1766995761,
+        "rank": 28,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 72481,
+        "num": 124823,
+        "word": "台武器装备不值一提",
+        "onboard_time": 1767003080,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121062,
+        "num": 121062,
+        "word": "中方坚决反对以色列承认索马里兰",
+        "onboard_time": 1767004339,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116466,
+        "num": 116466,
+        "word": "原来35岁那么刀人",
+        "onboard_time": 1766994019,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 113041,
+        "num": 113041,
+        "word": "原来这个表情包是陈妍希的手",
+        "onboard_time": 1767003619,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106587,
+        "num": 106587,
+        "word": "怪不得古代皇上受不了有人功高盖主",
+        "onboard_time": 1767002721,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100752,
+        "num": 100752,
+        "word": "林屿森梦男 庄序辱追",
+        "onboard_time": 1767004400,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100530,
+        "num": 100530,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100008,
+        "num": 100008,
+        "word": "期末到底考不考骄阳似我",
+        "onboard_time": 1767002840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94221,
+        "num": 94221,
+        "word": "人之初",
+        "onboard_time": 1767003380,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40464,
+        "num": 93110,
+        "word": "日本滑雪场自动人行道夹死5岁男孩",
+        "onboard_time": 1767004701,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92374,
+        "num": 92374,
+        "word": "独居离世女子遗产预计近300万",
+        "onboard_time": 1766990361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90655,
+        "num": 90655,
+        "word": "孙悟空无双皮夯爆了",
+        "onboard_time": 1767002421,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89494,
+        "num": 89494,
+        "word": "人被芒果咬的概率绝不是0",
+        "onboard_time": 1767005060,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89381,
+        "num": 89381,
+        "word": "王者冰雪奇缘联动皮肤返场",
+        "onboard_time": 1767002481,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89259,
+        "num": 89259,
+        "word": "孙颖莎一周退两赛",
+        "onboard_time": 1767003321,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86797,
+        "num": 86797,
+        "word": "金价银价转跌",
+        "onboard_time": 1767001880,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86092,
+        "num": 86092,
+        "word": "iPhone最经典的四款机型",
+        "onboard_time": 1766990900,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84844,
+        "num": 84844,
+        "word": "金饰克价跌回1403元",
+        "onboard_time": 1767005241,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84343,
+        "num": 84343,
+        "word": "博士加硕士双学位项目试点",
+        "onboard_time": 1767005301,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84155,
+        "num": 84155,
+        "word": "男子带母亲打包酒店自助早餐",
+        "onboard_time": 1767004161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37116,
+        "num": 83450,
+        "word": "贺龙体育场女厕外墙为玻璃",
+        "onboard_time": 1767003501,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回眸2025年大国外交#"
+    }
+  }
+}

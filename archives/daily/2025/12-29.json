@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1767004342883,
+  "endTime": 1767005359127,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 505262,
-      "num": 220337,
+      "num": 227978,
       "word": "杨幂回应40岁了依然有很多困惑",
       "onboard_time": 1767001039,
       "rank": 40,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316158,
+      "num": 316158,
+      "word": "黄景瑜给爱奇艺道歉",
+      "onboard_time": 1767003321,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315422,
       "num": 315422,
       "word": "玉茗茶骨首播反响",
@@ -531,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270216,
+      "num": 270216,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767003740,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258390,
       "num": 211444,
       "word": "梁洁美成洋娃娃了",
       "onboard_time": 1766993901,
       "rank": 26,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 254103,
+      "num": 254103,
+      "word": "在家里跨年vs在外面跨年",
+      "onboard_time": 1767002721,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 249557,
@@ -563,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242907,
+      "num": 200563,
+      "word": "杨幂 你看又一个拍婚纱的",
+      "onboard_time": 1767002901,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239301,
       "num": 168653,
       "word": "迪丽热巴陈星旭芭莎开年刊",
       "onboard_time": 1766988321,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237029,
+      "num": 237029,
+      "word": "店铺回应退货羽绒服口袋现机票",
+      "onboard_time": 1767003861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236002,
@@ -643,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207161,
-      "num": 207161,
-      "word": "央视跨年晚会",
-      "onboard_time": 1767003740,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206966,
       "num": 174936,
       "word": "宋威龙赵今麦飘雪转场",
@@ -705,14 +737,6 @@
       "onboard_time": 1767001222,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 197746,
-      "num": 161702,
-      "word": "杨幂 你看又一个拍婚纱的",
-      "onboard_time": 1767002901,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 196289,
@@ -1011,14 +1035,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165509,
-      "num": 149405,
-      "word": "黄景瑜给爱奇艺道歉",
-      "onboard_time": 1767003321,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "罚罪2一集一个坟",
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 162783,
-      "num": 145494,
+      "num": 157551,
       "word": "赵一博杀回古装了",
       "onboard_time": 1767004041,
       "rank": 26,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1766979620,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 155405,
-      "num": 155405,
-      "word": "在家里跨年vs在外面跨年",
-      "onboard_time": 1767002721,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 154940,
@@ -1275,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138256,
+      "num": 138256,
+      "word": "张维伊别笑你也过不了第二关",
+      "onboard_time": 1767004640,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136773,
       "num": 136773,
       "word": "罚罪2直播",
@@ -1435,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121062,
+      "num": 121062,
+      "word": "中方坚决反对以色列承认索马里兰",
+      "onboard_time": 1767004339,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121052,
       "num": 115998,
       "word": "杨幂VOGUE开年刊封面",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1766973138,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113041,
+      "num": 113041,
+      "word": "原来这个表情包是陈妍希的手",
+      "onboard_time": 1767003619,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 112714,
@@ -1659,14 +1691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107544,
-      "num": 107544,
-      "word": "原来这个表情包是陈妍希的手",
-      "onboard_time": 1767003619,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107117,
       "num": 107117,
       "word": "梁洁追剧团最想删掉的一段",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1766965038,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 100752,
+      "num": 100752,
+      "word": "林屿森梦男 庄序辱追",
+      "onboard_time": 1767004400,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 100574,
@@ -1971,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89494,
+      "num": 89494,
+      "word": "人被芒果咬的概率绝不是0",
+      "onboard_time": 1767005060,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89445,
       "num": 89445,
       "word": "王橹杰羽毛眼链",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1767002359,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89259,
+      "num": 89259,
+      "word": "孙颖莎一周退两赛",
+      "onboard_time": 1767003321,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88770,
@@ -2057,6 +2105,22 @@
       "onboard_time": 1766996002,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84844,
+      "num": 84844,
+      "word": "金饰克价跌回1403元",
+      "onboard_time": 1767005241,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84343,
+      "num": 84343,
+      "word": "博士加硕士双学位项目试点",
+      "onboard_time": 1767005301,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 83388,
@@ -2225,6 +2289,14 @@
       "onboard_time": 1766933602,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72481,
+      "num": 187047,
+      "word": "台武器装备不值一提",
+      "onboard_time": 1767003080,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71784,
@@ -2691,6 +2763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40464,
+      "num": 93110,
+      "word": "日本滑雪场自动人行道夹死5岁男孩",
+      "onboard_time": 1767004701,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39843,
       "num": 39843,
       "word": "王楚钦和球迷告别",
@@ -2747,20 +2827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37116,
+      "num": 113138,
+      "word": "贺龙体育场女厕外墙为玻璃",
+      "onboard_time": 1767003501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35156,
       "num": 55209,
       "word": "王者荣耀最没用的法师",
       "onboard_time": 1766943255,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34861,
-      "num": 187047,
-      "word": "台武器装备不值一提",
-      "onboard_time": 1767003080,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34545,
@@ -2793,14 +2873,6 @@
       "onboard_time": 1767002301,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 31414,
-      "num": 113138,
-      "word": "贺龙体育场女厕外墙为玻璃",
-      "onboard_time": 1767003501,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30962,
@@ -2899,18 +2971,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25758,
-      "num": 206228,
-      "word": "50天后是除夕",
-      "onboard_time": 1766931743,
+      "raw_hot": 26731,
+      "num": 378749,
+      "word": "2025我们的家国记忆",
+      "onboard_time": 1766998881,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25381,
-      "num": 378749,
-      "word": "2025我们的家国记忆",
-      "onboard_time": 1766998881,
+      "raw_hot": 25758,
+      "num": 206228,
+      "word": "50天后是除夕",
+      "onboard_time": 1766931743,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -3025,14 +3097,6 @@
       "onboard_time": 1766948714,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16562,
-      "num": 158786,
-      "word": "店铺回应退货羽绒服口袋现机票",
-      "onboard_time": 1767003861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15825,
