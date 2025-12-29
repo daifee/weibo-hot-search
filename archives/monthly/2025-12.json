@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767014051680,
+  "endTime": 1767015858023,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -4371,6 +4371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 813073,
+      "num": 388070,
+      "word": "男孩偷吃变态辣外卖住院家长索赔",
+      "onboard_time": 1767012802,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813035,
       "num": 207001,
       "word": "贝克汉姆大儿子拉黑全家",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1765725563,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 804081,
+      "num": 272378,
+      "word": "强奸女友获刑男子复合后致女方身亡",
+      "onboard_time": 1767011660,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 803762,
@@ -4512,14 +4528,6 @@
       "word": "女子彻夜充电致全身70%烧伤",
       "onboard_time": 1766741599,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 798477,
-      "num": 272378,
-      "word": "强奸女友获刑男子复合后致女方身亡",
-      "onboard_time": 1767011660,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -10939,6 +10947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 485151,
+      "num": 485151,
+      "word": "东部战区随时到台北",
+      "onboard_time": 1767012981,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 485141,
       "num": 290622,
       "word": "曾艳芬曝聊天记录",
@@ -12017,6 +12033,14 @@
       "onboard_time": 1765945402,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456526,
+      "num": 236660,
+      "word": "Labubu二手价格崩了",
+      "onboard_time": 1766997981,
+      "rank": 14,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 456443,
@@ -19995,6 +20019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306516,
+      "num": 186304,
+      "word": "信阳巨响",
+      "onboard_time": 1767014781,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306341,
       "num": 211141,
       "word": "杨幂 你看又一个拍婚纱的",
@@ -20113,14 +20145,6 @@
       "onboard_time": 1764510023,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304681,
-      "num": 236660,
-      "word": "Labubu二手价格崩了",
-      "onboard_time": 1766997981,
-      "rank": 14,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 304229,
@@ -20833,6 +20857,14 @@
       "onboard_time": 1765718843,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294532,
+      "num": 294532,
+      "word": "张杰跨年舞台长出了树",
+      "onboard_time": 1767014121,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 294502,
@@ -22241,6 +22273,14 @@
       "onboard_time": 1766999061,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276701,
+      "num": 276701,
+      "word": "牛肉干焯水后变豆腐干",
+      "onboard_time": 1767012741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276656,
@@ -23881,6 +23921,14 @@
       "onboard_time": 1765775303,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257097,
+      "num": 142069,
+      "word": "新闻联播出现台北101大楼画面",
+      "onboard_time": 1767014301,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 257021,
@@ -34059,14 +34107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187747,
-      "num": 187747,
-      "word": "东部战区随时到台北",
-      "onboard_time": 1767012981,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187742,
       "num": 187742,
       "word": "女明星星光大赏妆造",
@@ -34193,6 +34233,14 @@
       "onboard_time": 1766056941,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187254,
+      "num": 187254,
+      "word": "九尾春季赛加油",
+      "onboard_time": 1767015562,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 187246,
@@ -34913,6 +34961,14 @@
       "onboard_time": 1764836781,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184898,
+      "num": 184898,
+      "word": "钎九",
+      "onboard_time": 1767014420,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 184864,
@@ -38828,7 +38884,7 @@
     },
     {
       "raw_hot": 168592,
-      "num": 155560,
+      "num": 162493,
       "word": "张杰跨年演唱会点歌",
       "onboard_time": 1767002359,
       "rank": 23,
@@ -40459,6 +40515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162562,
+      "num": 162562,
+      "word": "骄阳似我 长白山到底有谁在啊",
+      "onboard_time": 1767014060,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162529,
       "num": 162529,
       "word": "好神金的提示语害我莫名笑出声",
@@ -41531,14 +41595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158693,
-      "num": 258678,
-      "word": "牛肉干焯水后变豆腐干",
-      "onboard_time": 1767012741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158618,
       "num": 158618,
       "word": "快速保暖邪修",
@@ -41737,6 +41793,14 @@
       "onboard_time": 1765166181,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158088,
+      "num": 158088,
+      "word": "女子1周健身6次致停经",
+      "onboard_time": 1767010759,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158082,
@@ -43187,6 +43251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153718,
+      "num": 140691,
+      "word": "王楚钦年会送祝福",
+      "onboard_time": 1767015021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153705,
       "num": 153705,
       "word": "河南火灾班主任大儿子疑因病去世",
@@ -43225,14 +43297,6 @@
       "onboard_time": 1764755842,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153603,
-      "num": 189796,
-      "word": "男孩偷吃变态辣外卖住院家长索赔",
-      "onboard_time": 1767012802,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153581,
@@ -43961,14 +44025,6 @@
       "onboard_time": 1764919040,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151635,
-      "num": 151635,
-      "word": "女子1周健身6次致停经",
-      "onboard_time": 1767010759,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151557,
@@ -58019,6 +58075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119901,
+      "num": 119901,
+      "word": "女子住桔子水晶酒店3遭陌生人开门",
+      "onboard_time": 1767010521,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119844,
       "num": 119844,
       "word": "汶川地震女孩回应与施救军人结婚",
@@ -58737,14 +58801,6 @@
       "onboard_time": 1766674223,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118742,
-      "num": 118742,
-      "word": "女子住桔子水晶酒店3遭陌生人开门",
-      "onboard_time": 1767010521,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118722,
@@ -59921,6 +59977,14 @@
       "onboard_time": 1765705942,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116625,
+      "num": 116625,
+      "word": "重庆机场严正声明",
+      "onboard_time": 1767015321,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 116620,
@@ -63283,6 +63347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110790,
+      "num": 110790,
+      "word": "白鹿剪短了头发",
+      "onboard_time": 1767015803,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110757,
       "num": 110757,
       "word": "广东省考行测",
@@ -65163,6 +65235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107605,
+      "num": 107605,
+      "word": "女子回应网购羽绒服退货口袋装机票",
+      "onboard_time": 1767015381,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107600,
       "num": 107600,
       "word": "刘德华 我妈的爱豆终于发新歌了",
@@ -67009,6 +67089,14 @@
       "onboard_time": 1765602080,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104389,
+      "num": 104389,
+      "word": "肖战飞上海跨年",
+      "onboard_time": 1767014541,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 104386,
@@ -69419,6 +69507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "Lqs微博直播谈19年打iG",
+      "onboard_time": 1767014901,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100708,
       "num": 100708,
       "word": "81年男子去幼儿园接娃被当成爷爷",
@@ -70945,6 +71041,14 @@
       "onboard_time": 1766281279,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98487,
+      "num": 110293,
+      "word": "相差108岁的2个龙宝宝同框了",
+      "onboard_time": 1767014721,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98484,
@@ -73425,6 +73529,14 @@
       "onboard_time": 1766069240,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93784,
+      "num": 93784,
+      "word": "榜眼烈峰峰加入AG",
+      "onboard_time": 1767015681,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 93774,
@@ -83203,6 +83315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 70188,
+      "num": 93551,
+      "word": "期待孙颖莎满血回归",
+      "onboard_time": 1767015624,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70165,
       "num": 92867,
       "word": "法媒称一切都颠倒了新兴国家是我们",
@@ -89172,7 +89292,7 @@
     },
     {
       "raw_hot": 49829,
-      "num": 484189,
+      "num": 486213,
       "word": "S21一路开新",
       "onboard_time": 1767013821,
       "rank": 2,
@@ -95275,6 +95395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32530,
+      "num": 178874,
+      "word": "干部多批次操办其子婚庆事宜被通报",
+      "onboard_time": 1767014601,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32512,
       "num": 125335,
       "word": "冲绳集会要求高市早苗谢罪",
@@ -96529,6 +96657,14 @@
       "onboard_time": 1764857062,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29654,
+      "num": 191097,
+      "word": "张远王栎鑫隔空干杯",
+      "onboard_time": 1767013642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 29640,
@@ -100393,14 +100529,6 @@
       "onboard_time": 1766429174,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 191097,
-      "word": "张远王栎鑫隔空干杯",
-      "onboard_time": 1767013642,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 19277,
