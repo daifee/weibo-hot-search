@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767034370194,
+  "endTime": 1767036204348,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37829,
+      "num": 44767,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36998,
       "num": 65318,
       "word": "朱志鑫扭胯领域绝对的统治区",
@@ -481,14 +489,6 @@
       "onboard_time": 1767005541,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25331,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 24225,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23106,
+      "num": 38725,
+      "word": "我们生活在南京杀青",
+      "onboard_time": 1767035595,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22219,
       "num": 65310,
       "word": "新闻联播播出演习细节",
@@ -553,6 +561,14 @@
       "onboard_time": 1767013821,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14490,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 8828,

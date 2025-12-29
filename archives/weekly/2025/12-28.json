@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767034370194,
+  "endTime": 1767036204348,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -7139,6 +7139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37829,
+      "num": 44767,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37577,
       "num": 60942,
       "word": "张泽禹 哥穿破布都是帅哥",
@@ -7507,14 +7515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25331,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24697,
       "num": 315728,
       "word": "酷滕眼里的天放长得五花八们",
@@ -7641,6 +7641,14 @@
       "onboard_time": 1766947575,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23106,
+      "num": 38725,
+      "word": "我们生活在南京杀青",
+      "onboard_time": 1767035595,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 22663,
@@ -7873,6 +7881,14 @@
       "onboard_time": 1766921482,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14490,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 14359,
