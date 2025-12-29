@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767037088032,
+  "endTime": 1767040373219,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -101595,6 +101595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17833,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17812,
       "num": 89234,
       "word": "TFING想开专场李飞听到了吗",
@@ -102571,14 +102579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14541,
-      "num": 37662,
-      "word": "小狗喝药苦得直摇头",
-      "onboard_time": 1767034995,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14539,
       "num": 16448,
       "word": "在北方的南方人肖战",
@@ -103171,6 +103171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12091,
+      "num": 21915,
+      "word": "檀健次骑马出场",
+      "onboard_time": 1767039314,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12082,
       "num": 17850,
       "word": "张小斐 时尚战绩",
@@ -103337,6 +103345,14 @@
       "onboard_time": 1766309963,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11275,
+      "num": 21891,
+      "word": "张若昀新剧台词",
+      "onboard_time": 1767038414,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 11244,

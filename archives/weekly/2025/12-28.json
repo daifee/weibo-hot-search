@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767037088032,
+  "endTime": 1767040373219,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -7771,6 +7771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17833,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17812,
       "num": 89234,
       "word": "TFING想开专场李飞听到了吗",
@@ -7891,14 +7899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14541,
-      "num": 37662,
-      "word": "小狗喝药苦得直摇头",
-      "onboard_time": 1767034995,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14359,
       "num": 624126,
       "word": "2025热搜里的中国",
@@ -7931,12 +7931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12091,
+      "num": 21915,
+      "word": "檀健次骑马出场",
+      "onboard_time": 1767039314,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11938,
       "num": 14599,
       "word": "朱志鑫无框眼镜造型",
       "onboard_time": 1766954053,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11275,
+      "num": 21891,
+      "word": "张若昀新剧台词",
+      "onboard_time": 1767038414,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 10830,
