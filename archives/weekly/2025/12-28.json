@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1766986608276,
+  "endTime": 1766987536667,
   "band_list": [
     {
       "raw_hot": 3770144,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1176658,
-      "num": 154768,
+      "num": 236774,
       "word": "炎亚纶自曝交往过150个对象",
       "onboard_time": 1766983462,
       "rank": 20,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 540443,
+      "num": 358693,
+      "word": "白银黄金直线暴跌",
+      "onboard_time": 1766984662,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 524683,
       "num": 524683,
       "word": "原来这就是软孤立",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 433548,
-      "num": 178388,
+      "num": 257695,
       "word": "李连杰再回应换心脏传言",
       "onboard_time": 1766981842,
       "rank": 40,
@@ -641,14 +649,6 @@
       "onboard_time": 1766978719,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 414341,
-      "num": 358693,
-      "word": "白银黄金直线暴跌",
-      "onboard_time": 1766984662,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 411083,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 370094,
-      "num": 200598,
+      "num": 251520,
       "word": "杨幂 VOGUE",
       "onboard_time": 1766981001,
       "rank": 20,
@@ -833,6 +833,14 @@
       "onboard_time": 1766908581,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351716,
+      "num": 289808,
+      "word": "张杰演唱会嘉宾",
+      "onboard_time": 1766986700,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 347809,
@@ -881,6 +889,14 @@
       "onboard_time": 1766902581,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327078,
+      "num": 252467,
+      "word": "一哥再爆料杜克",
+      "onboard_time": 1766985201,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 324881,
@@ -945,6 +961,14 @@
       "onboard_time": 1766973021,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303997,
+      "num": 281593,
+      "word": "小孩饭 大人饭",
+      "onboard_time": 1766983941,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 301941,
@@ -1291,14 +1315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240313,
-      "num": 153657,
-      "word": "一哥再爆料杜克",
-      "onboard_time": 1766985201,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 238273,
       "num": 238273,
       "word": "锤娜丽莎我有点不认识你了",
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 235914,
-      "num": 152669,
+      "num": 163687,
       "word": "程潇回应首演恶女",
       "onboard_time": 1766985022,
       "rank": 23,
@@ -1340,7 +1356,7 @@
     },
     {
       "raw_hot": 233864,
-      "num": 233864,
+      "num": 241030,
       "word": "中国外交年底干了一件大好事",
       "onboard_time": 1766981422,
       "rank": 19,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230529,
+      "num": 230529,
+      "word": "成龙因戏中不能死错过霸王别姬",
+      "onboard_time": 1766986101,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 228239,
@@ -1596,7 +1620,7 @@
     },
     {
       "raw_hot": 199275,
-      "num": 152333,
+      "num": 163572,
       "word": "女子塑料袋洗衣服效果惊人",
       "onboard_time": 1766982503,
       "rank": 24,
@@ -1660,7 +1684,7 @@
     },
     {
       "raw_hot": 193887,
-      "num": 151873,
+      "num": 156312,
       "word": "苏州梅友机场",
       "onboard_time": 1766984542,
       "rank": 25,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1766896040,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191876,
+      "num": 191876,
+      "word": "猴哥说车前妻自曝与一男生在接触中",
+      "onboard_time": 1766984242,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 191324,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1766975178,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190436,
+      "num": 190436,
+      "word": "玉茗茶骨 红楼梦",
+      "onboard_time": 1766986640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188569,
@@ -2091,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164919,
-      "num": 164919,
-      "word": "小孩饭 大人饭",
-      "onboard_time": 1766983941,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164276,
       "num": 164276,
       "word": "何炅又结巴了",
@@ -2153,14 +2185,6 @@
       "onboard_time": 1766926042,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161633,
-      "num": 150327,
-      "word": "成龙因戏中不能死错过霸王别姬",
-      "onboard_time": 1766986101,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 161206,
@@ -2225,6 +2249,14 @@
       "onboard_time": 1766912480,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156898,
+      "num": 156898,
+      "word": "陈牧驰此前与吴楚一有六年情感纠葛",
+      "onboard_time": 1766986400,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 156132,
@@ -2305,6 +2337,14 @@
       "onboard_time": 1766903601,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152177,
+      "num": 247373,
+      "word": "月薪一万算高收入吗",
+      "onboard_time": 1766987120,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 151169,
@@ -2515,14 +2555,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 140272,
-      "num": 140272,
-      "word": "猴哥说车前妻自曝与一男生在接触中",
-      "onboard_time": 1766984242,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 140080,
       "num": 140080,
       "word": "这居然是费启鸣写的",
@@ -2667,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131605,
+      "num": 131605,
+      "word": "一代人有一代人的小众囤积癖",
+      "onboard_time": 1766987060,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131505,
       "num": 131505,
       "word": "赵丽颖逍遥mommy小城大事daddy",
@@ -2713,14 +2753,6 @@
       "onboard_time": 1766847504,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130779,
-      "num": 112523,
-      "word": "陈牧驰此前与吴楚一有六年情感纠葛",
-      "onboard_time": 1766986400,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 130550,
@@ -2891,6 +2923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125801,
+      "num": 242666,
+      "word": "解放军演习现场画面",
+      "onboard_time": 1766986880,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124985,
       "num": 124985,
       "word": "李莎旻子历届跨年零点拥抱对象",
@@ -3001,6 +3041,14 @@
       "onboard_time": 1766884760,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122210,
+      "num": 238405,
+      "word": "军事演习现场视频",
+      "onboard_time": 1766987060,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 121978,
@@ -3275,6 +3323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110757,
+      "num": 110757,
+      "word": "黄金白银巨震原因",
+      "onboard_time": 1766987300,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110326,
       "num": 110326,
       "word": "橹瑞比心",
@@ -3468,7 +3524,7 @@
     },
     {
       "raw_hot": 104186,
-      "num": 155006,
+      "num": 187595,
       "word": "周深 心理委员我不得劲",
       "onboard_time": 1766985860,
       "rank": 19,
@@ -3563,6 +3619,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 101296,
+      "num": 101296,
+      "word": "刘念何聪睿一部剧一种嗑法",
+      "onboard_time": 1766987420,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101139,
       "num": 221777,
       "word": "王楚钦决赛出任一单",
@@ -3641,6 +3705,14 @@
       "onboard_time": 1766914520,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98668,
+      "num": 98668,
+      "word": "金价",
+      "onboard_time": 1766975959,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 98345,
@@ -4435,14 +4507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69852,
-      "num": 69852,
-      "word": "金价",
-      "onboard_time": 1766975959,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 69282,
       "num": 69282,
       "word": "马斯克评论宇树机器人测试视频",
@@ -4705,6 +4769,14 @@
       "onboard_time": 1766941456,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 54558,
+      "num": 136953,
+      "word": "内娱剧宣卷到没开播先开展",
+      "onboard_time": 1766986819,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 53657,
@@ -5115,6 +5187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29484,
+      "num": 190583,
+      "word": "美媒报道斩杀线一词在中国网络走红",
+      "onboard_time": 1766987241,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29456,
       "num": 62546,
       "word": "RW与WB会师三亚",
@@ -5473,6 +5553,14 @@
       "onboard_time": 1766954053,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10830,
+      "num": 190798,
+      "word": "2025年最感谢的是老己",
+      "onboard_time": 1766987241,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10371,
