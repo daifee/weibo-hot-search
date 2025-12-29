@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767036204348,
+  "endTime": 1767037088032,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -93131,6 +93131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39830,
+      "num": 44767,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39817,
       "num": 60728,
       "word": "西汉姆联vs利物浦",
@@ -93889,14 +93897,6 @@
       "onboard_time": 1765952181,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37829,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 37825,
@@ -97897,6 +97897,14 @@
       "onboard_time": 1764718698,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27940,
+      "num": 27940,
+      "word": "王俊凯热爱以时间淬炼",
+      "onboard_time": 1767036314,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 27901,
@@ -102563,6 +102571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14541,
+      "num": 37662,
+      "word": "小狗喝药苦得直摇头",
+      "onboard_time": 1767034995,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14539,
       "num": 16448,
       "word": "在北方的南方人肖战",
@@ -102593,14 +102609,6 @@
       "onboard_time": 1765304294,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14490,
-      "num": 37662,
-      "word": "小狗喝药苦得直摇头",
-      "onboard_time": 1767034995,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 14445,

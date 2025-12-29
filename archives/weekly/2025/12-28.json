@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767036204348,
+  "endTime": 1767037088032,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -7115,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39830,
+      "num": 44767,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39474,
       "num": 179626,
       "word": "央媒评论版刊登魏建军署名文章",
@@ -7137,14 +7145,6 @@
       "onboard_time": 1766895381,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37829,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 37577,
@@ -7457,6 +7457,14 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27940,
+      "num": 27940,
+      "word": "王俊凯热爱以时间淬炼",
+      "onboard_time": 1767036314,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 27694,
@@ -7883,7 +7891,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14490,
+      "raw_hot": 14541,
       "num": 37662,
       "word": "小狗喝药苦得直摇头",
       "onboard_time": 1767034995,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767036204348,
+  "endTime": 1767037088032,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -443,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39830,
+      "num": 44767,
+      "word": "胡彦斌和易梦玲差16岁",
+      "onboard_time": 1767033375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38539,
       "num": 101140,
       "word": "深圳地铁",
       "onboard_time": 1767015921,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37829,
-      "num": 44767,
-      "word": "胡彦斌和易梦玲差16岁",
-      "onboard_time": 1767033375,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 36998,
@@ -489,6 +489,14 @@
       "onboard_time": 1767005541,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27940,
+      "num": 27940,
+      "word": "王俊凯热爱以时间淬炼",
+      "onboard_time": 1767036314,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 24225,
@@ -563,7 +571,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14490,
+      "raw_hot": 14541,
       "num": 37662,
       "word": "小狗喝药苦得直摇头",
       "onboard_time": 1767034995,
