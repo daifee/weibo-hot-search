@@ -1,6 +1,6 @@
 {
   "startTime": 1766939663289,
-  "endTime": 1767015858023,
+  "endTime": 1767016540420,
   "band_list": [
     {
       "raw_hot": 1476170,
@@ -51,20 +51,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 850090,
+      "num": 388070,
+      "word": "男孩偷吃变态辣外卖住院家长索赔",
+      "onboard_time": 1767012802,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 833713,
       "num": 1133394,
       "word": "东部战区",
       "onboard_time": 1766967019,
       "rank": 0,
       "category": "军事"
-    },
-    {
-      "raw_hot": 813073,
-      "num": 388070,
-      "word": "男孩偷吃变态辣外卖住院家长索赔",
-      "onboard_time": 1767012802,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 804081,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 640139,
+      "num": 1102422,
+      "word": "东部战区随时到台北",
+      "onboard_time": 1767012981,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 627696,
       "num": 366678,
       "word": "杨紫VOGUE首张封面",
@@ -203,20 +211,20 @@
       "category": "休闲,情感"
     },
     {
+      "raw_hot": 497952,
+      "num": 260100,
+      "word": "Labubu二手价格崩了",
+      "onboard_time": 1766997981,
+      "rank": 14,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 494283,
       "num": 210816,
       "word": "为什么不结婚父母会被别人看不起",
       "onboard_time": 1766989220,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 485151,
-      "num": 485151,
-      "word": "东部战区随时到台北",
-      "onboard_time": 1767012981,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 483916,
@@ -251,14 +259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 456526,
-      "num": 236660,
-      "word": "Labubu二手价格崩了",
-      "onboard_time": 1766997981,
-      "rank": 14,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 455174,
       "num": 455174,
       "word": "摄影大赛一等奖作品被指AI生成",
@@ -281,6 +281,14 @@
       "onboard_time": 1766985201,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 448791,
+      "num": 258667,
+      "word": "信阳巨响",
+      "onboard_time": 1767014781,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442953,
@@ -595,16 +603,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 306516,
-      "num": 186304,
-      "word": "信阳巨响",
-      "onboard_time": 1767014781,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306341,
-      "num": 211141,
+      "num": 229446,
       "word": "杨幂 你看又一个拍婚纱的",
       "onboard_time": 1767002901,
       "rank": 17,
@@ -633,6 +633,14 @@
       "onboard_time": 1766971519,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 297837,
+      "num": 297837,
+      "word": "牛肉干焯水后变豆腐干",
+      "onboard_time": 1767012741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294908,
@@ -683,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276701,
-      "num": 276701,
-      "word": "牛肉干焯水后变豆腐干",
-      "onboard_time": 1767012741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275971,
       "num": 254103,
       "word": "在家里跨年vs在外面跨年",
@@ -707,20 +707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264890,
+      "num": 264890,
+      "word": "新闻联播出现台北101大楼画面",
+      "onboard_time": 1767014301,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258390,
       "num": 211444,
       "word": "梁洁美成洋娃娃了",
       "onboard_time": 1766993901,
       "rank": 26,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 257097,
-      "num": 142069,
-      "word": "新闻联播出现台北101大楼画面",
-      "onboard_time": 1767014301,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 249557,
@@ -843,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208422,
+      "num": 208422,
+      "word": "钎九",
+      "onboard_time": 1767014420,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206966,
       "num": 174936,
       "word": "宋威龙赵今麦飘雪转场",
@@ -856,6 +864,14 @@
       "word": "马年春晚期待住了",
       "onboard_time": 1766936662,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204816,
+      "num": 204816,
+      "word": "白鹿剪短了头发",
+      "onboard_time": 1767015803,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 187254,
-      "num": 187254,
+      "num": 263989,
       "word": "九尾春季赛加油",
       "onboard_time": 1767015562,
       "rank": 9,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1766921782,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184898,
-      "num": 184898,
-      "word": "钎九",
-      "onboard_time": 1767014420,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 184864,
@@ -1587,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133770,
+      "num": 133770,
+      "word": "女子回应网购羽绒服退货口袋装机票",
+      "onboard_time": 1767015381,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132974,
       "num": 132974,
       "word": "时代峰峻的新音完了秀人的盛典又来了",
@@ -1649,6 +1665,22 @@
       "onboard_time": 1766984183,
       "rank": 42,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 128312,
+      "num": 128312,
+      "word": "女子住桔子水晶酒店3遭陌生人开门",
+      "onboard_time": 1767010521,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127807,
+      "num": 127807,
+      "word": "霍建华 年纪大了终于能演喜欢的角色了",
+      "onboard_time": 1767016402,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 127462,
@@ -1739,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123270,
+      "num": 123270,
+      "word": "重庆机场严正声明",
+      "onboard_time": 1767015321,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 123054,
       "num": 123054,
       "word": "回顾2025年展望2026年",
@@ -1787,6 +1827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121020,
+      "num": 121020,
+      "word": "DYG抽签结果",
+      "onboard_time": 1767015862,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "虞书欣特别感谢小石榴们",
@@ -1819,14 +1867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119901,
-      "num": 119901,
-      "word": "女子住桔子水晶酒店3遭陌生人开门",
-      "onboard_time": 1767010521,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119666,
       "num": 119666,
       "word": "只要你谈过几次恋爱就会发现",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1766965998,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 116625,
-      "num": 116625,
-      "word": "重庆机场严正声明",
-      "onboard_time": 1767015321,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 116238,
@@ -1995,14 +2027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110790,
-      "num": 110790,
-      "word": "白鹿剪短了头发",
-      "onboard_time": 1767015803,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110757,
       "num": 110757,
       "word": "黄金白银巨震原因",
@@ -2059,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107605,
-      "num": 107605,
-      "word": "女子回应网购羽绒服退货口袋装机票",
-      "onboard_time": 1767015381,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107570,
       "num": 107570,
       "word": "王者顶级天幕皮肤",
@@ -2091,6 +2107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106354,
+      "num": 106354,
+      "word": "深圳地铁",
+      "onboard_time": 1767015921,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104389,
       "num": 104389,
       "word": "肖战飞上海跨年",
@@ -2105,6 +2129,14 @@
       "onboard_time": 1766985860,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103407,
+      "num": 103407,
+      "word": "王俊凯忙内时期",
+      "onboard_time": 1767016161,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 103334,
@@ -2251,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99830,
+      "num": 110293,
+      "word": "相差108岁的2个龙宝宝同框了",
+      "onboard_time": 1767014721,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99398,
       "num": 99398,
       "word": "被冬天确诊为保暖型人格",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1767006981,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98487,
-      "num": 110293,
-      "word": "相差108岁的2个龙宝宝同框了",
-      "onboard_time": 1767014721,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98123,
@@ -2377,6 +2409,14 @@
       "onboard_time": 1766932643,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94119,
+      "num": 94119,
+      "word": "DRG抽签",
+      "onboard_time": 1767016042,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 94066,
@@ -3227,12 +3267,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 44171,
+      "num": 178874,
+      "word": "干部多批次操办其子婚庆事宜被通报",
+      "onboard_time": 1767014601,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43292,
       "num": 107437,
       "word": "美国中产变流浪汉只需短短几个月",
       "onboard_time": 1766990300,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43069,
+      "num": 208506,
+      "word": "12315回应理发店剪发标价6688元",
+      "onboard_time": 1767015982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42583,
@@ -3379,12 +3435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32530,
-      "num": 178874,
-      "word": "干部多批次操办其子婚庆事宜被通报",
-      "onboard_time": 1767014601,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 31847,
+      "num": 209637,
+      "word": "张远王栎鑫隔空干杯",
+      "onboard_time": 1767013642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 31828,
@@ -3433,14 +3489,6 @@
       "onboard_time": 1766998881,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29654,
-      "num": 191097,
-      "word": "张远王栎鑫隔空干杯",
-      "onboard_time": 1767013642,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 29537,
