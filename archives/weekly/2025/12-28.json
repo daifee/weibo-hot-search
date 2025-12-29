@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767043634721,
+  "endTime": 1767044459260,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -7523,6 +7523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24984,
+      "num": 24984,
+      "word": "张杰爱人啊有我在你别怕",
+      "onboard_time": 1767040034,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24697,
       "num": 315728,
       "word": "酷滕眼里的天放长得五花八们",
@@ -7731,14 +7739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19847,
-      "num": 19847,
-      "word": "张杰爱人啊有我在你别怕",
-      "onboard_time": 1767040034,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 19600,
       "num": 257119,
       "word": "夸年岛含喜量要爆啦",
@@ -7923,6 +7923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 13861,
+      "num": 21915,
+      "word": "檀健次骑马出场",
+      "onboard_time": 1767039314,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13547,
       "num": 97169,
       "word": "多名新晋两院院士走上新岗位",
@@ -7939,12 +7947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13316,
-      "num": 21915,
-      "word": "檀健次骑马出场",
-      "onboard_time": 1767039314,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 11961,
+      "num": 14661,
+      "word": "玉茗茶骨女三是张南演的",
+      "onboard_time": 1767039974,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 11938,
@@ -7960,14 +7968,6 @@
       "word": "张若昀新剧台词",
       "onboard_time": 1767038414,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11395,
-      "num": 14481,
-      "word": "玉茗茶骨女三是张南演的",
-      "onboard_time": 1767039974,
-      "rank": 45,
       "category": "剧集"
     },
     {
