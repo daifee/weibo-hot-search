@@ -1,0 +1,410 @@
+{
+  "runTime": 1767001133510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998676,
+        "num": 1159788,
+        "word": "泡泡玛特开始五折甩卖了",
+        "onboard_time": 1766997981,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 412103,
+        "num": 412103,
+        "word": "孙颖莎退出多哈冠军赛",
+        "onboard_time": 1766996541,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25381,
+        "num": 360600,
+        "word": "2025我们的家国记忆",
+        "onboard_time": 1766998881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415775,
+        "num": 354735,
+        "word": "王者荣耀",
+        "onboard_time": 1766978719,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340285,
+        "num": 340285,
+        "word": "海警给台湾打了个中国结",
+        "onboard_time": 1766994920,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 283845,
+        "num": 283845,
+        "word": "中方要求彻查中巴公园拆除事件",
+        "onboard_time": 1766979559,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278833,
+        "num": 278833,
+        "word": "演习宣布2小时后台当局做出反应",
+        "onboard_time": 1766994920,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276742,
+        "num": 276742,
+        "word": "你好星期六全员团建路透",
+        "onboard_time": 1766999061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502940,
+        "num": 269495,
+        "word": "领证和不领证的区别",
+        "onboard_time": 1766997199,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262068,
+        "num": 262068,
+        "word": "对loft公寓彻底祛魅了",
+        "onboard_time": 1766993600,
+        "rank": 9,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 1115888,
+        "num": 261930,
+        "word": "演员闫学晶哭穷引争议",
+        "onboard_time": 1766998341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325635,
+        "num": 260688,
+        "word": "福原爱泡温泉时发现怀孕",
+        "onboard_time": 1766996720,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259397,
+        "num": 259397,
+        "word": "庄序 装",
+        "onboard_time": 1767000260,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247873,
+        "num": 247873,
+        "word": "杨紫迪丽热巴90花双TOP登五大开年",
+        "onboard_time": 1766994980,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228909,
+        "num": 228909,
+        "word": "宋威龙女主运",
+        "onboard_time": 1766999000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188456,
+        "num": 188456,
+        "word": "原来35岁那么刀人",
+        "onboard_time": 1766994019,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 180536,
+        "num": 180536,
+        "word": "张杰谢娜 双人舞",
+        "onboard_time": 1766989700,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56714,
+        "num": 179282,
+        "word": "100个诈骗电话中20至30人会信",
+        "onboard_time": 1767000141,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54215,
+        "num": 178140,
+        "word": "被迪丽热巴这一个眼神看哭了",
+        "onboard_time": 1767000141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42583,
+        "num": 175919,
+        "word": "安踏助力十支中国国家队征战米兰",
+        "onboard_time": 1766999120,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386404,
+        "num": 174521,
+        "word": "福原爱首谈和江宏杰离婚原因",
+        "onboard_time": 1766995820,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245098,
+        "num": 174074,
+        "word": "成龙因戏中不能死错过霸王别姬",
+        "onboard_time": 1766986101,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189713,
+        "num": 171104,
+        "word": "相机才是iPhone里最贵的APP",
+        "onboard_time": 1766999300,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180635,
+        "num": 170505,
+        "word": "娜扎演技",
+        "onboard_time": 1766990900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169516,
+        "num": 169516,
+        "word": "她不是销冠没人能是销冠了",
+        "onboard_time": 1766995761,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 165439,
+        "num": 165439,
+        "word": "梁洁美成洋娃娃了",
+        "onboard_time": 1766993901,
+        "rank": 25,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 155842,
+        "num": 155842,
+        "word": "独居离世女子遗产预计近300万",
+        "onboard_time": 1766990361,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150681,
+        "num": 150681,
+        "word": "邓佳鑫下次见",
+        "onboard_time": 1767000260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42858,
+        "num": 129015,
+        "word": "试驾开出了神仙盲盒",
+        "onboard_time": 1766995521,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118068,
+        "num": 118068,
+        "word": "谁来管管娜扎这无死角的美貌",
+        "onboard_time": 1766997920,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 108571,
+        "word": "中柬泰三国外长挽手臂合影",
+        "onboard_time": 1766996781,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106608,
+        "num": 106608,
+        "word": "银价飙涨后跳水",
+        "onboard_time": 1767000141,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106387,
+        "num": 106387,
+        "word": "iPhone最经典的四款机型",
+        "onboard_time": 1766990900,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60209,
+        "num": 103974,
+        "word": "王楚钦孙颖莎2025年度最佳运动员",
+        "onboard_time": 1767001039,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101922,
+        "num": 101922,
+        "word": "白银黄金直线暴跌",
+        "onboard_time": 1766984662,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100198,
+        "num": 100198,
+        "word": "三年不工作家里无一人察觉",
+        "onboard_time": 1766999181,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99676,
+        "num": 99676,
+        "word": "玉茗茶骨",
+        "onboard_time": 1766984602,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18384,
+        "num": 97614,
+        "word": "看过下饭剧第一次看凉饭剧",
+        "onboard_time": 1767000022,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13547,
+        "num": 97169,
+        "word": "多名新晋两院院士走上新岗位",
+        "onboard_time": 1766999899,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71316,
+        "num": 97161,
+        "word": "王鹤棣丁程鑫一个挑下巴一个摸腹肌",
+        "onboard_time": 1767000441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97156,
+        "num": 97156,
+        "word": "杨幂回应40岁了依然有很多困惑",
+        "onboard_time": 1767001039,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10286,
+        "num": 96530,
+        "word": "台退役少将问台军能否来得及反应",
+        "onboard_time": 1767001100,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96497,
+        "num": 96497,
+        "word": "张杰演唱会嘉宾",
+        "onboard_time": 1766986700,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96444,
+        "num": 96444,
+        "word": "钟意孙悟空无相皮肤签名",
+        "onboard_time": 1766999420,
+        "rank": 43,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 93566,
+        "num": 93566,
+        "word": "一哥再爆料杜克",
+        "onboard_time": 1766985201,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92337,
+        "num": 92337,
+        "word": "用烤肠引诱学生上微积分课",
+        "onboard_time": 1767000320,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90673,
+        "num": 90673,
+        "word": "宋威龙 女装大佬竟是我的上司",
+        "onboard_time": 1766995761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90420,
+        "num": 90420,
+        "word": "孔雪儿就是这个女团味",
+        "onboard_time": 1767000801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83388,
+        "num": 86990,
+        "word": "单依纯纯妹妹音乐节首唱",
+        "onboard_time": 1766999661,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85779,
+        "num": 85779,
+        "word": "施纯芳被押解回国",
+        "onboard_time": 1767001039,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回眸2025年大国外交#"
+    }
+  }
+}

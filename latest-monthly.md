@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/29 16:55:32
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/29 17:38:53
 </p>
 </blockquote>
 <p>
@@ -1707,6 +1707,12 @@ TF家族新音（热度：1376524）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%97%AB%E5%AD%A6%E6%99%B6%E5%93%AD%E7%A9%B7%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+演员闫学晶哭穷引争议（热度：1115888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E9%A2%81%E5%A5%96%E5%A4%B1%E8%AF%AF%23" target="weibo">
 爱奇艺颁奖失误（热度：1110938）
 </a>
@@ -2165,6 +2171,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E5%86%9B%E4%BA%8B%E4%BB%8B%E5%85%A5%E5%8D%97%E6%B5%B7%23" target="weibo">
 日本开始军事介入南海（热度：999419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%BC%80%E5%A7%8B%E4%BA%94%E6%8A%98%E7%94%A9%E5%8D%96%E4%BA%86%23" target="weibo">
+泡泡玛特开始五折甩卖了（热度：998676）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ NBA球员李凯尔国籍已改为美国（热度：579623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E6%81%8B%E6%83%85%23" target="weibo">
 阮经天恋情（热度：577354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E6%9A%B4%E8%B7%8C%23" target="weibo">
-白银黄金直线暴跌（热度：576690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%9D%A0%E6%A5%BC%E4%BA%86%E4%BB%96%E6%8E%A5%E4%BD%8F%E4%BA%86%E6%88%91%E5%B0%96%E5%8F%AB%E4%BA%86%23" target="weibo">
-她坠楼了他接住了我尖叫了（热度：576647）
 </a>
 </li>
 
