@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767130908195,
+  "endTime": 1767133658901,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -145,6 +145,14 @@
       "onboard_time": 1767107722,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102286,
+      "num": 80076,
+      "word": "张纪中妻子自曝闭黑关四天四夜",
+      "onboard_time": 1767096862,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 97118,
@@ -307,14 +315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49705,
-      "num": 80076,
-      "word": "张纪中妻子自曝闭黑关四天四夜",
-      "onboard_time": 1767096862,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46973,
       "num": 80067,
       "word": "蔡依林取悦自己刻不容缓",
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19779,
+      "num": 30508,
+      "word": "两类人最好别吃烤红薯",
+      "onboard_time": 1767131354,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19152,
       "num": 40806,
       "word": "得闲谨制",
@@ -539,15 +547,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12617,
-      "num": 23727,
-      "word": "张若昀1分52秒无台词戏",
-      "onboard_time": 1767122954,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12452,
+      "raw_hot": 13241,
       "num": 40485,
       "word": "2026年国补目录",
       "onboard_time": 1767093921,
@@ -555,8 +555,24 @@
       "category": "财经"
     },
     {
-      "raw_hot": 11124,
-      "num": 27251,
+      "raw_hot": 12617,
+      "num": 30158,
+      "word": "张若昀1分52秒无台词戏",
+      "onboard_time": 1767122954,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12243,
+      "num": 30185,
+      "word": "刘宇宁成都演唱会门票秒空",
+      "onboard_time": 1767133276,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11350,
+      "num": 30151,
       "word": "蔡依林Pleasure演唱会",
       "onboard_time": 1767090802,
       "rank": 44,
@@ -569,6 +585,14 @@
       "onboard_time": 1767091462,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7501,
+      "num": 241500,
+      "word": "2026年农业强国建设施工图",
+      "onboard_time": 1767102322,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

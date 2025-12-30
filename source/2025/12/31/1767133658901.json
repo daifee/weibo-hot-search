@@ -1,0 +1,410 @@
+{
+  "runTime": 1767133658901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 242395,
+        "num": 413939,
+        "word": "印度宣布经济已超日本",
+        "onboard_time": 1767108861,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131378,
+        "num": 296399,
+        "word": "湖南卫视跨年演唱会",
+        "onboard_time": 1767110601,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7501,
+        "num": 241500,
+        "word": "2026年农业强国建设施工图",
+        "onboard_time": 1767102322,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107223,
+        "num": 107223,
+        "word": "解放军演习在台湾岛内引发震动",
+        "onboard_time": 1767106881,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61160,
+        "num": 61160,
+        "word": "孩子吃席打翻盘子父母让他公开道歉",
+        "onboard_time": 1767105262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46885,
+        "num": 46885,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38953,
+        "num": 38953,
+        "word": "增值税",
+        "onboard_time": 1767097822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38758,
+        "num": 38758,
+        "word": "36岁农村摆摊卖20元一个的披萨",
+        "onboard_time": 1767105202,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 38238,
+        "num": 38238,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767101301,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36345,
+        "num": 36345,
+        "word": "得闲谨制第5次票房逆跌",
+        "onboard_time": 1767106162,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102286,
+        "num": 36053,
+        "word": "张纪中妻子自曝闭黑关四天四夜",
+        "onboard_time": 1767096862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34757,
+        "num": 34757,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34755,
+        "num": 34755,
+        "word": "新闻联播播出挂载实弹轰6K",
+        "onboard_time": 1767105741,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34747,
+        "num": 34747,
+        "word": "金莎被求婚后和孙丞潇同游西班牙",
+        "onboard_time": 1767108081,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31107,
+        "num": 31107,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30887,
+        "num": 30887,
+        "word": "微博之夜四大才子预测",
+        "onboard_time": 1767103882,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30683,
+        "num": 30683,
+        "word": "世界上最长寿的在世猫咪30岁了",
+        "onboard_time": 1767097341,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25887,
+        "num": 30678,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23388,
+        "num": 30664,
+        "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+        "onboard_time": 1767093263,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23079,
+        "num": 30642,
+        "word": "青州地震",
+        "onboard_time": 1767097043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70971,
+        "num": 30627,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69617,
+        "num": 30606,
+        "word": "早期骨癌发出的危险信号",
+        "onboard_time": 1767113297,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50789,
+        "num": 30596,
+        "word": "金价",
+        "onboard_time": 1767105922,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46685,
+        "num": 30582,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 30552,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35445,
+        "num": 30536,
+        "word": "没认出来是宋茜",
+        "onboard_time": 1767105980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24596,
+        "num": 30520,
+        "word": "东部战区破袭夺港割裂",
+        "onboard_time": 1767101363,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19779,
+        "num": 30508,
+        "word": "两类人最好别吃烤红薯",
+        "onboard_time": 1767131354,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19596,
+        "num": 30493,
+        "word": "原来张凌赫吃醋是这个风味",
+        "onboard_time": 1767097222,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19184,
+        "num": 30469,
+        "word": "印度称已超日本成世界第四大经济体",
+        "onboard_time": 1767107481,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23274,
+        "num": 30468,
+        "word": "印度网友向中国网友提问",
+        "onboard_time": 1767111200,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17177,
+        "num": 30440,
+        "word": "明年继续领国补",
+        "onboard_time": 1767102442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17082,
+        "num": 30421,
+        "word": "黄子韬 刘耀文比徐艺洋还难哄",
+        "onboard_time": 1767099502,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16627,
+        "num": 30416,
+        "word": "陈腾跃 全资进组暴打男主",
+        "onboard_time": 1767109939,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15777,
+        "num": 30402,
+        "word": "男子回应捡鹅绒给妻子做羽绒服",
+        "onboard_time": 1767107481,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15580,
+        "num": 30379,
+        "word": "谭松韵张小婉演我跟闺蜜吃醋",
+        "onboard_time": 1767110899,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15573,
+        "num": 30365,
+        "word": "骄阳似我",
+        "onboard_time": 1767088881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15437,
+        "num": 30344,
+        "word": "靳梦佳 好险声音差点被盖住了",
+        "onboard_time": 1767110960,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15165,
+        "num": 30331,
+        "word": "一条plog告别2025",
+        "onboard_time": 1767114676,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14324,
+        "num": 30313,
+        "word": "金价波动",
+        "onboard_time": 1767107121,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14193,
+        "num": 30299,
+        "word": "得闲谨制",
+        "onboard_time": 1767117436,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13881,
+        "num": 30284,
+        "word": "华晨宇彩排照身材比例",
+        "onboard_time": 1767114617,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13402,
+        "num": 30264,
+        "word": "周深演唱会",
+        "onboard_time": 1767115697,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13394,
+        "num": 30248,
+        "word": "迪丽热巴2026新年愿望",
+        "onboard_time": 1767113419,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13241,
+        "num": 30225,
+        "word": "2026年国补目录",
+        "onboard_time": 1767093921,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13049,
+        "num": 30221,
+        "word": "小米明年或推4款新车",
+        "onboard_time": 1767101722,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12580,
+        "num": 30191,
+        "word": "罗永浩为直播迟到致歉",
+        "onboard_time": 1767103162,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12243,
+        "num": 30185,
+        "word": "刘宇宁成都演唱会门票秒空",
+        "onboard_time": 1767133276,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11686,
+        "num": 30158,
+        "word": "张若昀1分52秒无台词戏",
+        "onboard_time": 1767122954,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11350,
+        "num": 30151,
+        "word": "蔡依林Pleasure演唱会",
+        "onboard_time": 1767090802,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对农民的特殊情感#"
+    }
+  }
+}
