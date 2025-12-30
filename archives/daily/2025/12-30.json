@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767087226868,
+  "endTime": 1767088073790,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1320599,
-      "num": 220312,
+      "num": 237845,
       "word": "迅猛龙直播掉美颜",
       "onboard_time": 1767082580,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 842060,
-      "num": 619496,
+      "num": 751012,
       "word": "差点没认出张佳宁",
       "onboard_time": 1767085101,
       "rank": 3,
@@ -89,6 +89,14 @@
       "onboard_time": 1767068421,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 792867,
+      "num": 792867,
+      "word": "爱吃烤红薯的人天塌了",
+      "onboard_time": 1767085400,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 782024,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 748835,
-      "num": 217785,
+      "num": 237420,
       "word": "于正否认雪藏宋威龙",
       "onboard_time": 1767079640,
       "rank": 44,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 690593,
-      "num": 216112,
+      "num": 233991,
       "word": "曝林俊杰卖的粉丝周边是七七设计的",
       "onboard_time": 1767081137,
       "rank": 11,
@@ -177,14 +185,6 @@
       "onboard_time": 1767052762,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 562316,
-      "num": 562316,
-      "word": "爱吃烤红薯的人天塌了",
-      "onboard_time": 1767085400,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 555145,
@@ -475,6 +475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 297709,
+      "num": 297709,
+      "word": "禁毒副大队长走私大麻获刑3年半",
+      "onboard_time": 1767083842,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292818,
       "num": 292818,
       "word": "韩国总统李在明将访华",
@@ -489,6 +497,14 @@
       "onboard_time": 1767049818,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 278904,
+      "num": 173076,
+      "word": "尔冬升女儿好漂亮",
+      "onboard_time": 1767087201,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 275897,
@@ -513,6 +529,14 @@
       "onboard_time": 1767052940,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265369,
+      "num": 237253,
+      "word": "金巧巧吴启华 分手22年后演夫妻",
+      "onboard_time": 1767087260,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 264369,
@@ -563,12 +587,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246637,
+      "num": 246637,
+      "word": "顾客海底捞发现店员捞面多次甩地上",
+      "onboard_time": 1767085400,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238525,
       "num": 237555,
       "word": "于正 玉茗茶骨",
       "onboard_time": 1767023842,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238175,
+      "num": 238175,
+      "word": "微信更新后最利于单删的功能",
+      "onboard_time": 1767086362,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 236320,
@@ -835,14 +875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 163409,
-      "num": 163409,
-      "word": "顾客海底捞发现店员捞面多次甩地上",
-      "onboard_time": 1767085400,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "费启鸣 上称得脱光了再上",
@@ -891,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155628,
-      "num": 199754,
-      "word": "禁毒副大队长走私大麻获刑3年半",
-      "onboard_time": 1767083842,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 156988,
+      "num": 156988,
+      "word": "把李冰冰认成了Angelababy",
+      "onboard_time": 1767086481,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 152135,
@@ -955,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144050,
+      "num": 144050,
+      "word": "王鹤棣的手机也这么多未读信息",
+      "onboard_time": 1767086660,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143057,
       "num": 143057,
       "word": "翟潇闻拍的照片火到外网了",
@@ -1011,6 +1051,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 136329,
+      "num": 136329,
+      "word": "程潇从一步一步到一部一部",
+      "onboard_time": 1767087080,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136176,
       "num": 136176,
       "word": "年终奖的终极打开方式",
@@ -1035,20 +1083,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 133889,
-      "num": 116977,
-      "word": "微信更新后最利于单删的功能",
-      "onboard_time": 1767086362,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132685,
       "num": 132685,
       "word": "渐冻症患者哭着感谢蔡磊",
       "onboard_time": 1767063799,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "2025的旅行高光时刻",
+      "onboard_time": 1767087441,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 130768,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1767060140,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128595,
+      "num": 128595,
+      "word": "对黄景瑜的好感不分男女老少",
+      "onboard_time": 1767087141,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128250,
@@ -1163,14 +1219,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 122008,
-      "num": 122008,
-      "word": "王鹤棣的手机也这么多未读信息",
-      "onboard_time": 1767086660,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121120,
       "num": 116379,
       "word": "骄阳似我 剧情为王",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1767082158,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 119217,
+      "num": 198107,
+      "word": "东部战区密集发布",
+      "onboard_time": 1767084560,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119106,
@@ -1233,14 +1289,6 @@
       "onboard_time": 1767066321,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117203,
-      "num": 198107,
-      "word": "东部战区密集发布",
-      "onboard_time": 1767084560,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 117183,
@@ -1331,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113998,
+      "num": 113998,
+      "word": "藏海 尖子生成绩单就长这样",
+      "onboard_time": 1767087802,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113074,
       "num": 113074,
       "word": "爱你老己到底指的是什么",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1767067101,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112523,
+      "num": 153138,
+      "word": "Mate80把非遗英歌拍出新花样",
+      "onboard_time": 1767087381,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 112493,
@@ -1411,19 +1475,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107971,
+      "num": 107971,
+      "word": "说话含糊 言语霸凌",
+      "onboard_time": 1767086721,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107793,
       "num": 157952,
       "word": "娜扎回应赵嘉敏",
       "onboard_time": 1767024440,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 107769,
-      "num": 107769,
-      "word": "把李冰冰认成了Angelababy",
-      "onboard_time": 1767086481,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1465,14 +1529,6 @@
       "onboard_time": 1767071242,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 105027,
-      "num": 105027,
-      "word": "程潇从一步一步到一部一部",
-      "onboard_time": 1767087080,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 103855,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1767064880,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100317,
+      "num": 100317,
+      "word": "何老师跨年零点想拥抱的人",
+      "onboard_time": 1767086960,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 99737,
@@ -1683,14 +1747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93261,
-      "num": 93261,
-      "word": "何老师跨年零点想拥抱的人",
-      "onboard_time": 1767086960,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93203,
       "num": 93203,
       "word": "不跑不跳三个动作控血糖",
@@ -1763,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90117,
-      "num": 90117,
-      "word": "对黄景瑜的好感不分男女老少",
-      "onboard_time": 1767087141,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90003,
       "num": 131844,
       "word": "疑似温精灵前合伙人发视频控诉",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1767040034,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89607,
-      "num": 89607,
-      "word": "尔冬升女儿好漂亮",
-      "onboard_time": 1767087201,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 89400,
@@ -2195,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53603,
+      "num": 110033,
+      "word": "骄阳似我 不要试图拯救他人",
+      "onboard_time": 1767087620,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53315,
       "num": 156361,
       "word": "崔丽丽称伤残十级鉴定结论生效",
@@ -2484,7 +2532,7 @@
     },
     {
       "raw_hot": 39570,
-      "num": 661152,
+      "num": 799642,
       "word": "中国迈入制造强国行列",
       "onboard_time": 1767084321,
       "rank": 2,
@@ -2595,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32550,
+      "num": 113875,
+      "word": "半导体3000亿深圳是怎么跑出来的",
+      "onboard_time": 1767087921,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 32510,
       "num": 42791,
       "word": "流浪地球短片集之100%",
@@ -2627,6 +2683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29987,
+      "num": 106553,
+      "word": "黄金回收陷阱 30克项链变26克",
+      "onboard_time": 1767086601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29753,
       "num": 53953,
       "word": "信阳巨响",
@@ -2657,6 +2721,14 @@
       "onboard_time": 1767034995,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26990,
+      "num": 109025,
+      "word": "竟有如此贴合大厂35岁裁员的明星",
+      "onboard_time": 1767087620,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 26164,
@@ -2755,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21858,
+      "num": 90006,
+      "word": "过敏星人如何安稳过冬",
+      "onboard_time": 1767087560,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21626,
       "num": 44797,
       "word": "吴泽林输给王鹤棣服了",
@@ -2769,6 +2849,14 @@
       "onboard_time": 1767003740,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21023,
+      "num": 238087,
+      "word": "央视播出围岛演习多角度视频",
+      "onboard_time": 1767087381,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18324,
@@ -2787,11 +2875,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16038,
-      "num": 106553,
-      "word": "黄金回收陷阱 30克项链变26克",
-      "onboard_time": 1767086601,
-      "rank": 36,
+      "raw_hot": 15079,
+      "num": 182678,
+      "word": "2026年比农历马年多11天",
+      "onboard_time": 1767087441,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2816,6 +2904,14 @@
       "word": "黄河画家徐惠君126平尺画作被人泼墨",
       "onboard_time": 1767075501,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11908,
+      "num": 112118,
+      "word": "一出纳13年侵吞公司资金近3700万",
+      "onboard_time": 1767087802,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

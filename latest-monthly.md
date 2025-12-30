@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 17:33:46
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 17:47:53
 </p>
 </blockquote>
 <p>
@@ -3513,6 +3513,12 @@ RW战胜JDG（热度：804085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E7%83%A4%E7%BA%A2%E8%96%AF%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+爱吃烤红薯的人天塌了（热度：792867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%89%B2%E5%96%89%E6%9D%80%E5%AE%B3%23" target="weibo">
 护士被男友割喉杀害（热度：792669）
 </a>
@@ -6005,12 +6011,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%9C%87%E6%83%8A%E6%9C%89%E5%8F%AF%E8%83%BD%E4%B8%80%E6%97%A5%E4%B8%89%E8%B5%9B%23" target="weibo">
 孙颖莎震惊有可能一日三赛（热度：589530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E9%A4%90%E5%BA%97%E6%B1%A4%E9%87%8C%E6%AD%BB%E8%80%81%E9%BC%A0%E8%84%9A%E5%B7%B2%E7%86%AC%E5%BE%97%E5%8F%91%E7%99%BD%23" target="weibo">
-早餐店汤里死老鼠脚已熬得发白（热度：588915）
 </a>
 </li>
 
