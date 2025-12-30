@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767127545064,
+  "endTime": 1767130096493,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -539,20 +539,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12617,
+      "num": 23727,
+      "word": "张若昀1分52秒无台词戏",
+      "onboard_time": 1767122954,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12452,
       "num": 40485,
       "word": "2026年国补目录",
       "onboard_time": 1767093921,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 11142,
-      "num": 23727,
-      "word": "张若昀1分52秒无台词戏",
-      "onboard_time": 1767122954,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 11119,
