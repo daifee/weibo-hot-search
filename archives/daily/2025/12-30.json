@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767094919392,
+  "endTime": 1767099490987,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555025,
+      "num": 1088804,
+      "word": "罗永浩迟到超40分钟",
+      "onboard_time": 1767097341,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 553956,
       "num": 458797,
       "word": "内娱终于有全女掀桌的爽剧了",
@@ -217,6 +225,14 @@
       "onboard_time": 1767074060,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538096,
+      "num": 804630,
+      "word": "增值税",
+      "onboard_time": 1767097822,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533890,
@@ -491,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 363377,
+      "num": 123115,
+      "word": "原配拿小三手机发朋友圈被拘留",
+      "onboard_time": 1767095662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356848,
       "num": 296444,
       "word": "金巧巧吴启华 分手22年后演夫妻",
@@ -531,8 +555,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313863,
+      "num": 152005,
+      "word": "原来张凌赫吃醋是这个风味",
+      "onboard_time": 1767097222,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312049,
-      "num": 176728,
+      "num": 196515,
       "word": "12月31号我就这样下楼",
       "onboard_time": 1767091101,
       "rank": 30,
@@ -659,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238603,
+      "num": 151884,
+      "word": "张纪中妻子自曝闭黑关四天四夜",
+      "onboard_time": 1767096862,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238525,
       "num": 237555,
       "word": "于正 玉茗茶骨",
@@ -681,6 +721,14 @@
       "onboard_time": 1767064279,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 235304,
+      "num": 235304,
+      "word": "罗永浩科技春晚",
+      "onboard_time": 1767091882,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 234835,
@@ -747,6 +795,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 219128,
+      "num": 219128,
+      "word": "蔡依林取悦自己刻不容缓",
+      "onboard_time": 1767097101,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215673,
       "num": 198413,
       "word": "伊能静秦昊女儿米粒近照",
@@ -760,6 +816,14 @@
       "word": "44岁被单位辞退拿了15万离职赔偿",
       "onboard_time": 1767051559,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206481,
+      "num": 189057,
+      "word": "13岁女孩频繁屁股疼确诊骨癌",
+      "onboard_time": 1767092601,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -777,14 +841,6 @@
       "onboard_time": 1767015381,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192810,
-      "num": 192810,
-      "word": "罗永浩科技春晚",
-      "onboard_time": 1767091882,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 192306,
@@ -825,14 +881,6 @@
       "onboard_time": 1767080420,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189057,
-      "num": 189057,
-      "word": "13岁女孩频繁屁股疼确诊骨癌",
-      "onboard_time": 1767092601,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188840,
@@ -955,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173770,
+      "num": 120208,
+      "word": "林俊杰女友曾分享铁刘海教程",
+      "onboard_time": 1767095062,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171590,
       "num": 171590,
       "word": "迪丽热巴开年刊销量",
@@ -1059,6 +1115,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152046,
+      "num": 152046,
+      "word": "林孝埈说全力以赴备战冬奥",
+      "onboard_time": 1767098662,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151759,
+      "num": 151759,
+      "word": "骄阳似我预告",
+      "onboard_time": 1767096082,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151299,
+      "num": 151299,
+      "word": "小县城里最好听的名字",
+      "onboard_time": 1767095363,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149633,
       "num": 173733,
       "word": "数字人民币重大调整",
@@ -1147,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "赵丽颖黄晓明新剧下证了",
+      "onboard_time": 1767097402,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140457,
       "num": 140457,
       "word": "年度热搜男女角色出炉",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1767089662,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139622,
+      "num": 139622,
+      "word": "成毅携双角色杀进年度TOP3",
+      "onboard_time": 1767098601,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137893,
@@ -1299,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127666,
+      "num": 127666,
+      "word": "世界上最长寿的在世猫咪30岁了",
+      "onboard_time": 1767097341,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127107,
       "num": 127107,
       "word": "宋威龙给赵今麦的备注是暗夜玫瑰",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1767060441,
       "rank": 26,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 123970,
+      "num": 123970,
+      "word": "2026年国补目录",
+      "onboard_time": 1767093921,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 123315,
@@ -1459,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118366,
+      "num": 118366,
+      "word": "张兰败诉判赔麻六记前运营2万",
+      "onboard_time": 1767098182,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118236,
       "num": 132630,
       "word": "管乐临时走红毯穿棉拖鞋就来了",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1767020067,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115905,
+      "num": 115905,
+      "word": "KBS",
+      "onboard_time": 1767097461,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 115266,
@@ -1643,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110174,
+      "num": 110174,
+      "word": "曹骏年终直播读信感谢影迷",
+      "onboard_time": 1767099261,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110093,
       "num": 113102,
       "word": "谁能拒绝一场美食跨年",
@@ -1747,14 +1883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105187,
-      "num": 105187,
-      "word": "2026年国补目录",
-      "onboard_time": 1767093921,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 105138,
       "num": 105138,
       "word": "iPhoneFold最新渲染图曝光",
@@ -1803,6 +1931,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101534,
+      "num": 86883,
+      "word": "昭昭墨墨2025CP热度断层领先",
+      "onboard_time": 1767096022,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101447,
+      "num": 86857,
+      "word": "骄阳似我微博评分现偶史上第一",
+      "onboard_time": 1767098601,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101136,
       "num": 101136,
       "word": "日本母亲疑杀死三子与情夫后自杀",
@@ -1841,6 +1985,14 @@
       "onboard_time": 1767061880,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 99493,
+      "num": 99493,
+      "word": "台军后备干部狂赞解放军被踢出群聊",
+      "onboard_time": 1767097101,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99352,
@@ -2019,6 +2171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93098,
+      "num": 93098,
+      "word": "美军女飞行员失业后来中国当机长",
+      "onboard_time": 1767098782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93047,
       "num": 101600,
       "word": "台方疑似P图造假",
@@ -2056,6 +2216,14 @@
       "word": "6类家电最高补贴1500元",
       "onboard_time": 1767094281,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91892,
+      "num": 91892,
+      "word": "青州地震",
+      "onboard_time": 1767097043,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2129,6 +2297,14 @@
       "onboard_time": 1767091462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90086,
+      "num": 90086,
+      "word": "武校投毒案致7死2罪犯被执行死刑",
+      "onboard_time": 1767099143,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90003,
@@ -2241,6 +2417,14 @@
       "onboard_time": 1767057981,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85212,
+      "num": 85212,
+      "word": "骄阳似我 有梗",
+      "onboard_time": 1767098063,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 84646,
@@ -2419,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76276,
+      "num": 76276,
+      "word": "被字节跳动免费食堂震惊到了",
+      "onboard_time": 1767099322,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 75783,
       "num": 75783,
       "word": "Manus",
@@ -2441,6 +2633,14 @@
       "onboard_time": 1767005900,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73373,
+      "num": 73373,
+      "word": "孙颖莎登中国妇女杂志封面",
+      "onboard_time": 1767096442,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73073,
@@ -2481,6 +2681,14 @@
       "onboard_time": 1767064279,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71236,
+      "num": 121805,
+      "word": "优衣库回应试衣间不再提供拖鞋",
+      "onboard_time": 1767098063,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71234,
@@ -2851,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44605,
+      "num": 86946,
+      "word": "冬天靠你了老己",
+      "onboard_time": 1767097402,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44192,
       "num": 155753,
       "word": "2025最难忘的一件事",
@@ -3201,6 +3417,14 @@
       "onboard_time": 1767036314,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27883,
+      "num": 90370,
+      "word": "白鹿今年角色都上榜了",
+      "onboard_time": 1767098901,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27168,
