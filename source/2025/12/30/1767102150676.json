@@ -1,0 +1,410 @@
+{
+  "runTime": 1767102150676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825793,
+        "num": 1132126,
+        "word": "增值税",
+        "onboard_time": 1767097822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461035,
+        "num": 826988,
+        "word": "罗永浩迟到超40分钟",
+        "onboard_time": 1767097341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18010,
+        "num": 653679,
+        "word": "2026年重点任务来了",
+        "onboard_time": 1767083600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454295,
+        "num": 454295,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227319,
+        "num": 227319,
+        "word": "世界上最长寿的在世猫咪30岁了",
+        "onboard_time": 1767097341,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327640,
+        "num": 226019,
+        "word": "原配拿小三手机发朋友圈被拘留",
+        "onboard_time": 1767095662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233436,
+        "num": 225923,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224374,
+        "num": 224374,
+        "word": "罗永浩科技春晚",
+        "onboard_time": 1767091882,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200875,
+        "num": 200875,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767101301,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199917,
+        "num": 199917,
+        "word": "金巧巧吴启华 分手22年后演夫妻",
+        "onboard_time": 1767087260,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427329,
+        "num": 199470,
+        "word": "张纪中妻子自曝闭黑关四天四夜",
+        "onboard_time": 1767096862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406477,
+        "num": 197988,
+        "word": "女孩遭姨夫性侵父母拒绝出具谅解书",
+        "onboard_time": 1767100702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316526,
+        "num": 196010,
+        "word": "原来张凌赫吃醋是这个风味",
+        "onboard_time": 1767097222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265293,
+        "num": 194109,
+        "word": "蔡依林取悦自己刻不容缓",
+        "onboard_time": 1767097101,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27469,
+        "num": 193655,
+        "word": "中国功夫焕新之旅",
+        "onboard_time": 1767100402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192533,
+        "num": 192533,
+        "word": "陈泽自曝收入",
+        "onboard_time": 1767101363,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180621,
+        "num": 180621,
+        "word": "小县城里最好听的名字",
+        "onboard_time": 1767095363,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172844,
+        "num": 172844,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162719,
+        "num": 162719,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88558,
+        "num": 162655,
+        "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
+        "onboard_time": 1767101601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585842,
+        "num": 162048,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357034,
+        "num": 161267,
+        "word": "蔡依林踩蛇出场",
+        "onboard_time": 1767100702,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219016,
+        "num": 160820,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191810,
+        "num": 159768,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159604,
+        "num": 159604,
+        "word": "罗云熙演的生理性痛感看窒息了",
+        "onboard_time": 1767101003,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156379,
+        "num": 156379,
+        "word": "台军后备干部狂赞解放军被踢出群聊",
+        "onboard_time": 1767097101,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152765,
+        "num": 152765,
+        "word": "承德致20死重大火灾事故调查报告",
+        "onboard_time": 1767101783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150273,
+        "num": 150273,
+        "word": "温精灵回应前合伙人控诉",
+        "onboard_time": 1767099683,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70389,
+        "num": 149840,
+        "word": "2026年国补目录",
+        "onboard_time": 1767093921,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67478,
+        "num": 149697,
+        "word": "东部战区破袭夺港割裂",
+        "onboard_time": 1767101363,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149634,
+        "num": 149634,
+        "word": "评论罗伯特总结我的2025",
+        "onboard_time": 1767100942,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149775,
+        "num": 149447,
+        "word": "赵丽颖黄晓明新剧下证了",
+        "onboard_time": 1767097402,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148747,
+        "num": 148747,
+        "word": "童禹坤直播嗦鸭头",
+        "onboard_time": 1767102083,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148647,
+        "num": 148647,
+        "word": "宋威龙张婧仪牵手舞台",
+        "onboard_time": 1767089179,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134541,
+        "num": 148407,
+        "word": "没人能逃过湖南卫视的跨年盛宴",
+        "onboard_time": 1767100644,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148365,
+        "num": 148365,
+        "word": "张凌赫直播",
+        "onboard_time": 1767089540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144020,
+        "num": 144020,
+        "word": "林俊杰女友曾分享铁刘海教程",
+        "onboard_time": 1767095062,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54642,
+        "num": 139093,
+        "word": "魏建军把家底子掏出来了",
+        "onboard_time": 1767100523,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134770,
+        "num": 134770,
+        "word": "小米明年或推4款新车",
+        "onboard_time": 1767101722,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74639,
+        "num": 125740,
+        "word": "骄阳似我后面有13场吻戏",
+        "onboard_time": 1767101242,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117232,
+        "num": 117232,
+        "word": "迪丽热巴氛围感满分",
+        "onboard_time": 1767101783,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129509,
+        "num": 116364,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767096082,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114566,
+        "num": 114566,
+        "word": "青州地震",
+        "onboard_time": 1767097043,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111913,
+        "num": 111913,
+        "word": "骄阳似我微博评分现偶史上第一",
+        "onboard_time": 1767098601,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106520,
+        "num": 106520,
+        "word": "张兰败诉判赔麻六记前运营2万",
+        "onboard_time": 1767098182,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105312,
+        "num": 105312,
+        "word": "郭冬临 谁点的京圈清冷佛子",
+        "onboard_time": 1767091581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99724,
+        "num": 99724,
+        "word": "周深跨年直播",
+        "onboard_time": 1767101123,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98493,
+        "num": 98493,
+        "word": "黄子韬 刘耀文比徐艺洋还难哄",
+        "onboard_time": 1767099502,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95421,
+        "num": 95421,
+        "word": "美军女飞行员失业后来中国当机长",
+        "onboard_time": 1767098782,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95674,
+        "num": 95375,
+        "word": "刘端端也是演上难哄了",
+        "onboard_time": 1767101963,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
