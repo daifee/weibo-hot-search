@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 12:58:16
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 13:31:42
 </p>
 </blockquote>
 <p>
@@ -1985,6 +1985,12 @@ BLG官宣Viper加入（热度：1081304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E5%A5%BD%E5%A4%A7%E6%B0%94%E7%9A%84%E4%BA%94%E5%AE%98%23" target="weibo">
 赵今麦 好大气的五官（热度：1049490）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E8%A2%AB%E9%80%BC%E6%89%BF%E8%AE%A4%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
+陶白白被逼承认射手座是最好的星座（热度：1046646）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%23" target="weibo">
 老舅（热度：586320）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%85%B4%E9%98%B3%E7%94%A8AI%E5%A4%8D%E5%8E%9F%E4%BA%86%E5%88%98%E7%BB%B4%E5%A6%88%E5%A6%88%23" target="weibo">
-谢兴阳用AI复原了刘维妈妈（热度：586060）
 </a>
 </li>
 

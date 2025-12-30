@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767070696656,
+  "endTime": 1767072702472,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -177,6 +177,14 @@
       "onboard_time": 1766986101,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1046646,
+      "num": 341710,
+      "word": "陶白白被逼承认射手座是最好的星座",
+      "onboard_time": 1767068901,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1041426,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485501,
+      "num": 1077680,
+      "word": "特朗普回应解放军在台岛附近军演",
+      "onboard_time": 1767071842,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 480217,
       "num": 480217,
       "word": "大鹅已找到主人决定继续抽水追凶",
@@ -825,6 +841,14 @@
       "onboard_time": 1766841082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471385,
+      "num": 325543,
+      "word": "物业躺着赚钱的日子彻底到头了",
+      "onboard_time": 1767068061,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461749,
@@ -1179,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403939,
-      "num": 323853,
-      "word": "陶白白被逼承认射手座是最好的星座",
-      "onboard_time": 1767068901,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 401729,
       "num": 401729,
       "word": "张子枫马嘉祺新剧官宣海报",
@@ -1347,6 +1363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 365770,
+      "num": 365770,
+      "word": "相恋十年中美情侣博主分手",
+      "onboard_time": 1767068601,
+      "rank": 4,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 364089,
       "num": 315500,
       "word": "刘耀文 撕漫男",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1766902581,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325543,
-      "num": 325543,
-      "word": "物业躺着赚钱的日子彻底到头了",
-      "onboard_time": 1767068061,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324881,
@@ -1771,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284822,
+      "num": 320436,
+      "word": "金价暴跌店员称跌幅首次见",
+      "onboard_time": 1767068302,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 282123,
       "num": 263975,
       "word": "贺峻霖大屏的神",
@@ -1851,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272933,
+      "num": 272933,
+      "word": "曝温精灵背刺好友和发疯是常态",
+      "onboard_time": 1767068542,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 272066,
       "num": 272066,
       "word": "玩家要求下架飞白",
@@ -1865,14 +1897,6 @@
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270728,
-      "num": 320436,
-      "word": "金价暴跌店员称跌幅首次见",
-      "onboard_time": 1767068302,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 269284,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1766902700,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253989,
-      "num": 322237,
-      "word": "相恋十年中美情侣博主分手",
-      "onboard_time": 1767068601,
-      "rank": 4,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 253753,
@@ -2113,14 +2129,6 @@
       "onboard_time": 1766988321,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238705,
-      "num": 238705,
-      "word": "曝温精灵背刺好友和发疯是常态",
-      "onboard_time": 1767068542,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 238525,
@@ -2281,6 +2289,14 @@
       "onboard_time": 1766893759,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220924,
+      "num": 220924,
+      "word": "王艳19岁儿子星味",
+      "onboard_time": 1767072260,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 220594,
@@ -2587,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196926,
+      "num": 326297,
+      "word": "东部战区发布远程火力实弹射击画面",
+      "onboard_time": 1767068843,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196731,
       "num": 196731,
       "word": "宋亚轩免检生图",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1766929042,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196112,
+      "num": 278624,
+      "word": "多品牌叫停燕云十六声联动",
+      "onboard_time": 1767072260,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 195417,
@@ -2739,14 +2771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189220,
-      "num": 318698,
-      "word": "东部战区发布远程火力实弹射击画面",
-      "onboard_time": 1767068843,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 188840,
       "num": 188840,
       "word": "东部战区问明天看什么",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1766989641,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186292,
+      "num": 304545,
+      "word": "迪丽热巴迪奥开年首封",
+      "onboard_time": 1767067761,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185892,
@@ -2963,14 +2995,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 177736,
-      "num": 304545,
-      "word": "迪丽热巴迪奥开年首封",
-      "onboard_time": 1767067761,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 177063,
       "num": 177063,
       "word": "第五瓜格",
@@ -3073,6 +3097,14 @@
       "onboard_time": 1766921301,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172520,
+      "num": 306620,
+      "word": "台军休假官兵紧急返岗",
+      "onboard_time": 1767069501,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172284,
@@ -4115,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136807,
+      "num": 136807,
+      "word": "骄阳似我 长白山文旅",
+      "onboard_time": 1767071482,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136773,
       "num": 136773,
       "word": "罚罪2直播",
@@ -4411,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128200,
+      "num": 128200,
+      "word": "留学后发现世界是个骗局",
+      "onboard_time": 1767070643,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127747,
       "num": 118953,
       "word": "亏了7千但是省了2万",
@@ -4441,6 +4489,14 @@
       "onboard_time": 1766901620,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127107,
+      "num": 127107,
+      "word": "宋威龙给赵今麦的备注是暗夜玫瑰",
+      "onboard_time": 1767071242,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 126712,
@@ -4545,6 +4601,14 @@
       "onboard_time": 1766898861,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124771,
+      "num": 124771,
+      "word": "Faker被问年薪多少",
+      "onboard_time": 1767071001,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 124769,
@@ -4721,6 +4785,14 @@
       "onboard_time": 1766895560,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121753,
+      "num": 121753,
+      "word": "陈赫大女儿又高又瘦",
+      "onboard_time": 1767072500,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 121448,
@@ -4907,6 +4979,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "玉茗茶骨 不用忍过多少集的剧",
+      "onboard_time": 1767072322,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116877,
+      "num": 116877,
+      "word": "羽绒服口袋里的哈尔滨机票刺痛了谁",
+      "onboard_time": 1767072021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116842,
       "num": 116842,
       "word": "玉茗茶骨今日开播",
@@ -4992,14 +5080,6 @@
       "word": "跨年开运三件套",
       "onboard_time": 1767069382,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 114627,
-      "num": 114626,
-      "word": "留学后发现世界是个骗局",
-      "onboard_time": 1767070643,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -5185,14 +5265,6 @@
       "onboard_time": 1766926102,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111489,
-      "num": 306620,
-      "word": "台军休假官兵紧急返岗",
-      "onboard_time": 1767069501,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111383,
@@ -5459,6 +5531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105319,
+      "num": 105319,
+      "word": "董宇辉亿元沙发订单陷代工质疑",
+      "onboard_time": 1767071962,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105291,
       "num": 214944,
       "word": "追在身后的续命水5小时就要喝",
@@ -5481,6 +5561,14 @@
       "onboard_time": 1766906541,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 105138,
+      "num": 105138,
+      "word": "iPhoneFold最新渲染图曝光",
+      "onboard_time": 1767071242,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 105131,
@@ -6259,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92817,
+      "num": 92817,
+      "word": "广东小孩的omakase",
+      "onboard_time": 1767071723,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92380,
       "num": 92380,
       "word": "中柬泰外长会晤成功举行",
@@ -6331,6 +6427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90537,
+      "num": 90537,
+      "word": "孙颖莎炯炯有神大眼睛",
+      "onboard_time": 1767072322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90494,
       "num": 90494,
       "word": "12月31号可以发的文案",
@@ -6393,6 +6497,14 @@
       "onboard_time": 1767005060,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89400,
+      "num": 89400,
+      "word": "解放军的包围让台军往哪撤",
+      "onboard_time": 1767071001,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89314,
@@ -6459,6 +6571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88414,
+      "num": 88414,
+      "word": "考公机构疑挂横幅上岸彩礼多要20万",
+      "onboard_time": 1767072680,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88364,
       "num": 88364,
       "word": "A股有色板块领跌",
@@ -6505,6 +6625,14 @@
       "onboard_time": 1766917042,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87727,
+      "num": 87727,
+      "word": "国乒洛奥教练竞聘43选28",
+      "onboard_time": 1767071421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87239,
@@ -7611,6 +7739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53930,
+      "num": 117233,
+      "word": "杨幂也不能共情以前的自己",
+      "onboard_time": 1767071842,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53888,
       "num": 157758,
       "word": "王者最还原的联动皮肤",
@@ -7811,6 +7947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46909,
+      "num": 358847,
+      "word": "2026是个什么年",
+      "onboard_time": 1767057921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46820,
       "num": 171117,
       "word": "宋威龙扛住了格莱美运镜",
@@ -8003,6 +8147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41951,
+      "num": 136822,
+      "word": "孟晚舟新年致辞谈华为2026战略",
+      "onboard_time": 1767071122,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41836,
       "num": 41836,
       "word": "Knight直播回应BLG德杯12强",
@@ -8115,14 +8267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38972,
-      "num": 325397,
-      "word": "2026是个什么年",
-      "onboard_time": 1767057921,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38949,
       "num": 124549,
       "word": "砍死45岁邻居嫌犯曾因精神问题就医",
@@ -8137,6 +8281,14 @@
       "onboard_time": 1766895381,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37977,
+      "num": 119148,
+      "word": "当地通报上岸彩礼多要20万横幅争议",
+      "onboard_time": 1767072322,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 37577,
