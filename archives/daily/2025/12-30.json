@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767061911131,
+  "endTime": 1767066667016,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -27,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756320,
+      "num": 1121011,
+      "word": "蔡磊渐冻症病情接近终末期",
+      "onboard_time": 1767065781,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686917,
+      "num": 686917,
+      "word": "北京一老板招25人其中24个骗子",
+      "onboard_time": 1767063259,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668365,
       "num": 251625,
       "word": "张杰演唱会回应争议",
@@ -35,8 +51,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 624184,
-      "num": 82039,
+      "raw_hot": 657987,
+      "num": 171560,
       "word": "林俊杰 田馥甄",
       "onboard_time": 1767023183,
       "rank": 26,
@@ -73,6 +89,22 @@
       "onboard_time": 1767057501,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477527,
+      "num": 320005,
+      "word": "许我耀眼现实版骗婚案",
+      "onboard_time": 1767059960,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450575,
+      "num": 224610,
+      "word": "止痛药布洛芬千万别乱吃",
+      "onboard_time": 1767061222,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 435532,
@@ -115,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 399956,
+      "num": 310400,
+      "word": "退货羽绒服兜里有机票买家否认白嫖",
+      "onboard_time": 1767060980,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367592,
       "num": 899092,
       "word": "解放军海报中3艘美军核潜艇被拦截",
@@ -147,20 +187,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 320005,
-      "num": 320005,
-      "word": "许我耀眼现实版骗婚案",
-      "onboard_time": 1767059960,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299888,
       "num": 299888,
       "word": "江宏杰疑似回应福原爱",
       "onboard_time": 1767058460,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299077,
+      "num": 299077,
+      "word": "仙剑奇侠传三动画开播",
+      "onboard_time": 1767062719,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 279762,
@@ -227,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236063,
+      "num": 171955,
+      "word": "1704公里超长续航SUV小鹏G7来了",
+      "onboard_time": 1767064279,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 234835,
       "num": 234835,
       "word": "新闻联播出现台北101大楼画面",
       "onboard_time": 1767014301,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232679,
+      "num": 232679,
+      "word": "林依轮 长白山能看人谈恋爱",
+      "onboard_time": 1767063621,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 229509,
@@ -249,14 +305,6 @@
       "onboard_time": 1767019767,
       "rank": 6,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 224610,
-      "num": 224610,
-      "word": "止痛药布洛芬千万别乱吃",
-      "onboard_time": 1767061222,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 208192,
@@ -315,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171590,
+      "num": 171590,
+      "word": "迪丽热巴开年刊销量",
+      "onboard_time": 1767063860,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170652,
       "num": 155900,
       "word": "殷世航不建议大家做断骨增高",
       "onboard_time": 1767025400,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 159172,
+      "num": 176566,
+      "word": "潮汕简直是预制菜克星",
+      "onboard_time": 1767063558,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158486,
@@ -339,8 +403,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157596,
+      "num": 176376,
+      "word": "霍建华我那失散多年的哥哥",
+      "onboard_time": 1767065361,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155364,
+      "num": 175060,
+      "word": "福建海警舰艇与台海巡船对峙航行",
+      "onboard_time": 1767064341,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149633,
-      "num": 149633,
+      "num": 173733,
       "word": "数字人民币重大调整",
       "onboard_time": 1767050658,
       "rank": 9,
@@ -355,12 +435,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144467,
+      "num": 175273,
+      "word": "这一年全在文档里了",
+      "onboard_time": 1767065420,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142731,
       "num": 157449,
       "word": "白鹿剪短了头发",
       "onboard_time": 1767015803,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142119,
+      "num": 142119,
+      "word": "一到冬天家里都是微脏的衣服",
+      "onboard_time": 1767065660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141201,
+      "num": 141201,
+      "word": "和朋友见面相当于一场心理治疗",
+      "onboard_time": 1767066561,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 137893,
@@ -387,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125195,
-      "num": 310400,
-      "word": "退货羽绒服兜里有机票买家否认白嫖",
-      "onboard_time": 1767060980,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124242,
       "num": 157354,
       "word": "歌手找的对象都好年轻",
@@ -411,6 +507,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 122863,
+      "num": 122863,
+      "word": "陈伟霆 衣服越浅唱跳越狠",
+      "onboard_time": 1767063979,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122426,
       "num": 157993,
       "word": "龙麦cp",
@@ -419,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121787,
+      "num": 121787,
+      "word": "渐冻症患者哭着感谢蔡磊",
+      "onboard_time": 1767063799,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116763,
       "num": 116763,
       "word": "詹姆斯全明星投票先服老了",
       "onboard_time": 1767058880,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116658,
+      "num": 116658,
+      "word": "金饰价格跌破1400元关口",
+      "onboard_time": 1767062120,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 116335,
@@ -443,6 +563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113074,
+      "num": 113074,
+      "word": "爱你老己到底指的是什么",
+      "onboard_time": 1767065962,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109326,
+      "num": 116409,
+      "word": "管乐临时走红毯穿棉拖鞋就来了",
+      "onboard_time": 1767066321,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108566,
       "num": 231406,
       "word": "12月31日晚7时发表新年贺词",
@@ -459,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107531,
+      "num": 114815,
+      "word": "月薪1万也能攒钱偷偷逆袭",
+      "onboard_time": 1767064641,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "被误解的鸡肉",
@@ -473,6 +617,30 @@
       "onboard_time": 1767059960,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103503,
+      "num": 173858,
+      "word": "女子面馆吃面遭老板骚扰露丝袜免单",
+      "onboard_time": 1767065720,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103262,
+      "num": 103262,
+      "word": "年终奖的终极打开方式",
+      "onboard_time": 1767066561,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100461,
+      "num": 100461,
+      "word": "解放军演习冲上日媒头条",
+      "onboard_time": 1767064880,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99737,
@@ -529,6 +697,14 @@
       "onboard_time": 1767059900,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93203,
+      "num": 93203,
+      "word": "不跑不跳三个动作控血糖",
+      "onboard_time": 1767066621,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93000,
@@ -707,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71343,
+      "num": 114467,
+      "word": "福建海警闽南语喊话",
+      "onboard_time": 1767064279,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70704,
       "num": 70704,
       "word": "东部战区演习第2天",
@@ -883,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45531,
+      "num": 113580,
+      "word": "500万闲置别墅遭邻居侵占养鸡鸭",
+      "onboard_time": 1767065361,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45528,
       "num": 56302,
       "word": "胡彦斌和易梦玲差16岁",
@@ -1001,6 +1193,22 @@
       "onboard_time": 1767029956,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33134,
+      "num": 174091,
+      "word": "把百年人生计划写入健康新一年",
+      "onboard_time": 1767064341,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32614,
+      "num": 174346,
+      "word": "在新年把烟台童话带回家",
+      "onboard_time": 1767064341,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32510,
