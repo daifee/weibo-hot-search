@@ -1,0 +1,410 @@
+{
+  "runTime": 1767070696656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353315,
+        "num": 1353315,
+        "word": "蔡磊渐冻症病情接近终末期",
+        "onboard_time": 1767065781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325543,
+        "num": 325543,
+        "word": "物业躺着赚钱的日子彻底到头了",
+        "onboard_time": 1767068061,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38972,
+        "num": 325397,
+        "word": "2026是个什么年",
+        "onboard_time": 1767057921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403939,
+        "num": 323853,
+        "word": "陶白白被逼承认射手座是最好的星座",
+        "onboard_time": 1767068901,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253989,
+        "num": 322237,
+        "word": "相恋十年中美情侣博主分手",
+        "onboard_time": 1767068601,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 845889,
+        "num": 321158,
+        "word": "张家界一45岁家长站护学岗时死亡",
+        "onboard_time": 1767067341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270728,
+        "num": 320436,
+        "word": "金价暴跌店员称跌幅首次见",
+        "onboard_time": 1767068302,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 318698,
+        "word": "东部战区发布远程火力实弹射击画面",
+        "onboard_time": 1767068843,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185892,
+        "num": 317432,
+        "word": "微博之夜",
+        "onboard_time": 1767069861,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166920,
+        "num": 316866,
+        "word": "雷军跨年直播拆车",
+        "onboard_time": 1767070222,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 835079,
+        "num": 316034,
+        "word": "七七毕业于帕森斯设计学院",
+        "onboard_time": 1767068421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672182,
+        "num": 314045,
+        "word": "台湾多条航线大面积取消",
+        "onboard_time": 1767067402,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98953,
+        "num": 312786,
+        "word": "远程火力实弹射击视频来了",
+        "onboard_time": 1767069321,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612956,
+        "num": 312128,
+        "word": "林俊杰金莎 那年夏天刮的什么风",
+        "onboard_time": 1767066981,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553956,
+        "num": 311353,
+        "word": "内娱终于有全女掀桌的爽剧了",
+        "onboard_time": 1767067223,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429461,
+        "num": 309524,
+        "word": "北京一老板招25人其中24个骗子",
+        "onboard_time": 1767063259,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408629,
+        "num": 308809,
+        "word": "霍建华我那失散多年的哥哥",
+        "onboard_time": 1767065361,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371288,
+        "num": 307644,
+        "word": "女子面馆吃面遭老板骚扰露丝袜免单",
+        "onboard_time": 1767065720,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111489,
+        "num": 306620,
+        "word": "台军休假官兵紧急返岗",
+        "onboard_time": 1767069501,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32462,
+        "num": 305429,
+        "word": "这个新年被苹果市俘获",
+        "onboard_time": 1767068001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 304545,
+        "word": "迪丽热巴迪奥开年首封",
+        "onboard_time": 1767067761,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2092570,
+        "num": 303031,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302333,
+        "num": 302333,
+        "word": "张杰演唱会谢娜将同台网友吵翻",
+        "onboard_time": 1767056902,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293804,
+        "num": 293804,
+        "word": "止痛药布洛芬千万别乱吃",
+        "onboard_time": 1767061222,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255224,
+        "num": 255224,
+        "word": "许我耀眼现实版骗婚案",
+        "onboard_time": 1767059960,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238705,
+        "num": 238705,
+        "word": "曝温精灵背刺好友和发疯是常态",
+        "onboard_time": 1767068542,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209280,
+        "num": 209280,
+        "word": "曹西平去世",
+        "onboard_time": 1767051020,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189403,
+        "num": 189403,
+        "word": "迪丽热巴 红秀开年刊",
+        "onboard_time": 1767070402,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122326,
+        "num": 183146,
+        "word": "豪华真旗舰就选问界M9",
+        "onboard_time": 1767069382,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182412,
+        "num": 182412,
+        "word": "温精灵",
+        "onboard_time": 1767052762,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176894,
+        "num": 176894,
+        "word": "大冰说女生花精力在脸和身材上不是错事",
+        "onboard_time": 1767067580,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157966,
+        "num": 157966,
+        "word": "张峻豪到底在嘘什么",
+        "onboard_time": 1767069681,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144172,
+        "num": 144172,
+        "word": "白衣公卿",
+        "onboard_time": 1767069923,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137671,
+        "num": 137671,
+        "word": "仙剑奇侠传三动画开播",
+        "onboard_time": 1767062719,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136466,
+        "num": 136466,
+        "word": "36克金镯一夜便宜了1500元",
+        "onboard_time": 1767069201,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 135636,
+        "num": 135636,
+        "word": "白银史诗级暴跌",
+        "onboard_time": 1767069201,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132372,
+        "num": 132372,
+        "word": "潮汕简直是预制菜克星",
+        "onboard_time": 1767063558,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29485,
+        "num": 132370,
+        "word": "郑丽文期待明年先到北京",
+        "onboard_time": 1767070281,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28436,
+        "num": 131844,
+        "word": "疑似温精灵前合伙人发视频控诉",
+        "onboard_time": 1767052701,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98636,
+        "num": 131318,
+        "word": "爷爷不泡茶新年伴你好昀连连",
+        "onboard_time": 1767067281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78090,
+        "num": 131084,
+        "word": "1704公里超长续航SUV小鹏G7来了",
+        "onboard_time": 1767064279,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130961,
+        "num": 130961,
+        "word": "退货羽绒服兜里有机票买家否认白嫖",
+        "onboard_time": 1767060980,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61336,
+        "num": 126953,
+        "word": "2025这一年请谢谢自己",
+        "onboard_time": 1767069801,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123297,
+        "num": 123297,
+        "word": "44岁被单位辞退拿了15万离职赔偿",
+        "onboard_time": 1767051559,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117183,
+        "num": 117183,
+        "word": "王者25年最贵的皮肤",
+        "onboard_time": 1767070643,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114969,
+        "num": 114969,
+        "word": "两个拿锤的手上都印有中国国旗",
+        "onboard_time": 1767057501,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114627,
+        "num": 114627,
+        "word": "跨年开运三件套",
+        "onboard_time": 1767069382,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53045,
+        "num": 114627,
+        "word": "民警猥亵继女案受害者母亲入院治疗",
+        "onboard_time": 1767069081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114627,
+        "num": 114626,
+        "word": "留学后发现世界是个骗局",
+        "onboard_time": 1767070643,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112493,
+        "num": 112493,
+        "word": "当地回应家长站护学岗突发疾病身亡",
+        "onboard_time": 1767069981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2026新年贺词#"
+    }
+  }
+}

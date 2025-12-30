@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 12:05:34
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 12:58:16
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ AG超玩会vs上海RNG.M（热度：964267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%8045%E5%B2%81%E5%AE%B6%E9%95%BF%E7%AB%99%E6%8A%A4%E5%AD%A6%E5%B2%97%E6%97%B6%E6%AD%BB%E4%BA%A1%23" target="weibo">
+张家界一45岁家长站护学岗时死亡（热度：845889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23" target="weibo">
 支付宝崩了（热度：843258）
 </a>
@@ -3191,6 +3197,12 @@ AG超玩会vs上海RNG.M（热度：964267）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E8%87%B4%E6%AD%89%23" target="weibo">
 山姆致歉（热度：835895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%83%E6%AF%95%E4%B8%9A%E4%BA%8E%E5%B8%95%E6%A3%AE%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%AD%A6%E9%99%A2%23" target="weibo">
+七七毕业于帕森斯设计学院（热度：835079）
 </a>
 </li>
 
@@ -4671,6 +4683,12 @@ iPhone烟花模式（热度：677951）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A4%9A%E6%9D%A1%E8%88%AA%E7%BA%BF%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23" target="weibo">
+台湾多条航线大面积取消（热度：672182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E4%B8%8E%E4%B8%8A%E7%99%BE%E5%90%8D%E5%A5%B3%E6%80%A7%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%81%B7%E6%8B%8D%23" target="weibo">
 日本男子与上百名女性发生关系偷拍（热度：671662）
 </a>
@@ -5996,24 +6014,6 @@ epic 免费游戏（热度：598855）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%23" target="weibo">
-福州（热度：585986）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6%E4%BA%8C%20%E7%AE%80%E5%8D%95%23" target="weibo">
-考研数学二 简单（热度：585059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%BF%80%E6%89%AC%20%E5%B0%8F%E9%83%91%E5%98%BB%E5%98%BB%23" target="weibo">
-张激扬 小郑嘻嘻（热度：584774）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6485,6 +6485,12 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9B%9E%E7%9C%B82025%E5%B9%B4%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%23%23" target="weibo">
 #回眸2025年大国外交#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%8F%91%E8%A1%A82026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23%23" target="weibo">
+#习近平将发表2026新年贺词#
 </a>
 </li>
 
