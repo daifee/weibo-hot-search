@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767083929756,
+  "endTime": 1767084780532,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -33,6 +33,14 @@
       "onboard_time": 1767058041,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1188540,
+      "num": 214375,
+      "word": "迅猛龙直播掉美颜",
+      "onboard_time": 1767082580,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1104251,
@@ -83,20 +91,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 748835,
+      "num": 217785,
+      "word": "于正否认雪藏宋威龙",
+      "onboard_time": 1767079640,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 748451,
       "num": 1093339,
       "word": "特朗普回应解放军在台岛附近军演",
       "onboard_time": 1767071842,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 744592,
-      "num": 217785,
-      "word": "于正否认雪藏宋威龙",
-      "onboard_time": 1767079640,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 716289,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634047,
-      "num": 214375,
-      "word": "迅猛龙直播掉美颜",
-      "onboard_time": 1767082580,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 605838,
       "num": 230734,
       "word": "我不再在朋友圈发年度总结了",
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532092,
+      "num": 1085134,
+      "word": "台军承认五大演习区域进入12海里",
+      "onboard_time": 1767074242,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 524167,
       "num": 265649,
       "word": "李沛恩直播",
@@ -211,12 +219,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 484734,
-      "num": 1077557,
-      "word": "台军承认五大演习区域进入12海里",
-      "onboard_time": 1767074242,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 495873,
+      "num": 228343,
+      "word": "舞蹈下腰致瘫女童7年未获道歉",
+      "onboard_time": 1767080120,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 478950,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 453509,
-      "num": 161328,
+      "num": 198958,
       "word": "车澈李嘉格孩子抚养权",
       "onboard_time": 1767077060,
       "rank": 24,
@@ -289,14 +297,6 @@
       "onboard_time": 1767051020,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429895,
-      "num": 228343,
-      "word": "舞蹈下腰致瘫女童7年未获道歉",
-      "onboard_time": 1767080120,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 428739,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250985,
+      "num": 198646,
+      "word": "网红赖赖官宣分手",
+      "onboard_time": 1767082881,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 247477,
       "num": 109305,
       "word": "特朗普称得知普京官邸遭袭很生气",
@@ -563,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233662,
+      "num": 204715,
+      "word": "杨幂 幂马锁",
+      "onboard_time": 1767082701,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232679,
       "num": 232679,
       "word": "林依轮 长白山能看人谈恋爱",
@@ -595,12 +611,12 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 225904,
-      "num": 156164,
-      "word": "网红赖赖官宣分手",
-      "onboard_time": 1767082881,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 215673,
+      "num": 198413,
+      "word": "伊能静秦昊女儿米粒近照",
+      "onboard_time": 1767082821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 208192,
@@ -609,22 +625,6 @@
       "onboard_time": 1767051559,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204715,
-      "num": 204715,
-      "word": "杨幂 幂马锁",
-      "onboard_time": 1767082701,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203982,
-      "num": 154335,
-      "word": "伊能静秦昊女儿米粒近照",
-      "onboard_time": 1767082821,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 202453,
@@ -659,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189240,
+      "num": 189240,
+      "word": "魏如萱与小21岁男友约会",
+      "onboard_time": 1767080420,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188840,
       "num": 188840,
       "word": "东部战区问明天看什么",
@@ -691,8 +699,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185046,
+      "num": 199907,
+      "word": "肖战不要回头彩排路透",
+      "onboard_time": 1767084380,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184587,
-      "num": 125023,
+      "num": 179066,
       "word": "教育局通报家长站护学岗时死亡",
       "onboard_time": 1767083300,
       "rank": 30,
@@ -835,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153685,
-      "num": 153685,
-      "word": "魏如萱与小21岁男友约会",
-      "onboard_time": 1767080420,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "职业演员回应扮演他人父母骗婚",
@@ -881,6 +889,14 @@
       "onboard_time": 1767065420,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144364,
+      "num": 144364,
+      "word": "江衡直播",
+      "onboard_time": 1767081739,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 144172,
@@ -956,7 +972,7 @@
     },
     {
       "raw_hot": 135471,
-      "num": 135471,
+      "num": 199199,
       "word": "苹果四曲屏",
       "onboard_time": 1767078319,
       "rank": 28,
@@ -985,6 +1001,14 @@
       "onboard_time": 1767009800,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130727,
+      "num": 130727,
+      "word": "苏醒女儿过敏体质",
+      "onboard_time": 1767082821,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 130604,
@@ -1059,6 +1083,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 123315,
+      "num": 123315,
+      "word": "海南舰编队抵达台岛东南",
+      "onboard_time": 1767084321,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122426,
       "num": 157993,
       "word": "龙麦cp",
@@ -1091,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119748,
-      "num": 119748,
-      "word": "苏醒女儿过敏体质",
-      "onboard_time": 1767082821,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119678,
       "num": 119678,
       "word": "当外国人首次尝试中国外卖",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1767073223,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118786,
+      "num": 119571,
+      "word": "官员婚内与异性深夜共处一室需彻查",
+      "onboard_time": 1767083060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118755,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1767083360,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116903,
+      "num": 125775,
+      "word": "东部战区正义之马海报",
+      "onboard_time": 1767083780,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116763,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1767065962,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113044,
+      "num": 201741,
+      "word": "小米高阶驾驶培训1万人目标达成",
+      "onboard_time": 1767084079,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 112978,
@@ -1291,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107534,
-      "num": 107534,
-      "word": "江衡直播",
-      "onboard_time": 1767081739,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107054,
       "num": 107054,
       "word": "剥茧",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1767081620,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106275,
-      "num": 125775,
-      "word": "东部战区正义之马海报",
-      "onboard_time": 1767083780,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105679,
@@ -1467,12 +1499,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98004,
+      "num": 98004,
+      "word": "大晚上猫猫开着车灯就来了",
+      "onboard_time": 1767084500,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97708,
       "num": 97708,
       "word": "何小鹏试驾特斯拉FSD",
       "onboard_time": 1767076821,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97670,
+      "num": 97670,
+      "word": "这个罚罪2又在狠狠奖励我",
+      "onboard_time": 1767084500,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 96815,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1767052701,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 89941,
+      "num": 89941,
+      "word": "一模一样的人为什么要生两次",
+      "onboard_time": 1767084681,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89676,
@@ -1787,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77494,
+      "num": 199754,
+      "word": "禁毒副大队长走私大麻获刑3年半",
+      "onboard_time": 1767083842,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75783,
       "num": 75783,
       "word": "Manus",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1767020427,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59069,
+      "num": 198107,
+      "word": "东部战区密集发布",
+      "onboard_time": 1767084560,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57896,
@@ -2059,12 +2131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49494,
-      "num": 119571,
-      "word": "官员婚内与异性深夜共处一室需彻查",
-      "onboard_time": 1767083060,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 49653,
+      "num": 209090,
+      "word": "网友偶遇京东跨晚大奖车",
+      "onboard_time": 1767082042,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 48817,
@@ -2171,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43873,
+      "num": 111810,
+      "word": "宋佳原来这么高",
+      "onboard_time": 1767084022,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43491,
       "num": 101203,
       "word": "张子墨晒与张函瑞合照",
@@ -2219,14 +2299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 41196,
-      "num": 119611,
-      "word": "禁毒副大队长走私大麻获刑3年半",
-      "onboard_time": 1767083842,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41106,
       "num": 276899,
       "word": "泽连斯基称俄总统官邸遭袭纯属捏造",
@@ -2268,7 +2340,7 @@
     },
     {
       "raw_hot": 37426,
-      "num": 164207,
+      "num": 199395,
       "word": "用声音丈量这一年",
       "onboard_time": 1767081979,
       "rank": 18,
@@ -2297,14 +2369,6 @@
       "onboard_time": 1767080420,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36293,
-      "num": 209090,
-      "word": "网友偶遇京东跨晚大奖车",
-      "onboard_time": 1767082042,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 36052,
@@ -2345,6 +2409,14 @@
       "onboard_time": 1767064341,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32702,
+      "num": 113352,
+      "word": "中华全国总工会原副主席张世平被查",
+      "onboard_time": 1767084022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32614,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1767013581,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24833,
+      "num": 600369,
+      "word": "中国迈入制造强国行列",
+      "onboard_time": 1767084321,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23698,

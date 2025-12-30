@@ -1,0 +1,410 @@
+{
+  "runTime": 1767084780532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532092,
+        "num": 1085134,
+        "word": "台军承认五大演习区域进入12海里",
+        "onboard_time": 1767074242,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367662,
+        "num": 793132,
+        "word": "台湾",
+        "onboard_time": 1767073040,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24833,
+        "num": 600369,
+        "word": "中国迈入制造强国行列",
+        "onboard_time": 1767084321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270886,
+        "num": 270886,
+        "word": "韩国总统李在明将访华",
+        "onboard_time": 1767078979,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202750,
+        "num": 202750,
+        "word": "陶白白被逼承认射手座是最好的星座",
+        "onboard_time": 1767068901,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556081,
+        "num": 202609,
+        "word": "我不再在朋友圈发年度总结了",
+        "onboard_time": 1767079341,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495873,
+        "num": 202353,
+        "word": "舞蹈下腰致瘫女童7年未获道歉",
+        "onboard_time": 1767080120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290758,
+        "num": 202197,
+        "word": "蔡磊渐冻症病情接近终末期",
+        "onboard_time": 1767065781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270427,
+        "num": 201948,
+        "word": "张家界一45岁家长站护学岗时死亡",
+        "onboard_time": 1767067341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113044,
+        "num": 201741,
+        "word": "小米高阶驾驶培训1万人目标达成",
+        "onboard_time": 1767084079,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1188540,
+        "num": 201523,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 748835,
+        "num": 201285,
+        "word": "于正否认雪藏宋威龙",
+        "onboard_time": 1767079640,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540117,
+        "num": 201100,
+        "word": "曝林俊杰卖的粉丝周边是七七设计的",
+        "onboard_time": 1767081137,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329130,
+        "num": 200917,
+        "word": "娶了个魔丸生了个魔童",
+        "onboard_time": 1767074961,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 49653,
+        "num": 200542,
+        "word": "网友偶遇京东跨晚大奖车",
+        "onboard_time": 1767082042,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242475,
+        "num": 200295,
+        "word": "王艳19岁儿子星味",
+        "onboard_time": 1767072260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233662,
+        "num": 200165,
+        "word": "杨幂 幂马锁",
+        "onboard_time": 1767082701,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185046,
+        "num": 199907,
+        "word": "肖战不要回头彩排路透",
+        "onboard_time": 1767084380,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77494,
+        "num": 199754,
+        "word": "禁毒副大队长走私大麻获刑3年半",
+        "onboard_time": 1767083842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34110,
+        "num": 199395,
+        "word": "用声音丈量这一年",
+        "onboard_time": 1767081979,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110967,
+        "num": 199199,
+        "word": "苹果四曲屏",
+        "onboard_time": 1767078319,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 411047,
+        "num": 198958,
+        "word": "车澈李嘉格孩子抚养权",
+        "onboard_time": 1767077060,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383700,
+        "num": 198854,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250985,
+        "num": 198646,
+        "word": "网红赖赖官宣分手",
+        "onboard_time": 1767082881,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215673,
+        "num": 198413,
+        "word": "伊能静秦昊女儿米粒近照",
+        "onboard_time": 1767082821,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59069,
+        "num": 198107,
+        "word": "东部战区密集发布",
+        "onboard_time": 1767084560,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197991,
+        "num": 197991,
+        "word": "金价暴跌店员称跌幅首次见",
+        "onboard_time": 1767068302,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189240,
+        "num": 189240,
+        "word": "魏如萱与小21岁男友约会",
+        "onboard_time": 1767080420,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179066,
+        "num": 179066,
+        "word": "教育局通报家长站护学岗时死亡",
+        "onboard_time": 1767083300,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 243846,
+        "num": 178851,
+        "word": "多品牌叫停燕云十六声联动",
+        "onboard_time": 1767072260,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146373,
+        "num": 146373,
+        "word": "亲爱的客栈 王鹤棣沈月",
+        "onboard_time": 1767074060,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144364,
+        "num": 144364,
+        "word": "江衡直播",
+        "onboard_time": 1767081739,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130727,
+        "num": 130727,
+        "word": "苏醒女儿过敏体质",
+        "onboard_time": 1767082821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123315,
+        "num": 123315,
+        "word": "海南舰编队抵达台岛东南",
+        "onboard_time": 1767084321,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47450,
+        "num": 119735,
+        "word": "央视总结王楚钦2025收获的一年",
+        "onboard_time": 1767082821,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118786,
+        "num": 118786,
+        "word": "官员婚内与异性深夜共处一室需彻查",
+        "onboard_time": 1767083060,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116903,
+        "num": 116903,
+        "word": "东部战区正义之马海报",
+        "onboard_time": 1767083780,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32702,
+        "num": 113352,
+        "word": "中华全国总工会原副主席张世平被查",
+        "onboard_time": 1767084022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43873,
+        "num": 111810,
+        "word": "宋佳原来这么高",
+        "onboard_time": 1767084022,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111708,
+        "num": 111708,
+        "word": "爱吃的脸脸一年瘦了90斤",
+        "onboard_time": 1767083360,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104852,
+        "num": 104852,
+        "word": "娜扎只睡两小时的状态",
+        "onboard_time": 1767081620,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "陈赫大女儿又高又瘦",
+        "onboard_time": 1767072500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98004,
+        "num": 98004,
+        "word": "大晚上猫猫开着车灯就来了",
+        "onboard_time": 1767084500,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97916,
+        "num": 97916,
+        "word": "罗云熙被投到凶手榜第一",
+        "onboard_time": 1767083780,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97670,
+        "num": 97670,
+        "word": "这个罚罪2又在狠狠奖励我",
+        "onboard_time": 1767084500,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93385,
+        "num": 93385,
+        "word": "七七毕业于帕森斯设计学院",
+        "onboard_time": 1767068421,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92944,
+        "num": 92944,
+        "word": "翟潇闻拍的照片火到外网了",
+        "onboard_time": 1767079520,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89941,
+        "num": 89941,
+        "word": "一模一样的人为什么要生两次",
+        "onboard_time": 1767084681,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86363,
+        "num": 86363,
+        "word": "女子面馆吃面遭老板骚扰露丝袜免单",
+        "onboard_time": 1767065720,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40067,
+        "num": 85335,
+        "word": "何小鹏9大场景美国对比特斯拉",
+        "onboard_time": 1767080179,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
