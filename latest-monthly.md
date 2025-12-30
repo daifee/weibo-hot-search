@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 13:48:04
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/30 14:43:18
 </p>
 </blockquote>
 <p>
@@ -3873,6 +3873,12 @@ WB对战AG（热度：775876）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23" target="weibo">
+特朗普回应解放军在台岛附近军演（热度：748451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%20%E7%8E%B0%E5%81%B6%23" target="weibo">
 猫的树 现偶（热度：747776）
 </a>
@@ -6005,12 +6011,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%98%A5%E8%8A%82%E5%B0%86%E6%94%BE%E5%81%87%E4%B9%9D%E5%A4%A9%23" target="weibo">
 2026年春节将放假九天（热度：586996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%AE%8B%E7%A5%96%E5%84%BF%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23" target="weibo">
-任嘉伦宋祖儿尖叫之夜红毯生图（热度：586679）
 </a>
 </li>
 

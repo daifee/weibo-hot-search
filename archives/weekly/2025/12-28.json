@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767073684813,
+  "endTime": 1767076998745,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -152,6 +152,14 @@
       "word": "解放军无人机俯瞰台北101大厦",
       "onboard_time": 1767009919,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1091995,
+      "num": 1174719,
+      "word": "台湾",
+      "onboard_time": 1767073040,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1767009260,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 748451,
+      "num": 1093339,
+      "word": "特朗普回应解放军在台岛附近军演",
+      "onboard_time": 1767071842,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 743721,
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 583373,
-      "num": 1093339,
-      "word": "特朗普回应解放军在台岛附近军演",
-      "onboard_time": 1767071842,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 577567,
       "num": 419824,
       "word": "六旬男子性侵智力障碍女子致怀孕",
@@ -801,6 +809,14 @@
       "onboard_time": 1766989220,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 493265,
+      "num": 321413,
+      "word": "亲爱的客栈 王鹤棣沈月",
+      "onboard_time": 1767074060,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 487443,
@@ -1083,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426017,
-      "num": 426017,
-      "word": "台湾",
-      "onboard_time": 1767073040,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 424087,
       "num": 798510,
       "word": "台中突然大规模停电",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1766927422,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419218,
+      "num": 219676,
+      "word": "林俊杰方否认女友怀孕",
+      "onboard_time": 1767075262,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 418034,
@@ -1211,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404508,
+      "num": 341474,
+      "word": "金价暴跌店员称跌幅首次见",
+      "onboard_time": 1767068302,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 404082,
       "num": 247211,
       "word": "网购羽绒服半个月退回口袋装着机票",
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385325,
+      "num": 385325,
+      "word": "董宇辉亿元沙发订单陷代工质疑",
+      "onboard_time": 1767071962,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 383419,
       "num": 266895,
       "word": "谭松韵 黄蓉",
@@ -1299,12 +1331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378046,
-      "num": 341474,
-      "word": "金价暴跌店员称跌幅首次见",
-      "onboard_time": 1767068302,
-      "rank": 6,
-      "category": "财经"
+      "raw_hot": 378053,
+      "num": 210431,
+      "word": "黄星直播",
+      "onboard_time": 1767074961,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 377095,
@@ -1427,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358099,
+      "num": 301748,
+      "word": "娶了个魔丸生了个魔童",
+      "onboard_time": 1767074961,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 357134,
       "num": 357134,
       "word": "演习宣布2小时后台当局做出反应",
@@ -1539,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326835,
+      "num": 318719,
+      "word": "陈赫大女儿又高又瘦",
+      "onboard_time": 1767072500,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324881,
       "num": 305845,
       "word": "仙逆",
@@ -1555,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 321909,
+      "num": 321909,
+      "word": "台军承认五大演习区域进入12海里",
+      "onboard_time": 1767074242,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321224,
       "num": 321224,
       "word": "朱易出现失误无缘米兰冬奥会",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1766923401,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318719,
-      "num": 318719,
-      "word": "陈赫大女儿又高又瘦",
-      "onboard_time": 1767072500,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 318630,
@@ -1995,6 +2043,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 258055,
+      "num": 203747,
+      "word": "宋威龙回应被路人要微信",
+      "onboard_time": 1767074179,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254927,
       "num": 212590,
       "word": "炎亚纶发的图有汪东城水印",
@@ -2273,6 +2329,14 @@
       "onboard_time": 1767068843,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226897,
+      "num": 278624,
+      "word": "多品牌叫停燕云十六声联动",
+      "onboard_time": 1767072260,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 226654,
@@ -2643,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196112,
-      "num": 278624,
-      "word": "多品牌叫停燕云十六声联动",
-      "onboard_time": 1767072260,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195417,
       "num": 195417,
       "word": "那英华晨宇又吵起来了",
@@ -2899,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184416,
+      "num": 184416,
+      "word": "白衣公卿全阵容官宣",
+      "onboard_time": 1767075981,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184309,
       "num": 184309,
       "word": "孙颖莎退赛杜凯琹递补",
@@ -2945,6 +3009,14 @@
       "onboard_time": 1766833401,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182129,
+      "num": 182129,
+      "word": "玉茗茶骨 不用忍过多少集的剧",
+      "onboard_time": 1767072322,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 181522,
@@ -3113,14 +3185,6 @@
       "onboard_time": 1767017431,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172964,
-      "num": 172964,
-      "word": "玉茗茶骨 不用忍过多少集的剧",
-      "onboard_time": 1767072322,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 172640,
@@ -3321,6 +3385,14 @@
       "onboard_time": 1767070222,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166908,
+      "num": 166908,
+      "word": "迪丽热巴黄家奇摄影",
+      "onboard_time": 1767076340,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166860,
@@ -3585,14 +3657,6 @@
       "onboard_time": 1766912480,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157138,
-      "num": 157138,
-      "word": "董宇辉亿元沙发订单陷代工质疑",
-      "onboard_time": 1767071962,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 156972,
@@ -5115,6 +5179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114885,
+      "num": 114885,
+      "word": "Desire4接力直播",
+      "onboard_time": 1767075740,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114714,
+      "num": 114714,
+      "word": "王心凌男孩和潘玮柏女孩都圆梦了",
+      "onboard_time": 1767076041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114627,
       "num": 114627,
       "word": "跨年开运三件套",
@@ -5353,6 +5433,14 @@
       "onboard_time": 1767001039,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109871,
+      "num": 109871,
+      "word": "鲁豫回应何不食肉糜争议",
+      "onboard_time": 1767076399,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 109657,
@@ -5675,6 +5763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103855,
+      "num": 103855,
+      "word": "快乐老友记",
+      "onboard_time": 1767076220,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103662,
       "num": 103662,
       "word": "用AI来一场说走就走的旅行",
@@ -5731,6 +5827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 102983,
+      "num": 100976,
+      "word": "papi胡彦斌防贼一样防对方",
+      "onboard_time": 1767075440,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102637,
       "num": 102637,
       "word": "热量低但一吃就饱的东西",
@@ -5769,6 +5873,14 @@
       "onboard_time": 1766886859,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101884,
+      "num": 101884,
+      "word": "金店店员忙晕了",
+      "onboard_time": 1767074900,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101739,
@@ -5825,6 +5937,14 @@
       "onboard_time": 1766919201,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101136,
+      "num": 101136,
+      "word": "日本母亲疑杀死三子与情夫后自杀",
+      "onboard_time": 1767073881,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101128,
@@ -6091,6 +6211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97708,
+      "num": 97708,
+      "word": "何小鹏试驾特斯拉FSD",
+      "onboard_time": 1767076821,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97404,
       "num": 97404,
       "word": "张若昀程潇CP感",
@@ -6339,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93270,
+      "num": 93270,
+      "word": "家长护学岗晕倒死亡校方该担责吗",
+      "onboard_time": 1767076761,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93244,
       "num": 93244,
       "word": "孙悟空无双皮夯爆了",
@@ -6353,6 +6489,14 @@
       "onboard_time": 1767066621,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93001,
+      "num": 95793,
+      "word": "沈腾说中了王安宇的毒",
+      "onboard_time": 1767075501,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 93000,
@@ -6593,6 +6737,14 @@
       "onboard_time": 1766914040,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89024,
+      "num": 89024,
+      "word": "黄桃罐头里为什么有白色的桃",
+      "onboard_time": 1767076340,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 88930,
@@ -7851,6 +8003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51713,
+      "num": 99083,
+      "word": "干儿子不想曹西平尸检",
+      "onboard_time": 1767075621,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51681,
       "num": 482592,
       "word": "警方侦破一起侵害烈士名誉荣誉案件",
@@ -8025,6 +8185,14 @@
       "onboard_time": 1766842522,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46138,
+      "num": 101286,
+      "word": "都说了别让谭松韵沾穿飞鱼服的男人",
+      "onboard_time": 1767076941,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 45935,
@@ -8435,6 +8603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35747,
+      "num": 98053,
+      "word": "胡彦斌妈妈问他有5000个粉丝吗",
+      "onboard_time": 1767075621,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35292,
       "num": 81778,
       "word": "男子花20万帮朋友赎回黄金竟是假货",
@@ -8689,6 +8865,14 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28268,
+      "num": 101139,
+      "word": "小学食堂米线超保质期2小时被罚5万",
+      "onboard_time": 1767076821,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27940,
@@ -9200,6 +9384,14 @@
       "word": "女子带亡夫照片骑摩托10天到拉萨",
       "onboard_time": 1767061701,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13809,
+      "num": 94670,
+      "word": "黄河画家徐惠君126平尺画作被人泼墨",
+      "onboard_time": 1767075501,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
