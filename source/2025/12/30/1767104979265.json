@@ -1,0 +1,410 @@
+{
+  "runTime": 1767104979265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831076,
+        "num": 1132972,
+        "word": "承德致20死重大火灾事故调查报告",
+        "onboard_time": 1767101783,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703888,
+        "num": 807709,
+        "word": "增值税",
+        "onboard_time": 1767097822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31433,
+        "num": 662113,
+        "word": "我国银发网民加速拥抱数字世界",
+        "onboard_time": 1767102802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553191,
+        "num": 553191,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 521952,
+        "num": 521952,
+        "word": "蔡依林踩蛇出场",
+        "onboard_time": 1767100702,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500108,
+        "num": 500108,
+        "word": "原配拿小三手机发朋友圈被拘留",
+        "onboard_time": 1767095662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276853,
+        "num": 276853,
+        "word": "罗永浩迟到超40分钟",
+        "onboard_time": 1767097341,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269322,
+        "num": 269322,
+        "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
+        "onboard_time": 1767101601,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236431,
+        "num": 236431,
+        "word": "骄阳似我微博评分现偶史上第一",
+        "onboard_time": 1767098601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63536,
+        "num": 219494,
+        "word": "承德火灾45名公职人员被问责",
+        "onboard_time": 1767103882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552992,
+        "num": 217305,
+        "word": "女孩遭姨夫性侵父母拒绝出具谅解书",
+        "onboard_time": 1767100702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211438,
+        "num": 211438,
+        "word": "罗永浩科技春晚",
+        "onboard_time": 1767091882,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209388,
+        "num": 209388,
+        "word": "人之初 吓人",
+        "onboard_time": 1767103643,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194969,
+        "num": 194969,
+        "word": "原来张凌赫吃醋是这个风味",
+        "onboard_time": 1767097222,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "微博之夜四大才子预测",
+        "onboard_time": 1767103882,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 190043,
+        "word": "袁一琦保密协议到期了",
+        "onboard_time": 1767104001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 188801,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179455,
+        "num": 179455,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21124,
+        "num": 175939,
+        "word": "王毅对外国记者说中国也是你的家",
+        "onboard_time": 1767104182,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51749,
+        "num": 175727,
+        "word": "胡歌生图即神图",
+        "onboard_time": 1767102201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618075,
+        "num": 175721,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175715,
+        "num": 175715,
+        "word": "张纪中妻子自曝闭黑关四天四夜",
+        "onboard_time": 1767096862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314045,
+        "num": 174609,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189677,
+        "num": 173914,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170513,
+        "num": 170513,
+        "word": "金巧巧吴启华 分手22年后演夫妻",
+        "onboard_time": 1767087260,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160413,
+        "num": 160413,
+        "word": "世界上最长寿的在世猫咪30岁了",
+        "onboard_time": 1767097341,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134406,
+        "num": 134406,
+        "word": "东部战区破袭夺港割裂",
+        "onboard_time": 1767101363,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131396,
+        "num": 131396,
+        "word": "温精灵回应前合伙人控诉",
+        "onboard_time": 1767099683,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129451,
+        "num": 129451,
+        "word": "蔡依林取悦自己刻不容缓",
+        "onboard_time": 1767097101,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121730,
+        "num": 121730,
+        "word": "品牌方回应叫停燕云十六声联动",
+        "onboard_time": 1767103822,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123491,
+        "num": 121699,
+        "word": "被字节跳动免费食堂震惊到了",
+        "onboard_time": 1767099322,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119330,
+        "num": 119330,
+        "word": "张凌赫章若楠彩排牵手了",
+        "onboard_time": 1767088822,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115120,
+        "num": 115120,
+        "word": "宋威龙张婧仪牵手舞台",
+        "onboard_time": 1767089179,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109058,
+        "num": 109058,
+        "word": "肖战刘宇宁李现热搜钉子户",
+        "onboard_time": 1767104543,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105171,
+        "num": 105171,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103613,
+        "num": 103613,
+        "word": "小县城里最好听的名字",
+        "onboard_time": 1767095363,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73503,
+        "num": 102806,
+        "word": "魏建军称长城汽车要面向全球",
+        "onboard_time": 1767102562,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102211,
+        "num": 102211,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767101301,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99168,
+        "num": 99168,
+        "word": "没人能逃过湖南卫视的跨年盛宴",
+        "onboard_time": 1767100644,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92759,
+        "num": 92759,
+        "word": "骄阳似我",
+        "onboard_time": 1767088881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92426,
+        "num": 92426,
+        "word": "你是龚俊那他是谁",
+        "onboard_time": 1767102742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89297,
+        "num": 89297,
+        "word": "小米明年或推4款新车",
+        "onboard_time": 1767101722,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88740,
+        "num": 88740,
+        "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+        "onboard_time": 1767093263,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87070,
+        "num": 87070,
+        "word": "台军后备干部狂赞解放军被踢出群聊",
+        "onboard_time": 1767097101,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86688,
+        "num": 86688,
+        "word": "尔冬升女儿好漂亮",
+        "onboard_time": 1767087201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86570,
+        "num": 86570,
+        "word": "青州地震",
+        "onboard_time": 1767097043,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84650,
+        "num": 84650,
+        "word": "张兰败诉判赔麻六记前运营2万",
+        "onboard_time": 1767098182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83908,
+        "num": 83908,
+        "word": "明年继续领国补",
+        "onboard_time": 1767102442,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80937,
+        "num": 80937,
+        "word": "钟意从个人英雄主义到冠军打野",
+        "onboard_time": 1767104361,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79962,
+        "num": 79962,
+        "word": "6岁女孩舞蹈班下腰致终身瘫痪",
+        "onboard_time": 1767104902,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对农民的特殊情感#"
+    }
+  }
+}
