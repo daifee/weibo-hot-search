@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767123472885,
+  "endTime": 1767126719338,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -553,6 +553,14 @@
       "onboard_time": 1767090802,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9306,
+      "num": 23727,
+      "word": "张若昀1分52秒无台词戏",
+      "onboard_time": 1767122954,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
