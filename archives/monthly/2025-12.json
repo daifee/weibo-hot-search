@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767112630920,
+  "endTime": 1767113560580,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -13019,6 +13019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445050,
+      "num": 502817,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1766817440,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444993,
       "num": 1071198,
       "word": "男孩考19分被妈妈夸到结巴",
@@ -20361,14 +20369,6 @@
       "onboard_time": 1766046262,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311865,
-      "num": 311865,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1766817440,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 311830,
@@ -74331,6 +74331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97118,
+      "num": 158199,
+      "word": "金莎被求婚后和孙丞潇同游西班牙",
+      "onboard_time": 1767108081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97110,
       "num": 97110,
       "word": "火箭vs国王",
@@ -74425,14 +74433,6 @@
       "onboard_time": 1765165401,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 96955,
-      "num": 158199,
-      "word": "金莎被求婚后和孙丞潇同游西班牙",
-      "onboard_time": 1767108081,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 96953,
@@ -89875,6 +89875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58498,
+      "num": 71151,
+      "word": "早期骨癌发出的危险信号",
+      "onboard_time": 1767113297,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58491,
       "num": 58491,
       "word": "苹果酱油鸡",
@@ -98057,6 +98065,14 @@
       "onboard_time": 1766843122,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35311,
+      "num": 70931,
+      "word": "迪丽热巴2026新年愿望",
+      "onboard_time": 1767113419,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35292,
