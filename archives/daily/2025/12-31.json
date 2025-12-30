@@ -1,17 +1,17 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767137228116,
+  "endTime": 1767138051824,
   "band_list": [
     {
-      "raw_hot": 589924,
-      "num": 71819,
+      "raw_hot": 1017741,
+      "num": 92670,
       "word": "明年起年龄将不再是免罪金牌",
       "onboard_time": 1767136578,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 540986,
+      "raw_hot": 585250,
       "num": 823293,
       "word": "印度宣布经济已超日本",
       "onboard_time": 1767108861,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 321865,
-      "num": 616217,
+      "num": 891631,
       "word": "解放军演习在台湾岛内引发震动",
       "onboard_time": 1767106881,
       "rank": 1,
@@ -107,8 +107,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 156371,
-      "num": 156371,
+      "raw_hot": 163392,
+      "num": 163392,
       "word": "孩子吃席打翻盘子父母让他公开道歉",
       "onboard_time": 1767105262,
       "rank": 7,
@@ -139,12 +139,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117718,
+      "num": 117718,
+      "word": "玉茗茶骨",
+      "onboard_time": 1767101301,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116931,
       "num": 116931,
       "word": "12月31号我就这样下楼",
       "onboard_time": 1767091101,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114358,
+      "num": 114358,
+      "word": "东部战区破袭夺港割裂",
+      "onboard_time": 1767101363,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113060,
@@ -155,12 +171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113038,
-      "num": 113038,
-      "word": "玉茗茶骨",
-      "onboard_time": 1767101301,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 107785,
+      "num": 107785,
+      "word": "新闻联播播出挂载实弹轰6K",
+      "onboard_time": 1767105741,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105995,
@@ -195,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93955,
-      "num": 93955,
-      "word": "新闻联播播出挂载实弹轰6K",
-      "onboard_time": 1767105741,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 96548,
+      "num": 96548,
+      "word": "2025的最后一天",
+      "onboard_time": 1767136938,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90158,
@@ -209,6 +225,14 @@
       "onboard_time": 1767092601,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87447,
+      "num": 62861,
+      "word": "金银大跌后又大涨",
+      "onboard_time": 1767136817,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 85361,
@@ -251,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75436,
-      "num": 75436,
-      "word": "2025的最后一天",
-      "onboard_time": 1767136938,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 74565,
+      "num": 74565,
+      "word": "罗永浩自曝ADHD",
+      "onboard_time": 1767137057,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 72895,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71661,
+      "num": 53333,
+      "word": "人一幸福就不会频繁更新社交软件",
+      "onboard_time": 1767136997,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69082,
       "num": 80135,
       "word": "袁一琦保密协议到期了",
@@ -283,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64511,
-      "num": 80094,
-      "word": "东部战区破袭夺港割裂",
-      "onboard_time": 1767101363,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 65524,
+      "num": 53145,
+      "word": "印度网民指责日本游客不尊重当地文化",
+      "onboard_time": 1767137177,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64375,
@@ -300,19 +332,11 @@
     },
     {
       "raw_hot": 63483,
-      "num": 46175,
+      "num": 50490,
       "word": "孙颖莎现身交通大学",
       "onboard_time": 1767136218,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62861,
-      "num": 62861,
-      "word": "金银大跌后又大涨",
-      "onboard_time": 1767136817,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 62017,
@@ -320,6 +344,14 @@
       "word": "金价波动",
       "onboard_time": 1767107121,
       "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 60746,
+      "num": 51300,
+      "word": "i茅台明年将上线1499元普茅",
+      "onboard_time": 1767137118,
+      "rank": 35,
       "category": "财经"
     },
     {
@@ -371,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49161,
-      "num": 49161,
-      "word": "罗永浩自曝ADHD",
-      "onboard_time": 1767137057,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 49657,
+      "num": 49657,
+      "word": "出现4种疼痛千万不能忍着",
+      "onboard_time": 1767137838,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46973,
@@ -393,6 +425,22 @@
       "onboard_time": 1767131354,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45671,
+      "num": 45671,
+      "word": "625亿元国补提前下达",
+      "onboard_time": 1767137057,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45584,
+      "num": 45584,
+      "word": "肖战2025电视剧多维度登顶",
+      "onboard_time": 1767137298,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44224,
@@ -420,27 +468,19 @@
     },
     {
       "raw_hot": 41458,
-      "num": 41458,
+      "num": 42342,
       "word": "檀健次扭的这两下",
       "onboard_time": 1767136218,
       "rank": 33,
       "category": "综艺"
     },
     {
-      "raw_hot": 40434,
-      "num": 40434,
-      "word": "印度网民指责日本游客不尊重当地文化",
-      "onboard_time": 1767137177,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39603,
-      "num": 39603,
-      "word": "i茅台明年将上线1499元普茅",
-      "onboard_time": 1767137118,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 40147,
+      "num": 42377,
+      "word": "新年贺词温暖人心",
+      "onboard_time": 1767137659,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38611,
@@ -449,6 +489,14 @@
       "onboard_time": 1767107481,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35816,
+      "num": 42251,
+      "word": "央视跨年晚会",
+      "onboard_time": 1767137899,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 35778,
@@ -475,6 +523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 35355,
+      "num": 42246,
+      "word": "Epic送三位一体",
+      "onboard_time": 1767137538,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33830,
       "num": 70916,
       "word": "逍遥",
@@ -499,20 +555,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 33451,
-      "num": 33451,
-      "word": "人一幸福就不会频繁更新社交软件",
+      "raw_hot": 33505,
+      "num": 42157,
+      "word": "罗永浩宣布门票免费",
       "onboard_time": 1767136997,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 33403,
-      "num": 33403,
-      "word": "625亿元国补提前下达",
-      "onboard_time": 1767137057,
-      "rank": 38,
-      "category": "民生新闻"
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 32262,
@@ -521,14 +569,6 @@
       "onboard_time": 1767114676,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30844,
-      "num": 33133,
-      "word": "罗永浩宣布门票免费",
-      "onboard_time": 1767136997,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 29406,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 11096,
-      "num": 474933,
+      "num": 510594,
       "word": "2026年农业强国建设施工图",
       "onboard_time": 1767102322,
       "rank": 2,
