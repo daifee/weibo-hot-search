@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767084780532,
+  "endTime": 1767087226868,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1188540,
-      "num": 214375,
+      "raw_hot": 1320599,
+      "num": 220312,
       "word": "迅猛龙直播掉美颜",
       "onboard_time": 1767082580,
       "rank": 12,
@@ -65,6 +65,22 @@
       "onboard_time": 1767067341,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 844939,
+      "num": 1135190,
+      "word": "教育局通报家长站护学岗时死亡",
+      "onboard_time": 1767083300,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 842060,
+      "num": 619496,
+      "word": "差点没认出张佳宁",
+      "onboard_time": 1767085101,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 835079,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 605838,
-      "num": 230734,
+      "num": 345031,
       "word": "我不再在朋友圈发年度总结了",
       "onboard_time": 1767079341,
       "rank": 33,
@@ -161,6 +177,14 @@
       "onboard_time": 1767052762,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 562316,
+      "num": 562316,
+      "word": "爱吃烤红薯的人天塌了",
+      "onboard_time": 1767085400,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 555145,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 495873,
-      "num": 228343,
+      "num": 246224,
       "word": "舞蹈下腰致瘫女童7年未获道歉",
       "onboard_time": 1767080120,
       "rank": 34,
@@ -491,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264369,
+      "num": 198646,
+      "word": "网红赖赖官宣分手",
+      "onboard_time": 1767082881,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 261860,
       "num": 157509,
       "word": "霍建华 年纪大了终于能演喜欢的角色了",
@@ -521,14 +553,6 @@
       "onboard_time": 1767063558,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250985,
-      "num": 198646,
-      "word": "网红赖赖官宣分手",
-      "onboard_time": 1767082881,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 247477,
@@ -571,8 +595,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234032,
+      "num": 234032,
+      "word": "肖战不要回头彩排路透",
+      "onboard_time": 1767084380,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233662,
-      "num": 204715,
+      "num": 205860,
       "word": "杨幂 幂马锁",
       "onboard_time": 1767082701,
       "rank": 16,
@@ -699,22 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185046,
-      "num": 199907,
-      "word": "肖战不要回头彩排路透",
-      "onboard_time": 1767084380,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184587,
-      "num": 179066,
-      "word": "教育局通报家长站护学岗时死亡",
-      "onboard_time": 1767083300,
-      "rank": 30,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 184416,
       "num": 184416,
       "word": "白衣公卿全阵容官宣",
@@ -761,6 +777,14 @@
       "onboard_time": 1767067580,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176248,
+      "num": 199199,
+      "word": "苹果四曲屏",
+      "onboard_time": 1767078319,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 174303,
@@ -811,6 +835,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163409,
+      "num": 163409,
+      "word": "顾客海底捞发现店员捞面多次甩地上",
+      "onboard_time": 1767085400,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162240,
+      "num": 162240,
+      "word": "费启鸣 上称得脱光了再上",
+      "onboard_time": 1767086240,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159524,
       "num": 175060,
       "word": "福建海警舰艇与台海巡船对峙航行",
@@ -849,6 +889,14 @@
       "onboard_time": 1767069681,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155628,
+      "num": 199754,
+      "word": "禁毒副大队长走私大麻获刑3年半",
+      "onboard_time": 1767083842,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152135,
@@ -939,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137543,
+      "num": 132651,
+      "word": "艾热和ALin是怎么认识的",
+      "onboard_time": 1767085940,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136807,
       "num": 136807,
       "word": "骄阳似我 长白山文旅",
@@ -971,20 +1027,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135471,
-      "num": 199199,
-      "word": "苹果四曲屏",
-      "onboard_time": 1767078319,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "金饰价格跌破1400元关口",
       "onboard_time": 1767062120,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133889,
+      "num": 116977,
+      "word": "微信更新后最利于单删的功能",
+      "onboard_time": 1767086362,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 132685,
@@ -1107,6 +1163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122008,
+      "num": 122008,
+      "word": "王鹤棣的手机也这么多未读信息",
+      "onboard_time": 1767086660,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121120,
       "num": 116379,
       "word": "骄阳似我 剧情为王",
@@ -1171,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117203,
+      "num": 198107,
+      "word": "东部战区密集发布",
+      "onboard_time": 1767084560,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117183,
       "num": 117183,
       "word": "王者25年最贵的皮肤",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1767020067,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114997,
+      "num": 114997,
+      "word": "彭昱畅变这么帅了",
+      "onboard_time": 1767085221,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 114885,
@@ -1339,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107769,
+      "num": 107769,
+      "word": "把李冰冰认成了Angelababy",
+      "onboard_time": 1767086481,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107054,
       "num": 107054,
       "word": "剥茧",
@@ -1355,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106627,
+      "num": 106627,
+      "word": "开外卖店一年卖200多万一毛不赚",
+      "onboard_time": 1767084981,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "被误解的鸡肉",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1767071242,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105027,
+      "num": 105027,
+      "word": "程潇从一步一步到一部一部",
+      "onboard_time": 1767087080,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 103855,
@@ -1507,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97781,
+      "num": 97781,
+      "word": "一模一样的人为什么要生两次",
+      "onboard_time": 1767084681,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97708,
       "num": 97708,
       "word": "何小鹏试驾特斯拉FSD",
@@ -1571,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93261,
+      "num": 93261,
+      "word": "何老师跨年零点想拥抱的人",
+      "onboard_time": 1767086960,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93203,
       "num": 93203,
       "word": "不跑不跳三个动作控血糖",
@@ -1603,6 +1723,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91777,
+      "num": 91777,
+      "word": "发现一些东西在悄悄涨价",
+      "onboard_time": 1767084981,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91394,
+      "num": 91394,
+      "word": "台湾各界热议解放军军演",
+      "onboard_time": 1767086240,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91316,
       "num": 91316,
       "word": "秦彻天神降临",
@@ -1627,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90117,
+      "num": 90117,
+      "word": "对黄景瑜的好感不分男女老少",
+      "onboard_time": 1767087141,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90003,
       "num": 131844,
       "word": "疑似温精灵前合伙人发视频控诉",
@@ -1635,20 +1779,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 89941,
-      "num": 89941,
-      "word": "一模一样的人为什么要生两次",
-      "onboard_time": 1767084681,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89676,
       "num": 89676,
       "word": "张杰爱人啊有我在你别怕",
       "onboard_time": 1767040034,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89607,
+      "num": 89607,
+      "word": "尔冬升女儿好漂亮",
+      "onboard_time": 1767087201,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 89400,
@@ -1697,6 +1841,22 @@
       "onboard_time": 1767071421,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87173,
+      "num": 87173,
+      "word": "金价大跌店员说是近期生意最好的一天",
+      "onboard_time": 1767087201,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86799,
+      "num": 91794,
+      "word": "曝羽绒服退回口袋装机票网店不关闭",
+      "onboard_time": 1767085221,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85952,
@@ -1843,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77494,
-      "num": 199754,
-      "word": "禁毒副大队长走私大麻获刑3年半",
-      "onboard_time": 1767083842,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75783,
       "num": 75783,
       "word": "Manus",
@@ -1947,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67832,
+      "num": 105694,
+      "word": "王橹杰回重庆上班了",
+      "onboard_time": 1767086421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66198,
       "num": 156523,
       "word": "苏新皓前滚翻练习室",
@@ -1971,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60925,
+      "num": 209090,
+      "word": "网友偶遇京东跨晚大奖车",
+      "onboard_time": 1767082042,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60507,
       "num": 119148,
       "word": "当地通报上岸彩礼多要20万横幅争议",
@@ -1985,14 +2153,6 @@
       "onboard_time": 1767020427,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59069,
-      "num": 198107,
-      "word": "东部战区密集发布",
-      "onboard_time": 1767084560,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57896,
@@ -2129,14 +2289,6 @@
       "onboard_time": 1767050900,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49653,
-      "num": 209090,
-      "word": "网友偶遇京东跨晚大奖车",
-      "onboard_time": 1767082042,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 48817,
@@ -2331,12 +2483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39570,
+      "num": 661152,
+      "word": "中国迈入制造强国行列",
+      "onboard_time": 1767084321,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38539,
       "num": 101140,
       "word": "深圳地铁",
       "onboard_time": 1767015921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38318,
+      "num": 106011,
+      "word": "侯明昊赵弈钦你俩有点暧昧了",
+      "onboard_time": 1767086421,
+      "rank": 37,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 37426,
@@ -2539,14 +2707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24833,
-      "num": 600369,
-      "word": "中国迈入制造强国行列",
-      "onboard_time": 1767084321,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23698,
       "num": 44894,
       "word": "檀健次新歌出品人总监制都是自己",
@@ -2624,6 +2784,14 @@
       "word": "S21一路开新",
       "onboard_time": 1767013821,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16038,
+      "num": 106553,
+      "word": "黄金回收陷阱 30克项链变26克",
+      "onboard_time": 1767086601,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
