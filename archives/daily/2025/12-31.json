@@ -1,10 +1,18 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767134695892,
+  "endTime": 1767137228116,
   "band_list": [
     {
-      "raw_hot": 464407,
-      "num": 796805,
+      "raw_hot": 589924,
+      "num": 71819,
+      "word": "明年起年龄将不再是免罪金牌",
+      "onboard_time": 1767136578,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 540986,
+      "num": 823293,
       "word": "印度宣布经济已超日本",
       "onboard_time": 1767108861,
       "rank": 0,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 321865,
-      "num": 590962,
+      "num": 616217,
       "word": "解放军演习在台湾岛内引发震动",
       "onboard_time": 1767106881,
       "rank": 1,
@@ -81,6 +89,14 @@
       "onboard_time": 1767105202,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 168780,
+      "num": 80111,
+      "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+      "onboard_time": 1767092841,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 165848,
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113038,
+      "num": 113038,
+      "word": "玉茗茶骨",
+      "onboard_time": 1767101301,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105995,
       "num": 105995,
       "word": "得闲谨制第5次票房逆跌",
@@ -155,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103666,
+      "num": 103666,
+      "word": "阿森纳4比1阿斯顿维拉",
+      "onboard_time": 1767136338,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97118,
       "num": 96955,
       "word": "金莎被求婚后和孙丞潇同游西班牙",
@@ -163,7 +195,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89566,
+      "raw_hot": 93955,
+      "num": 93955,
+      "word": "新闻联播播出挂载实弹轰6K",
+      "onboard_time": 1767105741,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 90158,
       "num": 89566,
       "word": "13岁女孩频繁屁股疼确诊骨癌",
       "onboard_time": 1767092601,
@@ -195,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80169,
-      "num": 80111,
-      "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
-      "onboard_time": 1767092841,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76671,
       "num": 89000,
       "word": "世界上最长寿的在世猫咪30岁了",
@@ -217,6 +249,14 @@
       "onboard_time": 1767108380,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75436,
+      "num": 75436,
+      "word": "2025的最后一天",
+      "onboard_time": 1767136938,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72895,
@@ -243,20 +283,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64511,
+      "num": 80094,
+      "word": "东部战区破袭夺港割裂",
+      "onboard_time": 1767101363,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 64375,
+      "num": 80062,
+      "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+      "onboard_time": 1767093263,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63483,
+      "num": 46175,
+      "word": "孙颖莎现身交通大学",
+      "onboard_time": 1767136218,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62861,
+      "num": 62861,
+      "word": "金银大跌后又大涨",
+      "onboard_time": 1767136817,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62017,
       "num": 80169,
       "word": "金价波动",
       "onboard_time": 1767107121,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61989,
-      "num": 80146,
-      "word": "玉茗茶骨",
-      "onboard_time": 1767101301,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 60678,
@@ -275,19 +339,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58244,
+      "num": 80129,
+      "word": "印度网友向中国网友提问",
+      "onboard_time": 1767111200,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56013,
       "num": 80156,
       "word": "印度称已超日本成世界第四大经济体",
       "onboard_time": 1767107481,
       "rank": 29,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55572,
-      "num": 80129,
-      "word": "印度网友向中国网友提问",
-      "onboard_time": 1767111200,
-      "rank": 33,
       "category": "海外新闻"
     },
     {
@@ -307,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50168,
-      "num": 80120,
-      "word": "新闻联播播出挂载实弹轰6K",
-      "onboard_time": 1767105741,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 49161,
+      "num": 49161,
+      "word": "罗永浩自曝ADHD",
+      "onboard_time": 1767137057,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 46973,
@@ -323,20 +387,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45958,
-      "num": 80062,
-      "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
-      "onboard_time": 1767093263,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45032,
-      "num": 80094,
-      "word": "东部战区破袭夺港割裂",
-      "onboard_time": 1767101363,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 46404,
+      "num": 46404,
+      "word": "两类人最好别吃烤红薯",
+      "onboard_time": 1767131354,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44224,
@@ -361,6 +417,30 @@
       "onboard_time": 1767101722,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41458,
+      "num": 41458,
+      "word": "檀健次扭的这两下",
+      "onboard_time": 1767136218,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40434,
+      "num": 40434,
+      "word": "印度网民指责日本游客不尊重当地文化",
+      "onboard_time": 1767137177,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39603,
+      "num": 39603,
+      "word": "i茅台明年将上线1499元普茅",
+      "onboard_time": 1767137118,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 38611,
@@ -419,12 +499,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 33451,
+      "num": 33451,
+      "word": "人一幸福就不会频繁更新社交软件",
+      "onboard_time": 1767136997,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33403,
+      "num": 33403,
+      "word": "625亿元国补提前下达",
+      "onboard_time": 1767137057,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32262,
       "num": 59621,
       "word": "一条plog告别2025",
       "onboard_time": 1767114676,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30844,
+      "num": 33133,
+      "word": "罗永浩宣布门票免费",
+      "onboard_time": 1767136997,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 29406,
@@ -443,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28212,
+      "num": 33127,
+      "word": "罗永浩科技春晚带货13999元外骨骼",
+      "onboard_time": 1767136938,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26358,
       "num": 40966,
       "word": "湖南卫视跨年晚会路透节目单",
@@ -451,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25533,
+      "num": 33110,
+      "word": "刘宇宁成都演唱会门票秒空",
+      "onboard_time": 1767133276,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25358,
       "num": 58693,
       "word": "央视和美之夜",
       "onboard_time": 1767116417,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24951,
-      "num": 30675,
-      "word": "两类人最好别吃烤红薯",
-      "onboard_time": 1767131354,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 19979,
@@ -497,14 +609,6 @@
       "onboard_time": 1767119056,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18308,
-      "num": 30349,
-      "word": "刘宇宁成都演唱会门票秒空",
-      "onboard_time": 1767133276,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 17773,
@@ -579,20 +683,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11096,
+      "num": 474933,
+      "word": "2026年农业强国建设施工图",
+      "onboard_time": 1767102322,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9774,
       "num": 17663,
       "word": "人之初",
       "onboard_time": 1767091462,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8633,
-      "num": 300804,
-      "word": "2026年农业强国建设施工图",
-      "onboard_time": 1767102322,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
