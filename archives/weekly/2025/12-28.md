@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/31 00:52:40
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/31 01:28:37
 </p>
 </blockquote>
 <p>
@@ -1979,6 +1979,12 @@ Karsa宣布退役（热度：277683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E5%9B%9E%E5%BA%94%E9%A6%96%E6%BC%94%E6%81%B6%E5%A5%B3%23" target="weibo">
 程潇回应首演恶女（热度：235914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E9%AA%A8%E7%99%8C%E5%8F%91%E5%87%BA%E7%9A%84%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%23" target="weibo">
+早期骨癌发出的危险信号（热度：235700）
 </a>
 </li>
 
@@ -6831,6 +6837,12 @@ Manus（热度：75783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%80%81%E5%9C%B0%E6%96%B9%23" target="weibo">
+苏新皓老地方（热度：72054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E9%A3%9E%E5%88%98%E5%86%A0%E6%88%90vs%E6%A2%81%E9%9D%96%E5%B4%91%E6%9E%97%E6%98%80%E5%84%92%23" target="weibo">
 薛飞刘冠成vs梁靖崑林昀儒（热度：71863）
 </a>
@@ -7149,6 +7161,12 @@ Manus（热度：75783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B42026%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%23" target="weibo">
+迪丽热巴2026新年愿望（热度：59825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%BE%88%E5%A4%9A%E5%AE%9E%E4%BD%93%E5%95%86%E5%9C%BA%E7%94%9F%E6%84%8F%E5%B7%AE%23" target="weibo">
 现在很多实体商场生意差（热度：59536）
 </a>
@@ -7169,12 +7187,6 @@ Manus（热度：75783）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E4%BA%8B%E9%87%8C%E7%9A%842025%23" target="weibo">
 故事里的2025（热度：58842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E9%AA%A8%E7%99%8C%E5%8F%91%E5%87%BA%E7%9A%84%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%23" target="weibo">
-早期骨癌发出的危险信号（热度：58498）
 </a>
 </li>
 
@@ -7953,12 +7965,6 @@ AUDI开启30城任意门（热度：41123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B42026%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%23" target="weibo">
-迪丽热巴2026新年愿望（热度：35311）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B120%E4%B8%87%E5%B8%AE%E6%9C%8B%E5%8F%8B%E8%B5%8E%E5%9B%9E%E9%BB%84%E9%87%91%E7%AB%9F%E6%98%AF%E5%81%87%E8%B4%A7%23" target="weibo">
 男子花20万帮朋友赎回黄金竟是假货（热度：35292）
 </a>
@@ -8003,6 +8009,12 @@ AUDI开启30城任意门（热度：41123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%B6%85%E4%BF%9D%E8%B4%A8%E6%9C%9F2%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87%23" target="weibo">
 小学食堂米线超保质期2小时被罚5万（热度：33657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%BD%A9%E6%8E%92%E7%85%A7%E8%BA%AB%E6%9D%90%E6%AF%94%E4%BE%8B%23" target="weibo">
+华晨宇彩排照身材比例（热度：33634）
 </a>
 </li>
 
@@ -8069,6 +8081,12 @@ AUDI开启30城任意门（热度：41123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E7%A6%BB%E5%A2%83%E7%A8%8E%23" target="weibo">
 日本计划大幅提高离境税（热度：32293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB2025%23" target="weibo">
+一条plog告别2025（热度：32262）
 </a>
 </li>
 
@@ -8399,6 +8417,12 @@ RW与WB会师三亚（热度：29456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E8%B6%85%23" target="weibo">
 湘超（热度：23228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+周深演唱会（热度：23158）
 </a>
 </li>
 
