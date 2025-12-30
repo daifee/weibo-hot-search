@@ -1,0 +1,410 @@
+{
+  "runTime": 1767100355430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627301,
+        "num": 1100368,
+        "word": "增值税",
+        "onboard_time": 1767097822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520953,
+        "num": 779729,
+        "word": "罗永浩迟到超40分钟",
+        "onboard_time": 1767097341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28955,
+        "num": 635580,
+        "word": "中国迈入制造强国行列",
+        "onboard_time": 1767084321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395267,
+        "num": 395267,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221489,
+        "num": 221489,
+        "word": "罗永浩科技春晚",
+        "onboard_time": 1767091882,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215032,
+        "num": 215032,
+        "word": "蔡依林取悦自己刻不容缓",
+        "onboard_time": 1767097101,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211775,
+        "num": 211775,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173862,
+        "num": 173862,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160874,
+        "num": 160874,
+        "word": "金巧巧吴启华 分手22年后演夫妻",
+        "onboard_time": 1767087260,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143430,
+        "num": 143430,
+        "word": "世界上最长寿的在世猫咪30岁了",
+        "onboard_time": 1767097341,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 461877,
+        "num": 142563,
+        "word": "张纪中妻子自曝闭黑关四天四夜",
+        "onboard_time": 1767096862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296356,
+        "num": 142343,
+        "word": "原来张凌赫吃醋是这个风味",
+        "onboard_time": 1767097222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182022,
+        "num": 141514,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175244,
+        "num": 139880,
+        "word": "小县城里最好听的名字",
+        "onboard_time": 1767095363,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767096082,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132589,
+        "num": 132589,
+        "word": "赵丽颖黄晓明新剧下证了",
+        "onboard_time": 1767097402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124362,
+        "num": 124362,
+        "word": "台军后备干部狂赞解放军被踢出群聊",
+        "onboard_time": 1767097101,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118863,
+        "num": 118863,
+        "word": "疑似赵今麦驯服四肢视频流出",
+        "onboard_time": 1767099742,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118101,
+        "num": 118101,
+        "word": "章泽天 老己文学",
+        "onboard_time": 1767091222,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111463,
+        "num": 118012,
+        "word": "张兰败诉判赔麻六记前运营2万",
+        "onboard_time": 1767098182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485143,
+        "num": 117987,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117946,
+        "num": 117946,
+        "word": "郭冬临 谁点的京圈清冷佛子",
+        "onboard_time": 1767091581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361985,
+        "num": 117721,
+        "word": "原配拿小三手机发朋友圈被拘留",
+        "onboard_time": 1767095662,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 116863,
+        "word": "成毅携双角色杀进年度TOP3",
+        "onboard_time": 1767098601,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232130,
+        "num": 116823,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192379,
+        "num": 115870,
+        "word": "张凌赫直播",
+        "onboard_time": 1767089540,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146267,
+        "num": 115402,
+        "word": "林俊杰女友曾分享铁刘海教程",
+        "onboard_time": 1767095062,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138089,
+        "num": 114685,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101529,
+        "num": 114391,
+        "word": "武校投毒案致7死2罪犯被执行死刑",
+        "onboard_time": 1767099143,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90117,
+        "num": 113641,
+        "word": "2026年国补目录",
+        "onboard_time": 1767093921,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137663,
+        "num": 113537,
+        "word": "宋威龙张婧仪牵手舞台",
+        "onboard_time": 1767089179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133113,
+        "num": 112867,
+        "word": "尔冬升女儿好漂亮",
+        "onboard_time": 1767087201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112435,
+        "num": 112435,
+        "word": "骄阳似我微博评分现偶史上第一",
+        "onboard_time": 1767098601,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 110671,
+        "word": "美军女飞行员失业后来中国当机长",
+        "onboard_time": 1767098782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100179,
+        "num": 100179,
+        "word": "青州地震",
+        "onboard_time": 1767097043,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109737,
+        "num": 100063,
+        "word": "黄子韬 刘耀文比徐艺洋还难哄",
+        "onboard_time": 1767099502,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105766,
+        "num": 99581,
+        "word": "温精灵回应前合伙人控诉",
+        "onboard_time": 1767099683,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67764,
+        "num": 99371,
+        "word": "优衣库回应试衣间不再提供拖鞋",
+        "onboard_time": 1767098063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95098,
+        "num": 98918,
+        "word": "被字节跳动免费食堂震惊到了",
+        "onboard_time": 1767099322,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35772,
+        "num": 98569,
+        "word": "投到派出所门口广告称年收益率252%",
+        "onboard_time": 1767099621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 98549,
+        "word": "KBS",
+        "onboard_time": 1767097461,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97796,
+        "num": 97796,
+        "word": "昭昭墨墨2025CP热度断层领先",
+        "onboard_time": 1767096022,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94946,
+        "num": 94946,
+        "word": "台湾",
+        "onboard_time": 1767073040,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94064,
+        "num": 94064,
+        "word": "肖战不要回头彩排路透",
+        "onboard_time": 1767084380,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42438,
+        "num": 93398,
+        "word": "白鹿今年角色都上榜了",
+        "onboard_time": 1767098901,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93386,
+        "num": 93386,
+        "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+        "onboard_time": 1767093263,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87071,
+        "num": 87071,
+        "word": "仙逆",
+        "onboard_time": 1767099863,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85299,
+        "num": 85299,
+        "word": "顾客海底捞发现店员捞面多次甩地上",
+        "onboard_time": 1767085400,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82869,
+        "num": 82869,
+        "word": "小猫偷了一个猫窝",
+        "onboard_time": 1767099621,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82713,
+        "num": 82713,
+        "word": "DK宣布BeryL告别赛场",
+        "onboard_time": 1767100283,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}

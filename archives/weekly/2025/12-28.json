@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767099490987,
+  "endTime": 1767100355430,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -571,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 627301,
+      "num": 1100368,
+      "word": "增值税",
+      "onboard_time": 1767097822,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625191,
       "num": 267698,
       "word": "迅猛龙假哭",
@@ -777,14 +785,6 @@
       "onboard_time": 1767014301,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 538096,
-      "num": 804630,
-      "word": "增值税",
-      "onboard_time": 1767097822,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 533890,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1767074961,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 461877,
+      "num": 151884,
+      "word": "张纪中妻子自曝闭黑关四天四夜",
+      "onboard_time": 1767096862,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 461749,
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 312049,
-      "num": 196515,
+      "num": 211775,
       "word": "12月31号我就这样下楼",
       "onboard_time": 1767091101,
       "rank": 30,
@@ -2449,14 +2457,6 @@
       "onboard_time": 1766988321,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238603,
-      "num": 151884,
-      "word": "张纪中妻子自曝闭黑关四天四夜",
-      "onboard_time": 1767096862,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 238525,
@@ -3491,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175244,
+      "num": 151299,
+      "word": "小县城里最好听的名字",
+      "onboard_time": 1767095363,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175134,
       "num": 175134,
       "word": "赵小童吃席都在看骄阳似我",
@@ -4187,14 +4195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151299,
-      "num": 151299,
-      "word": "小县城里最好听的名字",
-      "onboard_time": 1767095363,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151169,
       "num": 151169,
       "word": "解放军演习离台岛越来越近",
@@ -4449,6 +4449,14 @@
       "onboard_time": 1767020067,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143430,
+      "num": 143430,
+      "word": "世界上最长寿的在世猫咪30岁了",
+      "onboard_time": 1767097341,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143153,
@@ -5099,14 +5107,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 127666,
-      "num": 127666,
-      "word": "世界上最长寿的在世猫咪30岁了",
-      "onboard_time": 1767097341,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 127462,
       "num": 127462,
       "word": "谁来管管娜扎这无死角的美貌",
@@ -5273,6 +5273,14 @@
       "onboard_time": 1766847922,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124362,
+      "num": 124362,
+      "word": "台军后备干部狂赞解放军被踢出群聊",
+      "onboard_time": 1767097101,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124331,
@@ -5625,6 +5633,14 @@
       "onboard_time": 1767073223,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118863,
+      "num": 118863,
+      "word": "疑似赵今麦驯服四肢视频流出",
+      "onboard_time": 1767099742,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 118786,
@@ -6051,6 +6067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "骄阳似我微博评分现偶史上第一",
+      "onboard_time": 1767098601,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112214,
       "num": 112214,
       "word": "汪顺发文澄清体能师征调争议",
@@ -6139,6 +6163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110671,
+      "num": 110671,
+      "word": "美军女飞行员失业后来中国当机长",
+      "onboard_time": 1767098782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110326,
       "num": 110326,
       "word": "橹瑞比心",
@@ -6177,6 +6209,14 @@
       "onboard_time": 1767092062,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109737,
+      "num": 100063,
+      "word": "黄子韬 刘耀文比徐艺洋还难哄",
+      "onboard_time": 1767099502,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 109657,
@@ -6441,6 +6481,14 @@
       "onboard_time": 1767094701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105766,
+      "num": 99581,
+      "word": "温精灵回应前合伙人控诉",
+      "onboard_time": 1767099683,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 105679,
@@ -6708,19 +6756,19 @@
     },
     {
       "raw_hot": 101534,
-      "num": 86883,
+      "num": 97796,
       "word": "昭昭墨墨2025CP热度断层领先",
       "onboard_time": 1767096022,
       "rank": 41,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101447,
-      "num": 86857,
-      "word": "骄阳似我微博评分现偶史上第一",
-      "onboard_time": 1767098601,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 101529,
+      "num": 114391,
+      "word": "武校投毒案致7死2罪犯被执行死刑",
+      "onboard_time": 1767099143,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101411,
@@ -6875,6 +6923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100179,
+      "num": 100179,
+      "word": "青州地震",
+      "onboard_time": 1767097043,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100123,
       "num": 112616,
       "word": "奶奶也追张凌赫",
@@ -6921,14 +6977,6 @@
       "onboard_time": 1766841442,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99493,
-      "num": 99493,
-      "word": "台军后备干部狂赞解放军被踢出群聊",
-      "onboard_time": 1767097101,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 99398,
@@ -7315,6 +7363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95098,
+      "num": 98918,
+      "word": "被字节跳动免费食堂震惊到了",
+      "onboard_time": 1767099322,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95077,
       "num": 95077,
       "word": "普京称已无兴趣等乌方从占领区撤出",
@@ -7419,14 +7475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93098,
-      "num": 93098,
-      "word": "美军女飞行员失业后来中国当机长",
-      "onboard_time": 1767098782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93047,
       "num": 101600,
       "word": "台方疑似P图造假",
@@ -7504,14 +7552,6 @@
       "word": "台湾游客在东北被抢着买单",
       "onboard_time": 1766910079,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91892,
-      "num": 91892,
-      "word": "青州地震",
-      "onboard_time": 1767097043,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -7641,14 +7681,6 @@
       "onboard_time": 1766962155,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90086,
-      "num": 90086,
-      "word": "武校投毒案致7死2罪犯被执行死刑",
-      "onboard_time": 1767099143,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90003,
@@ -8179,11 +8211,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82869,
+      "num": 82869,
+      "word": "小猫偷了一个猫窝",
+      "onboard_time": 1767099621,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82821,
       "num": 82821,
       "word": "Faker的增高刘海",
       "onboard_time": 1766917760,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 82713,
+      "num": 82713,
+      "word": "DK宣布BeryL告别赛场",
+      "onboard_time": 1767100283,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -8497,14 +8545,6 @@
       "onboard_time": 1766906780,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 76276,
-      "num": 76276,
-      "word": "被字节跳动免费食堂震惊到了",
-      "onboard_time": 1767099322,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 75892,
@@ -9659,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42438,
+      "num": 93398,
+      "word": "白鹿今年角色都上榜了",
+      "onboard_time": 1767098901,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42405,
       "num": 65936,
       "word": "TF家族新年音乐会",
@@ -9995,6 +10043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35772,
+      "num": 98569,
+      "word": "投到派出所门口广告称年收益率252%",
+      "onboard_time": 1767099621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35747,
       "num": 98053,
       "word": "胡彦斌妈妈问他有5000个粉丝吗",
@@ -10329,14 +10385,6 @@
       "onboard_time": 1767036314,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27883,
-      "num": 90370,
-      "word": "白鹿今年角色都上榜了",
-      "onboard_time": 1767098901,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27694,
