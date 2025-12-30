@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767094039550,
+  "endTime": 1767094919392,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373316,
+      "num": 1059730,
+      "word": "董宇辉直播5个半小时销售额超3亿",
+      "onboard_time": 1767090080,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 371288,
       "num": 307644,
       "word": "女子面馆吃面遭老板骚扰露丝袜免单",
@@ -507,19 +515,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 328444,
-      "num": 776687,
-      "word": "董宇辉直播5个半小时销售额超3亿",
-      "onboard_time": 1767090080,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 326835,
       "num": 318719,
       "word": "陈赫大女儿又高又瘦",
       "onboard_time": 1767072500,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320776,
+      "num": 141041,
+      "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+      "onboard_time": 1767092841,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -641,14 +649,6 @@
       "onboard_time": 1767063558,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249232,
-      "num": 141041,
-      "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
-      "onboard_time": 1767092841,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 247477,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192810,
+      "num": 192810,
+      "word": "罗永浩科技春晚",
+      "onboard_time": 1767091882,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192306,
       "num": 192306,
       "word": "亲爱的客栈",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 191897,
-      "num": 139869,
+      "num": 140870,
       "word": "郭冬临 谁点的京圈清冷佛子",
       "onboard_time": 1767091581,
       "rank": 39,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189057,
+      "num": 189057,
+      "word": "13岁女孩频繁屁股疼确诊骨癌",
+      "onboard_time": 1767092601,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188840,
       "num": 188840,
       "word": "东部战区问明天看什么",
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 186302,
-      "num": 131111,
+      "num": 140271,
       "word": "章泽天 老己文学",
       "onboard_time": 1767091222,
       "rank": 35,
@@ -937,14 +953,6 @@
       "onboard_time": 1767060320,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173081,
-      "num": 173081,
-      "word": "13岁女孩频繁屁股疼确诊骨癌",
-      "onboard_time": 1767092601,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171590,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1767066680,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150992,
-      "num": 150992,
-      "word": "罗永浩科技春晚",
-      "onboard_time": 1767091882,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 149633,
@@ -1307,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125997,
+      "num": 111660,
+      "word": "林俊杰写给女朋友的歌",
+      "onboard_time": 1767092902,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124771,
       "num": 124771,
       "word": "Faker被问年薪多少",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1767082158,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 119360,
+      "num": 119360,
+      "word": "李宇春零点大秀彩排直播",
+      "onboard_time": 1767094580,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 119217,
@@ -1619,14 +1635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111660,
-      "num": 111660,
-      "word": "林俊杰写给女朋友的歌",
-      "onboard_time": 1767092902,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 111642,
       "num": 111642,
       "word": "鲁豫回应何不食肉糜争议",
@@ -1723,12 +1731,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106018,
+      "num": 103426,
+      "word": "理解能力差的建议别碰蛋糕店",
+      "onboard_time": 1767094701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "被误解的鸡肉",
       "onboard_time": 1767060559,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105187,
+      "num": 105187,
+      "word": "2026年国补目录",
+      "onboard_time": 1767093921,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 105138,
@@ -1867,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98443,
+      "num": 98443,
+      "word": "半个娱乐圈都来宜宾团建了",
+      "onboard_time": 1767093563,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98397,
       "num": 157906,
       "word": "Labubu二手价格崩了",
@@ -1915,20 +1947,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97699,
+      "num": 90350,
+      "word": "迪丽热巴能赋予高定灵魂",
+      "onboard_time": 1767094042,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97670,
       "num": 97670,
       "word": "这个罚罪2又在狠狠奖励我",
       "onboard_time": 1767084500,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97593,
-      "num": 97593,
-      "word": "半个娱乐圈都来宜宾团建了",
-      "onboard_time": 1767093563,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 96815,
@@ -2019,12 +2051,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91908,
-      "num": 91908,
-      "word": "2026年国补目录",
-      "onboard_time": 1767093921,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 92464,
+      "num": 92464,
+      "word": "6类家电最高补贴1500元",
+      "onboard_time": 1767094281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91832,
+      "num": 91832,
+      "word": "Bin双眼皮超清照",
+      "onboard_time": 1767094821,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 91777,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1767087201,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87127,
+      "num": 87127,
+      "word": "萨尔电视台称樊振东颠覆乒乓球世界",
+      "onboard_time": 1767094101,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86799,
@@ -2435,6 +2483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71234,
+      "num": 99298,
+      "word": "章若楠上车撞到头",
+      "onboard_time": 1767093622,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70704,
       "num": 70704,
       "word": "东部战区演习第2天",
@@ -2505,14 +2561,6 @@
       "onboard_time": 1767020187,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62940,
-      "num": 99298,
-      "word": "章若楠上车撞到头",
-      "onboard_time": 1767093622,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 62113,
@@ -2699,12 +2747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49941,
+      "num": 99266,
+      "word": "宣萱调侃和古天乐结婚肯定会离婚",
+      "onboard_time": 1767093802,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48817,
       "num": 155837,
       "word": "钎九",
       "onboard_time": 1767014420,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48650,
+      "num": 92047,
+      "word": "彭冠英去朱珠家做客吃饭",
+      "onboard_time": 1767094821,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48646,
@@ -2776,6 +2840,14 @@
       "word": "初中生万元手机被网友带着换二手",
       "onboard_time": 1767079219,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45060,
+      "num": 99385,
+      "word": "7名内耗干部被回炉锻造",
+      "onboard_time": 1767093802,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2859,28 +2931,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40728,
-      "num": 99385,
-      "word": "7名内耗干部被回炉锻造",
-      "onboard_time": 1767093802,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40714,
       "num": 92791,
       "word": "骚扰女子涉事面馆正常营业",
       "onboard_time": 1767092601,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40602,
-      "num": 99266,
-      "word": "宣萱调侃和古天乐结婚肯定会离婚",
-      "onboard_time": 1767093802,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 40446,
@@ -2913,6 +2969,14 @@
       "onboard_time": 1767084321,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39537,
+      "num": 185661,
+      "word": "檀健次的灵感空间是浴室",
+      "onboard_time": 1767089300,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38539,
@@ -3027,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33422,
+      "num": 111834,
+      "word": "福州一在建项目事故致5死调查报告",
+      "onboard_time": 1767094462,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 33134,
       "num": 190506,
       "word": "把百年人生计划写入健康新一年",
@@ -3081,14 +3153,6 @@
       "onboard_time": 1767060980,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31706,
-      "num": 185661,
-      "word": "檀健次的灵感空间是浴室",
-      "onboard_time": 1767089300,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 31623,
@@ -3171,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25762,
+      "num": 149110,
+      "word": "海警最新海报也出现海马斯火箭炮",
+      "onboard_time": 1767093263,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25751,
       "num": 109601,
       "word": "丁程鑫你想帅出怎样的人生",
@@ -3185,14 +3257,6 @@
       "onboard_time": 1767078920,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25251,
-      "num": 149110,
-      "word": "海警最新海报也出现海马斯火箭炮",
-      "onboard_time": 1767093263,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25238,
@@ -3315,20 +3379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18987,
+      "num": 158654,
+      "word": "喜剧人团建最强售后",
+      "onboard_time": 1767092482,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18324,
       "num": 95356,
       "word": "17岁少女1年打赏40万究竟是谁之过",
       "onboard_time": 1767059840,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16918,
-      "num": 158654,
-      "word": "喜剧人团建最强售后",
-      "onboard_time": 1767092482,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 16072,
