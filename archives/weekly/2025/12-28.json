@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767116721195,
+  "endTime": 1767120084224,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -11243,6 +11243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22953,
+      "num": 33755,
+      "word": "湖南卫视跨年晚会路透节目单",
+      "onboard_time": 1767118816,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22663,
       "num": 161569,
       "word": "市监局回应独罚合规医疗器械",
@@ -11459,6 +11467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17102,
+      "num": 33523,
+      "word": "东方卫视跨年66摇",
+      "onboard_time": 1767118935,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16912,
       "num": 29036,
       "word": "林屿森发了提线小瓜",
@@ -11571,6 +11587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14702,
+      "num": 33298,
+      "word": "张凌赫把彩排走成秀场",
+      "onboard_time": 1767119234,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14648,
       "num": 166522,
       "word": "女子后悔打赏6万6竟称是儿子干的",
@@ -11611,12 +11635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13880,
+      "num": 33339,
+      "word": "得闲谨制",
+      "onboard_time": 1767117436,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13809,
       "num": 94670,
       "word": "黄河画家徐惠君126平尺画作被人泼墨",
       "onboard_time": 1767075501,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13808,
+      "num": 33325,
+      "word": "张杰跨年演唱会舞台美学天花板",
+      "onboard_time": 1767118036,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 13547,
@@ -11633,6 +11673,14 @@
       "onboard_time": 1766928381,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13459,
+      "num": 33389,
+      "word": "瓦瓦",
+      "onboard_time": 1767119056,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 11938,

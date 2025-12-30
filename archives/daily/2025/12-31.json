@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767116721195,
+  "endTime": 1767120084224,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -307,7 +307,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49343,
+      "raw_hot": 49705,
       "num": 80076,
       "word": "张纪中妻子自曝闭黑关四天四夜",
       "onboard_time": 1767096862,
@@ -451,10 +451,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22953,
+      "num": 33755,
+      "word": "湖南卫视跨年晚会路透节目单",
+      "onboard_time": 1767118816,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19979,
       "num": 465527,
       "word": "我国银发网民加速拥抱数字世界",
       "onboard_time": 1767102802,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19955,
+      "num": 206031,
+      "word": "明年继续领国补",
+      "onboard_time": 1767102442,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -467,12 +483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16405,
-      "num": 206031,
-      "word": "明年继续领国补",
-      "onboard_time": 1767102442,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 17102,
+      "num": 33523,
+      "word": "东方卫视跨年66摇",
+      "onboard_time": 1767118935,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 15620,
@@ -481,6 +497,46 @@
       "onboard_time": 1767103162,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14702,
+      "num": 33298,
+      "word": "张凌赫把彩排走成秀场",
+      "onboard_time": 1767119234,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13880,
+      "num": 33339,
+      "word": "得闲谨制",
+      "onboard_time": 1767117436,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13808,
+      "num": 33325,
+      "word": "张杰跨年演唱会舞台美学天花板",
+      "onboard_time": 1767118036,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13459,
+      "num": 33389,
+      "word": "瓦瓦",
+      "onboard_time": 1767119056,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 12452,
+      "num": 33265,
+      "word": "2026年国补目录",
+      "onboard_time": 1767093921,
+      "rank": 47,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
