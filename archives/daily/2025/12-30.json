@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767104979265,
+  "endTime": 1767106052334,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -211,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 576129,
+      "num": 217305,
+      "word": "女孩遭姨夫性侵父母拒绝出具谅解书",
+      "onboard_time": 1767100702,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555145,
       "num": 224805,
       "word": "邱鼎杰直播",
@@ -233,14 +241,6 @@
       "onboard_time": 1767067223,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 552992,
-      "num": 217305,
-      "word": "女孩遭姨夫性侵父母拒绝出具谅解书",
-      "onboard_time": 1767100702,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 548589,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404653,
+      "num": 269322,
+      "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
+      "onboard_time": 1767101601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399956,
       "num": 310400,
       "word": "退货羽绒服兜里有机票买家否认白嫖",
@@ -489,6 +497,14 @@
       "onboard_time": 1767074961,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377214,
+      "num": 775999,
+      "word": "人之初 吓人",
+      "onboard_time": 1767103643,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 375666,
@@ -635,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296469,
+      "num": 194395,
+      "word": "微博之夜四大才子预测",
+      "onboard_time": 1767103882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292818,
       "num": 292818,
       "word": "韩国总统李在明将访华",
@@ -667,14 +691,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 269322,
-      "num": 269322,
-      "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
-      "onboard_time": 1767101601,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265945,
       "num": 265945,
       "word": "用喜糖来判断婚礼标准",
@@ -697,6 +713,14 @@
       "onboard_time": 1767082881,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 262743,
+      "num": 262743,
+      "word": "骄阳似我微博评分现偶史上第一",
+      "onboard_time": 1767098601,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 261860,
@@ -744,14 +768,6 @@
       "word": "于正 玉茗茶骨",
       "onboard_time": 1767023842,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 236431,
-      "num": 236431,
-      "word": "骄阳似我微博评分现偶史上第一",
-      "onboard_time": 1767098601,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -875,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209388,
-      "num": 209388,
-      "word": "人之初 吓人",
-      "onboard_time": 1767103643,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208192,
       "num": 299978,
       "word": "44岁被单位辞退拿了15万离职赔偿",
@@ -897,6 +905,14 @@
       "onboard_time": 1767092601,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206243,
+      "num": 190043,
+      "word": "袁一琦保密协议到期了",
+      "onboard_time": 1767104001,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 202453,
@@ -915,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194395,
-      "num": 194395,
-      "word": "微博之夜四大才子预测",
-      "onboard_time": 1767103882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192306,
       "num": 192306,
       "word": "亲爱的客栈",
@@ -936,14 +944,6 @@
       "word": "郭冬临 谁点的京圈清冷佛子",
       "onboard_time": 1767091581,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190043,
-      "num": 190043,
-      "word": "袁一琦保密协议到期了",
-      "onboard_time": 1767104001,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1163,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161368,
+      "num": 117437,
+      "word": "36岁农村摆摊卖20元一个的披萨",
+      "onboard_time": 1767105202,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 159604,
       "num": 159604,
       "word": "罗云熙演的生理性痛感看窒息了",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1767101783,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 149697,
+      "word": "东部战区破袭夺港割裂",
+      "onboard_time": 1767101363,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144716,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1767100644,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134406,
-      "num": 149697,
-      "word": "东部战区破袭夺港割裂",
-      "onboard_time": 1767101363,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134050,
@@ -1660,11 +1668,19 @@
     },
     {
       "raw_hot": 121730,
-      "num": 121730,
+      "num": 168577,
       "word": "品牌方回应叫停燕云十六声联动",
       "onboard_time": 1767103822,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121434,
+      "num": 121434,
+      "word": "张钧甯 容嬷嬷赛道",
+      "onboard_time": 1767105022,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 121120,
@@ -1673,6 +1689,22 @@
       "onboard_time": 1767077241,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121074,
+      "num": 121074,
+      "word": "北京十四五硬核成果大盘点",
+      "onboard_time": 1767105922,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 120607,
+      "num": 171510,
+      "word": "3女带4孩续面事件面馆老板起新号",
+      "onboard_time": 1767105262,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120062,
@@ -1987,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109811,
+      "num": 109811,
+      "word": "杨紫何惟芳登顶最热女性角色",
+      "onboard_time": 1767105022,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109737,
       "num": 100063,
       "word": "黄子韬 刘耀文比徐艺洋还难哄",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1767080062,
       "rank": 33,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 109132,
+      "num": 109132,
+      "word": "朱辰杰举办婚礼",
+      "onboard_time": 1767105262,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109058,
@@ -2371,6 +2419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 96552,
+      "num": 164020,
+      "word": "孩子吃席打翻盘子父母让他公开道歉",
+      "onboard_time": 1767105262,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95461,
       "num": 95461,
       "word": "谁把侯明昊的中药换成绿茶了",
@@ -2451,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92396,
+      "num": 156464,
+      "word": "tim现身罗永浩科技春晚",
+      "onboard_time": 1767105202,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91832,
       "num": 91832,
       "word": "Bin双眼皮超清照",
@@ -2465,6 +2529,22 @@
       "onboard_time": 1767084981,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91749,
+      "num": 160234,
+      "word": "金价",
+      "onboard_time": 1767105922,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 91704,
+      "num": 91704,
+      "word": "刘宪华又杀回东方卫视了",
+      "onboard_time": 1767105861,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 91666,
@@ -2563,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89223,
+      "num": 89223,
+      "word": "没认出来是宋茜",
+      "onboard_time": 1767105980,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89024,
       "num": 89024,
       "word": "黄桃罐头里为什么有白色的桃",
@@ -2627,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "新闻联播播出挂载实弹轰6K",
+      "onboard_time": 1767105741,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86202,
       "num": 86202,
       "word": "赵今麦 色令智昏",
@@ -2657,6 +2753,14 @@
       "onboard_time": 1767098063,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84876,
+      "num": 175939,
+      "word": "王毅对外国记者说中国也是你的家",
+      "onboard_time": 1767104182,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84646,
@@ -3883,14 +3987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21124,
-      "num": 175939,
-      "word": "王毅对外国记者说中国也是你的家",
-      "onboard_time": 1767104182,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21097,
       "num": 36918,
       "word": "央视跨年晚会",
@@ -3913,6 +4009,14 @@
       "onboard_time": 1767091402,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20583,
+      "num": 109211,
+      "word": "美国斩杀线真相",
+      "onboard_time": 1767105202,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19484,
