@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767126719338,
+  "endTime": 1767127545064,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -107123,6 +107123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11142,
+      "num": 23727,
+      "word": "张若昀1分52秒无台词戏",
+      "onboard_time": 1767122954,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11043,
       "num": 19672,
       "word": "熊黑 永远怀疑永远被骗",
@@ -107353,14 +107361,6 @@
       "onboard_time": 1765192161,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9306,
-      "num": 23727,
-      "word": "张若昀1分52秒无台词戏",
-      "onboard_time": 1767122954,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 9185,

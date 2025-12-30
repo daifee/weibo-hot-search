@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767126719338,
+  "endTime": 1767127545064,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -547,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 11142,
+      "num": 23727,
+      "word": "张若昀1分52秒无台词戏",
+      "onboard_time": 1767122954,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11119,
       "num": 27251,
       "word": "蔡依林Pleasure演唱会",
@@ -555,10 +563,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9306,
-      "num": 23727,
-      "word": "张若昀1分52秒无台词戏",
-      "onboard_time": 1767122954,
+      "raw_hot": 9774,
+      "num": 17663,
+      "word": "人之初",
+      "onboard_time": 1767091462,
       "rank": 46,
       "category": "剧集"
     }
