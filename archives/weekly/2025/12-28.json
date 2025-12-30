@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767077793327,
+  "endTime": 1767079864210,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -723,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 524167,
+      "num": 265649,
+      "word": "李沛恩直播",
+      "onboard_time": 1767079042,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523648,
       "num": 435373,
       "word": "长生",
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470088,
+      "num": 333903,
+      "word": "娶了个魔丸生了个魔童",
+      "onboard_time": 1767074961,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 461749,
       "num": 232704,
       "word": "2025全球百大最帅面孔",
@@ -921,6 +937,14 @@
       "onboard_time": 1766978360,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452130,
+      "num": 341474,
+      "word": "金价暴跌店员称跌幅首次见",
+      "onboard_time": 1767068302,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 451880,
@@ -1139,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419808,
+      "num": 419808,
+      "word": "台军承认五大演习区域进入12海里",
+      "onboard_time": 1767074242,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 418034,
       "num": 418034,
       "word": "王者荣耀",
@@ -1203,14 +1235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 409521,
-      "num": 333903,
-      "word": "娶了个魔丸生了个魔童",
-      "onboard_time": 1767074961,
-      "rank": 7,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 409000,
       "num": 409000,
       "word": "时代少年团第三张实体专预约",
@@ -1243,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 404508,
-      "num": 341474,
-      "word": "金价暴跌店员称跌幅首次见",
-      "onboard_time": 1767068302,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 404082,
       "num": 247211,
       "word": "网购羽绒服半个月退回口袋装着机票",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1767060980,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398964,
+      "num": 251869,
+      "word": "林俊杰文案的伏笔我后知后觉",
+      "onboard_time": 1767079399,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 398111,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1766981001,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 368646,
-      "num": 368646,
-      "word": "台军承认五大演习区域进入12海里",
-      "onboard_time": 1767074242,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 367592,
@@ -1715,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303700,
+      "num": 303700,
+      "word": "多品牌叫停燕云十六声联动",
+      "onboard_time": 1767072260,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302491,
       "num": 247873,
       "word": "杨紫迪丽热巴90花双TOP登五大开年",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1767012741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296553,
+      "num": 147433,
+      "word": "车澈李嘉格孩子抚养权",
+      "onboard_time": 1767077060,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 295978,
@@ -2044,7 +2076,7 @@
     },
     {
       "raw_hot": 261114,
-      "num": 203747,
+      "num": 246873,
       "word": "宋威龙回应被路人要微信",
       "onboard_time": 1767074179,
       "rank": 16,
@@ -2057,14 +2089,6 @@
       "onboard_time": 1766993901,
       "rank": 26,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 257931,
-      "num": 278624,
-      "word": "多品牌叫停燕云十六声联动",
-      "onboard_time": 1767072260,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 254927,
@@ -2953,14 +2977,6 @@
       "onboard_time": 1766928502,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185401,
-      "num": 118721,
-      "word": "车澈李嘉格孩子抚养权",
-      "onboard_time": 1767077060,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 185088,
@@ -5483,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110093,
+      "num": 113102,
+      "word": "谁能拒绝一场美食跨年",
+      "onboard_time": 1767078440,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109657,
       "num": 160545,
       "word": "安崎回应上浪姐",
@@ -6115,6 +6139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100014,
+      "num": 288750,
+      "word": "韩国总统李在明将访华",
+      "onboard_time": 1767078979,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99972,
       "num": 115363,
       "word": "玉茗茶骨第一章弼马温进女儿国",
@@ -6169,6 +6201,14 @@
       "onboard_time": 1766990120,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99226,
+      "num": 99226,
+      "word": "翟潇闻拍的照片火到外网了",
+      "onboard_time": 1767079520,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 99008,
@@ -6259,6 +6299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98089,
+      "num": 98089,
+      "word": "我不再在朋友圈发年度总结了",
+      "onboard_time": 1767079341,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97830,
       "num": 97830,
       "word": "樊振东王楚钦孙颖莎被授予运动健将",
@@ -6321,6 +6369,14 @@
       "onboard_time": 1766905280,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96809,
+      "num": 98077,
+      "word": "冬天开车一定要知道的事",
+      "onboard_time": 1767078199,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 96773,
@@ -6531,6 +6587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93257,
+      "num": 93257,
+      "word": "逼自己一把真的不如放自己一马",
+      "onboard_time": 1767079820,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93244,
       "num": 93244,
       "word": "孙悟空无双皮夯爆了",
@@ -6633,6 +6697,14 @@
       "onboard_time": 1767072921,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91287,
+      "num": 91287,
+      "word": "于正否认雪藏宋威龙",
+      "onboard_time": 1767079640,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 91181,
@@ -7075,6 +7147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84022,
+      "num": 84022,
+      "word": "鲁豫 这个时代的审美改变了",
+      "onboard_time": 1767078621,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83917,
       "num": 164393,
       "word": "员工利用公司系统漏洞盗走2360万",
@@ -7107,6 +7187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83604,
+      "num": 83604,
+      "word": "iPhone起初那些无人在意的设计",
+      "onboard_time": 1767079820,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83451,
       "num": 83451,
       "word": "周洁琼绿眸配红唇",
@@ -7137,6 +7225,14 @@
       "onboard_time": 1767058941,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83060,
+      "num": 83060,
+      "word": "猫 闹着玩呢你看你又较真",
+      "onboard_time": 1767079280,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 82928,
@@ -7401,6 +7497,14 @@
       "onboard_time": 1766878396,
       "rank": 20,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 77370,
+      "num": 97872,
+      "word": "母亲看到19岁儿子疑被16万转卖",
+      "onboard_time": 1767079520,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76687,
@@ -8115,6 +8219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50753,
+      "num": 97589,
+      "word": "车顶维权女车主被特斯拉申请限高",
+      "onboard_time": 1767077901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50535,
       "num": 103860,
       "word": "20万打工人一年花52天在路上",
@@ -8265,6 +8377,14 @@
       "onboard_time": 1766842522,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46289,
+      "num": 97399,
+      "word": "男子给好友发114个淫秽视频获刑",
+      "onboard_time": 1767078621,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45935,
@@ -8699,6 +8819,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34794,
+      "num": 97731,
+      "word": "初中生万元手机被网友带着换二手",
+      "onboard_time": 1767079219,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34542,
+      "num": 97550,
+      "word": "这一年苏州凭暖实力出圈",
+      "onboard_time": 1767078079,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34498,
       "num": 151823,
       "word": "视频平台不能因为监督才退费",
@@ -9033,6 +9169,14 @@
       "onboard_time": 1766863215,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25470,
+      "num": 97968,
+      "word": "萌娃钻进石像怀抱被紧紧抱住",
+      "onboard_time": 1767078920,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25238,
