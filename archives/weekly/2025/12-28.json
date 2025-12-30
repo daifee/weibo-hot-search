@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767076998745,
+  "endTime": 1767077793327,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -147,19 +147,19 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1104251,
+      "num": 1176680,
+      "word": "台湾",
+      "onboard_time": 1767073040,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1094127,
       "num": 1175060,
       "word": "解放军无人机俯瞰台北101大厦",
       "onboard_time": 1767009919,
       "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1091995,
-      "num": 1174719,
-      "word": "台湾",
-      "onboard_time": 1767073040,
-      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555145,
+      "num": 224805,
+      "word": "邱鼎杰直播",
+      "onboard_time": 1767077181,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554660,
       "num": 554660,
       "word": "Hero战胜AG",
@@ -665,6 +673,14 @@
       "onboard_time": 1767018149,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548589,
+      "num": 342838,
+      "word": "亲爱的客栈 王鹤棣沈月",
+      "onboard_time": 1767074060,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 548014,
@@ -809,14 +825,6 @@
       "onboard_time": 1766989220,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 493265,
-      "num": 321413,
-      "word": "亲爱的客栈 王鹤棣沈月",
-      "onboard_time": 1767074060,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 487443,
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428739,
+      "num": 222201,
+      "word": "林俊杰方否认女友怀孕",
+      "onboard_time": 1767075262,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428040,
       "num": 262975,
       "word": "张凌赫洗澡只要20分钟",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1766927422,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419218,
-      "num": 219676,
-      "word": "林俊杰方否认女友怀孕",
-      "onboard_time": 1767075262,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 418034,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1766895381,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 409521,
+      "num": 333903,
+      "word": "娶了个魔丸生了个魔童",
+      "onboard_time": 1767074961,
+      "rank": 7,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 409000,
@@ -1403,6 +1419,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 368646,
+      "num": 368646,
+      "word": "台军承认五大演习区域进入12海里",
+      "onboard_time": 1767074242,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 367592,
       "num": 899092,
       "word": "解放军海报中3艘美军核潜艇被拦截",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1766977460,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358099,
-      "num": 301748,
-      "word": "娶了个魔丸生了个魔童",
-      "onboard_time": 1767074961,
-      "rank": 7,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 357134,
@@ -1601,14 +1617,6 @@
       "onboard_time": 1766836103,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 321909,
-      "num": 321909,
-      "word": "台军承认五大演习区域进入12海里",
-      "onboard_time": 1767074242,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 321224,
@@ -2035,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261114,
+      "num": 203747,
+      "word": "宋威龙回应被路人要微信",
+      "onboard_time": 1767074179,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258390,
       "num": 211444,
       "word": "梁洁美成洋娃娃了",
@@ -2043,12 +2059,12 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 258055,
-      "num": 203747,
-      "word": "宋威龙回应被路人要微信",
-      "onboard_time": 1767074179,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 257931,
+      "num": 278624,
+      "word": "多品牌叫停燕云十六声联动",
+      "onboard_time": 1767072260,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 254927,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1767068843,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 226897,
-      "num": 278624,
-      "word": "多品牌叫停燕云十六声联动",
-      "onboard_time": 1767072260,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 226654,
@@ -2755,6 +2763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192306,
+      "num": 192306,
+      "word": "亲爱的客栈",
+      "onboard_time": 1767077299,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "猴哥说车前妻自曝与一男生在接触中",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1766928502,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185401,
+      "num": 118721,
+      "word": "车澈李嘉格孩子抚养权",
+      "onboard_time": 1767077060,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 185088,
@@ -4875,6 +4899,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122105,
+      "num": 122105,
+      "word": "找到西红柿越来越难吃的原因了",
+      "onboard_time": 1767077660,
+      "rank": 18,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 121978,
       "num": 120058,
       "word": "一个绝佳的跨年旅游方式",
@@ -4921,6 +4953,14 @@
       "onboard_time": 1766908640,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121120,
+      "num": 116379,
+      "word": "骄阳似我 剧情为王",
+      "onboard_time": 1767077241,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 121062,
@@ -5001,6 +5041,14 @@
       "onboard_time": 1766983522,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119106,
+      "num": 119106,
+      "word": "考公机构疑挂横幅上岸彩礼多要20万",
+      "onboard_time": 1767072680,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119006,
@@ -5145,14 +5193,6 @@
       "onboard_time": 1766911220,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115520,
-      "num": 115520,
-      "word": "考公机构疑挂横幅上岸彩礼多要20万",
-      "onboard_time": 1767072680,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115404,
@@ -5379,6 +5419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111642,
+      "num": 111642,
+      "word": "鲁豫回应何不食肉糜争议",
+      "onboard_time": 1767076399,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111552,
       "num": 160859,
       "word": "沈梦辰 看得出她是公主",
@@ -5433,14 +5481,6 @@
       "onboard_time": 1767001039,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109871,
-      "num": 109871,
-      "word": "鲁豫回应何不食肉糜争议",
-      "onboard_time": 1767076399,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 109657,
@@ -5867,6 +5907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102049,
+      "num": 102049,
+      "word": "一年一度的新年愿望",
+      "onboard_time": 1767077120,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102032,
       "num": 102032,
       "word": "韩国人真的在比喻方面蛮有天赋的",
@@ -6107,12 +6155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99352,
+      "num": 99352,
+      "word": "教育局回应家长参与护学岗时离世",
+      "onboard_time": 1767077299,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99312,
       "num": 99312,
       "word": "玉茗茶骨 还以为奶茶",
       "onboard_time": 1766990120,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99008,
+      "num": 99008,
+      "word": "家长护学岗晕倒死亡校方该担责吗",
+      "onboard_time": 1767076761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98955,
@@ -6465,14 +6529,6 @@
       "onboard_time": 1766906119,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93270,
-      "num": 93270,
-      "word": "家长护学岗晕倒死亡校方该担责吗",
-      "onboard_time": 1767076761,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93244,
@@ -6963,6 +7019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84646,
+      "num": 84646,
+      "word": "曾舜晞今年一天班都没落下",
+      "onboard_time": 1767074660,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84475,
       "num": 157417,
       "word": "官方通报信阳巨响",
@@ -7169,6 +7233,14 @@
       "onboard_time": 1767020725,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81719,
+      "num": 81719,
+      "word": "解放军演习封打台独大本营",
+      "onboard_time": 1767077719,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81706,
@@ -8003,6 +8075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51974,
+      "num": 101286,
+      "word": "都说了别让谭松韵沾穿飞鱼服的男人",
+      "onboard_time": 1767076941,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51713,
       "num": 99083,
       "word": "干儿子不想曹西平尸检",
@@ -8185,14 +8265,6 @@
       "onboard_time": 1766842522,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46138,
-      "num": 101286,
-      "word": "都说了别让谭松韵沾穿飞鱼服的男人",
-      "onboard_time": 1767076941,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 45935,
@@ -8651,6 +8723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33657,
+      "num": 101139,
+      "word": "小学食堂米线超保质期2小时被罚5万",
+      "onboard_time": 1767076821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33134,
       "num": 190506,
       "word": "把百年人生计划写入健康新一年",
@@ -8865,14 +8945,6 @@
       "onboard_time": 1766941337,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28268,
-      "num": 101139,
-      "word": "小学食堂米线超保质期2小时被罚5万",
-      "onboard_time": 1767076821,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27940,
@@ -9432,6 +9504,14 @@
       "word": "2025年最感谢的是老己",
       "onboard_time": 1766987241,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10823,
+      "num": 100970,
+      "word": "飞行员举报情人诈骗700多万",
+      "onboard_time": 1767077719,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
