@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767072702472,
+  "endTime": 1767073684813,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1046646,
-      "num": 341710,
+      "raw_hot": 1050187,
+      "num": 378849,
       "word": "陶白白被逼承认射手座是最好的星座",
       "onboard_time": 1767068901,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 845889,
-      "num": 321158,
+      "num": 349097,
       "word": "张家界一45岁家长站护学岗时死亡",
       "onboard_time": 1767067341,
       "rank": 41,
@@ -52,10 +52,18 @@
     },
     {
       "raw_hot": 835079,
-      "num": 316034,
+      "num": 325330,
       "word": "七七毕业于帕森斯设计学院",
       "onboard_time": 1767068421,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 782024,
+      "num": 331650,
+      "word": "王艳19岁儿子星味",
+      "onboard_time": 1767072260,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -107,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 583373,
+      "num": 1093339,
+      "word": "特朗普回应解放军在台岛附近军演",
+      "onboard_time": 1767071842,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 553956,
       "num": 458797,
       "word": "内娱终于有全女掀桌的爽剧了",
@@ -131,14 +147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 485501,
-      "num": 1077680,
-      "word": "特朗普回应解放军在台岛附近军演",
-      "onboard_time": 1767071842,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 478950,
       "num": 1076632,
       "word": "两个拿锤的手上都印有中国国旗",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 471385,
-      "num": 325543,
+      "num": 357565,
       "word": "物业躺着赚钱的日子彻底到头了",
       "onboard_time": 1767068061,
       "rank": 1,
@@ -185,6 +193,14 @@
       "onboard_time": 1767051020,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426017,
+      "num": 426017,
+      "word": "台湾",
+      "onboard_time": 1767073040,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 424087,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378046,
+      "num": 341474,
+      "word": "金价暴跌店员称跌幅首次见",
+      "onboard_time": 1767068302,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 371288,
       "num": 307644,
       "word": "女子面馆吃面遭老板骚扰露丝袜免单",
@@ -251,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 366285,
+      "num": 366285,
+      "word": "相恋十年中美情侣博主分手",
+      "onboard_time": 1767068601,
+      "rank": 4,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 366216,
       "num": 188825,
       "word": "黄金",
@@ -259,20 +291,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 365770,
-      "num": 365770,
-      "word": "相恋十年中美情侣博主分手",
-      "onboard_time": 1767068601,
-      "rank": 4,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 339653,
       "num": 339653,
       "word": "苹果客服回应电池健康度用到0%",
       "onboard_time": 1767050958,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 318719,
+      "num": 318719,
+      "word": "陈赫大女儿又高又瘦",
+      "onboard_time": 1767072500,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 299888,
@@ -289,14 +321,6 @@
       "onboard_time": 1767062719,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 284822,
-      "num": 320436,
-      "word": "金价暴跌店员称跌幅首次见",
-      "onboard_time": 1767068302,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 279762,
@@ -411,20 +435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227405,
+      "num": 336601,
+      "word": "东部战区发布远程火力实弹射击画面",
+      "onboard_time": 1767068843,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 226810,
       "num": 174449,
       "word": "陈梦 黄晓明还是我认识30多年的哥吗",
       "onboard_time": 1767019767,
       "rank": 6,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 220924,
-      "num": 220924,
-      "word": "王艳19岁儿子星味",
-      "onboard_time": 1767072260,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 208192,
@@ -449,14 +473,6 @@
       "onboard_time": 1767015381,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196926,
-      "num": 326297,
-      "word": "东部战区发布远程火力实弹射击画面",
-      "onboard_time": 1767068843,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 196112,
@@ -507,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184105,
+      "num": 306620,
+      "word": "台军休假官兵紧急返岗",
+      "onboard_time": 1767069501,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180148,
       "num": 158144,
       "word": "张杰 做歌手之前要做个好男人",
@@ -539,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172520,
-      "num": 306620,
-      "word": "台军休假官兵紧急返岗",
-      "onboard_time": 1767069501,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 172964,
+      "num": 172964,
+      "word": "玉茗茶骨 不用忍过多少集的剧",
+      "onboard_time": 1767072322,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 171590,
@@ -609,6 +633,14 @@
       "onboard_time": 1767069681,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 157138,
+      "word": "董宇辉亿元沙发订单陷代工质疑",
+      "onboard_time": 1767071962,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 152135,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128250,
+      "num": 128250,
+      "word": "羽绒服口袋里的哈尔滨机票刺痛了谁",
+      "onboard_time": 1767072021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128200,
       "num": 128200,
       "word": "留学后发现世界是个骗局",
@@ -803,20 +843,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 121753,
-      "num": 121753,
-      "word": "陈赫大女儿又高又瘦",
-      "onboard_time": 1767072500,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120062,
       "num": 120062,
       "word": "林依轮 什么瓜要舅舅亲自吃",
       "onboard_time": 1767066920,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119006,
+      "num": 119006,
+      "word": "老鼠干都走进欧美乐坛了",
+      "onboard_time": 1767073223,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 118755,
@@ -843,20 +883,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117165,
-      "num": 117165,
-      "word": "玉茗茶骨 不用忍过多少集的剧",
-      "onboard_time": 1767072322,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116877,
-      "num": 116877,
-      "word": "羽绒服口袋里的哈尔滨机票刺痛了谁",
-      "onboard_time": 1767072021,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "刘宇宁抢票",
+      "onboard_time": 1767073281,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 116763,
@@ -880,6 +912,14 @@
       "word": "女子跑3家银行网点没办成1张卡",
       "onboard_time": 1767020067,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115520,
+      "num": 115520,
+      "word": "考公机构疑挂横幅上岸彩礼多要20万",
+      "onboard_time": 1767072680,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -945,14 +985,6 @@
       "onboard_time": 1767060559,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 105319,
-      "num": 105319,
-      "word": "董宇辉亿元沙发订单陷代工质疑",
-      "onboard_time": 1767071962,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 105138,
@@ -1075,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91316,
+      "num": 91316,
+      "word": "秦彻天神降临",
+      "onboard_time": 1767072921,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90643,
       "num": 157276,
       "word": "陈昊宇开机",
@@ -1123,12 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88414,
-      "num": 88414,
-      "word": "考公机构疑挂横幅上岸彩礼多要20万",
-      "onboard_time": 1767072680,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 88530,
+      "num": 88530,
+      "word": "王源跨年演唱会",
+      "onboard_time": 1767073641,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 88364,
@@ -1251,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73073,
+      "num": 109726,
+      "word": "林诗栋蒯曼登上人民日报",
+      "onboard_time": 1767073581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72680,
       "num": 157729,
       "word": "民警猥亵继女案女孩母亲发声",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1767069801,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60507,
+      "num": 119148,
+      "word": "当地通报上岸彩礼多要20万横幅争议",
+      "onboard_time": 1767072322,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 60198,
@@ -1459,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48344,
+      "num": 389778,
+      "word": "2026是个什么年",
+      "onboard_time": 1767057921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48329,
       "num": 56340,
       "word": "宋雨琦你跑男人生镜头有了",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1767050478,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46909,
-      "num": 358847,
-      "word": "2026是个什么年",
-      "onboard_time": 1767057921,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45703,
@@ -1619,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37977,
-      "num": 119148,
-      "word": "当地通报上岸彩礼多要20万横幅争议",
-      "onboard_time": 1767072322,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 36998,
       "num": 65318,
       "word": "朱志鑫扭胯领域绝对的统治区",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1767039974,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25751,
+      "num": 109601,
+      "word": "丁程鑫你想帅出怎样的人生",
+      "onboard_time": 1767073401,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 25238,

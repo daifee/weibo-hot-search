@@ -1,0 +1,410 @@
+{
+  "runTime": 1767073684813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 583373,
+        "num": 1093339,
+        "word": "特朗普回应解放军在台岛附近军演",
+        "onboard_time": 1767071842,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426017,
+        "num": 426017,
+        "word": "台湾",
+        "onboard_time": 1767073040,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48344,
+        "num": 389778,
+        "word": "2026是个什么年",
+        "onboard_time": 1767057921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1050187,
+        "num": 378849,
+        "word": "陶白白被逼承认射手座是最好的星座",
+        "onboard_time": 1767068901,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366285,
+        "num": 366285,
+        "word": "相恋十年中美情侣博主分手",
+        "onboard_time": 1767068601,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 860361,
+        "num": 364599,
+        "word": "蔡磊渐冻症病情接近终末期",
+        "onboard_time": 1767065781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470809,
+        "num": 357565,
+        "word": "物业躺着赚钱的日子彻底到头了",
+        "onboard_time": 1767068061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456443,
+        "num": 349097,
+        "word": "张家界一45岁家长站护学岗时死亡",
+        "onboard_time": 1767067341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378046,
+        "num": 341474,
+        "word": "金价暴跌店员称跌幅首次见",
+        "onboard_time": 1767068302,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227405,
+        "num": 336601,
+        "word": "东部战区发布远程火力实弹射击画面",
+        "onboard_time": 1767068843,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 782024,
+        "num": 331650,
+        "word": "王艳19岁儿子星味",
+        "onboard_time": 1767072260,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435185,
+        "num": 325330,
+        "word": "七七毕业于帕森斯设计学院",
+        "onboard_time": 1767068421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318719,
+        "num": 318719,
+        "word": "陈赫大女儿又高又瘦",
+        "onboard_time": 1767072500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243057,
+        "num": 243057,
+        "word": "曝温精灵背刺好友和发疯是常态",
+        "onboard_time": 1767068542,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184186,
+        "num": 184186,
+        "word": "女子面馆吃面遭老板骚扰露丝袜免单",
+        "onboard_time": 1767065720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184105,
+        "num": 184105,
+        "word": "台军休假官兵紧急返岗",
+        "onboard_time": 1767069501,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172964,
+        "num": 172964,
+        "word": "玉茗茶骨 不用忍过多少集的剧",
+        "onboard_time": 1767072322,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166558,
+        "num": 166558,
+        "word": "北京一老板招25人其中24个骗子",
+        "onboard_time": 1767063259,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165895,
+        "num": 165895,
+        "word": "张杰演唱会谢娜将同台网友吵翻",
+        "onboard_time": 1767056902,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157138,
+        "num": 157138,
+        "word": "董宇辉亿元沙发订单陷代工质疑",
+        "onboard_time": 1767071962,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1331562,
+        "num": 155268,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376450,
+        "num": 149645,
+        "word": "林俊杰金莎 那年夏天刮的什么风",
+        "onboard_time": 1767066981,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357255,
+        "num": 143821,
+        "word": "内娱终于有全女掀桌的爽剧了",
+        "onboard_time": 1767067223,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201621,
+        "num": 140053,
+        "word": "止痛药布洛芬千万别乱吃",
+        "onboard_time": 1767061222,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169815,
+        "num": 133229,
+        "word": "霍建华我那失散多年的哥哥",
+        "onboard_time": 1767065361,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38755,
+        "num": 132177,
+        "word": "孟晚舟新年致辞谈华为2026战略",
+        "onboard_time": 1767071122,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128250,
+        "num": 128250,
+        "word": "羽绒服口袋里的哈尔滨机票刺痛了谁",
+        "onboard_time": 1767072021,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125294,
+        "num": 125294,
+        "word": "36克金镯一夜便宜了1500元",
+        "onboard_time": 1767069201,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 122186,
+        "word": "迪丽热巴 红秀开年刊",
+        "onboard_time": 1767070402,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 120201,
+        "word": "大冰说女生花精力在脸和身材上不是错事",
+        "onboard_time": 1767067580,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 119567,
+        "word": "多品牌叫停燕云十六声联动",
+        "onboard_time": 1767072260,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119006,
+        "num": 119006,
+        "word": "老鼠干都走进欧美乐坛了",
+        "onboard_time": 1767073223,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "刘宇宁抢票",
+        "onboard_time": 1767073281,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115520,
+        "num": 115520,
+        "word": "考公机构疑挂横幅上岸彩礼多要20万",
+        "onboard_time": 1767072680,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114925,
+        "num": 114925,
+        "word": "曹西平去世",
+        "onboard_time": 1767051020,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52077,
+        "num": 112057,
+        "word": "豪华真旗舰就选问界M9",
+        "onboard_time": 1767069382,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73073,
+        "num": 109726,
+        "word": "林诗栋蒯曼登上人民日报",
+        "onboard_time": 1767073581,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25751,
+        "num": 109601,
+        "word": "丁程鑫你想帅出怎样的人生",
+        "onboard_time": 1767073401,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109601,
+        "num": 109600,
+        "word": "许我耀眼现实版骗婚案",
+        "onboard_time": 1767059960,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109304,
+        "num": 109304,
+        "word": "Faker被问年薪多少",
+        "onboard_time": 1767071001,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108739,
+        "num": 108739,
+        "word": "雷军跨年直播拆车",
+        "onboard_time": 1767070222,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105482,
+        "num": 105482,
+        "word": "迪丽热巴迪奥开年首封",
+        "onboard_time": 1767067761,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60507,
+        "num": 104538,
+        "word": "当地通报上岸彩礼多要20万横幅争议",
+        "onboard_time": 1767072322,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104537,
+        "num": 104537,
+        "word": "留学后发现世界是个骗局",
+        "onboard_time": 1767070643,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104121,
+        "num": 104121,
+        "word": "温精灵",
+        "onboard_time": 1767052762,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100175,
+        "num": 100175,
+        "word": "骄阳似我 长白山文旅",
+        "onboard_time": 1767071482,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94587,
+        "num": 94587,
+        "word": "白衣公卿",
+        "onboard_time": 1767069923,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98777,
+        "num": 94071,
+        "word": "宋威龙给赵今麦的备注是暗夜玫瑰",
+        "onboard_time": 1767071242,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91316,
+        "num": 91316,
+        "word": "秦彻天神降临",
+        "onboard_time": 1767072921,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88530,
+        "num": 88530,
+        "word": "王源跨年演唱会",
+        "onboard_time": 1767073641,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2026新年贺词#"
+    }
+  }
+}
