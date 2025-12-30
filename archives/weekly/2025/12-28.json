@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767106052334,
+  "endTime": 1767108708111,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589912,
+      "num": 138042,
+      "word": "没认出来是宋茜",
+      "onboard_time": 1767105980,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577567,
       "num": 419824,
       "word": "六旬男子性侵智力障碍女子致怀孕",
@@ -713,6 +721,14 @@
       "onboard_time": 1766919501,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565742,
+      "num": 167971,
+      "word": "金价",
+      "onboard_time": 1766975959,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 562079,
@@ -1811,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 328725,
+      "num": 194395,
+      "word": "微博之夜四大才子预测",
+      "onboard_time": 1767103882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328517,
       "num": 328517,
       "word": "英国将禁止活煮龙虾",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1766923401,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319582,
+      "num": 123249,
+      "word": "罗永浩宣布科技春晚门票全退",
+      "onboard_time": 1767106881,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 318630,
@@ -2067,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296469,
-      "num": 194395,
-      "word": "微博之夜四大才子预测",
-      "onboard_time": 1767103882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295978,
       "num": 229129,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
@@ -2259,6 +2283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271466,
+      "num": 271466,
+      "word": "孩子吃席打翻盘子父母让他公开道歉",
+      "onboard_time": 1767105262,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271220,
       "num": 198805,
       "word": "白鹿田曦薇入围全球百大最美面孔",
@@ -2324,7 +2356,7 @@
     },
     {
       "raw_hot": 262743,
-      "num": 262743,
+      "num": 756207,
       "word": "骄阳似我微博评分现偶史上第一",
       "onboard_time": 1767098601,
       "rank": 42,
@@ -2803,6 +2835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214896,
+      "num": 190043,
+      "word": "袁一琦保密协议到期了",
+      "onboard_time": 1767104001,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214780,
       "num": 214780,
       "word": "玉茗茶骨摇来了短国半壁江山",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1766841442,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206243,
-      "num": 190043,
-      "word": "袁一琦保密协议到期了",
-      "onboard_time": 1767104001,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 205931,
@@ -3203,14 +3235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190454,
-      "num": 167971,
-      "word": "金价",
-      "onboard_time": 1766975959,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 190436,
       "num": 190436,
       "word": "玉茗茶骨 红楼梦",
@@ -3416,6 +3440,14 @@
       "word": "网红烤鱼进店前先花16元排队",
       "onboard_time": 1766993239,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183022,
+      "num": 183022,
+      "word": "6岁女孩舞蹈班下腰致终身瘫痪",
+      "onboard_time": 1767104902,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3979,6 +4011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162321,
+      "num": 162321,
+      "word": "36岁农村摆摊卖20元一个的披萨",
+      "onboard_time": 1767105202,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "费启鸣 上称得脱光了再上",
@@ -4009,14 +4049,6 @@
       "onboard_time": 1766926042,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161368,
-      "num": 117437,
-      "word": "36岁农村摆摊卖20元一个的披萨",
-      "onboard_time": 1767105202,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 161206,
@@ -4171,12 +4203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156907,
+      "num": 117376,
+      "word": "金价波动",
+      "onboard_time": 1767107121,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156898,
       "num": 156898,
       "word": "陈牧驰此前与吴楚一有六年情感纠葛",
       "onboard_time": 1766986400,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156408,
+      "num": 135546,
+      "word": "黄子韬 刘耀文比徐艺洋还难哄",
+      "onboard_time": 1767099502,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156379,
@@ -4763,6 +4811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139486,
+      "num": 135033,
+      "word": "孟子义王星越跨年彩排",
+      "onboard_time": 1767108380,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139331,
       "num": 215607,
       "word": "魏子宸 四叶草",
@@ -4779,12 +4835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139179,
+      "num": 139179,
+      "word": "得闲谨制第5次票房逆跌",
+      "onboard_time": 1767106162,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139076,
       "num": 139076,
       "word": "侯明昊好帅",
       "onboard_time": 1766936122,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138875,
+      "num": 138875,
+      "word": "复联5第二支预告",
+      "onboard_time": 1767107722,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 138496,
@@ -4953,6 +5025,14 @@
       "onboard_time": 1767069201,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134849,
+      "num": 117279,
+      "word": "印度称已超日本成世界第四大经济体",
+      "onboard_time": 1767107481,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134770,
@@ -5379,6 +5459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125449,
+      "num": 125449,
+      "word": "解放军演习在台湾岛内引发震动",
+      "onboard_time": 1767106881,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124985,
       "num": 124985,
       "word": "李莎旻子历届跨年零点拥抱对象",
@@ -5793,6 +5881,14 @@
       "onboard_time": 1767094580,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119231,
+      "num": 119231,
+      "word": "罗永浩大疆新品视频播放失误",
+      "onboard_time": 1767106281,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 119217,
@@ -6401,14 +6497,6 @@
       "onboard_time": 1767105022,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109737,
-      "num": 100063,
-      "word": "黄子韬 刘耀文比徐艺洋还难哄",
-      "onboard_time": 1767099502,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 109657,
@@ -7491,14 +7579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96552,
-      "num": 164020,
-      "word": "孩子吃席打翻盘子父母让他公开道歉",
-      "onboard_time": 1767105262,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96526,
       "num": 96526,
       "word": "金晨被白敬亭怀疑的抬不起头",
@@ -8027,14 +8107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89223,
-      "num": 89223,
-      "word": "没认出来是宋茜",
-      "onboard_time": 1767105980,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89150,
       "num": 89150,
       "word": "带自己家的猫去喂流浪猫",
@@ -8065,6 +8137,14 @@
       "onboard_time": 1766991199,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88543,
+      "num": 91285,
+      "word": "新闻联播播出挂载实弹轰6K",
+      "onboard_time": 1767105741,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88530,
@@ -8177,14 +8257,6 @@
       "onboard_time": 1767085221,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86730,
-      "num": 86730,
-      "word": "新闻联播播出挂载实弹轰6K",
-      "onboard_time": 1767105741,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86289,
@@ -8707,14 +8779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79962,
-      "num": 79962,
-      "word": "6岁女孩舞蹈班下腰致终身瘫痪",
-      "onboard_time": 1767104902,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79887,
       "num": 79887,
       "word": "苹果应用商店被曝有APP放高利贷",
@@ -8921,6 +8985,14 @@
       "onboard_time": 1766854819,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73561,
+      "num": 91217,
+      "word": "剥茧烧脑又好看",
+      "onboard_time": 1767108200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 73373,
@@ -9283,6 +9355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62176,
+      "num": 91136,
+      "word": "刘宇宁跨年彩排路透上新了",
+      "onboard_time": 1767108140,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62113,
       "num": 93000,
       "word": "女子花400万美容朋友拿50%回扣",
@@ -9467,6 +9547,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 57678,
+      "num": 91195,
+      "word": "养了一只活的汪汪雪饼",
+      "onboard_time": 1767106702,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 57648,
+      "num": 91120,
+      "word": "金莎被求婚后和孙丞潇同游西班牙",
+      "onboard_time": 1767108081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57079,
       "num": 109175,
       "word": "阿凡达3幻视封神",
@@ -9491,6 +9587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 56150,
+      "num": 91181,
+      "word": "男子回应捡鹅绒给妻子做羽绒服",
+      "onboard_time": 1767107481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56006,
       "num": 62743,
       "word": "给孩子买了一件会变色的衣服",
@@ -9507,12 +9611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55521,
+      "num": 91105,
+      "word": "2026以旧换新再升级",
+      "onboard_time": 1767108622,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55169,
       "num": 142839,
       "word": "蒯曼说被带飞",
       "onboard_time": 1767018389,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55040,
+      "num": 91094,
+      "word": "头部是身体的寒气入口",
+      "onboard_time": 1767106102,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 54642,
@@ -9705,6 +9825,14 @@
       "onboard_time": 1767093802,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49911,
+      "num": 91080,
+      "word": "仙剑奇侠传三动画",
+      "onboard_time": 1767107181,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 49829,
