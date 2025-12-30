@@ -1,6 +1,6 @@
 {
   "startTime": 1767026125296,
-  "endTime": 1767060462261,
+  "endTime": 1767061911131,
   "band_list": [
     {
       "raw_hot": 5458976,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1221815,
-      "num": 301146,
+      "raw_hot": 1428390,
+      "num": 306602,
       "word": "男明星 找网红",
       "onboard_time": 1767058041,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 598825,
-      "num": 301012,
+      "num": 304356,
       "word": "温精灵",
       "onboard_time": 1767052762,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1767053782,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 478950,
+      "num": 1076632,
+      "word": "两个拿锤的手上都印有中国国旗",
+      "onboard_time": 1767057501,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435532,
@@ -91,20 +99,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 417041,
+      "num": 303373,
+      "word": "迪丽热巴芭莎",
+      "onboard_time": 1767061100,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 412351,
-      "num": 300079,
+      "num": 301648,
       "word": "张杰演唱会谢娜将同台网友吵翻",
       "onboard_time": 1767056902,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 391856,
-      "num": 1062697,
-      "word": "两个拿锤的手上都印有中国国旗",
-      "onboard_time": 1767057501,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367592,
@@ -131,12 +139,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 302168,
-      "num": 302168,
+      "raw_hot": 339653,
+      "num": 339653,
       "word": "苹果客服回应电池健康度用到0%",
       "onboard_time": 1767050958,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 320005,
+      "num": 320005,
+      "word": "许我耀眼现实版骗婚案",
+      "onboard_time": 1767059960,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299888,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 229509,
-      "num": 301993,
+      "num": 316800,
       "word": "男孩偷吃变态辣外卖住院家长索赔",
       "onboard_time": 1767012802,
       "rank": 8,
@@ -235,12 +251,28 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 224610,
+      "num": 224610,
+      "word": "止痛药布洛芬千万别乱吃",
+      "onboard_time": 1767061222,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208192,
       "num": 299978,
       "word": "44岁被单位辞退拿了15万离职赔偿",
       "onboard_time": 1767051559,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202453,
+      "num": 319564,
+      "word": "对台岛海域实施远程火力实弹射击",
+      "onboard_time": 1767059121,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199080,
@@ -275,6 +307,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 174303,
+      "num": 315029,
+      "word": "约基奇受伤",
+      "onboard_time": 1767060320,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170652,
       "num": 155900,
       "word": "殷世航不建议大家做断骨增高",
@@ -297,14 +337,6 @@
       "onboard_time": 1767021264,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156239,
-      "num": 301563,
-      "word": "对台岛海域实施远程火力实弹射击",
-      "onboard_time": 1767059121,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149633,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 137893,
-      "num": 301428,
+      "num": 310067,
       "word": "东部战区位台岛南北两端演练",
       "onboard_time": 1767054682,
       "rank": 8,
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125195,
+      "num": 310400,
+      "word": "退货羽绒服兜里有机票买家否认白嫖",
+      "onboard_time": 1767060980,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124242,
       "num": 157354,
       "word": "歌手找的对象都好年轻",
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 124064,
-      "num": 124064,
+      "num": 193797,
       "word": "国际贵金属大幅收跌",
       "onboard_time": 1767060441,
       "rank": 26,
@@ -379,20 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119543,
-      "num": 119543,
-      "word": "许我耀眼现实版骗婚案",
-      "onboard_time": 1767059960,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116763,
       "num": 116763,
       "word": "詹姆斯全明星投票先服老了",
       "onboard_time": 1767058880,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116335,
+      "num": 116335,
+      "word": "女大学生回应一周6次健身致绝经",
+      "onboard_time": 1767061520,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116264,
@@ -403,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108566,
+      "num": 231406,
+      "word": "12月31日晚7时发表新年贺词",
+      "onboard_time": 1767061222,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107793,
       "num": 157952,
       "word": "娜扎回应赵嘉敏",
@@ -411,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105679,
+      "num": 105679,
+      "word": "被误解的鸡肉",
+      "onboard_time": 1767060559,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103662,
       "num": 103662,
       "word": "用AI来一场说走就走的旅行",
       "onboard_time": 1767059960,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99737,
+      "num": 99737,
+      "word": "在新疆遇到了会开花的屋顶",
+      "onboard_time": 1767061880,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 98630,
@@ -457,6 +521,14 @@
       "onboard_time": 1767010521,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93892,
+      "num": 301219,
+      "word": "俄将回击乌袭普京官邸",
+      "onboard_time": 1767059900,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93000,
@@ -539,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83820,
-      "num": 83820,
-      "word": "约基奇受伤",
-      "onboard_time": 1767060320,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83121,
       "num": 83121,
       "word": "金饰克价跌至1353元",
@@ -571,12 +635,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80830,
+      "num": 80830,
+      "word": "王楚钦梁靖崑像极了年会赶KPI的我",
+      "onboard_time": 1767061159,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79833,
       "num": 157805,
       "word": "警方通报45岁女子遭邻居砍死",
       "onboard_time": 1767020007,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 77786,
+      "num": 77786,
+      "word": "NBA全明星投票",
+      "onboard_time": 1767061759,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75783,
+      "num": 75783,
+      "word": "Manus",
+      "onboard_time": 1767058880,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 75096,
@@ -923,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32293,
+      "num": 236236,
+      "word": "日本计划大幅提高离境税",
+      "onboard_time": 1767060980,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31623,
       "num": 86941,
       "word": "日本夫妇惨死桑拿房",
@@ -961,6 +1057,14 @@
       "onboard_time": 1767039974,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25238,
+      "num": 95390,
+      "word": "3男子抢劫摩托车杀人潜逃30年被抓",
+      "onboard_time": 1767060140,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25039,
@@ -1003,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22231,
-      "num": 301219,
-      "word": "俄将回击乌袭普京官邸",
-      "onboard_time": 1767059900,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22219,
       "num": 65310,
       "word": "新闻联播播出演习细节",
@@ -1043,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16769,
-      "num": 95390,
-      "word": "3男子抢劫摩托车杀人潜逃30年被抓",
-      "onboard_time": 1767060140,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16072,
       "num": 245518,
       "word": "S21一路开新",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1767039314,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14109,
+      "num": 88850,
+      "word": "女子带亡夫照片骑摩托10天到拉萨",
+      "onboard_time": 1767061701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11620,

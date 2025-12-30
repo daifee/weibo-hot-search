@@ -1,0 +1,410 @@
+{
+  "runTime": 1767061911131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478950,
+        "num": 1076632,
+        "word": "两个拿锤的手上都印有中国国旗",
+        "onboard_time": 1767057501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339653,
+        "num": 339653,
+        "word": "苹果客服回应电池健康度用到0%",
+        "onboard_time": 1767050958,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43108,
+        "num": 322448,
+        "word": "警方侦破一起侵害烈士名誉荣誉案件",
+        "onboard_time": 1767054682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320005,
+        "num": 320005,
+        "word": "许我耀眼现实版骗婚案",
+        "onboard_time": 1767059960,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202453,
+        "num": 319564,
+        "word": "对台岛海域实施远程火力实弹射击",
+        "onboard_time": 1767059121,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203413,
+        "num": 316800,
+        "word": "男孩偷吃变态辣外卖住院家长索赔",
+        "onboard_time": 1767012802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174303,
+        "num": 315029,
+        "word": "约基奇受伤",
+        "onboard_time": 1767060320,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170032,
+        "num": 313053,
+        "word": "解放军海报中3艘美军核潜艇被拦截",
+        "onboard_time": 1767049939,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125195,
+        "num": 310400,
+        "word": "退货羽绒服兜里有机票买家否认白嫖",
+        "onboard_time": 1767060980,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116089,
+        "num": 310067,
+        "word": "东部战区位台岛南北两端演练",
+        "onboard_time": 1767054682,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1428390,
+        "num": 306602,
+        "word": "男明星 找网红",
+        "onboard_time": 1767058041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531239,
+        "num": 304356,
+        "word": "温精灵",
+        "onboard_time": 1767052762,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417041,
+        "num": 303373,
+        "word": "迪丽热巴芭莎",
+        "onboard_time": 1767061100,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386975,
+        "num": 301648,
+        "word": "张杰演唱会谢娜将同台网友吵翻",
+        "onboard_time": 1767056902,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350683,
+        "num": 298526,
+        "word": "曹西平去世",
+        "onboard_time": 1767051020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298231,
+        "num": 298231,
+        "word": "众星祝福林俊杰",
+        "onboard_time": 1767051919,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296870,
+        "num": 296870,
+        "word": "江宏杰疑似回应福原爱",
+        "onboard_time": 1767058460,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239231,
+        "num": 239231,
+        "word": "莫斯科遭袭空中交通瘫痪",
+        "onboard_time": 1767051559,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163119,
+        "num": 238618,
+        "word": "44岁被单位辞退拿了15万离职赔偿",
+        "onboard_time": 1767051559,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32293,
+        "num": 236236,
+        "word": "日本计划大幅提高离境税",
+        "onboard_time": 1767060980,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108566,
+        "num": 231406,
+        "word": "12月31日晚7时发表新年贺词",
+        "onboard_time": 1767061222,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2032952,
+        "num": 228805,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383082,
+        "num": 226420,
+        "word": "黄金白银或现更严重下跌",
+        "onboard_time": 1767053782,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224610,
+        "num": 224610,
+        "word": "止痛药布洛芬千万别乱吃",
+        "onboard_time": 1767061222,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94131,
+        "num": 193797,
+        "word": "国际贵金属大幅收跌",
+        "onboard_time": 1767060441,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 93892,
+        "num": 193500,
+        "word": "俄将回击乌袭普京官邸",
+        "onboard_time": 1767059900,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193215,
+        "num": 193215,
+        "word": "张杰演唱会回应争议",
+        "onboard_time": 1767016521,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142290,
+        "num": 142290,
+        "word": "用喜糖来判断婚礼标准",
+        "onboard_time": 1767052940,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137874,
+        "num": 137874,
+        "word": "黄金",
+        "onboard_time": 1767021505,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131135,
+        "num": 131135,
+        "word": "潘玮柏和妻子宣云差14岁",
+        "onboard_time": 1767052341,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116335,
+        "num": 116335,
+        "word": "女大学生回应一周6次健身致绝经",
+        "onboard_time": 1767061520,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108204,
+        "num": 108204,
+        "word": "东部战区正义之锤封港断线",
+        "onboard_time": 1767056122,
+        "rank": 31,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "被误解的鸡肉",
+        "onboard_time": 1767060559,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99737,
+        "num": 99737,
+        "word": "在新疆遇到了会开花的屋顶",
+        "onboard_time": 1767061880,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97585,
+        "num": 97585,
+        "word": "我国宠物市场规模突破6000亿",
+        "onboard_time": 1767060140,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93606,
+        "num": 93606,
+        "word": "陈梦 黄晓明还是我认识30多年的哥吗",
+        "onboard_time": 1767019767,
+        "rank": 35,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 89817,
+        "num": 89817,
+        "word": "白鹿剪短了头发",
+        "onboard_time": 1767015803,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35385,
+        "num": 89197,
+        "word": "泽连斯基称俄总统官邸遭袭纯属捏造",
+        "onboard_time": 1767059780,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 88850,
+        "word": "女子带亡夫照片骑摩托10天到拉萨",
+        "onboard_time": 1767061701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88797,
+        "num": 88797,
+        "word": "日本男童滑雪场传送带摔倒被卡死亡",
+        "onboard_time": 1767053362,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85460,
+        "num": 85460,
+        "word": "詹姆斯全明星投票先服老了",
+        "onboard_time": 1767058880,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81475,
+        "num": 81475,
+        "word": "王鹤棣抢到了孟子义的气球花",
+        "onboard_time": 1767056541,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80830,
+        "num": 80830,
+        "word": "王楚钦梁靖崑像极了年会赶KPI的我",
+        "onboard_time": 1767061159,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77786,
+        "num": 77786,
+        "word": "NBA全明星投票",
+        "onboard_time": 1767061759,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77224,
+        "num": 77224,
+        "word": "金饰克价跌至1353元",
+        "onboard_time": 1767058941,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 76077,
+        "word": "疑似温精灵前合伙人发视频控诉",
+        "onboard_time": 1767052701,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80848,
+        "num": 76074,
+        "word": "何炅挂在王鹤棣身上",
+        "onboard_time": 1767058640,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75783,
+        "num": 75783,
+        "word": "Manus",
+        "onboard_time": 1767058880,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25238,
+        "num": 75287,
+        "word": "3男子抢劫摩托车杀人潜逃30年被抓",
+        "onboard_time": 1767060140,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44502,
+        "num": 75145,
+        "word": "19岁男子失联5个月母亲赴柬寻子",
+        "onboard_time": 1767060140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
