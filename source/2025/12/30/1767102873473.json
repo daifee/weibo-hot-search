@@ -1,0 +1,410 @@
+{
+  "runTime": 1767102873473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895402,
+        "num": 1143264,
+        "word": "增值税",
+        "onboard_time": 1767097822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431754,
+        "num": 841401,
+        "word": "罗永浩迟到超40分钟",
+        "onboard_time": 1767097341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9491,
+        "num": 677769,
+        "word": "我国银发网民加速拥抱数字世界",
+        "onboard_time": 1767102802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457803,
+        "num": 457803,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365705,
+        "num": 365705,
+        "word": "承德致20死重大火灾事故调查报告",
+        "onboard_time": 1767101783,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427520,
+        "num": 349215,
+        "word": "原配拿小三手机发朋友圈被拘留",
+        "onboard_time": 1767095662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39335,
+        "num": 239549,
+        "word": "明年继续领国补",
+        "onboard_time": 1767102442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219031,
+        "num": 219031,
+        "word": "罗永浩科技春晚",
+        "onboard_time": 1767091882,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218927,
+        "num": 218927,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767101301,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216993,
+        "num": 216993,
+        "word": "世界上最长寿的在世猫咪30岁了",
+        "onboard_time": 1767097341,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 521858,
+        "num": 213689,
+        "word": "女孩遭姨夫性侵父母拒绝出具谅解书",
+        "onboard_time": 1767100702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366877,
+        "num": 212356,
+        "word": "张纪中妻子自曝闭黑关四天四夜",
+        "onboard_time": 1767096862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272871,
+        "num": 210790,
+        "word": "原来张凌赫吃醋是这个风味",
+        "onboard_time": 1767097222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207760,
+        "num": 207760,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228737,
+        "num": 207710,
+        "word": "陈泽自曝收入",
+        "onboard_time": 1767101363,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206153,
+        "num": 206153,
+        "word": "蔡依林取悦自己刻不容缓",
+        "onboard_time": 1767097101,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187727,
+        "num": 187727,
+        "word": "童禹坤直播嗦鸭头",
+        "onboard_time": 1767102083,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178709,
+        "num": 178709,
+        "word": "金巧巧吴启华 分手22年后演夫妻",
+        "onboard_time": 1767087260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166482,
+        "num": 166482,
+        "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
+        "onboard_time": 1767101601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44658,
+        "num": 160174,
+        "word": "胡歌生图即神图",
+        "onboard_time": 1767102201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637755,
+        "num": 160156,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159544,
+        "num": 159544,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 403476,
+        "num": 159348,
+        "word": "蔡依林踩蛇出场",
+        "onboard_time": 1767100702,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240016,
+        "num": 158951,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197542,
+        "num": 158936,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158441,
+        "num": 158441,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157912,
+        "num": 157912,
+        "word": "小县城里最好听的名字",
+        "onboard_time": 1767095363,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146201,
+        "num": 146201,
+        "word": "迪丽热巴氛围感满分",
+        "onboard_time": 1767101783,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133583,
+        "num": 133583,
+        "word": "林俊杰女友曾分享铁刘海教程",
+        "onboard_time": 1767095062,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82472,
+        "num": 131707,
+        "word": "东部战区破袭夺港割裂",
+        "onboard_time": 1767101363,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131512,
+        "num": 131512,
+        "word": "张凌赫直播",
+        "onboard_time": 1767089540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127677,
+        "num": 130599,
+        "word": "没人能逃过湖南卫视的跨年盛宴",
+        "onboard_time": 1767100644,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "温精灵回应前合伙人控诉",
+        "onboard_time": 1767099683,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127266,
+        "num": 127266,
+        "word": "台军后备干部狂赞解放军被踢出群聊",
+        "onboard_time": 1767097101,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125953,
+        "num": 125953,
+        "word": "宋威龙张婧仪牵手舞台",
+        "onboard_time": 1767089179,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123588,
+        "num": 123588,
+        "word": "骄阳似我微博评分现偶史上第一",
+        "onboard_time": 1767098601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52096,
+        "num": 120478,
+        "word": "魏建军把家底子掏出来了",
+        "onboard_time": 1767100523,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91666,
+        "num": 120410,
+        "word": "魏建军称长城汽车要面向全球",
+        "onboard_time": 1767102562,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 120386,
+        "word": "小米明年或推4款新车",
+        "onboard_time": 1767101722,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120379,
+        "num": 120379,
+        "word": "赵丽颖黄晓明新剧下证了",
+        "onboard_time": 1767097402,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108585,
+        "num": 108585,
+        "word": "北京男篮vs广厦男篮",
+        "onboard_time": 1767102562,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108124,
+        "num": 108124,
+        "word": "青州地震",
+        "onboard_time": 1767097043,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106010,
+        "num": 106010,
+        "word": "你是龚俊那他是谁",
+        "onboard_time": 1767102742,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15175,
+        "num": 104334,
+        "word": "2026年农业强国建设施工图",
+        "onboard_time": 1767102322,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104141,
+        "num": 104141,
+        "word": "骄阳似我后面有13场吻戏",
+        "onboard_time": 1767101242,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100924,
+        "num": 100924,
+        "word": "刘端端也是演上难哄了",
+        "onboard_time": 1767101963,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102624,
+        "num": 98235,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767096082,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94819,
+        "num": 94819,
+        "word": "郭冬临 谁点的京圈清冷佛子",
+        "onboard_time": 1767091581,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96504,
+        "num": 94806,
+        "word": "被字节跳动免费食堂震惊到了",
+        "onboard_time": 1767099322,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94644,
+        "num": 94644,
+        "word": "张兰败诉判赔麻六记前运营2万",
+        "onboard_time": 1767098182,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对农民的特殊情感#"
+    }
+  }
+}
