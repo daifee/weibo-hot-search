@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767091741139,
+  "endTime": 1767094039550,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -1507,6 +1507,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 375666,
+      "num": 208213,
+      "word": "宋威龙张婧仪牵手舞台",
+      "onboard_time": 1767089179,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374901,
       "num": 374901,
       "word": "优酷2025夯爆了",
@@ -1715,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332884,
-      "num": 208213,
-      "word": "宋威龙张婧仪牵手舞台",
-      "onboard_time": 1767089179,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329052,
       "num": 281593,
       "word": "小孩饭 大人饭",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1766971280,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 328444,
+      "num": 776687,
+      "word": "董宇辉直播5个半小时销售额超3亿",
+      "onboard_time": 1767090080,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 327723,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1766995761,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 312049,
+      "num": 176728,
+      "word": "12月31号我就这样下楼",
+      "onboard_time": 1767091101,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 309506,
@@ -2315,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249232,
+      "num": 141041,
+      "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+      "onboard_time": 1767092841,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248663,
       "num": 251575,
       "word": "17岁少女1年打赏主播40多万元",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1766981422,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233835,
+      "num": 179098,
+      "word": "张凌赫章若楠彩排牵手了",
+      "onboard_time": 1767088822,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 233796,
@@ -2963,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191897,
+      "num": 139869,
+      "word": "郭冬临 谁点的京圈清冷佛子",
+      "onboard_time": 1767091581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "猴哥说车前妻自曝与一男生在接触中",
@@ -3041,6 +3081,14 @@
       "onboard_time": 1766999300,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 189573,
+      "num": 137159,
+      "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+      "onboard_time": 1767093263,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189403,
@@ -3139,12 +3187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186356,
-      "num": 186356,
-      "word": "董宇辉直播5个半小时销售额超3亿",
-      "onboard_time": 1767090080,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 186302,
+      "num": 131111,
+      "word": "章泽天 老己文学",
+      "onboard_time": 1767091222,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 186292,
@@ -3315,12 +3363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179098,
-      "num": 179098,
-      "word": "张凌赫章若楠彩排牵手了",
-      "onboard_time": 1767088822,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 178657,
+      "num": 178657,
+      "word": "汽车按车价比例进行补贴",
+      "onboard_time": 1767092362,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 177791,
@@ -3433,6 +3481,14 @@
       "onboard_time": 1767017431,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173081,
+      "num": 173081,
+      "word": "13岁女孩频繁屁股疼确诊骨癌",
+      "onboard_time": 1767092601,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172640,
@@ -4059,6 +4115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 150992,
+      "num": 150992,
+      "word": "罗永浩科技春晚",
+      "onboard_time": 1767091882,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150681,
       "num": 150681,
       "word": "邓佳鑫下次见",
@@ -4353,14 +4417,6 @@
       "onboard_time": 1766926942,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142387,
-      "num": 132799,
-      "word": "12月31号我就这样下楼",
-      "onboard_time": 1767091101,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 142182,
@@ -5619,6 +5675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115266,
+      "num": 115266,
+      "word": "下雪天一定要做的妆造",
+      "onboard_time": 1767092002,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 115066,
       "num": 115066,
       "word": "蒯曼平野美宇3比0陈幸同钱天一",
@@ -5859,6 +5923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112189,
+      "num": 112189,
+      "word": "春节聚会就扎丸子头",
+      "onboard_time": 1767090982,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 112187,
       "num": 112187,
       "word": "期末到底考不考骄阳似我",
@@ -5867,12 +5939,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112141,
+      "num": 112141,
+      "word": "尹正说演日本人下班后觉得很恶心",
+      "onboard_time": 1767092421,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111913,
       "num": 111913,
       "word": "现在就出发",
       "onboard_time": 1766964138,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111660,
+      "num": 111660,
+      "word": "林俊杰写给女朋友的歌",
+      "onboard_time": 1767092902,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 111642,
@@ -5945,6 +6033,14 @@
       "onboard_time": 1767078440,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110036,
+      "num": 112797,
+      "word": "海底捞回应店员把面条甩地上",
+      "onboard_time": 1767092062,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109657,
@@ -6193,14 +6289,6 @@
       "onboard_time": 1766889259,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106345,
-      "num": 106345,
-      "word": "章泽天 老己文学",
-      "onboard_time": 1767091222,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 106085,
@@ -6475,14 +6563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 101548,
-      "num": 101548,
-      "word": "郭冬临 谁点的京圈清冷佛子",
-      "onboard_time": 1767091581,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101411,
       "num": 159887,
       "word": "魏大勋 富公哦滑雪照这么帅",
@@ -6707,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99265,
+      "num": 99265,
+      "word": "红装是王楚然的统治区吧",
+      "onboard_time": 1767092062,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99045,
       "num": 99045,
       "word": "罗云熙被投到凶手榜第一",
@@ -6811,6 +6899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97836,
+      "num": 97836,
+      "word": "TheShy说以后见面的机会不多了",
+      "onboard_time": 1767092002,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97830,
       "num": 97830,
       "word": "樊振东王楚钦孙颖莎被授予运动健将",
@@ -6849,6 +6945,14 @@
       "onboard_time": 1767084500,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97593,
+      "num": 97593,
+      "word": "半个娱乐圈都来宜宾团建了",
+      "onboard_time": 1767093563,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97404,
@@ -7211,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91908,
+      "num": 91908,
+      "word": "2026年国补目录",
+      "onboard_time": 1767093921,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91789,
       "num": 91789,
       "word": "怎么做到自信有活力又难听",
@@ -7305,6 +7417,14 @@
       "onboard_time": 1766901922,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90413,
+      "num": 180411,
+      "word": "火锅店室内外差60度推开窗如仙境",
+      "onboard_time": 1767091043,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90175,
@@ -8547,6 +8667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62940,
+      "num": 99298,
+      "word": "章若楠上车撞到头",
+      "onboard_time": 1767093622,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62764,
       "num": 62764,
       "word": "年底有种兴奋之感",
@@ -9331,6 +9459,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40728,
+      "num": 99385,
+      "word": "7名内耗干部被回炉锻造",
+      "onboard_time": 1767093802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40714,
+      "num": 92791,
+      "word": "骚扰女子涉事面馆正常营业",
+      "onboard_time": 1767092601,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40602,
+      "num": 99266,
+      "word": "宣萱调侃和古天乐结婚肯定会离婚",
+      "onboard_time": 1767093802,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40464,
       "num": 93110,
       "word": "日本滑雪场自动人行道夹死5岁男孩",
@@ -9427,6 +9579,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 37604,
+      "num": 182035,
+      "word": "用沙画表演击碎网络谣言",
+      "onboard_time": 1767091162,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37577,
       "num": 60942,
       "word": "张泽禹 哥穿破布都是帅哥",
@@ -9441,6 +9601,14 @@
       "onboard_time": 1767081979,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37348,
+      "num": 87873,
+      "word": "年度二创角色TOP3迪丽热巴占了俩",
+      "onboard_time": 1767092421,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 37255,
@@ -9731,6 +9899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31706,
+      "num": 185661,
+      "word": "檀健次的灵感空间是浴室",
+      "onboard_time": 1767089300,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31691,
       "num": 111963,
       "word": "彭昱畅 阿如那你心乱了",
@@ -9849,14 +10025,6 @@
       "onboard_time": 1766987241,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29465,
-      "num": 182035,
-      "word": "用沙画表演击碎网络谣言",
-      "onboard_time": 1767091162,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29456,
@@ -9993,6 +10161,14 @@
       "onboard_time": 1767078920,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25251,
+      "num": 149110,
+      "word": "海警最新海报也出现海马斯火箭炮",
+      "onboard_time": 1767093263,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25238,
@@ -10227,14 +10403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20955,
-      "num": 180411,
-      "word": "火锅店室内外差60度推开窗如仙境",
-      "onboard_time": 1767091043,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20889,
       "num": 96530,
       "word": "台退役少将问台军能否来得及反应",
@@ -10257,14 +10425,6 @@
       "onboard_time": 1767091402,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20478,
-      "num": 185661,
-      "word": "檀健次的灵感空间是浴室",
-      "onboard_time": 1767089300,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20250,
@@ -10345,6 +10505,14 @@
       "onboard_time": 1766840782,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16918,
+      "num": 158654,
+      "word": "喜剧人团建最强售后",
+      "onboard_time": 1767092482,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 16912,

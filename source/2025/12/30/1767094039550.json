@@ -1,0 +1,410 @@
+{
+  "runTime": 1767094039550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422503,
+        "num": 1067600,
+        "word": "顾客海底捞发现店员捞面多次甩地上",
+        "onboard_time": 1767085400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328444,
+        "num": 776687,
+        "word": "董宇辉直播5个半小时销售额超3亿",
+        "onboard_time": 1767090080,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27862,
+        "num": 592296,
+        "word": "中国迈入制造强国行列",
+        "onboard_time": 1767084321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244550,
+        "num": 244550,
+        "word": "微信更新后最利于单删的功能",
+        "onboard_time": 1767086362,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178657,
+        "num": 178657,
+        "word": "汽车按车价比例进行补贴",
+        "onboard_time": 1767092362,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 486069,
+        "num": 178261,
+        "word": "爱吃烤红薯的人天塌了",
+        "onboard_time": 1767085400,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375666,
+        "num": 177395,
+        "word": "宋威龙张婧仪牵手舞台",
+        "onboard_time": 1767089179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312049,
+        "num": 176728,
+        "word": "12月31号我就这样下楼",
+        "onboard_time": 1767091101,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173081,
+        "num": 173081,
+        "word": "13岁女孩频繁屁股疼确诊骨癌",
+        "onboard_time": 1767092601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233835,
+        "num": 170978,
+        "word": "张凌赫章若楠彩排牵手了",
+        "onboard_time": 1767088822,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681462,
+        "num": 170216,
+        "word": "林俊杰女友七七婚纱写真",
+        "onboard_time": 1767089362,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31706,
+        "num": 166539,
+        "word": "檀健次的灵感空间是浴室",
+        "onboard_time": 1767089300,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317326,
+        "num": 164245,
+        "word": "迅猛龙直播掉美颜",
+        "onboard_time": 1767082580,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216698,
+        "num": 161033,
+        "word": "差点没认出张佳宁",
+        "onboard_time": 1767085101,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16918,
+        "num": 158654,
+        "word": "喜剧人团建最强售后",
+        "onboard_time": 1767092482,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435809,
+        "num": 157951,
+        "word": "张凌赫直播",
+        "onboard_time": 1767089540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155652,
+        "num": 155652,
+        "word": "禁毒副大队长走私大麻获刑3年半",
+        "onboard_time": 1767083842,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "罗永浩科技春晚",
+        "onboard_time": 1767091882,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25251,
+        "num": 149110,
+        "word": "海警最新海报也出现海马斯火箭炮",
+        "onboard_time": 1767093263,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37604,
+        "num": 148168,
+        "word": "用沙画表演击碎网络谣言",
+        "onboard_time": 1767091162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279215,
+        "num": 144970,
+        "word": "尔冬升女儿好漂亮",
+        "onboard_time": 1767087201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249232,
+        "num": 141041,
+        "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
+        "onboard_time": 1767092841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191897,
+        "num": 139869,
+        "word": "郭冬临 谁点的京圈清冷佛子",
+        "onboard_time": 1767091581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189573,
+        "num": 137159,
+        "word": "杨紫杨幂白鹿25年度热搜女角色TOP3",
+        "onboard_time": 1767093263,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135482,
+        "num": 135482,
+        "word": "台军承认五大演习区域进入12海里",
+        "onboard_time": 1767074242,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187861,
+        "num": 132569,
+        "word": "金巧巧吴启华 分手22年后演夫妻",
+        "onboard_time": 1767087260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186302,
+        "num": 131111,
+        "word": "章泽天 老己文学",
+        "onboard_time": 1767091222,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128277,
+        "num": 128277,
+        "word": "丁禹兮没有任何谐音梗就是字面意思",
+        "onboard_time": 1767089540,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115266,
+        "num": 115266,
+        "word": "下雪天一定要做的妆造",
+        "onboard_time": 1767092002,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 112797,
+        "word": "海底捞回应店员把面条甩地上",
+        "onboard_time": 1767092062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 112663,
+        "word": "于正否认雪藏宋威龙",
+        "onboard_time": 1767079640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112189,
+        "num": 112189,
+        "word": "春节聚会就扎丸子头",
+        "onboard_time": 1767090982,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112141,
+        "num": 112141,
+        "word": "尹正说演日本人下班后觉得很恶心",
+        "onboard_time": 1767092421,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111660,
+        "num": 111660,
+        "word": "林俊杰写给女朋友的歌",
+        "onboard_time": 1767092902,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102945,
+        "num": 102945,
+        "word": "蔡磊渐冻症病情接近终末期",
+        "onboard_time": 1767065781,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99670,
+        "num": 99670,
+        "word": "舞蹈下腰致瘫女童7年未获道歉",
+        "onboard_time": 1767080120,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 99385,
+        "word": "7名内耗干部被回炉锻造",
+        "onboard_time": 1767093802,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62940,
+        "num": 99298,
+        "word": "章若楠上车撞到头",
+        "onboard_time": 1767093622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40602,
+        "num": 99266,
+        "word": "宣萱调侃和古天乐结婚肯定会离婚",
+        "onboard_time": 1767093802,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99265,
+        "num": 99265,
+        "word": "红装是王楚然的统治区吧",
+        "onboard_time": 1767092062,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102424,
+        "num": 98933,
+        "word": "肖战不要回头彩排路透",
+        "onboard_time": 1767084380,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97836,
+        "num": 97836,
+        "word": "TheShy说以后见面的机会不多了",
+        "onboard_time": 1767092002,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97593,
+        "num": 97593,
+        "word": "半个娱乐圈都来宜宾团建了",
+        "onboard_time": 1767093563,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93235,
+        "num": 93235,
+        "word": "张予曦全妆赶场湖南跨年",
+        "onboard_time": 1767090261,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40714,
+        "num": 92791,
+        "word": "骚扰女子涉事面馆正常营业",
+        "onboard_time": 1767092601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92766,
+        "num": 92766,
+        "word": "肖战杨紫登顶年度热搜角色",
+        "onboard_time": 1767089662,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91908,
+        "num": 91908,
+        "word": "2026年国补目录",
+        "onboard_time": 1767093921,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90413,
+        "num": 90413,
+        "word": "火锅店室内外差60度推开窗如仙境",
+        "onboard_time": 1767091043,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88473,
+        "num": 88473,
+        "word": "台湾",
+        "onboard_time": 1767073040,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37348,
+        "num": 87873,
+        "word": "年度二创角色TOP3迪丽热巴占了俩",
+        "onboard_time": 1767092421,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
