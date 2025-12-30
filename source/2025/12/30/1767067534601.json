@@ -1,0 +1,410 @@
+{
+  "runTime": 1767067534601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639592,
+        "num": 1639592,
+        "word": "蔡磊渐冻症病情接近终末期",
+        "onboard_time": 1767065781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716289,
+        "num": 716289,
+        "word": "北京一老板招25人其中24个骗子",
+        "onboard_time": 1767063259,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47152,
+        "num": 482592,
+        "word": "警方侦破一起侵害烈士名誉荣誉案件",
+        "onboard_time": 1767054682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 776129,
+        "num": 477418,
+        "word": "林俊杰金莎 那年夏天刮的什么风",
+        "onboard_time": 1767066981,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 458797,
+        "num": 458797,
+        "word": "内娱终于有全女掀桌的爽剧了",
+        "onboard_time": 1767067223,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282499,
+        "num": 282499,
+        "word": "仙剑奇侠传三动画开播",
+        "onboard_time": 1767062719,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 251910,
+        "num": 251910,
+        "word": "潮汕简直是预制菜克星",
+        "onboard_time": 1767063558,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229502,
+        "num": 229502,
+        "word": "霍建华我那失散多年的哥哥",
+        "onboard_time": 1767065361,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229041,
+        "num": 229041,
+        "word": "两个拿锤的手上都印有中国国旗",
+        "onboard_time": 1767057501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194489,
+        "num": 194489,
+        "word": "苹果客服回应电池健康度用到0%",
+        "onboard_time": 1767050958,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1185942,
+        "num": 194168,
+        "word": "男明星 找网红",
+        "onboard_time": 1767058041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463487,
+        "num": 193811,
+        "word": "许我耀眼现实版骗婚案",
+        "onboard_time": 1767059960,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313992,
+        "num": 193308,
+        "word": "张杰演唱会谢娜将同台网友吵翻",
+        "onboard_time": 1767056902,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285815,
+        "num": 192921,
+        "word": "退货羽绒服兜里有机票买家否认白嫖",
+        "onboard_time": 1767060980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268388,
+        "num": 192583,
+        "word": "曹西平去世",
+        "onboard_time": 1767051020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216662,
+        "num": 191876,
+        "word": "温精灵",
+        "onboard_time": 1767052762,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214842,
+        "num": 191646,
+        "word": "女子面馆吃面遭老板骚扰露丝袜免单",
+        "onboard_time": 1767065720,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22101,
+        "num": 191229,
+        "word": "在新年把烟台童话带回家",
+        "onboard_time": 1767064341,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42175,
+        "num": 190528,
+        "word": "贵价网红面包店开始批量倒闭",
+        "onboard_time": 1767067223,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29406,
+        "num": 190506,
+        "word": "把百年人生计划写入健康新一年",
+        "onboard_time": 1767064341,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1878384,
+        "num": 189768,
+        "word": "林俊杰官宣恋情",
+        "onboard_time": 1767016887,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378149,
+        "num": 189445,
+        "word": "止痛药布洛芬千万别乱吃",
+        "onboard_time": 1767061222,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204098,
+        "num": 189031,
+        "word": "迪丽热巴芭莎",
+        "onboard_time": 1767061100,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200289,
+        "num": 188355,
+        "word": "林依轮 长白山能看人谈恋爱",
+        "onboard_time": 1767063621,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188327,
+        "num": 188327,
+        "word": "徐冬冬尹子维换上了56个民族服饰",
+        "onboard_time": 1767067402,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178417,
+        "num": 178417,
+        "word": "对台岛海域实施远程火力实弹射击",
+        "onboard_time": 1767059121,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145714,
+        "num": 177164,
+        "word": "1704公里超长续航SUV小鹏G7来了",
+        "onboard_time": 1767064279,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177107,
+        "num": 177107,
+        "word": "44岁被单位辞退拿了15万离职赔偿",
+        "onboard_time": 1767051559,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159524,
+        "num": 159524,
+        "word": "福建海警舰艇与台海巡船对峙航行",
+        "onboard_time": 1767064341,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 158841,
+        "word": "一到冬天家里都是微脏的衣服",
+        "onboard_time": 1767065660,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152135,
+        "num": 152135,
+        "word": "职业演员回应扮演他人父母骗婚",
+        "onboard_time": 1767066680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151321,
+        "num": 151321,
+        "word": "黄金白银或现更严重下跌",
+        "onboard_time": 1767053782,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 148185,
+        "word": "陈伟霆 衣服越浅唱跳越狠",
+        "onboard_time": 1767063979,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136176,
+        "num": 136176,
+        "word": "年终奖的终极打开方式",
+        "onboard_time": 1767066561,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134050,
+        "num": 134050,
+        "word": "金饰价格跌破1400元关口",
+        "onboard_time": 1767062120,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132685,
+        "num": 132685,
+        "word": "渐冻症患者哭着感谢蔡磊",
+        "onboard_time": 1767063799,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118236,
+        "num": 132630,
+        "word": "管乐临时走红毯穿棉拖鞋就来了",
+        "onboard_time": 1767066321,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22353,
+        "num": 132495,
+        "word": "林俊杰恋爱三部曲太甜了",
+        "onboard_time": 1767067223,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96331,
+        "num": 132216,
+        "word": "东部战区位台岛南北两端演练",
+        "onboard_time": 1767054682,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 132046,
+        "word": "爷爷不泡茶新年伴你好昀连连",
+        "onboard_time": 1767067281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132035,
+        "num": 132035,
+        "word": "迪丽热巴开年刊销量",
+        "onboard_time": 1767063860,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 131921,
+        "word": "张家界一45岁家长站护学岗时死亡",
+        "onboard_time": 1767067341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129394,
+        "num": 129394,
+        "word": "和朋友见面相当于一场心理治疗",
+        "onboard_time": 1767066561,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "张杰演唱会回应争议",
+        "onboard_time": 1767016521,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120062,
+        "num": 120062,
+        "word": "林依轮 什么瓜要舅舅亲自吃",
+        "onboard_time": 1767066920,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118755,
+        "num": 118755,
+        "word": "月薪1万也能攒钱偷偷逆袭",
+        "onboard_time": 1767064641,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112978,
+        "num": 112978,
+        "word": "玉茗茶骨 全女野心家",
+        "onboard_time": 1767067101,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107054,
+        "num": 107054,
+        "word": "剥茧",
+        "onboard_time": 1767066740,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104756,
+        "num": 104756,
+        "word": "台湾多条航线大面积取消",
+        "onboard_time": 1767067402,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 99760,
+        "word": "女大学生回应一周6次健身致绝经",
+        "onboard_time": 1767061520,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2025考察足迹#"
+    }
+  }
+}
