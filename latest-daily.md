@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/31 00:37:10 ~ 2025/12/31 02:55:23
+本榜单时间：2025/12/31 00:37:10 ~ 2025/12/31 03:23:24
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%92%8C%E7%BE%8E%E4%B9%8B%E5%A4%9C%23" target="weibo">
-央视和美之夜（热度：25358）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B7%AF%E9%80%8F%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+湖南卫视跨年晚会路透节目单（热度：26358）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B7%AF%E9%80%8F%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
-湖南卫视跨年晚会路透节目单（热度：22953）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%92%8C%E7%BE%8E%E4%B9%8B%E5%A4%9C%23" target="weibo">
+央视和美之夜（热度：25358）
 </a>
 </li>
 
@@ -375,14 +375,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94Billboard%E6%96%B0%E5%B0%8118%E5%AE%AB%E6%A0%BC%23" target="weibo">
-王嘉尔Billboard新封18宫格（热度：17773）
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E7%93%A6%23" target="weibo">
+瓦瓦（热度：18839）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E7%93%A6%23" target="weibo">
-瓦瓦（热度：17122）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94Billboard%E6%96%B0%E5%B0%8118%E5%AE%AB%E6%A0%BC%23" target="weibo">
+王嘉尔Billboard新封18宫格（热度：17773）
 </a>
 </li>
 
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E5%9B%BD%E8%A1%A5%E7%9B%AE%E5%BD%95%23" target="weibo">
 2026年国补目录（热度：12452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97Pleasure%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+蔡依林Pleasure演唱会（热度：11119）
 </a>
 </li>
 

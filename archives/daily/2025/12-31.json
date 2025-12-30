@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767120923430,
+  "endTime": 1767122604156,
   "band_list": [
     {
       "raw_hot": 464407,
@@ -443,19 +443,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26358,
+      "num": 40966,
+      "word": "湖南卫视跨年晚会路透节目单",
+      "onboard_time": 1767118816,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25358,
       "num": 58693,
       "word": "央视和美之夜",
       "onboard_time": 1767116417,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22953,
-      "num": 40966,
-      "word": "湖南卫视跨年晚会路透节目单",
-      "onboard_time": 1767118816,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -483,20 +483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18839,
+      "num": 40759,
+      "word": "瓦瓦",
+      "onboard_time": 1767119056,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17773,
       "num": 100421,
       "word": "王嘉尔Billboard新封18宫格",
       "onboard_time": 1767110479,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17122,
-      "num": 40759,
-      "word": "瓦瓦",
-      "onboard_time": 1767119056,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 17102,
@@ -545,6 +545,14 @@
       "onboard_time": 1767093921,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11119,
+      "num": 26308,
+      "word": "蔡依林Pleasure演唱会",
+      "onboard_time": 1767090802,
+      "rank": 44,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
