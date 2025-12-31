@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 12:04:56
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 12:57:22
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ Hero战胜AG（热度：4168629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%90%83%E5%AD%90%E6%99%97%E5%88%86%E6%89%8B%23" target="weibo">
 吃吃子晗分手（热度：2935158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+湖南卫视跨年节目单（热度：2919800）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BCvs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 蒯曼vs王曼昱（热度：592526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%92%8C%E4%B8%AD%E4%BF%84%E5%8D%B0%E6%97%A5%E7%BB%84%E5%BB%BA%E6%A0%B8%E5%BF%83%E4%BA%94%E5%9B%BD%23" target="weibo">
-美国想和中俄印日组建核心五国（热度：592492）
 </a>
 </li>
 
