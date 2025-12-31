@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767217249248,
+  "endTime": 1767220156115,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -403,6 +403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 63357,
+      "num": 137908,
+      "word": "哪吒",
+      "onboard_time": 1767216553,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60826,
       "num": 2366436,
       "word": "2026新年贺词金句",
@@ -419,12 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28202,
-      "num": 131525,
-      "word": "哪吒",
-      "onboard_time": 1767216553,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 28449,
+      "num": 137857,
+      "word": "冬泳舞台 伟大",
+      "onboard_time": 1767219135,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 22629,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 16295,
-      "num": 131972,
+      "num": 137769,
       "word": "央视跨年晚会",
       "onboard_time": 1767182062,
       "rank": 38,

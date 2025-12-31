@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767217249248,
+  "endTime": 1767220156115,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -12011,6 +12011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63357,
+      "num": 137908,
+      "word": "哪吒",
+      "onboard_time": 1767216553,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63045,
       "num": 646496,
       "word": "2026跨年大范围雨雪登场",
@@ -13995,6 +14003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28449,
+      "num": 137857,
+      "word": "冬泳舞台 伟大",
+      "onboard_time": 1767219135,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28429,
       "num": 59438,
       "word": "周深演唱会",
@@ -14009,14 +14025,6 @@
       "onboard_time": 1767136938,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28202,
-      "num": 131525,
-      "word": "哪吒",
-      "onboard_time": 1767216553,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 27940,
