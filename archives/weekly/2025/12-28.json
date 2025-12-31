@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767185804964,
+  "endTime": 1767186652895,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15275838,
+      "num": 15275838,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13456686,
       "num": 13456686,
       "word": "林俊杰 七七",
       "onboard_time": 1767017366,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12914493,
-      "num": 12914493,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6860369,
@@ -96,6 +96,14 @@
       "word": "黄子韬因脑淤血手术缝了43针",
       "onboard_time": 1766896460,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1759422,
+      "num": 4653652,
+      "word": "微博跨年明星红包",
+      "onboard_time": 1767166941,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1766931743,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1235122,
-      "num": 4653652,
-      "word": "微博跨年明星红包",
-      "onboard_time": 1767166941,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 1176658,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 882229,
+      "num": 4628322,
+      "word": "东方卫视跨年",
+      "onboard_time": 1767180502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 874436,
       "num": 1139909,
       "word": "新音节目单",
@@ -417,14 +425,6 @@
       "onboard_time": 1767101783,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 828755,
-      "num": 4628322,
-      "word": "东方卫视跨年",
-      "onboard_time": 1767180502,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 804081,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 702239,
+      "num": 4389627,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694810,
       "num": 201922,
       "word": "福原爱首谈和江宏杰离婚原因",
@@ -731,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 626618,
+      "num": 4488409,
+      "word": "江苏卫视 全开麦",
+      "onboard_time": 1767184705,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 625191,
       "num": 267698,
       "word": "迅猛龙假哭",
@@ -833,14 +849,6 @@
       "onboard_time": 1766901681,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 588939,
-      "num": 4488409,
-      "word": "江苏卫视 全开麦",
-      "onboard_time": 1767184705,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 585250,
@@ -971,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545422,
-      "num": 4389627,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 542978,
       "num": 420584,
       "word": "妈妈不打麻将早就上清华了",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1766912480,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517215,
+      "num": 4447488,
+      "word": "东方卫视 真唱",
+      "onboard_time": 1767184584,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 516316,
@@ -1195,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482667,
-      "num": 4447488,
-      "word": "东方卫视 真唱",
-      "onboard_time": 1767184584,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 480217,
       "num": 480217,
       "word": "大鹅已找到主人决定继续抽水追凶",
@@ -1217,6 +1217,14 @@
       "onboard_time": 1767057501,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477665,
+      "num": 4175959,
+      "word": "幻梦不破碎",
+      "onboard_time": 1767183864,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 477527,
@@ -2427,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302392,
+      "num": 4239031,
+      "word": "只有B站把我当小孩",
+      "onboard_time": 1767184947,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302345,
       "num": 217106,
       "word": "跑男史上最强女嘉宾",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1766921421,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301920,
-      "num": 4239031,
-      "word": "只有B站把我当小孩",
-      "onboard_time": 1767184947,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 301786,
@@ -2643,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285373,
+      "num": 652866,
+      "word": "浙江卫视 好明显的开麦",
+      "onboard_time": 1767186025,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285047,
       "num": 217644,
       "word": "孟子义 输给李雪琴是我的福气",
@@ -2817,6 +2833,14 @@
       "onboard_time": 1766976200,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271194,
+      "num": 4154541,
+      "word": "维嘉回来了",
+      "onboard_time": 1767185126,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 269284,
@@ -3091,14 +3115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 247826,
-      "num": 4175959,
-      "word": "幻梦不破碎",
-      "onboard_time": 1767183864,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247477,
       "num": 109305,
       "word": "特朗普称得知普京官邸遭袭很生气",
@@ -3148,7 +3164,7 @@
     },
     {
       "raw_hot": 243176,
-      "num": 243176,
+      "num": 711696,
       "word": "育儿补贴下周一全面开放申领",
       "onboard_time": 1767152360,
       "rank": 9,
@@ -3697,14 +3713,6 @@
       "onboard_time": 1767153501,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204717,
-      "num": 4154541,
-      "word": "维嘉回来了",
-      "onboard_time": 1767185126,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 204597,
@@ -5065,6 +5073,14 @@
       "onboard_time": 1766844502,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159411,
+      "num": 4792039,
+      "word": "悟空和哪吒风靡全球",
+      "onboard_time": 1767182124,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159292,
@@ -6811,14 +6827,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 123057,
-      "num": 4792039,
-      "word": "悟空和哪吒风靡全球",
-      "onboard_time": 1767182124,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123054,
       "num": 123054,
       "word": "回顾2025年展望2026年",
@@ -6865,6 +6873,14 @@
       "onboard_time": 1767069382,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 122250,
+      "num": 4980725,
+      "word": "这3个带马成语太给劲了",
+      "onboard_time": 1767184947,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122233,
@@ -7249,6 +7265,14 @@
       "onboard_time": 1767073281,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117007,
+      "num": 3985028,
+      "word": "跨年演唱会",
+      "onboard_time": 1767181641,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 116913,
@@ -7707,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111441,
+      "num": 624356,
+      "word": "跨年演唱会不能没有张家人",
+      "onboard_time": 1767186265,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111383,
       "num": 111383,
       "word": "罚罪",
@@ -8129,6 +8161,14 @@
       "onboard_time": 1767102742,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105938,
+      "num": 4123114,
+      "word": "我国经济总量预计140万亿元",
+      "onboard_time": 1767182124,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105679,
@@ -9531,14 +9571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 91608,
-      "num": 4123114,
-      "word": "我国经济总量预计140万亿元",
-      "onboard_time": 1767182124,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 91591,
       "num": 120345,
       "word": "台军对解放军演习只能瞪眼看",
@@ -10603,14 +10635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82115,
-      "num": 3985028,
-      "word": "跨年演唱会",
-      "onboard_time": 1767181641,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82029,
       "num": 82029,
       "word": "戚薇手臂线条",
@@ -10649,14 +10673,6 @@
       "onboard_time": 1766917401,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81688,
-      "num": 4980725,
-      "word": "这3个带马成语太给劲了",
-      "onboard_time": 1767184947,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81515,
@@ -12419,6 +12435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47718,
+      "num": 633845,
+      "word": "跨晚新疆女孩美得很突出",
+      "onboard_time": 1767186147,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47683,
       "num": 124245,
       "word": "台北将向上海赠送一对黑脚企鹅",
@@ -13219,6 +13243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34873,
+      "num": 4954959,
+      "word": "2026年这么干",
+      "onboard_time": 1767181521,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34758,
       "num": 158404,
       "word": "美国十部法案妄图锁死台海",
@@ -13633,14 +13665,6 @@
       "onboard_time": 1767034995,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27163,
-      "num": 4954959,
-      "word": "2026年这么干",
-      "onboard_time": 1767181521,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27106,

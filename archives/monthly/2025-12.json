@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767185804964,
+  "endTime": 1767186652895,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15275838,
+      "num": 15275838,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14068624,
       "num": 14068624,
       "word": "鞠婧祎收入",
@@ -49,14 +57,6 @@
       "onboard_time": 1767017366,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12914493,
-      "num": 12914493,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12814839,
@@ -977,6 +977,14 @@
       "onboard_time": 1764731061,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1759422,
+      "num": 4653652,
+      "word": "微博跨年明星红包",
+      "onboard_time": 1767166941,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1738127,
@@ -1969,14 +1977,6 @@
       "onboard_time": 1765334360,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1235122,
-      "num": 4653652,
-      "word": "微博跨年明星红包",
-      "onboard_time": 1767166941,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 1230701,
@@ -3963,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 882229,
+      "num": 4628322,
+      "word": "东方卫视跨年",
+      "onboard_time": 1767180502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 878378,
       "num": 392963,
       "word": "河南火灾班主任",
@@ -4473,14 +4481,6 @@
       "onboard_time": 1765721724,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 828755,
-      "num": 4628322,
-      "word": "东方卫视跨年",
-      "onboard_time": 1767180502,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 827979,
@@ -5947,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702239,
+      "num": 4389627,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701594,
       "num": 651084,
       "word": "顾客取消订单商家让骑手当晚餐吃",
@@ -7323,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626618,
+      "num": 4488409,
+      "word": "江苏卫视 全开麦",
+      "onboard_time": 1767184705,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626358,
       "num": 626358,
       "word": "爱奇艺回复双轨播出时间",
@@ -8177,14 +8193,6 @@
       "onboard_time": 1765462943,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 588939,
-      "num": 4488409,
-      "word": "江苏卫视 全开麦",
-      "onboard_time": 1767184705,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 588915,
@@ -9411,14 +9419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 545422,
-      "num": 4389627,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 545158,
       "num": 308439,
       "word": "狙击蝴蝶热度",
@@ -10329,6 +10329,14 @@
       "onboard_time": 1766912480,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517215,
+      "num": 4447488,
+      "word": "东方卫视 真唱",
+      "onboard_time": 1767184584,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 516596,
@@ -11627,14 +11635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482667,
-      "num": 4447488,
-      "word": "东方卫视 真唱",
-      "onboard_time": 1767184584,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482620,
       "num": 288604,
       "word": "独居女子离世遗产归公买墓地需审定",
@@ -11833,6 +11833,14 @@
       "onboard_time": 1766749223,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 477665,
+      "num": 4175959,
+      "word": "幻梦不破碎",
+      "onboard_time": 1767183864,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 477601,
@@ -21347,6 +21355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 302392,
+      "num": 4239031,
+      "word": "只有B站把我当小孩",
+      "onboard_time": 1767184947,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302345,
       "num": 217106,
       "word": "跑男史上最强女嘉宾",
@@ -21417,14 +21433,6 @@
       "onboard_time": 1766921421,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301920,
-      "num": 4239031,
-      "word": "只有B站把我当小孩",
-      "onboard_time": 1767184947,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 301821,
@@ -22681,6 +22689,14 @@
       "onboard_time": 1765884861,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285373,
+      "num": 652866,
+      "word": "浙江卫视 好明显的开麦",
+      "onboard_time": 1767186025,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 285331,
@@ -24017,6 +24033,14 @@
       "onboard_time": 1765947082,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271194,
+      "num": 4154541,
+      "word": "维嘉回来了",
+      "onboard_time": 1767185126,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 271068,
@@ -26067,14 +26091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 247826,
-      "num": 4175959,
-      "word": "幻梦不破碎",
-      "onboard_time": 1767183864,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247800,
       "num": 232470,
       "word": "张本智和一直站在原地不动",
@@ -26540,7 +26556,7 @@
     },
     {
       "raw_hot": 243176,
-      "num": 243176,
+      "num": 711696,
       "word": "育儿补贴下周一全面开放申领",
       "onboard_time": 1767152360,
       "rank": 9,
@@ -31497,14 +31513,6 @@
       "onboard_time": 1765427301,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204717,
-      "num": 4154541,
-      "word": "维嘉回来了",
-      "onboard_time": 1767185126,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 204709,
@@ -43505,6 +43513,14 @@
       "onboard_time": 1766403022,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159411,
+      "num": 4792039,
+      "word": "悟空和哪吒风靡全球",
+      "onboard_time": 1767182124,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159389,
@@ -59291,14 +59307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123057,
-      "num": 4792039,
-      "word": "悟空和哪吒风靡全球",
-      "onboard_time": 1767182124,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123054,
       "num": 119937,
       "word": "保时捷回应俄罗斯数百辆车突然锁死",
@@ -59713,6 +59721,14 @@
       "onboard_time": 1766816779,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122250,
+      "num": 4980725,
+      "word": "这3个带马成语太给劲了",
+      "onboard_time": 1767184947,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122244,
@@ -66315,6 +66331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111441,
+      "num": 624356,
+      "word": "跨年演唱会不能没有张家人",
+      "onboard_time": 1767186265,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111432,
       "num": 239095,
       "word": "王曼昱冠军城市宣传照",
@@ -69633,6 +69657,14 @@
       "onboard_time": 1765536802,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105938,
+      "num": 4123114,
+      "word": "我国经济总量预计140万亿元",
+      "onboard_time": 1767182124,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105921,
@@ -78979,14 +79011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91608,
-      "num": 4123114,
-      "word": "我国经济总量预计140万亿元",
-      "onboard_time": 1767182124,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 91605,
       "num": 109338,
       "word": "海男爆料张凯毅",
@@ -84521,14 +84545,6 @@
       "onboard_time": 1766917401,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81688,
-      "num": 4980725,
-      "word": "这3个带马成语太给劲了",
-      "onboard_time": 1767184947,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81672,
@@ -95779,6 +95795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47718,
+      "num": 633845,
+      "word": "跨晚新疆女孩美得很突出",
+      "onboard_time": 1767186147,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47683,
       "num": 124245,
       "word": "台北将向上海赠送一对黑脚企鹅",
@@ -100787,6 +100811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34873,
+      "num": 4954959,
+      "word": "2026年这么干",
+      "onboard_time": 1767181521,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34866,
       "num": 134149,
       "word": "清华大学举行杨振宁追思会",
@@ -104273,14 +104305,6 @@
       "onboard_time": 1767034995,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27163,
-      "num": 4954959,
-      "word": "2026年这么干",
-      "onboard_time": 1767181521,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27155,

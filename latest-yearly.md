@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/12/31 20:56:44
+本榜单时间：2025/01/01 00:26:38 ~ 2025/12/31 21:10:52
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23" target="weibo">
+新年贺词（热度：15275838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E8%8D%94%E8%8E%8E%2022%E5%B9%B4%E5%9B%A0%E8%B5%B5%E6%99%B4%E8%A2%AB%E6%8B%8D%E5%92%8C%E8%AE%B8%E5%87%AF%E5%88%86%E6%89%8B%23" target="weibo">
 许荔莎 22年因赵晴被拍和许凯分手（热度：15168489）
 </a>
@@ -623,12 +629,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
 文艺晚会（热度：12954886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23" target="weibo">
-新年贺词（热度：12914493）
 </a>
 </li>
 
