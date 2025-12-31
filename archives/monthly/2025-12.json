@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767146898065,
+  "endTime": 1767148302801,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1764745760,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1373367,
+      "num": 1373367,
+      "word": "江苏卫视跨年节目单",
+      "onboard_time": 1767145220,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1366363,
@@ -12275,14 +12283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460767,
-      "num": 780349,
-      "word": "江苏卫视跨年节目单",
-      "onboard_time": 1767145220,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460413,
       "num": 361186,
       "word": "高市早苗想让美国好歹拉日本一把",
@@ -15764,7 +15764,7 @@
     },
     {
       "raw_hot": 391267,
-      "num": 204033,
+      "num": 227445,
       "word": "广州小孩哥坐地铁上学睡过23个站",
       "onboard_time": 1767141620,
       "rank": 7,
@@ -20252,7 +20252,7 @@
     },
     {
       "raw_hot": 314220,
-      "num": 202118,
+      "num": 206531,
       "word": "38岁东莞首富张寓帅独掌东阳光",
       "onboard_time": 1767142042,
       "rank": 8,
@@ -24665,6 +24665,14 @@
       "onboard_time": 1765017201,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258074,
+      "num": 258074,
+      "word": "浙江卫视跨年晚会节目单",
+      "onboard_time": 1767146960,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 258047,
@@ -31499,6 +31507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202706,
+      "num": 202706,
+      "word": "看了6集猜对0个凶手",
+      "onboard_time": 1767147379,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202689,
       "num": 596680,
       "word": "一诺微博直播",
@@ -32609,6 +32625,14 @@
       "onboard_time": 1766327485,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197850,
+      "num": 156564,
+      "word": "庄达菲王安宇合作新片",
+      "onboard_time": 1767147679,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 197783,
@@ -34211,6 +34235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191328,
+      "num": 231243,
+      "word": "华杉祝雷军早日康复",
+      "onboard_time": 1767147440,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191324,
       "num": 164216,
       "word": "深圳大学2比1山东鲁能",
@@ -34225,6 +34257,14 @@
       "onboard_time": 1765807882,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 156346,
+      "word": "东方卫视跨年晚会",
+      "onboard_time": 1767147499,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 191215,
@@ -34705,6 +34745,14 @@
       "onboard_time": 1766200101,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189620,
+      "num": 155457,
+      "word": "骄阳似我跨年邀请函",
+      "onboard_time": 1767147739,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 189586,
@@ -35641,6 +35689,14 @@
       "onboard_time": 1765362501,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186212,
+      "num": 158831,
+      "word": "家长带着幼儿在马路上值护学岗",
+      "onboard_time": 1767145878,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186198,
@@ -37929,6 +37985,14 @@
       "onboard_time": 1765003762,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177415,
+      "num": 135935,
+      "word": "男子感冒去小诊所输液后确诊尿毒症",
+      "onboard_time": 1767147499,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177412,
@@ -47323,14 +47387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146045,
-      "num": 158831,
-      "word": "家长带着幼儿在马路上值护学岗",
-      "onboard_time": 1767145878,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "黄慧颐回应遭保剑锋妻子辱骂",
@@ -49931,6 +49987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "东部战区短视频夺权杀招",
+      "onboard_time": 1767147799,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139542,
       "num": 139542,
       "word": "周奇 提到肖战没有不爱的义务",
@@ -52075,6 +52139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134969,
+      "num": 209005,
+      "word": "2026汽车以旧换新补贴细则",
+      "onboard_time": 1767145580,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134962,
       "num": 134962,
       "word": "95后患癌女孩丈夫称这辈子不再结婚",
@@ -52729,14 +52801,6 @@
       "onboard_time": 1766038700,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133585,
-      "num": 209005,
-      "word": "2026汽车以旧换新补贴细则",
-      "onboard_time": 1767145580,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 133550,
@@ -56315,6 +56379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126687,
+      "num": 159076,
+      "word": "美批准韩企向中国出口芯片制造设备",
+      "onboard_time": 1767145339,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126666,
       "num": 126666,
       "word": "开歼20上班是什么体验",
@@ -57681,6 +57753,14 @@
       "onboard_time": 1765812741,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124162,
+      "num": 124162,
+      "word": "王俊凯唱跳彩排",
+      "onboard_time": 1767146960,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 124130,
@@ -59705,6 +59785,14 @@
       "onboard_time": 1764766701,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120464,
+      "num": 120464,
+      "word": "宋威龙张婧仪第57次取消发送舞台",
+      "onboard_time": 1767148279,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 120409,
@@ -63467,14 +63555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114147,
-      "num": 159076,
-      "word": "美批准韩企向中国出口芯片制造设备",
-      "onboard_time": 1767145339,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114140,
       "num": 114140,
       "word": "父亲看到女儿生前被打照片含泪痛斥",
@@ -64833,6 +64913,14 @@
       "onboard_time": 1766201361,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112128,
+      "num": 112128,
+      "word": "电影错过了遗憾吗定档",
+      "onboard_time": 1767147981,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 112101,
@@ -73875,6 +73963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98214,
+      "num": 98214,
+      "word": "元旦天气",
+      "onboard_time": 1767148038,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98208,
       "num": 98208,
       "word": "白鹿抽象拿捏",
@@ -78867,6 +78963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89461,
+      "num": 89461,
+      "word": "2025国际冰川保护年",
+      "onboard_time": 1767148100,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89454,
       "num": 124593,
       "word": "辽宁男篮击败卫冕冠军广厦",
@@ -79465,6 +79569,14 @@
       "onboard_time": 1765429402,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88476,
+      "num": 159010,
+      "word": "小城大事",
+      "onboard_time": 1766704937,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 88453,
@@ -80347,6 +80459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86524,
+      "num": 86524,
+      "word": "吉克隽逸 我哪有衢州鸭头香",
+      "onboard_time": 1767146900,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86460,
       "num": 86460,
       "word": "在外面摸了猫一定要洗手",
@@ -80505,6 +80625,14 @@
       "onboard_time": 1767090683,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86191,
+      "num": 158738,
+      "word": "iOS27前瞻来了",
+      "onboard_time": 1767144260,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 86185,
@@ -80825,14 +80953,6 @@
       "onboard_time": 1766213181,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85429,
-      "num": 159010,
-      "word": "小城大事",
-      "onboard_time": 1766704937,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 85428,
@@ -82891,6 +83011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81515,
+      "num": 81515,
+      "word": "樊振东人形绅士礼仪教科书",
+      "onboard_time": 1767147199,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81507,
       "num": 125506,
       "word": "刘浩存 圣诞树成精",
@@ -84035,6 +84163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77968,
+      "num": 77968,
+      "word": "2025我的身体说辛苦了",
+      "onboard_time": 1767148279,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77960,
       "num": 198412,
       "word": "Bin和ON对Elk跳舞",
@@ -84427,6 +84563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77023,
+      "num": 158487,
+      "word": "解放军演习高清大图",
+      "onboard_time": 1767146779,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76980,
       "num": 107767,
       "word": "石宇奇年度最佳男单运动员",
@@ -84513,14 +84657,6 @@
       "onboard_time": 1765715004,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76744,
-      "num": 158738,
-      "word": "iOS27前瞻来了",
-      "onboard_time": 1767144260,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 76725,
@@ -85353,6 +85489,14 @@
       "onboard_time": 1764896540,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 74437,
+      "num": 74437,
+      "word": "金饰价涨回1366元",
+      "onboard_time": 1767147080,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 74413,
@@ -86611,6 +86755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70510,
+      "num": 158696,
+      "word": "2025最后一次",
+      "onboard_time": 1767139339,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70472,
       "num": 73056,
       "word": "身上肉软其实就是体脂率高",
@@ -87323,6 +87475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68350,
+      "num": 158230,
+      "word": "黄金白银又涨了",
+      "onboard_time": 1767144619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68339,
       "num": 133552,
       "word": "考古的风吹到了周柯宇",
@@ -87673,14 +87833,6 @@
       "onboard_time": 1765982062,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67085,
-      "num": 158696,
-      "word": "2025最后一次",
-      "onboard_time": 1767139339,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 66945,
@@ -88041,6 +88193,14 @@
       "onboard_time": 1766553204,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65781,
+      "num": 74347,
+      "word": "2025最后一天 抱抱老己",
+      "onboard_time": 1767147918,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 65774,
@@ -89124,7 +89284,7 @@
     },
     {
       "raw_hot": 62017,
-      "num": 62017,
+      "num": 74288,
       "word": "NBA常规赛",
       "onboard_time": 1766627539,
       "rank": 48,
@@ -92363,14 +92523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51838,
-      "num": 158230,
-      "word": "黄金白银又涨了",
-      "onboard_time": 1767144619,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 51824,
       "num": 54049,
       "word": "8种癌症遗传风险高",
@@ -93881,6 +94033,14 @@
       "onboard_time": 1765471278,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 158553,
+      "word": "央视揭骗子送钱伎俩",
+      "onboard_time": 1767146779,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47295,
@@ -95459,6 +95619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43017,
+      "num": 86060,
+      "word": "俄末日电台突然播放天鹅湖",
+      "onboard_time": 1767148219,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43007,
       "num": 106411,
       "word": "劲酒回应被称为月经神仙水",
@@ -96185,14 +96353,6 @@
       "onboard_time": 1764678861,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41004,
-      "num": 158487,
-      "word": "解放军演习高清大图",
-      "onboard_time": 1767146779,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40981,
@@ -102132,7 +102292,7 @@
     },
     {
       "raw_hot": 27106,
-      "num": 619874,
+      "num": 674963,
       "word": "2026年农业强国建设施工图",
       "onboard_time": 1767102322,
       "rank": 43,
@@ -105017,14 +105177,6 @@
       "onboard_time": 1765219096,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19838,
-      "num": 158553,
-      "word": "央视揭骗子送钱伎俩",
-      "onboard_time": 1767146779,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19823,

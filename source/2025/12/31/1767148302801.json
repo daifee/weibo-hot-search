@@ -1,0 +1,410 @@
+{
+  "runTime": 1767148302801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373367,
+        "num": 1373367,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407569,
+        "num": 909268,
+        "word": "中国海警要求台方用中文交流",
+        "onboard_time": 1767141981,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18575,
+        "num": 674963,
+        "word": "2026年农业强国建设施工图",
+        "onboard_time": 1767102322,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258074,
+        "num": 258074,
+        "word": "浙江卫视跨年晚会节目单",
+        "onboard_time": 1767146960,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191328,
+        "num": 231243,
+        "word": "华杉祝雷军早日康复",
+        "onboard_time": 1767147440,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274711,
+        "num": 227445,
+        "word": "广州小孩哥坐地铁上学睡过23个站",
+        "onboard_time": 1767141620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206531,
+        "num": 206531,
+        "word": "38岁东莞首富张寓帅独掌东阳光",
+        "onboard_time": 1767142042,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202706,
+        "num": 202706,
+        "word": "看了6集猜对0个凶手",
+        "onboard_time": 1767147379,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181608,
+        "num": 181608,
+        "word": "跨年夜的正确姿势",
+        "onboard_time": 1767138920,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158004,
+        "num": 158004,
+        "word": "印度宣布经济已超日本",
+        "onboard_time": 1767108861,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271229,
+        "num": 157553,
+        "word": "明年起年龄将不再是免罪金牌",
+        "onboard_time": 1767136578,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197850,
+        "num": 156564,
+        "word": "庄达菲王安宇合作新片",
+        "onboard_time": 1767147679,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191251,
+        "num": 156346,
+        "word": "东方卫视跨年晚会",
+        "onboard_time": 1767147499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189620,
+        "num": 155457,
+        "word": "骄阳似我跨年邀请函",
+        "onboard_time": 1767147739,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186212,
+        "num": 154866,
+        "word": "家长带着幼儿在马路上值护学岗",
+        "onboard_time": 1767145878,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77023,
+        "num": 153925,
+        "word": "解放军演习高清大图",
+        "onboard_time": 1767146779,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174508,
+        "num": 153227,
+        "word": "恋与深空",
+        "onboard_time": 1767143419,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152958,
+        "num": 152958,
+        "word": "解放军演习在台湾岛内引发震动",
+        "onboard_time": 1767106881,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139545,
+        "num": 139545,
+        "word": "东部战区短视频夺权杀招",
+        "onboard_time": 1767147799,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136813,
+        "num": 136813,
+        "word": "小狗 有洁癖但素质不太高",
+        "onboard_time": 1767139100,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369387,
+        "num": 136505,
+        "word": "藏海传",
+        "onboard_time": 1767138379,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185737,
+        "num": 136249,
+        "word": "早期骨癌发出的危险信号",
+        "onboard_time": 1767113297,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177415,
+        "num": 135935,
+        "word": "男子感冒去小诊所输液后确诊尿毒症",
+        "onboard_time": 1767147499,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134969,
+        "num": 134969,
+        "word": "2026汽车以旧换新补贴细则",
+        "onboard_time": 1767145580,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134266,
+        "num": 134266,
+        "word": "恋与深空快开门",
+        "onboard_time": 1767143360,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "美批准韩企向中国出口芯片制造设备",
+        "onboard_time": 1767145339,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124162,
+        "num": 124162,
+        "word": "王俊凯唱跳彩排",
+        "onboard_time": 1767146960,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47330,
+        "num": 121298,
+        "word": "央视揭骗子送钱伎俩",
+        "onboard_time": 1767146779,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120464,
+        "num": 120464,
+        "word": "宋威龙张婧仪第57次取消发送舞台",
+        "onboard_time": 1767148279,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112128,
+        "num": 112128,
+        "word": "电影错过了遗憾吗定档",
+        "onboard_time": 1767147981,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100617,
+        "num": 100617,
+        "word": "跨年夜朋友圈这样发",
+        "onboard_time": 1767143301,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98214,
+        "num": 98214,
+        "word": "元旦天气",
+        "onboard_time": 1767148038,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90572,
+        "num": 90572,
+        "word": "雷军新年礼物抽奖送手机",
+        "onboard_time": 1767146779,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89461,
+        "num": 89461,
+        "word": "2025国际冰川保护年",
+        "onboard_time": 1767148100,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88476,
+        "num": 88476,
+        "word": "小城大事",
+        "onboard_time": 1767145700,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86524,
+        "num": 86524,
+        "word": "吉克隽逸 我哪有衢州鸭头香",
+        "onboard_time": 1767146900,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86191,
+        "num": 86191,
+        "word": "iOS27前瞻来了",
+        "onboard_time": 1767144260,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43017,
+        "num": 86060,
+        "word": "俄末日电台突然播放天鹅湖",
+        "onboard_time": 1767148219,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 86020,
+        "word": "人一幸福就不会频繁更新社交软件",
+        "onboard_time": 1767136997,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2505,
+        "num": 84560,
+        "word": "把百年人生计划写入健康新一年",
+        "onboard_time": 1767064341,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83905,
+        "num": 83905,
+        "word": "李昀锐参加央视跨年",
+        "onboard_time": 1767144021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81515,
+        "num": 81515,
+        "word": "樊振东人形绅士礼仪教科书",
+        "onboard_time": 1767147199,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77968,
+        "num": 77968,
+        "word": "2025我的身体说辛苦了",
+        "onboard_time": 1767148279,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74993,
+        "num": 74993,
+        "word": "Henry一口气请来38个国际伴舞",
+        "onboard_time": 1767143480,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74437,
+        "num": 74437,
+        "word": "金饰价涨回1366元",
+        "onboard_time": 1767147080,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70510,
+        "num": 74399,
+        "word": "2025最后一次",
+        "onboard_time": 1767139339,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68350,
+        "num": 74360,
+        "word": "黄金白银又涨了",
+        "onboard_time": 1767144619,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65781,
+        "num": 74347,
+        "word": "2025最后一天 抱抱老己",
+        "onboard_time": 1767147918,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60303,
+        "num": 74288,
+        "word": "NBA常规赛",
+        "onboard_time": 1767147799,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57597,
+        "num": 74263,
+        "word": "山东把二氧化碳卖出39亿天价",
+        "onboard_time": 1767139760,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对农民的特殊情感#"
+    }
+  }
+}

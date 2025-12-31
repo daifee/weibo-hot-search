@@ -1,7 +1,15 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767146898065,
+  "endTime": 1767148302801,
   "band_list": [
+    {
+      "raw_hot": 1373367,
+      "num": 1373367,
+      "word": "江苏卫视跨年节目单",
+      "onboard_time": 1767145220,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1017741,
       "num": 197581,
@@ -25,14 +33,6 @@
       "onboard_time": 1767141981,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 460767,
-      "num": 780349,
-      "word": "江苏卫视跨年节目单",
-      "onboard_time": 1767145220,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 445241,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 391267,
-      "num": 204033,
+      "num": 227445,
       "word": "广州小孩哥坐地铁上学睡过23个站",
       "onboard_time": 1767141620,
       "rank": 7,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 314220,
-      "num": 202118,
+      "num": 206531,
       "word": "38岁东莞首富张寓帅独掌东阳光",
       "onboard_time": 1767142042,
       "rank": 8,
@@ -97,6 +97,14 @@
       "onboard_time": 1767082580,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258074,
+      "num": 258074,
+      "word": "浙江卫视跨年晚会节目单",
+      "onboard_time": 1767146960,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 256699,
@@ -131,6 +139,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 202706,
+      "num": 202706,
+      "word": "看了6集猜对0个凶手",
+      "onboard_time": 1767147379,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197850,
+      "num": 156564,
+      "word": "庄达菲王安宇合作新片",
+      "onboard_time": 1767147679,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194131,
       "num": 194131,
       "word": "恋与深空快开门",
@@ -139,11 +163,51 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191328,
+      "num": 231243,
+      "word": "华杉祝雷军早日康复",
+      "onboard_time": 1767147440,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 156346,
+      "word": "东方卫视跨年晚会",
+      "onboard_time": 1767147499,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189620,
+      "num": 155457,
+      "word": "骄阳似我跨年邀请函",
+      "onboard_time": 1767147739,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186212,
+      "num": 158831,
+      "word": "家长带着幼儿在马路上值护学岗",
+      "onboard_time": 1767145878,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184468,
       "num": 184468,
       "word": "增值税",
       "onboard_time": 1767097822,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177415,
+      "num": 135935,
+      "word": "男子感冒去小诊所输液后确诊尿毒症",
+      "onboard_time": 1767147499,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -203,15 +267,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146045,
-      "num": 158831,
-      "word": "家长带着幼儿在马路上值护学岗",
-      "onboard_time": 1767145878,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "东部战区短视频夺权杀招",
+      "onboard_time": 1767147799,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 133585,
+      "raw_hot": 134969,
       "num": 209005,
       "word": "2026汽车以旧换新补贴细则",
       "onboard_time": 1767145580,
@@ -227,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126687,
+      "num": 159076,
+      "word": "美批准韩企向中国出口芯片制造设备",
+      "onboard_time": 1767145339,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124429,
       "num": 159108,
       "word": "陕西河南安徽湖北重庆大雪",
@@ -235,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124162,
+      "num": 124162,
+      "word": "王俊凯唱跳彩排",
+      "onboard_time": 1767146960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120702,
       "num": 112209,
       "word": "微博之夜四大才子预测",
       "onboard_time": 1767103882,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120464,
+      "num": 120464,
+      "word": "宋威龙张婧仪第57次取消发送舞台",
+      "onboard_time": 1767148279,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 119852,
@@ -275,20 +363,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114147,
-      "num": 159076,
-      "word": "美批准韩企向中国出口芯片制造设备",
-      "onboard_time": 1767145339,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113060,
       "num": 113060,
       "word": "骄阳似我微博评分现偶史上第一",
       "onboard_time": 1767098601,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112128,
+      "num": 112128,
+      "word": "电影错过了遗憾吗定档",
+      "onboard_time": 1767147981,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 107785,
@@ -323,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98214,
+      "num": 98214,
+      "word": "元旦天气",
+      "onboard_time": 1767148038,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97118,
       "num": 96955,
       "word": "金莎被求婚后和孙丞潇同游西班牙",
@@ -355,6 +451,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89461,
+      "num": 89461,
+      "word": "2025国际冰川保护年",
+      "onboard_time": 1767148100,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88476,
+      "num": 159010,
+      "word": "小城大事",
+      "onboard_time": 1767145700,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87447,
       "num": 158260,
       "word": "金银大跌后又大涨",
@@ -371,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85429,
-      "num": 159010,
-      "word": "小城大事",
-      "onboard_time": 1767145700,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 86524,
+      "num": 86524,
+      "word": "吉克隽逸 我哪有衢州鸭头香",
+      "onboard_time": 1767146900,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86191,
+      "num": 158738,
+      "word": "iOS27前瞻来了",
+      "onboard_time": 1767144260,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 85361,
@@ -403,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81515,
+      "num": 81515,
+      "word": "樊振东人形绅士礼仪教科书",
+      "onboard_time": 1767147199,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81229,
       "num": 81229,
       "word": "靳梦佳 好险声音差点被盖住了",
@@ -419,12 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76744,
-      "num": 158738,
-      "word": "iOS27前瞻来了",
-      "onboard_time": 1767144260,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 77968,
+      "num": 77968,
+      "word": "2025我的身体说辛苦了",
+      "onboard_time": 1767148279,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77023,
+      "num": 158487,
+      "word": "解放军演习高清大图",
+      "onboard_time": 1767146779,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76671,
@@ -451,6 +587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74437,
+      "num": 74437,
+      "word": "金饰价涨回1366元",
+      "onboard_time": 1767147080,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73491,
       "num": 158703,
       "word": "印度网民指责日本游客不尊重当地文化",
@@ -475,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70510,
+      "num": 158696,
+      "word": "2025最后一次",
+      "onboard_time": 1767139339,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69082,
       "num": 80135,
       "word": "袁一琦保密协议到期了",
@@ -483,11 +635,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67085,
-      "num": 158696,
-      "word": "2025最后一次",
-      "onboard_time": 1767139339,
-      "rank": 28,
+      "raw_hot": 68350,
+      "num": 158230,
+      "word": "黄金白银又涨了",
+      "onboard_time": 1767144619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 65781,
+      "num": 74347,
+      "word": "2025最后一天 抱抱老己",
+      "onboard_time": 1767147918,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -563,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60303,
+      "num": 74288,
+      "word": "NBA常规赛",
+      "onboard_time": 1767147799,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59825,
       "num": 70931,
       "word": "迪丽热巴2026新年愿望",
@@ -627,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51838,
-      "num": 158230,
-      "word": "黄金白银又涨了",
-      "onboard_time": 1767144619,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 50471,
       "num": 158192,
       "word": "一盘辣椒炒肉把民警吃哭了",
@@ -657,6 +817,14 @@
       "onboard_time": 1767145280,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 158553,
+      "word": "央视揭骗子送钱伎俩",
+      "onboard_time": 1767146779,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47290,
@@ -731,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43017,
+      "num": 86060,
+      "word": "俄末日电台突然播放天鹅湖",
+      "onboard_time": 1767148219,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42059,
       "num": 80078,
       "word": "小米明年或推4款新车",
@@ -745,14 +921,6 @@
       "onboard_time": 1767136218,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41004,
-      "num": 158487,
-      "word": "解放军演习高清大图",
-      "onboard_time": 1767146779,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40147,
@@ -884,7 +1052,7 @@
     },
     {
       "raw_hot": 27106,
-      "num": 619874,
+      "num": 674963,
       "word": "2026年农业强国建设施工图",
       "onboard_time": 1767102322,
       "rank": 2,
@@ -936,14 +1104,6 @@
       "word": "明年继续领国补",
       "onboard_time": 1767102442,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19838,
-      "num": 158553,
-      "word": "央视揭骗子送钱伎俩",
-      "onboard_time": 1767146779,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
