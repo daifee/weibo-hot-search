@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767181194987,
+  "endTime": 1767185804964,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -819,6 +819,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 12914493,
+      "num": 12914493,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12901932,
       "num": 12901932,
       "word": "白玉兰获奖名单",
@@ -881,14 +889,6 @@
       "onboard_time": 1753942884,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12710328,
-      "num": 12710328,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12629127,
