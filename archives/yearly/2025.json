@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767177066676,
+  "endTime": 1767178038325,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -1547,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9614925,
+      "num": 9614925,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9612507,
       "num": 9612507,
       "word": "宋佳白玉兰视后",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1765246521,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8821448,
-      "num": 8821448,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 8803300,

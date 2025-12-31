@@ -1,0 +1,410 @@
+{
+  "runTime": 1767178038325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9614925,
+        "num": 9614925,
+        "word": "跨年晚会节目单",
+        "onboard_time": 1767170841,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361547,
+        "num": 1878882,
+        "word": "清华大学今晚给庞众望颁奖",
+        "onboard_time": 1767171560,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23279,
+        "num": 1398357,
+        "word": "2025那些直抵人心的瞬间",
+        "onboard_time": 1767170540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939844,
+        "num": 939844,
+        "word": "微博跨年明星红包",
+        "onboard_time": 1767166941,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14176,
+        "num": 825568,
+        "word": "机器人背后一群敢闯的年轻人",
+        "onboard_time": 1767177980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810242,
+        "num": 810242,
+        "word": "抢红包",
+        "onboard_time": 1767171920,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215690,
+        "num": 797356,
+        "word": "全球首个个人机器人",
+        "onboard_time": 1767174080,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190230,
+        "num": 745414,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175068,
+        "num": 706216,
+        "word": "跨年文案",
+        "onboard_time": 1767151581,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146678,
+        "num": 663293,
+        "word": "赖清德被曝用装甲车巡逻护己周全",
+        "onboard_time": 1767169340,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43052,
+        "num": 615022,
+        "word": "再见2025",
+        "onboard_time": 1767174979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1375402,
+        "num": 572070,
+        "word": "KSG解约子阳",
+        "onboard_time": 1767176181,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 535723,
+        "num": 535723,
+        "word": "红包分组",
+        "onboard_time": 1767174140,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348363,
+        "num": 534810,
+        "word": "阿姨怎么一戴假发面相都变了",
+        "onboard_time": 1767172761,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328672,
+        "num": 533773,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 533321,
+        "word": "台独斩杀线",
+        "onboard_time": 1767161599,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266380,
+        "num": 532318,
+        "word": "央视跨晚阵容",
+        "onboard_time": 1767174200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227196,
+        "num": 531195,
+        "word": "骄阳似我红包",
+        "onboard_time": 1767176600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172401,
+        "num": 530464,
+        "word": "KSG追究子阳违约责任",
+        "onboard_time": 1767176661,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167995,
+        "num": 528710,
+        "word": "东方卫视跨年节目单",
+        "onboard_time": 1767174802,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177073,
+        "num": 527724,
+        "word": "长期手机充电至100%会损伤电池",
+        "onboard_time": 1767176961,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173103,
+        "num": 526583,
+        "word": "种地吧",
+        "onboard_time": 1767171081,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152161,
+        "num": 526267,
+        "word": "2026央视跨年晚会阵容官宣",
+        "onboard_time": 1767174080,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145612,
+        "num": 524439,
+        "word": "广州睡过23站小学生获发迟到券",
+        "onboard_time": 1767163339,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138917,
+        "num": 524076,
+        "word": "红白歌会",
+        "onboard_time": 1767177262,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136593,
+        "num": 522215,
+        "word": "Gr对战WBG",
+        "onboard_time": 1767170361,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47181,
+        "num": 521291,
+        "word": "半个娱乐圈都开始卷健康了",
+        "onboard_time": 1767175761,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125103,
+        "num": 520986,
+        "word": "跨年只发一个文案",
+        "onboard_time": 1767169581,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119465,
+        "num": 519740,
+        "word": "东部战区圆满完成正义使命演习",
+        "onboard_time": 1767177920,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109304,
+        "num": 518492,
+        "word": "2026壁纸",
+        "onboard_time": 1767175881,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105294,
+        "num": 517607,
+        "word": "A股2025年十大牛股",
+        "onboard_time": 1767175039,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104867,
+        "num": 516692,
+        "word": "跨年还是一个人",
+        "onboard_time": 1767171801,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102173,
+        "num": 515689,
+        "word": "寻秦记",
+        "onboard_time": 1767169459,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69015,
+        "num": 514491,
+        "word": "女子把中国烧烤摊摆到英国街头",
+        "onboard_time": 1767167239,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93631,
+        "num": 512765,
+        "word": "生理性喜欢是不是更难分手",
+        "onboard_time": 1767165259,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37920,
+        "num": 511744,
+        "word": "郑州明天将迎来大雪",
+        "onboard_time": 1767169459,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127146,
+        "num": 511114,
+        "word": "元旦快乐",
+        "onboard_time": 1767177381,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84265,
+        "num": 510289,
+        "word": "这和自己亲生的有什么区别",
+        "onboard_time": 1767176360,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83238,
+        "num": 509132,
+        "word": "iPhone18Pro或实现FaceID小型化",
+        "onboard_time": 1767173420,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83166,
+        "num": 507422,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79579,
+        "num": 507267,
+        "word": "长辈无用的节俭反而最费钱",
+        "onboard_time": 1767177021,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77410,
+        "num": 505478,
+        "word": "九重天",
+        "onboard_time": 1767162739,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72599,
+        "num": 505024,
+        "word": "骄阳似我更新",
+        "onboard_time": 1767155660,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64048,
+        "num": 503802,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62967,
+        "num": 502539,
+        "word": "酒店针孔瓶装水带上高铁安检机报警",
+        "onboard_time": 1767166640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60821,
+        "num": 501763,
+        "word": "原来雪花真长这样",
+        "onboard_time": 1767174979,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 16632,
+        "num": 500738,
+        "word": "谢淮安飞猪的彩蛋把我看哭了",
+        "onboard_time": 1767177381,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60459,
+        "num": 498981,
+        "word": "第五人格赛事",
+        "onboard_time": 1767163339,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56505,
+        "num": 498757,
+        "word": "骄阳似我",
+        "onboard_time": 1767156140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55464,
+        "num": 497009,
+        "word": "长白山旅游",
+        "onboard_time": 1767177262,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的这些话暖心又提气#"
+    }
+  }
+}
