@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 15:44:50
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 16:39:04
 </p>
 </blockquote>
 <p>
@@ -3417,6 +3417,12 @@ TFBOYS 帝国姐（热度：831035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%B7%A8%E5%B9%B4%E6%98%8E%E6%98%9F%E7%BA%A2%E5%8C%85%23" target="weibo">
+微博跨年明星红包（热度：811109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%BB%8B%E6%89%B0%E8%BE%BD%E5%AE%81%E8%88%B0%E7%BC%96%E9%98%9F%E8%AE%AD%E7%BB%83%23" target="weibo">
 日本自卫队滋扰辽宁舰编队训练（热度：809385）
 </a>
@@ -6005,12 +6011,6 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%A5%E5%90%8D%E5%AF%BC%E6%BC%94%E7%96%91%E4%BC%BC%E4%B8%8E%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%AD%90%E5%90%8C%E5%B1%85%23" target="weibo">
 曝知名导演疑似与年轻女子同居（热度：594306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E9%B8%BF%E4%BA%AE%E5%95%A5%E4%B9%9F%E4%B8%8D%E8%AF%B4%E4%BA%86%E7%BB%99%E5%A4%A7%E5%AE%B6%E9%9E%A0%E4%B8%80%E8%BA%AC%23" target="weibo">
-侯鸿亮啥也不说了给大家鞠一躬（热度：593582）
 </a>
 </li>
 
