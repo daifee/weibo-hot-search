@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767153053908,
+  "endTime": 1767153896026,
   "band_list": [
     {
       "raw_hot": 1373367,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 496077,
-      "num": 145951,
+      "num": 158484,
       "word": "穆祉丞王橹杰 内娱跨年第一刀",
       "onboard_time": 1767149179,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409714,
+      "num": 200939,
+      "word": "日本游客脱外衣欲下恒河被当地人怒斥",
+      "onboard_time": 1767153379,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 393533,
       "num": 87701,
       "word": "没认出来是宋茜",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 329786,
-      "num": 809232,
+      "num": 832380,
       "word": "东部战区短视频夺权杀招",
       "onboard_time": 1767147799,
       "rank": 18,
@@ -123,28 +131,36 @@
       "category": "网红"
     },
     {
-      "raw_hot": 282072,
-      "num": 215356,
+      "raw_hot": 296332,
+      "num": 239942,
+      "word": "跨年文案",
+      "onboard_time": 1767151581,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 291635,
+      "num": 194599,
+      "word": "俄末日电台突然播放天鹅湖",
+      "onboard_time": 1767148219,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 289717,
+      "num": 237964,
       "word": "湖南卫视跨年彩排",
       "onboard_time": 1767148760,
       "rank": 5,
       "category": "综艺"
     },
     {
-      "raw_hot": 279482,
-      "num": 184484,
+      "raw_hot": 281149,
+      "num": 193867,
       "word": "8个人贷款2500万上班",
       "onboard_time": 1767148339,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277075,
-      "num": 183563,
-      "word": "俄末日电台突然播放天鹅湖",
-      "onboard_time": 1767148219,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 258074,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 256774,
-      "num": 182783,
+      "num": 189317,
       "word": "王俊凯 Beautiful",
       "onboard_time": 1767150140,
       "rank": 12,
@@ -187,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243176,
+      "num": 243176,
+      "word": "育儿补贴下周一全面开放申领",
+      "onboard_time": 1767152360,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235700,
       "num": 158935,
       "word": "早期骨癌发出的危险信号",
@@ -195,27 +219,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223473,
-      "num": 223473,
+      "raw_hot": 233741,
+      "num": 233741,
       "word": "福建海警要求台方用中文交流",
       "onboard_time": 1767141981,
       "rank": 4,
       "category": "国内时政"
     },
     {
-      "raw_hot": 217906,
-      "num": 145803,
-      "word": "王启年和二皇子成兄弟了",
-      "onboard_time": 1767152422,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210964,
-      "num": 145539,
+      "raw_hot": 221099,
+      "num": 157355,
       "word": "你是我26岁唯一的新娘",
       "onboard_time": 1767152480,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217906,
+      "num": 155149,
+      "word": "王启年和二皇子成兄弟了",
+      "onboard_time": 1767152422,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -225,6 +249,14 @@
       "onboard_time": 1767148219,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205647,
+      "num": 205647,
+      "word": "马龙王楚钦拟记大功",
+      "onboard_time": 1767153501,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 197850,
@@ -283,20 +315,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186054,
-      "num": 186054,
-      "word": "跨年文案",
-      "onboard_time": 1767151581,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184468,
       "num": 184468,
       "word": "增值税",
       "onboard_time": 1767097822,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "湖南卫视跨年节目单",
+      "onboard_time": 1767153678,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179541,
+      "num": 179541,
+      "word": "英法加拿大等十国联合声明",
+      "onboard_time": 1767152840,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172871,
@@ -331,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159292,
+      "num": 159292,
+      "word": "你少干一点同事就多干一点",
+      "onboard_time": 1767152000,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159116,
       "num": 159116,
       "word": "小狗 有洁癖但素质不太高",
@@ -363,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146110,
-      "num": 146110,
-      "word": "你少干一点同事就多干一点",
-      "onboard_time": 1767152000,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145218,
       "num": 145218,
       "word": "R1SE丑杂志怎么又被翻出来了",
@@ -385,6 +425,14 @@
       "onboard_time": 1767152300,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136459,
+      "num": 136459,
+      "word": "A股行情",
+      "onboard_time": 1767153200,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 134969,
@@ -409,6 +457,14 @@
       "onboard_time": 1767145339,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124662,
+      "num": 109053,
+      "word": "肯尼迪35岁孙女因病去世",
+      "onboard_time": 1767153020,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124429,
@@ -499,14 +555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109053,
-      "num": 109053,
-      "word": "肯尼迪35岁孙女因病去世",
-      "onboard_time": 1767153020,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108356,
       "num": 108356,
       "word": "张钧甯 中年大叔的绝对偶像",
@@ -521,6 +569,14 @@
       "onboard_time": 1767105741,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106677,
+      "num": 106677,
+      "word": "真的建议工作时不要幼化自己",
+      "onboard_time": 1767152239,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 105995,
@@ -571,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98900,
+      "num": 98900,
+      "word": "中方回应欧盟涉台声明",
+      "onboard_time": 1767149058,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98214,
       "num": 98214,
       "word": "元旦天气",
       "onboard_time": 1767148038,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97574,
-      "num": 97574,
-      "word": "中方回应欧盟涉台声明",
-      "onboard_time": 1767149058,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97118,
@@ -603,11 +659,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95585,
+      "num": 95585,
+      "word": "你和好朋友的跨年安排belike",
+      "onboard_time": 1767153261,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93070,
       "num": 93070,
       "word": "跨年吃12个什么",
       "onboard_time": 1767150560,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92820,
+      "num": 92820,
+      "word": "买衣服留不留的两个原则",
+      "onboard_time": 1767153740,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -625,6 +697,14 @@
       "onboard_time": 1767151401,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91336,
+      "num": 91336,
+      "word": "毛利兰票选为顶流女主角",
+      "onboard_time": 1767152660,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 91058,
@@ -673,14 +753,6 @@
       "onboard_time": 1767145700,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88265,
-      "num": 88265,
-      "word": "毛利兰票选为顶流女主角",
-      "onboard_time": 1767152660,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 87447,
@@ -747,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81545,
-      "num": 81545,
-      "word": "真的建议工作时不要幼化自己",
-      "onboard_time": 1767152239,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81515,
       "num": 81515,
       "word": "樊振东人形绅士礼仪教科书",
@@ -769,6 +833,14 @@
       "onboard_time": 1767110960,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80939,
+      "num": 80939,
+      "word": "第一次见给小狗狗修鞋子的",
+      "onboard_time": 1767153799,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 80267,
@@ -795,20 +867,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78975,
-      "num": 78975,
-      "word": "英法加拿大等十国联合声明",
-      "onboard_time": 1767152840,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77968,
       "num": 77968,
       "word": "2025我的身体说辛苦了",
       "onboard_time": 1767148279,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77876,
+      "num": 77876,
+      "word": "尖叫之夜最长售后",
+      "onboard_time": 1767153860,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77775,
+      "num": 77775,
+      "word": "A股有色板块震荡拉升",
+      "onboard_time": 1767153860,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 77023,
@@ -913,6 +993,14 @@
       "onboard_time": 1767140781,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64865,
+      "num": 91613,
+      "word": "2026个税专项附加扣除填报今日截止",
+      "onboard_time": 1767153678,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 64677,
@@ -1259,14 +1347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 33518,
-      "num": 184889,
-      "word": "育儿补贴下周一全面开放申领",
-      "onboard_time": 1767152360,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33505,
       "num": 42157,
       "word": "罗永浩宣布门票免费",
@@ -1347,6 +1427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21315,
+      "num": 636619,
+      "word": "一项项突破见证奋进中国",
+      "onboard_time": 1767152119,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19979,
       "num": 465527,
       "word": "我国银发网民加速拥抱数字世界",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1767117436,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18956,
-      "num": 636619,
-      "word": "一项项突破见证奋进中国",
-      "onboard_time": 1767152119,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18839,
