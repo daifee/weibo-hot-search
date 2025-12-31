@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767194997604,
+  "endTime": 1767195818106,
   "band_list": [
     {
       "raw_hot": 15870585,
@@ -41,6 +41,14 @@
       "onboard_time": 1767179961,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1828332,
+      "num": 1828332,
+      "word": "新年快乐",
+      "onboard_time": 1767195447,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1759422,
@@ -84,11 +92,19 @@
     },
     {
       "raw_hot": 1140462,
-      "num": 879931,
+      "num": 1200631,
       "word": "江苏卫视 听爽了",
       "onboard_time": 1767193168,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1126181,
+      "num": 1126181,
+      "word": "跨年",
+      "onboard_time": 1767193410,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1112801,
@@ -131,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 871518,
-      "num": 871518,
-      "word": "跨年",
-      "onboard_time": 1767193410,
-      "rank": 5,
-      "category": "情感"
+      "raw_hot": 737988,
+      "num": 1123066,
+      "word": "江苏卫视大爆",
+      "onboard_time": 1767193528,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 702239,
@@ -168,14 +184,6 @@
       "word": "江苏卫视 全开麦",
       "onboard_time": 1767184705,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 624290,
-      "num": 871417,
-      "word": "江苏卫视大爆",
-      "onboard_time": 1767193528,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403103,
+      "num": 1079123,
+      "word": "种地吧",
+      "onboard_time": 1767171081,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398153,
       "num": 175838,
       "word": "肖战唱现在不跳舞要干嘛",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 381913,
-      "num": 873276,
+      "num": 1059005,
       "word": "湖南卫视你好事做尽",
       "onboard_time": 1767193467,
       "rank": 4,
@@ -403,8 +419,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347531,
+      "num": 3945875,
+      "word": "祖国统一历史大势不可阻挡",
+      "onboard_time": 1767192268,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 347284,
-      "num": 846300,
+      "num": 1022128,
       "word": "跨年收视率",
       "onboard_time": 1767192568,
       "rank": 25,
@@ -507,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 308649,
+      "num": 1007863,
+      "word": "心愿便利贴好甜",
+      "onboard_time": 1767195208,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306000,
       "num": 86127,
       "word": "迅猛龙直播掉美颜",
@@ -521,14 +553,6 @@
       "onboard_time": 1767164420,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 304874,
-      "num": 3945875,
-      "word": "祖国统一历史大势不可阻挡",
-      "onboard_time": 1767192268,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 302683,
@@ -699,14 +723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258315,
-      "num": 1079123,
-      "word": "种地吧",
-      "onboard_time": 1767171081,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258074,
       "num": 258074,
       "word": "浙江卫视跨年晚会节目单",
@@ -779,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 237755,
+      "num": 1036697,
+      "word": "跨年朋友圈",
+      "onboard_time": 1767194427,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235700,
       "num": 158935,
       "word": "早期骨癌发出的危险信号",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 226039,
-      "num": 845907,
+      "num": 994413,
       "word": "B站跨年 好看",
       "onboard_time": 1767192507,
       "rank": 26,
@@ -891,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205333,
-      "num": 848143,
-      "word": "跨年朋友圈",
-      "onboard_time": 1767194427,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204597,
       "num": 204597,
       "word": "骄阳似我 明年和好",
@@ -945,6 +961,14 @@
       "onboard_time": 1767170361,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195489,
+      "num": 1030312,
+      "word": "2026跨年图片",
+      "onboard_time": 1767195208,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 194131,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1767182124,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181719,
+      "num": 986986,
+      "word": "不染 难唱",
+      "onboard_time": 1767195686,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 177164,
@@ -1403,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125852,
+      "num": 1042853,
+      "word": "花花送的京东跨晚大奖是它",
+      "onboard_time": 1767195266,
+      "rank": 22,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 125804,
       "num": 738184,
       "word": "2025最后一件值得记录的事",
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 115604,
-      "num": 836205,
+      "num": 976052,
       "word": "2025王者荣耀挑战者杯",
       "onboard_time": 1767193108,
       "rank": 33,
@@ -1788,7 +1828,7 @@
     },
     {
       "raw_hot": 101111,
-      "num": 826594,
+      "num": 938222,
       "word": "电影匿杀",
       "onboard_time": 1767194126,
       "rank": 41,
@@ -2547,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74294,
+      "num": 1079661,
+      "word": "千问导演了反方向的钟",
+      "onboard_time": 1767193646,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73991,
       "num": 121831,
       "word": "一件羽绒服存档了好多冬天回忆",
@@ -2644,7 +2692,7 @@
     },
     {
       "raw_hot": 71453,
-      "num": 859352,
+      "num": 1088863,
       "word": "上迪10岁生日庆典logo细节拉满",
       "onboard_time": 1767193708,
       "rank": 15,
@@ -2769,14 +2817,6 @@
       "onboard_time": 1767136218,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62375,
-      "num": 861099,
-      "word": "千问导演了反方向的钟",
-      "onboard_time": 1767193646,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 62017,
@@ -3123,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44082,
+      "num": 1106084,
+      "word": "祝大家心有所悦业有所成万事皆可期",
+      "onboard_time": 1767181584,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43329,
       "num": 3840609,
       "word": "剑来2新副本原著粉看爽了",
@@ -3208,14 +3256,6 @@
       "word": "一项项突破见证奋进中国",
       "onboard_time": 1767152119,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 38332,
-      "num": 867277,
-      "word": "祝大家心有所悦业有所成万事皆可期",
-      "onboard_time": 1767181584,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -3339,20 +3379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30455,
-      "num": 843757,
-      "word": "特仑苏和你一起跨向更好的2026",
-      "onboard_time": 1767193467,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29419,
-      "num": 829778,
+      "raw_hot": 30597,
+      "num": 958703,
       "word": "北京卫视跨年 古早联欢会",
       "onboard_time": 1767194847,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30455,
+      "num": 1016534,
+      "word": "特仑苏和你一起跨向更好的2026",
+      "onboard_time": 1767193467,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29406,
