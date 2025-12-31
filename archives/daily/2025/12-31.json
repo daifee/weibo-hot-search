@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767164253033,
+  "endTime": 1767166258405,
   "band_list": [
     {
       "raw_hot": 2919800,
@@ -49,6 +49,14 @@
       "onboard_time": 1767108861,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 563725,
+      "num": 313091,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533096,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398153,
+      "num": 175838,
+      "word": "肖战唱现在不跳舞要干嘛",
+      "onboard_time": 1767164420,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393533,
       "num": 87701,
       "word": "没认出来是宋茜",
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367436,
+      "num": 367436,
+      "word": "聂曦光微博取关林屿森",
+      "onboard_time": 1767165259,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362055,
       "num": 86704,
       "word": "林俊杰女友七七婚纱写真",
@@ -171,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344308,
+      "num": 122371,
+      "word": "生理性喜欢是不是更难分手",
+      "onboard_time": 1767165259,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331688,
       "num": 331688,
       "word": "九重天",
       "onboard_time": 1767162739,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331249,
+      "num": 822986,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329786,
@@ -195,8 +235,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318757,
-      "num": 318757,
+      "raw_hot": 319336,
+      "num": 319336,
       "word": "台独斩杀线",
       "onboard_time": 1767161599,
       "rank": 5,
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285632,
+      "num": 202568,
+      "word": "肖战跨晚彩排照",
+      "onboard_time": 1767159022,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283885,
       "num": 210462,
       "word": "明星跨年出图",
@@ -315,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257292,
-      "num": 804746,
-      "word": "李在明访华团队阵容公开",
-      "onboard_time": 1767162201,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 256774,
       "num": 200310,
       "word": "王俊凯 Beautiful",
@@ -377,6 +417,14 @@
       "onboard_time": 1767152360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239727,
+      "num": 239727,
+      "word": "每天勤勤恳恳上网还是被震惊了",
+      "onboard_time": 1767164420,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 238321,
@@ -472,14 +520,6 @@
       "word": "范丞丞直播",
       "onboard_time": 1767163461,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202568,
-      "num": 202568,
-      "word": "肖战跨晚彩排照",
-      "onboard_time": 1767159022,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -579,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175846,
+      "num": 121549,
+      "word": "被领导的自动回复笑死了",
+      "onboard_time": 1767164420,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "36岁农村摆摊卖20元一个的披萨",
@@ -620,7 +668,7 @@
     },
     {
       "raw_hot": 162844,
-      "num": 162844,
+      "num": 178367,
       "word": "湖人 失误",
       "onboard_time": 1767162080,
       "rank": 9,
@@ -747,8 +795,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131759,
+      "num": 131759,
+      "word": "刘嘉玲扒柯淳鞋底检查内增高",
+      "onboard_time": 1767165259,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130967,
-      "num": 116797,
+      "num": 121492,
       "word": "她一进来考官先站起来了",
       "onboard_time": 1767162381,
       "rank": 34,
@@ -761,14 +817,6 @@
       "onboard_time": 1767146779,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127481,
-      "num": 127481,
-      "word": "广州睡过23站小学生获发迟到券",
-      "onboard_time": 1767163339,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127124,
@@ -801,6 +849,14 @@
       "onboard_time": 1767146960,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121833,
+      "num": 121833,
+      "word": "张杰谢娜时隔15年同台跨年",
+      "onboard_time": 1767165679,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 121010,
@@ -956,7 +1012,7 @@
     },
     {
       "raw_hot": 104507,
-      "num": 104507,
+      "num": 121437,
       "word": "杨紫2025的词是破土",
       "onboard_time": 1767161599,
       "rank": 43,
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 92718,
-      "num": 114414,
+      "num": 121081,
       "word": "黄子韬瘦了",
       "onboard_time": 1767162620,
       "rank": 37,
@@ -1163,6 +1219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 91123,
+      "num": 121767,
+      "word": "反人类暴行大结局",
+      "onboard_time": 1767165741,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91058,
       "num": 91058,
       "word": "林依轮夫妻跨年vlog发了刘宇宁",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1767152900,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90586,
+      "num": 121733,
+      "word": "雷军抽奖",
+      "onboard_time": 1767165621,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 90517,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1767160879,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88122,
+      "num": 121498,
+      "word": "如果你发现跟一个人聊天很舒服",
+      "onboard_time": 1767166160,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 87717,
@@ -1332,7 +1412,7 @@
     },
     {
       "raw_hot": 84773,
-      "num": 84773,
+      "num": 121158,
       "word": "何洛洛 老子哭着恋",
       "onboard_time": 1767164179,
       "rank": 43,
@@ -1451,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76860,
+      "num": 121419,
+      "word": "熊孩子欺负同学明确处理方式",
+      "onboard_time": 1767165080,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76671,
       "num": 89000,
       "word": "世界上最长寿的在世猫咪30岁了",
@@ -1460,11 +1548,19 @@
     },
     {
       "raw_hot": 76205,
-      "num": 85566,
+      "num": 121634,
       "word": "快船五连胜",
       "onboard_time": 1767163280,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76001,
+      "num": 126695,
+      "word": "东部战区演习效果特点之一为斩首",
+      "onboard_time": 1767164479,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75914,
@@ -1515,12 +1611,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73991,
+      "num": 121239,
+      "word": "一件羽绒服存档了好多冬天回忆",
+      "onboard_time": 1767165501,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73799,
+      "num": 121212,
+      "word": "打不过就吐口水的猫",
+      "onboard_time": 1767165741,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73491,
       "num": 158703,
       "word": "印度网民指责日本游客不尊重当地文化",
       "onboard_time": 1767137177,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73460,
+      "num": 121040,
+      "word": "樊振东的2025不止有乒乓球",
+      "onboard_time": 1767164840,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72895,
@@ -1683,6 +1803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58181,
+      "num": 121360,
+      "word": "偷甘蔗老板回应推出抓虫换萝卜",
+      "onboard_time": 1767165140,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57551,
       "num": 158347,
       "word": "美学者称台湾不值得美国一战",
@@ -1819,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44287,
+      "num": 121394,
+      "word": "2025假如世界另有答案",
+      "onboard_time": 1767166100,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44224,
       "num": 80052,
       "word": "金巧巧吴启华 分手22年后演夫妻",
@@ -1856,6 +1992,14 @@
       "word": "新年贺词温暖人心",
       "onboard_time": 1767137659,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39405,
+      "num": 121259,
+      "word": "盘点2025感人瞬间",
+      "onboard_time": 1767164599,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2035,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25359,
+      "num": 638364,
+      "word": "北京范儿新年祈福",
+      "onboard_time": 1767163879,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25358,
       "num": 58693,
       "word": "央视和美之夜",
@@ -2136,14 +2288,6 @@
       "word": "严查套补先涨后补等违法违规行为",
       "onboard_time": 1767160038,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16021,
-      "num": 638364,
-      "word": "北京范儿新年祈福",
-      "onboard_time": 1767163879,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
