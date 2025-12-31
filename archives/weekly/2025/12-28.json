@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767138051824,
+  "endTime": 1767146898065,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1017741,
-      "num": 92670,
+      "num": 197581,
       "word": "明年起年龄将不再是免罪金牌",
       "onboard_time": 1767136578,
       "rank": 10,
@@ -1075,6 +1075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 462309,
+      "num": 1073969,
+      "word": "中国海警要求台方用中文交流",
+      "onboard_time": 1767141981,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 461877,
       "num": 212356,
       "word": "张纪中妻子自曝闭黑关四天四夜",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1766965458,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460767,
+      "num": 780349,
+      "word": "江苏卫视跨年节目单",
+      "onboard_time": 1767145220,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 460079,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1766896160,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 445241,
+      "num": 205156,
+      "word": "藏海传",
+      "onboard_time": 1767138379,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 445050,
@@ -1543,6 +1567,14 @@
       "num": 344011,
       "word": "大盘鸡店嘲讽差评学生学历低",
       "onboard_time": 1766882959,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391267,
+      "num": 204033,
+      "word": "广州小孩哥坐地铁上学睡过23个站",
+      "onboard_time": 1767141620,
       "rank": 7,
       "category": "民生新闻"
     },
@@ -1977,6 +2009,14 @@
       "onboard_time": 1766990600,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314220,
+      "num": 202118,
+      "word": "38岁东莞首富张寓帅独掌东阳光",
+      "onboard_time": 1767142042,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 312724,
@@ -2427,6 +2467,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 256699,
+      "num": 196235,
+      "word": "恋与深空",
+      "onboard_time": 1767143419,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254927,
       "num": 212590,
       "word": "炎亚纶发的图有汪东城水印",
@@ -2571,6 +2619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243866,
+      "num": 199850,
+      "word": "跨年夜的正确姿势",
+      "onboard_time": 1767138920,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242472,
       "num": 185356,
       "word": "上厕所玩手机一次伤害7个器官",
@@ -2636,7 +2692,7 @@
     },
     {
       "raw_hot": 235700,
-      "num": 71151,
+      "num": 158935,
       "word": "早期骨癌发出的危险信号",
       "onboard_time": 1767113297,
       "rank": 31,
@@ -3177,6 +3233,14 @@
       "onboard_time": 1767018508,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194131,
+      "num": 194131,
+      "word": "恋与深空快开门",
+      "onboard_time": 1767143360,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 193887,
@@ -4163,6 +4227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159116,
+      "num": 159116,
+      "word": "小狗 有洁癖但素质不太高",
+      "onboard_time": 1767139100,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159078,
       "num": 215907,
       "word": "陈昊宇开机",
@@ -4419,6 +4491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 150088,
+      "num": 158880,
+      "word": "跨年夜朋友圈这样发",
+      "onboard_time": 1767143301,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149869,
       "num": 149869,
       "word": "王菊一步一步一部一部",
@@ -4561,6 +4641,14 @@
       "onboard_time": 1766982082,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146045,
+      "num": 158831,
+      "word": "家长带着幼儿在马路上值护学岗",
+      "onboard_time": 1767145878,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145913,
@@ -5107,6 +5195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133585,
+      "num": 209005,
+      "word": "2026汽车以旧换新补贴细则",
+      "onboard_time": 1767145580,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133395,
       "num": 152968,
       "word": "美国蜜雪冰城店员中文流利",
@@ -5289,6 +5385,14 @@
       "onboard_time": 1766903960,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129619,
+      "num": 158617,
+      "word": "雷军新年礼物抽奖送手机",
+      "onboard_time": 1767146779,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 129587,
@@ -5545,6 +5649,14 @@
       "onboard_time": 1766847922,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124429,
+      "num": 159108,
+      "word": "陕西河南安徽湖北重庆大雪",
+      "onboard_time": 1767145878,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124331,
@@ -6225,6 +6337,14 @@
       "onboard_time": 1766898141,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114147,
+      "num": 159076,
+      "word": "美批准韩企向中国出口芯片制造设备",
+      "onboard_time": 1767145339,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113998,
@@ -7939,6 +8059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92310,
+      "num": 158811,
+      "word": "人一幸福就不会频繁更新社交软件",
+      "onboard_time": 1767136997,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91962,
       "num": 117825,
       "word": "台湾游客在东北被抢着买单",
@@ -8276,7 +8404,7 @@
     },
     {
       "raw_hot": 87447,
-      "num": 62861,
+      "num": 158260,
       "word": "金银大跌后又大涨",
       "onboard_time": 1767136817,
       "rank": 17,
@@ -8329,6 +8457,14 @@
       "onboard_time": 1767085221,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86791,
+      "num": 159019,
+      "word": "李昀锐参加央视跨年",
+      "onboard_time": 1767144021,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 86289,
@@ -8419,12 +8555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85429,
+      "num": 159010,
+      "word": "小城大事",
+      "onboard_time": 1767145700,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85212,
       "num": 85212,
       "word": "骄阳似我 有梗",
       "onboard_time": 1767098063,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85076,
+      "num": 158963,
+      "word": "山东把二氧化碳卖出39亿天价",
+      "onboard_time": 1767139760,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84974,
@@ -8441,6 +8593,14 @@
       "onboard_time": 1767104182,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84863,
+      "num": 158767,
+      "word": "Henry一口气请来38个国际伴舞",
+      "onboard_time": 1767143480,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 84853,
@@ -8979,6 +9139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 76744,
+      "num": 158738,
+      "word": "iOS27前瞻来了",
+      "onboard_time": 1767144260,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76687,
       "num": 258525,
       "word": "更好的2026在向你招手",
@@ -9083,6 +9251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73491,
+      "num": 158703,
+      "word": "印度网民指责日本游客不尊重当地文化",
+      "onboard_time": 1767137177,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73373,
       "num": 73373,
       "word": "孙颖莎登中国妇女杂志封面",
@@ -9169,14 +9345,6 @@
       "onboard_time": 1767025400,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71661,
-      "num": 53333,
-      "word": "人一幸福就不会频繁更新社交软件",
-      "onboard_time": 1767136997,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 71495,
@@ -9347,6 +9515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 67085,
+      "num": 158696,
+      "word": "2025最后一次",
+      "onboard_time": 1767139339,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66830,
       "num": 238087,
       "word": "央视播出围岛演习多角度视频",
@@ -9395,6 +9571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65718,
+      "num": 158644,
+      "word": "为什么老人养的猫特别乖",
+      "onboard_time": 1767140781,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65714,
       "num": 65714,
       "word": "17岁少年在家种出冠军睡莲",
@@ -9411,14 +9595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65524,
-      "num": 53145,
-      "word": "印度网民指责日本游客不尊重当地文化",
-      "onboard_time": 1767137177,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 65188,
       "num": 65188,
       "word": "王楚钦放空一个月为了2026更充实",
@@ -9433,6 +9609,22 @@
       "onboard_time": 1766993779,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 64677,
+      "num": 158582,
+      "word": "广电总局开展AI魔改视频专项治理",
+      "onboard_time": 1767145099,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64211,
+      "num": 158528,
+      "word": "骄阳似我是懂江苏人的",
+      "onboard_time": 1767141801,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 63780,
@@ -9523,6 +9715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60973,
+      "num": 158449,
+      "word": "ADHD",
+      "onboard_time": 1767140060,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60925,
       "num": 209090,
       "word": "网友偶遇京东跨晚大奖车",
@@ -9609,6 +9809,14 @@
       "onboard_time": 1767113419,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59617,
+      "num": 158418,
+      "word": "何小鹏开特斯拉点麦当劳失败",
+      "onboard_time": 1767140901,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 59536,
@@ -9707,6 +9915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57551,
+      "num": 158347,
+      "word": "美学者称台湾不值得美国一战",
+      "onboard_time": 1767140660,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57079,
       "num": 109175,
       "word": "阿凡达3幻视封神",
@@ -9777,6 +9993,14 @@
       "onboard_time": 1767106102,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54769,
+      "num": 158300,
+      "word": "孙颖莎连续4年女单年终世一",
+      "onboard_time": 1767144800,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 54642,
@@ -9899,6 +10123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51838,
+      "num": 158230,
+      "word": "黄金白银又涨了",
+      "onboard_time": 1767144619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51749,
       "num": 175727,
       "word": "胡歌生图即神图",
@@ -9955,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50471,
+      "num": 158192,
+      "word": "一盘辣椒炒肉把民警吃哭了",
+      "onboard_time": 1767145399,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50401,
       "num": 50401,
       "word": "老板说这狗长大会很帅",
@@ -10004,7 +10244,7 @@
     },
     {
       "raw_hot": 49657,
-      "num": 49657,
+      "num": 158069,
       "word": "出现4种疼痛千万不能忍着",
       "onboard_time": 1767137838,
       "rank": 31,
@@ -10107,12 +10347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47548,
+      "num": 158153,
+      "word": "俄方反对任何形式的台独分裂行径",
+      "onboard_time": 1767145280,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47460,
       "num": 56317,
       "word": "刘宇宁遇梗秒接这一块",
       "onboard_time": 1767050478,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47290,
+      "num": 158106,
+      "word": "预制跨年",
+      "onboard_time": 1767144140,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 46820,
@@ -10155,6 +10411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45877,
+      "num": 158046,
+      "word": "WTT年度总结",
+      "onboard_time": 1767145399,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45703,
       "num": 95341,
       "word": "19岁男子失联5个月母亲赴柬寻子",
@@ -10193,6 +10457,14 @@
       "onboard_time": 1767033375,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45155,
+      "num": 158001,
+      "word": "2026许愿池",
+      "onboard_time": 1767140060,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45099,
@@ -10441,6 +10713,14 @@
       "onboard_time": 1767059780,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41004,
+      "num": 158487,
+      "word": "解放军演习高清大图",
+      "onboard_time": 1767146779,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40714,
@@ -10745,6 +11025,14 @@
       "onboard_time": 1766943255,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34758,
+      "num": 158404,
+      "word": "美国十部法案妄图锁死台海",
+      "onboard_time": 1767145640,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34722,
@@ -11147,6 +11435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27106,
+      "num": 619874,
+      "word": "2026年农业强国建设施工图",
+      "onboard_time": 1767102322,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26990,
       "num": 109025,
       "word": "竟有如此贴合大厂35岁裁员的明星",
@@ -11403,6 +11699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23010,
+      "num": 158915,
+      "word": "冬季风暴埃兹拉持续肆虐美国多地",
+      "onboard_time": 1767145580,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22663,
       "num": 161569,
       "word": "市监局回应独罚合规医疗器械",
@@ -11521,6 +11825,14 @@
       "onboard_time": 1766910561,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19838,
+      "num": 158553,
+      "word": "央视揭骗子送钱伎俩",
+      "onboard_time": 1767146779,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19600,
@@ -11697,14 +12009,6 @@
       "onboard_time": 1766955133,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15175,
-      "num": 510594,
-      "word": "2026年农业强国建设施工图",
-      "onboard_time": 1767102322,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15079,
