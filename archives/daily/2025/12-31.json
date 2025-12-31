@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767170344645,
+  "endTime": 1767171181428,
   "band_list": [
     {
       "raw_hot": 2919800,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1235122,
+      "num": 1235122,
+      "word": "微博跨年明星红包",
+      "onboard_time": 1767166941,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017741,
       "num": 197581,
       "word": "明年起年龄将不再是免罪金牌",
       "onboard_time": 1767136578,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811109,
-      "num": 1129777,
-      "word": "微博跨年明星红包",
-      "onboard_time": 1767166941,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 640258,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333292,
+      "num": 786955,
+      "word": "赖清德被曝用装甲车巡逻护己周全",
+      "onboard_time": 1767169340,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 331688,
       "num": 771260,
       "word": "九重天",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 319336,
-      "num": 838252,
+      "num": 867496,
       "word": "台独斩杀线",
       "onboard_time": 1767161599,
       "rank": 5,
@@ -257,6 +265,14 @@
       "onboard_time": 1767142042,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309524,
+      "num": 665276,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 306000,
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220334,
+      "num": 783186,
+      "word": "寻秦记",
+      "onboard_time": 1767169459,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218560,
       "num": 218560,
       "word": "阴阳师",
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205179,
+      "num": 646092,
+      "word": "种地吧",
+      "onboard_time": 1767171081,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204597,
       "num": 204597,
       "word": "骄阳似我 明年和好",
@@ -561,14 +593,6 @@
       "onboard_time": 1767164420,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198948,
-      "num": 786955,
-      "word": "赖清德被曝用装甲车巡逻护己周全",
-      "onboard_time": 1767169340,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198893,
@@ -603,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192056,
+      "num": 781689,
+      "word": "女子把中国烧烤摊摆到英国街头",
+      "onboard_time": 1767167239,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 191328,
       "num": 231243,
       "word": "华杉祝雷军早日康复",
@@ -635,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189317,
+      "num": 753457,
+      "word": "TFING跨年造型",
+      "onboard_time": 1767170000,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188038,
       "num": 202186,
       "word": "宋威龙赵今麦说顾漫对台词要求高",
@@ -665,30 +705,6 @@
       "onboard_time": 1767097822,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180210,
-      "num": 753457,
-      "word": "TFING跨年造型",
-      "onboard_time": 1767170000,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179313,
-      "num": 783186,
-      "word": "寻秦记",
-      "onboard_time": 1767169459,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 173978,
-      "num": 781689,
-      "word": "女子把中国烧烤摊摆到英国街头",
-      "onboard_time": 1767167239,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172871,
@@ -859,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132848,
+      "num": 750563,
+      "word": "跨年只发一个文案",
+      "onboard_time": 1767169581,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132618,
       "num": 751245,
       "word": "老板笑了7个月才发出来",
@@ -899,6 +923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127423,
+      "num": 638322,
+      "word": "Gr对战WBG",
+      "onboard_time": 1767170361,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127124,
       "num": 127124,
       "word": "王俊凯跨年唱两首歌",
@@ -913,6 +945,14 @@
       "onboard_time": 1767145339,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125804,
+      "num": 738184,
+      "word": "2025最后一件值得记录的事",
+      "onboard_time": 1767170061,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 124875,
@@ -1323,14 +1363,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 91237,
-      "num": 750563,
-      "word": "跨年只发一个文案",
-      "onboard_time": 1767169581,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91058,
       "num": 91058,
       "word": "林依轮夫妻跨年vlog发了刘宇宁",
@@ -1387,12 +1419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89846,
+      "num": 768082,
+      "word": "明星减肥药降价潮来袭",
+      "onboard_time": 1767166880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89461,
       "num": 89461,
       "word": "2025国际冰川保护年",
       "onboard_time": 1767148100,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88555,
+      "num": 737678,
+      "word": "古天乐宣萱25年了还是这么好嗑",
+      "onboard_time": 1767167960,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 88476,
@@ -1443,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87520,
-      "num": 768082,
-      "word": "明星减肥药降价潮来袭",
-      "onboard_time": 1767166880,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87447,
       "num": 158260,
       "word": "金银大跌后又大涨",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1767144021,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86610,
+      "num": 597238,
+      "word": "TE战胜FPX.ZQ",
+      "onboard_time": 1767171081,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 86524,
@@ -1587,14 +1635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 82548,
-      "num": 738184,
-      "word": "2025最后一件值得记录的事",
-      "onboard_time": 1767170061,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82384,
       "num": 83833,
       "word": "微信辟谣支付服务暂停",
@@ -1635,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80636,
+      "num": 731516,
+      "word": "白鹿年度总结plog",
+      "onboard_time": 1767160700,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80267,
       "num": 80267,
       "word": "性格有缺陷影响人生发展的真实感受",
@@ -1651,20 +1699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79943,
-      "num": 737678,
-      "word": "古天乐宣萱25年了还是这么好嗑",
-      "onboard_time": 1767167960,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 79118,
       "num": 79118,
       "word": "一个能让你心甘情愿早睡的方法",
       "onboard_time": 1767150500,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 587463,
+      "word": "邓紫棋25年度跨年收官场",
+      "onboard_time": 1767170481,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 77968,
@@ -1827,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71111,
-      "num": 731516,
-      "word": "白鹿年度总结plog",
-      "onboard_time": 1767160700,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70510,
       "num": 158696,
       "word": "2025最后一次",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1767107121,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60990,
+      "num": 676385,
+      "word": "2025那些直抵人心的瞬间",
+      "onboard_time": 1767170540,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60973,
@@ -2043,12 +2091,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 49924,
+      "num": 728765,
+      "word": "跨年妆容",
+      "onboard_time": 1767170000,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 49657,
       "num": 158069,
       "word": "出现4种疼痛千万不能忍着",
       "onboard_time": 1767137838,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48587,
+      "num": 616531,
+      "word": "日澳等国对我军演说三道四十分虚伪",
+      "onboard_time": 1767170901,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48404,
@@ -2209,14 +2273,6 @@
       "onboard_time": 1767161119,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38788,
-      "num": 728765,
-      "word": "跨年妆容",
-      "onboard_time": 1767170000,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 38611,
@@ -2387,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25891,
+      "num": 757913,
+      "word": "王赫野有好货不早说",
+      "onboard_time": 1767169340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25533,
       "num": 33110,
       "word": "刘宇宁成都演唱会门票秒空",
@@ -2443,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21742,
+      "num": 742248,
+      "word": "对进口牛肉实施保障措施的裁定",
+      "onboard_time": 1767170000,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19979,
       "num": 465527,
       "word": "我国银发网民加速拥抱数字世界",
@@ -2483,28 +2555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 17643,
-      "num": 757913,
-      "word": "王赫野有好货不早说",
-      "onboard_time": 1767169340,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17102,
       "num": 40562,
       "word": "东方卫视跨年66摇",
       "onboard_time": 1767118935,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16531,
-      "num": 742248,
-      "word": "对进口牛肉实施保障措施的裁定",
-      "onboard_time": 1767170000,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16188,
@@ -2601,6 +2657,9 @@
     },
     {
       "word": "#新年贺词里的这些话语温暖人心#"
+    },
+    {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
     }
   ]
 }

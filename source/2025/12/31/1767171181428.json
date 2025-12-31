@@ -1,0 +1,410 @@
+{
+  "runTime": 1767171181428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235122,
+        "num": 1235122,
+        "word": "微博跨年明星红包",
+        "onboard_time": 1767166941,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305205,
+        "num": 867496,
+        "word": "台独斩杀线",
+        "onboard_time": 1767161599,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60990,
+        "num": 676385,
+        "word": "2025那些直抵人心的瞬间",
+        "onboard_time": 1767170540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668485,
+        "num": 668485,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333292,
+        "num": 667789,
+        "word": "赖清德被曝用装甲车巡逻护己周全",
+        "onboard_time": 1767169340,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309524,
+        "num": 665276,
+        "word": "跨年晚会节目单",
+        "onboard_time": 1767170841,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192056,
+        "num": 663420,
+        "word": "女子把中国烧烤摊摆到英国街头",
+        "onboard_time": 1767167239,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140887,
+        "num": 661015,
+        "word": "每天勤勤恳恳上网还是被震惊了",
+        "onboard_time": 1767164420,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104054,
+        "num": 659677,
+        "word": "李在明访华团队阵容公开",
+        "onboard_time": 1767162201,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71786,
+        "num": 657051,
+        "word": "第五人格赛事",
+        "onboard_time": 1767163339,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308981,
+        "num": 655577,
+        "word": "广州睡过23站小学生获发迟到券",
+        "onboard_time": 1767163339,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244668,
+        "num": 653637,
+        "word": "张杰谢娜时隔15年同台跨年",
+        "onboard_time": 1767165679,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220334,
+        "num": 649783,
+        "word": "寻秦记",
+        "onboard_time": 1767169459,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211735,
+        "num": 649129,
+        "word": "酒店针孔瓶装水带上高铁安检机报警",
+        "onboard_time": 1767166640,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205179,
+        "num": 646092,
+        "word": "种地吧",
+        "onboard_time": 1767171081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189317,
+        "num": 644109,
+        "word": "TFING跨年造型",
+        "onboard_time": 1767170000,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153595,
+        "num": 641992,
+        "word": "肖战跨晚彩排照",
+        "onboard_time": 1767159022,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 639801,
+        "word": "跨年只发一个文案",
+        "onboard_time": 1767169581,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127423,
+        "num": 638322,
+        "word": "Gr对战WBG",
+        "onboard_time": 1767170361,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89846,
+        "num": 634812,
+        "word": "明星减肥药降价潮来袭",
+        "onboard_time": 1767166880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276868,
+        "num": 632888,
+        "word": "还珠格格入驻微博",
+        "onboard_time": 1767159259,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146002,
+        "num": 631114,
+        "word": "九重天",
+        "onboard_time": 1767162739,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197952,
+        "num": 629337,
+        "word": "生理性喜欢是不是更难分手",
+        "onboard_time": 1767165259,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25891,
+        "num": 627757,
+        "word": "王赫野有好货不早说",
+        "onboard_time": 1767169340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125804,
+        "num": 625899,
+        "word": "2025最后一件值得记录的事",
+        "onboard_time": 1767170061,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 623601,
+        "word": "张凌赫这套造型必有高人指点",
+        "onboard_time": 1767169700,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138386,
+        "num": 620371,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79360,
+        "num": 619844,
+        "word": "郑州明天将迎来大雪",
+        "onboard_time": 1767169459,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48587,
+        "num": 616531,
+        "word": "日澳等国对我军演说三道四十分虚伪",
+        "onboard_time": 1767170901,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52293,
+        "num": 615502,
+        "word": "东部战区演习效果特点之一为斩首",
+        "onboard_time": 1767164479,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105218,
+        "num": 612652,
+        "word": "跨年文案",
+        "onboard_time": 1767151581,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132523,
+        "num": 611263,
+        "word": "老板笑了7个月才发出来",
+        "onboard_time": 1767167900,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121099,
+        "num": 608351,
+        "word": "被领导的自动回复笑死了",
+        "onboard_time": 1767164420,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98747,
+        "num": 606454,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89942,
+        "num": 603726,
+        "word": "第一次见男主受伤男二着急的",
+        "onboard_time": 1767169400,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89213,
+        "num": 601894,
+        "word": "日本游客脱外衣欲下恒河被当地人怒斥",
+        "onboard_time": 1767153379,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88555,
+        "num": 599700,
+        "word": "古天乐宣萱25年了还是这么好嗑",
+        "onboard_time": 1767167960,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86610,
+        "num": 597238,
+        "word": "TE战胜FPX.ZQ",
+        "onboard_time": 1767171081,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21742,
+        "num": 595312,
+        "word": "对进口牛肉实施保障措施的裁定",
+        "onboard_time": 1767170000,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83473,
+        "num": 594158,
+        "word": "印度和乌克兰吵起来了",
+        "onboard_time": 1767160580,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80636,
+        "num": 591622,
+        "word": "白鹿年度总结plog",
+        "onboard_time": 1767160700,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78537,
+        "num": 589502,
+        "word": "黄金",
+        "onboard_time": 1767161301,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78282,
+        "num": 587463,
+        "word": "邓紫棋25年度跨年收官场",
+        "onboard_time": 1767170481,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77951,
+        "num": 584343,
+        "word": "骄阳似我更新",
+        "onboard_time": 1767155660,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51232,
+        "num": 582239,
+        "word": "湖人 失误",
+        "onboard_time": 1767162080,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75197,
+        "num": 581015,
+        "word": "王一博 没巧克力但做出了巧克力薄饼",
+        "onboard_time": 1767166518,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73951,
+        "num": 577748,
+        "word": "张杰今晚直播唱5个小时",
+        "onboard_time": 1767156920,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52243,
+        "num": 576324,
+        "word": "原神",
+        "onboard_time": 1767157041,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71747,
+        "num": 575376,
+        "word": "恋与深空能登顶吗",
+        "onboard_time": 1767156679,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49924,
+        "num": 571656,
+        "word": "跨年妆容",
+        "onboard_time": 1767170000,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
+    }
+  }
+}

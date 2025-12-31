@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767170344645,
+  "endTime": 1767171181428,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -153,6 +153,14 @@
       "onboard_time": 1766931743,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1235122,
+      "num": 1235122,
+      "word": "微博跨年明星红包",
+      "onboard_time": 1767166941,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1176658,
@@ -337,14 +345,6 @@
       "onboard_time": 1767101783,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811109,
-      "num": 1129777,
-      "word": "微博跨年明星红包",
-      "onboard_time": 1767166941,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 804081,
@@ -2003,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333292,
+      "num": 786955,
+      "word": "赖清德被曝用装甲车巡逻护己周全",
+      "onboard_time": 1767169340,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 331688,
       "num": 771260,
       "word": "九重天",
@@ -2124,7 +2132,7 @@
     },
     {
       "raw_hot": 319336,
-      "num": 838252,
+      "num": 867496,
       "word": "台独斩杀线",
       "onboard_time": 1767161599,
       "rank": 5,
@@ -2209,6 +2217,14 @@
       "onboard_time": 1767091101,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309524,
+      "num": 665276,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 309506,
@@ -3219,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220334,
+      "num": 783186,
+      "word": "寻秦记",
+      "onboard_time": 1766935701,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220304,
       "num": 220304,
       "word": "TOP合唱我们的明天",
@@ -3451,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205179,
+      "num": 646092,
+      "word": "种地吧",
+      "onboard_time": 1767171081,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204597,
       "num": 204597,
       "word": "骄阳似我 明年和好",
@@ -3577,14 +3609,6 @@
       "onboard_time": 1767015381,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198948,
-      "num": 786955,
-      "word": "赖清德被曝用装甲车巡逻护己周全",
-      "onboard_time": 1767169340,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198893,
@@ -3731,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192056,
+      "num": 781689,
+      "word": "女子把中国烧烤摊摆到英国街头",
+      "onboard_time": 1767167239,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 191897,
       "num": 140870,
       "word": "郭冬临 谁点的京圈清冷佛子",
@@ -3857,6 +3889,14 @@
       "onboard_time": 1767070402,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 189317,
+      "num": 753457,
+      "word": "TFING跨年造型",
+      "onboard_time": 1767170000,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 189240,
@@ -4123,14 +4163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 180210,
-      "num": 753457,
-      "word": "TFING跨年造型",
-      "onboard_time": 1767170000,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180052,
       "num": 180052,
       "word": "2026春晚分会场之一合肥",
@@ -4177,14 +4209,6 @@
       "onboard_time": 1766911399,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179313,
-      "num": 783186,
-      "word": "寻秦记",
-      "onboard_time": 1766935701,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 178657,
@@ -4281,14 +4305,6 @@
       "onboard_time": 1766906421,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173978,
-      "num": 781689,
-      "word": "女子把中国烧烤摊摆到英国街头",
-      "onboard_time": 1767167239,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173866,
@@ -5851,6 +5867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132848,
+      "num": 750563,
+      "word": "跨年只发一个文案",
+      "onboard_time": 1767169581,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132830,
       "num": 216015,
       "word": "警方通报45岁女子遭邻居砍死",
@@ -6147,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127423,
+      "num": 638322,
+      "word": "Gr对战WBG",
+      "onboard_time": 1767170361,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127401,
       "num": 127401,
       "word": "单依纯发新歌",
@@ -6273,6 +6305,14 @@
       "onboard_time": 1766899999,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125804,
+      "num": 738184,
+      "word": "2025最后一件值得记录的事",
+      "onboard_time": 1767170061,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 124985,
@@ -9099,14 +9139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91237,
-      "num": 750563,
-      "word": "跨年只发一个文案",
-      "onboard_time": 1767169581,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91181,
       "num": 91181,
       "word": "男子带母亲打包酒店自助早餐",
@@ -9243,6 +9275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89846,
+      "num": 768082,
+      "word": "明星减肥药降价潮来袭",
+      "onboard_time": 1767166880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89676,
       "num": 89676,
       "word": "张杰爱人啊有我在你别怕",
@@ -9353,6 +9393,14 @@
       "onboard_time": 1766991199,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88555,
+      "num": 737678,
+      "word": "古天乐宣萱25年了还是这么好嗑",
+      "onboard_time": 1767167960,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 88530,
@@ -9467,14 +9515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87520,
-      "num": 768082,
-      "word": "明星减肥药降价潮来袭",
-      "onboard_time": 1767166880,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87447,
       "num": 158260,
       "word": "金银大跌后又大涨",
@@ -9545,6 +9585,14 @@
       "onboard_time": 1767144021,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86610,
+      "num": 597238,
+      "word": "TE战胜FPX.ZQ",
+      "onboard_time": 1767171081,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 86524,
@@ -10019,14 +10067,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 82548,
-      "num": 738184,
-      "word": "2025最后一件值得记录的事",
-      "onboard_time": 1767170061,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82503,
       "num": 82503,
       "word": "维修手机是一场巨大的八卦现场",
@@ -10195,6 +10235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80636,
+      "num": 731516,
+      "word": "白鹿年度总结plog",
+      "onboard_time": 1767160700,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80267,
       "num": 80267,
       "word": "性格有缺陷影响人生发展的真实感受",
@@ -10217,14 +10265,6 @@
       "onboard_time": 1767017187,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79943,
-      "num": 737678,
-      "word": "古天乐宣萱25年了还是这么好嗑",
-      "onboard_time": 1767167960,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 79887,
@@ -10313,6 +10353,14 @@
       "onboard_time": 1766916320,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 587463,
+      "word": "邓紫棋25年度跨年收官场",
+      "onboard_time": 1767170481,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 78203,
@@ -10707,14 +10755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71111,
-      "num": 731516,
-      "word": "白鹿年度总结plog",
-      "onboard_time": 1767160700,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70908,
       "num": 164946,
       "word": "卫健局回应生娃购房最高奖补75平",
@@ -11064,6 +11104,14 @@
       "word": "2025这一年请谢谢自己",
       "onboard_time": 1767069801,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60990,
+      "num": 676385,
+      "word": "2025那些直抵人心的瞬间",
+      "onboard_time": 1767170540,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -11595,6 +11643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49924,
+      "num": 728765,
+      "word": "跨年妆容",
+      "onboard_time": 1767170000,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 49911,
       "num": 157761,
       "word": "仙剑奇侠传三动画",
@@ -11665,6 +11721,14 @@
       "onboard_time": 1767050417,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48587,
+      "num": 616531,
+      "word": "日澳等国对我军演说三道四十分虚伪",
+      "onboard_time": 1767170901,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48404,
@@ -12241,14 +12305,6 @@
       "onboard_time": 1766993420,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38788,
-      "num": 728765,
-      "word": "跨年妆容",
-      "onboard_time": 1767170000,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 38430,
@@ -12955,6 +13011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25891,
+      "num": 757913,
+      "word": "王赫野有好货不早说",
+      "onboard_time": 1767169340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25853,
       "num": 117506,
       "word": "演觉当选中国佛教协会会长",
@@ -13251,6 +13315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21742,
+      "num": 742248,
+      "word": "对进口牛肉实施保障措施的裁定",
+      "onboard_time": 1767170000,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21626,
       "num": 44797,
       "word": "吴泽林输给王鹤棣服了",
@@ -13427,14 +13499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 17643,
-      "num": 757913,
-      "word": "王赫野有好货不早说",
-      "onboard_time": 1767169340,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17613,
       "num": 392916,
       "word": "中国低温火箭年度发射新纪录",
@@ -13457,14 +13521,6 @@
       "onboard_time": 1766948714,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16531,
-      "num": 742248,
-      "word": "对进口牛肉实施保障措施的裁定",
-      "onboard_time": 1767170000,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16243,
@@ -13785,6 +13841,9 @@
     },
     {
       "word": "#新年贺词里的这些话语温暖人心#"
+    },
+    {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
     }
   ]
 }
