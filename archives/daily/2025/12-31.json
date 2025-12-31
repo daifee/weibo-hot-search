@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767148302801,
+  "endTime": 1767153053908,
   "band_list": [
     {
       "raw_hot": 1373367,
@@ -25,6 +25,22 @@
       "onboard_time": 1767108861,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 508524,
+      "num": 508524,
+      "word": "看了6集猜对0个凶手",
+      "onboard_time": 1767147379,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 496077,
+      "num": 145951,
+      "word": "穆祉丞王橹杰 内娱跨年第一刀",
+      "onboard_time": 1767149179,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 462309,
@@ -75,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329786,
+      "num": 809232,
+      "word": "东部战区短视频夺权杀招",
+      "onboard_time": 1767147799,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321865,
       "num": 891631,
       "word": "解放军演习在台湾岛内引发震动",
@@ -99,11 +123,43 @@
       "category": "网红"
     },
     {
+      "raw_hot": 282072,
+      "num": 215356,
+      "word": "湖南卫视跨年彩排",
+      "onboard_time": 1767148760,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279482,
+      "num": 184484,
+      "word": "8个人贷款2500万上班",
+      "onboard_time": 1767148339,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277075,
+      "num": 183563,
+      "word": "俄末日电台突然播放天鹅湖",
+      "onboard_time": 1767148219,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258074,
       "num": 258074,
       "word": "浙江卫视跨年晚会节目单",
       "onboard_time": 1767146960,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256774,
+      "num": 182783,
+      "word": "王俊凯 Beautiful",
+      "onboard_time": 1767150140,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -139,12 +195,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 202706,
-      "num": 202706,
-      "word": "看了6集猜对0个凶手",
-      "onboard_time": 1767147379,
-      "rank": 7,
+      "raw_hot": 223473,
+      "num": 223473,
+      "word": "福建海警要求台方用中文交流",
+      "onboard_time": 1767141981,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 217906,
+      "num": 145803,
+      "word": "王启年和二皇子成兄弟了",
+      "onboard_time": 1767152422,
+      "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210964,
+      "num": 145539,
+      "word": "你是我26岁唯一的新娘",
+      "onboard_time": 1767152480,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209297,
+      "num": 182170,
+      "word": "寻秦记上映",
+      "onboard_time": 1767148219,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 197850,
@@ -161,6 +241,14 @@
       "onboard_time": 1767143360,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192368,
+      "num": 145283,
+      "word": "男子感冒去小诊所输液后确诊尿毒症",
+      "onboard_time": 1767147499,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191328,
@@ -188,11 +276,19 @@
     },
     {
       "raw_hot": 186212,
-      "num": 158831,
+      "num": 180244,
       "word": "家长带着幼儿在马路上值护学岗",
       "onboard_time": 1767145878,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186054,
+      "num": 186054,
+      "word": "跨年文案",
+      "onboard_time": 1767151581,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 184468,
@@ -200,14 +296,6 @@
       "word": "增值税",
       "onboard_time": 1767097822,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177415,
-      "num": 135935,
-      "word": "男子感冒去小诊所输液后确诊尿毒症",
-      "onboard_time": 1767147499,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -259,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149319,
+      "num": 185405,
+      "word": "一人之下6魔性片尾曲回归",
+      "onboard_time": 1767152059,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147337,
       "num": 80076,
       "word": "张纪中妻子自曝闭黑关四天四夜",
@@ -267,12 +363,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139545,
-      "num": 139545,
-      "word": "东部战区短视频夺权杀招",
-      "onboard_time": 1767147799,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 146110,
+      "num": 146110,
+      "word": "你少干一点同事就多干一点",
+      "onboard_time": 1767152000,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145218,
+      "num": 145218,
+      "word": "R1SE丑杂志怎么又被翻出来了",
+      "onboard_time": 1767151639,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141865,
+      "num": 170612,
+      "word": "WTT发布孙颖莎2025年度总结",
+      "onboard_time": 1767152300,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 134969,
@@ -339,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118831,
+      "num": 118831,
+      "word": "汪苏泷RomancePark限定返场",
+      "onboard_time": 1767150500,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117718,
       "num": 158129,
       "word": "玉茗茶骨",
@@ -379,6 +499,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109053,
+      "num": 109053,
+      "word": "肯尼迪35岁孙女因病去世",
+      "onboard_time": 1767153020,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108356,
+      "num": 108356,
+      "word": "张钧甯 中年大叔的绝对偶像",
+      "onboard_time": 1767151221,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107785,
       "num": 107785,
       "word": "新闻联播播出挂载实弹轰6K",
@@ -411,12 +547,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103269,
+      "num": 103269,
+      "word": "汪苏泷新花车",
+      "onboard_time": 1767152239,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 102200,
+      "num": 102200,
+      "word": "第一次见用儿童手表联系的男女主",
+      "onboard_time": 1767149120,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99160,
+      "num": 99160,
+      "word": "白鹿开口梦回临江仙",
+      "onboard_time": 1767151459,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98214,
       "num": 98214,
       "word": "元旦天气",
       "onboard_time": 1767148038,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97574,
+      "num": 97574,
+      "word": "中方回应欧盟涉台声明",
+      "onboard_time": 1767149058,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97118,
@@ -435,12 +603,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93070,
+      "num": 93070,
+      "word": "跨年吃12个什么",
+      "onboard_time": 1767150560,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92310,
       "num": 158811,
       "word": "人一幸福就不会频繁更新社交软件",
       "onboard_time": 1767136997,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91591,
+      "num": 120345,
+      "word": "台军对解放军演习只能瞪眼看",
+      "onboard_time": 1767151401,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 91058,
+      "num": 91058,
+      "word": "林依轮夫妻跨年vlog发了刘宇宁",
+      "onboard_time": 1767152181,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91047,
+      "num": 91047,
+      "word": "2025IVL",
+      "onboard_time": 1767152900,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90497,
+      "num": 90497,
+      "word": "陈熠樊振东合照",
+      "onboard_time": 1767150079,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 90158,
@@ -465,6 +673,14 @@
       "onboard_time": 1767145700,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88265,
+      "num": 88265,
+      "word": "毛利兰票选为顶流女主角",
+      "onboard_time": 1767152660,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 87447,
@@ -499,6 +715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85693,
+      "num": 85693,
+      "word": "娜扎你要这么演我可来劲了",
+      "onboard_time": 1767151160,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85361,
       "num": 85361,
       "word": "宋威龙张婧仪牵手舞台",
@@ -523,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81545,
+      "num": 81545,
+      "word": "真的建议工作时不要幼化自己",
+      "onboard_time": 1767152239,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81515,
       "num": 81515,
       "word": "樊振东人形绅士礼仪教科书",
@@ -539,12 +771,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80267,
+      "num": 80267,
+      "word": "性格有缺陷影响人生发展的真实感受",
+      "onboard_time": 1767152900,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80178,
       "num": 80178,
       "word": "黄子韬 刘耀文比徐艺洋还难哄",
       "onboard_time": 1767099502,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79118,
+      "num": 79118,
+      "word": "一个能让你心甘情愿早睡的方法",
+      "onboard_time": 1767150500,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78975,
+      "num": 78975,
+      "word": "英法加拿大等十国联合声明",
+      "onboard_time": 1767152840,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77968,
@@ -899,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43017,
-      "num": 86060,
-      "word": "俄末日电台突然播放天鹅湖",
-      "onboard_time": 1767148219,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42059,
       "num": 80078,
       "word": "小米明年或推4款新车",
@@ -1009,6 +1257,14 @@
       "onboard_time": 1767107181,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 33518,
+      "num": 184889,
+      "word": "育儿补贴下周一全面开放申领",
+      "onboard_time": 1767152360,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33505,
@@ -1115,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18956,
+      "num": 636619,
+      "word": "一项项突破见证奋进中国",
+      "onboard_time": 1767152119,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18839,
       "num": 40759,
       "word": "瓦瓦",
@@ -1214,6 +1478,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对农民的特殊情感#"
+    },
+    {
+      "word": "#新年贺词里的这些话语温暖人心#"
     }
   ]
 }

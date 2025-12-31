@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 10:31:42
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/31 11:50:53
 </p>
 </blockquote>
 <p>
@@ -6503,6 +6503,12 @@ epic 免费游戏（热度：598855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%86%9C%E6%B0%91%E7%9A%84%E7%89%B9%E6%AE%8A%E6%83%85%E6%84%9F%23%23" target="weibo">
 #习近平对农民的特殊情感#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%AF%AD%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83%23%23" target="weibo">
+#新年贺词里的这些话语温暖人心#
 </a>
 </li>
 
