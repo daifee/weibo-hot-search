@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767180401655,
+  "endTime": 1767181194987,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -433,6 +433,14 @@
       "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15870585,
+      "num": 15870585,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 15869744,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12710328,
+      "num": 12710328,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12629127,
       "num": 12629127,
       "word": "建议岳云鹏别上春晚",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1744769062,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10484899,
-      "num": 10484899,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 10433504,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740401241,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7048374,
-      "num": 8298374,
-      "word": "台湾附近5.9级左右地震",
-      "onboard_time": 1749640463,
-      "rank": 0,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
