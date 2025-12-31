@@ -1,0 +1,410 @@
+{
+  "runTime": 1767209016530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125685,
+        "num": 161042,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34284,
+        "num": 160871,
+        "word": "祖国统一历史大势不可阻挡",
+        "onboard_time": 1767192268,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11222,
+        "num": 160066,
+        "word": "2026新年贺词金句",
+        "onboard_time": 1767181942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537888,
+        "num": 159860,
+        "word": "新年快乐",
+        "onboard_time": 1767195447,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96132,
+        "num": 159035,
+        "word": "专属天使 听哭了",
+        "onboard_time": 1767196045,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89448,
+        "num": 158593,
+        "word": "跨年收视率",
+        "onboard_time": 1767192568,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87652,
+        "num": 157697,
+        "word": "跨年",
+        "onboard_time": 1767193410,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57601,
+        "num": 157118,
+        "word": "江苏卫视 全开麦",
+        "onboard_time": 1767184705,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48275,
+        "num": 156414,
+        "word": "上海迪士尼跨年烟花",
+        "onboard_time": 1767198086,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 13943,
+        "num": 156069,
+        "word": "一起为梦想奋斗",
+        "onboard_time": 1767195926,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207419,
+        "num": 155243,
+        "word": "不染 难唱",
+        "onboard_time": 1767195686,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108393,
+        "num": 154841,
+        "word": "王者荣耀",
+        "onboard_time": 1767198386,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93095,
+        "num": 154482,
+        "word": "不要回头",
+        "onboard_time": 1767199644,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72503,
+        "num": 153635,
+        "word": "马航MH370搜寻船抵达目标海域",
+        "onboard_time": 1767189751,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49768,
+        "num": 153137,
+        "word": "江苏卫视 听爽了",
+        "onboard_time": 1767193168,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48731,
+        "num": 152762,
+        "word": "FGO",
+        "onboard_time": 1767196767,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45937,
+        "num": 152236,
+        "word": "寻秦记",
+        "onboard_time": 1767192388,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44628,
+        "num": 151586,
+        "word": "2026壁纸",
+        "onboard_time": 1767175881,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41859,
+        "num": 150878,
+        "word": "烟花",
+        "onboard_time": 1767182001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31626,
+        "num": 150396,
+        "word": "马年",
+        "onboard_time": 1767198386,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150021,
+        "num": 150021,
+        "word": "生理性喜欢的4个信号",
+        "onboard_time": 1767206057,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49488,
+        "num": 150013,
+        "word": "江苏卫视大爆",
+        "onboard_time": 1767193528,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47799,
+        "num": 150009,
+        "word": "新年快乐图片",
+        "onboard_time": 1767198625,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39112,
+        "num": 149995,
+        "word": "长期手机充电至100%会损伤电池",
+        "onboard_time": 1767176961,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36966,
+        "num": 149976,
+        "word": "种地吧",
+        "onboard_time": 1767195508,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30762,
+        "num": 149970,
+        "word": "浙江卫视 好明显的开麦",
+        "onboard_time": 1767186025,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30685,
+        "num": 149956,
+        "word": "东方卫视跨年",
+        "onboard_time": 1767180502,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30612,
+        "num": 149943,
+        "word": "跨年图片",
+        "onboard_time": 1767197907,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28457,
+        "num": 149923,
+        "word": "跨年朋友圈",
+        "onboard_time": 1767194427,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27997,
+        "num": 149915,
+        "word": "我国芯片自主研发新突破",
+        "onboard_time": 1767188665,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27882,
+        "num": 149898,
+        "word": "2026第一条微博",
+        "onboard_time": 1767198386,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26117,
+        "num": 149898,
+        "word": "湖南卫视跨年演唱会",
+        "onboard_time": 1767180262,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24872,
+        "num": 149878,
+        "word": "2026种自己得自己",
+        "onboard_time": 1767197367,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23992,
+        "num": 149861,
+        "word": "跨年照片",
+        "onboard_time": 1767198149,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23978,
+        "num": 149853,
+        "word": "跨年烟花秀",
+        "onboard_time": 1767197729,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21771,
+        "num": 149838,
+        "word": "B站跨年晚会",
+        "onboard_time": 1767180502,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20627,
+        "num": 149837,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1767179961,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20482,
+        "num": 149816,
+        "word": "心愿便利贴好甜",
+        "onboard_time": 1767195208,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18759,
+        "num": 149809,
+        "word": "两岸同胞血浓于水",
+        "onboard_time": 1767203299,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18200,
+        "num": 149795,
+        "word": "B站跨年 好看",
+        "onboard_time": 1767192507,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18118,
+        "num": 149780,
+        "word": "新年祝福",
+        "onboard_time": 1767191909,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17312,
+        "num": 149773,
+        "word": "湖南卫视你好事做尽",
+        "onboard_time": 1767193467,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17186,
+        "num": 149762,
+        "word": "悟空和哪吒风靡全球",
+        "onboard_time": 1767182124,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15491,
+        "num": 149748,
+        "word": "央视舞美 夯爆了",
+        "onboard_time": 1767196407,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13680,
+        "num": 149732,
+        "word": "上迪10岁生日庆典logo细节拉满",
+        "onboard_time": 1767193708,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 12892,
+        "num": 149716,
+        "word": "跨年晚会节目单",
+        "onboard_time": 1767170841,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12798,
+        "num": 149706,
+        "word": "2026跨年图片",
+        "onboard_time": 1767195208,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12709,
+        "num": 149692,
+        "word": "我国经济总量预计140万亿元",
+        "onboard_time": 1767182124,
+        "rank": 47,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 11632,
+        "num": 149679,
+        "word": "完美世界",
+        "onboard_time": 1767180742,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 8003,
+        "num": 149673,
+        "word": "全球首个个人机器人",
+        "onboard_time": 1767174080,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026新年贺词#"
+    }
+  }
+}
