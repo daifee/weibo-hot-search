@@ -1,0 +1,410 @@
+{
+  "runTime": 1767174405147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4876581,
+        "num": 4876581,
+        "word": "跨年晚会节目单",
+        "onboard_time": 1767170841,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246239,
+        "num": 1279719,
+        "word": "赖清德被曝用装甲车巡逻护己周全",
+        "onboard_time": 1767169340,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24550,
+        "num": 1031997,
+        "word": "2025那些直抵人心的瞬间",
+        "onboard_time": 1767170540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760262,
+        "num": 760262,
+        "word": "微博跨年明星红包",
+        "onboard_time": 1767166941,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16090,
+        "num": 704544,
+        "word": "山一程水一程逐梦向前行",
+        "onboard_time": 1767174381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672955,
+        "num": 672955,
+        "word": "抢红包",
+        "onboard_time": 1767171920,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296204,
+        "num": 634048,
+        "word": "清华大学今晚给庞众望颁奖",
+        "onboard_time": 1767171560,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177568,
+        "num": 598103,
+        "word": "全球首个个人机器人",
+        "onboard_time": 1767174080,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23156,
+        "num": 586101,
+        "word": "2025回忆存档",
+        "onboard_time": 1767172700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166706,
+        "num": 539424,
+        "word": "台独斩杀线",
+        "onboard_time": 1767161599,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510596,
+        "num": 510596,
+        "word": "红包分组",
+        "onboard_time": 1767174140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378972,
+        "num": 378972,
+        "word": "央视跨晚阵容",
+        "onboard_time": 1767174200,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333907,
+        "num": 333907,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163643,
+        "num": 333547,
+        "word": "跨年文案",
+        "onboard_time": 1767151581,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235875,
+        "num": 332948,
+        "word": "种地吧",
+        "onboard_time": 1767171081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232004,
+        "num": 332295,
+        "word": "跨年只发一个文案",
+        "onboard_time": 1767169581,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205094,
+        "num": 332006,
+        "word": "广州睡过23站小学生获发迟到券",
+        "onboard_time": 1767163339,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190488,
+        "num": 331258,
+        "word": "2026央视跨年晚会阵容官宣",
+        "onboard_time": 1767174080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30569,
+        "num": 330305,
+        "word": "入冬的快乐是蜈支洲岛给的",
+        "onboard_time": 1767172101,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21413,
+        "num": 330179,
+        "word": "给烟台的新年掌声",
+        "onboard_time": 1767171801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188756,
+        "num": 329248,
+        "word": "阿姨怎么一戴假发面相都变了",
+        "onboard_time": 1767172761,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164152,
+        "num": 328846,
+        "word": "肖战跨晚彩排照",
+        "onboard_time": 1767159022,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159121,
+        "num": 327949,
+        "word": "寻秦记",
+        "onboard_time": 1767169459,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 327288,
+        "word": "王鹤棣参加两个跨年晚会",
+        "onboard_time": 1767171801,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141001,
+        "num": 326574,
+        "word": "女子把中国烧烤摊摆到英国街头",
+        "onboard_time": 1767167239,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153966,
+        "num": 326423,
+        "word": "TFING跨年造型",
+        "onboard_time": 1767170000,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149654,
+        "num": 325845,
+        "word": "Gr对战WBG",
+        "onboard_time": 1767170361,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125903,
+        "num": 324951,
+        "word": "还珠格格入驻微博",
+        "onboard_time": 1767159259,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123411,
+        "num": 324087,
+        "word": "iPhone18Pro或实现FaceID小型化",
+        "onboard_time": 1767173420,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110923,
+        "num": 323795,
+        "word": "每年年底我就这样",
+        "onboard_time": 1767173300,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102413,
+        "num": 323239,
+        "word": "生理性喜欢是不是更难分手",
+        "onboard_time": 1767165259,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93307,
+        "num": 322210,
+        "word": "真爱属于两个真正的聪明人",
+        "onboard_time": 1767172881,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85721,
+        "num": 321971,
+        "word": "酒店针孔瓶装水带上高铁安检机报警",
+        "onboard_time": 1767166640,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84652,
+        "num": 321002,
+        "word": "九重天",
+        "onboard_time": 1767162739,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83236,
+        "num": 320402,
+        "word": "张杰谢娜时隔15年同台跨年",
+        "onboard_time": 1767165679,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81595,
+        "num": 320064,
+        "word": "跨年还是一个人",
+        "onboard_time": 1767171801,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80916,
+        "num": 319214,
+        "word": "白鹿年度总结plog",
+        "onboard_time": 1767160700,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78628,
+        "num": 318973,
+        "word": "稚晖君发布个人机器人启元Q1",
+        "onboard_time": 1767174260,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78093,
+        "num": 318226,
+        "word": "跨年烟花",
+        "onboard_time": 1767173720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72985,
+        "num": 317583,
+        "word": "张凌赫这套造型必有高人指点",
+        "onboard_time": 1767169700,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70871,
+        "num": 316993,
+        "word": "黄金",
+        "onboard_time": 1767161301,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71534,
+        "num": 316274,
+        "word": "跨年上班状态belike",
+        "onboard_time": 1767172761,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72133,
+        "num": 315815,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71877,
+        "num": 314897,
+        "word": "骄阳似我更新",
+        "onboard_time": 1767155660,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67027,
+        "num": 314601,
+        "word": "林高远参加央视跨年晚会",
+        "onboard_time": 1767172460,
+        "rank": 44,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 65644,
+        "num": 313632,
+        "word": "李在明访华团队阵容公开",
+        "onboard_time": 1767162201,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64498,
+        "num": 313284,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64137,
+        "num": 312422,
+        "word": "过年遇到亲戚就这么糊弄",
+        "onboard_time": 1767174320,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63290,
+        "num": 311852,
+        "word": "日澳等国对我军演说三道四十分虚伪",
+        "onboard_time": 1767170901,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58571,
+        "num": 311467,
+        "word": "第一次见男主受伤男二着急的",
+        "onboard_time": 1767169400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
+    }
+  }
+}

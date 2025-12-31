@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767173566791,
+  "endTime": 1767174405147,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -259,6 +259,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 4876581,
+      "num": 4876581,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4854084,
       "num": 1398265,
       "word": "杭州震感",
@@ -313,14 +321,6 @@
       "onboard_time": 1765018101,
       "rank": 0,
       "category": "民生新闻,综艺"
-    },
-    {
-      "raw_hot": 3986048,
-      "num": 3986048,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 3913198,
@@ -10435,6 +10435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510596,
+      "num": 510596,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509901,
       "num": 686070,
       "word": "日本被曝昼夜赶建军事基地",
@@ -16547,6 +16555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378972,
+      "num": 378972,
+      "word": "央视跨晚阵容",
+      "onboard_time": 1767174200,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378556,
       "num": 231809,
       "word": "以前审美vs现在审美",
@@ -19076,7 +19092,7 @@
     },
     {
       "raw_hot": 333292,
-      "num": 1208802,
+      "num": 1279719,
       "word": "赖清德被曝用装甲车巡逻护己周全",
       "onboard_time": 1767169340,
       "rank": 4,
@@ -21721,6 +21737,14 @@
       "onboard_time": 1767151581,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296204,
+      "num": 1088173,
+      "word": "清华大学今晚给庞众望颁奖",
+      "onboard_time": 1767171560,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 296032,
@@ -27483,6 +27507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232004,
+      "num": 1073089,
+      "word": "跨年只发一个文案",
+      "onboard_time": 1767169581,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231928,
       "num": 203537,
       "word": "R1SE官博发了12个闪电",
@@ -28609,14 +28641,6 @@
       "onboard_time": 1766573062,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 221403,
-      "num": 1073089,
-      "word": "跨年只发一个文案",
-      "onboard_time": 1767169581,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 221387,
@@ -34915,6 +34939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190488,
+      "num": 331258,
+      "word": "2026央视跨年晚会阵容官宣",
+      "onboard_time": 1767174080,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190487,
       "num": 236822,
       "word": "白银",
@@ -35513,6 +35545,14 @@
       "onboard_time": 1765437261,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 1029388,
+      "word": "阿姨怎么一戴假发面相都变了",
+      "onboard_time": 1767172761,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 188741,
@@ -36561,14 +36601,6 @@
       "onboard_time": 1765721844,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185128,
-      "num": 1088173,
-      "word": "清华大学今晚给庞众望颁奖",
-      "onboard_time": 1767171560,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 185088,
@@ -38457,6 +38489,14 @@
       "onboard_time": 1766375542,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177568,
+      "num": 598103,
+      "word": "全球首个个人机器人",
+      "onboard_time": 1767174080,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 177567,
@@ -46667,6 +46707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149654,
+      "num": 1065365,
+      "word": "Gr对战WBG",
+      "onboard_time": 1767170361,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "张呈发1600字长文",
@@ -49993,14 +50041,6 @@
       "onboard_time": 1766313263,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140958,
-      "num": 1065365,
-      "word": "Gr对战WBG",
-      "onboard_time": 1767170361,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 140949,
@@ -54785,14 +54825,6 @@
       "onboard_time": 1766054361,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130979,
-      "num": 1029388,
-      "word": "阿姨怎么一戴假发面相都变了",
-      "onboard_time": 1767172761,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 130967,
@@ -66323,6 +66355,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 110923,
+      "num": 1002322,
+      "word": "每年年底我就这样",
+      "onboard_time": 1767173300,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110915,
       "num": 110915,
       "word": "iG对战TES",
@@ -77459,6 +77499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93307,
+      "num": 985497,
+      "word": "真爱属于两个真正的聪明人",
+      "onboard_time": 1767172881,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93274,
       "num": 93274,
       "word": "樊振东率队2025完美收官",
@@ -84123,6 +84171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81595,
+      "num": 1019782,
+      "word": "跨年还是一个人",
+      "onboard_time": 1767171801,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81592,
       "num": 86854,
       "word": "浙江仿佛回到秋天",
@@ -85131,6 +85187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78628,
+      "num": 318973,
+      "word": "稚晖君发布个人机器人启元Q1",
+      "onboard_time": 1767174260,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78584,
       "num": 86027,
       "word": "白敬亭才是真正的难哄",
@@ -85304,6 +85368,14 @@
       "word": "今年流感为何比往年流行强度大",
       "onboard_time": 1764756741,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78093,
+      "num": 318226,
+      "word": "跨年烟花",
+      "onboard_time": 1767173720,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -85689,14 +85761,6 @@
       "onboard_time": 1764507263,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77255,
-      "num": 1019782,
-      "word": "跨年还是一个人",
-      "onboard_time": 1767171801,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 77222,
@@ -89611,14 +89675,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 65254,
-      "num": 1002322,
-      "word": "每年年底我就这样",
-      "onboard_time": 1767173300,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65245,
       "num": 391381,
       "word": "基辅遭俄军大规模空袭",
@@ -89985,6 +90041,14 @@
       "onboard_time": 1765851441,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 64137,
+      "num": 312422,
+      "word": "过年遇到亲戚就这么糊弄",
+      "onboard_time": 1767174320,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 64016,
@@ -92513,14 +92577,6 @@
       "onboard_time": 1764627855,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55894,
-      "num": 985497,
-      "word": "真爱属于两个真正的聪明人",
-      "onboard_time": 1767172881,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 55879,
@@ -107849,6 +107905,14 @@
       "onboard_time": 1766758343,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16090,
+      "num": 704544,
+      "word": "山一程水一程逐梦向前行",
+      "onboard_time": 1767174381,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16067,
