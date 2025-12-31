@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767189076518,
+  "endTime": 1767191350552,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -2395,6 +2395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309484,
+      "num": 1828827,
+      "word": "我国芯片自主研发新突破",
+      "onboard_time": 1767188665,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 307904,
       "num": 307904,
       "word": "独居离世女子遗产预计近300万",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1766835259,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295252,
+      "num": 4579557,
+      "word": "烟花",
+      "onboard_time": 1767182001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294908,
@@ -3059,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251036,
+      "num": 4872779,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250348,
       "num": 250348,
       "word": "逍遥",
@@ -3233,14 +3257,6 @@
       "onboard_time": 1766991860,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 235985,
-      "num": 4872779,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 235914,
@@ -3561,14 +3577,6 @@
       "onboard_time": 1767019647,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 215470,
-      "num": 4579557,
-      "word": "烟花",
-      "onboard_time": 1767182001,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214896,
@@ -5243,6 +5251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155701,
+      "num": 668434,
+      "word": "湖南卫视 热闹",
+      "onboard_time": 1767188910,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154940,
       "num": 154940,
       "word": "周洁琼跳了veryveryvery",
@@ -6668,7 +6684,7 @@
     },
     {
       "raw_hot": 125132,
-      "num": 686255,
+      "num": 1304169,
       "word": "哪吒官微说不负期许",
       "onboard_time": 1767186985,
       "rank": 21,
@@ -9299,6 +9315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94668,
+      "num": 681876,
+      "word": "iPhone也有新年模式",
+      "onboard_time": 1767187587,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94465,
       "num": 94465,
       "word": "肖战连包5场支持匿杀",
@@ -10131,6 +10155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86277,
+      "num": 421245,
+      "word": "王楚钦2026新年祝福",
+      "onboard_time": 1767189148,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86254,
       "num": 86254,
       "word": "孙颖莎比耶",
@@ -10819,14 +10851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79670,
-      "num": 681876,
-      "word": "iPhone也有新年模式",
-      "onboard_time": 1767187587,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 79579,
       "num": 507267,
       "word": "长辈无用的节俭反而最费钱",
@@ -11091,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75527,
+      "num": 419958,
+      "word": "马航MH370搜寻船抵达目标海域",
+      "onboard_time": 1767189751,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75444,
       "num": 121152,
       "word": "王橹杰发博",
@@ -11273,6 +11305,14 @@
       "onboard_time": 1766971699,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72527,
+      "num": 580015,
+      "word": "2026转发这个小目标",
+      "onboard_time": 1767190589,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72481,
@@ -12073,14 +12113,6 @@
       "onboard_time": 1766933902,
       "rank": 49,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 56638,
-      "num": 668434,
-      "word": "湖南卫视 热闹",
-      "onboard_time": 1767188910,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 56150,
@@ -13603,14 +13635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29811,
-      "num": 1828827,
-      "word": "我国芯片自主研发新突破",
-      "onboard_time": 1767188665,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29680,
       "num": 548927,
       "word": "2025我们的家国记忆",
@@ -13995,6 +14019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23511,
+      "num": 427051,
+      "word": "千架无人机万发烟花点亮2026",
+      "onboard_time": 1767190229,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23259,
       "num": 51746,
       "word": "王一博探索新境",
@@ -14369,6 +14401,14 @@
       "onboard_time": 1766949794,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15673,
+      "num": 420811,
+      "word": "南湘在千问泼我一脸钱",
+      "onboard_time": 1767190712,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 15620,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767189076518,
+  "endTime": 1767191350552,
   "band_list": [
     {
       "raw_hot": 15870585,
@@ -443,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 309484,
+      "num": 1828827,
+      "word": "我国芯片自主研发新突破",
+      "onboard_time": 1767188665,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 306000,
       "num": 86127,
       "word": "迅猛龙直播掉美颜",
@@ -505,6 +513,14 @@
       "onboard_time": 1767151581,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295252,
+      "num": 4579557,
+      "word": "烟花",
+      "onboard_time": 1767182001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291635,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251036,
+      "num": 4872779,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246540,
       "num": 769379,
       "word": "印度和乌克兰吵起来了",
@@ -697,14 +721,6 @@
       "onboard_time": 1767153020,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235985,
-      "num": 4872779,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 235700,
@@ -785,14 +801,6 @@
       "onboard_time": 1767152239,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215470,
-      "num": 4579557,
-      "word": "烟花",
-      "onboard_time": 1767182001,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213555,
@@ -1083,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155701,
+      "num": 668434,
+      "word": "湖南卫视 热闹",
+      "onboard_time": 1767188910,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150088,
       "num": 158880,
       "word": "跨年夜朋友圈这样发",
@@ -1316,7 +1332,7 @@
     },
     {
       "raw_hot": 125132,
-      "num": 686255,
+      "num": 1304169,
       "word": "哪吒官微说不负期许",
       "onboard_time": 1767186985,
       "rank": 21,
@@ -1779,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94668,
+      "num": 681876,
+      "word": "iPhone也有新年模式",
+      "onboard_time": 1767187587,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93627,
       "num": 197823,
       "word": "ivl",
@@ -2059,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86277,
+      "num": 421245,
+      "word": "王楚钦2026新年祝福",
+      "onboard_time": 1767189148,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86254,
       "num": 86254,
       "word": "孙颖莎比耶",
@@ -2243,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79670,
-      "num": 681876,
-      "word": "iPhone也有新年模式",
-      "onboard_time": 1767187587,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 79579,
       "num": 507267,
       "word": "长辈无用的节俭反而最费钱",
@@ -2395,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75527,
+      "num": 419958,
+      "word": "马航MH370搜寻船抵达目标海域",
+      "onboard_time": 1767189751,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74899,
       "num": 198574,
       "word": "多场跨年烟花表演宣布取消",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1767097222,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72527,
+      "num": 580015,
+      "word": "2026转发这个小目标",
+      "onboard_time": 1767190589,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72054,
@@ -2769,14 +2809,6 @@
       "onboard_time": 1767173420,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 56638,
-      "num": 668434,
-      "word": "湖南卫视 热闹",
-      "onboard_time": 1767188910,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 56056,
@@ -3179,14 +3211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29811,
-      "num": 1828827,
-      "word": "我国芯片自主研发新突破",
-      "onboard_time": 1767188665,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29406,
       "num": 80010,
       "word": "朱辰杰举办婚礼",
@@ -3273,6 +3297,14 @@
       "onboard_time": 1767116417,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23511,
+      "num": 427051,
+      "word": "千架无人机万发烟花点亮2026",
+      "onboard_time": 1767190229,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 23225,
@@ -3401,6 +3433,14 @@
       "onboard_time": 1767174381,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15673,
+      "num": 420811,
+      "word": "南湘在千问泼我一脸钱",
+      "onboard_time": 1767190712,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 15620,
