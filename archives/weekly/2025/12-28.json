@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767216386572,
+  "endTime": 1767217249248,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -14009,6 +14009,14 @@
       "onboard_time": 1767136938,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28202,
+      "num": 131525,
+      "word": "哪吒",
+      "onboard_time": 1767216553,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 27940,
