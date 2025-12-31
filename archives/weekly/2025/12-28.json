@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767178038325,
+  "endTime": 1767180401655,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9614925,
-      "num": 9614925,
+      "raw_hot": 10484899,
+      "num": 10484899,
       "word": "跨年晚会节目单",
       "onboard_time": 1767170841,
       "rank": 5,
@@ -41,6 +41,14 @@
       "onboard_time": 1766848649,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 3494378,
+      "num": 3494378,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2919800,
@@ -1187,6 +1195,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 469596,
+      "num": 502817,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1767110601,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462593,
       "num": 1066687,
       "word": "英法加拿大等十国联合声明",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1767138379,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 445050,
-      "num": 502817,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1767110601,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 444971,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1766936480,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421621,
+      "num": 210392,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1767179961,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 421053,
@@ -2659,6 +2675,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 274988,
+      "num": 524076,
+      "word": "红白歌会",
+      "onboard_time": 1767177262,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273544,
       "num": 252516,
       "word": "天王杯",
@@ -3339,6 +3363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219454,
+      "num": 528710,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1767174802,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219152,
       "num": 206402,
       "word": "台北摇晃近1分钟",
@@ -3457,6 +3489,22 @@
       "onboard_time": 1767105202,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 210863,
+      "num": 518492,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210148,
+      "num": 210148,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1767025460,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210132,
@@ -3947,14 +3995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190230,
-      "num": 745414,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 189713,
       "num": 171104,
       "word": "相机才是iPhone里最贵的APP",
@@ -4065,6 +4105,14 @@
       "onboard_time": 1767089540,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187398,
+      "num": 208997,
+      "word": "北京卫视跨年",
+      "onboard_time": 1767180021,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 187254,
@@ -4321,6 +4369,14 @@
       "onboard_time": 1767056122,
       "rank": 6,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 177164,
+      "num": 209164,
+      "word": "MRC对战狼队",
+      "onboard_time": 1767178881,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 177073,
@@ -4625,14 +4681,6 @@
       "onboard_time": 1766993840,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167995,
-      "num": 528710,
-      "word": "东方卫视跨年节目单",
-      "onboard_time": 1767174802,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 167551,
@@ -5755,14 +5803,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 138917,
-      "num": 524076,
-      "word": "红白歌会",
-      "onboard_time": 1767177262,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138875,
       "num": 158306,
       "word": "复联5第二支预告",
@@ -5913,6 +5953,14 @@
       "onboard_time": 1767087080,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136219,
+      "num": 210812,
+      "word": "新年贺词直播",
+      "onboard_time": 1767178821,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136191,
@@ -7267,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114337,
+      "num": 208929,
+      "word": "在家跨年",
+      "onboard_time": 1767178581,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114336,
       "num": 99627,
       "word": "张若昀新剧妈妈真是她",
@@ -7424,14 +7480,6 @@
       "word": "人不能做长期紧张感工作",
       "onboard_time": 1766897661,
       "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 112579,
-      "num": 518492,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
       "category": "情感"
     },
     {
@@ -7947,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105841,
+      "num": 1158684,
+      "word": "新年贺词点赞电影哪吒",
+      "onboard_time": 1767179301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "被误解的鸡肉",
@@ -8131,6 +8187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103544,
+      "num": 208903,
+      "word": "第一次从两只猫身上看出血缘关系",
+      "onboard_time": 1767178760,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103407,
       "num": 103407,
       "word": "王俊凯忙内时期",
@@ -8289,6 +8353,14 @@
       "onboard_time": 1766982922,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101615,
+      "num": 892466,
+      "word": "我国5年历程极不寻常",
+      "onboard_time": 1767179542,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101534,
@@ -8865,6 +8937,14 @@
       "onboard_time": 1766915542,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96598,
+      "num": 208878,
+      "word": "今天全班没作业 笑了就作废",
+      "onboard_time": 1767179301,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 96548,
@@ -10339,6 +10419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82290,
+      "num": 253860,
+      "word": "大家铸就了欣欣向荣的中国",
+      "onboard_time": 1767179421,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82228,
       "num": 142888,
       "word": "KPL春季赛",
@@ -10667,6 +10755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77751,
+      "num": 415300,
+      "word": "中国始终站在历史正确一边",
+      "onboard_time": 1767179840,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77645,
       "num": 77645,
       "word": "福建人被台湾地震吓麻了",
@@ -10793,6 +10889,14 @@
       "onboard_time": 1766981542,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74736,
+      "num": 208792,
+      "word": "跨年 打不到车",
+      "onboard_time": 1767178941,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74572,
@@ -11107,14 +11211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69318,
-      "num": 156592,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1767025460,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69282,
       "num": 69282,
       "word": "马斯克评论宇树机器人测试视频",
@@ -11185,6 +11281,14 @@
       "onboard_time": 1766971519,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 67035,
+      "num": 521291,
+      "word": "半个娱乐圈都开始卷健康了",
+      "onboard_time": 1767175761,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 66830,
@@ -11321,6 +11425,14 @@
       "onboard_time": 1766898680,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63777,
+      "num": 208744,
+      "word": "跨年吃葡萄",
+      "onboard_time": 1767180142,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 63536,
@@ -11475,6 +11587,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 60422,
+      "num": 208719,
+      "word": "当你不想上班而身边有一只小鸟时",
+      "onboard_time": 1767179602,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60316,
       "num": 93533,
       "word": "罚罪2 李云龙和他的三个意大利炮",
@@ -11523,6 +11643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59637,
+      "num": 208713,
+      "word": "老己2025杀青了",
+      "onboard_time": 1767179780,
+      "rank": 47,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 59617,
       "num": 158418,
       "word": "何小鹏开特斯拉点麦当劳失败",
@@ -11536,6 +11664,14 @@
       "word": "现在很多实体商场生意差",
       "onboard_time": 1766964618,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59510,
+      "num": 208696,
+      "word": "跨年 堵车",
+      "onboard_time": 1767179722,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -12121,14 +12257,6 @@
       "onboard_time": 1767144140,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47181,
-      "num": 521291,
-      "word": "半个娱乐圈都开始卷健康了",
-      "onboard_time": 1767175761,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 46820,
@@ -13443,6 +13571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25003,
+      "num": 500738,
+      "word": "谢淮安飞猪的彩蛋把我看哭了",
+      "onboard_time": 1767177381,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24697,
       "num": 315728,
       "word": "酷滕眼里的天放长得五花八们",
@@ -13883,14 +14019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16632,
-      "num": 500738,
-      "word": "谢淮安飞猪的彩蛋把我看哭了",
-      "onboard_time": 1767177381,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16243,
       "num": 162783,
       "word": "博主下架疑江西博物馆展品调包视频",
@@ -14231,6 +14359,9 @@
     },
     {
       "word": "#新年贺词里的这些话暖心又提气#"
+    },
+    {
+      "word": "#2026新年贺词#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767178038325,
+  "endTime": 1767180401655,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -1291,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10484899,
+      "num": 10484899,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10433504,
       "num": 10433504,
       "word": "高考英语",
@@ -1544,14 +1552,6 @@
       "word": "单依纯王力宏 好听",
       "onboard_time": 1754657483,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 9614925,
-      "num": 9614925,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
       "category": "综艺"
     },
     {

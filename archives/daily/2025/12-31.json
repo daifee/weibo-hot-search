@@ -1,14 +1,22 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767178038325,
+  "endTime": 1767180401655,
   "band_list": [
     {
-      "raw_hot": 9614925,
-      "num": 9614925,
+      "raw_hot": 10484899,
+      "num": 10484899,
       "word": "跨年晚会节目单",
       "onboard_time": 1767170841,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3494378,
+      "num": 3494378,
+      "word": "新年贺词",
+      "onboard_time": 1767177980,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2919800,
@@ -139,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 469596,
+      "num": 502817,
+      "word": "湖南卫视跨年演唱会",
+      "onboard_time": 1767110601,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462593,
       "num": 1066687,
       "word": "英法加拿大等十国联合声明",
@@ -163,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445050,
-      "num": 502817,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1767110601,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439059,
       "num": 161220,
       "word": "邓超帅成这样孙俪负全责",
@@ -185,6 +193,14 @@
       "onboard_time": 1767153379,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 421621,
+      "num": 210392,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1767179961,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 420665,
@@ -427,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274988,
+      "num": 524076,
+      "word": "红白歌会",
+      "onboard_time": 1767177262,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268223,
       "num": 216994,
       "word": "第一次见国产剧一具尸体十个现场",
@@ -595,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219454,
+      "num": 528710,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1767174802,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218560,
       "num": 218560,
       "word": "阴阳师",
@@ -625,6 +657,22 @@
       "onboard_time": 1767159500,
       "rank": 22,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 210863,
+      "num": 518492,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210148,
+      "num": 210148,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1767179961,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 209297,
@@ -747,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190230,
-      "num": 745414,
-      "word": "新年贺词",
-      "onboard_time": 1767177980,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 189620,
       "num": 201453,
       "word": "骄阳似我跨年邀请函",
@@ -779,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187398,
+      "num": 208997,
+      "word": "北京卫视跨年",
+      "onboard_time": 1767180021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186558,
       "num": 153213,
       "word": "林屿森 林医生",
@@ -801,6 +849,14 @@
       "onboard_time": 1767097822,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177164,
+      "num": 209164,
+      "word": "MRC对战狼队",
+      "onboard_time": 1767178881,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 177073,
@@ -841,14 +897,6 @@
       "onboard_time": 1767092841,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167995,
-      "num": 528710,
-      "word": "东方卫视跨年节目单",
-      "onboard_time": 1767174802,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 167306,
@@ -995,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138917,
-      "num": 524076,
-      "word": "红白歌会",
-      "onboard_time": 1767177262,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137538,
       "num": 1062958,
       "word": "林高远参加央视跨年晚会",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1767153200,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136219,
+      "num": 210812,
+      "word": "新年贺词直播",
+      "onboard_time": 1767178821,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134969,
@@ -1235,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114337,
+      "num": 208929,
+      "word": "在家跨年",
+      "onboard_time": 1767178581,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113265,
       "num": 198400,
       "word": "只有养猫后才懂的照片",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1767098601,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112579,
-      "num": 518492,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 112161,
@@ -1307,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105841,
+      "num": 1158684,
+      "word": "新年贺词点赞电影哪吒",
+      "onboard_time": 1767179301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105294,
       "num": 517607,
       "word": "A股2025年十大牛股",
@@ -1355,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103544,
+      "num": 208903,
+      "word": "第一次从两只猫身上看出血缘关系",
+      "onboard_time": 1767178760,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103269,
       "num": 103269,
       "word": "汪苏泷新花车",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1767149120,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101615,
+      "num": 892466,
+      "word": "我国5年历程极不寻常",
+      "onboard_time": 1767179542,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100213,
@@ -1449,6 +1521,14 @@
       "onboard_time": 1767108081,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96598,
+      "num": 208878,
+      "word": "今天全班没作业 笑了就作废",
+      "onboard_time": 1767179301,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 96548,
@@ -1875,6 +1955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82290,
+      "num": 253860,
+      "word": "大家铸就了欣欣向荣的中国",
+      "onboard_time": 1767179421,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81515,
       "num": 81515,
       "word": "樊振东人形绅士礼仪教科书",
@@ -1987,6 +2075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77751,
+      "num": 415300,
+      "word": "中国始终站在历史正确一边",
+      "onboard_time": 1767179840,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77023,
       "num": 158487,
       "word": "解放军演习高清大图",
@@ -2056,6 +2152,14 @@
       "word": "多场跨年烟花表演宣布取消",
       "onboard_time": 1767157400,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74736,
+      "num": 208792,
+      "word": "跨年 打不到车",
+      "onboard_time": 1767178941,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2187,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67035,
+      "num": 521291,
+      "word": "半个娱乐圈都开始卷健康了",
+      "onboard_time": 1767175761,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65781,
       "num": 74347,
       "word": "2025最后一天 抱抱老己",
@@ -2243,6 +2355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63777,
+      "num": 208744,
+      "word": "跨年吃葡萄",
+      "onboard_time": 1767180142,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63483,
       "num": 50490,
       "word": "孙颖莎现身交通大学",
@@ -2291,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60422,
+      "num": 208719,
+      "word": "当你不想上班而身边有一只小鸟时",
+      "onboard_time": 1767179602,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60303,
       "num": 74288,
       "word": "NBA常规赛",
@@ -2315,12 +2443,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59637,
+      "num": 208713,
+      "word": "老己2025杀青了",
+      "onboard_time": 1767179780,
+      "rank": 47,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 59617,
       "num": 158418,
       "word": "何小鹏开特斯拉点麦当劳失败",
       "onboard_time": 1767140901,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59510,
+      "num": 208696,
+      "word": "跨年 堵车",
+      "onboard_time": 1767179722,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58244,
@@ -2449,14 +2593,6 @@
       "onboard_time": 1767144140,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47181,
-      "num": 521291,
-      "word": "半个娱乐圈都开始卷健康了",
-      "onboard_time": 1767175761,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 46973,
@@ -2819,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25003,
+      "num": 500738,
+      "word": "谢淮安飞猪的彩蛋把我看哭了",
+      "onboard_time": 1767177381,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23225,
       "num": 206442,
       "word": "2025那些逝去的人",
@@ -2923,14 +3067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16632,
-      "num": 500738,
-      "word": "谢淮安飞猪的彩蛋把我看哭了",
-      "onboard_time": 1767177381,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16188,
       "num": 198294,
       "word": "严查套补先涨后补等违法违规行为",
@@ -3033,6 +3169,14 @@
       "onboard_time": 1767064341,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2498,
+      "num": 208993,
+      "word": "微博之夜",
+      "onboard_time": 1767069861,
+      "rank": 31,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
@@ -3047,6 +3191,9 @@
     },
     {
       "word": "#新年贺词里的这些话暖心又提气#"
+    },
+    {
+      "word": "#2026新年贺词#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1767180401655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3494378,
+        "num": 3494378,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105841,
+        "num": 1158684,
+        "word": "新年贺词点赞电影哪吒",
+        "onboard_time": 1767179301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101615,
+        "num": 892466,
+        "word": "我国5年历程极不寻常",
+        "onboard_time": 1767179542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77751,
+        "num": 415300,
+        "word": "中国始终站在历史正确一边",
+        "onboard_time": 1767179840,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82290,
+        "num": 253860,
+        "word": "大家铸就了欣欣向荣的中国",
+        "onboard_time": 1767179421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10484899,
+        "num": 10484899,
+        "word": "跨年晚会节目单",
+        "onboard_time": 1767170841,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228672,
+        "num": 228672,
+        "word": "跨年文案",
+        "onboard_time": 1767151581,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225187,
+        "num": 225187,
+        "word": "清华大学今晚给庞众望颁奖",
+        "onboard_time": 1767171560,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210863,
+        "num": 210863,
+        "word": "2026壁纸",
+        "onboard_time": 1767175881,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136219,
+        "num": 210812,
+        "word": "新年贺词直播",
+        "onboard_time": 1767178821,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 869413,
+        "num": 210712,
+        "word": "微博跨年明星红包",
+        "onboard_time": 1767166941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469596,
+        "num": 210651,
+        "word": "湖南卫视跨年演唱会",
+        "onboard_time": 1767180262,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737357,
+        "num": 210567,
+        "word": "抢红包",
+        "onboard_time": 1767171920,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435763,
+        "num": 210429,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421621,
+        "num": 210392,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1767179961,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256239,
+        "num": 210270,
+        "word": "阿姨怎么一戴假发面相都变了",
+        "onboard_time": 1767172761,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219454,
+        "num": 210229,
+        "word": "东方卫视跨年节目单",
+        "onboard_time": 1767174802,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210148,
+        "num": 210148,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1767179961,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209205,
+        "num": 209205,
+        "word": "央视跨晚阵容",
+        "onboard_time": 1767174200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489253,
+        "num": 209195,
+        "word": "红包分组",
+        "onboard_time": 1767174140,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274988,
+        "num": 209181,
+        "word": "红白歌会",
+        "onboard_time": 1767177262,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177164,
+        "num": 209164,
+        "word": "MRC对战狼队",
+        "onboard_time": 1767178881,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162008,
+        "num": 209150,
+        "word": "骄阳似我红包",
+        "onboard_time": 1767176600,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133608,
+        "num": 209133,
+        "word": "全球首个个人机器人",
+        "onboard_time": 1767174080,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128587,
+        "num": 209111,
+        "word": "长期手机充电至100%会损伤电池",
+        "onboard_time": 1767176961,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 209099,
+        "word": "2026央视跨年晚会阵容官宣",
+        "onboard_time": 1767174080,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125399,
+        "num": 209066,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123959,
+        "num": 209050,
+        "word": "赖清德被曝用装甲车巡逻护己周全",
+        "onboard_time": 1767169340,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 941925,
+        "num": 209047,
+        "word": "KSG解约子阳",
+        "onboard_time": 1767176181,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25003,
+        "num": 209027,
+        "word": "谢淮安飞猪的彩蛋把我看哭了",
+        "onboard_time": 1767177381,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187398,
+        "num": 208997,
+        "word": "北京卫视跨年",
+        "onboard_time": 1767180021,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2498,
+        "num": 208993,
+        "word": "微博之夜",
+        "onboard_time": 1767069861,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117271,
+        "num": 208961,
+        "word": "东部战区圆满完成正义使命演习",
+        "onboard_time": 1767177920,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121609,
+        "num": 208949,
+        "word": "广州睡过23站小学生获发迟到券",
+        "onboard_time": 1767163339,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 208929,
+        "word": "在家跨年",
+        "onboard_time": 1767178581,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165973,
+        "num": 208919,
+        "word": "KSG追究子阳违约责任",
+        "onboard_time": 1767176661,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103544,
+        "num": 208903,
+        "word": "第一次从两只猫身上看出血缘关系",
+        "onboard_time": 1767178760,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96598,
+        "num": 208878,
+        "word": "今天全班没作业 笑了就作废",
+        "onboard_time": 1767179301,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92341,
+        "num": 208868,
+        "word": "跨年只发一个文案",
+        "onboard_time": 1767169581,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89313,
+        "num": 208841,
+        "word": "A股2025年十大牛股",
+        "onboard_time": 1767175039,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67035,
+        "num": 208836,
+        "word": "半个娱乐圈都开始卷健康了",
+        "onboard_time": 1767175761,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134581,
+        "num": 208805,
+        "word": "种地吧",
+        "onboard_time": 1767171081,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74736,
+        "num": 208792,
+        "word": "跨年 打不到车",
+        "onboard_time": 1767178941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71815,
+        "num": 208777,
+        "word": "台独斩杀线",
+        "onboard_time": 1767161599,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64151,
+        "num": 208753,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63777,
+        "num": 208744,
+        "word": "跨年吃葡萄",
+        "onboard_time": 1767180142,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60422,
+        "num": 208719,
+        "word": "当你不想上班而身边有一只小鸟时",
+        "onboard_time": 1767179602,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59637,
+        "num": 208713,
+        "word": "老己2025杀青了",
+        "onboard_time": 1767179780,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 59510,
+        "num": 208696,
+        "word": "跨年 堵车",
+        "onboard_time": 1767179722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53110,
+        "num": 208674,
+        "word": "iPhone18Pro或实现FaceID小型化",
+        "onboard_time": 1767173420,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026新年贺词#"
+    }
+  }
+}
